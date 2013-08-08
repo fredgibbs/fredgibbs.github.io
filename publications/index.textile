@@ -1,0 +1,68 @@
+---
+layout: publications
+title: publications | fredgibbs
+---
+
+h1. Articles    
+
+* "Poisonous Properties, Bodies, and Forms in the Fifteenth Century," _Preternature_ 2.1 (2013): 19-46. %(pub-links)"project muse":preternature-muse | "blog":preternature-blog%
+
+* "Riding the Bicycle of Kuhn's _Structure_," _Historical Studies in the Natural Sciences_ 42.5 (2012): 510-513. %(pub-links)"JSTOR":kuhn-jstor | "blog":kuhn-blog%
+
+* "The Historical Value of Ephemeral Discussion of Science on the Web" in _Science &#64; Risk: Toward a National Strategy for Preserving Online Science_, (Washington, DC: Library of Congress National Digital Information Infrastructure and Preservation Program, 2012). %(pub-links)"meeting site":hos-on-web-site | "PDF":hos-on-web-pdf | "blog":hos-on-web-blog%
+
+* "Critical Discourse in the Digital Humanities," _Journal of the Digital Humanities_ 1.1 (2012). %(pub-links)"JDH":critical-discourse-jdh | "blog":critical-discourse-blog%
+
+* "The Hermeneutics of Data and Historical Writing," in Jack Dougherty and Kristen Nawrotzki (eds.), _Writing History in the Digital Age._ (Ann Arbor: University of Michigan Press, 2013) [with Trevor Owens] %(pub-links)"open access version":hermeneutics-open | "blog":hermeneutics-blog%
+
+* "A Conversation with Data: Prospecting Victorian Words and Ideas," _Victorian Studies_ 54.1 (2011) [with Dan Cohen]. %(pub-links)"project muse":victorian-muse | "blog":victorian-blog%
+
+* "New Textual Traditions From Community Transcription," _Digital Medievalist_ 7 (2011). %(pub-links)"DM":textual-traditions-dm  | "blog":textual-traditions-blog%
+
+* "Building Better Digital Humanities Tools," _Digital Humanities Quarterly_ 6.2 (2012) [with Trevor Owens]. %(pub-links)"DHQ":tools-dhq | "blog":tools-blog%
+
+
+h1. Reviews
+
+* Review of Ian Mortimer, _The Dying and the Doctors: the Medical Revolution in Seventeenth Century England_. _Journal of Social History_ 44.4 (Summer 2011): 1289-91. %(pub-links)"project muse":mortimer-muse | "blog":mortimer-blog%
+
+* Review of _Chymists and Chymistry_, ed. Anthony Grafton. _Pharmacy in History_ (September 2009). %(pub-links)"blog":chymists-blog%
+
+
+h1. Other Contributions
+
+* “Natural History,” in _Oxford Dictionary of the Middle Ages_, ed. Robert E. Bjork (Oxford: Oxford University Press, 2010).
+
+* “Poison Libels,” in _Encyclopedia of Pestilence, Pandemics, and Plagues_, ed. Joseph P. Byrne (Greenwood Press, 2008).
+
+
+
+[preternature-muse]http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/preternature/v002/2.1.gibbs.html
+[preternature-blog]../poisonous-properties-bodies-forms
+
+[kuhn-jstor]http://www.jstor.org/stable/10.1525/hsns.2012.42.5.510
+[kuhn-blog]../riding-the-bicycle-of-kuhns-structure
+
+[hos-on-web-site]http://www.digitalpreservation.gov/meetings/scienceonline_2012.html
+[hos-on-web-pdf]http://www.digitalpreservation.gov/meetings/documents/othermeetings/science-at-risk-NDIIPP-report-nov-2012.pdf
+[hos-on-web-blog]../archival-future-of-history-of-science
+
+[critical-discourse-jdh]http://journalofdigitalhumanities.org/1-1/articles/critical-discourse-in-digital-humanities-by-fred-gibbs/
+[critical-discourse-blog]../critical-discourse-in-the-digital-humanities
+
+[hermeneutics-open]http://writinghistory.trincoll.edu/data/gibbs-owens-2012-spring/
+[hermeneutics-blog]../hermeneutics-of-historical-writing
+
+[textual-traditions-dm]http://www.digitalmedievalist.org/journal/7/gibbs
+[textual-traditions-blog]../textual-traditions-from-community-transcription
+
+[victorian-muse]http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/victorian_studies/v054/54.1.gibbs.html
+[victorian-blog]../conversation-with-data
+
+[tools-dhq]http://www.digitalhumanities.org/dhq/vol/6/2/000136/000136.html
+[tools-blog]../building-better-digital-humanities-tools
+
+[mortimer-muse]http://muse.jhu.edu/journals/journal_of_social_history/summary/v044/44.4.gibbs.html
+[mortimer-blog]http://fredgibbs.net/review-of-the-dying-and-the-doctors
+
+[chymists-blog]http://fredgibbs.net/chymists-and-chymistry

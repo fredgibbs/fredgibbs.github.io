@@ -1,0 +1,463 @@
+--- 
+layout: course 
+title: Diet, Health, and Cultural Tastes
+date: 2012-04-06 23:56:31 
+categories: [course] 
+---
+
+Diet and health have always gone hand in hand, but preferred dietary regimens to restore or maintain health (along with definitions of a healthy body) have undergone constant and sometimes radical transformations. This course explores how Western medical theories and cultural contexts have come together to shape dietary fashion from antiquity to the present (or, as some would say, from Athens to Atkins).
+
+We will approach the history of food and health from both dietary and cultural points of view. From a dietary perspective, we consider how preferences for various foods, diets, and their perceived medical virtues have changed over time. From a cultural perspective, we consider the cultural forces that continually reshape how we create a relationship between food, diet, and health. How and why did certain fad diets come in and out of fashion? How have changing attitudes about the body and health shaped our choices about what constitutes healthy food?
+
+h3. Goals
+
+*   Introduce broad themes and historical trends of the relationship between diet and health
+*   Develop critical thinking skills in history of medicine
+*   Apply sensibilities gained in this course to contemporary literaure on course-related topics
+
+h3.  Expectations
+
+*   Thorough preparedness and engaged participation in most discussions
+*   5 ~400 word reading critiques AND 5 ~200 word peer critiques (1/week except for the last few weeks)
+*   2 ~750 word article/book reviews (your choice; anything relevant to diet and health is fine)
+
+h3.  Reading Reviews and Peer Critiques
+
+Most of your writing in this course will be in composing either smart reviews of reading assignments or critiques of each other's work. The class will be split into 4 groups. You will have something due on the same day each week; your assignment will alternate between reading reviews and peer critiques. Please note that the challenge here is to say something interesting in the short space, not merely to fill it with blather in order to "complete" the assignment. 
+
+The **Reading Reviews** give you a space to say or to ask something interesting about the readings. The **Peer Critiques** give you a chance to improve each other's reviews in polite but critical ways. Both of these are very difficult, but also incredibly useful skills. All reviews and critiques and book reviews will be submitted by posting them to the course website.
+
+All reading and peer critiques will be graded by me in 4 categories: Originality, Relevance, Execution, Connection to the readings. Each category gets a rating from 0-10 (best), so there are 40 possible points on each assignment. Book/article reviews and the final paper use a mutliplier to make them worth more points.
+
+h3.  Grading
+
+Ultimately, you'll be graded on your ability (as far as I can perceive it) to show facility with course material. If you have a question about your performance/grade during the semester, please ask me about it, and I will be very happy to meet with you to discuss how things are going. In general, if you make a serious effort then you will do well gradewise.
+
+**Assignments and points:**
+
+Reviews and Critiques: 10x40 = 400
+Book/article reviews: 2x40(x2) = 150
+Final Essay: 1x40(x6) = 230
+
+_NB: The funky math means that the book reviews and final essay allow bonus points for moments of genius._
+
+All told, here's how your effort contributes to your final grade:
+*   Intelligent participation (22%)
+*   Reading reviews / Peer critiques (40%)
+*   Outside book reviews (15%)
+*   Critical review essay (23%)
+
+h3.  Administrata
+
+If you are a student with a disability and you need academic accommodations, please see me and contact the Office of Disability Services at 703.993.2474 or ods.gmu.edu. All academic accommodations must be arranged through that office.
+
+Take note of these important deadlines:
+
+*   Last Day to Add (Full-Semester Course): January 29, 2013
+*   Last Day to Drop (Full-Semester Course): February 22, 2013
+*   Selective Withdrawal Period (Full-Semester Course): February 25 - March 29, 2013
+
+h3.  Reading Materials
+
+There are two required books:
+
+*   Michael Pollan, _In Defense of Food: An Eater’s Manifesto_ (Penguin Books, 2009).
+*   Hillel Schwartz, _Never Satisfied: a Cultural History of Diets, Fantasies, and Fat_ (New York: Anchor Books, 1990).
+
+All other readings are either linked to on the syllabus (in the case of some primary sources online), or will be accessible online via a Zotero library. You will get an email inviting you to join a group library that has all of the readings as PDFs.  To access the course library, go to the "Zotero website":http://zotero.org to learn more about it and then decide if you want to access the files via the Zotero website or install Zotero for yourself and automatically pull all the readings onto your computer. 
+
+If you decide to install the software, you will be given the opportunity to create an account at Zotero.org, which you must do to access the course library. It's free, and all you need to do is establish a username and password. Once you've installed Zotero and created a Zotero account, you can accept the invitation to join the group library for the course. When you do, you'll see a collection titled "food-health-cultural-tastes" under the "Group Libraries" header in the collection pane (the leftmost window in Zotero).
+
+If you get stuck, first consult the documentation at Zotero.org, which is very good, and will probably be of more help to you than I will.
+
+<div id="syllabus">
+
+<div class="schedule">
+
+h2. Schedule of Readings
+
+<div class="week">
+<div class="dateicon">
+	<p>23<span>Jan</span>
+
+</div>
+
+h2.  Course introduction and logistics
+
+*   course goals: history, medicine, and critical thinking
+*   website for syllabus, assignments, announcements, etc
+*   weekly writing assignments and critiques
+*   final projects and presentations
+*   survey of course topics
+</div>
+
+<div class="week-2">
+<div class="dateicon">
+28<span>Jan</span>
+1r
+</div>
+
+h2.  Classical Medicine and Dietetics
+
+* Ludwig Edelstein, "The Dietetics of Antiquity," in Edelstein, _Ancient Medicine: Selected Papers of Ludwig Edelstein_, eds. Owsei  Temkin and C. Lilian Temkin (Baltimore: The Johns Hopkins Press, 1967), 303-316.
+* Selections from Mark Grant (trans.), _Galen on Food and Diet_, 1-13; 14-18; 46-60; 68-83.
+
+</div>
+
+
+<div class="week-2">
+<div class="dateicon">
+30<span>Jan</span>
+3c, 4r
+</div>
+
+h2.  Herbals, simples, plant remedies
+
+*   "Foreward" (by John Scarborough) and "Introduction" to John Riddle, _Dioscorides On Pharmacy and Medicine_ (Austin: Univeristy of Texas Press), xi-xiv and xvii-xxviii.
+*   Jerry Stannard, “Alimentary and Medicinal Uses of Plants" (69-91) and Carmélia Opsomer-Halleux, "The Garden's Role in Medicine" (95-105) both in _Medieval Gardens_, ed. Elisabeth MacDougall (Washington, D.C.: Dumbarton Oaks, 1986).
+*   "Ancient Pills Found in Shipwreck Offer Rare Insight into Early Medicine"
+
+</div>
+
+<div class="week">
+<div class="dateicon">
+
+4<span>Feb</span>
+
+	1c, 2r
+</div> 
+
+h2.  Medieval Food and Diet
+
+* Massimo Montanari, _The Culture of Food_, 1-37.
+* "Regimen of Health from Salerno":http://books.google.com/books?id=FKs-AAAAYAAJ&dq=Sir+John+Harington,+The+School+of+Salernum:+Regimen+Sanitatis+Salerni&source=gbs_navlinks_s (composed 12th cen.; this English edition is from 1607), 75-156 (actual reading is about 1/3 of this total).
+</div>
+
+<div class="week">
+<div class="dateicon">
+
+6<span>Feb</span>
+
+3r, 4c
+</div>
+
+h2.  Spices
+
+*   Jean-Louis Flandrin, "Seasoning, Cooking, and Dietetics in the Late Middle Ages," 313-326.
+*   Terrance Scully, “The Sickdish in Early French Recipes,” in _Health, Disease and Healing in Medieval Culture_ (New York: St. Martin’s Press, 1992), 132–140.
+
+<!--*   Maguelonne Toussaint-Samat, “Spice at any Price” in _History of Food_, 480-545. -->
+</div>
+
+<div class="week-2">
+<div class="dateicon">
+
+11<span>Feb</span>
+
+1r, 2c
+</div>
+
+h2.  Religious Diets
+
+*   Carol Walker Bynum, _Holy Feast and Holy Fast_, 189-259 (chapters 6,7,8)
+</div>
+
+<div class="week-2">
+<div class="dateicon">
+
+13<span>Feb</span>
+
+3c, 4r
+</div>
+
+h2.  Alchemy and aqua vitae
+
+*   Stanton J. Linden, _The Alchemy Reader_, 1-23.
+*   Faye Marie Getz, “To Prolong Life and Promote Health. Baconian Alchemy and Pharmacy in the English Learned Tradition,” in _Health, Disease and Healing in Medieval Culture_, 141–151.
+*   T. Sarah Peterson, _Acquired Taste_, 15-41.
+</div>
+
+<div class="week">
+<div class="dateicon">
+
+18<span>Feb</span>
+
+1c, 2r
+</div>
+
+h2.  Early Modern Diet
+
+*   Ken Albala, _Eating Right in the Renaissance_, 48-114.
+</div>
+
+<div class="week">
+<div class="dateicon">
+
+20<span>Feb</span>
+
+3r, 4c
+</div>
+
+h2.  Distilling Health
+
+*   B. Ann Tlusty, “Water of life, water of death: The controversy over brandy and gin in early modern Augsburg,” _Central European History_ 1998 31(1-2): 1-26.
+*   Ambroise Parey, "_The Works of that famous Chirurgion..._":http://books.google.com/books?id=TzVbqmHLfGMC&dq=Ambroise+Parey,+The+Works+of+that+famous+Chirurgion&source=gbs_navlinks_s, Trans. Thomas Johnson (London: Richard Cotes and W. Dugard, 1649), 735-752 (= Book 27, "Of Distillations"). Read lightly to get a sense of the images, descriptions, and how this compares to our alchemical readings.
+</div>
+
+<div class="week-2">
+<div class="dateicon">
+
+25<span>Feb</span>
+
+1r, 2c
+</div>
+
+h2.  New Worlds, New Tastes
+
+*   Brian Cowan, "New Worlds, New Tastes: Food Fashions After the Renaissance," in _Food: The History of Taste_, ed. Paul Freedman (Berkeley: Univ. of California Press, 2007), 196-231.
+*   Rudi Matthee, "Exotic Substances: The introduction and global spread of tobacco, coffee, tea, and distilled liquor, 16th to 18th centuries,” in _Drugs and Narcotics in History_, ed. Roy Porter, 24-51.
+</div>
+
+<div class="week-2">
+<div class="dateicon">
+
+27<span>Feb</span>
+
+3c, 4r
+</div>
+
+h2.  Gastronomy and Coffee Houses
+
+*   Steve Pincus, "'Coffee Politicians Does Create': Coffee Houses and Restoration Political Culture,” _Journal of Modern History_ 67 (December, 1995): 807-834.
+*   Jean-Louise Flandrin, "From Dietetics to Gastronomy: The Liberation of the Gourmet," 418-432.
+</div>
+
+<div class="week">
+<div class="dateicon">
+
+04<span>Mar</span>
+
+1c, 2r
+</div>
+
+h2.  Chocolate
+
+*   Marcy Norton, “Conquests of Chocolate,” _Magazine of History_ 18, no. 3 (2004): 14–17.
+*   Marcy Norton, “Tasting Empire: Chocolate and the European Internalization of Mesoamerican Aesthetics,” _The American Historical Review_ 111, no. 3 (2006): 660–691.
+*   [SKIM ONLY] Teresa L. Dillinger ... [et al.] “Food for the Gods : cure for humanity? : a cultural history of the medicinal and ritual use of chocolate,” _Journal of Nutrition_ Vol. 130 (2000): 2057-2072.
+*   REVIEW ESSAY #1 DUE
+</div>
+
+<div class="week">
+<div class="dateicon">
+
+06<span>Mar</span>
+
+3r, 4c
+</div>
+
+h2.  Sugar and Empire
+
+*   NO CLASS --- HAVE A NICE BREAK! (but read these eventually; assignments still due)
+*   James Walvin, “A Taste of Empire, 1600-1800,” _History Today_ 47, no. 1 (1997): 11–16.
+*   Woodruff D. Smith, “Complications of the Commonplace; Tea, Sugar, and Imperialism,” _Journal of Interdisciplinary History_ v. 23, Autumn 1992: 259-78.
+</div>
+
+<div class="week-2">
+
+h2.  SPRING BREAK (3/11 - 3/17)
+
+</div>
+
+<div class="week">
+<div class="dateicon">
+
+18<span>Mar</span>
+
+1r, 2c
+</div>
+
+h2.  Wine
+
+*   Christopher Hoolihan, "Wine and Regimen from Hippocrates to the Renaissance," _Caduceus_ 9.1 (1993): 5-15*   Harry W. Paul, Chapter 2 from _Bacchic Medicine: Wine and Alcohol Therapies from Napoleon to the French Paradox_, 25-55.
+</div>
+
+<div class="week">
+<div class="dateicon">
+
+20<span>Mar</span>
+
+3c, 4r
+</div>
+
+h2.  Enlightened Diets
+
+*   Steven Shapin, “Trusting George Cheyne: Scientific Expertise, Common Sense, and Moral Authority in Early Eighteenth-Century Dietetic Medicine,” _Bulletin of the History of Medicine_, 77 (2003): 263-297.
+*   George Cheyne, "_An Essay on Regimen_":http://books.google.com/books?id=ezswAAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false (London, 1740), 53-62.
+*   SKIM ONLY: J. Worth Estes, "The Medical Properties of Food in the Eighteenth Century,” _Journal of the History of Medicine and Allied Sciences_, 51 (1996): 127-149.
+</div>
+
+<div class="week-2">
+<div class="dateicon">
+
+25<span>Mar</span>
+
+1c, 2r
+</div>
+
+h2.  National Diets
+
+*   T. Bickham, “Eating the Empire: Intersections of Food, Cookery and Imperialism in Eighteenth-century Britain,” </i>Past &amp; Present</i> 198, no. 1 (2008): 71–109.
+*   Rachel Laudan and Jeffrey M. Pilcher, “Chiles, chocolate and race in the New Spain,” _Eighteenth Century Life_ 23 (May 1999): 59-70.
+</div>
+
+<div class="week-2">
+<div class="dateicon">
+
+27<span>Mar</span>
+
+3r, 4c
+</div>
+
+h2.  Early American Diet
+
+*   [SKIM ONLY] Alice Ross, “Health and Diet in 19th-Century America: A Food Historian’s Point of View,” _Historical Archaeology_ 27, no. 2 (January 1, 1993): 42–56
+*   Harvey Levenstein, _Revolution at the Table: The Transformation of the American Diet_ (Berkeley: University of California Press, 2003), 44-85.
+</div>
+
+<div class="week">
+<div class="dateicon">
+
+01<span>Apr</span>
+
+1r, 2c
+</div>
+
+h2.  Fad Dieting (1/2)
+
+*   Hillel Schwartz, _Never Satisfied. A Cultural History of Diets, Fantasies, and Fat,_ 75-187.
+</div>
+
+<div class="week">
+<div class="dateicon">
+
+03<span>Apr</span>
+
+3c, 4r
+</div>
+
+h2.  Fad Dieting (2/2)
+
+*   Hillel Schwartz, _Never Satisfied. A Cultural History of Diets, Fantasies, and Fat,_ 237-339.
+</div>
+
+<div class="week-2">
+<div class="dateicon">
+
+08<span>Apr</span>
+
+1c, 2r
+</div>
+
+h2.  Vitamins
+
+*   Rima D Apple, "'They Need It Now': Science, Advertising and Vitamins, 1925-1940," _Journal of Popular Culture_ 22, no. 3 (1988): 65–83.
+*   Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” "_Century Illustrated Magazine_":http://books.google.com/books?id=2WoiAQAAIAAJ&printsec=frontcover&dq=editions:LCCN04012667&lr=#v=onepage&q&f=false 34 (May 1887): 59-74.
+*   REVIEW ESSAY #2 DUE
+</div>
+
+<div class="week-2">
+<div class="dateicon">
+
+10<span>Apr</span>
+
+3r, 4c
+</div>
+
+h2.  Engineering Food
+
+*   Mark Tester, "The dangerously polarized debate on genetic modification." _British Food Journal_ 103.11 (2001): 785-790.
+*   Alison Shaw, "‘It Just Goes against the Grain’: Public Understandings of Genetically Modified (GM) Food in the UK.” _Public Understanding of Science_ 11.3 (2002): 273-291.
+*   Ellen Messer, “Food Systems and Dietary Perspective: Are Genetically Modified Organisms the Best Way to Ensure Nutritionally Adequate Food?,” _Indiana Journal of Global Legal Studies_ 9, no. 1 (October 1, 2001): 65–90.
+</div>
+
+<div class="week">
+<div class="dateicon">
+
+15<span>Apr</span>
+
+2c
+</div>
+
+h2.  Learning to eat (1/2)
+
+*   Michael Pollan, _In Defense of Food_, 1-136.
+</div>
+
+<div class="week">
+<div class="dateicon">
+
+17<span>Apr</span>
+
+</div>
+
+h2.  Learning to eat (2/2)
+
+*   Michael Pollan, _In Defense of Food_, 139-201.
+</div>
+
+<div class="week-2">
+<div class="dateicon">
+
+22<span>Apr</span>
+
+</div>
+
+h2.  First Presentations
+
+</div>
+
+<div class="week-2">
+<div class="dateicon">
+
+24<span>Apr</span>
+
+</div>
+
+h2.  More Presentations
+
+</div>
+
+<div class="week">
+<div class="dateicon">
+
+29<span>Apr</span>
+
+</div>
+
+h2.  Still More Presentations
+
+</div>
+
+<div class="week">
+<div class="dateicon">
+
+01<span>May</span>
+
+</div>
+
+h2.  Last Presentations
+
+</div>
+
+<div class="week-2">
+<div class="dateicon">
+
+06<span>May</span>
+
+</div>
+
+h2.  Conclusions
+
+</div>
+</div>

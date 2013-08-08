@@ -1,0 +1,25 @@
+---
+layout: post
+title:  Getting Restarted in the Digital Humanities
+date:   2013-08-15 00:00:00
+categories: [post]
+status: draft
+---
+
+I imagine that most everyone reading this has already heard that this summer marks a transition for me, as I move from the incomparable Roy Rosenzweig Center for History and New Media (and the History and Art History Department) at George Mason University to the History Department of the University of New Mexico. There is one simple reason for the move: I've always wanted to become a spousal hire. Because truly open searches are always fair, unbiased, apolitical, and clearly land the best person for the job, it's weird that a flagship university would think they can build a reputable faculty by accommodating (and retaining!) arbitrary academic partnerships. Crazy. But I'm game if they are.
+
+Now I find myself in the rather awkward position of starting a new job where I'm tasked with "doing" and teaching digital history / humanities in a history department, yet having a rather uncertain idea of what that entails. Even having worked "in" the "digital humanities" (quotes not used lightly) for the last four years, my duties were largely dictated by institutional circumstances, opportunities, and requirements. Mostly my university expected me to finish a monograph on a topic that couldn't have been more analog to prove that I'm good enough for them, even though it had nothing to do with the job I was really hired to do, and would have relatively little to do with my future work there. Genius. But now that these constraints and the opportunities for collaboration inherent to being at RRCHNM, how do I continue to "do" digital history? 
+
+I had a roughly 2000 mile drive to think about this. That and a slight northerly detour for some bourbon gave me a new perspective the situation faced by students and scholars who have drunk the DH kool-aid, but aren't sure what to do after that first tipple. Despite the limits of my own DH experience, this is not a question of "getting started." My own situation aside, the question of getting started has begun to fade as graduate humanities curricula offer increasing numbers of courses as well as technical support through IT services, and constantly improving library resources and services, as well as the rate at which online resources continue to proliferate. Getting started has never been easier. Certainly it is not the pressing and necessary challenge it once was. The problem is that I had dabbled in a sandbox with cool slides and ladders and whirly bits. My new sandbox is not quite as pimped out, and not quite as full of older kids who know the ropes. So now what? This is a problem of continuing or restarting, one that I think is now far more common than the problem starting from scratch.
+
+But exactly what was I going to restart? So what does it mean to "do" digital history anyway? With comparatively few institutional requirements imposing themselves, what I do I want to do? Does using text mining techniques constitute "doing" DH? Could I just sit in my office and continue my own work as long as I'm blogging about it, or what making it sort of public in some way? But isn't it more than that, too? Perhaps some obligatory participation in the larger DH community? Annual rejections to the DH conference? Snarky tweets about analog scholarship and antiquated publishing practices? Complaining about the backwardness of scholarly societies that would rather pander to middlemen than pioneer real and necessary, if difficult, institutional change?
+
+While I've never had any desire to define Digital Humanities for the public good, I thought maybe I needed a definition for myself. Eventually I decided that  any kind of definition is less useful than a set of priorities, which also helped me to focus on exactly how it was that I could "do" digital history in the context of a new job with many degrees of freedom. It also provided a chance to formulate some of my objectives for a new job. 
+
+Most trivially, I have my own ideas I've been brewing for a few years that I can finally dig into. Text mining plague treatises. Medieval University Curricula. Premodern Plants database.  
+
+One pet peeve of the current structures is how digital projects are largely and almost solely grant driven. Not that scholarship is not, but more conventional scholarship is designed to more or less done by the end of the grant, where as digital projects are not. I want to try to avoid this problem, by focusing on local engagement for sustainable digital history projects. We'll see how it goes.
+
+Build Infrastructure slowly to serve specific objectives. There is an immediate pull toward creating centers, etc. But then so much work goes into preserving them and the infrastructure that scholarship becomes almost secondary. Utilize library to build skills across departments.
+
+Engage graduate students as immediate contributors. Namely encouraging small but meaningful scholarship. Work that advances their degree aspirations and also broadens abilities outside traditional dissertation.

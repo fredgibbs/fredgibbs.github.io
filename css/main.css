@@ -5,6 +5,9 @@
 /*****************************************************************************/
 
 /* Global Reset */
+@import url(http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700);
+@import url(http://fonts.googleapis.com/css?family=Oxygen:400,700);
+
 * {
   margin: 0;
   padding: 0;
@@ -13,26 +16,107 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
+  background-color: #FeFeFe;
+  font-size:18px;
+  font-family: 'Alegreya', serif;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-size: 100%; 
+  margin:2em 0 0 0;
+}
 
-h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
+h1 {
+  margin:0;
+  font-size: 130%;
+}
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+h2 {
+  margin:1.5em 0 .5em 0;
+  font-size: 120%;
+  border-bottom:1px solid gray;
+}
+
+h3 {
+  font-size: 110%;
+}
+
+h4 {
+  margin:0;
+  font-size: 105%;
+}
+
+
+p { margin: 0em 0 1em 0; }
+
+a {
+  text-decoration: none;
+  border-bottom:1px dotted;
+}
+
+a         { color: #f90; }
+a:hover   { color: #a00; }
+a:visited { color: #960; }
+
+.header {
+ font-family: Helvetica, Arial, sans-serif;
+ font-family: 'Oxygen', sans-serif;
+ font-size:14px;
+}
+
+.header a {
+  border:none;
+}
 
 table {
   font-size: inherit;
   font: 100%;
 }
+
+.caps {
+  text-transform: uppercase;
+  font-size: 80%;
+}
+
+.clear {
+  clear:both;
+}
+
+img {
+  padding:1em;
+}
+
+.right {
+  float:right;
+}
+
+.left {
+  float:left;
+}
+
+/*****************************************************************************/
+/*
+/* Publications
+/*
+/*****************************************************************************/
+.publications ul li {
+  line-height: 1.2em;
+  list-style-type: none;
+  margin-bottom: 1.5em;
+}
+
+.pub-links {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 80%;
+}
+
+.publications h1 {
+  border-bottom:1px dotted #666;
+  margin-bottom:.5em;
+  text-transform: uppercase;
+}
+
 
 /*****************************************************************************/
 /*
@@ -40,6 +124,7 @@ table {
 /*
 /*****************************************************************************/
 ul.posts {
+  font-family: 'Oxygen', sans-serif;
   list-style-type: none;
   margin-bottom: 2em;
 }
@@ -54,6 +139,44 @@ ul.posts span {
   font-size: 80%;
 }
 
+.hometext {
+  font-family: sans-serif;
+  font-family: 'Alegreya', serif;
+  font-size:20px; 
+  text-align:justify; 
+  line-height:1.3em;
+}
+
+.hometext a {
+  text-transform: uppercase;
+  font-size: 80%;
+  font-family: 'Oxygen', sans-serif;
+  color:#ff9900;
+  text-decoration: none;
+}
+
+.hometext p {
+  margin-bottom:1.5em;
+}
+
+.homename {
+  font-family: 'Oxygen', sans-serif;
+  font-size:64px; 
+  letter-spacing:-3px; 
+  font-weight:bold; 
+  color:#990000; 
+  margin:0px 0 4px 0;
+}
+
+.hometag {
+  font-size:15px;
+  font-family: 'Oxygen', sans-serif;
+  letter-spacing: 0px;
+  color:#666666;
+  margin: 8px 0 2em 0; 
+}
+
+
 /*****************************************************************************/
 /*
 /* Site
@@ -61,25 +184,26 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
-  font-size: 115%;
+  font-size: 100%;
   text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em;
+  width: 36em;
+  margin: 1em auto 2em;
   line-height: 1.5em;
 }
 
 .site .header a {
-  font-weight: bold;
+  font-weight: normal;
   text-decoration: none;
 }
 
 .site .header h1.title {
   display: inline-block;
+  font-weight: bold;
   margin-bottom: 2em;
 }
 
 .site .header h1.title a {
-  color: #a00;
+  color: #900;
 }
 
 .site .header h1.title a:hover {
@@ -97,12 +221,18 @@ ul.posts span {
 
 .site .meta {
   color: #aaa;
+  margin:0 0 4px 0;
+  line-height: 1em;
+  font-size: 90%;
 }
 
+
 .site .footer {
-  font-size: 80%;
+  padding: 8px 0;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 12px;
   color: #666;
-  border-top: 4px solid #eee;
+  border-top: 3px solid #eee;
   margin-top: 2em;
   overflow: hidden;
 }
@@ -126,6 +256,23 @@ ul.posts span {
   border: 0;
 }
 
+img.footer-icon {
+  height:16px;
+  vertical-align:middle;
+  padding:0;
+  margin:0; 
+}
+
+li {
+margin-bottom:.4em;  
+}
+
+li ul li {
+  color:#666666;
+  list-style: none;
+  margin-bottom:1em;
+}
+
 /*****************************************************************************/
 /*
 /* Posts
@@ -133,6 +280,14 @@ ul.posts span {
 /*****************************************************************************/
 
 /* standard */
+.post h1 {
+  margin-bottom:1em;
+}
+
+.post {
+  font-family: 'Alegreya', serif;
+}
+
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -162,4 +317,210 @@ ul.posts span {
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+blockquote {
+  color:#555;
+  width:40%;
+  border-top:1px solid #999;
+  border-bottom:1px solid #999;
+  font-style: italic;
+  padding:.5em;
+  margin:.5em;
+}
+
+blockquote.left, img.left{
+  margin-right:2em;
+}
+
+blockquote.right, img.right {
+  margin-left: 2em;
+}
+
+blockquote .full {
+width: 80%;
+border:none;
+}
+
+blockquote p {
+  padding:0;
+  margin:0;
+}
+
+.caption {
+  font-size:80%;
+  line-height: 1.2em;
+  font-family: 'Oxygen', sans-serif;
+  display:block;
+}
+
+/*****************************************************************************/
+/*
+/* Syllabus
+/*
+/*****************************************************************************/
+
+#syllabus {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+
+#syllabus a {
+border-bottom: 1px dotted #666;
+}
+
+#syllabus a:hover {
+color:#aa3333;
+}
+
+#syllabus h3 {
+text-transform: uppercase;
+font-size:120%;
+font-weight:bold;
+margin-top:1em 0 .5em 0;
+color:#880000;
+}
+
+
+#syllabus h4 {
+font-size:110%;
+font-weight:bold;
+margin-top:1em 0 0 0;
+}
+
+#syllabus p.reading {
+margin-top:0;
+}
+
+#syllabus li {
+margin:0 0 .8em 0em;
+}
+
+#syllabus li.due {
+text-transform: uppercase;
+color: #cc0000;
+font-size:120%;
+} 
+
+#syllabus ul {
+margin: .5em 0 1em 1.5em;
+line-height: 1.3em;
+}
+
+#syllabus .schedule {
+  margin-top:3em;
+  border:none;
+}
+ 
+#syllabus .schedule ul {
+list-style-type: none;
+margin-left:.1em;
+}
+
+
+#syllabus .dateicon {
+  width: 42px; height: 44px; float:left;
+  background: #fcfcfc; 
+  background: linear-gradient(top, #fcfcfc 0%,#dad8d8 100%); 
+  background: -moz-linear-gradient(top, #fcfcfc 0%, #dad8d8 100%); 
+  background: -webkit-linear-gradient(top, #fcfcfc 0%,#dad8d8 100%); 
+  border: 1px solid #d2d2d2;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+  margin-left:-68px;
+}
+
+#syllabus .dateicon p {
+  font-family: Helvetica, sans-serif; 
+  font-size: 22px; text-align: center; color: #9e9e9e;
+  margin:0;
+  padding-bottom:2px; 
+}
+
+#syllabus .dateicon p span {
+
+  background: #d10000; 
+  background: linear-gradient(top, #d10000 0%, #7a0909 100%);
+  background: -moz-linear-gradient(top, #d10000 0%, #7a0909 100%);
+  background: -webkit-linear-gradient(top, #d10000 0%, #7a0909 100%);
+  font-size: 16px; font-weight: normal; color: #fff; text-transform: uppercase;   
+  display: block;
+  border-top: 1px solid #a13838;
+  border-radius: 0 0 5px 5px;
+  -moz-border-radius: 0 0 5px 5px;
+  -webkit-border-radius: 0 0 5px 5px;
+  padding: 0px 0 0px 0;
+  margin:0;
+}
+
+#syllabus .week, #syllabus .week-2 {
+  margin-bottom:2em;
+  padding: 0 1em 0 1em;
+}
+
+#syllabus .week {
+border:1px dotted #cccccc;
+background:none;
+}
+
+#syllabus .week-2 {
+border:1px dotted #cccccc;
+background:#fef5f5;
+}
+
+
+/*****************************************************************************/
+/*
+/* CV
+/*
+/*****************************************************************************/
+
+.cv {
+  line-height: 1.3em;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 14px;
+}
+
+.cv li {
+  margin:0 0 1em 1em;
+  padding:0;
+}
+
+.cv li li{
+  margin:0 0 0 0;
+  padding:0;
+}
+
+.cv h3{
+  line-height: 1.5em;
+}
+
+/*****************************************************************************/
+/*
+/* PRINTING
+/*
+/*****************************************************************************/
+@media print {
+
+  body {
+    font-size:80%;
+  }
+
+  .site {
+    width:42em;
+   }
+
+  .header {
+    display:none;
+  }
+
+  .footer {
+    display:none;
+  }
+
 }

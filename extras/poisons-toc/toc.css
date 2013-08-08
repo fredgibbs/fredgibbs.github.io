@@ -1,0 +1,51 @@
+h1{
+font-variant:normal;
+border:0;
+font-size:18px;
+}
+
+h2 {
+font-size:14px;
+}
+
+h4 {
+margin:0;
+}
+
+a {
+text-decoration: none;
+color:black;
+}
+
+#toc {
+	list-style: none;
+	margin-bottom: 20px;
+	width:80%;
+	font-size: 12px;
+}
+#toc li {
+	background: url(http://fredgibbs.net/extras/dot.gif) repeat-x bottom left;
+	overflow: hidden;
+	margin-bottom: 0px;
+}
+#toc li.chap {
+	margin-bottom:0;
+	margin-top:1em;
+	font-weight:bold;
+}
+#toc li.sub {
+	margin-bottom:0;
+	margin-left:4em;
+}
+#toc a,
+#toc span {
+	float:left;
+	display: inline-block;
+	background: #fff;
+	position: relative;
+	bottom: 0px;
+}
+#toc a {
+	float: right;
+	padding: 0 0 0px 2px;
+}

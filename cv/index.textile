@@ -1,0 +1,213 @@
+---
+layout: cv
+title: cv | fredgibbs
+---
+
+h1. Frederick W Gibbs
+
+Department of History
+MSC06 3760
+1 University of New Mexico
+Albuquerque, NM 87131-1181
+"fwgibbs@gmail.com":mailto:fwgibbs@gmail.com
+
+
+h2. Recent Academic Positions
+
+*Aug 2013 -*
+Assistant Professor of History
+University of New Mexico
+
+*Aug 2009 - Jul 2013*
+Assistant Professor of History
+Director of Digital Scholarship
+Roy Rosenzweig Center for History and New Media
+George Mason University
+
+h2. Education
+
+*PhD*, *MA*, History of Science, Medicine & Technology | _University of Wisconsin_ (2009, 2002)
+*BA*, Physics | _Carleton College_ (1998)
+
+h2. Publications
+
+* "Poisonous Properties, Bodies, and Forms in the Fifteenth Century," _Preternature_ 2.1 (2013): 19-46.
+* "Riding the Bicycle of Kuhn's _Structure_," _Historical Studies in the Natural Sciences_ 42.5 (2012): 510-513.
+* "The Historical Value of Ephemeral Discussion of Science on the Web" in _Science &#64; Risk_, a report from the Library of Congress National Digital Information Infrastructure and Preservation Program ["PDF":http://www.digitalpreservation.gov/meetings/documents/othermeetings/science-at-risk-NDIIPP-report-nov-2012.pdf]
+* "Critical Discourse in the Digital Humanities," "_Journal of the Digital Humanities_ 1.1":http://journalofdigitalhumanities.org/1-1/articles/critical-discourse-in-digital-humanities-by-fred-gibbs/ (2012).
+* "The Hermeneutics of Data and Historical Writing," in Jack Dougherty and Kristen Nawrotzki (eds.), _Writing History in the Digital Age._ (with Trevor Owens) [University of Michigan Press, 2013) "open access version":http://writinghistory.trincoll.edu/data/gibbs-owens-2012-spring/].
+* "A Conversation with Data: Prospecting Victorian Words and Ideas," _Victorian Studies_ 54.1 (2011). (with Dan Cohen)
+* "New Textual Traditions From Community Transcription":http://www.digitalmedievalist.org/journal/7/gibbs/," _Digital Medievalist_ 7 (2011).
+* "Building Better Digital Humanities Tools":http://www.digitalhumanities.org/dhq/vol/6/2/000136/000136.html" _Digital Humanities Quarterly_ 6.2 (2012). (with Trevor Owens)
+* Review of Ian Mortimer, _The Dying and the Doctors: the Medical Revolution in Seventeenth Century England_. _Journal of Social History_, Summer 2011.
+* “Natural History.” in _Oxford Dictionary of the Middle Ages_, ed. Robert E. Bjork. Oxford: Oxford University Press, February 2010.
+* Review of _Chymists and Chymistry_, ed. Anthony Grafton. In _Pharmacy in History_, September 2009.
+* “Poison Libels,” in _Encyclopedia of Pestilence, Pandemics, and Plagues_, ed. Joseph P. Byrne. Greenwood Press, September 2008.
+
+h2. Recent Digital Projects
+
+Below I've described my role on some projects. For more general project descriptions, including descriptions of ongoing projects, please see "fredgibbs.net/projects":http://fredgibbs.net/projects.
+
+
+h3. Plants, Exploration, and Botanical Collecting
+
+* Designed and coded highly functional Javascript interface to visualize thousands of place markers on a Google map
+* Architected database schema to manage suggest changes to metadata
+
+
+h3. Reframing the Victorians
+
+* Created various visualizations of word frequency in 19th century printed material
+* Ran large data mining operation using Amazon S3 and Elastic MapReduce
+* Coordinated with Google to procure datasets for exploration
+* Wrote about methodology in _Victorian Studies_.
+
+h3. Digging Into Data: Criminal Intent
+
+* Researched cases on poison using Old Baily Online API and Voyant
+* Developed Zotero translator to harvest data from the Old Bailey API
+* Participated in routine conference calls with project team to review progress and plot next steps
+
+
+h2. Review Work
+
+MIT Press, National Endowment for the Humanities (NEH), Humanities in the European Research Area (HERA), Social Sciences and Humanities Research Council of Canada (SSHRC), Pearson, Digital Humanities Quarterly (DHQ), Digital Humanities Conference
+
+
+h2. Presentations and Participations
+
+h4. Upcoming
+
+* Poison, Putrefaction, and the Ontology of Disease in the Sixteenth Century
+** Johns Hopkins University (Nov 2013)
+
+h4. Previously
+
+* Document Similarity with R
+** THATCamp @ RRCHNM (June 2013)
+* Historical Mapping with QGIS
+** THATCamp @ RRCHNM (June 2013)
+* Pharmaceutical Traces: Exposing the Textual Traditions of Medieval Pharmacy
+** International Congress of the Medieval Academy of America (May 2013)
+* Commenter for Digital History Panel 
+** Society for the History of the Federal Government (April 2013)
+* Separating Poison and Medicine in the Sixteenth Century
+** National Library of Medicine (September 2012)
+* Archiving Online Science
+** Library of Congress: Science at Risk Workshop (July 2012)
+* Text mining in the Digital Humanities
+** Hertog Global Strategy Initiative &#64; Columbia University (May 2012)
+* Mapping Metadata
+** American Society for Environmental History (Apr 2012)
+* Organizing Early Modern Texts
+** Renaissance Society of America (Mar 2012)
+* Panel Chair: Visualizing the Archive
+** Institute of Museum and Library Services WebWise Conference (Feb 2012)
+* "Roundtable Participant: A conversation about text mining":http://aha.confex.com/aha/2012/webprogram/Session6143.html
+** American Historical Association (Jan 2012)
+* "Digital Poster: Lo-tech introduction to text mining":http://fredgibbs.net/extras/text-mining-digital-poster
+** American Historical Association (Jan 2012)
+* Session organizer: Report from Digging Into Data Participants
+** American Historical Association (Jan 2012)
+* "Criticism in the Digital Humanities":http://mith.umd.edu/podcast/?podcast=115
+** Maryland Institute for Technology in the Humanities Digital Dialoges (Oct 2011)
+* Moving Beyond Anecdotal History
+** Digital Humanities Annual Conference (Jun 2011)
+* "Implications of Data for the 21st Century Historian":http://www.nitle.org/live/events/123-digital-scholarship-seminar-implications-of-data
+** NITLE Digital Scholarship Seminar (Apr 2011)
+* "History as Data":http://www.tvworldwide.com/events/webwise/110309/default.cfm?tab=3
+** Institute of Museum and Library Services WebWise Conference (Mar 2011)
+* Towards Textual Editing Communities: Recreating the Middle Ages
+** MARCO Manuscript Workshop (Feb 2011)
+* Participant: API Workshop
+** Maryland Institute for Technology in the Humanities (Feb 2011)
+* "Putrefaction and Poison in the Sixteenth Century":http://prezi.com/xvcrjhs_3xw6/putrefaction/
+** University of Minnesota History of Medicine Colloquium (Nov 2010)
+* Generation from Putrefaction and Early Modern Causes of Disease
+** History of Science Society (Nov 2010)
+* New Textual Traditions for Discovering the Middle Ages
+** Third International MARGOT Conference: Digital Middle Ages (June 2010)
+* Medicine and Metaphor: Medical Discussions and Definitions of Poison
+** International Congress of the Medieval Academy of America (May 2010)
+* Poison in the World and the Body: Concepts of ‘Species' in Medical Theory
+** Arizona Center For Medieval and Renaissance Studies(Feb 2010)
+* The Science of Poison: New Analytical Approaches to Toxins in the Middle Ages
+** International Congress of the Medieval Academy of America (May 2008)
+* ‘The venomes doo preserve from diseases': Concepts and Categories of Poison
+** UW History of Science Department Colloquium (Dec 2007)
+* Medical Debates circa 1500: Approaches of Antonio Guaineri and Sante Arduino
+** American Association for the History of Medicine (May 2007)
+* Poison and Disease in the Renaissance
+** New York Academy of Medicine Colloquium (Mar 2007)
+* Food in the History of Science, Medicine, and Technology
+** UW History of Science Department Brownbag (co-presenter, Dec 2006)
+* Fourteenth-century Approaches to Toxicology
+** History of Science Society (Nov 2006)
+* The Natural Philosophy of Poison
+** Midwest Junto for the History of Science (Apr 2006)
+* Plague, Pestilence and Disease
+** Society for the Social History of Medicine Post-graduate conference (Jan 2006)
+
+h2. Courses
+
+* "Introduction to Digital History and the Digital Humanities":../introduction-to-digital-history
+* "Advanced Digital History: Data Manipulation":../data-manipulation
+* "The Scientific Revolution":../scientific-revolution
+* "Early History of Western Medicine":../history-of-early-medicine 
+* "Diet, Health, and Cultural Tastes":../diet-health-cultural-tastes
+* Ancient and Medieval Science
+
+
+h2. Fellowships and Awards
+
+* Humanities Exposed (HEX) Scholar at the UW Center for the Humanities (2008)
+* Dissertator Fellowship from UW Graduate School (2007)
+* John Neu Distinguished Graduate Student Fellowship from UW HoS Dept. (2007)
+* Research Award from the American Institute of the History of Pharmacy (2007)
+* Paul Klemperer Fellowship from the New York Academy of Medicine (2006)
+* National Science Foundation Dissertation Improvement Grant (2005-06)
+* Heckman Research Grant from the Hill Monastic Manuscript Library (2005)
+* Vilas Travel Grant from the UW Graduate School (2005)
+
+h2. Technical Highlights
+
+* 12+ years experience with small and large scale programming projects integrating various web technologies, including PHP, Javascript, HTML, XML, XSLT, XUL, AJAX, CSS, MySQL, REST APIs.
+* Broad knowledge and experience implementing web standards, accessibility guidelines, database design, and semantic mark-up. Adapted and customized open-source projects to client needs.
+* 8+ years of web design experience creating harmony between user interfaces and information structures.
+* Extensive experience providing technical advice and consultations for humanities scholars and projects, creating documentation, and formulating plans for long-term sustainability.
+
+h2. Previous Web Programming and Design Projects
+
+h3. Nelson Institute for Environmental Studies (UW-Madison, Mar09  -  Oct09)
+
+* Managed and executed complete website redesign centered around a custom developed tag-based resource management system (PHP, MySQL) to connect Nelson Institute faculty, students, and staff with each other through mutual research interests. Integrated full news and event management system with custom tagging (and taxonomy manager) to unite all Institute resources.
+
+h3. UW Center for the Humanities (Jan08  -  Jan10)
+
+* Revitalized a static website to deliver rich and dynamic content through a standards compliant and typographically sound website.
+* Designed and developed open-source web-based (PHP, MySQL) event calendar system to automate website maintenance and to feature audio and video resources.
+* Helped shaped Center workflows for creating, publishing, and archiving all Center website content with multiple access points, including RSS/XML feeds.
+
+h3. UW Biological Systems Engineering Department (Jan08  -  Jul09)
+
+* Lead programmer for USDA funded project to build web tools for farmers to teach and promote energy conservation.
+* Focus on readable display of complex data and intuitive user interfaces for data input, and extending analytical capabilities of tools.
+* Assisted with project management by coordinating project timelines, milestones, and deliverables.
+
+h3. Freelance web designer and developer (Jun05  -  Jan08)
+
+* Coordinated with various academic departments, programs, and scholars to entirely redesign and develop customized web sites to effectively deliver content. Clients have include the Medical History Department, Center for Culture, History, Environment, Journal of Undergraduate International Studies, and Holtz Center for Science and Technology Studies (all at UW-Madison).
+
+h3. UW Student Academic Affairs (Jun03  -  Sep06)
+
+* Architect, designer, developer for suite of 20+ websites; supervised undergraduate programmer. Juggled multiple projects with various timelines, deadlines; created full documentation for site code and best practices.
+* Developed and implemented site-wide redesign built upon a custom CMS (PHP, MySQL) for all sites to manage a centralized event calendar, message board, and various student application forms.
+* Created all layouts, design schemes, logos, and site graphics to preserve individual program personalities online; enforced University accessibility and style guidelines.
+* Formulated and presented long-term web initiatives and project plans to UW Assistant Deans to create and increase web presence for specific undergraduate audiences.
+
+h3. IBM and Target Corporations (Jul98  -  Feb00)
+
+* Co-lead developer for first generation of target.com; responsible for back-end coding of e-commerce functionality with Java and Oracle, including product search engine to meet strict usability and performance requirements.
+* Spearheaded standardization efforts and implementation of best practices among different programming, data modeling, and testing teams.
+* Served as Information Technology Specialist in consulting role for Global Services Division; diagnosed and solved debugging and testing challenges quickly and efficiently, adjusted to varied work environments, and established productive personal relationships with clients.
+
