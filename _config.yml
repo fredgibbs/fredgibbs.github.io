@@ -3,3 +3,4 @@ description: Digital History and Humanities Blog
 url: http://fredgibbs.net
 permalink: :title 
 pygments: true
+markdown: kramdown
