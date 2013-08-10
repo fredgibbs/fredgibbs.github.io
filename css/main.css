@@ -106,6 +106,7 @@ nav h1.title a, nav h1.navheader a, nav h1.navheader a:visited{
 .navigation {
   max-width:none;
   list-style-type: none;
+  padding-top:3px;
 }
 
 .navigation li {
@@ -520,8 +521,12 @@ background:#fef5f5;
   font-size: 80%;
 }
 
+.cv ul {
+  list-style-type: none
+}
+
 .cv li {
-  margin:0 0 1em 1em;
+  margin:0 0 1em 0em;
   padding:0;
 }
 

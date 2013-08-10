@@ -3,8 +3,7 @@ layout: cv
 title: cv | fredgibbs
 ---
 
-h1. Frederick W Gibbs
-
+Frederick W Gibbs
 Department of History
 MSC06 3760
 1 University of New Mexico
