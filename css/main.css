@@ -263,6 +263,7 @@ ul.posts span {
   font-family: 'Oxygen', sans-serif;
   color:#ff9900;
   text-decoration: none;
+  border:none;
 }
 
 .hometext p {
@@ -541,6 +542,10 @@ background:#fef5f5;
 
 @media screen and (max-width: 560px) {
   
+  .container {
+    width: 32em;
+  }
+
   nav h1.title {
     display:none;
   }
