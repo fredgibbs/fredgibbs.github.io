@@ -17,14 +17,12 @@ html, body { height: 100%; }
 
 body {
   background-color: #FeFeFe;
-  font-size:18px;
   font-family: 'Alegreya', serif;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; 
-  margin:2em 0 0 0;
+  margin:1.5em 0 0 0;
 }
 
 h1 {
@@ -47,7 +45,6 @@ h4 {
   font-size: 105%;
 }
 
-
 p { margin: 0em 0 1em 0; }
 
 a {
@@ -62,7 +59,7 @@ a:visited { color: #960; }
 .header {
  font-family: Helvetica, Arial, sans-serif;
  font-family: 'Oxygen', sans-serif;
- font-size:14px;
+ font-size:80%;
 }
 
 .header a {
@@ -95,87 +92,6 @@ img {
   float:left;
 }
 
-/*****************************************************************************/
-/*
-/* Publications
-/*
-/*****************************************************************************/
-.publications ul li {
-  line-height: 1.2em;
-  list-style-type: none;
-  margin-bottom: 1.5em;
-}
-
-.pub-links {
-  font-family: 'Oxygen', sans-serif;
-  font-size: 80%;
-}
-
-.publications h1 {
-  border-bottom:1px dotted #666;
-  margin-bottom:.5em;
-  text-transform: uppercase;
-}
-
-
-/*****************************************************************************/
-/*
-/* Home
-/*
-/*****************************************************************************/
-ul.posts {
-  font-family: 'Oxygen', sans-serif;
-  list-style-type: none;
-  margin-bottom: 2em;
-}
-
-ul.posts li {
-  line-height: 1.75em;
-}
-
-ul.posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
-}
-
-.hometext {
-  font-family: sans-serif;
-  font-family: 'Alegreya', serif;
-  font-size:20px; 
-  text-align:justify; 
-  line-height:1.3em;
-}
-
-.hometext a {
-  text-transform: uppercase;
-  font-size: 80%;
-  font-family: 'Oxygen', sans-serif;
-  color:#ff9900;
-  text-decoration: none;
-}
-
-.hometext p {
-  margin-bottom:1.5em;
-}
-
-.homename {
-  font-family: 'Oxygen', sans-serif;
-  font-size:64px; 
-  letter-spacing:-3px; 
-  font-weight:bold; 
-  color:#990000; 
-  margin:0px 0 4px 0;
-}
-
-.hometag {
-  font-size:15px;
-  font-family: 'Oxygen', sans-serif;
-  letter-spacing: 0px;
-  color:#666666;
-  margin: 8px 0 2em 0; 
-}
-
 
 /*****************************************************************************/
 /*
@@ -183,12 +99,15 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
-.site {
-  font-size: 100%;
-  text-align: justify;
+.container {
   width: 36em;
   margin: 1em auto 2em;
+ }
+
+.site {
+  text-align: justify;
   line-height: 1.5em;
+  padding:0 1em 0 1em;
 }
 
 .site .header a {
@@ -226,11 +145,10 @@ ul.posts span {
   font-size: 90%;
 }
 
-
 .site .footer {
   padding: 8px 0;
   font-family: 'Oxygen', sans-serif;
-  font-size: 12px;
+  font-size: 70%;
   color: #666;
   border-top: 3px solid #eee;
   margin-top: 2em;
@@ -272,6 +190,68 @@ li ul li {
   list-style: none;
   margin-bottom:1em;
 }
+
+
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+ul.posts {
+  font-family: 'Oxygen', sans-serif;
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+ul.posts li {
+  line-height: 1.75em;
+}
+
+ul.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
+
+.hometext {
+  font-family: sans-serif;
+  font-family: 'Alegreya', serif;
+  font-size:120%; 
+  text-align:justify; 
+  line-height:1.3em;
+}
+
+.hometext a {
+  text-transform: uppercase;
+  font-size: 80%;
+  font-family: 'Oxygen', sans-serif;
+  color:#ff9900;
+  text-decoration: none;
+}
+
+.hometext p {
+  margin-bottom:1.5em;
+}
+
+.homename {
+  font-family: 'Oxygen', sans-serif;
+  font-size:64px; 
+  letter-spacing:-3px; 
+  font-weight:bold; 
+  color:#990000; 
+  margin:0px 0 4px 0;
+}
+
+.hometag {
+  font-size:15px;
+  font-family: 'Oxygen', sans-serif;
+  letter-spacing: 0px;
+  color:#666666;
+  margin: 8px 0 2em 0; 
+}
+
+
 
 /*****************************************************************************/
 /*
@@ -356,13 +336,35 @@ blockquote p {
 
 /*****************************************************************************/
 /*
+/* Publications
+/*
+/*****************************************************************************/
+.publications ul li {
+  line-height: 1.2em;
+  list-style-type: none;
+  margin-bottom: 1.5em;
+}
+
+.pub-links {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 80%;
+}
+
+.publications h1 {
+  border-bottom:1px dotted #666;
+  margin-bottom:.5em;
+  text-transform: uppercase;
+}
+
+
+/*****************************************************************************/
+/*
 /* Syllabus
 /*
 /*****************************************************************************/
 
 #syllabus {
   font-family: 'Oxygen', sans-serif;
-  font-size: 16px;
   line-height: 1.4em;
 }
 
@@ -483,7 +485,7 @@ background:#fef5f5;
 .cv {
   line-height: 1.3em;
   font-family: 'Oxygen', sans-serif;
-  font-size: 14px;
+  font-size: 80%;
 }
 
 .cv li {
@@ -499,6 +501,13 @@ background:#fef5f5;
 .cv h3{
   line-height: 1.5em;
 }
+
+@media screen and (max-width: 480px) {
+body {
+      font-size: 100%;
+}
+}
+
 
 /*****************************************************************************/
 /*
