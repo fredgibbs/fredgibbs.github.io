@@ -56,16 +56,6 @@ a         { color: #f90; }
 a:hover   { color: #a00; }
 a:visited { color: #960; }
 
-.header {
- font-family: Helvetica, Arial, sans-serif;
- font-family: 'Oxygen', sans-serif;
- font-size:80%;
-}
-
-.header a {
-  border:none;
-}
-
 table {
   font-size: inherit;
   font: 100%;
@@ -92,6 +82,68 @@ img {
   float:left;
 }
 
+nav {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 90%;
+}
+
+nav a {
+  font-weight: normal;
+  text-decoration: none;
+  border:none;
+}
+
+nav h1.title {
+  display: inline;
+  float:left;
+}
+
+nav h1.title a {
+  font-weight: bold;
+  color:#900;
+}
+
+.navigation {
+  max-width:none;
+  list-style-type: none;
+}
+
+.navigation li {
+  float:left;
+}
+
+.navigation li a {
+  display: block;
+  color: #aaa;
+  margin-left: 1em;
+}
+
+.navigation li a:hover {
+  color: #000;
+}
+
+.slide-trigger {
+  display: none; /* need this */
+  border: 1px solid #CCCCCC;
+  cursor: pointer;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.slide-trigger span {
+  background-image: url("/images/icons/menu-icon-sm.png");
+  background-repeat: no-repeat;
+  display: block;
+  float: right;
+  margin-top: 5px;
+  height: 14px;
+  width: 32px;
+}
+
+.below-nav {
+  clear:both;
+  padding-top: 2em;
+}
 
 /*****************************************************************************/
 /*
@@ -110,34 +162,6 @@ img {
   padding:0 1em 0 1em;
 }
 
-.site .header a {
-  font-weight: normal;
-  text-decoration: none;
-}
-
-.site .header h1.title {
-  display: inline-block;
-  font-weight: bold;
-  margin-bottom: 2em;
-}
-
-.site .header h1.title a {
-  color: #900;
-}
-
-.site .header h1.title a:hover {
-  color: #000;
-}
-
-.site .header a.extra {
-  color: #aaa;
-  margin-left: 1em;
-}
-
-.site .header a.extra:hover {
-  color: #000;
-}
-
 .site .meta {
   color: #aaa;
   margin:0 0 4px 0;
@@ -148,7 +172,7 @@ img {
 .site .footer {
   padding: 8px 0;
   font-family: 'Oxygen', sans-serif;
-  font-size: 70%;
+  font-size: 80%;
   color: #666;
   border-top: 3px solid #eee;
   margin-top: 2em;
@@ -509,10 +533,7 @@ background:#fef5f5;
   line-height: 1.5em;
 }
 
-@media screen and (max-width: 480px) {
-  body {
-    font-size: 100%;
-  }
+@media screen and (max-width: 560px) {
   
   .header {
     line-height: 1em;
@@ -520,7 +541,7 @@ background:#fef5f5;
     margin-bottom:1em;
   }
 
-  .site .header h1.title {
+  nav h1.title {
     display:none;
   }
 
@@ -529,6 +550,13 @@ background:#fef5f5;
     border:none;
   }
 
+  .slide-trigger { display: block; }
+    .no-js .slide-trigger { display: none; }
+  .navigation { display: none; }
+    .no-js .navigation { display: block; }
+  .navigation { margin: 0 15px; }
+  .navigation li { float: none; }
+  .navigation li a { border-bottom: 1px solid #fff; }
 }
 
 

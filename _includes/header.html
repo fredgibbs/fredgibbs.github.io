@@ -1,7 +1,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width">
 
     <title>{{ page.title }}</title>
     
@@ -11,19 +11,34 @@
     <link rel="stylesheet" href="/css/pygments.css">
     <link rel="shortcut icon" href="http://fredgibbs.net/favicon.ico?v=2" />
 
+    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/js/ui.js"></script>
+    
+    <script>
+      $(document).ready(function(){
+        $('.slide-trigger').collapsable();
+      });
+    </script>
+
   </head>
 
   <body>
 
     <div class="container">
       <div class="site">
-        <div class="header">
-          <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-          <a class="extra" href="/about">about</a>
-          <a class="extra" href="/posts">posts</a>
-          <a class="extra" href="/publications">publications</a>
-          <a class="extra" href="/projects">projects</a>
-          <a class="extra" href="/courses">courses</a>
-          <a class="extra" href="/tutorials">tutorials</a>
-          <a class="extra" href="/cv">cv</a>
-        </div>
+
+        <nav class="group">
+          <h1 class="title"><a href="/">fredgibbs</a></h1>
+          <h2 class="navheader slide-trigger">fredgibbs<span></span></h2>
+          <ul class="navigation group">
+            <li><a href="/about">about</a></li>
+            <li><a href="/posts">posts</a></li>
+            <li><a href="/publications">publications</a></li>
+            <li><a href="/projects">projects</a></li>
+            <li><a href="/courses">courses</a></li>
+            <li><a href="/tutorials">tutorials</a></li>
+            <li><a href="/cv">cv</a></li>
+          </ul>
+        </nav>
+
+        <div class="below-nav">
