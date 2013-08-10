@@ -542,6 +542,10 @@ background:#fef5f5;
 
 @media screen and (max-width: 560px) {
   
+a {
+  color:#c70;
+}
+
   .container {
     width: 32em;
   }
@@ -566,7 +570,7 @@ background:#fef5f5;
 
   ul.posts li {
     line-height: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 1.5em;
   }
 
 
