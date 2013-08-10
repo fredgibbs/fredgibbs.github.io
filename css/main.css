@@ -122,22 +122,27 @@ nav h1.title a {
   color: #000;
 }
 
+
+
 .slide-trigger {
   display: none; /* need this */
   border: 1px solid #CCCCCC;
   cursor: pointer;
-  margin-left: 15px;
-  margin-right: 15px;
+  height:1.3em;
+  padding: 0 .2em;
+  color:#900;
 }
 
 .slide-trigger span {
-  background-image: url("/images/icons/menu-icon-sm.png");
-  background-repeat: no-repeat;
   display: block;
   float: right;
-  margin-top: 5px;
-  height: 14px;
-  width: 32px;
+  height: 1.3em
+}
+
+.slide-trigger span img {
+  height:1em;
+  margin:0;
+  padding:.2em .2em 0 0;
 }
 
 .below-nav {
