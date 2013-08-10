@@ -508,10 +508,11 @@ background:#fef5f5;
   
   .header {
     line-height: 1em;
-    font-size: 90%;
+    font-size: 80%;
+    margin-bottom:1em;
   }
 
-  .site .header h1 {
+  .site .header h1.title {
     display:none;
   }
 
