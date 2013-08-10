@@ -555,6 +555,7 @@ background:#fef5f5;
   }
 
   ul.posts span {
+    color:#999;
     display:block;
   }
 
@@ -562,6 +563,12 @@ background:#fef5f5;
     text-decoration: none;
     border:none;
   }
+
+  ul.posts li {
+    line-height: 1em;
+    margin-bottom: 1em;
+  }
+
 
   .slide-trigger { display: block; }
     .no-js .slide-trigger { display: none; }
