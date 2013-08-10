@@ -122,8 +122,6 @@ nav h1.title a {
   color: #000;
 }
 
-
-
 .slide-trigger {
   display: none; /* need this */
   border: 1px solid #CCCCCC;
@@ -136,7 +134,7 @@ nav h1.title a {
 .slide-trigger span {
   display: block;
   float: right;
-  height: 1.3em
+  height: 1.3em;
 }
 
 .slide-trigger span img {
@@ -540,15 +538,13 @@ background:#fef5f5;
 
 @media screen and (max-width: 560px) {
   
-  .header {
-    line-height: 1em;
-    font-size: 80%;
-    margin-bottom:1em;
-  }
-
   nav h1.title {
     display:none;
   }
+
+nav h2.navheader {
+  font-size: 200%;
+}
 
   a {
     text-decoration: none;
