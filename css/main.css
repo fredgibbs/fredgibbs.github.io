@@ -98,7 +98,7 @@ nav h1.title {
   float:left;
 }
 
-nav h1.title a {
+nav h1.title a, nav h1.title a:visited {
   font-weight: bold;
   color:#900;
 }
