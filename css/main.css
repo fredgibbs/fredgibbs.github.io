@@ -545,9 +545,13 @@ background:#fef5f5;
     display:none;
   }
 
-nav h1.navheader {
-  font-size: 200%;
-}
+  nav h1.navheader {
+    font-size: 200%;
+  }
+
+  ul.posts span {
+    display:block;
+  }
 
   a {
     text-decoration: none;
