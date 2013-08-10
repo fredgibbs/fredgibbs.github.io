@@ -7,9 +7,9 @@ categories: [post]
 
 Isn't it silly to expect people to pay $600 for a scarf? Fashion designer Tomas Maier replies that we should all "just have less":http://www.newyorker.com/reporting/2011/01/03/110103fa_fact_colapinto, embracing the philosophy that we should simply have a few nice things that can be replaced when needed. I recently found this logic especially attractive when packing up a house full of too much stuff I just have to have but didn't remotely miss once it was boxed up.
 
-This militant but elegant minimalism permeated my thinking about my website as I began to think about both old and new projects and syllabi for the upcoming year. How could I provide information about about what I'm thinking about and working on and teaching in the clearest and simplest way?
+This militant but elegant minimalism permeated my thinking about my website as I began to think about both old and new projects and posts and syllabi upon the dawn of upcoming year. How could I convey what I'm thinking about and working on and teaching in the clearest and simplest way?
 
-bq(right). How much less could I have?
+bq(right). As for the website: How much less could I have?
 
 I thought I would start by stripping away absolutely everything that isn't absolutely essential: sidebars, categories, tags, antiquated punctuation of print publications, extraneous typefaces, design elements. How small could my headers and footers be? Do I need an extensive list of post categories? Archives organized by date? An automated navigation bar? An administrative backend?
 
