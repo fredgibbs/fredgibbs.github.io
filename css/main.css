@@ -126,21 +126,19 @@ nav h1.title a {
   display: none; /* need this */
   border: 1px solid #CCCCCC;
   cursor: pointer;
-  height:1.3em;
-  padding: 0 .2em;
+  padding: .3em .3em;
   color:#900;
 }
 
 .slide-trigger span {
   display: block;
   float: right;
-  height: 1.3em;
 }
 
 .slide-trigger span img {
   height:1em;
   margin:0;
-  padding:.2em .2em 0 0;
+  padding:0em .2em 0 0;
 }
 
 .below-nav {
@@ -542,7 +540,7 @@ background:#fef5f5;
     display:none;
   }
 
-nav h2.navheader {
+nav h1.navheader {
   font-size: 200%;
 }
 
