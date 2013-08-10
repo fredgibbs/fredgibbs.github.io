@@ -11,7 +11,7 @@ This militant but elegant minimalism permeated my thinking about my website as I
 
 bq(right). As for the website, I wondered: How much less could I have?
 
-I thought I would start by stripping away absolutely everything that isn't absolutely essential: sidebars, categories, tags, antiquated punctuation of print publications, extraneous typefaces, design elements. How small could my headers and footers be? Do I need an extensive list of post categories? Archives organized by date? An automated navigation bar? An administrative backend?
+I thought I would start by stripping away absolutely everything that isn't absolutely essential: sidebars, categories, tags, antiquated punctuation of print publications, extraneous typefaces, design elements. How small could my headers and footers be? Do I need an extensive list of post categories? Archives organized by date? **An automated navigation bar?** _**An administrative backend?**_
 
 I wanted the simplest experience not only for reading, but also for writing and managing what I've written. I never was entirely comfortable that an essay or CV or syllabus existed entirely as an entry in a database table rather than a document that could be managed separately. I wanted to improve some essays or courses supposedly finished some time ago but that hadn't quite reached their potential. I wanted to embrace the potential of ongoing scholarship, yet still maintain the traditional space/time publishing continuum so that people can know what version others may have read at a particular time. This is not to say that Wordpress cannot manage versions, but that there are far more efficient ways to do that.
 
