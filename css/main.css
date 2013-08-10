@@ -503,15 +503,15 @@ background:#fef5f5;
 
 @media screen and (max-width: 480px) {
   body {
-    -webkit-text-size-adjust: 100%;
     font-size: 100%;
   }
   
   .header {
     line-height: 1em;
+    font-size: 90%;
   }
 
-  .site header h1 {
+  .site .header h1 {
     display:none;
   }
 
