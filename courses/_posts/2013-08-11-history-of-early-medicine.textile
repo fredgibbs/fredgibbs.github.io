@@ -1,0 +1,532 @@
+--- 
+layout: course 
+title: History of Early Medicine | HIST 300-009 | Fall 2013
+date: 2013-08-10 00:00:00
+category: course 
+---
+
+This course provides synthetic and interpretive frameworks for understanding the evolution of western medicine. It chronologically explores the wide range of theories and practices employed by physicians, including various approaches to understanding and treating diseases and the rise and development of the medical profession. The course demonstrates how, in addition to medical knowledge, shifting social and cultural values have motivated change in medicine; it also shows how a historical awareness of medicine gives us new and crucial perspectives on contemporary medical practices. The emphasis shall always remain on showing how and why medical theory and practice looked like it did rather than simply regurgitating what happened over time.
+
+
+h2. Course Goals
+
+* Get a sense of the overall trajectory of the history of medicine.
+* Understand how medicine and medical values are influenced by shifting cultural, social, and political attitudes. 
+* Appreciate how the history of medicine helps us reflect on and evaluate contemporary medical culture.
+
+
+h2. Course Expectations and Grading
+
+- 50% of your grade is from class participation; 50% is from written work.
+
+- Participation component is based on preparedness for and engagement with the class discussion. You do not have to talk all the time to do well. You need to ask good questions, give good answers to questions, and generally *be active*. Aim for quality over quantity. If you talk a lot, you're probably just diluting your good ideas. If you don't talk at all, you will seriously compromise your grade.
+
+- There are 3 written assignments (due dates are indicated on the reading schedule below): 2 article reviews and 1 final essay. 
+
+- The article reviews are a critical analysis of an article from a respectable newspaper or magazine or website about medicine (historical or contemporary). The choice of article is yours. Your job is to evaluate the article in terms of what we're doing in the course. You might explain how something billed as "new" has much earlier precedents. You might explain why a modern approach to a disease or medical issue is differs from earlier medical responses. Even though you can choose your article to review, don't pick something that you can't relate to the course. Ask if you are unsure about whether an article is suitable or not. 
+
+- The first assignment will be 500 words; the second 750, and the final 1000. These are worth 10%, 15%, and 20% of your grade, respectively. 
+
+- Your final will be to answer one of the questions listed below. I am open to alternative questions or projects, too, if you'd like to suggest one.
+
+- You will also give one topic introduction, which means getting up in front of the class, summarizing the assigned reading and asking interesting questions (~10 mins.) and generally being our discussion leader. (5%)
+
+h3. Sample Questions/Topics
+
+- To what extent is ancient and medieval medicine wrong (compared to modern views) simply because they had inferior medical technology?
+
+- Compare and contrast ancient, medieval, and early modern medical frameworks.
+
+- How has medical theory and practice been affected by social factors outside of "pure" medical knowledge?
+
+- What, if anything, can modern medicine learn from pre-modern medicine?
+
+
+h2. Other Advice to Help You Do Well
+
+-   Do not suffer in silence. I try to situate discussions and assignments squarely within the objectives of the course, but I expect that you'll ask for clarification if such connections elude you.
+
+-   If you have questions about your performance / grade during the semester, I will be very happy to meet with you to discuss how things are going. I understand that everyone comes into the course with different skills and backgrounds. **Serious effort goes a long way toward your grade!** 
+
+
+h2. READINGS
+
+-   Andrew Wear et al., _The Western Medical Tradition_ (Cambridge University Press, 1995) ISBN:978-0521475648 ["amazon":http://www.amazon.com/books/dp/0521475643)] (required)
+
+Most reading assignments are listed as the pages in _WMT_. Generally, we march our way through this text. Reading assignments sometimes have a short except from the historical sources themselves to get a better feel for how people talked about medicine at a given time. These excerpts will be available 
+
+---
+
+h3(week). Week 1: Getting Started
+
+<div class="dateicon"><p>19<span>Aug</span></div>
+<div class="week">
+
+h4. Course Overview 
+
+*   course goals: history, medicine, and critical thinking
+*   website for syllabus, assignments, announcements, etc
+*   final projects and presentations
+*   survey of course topics
+</div>
+
+<div class="dateicon"><p>21<span>Aug</span></div>
+<div class="week">
+
+h4. Greek Medicine  
+
+* _WMT_, 11-19.
+</div>
+
+<div class="dateicon"><p>23<span>Aug</span></div>
+<div class="week">
+
+h4. Hippocrates
+
+* _WMT_, 19-33.
+* Quiz
+</div>
+
+---
+
+h3(week). Week 2: Hippocrates and Greek Medicine
+
+<div class="dateicon"><p>26<span>Aug</span></div>
+<div class="week">
+
+h4. Reading Classical Medicine
+
+*  _The Sacred Disease_ & _Aphorisms_
+</div>
+
+<div class="dateicon"><p>28<span>Aug</span></div>
+<div class="week">
+
+h4. Hellenistic Medicine
+
+* _WMT_, 33-38.
+</div>
+
+<div class="dateicon"><p>30<span>Aug</span></div>
+<div class="week">
+
+h4. BREAK
+
+</div>
+
+---
+
+h3(week). Week 3: Late Roman Medicine and Galen
+
+<div class="dateicon"><p>02<span>Sep</span></div>
+<div class="week">
+
+h4. Roman Medicine
+
+* _WMT_, 39-58.
+</div>
+
+<div class="dateicon"><p>04<span>Sep</span></div>
+<div class="week">
+
+h4. Galen
+
+* _WMT_, 58-70.
+</div>
+
+<div class="dateicon"><p>06<span>Sep</span></div>
+<div class="week">
+
+h4. Reading Galen
+
+* _On the Usefulness of Parts_
+* _On the Natural Faculties_
+* Selections from Mark Grant (trans.), _Galen on Food and Diet_, 1-13; 14-18; 46-60; 68-83.
+* Quiz
+
+</div>
+
+---
+
+h3(week). Week 4: Late Antique and Early Medieval Medicine
+
+<div class="dateicon"><p>09<span>Sep</span></div>
+<div class="week">
+
+h4. Christianity and Medicine
+
+* _WMT_, 71-79.
+* Selections from Wallis (49-54)
+</div>
+
+<div class="dateicon"><p>11<span>Sep</span></div>
+<div class="week">
+
+h4. Early Medieval Medicine
+
+* _WMT_, 79-87.
+* Selections from Wallis (34-42)
+</div>
+
+<div class="dateicon"><p>13<span>Sep</span></div>
+<div class="week">
+
+h4. Break
+
+</div>
+
+---
+
+h3(week). Week 5: Arabic Medicine
+
+<div class="dateicon"><p>16<span>Sep</span></div>
+<div class="week">
+
+h4. Arabic-Islamic Medicine 
+
+* _WMT_, 93-104.
+* Avicenna's _Canon_.
+</div>
+
+<div class="dateicon"><p>18<span>Sep</span></div>
+<div class="week">
+
+h4. Translation and Innovation 
+
+* _WMT_, 104-122.
+</div>
+
+<div class="dateicon"><p>20<span>Sep</span></div>
+<div class="week">
+
+h4. Quiz
+
+</div>
+
+---
+
+h3(week). Week 6: From East to West
+
+<div class="dateicon"><p>23<span>Sep</span></div>
+<div class="week">
+
+h4. Medicine in Islamic Society 
+
+* _WMT_, 122-138.
+* Selection on Hospitals from Wallis, 471-477.
+</div>
+
+<div class="dateicon"><p>25<span>Sep</span></div>
+<div class="week">
+
+h4. Salerno
+
+* _WMT_, 139-146.
+* "Regimen of Health from Salerno":http://books.google.com/books?id=FKs-AAAAYAAJ&dq=Sir+John+Harington,+The+School+of+Salernum:+Regimen+Sanitatis+Salerni&source=gbs_navlinks_s (composed 12th cen.; this English edition is from 1607), 75-156 (actual reading is about 1/3 of this total).
+
+</div>
+
+<div class="dateicon"><p>27<span>Sep</span></div>
+<div class="week">
+
+h4. Break
+
+</div>
+
+---
+
+h3(week). Week 7: Science, Medicine & Knowledge
+
+<div class="dateicon"><p>30<span>Sep</span></div>
+<div class="week">
+
+h4. The Development of Universities  
+
+* _WMT_, 153-159.
+
+</div>
+
+<div class="dateicon"><p>02<span>Oct</span></div>
+<div class="week">
+
+h4. Medicine and Natural Philosophy  
+
+</div>
+
+<div class="dateicon"><p>04<span>Oct</span></div>
+<div class="week">
+
+h4. Quiz
+
+* Essay 1 Due
+
+</div>
+
+
+---
+
+h3(week). Week 8: Images of the Profession
+
+<div class="dateicon"><p>07<span>Oct</span></div>
+<div class="week">
+
+h4. The Late Medieval Medical Profession
+
+* _WMT_, 159-175.
+
+</div>
+
+<div class="dateicon"><p>09<span>Oct</span></div>
+<div class="week">
+
+h4. Picturing Medieval Medicine
+
+* _WMT_, 175-183.
+
+</div>
+
+<div class="dateicon"><p>11<span>Oct</span></div>
+<div class="week">
+
+h4. Fall Break
+
+</div>
+
+
+---
+
+h3(week). Week 9: Medieval Disease
+
+<div class="dateicon"><p>14<span>Oct</span></div>
+<div class="week">
+
+h4. Medieval Disease
+
+* _WMT_, 183-189.
+* Wallis, 34-42.
+
+</div>
+
+<div class="dateicon"><p>16<span>Oct</span></div>
+<div class="week">
+
+h4. The Black Death
+
+* _WMT_, 189-198
+
+</div>
+
+<div class="dateicon"><p>18<span>Oct</span></div>
+<div class="week">
+
+h4. Reading the Black Death 
+
+* Religious and Medical Responses (from Horrox)
+
+</div>
+
+
+---
+
+h3(week). Week 10: Early Modern Disease and Exploration
+
+<div class="dateicon"><p>21<span>Oct</span></div>
+<div class="week">
+
+h4. Early Modern Disease 
+
+* _WMT_, 215-225.
+
+</div>
+
+<div class="dateicon"><p>23<span>Oct</span></div>
+<div class="week">
+
+h4. Exploration and Medicine
+
+* _WMT_, 225-244.
+
+</div>
+
+<div class="dateicon"><p>25<span>Oct</span></div>
+<div class="week">
+
+h4. Break
+
+</div>
+
+---
+
+h3(week). Week 11: The "Rediscovery" of Medicine
+
+<div class="dateicon"><p>28<span>Oct</span></div>
+<div class="week">
+
+h4. Sick Poor 
+
+* _WMT_, 224-250.
+
+</div>
+
+<div class="dateicon"><p>30<span>Oct</span></div>
+<div class="week">
+
+h4. Renaissance Medicine & Humanism
+
+* _WMT_, 250-264.
+
+</div>
+
+<div class="dateicon"><p>01<span>Nov</span></div>
+<div class="week">
+
+h4. Quiz
+
+</div>
+
+
+---
+
+h3(week). Week 12: Anatomy
+
+<div class="dateicon"><p>04<span>Nov</span></div>
+<div class="week">
+
+h4. The Anatomic Revolution 
+
+* _WMT_, 268-280.
+
+</div>
+
+<div class="dateicon"><p>06<span>Nov</span></div>
+<div class="week">
+
+h4. Renaissance Medicine & Humanism
+
+* _WMT_, 280-292.
+
+</div>
+
+<div class="dateicon"><p>08<span>Nov</span></div>
+<div class="week">
+
+h4. Renaissance Surgery
+
+* _WMT_, 292-298.
+*   Ambroise Parey, "_The Works of that famous Chirurgion..._":http://books.google.com/books?id=TzVbqmHLfGMC&dq=Ambroise+Parey,+The+Works+of+that+famous+Chirurgion&source=gbs_navlinks_s, Trans. Thomas Johnson (London: Richard Cotes and W. Dugard, 1649)
+
+</div>
+
+
+---
+
+h3(week). Week 13: Review and Rest
+
+<div class="dateicon"><p>11<span>Nov</span></div>
+<div class="week">
+
+h4. Quiz
+
+</div>
+
+<div class="dateicon"><p>13<span>Nov</span></div>
+<div class="week">
+
+h4. Break
+
+</div>
+
+<div class="dateicon"><p>15<span>Nov</span></div>
+<div class="week">
+
+h4. Break
+
+* Essay 2 Due
+
+</div>
+
+
+---
+
+h3(week). Week 14: New Worlds, New Remedies
+
+<div class="dateicon"><p>18<span>Nov</span></div>
+<div class="week">
+
+h4. Medical Botany 
+
+* _WMT_, 298-310.
+
+</div>
+
+<div class="dateicon"><p>20<span>Nov</span></div>
+<div class="week">
+
+h4. Paracelsus and Chemical Remedies
+
+* _WMT_, 310-325.
+* Skim the nice "Paracelsus exhibit from the NLM":http://www.nlm.nih.gov/exhibition/paracelsus/index.html.
+</div>
+
+<div class="dateicon"><p>22<span>Nov</span></div>
+<div class="week">
+
+h4. Medical Astrology
+
+</div>
+
+---
+
+h3(week). Week 15: Shifting Paradigms
+
+<div class="dateicon"><p>25<span>Nov</span></div>
+<div class="week">
+
+h4. Circulation of Blood
+
+* _WMT_, 325-340.
+
+</div>
+
+<div class="dateicon"><p>27<span>Nov</span></div>
+<div class="week">
+
+h4. Medicine in the Scientific Revolution
+
+* _WMT_, 340-361.
+
+</div>
+
+<div class="dateicon"><p>29<span>Nov</span></div>
+<div class="week">
+
+h4. Turkey Coma
+
+</div>
+
+---
+
+h3(week). Week 16: Last Bits
+
+<div class="dateicon"><p>02<span>Dec</span></div>
+<div class="week">
+
+h4. Final Quiz
+
+</div>
+
+<div class="dateicon"><p>04<span>Dec</span></div>
+<div class="week">
+
+h4. Conclusions
+
+* _WMT_, 477-494.
+
+</div>
+
+<div class="dateicon"><p>06<span>Dec</span></div>
+<div class="week">
+
+h4. Final Wrap-up
+
+</div>
