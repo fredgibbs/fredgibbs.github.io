@@ -1,4 +1,4 @@
---* 
+---
 layout: course 
 title: History of Early Medicine | HIST 300-009 | Fall 2013
 date: 2013-08-10 00:00:00
