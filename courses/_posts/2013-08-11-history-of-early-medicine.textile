@@ -1,4 +1,4 @@
---- 
+--* 
 layout: course 
 title: History of Early Medicine | HIST 300-009 | Fall 2013
 date: 2013-08-10 00:00:00
@@ -17,41 +17,41 @@ h2. Course Goals
 
 h2. Course Expectations and Grading
 
-- 50% of your grade is from class participation; 50% is from written work.
+* 50% of your grade is from class participation; 50% is from written work.
 
-- Participation component is based on preparedness for and engagement with the class discussion. You do not have to talk all the time to do well. You need to ask good questions, give good answers to questions, and generally *be active*. Aim for quality over quantity. If you talk a lot, you're probably just diluting your good ideas. If you don't talk at all, you will seriously compromise your grade.
+* Participation component is based on preparedness for and engagement with the class discussion. You do not have to talk all the time to do well. You need to ask good questions, give good answers to questions, and generally *be active*. Aim for quality over quantity. If you talk a lot, you're probably just diluting your good ideas. If you don't talk at all, you will seriously compromise your grade.
 
-- There are 3 written assignments (due dates are indicated on the reading schedule below): 2 article reviews and 1 final essay. 
+* There are 3 written assignments (due dates are indicated on the reading schedule below): 2 article reviews and 1 final essay. 
 
-- The article reviews are a critical analysis of an article from a respectable newspaper or magazine or website about medicine (historical or contemporary). The choice of article is yours. Your job is to evaluate the article in terms of what we're doing in the course. You might explain how something billed as "new" has much earlier precedents. You might explain why a modern approach to a disease or medical issue is differs from earlier medical responses. Even though you can choose your article to review, don't pick something that you can't relate to the course. Ask if you are unsure about whether an article is suitable or not. 
+* The article reviews are a critical analysis of an article from a respectable newspaper or magazine or website about medicine (historical or contemporary). The choice of article is yours. Your job is to evaluate the article in terms of what we're doing in the course. You might explain how something billed as "new" has much earlier precedents. You might explain why a modern approach to a disease or medical issue is differs from earlier medical responses. Even though you can choose your article to review, don't pick something that you can't relate to the course. Ask if you are unsure about whether an article is suitable or not. 
 
-- The first assignment will be 500 words; the second 750, and the final 1000. These are worth 10%, 15%, and 20% of your grade, respectively. 
+* The first assignment will be 500 words; the second 750, and the final 1000. These are worth 10%, 15%, and 20% of your grade, respectively. 
 
-- Your final will be to answer one of the questions listed below. I am open to alternative questions or projects, too, if you'd like to suggest one.
+* Your final will be to answer one of the questions listed below. I am open to alternative questions or projects, too, if you'd like to suggest one.
 
-- You will also give one topic introduction, which means getting up in front of the class, summarizing the assigned reading and asking interesting questions (~10 mins.) and generally being our discussion leader. (5%)
+* You will also give one topic introduction, which means getting up in front of the class, summarizing the assigned reading and asking interesting questions (~10 mins.) and generally being our discussion leader. (5%)
 
 h3. Sample Questions/Topics
 
-- To what extent is ancient and medieval medicine wrong (compared to modern views) simply because they had inferior medical technology?
+* To what extent is ancient and medieval medicine wrong (compared to modern views) simply because they had inferior medical technology?
 
-- Compare and contrast ancient, medieval, and early modern medical frameworks.
+* Compare and contrast ancient, medieval, and early modern medical frameworks.
 
-- How has medical theory and practice been affected by social factors outside of "pure" medical knowledge?
+* How has medical theory and practice been affected by social factors outside of "pure" medical knowledge?
 
-- What, if anything, can modern medicine learn from pre-modern medicine?
+* What, if anything, can modern medicine learn from pre-modern medicine?
 
 
 h2. Other Advice to Help You Do Well
 
--   Do not suffer in silence. I try to situate discussions and assignments squarely within the objectives of the course, but I expect that you'll ask for clarification if such connections elude you.
+*   Do not suffer in silence. I try to situate discussions and assignments squarely within the objectives of the course, but I expect that you'll ask for clarification if such connections elude you.
 
--   If you have questions about your performance / grade during the semester, I will be very happy to meet with you to discuss how things are going. I understand that everyone comes into the course with different skills and backgrounds. **Serious effort goes a long way toward your grade!** 
+*   If you have questions about your performance / grade during the semester, I will be very happy to meet with you to discuss how things are going. I understand that everyone comes into the course with different skills and backgrounds. **Serious effort goes a long way toward your grade!** 
 
 
 h2. READINGS
 
--   Andrew Wear et al., _The Western Medical Tradition_ (Cambridge University Press, 1995) ISBN:978-0521475648 ["amazon":http://www.amazon.com/books/dp/0521475643)] (required)
+*   Andrew Wear et al., _The Western Medical Tradition_ (Cambridge University Press, 1995) ISBN:978-0521475648 ["amazon":http://www.amazon.com/books/dp/0521475643)] (required)
 
 Most reading assignments are listed as the pages in _WMT_. Generally, we march our way through this text. Reading assignments sometimes have a short except from the historical sources themselves to get a better feel for how people talked about medicine at a given time. These excerpts will be available 
 
