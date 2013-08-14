@@ -1,7 +1,7 @@
 ---
 layout: course 
 title: History of Early Medicine | HIST 300-009 | Fall 2013
-date: 2013-08-12 00:00:00
+date: 2013-08-12 00:00:01
 category: course 
 ---
 
@@ -39,8 +39,6 @@ h2. Course Expectations and Grading
 * Your final will be to answer one of the questions listed below. I am open to alternative questions or creative projects, too, if you'd like to suggest one.
 
 
-
-
 h3. Sample Questions/Topics
 
 * To what extent is ancient and medieval medicine wrong (compared to modern views) because they had inferior medical technology?
@@ -52,6 +50,7 @@ h3. Sample Questions/Topics
 * What, if anything, can modern medicine learn from pre-modern medicine?
 
 
+
 h2. Other Advice to Help You Do Well
 
 *   Do not suffer in silence. I try to situate discussions and assignments squarely within the objectives of the course, but I expect that you'll ask for clarification if such connections elude you.
@@ -59,9 +58,10 @@ h2. Other Advice to Help You Do Well
 *   If you have questions about your performance / grade during the semester, I will be very happy to meet with you to discuss how things are going. I understand that everyone comes into the course with different skills and backgrounds. **Serious effort goes a long way toward your grade!** 
 
 
+
 h2. READINGS
 
-*   Andrew Wear et al., _The Western Medical Tradition_ (Cambridge University Press, 1995) ISBN:978-0521475648 ["amazon":http://www.amazon.com/books/dp/0521475643)] (required)
+*   Andrew Wear et al., _The Western Medical Tradition_ (Cambridge University Press, 1995) ISBN:978-0521475648 ["amazon":http://www.amazon.com/books/dp/0521475643)]
 
 Most reading assignments are listed as pages from _WMT_, which will serve as our primary guide through the course. Reading assignments often include some short excerpts from historical sources themselves to give us a better feel for how people talked about medicine at a given time. These excerpts will be available at "UNM e-reserves":http://ereserves.unm.edu/eres/coursepage.aspx?cid=12559&page=docs.
 
@@ -75,8 +75,7 @@ h3(day). Week 1: Getting Started
 h4. Course Overview 
 
 *   course goals: history, medicine, and critical thinking
-*   website for syllabus, assignments, announcements, etc
-*   final projects and presentations
+*   projects and presentations
 *   survey of course topics
 </div>
 

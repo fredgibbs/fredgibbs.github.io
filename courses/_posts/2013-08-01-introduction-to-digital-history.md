@@ -1,7 +1,7 @@
 --- 
 layout: course 
 title: Digital History | History 666-002 | Fall 2013
-date: 2013-08-12 00:00:00 
+date: 2013-08-12 00:00:01 
 categories: [course] 
 ---
 
@@ -11,7 +11,7 @@ Office Hours: M 10-11; T 2:30-3:30; W 8-9
 Syllabus online at [http://fredgibbs.net/introduction-to-digital-history](http://fredgibbs.net/introduction-to-digital-history/)
 
 ### Course Description
-This course explores the theoretical and methodological issues now facing humanistic study in a digital age. With an emphasis on critical data analysis, it presents a broad survey of how powerful new research methodologies now allow historians to ask and answer fundamentally different kinds of questions. The course also reflects on the changing nature of the history profession (such as its possible convergence toward the social sciences). On the whole, it aims to provide conceptual fluency on topics such as the uses of new media in relation to history and historical narrative, the implications of copyright law on access to historical data and scholarship, the changing role of museums and libraries, and the politics of authority and expertise in knowledge networks. This course challenges the typical conceptions of how one ought to produce and consume history, and, more broadly, provides guidelines for effectively bridging and combining humanities and technology skills (_ie_ make you more employable).
+This course explores the theoretical and methodological issues now facing humanistic study in a digital age. With an emphasis on critical data analysis, it presents a broad survey of how powerful new research methodologies now allow historians to ask and answer fundamentally different kinds of questions. The course also reflects on the changing nature of the history profession (such as its possible convergence toward the social sciences). On the whole, it aims to provide conceptual fluency on topics such as the uses of new media in relation to history and historical narrative, the implications of copyright law on access to historical data and scholarship, the changing role of museums and libraries, and the politics of authority and expertise in knowledge networks. This course challenges the typical conceptions of how one ought to produce and consume history, and, more broadly, provides guidelines for effectively bridging and combining humanities and technology skills that will *make you more employable*.
 
 
 ### Course Goals
@@ -25,13 +25,13 @@ This course explores the theoretical and methodological issues now facing humani
 ### Course Expectations and Grading
 - Thorough preparedness and engaged participation in every class meeting. See the note about readings and discussion below. (30%)
 
-- Original 400-word critical reaction blog posts posted to your own blog before each class. I will supply a brief prompt for these to help focus your posts on key issues. These should NOT merely summarize the readings, but critically evaluate them and ask questions that will guide our discussion. You need to do 7 of these throughout the semester. (30%)
-
-- Completion of a Final Project in the guise of a preparing necessary materials for (but not actually submitting) a Kickstarter campaign.  (25%)
-
 - Create and use your own blog and Twitter account for the course. (5%)
 
+- Original 400-word critical reaction blog posts posted to your own blog before each class. I will supply a brief prompt for these to help focus your posts on key issues. These should NOT merely summarize the readings, but critically evaluate them and ask questions that will guide our discussion. You need to do 7 of these throughout the semester. (30%)
+
 - Lead one discussion by having good questions prepared ahead of time to help call attention to interesting points in the readings, connect them to each other, and connect that day's readings to previous readings and discussions. (5%)
+
+- Completion of a Final Project in the guise of a preparing necessary materials for (but not actually submitting) a Kickstarter campaign.  (25%)
 
 - Perseverance and tolerance for frustration with hypothetical discussions. Digital humanities engages with new methodological problems and professional challenges raised by rapidly shifting technology and new media. Must be able to have fun while groping. (5%)
 
@@ -45,15 +45,15 @@ This course explores the theoretical and methodological issues now facing humani
 
 
 ### Final Project / Grant Proposal
-The goal of the final project is to show that you have grasped the topics presented in the course and can speak intelligently about how they are relevant to your research / career(s).
+The goal of the final project is to show that you have grasped the topics presented in the course.
 
-You will design a Kickstarter campaign ([following their guidelines](http://www.kickstarter.com/help/school)) for a digital history project relevant to your field. It doesn't have to overlap perfectly with your current research, but it shouldn't be too far afield so that you have enough subject matter expertise to propose an interesting question. Your proposal should employ technologies, methodologies, and approaches that we've decided constitute digital history. 
+You will design a Kickstarter campaign ([following their guidelines](http://www.kickstarter.com/help/school)) for a digital history project relevant to your field. It doesn't have to overlap perfectly with your current research, but it shouldn't be so far afield that you don't have enough subject matter expertise to propose an interesting question. Your proposal should employ technologies, methodologies, and approaches that we've decided constitute digital history. 
 
 In addition to the Kickstarter requirements, each proposal must explain its historical relevance, use of technology, limitations of methodology, expected research outcomes and benefits, sustainability plan.
 
 
 ### READINGS
-Most readings are either hyperlinked to an online version, or are available via the course Zotero library. There are 5 required books (some of which are available online for free):
+Most readings are either hyperlinked to an online version, or are available via the course Zotero library. There are 5 required books. Some of these are available online for free, but we're reading through each of the books in their entirety (so that's a *lot* of screen time).
 
 -   Susan M. Bielstein, *Permissions: A Survival Guide* (Chicago University Press, 2006)
 -- ISBN:978-0226046389 \[[amazon](http://www.amazon.com/Permissions-Survival-Guide-Intellectual-Propery/dp/0226046389)\]
@@ -68,9 +68,7 @@ Most readings are either hyperlinked to an online version, or are available via 
 -- ISBN:978-0060976255 \[[amazon](http://www.amazon.com/Understanding-Comics-Invisible-Scott-McCloud/dp/006097625X)\]
 
 
-_Important note about reading and discussion:_ During each class, articles for the next class will be assigned to a person who will act as the "primary reader" for that article (sometimes this will be me). They will provide a ~5 minute synopsis of the point or argument of the piece, and a ~5 minute contextualization of that article within other course readings. Throughout discussion, they will serve as the expert for that piece and bring it into the conversation whenever relevant. Everyone is expected to read all the assignments, even if you're not the primary reader. Take special care if you are.
-
-For each list of readings, there are one or two highlighted articles that you must read. For the others, you should read some carefully, some cursorily, and others not at all. You should make such choices based on your own interests, expertise, potential future uses, and ambitions for the course. This way we can all learn more from each other than we could by just trying to make it through the reading list on our own. Your discussion grade for the course depends on how well you can discuss a variety of articles (not just the required ones)!
+_Important note about reading and discussion:_ During each class, articles for the next class will be assigned to a person who will act as the "primary reader" (PR) for that article (sometimes this will be me; generally we'll just take volunteers). The PR will provide a ~5 minute synopsis of the point or argument of the piece, and a ~5 minute contextualization of that article within other course readings. Throughout discussion, they will serve as the expert for that piece and bring it into the conversation whenever relevant. Everyone is expected to read all the assignments, even if not the primary reader. Take special care if you are.
 
 
 ### 1. Introduction to the Course and Digital History
@@ -246,9 +244,9 @@ Susan M. Bielstein, *Permissions: A Survival Guide*
 
 [What We’re Reading: #AHAgate](http://www.publishing.umich.edu/2013/07/24/what-were-reading-ahagate/).
 
-Brian Lamb, [Dr. Mashup](http://www.educause.edu/EDUCAUSE+Review/EDUCAUSEReviewMagazineVolume42/DrMashuporWhyEducatorsShouldLe/161747)
+Brian Lamb, [Dr. Mashup](http://www.educause.edu/EDUCAUSE+Review/EDUCAUSEReviewMagazineVolume42/DrMashuporWhyEducatorsShouldLe/161747).
 
-Overview of Licenses: [GNU GPL](http://www.gnu.org/copyleft/gpl.html) and [Creative Commons](http://creativecommons.org)
+Overview of Licenses: [GNU GPL](http://www.gnu.org/copyleft/gpl.html) and [Creative Commons](http://creativecommons.org).
 
 If you're curious about the blue puppies, there is 
 [more](http://www.nyfa.org/archive_detail_q.asp?type=6&qid=173&fid=6&year=2004&s=Winter), [more](http://art.jerryandmartha.com/2006/07/more-puppies.html), and the [court case (esp. the DISCUSSION section)](http://www.ncac.org/art-law/op-rog.cfm).
