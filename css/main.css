@@ -273,10 +273,10 @@ ul.posts span {
 .homename {
   font-family: 'Oxygen', sans-serif;
   font-size:400%; 
-  letter-spacing:-3px; 
+  letter-spacing:-4px; 
   font-weight:bold; 
   color:#990000; 
-  margin:0px 0 4px 0;
+  margin:0px 0 1em 0;
 }
 
 .hometag {
@@ -422,7 +422,7 @@ margin-top:1em 0 .5em 0;
 color:#880000;
 }
 
-#syllabus h3.week {
+#syllabus h3.day {
 margin-bottom:1em; 
 font-size: 140%; 
 }
@@ -505,18 +505,22 @@ margin-left:.1em;
   margin:0;
 }
 
-#syllabus div.week, #syllabus .week-2 {
+#syllabus div.day {
+  border:0px dotted #cccccc;
+  background:none;
+  margin-left:50px;
   margin-bottom:2em;
   padding: 0 1em 0 1em;
 }
 
-#syllabus div.week {
-border:0px dotted #cccccc;
-background:none;
-margin-left:50px;
+
+#syllabus div.day-off {
+opacity: .5;
+text-transform: uppercase;
 }
 
-#syllabus .week-2 {
+
+#syllabus .day-2 {
 border:1px dotted #cccccc;
 background:#fef5f5;
 }
@@ -635,11 +639,11 @@ a {
   line-height: 1.2em;
 }
 
-.week {
+.day {
   margin-bottom:1em;
 }
 
-#syllabus div.week, #syllabus .week-2 {
+#syllabus div.day, #syllabus .day-2 {
   margin-bottom:1em;
   padding: 0;
 }
