@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 <!DOCTYPE html>
 <html>
 
@@ -15,12 +19,13 @@
     <div class="hompage">
 
     <div class="homename">
-      fred<span style="margin-left:.07em">gibbs<span>
+      fred<span style="margin-left:.1em">gibbs<span>
     </div>
-
+<!--
     <div class="hometag">
       asst. prof. | history<span style="margin-left:2.5em">univ. new mexico</span>
     </div>
+-->
 
     <div class="hometext">
       <p>
@@ -36,20 +41,8 @@
       <p>
         Still curious? Read more <a href="about">about me</a> or check out my <a href="cv">cv</a>.
     </div>
-  </div>
-  </div>
-  <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-18407528-2']);
-  _gaq.push(['_trackPageview']);
+{% include footer.html %}
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 </body>
 </html>
