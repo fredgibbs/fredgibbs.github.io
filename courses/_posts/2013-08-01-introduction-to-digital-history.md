@@ -8,7 +8,7 @@ categories: [course]
 Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
 Mesa Vista Hall, 1077    
 Office Hours: M 10-11; T 2:30-3:30; W 8-9    
-Syllabus online at [http://fredgibbs.net/history-of-early-medicine](http://fredgibbs.net/introduction-to-digital-history/)
+Syllabus online at [http://fredgibbs.net/introduction-to-digital-history](http://fredgibbs.net/introduction-to-digital-history/)
 
 ### Course Description
 This course explores the theoretical and methodological issues now facing humanistic study in a digital age. With an emphasis on critical data analysis, it presents a broad survey of how powerful new research methodologies now allow historians to ask and answer fundamentally different kinds of questions. The course also reflects on the changing nature of the history profession (such as its possible convergence toward the social sciences). On the whole, it aims to provide conceptual fluency on topics such as the uses of new media in relation to history and historical narrative, the implications of copyright law on access to historical data and scholarship, the changing role of museums and libraries, and the politics of authority and expertise in knowledge networks. This course challenges the typical conceptions of how one ought to produce and consume history, and, more broadly, provides guidelines for effectively bridging and combining humanities and technology skills (_ie_ make you more employable).
