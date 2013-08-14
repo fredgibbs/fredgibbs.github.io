@@ -16,10 +16,13 @@ At UNM, I [teach courses](../courses) on the digital humanities and on various t
 
 I completed my History of Science PhD at the [University of Wisconsin-Madison](http://wisc.edu) in 2009. Before that, I programmed in a cubicle (where i also built elaborate soda-can towers) for a few years after studying physics at [Carleton College](http://www.carleton.edu).
 
+**Behind the scenes**<br>
+Pages of this site are written in Markdown and Textile, and converted to static HTML with Jekyll. All code for this site is hosted in a [GitHub repository](https://github.com/fredgibbs/fredgibbs.github.io).
+
+**What's in a name?**<br>
+ Early followers will recognize this website as the website formerly known as historyproef. Despite the brilliant reasons and motivations behind its original name and incarnation, it proved too impractical. Feel free to [read more about the name and its failure](../why-historyproef-had-to-die/ "why historyproef had to die").
 
 
-**What's in a name?**
-Early followers will recognize this website as the website formerly known as historyproef. Despite the brilliant reasons and motivations behind its original name and incarnation, it proved too impractical. Feel free to [read more about the name and its failure](../why-historyproef-had-to-die/ "why historyproef had to die").
 
 ---
 
