@@ -5,9 +5,9 @@ date: 2013-08-12 00:00:00
 categories: [course] 
 ---
 
-Fred Gibbs ("fwgibbs@unm.edu":mailto:fwgibbs@unm.edu)
-Mesa Vista Hall, 1077
-Office Hours: M 10-11; T 2:30-3:30; W 8-9
+Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
+Mesa Vista Hall, 1077    
+Office Hours: M 10-11; T 2:30-3:30; W 8-9    
 Syllabus online at [http://fredgibbs.net/history-of-early-medicine](http://fredgibbs.net/introduction-to-digital-history/)
 
 ### Course Description
