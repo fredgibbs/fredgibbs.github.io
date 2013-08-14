@@ -3,7 +3,7 @@ layout: default
 title: about | fredgibbs
 ---
 
-Greetings! I'm Fred Gibbs, an assistant professor in the [history department](http://www.unm.edu/~hist/) at the [University of New Mexico](http://unm.edu). 
+I'm Fred Gibbs, an assistant professor in the [history department](http://www.unm.edu/~hist/) at the [University of New Mexico](http://unm.edu). 
 
 Until recently (spring 2013), I was an assistant professor in the department of history and art history at [George Mason University](http:///gmu.edu) (Fairfax, VA) and director of digital scholarship at the [Roy Rosenzweig Center for History and New Media](http://chnm.gmu.edu).
 

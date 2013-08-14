@@ -5,25 +5,30 @@ date: 2013-08-12 00:00:00
 category: course 
 ---
 
-This course provides synthetic and interpretive frameworks for understanding the evolution of western medicine. It chronologically explores the wide range of theories and practices employed by physicians, including various approaches to understanding and treating diseases and the rise and development of the medical profession. The course demonstrates how, in addition to medical knowledge, shifting social and cultural values have motivated change in medicine; it also shows how a historical awareness of medicine gives us new and crucial perspectives on contemporary medical practices. The emphasis shall always remain on showing how and why medical theory and practice looked like it did rather than simply regurgitating what happened over time.
+Fred Gibbs ("fwgibbs@unm.edu":mailto:fwgibbs@unm.edu)
+Mesa Vista Hall, 1077
+Office Hours: M 10-11; T 2:30-3:30; W 8-9
+Syllabus online at "http://fredgibbs.net/history-of-early-medicine":http://fredgibbs.net/history-of-early-medicine
+
+This course chronologically explores the wide range of theories and practices employed by premodern physicians and healers. It emphasizes their various approaches to understanding and treating disease and the gradual development of the medical profession. Although medieval and early modern medicine can seem utterly irrelevant to today's world, this course illustrates how a historical awareness of medicine gives us important perspectives on contemporary medical practices. Even more broadly, the course provide synthetic and interpretive frameworks for understanding the evolution of western medicine over time, such as how shifting social and cultural values have motivated (and continue to motivate) change in medicine. The emphasis shall always remain on showing how and why medical theory and practice looked like it did rather than simply regurgitating what happened over time.
 
 
-h2. Course Goals
+h2. Course Objectives
 
-* Get a sense of the overall trajectory of the history of premodern medicine.
-* Understand how medicine and medical values are influenced by shifting cultural, social, and political attitudes. 
-* Appreciate how the history of medicine helps us reflect on and evaluate contemporary medical culture.
+* Convey a sense of the overall trajectory of the history of premodern medicine.
+* Illustrate how medicine and medical values are influenced by shifting cultural, social, and political attitudes. 
+* Provide analytical frameworks to better reflect on and evaluate contemporary medical culture.
 
 
 h2. Course Expectations and Grading
 
 * 50% of your grade is from class participation; 50% is from written work.
 
-* Participation component is based on preparedness for and engagement with the class discussion. You do not have to talk all the time to do well. You need to ask good questions, give good answers to questions, and generally *be active*. Aim for quality over quantity. If you talk a lot, you're probably just diluting your good ideas. If you don't talk at all, you will seriously compromise your grade.
+* Participation component is based on preparedness for and engagement with the class discussion. You do not have to talk all the time to do well. You need to ask good questions, give good answers to questions, and generally *be active*. Aim for quality over quantity. If you talk a lot, you're probably just diluting your good ideas. If you don't talk at all, you will seriously compromise your grade. (45%)
 
 * You will also give one topic introduction, which means getting up in front of the class, summarizing the assigned reading and asking interesting questions about the text and how it fits into the course (~10 mins.) and generally being our discussion leader. (5%)
 
-* There are 3 written assignments (due dates are indicated on the reading schedule below): 2 article reviews and 1 final essay. The first assignment will be 500 words; the second 750, and the final 1000. These are worth 10%, 15%, and 20% of your grade, respectively. *The goal is not simply to meet the wordcount, but to critically engage with the article you choose.*
+* There are 3 written assignments (due dates are indicated on the reading schedule below): 2 article reviews and 1 final essay. The first assignment will be 500 words; the second 750, and the final 1000. These are worth 10%, 15%, and 20% of your grade, respectively. *The goal is not simply to meet the word count, but to critically engage with the article you choose.*
 
 * The article reviews are a critical analysis of an article from a respectable newspaper or magazine or website about medicine (historical or contemporary). The choice of article is yours. Your job is to evaluate the article in terms of what we're doing in the course. You might explain how something billed as "new" has much earlier precedents. You might explain why a modern approach to a disease or medical issue differs from earlier medical responses. Even though you can choose your article to review, don't pick something that you can't relate to the course. Ask if you are unsure about whether an article is suitable or not. 
 
@@ -58,7 +63,7 @@ h2. READINGS
 
 *   Andrew Wear et al., _The Western Medical Tradition_ (Cambridge University Press, 1995) ISBN:978-0521475648 ["amazon":http://www.amazon.com/books/dp/0521475643)] (required)
 
-Most reading assignments are listed as the pages in _WMT_. Generally, we march our way through this text. Reading assignments sometimes have a short except from the historical sources themselves to get a better feel for how people talked about medicine at a given time. These excerpts will be available at "UNM e-reserves":http://ereserves.unm.edu/eres/coursepage.aspx?cid=12559&page=docs.
+Most reading assignments are listed as pages from _WMT_, which will serve as our primary guide through the course. Reading assignments often include some short excerpts from historical sources themselves to give us a better feel for how people talked about medicine at a given time. These excerpts will be available at "UNM e-reserves":http://ereserves.unm.edu/eres/coursepage.aspx?cid=12559&page=docs.
 
 ---
 
@@ -110,27 +115,28 @@ h4. Reading Classical Medicine
 h4. Hellenistic Medicine
 
 * _WMT_, 33-38.
-* Quiz
 </div>
 
-<div class="day-off">
 <div class="dateicon"><p>30<span>Aug</span></div>
-<div class="day">
-
-h4. Break
-
-</div>
-</div>
----
-
-h3(day). Week 3: Late Roman Medicine and Galen
-
-<div class="dateicon"><p>02<span>Sep</span></div>
 <div class="day">
 
 h4. Roman Medicine
 
 * _WMT_, 39-58.
+* Quiz
+
+</div>
+---
+
+h3(day). Week 3: Late Roman Medicine and Galen
+
+<div class="day-off">
+<div class="dateicon"><p>02<span>Sep</span></div>
+<div class="day">
+
+h4. Labor Day
+
+</div>
 </div>
 
 <div class="dateicon"><p>04<span>Sep</span></div>
@@ -492,7 +498,7 @@ h4. Paracelsus and Chemical Remedies
 
 h4. Medical Alchemy and Astrology
 
-Physicians arguments for the necessity of alchemy and astrology in medicine (317-333).
+* Physicians arguments for the necessity of alchemy and astrology in medicine (317-333).
 </div>
 
 ---
@@ -550,5 +556,16 @@ h4. Conclusions
 <div class="day">
 
 h4. Final Wrap-up
+
+</div>
+
+---
+
+h3(day). Week 17: Finals Week
+
+<div class="dateicon"><p>11<span>Dec</span></div>
+<div class="day">
+
+h4. Final Essay due by 9:30am
 
 </div>

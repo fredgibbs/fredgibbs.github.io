@@ -19,6 +19,7 @@ body {
   background-color: #FeFeFe;
   font-family: 'Alegreya', serif;
   text-align: center;
+  font-size:110%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -154,7 +155,7 @@ nav h1.title a, nav h1.navheader a, nav h1.navheader a:visited{
 /*****************************************************************************/
 
 .container {
-  width: 36em;
+  width: 38em;
   margin: 1em auto 2em;
  }
 
@@ -201,7 +202,7 @@ nav h1.title a, nav h1.navheader a, nav h1.navheader a:visited{
 }
 
 img.footer-icon {
-  height:16px;
+  height:18px;
   vertical-align:middle;
   padding:0;
   margin:0; 
@@ -432,6 +433,7 @@ font-size: 140%;
 font-size:110%;
 font-weight:bold;
 margin-top:1em 0 0 0;
+line-height: 1em;
 }
 
 #syllabus p.reading {
