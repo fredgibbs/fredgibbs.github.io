@@ -10,7 +10,7 @@ This course provides synthetic and interpretive frameworks for understanding the
 
 h2. Course Goals
 
-* Get a sense of the overall trajectory of the history of medicine.
+* Get a sense of the overall trajectory of the history of premodern medicine.
 * Understand how medicine and medical values are influenced by shifting cultural, social, and political attitudes. 
 * Appreciate how the history of medicine helps us reflect on and evaluate contemporary medical culture.
 
@@ -20,6 +20,8 @@ h2. Course Expectations and Grading
 * 50% of your grade is from class participation; 50% is from written work.
 
 * Participation component is based on preparedness for and engagement with the class discussion. You do not have to talk all the time to do well. You need to ask good questions, give good answers to questions, and generally *be active*. Aim for quality over quantity. If you talk a lot, you're probably just diluting your good ideas. If you don't talk at all, you will seriously compromise your grade.
+
+* You will also give one topic introduction, which means getting up in front of the class, summarizing the assigned reading and asking interesting questions about the text and how it fits into the course (~10 mins.) and generally being our discussion leader. (5%)
 
 * There are 3 written assignments (due dates are indicated on the reading schedule below): 2 article reviews and 1 final essay. The first assignment will be 500 words; the second 750, and the final 1000. These are worth 10%, 15%, and 20% of your grade, respectively. *The goal is not simply to meet the wordcount, but to critically engage with the article you choose.*
 
@@ -31,7 +33,7 @@ h2. Course Expectations and Grading
 
 * Your final will be to answer one of the questions listed below. I am open to alternative questions or creative projects, too, if you'd like to suggest one.
 
-* You will also give one topic introduction, which means getting up in front of the class, summarizing the assigned reading and asking interesting questions (~10 mins.) and generally being our discussion leader. (5%)
+
 
 
 h3. Sample Questions/Topics
@@ -56,14 +58,14 @@ h2. READINGS
 
 *   Andrew Wear et al., _The Western Medical Tradition_ (Cambridge University Press, 1995) ISBN:978-0521475648 ["amazon":http://www.amazon.com/books/dp/0521475643)] (required)
 
-Most reading assignments are listed as the pages in _WMT_. Generally, we march our way through this text. Reading assignments sometimes have a short except from the historical sources themselves to get a better feel for how people talked about medicine at a given time. These excerpts will be available via the course Zotero library. If you are unfamiliar with Zotero, read about using Zotero to access the course readings.
+Most reading assignments are listed as the pages in _WMT_. Generally, we march our way through this text. Reading assignments sometimes have a short except from the historical sources themselves to get a better feel for how people talked about medicine at a given time. These excerpts will be available at "UNM e-reserves":http://ereserves.unm.edu/eres/coursepage.aspx?cid=12559&page=docs.
 
 ---
 
-h3(week). Week 1: Getting Started
+h3(day). Week 1: Getting Started
 
 <div class="dateicon"><p>19<span>Aug</span></div>
-<div class="week">
+<div class="day">
 
 h4. Course Overview 
 
@@ -74,7 +76,7 @@ h4. Course Overview
 </div>
 
 <div class="dateicon"><p>21<span>Aug</span></div>
-<div class="week">
+<div class="day">
 
 h4. Greek Medicine  
 
@@ -82,47 +84,49 @@ h4. Greek Medicine
 </div>
 
 <div class="dateicon"><p>23<span>Aug</span></div>
-<div class="week">
+<div class="day">
 
 h4. Hippocrates
 
 * _WMT_, 19-33.
-* Quiz
+
 </div>
 
 ---
 
-h3(week). Week 2: Hippocrates and Greek Medicine
+h3(day). Week 2: Hippocrates and Greek Medicine
 
 <div class="dateicon"><p>26<span>Aug</span></div>
-<div class="week">
+<div class="day">
 
 h4. Reading Classical Medicine
 
-*  _The Sacred Disease_ & _Aphorisms_
+*  _Epidemics_ & _Aphorisms_ 
 </div>
 
 <div class="dateicon"><p>28<span>Aug</span></div>
-<div class="week">
+<div class="day">
 
 h4. Hellenistic Medicine
 
 * _WMT_, 33-38.
+* Quiz
 </div>
 
+<div class="day-off">
 <div class="dateicon"><p>30<span>Aug</span></div>
-<div class="week">
+<div class="day">
 
-h4. BREAK
+h4. Break
 
 </div>
-
+</div>
 ---
 
-h3(week). Week 3: Late Roman Medicine and Galen
+h3(day). Week 3: Late Roman Medicine and Galen
 
 <div class="dateicon"><p>02<span>Sep</span></div>
-<div class="week">
+<div class="day">
 
 h4. Roman Medicine
 
@@ -130,7 +134,7 @@ h4. Roman Medicine
 </div>
 
 <div class="dateicon"><p>04<span>Sep</span></div>
-<div class="week">
+<div class="day">
 
 h4. Galen
 
@@ -138,12 +142,11 @@ h4. Galen
 </div>
 
 <div class="dateicon"><p>06<span>Sep</span></div>
-<div class="week">
+<div class="day">
 
 h4. Reading Galen
 
-* _On the Usefulness of Parts_
-* _On the Natural Faculties_
+* _On the Usefulness of Parts_ & _On the Natural Faculties_
 * Selections from Mark Grant (trans.), _Galen on Food and Diet_, 1-13; 14-18; 46-60; 68-83.
 * Quiz
 
@@ -151,39 +154,41 @@ h4. Reading Galen
 
 ---
 
-h3(week). Week 4: Late Antique and Early Medieval Medicine
+h3(day). Week 4: Late Antique and Early Medieval Medicine
 
 <div class="dateicon"><p>09<span>Sep</span></div>
-<div class="week">
+<div class="day">
 
 h4. Christianity and Medicine
 
 * _WMT_, 71-79.
-* Selections from Wallis (49-54)
+* Common Medical Advice (49-54)
 </div>
 
 <div class="dateicon"><p>11<span>Sep</span></div>
-<div class="week">
+<div class="day">
 
 h4. Early Medieval Medicine
 
 * _WMT_, 79-87.
-* Selections from Wallis (34-42)
+* Plants and Pee (34-42)
 </div>
 
+<div class="day-off">
 <div class="dateicon"><p>13<span>Sep</span></div>
-<div class="week">
+<div class="day">
 
 h4. Break
 
 </div>
+</div>
 
 ---
 
-h3(week). Week 5: Arabic Medicine
+h3(day). Week 5: Arabic Medicine
 
 <div class="dateicon"><p>16<span>Sep</span></div>
-<div class="week">
+<div class="day">
 
 h4. Arabic-Islamic Medicine 
 
@@ -192,7 +197,7 @@ h4. Arabic-Islamic Medicine
 </div>
 
 <div class="dateicon"><p>18<span>Sep</span></div>
-<div class="week">
+<div class="day">
 
 h4. Translation and Innovation 
 
@@ -200,7 +205,7 @@ h4. Translation and Innovation
 </div>
 
 <div class="dateicon"><p>20<span>Sep</span></div>
-<div class="week">
+<div class="day">
 
 h4. Quiz
 
@@ -208,79 +213,85 @@ h4. Quiz
 
 ---
 
-h3(week). Week 6: From East to West
+h3(day). Week 6: From East to West
 
 <div class="dateicon"><p>23<span>Sep</span></div>
-<div class="week">
+<div class="day">
 
 h4. Medicine in Islamic Society 
 
 * _WMT_, 122-138.
-* Selection on Hospitals from Wallis, 471-477.
+* Medieval Descriptions of Hospitals, 471-477.
 </div>
 
 <div class="dateicon"><p>25<span>Sep</span></div>
-<div class="week">
+<div class="day">
 
 h4. Salerno
 
 * _WMT_, 139-146.
-* "Regimen of Health from Salerno":http://books.google.com/books?id=FKs-AAAAYAAJ&dq=Sir+John+Harington,+The+School+of+Salernum:+Regimen+Sanitatis+Salerni&source=gbs_navlinks_s (composed 12th cen.; this English edition is from 1607), 75-156 (actual reading is about 1/3 of this total).
+* "Regimen of Health from Salerno":http://books.google.com/books?id=FKs-AAAAYAAJ&dq=Sir+John+Harington,+The+School+of+Salernum:+Regimen+Sanitatis+Salerni&source=gbs_navlinks_s (composed 12th cen.; this English edition is from 1607), 75-156 (read a few pages carefully and skim the rest).
 
 </div>
 
+<div class="day-off">
 <div class="dateicon"><p>27<span>Sep</span></div>
-<div class="week">
+<div class="day">
 
 h4. Break
 
 </div>
+</div>
 
 ---
 
-h3(week). Week 7: Science, Medicine & Knowledge
+h3(day). Week 7: Science, Medicine & Knowledge
 
 <div class="dateicon"><p>30<span>Sep</span></div>
-<div class="week">
+<div class="day">
 
 h4. The Development of Universities  
 
 * _WMT_, 153-159.
+* Selections from early medical school documents (191-204).
 
 </div>
 
 <div class="dateicon"><p>02<span>Oct</span></div>
-<div class="week">
+<div class="day">
 
 h4. Medicine and Natural Philosophy  
+
+* Selections discussing medicine and science (205-222).
 
 </div>
 
 <div class="dateicon"><p>04<span>Oct</span></div>
-<div class="week">
+<div class="day">
 
 h4. Quiz
 
-* Essay 1 Due
+*(due) Essay 1 Due
 
 </div>
 
 
 ---
 
-h3(week). Week 8: Images of the Profession
+h3(day). Week 8: Images of the Profession
 
 <div class="dateicon"><p>07<span>Oct</span></div>
-<div class="week">
+<div class="day">
 
 h4. The Late Medieval Medical Profession
 
 * _WMT_, 159-175.
+The Faculty of Medicine of Paris vs. Jean Domrèmi (369-79).
 
 </div>
 
 <div class="dateicon"><p>09<span>Oct</span></div>
-<div class="week">
+<div class="day">
 
 h4. Picturing Medieval Medicine
 
@@ -288,39 +299,40 @@ h4. Picturing Medieval Medicine
 
 </div>
 
+<div class="day-off">
 <div class="dateicon"><p>11<span>Oct</span></div>
-<div class="week">
+<div class="day">
 
 h4. Fall Break
 
 </div>
-
+</div>
 
 ---
 
-h3(week). Week 9: Medieval Disease
+h3(day). Week 9: Medieval Disease
 
 <div class="dateicon"><p>14<span>Oct</span></div>
-<div class="week">
+<div class="day">
 
 h4. Medieval Disease
 
 * _WMT_, 183-189.
-* Wallis, 34-42.
+* Selections Concerning Leprosy and Cancer (337-348).
 
 </div>
 
 <div class="dateicon"><p>16<span>Oct</span></div>
-<div class="week">
+<div class="day">
 
 h4. The Black Death
 
-* _WMT_, 189-198
+* _WMT_, 189-198.
 
 </div>
 
 <div class="dateicon"><p>18<span>Oct</span></div>
-<div class="week">
+<div class="day">
 
 h4. Reading the Black Death 
 
@@ -331,10 +343,10 @@ h4. Reading the Black Death
 
 ---
 
-h3(week). Week 10: Early Modern Disease and Exploration
+h3(day). Week 10: Early Modern Disease and Exploration
 
 <div class="dateicon"><p>21<span>Oct</span></div>
-<div class="week">
+<div class="day">
 
 h4. Early Modern Disease 
 
@@ -343,7 +355,7 @@ h4. Early Modern Disease
 </div>
 
 <div class="dateicon"><p>23<span>Oct</span></div>
-<div class="week">
+<div class="day">
 
 h4. Exploration and Medicine
 
@@ -351,19 +363,20 @@ h4. Exploration and Medicine
 
 </div>
 
+<div class="day-off">
 <div class="dateicon"><p>25<span>Oct</span></div>
-<div class="week">
+<div class="day">
 
 h4. Break
 
 </div>
-
+</div>
 ---
 
-h3(week). Week 11: The "Rediscovery" of Medicine
+h3(day). Week 11: The "Rediscovery" of Medicine
 
 <div class="dateicon"><p>28<span>Oct</span></div>
-<div class="week">
+<div class="day">
 
 h4. Sick Poor 
 
@@ -372,7 +385,7 @@ h4. Sick Poor
 </div>
 
 <div class="dateicon"><p>30<span>Oct</span></div>
-<div class="week">
+<div class="day">
 
 h4. Renaissance Medicine & Humanism
 
@@ -381,7 +394,7 @@ h4. Renaissance Medicine & Humanism
 </div>
 
 <div class="dateicon"><p>01<span>Nov</span></div>
-<div class="week">
+<div class="day">
 
 h4. Quiz
 
@@ -390,10 +403,10 @@ h4. Quiz
 
 ---
 
-h3(week). Week 12: Anatomy
+h3(day). Week 12: Anatomy
 
 <div class="dateicon"><p>04<span>Nov</span></div>
-<div class="week">
+<div class="day">
 
 h4. The Anatomic Revolution 
 
@@ -402,16 +415,16 @@ h4. The Anatomic Revolution
 </div>
 
 <div class="dateicon"><p>06<span>Nov</span></div>
-<div class="week">
+<div class="day">
 
-h4. Renaissance Medicine & Humanism
+h4. Anatomy after Vesalius
 
 * _WMT_, 280-292.
 
 </div>
 
 <div class="dateicon"><p>08<span>Nov</span></div>
-<div class="week">
+<div class="day">
 
 h4. Renaissance Surgery
 
@@ -423,38 +436,41 @@ h4. Renaissance Surgery
 
 ---
 
-h3(week). Week 13: Review and Rest
+h3(day). Week 13: Review and Rest
 
 <div class="dateicon"><p>11<span>Nov</span></div>
-<div class="week">
+<div class="day">
 
 h4. Quiz
 
-* Essay 2 Due
+*(due) Essay 2 Due
 
 </div>
 
+<div class="day-off">
 <div class="dateicon"><p>13<span>Nov</span></div>
-<div class="week">
+<div class="day">
 
 h4. Break
 
 </div>
+</div>
 
+<div class="day-off">
 <div class="dateicon"><p>15<span>Nov</span></div>
-<div class="week">
+<div class="day">
 
 h4. Break
 
 </div>
-
+</div>
 
 ---
 
-h3(week). Week 14: New Worlds, New Remedies
+h3(day). Week 14: New Worlds, New Remedies
 
 <div class="dateicon"><p>18<span>Nov</span></div>
-<div class="week">
+<div class="day">
 
 h4. Medical Botany 
 
@@ -463,7 +479,7 @@ h4. Medical Botany
 </div>
 
 <div class="dateicon"><p>20<span>Nov</span></div>
-<div class="week">
+<div class="day">
 
 h4. Paracelsus and Chemical Remedies
 
@@ -472,27 +488,28 @@ h4. Paracelsus and Chemical Remedies
 </div>
 
 <div class="dateicon"><p>22<span>Nov</span></div>
-<div class="week">
+<div class="day">
 
-h4. Medical Astrology
+h4. Medical Alchemy and Astrology
 
+Physicians arguments for the necessity of alchemy and astrology in medicine (317-333).
 </div>
 
 ---
 
-h3(week). Week 15: Shifting Paradigms
+h3(day). Week 15: Shifting Paradigms
 
 <div class="dateicon"><p>25<span>Nov</span></div>
-<div class="week">
+<div class="day">
 
-h4. Circulation of Blood
+h4. Discovering Circulation
 
 * _WMT_, 325-340.
 
 </div>
 
 <div class="dateicon"><p>27<span>Nov</span></div>
-<div class="week">
+<div class="day">
 
 h4. Medicine in the Scientific Revolution
 
@@ -500,26 +517,28 @@ h4. Medicine in the Scientific Revolution
 
 </div>
 
+
+<div class="day-off">
 <div class="dateicon"><p>29<span>Nov</span></div>
-<div class="week">
+<div class="day">
 
 h4. Turkey Coma
 
 </div>
-
+</div>
 ---
 
-h3(week). Week 16: Last Bits
+h3(day). Week 16: Last Bits
 
 <div class="dateicon"><p>02<span>Dec</span></div>
-<div class="week">
+<div class="day">
 
 h4. Final Quiz
 
 </div>
 
 <div class="dateicon"><p>04<span>Dec</span></div>
-<div class="week">
+<div class="day">
 
 h4. Conclusions
 
@@ -528,7 +547,7 @@ h4. Conclusions
 </div>
 
 <div class="dateicon"><p>06<span>Dec</span></div>
-<div class="week">
+<div class="day">
 
 h4. Final Wrap-up
 
