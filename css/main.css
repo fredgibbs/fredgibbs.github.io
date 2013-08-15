@@ -403,6 +403,18 @@ blockquote p {
   line-height: 1.4em;
 }
 
+#syllabus-draft .draft {
+font-family: helvetica, sans-serif;
+font-size:1000%;
+opacity: .2;
+color:red;
+position:fixed;
+z-index: -90;
+text-transform: uppercase;
+margin-top:1em;
+
+}
+
 #syllabus a {
 border-bottom: 1px dotted #666;
 }

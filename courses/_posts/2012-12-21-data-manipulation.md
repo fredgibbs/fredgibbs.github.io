@@ -2,7 +2,8 @@
 layout: course 
 title: Advanced Digital History | Using Historical Data
 date: 2012-12-31 23:56:31 
-categories: [course] 
+categories: [course]
+status: draft
 ---
 
 #This is a DRAFT ONLY
