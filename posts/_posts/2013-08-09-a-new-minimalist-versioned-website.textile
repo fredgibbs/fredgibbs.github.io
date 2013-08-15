@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  A New Minimalist and Versioned Website
-date:   2013-08-14 06:21:00
+title: A New Minimalist and Versioned Website
+date: 2013-08-09 13:13:13
 categories: [post]
 ---
 
