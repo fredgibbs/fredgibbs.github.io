@@ -199,14 +199,15 @@ nav h1.title a, nav h1.navheader a, nav h1.navheader a:visited{
 }
 
 .site .footer .rss img {
-  border: 0;
+  border: none;
 }
 
 img.footer-icon {
   height:18px;
   vertical-align:middle;
   padding:0;
-  margin:0; 
+  margin:0;
+  border:none; 
 }
 
 li {
