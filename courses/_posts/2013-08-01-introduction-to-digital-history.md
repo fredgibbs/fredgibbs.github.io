@@ -7,19 +7,21 @@ categories: [course]
 
 Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
 Mesa Vista Hall, 1077    
-Office Hours: M 10-11; T 2:30-3:30; W 8-9    
+Office Hours: M 10-11; T 2-4    
 Syllabus online at [http://fredgibbs.net/introduction-to-digital-history](http://fredgibbs.net/introduction-to-digital-history/)
 
 ### Course Description
-This course explores the theoretical and methodological issues now facing humanistic study in a digital age. With an emphasis on critical data analysis, it presents a broad survey of how powerful new research methodologies now allow historians to ask and answer fundamentally different kinds of questions. The course also reflects on the changing nature of the history profession (such as its possible convergence toward the social sciences). On the whole, it aims to provide conceptual fluency on topics such as the uses of new media in relation to history and historical narrative, the implications of copyright law on access to historical data and scholarship, the changing role of museums and libraries, and the politics of authority and expertise in knowledge networks. This course challenges the typical conceptions of how one ought to produce and consume history, and, more broadly, provides guidelines for effectively bridging and combining humanities and technology skills that will *make you more employable*.
+This course explores the theoretical and methodological issues now facing humanistic study in a digital age. It presents a broad survey of how powerful new research methodologies now allow historians (broadly construed, including literary historians) to ask and answer fundamentally different kinds of questions. It explores topics such as data visualization, geo-spatial analysis, and text mining. On the whole, it aims to provide conceptual fluency on topics such as the uses of new media to present scholarly research, the implications of copyright law on access to historical data and scholarship, the changing role of museums and libraries, and the politics of authority and expertise in knowledge networks. The course also reflects on the changing nature of the humanities (such as their possible convergence toward the social sciences). This course challenges the typical conceptions of how one ought to produce and consume history as well as provides guidelines for effectively bridging and combining humanities and technology skills that will *make you more employable*.
 
 
 ### Course Goals
-- Understand the theories and principles of new media and technology and their potential impact on the humanities, particularly the history profession.
+- Understand the theories and principles of new media and technology and their potential impact on the humanities, with an emphasis on history
 
 - Develop conversational fluency: understand current debates and speak intelligently with both skeptics and advocates about the history and future of digital scholarship and its relationship to the world.
 
 - Appreciate the theoretical possibilities and practical limitations of digital archives, new research methodologies, and modes of scholarly communication.
+
+- Begin to experiment with new tools, workflows, and ways of thinking about history.
 
 
 ### Course Expectations and Grading
@@ -45,11 +47,11 @@ This course explores the theoretical and methodological issues now facing humani
 
 
 ### Final Project / Grant Proposal
-The goal of the final project is to show that you have grasped the topics presented in the course.
+The goals of the final project are (1) to show that you have grasped the topics presented in the course, and (2) to express them in a non-traditional form.
 
-You will design a Kickstarter campaign ([following their guidelines](http://www.kickstarter.com/help/school)) for a digital history project relevant to your field. It doesn't have to overlap perfectly with your current research, but it shouldn't be so far afield that you don't have enough subject matter expertise to propose an interesting question. Your proposal should employ technologies, methodologies, and approaches that we've decided constitute digital history. 
+You will design a Kickstarter campaign ([following their guidelines](http://www.kickstarter.com/help/school)) for a digital history project relevant to your field. It doesn't have to overlap perfectly with your current research, but it shouldn't be so far afield that you don't have enough subject matter expertise to propose an interesting project. Your proposal should employ technologies, methodologies, and approaches that we've decided constitute digital history. 
 
-In addition to the Kickstarter requirements, each proposal must explain its historical relevance, use of technology, limitations of methodology, expected research outcomes and benefits, sustainability plan.
+In addition to the Kickstarter materials, each proposal must explain its historical relevance, use of technology, limitations of methodology, expected research outcomes and benefits, sustainability plan. As with any campaign, one great challenge is to explain in lay terms why your project is interesting, how people will benefit from it, and why people should get excited enough to support it. 
 
 
 ### READINGS

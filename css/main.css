@@ -7,6 +7,7 @@
 /* Global Reset */
 @import url(http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700);
 @import url(http://fonts.googleapis.com/css?family=Oxygen:400,700);
+@import url(http://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed);
 
 * {
   margin: 0;
@@ -428,6 +429,7 @@ color:#aa3333;
 }
 
 #syllabus h3 {
+font-family: 'Roboto Condensed', helvetica, sans-serif;  
 text-transform: uppercase;
 font-size:120%;
 font-weight:bold;
@@ -653,8 +655,16 @@ a {
   line-height: 1.2em;
 }
 
+#syllabus a {
+  color:#999;
+}
+
 .day {
   margin-bottom:1em;
+}
+
+#syllabus .dateicon p span {
+  color:999;
 }
 
 #syllabus div.day, #syllabus .day-2 {

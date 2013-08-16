@@ -7,17 +7,21 @@ category: course
 
 Fred Gibbs ("fwgibbs@unm.edu":mailto:fwgibbs@unm.edu)
 Mesa Vista Hall, 1077
-Office Hours: M 10-11; T 2:30-3:30; W 8-9
+Office Hours: M 11-12; T 2-4
 Syllabus online at "http://fredgibbs.net/history-of-early-medicine":http://fredgibbs.net/history-of-early-medicine
 
-This course chronologically explores the wide range of theories and practices employed by premodern physicians and healers. It emphasizes their various approaches to understanding and treating disease and the gradual development of the medical profession. Although medieval and early modern medicine can seem utterly irrelevant to today's world, this course illustrates how a historical awareness of medicine gives us important perspectives on contemporary medical practices. Even more broadly, the course provide synthetic and interpretive frameworks for understanding the evolution of western medicine over time, such as how shifting social and cultural values have motivated (and continue to motivate) change in medicine. The emphasis shall always remain on showing how and why medical theory and practice looked like it did rather than simply regurgitating what happened over time.
+This course chronologically explores the wide range of theories and practices employed by pre-modern physicians and healers. It emphasizes their various approaches to understanding and treating disease and the gradual development of the medical profession. Although medieval and early modern medicine can seem utterly irrelevant to today's world, this course illustrates how a historical awareness of medicine gives us important perspectives on contemporary medical practices. Even more broadly, the course provide synthetic and interpretive frameworks for understanding the evolution of western medicine over time, such as how shifting social and cultural values have motivated (and continue to motivate) change in medicine. The emphasis shall always remain on showing how and why medical theory and practice looked like it did rather than simply regurgitating what happened over time.
 
 
-h2. Course Objectives
+h2. Student Learning Outcomes
 
-* Convey a sense of the overall trajectory of the history of premodern medicine.
-* Illustrate how medicine and medical values are influenced by shifting cultural, social, and political attitudes. 
-* Provide analytical frameworks to better reflect on and evaluate contemporary medical culture.
+* Understand the overall chronological and thematic trajectory of pre-modern medicine, approaching it from multiple points of view (theory, practice, disease, doctors, patients, etc.).
+
+* Discuss and write critically about how medicine and medical values are influenced by shifting cultural, social, religious, and political attitudes. 
+
+* Reflect on and evaluating contemporary medical culture using the historical perspectives and analytical frameworks provided by the course.
+
+* Critically evaluate contemporary medical writing (newspaper and magazine articles) to explicate the assumptions and values baked into modern medical thinking and its discourse.
 
 
 h2. Course Expectations and Grading
@@ -28,9 +32,9 @@ h2. Course Expectations and Grading
 
 * You will also give one topic introduction, which means getting up in front of the class, summarizing the assigned reading and asking interesting questions about the text and how it fits into the course (~10 mins.) and generally being our discussion leader. (5%)
 
-* There are 3 written assignments (due dates are indicated on the reading schedule below): 2 article reviews and 1 final essay. The first assignment will be 500 words; the second 750, and the final 1000. These are worth 10%, 15%, and 20% of your grade, respectively. *The goal is not simply to meet the word count, but to critically engage with the article you choose.*
+* There are 3 written assignments (due dates are indicated on the reading schedule below): 2 article reviews and 1 final essay. The first and second assignments will be 750 words and the final 1000. These are worth 10%, 15%, and 20% of your grade, respectively. 
 
-* The article reviews are a critical analysis of an article from a respectable newspaper or magazine or website about medicine (historical or contemporary). The choice of article is yours. Your job is to evaluate the article in terms of what we're doing in the course. You might explain how something billed as "new" has much earlier precedents. You might explain why a modern approach to a disease or medical issue differs from earlier medical responses. Even though you can choose your article to review, don't pick something that you can't relate to the course. Ask if you are unsure about whether an article is suitable or not. 
+* The article reviews are a critical analysis of an article from a respectable newspaper or magazine or website about medicine (past or present). The choice of article is yours. *The goal is not simply to meet the word count, but to critically analyze the article you choose and relate it to the course.* You might explain how something billed as "new" has much earlier precedents. You might explain why a modern approach to a disease or medical issue differs from earlier medical responses. Even though you can choose your article to review, don't pick something that you can't relate to the course. Ask if you are unsure about whether an article is suitable or not. 
 
 * Both reviews and the final essay can be submitted ahead of the due date via for preview, and I will provide brief comments as to whether you are on the right track or any major changes you should consider making.
 
