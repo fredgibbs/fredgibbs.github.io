@@ -173,7 +173,7 @@ Shlomo Argamon et al., [Gender, Race, and Nationality in Black Drama, 1950-2006:
 Play around with [Overview](http://overview.ap.org/) or [MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet)
 
 
-### 10. Creating Historical Data and Digital Workflows
+### 10. Data, Digital Workflows, Digital Studies
 There are great digital datasets available, but most historians work with sources that are far from ready to be plugged into digital tools. This group of readings suggests some techniques and strategies to make traditional analog sources suitable for use in a digital workflow. Everyone has to choose the set of tools and workflow that's appropriate to their own needs and habits. But having an open mind and flexibility in adjusting your own work habits can go a long way towards lowering the impedance between you and digital tools that can help your productivity skyrocket, and in fact allow you to venture into unchartered historical waters. 
 
 Elena Razlagova, [History and the Digital Image Forum: DIY Image Management with Zotero](http://www.historians.org/perspectives/issues/2012/1210/History-and-the-Digital-Image-Forum_DIY-Zotero.cfm).
@@ -183,6 +183,8 @@ Miriam Posner, [Batch-processing photos from your archive trip](http://miriampos
 Nancy Brown, [History and the Digital Image Forum: Lightroom as a Research Tool: From Organization to Interpretation](http://www.historians.org/perspectives/issues/2012/1210/History-and-the-Digital-Image-Forum_Lightroom-as-a-Research-Tool.cfm).
 
 Rachel Leow, [DevonThink](http://idlethink.wordpress.com/category/devonthink/). (Read this article AND at least skim through the short three part series that it links to.)
+
+Rather than assign more specific readings to cover the pedgogy facet we talked about the first day, we'll each find a reading related to how we might better integrate the kinds of concerns that underlie this course into undergraduate humanities courses generally.
 
 
 ### 11. Code
