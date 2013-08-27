@@ -184,7 +184,7 @@ Nancy Brown, [History and the Digital Image Forum: Lightroom as a Research Tool:
 
 Rachel Leow, [DevonThink](http://idlethink.wordpress.com/category/devonthink/). (Read this article AND at least skim through the short three part series that it links to.)
 
-Rather than assign more specific readings to cover the pedgogy facet we talked about the first day, we'll each find a reading related to how we might better integrate the kinds of concerns that underlie this course into undergraduate humanities courses generally.
+Rather than assign more specific readings to cover the pedagogy facet we talked about the first day, we'll each find a reading related to how we might better integrate the kinds of concerns that underlie this course into undergraduate humanities courses generally.
 
 
 ### 11. Code
