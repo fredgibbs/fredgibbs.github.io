@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unimagined Worlds of Digital Humanists and Textual Editing
+title: Unimagined Worlds of Digital Humanities and Textual Editing
 date: 2013-09-04 13:13:13
 categories: [post]
 ---
