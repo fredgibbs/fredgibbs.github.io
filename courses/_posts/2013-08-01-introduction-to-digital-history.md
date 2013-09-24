@@ -139,8 +139,16 @@ Johanna Drucker, [Humanities Approaches to Graphical Display](http://digitalhuma
 
 Elijah Meeks, [Infoviz and New Literacies](https://dhs.stanford.edu/algorithmic-literacy/infoviz-and-new-literacies/).
 
-Check out a few places to find data:[Chronicling America](http://chroniclingamerica.loc.gov/), [HathiTrust](http://www.hathitrust.org/), the [Time Magazine Corpus](http://corpus.byu.edu/time/) 
-A few tools for data manipulation: [DataWrangler](http://vis.stanford.edu/wrangler/), [OpenRefine](http://openrefine.org/), [Viewshare](http://viewshare.org).	
+John Theibault, [Visualizations and Historical Arguments](http://writinghistory.trincoll.edu/evidence/theibault-2012-spring/)
+
+Andrew J. Torget & Jon Christensen, [Mapping Texts: Visualizing American Historical Newspapers](http://journalofdigitalhumanities.org/1-3/mapping-texts-project-by-andrew-torget-and-jon-christensen/)
+
+Check out: a few places to find data: [Chronicling America](http://chroniclingamerica.loc.gov/), [HathiTrust](http://www.hathitrust.org/), the [Time Magazine Corpus](http://corpus.byu.edu/time/) 
+
+... a few tools for data manipulation: [DataWrangler](http://vis.stanford.edu/wrangler/), [OpenRefine](http://openrefine.org/).
+
+... a few tools to see/make stuff: [Viewshare](http://viewshare.org), [Flowing Data](http://flowingdata.org), [Gephi](http://gephi.org).
+
 
 
 ### 8. The Geospatial Humanities
@@ -152,7 +160,15 @@ Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhi
 
 Ian Gregory and David Cooper, [GIS, Texts, and Images: New Approaches](http://journals.tdl.org/paj/index.php/paj/article/view/20).
 
+Peter Fisher and Jo Wood, [What is a Mountain? Or The Englishman who went up a Boolean Geographical Concept but
+Realised it was Fuzzy](http://www.jstor.org/stable/pdfplus/40573211.pdf?acceptTC=true).
+
 Matthew Wilkens, [Geolocation Extraction and Mapping of Nineteenth-Century U.S. Fiction](http://chicagocolloquium.org/wp-content/uploads/2011/11/dhcs2011_submission_15.pdf).
+
+Check out some [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/), as well as a few other tools for making maps, like [OpenHeatMap](http://www.openheatmap.com/), [CartoDB](http://cartodb.com).
+
+**See how far you can get with mapping with [QGIS](http://www.qgis.org/en/site/index.html)**, and we'll work through problems in class. For tutorials, see [The Geospatial Historian](http://geospatialhistorian.wordpress.com/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgis.spatialthoughts.com/)
+
 
 
 ### 9. Text Mining and Topic Modeling
