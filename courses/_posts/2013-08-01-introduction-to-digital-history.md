@@ -160,8 +160,7 @@ Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhi
 
 Ian Gregory and David Cooper, [GIS, Texts, and Images: New Approaches](http://journals.tdl.org/paj/index.php/paj/article/view/20).
 
-Peter Fisher and Jo Wood, [What is a Mountain? Or The Englishman who went up a Boolean Geographical Concept but
-Realised it was Fuzzy](http://www.jstor.org/stable/pdfplus/40573211.pdf?acceptTC=true).
+Peter Fisher and Jo Wood, [What is a Mountain? Or The Englishman who went up a Boolean Geographical Concept but Realised it was Fuzzy](http://www.jstor.org/stable/pdfplus/40573211.pdf?acceptTC=true).
 
 Matthew Wilkens, [Geolocation Extraction and Mapping of Nineteenth-Century U.S. Fiction](http://chicagocolloquium.org/wp-content/uploads/2011/11/dhcs2011_submission_15.pdf).
 
