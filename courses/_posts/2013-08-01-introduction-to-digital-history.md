@@ -147,7 +147,7 @@ Check out: a few places to find data: [Chronicling America](http://chroniclingam
 
 ... a few tools for data manipulation: [DataWrangler](http://vis.stanford.edu/wrangler/), [OpenRefine](http://openrefine.org/).
 
-... a few tools to see/make stuff: [Viewshare](http://viewshare.org), [Flowing Data](http://flowingdata.org), [Gephi](http://gephi.org), [Visualeyes](http://www.viseyes.org/).
+... a few tools to see/make stuff: [Viewshare](http://viewshare.org), [Flowing Data](http://flowingdata.com), [Gephi](http://gephi.org), [Visualeyes](http://www.viseyes.org/).
 
 
 
