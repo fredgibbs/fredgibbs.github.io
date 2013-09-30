@@ -50,14 +50,14 @@ Below I've described my role on some projects. For more general project descript
 
 h3. Metadata Improvement VIA Mapping (MIVIAM)
 
-* Designed and coded highly functional Javascript interface to visualize thousands of data points on a Google map
-* Sorting, filtering, and editing functions allowed researchers to normalize and standardize data for easier research.
+* Designed and coded highly functional Javascript interface to visualize thousands of data points on a Google map (botanical expedition data held at "JSTOR Plants":plants.jsor.org)
+* Sorting, filtering, and editing functions allowed researchers to normalize and standardize metadata for easier research on botanical expeditions
 * Architected database schema and interface to manage suggested changes to metadata
 
 
 h3. Reframing the Victorians
 
-* Created various visualizations of word frequency in 19th century printed material
+* Created various visualizations of word frequency statistics in 19th century printed materials held at Google Books
 * Ran large data mining operation using Amazon S3 and Elastic MapReduce
 * Coordinated with Google to procure datasets for exploration
 * Published methodology piece in _Victorian Studies_.
@@ -78,7 +78,7 @@ h2. Presentations and Participations
 
 h4. Upcoming
 
-* Poison, Putrefaction, and the Ontology of Disease in the Sixteenth Century
+* Poison, Putrefaction, and Ontology of Disease in the Sixteenth Century
 ** Johns Hopkins University (Nov 2013)
 
 h4. Previously
