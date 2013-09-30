@@ -50,7 +50,7 @@ Below I've described my role on some projects. For more general project descript
 
 h3. Metadata Improvement VIA Mapping (MIVIAM)
 
-* Designed and coded highly functional Javascript interface to visualize thousands of data points on a Google map (botanical expedition data held at "JSTOR Plants":plants.jsor.org)
+* Designed and coded highly functional Javascript interface to visualize thousands of data points on a Google map (botanical expedition data held at "JSTOR Plants":http://plants.jsor.org)
 * Sorting, filtering, and editing functions allowed researchers to normalize and standardize metadata for easier research on botanical expeditions
 * Architected database schema and interface to manage suggested changes to metadata
 
