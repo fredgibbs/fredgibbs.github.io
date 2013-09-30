@@ -48,10 +48,11 @@ h2. Recent Digital Projects
 Below I've described my role on some projects. For more general project descriptions, including descriptions of ongoing projects, please see "fredgibbs.net/projects":http://fredgibbs.net/projects.
 
 
-h3. Plants, Exploration, and Botanical Collecting
+h3. Metadata Improvement VIA Mapping (MIVIAM)
 
-* Designed and coded highly functional Javascript interface to visualize thousands of place markers on a Google map
-* Architected database schema to manage suggest changes to metadata
+* Designed and coded highly functional Javascript interface to visualize thousands of data points on a Google map
+* Sorting, filtering, and editing functions allowed researchers to normalize and standardize data for easier research.
+* Architected database schema and interface to manage suggested changes to metadata
 
 
 h3. Reframing the Victorians
@@ -59,13 +60,13 @@ h3. Reframing the Victorians
 * Created various visualizations of word frequency in 19th century printed material
 * Ran large data mining operation using Amazon S3 and Elastic MapReduce
 * Coordinated with Google to procure datasets for exploration
-* Wrote about methodology in _Victorian Studies_.
+* Published methodology piece in _Victorian Studies_.
 
 h3. Digging Into Data: Criminal Intent
 
 * Researched cases on poison using Old Baily Online API and Voyant
 * Developed Zotero translator to harvest data from the Old Bailey API
-* Participated in routine conference calls with project team to review progress and plot next steps
+* Participated in routine conference calls with project team to review progress and meet deliverable deadlines
 
 
 h2. Review Work
