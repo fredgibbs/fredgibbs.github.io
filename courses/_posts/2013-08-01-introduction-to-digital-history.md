@@ -145,9 +145,9 @@ Dmitry Paranyushkin, [Identifying the Pathways for Meaning Circulation using Tex
 
 Andrew J. Torget & Jon Christensen, [Mapping Texts: Visualizing American Historical Newspapers](http://journalofdigitalhumanities.org/1-3/mapping-texts-project-by-andrew-torget-and-jon-christensen/)
 
-Check out: a few places to find data: [Chronicling America](http://chroniclingamerica.loc.gov/), [HathiTrust](http://www.hathitrust.org/), the [Time Magazine Corpus](http://corpus.byu.edu/time/) 
+Check out: a few places to find data: [Chronicling America](http://chroniclingamerica.loc.gov/), [HathiTrust](http://www.hathitrust.org/), the [Time Magazine Corpus](http://corpus.byu.edu/time/), the [Internet Archive](http:/archive.org), [Digital Public Library of America](http:://dp.la). 
 
-... a few tools for data manipulation: [DataWrangler](http://vis.stanford.edu/wrangler/), [OpenRefine](http://openrefine.org/).
+... a few tools (and videos) for data manipulation: [DataWrangler](http://vis.stanford.edu/wrangler/), [OpenRefine](http://openrefine.org/).
 
 ... a few tools to see/make stuff: [Viewshare](http://viewshare.org), [Flowing Data](http://flowingdata.com), [Gephi](http://gephi.org), [Visualeyes](http://www.viseyes.org/).
 
