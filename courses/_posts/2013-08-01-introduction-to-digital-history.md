@@ -211,6 +211,8 @@ Matthew Kirschenbaum, [Hello Worlds](http://chronicle.com/article/Hello-Worlds/5
 
 Fred Gibbs, [Coding in the Humanities](../coding-in-the-humanities/).
 
+Caleb McDaniel, [Mining the BPL Anti-Slavery Collection on the Internet Archive](http://wcm1.web.rice.edu/mining-bpl-antislavery.html).
+
 Michael Widner, [Learn to Code; Learn Code Culture](http://hastac.org/blogs/michael-widner/2012/02/16/learn-code-learn-code-culture).
 
 Jeff Atwood, [Please Don't Learn to Code](http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html).
