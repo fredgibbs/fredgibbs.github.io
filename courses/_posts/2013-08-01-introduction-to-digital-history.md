@@ -126,6 +126,7 @@ Tricia Wang, [Big Data Needs Thick Data](http://ethnographymatters.net/2013/05/1
 Tim Hitchcock, [Culturomics, Big Data, Code Breakers and the Casaubon Delusion](http://historyonics.blogspot.com/2011/06/culturomics-big-data-code-breakers-and.html).
 
 
+
 ### 6. Quantitative History
 Are there any meaningful differences between digital history and social science? What happens to historical interpretations that are filtered through quantitative analysis and visualization tools?
 
@@ -145,7 +146,7 @@ Dmitry Paranyushkin, [Identifying the Pathways for Meaning Circulation using Tex
 
 Andrew J. Torget & Jon Christensen, [Mapping Texts: Visualizing American Historical Newspapers](http://journalofdigitalhumanities.org/1-3/mapping-texts-project-by-andrew-torget-and-jon-christensen/)
 
-Check out: a few places to find data: [Chronicling America](http://chroniclingamerica.loc.gov/), [HathiTrust](http://www.hathitrust.org/), the [Time Magazine Corpus](http://corpus.byu.edu/time/), the [Internet Archive](http:/archive.org), [Digital Public Library of America](http:://dp.la). 
+Check out: a few places to find data: [Chronicling America](http://chroniclingamerica.loc.gov/), [HathiTrust](http://www.hathitrust.org/), [Time Magazine Corpus](http://corpus.byu.edu/time/), [Internet Archive](http://archive.org), [Digital Public Library of America](http:://dp.la). 
 
 ... a few tools (and videos) for data manipulation: [DataWrangler](http://vis.stanford.edu/wrangler/), [OpenRefine](http://openrefine.org/).
 
