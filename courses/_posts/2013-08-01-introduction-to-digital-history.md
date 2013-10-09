@@ -186,11 +186,18 @@ Cameron Blevins, [Topic Modeling Martha Ballard's Diary](http://historying.org/m
 
 Shlomo Argamon et al., [Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html).
 
-Play around with [Overview](http://overview.ap.org/) or [MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet)
+Play around with [Overview](http://overview.ap.org/) or [MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet), and try to use them with a very small corpus, just to go through the process. This is play, not research! (if you separate them, anyway).
+
 
 
 ### 10. Data, Digital Workflows, Digital Studies
 There are great digital datasets available, but most historians work with sources that are far from ready to be plugged into digital tools. This group of readings suggests some techniques and strategies to make traditional analog sources suitable for use in a digital workflow. Everyone has to choose the set of tools and workflow that's appropriate to their own needs and habits. But having an open mind and flexibility in adjusting your own work habits can go a long way towards lowering the impedance between you and digital tools that can help your productivity skyrocket, and in fact allow you to venture into unchartered historical waters. 
+
+Rather than assign more specific readings to cover the pedagogy facet we talked about the first day, we'll each find a reading related to how we might better integrate the kinds of concerns that underlie this course into undergraduate humanities courses generally.
+
+For the readings below, we won't have experts or a discussion leader. Rather, we'll talk about how our own research needs present challenges to creating new workflows and how to meet them, and how they overlap with the pedagogy concerns that you raise from whatever reading(s) you choose.
+
+William J Turkel, [Workflows and Digital Sources](http://williamjturkel.net/how-to/) (and explore the links!).
 
 Elena Razlagova, [History and the Digital Image Forum: DIY Image Management with Zotero](http://www.historians.org/perspectives/issues/2012/1210/History-and-the-Digital-Image-Forum_DIY-Zotero.cfm).
 
@@ -200,7 +207,6 @@ Nancy Brown, [History and the Digital Image Forum: Lightroom as a Research Tool:
 
 Rachel Leow, [DevonThink](http://idlethink.wordpress.com/category/devonthink/). (Read this article AND at least skim through the short three part series that it links to.)
 
-Rather than assign more specific readings to cover the pedagogy facet we talked about the first day, we'll each find a reading related to how we might better integrate the kinds of concerns that underlie this course into undergraduate humanities courses generally.
 
 
 ### 11. Code
