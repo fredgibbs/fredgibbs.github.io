@@ -21,7 +21,7 @@ Each of these have there own strengths and weaknesses, and I have more or less t
 
 You&#8217;ll need to have a small set (= corpus) of texts (= documents) to play with. Having a small corpus is a double-edged sword, as it is easier to see what&#8217;s going on, but the results often appear to be trivial and so it&#8217;s easy to think the whole method is worthless. Whether or not you&#8217;ll immediately think R is cool probably depends on selecting a corpus and documents lengths that aren&#8217;t too big or too small. You need to have all of your texts in separate plain text files (like a .txt extension), gathered together in a single directory.
 
-I&#8217;ve created a set of 5 trivial texts. You can [download the zip file](http://fredgibbs.net/downloads/corpus.zip), move it to wherever you&#8217;d like on your computer, and unzip it. just remember where you put it, as you&#8217;ll need the directory later.
+I&#8217;ve created a set of 5 trivial texts. You can [download the zip file](http://fredgibbs.net/tutorials/downloads/corpus.zip), move it to wherever you&#8217;d like on your computer, and unzip it. just remember where you put it, as you&#8217;ll need the directory later.
 
 [Download R](http://cran.wustl.edu/) for your operating system. Usually you&#8217;ll want the click the link that gives you the latest binary. After you download and run it, it will guide you through the installation process. Launch the R application, which should bring up the R &#8220;console&#8221; (= application window), which provides you with an interface to your R workspace. Everything that follows should be done in the R console.
 
