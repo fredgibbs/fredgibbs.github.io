@@ -222,7 +222,7 @@ One particularly vibrant conversation of the past few years in the digital human
 ONE (not all!) of the below options (Tweet your choice to claim it, so we can maximize coverage as a group). We'll spend a few minutes discussing the issues raised in the various pieces.
 
 **DO:**
-The Preface, Introduction, and Exercises 0-6 of [this programming tutorial mentioned last time](http://learnpythonthehardway.org/book/). 
+The Preface, Introduction, and Exercises 0-6 of [this programming tutorial mentioned last time](http://learnpythonthehardway.org/book/). If you get stuck, I expect to see some tweets with screen shots and error messages. You WILL get this done before next class, and I will help you.
 
 **IN CLASS:**
 We'll talk about unanswered questions from the tutorials, and look at how basic programming can help with GIS and text mining projects we've discussed recently (especially cleaning text files).
