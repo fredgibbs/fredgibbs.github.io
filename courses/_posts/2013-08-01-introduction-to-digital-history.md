@@ -212,11 +212,25 @@ Rachel Leow, [DevonThink](http://idlethink.wordpress.com/category/devonthink/). 
 ### 11. Code
 One particularly vibrant conversation of the past few years in the digital humanities community concerns whether digital humanists should learn to code. Although often answered with a yes or no, the more helpful question is the extent to which (and the conditions under which) coding knowledge and experience is either useful and/or necessary in the digital humanities. Should it be required learning in digital humanities courses? Regular humanities courses?
 
+---
+
+**UPDATE (10/23/13):** 
+### Less Reading, More Doing!
+
+**READ:**
+ONE (not all!) of the below options (Tweet your choice to claim it to maximize coverage). We'll spend a few minutes discussing the issues raised in the various pieces.
+
+**DO:**
+The Preface, Introduction, and Exercises 0-6 of [this programming tutorial mentioned last time](http://learnpythonthehardway.org/book/). 
+
+**IN CLASS:**
+We'll talk about unanswered questions from the tutorials, and look at how basic programming can help with GIS and text mining projects (especially cleaning text files).
+
+---
+
 Cathy Davidson, [What are the 4 Rs Essential to 21st-century Learning?](http://hastac.org/blogs/cathy-davidson/2011/10/31/what-are-4-rs-essential-21st-century-learning).
 
 Matthew Kirschenbaum, [Hello Worlds](http://chronicle.com/article/Hello-Worlds/5476).
-
-Fred Gibbs, [Coding in the Humanities](../coding-in-the-humanities/).
 
 Caleb McDaniel, [Mining the BPL Anti-Slavery Collection on the Internet Archive](http://wcm1.web.rice.edu/mining-bpl-antislavery.html).
 
@@ -227,6 +241,7 @@ Jeff Atwood, [Please Don't Learn to Code](http://www.codinghorror.com/blog/2012/
 Peter Norvig, [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html).
 
 Miriam Posner, [Some things to think about before you exhort everyone to code](http://miriamposner.com/blog/?p=1135).
+
 
 
 ### 12. Peer Review, and Publishing
