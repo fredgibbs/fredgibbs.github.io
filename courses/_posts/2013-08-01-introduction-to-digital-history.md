@@ -214,8 +214,9 @@ One particularly vibrant conversation of the past few years in the digital human
 
 ---
 
-**UPDATE (10/23/13):** 
-### Less Reading, More Doing!
+### UPDATE (10/23/13):
+
+**Less Reading, More Doing!**
 
 **READ:**
 ONE (not all!) of the below options (Tweet your choice to claim it to maximize coverage). We'll spend a few minutes discussing the issues raised in the various pieces.
