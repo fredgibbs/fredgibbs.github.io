@@ -392,7 +392,7 @@ h3(day). Week 11: The "Rediscovery" of Medicine
 
 h4. Sick Poor 
 
-* _WMT_, 224-250.
+* _WMT_, 244-250.
 
 </div>
 
