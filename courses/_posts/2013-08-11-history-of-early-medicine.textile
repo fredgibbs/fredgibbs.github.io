@@ -408,7 +408,10 @@ h4. Renaissance Medicine & Humanism
 <div class="dateicon"><p>01<span>Nov</span></div>
 <div class="day">
 
-h4. Quiz
+h4. The Anatomic Revolution 
+
+* _WMT_, 268-280.
+
 
 </div>
 
@@ -420,9 +423,8 @@ h3(day). Week 12: Anatomy
 <div class="dateicon"><p>04<span>Nov</span></div>
 <div class="day">
 
-h4. The Anatomic Revolution 
+h4. No Class: Work on your essays!
 
-* _WMT_, 268-280.
 
 </div>
 
@@ -432,6 +434,9 @@ h4. The Anatomic Revolution
 h4. Anatomy after Vesalius
 
 * _WMT_, 280-292.
+
+*(due) Essay 2 Drafts Due (optional)
+
 
 </div>
 
@@ -453,9 +458,8 @@ h3(day). Week 13: Review and Rest
 <div class="dateicon"><p>11<span>Nov</span></div>
 <div class="day">
 
-h4. Quiz
+h4. Writing Workshop
 
-*(due) Essay 2 Due
 
 </div>
 
@@ -487,6 +491,8 @@ h3(day). Week 14: New Worlds, New Remedies
 h4. Medical Botany 
 
 * _WMT_, 298-310.
+
+*(due) Essay 2 Due
 
 </div>
 
