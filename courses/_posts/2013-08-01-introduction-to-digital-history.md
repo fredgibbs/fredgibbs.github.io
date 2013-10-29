@@ -14,7 +14,7 @@ Syllabus online at [http://fredgibbs.net/introduction-to-digital-history](http:/
 This course explores the theoretical and methodological issues now facing humanistic study in a digital age. It presents a broad survey of how powerful new research methodologies now allow historians (broadly construed, including literary historians) to ask and answer fundamentally different kinds of questions. It explores topics such as data visualization, geo-spatial analysis, and text mining. On the whole, it aims to provide conceptual fluency on topics such as the uses of new media to present scholarly research, the implications of copyright law on access to historical data and scholarship, the changing role of museums and libraries, and the politics of authority and expertise in knowledge networks. The course also reflects on the changing nature of the humanities (such as their possible convergence toward the social sciences). This course challenges the typical conceptions of how one ought to produce and consume history as well as provides guidelines for effectively bridging and combining humanities and technology skills that will *make you more employable*.
 
 
-### Course Goals
+### Student Learning Objectives
 - Understand the theories and principles of new media and technology and their potential impact on the humanities, with an emphasis on history
 
 - Develop conversational fluency: understand current debates and speak intelligently with both skeptics and advocates about the history and future of digital scholarship and its relationship to the world.
@@ -36,6 +36,15 @@ This course explores the theoretical and methodological issues now facing humani
 - Completion of a Final Project in the guise of a preparing necessary materials for (but not actually submitting) a Kickstarter campaign.  (25%)
 
 - Perseverance and tolerance for frustration with hypothetical discussions. Digital humanities engages with new methodological problems and professional challenges raised by rapidly shifting technology and new media. Must be able to have fun while groping. (5%)
+
+
+###Other Important Information
+
+**Academic Integrity:** The University of New Mexico believes that academic honesty is a foundation principle for personal and academic development. All University policies regarding academic honesty apply to this course. Academic dishonesty includes, but is not limited to, cheating or copying, plagiarism (claiming credit for the words or works of another from any type of course such as print, Internet or electronic database, or failing to cite the source), fabricating information or citations, facilitating acts of academic dishonesty by others, having unauthorized possession of examinations, submitting work of another person or work previously used without informing the instructor, or tampering with the academic work of other students. The University’s full statement on academic honesty and the consequences for failure to comply is available in the college catalog and in the Pathfinder.
+
+**Attendance Policy:** Regular and punctual attendance is required. UNM Pathfinder policies apply, which in part means instructor drops based on non-attendance are possible. This policy applies regardless of the grading option you have chose.
+
+**Accommodation:** Accessibility Services (Mesa Vista Hall 2021, 277-3506) provides academic support to students who have disabilities. If you think you need alternative accessible formats for undertaking and completing coursework, you should contact this service right away to assure your needs are met in a timely manner. If you need local assistance in contacting Accessible Services, see the Bachelor and Graduate Programs office. 
 
 
 ### Other Advice to Help You Do Well
