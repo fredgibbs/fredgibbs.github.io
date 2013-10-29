@@ -13,15 +13,13 @@ Syllabus online at "http://fredgibbs.net/history-of-early-medicine":http://fredg
 This course chronologically explores the wide range of theories and practices employed by pre-modern physicians and healers. It emphasizes their various approaches to understanding and treating disease and the gradual development of the medical profession. Although medieval and early modern medicine can seem utterly irrelevant to today's world, this course illustrates how a historical awareness of medicine gives us important perspectives on contemporary medical practices. Even more broadly, the course provide synthetic and interpretive frameworks for understanding the evolution of western medicine over time, such as how shifting social and cultural values have motivated (and continue to motivate) change in medicine. The emphasis shall always remain on showing how and why medical theory and practice looked like it did rather than simply regurgitating what happened over time.
 
 
-h2. Student Learning Outcomes
+h2. Student Learning Objectives
 
-* Understand the overall chronological and thematic trajectory of pre-modern medicine, approaching it from multiple points of view (theory, practice, disease, doctors, patients, etc.).
+* Understand the overall chronological and thematic trajectory of premodern medicine, approaching it from multiple points of view (theory, practice, disease, doctors, patients, etc.).
 
 * Discuss and write critically about how medicine and medical values are influenced by shifting cultural, social, religious, and political attitudes. 
 
-* Reflect on and evaluating contemporary medical culture using the historical perspectives and analytical frameworks provided by the course.
-
-* Critically evaluate contemporary medical writing (newspaper and magazine articles) to explicate the assumptions and values baked into modern medical thinking and its discourse.
+* Critically evaluate contemporary medical writing (newspaper and magazine articles) to explicate the assumptions and values of modern medical thinking and its discourse using the historical perspectives and analytical frameworks provided by the course.
 
 
 h2. Course Expectations and Grading
@@ -38,9 +36,11 @@ h2. Course Expectations and Grading
 
 * Both reviews and the final essay can be submitted ahead of the due date via for preview, and I will provide brief comments as to whether you are on the right track or any major changes you should consider making.
 
-* If you are displeased with your grade and think you can do better, you can visit with me about your paper, rework it, resubmit it, and I'll regrade it. You'll get the average of the two grades. There is no guarantee your grade will improve, but it always does.
+* If you are displeased with your grade and think you can do better, you can visit with me about your paper, rework it, resubmit it, and I'll regrade it. You can continue to do this until we agree that it's not going to get substantially better.
 
 * Your final will be to answer one of the questions listed below. I am open to alternative questions or creative projects, too, if you'd like to suggest one.
+
+* **Graduate Requirements:** In addition to the undergraduate requirements, graduate students will read an additional 5-7 books, meet with the instructor every week to discuss readings, and complete a 15-20 page final paper. The paper can be either a research paper based on original research of primary sources or a historiographical review of a topic within history of premodern medicine.
 
 
 h3. Sample Questions/Topics
@@ -53,6 +53,14 @@ h3. Sample Questions/Topics
 
 * What, if anything, can modern medicine learn from pre-modern medicine?
 
+
+h2. Other Important Information
+
+**Academic Integrity:** The University of New Mexico believes that academic honesty is a foundation principle for personal and academic development. All University policies regarding academic honesty apply to this course. Academic dishonesty includes, but is not limited to, cheating or copying, plagiarism (claiming credit for the words or works of another from any type of course such as print, Internet or electronic database, or failing to cite the source), fabricating information or citations, facilitating acts of academic dishonesty by others, having unauthorized possession of examinations, submitting work of another person or work previously used without informing the instructor, or tampering with the academic work of other students. The University’s full statement on academic honesty and the consequences for failure to comply is available in the college catalog and in the Pathfinder.
+
+**Attendance Policy:** Regular and punctual attendance is required. UNM Pathfinder policies apply, which in part means instructor drops based on non-attendance are possible. This policy applies regardless of the grading option you have chose.
+
+**Accommodation:** Accessibility Services (Mesa Vista Hall 2021, 277-3506) provides academic support to students who have disabilities. If you think you need alternative accessible formats for undertaking and completing coursework, you should contact this service right away to assure your needs are met in a timely manner. If you need local assistance in contacting Accessible Services, see the Bachelor and Graduate Programs office. 
 
 
 h2. Other Advice to Help You Do Well
