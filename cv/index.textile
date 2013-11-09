@@ -30,6 +30,8 @@ h2. Education
 
 h2. Publications
 
+* Review of Luke Demaitre, _Medieval Medicine: The Art of Healing from Head to Toe_. _Journal of the History of Medicine and Allied Sciences_, forthcoming.
+* Review of Nancy Siraisi, _Communities of Learned Experience. Epistolary Medicine in the Renaissance_. _British Journal of the History of Science_, forthcoming.
 * "Poisonous Properties, Bodies, and Forms in the Fifteenth Century," _Preternature_ 2.1 (2013): 19-46.
 * "Riding the Bicycle of Kuhn's _Structure_," _Historical Studies in the Natural Sciences_ 42.5 (2012): 510-513.
 * "The Historical Value of Ephemeral Discussion of Science on the Web" in _Science &#64; Risk_, a report from the Library of Congress National Digital Information Infrastructure and Preservation Program ["PDF":http://www.digitalpreservation.gov/meetings/documents/othermeetings/science-at-risk-NDIIPP-report-nov-2012.pdf]
@@ -81,8 +83,14 @@ h4. Upcoming
 * Poison, Putrefaction, and Ontology of Disease in the Sixteenth Century
 ** Johns Hopkins University (Nov 2013)
 
+* Critiquing Digital Humanities Scholarship & Service
+** University of Houston (Feb 2014)
+
+
 h4. Previously
 
+* Speaking in Code Workshop
+** Scholars' Lab @ University of Virginia (November 2013)
 * Document Similarity with R
 ** THATCamp @ RRCHNM (June 2013)
 * Historical Mapping with QGIS
@@ -96,7 +104,7 @@ h4. Previously
 * Archiving Online Science
 ** Library of Congress: Science at Risk Workshop (July 2012)
 * Text mining in the Digital Humanities
-** Hertog Global Strategy Initiative &#64; Columbia University (May 2012)
+** Hertog Global Strategy Initiative @ Columbia University (May 2012)
 * Mapping Metadata
 ** American Society for Environmental History (Apr 2012)
 * Organizing Early Modern Texts
