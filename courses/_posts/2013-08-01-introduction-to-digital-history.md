@@ -1,7 +1,7 @@
 --- 
 layout: course 
 title: Digital History | History 666-002 | Fall 2013
-date: 2013-08-12 00:00:01 
+date: 2013-10-29 00:00:01 
 categories: [course] 
 ---
 
