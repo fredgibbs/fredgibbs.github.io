@@ -1,7 +1,7 @@
 ---
 layout: course 
 title: Medieval Science & Medicine | HIST 300-001 | Spring 2014
-date: 2013-10-20 00:00:01
+date: 2013-11-09 00:00:00
 category: course 
 ---
 
