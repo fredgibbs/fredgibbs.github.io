@@ -1,7 +1,7 @@
 ---
 layout: course 
 title: History of Early Medicine | HIST 300-009 | Fall 2013
-date: 2013-08-12 00:00:01
+date: 2013-10-28 00:00:01
 category: course 
 ---
 
@@ -43,6 +43,7 @@ h2. Course Expectations and Grading
 * **Graduate Requirements:** In addition to the undergraduate requirements, graduate students will read an additional 5-7 books, meet with the instructor every week to discuss readings, and complete a 15-20 page final paper. The paper can be either a research paper based on original research of primary sources or a historiographical review of a topic within history of premodern medicine.
 
 
+
 h3. Sample Questions/Topics
 
 * To what extent is ancient and medieval medicine wrong (compared to modern views) because they had inferior medical technology?
@@ -52,6 +53,7 @@ h3. Sample Questions/Topics
 * How has medical theory and practice been affected by social factors outside of "pure" medical knowledge?
 
 * What, if anything, can modern medicine learn from pre-modern medicine?
+
 
 
 h2. Other Important Information
