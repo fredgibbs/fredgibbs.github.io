@@ -267,13 +267,13 @@ Michael Wesch, [The Machine is Us/ing Us](http://www.youtube.com/watch?v=NLlGopy
 
 Roy Rosenzweig, [Can History be Open Source? Wikipedia and the Future of the Past](http://chnm.gmu.edu/essays-on-history-new-media/essays/?essayid=42).
 
-William Cronon, [Scholarly Authority in a Wikified World](http://www.historiansorg/Perspectives/issues/2012/1202/Scholarly-Authority-in-a-Wikified-World.cfm).
+William Cronon, [Scholarly Authority in a Wikified World](http://www.historians.org/Perspectives/issues/2012/1202/Scholarly-Authority-in-a-Wikified-World.cfm).
 
 Flickr Commons, [Flickr: Discussing Question Re Crowdsourcing: Fail or Win? in Flickr Commons](http://www.flickr.com/groups/flickrcommons/discuss/72157620593449864).
 
 Nieman Journalism Lab [Four Crowdsourcing Lessons from the Guardian’s (spectacular) Expenses-scandal Experiment](http://www.niemanlab.org/2009/06/four-crowdsourcing-lessons-from-the-guardians-spectacular-expenses-scandal-experiment/).
 
-Elissa Frankle, [More Crowdsourced Scholarship: Citizen History.](http://futureofmuseums.blogspot.com/2011/07/more-crowdsourced-scholarship-citizen.html).
+Elissa Frankle, [More Crowdsourced Scholarship: Citizen History](http://futureofmuseums.blogspot.com/2011/07/more-crowdsourced-scholarship-citizen.html).
 
 
 ### 14. Critiquing Digital History
