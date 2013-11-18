@@ -287,7 +287,7 @@ MLA, [Guidelines for Evaluating Work in Digital Humanities and Digital Media](ht
 
 CDRH, [Best Practices for Digital Work](http://cdrh.unl.edu/articles/best_practices.php).
 
-Todd Presner, [Evaluating Digital Scholarship](http://idhmc.tamu.edu/commentpress/digital-scholarship/).
+Todd Presner, [Evaluating Digital Scholarship](http://idhmc.tamu.edu/commentpress/digital-scholarship/); this also appears on pp. 128-9 of *Digital_Humanities*.
 
 
 ### 15. Copyright & Access
