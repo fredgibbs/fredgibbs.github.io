@@ -297,7 +297,7 @@ Susan M. Bielstein, *Permissions: A Survival Guide*
 
 [What We’re Reading: #AHAgate](http://www.publishing.umich.edu/2013/07/24/what-were-reading-ahagate/).
 
-Brian Lamb, [Dr. Mashup](http://www.educause.edu/EDUCAUSE+Review/EDUCAUSEReviewMagazineVolume42/DrMashuporWhyEducatorsShouldLe/161747).
+Brian Lamb, [Dr. Mashup](http://www.educause.edu/ero/article/dr-mashup-or-why-educators-should-learn-stop-worrying-and-love-remix).
 
 Overview of Licenses: [GNU GPL](http://www.gnu.org/copyleft/gpl.html) and [Creative Commons](http://creativecommons.org).
 
