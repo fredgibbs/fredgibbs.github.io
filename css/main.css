@@ -400,6 +400,23 @@ blockquote p {
 /*
 /*****************************************************************************/
 
+.ui-accordion {
+
+}
+
+.ui-accordion-header {
+font-size:90%;
+}
+
+.ui-accordion-content {
+font-size:80%;
+}
+
+
+.left (
+text-align:left;
+)
+
 #syllabus {
   font-family: 'Oxygen', sans-serif;
   line-height: 1.4em;
@@ -432,10 +449,19 @@ color:#aa3333;
 #syllabus h3 {
 font-family: 'Roboto Condensed', helvetica, sans-serif;  
 text-transform: uppercase;
-font-size:120%;
+ffont-size:130%;
 font-weight:bold;
-margin-top:1em 0 .5em 0;
+mmargin:1.5em 0 .5em 0;
 color:#880000;
+}
+
+#syllabus h3.side {
+  margin: .7em 0 0 -8em;
+  display:inline;
+  float:left;
+  font-size:90%;
+  color:#666;
+  text-align: justify;
 }
 
 #syllabus h3.day {
@@ -625,9 +651,12 @@ a {
 
 @media print {
 
+
   @page {margin: 3cm;}
 
   body {
+    font-weight: normal;
+    font-family: times;
     font-size:80%;
     padding:0;
     margin: 0;
@@ -651,9 +680,25 @@ a {
     display:none;
   }
 
+#accordion > *{display:block !important;}
+#accordion-schedule > *{display:block !important;}
+
+ul, li {
+  font-weight: normal;
+}
+
+h2 {
+  clear:both;
+}
+
+#syllabus #accordion {
+  font-weight: normal;
+}
+
 #syllabus {
-  font-size:10px;
+  font-size:11px;
   line-height: 1.2em;
+  font-weight: normal;
 }
 
 #syllabus a {
