@@ -10,95 +10,133 @@ Mesa Vista Hall, 1077
 Office Hours: M 11-12; W 2-4
 Syllabus online at "http://fredgibbs.net/medieval-science-medicine":http://fredgibbs.net/medieval-science-medicine
 
-This course explores the nature of science and medicine in Western Europe roughly spanning 400 – 1400. After a brief introduction to the crucial contributions in medicine and natural philosophy from the classical world, we'll examine how various social, cultural, institutional, and intellectual influences shaped medieval understandings of the world. In terms of specific topics, we'll look at cosmology, astronomy, astrology, natural history, medical theory and practice, as well as alchemy and early chemistry. We'll also investigate broader themes, such as the theoretical and practical sides of medieval medicine, the contributions of Islamic culture to Western science, interactions between science and religion (especially natural philosophy and theology), and the university's rise and influence on science and medicine. While surveying the context of medieval frameworks for investigating and explaining the natural world, we'll also reflect on the nature and utility of the term "science," the extent to which the origins of modern science can be located in the medieval period, and the importance of putting the modern scientific enterprise in historical perspective.
+h2. Overview
 
-h2. Student Learning Outcomes
+<div id="accordion">
 
-* Appreciate important developments in medieval science medicine, and how they can/should be understood from multiple points of view.
+h3. Course Description
 
-* Discuss and write critically about how the nature and practices of science are influenced by shifting cultural, social, religious, and political attitudes. 
+<div>
+<p>
+	This course explores the nature of science and medicine in Western Europe roughly spanning 400 – 1400. After a brief introduction to the crucial contributions in medicine and natural philosophy from the classical world, we'll examine how various social, cultural, institutional, and intellectual influences shaped medieval understandings of the world. In terms of specific topics, we'll look at cosmology, astronomy, astrology, alchemy, chemistry, natural history, as well as medical theory and practice. We'll also investigate broader themes, such as the theoretical and practical sides of medieval medicine, the contributions of Islamic culture to Western science, interactions between science and religion (especially natural philosophy and theology), and the university's rise and influence on the Western intellectual tradition. While surveying the context of medieval frameworks for investigating and explaining the natural world, we'll also reflect on the nature and utility of the term "science," the extent to which the origins of modern science can be located in the Middle Ages, and the importance of putting the modern scientific enterprise in historical perspective.
+</p>
+</div>
 
-* Critically evaluate "popular" writings about medieval science and medicine from the web against more "scholarly" interpretations and reflect on the differences between them.
+h3. Student Learning Outcomes
 
+<div>
+<p>
+<ul>
+<li>Appreciate important developments in medieval science and medicine, especially how they can and should be understood from multiple points of view.</li>
+<li>Discuss and write critically about how the nature and practices of science are influenced by shifting cultural, social, religious, and political attitudes.</li>
+<li>Critically evaluate "popular" writings about medieval science and medicine from the web against more "scholarly" interpretations and reflect on the differences between them.</li>
+</ul>
+</p>
+</div>
 
-h2. Work Requirements and Grading
+h3. Work Requirements and Grading
 
-* 50% of your grade is from class participation; 50% is from written work.
+<div>
+<p>
+* 40% of your grade is from class participation; 60% is from written work.
+* Simply showing up to class doesn't count for anything; **I expect that you'll attend most classes and be an active participation in most discussions**. Given the class size, this means that you'll have a few comments or questions to contribute to roughly every other meeting. If I cannot call on you by name, you're too quiet.
+* 3 750-word review articles of websites about the Middle Ages. (15% each)
+* 1 1000-word final essay on a topic of your choice. (15%)
+* Notice that no particular assignment is worth a seriously high percentage of your grade. One may easily recover from a performance not up to your standards. They add up quickly, however, so take care to resist complacency.
+</p>
+</div>
 
-* Attendance counts for little; I expect active participation in our discussions most times.
+h3. Assignment Protocols
 
-* It is expected that you will give a careful and critical reading of assignments before class, and be ready to discuss them. Note that the reading load for the course is relatively heavy, usually about 30 pages per meeting. This course is a challenge, but a rewarding one if you're willing to put in the time and effort.
-
-* 3 750-word review articles of websites about the Middle Ages. (30%)
-
-* 1 1000-word final essay on a topic of your choice. (20%)
-
-* Notice that no particular assignment is worth a seriously high percentage of your grade. One may easily recover from a performance not up to your standards. But they add up so take care to resist complacency.
-
-
-h2. Assignment Protocols
-
-* The website reviews are a critical analysis of a website or an online article about or related to the Middle Ages. You choose what to review. *The goal is not simply to meet the word count, but to critically analyze the article you choose and relate it to the course.* Even though you can choose your article to review, don't pick something that you can't relate to the course. Ask if you are unsure about whether an article is suitable or not. 
-
-* Your essays should be written for someone interested in but ignorant about the Middle Ages. You should have a specific point that you want to make. You should use specific examples from the course readings to support your argument.
-
-* Both reviews and the final essay can be submitted ahead of the due date via for preview, and I will provide brief comments as to whether you are on the right track or any major changes you should consider making. 
-
-* If you are displeased with your grade and think you can do better, you can visit with me about your paper, rework it, resubmit it. You can continue to do this until we agree that your essay isn't going to improve anymore. Your final grade will reflect both your mastery of course material and your effort in improving your essay.
-
+<div>
+<p>
+* The website reviews are a critical analysis of a website or an online article about or related to the Middle Ages. You choose what to review by Googling something you're interested in. *The goal is to critically analyze your source and relate it to the course. Meeting the word count counts for nothing.* Even though you can choose your article to review, don't pick something that you can't relate to the course. Ask if you are unsure about whether an article is suitable or not. 
+* Your essays should be written for someone interested in but ignorant about the Middle Ages. You should have a specific point that you want to make; you should use specific examples from the course readings to support your argument.
+* Questions you might consider: How does the article portray the Middle Ages? How does it compare to what we've read about the topic?
+* If you are displeased with your grade and think you can do better, you can visit with me about your paper, rework it, resubmit it. You can continue to do this until we agree that your essay isn't going to improve anymore. Your final grade will reflect both your mastery of course material and your effort in improving your essay. *You cannot resubmit work without first talking to me about your original submission.*
 * Your final essay should answer one of the questions listed below. I am open to alternative questions or creative projects, too, if you'd like to suggest one.
+</p>
+</div>
 
-h3. Sample Questions/Topics
+h3. Final Exam Questions
 
+<div>
+<p>
 * Why AND why not does it make sense to talk about medieval science?
-
-* To what extent is medieval science (compared to modern views) because they had inferior medical technology?
-
-* How was medieval science affected by social, political, and cultural factors? 
-
+* To what extent is medieval science (compared to modern views) because they had inferior technology?
+* How was medieval science affected by social, political, and cultural factors?
 * What, if anything, can medieval science teach us about modern science?
+* **Final Essays will be due at 9:30am on May 14.**
+</p>
+</div>
 
-h2. Other Advice to Help You Do Well
+h3. Keys to Success 
 
-* Do not suffer in silence. I try to situate discussions and assignments squarely within the objectives of the course, but I expect that you'll ask for clarification if such connections elude you.
+<div>
+<p>
+* Note that the reading load for the course is relatively heavy, usually about 20-30 pages per meeting. You should read for the main point of the article, and not worry about the details. The readings are a challenge, but a rewarding one if you're willing to put in the time and effort. **Your thinking and writing will improve noticeably by the end of the semester.**
 
-* If you have questions about your performance / grade during the semester, I will be very happy to meet with you to discuss how things are going. I understand that everyone comes into the course with different skills and backgrounds. **Serious effort goes a long way toward your grade!** 
+* This is **not** a lecture class; I expect that you'll come ready to discuss the assigned reading. It is common to be shy about speaking in front of your peers, to find it difficult to listen and think on the fly, and to worry about sounding stupid. These are all perfectly natural responses, but they can only be mitigated with practice. I can't think of any successful people who are afraid to join a conversation.
 
-h2. Required Texts
+* Participation is not limited to answering my questions; it also means offering alternative viewpoints, interpretations, and asking questions about readings and the ongoing discussion. If you come to class with some questions, you'll always have an easy way to get involved.
 
-* Michael Shank, *The Scientific Enterprise in Antiquity and the Middle Ages*.  University of Chicago Press, 1996. ISBN  978-0226749518 http://www.amazon.com/Scientific-Enterprise-Antiquity-Middle-Ages/dp/0226749517
+* **This course emphasizes historical thinking and analysis over specific information.** This means that writing essays should draw heavily from the themes of our discussions. You cannot write good essays from the reading assignments alone. Nor can you write good essays without referencing relevant passages in the readings. Both of these should be easy if you're putting in a sustained effort throughout the course. 
 
-* David Lindberg, *Beginnings of Western Science* (2nd ed.) University of Chicago Press, 2008. ISBN 978-0226482057. http://www.amazon.com/Beginnings-Western-Science-Philosophical-Institutional/dp/0226482057/ref=tmm_pap_title_0
+* **Do not suffer in silence.** I try to situate discussions and assignments squarely within the objectives of the course, but I expect that you'll ask for clarification if such connections elude you.
 
-* David Lindberg, *Science in the Middle Ages*. University of Chicago Press, 1978. ISBN 978-0226482330 http://www.amazon.com/Science-Middle-Chicago-History-Medicine/dp/0226482332/ref=sr_1_1?
+* If you have questions about your performance / grade during the semester, I will be very happy to meet with you to discuss how things are going--so if you feel anxious about your grade, it's your own fault. Please note that I understand that everyone comes into the course with different skills and backgrounds. **Serious effort goes a long way toward your grade!** 
+</p>
+</div>
 
-You will also need to download a course reader in PDF form from ereserves.unm.edu
----
+h3. Required Texts
 
-h3(day). PART I: FOUNDATIONS
+<div>
+<p>
+<!--*(left) Michael Shank, *The Scientific Enterprise in Antiquity and the Middle Ages*.  University of Chicago Press, 1996. ISBN 978-0226749518 ["amazon":http://www.amazon.com/Scientific-Enterprise-Antiquity-Middle-Ages/dp/0226749517].-->
+*(left) David Lindberg, *Beginnings of Western Science* (2nd ed.) University of Chicago Press, 2008. ISBN 978-0226482057 ["amazon":http://www.amazon.com/Beginnings-Western-Science-Philosophical-Institutional/dp/0226482057/ref=tmm_pap_title_0].
+*(left) David Lindberg, *Science in the Middle Ages*. University of Chicago Press, 1978. ISBN 978-0226482330 ["amazon":http://www.amazon.com/Science-Middle-Chicago-History-Medicine/dp/0226482332/ref=sr_1_1].
+*(left) You will also need to subscribe to the course Zotero library to access assigned articles not contained in the edited volumes.
 
-h2. Course Introduction and Framing
+</p>
+</div>
+</div>
 
-h4. Course Overview and Goals
 
-*   course goals: history, science, and critical thinking; survey of course topics
+h2. Reading Schedule
+
+<div id="accordion-schedule">
+
+h3(side). Jan 20-24
+
+h3. Course Introduction and Framing
+
+<div>
+<p>
+
+h4. MLK Day
+
+* No Class
 
 h4. Where Does Science Begin?  
 
-* Michael H. Shank, “Introduction,” SEAMA, 1-11.	
+* Overview of course goals related to history, science, and critical thinking.
 
 h4. Where Does the History of Science Begin?
 
-* Heinrich von Staden, “Affinities and Elisions” in SEAMA, 54-71.
 * David Pingree, “Hellophilia versus the History of Science,” SEAMA, 30-39. 
+</p>
+</div>
 
----
+h3(side). Jan 27-31
 
-h2. Natural Philosophy and Medicine in the Classical World
+h3. Classical Heritage
+
+<div>
+<p>
 
 h4. Greeks and the Cosmos
 
-*  BWS, 21-68.
+* BWS, 21-68.
 
 h4. Mathematical Sciences
 
@@ -107,43 +145,60 @@ h4. Mathematical Sciences
 h4. Greek and Roman Medicine
 
 * BWS, 111-131.
+</p>
+</div>
 
----
 
-h3(day). PART II: Early Medieval World
+h3(side). Feb 3-7
 
-h2. Science, Medicine, and Early Christianity
+h3. Science, Medicine, and Early Christianity
+
+<div>
+<p>
 
 h4. The Rise of Christianity
 
-* Peter Brown, The World of Late Antiquity (1971),  49-95.
+* Peter Brown, _The World of Late Antiquity_, 49-95.
 
 h4. Science and Christianity
 
-* David C. Lindberg, “Science and the Early Christian Church,” SEAMA, 125-146. 
+* David C. Lindberg, “Science and the Early Christian Church,” 509-30. 
 
 h4. Medicine and Christianity
 
 * Darryl Amundson, “Medicine and Faith in Early Christianity,” 127-157.
+</p>
+</div>
 
----
+h3(side). Feb 10-14
 
-h2. Science in the Monasteries
+h3. Science in the Monasteries
+
+<div>
+<p>
 
 h4. Monastic Gardening and Healing
 
-* Voigts, “Anglo-Saxon Plant Remedies”
+* Voigts, “Anglo-Saxon Plant Remedies," 250-268.
 * Plants and Pee (34-42)
 
 h4. Monastic Astronomy
 
-* McCluskey, “Early Christian Astronomy,” SEAMA, 147-161.
+* McCluskey, “Early Christian Astronomy,” 8-22.
 
-h4. Open
+h4. Medical Cosmos
 
----
+* Victoria Sweet, "Hilegard of Bingen and the Greening of Medieval Medicine," 381-403. 
+</p>
+</div>
 
-h2. Making Sense of the Middle Ages
+
+h3(side). Feb 17-21
+
+h3. Making Sense of the Middle Ages
+
+<div>
+<p>
 
 h4. Rationalizing Magic 
 
@@ -151,62 +206,89 @@ h4. Rationalizing Magic
 
 h4. Understanding Vulture Medicine 
 
-* Peregine Horden, “What's wrong with medieval medicine?”
+* Peregine Horden, “What's Wrong with Medieval Medicine?” 1-21.
 
-h4. Open
+h4. Writing Workshop
 
----
+</p>
+</div>
 
-h2. Animals, Plants, Monsters
+h3(side). Feb 24-28
+
+h3. Animals, Plants, Monsters
+
+<div>
+<p>
 
 h4. The History of Nature 
 
 * Jerry Stannard, “Natural History,” SMA, 429-460.
 
+h4. Depicting Nature
+
+* Flores, "The Mirror of Nature Distorted," 3-38 (lots of images).
+
 h4. Imagining Nature
 
 * Pamela Gravestock, “Did Imaginary Animals Exist?” 119-131.
+</p>
+</div>
 
-h4. Open
 
----
+h3(side). Mar 3-7
 
-h3(day). PART III: Transitions
+h3. Stirrups and Technological Change
 
-h2. Stirrups and Technological Change
+<div>
+<p>
 
 h4. How footrests can change the world
 
-* Lynn White, Medieval Technology and Social Change, 1-28.
+* Lynn White, _Medieval Technology and Social Change_, 1-28.
+
+h4. Reviewing White
+
+* P.H. Sawyer and R. H. Hilton, “Technical Determinism,” 90-100.
 
 h4. Technological Determinism and the Practice of History
 
-* P.H. Sawyer, “Technical Determinism,” in Past and Present 24 (1963), 90-95
-* Alex Roland, “Once More into the Stirrups” in Technology and Culture 44.3 (2003), 574-585.
+* Alex Roland, “Once More into the Stirrups,” 574-585.
+</p>
+</div>
+
+
+h3(side). Mar 10-14
+
+h3. Cultural and Intellectual Rebirth
+
+<div>
+<p>
 
 h4. Innovation and Appropriation in Islamic science
 
-* A.I. Sabra, “Situating Arabic Science,” (1996) in Shank, 215-231.
-
----
-
-h2. Cultural and Intellectual Rebirth
+* A.I. Sabra, “Situating Arabic Science,” 654-70.
 
 h4. Renaissance of the 12th Century
 
-* Charles Homer Haskins, The Renaissance of the Twelfth Century, 32-67. 
+* Charles Homer Haskins, _The Renaissance of the Twelfth Century_, 32-67. 
 
 h4. New Approaches to Nature
 
-* Chenu, chapter 2.
+* Marie-Dominque Chenu, _Nature, Man, and Society in the Twelfth Century_, 49-99.
+</p>
+</div>
+
+
+h3(side). Mar 24-28
+
+h3. Universities and Centers of Learning
+
+<div>
+<p>
 
 h4. Rise of Scholasticism
 
-* Julius R. Weinberg, A Short History of Medieval Philosophy (1964), 58-90.
-
----
-
-h2. Universities and Centers of Learning
+* Julius R. Weinberg, _A Short History of Medieval Philosophy_, 58-90.
 
 h4. The Translation Movement 
 
@@ -215,102 +297,135 @@ h4. The Translation Movement
 h4. The Origins and Rise of the University 
 
 * Pearl Kibre and Nancy Siraisi, “The Institutional Setting: The Universities,” SMA, 120-144. 
+</p>
+</div>
 
-h4. Open
+h3(side). Mar 31 - Apr 4 
 
----
+h3. Theology and Natural Philosophy
 
-h3(day). PART IV: UNIVERSITIES AND IMPLICATIONS
+<div>
+<p>
 
-h2. Theology and Natural Philosophy
+h4. Reception of Aristotle in the Universities
 
-h4. Reception of Aristotle in the universities
-
-* Edward Grant, The Foundation of Modern Science in the Middle Ages, 70-85.
+* Edward Grant, _The Foundations of Modern Science in the Middle Ages_, 70-85.
 
 h4. God vs. Aristotle
 
-* Edward Grant, God and Reason in the Middle Ages, 182-206. 
+* Edward Grant, _God and Reason in the Middle Ages_, 182-206. 
 
 h4. The Science and Philosophy of Motion
 
 * John Murdoch and Edith Sylla, “The Science of Motion” in SMA, 206-222.
+</p>
+</div>
 
+h3(side). Apr 7-11
 
----
+h3. Alchemy
 
-h2. Alchemy
+<div>
+<p>
 
 h4. Matter Theory
 
-* Multauf, “John of Rupescissa and the Origin of Medical Chemistry,” Isis 45.4 (1954): 359-367.
+* Multauf, “John of Rupescissa and the Origin of Medical Chemistry,” 359-367.
 
 h4. Historical Attitudes toward Alchemy
 
-* Lawrence M. Principe, “Alchemy Restored,” Isis 102.2 (2011): 305-312. 
+* Lawrence M. Principe, “Alchemy Restored,” 305-312. 
 
-h4. Open
+h4. Writing Workshop
+
+</p>
+</div>
 
 
----
+h3(side). Apr 14-18
 
-h2. Hierarchies of Knowledge 
+h3. Hierarchies of Knowledge 
 
-h4.  Natures of science and disciplinary turf wars
+<div>
+<p>
+
+h4.  Natures of Science and Disciplinary Turf Wars
 
 * James Weisheipl, “Nature, Scope and Classification of the Sciences,” SMA, 461-480.
 
 h4. Early Medical Schools
 
-* Nancy Siraisi, “Taddeo Alderotti and Bartolomeo de Varignana on the Nature of Medical Learning,” SEAMA, 349-361.
-* Selections from wallis about medicine and science debates. 
+* Nancy Siraisi, “Taddeo Alderotti and Bartolomeo de Varignana on the Nature of Medical Learning,” 27-39.
+* Selections from Wallis, _Medieval Medicine_, 205-222.
 
 h4. Debating Art and Nature
 
-* William Newman, “Technology and Alchemical Debate in the Late Middle Ages,” SEAMA, 271-294.
+* William Newman, “Technology and Alchemical Debate in the Late Middle Ages,” 423-445.
+</p>
+</div>
 
----
+h3(side). Apr 21-25
 
-h2. Late Medieval Medicine
+h3. Late Medieval Medicine
 
-h4. Medical Theory and Practice
+<div>
+<p>
 
-* Michael R. McVaugh, “Surgical Education in the Middle Ages,” Dynamis 20 (2000): 283-304.
+h4. Learned Surgery
+
+* Michael R. McVaugh, “Surgical Education in the Middle Ages,” 283-304.
 
 h4. Medieval disease and the Black Death
 
-* Selections from Horrox
+* Selections from Horrox, _The Black Death_: 26-61; 158-163; 177-184.
 
 h4. Cutting up Bodies
 
-* Katherine Park, “The Life of the Corpse: Division and Dissection in Late Medieval Europe,” Journal of the History of Medicine and Allied Sciences, 1995; 50: 111-32.
+* Katherine Park, “The Life of the Corpse: Division and Dissection in Late Medieval Europe,” 111-32.
+</p>
+</div>
 
----
 
-h3(day). PART V: BROADENING PERSPECTIVES
+h3(side). Apr 28 - May 2
 
-h2. Scientific Thinking in Wider Culture
+h3. Scientific Thinking in Wider Culture
+
+<div>
+<p>
 
 h4. The Natural Philosophy and Science of Law
 
-* Harold J. Berman, Law and Revolution, 143-164.
+* Harold J. Berman, _Law and Revolution_, 143-164.
 
 h4. The natural philosophy of monetary exchange
 
-* Joel Kaye, Economy and Nature in the Fourteenth Century, 163-199.
+* Joel Kaye, _Economy and Nature in the Fourteenth Century_, 163-199.
 
 h4. The Natural Philosophy of Gender
 
-* Joan Cadden, The Meaning of Sex Differences in the Middle Ages, 54-57; 70-88.
+* Joan Cadden, _The Meaning of Sex Differences in the Middle Ages_, 54-57; 70-88.
+</p>
+</div>
 
----
 
-h2. The Legacy of Medieval Science
+h3(side). May 5-9
+
+h3. The Legacy of Medieval Science
+
+<div>
+<p>
 
 h4. Medieval science and the origins of  “The Scientific Revolution”
 
-* Edward Grant, The Foundations of Modern Science in the Middle Ages, 168-206.
+* Edward Grant, _The Foundations of Modern Science in the Middle Ages_, 168-206.
 
-h4. Catch up, Review, Essay Questions
+h4. Almost Done
 
-h4. Course Conclusions and Evaluations
+* Catch up, Review, Essay Questions
+
+h4. Finally 
+
+* Course Conclusions and Evaluations
+</p>
+</div>
+</div>
