@@ -259,8 +259,9 @@ ul.posts span {
   font-family: sans-serif;
   font-family: 'Alegreya', serif;
   font-size:120%; 
-  text-align:justify; 
+  text-align:right; 
   line-height:1.3em;
+  width:13.4em;
 }
 
 .hometext a {
@@ -270,6 +271,10 @@ ul.posts span {
   color:#ff9900;
   text-decoration: none;
   border:none;
+}
+
+.hometext ul {
+  list-style-type: none;
 }
 
 .hometext p {
@@ -283,6 +288,7 @@ ul.posts span {
   font-weight:bold; 
   color:#990000; 
   margin:0px 0 1em 0;
+  width:7em;
 }
 
 .hometag {
