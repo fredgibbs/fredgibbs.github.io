@@ -1,7 +1,7 @@
 name: fredgibbs
 description: Digital History and Humanities Blog 
 url: http://fredgibbs.net
-permalink: :title
+permalink: :categories/:title
 safe: true
 pygments: true
 markdown: kramdown
