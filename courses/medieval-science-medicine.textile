@@ -57,7 +57,7 @@ h3. Assignment Protocols
 
 * Your essays should be written for someone interested in but ignorant about the Middle Ages. You should (1) have a specific point that you want to make; (2) tell the reader clearly what it is; (3) use specific examples from the course readings to support your argument.
 
-* Questions you might consider while thinking about your source: How does the article portray the Middle Ages? Does it offer a fair assessment or chracterization? What are it's sources? Are its claims supported by historical evidence? Is the article trustworthy? Does it make an interesting and worthwhile point? How does it compare to what we've read about the topic?
+* Questions you might consider while thinking about your source: How does the article portray the Middle Ages? Does it offer a fair assessment or characterization? What are it's sources? Are its claims supported by historical evidence? Is the article trustworthy? Does it make an interesting and worthwhile point? How does it compare to what we've read about the topic?
 
 * Your Wikipedia article, which serves as your final exam, will be written in stages over the last quarter of the course. You are not writing a potential article, but a very real one that will be published for all the world to read. Ample guidance about this process will be provided as the end of the semester nears.
 
@@ -95,7 +95,7 @@ h3. Required Texts
 <!--*(left) Michael Shank, *The Scientific Enterprise in Antiquity and the Middle Ages*.  University of Chicago Press, 1996. ISBN 978-0226749518 ["amazon":http://www.amazon.com/Scientific-Enterprise-Antiquity-Middle-Ages/dp/0226749517].-->
 *(left) David Lindberg, *Beginnings of Western Science* (2nd ed.) University of Chicago Press, 2008. ISBN 978-0226482057 ["amazon":http://www.amazon.com/Beginnings-Western-Science-Philosophical-Institutional/dp/0226482057/ref=tmm_pap_title_0].
 *(left) David Lindberg, *Science in the Middle Ages*. University of Chicago Press, 1978. ISBN 978-0226482330 ["amazon":http://www.amazon.com/Science-Middle-Chicago-History-Medicine/dp/0226482332/ref=sr_1_1].
-*(left) You will also need to subscribe to the course Zotero library to access assigned articles not contained in the edited volumes. Please see the instructions for doing this at ["fredgibbs.net/courses/etc/zotero.html":../etc/zotero.html] The URL for the course library is ["https://www.zotero.org/groups/242299":https://www.zotero.org/groups/242299].
+*(left) You will also need to subscribe to the course Zotero library to access assigned articles not contained in the edited volumes. Please see the instructions for doing this at ["fredgibbs.net/courses/etc/zotero.html":etc/zotero.html] The URL for the course library is ["https://www.zotero.org/groups/242299/items":https://www.zotero.org/groups/242299/items].
 
 </p>
 </div>
