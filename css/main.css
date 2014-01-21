@@ -764,6 +764,11 @@ margin:0;
   color:#999;
 }
 
+#syllabus ul {
+  margin-bottom:0;
+}
+
+
 .day {
   margin-bottom:1em;
 }
