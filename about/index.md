@@ -7,7 +7,7 @@ Greetings! I'm Fred Gibbs, an assistant professor in the [history department](ht
 
 Until recently (spring 2013), I was an assistant professor in the department of history and art history at [George Mason University](http:///gmu.edu) (Fairfax, VA) and director of digital scholarship at the [Roy Rosenzweig Center for History and New Media](http://chnm.gmu.edu).
 
-Most of my <a href="projects">current projects</a> attempt (1) to use new digital research methodologies to provide new historical perspectives through unusual combinations of historical data at scale, and (2) to use new media technologies to make history more engaging and accessible to a broad public.
+Most of my <a href="../projects">current projects</a> attempt (1) to use new digital research methodologies to provide new historical perspectives through unusual combinations of historical data at scale, and (2) to use new media technologies to make history more engaging and accessible to a broad public.
 
 I'm particularly interested in the confluence of medicine and natural philosophy in the medieval and early modern periods. I'm also interested in the circulation and diffusion of medical knowledge in the late Middle Ages.
 
@@ -19,7 +19,7 @@ I completed my History of Science PhD at the [University of Wisconsin-Madison](h
 Pages of this site are written in Markdown and Textile, and converted to static HTML with Jekyll. All code for this site is hosted in a [GitHub repository](https://github.com/fredgibbs/fredgibbs.github.io).
 
 **What's in a name?**<br>
-Early followers will recognize this website as the website formerly known as historyproef. Despite the brilliant reasons and motivations behind its original name and incarnation, it proved too impractical. Feel free to [read more about the name and its failure](../why-historyproef-had-to-die/ "why historyproef had to die").
+Early followers will recognize this website as the website formerly known as historyproef. Despite the brilliant reasons and motivations behind its original name and incarnation, it proved too impractical. Feel free to [read more about the name and its failure](../posts/why-historyproef-had-to-die/ "why historyproef had to die").
 
 ---
 

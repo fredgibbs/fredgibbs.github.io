@@ -20,7 +20,7 @@ body {
   background-color: #FeFeFe;
   font-family: 'Alegreya', serif;
   text-align: center;
-  font-size:100%;
+  font-size:13pt;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -30,6 +30,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   margin:0;
   font-size: 130%;
+  color: #900;
 }
 
 h2 {
@@ -159,7 +160,7 @@ nav h1.title a, nav h1.navheader a, nav h1.navheader a:visited{
 /*****************************************************************************/
 
 .container {
-  width: 38em;
+  width: 36em;
   margin: 1em auto 2em;
  }
 
@@ -429,6 +430,7 @@ text-align:left;
 #syllabus {
   font-family: 'Oxygen', sans-serif;
   line-height: 1.4em;
+  text-align: left;
 }
 
 #syllabus-draft .draft {
@@ -644,6 +646,9 @@ a {
     margin-bottom: 1.5em;
   }
 
+.hometext {
+  font-size: 200%;
+}
 
   .slide-trigger { display: block; }
     .no-js .slide-trigger { display: none; }
