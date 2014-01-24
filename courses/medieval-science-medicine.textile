@@ -135,13 +135,13 @@ h3. Classical Heritage
 <div>
 <p>
 
-h4. Greeks and the Cosmos
+h4. Early Science and the Cosmos
 
-* BWS, 21-68.
+* BWS, 1-44.
 
-h4. Mathematical Sciences
+h4. Classical Natural Philosophy
 
-* BWS, 69-110.
+* BWS, 45-81.
 
 h4. Greek and Roman Medicine
 
@@ -266,9 +266,9 @@ h3. Cultural and Intellectual Rebirth
 <div>
 <p>
 
-h4. Innovation and Appropriation in Islamic science
+h4. Islamic Science
 
-* A.I. Sabra, “Situating Arabic Science,” 654-70.
+* David Lindberg, "Islamic Science,” BWS, 163-192.
 
 h4. Renaissance of the 12th Century
 
