@@ -45,50 +45,13 @@ h2. Publications
 * Review of _Chymists and Chymistry_, ed. Anthony Grafton. In _Pharmacy in History_, September 2009.
 * “Poison Libels,” in _Encyclopedia of Pestilence, Pandemics, and Plagues_, ed. Joseph P. Byrne. Greenwood Press, September 2008.
 
-h2. Recent Digital Projects
-
-Below I've described my role on some projects. For more general project descriptions, including descriptions of ongoing projects, please see "fredgibbs.net/projects":http://fredgibbs.net/projects.
-
-
-h3. Metadata Improvement VIA Mapping (MIVIAM)
-
-* Designed and coded highly functional Javascript interface to visualize thousands of data points on a Google map (botanical expedition data held at "JSTOR Plants":http://plants.jstor.org)
-* Sorting, filtering, and editing functions allowed researchers to normalize and standardize metadata for easier research on botanical expeditions
-* Architected database schema and interface to manage suggested changes to metadata
-
-
-h3. Reframing the Victorians
-
-* Created various visualizations of word frequency statistics in 19th century printed materials held at Google Books
-* Ran large data mining operation using Amazon S3 and Elastic MapReduce
-* Coordinated with Google to procure datasets for exploration
-* Published methodology piece in _Victorian Studies_.
-
-h3. Digging Into Data: Criminal Intent
-
-* Researched cases on poison using Old Baily Online API and Voyant
-* Developed Zotero translator to harvest data from the Old Bailey API
-* Participated in routine conference calls with project team to review progress and meet deliverable deadlines
-
-
-h2. Review Work
-
-MIT Press, National Endowment for the Humanities (NEH), Humanities in the European Research Area (HERA), Social Sciences and Humanities Research Council of Canada (SSHRC), Pearson, Digital Humanities Quarterly (DHQ), Digital Humanities Conference
-
 
 h2. Presentations and Participations
 
-h4. Upcoming
-
+* Practices, Processes, and Products in the Digital Humanities
+** University of Houston (Feb 2014)
 * Poison, Putrefaction, and Ontology of Disease in the Sixteenth Century
 ** Johns Hopkins University (Nov 2013)
-
-* Critiquing Digital Humanities Scholarship & Service
-** University of Houston (Feb 2014)
-
-
-h4. Previously
-
 * Speaking in Code Workshop
 ** Scholars' Lab @ University of Virginia (November 2013)
 * Document Similarity with R
@@ -118,7 +81,7 @@ h4. Previously
 * Session organizer: Report from Digging Into Data Participants
 ** American Historical Association (Jan 2012)
 * "Criticism in the Digital Humanities":http://mith.umd.edu/podcast/?podcast=115
-** Maryland Institute for Technology in the Humanities Digital Dialoges (Oct 2011)
+** Maryland Institute for Technology in the Humanities Digital Dialogs (Oct 2011)
 * Moving Beyond Anecdotal History
 ** Digital Humanities Annual Conference (Jun 2011)
 * "Implications of Data for the 21st Century Historian":http://www.nitle.org/live/events/123-digital-scholarship-seminar-implications-of-data
@@ -155,6 +118,36 @@ h4. Previously
 ** Midwest Junto for the History of Science (Apr 2006)
 * Plague, Pestilence and Disease
 ** Society for the Social History of Medicine Post-graduate conference (Jan 2006)
+
+h2. Recent Digital Projects
+
+Below I've described my role on some projects. For more general project descriptions, including descriptions of ongoing projects, please see "fredgibbs.net/projects":http://fredgibbs.net/projects.
+
+
+h3. Metadata Improvement VIA Mapping (MIVIAM)
+
+* Designed and coded highly functional Javascript interface to visualize thousands of data points on a Google map (botanical expedition data held at "JSTOR Plants":http://plants.jstor.org)
+* Sorting, filtering, and editing functions allowed researchers to normalize and standardize metadata for easier research on botanical expeditions
+* Architected database schema and interface to manage suggested changes to metadata
+
+
+h3. Reframing the Victorians
+
+* Created various visualizations of word frequency statistics in 19th century printed materials held at Google Books
+* Ran large data mining operation using Amazon S3 and Elastic MapReduce
+* Coordinated with Google to procure datasets for exploration
+* Published methodology piece in _Victorian Studies_.
+
+h3. Digging Into Data: Criminal Intent
+
+* Researched cases on poison using Old Baily Online API and Voyant
+* Developed Zotero translator to harvest data from the Old Bailey API
+* Participated in routine conference calls with project team to review progress and meet deliverable deadlines
+
+
+h2. Review Work
+
+MIT Press, National Endowment for the Humanities (NEH), Humanities in the European Research Area (HERA), Social Sciences and Humanities Research Council of Canada (SSHRC), Pearson, Digital Humanities Quarterly (DHQ), Digital Humanities Conference
 
 h2. Courses
 
