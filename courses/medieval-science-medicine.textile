@@ -264,22 +264,22 @@ h4. Technological Determinism and the Practice of History
 
 h3(side). Mar 10-14
 
-h3. Cultural and Intellectual Rebirth
+h3. Cultural and Intellectual Growth
 
 <div>
 <p>
 
-h4. Islamic Science
+h4. The Character of Medieval Thought
 
-* David Lindberg, "Islamic Science,” BWS, 163-192.
+* Julius R. Weinberg, _A Short History of Medieval Philosophy_, 58-91.
+
 
 h4. Renaissance of the 12th Century
 
 * Charles Homer Haskins, _The Renaissance of the Twelfth Century_, 32-67. 
 
-h4. New Approaches to Nature & Writing Workshop
 
-* Bring Essays to Class
+h4. Essay Review Quiz (no make-ups allowed)
 
 </p>
 </div>
@@ -287,22 +287,27 @@ h4. New Approaches to Nature & Writing Workshop
 
 h3(side). Mar 24-28
 
-h3. Universities and Centers of Learning
+h3. Islamic Science and Legacy
 
 <div>
 <p>
 
-h4. Rise of Scholasticism
 
-* Julius R. Weinberg, _A Short History of Medieval Philosophy_, 58-90.
+h4. Islamic Science
+
+* David Lindberg, "Islamic Science,” BWS, 163-192.
+* Bring Essays to Class (w/ name)
 
 h4. The Translation Movement 
 
 * David C. Lindberg, “The Transmission of Greek and Arabic Learning to the West,” SMA, 52-79.
+* Bring Critiques and Essays
 
 h4. The Origins and Rise of the University 
 
 * Pearl Kibre and Nancy Siraisi, “The Institutional Setting: The Universities,” SMA, 120-144. 
+* Essays and Critiques Due
+
 </p>
 </div>
 
@@ -337,16 +342,15 @@ h3. Alchemy
 h4. Matter Theory
 
 * Robert P. Multhauf, “John of Rupescissa and the Origin of Medical Chemistry,” 359-367.
+* Wikipedia Review Assignment 
 
 h4. Historical Attitudes toward Alchemy
 
 * Lawrence M. Principe, “Alchemy Restored,” 305-312.
-* Wikipedia Survey Assignment 
 
-h4. Writing Workshop & Wikipedia Instructions
+h4. Wikipedia Writing Workshop
 
-* Bring Essays to Class
-* Bring Wikipedia Survey to Class
+* Bring Wikipedia Review Essay to Class
 </p>
 </div>
 
@@ -361,6 +365,7 @@ h3. Hierarchies of Knowledge
 h4.  Natures of Science and Disciplinary Turf Wars
 
 * James Weisheipl, “Nature, Scope and Classification of the Sciences,” SMA, 461-480.
+* Final Wikipedia Essays Due
 
 h4. Early Medical Schools
 
