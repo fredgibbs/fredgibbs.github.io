@@ -1,13 +1,13 @@
 --- 
 layout: course 
-title: Diet, Health, and Cultural Tastes
-date: 2012-04-06 23:56:31 
+title: Food, Diet, and Health
+date: 2014-03-18 00:00:00 
 categories: [course] 
 ---
 
-Diet and health have always gone hand in hand, but preferred dietary regimens to restore or maintain health (along with definitions of a healthy body) have undergone constant and sometimes radical transformations. This course explores how Western medical theories and cultural contexts have come together to shape dietary fashion from antiquity to the present (or, as some would say, from Athens to Atkins).
+What is a healthy body? How does food and diet make one? Needless to say, dietary regimens to restore or maintain health--as well as what it means to be healthy--have remained preeminent questions in Western medical history. Yet even today, medical understandings of diet and official dietary advice seems to change almost daily. This course explores how various cultural, scientific, and medical values have continually shaped our relationship to food, health, and diet from the Renaissance until now.
 
-We will approach the history of diet and health from a variety of cultural perspectives. In terms of diet, we consider how preferences for various foods and their perceived medical virtues have changed over time and what motivated such changes. We will also consider the cultural forces that continually reshape how we create a relationship between food, diet, and health. How and why did certain fad diets come in and out of fashion? How have changing attitudes about the body and health shaped our choices about what constitutes healthy food?
+Some guiding questions: How and why have the perceived medical virtues of various foods (such as coffee, chocolate, booze, etc) changed over time? Why have fad diets come in and gone out of fashion? How has modern medicine continually redefined what it means to be healthy and to eat a healthy diet? How have national recommendations for healthy foods been used as social controls? How have changing attitudes about the body, health, and technology, shaped our preferences for what should be considered healthy food?
 
 h3. Student Learning Outcomes
 
@@ -20,63 +20,59 @@ h3. Student Learning Outcomes
 * Sharpen critical thinking skills by evaluating contemporary medical writing (newspaper and magazine articles) about dietary advice and exposing its assumptions and putting it in historical perspective.
 
 
-h3.  Expectations
+h3. Work Requirements and Grading
 
-*   Thorough preparedness and engaged participation in most discussions
-*   5 ~400 word reading critiques AND 5 ~200 word peer critiques (1/week except for the last few weeks)
-*   2 ~750 word article/book reviews (your choice; anything relevant to diet and health is fine)
+<div>
+<p>
+* Everyone starts with a C in the course. I assume you are all average students who do average quality work. I know this is false, but it's my starting point. 
+* You raise (or lower) your grade based on the quality of your participation in class and your submitted written work.
+* Simply showing up to class doesn't count for anything; **I expect that you'll attend most classes and be an active participant in most discussions**. Given the class size, this means that you'll have a few comments or questions to contribute at least every other meeting. If you do this, you'll raise your grade one letter grade (ie C->B).
+* 3 750-word review articles of websites about the Middle Ages.
+* 1 1000-word Wikipedia entry on a topic of your choice.
+* If your essays follow the protocols (listed below), you'll raise your grade one letter grade (ie B->A).
+* If you are displeased with your grade for any assignemnt, you can visit with me about your paper, rework it, and resubmit it. You can continue to do this until we agree that your essay isn't going to improve anymore. Your final grade will reflect both your mastery of course material and your effort to improve your essay. *You cannot resubmit work without first meeting with me about your original submission and its flaws.*
 
-* **Graduate Requirements:** In addition to the undergraduate requirements, graduate students will read an additional 5-7 books related to diet and health in historical perspective, meet with the instructor every week to discuss readings, and complete a 15-20 page final paper. The paper can be either a research paper based on original research of primary sources or a historiographical review of a topic within the history of diet.
+</p>
+</div>
+
+h3. Assignment Protocols
+
+<div>
+<p>
+* The website reviews are a critical analysis of a website or an online article about or related to the Middle Ages. You choose what to review by Googling something you're interested in. *The goal is to critically analyze your source and relate it to the course. Meeting the word count counts for nothing.* Even though you can choose your article to review, don't pick something that you can't relate to the course. Ask if you are unsure about whether an article is suitable or not.
+
+* Your essays should be written for someone interested in but ignorant about the Middle Ages. You should (1) have a specific point that you want to make; (2) tell the reader clearly what it is; (3) use specific examples from the course readings to support your argument.
+
+* Questions you might consider while thinking about your source: How does the article portray the Middle Ages? Does it offer a fair assessment or characterization? What are it's sources? Are its claims supported by historical evidence? Is the article trustworthy? Does it make an interesting and worthwhile point? How does it compare to what we've read about the topic?
+
+* Your Wikipedia article, which serves as your final exam, will be written in stages over the last quarter of the course. You are not writing a potential article, but a very real one that will be published for all the world to read. Ample guidance about this process will be provided as the end of the semester nears.
+
+* **Final articles must be posted online by 9:30am on May 14.**
+
+</p>
+</div>
 
 
-h3.  Reading Reviews and Peer Critiques
+h3. Keys to Success 
 
-Most of your writing in this course will be in composing either smart reviews of reading assignments or critiques of each other's work. The class will be split into 4 groups. You will have something due on the same day each week; your assignment will alternate between reading reviews and peer critiques. Please note that the challenge here is to say something interesting in the short space, not merely to fill it with blather in order to "complete" the assignment. 
+<div>
+<p>
+* The reading load for the course is relatively heavy, usually about 20-30 pages per meeting. Do not get bogged down in details; read for the main point of the article and get a sense of the evidence that the author uses to make the point. The readings will challenge you, but will greatly reward you for putting in the time and effort. **Your thinking and writing will improve noticeably by the end of the semester.**
 
-The **Reading Reviews** give you a space to say or to ask something interesting about the readings. The **Peer Critiques** give you a chance to improve each other's reviews in polite but critical ways. Both of these are very difficult, but also incredibly useful skills. All reviews and critiques and book reviews will be submitted by posting them to the course website.
+* This is **not** a lecture class; I expect that you'll come ready to discuss the assigned reading. It is common to be shy about speaking in front of your peers, to find it difficult to listen and think on the fly, and to worry about sounding stupid. These are all perfectly natural concerns, but they can be overcome only with practice. I can't think of any successful people who are afraid to join a conversation.
 
-All reading and peer critiques will be graded by me in 4 categories: Originality, Relevance, Execution, Connection to the readings. Each category gets a rating from 0-10 (best), so there are 40 possible points on each assignment. Book/article reviews and the final paper use a mutliplier to make them worth more points.
+* Participation is not limited to answering my questions; it also means offering alternative viewpoints, interpretations, and asking questions about readings and the ongoing discussion. If you come to class with some questions, you'll always have an easy way to get involved.
 
-h3.  Grading
+* **This course emphasizes historical thinking and analysis over regurgitating information.** This means that your review essays should draw heavily from the themes of our discussions. You cannot write good essays from the reading assignments alone, nor can you write good essays without referencing relevant passages in the readings. Both of these should be easy if you're putting in a sustained effort throughout the course. If you try to write an essay at the last minute, you will fail, and will have to redo the assignment.
 
-Ultimately, you'll be graded on your ability (as far as I can perceive it) to show facility with course material. If you have a question about your performance/grade during the semester, please ask me about it, and I will be very happy to meet with you to discuss how things are going. In general, if you make a serious effort then you will do well gradewise.
+* **Do not suffer in silence.** I try to situate discussions and assignments squarely within the objectives of the course, but I expect that you'll ask for clarification if such connections elude you.
 
-**Assignments and points:**
+* If you have questions about your performance / grade during the semester, I will be very happy to meet with you to discuss how things are going. If, therefore, you feel uncertainty about your grade, it's your own fault. 
 
-Reviews and Critiques: 10x40 = 400
-Book/article reviews: 2x40(x2) = 150
-Final Essay: 1x40(x6) = 230
+* Please note that I understand that everyone comes into the course with different backgrounds, skills, and experience. **Serious effort goes a long way toward your grade!** 
 
-_NB: The funky math means that the book reviews and final essay allow bonus points for moments of genius._
-
-All told, here's how your effort contributes to your final grade:
-*   Intelligent participation (22%)
-*   Reading reviews / Peer critiques (40%)
-*   Outside book reviews (15%)
-*   Critical review essay (23%)
-
-h3.  Administrata
-
-If you are a student with a disability and you need academic accommodations, please see me and contact the Office of Disability Services at 703.993.2474 or ods.gmu.edu. All academic accommodations must be arranged through that office.
-
-Take note of these important deadlines:
-
-*   Last Day to Add (Full-Semester Course): January 29, 2013
-*   Last Day to Drop (Full-Semester Course): February 22, 2013
-*   Selective Withdrawal Period (Full-Semester Course): February 25 - March 29, 2013
-
-h3.  Reading Materials
-
-There are two required books:
-
-*   Michael Pollan, _In Defense of Food: An Eater’s Manifesto_ (Penguin Books, 2009).
-*   Hillel Schwartz, _Never Satisfied: a Cultural History of Diets, Fantasies, and Fat_ (New York: Anchor Books, 1990).
-
-All other readings are either linked to on the syllabus (in the case of some primary sources online), or will be accessible online via a Zotero library. You will get an email inviting you to join a group library that has all of the readings as PDFs.  To access the course library, go to the "Zotero website":http://zotero.org to learn more about it and then decide if you want to access the files via the Zotero website or install Zotero for yourself and automatically pull all the readings onto your computer. 
-
-If you decide to install the software, you will be given the opportunity to create an account at Zotero.org, which you must do to access the course library. It's free, and all you need to do is establish a username and password. Once you've installed Zotero and created a Zotero account, you can accept the invitation to join the group library for the course. When you do, you'll see a collection titled "food-health-cultural-tastes" under the "Group Libraries" header in the collection pane (the leftmost window in Zotero).
-
-If you get stuck, first consult the documentation at Zotero.org, which is very good, and will probably be of more help to you than I will.
+</p>
+</div>
 
 <div id="syllabus">
 
