@@ -373,16 +373,18 @@ h3. Hierarchies of Knowledge
 h4.  Natures of Science and Disciplinary Turf Wars
 
 * James Weisheipl, “Nature, Scope and Classification of the Sciences,” SMA, 461-480.
-* Final Wikipedia Essays Due
 
 h4. Early Medical Schools
 
 * Nancy Siraisi, “Taddeo Alderotti and Bartolomeo de Varignana on the Nature of Medical Learning,” 27-39.
 * Selections from Wallis, _Medieval Medicine_, 205-222.
+* Final Wikipedia Essays Due, if you prefer early submission
+
 
 h4. Debating Art and Nature
 
 * William Newman, “Technology and Alchemical Debate in the Late Middle Ages,” 423-445.
+* Final Wikipedia Essays Due, no matter what
 </p>
 </div>
 
@@ -393,9 +395,6 @@ h3. Late Medieval Medicine
 <div>
 <p>
 
-h4. Learned Surgery
-
-* Michael R. McVaugh, “Surgical Education in the Middle Ages,” 283-304.
 
 h4. Medieval disease and the Black Death
 
@@ -404,6 +403,11 @@ h4. Medieval disease and the Black Death
 h4. Cutting up Bodies
 
 * Katherine Park, “The Life of the Corpse: Division and Dissection in Late Medieval Europe,” 111-32.
+
+h4. NO CLASS 
+
+* (optional) Michael R. McVaugh, “Surgical Education in the Middle Ages,” 283-304.
+
 </p>
 </div>
 
