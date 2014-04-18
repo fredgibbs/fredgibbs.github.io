@@ -57,7 +57,7 @@ a {
 
 a         { color: #f90; }
 a:hover   { color: #a00; }
-a:visited { color: #960; }
+a:visited { color: #c60; }
 
 table {
   font-size: inherit;
@@ -160,7 +160,7 @@ nav h1.title a, nav h1.navheader a, nav h1.navheader a:visited{
 /*****************************************************************************/
 
 .container {
-  width: 36em;
+  width: 38em;
   margin: 1em auto 2em;
  }
 
@@ -419,7 +419,7 @@ font-size:90%;
 }
 
 .ui-accordion-content {
-font-size:80%;
+font-size:75%;
 }
 
 
@@ -445,8 +445,13 @@ margin-top:1em;
 
 }
 
-#syllabus a {
+#syllabus a, .ui-widget-content a  {
 border-bottom: 1px dotted #666;
+color:#a90;
+}
+
+#syllabus a:visited {
+color:#c60;  
 }
 
 #syllabus a:hover {
@@ -454,7 +459,7 @@ color:#aa3333;
 }
 
 #syllabus h1 {
-  font-size: 140%;
+  font-size: 150%;
   margin-bottom:1em;
 }
 
@@ -487,7 +492,7 @@ font-size: 140%;
 #syllabus h4 {
 font-size:110%;
 font-weight:bold;
-margin-top:1em 0 0 0;
+margin:1.5em 0 .5em 0;
 line-height: 1em;
 }
 
