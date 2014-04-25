@@ -315,14 +315,10 @@ Elijah Meeks, [Infoviz and New Literacies](https://dhs.stanford.edu/algorithmic-
 
 John Theibault, [Visualizations and Historical Arguments](http://writinghistory.trincoll.edu/evidence/theibault-2012-spring/)
 
-Dmitry Paranyushkin, [Identifying the Pathways for Meaning Circulation using Text Network Analysis](http://noduslabs.com/research/pathways-meaning-circulation-text-network-analysis/).
-
-Andrew J. Torget & Jon Christensen, [Mapping Texts: Visualizing American Historical Newspapers](http://journalofdigitalhumanities.org/1-3/mapping-texts-project-by-andrew-torget-and-jon-christensen/)
-
 #### LAB
 Check out: a few places to find data: [Chronicling America](http://chroniclingamerica.loc.gov/), [HathiTrust](http://www.hathitrust.org/), [Time Magazine Corpus](http://corpus.byu.edu/time/), [Internet Archive](http://archive.org), [Digital Public Library of America](http://dp.la). 
 
-... a few tools to see/make stuff: [Viewshare](http://viewshare.org), [Flowing Data](http://flowingdata.com), [Gephi](http://gephi.org), [Visualeyes](http://www.viseyes.org/).
+... a few tools to see/make stuff: [Viewshare](http://viewshare.org), [Flowing Data](http://flowingdata.com), [Visualeyes](http://www.viseyes.org/), [Visual Complexity](http://visualcomplexity.com).
 </div>
 
 
