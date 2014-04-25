@@ -87,7 +87,6 @@ All the while, we'll be working together to create an online Digital History of 
 What *is* digital humanities? How does studying "the digital" vs. using "the digital" factor into definitions? Is it necessary to have a working definition? 
 
 William Cronon, [The Public Practice of History in and for a Digital Age](http://www.historians.org/perspectives/issues/2012/1201/The-Public-Practice-of-History-in-and-for-a-Digital-Age.cfm).
-Also scan the digital sessions from recent AHA meetings. [AHA Today: The Future Is Here: Digital History at the 126th Annual Meeting](http://blog.historians.org/annual-meeting/1421/the-future-is-here-digital-history-at-the-126th-annual-meeting).
 
 Julia Flanders, [The Productive Unease of 21st-century Digital Scholarship](http://digitalhumanities.org/dhq/vol/3/3/000055/000055.html).
 
@@ -161,6 +160,7 @@ William J Turkel, [Workflows and Digital Sources](http://williamjturkel.net/how-
 
 
 #### LAB
+Bring photos of text documents!
 OCR Processes and Batch processing images
 
 </div>
@@ -230,14 +230,12 @@ Before class, examine a few tools (and videos) for data manipulation:
 
 Your Inner Terminal    
 Programming Basics    
-
-Programming Assignments for Lab
+Programming Assignments for Lab    
 
 
 #### LAB: Troublshooting
-Python Programming Assignments
-Learn Python the Hard Way Tutorials    
-Programming Historian Lessons    
+Learn Python the Hard Way Tutorials        
+Programming Historian Lessons
 </div>
 
 
@@ -248,10 +246,11 @@ Programming Historian Lessons
 {::options parse_block_html="true" /}
 <div>
 
-#### TUTORIAL: Intro to Webscraping
-HTML and HTTP and YOU
+#### TUTORIAL
+Intro to Webscraping    
+HTML and HTTP and YOU    
 
-#### LAB: 
+#### LAB
 Programming Historian Assignments
 </div>
 
@@ -269,16 +268,13 @@ Under what circumstances are these techniques useful? Dangerous? How can they be
 
 Stanford Literary Lab, [Quantitative Formalism: an Experiment](http://litlab.stanford.edu/LiteraryLabPamphlet1.pdf).
 
-Elijah Meeks and Scott Weingart, [The Digital Humanities Contribution to Topic Modeling](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/). Follow the links in this brief introduction!
-
-Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
-
-Cameron Blevins, [Topic Modeling Martha Ballard's Diary](http://historying.org/martha-ballards-diary/).
+Rob Nelson, [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).
 
 Shlomo Argamon et al., [Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html).
 
+
 #### LAB
-Play around with [MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet), and try to use them with a very small corpus, just to go through the process. This is play, not research! (if you separate them, anyway).
+Play around with [Voyant](http://voyant-tools.org/) and experiment with some documents related to your research.
 </div>
 
 
@@ -291,17 +287,12 @@ Play around with [MALLET](http://programminghistorian.org/lessons/topic-modeling
 <div>
 
 #### DISCUSSION
-Under what circumstances are these techniques useful? Dangerous? How can they be used most effectively?
-
-Stanford Literary Lab, [Quantitative Formalism: an Experiment](http://litlab.stanford.edu/LiteraryLabPamphlet1.pdf).
-
 Elijah Meeks and Scott Weingart, [The Digital Humanities Contribution to Topic Modeling](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/). Follow the links in this brief introduction!
 
 Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
 
 Cameron Blevins, [Topic Modeling Martha Ballard's Diary](http://historying.org/martha-ballards-diary/).
 
-Shlomo Argamon et al., [Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html).
 
 #### LAB
 Play around with [MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet), and try to use them with a very small corpus, just to go through the process. This is play, not research! (if you separate them, anyway).
@@ -387,7 +378,7 @@ Elissa Frankle, [More Crowdsourced Scholarship: Citizen History](http://futureof
 {::options parse_block_html="true" /}
 <div>
 
-#### 1
+#### DISCUSSION
 What are the fundamental criteria for critiquing digital history projects? How much does the traditional peer review model need to change to accommodate new types of historical work/projects?
 
 Paul Fyfe, [Open Access, Open Secrets: Peer Review and Alternative Scholarly Production](http://victelecom.wordpress.com/2010/10/11/open-access-open-secrets-peer-review-and-alternative-scholarly-production/).
@@ -400,7 +391,8 @@ MLA, [Guidelines for Evaluating Work in Digital Humanities and Digital Media](ht
 
 Todd Presner, [Evaluating Digital Scholarship](http://idhmc.tamu.edu/commentpress/digital-scholarship/); this also appears on pp. 128-9 of *Digital_Humanities*.
 
-#### LAB: What is the digital landscape in your field?
+#### LAB
+Survey the digital landscape in your field. What are relevant projects? What are opportunities for collaboration and innovation?
 </div>
 
 
