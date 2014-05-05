@@ -30,13 +30,13 @@ Some guiding questions: How and why have the perceived medical virtues of variou
 {::options parse_block_html="true" /}
 <div>
 
-* Understand the changing notion of diet and the constantly shifting relationship between diet and health in Western medicine.
+* Understand the changing notion of diet and the constantly shifting relationship between diet and health in American medicine.
 
 * Appreciate how attitudes about diet are not based on "objective" medical knowledge, but on a complex constellation of social, political, and cultural values.
 
-* Develop sensitivity to how different social and cultural populations approach food and health in vastly different terms.
+* Develop sensitivity to how different social and cultural populations approach food and health in vastly different terms, and how this might inform food, diet, and health policy decisions.
 
-* Sharpen critical thinking skills by evaluating contemporary medical writing (newspaper and magazine articles) about dietary advice while exposing its assumptions and putting it in historical perspective.
+* Sharpen critical thinking skills by evaluating contemporary medical writing dietary advice while exposing its assumptions and putting it in historical perspective.
 
 </div>
 
@@ -44,10 +44,11 @@ Some guiding questions: How and why have the perceived medical virtues of variou
 {::options parse_block_html="true" /}
 <div>
 
-* Everyone starts with a C in the course. I assume you are all average students who do average quality work. I know this is false, but it's my starting point. 
-* You raise (or lower) your grade based on the quality of your participation in class and your submitted written work.
-* Simply showing up to class doesn't count for anything; **I expect that you'll attend most classes and be an active participant in most discussions**. Given the class size, this means that you'll have a few comments or questions to contribute at least every other meeting. If you do this, you'll raise your grade one letter grade (ie C->B).
-* 4 750-word review articles of websites pertaining to food, health, and diet.
+* Everyone starts with a C in the course. I assume you are all average students who do average quality work. I know this is false, but it's my starting point. It's your job to prove me wrong via your engagement in the course.
+* You raise (or lower) your grade based on the quality of your participation in class discussions and activities, random assignments, and your submitted written work.
+* The course will be taught in the shiny new Teaching and Learning building in "[learning studios](https://www.unm.edu/~oset/Event%20Descriptions/LearningStudioClassroomsatUNM.html)." Discussions will be more like labs where everyone will be working in groups to research and discuss the daily topic--making extensive use of the video projector and whiteboards to share and communicate.
+* Simply showing up to class counts for very little; **I expect that you'll attend most classes and be an active participant in all class activities**. If you do this, you'll raise your grade one letter grade (ie C->B).
+* 4 750-word historical analyses of recent "publication" pertaining to food, health, and diet (newspaper, magazine, movie, science research article, historical scholarship...whatever). The goal is to find something you might read even if you weren't in the course, and critique it from a historical perspective (that you're hopefully getting in the course).
 * If your essays follow the protocols (listed below), you'll raise your grade one letter grade (ie B->A).
 * If you are displeased with your grade for any assignemnt, you can visit with me about your paper, rework it, and resubmit it. You can continue to do this until we agree that your essay isn't going to improve anymore. Your final grade will reflect both your mastery of course material and your effort to improve your essay. *You cannot resubmit work without first meeting with me about your original submission and its flaws.*
 
