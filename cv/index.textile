@@ -30,8 +30,6 @@ h2. Education
 
 h2. Publications
 
-* Review of Luke Demaitre, _Medieval Medicine: The Art of Healing from Head to Toe_, in _Journal of the History of Medicine and Allied Sciences_, forthcoming.
-* Review of Nancy Siraisi, _Communities of Learned Experience. Epistolary Medicine in the Renaissance_, in _British Journal of the History of Science_, forthcoming.
 * "Poisonous Properties, Bodies, and Forms in the Fifteenth Century," _Preternature_ 2.1 (2013): 19-46.
 * "Riding the Bicycle of Kuhn's _Structure_," _Historical Studies in the Natural Sciences_ 42.5 (2012): 510-513.
 * "The Historical Value of Ephemeral Discussion of Science on the Web" in _Science &#64; Risk_, a report from the Library of Congress National Digital Information Infrastructure and Preservation Program ["PDF":http://www.digitalpreservation.gov/meetings/documents/othermeetings/science-at-risk-NDIIPP-report-nov-2012.pdf]
@@ -40,15 +38,24 @@ h2. Publications
 * "A Conversation with Data: Prospecting Victorian Words and Ideas," _Victorian Studies_ 54.1 (2011). (with Dan Cohen)
 * "New Textual Traditions From Community Transcription":http://www.digitalmedievalist.org/journal/7/gibbs/," _Digital Medievalist_ 7 (2011).
 * "Building Better Digital Humanities Tools":http://www.digitalhumanities.org/dhq/vol/6/2/000136/000136.html" _Digital Humanities Quarterly_ 6.2 (2012). (with Trevor Owens)
-* Review of Ian Mortimer, _The Dying and the Doctors: the Medical Revolution in Seventeenth Century England_. _Journal of Social History_, Summer 2011.
 * “Natural History.” in _Oxford Dictionary of the Middle Ages_, ed. Robert E. Bjork. Oxford: Oxford University Press, February 2010.
-* Review of _Chymists and Chymistry_, ed. Anthony Grafton. In _Pharmacy in History_, September 2009.
 * “Poison Libels,” in _Encyclopedia of Pestilence, Pandemics, and Plagues_, ed. Joseph P. Byrne. Greenwood Press, September 2008.
+
+h2. Reviews
+
+* Review of Luke Demaitre, _Medieval Medicine: The Art of Healing from Head to Toe_, in _Journal of the History of Medicine and Allied Sciences_, 69.1 (2014).
+* Review of Nancy Siraisi, _Communities of Learned Experience. Epistolary Medicine in the Renaissance_, in _British Journal of the History of Science_, 47.1 (2014).
+* Review of Ian Mortimer, _The Dying and the Doctors: the Medical Revolution in Seventeenth Century England_. _Journal of Social History_, Summer 2011.
+* Review of _Chymists and Chymistry_, ed. Anthony Grafton. In _Pharmacy in History_, September 2009.
 
 
 h2. Presentations and Participations
 
-* Practices, Processes, and Products in the Digital Humanities
+* New Media and the Future of Scholarly Societies
+** American Association for the History of Medicine (May 2014)
+* Building a Cyberinfrastructure for the Humanities and Beyond
+** Cyberinfrastructure Day at University of New Mexico (April 2014)
+* Poison, Potatoes, and Post-Computational Humanities
 ** University of Houston (Feb 2014)
 * Poison, Putrefaction, and Ontology of Disease in the Sixteenth Century
 ** Johns Hopkins University (Nov 2013)
@@ -119,7 +126,7 @@ h2. Presentations and Participations
 * Plague, Pestilence and Disease
 ** Society for the Social History of Medicine Post-graduate conference (Jan 2006)
 
-h2. Recent Digital Projects
+h2. Previous Digital Projects
 
 Below I've described my role on some projects. For more general project descriptions, including descriptions of ongoing projects, please see "fredgibbs.net/projects":http://fredgibbs.net/projects.
 
@@ -147,16 +154,15 @@ h3. Digging Into Data: Criminal Intent
 
 h2. Review Work
 
-MIT Press, National Endowment for the Humanities (NEH), Humanities in the European Research Area (HERA), Social Sciences and Humanities Research Council of Canada (SSHRC), Pearson, Digital Humanities Quarterly (DHQ), Digital Humanities Conference
+Austrian Science Fund, Digital Humanities Quarterly (DHQ), Digital Humanities Conference, Humanities in the European Research Area (HERA), MIT Press, Pearson, National Endowment for the Humanities (NEH), Social Sciences and Humanities Research Council of Canada (SSHRC)
 
-h2. Courses
+h2. Recent Courses
 
-* "Introduction to Digital History and the Digital Humanities":../introduction-to-digital-history
-* "Advanced Digital History: Data Manipulation":../data-manipulation
-* "The Scientific Revolution":../scientific-revolution
+* "Introduction to Digital History and the Digital Humanities":../digital-methods
+* "Diet, Health, and Cultural Tastes":../food-diet-health
+* "Medieval Science and Medicine":../medieval-science-medicine
 * "Early History of Western Medicine":../history-of-early-medicine 
-* "Diet, Health, and Cultural Tastes":../diet-health-cultural-tastes
-* Ancient and Medieval Science
+* "The Scientific Revolution":../scientific-revolution
 
 
 h2. Fellowships and Awards
@@ -172,12 +178,16 @@ h2. Fellowships and Awards
 
 h2. Technical Highlights
 
-* 12+ years experience with small and large scale programming projects integrating various web technologies, including PHP, Javascript, HTML, XML, XSLT, XUL, AJAX, CSS, MySQL, REST APIs.
+* 15 years experience with small and large scale programming projects integrating various web technologies, including Javascript, HTML, PHP, Python, XML, XSLT, AJAX, CSS, MySQL, REST APIs.
 * Broad knowledge and experience implementing web standards, accessibility guidelines, database design, and semantic mark-up. Adapted and customized open-source projects to client needs.
 * 8+ years of web design experience creating harmony between user interfaces and information structures.
 * Extensive experience providing technical advice and consultations for humanities scholars and projects, creating documentation, and formulating plans for long-term sustainability.
 
-h2. Previous Web Programming and Design Projects
+<div id="accordion">
+h3. Previous Web Programming and Design Projects
+
+<div>
+<p>
 
 h3. Nelson Institute for Environmental Studies (UW-Madison, Mar09  -  Oct09)
 
@@ -211,4 +221,6 @@ h3. IBM and Target Corporations (Jul98  -  Feb00)
 * Co-lead developer for first generation of target.com; responsible for back-end coding of e-commerce functionality with Java and Oracle, including product search engine to meet strict usability and performance requirements.
 * Spearheaded standardization efforts and implementation of best practices among different programming, data modeling, and testing teams.
 * Served as Information Technology Specialist in consulting role for Global Services Division; diagnosed and solved debugging and testing challenges quickly and efficiently, adjusted to varied work environments, and established productive personal relationships with clients.
-
+</p>
+</div>
+</div> <!-- end accordion -->
