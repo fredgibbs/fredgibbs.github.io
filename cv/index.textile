@@ -191,7 +191,8 @@ h3. Previous Web Programming and Design Projects
 
 h3. Nelson Institute for Environmental Studies (UW-Madison, Mar09  -  Oct09)
 
-* Managed and executed complete website redesign centered around a custom developed tag-based resource management system (PHP, MySQL) to connect Nelson Institute faculty, students, and staff with each other through mutual research interests. Integrated full news and event management system with custom tagging (and taxonomy manager) to unite all Institute resources.
+* Managed and executed complete website redesign centered around a custom developed tag-based resource management system (PHP, MySQL) to connect Nelson Institute faculty, students, and staff with each other through mutual research interests. 
+* Integrated full news and event management system with custom tagging (and taxonomy manager) to unite all Institute resources.
 
 h3. UW Center for the Humanities (Jan08  -  Jan10)
 
@@ -207,7 +208,8 @@ h3. UW Biological Systems Engineering Department (Jan08  -  Jul09)
 
 h3. Freelance web designer and developer (Jun05  -  Jan08)
 
-* Coordinated with various academic departments, programs, and scholars to entirely redesign and develop customized web sites to effectively deliver content. Clients have include the Medical History Department, Center for Culture, History, Environment, Journal of Undergraduate International Studies, and Holtz Center for Science and Technology Studies (all at UW-Madison).
+* Coordinated with various academic departments, programs, and scholars to entirely redesign and develop customized web sites to effectively deliver content. 
+* Clients have include the Medical History Department, Center for Culture, History, Environment, Journal of Undergraduate International Studies, and Holtz Center for Science and Technology Studies (all at UW-Madison).
 
 h3. UW Student Academic Affairs (Jun03  -  Sep06)
 

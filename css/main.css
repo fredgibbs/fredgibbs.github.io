@@ -8,7 +8,7 @@
 @import url(http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700);
 @import url(http://fonts.googleapis.com/css?family=Oxygen:400,700);
 @import url(http://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed);
-
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,700,400italic,300,300italic,700italic,900);
 * {
   margin: 0;
   padding: 0;
@@ -19,8 +19,11 @@ html, body { height: 100%; }
 body {
   background-color: #FeFeFe;
   font-family: 'Alegreya', serif;
+  font-family: 'Merriweather', Georgia, Times, serif;
   text-align: center;
-  font-size:13pt;
+  font-size:17px;
+  font-weight: 300;
+  color:#666;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -29,8 +32,10 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin:0;
-  font-size: 130%;
+  font-size: 140%;
   color: #900;
+  font-weight: bold;
+  font-family: 'Oxygen';
 }
 
 h2 {
@@ -160,13 +165,13 @@ nav h1.title a, nav h1.navheader a, nav h1.navheader a:visited{
 /*****************************************************************************/
 
 .container {
-  width: 38em;
+  width: 42em;
   margin: 1em auto 2em;
  }
 
 .site {
-  text-align: justify;
-  line-height: 1.5em;
+  text-align: left;
+  line-height: 1.8em;
   padding:0 1em 0 1em;
 }
 
@@ -308,7 +313,6 @@ ul.posts span {
 /*****************************************************************************/
 
 .post {
-  font-family: 'Alegreya', serif;
 }
 
 .post h1 {
@@ -348,12 +352,14 @@ ul.posts span {
 
 blockquote {
   color:#555;
-  width:40%;
-  border-top:1px solid #999;
-  border-bottom:1px solid #999;
-  font-style: italic;
-  padding:.5em;
+  width:50%;
+  border-top:1px solid #ccc;
+  border-bottom:1px solid #ccc;
+  font-family: 'Oxygen';
+  font-weight: bold;
+  padding:.5em 0em .5em 0em;
   margin:.5em;
+  font-size: 120%;
 }
 
 blockquote.left, img.left{
@@ -362,6 +368,7 @@ blockquote.left, img.left{
 
 blockquote.right, img.right {
   margin-left: 2em;
+  padding-right:0;
 }
 
 blockquote .full {
@@ -387,7 +394,7 @@ blockquote p {
 /*
 /*****************************************************************************/
 .publications ul li {
-  line-height: 1.2em;
+  line-height: 1.5em;
   list-style-type: none;
   margin-bottom: 1.5em;
 }
@@ -446,8 +453,28 @@ font-size:85%;
 font-size:90%;
 }
 
-.ui-accordion-content {
+#syllabus .ui-accordion-content {
 font-size:75%;
+background: none;
+background-color: #fff9f9;
+border:1px dotted #666;
+
+}
+
+
+/* Interaction states
+----------------------------------*/
+#syllabus .ui-state-default,
+#syllabus .ui-widget-content .ui-state-default,
+#syllabus .ui-widget-header .ui-state-default {
+  border: 0px solid #d3d3d3;
+  background: none;
+  font-weight: normal;
+}
+
+#syllabus .ui-accordion-header-active {
+background: #660000;
+color:#ffffff;
 }
 
 
@@ -459,6 +486,8 @@ text-align:left;
   font-family: 'Oxygen', sans-serif;
   line-height: 1.4em;
   text-align: left;
+  font-size: 18px;
+  width:42em;
 }
 
 #syllabus-draft .draft {
@@ -625,7 +654,7 @@ background:#fef5f5;
 .cv {
   line-height: 1.3em;
   font-family: 'Oxygen', sans-serif;
-  font-size: 80%;
+  font-size: 90%;
 }
 
 .cv ul {
@@ -640,6 +669,7 @@ background:#fef5f5;
 .cv li li{
   margin:0 0 0 0;
   padding:0;
+  color:#999;
 }
 
 .cv h3{
