@@ -24,6 +24,10 @@ h1. Articles
 
 h1. Reviews
 
+* Review of Luke Demaitre, _Medieval Medicine: The Art of Healing from Head to Toe_. _Journal of the History of Medicine and Allied Sciences_, 69.1 (2014). %(pub-links)"blog":demaitre-blog%
+
+* Review of Nancy Siraisi, _Communities of Learned Experience. Epistolary Medicine in the Renaissance_. _British Journal of the History of Science_, 47.1 (2014). %(pub-links)"blog":siraisi-blog%
+
 * Review of Ian Mortimer, _The Dying and the Doctors: the Medical Revolution in Seventeenth Century England_. _Journal of Social History_ 44.4 (Summer 2011): 1289-91. %(pub-links)"project muse":mortimer-muse | "blog":mortimer-blog%
 
 * Review of _Chymists and Chymistry_, ed. Anthony Grafton. _Pharmacy in History_ (September 2009). %(pub-links)"blog":chymists-blog%
@@ -36,6 +40,9 @@ h1. Other Contributions
 * “Poison Libels,” in _Encyclopedia of Pestilence, Pandemics, and Plagues_, ed. Joseph P. Byrne (Greenwood Press, 2008).
 
 
+[siraisi-blog]../reviews/communities-of-learned-experience-review.md
+
+[demaitre-blog]../reviews/medieval-medicine-the-art-of-healing-from-head-to-toe-review.md
 
 [preternature-muse]http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/preternature/v002/2.1.gibbs.html
 [preternature-blog]../poisonous-properties-bodies-forms
