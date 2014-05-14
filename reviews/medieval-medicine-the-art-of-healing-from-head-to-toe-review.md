@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Review of Medieval Medicine The Art of Healing from Head to Toe by Luke Demaitre
+title: Review of Medieval Medicine The Art of Healing from Head to Toe
 date: 2013-05-13
 category: review
 ---
