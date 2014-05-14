@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Review of Medieval Medicine The Art of Healing from Head to Toe
-date: 2013-05-13
+date: 2013-05-13 00:00:00
 category: review
 ---
 Luke Demaitre, _Medieval Medicine: The Art of Healing from Head to Toe._ Santa Barbara, California, Praeger, 2013. xiv, 350 pp., illus., $58.00
