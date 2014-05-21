@@ -5,7 +5,7 @@ title: publications | fredgibbs
 
 h1. Articles    
 
-* "Poisonous Properties, Bodies, and Forms in the Fifteenth Century," _Preternature_ 2.1 (2013): 19-46. %(pub-links)"project muse":preternature-muse | "blog":preternature-blog%
+* "Poisonous Properties, Bodies, and Forms in the Fifteenth Century," _Preternature_ 2.1 (2013): 19-46. %(pub-links)"project muse":preternature-muse 
 
 * "Riding the Bicycle of Kuhn's _Structure_," _Historical Studies in the Natural Sciences_ 42.5 (2012): 510-513. %(pub-links)"JSTOR":kuhn-jstor | "blog":kuhn-blog%
 
@@ -40,15 +40,15 @@ h1. Other Contributions
 * “Poison Libels,” in _Encyclopedia of Pestilence, Pandemics, and Plagues_, ed. Joseph P. Byrne (Greenwood Press, 2008).
 
 
-[siraisi-blog]../reviews/communities-of-learned-experience-review
+[siraisi-blog]/reviews/communities-of-learned-experience-review.html
 
-[demaitre-blog]../reviews/medieval-medicine-the-art-of-healing-from-head-to-toe-review
+[demaitre-blog]/reviews/medieval-medicine-the-art-of-healing-from-head-to-toe-review.html
 
 [preternature-muse]http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/preternature/v002/2.1.gibbs.html
 [preternature-blog]../poisonous-properties-bodies-forms
 
 [kuhn-jstor]http://www.jstor.org/stable/10.1525/hsns.2012.42.5.510
-[kuhn-blog]../riding-the-bicycle-of-kuhns-structure
+[kuhn-blog]/publications/riding-the-bicycle-of-kuhns-structure.html
 
 [hos-on-web-site]http://www.digitalpreservation.gov/meetings/scienceonline_2012.html
 [hos-on-web-pdf]http://www.digitalpreservation.gov/meetings/documents/othermeetings/science-at-risk-NDIIPP-report-nov-2012.pdf
