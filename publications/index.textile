@@ -9,7 +9,7 @@ h1. Articles
 
 * "Riding the Bicycle of Kuhn's _Structure_," _Historical Studies in the Natural Sciences_ 42.5 (2012): 510-513. %(pub-links)"JSTOR":kuhn-jstor | "blog":kuhn-blog%
 
-* "The Historical Value of Ephemeral Discussion of Science on the Web" in _Science &#64; Risk: Toward a National Strategy for Preserving Online Science_, (Washington, DC: Library of Congress National Digital Information Infrastructure and Preservation Program, 2012). %(pub-links)"meeting site":hos-on-web-site | "PDF":hos-on-web-pdf | "blog":hos-on-web-blog%
+* "The Historical Value of Ephemeral Discussion of Science on the Web" in _Science &#64; Risk: Toward a National Strategy for Preserving Online Science_, (Washington, DC: Library of Congress National Digital Information Infrastructure and Preservation Program, 2012). %(pub-links)"meeting site":hos-on-web-site | "PDF":hos-on-web-pdf%
 
 * "Critical Discourse in the Digital Humanities," _Journal of the Digital Humanities_ 1.1 (2012). %(pub-links)"JDH":critical-discourse-jdh | "blog":critical-discourse-blog%
 
@@ -55,21 +55,21 @@ h1. Other Contributions
 [hos-on-web-blog]../archival-future-of-history-of-science
 
 [critical-discourse-jdh]http://journalofdigitalhumanities.org/1-1/articles/critical-discourse-in-digital-humanities-by-fred-gibbs/
-[critical-discourse-blog]../critical-discourse-in-the-digital-humanities
+[critical-discourse-blog]/posts/critical-discourse-in-the-digital-humanities
 
 [hermeneutics-open]http://writinghistory.trincoll.edu/data/gibbs-owens-2012-spring/
-[hermeneutics-blog]../hermeneutics-of-historical-writing
+[hermeneutics-blog]/posts/hermeneutics-of-historical-writing
 
 [textual-traditions-dm]http://www.digitalmedievalist.org/journal/7/gibbs
-[textual-traditions-blog]../textual-traditions-from-community-transcription
+[textual-traditions-blog]/posts/textual-traditions-from-community-transcription
 
 [victorian-muse]http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/victorian_studies/v054/54.1.gibbs.html
-[victorian-blog]../conversation-with-data
+[victorian-blog]/posts/conversation-with-data
 
 [tools-dhq]http://www.digitalhumanities.org/dhq/vol/6/2/000136/000136.html
-[tools-blog]../building-better-digital-humanities-tools
+[tools-blog]/posts/building-better-digital-humanities-tools
 
 [mortimer-muse]http://muse.jhu.edu/journals/journal_of_social_history/summary/v044/44.4.gibbs.html
-[mortimer-blog]http://fredgibbs.net/review-of-the-dying-and-the-doctors
+[mortimer-blog]/reviews/review-of-the-dying-and-the-doctors
 
-[chymists-blog]http://fredgibbs.net/chymists-and-chymistry
+[chymists-blog]/reviews/chymists-and-chymistry
