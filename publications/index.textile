@@ -48,7 +48,7 @@ h1. Other Contributions
 [preternature-blog]../poisonous-properties-bodies-forms
 
 [kuhn-jstor]http://www.jstor.org/stable/10.1525/hsns.2012.42.5.510
-[kuhn-blog]/publications/riding-the-bicycle-of-kuhns-structure.html
+[kuhn-blog]/publications/riding-the-bicycle-of-kuhns-structure
 
 [hos-on-web-site]http://www.digitalpreservation.gov/meetings/scienceonline_2012.html
 [hos-on-web-pdf]http://www.digitalpreservation.gov/meetings/documents/othermeetings/science-at-risk-NDIIPP-report-nov-2012.pdf
