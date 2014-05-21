@@ -52,22 +52,21 @@ h1. Other Contributions
 
 [hos-on-web-site]http://www.digitalpreservation.gov/meetings/scienceonline_2012.html
 [hos-on-web-pdf]http://www.digitalpreservation.gov/meetings/documents/othermeetings/science-at-risk-NDIIPP-report-nov-2012.pdf
-[hos-on-web-blog]../archival-future-of-history-of-science
 
 [critical-discourse-jdh]http://journalofdigitalhumanities.org/1-1/articles/critical-discourse-in-digital-humanities-by-fred-gibbs/
-[critical-discourse-blog]/posts/critical-discourse-in-the-digital-humanities
+[critical-discourse-blog]/publications/critical-discourse-in-the-digital-humanities
 
 [hermeneutics-open]http://writinghistory.trincoll.edu/data/gibbs-owens-2012-spring/
-[hermeneutics-blog]/posts/hermeneutics-of-historical-writing
+[hermeneutics-blog]/publications/hermeneutics-of-historical-writing
 
 [textual-traditions-dm]http://www.digitalmedievalist.org/journal/7/gibbs
-[textual-traditions-blog]/posts/textual-traditions-from-community-transcription
+[textual-traditions-blog]/publications/textual-traditions-from-community-transcription
 
 [victorian-muse]http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/victorian_studies/v054/54.1.gibbs.html
-[victorian-blog]/posts/conversation-with-data
+[victorian-blog]/publications/conversation-with-data
 
 [tools-dhq]http://www.digitalhumanities.org/dhq/vol/6/2/000136/000136.html
-[tools-blog]/posts/building-better-digital-humanities-tools
+[tools-blog]/publications/building-better-digital-humanities-tools
 
 [mortimer-muse]http://muse.jhu.edu/journals/journal_of_social_history/summary/v044/44.4.gibbs.html
 [mortimer-blog]/reviews/review-of-the-dying-and-the-doctors
