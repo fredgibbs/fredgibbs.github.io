@@ -40,9 +40,9 @@ h1. Other Contributions
 * “Poison Libels,” in _Encyclopedia of Pestilence, Pandemics, and Plagues_, ed. Joseph P. Byrne (Greenwood Press, 2008).
 
 
-[siraisi-blog]/reviews/communities-of-learned-experience-review.html
+[siraisi-blog]/reviews/communities-of-learned-experience-review
 
-[demaitre-blog]/reviews/medieval-medicine-the-art-of-healing-from-head-to-toe-review.html
+[demaitre-blog]/reviews/medieval-medicine-the-art-of-healing-from-head-to-toe-review
 
 [preternature-muse]http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/preternature/v002/2.1.gibbs.html
 [preternature-blog]../poisonous-properties-bodies-forms
