@@ -25,8 +25,11 @@ George Mason University
 
 h2. Education
 
-*PhD*, *MA*, History of Science, Medicine & Technology | _University of Wisconsin_ (2009, 2002)
-*BA*, Physics | _Carleton College_ (1998)
+*PhD*, *MA*, History of Science, Medicine & Technology
+_University of Wisconsin_ (2009, 2002)
+
+*BA*, Physics 
+_Carleton College_ (1998)
 
 h2. Publications
 
