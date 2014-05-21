@@ -5,7 +5,7 @@ title: publications | fredgibbs
 
 h1. Articles    
 
-* "Poisonous Properties, Bodies, and Forms in the Fifteenth Century," _Preternature_ 2.1 (2013): 19-46. %(pub-links)"project muse":preternature-muse 
+* "Poisonous Properties, Bodies, and Forms in the Fifteenth Century," _Preternature_ 2.1 (2013): 19-46. %(pub-links)"project muse":preternature-muse% 
 
 * "Riding the Bicycle of Kuhn's _Structure_," _Historical Studies in the Natural Sciences_ 42.5 (2012): 510-513. %(pub-links)"JSTOR":kuhn-jstor | "blog":kuhn-blog%
 
