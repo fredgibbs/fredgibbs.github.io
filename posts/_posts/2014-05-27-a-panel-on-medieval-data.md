@@ -21,4 +21,5 @@ Obviously these are broad questions, meant to expand rather than contract potent
 - Developing valuation and standards for data creation (i.e. making it count)
 
 <p>
+<br>
 If you have something to say concerning medieval data—or even if you’d like to have something to say about a year from now—consider joining a sponsored panel (via the Institute of Medieval Studies at the University of New Mexico) on “Medieval Data: Prospects and Practices" for Kalamazoo 2015. If curious, interested, or disgusted, email [fwgibbs@gmail.com](fwgibbs@gmail.com) or tweet @fredgibbs.
