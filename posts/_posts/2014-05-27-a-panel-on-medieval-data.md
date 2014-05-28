@@ -22,4 +22,4 @@ Obviously these are broad questions, meant to expand rather than contract potent
 
 <p>
 <br>
-If you have something to say concerning medieval data—or even if you’d like to have something to say about a year from now—consider joining a sponsored panel (via the Institute of Medieval Studies at the University of New Mexico) on “Medieval Data: Prospects and Practices" for Kalamazoo 2015. If curious, interested, or disgusted, email [fwgibbs@gmail.com](mailto:fwgibbs@gmail.com) or tweet @fredgibbs.
+If you have something to say concerning medieval data—or even if you’d like to have something to say about a year from now—consider joining a sponsored panel (via the Institute of Medieval Studies at the University of New Mexico) on “Medieval Data: Prospects and Practices" for Kalamazoo 2015. If curious, interested, or disgusted, email [Fred Gibbs](mailto:fwgibbs@gmail.com) or tweet @fredgibbs.
