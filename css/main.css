@@ -7,8 +7,11 @@
 /* Global Reset */
 @import url(http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700);
 @import url(http://fonts.googleapis.com/css?family=Oxygen:400,700);
-@import url(http://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed);
+@import url(http://fonts.googleapis.com/css?family=Lato:100,700);
+@import url(http://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed:300);
 @import url(http://fonts.googleapis.com/css?family=Merriweather:400,700,400italic,300,300italic,700italic,900);
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:700|Amatic+SC:700);
+
 * {
   margin: 0;
   padding: 0;
@@ -489,6 +492,136 @@ text-align:left;
   font-size: 18px;
   width:42em;
 }
+
+#syllabus-new {
+  font-family: 'Lato', sans-serif;
+  line-height: 1.4em;
+  text-align: left;
+  font-size: 18px;
+  background-color: #333;
+}
+
+#syllabus-new h1 {
+font-family: 'Amatic SC', sans-serif;
+font-size: 300%;
+line-height: 1.3em;
+color:#b22;
+}
+
+#syllabus-new h1.bright {
+color:#e00;
+}
+
+#syllabus-new h2 {
+font-family: 'Roboto Condensed', sans-serif;
+font-size: 130%;
+line-height: 1.3em;
+text-transform: uppercase;
+color:#cfcfcf;
+}
+
+#syllabus-new h3 {
+font-family: 'Oxygen', sans-serif;
+font-weight: normal;
+color:#cccccc;
+font-size: 100%;
+
+}
+
+.hidden {
+  overflow-x: hidden; 
+}
+
+#syllabus-new div.highlight {
+  margin: 0;
+  padding: .5em 1em .5em 1em;
+  background: #a00;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  color:#fff;
+}
+
+
+#syllabus-new div.highlight h2{
+  color:#fff;
+  margin-top:.5em;
+}
+
+#syllabus-new ul {
+margin-left:2em;
+}
+
+.section-block {
+width:38em;
+//font-family: 'Alegreya', serif;
+line-height: 1.4em;
+font-size: 20px;
+margin: 0em auto 0em;
+margin: 0em auto 0em 4em;
+padding: 0 0 1em 1em;
+background: #333;
+color: #aaa;
+overflow-x: hidden; 
+}
+
+
+.section-photo-break {
+height: 500px;
+background-attachment: fixed;
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+border-bottom: 0;
+}
+
+
+#HiddenMenu {
+    background-color: #000;
+    position: relative;
+    top: -3em;
+    height:3em;
+    padding:0;
+    margin:0;
+}
+
+#HoverSpace {
+    //background-color: #aeaeae;
+    overflow: hidden;
+    height: 5em;
+    position:fixed;
+    width:100%;
+    padding:0;
+    margin:0;
+    top:0px;
+}
+
+#HiddenMenu li {
+  padding-top: .5em;
+}
+
+#HiddenMenu li.title a {
+    //font-size:24px;
+    color:#900;
+  }
+
+#HiddenMenu li.title a:hover {
+    color:#f00;
+  }
+
+#HiddenMenu li a:hover {
+    color:#fff;
+  }
+
+#HiddenMenu li.low a {
+  color:#555;
+  }
+
+#HiddenMenu li.low a:hover {
+  color:#999;
+  }
+
+
+
 
 #syllabus-draft .draft {
 font-family: helvetica, sans-serif;
