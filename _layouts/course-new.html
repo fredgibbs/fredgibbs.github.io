@@ -1,0 +1,35 @@
+---
+layout: default-new
+---
+<script>
+  $(document).ready(function(){
+    $('.slide-trigger').collapsable();
+  });
+</script>
+
+         <div id="HoverSpace">
+          <div id="HiddenMenu">
+          <h1 class="navheader slide-trigger"><a href="/">fredgibbs</a><span><img src="/images/icons/menu-icon.png"/></span></h1>
+          <ul class="navigation group">
+            <li class="title"><a href="#top">Digital Mapping</a></li>
+            <li><a href="#monday">monday</a></li>
+            <li><a href="#tuesday">tuesday</a></li>
+            <li><a href="#wednesday">wednesday</a></li>
+            <li><a href="#thursday">thursday</a></li>
+            <li><a href="#friday">friday</a></li>
+            <li class="low"><a href="/courses">back to courses</a></li>
+          </ul>
+        </div>
+        </div>
+
+{% if page.status == 'draft' %}
+<div id="syllabus-draft">
+<span class="draft">Draft</span>
+{% else %}
+<div id="syllabus-new">
+{% endif %}
+
+
+
+{{ content }}
+</div>
