@@ -1,5 +1,5 @@
 ---
-layout: course 
+layout: course-new
 title: Digital Mapping
 term: Spring 2014
 number: ARCH 462 and LA 512
@@ -7,340 +7,352 @@ date: 2014-05-28 00:00:00
 categories: [course]
 ---
 
-Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
+{::options parse_block_html="true" /}
+<div class="section-block">
+
+<a href="#top"/>
+
+<h1 class="bright"> Digital Mapping + Geospatial Humanities</h1>
+<h3 style="padding:0; margin:0"> LA 512 | ARCH 462</h3>
+
+<br>
+June 16-20, 2014  
+Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)  
 Mesa Vista Hall, 1077    
-
-## Overview
-{::options parse_block_html="true" /}
-<div id="accordion">
-
-### Course Description
-{::options parse_block_html="true" /}
-<div>
-We are in the midst of a major paradigm shift in human  consciousness and society caused by a new ubiquitous connectedness via the internet and smartphones. These globalizing forces have telescoped space and time to an unprecedented degree, while paradoxically heightening the importance of local places.
-
-The course explores the tools and workflows used to collect, connect, and present online interpretations of the spaces around us. After an introduction to the theoretical and practical challenges of deep mapping (producing rich, interactive maps with multiple layers of information), we’ll produce digital maps of Albuquerque using various mobile apps for data collection, online exhibit software like Omeka and Story Maps, as well as mapping tools like Google Earth and QGIS that leverage the power of open data from local and national repositories to provide new perspectives on the built environment.
-
-All the while, we'll be working together to create an online Digital History of Albuquerque, where each students will contribute to a facet most relevant to their own research. 
 </div>
 
-### Student Learning Outcomes
+<div class="section-photo-break" style="background-image: url(/images/digital-mapping-sm/Mexico-1700s-the.jpg)">
+</div>
+
 {::options parse_block_html="true" /}
-<div>
+<div class="section-block">
+# Course Description
+We are in the midst of a major paradigm shift in human  consciousness and society caused by a new ubiquitous connectedness via the internet and smartphones. These globalizing forces have telescoped space and time to an unprecedented degree, while paradoxically heightening the importance of local places.
 
-- Appreciate the theoretical possibilities and practical limitations of digital mapping.
+The course explores the tools and workflows used to collect, connect, and present online interpretations of the spaces around us. Throughout the week, we'll dicuss the theoretical and practical challenges of deep mapping (producing rich, interactive maps with multiple layers of information). As a group we’ll tell stories about Albuquerque's past with various digital maps using various mobile apps for data collection, online exhibit software like Omeka, historical (physical and digital) materials at the Center for Southwest Research, as well as mapping tools like Google Earth and QGIS that leverage the power of open data from local and national repositories to provide new perspectives on the built environment.
 
-- Develop awareness and fluency in geographic data formats, technologies, and tools.
+Course readings that aren't freely availabe online (and even some that are) can be accessed via the course [Zotero Library](https://www.zotero.org/groups/267332). You'll need to be invited to join the group since we use it to distribute course readings. If you are not familiar with Zotero, here are [some instructions](fredgibbs.net/courses/etc/zotero.html).
+</div>
+
+<div class="section-photo-break" style="background-image: url(/images/digital-mapping-sm/txu-pclmaps-topo-nm-albuquerque-1937.jpg)">
+</div>
+
+{::options parse_block_html="true" /}
+<div class="section-block">
+# Course Objectives
+
+- Appreciate the theoretical possibilities and practical limitations of deep digital mapping.
+
+- Understand the theories and principles of new media, linked open data, interface design as applies to the geospatial humanities.
+
+- Develop awareness and conversational fluency in geographic data formats, technologies, and tools.
+
+- Combine qualitative and quantitative analytical skills
 
 - Begin to experiment with new tools, workflows, methods, and techniques for mapping the urban environment, including QGIS, Omeka + Neatline, Google Maps/Earth, basic web mapping concepts, basic web programming, Javascript, SVG, D3.
 
-- Improve abilities to combine qualitative and quantitative analytics skills
+- Develop enough awareness with these technologies to create maps on your own with lots of Googling.
 
-- Understand the theories and principles of new media and their utility in urban mapping.
+- Must be able to have fun while totally frustrated, even when this stupid little thing takes way longer than it should.
 
 </div>
 
-### How get the most out of this course
-{::options parse_block_html="true" /}
-<div>
-
-- Perseverance and tolerance for frustration. Digital humanities engages with new methodological problems and professional challenges raised by rapidly shifting technology and new media. Must be able to have fun while groping, even when it takes way longer than expected. (5%)
+<div class="section-photo-break" style="background-image: url(/images/digital-mapping-sm/5840059.jpg)">
 </div>
 
-### Zotero Library
+
 {::options parse_block_html="true" /}
-<div>
-- Anne Burdick et al., *Digital\_Humanities* (MIT Press, 2012) 
--- ISBN:978-0262018470 \[[amazon](http://www.amazon.com/Digital_Humanities-Anne-Burdick/dp/0262018470/)\]
-</div>
+<div class="section-block">
 
-</div> <!-- end 1st accordion block -->
+<a id="monday"/>
 
+# June 16: Monday
 
-## Schedule
-{::options parse_block_html="true" /}
-<div id="accordion-schedule"> 
+## Introductions of Persons and Course Overview
 
-### June 16
-{: .side}
+### Generic Mapping Projects 
+[Google Map Examples](http://googlemapsmania.blogspot.com/)  
+[MapBox](https://www.mapbox.com/showcase/)  
+[Making Maps: DIY Cartography](http://makingmaps.net/)  
+[Totally random, usually interesting](http://anterotesis.com/wordpress/dh-gis-projects/)
 
-### Monday: Day 1
-{::options parse_block_html="true" /}
-<div>
-#### Introductions of Persons
+### Particular Projects
+[Spillmapper](http://spillmapper.westernpriorities.org/)  
+[Pompeii Bibliography and Mapping Project](http://digitalhumanities.umass.edu/pbmp/)    
+[US Atlas of Religion](http://www.religionatlas.org/)    
 
-#### Course Overview
+### Community Engagement
+[History of San Franciso Streets](http://sfstreets.noahveltman.com/)  
+[Reimagining Whalley](http://www.llomadesign.com/reimaginingwhalley/#lat=49.18962193725587,lng=-122.8468733330078,zoom=13)  
+[Philadelphia Bike Crashes](http://blog.bicyclecoalition.org/2013/12/this-map-of-philly-reveals-locations.html)  
+[CityTracking](http://citytracking.org/)  
+[EcoHack](http://ecohackmtl.org/language/en/)
 
-#### Mapping Tools and Projects
-
-Telling Stories with Maps
-http://storymap.knightlab.com/
-Story Maps from Esri, provides more options if you have ArcGIS and other expensive tools. 
-Omeka and Neatline
-
-http://boundlessgeo.com/2014/05/citibike-analysis-automated-workflows-qgis/?utm_source=rssutm_medium=rssutm_campaign=citibike-analysis-automated-workflows-qgis
-
-
-
-generic mapping projects: 
-http://googlemapsmania.blogspot.com/
-https://www.mapbox.com/showcase/
-
-more particular projects
-http://spillmapper.westernpriorities.org/
-http://digitalhumanities.umass.edu/pbmp/
-http://www.religionatlas.org/
-http://www.llomadesign.com/reimaginingwhalley/#lat=49.18962193725587,lng=-122.8468733330078,zoom=13
-Check out some [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/)
-
-http://makingmaps.net/
-http://citytracking.org/
-http://ecohackmtl.org/language/en/
-http://sfstreets.noahveltman.com/
-
-
-CONTRAST EXISTING EFFORTS to POSSIBILITIES
-search for historic places in ABQ
-http://www.downtownacd.org/historic-downtown/50s-central-5th/#main
-
-
-####Larger Mapping Projects
-[HyperCities](http://hypercities.com/)
+### Larger Mapping Projects
+[HyperCities](http://hypercities.com/)  
 [Stanford spatial history project](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)
 
+### Telling Stories with Maps
+[StoryMap](http://storymap.knightlab.com/)  
+[Story Maps](http://storymaps.arcgis.com/en/)  
+[Omeka](omeka.org) + [Neatline](neatline.org)
 
-#### Origins of Spatial Humanities
-Guest Speaker: Chris Wilson, J. B. Jackson Professor of Cultural Landscape Studies at the University of New Mexico School of Architecture and Planning
 
-#### Planning Our ABQ Map Project
+### Existing ABQ Projects
+[City of ABQ Maps](http://www.cabq.gov/gis/map-views/mobile-maps)  
+[Historic Albuquerque](http://www.downtownacd.org/historic-downtown/)  
+[Historic Old Town](http://www.albuquerqueoldtown.com/)  
+[Historic Photo Archive](http://albuquerquemuseum.org/art-history/photo-archives)  
 
-We need to make a map with a particular focus on something (it could be water, commuting, local food, farming, education, history). Best pizza, biking roads, empty lots, historic neighborhoods
 
-A few requirements: We have to have data we can gather or research to do; it has to have a spatial and historical component. 
+<div class="highlight">
+## Origins of Spatial Humanities
+<b>Chris Wilson</b>, J. B. Jackson Professor of Cultural Landscape Studies
+</div>
 
-Some potential projects:
-What should the modern walking tour look like? (i.e. how to explore past and present of built environment?)
-move from historic places to historic spaces. what does it mean not to focus on building, but the area around it. what allowed that building to exist meaningfully? what does it mean now? how can it inform community building
+- Edward T. Hall, _Beyond Culture_, 129-140.
 
-more logistics:
-what is group effort? what will individual contributions be?
-what geographic areas specifically will be targeted?
-divide responsibilities; create project teams
+- Richard Flordia, _The Rise of the Creative Class_, 215-234
+
+- Setha Low, _On the Plaza: Politics of Public Space and Culture_, 127-153.
+
+## Planning Our ABQ Map Project
+We'll work together to create an richly layered interactive map that displays, contextualizes, and historicies some features of ABQ. The particular topic can be just about anything as long as it has a spatial and historical component.
+
+- What should the modern walking tour look like? (i.e. how to explore the past and present of the built environment?)?
+
+- Can we build a better version of an [existing city map](http://www.cabq.gov/gis/map-views/mobile-maps)?
+
+- Tell a story about ABQ murals, graffiti, empty lots, etc.
+
+- Can we tell a stories about not just [historic places](http://www.cabq.gov/planning/our-department/urban-design-and-development/historic-landmarks) but historic spaces? (ie the context of these historic landmarks?)
+
+- What are ABQ's historic neighborhoods and how have they changed over time?
 
 </div>
 
+<div class="section-photo-break" style="background-image: url(/images/digital-mapping-sm/dsc_0052.jpg)">
+</div>
 
 
-### June 17
-{: .side}
-
-### Tuesday: Day 2
 {::options parse_block_html="true" /}
-<div>
+<div class="section-block">
+<a id="tuesday"/>
 
-#### DUE TODAY
-read chapter(s) from Anne Burdick et al., *Digital\_Humanities*. 
-In Zotero Library, and also [https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf](as online PDF).
-Chapter 1, 3-26; Case Studies, 61-71
+# Tuesday June 17
 
+## Digital Humanities and Space
+- Chapter 1, 3-26; Case Studies, 61-71 in *Digital\_Humanities* (in the Zotero Library, and also an [online PDF](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf)
 
-#### Principles of Digital Humanities
+- Michel de Certeau, “Spatial Practices,” 91-130. (Zotero)
 
+<div class="highlight">
+## Historical Research on ABQ
+<b>Ann Massmann</b>, Southwest Studies Librarian, Center for Southwest Research
+</div>
 
-#### Principles of Google Maps
-[How Goole Builds its Maps](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/)
+## Principles of Google Maps
+- [How Goole Builds its Maps](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/)  
 
-Jason Farman, “Mapping the Digital Empire: Google Earth and the Process of Postmodern Cartography,” New Media & Society 12, no. 6 (2010): 869–88. (Zotero)
+- Jason Farman, “Mapping the Digital Empire: Google Earth and the Process of Postmodern Cartography,” New Media & Society 12, no. 6 (2010): 869–88. (Zotero)
 
-#### Start Making Maps
-[Introduction to XML and HTML](http://www.w3schools.com/xml/xml_whatis.asp)
-
-Introduction to a language of web mapping 
-[KML](https://developers.google.com/kml/)
-
+### Start Making Maps
 [Create a Google Map](http://geospatialhistorian.wordpress.com/lessons/lesson-1/)
 
-#### Spatial History
+[Introduction to XML and HTML](http://www.w3schools.com/xml/xml_whatis.asp)
 
-Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?
-
-Ian Gregory and David Cooper, [GIS, Texts, and Images: New Approaches](http://journals.tdl.org/paj/index.php/paj/article/view/20).
-
-John Theibault, [Visualizations and Historical Arguments](http://writinghistory.trincoll.edu/evidence/theibault-2012-spring/)
-
-#### Virtual New Mexico
-Guest Speaker: Tim Castillo, Director of ARTSlab
+[KML](https://developers.google.com/kml/documentation/kml_tut)
 
 
-#### Online Exhibits
-We've already covered some mapping aspects. 
-Omeka + Neatline    
-Hypercities    
-StoryMaps
-Story Map    
+## Spatial History
+- Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?  
+
+- Miles Ogborn, _Spaces of Modernity_, 1-38. (Zotero)
+
+- Ian Gregory and David Cooper, [GIS, Texts, and Images: New Approaches](http://journals.tdl.org/paj/index.php/paj/article/view/20).  
+
+- John Theibault, [Visualizations and Historical Arguments](http://writinghistory.trincoll.edu/evidence/theibault-2012-spring/)  
+
+<div class="highlight">
+## Virtual New Mexico
+<b>Tim Castillo</b>, Director of ARTSlab
+</div>
+
+## Historical Research Sources
+[Chronicling America Newspaper Archive](http://chroniclingamerica.loc.gov/search/pages/results/?date1=1836&rows=20&searchType=basic&state=&date2=1922&proxtext=albuquerque&y=0&x=0&dateFilterType=yearRange&page=3&sort=relevance)  
+[New Mexico Digital Collections](http://econtent.unm.edu/)  
+[Rocky Mountain Online Archive](http://rmoa.unm.edu/)  
+[Digital Sanborn Maps](http://sanborn.umi.com/)  
+
+## Online Exhibits Review
+[StoryMap](http://storymap.knightlab.com/)  
+[Omeka](omeka.org) + [Neatline](neatline.org)
+
 </div>
 
 
-### June 18
-{: .side}
+<div class="section-photo-break" style="background-image: url(/images/digital-mapping-sm/1071012.jpg)">
+</div>
 
-### Day 3
 {::options parse_block_html="true" /}
-<div>
-#### Due Today
-Download and install QGIS according to http://www.qgis.org/en/site/
+<div class="section-block">
+<a id="wednesday"/>
 
-#### QGIS
+# Wednesday June 18
 
-Basics of GIS systems
+## QGIS
+If you're not familiar with GIS systems, or if unfamiliar terms crop up in the tutorials, check out this [gentle introduction](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/index.html). When you want to play, download and install [QGIS](http://www.qgis.org/en/site/).
+
+We'll cover the following:
+
+- Basics of GIS systems
+
+- Loading basemaps
+
+- Adding data layer
+
+- Combining data tables
 
 [QGIS Examples and Reference](http://www.qgistutorials.com/en/)
 
-For tutorials, see [The Geospatial Historian](http://geospatialhistorian.wordpress.com/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgis.spatialthoughts.com/)
+For tutorials, see [The Geospatial Historian](http://geospatialhistorian.wordpress.com/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com)
 
 
-loading basemap
-adding data layer
+## Crowdsourcing Data
+- [Flickr: Discussing Question Re Crowdsourcing: Fail or Win? in Flickr Commons](http://www.flickr.com/groups/flickrcommons/discuss/72157620593449864).
 
-#### Crowdsourcing Data
+- [Four Crowdsourcing Lessons from the Guardian’s (spectacular) Expenses-scandal Experiment](http://www.niemanlab.org/2009/06/four-crowdsourcing-lessons-from-the-guardians-spectacular-expenses-scandal-experiment/).
 
-Flickr Commons, [Flickr: Discussing Question Re Crowdsourcing: Fail or Win? in Flickr Commons](http://www.flickr.com/groups/flickrcommons/discuss/72157620593449864).
+- [More Crowdsourced Scholarship: Citizen History](http://futureofmuseums.blogspot.com/2011/07/more-crowdsourced-scholarship-citizen.html).
 
-Nieman Journalism Lab [Four Crowdsourcing Lessons from the Guardian’s (spectacular) Expenses-scandal Experiment](http://www.niemanlab.org/2009/06/four-crowdsourcing-lessons-from-the-guardians-spectacular-expenses-scandal-experiment/).
+- Steve Anderson, "Past Indiscretions: Digital Archives and Recombinant History," 1-12. (Zotero)
 
-Elissa Frankle, [More Crowdsourced Scholarship: Citizen History](http://futureofmuseums.blogspot.com/2011/07/more-crowdsourced-scholarship-citizen.html).
-
-[Cyclist GPS Data Could Help Cities Plan Safer Routes](http://www.engadget.com/2014/05/12/strava-metro/)
+- [Cyclist GPS Data Could Help Cities Plan Safer Routes](http://blogs.wsj.com/digits/2014/05/07/strava-popular-with-cyclists-and-runners-wants-to-sell-its-data-to-urban-planners/)
 
 
-#### Data Sources
+## Data Sources
+[OpenStreeMap](http://www.openstreetmap.org/#map=5/35.1107/-106.6100)  
+[Natural Earth Data](http://www.naturalearthdata.com/)  
+[GeoCommons](http://geocommons.com/)  
+[ABQ Open Data](http://www.cabq.gov/abq-data)  
+[UNM GIS Data Clearinghouse](http://rgis.unm.edu/)  
+[Hack for Change](http://hackforchange.org/data/)
 
-Check out: a few places to find data: [Chronicling America](http://chroniclingamerica.loc.gov/), [HathiTrust](http://www.hathitrust.org/), [Time Magazine Corpus](http://corpus.byu.edu/time/), [Internet Archive](http://archive.org), [Digital Public Library of America](http://dp.la). 
-
-http://www.openstreetmap.org/#map=5/27.098/-108.325
-http://geocommons.com/
-http://www.cabq.gov/abq-data
-http://www.naturalearthdata.com/
-http://rgis.unm.edu/
-census data
-
-Excellent directory of data sources at [Hack for Change](http://hackforchange.org/data/)
-
-http://www.bigmapblog.com/
+Non-geographic specifc data sources:  
+[Chronicling America](http://chroniclingamerica.loc.gov/)  
+[HathiTrust](http://www.hathitrust.org/)  
+[Time Magazine Corpus](http://corpus.byu.edu/time/)  
+[Internet Archive](http://archive.org)  
+[Digital Public Library of America](http://dp.la)  
 
 
-#### Data Collection
-Guest Speaker: Eric Bernard, Director Landscape Architecture
+<div class="highlight">
+## Data Collection
+<b>Eric Bernard</b>, Director Landscape Architecture
+</div>
 
-#### Creating Your Own Data
-Andrew Turner, [Introduction to Neogeography](http://proquest.safaribooksonline.com/0596529953)
+## Creating Your Own Data
+- Andrew Turner, [Introduction to Neogeography](http://proquest.safaribooksonline.com/0596529953)
 
+- Setha Low et al., _Rethinking Urban Parks: Public Space and Cultural Diversity_, 175-193. (Zotero)
 </div>
 
 
+<div class="section-photo-break" style="background-image: url(/images/digital-mapping-sm/Mexico-1700s-the.jpg)">
+</div>
 
-### June 19
-{: .side}
 
-
-### Day 4
 {::options parse_block_html="true" /}
-<div>
+<div class="section-block">
+<a id="thursday"/>
 
-####Overlaying Historic Maps
+# Thursday, June 19
+
+## Overlaying Historic Maps
 
 [Overview of Georeferencing Historic Maps](http://www.dlib.org/dlib/november12/fleet/11fleet.html)
 
-http://www.oldmapsonline.org/
+## Sources
+[BIG Map Blog](http://www.bigmapblog.com/)
+[Old Maps Online](http://www.oldmapsonline.org/)
 
-- put your (historic) data on a historic map
-
-
-#### Mapping Uncertainty
-Peter Fisher and Jo Wood, [What is a Mountain? Or The Englishman who went up a Boolean Geographical Concept but Realised it was Fuzzy](http://www.jstor.org/stable/pdfplus/40573211.pdf?acceptTC=true).
-
-Matthew Wilkens, [Geolocation Extraction and Mapping of Nineteenth-Century U.S. Fiction](http://chicagocolloquium.org/wp-content/uploads/2011/11/dhcs2011_submission_15.pdf).
-
-Johanna Drucker, [Humanities Approaches to Graphical Display](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html).
+LAB: put your (historic) data on a historic map
 
 
-#### Web Mapping Basics
-How to create your own interactive maps online
+## Mapping Uncertainty
+- Peter Fisher and Jo Wood, [What is a Mountain? Or The Englishman who went up a Boolean Geographical Concept but Realised it was Fuzzy](http://www.jstor.org/stable/pdfplus/40573211.pdf?acceptTC=true).
+
+- Johanna Drucker, [Humanities Approaches to Graphical Display](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html).
+
+- Anne-Kathrin Reuschel and Lorenz Hurni, “Mapping Literature: Visualisation of Spatial Uncertainty in Fiction,” 293-308. (Zotero)
 
 
-Set up localized web environments
-[MAMP](http://www.mamp.info/en/downloads/)
-[WAMP](http://www.wampserver.com/en/)
+## Web Mapping Basics
+We'll cover how to create your own interactive maps online. Why? Because you can add much more custom interactivity than generic tools and services allow. This is an exercise in design imagination.
 
-read up to JAVASCRIPT section in [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/ch03.html)
+- Read up to JAVASCRIPT section in [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/ch03.html)
 
+### Creating Your Own Web Maps
+- Install [MAMP](http://www.mamp.info/en/downloads/) (Mac) or [WAMP](http://www.wampserver.com/en/) (Windows)
 
-make a simple webpage.
-add a simple google map.
+- Make a simple webpage with a simple Google map [using these instructions](https://developers.google.com/maps/tutorials/fundamentals/adding-a-google-map).
 
-ALTERNATIVES TO GOOGLE
-reasons not to use google:
-don’t want to be beholden to their terms of service
-various copyright and privacy issues
-they look like google maps, you might want something more unique
+- Go through the 4 other tutorials on that page, including "Displaying KML," but using the KML file that you created and exported from the earlier Google exercise.
 
 
-You might not always want to use google. that’s okay, there several excellent alternatives:
+### Alternatives to Google
+There are some reasons one might not want to use Google Maps:
 
+- don’t want to be beholden to their terms of service
+
+- you prefer to use open source rather than proprietary tools and data
+
+- you're site will go viral and you'll exceed your request limit
+
+- various copyright and privacy issues
+
+- they look like Google maps and you want something more unique
+
+#### Several excellent alternatives:  
 - [OpenLayers](http://openlayers.org/)
+
 - [Leaflet](http://leafletjs.com/examples/quick-start.html)
 
+No matter what library you use for putting a map on your webpage, you can get tiles from several sources, including [Stamen Maps](http://maps.stamen.com/#watercolor/11/35.1000/-106.5100).
 
-No matter what library you use for putting a map on your webpage, you can get tiles from a number of places:
+[MapBox](https://www.mapbox.com/) helps you link your own data and provides an online style editor for customizing the look of your map. For more flexibility, use a desktop editor called [TileMill](https://www.mapbox.com/tilemill/).
 
-[Stamen Maps](http://maps.stamen.com/#watercolor/11/35.1000/-106.5100)
-
-
-another tool for linking your own data and styling it
-
-https://www.mapbox.com/ (gives you a limited web editor to produce custom tiles)
-
-for more flexibility, use a desktop editor called tilemill
-
-https://www.mapbox.com/tilemill/
-https://www.mapbox.com/tilemill/docs/crashcourse/introduction/
-
-these allow for custom interactivity, which you can publish on mapbox (free account gives you limited space, of course), and you can load these onto any web page
+In class, we'll walk through the [tutorial](https://www.mapbox.com/tilemill/docs/crashcourse/introduction/) for uploading your data, facilitating custom interactivity. Essentially, this tool allows you to create your own tiles that you can publish on Mapbox.com (a free account gives you limited space, of course), and you can load these onto any web page.
 
 </div>
 
 
-### June 20
-{: .side}
+<div class="section-photo-break" style="background-image: url(/images/digital-mapping-sm/txu-pclmaps-topo-co_nm-index-1928.jpg)">
+</div>
 
-### Day 5
+
 {::options parse_block_html="true" /}
-<div>
+<div class="section-block">
+<a id="friday"/>
 
+# Friday, June 20
 
-#Web Maps and Interactivity
+## Web Maps and Interactivity
+Sections on JAVASCRIPT and SVG from [Interactive Data Visualization](http://chimera.labs.oreilly.com/books/1230000000345/ch03.html#_javascript) 
 
-linking data and maps directly within the browser
+Section on D3 from [Interactive Data Visualization](http://chimera.labs.oreilly.com/books/1230000000345/ch12.html) 
 
-read JAVASCRIPT and SVG
-http://chimera.labs.oreilly.com/books/1230000000345/ch03.html
-
-start learning about D3 javascript library
-http://chimera.labs.oreilly.com/books/1230000000345/ch12.html
-
-
-conversion:
+conversion:  
 http://kartograph.org/
 
-#### Work time!
+## Work time!
 
 
-#### Shutdown
+## Power down
 - course conclusions
-- workplans for final project completion. 
+
+- workplans for final project completion
+
 - evaluations
 
 </div>
-
-
-</div> <!-- end 2nd accordion block -->
