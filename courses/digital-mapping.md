@@ -123,6 +123,8 @@ We'll work together to create an richly layered interactive map that displays, c
 
 - What should the modern walking tour look like? (i.e. how to explore the past and present of the built environment?)?
 
+- How might we extend the photography work from the "Phorographing the Build Environment" course?
+
 - Can we build a better version of an [existing city map](http://www.cabq.gov/gis/map-views/mobile-maps)?
 
 - Tell a story about ABQ murals, graffiti, empty lots, etc.
@@ -159,11 +161,11 @@ We'll work together to create an richly layered interactive map that displays, c
 - Jason Farman, “Mapping the Digital Empire: Google Earth and the Process of Postmodern Cartography,” New Media & Society 12, no. 6 (2010): 869–88. (Zotero)
 
 ### Start Making Maps
-[Create a Google Map](http://geospatialhistorian.wordpress.com/lessons/lesson-1/)
+- [Create a Google Map](http://geospatialhistorian.wordpress.com/lessons/lesson-1/)
 
-[Introduction to XML and HTML](http://www.w3schools.com/xml/xml_whatis.asp)
+- [Introduction to XML and HTML](http://www.w3schools.com/xml/xml_whatis.asp)
 
-[KML](https://developers.google.com/kml/documentation/kml_tut)
+- [KML](https://developers.google.com/kml/documentation/kml_tut)
 
 
 ## Spatial History
@@ -203,7 +205,7 @@ We'll work together to create an richly layered interactive map that displays, c
 # Wednesday June 18
 
 ## QGIS
-If you're not familiar with GIS systems, or if unfamiliar terms crop up in the tutorials, check out this [gentle introduction](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/index.html). When you want to play, download and install [QGIS](http://www.qgis.org/en/site/).
+If you're not familiar with GIS systems, or if unfamiliar terms crop up in the tutorials, check out this [gentle introduction](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/index.html). When you want to play, download and install [QGIS](http://www.qgis.org/en/site/). For tutorials, see [The Geospatial Historian](http://geospatialhistorian.wordpress.com/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com).
 
 We'll cover the following:
 
@@ -214,10 +216,6 @@ We'll cover the following:
 - Adding data layer
 
 - Combining data tables
-
-[QGIS Examples and Reference](http://www.qgistutorials.com/en/)
-
-For tutorials, see [The Geospatial Historian](http://geospatialhistorian.wordpress.com/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com)
 
 
 ## Crowdsourcing Data
@@ -232,7 +230,7 @@ For tutorials, see [The Geospatial Historian](http://geospatialhistorian.wordpre
 - [Cyclist GPS Data Could Help Cities Plan Safer Routes](http://blogs.wsj.com/digits/2014/05/07/strava-popular-with-cyclists-and-runners-wants-to-sell-its-data-to-urban-planners/)
 
 
-## Data Sources
+### GeoData Sources
 [OpenStreeMap](http://www.openstreetmap.org/#map=5/35.1107/-106.6100)  
 [Natural Earth Data](http://www.naturalearthdata.com/)  
 [GeoCommons](http://geocommons.com/)  
@@ -240,7 +238,7 @@ For tutorials, see [The Geospatial Historian](http://geospatialhistorian.wordpre
 [UNM GIS Data Clearinghouse](http://rgis.unm.edu/)  
 [Hack for Change](http://hackforchange.org/data/)
 
-Non-geographic specifc data sources:  
+### Non-geographic specifc data sources:  
 [Chronicling America](http://chroniclingamerica.loc.gov/)  
 [HathiTrust](http://www.hathitrust.org/)  
 [Time Magazine Corpus](http://corpus.byu.edu/time/)  
