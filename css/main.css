@@ -501,6 +501,11 @@ text-align:left;
   background-color: #333;
 }
 
+#syllabus-new p strong {
+  font-weight: 300;
+  color:#ccc;
+}
+
 #syllabus-new h1 {
 font-family: 'Amatic SC', sans-serif;
 font-size: 300%;
