@@ -123,7 +123,7 @@ We'll work together to create an richly layered interactive map that displays, c
 
 - What should the modern walking tour look like? (i.e. how to explore the past and present of the built environment?)?
 
-- How might we extend the photography work from the "Phorographing the Build Environment" course?
+- How might we extend the photography work from the "Photographing the Build Environment" course?
 
 - Can we build a better version of an [existing city map](http://www.cabq.gov/gis/map-views/mobile-maps)?
 
@@ -233,7 +233,8 @@ We'll cover the following:
 ### GeoData Sources
 [OpenStreeMap](http://www.openstreetmap.org/#map=5/35.1107/-106.6100)  
 [Natural Earth Data](http://www.naturalearthdata.com/)  
-[GeoCommons](http://geocommons.com/)  
+[GeoCommons](http://geocommons.com/)
+[USGS](http://www.usgs.gov/pubprod/)  
 [ABQ Open Data](http://www.cabq.gov/abq-data)  
 [UNM GIS Data Clearinghouse](http://rgis.unm.edu/)  
 [Hack for Change](http://hackforchange.org/data/)
@@ -272,11 +273,16 @@ We'll cover the following:
 
 [Overview of Georeferencing Historic Maps](http://www.dlib.org/dlib/november12/fleet/11fleet.html)
 
-## Sources
-[BIG Map Blog](http://www.bigmapblog.com/)
+### Historic Map Sources
+[Perry-Castañeda Library Map Collection](http://www.lib.utexas.edu/maps/)  
+[David Rumsey Map Collection](http://www.davidrumsey.com/)  
+[Library of Congress](http://www.loc.gov/)  
+[USGS Historical Topo Maps](http://nationalmap.gov/historical/)
+[BIG Map Blog](http://www.bigmapblog.com/)    
 [Old Maps Online](http://www.oldmapsonline.org/)
 
-LAB: put your (historic) data on a historic map
+
+## LAB: put your (historic) data on a historic map
 
 
 ## Mapping Uncertainty
