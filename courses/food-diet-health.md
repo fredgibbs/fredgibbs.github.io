@@ -21,22 +21,24 @@ Office Hours: M 1-3; W 1-2; almost any other time by appointment
 
 {::options parse_block_html="true" /}
 <div>
-What constitutes healthy food? Or a healthy diet? Or a healthy body? Needless to say, dietary regimens to restore or maintain health--as well as what it means to be healthy--have remained preeminent questions throughout Western medical history. Yet even today, medical understandings of diet and official dietary advice seems to change almost daily. This course explores how various cultural, scientific, and medical values have continually shaped our relationship to food, health, and diet from the Renaissance until now.
+What constitutes healthy food? A healthy diet? A healthy body? Needless to say, dietary regimens to restore or maintain health--as well as what it means to be healthy--have remained preeminent questions throughout Western medical history. Yet even today, medical understandings of diet and official dietary advice seems to change almost daily. This course explores how various cultural, scientific, and medical values have continually shaped our relationship to food, health, and diet from the "discovery" of America to the present.
 
 Some guiding questions: How and why have the perceived medical virtues of various foods (such as coffee, chocolate, booze, etc) changed over time? Why have fad diets come in and gone out of fashion? How has modern medicine continually redefined what it means to be healthy and to eat a healthy diet? How have national recommendations for healthy foods been used as social controls? How have changing attitudes about the body, health, and technology shaped our preferences for what should be considered healthy food?
+
+The course will be taught in the shiny new Teaching and Learning building in "learning studios" that look like [this](https://www.unm.edu/~oset/Event%20Descriptions/LearningStudioClassroomsatUNM.html). Discussions will be more like labs, in which everyone will be working in small groups to research and discuss and present on relevant topics and research exercises. One of these topics will be the nature and history of local food, in parallel with October as "Local Food Month" in ABQ.
 </div>
 
 ### Student Learning Outcomes
 {::options parse_block_html="true" /}
 <div>
 
-* Understand the changing notion of diet and the constantly shifting relationship between diet and health in American medicine.
+* Understand the changing notion of diet and the constantly shifting relationship between diet and health in Western medicine.
 
-* Appreciate how attitudes about diet are not based on "objective" medical knowledge, but on a complex constellation of social, political, and cultural values.
+* Appreciate how attitudes about diet are not based on "objective" medical knowledge, but grow out of complex constellation of social, political, and cultural values.
 
 * Develop sensitivity to how different social and cultural populations approach food and health in vastly different terms, and how this might inform food, diet, and health policy decisions.
 
-* Sharpen critical thinking skills by evaluating contemporary medical writing dietary advice while exposing its assumptions and putting it in historical perspective.
+* Sharpen critical thinking skills by evaluating online dietary advice while exposing its assumptions and putting it in historical perspective.
 
 </div>
 
@@ -46,11 +48,11 @@ Some guiding questions: How and why have the perceived medical virtues of variou
 
 * Everyone starts with a C in the course. I assume you are all average students who do average quality work. I know this is false, but it's my starting point. It's your job to prove me wrong via your engagement in the course.
 * You raise (or lower) your grade based on the quality of your participation in class discussions and activities, random assignments, and your submitted written work.
-* The course will be taught in the shiny new Teaching and Learning building in "[learning studios](https://www.unm.edu/~oset/Event%20Descriptions/LearningStudioClassroomsatUNM.html)." Discussions will be more like labs where everyone will be working in groups to research and discuss the daily topic--making extensive use of the video projector and whiteboards to share and communicate.
+* The course will be taught in the shiny new Teaching and Learning building in "[learning studios](https://www.unm.edu/~oset/Event%20Descriptions/LearningStudioClassroomsatUNM.html)." Discussions will be more like labs where everyone will be working in groups to research and discuss the daily topic--making extensive use of the video projector and whiteboards to share and communicate. Continual engagement with these activities is expected.
 * Simply showing up to class counts for very little; **I expect that you'll attend most classes and be an active participant in all class activities**. If you do this, you'll raise your grade one letter grade (ie C->B).
-* 4 750-word historical analyses of recent "publication" pertaining to food, health, and diet (newspaper, magazine, movie, science research article, historical scholarship...whatever). The goal is to find something you might read even if you weren't in the course, and critique it from a historical perspective (that you're hopefully getting in the course).
+* 4 750-word historical analyses of recent "publication" pertaining to food, health, and diet (newspaper, magazine, movie, science research article, historical scholarship...whatever). The goal is to find something you might read even if you weren't in the course, and critique it from a historical perspective (that you're hopefully getting in the course). These will show that you're able to apply the course discussion and activities in productive ways.
 * If your essays follow the protocols (listed below), you'll raise your grade one letter grade (ie B->A).
-* If you are displeased with your grade for any assignemnt, you can visit with me about your paper, rework it, and resubmit it. You can continue to do this until we agree that your essay isn't going to improve anymore. Your final grade will reflect both your mastery of course material and your effort to improve your essay. *You cannot resubmit work without first meeting with me about your original submission and its flaws.*
+* If you are displeased with your grade for any assignment, you can visit with me about your paper, rework it, and resubmit it within 1 week. You can continue to do this until we agree that your essay isn't going to improve anymore. Your final grade will reflect both your mastery of course material and your effort to improve your essay. *You cannot resubmit work without first meeting with me to discuss your original submission.*
 
 </div>
 
