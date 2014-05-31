@@ -583,6 +583,26 @@ border-bottom: 0;
 background-image: url(/images/digital-mapping-sm/Mexico-1700s-the.jpg);
 }
 
+.photo2 {
+background-image: url(/images/digital-mapping-sm/txu-pclmaps-topo-nm-albuquerque-1937.jpg);
+}
+
+.photo3 {
+background-image: url(/images/digital-mapping-sm/5840059.jpg);
+}
+
+.photo4 {
+background-image: url(/images/digital-mapping-sm/dsc_0052.jpg);
+}
+
+.photo5 {
+  background-image: url(/images/digital-mapping-sm/1071012.jpg);
+}
+
+.photo6 {
+  background-image: url(/images/digital-mapping-sm/Mexico-1700s-the.jpg);
+}
+
 #HiddenMenu {
     background-color: #000;
     position: relative;
@@ -894,6 +914,27 @@ padding:0;
 .photo1 {
   background-image: url(/images/digital-mapping-tiny/Mexico-1700s-the.jpg);
 }
+
+.photo2 {
+background-image: url(/images/digital-mapping-tiny/txu-pclmaps-topo-nm-albuquerque-1937.jpg);
+}
+
+.photo3 {
+background-image: url(/images/digital-mapping-tiny/5840059.jpg);
+}
+
+.photo4 {
+background-image: url(/images/digital-mapping-tiny/dsc_0052.jpg);
+}
+
+.photo5 {
+  background-image: url(/images/digital-mapping-tiny/1071012.jpg);
+}
+
+.photo6 {
+  background-image: url(/images/digital-mapping-tiny/Mexico-1700s-the.jpg);
+}
+
 
 .section-block {
 width:32em;

@@ -36,7 +36,7 @@ We'll move from creating simple maps with **Google Maps/Earth** to creating your
 Course readings that aren't freely availabe online (and even some that are) can be accessed via the course [Zotero Library](https://www.zotero.org/groups/267332). You'll need to be invited to join the group since we use it to distribute course readings. If you are not familiar with Zotero, here are [some instructions](/courses/etc/zotero.html).
 </div>
 
-<div class="section-photo-break" style="background-image: url(/images/digital-mapping-sm/txu-pclmaps-topo-nm-albuquerque-1937.jpg)">
+<div class="section-photo-break photo2">
 </div>
 
 {::options parse_block_html="true" /}
@@ -59,7 +59,7 @@ Course readings that aren't freely availabe online (and even some that are) can 
 
 </div>
 
-<div class="section-photo-break" style="background-image: url(/images/digital-mapping-sm/5840059.jpg)">
+<div class="section-photo-break photo3">
 </div>
 
 
@@ -135,7 +135,7 @@ We'll work together to create an richly layered interactive map that displays, c
 
 </div>
 
-<div class="section-photo-break" style="background-image: url(/images/digital-mapping-sm/dsc_0052.jpg)">
+<div class="section-photo-break photo4">
 </div>
 
 
@@ -195,7 +195,7 @@ We'll work together to create an richly layered interactive map that displays, c
 </div>
 
 
-<div class="section-photo-break" style="background-image: url(/images/digital-mapping-sm/1071012.jpg)">
+<div class="section-photo-break photo5">
 </div>
 
 {::options parse_block_html="true" /}
@@ -259,7 +259,7 @@ We'll cover the following:
 </div>
 
 
-<div class="section-photo-break" style="background-image: url(/images/digital-mapping-sm/Mexico-1700s-the.jpg)">
+<div class="section-photo-break photo6">
 </div>
 
 
