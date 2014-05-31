@@ -21,7 +21,7 @@ Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
 Mesa Vista Hall, 1077    
 </div>
 
-<div class="section-photo-break" style="background-image: url(/images/digital-mapping-sm/Mexico-1700s-the.jpg)">
+<div class="section-photo-break photo1">
 </div>
 
 {::options parse_block_html="true" /}
