@@ -879,15 +879,9 @@ a {
   font-weight: bold;
 }
 
-.section-photo-break {
-height: 200px;
-background-repeat: no-repeat;
-border-bottom: 0;
-}
 
 .section-photo-break {
-width:32em;
-height: 500px;
+width:600px;
 background-attachment: fixed;
 background-position: center center;
 background-repeat: no-repeat;
