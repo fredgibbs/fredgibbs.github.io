@@ -903,7 +903,7 @@ a {
 .section-photo-break {
 height: 100px;
 background-attachment: scroll;
-background-position: top left;
+background-position: center center;
 background-repeat: no-repeat;
 background-size: auto auto;
 margin:0;
