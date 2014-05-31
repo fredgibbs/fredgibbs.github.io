@@ -885,12 +885,13 @@ height: 100px;
 background-attachment: scroll;
 background-position: top left;
 background-repeat: no-repeat;
-background-size: 100%;
+background-size: auto auto;
 }
 
 
 .photo1 {
-  background-image: url(/images/digital-mapping-tiny/Mexico-1700s-the.jpg);
+  background-image: none;
+  content:url(/images/digital-mapping-tiny/Mexico-1700s-the.jpg);
 }
 
 .section-block {
