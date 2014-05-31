@@ -885,8 +885,19 @@ background-repeat: no-repeat;
 border-bottom: 0;
 }
 
+.section-photo-break {
+height: 500px;
+background-attachment: fixed;
+background-position: center center;
+background-repeat: no-repeat;
+background-size: 600px;
+
+}
+
+
 .photo1 {
   background-image: url(/images/digital-mapping-tiny/Mexico-1700s-the.jpg);
+  background-image: none;
 }
 
 .section-block {
