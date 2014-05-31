@@ -861,6 +861,7 @@ a {
 
 #syllabus-new {
   font-family: 'Lato', sans-serif;
+  width:32em;
   font-weight: 400;
   font-size: 100%;
   color:#aaa;
@@ -869,6 +870,16 @@ a {
   background-color: #333;
 }
 
+#syllabus-new h2 {
+font-size:150%;
+}
+
+.section-photo-break {
+height: 200px;
+background-attachment: fixed;
+background-repeat: no-repeat;
+border-bottom: 0;
+}
 
 /*****************************************************************************/
 /*
