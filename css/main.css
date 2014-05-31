@@ -881,11 +881,8 @@ a {
 
 .section-photo-break {
 height: 200px;
-background-attachment: fixed;
 background-repeat: no-repeat;
 border-bottom: 0;
-background-size: cover !important;
-max-width: 100%;
 }
 
 .photo1 {
