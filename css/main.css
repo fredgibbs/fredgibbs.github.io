@@ -871,14 +871,27 @@ a {
 }
 
 #syllabus-new h2 {
-font-size:150%;
+  font-family: oxygen;
+  font-size:150%;
+  font-weight: bold;
 }
 
 .section-photo-break {
 height: 200px;
+width:100%;
 background-attachment: fixed;
 background-repeat: no-repeat;
 border-bottom: 0;
+}
+
+.section-block {
+width:32em;
+line-height: 1.4em;
+font-size: 100%;
+margin:0em;
+padding: 0 0 1em 1em;
+background: #333;
+color: #aaa;
 }
 
 /*****************************************************************************/
