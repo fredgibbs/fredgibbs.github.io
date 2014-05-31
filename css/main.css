@@ -882,6 +882,7 @@ width:100%;
 background-attachment: fixed;
 background-repeat: no-repeat;
 border-bottom: 0;
+background-size: cover !important;
 }
 
 .section-block {
