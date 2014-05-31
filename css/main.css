@@ -881,12 +881,11 @@ a {
 
 
 .section-photo-break {
-width:600px;
-background-attachment: fixed;
-background-position: center center;
+height: 100px;
+background-attachment: scroll;
+background-position: top left;
 background-repeat: no-repeat;
-background-size: 600px;
-
+background-size: 100%;
 }
 
 
