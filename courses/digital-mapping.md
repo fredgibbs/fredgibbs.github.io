@@ -29,7 +29,9 @@ Mesa Vista Hall, 1077
 # Course Description
 We are in the midst of a major paradigm shift in human consciousness and society caused by our ubiquitous connectedness via the internet and smartphones. These globalizing forces have telescoped space and time to an unprecedented degree, while paradoxically heightening the importance of local places.
 
-The course explores the technologies, tools, and workflows that can help collect, connect, and present online interpretations of the spaces around us. Throughout the week, we'll discuss the **theoretical and practical challenges of deep mapping** (producing rich, interactive maps with multiple layers of information). Woven into our discussions will be numerous technical tutorials that will allow us to tell map-based stories about Albuquerque's fascinating past. 
+The course explores the technologies, tools, and workflows that can help collect, connect, and present online interpretations of the spaces around us. Throughout the week, we'll discuss the **theoretical and practical challenges of deep mapping** (producing rich, interactive maps with multiple layers of information). Woven into our discussions will be numerous technical tutorials that will allow us to tell map-based stories about Albuquerque's fascinating past.
+
+This course differs from introductory cartography, geography, and GIS courses in fundamental ways. While we cover some of the basics of each of these, the course focuses on their intersection with each other, history, sociology, anthropology, web and interface design, web programming, and the technical string that allows you to tie them all together as limited by your imagination, not technical aptitude. 
 
 We'll move from creating simple maps with **Google Maps/Earth** to creating your own custom, **interactive online maps** with various open source tools like **QGIS**, **Open Street Map**, and **D3** that leverage the power of **open data** from local and national repositories to provide new perspectives on the built environment. We'll also use various **mobile apps for data collection**, **online exhibit software**, (physical and digital) **historical archives** at the Center for Southwest Research. Along the way we'll cover the various **data formats** (KML, XML, GeoJSON, TopoJSON) used by different tools and how to move between them, allowing you to craft the most efficient workflow for your mapping purposes.
 
@@ -54,6 +56,8 @@ Course readings that aren't freely availabe online (and even some that are) can 
 - Develop awareness and conversational fluency in geographic data formats, technologies, and tools so that you can produce maps and troubleshoot new challenges on your own.
 
 - Must be able to have fun while totally frustrated, even when this stupid little thing takes way longer than it should.
+
+- GRADUATE STUDENTS: In addition to all other activities on the syllabus, you'll also take turns leading discussion of reading topics. 
 
 </div>
 
