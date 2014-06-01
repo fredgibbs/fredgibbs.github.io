@@ -45,15 +45,13 @@ Course readings that aren't freely availabe online (and even some that are) can 
 
 - Appreciate the theoretical possibilities and practical limitations of deep digital mapping.
 
-- Understand the theories and principles of new media, linked open data, interface design as applies to the geospatial humanities.
-
-- Develop awareness and conversational fluency in geographic data formats, technologies, and tools.
+- Understand the principles of new media, linked open data, and interface design as applies to the geospatial humanities.
 
 - Combine qualitative and quantitative analytical skills
 
 - Begin to experiment with new tools, workflows, methods, and techniques for mapping the urban environment, including QGIS, Omeka + Neatline, Google Maps/Earth, basic web mapping concepts, basic web programming, Javascript, SVG, D3.
 
-- Develop enough awareness with these technologies to create maps on your own with lots of Googling.
+- Develop awareness and conversational fluency in geographic data formats, technologies, and tools so that you can produce maps and troubleshoot new challenges on your own.
 
 - Must be able to have fun while totally frustrated, even when this stupid little thing takes way longer than it should.
 
@@ -72,11 +70,12 @@ Course readings that aren't freely availabe online (and even some that are) can 
 
 ## Introductions of Persons and Course Overview
 
-### Generic Mapping Projects 
+### Map Porn 
+[Innovative Maps as reviewed by CityLab](http://www.citylab.com/tech/2013/12/most-innovative-maps-2013/7952/)  
+[Making Maps: DIY Cartography](http://makingmaps.net/)  
+[Totally random, usually interesting](http://anterotesis.com/wordpress/dh-gis-projects/)  
 [Google Map Examples](http://googlemapsmania.blogspot.com/)  
 [MapBox](https://www.mapbox.com/showcase/)  
-[Making Maps: DIY Cartography](http://makingmaps.net/)  
-[Totally random, usually interesting](http://anterotesis.com/wordpress/dh-gis-projects/)
 
 ### Particular Projects
 [Spillmapper](http://spillmapper.westernpriorities.org/)  
@@ -84,7 +83,7 @@ Course readings that aren't freely availabe online (and even some that are) can 
 [US Atlas of Religion](http://www.religionatlas.org/)    
 
 ### Community Engagement
-[History of San Franciso Streets](http://sfstreets.noahveltman.com/)  
+[History of San Franciso Streets](http://sfstreets.noahveltman.com/) (with an interesting [explanation](https://source.opennews.org/en-US/articles/mapping-history-street-names/))   
 [Reimagining Whalley](http://www.llomadesign.com/reimaginingwhalley/#lat=49.18962193725587,lng=-122.8468733330078,zoom=13)  
 [Philadelphia Bike Crashes](http://blog.bicyclecoalition.org/2013/12/this-map-of-philly-reveals-locations.html)  
 [CityTracking](http://citytracking.org/)  
@@ -92,7 +91,7 @@ Course readings that aren't freely availabe online (and even some that are) can 
 
 ### Larger Mapping Projects
 [HyperCities](http://hypercities.com/)  
-[Stanford spatial history project](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)
+[Stanford Spatial History Project](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)
 
 ### Telling Stories with Maps
 [StoryMap](http://storymap.knightlab.com/)  
@@ -155,8 +154,10 @@ We'll work together to create an richly layered interactive map that displays, c
 <b>Ann Massmann</b>, Southwest Studies Librarian, Center for Southwest Research
 </div>
 
-## Principles of Google Maps
-- [How Goole Builds its Maps](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/)  
+## Principles of Mapping and Google Maps
+- [So You Want to Make a Map](http://schoolofdata.org/2013/11/09/web-mapping/)
+
+- [How Goole Builds its Maps](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/)
 
 - Jason Farman, “Mapping the Digital Empire: Google Earth and the Process of Postmodern Cartography,” New Media & Society 12, no. 6 (2010): 869–88. (Zotero)
 
@@ -213,7 +214,7 @@ We'll cover the following:
 
 - Loading basemaps
 
-- Adding data layer
+- Adding data layers
 
 - Combining data tables
 
