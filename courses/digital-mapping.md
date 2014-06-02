@@ -32,8 +32,9 @@ We are in the midst of a major paradigm shift in human consciousness and society
 The course explores the technologies, tools, and workflows that can help collect, connect, and present online interpretations of the spaces around us. Throughout the week, we'll discuss the **theoretical and practical challenges of deep mapping** (producing rich, interactive maps with multiple layers of information). Woven into our discussions will be numerous technical tutorials that will allow us to tell map-based stories about Albuquerque's fascinating past.
 
 -----
-This course differs from introductory cartography, geography, and GIS courses in fundamental ways. While we cover some of the basics of each of these, the course focuses on their intersection with each other, history, sociology, anthropology, web and interface design, web programming, and the technical string that allows you to tie them all together as limited by your imagination, not technical aptitude. 
------
+This course differs from introductory cartography, geography, and GIS courses in fundamental ways. While we cover some of the basics of each of these, the course focuses on their intersection with each other, history, sociology, anthropology, web and interface design, web programming, and the technical string that allows you to tie them all together as limited by your imagination, not technical aptitude.   
+
+----
 
 We'll move from creating simple maps with **Google Maps/Earth** to creating your own custom, **interactive online maps** with various open source tools like **QGIS**, **Open Street Map**, and **D3** that leverage the power of **open data** from local and national repositories to provide new perspectives on the built environment. We'll also use various **mobile apps for data collection**, **online exhibit software**, (physical and digital) **historical archives** at the Center for Southwest Research. Along the way we'll cover the various **data formats** (KML, XML, GeoJSON, TopoJSON) used by different tools and how to move between them, allowing you to craft the most efficient workflow for your mapping purposes.
 
