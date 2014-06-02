@@ -19,7 +19,7 @@ You will get an email inviting you to join a Zotero group library. If you click 
 Once you’ve created a Zotero account, you'll be able to officially join the group library for the course. 
 
 ##View the course library online
-Once you've created and account AND accepted the invitation to join the group, you'll be able to visit the [course library](https://www.zotero.org/groups/242299/items). You'll see all of the readings listed there, and you can download the PDFs as need be. 
+Once you've created and account AND accepted the invitation to join the group, you'll be able to visit the course library (link on syllabus). You'll see all of the readings listed there, and you can download the PDFs as need be. 
 
 ##If installing Zotero on your computer
 Using the Zotero website to access the readings is a bit clunky. If you download and install Zotero on your computer, you'll have a much better interface to the readings and you'll always have them at the ready. Once you've installed Zotero, you'll have the option to link your installation of Zotero to your zotero.org account. Do this. Then, automagically, you should see a collection titled “medieval-science-medicine” under the “Group Libraries” header in the the leftmost column of your Zotero display. It will take a few minutes to download all the readings, but then you'll have a copy of the course library with all of the readings available to you, even when you're offline.

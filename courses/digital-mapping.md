@@ -154,8 +154,10 @@ We'll work together to create an richly layered interactive map that displays, c
 
 # Tuesday June 17
 
-## Digital Humanities and Space
+## Digital and Spatial Humanities
 - Chapter 1, 3-26; Case Studies, 61-71 in *Digital\_Humanities* (in the Zotero Library, and also an [online PDF](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf)
+
+- David J Bodenhamer et al. (eds.), _The Spatial Humanities: GIS and the Future of Humanities Scholarship_, Chapters 1 and 2. (Zotero)
 
 - Michel de Certeau, “Spatial Practices,” 91-130. (Zotero)
 
