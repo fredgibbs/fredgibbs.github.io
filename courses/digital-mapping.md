@@ -91,17 +91,25 @@ Course readings that aren't freely availabe online (and even some that are) can 
 [Spillmapper](http://spillmapper.westernpriorities.org/)  
 [Pompeii Bibliography and Mapping Project](http://digitalhumanities.umass.edu/pbmp/)    
 [US Atlas of Religion](http://www.religionatlas.org/)    
+[Digital Harlem](http://acl.arts.usyd.edu.au/harlem/)  
+[Walking Through Time](http://www.walkingthroughtime.co.uk/)  
 
 ### Community Engagement
-[History of San Franciso Streets](http://sfstreets.noahveltman.com/) (with an interesting [explanation](https://source.opennews.org/en-US/articles/mapping-history-street-names/))   
+[History of San Francisco Streets](http://sfstreets.noahveltman.com/) (with an interesting [explanation](https://source.opennews.org/en-US/articles/mapping-history-street-names/))   
 [Reimagining Whalley](http://www.llomadesign.com/reimaginingwhalley/#lat=49.18962193725587,lng=-122.8468733330078,zoom=13)  
 [Philadelphia Bike Crashes](http://blog.bicyclecoalition.org/2013/12/this-map-of-philly-reveals-locations.html)  
 [CityTracking](http://citytracking.org/)  
 [EcoHack](http://ecohackmtl.org/language/en/)
 
 ### Larger Mapping Projects
-[HyperCities](http://hypercities.com/)  
+[HyperCities](http://hypercities.com/)  [More on this](https://sas.elluminate.com/site/external/jwsdetect/playback.jnlp?psid=2010-12-04.1551.M.1B6046E3218AB4691853183BCF526A.vcr&sid=2009099)  
 [Stanford Spatial History Project](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)
+
+
+DAY 2 SESSION 1: Chris Speed, Edinburgh College of Art, Walking Through Time & Tale of Things  
+Recording Link
+SESSION 3: Todd Presner, UCLA & Philip Ethington, University of Southern California,   
+Recording Link
 
 ### Telling Stories with Maps
 [StoryMap](http://storymap.knightlab.com/)  
@@ -126,6 +134,8 @@ Course readings that aren't freely availabe online (and even some that are) can 
 - Richard Flordia, _The Rise of the Creative Class_, 215-234
 
 - Setha Low, _On the Plaza: Politics of Public Space and Culture_, 127-153.
+
+- Dave Hickey, “Romancing the Looky-Loos,” 
 
 ## Planning Our ABQ Map Project
 We'll work together to create an richly layered interactive map that displays, contextualizes, and historicies some features of ABQ. The particular topic can be just about anything as long as it has a spatial and historical component.
