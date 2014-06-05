@@ -39,7 +39,7 @@ This course differs from introductory cartography, geography, and GIS courses in
 <br>
 We'll move from creating simple maps with **Google Maps/Earth** to creating your own custom, **interactive online maps** with various open source tools like **QGIS**, **Open Street Map**, and **D3** that leverage the power of **open data** from local and national repositories to provide new perspectives on the built environment. We'll also use various **mobile apps for data collection**, **online exhibit software**, (physical and digital) **historical archives** at the Center for Southwest Research. Along the way we'll cover the various **data formats** (KML, XML, GeoJSON, TopoJSON) used by different tools and how to move between them, allowing you to craft the most efficient workflow for your mapping purposes.
 
-Course readings that aren't freely availabe online (and even some that are) can be accessed via the course [Zotero Library](https://www.zotero.org/groups/267332). You'll need to be invited to join the group since we use it to distribute course readings. If you are not familiar with Zotero, here are [some instructions](/courses/etc/zotero.html).
+Course readings that aren't freely availabe online (and even some that are) can be accessed via the course [Zotero Library](https://www.zotero.org/groups/267332/items/order/creator/sort/asc). You'll need to be invited to join the group since we use it to distribute course readings. If you are not familiar with Zotero, here are [some instructions](/courses/etc/zotero.html).
 </div>
 
 <div class="section-photo-break photo2">
