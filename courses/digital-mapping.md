@@ -124,6 +124,8 @@ Course readings that aren't freely availabe online (and even some that are) can 
 <b>Chris Wilson</b>, J. B. Jackson Professor of Cultural Landscape Studies
 </div>
 
+- Reading and Discussion Guide (Zotero)
+
 - Edward T. Hall, _Beyond Culture_, 129-140.
 
 - Richard Flordia, _The Rise of the Creative Class_, 215-234
@@ -162,9 +164,9 @@ We'll work together to create an richly layered interactive map that displays, c
 ## Digital and Spatial Humanities
 - Chapter 1, 3-26; Case Studies, 61-71 in *Digital\_Humanities* (in the Zotero Library, and also an [online PDF](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf)
 
-- David J Bodenhamer et al. (eds.), _The Spatial Humanities: GIS and the Future of Humanities Scholarship_, Chapters 1 and 2. (Zotero)
+- David J Bodenhamer et al. (eds.), _The Spatial Humanities: GIS and the Future of Humanities Scholarship_, Chapters 1 and 2.
 
-- Michel de Certeau, “Spatial Practices,” 91-130. (Zotero)
+- Michel de Certeau, “Spatial Practices,” 91-130.
 
 <div class="highlight">
 ## Historical Research on ABQ
@@ -176,7 +178,7 @@ We'll work together to create an richly layered interactive map that displays, c
 
 - [How Goole Builds its Maps](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/)
 
-- Jason Farman, “Mapping the Digital Empire: Google Earth and the Process of Postmodern Cartography,” New Media & Society 12, no. 6 (2010): 869–88. (Zotero)
+- Jason Farman, “Mapping the Digital Empire: Google Earth and the Process of Postmodern Cartography,” New Media & Society 12, no. 6 (2010): 869–88.
 
 ### Start Making Maps
 - [Create a Google Map](http://geospatialhistorian.wordpress.com/lessons/lesson-1/)
@@ -243,7 +245,7 @@ We'll cover the following:
 
 - [More Crowdsourced Scholarship: Citizen History](http://futureofmuseums.blogspot.com/2011/07/more-crowdsourced-scholarship-citizen.html).
 
-- Steve Anderson, "Past Indiscretions: Digital Archives and Recombinant History," 1-12. (Zotero)
+- Steve Anderson, "Past Indiscretions: Digital Archives and Recombinant History," 1-12.
 
 - [Cyclist GPS Data Could Help Cities Plan Safer Routes](http://blogs.wsj.com/digits/2014/05/07/strava-popular-with-cyclists-and-runners-wants-to-sell-its-data-to-urban-planners/)
 
