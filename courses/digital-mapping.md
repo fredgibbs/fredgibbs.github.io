@@ -102,14 +102,9 @@ Course readings that aren't freely availabe online (and even some that are) can 
 [EcoHack](http://ecohackmtl.org/language/en/)
 
 ### Larger Mapping Projects
-[HyperCities](http://hypercities.com/)  [More on this](https://sas.elluminate.com/site/external/jwsdetect/playback.jnlp?psid=2010-12-04.1551.M.1B6046E3218AB4691853183BCF526A.vcr&sid=2009099)  
+[HyperCities](http://hypercities.com/) | [More on this](https://sas.elluminate.com/site/external/jwsdetect/playback.jnlp?psid=2010-12-04.1551.M.1B6046E3218AB4691853183BCF526A.vcr&sid=2009099)  
 [Stanford Spatial History Project](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)
 
-
-DAY 2 SESSION 1: Chris Speed, Edinburgh College of Art, Walking Through Time & Tale of Things  
-Recording Link
-SESSION 3: Todd Presner, UCLA & Philip Ethington, University of Southern California,   
-Recording Link
 
 ### Telling Stories with Maps
 [StoryMap](http://storymap.knightlab.com/)  
