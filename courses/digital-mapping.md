@@ -98,6 +98,7 @@ Course readings that aren't freely availabe online (and even some that are) can 
 [History of San Francisco Streets](http://sfstreets.noahveltman.com/) (with an interesting [explanation](https://source.opennews.org/en-US/articles/mapping-history-street-names/))   
 [Reimagining Whalley](http://www.llomadesign.com/reimaginingwhalley/#lat=49.18962193725587,lng=-122.8468733330078,zoom=13)  
 [Philadelphia Bike Crashes](http://blog.bicyclecoalition.org/2013/12/this-map-of-philly-reveals-locations.html)  
+[Mapping Addiction](http://www.npr.org/2011/11/20/142554574/in-baltimore-mapping-the-world-of-addiction)  
 [CityTracking](http://citytracking.org/)  
 [EcoHack](http://ecohackmtl.org/language/en/)
 
@@ -143,11 +144,11 @@ We'll work together to create an richly layered interactive map that displays, c
 
 - Can we build a better version of an [existing city map](http://www.cabq.gov/gis/map-views/mobile-maps)?
 
-- Tell a story about ABQ murals, graffiti, empty lots, etc.
+- Tell a story about ABQ murals, graffiti, empty lots, displaced shopping carts, street gradients, etc.
 
 - Can we tell a stories about not just [historic places](http://www.cabq.gov/planning/our-department/urban-design-and-development/historic-landmarks) but historic spaces? (ie the context of these historic landmarks?)
 
-- What are ABQ's historic neighborhoods and how have they changed over time?
+- How we can chart the development of the Highland neighborhood over time? (expanding the historical dimension of the [redevelopment plan](etc/Nobhill-Highland-Redevelopment-2007.pdf))
 
 </div>
 
@@ -259,7 +260,7 @@ We'll cover the following:
 [UNM GIS Data Clearinghouse](http://rgis.unm.edu/)  
 [Hack for Change](http://hackforchange.org/data/)
 
-### Non-geographic specifc data sources:  
+### Non-geographic-specific data sources:  
 [Chronicling America](http://chroniclingamerica.loc.gov/)  
 [HathiTrust](http://www.hathitrust.org/)  
 [Time Magazine Corpus](http://corpus.byu.edu/time/)  
@@ -294,10 +295,10 @@ We'll cover the following:
 [Overview of Georeferencing Historic Maps](http://www.dlib.org/dlib/november12/fleet/11fleet.html)
 
 ### Historic Map Sources
-[Perry-Castañeda Library Map Collection](http://www.lib.utexas.edu/maps/)  
+[Perry-Castañeda Library Map Collection](http://www.lib.utexas.edu/maps/) and their list of [Historic Maps](http://www.lib.utexas.edu/maps/map_sites/hist_sites.html)  
 [David Rumsey Map Collection](http://www.davidrumsey.com/)  
 [Library of Congress](http://www.loc.gov/)  
-[USGS Historical Topo Maps](http://nationalmap.gov/historical/)
+[USGS Historical Topo Maps](http://nationalmap.gov/historical/)  
 [BIG Map Blog](http://www.bigmapblog.com/)    
 [Old Maps Online](http://www.oldmapsonline.org/)
 
@@ -368,8 +369,12 @@ Sections on JAVASCRIPT and SVG from [Interactive Data Visualization](http://chim
 
 Section on D3 from [Interactive Data Visualization](http://chimera.labs.oreilly.com/books/1230000000345/ch12.html) 
 
-conversion:  
-http://kartograph.org/
+Check out the array of [Web Mapping Tutorials](http://giscollective.org/tutorials/).
+
+If you want to move between shapefiles and SVG, try [Kartograph](http://kartograph.org/)
+
+For mobile devices, [this tutorial](http://www.tnoda.com/blog/2013-12-07) shows you how to reduce file size of shapefiles for increased speed.
+
 
 ## Work time!
 
