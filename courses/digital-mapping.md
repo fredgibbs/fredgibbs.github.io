@@ -177,17 +177,30 @@ We'll work together to create an richly layered interactive map that displays, c
 ## Principles of Mapping and Google Maps
 - [So You Want to Make a Map](http://schoolofdata.org/2013/11/09/web-mapping/)
 
-- [How Goole Builds its Maps](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/)
+- [How Google Builds its Maps](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/)
 
 - Jason Farman, “Mapping the Digital Empire: Google Earth and the Process of Postmodern Cartography,” New Media & Society 12, no. 6 (2010): 869–88.
 
 ### Start Making Maps
-- [Create a Google Map](http://geospatialhistorian.wordpress.com/lessons/lesson-1/)
+- [Experience the lite-ness of Google Maps Engine](http://programminghistorian.org/lessons/googlemaps-googleearth)
+
+- Create a simple CSV file of places cities you've eaten [PLACE, NUMBER OF MEALS, BEST FOOD]
+
+- Upload to Google Maps
+
+- Find and map larger CSV dataset (massage with text editor or excel if necessary) 
+
+### Intro to Geodata formats
 
 - [Introduction to XML and HTML](http://www.w3schools.com/xml/xml_whatis.asp)
 
-- [KML](https://developers.google.com/kml/documentation/kml_tut)
+- [Exploring KML](https://developers.google.com/kml/documentation/kml_tut)
 
+- Explore ABQ's [historic places](http://www.cabq.gov/abq-data) (search for "historic" to get to the KMZ file), download it, and load it into Google Earth
+
+- Export as GeoJSON and open in text editor
+
+- Play around with the oddly addicting [GPSVisualizer](http://www.gpsvisualizer.com/index.html)
 
 ## Spatial History
 - Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?  
@@ -251,16 +264,19 @@ We'll cover the following:
 - [Cyclist GPS Data Could Help Cities Plan Safer Routes](http://blogs.wsj.com/digits/2014/05/07/strava-popular-with-cyclists-and-runners-wants-to-sell-its-data-to-urban-planners/)
 
 
-### GeoData Sources
+### Global GeoData Sources
+[USGS](http://www.usgs.gov/pubprod/)  
+[GeoCommons](http://geocommons.com/)  
 [OpenStreeMap](http://www.openstreetmap.org/#map=5/35.1107/-106.6100)  
 [Natural Earth Data](http://www.naturalearthdata.com/)  
-[GeoCommons](http://geocommons.com/)
-[USGS](http://www.usgs.gov/pubprod/)  
-[ABQ Open Data](http://www.cabq.gov/abq-data)  
-[UNM GIS Data Clearinghouse](http://rgis.unm.edu/)  
 [Hack for Change](http://hackforchange.org/data/)
 
-### Non-geographic-specific data sources:  
+### Global GeoData Sources
+
+[ABQ Open Data](http://www.cabq.gov/abq-data)  
+[UNM GIS Data Clearinghouse](http://rgis.unm.edu/)  
+
+### Non-geographic-specific data sources
 [Chronicling America](http://chroniclingamerica.loc.gov/)  
 [HathiTrust](http://www.hathitrust.org/)  
 [Time Magazine Corpus](http://corpus.byu.edu/time/)  
@@ -297,10 +313,11 @@ We'll cover the following:
 ### Historic Map Sources
 [Perry-Castañeda Library Map Collection](http://www.lib.utexas.edu/maps/) and their list of [Historic Maps](http://www.lib.utexas.edu/maps/map_sites/hist_sites.html)  
 [David Rumsey Map Collection](http://www.davidrumsey.com/)  
-[Library of Congress](http://www.loc.gov/)  
+[Library of Congress](http://lcweb2.loc.gov/ammem/gmdhtml/gmdhome.html)  
 [USGS Historical Topo Maps](http://nationalmap.gov/historical/)  
-[BIG Map Blog](http://www.bigmapblog.com/)    
-[Old Maps Online](http://www.oldmapsonline.org/)
+[BIG Map Blog](http://www.bigmapblog.com/)  
+[Old Maps Online](http://www.oldmapsonline.org/)  
+[Broer Map Library](http://broermapsonline.org/site/)
 
 
 ## LAB: put your (historic) data on a historic map
@@ -311,7 +328,7 @@ We'll cover the following:
 
 - Johanna Drucker, [Humanities Approaches to Graphical Display](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html).
 
-- Anne-Kathrin Reuschel and Lorenz Hurni, “Mapping Literature: Visualisation of Spatial Uncertainty in Fiction,” 293-308. (Zotero)
+- Anne-Kathrin Reuschel and Lorenz Hurni, “Mapping Literature: Visualisation of Spatial Uncertainty in Fiction,” 293-308.
 
 
 ## Web Mapping Basics
