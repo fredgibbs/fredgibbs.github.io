@@ -975,6 +975,11 @@ color: #aaa;
     padding:0;
    }
 
+#syllabus-new {
+  width:32em;
+  padding-right: auto;
+}
+
   nav {
     display:none;
   }
@@ -1012,6 +1017,7 @@ h3 {
 
 .photo1, .photo2, .photo3, .photo4, .photo5 {
   height:0px;
+  display:none;
 }
 
 #syllabus-new .section-photo-break {
@@ -1019,7 +1025,7 @@ h3 {
   background-image:none;
 }
 
-#HiddenMenu { 
+#HiddenMenu, #HoverSpace { 
   display:none;
 }
 
