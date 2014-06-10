@@ -1010,6 +1010,10 @@ h3 {
   font-weight: normal;
 }
 
+.section-photo-break {
+  display:none;
+}
+
 #syllabus {
   font-size:15px;
   line-height: 1.2em;
