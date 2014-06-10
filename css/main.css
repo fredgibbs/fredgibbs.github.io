@@ -963,7 +963,7 @@ color: #aaa;
 @media print {
 
 
-  @page {margin: 1in;}
+  @page {margin: 2.5cm;}
 
   body {
     font-weight: normal;
@@ -983,9 +983,11 @@ color: #aaa;
    }
 
 #syllabus-new {
-  width:32em;
-  padding-right: auto;
-  font-size: 80%;
+  font-size: 90%;
+}
+
+#syllabus-new h1 {
+  font-size: 130%;
 }
 
   nav {
