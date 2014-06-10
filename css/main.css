@@ -1012,6 +1012,11 @@ h3 {
 
 .section-photo-break {
   display:none;
+  height:0;
+}
+
+#HiddenMenu {
+  display:none;
 }
 
 #syllabus {
