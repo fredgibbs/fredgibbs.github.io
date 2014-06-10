@@ -1010,12 +1010,16 @@ h3 {
   font-weight: normal;
 }
 
-.section-photo-break {
-  display:none;
-  height:0;
+.photo1, .photo2, .photo3, .photo4, .photo5 {
+  height:0px;
 }
 
-#HiddenMenu {
+#syllabus-new .section-photo-break {
+  display:none;
+  background-image:none;
+}
+
+#HiddenMenu { 
   display:none;
 }
 
