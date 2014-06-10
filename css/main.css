@@ -4,9 +4,7 @@
 /*
 /*****************************************************************************/
 
-@media screen {
 
-/* Global Reset */
 @import url(http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700);
 @import url(http://fonts.googleapis.com/css?family=Oxygen:400,700);
 @import url(http://fonts.googleapis.com/css?family=Lato:100,400,700);
@@ -15,6 +13,9 @@
 @import url(http://fonts.googleapis.com/css?family=Josefin+Sans:700);
 @import url(http://fonts.googleapis.com/css?family=Amatic+SC:700);
 
+@media screen {
+
+/* Global Reset */
 * {
   margin: 0;
   padding: 0;
