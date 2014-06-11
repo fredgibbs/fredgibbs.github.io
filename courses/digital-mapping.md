@@ -86,12 +86,14 @@ Course readings that aren't freely availabe online (and even some that are) can 
 [Totally random, usually interesting](http://anterotesis.com/wordpress/dh-gis-projects/)  
 [Google Map Examples](http://googlemapsmania.blogspot.com/)  
 [MapBox](https://www.mapbox.com/showcase/)  
+[Food in America](http://www.vox.com/a/explain-food-america)  
 
 ### Particular Projects
 [Spillmapper](http://spillmapper.westernpriorities.org/)  
 [Pompeii Bibliography and Mapping Project](http://digitalhumanities.umass.edu/pbmp/)    
-[US Atlas of Religion](http://www.religionatlas.org/)    
 [Digital Harlem](http://acl.arts.usyd.edu.au/harlem/)  
+[Regnum Francorum Online](http://francia.ahlfeldt.se/index.php?layer=e0128205)  
+[US Atlas of Religion](http://www.religionatlas.org/)    
 [Walking Through Time](http://www.walkingthroughtime.co.uk/)  
 
 ### Community Engagement
@@ -106,12 +108,10 @@ Course readings that aren't freely availabe online (and even some that are) can 
 [HyperCities](http://hypercities.com/) | [More on this](https://sas.elluminate.com/site/external/jwsdetect/playback.jnlp?psid=2010-12-04.1551.M.1B6046E3218AB4691853183BCF526A.vcr&sid=2009099)  
 [Stanford Spatial History Project](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)
 
-
 ### Telling Stories with Maps
 [StoryMap](http://storymap.knightlab.com/)  
 [Story Maps](http://storymaps.arcgis.com/en/)  
 [Omeka](omeka.org) + [Neatline](neatline.org)
-
 
 ### Existing ABQ Projects
 [City of ABQ Maps](http://www.cabq.gov/gis/map-views/mobile-maps)  
@@ -119,6 +119,8 @@ Course readings that aren't freely availabe online (and even some that are) can 
 [Historic Old Town](http://www.albuquerqueoldtown.com/)  
 [Historic Photo Archive](http://albuquerquemuseum.org/art-history/photo-archives)  
 
+## Establish Twitter Connections
+Skeptical? Read [this](http://eprints.lse.ac.uk/38489) and [this](http://chronicle.com/article/10-Commandments-of-Twitter-for/131813/). But you don't get a choice, anyway.
 
 <div class="highlight">
 ## Origins of Spatial Humanities
@@ -136,7 +138,7 @@ Course readings that aren't freely availabe online (and even some that are) can 
 - Dave Hickey, “Romancing the Looky-Loos,” 
 
 ## Planning Our ABQ Map Project
-We'll work together to create an richly layered interactive map that displays, contextualizes, and historicies some features of ABQ. The particular topic can be just about anything as long as it has a spatial and historical component.
+We'll work together to create an richly layered interactive map that displays, contextualizes, and historicizes some features of ABQ. The particular topic can be just about anything as long as it has a spatial and historical component. The goal is to create a new kind of interface, not just rehash what we've seen before.
 
 - What should the modern walking tour look like? (i.e. how to explore the past and present of the built environment?)?
 
@@ -182,15 +184,11 @@ We'll work together to create an richly layered interactive map that displays, c
 - Jason Farman, “Mapping the Digital Empire: Google Earth and the Process of Postmodern Cartography,” New Media & Society 12, no. 6 (2010): 869–88.
 
 ### Start Making Maps
-- [Experience the lite-ness of Google Maps Engine](http://programminghistorian.org/lessons/googlemaps-googleearth)
+- Experience the lite-ness of [Google Maps Engine Lite](http://programminghistorian.org/lessons/googlemaps-googleearth), but use the ABQ [public art data](http://www.cabq.gov/culturalservices/public-art/documents/ABQPublicArtMap.csv/view)
 
-- Create a simple CSV file of places cities you've eaten [PLACE, NUMBER OF MEALS, BEST FOOD]
+- Style the map; imagine better interfaces! (we'll make them later)
 
-- Upload to Google Maps
-
-- Find and map larger CSV dataset (massage with text editor or excel if necessary) 
-
-### Intro to Geodata formats
+### Geodata formats and services
 
 - [Introduction to XML and HTML](http://www.w3schools.com/xml/xml_whatis.asp)
 
@@ -199,6 +197,8 @@ We'll work together to create an richly layered interactive map that displays, c
 - Explore ABQ's [historic places](http://www.cabq.gov/abq-data) (search for "historic" to get to the KMZ file), download it, and load it into Google Earth
 
 - Export as GeoJSON and open in text editor
+
+- Geocoding places with APIs
 
 - Play around with the oddly addicting [GPSVisualizer](http://www.gpsvisualizer.com/index.html)
 
@@ -245,21 +245,19 @@ We'll cover the following:
 
 - Basics of GIS systems
 
-- Loading basemaps
-
-- Adding data layers
+- Loading a few varieties of data layers
 
 - Combining data tables
 
 
 ## Crowdsourcing Data
+- Steve Anderson, "Past Indiscretions: Digital Archives and Recombinant History," 1-12.
+
 - [Flickr: Discussing Question Re Crowdsourcing: Fail or Win? in Flickr Commons](http://www.flickr.com/groups/flickrcommons/discuss/72157620593449864).
 
 - [Four Crowdsourcing Lessons from the Guardian’s (spectacular) Expenses-scandal Experiment](http://www.niemanlab.org/2009/06/four-crowdsourcing-lessons-from-the-guardians-spectacular-expenses-scandal-experiment/).
 
 - [More Crowdsourced Scholarship: Citizen History](http://futureofmuseums.blogspot.com/2011/07/more-crowdsourced-scholarship-citizen.html).
-
-- Steve Anderson, "Past Indiscretions: Digital Archives and Recombinant History," 1-12.
 
 - [Cyclist GPS Data Could Help Cities Plan Safer Routes](http://blogs.wsj.com/digits/2014/05/07/strava-popular-with-cyclists-and-runners-wants-to-sell-its-data-to-urban-planners/)
 
@@ -272,7 +270,6 @@ We'll cover the following:
 [Hack for Change](http://hackforchange.org/data/)
 
 ### Global GeoData Sources
-
 [ABQ Open Data](http://www.cabq.gov/abq-data)  
 [UNM GIS Data Clearinghouse](http://rgis.unm.edu/)  
 
@@ -307,7 +304,6 @@ We'll cover the following:
 # Thursday, June 19
 
 ## Overlaying Historic Maps
-
 [Overview of Georeferencing Historic Maps](http://www.dlib.org/dlib/november12/fleet/11fleet.html)
 
 ### Historic Map Sources
@@ -347,15 +343,11 @@ We'll cover how to create your own interactive maps online. Why? Because you can
 ### Alternatives to Google
 There are some reasons one might not want to use Google Maps:
 
-- don’t want to be beholden to their terms of service
-
-- you prefer to use open source rather than proprietary tools and data
-
-- you're site will go viral and you'll exceed your request limit
-
-- various copyright and privacy issues
-
-- they look like Google maps and you want something more unique
+- don’t want to be beholden to their terms of service  
+- you prefer to use open source rather than proprietary tools and data  
+- you're site will go viral and you'll exceed your request limit  
+- various copyright and privacy issues  
+- they look like Google maps and you want something more unique  
 
 #### Several excellent alternatives:  
 - [OpenLayers](http://openlayers.org/)
@@ -366,8 +358,8 @@ No matter what library you use for putting a map on your webpage, you can get ti
 
 [MapBox](https://www.mapbox.com/) helps you link your own data and provides an online style editor for customizing the look of your map. For more flexibility, use a desktop editor called [TileMill](https://www.mapbox.com/tilemill/).
 
-In class, we'll walk through the [tutorial](https://www.mapbox.com/tilemill/docs/crashcourse/introduction/) for uploading your data, facilitating custom interactivity. Essentially, this tool allows you to create your own tiles that you can publish on Mapbox.com (a free account gives you limited space, of course), and you can load these onto any web page.
-
+### LAB: Creating your own tiled maps
+Walk through the [tutorial](https://www.mapbox.com/tilemill/docs/crashcourse/introduction/) for uploading your data, facilitating custom interactivity. Essentially, this tool allows you to create your own tiles that you can publish on Mapbox.com (a free account gives you limited space, of course), and you can load these onto any web page.
 </div>
 
 
