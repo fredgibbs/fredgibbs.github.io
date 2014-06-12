@@ -140,16 +140,11 @@ Skeptical? Read [this](http://eprints.lse.ac.uk/38489) and [this](http://chronic
 ## Planning Our ABQ Map Project
 We'll work together to create a richly layered interactive map that displays, contextualizes, and historicizes some features of ABQ. The particular topic (if there is a general theme) can be just about anything as long as it has a spatial and historical component. The goal is to create a new kind of spatial interface to understanding place, not just rehash what we've seen before.
 
-- What should the modern walking tour look like? (i.e. how to explore the past and present of the built environment?)?
-
-- How might we extend the photography work from the "Photographing the Build Environment" course?
-
-- Can we build a better version of an [existing city map](http://www.cabq.gov/gis/map-views/mobile-maps)?
-
-- Tell a story about ABQ murals, graffiti, empty lots, displaced shopping carts, street gradients, etc.
-
-- Can we tell a stories about not just [historic places](http://www.cabq.gov/planning/our-department/urban-design-and-development/historic-landmarks) but historic spaces? (ie the context of these historic landmarks?)
-
+- What should the modern walking tour look like? (i.e. how to explore the past and present of the built environment?)?  
+- How might we extend the photography work from the "Photographing the Build Environment" course?  
+- Can we build a better version of an [existing city map](http://www.cabq.gov/gis/map-views/mobile-maps)?  
+- Tell a story about ABQ murals, graffiti, empty lots, displaced shopping carts, street gradients, etc.  
+- Can we tell a stories about not just [historic places](http://www.cabq.gov/planning/our-department/urban-design-and-development/historic-landmarks) but historic spaces? (ie the context of these historic landmarks?)  
 - How we can chart the development of the Highland neighborhood over time? (expanding the historical dimension of the [redevelopment plan](etc/Nobhill-Highland-Redevelopment-2007.pdf))
 
 </div>
@@ -165,10 +160,8 @@ We'll work together to create a richly layered interactive map that displays, co
 # Tuesday June 17
 
 ## Digital and Spatial Humanities
-- Chapter 1, 3-26; Case Studies, 61-71 in *Digital\_Humanities* (in the Zotero Library, and also an [online PDF](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf)
-
-- David J Bodenhamer et al. (eds.), _The Spatial Humanities: GIS and the Future of Humanities Scholarship_, Chapters 1 and 2.
-
+- Chapter 1, 3-26; Case Studies, 61-71 in *Digital\_Humanities* (in the Zotero Library, and also an [online PDF](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf)  
+- David J Bodenhamer et al. (eds.), _The Spatial Humanities: GIS and the Future of Humanities Scholarship_, Chapters 1 and 2.  
 - Michel de Certeau, “Spatial Practices,” 91-130.
 
 <div class="highlight">
@@ -177,38 +170,27 @@ We'll work together to create a richly layered interactive map that displays, co
 </div>
 
 ## Principles of Mapping and Google Maps
-- [So You Want to Make a Map](http://schoolofdata.org/2013/11/09/web-mapping/)
-
-- [How Google Builds its Maps](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/)
-
-- Jason Farman, “Mapping the Digital Empire: Google Earth and the Process of Postmodern Cartography,” New Media & Society 12, no. 6 (2010): 869–88.
+- [So You Want to Make a Map](http://schoolofdata.org/2013/11/09/web-mapping/)  
+- [How Google Builds its Maps](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/)  
+- Jason Farman, “Mapping the Digital Empire: Google Earth and the Process of Postmodern Cartography,” New Media & Society 12, no. 6 (2010): 869–88.  
 
 ### Start Making Maps
-- Experience the lite-ness of [Google Maps Engine Lite](http://programminghistorian.org/lessons/googlemaps-googleearth), but use the ABQ [public art data](http://www.cabq.gov/culturalservices/public-art/documents/ABQPublicArtMap.csv/view)
-
+- Experience the lite-ness of [Google Maps Engine Lite](http://programminghistorian.org/lessons/googlemaps-googleearth), but use the ABQ [public art data](http://www.cabq.gov/culturalservices/public-art/documents/ABQPublicArtMap.csv/view)  
 - Style the map; imagine better interfaces! (we'll make them later)
 
 ### Geodata formats and services
 
-- [Introduction to XML and HTML](http://www.w3schools.com/xml/xml_whatis.asp)
-
-- [Exploring KML](https://developers.google.com/kml/documentation/kml_tut)
-
-- Explore ABQ's [historic places](http://www.cabq.gov/abq-data) (search for "historic" to get to the KMZ file), download it, and load it into Google Earth
-
-- Export as GeoJSON and open in text editor
-
-- Geocoding places with APIs
-
+- [Introduction to XML and HTML](http://www.w3schools.com/xml/xml_whatis.asp)  
+- [Exploring KML](https://developers.google.com/kml/documentation/kml_tut)  
+- Explore ABQ's [historic places](http://www.cabq.gov/abq-data) (search for "historic" to get to the KMZ file), download it, and load it into Google Earth  
+- Export as GeoJSON and open in text editor  
+- Geocoding places with APIs  
 - Play around with the oddly addicting [GPSVisualizer](http://www.gpsvisualizer.com/index.html)
 
 ## Spatial History
 - Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?  
-
-- Miles Ogborn, _Spaces of Modernity_, 1-38. (Zotero)
-
+- Miles Ogborn, _Spaces of Modernity_, 1-38.  
 - Ian Gregory and David Cooper, [GIS, Texts, and Images: New Approaches](http://journals.tdl.org/paj/index.php/paj/article/view/20).  
-
 - John Theibault, [Visualizations and Historical Arguments](http://writinghistory.trincoll.edu/evidence/theibault-2012-spring/)  
 
 <div class="highlight">
@@ -243,24 +225,16 @@ If you're not familiar with GIS systems, or if unfamiliar terms crop up in the t
 
 We'll cover the following:
 
-- Basics of GIS systems
-
-- Loading a few varieties of data layers
-
-- Combining data tables
-
+- Basics of GIS systems  
+- Loading a few varieties of data layers  
+- Combining data tables  
 
 ## Crowdsourcing Data
-- Steve Anderson, "Past Indiscretions: Digital Archives and Recombinant History," 1-12.
-
-- [Flickr: Discussing Question Re Crowdsourcing: Fail or Win? in Flickr Commons](http://www.flickr.com/groups/flickrcommons/discuss/72157620593449864).
-
-- [Four Crowdsourcing Lessons from the Guardian’s (spectacular) Expenses-scandal Experiment](http://www.niemanlab.org/2009/06/four-crowdsourcing-lessons-from-the-guardians-spectacular-expenses-scandal-experiment/).
-
-- [More Crowdsourced Scholarship: Citizen History](http://futureofmuseums.blogspot.com/2011/07/more-crowdsourced-scholarship-citizen.html).
-
-- [Cyclist GPS Data Could Help Cities Plan Safer Routes](http://blogs.wsj.com/digits/2014/05/07/strava-popular-with-cyclists-and-runners-wants-to-sell-its-data-to-urban-planners/)
-
+- Steve Anderson, "Past Indiscretions: Digital Archives and Recombinant History," 1-12.  
+- [Flickr: Discussing Question Re Crowdsourcing: Fail or Win? in Flickr Commons](http://www.flickr.com/groups/flickrcommons/discuss/72157620593449864).  
+- [Four Crowdsourcing Lessons from the Guardian’s (spectacular) Expenses-scandal Experiment](http://www.niemanlab.org/2009/06/four-crowdsourcing-lessons-from-the-guardians-spectacular-expenses-scandal-experiment/).  
+- [More Crowdsourced Scholarship: Citizen History](http://futureofmuseums.blogspot.com/2011/07/more-crowdsourced-scholarship-citizen.html).  
+- [Cyclist GPS Data Could Help Cities Plan Safer Routes](http://blogs.wsj.com/digits/2014/05/07/strava-popular-with-cyclists-and-runners-wants-to-sell-its-data-to-urban-planners/).
 
 ### Global GeoData Sources
 [USGS](http://www.usgs.gov/pubprod/)  
@@ -287,9 +261,8 @@ We'll cover the following:
 </div>
 
 ## Creating Your Own Data
-- Andrew Turner, [Introduction to Neogeography](http://proquest.safaribooksonline.com/0596529953)
-
-- Setha Low et al., _Rethinking Urban Parks: Public Space and Cultural Diversity_, 175-193. (Zotero)
+- Andrew Turner, [Introduction to Neogeography](http://proquest.safaribooksonline.com/0596529953)  
+- Setha Low et al., _Rethinking Urban Parks: Public Space and Cultural Diversity_, 175-193.  
 </div>
 
 
@@ -318,27 +291,20 @@ We'll cover the following:
 
 ## LAB: put your (historic) data on a historic map
 
-
 ## Mapping Uncertainty
-- Peter Fisher and Jo Wood, [What is a Mountain? Or The Englishman who went up a Boolean Geographical Concept but Realised it was Fuzzy](http://www.jstor.org/stable/pdfplus/40573211.pdf?acceptTC=true).
-
-- Johanna Drucker, [Humanities Approaches to Graphical Display](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html).
-
-- Anne-Kathrin Reuschel and Lorenz Hurni, “Mapping Literature: Visualisation of Spatial Uncertainty in Fiction,” 293-308.
-
+- Peter Fisher and Jo Wood, [What is a Mountain? Or The Englishman who went up a Boolean Geographical Concept but Realised it was Fuzzy](http://www.jstor.org/stable/pdfplus/40573211.pdf?acceptTC=true).  
+- Johanna Drucker, [Humanities Approaches to Graphical Display](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html).  
+- Anne-Kathrin Reuschel and Lorenz Hurni, “Mapping Literature: Visualisation of Spatial Uncertainty in Fiction,” 293-308.  
 
 ## Web Mapping Basics
 We'll cover how to create your own interactive maps online. Why? Because you can add much more custom interactivity than generic tools and services allow. This is an exercise in design imagination.
 
-- Read up to JAVASCRIPT section in [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/ch03.html)
+- Read up to JAVASCRIPT section in [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/ch03.html).  
 
 ### Creating Your Own Web Maps
-- Install [MAMP](http://www.mamp.info/en/downloads/) (Mac) or [WAMP](http://www.wampserver.com/en/) (Windows)
-
-- Make a simple webpage with a simple Google map [using these instructions](https://developers.google.com/maps/tutorials/fundamentals/adding-a-google-map).
-
-- Go through the 4 other tutorials on that page, including "Displaying KML," but using the KML file that you created and exported from the earlier Google exercise.
-
+- Install [MAMP](http://www.mamp.info/en/downloads/) (Mac) or [WAMP](http://www.wampserver.com/en/) (Windows)  
+- Make a simple webpage with a simple Google map [using these instructions](https://developers.google.com/maps/tutorials/fundamentals/adding-a-google-map).  
+- Go through the 4 other tutorials on that page, including "Displaying KML," but using the KML file that you created and exported from the earlier Google exercise.  
 
 ### Alternatives to Google
 There are some reasons one might not want to use Google Maps:
@@ -350,9 +316,8 @@ There are some reasons one might not want to use Google Maps:
 - they look like Google maps and you want something more unique  
 
 #### Several excellent alternatives:  
-- [OpenLayers](http://openlayers.org/)
-
-- [Leaflet](http://leafletjs.com/examples/quick-start.html)
+[OpenLayers](http://openlayers.org/)  
+[Leaflet](http://leafletjs.com/examples/quick-start.html)
 
 No matter what library you use for putting a map on your webpage, you can get tiles from several sources, including [Stamen Maps](http://maps.stamen.com/#watercolor/11/35.1000/-106.5100).
 
