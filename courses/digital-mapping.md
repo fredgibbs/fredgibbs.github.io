@@ -80,6 +80,9 @@ Course readings that aren't freely availabe online (and even some that are) can 
 
 ## Introductions of Persons and Course Overview
 
+## Evaluation and Discussion of Online Maps
+What do we like? What might we borrow? What should we avoid?
+
 ### Map Porn 
 [Innovative Maps as reviewed by CityLab](http://www.citylab.com/tech/2013/12/most-innovative-maps-2013/7952/)  
 [Making Maps: DIY Cartography](http://makingmaps.net/)  
@@ -105,6 +108,7 @@ Course readings that aren't freely availabe online (and even some that are) can 
 [EcoHack](http://ecohackmtl.org/language/en/)
 
 ### Larger Mapping Projects
+[Atlas of Historical County Boundaries](http://publications.newberry.org/ahcbp/index.html)  
 [HyperCities](http://hypercities.com/) | [More on this](https://sas.elluminate.com/site/external/jwsdetect/playback.jnlp?psid=2010-12-04.1551.M.1B6046E3218AB4691853183BCF526A.vcr&sid=2009099)  
 [Stanford Spatial History Project](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)
 
@@ -127,18 +131,14 @@ Skeptical? Read [this](http://eprints.lse.ac.uk/38489) and [this](http://chronic
 <b>Chris Wilson</b>, J. B. Jackson Professor of Cultural Landscape Studies
 </div>
 
-- Reading and Discussion Guide (Zotero)
-
-- Edward T. Hall, _Beyond Culture_, 129-140.
-
-- Richard Flordia, _The Rise of the Creative Class_, 215-234
-
-- Setha Low, _On the Plaza: Politics of Public Space and Culture_, 127-153.
-
+- Reading and Discussion Guide.  
+- Edward T. Hall, _Beyond Culture_, 129-140.  
+- Richard Flordia, _The Rise of the Creative Class_, 215-234.  
+- Setha Low, _On the Plaza: Politics of Public Space and Culture_, 127-153.  
 - Dave Hickey, “Romancing the Looky-Loos,” 
 
 ## Planning Our ABQ Map Project
-We'll work together to create an richly layered interactive map that displays, contextualizes, and historicizes some features of ABQ. The particular topic can be just about anything as long as it has a spatial and historical component. The goal is to create a new kind of interface, not just rehash what we've seen before.
+We'll work together to create a richly layered interactive map that displays, contextualizes, and historicizes some features of ABQ. The particular topic (if there is a general theme) can be just about anything as long as it has a spatial and historical component. The goal is to create a new kind of spatial interface to understanding place, not just rehash what we've seen before.
 
 - What should the modern walking tour look like? (i.e. how to explore the past and present of the built environment?)?
 
