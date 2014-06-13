@@ -118,10 +118,12 @@ What do we like? What might we borrow? What should we avoid?
 [Omeka](omeka.org) + [Neatline](neatline.org)
 
 ### Existing ABQ Projects
-[City of ABQ Maps](http://www.cabq.gov/gis/map-views/mobile-maps)  
+[City of ABQ Maps](http://www.cabq.gov/gis/map-views/mobile-maps)   
 [Historic Albuquerque](http://www.downtownacd.org/historic-downtown/)  
 [Historic Old Town](http://www.albuquerqueoldtown.com/)  
 [Historic Photo Archive](http://albuquerquemuseum.org/art-history/photo-archives)  
+[New Mexico Historic Markers](http://www.nmhistoricmarkers.org/)  
+
 
 ## Establish Twitter Connections
 Skeptical? Read [this](http://eprints.lse.ac.uk/38489) and [this](http://chronicle.com/article/10-Commandments-of-Twitter-for/131813/). But you don't get a choice, anyway.
@@ -244,6 +246,7 @@ We'll cover the following:
 
 ### Local GeoData Sources
 [ABQ Open Data](http://www.cabq.gov/abq-data)  
+[ABQ GIS Data](http://www.cabq.gov/gis/geographic-information-systems-data)
 [UNM GIS Data Clearinghouse](http://rgis.unm.edu/)  
 
 ### Non-geographic-specific data sources
