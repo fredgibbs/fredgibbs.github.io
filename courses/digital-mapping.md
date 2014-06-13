@@ -138,7 +138,7 @@ Skeptical? Read [this](http://eprints.lse.ac.uk/38489) and [this](http://chronic
 - Dave Hickey, “Romancing the Looky-Loos,” 
 
 ## Planning Our ABQ Map Project
-We'll work together to create a richly layered interactive map that displays, contextualizes, and historicizes some features of ABQ. The particular topic (if there is a general theme) can be just about anything as long as it has a spatial and historical component. The goal is to create a new kind of spatial interface to understanding place, not just rehash what we've seen before.
+We'll work together to create a richly layered interactive map that displays, contextualizes, and historicizes some features of ABQ. The particular topic (if there is a general theme) can be just about anything as long as it has a spatial and historical component. The goal is to create a new kind of spatial interface to understanding the space around us. Ideally, our individual contributions will present different views or facets of ABQ that are displayed spatially and thoroughly contextualized.
 
 - What should the modern walking tour look like? (i.e. how to explore the past and present of the built environment?)?  
 - How might we extend the photography work from the "Photographing the Build Environment" course?  
@@ -179,7 +179,6 @@ We'll work together to create a richly layered interactive map that displays, co
 - Style the map; imagine better interfaces! (we'll make them later)
 
 ### Geodata formats and services
-
 - [Introduction to XML and HTML](http://www.w3schools.com/xml/xml_whatis.asp)  
 - [Exploring KML](https://developers.google.com/kml/documentation/kml_tut)  
 - Explore ABQ's [historic places](http://www.cabq.gov/abq-data) (search for "historic" to get to the KMZ file), download it, and load it into Google Earth  
@@ -243,7 +242,7 @@ We'll cover the following:
 [Natural Earth Data](http://www.naturalearthdata.com/)  
 [Hack for Change](http://hackforchange.org/data/)
 
-### Global GeoData Sources
+### Local GeoData Sources
 [ABQ Open Data](http://www.cabq.gov/abq-data)  
 [UNM GIS Data Clearinghouse](http://rgis.unm.edu/)  
 
@@ -263,6 +262,10 @@ We'll cover the following:
 ## Creating Your Own Data
 - Andrew Turner, [Introduction to Neogeography](http://proquest.safaribooksonline.com/0596529953)  
 - Setha Low et al., _Rethinking Urban Parks: Public Space and Cultural Diversity_, 175-193.  
+
+## A Bit of Code
+[Challening Your Inner Terminal](http://learnpythonthehardway.org/book/ex0.html)
+
 </div>
 
 
