@@ -17,8 +17,9 @@ categories: [course]
 
 <br>
 June 16-20, 2014  
+9-6 M-F  
+Pearl Hall, 217  
 Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)  
-Mesa Vista Hall, 1077    
 </div>
 
 <div class="section-photo-break photo1">
@@ -123,7 +124,7 @@ What do we like? What might we borrow? What should we avoid?
 [Historic Old Town](http://www.albuquerqueoldtown.com/)  
 [Historic Photo Archive](http://albuquerquemuseum.org/art-history/photo-archives)  
 [New Mexico Historic Markers](http://www.nmhistoricmarkers.org/)  
-
+[Albuquerque Murals Project](http://www.albuquerquemurals.com/)  
 
 ## Establish Twitter Connections
 Skeptical? Read [this](http://eprints.lse.ac.uk/38489) and [this](http://chronicle.com/article/10-Commandments-of-Twitter-for/131813/). But you don't get a choice, anyway.
@@ -163,7 +164,7 @@ We'll work together to create a richly layered interactive map that displays, co
 
 ## Digital and Spatial Humanities
 - Chapter 1, 3-26; Case Studies, 61-71 in *Digital\_Humanities* (in the Zotero Library, and also an [online PDF](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf)  
-- David J Bodenhamer et al. (eds.), _The Spatial Humanities: GIS and the Future of Humanities Scholarship_, Chapters 1 and 2.  
+- Ed Ayers, "Turing Toward Place" (1-13); David Bodenhamer, "The Potential of Spatial Humanities" (14-30) in David J Bodenhamer et al. (eds.), _The Spatial Humanities: GIS and the Future of Humanities Scholarship.  
 - Michel de Certeau, “Spatial Practices,” 91-130.
 
 <div class="highlight">
@@ -178,7 +179,8 @@ We'll work together to create a richly layered interactive map that displays, co
 
 ### Start Making Maps
 - Experience the lite-ness of [Google Maps Engine Lite](http://programminghistorian.org/lessons/googlemaps-googleearth), but use the ABQ [public art data](http://www.cabq.gov/culturalservices/public-art/documents/ABQPublicArtMap.csv/view)  
-- Style the map; imagine better interfaces! (we'll make them later)
+- Style the map; imagine better interfaces! (we'll make them later)  
+- Using Google Earth and historic maps together
 
 ### Geodata formats and services
 - [Introduction to XML and HTML](http://www.w3schools.com/xml/xml_whatis.asp)  
@@ -203,6 +205,7 @@ We'll work together to create a richly layered interactive map that displays, co
 [Chronicling America Newspaper Archive](http://chroniclingamerica.loc.gov/search/pages/results/?date1=1836&rows=20&searchType=basic&state=&date2=1922&proxtext=albuquerque&y=0&x=0&dateFilterType=yearRange&page=3&sort=relevance)  
 [New Mexico Digital Collections](http://econtent.unm.edu/)  
 [Rocky Mountain Online Archive](http://rmoa.unm.edu/)  
+[Albuquerque Historical Postcard Collection](http://abclibrary.org/content.php?pid=406706&sid=3328082)  
 [Digital Sanborn Maps](http://sanborn.umi.com/)  
 
 ## Online Exhibits Review
@@ -222,11 +225,11 @@ We'll work together to create a richly layered interactive map that displays, co
 # Wednesday June 18
 
 ## QGIS
-If you're not familiar with GIS systems, or if unfamiliar terms crop up in the tutorials, check out this [gentle introduction](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/index.html). When you want to play, download and install [QGIS](http://www.qgis.org/en/site/). For tutorials, see [The Geospatial Historian](http://geospatialhistorian.wordpress.com/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com).
+If you're not familiar with GIS systems, or if unfamiliar terms crop up in the tutorials, check out this [gentle introduction](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/index.html). When you want to play, download and install [QGIS](http://www.qgis.org/en/site/). If you get stuck or have questions, consult the [QGIS raining Manual](http://docs.qgis.org/2.2/en/docs/training_manual/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com).
 
-We'll cover the following:
+We'll cover the following:  
 
-- Basics of GIS systems  
+- Basic GIS concepts  
 - Loading a few varieties of data layers  
 - Combining data tables  
 
@@ -259,7 +262,7 @@ We'll cover the following:
 
 <div class="highlight">
 ## Data Collection
-<b>Eric Bernard</b>, Director Landscape Architecture
+<b>Eric Bernard</b>, Director, Landscape Architecture
 </div>
 
 ## Creating Your Own Data
@@ -296,6 +299,10 @@ We'll cover the following:
 
 
 ## LAB: put your (historic) data on a historic map
+- Download historic map  
+- Georectify the image in QGIS  
+- Create new vector layers from historic map overlay
+- View some (historic) data several vector layers on the map   
 
 ## Mapping Uncertainty
 - Peter Fisher and Jo Wood, [What is a Mountain? Or The Englishman who went up a Boolean Geographical Concept but Realised it was Fuzzy](http://www.jstor.org/stable/pdfplus/40573211.pdf?acceptTC=true).  
@@ -305,15 +312,16 @@ We'll cover the following:
 ## Web Mapping Basics
 We'll cover how to create your own interactive maps online. Why? Because you can add much more custom interactivity than generic tools and services allow. This is an exercise in design imagination.
 
-- Read up to JAVASCRIPT section in [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/ch03.html).  
+- Read UP TO the JAVASCRIPT section in [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/ch03.html) (when the page loads, you awkwardly end up in the middle of it...scroll up to the top to begin reading).  
 
 ### Creating Your Own Web Maps
-- Install [MAMP](http://www.mamp.info/en/downloads/) (Mac) or [WAMP](http://www.wampserver.com/en/) (Windows)  
-- Make a simple webpage with a simple Google map [using these instructions](https://developers.google.com/maps/tutorials/fundamentals/adding-a-google-map).  
+- Install [MAMP](http://www.mamp.info/en/downloads/) (Mac) or [WAMP](http://www.wampserver.com/en/) (Windows) so you can make webpages on your own computer  
+- Make a simple webpage that follows the example   
+- Add a simple Google map [using these instructions](https://developers.google.com/maps/tutorials/fundamentals/adding-a-google-map).  
 - Go through the 4 other tutorials on that page, including "Displaying KML," but using the KML file that you created and exported from the earlier Google exercise.  
 
 ### Alternatives to Google
-There are some reasons one might not want to use Google Maps:
+There are some reasons one might not want to use Google Maps for your web mapping needs:
 
 - don’t want to be beholden to their terms of service  
 - you prefer to use open source rather than proprietary tools and data  
@@ -325,7 +333,7 @@ There are some reasons one might not want to use Google Maps:
 [OpenLayers](http://openlayers.org/)  
 [Leaflet](http://leafletjs.com/examples/quick-start.html)
 
-No matter what library you use for putting a map on your webpage, you can get tiles from several sources, including [Stamen Maps](http://maps.stamen.com/#watercolor/11/35.1000/-106.5100).
+No matter what library you use for putting a map on your webpage, you can get map tiles from several sources, including [Stamen Maps](http://maps.stamen.com/#watercolor/11/35.1000/-106.5100).
 
 [MapBox](https://www.mapbox.com/) helps you link your own data and provides an online style editor for customizing the look of your map. For more flexibility, use a desktop editor called [TileMill](https://www.mapbox.com/tilemill/).
 
