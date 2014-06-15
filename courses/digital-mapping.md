@@ -137,7 +137,7 @@ Skeptical? Read [this](http://eprints.lse.ac.uk/38489) and [this](http://chronic
 
 - Reading and Discussion Guide.  
 - Edward T. Hall, _Beyond Culture_, 129-140.  
-- Richard Flordia, _The Rise of the Creative Class_, 215-234.  
+- Richard Florida, _The Rise of the Creative Class_, 215-234.  
 - Setha Low, _On the Plaza: Politics of Public Space and Culture_, 127-153.  
 - Dave Hickey, “Romancing the Looky-Loos,” 
 
