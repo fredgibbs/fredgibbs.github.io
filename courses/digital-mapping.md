@@ -33,7 +33,7 @@ We are in the midst of a major paradigm shift in human consciousness and society
 The course explores the technologies, tools, and workflows that can help collect, connect, and present online interpretations of the spaces around us. Throughout the week, we'll discuss the **theoretical and practical challenges of deep mapping** (producing rich, interactive maps with multiple layers of information). Woven into our discussions will be numerous technical tutorials that will allow us to tell map-based stories about Albuquerque's fascinating past.
 
 -----
-This course differs from introductory cartography, geography, and GIS courses in fundamental ways. While we cover some of the basics of each of these, the course focuses on their intersection with each other, history, sociology, anthropology, web and interface design, web programming, and the technical string that allows you to tie them all together as limited by your imagination, not technical aptitude.   
+This course combines cartography, geography, GIS, history, sociology, ethnography, computer science, and graphic design. While we cover some of the basics of each of these, the course eschews developing deep expertise in any of these in favor of exploring their intersections with each other, and formulating critical questions that span these normally disconnected disciplines. By the end, you should be able to think more critically about maps, place, and our online experiences with them.  
 
 ----
 
@@ -118,13 +118,14 @@ What do we like? What might we borrow? What should we avoid?
 [Story Maps](http://storymaps.arcgis.com/en/)  
 [Omeka](omeka.org) + [Neatline](neatline.org)
 
-### Existing ABQ Projects
+### Projects relating to place and history in ABQ
 [City of ABQ Maps](http://www.cabq.gov/gis/map-views/mobile-maps)   
 [Historic Albuquerque](http://www.downtownacd.org/historic-downtown/)  
 [Historic Old Town](http://www.albuquerqueoldtown.com/)  
 [Historic Photo Archive](http://albuquerquemuseum.org/art-history/photo-archives)  
 [New Mexico Historic Markers](http://www.nmhistoricmarkers.org/)  
 [Albuquerque Murals Project](http://www.albuquerquemurals.com/)  
+[The Plazas of New Mexico](http://plazasofnewmexico.com/index.html)  
 
 ## Establish Twitter Connections
 Skeptical? Read [this](http://eprints.lse.ac.uk/38489) and [this](http://chronicle.com/article/10-Commandments-of-Twitter-for/131813/). But you don't get a choice, anyway.
