@@ -193,7 +193,6 @@ We'll work together to create a richly layered interactive map that displays, co
 
 ## Spatial History
 - Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?  
-- Miles Ogborn, _Spaces of Modernity_, 1-38.  
 - Ian Gregory and David Cooper, [GIS, Texts, and Images: New Approaches](http://journals.tdl.org/paj/index.php/paj/article/view/20).  
 - John Theibault, [Visualizations and Historical Arguments](http://writinghistory.trincoll.edu/evidence/theibault-2012-spring/)  
 
@@ -268,6 +267,7 @@ We'll cover the following:
 
 ## Creating Your Own Data
 - Andrew Turner, [Introduction to Neogeography](http://proquest.safaribooksonline.com/0596529953)  
+- Miles Ogborn, _Spaces of Modernity_, 1-38.  
 - Setha Low et al., _Rethinking Urban Parks: Public Space and Cultural Diversity_, 175-193.  
 
 ## A Bit of Code
