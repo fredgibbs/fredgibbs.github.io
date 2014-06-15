@@ -5,58 +5,182 @@ date: 2012-10-12 00:00:00
 category: tutorial
 ---
 
-This tutorial explains how to write a python script to read places from a text file and geolocate them (get latitude and longitude coordinates). It covers how to send requests to the Google Geocoding API and process the JSON response that it returns.
+This tutorial explains how to write a python script to parse a text file with placenames and geolocate them (get latitude and longitude coordinates). It covers how to send requests to the Google Geocoding API and process the JSON response that it returns.
 
-This kind of script can be extraordinarly beneficial in making a quick map of places from a list of places that you've been recording somewhere.  
+This kind of script can be extraordinarly beneficial in making a quick map of places from a list of places that you've been recording.  
 
 ---
 
-To find coordinates for a place, we can use the [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/). To use it, we need to send it a request like
+If you have a list of places you'd like to visualize on a map, one crucial first step is to find the latitude and longitude coordinates for those places. A number of mapping tools or websites can do this for you---behind the scenes---in the process of putting dots on a map for you. But there are many limitations to relying on other tools to do the geocoding for you. (1) Most do not scale very well. Many free services will only geolocate around 100 points for you at a time. (2) Geocoding the places yourself also gives you the chance to fix any places that are difficult to geolocate, or simply find the coordinate yourself as needed. (3) With free services, rarely do you get the actual coordinates of the places that you can resuse with other tools. You'll have far more flexibility in what the kinds of maps you can create if you can find and record the geographic coordinates for your places yourself. With a little bit of python scripting, it's rather straightforward.
+
+To find coordinates for a place, we can use an Application Programming Inferface (API). Just as when you type in Google.com to your URL bar in your browser and you get the familiar Google search page, you can use an API the same way. But instead of getting a webpage, you get information that you requested via the URL. We are going to use the [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/). To use it, we need to send it a request like
 
 {% highlight python %}
-http://maps.googleapis.com/maps/api/geocode/json?address=1600+pennsylvania+ave&sensor=false
+http://maps.googleapis.com/maps/api/geocode/json?address=Albuqueruque+NM&sensor=false
 {% endhighlight %}
 
-For now, plug that URL into your browser's URL bar to see the result. You can see that the response sent from the server is just plain text, but formatted in Javascript Object Notation (JSON). Glancing through it, you can see it contains a lot of potentially useful information.
+For now, plug that URL into your browser's URL bar to see the result. This is equivalent to "making a request" to the API. You can see that the response sent from the server is plaintext (there is no formatting like a nice looking webpage would have), but it is nicely organized using Javascript Object Notation (JSON). Glancing through it, you can see it contains a lot of potentially useful information.
 
-Python makes it very easy to send API requests (like the one above) and process the results, especially when using the [requests module](http://docs.python-requests.org/en/latest/). (You may want to read about [installing python modules](../install-python-modules/ "installing python modules").) A simple example of making a request in python looks like
+{% highlight python %}
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albuquerque",
+               "short_name" : "Albuquerque",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bernalillo County",
+               "short_name" : "Bernalillo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Albuquerque, NM, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.2180539,
+                  "lng" : -106.4711629
+               },
+               "southwest" : {
+                  "lat" : 34.9467659,
+                  "lng" : -106.881796
+               }
+            },
+            "location" : {
+               "lat" : 35.110703,
+               "lng" : -106.609991
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2180539,
+                  "lng" : -106.4711629
+               },
+               "southwest" : {
+                  "lat" : 34.9467659,
+                  "lng" : -106.881796
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+{% endhighlight %}
+
+
+Python makes it very easy to send API requests (like the one above) and to process the results, especially when using the [requests module](http://docs.python-requests.org/en/latest/). (You may want to read about [installing python modules](../install-python-modules/ "installing python modules").) A simple example of making a request in python looks like
 
 {% highlight python %}
 r = requests.get(URL, params=DICTIONARY)
 {% endhighlight %}
 
-In this case, our *URL* will be the base URL of the Google Geocoding API. For our *DICTIONARY*, we have to create a python dictionary to handle at least two bits of information we get from Google. These will be our dictionary keys: &#8216;address&#8217;, which is our place name, and &#8216;sensor&#8217; (which the API requires to be set to true or false). The code to make the request will look like
+In this case, our **URL** will be the base URL of the Google Geocoding API (as stated above). For our **DICTIONARY**, we have to create a [python dictionary](http://www.tutorialspoint.com/python/python_dictionary.htm) that will hold at least two bits of information that the API expects us to send: **address** (in this case our place name), and **sensor** (which the API requires to be set to true or false). The code to make the request will look like
 
 {% highlight python %}
+
+// define our URL
 url = 'http://maps.googleapis.com/maps/api/geocode/json'
-payload = {'address':'1600 Pennsylvania Ave', 'sensor':'false'}
+
+// set the required variables that the API is expecting
+myaddress = 'Albuquerque, NM'
+mysensor = 'false'
+
+// put the required variables in a dictionary (arbitrarily called "payload")
+payload = {'address':myaddress, 'sensor':mysensor}
+
+// send the request to the API.
 r = requests.get(url, params=payload)
 {% endhighlight %}
 
-OK. Suppose we have a text file (placelist.txt) with a list of places (say, ones from [extracted from another file](../extract-transform-and-save-csv-data/ "extract, transform, and save CSV data")) that looks like
-
-{% highlight text %}
-Charleston County, SC
-Norfolk City, VA
-Stafford County, VA
-Barbour County, WV
-York County, VA
-{% endhighlight %}
-
-Ultimately, we want some code that reads in the placenames from this file, makes an API call for each one, and then extracts and prints the latitude and longitude coordinates from the JSON response that we'll get from the Google server. 
-
-If you're just reading in lines of texts, the basic skeleton you need is:
+The last line
 
 {% highlight python %}
+r = requests.get(url, params=payload)
+{% endhighlight %}
+
+is the equivalent of typing
+
+{% highlight python %}
+http://maps.googleapis.com/maps/api/geocode/json?address=Albuqueruque+NM&sensor=false
+{% endhighlight %}
+
+in your URL bar. But in this case rather than display the result on the screen, we store in in the 'r' variable. 'r' is arbitrary; you could call it 'google-answer' or 'api_response' or 'blueMonkey'.
+
+It's easy to extract information from the object that we get back from the Google Maps API--like the geocoordinates.
+
+{% highlight python %}
+json = r.json()
+lat = json['results'][0]['geometry']['location']['lat']
+lng = json['results'][0]['geometry']['location']['lng']
+{% endhighlight %}
+
+
+
+If we string together everything we've covered so far, we have:
+
+{% highlight python %}
+import requests
+
+url = 'http://maps.googleapis.com/maps/api/geocode/json'
+myaddress = 'Albuquerque, NM'
+mysensor = 'false'
+payload = {'address':myaddress, 'sensor':mysensor}
+r = requests.get(url, params=payload)
+
+json = r.json()
+lat = json['results'][0]['geometry']['location']['lat']
+lng = json['results'][0]['geometry']['location']['lng']
+
+print lat,lng
+{% endhighlight %}
+
+When you run this code, your output will be the latitude and longitude of ABQ. You can double check that it's working by pasting the coordinates into Google Maps.
+
+{% highlight bash %}
+35.110703 -106.609991
+{% endhighlight %}
+
+This code works fine for a single place, but we really want to process a list of places. Suppose we have a text file (placelist.txt) with a list of places (say, ones from [extracted from another file](../extract-transform-and-save-csv-data/ "extract, transform, and save CSV data")) that looks like
+
+{% highlight text %}
+Albuquerque, NM
+Santa Fe, NM
+Abiquiu, NM
+Silver City, NM
+Taos, NM
+{% endhighlight %}
+
+Ultimately, we want some code that reads in the placenames from this file, and for each place, does what we did above for Albuquerque: make an API call, extract the latitude and longitude coordinates from the JSON response that we'll get from the Google server. 
+
+If you're just reading in lines of texts from a file, the basic skeleton looks like
+
+{% highlight python %}
+
+// open our file of places
 inputfile = open('placelist.txt')
 
+// for each row in the file, do something
 for row in inputfile:
   #do something
 
 {% endhighlight %}
 
-The 'something' that we want to do is to make an API call and process the request---meaning extract the latitude and longitude from the JSON response. Let's add the code to import the requests module, formulate and send the request, and extract relevant information.
-
+The 'something' that we want to do is to make an API call and process the request---meaning extract the latitude and longitude from the JSON response, just as we did before. Let's put our earlier code to get and print our geocoordinates within the loop that will read through all the places in our file
 
 {% highlight python %}
 import requests
@@ -83,14 +207,16 @@ The request module that we imported allows us to automatically convert the retur
 Running the above code should result in output like
 
 {% highlight text %}
-32.7956561 -79.7848422
-36.8507689 -76.2858726
-38.4334566 -77.4242972
-39.1398692 -80.0087746
-37.2103925 -76.3868797
+35.110703 -106.609991
+35.6869752 -105.937799
+36.207241 -106.3186397
+32.770075 -108.280326
+36.4072485 -105.5730665
 {% endhighlight %}
 
-Let's modify our python script so that it can save our coordinates to a text file. We just need to write them to a file in the usual way, which means we need to open a file for writing, and write the place name and coordinates to it. But since it's always nice to have well-structured data, let's create a CSV file. This is easily done by using the Python csv module so that it can take care of properly formatting the lines of our CSV file. (the csv module is probably already installed on your computer.) 
+Printing the coordiantes to our screen is good that we can see the script is working. But that isn't particularly helpful for a larger goal of making this coordinates more portable. Let's modify our python script so that it can save our coordinates to a text file. 
+
+But since it's always nice to have well-structured data, let's create a CSV file. This will allow us to easily import our list of places into a number of mapping tools. This is best done by using the Python csv module so that it can take care of properly formatting the lines of our CSV file. The csv module is probably already installed on your computer.
 
 The python method that we'll use write a line to the file requires that we pass it a python list, where each item of the list is a value to be separated by commas in the resulting CSV file. For example running this code
 
@@ -134,9 +260,11 @@ for row in inputfile:
 Running this should result in a file (geocoded-placelist.txt) that looks like
 
 {% highlight text %}
-'Charleston County, SC',32.7956561,-79.7848422
-'Norfolk City, VA',36.8507689,-76.2858726
-'Stafford County, VA',38.4334566,-77.4242972
-'Barbour County, WV',39.1398692,-80.0087746
-'York County, VA',37.2103925,-76.3868797
+"Albuquerque, NM",35.110703,-106.609991
+"Santa Fe, NM",35.6869752,-105.937799
+"Abiquiu, NM",36.207241,-106.3186397
+"Silver City, NM",32.770075,-108.280326
+"Taos, NM",36.4072485,-105.5730665
 {% endhighlight %}
+
+That's all there is to it! Now you have a nicely formatting CSV file of your places and their geocoordinates that can be imported into most any mapping tool.
