@@ -170,7 +170,7 @@ We'll work together to create a richly layered interactive map that displays, co
 
 <div class="highlight">
 ## Historical Research on ABQ
-<b>Ann Massmann</b>, Southwest Studies Librarian, Center for Southwest Research
+<b>Ann Massmann</b>, Southwest Studies Librarian, Center for Southwest Research    
 <b>Terry Ann Gugliotta</b>, University Archivst
 </div>
 
