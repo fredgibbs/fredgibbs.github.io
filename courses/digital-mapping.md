@@ -171,7 +171,10 @@ We'll work together to create a richly layered interactive map that displays, co
 <div class="highlight">
 ## Historical Research on ABQ
 <b>Ann Massmann</b>, Southwest Studies Librarian, Center for Southwest Research
+<b>Terry Ann Gugliotta</b>, University Archivst
 </div>
+
+Download (for iPhone/iPad) [UNM Pocket Archivist](https://itunes.apple.com/us/app/unm-pocket-archivist/id881534182?mt=8)
 
 ## Principles of Mapping and Google Maps
 - [So You Want to Make a Map](http://schoolofdata.org/2013/11/09/web-mapping/)  
