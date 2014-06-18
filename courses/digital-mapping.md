@@ -190,7 +190,7 @@ Download (for iPhone/iPad) [UNM Pocket Archivist](https://itunes.apple.com/us/ap
 - [Introduction to XML and HTML](http://www.w3schools.com/xml/xml_whatis.asp)  
 - [Exploring KML](https://developers.google.com/kml/documentation/kml_tut)  
 - Explore ABQ's [historic places](http://www.cabq.gov/abq-data) (search for "historic" to get to the KMZ file), download it, and load it into Google Earth  
-- [Geocoding places with APIs](http://fredgibbs.net/tutorials/extract-geocode-placenames-from-text-file)  
+- [Geocoding places with APIs](http://fredgibbs.net/tutorials/extract-geocode-placenames-from-text-file)  |  [class code](../etc/geocodeexample.py)
 - Play around with the oddly addicting [GPSVisualizer](http://www.gpsvisualizer.com/index.html)
 
 ## Spatial History
