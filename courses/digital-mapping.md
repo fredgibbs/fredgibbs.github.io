@@ -268,12 +268,12 @@ We'll cover the following:
 </div>
 
 ## Creating Your Own Data
-- Andrew Turner, [Introduction to Neogeography](http://proquest.safaribooksonline.com/0596529953)  
+- Andrew Turner, [Introduction to Neogeography](http://pcmlp.socleg.ox.ac.uk/sites/pcmlp.socleg.ox.ac.uk/files/Introduction_to_Neogeography.pdf)  
 - Miles Ogborn, _Spaces of Modernity_, 1-38.  
 - Setha Low et al., _Rethinking Urban Parks: Public Space and Cultural Diversity_, 175-193.  
 
 ## A Bit of Code
-[Challening Your Inner Terminal](http://learnpythonthehardway.org/book/ex0.html)
+[Channelning your Inner Terminal](http://learnpythonthehardway.org/book/ex0.html)
 
 </div>
 
