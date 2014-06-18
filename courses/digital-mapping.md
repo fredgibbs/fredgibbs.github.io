@@ -227,7 +227,7 @@ Download (for iPhone/iPad) [UNM Pocket Archivist](https://itunes.apple.com/us/ap
 # Wednesday June 18
 
 ## QGIS
-If you're not familiar with GIS systems, or if unfamiliar terms crop up in the tutorials, check out this [gentle introduction](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/index.html). When you want to play, download and install [QGIS](http://www.qgis.org/en/site/). If you get stuck or have questions, consult the [QGIS raining Manual](http://docs.qgis.org/2.2/en/docs/training_manual/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com).
+If you're not familiar with GIS systems, or if unfamiliar terms crop up in the tutorials, check out this [gentle introduction](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/index.html). When you want to play, download and install [QGIS](http://www.qgis.org/en/site/). If you get stuck or have questions, consult the [QGIS Training Manual](http://docs.qgis.org/2.2/en/docs/training_manual/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com).
 
 We'll cover the following:  
 
@@ -251,7 +251,7 @@ We'll cover the following:
 
 ### Local GeoData Sources
 [ABQ Open Data](http://www.cabq.gov/abq-data)  
-[ABQ GIS Data](http://www.cabq.gov/gis/geographic-information-systems-data)
+[ABQ GIS Data](http://www.cabq.gov/gis/geographic-information-systems-data)  
 [UNM GIS Data Clearinghouse](http://rgis.unm.edu/)  
 
 ### Non-geographic-specific data sources
