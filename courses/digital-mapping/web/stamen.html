@@ -37,7 +37,7 @@
                     .openPopup();
 
                 // let's add some custom data as well
-                var runLayer = omnivore.kml('stuff.kml')
+                var runLayer = omnivore.kml('kml/stuff.kml')
                     .on('ready', function() {
                         map.fitBounds(runLayer.getBounds());
                     })

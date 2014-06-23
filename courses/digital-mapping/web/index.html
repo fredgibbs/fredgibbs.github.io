@@ -1,24 +1,22 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
-      #map {
-        width: 500px;
-        height: 400px;
-      }
-    </style>
-  
-  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
-   <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
-<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
-
-
-  <script src="firstgoogle.js"></script>
-  <script src="nmstuff.geojson"></script>
-
+    <title>Digital Mapping Examples</title>
   </head>
   
-<body onload="initialize()">
-    <div id="map"></div>
+  <body>
+    <h1>Digital Mapping Examples</h1>
+    <ul>
+      <li><a href="d3-bike-paths.html">Show ABQ Bike Paths with D3 and mouseover event</a><li>
+      <li><a href="d3-nm-counties.html">Show NM Counties with D3, cities from custom CSV file, and mouseover event</a><li>
+      <li><a href="leaflet-osm-nmcities.html">Show NM City boundaries using Leaflet, OSM tiles, and loading geoJSON data</a><li>
+      <li><a href="mapbox.html">Load a US Map with custom tiles from Mapbox styled from web interface or Tilemill</a><li>
+      <li><a href="stamen.html">Load a US Map with tiles from Stamen maps and loading a KML file exported from Google Maps Engine</a><li>
+    </ul>
+
+    <h2>Notes</h2>
+    <p>All associated files (data, javascript, etc) can be viewed by finding and clicking on the file names in the HTML source code.</p>
+    <p>Notice that many of these files load maps in a slightly different way to provide a variety of examples of how one can initialize and configure a map. 
+
   </body>
 </html>
