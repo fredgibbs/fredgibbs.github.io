@@ -38,8 +38,8 @@ var points = svg.append("g");
 
 
 queue()
-    .defer(d3.json, 'nm_counties.json') // topojson polygons
-    .defer(d3.json, 'random_points.geojson') // geojson points
+    .defer(d3.json, 'geojson/nm_counties.json') // topojson polygons
+    .defer(d3.json, 'geojson/random_points.geojson') // geojson points
     .await(makeMyMap); // function that uses files
 
 function makeMyMap(error, nm_counties, random_points) {
