@@ -10,19 +10,20 @@
     <span style="color:red">WARNING:</span> when you make changes to a project or data at Mapbox, it can take up to an hour (usually like 15 minutes) for the server to create your new tiles. So if you are loading your own tiles from tilemill into a map on your own webpage, keep this delay in mind as you make updates.
     
     <h2>Using Mapbox and Tilemill</h2>
-    These are tools best suited for making maps that will be embedded into a webpage or viewed via Mapbox.com. They CAN be used to style data and load it onto your own map from your own webpage, but this process creates a rather time-consuming step if you want to update your data or layers (see warning above), since you have to keep re-doing everything in TileMill and uploading your data to Mapbox. 
+    For our purposes, the best use of TileMill (and Mapbox to access the results) is to style your basemap if you don't want to use one of the standards like Bing, OSM, Stamen, or whatever. You can heavily create/customize a basemap in TileMill to create a very unique looking map onto which you can overlay your data. These two CAN be used to style your own data layers that you can display via own webpage and map, but this process creates an extra and rather time-consuming step whenever you want to update your data or layers (see warning above), since you have to keep re-doing everything in TileMill and uploading your data to Mapbox. There are also more limits to the interactivity you can create as well.
     <p>
-    For our purposes, the best use of TileMill is to style your basemap if you don't want to use one of the standards like Google, OSM, Stamen, or whatever. You can heavily create/customize a basemap in TileMill to create a very unique looking map onto which you can overlay your data.
+    If you have spent time styling your data in TileMill, it is not wasted. But you'll have to copy the style info from TileMill into your javascript and style the data you load there. A basic tutorial for styling data with leaflet is <a href="http://leafletjs.com/examples/geojson.html">here</a>.
     <p>
-    If you have spent time styling your data in TileMill, it is not wasted. But you'll have to copy the style info from TileMill into your javascript and style the data you load there. A basic tutorial is <a href="http://leafletjs.com/examples/geojson.html">here</a>.
-    <p>
-    For the most nimble development, I recommend that you load your data layers directly onto your map with javascript (as exampled below), and not by going through mapbox (as the mapbox examples do, just to show different ways of doing things). 
+    For the most nimble development workflow, I recommend that you load your data layers directly onto your map with javascript (as exampled below), and not by going through mapbox (as the mapbox examples do, just to show different ways of doing things). 
     
     <h2>A note about the examples</h2>
     There are lots of ways of doing the same thing. I've tried to illustrate the diversity by loading maps and loading data in slightly different ways across the examples. DO NOT fixate on 1 or 2 examples---understand the different techniques found in each. This will save you TONS of time when looking for code online.
-<p>All associated files (data, javascript, etc) can be viewed by finding and clicking on the file names in the HTML source code.</p>
-    <p>If you don't understand something in any of the code, or you need an example of something else, tweet at me (@fredgibbs) and use the #digmaps hashtag so everyone can follow the thread.</p>
-<hr>
+    <p>
+    All associated files (data, javascript, etc) can be viewed by finding and clicking on the file names in the HTML source code.</p>
+    <p>
+    If you don't understand something in any of the code, or you need an example of something else, tweet at me (@fredgibbs) and use the #digmaps hashtag so everyone can follow the thread.</p>
+
+    <hr>
 
     <h3>Mapbox/TileMill Examples</h3>
     <ul>
@@ -32,6 +33,7 @@
     </ul>
     <h3>Generic Loading Data Examples</h3>
       <ul>
+      <li><a href="leaflet-control.html">Use a Leaflet control to choose between base layers and toggle data layers on and off</a></li>      
       <li><a href="leaflet-geojson-popup.html">Show ABQ Public Art with info pop-ups using Leaflet, MapQuest tiles, and loading geoJSON data directly from a file using leaflet.ajax.js</a></li>
       <li><a href="leaflet-osm-nmcities.html">Show NM City boundaries using Leaflet, OSM tiles, and loading geoJSON data</a></li>
       <li><a href="stamen.html">Load a US Map with tiles from Stamen maps and loading a KML file exported from Google Maps Engine</a></li>
