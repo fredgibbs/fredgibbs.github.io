@@ -9,7 +9,7 @@ categories: [course]
 
 Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
 Mesa Vista Hall, 1077    
-Office Hours: M 1-3; W 1-2; almost any other time by appointment    
+Office Hours: M 1-3; W 3-4; almost any other time by appointment    
 
 
 ## Overview
@@ -47,12 +47,18 @@ The course will be taught in the shiny new Teaching and Learning building in "le
 <div>
 
 * Everyone starts with a C in the course. I assume you are all average students who do average quality work. I know this is false, but it's my starting point. It's your job to prove me wrong via your engagement in the course.
-* You raise (or lower) your grade based on the quality of your participation in class discussions and activities, random assignments, and your submitted written work.
-* The course will be taught in the shiny new Teaching and Learning building in "[learning studios](https://www.unm.edu/~oset/Event%20Descriptions/LearningStudioClassroomsatUNM.html)." Discussions will be more like labs where everyone will be working in groups to research and discuss the daily topic--making extensive use of the video projector and whiteboards to share and communicate. Continual engagement with these activities is expected.
-* Simply showing up to class counts for very little; **I expect that you'll attend most classes and be an active participant in all class activities**. If you are actively engaged, you'll raise your grade one letter grade (ie C->B).
-* 4 750-word historical analyses of recent "publication" pertaining to food, health, and diet. These can be from a newspaper, magazine, movie, science research article, historical scholarship or whatever you like. They should be easily accessible through Google (this is not a scholarly or library research assignment, though you can go that route if you want). The goal is to find something you might read even if you weren't in the course, and critique it from a historical perspective (that you're hopefully getting in the course). These assignment will show that you're able to apply the course discussion and activities in productive ways.
-* If your essays follow the protocols (listed below), you'll raise your grade one letter grade (ie B->A).
-* If you are displeased with your grade for any assignment, you can visit with me about your paper, rework it, and resubmit it *within 1 week*. You can continue to do this until we agree that your essay isn't going to improve anymore. Your final grade will reflect both your mastery of course material and your effort to improve your essay. *You cannot resubmit work without first meeting with me in my office to discuss the merits and flaws of your original submission.*
+
+* You raise (or lower) your grade based on the quality of your participation in class discussions and activities, random assignments, and (least frequently) your submitted written work.
+
+* The class will meet in the shiny new Teaching and Learning building in "[learning studios](https://www.unm.edu/~oset/Event%20Descriptions/LearningStudioClassroomsatUNM.html)." Discussions will be more like labs where everyone will be working in groups to research the weekly topic and making extensive use of the video projector and whiteboards to share and communicate. Every Friday we will have group presentations that will summarize and bring together the readings for the week in a visual way.
+
+* Simply showing up to class counts for very little; **I expect that you'll attend most classes and actively participate in all activities. This work counts for 50% of your grade.** If you want a course where you can sit back and occasionally regurgitate information, this course isn't for you.
+
+* 4 750-word historical analyses of a recent "publication" pertaining to food, health, and diet. These can be from a newspaper, magazine, movie, science research article, historical scholarship, or whatever you like. They should be easily accessible through Google (this is not a scholarly or library research assignment, though you can go that route if you want). The goal is to find something you might read even if you weren't in the course, and critique it from a historical perspective (that you're hopefully getting in the course). These assignments will show that you're able to apply the course discussion and activities in productive ways. (30%)
+
+* Your final "exam" will consist of contributing to a group project that examines some facet of the relationship between food, health and diet. All groups will present during the last week of class. You will compose and be individually graded on a 750-word essay that explains what you learned in the course and how you applied that to the project. (20%)
+
+* If you are displeased with your grade for any assignment, you can visit with me about your paper, rework it, and resubmit it *within 1 week*. You can continue to do this until we agree that it isn't going to improve anymore. Your final grade will reflect both your mastery of course material and your effort to improve your essay. *You cannot resubmit work without first meeting with me in my office to discuss the merits and flaws of your original submission.*
 
 </div>
 
@@ -61,6 +67,8 @@ The course will be taught in the shiny new Teaching and Learning building in "le
 <div>
 
 - Harvey Levenstein, [Revolution at the Table](http://www.amazon.com/Revolution-Table-Transformation-American-California/dp/0520234391/) (ISBN: 978-0520234390).
+
+- Marion Nestle, [Food Politics](http://www.amazon.com/Food-Politics-Influences-Nutrition-California/dp/0520275969/) (ISBN: 978-0520275966).
 
 - Michael Pollan, [In Defense of Food](http://www.amazon.com/Defense-Food-Eaters-Manifesto/dp/0143114964) (ISBN: 978-0143114963).
 
@@ -99,7 +107,6 @@ Presentations: The history of chocolate according to the internet
 {: .side}
 
 ### 2: Culinary Imperialism
-
 {::options parse_block_html="true" /}
 <div>
 
@@ -111,6 +118,8 @@ Woodruff D. Smith, “Complications of the Commonplace; Tea, Sugar, and Imperial
 
 #### FRI
 T. Bickham, “Eating the Empire: Intersections of Food, Cookery and Imperialism in Eighteenth-century Britain,” *Past & Present* 198, no. 1 (2008): 71–109.
+
+Presentations: Where do this week's articles converge and diverge?
 </div>
 
 
@@ -142,15 +151,17 @@ George Cheyne, *An Essay on Regimen* (London, 1740), 53-62.
 ### 4. Balanced & Measured Bodies 
 {::options parse_block_html="true" /}
 <div>
+
 #### MON
-Hillel Schwartz, *Never Satisfied. A Cultural History of Diets, Fantasies, and Fat*.
-"Balanced Body" (75-111)
+Hillel Schwartz, *Never Satisfied. A Cultural History of Diets, Fantasies, and Fat*, "The Balanced Body," 75-111.
 
 #### WED
-"Regulated Body" (113-145)
+*Never Satisfied*, "The Regulated Body," 113-145.
 
 #### FRI
-"Measured Body" (147-187)
+*Never Satisfied*, "The Measured Body," 147-187.
+
+Presentations: Visual Histories of the Body
 </div>
 
 
@@ -160,16 +171,15 @@ Hillel Schwartz, *Never Satisfied. A Cultural History of Diets, Fantasies, and F
 ### 5. American Diet
 {::options parse_block_html="true" /}
 <div>
-Harvey Levenstein, *Revolution at the Table*.
 
 #### MON
-3-97
+Harvey Levenstein, *Revolution at the Table*, 3-97.
 
 #### WED
-98-146
+*Revolution at the Table*, 98-146
 
 #### FRI
-147-211
+*Revolution at the Table*, 147-211
 </div>
 
 
@@ -185,10 +195,12 @@ Harvey Levenstein, *Revolution at the Table*.
 James Hale, et. al., [Connecting food environments and health through the relational nature of aesthetics: Gaining insight through the community gardening experience](http://www.sciencedirect.com/science/article/pii/S0277953611002267), *Social Science & Medicine* 72.11 (June 2011), 1853-1863.
 
 #### WED
-Pick and report on one of the articles at http://www.ctdatahaven.org/know/index.php/Research_Availability_Healthy_Food_FoodDeserts
+Pick and report on one of the articles about [availability of healthy food](http://www.ctdatahaven.org/know/index.php/Research_Availability_Healthy_Food_FoodDeserts).
 
 #### FRI
-Mapping Food in ABQ
+[40 maps that explain food in America](http://www.ctdatahaven.org/know/index.php/Research_Availability_Healthy_Food_FoodDeserts).
+
+Presentations: Mapping Food Access in ABQ.
 </div>
 
 
@@ -200,13 +212,13 @@ Mapping Food in ABQ
 <div>
 
 #### MON
-David M. Nowacek and Rebecca S. Nowacek, “The Organic Foods System: Its Discursive Achievements and Prospects,” College English 70, no. 4 (March 1, 2008): 403–20, doi:10.2307/25472278;
+David M. Nowacek and Rebecca S. Nowacek, “The Organic Foods System: Its Discursive Achievements and Prospects,” *College English* 70.4 (2008): 403–20.
 
 #### WED
 Gill Seyfang, “Cultivating Carrots and Community: Local Organic Food and Sustainable Consumption,” Environmental Values 16, no. 1 (February 1, 2007): 105–23.
 
 #### FRI
-Jeffrey Haydu, “Cultural Modeling in Two Eras of U.S. Food Protest: Grahamites (1830s) and Organic Advocates (1960s–70s),” Social Problems 58, no. 3 (August 1, 2011): 461–87.
+Jeffrey Haydu, “Cultural Modeling in Two Eras of U.S. Food Protest: Grahamites (1830s) and Organic Advocates (1960s–70s),” Social Problems 58.3 (2011): 461–87.
 </div>
 
 
@@ -224,7 +236,7 @@ Vasile Stănescu, "'Green' Eggs and Ham? The Myth of Sustainable Meat and the Da
 #### WED
 Megan K. Blake, Jody Mellor, and Lucy Crane, “Buying Local Food: Shopping Practices, Place, and Consumption Networks in Defining Food as ‘Local,’” *Annals of the Association of American Geographers* 100.2 (2010): 409–26.
 
-<a href="http://selborne.nl/foodmap/index.php">Mapping food origins</a>
+Play around with [food maps](http://selborne.nl/foodmap/index.php">Mapping food origins).
 </div>
 
 #### FRI
@@ -235,11 +247,11 @@ Fall Break: No Class!
 ### Oct 13 - 17
 {: .side}
 
-### 9. critiques and revisions for local food essays/posters
+### 9. Critiques and revisions for local food essays/posters
 {::options parse_block_html="true" /}
 <div>
 #### MON
-Work on Your Local Food Month Projects: No Class!
+Work on Your Local Food Projects: No Class!
 
 #### WED 
 Presentations and Critiques I
@@ -252,58 +264,55 @@ Presentations and Critiques II
 ### Oct 20 - 24
 {: .side}
 
-### 10. Vitamins, Nutrition, and Diets
+### 10. Official Advice and the Food Pyramid
 {::options parse_block_html="true" /}
 <div>
 
 #### MON
-Rima D Apple, “‘They Need It Now’: Science, Advertising and Vitamins, 1925-1940,” *Journal of Popular Culture* 22.3 (1988): 65–83.
-
-Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine* 34 (May 1887): 59-74.
+Marion Nestle, _Food Politics_, 29-66.
 
 #### WED 
-Group Research on fad diets
+Marion Nestle, _Food Politics_, 67-93.
 
 #### FRI
-Group Debate: Which fad diet is best for you?!
-
+Presentations on [online historical accounts](https://fnic.nal.usda.gov/dietary-guidance/dietary-guidelines/historical-dietary-guidance) of the food pyramid. 
 </div>
 
 
 ### Oct 27 - 31
 {: .side}
 
-### 11. Technofoods
+### 11. Science of Health
 {::options parse_block_html="true" /}
+<div>
 
 #### MON
-Marion Nestle, _Food Politics_, 295-337.
+Rima D. Apple, “‘They Need It Now’: Science, Advertising and Vitamins, 1925-1940,” *Journal of Popular Culture* 22.3 (1988): 65–83.
 
-Marion Nestle, _Food Politics_, 29-66.
+Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine* 34 (May 1887): 59-74.
 
-Marion Nestle, _Food Politics_, 67-93.
 #### WED
+Michael Moss, [The Extraordinary Science of Addictive Junk Food](http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html), *The New York Times*, February 20, 2013.
 
 #### FRI
-
+David S. Ludwig and Mark I. Friedman, [Always Hungry? Here’s Why](http://www.nytimes.com/2014/05/18/opinion/sunday/always-hungry-heres-why.html), *The New York Times*, May 16, 2014.
 </div>
 
 
 ### Nov 03 - 07
 {: .side}
 
-### 12. Food Pyramid
+### 12. Marketing Health
 {::options parse_block_html="true" /}
-<div>
 
 #### MON
-Start [here](https://fnic.nal.usda.gov/dietary-guidance/dietary-guidelines/historical-dietary-guidance) for historical accounts of the food pyramid. 
+Marion Nestle, _Food Politics_, 219-293.
 
 #### WED
-Presentations
+Marion Nestle, _Food Politics_, 295-337.
 
 #### FRI
-No class!
+Presentations on Food Logs (How have you improved your health according to health claims?)
 </div>
 
 
@@ -326,8 +335,7 @@ Alison Shaw, "‘It Just Goes against the Grain’: Public Understandings of Gen
 #### FRI
 Ellen Messer, “Food Systems and Dietary Perspective: Are Genetically Modified Organisms the Best Way to Ensure Nutritionally Adequate Food?,” *Indiana Journal of Global Legal Studies* 9, no. 1 (October 1, 2001): 65–90.
 
-Presentations: Visualize the arguments
-
+Presentations: Visualize the arguments on engineed food. How to make complex concerns easily understandable?
 </div>
 
 
@@ -337,14 +345,21 @@ Presentations: Visualize the arguments
 ### 14. Understanding Health
 {::options parse_block_html="true" /}
 <div>
+
+#### MON
+Gary Taubes and Cristin Kearns Couzens, [Big Sugar’s Sweet Little Lies](http://www.motherjones.com/environment/2012/10/sugar-industry-lies-campaign), *Mother Jones*, October 2012.
+
+Maddie Oatman, "[A Timeline of Sugar Spin](http://www.motherjones.com/politics/2012/10/sugar-industry-marketing-timeline)," *Mother Jones*, October 2012.
+
+#### WED
+David H. Freedman, "[How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true)," *The Atlantic*, July 2013.
+
+Tom Philpott, [Why The Atlantic's Defense of Junk Food Fails](http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails).
+
+#### FRI
+Kevin Voigt, [5 Reasons Why You Need More Fat in Your Diet](http://www.foxnews.com/health/2014/07/18/5-reasons-why-need-more-fat-in-your-diet/). 
+
 "[Scientists Fix Errors in Controversial Paper About Saturated Fats](http://news.sciencemag.org/health/2014/03/scientists-fix-errors-controversial-paper-about-saturated-fats),” March 2014.
-
-Maddie Oatman, "[A Timeline of Sugar Spin](http://www.motherjones.com/politics/2012/10/sugar-industry-marketing-timeline)," *Mother Jones*, October, 2012.
-
-David H. Freedman, "[How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true)," *The Atlantic*, August 2013.
-
-Tom Philpott, [Why The Atlantic's Defense of Junk Food Fails](http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails)
-
 </div>
 
 
@@ -356,10 +371,10 @@ Tom Philpott, [Why The Atlantic's Defense of Junk Food Fails](http://www.motherj
 <div>
 
 #### MON
-Study for exams, procrastinate by reading Pollan for Wednesday
+Michael Pollan, _In Defense of Food: An Eater's Manifesto_ (yes, the whole thing). We will vote to determine whether to have class today or Wednesday.
 
 #### WED
-Michael Pollan, _An Eater's Manifesto_.
+No Class: Work on your final presentations!
 
 #### FRI
 Thanksgiving: No Class! Eat Well!!
@@ -370,7 +385,7 @@ Thanksgiving: No Class! Eat Well!!
 ### Dec 01 - 05
 {: .side}
 
-### 16. Presentations, etc.
+### 16. Final Presentations, etc.
 {::options parse_block_html="true" /}
 <div>
 
