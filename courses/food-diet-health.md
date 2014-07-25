@@ -49,10 +49,10 @@ The course will be taught in the shiny new Teaching and Learning building in "le
 * Everyone starts with a C in the course. I assume you are all average students who do average quality work. I know this is false, but it's my starting point. It's your job to prove me wrong via your engagement in the course.
 * You raise (or lower) your grade based on the quality of your participation in class discussions and activities, random assignments, and your submitted written work.
 * The course will be taught in the shiny new Teaching and Learning building in "[learning studios](https://www.unm.edu/~oset/Event%20Descriptions/LearningStudioClassroomsatUNM.html)." Discussions will be more like labs where everyone will be working in groups to research and discuss the daily topic--making extensive use of the video projector and whiteboards to share and communicate. Continual engagement with these activities is expected.
-* Simply showing up to class counts for very little; **I expect that you'll attend most classes and be an active participant in all class activities**. If you do this, you'll raise your grade one letter grade (ie C->B).
-* 4 750-word historical analyses of recent "publication" pertaining to food, health, and diet (newspaper, magazine, movie, science research article, historical scholarship...whatever). The goal is to find something you might read even if you weren't in the course, and critique it from a historical perspective (that you're hopefully getting in the course). These will show that you're able to apply the course discussion and activities in productive ways.
+* Simply showing up to class counts for very little; **I expect that you'll attend most classes and be an active participant in all class activities**. If you are actively engaged, you'll raise your grade one letter grade (ie C->B).
+* 4 750-word historical analyses of recent "publication" pertaining to food, health, and diet. These can be from a newspaper, magazine, movie, science research article, historical scholarship or whatever you like. They should be easily accessible through Google (this is not a scholarly or library research assignment, though you can go that route if you want). The goal is to find something you might read even if you weren't in the course, and critique it from a historical perspective (that you're hopefully getting in the course). These assignment will show that you're able to apply the course discussion and activities in productive ways.
 * If your essays follow the protocols (listed below), you'll raise your grade one letter grade (ie B->A).
-* If you are displeased with your grade for any assignment, you can visit with me about your paper, rework it, and resubmit it within 1 week. You can continue to do this until we agree that your essay isn't going to improve anymore. Your final grade will reflect both your mastery of course material and your effort to improve your essay. *You cannot resubmit work without first meeting with me to discuss your original submission.*
+* If you are displeased with your grade for any assignment, you can visit with me about your paper, rework it, and resubmit it *within 1 week*. You can continue to do this until we agree that your essay isn't going to improve anymore. Your final grade will reflect both your mastery of course material and your effort to improve your essay. *You cannot resubmit work without first meeting with me in my office to discuss the merits and flaws of your original submission.*
 
 </div>
 
@@ -60,9 +60,9 @@ The course will be taught in the shiny new Teaching and Learning building in "le
 {::options parse_block_html="true" /}
 <div>
 
-- Donna Gabaccia, [We Are What We Eat](http://www.amazon.com/We-Are-What-Eat-Americans/dp/0674001907/) (Cambridge: Harvard University Press, 1998).
+- Harvey Levenstein, [Revolution at the Table](http://www.amazon.com/Revolution-Table-Transformation-American-California/dp/0520234391/) (ISBN: 978-0520234390).
 
-- Harvey Levenstein, [Revolution at the Table](http://www.amazon.com/Revolution-Table-Transformation-American-California/dp/0520234391/) (Berkeley: University of California Press, 2003).
+- Michael Pollan, [In Defense of Food](http://www.amazon.com/Defense-Food-Eaters-Manifesto/dp/0143114964) (ISBN: 978-0143114963).
 
 - You will also need to subscribe to the course Zotero library to access assigned articles not contained in the edited volumes. Please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](etc/zotero.html). 
 
@@ -80,14 +80,18 @@ The course will be taught in the shiny new Teaching and Learning building in "le
 ### 1: National Implications of Chocolate
 {::options parse_block_html="true" /}
 <div>
+
 #### MON
-Teresa L. Dillinger, [et al.] “Food for the Gods: cure for humanity? A cultural history of the medicinal and ritual use of chocolate,” *Journal of Nutrition* 130 (2000): 2057-2072.
+Course introduction; Some philosophical discussion about the nature of diet and health; Historical discussion of premoden diet as described in _Galen on Food and Diet_.
 
 #### WED
-Marcy Norton, “Tasting Empire: Chocolate and the European Internalization of Mesoamerican Aesthetics,” *The American Historical Review* 111.3 (2006): 660–691.
+Brian Cowan, "New Worlds and New Tastes," 1-17.
 
 #### FRI
-Nathan Nunn and Nancy Qian, "The Columbian Exchange: A History of Disease, Food, and Ideas,” *Journal of Economic Perspectives* 24.2 (Spring 2010).
+Teresa L. Dillinger, [et al.] “Food for the Gods: cure for humanity? A cultural history of the medicinal and ritual use of chocolate,” *Journal of Nutrition* 130 (2000): 2057-2072.
+
+Presentations: The history of chocolate according to the internet
+
 </div>
 
 
@@ -100,9 +104,12 @@ Nathan Nunn and Nancy Qian, "The Columbian Exchange: A History of Disease, Food,
 <div>
 
 #### MON
-Woodruff D. Smith, “Complications of the Commonplace; Tea, Sugar, and Imperialism,” *Journal of Interdisciplinary History* v. 23, Autumn 1992: 259-78.
+Marcy Norton, “Tasting Empire: Chocolate and the European Internalization of Mesoamerican Aesthetics,” *The American Historical Review* 111.3 (2006): 660–691.
 
 #### WED
+Woodruff D. Smith, “Complications of the Commonplace; Tea, Sugar, and Imperialism,” *Journal of Interdisciplinary History* v. 23, Autumn 1992: 259-78.
+
+#### FRI
 T. Bickham, “Eating the Empire: Intersections of Food, Cookery and Imperialism in Eighteenth-century Britain,” *Past & Present* 198, no. 1 (2008): 71–109.
 </div>
 
@@ -111,12 +118,12 @@ T. Bickham, “Eating the Empire: Intersections of Food, Cookery and Imperialism
 ### Sep 01 - 05
 {: .side}
 
-### 3: Expert Diets
+### 3: Dietary Expertise
 {::options parse_block_html="true" /}
 <div>
 
 #### MON
-No Class!
+Labor Day: No Class!
 
 #### WED
 J. Worth Estes, "The Medical Properties of Food in the Eighteenth Century,” Journal of the History of Medicine and Allied Sciences, 51 (1996): 127-149.
@@ -150,7 +157,6 @@ Hillel Schwartz, *Never Satisfied. A Cultural History of Diets, Fantasies, and F
 ### Sep 15 - 19
 {: .side}
 
-
 ### 5. American Diet
 {::options parse_block_html="true" /}
 <div>
@@ -171,7 +177,25 @@ Harvey Levenstein, *Revolution at the Table*.
 ### Sep 22 - 26
 {: .side}
 
-### 6. Rise of organic food
+### 6. Accessing Food
+{::options parse_block_html="true" /}
+<div>
+
+#### MON
+James Hale, et. al., [Connecting food environments and health through the relational nature of aesthetics: Gaining insight through the community gardening experience](http://www.sciencedirect.com/science/article/pii/S0277953611002267), *Social Science & Medicine* 72.11 (June 2011), 1853-1863.
+
+#### WED
+Pick and report on one of the articles at http://www.ctdatahaven.org/know/index.php/Research_Availability_Healthy_Food_FoodDeserts
+
+#### FRI
+Mapping Food in ABQ
+</div>
+
+
+### Sep 29 - Oct 03
+{: .side}
+
+### 7. Rise of Organic Food
 {::options parse_block_html="true" /}
 <div>
 
@@ -187,25 +211,6 @@ Jeffrey Haydu, “Cultural Modeling in Two Eras of U.S. Food Protest: Grahamites
 
 
 
-### Sep 29 - Oct 03
-{: .side}
-
-### 7. Ethnic Food
-{::options parse_block_html="true" /}
-<div>
-Donna Gabaccia, *We Are What We Eat*.
-
-#### MON
-1-92
-
-#### WED
-93-174
-
-#### FRI
-175-232
-</div>
-
-
 ### Oct 06 - 10
 {: .side}
 
@@ -218,7 +223,12 @@ Vasile Stănescu, "'Green' Eggs and Ham? The Myth of Sustainable Meat and the Da
 
 #### WED
 Megan K. Blake, Jody Mellor, and Lucy Crane, “Buying Local Food: Shopping Practices, Place, and Consumption Networks in Defining Food as ‘Local,’” *Annals of the Association of American Geographers* 100.2 (2010): 409–26.
+
+<a href="http://selborne.nl/foodmap/index.php">Mapping food origins</a>
 </div>
+
+#### FRI
+Fall Break: No Class!
 
 
 
@@ -228,13 +238,21 @@ Megan K. Blake, Jody Mellor, and Lucy Crane, “Buying Local Food: Shopping Prac
 ### 9. critiques and revisions for local food essays/posters
 {::options parse_block_html="true" /}
 <div>
+#### MON
+Work on Your Local Food Month Projects: No Class!
+
+#### WED 
+Presentations and Critiques I
+
+#### FRI
+Presentations and Critiques II
 </div>
 
 
 ### Oct 20 - 24
 {: .side}
 
-### 10. Advertising Food and Diet
+### 10. Vitamins, Nutrition, and Diets
 {::options parse_block_html="true" /}
 <div>
 
@@ -248,23 +266,27 @@ Group Research on fad diets
 
 #### FRI
 Group Debate: Which fad diet is best for you?!
+
 </div>
 
 
 ### Oct 27 - 31
 {: .side}
 
-### 11. Accessing Food
+### 11. Technofoods
 {::options parse_block_html="true" /}
-<div>
 
 #### MON
-James Hale, et. al., [Connecting food environments and health through the relational nature of aesthetics: Gaining insight through the community gardening experience](http://www.sciencedirect.com/science/article/pii/S0277953611002267), *Social Science & Medicine* 72.11 (June 2011), 1853-1863.
+Marion Nestle, _Food Politics_, 295-337.
 
+Marion Nestle, _Food Politics_, 29-66.
+
+Marion Nestle, _Food Politics_, 67-93.
 #### WED
-Pick and report on one of the articles at http://www.ctdatahaven.org/know/index.php/Research_Availability_Healthy_Food_FoodDeserts
-</div>
 
+#### FRI
+
+</div>
 
 
 ### Nov 03 - 07
@@ -296,13 +318,15 @@ No class!
 #### MON
 Mark Tester, “The dangerously polarized debate on genetic modification.” *British Food Journal* 103.11 (2001): 785-790.
 
+Stephanie Strom, “[Major Grocer to Label Foods With Gene-Modified Content](http://www.nytimes.com/2013/03/09/business/grocery-chain-to-require-labels-for-genetically-modified-food.html),” *The New York Times*, March 8, 2013.
+
 #### WED
 Alison Shaw, "‘It Just Goes against the Grain’: Public Understandings of Genetically Modified (GM) Food in the UK.” *Public Understanding of Science* 11.3 (2002): 273-291.
 
 #### FRI
 Ellen Messer, “Food Systems and Dietary Perspective: Are Genetically Modified Organisms the Best Way to Ensure Nutritionally Adequate Food?,” *Indiana Journal of Global Legal Studies* 9, no. 1 (October 1, 2001): 65–90.
 
-Stephanie Strom, “[Major Grocer to Label Foods With Gene-Modified Content](http://www.nytimes.com/2013/03/09/business/grocery-chain-to-require-labels-for-genetically-modified-food.html),” *The New York Times*, March 8, 2013.
+Presentations: Visualize the arguments
 
 </div>
 
@@ -318,24 +342,27 @@ Stephanie Strom, “[Major Grocer to Label Foods With Gene-Modified Content](htt
 Maddie Oatman, "[A Timeline of Sugar Spin](http://www.motherjones.com/politics/2012/10/sugar-industry-marketing-timeline)," *Mother Jones*, October, 2012.
 
 David H. Freedman, "[How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true)," *The Atlantic*, August 2013.
+
+Tom Philpott, [Why The Atlantic's Defense of Junk Food Fails](http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails)
+
 </div>
 
 
 ### Nov 24 - 28
 {: .side}
 
-### 15. Presentations I
+### 15. Defining Food
 {::options parse_block_html="true" /}
 <div>
 
 #### MON
-name1, name2, name3, etc.
+Study for exams, procrastinate by reading Pollan for Wednesday
 
 #### WED
-name1, name2, name3, etc.
+Michael Pollan, _An Eater's Manifesto_.
 
 #### FRI
-name1, name2, name3, etc.
+Thanksgiving: No Class! Eat Well!!
 </div>
 
 
@@ -343,18 +370,18 @@ name1, name2, name3, etc.
 ### Dec 01 - 05
 {: .side}
 
-### 16. Presentations II 
+### 16. Presentations, etc.
 {::options parse_block_html="true" /}
 <div>
 
 #### MON
-name1, name2, name3, etc.
+group1, group2, group3
 
 #### WED
-name1, name2, name3, etc.
+group4, group5, group6
 
 #### FRI
-name1, name2, name3, etc.
+Conclusions, Evaluations
 </div>
 
 
