@@ -1,0 +1,5377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="BuildingFootprint">
+	<name>BuildingFootprint</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffd0f2c9</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>BuildingFootprint</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>This single story, 12-store set back, commercial building faces a large parking lot and has a updated façade of gray and teal stucco that mimics the geometric ornamentation and abstracted classicism of art deco style.  The façade was remodeled in 1995. White painted concrete blocks are visible on the rear, east facing side of the building.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>This single story, 12-store set back, commercial building faces a large parking lot and has a updated façade of gray and teal stucco that mimics the geometric ornamentation and abstracted classicism of art deco style.  The façade was remodeled in 1995. White painted concrete blocks are visible on the rear, east facing side of the building. </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>This single story, 12-store set back, commercial building faces a large parking lot and has a updated façade of gray and teal stucco that mimics the geometric ornamentation and abstracted classicism of art deco style.  The façade was remodeled in 1995. White painted concrete blocks are visible on the rear, east facing side of the building.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3921/14539508729_442032111b_s.jpg">https://farm4.staticflickr.com/3921/14539508729_442032111b_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1962 and remodeled 1995</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>136 Washington St. SE Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>738.231514</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>16056.133596</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>227</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5950317270895,35.07808593264658,0 -106.5950280424411,35.0772106085298,0 -106.5948597671633,35.07721108688084,0 -106.5948634500132,35.07808641107096,0 -106.5950317270895,35.07808593264658,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>One story, mannered modern, commercial; brick facade, high pitch roof</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>One story, mannered modern, commercial; brick facade, high pitch roof </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>One story, mannered modern, commercial; brick facade, high pitch roof</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3840/14539488680_eb6f894f31_s.jpg">https://farm4.staticflickr.com/3840/14539488680_eb6f894f31_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1970</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4400 Central, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>171.617021</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>1622.781919</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>228</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5950750346546,35.07855901504902,0 -106.5950743673428,35.07840064555006,0 -106.5949803637929,35.07840091343288,0 -106.5949810308981,35.07855928203849,0 -106.5950750346546,35.07855901504902,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>The south side of this one-and-a-half story, institutional building faces Silver Ave and is separated from the street by a fenced in parking lot. The south and north sides of the building are essentially identical: with a main entrance just left of center and additional doors located to the far left and right on the both sides of the building. The west side of the building features signage from the  building’s prior use as a building supply store and has medium gray, rough stucco. The other sides of the building have smoother, light grey stucco with two-toned pink arches around the main entrances. The use of the roof line as an expressive device suggests the architectural style of mannered modernism.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>The south side of this one-and-a-half story, institutional building faces Silver Ave and is separated from the street by a fenced in parking lot. The south and north sides of the building are essentially identical: with a main entrance just left of center and additional doors located to the far left and right on the both sides of the building. The west side of the building features signage from the  building’s prior use as a building supply store and has medium gray, rough stucco. The other sides of the building have smoother, light grey stucco with two-toned pink arches around the main entrances. The use of the roof line as an expressive device suggests the architectural style of mannered modernism.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>The south side of this one-and-a-half story, institutional building faces Silver Ave and is separated from the street by a fenced in parking lot. The south and north sides of the building are essentially identical: with a main entrance just left of center and additional doors located to the far left and right on the both sides of the building. The west side of the building features signage from the  building’s prior use as a building supply store and has medium gray, rough stucco. The other sides of the building have smoother, light grey stucco with two-toned pink arches around the main entrances. The use of the roof line as an expressive device suggests the architectural style of mannered modernism.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm3.staticflickr.com/2924/14539710407_7c82678e1d_s.jpg">https://farm3.staticflickr.com/2924/14539710407_7c82678e1d_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1957</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4401 Silver Ave. SE, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>561.681827</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>19580.024862</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>229</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5948624828864,35.07785648988977,0 -106.594860724255,35.0774386236591,0 -106.5944308663206,35.0774398449428,0 -106.5944326216631,35.07785771128332,0 -106.5948624828864,35.07785648988977,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>One story Utilitarian Commercial, Concrete Block stucco</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>One story Utilitarian Commercial, Concrete Block stucco</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>One story Utilitarian Commercial, Concrete Block stucco</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm6.staticflickr.com/5579/14539488210_1b62489fb1_s.jpg">https://farm6.staticflickr.com/5579/14539488210_1b62489fb1_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1948</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4410-4418 Central, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>442.183732</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>10469.544779</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>230</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5944455312674,35.07837500499874,0 -106.5944461322766,35.07851810920447,0 -106.5944767851559,35.07855002434987,0 -106.5946179986473,35.07856779622244,0 -106.5948641375892,35.07856700908617,0 -106.594863204584,35.07834519640289,0 -106.594781961898,35.07834423471121,0 -106.5947817212699,35.07828699321748,0 -106.5946076349737,35.07828629544524,0 -106.5946080067795,35.07837454344986,0 -106.5944455312674,35.07837500499874,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Two Story International Institutional, steel frame, brick and glass facade</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Two Story International Institutional, steel frame, brick and glass facade</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Two Story International Institutional, steel frame, brick and glass facade</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm6.staticflickr.com/5587/14703155046_b91560ae4f_s.jpg">https://farm6.staticflickr.com/5587/14703155046_b91560ae4f_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1955</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4401 Central BLD. 02, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>341.406551</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>6038.228973</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>231</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5948284189026,35.07996388122133,0 -106.594828526301,35.07982645230078,0 -106.5944254395461,35.07982623976503,0 -106.594425331471,35.07996366871087,0 -106.5948284189026,35.07996388122133,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>A large International style single store front  that sits on the northern edge of the lot with entrances on eastern side connected to small parking lot.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A large International style single store front  that sits on the northern edge of the lot with entrances on eastern side connected to small parking lot.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>A large International style single store front  that sits on the northern edge of the lot with entrances on eastern side connected to small parking lot.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3858/14539508658_7ff3916e79_s.jpg">https://farm4.staticflickr.com/3858/14539508658_7ff3916e79_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1957</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>South Eastern Corner of, Jefferson SE and Central SE
+
+ Albuquerque, NM
+
+</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>596.798316</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>15949.50858</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>232</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.593832188895,35.07844942057669,0 -106.5938318506325,35.07839076237953,0 -106.5938285606888,35.0778277544048,0 -106.593572986417,35.07782601258884,0 -106.5935733779705,35.07811673415738,0 -106.5936037959081,35.07811663198807,0 -106.5936033147108,35.07841715699799,0 -106.593832188895,35.07844942057669,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>A brick-sided office/commercial space.  Originally two units with a separate entrance in the rear.  Large single-pane plate glass windows facing Central Avenue with wrought iron protection for the bottom third of the panes.  Large office (30&apos; x 30&apos;) in the front third, with a vault, kitchen, bathrooms and smaller offices in back. Entirely brick facade.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A brick-sided office/commercial space.  Originally two units with a separate entrance in the rear.  Large single-pane plate glass windows facing Central Avenue with wrought iron protection for the bottom third of the panes.  Large office (30' x 30') in the front third, with a vault, kitchen, bathrooms and smaller offices in back. Entirely brick facade.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>A brick-sided office/commercial space.  Originally two units with a separate entrance in the rear.  Large single-pane plate glass windows facing Central Avenue with wrought iron protection for the bottom third of the panes.  Large office (30' x 30') in the front third, with a vault, kitchen, bathrooms and smaller offices in back. Entirely brick facade.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm6.staticflickr.com/5588/14703154786_a7ec669039_s.jpg">https://farm6.staticflickr.com/5588/14703154786_a7ec669039_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1973</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4514 Central Ave E, Albuquerque, NM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>238.065814</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>2304.998415</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>237</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5939137420663,35.07849305138339,0 -106.5939122490616,35.07823301599461,0 -106.5938309309919,35.07823333118663,0 -106.5938324237633,35.07849336748693,0 -106.5939137420663,35.07849305138339,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>A single unit restaurant with a open window dining area on road edges with an international structural style and a moderne unique planed roof that accentuates the northern façade of the building.  Parking for the building is on the south and western side of the building.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A single unit restaurant with a open window dining area on road edges with an international structural style and a moderne unique planed roof that accentuates the northern façade of the building.  Parking for the building is on the south and western side of the building. </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>A single unit restaurant with a open window dining area on road edges with an international structural style and a moderne unique planed roof that accentuates the northern façade of the building.  Parking for the building is on the south and western side of the building.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm3.staticflickr.com/2932/14726149975_056f31584b_s.jpg">https://farm3.staticflickr.com/2932/14726149975_056f31584b_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1948</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4500 Central Ave Southeast
+
+Albuquerque, NM
+
+4500 Central Ave Southeast
+
+Albuquerque, NM
+
+4500 Central Ave Southeast
+
+Albuquerque, NM
+
+4500 Central Ave Southeast
+
+Albuquerque, NM
+
+</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>308.713598</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>5199.069972</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>238</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5939947252873,35.07850164726783,0 -106.5941628100168,35.07851935019977,0 -106.5941611673941,35.0782238143093,0 -106.5939962175608,35.07822430517717,0 -106.5939947252873,35.07850164726783,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>One store, street front commercial building; not freestanding but distinct in structure and appearance.  Stuccoed front; flat roof with brick coping that echoes Territorial Revival style.  Large bank of metal-framed windows maximizes highly visible location; windows reach to two feet above the sidewalk; stucco possibly covering older kickplate</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>One store, street front commercial building; not freestanding but distinct in structure and appearance.  Stuccoed front; flat roof with brick coping that echoes Territorial Revival style.  Large bank of metal-framed windows maximizes highly visible location; windows reach to two feet above the sidewalk; stucco possibly covering older kickplate</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>One store, street front commercial building; not freestanding but distinct in structure and appearance.  Stuccoed front; flat roof with brick coping that echoes Territorial Revival style.  Large bank of metal-framed windows maximizes highly visible location; windows reach to two feet above the sidewalk; stucco possibly covering older kickplate</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3894/14725848902_c96779aa49_s.jpg">https://farm4.staticflickr.com/3894/14725848902_c96779aa49_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1950</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4513 Central Ave E, Albuquerque, NM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>209.121012</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>1969.004659</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>239</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5937188940478,35.0789663588659,0 -106.5938010126298,35.07896757438802,0 -106.5938007172223,35.07875291351051,0 -106.593717798525,35.07874311532605,0 -106.5937188940478,35.0789663588659,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Single-story street-front 4-unit retail building (as originally built; currently set up as 3 units), stucco construction with metal-framed plate-glass windows. Slight setback for entry doors off sidewalk</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Single-story street-front 4-unit retail building (as originally built; currently set up as 3 units), stucco construction with metal-framed plate-glass windows. Slight setback for entry doors off sidewalk</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Single-story street-front 4-unit retail building (as originally built; currently set up as 3 units), stucco construction with metal-framed plate-glass windows. Slight setback for entry doors off sidewalk</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm6.staticflickr.com/5578/14726149575_42876e1233_s.jpg">https://farm6.staticflickr.com/5578/14726149575_42876e1233_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1950</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4515-21 Central Ave NE, Albuquerque, NM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>281.939665</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>4926.560615</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>240</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5937185012998,35.07888621765481,0 -106.593717798525,35.07874311532605,0 -106.5934583163494,35.0787109365078,0 -106.5934340411803,35.07873390235602,0 -106.5934346767412,35.07888559271373,0 -106.5937185012998,35.07888621765481,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>A large International style single store front  that sits on the northern edge of the lot with entrances on eastern side connected to small parking lot.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A large International style single store front  that sits on the northern edge of the lot with entrances on eastern side connected to small parking lot.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>A large International style single store front  that sits on the northern edge of the lot with entrances on eastern side connected to small parking lot.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm3.staticflickr.com/2935/14539507118_ea5bb3944c_s.jpg">https://farm3.staticflickr.com/2935/14539507118_ea5bb3944c_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1950</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>103 Jefferson NE , Albuquerque, NM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>154.593932</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>1475.788823</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>241</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5935794914802,35.07905630940437,0 -106.5935790559801,35.07895244453832,0 -106.5934384343157,35.07895141128708,0 -106.5934413818577,35.07904202743875,0 -106.5935794914802,35.07905630940437,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Single-story 2-unit street-front office building, each unit with small entry courtyard enclosed by relatively unique brickwork panels. Concrete block construction, unknown roof composition, small clerestory window on south unit.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Single-story 2-unit street-front office building, each unit with small entry courtyard enclosed by relatively unique brickwork panels. Concrete block construction, unknown roof composition, small clerestory window on south unit.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Single-story 2-unit street-front office building, each unit with small entry courtyard enclosed by relatively unique brickwork panels. Concrete block construction, unknown roof composition, small clerestory window on south unit.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm3.staticflickr.com/2935/14539507118_ea5bb3944c_s.jpg">https://farm3.staticflickr.com/2935/14539507118_ea5bb3944c_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1956</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>113-17 Jefferson St. NE Albuquerque, NM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>248.934201</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>3826.899131</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>242</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5936300436124,35.07926162121166,0 -106.5936307298615,35.07912050179063,0 -106.5936307360741,35.07911933640553,0 -106.5934087191623,35.0790888849395,0 -106.5934123640257,35.07926616231459,0 -106.5936300436124,35.07926162121166,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>A large International style single office building that sits on the eastern edge of the lot with main entrance on eastern side.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A large International style single office building that sits on the eastern edge of the lot with main entrance on eastern side.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>A large International style single office building that sits on the eastern edge of the lot with main entrance on eastern side.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3878/14539506758_710c7be48a_s.jpg">https://farm4.staticflickr.com/3878/14539506758_710c7be48a_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1954</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>121 Jefferson NE, Albuquerque, NM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>185.966141</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>2161.233945</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>243</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5935668232825,35.07941306934984,0 -106.5935662985915,35.07928408121672,0 -106.5934125850709,35.07928450419986,0 -106.5934131095198,35.07941349234282,0 -106.5935668232825,35.07941306934984,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Two office, street front.  Two entrances in front and in back.  Parking in back with access on north side; south wall is shared with neighboring attached structure.  Primarily international style with modernist patterned brick facade; painted transom windows for accent. Slightly protruding eave on front.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Two office, street front.  Two entrances in front and in back.  Parking in back with access on north side; south wall is shared with neighboring attached structure.  Primarily international style with modernist patterned brick facade; painted transom windows for accent. Slightly protruding eave on front.  </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Two office, street front.  Two entrances in front and in back.  Parking in back with access on north side; south wall is shared with neighboring attached structure.  Primarily international style with modernist patterned brick facade; painted transom windows for accent. Slightly protruding eave on front.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3838/14539506418_4ffe2ee839_s.jpg">https://farm4.staticflickr.com/3838/14539506418_4ffe2ee839_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1954</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>125 Jefferson Ave NE Albuquerque, NM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>209.817726</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>2714.335427</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>244</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5936091512035,35.07954166459315,0 -106.593609762324,35.0794143495657,0 -106.593414174687,35.0794137149086,0 -106.5934135621665,35.07954102996706,0 -106.5936091512035,35.07954166459315,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>A five office, street front with parking in the back (accessed via the building&apos;s south side.  The building is freestanding, surrounded by street/sidewalk/parking on all sides.  Brick piers protruding through a sloped eave echo Territorial Revival style.  Facade is divided into five sections, each identical in door and window placement.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A five office, street front with parking in the back (accessed via the building's south side.  The building is freestanding, surrounded by street/sidewalk/parking on all sides.  Brick piers protruding through a sloped eave echo Territorial Revival style.  Facade is divided into five sections, each identical in door and window placement.  </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>A five office, street front with parking in the back (accessed via the building's south side.  The building is freestanding, surrounded by street/sidewalk/parking on all sides.  Brick piers protruding through a sloped eave echo Territorial Revival style.  Facade is divided into five sections, each identical in door and window placement.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3875/14539706927_6010131069_s.jpg">https://farm4.staticflickr.com/3875/14539706927_6010131069_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1956</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>127 Jefferson St. NE, Albuquerque, NM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>321.225676</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>6133.301453</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>245</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.593625653254,35.07987786822058,0 -106.5936245367208,35.07960852892175,0 -106.5934156282129,35.07960911418306,0 -106.593416744059,35.07987845350984,0 -106.593625653254,35.07987786822058,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Former gas station with 3 bay garage, plus one additional bay added later. Small office is adjacent on the west side with overhanging eaves. Tandem plate glass window on front façade and west façade. Two exterior doors to the restrooms on west side with 1/1 steel casement window between side doors. Evidence of numerous gas pump islands between building and Central sidewalk.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Former gas station with 3 bay garage, plus one additional bay added later. Small office is adjacent on the west side with overhanging eaves. Tandem plate glass window on front façade and west façade. Two exterior doors to the restrooms on west side with 1/1 steel casement window between side doors. Evidence of numerous gas pump islands between building and Central sidewalk.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Former gas station with 3 bay garage, plus one additional bay added later. Small office is adjacent on the west side with overhanging eaves. Tandem plate glass window on front façade and west façade. Two exterior doors to the restrooms on west side with 1/1 steel casement window between side doors. Evidence of numerous gas pump islands between building and Central sidewalk.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3849/14723773714_a56168c12e_s.jpg">https://farm4.staticflickr.com/3849/14723773714_a56168c12e_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1960</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4600 East Central, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>250.650435</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>3353.655014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>246</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5931227410021,35.07822701209712,0 -106.5931329472049,35.07816974073914,0 -106.5931623813794,35.07817061681342,0 -106.5931906613224,35.07809516175831,0 -106.5929850999659,35.07806044363193,0 -106.5929783202783,35.07810434828542,0 -106.5929239508757,35.07809690391895,0 -106.5929233617547,35.0781951327988,0 -106.5931227410021,35.07822701209712,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Three story, International style, Large Retail Facility; brick veneer walls (East, South, West), glass curtain wall (North), street front to Central Ave., Public entry on North and East side of building, Loading Dock on Southern end of structure, Full parking lot on Southern end as well.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Three story, International style, Large Retail Facility; brick veneer walls (East, South, West), glass curtain wall (North), street front to Central Ave., Public entry on North and East side of building, Loading Dock on Southern end of structure, Full parking lot on Southern end as well. </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Three story, International style, Large Retail Facility; brick veneer walls (East, South, West), glass curtain wall (North), street front to Central Ave., Public entry on North and East side of building, Loading Dock on Southern end of structure, Full parking lot on Southern end as well.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3923/14746015763_43eeae88d9_s.jpg">https://farm4.staticflickr.com/3923/14746015763_43eeae88d9_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1969</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4616 Central Ave. SE, Albuquerque, NM
+
+87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>549.794091</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>18402.057454</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>247</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5928331968066,35.07836333175243,0 -106.5928749777992,35.07836891098787,0 -106.5929222788572,35.07837549309713,0 -106.5929244551714,35.07801288786161,0 -106.5924064652176,35.07801149384515,0 -106.5924141760627,35.0783099746156,0 -106.5927704615151,35.07835298724856,0 -106.5928331968066,35.07836333175243,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>The property is a tire and auto care center. The building is facing west, it is single story building International style building; brick venue wall on the Southeast corner of the building. There are glass curtain walls on the (South and West corner of the building. The door of the building is facing west and is toward Jefferson Ave, this is the public entrance the Northwest portion of the building have large automobile service bays.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>The property is a tire and auto care center. The building is facing west, it is single story building International style building; brick venue wall on the Southeast corner of the building. There are glass curtain walls on the (South and West corner of the building. The door of the building is facing west and is toward Jefferson Ave, this is the public entrance the Northwest portion of the building have large automobile service bays.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>The property is a tire and auto care center. The building is facing west, it is single story building International style building; brick venue wall on the Southeast corner of the building. There are glass curtain walls on the (South and West corner of the building. The door of the building is facing west and is toward Jefferson Ave, this is the public entrance the Northwest portion of the building have large automobile service bays.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm6.staticflickr.com/5553/14539504828_3ff845c83d_s.jpg">https://farm6.staticflickr.com/5553/14539504828_3ff845c83d_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1956</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4601 Central Ave NE Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>522.815346</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>12100.548118</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>248</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5930316411689,35.07919851383843,0 -106.5930316924484,35.07864572095461,0 -106.5928308736496,35.07864570824761,0 -106.5928308210141,35.07919850118275,0 -106.5930316411689,35.07919851383843,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Non-historic slump block business building built to street level with parking on south side. Back half of the building is CMU.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> Non-historic slump block business building built to street level with parking on south side. Back half of the building is CMU. </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Non-historic slump block business building built to street level with parking on south side. Back half of the building is CMU.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm6.staticflickr.com/5582/14539705647_1142075195_s.jpg">https://farm6.staticflickr.com/5582/14539705647_1142075195_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1975</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>120 N. Jefferson, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>247.913085</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>3671.239777</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>253</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.593241943696,35.07955072392662,0 -106.5932413910504,35.07941633352982,0 -106.5929907773384,35.07941703050499,0 -106.5929913306933,35.07955142179885,0 -106.593241943696,35.07955072392662,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>The property is a single story International style with Spanish Revival overtones, office building that is constructed with cinderblock; the building was covered in a insulation that makes it look like it is adobe for energy efficiency. The building faces east and has the entrance</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>The property is a single story International style with Spanish Revival overtones, office building that is constructed with cinderblock; the building was covered in a insulation that makes it look like it is adobe for energy efficiency. The building faces east and has the entrance</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>The property is a single story International style with Spanish Revival overtones, office building that is constructed with cinderblock; the building was covered in a insulation that makes it look like it is adobe for energy efficiency. The building faces east and has the entrance</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3897/14539704987_a2d38394c1_s.jpg">https://farm4.staticflickr.com/3897/14539704987_a2d38394c1_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1982</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4600 Copper Ave NE Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>230.267875</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>2941.120668</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>254</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5932436893746,35.079885747296,0 -106.5932430369319,35.07976268161453,0 -106.5930386445658,35.0797623051515,0 -106.5930366830805,35.07984817421146,0 -106.5930078133083,35.07988260165494,0 -106.5930473915364,35.07991111090409,0 -106.5930809477686,35.07988716551596,0 -106.5932436893746,35.079885747296,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>New Mexico Pitched Roof Revival Style, Single Floor, CMU Block Construction painted in a light brown color, Red Corrugated Steel  Roof, windows and doors are closed with security bars on the outside &quot;L&quot; shaped building opened to parking lot that is on the North‐  East side of the lot, Site surrounded around a fence, West and Southern edges have doors that open to side areas (not intended for  public use), there six a car port for six vehicles</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>New Mexico Pitched Roof Revival Style, Single Floor, CMU Block Construction painted in a light brown color, Red Corrugated Steel
+
+Roof, windows and doors are closed with security bars on the outside "L" shaped building opened to parking lot that is on the North‐
+
+East side of the lot, Site surrounded around a fence, West and Southern edges have doors that open to side areas (not intended for
+
+public use), there six a car port for six vehicles</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>New Mexico Pitched Roof Revival Style, Single Floor, CMU Block Construction painted in a light brown color, Red Corrugated Steel
+
+Roof, windows and doors are closed with security bars on the outside "L" shaped building opened to parking lot that is on the North‐
+
+East side of the lot, Site surrounded around a fence, West and Southern edges have doors that open to side areas (not intended for
+
+public use), there six a car port for six vehicles</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3915/14539504128_8582c88d7c_s.jpg">https://farm4.staticflickr.com/3915/14539504128_8582c88d7c_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1962</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>145 Madison St. NE, Albuquerque, NM
+
+87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>385.593599</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>4787.703414</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>257</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5928090583137,35.08008552725582,0 -106.5928092746936,35.07988030965004,0 -106.5927035460666,35.07988059879715,0 -106.5927033785178,35.0798406619292,0 -106.5924840334749,35.07984128151517,0 -106.5924826754577,35.07993287375233,0 -106.5925322893644,35.07993273309226,0 -106.5925323520861,35.07994995231609,0 -106.5925776176234,35.07994975660076,0 -106.5925766863684,35.07993403876586,0 -106.5926976807988,35.07993512791681,0 -106.5926966623216,35.08008723122472,0 -106.5928090583137,35.08008552725582,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Territorial Revival Style courtyard office building set back from the street for one line of parking.  Property has shared central pedestrian courtyard. Office configuration is one health office per each of the two parallel wings.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Territorial Revival Style courtyard office building set back from the street for one line of parking.  Property has shared central pedestrian courtyard. Office configuration is one health office per each of the two parallel wings.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Territorial Revival Style courtyard office building set back from the street for one line of parking.  Property has shared central pedestrian courtyard. Office configuration is one health office per each of the two parallel wings.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3870/14703150156_6718c8a5e7_s.jpg">https://farm4.staticflickr.com/3870/14703150156_6718c8a5e7_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1955</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>139 N Madison, Albuquerque, NM 87108
+
+139 N Madison 
+
+Albuquerque, NM 87108
+
+139 N Madison 
+
+Albuquerque, NM 87108
+
+139 N Madison, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>173.657247</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>1577.176886</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>258</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5926980561469,35.07981141671608,0 -106.5926976846871,35.07974035932993,0 -106.5924940603939,35.07974107882594,0 -106.5924944305814,35.07981213623982,0 -106.5926980561469,35.07981141671608,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Square Brick Building, International Style, Office Building Street Front, Single Floor, Flat hidden roof, windows are secure and closed at  all times, Visitor Parking on North Part of the site. Private (Key Entry) Parking along the Western side of the Site with entrances and  exits along both the North and South side of the property. A security fence goes along the Western edge of the property, Southern  edge of the property, Eastern side of the building and Northern side of the building. Doors are located on all sides of the building with  the main entry for the public on the Northeast corner of the building.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Square Brick Building, International Style, Office Building Street Front, Single Floor, Flat hidden roof, windows are secure and closed at
+
+all times, Visitor Parking on North Part of the site. Private (Key Entry) Parking along the Western side of the Site with entrances and
+
+exits along both the North and South side of the property. A security fence goes along the Western edge of the property, Southern
+
+edge of the property, Eastern side of the building and Northern side of the building. Doors are located on all sides of the building with
+
+the main entry for the public on the Northeast corner of the building.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Square Brick Building, International Style, Office Building Street Front, Single Floor, Flat hidden roof, windows are secure and closed at
+
+all times, Visitor Parking on North Part of the site. Private (Key Entry) Parking along the Western side of the Site with entrances and
+
+exits along both the North and South side of the property. A security fence goes along the Western edge of the property, Southern
+
+edge of the property, Eastern side of the building and Northern side of the building. Doors are located on all sides of the building with
+
+the main entry for the public on the Northeast corner of the building.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm6.staticflickr.com/5565/14723771554_e817bcfb98_s.jpg">https://farm6.staticflickr.com/5565/14723771554_e817bcfb98_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1984</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>131 Madison St, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>272.687554</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>4529.900116</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>259</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5926389739412,35.07942583507951,0 -106.5926389704872,35.07920885259286,0 -106.5924474440057,35.07920885442857,0 -106.5924474469521,35.07942583693446,0 -106.5926389739412,35.07942583507951,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>One story, international style strip mall located on historic Route 66. Street front façade predominately glazing; inset entries to stores. Small car park to the front and larger car park to the rear.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>One story, international style strip mall located on historic Route 66. Street front façade predominately glazing; inset entries to stores. Small car park to the front and larger car park to the rear.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>One story, international style strip mall located on historic Route 66. Street front façade predominately glazing; inset entries to stores. Small car park to the front and larger car park to the rear.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm6.staticflickr.com/5568/14703149226_e71fb30444_s.jpg">https://farm6.staticflickr.com/5568/14703149226_e71fb30444_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1955</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4710 Central Ave, Albuquerque, NM 87108
+
+4710 Central Ave., Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>896.155841</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>49550.952783</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>260</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5922240489754,35.0781650527805,0 -106.5922233825253,35.07756323982851,0 -106.5914090378546,35.07756128600924,0 -106.5914113246905,35.07807717867183,0 -106.5922240489754,35.0781650527805,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>One story, international style strip mall located on historic Route 66. Street front façade predominately glazing; inset entries to stores. Small car park to the front and larger car park to the rear.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>One story, international style strip mall located on historic Route 66. Street front façade predominately glazing; inset entries to stores. Small car park to the front and larger car park to the rear.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>One story, international style strip mall located on historic Route 66. Street front façade predominately glazing; inset entries to stores. Small car park to the front and larger car park to the rear.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3890/14540021947_74ff4b20ea_s.jpg">https://farm4.staticflickr.com/3890/14540021947_74ff4b20ea_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1955</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4710 Central Ave, Albuquerque, NM 87108
+
+4710 Central Ave, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>630.109351</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>23859.1555</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>267</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5912421430724,35.0780724085237,0 -106.5912428946218,35.0775342659357,0 -106.590813390749,35.0775354398486,0 -106.5908154063163,35.07801990599466,0 -106.5912421430724,35.0780724085237,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>One story, international style strip mall located on historic Route 66. Street front façade predominately glazing; inset entries to stores. Small car park to the front and larger car park to the rear.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>One story, international style strip mall located on historic Route 66. Street front façade predominately glazing; inset entries to stores. Small car park to the front and larger car park to the rear.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>One story, international style strip mall located on historic Route 66. Street front façade predominately glazing; inset entries to stores. Small car park to the front and larger car park to the rear.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3907/14539828470_aac02719ee_s.jpg">https://farm4.staticflickr.com/3907/14539828470_aac02719ee_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1955</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4710 Central Ave, Albuquerque, NM 87108
+
+4710 Central Ave
+
+Albuquerque, NM 87108
+
+4710 Central Ave, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>463.902866</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>10322.987332</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>268</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5908154063163,35.07801990599466,0 -106.590813390749,35.0775354398486,0 -106.5906121350566,35.07753932929674,0 -106.5906141645035,35.07799621534524,0 -106.5908154063163,35.07801990599466,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Strip mall located on historic Route 66. Store is set back from the street to allow for a small amount of parking. CMU Block building with structural steel interior, storefront glazing. This building is a setback three store building.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Strip mall located on historic Route 66. Store is set back from the street to allow for a small amount of parking. CMU Block building with structural steel interior, storefront glazing. This building is a setback three store building.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Strip mall located on historic Route 66. Store is set back from the street to allow for a small amount of parking. CMU Block building with structural steel interior, storefront glazing. This building is a setback three store building.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3898/14726267662_41691c6b7f_s.jpg">https://farm4.staticflickr.com/3898/14726267662_41691c6b7f_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1955</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4716 Central Ave. SE, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>450.503219</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>9997.508251</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>269</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5906141645035,35.07799621534524,0 -106.5906085304262,35.07753013644337,0 -106.5904075900618,35.07753452886546,0 -106.5904069794949,35.07796765761636,0 -106.5906141645035,35.07799621534524,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>One story, eclectic commercial building with mansard style roof. Predominately brick on exterior with glazing strips.  Drive thru to the west. Car parking to the north, east and south.   One story, eclectic commercial building with mansard style roof. Predominately brick on exterior with glazing strips.  Drive thru to the west. Car parking to the north, east and south.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>One story, eclectic commercial building with mansard style roof. Predominately brick on exterior with glazing strips.
+
+Drive thru to the west. Car parking to the north, east and south. 
+
+One story, eclectic commercial building with mansard style roof. Predominately brick on exterior with glazing strips.
+
+Drive thru to the west. Car parking to the north, east and south. 
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>One story, eclectic commercial building with mansard style roof. Predominately brick on exterior with glazing strips.
+
+Drive thru to the west. Car parking to the north, east and south. 
+
+One story, eclectic commercial building with mansard style roof. Predominately brick on exterior with glazing strips.
+
+Drive thru to the west. Car parking to the north, east and south. 
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3892/14746013293_998e9d64fe_s.jpg">https://farm4.staticflickr.com/3892/14746013293_998e9d64fe_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1974-1980</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4701 Central Ave, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>306.40908</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>5793.978834</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>270</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5922066194211,35.07895407864235,0 -106.5922058393037,35.07876732739692,0 -106.5919212168509,35.07876812957468,0 -106.5919219952483,35.07895488176771,0 -106.5922066194211,35.07895407864235,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Freestanding business set back from the streets edge. Parking along north, east, and south sides of the property, with a drive thru lane on the west end.  This building is a freestanding setback single store.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Freestanding business set back from the streets edge. Parking along north, east, and south sides of the property, with a drive thru lane on the west end.  This building is a freestanding setback single store.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Freestanding business set back from the streets edge. Parking along north, east, and south sides of the property, with a drive thru lane on the west end.  This building is a freestanding setback single store.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm3.staticflickr.com/2895/14725843122_9c6a0169cb_s.jpg">https://farm3.staticflickr.com/2895/14725843122_9c6a0169cb_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1990</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4717 Central Ave. SE, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>280.874552</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>4648.23272</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>271</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5917852454567,35.07893236971467,0 -106.5917842496381,35.07869338539409,0 -106.5916058157929,35.07869388813744,0 -106.5916068121865,35.0789328724588,0 -106.5917852454567,35.07893236971467,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>The property is clad in a multicolored bricks in a random pattern. The colors of the brick used incorporate the local vernacular color schemes of earth tones. These are extensive spans of 6x6 glass block windows with steel frames. Freestanding community building.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>The property is clad in a multicolored bricks in a random pattern. The colors of the brick used incorporate the local vernacular color schemes of earth tones. These are extensive spans of 6x6 glass block windows with steel frames. Freestanding community building.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>The property is clad in a multicolored bricks in a random pattern. The colors of the brick used incorporate the local vernacular color schemes of earth tones. These are extensive spans of 6x6 glass block windows with steel frames. Freestanding community building.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm6.staticflickr.com/5563/14746012923_dedd23bc94_s.jpg">https://farm6.staticflickr.com/5563/14746012923_dedd23bc94_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1979-82</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>131 Monroe St. NE, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>486.902429</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>12948.205333</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>272</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5916915951605,35.08006126744549,0 -106.5918395667983,35.08006084996768,0 -106.5918396664144,35.08008470054007,0 -106.5921080616514,35.08008752183403,0 -106.5921079465958,35.0800600928309,0 -106.5921833832658,35.08005988025419,0 -106.592174350519,35.07998119778045,0 -106.5921479689344,35.07991687411101,0 -106.5921143742434,35.07986211154789,0 -106.5920706439213,35.07981214755716,0 -106.5920109910106,35.07977057585799,0 -106.5919499371582,35.07974093436734,0 -106.5918764098049,35.07985085654358,0 -106.5916892694395,35.07985138380111,0 -106.5916915951605,35.08006126744549,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>Street front 2 store commercial buildings with storefront glazing</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Street front 2 store commercial buildings with storefront glazing </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Street front 2 store commercial buildings with storefront glazing</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm3.staticflickr.com/2935/14722968031_920a8872a6_s.jpg">https://farm3.staticflickr.com/2935/14722968031_920a8872a6_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1950</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4805 &amp; 4807 Central Ave.  NE, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>305.220035</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>4698.692725</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>278</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5911469404197,35.07870173700775,0 -106.5911469621643,35.07846515704961,0 -106.5909316413709,35.07844093612748,0 -106.5909276615122,35.07860027284227,0 -106.5910309972816,35.0786114302075,0 -106.591031275731,35.07867821310868,0 -106.5910974655921,35.07868756681783,0 -106.5910963647774,35.07870188057974,0 -106.5911469404197,35.07870173700775,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>One story commercial building on corner lot supported by a parking structure south of the building. The commercial restaurant is facing south west, with the sidewalk running along the west. The property is zoned CCR-3 and remains the original size since it was plated prior to 1944.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>One story commercial building on corner lot supported by a parking structure south of the building. The commercial restaurant is facing south west, with the sidewalk running along the west. The property is zoned CCR-3 and remains the original size since it was plated prior to 1944.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>One story commercial building on corner lot supported by a parking structure south of the building. The commercial restaurant is facing south west, with the sidewalk running along the west. The property is zoned CCR-3 and remains the original size since it was plated prior to 1944.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3859/14539702547_b86b8cb920_s.jpg">https://farm4.staticflickr.com/3859/14539702547_b86b8cb920_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1957</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4801 Central Avenue NE, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>165.345988</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>1642.688475</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>279</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5911735247661,35.07883713771925,0 -106.5911734330021,35.07881519486263,0 -106.5912304944051,35.07881505210807,0 -106.5912304985304,35.07874922013638,0 -106.5911683580099,35.07871121897911,0 -106.5910917627665,35.0787114344549,0 -106.5910899575643,35.07883546524379,0 -106.5911735247661,35.07883713771925,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>Rectangular concrete block structure with raised vertical decorative blocks on south and west walls that sits on the northwest corner of the lot. The style is faintly International with regional overtones. The building also consists of a later concrete block addition on the east side and a small extended, wooden entryway with tile roof. All the windows are single vertical panes with decorative security bars.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rectangular concrete block structure with raised vertical decorative blocks on south and west walls that sits on the northwest corner of the lot. The style is faintly International with regional overtones. The building also consists of a later concrete block addition on the east side and a small extended, wooden entryway with tile roof. All the windows are single vertical panes with decorative security bars. </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Rectangular concrete block structure with raised vertical decorative blocks on south and west walls that sits on the northwest corner of the lot. The style is faintly International with regional overtones. The building also consists of a later concrete block addition on the east side and a small extended, wooden entryway with tile roof. All the windows are single vertical panes with decorative security bars.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3903/14703148006_f8d81f3a09_s.jpg">https://farm4.staticflickr.com/3903/14703148006_f8d81f3a09_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1983</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>112 Monroe St. NE , Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>197.67967</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>1840.841625</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>280</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5912130860244,35.07913977833724,0 -106.5912127166693,35.07905168702678,0 -106.5910514004423,35.07905214137627,0 -106.5910515827922,35.07909602621016,0 -106.590990069978,35.07909524513779,0 -106.5909902445723,35.07913976457138,0 -106.5912130860244,35.07913977833724,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>International style, street front 1-office building type</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>International style, street front 1-office building type</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>International style, street front 1-office building type</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm3.staticflickr.com/2898/14539481010_9713eb230e_s.jpg">https://farm3.staticflickr.com/2898/14539481010_9713eb230e_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1954</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>120 Monroe St NE, AlbuquerqueE, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>129.273721</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>854.677491</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>281</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5912304528296,35.07927716216199,0 -106.5912304590975,35.07922624344631,0 -106.5910764704397,35.07922622969426,0 -106.5910764629802,35.07927714843397,0 -106.5912304528296,35.07927716216199,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>One story commercial building setback on commercial lot on original plat size dated 1944 (est.). The building shares a common wall with the business located directly south of it and has an attached iron fence shared with the business to the north. The lot has two or three parking spaces with a drive through to the back of the lot.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>One story commercial building setback on commercial lot on original plat size dated 1944 (est.). The building shares a common wall with the business located directly south of it and has an attached iron fence shared with the business to the north. The lot has two or three parking spaces with a drive through to the back of the lot.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>One story commercial building setback on commercial lot on original plat size dated 1944 (est.). The building shares a common wall with the business located directly south of it and has an attached iron fence shared with the business to the north. The lot has two or three parking spaces with a drive through to the back of the lot.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm3.staticflickr.com/2924/14539500539_33e556fe06_s.jpg">https://farm3.staticflickr.com/2924/14539500539_33e556fe06_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1954</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>124 Monroe Street NE, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>118.652958</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>806.690956</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>282</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5910560614415,35.07933547921167,0 -106.5911837409021,35.07933512059261,0 -106.5911835004165,35.07927715807727,0 -106.5910558210462,35.07927751669264,0 -106.5910560614415,35.07933547921167,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Small faintly Spanish-Pueblo Revival style office building set back from road to allow for parking in front. Structure has a linear layout along lot, abutting the building to the north, while there is an alley between it and building to south. There is a full front porch and garden box decorations on either side of the entry. Also present are two large picture windows and a side entrance.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Small faintly Spanish-Pueblo Revival style office building set back from road to allow for parking in front. Structure has a linear layout along lot, abutting the building to the north, while there is an alley between it and building to south. There is a full front porch and garden box decorations on either side of the entry. Also present are two large picture windows and a side entrance. </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Small faintly Spanish-Pueblo Revival style office building set back from road to allow for parking in front. Structure has a linear layout along lot, abutting the building to the north, while there is an alley between it and building to south. There is a full front porch and garden box decorations on either side of the entry. Also present are two large picture windows and a side entrance.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm6.staticflickr.com/5567/14726143035_0c7747f004_s.jpg">https://farm6.staticflickr.com/5567/14726143035_0c7747f004_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1952</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>126 Monroe St. NE , Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>128.738319</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>876.318973</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>283</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5911968130881,35.07941454171968,0 -106.5911965947263,35.07936084243714,0 -106.5910468832319,35.07936125366021,0 -106.5910471014956,35.07941495294674,0 -106.5911968130881,35.07941454171968,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Office building in the international style, setback about 20 feet for parking.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Office building in the international style, setback about 20 feet for parking. </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Office building in the international style, setback about 20 feet for parking.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td>tps://farm4.staticflickr.com/3925/14726142925_337a782188_s.jpg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1955</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>128 Monroe St NE,Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>209.130103</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>2730.298679</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>283</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.591192763616,35.07955192342988,0 -106.5911912911808,35.07941323507887,0 -106.5910106970457,35.07941453063032,0 -106.5910121691752,35.07955321899508,0 -106.591192763616,35.07955192342988,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>One story commercial building on corner lot. The building has a u-shape to it with a small courtyard on the south side which is enclosed by chain-link fencing. The footprint of the building is one large square on the property with parking surrounding it. There is alley access on the east side of the building. The plat was established prior to 1944 as referenced by the City of Albuquerque Sanborn Map.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>One story commercial building on corner lot. The building has a u-shape to it with a small courtyard on the south side which is enclosed by chain-link fencing. The footprint of the building is one large square on the property with parking surrounding it. There is alley access on the east side of the building. The plat was established prior to 1944 as referenced by the City of Albuquerque Sanborn Map.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>One story commercial building on corner lot. The building has a u-shape to it with a small courtyard on the south side which is enclosed by chain-link fencing. The footprint of the building is one large square on the property with parking surrounding it. There is alley access on the east side of the building. The plat was established prior to 1944 as referenced by the City of Albuquerque Sanborn Map.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm3.staticflickr.com/2936/14539702017_58eff15723_s.jpg&quot;">https://farm3.staticflickr.com/2936/14539702017_58eff15723_s.jpg"</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1957</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>142 Monroe St NE, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>400.698123</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>10237.597136</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>284</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5911827344063,35.08003880099818,0 -106.5911816079347,35.07976809457148,0 -106.5908624541848,35.07976899140891,0 -106.5908607685132,35.08006117209375,0 -106.5911523741199,35.08006393001568,0 -106.5911827344063,35.08003880099818,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>The single story, two-storefront business block building.   Stucco with minimal storefront glazing;  metal awnings.  Signigicant modifications to exterior finish, fenestration and facade.  Large ‘historic ghost sign’ steel frame on roof of 4811 unit.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>The single story, two-storefront business block building.   Stucco with minimal storefront glazing;  metal awnings.  Signigicant modifications to exterior finish, fenestration and facade.  Large ‘historic ghost sign’ steel frame on roof of 4811 unit. </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>The single story, two-storefront business block building.   Stucco with minimal storefront glazing;  metal awnings.  Signigicant modifications to exterior finish, fenestration and facade.  Large ‘historic ghost sign’ steel frame on roof of 4811 unit.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm6.staticflickr.com/5555/14540207079_b8a51bb5c3_s.jpg">https://farm6.staticflickr.com/5555/14540207079_b8a51bb5c3_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1955</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4809-4811 Central Ave. SE, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>417.324204</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>6742.743328</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>295</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5909316413709,35.07844093612748,0 -106.5907576345931,35.07842432400744,0 -106.5907584877363,35.07862944072272,0 -106.5907921467079,35.07863029997269,0 -106.5907912804399,35.07870090191407,0 -106.5908127008602,35.07869895199309,0 -106.5908126918703,35.07879433487878,0 -106.5908126856195,35.07886499470099,0 -106.5909230957087,35.07886500035158,0 -106.5909316413709,35.07844093612748,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>International Style 4  Store Street Front Commercial Building with front glass curtain walls, thin wide brick pilasters, brick cornice, and metal kick plate as well as a cantilevered hood on street frontage. Used by somewhat thriving businesses and neighborhood groups</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>International Style 4  Store Street Front Commercial Building with front glass curtain walls, thin wide brick pilasters, brick cornice, and metal kick plate as well as a cantilevered hood on street frontage. Used by somewhat thriving businesses and neighborhood groups</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>International Style 4  Store Street Front Commercial Building with front glass curtain walls, thin wide brick pilasters, brick cornice, and metal kick plate as well as a cantilevered hood on street frontage. Used by somewhat thriving businesses and neighborhood groups</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm6.staticflickr.com/5587/14539480520_8da4a591ef_s.jpg">https://farm6.staticflickr.com/5587/14539480520_8da4a591ef_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1955</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>4809-4811 Central Ave. SE, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>341.999257</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>7165.823977</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>296</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5907584877363,35.07862944072272,0 -106.5907576345931,35.07842432400744,0 -106.5904784902785,35.0783974354759,0 -106.5904325682961,35.07839756961486,0 -106.5904333813819,35.078593145938,0 -106.5907584877363,35.07862944072272,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>International Style Mid Century Modern business block building containing one commercial office unit in a slot-building configuration (25’x100’ deep). Framed front facade with concrete masonry structure protruding beyond the full facade curtain wall, half of which is glazed and half is clad in a highly pigmented (turquoise) tile. Red brick site walls enclose front patio created by ~14’ setback.  Notable yet humble modern building</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>International Style Mid Century Modern business block building containing one commercial office unit in a slot-building configuration (25’x100’ deep). Framed front facade with concrete masonry structure protruding beyond the full facade curtain wall, half of which is glazed and half is clad in a highly pigmented (turquoise) tile. Red brick site walls enclose front patio created by ~14’ setback.  Notable yet humble modern building </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>International Style Mid Century Modern business block building containing one commercial office unit in a slot-building configuration (25’x100’ deep). Framed front facade with concrete masonry structure protruding beyond the full facade curtain wall, half of which is glazed and half is clad in a highly pigmented (turquoise) tile. Red brick site walls enclose front patio created by ~14’ setback.  Notable yet humble modern building</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3849/14722967191_5aecfb8e9f_s.jpg">https://farm4.staticflickr.com/3849/14722967191_5aecfb8e9f_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1955</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>117 Quincy St NE, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>247.75628</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>2472.658618</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>297</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5908126709566,35.07900237697842,0 -106.5908126801907,35.07893369526734,0 -106.590482394257,35.07893366463792,0 -106.590482384721,35.0790023454587,0 -106.5908126709566,35.07900237697842,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>Small neighborhood commercial building, currently for lease, international style, brick façade, CMU walls around back and side, metal cornice or flashing</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Small neighborhood commercial building, currently for lease, international style, brick façade, CMU walls around back and side, metal cornice or flashing</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Small neighborhood commercial building, currently for lease, international style, brick façade, CMU walls around back and side, metal cornice or flashing</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm6.staticflickr.com/5555/14539480340_06a0c3ff55_s.jpg">https://farm6.staticflickr.com/5555/14539480340_06a0c3ff55_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1958</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>119 Quincy NE, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>204.536526</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>2199.574863</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>298</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5906341140169,35.07913974530519,0 -106.5906337562419,35.07905527394311,0 -106.5903948712332,35.07905595618443,0 -106.5903952287618,35.07914042755652,0 -106.5906341140169,35.07913974530519,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>Stand-alone squat street-front office building of simple rectilinear design with unaccented side and back walls of pale yellow stucco.  Façade is largely unadorned, made of pale yellow stucco--only significant accents are a rectangular configuration of yellow brick facing outlining the entire building front (and forming a shallow ledge at the base of the wall) and two simple rectangular horizontal windows piercing each side of the façade about two-thirds of the way above ground level.  Front also includes red metal, window-less door that appears to function strictly as an egress as there are no handles or key holes accessible from the outside.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Stand-alone squat street-front office building of simple rectilinear design with unaccented side and back walls of pale yellow stucco.  Façade is largely unadorned, made of pale yellow stucco--only significant accents are a rectangular configuration of yellow brick facing outlining the entire building front (and forming a shallow ledge at the base of the wall) and two simple rectangular horizontal windows piercing each side of the façade about two-thirds of the way above ground level.  Front also includes red metal, window-less door that appears to function strictly as an egress as there are no handles or key holes accessible from the outside.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Stand-alone squat street-front office building of simple rectilinear design with unaccented side and back walls of pale yellow stucco.  Façade is largely unadorned, made of pale yellow stucco--only significant accents are a rectangular configuration of yellow brick facing outlining the entire building front (and forming a shallow ledge at the base of the wall) and two simple rectangular horizontal windows piercing each side of the façade about two-thirds of the way above ground level.  Front also includes red metal, window-less door that appears to function strictly as an egress as there are no handles or key holes accessible from the outside.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm4.staticflickr.com/3868/14539480210_589cb8cd41_s.jpg">https://farm4.staticflickr.com/3868/14539480210_589cb8cd41_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1956</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>123 Quincy, Albuquerque, NM  87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>261.172109</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>3306.05076</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>299</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5904263478281,35.07941449495903,0 -106.5907478208875,35.07941359035041,0 -106.5907474287325,35.07931924412891,0 -106.5904259560186,35.0793201478217,0 -106.5904263478281,35.07941449495903,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>Building seems vacant with security garage door over storefront with spray painted pictures, either vandalism or haphazard mural</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Building seems vacant with security garage door over storefront with spray painted pictures, either vandalism or haphazard mural </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>Building seems vacant with security garage door over storefront with spray painted pictures, either vandalism or haphazard mural</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm3.staticflickr.com/2928/14540360149_bb6c6f1c4a_s.jpg">https://farm3.staticflickr.com/2928/14540360149_bb6c6f1c4a_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1952</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>135 Quincy NE, Albuquerque, NM 87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>201.851424</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>2546.43422</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>300</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5904286502534,35.07968925935379,0 -106.5905980849467,35.07968976492092,0 -106.5905986936159,35.0795518876359,0 -106.5904292581371,35.07955138297995,0 -106.5904286502534,35.07968925935379,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>L-shaped stand-alone non-descript office building set back some from the street with a very small parking lot in northeastern quadrant of property.  Mostly pale pink/salmon stucco construction with rectangular areas along northern, southern, and western walls faced with white bricks set in alternating pattern of flush against wall surface vs. recessed, creating eye-catching visual, textual effect of light and shadow.  Series of cubes and rectilinear planes.  Cantilevered roof projecting from northeastern part of structure supported by single brick pier.  Building is capped by a stucco eave projecting approximately two feet outward faced by an irregularly perforated silver-colored metal band.</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>L-shaped stand-alone non-descript office building set back some from the street with a very small parking lot in northeastern quadrant of property.  Mostly pale pink/salmon stucco construction with rectangular areas along northern, southern, and western walls faced with white bricks set in alternating pattern of flush against wall surface vs. recessed, creating eye-catching visual, textual effect of light and shadow.  Series of cubes and rectilinear planes.  Cantilevered roof projecting from northeastern part of structure supported by single brick pier.  Building is capped by a stucco eave projecting approximately two feet outward faced by an irregularly perforated silver-colored metal band.</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Text</td>
+
+<td>L-shaped stand-alone non-descript office building set back some from the street with a very small parking lot in northeastern quadrant of property.  Mostly pale pink/salmon stucco construction with rectangular areas along northern, southern, and western walls faced with white bricks set in alternating pattern of flush against wall surface vs. recessed, creating eye-catching visual, textual effect of light and shadow.  Series of cubes and rectilinear planes.  Cantilevered roof projecting from northeastern part of structure supported by single brick pier.  Building is capped by a stucco eave projecting approximately two feet outward faced by an irregularly perforated silver-colored metal band.</td>
+
+</tr>
+
+<tr>
+
+<td>Image</td>
+
+<td><a target="_blank" href="https://farm3.staticflickr.com/2895/14746900703_e27cb615b7_s.jpg">https://farm3.staticflickr.com/2895/14746900703_e27cb615b7_s.jpg</a></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Buil</td>
+
+<td>1960-1961</td>
+
+</tr>
+
+<tr>
+
+<td>Headline</td>
+
+<td>145 Quincy, Albuquerque, NM  87108</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>375.234681</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>6474.634678</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RefNumber</td>
+
+<td>301</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-106.5907900452458,35.08007854349939,0 -106.5907868830988,35.07987629513701,0 -106.5904375313917,35.07987155291182,0 -106.5904369886442,35.08002038502879,0 -106.5905240343286,35.08002109464542,0 -106.5905227829231,35.07999915535902,0 -106.5906179526856,35.07999984159517,0 -106.5906171179399,35.08007807532069,0 -106.5907900452458,35.08007854349939,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
