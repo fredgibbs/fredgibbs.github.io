@@ -19,6 +19,16 @@
   <!-- when the body element finishes loading, run our initialize function (in our loadOSM.js file) -->
   <body onload="initialize()">
 
+  <style>
+  .range {
+    position:absolute;
+    width:100%;
+    }
+  .leaflet-top .leaflet-control-zoom {
+    top:20px;
+    }
+  </style>
+
   <script type="text/javascript">
 
       function popUp(f,l){    
@@ -33,13 +43,12 @@
 
        // using the leaflet library we loaded above (referenced by L)
         var terrain = new L.StamenTileLayer("toner-lite");
+        var range = document.getElementById('range');
+
+
 
         var osm = L.tileLayer(
-         // 'http://{s}.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png', 
-         
-         // replace the below link with a working mapbox project ID;
-        // this is the old one you gave me, which either is not public, or deleted.
-            'http://{s}.tiles.mapbox.com/v3/jjohns22.j1mlgjc8/{z}/{x}/{y}.png',
+          'http://{s}.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png',          
         {
             attribution: 'digital-mapping-2014',
             subdomains: ['otile1','otile2','otile3','otile4']
@@ -73,9 +82,30 @@
 
         L.control.layers(baseMaps, overlayMaps).addTo(map);
 
+        var imageUrl = 'cropped-topo.jpg',
+        imageBounds = [[35.25, -106.75], [35.0, -106.5]];
+        var myImage = L.imageOverlay(imageUrl, imageBounds, {opacity:1}).addTo(map);
+
+        console.log(myImage);
+
         map.on('overlayadd',function(a){
           map.fitBounds(a.layer.getBounds());
         });
+
+
+        function clip() {
+          var nw = map.containerPointToLayerPoint([0, 0]),
+              se = map.containerPointToLayerPoint(map.getSize()),
+              clipX = nw.x + (se.x - nw.x) * range.value;
+
+          osm.getContainer().style.clip = 'rect(' + [nw.y, clipX, se.y, nw.x].join('px,') + 'px)';
+        }
+
+        range['oninput' in range ? 'oninput' : 'onchange'] = clip;
+        map.on('move', clip);
+
+
+        clip();
 
 
   }
@@ -84,5 +114,7 @@
 
 
     <div id="map"></div>
+    <input id='range' class='range' type='range' min='0' max='1.0' step='any' />
+
   </body>
 </html>
