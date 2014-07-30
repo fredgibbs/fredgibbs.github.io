@@ -21,7 +21,7 @@
 
   <script type="text/javascript">
 
-      function popUp(f,l){    
+      function popUp(f,l){
             l.bindPopup("<img src='" + f.properties.Img_URL + "' />");
         }
     
@@ -29,10 +29,14 @@
       function initialize(){
 
         // create a new map object, and set the view to 3rd and central and zoom
-        var map = L.map('map').setView([35.084415, -106.650416], 16);
+        var map = L.map('map', {maxZoom:22}).setView([35.084415, -106.650416], 16);
 
        // using the leaflet library we loaded above (referenced by L)
         var terrain = new L.StamenTileLayer("toner-lite");
+
+        var footprints = L.tileLayer('http://{s}.tiles.mapbox.com/v3/jjohns22.j3fp9pho/{z}/{x}/{y}.png', {
+            attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>'
+        }).addTo(map);  
 
         var osm = L.tileLayer(
          // 'http://{s}.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png', 
@@ -45,22 +49,39 @@
             subdomains: ['otile1','otile2','otile3','otile4']
         });                
 
-        terrain.addTo(map);
+        footprints.addTo(map);
 
-        // add geojson layer to map
-        options = {
-          latfield: 'Y',
-          lonfield: 'X',
-          delimiter: ','
-        };
 
       var openSpaces = new L.GeoJSON.AJAX(["geojson/myopenspace.geojson"],{onEachFeature:popUp}).addTo(map);
-
       var diningAreas = new L.GeoJSON.AJAX(["geojson/OutdoorDiningAreas.geojson"],{onEachFeature:popUp}).addTo(map);
-        
+      
+      var customLayer = L.geoJson(null, {
+        // http://leafletjs.com/reference.html#geojson-style
+        onEachFeature: popUp
+      });
+
+      // you can style your layers as you like by adding a customLayer for each layer you want to add 
+      // and associate the style information with it. See the Leaflet documentation for the various
+      // options you can set.
+      var customLayer2 = L.geoJson(null, {
+        // http://leafletjs.com/reference.html#geojson-style
+        style: {"color": "#f00",
+                "weight": .5,
+                "opacity": 0.3}
+      });
+
+
+      // let's add your KML files. i'll do one; you can add the rest of the files.
+      var frontages = omnivore.kml('jessica/ActiveFrontages.kml',null, customLayer)
+          .addTo(map);
+
+      var historicPlaces = omnivore.kml('jessica/HistoricPlaces.kml',null, customLayer2)
+          .addTo(map);
+
         var baseMaps = {
             "Streets": osm,
-            "Terrain": terrain
+            "Terrain": terrain,
+            "Footprints": footprints
         };
 
         var overlayMaps = {

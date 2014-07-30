@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>ActiveFrontages</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveFrontages">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="Descriptio">Display windows ticket sales forecourt</SimpleData>
+		<SimpleData name="Study_Area">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="SHAPE_Leng">78.58159461650</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2909/14527051530_9d2c077153_t.jpg</SimpleData>
+		<SimpleData name="Establishm">Kimo</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65267713856754,35.084807017086334 -106.6524178896519,35.08477229370444</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveFrontages">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="Study_Area">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="SHAPE_Leng">25.57029707030</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5558/14738945932_e96a7f62e1.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65217875247988,35.084739763913447 -106.65209432042241,35.084728839738901</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveFrontages">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="Study_Area">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="SHAPE_Leng">49.25839726410</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65209432042241,35.084728839738901 -106.6519315659873,35.084708352891063</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveFrontages">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="Study_Area">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="SHAPE_Leng">29.34590674260</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3887/14534492238_4282e42697_t.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65263657952951,35.08457046074934 -106.65253979925039,35.084557319742295</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveFrontages">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="Descriptio">Display Windows</SimpleData>
+		<SimpleData name="Study_Area">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="SHAPE_Leng">78.14695296070</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2933/14527354647_49758ba9e6_t.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.652304144648,35.084524361262183 -106.65204644236778,35.084489270467067</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveFrontages">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="Type">Null</SimpleData>
+		<SimpleData name="Descriptio">Out Door Dining Area</SimpleData>
+		<SimpleData name="Study_Area">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="SHAPE_Leng">26.30739939760</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5596/14720958912_9d11dfcb16_t.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65129538020653,35.084385894221853 -106.65120837687344,35.084375399817191</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveFrontages">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="Study_Area">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="SHAPE_Leng">54.09450151100</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2909/14527051530_9d2c077153_t.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65117772595029,35.084612743944277 -106.65099946119597,35.084587861185774</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveFrontages">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="Study_Area">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="SHAPE_Leng">83.77182990650</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2909/14527506718_cbd2217171_n.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6507167249006,35.084567618855445 -106.65067926565875,35.084546873081834 -106.65066917619258,35.084545491136346 -106.65066983902207,35.084541994011147 -106.65061283744029,35.084534959888558 -106.65061252787004,35.084537587746723 -106.65060393382448,35.084536566845664 -106.65060419821224,35.084533894064116 -106.65056970274959,35.084529637768782 -106.6505693603807,35.084532510930543 -106.65054713968118,35.084529789822589 -106.6505328907285,35.084523277910975 -106.65050226211206,35.084519921095414 -106.65049989251892,35.084539724840141 -106.65050415921291,35.08455175506878</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveFrontages">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="Study_Area">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="SHAPE_Leng">51.89119283710</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5581/14527758317_b4bd2f1969.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.64981726400798,35.08443265182251 -106.64989967640425,35.084443329134089 -106.64998860052062,35.084454849405212</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveFrontages">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="Study_Area">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="SHAPE_Leng">21.26872850560</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3920/14720996642_22edd10bfe.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.64998860052062,35.084454849405212 -106.6500587005247,35.084464581930746</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveFrontages">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="Study_Area">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="SHAPE_Leng">47.67307794850</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2940/14714093505_4aa2072282_t.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6511229174767,35.084365092252625 -106.65096525420157,35.084346073759562</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveFrontages">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="Descriptio">Display Windows</SimpleData>
+		<SimpleData name="Study_Area">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="SHAPE_Leng">25.84052738800</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2902/14534606829_0624c0009f_t.jpg</SimpleData>
+		<SimpleData name="Establishm">Peoples Flower Shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65120837687344,35.084375399817191 -106.65112294929695,35.084365095753199 -106.6511229174767,35.084365092252625</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveFrontages">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="Study_Area">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="SHAPE_Leng">23.49207047060</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5588/14528612977_9a16a9c537_t.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65196330786091,35.084477883959615 -106.65188583846046,35.084467337705753</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveFrontages">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="Study_Area">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="SHAPE_Leng">22.63217976810</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65188583846046,35.084467337705767 -106.65180215015275,35.084455944809903 -106.65176459516563,35.084450831793632 -106.65174661728557,35.084423701715068</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveFrontages">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="Study_Area">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="SHAPE_Leng">22.69911886360</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3875/14734526143_d16dc069e1_n.jpg</SimpleData>
+		<SimpleData name="Establishm">Adieux Cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65253979925039,35.084557319742295 -106.65246493944046,35.084547155525883</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveFrontages">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="Study_Area">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="SHAPE_Leng">22.27463326940</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65078742530655,35.084589304952388 -106.65071423719731,35.084578061399945</coordinates></LineString>
+  </Placemark>
+</Folder>
+<Schema name="ActiveFrontages" id="ActiveFrontages">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+	<SimpleField name="Descriptio" type="string"></SimpleField>
+	<SimpleField name="Study_Area" type="string"></SimpleField>
+	<SimpleField name="Block" type="int"></SimpleField>
+	<SimpleField name="SHAPE_Leng" type="float"></SimpleField>
+	<SimpleField name="Img_URL" type="string"></SimpleField>
+	<SimpleField name="Establishm" type="string"></SimpleField>
+</Schema>
+</Document></kml>

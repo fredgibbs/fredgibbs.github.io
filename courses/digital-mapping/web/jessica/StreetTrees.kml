@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>StreetTrees</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64945557597964,35.084210259852391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64950865789882,35.084206746003552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64967327938973,35.084227669866472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64983615949792,35.084248599247189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65000078464192,35.084270237505379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6501680220689,35.084291866919479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65022468143609,35.084308136871634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64943242857129,35.084342710048318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64948153931488,35.084357812588621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.649643545411,35.084378029351974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64981948352565,35.084398914817669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.649969293414,35.08441702499497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65012609958778,35.084441550984927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65019573640117,35.084441321193829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65025514190471,35.084449282385812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64939954708976,35.084202473747396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6493671143256,35.084334953611439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65027254601343,35.084312588924696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65062047127959,35.084495927875203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65064158874364,35.084364080931046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65068350853937,35.084510745934509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65071613835143,35.084359779872372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65083173369574,35.084531006641569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65086798983647,35.084380028553561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65099650383203,35.084552524073004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6510320377181,35.084402145087999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65116345089177,35.084574034078678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6511953549617,35.084423070292942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65132022156432,35.084591402901495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65135214872264,35.084445210392772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6514406802486,35.084599948414763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65138479563824,35.084594171189778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65186180086403,35.084662564907774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65189064375284,35.084508868868582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65180310300165,35.084645109854961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65175026240409,35.084638606958535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65205207877761,35.084530753794915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65221060857729,35.084551693502696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65238655705861,35.084574484483653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6525427677705,35.084595908320502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65259856872019,35.084614327271851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65265547243469,35.084620816307222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6523577197627,35.084729134355157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.652182932309,35.084706340384919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65202207359383,35.084683976855331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetTrees">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="Condition">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65263350323806,35.084755886405084</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="StreetTrees" id="StreetTrees">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="StudyArea" type="string"></SimpleField>
+	<SimpleField name="Block" type="string"></SimpleField>
+	<SimpleField name="Condition" type="int"></SimpleField>
+</Schema>
+</Document></kml>

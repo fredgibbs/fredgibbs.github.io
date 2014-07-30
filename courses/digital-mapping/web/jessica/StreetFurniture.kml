@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>StreetFurniture</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64939705216847,35.084347358174398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5558/14719662772_872c909338.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64956079620114,35.084366853570366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64972629573953,35.0843892050733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3860/14739869683_a66f638b0b.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64989178139787,35.084408694280768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65005726953071,35.084428899008017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65022105341443,35.084456263970253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64942855486028,35.084202717151577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2910/14740135963_3f2f123de9.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64959228465302,35.084219350438239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64975428461371,35.084238135566899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64991891320949,35.084260489679195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3878/14734089543_a71079b255.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65008615299425,35.084282834952703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65025251624361,35.0843037522815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="Type">Trash Can</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3915/14739795203_ccdaedd209.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64935434010508,35.084335334626665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="Type">Trash Can</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3873/14526701808_77fc53276a.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64937977674276,35.084196437822762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="Type">Trash Can</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5590/14527637509_033f1b4151.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65028736954392,35.084310792076394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="Type">Trash Can</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3863/14719785662_143fa01ea0.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65027671393665,35.084446062405483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="Type">Sign</SimpleData>
+		<SimpleData name="Descriptio">Directional</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3847/14533840247_bb0c15cdff.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64948170537987,35.08421327477901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="Type">Parking Meter</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5581/14533864557_6c41416fe0.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64986404558147,35.084254946381733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="Type">Bike Rack</SimpleData>
+		<SimpleData name="Descriptio">Round</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5593/14526663870_f489df2a5d.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64946197245438,35.084211092458617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="Type">Bike Rack</SimpleData>
+		<SimpleData name="Descriptio">Round</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2928/14717557294_5216be1469.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64945191997113,35.084351131227592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="Type">Parking Meter</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3856/14696996916_6559ae3a93.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64979350172428,35.084394248916141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64936454797571,35.084344144269217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="Type">ATM</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6497971162314,35.084421427542829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="Type">Bike Rack</SimpleData>
+		<SimpleData name="Descriptio">Round</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3860/14527615129_d8df688621.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65015943267511,35.084447184156076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="Type">Planter</SimpleData>
+		<SimpleData name="Descriptio">Blue</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5556/14719952165_78d6832e00.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64946398405594,35.08434095464257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5581/14713969722_72af9bd8d0_z.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65020692579211,35.08444315117702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3861/14527609058_108512f8c8.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65024321544924,35.08444720603859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3898/14527820097_e3b1bbf33b.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65019426273385,35.084449454463524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3839/14711072861_1b6816f374.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65025232618235,35.084456120189813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="Type">Planter</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3887/14533493620_e116de6c98.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65015793840371,35.084432461139286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5572/14527611710_accdb4286c.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6502751128416,35.084303517238318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2921/14527660078_beb06b8b50.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65022807716473,35.084297232499836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3915/14711136061_1d4b243af0.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65023800319489,35.08430984082257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="Type">Planter</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5568/14711910554_61ba4f6285.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65026325959164,35.084312381592916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="Type">Donation</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3840/14717952084_414ab8c687.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65032804096572,35.084268520273568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65059087208314,35.084495190910836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65075000025121,35.084519947307214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3879/14527429610_c72922a373.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65091491685293,35.08454182224272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65108099254816,35.084563215349561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65124590574722,35.084584136107637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65141023843073,35.08460496210715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65061975352417,35.08434912764131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65078322348479,35.084371722389612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65093855684599,35.084391959474651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65111333505891,35.084412847798212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65128173337234,35.08443470981765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5571/14711781881_cfd642133d.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65144549436609,35.08445754249518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="Type">Bike Rack</SimpleData>
+		<SimpleData name="Descriptio">Round</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3862/14691083636_83c73e3978.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65134224983595,35.084595802109341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="Type">Bike Rack</SimpleData>
+		<SimpleData name="Descriptio">Round</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65135949311477,35.084597462308601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="Type">Sign</SimpleData>
+		<SimpleData name="Descriptio">Directional</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3879/14528217360_0e5d25472e.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65067513514231,35.084368930794113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="Type">Bike Rack</SimpleData>
+		<SimpleData name="Descriptio">Round</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5566/14711008111_a4404d95d7_z.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65065939977946,35.084355149078498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="Type">Planter</SimpleData>
+		<SimpleData name="Descriptio">Red</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3887/14527741427_2c0afc57ef.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65065770295654,35.084366751884176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="Type">Trash Can</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5586/14719616032_af80ab08f9.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65054945491163,35.084481594077111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="Type">Trash Can</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5587/14713868012_0560868f2e.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65056876910684,35.084351841158515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="Type">Parking Meter</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65106376882396,35.084408938070162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">56</SimpleData>
+		<SimpleData name="Type">Parking Meter</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3857/14715281805_6702c0a43f.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6510528842894,35.084556551919015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="Type">Trash Can</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2929/14713755532_9aa35ea29d.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65145644907331,35.084606198273491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3904/14713761892_7125fb35cd.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6514347179267,35.084612530807618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">59</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5577/14527619627_c8440999b0.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65138499681842,35.084606136416994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5576/14733937513_0608f4e995.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65139982934794,35.084598335722902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5582/14714053415_e429bece83.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65142341414197,35.084600344517931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="Type">Bike Rack</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3896/14528317220_d46b4501b1.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65140963013828,35.084451918056338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="Type">Rick Rack</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3891/14711812321_6f80195c34.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65137987020016,35.084448140312581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">64</SimpleData>
+		<SimpleData name="Type">Sign</SimpleData>
+		<SimpleData name="Descriptio">Ad on Sidewalk</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2901/14711766321_3b288d7f40.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65094830076026,35.084378531659311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="Type">Planter</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5567/14528094218_ddbeb776f9.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65147764543497,35.084457158749693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="Type">Planter</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3838/14528335120_778baf6ea5.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65148682545262,35.084465356684476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65181049472643,35.084499570044308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2937/14712248194_555305a518_n.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6519754115558,35.084521443536005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">69</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6521420733785,35.084543787885174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65230524298276,35.084564236115057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">71</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3908/14527951229_b179d28e2a_n.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65247190153464,35.084586102250647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65263043154779,35.084607042309436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65227000790792,35.084716045076675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2921/14528223657_a29670ccb4_n.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6521027760374,35.0846956111724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">75</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65243318022353,35.084736969090947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">76</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6519378436883,35.08467087579271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">77</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65177640373506,35.084648036092794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="Type">Street Light</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65261346680168,35.084756740060939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="Type">Sign</SimpleData>
+		<SimpleData name="Descriptio">Ad on Sidewalk</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3839/14712649724_a66f833229.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65178655459475,35.084469597612753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="Type">Trash Can</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65175423787012,35.084506435304547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="Type">Trash Can</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2909/14527373728_009a670b95.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65173106486236,35.084632921989261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="Type">Planter</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3895/14734900833_2bda2d0d83.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65177158626747,35.084493974730144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="Type">ATM</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3919/14734939163_27228a507c_n.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65195504216285,35.084481650586675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="Type">Bike Rack</SimpleData>
+		<SimpleData name="Descriptio">Round</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2929/14528390719_d034f7ec00.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65177980376293,35.084513028569404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">86</SimpleData>
+		<SimpleData name="Type">Bike Rack</SimpleData>
+		<SimpleData name="Descriptio">Round</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3849/14528608187_583b3128e6.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65178150437175,35.084504913459675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="Type">Parking Meter</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3905/14736058611_948870d442.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65217401819648,35.084549406175064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">88</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3907/14527359030_0a2c8b9947_z.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65178843788516,35.084646565614293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5555/14691045926_3a2ee6fda8_z.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65176535526028,35.08464342209966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">90</SimpleData>
+		<SimpleData name="Type">Bike Rack</SimpleData>
+		<SimpleData name="Descriptio">Round</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65183223692942,35.084648906696401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">91</SimpleData>
+		<SimpleData name="Type">Fire Hydrant</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5596/14691032896_1f91ae825c.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65170157643156,35.084630855285468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">92</SimpleData>
+		<SimpleData name="Type">Parking Meter</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3853/14716366166_97fc9ae4ba_n.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65221334552606,35.084704885531572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">93</SimpleData>
+		<SimpleData name="Type">Newspaper Dispense</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3911/14737035694_48922b3a15_n.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65226212524891,35.08474109647306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">94</SimpleData>
+		<SimpleData name="Type">Trash Can</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5554/14552820040_16fbd744b1.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65264916937365,35.084757283024089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">95</SimpleData>
+		<SimpleData name="Type">Trash Can</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3841/14713628412_e8c0f1ec48.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6526688327717,35.084625440571585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">96</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65258915740415,35.084752820408696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">97</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2934/14710810801_fb610e1707_z.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65260284710236,35.084748862875905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">98</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3894/14713989595_67b82a5c0d_z.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65261990802927,35.084751691264067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">99</SimpleData>
+		<SimpleData name="Type">Bike Rack</SimpleData>
+		<SimpleData name="Descriptio">Round</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3926/14552841708_016d7ef496.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65257332192432,35.08474859062251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">100</SimpleData>
+		<SimpleData name="Type">Bike Rack</SimpleData>
+		<SimpleData name="Descriptio">Round</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65257402153857,35.084743221947967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">101</SimpleData>
+		<SimpleData name="Type">Bike Rack</SimpleData>
+		<SimpleData name="Descriptio">Round</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65257508158003,35.084737553695788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">102</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3846/14527239798_dec2cb4ef0.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65265534573713,35.084611771544473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">103</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3910/14527226830_9c84c4df1e.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65264123527602,35.084618973232068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">104</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2899/14711480114_6cbd2c7d8d.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65261582927685,35.084615480618169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">105</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3871/14713876545_8bdd9275d9.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65260271256368,35.084603300458134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">106</SimpleData>
+		<SimpleData name="Type">Bike Rack</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5571/14759391353_e6a2dcb0ea.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65257259538859,35.084600716816446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">107</SimpleData>
+		<SimpleData name="Type">Planter</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3911/14710686181_93464b19cd.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65255168958016,35.084612520435584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">108</SimpleData>
+		<SimpleData name="Type">Planter</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3918/14527162960_d2a0a5dd79.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65252718241834,35.084560944900176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">109</SimpleData>
+		<SimpleData name="Type">Planter</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65247914111839,35.084554281256587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">110</SimpleData>
+		<SimpleData name="Type">Sign</SimpleData>
+		<SimpleData name="Descriptio">Ad on Sidewalk</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3856/14528646498_007f30cf03.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65249154468123,35.084566401596888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">213</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.25,-90.0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">215</SimpleData>
+		<SimpleData name="Type">2 Person</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.25,-90.0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">216</SimpleData>
+		<SimpleData name="Type">Gate</SimpleData>
+		<SimpleData name="Descriptio">Traffic</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5596/14527259698_c80bbd64ce.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65265527721374,35.084632863978683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">217</SimpleData>
+		<SimpleData name="Type">Gate</SimpleData>
+		<SimpleData name="Descriptio">Traffic Gate</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5567/14527534677_feb28d58d4.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65264004358411,35.084744918340881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">218</SimpleData>
+		<SimpleData name="Type">Planter</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">3</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5588/14733864143_3a8ba6eaa7.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6525910923237,35.084747656691682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">219</SimpleData>
+		<SimpleData name="Type">Utility Box</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3897/14713826262_bdefa62b40.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65065646006985,35.084494064663247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">220</SimpleData>
+		<SimpleData name="Type">Bike Rack</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3892/14717517404_8b21622227.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65060568631047,35.084495747749379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">221</SimpleData>
+		<SimpleData name="Type">Gate</SimpleData>
+		<SimpleData name="Descriptio">Traffic Gate</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3896/14714129935_410d7f2572.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65056334075403,35.0844757455544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">222</SimpleData>
+		<SimpleData name="Type">Planter</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3898/14711740684_80e3a9bc5b.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65056569000359,35.084480946392752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">223</SimpleData>
+		<SimpleData name="Type">Gate</SimpleData>
+		<SimpleData name="Descriptio">Traffic Gate</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2896/14691197346_0486971b80.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6505694031096,35.084361738826821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="Type">Bike Rack</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">1</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3897/14713325295_ecc62de993.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65013502547325,35.08428889825727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2907/14711776364_106db6754a.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65060689989335,35.084357388743236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="Type">Bench</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3915/14691181596_dd358226c4_z.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65062721939537,35.08435911044095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#StreetFurniture">
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="Type">Trash Can</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5583/14528349689_435fcfb4ae.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65145911269036,35.084450706805065</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="StreetFurniture" id="StreetFurniture">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+	<SimpleField name="Descriptio" type="string"></SimpleField>
+	<SimpleField name="StudyArea" type="string"></SimpleField>
+	<SimpleField name="Block" type="string"></SimpleField>
+	<SimpleField name="Img_URL" type="string"></SimpleField>
+</Schema>
+</Document></kml>

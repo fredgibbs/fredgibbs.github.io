@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>DiningAreas</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DiningAreas">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="SHAPE_Leng">31.59972766060</SimpleData>
+		<SimpleData name="SHAPE_Area">44.13676013370</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2901/14527167808_d6553a46eb_t.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65248265485828,35.08454960006582 -106.6524844796523,35.084539766364138 -106.65252476636843,35.084545297378455 -106.6525226366501,35.084555119472519 -106.65248265485828,35.08454960006582</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DiningAreas">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="SHAPE_Leng">45.43055566150</SimpleData>
+		<SimpleData name="SHAPE_Area">62.94492584020</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3874/14527318887_fe06d6c3d6_t.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65129012831829,35.084385270850298 -106.65121084132605,35.084375859665904 -106.6512125185583,35.084365182065689 -106.65129206954576,35.084374900489038 -106.65129012831829,35.084385270850298</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DiningAreas">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="SHAPE_Leng">81.72388947710</SimpleData>
+		<SimpleData name="SHAPE_Area">187.44381421400</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3909/14714438422_6459077fa4_t.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65112284327793,35.084365392682088 -106.65111999733888,35.084379931723227 -106.65100277600902,35.084365042473834 -106.65100480699552,35.084350919897389 -106.65112284327793,35.084365392682088</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DiningAreas">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="SHAPE_Leng">32.66091430210</SimpleData>
+		<SimpleData name="SHAPE_Area">49.94529108100</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3920/14720996642_22edd10bfe_t.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65004418421982,35.084462375284019 -106.6500037312781,35.084456898080305 -106.65000598552589,35.08444579104728 -106.65004634470553,35.084451382142724 -106.65004418421982,35.084462375284019</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DiningAreas">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="SHAPE_Leng">222.74959841600</SimpleData>
+		<SimpleData name="SHAPE_Area">834.00474690500</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2930/14534655590_682e5ff69f_n.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.64998860052062,35.084454849405212 -106.64981726400798,35.08443265182251 -106.6498125845817,35.084455805759895 -106.64965985841364,35.084434951961384 -106.64966490337703,35.08439972005182 -106.64999088401194,35.084443217630017 -106.64998860052062,35.084454849405212</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DiningAreas">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="SHAPE_Leng">21.38080213470</SimpleData>
+		<SimpleData name="SHAPE_Area">26.41700432970</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3904/14534575580_6ba4dd6f31_n.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65071423719731,35.084578061399945 -106.6507167249006,35.084567618855445 -106.65073916067166,35.084571035143604 -106.650736573247,35.084581492441323 -106.65071423719731,35.084578061399945</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#DiningAreas">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="SHAPE_Leng">62.99506297710</SimpleData>
+		<SimpleData name="SHAPE_Area">150.65646481600</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5589/14528591428_afb8583f69_t.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65217875247988,35.084739763913447 -106.65209432042241,35.084728839738901 -106.65209704231955,35.084712521618542 -106.65218164968879,35.084724087946149 -106.65217875247988,35.084739763913447</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Schema name="DiningAreas" id="DiningAreas">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+	<SimpleField name="Descriptio" type="string"></SimpleField>
+	<SimpleField name="StudyArea" type="string"></SimpleField>
+	<SimpleField name="Block" type="string"></SimpleField>
+	<SimpleField name="Occupied_" type="string"></SimpleField>
+	<SimpleField name="SHAPE_Leng" type="float"></SimpleField>
+	<SimpleField name="SHAPE_Area" type="float"></SimpleField>
+	<SimpleField name="Img_URL" type="string"></SimpleField>
+</Schema>
+</Document></kml>

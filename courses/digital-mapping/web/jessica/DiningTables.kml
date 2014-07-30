@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>DiningTables</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65072552880108,35.084576567338402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65073353012724,35.084575013835448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65072063182092,35.084572004136739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3891/14528368230_6584fd028d.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65176235971701,35.084465276878419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2914/14690817186_5bbe7bf847_z.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65251953899143,35.084549845434708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2926/14735025773_e3268f6f64.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6524879755731,35.084545299601039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/6/5591/14713725662_c92f90b171.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65211225020602,35.084723115552684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2898/14527361468_9a8a293c92.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6521643400207,35.08473035997266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64996354071256,35.084445559056121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64991811440898,35.084442250601299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64990461368417,35.084440506640078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3901/14734642813_ca80a722d6.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64982708823172,35.084423732001078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64984233157261,35.084431624462184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64967291706814,35.084403848439742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64971691436882,35.084411574015249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.64974783475459,35.084415406936621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2899/14697205116_4bbc2b9450.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65003986939612,35.084454847957893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65003033184053,35.084457115025259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65001023299044,35.084452775020331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65104380842048,35.084359405443763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65100871448301,35.084362502974969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65102656972559,35.084364710446486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6510486408765,35.084368453162689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65106576883899,35.084370304479123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65109334817653,35.084373314565006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65111207922189,35.084376471700345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.6510655841882,35.084362196442861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3861/14690758196_0e70775ca8.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65122729434046,35.084373850730742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65128013670302,35.084380533239468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DiningTables">
+		<SimpleData name="OBJECTID">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.65121743042229,35.084372615922916</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="DiningTables" id="DiningTables">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="Descriptio" type="string"></SimpleField>
+	<SimpleField name="StudyArea" type="string"></SimpleField>
+	<SimpleField name="Block" type="string"></SimpleField>
+	<SimpleField name="Occupied" type="string"></SimpleField>
+	<SimpleField name="Img_URL" type="string"></SimpleField>
+</Schema>
+</Document></kml>

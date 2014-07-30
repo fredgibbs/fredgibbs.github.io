@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>HistoricPlaces</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">1</SimpleData>
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="STATEREGIS">854</SimpleData>
+		<SimpleData name="HISTORICPL">ST JOSEPH 1930 HOSPITAL</SimpleData>
+		<SimpleData name="SORTINDEXN">152</SimpleData>
+		<SimpleData name="GlobalID">{6FC18049-653F-486B-9E67-71EA60D59ED2}</SimpleData>
+		<SimpleData name="SHAPE_Leng">1308.16622386000</SimpleData>
+		<SimpleData name="Shape_Le_1">1308.16628826000</SimpleData>
+		<SimpleData name="Shape_Area">107194.87609200001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.63810070206583,35.086040491899162 -106.63819445639629,35.085544929501907 -106.63893261348878,35.085599921957929 -106.63925408261844,35.085632548963382 -106.63909720661171,35.086560723090862 -106.63802731935192,35.086426425422061 -106.63810070206583,35.086040491899162</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">2</SimpleData>
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="STATEREGIS">453</SimpleData>
+		<SimpleData name="HISTORICPL">KIMO THEATER</SimpleData>
+		<SimpleData name="SORTINDEXN">77</SimpleData>
+		<SimpleData name="GlobalID">{9B853464-6584-4BA8-957A-266BBEE8EBA3}</SimpleData>
+		<SimpleData name="SHAPE_Leng">439.89182391800</SimpleData>
+		<SimpleData name="Shape_Le_1">439.89223876400</SimpleData>
+		<SimpleData name="Shape_Area">11144.18417960000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65234414348485,35.085150202293114 -106.65241873129641,35.084768376800888 -106.6525128037688,35.084780772374806 -106.6525918256287,35.084791157120833 -106.65268088090518,35.084802882313177 -106.65260503912585,35.0851843686699 -106.65251514501165,35.085172302754593 -106.65243779687417,35.085162255859707 -106.65234414348485,35.085150202293114</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">3</SimpleData>
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="STATEREGIS">398</SimpleData>
+		<SimpleData name="HISTORICPL">SUPERINTENDENTS HOUSE, ATLANTIC &amp; PACIFIC RR</SimpleData>
+		<SimpleData name="SORTINDEXN">156</SimpleData>
+		<SimpleData name="GlobalID">{EB0EC2B7-6003-4265-87A5-AB01FEEEE628}</SimpleData>
+		<SimpleData name="SHAPE_Leng">364.00843321800</SimpleData>
+		<SimpleData name="Shape_Le_1">364.00835311100</SimpleData>
+		<SimpleData name="Shape_Area">6412.51905135000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65141413461548,35.074675854133453 -106.651425948897,35.074614336705693 -106.65186743132281,35.074677444061912 -106.65185684879329,35.074734493444986 -106.65184463556895,35.074799790231708 -106.6513994648794,35.074751463538774 -106.65141413461548,35.074675854133453</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">4</SimpleData>
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="STATEREGIS">397</SimpleData>
+		<SimpleData name="HISTORICPL">SOUTHWESTERN BREWERY AND ICE COMPANY</SimpleData>
+		<SimpleData name="SORTINDEXN">149</SimpleData>
+		<SimpleData name="GlobalID">{467E603A-AF3E-4D15-9D1B-0CF98373CE51}</SimpleData>
+		<SimpleData name="SHAPE_Leng">1169.06826476000</SimpleData>
+		<SimpleData name="Shape_Le_1">1169.06800900000</SimpleData>
+		<SimpleData name="Shape_Area">81944.53645660001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.64475632310956,35.089401689848394 -106.64495351437475,35.088700744932147 -106.64501745426898,35.088702597379651 -106.64509100786461,35.088705105377564 -106.64518963700786,35.088708561972361 -106.64528325038664,35.088711691383772 -106.64533883343694,35.088713570903103 -106.64550141521723,35.088721283622199 -106.64603717727877,35.088737394584726 -106.64591325238828,35.08937937147283 -106.64525435738668,35.089391824597605 -106.64475632310956,35.089401689848394</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">5</SimpleData>
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="STATEREGIS">589</SimpleData>
+		<SimpleData name="HISTORICPL">WASHINGTON APARTMENTS</SimpleData>
+		<SimpleData name="SORTINDEXN">161</SimpleData>
+		<SimpleData name="GlobalID">{888F0C3E-302D-483C-82C7-776E5B9D61E5}</SimpleData>
+		<SimpleData name="SHAPE_Leng">859.25209648000</SimpleData>
+		<SimpleData name="Shape_Le_1">859.25192570500</SimpleData>
+		<SimpleData name="Shape_Area">37060.96711800000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65866588641126,35.086311918686562 -106.65880366680817,35.085620768227393 -106.65898659394792,35.085855073666323 -106.65903621652436,35.085918788660678 -106.65908457712389,35.085980791524641 -106.65913125385465,35.086040051519618 -106.65918844731891,35.086113701058771 -106.65923344321023,35.086171249416537 -106.65928348743249,35.086235649789216 -106.65901388770178,35.086635309904779 -106.65894221221427,35.086590215773903 -106.65888352899348,35.086552977224045 -106.65881185364944,35.086507883014512 -106.65875065670814,35.086469279059649 -106.6586768837917,35.086422474571833 -106.65864754315126,35.086404026958888 -106.65866588641126,35.086311918686562</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">6</SimpleData>
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="STATEREGIS">742</SimpleData>
+		<SimpleData name="HISTORICPL">MANN, HENRY HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">96</SimpleData>
+		<SimpleData name="GlobalID">{0455C20C-926A-445F-B4B0-725544DFC9AC}</SimpleData>
+		<SimpleData name="SHAPE_Leng">595.82575174500</SimpleData>
+		<SimpleData name="Shape_Le_1">595.82610160600</SimpleData>
+		<SimpleData name="Shape_Area">22182.86759210000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66142757074542,35.095003300082439 -106.66144558281782,35.09492870875264 -106.66192151290601,35.095004370651438 -106.66190390766178,35.095076899047918 -106.66188794044037,35.095142552816384 -106.66187115644139,35.095211987339766 -106.66185562431421,35.095281074154848 -106.66183799587402,35.095348794275566 -106.66182202509967,35.095413762040309 -106.66134486496222,35.095343255732303 -106.66136124300479,35.095275883377013 -106.66137761819917,35.095208167575464 -106.66139481359102,35.095137357910964 -106.66141119045622,35.095069985550921 -106.66142757074542,35.095003300082439</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">7</SimpleData>
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="STATEREGIS">531</SimpleData>
+		<SimpleData name="HISTORICPL">FEZ CLUB</SimpleData>
+		<SimpleData name="SORTINDEXN">46</SimpleData>
+		<SimpleData name="GlobalID">{8374FFE4-FA9D-466E-A677-CAF0E6236B30}</SimpleData>
+		<SimpleData name="SHAPE_Leng">594.42778157300</SimpleData>
+		<SimpleData name="Shape_Le_1">594.42788775300</SimpleData>
+		<SimpleData name="Shape_Area">22079.36856010000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6562110075252,35.086632710610438 -106.65629466693662,35.086229901826449 -106.65636323529344,35.086238601861865 -106.6564472729813,35.086248967277804 -106.656521694395,35.086258334512436 -106.65660949319864,35.086269030660624 -106.65668809465204,35.086278727230372 -106.6567779860582,35.086290103145473 -106.65670271459125,35.086698722829617 -106.65661114630458,35.086686322123107 -106.6565337945558,35.086675934408674 -106.65644933627627,35.086664883557582 -106.65637574566067,35.08665482658909 -106.65628919485785,35.086643095731539 -106.6562110075252,35.086632710610438</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">8</SimpleData>
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="STATEREGIS">741</SimpleData>
+		<SimpleData name="HISTORICPL">LEFEBER, CHARLES HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">84</SimpleData>
+		<SimpleData name="GlobalID">{83645A73-187A-4F6E-B6D0-FF7EDC62FE74}</SimpleData>
+		<SimpleData name="SHAPE_Leng">399.59927582300</SimpleData>
+		<SimpleData name="Shape_Le_1">399.59847662500</SimpleData>
+		<SimpleData name="Shape_Area">7656.71156062000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66354795555633,35.091206073474766 -106.6635815104369,35.091065486663723 -106.66406826047169,35.091136637557575 -106.66405312796101,35.091201601888095 -106.66403636740468,35.091275158105262 -106.66354795555633,35.091206073474766</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">9</SimpleData>
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="STATEREGIS">391</SimpleData>
+		<SimpleData name="HISTORICPL">WHITTLESEY HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">167</SimpleData>
+		<SimpleData name="GlobalID">{AFC0270B-DE28-424C-9BEA-63762952CD41}</SimpleData>
+		<SimpleData name="SHAPE_Leng">586.95444430900</SimpleData>
+		<SimpleData name="Shape_Le_1">586.95456448600</SimpleData>
+		<SimpleData name="Shape_Area">21519.79013060000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.63899829272306,35.081392047283337 -106.6390256612559,35.081260416560987 -106.63951565002336,35.081326160745725 -106.63949036965636,35.081457441413974 -106.63946469099538,35.081592845704215 -106.6394406328792,35.081717596803699 -106.63894436330615,35.081649468293129 -106.63897010479769,35.081527116067704 -106.63899829272306,35.081392047283337</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">10</SimpleData>
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="STATEREGIS">526</SimpleData>
+		<SimpleData name="HISTORICPL">SIMMS-ANDERMAN HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">146</SimpleData>
+		<SimpleData name="GlobalID">{007707B0-D3A2-4946-A55F-3789ABFD3F2B}</SimpleData>
+		<SimpleData name="SHAPE_Leng">422.93341011800</SimpleData>
+		<SimpleData name="Shape_Le_1">422.93256425600</SimpleData>
+		<SimpleData name="Shape_Area">10171.25619020000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6591959847631,35.089630646339295 -106.65921235209157,35.089561213524711 -106.65966732117505,35.089630085221962 -106.65965136176233,35.08969745599763 -106.65963417282425,35.089769639271111 -106.65962067064385,35.089827041593189 -106.65916864430442,35.089761937783969 -106.65917962598471,35.089701796388944 -106.6591959847631,35.089630646339295</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">11</SimpleData>
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="STATEREGIS">70</SimpleData>
+		<SimpleData name="HISTORICPL">MANZANO DAY SCHOOL (LA GLORIETA)</SimpleData>
+		<SimpleData name="SORTINDEXN">97</SimpleData>
+		<SimpleData name="GlobalID">{5ED91087-B2BA-4911-A574-09F315EE5184}</SimpleData>
+		<SimpleData name="SHAPE_Leng">2186.24968859000</SimpleData>
+		<SimpleData name="Shape_Le_1">2186.24939710000</SimpleData>
+		<SimpleData name="Shape_Area">214397.03967900001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66568501972672,35.092052249011914 -106.66567458461682,35.091889831449826 -106.66524537296532,35.092042078003828 -106.66520075276622,35.091812804096755 -106.66517199616402,35.091745584841007 -106.66586386767798,35.091311492405062 -106.66598591523373,35.091400029036912 -106.6662542799592,35.091583542420366 -106.66638468831739,35.091672392493734 -106.66681743355771,35.091969023915063 -106.66684338088258,35.092633517375205 -106.66668425131343,35.092649176258384 -106.66671035131172,35.093097637179596 -106.66551396850889,35.092930016342287 -106.66547847161792,35.092522458247103 -106.66550507885351,35.092495577731377 -106.66529514347965,35.092133266085973 -106.66561990170115,35.092065866904157 -106.66568501972672,35.092052249011914</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">12</SimpleData>
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="STATEREGIS">1565</SimpleData>
+		<SimpleData name="HISTORICPL">MAISELS INDIAN TRADING POST</SimpleData>
+		<SimpleData name="SORTINDEXN">95</SimpleData>
+		<SimpleData name="GlobalID">{FE96F034-7FCA-4C29-BDB2-C63FA8D55369}</SimpleData>
+		<SimpleData name="SHAPE_Leng">393.76957942700</SimpleData>
+		<SimpleData name="Shape_Le_1">393.76943974700</SimpleData>
+		<SimpleData name="Shape_Area">7630.53351604000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65325842668152,35.084654308369117 -106.65333337690049,35.084262177481563 -106.65342202064595,35.08427527731601 -106.65350773629696,35.084287699921163 -106.65343402344674,35.084676392258189 -106.65335082447443,35.084666021954654 -106.65325842668152,35.084654308369117</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">13</SimpleData>
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="STATEREGIS">748</SimpleData>
+		<SimpleData name="HISTORICPL">WATSON, LETTIE HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">163</SimpleData>
+		<SimpleData name="GlobalID">{878D5ECC-1833-4A3D-A856-26E60FF108F6}</SimpleData>
+		<SimpleData name="SHAPE_Leng">384.53660217900</SimpleData>
+		<SimpleData name="Shape_Le_1">384.53712804300</SimpleData>
+		<SimpleData name="Shape_Area">7141.42431273000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.64090786555313,35.080638893354241 -106.64093436239985,35.080500395021303 -106.64140344487227,35.080563451355289 -106.64137609351235,35.080697831094888 -106.64090786555313,35.080638893354241</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">14</SimpleData>
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="STATEREGIS">519</SimpleData>
+		<SimpleData name="HISTORICPL">ROBERTSON HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">131</SimpleData>
+		<SimpleData name="GlobalID">{D0EBDCE8-E0BC-403E-B269-82895F1C4929}</SimpleData>
+		<SimpleData name="SHAPE_Leng">396.37028751100</SimpleData>
+		<SimpleData name="Shape_Le_1">396.37052445300</SimpleData>
+		<SimpleData name="Shape_Area">7050.87919516000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66044283099819,35.08945745239739 -106.66045468181002,35.089404177012625 -106.66095356039916,35.089479764312273 -106.66094130066965,35.089534758396553 -106.66092536472451,35.089606595052643 -106.66042730903007,35.089528599780991 -106.66044283099819,35.08945745239739</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">15</SimpleData>
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="STATEREGIS">745</SimpleData>
+		<SimpleData name="HISTORICPL">SAINT, J E HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">136</SimpleData>
+		<SimpleData name="GlobalID">{DAE769F5-D8EB-4C30-A2CE-13BB4B3A9FE0}</SimpleData>
+		<SimpleData name="SHAPE_Leng">421.61313732600</SimpleData>
+		<SimpleData name="Shape_Le_1">421.61294287500</SimpleData>
+		<SimpleData name="Shape_Area">10059.67092430000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65692970666072,35.086804088461221 -106.65686345901557,35.087178676026895 -106.65677690929749,35.087167288970498 -106.65669997661333,35.087157243412349 -106.65662137261016,35.08714720340965 -106.65668929437406,35.086772953809508 -106.65676622669564,35.086782999377554 -106.65684399470068,35.08679304209295 -106.65692970666072,35.086804088461221</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">16</SimpleData>
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="STATEREGIS">735</SimpleData>
+		<SimpleData name="HISTORICPL">GONZALES, APOLONIO HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">54</SimpleData>
+		<SimpleData name="GlobalID">{EBABE8D6-7599-41A6-86BD-754D89F6B4DB}</SimpleData>
+		<SimpleData name="SHAPE_Leng">403.92306405500</SimpleData>
+		<SimpleData name="Shape_Le_1">403.92290551400</SimpleData>
+		<SimpleData name="Shape_Area">7571.97830385000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66321885422857,35.095630880314729 -106.66331878153575,35.095227325020595 -106.66343587847682,35.095245128810454 -106.66343602577102,35.095357093981399 -106.66343619901313,35.095556983924425 -106.66343631684026,35.095663110489717 -106.66342040629303,35.095656982587158 -106.66321885422857,35.095630880314729</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">17</SimpleData>
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="STATEREGIS">393</SimpleData>
+		<SimpleData name="HISTORICPL">GOOD SHEPHARD REFUGE</SimpleData>
+		<SimpleData name="SORTINDEXN">56</SimpleData>
+		<SimpleData name="GlobalID">{BC8069BB-DC11-47C9-81A7-4F59E9FF4492}</SimpleData>
+		<SimpleData name="SHAPE_Leng">870.29163219400</SimpleData>
+		<SimpleData name="Shape_Le_1">870.29156524000</SimpleData>
+		<SimpleData name="Shape_Area">35847.56014500000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65028808785114,35.079268134058339 -106.65036561756402,35.078888703913627 -106.6510173790455,35.078972757472272 -106.65098931257302,35.079128434976276 -106.6510599634157,35.079137131157339 -106.6511419014308,35.079147163779197 -106.65122885635492,35.079157866655713 -106.6513095410285,35.079167903310712 -106.65126176899847,35.079394741969871 -106.65028808785114,35.079268134058339</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">18</SimpleData>
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="STATEREGIS">738</SimpleData>
+		<SimpleData name="HISTORICPL">KELEHER, THOMAS F HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">73</SimpleData>
+		<SimpleData name="GlobalID">{BCB9C027-0F56-4198-95B9-39D2D917C7AD}</SimpleData>
+		<SimpleData name="SHAPE_Leng">774.06510017900</SimpleData>
+		<SimpleData name="Shape_Le_1">774.06551328400</SimpleData>
+		<SimpleData name="Shape_Area">19760.56759050000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6559011976113,35.088027828673304 -106.65589063987198,35.08825832221315 -106.65587926681127,35.08849293901288 -106.6556802440244,35.088467502549229 -106.65568808498915,35.088278920350774 -106.65569369440098,35.08814598417829 -106.65570603063846,35.087852633606872 -106.65571802889475,35.087575425565909 -106.65592202782837,35.087593632797088 -106.6559011976113,35.088027828673304</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">19</SimpleData>
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="STATEREGIS">659</SimpleData>
+		<SimpleData name="HISTORICPL">FARWELL/SIMMS HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">43</SimpleData>
+		<SimpleData name="GlobalID">{0063E4D5-E916-4031-B924-ED5445966E47}</SimpleData>
+		<SimpleData name="SHAPE_Leng">464.22868772900</SimpleData>
+		<SimpleData name="Shape_Le_1">464.22905645300</SimpleData>
+		<SimpleData name="Shape_Area">12270.02002260000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66263752495468,35.089897180936021 -106.66265511873515,35.089822935149947 -106.66312681917749,35.089894141081146 -106.66312462211712,35.089955626706043 -106.66312170194077,35.090039440159096 -106.66311871593928,35.090110201708974 -106.66260028957592,35.090053923246728 -106.66262238460679,35.08996077131787 -106.66263752495468,35.089897180936021</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">20</SimpleData>
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="STATEREGIS">1570</SimpleData>
+		<SimpleData name="HISTORICPL">EL VADO AUTO COURT/MOTEL</SimpleData>
+		<SimpleData name="SORTINDEXN">39</SimpleData>
+		<SimpleData name="GlobalID">{A9930C9D-141D-4570-8ED9-C12B9CD8CE60}</SimpleData>
+		<SimpleData name="SHAPE_Leng">1225.13157847000</SimpleData>
+		<SimpleData name="Shape_Le_1">449.62048416400</SimpleData>
+		<SimpleData name="Shape_Area">9387.31917286000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.67593215055754,35.094340493777352 -106.67596275283047,35.093877067457875 -106.67604677102298,35.09388192406248 -106.6761307806577,35.093887031242325 -106.67613456817519,35.0943529933189 -106.67611105966836,35.09435154256856 -106.67601324413393,35.094345360676691 -106.6759576495586,35.094342121465786 -106.67593215055754,35.094340493777352</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">21</SimpleData>
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="STATEREGIS">839</SimpleData>
+		<SimpleData name="HISTORICPL">HUDSON HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">71</SimpleData>
+		<SimpleData name="GlobalID">{05180D58-664C-4455-9890-EE6D7D480770}</SimpleData>
+		<SimpleData name="SHAPE_Leng">424.50806690600</SimpleData>
+		<SimpleData name="Shape_Le_1">424.50824488200</SimpleData>
+		<SimpleData name="Shape_Area">10041.28939540000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65718539210184,35.084695451720954 -106.65724991218329,35.084310222575716 -106.65733436813476,35.084321272889383 -106.65741171604618,35.084331316663693 -106.65749115588072,35.084341696812835 -106.65743855394724,35.084602899261363 -106.65741408237098,35.084723190266324 -106.6573413369594,35.084714504850076 -106.65726190129176,35.084704811497971 -106.65718539210184,35.084695451720954</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">22</SimpleData>
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="STATEREGIS">739</SimpleData>
+		<SimpleData name="HISTORICPL">KELEHER, THOMAS F JR HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">74</SimpleData>
+		<SimpleData name="GlobalID">{5E067338-0E69-42B7-BC2D-7E135AD310A1}</SimpleData>
+		<SimpleData name="SHAPE_Leng">309.33771066000</SimpleData>
+		<SimpleData name="Shape_Le_1">309.33774744400</SimpleData>
+		<SimpleData name="Shape_Area">5942.79643909000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65589063987198,35.08825832221315 -106.6559011976113,35.088027828673304 -106.6561402695466,35.088040766323104 -106.65612719011516,35.088268177245247 -106.65589063987198,35.08825832221315</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">23</SimpleData>
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="STATEREGIS">508</SimpleData>
+		<SimpleData name="HISTORICPL">ALBUQUERQUE HIGH SCHOOL, OLD</SimpleData>
+		<SimpleData name="SORTINDEXN">2</SimpleData>
+		<SimpleData name="GlobalID">{F8B4E250-4C8E-45C5-BC9E-EC82DBE5CE8E}</SimpleData>
+		<SimpleData name="SHAPE_Leng">1695.38393762000</SimpleData>
+		<SimpleData name="Shape_Le_1">1695.38426999000</SimpleData>
+		<SimpleData name="Shape_Area">163901.71773100001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.64329121409409,35.084416401187362 -106.64344152121733,35.083610168939337 -106.64443571209313,35.083735735426153 -106.64414492919384,35.085217313241252 -106.64315199893852,35.085096893082202 -106.64329121409409,35.084416401187362</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">24</SimpleData>
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="STATEREGIS">467</SimpleData>
+		<SimpleData name="HISTORICPL">LEMBKE HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">85</SimpleData>
+		<SimpleData name="GlobalID">{4BDDFEEC-51D0-4AB6-8999-7995530E5D01}</SimpleData>
+		<SimpleData name="SHAPE_Leng">444.27802980100</SimpleData>
+		<SimpleData name="Shape_Le_1">444.27820910500</SimpleData>
+		<SimpleData name="Shape_Area">12258.29151810000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66764152451269,35.088128090435319 -106.66791604391142,35.087962973943618 -106.66815349489937,35.088231080207322 -106.66787311481944,35.088394156707537 -106.66764152451269,35.088128090435319</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">25</SimpleData>
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="STATEREGIS">992</SimpleData>
+		<SimpleData name="HISTORICPL">HILTON HOTEL, OLD</SimpleData>
+		<SimpleData name="SORTINDEXN">66</SimpleData>
+		<SimpleData name="GlobalID">{FCABF4F1-79A1-42B2-AA32-52652FB24B4F}</SimpleData>
+		<SimpleData name="SHAPE_Leng">687.15061954100</SimpleData>
+		<SimpleData name="Shape_Le_1">687.15118936200</SimpleData>
+		<SimpleData name="Shape_Area">28543.18469100000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.64916165141508,35.085177892360356 -106.64923207085315,35.084795052138467 -106.64932906875487,35.08480744055263 -106.64940850530964,35.084817482555017 -106.64949379475284,35.084828192131411 -106.64956570718439,35.084837571910079 -106.6496526696351,35.084848619315842 -106.64973126894581,35.084858320411954 -106.64981781471329,35.084869369072599 -106.64990435940685,35.084880417674938 -106.64982934026469,35.085261899622409 -106.64974446705632,35.085251188912373 -106.64965625069115,35.085240145707232 -106.64957681369732,35.085230103870806 -106.64949319512449,35.085219388850497 -106.64941961274018,35.085210357984757 -106.64933557638221,35.085199644231658 -106.64925321301816,35.085189268365845 -106.64916165141508,35.085177892360356</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">26</SimpleData>
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="STATEREGIS">1573</SimpleData>
+		<SimpleData name="HISTORICPL">TOWER COURTS</SimpleData>
+		<SimpleData name="SORTINDEXN">159</SimpleData>
+		<SimpleData name="GlobalID">{B42DF16B-D2E1-4DA0-9BDD-A24EA4555325}</SimpleData>
+		<SimpleData name="SHAPE_Leng">510.11812502500</SimpleData>
+		<SimpleData name="Shape_Le_1">510.11775943200</SimpleData>
+		<SimpleData name="Shape_Area">15574.18440170000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.67349286763567,35.095124212900053 -106.67351950183206,35.094779635757163 -106.67366873023661,35.094788387648194 -106.67368628620797,35.094789356662112 -106.67383927727525,35.094798438647985 -106.67385307062104,35.094799077337328 -106.67387146411887,35.094800386849542 -106.67388651108261,35.094801021152648 -106.67385515897118,35.095202628032801 -106.67384052803108,35.095201648819064 -106.67382171656898,35.095200340763519 -106.67365533500409,35.09518787101846 -106.67364321131549,35.095186883020332 -106.67356545469661,35.095180972523437 -106.67356812050309,35.095130819095971 -106.67349286763567,35.095124212900053</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">27</SimpleData>
+		<SimpleData name="OBJECTID">56</SimpleData>
+		<SimpleData name="STATEREGIS">660</SimpleData>
+		<SimpleData name="HISTORICPL">FIRST NATIONAL BANK BUILDING</SimpleData>
+		<SimpleData name="SORTINDEXN">48</SimpleData>
+		<SimpleData name="GlobalID">{5E8F30EF-E834-4914-B921-08B9BBE18B70}</SimpleData>
+		<SimpleData name="SHAPE_Leng">420.52095666300</SimpleData>
+		<SimpleData name="Shape_Le_1">420.52076263400</SimpleData>
+		<SimpleData name="Shape_Area">9854.03030153000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.64998522931472,35.084841684136677 -106.65005941843039,35.084461578623632 -106.6501417828359,35.084472297395578 -106.65022080301615,35.084482683694858 -106.65029397036427,35.084492402355025 -106.65021642798408,35.084870114896567 -106.65014660792291,35.084861415507476 -106.65006884588563,35.084852055372281 -106.64998522931472,35.084841684136677</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">28</SimpleData>
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="STATEREGIS">785</SimpleData>
+		<SimpleData name="HISTORICPL">SPRINGER BUILDING</SimpleData>
+		<SimpleData name="SORTINDEXN">151</SimpleData>
+		<SimpleData name="GlobalID">{D2261C03-A101-45E9-B954-F03AE5ABE70C}</SimpleData>
+		<SimpleData name="SHAPE_Leng">702.15023256300</SimpleData>
+		<SimpleData name="Shape_Le_1">702.14985264900</SimpleData>
+		<SimpleData name="Shape_Area">30164.32373140000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6459716399025,35.086157235694166 -106.64607556160415,35.085613894997131 -106.64657182263025,35.085674094769274 -106.64646708899966,35.086221903428587 -106.6459716399025,35.086157235694166</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">29</SimpleData>
+		<SimpleData name="OBJECTID">59</SimpleData>
+		<SimpleData name="STATEREGIS">583</SimpleData>
+		<SimpleData name="HISTORICPL">CONNOR, C H HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">30</SimpleData>
+		<SimpleData name="GlobalID">{3CD16F24-46E0-4DF3-950E-6EE850459ECC}</SimpleData>
+		<SimpleData name="SHAPE_Leng">402.40760177700</SimpleData>
+		<SimpleData name="Shape_Le_1">402.40782903400</SimpleData>
+		<SimpleData name="Shape_Area">7468.10572854000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65963810050252,35.090555105574204 -106.65973842928774,35.090145712791028 -106.65989399302076,35.09016991566962 -106.65980496010498,35.090581674574977 -106.65963810050252,35.090555105574204</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">30</SimpleData>
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="STATEREGIS">1646</SimpleData>
+		<SimpleData name="HISTORICPL">ROOSEVELT PARK (TERRACE PARK)</SimpleData>
+		<SimpleData name="SORTINDEXN">134</SimpleData>
+		<SimpleData name="GlobalID">{A64FCAA4-D188-40AD-8F87-5F3FCC3E2FFF}</SimpleData>
+		<SimpleData name="SHAPE_Leng">3732.96642674000</SimpleData>
+		<SimpleData name="Shape_Le_1">3732.96655210000</SimpleData>
+		<SimpleData name="Shape_Area">612012.26005599997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.63154682931282,35.074532193268972 -106.63166082919825,35.074520500574231 -106.63176828598195,35.074539395829099 -106.6323558713386,35.074759073927844 -106.63244423925305,35.074805505127131 -106.6325256173259,35.074876000128413 -106.63269040577926,35.075094260828138 -106.63278149530683,35.075186362645908 -106.63297482434793,35.075343055399237 -106.63362190720757,35.075776168122232 -106.63367937584731,35.075825787232596 -106.63373616818814,35.07590941045099 -106.63376041411391,35.076001722993716 -106.63375124580382,35.076095858536313 -106.63370946172483,35.076183915993518 -106.63359126573044,35.076370442222206 -106.63356534255065,35.076455357467694 -106.63355821626777,35.076539526351617 -106.63337189538817,35.076542176198153 -106.63341959749384,35.077629748320874 -106.63333731372451,35.078080964963426 -106.6323524070351,35.077956995989595 -106.63241230918786,35.077632585249006 -106.63237553403545,35.076555968779623 -106.63099431600023,35.076554133537044 -106.6309661129672,35.07632891597315 -106.63086439936986,35.075928079643546 -106.63086356824836,35.075839127526436 -106.63087986281649,35.075749434716741 -106.63091619627991,35.075656586974596 -106.63118377972532,35.075160827319081 -106.63125602044276,35.074883775847461 -106.63134069562356,35.074675375245469 -106.63139761716742,35.074607879152538 -106.63144133615404,35.074576143836026 -106.63154682931282,35.074532193268972</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">31</SimpleData>
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="STATEREGIS">710</SimpleData>
+		<SimpleData name="HISTORICPL">BLYTHE HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">18</SimpleData>
+		<SimpleData name="GlobalID">{91F5398E-C116-4A21-8AD0-B5704EC7F5A4}</SimpleData>
+		<SimpleData name="SHAPE_Leng">409.45185463100</SimpleData>
+		<SimpleData name="Shape_Le_1">409.45140127500</SimpleData>
+		<SimpleData name="Shape_Area">10257.27507980000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65534463009784,35.095290994705131 -106.6553481561601,35.095159096923808 -106.65573851801166,35.095171185957746 -106.65573375596337,35.095306522414916 -106.65572932671564,35.095424686002225 -106.6553421910839,35.095389230445896 -106.65534463009784,35.095290994705131</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">32</SimpleData>
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="STATEREGIS">736</SimpleData>
+		<SimpleData name="HISTORICPL">GONZALES, ELIAS HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">55</SimpleData>
+		<SimpleData name="GlobalID">{3BD950D6-D620-4BEC-B0FC-D912087FBE7C}</SimpleData>
+		<SimpleData name="SHAPE_Leng">400.54416564300</SimpleData>
+		<SimpleData name="Shape_Le_1">400.54375311200</SimpleData>
+		<SimpleData name="Shape_Area">7798.51658344000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65917203500243,35.094790778287923 -106.65918963979834,35.09471790682489 -106.65967347938751,35.094788398172 -106.65965589562153,35.09486539106873 -106.65963994724711,35.094935165922678 -106.6591556483863,35.094856776575476 -106.65917203500243,35.094790778287923</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">33</SimpleData>
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="STATEREGIS">1213</SimpleData>
+		<SimpleData name="HISTORICPL">CASTLE APARTMENTS</SimpleData>
+		<SimpleData name="SORTINDEXN">23</SimpleData>
+		<SimpleData name="GlobalID">{61C31DAE-C27B-4126-A6D3-19297A892620}</SimpleData>
+		<SimpleData name="SHAPE_Leng">816.87415829600</SimpleData>
+		<SimpleData name="Shape_Le_1">816.87349542800</SimpleData>
+		<SimpleData name="Shape_Area">35380.04499450000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66343242375808,35.088847969242963 -106.66355782283078,35.088194292428049 -106.66399181771587,35.088247764056774 -106.66382714642337,35.089067119843087 -106.66343242375808,35.088847969242963</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">34</SimpleData>
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="STATEREGIS">663</SimpleData>
+		<SimpleData name="HISTORICPL">OESTRIECH HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">116</SimpleData>
+		<SimpleData name="GlobalID">{C45EEFD0-D50F-4C06-9E79-8F3304F5E7E9}</SimpleData>
+		<SimpleData name="SHAPE_Leng">338.47573453300</SimpleData>
+		<SimpleData name="Shape_Le_1">338.47539881300</SimpleData>
+		<SimpleData name="Shape_Area">5901.93382383000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65537824118915,35.094060973943336 -106.65538175526574,35.093926672002532 -106.65578380477255,35.093937348024824 -106.65577862668654,35.094073030257633 -106.65537824118915,35.094060973943336</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">35</SimpleData>
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="STATEREGIS">772</SimpleData>
+		<SimpleData name="HISTORICPL">PACIFIC DESK BUILDING</SimpleData>
+		<SimpleData name="SORTINDEXN">121</SimpleData>
+		<SimpleData name="GlobalID">{4CB438BA-945E-4CD9-821C-78EB17F9DD8A}</SimpleData>
+		<SimpleData name="SHAPE_Leng">378.77069479100</SimpleData>
+		<SimpleData name="Shape_Le_1">378.77058553700</SimpleData>
+		<SimpleData name="Shape_Area">7019.98830385000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6499240209745,35.083772369067376 -106.6499927912659,35.083395029031806 -106.65007766483707,35.083406426484274 -106.65016086381416,35.083417142495371 -106.65009000183829,35.083793802615645 -106.65000680248704,35.083783086559094 -106.6499240209745,35.083772369067376</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">36</SimpleData>
+		<SimpleData name="OBJECTID">75</SimpleData>
+		<SimpleData name="STATEREGIS">1170</SimpleData>
+		<SimpleData name="HISTORICPL">SUNSHINE BUILDING</SimpleData>
+		<SimpleData name="SORTINDEXN">155</SimpleData>
+		<SimpleData name="GlobalID">{3DCFC529-CA2B-4AE4-99D6-39FCE604B4BC}</SimpleData>
+		<SimpleData name="SHAPE_Leng">451.10952235500</SimpleData>
+		<SimpleData name="Shape_Le_1">451.10899468700</SimpleData>
+		<SimpleData name="Shape_Area">11673.32961920000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.64887555809256,35.08408699140687 -106.64895262292411,35.083695886526456 -106.64902662506027,35.083705603209154 -106.64911484136383,35.083716990335098 -106.64921601672496,35.083729709452697 -106.649143156406,35.084125951561226 -106.64903987976564,35.084110836024443 -106.64895291148832,35.084098414378772 -106.64887555809256,35.08408699140687</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">37</SimpleData>
+		<SimpleData name="OBJECTID">77</SimpleData>
+		<SimpleData name="STATEREGIS">734</SimpleData>
+		<SimpleData name="HISTORICPL">GARCIA, J A HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">50</SimpleData>
+		<SimpleData name="GlobalID">{B8EA3867-8E88-44C0-892D-4B999273536C}</SimpleData>
+		<SimpleData name="SHAPE_Leng">333.20087557900</SimpleData>
+		<SimpleData name="Shape_Le_1">333.20085549600</SimpleData>
+		<SimpleData name="Shape_Area">3679.57972881000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65782984532183,35.087833488443493 -106.6579035929884,35.087455440640085 -106.65799555963342,35.087463717582928 -106.65791138695937,35.087845921951391 -106.65782984532183,35.087833488443493</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">38</SimpleData>
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="STATEREGIS">277</SimpleData>
+		<SimpleData name="HISTORICPL">OCCIDENTAL INSURANCE COMPANY BUILDING</SimpleData>
+		<SimpleData name="SORTINDEXN">115</SimpleData>
+		<SimpleData name="GlobalID">{9A969A50-9E42-4C43-B0FC-D6D81D1BB097}</SimpleData>
+		<SimpleData name="SHAPE_Leng">487.03055509300</SimpleData>
+		<SimpleData name="Shape_Le_1">487.03087718700</SimpleData>
+		<SimpleData name="Shape_Area">14360.10061400000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65062103256936,35.083874134918318 -106.6506976693729,35.083482686904524 -106.65078212531211,35.083494085243053 -106.65086741858661,35.083505824208601 -106.65094727633027,35.083516550724134 -106.65102629904624,35.083527623402219 -106.65095631861467,35.083912867438634 -106.65087103220839,35.08390284578428 -106.65079285318575,35.083893487487487 -106.65070714841757,35.083883123646572 -106.65062103256936,35.083874134918318</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">39</SimpleData>
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="STATEREGIS">951</SimpleData>
+		<SimpleData name="HISTORICPL">ELLER APARTMENTS</SimpleData>
+		<SimpleData name="SORTINDEXN">40</SimpleData>
+		<SimpleData name="GlobalID">{54A8C506-8092-4057-9C3E-50403ED24C4F}</SimpleData>
+		<SimpleData name="SHAPE_Leng">448.40289120600</SimpleData>
+		<SimpleData name="Shape_Le_1">448.40301661000</SimpleData>
+		<SimpleData name="Shape_Area">11644.59943930000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65661972574229,35.084457961666203 -106.65666289994741,35.084233198168548 -106.65674944825184,35.084244928781047 -106.65684477249724,35.084256973342768 -106.65692964725824,35.084268022533678 -106.65685928703904,35.08465567528647 -106.65676814565795,35.084644647068949 -106.65668453872549,35.084636341144588 -106.65659004288634,35.084622919866817 -106.65661972574229,35.084457961666203</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">40</SimpleData>
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="STATEREGIS">522</SimpleData>
+		<SimpleData name="HISTORICPL">CHAVES, KATE NICHOLS HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">26</SimpleData>
+		<SimpleData name="GlobalID">{DF2BA479-F141-4AF6-938D-14F7D1A9D022}</SimpleData>
+		<SimpleData name="SHAPE_Leng">397.77466050700</SimpleData>
+		<SimpleData name="Shape_Le_1">397.77515532600</SimpleData>
+		<SimpleData name="Shape_Area">7146.05899396000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65899743463173,35.090453888769687 -106.65909275808104,35.090045887199253 -106.65924412517427,35.090066327084898 -106.65915592822756,35.090478769616972 -106.65899743463173,35.090453888769687</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">41</SimpleData>
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="STATEREGIS">836</SimpleData>
+		<SimpleData name="HISTORICPL">WILSON, J W HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">168</SimpleData>
+		<SimpleData name="GlobalID">{1E6E1352-9B17-43E7-9381-DADD104DEFB4}</SimpleData>
+		<SimpleData name="SHAPE_Leng">364.92626739300</SimpleData>
+		<SimpleData name="Shape_Le_1">364.92618516600</SimpleData>
+		<SimpleData name="Shape_Area">6454.72411940000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.63946891007909,35.081865191252639 -106.63949124635762,35.081729798603718 -106.63993693594421,35.081792592253876 -106.6399107927179,35.081918037053022 -106.63946891007909,35.081865191252639</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">42</SimpleData>
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="STATEREGIS">1635</SimpleData>
+		<SimpleData name="HISTORICPL">SAIS HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">137</SimpleData>
+		<SimpleData name="GlobalID">{D3A1E2E6-2308-421C-9488-B87F054FD249}</SimpleData>
+		<SimpleData name="SHAPE_Leng">589.19817089000</SimpleData>
+		<SimpleData name="Shape_Le_1">589.19895956700</SimpleData>
+		<SimpleData name="Shape_Area">15430.88588530000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66834485043528,35.094364161502611 -106.66859053483178,35.094358505243711 -106.66857897634458,35.094549849344311 -106.66805373707457,35.094556813217523 -106.66782182778118,35.094559673299798 -106.66782926625821,35.094461419217794 -106.66783551593687,35.094375877891878 -106.66805863715575,35.094370643914907 -106.66821239774782,35.094367022593701 -106.66834485043528,35.094364161502611</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">43</SimpleData>
+		<SimpleData name="OBJECTID">83</SimpleData>
+		<SimpleData name="STATEREGIS">740</SimpleData>
+		<SimpleData name="HISTORICPL">KELLOGG/ELDER HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">75</SimpleData>
+		<SimpleData name="GlobalID">{629B8D83-DEAA-4260-9627-9490427E7AE7}</SimpleData>
+		<SimpleData name="SHAPE_Leng">385.47162881700</SimpleData>
+		<SimpleData name="Shape_Le_1">385.47150615200</SimpleData>
+		<SimpleData name="Shape_Area">7276.46412711000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.64328796981692,35.080954731746949 -106.64331695636646,35.080813478108254 -106.64378268509928,35.080873445013708 -106.64375535569609,35.08101160229247 -106.64328796981692,35.080954731746949</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">44</SimpleData>
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="STATEREGIS">371</SimpleData>
+		<SimpleData name="HISTORICPL">SPITZ, BERTHOLD HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">150</SimpleData>
+		<SimpleData name="GlobalID">{176A5C7D-04A2-45A5-9DB2-F5CD60C41814}</SimpleData>
+		<SimpleData name="SHAPE_Leng">419.26883713200</SimpleData>
+		<SimpleData name="Shape_Le_1">419.26902560800</SimpleData>
+		<SimpleData name="Shape_Area">9704.63319950000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65817143705583,35.088798475486534 -106.65821147349767,35.088615279131545 -106.65867605483841,35.088685496936151 -106.65862978259008,35.088874895713047 -106.65817143705583,35.088798475486534</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">45</SimpleData>
+		<SimpleData name="OBJECTID">86</SimpleData>
+		<SimpleData name="STATEREGIS">768</SimpleData>
+		<SimpleData name="HISTORICPL">HOPE BUILDING</SimpleData>
+		<SimpleData name="SORTINDEXN">68</SimpleData>
+		<SimpleData name="GlobalID">{3EAB61E4-2AA7-4D92-BCE7-2DA7423354B6}</SimpleData>
+		<SimpleData name="SHAPE_Leng">331.04589530200</SimpleData>
+		<SimpleData name="Shape_Le_1">331.04625325400</SimpleData>
+		<SimpleData name="Shape_Area">3321.22890255000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65028675058238,35.083271102594637 -106.65035296603783,35.082884154055343 -106.65043156689693,35.082894541609456 -106.65036242484096,35.083280812944167 -106.65028675058238,35.083271102594637</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">46</SimpleData>
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="STATEREGIS">754</SimpleData>
+		<SimpleData name="HISTORICPL">MARCHANT HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">98</SimpleData>
+		<SimpleData name="GlobalID">{83A91972-19FA-44CC-A16B-5E0477C34F1F}</SimpleData>
+		<SimpleData name="SHAPE_Leng">480.72706955900</SimpleData>
+		<SimpleData name="Shape_Le_1">480.72713905800</SimpleData>
+		<SimpleData name="Shape_Area">9220.60482924000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66052862960106,35.095905165399998 -106.66064433561209,35.09539543097172 -106.66071543312819,35.095406868464337 -106.66080284161653,35.095420997376188 -106.66068095792164,35.095948611528826 -106.66059725986825,35.095924509830503 -106.66052862960106,35.095905165399998</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">47</SimpleData>
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="STATEREGIS">1682</SimpleData>
+		<SimpleData name="HISTORICPL">HORN OIL CO &amp; LODGE/PLAZA MEXICO LINDO</SimpleData>
+		<SimpleData name="SORTINDEXN">69</SimpleData>
+		<SimpleData name="GlobalID">{5BD44663-1DC7-4DAA-B0C0-1D2A9C2F9087}</SimpleData>
+		<SimpleData name="SHAPE_Leng">1148.92922819000</SimpleData>
+		<SimpleData name="Shape_Le_1">1148.92924821000</SimpleData>
+		<SimpleData name="Shape_Area">68118.42462140000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66681008898661,35.090361341273805 -106.6669081067011,35.090243886761108 -106.66697774769388,35.090298256362395 -106.66710614486104,35.090402911446674 -106.66710614660975,35.090403254893857 -106.66734104918453,35.090580356295803 -106.66735153396159,35.090587876179171 -106.66668653281711,35.091290465150941 -106.66652817881503,35.091457928356824 -106.66623833640766,35.091241860352653 -106.6662081409317,35.091220326451733 -106.66617836158122,35.091198447661753 -106.66614858050187,35.09117622541708 -106.66613725481545,35.091167677956662 -106.66631418666819,35.090955503457003 -106.66638645495,35.090869047661982 -106.66681008898661,35.090361341273805</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">48</SimpleData>
+		<SimpleData name="OBJECTID">93</SimpleData>
+		<SimpleData name="STATEREGIS">784</SimpleData>
+		<SimpleData name="HISTORICPL">SKINNER BUILDING</SimpleData>
+		<SimpleData name="SORTINDEXN">147</SimpleData>
+		<SimpleData name="GlobalID">{6573960D-8C1A-4786-9657-A13C24C2B332}</SimpleData>
+		<SimpleData name="SHAPE_Leng">473.00942230400</SimpleData>
+		<SimpleData name="Shape_Le_1">473.00926326400</SimpleData>
+		<SimpleData name="Shape_Area">12088.16654200000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65612484099297,35.085012581402417 -106.65619019003044,35.084624946772315 -106.65633526947049,35.084643694137171 -106.65635280094465,35.084640200854921 -106.65652326642498,35.085059330813273 -106.65626949306483,35.085029269551704 -106.65616037471656,35.085016240383155 -106.65612484099297,35.085012581402417</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">49</SimpleData>
+		<SimpleData name="OBJECTID">94</SimpleData>
+		<SimpleData name="STATEREGIS">1286</SimpleData>
+		<SimpleData name="HISTORICPL">LOPEZ, HILARIO HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">89</SimpleData>
+		<SimpleData name="GlobalID">{66EA0704-7531-450E-88E5-BA4768019A05}</SimpleData>
+		<SimpleData name="SHAPE_Leng">419.88127194200</SimpleData>
+		<SimpleData name="Shape_Le_1">419.88146200700</SimpleData>
+		<SimpleData name="Shape_Area">10284.22370880000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66409954911779,35.091208999335315 -106.66411467812047,35.091143348104787 -106.66453912178693,35.091205436641182 -106.66456229150734,35.091242450373876 -106.6645532916276,35.091280604448094 -106.66453816121935,35.091345913183787 -106.66452344342474,35.091410189245387 -106.664068071104,35.091347175920411 -106.66408320124849,35.091281523789768 -106.66409954911779,35.091208999335315</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">50</SimpleData>
+		<SimpleData name="OBJECTID">96</SimpleData>
+		<SimpleData name="STATEREGIS">510</SimpleData>
+		<SimpleData name="HISTORICPL">STRONG, MARY HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">154</SimpleData>
+		<SimpleData name="GlobalID">{05C423AD-A3CE-4ADF-A999-575A47F310A6}</SimpleData>
+		<SimpleData name="SHAPE_Leng">475.33149136100</SimpleData>
+		<SimpleData name="Shape_Le_1">475.33183590800</SimpleData>
+		<SimpleData name="Shape_Area">13845.52458840000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.63857700784669,35.08074804665543 -106.63863626423874,35.080380359905931 -106.63880559196038,35.080404545852758 -106.63897658988709,35.080428726205604 -106.63890982105897,35.080797811022151 -106.63873965363032,35.080772941008625 -106.63857700784669,35.08074804665543</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">51</SimpleData>
+		<SimpleData name="OBJECTID">98</SimpleData>
+		<SimpleData name="STATEREGIS">1024</SimpleData>
+		<SimpleData name="HISTORICPL">SECOND UNITED PRESBYTERIAN CHURCH</SimpleData>
+		<SimpleData name="SORTINDEXN">143</SimpleData>
+		<SimpleData name="GlobalID">{D20201F6-C338-4507-A9BB-4E75FB2FF495}</SimpleData>
+		<SimpleData name="SHAPE_Leng">1195.05357060000</SimpleData>
+		<SimpleData name="Shape_Le_1">1195.05360976000</SimpleData>
+		<SimpleData name="Shape_Area">44917.73939460000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6391343357438,35.09085893519822 -106.63945363561373,35.090518577941118 -106.63937001995349,35.09050957232003 -106.63940107900358,35.090274550314504 -106.64017863329684,35.090345549891111 -106.64019494913583,35.090349618832612 -106.64021297400991,35.090361581704933 -106.64022225018108,35.090379067986845 -106.64022108660649,35.090397961679173 -106.64014479652825,35.0906108058401 -106.63976479559898,35.090575965270475 -106.63966337048855,35.090687913662229 -106.64004591662982,35.090730645792689 -106.63987792656556,35.090904286650932 -106.63985792186079,35.090915341484944 -106.63984707399065,35.090918810897655 -106.63983580336188,35.090921251307833 -106.63981240514707,35.090921669983572 -106.6391343357438,35.09085893519822</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">52</SimpleData>
+		<SimpleData name="OBJECTID">103</SimpleData>
+		<SimpleData name="STATEREGIS">762</SimpleData>
+		<SimpleData name="HISTORICPL">MCAVOY, HARRY W HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">102</SimpleData>
+		<SimpleData name="GlobalID">{29C924E7-2249-49C2-AA4A-81AD07805697}</SimpleData>
+		<SimpleData name="SHAPE_Leng">477.05006828500</SimpleData>
+		<SimpleData name="Shape_Le_1">455.18716418300</SimpleData>
+		<SimpleData name="Shape_Area">13216.20893440000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.62820299112337,35.087675148896125 -106.62829087238518,35.087519839131936 -106.62845201068586,35.087577723501127 -106.6285101869525,35.087598492610859 -106.62852611240299,35.08760874651707 -106.62853953876285,35.087620725492116 -106.62855004978056,35.08763477429013 -106.62856314559329,35.087665644259481 -106.6285653173083,35.087683497082971 -106.62851784245137,35.087989320158762 -106.62825452363606,35.087882640754117 -106.62820440203727,35.087862236731034 -106.62820299112337,35.087675148896125</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">53</SimpleData>
+		<SimpleData name="OBJECTID">104</SimpleData>
+		<SimpleData name="STATEREGIS">529</SimpleData>
+		<SimpleData name="HISTORICPL">COONS, J H HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">32</SimpleData>
+		<SimpleData name="GlobalID">{71C962BC-D265-43ED-B564-8BFF9ADB16B9}</SimpleData>
+		<SimpleData name="SHAPE_Leng">468.76144544800</SimpleData>
+		<SimpleData name="Shape_Le_1">468.76153690200</SimpleData>
+		<SimpleData name="Shape_Area">12818.51873030000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66050708011065,35.089187280560843 -106.66054350753222,35.089035349940765 -106.66106331924371,35.08911945316224 -106.66104865424437,35.089194719162499 -106.66101095002939,35.089341845006629 -106.66056681164038,35.089266416061299 -106.66053412335292,35.089247293346432 -106.66051309170871,35.089219544826236 -106.66050708011065,35.089187280560843</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">54</SimpleData>
+		<SimpleData name="OBJECTID">105</SimpleData>
+		<SimpleData name="STATEREGIS">520</SimpleData>
+		<SimpleData name="HISTORICPL">SAN IGNACIO CHURCH</SimpleData>
+		<SimpleData name="SORTINDEXN">139</SimpleData>
+		<SimpleData name="GlobalID">{871CFFF4-0CF6-48EE-AFC0-BFED880AFEA0}</SimpleData>
+		<SimpleData name="SHAPE_Leng">434.17402552600</SimpleData>
+		<SimpleData name="Shape_Le_1">434.17419100300</SimpleData>
+		<SimpleData name="Shape_Area">9605.01230977000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.63795046135887,35.095431355782473 -106.63798349435007,35.095259179958639 -106.63824656994903,35.095307108243354 -106.63848455477115,35.095350994909147 -106.63846235993948,35.095517298335302 -106.63820975543499,35.095474832251305 -106.63795046135887,35.095431355782473</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">55</SimpleData>
+		<SimpleData name="OBJECTID">110</SimpleData>
+		<SimpleData name="STATEREGIS">521</SimpleData>
+		<SimpleData name="HISTORICPL">CHAMPION GROCERY BUILDING</SimpleData>
+		<SimpleData name="SORTINDEXN">25</SimpleData>
+		<SimpleData name="GlobalID">{8869DC9F-C2E9-4296-839E-A919A5CDB7AD}</SimpleData>
+		<SimpleData name="SHAPE_Leng">375.56028444800</SimpleData>
+		<SimpleData name="Shape_Le_1">375.55953332700</SimpleData>
+		<SimpleData name="Shape_Area">8226.15459524000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65438112908498,35.087277651171085 -106.65444386672822,35.08695150449261 -106.65453251355704,35.086964603488539 -106.65460777956218,35.086975686345589 -106.6546738464619,35.086985426040862 -106.6546114715733,35.087300237655363 -106.65454876576258,35.087294264703651 -106.65447435379347,35.087286956952127 -106.65438112908498,35.087277651171085</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">56</SimpleData>
+		<SimpleData name="OBJECTID">113</SimpleData>
+		<SimpleData name="STATEREGIS">495</SimpleData>
+		<SimpleData name="HISTORICPL">F M MERCHANTILE</SimpleData>
+		<SimpleData name="SORTINDEXN">42</SimpleData>
+		<SimpleData name="GlobalID">{288D57D3-735E-44CC-AF1C-7618ADEA9041}</SimpleData>
+		<SimpleData name="SHAPE_Leng">654.40589958900</SimpleData>
+		<SimpleData name="Shape_Le_1">654.40588995000</SimpleData>
+		<SimpleData name="Shape_Area">26690.27426700000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.63800943937265,35.098530495543976 -106.63803561986302,35.098411233508152 -106.63858290817423,35.098465463588404 -106.63850009295771,35.098890924881019 -106.63793910242832,35.098855971659276 -106.63800943937265,35.098530495543976</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">57</SimpleData>
+		<SimpleData name="OBJECTID">114</SimpleData>
+		<SimpleData name="STATEREGIS">0</SimpleData>
+		<SimpleData name="HISTORICPL">SOUTHERN UNION GAS COMPANY BLDG</SimpleData>
+		<SimpleData name="SORTINDEXN">0</SimpleData>
+		<SimpleData name="GlobalID">{9C911E80-8274-46B6-BBE8-2483F535B2C1}</SimpleData>
+		<SimpleData name="SHAPE_Leng">492.86417121000</SimpleData>
+		<SimpleData name="Shape_Le_1">492.86420874600</SimpleData>
+		<SimpleData name="Shape_Area">14965.49546080000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65619505377325,35.083583232632442 -106.65626714773113,35.083207938716583 -106.65635368978776,35.083218639277121 -106.65644232203492,35.083229332770323 -106.65653053709744,35.083240371050955 -106.65662502281342,35.083252076050265 -106.65655542712958,35.083625300171143 -106.65645968925119,35.083613943671907 -106.65636855078429,35.083603258591928 -106.65628075717957,35.083593249144648 -106.65619505377325,35.083583232632442</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">58</SimpleData>
+		<SimpleData name="OBJECTID">115</SimpleData>
+		<SimpleData name="STATEREGIS">751</SimpleData>
+		<SimpleData name="HISTORICPL">BOTTGER HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">20</SimpleData>
+		<SimpleData name="GlobalID">{A252709A-E693-4273-903D-62E35E20AB8E}</SimpleData>
+		<SimpleData name="SHAPE_Leng">448.55437723500</SimpleData>
+		<SimpleData name="Shape_Le_1">448.55413520200</SimpleData>
+		<SimpleData name="Shape_Area">5707.04356763000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6692075404809,35.094564163544533 -106.66920932397966,35.094504396566307 -106.66921182895564,35.094422301749994 -106.66949156920136,35.09445739681626 -106.66948683267152,35.094511679669289 -106.66948327938732,35.094552219409124 -106.66930059572164,35.094538426266048 -106.6692959487234,35.094610224000107 -106.66947734199553,35.094616809102078 -106.66947181894915,35.094680710454782 -106.66920432631055,35.094670988520718 -106.66920502143076,35.094643509882616 -106.6692075404809,35.094564163544533</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">59</SimpleData>
+		<SimpleData name="OBJECTID">116</SimpleData>
+		<SimpleData name="STATEREGIS">1172</SimpleData>
+		<SimpleData name="HISTORICPL">MILNE, JOHN HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">106</SimpleData>
+		<SimpleData name="GlobalID">{BFCC04F5-F636-43B2-B108-6B90DDB653CB}</SimpleData>
+		<SimpleData name="SHAPE_Leng">382.88369494800</SimpleData>
+		<SimpleData name="Shape_Le_1">382.88394843800</SimpleData>
+		<SimpleData name="Shape_Area">6816.03550240000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65685573470716,35.085118320199591 -106.65692189833592,35.084726903568679 -106.65700133398705,35.084736597143596 -106.65707993401229,35.084746293471525 -106.65701001862885,35.085139096591782 -106.65693559476877,35.085129042752683 -106.65685573470716,35.085118320199591</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">60</SimpleData>
+		<SimpleData name="OBJECTID">117</SimpleData>
+		<SimpleData name="STATEREGIS">1127</SimpleData>
+		<SimpleData name="HISTORICPL">ROMA, 701, NW</SimpleData>
+		<SimpleData name="SORTINDEXN">132</SimpleData>
+		<SimpleData name="GlobalID">{807340CB-CF96-4159-90B9-9F7C8AA99D41}</SimpleData>
+		<SimpleData name="SHAPE_Leng">430.03979459000</SimpleData>
+		<SimpleData name="Shape_Le_1">430.03893450900</SimpleData>
+		<SimpleData name="Shape_Area">10356.41169920000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65423935418806,35.089961874909669 -106.6542453714486,35.089572378657607 -106.65433312267407,35.089572772992355 -106.65441920420791,35.089573516285775 -106.65449442172502,35.089574295758759 -106.65447713390502,35.089965890334923 -106.65440776421657,35.089964747896126 -106.65431958794218,35.089962981220452 -106.65423935418806,35.089961874909669</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">61</SimpleData>
+		<SimpleData name="OBJECTID">118</SimpleData>
+		<SimpleData name="STATEREGIS">1510</SimpleData>
+		<SimpleData name="HISTORICPL">SANTA BARBARA SCHOOL (APS SPECIAL SERVICES ANNEX)</SimpleData>
+		<SimpleData name="SORTINDEXN">141</SimpleData>
+		<SimpleData name="GlobalID">{75596ED8-6DA8-4CAE-B5F6-6B72A66DE8E6}</SimpleData>
+		<SimpleData name="SHAPE_Leng">1592.75947796000</SimpleData>
+		<SimpleData name="Shape_Le_1">1592.75931479000</SimpleData>
+		<SimpleData name="Shape_Area">157444.74907500000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.63567701775426,35.097351648067786 -106.6358480334262,35.096485256417331 -106.6371625497423,35.096627033759319 -106.63744188885552,35.096666668954747 -106.63747465841726,35.096968460563893 -106.63745893637936,35.097001825772715 -106.63735508021081,35.097220593882504 -106.6372437648495,35.097452781298841 -106.63720693546016,35.097529832445787 -106.63714380023335,35.097522821536636 -106.63695900761326,35.097505208421609 -106.63678422816413,35.097484128549986 -106.6365977403573,35.097461711945932 -106.63567701775426,35.097351648067786</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">62</SimpleData>
+		<SimpleData name="OBJECTID">119</SimpleData>
+		<SimpleData name="STATEREGIS">534</SimpleData>
+		<SimpleData name="HISTORICPL">ORIELLY, J H HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">118</SimpleData>
+		<SimpleData name="GlobalID">{1F18B0AC-A4C7-4223-8FC4-A562BD64E84E}</SimpleData>
+		<SimpleData name="SHAPE_Leng">404.13431680500</SimpleData>
+		<SimpleData name="Shape_Le_1">404.13480437900</SimpleData>
+		<SimpleData name="Shape_Area">8857.84262381000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65686345901557,35.087178676026895 -106.65692970666072,35.086804088461221 -106.65700914883811,35.086814468905935 -106.65707981033285,35.086823848414973 -106.65714545273055,35.086832214374063 -106.65707251557818,35.087205794148517 -106.65701188860901,35.087197754771005 -106.65694582809643,35.087189390144246 -106.65686345901557,35.087178676026895</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">63</SimpleData>
+		<SimpleData name="OBJECTID">120</SimpleData>
+		<SimpleData name="STATEREGIS">337</SimpleData>
+		<SimpleData name="HISTORICPL">MCRAE, LOUISE A HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">104</SimpleData>
+		<SimpleData name="GlobalID">{7EB472FC-A80F-49C5-9DBC-30D95CA36DEA}</SimpleData>
+		<SimpleData name="SHAPE_Leng">341.85297923000</SimpleData>
+		<SimpleData name="Shape_Le_1">341.85294407300</SimpleData>
+		<SimpleData name="Shape_Area">3814.30583452000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65280051346889,35.093498400983655 -106.6527263850484,35.093889841348208 -106.6526950398123,35.093888915094524 -106.65264152388718,35.093883254111795 -106.65271020692978,35.093489084256959 -106.65280051346889,35.093498400983655</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">64</SimpleData>
+		<SimpleData name="OBJECTID">122</SimpleData>
+		<SimpleData name="STATEREGIS">787</SimpleData>
+		<SimpleData name="HISTORICPL">NEW MEXICO-ARIZONA WOOL WAREHOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">112</SimpleData>
+		<SimpleData name="GlobalID">{2D25143C-5AF9-46F0-98A8-F516683A0485}</SimpleData>
+		<SimpleData name="SHAPE_Leng">504.63168512900</SimpleData>
+		<SimpleData name="Shape_Le_1">504.63132465200</SimpleData>
+		<SimpleData name="Shape_Area">15444.86456520000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6466324219908,35.088352497366103 -106.64664584326169,35.08827655021485 -106.64668305269508,35.088280893393467 -106.64713752624675,35.088337106017747 -106.64712366427399,35.088408246313904 -106.64710897991264,35.088482136929755 -106.64709592860505,35.088548122762347 -106.64708206489757,35.088618919603597 -106.64689559629794,35.08859686213836 -106.64659499148408,35.088561439590649 -106.64660760207866,35.088490646901597 -106.64661939692185,35.088423978322091 -106.6466324219908,35.088352497366103</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">65</SimpleData>
+		<SimpleData name="OBJECTID">123</SimpleData>
+		<SimpleData name="STATEREGIS">380</SimpleData>
+		<SimpleData name="HISTORICPL">ARMIJO, SALVADOR HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">11</SimpleData>
+		<SimpleData name="GlobalID">{13393715-C3FD-46EE-9B3E-E27E80355746}</SimpleData>
+		<SimpleData name="SHAPE_Leng">803.16120241900</SimpleData>
+		<SimpleData name="Shape_Le_1">803.16090736100</SimpleData>
+		<SimpleData name="Shape_Area">40252.61968570000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6697844855704,35.099345787042516 -106.66979488495105,35.099173337797232 -106.67042138996388,35.09918662233725 -106.67044686929512,35.099753918654805 -106.66978772869115,35.09973387821119 -106.66976139584443,35.099732939024335 -106.6697844855704,35.099345787042516</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">66</SimpleData>
+		<SimpleData name="OBJECTID">124</SimpleData>
+		<SimpleData name="STATEREGIS">757</SimpleData>
+		<SimpleData name="HISTORICPL">PUCCINI BUILDING</SimpleData>
+		<SimpleData name="SORTINDEXN">127</SimpleData>
+		<SimpleData name="GlobalID">{D42766A2-2EE7-4E5D-9048-53FAC870CE55}</SimpleData>
+		<SimpleData name="SHAPE_Leng">440.32384751700</SimpleData>
+		<SimpleData name="Shape_Le_1">440.32361442200</SimpleData>
+		<SimpleData name="Shape_Area">10937.34808520000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65482712889604,35.084857901508499 -106.65490375663475,35.084468511718356 -106.65498319350715,35.084478550067068 -106.65506848328643,35.084489255720641 -106.65515419260656,35.084500303366163 -106.65507925090667,35.084892435306017 -106.65499645406226,35.08487897370685 -106.6549107460629,35.084868269401127 -106.65482712889604,35.084857901508499</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">67</SimpleData>
+		<SimpleData name="OBJECTID">125</SimpleData>
+		<SimpleData name="STATEREGIS">732</SimpleData>
+		<SimpleData name="HISTORICPL">FERGUSSON, ERNA HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">45</SimpleData>
+		<SimpleData name="GlobalID">{1416D819-C337-4B2B-9513-CFA09CEBC4F3}</SimpleData>
+		<SimpleData name="SHAPE_Leng">399.99675101100</SimpleData>
+		<SimpleData name="Shape_Le_1">399.99660714000</SimpleData>
+		<SimpleData name="Shape_Area">9846.93553421000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65757628775104,35.093223478139798 -106.65757302185666,35.092903046382709 -106.65773022064816,35.092919003637569 -106.65787153041343,35.092932953417609 -106.65787266713144,35.092993397356928 -106.65787428670308,35.093066890892786 -106.65787584129077,35.093127333425095 -106.65787795569827,35.093216281589477 -106.6577538616896,35.09321910313291 -106.65772001802276,35.093219903845231 -106.65759634357585,35.093223067269896 -106.65757628775104,35.093223478139798</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">68</SimpleData>
+		<SimpleData name="OBJECTID">126</SimpleData>
+		<SimpleData name="STATEREGIS">661</SimpleData>
+		<SimpleData name="HISTORICPL">GRUNSFELD/HUBBELL HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">59</SimpleData>
+		<SimpleData name="GlobalID">{33010618-990D-4041-BA48-D9D9C38D96C8}</SimpleData>
+		<SimpleData name="SHAPE_Leng">440.46003779800</SimpleData>
+		<SimpleData name="Shape_Le_1">440.45915687400</SimpleData>
+		<SimpleData name="Shape_Area">10782.98030530000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6575686038796,35.08680778149693 -106.65763012543447,35.086407794759552 -106.65771123582773,35.086417825684649 -106.65779234794977,35.086428200003141 -106.65787262272067,35.086438233630211 -106.65781193799501,35.08683821767027 -106.65776385646546,35.086832197197296 -106.65773082717338,35.08682818681617 -106.65768107261586,35.08682182848213 -106.65764971466224,35.086817812459849 -106.65759703528889,35.08681146392361 -106.6575686038796,35.08680778149693</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">69</SimpleData>
+		<SimpleData name="OBJECTID">128</SimpleData>
+		<SimpleData name="STATEREGIS">39</SimpleData>
+		<SimpleData name="HISTORICPL">SAN FELIPE DE NERI CHURCH</SimpleData>
+		<SimpleData name="SORTINDEXN">138</SimpleData>
+		<SimpleData name="GlobalID">{1AE0C2B9-5766-483F-ABB5-A59860984A0C}</SimpleData>
+		<SimpleData name="SHAPE_Leng">820.52586273700</SimpleData>
+		<SimpleData name="Shape_Le_1">820.52618743000</SimpleData>
+		<SimpleData name="Shape_Area">41143.43428130000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.67026654303666,35.09686301005199 -106.66948572117334,35.096905554540669 -106.66950369941222,35.096417788436 -106.67027658217127,35.096376301722472 -106.67026654303666,35.09686301005199</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">70</SimpleData>
+		<SimpleData name="OBJECTID">129</SimpleData>
+		<SimpleData name="STATEREGIS">737</SimpleData>
+		<SimpleData name="HISTORICPL">HARWOOD SCHOOL</SimpleData>
+		<SimpleData name="SORTINDEXN">61</SimpleData>
+		<SimpleData name="GlobalID">{73992E2E-E670-4449-9C51-579F1174E6D7}</SimpleData>
+		<SimpleData name="SHAPE_Leng">916.69228373400</SimpleData>
+		<SimpleData name="Shape_Le_1">916.69241764100</SimpleData>
+		<SimpleData name="Shape_Area">43352.39546730000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65276453486348,35.094849668110605 -106.65278359942208,35.094477644089466 -106.6528813949688,35.094480066808991 -106.65297208500765,35.094482169611453 -106.65304814953208,35.094484320963261 -106.65311919621578,35.094485802043742 -106.65320027630689,35.094487936624915 -106.65326839958276,35.09448977079235 -106.65334488030085,35.094491577120564 -106.65342052527787,35.094493386181171 -106.65349533451378,35.094495197975696 -106.65357641352469,35.09449733230889 -106.6536541478707,35.094499134269327 -106.65373857096139,35.094501257361301 -106.65386227800856,35.09450427991365 -106.65384863038605,35.094872164606095 -106.65373536963054,35.09486910725871 -106.65365387127778,35.094866974429287 -106.65357404552097,35.094864835977937 -106.65349463764167,35.094862696083432 -106.65341690126141,35.094860550575611 -106.65334209000167,35.094858395287503 -106.65326560725003,35.094856245512396 -106.65319790154315,35.094854409956 -106.65311808147213,35.094853644998096 -106.65304745572324,35.09485284942528 -106.65297014230421,35.094851732584459 -106.6528802943612,35.094851000796716 -106.65276453486348,35.094849668110605</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">71</SimpleData>
+		<SimpleData name="OBJECTID">131</SimpleData>
+		<SimpleData name="STATEREGIS">1004</SimpleData>
+		<SimpleData name="HISTORICPL">KRESS, S H BUILDING</SimpleData>
+		<SimpleData name="SORTINDEXN">78</SimpleData>
+		<SimpleData name="GlobalID">{50157EEA-2346-43D5-8FC9-35C50EB30823}</SimpleData>
+		<SimpleData name="SHAPE_Leng">637.61737411200</SimpleData>
+		<SimpleData name="Shape_Le_1">637.61749391700</SimpleData>
+		<SimpleData name="Shape_Area">25165.91120920000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65188496051984,35.084471684719546 -106.65195784660041,35.084083339480678 -106.65203519475889,35.08409338668713 -106.6521175590389,35.084104104118495 -106.65220159461634,35.08411481595072 -106.65228814050256,35.08412620630456 -106.65253230659016,35.084157681623289 -106.65246363065046,35.084552194486946 -106.65221568894783,35.084517641376557 -106.65212788582272,35.084505568234739 -106.6520446804396,35.084493823239761 -106.65196231131002,35.08448241886942 -106.65188496051984,35.084471684719546</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">72</SimpleData>
+		<SimpleData name="OBJECTID">132</SimpleData>
+		<SimpleData name="STATEREGIS">1285</SimpleData>
+		<SimpleData name="HISTORICPL">GURULE, DELFINA HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">60</SimpleData>
+		<SimpleData name="GlobalID">{3C9A651B-F72A-4E57-AD16-4BF10F629D1C}</SimpleData>
+		<SimpleData name="SHAPE_Leng">370.93256504700</SimpleData>
+		<SimpleData name="Shape_Le_1">370.93246932800</SimpleData>
+		<SimpleData name="Shape_Area">6597.45780135000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66391234943607,35.092036675568153 -106.6639283266007,35.091973425645634 -106.66437911801987,35.092038859304097 -106.6643644121427,35.092105539471312 -106.66435051590203,35.092167065072182 -106.66389555735327,35.092104049707594 -106.66391234943607,35.092036675568153</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">73</SimpleData>
+		<SimpleData name="OBJECTID">134</SimpleData>
+		<SimpleData name="STATEREGIS">1025</SimpleData>
+		<SimpleData name="HISTORICPL">OUR LADY OF THE ANGELS SCHOOL</SimpleData>
+		<SimpleData name="SORTINDEXN">120</SimpleData>
+		<SimpleData name="GlobalID">{3433C1EA-DA63-477A-81DA-8D282FEA6003}</SimpleData>
+		<SimpleData name="SHAPE_Leng">593.63422602500</SimpleData>
+		<SimpleData name="Shape_Le_1">593.63434811500</SimpleData>
+		<SimpleData name="Shape_Area">15307.08304680000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66948572117334,35.096905554540669 -106.67026654303666,35.09686301005199 -106.67026254180762,35.097060509275025 -106.66971640828559,35.097070643901631 -106.66948020229917,35.097051884527509 -106.66948572117334,35.096905554540669</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">74</SimpleData>
+		<SimpleData name="OBJECTID">136</SimpleData>
+		<SimpleData name="STATEREGIS">700</SimpleData>
+		<SimpleData name="HISTORICPL">FEDERAL BUILDING (1930)</SimpleData>
+		<SimpleData name="SORTINDEXN">44</SimpleData>
+		<SimpleData name="GlobalID">{E9D527B6-E65A-4DEE-89EF-CD5E22CD6A75}</SimpleData>
+		<SimpleData name="SHAPE_Leng">493.83389214200</SimpleData>
+		<SimpleData name="Shape_Le_1">493.83327796800</SimpleData>
+		<SimpleData name="Shape_Area">14798.97258700000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65246313250442,35.084110513697127 -106.65253433018486,35.083719083519931 -106.65260707591852,35.083728115278923 -106.65268776694526,35.083738494426044 -106.65278894116511,35.083750866209058 -106.65287464773203,35.083761572026212 -106.65279970080938,35.084154732117405 -106.65271566342891,35.084143677252371 -106.65261699227375,35.084130610192737 -106.65253880947084,35.084120566128369 -106.65246313250442,35.084110513697127</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">75</SimpleData>
+		<SimpleData name="OBJECTID">137</SimpleData>
+		<SimpleData name="STATEREGIS">782</SimpleData>
+		<SimpleData name="HISTORICPL">PEARCE, JOHN HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">122</SimpleData>
+		<SimpleData name="GlobalID">{479D8C14-9482-4A5B-83EC-777AE218C2F0}</SimpleData>
+		<SimpleData name="SHAPE_Leng">387.92159927000</SimpleData>
+		<SimpleData name="Shape_Le_1">387.92082342500</SimpleData>
+		<SimpleData name="Shape_Area">7330.12692950000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65619019003044,35.084624946772315 -106.65612484099297,35.085012581402417 -106.65602994230063,35.08500225212245 -106.65595427541881,35.084994262564045 -106.65601962354854,35.084606284571279 -106.65609654694643,35.084614956790212 -106.65619019003044,35.084624946772315</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">76</SimpleData>
+		<SimpleData name="OBJECTID">138</SimpleData>
+		<SimpleData name="STATEREGIS">759</SimpleData>
+		<SimpleData name="HISTORICPL">GLADDING, JAMES N HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">52</SimpleData>
+		<SimpleData name="GlobalID">{56ADD1CB-E9F5-4390-915F-D102FE977F29}</SimpleData>
+		<SimpleData name="SHAPE_Leng">367.42627683800</SimpleData>
+		<SimpleData name="Shape_Le_1">367.42656468600</SimpleData>
+		<SimpleData name="Shape_Area">7498.46978100000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.63085254050924,35.088299362165472 -106.630911530677,35.088225333398164 -106.63128061684112,35.088431963914061 -106.6311892125196,35.088544217231217 -106.63086978107461,35.088412647782825 -106.63084754603446,35.088393484204367 -106.63083995462991,35.088378396077808 -106.63083528333146,35.088362268418265 -106.63083437101419,35.088345785499151 -106.63083680143065,35.088329292081674 -106.63084299721015,35.088313817199854 -106.63085254050924,35.088299362165472</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">77</SimpleData>
+		<SimpleData name="OBJECTID">139</SimpleData>
+		<SimpleData name="STATEREGIS">799</SimpleData>
+		<SimpleData name="HISTORICPL">WEILLER, H B HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">164</SimpleData>
+		<SimpleData name="GlobalID">{EE0E17B1-C8B4-4FEA-8CA8-78C1764E8A1E}</SimpleData>
+		<SimpleData name="SHAPE_Leng">358.09186189900</SimpleData>
+		<SimpleData name="Shape_Le_1">358.09216353900</SimpleData>
+		<SimpleData name="Shape_Area">6463.04786440000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66181121718216,35.087944362931495 -106.66202361069124,35.087637280080145 -106.66209690138868,35.087670689466698 -106.66217019041771,35.087703755360842 -106.66195738918404,35.0880125571165 -106.66188409305535,35.087978117306534 -106.66181121718216,35.087944362931495</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">78</SimpleData>
+		<SimpleData name="OBJECTID">141</SimpleData>
+		<SimpleData name="STATEREGIS">460</SimpleData>
+		<SimpleData name="HISTORICPL">WATSON HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">162</SimpleData>
+		<SimpleData name="GlobalID">{545ABBCF-1125-4252-879C-55F91C26C196}</SimpleData>
+		<SimpleData name="SHAPE_Leng">327.81579899800</SimpleData>
+		<SimpleData name="Shape_Le_1">327.81579948000</SimpleData>
+		<SimpleData name="Shape_Area">6654.95342828000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66413857030234,35.093472226781486 -106.66415002744279,35.093424104217917 -106.66442601533289,35.093461971438245 -106.66441209980503,35.093519719115214 -106.6644157790134,35.093668766073094 -106.66414035242622,35.093659403520739 -106.66414005722204,35.093601017507247 -106.66413857030234,35.093472226781486</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">79</SimpleData>
+		<SimpleData name="OBJECTID">142</SimpleData>
+		<SimpleData name="STATEREGIS">496</SimpleData>
+		<SimpleData name="HISTORICPL">HESSELDEN HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">64</SimpleData>
+		<SimpleData name="GlobalID">{98C1FFFF-FECB-48E8-B7AA-578AF6F8A599}</SimpleData>
+		<SimpleData name="SHAPE_Leng">452.68717184000</SimpleData>
+		<SimpleData name="Shape_Le_1">452.68755283200</SimpleData>
+		<SimpleData name="Shape_Area">11186.29143850000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66069179112604,35.090441636297044 -106.66073037686874,35.090303436473562 -106.66095703024773,35.090338044217916 -106.66089697922986,35.090611980901535 -106.66086551951031,35.090754620616174 -106.66061627688494,35.09071528085795 -106.66065481639845,35.09056780888293 -106.66069179112604,35.090441636297044</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">80</SimpleData>
+		<SimpleData name="OBJECTID">143</SimpleData>
+		<SimpleData name="STATEREGIS">1644</SimpleData>
+		<SimpleData name="HISTORICPL">CORONADO SCHOOL</SimpleData>
+		<SimpleData name="SORTINDEXN">33</SimpleData>
+		<SimpleData name="GlobalID">{9D3EA48C-F0F1-4CD8-ACE4-4180B3171F45}</SimpleData>
+		<SimpleData name="SHAPE_Leng">1195.38560309000</SimpleData>
+		<SimpleData name="Shape_Le_1">1195.38552990000</SimpleData>
+		<SimpleData name="Shape_Area">89300.47430390000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65266021807621,35.079577632732978 -106.65281619087783,35.078754541407726 -106.65379363990186,35.078883177217939 -106.65363930390737,35.079697335399331 -106.65266021807621,35.079577632732978</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">81</SimpleData>
+		<SimpleData name="OBJECTID">144</SimpleData>
+		<SimpleData name="STATEREGIS">588</SimpleData>
+		<SimpleData name="HISTORICPL">ROSENWALD BUILDING</SimpleData>
+		<SimpleData name="SORTINDEXN">135</SimpleData>
+		<SimpleData name="GlobalID">{3BF4E35C-6247-4F6F-8994-3B9E14EFD31B}</SimpleData>
+		<SimpleData name="SHAPE_Leng">418.86942426100</SimpleData>
+		<SimpleData name="Shape_Le_1">418.86988303500</SimpleData>
+		<SimpleData name="Shape_Area">9708.58477126000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65129375688268,35.084391213662094 -106.65136209680155,35.084012500517133 -106.65143986600779,35.084023233617948 -106.65152641337968,35.084034967965181 -106.65159247418859,35.084044022466031 -106.65152455649776,35.0844234212448 -106.65145722341751,35.084410592928947 -106.65137360771723,35.084400566099902 -106.65129375688268,35.084391213662094</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">82</SimpleData>
+		<SimpleData name="OBJECTID">145</SimpleData>
+		<SimpleData name="STATEREGIS">829</SimpleData>
+		<SimpleData name="HISTORICPL">MCANNA-HUBBELL BUILDING (AG&amp;E BUILDING)</SimpleData>
+		<SimpleData name="SORTINDEXN">101</SimpleData>
+		<SimpleData name="GlobalID">{C57CDC11-A361-4651-90B4-7AA2B2C40914}</SimpleData>
+		<SimpleData name="SHAPE_Leng">447.26436650300</SimpleData>
+		<SimpleData name="Shape_Le_1">447.26384307900</SimpleData>
+		<SimpleData name="Shape_Area">11371.90837550000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65246363065046,35.084552194486946 -106.65253230659016,35.084157681623289 -106.65261007160844,35.084167727078707 -106.65270915893873,35.084180449307937 -106.65279235902888,35.084191163504627 -106.65271951563834,35.084587407617875 -106.65263547613608,35.084576009252864 -106.65253889189134,35.084562591749474 -106.65246363065046,35.084552194486946</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">83</SimpleData>
+		<SimpleData name="OBJECTID">146</SimpleData>
+		<SimpleData name="STATEREGIS">523</SimpleData>
+		<SimpleData name="HISTORICPL">DURAN, LUCIANO HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">37</SimpleData>
+		<SimpleData name="GlobalID">{EFF70FCE-7649-428B-88BA-19BB38CD4D17}</SimpleData>
+		<SimpleData name="SHAPE_Leng">317.74116391400</SimpleData>
+		<SimpleData name="Shape_Le_1">317.74182696100</SimpleData>
+		<SimpleData name="Shape_Area">5244.43397213000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.66736002105075,35.093483849010461 -106.66736486919342,35.093451204284825 -106.66763960083044,35.093488038149495 -106.66758803704336,35.093701500970539 -106.66748681865137,35.093683303057837 -106.66748740230895,35.09363384381367 -106.66741336111434,35.093618643338587 -106.66741994546868,35.093598700396399 -106.66734387863541,35.093596214613903 -106.66736002105075,35.093483849010461</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">84</SimpleData>
+		<SimpleData name="OBJECTID">150</SimpleData>
+		<SimpleData name="STATEREGIS">479</SimpleData>
+		<SimpleData name="HISTORICPL">HEBENSTREIT HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">63</SimpleData>
+		<SimpleData name="GlobalID">{4018BAE0-5F5F-4CEB-A4F0-39BBE1BD80F5}</SimpleData>
+		<SimpleData name="SHAPE_Leng">683.65714954200</SimpleData>
+		<SimpleData name="Shape_Le_1">683.65680749000</SimpleData>
+		<SimpleData name="Shape_Area">30180.02652870000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6657739064692,35.089229440339182 -106.66598666601419,35.088832364629233 -106.66625786069092,35.088916610399771 -106.66651711665611,35.089200100379223 -106.6660080410815,35.089503399935872 -106.6657739064692,35.089229440339182</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">85</SimpleData>
+		<SimpleData name="OBJECTID">151</SimpleData>
+		<SimpleData name="STATEREGIS">755</SimpleData>
+		<SimpleData name="HISTORICPL">MCQUADE HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">103</SimpleData>
+		<SimpleData name="GlobalID">{C13BA8E2-20B7-4318-BD6F-824C5ABA99E3}</SimpleData>
+		<SimpleData name="SHAPE_Leng">367.40225429100</SimpleData>
+		<SimpleData name="Shape_Le_1">367.40216749900</SimpleData>
+		<SimpleData name="Shape_Area">6076.02876369000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.64086307933863,35.084388532591738 -106.6408863446278,35.084273057081177 -106.64134998913399,35.084330292322491 -106.6413271603481,35.084449544503279 -106.64086307933863,35.084388532591738</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">86</SimpleData>
+		<SimpleData name="OBJECTID">152</SimpleData>
+		<SimpleData name="STATEREGIS">1639</SimpleData>
+		<SimpleData name="HISTORICPL">YRISARRI BLOCK</SimpleData>
+		<SimpleData name="SORTINDEXN">171</SimpleData>
+		<SimpleData name="GlobalID">{4BA5E748-DB35-4296-91DC-A4E04CEA0180}</SimpleData>
+		<SimpleData name="SHAPE_Leng">379.89537614900</SimpleData>
+		<SimpleData name="Shape_Le_1">379.89526359600</SimpleData>
+		<SimpleData name="Shape_Area">6735.62895847000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65195784660041,35.084083339480678 -106.65188496051984,35.084471684719546 -106.65180259253033,35.084460280236719 -106.65172566128571,35.084449888048724 -106.65180566281374,35.084063923502114 -106.65187130248755,35.084072292338625 -106.65195784660041,35.084083339480678</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">87</SimpleData>
+		<SimpleData name="OBJECTID">153</SimpleData>
+		<SimpleData name="STATEREGIS">459</SimpleData>
+		<SimpleData name="HISTORICPL">VIGIL, ANTONIO HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">160</SimpleData>
+		<SimpleData name="GlobalID">{B805801A-D478-4295-A707-92C4255C76D0}</SimpleData>
+		<SimpleData name="SHAPE_Leng">285.15937746500</SimpleData>
+		<SimpleData name="Shape_Le_1">285.15946319100</SimpleData>
+		<SimpleData name="Shape_Area">4954.68695613000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6704036840318,35.097609888751137 -106.67068114158063,35.097605148409862 -106.67068408489123,35.097771370226347 -106.67040953789004,35.097773352862291 -106.6704036840318,35.097609888751137</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">88</SimpleData>
+		<SimpleData name="OBJECTID">155</SimpleData>
+		<SimpleData name="STATEREGIS">753</SimpleData>
+		<SimpleData name="HISTORICPL">HAYDEN, A W HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">62</SimpleData>
+		<SimpleData name="GlobalID">{EA58F99A-B0CE-4841-8AB7-EFF87D425855}</SimpleData>
+		<SimpleData name="SHAPE_Leng">378.11359899500</SimpleData>
+		<SimpleData name="Shape_Le_1">378.11349072600</SimpleData>
+		<SimpleData name="Shape_Area">6423.37971561000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6527263850484,35.093889841348208 -106.65280051346889,35.093498400983655 -106.65284775608069,35.093503052380164 -106.65287282978746,35.093503312526359 -106.65295097428759,35.093503739765502 -106.6528772576943,35.093893805038022 -106.65281415103716,35.093892297436398 -106.6527263850484,35.093889841348208</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">89</SimpleData>
+		<SimpleData name="OBJECTID">158</SimpleData>
+		<SimpleData name="STATEREGIS">395</SimpleData>
+		<SimpleData name="HISTORICPL">ALBUQUERQUE PUBLIC LIBRARY, OLD</SimpleData>
+		<SimpleData name="SORTINDEXN">6</SimpleData>
+		<SimpleData name="GlobalID">{1AB5AFB3-CB70-40A3-889E-BE0EC9FDF721}</SimpleData>
+		<SimpleData name="SHAPE_Leng">771.37721247300</SimpleData>
+		<SimpleData name="Shape_Le_1">771.37669548300</SimpleData>
+		<SimpleData name="Shape_Area">34571.81317630000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.64223846434443,35.083580751142264 -106.64226254830973,35.083462181625961 -106.6427303524827,35.0835163070684 -106.64270464893774,35.08364552899134 -106.64267608149113,35.083787468876992 -106.64265037503715,35.083916347338715 -106.64262099480318,35.084063097290901 -106.64259732571787,35.084180978614526 -106.64212781313063,35.084119645669169 -106.64215394705295,35.083992826660797 -106.64218007432093,35.083864633850212 -106.64220865909284,35.083726128563619 -106.64223846434443,35.083580751142264</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">90</SimpleData>
+		<SimpleData name="OBJECTID">159</SimpleData>
+		<SimpleData name="STATEREGIS">392</SimpleData>
+		<SimpleData name="HISTORICPL">BOND-LOVELACE HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">19</SimpleData>
+		<SimpleData name="GlobalID">{8A85088C-B713-4642-AD3A-DCB7F8836C4D}</SimpleData>
+		<SimpleData name="SHAPE_Leng">605.57128898000</SimpleData>
+		<SimpleData name="Shape_Le_1">605.57136472200</SimpleData>
+		<SimpleData name="Shape_Area">22860.72644990000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6605897410095,35.088839081517129 -106.66068792450943,35.088420078425195 -106.66077030799339,35.088433537514774 -106.66085227475979,35.088446997960204 -106.66093256392446,35.088459433675027 -106.66101369568696,35.088473240294185 -106.66109022605573,35.088486032098231 -106.66116966237412,35.088495036012951 -106.66107566658076,35.088915399098546 -106.66099412686454,35.088903654626435 -106.6609196887798,35.08889154258047 -106.66083814910866,35.088879798003092 -106.66076036206171,35.088866666845483 -106.66068132432909,35.088853883327054 -106.6605897410095,35.088839081517129</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">91</SimpleData>
+		<SimpleData name="OBJECTID">160</SimpleData>
+		<SimpleData name="STATEREGIS">383</SimpleData>
+		<SimpleData name="HISTORICPL">FIRST METHODIST EPISCOPAL CHURCH (FRIENDSHIP HALL)</SimpleData>
+		<SimpleData name="SORTINDEXN">47</SimpleData>
+		<SimpleData name="GlobalID">{519DCE8A-5DD1-4E86-AF7F-BACA9C63ADD0}</SimpleData>
+		<SimpleData name="SHAPE_Leng">1170.39958045000</SimpleData>
+		<SimpleData name="Shape_Le_1">1170.39955741000</SimpleData>
+		<SimpleData name="Shape_Area">78023.58347160000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65109999237099,35.081340260790498 -106.65120194495731,35.080829550047369 -106.65128430921271,35.080840954970128 -106.65136667180836,35.080852016388377 -106.65144903720478,35.080863421195282 -106.65153098372437,35.080874827333034 -106.65158647526619,35.080603314943275 -106.6521838986083,35.080679642642124 -106.65220524357383,35.080687127839703 -106.6522211975786,35.080702873809138 -106.65222501005159,35.080713508237466 -106.65222507748075,35.080727246172714 -106.65208073970867,35.081454131728954 -106.65207453497574,35.081466860096477 -106.65206247422101,35.081478234063148 -106.65204663130595,35.081485155666506 -106.65202324092584,35.08148660702561 -106.65112730436468,35.081371768217508 -106.65111768139651,35.081369052415333 -106.65110846110433,35.081363244194961 -106.65110046396977,35.081351249757191 -106.65109999237099,35.081340260790498</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">92</SimpleData>
+		<SimpleData name="OBJECTID">165</SimpleData>
+		<SimpleData name="STATEREGIS">729</SimpleData>
+		<SimpleData name="HISTORICPL">CARNES, CHESTER HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">22</SimpleData>
+		<SimpleData name="GlobalID">{03F9A7CD-65A4-4CCB-91D2-AB70E756B257}</SimpleData>
+		<SimpleData name="SHAPE_Leng">330.60464270500</SimpleData>
+		<SimpleData name="Shape_Le_1">330.60462447100</SimpleData>
+		<SimpleData name="Shape_Area">3505.24401713000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.6609925827217,35.093842870864577 -106.66108470701914,35.09346475924189 -106.66116625819079,35.093477877401966 -106.66107496999298,35.093855986249949 -106.6609925827217,35.093842870864577</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">93</SimpleData>
+		<SimpleData name="OBJECTID">167</SimpleData>
+		<SimpleData name="STATEREGIS">706</SimpleData>
+		<SimpleData name="HISTORICPL">POST OFFICE, OLD</SimpleData>
+		<SimpleData name="SORTINDEXN">125</SimpleData>
+		<SimpleData name="GlobalID">{1A4DFAFD-36D3-46A2-9F5C-9E7641EE790C}</SimpleData>
+		<SimpleData name="SHAPE_Leng">541.59671275900</SimpleData>
+		<SimpleData name="Shape_Le_1">541.59637873800</SimpleData>
+		<SimpleData name="Shape_Area">18258.24125090000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65253433018486,35.083719083519931 -106.65246313250442,35.084110513697127 -106.65237867739341,35.084099459984529 -106.65229505794254,35.084088403440788 -106.6522085120954,35.084077013091552 -106.65212447655593,35.08406630126381 -106.65204211231311,35.084055583836808 -106.65211499561202,35.083666895036146 -106.65219693996997,35.083677270354436 -106.65228222688356,35.083687634528999 -106.65236751550465,35.083698342091608 -106.65244987774579,35.08370871675362 -106.65253433018486,35.083719083519931</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#HistoricPlaces">
+		<SimpleData name="OBJECTID_1">94</SimpleData>
+		<SimpleData name="OBJECTID">169</SimpleData>
+		<SimpleData name="STATEREGIS">770</SimpleData>
+		<SimpleData name="HISTORICPL">OHLRAU HOUSE</SimpleData>
+		<SimpleData name="SORTINDEXN">117</SimpleData>
+		<SimpleData name="GlobalID">{15E46521-909B-49C2-9C48-0C31309517FD}</SimpleData>
+		<SimpleData name="SHAPE_Leng">385.29058624600</SimpleData>
+		<SimpleData name="Shape_Le_1">385.29047150400</SimpleData>
+		<SimpleData name="Shape_Area">7286.45656177000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.64389435144039,35.074811446530013 -106.64436512880332,35.074798926092356 -106.64436956625495,35.074939727973224 -106.64389879963775,35.074954652576523 -106.64389435144039,35.074811446530013</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Schema name="HistoricPlaces" id="HistoricPlaces">
+	<SimpleField name="OBJECTID_1" type="int"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="STATEREGIS" type="int"></SimpleField>
+	<SimpleField name="HISTORICPL" type="string"></SimpleField>
+	<SimpleField name="SORTINDEXN" type="int"></SimpleField>
+	<SimpleField name="GlobalID" type="string"></SimpleField>
+	<SimpleField name="SHAPE_Leng" type="float"></SimpleField>
+	<SimpleField name="Shape_Le_1" type="float"></SimpleField>
+	<SimpleField name="Shape_Area" type="float"></SimpleField>
+</Schema>
+</Document></kml>

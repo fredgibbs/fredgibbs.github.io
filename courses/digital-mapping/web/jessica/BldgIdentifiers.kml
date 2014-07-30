@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>BldgIdentifiers</name>
+  <Placemark>
+	<name>KIMO THEATRE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">132</SimpleData>
+		<SimpleData name="AREA">5946.27000000000</SimpleData>
+		<SimpleData name="PERIMETER">362.80000000000</SimpleData>
+		<SimpleData name="BLDGFP_">346.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">488.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">423 CENTRAL AV NW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">2</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Shape_Leng">431.81377761000</SimpleData>
+		<SimpleData name="Shape_Area">10770.40266860000</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3919/14690853606_eceb21f979.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>130.53994289413095,1486524.500139758 108.13194833695889,1486388.4240295812 30.625,1486401.375 54.00000000372529,1486537.1250000075 102.62068997696042,1486529.3450523242 130.53994289413095,1486524.500139758</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">139</SimpleData>
+		<SimpleData name="AREA">3480.20000000000</SimpleData>
+		<SimpleData name="PERIMETER">327.30900000000</SimpleData>
+		<SimpleData name="BLDGFP_">353.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">490.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">411 CENTRAL AV NW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">1</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Shape_Leng">327.48033236100</SimpleData>
+		<SimpleData name="Shape_Area">3498.98837673000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-133.34783256426454,1486509.0389193892 -155.13142549991608,1486372.2184471861 179.62571613863111,1486376.2960690558 -158.0189008936286,1486512.8772648722 -133.34783256426454,1486509.0389193892</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">140</SimpleData>
+		<SimpleData name="AREA">6784.38000000000</SimpleData>
+		<SimpleData name="PERIMETER">374.69600000000</SimpleData>
+		<SimpleData name="BLDGFP_">354.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">491.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">409 CENTRAL AV NW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">3</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Shape_Leng">376.43763597400</SimpleData>
+		<SimpleData name="Shape_Area">6897.73325755000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-83.911751965526491,1486500.9041207503 -106.12373176217079,1486364.5658491701 -106.46233985177241,1486364.6187231455 -155.13142549991608,1486372.2184471861 -133.34783256426454,1486509.0389193892 -83.902797903865576,1486500.95908124 -83.911751965526491,1486500.9041207503</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CROSSROADS</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">148</SimpleData>
+		<SimpleData name="AREA">7011.99000000000</SimpleData>
+		<SimpleData name="PERIMETER">378.85500000000</SimpleData>
+		<SimpleData name="BLDGFP_">364.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">362.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">319 CENTRAL AV NW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">3</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">1</SimpleData>
+		<SimpleData name="Shape_Leng">384.13494778000</SimpleData>
+		<SimpleData name="Shape_Area">7449.79711849000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-170.51407425478101,1486424.5210537612 172.20563107356429,1486319.5901209563 118.91162147000432,1486328.8605756611 141.62893148884177,1486464.7878707871 -165.31429308280349,1486456.2406330183 -170.51407425478101,1486424.5210537612</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">151</SimpleData>
+		<SimpleData name="AREA">8560.94000000000</SimpleData>
+		<SimpleData name="PERIMETER">434.47700000000</SimpleData>
+		<SimpleData name="BLDGFP_">369.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">495.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">301 CENTRAL AV NW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">2</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">2</SimpleData>
+		<SimpleData name="Shape_Leng">465.83597275900</SimpleData>
+		<SimpleData name="Shape_Area">10479.48495560000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-124.35834217444062,1486319.8601743802 -127.54450392350554,1486320.5630823672 -124.94033725187182,1486335.6455476582 -109.68033811822534,1486333.065595001 -100.25,1486391.5 -94.968711584806442,1486422.9775347114 -91.272287160158157,1486445.568693459 -16.74999999627471,1486433.2500000075 -22.825632326304913,1486395.4308953807 -25.737501602619886,1486395.8709527403 -39.669793274253607,1486305.8535916284 -38.41111271828413,1486301.4699110836 -39.148959938436747,1486294.2650499716 -48.3069460503757,1486295.5237305239 -52.560418274253607,1486297.9108833075 -59.203936792910099,1486298.9279550537 -59.310775361955166,1486297.8825076446 -69.624436520040035,1486299.4731718078 -69.5413210503757,1486300.4456055164 -72.110765494406223,1486300.8275499716 -72.207328874617815,1486299.8715283349 -89.24999999627471,1486302.5 -89.046409655362368,1486303.771972701 -92.062733083963394,1486304.287040703 -103.23894836753607,1486311.8825268149 -102.47939975187182,1486315.6802698672 -124.35834217444062,1486319.8601743802</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">179</SimpleData>
+		<SimpleData name="AREA">11068.30000000000</SimpleData>
+		<SimpleData name="PERIMETER">439.43200000000</SimpleData>
+		<SimpleData name="BLDGFP_">400.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">497.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">418 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">2</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Shape_Leng">436.29950954200</SimpleData>
+		<SimpleData name="Shape_Area">10843.83867430000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>93.643481849459931,1486305.9786730038 73.418479327112436,1486167.0003861636 -3.956520672887564,1486179.2503861636 19.87500000372529,1486319.25 93.725455965846777,1486306.5419669971 93.643481849459931,1486305.9786730038</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">182</SimpleData>
+		<SimpleData name="AREA">3637.74000000000</SimpleData>
+		<SimpleData name="PERIMETER">333.25100000000</SimpleData>
+		<SimpleData name="BLDGFP_">403.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">498.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">416 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">2</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Shape_Leng">376.90860497200</SimpleData>
+		<SimpleData name="Shape_Area">6796.83690559000</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3847/14721034505_8a8133791e.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>141.70419421442784,1486297.4309726879 121.28405790030956,1486159.7036097422 73.418479327112436,1486167.0003861636 93.643481849459931,1486305.9786730038 141.70419421442784,1486297.4309726879</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">184</SimpleData>
+		<SimpleData name="AREA">5780.56000000000</SimpleData>
+		<SimpleData name="PERIMETER">362.56100000000</SimpleData>
+		<SimpleData name="BLDGFP_">406.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">500.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">412 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">4</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Shape_Leng">434.53795004500</SimpleData>
+		<SimpleData name="Shape_Area">10838.93434020000</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2908/14720768602_60a91712e3_z.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-141.15950819849968,1486284.9695405737 -162.62010063976049,1486147.2146801949 121.28405790030956,1486159.7036097422 141.70419421442784,1486297.4309726879 141.79623828083277,1486298.0517808124 -141.15950819849968,1486284.9695405737</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">185</SimpleData>
+		<SimpleData name="AREA">1754.26000000000</SimpleData>
+		<SimpleData name="PERIMETER">245.21200000000</SimpleData>
+		<SimpleData name="BLDGFP_">408.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">502.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">408 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">1</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Shape_Leng">254.15221402500</SimpleData>
+		<SimpleData name="Shape_Area">2558.17236099000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-116.30534581467509,1486280.725095205 -132.19708723574877,1486180.0179507434 -156.80745353922248,1486184.1458195373 -141.15950819849968,1486284.9695405737 -116.30534581467509,1486280.725095205</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">186</SimpleData>
+		<SimpleData name="AREA">4001.88000000000</SimpleData>
+		<SimpleData name="PERIMETER">335.15600000000</SimpleData>
+		<SimpleData name="BLDGFP_">409.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">503.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">406 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">2</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Shape_Leng">324.38397359500</SimpleData>
+		<SimpleData name="Shape_Area">3256.72396814000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-93.157333824783564,1486276.7343475968 -114.7753797583282,1486139.8536003232 -137.94792699441314,1486143.5744524971 -132.19708723574877,1486180.0179507434 -116.30534581467509,1486280.725095205 -93.157333824783564,1486276.7343475968</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">187</SimpleData>
+		<SimpleData name="AREA">3566.72000000000</SimpleData>
+		<SimpleData name="PERIMETER">328.26700000000</SimpleData>
+		<SimpleData name="BLDGFP_">410.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">9390.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">402 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">2</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Shape_Leng">358.85911597200</SimpleData>
+		<SimpleData name="Shape_Area">5934.23941591000</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2921/14534617027_26e7fd805f_z.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-114.7753797583282,1486139.8536003232 -93.157333824783564,1486276.7343475968 -56.896934513002634,1486270.6400499791 -51.558392848819494,1486260.7442166433 -73.042767852544785,1486132.6192166284 -114.7753797583282,1486139.8536003232</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>ROSENWALD BROTHERS BLDG</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">188</SimpleData>
+		<SimpleData name="AREA">12412.70000000000</SimpleData>
+		<SimpleData name="PERIMETER">456.00100000000</SimpleData>
+		<SimpleData name="BLDGFP_">412.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">506.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">320 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">3</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Shape_Leng">404.12895438800</SimpleData>
+		<SimpleData name="Shape_Area">9050.71870359000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>83.380958799272776,1486246.440515399 62.931544002145529,1486112.2199258655 -2.874999992549419,1486123.2500000075 16.846709504723549,1486256.1855473667 34.125,1486253.7500000075 83.380958799272776,1486246.440515399</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>People's Flower Shop</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">190</SimpleData>
+		<SimpleData name="AREA">3922.58000000000</SimpleData>
+		<SimpleData name="PERIMETER">330.46800000000</SimpleData>
+		<SimpleData name="BLDGFP_">414.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">512.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">316 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">1</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Shape_Leng">323.15649276600</SimpleData>
+		<SimpleData name="Shape_Area">3419.94724093000</SimpleData>
+		<SimpleData name="Img_URL">https://c2.staticflickr.com/4/3845/14528291530_44bd8d3fee.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>134.96828884258866,1486238.7713763639 112.3169145360589,1486103.8690625876 88.457834608852863,1486107.9323993549 109.34984037652612,1486242.5838018954 134.96828884258866,1486238.7713763639</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">192</SimpleData>
+		<SimpleData name="AREA">3882.05000000000</SimpleData>
+		<SimpleData name="PERIMETER">330.72900000000</SimpleData>
+		<SimpleData name="BLDGFP_">416.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">507.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">316 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">1</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Shape_Leng">323.84662410500</SimpleData>
+		<SimpleData name="Shape_Area">3415.78597806000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>158.36793335899711,1486235.1833214387 138.15126584842801,1486099.4997195452 112.3169145360589,1486103.8690625876 134.96828884258866,1486238.7713763639 158.36793335899711,1486235.1833214387</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>LERNER SHOPS BLDG (BREWSTERS PUB)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">194</SimpleData>
+		<SimpleData name="AREA">4324.60000000000</SimpleData>
+		<SimpleData name="PERIMETER">337.96300000000</SimpleData>
+		<SimpleData name="BLDGFP_">418.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">508.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">314 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">2</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Shape_Leng">322.04010667100</SimpleData>
+		<SimpleData name="Shape_Area">3258.96825500000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-177.91476170346141,1486231.550505124 161.33656705915928,1486095.7484887466 138.15126584842801,1486099.4997195452 158.36793335899711,1486235.1833214387 -177.91476170346141,1486231.550505124</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>FIRST NATIONAL BANK BUILDING</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">445</SimpleData>
+		<SimpleData name="AREA">9966.98000000000</SimpleData>
+		<SimpleData name="PERIMETER">490.47700000000</SimpleData>
+		<SimpleData name="BLDGFP_">709.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">505.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">219 CENTRAL AV NW</SimpleData>
+		<SimpleData name="TYPE">R</SimpleData>
+		<SimpleData name="STORIES">8</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">2</SimpleData>
+		<SimpleData name="Shape_Leng">482.95758536700</SimpleData>
+		<SimpleData name="Shape_Area">7117.90724191000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>90.927526962012053,1486412.8983709663 77.322610609233379,1486330.3247718066 72.441371012479067,1486300.2274312526 85.143574818968773,1486298.4778682664 87.31371371075511,1486312.5837710425 99.57643112167716,1486310.8670322672 96.320889599621296,1486290.9992334917 117.32431446015835,1486287.3888611495 114.4257746823132,1486269.9654146582 25.37500000372529,1486285.0000000075 47.75,1486419.3750000075 90.927526962012053,1486412.8983709663</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">446</SimpleData>
+		<SimpleData name="AREA">10545.80000000000</SimpleData>
+		<SimpleData name="PERIMETER">477.76200000000</SimpleData>
+		<SimpleData name="BLDGFP_">710.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">364.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">215 CENTRAL AV NW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">3</SimpleData>
+		<SimpleData name="NUM">21</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Shape_Leng">502.07095645500</SimpleData>
+		<SimpleData name="Shape_Area">12451.06515620000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>114.4257746823132,1486269.9654146582 117.32431446015835,1486287.3888611495 96.320889599621296,1486290.9992334917 99.57643112167716,1486310.8670322672 87.31371371075511,1486312.5837710425 85.143574818968773,1486298.4778682664 72.441371012479067,1486300.2274312526 90.927526962012053,1486412.8983709663 -171.12651501595974,1486398.0747163892 165.65145107731223,1486261.6809607521 132.63258340954781,1486267.1802875921 114.4257746823132,1486269.9654146582</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">447</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="PERIMETER">0.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_">0.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">0.00000000000</SimpleData>
+		<SimpleData name="STORIES">0</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Shape_Leng">324.16955163500</SimpleData>
+		<SimpleData name="Shape_Area">3545.57599473000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>109.34984037652612,1486242.5838018954 88.457834608852863,1486107.9323993549 62.931544002145529,1486112.2199258655 83.380958799272776,1486246.440515399 109.34984037652612,1486242.5838018954</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BldgIdentifiers">
+		<SimpleData name="OBJECTID">153</SimpleData>
+		<SimpleData name="AREA">4550.73000000000</SimpleData>
+		<SimpleData name="PERIMETER">296.01600000000</SimpleData>
+		<SimpleData name="BLDGFP_">371.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_ID">496.00000000000</SimpleData>
+		<SimpleData name="ADDRESS">311 CENTRAL AV NW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">1</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Shape_Leng">305.08945133200</SimpleData>
+		<SimpleData name="Shape_Area">5016.94577346000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-140.03305513248779,1486313.7618738262 172.68369463086128,1486322.0244901851 -170.51407425478101,1486424.5210537612 -123.0344229452312,1486417.6276901066 -140.03305513248779,1486313.7618738262</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Schema name="BldgIdentifiers" id="BldgIdentifiers">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="AREA" type="float"></SimpleField>
+	<SimpleField name="PERIMETER" type="float"></SimpleField>
+	<SimpleField name="BLDGFP_" type="float"></SimpleField>
+	<SimpleField name="BLDGFP_ID" type="float"></SimpleField>
+	<SimpleField name="ADDRESS" type="string"></SimpleField>
+	<SimpleField name="TYPE" type="string"></SimpleField>
+	<SimpleField name="STORIES" type="int"></SimpleField>
+	<SimpleField name="NUM" type="int"></SimpleField>
+	<SimpleField name="PHASE" type="int"></SimpleField>
+	<SimpleField name="Shape_Leng" type="float"></SimpleField>
+	<SimpleField name="Shape_Area" type="float"></SimpleField>
+	<SimpleField name="Img_URL" type="string"></SimpleField>
+</Schema>
+</Document></kml>

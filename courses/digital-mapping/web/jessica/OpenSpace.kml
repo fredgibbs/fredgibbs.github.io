@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OpenSpace</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OpenSpace">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="Type">Courtyard</SimpleData>
+		<SimpleData name="Descriptio">Private</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="SHAPE_Leng">207.79654765500</SimpleData>
+		<SimpleData name="SHAPE_Area">1494.32329996000</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2932/14528271129_4723831778.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65071625301022,35.084315503702612 -106.6507325439978,35.084230768226455 -106.65071869924633,35.084229086791481 -106.65073564631028,35.084143738861762 -106.65076638619958,35.084148123809804 -106.65075945401773,35.084184403180664 -106.65078960294078,35.084188811710611 -106.6507967293425,35.084152557838337 -106.65082758342535,35.084156970338434 -106.65079396693564,35.084327000028779 -106.65071625301022,35.084315503702612</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OpenSpace">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="Type">Courtyard</SimpleData>
+		<SimpleData name="Descriptio">Private</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="SHAPE_Leng">135.67720940900</SimpleData>
+		<SimpleData name="SHAPE_Area">770.52946624600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65083281953605,35.084130430465159 -106.65080124425224,35.084126545897391 -106.65080468292496,35.084108744346402 -106.65077497273563,35.084104568748003 -106.65077168588213,35.084122469857782 -106.65075384000397,35.08412000476492 -106.65075953804246,35.084090369579428 -106.65074634262528,35.084088706734995 -106.65075017251066,35.084067031248111 -106.65076367788168,35.084068837300379 -106.6507711212395,35.084030121413193 -106.65085064357825,35.084040332565301 -106.65083281953605,35.084130430465159</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OpenSpace">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="Type">Forecourt</SimpleData>
+		<SimpleData name="Descriptio">Patio Area</SimpleData>
+		<SimpleData name="StudyArea">Central</SimpleData>
+		<SimpleData name="Block">2</SimpleData>
+		<SimpleData name="SHAPE_Leng">98.20915324930</SimpleData>
+		<SimpleData name="SHAPE_Area">300.57927571700</SimpleData>
+		<SimpleData name="Img_URL">https://c1.staticflickr.com/3/2902/14527435630_89340e1e76.jpg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-106.65080570722756,35.084560947002721 -106.65079164671454,35.084566957490551 -106.65078742530655,35.084589304952388 -106.65071423719731,35.084578061399945 -106.6507167249006,35.084567618855445 -106.65067926565875,35.084546873081834 -106.65066917619258,35.084545491136346 -106.65066983902207,35.084541994011147 -106.65080570722756,35.084560947002721</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Schema name="OpenSpace" id="OpenSpace">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+	<SimpleField name="Descriptio" type="string"></SimpleField>
+	<SimpleField name="StudyArea" type="string"></SimpleField>
+	<SimpleField name="Block" type="string"></SimpleField>
+	<SimpleField name="SHAPE_Leng" type="float"></SimpleField>
+	<SimpleField name="SHAPE_Area" type="float"></SimpleField>
+	<SimpleField name="Img_URL" type="string"></SimpleField>
+</Schema>
+</Document></kml>

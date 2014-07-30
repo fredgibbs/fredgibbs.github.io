@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>ActiveUses</name>
+  <Placemark>
+	<name>KIMO THEATRE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveUses">
+		<SimpleData name="AREA">5946.27000000000</SimpleData>
+		<SimpleData name="PERIMETER">362.80000000000</SimpleData>
+		<SimpleData name="BLDGFP_">346</SimpleData>
+		<SimpleData name="BLDGFP_ID">488</SimpleData>
+		<SimpleData name="ADDRESS">423 CENTRAL AV NW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">2</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Use">Theater</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>102.62068997696042,1486529.3450523242 96.837067410349846,1486494.4832535833 124.86570488288999,1486490.0768032372 108.13194833695889,1486388.4240295812 30.625,1486401.375 54.00000000372529,1486537.1250000075 102.62068997696042,1486529.3450523242</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveUses">
+		<SimpleData name="AREA">3480.20000000000</SimpleData>
+		<SimpleData name="PERIMETER">327.30900000000</SimpleData>
+		<SimpleData name="BLDGFP_">353</SimpleData>
+		<SimpleData name="BLDGFP_ID">490</SimpleData>
+		<SimpleData name="ADDRESS">411 CENTRAL AV NW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">1</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Use">Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>179.62571613863111,1486376.2960690558 -158.0189008936286,1486512.8772648722 -133.34783256426454,1486509.0389193892 -155.13142549991608,1486372.2184471861 179.62571613863111,1486376.2960690558</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveUses">
+		<SimpleData name="AREA">6784.38000000000</SimpleData>
+		<SimpleData name="PERIMETER">374.69600000000</SimpleData>
+		<SimpleData name="BLDGFP_">354</SimpleData>
+		<SimpleData name="BLDGFP_ID">491</SimpleData>
+		<SimpleData name="ADDRESS">409 CENTRAL AV NW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">3</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Use">Bar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-155.13142549991608,1486372.2184471861 -133.34783256426454,1486509.0389193892 -83.902797903865576,1486500.95908124 -106.12373176217079,1486364.5658491701 -155.13142549991608,1486372.2184471861</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CROSSROADS</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveUses">
+		<SimpleData name="AREA">7011.99000000000</SimpleData>
+		<SimpleData name="PERIMETER">378.85500000000</SimpleData>
+		<SimpleData name="BLDGFP_">364</SimpleData>
+		<SimpleData name="BLDGFP_ID">362</SimpleData>
+		<SimpleData name="ADDRESS">319 CENTRAL AV NW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">3</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">1</SimpleData>
+		<SimpleData name="Use">Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>141.62893148884177,1486464.7878707871 -165.31429308280349,1486456.2406330183 -170.51407425478101,1486424.5210537612 172.20563107356429,1486319.5901209563 118.91162147000432,1486328.8605756611 141.62893148884177,1486464.7878707871</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveUses">
+		<SimpleData name="AREA">8560.94000000000</SimpleData>
+		<SimpleData name="PERIMETER">434.47700000000</SimpleData>
+		<SimpleData name="BLDGFP_">369</SimpleData>
+		<SimpleData name="BLDGFP_ID">495</SimpleData>
+		<SimpleData name="ADDRESS">301 CENTRAL AV NW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">2</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">2</SimpleData>
+		<SimpleData name="Use">Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-91.272287160158157,1486445.568693459 -16.74999999627471,1486433.2500000075 -22.825632326304913,1486395.4308953807 -25.737501602619886,1486395.8709527403 -39.669793274253607,1486305.8535916284 -38.41111271828413,1486301.4699110836 -39.148959938436747,1486294.2650499716 -48.3069460503757,1486295.5237305239 -52.560418274253607,1486297.9108833075 -59.203936792910099,1486298.9279550537 -59.310775361955166,1486297.8825076446 -69.624436520040035,1486299.4731718078 -69.5413210503757,1486300.4456055164 -72.110765494406223,1486300.8275499716 -72.207328874617815,1486299.8715283349 -89.24999999627471,1486302.5 -89.046409655362368,1486303.771972701 -92.062733083963394,1486304.287040703 -103.23894836753607,1486311.8825268149 -102.47939975187182,1486315.6802698672 -124.35834217444062,1486319.8601743802 -127.54450392350554,1486320.5630823672 -124.94033725187182,1486335.6455476582 -109.68033811822534,1486333.065595001 -100.25,1486391.5 -94.968711584806442,1486422.9775347114 -91.272287160158157,1486445.568693459</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveUses">
+		<SimpleData name="AREA">4550.73000000000</SimpleData>
+		<SimpleData name="PERIMETER">296.01600000000</SimpleData>
+		<SimpleData name="BLDGFP_">371</SimpleData>
+		<SimpleData name="BLDGFP_ID">496</SimpleData>
+		<SimpleData name="ADDRESS">311 CENTRAL AV NW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">1</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Use">Bar/Strip Club</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-170.51407425478101,1486424.5210537612 -123.0344229452312,1486417.6276901066 -140.0330551341176,1486313.7618738264 172.68369463086128,1486322.0244901851 -170.51407425478101,1486424.5210537612</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveUses">
+		<SimpleData name="AREA">11068.30000000000</SimpleData>
+		<SimpleData name="PERIMETER">439.43200000000</SimpleData>
+		<SimpleData name="BLDGFP_">400</SimpleData>
+		<SimpleData name="BLDGFP_ID">497</SimpleData>
+		<SimpleData name="ADDRESS">418 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">2</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Use">Bar/Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>93.725455965846777,1486306.5419669971 73.418479327112436,1486167.0003861636 -3.956520672887564,1486179.2503861636 19.87500000372529,1486319.25 93.725455965846777,1486306.5419669971</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveUses">
+		<SimpleData name="AREA">5780.56000000000</SimpleData>
+		<SimpleData name="PERIMETER">362.56100000000</SimpleData>
+		<SimpleData name="BLDGFP_">406</SimpleData>
+		<SimpleData name="BLDGFP_ID">500</SimpleData>
+		<SimpleData name="ADDRESS">412 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">4</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Use">Clothing Store</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>141.79623828083277,1486298.0517808124 -141.15950819849968,1486284.9695405737 -162.62010063976049,1486147.2146801949 121.28405790030956,1486159.7036097422 141.79623828083277,1486298.0517808124</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveUses">
+		<SimpleData name="AREA">4001.88000000000</SimpleData>
+		<SimpleData name="PERIMETER">335.15600000000</SimpleData>
+		<SimpleData name="BLDGFP_">409</SimpleData>
+		<SimpleData name="BLDGFP_ID">503</SimpleData>
+		<SimpleData name="ADDRESS">406 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">2</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Use">Bar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-116.30534581467509,1486280.725095205 -93.157333824783564,1486276.7343475968 -114.7753797583282,1486139.8536003232 -137.94792699441314,1486143.5744524971 -132.19708723574877,1486180.0179507434 -116.30534581467509,1486280.725095205</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveUses">
+		<SimpleData name="AREA">3566.72000000000</SimpleData>
+		<SimpleData name="PERIMETER">328.26700000000</SimpleData>
+		<SimpleData name="BLDGFP_">410</SimpleData>
+		<SimpleData name="BLDGFP_ID">9390</SimpleData>
+		<SimpleData name="ADDRESS">402 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">2</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Use">Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>-93.157333824783564,1486276.7343475968 -56.896934513002634,1486270.6400499791 -51.558392848819494,1486260.7442166433 -73.042767852544785,1486132.6192166284 -114.7753797583282,1486139.8536003232 -93.157333824783564,1486276.7343475968</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveUses">
+		<SimpleData name="AREA">3922.58000000000</SimpleData>
+		<SimpleData name="PERIMETER">330.46800000000</SimpleData>
+		<SimpleData name="BLDGFP_">414</SimpleData>
+		<SimpleData name="BLDGFP_ID">512</SimpleData>
+		<SimpleData name="ADDRESS">316 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">1</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Use">Flower Shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>109.34984037652612,1486242.5838018954 134.96828884258866,1486238.7713763639 112.3169145360589,1486103.8690625876 88.457834608852863,1486107.9323993549 109.34984037652612,1486242.5838018954</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveUses">
+		<SimpleData name="AREA">3882.05000000000</SimpleData>
+		<SimpleData name="PERIMETER">330.72900000000</SimpleData>
+		<SimpleData name="BLDGFP_">416</SimpleData>
+		<SimpleData name="BLDGFP_ID">507</SimpleData>
+		<SimpleData name="ADDRESS">316 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">1</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Use">Bar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>134.96828884258866,1486238.7713763639 158.36793335899711,1486235.1833214387 138.15126584842801,1486099.4997195452 112.3169145360589,1486103.8690625876 134.96828884258866,1486238.7713763639</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>LERNER SHOPS BLDG (BREWSTERS PUB)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveUses">
+		<SimpleData name="AREA">4324.60000000000</SimpleData>
+		<SimpleData name="PERIMETER">337.96300000000</SimpleData>
+		<SimpleData name="BLDGFP_">418</SimpleData>
+		<SimpleData name="BLDGFP_ID">508</SimpleData>
+		<SimpleData name="ADDRESS">314 CENTRAL AV SW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">2</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Use">Bar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>158.36793335899711,1486235.1833214387 -177.91477106884122,1486231.5505752489 161.33653261885047,1486095.7484362572 138.15126584842801,1486099.4997195452 158.36793335899711,1486235.1833214387</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveUses">
+		<SimpleData name="AREA">10545.80000000000</SimpleData>
+		<SimpleData name="PERIMETER">477.76200000000</SimpleData>
+		<SimpleData name="BLDGFP_">710</SimpleData>
+		<SimpleData name="BLDGFP_ID">364</SimpleData>
+		<SimpleData name="ADDRESS">215 CENTRAL AV NW</SimpleData>
+		<SimpleData name="TYPE">N</SimpleData>
+		<SimpleData name="STORIES">3</SimpleData>
+		<SimpleData name="NUM">21</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Use">Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>90.927526962012053,1486412.8983709663 -171.12651501595974,1486398.0747163892 166.15277541428804,1486262.0527781621 132.75,1486267.5 114.4257746823132,1486269.9654146582 117.32431446015835,1486287.3888611495 96.320889599621296,1486290.9992334917 99.57643112167716,1486310.8670322672 87.31371371075511,1486312.5837710425 85.143574818968773,1486298.4778682664 72.441371012479067,1486300.2274312526 90.927526962012053,1486412.8983709663</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ActiveUses">
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="PERIMETER">0.00000000000</SimpleData>
+		<SimpleData name="BLDGFP_">0</SimpleData>
+		<SimpleData name="BLDGFP_ID">0</SimpleData>
+		<SimpleData name="STORIES">0</SimpleData>
+		<SimpleData name="NUM">0</SimpleData>
+		<SimpleData name="PHASE">0</SimpleData>
+		<SimpleData name="Use">Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>109.34984037652612,1486242.5838018954 88.457834608852863,1486107.9323993549 62.931544002145529,1486112.2199258655 83.380958799272776,1486246.440515399 109.34984037652612,1486242.5838018954</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Schema name="ActiveUses" id="ActiveUses">
+	<SimpleField name="AREA" type="float"></SimpleField>
+	<SimpleField name="PERIMETER" type="float"></SimpleField>
+	<SimpleField name="BLDGFP_" type="float"></SimpleField>
+	<SimpleField name="BLDGFP_ID" type="float"></SimpleField>
+	<SimpleField name="ADDRESS" type="string"></SimpleField>
+	<SimpleField name="TYPE" type="string"></SimpleField>
+	<SimpleField name="STORIES" type="int"></SimpleField>
+	<SimpleField name="NUM" type="int"></SimpleField>
+	<SimpleField name="PHASE" type="int"></SimpleField>
+	<SimpleField name="Use" type="string"></SimpleField>
+</Schema>
+</Document></kml>
