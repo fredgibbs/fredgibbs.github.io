@@ -23,7 +23,7 @@ Office Hours: M 1-3; W 3-4; almost any other time by appointment
 <div>
 What constitutes healthy food? A healthy diet? A healthy body? Needless to say, dietary regimens to restore or maintain health--as well as what it means to be healthy--have remained preeminent questions throughout Western medical history. Yet even today, medical understandings of diet and official dietary advice seems to change almost daily. This course explores how various cultural, scientific, and medical values have continually shaped our relationship to food, health, and diet from the "discovery" of America to the present.
 
-Some guiding questions: How and why have the perceived medical virtues of various foods (such as coffee, chocolate, booze, etc) changed over time? Why have fad diets come in and gone out of fashion? How has modern medicine continually redefined what it means to be healthy and to eat a healthy diet? How have national recommendations for healthy foods been used as social controls? How have changing attitudes about the body, health, and technology shaped our preferences for what should be considered healthy food?
+Some guiding questions: How and why have the perceived medical virtues of various foods changed over time? Why have fad diets come in and gone out of fashion? How has modern medicine continually redefined what it means to be healthy and to eat a healthy diet? How have national recommendations for healthy foods been used as social controls? How have changing attitudes about the body, health, and technology shaped our preferences for what should be considered healthy food?
 
 The course will be taught in the shiny new Teaching and Learning building in "learning studios" that look like [this](https://www.unm.edu/~oset/Event%20Descriptions/LearningStudioClassroomsatUNM.html). Discussions will be more like labs, in which everyone will be working in small groups to research and discuss and present on relevant topics and research exercises. One of these topics will be the nature and history of local food, in parallel with October as "Local Food Month" in ABQ.
 </div>
@@ -50,11 +50,11 @@ The course will be taught in the shiny new Teaching and Learning building in "le
 
 * You raise (or lower) your grade based on the quality of your participation in class discussions and activities, random assignments, and (least frequently) your submitted written work.
 
-* The class will meet in the shiny new Teaching and Learning building in "[learning studios](https://www.unm.edu/~oset/Event%20Descriptions/LearningStudioClassroomsatUNM.html)." Discussions will be more like labs where everyone will be working in groups to research the weekly topic and making extensive use of the video projector and whiteboards to share and communicate. Every Friday we will have group presentations that will summarize and bring together the readings for the week in a visual way.
+* The class will meet in the shiny new Teaching and Learning building in "[learning studios](https://www.unm.edu/~oset/Event%20Descriptions/LearningStudioClassroomsatUNM.html)." Discussions will be more like labs where everyone will be working in groups to research the weekly topic and making extensive use of the video projector and whiteboards to share and communicate. Part of most class meetings will be dedicated to group project work; every Friday we will have group presentations that will summarize and bring together the readings for the week in a visual way.
 
 * Simply showing up to class counts for very little; **I expect that you'll attend most classes and actively participate in all activities. This work counts for 50% of your grade.** If you want a course where you can sit back and occasionally regurgitate information, this course isn't for you.
 
-* 4 750-word historical analyses of a recent "publication" pertaining to food, health, and diet. These can be from a newspaper, magazine, movie, science research article, historical scholarship, or whatever you like. They should be easily accessible through Google (this is not a scholarly or library research assignment, though you can go that route if you want). The goal is to find something you might read even if you weren't in the course, and critique it from a historical perspective (that you're hopefully getting in the course). These assignments will show that you're able to apply the course discussion and activities in productive ways. (30%)
+* 4 750-word historical analyses of a recent "publication" pertaining to food, health, and diet. These can be from a newspaper, magazine, movie, science research article, historical scholarship, or whatever you like. They should be easily accessible through Google (this is not a scholarly or library research assignment, though you can go that route if you want). The goal is to find something you might read even if you weren't in the course, and critique it from a historical perspective that you're hopefully getting in the course. These assignments will show that you're able to apply the course discussion and activities in productive ways. (30%)
 
 * Your final "exam" will consist of contributing to a group project that examines some facet of the relationship between food, health and diet. All groups will present during the last week of class. You will compose and be individually graded on a 750-word essay that explains what you learned in the course and how you applied that to the project. (20%)
 
@@ -141,7 +141,7 @@ J. Worth Estes, "The Medical Properties of Food in the Eighteenth Century,” Jo
 Steven Shapin, “Trusting George Cheyne: Scientific Expertise, Common Sense, and Moral Authority in Early Eighteenth-Century Dietetic Medicine,” 
 *Bulletin of the History of Medicine*, 77 (2003): 263-297.
 
-George Cheyne, *An Essay on Regimen* (London, 1740), 53-62.
+Presetations: Analzying early dietary advice, such as George Cheyne, *An Essay on Regimen* (London, 1740), 53-62.
 </div>
 
 
@@ -176,10 +176,12 @@ Presentations: Visual Histories of the Body
 Harvey Levenstein, *Revolution at the Table*, 3-97.
 
 #### WED
-*Revolution at the Table*, 98-146
+*Revolution at the Table*, 98-146.
 
 #### FRI
-*Revolution at the Table*, 147-211
+*Revolution at the Table*, 147-211.
+
+Decide on articles for Monday; get them while you're on campus!
 </div>
 
 
@@ -192,14 +194,16 @@ Harvey Levenstein, *Revolution at the Table*, 3-97.
 <div>
 
 #### MON
-James Hale, et. al., [Connecting food environments and health through the relational nature of aesthetics: Gaining insight through the community gardening experience](http://www.sciencedirect.com/science/article/pii/S0277953611002267), *Social Science & Medicine* 72.11 (June 2011), 1853-1863.
-
-#### WED
 Pick and report on one of the articles about [availability of healthy food](http://www.ctdatahaven.org/know/index.php/Research_Availability_Healthy_Food_FoodDeserts).
 
-#### FRI
 [40 maps that explain food in America](http://www.ctdatahaven.org/know/index.php/Research_Availability_Healthy_Food_FoodDeserts).
 
+Tutorial on creating maps with Google Maps Engine.
+
+#### WED
+No Class! Gather data for our food access map. Send me your KML files by Thursday at 5:00pm
+
+#### FRI
 Presentations: Mapping Food Access in ABQ.
 </div>
 
@@ -292,9 +296,11 @@ Rima D. Apple, “‘They Need It Now’: Science, Advertising and Vitamins, 192
 Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine* 34 (May 1887): 59-74.
 
 #### WED
-Michael Moss, [The Extraordinary Science of Addictive Junk Food](http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html), *The New York Times*, February 20, 2013.
+Catherine Carstairs, “‘Our Sickness Record Is a National Disgrace’: Adelle Davis, Nutritional Determinism, and the Anxious 1970s,” *Journal of the History of Medicine and Allied Sciences* 69.3 (2014): 461–91.
 
 #### FRI
+Michael Moss, [The Extraordinary Science of Addictive Junk Food](http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html), *The New York Times*, February 20, 2013.
+
 David S. Ludwig and Mark I. Friedman, [Always Hungry? Here’s Why](http://www.nytimes.com/2014/05/18/opinion/sunday/always-hungry-heres-why.html), *The New York Times*, May 16, 2014.
 </div>
 
@@ -334,7 +340,7 @@ Stephanie Strom, “[Major Grocer to Label Foods With Gene-Modified Content](htt
 Alison Shaw, "‘It Just Goes against the Grain’: Public Understandings of Genetically Modified (GM) Food in the UK.” *Public Understanding of Science* 11.3 (2002): 273-291.
 
 #### FRI
-Ellen Messer, “Food Systems and Dietary Perspective: Are Genetically Modified Organisms the Best Way to Ensure Nutritionally Adequate Food?,” *Indiana Journal of Global Legal Studies* 9, no. 1 (October 1, 2001): 65–90.
+Ellen Messer, “Food Systems and Dietary Perspective: Are Genetically Modified Organisms the Best Way to Ensure Nutritionally Adequate Food?,” *Indiana Journal of Global Legal Studies* 9.1 (2001): 65–90.
 
 Presentations: Visualize the arguments on engineed food. How to make complex concerns easily understandable?
 </div>
@@ -378,7 +384,7 @@ Michael Pollan, _In Defense of Food: An Eater's Manifesto_ (yes, the whole thing
 No Class: Work on your final presentations!
 
 #### FRI
-Thanksgiving: No Class! Eat Well!!
+Thanksgiving: No Class! Eat Well!! (and help in the kitchen)
 </div>
 
 
