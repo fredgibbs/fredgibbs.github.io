@@ -32,23 +32,13 @@
         var map = L.map('map', {maxZoom:22}).setView([35.084415, -106.650416], 16);
 
        // using the leaflet library we loaded above (referenced by L)
-        var terrain = new L.StamenTileLayer("toner-lite");
+        var toner = new L.StamenTileLayer("toner-lite");
 
         var footprints = L.tileLayer('http://{s}.tiles.mapbox.com/v3/jjohns22.j3fp9pho/{z}/{x}/{y}.png', {
             attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>'
         }).addTo(map);  
 
-        var osm = L.tileLayer(
-         // 'http://{s}.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png', 
-         
-         // replace the below link with a working mapbox project ID;
-        // this is the old one you gave me, which either is not public, or deleted.
-            'http://{s}.tiles.mapbox.com/v3/jjohns22.j1mlgjc8/{z}/{x}/{y}.png',
-        {
-            attribution: 'digital-mapping-2014',
-            subdomains: ['otile1','otile2','otile3','otile4']
-        });                
-
+        
         footprints.addTo(map);
 
 
@@ -79,8 +69,7 @@
           .addTo(map);
 
         var baseMaps = {
-            "Streets": osm,
-            "Terrain": terrain,
+            "Toner": toner,
             "Footprints": footprints
         };
 
