@@ -1,0 +1,2079 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64939705216847,
+                    35.0843473581744
+                ]
+            },
+            "properties": {
+                "OBJECTID": "1",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64956079620114,
+                    35.084366853570366
+                ]
+            },
+            "properties": {
+                "OBJECTID": "2",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/6/5558/14719662772_872c909338.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64972629573953,
+                    35.0843892050733
+                ]
+            },
+            "properties": {
+                "OBJECTID": "3",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64989178139787,
+                    35.08440869428077
+                ]
+            },
+            "properties": {
+                "OBJECTID": "4",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/4/3860/14739869683_a66f638b0b.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6500572695307,
+                    35.08442889900802
+                ]
+            },
+            "properties": {
+                "OBJECTID": "5",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65022105341443,
+                    35.08445626397025
+                ]
+            },
+            "properties": {
+                "OBJECTID": "6",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64942855486028,
+                    35.08420271715158
+                ]
+            },
+            "properties": {
+                "OBJECTID": "7",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64959228465302,
+                    35.08421935043824
+                ]
+            },
+            "properties": {
+                "OBJECTID": "8",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c1.staticflickr.com/3/2910/14740135963_3f2f123de9.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6497542846137,
+                    35.0842381355669
+                ]
+            },
+            "properties": {
+                "OBJECTID": "9",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64991891320949,
+                    35.084260489679195
+                ]
+            },
+            "properties": {
+                "OBJECTID": "10",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65008615299425,
+                    35.0842828349527
+                ]
+            },
+            "properties": {
+                "OBJECTID": "11",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/4/3878/14734089543_a71079b255.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65025251624361,
+                    35.0843037522815
+                ]
+            },
+            "properties": {
+                "OBJECTID": "12",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64935434010508,
+                    35.084335334626665
+                ]
+            },
+            "properties": {
+                "OBJECTID": "13",
+                "Type": "Trash Can",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/4/3915/14739795203_ccdaedd209.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64937977674276,
+                    35.08419643782276
+                ]
+            },
+            "properties": {
+                "OBJECTID": "14",
+                "Type": "Trash Can",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/4/3873/14526701808_77fc53276a.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65028736954392,
+                    35.084310792076394
+                ]
+            },
+            "properties": {
+                "OBJECTID": "15",
+                "Type": "Trash Can",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/6/5590/14527637509_033f1b4151.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65027671393665,
+                    35.08444606240548
+                ]
+            },
+            "properties": {
+                "OBJECTID": "16",
+                "Type": "Trash Can",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/4/3863/14719785662_143fa01ea0.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64948170537987,
+                    35.08421327477901
+                ]
+            },
+            "properties": {
+                "OBJECTID": "17",
+                "Type": "Sign",
+                "Descriptio": "Directional",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/4/3847/14533840247_bb0c15cdff.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64986404558147,
+                    35.08425494638173
+                ]
+            },
+            "properties": {
+                "OBJECTID": "18",
+                "Type": "Parking Meter",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/6/5581/14533864557_6c41416fe0.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64946197245438,
+                    35.08421109245862
+                ]
+            },
+            "properties": {
+                "OBJECTID": "19",
+                "Type": "Bike Rack",
+                "Descriptio": "Round",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/6/5593/14526663870_f489df2a5d.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64945191997113,
+                    35.08435113122759
+                ]
+            },
+            "properties": {
+                "OBJECTID": "20",
+                "Type": "Bike Rack",
+                "Descriptio": "Round",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c1.staticflickr.com/3/2928/14717557294_5216be1469.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64979350172428,
+                    35.08439424891614
+                ]
+            },
+            "properties": {
+                "OBJECTID": "21",
+                "Type": "Parking Meter",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/4/3856/14696996916_6559ae3a93.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64936454797571,
+                    35.08434414426922
+                ]
+            },
+            "properties": {
+                "OBJECTID": "22",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6497971162314,
+                    35.08442142754283
+                ]
+            },
+            "properties": {
+                "OBJECTID": "23",
+                "Type": "ATM",
+                "StudyArea": "Central",
+                "Block": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65015943267511,
+                    35.084447184156076
+                ]
+            },
+            "properties": {
+                "OBJECTID": "24",
+                "Type": "Bike Rack",
+                "Descriptio": "Round",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/4/3860/14527615129_d8df688621.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64946398405594,
+                    35.08434095464257
+                ]
+            },
+            "properties": {
+                "OBJECTID": "25",
+                "Type": "Planter",
+                "Descriptio": "Blue",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/6/5556/14719952165_78d6832e00.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6502069257921,
+                    35.08444315117702
+                ]
+            },
+            "properties": {
+                "OBJECTID": "26",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/6/5581/14713969722_72af9bd8d0_z.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65024321544924,
+                    35.08444720603859
+                ]
+            },
+            "properties": {
+                "OBJECTID": "27",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/4/3861/14527609058_108512f8c8.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65019426273385,
+                    35.084449454463524
+                ]
+            },
+            "properties": {
+                "OBJECTID": "28",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/4/3898/14527820097_e3b1bbf33b.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65025232618235,
+                    35.08445612018981
+                ]
+            },
+            "properties": {
+                "OBJECTID": "29",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/4/3839/14711072861_1b6816f374.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65015793840371,
+                    35.084432461139286
+                ]
+            },
+            "properties": {
+                "OBJECTID": "30",
+                "Type": "Planter",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/4/3887/14533493620_e116de6c98.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6502751128416,
+                    35.08430351723832
+                ]
+            },
+            "properties": {
+                "OBJECTID": "31",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/6/5572/14527611710_accdb4286c.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65022807716473,
+                    35.084297232499836
+                ]
+            },
+            "properties": {
+                "OBJECTID": "32",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c1.staticflickr.com/3/2921/14527660078_beb06b8b50.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65023800319489,
+                    35.08430984082257
+                ]
+            },
+            "properties": {
+                "OBJECTID": "33",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/4/3915/14711136061_1d4b243af0.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65026325959164,
+                    35.084312381592916
+                ]
+            },
+            "properties": {
+                "OBJECTID": "34",
+                "Type": "Planter",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/6/5568/14711910554_61ba4f6285.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65032804096572,
+                    35.08426852027357
+                ]
+            },
+            "properties": {
+                "OBJECTID": "35",
+                "Type": "Donation",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/4/3840/14717952084_414ab8c687.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65059087208314,
+                    35.084495190910836
+                ]
+            },
+            "properties": {
+                "OBJECTID": "36",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65075000025121,
+                    35.084519947307214
+                ]
+            },
+            "properties": {
+                "OBJECTID": "37",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65091491685293,
+                    35.08454182224272
+                ]
+            },
+            "properties": {
+                "OBJECTID": "38",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/4/3879/14527429610_c72922a373.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65108099254816,
+                    35.08456321534956
+                ]
+            },
+            "properties": {
+                "OBJECTID": "39",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65124590574722,
+                    35.08458413610764
+                ]
+            },
+            "properties": {
+                "OBJECTID": "40",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65141023843073,
+                    35.08460496210715
+                ]
+            },
+            "properties": {
+                "OBJECTID": "41",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65061975352417,
+                    35.08434912764131
+                ]
+            },
+            "properties": {
+                "OBJECTID": "42",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6507832234848,
+                    35.08437172238961
+                ]
+            },
+            "properties": {
+                "OBJECTID": "43",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65093855684599,
+                    35.08439195947465
+                ]
+            },
+            "properties": {
+                "OBJECTID": "44",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65111333505891,
+                    35.08441284779821
+                ]
+            },
+            "properties": {
+                "OBJECTID": "45",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65128173337234,
+                    35.08443470981765
+                ]
+            },
+            "properties": {
+                "OBJECTID": "46",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65144549436609,
+                    35.08445754249518
+                ]
+            },
+            "properties": {
+                "OBJECTID": "47",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/6/5571/14711781881_cfd642133d.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65134224983595,
+                    35.08459580210934
+                ]
+            },
+            "properties": {
+                "OBJECTID": "48",
+                "Type": "Bike Rack",
+                "Descriptio": "Round",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/4/3862/14691083636_83c73e3978.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65135949311477,
+                    35.0845974623086
+                ]
+            },
+            "properties": {
+                "OBJECTID": "49",
+                "Type": "Bike Rack",
+                "Descriptio": "Round",
+                "StudyArea": "Central",
+                "Block": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65067513514231,
+                    35.08436893079411
+                ]
+            },
+            "properties": {
+                "OBJECTID": "50",
+                "Type": "Sign",
+                "Descriptio": "Directional",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/4/3879/14528217360_0e5d25472e.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65065939977946,
+                    35.0843551490785
+                ]
+            },
+            "properties": {
+                "OBJECTID": "51",
+                "Type": "Bike Rack",
+                "Descriptio": "Round",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/6/5566/14711008111_a4404d95d7_z.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65065770295654,
+                    35.084366751884176
+                ]
+            },
+            "properties": {
+                "OBJECTID": "52",
+                "Type": "Planter",
+                "Descriptio": "Red",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/4/3887/14527741427_2c0afc57ef.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65054945491163,
+                    35.08448159407711
+                ]
+            },
+            "properties": {
+                "OBJECTID": "53",
+                "Type": "Trash Can",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/6/5586/14719616032_af80ab08f9.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65056876910684,
+                    35.084351841158515
+                ]
+            },
+            "properties": {
+                "OBJECTID": "54",
+                "Type": "Trash Can",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/6/5587/14713868012_0560868f2e.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65106376882396,
+                    35.08440893807016
+                ]
+            },
+            "properties": {
+                "OBJECTID": "55",
+                "Type": "Parking Meter",
+                "StudyArea": "Central",
+                "Block": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6510528842894,
+                    35.084556551919015
+                ]
+            },
+            "properties": {
+                "OBJECTID": "56",
+                "Type": "Parking Meter",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/4/3857/14715281805_6702c0a43f.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65145644907331,
+                    35.08460619827349
+                ]
+            },
+            "properties": {
+                "OBJECTID": "57",
+                "Type": "Trash Can",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c1.staticflickr.com/3/2929/14713755532_9aa35ea29d.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6514347179267,
+                    35.08461253080762
+                ]
+            },
+            "properties": {
+                "OBJECTID": "58",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/4/3904/14713761892_7125fb35cd.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65138499681842,
+                    35.084606136416994
+                ]
+            },
+            "properties": {
+                "OBJECTID": "59",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/6/5577/14527619627_c8440999b0.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65139982934794,
+                    35.0845983357229
+                ]
+            },
+            "properties": {
+                "OBJECTID": "60",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/6/5576/14733937513_0608f4e995.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65142341414197,
+                    35.08460034451793
+                ]
+            },
+            "properties": {
+                "OBJECTID": "61",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/6/5582/14714053415_e429bece83.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65140963013828,
+                    35.08445191805634
+                ]
+            },
+            "properties": {
+                "OBJECTID": "62",
+                "Type": "Bike Rack",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/4/3896/14528317220_d46b4501b1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65137987020016,
+                    35.08444814031258
+                ]
+            },
+            "properties": {
+                "OBJECTID": "63",
+                "Type": "Rick Rack",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/4/3891/14711812321_6f80195c34.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65094830076026,
+                    35.08437853165931
+                ]
+            },
+            "properties": {
+                "OBJECTID": "64",
+                "Type": "Sign",
+                "Descriptio": "Ad on Sidewalk",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c1.staticflickr.com/3/2901/14711766321_3b288d7f40.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65147764543497,
+                    35.08445715874969
+                ]
+            },
+            "properties": {
+                "OBJECTID": "65",
+                "Type": "Planter",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/6/5567/14528094218_ddbeb776f9.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65148682545262,
+                    35.084465356684476
+                ]
+            },
+            "properties": {
+                "OBJECTID": "66",
+                "Type": "Planter",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/4/3838/14528335120_778baf6ea5.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65181049472643,
+                    35.08449957004431
+                ]
+            },
+            "properties": {
+                "OBJECTID": "67",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6519754115558,
+                    35.084521443536005
+                ]
+            },
+            "properties": {
+                "OBJECTID": "68",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c1.staticflickr.com/3/2937/14712248194_555305a518_n.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6521420733785,
+                    35.084543787885174
+                ]
+            },
+            "properties": {
+                "OBJECTID": "69",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65230524298276,
+                    35.08456423611506
+                ]
+            },
+            "properties": {
+                "OBJECTID": "70",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65247190153464,
+                    35.08458610225065
+                ]
+            },
+            "properties": {
+                "OBJECTID": "71",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3908/14527951229_b179d28e2a_n.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65263043154779,
+                    35.084607042309436
+                ]
+            },
+            "properties": {
+                "OBJECTID": "72",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65227000790792,
+                    35.084716045076675
+                ]
+            },
+            "properties": {
+                "OBJECTID": "73",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6521027760374,
+                    35.0846956111724
+                ]
+            },
+            "properties": {
+                "OBJECTID": "74",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c1.staticflickr.com/3/2921/14528223657_a29670ccb4_n.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65243318022353,
+                    35.08473696909095
+                ]
+            },
+            "properties": {
+                "OBJECTID": "75",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6519378436883,
+                    35.08467087579271
+                ]
+            },
+            "properties": {
+                "OBJECTID": "76",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65177640373506,
+                    35.084648036092794
+                ]
+            },
+            "properties": {
+                "OBJECTID": "77",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65261346680168,
+                    35.08475674006094
+                ]
+            },
+            "properties": {
+                "OBJECTID": "78",
+                "Type": "Street Light",
+                "StudyArea": "Central",
+                "Block": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65178655459475,
+                    35.08446959761275
+                ]
+            },
+            "properties": {
+                "OBJECTID": "79",
+                "Type": "Sign",
+                "Descriptio": "Ad on Sidewalk",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3839/14712649724_a66f833229.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65175423787012,
+                    35.08450643530455
+                ]
+            },
+            "properties": {
+                "OBJECTID": "80",
+                "Type": "Trash Can",
+                "StudyArea": "Central",
+                "Block": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65173106486236,
+                    35.08463292198926
+                ]
+            },
+            "properties": {
+                "OBJECTID": "81",
+                "Type": "Trash Can",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c1.staticflickr.com/3/2909/14527373728_009a670b95.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65177158626747,
+                    35.084493974730144
+                ]
+            },
+            "properties": {
+                "OBJECTID": "82",
+                "Type": "Planter",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3895/14734900833_2bda2d0d83.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65195504216285,
+                    35.084481650586675
+                ]
+            },
+            "properties": {
+                "OBJECTID": "84",
+                "Type": "ATM",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3919/14734939163_27228a507c_n.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65177980376293,
+                    35.084513028569404
+                ]
+            },
+            "properties": {
+                "OBJECTID": "85",
+                "Type": "Bike Rack",
+                "Descriptio": "Round",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c1.staticflickr.com/3/2929/14528390719_d034f7ec00.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65178150437175,
+                    35.084504913459675
+                ]
+            },
+            "properties": {
+                "OBJECTID": "86",
+                "Type": "Bike Rack",
+                "Descriptio": "Round",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3849/14528608187_583b3128e6.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65217401819648,
+                    35.084549406175064
+                ]
+            },
+            "properties": {
+                "OBJECTID": "87",
+                "Type": "Parking Meter",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3905/14736058611_948870d442.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65178843788516,
+                    35.08464656561429
+                ]
+            },
+            "properties": {
+                "OBJECTID": "88",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3907/14527359030_0a2c8b9947_z.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65176535526028,
+                    35.08464342209966
+                ]
+            },
+            "properties": {
+                "OBJECTID": "89",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/6/5555/14691045926_3a2ee6fda8_z.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65183223692942,
+                    35.0846489066964
+                ]
+            },
+            "properties": {
+                "OBJECTID": "90",
+                "Type": "Bike Rack",
+                "Descriptio": "Round",
+                "StudyArea": "Central",
+                "Block": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65170157643156,
+                    35.08463085528547
+                ]
+            },
+            "properties": {
+                "OBJECTID": "91",
+                "Type": "Fire Hydrant",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/6/5596/14691032896_1f91ae825c.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65221334552606,
+                    35.08470488553157
+                ]
+            },
+            "properties": {
+                "OBJECTID": "92",
+                "Type": "Parking Meter",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3853/14716366166_97fc9ae4ba_n.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65226212524891,
+                    35.08474109647306
+                ]
+            },
+            "properties": {
+                "OBJECTID": "93",
+                "Type": "Newspaper Dispense",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3911/14737035694_48922b3a15_n.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65264916937365,
+                    35.08475728302409
+                ]
+            },
+            "properties": {
+                "OBJECTID": "94",
+                "Type": "Trash Can",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/6/5554/14552820040_16fbd744b1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6526688327717,
+                    35.084625440571585
+                ]
+            },
+            "properties": {
+                "OBJECTID": "95",
+                "Type": "Trash Can",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3841/14713628412_e8c0f1ec48.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65258915740415,
+                    35.084752820408696
+                ]
+            },
+            "properties": {
+                "OBJECTID": "96",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65260284710236,
+                    35.084748862875905
+                ]
+            },
+            "properties": {
+                "OBJECTID": "97",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c1.staticflickr.com/3/2934/14710810801_fb610e1707_z.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65261990802927,
+                    35.08475169126407
+                ]
+            },
+            "properties": {
+                "OBJECTID": "98",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3894/14713989595_67b82a5c0d_z.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65257332192432,
+                    35.08474859062251
+                ]
+            },
+            "properties": {
+                "OBJECTID": "99",
+                "Type": "Bike Rack",
+                "Descriptio": "Round",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3926/14552841708_016d7ef496.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65257402153857,
+                    35.08474322194797
+                ]
+            },
+            "properties": {
+                "OBJECTID": "100",
+                "Type": "Bike Rack",
+                "Descriptio": "Round",
+                "StudyArea": "Central",
+                "Block": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65257508158003,
+                    35.08473755369579
+                ]
+            },
+            "properties": {
+                "OBJECTID": "101",
+                "Type": "Bike Rack",
+                "Descriptio": "Round",
+                "StudyArea": "Central",
+                "Block": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65265534573713,
+                    35.08461177154447
+                ]
+            },
+            "properties": {
+                "OBJECTID": "102",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3846/14527239798_dec2cb4ef0.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65264123527602,
+                    35.08461897323207
+                ]
+            },
+            "properties": {
+                "OBJECTID": "103",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3910/14527226830_9c84c4df1e.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65261582927685,
+                    35.08461548061817
+                ]
+            },
+            "properties": {
+                "OBJECTID": "104",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c1.staticflickr.com/3/2899/14711480114_6cbd2c7d8d.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65260271256368,
+                    35.084603300458134
+                ]
+            },
+            "properties": {
+                "OBJECTID": "105",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3871/14713876545_8bdd9275d9.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65257259538859,
+                    35.084600716816446
+                ]
+            },
+            "properties": {
+                "OBJECTID": "106",
+                "Type": "Bike Rack",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/6/5571/14759391353_e6a2dcb0ea.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65255168958016,
+                    35.084612520435584
+                ]
+            },
+            "properties": {
+                "OBJECTID": "107",
+                "Type": "Planter",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3911/14710686181_93464b19cd.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65252718241834,
+                    35.084560944900176
+                ]
+            },
+            "properties": {
+                "OBJECTID": "108",
+                "Type": "Planter",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3918/14527162960_d2a0a5dd79.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65247914111839,
+                    35.08455428125659
+                ]
+            },
+            "properties": {
+                "OBJECTID": "109",
+                "Type": "Planter",
+                "StudyArea": "Central",
+                "Block": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65249154468123,
+                    35.08456640159689
+                ]
+            },
+            "properties": {
+                "OBJECTID": "110",
+                "Type": "Sign",
+                "Descriptio": "Ad on Sidewalk",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/4/3856/14528646498_007f30cf03.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.25,
+                    -90
+                ]
+            },
+            "properties": {
+                "OBJECTID": "213",
+                "StudyArea": "Central",
+                "Block": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.25,
+                    -90
+                ]
+            },
+            "properties": {
+                "OBJECTID": "215",
+                "Type": "2 Person",
+                "StudyArea": "Central",
+                "Block": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65265527721374,
+                    35.08463286397868
+                ]
+            },
+            "properties": {
+                "OBJECTID": "216",
+                "Type": "Gate",
+                "Descriptio": "Traffic",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/6/5596/14527259698_c80bbd64ce.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65264004358411,
+                    35.08474491834088
+                ]
+            },
+            "properties": {
+                "OBJECTID": "217",
+                "Type": "Gate",
+                "Descriptio": "Traffic Gate",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/6/5567/14527534677_feb28d58d4.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6525910923237,
+                    35.08474765669168
+                ]
+            },
+            "properties": {
+                "OBJECTID": "218",
+                "Type": "Planter",
+                "StudyArea": "Central",
+                "Block": "3",
+                "Img_URL": "https://c2.staticflickr.com/6/5588/14733864143_3a8ba6eaa7.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65065646006985,
+                    35.08449406466325
+                ]
+            },
+            "properties": {
+                "OBJECTID": "219",
+                "Type": "Utility Box",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/4/3897/14713826262_bdefa62b40.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65060568631047,
+                    35.08449574774938
+                ]
+            },
+            "properties": {
+                "OBJECTID": "220",
+                "Type": "Bike Rack",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/4/3892/14717517404_8b21622227.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65056334075403,
+                    35.0844757455544
+                ]
+            },
+            "properties": {
+                "OBJECTID": "221",
+                "Type": "Gate",
+                "Descriptio": "Traffic Gate",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/4/3896/14714129935_410d7f2572.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65056569000359,
+                    35.08448094639275
+                ]
+            },
+            "properties": {
+                "OBJECTID": "222",
+                "Type": "Planter",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/4/3898/14711740684_80e3a9bc5b.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6505694031096,
+                    35.08436173882682
+                ]
+            },
+            "properties": {
+                "OBJECTID": "223",
+                "Type": "Gate",
+                "Descriptio": "Traffic Gate",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c1.staticflickr.com/3/2896/14691197346_0486971b80.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65013502547325,
+                    35.08428889825727
+                ]
+            },
+            "properties": {
+                "OBJECTID": "0",
+                "Type": "Bike Rack",
+                "StudyArea": "Central",
+                "Block": "1",
+                "Img_URL": "https://c2.staticflickr.com/4/3897/14713325295_ecc62de993.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65060689989335,
+                    35.084357388743236
+                ]
+            },
+            "properties": {
+                "OBJECTID": "0",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c1.staticflickr.com/3/2907/14711776364_106db6754a.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65062721939537,
+                    35.08435911044095
+                ]
+            },
+            "properties": {
+                "OBJECTID": "0",
+                "Type": "Bench",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/4/3915/14691181596_dd358226c4_z.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65145911269036,
+                    35.084450706805065
+                ]
+            },
+            "properties": {
+                "OBJECTID": "0",
+                "Type": "Trash Can",
+                "StudyArea": "Central",
+                "Block": "2",
+                "Img_URL": "https://c2.staticflickr.com/6/5583/14528349689_435fcfb4ae.jpg"
+            }
+        }
+    ]
+}
