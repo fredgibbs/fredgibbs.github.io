@@ -30,14 +30,16 @@
           fillOpacity: 0.8
       };
 
-      function popUp(f,l){
-            l.bindPopup("<img src='" + f.properties.Img_URL + "' />");
-        }
-      
       function makeCircle(f,l) {
         console.log(f);
         return L.circleMarker(l, geojsonMarkerOptions);      
       }
+
+
+      function popUp(f,l){
+            l.bindPopup("<img src='" + f.properties.Img_URL + "' />");
+        }
+      
 
       function initialize(){
 
@@ -52,32 +54,32 @@
         }).addTo(map);  
 
 
-      var openSpaces = new L.GeoJSON.AJAX(["geojson/myopenspace.geojson"],{onEachFeature:popUp}).addTo(map);
-      var diningAreas = new L.GeoJSON.AJAX(["geojson/OutdoorDiningAreas.geojson"],{onEachFeature:popUp}).addTo(map);
-      var SF = new L.GeoJSON.AJAX(["jessica/SF.geojson"],{pointToLayer:makeCircle}).addTo(map);
+        var openSpaces = new L.GeoJSON.AJAX(["geojson/myopenspace.geojson"],{onEachFeature:popUp}).addTo(map);
+        var diningAreas = new L.GeoJSON.AJAX(["geojson/OutdoorDiningAreas.geojson"],{onEachFeature:popUp}).addTo(map);
+        var SF = new L.GeoJSON.AJAX(["jessica/SF.geojson"],{pointToLayer:makeCircle}).addTo(map);
 
-      var customLayer = L.geoJson(null, {
-        // http://leafletjs.com/reference.html#geojson-style
-        onEachFeature: popUp
-      });
+        var customLayer = L.geoJson(null, {
+          // http://leafletjs.com/reference.html#geojson-style
+          onEachFeature: popUp
+        });
 
-      // you can style your layers as you like by adding a customLayer for each layer you want to add 
-      // and associate the style information with it. See the Leaflet documentation for the various
-      // options you can set.
-      var customLayer2 = L.geoJson(null, {
-        // http://leafletjs.com/reference.html#geojson-style
-        style: {"color": "#f00",
-                "weight": .5,
-                "opacity": 0.3}
-      });
+        // you can style your layers as you like by adding a customLayer for each layer you want to add 
+        // and associate the style information with it. See the Leaflet documentation for the various
+        // options you can set.
+        var customLayer2 = L.geoJson(null, {
+          // http://leafletjs.com/reference.html#geojson-style
+          style: {"color": "#f00",
+                  "weight": .5,
+                  "opacity": 0.3}
+        });
 
 
-      // let's add your KML files. i'll do one; you can add the rest of the files.
-      var frontages = omnivore.kml('jessica/ActiveFrontages.kml',null, customLayer)
-          .addTo(map);
+        // let's add your KML files. i'll do one; you can add the rest of the files.
+        var frontages = omnivore.kml('jessica/ActiveFrontages.kml',null, customLayer)
+            .addTo(map);
 
-      var historicPlaces = omnivore.kml('jessica/HistoricPlaces.kml',null, customLayer2)
-          .addTo(map);
+        var historicPlaces = omnivore.kml('jessica/HistoricPlaces.kml',null, customLayer2)
+            .addTo(map);
 
         var baseMaps = {
             "Toner": toner,
@@ -94,6 +96,8 @@
 
         L.control.layers(baseMaps, overlayMaps).addTo(map);
 
+        // add listener to map so that every time an overlay is added (via the layer control)
+        // the map is zoomed in/out to fit the data of the layer that was added.
         map.on('overlayadd',function(a){
           map.fitBounds(a.layer.getBounds());
         });
