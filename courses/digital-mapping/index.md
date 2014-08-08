@@ -1,9 +1,10 @@
 ---
-layout: course-new
+layout: digital-mapping
 title: Digital Mapping
 term: Spring 2014
 number: ARCH 462 and LA 512
 date: 2014-05-28 00:00:00
+css: digital-mapping
 categories: [course]
 ---
 

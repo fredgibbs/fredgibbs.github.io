@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+{% include header-course.html %}
+
+<body>
+<div class="title">
+<div class="container">
+<h1>Digital Methods</h1>
+</div>
+</div>
+
+{% include digital-methods-nav.html %}
+
+
+    <script>
+
+        $(function() {
+
+          {% if page.section != 'schedule' %}
+            $("li.topic > a").attr("href", function(i, href){
+              return "schedule.html/" + href;
+            }); 
+          {% endif %}
+
+          $('.slide-trigger').collapsable();
+
+          var hiddenMenu = $('#HiddenMenu'),
+              hoverSpace = $('#HoverSpace');
+          var permNavBar = $('#perm-nav-bar');
+
+          hiddenMenu.css({
+                'top': "0em"
+          });
+
+          window.onscroll = function() {
+            if ($("body").scrollTop() == 0) {
+              //hiddenMenu.animate({'top':'40px'});
+            }
+          };
+
+
+          permNavBar.on('mouseenter', function(event) {    
+             hiddenMenu.animate({
+                //'top': "50px"
+            });
+          });
+
+          permNavBar.on('mouseleave', function() {
+            if ($("body").scrollTop() > 0) {
+               hiddenMenu.animate({
+                  //'top': "-50px"
+              });
+            }
+          });
+
+        });
+
+    </script>
+
+
+{% if page.status == 'draft' %}
+<div id="syllabus-draft">
+<span class="draft">Draft</span>
+{% else %}
+<div id="syllabus-new">
+{% endif %}
+
+
+
+
+<div class="container">
+{{ content }}
+</div>
+</div>
+
+
+<div class="container">
+{% include footer.html %}
+<div class="container">
+
+    </body>
+</html>

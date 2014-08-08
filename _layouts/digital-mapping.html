@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+{% include header-course.html %}
+
+    <script>
+
+        $(function() {
+
+          $('.slide-trigger').collapsable();
+
+          var hiddenMenu = $('#HiddenMenu'),
+              hoverSpace = $('#HoverSpace');
+          var permNavBar = $('#perm-nav-bar');
+
+          hiddenMenu.css({
+                'top': "0px"
+          });
+
+          hoverSpace.on('mouseenter', function(event) {    
+             hiddenMenu.animate({
+                'top': "0"
+            });
+          });
+
+          hoverSpace.on('mouseleave', function() {
+            if ($("body").scrollTop() > 0) {
+               hiddenMenu.animate({
+                  'top': "-3em"
+              });
+            }
+          });
+
+        });
+
+    </script>
+
+
+<div id="syllabus-new">
+
+<div id="HoverSpace">
+<div id="HiddenMenu">
+<div class="container">
+<h1 class="navheader slide-trigger"><a href="/">fredgibbs</a><span><img src="/images/icons/menu-icon.png"/></span></h1>
+<ul class="navigation group">
+  <li class="title"><a href="#top">Digital Mapping</a></li>
+  <li><a href="#monday">monday</a></li>
+  <li><a href="#tuesday">tuesday</a></li>
+  <li><a href="#wednesday">wednesday</a></li>
+  <li><a href="#thursday">thursday</a></li>
+  <li><a href="#friday">friday</a></li>
+  <li class="low"><a href="/courses">back to courses</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="container">
+{{ content }}
+</div>
+
+</div>
+
+
+
+
+<div class="container">
+{% include footer.html %}
+</div>
+
+</body>
+</html>

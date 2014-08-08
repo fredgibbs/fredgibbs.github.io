@@ -5,13 +5,40 @@
 
     <title>{{ page.title }}</title>
     
-    <link rel="alternate" type="application/rss+xml"  href="http://fredgibbs.net/rss.xml" title="RSS feed for fredgibbs">
+    <link rel="alternate" type="application/rss+xml"  href="http://fredgibbs.net/rss.xml" title="RSS feed for fredgibbs"/>
+    
     <link media="screen" rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
     <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/{{ page.css }}.css">
+    
     <link rel="stylesheet" href="/css/pygments.css">
     <link rel="shortcut icon" href="http://fredgibbs.net/favicon.ico?v=2" />
 
     <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
     <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
     <script type="text/javascript" src="/js/ui.js"></script>
+    <script src="/js/jquery.backstretch.min.js"></script>
+
+    <script>
+    $(function() {
+      $( "#accordion" ).accordion({
+        heightStyle: "content",
+        collapsible: "true",
+        active: "false"
+      });
+    });
+    </script>
+
+    <script>
+    $(function() {
+      $( "#accordion-schedule" ).accordion({
+        header: 'h3:not(.side)',
+        collapsible: "true",
+        active: "false",
+        heightStyle: "content"
+      });
+    });
+    </script>
+
+
   </head>

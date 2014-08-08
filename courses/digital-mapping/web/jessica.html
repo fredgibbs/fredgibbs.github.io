@@ -56,7 +56,7 @@
 
         var openSpaces = new L.GeoJSON.AJAX(["geojson/myopenspace.geojson"],{onEachFeature:popUp}).addTo(map);
         var diningAreas = new L.GeoJSON.AJAX(["geojson/OutdoorDiningAreas.geojson"],{onEachFeature:popUp}).addTo(map);
-        var SF = new L.GeoJSON.AJAX(["jessica/SF.geojson"],{pointToLayer:makeCircle}).addTo(map);
+        var SF = new L.GeoJSON.AJAX(["jessica/SF.geojson"],{pointToLayer:makeCircle, onEachFeature:popUp}).addTo(map);
 
         var customLayer = L.geoJson(null, {
           // http://leafletjs.com/reference.html#geojson-style

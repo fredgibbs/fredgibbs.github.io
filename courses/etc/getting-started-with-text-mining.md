@@ -38,8 +38,8 @@ Andrew Goldstone and Ted Underwood , "The Quiet Transformations of Literary Stud
 ## Online Project Sites
 To see some of the techniques presented in a open an accessible way:
 
-Rob Nelson, [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).
-Cameron Blevins, [Topic Modeling Martha Ballard's Diary](http://historying.org/martha-ballards-diary/).
+Rob Nelson, [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
+Cameron Blevins, [Topic Modeling Martha Ballard's Diary](http://historying.org/martha-ballards-diary/).    
 [With Criminal Intent](http://criminalintent.org/)
 
 
@@ -101,10 +101,10 @@ You can also use Zotero or similar organizational tools, but this creates some d
 ## Online Tools
 Some of the easiest ways to get started is to use an online tool that saves you the step of installing software.
 
-[Google n-gram viewer](https://books.google.com/ngrams)
-[Bookworm](http://bookworm.culturomics.org/)
-[Voyant](http://voyant-tools.org/) and a [list of projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/)
-[Overview](http://overview.ap.org/faq/)
+[Google n-gram viewer](https://books.google.com/ngrams)    
+[Bookworm](http://bookworm.culturomics.org/)    
+[Voyant](http://voyant-tools.org/) and a [list of projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/)    
+[Overview](http://overview.ap.org/faq/)    
 
 
 ## Tools you need to install on your computer
@@ -117,7 +117,7 @@ If you want to get a bit more serious about text mining, or if you get tired of 
 ## Topic Modeling
 One of the techniques most in vogue at the moment is topic modeling. These articles cover the fundamental concepts, most with lots of links to various kinds of explanations (most are very accessbile, but some are probably more technical or mathematical than you want.)
 
-Megan R. Brett, [“Topic Modeling: A Basic Introduction](<http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
+Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
 
 Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
 

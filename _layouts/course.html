@@ -2,6 +2,28 @@
 layout: default
 ---
 
+    <script>
+    $(function() {
+      $( "#accordion" ).accordion({
+        heightStyle: "content",
+        collapsible: "true",
+        active: "false"
+      });
+    });
+    </script>
+
+    <script>
+    $(function() {
+      $( "#accordion-schedule" ).accordion({
+        header: 'h3:not(.side)',
+        collapsible: "true",
+        active: "false",
+        heightStyle: "content"
+      });
+    });
+    </script>
+
+
 {% if page.status == 'draft' %}
 <div id="syllabus-draft">
 <span class="draft">Draft</span>

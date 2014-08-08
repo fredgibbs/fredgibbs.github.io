@@ -7,11 +7,8 @@
 
 @import url(http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700);
 @import url(http://fonts.googleapis.com/css?family=Oxygen:400,700);
-@import url(http://fonts.googleapis.com/css?family=Lato:100,400,700);
 @import url(http://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed:300);
 @import url(http://fonts.googleapis.com/css?family=Merriweather:400,700,400italic,300,300italic,700italic,900);
-@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:700);
-@import url(http://fonts.googleapis.com/css?family=Amatic+SC:700);
 
 @media screen {
 
@@ -97,45 +94,34 @@ img {
   float:left;
 }
 
-nav {
-  font-family: 'Oxygen', sans-serif;
-  font-size: 90%;
-}
-
-nav a {
-  font-weight: normal;
-  text-decoration: none;
-  border:none;
-}
-
-nav h1.title {
-  display: inline;
-  float:left;
-}
-
-nav h1.title a, nav h1.navheader a, nav h1.navheader a:visited{
-  font-weight: bold;
-  color:#900;
-}
-
 .navigation {
   max-width:none;
   list-style-type: none;
   padding-top:3px;
+  width: 42em;
+  margin: 0em auto 2em;
+  font-family: 'Oxygen', sans-serif;
 }
 
 .navigation li {
   float:left;
+  margin-left: 1em;
 }
 
-.navigation li a {
+.navigation li a, .navigation li a:visited {
+  text-decoration: none;
   display: block;
   color: #aaa;
-  margin-left: 1em;
+  border: none;
 }
 
 .navigation li a:hover {
   color: #000;
+}
+
+.navigation li a.navheader {
+  font-weight: bold;
+  color:#800;  
 }
 
 .slide-trigger {
@@ -157,12 +143,53 @@ nav h1.title a, nav h1.navheader a, nav h1.navheader a:visited{
   padding:0em .2em 0 0;
 }
 
-.below-nav {
-  clear:both;
-  padding-top: 2em;
+.page-break { display: none; }
+
+#HiddenMenu {
+    background-color: #666;
+    position: relative;
+    top: -3em;
+    height:3em;
+    padding:0;
+    margin:0;
 }
 
-.page-break { display: none; }
+#HoverSpace {
+    //background-color: #aeaeae;
+    overflow: hidden;
+    height: 4em;
+    position:fixed;
+    width:100%;
+    padding:0;
+    margin:0;
+    top:0px;
+}
+
+#HiddenMenu li {
+  padding-top: .5em;
+}
+
+#HiddenMenu li.title a {
+    //font-size:24px;
+    color:#900;
+  }
+
+#HiddenMenu li.title a:hover {
+    color:#f00;
+  }
+
+#HiddenMenu li a:hover {
+    color:#fff;
+  }
+
+#HiddenMenu li.low a {
+  color:#555;
+  }
+
+#HiddenMenu li.low a:hover {
+  color:#999;
+  }
+
 
 
 /*****************************************************************************/
@@ -180,6 +207,7 @@ nav h1.title a, nav h1.navheader a, nav h1.navheader a:visited{
   text-align: left;
   line-height: 1.8em;
   padding:0 1em 0 1em;
+  margin-top: 4em;
 }
 
 .site .meta {
@@ -189,37 +217,41 @@ nav h1.title a, nav h1.navheader a, nav h1.navheader a:visited{
   font-size: 90%;
 }
 
-.site .footer {
-  padding: 8px 0;
+.footer {
+  padding: 1em 0;
   font-family: 'Oxygen', sans-serif;
-  font-size: 80%;
-  color: #666;
+  font-size: 100%;
+  color: #999;
   border-top: 3px solid #eee;
   margin-top: 2em;
   overflow: hidden;
 }
 
-.site .footer .contact {
+.footer .contact {
   float: left;
   margin-right: 3em;
 }
 
-.site .footer .contact a {
+.footer .contact a {
   color: #8085C1;
 }
 
-.site .footer .rss {
+.footer .rss {
   margin-top: 1.1em;
   margin-right: -.2em;
   float: right;
 }
 
-.site .footer .rss img {
+.footer .rss img {
   border: none;
 }
 
+.footer a {
+  border:none;
+}
+
 img.footer-icon {
-  height:18px;
+  height:22px;
   vertical-align:middle;
   padding:0;
   margin:0;
@@ -446,368 +478,6 @@ font-size:85%;
 
 }
 
-/*****************************************************************************/
-/*
-/* Syllabus
-/*
-/*****************************************************************************/
-
-.ui-accordion {
-
-}
-
-.ui-accordion-header {
-font-size:90%;
-}
-
-#syllabus .ui-accordion-content {
-font-size:75%;
-background: none;
-background-color: #fff9f9;
-border:1px dotted #666;
-
-}
-
-
-/* Interaction states
-----------------------------------*/
-#syllabus .ui-state-default,
-#syllabus .ui-widget-content .ui-state-default,
-#syllabus .ui-widget-header .ui-state-default {
-  border: 0px solid #d3d3d3;
-  background: none;
-  font-weight: normal;
-}
-
-#syllabus .ui-accordion-header-active {
-background: #660000;
-color:#ffffff;
-}
-
-
-.left {
-text-align:left;
-}
-
-#syllabus {
-  font-family: 'Oxygen', sans-serif;
-  line-height: 1.4em;
-  text-align: left;
-  font-size: 18px;
-  width:42em;
-}
-
-#syllabus-new {
-  font-family: 'Lato', sans-serif;
-  line-height: 1.4em;
-  text-align: left;
-  font-size: 18px;
-  background-color: #333;
-}
-
-#syllabus-new p strong {
-  font-weight: 400;
-  color:#ccc;
-}
-
-#syllabus-new h1 {
-font-family: 'Amatic SC', sans-serif;
-font-size: 300%;
-line-height: 1.3em;
-color:#b22;
-}
-
-#syllabus-new h1.bright {
-color:#e00;
-}
-
-#syllabus-new h2 {
-font-family: 'Roboto Condensed', sans-serif;
-font-size: 130%;
-line-height: 1.3em;
-text-transform: uppercase;
-color:#cfcfcf;
-}
-
-#syllabus-new h3 {
-font-family: 'Oxygen', sans-serif;
-font-weight: normal;
-color:#cccccc;
-font-size: 100%;
-
-}
-
-.hidden {
-  overflow-x: hidden; 
-}
-
-#syllabus-new div.highlight {
-  margin: 0;
-  padding: .5em 1em .5em 1em;
-  background: #a00;
-  font-family: 'Lato', sans-serif;
-  font-weight: 300;
-  color:#fff;
-}
-
-
-#syllabus-new div.highlight h2{
-  color:#fff;
-  margin-top:.5em;
-}
-
-#syllabus-new ul {
-margin-left:2em;
-}
-
-.section-block {
-width:38em;
-//font-family: 'Alegreya', serif;
-line-height: 1.4em;
-font-size: 20px;
-margin: 0em auto 0em;
-margin: 0em auto 0em 4em;
-padding: 0 0 1em 1em;
-background: #333;
-color: #aaa;
-overflow-x: hidden; 
-}
-
-
-.section-photo-break {
-height: 500px;
-background-attachment: fixed;
-background-position: center center;
-background-repeat: no-repeat;
-background-size: cover;
-border-bottom: 0;
-}
-
-.photo1 {
-background-image: url(/images/digital-mapping-sm/Mexico-1700s-the.jpg);
-}
-
-.photo2 {
-background-image: url(/images/digital-mapping-sm/txu-pclmaps-topo-nm-albuquerque-1937.jpg);
-}
-
-.photo3 {
-background-image: url(/images/digital-mapping-sm/5840059.jpg);
-}
-
-.photo4 {
-background-image: url(/images/digital-mapping-sm/dsc_0052.jpg);
-}
-
-.photo5 {
-  background-image: url(/images/digital-mapping-sm/1071012.jpg);
-}
-
-.photo6 {
-  background-image: url(/images/digital-mapping-sm/Mexico-1700s-the.jpg);
-}
-
-#HiddenMenu {
-    background-color: #000;
-    position: relative;
-    top: -3em;
-    height:3em;
-    padding:0;
-    margin:0;
-}
-
-#HoverSpace {
-    //background-color: #aeaeae;
-    overflow: hidden;
-    height: 5em;
-    position:fixed;
-    width:100%;
-    padding:0;
-    margin:0;
-    top:0px;
-}
-
-#HiddenMenu li {
-  padding-top: .5em;
-}
-
-#HiddenMenu li.title a {
-    //font-size:24px;
-    color:#900;
-  }
-
-#HiddenMenu li.title a:hover {
-    color:#f00;
-  }
-
-#HiddenMenu li a:hover {
-    color:#fff;
-  }
-
-#HiddenMenu li.low a {
-  color:#555;
-  }
-
-#HiddenMenu li.low a:hover {
-  color:#999;
-  }
-
-
-
-
-#syllabus-draft .draft {
-font-family: helvetica, sans-serif;
-font-size:1000%;
-opacity: .2;
-color:red;
-position:fixed;
-z-index: -90;
-text-transform: uppercase;
-margin-top:1em;
-
-}
-
-#syllabus a, .ui-widget-content a  {
-border-bottom: 1px dotted #666;
-color:#a90;
-}
-
-#syllabus a:visited {
-color:#c60;  
-}
-
-#syllabus a:hover {
-color:#aa3333;
-}
-
-#syllabus h1 {
-  font-size: 150%;
-  margin-bottom:1em;
-}
-
-#syllabus h2 {
-font-size:130%;
-}
-
-#syllabus h3 {
-font-family: 'Roboto Condensed', helvetica, sans-serif;  
-text-transform: uppercase;
-font-weight:normal;
-color:#880000;
-}
-
-#syllabus h3.side {
-  margin: .7em 0 0 -8em;
-  display:inline;
-  float:left;
-  font-size:90%;
-  color:#666;
-  text-align: justify;
-}
-
-#syllabus h3.day {
-margin-bottom:1em; 
-font-size: 140%; 
-}
-
-
-#syllabus h4 {
-font-size:110%;
-font-weight:bold;
-margin:1.5em 0 .5em 0;
-line-height: 1em;
-}
-
-#syllabus p.reading {
-margin-top:0;
-}
-
-#syllabus li {
-margin:0 0 .8em 0em;
-}
-
-#syllabus li.due {
-text-transform: uppercase;
-color: #cc0000;
-font-size:120%;
-} 
-
-#syllabus ul {
-margin: .5em 0 1em 1.5em;
-line-height: 1.3em;
-}
-
-#syllabus .schedule {
-  margin-top:3em;
-  border:none;
-}
- 
-#syllabus .schedule ul {
-list-style-type: none;
-margin-left:.1em;
-}
-
-
-#syllabus .dateicon {
-  width: 2.5em; height: 2.8em; float:left;
-  background: #fcfcfc; 
-  background: linear-gradient(top, #fcfcfc 0%,#dad8d8 100%); 
-  background: -moz-linear-gradient(top, #fcfcfc 0%, #dad8d8 100%); 
-  background: -webkit-linear-gradient(top, #fcfcfc 0%,#dad8d8 100%); 
-  border: 1px solid #d2d2d2;
-  border-radius: 4px;
-  -moz-border-radius: 4px;
-  -webkit-border-radius: 4px;
-  box-shadow: 0px 0px .8em rgba(0,0,0,0.1);
-  -moz-box-shadow: 0px 0px .8em rgba(0,0,0,0.1);
-  -webkit-box-shadow: 0px 0px .8em rgba(0,0,0,0.1);
-  margin-left:0px;
-  display:block;
-  clear:both;
-}
-
-#syllabus .dateicon p {
-  font-family: Helvetica, sans-serif; 
-  font-size: 90%; text-align: center; color: #9e9e9e;
-  margin:0;
-  padding-bottom:2px; 
-}
-
-#syllabus .dateicon p span {
-
-  background: #d10000; 
-  background: linear-gradient(top, #990000 0%, #664444 100%);
-  background: -moz-linear-gradient(top, #990000 0%, #664444 100%);
-  background: -webkit-linear-gradient(top, #990000 0%, #664444 100%);
-  font-size: 90%; font-weight: normal; color: #fff; text-transform: uppercase;   
-  display: block;
-  border-top: 1px solid #a13838;
-  border-radius: 0 0 4px 4px;
-  -moz-border-radius: 0 0 4px 4px;
-  -webkit-border-radius: 0 0 4px 4px;
-  padding: 0px 0 0px 0;
-  margin:0;
-}
-
-#syllabus div.day {
-  border:0px dotted #cccccc;
-  background:none;
-  margin-left:50px;
-  margin-bottom:2em;
-  padding: 0 1em 0 1em;
-}
-
-
-#syllabus div.day-off {
-opacity: .5;
-text-transform: uppercase;
-}
-
-
-#syllabus .day-2 {
-border:1px dotted #cccccc;
-background:#fef5f5;
-}
 
 
 /*****************************************************************************/
@@ -841,6 +511,13 @@ background:#fef5f5;
   line-height: 1.5em;
 }
 } /* end media screen */
+
+
+/*****************************************************************************/
+/*
+/* SMALL SCREEN
+/*
+/*****************************************************************************/
 
 @media screen and (max-width: 560px) {
   
@@ -887,71 +564,6 @@ a {
   .navigation li { float: none; }
   .navigation li a { border-bottom: 1px solid #fff; }
 
-#syllabus-new {
-  font-family: 'Lato', sans-serif;
-  width:34em;
-  font-weight: 400;
-  font-size: 100%;
-  color:#aaa;
-  line-height: 1.4em;
-  text-align: left;
-  background-color: #333;
-}
-
-#syllabus-new h2 {
-  font-family: oxygen;
-  font-size:150%;
-  font-weight: bold;
-}
-
-
-.section-photo-break {
-height: 100px;
-background-color: #333;
-background-attachment: scroll;
-background-position: center center;
-background-repeat: no-repeat;
-background-size: auto auto;
-margin:0;
-padding:0;
-}
-
-
-.photo1 {
-  background-image: url(/images/digital-mapping-tiny/Mexico-1700s-the.jpg);
-}
-
-.photo2 {
-background-image: url(/images/digital-mapping-tiny/txu-pclmaps-topo-nm-albuquerque-1937.jpg);
-}
-
-.photo3 {
-background-image: url(/images/digital-mapping-tiny/5840059.jpg);
-}
-
-.photo4 {
-background-image: url(/images/digital-mapping-tiny/dsc_0052.jpg);
-}
-
-.photo5 {
-  background-image: url(/images/digital-mapping-tiny/1071012.jpg);
-}
-
-.photo6 {
-  background-image: url(/images/digital-mapping-tiny/Mexico-1700s-the.jpg);
-}
-
-
-.section-block {
-width:32em;
-line-height: 1.4em;
-font-size: 100%;
-margin:0em;
-padding: 0 0 1em 1em;
-background: #333;
-color: #aaa;
-}
-
 }
 
 /*****************************************************************************/
@@ -981,14 +593,6 @@ color: #aaa;
     margin:0;
     padding:0;
    }
-
-#syllabus-new {
-  font-size: 90%;
-}
-
-#syllabus-new h1 {
-  font-size: 130%;
-}
 
   nav {
     display:none;
@@ -1030,77 +634,11 @@ h3 {
   display:none;
 }
 
-#syllabus-new .section-photo-break {
-  display:none;
-  background-image:none;
-}
 
 #HiddenMenu, #HoverSpace { 
   display:none;
 }
 
-#syllabus {
-  font-size:15px;
-  line-height: 1.2em;
-  font-weight: normal;
-  font-family: times;
-}
-
-#syllabus #accordion {
-  font-weight: normal;
-}
-
-#syllabus h2 {
-  padding-top:2em;
-  font-size: 120%;
-}
-
-#syllabus h3 {
-font-family: 'Roboto Condensed', helvetica, sans-serif;  
-text-transform: uppercase;
-font-weight:normal;
-color:#000;
-font-size: 120%;
-color:#880000;
-margin:0;
-}
-
-#syllabus h3.side {
-  margin:0;
-  padding:0;
-  display:block;
-  font-size:100%;
-  color:#666;
-  text-align: left;
-  clear:both;
-  float:none;
-}
-
-#syllabus a {
-  color:#999;
-}
-
-#syllabus ul {
-  margin-bottom:0;
-}
-
-
-.day {
-  margin-bottom:1em;
-}
-
-#syllabus .dateicon p span {
-  color:999;
-}
-
-#syllabus div.day, #syllabus .day-2 {
-  margin-bottom:1em;
-  padding: 0;
-}
-
-hr {
-  clear:both;
-}
 
   .page-break { display: block; page-break-before: always; }
 

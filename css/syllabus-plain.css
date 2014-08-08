@@ -1,0 +1,281 @@
+/*****************************************************************************/
+/*
+/* Syllabus
+/*
+/*****************************************************************************/
+
+@media screen {
+
+.ui-accordion {
+
+}
+
+.ui-accordion-header {
+font-size:90%;
+}
+
+#syllabus .ui-accordion-content {
+font-size:75%;
+background: none;
+background-color: #fff9f9;
+border:1px dotted #666;
+
+}
+
+
+/* Interaction states
+----------------------------------*/
+#syllabus .ui-state-default,
+#syllabus .ui-widget-content .ui-state-default,
+#syllabus .ui-widget-header .ui-state-default {
+  border: 0px solid #d3d3d3;
+  background: none;
+  font-weight: normal;
+}
+
+#syllabus .ui-accordion-header-active {
+background: #660000;
+color:#ffffff;
+}
+
+
+.left {
+text-align:left;
+}
+
+#syllabus {
+  font-family: 'Oxygen', sans-serif;
+  line-height: 1.4em;
+  text-align: left;
+  font-size: 18px;
+  width:42em;
+}
+
+
+#syllabus-draft .draft {
+font-family: helvetica, sans-serif;
+font-size:1000%;
+opacity: .2;
+color:red;
+position:fixed;
+z-index: -90;
+text-transform: uppercase;
+margin-top:1em;
+
+}
+
+#syllabus a, .ui-widget-content a  {
+border-bottom: 1px dotted #666;
+color:#a90;
+}
+
+#syllabus a:visited {
+color:#c60;  
+}
+
+#syllabus a:hover {
+color:#aa3333;
+}
+
+#syllabus h1 {
+  font-size: 150%;
+  margin-bottom:1em;
+}
+
+#syllabus h2 {
+font-size:130%;
+}
+
+#syllabus h3 {
+font-family: 'Roboto Condensed', helvetica, sans-serif;  
+text-transform: uppercase;
+font-weight:normal;
+color:#880000;
+}
+
+#syllabus h3.side {
+  margin: .7em 0 0 -8em;
+  display:inline;
+  float:left;
+  font-size:90%;
+  color:#666;
+  text-align: justify;
+}
+
+#syllabus h3.day {
+margin-bottom:1em; 
+font-size: 140%; 
+}
+
+
+#syllabus h4 {
+font-size:110%;
+font-weight:bold;
+margin:1.5em 0 .5em 0;
+line-height: 1em;
+}
+
+#syllabus p.reading {
+margin-top:0;
+}
+
+#syllabus li {
+margin:0 0 .8em 0em;
+}
+
+#syllabus li.due {
+text-transform: uppercase;
+color: #cc0000;
+font-size:120%;
+} 
+
+#syllabus ul {
+margin: .5em 0 1em 1.5em;
+line-height: 1.3em;
+}
+
+#syllabus .schedule {
+  margin-top:3em;
+  border:none;
+}
+ 
+#syllabus .schedule ul {
+list-style-type: none;
+margin-left:.1em;
+}
+
+
+#syllabus .dateicon {
+  width: 2.5em; height: 2.8em; float:left;
+  background: #fcfcfc; 
+  background: linear-gradient(top, #fcfcfc 0%,#dad8d8 100%); 
+  background: -moz-linear-gradient(top, #fcfcfc 0%, #dad8d8 100%); 
+  background: -webkit-linear-gradient(top, #fcfcfc 0%,#dad8d8 100%); 
+  border: 1px solid #d2d2d2;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  box-shadow: 0px 0px .8em rgba(0,0,0,0.1);
+  -moz-box-shadow: 0px 0px .8em rgba(0,0,0,0.1);
+  -webkit-box-shadow: 0px 0px .8em rgba(0,0,0,0.1);
+  margin-left:0px;
+  display:block;
+  clear:both;
+}
+
+#syllabus .dateicon p {
+  font-family: Helvetica, sans-serif; 
+  font-size: 90%; text-align: center; color: #9e9e9e;
+  margin:0;
+  padding-bottom:2px; 
+}
+
+#syllabus .dateicon p span {
+
+  background: #d10000; 
+  background: linear-gradient(top, #990000 0%, #664444 100%);
+  background: -moz-linear-gradient(top, #990000 0%, #664444 100%);
+  background: -webkit-linear-gradient(top, #990000 0%, #664444 100%);
+  font-size: 90%; font-weight: normal; color: #fff; text-transform: uppercase;   
+  display: block;
+  border-top: 1px solid #a13838;
+  border-radius: 0 0 4px 4px;
+  -moz-border-radius: 0 0 4px 4px;
+  -webkit-border-radius: 0 0 4px 4px;
+  padding: 0px 0 0px 0;
+  margin:0;
+}
+
+#syllabus div.day {
+  border:0px dotted #cccccc;
+  background:none;
+  margin-left:50px;
+  margin-bottom:2em;
+  padding: 0 1em 0 1em;
+}
+
+
+#syllabus div.day-off {
+opacity: .5;
+text-transform: uppercase;
+}
+
+
+#syllabus .day-2 {
+border:1px dotted #cccccc;
+background:#fef5f5;
+}
+
+
+/*****************************************************************************/
+/*
+/* PRINTING
+/*
+/*****************************************************************************/
+
+@media print {
+
+  #syllabus {
+  font-size:15px;
+  line-height: 1.2em;
+  font-weight: normal;
+  font-family: times;
+}
+
+#syllabus #accordion {
+  font-weight: normal;
+}
+
+#syllabus h2 {
+  padding-top:2em;
+  font-size: 120%;
+}
+
+#syllabus h3 {
+font-family: 'Roboto Condensed', helvetica, sans-serif;  
+text-transform: uppercase;
+font-weight:normal;
+color:#000;
+font-size: 120%;
+color:#880000;
+margin:0;
+}
+
+#syllabus h3.side {
+  margin:0;
+  padding:0;
+  display:block;
+  font-size:100%;
+  color:#666;
+  text-align: left;
+  clear:both;
+  float:none;
+}
+
+#syllabus a {
+  color:#999;
+}
+
+#syllabus ul {
+  margin-bottom:0;
+}
+
+
+.day {
+  margin-bottom:1em;
+}
+
+#syllabus .dateicon p span {
+  color:999;
+}
+
+#syllabus div.day, #syllabus .day-2 {
+  margin-bottom:1em;
+  padding: 0;
+}
+
+hr {
+  clear:both;
+}
+
+}
