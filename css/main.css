@@ -94,7 +94,7 @@ img {
   float:left;
 }
 
-.navigation {
+.navigation, .perm-navigation {
   max-width:none;
   list-style-type: none;
   padding-top:3px;
@@ -103,19 +103,19 @@ img {
   font-family: 'Oxygen', sans-serif;
 }
 
-.navigation li {
+.navigation li, .perm-navigation li {
   float:left;
   margin-left: 1em;
 }
 
-.navigation li a, .navigation li a:visited {
+.navigation li a, .navigation li a:visited, .perm-navigation li a, .perm-navigation li a:visited {
   text-decoration: none;
   display: block;
   color: #aaa;
   border: none;
 }
 
-.navigation li a:hover {
+.navigation li a:hover, .perm-navigation li a:hover {
   color: #000;
 }
 

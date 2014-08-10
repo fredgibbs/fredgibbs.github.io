@@ -218,10 +218,9 @@ Hadley Wickham
 
 Examine a few tools (and explanatory videos) for data manipulation:     
 Learn to use [OpenRefine](http://openrefine.org/) via [Cleaning Data with OpenRefine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)    
-
 [DataWrangler](http://vis.stanford.edu/wrangler/)
 
-In class:
+**In class:**
 [Commmand Lion Crash Course](http://learnpythonthehardway.org/book/appendixa.html)    
 [Set up your working environment](http://learnpythonthehardway.org/book/ex0.html)
 </div>
@@ -237,11 +236,12 @@ In class:
 
 <div class="left_box">
 #### Unleashing your computer
-Come to class having gone as far as possible with the Python tutorials and we'll answer questions and write a program together to normalize data
+Come to class having gone as far as possible with the [Python tutorials](http://www.codecademy.com/en/tracks/python) and we'll answer questions and write a program together to normalize data.
 </div>
 
 <div class="right_box">
 #### Fall Break: No Class!
+Relax a bit, but start early on your scripts to parse your data into a format that you can use with Bookworm or Overview or Voyant. This is going to take way longer than you think. We'll do more troubleshooting next week.
 </div>
 
 </div>
@@ -283,10 +283,9 @@ Laura Turner O'Hara
 [Mining for the Meanings of a Murder: The Impact of OCR Quality on the Use of Digitized Historical Newspapers](http://www.digitalhumanities.org/dhq/vol/8/1/000168/000168.html)
 
 [Google n-gram viewer](https://books.google.com/ngrams)    
-[Bookworm](http://bookworm.culturomics.org/)    
 [Voyant](http://voyant-tools.org/) and a [list of projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/)    
 
-Get some of your research data loaded into [Overview](http://overview.ap.org/faq/).
+Get some of your research data loaded into [Bookworm](http://bookworm.culturomics.org/), [Voyant](http://voyant-tools.org/) and a [list of projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/), or [Overview](http://overview.ap.org/faq/).
 </div>
 
 </div>

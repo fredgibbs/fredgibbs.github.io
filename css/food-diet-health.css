@@ -59,7 +59,7 @@ margin-left:2em;
 
 
 .container {
-  width: 55em;
+  width: 42em;
   margin: 0em auto 0em;
   font-family: 'Ubuntu', sans-serif;
   padding:0 0 0 0;
@@ -75,6 +75,10 @@ padding:0 0 .5em 0;
 border-top:4px solid gray;
 border-bottom:4px solid gray;
 text-align: left;
+}
+
+.title .container {
+  width:55em;
 }
 
 .container h1 {
@@ -137,7 +141,7 @@ font-size: 100%;
 
 }
 
-.navigation {
+.perm-navigation {
   width:53em;
  }
 
@@ -229,8 +233,16 @@ margin: 0em 0 0em 0em;
   color:#999;
   }
 
-.navigation li {
+.perm-navigation li a:hover {
+  color:#fff;
+}
+
+.perm-navigation li {
  color:#eee;
+}
+
+ul.navigation {
+  display: none;
 }
 
 } /* end media screen */
@@ -242,21 +254,60 @@ margin: 0em 0 0em 0em;
 /*
 /*****************************************************************************/
 @media screen and (max-width: 560px) {
+
+
+body {
+  background-color: #eee;
+}
   
 a {
   color:#c70;
 }
 
+#perm-nav-bar {
+  display: none;
+}
+
+.navigation {
+  width:100%;
+}
+
+.navigation li a{
+  color:#333;
+  text-decoration: none;
+  border:none;
+}
+
+.perm-navigation {
+  display: none;
+}
+
   .container {
-    width: 32em;
+    width: 100%;
   }
+
+.container h1 {
+  display:none;
+}
+
+.container h3 {
+  font-size:120%;
+}
+
+.title {
+  display:none;
+}
+
+#HiddenMenu {
+  display:none;
+}
 
   nav h1.title {
     display:none;
   }
 
   nav h1.navheader {
-    font-size: 200%;
+    font-size: 150%;
   }
 
   ul.posts span {
@@ -276,13 +327,14 @@ a {
 
 #syllabus-new {
   font-family: 'Lato', sans-serif;
-  width:34em;
   font-weight: 400;
   font-size: 100%;
   color:#aaa;
   line-height: 1.4em;
   text-align: left;
-  background-color: #333;
+  background-color: #eee;
+  width:100%;
+  padding:0 .5em 0 .5em;
 }
 
 #syllabus-new h2 {
@@ -291,52 +343,8 @@ a {
   font-weight: bold;
 }
 
-
-.section-photo-break {
-height: 100px;
-background-color: #333;
-background-attachment: scroll;
-background-position: center center;
-background-repeat: no-repeat;
-background-size: auto auto;
-margin:0;
-padding:0;
-}
-
-
-.photo1 {
-  background-image: url(/images/digital-mapping-tiny/Mexico-1700s-the.jpg);
-}
-
-.photo2 {
-background-image: url(/images/digital-mapping-tiny/txu-pclmaps-topo-nm-albuquerque-1937.jpg);
-}
-
-.photo3 {
-background-image: url(/images/digital-mapping-tiny/5840059.jpg);
-}
-
-.photo4 {
-background-image: url(/images/digital-mapping-tiny/dsc_0052.jpg);
-}
-
-.photo5 {
-  background-image: url(/images/digital-mapping-tiny/1071012.jpg);
-}
-
-.photo6 {
-  background-image: url(/images/digital-mapping-tiny/Mexico-1700s-the.jpg);
-}
-
-
-.section-block {
-width:32em;
-line-height: 1.4em;
-font-size: 100%;
-margin:0em;
-padding: 0 0 1em 1em;
-background: #333;
-color: #aaa;
+.footer {
+  display: none;
 }
 
 }

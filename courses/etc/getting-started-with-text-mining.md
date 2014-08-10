@@ -1,6 +1,6 @@
 ---
 layout: default
-title: getting started with text mining| fredgibbs  
+title: getting started with text mining | fredgibbs  
 ---
 
 # Getting Started with Text Mining
@@ -9,12 +9,14 @@ This page presents a list of resources potentially useful for anyone is is relat
 In general, it's grouped by what seem to be the most pervasive topics and themes relevant to text mining in general.
 
 
-## Common Misconceptions that Must Be Destroyed Immediately
+## Common Misconceptions That Probably Aren't Helping You
 - You need to have BIG DATA.
-- Text mining is quantitative and the humanities are qualitative.
 - There is a best way to do text mining.
+- Text mining is quantitative and the humanities are qualitative.
 - Text mining is necessarily technical and makes you grow a giant beard and wear oversized metal-rimmed glasses.
+- People should make better tools to make text mining easier.
 - Data is data and if you just plug it into some tools, you'll learn cool things.
+- All of the work preparing data is not what historians do.
 
 
 ## General Methodology Articles
@@ -43,51 +45,85 @@ Cameron Blevins, [Topic Modeling Martha Ballard's Diary](http://historying.org/m
 [With Criminal Intent](http://criminalintent.org/)
 
 
-## Working with Digital Texts
+## Research Articles
+Some traditional-looking articles with text mining as a core method:
+
+Shlomo Argamon et al., [Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html).
+
+Lauren Klein and Jacob Eisenstein, “[Reading Thomas Jefferson with TopicViz: Towards a Thematic Method for Exploring Large Cultural Archives](http://src-online.ca/index.php/src/article/view/121/259),” Scholarly and Research Communications 4, no. 3 (2013).
+
+
+## Tools
+
+### Tools you need to install on your computer
+Some of the easiest ways to get started is to use an online tool that saves you the step of installing software.
+
+[Google n-gram viewer](https://books.google.com/ngrams)    
+[Bookworm](http://bookworm.culturomics.org/)    
+[Voyant](http://voyant-tools.org/) and a [list of projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/)    
+[Overview](http://overview.ap.org/faq/)    
+
+### Tools you need to install on your computer
+If you want to get a bit more serious about text mining, or if you get tired of having to do everything online, there are a few excellent tools that give you tremendous text mining power, but very little in the way of visual interfaces.
+
+[AntConc](ttp://www.antlab.sci.waseda.ac.jp/software.html), with a very [helpful tutorial](http://www.antlab.sci.waseda.ac.jp/software/AntConc_Help_3.1.2/AntConc_Help.htm).
+
+
+# Working with Digital Texts
 One of the scariest conceptual leaps that humanists must make is moving from printed archival materials to digital files that you can't touch or mimeograph. This shift requires not only a new way of thinking about texts, but also how to organize them, access them, and how they relate to each other. It also requires 
 
 
-### Places to get texts and OCR Projects
-[Chroncling America](http://chroniclingamerica.loc.gov/) Digitized Newspapers from the Library of Congress.
-eMOP | [Early Modern OCR Project](http://emop.tamu.edu/).
-EEBO | [Early English Books Online](http://eebo.chadwyck.com/home).
+## Places to get texts and OCR Projects
+[Chroncling America](http://chroniclingamerica.loc.gov/) Digitized Newspapers from the Library of Congress.    
+eMOP | [Early Modern OCR Project](http://emop.tamu.edu/).    
+EEBO | [Early English Books Online](http://eebo.chadwyck.com/home).    
+
 Your local libraries may know of local repositories for digital data as well.
 
 
-
-## Working with Data
+# Working with Data
 One of the neat advantages of text mining is the way you can combine multiple data sources at larger than usual scales. Usually this will mean finding data from multiple sources, and of course they won't be in the same format. In order to make use of all your texts, you'll need to make sure the data are suitable for machine processing with standardized formats, not stray characters, etc. 
 
-Hint: Getting your data to look nice takes FAR LONGER than you want it to, than you think it should, than it deserves to, and is arguably the most difficult and crucial part of the process. Exploratory your corpus algorithmically is quite fun, but unless you like to geek out with python scripts and regular expressions, cleaning data is decidedly the unfun part of text mining. But the key to success here is to remind yourself that even when preparing data, _you are doing text mining_, not trying to get ready for it. You just didn't realize that was such a big component of it. 
+**Getting your data to look nice takes FAR LONGER than you want it to, than you think it should, than it deserves to, and is arguably the most difficult and crucial part of the process.** Exploratoring your corpus algorithmically is quite fun, but unless you like to geek out with python scripts and regular expressions, cleaning data is decidedly the unfun part of text mining. But the key to success here is to remind yourself that even when preparing data, _you are doing history_, not trying to get ready for it. You just didn't realize that was such a big component of it. 
 
 
-### Cleaning Data
+## Normalizing Data
 Hadley Wickham, [Tidy Data](http://vita.had.co.nz/papers/tidy-data.pdf).
 
-
-#### A few data cleaning tutorials
 Seth van Hooland, Ruben Verborgh, Max De Wilde, [Cleaning Data with OpenRefine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine.)
 
+[DataWrangler](http://vis.stanford.edu/wrangler/)
 
-### Dealing with OCR issues
+
+## DIY
+You're in luck! There is a great tool for getting your data into *any format you need*! It's called python.
+[Commmand Lion Crash Course](http://learnpythonthehardway.org/book/appendixa.html)
+
+[Set up your working environment](http://learnpythonthehardway.org/book/ex0.html)
+
+Start learning python fundamentals at [Code Academy](http://www.codecademy.com/en/tracks/python) and [Learn Python the Hard Way](http://learnpythonthehardway.org/book/).
+
+Once you get a better feel for the basics, see what else you can do at [The Programming Historian](programminghistorian.org).
+
+
+## Dealing with OCR issues
 Almost all digital text that isn't born digital goes through some kind of OCR process, which can yield inaccuracies in the transcription process. Depending on the scale of your analysis and what it is your looking for, these may or may not cause difficulties.
 
 If you are just starting out with text mining techniques, these errors are not terribly important.
 
-If you want to do more careful literary or linguistic study, these errors might become sufficiently annoying that they should be corrected. [Basic OCR Correction](http://usesofscale.com/gritty-details/basic-ocr-correction/). [A Half-Decent OCR Normalizer for English Texts after 1700](http://tedunderwood.com/2013/12/10/a-half-decent-ocr-normalizer-for-english-texts-after-1700/).
+If you want to do more careful literary or linguistic study, these errors might become sufficiently annoying that they should be corrected. 
 
+
+[Mining for the Meanings of a Murder: The Impact of OCR Quality on the Use of Digitized Historical Newspapers](http://www.digitalhumanities.org/dhq/vol/8/1/000168/000168.html).    
+Ted Underwood, [Basic OCR Correction](http://usesofscale.com/gritty-details/basic-ocr-correction/).    
+Ted Underwood, [A Half-Decent OCR Normalizer for English Texts after 1700](http://tedunderwood.com/2013/12/10/a-half-decent-ocr-normalizer-for-english-texts-after-1700/).    
 Laura Turner O'Hara, [Cleaning OCR’d text with Regular Expressions](http://programminghistorian.org/lessons/cleaning-ocrd-text-with-regular-expressions).
 
 
-### Processing Images
+## Processing Images
 You might lots of photos of documents that are begging to be turned into digital text. But you need to work at scale, which means having some kind of process to deal with your images in bulk rather than one at a time.
 
 Miriam Posner, [Batch-processing photos from your archive trip](http://miriamposner.com/blog/?p=678).
-
-William J Turkel, [Workflows and Digital Sources](http://williamjturkel.net/how-to/) (and explore the links!).
-
-Batch adjusting sharpness and contrast with Photoshop
-
 
 
 ## Staying Organized
@@ -97,21 +133,7 @@ If you are going to be processing files directly, either to improve images, do O
 
 You can also use Zotero or similar organizational tools, but this creates some distance between you and the actual files which can be annoying if you are often working with them directly, either trying to upload them to online tools, or feed them into tools you've downloaded to use on your own machine.
 
-
-## Online Tools
-Some of the easiest ways to get started is to use an online tool that saves you the step of installing software.
-
-[Google n-gram viewer](https://books.google.com/ngrams)    
-[Bookworm](http://bookworm.culturomics.org/)    
-[Voyant](http://voyant-tools.org/) and a [list of projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/)    
-[Overview](http://overview.ap.org/faq/)    
-
-
-## Tools you need to install on your computer
-If you want to get a bit more serious about text mining, or if you get tired of having to do everything online, there are a few excellent tools that give you tremendous text mining power, but very little in the way of visual interfaces.
-
-[Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet).
-[AntConc](ttp://www.antlab.sci.waseda.ac.jp/software.html), with a very [helpful tutorial](http://www.antlab.sci.waseda.ac.jp/software/AntConc_Help_3.1.2/AntConc_Help.htm).
+William J Turkel, [Workflows and Digital Sources](http://williamjturkel.net/how-to/) (and explore the links!).
 
 
 ## Topic Modeling
@@ -123,9 +145,7 @@ Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbo
 
 Elijah Meeks and Scott Weingart, [The Digital Humanities Contribution to Topic Modeling](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/). Follow the links in this brief introduction!
 
+[Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet).
+
 Miriam Posner, [Very Basic Strategies for Interpreting Results from the Topic Modeling Tool](http://miriamposner.com/blog/?p=1335).
 
-
-
-## Research Articles
-Shlomo Argamon et al., [Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html).
