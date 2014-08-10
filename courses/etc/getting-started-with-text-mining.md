@@ -4,18 +4,18 @@ title: getting started with text mining | fredgibbs
 ---
 
 # Getting Started with Text Mining
-This page presents a list of resources potentially useful for anyone is is relatively new to text mining, wants to see what's possible and what's not, and wants to do a bit of playing around with it. This is not a comprehensive list of everything written about text mining. It is geared toward non-technical novices. Articles that deal with particular algorithms or complicated statistics concepts have been omitted to encourage sanity and experimental play.
+This page presents a list of resources potentially useful for anyone who is relatively new to text mining, wants to see what's possible, what's not, and wants to do a bit of playing around with it. This is not a comprehensive list of everything written about text mining. It is geared toward non-technical novices. Articles that deal with particular algorithms or complicated statistics concepts have been omitted to encourage sanity and experimental play.
 
 In general, it's grouped by what seem to be the most pervasive topics and themes relevant to text mining in general.
 
 
 ## Common Misconceptions That Probably Aren't Helping You
 - You need to have BIG DATA.
-- There is a best way to do text mining.
+- There is a single best way to do text mining.
 - Text mining is quantitative and the humanities are qualitative.
 - Text mining is necessarily technical and makes you grow a giant beard and wear oversized metal-rimmed glasses.
-- People should make better tools to make text mining easier.
 - Data is data and if you just plug it into some tools, you'll learn cool things.
+- People should make better tools to make text mining easier.
 - All of the work preparing data is not what historians do.
 
 
@@ -84,10 +84,11 @@ Your local libraries may know of local repositories for digital data as well.
 # Working with Data
 One of the neat advantages of text mining is the way you can combine multiple data sources at larger than usual scales. Usually this will mean finding data from multiple sources, and of course they won't be in the same format. In order to make use of all your texts, you'll need to make sure the data are suitable for machine processing with standardized formats, not stray characters, etc. 
 
-**Getting your data to look nice takes FAR LONGER than you want it to, than you think it should, than it deserves to, and is arguably the most difficult and crucial part of the process.** Exploratoring your corpus algorithmically is quite fun, but unless you like to geek out with python scripts and regular expressions, cleaning data is decidedly the unfun part of text mining. But the key to success here is to remind yourself that even when preparing data, _you are doing history_, not trying to get ready for it. You just didn't realize that was such a big component of it. 
+**Getting your data to look nice takes FAR LONGER than you want it to, than you think it should, than you think it deserves to.** It is arguably the most difficult and crucial part of the process.** Exploratoring your corpus algorithmically is quite fun, but unless you like to geek out with python scripts and regular expressions, cleaning data is decidedly the unfun part of text mining. But the key to success here is to remind yourself that even when preparing data, _you are doing history_, not trying to get ready for it. It's the digital vesion of combing through the archives. Not glamorous, but necessary, and there certainly are both art and science aspects to it.
 
 
 ## Normalizing Data
+For more on the basic concepts of organizing data:
 Hadley Wickham, [Tidy Data](http://vita.had.co.nz/papers/tidy-data.pdf).
 
 Seth van Hooland, Ruben Verborgh, Max De Wilde, [Cleaning Data with OpenRefine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine.)
@@ -96,8 +97,10 @@ Seth van Hooland, Ruben Verborgh, Max De Wilde, [Cleaning Data with OpenRefine](
 
 
 ## DIY
-You're in luck! There is a great tool for getting your data into *any format you need*! It's called python.
-[Commmand Lion Crash Course](http://learnpythonthehardway.org/book/appendixa.html)
+If you want to really use text mining methods, you'll need some facility with data beyond what pre-packaged tools give you. They simply can't account for all th circumstances you'll encounter. 
+
+But you're in luck! There is a great tool for getting your data into *any format you need*! It's called python, and it's a progamming language that is easy to learn and very powerful in terms of manipulating data. To get started:    
+[Commmand Line Crash Course](http://learnpythonthehardway.org/book/appendixa.html)
 
 [Set up your working environment](http://learnpythonthehardway.org/book/ex0.html)
 
