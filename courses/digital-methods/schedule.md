@@ -14,7 +14,7 @@ categories: [course]
 {::options parse_block_html="true" /}
 <div class="week" style="border:none">
 
-### The Digital Humanities Phenomenon
+### The DH Phenomenon
 What *is* digital humanities? How does studying "the digital" vs. using "the digital" factor into definitions? Is it necessary to have a working definition? 
 
 <div class="left_box">
@@ -58,7 +58,7 @@ Larry Cebula
 {::options parse_block_html="true" /}
 <div class="week">
 
-### Core Principles of the Digital Humanities
+### Core Principles of DH
 What are the central concerns of the so-called digital humanities community? Does it make sense to talk about Digital Humanities as opposed to Digital History or Digital Literature? Why is there no Digital Philosophy? 
 
 <div class="left_box">
@@ -192,7 +192,7 @@ Create a map of ABQ Open Data on a map (use your webserver!)
 
 {::options parse_block_html="true" /}
 <div class="week">
-### Thinking about Data
+### Thinking About Data
 It's easy to find data, but often hard to find data in the exact form / format you need. A few basic programming skills can go a LONG way, and sometimes is the only way. Untether yourself from tools that other people make for you.
 
 <div class="left_box">

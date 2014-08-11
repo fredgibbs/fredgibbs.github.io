@@ -16,7 +16,7 @@
 @media screen {
 
 body {
-  background-color: #eee;
+  background-color: #f0eef0;
 }
 
 p {
@@ -34,8 +34,8 @@ p {
 }
 
 #syllabus-new p strong {
-  font-weight: 400;
-  color:#ccc;
+  font-weight: 700;
+  color:#a00;
 }
 
 #syllabus-new div.highlight {
@@ -69,11 +69,11 @@ margin-left:2em;
 
 .title {
 margin:3em 0 0 0 ;
-background-color: #333;
+background-color: #f0eef0;
 width: 100%;
-padding:0 0 .5em 0;
-border-top:4px solid gray;
-border-bottom:4px solid gray;
+padding:.5em 0 .5em 0;
+border-top:3px solid #888;
+border-bottom:3px solid #888;
 text-align: left;
 }
 
@@ -128,7 +128,7 @@ font-size: 100%;
 
 
 #perm-nav-bar {
-    background-color: #a44;
+    background-color: #663333;
     overflow: hidden;
     position:fixed;
     width:100%;
@@ -147,7 +147,7 @@ font-size: 100%;
 
 
 #HiddenMenu {
-    background-color: #555;
+    background-color: #663333;
     position: relative;
     height:16em;
     padding:0;
@@ -185,7 +185,7 @@ list-style-type: none;
 #HiddenMenu div.month-col {
   float:left;
   width:10em;
-  border:0px solid green;
+  border:0px solid ea2a2b;
 }
 
 #HiddenMenu li.date {

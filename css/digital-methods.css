@@ -292,6 +292,7 @@ ul.navigation {
 
 body {
   background-color: #eee;
+  padding:.5em;
 }
 
 a {
@@ -374,6 +375,32 @@ a {
   font-size:150%;
   font-weight: bold;
 }
+
+.week {
+  float:left;
+  clear:both;
+  line-height: 1.3em;
+  margin:0em 0 0em 0;
+  border-top:1px dashed gray;
+}
+
+
+.left_box {
+width:100%;
+float:left;
+margin:0 0em 0em 0;
+padding:0;
+}
+
+
+.right_box {
+width:100%;
+float:left;
+clear:both;
+margin:0 0em 0em 0;
+padding:0;
+}
+
 
 .footer {
   display: none;

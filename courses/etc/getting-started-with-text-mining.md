@@ -30,7 +30,9 @@ John Burrows, [Textual Analysis](http://www.digitalhumanities.org/companion/view
 
 Stanford Literary Lab, [Quantitative Formalism: an Experiment](http://litlab.stanford.edu/LiteraryLabPamphlet1.pdf).
 
-Dan Cohen, [Searching for the Victorians](http://www.dancohen.org/2010/10/04/searching-for-the-victorians/)
+Fred Gibbs, [Learning to Read. Again](http://fredgibbs.net/posts/post/text%20mining/learning-to-read-again/).
+
+Dan Cohen, [Searching for the Victorians](http://www.dancohen.org/2010/10/04/searching-for-the-victorians/).
 
 D. Sculley and B. M. Pasanek, “Meaning and Mining: The Impact of Implicit Assumptions in Data Mining for the Humanities,” Literary and Linguistic Computing 23, no. 4 (September 29, 2008): 409–24.
 
@@ -61,7 +63,7 @@ Some of the easiest ways to get started is to use an online tool that saves you 
 [Google n-gram viewer](https://books.google.com/ngrams)    
 [Bookworm](http://bookworm.culturomics.org/)    
 [Voyant](http://voyant-tools.org/) and a [list of projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/)    
-[Overview](http://overview.ap.org/faq/)    
+[Overview](http://overview.ap.org/faq/); begin with a short [introductory video](http://vimeo.com/71483614)    
 
 ### Tools you need to install on your computer
 If you want to get a bit more serious about text mining, or if you get tired of having to do everything online, there are a few excellent tools that give you tremendous text mining power, but very little in the way of visual interfaces.
@@ -90,6 +92,8 @@ One of the neat advantages of text mining is the way you can combine multiple da
 ## Normalizing Data
 For more on the basic concepts of organizing data:
 Hadley Wickham, [Tidy Data](http://vita.had.co.nz/papers/tidy-data.pdf).
+
+[Open Refine](http://openrefine.org/) is a excellent tool for normalizing data. Begin with the 3 tutorial videos to get a sense of what it can do.
 
 Seth van Hooland, Ruben Verborgh, Max De Wilde, [Cleaning Data with OpenRefine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine.)
 
