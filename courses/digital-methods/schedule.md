@@ -359,8 +359,7 @@ Dmitry Paranyushkin
 
 {::options parse_block_html="true" /}
 <div class="week">
-### Reimagining History
-
+### Redesigning History
 <div class="left_box">
 Michael Wesch    
 [The Machine is Us/ing Us](http://www.youtube.com/watch?v=NLlGopyXT_g) (4.5 min. video).
@@ -368,7 +367,10 @@ Michael Wesch
 Aaron Titus    
 [How the Internet Works](https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be)
 
-Readings on creating videos, voice-overs, etc.
+Yours Truly
+[A Brief History of Toxicology](https://vimeo.com/94459223)
+
+More Readings / Tutorials on creating videos, voice-overs, etc.
 </div>
 
 <div class="right_box">
