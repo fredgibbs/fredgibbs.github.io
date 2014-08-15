@@ -68,6 +68,10 @@ a         { color: #f90; }
 a:hover   { color: #a00; }
 a:visited { color: #c60; }
 
+h2 a {
+  border:none;
+}
+
 table {
   font-size: inherit;
   font: 100%;
