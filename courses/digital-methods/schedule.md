@@ -304,9 +304,6 @@ Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhu
 Scott Weingart    
 [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
 
-Elijah Meeks and Scott Weingart    
-[The Digital Humanities Contribution to Topic Modeling](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/). Follow the links in this brief introduction!
-
 Cameron Blevins    
 [Topic Modeling Martha Ballard's Diary](http://historying.org/martha-ballards-diary/).
 </div>
@@ -367,7 +364,7 @@ Michael Wesch
 Aaron Titus    
 [How the Internet Works](https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be)
 
-Yours Truly
+Fred Gibbs        
 [A Brief History of Toxicology](https://vimeo.com/94459223)
 
 More Readings / Tutorials on creating videos, voice-overs, etc.

@@ -8,7 +8,7 @@
 @import url(http://fonts.googleapis.com/css?family=Amatic+SC:700);
 @import url(http://fonts.googleapis.com/css?family=Josefin+Sans:700);
 @import url(http://fonts.googleapis.com/css?family=Raleway:500);
-@import url(http://fonts.googleapis.com/css?family=Ubuntu:300);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:300,400);
 @import url(http://fonts.googleapis.com/css?family=Oswald:400);
 
 
@@ -31,8 +31,8 @@ body {
 }
 
 #syllabus-new p strong {
-  font-weight: 400;
-  color:#ccc;
+  font-weight: 700;
+  color:#000;
 }
 
 #syllabus-new h4 {
@@ -426,6 +426,18 @@ padding:0;
     margin: 0;
   }
 
+#perm-nav-bar {
+  display:none;
+}
+
+h1.navheader {
+  display:none;
+}
+
+ul.navigation {
+  display:none;
+}
+
 .container {
   margin:0;
 }
@@ -472,23 +484,26 @@ h2 {
   clear:both;
 }
 
-h3 {
-  font-weight: normal;
+.container h3 {
+font-family: 'Raleway', sans-serif;
+font-size: 150%;
+line-height: 1em;
+text-transform: uppercase;
+color:#993333;
+margin: 1.5em 0 .4em 0;
 }
 
-.photo1, .photo2, .photo3, .photo4, .photo5 {
-  height:0px;
-  display:none;
+#syllabus-new h4 {
+font-family: 'Raleway', sans-serif;
+font-size: 110%;
+line-height: 1.5em;
+text-transform: uppercase;
+color:#ece9e8;
+margin-bottom:.5em;
+background:#aaa;
+padding:.5em;
 }
 
-#syllabus-new .section-photo-break {
-  display:none;
-  background-image:none;
-}
-
-#HiddenMenu, #HoverSpace { 
-  display:none;
-}
 
 hr {
   clear:both;
