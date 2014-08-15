@@ -365,7 +365,23 @@ a {
     font-family: times;
     padding:0;
     margin: 0;
+    font-size: 90%;
   }
+
+#perm-nav-bar {
+  display:none;
+}
+
+#HiddenMenu { 
+}
+
+h1.navheader {
+  display:none;
+}
+
+ul.navigation {
+  display:none;
+}
 
 .container {
   margin:0;
@@ -413,22 +429,23 @@ h2 {
   clear:both;
 }
 
-h3 {
-  font-weight: normal;
+.container h3 {
+font-family: 'Raleway', sans-serif;
+font-size: 150%;
+line-height: 1em;
+text-transform: uppercase;
+color:#993333;
+margin: 1.5em 0 .4em 0;
 }
 
-.photo1, .photo2, .photo3, .photo4, .photo5 {
-  height:0px;
-  display:none;
-}
-
-#syllabus-new .section-photo-break {
-  display:none;
-  background-image:none;
-}
-
-#HiddenMenu, #HoverSpace { 
-  display:none;
+#syllabus-new h4 {
+font-size: 100%;
+text-transform: uppercase;
+color:#993333;
+margin: 0em 2em 0 0em;
+position:relative;
+z-index: 0;
+float:left;
 }
 
 hr {
