@@ -46,7 +46,7 @@ The course will be taught in the shiny new Teaching and Learning building in "le
 
 - Michael Pollan, [In Defense of Food](http://www.amazon.com/Defense-Food-Eaters-Manifesto/dp/0143114964) (ISBN: 978-0143114963).
 
-- You will also need to subscribe to the course Zotero library to access assigned articles not contained in the edited volumes. Please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](../etc/zotero.html). 
+- You will also need to subscribe to the course Zotero library to access assigned articles not contained in the edited volumes. This will be discussed on the first day of class. For reference, please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](../etc/zotero.html). 
 
 
 ## Syllabus
