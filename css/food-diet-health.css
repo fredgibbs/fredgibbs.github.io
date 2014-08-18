@@ -60,7 +60,7 @@ margin-left:2em;
 
 .container {
   width: 42em;
-  margin: 0em auto 0em;
+  margin: 0em auto 0em auto;
   font-family: 'Ubuntu', sans-serif;
   padding:0 0 0 0;
   font-size: 16px;
@@ -80,6 +80,12 @@ text-align: left;
 .title .container {
   width:55em;
 }
+
+#syllabus-new .container {
+  width:50em;
+  padding-right:5em;
+}
+
 
 .container h1 {
 font-family: 'Oswald', sans-serif;
@@ -142,7 +148,7 @@ font-size: 100%;
 }
 
 .perm-navigation {
-  width:53em;
+  width:53.5em;
  }
 
 
