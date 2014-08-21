@@ -66,12 +66,12 @@ What are the central concerns of the so-called digital humanities community? Doe
 Anne Burdick et al.    
 *Digital\_Humanities*.
 
-Sort out DH Project Review assignments.
+Sort out DH Project Review assignments for Friday.
 </div>
 
 <div class="right_box">
 #### DH Projects Review
-We'll delve into some of the debates about the nature of "DH" and also begin exploring some (online) projects (whether focused on presenting archives, interpretation, methodology, exhibits, etc) to get a better feel for the digital footprint of DH.
+We'll delve into some of the debates about the nature of "DH" and also begin exploring some [DH projects](http://dhcommons.org/projects) (whether focused on presenting archives, interpretation, methodology, exhibits, etc) to get a better feel for the digital footprint of DH.
 </div>
 
 </div>
@@ -82,18 +82,21 @@ We'll delve into some of the debates about the nature of "DH" and also begin exp
 {::options parse_block_html="true" /}
 <div class="week">
 
-### Exhibiting History Online
+### Exhibiting and Mapping History
 
 <div class="left_box">
-#### Labor Day...No Class!
+#### Interfacing History
+What are some of the advantages and disadvantages of these tools?
+
+[Omeka](omeka.org) + [Neatline](neatline.org)    
+[StoryMap](http://storymap.knightlab.com/)  
+[Story Maps](http://storymaps.arcgis.com/en/)  
+[HyperCities](http://hypercities.com/) | [More on this](https://sas.elluminate.com/site/external/jwsdetect/playback.jnlp?psid=2010-12-04.1551.M.1B6046E3218AB4691853183BCF526A.vcr&sid=2009099)
 </div>
 
 <div class="right_box">
 #### ABQ Digital History
-[Omeka](omeka.org) + [Neatline](neatline.org)    
-[StoryMap](http://storymap.knightlab.com/)  
-[Story Maps](http://storymaps.arcgis.com/en/)  
-[HyperCities](http://hypercities.com/) | [More on this](https://sas.elluminate.com/site/external/jwsdetect/playback.jnlp?psid=2010-12-04.1551.M.1B6046E3218AB4691853183BCF526A.vcr&sid=2009099)    
+Some initial planning about what our ABQ Airport project will look like, first exploring some existing efforts:
 
 [Historic Albuquerque](http://www.downtownacd.org/historic-downtown/)  
 [Historic Old Town](http://www.albuquerqueoldtown.com/)  
@@ -112,7 +115,7 @@ We'll delve into some of the debates about the nature of "DH" and also begin exp
 
 ### The New Publishing
 
-You shouldn't be ignorant of how the internet works---the largest and most accessible publishing platform ever---if your job invovles knowledge production and dissemination anymore than you should be ignorant of literacy. If you think your work is valuable, you should know something about the methods at your disposal to communicate it to a wide audience.
+You shouldn't be ignorant of how the internet works---the largest and most accessible publishing platform ever---if your job invovles knowledge production and dissemination anymore than you should be ignorant of literacy. If you think your work is valuable, you should know something about the methods at your disposal to communicate it to a wide audience in the form you think is most appropriate.
 
 <div class="left_box">
 #### Web basics

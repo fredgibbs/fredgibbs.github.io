@@ -15,9 +15,9 @@ This course explores new theoretical and methodological issues now facing humani
 
 This course challenges and complements the typical conventions for humanities research, as well as provide guidelines for effectively bridging and combining humanities and technology skills that will **make you more considerably employable than your colleagues who remain afraid of data**, however you intend to use your humanities degree.
 
-The course meets 2 days a week for 1.25 hours. Generally, on Monday we’ll discuss readings and theorize about methods; on Wednesday, which will be more like a lab section, we’ll develop particular digital skills, such as developing functional webpages, maps with GIS tools, basic text mining techniques, and data visualization tools. 
+The course meets 2 days a week for 1.25 hours. Generally, on Wednesday we’ll discuss readings and theorize about methods; on Friday, which will be more like a lab section, we’ll develop particular digital skills, such as developing functional webpages, maps with GIS tools, basic text mining techniques, and data visualization tools. 
 
-All the while, we'll be collaborating to create an online **History of the ABQ Airport**, which will entail new historical research at the Center for the Southwest Research and other local archives, digitization, content management, web development, design, and public history. 
+All the while, we'll be collaborating to create an online **History of the ABQ Airport**, which will entail new historical research at the Center for the Southwest Research and other local archives, as well as other project skills such as digitization and digital workflows, content management, web development, design, and marketing.
 
 
 ### Student Learning Outcomes
@@ -34,15 +34,17 @@ All the while, we'll be collaborating to create an online **History of the ABQ A
 ### Work Requirements and Grading
 - Thorough preparedness and engaged participation in every class meeting and in the class project. (40%)
 
-- Original 400-word critical reaction essays posted to your own blog before each class. These should NOT merely summarize the readings, but critically evaluate them and ask questions that will guide our discussion and relate the readings to each other. You need to do 6 of these throughout the semester. (30%)
+- Original 400-word critical reaction essays posted to your own blog before each class. These should NOT merely summarize the readings, but critically evaluate them and ask questions that will guide our discussion and relate the readings to each other. You need to do 6 of these throughout the semester. You can also blog about your experience working through some of the tutorials (30%)
 
-- As a final project, create a 5-minute "video" that showcases the methods and results of your MA or PhD research (whatever stage you're at). We'll cover tools and techniques for doing this in class. (15%)
+- As a final project, create a [digital humanities start-up grant](http://www.neh.gov/grants/odh/digital-humanities-start-grants) or [digital public project grant](http://www.neh.gov/grants/public/digital-projects-the-public) that showcases how you would ideally use the kinds of skills, methods, and ideas presented in the course in your own work/project (related or not to current research interests). You don't need to limit yourself to what you can actually do at that time, but you must include small examples of your own methodological explorations learned in this course as proof-of-concept examples. We'll talk much more about this throughout the course, and you'll be working on them in stages near the end of the term. (10%)
+
+- A 3 to 6 minute "video" that showcases the methods, results, and significance of your MA or PhD research (whatever stage you're at). We'll cover tools and techniques for doing this in class; I'll bring goodies to our screening day. (5%)
 
 - Create and use your own blog and Twitter account for the course. (5%)
 
 - Lead one discussion by having good questions prepared ahead of time to help call attention to interesting points in the readings, connect them to each other, and connect that day’s readings to previous readings and discussions. (5%)
 
-- Perseverance and tolerance for frustration. Digital humanities engages with new methodological problems and professional challenges raised by rapidly shifting technology and new media. Must be able to tolerate frustation and to have fun while groping, even when it take twice as long as you expected. (5%)
+- Perseverance and tolerance for frustration. Digital humanities engages with new methodological problems and professional challenges raised by rapidly shifting technology and new media. Must be able to have fun while groping, even when it take twice as long as you expected. (5%)
 
 
 ### Required Texts
