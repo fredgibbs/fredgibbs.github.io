@@ -196,7 +196,7 @@ Create a map of ABQ Open Data on a map (use your webserver!)
 {::options parse_block_html="true" /}
 <div class="week">
 ### Thinking About Data
-It's easy to find data, but often hard to find data in the exact form / format you need. A few basic programming skills can go a LONG way, and sometimes is the only way. Untether yourself from tools that other people make for you.
+With a few notable exceptions, historians typically don't consider their sources as data. But why is that? What is data? Are there any advantages to shifting the way we conceptualize our sources? What might we gain, or lose, by thinking about the historical record as data?
 
 <div class="left_box">
 #### Computing History
@@ -236,6 +236,7 @@ Learn to use [OpenRefine](http://openrefine.org/) via [Cleaning Data with OpenRe
 {::options parse_block_html="true" /}
 <div class="week">
 ### Scripting Basics
+It's easy to find data, but often hard to find data in the exact form / format you need. A few basic programming skills can go a LONG way, and sometimes is the only way. Untether yourself from tools that other people make for you.
 
 <div class="left_box">
 #### Unleashing your computer
@@ -288,7 +289,9 @@ Laura Turner O'Hara
 [Google n-gram viewer](https://books.google.com/ngrams)    
 [Voyant](http://voyant-tools.org/) and a [list of projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/)    
 
-Get some of your research data loaded into [Bookworm](http://bookworm.culturomics.org/), [Voyant](http://voyant-tools.org/) and a [list of projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/), or [Overview](http://overview.ap.org/faq/).
+Get some of your research data loaded into [Bookworm](http://bookworm.culturomics.org/) and [Voyant](http://voyant-tools.org/) (and you might want to peruse [a list of projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/).
+
+We're going to talk about the different formats of data these tools require, problems moving from one to the other; pros and cons of their various approaches, and whatever you newly discovered about your sources from taking a broad view.
 </div>
 
 </div>
@@ -304,6 +307,9 @@ Get some of your research data loaded into [Bookworm](http://bookworm.culturomic
 #### Concepts and Examples
 Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
 
+Andrew Goldstone and Ted Underwood    
+The Quiet Transformations of Literary Studies: What Thirteenth Thousand Scholars Could Tell Us.
+
 Scott Weingart    
 [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
 
@@ -313,7 +319,9 @@ Cameron Blevins
 
 <div class="right_box">
 #### Modeling your Sources
-Install and use [MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet) to topic model some of your sources. 
+Install and use [MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet) to topic model some of your sources.
+
+Also, load up some of your sources into [Overview](http://overview.ap.org/faq/), and compare what you can learn from "raw" topic modeling with MALLET and Overview's presentation of your documents.
 </div>
 
 </div>
