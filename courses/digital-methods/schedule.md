@@ -104,6 +104,10 @@ Some initial planning about what our ABQ Airport project will look like, first e
 [New Mexico Historic Markers](http://www.nmhistoricmarkers.org/)  
 [Albuquerque Murals Project](http://www.albuquerquemurals.com/)  
 [The Plazas of New Mexico](http://plazasofnewmexico.com/index.html)  
+
+Homework to be done by today:     
+Install [MAMP](http://www.mamp.info/en/downloads/) (Mac) or [WAMP](http://www.wampserver.com/en/) (Windows) so you can make webpages on your own computer.
+
 </div>
 
 </div>
@@ -119,7 +123,10 @@ You shouldn't be ignorant of how the internet works---the largest and most acces
 
 <div class="left_box">
 #### Web basics
-Install [MAMP](http://www.mamp.info/en/downloads/) (Mac) or [WAMP](http://www.wampserver.com/en/) (Windows) so you can make webpages on your own computer.
+**Meet in Zimmerman Library, Frank Waters Room for Library presentation on ABQ Airport sources**    
+To get to the Frank Waters Room, do a U-turn to the left after coming through the main entrance of the library, through the double doors (heading toward the Center for Southwest Research), and you'll see through the glass wall a seminar room, and probably me, on your left.
+
+After the presentation, we'll stay in that room and start building webpages.
 
 [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction)
 
