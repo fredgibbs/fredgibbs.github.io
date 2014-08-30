@@ -81,8 +81,7 @@ We'll delve into some of the debates about the nature of "DH" and also begin exp
 
 {::options parse_block_html="true" /}
 <div class="week">
-
-### Exhibiting and Mapping History
+### The New Publishing
 
 <div class="left_box">
 #### Interfacing History
@@ -99,8 +98,7 @@ Install [MAMP](http://www.mamp.info/en/downloads/) (Mac) or [WAMP](http://www.wa
 </div>
 
 <div class="right_box">
-### The New Publishing
-
+#### Webpages 101
 You shouldn't be ignorant of how the internet works---the largest and most accessible publishing platform ever---if your job invovles knowledge production and dissemination anymore than you should be ignorant of literacy. If you think your work is valuable, you should know something about the methods at your disposal to communicate it to a wide audience in the form you think is most appropriate.
 
 [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction)
@@ -114,7 +112,7 @@ Use a text editor to write basic web pages
 
 {::options parse_block_html="true" /}
 <div class="week">
-
+### Exhibiting and Mapping History
 
 <div class="left_box">
 #### ABQ Airport + History
