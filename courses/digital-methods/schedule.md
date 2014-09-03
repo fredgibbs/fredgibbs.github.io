@@ -85,25 +85,31 @@ We'll delve into some of the debates about the nature of "DH" and also begin exp
 
 <div class="left_box">
 #### Interfacing History
-What are some of the advantages and disadvantages of these tools?
+You shouldn't be ignorant of how the internet works---the largest and most accessible publishing platform ever---if your job invovles knowledge production and dissemination anymore than you should be ignorant of literacy. If you think your work is valuable, you should know something about the methods at your disposal to communicate it to a wide audience in the form you think is most appropriate.
 
 [Omeka](omeka.org) + [Neatline](neatline.org)    
 [StoryMap](http://storymap.knightlab.com/)  
 [Story Maps](http://storymaps.arcgis.com/en/)  
 [HyperCities](http://hypercities.com/) | [More on this](https://sas.elluminate.com/site/external/jwsdetect/playback.jnlp?psid=2010-12-04.1551.M.1B6046E3218AB4691853183BCF526A.vcr&sid=2009099)
 
-Homework to be done by today:     
-Install [MAMP](http://www.mamp.info/en/downloads/) (Mac) or [WAMP](http://www.wampserver.com/en/) (Windows) so you can make webpages on your own computer.
+**Homework to be done by today:**     
+1) Install [MAMP](http://www.mamp.info/en/downloads/) (Mac) or [WAMP](http://www.wampserver.com/en/) (Windows) so you can make webpages on your own computer.
+
+2) Make a simple webpage, after reading through an [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction).
 
 </div>
 
 <div class="right_box">
 #### Webpages 101
-You shouldn't be ignorant of how the internet works---the largest and most accessible publishing platform ever---if your job invovles knowledge production and dissemination anymore than you should be ignorant of literacy. If you think your work is valuable, you should know something about the methods at your disposal to communicate it to a wide audience in the form you think is most appropriate.
+How does all this stuff work?
 
-[Introduction to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction)
+Learn to use CSS to stlye your pages. Start [here](http://www.cssbasics.com/).
 
-Use a text editor to write basic web pages
+**Homework to be done by today:**     
+Create a short version of your CV with HTML and CSS. 
+
+Discuss differences between XML and HTML.
+
 </div>
 
 </div>
