@@ -95,7 +95,8 @@ You shouldn't be ignorant of how the internet works---the largest and most acces
 **Homework to be done by today:**     
 1) Install [MAMP](http://www.mamp.info/en/downloads/) (Mac) or [WAMP](http://www.wampserver.com/en/) (Windows) so you can make webpages on your own computer.
 
-2) Make a simple webpage, after reading through an [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction).
+2) Make a simple webpage, after reading through an [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction) and an [Introduction to XML and HTML](http://www.w3schools.com/xml/xml_whatis.asp)  
+
 
 </div>
 
@@ -103,10 +104,10 @@ You shouldn't be ignorant of how the internet works---the largest and most acces
 #### Webpages 101
 How does all this stuff work?
 
-Learn to use CSS to stlye your pages. Start [here](http://www.cssbasics.com/).
+Learn to use CSS to stlye your pages. Read through this entire [CSS tutorial](http://www.cssbasics.com/).
 
 **Homework to be done by today:**     
-Create a short version of your CV with HTML and CSS. 
+Create a short version of your CV with HTML and CSS.
 
 Discuss differences between XML and HTML.
 
@@ -164,16 +165,27 @@ Richard White
 Ian Gregory and David Cooper    
 [GIS, Texts, and Images: New Approaches](http://journals.tdl.org/paj/index.php/paj/article/view/20).
 
-Check out some [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/)
+Prepare critiques of some [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/)
+
+Read "Introducing GIS" and "Vector Data" from this [gentle introduction to GIS](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/index.html).
+
+Download and install [QGIS](http://www.qgis.org/en/site/). Your job is just to get the application running on your computer. Note: if you have a Mac, you have to install 2 required packages before installing QGIS; follow the instructions carefully (kyngchaos is your friend)! We'll troubleshoot any installation issues and go over the interface and other basic GIS concepts in class.
+
 </div>
 
 <div class="right_box">
 #### Mapping with QGIS
-If you're not familiar with GIS systems, or if unfamiliar terms crop up in the tutorials, check out this [gentle introduction](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/index.html). When you want to play, download and install [QGIS](http://www.qgis.org/en/site/).
+
+Return to the [gentle introduction to GIS](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/index.html), reading up through "Coordinate Reference Systems".
+
+Load some ABQ data layers with QGIS, using shapefiles (or CSV or KML files) from one of the below sources:    
+[ABQ GIS Data](http://www.cabq.gov/gis/geographic-information-systems-data)  
+[ABQ Open Data](http://www.cabq.gov/abq-data)  
+[UNM GIS Data Clearinghouse](http://rgis.unm.edu/)  
+
+See if you can create some interesting, even if useless, maps by overlaying totally different data sets.
 
 If you get stuck or have questions, consult the [QGIS Training Manual](http://docs.qgis.org/2.2/en/docs/training_manual/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com).
-
-Load some ABQ data layers with [QGIS](http://www.qgis.org/en/site/index.html).
 </div>
 
 </div>
@@ -188,15 +200,24 @@ Load some ABQ data layers with [QGIS](http://www.qgis.org/en/site/index.html).
 <div class="left_box">
 #### Uncertainty
 Peter Fisher and Jo Wood    
-[What is a Mountain? Or The Englishman who went up a Boolean Geographical Concept but Realised it was Fuzzy](http://www.jstor.org/stable/pdfplus/40573211.pdf?acceptTC=true).
+[What is a Mountain? Or The Englishman who went up a Boolean Geographical Concept but Realised it was Fuzzy](http://www.jstor.org/stable/pdfplus/40573211.pdf?acceptTC=true).    
 
-Matthew Wilkens    
-[Geolocation Extraction and Mapping of Nineteenth-Century U.S. Fiction](http://chicagocolloquium.org/wp-content/uploads/2011/11/dhcs2011_submission_15.pdf).
+Jason Farman, “Mapping the Digital Empire: Google Earth and the Process of Postmodern Cartography,” New Media & Society 12, no. 6 (2010): 869–88.
+
+Experience the lite-ness of [Google Maps Engine Lite](http://programminghistorian.org/lessons/googlemaps-googleearth), but use the ABQ [public art data](http://www.cabq.gov/culturalservices/public-art/documents/ABQPublicArtMap.csv/at_download/file), and play around with the map styling as the tutorial suggests.
+
+Understand the [basics of KML](https://developers.google.com/kml/documentation/kml_tut).      
+
 </div>
 
 <div class="right_box">
 #### Local Maps
-Create a map of ABQ Open Data on a map (use your webserver!)
+
+Add a simple Google map [using these instructions](https://developers.google.com/maps/tutorials/fundamentals/adding-a-google-map). Do not proceed to the next step until this is working!
+
+Make it fancier [with these instructions](https://developers.google.com/maps/tutorials/kml/). There is lots of technical jargon here that will confuse you--it's going to extend your javascript skills--and that's why we'll talk it over in class. But you should have already worked through the tutorial so you have questions about what's going on.
+
+See if you can display a KML file from [ABQ Open Data](http://www.cabq.gov/abq-data)  
 </div>
 
 </div>
