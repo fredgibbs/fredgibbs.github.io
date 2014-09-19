@@ -97,14 +97,16 @@ Decide on articles for Monday; get them while you're on campus!
 #### MON
 Pick and report on one of the articles about [availability of healthy food](http://www.ctdatahaven.org/know/index.php/Research_Availability_Healthy_Food_FoodDeserts).
 
-[40 maps that explain food in America](http://www.ctdatahaven.org/know/index.php/Research_Availability_Healthy_Food_FoodDeserts).
+[40 maps that explain food in America](http://www.vox.com/a/explain-food-america).
 
-Tutorial on creating maps with Google Maps Engine.
+Watch the [video tutorial](https://www.youtube.com/watch?v=j6pWfoktUd8) on creating maps with Google Maps Engine.
 
 #### WED
-No Class! Gather data for our food access map. Send me your KML files by Thursday at 5:00pm
+No Class! Gather data for our food access map. Before class on Friday, update our [Google Sheet](https://docs.google.com/spreadsheets/d/12ALL_V-38UtAcXQCHD-TR1L6Sl0_sqD_6KzHC9jgt_k/edit?usp=sharing) with your food store data.
 
 #### FRI
+Be sure you've entered your data on the spreadsheet (see Wednesday)!
+
 Presentations: Mapping Food Access in ABQ.
 
 
