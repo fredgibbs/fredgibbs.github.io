@@ -135,7 +135,7 @@ Vasile Stănescu, "'Green' Eggs and Ham? The Myth of Sustainable Meat and the Da
 #### WED
 Megan K. Blake, Jody Mellor, and Lucy Crane, “Buying Local Food: Shopping Practices, Place, and Consumption Networks in Defining Food as ‘Local,’” *Annals of the Association of American Geographers* 100.2 (2010): 409–26.
 
-Play around with [food maps](http://selborne.nl/foodmap/index.php">Mapping food origins).
+Play around with [food maps](http://selborne.nl/foodmap/index.php).
 
 #### FRI
 Fall Break: No Class!
