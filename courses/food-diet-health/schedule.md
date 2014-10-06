@@ -130,10 +130,10 @@ Jeffrey Haydu, “Cultural Modeling in Two Eras of U.S. Food Protest: Grahamites
 ### Local Diets
 
 #### MON
-Vasile Stănescu, "'Green' Eggs and Ham? The Myth of Sustainable Meat and the Danger of the Local," *Journal for Critical Animal Studies* 8.1 (2010): 8–32.
+Review and presentations of all articles from last week
 
 #### WED
-Megan K. Blake, Jody Mellor, and Lucy Crane, “Buying Local Food: Shopping Practices, Place, and Consumption Networks in Defining Food as ‘Local,’” *Annals of the Association of American Geographers* 100.2 (2010): 409–26.
+**First 1-page Critiques Due**
 
 Play around with [food maps](http://selborne.nl/foodmap/index.php).
 
@@ -147,13 +147,15 @@ Fall Break: No Class!
 ### Critiquing Local Food
 
 #### MON
-Work on Your Local Food Projects: No Class!
+Extended Fall Break: No Class!
 
-#### WED 
-Presentations and Critiques I
+#### WED
+**First half review quiz**
+
+Vasile Stănescu, "'Green' Eggs and Ham? The Myth of Sustainable Meat and the Danger of the Local," *Journal for Critical Animal Studies* 8.1 (2010): 8–32.
 
 #### FRI
-Presentations and Critiques II
+Megan K. Blake, Jody Mellor, and Lucy Crane, “Buying Local Food: Shopping Practices, Place, and Consumption Networks in Defining Food as ‘Local,’” *Annals of the Association of American Geographers* 100.2 (2010): 409–26.
 
 
 <a id="10"/>
