@@ -385,12 +385,27 @@ Dmitry Paranyushkin
 </div>
 
 <div class="right_box">
-#### Draw your research
+#### No Class
+
+Explore visualizations:    
 [Viewshare](http://viewshare.org)    
 [Flowing Data](http://flowingdata.com)
 [Gephi](http://gephi.org)    
 [Visualeyes](http://www.viseyes.org/)    
 [Visual Complexity](http://visualcomplexity.com)
+
+Explore videos:    
+
+Michael Wesch    
+[The Machine is Us/ing Us](http://www.youtube.com/watch?v=NLlGopyXT_g) (4.5 min. video).
+
+Aaron Titus    
+[How the Internet Works](https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be)
+
+Fred Gibbs        
+[A Brief History of Toxicology](https://vimeo.com/94459223) (no need to watch the whole thing)
+
+More Readings / Tutorials on creating videos, voice-overs, etc.
 </div>
 </div>
 
@@ -401,24 +416,16 @@ Dmitry Paranyushkin
 <div class="week">
 ### Redesigning History
 <div class="left_box">
-Michael Wesch    
-[The Machine is Us/ing Us](http://www.youtube.com/watch?v=NLlGopyXT_g) (4.5 min. video).
-
-Aaron Titus    
-[How the Internet Works](https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be)
-
-Fred Gibbs        
-[A Brief History of Toxicology](https://vimeo.com/94459223)
-
-More Readings / Tutorials on creating videos, voice-overs, etc.
-</div>
-
-<div class="right_box">
 Scott McCloud    
 *Understanding Comics*.
 
 Hayden White    
 [The Value of Narrativity in the Representation of Reality](http://www.jstor.org/stable/1343174).
+</div>
+
+<div class="right_box">
+#### No Class
+
 </div>
 </div>
 
@@ -481,7 +488,7 @@ Modern Language Association
 [Guidelines for Evaluating Work in Digital Humanities and Digital Media](http://www.mla.org/resources/documents/rep_it/guidelines_evaluation_digital).
 
 Journal of American History    
-[Guidelines for Web site [sic] reviews](http://www.journalofamericanhistory.org/submit/websitereviews.html)
+[Guidelines for Web site reviews](http://www.journalofamericanhistory.org/submit/websitereviews.html)
 
 Todd Presner    
 [Evaluating Digital Scholarship](http://idhmc.tamu.edu/commentpress/digital-scholarship/); this also appears on pp. 128-9 of *Digital_Humanities*.
@@ -504,7 +511,7 @@ Using the criteria discussed Present on the digital landscape in your field. Wha
 #### Work. Fail. Get help.
 </div>
 <div class="right_box">
-#### Work. Fail. Get help.
+#### Thanksgiving!
 </div>
 </div>
 

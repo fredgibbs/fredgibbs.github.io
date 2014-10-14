@@ -201,14 +201,14 @@ Marion Nestle, _Food Politics_, 219-293.
 Marion Nestle, _Food Politics_, 295-337.
 
 #### FRI
-Presentations on Food Logs (How have you improved your health according to health claims?)
-
+No Class!
 
 <a id="13"/>
 
 ### Engineering Food
 
 #### MON
+
 Mark Tester, “The dangerously polarized debate on genetic modification.” *British Food Journal* 103.11 (2001): 785-790.
 
 Stephanie Strom, “[Major Grocer to Label Foods With Gene-Modified Content](http://www.nytimes.com/2013/03/09/business/grocery-chain-to-require-labels-for-genetically-modified-food.html),” *The New York Times*, March 8, 2013.
@@ -217,9 +217,7 @@ Stephanie Strom, “[Major Grocer to Label Foods With Gene-Modified Content](htt
 Alison Shaw, "‘It Just Goes against the Grain’: Public Understandings of Genetically Modified (GM) Food in the UK.” *Public Understanding of Science* 11.3 (2002): 273-291.
 
 #### FRI
-Ellen Messer, “Food Systems and Dietary Perspective: Are Genetically Modified Organisms the Best Way to Ensure Nutritionally Adequate Food?,” *Indiana Journal of Global Legal Studies* 9.1 (2001): 65–90.
-
-Presentations: Visualize the arguments on engineed food. How to make complex concerns easily understandable?
+No Class!
 
 
 
