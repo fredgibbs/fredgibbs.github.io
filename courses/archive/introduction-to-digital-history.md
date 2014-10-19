@@ -2,7 +2,7 @@
 layout: course 
 title: Digital History - History 666-002 - Fall 2013
 date: 2013-10-29 00:00:01 
-categories: course
+category: course
 ---
 
 Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
