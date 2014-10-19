@@ -4,6 +4,7 @@ title: Installing Python Modules
 date: 2012-10-05 00:00:00
 category: tutorial
 ---
+
 One of the great things about using Python is the number of fantastic code libraries that are widely and easily available that can save you a lot of coding. Once these libraries are installed on your computer, you can use them by importing them at the beginning of your code; you can import as many libraries as you'd like, such as
 
 {% highlight python %}

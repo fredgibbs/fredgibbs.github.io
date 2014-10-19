@@ -1,6 +1,6 @@
 --- 
 layout: course 
-title: Digital History | History 666-002 | Fall 2013
+title: Digital History - History 666-002 - Fall 2013
 date: 2013-10-29 00:00:01 
 categories: [course] 
 ---
@@ -8,7 +8,6 @@ categories: [course]
 Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
 Mesa Vista Hall, 1077    
 Office Hours: M 10-11; T 2-4    
-Syllabus online at [http://fredgibbs.net/introduction-to-digital-history](http://fredgibbs.net/introduction-to-digital-history/)
 
 ### Course Description
 This course explores the theoretical and methodological issues now facing humanistic study in a digital age. It presents a broad survey of how powerful new research methodologies now allow historians (broadly construed, including literary historians) to ask and answer fundamentally different kinds of questions. It explores topics such as data visualization, geo-spatial analysis, and text mining. On the whole, it aims to provide conceptual fluency on topics such as the uses of new media to present scholarly research, the implications of copyright law on access to historical data and scholarship, the changing role of museums and libraries, and the politics of authority and expertise in knowledge networks. The course also reflects on the changing nature of the humanities (such as their possible convergence toward the social sciences). This course challenges the typical conceptions of how one ought to produce and consume history as well as provides guidelines for effectively bridging and combining humanities and technology skills that will *make you more employable*.
