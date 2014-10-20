@@ -382,10 +382,6 @@ Andrew J. Torget & Jon Christensen
 
 Dmitry Paranyushkin    
 [Identifying the Pathways for Meaning Circulation using Text Network Analysis](http://noduslabs.com/research/pathways-meaning-circulation-text-network-analysis/).
-</div>
-
-<div class="right_box">
-#### No Class
 
 Explore visualizations:    
 [Viewshare](http://viewshare.org)    
@@ -393,7 +389,10 @@ Explore visualizations:
 [Gephi](http://gephi.org)    
 [Visualeyes](http://www.viseyes.org/)    
 [Visual Complexity](http://visualcomplexity.com)
+</div>
 
+<div class="right_box">
+#### No Class
 Explore videos:    
 
 Michael Wesch    
@@ -403,9 +402,18 @@ Aaron Titus
 [How the Internet Works](https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be)
 
 Fred Gibbs        
-[A Brief History of Toxicology](https://vimeo.com/94459223) (no need to watch the whole thing)
+[A Brief History of Toxicology](https://vimeo.com/94459223) (please don't watch the whole thing!)
 
-More Readings / Tutorials on creating videos, voice-overs, etc.
+Random Course Trailers    
+[Medical Ethics and History](https://www.youtube.com/watch?v=nPbis0Hggsg)    
+[Making the Middle Ages](https://www.youtube.com/watch?v=YlDNzE0xJ1w)
+
+Advice    
+[How to make an EPIC movie trailer](https://www.youtube.com/watch?v=NHL-tJgl3Gw) (can you glean the serious reason for watching this?)
+
+Create a Research Trailer    
+If you're unfamiliar with movie editing software, consider Movie Maker (Windows) or iMovie (Mac), or a free trial of [Camtasia](http://www.techsmith.com/camtasia.html). 
+
 </div>
 </div>
 
