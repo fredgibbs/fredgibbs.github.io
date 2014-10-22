@@ -392,7 +392,7 @@ Explore visualizations:
 </div>
 
 <div class="right_box">
-#### No Class
+#### Research Trailers
 Explore videos:    
 
 Michael Wesch    
@@ -433,7 +433,7 @@ Hayden White
 
 <div class="right_box">
 #### No Class
-
+Work on your Videos and Portfolios!
 </div>
 </div>
 
@@ -466,8 +466,8 @@ Elissa Frankle
 </div>
 
 <div class="right_box">
-#### Elevator Movies
-Video Presentations
+#### No Class
+Work on your Videos and Portfolios!
 </div>
 
 </div>
@@ -480,7 +480,12 @@ Video Presentations
 ### Critiquing Digital Scholarship
 
 <div class="left_box">
-#### Criteria
+#### Elevator Movies
+Video Presentations
+</div>
+
+<div class="right_box">
+#### Surveying Digital Landscapes
 What are the fundamental criteria for critiquing digital history projects? How much does the traditional peer review model need to change to accommodate new types of historical work/projects?
 
 Paul Fyfe    
@@ -500,11 +505,8 @@ Journal of American History
 
 Todd Presner    
 [Evaluating Digital Scholarship](http://idhmc.tamu.edu/commentpress/digital-scholarship/); this also appears on pp. 128-9 of *Digital_Humanities*.
-</div>
 
-<div class="right_box">
-#### Presenting Digital Projects
-Using the criteria discussed Present on the digital landscape in your field. What are relevant projects? What are opportunities for collaboration and innovation?
+Using the criteria discussed in the readings, make a 4 minute (MAX!) presentation on the digital landscape in your field. What are relevant digital projects? What are opportunities for collaboration and innovation? What is missing?
 </div>
 </div>
 
