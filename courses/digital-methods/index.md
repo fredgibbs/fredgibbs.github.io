@@ -9,6 +9,10 @@ css: digital-methods
 categories: [course]
 ---
 
+### Get Help
+Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
+Mesa Vista Hall, 1077    
+Office Hours: M 10-11; W 11-1; almost anytime by appointment    
 
 ### Course Description
 This course explores new theoretical and methodological issues now facing humanists working in a digital age, as well as old issues that have taken a new form. Combining provocative readings from the emergent field "Digital Humanities" with gentle technical tutorials that improve digital skills, we’ll talk about and experiment with powerful new research methodologies that now allow humanists to ask and answer fundamentally different kinds of questions and use new media to communicate about them in innovative ways. With an emphasis on collaborative teaching and learning, we'll explore topics such as digital workflows for organizing, accessing, and analyzing sources, data visualization, geospatial analysis, text mining, web publishing, and a bit of programming.

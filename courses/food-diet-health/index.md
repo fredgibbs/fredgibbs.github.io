@@ -8,6 +8,12 @@ css: food-diet-health
 categories: [course]
 ---
 
+### Get Help
+Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
+Mesa Vista Hall, 1077    
+Office Hours: M 10-11; W 11-1; almost anytime by appointment    
+
+
 ## Course Description
 
 What constitutes healthy food? A healthy diet? A healthy body? Needless to say, dietary regimens to restore or maintain health---as well as what it means to be healthy---have remained preeminent questions throughout Western medical history. Yet even today, medical understandings of diet and official dietary advice seems to change almost daily. This course explores how various cultural, scientific, and medical values have continually shaped our relationship to food, health, and diet from the "discovery" of America to the present.
