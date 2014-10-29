@@ -1,8 +1,10 @@
 ---
-layout: course 
-title: History of Early Medicine | HIST 300-009 | Fall 2013
+layout: course
+title: History of Early Medicine
+term: Fall 2013
+number: HIST 300-009
 date: 2013-10-28 00:00:01
-category: course 
+category: course
 ---
 
 Fred Gibbs ("fwgibbs@unm.edu":mailto:fwgibbs@unm.edu)

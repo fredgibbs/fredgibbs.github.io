@@ -1,7 +1,9 @@
---- 
+---
 layout: course 
-title: Digital History - History 666-002 - Fall 2013
-date: 2013-10-29 00:00:01 
+title: Digital History
+number: HIST 300-002
+term: Fall 2013
+date: 2013-10-29 00:00:01
 category: course
 ---
 

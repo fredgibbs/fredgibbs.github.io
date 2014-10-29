@@ -1,10 +1,9 @@
---- 
+---
 layout: course 
 title: The Scientific Revolution
-date: 2012-04-06 23:56:31 
-categories: [course] 
+date: 2012-04-06 23:56:31
+category: course
 ---
-
 
 ### Course Description
 This course surveys the so-called Scientific Revolution (SR), the supposedly fundamental shift in the way people began to investigate and understand nature between roughly 1550-1750--a period that is still described as the "birth of modern science." But what is the nature of a scientific revolution? What social and cultural forces encouraged a new kind of "science" during the SR? To what extent was this "new" inquiry into nature a real break from the past? How and why have historians constructed and revised narratives about the SR? With a thematic rather than chronological approach, we'll trace how ways of thinking, methods of investigation, disciplinary boundaries, roles of institutions, social structures of knowledge production, and the relationship between science and religion did and did not change during the SR. We'll also consider how and why scholarship in the last 30 years has considerably altered both the standard story of the SR and the traditional views of the iconic figures like Copernicus, Galileo, and Newton.
@@ -29,8 +28,6 @@ Ultimately, you'll be graded on your ability (as far as i can perceive it) to ab
 *   Book reviews and presentations (20%)
 *   Longer topic essays (20%)
 *   Final project (20%)
-
-* * *
 
 ### SCHEDULE OF READINGS
 
@@ -66,7 +63,6 @@ A collection of many _Isis_ articles available (free) through JSTOR have been co
 * Thomas Kuhn, _Structure of Scientific Revolutions_.
 * Robert Westman, "The Melancthon Circle, Rheticus, and the Wittenberg Interpretation of the Copernican Theory." _Isis_ 66 (1975): 164-93. [DEAR]
 
-<div class="reading_sep">--</div>
 * Robert Westman, "Two Cultures or One? A Second Look at Kuhn's The Copernican Revolution." _Isis_ 85(1994): 79-115. [JSTOR]
 * Ernan McMullin, "The Conception of science in the Scientific Revolution," in _Reappraisals_, 27-92.
 
@@ -77,7 +73,7 @@ A collection of many _Isis_ articles available (free) through JSTOR have been co
 * Lux and Cook, "Closed Circles or Open Networks?: Communicating at a Distance During the Scientific Revolution," _History of Science_ 36 (1998):179-211.
 * John Gascoigne, "A reappraisal of the role of the universities in the Scientific Revolution", _Reappraisals, _207-260_._
 
-<div class="reading_sep">--</div>
+
 * Harris, "Long-Distance Corporations, Big Sciences, and the Geography of Knowledge," 269-304.
 * William Eamon, "From the secrets of nature to public knowledge" in _Reappraisals_, 333-366.
 
@@ -85,7 +81,7 @@ A collection of many _Isis_ articles available (free) through JSTOR have been co
 ## Museums and Natural History
 * Paula Findlen, _Possessing Nature_.
 
-<div class="reading_sep">--</div>
+
 *   Bill Ashworth, "Natural History and the Emblematic World View" in _Reappraisals_, 303-332.
 *   Michael Hunter, "Between Cabinet of Curiosities and Research Collection: The History of the Royal Society's 'Repository'," in _The Origins of Museums: the Cabinet of Curiosities in Sixteenth- and Seventeenth-century Europe_, 123-155. (props for finding this one)
 
@@ -96,7 +92,7 @@ A collection of many _Isis_ articles available (free) through JSTOR have been co
 *   Mario Biagioli, "Playing with the Evidence," _ESM_ 1.1(1996): 70-105.
 *   Michael Shank, "How Shall We Practice History? The Case of Mario Biagioli's Galileo Courtier," _ESM_ 1.1(1996): 106-150.
 
-<div class="reading_sep">--</div>
+
 * Richard S. Westfall, "Science and Patronage: Galileo and the Telescope." _Isis_ 76(1985): 11-30. [DEAR]
 * William Eamon, "Court, Academy, and Printing House: Patronage and Scientific Careers in Late Renaissance Italy," in _Patronage and Institutions: Science, Technology, and Medicine at the European Court, 1500-1750,_ ed. by Bruce T. Moran (Rochester: Boydell Press, 1991), 25-50.
 
@@ -106,7 +102,7 @@ A collection of many _Isis_ articles available (free) through JSTOR have been co
 * Peter Dear, "Miracles, Experiments, and the Ordinary Course of Nature," _Isis_ 81(1990): 663-683. [JSTOR]
 * Owen Hannaway, "Laboratory Design and the Aim of Science: Andreas Libavius versus Tycho Brahe." _Isis_ 77(1986): 585-610. [DEAR]
 
-<div class="reading_sep">--</div>
+
 * Steven Shapin, "House of Experiment in Seventeenth-Century England," _Isis_ 79(1988): 373-404. [DEAR]
 * Schuster and Yeo, Introduction to _The Politics and Rhetoric of Scientific Method,_ ix-xxvi.
 * Peter Dear, "Totius in verba: Rhetoric and Authority in the Early Royal Society." _Isis _76(1985): 145-161. [DEAR]
@@ -117,7 +113,7 @@ A collection of many _Isis_ articles available (free) through JSTOR have been co
 * William Newman, "The Place of Alchemy in the Current Literature on Experiment," 9-33.
 * William Newman, _Atoms and Alchemy_.
 
-<div class="reading_sep">--</div>
+
 * Jan V. Golinski, "Chemistry in the Scientific Revolution," in _Reappraisals_, 367-396
 * Lawrence Principe, "The alchemies of Robery Boyle and Isaac Newton..." in _Rethinking_, 201-220.
 * Gary Deason, "Reformation Theology and the Mechanistic Conception of Nature", in _God and Nature_, 167-191.
@@ -137,7 +133,7 @@ A collection of many _Isis_ articles available (free) through JSTOR have been co
 ## Politics and Science
 * Richard Blackwell, _Galileo, Bellarmine, and the Bible_.
 
-<div class="reading_sep">--</div>
+
 * John Heilbron, "Science in the Church," _Science in Context_ 3.1(1989): 9-28.
 * William B. Ashworth, Jr. "Catholicism and Early Modern Science" in _God and Nature_, 136-166.
 * Richard Westfall, "The rise of science and decline of orthodox Christianity," in _God and Nature_, 218-237.
@@ -150,7 +146,7 @@ A collection of many _Isis_ articles available (free) through JSTOR have been co
 * Keith Hutchinson, "What happened to occult qualities in the Scientific Revolution?" _Isis_ 73 (1982): 233-253. [DEAR]
 * Stuart Clark, "The scientific status of demonology" in Brian Vickers, ed. _Occult and Scientific Mentalities in the Renaissance_. (Cambridge: Cambridge University Press, 1984) 351-74.
 
-<div class="reading_sep">--</div>
+
 * Brian Copenhaver, "Natural magic, hermeticism, and occultism in early modern science." in _Reappraisals, 261-301.
 * William B. Ashworth, "Light of Reason, Light of Nature," _Science in Context_ 3(1989): 89-107.
 
@@ -161,7 +157,7 @@ A collection of many _Isis_ articles available (free) through JSTOR have been co
 * Martha Baldwin, "The Snakestone Experiments: An Early Modern Medical Debate,"" _Isis_ 86 (1995): 394-418. [JSTOR]
 * Jerome J. Bylebyl, "Disputation and description in the renaissance pulse controversy," in _The Medical Renaissance of the Sixteenth Century_, 223-245.
 
-<div class="reading_sep">--</div>
+
 *   Harold J. Cook, "Physick and Natural History in Seventeenth-Century England," 63-80.
 *   Harold J. Cook, "Physicians and Natural History," in N. Jardine, J.A. Secord and E. C. Spary, eds., _Cultures of Natural History_ (Cambridge Univ. Press, 1996), 91-105. (not really available: QH15 C85 1996)
 
@@ -173,7 +169,7 @@ A collection of many _Isis_ articles available (free) through JSTOR have been co
 * Steven Shapin, "Of Gods and Kings: Natural Philosophy and Politics in the Leibniz-Clarke Disputes," _Isis_ 72.2 (1981): 187-215.
 * James E. Force, "The Nature of Newton's 'Holy Alliance' between Science and Religion...", in _Rethinking_, 247-270.
 
-<div class="reading_sep">--</div>
+
 * Andrew Cunningham, "How the _Principia_ Got its Name: Or, Taking Natural Philosophy Seriously", _History of Science_ 29(1992?): 377-392. 
 * John Brooke, "Divine Activity in a Mechanical Universe,"" in Brooke, _Science and Religion_, 117-151.
 
@@ -183,7 +179,7 @@ final project draft.
 ## Broader Perspectives
 * Toby Huff, _The Rise of Early Modern Science: Islam, China and the West_.
 
-<div class="reading_sep">--</div>
+
 * Londa Schiebinger, "Maria Winkelmann at the Berlin Academy: A Turning Point for Women in Science" _Isis_ 78(1987): 174-200. [DEAR]
 * Nathan Sivin, "Why the Scientific Revolution did not take place in China -- or didn't it?," _The Environmentalist 5.1(1985): 39-50.
 * Mary Terrall, "Gendered Spaces, Gendered Audiences: Inside and Outside the Paris Academy of Sciences," _Configurations_ 2(1995): 207-232.
@@ -196,7 +192,7 @@ final project draft.
 * Roy Porter, "The scientific revolution: a spoke in the wheel?" in _Revolution in History_, 290-316.
 * Andrew Cunningham and Perry Williams, "De-centering the 'big picture'..." _BJHS_ 26(1993): 407-32. [JSTOR]
 
-<div class="reading_sep">--</div>
+
 * Gary Hatfield, "Was the Scientific Revolution really a revolution in science?" in _Tradition, Transmission, Transformation_, ed. Ragep &amp; Ragep (Leiden: Brill, 1996): 489-525.
 * Andrew Cunningham, "Getting the Game Right: Some Plain Words on the Identity and Invention of Science," _Studies in History and Philosophy of Science_ 19(1988): 365-89.
 * Peter Dear, "What is the History of Science the History Of?" _Isis_ 96(2005): 390-406. [JSTOR]

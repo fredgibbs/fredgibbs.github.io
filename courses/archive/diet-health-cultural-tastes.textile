@@ -1,8 +1,9 @@
---- 
+---
 layout: course 
 title: Diet, Health, and Cultural Tastes
-date: 2012-04-06 23:56:31 
-categories: [course] 
+date: 2012-04-06 23:56:31
+term: Spring 2013 
+category: course 
 ---
 
 Diet and health have always gone hand in hand, but preferred dietary regimens to restore or maintain health (along with definitions of a healthy body) have undergone constant and sometimes radical transformations. This course explores how Western medical theories and cultural contexts have come together to shape dietary fashion from antiquity to the present (or, as some would say, from Athens to Atkins).
