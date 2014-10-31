@@ -1,3 +1,10 @@
+--- 
+layout: post 
+title: Creating a Simple Slideshow Voiceover
+date: 2014-10-30 22:14:00
+categories: [post]
+---
+
 In a much-needed effort to encourage and promote facility of new media among its attendees, the most recent American Association for the History of Medicine annual meeting (Chicago, 2014) held a screening of video shorts (complete with an old-timey popcorn machine). Having wanted to play around with video editing for some time, I could hardly resist this legitimization of my procrastination.
 
 In the conversation that followed the screenings of selected videos (the room was packed and lined with people standing along the sides and back), it was clear that one reason scholars hadn’t embraced the video was that it was too foreign, too technical, and too outside the boundaries of the historical profession. One mentioned that writing is better because it has sophistication and nuance. The technology was simply too time consuming, the payoff too uncertain.
