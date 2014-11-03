@@ -216,6 +216,8 @@ Stephanie Strom, “[Major Grocer to Label Foods With Gene-Modified Content](htt
 #### WED
 Alison Shaw, "‘It Just Goes against the Grain’: Public Understandings of Genetically Modified (GM) Food in the UK.” *Public Understanding of Science* 11.3 (2002): 273-291.
 
+**Second 1-page Critiques Due**
+
 #### FRI
 No Class!
 
@@ -267,3 +269,12 @@ group4, group5, group6
 
 #### FRI
 Conclusions, Evaluations
+
+
+<a id="17"/>
+
+### Third and Final Critiques
+
+**2 pages!**
+
+**Due DECEMBER 10th by 5pm (day of scheduled final exam)**
