@@ -480,11 +480,6 @@ Work on your Videos and Portfolios!
 ### Critiquing Digital Scholarship
 
 <div class="left_box">
-#### Elevator Movies
-Video Presentations
-</div>
-
-<div class="right_box">
 #### Surveying Digital Landscapes
 What are the fundamental criteria for critiquing digital history projects? How much does the traditional peer review model need to change to accommodate new types of historical work/projects?
 
@@ -508,6 +503,12 @@ Todd Presner
 
 Using the criteria discussed in the readings, make a 4 minute (MAX!) presentation on the digital landscape in your field. What are relevant digital projects? What are opportunities for collaboration and innovation? What is missing?
 </div>
+
+<div class="right_box">
+#### Elevator Movies
+Video Presentations
+</div>
+
 </div>
 
 
