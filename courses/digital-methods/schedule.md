@@ -501,7 +501,7 @@ Journal of American History
 Todd Presner    
 [Evaluating Digital Scholarship](http://idhmc.tamu.edu/commentpress/digital-scholarship/); this also appears on pp. 128-9 of *Digital_Humanities*.
 
-Using the criteria discussed in the readings, make a 4 minute (MAX!) presentation on the digital landscape in your field. What are relevant digital projects? What are opportunities for collaboration and innovation? What is missing?
+Using the criteria discussed in the readings, be prepared to describe digital landscape in your field. What are relevant digital projects? What are opportunities for collaboration and innovation? What is missing?
 </div>
 
 <div class="right_box">
