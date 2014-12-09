@@ -33,6 +33,7 @@ _Carleton College_ (1998)
 
 h2. Publications
 
+* Manuscript under review: _Poison, Medicine, and Disease: Late Medieval and Early Modern Toxicology_.
 * "Poisonous Properties, Bodies, and Forms in the Fifteenth Century," _Preternature_ 2.1 (2013): 19-46.
 * "Riding the Bicycle of Kuhn's _Structure_," _Historical Studies in the Natural Sciences_ 42.5 (2012): 510-513.
 * "The Historical Value of Ephemeral Discussion of Science on the Web" in _Science &#64; Risk_, a report from the Library of Congress National Digital Information Infrastructure and Preservation Program ["PDF":http://www.digitalpreservation.gov/meetings/documents/othermeetings/science-at-risk-NDIIPP-report-nov-2012.pdf]
@@ -54,7 +55,15 @@ h2. Reviews
 
 h2. Presentations and Participations
 
+* Workshop Organizer: Digital and Computational History of Science
+** History of Science Society (November 2014)
+* Digital Interfaces: Data, Design, Geography, and the Humanities 
+** Southwest American Association of Geographers (October 2014)
+* NEH Summer Institute Instructor on Text Mining
+** NEH Summer Institute: Doing Digial History (August 2014)
 * New Media and the Future of Scholarly Societies
+** American Association for the History of Medicine (May 2014)
+* Selected Presenter at Video Short Screening: "A Brief History of Toxicology":https://vimeo.com/94459223
 ** American Association for the History of Medicine (May 2014)
 * Building a Cyberinfrastructure for the Humanities and Beyond
 ** Cyberinfrastructure Day at University of New Mexico (April 2014)
@@ -62,7 +71,7 @@ h2. Presentations and Participations
 ** University of Houston (Feb 2014)
 * Poison, Putrefaction, and Ontology of Disease in the Sixteenth Century
 ** Johns Hopkins University (Nov 2013)
-* Speaking in Code Workshop
+* Speaking in Code Workshop Participant
 ** Scholars' Lab @ University of Virginia (November 2013)
 * Document Similarity with R
 ** THATCamp @ RRCHNM (June 2013)
@@ -129,6 +138,21 @@ h2. Presentations and Participations
 * Plague, Pestilence and Disease
 ** Society for the Social History of Medicine Post-graduate conference (Jan 2006)
 
+
+h2. Recent Courses
+
+* "Digital Methods for the Humanities":../courses/digital-methods
+* "Food, Diet, and Health":../courses/food-diet-health
+* "Introduction to Digital History and Digital Humanities":../courses/archive/introduction-to-digital-history.html
+* "Early History of Western Medicine":../courses/history-of-early-medicine.html 
+* "Medieval Science and Medicine":../courses/archive/medieval-science-medicine.html
+* "The Scientific Revolution":../courses/archive/scientific-revolution.html
+
+h2. Ongoing Projects
+
+* General Editor, "_Programming Historian_":http://programminghistorian.org
+
+
 h2. Previous Digital Projects
 
 Below I've described my role on some projects. For more general project descriptions, including descriptions of ongoing projects, please see "fredgibbs.net/projects":http://fredgibbs.net/projects.
@@ -158,14 +182,6 @@ h3. Digging Into Data: Criminal Intent
 h2. Review Work
 
 Austrian Science Fund, Digital Humanities Quarterly (DHQ), Digital Humanities Conference, Humanities in the European Research Area (HERA), MIT Press, Pearson, National Endowment for the Humanities (NEH), Social Sciences and Humanities Research Council of Canada (SSHRC)
-
-h2. Recent Courses
-
-* "Introduction to Digital History and the Digital Humanities":../digital-methods
-* "Diet, Health, and Cultural Tastes":../food-diet-health
-* "Medieval Science and Medicine":../medieval-science-medicine
-* "Early History of Western Medicine":../history-of-early-medicine 
-* "The Scientific Revolution":../scientific-revolution
 
 
 h2. Fellowships and Awards
