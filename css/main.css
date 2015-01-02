@@ -431,6 +431,40 @@ blockquote p {
   display:block;
 }
 
+figure img {
+  max-width:40em;
+  padding:0;
+}
+
+figure img.icon {
+  margin:.2em .5em .3em 0;
+  width: 50px;
+  float:left;
+}
+
+figure a {
+  text-decoration: none;
+  padding:0;
+  border:none;
+}
+
+figcaption {
+  font-size: 80%;
+  text-align: right;
+  font-family: 'Oxygen', sans-serif;
+  display:block;
+  margin:-2.2em 2.5em 1em 0;
+}
+
+figcaption.raw {
+  font-size: 80%;
+  text-align: right;
+  font-family: 'Oxygen', sans-serif;
+  display:block;
+  margin:.2em .5em 1em 0;
+}
+
+
 /*****************************************************************************/
 /*
 /* Publications
