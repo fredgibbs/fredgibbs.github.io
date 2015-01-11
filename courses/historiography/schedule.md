@@ -3,12 +3,12 @@ layout: course2015
 title: "Historiography"
 number: HIST 491-001
 term: Spring 2015
-date: 2015-01-06 00:00:00
+date: 2015-01-12 00:00:00
 ---
 
 Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
 Mesa Vista Hall, 1077    
-Office Hours: M 10-11; W 11-1; almost anytime by appointment    
+Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment    
 
 -----
 
@@ -59,11 +59,11 @@ Office Hours: M 10-11; W 11-1; almost anytime by appointment
 8: Burdick, et al., _Digital\_Humanities_, 61-135.
 
 # PostPostModern History
-13: Guldi and Armitage, _History Manifesto_  
-15: Guldi and Armitage, _History Manifesto_  
+13: Guldi and Armitage, _History Manifesto_, 1-60.  
+15: Guldi and Armitage, _History Manifesto_, 61-125.  
 
-20: Guldi and Armitage, _History Manifesto_  
-22: Discussion: The Uses of History
+20: Discussion: The Uses of History  
+22: Catch-up
 
 27: video presentations  
 29: video presentations
