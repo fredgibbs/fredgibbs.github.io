@@ -3,7 +3,7 @@ layout: course2015
 title: "Metaphor of Plague"
 number: HIST 300-001
 term: Spring 2015
-date: 2014-04-16 00:00:00
+date: 2015-01-12 00:00:00
 ---
 
 Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
@@ -29,6 +29,7 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 
 # Black Death
 2: Horrox, "Introduction and Narratives," 3-34.  
+2: DUE: Essay on examples of metaphor in disease.  
 4: Horrox, "Religious Explanations," 95-117.  
 6: NO CLASS
 
@@ -42,15 +43,16 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 18: Guy Poirier, "A Contagion at the Source of Discourse on Sexualities: Syphilis during the French Renaissance," 157-174.  
 20: NO CLASS
 
-# Modern Syphilis
-23: Megan Vaughan, "Syphilis in Colonial East and Central Africa: The Social Construction of an Epidemic," 269-302.  
-25: Allan M. Brandt, "The syphilis epidemic and its relation to AIDS," 375-380.  
-27: another modern example?
-
 # Early Modern Plague
-2: Colin Jones, “Plague and Its Metaphors in Early Modern France,” 97–112.  
-4: Jones, "Plague and Its Metaphors," 112-127.  
-6: Roger D. Lund, “Infectious Wit: Metaphor, Atheism and the Plague in Eighteenth-Century London,” 45–64.
+23: Colin Jones, “Plague and Its Metaphors in Early Modern France,” 97–112.  
+25: Jones, "Plague and Its Metaphors," 112-127.  
+27: Roger D. Lund, “Infectious Wit: Metaphor, Atheism and the Plague in Eighteenth-Century London,” 45–64.
+27: DUE: Essay on premoden disease
+
+# Modern Syphilis
+2: Megan Vaughan, "Syphilis in Colonial East and Central Africa: The Social Construction of an Epidemic," 269-302.  
+4: Allan M. Brandt, "The syphilis epidemic and its relation to AIDS," 375-380.  
+6: John Parascandola, “Quarantining Women: Venereal Disease Rapid Treatment Centers in World War II America,” 431–59.
 
 ## SPRING BREAK: MAR 8-15
 
@@ -62,6 +64,7 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 23: Andrew Cunningham, “Transforming Plague,” 209-244.   
 25: Elisabeth Carniel, “Plague Today,” 115–22.  
 27: Daniel Antoine, “The Archaeology of ‘Plague,’” 101–14; Stephanie Haensch et al., “Distinct Clones of Yersinia Pestis Caused the Black Death,” 1-8.  
+27: DUE: Essay on Historical Archeology
 
 # The White Plague (TB)
 30: Christian W. McMillen, “‘The Red Man and the White Plague’: Rethinking Race, Tuberculosis, and American Indians, Ca. 1890–1950,” 608–45.  
@@ -69,9 +72,9 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 3: [Return of the ‘White Plague’: Fears over the Rise of ‘Incurable’ TB](http://www.cnn.com/2014/05/28/health/return-white-plague-incurable-tb/index.html).  
 
 # 1918 Influenza
-6: Visit [http://www.loc.gov/rr/news/topics/pandemic.html](). Follow their search strategies and report on how the flu pandemic is discussed.  
-8: historical analysis  
-10: Jeffery K. Taubenberger and David M. Morens, “1918 Influenza: The Mother of All Pandemics,” 69–79.
+6: Jeffery K. Taubenberger and David M. Morens, “1918 Influenza: The Mother of All Pandemics,” 69–79.  
+8: Visit [http://www.loc.gov/rr/news/topics/pandemic.html](). Follow their search strategies and report on how the flu pandemic is discussed.  
+10: DUE: essay on New Mexico newspapers and influenza.
 
 # AIDS
 13: Susan Sontag, _Illness as Metaphor_, 3-49.  
@@ -80,7 +83,7 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 
 # Communicating Plague
 20: Susan Sontag, _AIDS and Its Metaphors_, 93-183.  
-22: Briggs, "Pressing Plagues: Mediated Communicability of Epidemics," 39-59.  
+22: Charles L. Briggs, "Pressing Plagues: Mediated Communicability of Epidemics," 39-59.  
 24: Margaret Humphreys, "No Safe Place: Disease and Panic in American History," 845-856.  
 
 # Modern Plagues
@@ -89,6 +92,6 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 1: Jennifer Cooke, “Plague, Zombies and the Hypnotic Relation: Romero and After,” 163–84.
 
 # Moving Forward
-4: [The Obesity Plague and Antibiotics](http://www.huffingtonpost.com/bill-chameides/the-obesity-plague-and-an_b_3875904.html?view=print&comm_ref=false)  
-6: FOR CLASS: Google for Obesity and Plague. Analyze 5 different kinds of sites.  
+4: Group Presentations  
+6: [The Obesity Plague and Antibiotics](http://www.huffingtonpost.com/bill-chameides/the-obesity-plague-and-an_b_3875904.html?view=print&comm_ref=false)  
 8: Conclusions and Evaluations
