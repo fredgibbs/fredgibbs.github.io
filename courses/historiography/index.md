@@ -67,7 +67,7 @@ Note that there is a LOT of reading for this course. **Like a LOT a LOT.** This 
 
 - Bloch, Marc. _The Historian’s Craft_ (1964). 
 
-- Burdick, et al. _Digital\_Humanities_ (2012).
+- Burdick, et al. _Digital Humanities_ (2012).
 
 - Carr, Edward Hallett. _What Is History?_ (revised ed. 2001).
 
