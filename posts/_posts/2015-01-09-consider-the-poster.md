@@ -26,7 +26,7 @@ First, though, **I want to dispel the most common (and in my opinion most ridicu
 
 The fundamental flaw in this rationale is that it assumes that posters should be or need to be equivalent to texts or the papers that we would present to our audience. Yet this erroneous assumption completely misses the point of posters. They are not a conference paper/presentation surrogate; the poster board does not merely impose physical limitations on your genius that would otherwise shine during your presentation.
 
-Rather, posters are intended to visually (not necessarily with images; hello typography!) draw attention to your work so that you can discuss it with interested parties. Obviously you can do much with design that you cannot do with words and some images confined to one particular session. People can always go elsewhere to read your nuanced arguments. Yet the design challenges the poster presents forces you to rethink categories and priorities that are easily invisible otherwise.
+Rather, posters are intended to visually (not necessarily with images; hello typography!) draw attention to your work so that you can discuss it with interested parties. Obviously you can do much with design that you cannot do with words and some images confined to one particular session. People can always go elsewhere to read your nuanced arguments. **Yet the design challenges the poster presents forces you to rethink categories and priorities that are easily invisible otherwise.**
 
 The quality and effectiveness of the final poster matters. But there is also an argument to be made that **the process is more valuable than the product**, as I attempt to explain below.
 
