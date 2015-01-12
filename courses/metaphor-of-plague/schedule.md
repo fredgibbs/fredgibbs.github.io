@@ -46,7 +46,7 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 # Early Modern Plague
 23: Colin Jones, “Plague and Its Metaphors in Early Modern France,” 97–112.  
 25: Jones, "Plague and Its Metaphors," 112-127.  
-27: Roger D. Lund, “Infectious Wit: Metaphor, Atheism and the Plague in Eighteenth-Century London,” 45–64.
+27: Roger D. Lund, “Infectious Wit: Metaphor, Atheism and the Plague in Eighteenth-Century London,” 45–64.  
 27: DUE: Essay on premoden disease
 
 # Modern Syphilis

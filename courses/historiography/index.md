@@ -14,7 +14,7 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 
 ## Course Description
 
-This course introduces some of the most prominent and influential approaches that historians have taken in crafting their interpretations of the past. It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history (ways of considering place, culture, labor, communities, identity, etc). The course begins with a survey of the historical mythology of the ancient world and examines various constructions of history throughout the medieval and early modern periods, but focuses on developments after the nineteenth-century professionalization of history.
+This course introduces some of the most prominent and influential approaches that historians have taken in crafting their interpretations of the past. It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history (ways of considering place, culture, labor, communities, identity, etc). The course focuses on developments after the mid nineteenth-century professionalization of history.
 
 
 ## Student Learning Outcomes
@@ -54,11 +54,11 @@ Each student will belong to one of these groups for each class and will continua
 4. **Examiners:** The examiners will prepare questions that will help guide discussion for that class. Examiners should draw from the Commenters and incorporate on-the-fly as much as possible from the Summarizers. Of course I will help guide discussions each day, but I expect the examiners to do the bulk of the work.
 
 
-For each of these groups, I do not expect you will be good at any of these at the beginning, but I expect you'll improve over the semester. Your grade is based on as much on improvement as on the quality of assignments themselves. There are no other written assignments during the semester. (40%)
+- For each of these groups, I do not expect you will be good at any of these at the beginning, but I expect you'll improve over the semester. Your grade is based on as much on improvement as on the quality of assignments themselves. There are no other written assignments during the semester. (40%)
 
-General participation in discussions (beyond the group responsibilities) (40%)
+- General participation in discussions (beyond the group responsibilities) (40%)
 
-As a final project each student will produce a ~5 minute video on the historiography of a certain topic of thier choice (ideally something you've written on before, but you can pick anything you're interested in). (20%)
+- As a final project each student will produce a ~5 minute video on the historiography of a certain topic of thier choice (ideally something you've written on before, but you can pick anything you're interested in). (20%)
 
 Note that there is a LOT of reading for this course. **Like a LOT a LOT.** This is by design, as a capstone course for the history department. Be honest with yourself about whether you have time to fit this course into your busy schedules. One of the goals of the course is that you will learn to read and absorb information more quickly than you can already. That skill is hard-earned, and only comes with practice.
 

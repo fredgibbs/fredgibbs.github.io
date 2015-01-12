@@ -44,9 +44,9 @@ This course explores the metaphor of plague as described in various historical s
 
 * If you run into personal problems during the semester that make school difficult for you, please talk to me about what adjustments we can make to help you succeed in the course.
 
-* You will produce 3 1-page reading guides. These assignments will show that you're able to apply the course discussion and activities in productive ways. If you are not pleased with your grade, you can revise and resubmit them after talking with me first. (30% total; 10% each)
+* You will produce 3 2-page essays throughout the semester that ask you to put the readings in conversation with each other. If you are not pleased with your grade, you can revise and resubmit them after talking with me first. (30% total; 10% each)
 
-* Your final "exam" will consist of contributing to a small team project that compares two different "plagues." All groups will present their research during the last week of class. You will also compose (and be individually graded on) a ~500-word essay that explains a) your contribution to the team; b) an assessment of others' contributions; c) a summary of what you learned in the course and how you applied that to the project. (20%)
+* Your final "exam" will consist of contributing to a small team project that compares two different "plagues." All groups will present their research during the last week of class. You will also compose (and be individually graded on) a ~500-word essay that explains a) your contribution to the team; b) an honest assessment of others' contributions; c) a summary of what you learned in the course and how you applied that to the project. (20%)
 
 Note that there is a LOT of reading for this course. **Like a LOT a LOT**, especially for a 300-level course. One of the goals of the course is that you will learn to read and absorb information more quickly than you can already. That skill is hard-earned, and comes only with practice. Be honest with yourself about whether you have time to fit this elective course into your busy schedules.
 
