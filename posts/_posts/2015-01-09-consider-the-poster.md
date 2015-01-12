@@ -50,7 +50,7 @@ I won't here belabor the value of physical over virtual conversation; that's har
 
 As valuable as the poster-creation process can be, the product of course matters as well. A good poster serves as a inspiring and intriguing visualization of your abstract (research project) or mission (community resource). As digital versions can be put online and referenced after the fact, the poster far outlives the individual poster session where it makes its debut. 
 
-In this sense, **posters provide accessible points of entry to your work than even the best prose cannot.** It serves wonderfully as a hook—not the only or final form of your research—that can motivate others to dive into your brilliant scholarship in its more traditional forms available elsewhere.
+In this sense, **posters provide accessible points of entry to your work than even the best prose cannot.** It serves wonderfully as a hook—not the only or final form of your research—that can motivate others to dive into your brilliant scholarship in its more traditional forms available elsewhere. This is, of course, as true for video shorts or other media as well. In a way, however, the poster provides enough constraints and conventions that it can be less intimidating than starting up your video editor for the first time.
 
 
 ## Going Forward
@@ -60,4 +60,4 @@ Two suggestions I hope AHA will consider for future meetings:
 
 2) Allow the each poster session to overlap two regularly-slotted sessions, with a poster group change-out during the middle of a session. This is more of a session commitment for poster presenters (though I'd wager anyone who takes time to make a poster would gladly miss a few extra papers to show it off), but greatly increases the visibility of posters, and ensures that the prime traffic times correspond to fully-assembled poster displays.
 
-I strongly urge other historians to (re)consider the poster. Of course it can help convey the essence of your research to a big crowd. More importantly, though, it facilitates a process of discovery that forces us out of our habits of thinking forged by textual scholarship. And in the end, you have a sketch of your research that can entice a much broader audience to engage with your work.
+I strongly urge other historians to (re)consider the poster. Of course it can help convey the essence of your research to a big crowd. More importantly, though, **the poster facilitates a process of discovery that forces us out of our habits of thinking forged by textual scholarship.** And in the end, you have a sketch of your research that can entice a much broader audience to engage with your work.
