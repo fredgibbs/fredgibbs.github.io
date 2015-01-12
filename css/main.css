@@ -517,7 +517,18 @@ font-size:85%;
 }
 
 
+#syllabus2015 {
+  font-family: 'Oxygen', sans-serif;
+  width:110%;
+}
 
+#syllabus2015 h2 {
+margin: 1em 0 1em 0;
+border-top:1px dotted gray;
+border-bottom:1px dotted gray;
+padding: .3em 0 .3em;
+color:#900;
+}
 /*****************************************************************************/
 /*
 /* CV
@@ -642,6 +653,29 @@ a {
 
 #accordion > *{display:block !important;}
 #accordion-schedule > *{display:block !important;}
+
+
+#syllabus2015 {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 12pt;
+  width:110%;
+}
+
+
+#syllabus2015 h1 {
+font-size: 150%;
+}
+
+#syllabus2015 h2 {
+margin: 1em 0 1em 0;
+border-top:1px dotted gray;
+border-bottom:1px dotted gray;
+padding: .3em 0 .3em;
+}
+
+#syllabus2015 p {
+ padding-bottom: .8em 
+}
 
 p, div, ul, li {
     font-weight: normal;
