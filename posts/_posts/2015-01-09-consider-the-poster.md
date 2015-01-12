@@ -10,7 +10,7 @@ At the AHA 2015 meeting in NYC, I had the opportunity to present a poster that f
 
 
 ## A New Perspective
-Although papers, sessions, and workshops reign supreme at AHA, the conference organizers have been most encouraging and welcoming of posters. They have, for instance, made excellent arguments for the advantages of [participating in the poster session](http://www.historians.org/annual-meeting/future-meetings/submit-a-proposal/poster-session-general-information) from a professionalization standpoint (it provides wide exposure; allows more interaction, etc), as well as provide resources for making a good poster.
+Although papers, sessions, and workshops reign supreme at AHA, the conference organizers have been most encouraging and welcoming of posters. They have, for instance, made excellent arguments for the advantages of [participating in the poster session](http://www.historians.org/annual-meeting/future-meetings/submit-a-proposal/poster-session-general-information) from a professionalization standpoint (it provides wide exposure; allows more interaction, etc), as well as provided quite helpful suggestions and resources for making a good poster.
 
 However, this otherwise helpful justification begins with what I consider a misguided suggestion: _"If your work lends itself to visual presentation-photographs, maps, material culture, or statistical evidence that can be presented graphically-think about proposing a poster."_ **This post explains why making a poster benefits a far broader range of projects than the AHA suggests, and why the process should be valued as much as the product.**
 
