@@ -36,7 +36,7 @@ This course introduces some of the most prominent and influential approaches tha
 
 * You cannot make up missed classes and I will not summarize them for you via email. Please DO NOT email me asking what you missed or how to make it up (feel free to ask your class colleagues for notes). Medical emergencies beyond your control are the one exception to the attendance policy, and you should let me know about these ASAP.
 
-* I consider it extremely rude to walk into class late, and it greatly aggrevates me. Flat tires, missed busses, failed alarms, traffic snarls, etc are not emergencies, they are simply failures in punctuality. Accidents happen, and I undertstand you might be late once or twice. But repeatedly being late is not only rude and disruptive, but will negatively impact your grade by a half to full letter grade. 
+* I consider it extremely rude and disruptive to walk into class late, and it greatly aggravates me. Flat tires, missed busses, failed alarms, or other appointments are not excuses, they are simply failures on your part to get here on time. There are no excuses, only priorities. Accidents happen, and I undertstand you might be (barely) late once or twice. Repeatedly being late will negatively impact your grade by a half to full letter grade.
 
 * If you run into personal problems during the semester that make school difficult for you, please talk to me about what adjustments we can make to help you succeed in the course.
 
