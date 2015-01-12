@@ -50,7 +50,7 @@ I won't here belabor the value of physical over virtual conversation; that's har
 
 As valuable as the poster-creation process can be, the product of course matters as well. A good poster serves as a inspiring and intriguing visualization of your abstract (research project) or mission (community resource). As digital versions can be put online and referenced after the fact, the poster far outlives the individual poster session where it makes its debut. 
 
-In this sense, posters provide accessible points of entry to your work than even the best prose cannot. It serves wonderfully as a hook—not the only or final form of your research—that can motivate others to dive into your brilliant scholarship in its more traditional forms available elsewhere.
+In this sense, **posters provide accessible points of entry to your work than even the best prose cannot.** It serves wonderfully as a hook—not the only or final form of your research—that can motivate others to dive into your brilliant scholarship in its more traditional forms available elsewhere.
 
 
 ## Going Forward
