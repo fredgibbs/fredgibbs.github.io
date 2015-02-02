@@ -29,7 +29,7 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 
 # Black Death
 2: Horrox, "Introduction and Narratives," 3-34.  
-2: DUE: Essay on examples of metaphor in disease.  
+4: DUE: Essay 1: Using the concepts and terminology in the Metaphors book, analyze how the other readings about disease and plague we've read so far talk about disease. What kinds of metaphors do they use? How does it matter? For further assignment details, consult the [Assignment Guidelines](assignment-guidelines.html).  
 4: Horrox, "Religious Explanations," 95-117.  
 6: NO CLASS
 
