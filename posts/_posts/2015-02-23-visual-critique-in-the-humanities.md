@@ -4,7 +4,7 @@ title: Visual Critique in the Humanities
 date: 2015-02-23 03:31:00
 ---
 
-[This is a slightly revised version of my AHA 2015 presentation, from the *Text Analysis, Visualization, and Historical Interpretation* Panel with [@MickiKaufman](https://twitter.com/mickikaufman) (who also adroitly organized it), [@ianmilligan1](https://twitter.com/ianmilligan1), [@ProfessMoravec](https://twitter.com/professmoravec), and chaired by [@jmcclurken](https://twitter.com/jmcclurken).
+[This is a slightly revised version of my AHA 2015 presentation, from the wonderfully fun and productive *Text Analysis, Visualization, and Historical Interpretation* panel with [@MickiKaufman](https://twitter.com/mickikaufman) (who also adroitly organized it), [@ianmilligan1](https://twitter.com/ianmilligan1), [@ProfessMoravec](https://twitter.com/professmoravec), and chaired by [@jmcclurken](https://twitter.com/jmcclurken).]
 
 
 ## Introduction 
