@@ -4,7 +4,8 @@ title: Visual Critique in the Humanities
 date: 2015-02-23 03:31:00
 ---
 
-[This is a slightly revised version of my AHA 2015 presentation]
+[This is a slightly revised version of my AHA 2015 presentation, from the *Text Analysis, Visualization, and Historical Interpretation* Panel with [@MickiKaufman](https://twitter.com/mickikaufman) (who also adroitly organized it), [@ianmilligan1](https://twitter.com/ianmilligan1), [@ProfessMoravec](https://twitter.com/professmoravec), and chaired by [@jmcclurken](https://twitter.com/jmcclurken).
+
 
 ## Introduction 
 Purveyors of digital humanities rhetoric have championed many approaches to scholarship that are often framed in opposition to a so-called traditional scholarship. Closed, static books and journals, for instance, get compared to the linked open web and participatory new media. Of course it could be debated *ad infinitum* if these are really new problems and the extent to which these so-called dichotomies are actually more potential than real.
