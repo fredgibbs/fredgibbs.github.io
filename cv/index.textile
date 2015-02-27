@@ -55,44 +55,75 @@ h2. Reviews
 
 h2. Presentations and Participations
 
+* Designing Scholarship
+** Histories of the Future Workshop @ Princeton University (Feb 2015)
+
+* Between Text, Argument, and Data: Interpreting New Visualizations in History 
+** American Historical Association (Jan 2015)
+
+* Poster Presenter for _The Programming Historian_ ("read more...":http://fredgibbs.net/posts/consider-the-poster)
+** American Historical Association (Jan 2015)
+
+* Workshop Instructor for Digital History Methods (intermediate GIS)
+** American Historical Association (Jan 2015)
+
 * Workshop Organizer: Digital and Computational History of Science
 ** History of Science Society (November 2014)
+
 * Digital Interfaces: Data, Design, Geography, and the Humanities 
 ** Southwest American Association of Geographers (October 2014)
+
 * NEH Summer Institute Instructor on Text Mining
 ** NEH Summer Institute: Doing Digial History (August 2014)
+
 * New Media and the Future of Scholarly Societies
 ** American Association for the History of Medicine (May 2014)
+
 * Selected Presenter at Video Short Screening: "A Brief History of Toxicology":https://vimeo.com/94459223
 ** American Association for the History of Medicine (May 2014)
+
 * Building a Cyberinfrastructure for the Humanities and Beyond
 ** Cyberinfrastructure Day at University of New Mexico (April 2014)
+
 * Poison, Potatoes, and Post-Computational Humanities
 ** University of Houston (Feb 2014)
+
 * Poison, Putrefaction, and Ontology of Disease in the Sixteenth Century
 ** Johns Hopkins University (Nov 2013)
+
 * Speaking in Code Workshop Participant
 ** Scholars' Lab @ University of Virginia (November 2013)
+
 * Document Similarity with R
 ** THATCamp @ RRCHNM (June 2013)
+
 * Historical Mapping with QGIS
 ** THATCamp @ RRCHNM (June 2013)
+
 * Pharmaceutical Traces: Exposing the Textual Traditions of Medieval Pharmacy
 ** International Congress of the Medieval Academy of America (May 2013)
+
 * Commenter for Digital History Panel 
 ** Society for the History of the Federal Government (April 2013)
+
 * Separating Poison and Medicine in the Sixteenth Century
 ** National Library of Medicine (September 2012)
+
 * Archiving Online Science
 ** Library of Congress: Science at Risk Workshop (July 2012)
+
 * Text mining in the Digital Humanities
 ** Hertog Global Strategy Initiative @ Columbia University (May 2012)
+
 * Mapping Metadata
 ** American Society for Environmental History (Apr 2012)
+
 * Organizing Early Modern Texts
 ** Renaissance Society of America (Mar 2012)
+
 * Panel Chair: Visualizing the Archive
 ** Institute of Museum and Library Services WebWise Conference (Feb 2012)
+
 * "Roundtable Participant: A conversation about text mining":http://aha.confex.com/aha/2012/webprogram/Session6143.html
 ** American Historical Association (Jan 2012)
 * "Digital Poster: Lo-tech introduction to text mining":http://fredgibbs.net/extras/text-mining-digital-poster
@@ -141,9 +172,11 @@ h2. Presentations and Participations
 
 h2. Recent Courses
 
+* "Historiography":../courses/historiography
+* "Metaphor of Plague":../courses/metaphor-of-plague
 * "Digital Methods for the Humanities":../courses/digital-methods
 * "Food, Diet, and Health":../courses/food-diet-health
-* "Introduction to Digital History and Digital Humanities":../courses/archive/introduction-to-digital-history.html
+* "Introduction to Digital History":../courses/archive/introduction-to-digital-history.html
 * "Early History of Western Medicine":../courses/history-of-early-medicine.html 
 * "Medieval Science and Medicine":../courses/archive/medieval-science-medicine.html
 * "The Scientific Revolution":../courses/archive/scientific-revolution.html
