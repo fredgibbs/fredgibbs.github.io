@@ -67,23 +67,23 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 
 
 # The White Plague (TB)
-30: OPTIONAL ESSAY DUE: What are the potential advantages of historical archeology compared to traditional history?  What are the tensions between traditional history and historical archeology? Given how the cultural complexities and social constructions of plague, is an archelogical approach too reductive to be useful?
+30: OPTIONAL ESSAY DUE: What are the potential advantages of historical archeology compared to traditional history?  What are the tensions between traditional history and historical archeology? Given how the cultural complexities and social constructions of plague, is an archelogical approach too reductive to be useful?  
 30: Christian W. McMillen, “‘The Red Man and the White Plague’: Rethinking Race, Tuberculosis, and American Indians, Ca. 1890–1950,” 608–45.  
 1: Nancy Owen Lewis, “High and Dry in New Mexico: Turberculosis and the Politics of Health,” 129–66.  
-3: [Return of the ‘White Plague’: Fears over the Rise of ‘Incurable’ TB](http://www.cnn.com/2014/05/28/health/return-white-plague-incurable-tb/index.html).  
+3: [Return of the ‘White Plague’: Fears over the Rise of ‘Incurable’ TB](http://www.cnn.com/2014/05/28/health/return-white-plague-incurable-tb/index.html). How should we analyze this media report in light of previous readings on construction of disease? 
 
 # 1918 Influenza
 6: Jeffery K. Taubenberger and David M. Morens, “1918 Influenza: The Mother of All Pandemics,” 69–79.  
 8: Visit [http://www.loc.gov/rr/news/topics/pandemic.html](). Follow their search strategies and report on how the flu pandemic is discussed.  
-10: DUE: essay on New Mexico newspapers and influenza.
+10: Susan Sontag, _Illness as Metaphor_, 1-36.  
 
 # AIDS
-13: Susan Sontag, _Illness as Metaphor_, 3-49.  
-15: Susan Sontag, _Illness as Metaphor_, 50-87.   
-17: NO CLASS
+13: Susan Sontag, _Illness as Metaphor_, 37-87.    
+15: NO CLASS  
+17: NO CLASS   
 
 # Communicating Plague
-20: Susan Sontag, _AIDS and Its Metaphors_, 93-183.  
+20: DUE: essay (and presentations) on New Mexico newspapers and influenza.
 22: Charles L. Briggs, "Pressing Plagues: Mediated Communicability of Epidemics," 39-59.  
 24: Margaret Humphreys, "No Safe Place: Disease and Panic in American History," 845-856.  
 
