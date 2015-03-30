@@ -49,7 +49,7 @@ Each student will belong to one of these groups for each class and will continua
 
 2. **Enforcers:** The enforcers hold colleagues accountable for their work. You do not need to produce anything ahead of time, but I expect (and will be evaluating) your ability to ask critical questions of sloppy blog posts, inaccurate summaries, or silly discussion questions. Rudeness, of course, is not tolerated, but I expect you can ask pointed questions in a polite and constructive way. 
 
-3. **Summarizers:** The summarizers will prepare a 1-page summary of the assigned readings. You will work on these independently (though you can work together if you want), but you must present them collectively at the beginning of class as a way of reminding everyone what they've read.
+3. **Summarizers:** The summarizers will prepare a 1-page summary of the assigned readings (not what the commenters write). You will work on these independently (though you can work together if you want), but you must present them collectively at the beginning of class as a way of reminding everyone what they've read.
 
 4. **Examiners:** The examiners will prepare questions that will help guide discussion for that class. Examiners should draw from the Commenters and incorporate on-the-fly as much as possible from the Summarizers. Of course I will help guide discussions each day, but I expect the examiners to do the bulk of the work.
 

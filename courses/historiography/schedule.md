@@ -52,7 +52,20 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 25: Elizabeth Clark, _History, Theory, Text_, 63-105.  
 
 30: Elizabeth Clark, _History, Theory, Text_, 106-185.  
-1: Video tutorials
+1: Check out all of these (they're easy!)  
+Michael Wesch, [The Machine is Us/ing Us](http://www.youtube.com/watch?v=NLlGopyXT_g) (4.5 min. video).
+
+Aaron Titus, [How the Internet Works](https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be)
+
+Fred Gibbs, [A Brief History of Toxicology](https://vimeo.com/94459223) (please don't watch the whole thing!)
+
+Random Course Trailers: [Medical Ethics and History](https://www.youtube.com/watch?v=nPbis0Hggsg) and [Making the Middle Ages](https://www.youtube.com/watch?v=YlDNzE0xJ1w)
+
+Advice on [How to make an EPIC movie trailer](https://www.youtube.com/watch?v=NHL-tJgl3Gw) (why are we watching this?)
+
+If you're unfamiliar with movie editing software, consider Movie Maker (Windows) or iMovie (Mac), or a free trial of [Camtasia](http://www.techsmith.com/camtasia.html). 
+
+
 
 # Digital Turns
 6: Burdick, et al., _Digital\_Humanities_, 1-61.  
@@ -60,13 +73,13 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 
 # PostPostModern History
 13: Guldi and Armitage, _History Manifesto_, 1-60.  
-15: Guldi and Armitage, _History Manifesto_, 61-125.  
+15: NO CLASS 
 
-20: Discussion: The Uses of History  
-22: Catch-up
+20: Guldi and Armitage, _History Manifesto_, 61-125.  
+22: Discussion (returning to a common theme): The Uses of History (and if we need one)  
 
-27: video presentations  
-29: video presentations
+27: Video presentations I  
+29: Video presentations II  
 
-4: Conclusions and Evaluations  
-6: NO CLASS
+4: Conclusions and Evaluations (maybe)  
+6: NO CLASS (maybe)  
