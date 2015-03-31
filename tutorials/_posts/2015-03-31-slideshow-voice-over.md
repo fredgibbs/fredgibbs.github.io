@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Creating a Simple Slideshow Voiceover
-date: 2014-10-30 22:14:00
+date: 2015-03-31 13:14:00
 categories: [post]
 ---
 
