@@ -57,7 +57,7 @@ Michael Wesch, [The Machine is Us/ing Us](http://www.youtube.com/watch?v=NLlGopy
 
 Aaron Titus, [How the Internet Works](https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be)
 
-Fred Gibbs, [A Brief History of Toxicology](https://vimeo.com/94459223) (please don't watch the whole thing!)
+Fred Gibbs, [A Brief History of Toxicology](https://vimeo.com/94459223) (please don't watch the whole thing!) and [a short explanation](http://fredgibbs.net/tutorials/post/slideshow-voice-over/).
 
 Random Course Trailers: [Medical Ethics and History](https://www.youtube.com/watch?v=nPbis0Hggsg) and [Making the Middle Ages](https://www.youtube.com/watch?v=YlDNzE0xJ1w)
 
