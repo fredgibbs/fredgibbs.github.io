@@ -74,7 +74,7 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 
 # 1918 Influenza
 6: Jeffery K. Taubenberger and David M. Morens, “1918 Influenza: The Mother of All Pandemics,” 69–79.  
-8: Visit [http://www.loc.gov/rr/news/topics/pandemic.html](). Follow their search strategies and report on how the flu pandemic is discussed.  
+8: Visit [http://www.loc.gov/rr/news/topics/pandemic.html](http://www.loc.gov/rr/news/topics/pandemic.html). Follow their search strategies and report on how the flu pandemic is discussed.  
 10: Susan Sontag, _Illness as Metaphor_, 1-36.  
 
 # AIDS
@@ -83,7 +83,7 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 17: NO CLASS   
 
 # Communicating Plague
-20: DUE: essay (and presentations) on New Mexico newspapers and influenza.
+20: DUE: essay (and presentations) on New Mexico newspapers and influenza.  
 22: Charles L. Briggs, "Pressing Plagues: Mediated Communicability of Epidemics," 39-59.  
 24: Margaret Humphreys, "No Safe Place: Disease and Panic in American History," 845-856.  
 
