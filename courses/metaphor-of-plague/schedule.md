@@ -83,7 +83,7 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 17: NO CLASS   
 
 # Communicating Plague
-20: ESSAY #3 DUE: **How does this course help you better analyze writing about disease?** Remember to 1) BE SPECIFIC; 2) Reference as many readings as possible with specific citations; 3) Hopefully you can't fit everything you've learned into two pages (but that's the limit); choose carefully what you think is most important! 4) Don't be banal (don't say: "Metaphors shape the way we think of disease." That's too obvious. Give examples of how/when/where this has been true, and how it still matters (or doesn't).
+20: ESSAY #3 DUE: **How does this course help you better analyze writing about disease?** Remember to 1) BE SPECIFIC; 2) Reference as many readings as possible with specific citations; 3) Hopefully you can't fit everything you've learned into two pages (but that's the limit); choose carefully what you think is most important! 4) Don't be banal (don't say: "Metaphors shape the way we think of disease." That's too obvious. Give examples of how/when/where this has been true, and how it still matters (or doesn't).  
 22: Charles L. Briggs, "Pressing Plagues: Mediated Communicability of Epidemics," 39-59.  
 24: Margaret Humphreys, "No Safe Place: Disease and Panic in American History," 845-856.  
 
