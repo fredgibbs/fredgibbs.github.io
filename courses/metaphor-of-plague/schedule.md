@@ -83,16 +83,14 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 17: NO CLASS   
 
 # Communicating Plague
-20: DUE: essay (and presentations) on New Mexico newspapers and influenza.  
+20: ESSAY #3 DUE: **How does this course help you better analyze writing about disease?** Remember to 1) BE SPECIFIC; 2) Reference as many readings as possible with specific citations; 3) Hopefully you can't fit everything you've learned into two pages (but that's the limit); choose carefully what you think is most important! 4) Don't be banal (don't say: "Metaphors shape the way we think of disease." That's too obvious. Give examples of how/when/where this has been true, and how it still matters (or doesn't).
 22: Charles L. Briggs, "Pressing Plagues: Mediated Communicability of Epidemics," 39-59.  
 24: Margaret Humphreys, "No Safe Place: Disease and Panic in American History," 845-856.  
 
 # Modern Plagues
 27: Analyzing _Plague, Inc._ ([free video game](http://www.ndemiccreations.com/en/22-plague-inc))  
-29: [Ebola and Black Death 'Plague'](http://www.breitbart.com/Big-Government/2014/10/09/Risks-Rise-Ebola-Pandemic-is-Same-Virus-as-the-Black-Death)  
-1: Jennifer Cooke, “Plague, Zombies and the Hypnotic Relation: Romero and After,” 163–84.
+29: [Ebola and Black Death 'Plague'](http://www.breitbart.com/big-government/2014/10/11/risks-rise-ebola-pandemic-is-same-virus-as-the-black-death/)  
+1: [The Obesity Plague and Antibiotics](http://www.huffingtonpost.com/bill-chameides/the-obesity-plague-and-an_b_3875904.html?view=print&comm_ref=false)  
 
 # Moving Forward
-4: Group Presentations  
-6: [The Obesity Plague and Antibiotics](http://www.huffingtonpost.com/bill-chameides/the-obesity-plague-and-an_b_3875904.html?view=print&comm_ref=false)  
-8: Conclusions and Evaluations
+All resubmissions due Friday May 8.
