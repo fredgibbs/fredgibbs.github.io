@@ -18,7 +18,7 @@ Office Hours: M 10:15-11:45; W 3:15-4:45; by appointment
 -----
 
 ## Course Description
-This course explores some of the most prominent and influential approaches and analytical frameworks that historians have used in creating historical accounts and interpretations. It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various interpretive lenses that have shaped the professional practice of history (ways of considering place, culture, labor, communities, identity, etc). The course focuses on developments after the mid nineteenth-century professionalization of history. This course  is required of history graduate students, but should be accessible and indeed beneficial to graduate students of any humanistic discipline 
+This course explores some of the most prominent and influential approaches and analytical frameworks that historians have used in creating historical accounts and interpretations. It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various interpretive lenses that have shaped the professional practice of history (ways of considering place, culture, labor, communities, identity, etc). The course focuses on developments after the mid nineteenth-century professionalization of history. This course  is required of history graduate students, but should be accessible and indeed beneficial to graduate students of any humanistic discipline. 
 
 
 ## Student Learning Outcomes
