@@ -453,7 +453,8 @@ figcaption {
   text-align: right;
   font-family: 'Oxygen', sans-serif;
   display:block;
-  margin:-2.2em 2.5em 1em 0;
+  margin:-2.2em 2.5em 2em 0;
+  line-height: 1.3em;
 }
 
 figcaption.raw {
