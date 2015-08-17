@@ -527,8 +527,10 @@ font-size:85%;
 margin: 1em 0 1em 0;
 border-top:1px dotted gray;
 border-bottom:1px dotted gray;
-padding: .3em 0 .3em;
-color:#900;
+padding: .2em;
+color:#666;
+font-variant: small-caps;
+background-color: #ccc;
 }
 /*****************************************************************************/
 /*
