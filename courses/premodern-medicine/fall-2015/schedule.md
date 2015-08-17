@@ -8,7 +8,7 @@ date: 2015-01-12 00:00:00
 
 Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
 Mesa Vista Hall, 1077    
-Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment    
+Office Hours: M 10:15-11:45; W 3:15-4:45; almost anytime by appointment    
 
 -----
 
