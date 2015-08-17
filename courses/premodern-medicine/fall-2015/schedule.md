@@ -18,7 +18,7 @@ All readings below are accessible via the Zotero Library for the course at [http
 # Introductions
 - M: Introduction to the course, syllabus, and expectations  
 - W: What does the Internet say about premodern medicine? How do we characterize common approaches?  
-- F: Vivian Nutton, “Healers and the Healing Act in Classical Greece” 7, no. 1 (1999): 27–35; Hippocrates I: _Sacred Disease_.  
+- F: Vivian Nutton, “Healers and the Healing Act in Classical Greece” _European Review_ 7, no. 1 (1999): 27–35; Hippocrates, _Sacred Disease_.  
 
 ## Week 2
 # Classical Medicine I
