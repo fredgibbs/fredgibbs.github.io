@@ -35,19 +35,19 @@ F: Darrel W. Amundsen, “Medicine and Faith in Early Christianity,” Bulletin 
 # Wikipedia Writing
 M: No Class: Labor Day!  
 W: What makes for a good Wikipedia article? What does Wikipedia say about classical medicine?  
-F: Form working groups; plan articles/revisions; create bibliographies; identify (and request) scholarly sources.   
+F: Form working groups; plan articles/revisions; create bibliographies; identify (and request) scholarly sources   
 
 ## Week 5
 # Early Medieval Medicine
 M: Peregrine Horden, “What’s Wrong with Early Medieval Medicine?,” Social History of Medicine (2009).  
 W: Faith Wallis, “Signs and Senses: Diagnosis and Prognosis in Early Medieval Pulse and Urine Texts,” Social History of Medicine 13, no. 2 (2000): 265–78; Excerpts of common medical advice, 34-42; 49-54.  
-F: Article updates.  
+F: Present article updates  
 
 ## Week 6
 # Article Drafting and Reviewing
-M: No Class: Writing Day.  
-W: Bring printed outlines of first drafts of articles; exchange them.  
-F: Return critiques to authors; discussion of critiques.  
+M: No Class: Writing Day!  
+W: Bring printed outlines of first drafts of articles; exchange them  
+F: Return critiques to authors; discussion of critiques  
 
 ## Week 7
 # Arabic Medicine
@@ -57,8 +57,8 @@ F: Comment on the beautiful [Arabic medical manuscripts](http://special.lib.gla.
 
 ## Week 8
 # Catch up
-M: Final Review of classical medicine articles.  
-W: Final Evaluation of classical medicine articles.  
+M: Final Review of classical medicine articles  
+W: Final Evaluation of classical medicine articles  
 F: No Class: Fall Break!  
 
 ## Week 9
@@ -76,7 +76,7 @@ F: No Class
 ## Week 11
 # Plague and Disease
 M: Jon Arrizabalaga, “Facing the Black Death: Perceptions and Reactions of University Medical Practitioners,” in Practical Medicine from Salerno to the Black Death (Cambridge University Press, 1989), 237–88.  
-W: Selections from treatises on the Black Death.  
+W: Selections from medieval accounts of the Black Death  
 F: Bioarcheology articles  
 
 ## Week 12
@@ -93,18 +93,18 @@ F: Paracelsus: WMT, 310-325; Skim the nice [Paracelsus exhibit from the NLM](htt
 
 ## Week 14
 # Preparing the final articles
-M: 
-W: Plan early modern article contributions.  
-F: No Class (HSS)  
+M: Plan early modern article contributions    
+W: Form working groups; plan articles/revisions; create bibliographies; identify (and request) scholarly sources    
+F: No Class (HSS)    
 
 ## Week 15
 # Work and Rest
-M: No Class: Writing Day
-W: No Class: Writing Day
+M: No Class: Writing Day    
+W: No Class: Writing Day    
 F: No Class: Thanksgiving Break
 
 ## Week 16
 # Conclusions
-M: Early modern article discussions
-W: Final article assessment (all 3)
+M: Comprehensive article assessment (1/2)    
+W: Comprehensive article assessment (2/2)    
 F: Course conclusions and evaluations
