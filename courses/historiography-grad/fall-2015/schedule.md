@@ -25,8 +25,8 @@ All non-book readings will be distributed via email.
 # Introductions
 - Introduction the the course, syllabus, and expectations  
 - [What Is Historiography?](https://www.youtube.com/watch?v=pB3xb1_gp4Y&feature=youtube_gdata_player)  
-- Introduction to GitHub and Markdown (also, see [this guide](https://guides.github.com/features/mastering-markdown/)
-- Paul N. Edwards, “How to Read a Book, v5.0,”
+- Introduction to GitHub and Markdown (also, keep [this guide](https://guides.github.com/features/mastering-markdown/) in mind for reference.)
+- Paul N. Edwards, “How to Read a Book, v5.0”
 
 ## Aug 26
 # Historiographical Overview
