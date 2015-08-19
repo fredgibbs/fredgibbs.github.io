@@ -101,8 +101,6 @@ Keith Jenkins, _Rethinking History_ (Routledge, 1991/2003; 978-0415304436)
 
 - Richard White, _The Middle Ground: Indians, Empires, and Republics in the Great Lakes Region, 1650-1815_ (Cambridge University Press, 1991/2010; 978-0521183444)
 
-- For all other articles and book chapters on the syllabus, you will need to subscribe to the course Zotero library. Please see the easy and quickly completed [step-by-step directions](fredgibbs.net/courses/etc/zotero.html) on how to do this.
-
 
 ## Syllabus
 View the [Schedule of Readings](schedule.html)

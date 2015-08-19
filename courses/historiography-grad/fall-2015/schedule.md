@@ -19,23 +19,27 @@ Office Hours: M 10:15-11:45; W 3:15-4:45; by appointment
 
 Throughout the semester, we'll be reading sections of Elizabeth Clark, _History, Theory, Text_ (Harvard University Press, 2004; 978-0674015845). Pages are indicated by "Clark, x-y".
 
+All non-book readings will be distributed via email. 
+
 ## Aug 19
 # Introductions
 - Introduction the the course, syllabus, and expectations  
 - [What Is Historiography?](https://www.youtube.com/watch?v=pB3xb1_gp4Y&feature=youtube_gdata_player)  
+- Introduction to GitHub and Markdown (also, see [this guide](https://guides.github.com/features/mastering-markdown/)
+- Paul N. Edwards, “How to Read a Book, v5.0,”
 
 ## Aug 26
 # Historiographical Overview
 - Clark, 9-28.
 - Keith Jenkins, _Rethinking History_ (Routledge, 1991/2003; 978-0415304436)  
 - Watch some of the video examples (posted at the bottom of this page).  
-- Brief video tutorial in class
 
 ## Sep 2
 # Creating History
 - Clark, 29-41.
 - Wilhelm von Humboldt, "On the Historian's Task," 57-71.  
 - Marc Bloch, _The Historian's Craft_ (1949/Vintage, 1964; 978-0394705125)
+- Brief video tutorial in class
 
 ## Sep 9 
 # Economics and Labor
