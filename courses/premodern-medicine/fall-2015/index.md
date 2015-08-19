@@ -44,7 +44,7 @@ This course chronologically explores the wide range of theories and practices em
 
 
 ## Required Texts
-There are no required texts for the course (see below). However, we will be using a free bibliography tool called Zotero to help us manage our readings. You will need to subscribe to the course Zotero library. Please see the easy and quickly completed [step-by-step directions](fredgibbs.net/courses/etc/zotero.html) on how to do this.
+There are no required texts for the course (see below). However, we will be using a free bibliography tool called Zotero to help us manage our readings. You will need to subscribe to the course Zotero library. Please see the easy and quickly completed [step-by-step directions](http://fredgibbs.net/courses/etc/zotero.html) on how to do this.
 
 
 ## Why There Are No Required Texts

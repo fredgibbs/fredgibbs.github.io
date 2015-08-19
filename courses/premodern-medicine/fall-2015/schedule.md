@@ -12,7 +12,7 @@ Office Hours: M 10:15-11:45; W 3:15-4:45; almost anytime by appointment
 
 -----
 
-All readings below are accessible via the Zotero Library for the course at [https://www.zotero.org/groups/385160](https://www.zotero.org/groups/385160).
+All readings below are accessible via the Zotero Library for the course at [https://www.zotero.org/groups/385160](https://www.zotero.org/groups/385160/items).
 
 ## Week 1
 # Introductions
