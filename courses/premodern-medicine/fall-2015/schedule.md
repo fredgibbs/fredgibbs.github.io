@@ -29,7 +29,7 @@ All readings below are accessible via the Zotero Library for the course at [http
 ## Week 3
 # Classical Medicine II
 - M: Intro to Galen: WMT, 58-70.  
-- W: Galen: _Galen: On Food and Diet_ (skim 1-5; 6-13); _On the Humours_ (14-18); _On the Causes of Disease_, 46-61; _On the Powers of Foods_, 68-89 (skim for flavor).  
+- W: Galen: _Galen: On Food and Diet_ (skim 1-5; 6-13); _On the Humours_ (14-18); _On the Causes of Disease_, 46-61; _On the Powers of Foods_, 68-89 (skim for flavor). All these are contained in the PDF under _Galen: On Food and Diet_.   
 - F: Darrel W. Amundsen, “Medicine and Faith in Early Christianity,” Bulletin of the History of Medicine 56, no. 3 (1982): 326–50.  
 
 ## Week 4 
