@@ -44,8 +44,10 @@ All non-book readings will be distributed via email.
 ## Sep 9 
 # Economics and Labor
 - Clark, 42-62; 79-85.
-- Selections on Marxist historiography
-- E. P. Thompson, “The Moral Economy of the English Crowd in the Eighteenth Century,” _Past and Present_ 50 (1971), 76-136 (skim).
+- David L. Prychitko, "[Marxism](http://www.econlib.org/library/Enc/Marxism.html)," from _The Concise Encyclopedia of Economics_.
+- E. P. Thompson, “[The Moral Economy of the English Crowd in the Eighteenth Century](http://www.jstor.org/stable/650244),” _Past and Present_ 50 (1971), 76-136 (don't get bogged down in details).
+- T. J. Jackson Lears, "[The Concept of Cutural Hegemony: Problems and Possibilities](http://www.jstor.org/stable/1860957)," _The American Historical Review_ 90.3 (1985), 567-593.
+- Georg G. Iggers, "[The Marxist Tradition of Historical Writing in the West. A Retrospect from the Beginning of the Twenty-First Century](http://www.lbihs.at/Iggers_Marxist_Tradition_of_Historical_Writing.pdf).
 
 ## Sep 16
 # Annales
