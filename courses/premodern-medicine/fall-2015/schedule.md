@@ -35,7 +35,7 @@ All readings below are accessible via the Zotero Library for the course at [http
 ## Week 4 
 # Wikipedia Writing
 - M: No Class: Labor Day!  
-- W: What makes for a good Wikipedia article? What does Wikipedia say about classical medicine?  
+- W: What makes for a good Wikipedia article? What does Wikipedia say about classical medicine and relevant topics? BEFORE CLASS: Do research on these questions by looking at Wikipedia for information on the topics (both broad and specific) that we've discussed or that you're interested in learning more about. Come prepared to discuss the specific pages and topics that you've research. It will be good to prepare some notes ahead of time.  
 - F: Form working groups; plan articles/revisions; create bibliographies; identify (and request) scholarly sources   
 
 ## Week 5
