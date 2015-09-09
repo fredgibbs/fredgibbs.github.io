@@ -40,6 +40,7 @@ All non-book readings will be distributed via email.
 - Wilhelm von Humboldt, "On the Historian's Task," 57-71.  
 - Marc Bloch, _The Historian's Craft_ (1949/Vintage, 1964; 978-0394705125)
 - Brief video tutorial in class
+- Victor, Marcus
 
 ## Sep 9 
 # Economics and Labor
@@ -48,63 +49,76 @@ All non-book readings will be distributed via email.
 - E. P. Thompson, “[The Moral Economy of the English Crowd in the Eighteenth Century](http://www.jstor.org/stable/650244),” _Past and Present_ 50 (1971), 76-136 (don't get bogged down in details).
 - T. J. Jackson Lears, "[The Concept of Cutural Hegemony: Problems and Possibilities](http://www.jstor.org/stable/1860957)," _The American Historical Review_ 90.3 (1985), 567-593.
 - Georg G. Iggers, "[The Marxist Tradition of Historical Writing in the West. A Retrospect from the Beginning of the Twenty-First Century](http://www.lbihs.at/Iggers_Marxist_Tradition_of_Historical_Writing.pdf).
+- Taylor, Aleja
 
 ## Sep 16
 # Annales
 - Clark, 63-75.
 - Emmanuel Le Roy Ladurie, _The Peasants of Languedoc_ (CRH, 1966/University of Illinois Press 1976; 978-0252006357)
+- James, Stephanie
 
 ## Sep 23
 # Microhistory
 - Clark 75-79.
 - Carlos Ginzberg, _The Cheese and the Worms_ (Giulio Einudi, 1976/Johns Hopkins University Press, 1992; 978-0801843877)  
+- Stephanie, Kevin
 - DUE: video outlines
 
 ## Sep 30
 # Literary History
 - Clark, 86-105; 130-145.
 - Hayden White, _Tropics of Discourse_ (Johns Hopkins University Press, 1978/1986; 978-0801827419)
+- Victor, Carter
 
 ## Oct 07
 # Power
 - Clark, 106-119.
 - Michele Foucault, _Birth of the Clinic_ (Presses universitaires de France, 1963/Vintage 1994; 978-0679753346)
+- Taylor, James
 
 ## Oct 14
 # The Everyday
 - Clark 119-129.
 - Michel de Certeau, _Practice of Everyday Life_ (University of California Press, 1984/2011 (3rd ed.); 978-0520271456)
+- Ben, Alia
 
 ## Oct 21
 # Race and Empire
 - Richard White, _The Middle Ground: Indians, Empires, and Republics in the Great Lakes Region, 1650-1815_ (Cambridge University Press, 1991/2010; 978-0521183444)
+- Michelle, Kevin, Alia, Rachel
 
 ## Oct 28
 # Gender
 - Judith Butler, _Gender Trouble: Feminism and the Subversion of Identity_ (Routledge, 1990/2006; 978-0415389556)  
+- Ben, Rachel
 - DUE: 2-minute trailers
 
 ## Nov 04
 # Nationalsim
 - Benedict Anderson, _Imagined Communities_ (Verso 1983/2006 (2nd ed.); 978-1844670864)
+- Aleja, Alia 
 
 ## Nov 11
 # Space
 - Miles Ogborn, _Spaces of Modernity: London's Geographies 1680-1780_ (Guilford Press, 1998; 978-1572303652)
+- Michelle, Mirella
 
 ## Nov 18
 # Paradigm Shifts
 - Thomas Kuhn, _Structure of Scientific Revolutions_ (University of Chicago Press, 1962/2012 (4th ed.); 978-0226458120)
+- Carter, Mirella
 
 ## Nov 25
 # Technology
 - Michael Adas, _Machines as the Measure of Men: Science, Technology, and Ideologies of Western Dominance_ (Cornell University Press, 1989; 978-0801497605)  
 Discussion of videos
+Marcus, Rachel
 
 ## Dec 02
 # A Digital Paradigm?
 - Burdick, et al., _Digital Humanities_ (MIT Press, 2012; 978-0262018470)  
-Evaluations
+- XXX
+- Evaluations
 
 ## Final videos due on day of scheduled final
 
