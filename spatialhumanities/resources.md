@@ -18,7 +18,7 @@ Owens, J.B., “What Historians Want from GIS” (esri)
 ### Argentina
 - Instituto Geográfico Nacional ([IGN](http://www.ign.gob.ar/sig))
 
-### Brasil
+### Brazil
 - Infraestrutura Nacional de Dados Espaciais ([INDE](http://www.inde.gov.br/inde-home))
 - Instituto Brasileiro de Geografia e Estatística ([IBGE](http://mapas.ibge.gov.br/interativos/arquivos/downloads))
 
@@ -51,15 +51,9 @@ Owens, J.B., “What Historians Want from GIS” (esri)
 ## Tutorials
 
 ### QGIS
-- <http://foss4geo.org/> (FOSS4G)
--   GST 101 Introduction to Geospatial Technology Using QGIS
--   GST 102 Spatial Analysis Using QGIS
--   GST 103 Data Acquisition and Management Using QGIS (release data August 15, 2014)
--   GST 104 Cartography Using QGIS and Inkscape
--   GST 105 Remote Sensing Using QGIS
-
-- <http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS> (QGIS Website)
-- <http://gis.unc.edu/instruction/odum/qgis_grass/> (Scott’s QGIS class)
+- [FOSS4G](http://foss4geo.org)
+- [QGIS Website](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS)
+- [Basic map-making with QGIS](http://fredgibbs.net/tutorials/making-a-map-with-qgis/)
 
 ### Penn State World Campus
 - <https://www.e-education.psu.edu/geog585/node/508>
