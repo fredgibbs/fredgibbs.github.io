@@ -54,25 +54,34 @@ All readings below are accessible via the Zotero Library for the course at [http
 # Arabic Medicine
 - M: WMT, 93-110.  
 - W: WMT, 110-138.  
-- F: Comment on the beautiful [Arabic medical manuscripts](http://special.lib.gla.ac.uk/exhibns/month/june2003.html).  
+- F: Medical imagery: 
+- [Greek medical manuscripts](http://blog.wellcomelibrary.org/2015/09/greek-manuscripts-at-the-wellcome-library-a-new-catalogue/)  
+- [Arabic medical manuscripts](http://special.lib.gla.ac.uk/exhibns/month/june2003.html)  
+- [more](http://web.library.yale.edu/digital-collections/arabic-and-persian-medicine)  
+- [more](https://www.nlm.nih.gov/hmd/arabic/getstarted.html)  
+- [more](http://wamcp.bibalex.org/)  
+- [medeval medicine](http://blog.wellcomelibrary.org/2015/07/medieval-manuscripts-today-enhancing-the-wellcome-librarys-catalogue/)  
+- [more](http://www2.lib.unc.edu/dc/mackinney/about.html)
+- AND, Google Image search for ancient/greek/premodern/etc medical manuscripts/books/etc and see what shows up. What do you see from a broad array of images that's lost when looking at individual manuscript images?  
+- AND, don't forget about wikipedia images! Please critique images in articles relevant to your own articles, particularly noting WHAT KINDS of images are there and HOW they are used.
 
 ## Week 8
-# Catch up
-- M: Final Review of classical medicine articles  
-- W: Final Evaluation of classical medicine articles  
-- F: No Class: Fall Break!  
-
-## Week 9
 # Late Medieval Medicine
 - M: Linda E. Voigts, “Anglo-Saxon Plant Remedies and the Anglo-Saxons,” Isis 70, no. 2 (1979): 250–68; “[Anglo-Saxon Medicine Is Able to Kill Modern-Day Superbug, Researchers Find](http://www.medievalists.net/2015/03/30/anglo-saxon-medicine-is-able-to-kill-modern-day-superbug-researchers-find/).”  
 - W: Victoria Sweet, “Hildegard of Bingen and the Greening of Medieval Medicine,” Bulletin of the History of Medicine 73, no. 3 (1999): 381–403.  
+- F: No Class: Fall Break!
+
+## Week 9
+# Finishing Article #1
+- M: DUE: Bring to class printed versions of your final drafts for exchange  
+- W: DUE: Return drafts to authors  
 - F: Nancy G. Siraisi, “Taddeo Alderotti and Bartolomeo Da Varignana on the Nature of Medical Learning,” Isis 68, no. 1 (March 1, 1977): 27–39.  
 
 ## Week 10
 # Late Medieval Medical Practice
 - M: Michael McVaugh, “Surgical Education in the Middle Ages,” Dynamis 20 (2000): 283–304.  
 - W: Physicians arguments for the necessity of alchemy and astrology in medicine (317-333).  
-- F: No Class  
+- F: No Class: POST YOUR ARTICLES TO WIKIPEDIA! 
 
 ## Week 11
 # Plague and Disease
@@ -100,12 +109,12 @@ All readings below are accessible via the Zotero Library for the course at [http
 
 ## Week 15
 # Work and Rest
-- M: No Class: Writing Day    
+- M: No Class: Research Day    
 - W: No Class: Writing Day    
 - F: No Class: Thanksgiving Break
 
 ## Week 16
 # Conclusions
-- M: Comprehensive article assessment (1/2)    
-- W: Comprehensive article assessment (2/2)    
+- M: Early modern article assessment  
+- W: Comprehensive article assessment  
 - F: Course conclusions and evaluations
