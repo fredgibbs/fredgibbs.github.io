@@ -8,10 +8,12 @@ css: spatial-humanities
 # Resources 
 
 ## General Readings
-Owens, J.B., “What Historians Want from GIS” (esri)
+- Owens, J.B., “What Historians Want from GIS” (esri)
+- “What is GIS” ([University of Kansas](http://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/geographic-information-systems/main))
 
-“What is GIS” ([University of Kansas](http://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/geographic-information-systems/main))
 
+## Digital Projects
+- [Ancient World Mapping Center](http://awmc.unc.edu/wordpress/about/)
 
 ## GIS Data (by country)
 
