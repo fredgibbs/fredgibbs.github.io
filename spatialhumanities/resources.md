@@ -17,7 +17,6 @@ css: spatial-humanities
 - [HGIS Carolina](http://www.unc.edu/hgis/index.html)
 - [HGIS Clearinghouse and Forum](http://www.aag.org/cs/projects_and_programs/historical_gis_clearinghouse/hgis_projects_programs) (Association of American Geographers)
 - [HGIS Research Network](http://www.hgis.org.uk/)
-http://spatial.scholarslab.org/
 - [Spatial Humanities @ Scholar's Lab](http://spatial.scholarslab.org/)
 
 
@@ -36,9 +35,7 @@ http://spatial.scholarslab.org/
 ### US
 - [National Historical Geographic Information System](https://www.nhgis.org/)
 - [United States Census Bureau](https://www.census.gov/geo/maps-data/)
-
-#### ABQ
-[City of Albuquerque](https://www.cabq.gov/gis)
+- [City of Albuquerque](https://www.cabq.gov/gis)
 
 
 ## Tutorials
