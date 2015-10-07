@@ -7,9 +7,9 @@ css: spatial-humanities
 
 # Participants
 
-Judy Bieber (History)
-Jeff Erbig (History)
-Fred Gibbs (History)
-Maria Lane (Geography and Environmental Studies)
-Bruce Milne (Sustainability Studies)
-Guy McClellan (History)
+Judy Bieber (History)  
+Jeff Erbig (History)  
+Fred Gibbs (History)  
+Maria Lane (Geography and Environmental Studies)  
+Bruce Milne (Sustainability Studies)  
+Guy McClellan (History)  
