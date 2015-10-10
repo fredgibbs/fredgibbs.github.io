@@ -8,7 +8,7 @@ css: spatial-humanities
 # Resources 
 
 ## Digital Projects
-- [Ancient World Mapping Center](http://awmc.unc.edu/wordpress/about/) (University of North Carolina)
+- [Ancient World Mapping Center](http://awmc.unc.edu/wordpress/about/) (University of North Carolina - Chapel Hill)
 - [Spatial History Project](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)  (Stanford)
 
 ## Historical GIS Centers and Networks
@@ -23,10 +23,10 @@ css: spatial-humanities
 ## GIS Data (by country)
 
 ### World
-- [Natural Earth](http://www.naturalearthdata.com/))
+- [Natural Earth](http://www.naturalearthdata.com/)
 
 ### Argentina
-- [Instituto Geográfico Nacional](http://www.ign.gob.ar/sig))
+- [Instituto Geográfico Nacional](http://www.ign.gob.ar/sig)
 
 ### Brazil
 - [Infraestrutura Nacional de Dados Espaciais](http://www.inde.gov.br/inde-home)
