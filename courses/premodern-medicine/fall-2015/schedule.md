@@ -73,15 +73,15 @@ All readings below are accessible via the Zotero Library for the course at [http
 
 ## Week 9
 # Finishing Article #1
-- M: DUE: Bring to class printed versions of your final drafts for exchange  
+- M: DUE: Bring to class printed versions of your article drafts for exchange  
 - W: DUE: Return drafts to authors  
-- F: Nancy G. Siraisi, “Taddeo Alderotti and Bartolomeo Da Varignana on the Nature of Medical Learning,” Isis 68, no. 1 (March 1, 1977): 27–39.  
+- F: DUE: FINAL drafts (note article can be revised throughout the semester)
 
 ## Week 10
 # Late Medieval Medical Practice
-- M: Michael McVaugh, “Surgical Education in the Middle Ages,” Dynamis 20 (2000): 283–304.  
-- W: Physicians arguments for the necessity of alchemy and astrology in medicine (317-333).  
-- F: No Class: POST YOUR ARTICLES TO WIKIPEDIA! 
+- M: Nancy G. Siraisi, “Taddeo Alderotti and Bartolomeo Da Varignana on the Nature of Medical Learning,” Isis 68, no. 1 (March 1, 1977): 27–39.  
+- W: Michael McVaugh, “Surgical Education in the Middle Ages,” Dynamis 20 (2000): 283–304.  
+- F: NO CLASS, but you need to read about posting to Wikipedia and POST YOUR ARTICLES ONLINE! Review the [general contribution page](https://en.wikipedia.org/wiki/Wikipedia:Contributing_to_Wikipedia) and the [Wiki Markup Guide](https://en.wikipedia.org/wiki/Help:Wiki_markup). Don't worry about getting everything perfect, but get as close as you can. WARNING: This will take 2-3 times longer than you think it will because you will keep having little questions like "Why don't my footnotes show up?" You're smart and you'll figure it out with the documentation. But you need to allow time for it.  
 
 ## Week 11
 # Plague and Disease
