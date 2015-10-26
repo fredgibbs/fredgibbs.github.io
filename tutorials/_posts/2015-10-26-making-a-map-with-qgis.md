@@ -26,10 +26,10 @@ If you have a Mac, you'll need to download and install 3 items, QGIS and two oth
 First, you'll need to make sure you can add new software to your Mac. Go to your System Preferences (under the Apple menu), and bring up the Security & Privacy Pane. Click the Lock in the bottom left to make changes. For the section titled "Allow apps downloaded from:", Check the "Anywhere" radio button.
 
 Here are the links of the downloads you need (just download and install the in order listed):
-- [http://www.kyngchaos.com/files/software/frameworks/GDAL_Complete-1.11.dmg](http://www.kyngchaos.com/files/software/frameworks/GDAL_Complete-1.11.dmg)
-- [http://www.kyngchaos.com/files/software/python/NumPy-1.9.2-1.dmg](http://www.kyngchaos.com/files/software/python/NumPy-1.9.2-1.dmg)
-- [http://www.kyngchaos.com/files/software/qgis/QGIS-2.10.1-1.dmg](http://www.kyngchaos.com/files/software/qgis/QGIS-2.10.1-1.dmg)
 
+- [first](http://www.kyngchaos.com/files/software/frameworks/GDAL_Complete-1.11.dmg)
+- [second](http://www.kyngchaos.com/files/software/python/NumPy-1.9.2-1.dmg)
+- [third](http://www.kyngchaos.com/files/software/qgis/QGIS-2.10.1-1.dmg)
 
 
 ## Be Explicit
