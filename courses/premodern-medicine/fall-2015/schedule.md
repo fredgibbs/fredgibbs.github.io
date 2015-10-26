@@ -86,13 +86,13 @@ All readings below are accessible via the Zotero Library for the course at [http
 ## Week 11
 # Plague and Disease
 - M: Jon Arrizabalaga, “Facing the Black Death: Perceptions and Reactions of University Medical Practitioners,” in Practical Medicine from Salerno to the Black Death (Cambridge University Press, 1989), 237–88.  
-- W: Selections from medieval accounts of the Black Death  
+- W: Selections from medieval accounts of the Black Death. Look at the Horrox reading in Zotero; skim the introduction PDF; read more carefully the explanations PDF.   
 - F: Daniel Antoine, “The Archaeology of ‘Plague,’” Medical History. Supplement, no. 27 (2008): 101–14;  Stephanie Haensch et al., “Distinct Clones of Yersinia Pestis Caused the Black Death,” ed. Nora J. Besansky, PLoS Pathogens 6, no. 10 (October 7, 2010).  
 
 ## Week 12
-# Exploration and Medicine
-- M: What does Wikipedia say about medieval medicine?  
-- W: Form working groups; plan articles/revisions; create bibliographies; identify (and request) scholarly sources.  
+# Wikipedia and Medieval Medicine
+- M: What does Wikipedia say about medieval medicine? Come to class prepared to discuss the impression and knowledge base for medieval medicine that Wikipedia offers. READ WIDELY!  
+- W: Come to class with specific articles in mind to edit or create; we will coordinate our efforts during class time.  
 - F: Nancy Siraisi, “Oratory and Rhetoric in Renaissance Medicine,” Journal of the History of Ideas 65, no. 2 (2004): 191–211.  
 
 ## Week 13
@@ -103,8 +103,8 @@ All readings below are accessible via the Zotero Library for the course at [http
 
 ## Week 14
 # Preparing the final articles
-- M: Plan early modern article contributions    
-- W: Form working groups; plan articles/revisions; create bibliographies; identify (and request) scholarly sources    
+- M: Revising existing articles    
+- W: Revising existing articles    
 - F: No Class (HSS)    
 
 ## Week 15
@@ -115,6 +115,6 @@ All readings below are accessible via the Zotero Library for the course at [http
 
 ## Week 16
 # Conclusions
-- M: Early modern article assessment  
-- W: Comprehensive article assessment  
-- F: Course conclusions and evaluations
+- M: Comprehensive article assessment    
+- W: Course conclusions    
+- F: Evaluations
