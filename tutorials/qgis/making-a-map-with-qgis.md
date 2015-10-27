@@ -15,7 +15,7 @@ Also, remember that Google searches are your friend. You're not the first one to
 
 ## Installing QGIS
 
-Installing QGIS is straightforward, but it can seem a bit unfamiliar, so don't worry if you feel confused. This tutorial is based on 2.8.
+Installing QGIS is straightforward, but it can seem a bit unfamiliar, so don't worry if you feel confused. This tutorial is based on 2.8 (some screenshots are from 2.6 if they are not significantly different from the current release).
 
 The most up to date versions of the necessary components can be found, organized by operating system, at the [QGIS download page](http://hub.qgis.org/projects/quantum-gis/wiki/Download#11-Standalone-Installer-recommended-for-new-users). 
 
@@ -38,7 +38,9 @@ When you first start QGIS, you'll get a whole lot of white, a bunch of cryptic i
 
 {% include figure.html src="/images/qgis/qgis-blank.png" caption="The exhileration and terror of a blank map" %}
 
-Most people expect to see a map, and are frustrated when they don't. QGIS is a powerful but general mapping tool; broad tools of this nature tend not to much without explicit instructions from you. Using these tools successfully, especially mappings tools, often means adjusting your expectations of what they should do automatically. We must not assume that they should work like Google Maps and automatically display maps for you. If you're constantly comparing what the tool does to what you hope it will do, you're always going to feel like the tool is working against you. If you are disappointed there is no map, you should ask yourself why you expected to see a map when we haven't given the tool any map data to display.
+Most people expect to see a map, and are frustrated when they don't. QGIS is a powerful but general mapping tool; broad tools of this nature tend not to much without explicit instructions from you. Using these tools successfully, especially mappings tools, often means adjusting your expectations of what they should do automatically. 
+
+We must not assume that QGIS should work like Google Maps and automatically display maps for you. If you're constantly comparing what the tool does to what you hope it will do, you're always going to feel like the tool is working against you. If you are disappointed there is no map, you should ask yourself why you expected to see a map when we haven't given the tool any map data to display.
 
 
 ## Data, not maps

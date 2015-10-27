@@ -5,9 +5,10 @@ title: tutorials | fredgibbs
 
 <div id="home">
   <h1>Tutorials</h1>
+  <h2>QGIS</h2>
   <ul class="posts">
-    {% for post in site.categories.tutorials %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+      <li><a href="making-a-map-with-qgis">Making a Map</a>
+      <li><a href="linking-and-styling-data-with-qgis">Linking and Stlying Data</a>
+      <li><a href="overlaying-historic-maps-with-qgis">Overlaying Historic Maps</a>
   </ul>
 </div>
