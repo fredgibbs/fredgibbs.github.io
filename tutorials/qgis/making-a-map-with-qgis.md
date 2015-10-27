@@ -15,7 +15,7 @@ Also, remember that Google searches are your friend. You're not the first one to
 
 ## Installing QGIS
 
-Installing QGIS is straightforward, but it can seem a bit unfamiliar, so don't worry if you feel confused. This tutorial is based on 2.8 (some screenshots are from 2.6 if they are not significantly different from the current release).
+Installing QGIS is straightforward, but it can seem a bit unfamiliar, so don't worry if you feel confused. This tutorial is based on 2.10 for Mac, though some screenshots are from older versions if they are not significantly different from the current release. Within these tutorials, other than installation instructions, there should be no noticable difference between Mac and PC versions.
 
 The most up to date versions of the necessary components can be found, organized by operating system, at the [QGIS download page](http://hub.qgis.org/projects/quantum-gis/wiki/Download#11-Standalone-Installer-recommended-for-new-users). 
 
@@ -27,9 +27,9 @@ First, you'll need to make sure you can add new software to your Mac. Go to your
 
 Here are the links of the downloads you need (just download and install the in order listed):
 
-- [first](http://www.kyngchaos.com/files/software/frameworks/GDAL_Complete-1.11.dmg)
-- [second](http://www.kyngchaos.com/files/software/python/NumPy-1.9.2-1.dmg)
-- [third](http://www.kyngchaos.com/files/software/qgis/QGIS-2.10.1-1.dmg)
+- [first](http://www.kyngchaos.com/files/software/frameworks/GDAL_Complete-1.11.dmg) Once you see the window with the files you've downloaded, double-click on the "GDAL Complete.pkg" icon, click through the dialog boxes, then do the same for the NumPy.pkg.
+- [second](http://www.kyngchaos.com/files/software/python/matplotlib-1.4.3-1.dmg) Similarly, double-click on the matpoltlib.pkg icon to install the last of the components requires by QGIS.
+- [third](http://www.kyngchaos.com/files/software/qgis/QGIS-2.10.1-1.dmg) Finally you're ready to install QGIS itself; do this the same way as for the other packages.  
 
 
 ## Be Explicit
