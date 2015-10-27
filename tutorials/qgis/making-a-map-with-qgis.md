@@ -1,5 +1,5 @@
---- 
-layout: post 
+---
+layout: post
 title: Making a Map with QGIS
 date: 2015-10-26 00:00:00
 ---

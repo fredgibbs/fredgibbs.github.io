@@ -1,10 +1,10 @@
---- 
-layout: post 
+---
+layout: post
 title: Linking and Styling Data with QGIS
 date: 2014-12-20 00:00:00
 ---
 
-The [first part](/tutorials/making-a-map-with-qgis) of our tutorial covered some basics of QGIS.
+The [first part](/tutorials/qgis/making-a-map-with-qgis.html) of our tutorial covered some basics of QGIS.
 
 ## Adding Complexity with More Data
 

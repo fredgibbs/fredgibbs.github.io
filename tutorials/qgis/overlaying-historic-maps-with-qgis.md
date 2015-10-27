@@ -1,10 +1,10 @@
---- 
-layout: post 
+---
+layout: post
 title: Using Historic Maps with QGIS
 date: 2014-12-21 00:00:00
 ---
 
-This tutorial is the third of three tutorials on getting started with QGIS. The [first part](/tutorials/making-a-map-with-qgis) of our tutorial covered some basics of QGIS. The [second part](/tutorials/linking-and-styling-data-with-qgis) of our tutorial showed some ways of adding data to a map.
+This tutorial is the third of three tutorials on getting started with QGIS. The [first part](/tutorials/qgis/making-a-map-with-qgis.html) of our tutorial covered some basics of QGIS. The [second part](/tutorials/qgis/linking-and-styling-data-with-qgis.html) of our tutorial showed some ways of adding data to a map.
 
 
 ## Using Data with Historic Maps
