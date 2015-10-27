@@ -34,7 +34,7 @@ Here are the links of the downloads you need (just download and install the in o
 
 ## Be Explicit
 
-When you first start QGIS, you'll get a whole lot of white, a bunch of cryptic icons, and pangs of regret and/or fear.
+When you first start QGIS, you'll get a whole lot of white, a bunch of cryptic icons, and pangs of regret and/or fear. On the left pane of the application window, you can click the 'X' to close the "Browser" panel, since we won't be using it. Be sure to keep the "Layers" panel visible.
 
 {% include figure.html src="/images/qgis/qgis-blank.png" caption="The exhileration and terror of a blank map" %}
 
@@ -66,13 +66,13 @@ After you double click on the file to unzip it, you'll notice that you actually 
 
 Click 'Add Vector Layer' icon, the topmost of the vertically stacked icons on the left. Choose 'Directory' (since we want to point QGIS to the directory we downloaded), and click 'Browse' to choose the directory where you ultimately saved and unzipped your directory from the census.gov page.
 
-After you click 'Open', you should see the outlines of all US counties. Cool. You've just created your first layer in QGIS with a shapefile you downloaded.
+After you click 'Open', you should see the outlines of all US counties. Cool! You've just created your first layer in QGIS with a shapefile you downloaded. The color of your map is likely different than the screenshot here, since QGIS chooses an arbitrary color. We'll adjust the color later.
 
 {% include figure.html src="/images/qgis/qgis-counties.png" caption="Not pretty, but pretty cool" %}
 
-If you were expecting a beautifully colored and stylized map centered on the lower 48 (as most county maps you see online are), you may be a bit underwhelmed at this point. As mentioned earlier, this is not a limitation of QGIS (it can create and display truly beautiful maps), but a problem of expectations. All we asked it it do was display outlines of US counties, and that's exactly what it did. The color of your map is likely different than the screenshot here, since QGIS chooses an arbitrary color. We'll adjust the color later.
+If you were expecting a beautifully colored and stylized map centered on the lower 48 (as most county maps you see online are), you may be a bit underwhelmed at this point. As mentioned earlier, this is not a limitation of QGIS, but again a problem of expectations. All we asked it it do was display outlines of US counties, and that's exactly what it did. 
 
-Note the high zoom level so that all of the Hawaiian islands and Guam can fit in the display area. You can click the Zoom icon at the top and draw a rectangle onto an area you'd like to zoom in to (perhaps the continental US) to see the more familiar-looking boundaries at a smaller scale. Notice that because this is a vector image (and not a raster image like a JPG or PNG or TIF), the quality of the image/lines don't get fuzzier as you zoom in.
+Note the high zoom level so that all of the Hawaiian islands and Guam can fit in the display area. You can click the Zoom icon at the top and draw a rectangle onto an area you'd like to zoom in to (perhaps the continental US) to see the more familiar-looking boundaries at a smaller scale. Notice that because this is a vector image (and not a raster image like a JPG or PNG or TIF), the image doesn't get fuzzier as you zoom in (QGIS simply redraws the image at the appropriate scale).
 
 If you want to get back to your original zoom level, or you accidently zoom super far in or out (it will happen eventually!), right-click on the layer name on the left in the Layers pane and select the topmost option, "Zoom to layer".
 
@@ -83,7 +83,7 @@ To see more of what's behind the data we just loaded, right-click on the layer n
 
 {% include figure.html src="/images/qgis/qgis-attributes.png" caption="There is more to your maps than lines on your canvas" %}
 
-There are a bunch of codes and numbers that won't mean much. However, you'll notice that it also includes more intutive data, like county names. You can see the two variants visible the NAME and NAMELSAD fields. These fields also allows us to join this dataset with other datasets organized by county, which we'll do in part 2.
+There are a bunch of codes and numbers that won't mean much to you. However, you'll notice that it also includes more intutive data, like county names. You can see the two variants visible the NAME and NAMELSAD fields. These fields also allows us to join this dataset with other datasets that also contain county names, which we'll do in part 2.
 
 
 ## Add Some Data to the Map
@@ -96,6 +96,6 @@ Go through the same process as before (click the "Add Vector" icon and choose yo
 
 {% include figure.html src="/images/qgis/qgis-railroads.png" caption="It's up to you to find and layer data useful for your research" %}
 
-This is the basic process for adding layers of data to QGIS and making a map. We've loaded two kinds of data, one of polygons for our county boundaries, and one of lines for the railroads. This process of loading shapefiles is the same for displaying countries, railroad lines, bike trails, census tracts, or any other kind of physical or political boundary. There's a LOT of data online that you can freely use to build your maps.
+We've loaded two kinds of data, one of polygons for our county boundaries, and one of lines for the railroads. This process of loading shapefiles is the same for displaying countries, railroad lines, bike trails, census tracts, or any other kind of physical or political boundary. There's a LOT of data online that you can freely use to build your maps. **You now have the power!**
 
-When you're comfortable with the concepts covered here, move on to the next tutorial in the series, on [linking and styling data](/tutorials/linking-and-styling-data-with-qgis).
+When you're comfortable with the concepts covered here, move on to the next tutorial in the series, on [linking and styling data](/tutorials/gis/linking-and-styling-data-with-qgis.html).
