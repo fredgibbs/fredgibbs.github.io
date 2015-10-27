@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Linking and Styling Data with QGIS
-date: 2014-12-20 00:00:00
+date: 2015-10-27 00:00:00
 ---
 
 The [first part](/tutorials/qgis/making-a-map-with-qgis.html) of our tutorial covered some basics of QGIS.
 
 ## Adding Complexity with More Data
 
-The county map is a praise-worthy accomplishment if you've never made a map before. It takes a lot of conceptual understanding just to get to that point. But obviously loading a single data set like county boundaries is not super useful on its own.
+The county map is a praise-worthy accomplishment if you've never made a map before. But obviously loading a single data set like county boundaries is not super useful on its own.
 
-You are probably already realizing one of the principal challenges of GIS work. The actual display of the map is pretty easy (QGIS does all the work for you!). It's in finding (or creating) the data you need, as well as making different data sets work with each other, where the challenges lie. An introductory tutorial is not the place to dive into the many different techniques, but let's work through a typical and relatively straightforward example. 
+You are probably already realizing one of the principal challenges of GIS work. The actual display of the map is pretty easy (QGIS does all the work for you!). The challenge lies in finding (or creating) the data you need, as well as making different data sets work with each other. An introductory tutorial is not the place to dive into the many different techniques, but let's work through a typical and relatively straightforward example. 
 
 
 ## Get and Display Data
@@ -19,11 +19,13 @@ We've already got counties in the form of shapefile; let's see if we can add pop
 
 {% include figure.html src="/images/qgis/county-census-data.png" caption="Census.gov has great data, but not always intuitive ways to access it" class="raw" %}
 
-We want county-level data, so find "Counties" under the left column "Level of Geography", scan to the right following the "Total Population" line and click on the corresponding "V2013" link on the right under "Most Current Data". Under the "Downdloadable Dataset" heading, click "Population, population change...", and click the "Data" link. (It's good to get familiar with websites with good data, but the link to the file is [here](http://www.census.gov/popest/data/counties/totals/2013/files/CO-EST2013-Alldata.csv).) Then you'll see:
+We want county-level data, so find "Counties" under the left column "Level of Geography", scan to the right following the "Total Population" line and click on the corresponding "V2013" link on the right under "Most Current Data". Under the "Downdloadable Dataset" heading, click "Population, population change...", and click the "Data" link. (It's good to get familiar with websites with good data, but the link to the file is [here](http://www.census.gov/popest/data/counties/totals/2013/files/CO-EST2013-Alldata.csv).) 
+
+Whether you navigate through the website to get to the Data link or use the cheat link, when you click on it you'll see:
 
 {% include figure.html src="/images/qgis/alldata.png" caption="Please do not hit the panic button" %}
 
-Perhaps not what you were expecting. Unlike the previous lesson where we loaded up data specifically made for GIS software, this data is plain text data. It is in a standard file format, CSV, which stands for Comma Separated Values. You could load this into a spreadsheet. We won't, but it would look like 
+Perhaps not what you were expecting. Unlike the previous lesson when we loaded up data specifically made for GIS software, this data is plain text data. It is in a standard file format, CSV, which stands for Comma Separated Values. You could load this into a spreadsheet. We won't, but it would look like:
 
 {% include figure.html src="/images/qgis/census-spreadsheet.png" caption="CSV data isn't so scary in a more familiar form" %}
 
@@ -101,9 +103,9 @@ However, notice the legend displays under the layer name in the layer pane. We c
 
 Let's consider at the possible sources of data, starting with our original CSV file. Bring up the attribute table for the original CSV layer. Look at the _CENSUS2010POP_ field. Click on the field name twice to sort it in descending order. Notice the first value is 37253956. 37 million people is a lot for one county and seems a bit suspicious. 
 
-Look at the CTYNAME field; you can see that this data set contains data for entire states as well as single counties. This is throwing off our graduated scale because _when QGIS calculates the scale range for color coding, it uses the range of values from the original table_, not just the data that appears in the attribute table for the layer to which we joined the data. This seems inconvenient now, and possible wrong, but it's the way it should work (ie an elevation map of Iowa shouldn't have lots of white at its highest points). 
+Look at the CTYNAME field; you can see that this data set contains data for entire states as well as single counties. This is throwing off our graduated scale because _when QGIS calculates the scale range for color coding, it uses the range of values from the original table_, not just the data that appears in the attribute table for the layer to which we joined the data. This seems inconvenient now, and possibly wrong, but it's the way it should work (ie an elevation map of Iowa shouldn't have lots of white at its highest points). 
 
-Again, we have an issue with expectations. The "problem" is not how QGIS works, but that we assumed it should work a certain way and that our county data contained only data for counties (not an unreasonable assumption).  In fact, our CSV file of supposed county data came with extra and supposedly helpful data.
+Again, we have an issue with expectations. The "problem" is not how QGIS works, but that we assumed it should work a certain way and that our county data contained data only for counties (not an unreasonable assumption). In fact, our CSV file of supposed county data came with extra and supposedly helpful data.
 
 We have two main choices to improve the map: remove the state popluations from the original CSV file (not difficult, but annoying), or create our color coding in a different way.
 
@@ -111,4 +113,4 @@ Go back to the Properties dialog and the Style menu for the county layer. Look f
 
 Finally, a more useful map.
 
-When you're comfortable with the concepts covered here, move on to the next tutorial in the series, on [using historic maps with QGIS](/tutorials/using-historic-maps-with-qgis).
+When you're comfortable with the concepts covered here, move on to the next tutorial in the series, on [using historic maps with QGIS](/tutorials/qgis/using-historic-maps-with-qgis).
