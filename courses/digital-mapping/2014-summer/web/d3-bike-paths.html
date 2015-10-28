@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>D3 ABQ Bike Paths</title>
+    
+        <style>
+        .bikes {
+          fill:none;
+          stroke:#555;
+        }
+
+        .on {
+          fill:none;
+          stroke:#c00;
+        }
+        </style>
+
+        <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+        <script src="http://d3js.org/queue.v1.min.js"></script>
+        
+  </head>
+  <body>
+    <script type="text/javascript">
+
+            var myMouseoverFunction = function() {
+                // remember how d3 goes through EACH of the selected elements 
+                // and uses your function for EACH element?
+                // well, everytime the function is used for an element,
+                // that element can be referenced by the "this" object
+                // we use 'this' to change the class of the object to "on"
+                // which means (from the style above) it will become red
+                var path = d3.select(this);
+                path.attr("class", "on" );
+            }
+
+            var width = 960,
+                height = 480;
+
+            var projection = d3.geo.mercator()
+                .center([13,13.5])
+                .scale(30000);
+
+            var path = d3.geo.path()
+                .projection(projection);
+
+            var svg = d3.select("body").append("svg")
+                .attr("width", width)
+                .attr("height", height);
+
+            // the queue function (we loaded a JS library to use this)
+            // allows us to make sure our geojson object has fully loaded 
+            // before we try to display it on the webpage
+            queue()
+                .defer(d3.json, './geojson/bike.geojson') // geojson features
+                .await(makeMyMap);
+
+            // this is the function we want to run after our data is loaded
+            function makeMyMap(error, bike) {
+            console.log(bike);
+
+              svg.selectAll("path")
+                 .data(bike.features)
+                 .enter()
+                 .append("path")
+                 .attr("d", path)
+                 .attr("class","bikes")
+                    .on("mouseover", myMouseoverFunction);  
+                    // this says "every time one of the features (bike paths) is moused over, 
+                    // call the myMousroverFunction 
+            }
+        </script>
+  </body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Digital Mapping Examples</title>
+  </head>
+  
+  <body>
+    <h1>Digital Mapping Examples</h1>
+
+    <span style="color:red">WARNING:</span> when you make changes to a project or data at Mapbox, it can take up to an hour (usually like 15 minutes) for the server to create your new tiles. So if you are loading your own tiles from tilemill into a map on your own webpage, keep this delay in mind as you make updates.
+    
+    <h2>Using Mapbox and Tilemill</h2>
+    For our purposes, the best use of TileMill (and Mapbox to access the results) is to style your basemap if you don't want to use one of the standards like Bing, OSM, Stamen, or whatever. You can heavily create/customize a basemap in TileMill to create a very unique looking map onto which you can overlay your data. These two CAN be used to style your own data layers that you can display via own webpage and map, but this process creates an extra and rather time-consuming step whenever you want to update your data or layers (see warning above), since you have to keep re-doing everything in TileMill and uploading your data to Mapbox. There are also more limits to the interactivity you can create as well.
+    <p>
+    If you have spent time styling your data in TileMill, it is not wasted. But you'll have to copy the style info from TileMill into your javascript and style the data you load there. A basic tutorial for styling data with leaflet is <a href="http://leafletjs.com/examples/geojson.html">here</a>.
+    <p>
+    For the most nimble development workflow, I recommend that you load your data layers directly onto your map with javascript (as exampled below), and not by going through mapbox (as the mapbox examples do, just to show different ways of doing things). If you want to use a basemap that you make in TileMill, that's fine, since you won't need to be changing it often, and you won't be doing much debugging on that layer.
+    
+    <h2>A note about the examples</h2>
+    There are lots of ways of doing the same thing. I've tried to illustrate the diversity by loading maps and loading data in slightly different ways across the examples. DO NOT fixate on 1 or 2 examples---understand the different techniques found in each. This will save you TONS of time when looking for code online.
+    <p>
+    All associated files (data, javascript, etc) can be viewed by finding and clicking on the file names in the HTML source code.</p>
+    <p>
+    If you don't understand something in any of the code, or you need an example of something else, tweet at me (@fredgibbs) and use the #digmaps hashtag so everyone can follow the thread.</p>
+
+    <hr>
+
+    <h3>Mapbox/TileMill Examples</h3>
+    <ul>
+      <li><a href="mapbox-mapbox.html">Load a map with data styled with TileMill, uploaded to mapbox.com (and visible under the DATA tab) using the mapbox javascript library, preserving the simple pop-up functionality found in TileMill</a></li>
+      <li><a href="mapbox-popup.html">Load a map of data styled at Mapbox.com using the Mapbox javascript library and enabling custom pop-ups</a></li>
+      <li><a href="mapbox-leaflet.html">Load a map of data styled at Mapbox.com using the leaflet javascript library--has no functionality other than to show the map</a></li>
+    </ul>
+    <h3>Generic Loading Data Examples</h3>
+      <ul>
+      <li><a href="leaflet-control.html">Use a Leaflet control to choose between base layers and toggle data layers on and off</a></li>      
+      <li><a href="leaflet-geojson-popup.html">Show ABQ Public Art with info pop-ups using Leaflet, MapQuest tiles, and loading geoJSON data directly from a file using leaflet.ajax.js</a></li>
+      <li><a href="leaflet-osm-nmcities.html">Show NM City boundaries using Leaflet, OSM tiles, and loading geoJSON data</a></li>
+      <li><a href="stamen.html">Load a US Map with tiles from Stamen maps and loading a KML file exported from Google Maps Engine</a></li>
+        </ul>
+      <h3>D3 Examples</h3>
+    <ul>
+      <li><a href="d3-bike-paths.html">Show ABQ Bike Paths with D3 and mouseover event</a></li>
+      <li><a href="d3-nm-counties.html">Show NM Counties as paths and cities as circles (both from geoJSON files) with D3, with mouseover event</a></li>
+    </ul>
+
+    
+  </body>
+</html>

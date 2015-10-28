@@ -1,0 +1,1569 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.761416,
+                    35.0648,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kindred Spirit",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>110</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Kindred Spirit</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>casts (sculpture)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1995</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Lou  Cuevas</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>11800 Sunset Gardens SW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Westside Animal Control Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.761416</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0648</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6836543449/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6836543449/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7013/6836543449_1ae0118bd9.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7013/6836543449_1ae0118bd9.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.659923,
+                    35.1123,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Solar Arc",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>111</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Solar Arc</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1985</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>William Drexel</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>Menaul Blvd. at 12th Street NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>4-H Park</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.659923</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1123</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2478318273/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2478318273/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2401/2478318273_601e1707d9.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2401/2478318273_601e1707d9.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.563751,
+                    35.0732,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Interweave",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>112</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Interweave</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1984</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>C. Anthony Eck</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>7525 Zuni SE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>East Central Multi-Service Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.563751</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0732</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2439174720/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2439174720/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2330/2439174720_0f1021c0e7.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2330/2439174720_0f1021c0e7.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.496506,
+                    35.0683,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hand of Friendship",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>113</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Hand of Friendship</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1984</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Ted Egri</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>Tramway at Central NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Tramway at Central</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.496506</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0683</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2534820814/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2534820814/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2061/2534820814_22da1a0210.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2061/2534820814_22da1a0210.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.652502,
+                    35.0855,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Presto",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>114</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Presto</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>neon sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1984</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Jeanette Entwisle</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>5th St at Copper NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>5th at Copper NW Parking Structure</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.652502</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0855</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2478318313/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2478318313/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2010/2478318313_1b56557417.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2010/2478318313_1b56557417.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.666818,
+                    35.0934,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Las Mesas",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>115</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Las Mesas</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1984</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Tommie Findley</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>Lomas and Rancho Seco NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Lomas Pedestrianway</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.666819</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0934</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6877658481/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6877658481/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7039/6877658481_efbbd8f746.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7039/6877658481_efbbd8f746.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.667964,
+                    35.0972,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Shepherd",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>116</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>The Shepherd</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1990</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Lincoln Fox</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>2000 Mountain Rd NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Albuquerque Museum</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.667964</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0972</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2478318321/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2478318321/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2204/2478318321_36cd548144.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2204/2478318321_36cd548144.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.638486,
+                    35.0979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Retratos de la Vecinidad (#1)",
+                "styleUrl": "#icon-503-777777",
+                "styleHash": "-37f1cfc3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>117</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Retratos de la Vecinidad (#1)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>photographs (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Miguel Gandert</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1420 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Santa Barbara/Martineztown Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.638486</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0979</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6837494307/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6837494307/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7153/6837494307_4af386bf13_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7153/6837494307_4af386bf13_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.638486,
+                    35.0979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Retratos de la Vecinidad (#2)",
+                "styleUrl": "#icon-503-777777",
+                "styleHash": "-37f1cfc3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>117.01</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Retratos de la Vecinidad (#2)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>photographs (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Miguel Gandert</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1420 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Santa Barbara/Martineztown Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.638486</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0979</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6837494561/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6837494561/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7015/6837494561_cbef26c225_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7015/6837494561_cbef26c225_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.638486,
+                    35.0979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Retratos de la Vecinidad (#3)",
+                "styleUrl": "#icon-503-777777",
+                "styleHash": "-37f1cfc3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>117.02</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Retratos de la Vecinidad (#3)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>photographs (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Miguel Gandert</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1420 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Santa Barbara/Martineztown Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.638486</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0979</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6837494725/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6837494725/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7169/6837494725_47acee5cfd_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7169/6837494725_47acee5cfd_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.638486,
+                    35.0979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Retratos de la Vecinidad (#4)",
+                "styleUrl": "#icon-503-777777",
+                "styleHash": "-37f1cfc3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>117.03</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Retratos de la Vecinidad (#4)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>photographs (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Miguel Gandert</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1420 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Santa Barbara/Martineztown Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.638486</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0979</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6837494957/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6837494957/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7021/6837494957_9b9b52636d_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7021/6837494957_9b9b52636d_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.638486,
+                    35.0979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Retratos de la Vecinidad (#5)",
+                "styleUrl": "#icon-503-777777",
+                "styleHash": "-37f1cfc3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>117.04</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Retratos de la Vecinidad (#5)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>photographs (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Miguel Gandert</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1420 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Santa Barbara/Martineztown Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.638486</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0979</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6837495137/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6837495137/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7022/6837495137_1ebba535a8_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7022/6837495137_1ebba535a8_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.638486,
+                    35.0979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Retratos de la Vecinidad (#6)",
+                "styleUrl": "#icon-503-777777",
+                "styleHash": "-37f1cfc3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>117.05</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Retratos de la Vecinidad (#6)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>photographs (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Miguel Gandert</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1420 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Santa Barbara/Martineztown Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.638486</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0979</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6837495447/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6837495447/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7021/6837495447_58c1a93c6f_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7021/6837495447_58c1a93c6f_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.638486,
+                    35.0979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Retratos de la Vecinidad (#7)",
+                "styleUrl": "#icon-503-777777",
+                "styleHash": "-37f1cfc3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>117.06</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Retratos de la Vecinidad (#7)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>photographs (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Miguel Gandert</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1420 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Santa Barbara/Martineztown Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.638486</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0979</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6837495593/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6837495593/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7159/6837495593_dd11ca14d5_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7159/6837495593_dd11ca14d5_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.638486,
+                    35.0979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Retratos de la Vecinidad (#8)",
+                "styleUrl": "#icon-503-777777",
+                "styleHash": "-37f1cfc3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>117.07</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Retratos de la Vecinidad (#8)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>photographs (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Miguel Gandert</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1420 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Santa Barbara/Martineztown Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.638486</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0979</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6837495865/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6837495865/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7034/6837495865_f1713250aa_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7034/6837495865_f1713250aa_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.638486,
+                    35.0979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Retratos de la Vecinidad (#9)",
+                "styleUrl": "#icon-503-777777",
+                "styleHash": "-37f1cfc3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>117.08</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Retratos de la Vecinidad (#9)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>photographs (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Miguel Gandert</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1420 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Santa Barbara/Martineztown Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.638486</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0979</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6837496087/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6837496087/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7141/6837496087_e9566f7123_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7141/6837496087_e9566f7123_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.638486,
+                    35.0979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Retratos de la Vecinidad (#10)",
+                "styleUrl": "#icon-503-777777",
+                "styleHash": "-37f1cfc3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>117.09</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Retratos de la Vecinidad (#10)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>photographs (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Miguel Gandert</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1420 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Santa Barbara/Martineztown Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.638486</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0979</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6837496291/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6837496291/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7153/6837496291_6b0e4f80bf_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7153/6837496291_6b0e4f80bf_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.638486,
+                    35.0979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Retratos de la Vecinidad (#11)",
+                "styleUrl": "#icon-503-777777",
+                "styleHash": "-37f1cfc3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>117.1</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Retratos de la Vecinidad (#11)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>photographs (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Miguel Gandert</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1420 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Santa Barbara/Martineztown Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.638486</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0979</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6837496533/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6837496533/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7023/6837496533_0ccca68b5c_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7023/6837496533_0ccca68b5c_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.638486,
+                    35.0979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Retratos de la Vecinidad (#12)",
+                "styleUrl": "#icon-503-777777",
+                "styleHash": "-37f1cfc3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>117.11</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Retratos de la Vecinidad (#12)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>photographs (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Miguel Gandert</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1420 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Santa Barbara/Martineztown Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.638486</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0979</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6837496769/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6837496769/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7022/6837496769_d8c1b1dfbf_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7022/6837496769_d8c1b1dfbf_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.638486,
+                    35.0979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Retratos de la Vecinidad (#13)",
+                "styleUrl": "#icon-503-777777",
+                "styleHash": "-37f1cfc3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>117.12</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Retratos de la Vecinidad (#13)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>photographs (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Miguel Gandert</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1420 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Santa Barbara/Martineztown Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.638486</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0979</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6837496973/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6837496973/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7034/6837496973_860168eec6_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7034/6837496973_860168eec6_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.638486,
+                    35.0979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Retratos de la Vecinidad (#14)",
+                "styleUrl": "#icon-503-777777",
+                "styleHash": "-37f1cfc3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>117.13</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Retratos de la Vecinidad (#14)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>photographs (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Miguel Gandert</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1420 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Santa Barbara/Martineztown Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.638486</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0979</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6837497117/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6837497117/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7171/6837497117_2d73d0f632_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7171/6837497117_2d73d0f632_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.638486,
+                    35.0979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Retratos de la Vecinidad (#15)",
+                "styleUrl": "#icon-503-777777",
+                "styleHash": "-37f1cfc3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>117.14</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Retratos de la Vecinidad (#15)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>photographs (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Miguel Gandert</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1420 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Santa Barbara/Martineztown Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.638486</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0979</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6837497317/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6837497317/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7164/6837497317_f6bea399a1_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7164/6837497317_f6bea399a1_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.645487,
+                    35.1225,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Memories of the North Valley (Haciendo Adobes)",
+                "styleUrl": "#icon-503-C6A4CF",
+                "styleHash": "-74ac6223",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>118</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Memories of the North Valley (Haciendo Adobes)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>acrylic paintings</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1994</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Edward  Gonzales</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>3825 4th Street NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>North Valley Senior Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.645487</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1225</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2479130112/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2479130112/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2162/2479130112_8042a4ffd5_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2162/2479130112_8042a4ffd5_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.645487,
+                    35.1225,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Memories of the North Valley (La Acequia)",
+                "styleUrl": "#icon-503-C6A4CF",
+                "styleHash": "-74ac6223",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>118.01</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Memories of the North Valley (La Acequia)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>acrylic paintings</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1994</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Edward  Gonzales</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>3825 4th Street NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>North Valley Senior Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.645487</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1225</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2478318443/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2478318443/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3107/2478318443_884aafb3b5_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3107/2478318443_884aafb3b5_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.645487,
+                    35.1225,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Memories of the North Valley (The Harvesters)",
+                "styleUrl": "#icon-503-C6A4CF",
+                "styleHash": "-74ac6223",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>118.02</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Memories of the North Valley (The Harvesters)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>acrylic paintings</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1994</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Edward  Gonzales</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>3825 4th Street NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>North Valley Senior Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.645487</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1225</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2478318511/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2478318511/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2068/2478318511_735ce79007_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2068/2478318511_735ce79007_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.645487,
+                    35.1225,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Memories of the North Valley (Hanging Chile)",
+                "styleUrl": "#icon-503-C6A4CF",
+                "styleHash": "-74ac6223",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>118.03</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Memories of the North Valley (Hanging Chile)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>acrylic paintings</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1994</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Edward  Gonzales</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>3825 4th Street NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>North Valley Senior Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.645487</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1225</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2478318615/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2478318615/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3012/2478318615_570542b7a1_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3012/2478318615_570542b7a1_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.645487,
+                    35.1225,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Memories of the North Valley (Los Abuelos)",
+                "styleUrl": "#icon-503-C6A4CF",
+                "styleHash": "-74ac6223",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>118.04</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Memories of the North Valley (Los Abuelos)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>acrylic paintings</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1994</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Edward  Gonzales</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>3825 4th Street NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>North Valley Senior Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.645487</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1225</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2478318631/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2478318631/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2282/2478318631_c04bda0830_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2282/2478318631_c04bda0830_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.645487,
+                    35.1225,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Memories of the North Valley (Haciendo Tortillas)",
+                "styleUrl": "#icon-503-C6A4CF",
+                "styleHash": "-74ac6223",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>118.05</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Memories of the North Valley (Haciendo Tortillas)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>acrylic paintings</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1994</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Edward  Gonzales</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>3825 4th Street NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>North Valley Senior Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.645487</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1225</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2479130506/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2479130506/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3200/2479130506_aa1e6a062d_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3200/2479130506_aa1e6a062d_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.650229,
+                    35.0864,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sidewalk Society",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>119</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Sidewalk Society</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1991</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Glenna Goodacre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>330 Tijeras Ave NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Hyatt Hotel Building (sidewalk at 3rd and Tijeras)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.650229</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0864</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6876390491/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6876390491/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7179/6876390491_2ca233dd17_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7179/6876390491_2ca233dd17_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.63807,
+                    35.0973,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Zia",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>120</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Zia</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1990</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>William Goodman</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1420 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Santa Barbara/Martineztown Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.63807</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0973</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/1030961394/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/1030961394/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm2.staticflickr.com/1421/1030961394_dd8e2bacb7_m.jpg\" target=\"_blank\">http://farm2.staticflickr.com/1421/1030961394_dd8e2bacb7_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.661155,
+                    35.0777,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tapestry of Life",
+                "styleUrl": "#icon-503-9FC3FF",
+                "styleHash": "-2d13eb23",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>121</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Tapestry of Life</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>stained glass (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1993</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Cathy Gore</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>903 10th St SW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Rio Grande Zoological Park</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.661155</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0777</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2420677579/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2420677579/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3013/2420677579_db6f213e69_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3013/2420677579_db6f213e69_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.669706,
+                    35.0944,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fountain of Peace",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>122</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Fountain of Peace</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1989</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Sandy Scott</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>Central and San Felipe NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Old Town</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.669706</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0944</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2479130542/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2479130542/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3253/2479130542_bf278d1387_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3253/2479130542_bf278d1387_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.712551,
+                    35.0899,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Picture Fountain",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>123</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Picture Fountain</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>Fountains</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1990</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Maera Green</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>6500 Los Volcanes NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Los Volcanes Senior Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.712552</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0899</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6876428481/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6876428481/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7200/6876428481_ed80e13b06_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7200/6876428481_ed80e13b06_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.655877,
+                    35.0789,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Coronado���s First Visit to New Mexico",
+                "styleUrl": "#icon-503-C6A4CF",
+                "styleHash": "-74ac6223",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>124</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Coronado���s First Visit to New Mexico</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>Painting (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1997</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Maurice Green</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>714 Seventh St SW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Barelas Senior Multi-Service Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.655878</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0789</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2420677741/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2420677741/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3038/2420677741_8a0b45b597_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3038/2420677741_8a0b45b597_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.620755,
+                    35.0637,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Albuquerque Apparition",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>125</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Albuquerque Apparition</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>neon sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>David Griggs</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1700 Yale SE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Loma Linda Community Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.620755</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0637</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2438349729/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2438349729/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3188/2438349729_64372c55cf_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3188/2438349729_64372c55cf_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65159,
+                    35.088,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New Life in Old Albuquerque",
+                "styleUrl": "#icon-503-C6A4CF",
+                "styleHash": "-74ac6223",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>126</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>New Life in Old Albuquerque</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>Painting (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1993</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Roy Grinnell</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>400 Marquette NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>City/County Government Bldg.</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.651591</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.088</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2513552575/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2513552575/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2396/2513552575_fb858a6bd9_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2396/2513552575_fb858a6bd9_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.586856,
+                    35.0585,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cruising San Mateo I",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>127</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Cruising San Mateo I</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1991</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Barbara Grygutis</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>San Mateo at Gibson SE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Gibson Blvd.</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.586856</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0585</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2438349803/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2438349803/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2340/2438349803_751c385b68_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2340/2438349803_751c385b68_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.586204,
+                    35.0603,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cruising San Mateo II",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>127.01</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Cruising San Mateo II</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1991</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Barbara Grygutis</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>San Mateo at Eastern SE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>San Mateo Roadway</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.586204</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0603</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6779966622/in/photostream\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6779966622/in/photostream</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7061/6779966622_8e30779ba1_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7061/6779966622_8e30779ba1_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.652547,
+                    35.0854,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Harvest",
+                "styleUrl": "#icon-503-3F5BA9",
+                "styleHash": "4d8cfcbd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>128</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>The Harvest</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>mural paintings (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1984</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Gilberto Guzman</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>5th at Copper NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>5th at Copper NW Parking Structure</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.652548</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0854</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2479130748/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2479130748/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3044/2479130748_15f6abb119_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3044/2479130748_15f6abb119_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.667964,
+                    35.0972,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "A Tree of Mixed Metaphors",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>129</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>A Tree of Mixed Metaphors</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1988</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Ed Haddaway</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>2000 Mountain Rd NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Albuquerque Museum</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.667964</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0972</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6876375911/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6876375911/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7197/6876375911_84f0141b7a_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7197/6876375911_84f0141b7a_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.661155,
+                    35.0777,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lioness and Cubs",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>130</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Lioness and Cubs</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1984</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Una  Hanbury</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>903 10th St SW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Rio Grande Zoological Park</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.661155</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0777</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2421492774/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2421492774/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2381/2421492774_c8927f65f2_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2381/2421492774_c8927f65f2_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.661155,
+                    35.0777,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Phoenix Rising from the Ashes",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>131</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Phoenix Rising from the Ashes</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1985</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Una  Hanbury</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>903 10th St SW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Rio Grande Zoological Park</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.661155</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0777</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2420677835/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2420677835/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2095/2420677835_f00538b8d3_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2095/2420677835_f00538b8d3_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.621143,
+                    35.081384,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cultural Crossroads of the Americas",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>132</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Cultural Crossroads of the Americas</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1996</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Bob Haozous</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>Central at Harvard NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Yale Park</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.621143</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.081384</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6871063649/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6871063649/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7206/6871063649_e4dba1f3cf_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7206/6871063649_e4dba1f3cf_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.667964,
+                    35.0972,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Walk in Beauty",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>133</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Walk in Beauty</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1983</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Doug Hyde</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>2000 Mountain Rd NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Albuquerque Museum</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.667964</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0972</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2478319015/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2478319015/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3033/2478319015_fdbcd0d22a_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3033/2478319015_fdbcd0d22a_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.641093,
+                    35.0876,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Southwest Pieta/Pieta Suroeste",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>134</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Southwest Pieta/Pieta Suroeste</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1987</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Luis Jimenez</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>520 Edith Blvd. NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Martineztown Longfellow Park</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.641093</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0876</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2534006459/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2534006459/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm2.staticflickr.com/1326/1030110055_e384613406_m.jpg\" target=\"_blank\">http://farm2.staticflickr.com/1326/1030110055_e384613406_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.641093,
+                    35.0876,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Southwest Pieta/Pieta Suroeste (Drawing)",
+                "styleUrl": "#icon-503-C6A4CF",
+                "styleHash": "-74ac6223",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>134.01</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Southwest Pieta/Pieta Suroeste (Drawing)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>drawings (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1987</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Luis Jimenez</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>400 Marquette NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Public Art Offices</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.641093</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0876</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2534006459/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2534006459/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm2.staticflickr.com/1326/1030110055_e384613406_m.jpg\" target=\"_blank\">http://farm2.staticflickr.com/1326/1030110055_e384613406_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.651882,
+                    35.088141,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stepping Stone Table",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>135.01</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Stepping Stone Table</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>Sidewalk Insets</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>2001</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Elzbieta Kaleta</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>400 Marquette NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Cultural Services Reception</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.651882</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.088141</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6780216952/in/photostream\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6780216952/in/photostream</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7064/6780216952_69fa3d2d58_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7064/6780216952_69fa3d2d58_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.618306,
+                    35.0371,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Asteroid Sequence #2",
+                "styleUrl": "#icon-503-C6A4CF",
+                "styleHash": "-74ac6223",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>136</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Asteroid Sequence #2</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>Painting (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1994</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Aaron Karp</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>2033 Columbia Drive SE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Sunport Pool</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.618306</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0371</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2439175098/#/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2439175098/#/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3223/2439175098_9e5eb394e9_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3223/2439175098_9e5eb394e9_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.693663,
+                    35.1543,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Heritage",
+                "styleUrl": "#icon-503-3F5BA9",
+                "styleHash": "4d8cfcbd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>137</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Heritage</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>mural paintings (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1985</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Celia Kimball</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>6100 Taylor Ranch Rd NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Taylor Ranch Fire Station #18</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.693663</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1543</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6926342359/in/photostream\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6926342359/in/photostream</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7068/6926342359_f99ba36534_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7068/6926342359_f99ba36534_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.65159,
+                    35.088,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Thread of New Mexico",
+                "styleUrl": "#icon-503-F9F7A6",
+                "styleHash": "-5ae1d23",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>140</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Thread of New Mexico</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>fiber art</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Nancy Kozikowski</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>400 Marquette NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>City/County Government Bldg.</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.651591</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.088</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2514376952/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2514376952/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2195/2514376952_52781df1e3_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2195/2514376952_52781df1e3_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.761416,
+                    35.0648,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Breath of Life",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>141</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Breath of Life</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>relief (sculptures)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1995</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Bruce  LaFountain</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>11800 Sunset Gardens SW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Westside Animal Control Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.761416</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0648</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2420678055/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2420678055/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2061/2420678055_f6238b5e9a_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2061/2420678055_f6238b5e9a_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.663598,
+                    35.097108,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vehicle Stop",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>142</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Vehicle Stop</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>2001</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Erika Wanenmacher</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1701 Mountain Rd NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Explora</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.663598</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.097108</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2479130918/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2479130918/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2073/2479130918_b089c74a5e_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2073/2479130918_b089c74a5e_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.649786,
+                    35.0929,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Madonna of the Trail",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>143</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Madonna of the Trail</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1998</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>August Leimbach</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>4th St at Marble NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Federal Courthouse Building</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.649786</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0929</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2478319287/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2478319287/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2178/2478319287_808eaab46a_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2178/2478319287_808eaab46a_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.625754,
+                    35.0403,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tea Gate V",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>144</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Tea Gate V</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>sculpture (visual work)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>2001</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Paula Castillo</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>3400 University Blvd SE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Airport Rental Car Facility</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.625754</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0403</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2438410577/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2438410577/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2238/2438410577_70d081ffe1_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2238/2438410577_70d081ffe1_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.712222,
+                    35.1453,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "River of Life",
+                "styleUrl": "#icon-503-F4B400",
+                "styleHash": "-4833d0c3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>145</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>River of Life</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>mosaics</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1996</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Susan Linnell</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>Unser Blvd at Dellyne NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Unser Blvd, Site #3</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.712222</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1453</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2479131098/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2479131098/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3050/2479131098_da1f883a4e_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3050/2479131098_da1f883a4e_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.650757,
+                    35.0869,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Holocaust Memorial",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>146</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Holocaust Memorial</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1999</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Jake Lovato</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>3rd St and Tijeras NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Civic Plaza</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.650757</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0869</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2479131262/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2479131262/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2191/2479131262_1a0597a5bc_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2191/2479131262_1a0597a5bc_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.584915,
+                    35.1246,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Yei-bi-chai Gathering Place",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>147</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Yei-bi-chai Gathering Place</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1995</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Jake Lovato</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>5221 Palo Duro NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Palo Duro Senior Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.584916</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1246</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/1030961824/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/1030961824/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm2.staticflickr.com/1222/1030961824_94165eb43c_m.jpg\" target=\"_blank\">http://farm2.staticflickr.com/1222/1030961824_94165eb43c_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.71254,
+                    35.0908,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Shield",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>148</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>The Shield</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>reliefs (sculptures)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1986</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Elizabeth Red Sun Lyon</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>6404 Los Volcanes NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Shawn McWethy Memorial Police Substation</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.71254</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0908</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2478319513/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2478319513/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2353/2478319513_36d7f9b153_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2353/2478319513_36d7f9b153_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.592557,
+                    35.0848,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Full Circle",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>149</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Full Circle</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1990</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Beverly Magennis</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>440 Jefferson NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Zia School Park</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.592557</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0848</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/1030961914/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/1030961914/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm2.staticflickr.com/1291/1030961914_b21ffd1e01_m.jpg\" target=\"_blank\">http://farm2.staticflickr.com/1291/1030961914_b21ffd1e01_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.640976,
+                    35.1384,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tree of Life",
+                "styleUrl": "#icon-503-F4B400",
+                "styleHash": "-4833d0c3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>150</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Tree of Life</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>mosaic</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1999</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Beverly Magennis</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>4th St at Montano NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>4th Street and Montano</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.640976</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1384</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2479131318/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2479131318/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2315/2479131318_e7bc687c0a_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2315/2479131318_e7bc687c0a_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.646054,
+                    35.0727,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "\"Mestizaje,\"  De Colores Hispanic Heritage Festival Mural",
+                "styleUrl": "#icon-503-3F5BA9",
+                "styleHash": "4d8cfcbd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>151</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>\"Mestizaje,\"  De Colores Hispanic Heritage Festival Mural</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>mural paintings (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1996</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Emanuel Martinez</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1025 Broadway SE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>South Broadway Cultural Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.646054</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0727</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2439175208/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2439175208/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3050/2439175208_49dbff1c16_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3050/2439175208_49dbff1c16_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.658834,
+                    35.0919,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Blue Tile Walls",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>152</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Blue Tile Walls</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1983</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Molly Mason</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>Lomas at 11th St. NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Lomas at 11th NW</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.658834</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0919</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2479131360/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2479131360/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2303/2479131360_7ed18362b3_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2303/2479131360_7ed18362b3_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.670555,
+                    35.0982,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Don Francisco Cuervo y Valdes, Founder of Albuquerque",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>153</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Don Francisco Cuervo y Valdes, Founder of Albuquerque</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1988</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Buck McCain</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>Romero and Rio Grande NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Old Town</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.670555</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0982</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2478319719/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2478319719/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3141/2478319719_24f76f8fde_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3141/2478319719_24f76f8fde_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.647528,
+                    35.0854,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "To Create the Beloved Community",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>154</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>To Create the Beloved Community</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1994</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Jerome Meadows</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>150 Tijeras Ave NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Martin Luther King Jr. Memorial</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.647528</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0854</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2479131588/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2479131588/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2195/2479131588_9a9642f2d9_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2195/2479131588_9a9642f2d9_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.616667,
+                    35.0488,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Running Horses",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>155</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Running Horses</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1991</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Gray Mercer</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>2200 Sunport Blvd. SE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Main Terminal</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.616667</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0488</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2456692995/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2456692995/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3057/2456692995_35186b17f6_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3057/2456692995_35186b17f6_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.586051,
+                    35.0738,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lifelines",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>156</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Lifelines</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1997</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Leigh Moore/Walters</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>550 San Mateo SE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Northeast corner of San Mateo at Zuni SE</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.586051</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0738</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6870692297/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6870692297/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7194/6870692297_f9a58e3ddb_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7194/6870692297_f9a58e3ddb_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.649972,
+                    35.0863,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "George J. Maloof",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>157</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>George J. Maloof</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1990</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Paul Moore</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>3rd St. and Tijeras NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>40 First Plaza</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.649972</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0863</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6876488691/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6876488691/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7183/6876488691_15b5cedbea_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7183/6876488691_15b5cedbea_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.566295,
+                    35.0604,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Fallen Friend",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>158</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>The Fallen Friend</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1997</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Jesus Moroles</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1100 Louisiana Blvd. SE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Veteran's Memorial Park - Phil Chacon Park</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.566295</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0604</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2439175698/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2439175698/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2364/2439175698_10fd27e955_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2364/2439175698_10fd27e955_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.667964,
+                    35.0972,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Floating Mesa",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>159</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Floating Mesa</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1984</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Jesus Moroles</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>2000 Mountain Rd NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Albuquerque Museum</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.667964</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0972</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2479131626/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2479131626/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2268/2479131626_99f9eb41cb_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2268/2479131626_99f9eb41cb_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.590471,
+                    35.0781,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Globe",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>160</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Globe</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>2001</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Ramsey Rose</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>6320 Domingo Rd NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Musical Theatre Southwest</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.590471</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0781</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6780485458/in/photostream\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6780485458/in/photostream</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7068/6780485478_a9203fec10_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7068/6780485478_a9203fec10_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.620687,
+                    35.0812,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Spirit Maiden",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>161</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Spirit Maiden</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1996</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Michael Naranjo</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>Central Ave at Harvard NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Yale Park</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.620687</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0812</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6926608409/in/photostream\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6926608409/in/photostream</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7056/6926608409_1c60dbfca8_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7056/6926608409_1c60dbfca8_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.667964,
+                    35.0972,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Khwee ... Seng (Woman...Man)",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>162</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Khwee ... Seng (Woman...Man)</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1993</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Nora Naranjo Morse</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>2000 Mountain Rd NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Albuquerque Museum</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.667964</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0972</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2479131858/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2479131858/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3139/2479131858_f280a24648_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3139/2479131858_f280a24648_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.636799,
+                    35.1368,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Portrait of Roger A. Hoisington",
+                "styleUrl": "#icon-503-C6A4CF",
+                "styleHash": "-74ac6223",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>163</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Portrait of Roger A. Hoisington</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>Painting (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1996</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Leo Neufeld</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>5412 Second St. NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Albuquerque Police Training Academy</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.636799</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1368</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2479132064/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2479132064/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3295/2479132064_fd11571bdc_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3295/2479132064_fd11571bdc_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.61866,
+                    35.0873,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dreams at Nightmares: Journey of a Broken Weave",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>164</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Dreams at Nightmares: Journey of a Broken Weave</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1987</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Dennis Oppenheim</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>2210 Lomas Blvd. NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>University of New Mexico</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.61866</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0873</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2534820974/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2534820974/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2206/2534820974_b6fe2f373b_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2206/2534820974_b6fe2f373b_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.641393,
+                    35.0987,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Maria C.",
+                "styleUrl": "#icon-503-F9F7A6",
+                "styleHash": "-5ae1d23",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>165</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Maria C.</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>Weavings</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1990</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Luis Ortega</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1500 Broadway NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Vehicle Pollution Management Bldg.</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.641393</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0987</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/1030111109/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/1030111109/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm2.staticflickr.com/1004/1030111109_e3581227d5_m.jpg\" target=\"_blank\">http://farm2.staticflickr.com/1004/1030111109_e3581227d5_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.648355,
+                    35.1021,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "El Camino Real, Road of Life",
+                "styleUrl": "#icon-503-3F5BA9",
+                "styleHash": "4d8cfcbd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>166</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>El Camino Real, Road of Life</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>mural paintings (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1998</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Patricio A. Zamora (PAZ)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1801 4th Street NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>4th Street City Yards</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.648355</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1021</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2478320549/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2478320549/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2263/2478320549_e77672598e_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2263/2478320549_e77672598e_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.711003,
+                    35.07,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Communidad",
+                "styleUrl": "#icon-503-3F5BA9",
+                "styleHash": "4d8cfcbd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>167</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>La Communidad</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>mural paintings (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1997</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Patricio A. Zamora (PAZ)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>Bridge Blvd and Old Coors DR SW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Bridge Blvd and Old Coors</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.711003</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.07</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6836564611/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6836564611/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7002/6836564611_bfb467d0d3_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7002/6836564611_bfb467d0d3_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.656648,
+                    35.0829,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "More than a Fire Fighter",
+                "styleUrl": "#icon-503-3F5BA9",
+                "styleHash": "4d8cfcbd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>168</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>More than a Fire Fighter</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>mural paintings (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1999</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Patricio A. Zamora (PAZ)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>724 Silver SW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Fire Department Administration Bldg.</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.656648</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0829</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6836582183/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6836582183/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7143/6836582183_261be223f8_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7143/6836582183_261be223f8_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.64708,
+                    35.0722,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Primavera",
+                "styleUrl": "#icon-503-3F5BA9",
+                "styleHash": "4d8cfcbd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>169</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>La Primavera</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>mural paintings (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>2013</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Francisco LeFebre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>263 Garfield SE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>South Broadway Park/Arroyo Murals</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.64708</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0722</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6870747399/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6870747399/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7067/6870747399_f7233a02ef_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7067/6870747399_f7233a02ef_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.627819,
+                    35.0763,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crossroads",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>170</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Crossroads</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1984</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Jerry Peart</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>University Blvd. and Coal Ave SE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Median</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.627819</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0763</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2438350615/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2438350615/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2247/2438350615_04be190c93_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2247/2438350615_04be190c93_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.497848,
+                    35.0859,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Blessure",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>171</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>La Blessure</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1990</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Collette  Perazio-Itkin</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>Tramway and Lomas NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Tramway Library</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.497848</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0859</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/1030111235/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/1030111235/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm2.staticflickr.com/1352/1030111235_ff0114f838_m.jpg\" target=\"_blank\">http://farm2.staticflickr.com/1352/1030111235_ff0114f838_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.631349,
+                    35.1259,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gorilla Route #66",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>172</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Gorilla Route #66</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1990</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Sarah Perry</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>4600 Edith NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Solid Waste</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.631349</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1259</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/1030111303/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/1030111303/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm2.staticflickr.com/1015/1030111303_ac5dd00245_m.jpg\" target=\"_blank\">http://farm2.staticflickr.com/1015/1030111303_ac5dd00245_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.637124,
+                    35.1362,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "First Furrow",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>174</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>First Furrow</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1998</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Susan Raymond</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>5408 Second St NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>APD 4th Area Command Substation</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.637125</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1362</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2478320639/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2478320639/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2049/2478320639_1d805b269c_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2049/2478320639_1d805b269c_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.682599,
+                    35.131,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jack Rabbit, Lizards at Bats",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>175</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Jack Rabbit, Lizards at Bats</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1996</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Reynaldo  Rivera</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>2901 Candelaria Rd NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Rio Grande Nature Center</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.682599</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.131</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/6876358677/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/6876358677/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm8.staticflickr.com/7038/6876358677_92e4f6dfbc_m.jpg\" target=\"_blank\">http://farm8.staticflickr.com/7038/6876358677_92e4f6dfbc_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.661155,
+                    35.0777,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Los Cibolos del Rio Grande",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>176</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Los Cibolos del Rio Grande</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1990</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Reynaldo  Rivera</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>903 10th St SW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Rio Grande Zoological Park</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.661155</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0777</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2420678115/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2420678115/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2028/2420678115_fb6bcddbba_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2028/2420678115_fb6bcddbba_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.498768,
+                    35.1398,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Los Osos del Canyon",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>177</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Los Osos del Canyon</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1995</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Reynaldo  Rivera</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>Tramway Blvd, Bear Canyon Arroyo NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Bear Canyon Arroyo/Open Space</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.498768</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1398</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/1030111367/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/1030111367/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm2.staticflickr.com/1327/1030111367_fe0eb135ef_m.jpg\" target=\"_blank\">http://farm2.staticflickr.com/1327/1030111367_fe0eb135ef_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.680889,
+                    35.0927,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Curandera y su Jardin",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>178</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>La Curandera y su Jardin</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>reliefs (sculptures)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1998</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Reynaldo  Rivera</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>2601 Central Ave NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Botanic Garden</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.680889</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0927</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2479132554/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2479132554/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2039/2479132554_84a3f79189_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2039/2479132554_84a3f79189_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.670215,
+                    35.1025,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Entrada al Futuro",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>179</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>La Entrada al Futuro</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>Bas Reliefs (sculpture)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1996</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Leopoldo Romero</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>Zearing at Rio Grande NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Rio Grande Blvd at Zearing NE Corner</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.670215</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.1025</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2479132604/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2479132604/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2380/2479132604_f2d58b04d6_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2380/2479132604_f2d58b04d6_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.625754,
+                    35.0403,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "BMW, Chetro Ketl Kiva, Chaco Canyon, USA",
+                "styleUrl": "#icon-503-777777",
+                "styleHash": "-37f1cfc3",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>180</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>BMW, Chetro Ketl Kiva, Chaco Canyon, USA</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>photographs (visual works)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>2000</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Patrick Nagatani</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>3400 University Blvd SE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Airport Rental Car Facility</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.625754</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0403</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2439236712/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2439236712/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm4.staticflickr.com/3075/2439236712_b7606df525_m.jpg\" target=\"_blank\">http://farm4.staticflickr.com/3075/2439236712_b7606df525_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.641097,
+                    35.098,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "NM Lowrider Bench",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>181</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>NM Lowrider Bench</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1992</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Pedro Romero</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>1500 Broadway NE</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Vehicle Pollution Management Bldg.</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.641097</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.098</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/1030963082/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/1030963082/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm2.staticflickr.com/1003/1030963082_fbb0f7389b_m.jpg\" target=\"_blank\">http://farm2.staticflickr.com/1003/1030963082_fbb0f7389b_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.651992,
+                    35.0855,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gridlock",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>182</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Gridlock</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1984</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Ramsey Rose</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>5th at Copper NW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>5th at Copper NW Parking Structure</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.651992</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0855</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2478320809/in/photostream/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2478320809/in/photostream/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2051/2478320809_fda33fba2c_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2051/2478320809_fda33fba2c_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.758835,
+                    35.0655,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Work",
+                "styleUrl": "#icon-503-62AF44",
+                "styleHash": "5eafc2dd",
+                "description": "<font face=\"Arial\">\n\n<table border=\"1\" width=\"300\" cellpadding=\"5\" cellspacing=\"0\">\n\n<tr bgcolor=\"#9CBCE2\">\n\n<th width=\"50%\" align=\"left\">Field Name</th>\n\n<th width=\"50%\" align=\"left\">Field Value</th>\n\n</tr>\n\n<tr>\n\n<td>Art Code</td>\n\n<td>183</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Title</td>\n\n<td>Fire Work</td>\n\n</tr>\n\n<tr>\n\n<td>Type</td>\n\n<td>public sculpture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Year</td>\n\n<td>1993</td>\n\n</tr>\n\n<tr>\n\n<td>Artist</td>\n\n<td>Evelyn Rosenberg</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Address</td>\n\n<td>11500 Sunset Gardens SW</td>\n\n</tr>\n\n<tr>\n\n<td>Location</td>\n\n<td>Albuquerque Fire Academy</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X</td>\n\n<td>-106.758835</td>\n\n</tr>\n\n<tr>\n\n<td>Y</td>\n\n<td>35.0655</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>IMAGE_URL</td>\n\n<td><a href=\"http://www.flickr.com/photos/abqpublicart/2420678217/\" target=\"_blank\">http://www.flickr.com/photos/abqpublicart/2420678217/</a></td>\n\n</tr>\n\n<tr>\n\n<td>JPG_URL</td>\n\n<td><a href=\"http://farm3.staticflickr.com/2259/2420678217_4f19c60f11_m.jpg\" target=\"_blank\">http://farm3.staticflickr.com/2259/2420678217_4f19c60f11_m.jpg</a></td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>Shape</td>\n\n<td>Point</td>\n\n</tr>\n\n</table>\n\n</font>"
+            }
+        }
+    ]
+}

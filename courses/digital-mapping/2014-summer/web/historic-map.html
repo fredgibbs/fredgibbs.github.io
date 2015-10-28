@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+  
+  <!-- download leaflet libraries -->
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+  <script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.2.4"></script>
+  <script type="text/javascript" src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
+  <script src="js/leaflet.ajax.js"></script>
+  </head>
+  
+  <!-- when the body element finishes loading, run our initialize function (in our loadOSM.js file) -->
+  <body onload="initialize()">
+
+  <style>
+  .range {
+    position:absolute;
+    width:100%;
+    }
+  .leaflet-top .leaflet-control-zoom {
+    top:20px;
+    }
+  </style>
+
+  <script type="text/javascript">
+
+      function popUp(f,l){    
+            l.bindPopup("<img src='" + f.properties.Img_URL + "' />");
+        }
+    
+      function clip(map,layer) {
+        
+        //console.log(this.map);
+        var nw = map.containerPointToLayerPoint([0, 0]),
+            se = map.containerPointToLayerPoint(map.getSize()),
+            clipX = nw.x + (se.x - nw.x) * range.value;
+
+        layer.getContainer().style.clip = 'rect(' + [nw.y, clipX, se.y, nw.x].join('px,') + 'px)';
+        };
+
+
+      function initialize(){
+
+        // create a new map object, and set the view to a given place and zoom
+        var map = L.map('map').setView([35.1107,-106.6100], 16);
+
+       // using the leaflet library we loaded above (referenced by L)
+        var terrain = new L.StamenTileLayer("toner-lite");
+        var osm = L.tileLayer(
+          'http://{s}.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png',          
+        {
+            attribution: 'digital-mapping-2014',
+            subdomains: ['otile1','otile2','otile3','otile4']
+        });                
+
+        var range = document.getElementById('range');
+
+      var openSpaces = new L.GeoJSON.AJAX(["geojson/myopenspace.geojson"],{onEachFeature:popUp}).addTo(map);
+
+      var diningAreas = new L.GeoJSON.AJAX(["geojson/OutdoorDiningAreas.geojson"],{onEachFeature:popUp}).addTo(map);
+        
+        var baseMaps = {
+            "Streets": osm,
+            "Terrain": terrain
+        };
+
+        var overlayMaps = {
+            "Dining Areas": diningAreas,
+            "Open Spaces": openSpaces 
+        };
+
+        openSpaces.addTo(map);
+        diningAreas.addTo(map);
+
+        L.control.layers(baseMaps, overlayMaps).addTo(map);
+
+        var imageUrl = 'cropped-topo.jpg',
+        imageBounds = [[35.25, -106.75], [35.0, -106.5]];
+        var myImage = L.imageOverlay(imageUrl, imageBounds, {opacity:.3}).addTo(map);
+
+        terrain.addTo(map);
+
+
+        //console.log(myImage);
+
+        range['oninput' in range ? 'oninput' : 'onchange'] = function(){clip(map,terrain)};
+/*
+        map.on('overlayadd',function(a){
+          map.fitBounds(a.layer.getBounds());
+        });
+*/
+        map.on('move', function(){clip(map,terrain)});
+
+        clip(map,terrain);
+
+
+  }
+
+  </script>
+
+
+    <div id="map"></div>
+    <input id='range' class='range' type='range' min='0' max='1.0' step='any' />
+
+  </body>
+</html>
