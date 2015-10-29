@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Historic Maps with QGIS
-date: 2014-12-21 00:00:00
+date: 2015-10-29 00:00:00
 ---
 
 This tutorial is the third of three tutorials on getting started with QGIS. The [first part](/tutorials/qgis/making-a-map-with-qgis.html) of our tutorial covered some basics of QGIS. The [second part](/tutorials/qgis/linking-and-styling-data-with-qgis.html) of our tutorial showed some ways of adding data to a map.
@@ -9,25 +9,27 @@ This tutorial is the third of three tutorials on getting started with QGIS. The 
 
 ## Using Data with Historic Maps
 
-It can be very helpful to see historic data on modern maps, but it's nice to see more of the historic context as well. 
+It can be very helpful to see historic data on modern maps, but it's nice to see the historic context as well. 
 
 First you'll need a historic map. You can use, for example, the David Rumsey map collection. We can download a map (say, of railway lines) from the 1860s. We might use something like [this one](http://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~263514~5524264:Transcontinental-routes-of-Pacific-?sort=Pub_List_No_InitialSort&qvq=w4s:/where/United+States;sort:Pub_List_No_InitialSort;lc:RUMSEY~8~1&mi=11&trs=3774#). 
 
 {% include figure.html src="/images/qgis/rumsey.png" caption="Historic maps + GIS = powerful analytical tools" %}
 
-To download your own version of the map, click the "Export" button near the upper right corner, and choose the "extra large" size. This will be good enough for tutorial purposes (though normally you'll want to work with the highest resolution available.
+To download your own version of the map, click the "Export" button near the upper right corner, and choose the "extra large" size (as always, save the file with your others for these lessons). This will be good enough for tutorial purposes (though normally you'll want to work with the highest resolution available.
 
 
 ## Map Projections
 
-Here we need to pause to consider map projections, which can be a complicated topic, and we're only going to scratch the surface short of any real technical detail. When just looking at a single map, you might not think much about the particular projection (of how a curved surface of the Earth gets represented on a flat piece of paper or your screen). But when trying to line up different maps on top of each other, the differences in their projections need to be taken into account. For now it's enough to say that the projection of our historic map (whatever it may be) is unlikely to be the same as a modern map of county boundaries. So we'll need to adjust the old map (by warping the historic image) to fit the new one that has our data. 
+Here we must pause to consider map projections, though we're only going to scratch the non-technical surface of an incredibly complex topic. When just looking at a single map, you might not think much about the particular projection--that is, how a curved surface of the Earth gets represented on a flat piece of paper or your screen. But when trying to line up different maps on top of each other, the differences in their projections need to be taken into account. For now it's enough to say that the projection of a historic map (whatever it may be) is unlikely to be the same as a modern map. So we'll need to digitally warp the old map (kind of like reprojecting it) so that it better lines up with the modern map.
 
-Here's a conceptual description of what we want to do: Pretend our historic map is printed on transparent (like tracing paper) silly putty. Now imagine stretching it in various directions so all of the state boundaries line up with the modern state boundaries, and fixing it atop the modern map by sticking pins on certain obvious features through the silly putty and sticking them in the same features on the modern map. Thus the putty will be stretched in various directions (possibly different amounts in different places on the map/image) but will ultimately come to match the modern one--very well in places near to our pins and perhaps less so everywhere else where we haven't directly lined it up. In a very crude way, this process "reprojects" the map from one coordinate system to another one. It's more technically acurate to say that we are simply georectifying the map/image by indicating where a spot on historic map aligns with our modern county lines.
+Here's a conceptual description of what we want to do. Pretend you have a historic map of the U.S. printed on transparent silly putty sitting atop a modern paper map of the U.S. Now imagine stretching your putty map in various directions (not always symmetrically) to align it with the modern map. Pretend that you're sticking pins through the silly putty at obvious geographic features (coastlines) or political boundaries (state borders) and through the same features on the modern map. Thus the putty will be stretched in various directions (often different amounts in different places on the map/image) but will ultimately come to match the modern one--very closely in places near to our pins and perhaps less so everywhere else where we haven't directly lined it up. In a very crude way, this process "reprojects" the historic map from one coordinate system to another one. It's more technically acurate to say that we are "georectifying" the map/image by indicating where a spot on historic map aligns with our modern county lines.
 
 
-## Loading Images (a slight detour for pedagogical purposes)
+## Loading Images 
 
-Our map is flat; let's add a bit of terrain. We can do this by adding a raster image of topgraphic features (a visual representation of elevation data). Get an image from [Natural Earth](http://www.naturalearthdata.com/downloads/50m-raster-data/50m-shaded-relief/) by clicking the "Download small size" button.
+Georecitfying a historic map complicates the process of loading an image into QGIS, so let's start with a simpler example.
+
+The map we've made so far is totally flat; let's add a bit of terrain. We can do this by adding a raster image of topgraphic features (a visual representation of elevation data). Get an image from [Natural Earth](http://www.naturalearthdata.com/downloads/50m-raster-data/50m-shaded-relief/) by clicking the "Download small size" button.
 
 Once downloaded, you can add this image to the map by clicking the "Add Raster Image" icon (one below the Add Vector Layer), navigate to the directory that you downloaded and unzipped (just like our shapefile directories), and select "SR_50M.tif". Right click on the layer and "Zoom to layer" to center our image.
 
@@ -37,22 +39,22 @@ You can see that this image has obscured our county map, so let's rearrange our 
 
 {% include figure.html src="/images/qgis/topo1.png" caption="Use the image as a base map instead" %}
 
-Let's zoom in a bit to see the continental US, which reveal a bit more detail.
+Let's zoom in a bit to see the continental U.S., which reveals a bit more detail.
 
 {% include figure.html src="/images/qgis/topo2.png" caption="Combining images and data" %}
 
-Let's blend the layers a bit rather than just overlay them. In the Properties menu for the county boundaries layer, set Blending Mode to "Darken", and the Layer Transparency to 20%. This will enable us to see more of a blend of the county data atop the topographic data.
+Let's blend the layers a bit rather than just overlay them. In the Properties menu for the county boundaries layer, set Blending Mode to "Darken", and the Layer Transparency to 20% (feel free to play around with these setting to see what effects you can create). This will enable us to see more of a blend of the county data atop the topographic data.
 
 {% include figure.html src="/images/qgis/topo3.png" caption="You're probably appreciating well designed maps a bit more now" %}
 
 For now, "Zoom to Layer" of the county boundary layer.
 
 {% include figure.html class="icon" src="/images/qgis/add-raster-icon.png" %}
-Now let's load our historic map the same way. (Click the "Add Raster Layer" icon and point to the Rumsey JPG image you downloaded). The "Coordinate Reference Selector" dialog box will open. Here QGIS is trying to figure out how to match up our raster image to the vector map. Just press "OK" and we'll hope for the best (you know you want to).
+Now, let's load our historic map the same way. (Click the "Add Raster Layer" icon and point to the Rumsey JPG image you downloaded). The "Coordinate Reference Selector" dialog box will open. Here QGIS is trying to figure out how to match up our raster image to the vector map. Just press "OK" and we'll hope for the best (you know you want to!).
 
 {% include figure.html src="/images/qgis/historic1.png" caption="Well, that didn't work." %}
 
-What's that block in the lower right corner of the canvas? Yep, that's the map image we just added as a layer. Zoom out a few times to see the big picture. Shockingly, QGIS did not magically do what we wanted and line up the historic map perfectly on the modern outline of the US. 
+What's that block in the lower right corner of the canvas? Yep, that's the map image we just added as a layer. Zoom out a few times to see the big picture. Shockingly, QGIS did not magically do what we wanted and line up the historic map perfectly on the modern outline of the U.S. 
 
 {% include figure.html src="/images/qgis/add-image-1.png" caption="Notice the world in the upper left. Looks like we have a CRS problem."%}
 
@@ -69,7 +71,9 @@ Under the Raster menu, choose Georeferencer.
 {% include figure.html src="/images/qgis/georeferencer.png" caption="Line up your raster images of historic maps and modern vector maps with QGIS" %}
 
 {% include figure.html class="icon" src="/images/qgis/add-raster-icon.png" %}
-Once the dialog box appears, click the upper left icon to load a new image, and select the map you've downloaded. Once it appears, we'll begin the georeferencing process, which is to assign modern geographic coordinates to points on the historic map. To warp a map, we must load it through the georeferencer, not through the "Add Raster Layer" icon from the main QGIS icon stack.
+Once the dialog box appears, click the upper left icon to load a new image, and select the map you've downloaded. Once it appears, we'll begin the georeferencing process, which is to assign modern geographic coordinates to points on the historic map. 
+
+NOTE: **To warp a map, we must load it through the georeferencer, not through the "Add Raster Layer" icon from the main QGIS icon stack.**
 
 {% include figure.html class="icon" src="/images/qgis/add-points-icon.png" %}
 Click the "Add Points" icon to begin adding points. Then, click a point on the historic map to which you want to assign coordinates (say, the southern tip of Florida). The dialog box that appears allows you to enter the coordinates manually, but it's often easier to simply click on a corresponding point on our vector image of the counties. Click the "Use map canvas" button, and the georeferencer will automatically minimize to reveal our canvas. Choose the corresponding point on the vector map.
@@ -95,19 +99,12 @@ If you see an ugly black border, you failed to check the box for "Use 0 for tran
 
 We've got everything loaded properly, and this is an impressive achievement to have so many different kinds of data on our map in such a short time. Let's futz with the display a bit to make the data more useful.
 
-Let's rearrange our layers for better visual effects. Move the county layer ahead of our historic map.
+First, let's rearrange our layers for better visual effects. Within the layers pane, drag the county layer on top of the historic map layer.
 
 {% include figure.html src="/images/qgis/counties-on-historic.png" caption="Layering data."%}
 
-Better already. Move the terrain layer above the county. Double click the layer to edit the style properties. Set the Min value to 52, the Max to 255, Blending Mode to "Hard Light", and reduce the contrast to somewhere around -20. Set the Transparency to about 20%. Click "OK".
+Better already. Now, move the terrain layer above the county. Double click the terrain layer to edit the style properties. Set the Min value to 52, the Max to 255, Blending Mode to "Hard Light", and reduce the contrast to somewhere around -20. Set the Transparency to about 20%. Click "OK".
 
-Move the railway layer to the top, edit its style so that its blending mode is "multiply" and pick a nice bright red color.
+Lastly, move the railway layer to the top, edit its style so that its blending mode is "multiply" and pick a nice bright red color (or whatever you fancy).
 
 {% include figure.html src="/images/qgis/styled-map.png" caption="The end, but only the beginning."%}
-
-
-
-
-
-
-
