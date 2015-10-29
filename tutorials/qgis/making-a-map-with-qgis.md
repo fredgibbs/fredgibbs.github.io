@@ -98,4 +98,4 @@ Go through the same process as before (click the "Add Vector" icon and choose yo
 
 We've loaded two kinds of data, one of polygons for our county boundaries, and one of lines for the railroads. This process of loading shapefiles is the same for displaying countries, railroad lines, bike trails, census tracts, or any other kind of physical or political boundary. There's a LOT of data online that you can freely use to build your maps. **You now have the power!**
 
-When you're comfortable with the concepts covered here, move on to the next tutorial in the series, on [linking and styling data](/tutorials/gis/linking-and-styling-data-with-qgis.html).
+When you're comfortable with the concepts covered here, move on to the next tutorial in the series, on [linking and styling data](/tutorials/qgis/linking-and-styling-data-with-qgis.html).
