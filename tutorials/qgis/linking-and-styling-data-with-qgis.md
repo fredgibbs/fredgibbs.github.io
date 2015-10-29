@@ -25,11 +25,11 @@ Whether you navigate through the website to get to the Data link or use the chea
 
 {% include figure.html src="/images/qgis/alldata.png" caption="Please do not hit the panic button" %}
 
-Perhaps not what you were expecting. Unlike the previous lesson when we loaded up data specifically made for GIS software, this data is plain text data. It is in a standard file format, CSV, which stands for Comma Separated Values. You could load this into a spreadsheet. We won't, but it would look like:
+Perhaps not what you were expecting. Unlike the previous lesson when we loaded up data specifically made for GIS software, this data is plain text data. It is in a standard file format, CSV, which stands for _Comma Separated Values_. You could load this into a spreadsheet, and it would look like:
 
 {% include figure.html src="/images/qgis/census-spreadsheet.png" caption="CSV data isn't so scary in a more familiar form" %}
 
-Hit your browser's back button, then right click the "Data" link, and choose "Save Link As..." (or equivalent for your browser) and save the file wherever you're storing your files for these lessons. Just keep the default file name, _CO-EST2014-Alldata.csv_. 
+For now, hit your browser's back button, then right click the "Data" link, and choose "Save Link As..." (or the equivalent for your browser) and save the file wherever you're storing your files for these lessons. Just keep the default file name, _CO-EST2014-Alldata.csv_. 
 
 {% include figure.html class="icon" src="/images/qgis/add-csv-icon.png" %}
 To load this data into QGIS, click the icon on the left with a comma (towards the bottom of the icon stack) to "Add Delimited Text Layer". You'll see a new dialog window appear, so that we can tell QGIS a little about our data file so it can load it properly. 
@@ -44,7 +44,7 @@ Make sure the box "First record has field names" is checked, since this is true 
 
 Especially if you're someone who just likes to click "OK" without really paying attention, you'll notice the "OK" button is grayed out. Here's why:
 
-This CSV file contains data related to geography (population by counties), but not actually any geographic data about the counties (that's what our other file did). In other words, it's not specifically for mapping; it's just data. So for "Geometry Definiton" we want to select "No Geometry". Now you can click "OK".
+This CSV file contains data related to geography (population by counties), but not actually any geographic data about the counties (that's what our other file did). In other words, it's not specifically for mapping; it's just data. So we need to tell QGIS not to look for any specific geographic data for "Geometry Definiton" we want to select "No Geometry". Now you can click "OK".
 
 Some people expect their map to change here--as if the computer should read our minds--but we haven't told QGIS what to do with this new data. More specifically, we have not indicated how this data relates to the county boundary map we've already loaded.
 
@@ -113,4 +113,4 @@ Go back to the Properties dialog and the Style menu for the county layer. Look f
 
 Finally, a more useful map.
 
-When you're comfortable with the concepts covered here, move on to the next tutorial in the series, on [using historic maps with QGIS](/tutorials/qgis/using-historic-maps-with-qgis).
+When you're comfortable with the concepts covered here, move on to the next tutorial in the series, on [overlaying historic maps with QGIS](/tutorials/qgis/overlaying-historic-maps-with-qgis).
