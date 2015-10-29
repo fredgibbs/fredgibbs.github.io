@@ -19,7 +19,7 @@ We've already got counties in the form of shapefile; let's see if we can add pop
 
 {% include figure.html src="/images/qgis/county-census-data.png" caption="Census.gov has great data, but not always intuitive ways to access it" class="raw" %}
 
-We want county-level data, so find "Counties" under the left column "Level of Geography", scan to the right following the "Total Population" line and click on the corresponding "V2013" link on the right under "Most Current Data". Under the "Downdloadable Dataset" heading, click "Population, population change...", and click the "Data" link. (It's good to get familiar with websites with good data, but the link to the file is [here](http://www.census.gov/popest/data/counties/totals/2013/files/CO-EST2013-Alldata.csv).) 
+We want county-level data, so find "Counties" under the left column "Level of Geography", scan to the right following the "Total Population" line and click on the corresponding "V2014" link on the right under "Most Current Data". Under the "Downdloadable Dataset" heading, click "Population, population change...", and click the "Data" link. (It's good to get familiar with websites with good data, but the link to the file is [here](http://www.census.gov/popest/data/counties/totals/2014/files/CO-EST2014-alldata.csv).) 
 
 Whether you navigate through the website to get to the Data link or use the cheat link, when you click on it you'll see:
 
@@ -29,7 +29,7 @@ Perhaps not what you were expecting. Unlike the previous lesson when we loaded u
 
 {% include figure.html src="/images/qgis/census-spreadsheet.png" caption="CSV data isn't so scary in a more familiar form" %}
 
-Hit your browser's back button, then right click the "Data" link, and choose "Save Link As..." (or equivalent for your browser) and save the file wherever you're storing your files for these lessons. Just keep the default file name, _CO-EST2013-Alldata.csv_. 
+Hit your browser's back button, then right click the "Data" link, and choose "Save Link As..." (or equivalent for your browser) and save the file wherever you're storing your files for these lessons. Just keep the default file name, _CO-EST2014-Alldata.csv_. 
 
 {% include figure.html class="icon" src="/images/qgis/add-csv-icon.png" %}
 To load this data into QGIS, click the icon on the left with a comma (towards the bottom of the icon stack) to "Add Delimited Text Layer". You'll see a new dialog window appear, so that we can tell QGIS a little about our data file so it can load it properly. 
@@ -76,7 +76,7 @@ Close the attribute table.
 
 ## Styling the map based on data
 
-Now on to the second step of useful joins--making our new population data visible. QGIS makes it easy to automatically style data (what is coming to resemble a map) based on the attributes of the various layers. Let's take it upon ourselves to style our map so that the counties are color coded by population size (so, for instance, lighter shades indicate lower populations; darker shades higher population). We've just verified that the population totals in our table make sense for this kind of color coding. 
+Now on to the second step of useful joins--making our new population data visible. QGIS makes it easy to automatically style data and therefore make visual analysis much easier). To illustrate, let's style our map so that the counties are color coded by population size (so, for instance, lighter shades indicate lower populations; darker shades higher population). We've just verified that the population totals in our table make sense for this kind of color coding.
 
 Return to the Properties menu of the original map. Click the Style Tab.
 
@@ -101,15 +101,15 @@ We know that we selected the correct population field (double check if you're no
 
 However, notice the legend displays under the layer name in the layer pane. We can see that the first lite blue color indicates a range (of population, since that's the field we selected) from 82 - 7450856.80. We know from our earlier preliminary inspection that most population totals were closer 30,000 than 7,000,000. It's a good bet that most counties in the US don't have anywhere near 7 million people. Just to make sure, we can bring up the attribute table again and double click on header the population field to sort it in decreasing order and verify that there is no county population that high. *What's going on?*
 
-Let's consider at the possible sources of data, starting with our original CSV file. Bring up the attribute table for the original CSV layer. Look at the _CENSUS2010POP_ field. Click on the field name twice to sort it in descending order. Notice the first value is 37253956. 37 million people is a lot for one county and seems a bit suspicious. 
+Let's consider at the possible sources of data, starting with our CSV file of population data. Bring up the attribute table for the CSV file we imported. Look at the _CENSUS2010POP_ field. Click on the field name twice to sort it in descending order. Notice the first value is 37253956. 37 million people is a lot for one county and seems a bit suspicious. 
 
-Look at the CTYNAME field; you can see that this data set contains data for entire states as well as single counties. This is throwing off our graduated scale because _when QGIS calculates the scale range for color coding, it uses the range of values from the original table_, not just the data that appears in the attribute table for the layer to which we joined the data. This seems inconvenient now, and possibly wrong, but it's the way it should work (ie an elevation map of Iowa shouldn't have lots of white at its highest points). 
+Now, look at the CTYNAME field; you can see that this data set contains poplation data for entire states as well as for single counties. This is throwing off the values used for color coding because _when QGIS calculates the scale range for color coding, it uses the range of values from the original table_, not just the data of the layer we're trying to style. This seems inconvenient now, and possibly wrong, but it's the way it should work.
 
-Again, we have an issue with expectations. The "problem" is not how QGIS works, but that we assumed it should work a certain way and that our county data contained data only for counties (not an unreasonable assumption). In fact, our CSV file of supposed county data came with extra and supposedly helpful data.
+Again, the "problem" is not how QGIS works, but that we assumed that our county data contained data _only_ for counties (which of course is not an unreasonable assumption). In fact, our CSV file of supposedly county-only data came with non-county data that we have to filter out somehow.
 
-We have two main choices to improve the map: remove the state popluations from the original CSV file (not difficult, but annoying), or create our color coding in a different way.
+We have two main choices to improve the map: remove the state popluations from the original CSV file (not difficult, but annoying), or generate our color coding in a different way. We'll do the latter because it's so easy.
 
-Go back to the Properties dialog and the Style menu for the county layer. Look for the "Mode" dropdown box on the right. Instead of Equal Interval (the same range of values for each color), choose "Equal Quantity" (the same number of counties for each range/color). Click "OK".
+Go back to the Properties dialog and the Style menu for the county layer. Look for the "Mode" dropdown box on the right. Instead of Equal Interval (the same range of values for each color), choose "Quantile" (the same number of counties for each range/color). Click "OK".
 
 Finally, a more useful map.
 
