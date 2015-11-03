@@ -35,7 +35,7 @@ Once downloaded, you can add this image to the map by clicking the "Add Raster I
 
 {% include figure.html src="/images/qgis/topo0.png" caption="Adding a raster image of elevation data" %}
 
-You can see that this image has obscured our county map, so let's rearrange our layers--QGIS layers them from bottom to top, just as they appear in the Layers pane. Drag the county map layer above the image layer we just added. 
+You can see that this image has obscured our county map, so let's rearrange our layers. QGIS layers the data on the canvas as they appear in the Layers pane from bottom to top. Drag the county map layer above the image layer we just added. 
 
 {% include figure.html src="/images/qgis/topo1.png" caption="Use the image as a base map instead" %}
 
@@ -65,13 +65,14 @@ _So how did we load the image of elevation data so easily?_ The modern topo map 
 
 ## Using QGIS to Overlay your Historic Image
 
-Our first step is to "georeference" our historic map. As already mentioned, to georeference a map means to associate points on the (historic) map image with points on our vector map (of county boundaries). QGIS has a built-in georeferencer that makes this easy. The idea is to load an image of a map into QGIS, mark at least three points on the raster image (our historic map) and where they correspond to the vector image (our map of counties). 
+Our first step is to "georeference" our historic map. As already mentioned, to georeference a map means to associate points on the (historic) map image with points on our vector map (of county boundaries). QGIS has a built-in georeferencer that makes this easy. The idea is to load an image of a map into QGIS, mark at least three points on the raster image (our historic map) and where they correspond to the vector image (our map of counties).
+
 Under the Raster menu, choose Georeferencer.
 
 {% include figure.html src="/images/qgis/georeferencer.png" caption="Line up your raster images of historic maps and modern vector maps with QGIS" %}
 
 {% include figure.html class="icon" src="/images/qgis/add-raster-icon.png" %}
-Once the dialog box appears, click the upper left icon to load a new image, and select the map you've downloaded. Once it appears, we'll begin the georeferencing process, which is to assign modern geographic coordinates to points on the historic map. 
+Once the dialog box appears, click the upper left icon to load a new image, and select the map you've downloaded. The "Coordinate Reference System Selector" dialog will appear again, but we can accept the defaults. Once it appears, we'll begin the georeferencing process, which is to assign modern geographic coordinates to points on the historic map. 
 
 NOTE: **To warp a map, we must load it through the georeferencer, not through the "Add Raster Layer" icon from the main QGIS icon stack.**
 
@@ -83,7 +84,7 @@ Repeat this process, choosing a handful of points around the perimeter. You need
 {% include figure.html src="/images/qgis/reference-points-2.png" caption="Just like silly putty."%}
 
 {% include figure.html class="icon" src="/images/qgis/yellow-gear-icon.png" %}
-When you've entered 5-7 points, click the yellow gear icon to adjust the Transformation Settings. Choose Thin Plate Spline and Cubic Spline. Click the folder icon to the right of the "Output Raster" input box and choose a filename and directory to save the warped file (and make it easily available for reuse without having to repeat the georeferencing process). Make sure the box for "Use 0 for transparency when needed" is checked.
+When you've entered 5-7 points, click the yellow gear icon to adjust the Transformation Settings. Choose "Thin Plate Spline" and "Cubic Spline". Click the folder icon to the right of the "Output Raster" input box and choose a filename and directory to save the warped file (and make it easily available for reuse without having to repeat the georeferencing process). Make sure the box for "Use 0 for transparency when needed" is checked.
 
 {% include figure.html class="icon" src="/images/qgis/green-arrow-icon.png" %}
 After you've finished with the transformation settings, click the green arrow icon (right next to the load image icon).

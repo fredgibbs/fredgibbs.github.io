@@ -36,9 +36,9 @@ Here are the links of the downloads you need (just download and install the in o
 
 When you first start QGIS, you'll get a whole lot of white, a bunch of cryptic icons, and pangs of regret and/or fear. On the left pane of the application window, you can click the 'X' to close the "Browser" panel, since we won't be using it. Be sure to keep the "Layers" panel visible.
 
-{% include figure.html src="/images/qgis/qgis-blank.png" caption="The exhileration and terror of a blank map" %}
+{% include figure.html src="/images/qgis/qgis-blank.png" caption="The exhilaration and terror of a blank map" %}
 
-Most people expect to see a map, and are frustrated when they don't. QGIS is a powerful but general mapping tool; broad tools of this nature tend not to much without explicit instructions from you. Using these tools successfully, especially mappings tools, often means adjusting your expectations of what they should do automatically. 
+Most people expect to see a map, and are frustrated when they don't. QGIS is a powerful but general mapping tool; broad tools of this nature tend not to do much without explicit instructions from you. Using these tools successfully, especially mappings tools, often means adjusting your expectations of what they should do automatically. 
 
 We must not assume that QGIS should work like Google Maps and automatically display maps for you. If you're constantly comparing what the tool does to what you hope it will do, you're always going to feel like the tool is working against you. If you are disappointed there is no map, you should ask yourself why you expected to see a map when we haven't given the tool any map data to display.
 
@@ -54,9 +54,9 @@ The second thing to recognize is that **GIS tools are not only for projects cent
 
 Let's start making a map! Just for kicks, let's find a map of all the counties in the US. The first step in making any map is to find the data you need. One of the most common formats for GIS data is called a shapefile. If interested, you can [read more about the standard](http://www.digitalpreservation.gov/formats/fdd/fdd000280.shtml).
 
-There are many places for finding GIS data online, but one important repository to keep on your radar is census.gov. You should spend a few minutes exploring the kinds of data you can find there. You can find county data [on this census.gov page](https://www.census.gov/geo/maps-data/data/tiger-line.html). Towards the middle of the page, click 'Download', then 'Web Interface', then select the layer type (the dropdown menu) 'Counties (and equivalent)'. Click the 'Submit' button, then click 'Download national file'. The file "tl\_2015\_us\_county.zip" should save into your specified downloads directory (it's about 70MB). If you get stuck, you can [download the file here](/extras/qgis/tl_2015_us_county.zip).
+There are many places for finding GIS data online, but one important repository to keep on your radar is census.gov. You should spend a few minutes exploring the kinds of data you can find there. You can find county data [on this census.gov page](https://www.census.gov/geo/maps-data/data/tiger-line.html). Towards the middle of the page, click 'Download', then 'Web Interface', then select the layer type (the dropdown menu) 'Counties (and equivalent)'. Click the 'Submit' button, then click 'Download national file'. The file "tl\_2015\_us\_county.zip" should save into your specified downloads directory (it's about 70MB). If you get stuck, you can [download the file here](/extras/qgis/tl_2015_us_county.zip).Depending on how your computer is set up, you may have to double click on the downloaded file to unzip it.
 
-After you double click on the file to unzip it, you'll notice that you actually get a directory full of files. This is quite common way of packaging shapefiles (since they come with a number of auxillary files). Since we're going to start acquiring and generating a set of files and directories, now is a good time to create a new directory somewhere on your hard drive to keep everything organized, ideally a high-level directory that's easy to get to (like your Documents folder or equivalent; you can always move it later). You should put your county map directory in there.
+You'll notice that you actually get a folder full of files rather than a single file. This is quite common way of packaging shapefiles (since they come with a number of auxillary but necessary files). Since we're going to start acquiring and generating a set of files and folders/directories, now is a good time to create a new folder somewhere on your hard drive to keep everything organized, ideally a high-level location that's easy to get to (like your Documents folder or equivalent; you can always move it later). You should put your county map directory in there.
 
 
 ## Add Some Data to the Map
@@ -64,13 +64,13 @@ After you double click on the file to unzip it, you'll notice that you actually 
 
 {% include figure.html class="icon" src="/images/qgis/add-vector-icon.png" %}
 
-Click 'Add Vector Layer' icon, the topmost of the vertically stacked icons on the left. Choose 'Directory' (since we want to point QGIS to the directory we downloaded), and click 'Browse' to choose the directory where you ultimately saved and unzipped your directory from the census.gov page.
+Click 'Add Vector Layer' icon, the topmost of the vertically stacked icons on the left. Choose 'Directory' (since we want to point QGIS to the folder we downloaded), and click 'Browse' to choose the folder where you ultimately saved (and possibly unzipped) your download from the census.gov page.
 
-After you click 'Open', you should see the outlines of all US counties. Cool! You've just created your first layer in QGIS with a shapefile you downloaded. The color of your map is likely different than the screenshot here, since QGIS chooses an arbitrary color. We'll adjust the color later.
+After you click 'Open', you should see the outlines of all US counties. Cool! You've just created your first layer in QGIS with a shapefile you downloaded. The color of your map is likely different than the screenshot here, since QGIS chooses an arbitrary color. We'll adjust the color later. Notice that tl\_2015\_us\_county appears in the layer pane at the left.
 
 {% include figure.html src="/images/qgis/qgis-counties.png" caption="Not pretty, but pretty cool" %}
 
-If you were expecting a beautifully colored and stylized map centered on the lower 48 (as most county maps you see online are), you may be a bit underwhelmed at this point. As mentioned earlier, this is not a limitation of QGIS, but again a problem of expectations. All we asked it it do was display outlines of US counties, and that's exactly what it did. 
+If you were expecting a beautifully colored and stylized map centered on the lower 48 (as most county maps you see online are), you may be a bit underwhelmed at this point. As mentioned earlier, this is not a limitation of QGIS, but a problem of expectations. All we asked it it do was display outlines of US counties, and that's exactly what it did. 
 
 Note the high zoom level so that all of the Hawaiian islands and Guam can fit in the display area. You can click the Zoom icon at the top and draw a rectangle onto an area you'd like to zoom in to (perhaps the continental US) to see the more familiar-looking boundaries at a smaller scale. Notice that because this is a vector image (and not a raster image like a JPG or PNG or TIF), the image doesn't get fuzzier as you zoom in (QGIS simply redraws the image at the appropriate scale).
 

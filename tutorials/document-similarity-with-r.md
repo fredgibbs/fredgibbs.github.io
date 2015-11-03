@@ -1,4 +1,4 @@
---- 
+---
 layout: post 
 title: Document Similarity with R
 date: 2013-06-04 00:00:00

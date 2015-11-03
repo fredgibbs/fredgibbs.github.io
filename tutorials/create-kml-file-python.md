@@ -1,4 +1,4 @@
---- 
+---
 layout: post 
 title: Create a KML file with Python
 date: 2012-10-26 00:00:00

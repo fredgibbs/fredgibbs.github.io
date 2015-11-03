@@ -50,7 +50,7 @@ Some people expect their map to change here--as if the computer should read our 
 
 Let's just check out the data first. Right click on the _CO-EST2013-Alldata_ layer and "Open Attribute Table". Notice that our CSV file has loaded properly and contains lots of great data, like county name (the CTYNAME field) with lots of data about it, including the 2010 population (labeled as CENSUS2010POP. Take notice of the CTYNAME field. Close the Attribute Table.
 
-Now, open the attribute table for our original map of the counties. You'll notice that it, too, contains a field (=column) listing all the county names, but in this file it's called NAMELSAD. Because our two datasets (the county geographic data and the population data) both have the county names. It doesn't matter that one is labeled as CTYNAME and the other as NAMELSAD because we can see (from just browsing through them) that the data is _exactly_ the same (ie county names with Capitalization and the word "County" in each case. Because of this congruity, we can join these tables together so that we can visualize the population data on our county map. Close the attribute table for now.
+Now, open the attribute table for our original map of the counties. You'll notice that it, too, contains a field (=column) listing all the county names, but in this file it's called NAMELSAD. Our two datasets (the county geographic data and the population data) both have the county names, and it doesn't matter that one is labeled as CTYNAME and the other as NAMELSAD because we can see (from just browsing through them) that the data is _exactly_ the same (ie county names with Capitalization and the word "County" in each case. Because of this congruity, we can join these tables together so that we can visualize the population data on our county map. Close the attribute table for now.
 
 
 ## Joining Datasets Together
@@ -69,12 +69,12 @@ If you look at your map now, you might be dismayed to see that it looks exactly 
 
 Before we move to the second step, we should double check that our join has worked by viewing the attribute table for our original layer, scrolling to the right, and noticing that all of the data from the CSV file has been added to our original attribute table. You can also see how QGIS renames the fields to indicate where the data comes from--the CENSUS2010POP field is now labled as _CO-EST2013-Alldata\_CENESUS2010POP_, which is the CSV filename prepended to the original field name.
 
-Take special note of the range of data in the population column that's visible at first glance: they range from around 2000 to 169,000 with most totals in the 20k and 30k range. The important point here is that they are all very reasonable population totals for counties.
+Take special note of the range of data in the population column (it appears directly to the right of the state name column): the values range from around 2000 to 169,000 with most totals in the 20k and 30k range. The important point here is that they are all very reasonable population totals for counties.
 
 Close the attribute table.
 
 
-## Styling the map based on data
+## Styling the Map Based on Data
 
 Now on to the second step of useful joins--making our new population data visible. QGIS makes it easy to automatically style data and therefore make visual analysis much easier). To illustrate, let's style our map so that the counties are color coded by population size (so, for instance, lighter shades indicate lower populations; darker shades higher population). We've just verified that the population totals in our table make sense for this kind of color coding.
 
@@ -84,22 +84,22 @@ Look in the upper left of the dialog. Instead of the default Single Symbol (whic
 
 Now we need to tell QGIS what data it should use to create our color coding. We're going to use the total poplation of the county (originally from the CSV file but now also available via the county layer via our join).
 
-From the Column dropdwon menu (the second field), select the column labeled _CO-EST2013-Alldata\_CENSUS2010POP_.
+From the Column dropdown menu (the second field), select the column labeled _CO-EST2013-Alldata\_CENSUS2010POP_.
 
-Click "Classify" (just under the big white space). This will assign a color to a value range based on the data from our _CENSUS2010POP_ field).
+Click "Classify". This will assign a color to a value range based on the data from our _CENSUS2010POP_ field).
 
 Click "OK" and you'll see finally a new map and the color coding at work. 
 
 {% include figure.html src="/images/qgis/bad-color-coding.png" caption="After all that, everything is lite blue! Really unhelpful." %}
 
 
-## Making the styling useful
+## Making the Styling Useful
 
 You probably expecting something more interesting and/or useful. This is not an uncommon feeling when dealing with data and tools like QGIS. But we can easily make improvements, and this section of the tutorial walks through the common process of understanding why data is not displaying the way you want.
 
 We know that we selected the correct population field (double check if you're not sure!), and we know the population totals were reasonable.
 
-However, notice the legend displays under the layer name in the layer pane. We can see that the first lite blue color indicates a range (of population, since that's the field we selected) from 82 - 7450856.80. We know from our earlier preliminary inspection that most population totals were closer 30,000 than 7,000,000. It's a good bet that most counties in the US don't have anywhere near 7 million people. Just to make sure, we can bring up the attribute table again and double click on header the population field to sort it in decreasing order and verify that there is no county population that high. *What's going on?*
+However, notice the legend displays under the layer name in the layer pane. We can see that the first lite blue color indicates a range (of population, since that's the field we selected) from 82 - 7450856.80. We know from our earlier preliminary inspection that most population totals were closer to 30,000 than 7,000,000. It's a good bet that most counties in the US don't have anywhere near 7 million people. Just to make sure, we can bring up the attribute table again and double click on header the population field to sort it in decreasing order and verify that there is no county population that high. *What's going on?*
 
 Let's consider at the possible sources of data, starting with our CSV file of population data. Bring up the attribute table for the CSV file we imported. Look at the _CENSUS2010POP_ field. Click on the field name twice to sort it in descending order. Notice the first value is 37253956. 37 million people is a lot for one county and seems a bit suspicious. 
 
@@ -109,7 +109,7 @@ Again, the "problem" is not how QGIS works, but that we assumed that our county 
 
 We have two main choices to improve the map: remove the state popluations from the original CSV file (not difficult, but annoying), or generate our color coding in a different way. We'll do the latter because it's so easy.
 
-Go back to the Properties dialog and the Style menu for the county layer. Look for the "Mode" dropdown box on the right. Instead of Equal Interval (the same range of values for each color), choose "Quantile" (the same number of counties for each range/color). Click "OK".
+Go back to the Properties dialog and the Style menu for the county layer. Look for the "Mode" dropdown box. Instead of "Equal Interval" (the same range of values for each color), choose "Quantile" (the same number of counties for each range/color). Click "OK".
 
 Finally, a more useful map.
 
