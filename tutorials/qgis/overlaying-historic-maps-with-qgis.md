@@ -84,7 +84,11 @@ Repeat this process, choosing a handful of points around the perimeter. You need
 {% include figure.html src="/images/qgis/reference-points-2.png" caption="Just like silly putty."%}
 
 {% include figure.html class="icon" src="/images/qgis/yellow-gear-icon.png" %}
-When you've entered 5-7 points, click the yellow gear icon to adjust the Transformation Settings. Choose "Thin Plate Spline" and "Cubic Spline". Click the folder icon to the right of the "Output Raster" input box and choose a filename and directory to save the warped file (and make it easily available for reuse without having to repeat the georeferencing process). Make sure the box for "Use 0 for transparency when needed" is checked.
+When you've entered 5-7 points, click the yellow gear icon to adjust the Transformation Settings. For Transformation type, choose "Thin Plate Spline"; for Resampling methods, choose "Cubic Spline". 
+
+Click the folder or dots icon to the right of the "Output Raster" input box and choose a filename and directory to save the warped file. Saving the file makes it easily available for reuse without having to repeat the georeferencing process--super helpful for when you've spent a lot of time aligning many points.
+
+Make sure the box for "Use 0 for transparency when needed" is checked.
 
 {% include figure.html class="icon" src="/images/qgis/green-arrow-icon.png" %}
 After you've finished with the transformation settings, click the green arrow icon (right next to the load image icon).
