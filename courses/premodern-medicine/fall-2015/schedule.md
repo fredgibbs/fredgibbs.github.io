@@ -103,7 +103,7 @@ All readings below are accessible via the Zotero Library for the course at [http
 
 ## Week 14
 # Preparing the final articles
-- M: Revising existing articles    
+- M: DUE (optionally): Bring paper versions of your article drafts to class to give to me; I'll return them on Wednesday. Class will be for research and writing questions, as well as reviewing common problems from the first articles.    
 - W: Revising existing articles    
 - F: No Class (HSS)    
 
