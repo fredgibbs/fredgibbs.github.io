@@ -20,6 +20,11 @@ Meetings will last about an hour, but feel free to arrive late or leave early as
 The first two readings are broad discussions of spatial humanities, while the last one is a particular case study. Each of the readings is linked above, but if you have any trouble at all accessing the readings, please email one of us and we’ll be sure to make sure you get a copy. For the Blevins reading, be sure to check out the online component, which has a detailed explanation of the interactive maps that accompany the article.
 
 
-## Nov 20: Readings TBA
+## Nov 20: Common Readings
+(1) Lock, Gary. “Representations of Space and Place in the Humanities.” In The Spatial Humanities: GIS and the Future of Humanities Scholarship. Edited by David Bodenhamer, John Corrigan and Trevor M. Harris, 89–108. Bloomington: Indiana University Press, 2010. [[LINK 1](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=642395&site=eds-live&scope=site&ebv=EB&ppid=pp_89)] | [[LINK 2](http://site.ebrary.com/lib/unma/reader.action?ppg=108&docID=10767195&tm=1447282816201)]
+
+
+(2) Gupta, Akhil, and James Ferguson. “Beyond "Culture": Space, Identity, and the Politics of Difference.” In Culture, Power, Place: Explorations in Critical Anthropology. Edited by Akhil Gupta and James Ferguson, 33–51. Durham: Duke University Press, 1997. [[PDF](Gupta_Ferguson.pdf)]
+
 
 ## Dec 11: Readings TBA
