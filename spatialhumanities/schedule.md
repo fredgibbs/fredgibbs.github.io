@@ -27,4 +27,9 @@ The first two readings are broad discussions of spatial humanities, while the la
 (2) Gupta, Akhil, and James Ferguson. “Beyond "Culture": Space, Identity, and the Politics of Difference.” In Culture, Power, Place: Explorations in Critical Anthropology. Edited by Akhil Gupta and James Ferguson, 33–51. Durham: Duke University Press, 1997. [[PDF](Gupta_Ferguson.pdf)]
 
 
-## Dec 11: Readings TBA
+## Dec 11: Common Readings
+
+- Luisetti, Federico, John Pickles, and Wilson Kaiser, eds. The Anomie of the Earth: Philosophy, Politics, and Autonomy in Europe and the Americas. Durham: Duke University Press, 2015. [LINK](http://unm.eblib.com/patron/FullRecord.aspx?p=2055742)
+- Luisetti, Federico, John Pickles, and Wilson Kaiser. “Autonomy: Political Theory/Political Anthropology,” p. 1-21 (Introduction)
+- Reyes, Álvaro, and Mara Kaufman. “Sovereignty, Indigeneity, Territory: Zapatista Autonomy and the New Practices of Decolonization,” p. 44-68 (Chapter 2)
+- Byrd, Jodi A. “Mind the Gap: Indigenous Sovereignty and the Antinomies of Empire,” p. 119-36 (Chapter 5)
