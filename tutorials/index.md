@@ -22,4 +22,4 @@ title: tutorials | fredgibbs
 
 
 ## Text Mining
-- [Detecting Document Similarity with R](document-similarity-with-r.md)
+- [Detecting Document Similarity with R](document-similarity-with-r.html)
