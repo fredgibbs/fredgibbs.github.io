@@ -29,7 +29,8 @@ The first two readings are broad discussions of spatial humanities, while the la
 
 ## Dec 11: Common Readings
 
-- Luisetti, Federico, John Pickles, and Wilson Kaiser, eds. The Anomie of the Earth: Philosophy, Politics, and Autonomy in Europe and the Americas. Durham: Duke University Press, 2015. [LINK](http://unm.eblib.com/patron/FullRecord.aspx?p=2055742)
+In our effort to canvas a broad range of thinking about space, this week we'll read the introduction and two chapters from _The Anomie of the Earth: Philosophy, Politics, and Autonomy in Europe and the Americas._ Edited by Federico Luisetti, John Pickles, and Wilson Kaiser. Durham: Duke University Press, 2015. [LINK](http://unm.eblib.com/patron/FullRecord.aspx?p=2055742)
+
 - Luisetti, Federico, John Pickles, and Wilson Kaiser. “Autonomy: Political Theory/Political Anthropology,” p. 1-21 (Introduction)
 - Reyes, Álvaro, and Mara Kaufman. “Sovereignty, Indigeneity, Territory: Zapatista Autonomy and the New Practices of Decolonization,” p. 44-68 (Chapter 2)
 - Byrd, Jodi A. “Mind the Gap: Indigenous Sovereignty and the Antinomies of Empire,” p. 119-36 (Chapter 5)
