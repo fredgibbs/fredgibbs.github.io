@@ -21,7 +21,7 @@ Just to be clear, I do not mean that we should necessarily embrace a kind of dis
 
 !(right)/images/learning-to-read/Screen-Shot-2013-01-31-at-11.23.07-AM.png(How many times a word appears in each of 5 documents)!
 
-When I first contemplated the goal of "creating document matrix":../document-similarity-with-r. (and how it could be considered a corpus) my reaction registered somewhere marginally above abject disdain. This matrix is not a corpus; it is a grid of numbers. Obviously, this was just another example of some computer scientists over-simplifying complex humanistic data to numbers again. 
+When I first contemplated the goal of "creating document matrix":/tutorials/document-similarity-with-r.html (and how it could be considered a corpus) my reaction registered somewhere marginally above abject disdain. This matrix is not a corpus; it is a grid of numbers. Obviously, this was just another example of some computer scientists over-simplifying complex humanistic data to numbers again. 
 
 *Everyone obviously knows that a matrix and a set of texts are different things! Why pretend otherwise?!*
 
