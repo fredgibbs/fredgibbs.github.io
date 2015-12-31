@@ -65,6 +65,44 @@ h2. Reviews
 * Review of _Chymists and Chymistry_, ed. Anthony Grafton. In _Pharmacy in History_, September 2009.
 
 
+[siraisi-blog]/reviews/communities-of-learned-experience-review
+
+[demaitre-blog]/reviews/medieval-medicine-the-art-of-healing-from-head-to-toe-review
+
+[theory-to-practice-pdf]../publications/IJHE-Gibbs.pdf
+
+[editorial-sustainability-pdf]../publications/Editorial_Sustainability.pdf
+
+[preternature-muse]http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/preternature/v002/2.1.gibbs.html
+[preternature-blog]../poisonous-properties-bodies-forms
+
+[kuhn-jstor]http://www.jstor.org/stable/10.1525/hsns.2012.42.5.510
+[kuhn-pdf]../publications/hsns.2012.42.5.510.pdf
+
+[hos-on-web-site]http://www.digitalpreservation.gov/meetings/scienceonline_2012.html
+[hos-on-web-pdf]http://www.digitalpreservation.gov/meetings/documents/othermeetings/science-at-risk-NDIIPP-report-nov-2012.pdf
+
+[critical-discourse-jdh]http://journalofdigitalhumanities.org/1-1/articles/critical-discourse-in-digital-humanities-by-fred-gibbs/
+[critical-discourse-blog]/publications/critical-discourse-in-the-digital-humanities
+
+[hermeneutics-open]http://writinghistory.trincoll.edu/data/gibbs-owens-2012-spring/
+[hermeneutics-blog]/publications/hermeneutics-of-historical-writing
+
+[textual-traditions-dm]http://www.digitalmedievalist.org/journal/7/gibbs
+[textual-traditions-blog]/publications/textual-traditions-from-community-transcription
+
+[victorian-muse]http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/victorian_studies/v054/54.1.gibbs.html
+[victorian-blog]/publications/conversation-with-data
+
+[tools-dhq]http://www.digitalhumanities.org/dhq/vol/6/2/000136/000136.html
+[tools-blog]/publications/building-better-digital-humanities-tools
+
+[mortimer-muse]http://muse.jhu.edu/journals/journal_of_social_history/summary/v044/44.4.gibbs.html
+[mortimer-blog]/reviews/review-of-the-dying-and-the-doctors
+
+[chymists-blog]/reviews/chymists-and-chymistry
+
+
 h2. Presentations and Participations
 
 * "Aethetics of Digital Editions":http://fredgibbs.net/presentations/digital-latin-library/#/
