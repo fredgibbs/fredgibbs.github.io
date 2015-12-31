@@ -5,21 +5,25 @@ title: publications | fredgibbs
 
 h1. Articles    
 
+* "Editorial Sustainability and Open Peer Review at Programming Historian," _DHCommons_ 1 (2015) %(pub-links)"DHCommons":http://dhcommons.org/journal/issue-1/editorial-sustainability-and-open-peer-review-programming-historian | "PDF":editorial-sustainability-pdf%
+
+* "From Theory to Practice in the Digital Humanities," in _Bildungsgeschichte. International Journal for the historiography for education_ 1 (2015), 95-99. %(pub-links)"PDF":theory-to-practice-pdf%
+
 * "Poisonous Properties, Bodies, and Forms in the Fifteenth Century," _Preternature_ 2.1 (2013): 19-46. %(pub-links)"project muse":preternature-muse% 
 
-* "Riding the Bicycle of Kuhn's _Structure_," _Historical Studies in the Natural Sciences_ 42.5 (2012): 510-513. %(pub-links)"JSTOR":kuhn-jstor | "blog":kuhn-blog%
+* "The Hermeneutics of Data and Historical Writing," in Jack Dougherty and Kristen Nawrotzki (eds.), _Writing History in the Digital Age._ (Ann Arbor: University of Michigan Press, 2013) [with Trevor Owens] %(pub-links)"open access version":hermeneutics-open | "blog":hermeneutics-blog%
+
+* "Riding the Bicycle of Kuhn's _Structure_," _Historical Studies in the Natural Sciences_ 42.5 (2012): 510-513. %(pub-links)"JSTOR":kuhn-jstor | "PDF":kuhn-pdf%
 
 * "The Historical Value of Ephemeral Discussion of Science on the Web" in _Science &#64; Risk: Toward a National Strategy for Preserving Online Science_, (Washington, DC: Library of Congress National Digital Information Infrastructure and Preservation Program, 2012). %(pub-links)"meeting site":hos-on-web-site | "PDF":hos-on-web-pdf%
 
 * "Critical Discourse in the Digital Humanities," _Journal of the Digital Humanities_ 1.1 (2012). %(pub-links)"JDH":critical-discourse-jdh | "blog":critical-discourse-blog%
 
-* "The Hermeneutics of Data and Historical Writing," in Jack Dougherty and Kristen Nawrotzki (eds.), _Writing History in the Digital Age._ (Ann Arbor: University of Michigan Press, 2013) [with Trevor Owens] %(pub-links)"open access version":hermeneutics-open | "blog":hermeneutics-blog%
-
-* "A Conversation with Data: Prospecting Victorian Words and Ideas," _Victorian Studies_ 54.1 (2011) [with Dan Cohen]. %(pub-links)"project muse":victorian-muse | "blog":victorian-blog%
+* "Building Better Digital Humanities Tools," _Digital Humanities Quarterly_ 6.2 (2012) [with Trevor Owens]. %(pub-links)"DHQ":tools-dhq | "blog":tools-blog%
 
 * "New Textual Traditions From Community Transcription," _Digital Medievalist_ 7 (2011). %(pub-links)"DM":textual-traditions-dm  | "blog":textual-traditions-blog%
 
-* "Building Better Digital Humanities Tools," _Digital Humanities Quarterly_ 6.2 (2012) [with Trevor Owens]. %(pub-links)"DHQ":tools-dhq | "blog":tools-blog%
+* "A Conversation with Data: Prospecting Victorian Words and Ideas," _Victorian Studies_ 54.1 (2011) [with Dan Cohen]. %(pub-links)"project muse":victorian-muse | "blog":victorian-blog%
 
 
 h1. Reviews
@@ -44,11 +48,15 @@ h1. Other Contributions
 
 [demaitre-blog]/reviews/medieval-medicine-the-art-of-healing-from-head-to-toe-review
 
+[theory-to-practice-pdf]../IJHE-Gibbs.pdf
+
+[editorial-sustainability-pdf]../Editorial_Sustainability.pdf
+
 [preternature-muse]http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/preternature/v002/2.1.gibbs.html
 [preternature-blog]../poisonous-properties-bodies-forms
 
 [kuhn-jstor]http://www.jstor.org/stable/10.1525/hsns.2012.42.5.510
-[kuhn-blog]/publications/riding-the-bicycle-of-kuhns-structure
+[kuhn-pdf]../hsns.2012.42.5.510.pdf
 
 [hos-on-web-site]http://www.digitalpreservation.gov/meetings/scienceonline_2012.html
 [hos-on-web-pdf]http://www.digitalpreservation.gov/meetings/documents/othermeetings/science-at-risk-NDIIPP-report-nov-2012.pdf
