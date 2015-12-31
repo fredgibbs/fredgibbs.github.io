@@ -11,7 +11,7 @@ Albuquerque, NM 87131-1181
 "fwgibbs@gmail.com":mailto:fwgibbs@gmail.com
 
 
-h2. Recent Academic Positions
+h2. Academic Work
 
 *Aug 2013 -*
 Assistant Professor of History
@@ -23,13 +23,12 @@ Director of Digital Scholarship
 Roy Rosenzweig Center for History and New Media
 George Mason University
 
-h2. Education
-
 *PhD*, *MA*, History of Science, Medicine & Technology
 _University of Wisconsin_ (2009, 2002)
 
 *BA*, Physics 
 _Carleton College_ (1998)
+
 
 h2. Peer Reviewed Publications
 
@@ -252,9 +251,9 @@ h2. Fellowships and Awards
 
 h2. Technical Highlights
 
-* 15 years experience with small and large scale programming projects integrating various web technologies, including Javascript, HTML, PHP, Python, XML, XSLT, AJAX, CSS, MySQL, REST APIs.
+* 15+ years experience with small and large scale programming projects integrating various web technologies, including Javascript, HTML, PHP, Python, XML, XSLT, AJAX, CSS, MySQL, REST APIs.
 * Broad knowledge and experience implementing web standards, accessibility guidelines, database design, and semantic mark-up. Adapted and customized open-source projects to client needs.
-* 8+ years of web design experience creating harmony between user interfaces and information structures.
+* 10+ years of web design experience creating harmony between user interfaces and information structures.
 * Extensive experience providing technical advice and consultations for humanities scholars and projects, creating documentation, and formulating plans for long-term sustainability.
 
 <div id="accordion">
@@ -300,3 +299,5 @@ h3. IBM and Target Corporations (Jul98  -  Feb00)
 </p>
 </div>
 </div> <!-- end accordion -->
+
+
