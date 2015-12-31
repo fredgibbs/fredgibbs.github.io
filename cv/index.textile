@@ -31,9 +31,11 @@ _University of Wisconsin_ (2009, 2002)
 *BA*, Physics 
 _Carleton College_ (1998)
 
-h2. Publications
+h2. Peer Reviewed Publications
 
 * Manuscript under review: _Poison, Medicine, and Disease: Late Medieval and Early Modern Toxicology_.
+
+* "Editorial Sustainability and Open Peer Review at Programming Historian,":http://dhcommons.org/journal/issue-1/editorial-sustainability-and-open-peer-review-programming-historian _DHCommons 1 (2015).
 
 * "From Theory to Practice in the Digital Humanities," in _Bildungsgeschichte. International Journal for the historiography for education_ 1 (2015), 95-99.
 
