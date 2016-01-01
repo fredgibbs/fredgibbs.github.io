@@ -11,7 +11,7 @@ h1. Articles
 
 * "Poisonous Properties, Bodies, and Forms in the Fifteenth Century," _Preternature_ 2.1 (2013): 19-46. %(pub-links)"project muse":preternature-muse% 
 
-* "The Hermeneutics of Data and Historical Writing," in Jack Dougherty and Kristen Nawrotzki (eds.), _Writing History in the Digital Age._ (Ann Arbor: University of Michigan Press, 2013) [with Trevor Owens] %(pub-links)"open access version":hermeneutics-open | "blog":hermeneutics-blog%
+* "The Hermeneutics of Data and Historical Writing," in Jack Dougherty and Kristen Nawrotzki (eds.), _Writing History in the Digital Age._ (Ann Arbor: University of Michigan Press, 2013) [with Trevor Owens] %(pub-links)"digitalculturebooks":hermeneutics-open%
 
 * "Riding the Bicycle of Kuhn's _Structure_," _Historical Studies in the Natural Sciences_ 42.5 (2012): 510-513. %(pub-links)"JSTOR":kuhn-jstor | "PDF":kuhn-pdf%
 
@@ -19,7 +19,7 @@ h1. Articles
 
 * "Critical Discourse in the Digital Humanities," _Journal of the Digital Humanities_ 1.1 (2012). %(pub-links)"JDH":critical-discourse-jdh | "blog":critical-discourse-blog%
 
-* "Building Better Digital Humanities Tools," _Digital Humanities Quarterly_ 6.2 (2012) [with Trevor Owens]. %(pub-links)"DHQ":tools-dhq | "blog":tools-blog%
+* "Building Better Digital Humanities Tools," _Digital Humanities Quarterly_ 6.2 (2012) [with Trevor Owens]. %(pub-links)"DHQ":tools-dhq%
 
 * "New Textual Traditions From Community Transcription," _Digital Medievalist_ 7 (2011). %(pub-links)"DM":textual-traditions-dm  | "blog":textual-traditions-blog%
 
@@ -48,15 +48,14 @@ h1. Other Contributions
 
 [demaitre-blog]/reviews/medieval-medicine-the-art-of-healing-from-head-to-toe-review
 
-[theory-to-practice-pdf]../IJHE-Gibbs.pdf
+[theory-to-practice-pdf]./IJHE-Gibbs.pdf
 
-[editorial-sustainability-pdf]../Editorial_Sustainability.pdf
+[editorial-sustainability-pdf]./Editorial_Sustainability.pdf
 
 [preternature-muse]http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/preternature/v002/2.1.gibbs.html
-[preternature-blog]../poisonous-properties-bodies-forms
 
 [kuhn-jstor]http://www.jstor.org/stable/10.1525/hsns.2012.42.5.510
-[kuhn-pdf]../hsns.2012.42.5.510.pdf
+[kuhn-pdf]./hsns.2012.42.5.510.pdf
 
 [hos-on-web-site]http://www.digitalpreservation.gov/meetings/scienceonline_2012.html
 [hos-on-web-pdf]http://www.digitalpreservation.gov/meetings/documents/othermeetings/science-at-risk-NDIIPP-report-nov-2012.pdf
@@ -64,8 +63,7 @@ h1. Other Contributions
 [critical-discourse-jdh]http://journalofdigitalhumanities.org/1-1/articles/critical-discourse-in-digital-humanities-by-fred-gibbs/
 [critical-discourse-blog]/publications/critical-discourse-in-the-digital-humanities
 
-[hermeneutics-open]http://writinghistory.trincoll.edu/data/gibbs-owens-2012-spring/
-[hermeneutics-blog]/publications/hermeneutics-of-historical-writing
+[hermeneutics-open]http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:7/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#7.3
 
 [textual-traditions-dm]http://www.digitalmedievalist.org/journal/7/gibbs
 [textual-traditions-blog]/publications/textual-traditions-from-community-transcription
