@@ -1,9 +1,10 @@
---- 
+---
 layout: post 
 title: Review of Chymists and Chymistry edited by Anthony Grafton
 date: 2011-06-01 00:00:00
 category: review
 ---
+
 Review of _Chymists and Chymistry: Studies in the History of Alchemy and Early Modern Chemistry_. Lawrence M. Principe, ed. (Chemical Heritage Foundation and Science History Publications, 2007). 
 
 This volume comprises twenty-two papers presented at an international conference on the history of alchemy and early chemistry, for which the principle goals were to tie alchemy into other disciplines, to illustrate the exciting research underway, and to outline the fruitful avenues of research awaiting exploration. The assembled conference papers succeed convincingly in these goals. Through close readings of both well-known and neglected texts, the contributors bring to light the diversity of practitioners of early chemistry, their social and intellectual engagements with each other, and their conflicting understandings of the natural world. A few informal themes emerged from the collection: consideration of how texts were used in view of their highly symbolic language, discussions of matter theory and its implications, and explorations of socio-political contexts.

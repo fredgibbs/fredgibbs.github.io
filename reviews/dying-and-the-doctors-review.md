@@ -1,9 +1,10 @@
---- 
+---
 layout: post 
 title: Review of The Dying and the Doctors by Ian Mortimer
 date: 2011-06-01 00:00:00
 category: review
 ---
+
 Ian Mortimer, _The Dying and the Doctors: The Medical Revolution in Seventeenth-century England_ (Woodbridge: The Boydell Press, 2009.) xiv + 232 pp.
 
 This book tries to show when “society became medicalized”---that is, when people “sought professional medical solutions to serious illnesses and ailments rather than spiritual or amateur nursing help.” To do so, Mortimer quantifies and analyzes the medical services noted in patients’ probate accounts---registers created by executors in the course of administering a deceased person’s estate. He concludes that “after 1675 the great majority of non-destitute people who required medical assistance of some variety not only sought it but obtained it, in some degree at least.” As far as the probate accounts indicate, this is a major shift from a century earlier, when medical expenditures had been used primarily for attendant or palliative care. The increase in purchased medical services was not due to an increase in practitioners, which Mortimer considers highly unlikely, but because the “fate of a severely ill patient was increasing seen to be a matter for human – not divine – intervention.”
