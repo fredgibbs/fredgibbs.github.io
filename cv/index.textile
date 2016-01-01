@@ -105,6 +105,9 @@ h2. Reviews
 
 h2. Presentations and Participations
 
+* "The Universals and Particulars of Poison in the Sixteenth Century"
+** History of Science Society (November 2015)
+
 * "Aethetics of Digital Editions":http://fredgibbs.net/presentations/digital-latin-library/#/
 ** Digital Latin Library Workshop @ University of Oklahoma (June 2015)
 
@@ -126,7 +129,7 @@ h2. Presentations and Participations
 * Poster Presenter for _The Programming Historian_ ("read more...":http://fredgibbs.net/posts/consider-the-poster)
 ** American Historical Association (Jan 2015)
 
-* Workshop Instructor for Digital History Methods (intermediate GIS)
+* Workshop Instructor for Digital History Methods (Intermediate GIS)
 ** American Historical Association (Jan 2015)
 
 * Workshop Organizer: Digital and Computational History of Science
@@ -234,12 +237,14 @@ h2. Presentations and Participations
 
 h2. Recent Courses
 
-* "Historiography":../courses/historiography
+* "History of Premodern Medicine":/courses/premodern-medicine/fall-2015
+* "Advanced Historiography":/courses/historiography-grad/fall-2015
+* "Intro to Historiography":../courses/historiography
 * "Metaphor of Plague":../courses/metaphor-of-plague
+* "Digital Mapping":/courses/digital-mapping
 * "Digital Methods for the Humanities":../courses/digital-methods
 * "Food, Diet, and Health":../courses/food-diet-health
 * "Introduction to Digital History":../courses/archive/introduction-to-digital-history.html
-* "Early History of Western Medicine":../courses/history-of-early-medicine.html 
 * "Medieval Science and Medicine":../courses/archive/medieval-science-medicine.html
 * "The Scientific Revolution":../courses/archive/scientific-revolution.html
 
