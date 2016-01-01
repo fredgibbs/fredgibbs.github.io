@@ -1,9 +1,10 @@
---- 
+---
 layout: post 
 title: Review of Medieval Medicine The Art of Healing from Head to Toe
 date: 2013-05-13 00:00:00
 category: review
 ---
+
 Luke Demaitre, _Medieval Medicine: The Art of Healing from Head to Toe._ Santa Barbara, California, Praeger, 2013. xiv, 350 pp., illus., $58.00
 
 Luke Demaitre has provided us with a book on later medieval medicine unlike any other, systematically illuminating the intersection of medical theory and practice as reflected by about two dozen of the most prominent and highly circulated Latin medical manuals spanning the eleventh through fifteenth centuries. Demaitre does not advance a particular argument about these guides, but provides a wonderfully descriptive and comparative tour of them. Even while constrained to one genre of medical text, Medieval Medicine is essential reading for anyone looking for a synthetic overview of academic medicine in the later medieval period.
