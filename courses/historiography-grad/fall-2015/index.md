@@ -6,11 +6,6 @@ term: Fall 2015
 date: 2015-07-21 00:00:00
 ---
 
-# Graduate Historiography  
-Wednesday 12:30-3  
-MVH-2046
-
-## Contact Info
 Fred Gibbs \([fwgibbs@gmail.com](mailto:fwgibbs@gmail.com)\)    
 Mesa Vista Hall, 1077    
 Office Hours: M 10:15-11:45; W 3:15-4:45; by appointment    
