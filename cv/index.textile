@@ -106,10 +106,10 @@ h2. Reviews
 h2. Presentations and Participations
 
 * "The Universals and Particulars of Poison in the Sixteenth Century"
-** History of Science Society (November 2015)
+** History of Science Society (Nov 2015)
 
 * "Aethetics of Digital Editions":http://fredgibbs.net/presentations/digital-latin-library/#/
-** Digital Latin Library Workshop @ University of Oklahoma (June 2015)
+** Digital Latin Library Workshop @ University of Oklahoma (Jun 2015)
 
 * Panel Organizer: Medieval Data
 ** International Congress of the Medieval Academy of America (May 2015)
@@ -118,7 +118,7 @@ h2. Presentations and Participations
 ** International Congress of the Medieval Academy of America (May 2015)
 
 * Re-viewing Data Scholarship
-** History of Data/Data in History @ Columbia University (April 2015)
+** History of Data/Data in History @ Columbia University (Apr 2015)
 
 * Designing Scholarship
 ** Histories of the Future Workshop @ Princeton University (Feb 2015)
@@ -129,17 +129,14 @@ h2. Presentations and Participations
 * Poster Presenter for _The Programming Historian_ ("read more...":http://fredgibbs.net/posts/consider-the-poster)
 ** American Historical Association (Jan 2015)
 
-* Workshop Instructor for Digital History Methods (Intermediate GIS)
-** American Historical Association (Jan 2015)
-
 * Workshop Organizer: Digital and Computational History of Science
-** History of Science Society (November 2014)
+** History of Science Society (Nov 2014)
 
 * Digital Interfaces: Data, Design, Geography, and the Humanities 
-** Southwest American Association of Geographers (October 2014)
+** Southwest American Association of Geographers (Oct 2014)
 
 * NEH Summer Institute Instructor on Text Mining
-** NEH Summer Institute: Doing Digial History (August 2014)
+** NEH Summer Institute: Doing Digial History (Aug 2014)
 
 * New Media and the Future of Scholarly Societies
 ** American Association for the History of Medicine (May 2014)
@@ -148,7 +145,7 @@ h2. Presentations and Participations
 ** American Association for the History of Medicine (May 2014)
 
 * Building a Cyberinfrastructure for the Humanities and Beyond
-** Cyberinfrastructure Day at University of New Mexico (April 2014)
+** Cyberinfrastructure Day at University of New Mexico (Apr 2014)
 
 * Poison, Potatoes, and Post-Computational Humanities
 ** University of Houston (Feb 2014)
@@ -157,28 +154,19 @@ h2. Presentations and Participations
 ** Johns Hopkins University (Nov 2013)
 
 * Speaking in Code Workshop Participant
-** Scholars' Lab @ University of Virginia (November 2013)
-
-* Document Similarity with R
-** THATCamp @ RRCHNM (June 2013)
-
-* Historical Mapping with QGIS
-** THATCamp @ RRCHNM (June 2013)
+** Scholars' Lab @ University of Virginia (Nov 2013)
 
 * Pharmaceutical Traces: Exposing the Textual Traditions of Medieval Pharmacy
 ** International Congress of the Medieval Academy of America (May 2013)
 
 * Commenter for Digital History Panel 
-** Society for the History of the Federal Government (April 2013)
+** Society for the History of the Federal Government (Apr 2013)
 
 * Separating Poison and Medicine in the Sixteenth Century
-** National Library of Medicine (September 2012)
+** National Library of Medicine (Sep 2012)
 
 * Archiving Online Science
-** Library of Congress: Science at Risk Workshop (July 2012)
-
-* Text mining in the Digital Humanities
-** Hertog Global Strategy Initiative @ Columbia University (May 2012)
+** Library of Congress: Science at Risk Workshop (Jul 2012)
 
 * Mapping Metadata
 ** American Society for Environmental History (Apr 2012)
@@ -191,48 +179,88 @@ h2. Presentations and Participations
 
 * "Roundtable Participant: A conversation about text mining":http://aha.confex.com/aha/2012/webprogram/Session6143.html
 ** American Historical Association (Jan 2012)
+
 * "Digital Poster: Lo-tech introduction to text mining":http://fredgibbs.net/extras/text-mining-digital-poster
 ** American Historical Association (Jan 2012)
+
 * Session organizer: Report from Digging Into Data Participants
 ** American Historical Association (Jan 2012)
+
 * "Criticism in the Digital Humanities":http://mith.umd.edu/podcast/?podcast=115
 ** Maryland Institute for Technology in the Humanities Digital Dialogs (Oct 2011)
+
 * Moving Beyond Anecdotal History
 ** Digital Humanities Annual Conference (Jun 2011)
+
 * "Implications of Data for the 21st Century Historian":http://www.nitle.org/live/events/123-digital-scholarship-seminar-implications-of-data
 ** NITLE Digital Scholarship Seminar (Apr 2011)
+
 * "History as Data":http://www.tvworldwide.com/events/webwise/110309/default.cfm?tab=3
 ** Institute of Museum and Library Services WebWise Conference (Mar 2011)
+
 * Towards Textual Editing Communities: Recreating the Middle Ages
 ** MARCO Manuscript Workshop (Feb 2011)
+
 * Participant: API Workshop
 ** Maryland Institute for Technology in the Humanities (Feb 2011)
+
 * "Putrefaction and Poison in the Sixteenth Century":http://prezi.com/xvcrjhs_3xw6/putrefaction/
 ** University of Minnesota History of Medicine Colloquium (Nov 2010)
+
 * Generation from Putrefaction and Early Modern Causes of Disease
 ** History of Science Society (Nov 2010)
+
 * New Textual Traditions for Discovering the Middle Ages
-** Third International MARGOT Conference: Digital Middle Ages (June 2010)
+** Third International MARGOT Conference: Digital Middle Ages (Jun 2010)
+
 * Medicine and Metaphor: Medical Discussions and Definitions of Poison
 ** International Congress of the Medieval Academy of America (May 2010)
+
 * Poison in the World and the Body: Concepts of ‘Species' in Medical Theory
-** Arizona Center For Medieval and Renaissance Studies(Feb 2010)
+** Arizona Center For Medieval and Renaissance Studies (Feb 2010)
+
 * The Science of Poison: New Analytical Approaches to Toxins in the Middle Ages
 ** International Congress of the Medieval Academy of America (May 2008)
+
 * ‘The venomes doo preserve from diseases': Concepts and Categories of Poison
 ** UW History of Science Department Colloquium (Dec 2007)
+
 * Medical Debates circa 1500: Approaches of Antonio Guaineri and Sante Arduino
 ** American Association for the History of Medicine (May 2007)
+
 * Poison and Disease in the Renaissance
 ** New York Academy of Medicine Colloquium (Mar 2007)
+
+<!--
 * Food in the History of Science, Medicine, and Technology
 ** UW History of Science Department Brownbag (co-presenter, Dec 2006)
+
 * Fourteenth-century Approaches to Toxicology
 ** History of Science Society (Nov 2006)
+
 * The Natural Philosophy of Poison
 ** Midwest Junto for the History of Science (Apr 2006)
+
 * Plague, Pestilence and Disease
 ** Society for the Social History of Medicine Post-graduate conference (Jan 2006)
+-->
+
+h2. Digital Workshop Presentations
+
+* Workshop Instructor for Digital History Methods (Intermediate GIS)
+** American Historical Association (Jan 2015)
+
+* Workshop Instructor for "Doing Digital History Summer Institute":http://history2014.doingdh.org
+** George Mason University (August 2014)
+
+* Text mining in the Digital Humanities
+** Hertog Global Strategy Initiative @ Columbia University (May 2012)
+
+* Document Similarity with R
+** THATCamp @ RRCHNM (June 2013)
+
+* Historical Mapping with QGIS
+** THATCamp @ RRCHNM (June 2013)
 
 
 h2. Recent Courses
