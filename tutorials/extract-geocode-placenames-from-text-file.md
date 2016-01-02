@@ -12,6 +12,7 @@ This kind of script can be extraordinarly beneficial in making a quick map of pl
 ---
 
 If you have a list of places you'd like to visualize on a map, one crucial first step is to find the latitude and longitude coordinates for those places. A number of mapping tools or websites can do this for you--behind the scenes--in the process of putting dots on a map. But there are many limitations to relying on other tools to do the geocoding for you:
+
 1. Most do not scale very well. Many free services will only geolocate around 100 points for you at a time. 
 2. With free services, rarely do you get the actual coordinates of the places that you can resuse with other tools. 
 3. Geocoding the places yourself also gives you the chance to fix any places that are difficult to geolocate, or simply find the coordinate yourself as needed. 
