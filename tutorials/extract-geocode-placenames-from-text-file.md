@@ -83,7 +83,7 @@ For now, plug that URL into your browser's URL bar to see the result. This is eq
 {% endhighlight %}
 
 
-Python makes it very easy to send API requests (like the one above) and to process the results, especially when using the [requests module](http://docs.python-requests.org/en/latest/). (You may want to read about [installing python modules](../install-python-modules/ "installing python modules").) A simple example of making a request in python looks like
+Python makes it very easy to send API requests (like the one above) and to process the results, especially when using the [requests module](http://docs.python-requests.org/en/latest/). (You may want to read about [installing python modules](../tutorials/install-python-modules "installing python modules").) A simple example of making a request in python looks like
 
 {% highlight python %}
 r = requests.get(URL, params=DICTIONARY)
