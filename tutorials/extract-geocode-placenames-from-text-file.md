@@ -5,21 +5,26 @@ date: 2012-10-12 00:00:00
 category: tutorial
 ---
 
-This tutorial explains how to write a python script to parse a text file with placenames and geolocate them (get latitude and longitude coordinates). It covers how to send requests to the Google Geocoding API and process the JSON response that it returns.
+_This tutorial explains how to write a python script to parse a text file with placenames and geolocate them (get latitude and longitude coordinates). It covers how to send requests to the Google Geocoding API and process the JSON response that it returns.
 
-This kind of script can be extraordinarly beneficial in making a quick map of places from a list of places that you've been recording.  
+This kind of script can be extraordinarly beneficial in making a quick map of places from a list of places that you've been recording._
 
 ---
 
-If you have a list of places you'd like to visualize on a map, one crucial first step is to find the latitude and longitude coordinates for those places. A number of mapping tools or websites can do this for you---behind the scenes---in the process of putting dots on a map for you. But there are many limitations to relying on other tools to do the geocoding for you. (1) Most do not scale very well. Many free services will only geolocate around 100 points for you at a time. (2) Geocoding the places yourself also gives you the chance to fix any places that are difficult to geolocate, or simply find the coordinate yourself as needed. (3) With free services, rarely do you get the actual coordinates of the places that you can resuse with other tools. You'll have far more flexibility in what the kinds of maps you can create if you can find and record the geographic coordinates for your places yourself. With a little bit of python scripting, it's rather straightforward.
+If you have a list of places you'd like to visualize on a map, one crucial first step is to find the latitude and longitude coordinates for those places. A number of mapping tools or websites can do this for you--behind the scenes--in the process of putting dots on a map. But there are many limitations to relying on other tools to do the geocoding for you:
+1. Most do not scale very well. Many free services will only geolocate around 100 points for you at a time. 
+2. With free services, rarely do you get the actual coordinates of the places that you can resuse with other tools. 
+3. Geocoding the places yourself also gives you the chance to fix any places that are difficult to geolocate, or simply find the coordinate yourself as needed. 
 
-To find coordinates for a place, we can use an Application Programming Inferface (API). Just as when you type in Google.com to your URL bar in your browser and you get the familiar Google search page, you can use an API the same way. But instead of getting a webpage, you get information that you requested via the URL. We are going to use the [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/). To use it, we need to send it a request like
+You'll have far more flexibility in what kinds of maps you can create (and how you create them) if you can find and record the geographic coordinates for your places yourself. With a little bit of python scripting, it's rather straightforward.
+
+To find coordinates for a place, we can use an Application Programming Inferface (API). Just as when you type in Google.com to your URL bar in your browser and you get the familiar Google search page, you can use an API the same way. But instead of getting a webpage, you get structured information that you specifically requested via the URL. We are going to use the [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/). To use it, we need to send it a request like
 
 {% highlight python %}
 http://maps.googleapis.com/maps/api/geocode/json?address=Albuqueruque+NM&sensor=false
 {% endhighlight %}
 
-For now, plug that URL into your browser's URL bar to see the result. This is equivalent to "making a request" to the API. You can see that the response sent from the server is plaintext (there is no formatting like a nice looking webpage would have), but it is nicely organized using Javascript Object Notation (JSON). Glancing through it, you can see it contains a lot of potentially useful information.
+For now, plug that URL into your browser's URL bar to see the result. This is equivalent to "making a request" to the API. You can see that the response sent from the server is plaintext (there is no formatting like a nice looking webpage would have), but it is nicely organized using [Javascript Object Notation](http://www.w3schools.com/json/) (JSON). Glancing through it, you can see it contains a lot of potentially useful information.
 
 {% highlight python %}
 {
@@ -89,7 +94,7 @@ Python makes it very easy to send API requests (like the one above) and to proce
 r = requests.get(URL, params=DICTIONARY)
 {% endhighlight %}
 
-In this case, our **URL** will be the base URL of the Google Geocoding API (as stated above). For our **DICTIONARY**, we have to create a [python dictionary](http://www.tutorialspoint.com/python/python_dictionary.htm) that will hold at least two bits of information that the API expects us to send: **address** (in this case our place name), and **sensor** (which the API requires to be set to true or false). The code to make the request will look like
+In this case, our **URL** will be the base URL of the Google Geocoding API (as stated above). For our **DICTIONARY**, we have to create a [python dictionary](http://learnpythonthehardway.org/book/ex39.html) that will hold at least two bits of information that the API expects us to send: **address** (in this case our place name), and **sensor** (which the API requires to be set to true or false). The code to make the request will look like
 
 {% highlight python %}
 
