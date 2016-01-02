@@ -214,9 +214,9 @@ Running the above code should result in output like
 36.4072485 -105.5730665
 {% endhighlight %}
 
-Printing the coordiantes to our screen is good that we can see the script is working. But that isn't particularly helpful for a larger goal of making this coordinates more portable. Let's modify our python script so that it can save our coordinates to a text file. 
+Printing the coordiantes to our screen is helpful in that we can see the script is working. But that isn't particularly helpful for a larger goal of making this coordinates more portable. Let's modify our python script so that it can save our coordinates to a text file. 
 
-But since it's always nice to have well-structured data, let's create a CSV file. This will allow us to easily import our list of places into a number of mapping tools. This is best done by using the Python csv module so that it can take care of properly formatting the lines of our CSV file. The csv module is probably already installed on your computer.
+To do this, since it's always nice to have well-structured data, let's create a CSV file. This will allow us to easily import our list of places into a number of mapping tools. This is best done by using the Python csv module so that it can take care of properly formatting the lines of our CSV file. The csv module is probably already installed on your computer.
 
 The python method that we'll use write a line to the file requires that we pass it a python list, where each item of the list is a value to be separated by commas in the resulting CSV file. For example running this code
 
@@ -267,4 +267,4 @@ Running this should result in a file (geocoded-placelist.txt) that looks like
 "Taos, NM",36.4072485,-105.5730665
 {% endhighlight %}
 
-That's all there is to it! Now you have a nicely formatting CSV file of your places and their geocoordinates that can be imported into most any mapping tool.
+That's all there is to it! Now you have a nicely formatted CSV file of your places and their geocoordinates that can be imported into most any mapping tool.
