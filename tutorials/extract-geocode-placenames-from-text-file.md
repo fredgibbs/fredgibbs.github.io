@@ -5,9 +5,9 @@ date: 2012-10-12 00:00:00
 category: tutorial
 ---
 
-_This tutorial explains how to write a python script to parse a text file with placenames and geolocate them (get latitude and longitude coordinates). It covers how to send requests to the Google Geocoding API and process the JSON response that it returns.
+_This tutorial explains how to write a python script to parse a text file with placenames and geolocate them (get latitude and longitude coordinates). It covers how to send requests to the Google Geocoding API and process the JSON response that it returns._
 
-This kind of script can be extraordinarly beneficial in making a quick map of places from a list of places that you've been recording._
+_This kind of script can be extraordinarly beneficial in making a quick map of places from a list of places that you've been recording._
 
 ---
 
