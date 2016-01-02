@@ -155,7 +155,7 @@ When you run this code, your output will be the latitude and longitude of ABQ. Y
 35.110703 -106.609991
 {% endhighlight %}
 
-This code works fine for a single place, but we really want to process a list of places. Suppose we have a text file (placelist.txt) with a list of places (say, ones from [extracted from another file](../extract-transform-and-save-csv-data/ "extract, transform, and save CSV data")) that looks like
+This code works fine for a single place, but we really want to process a list of places. Suppose we have a text file (placelist.txt) with a list of places (say, ones from [extracted from another file](/tutorials/extract-transform-save-csv "extract, transform, and save CSV data")) that looks like
 
 {% highlight text %}
 Albuquerque, NM

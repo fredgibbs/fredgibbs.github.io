@@ -5,10 +5,15 @@ title: tutorials | fredgibbs
 
 # Tutorials
 
+
 ## QGIS
 - [Making a Map](qgis/making-a-map-with-qgis.html)
 - [Linking and Stlying Data](qgis/linking-and-styling-data-with-qgis.html)
 - [Overlaying Historic Maps](qgis/overlaying-historic-maps-with-qgis.html)
+
+
+## General Programming
+- [Installing python modules with pip](http://fredgibbs.net/tutorials/install-python-modules)
 
 
 ## Data Work

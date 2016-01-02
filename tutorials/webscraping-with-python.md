@@ -104,7 +104,7 @@ Let's look at the source code of a messier page.
 
 <page with extra a tags, and useful ones in a div tag>
 
-Let's look at the code. These sites are usually highligh standardized, meaning that blocks of code follows predictable patterns. In this case we can see that our anchor links are always enclosed within a DIV tag with a class name of "artifact-title".
+Let's look at the code. These sites are usually highly standardized, meaning that blocks of code follows predictable patterns. In this case we can see that our anchor links are always enclosed within a DIV tag with a class name of "artifact-title".
 
 Let's modify our strategy a little. First, get all the DIV tags with that class, and for each one, pull out the A tag within it. The built-in functionality of Beaultiful Soup makes it easy to target our search for tags with a specific class name.
 
