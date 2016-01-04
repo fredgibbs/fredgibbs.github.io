@@ -3,7 +3,7 @@ layout: cv
 title: cv | fredgibbs
 ---
 
-Frederick W Gibbs
+*Frederick W. Gibbs*
 Department of History
 MSC06 3760
 1 University of New Mexico
@@ -108,7 +108,7 @@ h2. Presentations and Participations
 * "The Universals and Particulars of Poison in the Sixteenth Century"
 ** History of Science Society (Nov 2015)
 
-* "Aethetics of Digital Editions":http://fredgibbs.net/presentations/digital-latin-library/#/
+* "Aesthetics of Digital Editions":http://fredgibbs.net/presentations/digital-latin-library/#/
 ** Digital Latin Library Workshop @ University of Oklahoma (Jun 2015)
 
 * Panel Organizer: Medieval Data
@@ -231,7 +231,6 @@ h2. Presentations and Participations
 * Poison and Disease in the Renaissance
 ** New York Academy of Medicine Colloquium (Mar 2007)
 
-<!--
 * Food in the History of Science, Medicine, and Technology
 ** UW History of Science Department Brownbag (co-presenter, Dec 2006)
 
@@ -243,7 +242,7 @@ h2. Presentations and Participations
 
 * Plague, Pestilence and Disease
 ** Society for the Social History of Medicine Post-graduate conference (Jan 2006)
--->
+
 
 h2. Digital Workshop Presentations
 
@@ -331,7 +330,8 @@ h2. Technical Highlights
 * Extensive experience providing technical advice and consultations for humanities scholars and projects, creating documentation, and formulating plans for long-term sustainability.
 
 <div id="accordion">
-h3. Previous Web Programming and Design Projects
+
+h2. Previous Web Programming and Design Projects
 
 <div>
 <p>
