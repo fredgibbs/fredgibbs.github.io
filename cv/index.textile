@@ -34,17 +34,17 @@ h2. Peer Reviewed Publications
 
 * Manuscript under review: _Poison, Medicine, and Disease: Late Medieval and Early Modern Toxicology_.
 
-* "Editorial Sustainability and Open Peer Review at Programming Historian," _DHCommons_ 1 (2015) %(pub-links)"DHCommons":http://dhcommons.org/journal/issue-1/editorial-sustainability-and-open-peer-review-programming-historian | "PDF":editorial-sustainability-pdf%
+* "Editorial Sustainability and Open Peer Review at Programming Historian," _DHCommons_ 1 (2015). %(pub-links)"DHCommons":http://dhcommons.org/journal/issue-1/editorial-sustainability-and-open-peer-review-programming-historian | "PDF":editorial-sustainability-pdf%
 
-* "From Theory to Practice in the Digital Humanities," in _Bildungsgeschichte. International Journal for the historiography for education_ 1 (2015), 95-99. %(pub-links)"PDF":theory-to-practice-pdf%
+* "From Theory to Practice in the Digital Humanities," in _Bildungsgeschichte. International Journal for the Historiography for Education_ 1-2015, 95-99. %(pub-links)"PDF":theory-to-practice-pdf%
 
 * "Poisonous Properties, Bodies, and Forms in the Fifteenth Century," _Preternature_ 2.1 (2013): 19-46. %(pub-links)"project muse":preternature-muse% 
 
-* "The Hermeneutics of Data and Historical Writing," in Jack Dougherty and Kristen Nawrotzki (eds.), _Writing History in the Digital Age._ (Ann Arbor: University of Michigan Press, 2013) [with Trevor Owens] %(pub-links)"digitalculturebooks":hermeneutics-open%
+* "The Hermeneutics of Data and Historical Writing," in Jack Dougherty and Kristen Nawrotzki (eds.), _Writing History in the Digital Age._ (Ann Arbor: University of Michigan Press, 2013) [with Trevor Owens]. %(pub-links)"digitalculturebooks":hermeneutics-open%
 
 * "Riding the Bicycle of Kuhn's _Structure_," _Historical Studies in the Natural Sciences_ 42.5 (2012): 510-513. %(pub-links)"JSTOR":kuhn-jstor | "PDF":kuhn-pdf%
 
-* "The Historical Value of Ephemeral Discussion of Science on the Web" in _Science &#64; Risk: Toward a National Strategy for Preserving Online Science_, (Washington, DC: Library of Congress National Digital Information Infrastructure and Preservation Program, 2012). %(pub-links)"meeting site":hos-on-web-site | "PDF":hos-on-web-pdf%
+* "The Historical Value of Ephemeral Discussions of Science on the Web" in _Science &#64; Risk: Toward a National Strategy for Preserving Online Science_ (Washington, DC: Library of Congress National Digital Information Infrastructure and Preservation Program, 2012). %(pub-links)"meeting site":hos-on-web-site | "PDF":hos-on-web-pdf%
 
 * "Critical Discourse in the Digital Humanities," _Journal of the Digital Humanities_ 1.1 (2012). %(pub-links)"JDH":critical-discourse-jdh | "blog":critical-discourse-blog%
 
@@ -61,9 +61,12 @@ h2. Peer Reviewed Publications
 h2. Reviews
 
 * Review of Luke Demaitre, _Medieval Medicine: The Art of Healing from Head to Toe_, in _Journal of the History of Medicine and Allied Sciences_, 69.1 (2014).
+
 * Review of Nancy Siraisi, _Communities of Learned Experience. Epistolary Medicine in the Renaissance_, in _British Journal of the History of Science_, 47.1 (2014).
-* Review of Ian Mortimer, _The Dying and the Doctors: the Medical Revolution in Seventeenth Century England_. _Journal of Social History_, Summer 2011.
-* Review of _Chymists and Chymistry_, ed. Anthony Grafton. In _Pharmacy in History_, September 2009.
+
+* Review of Ian Mortimer, _The Dying and the Doctors: the Medical Revolution in Seventeenth Century England_, in _Journal of Social History_, 44.4 (2011): 1289-91.
+
+* Review of _Chymists and Chymistry_, ed. Anthony Grafton. In _Pharmacy in History_ 50.1 (2008): 34-6.
 
 
 [siraisi-blog]/reviews/communities-of-learned-experience-review
@@ -105,7 +108,7 @@ h2. Reviews
 
 h2. Presentations and Participations
 
-* "The Universals and Particulars of Poison in the Sixteenth Century"
+* The Universals and Particulars of Poison in the Sixteenth Century
 ** History of Science Society (Nov 2015)
 
 * "Aesthetics of Digital Editions":http://fredgibbs.net/presentations/digital-latin-library/#/
@@ -118,10 +121,10 @@ h2. Presentations and Participations
 ** International Congress of the Medieval Academy of America (May 2015)
 
 * Re-viewing Data Scholarship
-** History of Data/Data in History @ Columbia University (Apr 2015)
+** Columbia University - History of Data/Data in History (Apr 2015)
 
 * Designing Scholarship
-** Histories of the Future Workshop @ Princeton University (Feb 2015)
+** Princeton University - Histories of the Future Workshop (Feb 2015)
 
 * Between Text, Argument, and Data: Interpreting New Visualizations in History 
 ** American Historical Association (Jan 2015)
@@ -135,9 +138,6 @@ h2. Presentations and Participations
 * Digital Interfaces: Data, Design, Geography, and the Humanities 
 ** Southwest American Association of Geographers (Oct 2014)
 
-* NEH Summer Institute Instructor on Text Mining
-** NEH Summer Institute: Doing Digial History (Aug 2014)
-
 * New Media and the Future of Scholarly Societies
 ** American Association for the History of Medicine (May 2014)
 
@@ -145,16 +145,16 @@ h2. Presentations and Participations
 ** American Association for the History of Medicine (May 2014)
 
 * Building a Cyberinfrastructure for the Humanities and Beyond
-** Cyberinfrastructure Day at University of New Mexico (Apr 2014)
+** University of New Mexico - Cyberinfrastructure (Apr 2014)
 
 * Poison, Potatoes, and Post-Computational Humanities
 ** University of Houston (Feb 2014)
 
 * Poison, Putrefaction, and Ontology of Disease in the Sixteenth Century
-** Johns Hopkins University (Nov 2013)
+** Johns Hopkins University - History of Medicine Colloquium (Nov 2013)
 
 * Speaking in Code Workshop Participant
-** Scholars' Lab @ University of Virginia (Nov 2013)
+** University of Virginia - Scholars' Lab (Nov 2013)
 
 * Pharmaceutical Traces: Exposing the Textual Traditions of Medieval Pharmacy
 ** International Congress of the Medieval Academy of America (May 2013)
@@ -166,7 +166,7 @@ h2. Presentations and Participations
 ** National Library of Medicine (Sep 2012)
 
 * Archiving Online Science
-** Library of Congress: Science at Risk Workshop (Jul 2012)
+** Library of Congress - Science at Risk Workshop (Jul 2012)
 
 * Mapping Metadata
 ** American Society for Environmental History (Apr 2012)
@@ -192,7 +192,7 @@ h2. Presentations and Participations
 * Moving Beyond Anecdotal History
 ** Digital Humanities Annual Conference (Jun 2011)
 
-* "Implications of Data for the 21st Century Historian":http://www.nitle.org/live/events/123-digital-scholarship-seminar-implications-of-data
+* "Implications of Data for the 21st-century Historian":http://www.nitle.org/live/events/123-digital-scholarship-seminar-implications-of-data
 ** NITLE Digital Scholarship Seminar (Apr 2011)
 
 * "History as Data":http://www.tvworldwide.com/events/webwise/110309/default.cfm?tab=3
@@ -205,7 +205,7 @@ h2. Presentations and Participations
 ** Maryland Institute for Technology in the Humanities (Feb 2011)
 
 * "Putrefaction and Poison in the Sixteenth Century":http://prezi.com/xvcrjhs_3xw6/putrefaction/
-** University of Minnesota History of Medicine Colloquium (Nov 2010)
+** University of Minnesota - History of Medicine Colloquium (Nov 2010)
 
 * Generation from Putrefaction and Early Modern Causes of Disease
 ** History of Science Society (Nov 2010)
@@ -217,7 +217,7 @@ h2. Presentations and Participations
 ** International Congress of the Medieval Academy of America (May 2010)
 
 * Poison in the World and the Body: Concepts of ‘Species' in Medical Theory
-** Arizona Center For Medieval and Renaissance Studies (Feb 2010)
+** Arizona Center for Medieval and Renaissance Studies (Feb 2010)
 
 * The Science of Poison: New Analytical Approaches to Toxins in the Middle Ages
 ** International Congress of the Medieval Academy of America (May 2008)
@@ -244,12 +244,12 @@ h2. Presentations and Participations
 ** Society for the Social History of Medicine Post-graduate conference (Jan 2006)
 
 
-h2. Digital Workshop Presentations
+h2. Digital Workshops
 
-* Workshop Instructor for Digital History Methods (Intermediate GIS)
+* Instructor for Digital History Methods Workshop (intermediate GIS)
 ** American Historical Association (Jan 2015)
 
-* Workshop Instructor for "Doing Digital History Summer Institute":http://history2014.doingdh.org
+* Instructor for NEH Summer Institute "Doing Digital History":http://history2014.doingdh.org (text mining)
 ** George Mason University (August 2014)
 
 * Text mining in the Digital Humanities
@@ -282,7 +282,7 @@ h2. Ongoing Projects
 
 h2. Previous Digital Projects
 
-Below I've described my role on some projects. For more general project descriptions, including descriptions of ongoing projects, please see "fredgibbs.net/projects":http://fredgibbs.net/projects.
+For more elaborate project descriptions, including descriptions of ongoing projects, please see "fredgibbs.net/projects":http://fredgibbs.net/projects.
 
 
 h3. Metadata Improvement VIA Mapping (MIVIAM)
@@ -306,9 +306,9 @@ h3. Digging Into Data: Criminal Intent
 * Participated in routine conference calls with project team to review progress and meet deliverable deadlines
 
 
-h2. Review Work
+h2. Manuscript and Grant Proposal Reviews
 
-Austrian Science Fund, Digital Humanities Quarterly (DHQ), Digital Humanities Conference, Humanities in the European Research Area (HERA), MIT Press, Pearson, National Endowment for the Humanities (NEH), Social Sciences and Humanities Research Council of Canada (SSHRC)
+Austrian Science Fund, _Bulletin of the History of Medicine_, _Digital Humanities Quarterly_, Digital Humanities Conference, Humanities in the European Research Area (HERA), MIT Press, National Endowment for the Humanities, Packt Publishing, Pearson, Social Sciences and Humanities Research Council of Canada (SSHRC)
 
 
 h2. Fellowships and Awards
