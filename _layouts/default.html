@@ -3,57 +3,17 @@
 
 {% include header.html %}
 
-	<body>
+<body>
 
-		<script>
-
-				$(function() {
-
-					$('.slide-trigger').collapsable();
-
-					var hoverMenu = $('#HiddenMenu'),
-							hoverSpace = $('#HoverSpace');
-
-					hoverMenu.css({
-								'top': "0"
-					});
-
-					window.onscroll = function() {
-						if ($("body").scrollTop() == 0) {
-							$('#HiddenMenu').animate({'top':'0'});
-						}
-					};
-
-
-					hoverSpace.on('mouseenter', function(event) {    
-						hoverMenu.animate({
-								'top': "0"
-						});
-					});
-
-					hoverSpace.on('mouseleave', function() {
-						if ($("body").scrollTop() > 0) {
-							hoverMenu.animate({
-									'top': "-3em"
-							});
-						}
-					});
-
-				});
-
-		</script>
-
-
-		<div id="HoverSpace">
-				{% include nav.html %}
-		</div>
+	{% include nav.html %}
 
 		<div class="container">
 			<div class="site">
-					{{ content }}
-					{% include footer.html %}
-				</div>
+				{{ content }}
+				{% include footer.html %}
+			</div>
 		</div> <!-- /container -->
 
 	</body>
+
 </html>

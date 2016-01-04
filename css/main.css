@@ -123,9 +123,10 @@ img {
   color: #000;
 }
 
-.navigation li a.navheader {
+.menu li a.navheader {
+  text-transform: lowercase;
   font-weight: bold;
-  color:#800;  
+  color:#c00;  
 }
 
 .slide-trigger {
@@ -133,7 +134,7 @@ img {
   border: 1px solid #CCCCCC;
   cursor: pointer;
   padding: .3em .3em;
-  color:#900;
+  color:#733;
 }
 
 .slide-trigger span {
@@ -149,50 +150,42 @@ img {
 
 .page-break { display: none; }
 
-#HiddenMenu {
-    background-color: #666;
-    position: relative;
-    top: -3em;
-    height:3em;
-    padding:0;
-    margin:0;
+header {
+    background-color: #555;
+    height: 40px;
+    position: fixed;
+    top: 0;
+    transition: top 0.3s ease-in-out;
+    width: 100%;
+    border-bottom:2px solid #444;
+    opacity: .95;
 }
 
-#HoverSpace {
-    //background-color: #aeaeae;
-    overflow: hidden;
-    height: 4em;
-    position:fixed;
-    width:100%;
-    padding:0;
-    margin:0;
-    top:0px;
+.nav-up {
+    top: -43px;
 }
 
-#HiddenMenu li {
-  padding-top: .5em;
+
+.menu {
+  height:40px;
+  font-family: 'Open Sans', serif;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 75%;
+  text-transform: uppercase;
+  text-align:center;
+  padding-top:1em;
 }
 
-#HiddenMenu li.title a {
-    //font-size:24px;
-    color:#900;
-  }
+.menu ul li {
+display:inline;
+padding:1em 1em 0 1em;
+}
 
-#HiddenMenu li.title a:hover {
-    color:#f00;
-  }
-
-#HiddenMenu li a:hover {
-    color:#fff;
-  }
-
-#HiddenMenu li.low a {
-  color:#555;
-  }
-
-#HiddenMenu li.low a:hover {
-  color:#999;
-  }
+.menu ul li a {
+text-decoration: none;
+border-bottom: none;
+color: #EFEBE6;
+}
 
 
 
@@ -636,9 +629,9 @@ a {
     margin: 0;
   }
 
-.container {
-  margin:0;
-}
+  .container {
+    margin:0;
+  }
 
   .site {
     width:35em;
@@ -694,6 +687,7 @@ ul li {
   font-weight: normal;
   font-weight: normal;
   font-size:100%;
+  page-break-inside: avoid; 
 }
 
 h2 {
@@ -709,13 +703,48 @@ h3 {
   display:none;
 }
 
+header {
+  display: none;
+}
 
-#HiddenMenu, #HoverSpace { 
+.page-break { display: block; page-break-before: always; }
+
+.cv {
+  font-family: garamond;
+  font-size: 11pt;
+  width:100%;
+  margin:1cm 2.5cm 0 2.5cm;
+  text-align: justify;
+}
+
+.cv h2 {
+  font-size: 120%;
+  margin-top: 2em;
+  text-decoration: underline;
+}
+
+.cv h3 {
+  font-size: 110%;
+  font-weight: bold;
+  margin: 2em 0 0 0;
+  padding: 0;
+  line-height: 1em;
+}
+
+.cv ul {
+  padding-left: 1em;
+}
+
+.cv ul ul {
+  padding-left: 0em;
+}
+
+.cv .pub-links {
   display:none;
 }
 
-
-  .page-break { display: block; page-break-before: always; }
-
+.cv a, .cv a.visited {
+  color: #333;
+}
 
 }
