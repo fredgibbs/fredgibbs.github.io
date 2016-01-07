@@ -5,32 +5,11 @@ date: 2015-09-18 00:00:00
 css: spatial-humanities
 ---
 
-# Spatial Humanities Working Group
+# Spatial Humanities Working Group @ UNM
 
-## Spatial Humanities
--  Space as an analytical category
--  Mapping & representations of space
--  Physical environment
--  GIS
+You have found the old and temporary home for the spatial humanities working group website. 
 
-## Working Group
-- Not colloquium
-- Many types of meetings, centered around participants' interests
-- Informal
+The new, permanent site is located at [http://spatialhumanities.unm.edu](http://spatialhumanities.unm.edu).
 
-## Why
-- Connections for future projects or panels and funding collaborations
-- Interdisciplinary space for research feedback (especially grad students)
-- Hub of information on funding resources, data, etc. [[some stuff](resources)]
-- Support for GIS software and related technologies
+Thanks!
 
-## What
-- Technical workshops
-- Discussions of common readings
-- Informal Works-in-progress presentations
-- Make suggestions for outside speakers (via existing colloquia)
-
-## When
-- Roughly one hour each month, usually Friday afternoons around 2:00pm
-- Technical workshop to be scheduled in between according to interests and availalbility
-- Check out [[our schedule](schedule)]
