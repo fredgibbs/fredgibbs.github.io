@@ -535,6 +535,7 @@ background-color: #ccc;
   line-height: 1.3em;
   font-family: 'Oxygen', sans-serif;
   font-size: 100%;
+  text-align: justify;
 }
 
 .cv ul {
@@ -552,9 +553,27 @@ background-color: #ccc;
   color:#999;
 }
 
-.cv h3{
-  line-height: 1.5em;
+.cv h2 {
+  text-transform: uppercase;
+  color:#222;
 }
+
+.cv h3{
+  text-transform: uppercase;
+  line-height: 1.5em;
+  margin:2em 0 .3em 0;
+}
+
+.cv .bullet ul {
+ list-style-type: circle;
+}
+
+.cv .bullet li {
+  margin:0 0 .7em 1em;
+  padding:0;
+}
+
+
 } /* end media screen */
 
 

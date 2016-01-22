@@ -30,9 +30,12 @@ _University of Wisconsin_ (2009, 2002)
 _Carleton College_ (1998)
 
 
+
 h2. Peer Reviewed Publications
 
 * Manuscript under review: _Poison, Medicine, and Disease: Late Medieval and Early Modern Toxicology_.
+
+* "New Forms of History: Critiquing Data and Its Representations," _The American Historian_ (forthcoming).
 
 * "Editorial Sustainability and Open Peer Review at Programming Historian," _DHCommons_ 1 (2015). %(pub-links)"DHCommons":http://dhcommons.org/journal/issue-1/editorial-sustainability-and-open-peer-review-programming-historian | "PDF":editorial-sustainability-pdf%
 
@@ -58,20 +61,6 @@ h2. Peer Reviewed Publications
 
 * “Poison Libels,” in _Encyclopedia of Pestilence, Pandemics, and Plagues_, ed. Joseph P. Byrne. Greenwood Press, September 2008.
 
-h2. Reviews
-
-* Review of Luke Demaitre, _Medieval Medicine: The Art of Healing from Head to Toe_, in _Journal of the History of Medicine and Allied Sciences_, 69.1 (2014).
-
-* Review of Nancy Siraisi, _Communities of Learned Experience. Epistolary Medicine in the Renaissance_, in _British Journal of the History of Science_, 47.1 (2014).
-
-* Review of Ian Mortimer, _The Dying and the Doctors: the Medical Revolution in Seventeenth Century England_, in _Journal of Social History_, 44.4 (2011): 1289-91.
-
-* Review of _Chymists and Chymistry_, ed. Anthony Grafton. In _Pharmacy in History_ 50.1 (2008): 34-6.
-
-
-[siraisi-blog]/reviews/communities-of-learned-experience-review
-
-[demaitre-blog]/reviews/medieval-medicine-the-art-of-healing-from-head-to-toe-review
 
 [theory-to-practice-pdf]../publications/IJHE-Gibbs.pdf
 
@@ -100,10 +89,32 @@ h2. Reviews
 [tools-dhq]http://www.digitalhumanities.org/dhq/vol/6/2/000136/000136.html
 [tools-blog]/publications/building-better-digital-humanities-tools
 
-[mortimer-muse]http://muse.jhu.edu/journals/journal_of_social_history/summary/v044/44.4.gibbs.html
-[mortimer-blog]/reviews/review-of-the-dying-and-the-doctors
 
-[chymists-blog]/reviews/chymists-and-chymistry
+
+h2. Reviews
+
+_Medieval Tastes: Food, Cooking, and the Table_. By Massimo Montanari. New York: Columbia University Press, 2015. In _Agricultural History_ (forthcoming).
+
+_Medieval Medicine: The Art of Healing from Head to Toe_. By Luke Demaitre. Santa Barbara: Praeger, 2013. In _Journal of the History of Medicine and Allied Sciences_, 69.1 (2014). %(pub-links)"JHMAS":demaitre-online%
+
+_Communities of Learned Experience. Epistolary Medicine in the Renaissance_. By Nancy G. Siraisi. Baltimore: Johns Hopkins University Press, 2013. In _British Journal of the History of Science_, 47.1 (2014). %(pub-links)"BJHS":siraisi-online%
+
+_The Dying and the Doctors: the Medical Revolution in Seventeenth Century England_. By Ian Mortimer. Woodbridge: The Boydell Press, 2009. In _Journal of Social History_, 44.4 (2011): 1289-91. %(pub-links)"JSH":mortimer-online%
+
+_Chymists and Chymistry_. Edited by Lawrence M. Principe. Philadelphia: Chemical Heritage Foundation and Science History Publications, 2007In _Pharmacy in History_ 50.1 (2008): 34-6. %(pub-links)"blog":chymists-blog%
+
+
+[siraisi-blog]/reviews/communities-of-learned-experience-review
+[siraisi-online]http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9174456&fileId=S0007087414000041
+
+[demaitre-blog]/reviews/medieval-medicine-the-art-of-healing-from-head-to-toe-review
+[demaitre-online]http://jhmas.oxfordjournals.org/content/early/2014/02/06/jhmas.jrt060
+
+[mortimer-blog]/reviews/review-of-the-dying-and-the-doctors
+[mortimer-online]http://muse.jhu.edu/journals/journal_of_social_history/summary/v044/44.4.gibbs.html
+
+[chymists-blog]/reviews/chymists-and-chymistry-review.html
+
 
 
 h2. Presentations and Participations
@@ -244,7 +255,11 @@ h2. Presentations and Participations
 ** Society for the Social History of Medicine Post-graduate conference (Jan 2006)
 
 
+
 h2. Digital Workshops
+
+* Using QGIS for Historical Research
+** University of New Mexico (Dec 2015)
 
 * Instructor for Digital History Methods Workshop (intermediate GIS)
 ** American Historical Association (Jan 2015)
@@ -253,7 +268,7 @@ h2. Digital Workshops
 ** George Mason University (August 2014)
 
 * Text mining in the Digital Humanities
-** Hertog Global Strategy Initiative @ Columbia University (May 2012)
+** Hertog Global Strategy Initiative @ Columbia University (May 2013)
 
 * Document Similarity with R
 ** THATCamp @ RRCHNM (June 2013)
@@ -262,27 +277,44 @@ h2. Digital Workshops
 ** THATCamp @ RRCHNM (June 2013)
 
 
+
 h2. Recent Courses
 
 * "History of Premodern Medicine":/courses/premodern-medicine/fall-2015
-* "Advanced Historiography":/courses/historiography-grad/fall-2015
-* "Intro to Historiography":../courses/historiography
+* "Graduate Historiography":/courses/historiography-grad/fall-2015
+* "Undergraduate Historiography":../courses/historiography
 * "Metaphor of Plague":../courses/metaphor-of-plague
 * "Digital Mapping":/courses/digital-mapping
 * "Digital Methods for the Humanities":../courses/digital-methods
 * "Food, Diet, and Health":../courses/food-diet-health
 * "Introduction to Digital History":../courses/archive/introduction-to-digital-history.html
 * "Medieval Science and Medicine":../courses/archive/medieval-science-medicine.html
-* "The Scientific Revolution":../courses/archive/scientific-revolution.html
 
-h2. Ongoing Projects
+
+
+h2. Engagements
+
+* Manuscript and grant application reviews for: Austrian Science Fund, _Bulletin of the History of Medicine_, _Digital Humanities Quarterly_, Digital Humanities Conference, Humanities in the European Research Area (HERA), MIT Press, National Endowment for the Humanities (NEH), Packt Publishing, Pearson, Social Sciences and Humanities Research Council of Canada (SSHRC)
 
 * General Editor, "_Programming Historian_":http://programminghistorian.org
 
+* History of Science Society Technology and Communication Committee (2015-)
+* History of Science Society Strategic Planning Committee (2013-15)
+
+* UNM Service Learning Advisory Board member (2015-)
+* UNM History Graduate Advisory Committee (2014-)
+* UNM Faculty Senate Information Technology Use Committee (2013-)
+* UNM Data to Knowledge Conference Organizing Committee (2014-2015)
+
+* GMU Graduate Admissions Committee (2012-13)
+* GMU History Day Organizer (2009-2012)
+
+
+<div class="bullet">
 
 h2. Previous Digital Projects
 
-For more elaborate project descriptions, including descriptions of ongoing projects, please see "fredgibbs.net/projects":http://fredgibbs.net/projects.
+Below I have outlined some of my key contributions of various digital projects. For more elaborate project descriptions, please see "fredgibbs.net/projects":http://fredgibbs.net/projects.
 
 
 h3. Metadata Improvement VIA Mapping (MIVIAM)
@@ -306,37 +338,18 @@ h3. Digging Into Data: Criminal Intent
 * Participated in routine conference calls with project team to review progress and meet deliverable deadlines
 
 
-h2. Manuscript and Grant Proposal Reviews
-
-Austrian Science Fund, _Bulletin of the History of Medicine_, _Digital Humanities Quarterly_, Digital Humanities Conference, Humanities in the European Research Area (HERA), MIT Press, National Endowment for the Humanities, Packt Publishing, Pearson, Social Sciences and Humanities Research Council of Canada (SSHRC)
-
-
-h2. Fellowships and Awards
-
-* Humanities Exposed (HEX) Scholar at the UW Center for the Humanities (2008)
-* Dissertator Fellowship from UW Graduate School (2007)
-* John Neu Distinguished Graduate Student Fellowship from UW HoS Dept. (2007)
-* Research Award from the American Institute of the History of Pharmacy (2007)
-* Paul Klemperer Fellowship from the New York Academy of Medicine (2006)
-* National Science Foundation Dissertation Improvement Grant (2005-06)
-* Heckman Research Grant from the Hill Monastic Manuscript Library (2005)
-* Vilas Travel Grant from the UW Graduate School (2005)
-
-h2. Technical Highlights
-
-* 15+ years experience with small and large scale programming projects integrating various web technologies, including Javascript, HTML, PHP, Python, XML, XSLT, AJAX, CSS, MySQL, REST APIs.
-* Broad knowledge and experience implementing web standards, accessibility guidelines, database design, and semantic mark-up. Adapted and customized open-source projects to client needs.
-* 10+ years of web design experience creating harmony between user interfaces and information structures.
-* Extensive experience providing technical advice and consultations for humanities scholars and projects, creating documentation, and formulating plans for long-term sustainability.
-
-<div id="accordion">
 
 h2. Previous Web Programming and Design Projects
 
-<div>
-<p>
+Since 2000, I have worked as a web developer and designer on numerous small and large scale programming projects. This has provided vast field experience with:
 
-h3. Nelson Institute for Environmental Studies (UW-Madison, Mar09  -  Oct09)
+* Integrating various web technologies including Javascript, HTML, PHP, Python, XML, XSLT, AJAX, CSS, MySQL, REST APIs.
+* Implementing web standards, accessibility guidelines, database design, and semantic mark-up. Adapted and customized open-source projects to client needs.
+* Creating harmony between user interfaces and information structures.
+* Providing technical advice and consultations for humanities scholars and projects, creating documentation, and formulating plans for long-term sustainability.
+
+
+h3. UW Nelson Institute for Environmental Studies (Mar09 - Oct09)
 
 * Managed and executed complete website redesign centered around a custom developed tag-based resource management system (PHP, MySQL) to connect Nelson Institute faculty, students, and staff with each other through mutual research interests. 
 * Integrated full news and event management system with custom tagging (and taxonomy manager) to unite all Institute resources.
@@ -370,8 +383,16 @@ h3. IBM and Target Corporations (Jul98  -  Feb00)
 * Co-lead developer for first generation of target.com; responsible for back-end coding of e-commerce functionality with Java and Oracle, including product search engine to meet strict usability and performance requirements.
 * Spearheaded standardization efforts and implementation of best practices among different programming, data modeling, and testing teams.
 * Served as Information Technology Specialist in consulting role for Global Services Division; diagnosed and solved debugging and testing challenges quickly and efficiently, adjusted to varied work environments, and established productive personal relationships with clients.
-</p>
+
+h2. Fellowships and Awards
+
+* Humanities Exposed (HEX) Scholar at the UW Center for the Humanities (2008)
+* Dissertator Fellowship from UW Graduate School (2007)
+* John Neu Distinguished Graduate Student Fellowship from UW HoS Dept. (2007)
+* Research Award from the American Institute of the History of Pharmacy (2007)
+* Paul Klemperer Fellowship from the New York Academy of Medicine (2006)
+* National Science Foundation Dissertation Improvement Grant (2005-06)
+* Heckman Research Grant from the Hill Monastic Manuscript Library (2005)
+* Vilas Travel Grant from the UW Graduate School (2005)
+
 </div>
-</div> <!-- end accordion -->
-
-
