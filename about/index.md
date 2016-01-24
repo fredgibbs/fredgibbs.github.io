@@ -5,14 +5,11 @@ title: about | fredgibbs
 
 Greetings! I'm Fred Gibbs, an assistant professor in the [history department](http://www.unm.edu/~hist/) at the [University of New Mexico](http://unm.edu). 
 
-Until recently (spring 2013), I was an assistant professor in the department of history and art history at [George Mason University](http:///gmu.edu) (Fairfax, VA) and director of digital scholarship at the [Roy Rosenzweig Center for History and New Media](http://chnm.gmu.edu).
+My academic research focuses on the intersection of digital humanities, history theory and historiography, information design, data criticism, and media studies. Perhaps the best way of getting a sense of what I'm interested in is to peruse my various [publications](../publications) (please let me know if you cannot access something) and to read about my [ongoing projects](../projects). 
 
-Most of my <a href="../projects">current projects</a> attempt (1) to use new digital research methodologies to provide new historical perspectives through unusual combinations of historical data at scale, and (2) to use new media technologies to make history more engaging and accessible to a broad public.
+Until the spring of 2013, I was an assistant professor in the department of history and art history at [George Mason University](http:///gmu.edu) (Fairfax, VA) and director of digital scholarship at the [Roy Rosenzweig Center for History and New Media](http://chnm.gmu.edu).
 
-I'm particularly interested in the confluence of medicine and natural philosophy in the medieval and early modern periods. I'm also interested in the circulation and diffusion of medical knowledge in the late Middle Ages.
-
-
-I completed my History of Science PhD at the [University of Wisconsin-Madison](http://wisc.edu) in 2009, where I discovered a new interest in web design and development. For a few years before that, I did menial cubicle chores (where i also built elaborate soda-can towers) after studying physics at [Carleton College](http://www.carleton.edu). I grew up in Prior Lake, MN, where I enjoyed riding bikes through neighbors' yards and playing incredibly mindless video games.
+I completed my History of Science PhD at the [University of Wisconsin-Madison](http://wisc.edu) in 2009, where I discovered a new interest in web design and development. For a few years before that, I did menial cubicle chores \[= web programming] (where I also built elaborate soda-can towers) after studying physics at [Carleton College](http://www.carleton.edu). I grew up in Prior Lake, MN, where I enjoyed riding bikes through neighbors' yards and playing incredibly mindless video games.
 
 
 **Behind the scenes**<br>
