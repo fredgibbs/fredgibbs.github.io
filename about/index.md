@@ -15,4 +15,4 @@ I completed my History of Science PhD at the [University of Wisconsin-Madison](h
 
 
 **Behind the scenes**  
-Pages of this site are written in Markdown and Textile, and converted to static HTML with Jekyll. All code for this site is hosted in a [GitHub repository](https://github.com/fredgibbs/fredgibbs.github.io).
+Pages of this site are written in Markdown and converted to static HTML with Jekyll. All code for this site is hosted in a [GitHub repository](https://github.com/fredgibbs/fredgibbs.github.io) and rendered via GitHub Pages. Read my take on [why these tools are great](http://fredgibbs.net/posts/post/a-new-minimalist-versioned-website/) for personal websites.
