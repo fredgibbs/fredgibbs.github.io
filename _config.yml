@@ -3,7 +3,6 @@ description: Digital History and Humanities Blog
 url: http://fredgibbs.net
 permalink: :categories/:title
 safe: true
-highlighter: pygments
-markdown: redcarpet
+markdown: kramdown
 kramdown: 
   parse_block_html: true

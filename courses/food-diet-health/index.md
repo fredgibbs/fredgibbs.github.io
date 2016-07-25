@@ -1,26 +1,22 @@
 ---
-layout: food-diet-health 
-title: "Food, Diet, and Heath"
-number: HIST 300-007
-term: Fall 2014
-date: 2014-04-16 00:00:00
-css: food-diet-health
-categories: [course]
+layout: course2015 
+title: "History of Diet and Health"
+number: HIST 410
+term: Fall 2016
+date: 2015-01-12 00:00:00
 ---
 
-### Get Help
-Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
+Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
 Mesa Vista Hall, 1077    
-Office Hours: M 10-11; W 11-1; almost anytime by appointment    
+Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment    
 
 
 ## Course Description
 
-What constitutes healthy food? A healthy diet? A healthy body? Needless to say, dietary regimens to restore or maintain health---as well as what it means to be healthy---have remained preeminent questions throughout Western medical history. Yet even today, medical understandings of diet and official dietary advice seems to change almost daily. This course explores how various cultural, scientific, and medical values have continually shaped our relationship to food, health, and diet from the "discovery" of America to the present.
+What constitutes healthy food? A healthy diet? A healthy body? Dietary regimens to maintain health---as well as what it means to be healthy---have remained preeminent medical questions throughout Western medical history. Yet even today, medical understandings of diet and official dietary advice seems to change almost daily. This course explores how various cultural, scientific, and medical values have continually shaped our relationship to food, health, and diet since the 1700s.
 
-Some guiding questions: How and why have the perceived medical virtues of various foods changed over time? Why have fad diets come in and gone out of fashion? How has modern medicine continually redefined what it means to be healthy and to eat a healthy diet? How have national recommendations for healthy foods been used as social controls? How have changing attitudes about the body, health, and technology shaped our preferences for what should be considered healthy food?
+Some guiding questions: How have medical authorities continually redefined what it means to be healthy and to eat a healthy diet? How and why have the perceived medical virtues of various foods changed over time? How much do food industries and lobbyists affect our understanding of healthy eating? How can the history of diet and health help us understand contemporary dietary advice?
 
-The course will be taught in the shiny new Teaching and Learning building in "learning studios" that look like [this](https://www.unm.edu/~oset/Event%20Descriptions/LearningStudioClassroomsatUNM.html). Discussions will be more like labs, in which everyone will be working in small groups to research and discuss and present on relevant topics and research exercises. One of these topics will be the nature and history of local food, in parallel with October as "Local Food Month" in ABQ.
 
 ## Student Learning Outcomes
 
@@ -35,24 +31,26 @@ The course will be taught in the shiny new Teaching and Learning building in "le
 
 ## Work Requirements and Grading
 
-* The class will meet in the shiny new Teaching and Learning building in "[learning studios](https://www.unm.edu/~oset/Event%20Descriptions/LearningStudioClassroomsatUNM.html)." Discussions will be more like labs where everyone will be working in groups to research the weekly topic and making extensive use of the video projector and whiteboards to share and communicate. Part of most class meetings will be dedicated to group project work; every Friday we will have group presentations that will summarize and bring together the readings for the week in a visual way.
 
-* Simply showing up to class counts for very little; **I expect that you'll attend most classes and actively participate in all activities. This work counts for 50% of your grade.** If you want a course where you can passively attend lectures and occasionally regurgitate information, this course isn't for you.
+* Simply showing up to class counts for very little; **I expect that you'll attend most classes and actively participate in all activities.** If you want a course where you can passively attend lectures and occasionally regurgitate information, this course is not for you. (30%)
 
-* You will produce 3 1-page executive summaries and critiques of some "publication" pertaining to food, health, and diet. These can be articles from a newspaper or magazine, a movie, science research article, historical scholarship, or whatever you like. They should be easily accessible through Google (this is not a scholarly or library research assignment, though you can go that route if you want). These assignments will show that you're able to apply the course discussion and activities in productive ways. If you are not pleased with your grade, you can revise and resubmit them after talking with me first. (30% total; 10% each)
+* You will produce 3 400-word reviews/critiques of some "publication" pertaining to food, health, and diet. These can be articles from a website, newspaper or magazine, a movie, science research article, historical scholarship, or whatever you like. Feel free to find these via Google, or UNM Library databases or whatever (you'll have more fun with Google). These assignments will show that you're able to apply the course discussion and activities in the real world (so to speak). If you are not pleased with your grade, you can revise and resubmit them within 1 week. (30% total; 10% each)
 
-* Your final "exam" will consist of contributing to a group project that examines some facet of the relationship between food, health and diet. All groups will present their research during the last week of class. You will compose (and be individually graded on) a 750-word essay that explains a) your contribution to the group project; b) an assessment of others' contributions; c) a summary of what you learned in the course and how you applied that to the project. (20%)
+* Contribution to a collaborative digital resource on the history of fad diets. Check out [this terrible summary](http://www.latimes.com/health/la-he-diet-timeline-20150228-story.html), which is typical of fad diet histories. We will divide into small groups, and each will tackle a particular diet, looking more in depth how it was orginally conceived, promoted, researched, and so on, with the goal of providing historical context for that diet. We'll plan this out more in class; several class sessions will be devoted to reviewing and critiquing each other's work. Each group will contribute ~750 word "essay" to the website. (20%)
+
+* Your final "exam" is a 1000 word review essay that answers the question: "What is the relationship between diet and health." There is no right answer, obviously. The point is to show off the ways of thinking about diet and health that you've learned in the course, particularly with respect to the Student Learning Outcomes above. (20%)
 
 
 ## Required Texts
 
-- Harvey Levenstein, [Revolution at the Table](http://www.amazon.com/Revolution-Table-Transformation-American-California/dp/0520234391/) (ISBN: 978-0520234390).
+- Charlotte Biltekoff, _Eating Right in America: The Cultural Politics of Food and Health_. Duke University Press, 2013. ISBN: 978-0822355595.
 
-- Marion Nestle, [Food Politics](http://www.amazon.com/Food-Politics-Influences-Nutrition-California/dp/0520275969/) (ISBN: 978-0520275966).
+- Marion Nestle, _Food Politics_. University of California Press, 2002 (10th ed., 2013). ISBN: 978-0520275966.
 
-- Michael Pollan, [In Defense of Food](http://www.amazon.com/Defense-Food-Eaters-Manifesto/dp/0143114964) (ISBN: 978-0143114963).
+- Gyorgy Scrinis, _Nutritionism: The Science and Politics of Dietary Advice_. Columbia University Press, 2013 (repr. 2015). ISBN: 978-0231156578.
 
-- You will also need to subscribe to the course Zotero library to access assigned articles not contained in the edited volumes. This will be discussed on the first day of class. For reference, please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](../etc/zotero.html). 
+
+- You will also need to subscribe to the course Zotero library to access assigned articles. This will be discussed on the first day of class. For reference, please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](../etc/zotero.html). 
 
 
 ## Syllabus

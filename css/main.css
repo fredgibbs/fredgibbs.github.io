@@ -40,10 +40,11 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin:0;
-  font-size: 140%;
+  font-size: 150%;
   color: #900;
   font-weight: bold;
   font-family: 'Oxygen';
+  padding: 1em 0 1em 0;
 }
 
 h2 {
@@ -72,7 +73,7 @@ a         { color: #f90; }
 a:hover   { color: #a00; }
 a:visited { color: #c60; }
 
-h2 a {
+h2 a, h3 a {
   border:none;
 }
 
