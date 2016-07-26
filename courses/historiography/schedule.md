@@ -79,7 +79,7 @@ Office Hours: M 2:30-4; W 10:30-12; almost anytime by appointment
 
 
 ### Postmodernism
-7: Microhistory TBD
+7: Georg Iggers, "From Macro- to Microhistory: The History of Everyday Life," _Historiography of the 20th Century_, 101-117.
 
 9: Gertrude Himmelfarb, "Telling is as you like it: postmoderist history and the flight from fact," 158-74; _Rethinking History_, 70-84.
 
