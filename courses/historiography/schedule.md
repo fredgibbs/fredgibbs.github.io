@@ -55,7 +55,7 @@ Office Hours: M 2:30-4; W 10:30-12; almost anytime by appointment
 
  
 ### Professionalization 
-10: Wines, 1-25; 55-67; Felix Gilbert, "What Ranke Meant," *The American Scholar*, 56.3 (1987): 393-397.
+10: Wines, 1-25; 55-67; Felix Gilbert, "What Ranke Meant," *The American Scholar* 56.3 (1987): 393-397.
 
 12: Guenther Roth, "History and Sociology in the Work of Max Weber," 306-18.
 
@@ -73,9 +73,9 @@ Office Hours: M 2:30-4; W 10:30-12; almost anytime by appointment
 
 
 ### Foucault
-31: Foucault, Archeology of Knowledge 3-17; 21-30. 
+31: Foucault, _Archeology of Knowledge_, 3-17; 21-30. 
 
-2: Foucault, Archeology of Knowledge 31-49. 
+2: Foucault, _Archeology of Knowledge_, 31-49. 
 
 
 ### Postmodernism
@@ -85,26 +85,25 @@ Office Hours: M 2:30-4; W 10:30-12; almost anytime by appointment
 
 
 ### Narrative and Representation
-14: _Houses_, "The Question of Narrative," 204-213; Hayden White, The Value of Narrativity in the Representation of Reality.
+14: _Houses_, "The Question of Narrative," 204-213; Hayden White, "The Value of Narrativity in the Representation of Reality" .
 
-16: Hayden White, The Fictions of Factual Representation, 121-134. 
+16: Hayden White, "The Fictions of Factual Representation,"" [= _Houses_, 214-229]. 
 
 
 ### History of Others
 21: _Houses_, "Gender History," 253-62; Joan Scott, "Gender: A Useful Category of Historical Analysis," 1053-1075. 
 
-23: Chakrabarty, Postcoloniality and the Artifice of History: Who Speaks for "Indian" Pasts?, 1-27.  
+23: Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?," 1-27.  
 
 
 ### Space and Environment
-28: Charles W. J. Withers, “Place and the ‘Spatial Turn’ in Geography and in History,” 637–58.  
+28: Charles W. J. Withers, "Place and the ‘Spatial Turn’ in Geography and in History,” 637–58.  
 
-30: William Cronon, “The Trouble With Wilderness: Or, Getting Back to the Wrong Nature
-Environmental History 1, no. 1 (Jan., 1996): 7-28.
+30: William Cronon, "The Trouble With Wilderness: Or, Getting Back to the Wrong Nature," _Environmental History_ 1, no. 1 (Jan., 1996): 7-28.
 
 
 ### Reflections
-5: Digital History  TBD
+5: Digital History TBD
 
 7: Conclusions and Evaluations 
 
