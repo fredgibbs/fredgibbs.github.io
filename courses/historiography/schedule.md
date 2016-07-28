@@ -107,17 +107,3 @@ Office Hours: M 2:30-4; W 10:30-12; almost anytime by appointment
 
 7: Conclusions and Evaluations 
 
-
-## Video Links
-Michael Wesch, [The Machine is Us/ing Us](http://www.youtube.com/watch?v=NLlGopyXT_g) (4.5 min. video).
-
-Aaron Titus, [How the Internet Works](https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be)
-
-Bill Wurtz, [History of Japan](https://www.youtube.com/watch?v=Mh5LY4Mz15o)
-
-Random Course Trailers: [Medical Ethics and History](https://www.youtube.com/watch?v=nPbis0Hggsg) and [Making the Middle Ages](https://www.youtube.com/watch?v=YlDNzE0xJ1w)
-
-Fred Gibbs, [A Brief History of Toxicology](https://vimeo.com/94459223) (please don't watch the whole thing!) and [a short explanation](http://fredgibbs.net/tutorials/post/slideshow-voice-over/).
-
-
-If you're unfamiliar with movie editing software, consider Movie Maker (Windows) or iMovie (Mac), or a free trial of [Camtasia](http://www.techsmith.com/camtasia.html). 
