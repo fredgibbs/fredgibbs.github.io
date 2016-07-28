@@ -49,13 +49,13 @@ Office Hours: M 2:30-4; W 10:30-12; almost anytime by appointment
 
 
 ### Romantic History
-3: Hegel, The Philosophy of History, 1-27. 
+3: Tom Rockmore, "Hegel," 468-476; Hegel, _The Philosophy of History_, 1-27. 
 
 5: Wilhelm von Humboldt, "On the Historian's Task," 57-71.  
 
  
 ### Professionalization 
-10: Wines, 1-25; 55-67; Felix Gilbert, "What Ranke Meant," *The American Scholar* 56.3 (1987): 393-397.
+10: Thomas Gil, "Leopold Ranke," 383-92; Ranke (in Wines), 55-67; Felix Gilbert, "What Ranke Meant," *The American Scholar* 56.3 (1987): 393-397.
 
 12: Guenther Roth, "History and Sociology in the Work of Max Weber," 306-18.
 
@@ -85,25 +85,25 @@ Office Hours: M 2:30-4; W 10:30-12; almost anytime by appointment
 
 
 ### Narrative and Representation
-14: _Houses_, "The Question of Narrative," 204-213; Hayden White, "The Value of Narrativity in the Representation of Reality" .
+14: _Houses_, "The Question of Narrative," 204-213; Hayden White, "The Value of Narrativity in the Representation of Reality," 5-27.
 
-16: Hayden White, "The Fictions of Factual Representation,"" [= _Houses_, 214-229]. 
+16: Hayden White, "The Fictions of Factual Representation," [= _Houses_, 214-229]. 
 
 
 ### History of Others
 21: _Houses_, "Gender History," 253-62; Joan Scott, "Gender: A Useful Category of Historical Analysis," 1053-1075. 
 
-23: Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?," 1-27.  
+23: Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?," 1-27.  
 
 
 ### Space and Environment
-28: Charles W. J. Withers, "Place and the ‘Spatial Turn’ in Geography and in History,” 637–58.  
+28: Charles W. J. Withers, "Place and the ‘Spatial Turn’ in _Geography and in History_,” 637–58.  
 
 30: William Cronon, "The Trouble With Wilderness: Or, Getting Back to the Wrong Nature," _Environmental History_ 1, no. 1 (Jan., 1996): 7-28.
 
 
 ### Reflections
-5: Digital History TBD
+5: Digital History, TBD; Kieran Healy, "Fuck nuance," 1-13.
 
 7: Conclusions and Evaluations 
 
