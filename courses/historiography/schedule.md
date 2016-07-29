@@ -6,9 +6,9 @@ term: Fall 2016
 date: 2015-01-12 00:00:00
 ---
 
-Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
+Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
 Mesa Vista Hall, 1077    
-Office Hours: M 2:30-4; W 10:30-12; almost anytime by appointment    
+Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment    
 
 -----
 
@@ -42,13 +42,13 @@ Office Hours: M 2:30-4; W 10:30-12; almost anytime by appointment
 21: _Faces of History_, 162-187.  
 
 
-### Scientific and Philosophical History
+### Scientific and Philosophical History 1
 26: _Faces of History_, 188-216.  
 
 28: _Faces of History_, 217-249.  
 
 
-### Romantic History
+### Scientific and Philosophical History 2
 3: Sharon Anderson-Gold, "Kant and Herder," 457-67; Herder, _Reflections of the Philosophy of History of Mankind_, 3-33.
 
 5: Tom Rockmore, "Hegel," 468-476; Hegel, _The Philosophy of History_, 1-27; Wilhelm von Humboldt, "On the Historian's Task," 57-71 (skim).  

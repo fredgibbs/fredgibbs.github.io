@@ -1,14 +1,14 @@
 ---
 layout: course2015 
-title: "History of Diet and Health"
+title: "History of Food, Diet, and Health"
 number: HIST 410
 term: Fall 2016
-date: 2015-01-12 00:00:00
+date: 2016-07-29 00:00:00
 ---
 
-Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
+Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
 Mesa Vista Hall, 1077    
-Office Hours: M 2:30-4; W 10:30-12; almost anytime by appointment    
+Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment    
 
 -----
 
@@ -31,9 +31,9 @@ Office Hours: M 2:30-4; W 10:30-12; almost anytime by appointment
 # Dietary Expertise
 5: NO CLASS (labor day)  
 
-7: Shapin, 263-279.   
+7: Shapin, "Trusting George Cheyne," 263-279.   
 
-9: Shapin, 279-297.  
+9: Shapin, "Trusting George Cheyne," 279-297.  
 
 
 # 19th-century Reformers
@@ -81,7 +81,7 @@ Office Hours: M 2:30-4; W 10:30-12; almost anytime by appointment
 
 19: Lizzie Widdicombe, "[End of Food](http://www.newyorker.com/magazine/2014/05/12/the-end-of-food)," *The New Yorker* May 12, 2014.  
 
-21: Fad Diet Discussion; _Food Politics_, 1-28.  
+21: Fad Diet Project Discussion; _Food Politics_, 1-28.  
 
 
 # USDA Guidelines

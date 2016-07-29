@@ -6,7 +6,7 @@ term: Fall 2016
 date: 2016-07-22 00:00:00
 ---
 
-Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
+Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
 Mesa Vista Hall, 1077    
 Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment    
 
@@ -14,16 +14,16 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 
 ## Course Description
 
-This course introduces some of the most influential approaches that historians (from antiquity through the 21st century) have taken in crafting their interpretations of the past. It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history.
+This course introduces some of the most influential approaches that historians (from antiquity through the 21st century) have taken in writing about the past. What is history? What is it for? Who is it for? It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history. 
 
 
 ## Student Learning Outcomes
 
 * Demonstrate the ability to compare and contrast different processes, modes of thought, and modes of expression from different historical time periods and in different geographic areas.
 
-* Understand how and why historians have argued about philosophical methodological approaches to their craft over time, and what cultural changes precepitated new views.
+* Understand how and why historians have argued about philosophical and methodological approaches to their craft over time, and what cultural changes precepitated new views.
 
-* Recognize and articulate the diversity of human experience, including ethnicity, race, language, sex, gender, as well as political, economic, social, and cultural structures over time and space.
+* Recognize and articulate the diversity of human experience, including ethnicity, race, language, sex, gender, as well as political, economic, social, and cultural structures over time and space---and how that is reflected in the writing of history.
 
 * Formulate a clear argument, support the argument with appropriate and thorough evidence, and reach a convincing conclusion.
 
@@ -32,7 +32,7 @@ This course introduces some of the most influential approaches that historians (
 
 ## General Expectations
 
-* As a senior-level seminar, attendance is crucial to your success. However, simply showing up to class counts for very little; I expect that you'll actively participate in all discussions, presentations, and activities. If you are shy about speaking in class, don't worry. You will become much more comfortable and fluent by the end of the semester. But it is an essential skill that much be practiced, and this is the perfect place to do so. Please come see me if you'd like to discuss how we can make this easier for you.
+* As a senior-level seminar, attendance is crucial to your success. However, simply showing up to class counts for very little; I expect that you'll actively participate in all discussions. If you are shy about speaking in class, don't worry. You will become much more comfortable and fluent by the end of the semester. But it is an essential skill that much be practiced, and this is the perfect place to do so. Please come see me if you'd like to discuss how we can make this easier for you.
 
 * You cannot make up missed classes and I will not summarize them for you via email. Please DO NOT email me asking what you missed or how to make it up (feel free to ask your class colleagues for notes). Medical emergencies beyond your control are the one exception to the attendance policy, and you should let me know about these ASAP.
 
