@@ -660,7 +660,7 @@ a {
 
 #syllabus2015 {
   font-family: 'Oxygen', sans-serif;
-  font-size: 12pt;
+  font-size: 10pt;
   width:110%;
 }
 
@@ -670,11 +670,22 @@ font-size: 150%;
 }
 
 #syllabus2015 h2 {
-margin: 1em 0 1em 0;
+margin: 1em 0 .5em 0;
 border-top:1px dotted gray;
 border-bottom:1px dotted gray;
 padding: .3em 0 .3em;
 }
+
+#syllabus2015 h3 {
+margin: 1em 0 1em 0;
+font-weight: bold;
+border-top:1px dotted gray;
+border-bottom:1px dotted gray;
+padding: .3em 0 .3em;
+page-break-after:avoid;
+}
+
+
 
 #syllabus2015 p {
  padding-bottom: .8em 
@@ -690,8 +701,6 @@ div p {
 
 
 ul li {
-  font-family: times;
-  font-weight: normal;
   font-weight: normal;
   font-size:100%;
   page-break-inside: avoid; 
