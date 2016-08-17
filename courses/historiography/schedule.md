@@ -21,31 +21,31 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 ### Historical Challenges; Greek Historiography
 29: _Rethinking History_, 33-69.  
 
-31: _Faces of History_, 1-18; 19-35; skim to 42; 42-47. 
+31: _Faces_, 1-18; 19-35; skim to 42; 42-47. 
 
 
 ### Roman Historiography
 5: NO CLASS (labor day), but note LONG reading assignment for Wed
 
-7: _Faces of History_, 48-74.  
+7: _Faces_, 48-74.  
 
 
 ### Christian and Medieval Historiography
-12: _Faces of History_, 75-98.  
+12: _Faces_, 75-98.  
 
-14: _Faces of History_, 99-129.  
+14: _Faces_, 99-129.  
 
 
 ### Renaissance and Reformation Historiography
-19: _Faces of History_, 130-161.   
+19: _Faces_, 130-161.   
 
-21: _Faces of History_, 162-187.  
+21: _Faces_, 162-187.  
 
 
 ### Scientific and Philosophical History 1
-26: _Faces of History_, 188-216.  
+26: _Faces_, 188-216.  
 
-28: _Faces of History_, 217-249.  
+28: _Faces_, 217-249.  
 
 
 ### Scientific and Philosophical History 2
@@ -79,9 +79,9 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 
 
 ### Postmodernism
-7: Georg Iggers, "From Macro- to Microhistory: The History of Everyday Life," _Historiography of the 20th Century_, 101-117.
+7: Georg Iggers, "From Macro- to Microhistory: The History of Everyday Life," _Historiography in the Twentieth Century_, 101-117.
 
-9: Gertrude Himmelfarb, "Telling is as you like it: postmoderist history and the flight from fact," 158-74; _Rethinking History_, 70-84.
+9: Gertrude Himmelfarb, "Telling it as you like it: postmoderist history and the flight from fact," 158-74; _Rethinking History_, 70-84.
 
 
 ### Narrative and Representation
@@ -99,7 +99,7 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 ### Space and Environment
 28: Charles W. J. Withers, "Place and the ‘Spatial Turn’ in _Geography and in History_,” 637–58.  
 
-30: William Cronon, "The Trouble With Wilderness: Or, Getting Back to the Wrong Nature," _Environmental History_ 1, no. 1 (Jan., 1996): 7-28.
+30: William Cronon, "The Trouble With Wilderness: Or, Getting Back to the Wrong Nature," 7-28.
 
 
 ### Reflections
