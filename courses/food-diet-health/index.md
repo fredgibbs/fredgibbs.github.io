@@ -53,7 +53,7 @@ Some guiding questions: How have medical authorities continually redefined what 
 - Gyorgy Scrinis, _Nutritionism: The Science and Politics of Dietary Advice_. Columbia University Press, 2013 (repr. 2015). ISBN: 978-0231156578.
 
 
-- You will also need to subscribe to the course Zotero library to access assigned articles. This will be discussed on the first day of class. For reference, please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](../etc/zotero.html). 
+- You will also need to subscribe to the course Zotero library to access assigned articles. This will be discussed on the first day of class. For reference, please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](../etc/zotero.html). The URL for the group library is [https://www.zotero.org/groups/642043/items](https://www.zotero.org/groups/642043/items), but you must have clicked on the link in your invitation to access the library!
 
 
 ## Syllabus

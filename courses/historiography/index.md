@@ -17,7 +17,9 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 This course introduces some of the most influential approaches that historians (from antiquity through the 21st century) have taken in writing about the past. What is history? What is it for? Who is it for? It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history. 
 
 
-## Student Learning Outcomes
+## Student Learning Outcomes (SLOs)
+
+Please be aware that this course shares some of the [SLOs for the History Major Capstone courses](http://history.unm.edu/undergraduate/learning-outcomes.html), and pursues others unique to historiography. The SLOs listed below will motivate and guide our work together.
 
 * Demonstrate the ability to compare and contrast different processes, modes of thought, and modes of expression from different historical time periods and in different geographic areas.
 
@@ -80,7 +82,7 @@ Although I have kept the reading load to a reasonable level, the assignments are
 
 - Donald R. Kelley, _Faces of History: Historical Inquiry from Herodotus to Herder_. Yale University Press, 1999. ISBN: 978-0300075588.
 
-- To access all other articles and book chapters on the syllabus, you will need to subscribe to the course Zotero library. Please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](../etc/zotero.html).
+- To access all other articles and book chapters on the syllabus, you will need to subscribe to the course Zotero library. Please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](../etc/zotero.html). The URL for the group library is [https://www.zotero.org/groups/632527/items](https://www.zotero.org/groups/632527/items), but you must have clicked on the link in your invitation to access the library!
 
 
 ## Syllabus
