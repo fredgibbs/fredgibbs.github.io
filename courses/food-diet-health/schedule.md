@@ -13,9 +13,9 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 -----
 
 ### Introductions
-22: Introduction to the course, syllabus, and expectations.    
+22: Introduction to the course, syllabus, and expectations.
 
-24: Selections from _Galen on Food and Diet_.  
+24: Selections from _Galen on Food and Diet_: 1-8; 14-18; 68-84. How did physicians like Galen conceive the notion of disease? According to Galen, how does diet fit into medical understandings of disease? How is his approach similar and different to modern approaches to diet? How would you describe his writing stlye? Does it seem strange for a physician? 
 
 26: Brian Cowan, "New Worlds and New Tastes," 1-17.  
 
@@ -37,7 +37,7 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 
 
 ### 19th-century Reformers
-12: [Sylvester Graham](https://en.wikipedia.org/wiki/Sylvester_Graham) and [Sylvester Graham and Antebellum Diet Reform](http://www.gilderlehrman.org/history-by-era/first-age-reform/essays/sylvester-graham-and-antebellum-diet-reform).  
+12: **First Essay Due**. [Sylvester Graham](https://en.wikipedia.org/wiki/Sylvester_Graham) and [Sylvester Graham and Antebellum Diet Reform](http://www.gilderlehrman.org/history-by-era/first-age-reform/essays/sylvester-graham-and-antebellum-diet-reform).
 
 14: Elisabeth Meyer-Renschhausen and Albert Wirz, "Dietetics, Health Reform and Social Order: Vegetarianism as a Moral Physiology. The Example of Maximilian Bircher-Benner (1867-1939)," *Medical History* 43 (1999): 323-41.  
 
@@ -69,9 +69,9 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 
 
 ### Food Will Win the War
-10: *Eating Right in America*, "Anxiety and Aspiration," 45-79. 
+10: **Second Essay Due**. *Eating Right in America*, "Anxiety and Aspiration," 45-79. 
 
-12: NO CLASS (faux break)
+12: NO CLASS (fall break preview)
 
 14: NO CLASS (fall break)
 
@@ -97,11 +97,11 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 
 2: _Food Politics_, 272-93.  
 
-4: NO CLASS (read for Monday)  
+4: NO CLASS (work on your essays; read for Monday)  
 
 
 ### Techno/Functional Foods
-7: _Food Politics_, 295-314; 315-337.   
+7: **Third Essay Due**. _Food Politics_, 295-314; 315-337.   
 
 9: *Nutritionism*, "Functional Foods: Nutritional Engineering, Marketing and Corporate Nutritionism," 191-214.  
 

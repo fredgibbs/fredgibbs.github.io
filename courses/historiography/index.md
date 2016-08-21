@@ -38,7 +38,7 @@ Please be aware that this course shares some of the [SLOs for the History Major 
 
 * You cannot make up missed classes and I will not summarize them for you via email. Please DO NOT email me asking what you missed or how to make it up (feel free to ask your class colleagues for notes). Medical emergencies beyond your control are the one exception to the attendance policy, and you should let me know about these ASAP.
 
-* I consider it extremely rude and disruptive to walk into class late, and it greatly aggravates me. Everyone makes mistakes, and I undertstand you might be (barely) late once or twice. Repeatedly being late will negatively impact your grade by a third to full letter grade.
+* I consider it extremely rude and disruptive to walk into class late (especially in our small room), and it greatly aggravates me. Everyone makes mistakes, and I undertstand you might be (barely) late once or twice. Repeatedly being late will negatively impact your grade by at least a third letter grade.
 
 * If you run into personal problems during the semester that make school difficult for you, please talk to me about what adjustments we can make to help you succeed in the course.
 
@@ -51,27 +51,29 @@ Although I do not calcuate grades mathematically, I have provided percetages to 
 
 - Preparation work for each class (25%)
 
-We'll divide the class into 4 groups (as equal as possible). Each student will belong to one of these groups for each class and will continually rotate through the groups during the semester, thus changing groups each class.
+We'll divide the class into 4 groups (as equal as possible). Each group will be responsible for the following roles; everyone's role will change each class (by adding 1 to your role number--that is, Commenters for Monday will be Discussion Guides on Wednesday, and so on). **All posts are due by midnight the day before class.**
 
-1. **Summarizers:** The summarizers will prepare a 1-page bullet-point summary of the assigned readings. You will work on these independently (though you can work together if you want), but you must present them collectively at the beginning of class as a way of reminding everyone what they've read.
+1. **Commenters:** The commenters will post a 400-word critical comment on the readings. These should be high quality but informal writing, like you were writing for a literary magazine--you should have an opinion and have fun writing about it. You must resist the urge to summarize the readings (we have summarizers to do that!).  
 
-2. **Commenters:** The commenters will post a 500-word critical comment on the readings the night before each class. These should be high quality but informal writing, like you were writing for a top-shelf literary magazine--you should have an opinion and have fun writing about it. You must resist the urge to summarize the readings (we have summarizers to do that!).  
+2. **Discussion Guides:** The discussion guides will post questions that will help guide discussion for that class. Of course I will help guide discussions each day, but I expect the examiners to do the bulk of the work. Don't ask questions that actually have an obvious answer, but questions that help us think critically about the readings.
 
-3. **Discussion Guides:** The discussion guides will come to class with questions that will help guide discussion for that class. Examiners should draw from the Commenters and incorporate on-the-fly as much as possible from the Summarizers. I will help guide discussions each day, but I expect the examiners to do the bulk of the work.
+3. **Summarizers:** The summarizers will prepare a ~6 bullet-point summary of the assigned reading, of what they took to be the significant points. I expect all summarizers to make contributions at the beginning of class as a way of reminding everyone what they've read. Be sure that you prepare enough to have something original to say.
 
-4. **Slackers** Enjoy your day off.
+4. **Slackers:** Enjoy your day off.
 
-For this component, you will be evaluted on the extent to which your comments, summaries, and questions show your engagement with that assignment and its relationship to the course. It's not practical for me to assign specifc letter grades to each of these individually, so I make general comments about them each class, highlighting excellent work and nudging the slackers to step it up. 
+For this component, you will be evaluted on the extent to which your comments, summaries, and questions show your engagement with that assignment and its relationship to the course. It's not practical for me to assign specifc letter grades to each of these individually, so I make general comments about them each class, highlighting excellent work and nudging those with more superficial work to step it up. 
  
 - ~5-minute video book review. We will discuss this much more in class, both the historiographical and technical components. No experience required! For more on this, see the [video book review](../etc/video-book-review) page. (15%)
 
-- FINAL ESSAY: Pick a book off the shelf of the historiography section of Zimmerman Library. Write a 1500 word book review, drawing primarily from course readings and sources they reference. This is your big and final chance to show off what you learned in the course. While some summary is necessary, of course, your essay should focus on situating the book in historical and historiographical context. The more sophisticated your analysis, the higher your grade.  (20%)
+- FINAL ESSAY: Pick a book off the shelf of the historiography section of Zimmerman Library. Write a 1500 word book review, drawing primarily from course readings and sources they reference. This is your big and final chance to show off what you learned in the course. While some summary is necessary, of course, your essay should focus on situating the book in its historical and especially historiographical context. The more sophisticated your analysis (drawing widely from course sources and ideas), the higher your grade. This is due the last day of finals! (20%)
 
-- FINAL GRADES: Because most of your work in this course is not assigned a specific letter grade, and because such an approach hardly captures all the intangible factors that go into a grade, here's my functional approach to grading this upper level history course. Basically, everyone starts with a B, and you gradually move it up or down depending on the consistency and quality of your work. If you are contributing thoughtfully to discussions, your grade moves to a B+. If you are consistently putting work into the preparation assignments (not merely completing them), your grade moves to an A-. Conversely, you can also move your grade down by not participating in class, or with consistently superficial preparation work. Not showing up and/or turning in work late lowers your grade very quickly. The video and final essay do get specific grade attached to them, and they raise or lower your grade depending on how much higher or lower they are from what you've earned by the end of the term (usually not more than 1/3 of a grade).
+- FINAL GRADES: Because most of your work in this course is not assigned a specific letter grade (and because many intangible factors go into a grade), here's my functional approach to grading this upper level history course: Basically, everyone starts with a B, and you gradually move it up or down depending on the consistency and quality of your work. If you are contributing thoughtfully to discussions, your grade moves to a B+. If you are consistently putting work into the preparation assignments (not merely completing them), your grade moves to an A-. Conversely, you can also move your grade down by not participating in class, or with consistently superficial preparation work. Not showing up and/or turning in work late lowers your grade very quickly. 
 
-**Please feel free to talk to me about your individual performance at any time during the semester**, as often as you'd like. Please do not email about this; a conversation is far more useful and efficient. Right before or after class is a good time, as well as office hours. Other appointments welcome.
+The video and final essay do get specific grade attached to them, and they raise or lower your grade depending on how much higher or lower they are from what you've earned by the end of the term (usually not more than 1/3 of a grade).
 
-Although I have kept the reading load to a reasonable level, the assignments are often quite dense and conceptually challenging. This is by design, as a capstone course for the history department. Be honest with yourself about whether you have time to fit this course into your busy schedules. One of the goals of the course is that you will learn to read and absorb information more quickly than you can already. That skill is hard-earned, and only comes with practice.
+**Please feel free to talk to me about your individual performance at any time during the semester**, and as often as you'd like. Please do not email about this; a conversation is far more useful and efficient and avoids misunderstandings. Right before or after class is a good time, as well as office hours. Other appointments welcome.
+
+Although I have kept the reading load to a reasonable level (kind of low for an upper-level history course), the readings can quite dense and conceptually challenging, and you will be turning in work before 3 out of 4 classes. This emphasis on thinking and writing is by design, as a capstone course for the history department. Be honest with yourself about whether you have time to fit this course into your busy schedules. One of the goals of the course is that you will learn to read, absorb, and think critically about information more easily and quickly than you can already. That skill is hard-earned, and only comes with practice.
 
 
 ## Required Texts
@@ -83,6 +85,7 @@ Although I have kept the reading load to a reasonable level, the assignments are
 - Donald R. Kelley, _Faces of History: Historical Inquiry from Herodotus to Herder_. Yale University Press, 1999. ISBN: 978-0300075588.
 
 - To access all other articles and book chapters on the syllabus, you will need to subscribe to the course Zotero library. Please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](../etc/zotero.html). The URL for the group library is [https://www.zotero.org/groups/632527/items](https://www.zotero.org/groups/632527/items), but you must have clicked on the link in your invitation to access the library!
+- We will store our work at at [https://github.com/unm-historiography/491-fall2016](https://github.com/unm-historiography/491-fall2016). We'll talk more about this in class, but instructions are [here](github-instructions.html).
 
 
 ## Syllabus
