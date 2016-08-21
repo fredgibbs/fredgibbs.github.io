@@ -80,7 +80,6 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 17: *Nutritionism*, "A Clash of Nutritional Ideologies," 1-24.  
 
 19: Lizzie Widdicombe, "[End of Food](http://www.newyorker.com/magazine/2014/05/12/the-end-of-food)," *The New Yorker* May 12, 2014.  
-
 21: Fad Diet Project Discussion; _Food Politics_, 1-28.  
 
 
@@ -119,9 +118,9 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 ### Weight and Health
 21: _Nutritionism_, "Macronutrient Diet Wars," 99-132.  
 
-23: _Eating Right in America_, "Thinness as Health," 109-24.  
+23: _Eating Right in America_, "Thinness as Health," 109-49. (sorry)  
 
-25: _Eating Right in America_, "Thinness as Health," 124-49.  
+25: NO CLASS (Thanksgiving)
 
 
 ### Processed Food
@@ -135,4 +134,4 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 ### Conclusions
 5: *Eating Right in America*, "Connecting the Dots," 150-55; _Food Politics_, "Conclusion," 358-74.
 
-7: What can we learn from Evaluations
+7: Final Discussion (useful for your final): What can we learn from the history of diet and health?
