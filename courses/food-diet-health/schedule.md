@@ -15,9 +15,9 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 ### Introductions
 22: Introduction to the course, syllabus, and expectations.
 
-24: Selections from _Galen on Food and Diet_: 1-8; 14-18; 68-84. How did physicians like Galen conceive the notion of disease? According to Galen, how does diet fit into medical understandings of disease? How is his approach similar and different to modern approaches to diet? How would you describe his writing stlye? Does it seem strange for a physician? 
+24: Selections from _Galen on Food and Diet_: 1-8; 14-18; 68-84. How did physicians like Galen conceive the notion of disease? According to Galen, how does diet fit into medical understandings of disease? How is his approach similar and different to modern approaches to diet? How would you describe his writing style? Does it seem strange for a physician? 
 
-26: Brian Cowan, "New Worlds and New Tastes," 1-17.  
+26: Brian Cowan, "New Worlds and New Tastes," 1-17. This reading covers both foodways (kinds of foods, manners, etc.) as well as dietary concerns; feel free to skim the non-health bits as you come across them. They are interesting, but not our primary focus. Still, we should ask: why does **cuisine** get so much attention (particularly pp. 11-17)? In terms of diet and health, what's different in the 1500s? Galen talked a little about the difference between food and drug (and we will talk more about that during class)--what's the difference between food and drug in the Renaissance? Why is there no discussion of the unhealthiness of sugar?
 
 
 ### Enlightened Diets
