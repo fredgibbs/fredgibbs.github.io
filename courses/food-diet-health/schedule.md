@@ -15,23 +15,25 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 ### Introductions
 22: Introduction to the course, syllabus, and expectations.
 
-24: Selections from _Galen on Food and Diet_: 1-8; 14-18; 68-84. How did physicians like Galen conceive the notion of disease? According to Galen, how does diet fit into medical understandings of disease? How is his approach similar and different to modern approaches to diet? How would you describe his writing style? Does it seem strange for a physician? 
+24: **Selections from _Galen on Food and Diet_: 1-8; 14-18; 68-84.** How did physicians like Galen conceive the notion of disease? According to Galen, how does diet fit into medical understandings of disease? How is his approach similar and different to modern approaches to diet? How would you describe his writing style? Does it seem strange for a physician? 
 
-26: Brian Cowan, "New Worlds and New Tastes," 1-17. This reading covers both foodways (kinds of foods, manners, etc.) as well as dietary concerns; feel free to skim the non-health bits as you come across them. They are interesting, but not our primary focus. Still, we should ask: why does **cuisine** get so much attention (particularly pp. 11-17)? In terms of diet and health, what's different in the 1500s? Galen talked a little about the difference between food and drug (and we will talk more about that during class)--what's the difference between food and drug in the Renaissance? Why is there no discussion of the unhealthiness of sugar?
+26: **Brian Cowan, "New Worlds and New Tastes," 1-17.** This reading covers both foodways (kinds of foods, manners, etc.) as well as dietary concerns; feel free to skim the non-health bits as you come across them. They are interesting, but not our primary focus. Still, we should ask: why does **cuisine** get so much attention (particularly pp. 11-17)? In terms of diet and health, what's different in the 1500s? Galen talked a little about the difference between food and drug (and we will talk more about that during class)--what's the difference between food and drug in the Renaissance? Why is there no discussion of the unhealthiness of sugar?
 
 
 ### Enlightened Diets
-29: J. Worth Estes, "The Medical Properties of Food in the Eighteenth Century," *Journal of the History of Medicine and Allied Sciences*, 51 (1996): 127-141.
+**Reading Note:** The below readings (through the 9th) are updated from the original syllabus. For the mobidly curious, you can see what you missed in the Zotero library with J. Worth Estes, "The Medical Properties of Food." Sorry for the late change, but it's worth it! All new readings are in our Zotero library.
 
-31: J. Worth Estes, "The Medical Properties of Food": 141-149.  
+29: **Ken Albala, "The Human Body," 48-62; "Food," 82-88; 91-104.** The PDF has considerably more than you need to read. For the specified page ranges, only read within entire sections. For instance: on page 62, read only up through the "Spirits" heading, and so on; some sections (like on p. 91) start near the bottom of the page [ = less reading!]. What do you see as the pros and cons for the Renaissance understanding of digestion? Why do drunk people crave salty foods? Why does the physicality of food matter so much if balancing the humours is so important? Aren't they totally different systems? Is there a modern analog to the Renaissance "virtues" of certain food as described in the reading?
 
-2: George Cheyne, *An Essay on Regimen* (London, 1740), 53-62.  
+31: **Steven Shapin, "How to Eat like a Gentleman," 21-48.**
+
+2: **George Cheyne, An Essay on Regimen," i-xxiv.** Here's our first excursion into a primary source. The language seems weird at first (and it is, compared to ours) but you get used to it after a few pages. Given what we've read about diet and health before, did anything in here surprise you? 
 
 
 ### Dietary Expertise
 5: NO CLASS (labor day)  
 
-7: Shapin, "Trusting George Cheyne," 263-279.   
+7: Steven Shapin, "Trusting George Cheyne," 263-279.   
 
 9: Shapin, "Trusting George Cheyne," 279-297.  
 
