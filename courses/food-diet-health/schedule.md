@@ -21,15 +21,15 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 
 
 ### Enlightened Diets
-**Reading Note:** The below readings (through the 9th) are updated from the original syllabus. For the mobidly curious, you can see what you missed in the Zotero library with J. Worth Estes, "The Medical Properties of Food." Sorry for the late change, but it's worth it! All new readings are in our Zotero library.
+**Reading Note:** The below readings (through the 2nd) are updated from the original syllabus. For the mobidly curious, you can see what you missed in the Zotero library with J. Worth Estes, "The Medical Properties of Food." Sorry for the late change, but it's worth it! All new readings are in our Zotero library.
 
 29: **Ken Albala, "The Human Body," 48-62; "Food," 82-88; 91-104.** The PDF has considerably more than you need to read. For the specified page ranges, only read within entire sections. For instance: on page 62, read only up through the "Spirits" heading, and so on; some sections (like on p. 91) start near the bottom of the page [ = less reading!]. 
 
-*Reading Guide:* What do you see as the pros and cons for the Renaissance understanding of digestion? Why do drunk people crave salty foods? Why does the physicality of food matter so much if balancing the humours is so important? Aren't they totally different systems? Is there a modern analog to the Renaissance "virtues" of certain foods as described in the reading?
+*Reading Guide:* Where do you see overlap with Galen's ideas? What do you see as the pros and cons for the Renaissance understanding of digestion? Why do drunk people crave salty foods? Why does the physicality of food matter so much if balancing the humours is so important? Aren't they totally different systems? Is there a modern analog to the Renaissance "virtues" of certain foods as described in the reading?
 
 31: **Steven Shapin, "How to Eat like a Gentleman," 21-48.**
 
-2: **George Cheyne, An Essay on Regimen," i-xxiv.** Here's our first excursion into a primary source. The language seems weird at first (and it is, compared to ours) but you get used to it after a few pages. Given what we've read about diet and health before, did anything in here surprise you? 
+2: **George Cheyne, An Essay on Regimen," i-xxiv.** Here's our first excursion into a primary source without translation (making its eccentricities even more apparent). The language seems weird at first (and it is, compared to ours) but you get used to it after a few pages. Given what we've read about diet and health before, did anything in here surprise you? 
 
 
 ### Dietary Expertise
