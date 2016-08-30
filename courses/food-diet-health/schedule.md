@@ -29,6 +29,9 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 
 31: **Steven Shapin, "How to Eat like a Gentleman," 21-48.**
 
+*Reading Guide:* How are the _kinds_ sources examined in this reading different from what we've considered so far? How does the dietary advice differ? To what extent were plain and simple meals a dietary as opposed to social concern? What did nationality have to do with dietary choices? How does grandmotherly expertise conflict with medical expertise? What did it mean to "live physically"? Why would anyone want to? How does this idea connect with the Cowan reading from last Friday? "_Is it so great a thing to be alive?_" Do you see any vestiges of English gentlemanly dietary advice in modern America dietary advice? What do you consider the most important points from the last section--much of which we will return to in various ways throughout the semester? 
+
+
 2: **George Cheyne, An Essay on Regimen," i-xxiv.** Here's our first excursion into a primary source without translation (making its eccentricities even more apparent). The language seems weird at first (and it is, compared to ours) but you get used to it after a few pages. Given what we've read about diet and health before, did anything in here surprise you? 
 
 
