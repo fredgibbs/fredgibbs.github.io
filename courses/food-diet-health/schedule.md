@@ -47,7 +47,9 @@ With respect to the "Gentleman" reading (from the same author as this article), 
 And the biggest question that links our two discussions this week: **How did Cheyne establish his medical reputation?** Think about how some of the sections from his text we read last week can help us answer this so far.
 
 
-9: Shapin, "Trusting George Cheyne," 279-297.  
+9: **Shapin, "Trusting George Cheyne," 279-297.**  
+
+*Reading Guide:* What kinds of advice did his patients get in their personal correspondence? To what extent were these reasonable? Was there any conflict with common sense? How different was public and private medical advice? How specifically did Cheyne appeal to morality in his letters with patients? How did his own physical condition matter? How prevelant was the "micromechanical" approach/advice we read about last time? What kinds of experience does Shapin discuss? What are the modern analogs?
 
 
 ### 19th-century Reformers
