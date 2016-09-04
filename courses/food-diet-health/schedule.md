@@ -29,16 +29,23 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 
 31: **Steven Shapin, "How to Eat like a Gentleman," 21-48.**
 
-*Reading Guide:* How are the _kinds_ of sources examined in this reading different from what we've considered so far? How does the dietary advice differ? To what extent were plain and simple meals a dietary as opposed to a social concern? What did nationality have to do with dietary choices? How does grandmotherly expertise conflict with medical expertise? What did it mean to "live physically"? Why would anyone want to? How does this idea connect with the Cowan reading from last Friday? "_Is it so great a thing to be alive?_ " How did the fact that the target audience was "gentlemen" matter to the reception of the advice? Do you see any vestiges of English gentlemanly dietary advice in modern American dietary advice? What do you consider the most important point(s) from the last section (much of which we will return to in various ways throughout the semester)? 
+*Reading Guide:* How are the _kinds_ of sources examined in this reading different from what we've considered so far? How does the dietary advice differ? To what extent were plain and simple meals a dietary as opposed to a social concern? What did nationality have to do with dietary choices? How does grandmotherly expertise conflict with medical expertise? What did it mean to "live physically"? Why would anyone (not) want to? How does this idea connect with the Cowan reading from last Friday? "_Is it so great a thing to be alive?_ " How did the fact that the target audience was "gentlemen" matter to the reception of the advice? Do you see any vestiges of English gentlemanly dietary advice in modern American dietary advice? What do you consider the most important point(s) from the last section (much of which we will return to in various ways throughout the semester)? 
 
 
-2: **George Cheyne, An Essay on Regimen," i-xxiv.** Here's our first excursion into a primary source without translation (making its eccentricities even more apparent). The language seems weird at first (and it is, compared to ours) but you get used to it after a few pages. How does Cheyne's advice echo what we've been reading about? What is different? In either case, what are his primary concerns? To what extent do you see the moral component of diet that we began to talk about last time? Can anyone actually follow this kind of advice?
+2: **George Cheyne, _An Essay on Regimen_," i-xxiv.** Here's our first excursion into a primary source without translation (making its eccentricities even more apparent). The language seems weird at first (and it is, compared to ours) but you get used to it after a few pages. How does Cheyne's advice echo what we've been reading about? What is different? In either case, what are his primary concerns? To what extent do you see the moral component of diet that we began to talk about last time? Can anyone actually follow this kind of advice?
 
 
 ### Dietary Expertise
-5: NO CLASS (labor day)  
+5: NO CLASS (labor day); spend time finding something to critique for your first essay (due next Monday). Email with questions!  
 
-7: Steven Shapin, "Trusting George Cheyne," 263-279.   
+7: **Steven Shapin, "Trusting George Cheyne," 263-279.**
+
+*Reading Guide:* This reading continues and focuses our previous attention to medical expertise and moral authority. We've already read and summarized (thanks to your hard work last Friday) Cheyne's own medical writing, so please keep that in mind when reading more about Cheyne himself. 
+
+With respect to the "Gentleman" reading (from the same author as this article), I asked _How did the fact that the target audience was "gentlemen" matter to the reception of the advice?)_ This was meant to prime us for thinking about common sense vs. expert advice that we're reading about for today. **Was this a new tension in the 1700s?** **How much do we still have this tension regarding modern dietary concerns?** Part of the answer to this depends on what "common sense" is at a time. What was the typical layperson's medical knowledge in the 1700s? And today? NOTE in particular: _In dietetics ... medicine pitched its tent on ground already densely occupied by moral common sense._  What medical advice is carved on the Apollo's temple at Delphi? How similar and different to modern dietary advice? What were common criticisms of 18th-century physicians? What does Shapin mean by "micromechanism" and "iatromechanical"? Where do these terms come from? 
+
+And the biggest question that links our two discussions this week: **How did Cheyne establish his medical reputation?** Think about how some of the sections from his text we read last week can help us answer this so far.
+
 
 9: Shapin, "Trusting George Cheyne," 279-297.  
 
