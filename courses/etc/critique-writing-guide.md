@@ -22,7 +22,7 @@ Then, comment about the evidence used to make the point. Maybe there are "scient
 
 Are you convinced by the evidence? What is problematic or missing? What are the assumptions of the author about the nature of diet and health?
 
-**Can history of diet and health (as we've discussed it so far), provide any insight into what the article is talking about?** For instance, you might discuss (thinking about the early part of the course in particular) _how your source balances common sense and medical advice_.
+**Can the history of diet and health (as we've discussed it so far), provide any insight into what the article is talking about?** For instance, you might discuss (thinking about the early part of the course in particular) _how your source balances common sense and medical advice_.
 
 The 400 word format is very deliberate, to force you to think about quality over quantity. The challenge isn't to write 400 words, but pack as much analysis into 400 words as you can. It's a super useful skill that you'll frequently employ in your future career, whatever it is.
  
