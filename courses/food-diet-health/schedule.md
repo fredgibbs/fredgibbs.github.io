@@ -53,7 +53,11 @@ And the biggest question that links our two discussions this week: **How did Che
 
 
 ### 19th-century Reformers
-12: **First Essay Due**. Remember to review the [critique writing guide](http://fredgibbs.net/courses/etc/critique-writing-guide). [Sylvester Graham](https://en.wikipedia.org/wiki/Sylvester_Graham) and [Sylvester Graham and Antebellum Diet Reform](http://www.gilderlehrman.org/history-by-era/first-age-reform/essays/sylvester-graham-and-antebellum-diet-reform).
+12: **First Essay Due**. Remember to review the [critique writing guide](http://fredgibbs.net/courses/etc/critique-writing-guide). 
+
+[Sylvester Graham](https://en.wikipedia.org/wiki/Sylvester_Graham) and Cindy Lobel, "Sylvester Graham and Antebellum Diet Reform." (recently added to the Zotero library) and [also online, but sometimes restricted](http://www.gilderlehrman.org/history-by-era/first-age-reform/essays/sylvester-graham-and-antebellum-diet-reform). Strangely, you can usually access this by Googling for it, and then clicking the link in the search results (but a direct link asks you to log in).
+
+*Reading Guide:* Focus on your essays! The short Lobel essay describes how Graham is an important predecessor to popular contemporary food evangelists (and best-selling authors) like Michael Pollan. How can we use the course so far to better understand Graham himself?
 
 14: Elisabeth Meyer-Renschhausen and Albert Wirz, "Dietetics, Health Reform and Social Order: Vegetarianism as a Moral Physiology. The Example of Maximilian Bircher-Benner (1867-1939)," *Medical History* 43 (1999): 323-41.  
 
