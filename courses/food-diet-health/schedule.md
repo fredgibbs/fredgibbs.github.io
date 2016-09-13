@@ -63,6 +63,7 @@ And the biggest question that links our two discussions this week: **How did Che
 
 
 *Reading Guide:* 
+
 - Why was there a need for dietetic reform? How is this similar to and different from cultural circumstances we’ve seen before?
 - Cheyne talked about pipes and juices. What kinds of metaphors or analogies characterize Bircher-Benner’s dietetics? Why?
 - What is “anti-rationalistic” with respect to a diet? Why would a diet be characterized this way? How could one show it wasn’t?
