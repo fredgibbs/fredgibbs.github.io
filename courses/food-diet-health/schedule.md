@@ -59,7 +59,16 @@ And the biggest question that links our two discussions this week: **How did Che
 
 *Reading Guide:* Focus on your essays! The short Lobel essay describes how Graham is an important predecessor to popular contemporary food evangelists (and best-selling authors) like Michael Pollan. How can we use the course so far to better understand Graham himself?
 
-14: Elisabeth Meyer-Renschhausen and Albert Wirz, "Dietetics, Health Reform and Social Order: Vegetarianism as a Moral Physiology. The Example of Maximilian Bircher-Benner (1867-1939)," *Medical History* 43 (1999): 323-41.  
+14: **Elisabeth Meyer-Renschhausen and Albert Wirz, "Dietetics, Health Reform and Social Order: Vegetarianism as a Moral Physiology. The Example of Maximilian Bircher-Benner (1867-1939)," *Medical History* 43 (1999): 323-41.**  
+
+
+*Reading Guide:* 
+- Why was there a need for dietetic reform? How is this similar to and different from cultural circumstances we’ve seen before?
+- Cheyne talked about pipes and juices. What kinds of metaphors or analogies characterize Bircher-Benner’s dietetics? Why?
+- What is “anti-rationalistic” with respect to a diet? Why would a diet be characterized this way? How could one show it wasn’t?
+- What kind of arguments were being made against eating meat?
+- What’s the big picture point of the Müsli story?
+
 
 16: Regina Martkell Morantz, Making Women Modern: Middle Class Women and Health Reform in 19th Century America," *Journal of Social History* 10.4 (1977): 490-507.  
 
