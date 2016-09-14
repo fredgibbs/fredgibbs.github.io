@@ -71,7 +71,7 @@ And the biggest question that links our two discussions this week: **How did Che
 - What’s the big picture point of the Müsli story?
 
 
-16: **Regina Martkell Morantz, Making Women Modern: Middle Class Women and Health Reform in 19th Century America," *Journal of Social History* 10.4 (1977): 490-507.**
+##16: **Regina Martkell Morantz, Making Women Modern: Middle Class Women and Health Reform in 19th Century America," *Journal of Social History* 10.4 (1977): 490-507.**
 
 *Reading Guide Challenge:* **Come to class with three questions!** Please try to formulate questions as per previous reading guides--questions that pull out key themes or ideas that help us focus on their significance. Don't get bogged down in details! I know you'll be busy revising your essays, but you should be able to read the entire article quickly (it's short) and still come up with good questions. I will randomly select students to share their questions for our discussion---so be prepared! 
 
