@@ -77,7 +77,9 @@ And the biggest question that links our two discussions this week: **How did Che
 
 
 ### Nutritionism and its Origins
-19: *Nutritionism*, "The Nutritionist Paradigm," 25-50.  
+**19: *Nutritionism*, "The Nutritionist Paradigm," 25-50.**  
+*Activity Guide:* This is obviously a different kind of reading than we've had before, and considerably more technical from a nutrition standpoint. Our goal for this class is to get clear about the larger points that the author wants to make and the specific terms and concepts he introduces (and uses throughout the book). **YOUR JOB: Come to class with with 5 terms or concepts that we should clarify. There may be a quiz about these.** 
+
 
 21: *Nutritionism*, "The Era of Quanitfying Nutritionism," 51-71.  
 
