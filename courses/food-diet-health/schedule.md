@@ -81,7 +81,9 @@ And the biggest question that links our two discussions this week: **How did Che
 *Activity Guide:* This is obviously a different kind of reading than we've had before, and considerably more technical from a nutrition standpoint. Our goal for this class is to get clear about the larger points that the author wants to make and the specific terms and concepts he introduces (and uses throughout the book). **YOUR JOB: Come to class with with 5 terms or concepts that we should clarify. There may be a quiz about these.** 
 
 
-21: *Nutritionism*, "The Era of Quanitfying Nutritionism," 51-71.  
+**21: *Nutritionism*, "The Era of Quanitfying Nutritionism," 51-71.**
+
+*Reading Guide*: What does Scrinis means by "quantifying nutritionism"? What processes encouraged that? To what extent does it still pervade dietary thinking and advice? Although a seemingly objective measure of energy, how is the calorie political? What are the examples of techno-fixes in this chapter? "Perception of nutrient scarcity" and "myth of nutritional precision" are key phrases that motivate this chapter---what are they? And do they really matter? How far can we trust Scrinis's analysis?
 
 23: NO CLASS (break)
 
