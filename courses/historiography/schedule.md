@@ -43,13 +43,21 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 
 
 ### Scientific and Philosophical History 1
+
+**NOTE ASSIGNMENT CHANGE for the 26th and 28th**    
+_Group 1:_ You will be summarizers for the chapter. Please pull out key ideas, quotes, historiographical changes, etc., that we should record for future use while working our collaborative web project. Do not feel compelled to follow the "summarizer" role as we had before. If you'd have a comment or important questions to contribute, please count those points as part of your summary.
+
+_Group 2:_ As per our discussion last time, you will propose and defend a structure for our historiography web project. Namely, how much should we follow Kelley's lead? What other chronological divisions should we use? Should any chapters be divided up differently? Are there certain themes and topics that we should highlight separate from the chronological progression? How do we want people to use our historiography website? How can we create something that stands on its own but also werves as a foundation for further expansion (depth or breadth)?
+
+If you are not sure of what group you are now in (because you weren't in class or you forgot), use this formula: old groups 1 and 2 are now in group 1; old groups 3 and 4 are now in group 2. OTHERWISE, use the group number you counted off in class. 
+
 26: _Faces_, 188-216.  
 
 28: _Faces_, 217-249.  
 
 
 ### Scientific and Philosophical History 2
-3: Sharon Anderson-Gold, "Kant and Herder," 457-67; Herder, _Reflections of the Philosophy of History of Mankind_, 3-33.
+3: Sharon Anderson-Gold, "Kant and Herder," 457-67; Herder, _Reflections of the Philosophy of History of Mankind_, 3-33. This primary source you should generally skim, but pick your spots to read more carefully when something interests you. If nothing interests you, pick spots at random.  
 
 5: Tom Rockmore, "Hegel," 468-476; Hegel, _The Philosophy of History_, 1-27; Wilhelm von Humboldt, "On the Historian's Task," 57-71 (skim).  
 
@@ -57,7 +65,7 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 ### Professionalization 
 10: Thomas Gil, "Leopold Ranke," 383-92; Ranke (in Wines), 55-67; Felix Gilbert, "What Ranke Meant," _The American Scholar_ 56.3 (1987): 393-397.
 
-12: Guenther Roth, "History and Sociology in the Work of Max Weber," 306-18.
+12: Project Workshop. (previously: Guenther Roth, "History and Sociology in the Work of Max Weber," 306-18.)
 
 
 ### Empirical History
@@ -85,9 +93,9 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 
 
 ### Narrative and Representation
-14: _Houses_, "The Question of Narrative," 204-213; Hayden White, "The Value of Narrativity in the Representation of Reality," 5-27.
+14: _Houses_, "The Question of Narrative," 204-213; Group 1: Hayden White, "The Value of Narrativity in the Representation of Reality," 5-27; Group 2: Hayden White, "The Fictions of Factual Representation," [= _Houses_, 214-229]. 
 
-16: Hayden White, "The Fictions of Factual Representation," [= _Houses_, 214-229]. 
+16: Project Workshop
 
 
 ### History of Others
@@ -105,5 +113,5 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 ### Reflections
 5: Digital History, TBD; Kieran Healy, "Fuck nuance," 1-13.
 
-7: Conclusions and Evaluations 
+7: Project Workshop 
 
