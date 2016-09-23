@@ -89,7 +89,9 @@ And the biggest question that links our two discussions this week: **How did Che
 
 
 ### The Rise of Nutrition(ism)
-26: *Eating Right in America*, "Beginning of Modern Dietary Reform," 13-44.  
+**26: *Eating Right in America*, "Beginning of Modern Dietary Reform," 13-44.**
+
+*Reading Guide*: Here we get another look at food reformers in the early 20th century, with an emphasis on the links between diet and morality. A few key points to consider: What does "morality" mean in this chapter? Why is it so important (per the reformers) to have the proper diet? How is the proper diet related to the supposedly universal calorie? Also note that we are highly likely to have our first quiz of the semester. Read carefully, but you know that I won't ask you about nitpicky details.  
 
 28: Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine* 34 (May 1887): 59-74.  
 
