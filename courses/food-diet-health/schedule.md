@@ -93,7 +93,10 @@ And the biggest question that links our two discussions this week: **How did Che
 
 *Reading Guide*: Here we get another look at food reformers in the early 20th century, with an emphasis on the links between diet and morality. A few key points to consider: What does "morality" mean in this chapter? Why is it so important (per the reformers) to have the proper diet? How is the proper diet related to the supposedly universal calorie? Also note that we are highly likely to have our first quiz of the semester. Read carefully, but you know that I won't ask you about nitpicky details.  
 
-28: Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine* 34 (May 1887): 59-74.  
+28: **Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine* 34 (May 1887): 59-74.**
+
+*Reading Guide*: We don't need to summarize the main points of the article---they are clearly stated at the end. Our goal is to understand the overall flavor of this article that is representative of Atwater’s work so often referenced in our readings of late. *Skim but don't totally skip* the science lesson details. I want to critique this article like you did your articles for your essays and consider some questions that have we've considered in other contexts. How does article reflect larger scientific currents? To what extent has this been true for our other sources? What’s the point of all the science detail? Where does metaphor play a role? How does this article compare to the kinds of articles you read for your essay?
+
 
 30: Harvey Levenstein, "The Great Malnutrition Scare 1907-1915," 109-120.  
 
