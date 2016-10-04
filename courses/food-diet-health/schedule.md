@@ -104,24 +104,25 @@ And the biggest question that links our two discussions this week: **How did Che
 ### Advertising Nutrition
 3: Harvey Levenstein, "The Newer Nutrition 1915-1930," 147-160; John Harvey Kellogg, [_The New Dietetics, what to Eat and how: A Guide to Scientific Feeding in Health and Disease_](https://books.google.com/books?id=CBGxvXF332cC&source=gbs_navlinks_s) (1921): read the Preface (5-7); skim the Table of Contents (8-21); read 25-37.
 
-5: Rima D. Apple, "'They Need it Now': Science, Advertising and Vitamins, 1925-1940".  
+5: Rima D. Apple, "'They Need it Now': Science, Advertising and Vitamins, 1925-1940".   
 
-7: PRESENTATIONS: Food + Health advertising
+7: [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/); Packaging Discussion; Fad Diet Project Discussion
 
 
 ### Food Will Win the War
-10: **Second Essay Due**. *Eating Right in America*, "Anxiety and Aspiration," 45-79. 
+10: **First Essay Rewrites Due**. *Eating Right in America*, "Anxiety and Aspiration," 45-79. 
 
-12: NO CLASS (fall break preview)
+12: OPTIONAL (but highly recommended) WRITING WORKSHOP (if you'd like to get your second essay off to a good start)
 
-14: NO CLASS (fall break)
+14: NO CLASS (fall break; but please start on your diet research)
 
 
 ### The End of Food
-17: *Nutritionism*, "A Clash of Nutritional Ideologies," 1-24.  
+17: NO CLASS (work on your essays!) 
 
-19: Lizzie Widdicombe, "[End of Food](http://www.newyorker.com/magazine/2014/05/12/the-end-of-food)," *The New Yorker* May 12, 2014.  
-21: Fad Diet Project Discussion; _Food Politics_, 1-28.  
+19: **Second Essay Due**. Lizzie Widdicombe, "[End of Food](http://www.newyorker.com/magazine/2014/05/12/the-end-of-food)," *The New Yorker* May 12, 2014.
+
+21: _Food Politics_, 1-28.  
 
 
 ### USDA Guidelines
