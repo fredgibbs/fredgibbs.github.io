@@ -102,7 +102,7 @@ And the biggest question that links our two discussions this week: **How did Che
 
 
 ### Advertising Nutrition
-3: Harvey Levenstein, "The Newer Nutrition 1915-1930," 147-160; John Harvey Kellogg, [_The New Dietetics, what to Eat and how: A Guide to Scientific Feeding in Health and Disease_](https://books.google.com/books?id=CBGxvXF332cC&source=gbs_navlinks_s) (1921): read the Preface (5-7); skim the Table of Contents (8-21); read 25-37.
+3: Harvey Levenstein, "The Newer Nutrition 1915-1930," 147-160; John Harvey Kellogg, [_The New Dietetics, what to Eat and how: A Guide to Scientific Feeding in Health and Disease_](https://books.google.com/books?id=CBGxvXF332cC) (1921): read the Preface (5-7); skim the Table of Contents (8-21); read 25-37. Also see Elmer McCollum, [The Newer Knowledge of Nutrition](https://books.google.com/books?id=jndUnd5xX5wC): read the preface, skim the Table of Contents, and read 1-13.
 
 5: Rima D. Apple, "'They Need it Now': Science, Advertising and Vitamins, 1925-1940".   
 
