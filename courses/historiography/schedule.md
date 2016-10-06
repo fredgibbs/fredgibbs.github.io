@@ -67,9 +67,10 @@ If you are not sure of what group you are now in (because you weren't in class o
 
 12: Thomas Gil, "Leopold Ranke," 383-92; Ranke (in Wines), 55-67; Felix Gilbert, "What Ranke Meant," _The American Scholar_ 56.3 (1987): 393-397. (previously: Guenther Roth, "History and Sociology in the Work of Max Weber," 306-18.)
 
+ASSIGNMENT: Over the weekend, revise your expanded outlines into prose in MARKDOWN. Use appropriate headings and typography! 
 
 ### Empirical History
-17: PROJECT WORKSHOP (I'm away). More details to follow ...
+17: PROJECT WORKSHOP (I'm away). Bring in revisions (paper or digital) so that someone else (and someone different from last week) can critique your essay.
 
 19: _Houses_, "Empiricists," 1-31.; _Houses_, "Marxist Historians," 33-58. Each group will write a standard comment (400-500 words) on the kind of history you see being done in the source extract. Using examples, illustrate the pros and cons of his approach to doing history. Does the sample reading jive with how it's described in the introductory section?
 
