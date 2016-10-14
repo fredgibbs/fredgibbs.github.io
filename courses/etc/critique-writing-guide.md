@@ -6,9 +6,18 @@ title: Critique Writing Guide | fredgibbs
 # Critique Writing Guide
 
 # Your Assignment
-Your challenge is to write a 400-word review/critique of some “publication” pertaining to this course---namely the relationship between food, health, and diet. It can be an article or blog post from a website, newspaper, or magazine; it can be a video, movie, or food documentary; science research article, historical scholarship, or whatever you like. Feel free to find these via Google, UNM Library databases, or whatever (you’ll have more fun with Google). 
+Your challenge is to write a review/critique of some “publication” pertaining to this course---namely the relationship between food, health, and diet. It can be an article or blog post from a website, newspaper, or magazine; it can be a video, movie, or food documentary; science research article, historical scholarship, or whatever you like. Feel free to find these via Google, UNM Library databases, or whatever (you’ll have more fun with Google). 
 
 Don't choose something that is super long or complex; that creates way more work for you than is necessary here. Also, don't choose anything that is super short and trite; it simply won't give you enough material to work with. 
+
+
+# Assignment Format
+
+## First Essay 
+Your essay must be 400-500 words. This restrictive format is very deliberate, to force you to think about quality over quantity. The challenge isn't to write 500 words, but pack as much analysis into that space as you can. It's a super useful skill that you'll frequently employ in your future career, whatever it is.
+
+## Second Essay
+This time, your format challenge is to produce a 1-2 page bullet point critique. It has the same purpose and goals as the first 500-word essay, but you must use only bullet points (and sub-bullets) to articulate your ideas. The emphasis here should be on your excellent ideas, and how you create an organization thread between them, rather than on writing an essay. Make sure you are making interesting and sophisticated observations in each bullet point! 
 
 
 # Assignment Goals
@@ -24,7 +33,6 @@ Are you convinced by the evidence? What is problematic or missing? What are the 
 
 **Can the history of diet and health (as we've discussed it so far), provide any insight into what the article is talking about?** For instance, you might discuss (thinking about the early part of the course in particular) _how your source balances common sense and medical advice_.
 
-The 400 word format is very deliberate, to force you to think about quality over quantity. The challenge isn't to write 400 words, but pack as much analysis into 400 words as you can. It's a super useful skill that you'll frequently employ in your future career, whatever it is.
  
 
 # References and Citations
