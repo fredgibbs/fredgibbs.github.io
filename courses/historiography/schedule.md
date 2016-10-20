@@ -72,11 +72,20 @@ ASSIGNMENT: Over the weekend, revise your expanded outlines into prose in MARKDO
 ### Empirical History
 17: PROJECT WORKSHOP (I'm away). Bring in revisions (paper or digital) so that someone else (and someone different from last week) can critique your essay.
 
-19: _Houses_, "Empiricists," 1-31.; _Houses_, "Marxist Historians," 33-58. Each group will write a standard comment (400-500 words) on the kind of history you see being done in the source extract. Using examples, illustrate the pros and cons of his approach to doing history. Does the sample reading jive with how it's described in the introductory section?
+19: _Houses_, "Empiricists," 1-31.; _Houses_, "Marxist Historians," 33-58. Everyone will skim both chapters, but pick one to focus on and write (and post to GitHub) a standard comment (400-500 words) on the kind of history you see being done in the source extract. Using examples, illustrate the pros and cons of his approach to doing history. Does the sample reading jive with how it's described in the introductory section?
 
+NOTE: Begin finding sources for your outside research!
 
 ### Counting History
-24: _Houses_, "The _Annales_," 87-109.
+24: _Houses_, "The _Annales_," 87-109. 
+
+DUE: A 400-500 word comment on the chapter, following the same questions as before: Using examples, illustrate the pros and cons of his approach to doing history. Does the sample reading jive with how it's described in the introductory section? (this will be the standard assignment for _Houses_ chapter for now on)
+
+ALSO DUE: Bring hardcopies of your chapters, which you will have revised from your workshop on Monday. Remember that we want to follow the _Houses_ style of clarity, accessibility, and brevity. 
+
+NOTE: For everyone, but mostly for those of you who did not attend the writing workshop (please let me know if you did but didn't sign the sign-in sheet), bring the best draft you can. We will determine if you have made enough progress that we can keep your essay in the web project. If not, it probably makes more sense for you to do the original book review assignemnt instead, so as not to drag the project down and compromise everyone else's hard work on it.
+
+You will exchange papers with a suiutable partner (as discussed on the 19th), carefully critique them and do lots of scribbling on them before Wednesday, and bring to them class on Wednesday to re-exchange with your partner. More revisions will ensue for the next class (31st).
 
 26: _Houses_, "Quantitative History," 141-171.
 
@@ -84,19 +93,21 @@ ASSIGNMENT: Over the weekend, revise your expanded outlines into prose in MARKDO
 ### Foucault: Discourse and Observation
 31: Foucault, _Archeology of Knowledge_, 3-17; 21-39. 
 
-2: Foucault, _The Birth of the Clinic_, 1-37. 
+2: Foucault, _The Birth of the Clinic_, 1-37. I will do a little presentation on the video assignment as well.
+
+DUE: Bring in the book you will review for the video book review. 
 
 
 ### Postmodernism
 7: Georg Iggers, "From Macro- to Microhistory: The History of Everyday Life," _Historiography in the Twentieth Century_, 101-117.
 
-9: Gertrude Himmelfarb, "Telling it as you like it: postmoderist history and the flight from fact," 158-74; _Rethinking History_, 70-84.
+9: Gertrude Himmelfarb, "Telling it as you like it: postmoderist history and the flight from fact," 158-74; _Rethinking History_, 70-84 (one last dance with Jenkins). 
 
 
 ### Narrative and Representation
 14: _Houses_, "The Question of Narrative," 204-213; Group 1: Hayden White, "The Value of Narrativity in the Representation of Reality," 5-27; Group 2: Hayden White, "The Fictions of Factual Representation," [= _Houses_, 214-229]. 
 
-16: Project Workshop
+16: Video Draft Screenings! (5 minutes MAX; not everyone will have time to present)
 
 
 ### History of Others
@@ -114,5 +125,5 @@ ASSIGNMENT: Over the weekend, revise your expanded outlines into prose in MARKDO
 ### Reflections
 5: Digital History, TBD; Kieran Healy, "Fuck nuance," 1-13.
 
-7: Project Workshop 
+7: Project Workshop and loose end tying.
 
