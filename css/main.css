@@ -12,8 +12,6 @@
 
 
 
-
-
 @media screen {
 
 /* Global Reset */
@@ -80,6 +78,15 @@ h2 a, h3 a {
 table {
   font-size: inherit;
   font: 100%;
+}
+
+.poster-row {
+text-align: center;
+margin-bottom: 4em;
+}
+
+.poster {
+  width:50%;
 }
 
 .caps {

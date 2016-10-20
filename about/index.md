@@ -7,11 +7,11 @@ Greetings! I'm Fred Gibbs, an assistant professor in the [history department](ht
 
 My historical research interests span the history of diet and health, the intersection of food and environmental histories (especially food production and distribution), qualitative and historical GIS, and environmental and urban history.
 
-My work in the digital humanities (and digital history in particular) explores new modes of historical research and publishing, the importance of design in scholarship, the nature of scholarship in the 21st century, evaluating digital scholarship, and developing sustainable publication practices that avoid bloated and outmoded costs of most academic publishers.
+My work in the digital humanities (digital history in particular) explores new modes of historical research and publishing, the importance of design in scholarship, the nature of scholarship in the 21st century, evaluating digital scholarship, and developing sustainable publication practices that avoid bloated and outmoded costs of most academic publishers.
 
 I have been a general editor at [Programming Historian](http://programminghistorian.org) since 2012, co-founded in 2015 the UNM [Spatial Humanities Working Group](http://spatialhumanities.unm.edu), and serve as an editor at the recently (Oct 2016) launched [H-Nutrition](https://networks.h-net.org/h-nutrition) network on H-Net.
 
-I like to make diletantish [posters](posters).
+I like to make diletantish [posters](../posters).
 
 Previously, my research focused on premodern toxicology, as well as the theoretical and methodlogical implications of the rapidly changing interfaces between technology and history research. Perhaps the best way of getting a sense of what I've been up to is to peruse my various [publications](../publications) (please let me know if you cannot access something) and to scroll through my [project portfolio](../projects).
 
