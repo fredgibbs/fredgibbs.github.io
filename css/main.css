@@ -251,16 +251,14 @@ ul.posts {
 
 ul.posts li {
   line-height: 1.75em;
+  margin: 0;
+  padding:0;
 }
 
 ul.posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
-}
-
-#home {
-  text-align: left;  
 }
 
 
@@ -310,14 +308,13 @@ ul.posts span {
 
 blockquote {
   color:#555;
-  width:50%;
-  border-top:1px solid #ccc;
-  border-bottom:1px solid #ccc;
-  font-family: 'Oxygen';
-  font-weight: bold;
+  width:80%;
+  border-top:0px solid #ccc;
+  border-bottom:0px solid #ccc;
   padding:.5em 0em .5em 0em;
-  margin:.5em;
-  font-size: 120%;
+  margin-left:auto;
+  margin-right:auto;
+  font-style: italic;
 }
 
 blockquote.left, img.left{
@@ -411,10 +408,6 @@ figcaption.raw {
 /*
 /*****************************************************************************/
 
-.course-block {
-
-}
-
 .course-desc {
 font-size:85%;
 }
@@ -432,20 +425,33 @@ font-size:85%;
 
 }
 
-
 #syllabus2015 {
   font-family: 'Oxygen', sans-serif;
+  font-size:.95em;
 }
 
 #syllabus2015 h2 {
 margin: 1em 0 1em 0;
 border-top:1px dotted gray;
 border-bottom:1px dotted gray;
-padding: .2em;
+padding: .5em;
 color:#666;
-font-variant: small-caps;
+text-transform: uppercase;
 background-color: #ccc;
 }
+
+#syllabus2015 h3 {
+font-size:1.1em;
+margin: 1.2em 0 .5em 0;
+line-height: 1.5em;
+letter-spacing: .02em;
+}
+
+.duedate {
+  color:#990000;
+  text-transform: uppercase;
+}
+
 /*****************************************************************************/
 /*
 /* CV
@@ -587,7 +593,7 @@ font-size: 150%;
 margin: 1em 0 .5em 0;
 border-top:1px dotted gray;
 border-bottom:1px dotted gray;
-padding: .3em 0 .3em;
+padding: .5em 0 .5em;
 }
 
 #syllabus2015 h3 {
