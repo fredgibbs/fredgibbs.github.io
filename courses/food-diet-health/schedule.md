@@ -163,17 +163,17 @@ Please start on your diet research!
 
 ## Techno/Functional Foods
 
-### 7: **Third Essay Due**. _Food Politics_, 295-314; 315-337.   
+### 7: _Food Politics_, 295-314; 315-337. **Optional Essay Drafts Due.**   
 
 ### 9: *Nutritionism*, "Functional Foods: Nutritional Engineering, Marketing and Corporate Nutritionism," 191-214.  
 
-### 11: Fad Diet Essays discussion
+### 11: David M. Nowacek and Rebecca S. Nowacek, “The Organic Foods System: Its Discursive Achievements and Prospects,” *College English* 70.4 (2008): 403–20.  
 
 
 
 ## Organics and Food Quality
 
-### 14: David M. Nowacek and Rebecca S. Nowacek, “The Organic Foods System: Its Discursive Achievements and Prospects,” *College English* 70.4 (2008): 403–20.  
+### 14: **Third Essay Due**. Fad Diet Essays discussion.
 
 ### 16: Jeffrey Haydu, “Cultural Modeling in Two Eras of U.S. Food Protest: Grahamites (1830s) and Organic Advocates (1960s–70s),” *Social Problems* 58.3 (2011): 461–87.
 
