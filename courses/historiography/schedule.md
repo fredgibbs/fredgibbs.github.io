@@ -93,33 +93,31 @@ You will exchange papers with a suiutable partner (as discussed on the 19th), ca
 ### Foucault: Discourse and Observation
 31: Foucault, _Archeology of Knowledge_, 3-17; 21-39. 
 
-2: Foucault, _The Birth of the Clinic_, 1-37. I will do a little presentation on the video assignment as well.
-
-DUE: Bring in the book you will review for the video book review. 
+2: **DUE: Book Review Selections.** Foucault, _The Birth of the Clinic_, 1-37.
 
 
 ### Postmodernism
-7: Georg Iggers, "From Macro- to Microhistory: The History of Everyday Life," _Historiography in the Twentieth Century_, 101-117.
+7: Georg Iggers, "From Macro- to Microhistory: The History of Everyday Life," _Historiography in the Twentieth Century_, 101-117. Bring essay questions!
 
-9: Gertrude Himmelfarb, "Telling it as you like it: postmoderist history and the flight from fact," 158-74; _Rethinking History_, 70-84 (one last dance with Jenkins). 
+9: **DUE: Next draft of website essays in Markdown.** Website layout discussion; Video Book Review discussion.
 
 
 ### Narrative and Representation
-14: _Houses_, "The Question of Narrative," 204-213; Group 1: Hayden White, "The Value of Narrativity in the Representation of Reality," 5-27; Group 2: Hayden White, "The Fictions of Factual Representation," [= _Houses_, 214-229]. 
+14: Gertrude Himmelfarb, "Telling it as you like it: postmoderist history and the flight from fact," 158-74; _Rethinking History_, 70-84 (one last dance with Jenkins). 
 
-16: Video Draft Screenings! (5 minutes MAX; not everyone will have time to present)
-
-
-### History of Others
-21: _Houses_, "Gender History," 253-62; Joan Scott, "Gender: A Useful Category of Historical Analysis," 1053-1075; Catherine Hall, "Gender Division and Class Formation in the Birmingham Middle Class, 1780-1850 [= _Houses_, 263-76].
-
-23: _Houses_, "Postcolonial Perspectives," 263-76; Henrietta Whiteman, "White Buffalo Woman," \[= _Houses_, 288-96] (skim); Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?," 1-27.  
+16: _Houses_, "The Question of Narrative," 204-213; Group 1: Hayden White, "The Value of Narrativity in the Representation of Reality," 5-27; Group 2: Hayden White, "The Fictions of Factual Representation," [= _Houses_, 214-229]. 
 
 
 ### Space and Environment
-28: Charles W. J. Withers, "Place and the ‘Spatial Turn’ in _Geography and in History_,” 637–58.  
+21: Charles W. J. Withers, "Place and the ‘Spatial Turn’ in _Geography and in History_,” 637–58.  
 
-30: William Cronon, "The Trouble With Wilderness: Or, Getting Back to the Wrong Nature," 7-28.
+23: William Cronon, "The Trouble with Wilderness: Or, Getting Back to the Wrong Nature," 7-28.
+
+
+### History of Others
+28: _Houses_, "Gender History," 253-62; Joan Scott, "Gender: A Useful Category of Historical Analysis," 1053-1075; Catherine Hall, "Gender Division and Class Formation in the Birmingham Middle Class, 1780-1850 [= _Houses_, 263-76].
+
+30: _Houses_, "Postcolonial Perspectives," 263-76; Henrietta Whiteman, "White Buffalo Woman," \[= _Houses_, 288-96] (skim); Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?," 1-27.  
 
 
 ### Reflections
