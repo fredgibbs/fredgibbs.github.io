@@ -325,6 +325,38 @@ blockquote p {
   margin:0;
 }
 
+
+.has-pullquote:before {
+  /* Reset metrics. */
+  padding: 0em;
+  border: 0px solid #ccc;
+  
+  /* Content */
+  content: attr(data-pullquote);
+  
+  /* Pull out to the right, modular scale based margins. */
+  float: right;
+  width: 20em;
+  margin: 1em 0 1em 2em;
+  
+  /* Baseline correction */
+  position: relative;
+  top: 5px;
+  
+  /* Typography (30px line-height equals 25% incremental leading) */
+  font-family: Roboto;
+  font-size: 120%;
+  line-height: 130%;
+  text-align: justify;
+}
+
+.pullquote-left:before {
+  float: left;
+  margin: 12px 31px 24px -102px;
+  
+  width: 251px;
+}
+
 .caption {
   font-size:80%;
   line-height: 1.2em;
@@ -332,9 +364,19 @@ blockquote p {
   display:block;
 }
 
+figure {
+  margin: 1.5em;
+  clear:both;
+}
+
 figure img {
   max-width:40em;
   padding:0;
+  clear:both;
+}
+
+figure p {
+  clear:both;
 }
 
 figure img.icon {
@@ -354,7 +396,7 @@ figcaption {
   text-align: right;
   font-family: 'Oxygen', sans-serif;
   display:block;
-  margin:-2.2em 2.5em 2em 0;
+  margin:1em 1em 0em 1em;
   line-height: 1.3em;
 }
 
@@ -567,20 +609,30 @@ a {
 /*
 /*****************************************************************************/
 
+@page  { 
+    size: auto;   /* auto is the initial value */ 
+
+    /* this affects the margin in the printer settings */ 
+    margin: 25mm 25mm 25mm 25mm;  
+} 
+
+
 
 @media print {
 
+
+@page  { 
+    size: auto;   /* auto is the initial value */ 
+
+    /* this affects the margin in the printer settings */ 
+    margin: 25mm 25mm 25mm 25mm;  
+} 
+
+
   body {
     font-weight: normal;
-    font-family: times;
+  font-family: 'Oxygen', sans-serif;
   }
-
-  .container {
-  }
-
-  .site {
-    width:35em;
-   }
 
   nav {
     display:none;
@@ -596,32 +648,30 @@ a {
 
 #syllabus2015 {
   font-family: 'Oxygen', sans-serif;
-  font-size: 10pt;
-  width:110%;
-}
-
-
-#syllabus2015 h1 {
-font-size: 150%;
+  font-size:.95em;
 }
 
 #syllabus2015 h2 {
-margin: 1em 0 .5em 0;
+font-size:1.2em;
+margin: 1em 0 1em 0;
 border-top:1px dotted gray;
 border-bottom:1px dotted gray;
-padding: .5em 0 .5em;
+padding: .5em;
+color:#666;
+text-transform: uppercase;
+background-color: #eee;
 }
 
 #syllabus2015 h3 {
-margin: 1em 0 1em 0;
-font-weight: bold;
-border-top:1px dotted gray;
-border-bottom:1px dotted gray;
-padding: .3em 0 .3em;
-page-break-after:avoid;
+font-size:1.2em;
+margin: 1.2em 0 .5em 0;
+line-height: 1.5em;
+letter-spacing: .02em;
 }
 
-
+#syllabus2015 h1 {
+font-size: 2em;
+}
 
 #syllabus2015 p {
  padding-bottom: .8em 
