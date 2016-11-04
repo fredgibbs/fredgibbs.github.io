@@ -163,7 +163,7 @@ Please start on your diet research!
 
 ## Techno/Functional Foods
 
-### 7: **Optional Essay Drafts Due. Same format as Essay #2; Remember to review the [critique writing guide](http://fredgibbs.net/courses/etc/critique-writing-guide).**  _Food Politics_, 295-314; skim 315-337. 
+### 7: <span class="duedate">Optional Essay Drafts Due.</span> Same format as Essay #2; Remember to review the [critique writing guide](http://fredgibbs.net/courses/etc/critique-writing-guide).  _Food Politics_, 295-314; skim 315-337.
 Reading Guide: Be prepared to discuss the following questions in both specific and general terms (that is, drawing from particular examples presented in the chapter AND synthsizing them): What were the original reasons for fortification? How much did fortification help? What emerged as potential problems? Drawing together some of our recent readings: What are larger dangers associated with fortification in general? Is fortification a good idea? To what extent do we see the "two cultures" model at work with fortification?
 
 ### 9: *Nutritionism*, "Functional Foods: Nutritional Engineering, Marketing and Corporate Nutritionism," 191-214.  
@@ -174,7 +174,7 @@ Reading Guide: Be prepared to discuss the following questions in both specific a
 
 ## Organics and Food Quality
 
-### 14: **Third Essay Due. Same format as Essay #2; Remember to review the [critique writing guide](http://fredgibbs.net/courses/etc/critique-writing-guide).** Fad Diet Essays discussion.
+### 14: <span class="duedate">Third Essay Due.</span> Same format as Essay #2; Remember to review the [critique writing guide](http://fredgibbs.net/courses/etc/critique-writing-guide). Fad Diet Essays discussion.
 
 ### 16: Jeffrey Haydu, “Cultural Modeling in Two Eras of U.S. Food Protest: Grahamites (1830s) and Organic Advocates (1960s–70s),” *Social Problems* 58.3 (2011): 461–87.
 
