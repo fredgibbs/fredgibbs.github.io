@@ -164,6 +164,7 @@ Please start on your diet research!
 ## Techno/Functional Foods
 
 ### 7: **Optional Essay Drafts Due. Same format as Essay #2; Remember to review the [critique writing guide](http://fredgibbs.net/courses/etc/critique-writing-guide).**  _Food Politics_, 295-314; skim 315-337. 
+Reading Guide: Be prepared to discuss the following questions in both specific and general terms (that is, drawing from particular examples presented in the chapter AND synthsizing them): What were the original reasons for fortification? How much did fortification help? What emerged as potential problems? Drawing together some of our recent readings: What are larger dangers associated with fortification in general? Is fortification a good idea? To what extent do we see the "two cultures" model at work with fortification?
 
 ### 9: *Nutritionism*, "Functional Foods: Nutritional Engineering, Marketing and Corporate Nutritionism," 191-214.  
 
