@@ -166,7 +166,8 @@ Please start on your diet research!
 ### 7: <span class="duedate">Optional Essay Drafts Due.</span> Same format as Essay #2; Remember to review the [critique writing guide](http://fredgibbs.net/courses/etc/critique-writing-guide).  _Food Politics_, 295-314; skim 315-337.
 Reading Guide: Be prepared to discuss the following questions in both specific and general terms (that is, drawing from particular examples presented in the chapter AND synthsizing them): What were the original reasons for fortification? How much did fortification help? What emerged as potential problems? Drawing together some of our recent readings: What are larger dangers associated with fortification in general? Is fortification a good idea? To what extent do we see the "two cultures" model at work with fortification?
 
-### 9: *Nutritionism*, "Functional Foods: Nutritional Engineering, Marketing and Corporate Nutritionism," 191-214.  
+### 9: *Nutritionism*, "Functional Foods: Nutritional Engineering, Marketing and Corporate Nutritionism," 191-214. 
+Reading Guide: Thinking back to earlier chapters of this book (and the brief summary he gives in this chapter), what is the author's beef with nutrition science? Why would marketing focus on internal bodily processes? Where have we seen that before? How have "functional foods" been defined? Do you agree with the author that they are no different from other foods? What's the deal with trans-nutric foods? What have we learned from oat science?(!) What's a "nutritional facade"? And a "halo effect"? What are the FDA's 3 categories of health claims? Are those categories helpful or harmful? Do you agree that "food corporations become the primary promoters and beneficiaries of this reductive understanding of nutrients, foods, and the body" (211)? 
 
 ### 11: David M. Nowacek and Rebecca S. Nowacek, “The Organic Foods System: Its Discursive Achievements and Prospects,” *College English* 70.4 (2008): 403–20.  
 
