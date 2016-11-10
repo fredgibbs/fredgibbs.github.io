@@ -103,25 +103,28 @@ You will exchange papers with a suiutable partner (as discussed on the 19th), ca
 
 
 ### Narrative and Representation
-14: Gertrude Himmelfarb, "Telling it as you like it: postmoderist history and the flight from fact," 158-74; _Rethinking History_, 70-84 (one last dance with Jenkins). 
+14: Gertrude Himmelfarb, "Telling it as you like it: postmoderist history and the flight from fact," 158-74; _Rethinking History_, 70-84 (one last dance with Jenkins). **DUE: Video work plans (which will include getting familiar with software).**
 
-16: _Houses_, "The Question of Narrative," 204-213; Group 1: Hayden White, "The Value of Narrativity in the Representation of Reality," 5-27; Group 2: Hayden White, "The Fictions of Factual Representation," [= _Houses_, 214-229]. 
+16: _Houses_, "The Question of Narrative," 204-213; Group 1: Hayden White, "The Value of Narrativity in the Representation of Reality," 5-27; Group 2: Hayden White, "The Fictions of Factual Representation," [= _Houses_, 214-229]. **DUE: Comments (on your article) on GitHub. Minor essay revisions in Markdown. Continue outside research.**
+
 
 
 ### Space and Environment
-21: Charles W. J. Withers, "Place and the ‘Spatial Turn’ in _Geography and in History_,” 637–58.  
+21: Charles W. J. Withers, "Place and the ‘Spatial Turn’ in _Geography and in History_,” 637–58. **DUE: Comments on web essays on GitHub. Compare essays to earlier postings on the material.**
 
-23: William Cronon, "The Trouble with Wilderness: Or, Getting Back to the Wrong Nature," 7-28.
+23: William Cronon, "The Trouble with Wilderness: Or, Getting Back to the Wrong Nature," 7-28. 
 
 
 ### History of Others
-28: _Houses_, "Gender History," 253-62; Joan Scott, "Gender: A Useful Category of Historical Analysis," 1053-1075; Catherine Hall, "Gender Division and Class Formation in the Birmingham Middle Class, 1780-1850 [= _Houses_, 263-76].
+28: _Houses_, "Gender History," 253-62; Joan Scott, "Gender: A Useful Category of Historical Analysis," 1053-1075; Catherine Hall, "Gender Division and Class Formation in the Birmingham Middle Class, 1780-1850 [= _Houses_, 263-76]. **DUE: First Video Draft.**
 
-30: _Houses_, "Postcolonial Perspectives," 263-76; Henrietta Whiteman, "White Buffalo Woman," \[= _Houses_, 288-96] (skim); Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?," 1-27.  
+30: _Houses_, "Postcolonial Perspectives," 263-76; Henrietta Whiteman, "White Buffalo Woman," \[= _Houses_, 288-96] (skim); Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?," 1-27. **DUE: Essay Revisions (responding to comments).** 
 
 
 ### Reflections
-5: Digital History, TBD; Kieran Healy, "Fuck nuance," 1-13.
+5: Kieran Healy, "Fuck nuance," 1-13. Digital History? Watch some videos.
 
-7: Project Workshop and loose end tying.
+7: Website evaluation and final agenda. Watch some videos.
 
+
+### All course work due by the last day of finals!
