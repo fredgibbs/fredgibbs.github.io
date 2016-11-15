@@ -105,7 +105,7 @@ You will exchange papers with a suiutable partner (as discussed on the 19th), ca
 ### Narrative and Representation
 14: Gertrude Himmelfarb, "Telling it as you like it: postmoderist history and the flight from fact," 158-74; _Rethinking History_, 70-84 (one last dance with Jenkins). **DUE: Video work plans (which will include getting familiar with software).**
 
-16: _Houses_, "The Question of Narrative," 204-213; Group 1: Hayden White, "The Value of Narrativity in the Representation of Reality," 5-27; Group 2: Hayden White, "The Fictions of Factual Representation," [= _Houses_, 214-229]. **DUE: Comments (on your article) on GitHub. Minor essay revisions in Markdown. Continue outside research.**
+16: _Houses_, "The Question of Narrative," 204-213; Group 1: Hayden White, "The Value of Narrativity in the Representation of Reality," 5-27; Group 2: Hayden White, "The Fictions of Factual Representation," [= _Houses_, 214-229]. **DUE: Comments (on your White article) on GitHub. Minor essay revisions (headings, links, lists, bold/italic, quotes) in Markdown. Continue outside research.**
 
 
 

@@ -8,6 +8,10 @@ css: digital-methods
 section: schedule
 ---
 
+# DRAFT VERSION! 
+This syllabus is still under construction and changes frequently. You can, however, consider this a generally accurate guide to the topics the course will cover and the kinds of activities we'll be doing.
+
+
 ## Ethos of Digital Humanities / Digital Historigraphy
 
 William Cronon    
@@ -22,51 +26,54 @@ Stephen Ramsay
 Mark Sample    
 [The Digital Humanities Is Not About Building, It’s About Sharing](http://www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/).
 
+Lisa Spiro, ["This Is Why We Fight": Defining the Values of the Digital Humanities](http://dhdebates.gc.cuny.edu/debates/text/13)
+
+We'll also explore some [DH projects](http://dhcommons.org/projects) (whether focused on presenting archives, interpretation, methodology, exhibits, etc) to get a better feel for the digital footprint of DH.
+
+
 
 ## New Scholarly Environs
-Introduction to GitHub, version control, GitHub Pages, Markdown.
+Introduction to Zotero, GitHub (+ version control with git), GitHub Pages, Markdown. Set up GitHub, Twitter, and Zotero accounts.
 
-Set up GitHub, Twitter, and Zotero accounts.
+Christopher P. Long, [The Googled Graduate Student](http://cplong.org/2013/09/the-googled-graduate-student/).
 
+Jentery Sayers, [Do You Need Your Own Website while on the Job Market](http://www.chronicle.com/blogs/profhacker/do-you-need-your-own-website-while-on-the-job-market/35825)
 
-Katrina Gulliver    
-[10 Commandments of Twitter for Academics](http://chronicle.com/article/10-Commandments-of-Twitter-for/131813/).
+Patrick Iber, [A Defence of Academic Twitter](https://www.insidehighered.com/advice/2016/10/19/how-academics-can-use-twitter-most-effectively-essay).
 
-Chuck Tyron    
-[Blogging, Scholarship, and the Networked Public Sphere](http://mediacommons.futureofthebook.org/mla2009/tryon/mla2009draft).
+Katrina Gulliver, [10 Commandments of Twitter for Academics](http://chronicle.com/article/10-Commandments-of-Twitter-for/131813/).
 
-Kim Barbour and David Marshall    
-[The Academic Online: Constructing Persona Through the World Wide Web](http://journals.uic.edu/ojs/index.php/fm/article/view/3969/3292).
+Chuck Tyron, [Blogging, Scholarship, and the Networked Public Sphere](http://mediacommons.futureofthebook.org/mla2009/tryon/mla2009draft).
 
-Larry Cebula    
-[Advice for Academic Bloggers](http://northwesthistory.blogspot.com/2011/11/advice-for-academic-bloggers.html).
+Kim Barbour and David Marshall, [The Academic Online: Constructing Persona Through the World Wide Web](http://journals.uic.edu/ojs/index.php/fm/article/view/3969/3292).
 
 
-## Typography and Design
+
+## The Command Line
+
+Some of the most powerful tools you might use for digital research and publishing don't have a GUI (graphical user interface) for many reasons that we'll discuss.
+
+If you have Windows, you'll need to use PowerShell; if you have a Mac, you'll need to use your "Terminal" application.
+
+[Intro to bash](http://programminghistorian.org/lessons/intro-to-bash)
+
+Download and install [pandoc](http://pandoc.org/installing.html).
+
+Download and install [ImageMagick](http://www.imagemagick.org/script/index.php).
+
+We're going to use a number of tutorials to help us install Jekyll, and manage our websites more easily.
 
 
-## Critiquing Digital Scholarship
-We'll begin exploring some [DH projects](http://dhcommons.org/projects) (whether focused on presenting archives, interpretation, methodology, exhibits, etc) to get a better feel for the digital footprint of DH.
 
-What are the fundamental criteria for critiquing digital history projects? How much does the traditional peer review model need to change to accommodate new types of historical work/projects?
-
-William G. Thomas III    
-[Writing A Digital History Journal Article from Scratch: An Account](http://digitalhistory.unl.edu/essays/thomasessay.php).
-
-James Smithies    
-[Evaluating Scholarly Digital Outputs: The 6 Layers Approach](http://jamessmithies.org/2012/09/20/evaluating-scholarly-digital-outputs-the-6-layers-approach/).
-
-Modern Language Association    
-[Guidelines for Evaluating Work in Digital Humanities and Digital Media](http://www.mla.org/resources/documents/rep_it/guidelines_evaluation_digital).
-
-Journal of American History    
-[Guidelines for Web site reviews](http://www.journalofamericanhistory.org/submit/websitereviews.html)
-
-Todd Presner    
-[Evaluating Digital Scholarship](http://idhmc.tamu.edu/commentpress/digital-scholarship/); this also appears on pp. 128-9 of *Digital_Humanities*.
+[Create Your (FREE) Website Using Github and Jekyll](http://digitalfellows.commons.gc.cuny.edu/2016/03/21/create-your-free-website-using-github-and-jekyll/)
 
 
-## Collecting and Organizing
+
+## Typography
+Although you might choose not incorporate much design into your own website or portfolio, getting a handle on the fundamentals of design and typography goes a long way in improving communication. We're going to practice typography with our CVs.
+
+[Thinking with Type](http://thinkingwithtype.com)
+
 
 
 ## Visualizing History
@@ -86,12 +93,11 @@ Andrew J. Torget & Jon Christensen
 Dmitry Paranyushkin    
 [Identifying the Pathways for Meaning Circulation using Text Network Analysis](http://noduslabs.com/research/pathways-meaning-circulation-text-network-analysis/).
 
-Explore visualizations:    
+Explore visualization tools:    
 [Viewshare](http://viewshare.org)    
 [Flowing Data](http://flowingdata.com)
 [Gephi](http://gephi.org)    
-[Visualeyes](http://www.viseyes.org/)    
-[Visual Complexity](http://visualcomplexity.com)
+
 
 
 ## Digital Spatial History
@@ -99,26 +105,21 @@ Explore visualizations:
 Richard White    
 [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?
 
-Ian Gregory and David Cooper    
-[GIS, Texts, and Images: New Approaches](http://journals.tdl.org/paj/index.php/paj/article/view/20).
-
-Prepare critiques of some [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/)
-
-Read "Introducing GIS" and "Vector Data" from this [gentle introduction to GIS](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/index.html).
-
-Download and install [QGIS](http://www.qgis.org/en/site/). Your job is just to get the application running on your computer. Note: if you have a Mac, you have to install 2 required packages before installing QGIS; follow the instructions carefully (kyngchaos is your friend)! We'll troubleshoot any installation issues and go over the interface and other basic GIS concepts in class.
-
-Peter Fisher and Jo Wood    
-[What is a Mountain? Or The Englishman who went up a Boolean Geographical Concept but Realised it was Fuzzy](http://www.jstor.org/stable/pdfplus/40573211.pdf?acceptTC=true).    
-
-Jason Farman, “Mapping the Digital Empire: Google Earth and the Process of Postmodern Cartography,” New Media & Society 12, no. 6 (2010): 869–88.
+Anne Kelly Knowles, [A More Humane Approach to Digital Scholarship](http://parameters.ssrc.org/2016/08/a-more-humane-approach-to-digital-scholarship/)
 
 Understand the [basics of KML](https://developers.google.com/kml/documentation/kml_tut).      
 
 Add a simple Google map [using these instructions](https://developers.google.com/maps/tutorials/fundamentals/adding-a-google-map). Do not proceed to the next step until this is working!
 
+Prepare critiques of some [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/)
+
 
 ## Mapping with QGIS
+
+Download and install [QGIS](http://www.qgis.org/en/site/). Your job is just to get the application running on your computer. Note: if you have a Mac, you have to install 2 required packages before installing QGIS; follow the instructions carefully (kyngchaos is your friend)! We'll troubleshoot any installation issues and go over the interface and other basic GIS concepts in class.
+
+Read "Introducing GIS" and "Vector Data" from this [gentle introduction to GIS](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/index.html).
+
 
 Return to the [gentle introduction to GIS](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/index.html), reading up through "Coordinate Reference Systems".
 
@@ -129,27 +130,28 @@ If you get stuck or have questions, consult the [QGIS Training Manual](http://do
 
 ## Catch up
 
+
+
 ## Text Mining 
 Under what circumstances are these techniques useful? How can they be used most effectively?
 
-Ted Underwood    
-[Where to Start with Text Mining](http://tedunderwood.com/2012/08/14/where-to-start-with-text-mining/).
+Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/).
 
-Stanford Literary Lab    
-[Quantitative Formalism: an Experiment](http://litlab.stanford.edu/LiteraryLabPamphlet1.pdf).
+Ted Underwood, [Where to Start with Text Mining](http://tedunderwood.com/2012/08/14/where-to-start-with-text-mining/).
 
-Shlomo Argamon et al.    
-[Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html).
+Stanford Literary Lab, [Quantitative Formalism: an Experiment](http://litlab.stanford.edu/LiteraryLabPamphlet1.pdf).
+
+Shlomo Argamon et al., [Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html).
 
 Rob Nelson    
 [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
  
-[Google n-gram viewer](https://books.google.com/ngrams)    
-[Voyant](http://voyant-tools.org/) and a [list of projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/)    
+Load some of your texts into [Voyant](http://voyant-tools.org/) and check out a [list of projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/)    
 
-Get some of your research data loaded into [Bookworm](http://bookworm.culturomics.org/) and [Voyant](http://voyant-tools.org/) (and you might want to peruse [a list of projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/).
+Get some of your research data loaded into [Bookworm](http://bookworm.culturomics.org/)
 
-We're going to talk about the different formats of data these tools require, problems moving from one to the other; pros and cons of their various approaches, and whatever you newly discovered about your sources from taking a broad view.
+We're going to talk about the different formats of data these tools require, problems moving from one to the other; pros and cons of their various approaches, and whatever you newly discovered about your sources from taking a broad view of your sources/data.
+
 
 
 ## Topic Modeling
@@ -170,7 +172,10 @@ Install and use [MALLET](http://programminghistorian.org/lessons/topic-modeling-
 Also, load up some of your sources into [Overview](http://overview.ap.org/faq/), and compare what you can learn from "raw" topic modeling with MALLET and Overview's presentation of your documents.
 
 
-## Digital Public History
+
+## Research Trailers
+Create a video about your research! We'll walk through some tools and techniques for doing this.
+
 
 
 ## Reviewing and Publishing
@@ -179,21 +184,30 @@ Paul Fyfe
 [Open Access, Open Secrets: Peer Review and Alternative Scholarly Production](http://victelecom.wordpress.com/2010/10/11/open-access-open-secrets-peer-review-and-alternative-scholarly-production/).
 
 
-## Research Trailers
-Explore videos:    
 
-Michael Wesch, [The Machine is Us/ing Us](http://www.youtube.com/watch?v=NLlGopyXT_g) (4.5 min. video).
+## Critiquing Digital Scholarship
 
-Aaron Titus, [How the Internet Works](https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be)
+What are the fundamental criteria for critiquing digital history projects? How much does the traditional peer review model need to change to accommodate new types of historical work/projects?
 
-Random Course Trailers    
-[Medical Ethics and History](https://www.youtube.com/watch?v=nPbis0Hggsg)    
-[Making the Middle Ages](https://www.youtube.com/watch?v=YlDNzE0xJ1w)
+William G. Thomas III    
+[Writing A Digital History Journal Article from Scratch: An Account](http://digitalhistory.unl.edu/essays/thomasessay.php).
 
-Fred Gibbs, [A Brief History of Toxicology](https://vimeo.com/94459223) (please don't watch the whole thing!)
+James Smithies    
+[Evaluating Scholarly Digital Outputs: The 6 Layers Approach](http://jamessmithies.org/2012/09/20/evaluating-scholarly-digital-outputs-the-6-layers-approach/).
+
+Modern Language Association    
+[Guidelines for Evaluating Work in Digital Humanities and Digital Media](http://www.mla.org/resources/documents/rep_it/guidelines_evaluation_digital).
+
+Journal of American History    
+[Guidelines for Web site reviews](http://www.journalofamericanhistory.org/submit/websitereviews.html)
+
+Todd Presner    
+[Evaluating Digital Scholarship](http://idhmc.tamu.edu/commentpress/digital-scholarship/); this also appears on pp. 128-9 of *Digital_Humanities*.
+
 
 
 ## Digital Literacies/Pedagogy
+[Visualeyes](http://www.viseyes.org/)    
 
 
 

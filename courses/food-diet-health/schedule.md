@@ -179,6 +179,7 @@ Reading Guide: We’ve been reading about the language by which foods and supple
 ### 14: <span class="duedate">Third Essay Due.</span> Same format as Essay #2; Remember to review the [critique writing guide](http://fredgibbs.net/courses/etc/critique-writing-guide). Fad Diet Essays discussion.
 
 ### 16: Jeffrey Haydu, “Cultural Modeling in Two Eras of U.S. Food Protest: Grahamites (1830s) and Organic Advocates (1960s–70s),” *Social Problems* 58.3 (2011): 461–87.
+Reading Guide: Like the last article, you should skim the sociological theory and jargon at the beginning, focusing your attention on p. 467, when the author begins to compare the two movements. Our discussion will focus on (and the article nicely outlines these with clear headings: **What are the key historical similarities and differences** between the Gramhamites and the organic-ites (for lack of better term)?
 
 ### 18: _Nutritionism_, "Food Quality Paradigm," 215-236.
 
@@ -194,14 +195,16 @@ Reading Guide: We’ve been reading about the language by which foods and supple
 
 ## Processed Food
 
-### 28: DUE: Fad Diet Essays; Michael Moss, [The Extraordinary Science of Addictive Junk Food](http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html), *The New York Times*, February 20, 2013.
+### 28: <span class="duedate">DUE: First draft of Fad Diet Essays</span>; Michael Moss, [The Extraordinary Science of Addictive Junk Food](http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html), *The New York Times*, February 20, 2013.
 
 ### 30: David H. Freedman, "[How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true)," *The Atlantic*, July 2013.
 
 ### 2: Tom Philpott, [Why The Atlantic's Defense of Junk Food Fails](http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails). David S. Ludwig and Mark I. Friedman, [Always Hungry? Here’s Why](http://www.nytimes.com/2014/05/18/opinion/sunday/always-hungry-heres-why.html), *The New York Times*, May 16, 2014.
 
 
+
 ## Conclusions
+
 ### 5: *Eating Right in America*, "Connecting the Dots," 150-55; _Food Politics_, "Conclusion," 358-74.
 
 ### 7: Final Discussion (useful for your final): What can we learn from the history of diet and health?
