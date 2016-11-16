@@ -137,25 +137,25 @@ Please start on your diet research!
 
 ### 19: <span class="duedate">Second Essay Due</span>. Lizzie Widdicombe, "[End of Food](http://www.newyorker.com/magazine/2014/05/12/the-end-of-food)."
 
-### 21: _Food Politics_, 1-28.  
+### 21: _Food Politics_, Introduction, 11-28.  
 
 
 
 ## USDA Guidelines
 
-### 24: _Food Politics_, 29-66.  
+### 24: _Food Politics_, Chapters 1 and 2, 29-66.  
 
-### 26: _Food Politics_, 67-93.  
+### 26: _Food Politics_, Chapter 3, 67-93.  
 
-### 28: PRESENTATIONS: Collectively read part 2 (93-171).  
+### 28: PRESENTATIONS: Collectively read _Food Politics_, Part 2 (93-171).  
 
 
 
 ## Health Claims
 
-### 31: _Food Politics_, 219-246.  
+### 31: _Food Politics_, Part 4 Intro and Chapter 10, 219-246.  
 
-### 2: _Food Politics_, 272-93.  
+### 2: _Food Politics_, Chapter 12, 272-93.  
 
 ### 4: NO CLASS (work on your essays; read for Monday)  
 
@@ -163,7 +163,7 @@ Please start on your diet research!
 
 ## Techno/Functional Foods
 
-### 7: <span class="duedate">Optional Essay Drafts Due.</span> Same format as Essay #2; Remember to review the [critique writing guide](http://fredgibbs.net/courses/etc/critique-writing-guide).  _Food Politics_, 295-314; skim 315-337.
+### 7: <span class="duedate">Optional Essay Drafts Due.</span> Same format as Essay #2; Remember to review the [critique writing guide](http://fredgibbs.net/courses/etc/critique-writing-guide).  _Food Politics_, Part 4 Intro and Chapter 13, 295-314; skim Chapter 14, 315-337.
 Reading Guide: Be prepared to discuss the following questions in both specific and general terms (that is, drawing from particular examples presented in the chapter AND synthsizing them): What were the original reasons for fortification? How much did fortification help? What emerged as potential problems? Drawing together some of our recent readings: What are larger dangers associated with fortification in general? Is fortification a good idea? To what extent do we see the "two cultures" model at work with fortification?
 
 ### 9: *Nutritionism*, "Functional Foods: Nutritional Engineering, Marketing and Corporate Nutritionism," 191-214. 
