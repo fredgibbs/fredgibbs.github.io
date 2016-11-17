@@ -182,6 +182,8 @@ Reading Guide: We’ve been reading about the language by which foods and supple
 Reading Guide: Like the last article, you should skim the sociological theory and jargon at the beginning, focusing your attention on p. 467, when the author begins to compare the two movements. Our discussion will focus on (and the article nicely outlines these with clear headings: **What are the key historical similarities and differences** between the Gramhamites and the organic-ites (for lack of better term)?
 
 ### 18: _Nutritionism_, "Food Quality Paradigm," 215-236.
+Reading Guide: The gist of the article is straightforward enough, so let's discuss some of the larger questions Scrinis raises. Are Tables 9.1 and 9.2 useful ways of categorizing levels of processing? What are the potential problems? What can we learn from the history of organics on this issue? Scrinis is adamant (page 223, for instance) that health threats come primarily from "high levels of reconstituted, degraded, and synthetic food components." Do you agree? Similarly, is it true (page 226), that nutritionism is far less important than the "range of chemical pesticides, antibiotics, and growth hormones found in industrially produced foods"? Does one have to be educated about "good" food? Is it natural? Should education focus on nutrition or eating?
+
 
 
 ## Weight and Health
@@ -191,6 +193,7 @@ Reading Guide: Like the last article, you should skim the sociological theory an
 ### 23: _Eating Right in America_, "Thinness as Health," 109-49. (sorry)  
 
 ### 25: NO CLASS (Thanksgiving)
+
 
 
 ## Processed Food
