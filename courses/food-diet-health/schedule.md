@@ -198,7 +198,7 @@ Reading Guide: The gist of the article is straightforward enough, so let's discu
 
 ## Processed Food
 
-### 28: <span class="duedate">DUE: First draft of Fad Diet Essays</span>; Michael Moss, [The Extraordinary Science of Addictive Junk Food](http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html), *The New York Times*, February 20, 2013.
+### 28: <span class="duedate">DUE: First draft of your Fad Diet Essays</span>; Review the [fad diet essay guide](../etc/fad-diet-essay.html). Michael Moss, [The Extraordinary Science of Addictive Junk Food](http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html), *The New York Times*, February 20, 2013.
 
 ### 30: David H. Freedman, "[How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true)," *The Atlantic*, July 2013.
 
