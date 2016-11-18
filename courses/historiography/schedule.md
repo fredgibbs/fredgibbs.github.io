@@ -110,9 +110,9 @@ You will exchange papers with a suiutable partner (as discussed on the 19th), ca
 
 
 ### Space and Environment
-21: Charles W. J. Withers, "Place and the ‘Spatial Turn’ in _Geography and in History_,” 637–58. **DUE: Comments on web essays on GitHub. Compare essays to earlier postings on the material.**
+21: William Cronon, "The Trouble with Wilderness: Or, Getting Back to the Wrong Nature," 7-28. **DUE: Comments on web essays on GitHub (see email for more details).**
 
-23: William Cronon, "The Trouble with Wilderness: Or, Getting Back to the Wrong Nature," 7-28. 
+23: Charles W. J. Withers, "Place and the ‘Spatial Turn’ in _Geography and in History_,” 637–58.
 
 
 ### History of Others
