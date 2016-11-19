@@ -188,7 +188,8 @@ Reading Guide: The gist of the article is straightforward enough, so let's discu
 
 ## Weight and Health
 
-### 21: _Nutritionism_, "Macronutrient Diet Wars," 99-132.  
+### 21: _Nutritionism_, "Macronutrient Diet Wars," 99-132.
+Reading Guide: What are the key macro-nutrient diet wars? How much does "science" matter in formulating and re-formulating dietary advice? How has science "progressed" as we've moved from low fat to low carb to low sugar? What kinds of research or evidence motivated such shifts?  Is the GI/GL metric "good" or "bad" science? What is Scrinis's complaint about the diet books (and often research, too) he critiques throughout the chapter? Would we be healthier if the calorie didn't exist?
 
 ### 23: _Eating Right in America_, "Thinness as Health," 109-49. (sorry)  
 
