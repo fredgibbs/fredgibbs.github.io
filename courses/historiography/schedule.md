@@ -112,11 +112,11 @@ You will exchange papers with a suiutable partner (as discussed on the 19th), ca
 ### Space and Environment
 21: William Cronon, "The Trouble with Wilderness: Or, Getting Back to the Wrong Nature," 7-28. **DUE: Comments on web essays on GitHub (see email for more details).**
 
-23: Charles W. J. Withers, "Place and the ‘Spatial Turn’ in _Geography and in History_,” 637–58.
+23: NO CLASS for T-DAY weekend (previously: Charles W. J. Withers, "Place and the ‘Spatial Turn’ in _Geography and in History_,” 637–58; and now you can read Madi's summary!)
 
 
 ### History of Others
-28: _Houses_, "Gender History," 253-62; Joan Scott, "Gender: A Useful Category of Historical Analysis," 1053-1075; Catherine Hall, "Gender Division and Class Formation in the Birmingham Middle Class, 1780-1850 [= _Houses_, 263-76]. **DUE: First Video Draft.**
+28: _Houses_, "Gender History," 253-62; Joan Scott, "Gender: A Useful Category of Historical Analysis," 1053-1075; Catherine Hall, "Gender Division and Class Formation in the Birmingham Middle Class, 1780-1850 [= _Houses_, 263-76]. **DUE: First Video Draft posted online.**
 
 30: _Houses_, "Postcolonial Perspectives," 263-76; Henrietta Whiteman, "White Buffalo Woman," \[= _Houses_, 288-96] (skim); Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?," 1-27. **DUE: Essay Revisions (responding to comments).** 
 
