@@ -191,19 +191,19 @@ Reading Guide: The gist of the article is straightforward enough, so let's discu
 ### 21: _Nutritionism_, "Macronutrient Diet Wars," 99-132.
 Reading Guide: What are the key macro-nutrient diet wars? How much does "science" matter in formulating and re-formulating dietary advice? How has science "progressed" as we've moved from low fat to low carb to low sugar? What kinds of research or evidence motivated such shifts?  Is the GI/GL metric "good" or "bad" science? What is Scrinis's complaint about the diet books (and often research, too) he critiques throughout the chapter? Would we be healthier if the calorie didn't exist?
 
-### 23: _Eating Right in America_, "Thinness as Health," 109-49. (sorry)  
+### 23: NO CLASS (pre-Thanksgiving)
 
 ### 25: NO CLASS (Thanksgiving)
 
 
 
-## Processed Food
+## Junk Food + Obesity
 
-### 28: <span class="duedate">DUE: First draft of your Fad Diet Essays</span>; Review the [fad diet essay guide](../etc/fad-diet-essay.html). Michael Moss, [The Extraordinary Science of Addictive Junk Food](http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html), *The New York Times*, February 20, 2013.
+### 28: <span class="duedate">DUE: First draft of your Fad Diet Essays</span>; Review the [fad diet essay guide](../etc/fad-diet-essay.html). Michael Moss, [The Extraordinary Science of Addictive Junk Food](http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html), *The New York Times*, February 2013.   
 
-### 30: David H. Freedman, "[How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true)," *The Atlantic*, July 2013.
+### 30: David H. Freedman, [How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true), *The Atlantic*, July 2013. 
 
-### 2: Tom Philpott, [Why The Atlantic's Defense of Junk Food Fails](http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails). David S. Ludwig and Mark I. Friedman, [Always Hungry? Here’s Why](http://www.nytimes.com/2014/05/18/opinion/sunday/always-hungry-heres-why.html), *The New York Times*, May 16, 2014.
+### 2: David Berreby, [The Obesity Era](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong), *Aeon*, June 2013.
 
 
 
