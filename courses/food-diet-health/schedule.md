@@ -204,7 +204,7 @@ Reading Guide: What are the key macro-nutrient diet wars? How much does "science
 ### 30: David H. Freedman, [How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true), *The Atlantic*, July 2013. 
 
 ### 2: David Berreby, [The Obesity Era](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong), *Aeon*, June 2013.
-
+Reading Guide: **This might be the most important reading we do this semester**. Why?!? As usual, be prepared to discuss: What’s the evidence like? How compelling is the writing and the argument? Why is it so difficult to let go of obesity (or health in general) as personal choice or responsibility? How is "science" going to help with this?
 
 
 ## Conclusions
