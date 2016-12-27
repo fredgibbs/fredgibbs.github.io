@@ -1,6 +1,6 @@
 ---
 layout: course2015 
-title: Introduction to Digital History 
+title: Introduction to Digital Humanities 
 term: Spring 2017
 number: HIST 698-002
 date: 2014-04-15 00:00:00
@@ -16,44 +16,36 @@ This course explores new theoretical and methodological possibilities now availa
 
 
 ## Student Learning Outcomes
-- Develop conversational fluency: understand current debates and speak intelligently with both skeptics and advocates about the history and future of digital scholarship and its relationship to the world.
+- Develop conversational fluency: understand current debates and speak intelligently with both skeptics and advocates about the history and future of digital scholarship and its relationship to the humanities.
 
 - Appreciate the theoretical possibilities and practical limitations of digital archives and new research methodologies.
 
-- Understand the theories and principles of new media and its potential impact on scholarly communication.
+- Understand prominent theories and principles of new media and its potential impact on scholarly communication.
 
 - Begin to experiment with new tools, workflows, methods, and techniques for large-scale research questions in the humanities; become able to teach yourself technical skills as needed.
 
 
 
 ## Work Requirements and Grading
-- Thorough preparedness and engaged participation in every class meeting and in the class project. (20%)
+- Thorough preparedness and engaged participation in every class meeting (30%)
 
 - Weekly 750-word blog posts that critically engage with both the readings and your experience working through some of the tutorials. This posts not only give you the opportunity to describe your mastery of the readings (as per a more traditional seminar), they also give you a chance to foregound the hard work you're doing, even when you can't get everything to "work". Your blog posts will be evalutated in terms of the quality of their original and thoughtful contribution to the overall course discussion, as well as serious engagement with the technical challenges. (25%)
 
-- In lieu of a final exam or project, over the course of the semester you will create a digital portfolio hosted at GitHub, composed by hand in a text editor with Markdown, HTML and CSS. There is no formal structure requirement. However you assemble it, your portfolio must show you completing the technical assignments and attempting to apply the techniques in the course to your own research. You might also indicate what you might do with considerable more time and expertise. Some of your portfolio will serve particular course needs, and you might jettison those componenets when the course ends, but hopefully you'll have a core of a professional website that will continue to benefit your career. (30%)
+- In lieu of a final exam or project, over the course of the semester you will create a digital portfolio hosted at GitHub, composed by hand in a text editor with Markdown, HTML and CSS. As outlined in more detail below, your portfolio must show you completing the technical assignments and attempting to apply the techniques in the course to your own research. You might also indicate what you might do with considerable more time and expertise. Some of your portfolio will serve particular course needs, and you might jettison those componenets when the course ends, but hopefully you'll have a core of a professional website that will continue to benefit your career. (30%)
 
 Your portfolio must include:
 
 - some kind of landing page or home page (with some design strategy behind it) that gives some idea of the site's contents
-- a page dedicated to explaining--and ideally illustrating--your research, especially its value and significance
-- a mostly or entirely complete curriculum vitae / resume
-- a description and screenshots of you using QGIS to plot multiple data layers somehow related to your research. 
-- topic models of relevant texts
+- a page dedicated to explaining---and ideally illustrating---your research, especially its value and significance
+- a mostly or entirely complete curriculum vitae with appropriate typography
+- one page for each seminar meeting with your blog post and screen shots explaining your engagement with the assignment.
 - critical review of digital projects in your field. What exists? How could they be better? What should new projects be doing? If there is not much to report, then write a short manifesto about how the "digital humanities" values and ethos might serve (or not!) your field.
  
 - A 5-minute "video" that showcases the methods, results, and significance of your MA or PhD research (whatever stage you're at). We'll cover tools and techniques for doing this in class (10%)
 
-- Lead one discussion by having good questions prepared ahead of time to help call attention to interesting points in the readings, connect them to each other, and connect that day’s readings to previous readings and discussions. (10%)
 
-- Perseverance and tolerance for frustration. Digital humanities engages with new methodological problems and professional challenges raised by rapidly shifting technology and new media. Must be able to have fun while groping, even when it takes WAY longer than you expected. (5%)
+- Perseverance and tolerance for frustration. Digital humanities intentionally engages with new methodological problems and professional challenges raised by technology and new media. While theorizing can be useful, this course emphasizes engagement and experience with technologies themselves. Seemingly simple (and conceptually straightforward) tasks will occasionally take WAY longer than expected. Pushing through these moments is a big part of success in Digital Humanities work. (5%)
 
 
-## Required Texts
-- Anne Burdick et al., *Digital\_Humanities* (MIT Press, 2012) 
--- ISBN:978-0262018470 \[[amazon](http://www.amazon.com/Digital_Humanities-Anne-Burdick/dp/0262018470/)\]
-
--   Scott McCloud, *Understanding Comics* (Harper, 1993)
--- ISBN:978-0060976255 \[[amazon](http://www.amazon.com/Understanding-Comics-Invisible-Scott-McCloud/dp/006097625X)]
-
-- Join the course Zotero library 
+## Suggested Texts
+There are no required books the course. However, I highly recommend acquiring a physical copy of the _Thinking with Type_. Course readings not already online will be shared through the course Zotero library.
