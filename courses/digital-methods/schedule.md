@@ -9,11 +9,11 @@ section: schedule
 ---
 
 # DRAFT VERSION! 
-This syllabus is still under construction and changes frequently. You can, however, consider this a mostly accurate guide to the approach of the class, especially the topics the course will cover and the kinds of activities we'll be doing.
+This syllabus is still under construction and changes frequently. You can, however, consider this a mostly accurate guide to the approach of the class, especially the topics we'll cover and the kinds of activities we'll be doing.
 
-In general, we will spend the beginning part of classes talking about the assignment for that day, addressing questions that came up, troubleshooting, and discussing the more technical aspects of the tool/method. Then we'll move on to the next tool/method with a general introduction, discussion of potential and limitations, work through some tutorials, and go over the assignment for the next meeting (and making sure everyone is ready to tackle it).
+In general, we will spend the beginning part of classes talking about the assignment due that day, addressing questions or concerns that arose while completing it, troubleshooting, and discussing more technical aspects of the tool/method and its practical utility. Then we'll move on to the next tool/method with a general introduction, discussion of its potentials and limitations, work through some tutorials, and go over the assignment for the next meeting (and make sure everyone is ready to tackle it).
 
-Very rarely are all readings listed required; I try to list relevant readings that I think are worth knowing about and allow everyone to focus on what's most interesting to them and bring their perspectives to our discussions.
+Very rarely are all readings listed required (though all assignments are); I try to list relevant readings that I think are worth knowing about and allow everyone to focus on what's most interesting to them and bring their interests and perspectives to our discussions.
 
 
 ## Ethos of Digital Humanities / Digital Historigraphy
@@ -32,22 +32,21 @@ Lisa Spiro, ["This Is Why We Fight": Defining the Values of the Digital Humaniti
 ### In Class
 - Introduction to Zotero, GitHub (+ version control with git), GitHub Pages, Markdown. 
 - Set up GitHub, Twitter, and Zotero accounts.
-- Create a simple website with GitHub
+- Create a simple website with GitHub.
 
 
 
 ## The Command Line
 
-Some of the most powerful tools you might use for digital research and publishing don't have a GUI (graphical user interface) for many reasons that we'll discuss.
+Some of the most powerful tools you might use for digital research and publishing don't have a GUI (Graphical User Interface) for many reasons that we'll discuss. If you haven't used a command line interface before, it can be disorienting, but we'll try for a very gentle introduction.
 
-If you have Windows, you'll need to use PowerShell; if you have a Mac, you'll need to use your "Terminal" application.
+If you have Windows, you'll need to use PowerShell; if you have a Mac, you'll need to use your Terminal application. For our purposes, they are functionally equivalent.
 
-### In class (read through docs beforehand)
-[Intro to bash](http://programminghistorian.org/lessons/intro-to-bash)
-
-Download and install [pandoc](http://pandoc.org/installing.html).
-
-Download and install [ImageMagick](http://www.imagemagick.org/script/index.php).
+### In class (read through docs beforehand, but we'll go through them in class with some deviations)
+- [Intro to bash](http://programminghistorian.org/lessons/intro-to-bash).
+- Download and install [pandoc](http://pandoc.org/installing.html).
+- Download and install [ImageMagick](http://www.imagemagick.org/script/index.php).
+- We'll also work through some use case examples of these tools.
 
 
 
@@ -55,7 +54,7 @@ Download and install [ImageMagick](http://www.imagemagick.org/script/index.php).
 
 We'll use our new knowledge of the command line and several tutorials to help us install Jekyll, and manage our websites more easily.
 
-### Before class
+### Before class (why you might care about your own website)
 Christopher P. Long, [The Googled Graduate Student](http://cplong.org/2013/09/the-googled-graduate-student/).
 
 Jentery Sayers, [Do You Need Your Own Website while on the Job Market](http://www.chronicle.com/blogs/profhacker/do-you-need-your-own-website-while-on-the-job-market/35825)
@@ -82,7 +81,7 @@ Although you might choose not incorporate much design into your own website or p
 [Thinking with Type](http://thinkingwithtype.com)
 
 ### In class
-Various HTML and CSS tutorials
+Various HTML and CSS tutorials TBA
 
 
 
@@ -98,8 +97,7 @@ Understand the [basics of KML](https://developers.google.com/kml/documentation/k
 Prepare reviews of some relevant [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/)
 
 ### In class
-Add a simple Google map [using these instructions](https://developers.google.com/maps/tutorials/fundamentals/adding-a-google-map).
-
+We'll work through the process of creating a basic Google Map from historical sources. The point isn't to make super sexy maps, but to understand all the steps involved in the process and how you should or should not apply various mapping techniques in your own work. 
 
 
 
@@ -114,7 +112,7 @@ Return to the [gentle introduction to GIS](http://docs.qgis.org/2.2/en/docs/gent
 
 
 ### In class
-Work through [QGIS tutorials](http://fredgibbs.net/tutorials/) 
+Work through 3 simple [QGIS tutorials](http://fredgibbs.net/tutorials/) 
 
 If you get stuck or have questions, consult the [QGIS Training Manual](http://docs.qgis.org/2.2/en/docs/training_manual/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com).
 
@@ -140,9 +138,8 @@ Shlomo Argamon et al., [Gender, Race, and Nationality in Black Drama, 1950-2006:
 
 
 ### In class
-Load some of your texts into [Voyant](http://voyant-tools.org/) and check out a [list of projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/)    
-
-Get some of your research data loaded into [Bookworm](http://bookworm.culturomics.org/)
+- Load some of your texts into [Voyant](http://voyant-tools.org/) and write a critique of one of the [projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/)    
+- Get some of your research data loaded into [Bookworm](http://bookworm.culturomics.org/)
 
 
 
