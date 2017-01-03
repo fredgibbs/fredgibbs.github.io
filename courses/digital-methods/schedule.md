@@ -132,8 +132,6 @@ Under what circumstances are these techniques useful? How can they be used most 
 ### Before class
 Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/).
 
-Ted Underwood, [Where to Start with Text Mining](http://tedunderwood.com/2012/08/14/where-to-start-with-text-mining/).
-
 Look through [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
 
 Stanford Literary Lab, [Quantitative Formalism: an Experiment](http://litlab.stanford.edu/LiteraryLabPamphlet1.pdf).
@@ -167,6 +165,8 @@ Various OCR correction tutorials at _Programming Historian_.
 ## Topic Modeling
 
 ### Before class
+Ted Underwood, [Topic Modeling Made Just Simple Enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/).
+
 Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
 
 Andrew Goldstone and Ted Underwood, "The Quiet Transformations of Literary Studies: What Thirteenth Thousand Scholars Could Tell Us."
@@ -176,22 +176,26 @@ Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbo
 Cameron Blevins, [Topic Modeling Martha Ballard's Diary](http://historying.org/martha-ballards-diary/).
 
 ### In class
-Install and use [MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet) to topic model some of your sources.
-
-Also, load up some of your sources into [Overview](http://overview.ap.org/faq/), and compare what you can learn from "raw" topic modeling with MALLET and Overview's presentation of your documents.
+- Install and use [MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet) to topic model some of your sources.
+- Load up some of your sources into [Overview](http://overview.ap.org/faq/), and compare what you can learn from "raw" topic modeling with MALLET and Overview's presentation of your documents.
 
 
 
 ## Network Analysis
 
 ### Before Class
+Scott B. Weingart, [Demystifying Networks, Parts I and II](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/).
+
+Elijah Meeks and Maya Krishnan, [Introduction to Network Analysis and Representation](http://dhs.stanford.edu/dh/networks/).
+
 Dmitry Paranyushkin, [Identifying the Pathways for Meaning Circulation using Text Network Analysis](http://noduslabs.com/research/pathways-meaning-circulation-text-network-analysis/).
 
-Learn about [Palladio](http://hdlab.stanford.edu/palladio/), especially via the [help page](http://hdlab.stanford.edu/palladio/help/). 
+Learn about [Palladio](http://hdlab.stanford.edu/palladio/), especially via the [help page](http://hdlab.stanford.edu/palladio/help/).
+
 
 ### In Class
-Upload data and create a network graph with Palladio.
-Download, install, and model texts with [Gephi](http://gephi.org)    
+- Upload data and create a network graph with Palladio.
+- Download, install, and model texts with [Gephi](http://gephi.org), using Martin Grandjean, [GEPHI – Introduction to Network Analysis and Visualization](http://www.martingrandjean.ch/gephi-introduction/)
 
 
 
@@ -199,15 +203,11 @@ Download, install, and model texts with [Gephi](http://gephi.org)
 ## Critiquing Digital Scholarship
 What are the fundamental criteria for critiquing digital history projects? How much does the traditional peer review model need to change to accommodate new types of historical work/projects?
 
-William G. Thomas III, [Writing A Digital History Journal Article from Scratch: An Account](http://digitalhistory.unl.edu/essays/thomasessay.php).
-
-James Smithies, [Evaluating Scholarly Digital Outputs: The 6 Layers Approach](http://jamessmithies.org/2012/09/20/evaluating-scholarly-digital-outputs-the-6-layers-approach/).
-
 Paul Fyfe, [Open Access, Open Secrets: Peer Review and Alternative Scholarly Production](http://victelecom.wordpress.com/2010/10/11/open-access-open-secrets-peer-review-and-alternative-scholarly-production/).
 
 Modern Language Association, [Guidelines for Evaluating Work in Digital Humanities and Digital Media](http://www.mla.org/resources/documents/rep_it/guidelines_evaluation_digital).
 
-Journal of American History [Guidelines for Web site reviews](http://www.journalofamericanhistory.org/submit/websitereviews.html).
+Journal of American History, [Digital History Reviews](http://jah.oah.org/submit/digital-history-reviews/)
 
 Todd Presner, [Evaluating Digital Scholarship](http://idhmc.tamu.edu/commentpress/digital-scholarship/).
 
