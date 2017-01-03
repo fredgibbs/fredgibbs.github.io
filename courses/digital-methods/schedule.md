@@ -46,13 +46,13 @@ If you have Windows, you'll need to use PowerShell; if you have a Mac, you'll ne
 - [Intro to bash](http://programminghistorian.org/lessons/intro-to-bash).
 - Download and install [pandoc](http://pandoc.org/installing.html).
 - Download and install [ImageMagick](http://www.imagemagick.org/script/index.php).
-- We'll also work through some use case examples of these tools.
+- We'll work through some basic examples of these tools.
 
 
 
 ## Digital Publishing
 
-We'll use our new knowledge of the command line and several tutorials to help us install Jekyll, and manage our websites more easily.
+We'll use our new knowledge of the command line and several tutorials to help us install Jekyll (which is what GitHub uses) and manage our websites more easily. First, we'll talk about different strategies for and reasons why you might want to be more hands on with your own digital presence.
 
 ### Before class (why you might care about your own website)
 Christopher P. Long, [The Googled Graduate Student](http://cplong.org/2013/09/the-googled-graduate-student/).
