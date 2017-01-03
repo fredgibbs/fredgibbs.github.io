@@ -30,7 +30,7 @@ Mark Sample, [The Digital Humanities Is Not About Building, It’s About Sharing
 Lisa Spiro, ["This Is Why We Fight": Defining the Values of the Digital Humanities](http://dhdebates.gc.cuny.edu/debates/text/13)
 
 ### In Class
-- Introduction to Zotero, GitHub (+ version control with git), GitHub Pages, Markdown. 
+- Introduction to [Zotero](http://zotero.org), [GitHub](http://github.com) (+ version control with git), [GitHub Pages](https://pages.github.com), [Markdown](https://guides.github.com/features/mastering-markdown/#intro). 
 - Set up GitHub, Twitter, and Zotero accounts.
 - Create a simple website with GitHub.
 
