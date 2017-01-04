@@ -94,7 +94,7 @@ What are the fundamental criteria for critiquing digital history projects?
 ### Monday
 Johanna Drucker, [Humanities Approaches to Graphical Display](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html).
 
-Cameron Blevins, [The New Wave of Review](http://www.cameronblevins.org/posts/the-new-wave-of-review/).
+Fred Gibbs, “The Poetics of Digital Scholarship,” in Matt Bernico and Manuela Kölke (eds.), _Ontic Flows: From Digital Humanities to Posthumanities_, 101-122. New York and Dresden: Atropos Press, 2016.
 
 
 ### Wednesday
@@ -156,11 +156,13 @@ Load some documents into [Overview](https://www.overviewdocs.com).
 ## 11: Wikipedia, Authority, and Historical Knowledge
 
 ### Monday
-Selections from Bill Adair, Benjamin Filene, and Laura Koloski (eds.), _Letting Go?: Sharing Historical Authority in a User-Generated World_. [PDF](http://history2016.doingdh.org/wp-content/uploads/sites/8/2016/06/Throwing-Open-Doors.pdf).
+Bill Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
 
 Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/–writing-history-in-the-digital-age).
 
 ### Wednesday
+Selections from Bill Adair, Benjamin Filene, and Laura Koloski (eds.), _Letting Go?: Sharing Historical Authority in a User-Generated World_. [PDF](http://history2016.doingdh.org/wp-content/uploads/sites/8/2016/06/Throwing-Open-Doors.pdf).
+
 Fiona Romeo and Lucinda Blaser, [Bringing Citizen Scientists and Historians Together](http://www.museumsandtheweb.com/mw2011/papers/bringing_citizen_scientists_and_historians_tog).
 
 
