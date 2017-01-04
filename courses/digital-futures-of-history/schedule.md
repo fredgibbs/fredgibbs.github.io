@@ -3,12 +3,15 @@ layout: course2015
 title: Digital Futures of History
 term: Winter 2017
 number: HIST 399-006
-date: 2016-11-12 00:00:00
+date: 2017-01-04 00:00:00
 section: schedule
 ---
 
-# DRAFT VERSION! 
-This syllabus is still under construction and changes frequently. You can, however, consider this a generally accurate guide to the topics the course will cover and the kinds of activities we'll be doing.
+# IN PROGRESS!
+This syllabus is a living document and changes frequently, depending on what's going on in the course, though the general workload will remain more or less as indicated. If you print it out, you'll need to keep your paper version up to date with the online version.
+
+### How do they read?
+One of our goals is to think critically about how digital interfaces to historical interpretation changes the way we think about the past. This also includes examining the form of the readings, particularly how the different layouts and typography and writing style affects the way we interact with them. You should come to class prepared to discuss both form and content.
 
 
 ## 1: Course Introduction
@@ -153,12 +156,12 @@ Load some documents into [Overview](https://www.overviewdocs.com).
 ## 11: Wikipedia, Authority, and Historical Knowledge
 
 ### Monday
-Selections from Adair, Bill, Benjamin Filene, and Laura Koloski, eds. Letting Go?: Sharing Historical Authority in a User-Generated World. [PDF](http://history2016.doingdh.org/wp-content/uploads/sites/8/2016/06/Throwing-Open-Doors.pdf)
+Selections from Adair, Bill, Benjamin Filene, and Laura Koloski, eds. Letting Go?: Sharing Historical Authority in a User-Generated World. [PDF](http://history2016.doingdh.org/wp-content/uploads/sites/8/2016/06/Throwing-Open-Doors.pdf).
 
-Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/–writing-history-in-the-digital-age)
+Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/–writing-history-in-the-digital-age).
 
 ### Wednesday
-Fiona Romeo and Lucinda Blaser, “[Bringing Citizen Scientists and Historians Together](http://www.museumsandtheweb.com/mw2011/papers/bringing_citizen_scientists_and_historians_tog)" (2011).
+Fiona Romeo and Lucinda Blaser, [Bringing Citizen Scientists and Historians Together](http://www.museumsandtheweb.com/mw2011/papers/bringing_citizen_scientists_and_historians_tog).
 
 
 ## 12: Typography
