@@ -75,7 +75,7 @@ Amanda Visconti, [Building a static website with Jekyll and GitHub Pages](http:/
 
 
 ## Typography + HTML + CSS
-Although you might choose not incorporate much design into your own website or portfolio, getting a handle on the fundamentals of design and typography goes a long way in improving communication. We're going to practice typography with our CVs.
+Getting a handle on the fundamentals of design and typography goes a long way in improving communication. We're going to practice typography with our CVs.
 
 ### Before class
 [Thinking with Type](http://thinkingwithtype.com)
@@ -92,19 +92,21 @@ Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhi
 
 Anne Kelly Knowles, [A More Humane Approach to Digital Scholarship](http://parameters.ssrc.org/2016/08/a-more-humane-approach-to-digital-scholarship/)
 
-Understand the [basics of KML](https://developers.google.com/kml/documentation/kml_tut) and ways of sharing data.      
+David J. Bodenhamer, "The Spatial Humanities: Space, Time and Place in the New Digital Age"
 
-Prepare reviews of some relevant [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/)
 
 ### In class
 We'll work through the process of creating a basic Google Map from historical sources. The point isn't to make super sexy maps, but to understand all the steps involved in the process and how you should or should not apply various mapping techniques in your own work. 
 
+Understand the [basics of KML](https://developers.google.com/kml/documentation/kml_tut) and ways of sharing data.
 
 
 ## Mapping with QGIS
 
 ### Before class
-Download and install [QGIS](http://www.qgis.org/en/site/). Your assignment is just to get the application running on your computer. Note: if you have a Mac, you have to install 2 required packages before installing QGIS; follow the instructions carefully (kyngchaos is your friend)! We'll troubleshoot any installation issues and go over the interface and other basic GIS concepts in class.
+Prepare reviews of some relevant [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/)
+
+Download and install [QGIS](http://www.qgis.org/en/site/). Note: if you have a Mac, you have to install 2 required packages before installing QGIS; follow the instructions carefully (kyngchaos is your friend)! We'll troubleshoot any installation issues and go over the interface and other basic GIS concepts in class.
 
 Read "Introducing GIS" and "Vector Data" from this [gentle introduction to GIS](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/index.html).
 
