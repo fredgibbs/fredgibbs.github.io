@@ -11,9 +11,9 @@ section: home
 This syllabus is still under construction and changes frequently. You can, however, consider this a generally accurate guide to the topics the course will cover and the kinds of activities we'll be doing.
 
 ## Logistics
-MW 2:30 - 4 @ 1469 Mason Hall
-Fred Gibbs \([fwgibbs@umich.edu](mailto:fwgibbs@umich.edu)\) @ 1703 Haven Hall 
-Office Hours: MW 4-5; T 4-5; by appointment
+- MW 2:30 - 4 @ 1469 Mason Hall
+- Fred Gibbs \([fwgibbs@umich.edu](mailto:fwgibbs@umich.edu)\) @ 1703 Haven Hall 
+- Office Hours: MW 4-5; T 4-5; by appointment
 
 ## Course Description
 This interdisciplinary course explores the effects of the digital age on producing and consuming history. The questions that we will try to answer:

@@ -11,7 +11,7 @@ section: schedule
 This syllabus is a living document and changes frequently, depending on what's going on in the course, though the general workload will remain more or less as indicated. If you print it out, you'll need to keep your paper version up to date with the online version.
 
 ### How do they read?
-One of our goals is to think critically about how digital interfaces to historical interpretation changes the way we think about the past. This also includes examining the form of the readings, particularly how the different layouts and typography and writing style affects the way we interact with them. You should come to class prepared to discuss both form and content.
+One of our goals is to think critically about how digital interfaces to historical interpretation changes the way we think about the past. This also includes examining the forms of the readings, particularly how the different layouts, typography, and writing style affects the way we interact with them. Please come to class prepared to discuss both form _and_ content.
 
 
 ## 1: Course Introduction
@@ -96,6 +96,7 @@ Johanna Drucker, [Humanities Approaches to Graphical Display](http://digitalhuma
 
 Cameron Blevins, [The New Wave of Review](http://www.cameronblevins.org/posts/the-new-wave-of-review/).
 
+
 ### Wednesday
 American Historical Association, [Guidelines for the Professional Evaluation of Digital Scholarship by Historians](https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-professional-evaluation-of-digital-scholarship-by-historians).
 
@@ -120,6 +121,8 @@ Gergely Baics, [Mapping as Process: Food Access in Nineteenth-Century New York](
 
 Come to class with a formal critique of a [GIS Project](http://anterotesis.com/wordpress/dh-gis-projects/).
 
+
+## Spring Break
 
 
 ## 9: Text Mining 
@@ -150,13 +153,10 @@ Andrew Goldstone and Ted Underwood, "The Quiet Transformations of Literary Studi
 Load some documents into [Overview](https://www.overviewdocs.com).
 
 
-## Spring Break
-
-
 ## 11: Wikipedia, Authority, and Historical Knowledge
 
 ### Monday
-Selections from Adair, Bill, Benjamin Filene, and Laura Koloski, eds. Letting Go?: Sharing Historical Authority in a User-Generated World. [PDF](http://history2016.doingdh.org/wp-content/uploads/sites/8/2016/06/Throwing-Open-Doors.pdf).
+Selections from Bill Adair, Benjamin Filene, and Laura Koloski (eds.), _Letting Go?: Sharing Historical Authority in a User-Generated World_. [PDF](http://history2016.doingdh.org/wp-content/uploads/sites/8/2016/06/Throwing-Open-Doors.pdf).
 
 Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/–writing-history-in-the-digital-age).
 
