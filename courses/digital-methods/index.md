@@ -48,4 +48,4 @@ Your portfolio must include:
 
 
 ## Suggested Texts
-There are no required books the course. However, I highly recommend acquiring a physical copy of _Thinking with Type (2nd ed.)_. Course readings not already online will be shared through the course Zotero library (more on that in class).
+There are no required books the course. However, I highly recommend acquiring a physical copy of _Thinking with Type (2nd ed.)_. You will also need to subscribe to the course Zotero library to access assigned articles. This will be discussed in class, but for reference, please see the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library is [https://www.zotero.org/groups/914437/items](https://www.zotero.org/groups/915921/items), but you must have clicked on the link in your invitation to access the library!
