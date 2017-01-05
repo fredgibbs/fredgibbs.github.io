@@ -46,14 +46,14 @@ Jim Mussell, “Doing and Making: History as Digital Practice,” in Tony Weller
 
 Dennis Tenen and Grant Wythoff, [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
 
-(as part of the above tutorial, you will also download and install [pandoc](http://pandoc.org/installing.html)).
+(as part of the above tutorial, you will also download and install [pandoc](http://pandoc.org/installing.html)). Work through this [introduction to pandoc on the command line](http://pandoc.org/getting-started.html).
 
 Read through (but don't do) the in-class tutorials beforehand; we'll go through them in class with some deviations.
 
 ### In class 
 - [Intro to bash](http://programminghistorian.org/lessons/intro-to-bash) (Windows users: don't use Git Bash as the tutorial indicates, use Powershell instead).
 - Another tool to note: [ImageMagick](http://www.imagemagick.org/script/index.php).
-- We'll work through some basic examples with the Command Line and Pandoc.
+- We'll work through some basic examples with the Command Line and Pandoc and troubleshoot any issues you ran into.
 - Create a simple website with GitHub Pages.
 
 
