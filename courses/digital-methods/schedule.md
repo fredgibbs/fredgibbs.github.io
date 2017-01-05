@@ -33,7 +33,6 @@ Lisa Spiro, ["This Is Why We Fight": Defining the Values of the Digital Humaniti
 - Introduction to [Zotero](http://zotero.org), [GitHub](http://github.com) (+ version control with git), [GitHub Pages](https://pages.github.com), [Markdown](https://guides.github.com/features/mastering-markdown/#intro). 
 - Connect to the Zotero Library.
 - Set up GitHub account, and complete the [Hello world tutorial](https://guides.github.com/activities/hello-world/).
-- Create a simple website with GitHub Pages.
 
 
 
@@ -55,7 +54,7 @@ Read through (but don't do) the in-class tutorials beforehand; we'll go through 
 - [Intro to bash](http://programminghistorian.org/lessons/intro-to-bash) (Windows users: don't use Git Bash as the tutorial indicates, use Powershell instead).
 - Another tool to note: [ImageMagick](http://www.imagemagick.org/script/index.php).
 - We'll work through some basic examples with the Command Line and Pandoc.
-
+- Create a simple website with GitHub Pages.
 
 
 ## 3: Digital Publishing
