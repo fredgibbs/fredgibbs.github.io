@@ -42,18 +42,19 @@ Some of the most powerful tools you might use for digital research and publishin
 If you have Windows, you'll need to use PowerShell; if you have a Mac, you'll need to use your Terminal application. For our purposes, they are functionally equivalent.
 
 ### Before class
+Review Sample and Spiro from last week (since we didn't get to them).
+
 Jim Mussell, “Doing and Making: History as Digital Practice,” in Tony Weller (ed.), _History in the Digital Age_ (London: Routledge, 2013), 79–94.
 
-Dennis Tenen and Grant Wythoff, [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
+Read through (but don't worry about completing) the in-class tutorials beforehand; we'll go through them in class with some deviations. Please come to class with questions about the terms and concepts so we can be most efficient with our work time.
 
-(as part of the above tutorial, you will also download and install [pandoc](http://pandoc.org/installing.html)). Work through this [introduction to pandoc on the command line](http://pandoc.org/getting-started.html).
-
-Read through (but don't do) the in-class tutorials beforehand; we'll go through them in class with some deviations.
 
 ### In class 
+We'll work through some basic examples with the Command Line and Pandoc and troubleshoot any issues you run into.
+- Dennis Tenen and Grant Wythoff, [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
+- Download and install [pandoc](http://pandoc.org/installing.html). Work through this [introduction to pandoc on the command line](http://pandoc.org/getting-started.html).
 - [Intro to bash](http://programminghistorian.org/lessons/intro-to-bash) (Windows users: don't use Git Bash as the tutorial indicates, use Powershell instead).
 - Another tool to note: [ImageMagick](http://www.imagemagick.org/script/index.php).
-- We'll work through some basic examples with the Command Line and Pandoc and troubleshoot any issues you ran into.
 - Create a simple website with GitHub Pages.
 
 
