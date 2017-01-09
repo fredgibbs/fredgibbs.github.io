@@ -32,6 +32,15 @@ Stephen Ramsay, [DH Types One and Two](http://stephenramsay.us/2013/05/03/dh-one
 
 Mark Sample, [The Digital Humanities Is Not About Building, It’s About Sharing](http://www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/).
 
+Peruse and come prepared to discuss some the sites listed [here](http://www.slate.com/blogs/the_vault/2016/12/30/five_great_digital_history_projects_from_2016.html) (and also briefly survey some of the past projects (links near the top) to get a historical perspective), and [here](http://www.slate.com/blogs/the_vault/2017/01/05/some_of_the_most_browsable_history_sites_we_encountered_in_2016.html). 
+
+You don't need to spend a lot of time on each site, but you should be familiar with their purpose and functionality, as well as what you think they do well and not so well. 
+
+In following up the possibility of doing a Diag history, it seems oddly difficult to find much. The [Wikipedia entry](https://en.wikipedia.org/wiki/The_Diag), the first search result, largely ignores its history; a tantalizingly named but not all that helpful [history](https://heritage.umich.edu/stories/a-different-diag/), might be a model for something we make. This could be a demanding but fun project that would give us hands-on experience with many (not overly technical) digital skills, and be of wide interest to the community.
+
+Be sure to click through this [UM History site](http://umhistory.org/history/index.html), and think about how we might contribute to or improve on that effort. I didn't find much on the diag in this, either. 
+
+
 
 ## 3: What is History?
 
