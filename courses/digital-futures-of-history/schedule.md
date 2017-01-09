@@ -30,7 +30,7 @@ Lisa Spiro, ["This Is Why We Fight": Defining the Values of the Digital Humaniti
 ### Wednesday
 Stephen Ramsay, [DH Types One and Two](http://stephenramsay.us/2013/05/03/dh-one-and-two/).
 
-Mark Sample, [The Digital Humanities Is Not About Building, It’s About Sharing](http://www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/).
+Mark Sample, [The Digital Humanities Is Not About Building, It’s About Sharing](http://webcache.googleusercontent.com/search?q=cache:IyRYK7RWT8cJ:www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/+&cd=1&hl=en&ct=clnk&gl=us).
 
 
 ## 3: What is History?
