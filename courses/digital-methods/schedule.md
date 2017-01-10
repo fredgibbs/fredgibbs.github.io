@@ -1,6 +1,6 @@
 ---
-layout: course2015 
-title: Introduction to Digital Humanities 
+layout: course2015
+title: Introduction to Digital Humanities
 term: Winter 2017
 number: HIST 698-002
 date: 2017-01-04 00:00:00
@@ -8,7 +8,7 @@ css: digital-methods
 section: schedule
 ---
 
-# IN PROGRESS! 
+# IN PROGRESS!
 This syllabus is a living document and changes frequently, depending on what's going on in the course, though the general workload will remain more or less as indicated. If you print it out, you'll need to keep your paper version up to date with the online version.
 
 In general, we will spend the beginning part of classes talking about the assignment due that day, addressing questions or concerns that arose while completing it, troubleshooting, and discussing more technical aspects of the tool/method and its practical utility. Then we'll move on to the next tool/method with a general introduction, discussion of its potentials and limitations, work through some tutorials, and go over the assignment for the next meeting (and make sure everyone is ready to tackle it).
@@ -30,7 +30,7 @@ Mark Sample, [The Digital Humanities Is Not About Building, It’s About Sharing
 Lisa Spiro, ["This Is Why We Fight": Defining the Values of the Digital Humanities](http://dhdebates.gc.cuny.edu/debates/text/13)
 
 ### In Class
-- Introduction to [Zotero](http://zotero.org), [GitHub](http://github.com) (+ version control with git), [GitHub Pages](https://pages.github.com), [Markdown](https://guides.github.com/features/mastering-markdown/#intro). 
+- Introduction to [Zotero](http://zotero.org), [GitHub](http://github.com) (+ version control with git), [GitHub Pages](https://pages.github.com), [Markdown](https://guides.github.com/features/mastering-markdown/#intro).
 - Connect to the Zotero Library.
 - Set up GitHub account, and complete the [Hello world tutorial](https://guides.github.com/activities/hello-world/).
 
@@ -49,7 +49,7 @@ Jim Mussell, “Doing and Making: History as Digital Practice,” in Tony Weller
 Read through (but don't worry about completing) the in-class tutorials beforehand; we'll go through them in class with some deviations. Please come to class with questions about the terms and concepts so we can be most efficient with our work time.
 
 
-### In class 
+### In class
 We'll work through some basic examples with the Command Line and Pandoc and troubleshoot any issues you run into.
 
 - Dennis Tenen and Grant Wythoff, [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
@@ -105,11 +105,11 @@ David J. Bodenhamer, "The Spatial Humanities: Space, Time and Place in the New D
 
 I. N. Gregory and A. Hardie, “Visual GISting: Bringing Together Corpus Linguistics and Geographical Information Systems,” _Literary and Linguistic Computing_ 26, no. 3 (2011): 297–314.
 
-Matthew Wilkens, "Geolocation Extraction and Mapping of Ninettenth-Century U.S. Fiction."
+Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. Fiction."
 
 
 ### In class
-We'll work through the process of creating a basic Google Map from historical sources. The point isn't to make super sexy maps, but to understand all the steps involved in the process and how you should or should not apply various mapping techniques in your own work. 
+We'll work through the process of creating a basic Google Map from historical sources. The point isn't to make super sexy maps, but to understand all the steps involved in the process and how you should or should not apply various mapping techniques in your own work.
 
 
 Understand the [basics of KML](https://developers.google.com/kml/documentation/kml_tut) and ways of sharing data.
@@ -128,17 +128,17 @@ Return to the [gentle introduction to GIS](http://docs.qgis.org/2.2/en/docs/gent
 
 
 ### In class
-Work through 3 simple [Mapping with QGIS tutorials](http://fredgibbs.net/tutorials/). 
+Work through 3 simple [Mapping with QGIS tutorials](http://fredgibbs.net/tutorials/).
 
 If you get stuck or have questions, consult the [QGIS Training Manual](http://docs.qgis.org/2.2/en/docs/training_manual/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com).
 
 
 ## 7: Research Trailers
-Create a video about your research! We'll explore some tools and techniques for doing this, and we'll continue to discuss the videos and our production schedule throughout the semester. 
+Create a video about your research! We'll explore some tools and techniques for doing this, and we'll continue to discuss the videos and our production schedule throughout the semester.
 
 
 
-## 8: Text Mining 
+## 8: Text Mining
 Under what circumstances are these techniques useful? How can they be used most effectively? We're going to talk about the different formats of data these tools require, problems moving from one to the other; pros and cons of their various approaches, and whatever you newly discovered about your sources from taking a broad view of your sources/data.
 
 
@@ -237,8 +237,7 @@ Elijah Meeks, [Infoviz and New Literacies](https://dhs.stanford.edu/algorithmic-
 [Flowing Data](http://flowingdata.com)
 
 
-## 14: OPEN 
+## 14: OPEN
 
 
 ## 15: Loose ends, conclusions, etc.
-
