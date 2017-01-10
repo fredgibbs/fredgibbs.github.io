@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: course2015
 title: Introduction to Digital Humanities
