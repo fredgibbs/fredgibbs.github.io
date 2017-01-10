@@ -51,6 +51,7 @@ Read through (but don't worry about completing) the in-class tutorials beforehan
 
 ### In class 
 We'll work through some basic examples with the Command Line and Pandoc and troubleshoot any issues you run into.
+
 - Dennis Tenen and Grant Wythoff, [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
 - Download and install [pandoc](http://pandoc.org/installing.html). Work through this [introduction to pandoc on the command line](http://pandoc.org/getting-started.html).
 - [Intro to bash](http://programminghistorian.org/lessons/intro-to-bash) (Windows users: don't use Git Bash as the tutorial indicates, use Powershell instead).
