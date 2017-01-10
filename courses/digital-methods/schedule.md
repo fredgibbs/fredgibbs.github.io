@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: course2015
 title: Introduction to Digital Humanities
@@ -16,7 +17,7 @@ In general, we will spend the beginning part of classes talking about the assign
 Very rarely are all readings listed required (though all assignments are); I try to list relevant readings that I think are worth knowing about and allow everyone to focus on what's most interesting to them and bring their interests and perspectives to our discussions.
 
 
-## 1: Ethos of Digital Humanities / Digital Historigraphy
+## 1: Ethos of Digital Humanities / Digital Historiography
 
 ### Before Class
 William Cronon, [The Public Practice of History in and for a Digital Age](http://www.historians.org/perspectives/issues/2012/1201/The-Public-Practice-of-History-in-and-for-a-Digital-Age.cfm).
@@ -25,7 +26,7 @@ Julia Flanders, [The Productive Unease of 21st-century Digital Scholarship](http
 
 Stephen Ramsay, [DH Types One and Two](http://stephenramsay.us/2013/05/03/dh-one-and-two/).
 
-Mark Sample, [The Digital Humanities Is Not About Building, It’s About Sharing](http://www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/).
+Mark Sample, [The Digital Humanities Is Not About Building, It’s About Sharing](http://webcache.googleusercontent.com/search?q=cache:IyRYK7RWT8cJ:www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/+&cd=1&hl=en&ct=clnk&gl=us).
 
 Lisa Spiro, ["This Is Why We Fight": Defining the Values of the Digital Humanities](http://dhdebates.gc.cuny.edu/debates/text/13)
 
@@ -190,7 +191,7 @@ Cameron Blevins, [Topic Modeling Martha Ballard's Diary](http://historying.org/m
 
 ### In class
 - Install and use [MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet) to topic model some of your sources.
-- Load up some of your sources into [Overview](http://overview.ap.org/faq/), and compare what you can learn from "raw" topic modeling with MALLET and Overview's presentation of your documents.
+- Load up some of your sources into [Overview](https://www.overviewdocs.com/), and compare what you can learn from "raw" topic modeling with MALLET and Overview's presentation of your documents.
 
 
 
