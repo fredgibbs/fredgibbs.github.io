@@ -190,7 +190,7 @@ Cameron Blevins, [Topic Modeling Martha Ballard's Diary](http://historying.org/m
 
 ### In class
 - Install and use [MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet) to topic model some of your sources.
-- Load up some of your sources into [Overview](http://overview.ap.org/faq/), and compare what you can learn from "raw" topic modeling with MALLET and Overview's presentation of your documents.
+- Load up some of your sources into [Overview](https://www.overviewdocs.com/), and compare what you can learn from "raw" topic modeling with MALLET and Overview's presentation of your documents.
 
 
 
