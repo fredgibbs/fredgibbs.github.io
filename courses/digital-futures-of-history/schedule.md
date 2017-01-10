@@ -1,5 +1,5 @@
 ---
-layout: course2015 
+layout: course2015
 title: Digital Futures of History
 term: Winter 2017
 number: HIST 399-006
@@ -17,7 +17,7 @@ One of our goals is to think critically about how digital interfaces to historic
 ## 1: Course Introduction
 
 ### Wednesday
-Today we'll review the syllabus, course aims, assignments, and general plan for the semester. We'll also figure out how to customize the course to best suit participants' interests. 
+Today we'll review the syllabus, course aims, assignments, and general plan for the semester. We'll also figure out how to customize the course to best suit participants' interests.
 
 
 ## 2: Ethos of Digital History / Humanities
@@ -30,15 +30,15 @@ Lisa Spiro, ["This Is Why We Fight": Defining the Values of the Digital Humaniti
 ### Wednesday
 Stephen Ramsay, [DH Types One and Two](http://stephenramsay.us/2013/05/03/dh-one-and-two/).
 
-Mark Sample, [The Digital Humanities Is Not About Building, It’s About Sharing](http://www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/).
+Mark Sample, [The Digital Humanities Is Not About Building, It’s About Sharing](http://webcache.googleusercontent.com/search?q=cache:IyRYK7RWT8cJ:www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/+&cd=1&hl=en&ct=clnk&gl=us).
 
-Peruse and come prepared to discuss some the sites listed [here](http://www.slate.com/blogs/the_vault/2016/12/30/five_great_digital_history_projects_from_2016.html) (and also briefly survey some of the past projects (links near the top) to get a historical perspective), and [here](http://www.slate.com/blogs/the_vault/2017/01/05/some_of_the_most_browsable_history_sites_we_encountered_in_2016.html). 
+Peruse and come prepared to discuss some the sites listed [here](http://www.slate.com/blogs/the_vault/2016/12/30/five_great_digital_history_projects_from_2016.html) (and also briefly survey some of the past projects (links near the top) to get a historical perspective), and [here](http://www.slate.com/blogs/the_vault/2017/01/05/some_of_the_most_browsable_history_sites_we_encountered_in_2016.html).
 
 You don't need to spend a lot of time on each site, but you should be familiar with their purpose and functionality, as well as what you think they do well and not so well. Do they embrace the kind of digital humanities we read about for Monday?
 
 In following up the possibility of doing a Diag history, it seems oddly difficult to find much. The [Wikipedia entry](https://en.wikipedia.org/wiki/The_Diag), the first search result, largely ignores its history; a tantalizingly named but not all that helpful [history](https://heritage.umich.edu/stories/a-different-diag/), might be a model for something we make. This could be a demanding but fun project that would give us hands-on experience with many (not overly technical) digital skills, and be of wide interest to the community.
 
-Be sure to click through this [UM History site](http://umhistory.org/history/index.html), and think about how we might contribute to or improve on that effort. I didn't find much on the diag in this, either. 
+Be sure to click through this [UM History site](http://umhistory.org/history/index.html), and think about how we might contribute to or improve on that effort. I didn't find much on the diag in this, either.
 
 
 
@@ -76,7 +76,7 @@ Hayden White, “The Value of Narrativity in the Representation of Reality,” _
 ### Wednesday
 Scott Weingart, [Lessons From Digital History’s Antecedents](http://scottbot.net/lessons-from-digital-historys-antecedents/).
 
-Tim Hitchcock, [Historyonics: Academic History Writing and the Headache of Big Data](http://historyonics.blogspot.com/2012/01/academic-history-writing-and-headache.html). 
+Tim Hitchcock, [Historyonics: Academic History Writing and the Headache of Big Data](http://historyonics.blogspot.com/2012/01/academic-history-writing-and-headache.html).
 
 
 
@@ -98,7 +98,7 @@ Come to class with a formal critique of Andrew J. Torget & Jon Christensen, [Map
 
 
 ## 7: Critiquing Digital Scholarship
-What are the fundamental criteria for critiquing digital history projects? 
+What are the fundamental criteria for critiquing digital history projects?
 
 ### Monday
 Johanna Drucker, [Humanities Approaches to Graphical Display](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html).
@@ -134,13 +134,13 @@ Come to class with a formal critique of a [GIS Project](http://anterotesis.com/w
 ## Spring Break
 
 
-## 9: Text Mining 
+## 9: Text Mining
 Under what circumstances are these techniques useful? How can they be used most effectively?
 
 ### Monday
 Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/).
 
-### Wednesday 
+### Wednesday
 Rob Nelson, [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
 
 Load some texts into [Voyant](http://voyant-tools.org/) and write a critique of one of the many [projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/).    
