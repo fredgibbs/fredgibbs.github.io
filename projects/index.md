@@ -6,7 +6,7 @@ title: projects | fredgibbs
 # Books
 
 ## Poison, Medicine, and Disease in Late Medieval and Early Modern Europe
-This manuscript (reviewed and accepted for publication at Routledge; currently under copyediting) explores late medieval and early modern medical debates about the nature of poison (_venenum_). Drawing from an unusually wide range of medical and natural philosophical texts&#8211;especially treatises on poison, pharmacy, pharmacology, plague, and the nature of disease&#8211;this book explores a neglected but enlightening ontological debate about the existence of a category of substance fundamentally harmful to the human body (that is, poison) and the corresponding implications for medical theory and practice.
+This manuscript (reviewed and accepted for publication at Routledge; currently in editorial production) explores late medieval and early modern medical debates about the nature of poison (_venenum_). Drawing from an unusually wide range of medical and natural philosophical texts&#8211;especially treatises on poison, pharmacy, pharmacology, plague, and the nature of disease&#8211;this book explores a neglected but enlightening ontological debate about the existence of a category of substance fundamentally harmful to the human body (that is, poison) and the corresponding implications for medical theory and practice.
 
 
 ## Digital + Scholarship: Towards New Review Criteria and Practices
