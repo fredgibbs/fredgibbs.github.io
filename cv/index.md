@@ -38,6 +38,8 @@ Accepted (Oct 2016) for publication at Routledge (_Medicine in the Medieval Medi
 
 ## Articles in Refereed Journals
 
+"Data, Humanities and the History of Medicine: New Pedagogical Approaches," _Medical History_, 61.1 (2017), 177 - 180.
+
 "New Forms of History: Critiquing Data and Its Representations," _The American Historian_ 7 (2016): 31-36. [TAH](http://tah.oah.org/february-2016/new-forms-of-history-critiquing-data-and-its-representations/)
 
 "Editorial Sustainability and Open Peer Review at Programming Historian," _DHCommons_ 1 (2015). [DHCommons](http://dhcommons.org/journal/issue-1/editorial-sustainability-and-open-peer-review-programming-historian) \| [PDF](http://fredgibbs.net/publications/Editorial_Sustainability.pdf)
@@ -110,13 +112,15 @@ _[Programming Historian](http://programminghistorian.org)_ offers novice-friendl
 
 ## Recent Courses
 
+* [Digital Methods for the Humanities](http://fredgibbs.net/courses/digital-methods)
+* [Digital Futures of History](http://fredgibbs.net/courses/digital-futures-of-history)
 * [Food, Diet, and Health](http://fredgibbs.net/courses/food-diet-health)
 * [Undergraduate Historiography](http://fredgibbs.net/courses/historiography)
 * [Digital Mapping](http://fredgibbs.net/courses/digital-mapping)
 * [History of Premodern Medicine](http://fredgibbs.net/courses/premodern-medicine/fall-2015)
 * [Graduate Historiography](http://fredgibbs.net/courses/historiography-grad/fall-2015)
 * [Metaphor of Plague](http://fredgibbs.net/courses/metaphor-of-plague)
-* [Digital Methods for the Humanities](http://fredgibbs.net/courses/digital-methods)
+
 
 
 ## Previous Digital Humanities Projects
@@ -197,6 +201,11 @@ _[Programming Historian](http://programminghistorian.org)_ offers novice-friendl
 
 
 ## Selected Presentations and Participations
+*Personal Failure and Decentralized Digital History*  
+American Historical Association (Jan 2017)
+
+*Data, Humanities and the History of Medicine: New Pedagogical Approaches*
+American Association for the History of Medicine (April 2016)
 
 *The Universals and Particulars of Poison in the Sixteenth Century*  
 History of Science Society (Nov 2015)
