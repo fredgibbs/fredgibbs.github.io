@@ -4,13 +4,15 @@ title: about | fredgibbs
 ---
 
 # Hello World!
-I'm Fred Gibbs, an assistant professor in the [history department](http://history.unm.edu) at the [University of New Mexico](http://unm.edu). 
+I'm Fred Gibbs, an assistant professor in the [history department](http://history.unm.edu) at the [University of New Mexico](http://unm.edu).
 
-My historical research interests span the history of diet and health (particularly nutrition), the intersection of food and environmental histories (particularly food production and distribution), and qualitative and historical GIS (Geographic Information Systems).
+My research interests span the history of diet and health (particularly the popularization of nutritional science), the intersection of food and environmental histories (particularly food production and distribution), and qualitative and historical cartography (with and without GIS).
 
-My research and teaching in the digital humanities (digital history in particular) explores new modes of historical research and publishing, the importance of design in scholarship, the necessity for new evaluative criteria for digital scholarship (and the nature of scholarship in the 21st century), and sustainable publication practices that avoid the bloated costs and outmoded processes of most academic publishers.
+My research and teaching in the digital humanities (particularly digital history) explores new modes of historical research and publishing, the importance of design in scholarship, the necessity for new evaluative criteria for digital scholarship (and the nature of scholarship in the 21st century), and sustainable publication practices.
 
-I have been a general editor at [Programming Historian](http://programminghistorian.org) since 2012, co-founded in 2015 the UNM [Spatial Humanities Working Group](http://spatialhumanities.unm.edu), and serve as an editor at the recently (Oct 2016) launched [H-Nutrition](https://networks.h-net.org/h-nutrition) network on H-Net. Perhaps the best way of getting a sense of what I've been up to scroll through my [project portfolio](../projects), and check peruse some publications (and links to them) on [my CV](../cv).
+I have been a general editor at [Programming Historian](http://programminghistorian.org) since 2012, co-founded in 2015 the UNM [Spatial Humanities Working Group](http://spatialhumanities.unm.edu), and serve as an editor at the recently (Oct 2016) launched [H-Nutrition](https://networks.h-net.org/h-nutrition) network on H-Net.
+
+Perhaps the best way of getting a sense of what I've been up to scroll through my [project portfolio](../projects), and check peruse some publications (and links to them) on [my CV](../cv).
 
 Previously, my research focused on premodern toxicology, particularly late medieval and early modern medical literature on poison.
 

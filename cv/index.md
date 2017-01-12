@@ -33,7 +33,7 @@ Carleton College (1998)
 ## Book Manuscript
 
 "Poison, Medicine, and Disease in Late Medieval and Early Modern Europe"   
-Accepted (Oct 2016) for publication at Routledge (Series: Medicine in the Medieval Mediterranean), currently in copyediting.
+Accepted (Oct 2016) for publication at Routledge (_Medicine in the Medieval Mediterranean_), currently in editorial production.
 
 
 ## Articles in Refereed Journals
@@ -74,7 +74,7 @@ Accepted (Oct 2016) for publication at Routledge (Series: Medicine in the Mediev
 "How Do We Make the Future?" A Contribution to the History of Science Society Newsletter (July 2016) [with Erika Milam and Joanna Radin].
 
 _Histories of the Future_ ([histscifi.com](http://histscifi.com))  
- 
+
 "The Historical Value of Ephemeral Discussions of Science on the Web" in _Science &#64; Risk: Toward a National Strategy for Preserving Online Science_, 8-16. Washington, DC: Library of Congress National Digital Information Infrastructure and Preservation Program, 2012. [meeting site](http://www.digitalpreservation.gov/meetings/scienceonline_2012.html) \| [PDF](http://www.digitalpreservation.gov/meetings/documents/othermeetings/science-at-risk-NDIIPP-report-nov-2012.pdf)
 
 “Natural History,” in Robert E. Bjork (ed.), _Oxford Dictionary of the Middle Ages_. Oxford: Oxford University Press, 2010.
@@ -90,11 +90,11 @@ Massimo Montanari, _Medieval Tastes: Food, Cooking, and the Table_. New York: Co
 
 Luke Demaitre, _Medieval Medicine: The Art of Healing from Head to Toe_. Santa Barbara: Praeger, 2013. In _Journal of the History of Medicine and Allied Sciences_ 69.1 (2014): 667-9.
 
-Nancy G. Siraisi, _Communities of Learned Experience. Epistolary Medicine in the Renaissance_. Baltimore: Johns Hopkins University Press, 2013. In _British Journal of the History of Science_ 47.1 (2014): 178-9. 
+Nancy G. Siraisi, _Communities of Learned Experience. Epistolary Medicine in the Renaissance_. Baltimore: Johns Hopkins University Press, 2013. In _British Journal of the History of Science_ 47.1 (2014): 178-9.
 
-Ian Mortimer, _The Dying and the Doctors: the Medical Revolution in Seventeenth Century England_. Woodbridge: Boydell Press, 2009. In _Journal of Social History_ 44.4 (2011): 1289-91. 
+Ian Mortimer, _The Dying and the Doctors: the Medical Revolution in Seventeenth Century England_. Woodbridge: Boydell Press, 2009. In _Journal of Social History_ 44.4 (2011): 1289-91.
 
-Lawrence M. Principe (ed.), _Chymists and Chymistry_. Edited by . Philadelphia: Chemical Heritage Foundation and Science History Publications, 2007. In _Pharmacy in History_ 50.1 (2008): 34-6. 
+Lawrence M. Principe (ed.), _Chymists and Chymistry_. Edited by . Philadelphia: Chemical Heritage Foundation and Science History Publications, 2007. In _Pharmacy in History_ 50.1 (2008): 34-6.
 
 
 
@@ -379,5 +379,3 @@ Austrian Science Fund, Humanities in the European Research Area (HERA), National
 * UNM History Graduate Advisory Committee (Fall 2014 - )
 * GMU Graduate Admissions Committee (2012-13)
 * GMU History Day Organizer (2009-2012)
-
-
