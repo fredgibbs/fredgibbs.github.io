@@ -5,8 +5,6 @@ title: projects | fredgibbs
 
 # Books
 
-{% include figure.html src="" caption="" %}
-
 ## Poison, Medicine, and Disease in Late Medieval and Early Modern Europe
 This manuscript (reviewed and accepted for publication at Routledge; currently under copyediting) explores late medieval and early modern medical debates about the nature of poison (_venenum_). Drawing from an unusually wide range of medical and natural philosophical texts&#8211;especially treatises on poison, pharmacy, pharmacology, plague, and the nature of disease&#8211;this book explores a neglected but enlightening ontological debate about the existence of a category of substance fundamentally harmful to the human body (that is, poison) and the corresponding implications for medical theory and practice.
 
@@ -38,10 +36,10 @@ This project was an experiment to see if a small academic workshop (on speculati
 # Earlier Digital History Experiments
 
 ## Metadata Improvement VIA Mapping (MIVIAM)
-This project developed a prototype (initially funded by the Mellon Foundation) to ease the process of mapping historical data and clean up (inevitably) messy data in the process. MIVIAM's rich user interface allows users to map specific sets of data---about which they have expertise---and thus can easily recognize and correct problems with metadata, thus improving their own maps and making the data more useful for everyone else at the same time. 
+This project developed a prototype (initially funded by the Mellon Foundation) to ease the process of mapping historical data and clean up (inevitably) messy data in the process. MIVIAM's rich user interface allows users to map specific sets of data---about which they have expertise---and thus can easily recognize and correct problems with metadata, thus improving their own maps and making the data more useful for everyone else at the same time.
 
 ## Reframing the Victorians
-With funding from one of the twelve [Google Digital Humanities Grants](http://googleblog.blogspot.com/2010/07/our-commitment-to-digital-humanities.html), Dan Cohen and I explored the massive corpus of Victorian literature held at Google Books in order to reevaluate and complicate the stereotypical characterizations of the Victorians based on anecdotal sampling of the traditional literary canon. 
+With funding from one of the twelve [Google Digital Humanities Grants](http://googleblog.blogspot.com/2010/07/our-commitment-to-digital-humanities.html), Dan Cohen and I explored the massive corpus of Victorian literature held at Google Books in order to reevaluate and complicate the stereotypical characterizations of the Victorians based on anecdotal sampling of the traditional literary canon.
 
 ## Digging Into Data: Criminal Intent
 The [Criminal Intent](http://criminalintent.org) project demonstrates the potential roles for text mining in historical practice, showing that greater historical rigor can be achieved, and new insights gained, by moving from a single trial or narrow run of relevant examples to an analysis of statistically significant textual patterns found in [Proceedings of the Old Bailey](http://oldbaileyonline.org), London’s central criminal court over a period of 240 years, as a single, massive whole. In addition to the Old Bailey Proceedings, our work builds on the successes of [Zotero](http://zotero.org) virtual collections, [TAPoR](http://portal.tapor.ca/portal/portal) and [Voyeur analytics](voyeurtools.org).
@@ -58,10 +56,10 @@ My work centered on citation formatting, an effort fundamentally about abstracti
 As the web developer and designer for the UW Center for the Humanities, I worked closely with the directors and staff to help redefine and modernize their web presence, as well as to identify ways of using the website to carry out the Center’s core mission. This has entailed establishing and documenting best practices for how to better integrate content creation and deployment with the Center’s workflow.
 
 ## UW Student Academic Affairs
-I architected, designed, coded, and implemented a robust content management system for a conglomeration of about twenty separate programs under the SAA administrative umbrella. I embarked on a three-year plan to gradu- ally implement new features while managing productive relationships with each of the constituents. 
+I architected, designed, coded, and implemented a robust content management system for a conglomeration of about twenty separate programs under the SAA administrative umbrella. I embarked on a three-year plan to gradu- ally implement new features while managing productive relationships with each of the constituents.
 
 ## USDA Farm Energy Self Assessment
-As the lead designer and programmer, I focused on designing the clearest possible user interfaces to help farmers reduce energy costs. On a larger scale, I also served as a project manager, developing milestone driven timelines, as well as to establish more efficient processes for content review and testing efforts among the core team. 
+As the lead designer and programmer, I focused on designing the clearest possible user interfaces to help farmers reduce energy costs. On a larger scale, I also served as a project manager, developing milestone driven timelines, as well as to establish more efficient processes for content review and testing efforts among the core team.
 
 ## Freelance Web Design
 I've been fortunate to work with over a dozen different organizations and research scholars to create websites that best reflect their individual personalities and goals. The cumulative experience remains highly influential on my sense of design, interaction, usability, and how scholars most comfortable with text tend to think in terms technological familiarity rather than innovative possibilities. 
