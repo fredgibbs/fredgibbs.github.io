@@ -70,7 +70,9 @@ If you haven't found it already, I highly recommend that you use [Atom](https://
 We'll use our new knowledge of the command line and several tutorials to help us install Jekyll (which is what GitHub uses) and manage our websites more easily. First, we'll talk about different strategies for and reasons why you might want to be more hands on with your own digital presence.
 
 ### Before class (why you might care about your own website)
-It is not necessary to read each of these in great depth, but you should skim through each to take away what you find interesting. This reading list is a bit long simply to provide a number of perspectives and considerations, not because they are all essential readings.
+It is not necessary to read each of these in great depth, but you should skim through each to take away what you find interesting. This reading list is a bit long simply to provide a number of perspectives and considerations, not because they are all absolutely essential readings.
+
+For your response essay: please comment on what you found attractive or repulsive about the readings in terms of professional identity? Any interesting perspectives you hadn’t considered? Particularly specious arguments? Omissions?
 
 Christopher P. Long, [The Googled Graduate Student](http://cplong.org/2013/09/the-googled-graduate-student/).
 
