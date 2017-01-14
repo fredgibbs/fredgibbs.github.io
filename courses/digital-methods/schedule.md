@@ -58,12 +58,20 @@ We'll work through some basic examples with the Command Line and Pandoc and trou
 - Another tool to note: [ImageMagick](http://www.imagemagick.org/script/index.php).
 - Create a simple website with GitHub Pages.
 
+### Useful References
+[GitHub Markdown Reference Guide](https://guides.github.com/features/mastering-markdown/) and a more [stylized PDF](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf). This [Markdown sandbox](http://daringfireball.net/projects/markdown/dingus) allows you to experiment and see what your Markdown will look like in HTML and on a webpage.
+
+If you haven't found it already, I highly recommend that you use [Atom](https://atom.io) as your text editor.
+
+
 
 ## 3: Digital Publishing
 
 We'll use our new knowledge of the command line and several tutorials to help us install Jekyll (which is what GitHub uses) and manage our websites more easily. First, we'll talk about different strategies for and reasons why you might want to be more hands on with your own digital presence.
 
 ### Before class (why you might care about your own website)
+It is not necessary to read each of these in great depth, but you should skim through each to take away what you find interesting. This reading list is a bit long simply to provide a number of perspectives and considerations, not because they are all essential readings.
+
 Christopher P. Long, [The Googled Graduate Student](http://cplong.org/2013/09/the-googled-graduate-student/).
 
 Jentery Sayers, [Do You Need Your Own Website while on the Job Market](http://www.chronicle.com/blogs/profhacker/do-you-need-your-own-website-while-on-the-job-market/35825).
@@ -76,11 +84,20 @@ Chuck Tyron, [Blogging, Scholarship, and the Networked Public Sphere](http://med
 
 Kim Barbour and David Marshall, [The Academic Online: Constructing Persona Through the World Wide Web](http://journals.uic.edu/ojs/index.php/fm/article/view/3969/3292).
 
+Also, read through the tutorials below so that you can start to conceptualize what we'll be doing. Come to class with lots of questions about these, which we can address before we start and as we go. If you'd like to jump into the tutorials and do them, that's great, but it's more important to build familiarity with the various tools and steps to get them running.
+
 ### In class
-Amanda Visconti, [Building a static website with Jekyll and GitHub Pages](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages).
+We're going to set up our websites locally (that is, on our own computers) so that we don't have to do everything via GitHub. We'll install Jekyll, the software that GitHub Pages uses to make our websites (but first we have to install some software that Jekyll requires). The tutorials can get confusing, we're going to go through them together with some deviations.
 
-Keith Miyake, [Create Your (FREE) Website Using Github and Jekyll](http://digitalfellows.commons.gc.cuny.edu/2016/03/21/create-your-free-website-using-github-and-jekyll/).
+- Zotero, Zotfile, and Dropbox
+- Review of previous technologies and a few related examples.
+- Brief introduction to GitHub Desktop and review of branches.
+- We are going to work through Amanda Visconti, [Building a static website with Jekyll and GitHub Pages](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages). There is some review of what we did last time, so it should seem familiar, and you can skip some of the steps. Follow the relevant Mac or Windows instructions when they diverge under the "Installing Dependencies" section. - **Stop at the "Setting up Jekyll" section because we've already got a website to connect to.**
+- We won't be using the automatic blog feature of Jekyll for now, so you should read through that section, but don't worry about doing it.
 
+For another perspective and for reference, see Keith Miyake, [Create Your (FREE) Website Using Github and Jekyll](http://digitalfellows.commons.gc.cuny.edu/2016/03/21/create-your-free-website-using-github-and-jekyll/).
+
+Remember: once you start using git on the command line, you can always [undo just about anything](https://github.com/blog/2019-how-to-undo-almost-anything-with-git).
 
 
 ## 4: Typography + HTML + CSS
