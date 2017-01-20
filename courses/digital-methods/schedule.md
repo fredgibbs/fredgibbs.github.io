@@ -15,6 +15,18 @@ In general, we will spend the beginning part of classes talking about the assign
 
 Very rarely are all readings listed required (though all assignments are); I try to list relevant readings that I think are worth knowing about and allow everyone to focus on what's most interesting to them and bring their interests and perspectives to our discussions.
 
+## Spy on your colleagues
+- [Angelica](https://sasariti.github.io/)
+- [Jonathan](https://quintj.github.io/)
+- [Josh](https://joshuarrrr.github.io/)
+- [Kaitlyn](https://k8lyn6.github.io/)
+- [Marisol](https://filamarisol.github.io/)
+- [Nicholas](nrholterman.github.io)
+- [Paula](https://pr-curtis.github.io/)
+- [Sarah](https://spswanz.github.io/)
+- [Scott](https://skirycki.github.io/)
+
+
 
 ## 1: Ethos of Digital Humanities / Digital Historiography
 
