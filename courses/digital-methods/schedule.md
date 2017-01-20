@@ -119,10 +119,19 @@ Getting a handle on the fundamentals of design and typography goes a long way in
 
 ### Before class
 [Thinking with Type](http://thinkingwithtype.com)
+[Intro to HTML and CSS](http://learn.shayhowe.com/html-css/) (read through chapter 6)
 
 ### In class
-Various HTML and CSS tutorials
-
+- Command line + pandoc review; ImageMagick
+- GitHub Desktop tour
+- Publish your essays online
+- Using branches to edit your CV
+- Using git on the command line
+- Review and clarify the HTML and CSS tutorials
+- Fork demo repository for sample code
+- Begin styling your own site/pages
+- Introduction to Jekyll includes
+- Introduction to Jekyll templates?
 
 
 ## 5: Digital Spatial History
@@ -185,7 +194,7 @@ Shlomo Argamon et al., [Gender, Race, and Nationality in Black Drama, 1950-2006:
 ### In class
 - Load some of your texts into [Voyant](http://voyant-tools.org/) and write a critique of one of the [projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/)    
 - Get some of your research data loaded into [Bookworm](http://bookworm.culturomics.org/).
-
+- Play around with [Timeline Curator](http://www.cs.ubc.ca/group/infovis/software/TimeLineCurator/).
 
 ## SPRING BREAK
 
