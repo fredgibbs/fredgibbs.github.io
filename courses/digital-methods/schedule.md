@@ -17,6 +17,7 @@ Very rarely are all readings listed required (though all assignments are); I try
 
 ## Spy on your colleagues
 - [Angelica](https://sasariti.github.io/)
+- [Imani](https://imanico.github.io/)
 - [Jonathan](https://quintj.github.io/)
 - [Josh](https://joshuarrrr.github.io/)
 - [Kaitlyn](https://k8lyn6.github.io/)
