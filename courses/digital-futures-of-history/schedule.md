@@ -59,6 +59,7 @@ Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of M
 Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” _Archival Science: International Journal on Recorded Information_ 2 (2002): 21–43.
 
 #### History Project Explorations
+- [UM Millennium Project](http://umhistory.dc.umich.edu/history/index.html)
 - [The Making Of Ann Arbor](http://moaa.aadl.org/moaa)
 - [UM 2017 History](http://um2017.org/2017_Website/Entry_Page.html)
 - [UM History site](http://umhistory.org/history/index.html)
