@@ -58,9 +58,14 @@ Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of M
 
 Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” _Archival Science: International Journal on Recorded Information_ 2 (2002): 21–43.
 
+#### History Project Explorations
+- [The Making Of Ann Arbor](http://moaa.aadl.org/moaa)
+- [UM 2017 History](http://um2017.org/2017_Website/Entry_Page.html)
+- [UM History site](http://umhistory.org/history/index.html)
+- [AA Historic Maps Project](http://um2017.org/2017_Website/AA_MAPS.html)
 
 ### Wednesday
-Sheila A. Breannan, [Public, First](http://dhdebates.gc.cuny.edu/debates/text/83).
+Sheila A. Brennan, [Public, First](http://dhdebates.gc.cuny.edu/debates/text/83).
 
 Andrew Hurley, “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” _The Public Historian_ 38, no. 1 (2016): 69–88.
 
