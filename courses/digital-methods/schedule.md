@@ -123,16 +123,20 @@ Getting a handle on the fundamentals of design and typography goes a long way in
 [Intro to HTML and CSS](http://learn.shayhowe.com/html-css/) (read through chapter 6)
 
 ### In class
+- Zotero, Zotfile, and Dropbox (neglected last time)
 - Command line + pandoc review; ImageMagick
 - GitHub Desktop tour
-- Publish your essays online
 - Using branches to edit your CV
 - Using git on the command line
 - Review and clarify the HTML and CSS tutorials
 - Fork demo repository for sample code
-- Begin styling your own site/pages
-- Introduction to Jekyll includes
-- Introduction to Jekyll templates?
+- Jekyll, Markdown, HTML, CSS localhost review
+- Introduction to [Jekyll includes and templates](https://jekyllrb.com/docs/includes/)
+- Begin fleshing out and styling your own site/pages
+  - Home (index.md)
+  - About
+  - 698-Portfolio
+  - CV
 
 
 ## 5: Digital Spatial History
