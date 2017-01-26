@@ -119,8 +119,9 @@ Remember: once you start using git on the command line, you can always [undo jus
 Getting a handle on the fundamentals of design and typography goes a long way in improving communication. We're going to practice typography with our CVs.
 
 ### Before class
-[Thinking with Type](http://thinkingwithtype.com)
-[Intro to HTML and CSS](http://learn.shayhowe.com/html-css/) (read through chapter 6)
+- [Thinking with Type](http://thinkingwithtype.com)
+- [Intro to HTML and CSS](http://learn.shayhowe.com/html-css/) (read through chapter 6)
+- [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
 
 ### In class
 - Zotero, Zotfile, and Dropbox (neglected last time)
@@ -132,12 +133,13 @@ Getting a handle on the fundamentals of design and typography goes a long way in
 - Fork demo repository for sample code
 - Jekyll, Markdown, HTML, CSS localhost review
 - Introduction to [Jekyll includes and templates](https://jekyllrb.com/docs/includes/)
+- CSS Frameworks (like http://getskeleton.com)
 - Begin fleshing out and styling your own site/pages
   - Home (index.md)
   - About
   - 698-Portfolio
   - CV
-
+- Start playing with more complex web frameworks (like [Bootstrap](http://getbootstrap.com))
 
 ## 5: Digital Spatial History
 
