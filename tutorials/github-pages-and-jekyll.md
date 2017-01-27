@@ -4,14 +4,18 @@ title: Create a website with GitHub Pages and Jekyll
 date: 2017-01-27 00:00:00
 ---
 
-_A Condensed and slightly modified version of [Amanda Visconti's excellent _PH_ tutorial](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages)_
+_A Condensed and slightly modified version of [Amanda Visconti's excellent Programming Historian tutorial](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages)_
+
+[sample repository](https://github.com/fredgibbs/hello-world-fg)
+
 
 ## Getting started with GitHub Pages
 - Read and complete **UP TO** step 2 of this [short Repository tutorial](https://guides.github.com/activities/hello-world/).
   - Check box to create README
-- Click "Create new file" button; name it `index.md`.
-- In the edit pane, create a webpage.
-  - You can hit preview, then save
+- Click "Create new file" button; name it `index.html`.
+- Copy what you see at the [sample repository](https://github.com/fredgibbs/hello-world-fg).
+- Save your changes with the Commit button
+- Create and save the main.css file, too.
 - Go to "Settings tab, and scroll down to the "GitHub Pages" section
 - Select master branch. Find the link for your website at the top of that section. It should look like `USERNAME.github.io/hello-world`
 - If you get 404 error, just wait a few minutes.
