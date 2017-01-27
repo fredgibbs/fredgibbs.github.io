@@ -5,6 +5,8 @@ title: tutorials | fredgibbs
 
 # Tutorials
 
+## Digital Publishing
+- [GitHub Pages and Jekyll](github-pages-and-jekyll.html)
 
 ## QGIS
 - [Making a Map](qgis/making-a-map-with-qgis.html)

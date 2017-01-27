@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Values and Processes of Programming Historian</title>
+
+		<meta name="description" content="An overview of what the Programming Historian is and why">
+		<meta name="author" content="Fred Gibbs">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+		<link rel="stylesheet" href="../../css/reveal/reveal.css">
+		<link rel="stylesheet" href="../../css/reveal/theme/dll.css" id="theme">
+
+		<!-- Code syntax highlighting -->
+		<link rel="stylesheet" href="../../js/reveal/lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? '../../css/reveal/print/pdf.css' : '../../css/reveal/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section data-transition="fade">
+					<h1>The Programming Historian</h1>
+					<h3>Processes<br>+</br>Products</h3>
+					<p>
+						<small><a href="http://fredgibbs.net">fred gibbs</a> / <a href="http://twitter.com/fredgibbs">@fredgibbs</a></small>
+					</p>
+				</section>
+
+				<section>
+					<h1>Introduction</h1>
+				</section>
+
+				<section>
+					<h2>What?</h2>
+					<img src"">
+					<p class="fragment">
+						The Programming Historian offers novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate their research.</p>
+				</section>
+
+				<section data-transition="fade">
+					<h2>Who?</h2>
+					<h3>Entirely volunteer driven</h3>
+					<p class="fragment">editors, authors, reviewers, and random contributors we don’t even know.<p>
+				</section>
+
+				<section data-transition="fade">
+
+					<h4 class="blue">Lesson Authors</h4>
+					<p class="gray" style="font-size: 50%; color:#aaa">Kellen Kurschinski, Seth Bernstein, James Baker, Amanda Morton, Dennis Tenen, Grant Wythoff, Shawn Graham, Scott Weingart, Jim Clifford, Daniel Macfarlane, Josh MacFadyen, Jon Crump, Vilja Hulden, Marten Düring, Max De Wilde, Ruben Verborgh, Seth van Hooland, Jonathan Reeve, Spencer Roberts, Doug Knox, Heather Froehlich, Laura Turner O’Hara, Matthew Lincoln, Sarah Simpkin, Megan R. Brett, Brandon Walsh, Ted Dawson, M. H. Beals, Elizabeth Venditto, Jacob W. Greene, Jeanette Sewell, Boris Capitanu, Peter Organisciak<p>
+					<h4 class="fragment blue" style="margin-top:1em">Reviewers</h4>
+					<p class="fragment" style="font-size: 50%; color:#aaa">Celeste Tưởng Vy Sharpe, Matthew Lincoln, Shawn Graham, Patrik Persson, Daniel van Strien, Andrew Dunning, milaoiva, Amanda Morton, Eira Tansey, Jim Clifford, James Baker, Jonathan Reeve, Jacob W Greene, Luke Bergmann, Kim Pham, John Fink, silviaegt, Patrick Burns, John Levin, bmw9t, Adam Crymble, Evan Taparata, M. H. Beals, Mary Beth Start, Robert Blades, Ian Milligan, John Laudun, Konrad Lawson, Nora McGregor, Dennis Tenen, William J Turkel, Taryn Dewar, Finn Arne Jørgensen, Jeff Bain-Conkin, Nick Pearce, Amanda Visconti, Eli Pousson, Sarah Simpkin, Aurélien Berra, Fred Gibbs, Chris Forster, W. Caleb McDaniel, Nick Ruest, Miriam Posner, Dave Shepard, Thomas J. Duck, Eduardo Sanchez, Spencer Roberts, Sheila Brennan, Sara Palmer, Jeff Veitch, Tim Compeau, Stéfan Sinclair, Catherine DeRose, Jane Winters, Sharon Howard, Nancy Lemay, Ethan Miller, Lisa Spiro, Paige Morgan, Jamie Howe, John Russell, Charlotte Tupman, Erin N. Bush, Derek Price, Michelle Moravec, Ezra Brooks, Russell Alleen-Willems, Brandon Hawk, Guy McClellan, Jonathan Blaney, Tessa C Hausewdell, Jonanna Swafford, Nabeel Siddiqui, Rob Sieczkiewicz, Ben Hurwitz, Patrick Murray-John, Jason Heppler, Will Hanley, Peter Webster, Ryan Cordell, Justin Larsen, Jason Crider, Sean Morey<p>
+				</section>
+
+
+				<section>
+					<h2>Why?</h2>
+					<p class="fragment">Historians <span class="strike my-highlight-red">don't</span> program</p>
+				</section>
+
+
+				<section>
+					<a href="http://programminghistorian.org/lessons" target="_blank">programminghistorian.org &rarr;</a>
+				</section>
+
+				<section>
+					<h1>Maintaining a Project Site</h1>
+				</section>
+
+				<section>
+					<h2>Dynamic site</h2>
+					<ul>
+						<li class="fragment">Wordpress, Drupal</li>
+						<li class="fragment">database driven</li>
+						<li class="fragment">easy administrative tools</li>
+						<li class="fragment">ubiquitous</li>
+						<li class="fragment my-highlight-red">but...</li>
+					</ul>
+				</section>
+
+
+				<section>
+					<h2>Document States</h2>
+					<ul>
+					<li class="fragment">new submissions</li>
+					<li class="fragment">editorial engagement</li>
+					<li class="fragment">revisions</li>
+					</ul>
+					<p class="fragment my-highlight-red">= lots of WordPress hacking</p>
+				</section>
+
+				<section>
+					<h2>Administrative Bloat</h2>
+					<ul>
+					<li class="fragment">complex interfaces for simple things</li>
+					<li class="fragment">software/component maintenance</li>
+					<li class="fragment">language barriers</li>
+					<li class="fragment">abstraction penalties</li>
+
+					<li class="fragment my-highlight-red">Platform dictated process/form</li>
+						<ul>
+						<li class="fragment my-gray">avoided editing</li>
+						<li class="fragment my-gray">avoided experimenting</li>
+						</ul>
+					</ul>
+				</section>
+
+				<section>
+					<h2>Static site</h2>
+					<ul>
+						<li class="fragment">file based</li>
+						<li class="fragment">maintenance</li>
+						<li class="fragment">preservation</li>
+						<li class="fragment">security</li>
+						<li class="fragment">precision/customization</li>
+						<li class="fragment">experimentation</li>
+					</ul>
+				</section>
+
+
+				<section data-transition="fade">
+					<h2>GitHub Features</h2>
+					<ul>
+					<li class="fragment">free hosting</li>
+					<li class="fragment">minimum overhead</li>
+					<li class="fragment"><a href="https://github.com/programminghistorian/jekyll" target="_blank">direct file editing (+ offline) &rarr;</a></li>
+					<li class="fragment"><a href"https://github.com/programminghistorian/jekyll/commit/cbde2ab226c11d202d478ee276bf78fec9d06065" target="_blank">version control &rarr;</a></li>
+					<li class="fragment">fundamentally collaborative</li>
+					<li class="fragment"><a href="https://github.com/programminghistorian/jekyll/issues" target="_blank">issue tracking &rarr;</a>
+						<ul><li class="fragment my-gray">did we talk about this?</li>
+						<li class="fragment my-gray">why did we do that?</li>
+						<li class="fragment my-gray">whatever happened with that?</li>
+					</ul>
+					</li>
+					<li class="fragment"><a href="https://github.com/programminghistorian/jekyll/issues/193#issuecomment-275692867" target="_blank">constantly evolving &rarr;</a></li>
+					</ul>
+				</section>
+
+
+				<section>
+					<h1>Editorial Review</h1>
+				</section>
+
+				<section>
+					<h2>Editorial Values</h2>
+					<ul>
+					<li class="fragment">openness</li>
+					<li class="fragment">transparency</li>
+					<li class="fragment">rigorous peer review</li>
+					<li class="fragment">collaborative learning</li>
+					<li class="fragment">accountability</li>
+					</ul>
+			</section>
+
+
+				<section>
+					<h2>Submission Process</h2>
+					<ul>
+					<li class="fragment">initial consultation</li>
+					<li class="fragment">editorial discussion</li>
+					<li class="fragment">lesson development</li>
+					<li class="fragment">authors create GitHub account</li>
+					<li class="fragment"><a href="https://github.com/programminghistorian/ph-submissions/graphs/contributors" target="_blank">added as collaborator &rarr;</a></li>
+					<li class="fragment"><a href="https://github.com/programminghistorian/ph-submissions/commits/gh-pages/lessons/geocoding-qgis.md" target="_blank">commit lesson &rarr;</a></li>
+					<li class="fragment"><a href="https://github.com/programminghistorian/ph-submissions/issues/34" target="_blank">review ticket &rarr;</a></li>
+					<li class="fragment">merge lesson into main site</li>
+					</ul>
+				</section>
+
+				<section>
+					<h2>Lesson Formatting</h2>
+					<ul>
+					<li class="fragment">plain text</li>
+					<li class="fragment">use a text editor like <a href="https://atom.io" target="_blank">atom &rarr;</a></li>
+					<li class="fragment">mark<span class="my-highlight-red">down</span></li>
+					<li class="fragment"><a href="http://markdown-here.com/livedemo.html" target="_blank">live demo &rarr;</a></li>
+					<li class="fragment"><a href="http://packetlife.net/media/library/16/Markdown.pdf">cheatsheet &rarr;</a></li>
+					<li class="fragment">let's compare HTML and Markdown</li>
+					</ul>
+				</section>
+
+
+				<section data-transition="fade">
+					<h2>Digital Publishing Goals</h2>
+					<ul>
+					<li class="fragment">exploration</li>
+					<li class="fragment">product + process</li>
+					<li class="fragment">mutual learning</li>
+					<li class="fragment">self-enforced peer review</li>
+					<li class="fragment">open and public critiques</li>
+					<ul class="fragment my-gray"><li>guided by <span class="my-highlight-red">DIGITAL</span> criteria</li></ul>
+					</ul>
+				</section>
+
+				<section>
+					<h1>The End</h1>
+					<h2>Thank you</h2>
+					<h3>Get in touch</h3>
+					<p><span class="my-highlight-red">fwgibbs@gmail.com</span></p>
+				</section>
+
+			</div>
+
+		</div>
+
+		<script src="../../js/reveal/lib/js/head.min.js"></script>
+		<script src="../../js/reveal/js/reveal.js"></script>
+
+		<script>
+
+			// Full list of configuration options available at:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				transitionSpeed: 'slow',
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: '../../js/reveal/plugin/zoom-js/zoom.js', async: true },
+					{ src: '../../js/reveal/plugin/notes/notes.js', async: true }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
