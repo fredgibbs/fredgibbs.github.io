@@ -1,18 +1,18 @@
 ---
-layout: course2015 
-title: Introduction to Digital Humanities 
+layout: course2015
+title: Introduction to Digital Humanities
 term: Spring 2017
 number: HIST 698-002
 date: 2014-04-15 00:00:00
 section: home
-css: digital-methods 
+css: digital-methods
 ---
 
-## Get Help
 Fred Gibbs \([fwgibbs@umich.edu](mailto:fwgibbs@umich.edu)\)    
+Office Hours: W 1:30-2:30 & 4-5; Th 12-1. 1703 Haven.
 
 ## Course Description
-This course explores new theoretical and methodological possibilities now available to historians working in the digital age. Combining provocative readings from the digital humanities with introductory tutorials on various digital methods (which build technical proficiency generally), we’ll talk about and experiment with powerful new research methodologies that now allow historians to ask and answer fundamentally different kinds of questions and innovatively communicate about them with new media. 
+This course explores new theoretical and methodological possibilities now available to historians working in the digital age. Combining provocative readings from the digital humanities with introductory tutorials on various digital methods (which build technical proficiency generally), we’ll talk about and experiment with powerful new research methodologies that now allow historians to ask and answer fundamentally different kinds of questions and innovatively communicate about them with new media.
 
 With an emphasis on collaborative teaching and learning, we'll explore topics such as digital workflows for accessing or organizing sources, data visualization, digital mapping and geospatial analysis, topic modeling, and network analysis. We'll also examine new models for peer review and academic publishing, develop skills in web typography and design, and create a short video. This course both challenges and complements typical history methods courses, as well as provides strategies for effectively combining qualitative and quantitative research skills. Over the course of the semester, students will design, code, and publish their own website that will showcase their research and digital skills. No technical skills or experience is required for this course, but you will need to have a laptop that you can bring to class.
 
