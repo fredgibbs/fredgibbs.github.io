@@ -150,21 +150,34 @@ Anne Kelly Knowles, [A More Humane Approach to Digital Scholarship](http://param
 
 David J. Bodenhamer, "The Spatial Humanities: Space, Time and Place in the New Digital Age," in Tony Weller (ed.), _History in the Digital Age_ (London: Routledge, 2013), 23-38.
 
-I. N. Gregory and A. Hardie, “Visual GISting: Bringing Together Corpus Linguistics and Geographical Information Systems,” _Literary and Linguistic Computing_ 26, no. 3 (2011): 297–314.
-
-Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. Fiction."
-
 
 ### In class
-We'll work through the process of creating a basic Google Map from historical sources. The point isn't to make super sexy maps, but to understand all the steps involved in the process and how you should or should not apply various mapping techniques in your own work.
+- Zotero, Zotfile, and Dropbox (neglected last time, again)
+- Using branches for working copies of files
+- Using and learning from CSS Frameworks (like [skeleton](http://getskeleton.com))
+- Continue fleshing out and styling your own site/pages
+  - Home (index.md)
+  - About
+  - 698-Portfolio
+  - CV
+- Start playing with more complex web frameworks (like [Bootstrap](http://getbootstrap.com))
 
+After we get a little more situated with our portfolios we'll turn to the mapping articles for this week. Then, playing around with maps:
 
-Understand the [basics of KML](https://developers.google.com/kml/documentation/kml_tut) and ways of sharing data.
+- [Google Maps tutorial](http://programminghistorian.org/lessons/googlemaps-googleearth)
+- Google Earth and Historic Maps
+- [Carto](https://carto.com)
+- [MapBox](https://www.mapbox.com/showcase/)
+- [Leaflet](http://leafletjs.com)
 
 
 ## 6: Mapping with QGIS
 
 ### Before class
+I. N. Gregory and A. Hardie, “Visual GISting: Bringing Together Corpus Linguistics and Geographical Information Systems,” _Literary and Linguistic Computing_ 26, no. 3 (2011): 297–314.
+
+Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. Fiction."
+
 Prepare reviews of some relevant [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/).
 
 Download and install [QGIS](http://www.qgis.org/en/site/). Note: if you have a Mac, you have to install 2 required packages before installing QGIS; follow the instructions carefully (kyngchaos is your friend)! We'll troubleshoot any installation issues and go over the interface and other basic GIS concepts in class.
