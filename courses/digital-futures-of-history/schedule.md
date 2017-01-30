@@ -73,17 +73,15 @@ Andrew Hurley, “Chasing the Frontiers of Digital Technology: Public History Me
 Bruce Wyman et al., “Digital Storytelling in Museums: Observations and Best Practices,” _Curator: The Museum Journal_ 54, no. 4 (2011): 461–68.
 
 
-## 5: Data and Stories
+## 5: Narrative and Urban Histories
 
 ### Monday
 Hayden White, “The Value of Narrativity in the Representation of Reality,” _Critical Inquiry_ 7, no. 1 (1980): 5–27.
 
-
 ### Wednesday
-Scott Weingart, [Lessons From Digital History’s Antecedents](http://scottbot.net/lessons-from-digital-historys-antecedents/).
+David C. Perry and Wim Wiewel, "From Campus to City: The University as Developer," available via [Google Books](https://books.google.com/books?hl=en&lr=&id=ocbKBgAAQBAJ&oi=fnd&pg=PA3&dq=campus+and+city+history&ots=SOt1cHgqwI&sig=uJRK7IA_pq1syp_8s97YYq0iuEk#v=onepage&q&f=false.)
 
-Tim Hitchcock, [Historyonics: Academic History Writing and the Headache of Big Data](http://historyonics.blogspot.com/2012/01/academic-history-writing-and-headache.html).
-
+Dolores Hayden, "Place, Memory, and Urban Preservation," in _The Power of Place_, 44-78.
 
 
 ## 6: The Importance of Critique
