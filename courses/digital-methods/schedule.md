@@ -154,21 +154,24 @@ David J. Bodenhamer, "The Spatial Humanities: Space, Time and Place in the New D
 ### In class
 - Zotero, Zotfile, and Dropbox (neglected last time, again)
 - Using branches for working copies of files
+- More on Jekyll layouts and themes
+  - Default installation and [minima theme](https://github.com/jekyll/minima).
+  - Creating your own layouts to minimize maintenance
 - Using and learning from CSS Frameworks (like [skeleton](http://getskeleton.com))
 - Continue fleshing out and styling your own site/pages
   - Home (index.md)
   - About
   - 698-Portfolio
   - CV
-- Start playing with more complex web frameworks (like [Bootstrap](http://getbootstrap.com))
+- Start getting familiar with more complex web frameworks (like [Bootstrap](http://getbootstrap.com))
 
 After we get a little more situated with our portfolios we'll turn to the mapping articles for this week. Then, playing around with maps:
 
 - [Google Maps tutorial](http://programminghistorian.org/lessons/googlemaps-googleearth)
-- Google Earth and Historic Maps
+- Google Earth and Historic Maps demo
 - [Carto](https://carto.com)
 - [MapBox](https://www.mapbox.com/showcase/)
-- [Leaflet](http://leafletjs.com)
+- If you decide you love web programming: [Leaflet](http://leafletjs.com)
 
 
 ## 6: Mapping with QGIS
@@ -268,7 +271,7 @@ Learn about [Palladio](http://hdlab.stanford.edu/palladio/), especially via the 
 
 ### In Class
 - Upload data and create a network graph with Palladio.
-- Download, install, and model texts with [Gephi](http://gephi.org), using Martin Grandjean, [GEPHI – Introduction to Network Analysis and Visualization](http://www.martingrandjean.ch/gephi-introduction/).
+- Download, install, and model texts with [Gephi](http://gephi.org), using Martin Grandjean, [GEPHI – Introduction to Network Analysis and Visualization](http://www.martingrandjean.ch/gephi-introduction/). You might also consult [another set of tutorials](https://seinecle.github.io/gephi-tutorials/).
 
 
 ## 12: Critiquing Digital Scholarship
