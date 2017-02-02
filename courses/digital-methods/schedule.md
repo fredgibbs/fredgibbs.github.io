@@ -171,6 +171,7 @@ After we get a little more situated with our portfolios we'll turn to the mappin
 - Google Earth and Historic Maps demo
 - [Carto](https://carto.com)
 - [MapBox](https://www.mapbox.com/showcase/)
+- [StoryMaps](http://story.maps.arcgis.com/home/index.html)
 - If you decide you love web programming: [Leaflet](http://leafletjs.com)
 
 
@@ -181,7 +182,7 @@ I. N. Gregory and A. Hardie, “Visual GISting: Bringing Together Corpus Linguis
 
 Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. Fiction."
 
-Prepare reviews of some relevant [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/).
+Scan through 3-5 [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/). Be prepared to highlight for everyone else the pros and cons of the sites you explored.
 
 Download and install [QGIS](http://www.qgis.org/en/site/). Note: if you have a Mac, you have to install 2 required packages before installing QGIS; follow the instructions carefully (kyngchaos is your friend)! We'll troubleshoot any installation issues and go over the interface and other basic GIS concepts in class.
 
