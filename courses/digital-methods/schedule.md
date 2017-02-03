@@ -178,26 +178,37 @@ After we get a little more situated with our portfolios we'll turn to the mappin
 ## 6: Mapping with QGIS
 
 ### Before class
+
 I. N. Gregory and A. Hardie, “Visual GISting: Bringing Together Corpus Linguistics and Geographical Information Systems,” _Literary and Linguistic Computing_ 26, no. 3 (2011): 297–314.
 
 Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. Fiction."
 
-Scan through 3-5 [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/). Be prepared to highlight for everyone else the pros and cons of the sites you explored.
-
-Download and install [QGIS](http://www.qgis.org/en/site/). Note: if you have a Mac, you have to install 2 required packages before installing QGIS; follow the instructions carefully (kyngchaos is your friend)! We'll troubleshoot any installation issues and go over the interface and other basic GIS concepts in class.
-
-Read "Introducing GIS" and "Vector Data" from this [gentle introduction to GIS](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/index.html).
-
-Return to the [gentle introduction to GIS](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/index.html), reading up through "Coordinate Reference Systems".
+- So as not to lose your hard-earned knowledge from last time, continue fleshing out and styling your own site/pages. Don't be afraid about breaking anything. You should break stuff. Remember, you can use branches to keep good working copies of your files as you experiment.
+- Complete the [Google Maps tutorial](http://programminghistorian.org/lessons/googlemaps-googleearth). Compared to what you've been doing, this is going to be SO EASY.
+- Download and install [QGIS](http://www.qgis.org/en/site/). Note: if you have a Mac, you have to install 2 required packages before installing QGIS; follow the instructions carefully (*kyngchaos* is your friend)!
 
 
 ### In class
-Work through 3 simple [Mapping with QGIS tutorials](http://fredgibbs.net/tutorials/).
 
-If you get stuck or have questions, consult the [QGIS Training Manual](http://docs.qgis.org/2.2/en/docs/training_manual/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com).
+- Readings discussion
+- Google Maps and Earth questions.
+- More on historic maps in Google Earth.
+- Troubleshoot any installation issues and go over the QGIS interface and other basic GIS concepts.
+- Work through 3 simple [Mapping with QGIS tutorials](http://fredgibbs.net/tutorials/).
+- If you get stuck or have questions, consult the [QGIS Training Manual](http://docs.qgis.org/2.2/en/docs/training_manual/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com).
+
+- Web map tools to be aware of:
+  - [StoryMaps](http://story.maps.arcgis.com/home/index.html)
+  - [Carto](https://carto.com)
+  - [MapBox](https://www.mapbox.com/showcase/)
+  - If you decide you love web programming: [Leaflet](http://leafletjs.com)
+
 
 
 ## 7: Research Trailers
+Scan through 3-5 [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/). Be prepared to highlight for everyone else the pros and cons of the sites you explored.
+
+
 Create a video about your research! We'll explore some tools and techniques for doing this, and we'll continue to discuss the videos and our production schedule throughout the semester.
 
 
