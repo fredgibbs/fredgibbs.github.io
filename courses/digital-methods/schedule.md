@@ -185,7 +185,8 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 
 - So as not to lose your hard-earned knowledge from last time, continue fleshing out and styling your own site/pages. Don't be afraid about breaking anything. You should break stuff. Remember, you can use branches to keep good working copies of your files as you experiment.
 - Complete the [Google Maps tutorial](http://programminghistorian.org/lessons/googlemaps-googleearth). Compared to what you've been doing, this is going to be SO EASY.
-- Download and install [QGIS](http://www.qgis.org/en/site/). Note: if you have a Mac, you have to install 2 required packages before installing QGIS; follow the instructions carefully (*kyngchaos* is your friend)!
+- Download and install [QGIS](http://www.qgis.org/en/site/).
+- MAC USERS: When you open the disk image that you download, you'll see 4 .pkg files that you must install in the order they are numbered.
 
 
 ### In class
