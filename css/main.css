@@ -51,7 +51,7 @@ a.navbar-brand {
 }
 
 h1,h2,h3,h4,h5 {
-font-family: 'Oswald';  
+font-family: 'Oswald';
 }
 
 h1 {
@@ -185,7 +185,7 @@ img.footer-icon {
   vertical-align:middle;
   padding:0;
   margin:0;
-  border:none; 
+  border:none;
 }
 
 
@@ -198,15 +198,15 @@ img.footer-icon {
 
 .homename {
   font-family: 'Oxygen', sans-serif;
-  font-size:400%; 
-  letter-spacing:-4px; 
-  font-weight:bold; 
-  color:#990000; 
+  font-size:400%;
+  letter-spacing:-4px;
+  font-weight:bold;
+  color:#990000;
 }
 
 .hometext {
   font-family: 'Oxygen', sans-serif;
-  font-size:120%; 
+  font-size:120%;
   line-height:1.3em;
   text-transform: uppercase;
 }
@@ -330,19 +330,19 @@ blockquote p {
   /* Reset metrics. */
   padding: 0em;
   border: 0px solid #ccc;
-  
+
   /* Content */
   content: attr(data-pullquote);
-  
+
   /* Pull out to the right, modular scale based margins. */
   float: right;
   width: 20em;
   margin: 1em 0 1em 2em;
-  
+
   /* Baseline correction */
   position: relative;
   top: 5px;
-  
+
   /* Typography (30px line-height equals 25% incremental leading) */
   font-family: Roboto;
   font-size: 120%;
@@ -353,7 +353,7 @@ blockquote p {
 .pullquote-left:before {
   float: left;
   margin: 12px 31px 24px -102px;
-  
+
   width: 251px;
 }
 
@@ -367,22 +367,12 @@ blockquote p {
 figure {
   margin: 1.5em;
   clear:both;
-}
-
-figure img {
-  max-width:40em;
-  padding:0;
-  clear:both;
+  max-width: 40em;
 }
 
 figure p {
   clear:both;
-}
-
-figure img.icon {
-  margin:.2em .5em .3em 0;
-  width: 50px;
-  float:left;
+  margin:0;
 }
 
 figure a {
@@ -391,12 +381,27 @@ figure a {
   border:none;
 }
 
+figure img {
+  max-width:40em;
+  padding:0;
+  clear:both;
+}
+
+figure img.full {
+  width:100%;
+}
+
+figure img.icon {
+  margin:0;
+  width: 50px;
+}
+
 figcaption {
   font-size: 80%;
   text-align: right;
   font-family: 'Oxygen', sans-serif;
   display:block;
-  margin:1em 1em 0em 1em;
+  margin:-.5em 2em 0em 0em;
   line-height: 1.3em;
 }
 
@@ -472,14 +477,14 @@ font-size:85%;
 
 .course-img {
   float:right;
-  padding: 0 0 1em 1em; 
+  padding: 0 0 1em 1em;
   width:300px;
 }
 
 .course-img-horiz {
   width:400px;
   float:right;
-  padding: 0 0 1em 1em; 
+  padding: 0 0 1em 1em;
 
 }
 
@@ -561,7 +566,7 @@ letter-spacing: .02em;
 /*****************************************************************************/
 
 @media screen and (max-width: 560px) {
-  
+
 a {
   color:#c70;
 }
@@ -609,24 +614,24 @@ a {
 /*
 /*****************************************************************************/
 
-@page  { 
-    size: auto;   /* auto is the initial value */ 
+@page  {
+    size: auto;   /* auto is the initial value */
 
-    /* this affects the margin in the printer settings */ 
-    margin: 25mm 25mm 25mm 25mm;  
-} 
+    /* this affects the margin in the printer settings */
+    margin: 25mm 25mm 25mm 25mm;
+}
 
 
 
 @media print {
 
 
-@page  { 
-    size: auto;   /* auto is the initial value */ 
+@page  {
+    size: auto;   /* auto is the initial value */
 
-    /* this affects the margin in the printer settings */ 
-    margin: 25mm 25mm 25mm 25mm;  
-} 
+    /* this affects the margin in the printer settings */
+    margin: 25mm 25mm 25mm 25mm;
+}
 
 
   body {
@@ -674,7 +679,7 @@ font-size: 2em;
 }
 
 #syllabus2015 p {
- padding-bottom: .8em 
+ padding-bottom: .8em
 }
 
 p, div, ul, li {
@@ -689,7 +694,7 @@ div p {
 ul li {
   font-weight: normal;
   font-size:100%;
-  page-break-inside: avoid; 
+  page-break-inside: avoid;
 }
 
 h2 {
