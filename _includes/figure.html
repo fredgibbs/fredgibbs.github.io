@@ -1,5 +1,6 @@
 <figure class="{{ include.class }}">
-<a href="{{ include.src }}"><img class="{{ include.class }}" src="{{ include.src }}" alt="{{ include.caption }}" width="250px"></a>
+<a href="{{ include.src }}"><img class="{{ include.class }}" src="{{ include.src }}" alt="{{ include.caption }}"></a>
+<!-- icons don't get captions -->
 {% if include.class != "icon" %}
 <figcaption class="{{ include.class }}">
 {{ include.caption }}
