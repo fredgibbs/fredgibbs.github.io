@@ -95,44 +95,30 @@ Robert Blackey, “Words to the Whys: Crafting Critical Book Reviews,” _The Hi
 
 
 ### Wednesday
-John Rosinbum, [Teaching the Slave Trade with Voyages: The Transatlantic Slave Trade Database](http://blog.historians.org/2016/10/teaching-slave-trade-voyages-transatlantic-slave-trade-database/).
-
-Come to class with a formal critique of Andrew J. Torget & Jon Christensen, [Mapping Texts: Visualizing American Historical Newspapers](http://journalofdigitalhumanities.org/1-3/mapping-texts-project-by-andrew-torget-and-jon-christensen/).
+No new readings! Focus on completing drafts of your essays that showcase your research so far, and start to present a story that we can publish on our website. Come to class prepared to discuss your essay and research behind it; you'll give a brief presentation/overview of what you've learned so far and where you're headed with your research. We'll critique each other's work based on advice from the readings for (last) Monday; we'll also spend some time discussing the readings in general.
 
 
-
-## 7: Critiquing Digital Scholarship
-What are the fundamental criteria for critiquing digital history projects?
-
-### Monday
-Johanna Drucker, [Humanities Approaches to Graphical Display](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html).
-
-Fred Gibbs, “The Poetics of Digital Scholarship,” in Matt Bernico and Manuela Kölke (eds.), _Ontic Flows: From Digital Humanities to Posthumanities_, 101-122. New York and Dresden: Atropos Press, 2016.
-
-
-### Wednesday
-American Historical Association, [Guidelines for the Professional Evaluation of Digital Scholarship by Historians](https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-professional-evaluation-of-digital-scholarship-by-historians).
-
-Journal of American History, [Digital History Reviews](http://jah.oah.org/submit/digital-history-reviews/).
-
-Modern Language Association, [Guidelines for Evaluating Work in Digital Humanities and Digital Media](http://www.mla.org/resources/documents/rep_it/guidelines_evaluation_digital).
-
-Todd Presner, [Evaluating Digital Scholarship](http://journalofdigitalhumanities.org/1-4/how-to-evaluate-digital-scholarship-by-todd-presner/).
-
-
-
-## 8: Digital Spatial History
+## 7: Digital Spatial History
 
 ### Monday
 Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?
 
 Anne Kelly Knowles, [A More Humane Approach to Digital Scholarship](http://parameters.ssrc.org/2016/08/a-more-humane-approach-to-digital-scholarship/).
 
-
 ### Wednesday
+Research Day
+
+
+## 8: Rethinking Campus Histories
+
+### Monday
 Gergely Baics, [Mapping as Process: Food Access in Nineteenth-Century New York](https://globalurbanhistory.com/2016/05/17/mapping-as-process-food-access-in-nineteenth-century-new-york/).
 
-Come to class with a formal critique of a [GIS Project](http://anterotesis.com/wordpress/dh-gis-projects/).
+Google 'campus history' and see what turns up. It's a mixed bag. Find something that intrigues you (it doesn't have to be on the first page). Write a 800 word critique of the project, following the advice of the articles from last week.
+
+
+### Wednesday
+Research Presentations and Critiques
 
 
 ## Spring Break
