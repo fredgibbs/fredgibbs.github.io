@@ -191,12 +191,14 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 
 ### In class
 
+- Layouts and includes review
+- CSS frameworks and boilerplates (like [skeleton](http://getskeleton.com))
 - Readings discussion
-- Google Maps and Earth questions.
-- More on historic maps in Google Earth.
+- Google Maps and Earth questions
+- More on historic maps in Google Earth
 - Troubleshoot any installation issues and go over the QGIS interface and other basic GIS concepts.
-- Work through 3 simple [Mapping with QGIS tutorials](http://fredgibbs.net/tutorials/).
-- If you get stuck or have questions, consult the [QGIS Training Manual](http://docs.qgis.org/2.2/en/docs/training_manual/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com).
+- Work through 3 simple [Mapping with QGIS tutorials](http://fredgibbs.net/tutorials/)
+- For future reference, you get stuck or have questions, consult the [QGIS Training Manual](http://docs.qgis.org/2.2/en/docs/training_manual/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com)
 
 - Web map tools to be aware of:
   - [StoryMaps](http://story.maps.arcgis.com/home/index.html)
@@ -205,13 +207,24 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
   - If you decide you love web programming: [Leaflet](http://leafletjs.com)
 
 
+## 7: GIS and Portfolio Critiques
 
-## 7: Research Trailers
-Scan through 3-5 [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/). Be prepared to highlight for everyone else the pros and cons of the sites you explored.
+### Before class
+- Scan through 3-5 [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/). Some are now defunct, others are overly technical, others are Be prepared to highlight for everyone else the intriguing and questionable features of the sites you explored. Questions to keep in mind:
+  - How does mapping/GIS figure into the project? Is it necessary?
+  - What kind of data is being used? Where is it from? Is it accessible or reusable?
+  - How much does the design of the site matter in taking it seriously?
+  - How would you rate its usability?
+- Work on your portfolios! Keep in mind the criteria below. In general, aim to do simple things well. See how simple you can make your site, but with a clear and consistent design aesthetic (and required content, of course).
 
-
-Create a video about your research! We'll explore some tools and techniques for doing this, and we'll continue to discuss the videos and our production schedule throughout the semester.
-
+### In class
+- GIS Project critiques and discussion
+- Portfolio critiques. You'll demo your portfolio for the rest of the class and explain what you're trying to do and where you've had trouble. There are two main goals here: 1) to have a deadline to keep portfolios moving forward; 2) get ideas from other people (from their own sites as well as questions/comments). Questions we will address in class for each site:
+  - Existence of basic pages and content
+  - Is there a consistent layout and navigation scheme?
+  - Typographic crimes? Consistency?
+  - Where does the design help or hinder the site and content?
+  - What is extraneous? What is missing?
 
 
 ## 8: Text Mining
@@ -229,8 +242,10 @@ Shlomo Argamon et al., [Gender, Race, and Nationality in Black Drama, 1950-2006:
 
 ### In class
 - Load some of your texts into [Voyant](http://voyant-tools.org/) and write a critique of one of the [projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/)    
-- Get some of your research data loaded into [Bookworm](http://bookworm.culturomics.org/).
-- Play around with [Timeline Curator](http://www.cs.ubc.ca/group/infovis/software/TimeLineCurator/).
+- Get some of your research data loaded into [Bookworm](http://bookworm.culturomics.org/)
+- Play around with [Timeline Curator](http://www.cs.ubc.ca/group/infovis/software/TimeLineCurator/)
+
+
 
 ## SPRING BREAK
 
