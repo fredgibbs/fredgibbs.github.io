@@ -178,7 +178,6 @@ After we get a little more situated with our portfolios we'll turn to the mappin
 ## 6: Mapping with QGIS
 
 ### Before class
-
 I. N. Gregory and A. Hardie, “Visual GISting: Bringing Together Corpus Linguistics and Geographical Information Systems,” _Literary and Linguistic Computing_ 26, no. 3 (2011): 297–314.
 
 Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. Fiction."
@@ -192,7 +191,7 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 ### In class
 
 - Layouts and includes review
-- CSS frameworks and boilerplates (like [skeleton](http://getskeleton.com))
+- CSS frameworks and boilerplates (like [skeleton](http://getskeleton.com) or [milligram](https://milligram.github.io))
 - Readings discussion
 - Google Maps and Earth questions
 - More on historic maps in Google Earth
@@ -210,6 +209,7 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 ## 7: GIS and Portfolio Critiques
 
 ### Before class
+- Gergely Baics, [Mapping as Process: Food Access in Nineteenth-Century New York](https://globalurbanhistory.com/2016/05/17/mapping-as-process-food-access-in-nineteenth-century-new-york/).
 - Scan through 3-5 [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/). It's a mixed bag. They may be defunct, overly technical, totally confusing, or kind of awesome. Be prepared to highlight for everyone else the intriguing and questionable features of the sites you explored. Questions to keep in mind:
   - How does mapping/GIS figure into the project? Is it necessary?
   - What kind of data is being used? Where is it from? Is it accessible or reusable?
