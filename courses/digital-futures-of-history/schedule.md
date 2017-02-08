@@ -98,27 +98,29 @@ Robert Blackey, “Words to the Whys: Crafting Critical Book Reviews,” _The Hi
 No new readings! Focus on completing drafts of your essays that showcase your research so far, and start to present a story that we can publish on our website. Come to class prepared to discuss your essay and research behind it; you'll give a brief presentation/overview of what you've learned so far and where you're headed with your research. We'll critique each other's work based on advice from the readings for (last) Monday; we'll also spend some time discussing the readings in general.
 
 
-## 7: Digital Spatial History
+## 7: Rethinking Campus Histories
+
+### Monday
+Google 'campus history' and see what turns up (find somewhere other than Michigan). It's a mixed bag. Find something that intrigues you (it doesn't have to be on the first page). Write a ~800 word critique of the project, following the advice of the articles from last week.
+
+
+### Wednesday
+Research Day
+
+
+## 8: Digital Spatial History
 
 ### Monday
 Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?
 
 Anne Kelly Knowles, [A More Humane Approach to Digital Scholarship](http://parameters.ssrc.org/2016/08/a-more-humane-approach-to-digital-scholarship/).
 
-### Wednesday
-Research Day
-
-
-## 8: Rethinking Campus Histories
-
-### Monday
 Gergely Baics, [Mapping as Process: Food Access in Nineteenth-Century New York](https://globalurbanhistory.com/2016/05/17/mapping-as-process-food-access-in-nineteenth-century-new-york/).
-
-Google 'campus history' and see what turns up. It's a mixed bag. Find something that intrigues you (it doesn't have to be on the first page). Write a 800 word critique of the project, following the advice of the articles from last week.
 
 
 ### Wednesday
 Research Presentations and Critiques
+
 
 
 ## Spring Break
