@@ -192,6 +192,7 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 
 - Layouts and includes review
 - CSS frameworks and boilerplates (like [skeleton](http://getskeleton.com) or [milligram](https://milligram.github.io))
+- Consider the Nav Bar (like https://mobiforge.com/design-development/mobile-friendliness-101-how-to-build-a-fixed-navigation-bar).
 - Readings discussion
 - Google Maps and Earth questions
 - More on historic maps in Google Earth
@@ -199,7 +200,10 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 - Work through 3 simple [Mapping with QGIS tutorials](http://fredgibbs.net/tutorials/)
 - For future reference, you get stuck or have questions, consult the [QGIS Training Manual](http://docs.qgis.org/2.2/en/docs/training_manual/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com)
 
-- Web map tools to be aware of:
+- Web map tools/resources to be aware of:
+  - [MapWarper](http://mapwarper.net)
+  - [MapAnalyst](http://www.mapanalyst.org/index.html)
+  - [Historic Census Data](https://www.nhgis.org)
   - [StoryMaps](http://story.maps.arcgis.com/home/index.html)
   - [Carto](https://carto.com)
   - [MapBox](https://www.mapbox.com/showcase/)
