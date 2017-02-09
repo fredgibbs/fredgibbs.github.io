@@ -190,6 +190,7 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 
 ### In class
 
+- Jekyll gems themes review
 - Layouts and includes review
 - CSS frameworks and boilerplates (like [skeleton](http://getskeleton.com) or [milligram](https://milligram.github.io))
 - Consider the Nav Bar (like https://mobiforge.com/design-development/mobile-friendliness-101-how-to-build-a-fixed-navigation-bar).
