@@ -268,20 +268,27 @@ Under what circumstances are these techniques useful? How can they be used most 
 
 
 ## 10: Topic Modeling
+The best way to get a handle on topic modeling is to read a variety of explanations. Most aren't very long, and the longest tend to be overviews of topic modeling in practice rather than technical explanations.
 
 ### Before class
-Ted Underwood, [Topic Modeling Made Just Simple Enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/).
-
 Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
 
-Andrew Goldstone and Ted Underwood, "The Quiet Transformations of Literary Studies: What Thirteenth Thousand Scholars Could Tell Us."
+Ted Underwood, [Topic Modeling Made Just Simple Enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/).
 
-Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
+David M. Blei, [Topic Modeling and Digital Humanities](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/).
+
+Andrew Goldstone and Ted Underwood, [What Can Topic Models of PMLA Teach Us about the History of Literary Scholarship?](http://tedunderwood.com/2012/12/14/what-can-topic-models-of-pmla-teach-us-about-the-history-of-literary-scholarship/). For a much and longer and more nuanced development of these ideas, see Andrew Goldstone and Ted Underwood, "The Quiet Transformations of Literary Studies: What Thirteenth Thousand Scholars Could Tell Us."
+
+Rachel Sagner Buurma, "The Fictionality of Topic Modeling: Machine Reading Anthony Trollope’s Barsetshire Series"
 
 Cameron Blevins, [Topic Modeling Martha Ballard's Diary](http://historying.org/martha-ballards-diary/).
 
+Want more? You'll find plenty more links to different kinds of articles (and some of the ones above) with Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://scottbot.net/topic-modeling-for-humanists-a-guided-tour/).
+
+
 ### In class
 - Install and use [MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet) to topic model some of your sources.
+- As you get some results, you'll want to consult this [guide on interpreting results](http://miriamposner.com/blog/?p=1335).
 - Load up some of your sources into [Overview](https://www.overviewdocs.com/), and compare what you can learn from "raw" topic modeling with MALLET and Overview's presentation of your documents.
 
 
