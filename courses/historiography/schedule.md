@@ -1,5 +1,5 @@
 ---
-layout: course2015 
+layout: syllabus 
 title: "Historiography"
 number: HIST 491-002
 term: Fall 2016
@@ -21,7 +21,7 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 ### Historical Challenges; Greek Historiography
 29: _Rethinking History_, 33-69.  
 
-31: _Faces_, 1-18; 19-35; skim to 42; 42-47. 
+31: _Faces_, 1-18; 19-35; skim to 42; 42-47.
 
 
 ### Roman Historiography
@@ -49,7 +49,7 @@ _Group 1:_ You will be summarizers for the chapter. Please pull out key ideas, q
 
 _Group 2:_ As per our discussion last time, you will propose and defend a structure for our historiography web project. Namely, how much should we follow Kelley's lead? What other chronological divisions should we use? Should any chapters be divided up differently? Are there certain themes and topics that we should highlight separate from the chronological progression? How do we want people to use our historiography website? How can we create something that stands on its own but also werves as a foundation for further expansion (depth or breadth)?
 
-If you are not sure of what group you are now in (because you weren't in class or you forgot), use this formula: old groups 1 and 2 are now in group 1; old groups 3 and 4 are now in group 2. OTHERWISE, use the group number you counted off in class. 
+If you are not sure of what group you are now in (because you weren't in class or you forgot), use this formula: old groups 1 and 2 are now in group 1; old groups 3 and 4 are now in group 2. OTHERWISE, use the group number you counted off in class.
 
 26: _Faces_, 188-216.  
 
@@ -61,13 +61,13 @@ If you are not sure of what group you are now in (because you weren't in class o
 
 5: Tom Rockmore, "Hegel," 468-476; Hegel, _The Philosophy of History_, 1-27; Wilhelm von Humboldt, "On the Historian's Task," 57-71 (skim).  
 
- 
-### Professionalization 
-10: PROJECT WORKSHOP. Bring TWO copies of your detailed outlines to class. We will exchange them and provide critical feedback on each others' work. Bringing in a half-baked outline will only frustrate your reviewer and keep your work behind schedule (and my dissatisfaction will be reflected in your grade of the copy you turn into me). 
+
+### Professionalization
+10: PROJECT WORKSHOP. Bring TWO copies of your detailed outlines to class. We will exchange them and provide critical feedback on each others' work. Bringing in a half-baked outline will only frustrate your reviewer and keep your work behind schedule (and my dissatisfaction will be reflected in your grade of the copy you turn into me).
 
 12: Thomas Gil, "Leopold Ranke," 383-92; Ranke (in Wines), 55-67; Felix Gilbert, "What Ranke Meant," _The American Scholar_ 56.3 (1987): 393-397. (previously: Guenther Roth, "History and Sociology in the Work of Max Weber," 306-18.)
 
-ASSIGNMENT: Over the weekend, revise your expanded outlines into prose in MARKDOWN. Use appropriate headings and typography! 
+ASSIGNMENT: Over the weekend, revise your expanded outlines into prose in MARKDOWN. Use appropriate headings and typography!
 
 ### Empirical History
 17: PROJECT WORKSHOP (I'm away). Bring in revisions (paper or digital) so that someone else (and someone different from last week) can critique your essay.
@@ -77,11 +77,11 @@ ASSIGNMENT: Over the weekend, revise your expanded outlines into prose in MARKDO
 NOTE: Begin finding sources for your outside research!
 
 ### Counting History
-24: _Houses_, "The _Annales_," 87-109. 
+24: _Houses_, "The _Annales_," 87-109.
 
 DUE: A 400-500 word comment on the chapter, following the same questions as before: Using examples, illustrate the pros and cons of his approach to doing history. Does the sample reading jive with how it's described in the introductory section? (this will be the standard assignment for _Houses_ chapter for now on)
 
-ALSO DUE: Bring hardcopies of your chapters, which you will have revised from your workshop on Monday. Remember that we want to follow the _Houses_ style of clarity, accessibility, and brevity. 
+ALSO DUE: Bring hardcopies of your chapters, which you will have revised from your workshop on Monday. Remember that we want to follow the _Houses_ style of clarity, accessibility, and brevity.
 
 NOTE: For everyone, but mostly for those of you who did not attend the writing workshop (please let me know if you did but didn't sign the sign-in sheet), bring the best draft you can. We will determine if you have made enough progress that we can keep your essay in the web project. If not, it probably makes more sense for you to do the original book review assignemnt instead, so as not to drag the project down and compromise everyone else's hard work on it.
 
@@ -91,7 +91,7 @@ You will exchange papers with a suiutable partner (as discussed on the 19th), ca
 
 
 ### Foucault: Discourse and Observation
-31: Foucault, _Archeology of Knowledge_, 3-17; 21-39. 
+31: Foucault, _Archeology of Knowledge_, 3-17; 21-39.
 
 2: **DUE: Book Review Selections.** Foucault, _The Birth of the Clinic_, 1-37.
 
@@ -118,7 +118,7 @@ You will exchange papers with a suiutable partner (as discussed on the 19th), ca
 ### History of Others
 28: _Houses_, "Gender History," 253-62; Joan Scott, "Gender: A Useful Category of Historical Analysis," 1053-1075; Catherine Hall, "Gender Division and Class Formation in the Birmingham Middle Class, 1780-1850 [= _Houses_, 263-76]. **DUE: First Video Draft posted online.**
 
-30: _Houses_, "Postcolonial Perspectives," 263-76; Henrietta Whiteman, "White Buffalo Woman," \[= _Houses_, 288-96] (skim); Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?," 1-27. **DUE: Essay Revisions (responding to comments).** 
+30: _Houses_, "Postcolonial Perspectives," 263-76; Henrietta Whiteman, "White Buffalo Woman," \[= _Houses_, 288-96] (skim); Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?," 1-27. **DUE: Essay Revisions (responding to comments).**
 
 
 ### Reflections

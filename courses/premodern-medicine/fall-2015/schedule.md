@@ -1,5 +1,5 @@
 ---
-layout: course2015
+layout: syllabus
 title: "History of Premodern Medicine"
 number: HIST 300-017
 term: Fall 2015

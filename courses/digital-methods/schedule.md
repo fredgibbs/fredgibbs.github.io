@@ -1,10 +1,9 @@
 ---
-layout: course2015
+layout: syllabus
 title: Introduction to Digital Humanities
 term: Winter 2017
 number: HIST 698-002
 date: 2017-01-04 00:00:00
-css: digital-methods
 section: schedule
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: course2015
+layout: syllabus
 title: "Graduate Historiography"
 number: HIST 664-001
 term: Fall 2015

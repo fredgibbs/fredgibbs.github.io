@@ -1,5 +1,5 @@
 ---
-layout: course2015
+layout: syllabus
 title: "Metaphor of Plague"
 number: HIST 300-001
 term: Spring 2015

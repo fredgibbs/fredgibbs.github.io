@@ -1,5 +1,5 @@
 ---
-layout: course2015
+layout: syllabus
 title: "Historiography"
 number: HIST 491-002
 term: Fall 2016
@@ -14,7 +14,7 @@ Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment
 
 ## Course Description
 
-This course introduces some of the most influential approaches that historians (from antiquity through the 21st century) have taken in writing about the past. What is history? What is it for? Who is it for? It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history. 
+This course introduces some of the most influential approaches that historians (from antiquity through the 21st century) have taken in writing about the past. What is history? What is it for? Who is it for? It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history.
 
 
 ## Student Learning Outcomes (SLOs)
@@ -61,15 +61,15 @@ We'll divide the class into 4 groups (as equal as possible). Each group will be 
 
 4. **Slackers:** Enjoy your day off.
 
-For this component, you will be evaluted on the extent to which your comments, summaries, and questions show your engagement with that assignment and its relationship to the course. It's not practical for me to assign specifc letter grades to each of these individually, so I make general comments about them each class, highlighting excellent work and nudging those with more superficial work to step it up. 
- 
+For this component, you will be evaluted on the extent to which your comments, summaries, and questions show your engagement with that assignment and its relationship to the course. It's not practical for me to assign specifc letter grades to each of these individually, so I make general comments about them each class, highlighting excellent work and nudging those with more superficial work to step it up.
+
 - ~5-minute video book review. We will discuss this much more in class, both the historiographical and technical components. No experience required! For more on this, see the [video book review](../etc/video-book-review) page. (15%)
 
 - **OLD: WE ARE NOT DOING THIS ANYMORE** FINAL ESSAY: Pick a book off the shelf of the historiography section of Zimmerman Library. Write a 1500 word book review, drawing primarily from course readings and sources they reference. This is your big and final chance to show off what you learned in the course. While some summary is necessary, of course, your essay should focus on situating the book in its historical and especially historiographical context. The more sophisticated your analysis (drawing widely from course sources and ideas), the higher your grade. This is due the last day of finals! (20%)
 
 - **NEW** FINAL ASSIGNMENT: We will be collaborating to create an online introduction to historiography. Our goal, as we collectively formulated it, is to "improve" our key text for the early part of this course, _Faces of History_, to better highlight historiographical changes, excise unnecessary detail, and add more historical context. Each student will contribute, (possibly individually or jointly with 1 or 2 other students) a section (probably a webpage). The research and writing workload will remain approximately the same as the original final essay assignment. Hopefully it will be much more fun and contribute more directly to the student learning objectives.
 
-- FINAL GRADES: Because most of your work in this course is not assigned a specific letter grade (and because many intangible factors go into a grade), here's my functional approach to grading this upper level history course: Basically, everyone starts with a B, and you gradually move it up or down depending on the consistency and quality of your work. If you are contributing thoughtfully to discussions, your grade moves to a B+. If you are consistently putting work into the preparation assignments (not merely completing them), your grade moves to an A-. Conversely, you can also move your grade down by not participating in class, or with consistently superficial preparation work. Not showing up and/or turning in work late lowers your grade very quickly. 
+- FINAL GRADES: Because most of your work in this course is not assigned a specific letter grade (and because many intangible factors go into a grade), here's my functional approach to grading this upper level history course: Basically, everyone starts with a B, and you gradually move it up or down depending on the consistency and quality of your work. If you are contributing thoughtfully to discussions, your grade moves to a B+. If you are consistently putting work into the preparation assignments (not merely completing them), your grade moves to an A-. Conversely, you can also move your grade down by not participating in class, or with consistently superficial preparation work. Not showing up and/or turning in work late lowers your grade very quickly.
 
 The video does get a specific grade attached to it, and it will raise or lower your grade depending on how much higher or lower it is from what you've earned by the end of the term (usually not more than 1/3 of a grade).
 

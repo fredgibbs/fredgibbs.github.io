@@ -1,11 +1,10 @@
 ---
-layout: food-diet-health
+layout: syllabus-top-nav
 title: "Food, Diet, and Heath"
 number: HIST 300-007
 term: Fall 2014
 date: 2014-04-16 00:00:00
-css: food-diet-health
-categories: [course]
+slug: food-diet-health
 section: schedule
 ---
 <a id="1"/>
@@ -51,7 +50,7 @@ Labor Day: No Class!
 J. Worth Estes, "The Medical Properties of Food in the Eighteenth Century,” Journal of the History of Medicine and Allied Sciences, 51 (1996): 127-149.
 
 #### FRI
-Steven Shapin, “Trusting George Cheyne: Scientific Expertise, Common Sense, and Moral Authority in Early Eighteenth-Century Dietetic Medicine,” 
+Steven Shapin, “Trusting George Cheyne: Scientific Expertise, Common Sense, and Moral Authority in Early Eighteenth-Century Dietetic Medicine,”
 *Bulletin of the History of Medicine*, 77 (2003): 263-297.
 
 Presetations: Analzying early dietary advice, such as George Cheyne, *An Essay on Regimen* (London, 1740), 53-62.
@@ -59,7 +58,7 @@ Presetations: Analzying early dietary advice, such as George Cheyne, *An Essay o
 
 <a id="4"/>
 
-### Balanced & Measured Bodies 
+### Balanced & Measured Bodies
 
 #### MON
 Hillel Schwartz, *Never Satisfied. A Cultural History of Diets, Fantasies, and Fat*, "The Balanced Body," 75-111.
@@ -165,11 +164,11 @@ Megan K. Blake, Jody Mellor, and Lucy Crane, “Buying Local Food: Shopping Prac
 #### MON
 Marion Nestle, _Food Politics_, 29-66.
 
-#### WED 
+#### WED
 Marion Nestle, _Food Politics_, 67-93.
 
 #### FRI
-Presentations on [online historical accounts](https://fnic.nal.usda.gov/dietary-guidance/dietary-guidelines/historical-dietary-guidance) of the food pyramid. 
+Presentations on [online historical accounts](https://fnic.nal.usda.gov/dietary-guidance/dietary-guidelines/historical-dietary-guidance) of the food pyramid.
 
 
 <a id="11"/>
@@ -238,7 +237,7 @@ David H. Freedman, "[How Junk Food Can End Obesity](http://www.theatlantic.com/m
 Tom Philpott, [Why The Atlantic's Defense of Junk Food Fails](http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails).
 
 #### FRI
-Kevin Voigt, [5 Reasons Why You Need More Fat in Your Diet](http://www.foxnews.com/health/2014/07/18/5-reasons-why-need-more-fat-in-your-diet/). 
+Kevin Voigt, [5 Reasons Why You Need More Fat in Your Diet](http://www.foxnews.com/health/2014/07/18/5-reasons-why-need-more-fat-in-your-diet/).
 
 "[Scientists Fix Errors in Controversial Paper About Saturated Fats](http://news.sciencemag.org/health/2014/03/scientists-fix-errors-controversial-paper-about-saturated-fats),” March 2014.
 

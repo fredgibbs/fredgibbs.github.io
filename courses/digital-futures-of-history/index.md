@@ -1,5 +1,5 @@
 ---
-layout: course2015
+layout: syllabus
 title: Digital Futures of History
 term: Winter 2017
 number: HIST 399-006

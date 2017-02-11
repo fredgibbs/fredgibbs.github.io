@@ -1,18 +1,17 @@
 ---
-layout: digital-methods
-title: Digital Methods for the Humanities 
+layout: syllabus-top-nav
+title: Digital Methods for the Humanities
 term: Fall 2014
 number: HIST 666-001
 date: 2014-04-15 00:00:00
-css: digital-methods
 section: schedule
-categories: [course]
+slug: digital-methods
 ---
 
 <a id="1"/>
 
 ### The DH Phenomenon
-What *is* digital humanities? How does studying "the digital" vs. using "the digital" factor into definitions? Is it necessary to have a working definition? 
+What *is* digital humanities? How does studying "the digital" vs. using "the digital" factor into definitions? Is it necessary to have a working definition?
 
 
 #### Ethos of Digital Humanities
@@ -50,10 +49,10 @@ Larry Cebula
 
 
 ### Core Principles of DH
-What are the central concerns of the so-called digital humanities community? Does it make sense to talk about Digital Humanities as opposed to Digital History or Digital Literature? Why is there no Digital Philosophy? 
+What are the central concerns of the so-called digital humanities community? Does it make sense to talk about Digital Humanities as opposed to Digital History or Digital Literature? Why is there no Digital Philosophy?
 
 
-#### A DH Manifesto 
+#### A DH Manifesto
 Anne Burdick et al.    
 *Digital\_Humanities*.
 
@@ -249,7 +248,7 @@ Shlomo Argamon et al.
 
 Rob Nelson    
 [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
- 
+
 [With Criminal Intent](http://criminalintent.org/)
 
 
@@ -346,7 +345,7 @@ Advice
 [How to make an EPIC movie trailer](https://www.youtube.com/watch?v=NHL-tJgl3Gw) (can you glean the serious reason for watching this?)
 
 Create a Research Trailer    
-If you're unfamiliar with movie editing software, consider Movie Maker (Windows) or iMovie (Mac), or a free trial of [Camtasia](http://www.techsmith.com/camtasia.html). 
+If you're unfamiliar with movie editing software, consider Movie Maker (Windows) or iMovie (Mac), or a free trial of [Camtasia](http://www.techsmith.com/camtasia.html).
 
 
 <a id="12"/>
@@ -455,4 +454,3 @@ name1, name2, name3, etc.
 
 #### Presentations 2
 name1, name2, name3, etc.
-

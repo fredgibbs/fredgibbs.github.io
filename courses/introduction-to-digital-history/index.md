@@ -1,10 +1,9 @@
 ---
-layout: course 
+layout: syllabus
 title: Digital History
 number: HIST 300-002
 term: Fall 2013
 date: 2013-10-29 00:00:01
-category: course
 ---
 
 Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
@@ -45,7 +44,7 @@ This course explores the theoretical and methodological issues now facing humani
 
 **Attendance Policy:** Regular and punctual attendance is required. UNM Pathfinder policies apply, which in part means instructor drops based on non-attendance are possible. This policy applies regardless of the grading option you have chose.
 
-**Accommodation:** Accessibility Services (Mesa Vista Hall 2021, 277-3506) provides academic support to students who have disabilities. If you think you need alternative accessible formats for undertaking and completing coursework, you should contact this service right away to assure your needs are met in a timely manner. If you need local assistance in contacting Accessible Services, see the Bachelor and Graduate Programs office. 
+**Accommodation:** Accessibility Services (Mesa Vista Hall 2021, 277-3506) provides academic support to students who have disabilities. If you think you need alternative accessible formats for undertaking and completing coursework, you should contact this service right away to assure your needs are met in a timely manner. If you need local assistance in contacting Accessible Services, see the Bachelor and Graduate Programs office.
 
 
 ### Other Advice to Help You Do Well
@@ -59,9 +58,9 @@ This course explores the theoretical and methodological issues now facing humani
 ### Final Project / Grant Proposal
 The goals of the final project are (1) to show that you have grasped the topics presented in the course, and (2) to express them in a non-traditional form.
 
-You will design a Kickstarter campaign ([following their guidelines](http://www.kickstarter.com/help/school)) for a digital history project relevant to your field. It doesn't have to overlap perfectly with your current research, but it shouldn't be so far afield that you don't have enough subject matter expertise to propose an interesting project. Your proposal should employ technologies, methodologies, and approaches that we've decided constitute digital history. 
+You will design a Kickstarter campaign ([following their guidelines](http://www.kickstarter.com/help/school)) for a digital history project relevant to your field. It doesn't have to overlap perfectly with your current research, but it shouldn't be so far afield that you don't have enough subject matter expertise to propose an interesting project. Your proposal should employ technologies, methodologies, and approaches that we've decided constitute digital history.
 
-In addition to the Kickstarter materials, each proposal must explain its historical relevance, use of technology, limitations of methodology, expected research outcomes and benefits, sustainability plan. As with any campaign, one great challenge is to explain in lay terms why your project is interesting, how people will benefit from it, and why people should get excited enough to support it. 
+In addition to the Kickstarter materials, each proposal must explain its historical relevance, use of technology, limitations of methodology, expected research outcomes and benefits, sustainability plan. As with any campaign, one great challenge is to explain in lay terms why your project is interesting, how people will benefit from it, and why people should get excited enough to support it.
 
 
 ### READINGS
@@ -69,12 +68,12 @@ Most readings are either hyperlinked to an online version, or are available via 
 
 -   Susan M. Bielstein, *Permissions: A Survival Guide* (Chicago University Press, 2006)
 -- ISBN:978-0226046389 \[[amazon](http://www.amazon.com/Permissions-Survival-Guide-Intellectual-Propery/dp/0226046389)\]
--   Anne Burdick et al., *Digital\_Humanities* (MIT Press, 2012) 
+-   Anne Burdick et al., *Digital\_Humanities* (MIT Press, 2012)
 -- ISBN:978-0262018470 \[[amazon](http://www.amazon.com/Digital_Humanities-Anne-Burdick/dp/0262018470/)\]
--   Kathleen Fitzpatrick, *Planned Obsolescence* (NYU Press, 2011) 
+-   Kathleen Fitzpatrick, *Planned Obsolescence* (NYU Press, 2011)
 -- ISBN: 978-0814727881 \[[amazon](http://www.amazon.com/Planned-Obsolescence-Publishing-Technology-Academy/dp/0814727883)\]
--   John Lewis Gaddis, The Landscape of History: How Historians Map the Past 
--- (Oxford University Press, USA, 2004) 
+-   John Lewis Gaddis, The Landscape of History: How Historians Map the Past
+-- (Oxford University Press, USA, 2004)
 -- ISBN:978-0195171570 \[[amazon](http://www.amazon.com/Landscape-History-How-Historians-Past/dp/0195171578)\]
 -   Scott McCloud, *Understanding Comics* (Harper, 1993)
 -- ISBN:978-0060976255 \[[amazon](http://www.amazon.com/Understanding-Comics-Invisible-Scott-McCloud/dp/006097625X)\]
@@ -111,7 +110,7 @@ Kathleen Fitzpatrick, [Blogs as Serialized Scholarship](http://www.plannedobsole
 
 
 ### 3. Core Principles of the Digital Humanities
-What are the central concerns of the so-called digital humanities community? Does it make sense to talk about Digital Humanities as opposed to Digital History or Digital Literature? Why is there no Digital Philosophy? 
+What are the central concerns of the so-called digital humanities community? Does it make sense to talk about Digital Humanities as opposed to Digital History or Digital Literature? Why is there no Digital Philosophy?
 
 Anne Burdick et al., *Digital\_Humanities*.
 
@@ -156,7 +155,7 @@ Dmitry Paranyushkin, [Identifying the Pathways for Meaning Circulation using Tex
 
 Andrew J. Torget & Jon Christensen, [Mapping Texts: Visualizing American Historical Newspapers](http://journalofdigitalhumanities.org/1-3/mapping-texts-project-by-andrew-torget-and-jon-christensen/)
 
-Check out: a few places to find data: [Chronicling America](http://chroniclingamerica.loc.gov/), [HathiTrust](http://www.hathitrust.org/), [Time Magazine Corpus](http://corpus.byu.edu/time/), [Internet Archive](http://archive.org), [Digital Public Library of America](http://dp.la). 
+Check out: a few places to find data: [Chronicling America](http://chroniclingamerica.loc.gov/), [HathiTrust](http://www.hathitrust.org/), [Time Magazine Corpus](http://corpus.byu.edu/time/), [Internet Archive](http://archive.org), [Digital Public Library of America](http://dp.la).
 
 ... a few tools (and videos) for data manipulation: [DataWrangler](http://vis.stanford.edu/wrangler/), [OpenRefine](http://openrefine.org/).
 
@@ -201,7 +200,7 @@ Play around with [Overview](http://overview.ap.org/) or [MALLET](http://programm
 
 
 ### 10. Data, Digital Workflows, Digital Studies
-There are great digital datasets available, but most historians work with sources that are far from ready to be plugged into digital tools. This group of readings suggests some techniques and strategies to make traditional analog sources suitable for use in a digital workflow. Everyone has to choose the set of tools and workflow that's appropriate to their own needs and habits. But having an open mind and flexibility in adjusting your own work habits can go a long way towards lowering the impedance between you and digital tools that can help your productivity skyrocket, and in fact allow you to venture into unchartered historical waters. 
+There are great digital datasets available, but most historians work with sources that are far from ready to be plugged into digital tools. This group of readings suggests some techniques and strategies to make traditional analog sources suitable for use in a digital workflow. Everyone has to choose the set of tools and workflow that's appropriate to their own needs and habits. But having an open mind and flexibility in adjusting your own work habits can go a long way towards lowering the impedance between you and digital tools that can help your productivity skyrocket, and in fact allow you to venture into unchartered historical waters.
 
 Rather than assign more specific readings to cover the pedagogy facet we talked about the first day, we'll each find a reading related to how we might better integrate the kinds of concerns that underlie this course into undergraduate humanities courses generally.
 
@@ -302,7 +301,7 @@ Brian Lamb, [Dr. Mashup](http://www.educause.edu/ero/article/dr-mashup-or-why-ed
 
 Overview of Licenses: [GNU GPL](http://www.gnu.org/copyleft/gpl.html) and [Creative Commons](http://creativecommons.org).
 
-If you're curious about the blue puppies, there is 
+If you're curious about the blue puppies, there is
 [more](http://www.nyfa.org/archive_detail_q.asp?type=6&qid=173&fid=6&year=2004&s=Winter), [more](http://art.jerryandmartha.com/2006/07/more-puppies.html), and the [court case (esp. the DISCUSSION section)](http://www.ncac.org/art-law/op-rog.cfm).
 
 

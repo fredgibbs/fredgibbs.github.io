@@ -1,11 +1,10 @@
 ---
-layout: course2015
+layout: syllabus
 title: Introduction to Digital Humanities
 term: Spring 2017
 number: HIST 698-002
 date: 2014-04-15 00:00:00
 section: home
-css: digital-methods
 ---
 
 Fred Gibbs \([fwgibbs@umich.edu](mailto:fwgibbs@umich.edu)\)    

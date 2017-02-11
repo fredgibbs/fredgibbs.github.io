@@ -1,5 +1,5 @@
 ---
-layout: course2015 
+layout: syllabus 
 title: "Historiography"
 number: HIST 491-001
 term: Spring 2015
@@ -17,7 +17,7 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 14: Wilhelm von Humboldt, "On the Historian's Task," 57-71.  
 
 19: no class (keep reading!)  
-21: Marc Bloch, _The Historian's Craft_, 3-78. 
+21: Marc Bloch, _The Historian's Craft_, 3-78.
 
 # Aesthetics of History
 26: Bloch, _The Historian's Craft_, 138-197.  
@@ -63,7 +63,7 @@ Random Course Trailers: [Medical Ethics and History](https://www.youtube.com/wat
 
 Advice on [How to make an EPIC movie trailer](https://www.youtube.com/watch?v=NHL-tJgl3Gw) (why are we watching this?)
 
-If you're unfamiliar with movie editing software, consider Movie Maker (Windows) or iMovie (Mac), or a free trial of [Camtasia](http://www.techsmith.com/camtasia.html). 
+If you're unfamiliar with movie editing software, consider Movie Maker (Windows) or iMovie (Mac), or a free trial of [Camtasia](http://www.techsmith.com/camtasia.html).
 
 
 
@@ -73,7 +73,7 @@ If you're unfamiliar with movie editing software, consider Movie Maker (Windows)
 
 # PostPostModern History
 13: Guldi and Armitage, _History Manifesto_, 1-60.  
-15: NO CLASS 
+15: NO CLASS
 
 20: Guldi and Armitage, _History Manifesto_, 61-125.  
 22: Discussion (returning to a common theme): The Uses of History (and if we need one)  

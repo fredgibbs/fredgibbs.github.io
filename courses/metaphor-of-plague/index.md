@@ -1,5 +1,5 @@
 ---
-layout: course2015
+layout: syllabus
 title: "Metaphor of Plague"
 number: HIST 300-001
 term: Spring 2015
@@ -14,7 +14,7 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 
 ## Course Description
 
-If you were planning to come to class (like you always do, because it's awesome), but you heard that an unknown student in the class (who was also planning to attend) had the flu, would you come anyway? Probably. If you heard that the unknown student was infected with the plague—would you still come? 
+If you were planning to come to class (like you always do, because it's awesome), but you heard that an unknown student in the class (who was also planning to attend) had the flu, would you come anyway? Probably. If you heard that the unknown student was infected with the plague—would you still come?
 
 The fact that we even pause to consider the difference between these two diseases (one very common and one very rare), and that we might be even more afraid of the less deadly one (plague, if you have faith in statistics), shows how resonant the idea of "plague" is in modern society. While plague is the name of a particular disease, it is of course far more than that.
 
@@ -40,7 +40,7 @@ This course explores the metaphor of plague as described in various historical s
 
 * You cannot make up missed classes, and I will not rehash the discussion for you via email because you missed class. Please, DO NOT email me asking what you missed or how to make it up (feel free to get notes from your colleagues). Medical emergencies beyond your control are the one exception to the attendance policy, and you should let me know about these ASAP.
 
-* I consider it extremely rude and disruptive to walk into class late, and it greatly aggravates me. Flat tires, missed busses, failed alarms, or other appointments are not excuses, they are simply failures on your part to get here on time. There are no excuses, only priorities. Accidents happen, and I undertstand you might be (barely) late once or twice. Repeatedly being late will negatively impact your grade by a half to full letter grade. 
+* I consider it extremely rude and disruptive to walk into class late, and it greatly aggravates me. Flat tires, missed busses, failed alarms, or other appointments are not excuses, they are simply failures on your part to get here on time. There are no excuses, only priorities. Accidents happen, and I undertstand you might be (barely) late once or twice. Repeatedly being late will negatively impact your grade by a half to full letter grade.
 
 * If you run into personal problems during the semester that make school difficult for you, please talk to me about what adjustments we can make to help you succeed in the course.
 
@@ -58,7 +58,7 @@ Note that there is a LOT of reading for this course. **Like a LOT a LOT**, espec
 
 - Susan Sontag, [Illness as Metaphor and AIDS and Its Metaphors](http://www.amazon.com/Illness-Metaphor-AIDS-Its-Metaphors/dp/0312420137/ref=sr_1_1) (ISBN: 978-0312420130).
 
-- For all other articles and book chapters on the syllabus, you will need to subscribe to the course Zotero library. Please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](../etc/zotero.html). 
+- For all other articles and book chapters on the syllabus, you will need to subscribe to the course Zotero library. Please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](../etc/zotero.html).
 
 
 ## Syllabus

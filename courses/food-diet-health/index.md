@@ -1,5 +1,5 @@
 ---
-layout: course2015 
+layout: syllabus 
 title: "History of Food, Diet, and Health"
 number: HIST 410
 term: Fall 2016

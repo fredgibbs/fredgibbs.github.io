@@ -11,7 +11,7 @@
 @media screen {
 
 body {
-  background-color: #FeFeFe;
+  background-color: #FEFEFE;
   font-family: 'Arimo', sans-serif;
   font-size:1em;
   font-weight: 300;
@@ -52,18 +52,17 @@ a.navbar-brand {
 
 h1,h2,h3,h4,h5 {
 font-family: 'Oswald';
+color:#000000;
 }
 
 h1 {
   margin:2em 0 .5em 0;
   font-size: 1.6em;
-  color:#000000;
 }
 
 h2 {
   margin:1.5em 0 .5em 0;
   font-size: 1.3em;
-  border-bottom:0px solid gray;
 }
 
 h3 {
@@ -80,9 +79,8 @@ p { margin: 0em 0 1em 0; }
 a {
   text-decoration: none;
   border-bottom:1px dotted;
+  color: #f90;
 }
-
-a         { color: #f90; }
 a:hover   { color: #a00; }
 a:visited { color: #c60; }
 
@@ -100,6 +98,15 @@ a.project-row {
 border:1px solid #666;
 }
 
+img {
+  padding:1em;
+}
+
+ul, li {
+  margin:0 0 0 1em;
+  padding:0;
+}
+
 .caps {
   text-transform: uppercase;
   font-size: 80%;
@@ -109,9 +116,6 @@ border:1px solid #666;
   clear:both;
 }
 
-img {
-  padding:1em;
-}
 
 .right {
   float:right;
@@ -121,10 +125,7 @@ img {
   float:left;
 }
 
-ul, li {
-  margin:0 0 0 1em;
-  padding:0;
-}
+
 
 /*****************************************************************************/
 /*
@@ -150,7 +151,7 @@ ul, li {
 .footer {
   padding: 1em 0;
   font-family: 'Oxygen', sans-serif;
-  font-size: 100%;
+  font-size: 90%;
   color: #999;
   border-top: 3px solid #eee;
   margin-top: 2em;
@@ -203,29 +204,6 @@ img.footer-icon {
   font-weight:bold;
   color:#990000;
 }
-
-.hometext {
-  font-family: 'Oxygen', sans-serif;
-  font-size:120%;
-  line-height:1.3em;
-  text-transform: uppercase;
-}
-
-.hometext a {
-  color:#ff9900;
-  text-decoration: none;
-  border:none;
-}
-
-.hometext ul {
-  list-style-type: none;
-}
-
-.hometext p {
-  margin-bottom:1.5em;
-}
-
-
 
 /*****************************************************************************/
 /*
@@ -488,12 +466,12 @@ font-size:85%;
 
 }
 
-#syllabus2015 {
+#syllabus {
   font-family: 'Oxygen', sans-serif;
   font-size:.95em;
 }
 
-#syllabus2015 h2 {
+#syllabus h2 {
 margin: 1em 0 1em 0;
 border-top:1px dotted gray;
 border-bottom:1px dotted gray;
@@ -503,7 +481,7 @@ text-transform: uppercase;
 background-color: #ccc;
 }
 
-#syllabus2015 h3 {
+#syllabus h3 {
 font-size:1.1em;
 margin: 1.2em 0 .5em 0;
 line-height: 1.5em;
@@ -594,10 +572,6 @@ a {
     margin-bottom: 1.5em;
   }
 
-.hometext {
-  font-size: 200%;
-}
-
   .slide-trigger { display: block; }
     .no-js .slide-trigger { display: none; }
   .navigation { display: none; }
@@ -621,22 +595,11 @@ a {
     margin: 25mm 25mm 25mm 25mm;
 }
 
-
-
 @media print {
-
-
-@page  {
-    size: auto;   /* auto is the initial value */
-
-    /* this affects the margin in the printer settings */
-    margin: 25mm 25mm 25mm 25mm;
-}
-
 
   body {
     font-weight: normal;
-  font-family: 'Oxygen', sans-serif;
+    font-family: 'Oxygen', sans-serif;
   }
 
   nav {
@@ -651,12 +614,12 @@ a {
 #accordion-schedule > *{display:block !important;}
 
 
-#syllabus2015 {
+#syllabus {
   font-family: 'Oxygen', sans-serif;
   font-size:.95em;
 }
 
-#syllabus2015 h2 {
+#syllabus h2 {
 font-size:1.2em;
 margin: 1em 0 1em 0;
 border-top:1px dotted gray;
@@ -667,18 +630,18 @@ text-transform: uppercase;
 background-color: #eee;
 }
 
-#syllabus2015 h3 {
+#syllabus h3 {
 font-size:1.2em;
 margin: 1.2em 0 .5em 0;
 line-height: 1.5em;
 letter-spacing: .02em;
 }
 
-#syllabus2015 h1 {
+#syllabus h1 {
 font-size: 2em;
 }
 
-#syllabus2015 p {
+#syllabus p {
  padding-bottom: .8em
 }
 

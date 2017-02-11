@@ -1,7 +1,7 @@
 ---
-layout: course2015
+layout: syllabus
 title: "Historiography"
-number: HIST 491
+number: HIST 491-001
 term: Spring 2015
 date: 2015-01-12 00:00:00
 ---
@@ -45,9 +45,9 @@ This course introduces some of the most prominent and influential approaches tha
 
 Each student will belong to one of these groups for each class and will continually rotate through the groups during the semester, changing groups each class.
 
-1. **Commenters:** The commenters will post a 500-word critical comment on the readings 24 hours before class. These should be high quality but informal writing, like you were writing for a top-shelf literary magazine. You must resist the urge to summarize the readings (we have summarizers to do that!). You do not need to have completed the entire reading in great detail write good comments, but you need to have read (carefully) enough to have something interesting to say. You are not allowed to duplicate others' ideas, but you can build off of them. 
+1. **Commenters:** The commenters will post a 500-word critical comment on the readings 24 hours before class. These should be high quality but informal writing, like you were writing for a top-shelf literary magazine. You must resist the urge to summarize the readings (we have summarizers to do that!). You do not need to have completed the entire reading in great detail write good comments, but you need to have read (carefully) enough to have something interesting to say. You are not allowed to duplicate others' ideas, but you can build off of them.
 
-2. **Enforcers:** The enforcers hold colleagues accountable for their work. You do not need to produce anything ahead of time, but I expect (and will be evaluating) your ability to ask critical questions of sloppy blog posts, inaccurate summaries, or silly discussion questions. Rudeness, of course, is not tolerated, but I expect you can ask pointed questions in a polite and constructive way. 
+2. **Enforcers:** The enforcers hold colleagues accountable for their work. You do not need to produce anything ahead of time, but I expect (and will be evaluating) your ability to ask critical questions of sloppy blog posts, inaccurate summaries, or silly discussion questions. Rudeness, of course, is not tolerated, but I expect you can ask pointed questions in a polite and constructive way.
 
 3. **Summarizers:** The summarizers will prepare a 1-page summary of the assigned readings (not what the commenters write). You will work on these independently (though you can work together if you want), but you must present them collectively at the beginning of class as a way of reminding everyone what they've read.
 
@@ -65,7 +65,7 @@ Note that there is a LOT of reading for this course. **Like a LOT a LOT.** This 
 
 ## Required Texts
 
-- Bloch, Marc. _The Historian’s Craft_ (1964). 
+- Bloch, Marc. _The Historian’s Craft_ (1964).
 
 - Burdick, et al. _Digital Humanities_ (2012).
 
@@ -79,7 +79,7 @@ Note that there is a LOT of reading for this course. **Like a LOT a LOT.** This 
 
 - Levi-Strauss, Claude. _Myth and Meaning: Cracking the Code of Culture_ (reprint 1995).
 
-- For all other articles and book chapters on the syllabus, you will need to subscribe to the course Zotero library. Please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](../etc/zotero.html). 
+- For all other articles and book chapters on the syllabus, you will need to subscribe to the course Zotero library. Please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](../etc/zotero.html).
 
 
 ## Syllabus

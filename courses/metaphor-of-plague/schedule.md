@@ -1,5 +1,5 @@
 ---
-layout: course2015
+layout: syllabus
 title: "Metaphor of Plague"
 number: HIST 300-001
 term: Spring 2015
@@ -63,14 +63,14 @@ Office Hours: M 2:30-4; W 9:30-11; almost anytime by appointment
 
 23: Andrew Cunningham, “Transforming Plague,” 209-244.   
 25: Elisabeth Carniel, “Plague Today,” 115–22.  
-27: Daniel Antoine, “The Archaeology of ‘Plague,’” 101–14; Stephanie Haensch et al., “Distinct Clones of Yersinia Pestis Caused the Black Death,” 1-8. 
+27: Daniel Antoine, “The Archaeology of ‘Plague,’” 101–14; Stephanie Haensch et al., “Distinct Clones of Yersinia Pestis Caused the Black Death,” 1-8.
 
 
 # The White Plague (TB)
 30: OPTIONAL ESSAY DUE: What are the potential advantages of historical archeology compared to traditional history?  What are the tensions between traditional history and historical archeology? Given how the cultural complexities and social constructions of plague, is an archelogical approach too reductive to be useful?  
 30: Christian W. McMillen, “‘The Red Man and the White Plague’: Rethinking Race, Tuberculosis, and American Indians, Ca. 1890–1950,” 608–45.  
 1: Nancy Owen Lewis, “High and Dry in New Mexico: Turberculosis and the Politics of Health,” 129–66.  
-3: [Return of the ‘White Plague’: Fears over the Rise of ‘Incurable’ TB](http://www.cnn.com/2014/05/28/health/return-white-plague-incurable-tb/index.html). How should we analyze this media report in light of previous readings on construction of disease? 
+3: [Return of the ‘White Plague’: Fears over the Rise of ‘Incurable’ TB](http://www.cnn.com/2014/05/28/health/return-white-plague-incurable-tb/index.html). How should we analyze this media report in light of previous readings on construction of disease?
 
 # 1918 Influenza
 6: Jeffery K. Taubenberger and David M. Morens, “1918 Influenza: The Mother of All Pandemics,” 69–79.  
