@@ -216,7 +216,7 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
   - What kind of data is being used? Where is it from? Is it accessible or reusable?
   - How much does the design of the site matter in taking it seriously?
   - How would you rate its usability?
-- Work on your portfolios! Keep in mind the criteria below. In general, aim to do simple things well. See how simple you can make your site, but with a clear and consistent design aesthetic (and required content, of course). **Bring questions to class!** This is your best chance to get technical help before you are largely on your own before the portfolio review. It's also usually the case that people benefit from hearing explanations even if they haven't encountered or care about that particular issue
+- Work on your portfolios! Keep in mind the criteria below. In general, aim to do simple things well. See how simple you can make your site, but with a clear and consistent design aesthetic (and required content, of course). **Bring questions to class!** This is your best chance to get technical help before you are largely on your own before the portfolio review. It's also usually the case that people benefit from hearing explanations even if they haven't encountered or care about that particular issue at that time; so it's good for us to do this together.
 
 ### In class
 - GIS Project critiques and discussion
