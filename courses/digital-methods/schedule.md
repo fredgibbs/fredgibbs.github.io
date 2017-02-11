@@ -188,7 +188,6 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 
 
 ### In class
-
 - Jekyll gems themes review
 - Layouts and includes review
 - CSS frameworks and boilerplates (like [skeleton](http://getskeleton.com) or [milligram](https://milligram.github.io))
@@ -197,8 +196,6 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 - Google Maps and Earth questions
 - More on historic maps in Google Earth
 - Troubleshoot any installation issues and go over the QGIS interface and other basic GIS concepts.
-- Work through 3 simple [Mapping with QGIS tutorials](http://fredgibbs.net/tutorials/)
-- For future reference, you get stuck or have questions, consult the [QGIS Training Manual](http://docs.qgis.org/2.2/en/docs/training_manual/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com)
 
 - Web map tools/resources to be aware of:
   - [MapWarper](http://mapwarper.net)
@@ -210,7 +207,7 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
   - If you decide you love web programming: [Leaflet](http://leafletjs.com)
 
 
-## 7: GIS and Portfolio Critiques
+## 7: GIS and Portfolio Questions
 
 ### Before class
 - Gergely Baics, [Mapping as Process: Food Access in Nineteenth-Century New York](https://globalurbanhistory.com/2016/05/17/mapping-as-process-food-access-in-nineteenth-century-new-york/).
@@ -219,11 +216,24 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
   - What kind of data is being used? Where is it from? Is it accessible or reusable?
   - How much does the design of the site matter in taking it seriously?
   - How would you rate its usability?
-- Work on your portfolios! Keep in mind the criteria below. In general, aim to do simple things well. See how simple you can make your site, but with a clear and consistent design aesthetic (and required content, of course).
+- Work on your portfolios! Keep in mind the criteria below. In general, aim to do simple things well. See how simple you can make your site, but with a clear and consistent design aesthetic (and required content, of course). **Bring questions to class!** This is your best chance to get technical help before you are largely on your own before the portfolio review. It's also usually the case that people benefit from hearing explanations even if they haven't encountered or care about that particular issue
 
 ### In class
 - GIS Project critiques and discussion
-- Portfolio critiques. You'll demo your portfolio for the rest of the class and explain what you're trying to do and where you've had trouble. There are two main goals here: 1) to have a deadline to keep portfolios moving forward; 2) get ideas from other people (from their own sites as well as questions/comments). Questions we will address in class for each site:
+- Portfolio questions (includes, layouts, HTML, CSS, Markdown, typography, design, etc)
+- Work through 3 simple [Mapping with QGIS tutorials](http://fredgibbs.net/tutorials/)
+- For future reference, you get stuck or have questions, consult the [QGIS Training Manual](http://docs.qgis.org/2.2/en/docs/training_manual/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com)
+- MapBox Demo and data movement
+- Start your own maps (for your portfolio)
+
+
+## 8: Portfolio Critiques
+
+### Before class
+- Work on your portfolios! Keep in mind the criteria below. In general, aim to do simple things well. See how simple you can make your site, but with a clear and consistent design aesthetic (and required content, of course).
+
+### In class
+- Portfolio critiques. You'll show off your portfolio for the rest of the class and explain what you're trying to do and where you've had trouble. There are two main goals here: 1) to have a deadline to keep portfolios moving forward; 2) get ideas from other people (from their own sites as well as questions/comments). Questions we will address in class for each site:
   - Existence of basic pages and content
   - Is there a consistent layout and navigation scheme?
   - Typographic crimes? Consistency?
@@ -231,42 +241,29 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
   - What is extraneous? What is missing?
 
 
-## 8: Text Mining
+## SPRING BREAK
+
+## 9: Text Mining
 Under what circumstances are these techniques useful? How can they be used most effectively? We're going to talk about the different formats of data these tools require, problems moving from one to the other; pros and cons of their various approaches, and whatever you newly discovered about your sources from taking a broad view of your sources/data.
 
-
 ### Before class
-Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/).
+- Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/).
+- Shlomo Argamon et al., [Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html).
+- Look through [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
 
-Look through [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
 
-Stanford Literary Lab, [Quantitative Formalism: an Experiment](http://litlab.stanford.edu/LiteraryLabPamphlet1.pdf).
+#### Skim through some OCR readings
+- Andrew J. Torget & Jon Christensen, [Mapping Texts: Visualizing American Historical Newspapers](http://journalofdigitalhumanities.org/1-3/mapping-texts-project-by-andrew-torget-and-jon-christensen/).
+- Patrick Spedding, “‘The New Machine’: Discovering the Limits of ECCO,” _Eighteenth-Century Studies_ 44, no. 4 (2011): 437–53.
+- OCR Correction [here](https://usesofscale.com/gritty-details/basic-ocr-correction/) and [here](https://tedunderwood.com/2013/12/10/a-half-decent-ocr-normalizer-for-english-texts-after-1700/).
+- The [Early Modern OCR Project](http://emop.tamu.edu).
+- Various OCR correction tutorials at _Programming Historian_.
 
-Shlomo Argamon et al., [Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html).
 
 ### In class
 - Load some of your texts into [Voyant](http://voyant-tools.org/) and write a critique of one of the [projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/)    
-- Get some of your research data loaded into [Bookworm](http://bookworm.culturomics.org/)
 - Play around with [Timeline Curator](http://www.cs.ubc.ca/group/infovis/software/TimeLineCurator/)
-
-
-
-## SPRING BREAK
-
-
-## 9: OCR
-
-### Before class
-Andrew J. Torget & Jon Christensen, [Mapping Texts: Visualizing American Historical Newspapers](http://journalofdigitalhumanities.org/1-3/mapping-texts-project-by-andrew-torget-and-jon-christensen/).
-
-Learn about the [Early Modern OCR Project](http://emop.tamu.edu).
-
-OCR Correction [here](https://usesofscale.com/gritty-details/basic-ocr-correction/) and [here](https://tedunderwood.com/2013/12/10/a-half-decent-ocr-normalizer-for-english-texts-after-1700/).
-
-Patrick Spedding, “‘The New Machine’: Discovering the Limits of ECCO,” _Eighteenth-Century Studies_ 44, no. 4 (2011): 437–53.
-
-### In class
-Various OCR correction tutorials at _Programming Historian_.
+- Loading data into [Bookworm](http://bookworm.culturomics.org/)
 
 
 
@@ -298,12 +295,12 @@ Elijah Meeks and Maya Krishnan, [Introduction to Network Analysis and Representa
 
 Dmitry Paranyushkin, [Identifying the Pathways for Meaning Circulation using Text Network Analysis](http://noduslabs.com/research/pathways-meaning-circulation-text-network-analysis/).
 
-Learn about [Palladio](http://hdlab.stanford.edu/palladio/), especially via the [help page](http://hdlab.stanford.edu/palladio/help/).
+Skim through the documentation for [Palladio](http://hdlab.stanford.edu/palladio/), especially via the [help page](http://hdlab.stanford.edu/palladio/help/).
 
 
 ### In Class
 - Upload data and create a network graph with Palladio.
-- Download, install, and model texts with [Gephi](http://gephi.org), using Martin Grandjean, [GEPHI – Introduction to Network Analysis and Visualization](http://www.martingrandjean.ch/gephi-introduction/). You might also consult [another set of tutorials](https://seinecle.github.io/gephi-tutorials/).
+- Download, install, and model texts with [Gephi](http://gephi.org), using Martin Grandjean, [Introduction to Network Analysis and Visualization](http://www.martingrandjean.ch/gephi-introduction/). You might also consult [another set of tutorials](https://seinecle.github.io/gephi-tutorials/) for additional perspectives.
 
 
 ## 12: Critiquing Digital Scholarship
