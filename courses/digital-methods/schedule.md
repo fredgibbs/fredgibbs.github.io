@@ -247,10 +247,10 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 Under what circumstances are these techniques useful? How can they be used most effectively? We're going to talk about the different formats of data these tools require, problems moving from one to the other; pros and cons of their various approaches, and whatever you newly discovered about your sources from taking a broad view of your sources/data.
 
 ### Before class
-- Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/).
-- Shlomo Argamon et al., [Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html).
-- Look through [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
-
+- Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
+- Shlomo Argamon et al., [Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html)
+- Look through [Mining the Dispatch](http://dsl.richmond.edu/dispatch/)    
+- Look through [projects that have used Voyant](http://docs.voyant-tools.org/about/examples-gallery/)    
 
 #### Skim through some OCR readings
 - Andrew J. Torget & Jon Christensen, [Mapping Texts: Visualizing American Historical Newspapers](http://journalofdigitalhumanities.org/1-3/mapping-texts-project-by-andrew-torget-and-jon-christensen/).
@@ -261,9 +261,10 @@ Under what circumstances are these techniques useful? How can they be used most 
 
 
 ### In class
-- Load some of your texts into [Voyant](http://voyant-tools.org/) and write a critique of one of the [projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/)    
+- Load some of your texts into [Voyant](http://voyant-tools.org/)
+- Download and load texts into [AntConc](http://www.laurenceanthony.net/software/antconc/), following the [PH Tutorial](http://programminghistorian.org/lessons/corpus-analysis-with-antconc) You might also consult [this guide](http://research.ncl.ac.uk/decte/toon/assets/docs/AntConc_Guide.pdf)  
 - Play around with [Timeline Curator](http://www.cs.ubc.ca/group/infovis/software/TimeLineCurator/)
-- Loading data into [Bookworm](http://bookworm.culturomics.org/)
+- Demo on structured data and [Bookworm](http://bookworm.culturomics.org/)
 
 
 
