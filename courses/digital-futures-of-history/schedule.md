@@ -103,58 +103,54 @@ No new readings! Focus on completing drafts of your essays that showcase your re
 ### Monday
 Google 'campus history' and see what turns up (find somewhere other than Michigan). It's a mixed bag. Find something that intrigues you (it doesn't have to be on the first page). Write a ~800 word critique of the project, following the advice of the articles from last week.
 
+#### Questions:
+- What themes are most compelling?
+- What kinds of stories will be useful?
+- What kinds of layout/design are we going to use? Why?
+- What kinds of typography?
+
+
+#### We need to set our research agenda TODAY:
+- Everyone will write 3 ~1000 word essays on 3 different themes (hopefully related, maybe not).
+- Have a clear point and original contribution
+- Develop clear chronology and topography in your essays
+- Find / create ~6 images to support each essay (mostly from Bentley)
+- Link to other essays (both ours an existing online histories)
+- Use pull quotes to highlight information
+
 
 ### Wednesday
-Research Day
+Research Day: No Class; use time for Bentley visit
 
 
 ## 8: Digital Spatial History
 
 ### Monday
-Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?
-
-Anne Kelly Knowles, [A More Humane Approach to Digital Scholarship](http://parameters.ssrc.org/2016/08/a-more-humane-approach-to-digital-scholarship/).
-
-Gergely Baics, [Mapping as Process: Food Access in Nineteenth-Century New York](https://globalurbanhistory.com/2016/05/17/mapping-as-process-food-access-in-nineteenth-century-new-york/).
-
+- Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?
+- Anne Kelly Knowles, [A More Humane Approach to Digital Scholarship](http://parameters.ssrc.org/2016/08/a-more-humane-approach-to-digital-scholarship/).
+- Gergely Baics, [Mapping as Process: Food Access in Nineteenth-Century New York](https://globalurbanhistory.com/2016/05/17/mapping-as-process-food-access-in-nineteenth-century-new-york/).
+- Research questions
 
 ### Wednesday
-Research Presentations and Critiques
-
+- Michael Conway, [The Problem With History Classes](http://www.theatlantic.com/education/archive/2015/03/the-problem-with-history-classes/387823/).
+- Research presentations and critiques
+- Review assignments for over break
 
 
 ## Spring Break
 
 
-## 9: Text Mining
-Under what circumstances are these techniques useful? How can they be used most effectively?
+## 9: Typography
 
 ### Monday
-Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/).
+No class: Research / Reading Day
 
 ### Wednesday
-Rob Nelson, [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
-
-Load some texts into [Voyant](http://voyant-tools.org/) and write a critique of one of the many [projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/).    
-
-
-## 10: Topic Modeling
-
-### Monday
-Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
-
-Ted Underwood, [Topic Modeling Made Just Simple Enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/).
-
-Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
+- DUE: 500-word critiques for first essays
+- Ellen Lupton, _Thinking with Type_. Sorry, but the website version is now broken, so you need the actual book. It's much better than the online version, though.
 
 
-### Wednesday
-Andrew Goldstone and Ted Underwood, "The Quiet Transformations of Literary Studies: What Thirteenth Thousand Scholars Could Tell Us."
-
-Load some documents into [Overview](https://www.overviewdocs.com).
-
-
-## 11: Wikipedia, Authority, and Historical Knowledge
+## 10: Wikipedia, Authority, and Historical Knowledge
 
 ### Monday
 Bill Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
@@ -162,21 +158,33 @@ Bill Cronon, [Scholarly Authority in a Wikified World](https://www.historians.or
 Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/–writing-history-in-the-digital-age).
 
 ### Wednesday
-Selections from Bill Adair, Benjamin Filene, and Laura Koloski (eds.), _Letting Go?: Sharing Historical Authority in a User-Generated World_. [PDF](http://history2016.doingdh.org/wp-content/uploads/sites/8/2016/06/Throwing-Open-Doors.pdf).
-
-Fiona Romeo and Lucinda Blaser, [Bringing Citizen Scientists and Historians Together](http://www.museumsandtheweb.com/mw2011/papers/bringing_citizen_scientists_and_historians_tog).
-
-
-## 12: Typography
-What does a good review look like?
-
-Ellen Lupton, _Thinking with Type_.
+HTMl + Mardown + GitHub Demonstration.
+- Create accounts, move content and images into GitHub repository.
 
 
-## 13: HTML + CSS + Digital Publishing
+## 11: Second Essay Revisions
+
+### Monday
+- Second essay presentations and demonstrations
+- Peer review assignments
+
+### Wednesday
+- Review presentations
 
 
-## 14: OPEN
+## 12: Research
+
+
+## 13: Writing
+
+
+## 14: The Last Additions
+
+### Monday
+Third Essay Presentations
+
+### Wednesday
+Project assembly and adjustments
 
 
 ## 15: Loose ends, conclusions, etc.
