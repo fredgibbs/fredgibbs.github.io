@@ -224,7 +224,7 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 - Work through 3 simple [Mapping with QGIS tutorials](http://fredgibbs.net/tutorials/)
 - For future reference, you get stuck or have questions, consult the [QGIS Training Manual](http://docs.qgis.org/2.2/en/docs/training_manual/), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com)
 - MapBox Demo and data movement
-- Start your own maps (for your portfolio)
+- Start your own maps (for your portfolio). When gathering and organizing data, you might consider using [Google Sheets](https://www.google.com/sheets/about/) or [Airtable](https://airtable.com) (read through the [introductory guide](https://guide.airtable.com) or watch the [12-min. intro video](https://vimeo.com/album/3513053/video/165624533)) to organize your data. You can use Excel, but ultimately you need to get your data into CSV format, which Excel does not do well, especially with non-English characters. Airtable is especially good for helping you (and others) create normalized data (so you won't have something like "Detroit" in some places and "detroit, MI" in other places.)
 
 
 ## 8: Portfolio Critiques
