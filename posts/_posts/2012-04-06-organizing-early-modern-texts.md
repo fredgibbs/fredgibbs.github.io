@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Organizing Early Modern Texts 
+title: Organizing Early Modern Texts
 date:   2012-04-06 23:56:31
 categories: [post, metadata]
 ---
@@ -11,13 +11,13 @@ The rapidly growing archive of early modern texts online presents significant ne
 
 ## Anecdotal Prelude
 
-{% include figure.html class="right" src="/images/organizing-early-modern-texts/doodles-09-225x300.jpg" %}
+{% include figure.html class="right" src="/assets/images/organizing-early-modern-texts/doodles-09-225x300.jpg" %}
 
 Improper use of technology&#8212;or perhaps misplaced technological priorities&#8212;is a danger that we might already be falling prey to. We might be able to better frame the digital challenges facing early modern texts and modern organizational technologies with an analogy to the world of printing in the later 19th century. It was then that letterpress printers found themselves competing with newer and sexier printing techniques, like chromolithography and engraving. Those products were hand-drawn and therefore allowed much greater freedom in design. Soon after, technical advances in letterpress print technology itself (brighter and faster drying inks, new typesetting techniques) allowed letterpress printers to flex their own design chops, and to develop what came to be known as &#8220;artistic printing.&#8221;
 
 Despite the name, it wasn't really artistic at all&#8212;at least not in the sense that it could be characterized by superior aesthetics per fine art standards. The predominant feature was ornamentation&#8212;excessive ornamentation: grandiose borders, highly stylized typefaces, bizarre color schemes, and non-linear design elements&#8212;employed to rival materials printed with newer printing technologies, even when those weren't characterized by such ornamentation. Printers' content was thus dictated by technology; the medium had overtaken the message.
 
-{% include figure.html class="left" src="/images/organizing-early-modern-texts/babcock2b-300x228.jpg" %} 
+{% include figure.html class="left" src="/assets/images/organizing-early-modern-texts/babcock2b-300x228.jpg" %}
 
 Critics reacted strongly against printers making their content subservient to &#8220;barbaric&#8221; excessive ornamentation and &#8220;degenerate&#8221; ostentatious flourishes. They lamented how printers focused on the immediate and low-hanging technological fruit ahead of fundamental typographic principles. The extra ornament was considered a sham, a form of concealment.
 
@@ -25,12 +25,12 @@ Where letterpress printers did not, we must constantly reflect on our priorities
 
 ## Modern Information Overload
 
-{% include figure.html class="right" src="/images/organizing-early-modern-texts/imgres.jpeg" %}
+{% include figure.html class="right" src="/assets/images/organizing-early-modern-texts/imgres.jpeg" %}
 
 As we all know, information overload is not new. One salient reminder comes from Ann Blair and her book _Too Much To Know_, in which she describes how early modern scholars developed various procedural strategies and textual apparati (many of which we still use) to help find and to organize the vast amount of information flooding into their personal libraries. In part, we have the same problem; we too have access to more texts than ever before.
 
 
-{% include figure.html class="left" src="/images/organizing-early-modern-texts/shoebox-cards-199x300.jpg" %}
+{% include figure.html class="left" src="/assets/images/organizing-early-modern-texts/shoebox-cards-199x300.jpg" %}
 
 Having access to more texts facilitates more opportunities for applying our traditional methods for organization. We might be tempted to emulate our early modern predecessors, but with modern equivalents&#8212;no longer curating shoeboxes of 3&#215;5 cards, but rather Zotero libraries; perhaps moderating virtual group libraries instead of emailing bibliographies. On the whole, we as did early modern scholars tend to think in terms of individual technology solutions with some social tentacles, like Zotero and RefWorks. Even on the web, we do this also. We continue to create isolated databases, search engines for them, and even lists of links to help organize and connect early modern texts. But are we creating these because they are the most productive, or because they are most easily accessible technology "solutions?" Have our databases become our ornamental borders?
 
@@ -55,7 +55,7 @@ It seems that many metadata critiques treat metadata as objective, descriptive i
 
 But isn't creating and improving metadata the work of librarians and archivists, you ask? Surely, research scholars don't have the time, inclination or expertise to deal with metadata. _We produce knowledge, not metadata!_
 
-{% include figure.html class="right" src="/images/organizing-early-modern-texts/blog-consumer-producer-150x150.jpg" %}
+{% include figure.html class="right" src="/assets/images/organizing-early-modern-texts/blog-consumer-producer-150x150.jpg" %}
 
 Except that we don't live in the binary producer/consumer world anymore. Even if we did, there is simply too much data to deal with. Its stewards simply do not have all necessary expertise or resources to organize it most effectively and flexibly. Without doubt, this involves plenty of technical challenges (standards, interfaces, infrastructure). But these are trivial in comparison to the real challenge: shifting community expectations that erroneous metadata can and should be edited by researchers themselves. And while we're at it, we might broaden our view of metadata to include not only the usual fields (author, date, etc), but additional description as well (abstracts, section headings, keywords, etc) that makes the texts more findable.
 
@@ -71,7 +71,7 @@ Framed in this way, the problem isn't the erroneous metadata itself (woeful as i
 
 Textual organizational challenges are not just about the connective tissue between texts (like metadata), but also part of the challenge of helping to produce the texts themselves.
 
-{% include figure.html class="right" src="/images/organizing-early-modern-texts/The-Cabinet-of-Cornelis-van-der-Geest-300x234.jpg" %}
+{% include figure.html class="right" src="/assets/images/organizing-early-modern-texts/The-Cabinet-of-Cornelis-van-der-Geest-300x234.jpg" %}
 
 There is no doubt that the rhetoric of the digital humanities embraces the bird's eye view of text. Digital methodologies leverage the computer's ability for mindless drudgery to help us do and see more than we would otherwise&#8212;and hopefully make discoveries that would otherwise go unnoticed. Like repairing metadata, such a perspective suggests a new expectation for our archival work: making text/data visible and available. Again, this is not so we can get the computer to interpret it for us. It's about futzing around with our hermeneutical prism and engaging with the historical record by all available means (and texts).
 
@@ -90,7 +90,7 @@ Several problems with text creation that require attention (merely mentioned her
 
 The reason I mention these challenges (even so curtly), is to point out that they are neither library nor archive problems, nor are they reasons to avoid creating texts. They are _our_ problems that will continue as long as we maintain a too narrow definition of useful work that doesn't include creating and connecting texts, and as long as we expect other people to make texts available and useful for us. Open access is not a challenge for only archivists, librarians and publishers. It's one that pervades the entire scholarly community to publish and preserve work they consider valuable.
 
-{% include figure.html class="right" src="/images/organizing-early-modern-texts/dilbert-database-300x90.gif" %}
+{% include figure.html class="right" src="/assets/images/organizing-early-modern-texts/dilbert-database-300x90.gif" %}
 
 More importantly, these problems persist especially when we employ individual organization solutions, even ones that attempt to aggregate information. We don't need more search engines or more APIs. We need visible text. Use a database to store your text, but don't make me interact with it. Databases are like closed stacks; the best retrieval mechanism doesn't make either of them particularly visible and usable. Even if we have our eyes on the prize of linked open data, we must not forget about this first crucial step of creating texts to link to--and they should be openly published online.
 
@@ -98,8 +98,8 @@ So why bother creating and organizing such a textual archive? Not everyone will 
 
 One obvious case is massive searching, which is self-explanatory. More important is malleability: combining unusual sets of texts to get a bird's eye comparative view. This should not instantly conjure images of massive scatterplots and necessarily large-scale efforts. Small-scale work is also extremely valuable, especially when combining text across archives and disciplinary boundaries.
 
-{% include figure.html class="right" src="/images/organizing-early-modern-texts/Pic23-150x150.gif" %}
-{% include figure.html class="right clear" src="/images/organizing-early-modern-texts/Rosette-150x150.gif" %}
+{% include figure.html class="right" src="/assets/images/organizing-early-modern-texts/Pic23-150x150.gif" %}
+{% include figure.html class="right clear" src="/assets/images/organizing-early-modern-texts/Rosette-150x150.gif" %}
 
 One of the most important reasons to value the creation of full text is the way searching is moving from linear to algorithmic searching. Our organizational strategies (databases, lists, catalogs, etc.) tend to re-enforce traditional, linear research practices. But the future of searching is not simply finding what you're looking for. Having more text (and better metadata) allows us to take advantage of finding not only what we are looking for, but also what we're _not_ looking for&#8212;but should be. Imagine a &#8220;show me more like this&#8230;&#8221; feature that worked for our primary sources. Algorithmic searching is, of course, what Google does, but I'm not suggesting that their mysterious PageRank algorithm should reign over our sources. But as we think about how to organize an unprecedented volume of text, we also have to think about future access technologies. We need to think about the principles of data architecture (typography), and to be sure they are not being applied as technological band-aids (fanciful mauve borders).
 
@@ -112,9 +112,9 @@ If what I've described sounds like some fantasy utopia&#8230;let me reassure you
 
 With such a vastly accessible archive at our fingertips, Mike Witmore (who commented on the conference panel where an early version of this essay was presented) asked if we will lose our ability to ask good questions? Or will we simply be tinkering with texts because they are there? Will our questions still be meaningful? I interpret this as: Will our scholarship be reduced to overwrought font faces and massive visualizations that merely add knowledge without value? It remains to be seen, but I don't think that fully exposing and connecting our early modern texts (and ways of accessing them) will jeopardize our critical faculties or ability to identify and frame interesting questions. Various digital humanities projects have already started to do that. As do new visualizations, a new kind of archive will facilitate new kinds of questions--ones that cannot possibly grow out of the textual archive the way we have traditionally organized it.
 
-In terms of establishing values, our teaching is crucial. As educators of future early modernists, we have to increase awareness of and discuss new textual analytical techniques, and how to establish their requisite infrastructure (like metadata and the value of textual openness) in our courses. Furthermore, our teaching can contribute to the project of making more texts available and visible. We can take advantage of the necessary repetition that happens in both grad and undergrad training to shape the early modern archive into its most usable form. _Ars longa, vita brevis_. Other sessions have already suggested what a great process transcription is for teaching about editing and understanding the notion of a text. 
+In terms of establishing values, our teaching is crucial. As educators of future early modernists, we have to increase awareness of and discuss new textual analytical techniques, and how to establish their requisite infrastructure (like metadata and the value of textual openness) in our courses. Furthermore, our teaching can contribute to the project of making more texts available and visible. We can take advantage of the necessary repetition that happens in both grad and undergrad training to shape the early modern archive into its most usable form. _Ars longa, vita brevis_. Other sessions have already suggested what a great process transcription is for teaching about editing and understanding the notion of a text.
 
-{% include figure.html class="left" src="/images/organizing-early-modern-texts/betamax-300x225.jpg" %}
+{% include figure.html class="left" src="/assets/images/organizing-early-modern-texts/betamax-300x225.jpg" %}
 
 As with our earlier letterpress printers, we'll have our share of overly ornamented communication failures, where technological fascination obscures analytical objectives. And that's okay. In a way that typical scholarship does not, we must embrace productive failure&#8212;tools, interfaces, processes that help us shape the resources at our disposal. Best practices for improving metadata or associating text with images are unclear: it's not at all obvious whether we should be using Betamax or VHS right now. In the end, it doesn't matter, as long as we must value the larger goals more than any particular technology.
 

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: A New Minimalist and Versioned Website
-date: 2013-08-09 13:13:13
-categories: [post]
+date: 2013-08-09
 ---
 
 Isn't it silly to expect people to pay $600 for a scarf? Fashion designer Tomas Maier replies that we should all [just have less](http://www.newyorker.com/reporting/2011/01/03/110103fa_fact_colapinto), embracing the philosophy that we should simply have a few nice things that can be replaced when needed. I recently found this logic especially attractive when packing up a house full of too much stuff I just have to have but didn't remotely miss once it was boxed up.
@@ -16,7 +15,7 @@ I wanted the simplest experience not only for reading, but also for writing and 
 <p class="has-pullquote pullquote-adelle" data-pullquote="My only regret is that I put off trying this for so long."></p>
 Thus I decided to experiment with using [Jekyll](http://jekyllrb.com/) to create a static website from [Markdown](http://daringfireball.net/projects/markdown/) and [Textile](http://redcloth.org/textile files). **It's far easier to write, revise, and publish than it ever has been.** Jekyll also makes it a snap to work locally and preview any website pages before making them live. Using "Git" to manage my files means that I can easily see where I am in the editing process even after I've put the website down for a while.
 
-Thus the current website has been culled (I have plenty of evidence that not everything is worth saving!), revised, rebirthed, and relocated to [Github Pages](https://github.com/fredgibbs/fredgibbs.github.io.) Obviously there was a small hurdle in using the command line to install the necessary components and learn new markup languages, but the entire exercise was considerably less painful than I expected (even with a few version issues to work out); cobbling together a few tutorials brought the learning curve within easy reach. 
+Thus the current website has been culled (I have plenty of evidence that not everything is worth saving!), revised, rebirthed, and relocated to [Github Pages](https://github.com/fredgibbs/fredgibbs.github.io.) Obviously there was a small hurdle in using the command line to install the necessary components and learn new markup languages, but the entire exercise was considerably less painful than I expected (even with a few version issues to work out); cobbling together a few tutorials brought the learning curve within easy reach.
 
 
 <p class="has-pullquote pullquote-adelle" data-pullquote="The difficulty of the installation challenges simply pale in comparison to the joy of not writing HTML and pasting and inevitably correcting text within the pseudo-WYSIWYG editor.">The processed proved unexpectedly rewarding in the ways that using version control forces decisions about writing workflows, serialized scholarship, publishing, archiving, and sharing. It's not that I hadn't previously thought about these issues _in general_, but that I never really had to make decisions about what was most important to me and decide how to implement them. I realized that I had resisted using version control on my website under the auspices of experimental freedom, but it turns out that it was freedom of sloppiness that I wanted. In reality, the layer of bureaucracy that using version control (via Git) adds to my workflow is far less encumbering than the combination of Wordpress, FTP, and Copy and Paste that I had come to see as standard if not inevitable.</p>

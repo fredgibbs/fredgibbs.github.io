@@ -1,5 +1,5 @@
---- 
-layout: post 
+---
+layout: post
 title: Playing with Data
 date: 2011-03-24 00:00:00
 categories: [post, data]
@@ -19,11 +19,11 @@ Two quick examples:
 
 The first utilizes the [Old Bailey Archive](http://oldbaileyonline.org), full-text archive of trials from London’s Central Criminal Court from 1637-1913.  I was able to extract records that contain the word poison,
 
-<img width="495" src="../images/playing-with-data/OB-search-results.png"/>
+{% include figure.html class="full" src="/assets/images/playing-with-data/OB-search-results.png" caption="" %}
 
 and send that data to the fabulous text-analysis tool [Voyeur](http://hermeneuti.ca/voyeur) to better visualize what&#8217;s going on with these particular records. Filtering out the usual stop words and other words that happen to be common to trials records, like &#8220;prisoner&#8221;, I can see that &#8220;drank&#8221; is one of the more common words to appear in my search results. Zeroing in on the context of &#8220;drank&#8221;, I can see that one of words that routinely appears nearby is &#8220;coffee&#8221;.
 
-<img width="495" src="../images/playing-with-data/drank-prelim.png"/>
+{% include figure.html class="full" src="/assets/images/playing-with-data/drank-prelim.png" caption="" %}
 
 Of course it&#8217;s no surprise that a strong, bitter drink would be a vehicle for administering poison. Or perhaps that cheap coffee tasted so bad that someone, having fallen ill for any reason after drinking coffee, could feel as if they had been poisoned by it. Perhaps more importantly, I also learned that “ate” or “eaten” appears hardly at all near the word “poison”. Are these revolutionary historical observations? No. But that’s not my goal here. Rather, I’m just trying to get an informal sense of the context in which poison is being discussed. Had I read through these trial records individually, I might have noticed the frequent mentions of coffee at some point. But then I would need to go back through all other records to see what I&#8217;d missed. And this is for only a few hundred records; the task of rereading the archive doesn’t really scale to several thousand or more records, at least for practical purposes.
 
@@ -33,17 +33,18 @@ The second example involves looking for references to the Book of Job in Victori
 
 Searching for matches across the 5-grams of enormous datasets (the 5-grams of British English is about 200GB, zipped) requires computing power that most people don&#8217;t have. Fortunately, Amazon Web Services provides a more than adequate platform for this kind of pattern matching. Doing the searching can get a bit technical and the details are best left for another blog post. For now, it is enough to say that after about half an hour of some serious (on the typical personal scale of) computing power churning away at the texts, I ended up with the number of books that reference a particular 5-word phrase in Job for each year between 1800 and 1900. This is easily, though not particularly usably graphed:
 
-<img width="495" src="../images/playing-with-data/all-data.png"/>
+{% include figure.html class="full" src="/assets/images/playing-with-data/all-data.png" caption="" %}
 
 When I zoom in on the mess and set a few limits to reduce the amount of noise:
 
-<img width="495" src="../images/playing-with-data/data-peaks.png"/>
+{% include figure.html class="full" src="/assets/images/playing-with-data/data-peaks.png" caption="" %}
 
 I can see a bit more. OK, it&#8217;s still a dense thicket, but there are clearly discernable spikes. A quick web search to find out the years in which editions of the Bible were published shows that these years don&#8217;t always correspond to the spikes. Obviously there are real limits to the data here, and to expect perfect correspondence would be foolish. Can we learn something about the diffusion of Bible editions through this graph that a list of editions alone cannot tell us? What do these spikes mean?
 
 As with the previous example, I&#8217;m not attempting (or getting) any kind of historical interpretation. Far too much criticism of digital humanities tools revolves around the notion that all the new tools aren&#8217;t really doing history. To be clear: they aren&#8217;t. But virtually no one claims they are. They are, however, helping with historical research, helping to make sense of the historical record by highlighting phenomenon that would have been difficult to detect. Of course I need to learn more about the particular references that I&#8217;ve found. What is the larger context? Is there any obvious explanation of the peaks in references? More broadly: Why do some phrases deviate from the typical pattern? What do the correspondences really mean, anyway? We can also explore other data in targeted ways. What were the sciences most discussed in the later nineteenth century?
 
-<img width="495" src="../images/playing-with-data/science-of.png"/>
+{% include figure.html class="full" src="/assets/images/playing-with-data/science-of.png" caption="" %}
+
 
 Again: the visualization doesn&#8217;t tell us what&#8217;s really going on; nor does it try. Luckily, historical data needs real live historians. My computer cannot yet tell me the significance of the frequent mentions of &#8220;the science of comparative mythology.&#8221;
 

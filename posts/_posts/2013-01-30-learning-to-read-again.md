@@ -1,5 +1,5 @@
---- 
-layout: post 
+---
+layout: post
 title: Learning to Read. Again.
 date: 2013-01-30 00:00:00
 categories: [post, text mining]
@@ -17,23 +17,23 @@ But the process of reading is hardly less biased when we're reading historical s
 
 It's hardly necessary at this point to dredge up the debate about historical objectivity. But if we're serious about reading as objectively as possible, then why not embrace multiple ways of reading? To embrace digital history is to expand what it means to _read a text_.
 
-{% include figure.html class="right" src="/images/learning-to-read/Screen-Shot-2013-01-31-at-11.23.07-AM.png" caption="Word frequency across each of 5 documents" %}
+{% include figure.html class="right" src="/assets/images/learning-to-read/Screen-Shot-2013-01-31-at-11.23.07-AM.png" caption="Word frequency across each of 5 documents" %}
 
 
 Just to be clear, I do not mean that we should necessarily embrace a kind of distant reading that assumes one has lots of historical data/texts that must be analyzed. Despite all the rhetoric about distant reading and big data, they are often totally irrelevant to what most historians do. But other ways of reading sources are useful regardless of how many sources there are. Allow me to provide a trivial but informative example.
 
 
-When I first contemplated the goal of [creating a document matrix](/tutorials/document-similarity-with-r.html) (and how it could be considered a corpus) my reaction registered somewhere marginally above abject disdain. This matrix is not a corpus; it is a grid of numbers. Obviously, this was just another example of some computer scientists over-simplifying complex humanistic data to numbers again. 
+When I first contemplated the goal of [creating a document matrix](/tutorials/document-similarity-with-r.html) (and how it could be considered a corpus) my reaction registered somewhere marginally above abject disdain. This matrix is not a corpus; it is a grid of numbers. Obviously, this was just another example of some computer scientists over-simplifying complex humanistic data to numbers again.
 
 *Everyone obviously knows that a matrix and a set of texts are different things! Why pretend otherwise?!*
 
-{% include figure.html class="left" src="/images/learning-to-read/Screen-Shot-2013-01-31-at-11.24.03-AM-300x200.png" caption="Another view, with the axes reversed" %}
+{% include figure.html class="left" src="/assets/images/learning-to-read/Screen-Shot-2013-01-31-at-11.24.03-AM-300x200.png" caption="Another view, with the axes reversed" %}
 
 Of course this knee-jerk response is exactly why so many historians remain skeptical of embracing new methodologies, even as they would whole-heartedly agree that a reverse outline&#8212;just another representation of a text&#8212;is a good way of forcing a new and productive reading of an old (or too familiar) text.
 
 It was only in creating a document matrix myself when I started to understand more of the steps behind it and to see the numbers as a perfectly nice representation of the text itself. To be clear, I did not have a _Matrix_-like Neo moment when I could move seamlessly between columns of green characters scrolling up my terminal console and the words in the individual documents themselves. That would actually defeat the point, anyway. (I can, however, stop bullets in mid air.)
 
-{% include figure.html class="right" src="/images/learning-to-read/Screen-Shot-2013-01-31-at-11.25.25-AM.png" caption="Frequency of words appearing across all documents" %}
+{% include figure.html class="right" src="/assets/images/learning-to-read/Screen-Shot-2013-01-31-at-11.25.25-AM.png" caption="Frequency of words appearing across all documents" %}
 
 I began to see the document matrix as a perfectly valid representation of the text itself&#8212;a version that could be read in a different way from the other representation I had (the documents themselves). This wasn't really distant reading; I was only using, like, 4 texts of a few sentences each for the purposes of completing the tutorial.
 
@@ -55,7 +55,7 @@ It may be tempting to call such a digital reading a distant or perhaps abstracte
 Most of the debates of the merits of distant reading have focused on the distance rather than the reading. The common language used to describe the step of understanding statistical representations like a document matrix is to &#8220;interpret the results.&#8221; There may be unfortunate consequences to approaching the problem in this way, namely in how it foregrounds a &#8220;result&#8221; of an analysis rather than creating a representation of a text that needs to be interpreted like the version of texts with words in it. There are no results to interpret any more than a paragraph of text is some kind of result. It is merely one possible expression of an idea.
 
 
-{% include figure.html class="left" src="/images/learning-to-read/Screen-Shot-2013-01-31-at-11.26.09-AM-300x272.png" caption="How words are related to each other" %}
+{% include figure.html class="left" src="/assets/images/learning-to-read/Screen-Shot-2013-01-31-at-11.26.09-AM-300x272.png" caption="How words are related to each other" %}
 
 And more ways of reading increase our interpretive powers. To claim that mathematical expressions of texts have nothing to offer in the way of interpretation is to say that abstract and unexpected representations cannot provide useful readings. Which is also to deny the fundamental premise of visualization and to embrace the fallacy of infallible readings. Please don't.
 

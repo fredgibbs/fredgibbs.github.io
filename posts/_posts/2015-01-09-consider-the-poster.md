@@ -1,12 +1,12 @@
---- 
-layout: post 
+---
+layout: post
 title: Consider the Poster
 date: 2015-01-09 13:31:00
 ---
 
 At the AHA 2015 meeting in NYC, I had the opportunity to present a poster that featured the tremendously valuable tutorials at the [Programming Historian](http://programminghistorian.org). Click on the digital version below to get a _much_ larger version, and get ready to zoom and scroll.
 
-{% include figure.html caption="A new perspective on the Programming Historian" class="raw" src="/extras/final-board.png" %}
+{% include figure.html caption="A new perspective on the Programming Historian" class="raw" src="/assets/images/ph-poster/final-board.png" %}
 
 
 ## A New Perspective
@@ -16,13 +16,13 @@ However, this otherwise helpful justification begins with what I consider a misg
 
 I've been happily working, along with the rest of the [project team](http://programminghistorian.org/project-team), as a general editor of the _Programming Historian_ for almost two years. I talk with the other general editors about once a month about how to make the site better. In addition to the usual discussion of the lesson pipeline and improving our editorial processes, this has also included many conversations about reorganizing the underwhelming homepage (coming soon!), making a more intuitive way of showing off our fabulous lessons, and better soliciting participation from those who want to write or review tutorials. (Let me know if you'd like to [contribute](http://programminghistorian.org/contribute)!) So it's not like I'm so chin-on-the-keyboard immersed in editorial work that I don't have motivations or opportunities to think about the big picture. **Yet it turned out that the poster was a unique opportunity and motivation to get a new perspective as a result of the design challenge.**
 
-{% include figure.html caption="The analog version comes to life at AHA 2015" class="raw" src="/extras/aha-photo.jpg" %}
+{% include figure.html caption="The analog version comes to life at AHA 2015" class="raw" src="/assets/images/ph-poster/aha-photo.jpg" %}
 
 
 ## Value of Design Challenges
 Limitations fuel creativity and insight. If you could express your ideas however you like, you'd probably choose the form you're most comfortable with—I'm guessing text—because theoretically you can do more with it. To some extent that's true and I don't mean to suggest that posters are better than text. But posters do have some distinct advantages.
 
-First, though, **I want to dispel the most common (and in my opinion most ridiculous) argument against posters: that they aren't sufficiently nuanced for the complex analysis that historians do.** 
+First, though, **I want to dispel the most common (and in my opinion most ridiculous) argument against posters: that they aren't sufficiently nuanced for the complex analysis that historians do.**
 
 The fundamental flaw in this rationale is that it assumes that posters should be or need to be equivalent to texts or the papers that we would present to our audience. Yet this erroneous assumption completely misses the point of posters. They are not a conference paper/presentation surrogate; the poster board does not merely impose physical limitations on your genius that would otherwise shine during your presentation.
 
@@ -34,11 +34,11 @@ The quality and effectiveness of the final poster matters. But there is also an 
 ## Engineering the Big Picture
 My initial assumption was that I'd print a traditional poster that I'd ostentatiously carry to the conference in an industrial-strength tube, looking like an imporant architect carrying around super special blueprints. And I was going to wear all black, obviously.
 
-I then realized that the poster areas at AHA were going to be 4' tall x 8' wide, a way bigger space than can really be filled with a poster printed at a reasonable expense (as far as my access to poster printing goes). I wanted to use as much of the space as possible (like we maximally cram words into our alloted speaking times), which meant modularizing the board into sections that could be printed separately and assembled. 
+I then realized that the poster areas at AHA were going to be 4' tall x 8' wide, a way bigger space than can really be filled with a poster printed at a reasonable expense (as far as my access to poster printing goes). I wanted to use as much of the space as possible (like we maximally cram words into our allotted speaking times), which meant modularizing the board into sections that could be printed separately and assembled.
 
 This technique is perhaps not ideal for standard (smaller) posters because the interior edges of the sections need to line up precisely so they don't interfere with legibility. But since posters tend to be chunked into sections anyway, I figured I could find some compromise and use the space in between my 8x11 panels as the cork equivalent of whitespace.
 
-{% include figure.html caption="The first step of design? Divest yourself of bad ideas like this one." class="raw" src="/extras/aha-poster-board-orig.jpg" %}
+{% include figure.html caption="The first step of design? Divest yourself of bad ideas like this one." class="raw" src="/assets/images/ph-poster/aha-poster-board-orig.jpg" %}
 
 While I feel like the poster eventually came to look _like it should_ (that is, a blend of _wow this is taking way too long_ and _hey this actually does what i want_), it took much brainstorming and shooting wads of paper at the recycle bin before I had any idea worth pursuing.
 
@@ -46,9 +46,9 @@ The mound of crumpled scratch paper in my office (very tricky wind currents!) co
 
 
 ## Bring on the Noise, Funk, and especially Posters
-I won't here belabor the value of physical over virtual conversation; that's hardly news. But I found it surprising what a different cross-section of interested folks I could talk to about _Programming Historian_ that I would not have engaged with otherwise. I got questions—and more importantly, _kinds_ of questions—about the site I never would have got via email; I got to understand how people might approach what/who we are and what we are trying to do in a way that never would have manifested itself virtually. 
+I won't here belabor the value of physical over virtual conversation; that's hardly news. But I found it surprising what a different cross-section of interested folks I could talk to about _Programming Historian_ that I would not have engaged with otherwise. I got questions—and more importantly, _kinds_ of questions—about the site I never would have got via email; I got to understand how people might approach what/who we are and what we are trying to do in a way that never would have manifested itself virtually.
 
-As valuable as the poster-creation process can be, the product of course matters as well. A good poster serves as a inspiring and intriguing visualization of your abstract (research project) or mission (community resource). As digital versions can be put online and referenced after the fact, the poster far outlives the individual poster session where it makes its debut. 
+As valuable as the poster-creation process can be, the product of course matters as well. A good poster serves as a inspiring and intriguing visualization of your abstract (research project) or mission (community resource). As digital versions can be put online and referenced after the fact, the poster far outlives the individual poster session where it makes its debut.
 
 In this sense, **posters provide accessible points of entry to your work than even the best prose cannot.** It serves wonderfully as a hook—not the only or final form of your research—that can motivate others to dive into your brilliant scholarship in its more traditional forms available elsewhere. This is, of course, as true for video shorts or other media as well. In a way, however, the poster provides enough constraints and conventions that it can be less intimidating than starting up your video editor for the first time.
 
@@ -56,7 +56,7 @@ In this sense, **posters provide accessible points of entry to your work than ev
 ## Going Forward
 Two suggestions I hope AHA will consider for future meetings:
 
-1) As opposed to two distinct sessions for the entire conference, I think there should always be poster sessions underway (as far as demand can support). At least for this year, the space was perfect, in a high traffic area, with a great energy around the displays. Why not have more? If diluting the quality is a concern, there are 2 arguments to bear in mind. 1) There are a lot of bad papers at any academic conference, including AHA. 2) Increasing the number of posters means increasing the chance of really creative and innovative posters that raise the bar for all future posters. 
+1) As opposed to two distinct sessions for the entire conference, I think there should always be poster sessions underway (as far as demand can support). At least for this year, the space was perfect, in a high traffic area, with a great energy around the displays. Why not have more? If diluting the quality is a concern, there are 2 arguments to bear in mind. 1) There are a lot of bad papers at any academic conference, including AHA. 2) Increasing the number of posters means increasing the chance of really creative and innovative posters that raise the bar for all future posters.
 
 2) Allow the each poster session to overlap two regularly-slotted sessions, with a poster group change-out during the middle of a session. This is more of a session commitment for poster presenters (though I'd wager anyone who takes time to make a poster would gladly miss a few extra papers to show it off), but greatly increases the visibility of posters, and ensures that the prime traffic times correspond to fully-assembled poster displays.
 
