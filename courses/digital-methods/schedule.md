@@ -202,6 +202,7 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
   - [MapAnalyst](http://www.mapanalyst.org/index.html)
   - [Historic Census Data](https://www.nhgis.org)
   - [StoryMaps](http://story.maps.arcgis.com/home/index.html)
+  - [StoryMapJS](https://storymap.knightlab.com)
   - [Carto](https://carto.com)
   - [MapBox](https://www.mapbox.com/showcase/)
   - If you decide you love web programming: [Leaflet](http://leafletjs.com)
@@ -233,6 +234,9 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 - Work on your portfolios! Keep in mind the criteria below. In general, aim to do simple things well. See how simple you can make your site, but with a clear and consistent design aesthetic (and required content, of course).
 
 ### In class
+- Part 3 of the QGIS tutorials (geo-rectifying and overlaying images)
+- MapBox Demo and data movement
+-
 - Portfolio critiques. You'll show off your portfolio for the rest of the class and explain what you're trying to do and where you've had trouble. There are two main goals here: 1) to have a deadline to keep portfolios moving forward; 2) get ideas from other people (from their own sites as well as questions/comments). Questions we will address in class for each site:
   - Existence of basic pages and content
   - Is there a consistent layout and navigation scheme?
@@ -263,8 +267,10 @@ Under what circumstances are these techniques useful? How can they be used most 
 ### In class
 - Load some of your texts into [Voyant](http://voyant-tools.org/)
 - Download and load texts into [AntConc](http://www.laurenceanthony.net/software/antconc/), following the [PH Tutorial](http://programminghistorian.org/lessons/corpus-analysis-with-antconc) You might also consult [this guide](http://research.ncl.ac.uk/decte/toon/assets/docs/AntConc_Guide.pdf)  
-- Play around with [Timeline Curator](http://www.cs.ubc.ca/group/infovis/software/TimeLineCurator/)
+- Create a timeline with [Timeline Curator](http://www.cs.ubc.ca/group/infovis/software/TimeLineCurator/)
+- Create a timeline with [TimelineJS](https://timeline.knightlab.com)
 - Demo on structured data and [Bookworm](http://bookworm.culturomics.org/)
+- If you work more with structured data, consider [OpenRefine](http://openrefine.org)
 
 
 
