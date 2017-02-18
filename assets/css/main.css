@@ -1,0 +1,722 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+@import url('https://fonts.googleapis.com/css?family=Arimo:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+@media screen {
+
+body {
+  background-color: #FEFEFE;
+  font-family: 'Arimo', sans-serif;
+  font-size:1em;
+  font-weight: 300;
+  color:#666;
+  margin-top: 75px;
+}
+
+.container {
+max-width: 50em;
+}
+
+.navbar {
+background:#FFF;
+opacity: .95;
+box-shadow: 0 3px 4px #ccc;
+}
+
+a.nav-link, a.nav-link:visited  {
+border: 0;
+font-size: .9em;
+font-family: 'Oxygen', sans-serif;
+text-transform: uppercase;
+text-decoration: none;
+color:#666;
+}
+
+nav a.active {
+  color:#990000;
+}
+
+a.navbar-brand {
+  font-size: 100%;
+  margin-top:.1em;
+  text-transform: lowercase;
+  color:#900;
+  border:none;
+}
+
+h1,h2,h3,h4,h5 {
+font-family: 'Oswald';
+color:#000000;
+}
+
+h1 {
+  margin:2em 0 .5em 0;
+  font-size: 1.6em;
+}
+
+h2 {
+  margin:1.5em 0 .5em 0;
+  font-size: 1.3em;
+}
+
+h3 {
+  font-size: 1.1em;
+}
+
+h4 {
+  margin:1.5em 0 .3em 0;
+  font-size: 110%;
+}
+
+p { margin: 0em 0 1em 0; }
+
+a {
+  text-decoration: none;
+  border-bottom:1px dotted;
+  color: #f90;
+}
+a:hover   { color: #a00; }
+a:visited { color: #c60; }
+
+h2 a, h3 a {
+  border:none;
+}
+
+table {
+  font-size: inherit;
+  font: 100%;
+}
+
+
+a.project-row {
+border:1px solid #666;
+}
+
+img {
+  padding:1em;
+}
+
+ul, li {
+  margin:0 0 0 1em;
+  padding:0;
+}
+
+.caps {
+  text-transform: uppercase;
+  font-size: 80%;
+}
+
+.clear {
+  clear:both;
+}
+
+
+.right {
+  float:right;
+}
+
+.left {
+  float:left;
+}
+
+
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+
+.site {
+  text-align: left;
+  line-height: 1.8em;
+  padding:0 1em 0 1em;
+  margin-top: 4em;
+}
+
+.site .meta {
+  color: #aaa;
+  margin:0 0 4px 0;
+  line-height: 1em;
+  font-size: 90%;
+}
+
+.footer {
+  padding: 1em 0;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 90%;
+  color: #999;
+  border-top: 3px solid #eee;
+  margin-top: 2em;
+  overflow: hidden;
+}
+
+.footer .contact {
+  float: left;
+  margin-right: 3em;
+}
+
+.footer .contact a {
+  color: #8085C1;
+}
+
+.footer .rss {
+  margin-top: 1.1em;
+  margin-right: -.2em;
+  float: right;
+}
+
+.footer .rss img {
+  border: none;
+}
+
+.footer a {
+  border:none;
+}
+
+img.footer-icon {
+  height:22px;
+  vertical-align:middle;
+  padding:0;
+  margin:0;
+  border:none;
+}
+
+
+/*****************************************************************************/
+/*
+/* Homepage
+/*
+/*****************************************************************************/
+
+
+.homename {
+  font-family: 'Oxygen', sans-serif;
+  font-size:400%;
+  letter-spacing:-4px;
+  font-weight:bold;
+  color:#990000;
+}
+
+/*****************************************************************************/
+/*
+/* Posts Home
+/*
+/*****************************************************************************/
+ul.posts {
+  font-family: 'Oxygen', sans-serif;
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+ul.posts li {
+  line-height: 1.75em;
+  margin: 0;
+  padding:0;
+}
+
+ul.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
+
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
+.post {
+}
+
+.post h1 {
+  margin-bottom:1em;
+}
+
+.post pre {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .4em;
+}
+
+.post ul, .post ol {
+  margin-left: 1.35em;
+}
+
+.post code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .2em;
+}
+
+.post pre code {
+  border: none;
+}
+
+/* terminal */
+.post pre.terminal {
+  border: 1px solid #000;
+  background-color: #333;
+  color: #FFF;
+}
+
+.post pre.terminal code {
+  background-color: #333;
+}
+
+blockquote {
+  color:#555;
+  width:80%;
+  border-top:0px solid #ccc;
+  border-bottom:0px solid #ccc;
+  padding:.5em 0em .5em 0em;
+  margin-left:auto;
+  margin-right:auto;
+  font-style: italic;
+}
+
+blockquote.left, img.left{
+  margin-right:2em;
+}
+
+blockquote.right, img.right {
+  margin-left: 2em;
+  padding-right:0;
+}
+
+blockquote .full {
+width: 80%;
+border:none;
+}
+
+blockquote p {
+  padding:0;
+  margin:0;
+}
+
+
+.has-pullquote:before {
+  /* Reset metrics. */
+  padding: 0em;
+  border: 0px solid #ccc;
+
+  /* Content */
+  content: attr(data-pullquote);
+
+  /* Pull out to the right, modular scale based margins. */
+  float: right;
+  width: 20em;
+  margin: 1em 0 1em 2em;
+
+  /* Baseline correction */
+  position: relative;
+  top: 5px;
+
+  /* Typography (30px line-height equals 25% incremental leading) */
+  font-family: Roboto;
+  font-size: 120%;
+  line-height: 130%;
+  text-align: justify;
+}
+
+.pullquote-left:before {
+  float: left;
+  margin: 12px 31px 24px -102px;
+
+  width: 251px;
+}
+
+.caption {
+  font-size:80%;
+  line-height: 1.2em;
+  font-family: 'Oxygen', sans-serif;
+  display:block;
+}
+
+figure {
+  margin: 1.5em;
+  clear:both;
+  max-width: 40em;
+}
+
+figure p {
+  clear:both;
+  margin:0;
+}
+
+figure a {
+  text-decoration: none;
+  padding:0;
+  border:none;
+}
+
+figure img {
+  max-width:40em;
+  padding:0;
+  clear:both;
+}
+
+figure img.full {
+  width:100%;
+}
+
+figure img.icon {
+  margin:0;
+  width: 50px;
+}
+
+figcaption {
+  font-size: 80%;
+  text-align: right;
+  font-family: 'Oxygen', sans-serif;
+  display:block;
+  margin:-.5em 2em 0em 0em;
+  line-height: 1.3em;
+}
+
+figcaption.raw {
+  font-size: 80%;
+  text-align: right;
+  font-family: 'Oxygen', sans-serif;
+  display:block;
+  margin:.2em .5em 1em 0;
+}
+
+
+/*****************************************************************************/
+/*
+/* Posters
+/*
+/*****************************************************************************/
+
+
+.poster-row {
+  text-align: center;
+  margin-bottom: 4em;
+}
+
+.poster {
+  padding:1em;
+  border:1px solid #ccc;
+  box-shadow: 2px 2px 5px #888;
+}
+
+.vertical {
+  width:420px;
+}
+
+.horizontal {
+  width:640px;
+}
+
+
+/*****************************************************************************/
+/*
+/* Publications
+/*
+/*****************************************************************************/
+.publications ul li {
+  line-height: 1.5em;
+  list-style-type: none;
+  margin-bottom: 1.5em;
+}
+
+.pub-links {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 80%;
+}
+
+.publications h1 {
+  border-bottom:1px dotted #666;
+  margin-bottom:.5em;
+  text-transform: uppercase;
+}
+
+
+
+/*****************************************************************************/
+/*
+/* Courses
+/*
+/*****************************************************************************/
+
+.course-desc {
+font-size:85%;
+}
+
+.course-img {
+  float:right;
+  padding: 0 0 1em 1em;
+  width:300px;
+}
+
+.course-img-horiz {
+  width:400px;
+  float:right;
+  padding: 0 0 1em 1em;
+
+}
+
+#syllabus {
+  font-family: 'Oxygen', sans-serif;
+  font-size:.95em;
+}
+
+#syllabus h2 {
+margin: 1em 0 1em 0;
+border-top:1px dotted gray;
+border-bottom:1px dotted gray;
+padding: .5em;
+color:#666;
+text-transform: uppercase;
+background-color: #ccc;
+}
+
+#syllabus h3 {
+font-size:1.1em;
+margin: 1.2em 0 .5em 0;
+line-height: 1.5em;
+letter-spacing: .02em;
+}
+
+.duedate {
+  color:#990000;
+  text-transform: uppercase;
+}
+
+/*****************************************************************************/
+/*
+/* CV
+/*
+/*****************************************************************************/
+
+.cv {
+  line-height: 1.4em;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 100%;
+  text-align: justify;
+}
+
+
+.cv h2 {
+  text-transform: uppercase;
+  color:#222;
+}
+
+.cv h3{
+  line-height: 1.5em;
+  margin:2em 0 .3em 0;
+}
+
+
+.cv ul {
+ list-style-type: circle;
+}
+
+.cv li {
+  margin:0 0 .7em 0em;
+  padding:0;
+}
+
+.cv li li{
+  margin:0 0 0 0;
+  padding:0;
+  color:#999;
+}
+
+
+} /* end media screen */
+
+
+/*****************************************************************************/
+/*
+/* SMALL SCREEN
+/*
+/*****************************************************************************/
+
+@media screen and (max-width: 560px) {
+
+a {
+  color:#c70;
+}
+
+  nav h1.title {
+    display:none;
+  }
+
+  nav h1.navheader {
+    font-size: 200%;
+  }
+
+  ul.posts span {
+    color:#999;
+    display:block;
+  }
+
+  a {
+    text-decoration: none;
+    border:none;
+  }
+
+  ul.posts li {
+    line-height: 1em;
+    margin-bottom: 1.5em;
+  }
+
+  .slide-trigger { display: block; }
+    .no-js .slide-trigger { display: none; }
+  .navigation { display: none; }
+    .no-js .navigation { display: block; }
+  .navigation { margin: 0 15px; }
+  .navigation li { float: none; }
+  .navigation li a { border-bottom: 1px solid #fff; }
+
+}
+
+/*****************************************************************************/
+/*
+/* PRINTING
+/*
+/*****************************************************************************/
+
+@page  {
+    size: auto;   /* auto is the initial value */
+
+    /* this affects the margin in the printer settings */
+    margin: 25mm 25mm 25mm 25mm;
+}
+
+@media print {
+
+  body {
+    font-weight: normal;
+    font-family: 'Oxygen', sans-serif;
+  }
+
+  nav {
+    display:none;
+  }
+
+  .footer {
+    display:none;
+  }
+
+#accordion > *{display:block !important;}
+#accordion-schedule > *{display:block !important;}
+
+
+#syllabus {
+  font-family: 'Oxygen', sans-serif;
+  font-size:.95em;
+}
+
+#syllabus h2 {
+font-size:1.2em;
+margin: 1em 0 1em 0;
+border-top:1px dotted gray;
+border-bottom:1px dotted gray;
+padding: .5em;
+color:#666;
+text-transform: uppercase;
+background-color: #eee;
+}
+
+#syllabus h3 {
+font-size:1.2em;
+margin: 1.2em 0 .5em 0;
+line-height: 1.5em;
+letter-spacing: .02em;
+}
+
+#syllabus h1 {
+font-size: 2em;
+}
+
+#syllabus p {
+ padding-bottom: .8em
+}
+
+p, div, ul, li {
+    font-weight: normal;
+}
+
+div p {
+  font-weight: normal;
+}
+
+
+ul li {
+  font-weight: normal;
+  font-size:100%;
+  page-break-inside: avoid;
+}
+
+h2 {
+  clear:both;
+}
+
+h3 {
+  font-weight: normal;
+}
+
+.photo1, .photo2, .photo3, .photo4, .photo5 {
+  height:0px;
+  display:none;
+}
+
+header {
+  display: none;
+}
+
+.page-break { display: block; page-break-before: always; }
+
+.cv {
+  font-family: garamond;
+  font-size: 11pt;
+  text-align: justify;
+}
+
+.cv h2 {
+  font-size: 120%;
+  margin-top: 2em;
+  text-decoration: underline;
+}
+
+.cv h3 {
+  font-size: 110%;
+  font-weight: bold;
+  margin: 2em 0 0 0;
+  padding: 0;
+  line-height: 1em;
+}
+
+.cv ul {
+  padding-left: 1em;
+}
+
+.cv ul ul {
+  padding-left: 0em;
+}
+
+.cv li {
+  margin-bottom: .4em;
+}
+
+.cv .pub-links {
+  display:none;
+}
+
+.cv a, .cv a.visited {
+  color: #333;
+}
+
+}

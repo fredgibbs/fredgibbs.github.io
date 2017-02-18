@@ -1,0 +1,167 @@
+@page {size: A0}
+
+@font-face {
+  font-family: "MEga";
+  src: url("type/MEgalopolisExtra.eot");
+  src: local("☺"),
+    url("type/MEgalopolisExtra.woff") format("woff"),
+    url("type/MEgalopolisExtra.otf") format("opentype"),
+    url("type/MEgalopolisExtra.svg#MEgalopolisExtra") format("svg");
+  }
+
+@font-face {
+  font-family: "aaargh";
+  src: url("type/Aaargh.ttf");
+  src: local("☺"),
+    url("type/Aaargh.woff") format("woff"),
+    url("type/Aaargh.otf") format("opentype"),
+    url("type/Aaargh.svg#Aaargh") format("svg");
+  }
+
+@font-face {
+  font-family: "afta";
+  src: url("type/AftaSansThin-Regular.ttf");
+  src: local("☺"),
+    url("type/AftaSansThin-Regular.woff") format("woff"),
+    url("type/AftaSansThin-Regular.otf") format("opentype"),
+    url("type/AftaSansThin-Regular.svg#AftaSansThin-Regular") format("svg");
+  }
+
+body {
+margin:25px 50px; padding:0px;
+text-align:center;
+color:#333;
+font-size:10px;
+}
+
+#content {
+	//width:180em;
+	width:2384pt;
+	height:3370pt;
+	//margin:0px auto;
+	border:1px solid red;
+	text-align:left;
+	padding:15px;
+	}
+
+h1, h2 { font-family: "MEga", Georgia, serif; }
+h2 em { font-family: "Your italic typeface", Georgia, serif; }
+em { font-style: italic; }
+
+p {
+margin-bottom:1em;
+}
+
+li {
+margin-bottom:1em;
+}
+
+a {
+color:#600;
+}
+
+a:hover {
+color:#a00;
+}
+
+h1 {
+font-size:440%;
+margin-bottom:2em;
+}
+
+h2 {
+font-size:250%;
+margin-bottom:.3em;
+}
+
+img {
+margin-top:1em;
+}
+
+.spacer {
+border-bottom:.4em solid #999;
+margin: 0em 0 4em 0;
+float:left;
+width:100%;
+display:none;
+}
+
+.red_border {
+border-bottom: 3px solid green;
+}
+
+.blue_border {
+border-bottom: 3px solid blue;
+}
+
+.highlight {
+background-color:lightyellow;
+font-size:130%;
+padding:.5em .5em;
+}
+
+.section_label {
+-moz-transform: rotate(90deg);
+-webkit-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+display:block;
+white-space:nowrap;
+height:1em;
+width:1em;
+float:left;
+margin:0em 0 0em 0em;
+font-size:600%;
+clear:both;
+
+}
+
+.section, .section_first {
+float:left;
+display:block;
+text-align:justify;
+border:0px solid black;
+margin: 0em 0 1em 12em;
+clear:both;
+}
+
+.section_first {
+margin-top:-1em;
+margin-left:12em;
+}
+
+.section_header {
+display:block;
+text-align:right;
+width:40em;
+padding-right:0em;
+}
+
+
+.section_text {
+border:0px solid red;
+font-family:afta;
+display:inline;
+width:40em;
+float:left;
+font-size:110%;
+line-height:1.5em;
+}
+
+
+.section_links {
+float:left;
+display:inline;
+font-family:"aaargh";
+font-size:100%;
+margin:0em 0 0 6em;
+line-height:2em;
+}
+
+.section_links a {
+text-decoration:none;
+border-bottom:1px dotted #666;
+margin-bottom:1em;
+padding:0;
+}
+
