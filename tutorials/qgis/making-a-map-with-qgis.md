@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Making a Map with QGIS
-date: 2015-10-26 00:00:00
+created: 2015-10-27
+updated: 2017-02-12
 ---
 
 ## Troubleshooting
@@ -27,7 +28,7 @@ If you see a notice that there is a newer version available, ignore it. Click th
 ## Be Explicit
 When you first start QGIS you'll get a whole lot of white, a bunch of cryptic icons, and pangs of regret and/or fear. On the left pane of the application window, if you see a "Browser" panel, you can click the 'X' to close it, since we won't be using it. Be sure to keep the "Layers" panel visible.
 
-{% include figure.html class="full" src="/images/qgis/qgis-blank.png" caption="The exhilaration and terror of a blank map" %}
+{% include figure.html class="full" src="/assets/images/qgis/qgis-blank.png" caption="The exhilaration and terror of a blank map" %}
 
 Most people expect to see a map, and are frustrated when they don't. QGIS is a powerful but general mapping tool; broad tools of this nature tend not to do much without explicit instructions from you. Using these tools successfully, especially mapping tools, often means adjusting your expectations of what they should do automatically.
 
@@ -50,13 +51,13 @@ You'll notice that you actually get a folder full of files rather than a single 
 
 ## Add Some Data to the Map
 
-{% include figure.html class="icon right" src="/images/qgis/add-vector-icon.png" %}
+{% include figure.html class="icon right" src="/assets/images/qgis/add-vector-icon.png" %}
 
 Click 'Add Vector Layer' icon, the topmost of the vertically stacked icons on the left. Choose 'Directory' (since we want to point QGIS to the folder we downloaded), and click 'Browse' to choose the folder where you ultimately saved (and possibly unzipped) your download from the census.gov page.
 
 After you click 'Open', you should see the outlines of all US counties. Cool! You've just created your first layer in QGIS with a shapefile you downloaded. The color of your map is likely different than the screenshot here, since QGIS chooses an arbitrary color. We'll adjust the color later. Notice that `tl\_2016\_us\_county` appears in the layer pane at the left.
 
-{% include figure.html src="/images/qgis/qgis-counties.png" caption="Not pretty, but pretty cool" %}
+{% include figure.html src="/assets/images/qgis/qgis-counties.png" caption="Not pretty, but pretty cool" %}
 
 If you were expecting a beautifully colored and stylized map centered on the lower 48 (as most county maps you see online are), you may be a bit underwhelmed at this point. As mentioned earlier, this is not a limitation of QGIS, but a problem of expectations. All we asked it it do was display outlines of US counties, and that's exactly what it did.
 
@@ -69,7 +70,7 @@ If you want to get back to your original zoom level, or you accidentally zoom su
 
 To see more of what's behind the data we just loaded, right-click on the layer name again and select 'Open Attribute Table'. You'll see data that comes as part of the directory you downloaded.
 
-{% include figure.html src="/images/qgis/qgis-attributes.png" caption="There is more to your maps than lines on your canvas" %}
+{% include figure.html src="/assets/images/qgis/qgis-attributes.png" caption="There is more to your maps than lines on your canvas" %}
 
 There are a bunch of codes and numbers that won't mean much to you. However, you'll notice that it also includes more intuitive data, like county names. You can see the two variants visible the `NAME` and `NAMELSAD` fields. These fields also allows us to join this dataset with other datasets that also contain county names, which we'll do in Part 2.
 
@@ -77,11 +78,11 @@ There are a bunch of codes and numbers that won't mean much to you. However, you
 ## Add Some Data to the Map
 You can overlay more data by repeating the process. Let's try a different kind of data. Instead of polygons (counties), let's load and display some lines. Get your data for the railways at [Natural Earth Data](http://www.naturalearthdata.com/downloads/10m-cultural-vectors/). Scroll down until you get to Railroads, then download the North American Supplement (this is not all the railways, but it's a smaller file for tutorial purposes).
 
-{% include figure.html class="raw" src="/images/qgis/ne-railroads.png" caption="Lots of great data available" %}
+{% include figure.html class="raw" src="/assets/images/qgis/ne-railroads.png" caption="Lots of great data available" %}
 
 Go through the same process as before (click the "Add Vector" icon and choose your directory). Zoom to the layer extent of the railroad layer and you'll see the railroad lines atop of our counties.
 
-{% include figure.html src="/images/qgis/qgis-railroads.png" caption="It's up to you to find and layer data useful for your research" %}
+{% include figure.html src="/assets/images/qgis/qgis-railroads.png" caption="It's up to you to find and layer data useful for your research" %}
 
 We've loaded two kinds of data, one of polygons for our county boundaries, and one of lines for the railroads. This process of loading shapefiles is the same for displaying countries, railroad lines, bike trails, census tracts, or any other kind of physical or political boundary. There's a LOT of data online that you can freely use to build your maps. **You now have the power!**
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Linking and Styling Data with QGIS
-date: 2015-10-27 00:00:00
+created: 2015-10-27
+updated: 2017-02-12
 ---
 
 The [first part](/tutorials/qgis/making-a-map-with-qgis.html) of our tutorial covered some basics of QGIS.
@@ -15,30 +16,30 @@ You are probably already realizing one of the principal challenges of GIS work. 
 ## Get and Display Data
 We've already got counties in the form of shapefile; let's see if we can add population data to our map. We'll get our data from census.gov again, at their page for [county population estimates](https://www.census.gov/data/datasets/2015/demo/popest/counties-total.html). (The navigation links at census.gov can lead you in circles; using the search function is usually the best way to find data you're after.) This time, however, we aren't going to use a shapefile because we're not interested in drawing geographic features (like county boundaries); we're interested in just the data (populations of counties).
 
-{% include figure.html src="/images/qgis/county-census-data.png" caption="Census.gov has great data, but not always intuitive ways to access it" class="raw" %}
+{% include figure.html src="/assets/images/qgis/county-census-data.png" caption="Census.gov has great data, but not always intuitive ways to access it" class="raw" %}
 
 There is a long link in the middle of the page that starts with "County Totals Dataset..." Click it; if you have trouble, you can click [here](http://www.census.gov/popest/data/counties/totals/2014/files/CO-EST2014-alldata.csv).
 
 Now you should see:
 
-{% include figure.html src="/images/qgis/alldata.png" caption="Please do not hit the panic button" %}
+{% include figure.html src="/assets/images/qgis/alldata.png" caption="Please do not hit the panic button" %}
 
 Perhaps not what you were expecting. Unlike the previous lesson when we downloaded data specifically made for GIS software, this data is plain text data (yay plain text!). It's in a standard file format, CSV (_Comma Separated Values_). You could load this into a spreadsheet, and it would look like:
 
-{% include figure.html src="/images/qgis/census-spreadsheet.png" caption="CSV data isn't so scary in a more familiar form" %}
+{% include figure.html src="/assets/images/qgis/census-spreadsheet.png" caption="CSV data isn't so scary in a more familiar form" %}
 
 For now, hit your browser's back button, then right click the link you just clicked on, and choose "Download Linked File As..." (or the equivalent for your browser) and save the file wherever you're storing your files for these lessons. Just keep the default file name, `co-est2015-alldata.csv`.
 
-{% include figure.html class="icon right" src="/images/qgis/add-csv-icon.png" %}
+{% include figure.html class="icon right" src="/assets/images/qgis/add-csv-icon.png" %}
 To load this data into QGIS, click the icon on the left with a comma (towards the bottom of the icon stack) to "Add Delimited Text Layer". You'll see a new dialog window appear, so that we can tell QGIS a little about our data file so it can load it properly.
 
-{% include figure.html src="/images/qgis/create-text-layer.png" caption="Importing: the first step to data mastery" %}
+{% include figure.html src="/assets/images/qgis/create-text-layer.png" caption="Importing: the first step to data mastery" %}
 
 Click "Browse" in the upper right to select the CSV file you just downloaded.
 
 Make sure the box "First record has field names" is checked, since this is true for our CSV file. You can think of the first line of the file as the column headings when viewing the file in Excel. Notice that the preview pane on the bottom tells us how QGIS is interpreting the data in the file. If your CSV file isn't properly formatted, or you've chosen options from this dialog that do not correspond to the CSV file, the preview will show you that something is wrong.
 
-{% include figure.html src="/images/qgis/create-text-layer-2.png" caption="Pay attention to the preview to avoid future headaches" %}
+{% include figure.html src="/assets/images/qgis/create-text-layer-2.png" caption="Pay attention to the preview to avoid future headaches" %}
 
 Especially if you're someone who just likes to click "OK" without really paying attention, you'll notice the "OK" button is grayed out to save you from yourself. Here's why:
 
@@ -58,7 +59,7 @@ Click the "Joins" menu from the left. We want to add a new join (you can have ma
 
 We want to join our original county map to the population data we just loaded. You'll see the "Join Layer" field is already pre-filled with your `co-est2015-alldata` layer (because it's the most recent one we've loaded). As we've already investigated, we want to link the two datasets by county name. Select the Join field and Target field appropriately (`CTYNAME` and `NAMELSAD`, respectively).
 
-{% include figure.html src="/images/qgis/add-vector-join.png" caption="The last step in joining data" %}
+{% include figure.html src="/assets/images/qgis/add-vector-join.png" caption="The last step in joining data" %}
 
 Click "OK" to close the Add Join dialog, then click "OK" to close the Joins dialog.
 
@@ -86,7 +87,7 @@ Click "Classify". This will assign a color to a value range based on the data fr
 
 Click "OK" and you'll see finally a new map and the color coding at work.
 
-{% include figure.html src="/images/qgis/bad-color-coding.png" caption="After all that, everything is light blue! Really unhelpful." %}
+{% include figure.html src="/assets/images/qgis/bad-color-coding.png" caption="After all that, everything is light blue! Really unhelpful." %}
 
 You probably expecting something more interesting and/or useful. This is not an uncommon feeling when dealing with data and tools like QGIS, especially when learning them. We selected a classification scheme that would equally divide our range of data (roughly 0 - 10,000,000) into equally sized bins, roughly 0-2 million, 2-4 million, and so on. This means that since virtually all counties in the U.S. have less than 2 million people, most everything is shaded the lightest color.
 
