@@ -1,10 +1,20 @@
 ---
 layout: default
 ---
+
 <div class="post">
 
-<p class="meta">{{ page.date | date_to_string }}</p>
-<h1>{{ page.title }}</h1>
+  <p class="meta">
+    {% if page.created %}
+      Created: {{ page.created | date_to_string }}<br>
+    {% endif %}
+    {% if page.updated %}
+      Last updated: {{ page.updated | date_to_string }}<br>
+    {% endif %}
+  </p>
 
-{{ content }}
+  <h1>{{ page.title }}</h1>
+
+  {{ content }}
+
 </div>

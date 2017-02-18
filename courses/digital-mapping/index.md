@@ -4,8 +4,7 @@ title: Digital Mapping
 term: Spring 2014
 number: ARCH 462 and LA 512
 date: 2014-05-28 00:00:00
-css: digital-mapping
-categories: [course]
+slug: digital-mapping
 ---
 
 {::options parse_block_html="true" /}
@@ -85,7 +84,7 @@ Course readings that aren't freely availabe online (and even some that are) can 
 ## Evaluation and Discussion of Online Maps
 What do we like? What might we borrow? What should we avoid?
 
-### Map Porn 
+### Map Porn
 [Innovative Maps as reviewed by CityLab](http://www.citylab.com/tech/2013/12/most-innovative-maps-2013/7952/)  
 [Making Maps: DIY Cartography](http://makingmaps.net/)  
 [Totally random, usually interesting](http://anterotesis.com/wordpress/dh-gis-projects/)  
@@ -141,7 +140,7 @@ Skeptical? Read [this](http://eprints.lse.ac.uk/38489) and [this](http://chronic
 - Edward T. Hall, _Beyond Culture_, 129-140.  
 - Richard Florida, _The Rise of the Creative Class_, 215-234.  
 - Setha Low, _On the Plaza: Politics of Public Space and Culture_, 127-153.  
-- Dave Hickey, “Romancing the Looky-Loos,” 
+- Dave Hickey, “Romancing the Looky-Loos,”
 
 ## Planning Our ABQ Map Project
 We'll work together to create a richly layered interactive map that displays, contextualizes, and historicizes some features of ABQ. The particular topic (if there is a general theme) can be just about anything as long as it has a spatial and historical component. The goal is to create a new kind of spatial interface to understanding the space around us. Ideally, our individual contributions will present different views or facets of ABQ that are displayed spatially and thoroughly contextualized.
@@ -359,11 +358,11 @@ Walk through the [tutorial](https://www.mapbox.com/tilemill/docs/crashcourse/int
 # Friday, June 20
 
 ## Web Maps and Interactivity
-Sections on JAVASCRIPT and SVG from [Interactive Data Visualization](http://chimera.labs.oreilly.com/books/1230000000345/ch03.html#_javascript) 
+Sections on JAVASCRIPT and SVG from [Interactive Data Visualization](http://chimera.labs.oreilly.com/books/1230000000345/ch03.html#_javascript)
 
 Parts 5,6,7,8,9 of Dashing D3.js tutorial [part 5 starts here](https://www.dashingd3js.com/d3js-first-steps)
 
-Section on D3 from [Interactive Data Visualization](http://chimera.labs.oreilly.com/books/1230000000345/ch12.html) 
+Section on D3 from [Interactive Data Visualization](http://chimera.labs.oreilly.com/books/1230000000345/ch12.html)
 
 Check out the array of [Web Mapping Tutorials](http://giscollective.org/tutorials/).
 
@@ -377,9 +376,7 @@ For mobile devices, [this tutorial](http://www.tnoda.com/blog/2013-12-07) shows 
 
 ## Power down
 - course conclusions
-
 - workplans for final project completion
-
 - evaluations
 
 </div>
