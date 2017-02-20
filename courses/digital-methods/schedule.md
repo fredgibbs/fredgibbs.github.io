@@ -212,7 +212,7 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 
 ### Before class
 - Gergely Baics, [Mapping as Process: Food Access in Nineteenth-Century New York](https://globalurbanhistory.com/2016/05/17/mapping-as-process-food-access-in-nineteenth-century-new-york/).
-- Scan through 3-5 [DH GIS Projects](http://anterotesis.com/wordpress/dh-gis-projects/). It's a mixed bag. They may be defunct, overly technical, totally confusing, or kind of awesome. Be prepared to highlight for everyone else the intriguing and questionable features of the sites you explored. Questions to keep in mind:
+- Scan through 3-5 [Humanities GIS Projects](http://geohumanities.org/gis). It's a mixed bag. They may be defunct, overly technical, totally confusing, or kind of awesome. Be prepared to highlight for everyone else the intriguing and questionable features of the sites you explored. Questions to keep in mind:
   - How does mapping/GIS figure into the project? Is it necessary?
   - What kind of data is being used? Where is it from? Is it accessible or reusable?
   - How much does the design of the site matter in taking it seriously?
