@@ -21,7 +21,7 @@ Very rarely are all readings listed required (though all assignments are); I try
 - [Josh](https://joshuarrrr.github.io/)
 - [Kaitlyn](https://k8lyn6.github.io/)
 - [Marisol](https://filamarisol.github.io/)
-- [Nicholas](nrholterman.github.io)
+- [Nicholas](https://nrholterman.github.io/)
 - [Paula](https://pr-curtis.github.io/)
 - [Sarah](https://spswanz.github.io/)
 - [Scott](https://skirycki.github.io/)
