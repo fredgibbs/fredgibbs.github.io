@@ -247,6 +247,8 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 
 ## SPRING BREAK
 
+General Note: Although we won't dedicate entire days to website development, we will continue to discuss ways to enhance your websites.
+
 ## 9: Text Mining
 Under what circumstances are these techniques useful? How can they be used most effectively? We're going to talk about the different formats of data these tools require, problems moving from one to the other; pros and cons of their various approaches, and whatever you newly discovered about your sources from taking a broad view of your sources/data.
 
@@ -255,8 +257,13 @@ Under what circumstances are these techniques useful? How can they be used most 
 - Shlomo Argamon et al., [Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html)
 - Look through [Mining the Dispatch](http://dsl.richmond.edu/dispatch/)    
 - Look through [projects that have used Voyant](http://docs.voyant-tools.org/about/examples-gallery/)    
+- DUE: Response essay on the pros and cons of text mining for your own research
+
+REMINDER: Your response essays are not just make-work for the course, but should be created so that you can show them off on your own personal website as a way of showing your facility with digital methods. So, the audience is not me or your class peers, but a general audience that wants to know what you know.
 
 #### Skim through some OCR readings
+We won't be discussing OCR correction in great detail, but you should be aware of the various challenges it presents and how people are dealing with it.
+
 - Andrew J. Torget & Jon Christensen, [Mapping Texts: Visualizing American Historical Newspapers](http://journalofdigitalhumanities.org/1-3/mapping-texts-project-by-andrew-torget-and-jon-christensen/).
 - Patrick Spedding, “‘The New Machine’: Discovering the Limits of ECCO,” _Eighteenth-Century Studies_ 44, no. 4 (2011): 437–53.
 - OCR Correction [here](https://usesofscale.com/gritty-details/basic-ocr-correction/) and [here](https://tedunderwood.com/2013/12/10/a-half-decent-ocr-normalizer-for-english-texts-after-1700/).
@@ -265,6 +272,7 @@ Under what circumstances are these techniques useful? How can they be used most 
 
 
 ### In class
+- WEBSITES: Column layouts, grids, CSS frameworks and responsive design
 - Load some of your texts into [Voyant](http://voyant-tools.org/)
 - Download and load texts into [AntConc](http://www.laurenceanthony.net/software/antconc/), following the [PH Tutorial](http://programminghistorian.org/lessons/corpus-analysis-with-antconc) You might also consult [this guide](http://research.ncl.ac.uk/decte/toon/assets/docs/AntConc_Guide.pdf)  
 - Create a timeline with [Timeline Curator](http://www.cs.ubc.ca/group/infovis/software/TimeLineCurator/)
@@ -272,78 +280,81 @@ Under what circumstances are these techniques useful? How can they be used most 
 - Demo on structured data and [Bookworm](http://bookworm.culturomics.org/)
 - If you work more with structured data, consider [OpenRefine](http://openrefine.org)
 
-
+#### WHERE YOUR PORTFOLIOS SHOULD BE:
+- Fully defined layout (margins, page width, i.e. basic typography) with header and footer (however extensive or minimal)
+- Functioning navigation bar (however you style it)
+- Separate pages for your responses essays
+- Essays should have compelling formatting (section headers, bold type)
 
 ## 10: Topic Modeling
-The best way to get a handle on topic modeling is to read a variety of explanations. Most aren't very long, and the longest tend to be overviews of topic modeling in practice rather than technical explanations.
+The best way to get a handle on topic modeling is to read a variety of explanations. Most are pretty short, and the longest tend to be overviews of topic modeling in practice rather than technical explanations.
 
 ### Before class
-Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
-
-Ted Underwood, [Topic Modeling Made Just Simple Enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/).
-
-David M. Blei, [Topic Modeling and Digital Humanities](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/).
-
-Andrew Goldstone and Ted Underwood, [What Can Topic Models of PMLA Teach Us about the History of Literary Scholarship?](http://tedunderwood.com/2012/12/14/what-can-topic-models-of-pmla-teach-us-about-the-history-of-literary-scholarship/). For a much and longer and more nuanced development of these ideas, see Andrew Goldstone and Ted Underwood, "The Quiet Transformations of Literary Studies: What Thirteenth Thousand Scholars Could Tell Us."
-
-Rachel Sagner Buurma, "The Fictionality of Topic Modeling: Machine Reading Anthony Trollope’s Barsetshire Series"
-
-Cameron Blevins, [Topic Modeling Martha Ballard's Diary](http://historying.org/martha-ballards-diary/).
-
-Want more? You'll find plenty more links to different kinds of articles (and some of the ones above) with Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://scottbot.net/topic-modeling-for-humanists-a-guided-tour/).
-
+- Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
+- Ted Underwood, [Topic Modeling Made Just Simple Enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/).
+- David M. Blei, [Topic Modeling and Digital Humanities](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/).
+- Andrew Goldstone and Ted Underwood, [What Can Topic Models of PMLA Teach Us about the History of Literary Scholarship?](http://tedunderwood.com/2012/12/14/what-can-topic-models-of-pmla-teach-us-about-the-history-of-literary-scholarship/). For a much and longer and more nuanced development of these ideas, see Andrew Goldstone and Ted Underwood, "The Quiet Transformations of Literary Studies: What Thirteenth Thousand Scholars Could Tell Us."
+- Rachel Sagner Buurma, "The Fictionality of Topic Modeling: Machine Reading Anthony Trollope’s Barsetshire Series"
+- Cameron Blevins, [Topic Modeling Martha Ballard's Diary](http://historying.org/martha-ballards-diary/).
+- Want more? You'll find plenty more links to different kinds of articles (and some of the ones above) with Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://scottbot.net/topic-modeling-for-humanists-a-guided-tour/).
+- DUE: Response essay on the pros and cons of topic modeling for your own research
 
 ### In class
+- WEBSITES: Javascript basics and common applications
 - Install and use [MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet) to topic model some of your sources.
 - As you get some results, you'll want to consult this [guide on interpreting results](http://miriamposner.com/blog/?p=1335).
 - Load up some of your sources into [Overview](https://www.overviewdocs.com/), and compare what you can learn from "raw" topic modeling with MALLET and Overview's presentation of your documents.
 
+#### WHERE YOUR PORTFOLIOS SHOULD BE:
+- Sound essay typography
+- Clean code
 
 
 ## 11: Network Analysis
 
 ### Before Class
-Scott B. Weingart, [Demystifying Networks, Parts I and II](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/).
-
-Elijah Meeks and Maya Krishnan, [Introduction to Network Analysis and Representation](http://dhs.stanford.edu/dh/networks/).
-
-Dmitry Paranyushkin, [Identifying the Pathways for Meaning Circulation using Text Network Analysis](http://noduslabs.com/research/pathways-meaning-circulation-text-network-analysis/).
-
-Skim through the documentation for [Palladio](http://hdlab.stanford.edu/palladio/), especially via the [help page](http://hdlab.stanford.edu/palladio/help/).
-
+- Scott B. Weingart, [Demystifying Networks, Parts I and II](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/).
+- Elijah Meeks and Maya Krishnan, [Introduction to Network Analysis and Representation](http://dhs.stanford.edu/dh/networks/).
+- Dmitry Paranyushkin, [Identifying the Pathways for Meaning Circulation using Text Network Analysis](http://noduslabs.com/research/pathways-meaning-circulation-text-network-analysis/).
+- Skim through the documentation for [Palladio](http://hdlab.stanford.edu/palladio/), especially via the [help page](http://hdlab.stanford.edu/palladio/help/).
+- DUE: Response essay on the pros and cons of network analysis for your own research
 
 ### In Class
+- WEBSITES: More Javascript and slightly more complex applications, and jQuery
 - Upload data and create a network graph with Palladio.
 - Download, install, and model texts with [Gephi](http://gephi.org), using Martin Grandjean, [Introduction to Network Analysis and Visualization](http://www.martingrandjean.ch/gephi-introduction/). You might also consult [another set of tutorials](https://seinecle.github.io/gephi-tutorials/) for additional perspectives.
 
 
+#### WHERE YOUR PORTFOLIOS SHOULD BE:
+- Incorporate some Javascript functionality elements for better usability
+
 ## 12: Critiquing Digital Scholarship
 What are the fundamental criteria for critiquing digital history projects? How much does the traditional peer review model need to change to accommodate new types of historical work/projects?
 
-Journal of American History, [Digital History Reviews](http://jah.oah.org/submit/digital-history-reviews/).
-
-Modern Language Association, [Guidelines for Evaluating Work in Digital Humanities and Digital Media](http://www.mla.org/resources/documents/rep_it/guidelines_evaluation_digital).
-
-Todd Presner, [Evaluating Digital Scholarship](http://idhmc.tamu.edu/commentpress/digital-scholarship/).
-
-Cameron Blevins, [The New Wave of Review](http://www.cameronblevins.org/posts/the-new-wave-of-review/).
-
-Fred Gibbs, “The Poetics of Digital Scholarship,” in Matt Bernico and Manuela Kölke (eds.), _Ontic Flows: From Digital Humanities to Posthumanities_, 101-122. (New York and Dresden: Atropos Press, 2016).
+- Journal of American History, [Digital History Reviews](http://jah.oah.org/submit/digital-history-reviews/).
+- Modern Language Association, [Guidelines for Evaluating Work in Digital Humanities and Digital Media](http://www.mla.org/resources/documents/rep_it/guidelines_evaluation_digital).
+- Todd Presner, [Evaluating Digital Scholarship](http://idhmc.tamu.edu/commentpress/digital-scholarship/).
+- Cameron Blevins, [The New Wave of Review](http://www.cameronblevins.org/posts/the-new-wave-of-review/).
+- Fred Gibbs, “The Poetics of Digital Scholarship,” 101-122.
 
 
 ## 13: Digital Literacies/Pedagogy
-Johanna Drucker, [Humanities Approaches to Graphical Display](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html).
+Today we'll explore how various digital methods can be incorporated into the undergraduate classroom.
 
-John Theibault, [Visualizations and Historical Arguments](http://writinghistory.trincoll.edu/evidence/theibault-2012-spring/).
+- Johanna Drucker, [Humanities Approaches to Graphical Display](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html).
+- John Theibault, [Visualizations and Historical Arguments](http://writinghistory.trincoll.edu/evidence/theibault-2012-spring/).
+- Elijah Meeks, [Infoviz and New Literacies](https://dhs.stanford.edu/algorithmic-literacy/infoviz-and-new-literacies/).
 
-Elijah Meeks, [Infoviz and New Literacies](https://dhs.stanford.edu/algorithmic-literacy/infoviz-and-new-literacies/).
-
-[Visualeyes](http://www.viseyes.org/)    
-[Viewshare](http://viewshare.org)    
-[Flowing Data](http://flowingdata.com)
+### Eye Candy
+- [Visualeyes](http://www.viseyes.org/)    
+- [Viewshare](http://viewshare.org)    
+- [Flowing Data](http://flowingdata.com)
 
 
 ## 14: OPEN
 
 
 ## 15: Loose ends, conclusions, etc.
+
+### WHERE YOUR PORTFOLIOS SHOULD BE:
+- Done. Except for minor enhancements.
