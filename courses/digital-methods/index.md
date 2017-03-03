@@ -45,6 +45,13 @@ Your portfolio must include:
 - Critical review of significant digital projects in your field. What exists? How could they be better? What should new projects be doing? If there is not much to report, then write a short manifesto about how the "digital humanities" values and ethos might serve (or not!) your field.
 - Perseverance and tolerance for frustration. Digital humanities intentionally engages with new methodological problems and professional challenges raised by technology and new media. While theorizing can be useful, this course emphasizes engagement and experience with the technologies themselves. Seemingly simple (and conceptually straightforward) tasks will occasionally take WAY longer than expected. Pushing through these moments is a big part of success in digital humanities work. (5%)
 
+## IN PROGRESS!
+This syllabus is a living document and changes frequently, depending on what's going on in the course, though the general workload will remain more or less as indicated. If you print it out, you'll need to keep your paper version up to date with the online version.
+
+In general, we will spend the beginning part of classes talking about the assignment due that day, addressing questions or concerns that arose while completing it, troubleshooting, and discussing more technical aspects of the tool/method and its practical utility. Then we'll move on to the next tool/method with a general introduction, discussion of its potentials and limitations, work through some tutorials, and go over the assignment for the next meeting (and make sure everyone is ready to tackle it).
+
+Very rarely are all readings listed required (though all assignments are); I try to list relevant readings that I think are worth knowing about and allow everyone to focus on what's most interesting to them and bring their interests and perspectives to our discussions.
+
 
 ## Suggested Texts
 There are no required books the course. However, I highly recommend acquiring a physical copy of _Thinking with Type (2nd ed.)_. You will also need to subscribe to the course Zotero library to access assigned articles. This will be discussed in class, but for reference, please see the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library is [https://www.zotero.org/groups/914437/items](https://www.zotero.org/groups/915921/items), but you must have clicked on the link in your invitation to access the library!

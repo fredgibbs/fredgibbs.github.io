@@ -1,17 +1,11 @@
+---
+title: fred gibbs
+---
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-
-    <title>fred gibbs</title>
-
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
-    <link rel="stylesheet" href="assets//css/main.css">
-    <link rel="shortcut icon" href="http://fredgibbs.net/favicon.ico?v=2" />
-</head>
+{% include header.html %}
 
 <body>
 
@@ -21,6 +15,7 @@
       fred gibbs
     </div>
 
+<div class="row">
     <div class="col-sm-12">
       <ul>
         <li><a href="about">about</a></li>
@@ -31,23 +26,10 @@
         <li><a href="cv">cv</a></li>
       </ul>
     </div>
-
+  </div>
 </div>
 
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-18407528-2']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
+{% include google-analytics.html %}
 
 </body>
 </html>

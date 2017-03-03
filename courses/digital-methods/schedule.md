@@ -7,25 +7,17 @@ date: 2017-01-04 00:00:00
 section: schedule
 ---
 
-# IN PROGRESS!
-This syllabus is a living document and changes frequently, depending on what's going on in the course, though the general workload will remain more or less as indicated. If you print it out, you'll need to keep your paper version up to date with the online version.
-
-In general, we will spend the beginning part of classes talking about the assignment due that day, addressing questions or concerns that arose while completing it, troubleshooting, and discussing more technical aspects of the tool/method and its practical utility. Then we'll move on to the next tool/method with a general introduction, discussion of its potentials and limitations, work through some tutorials, and go over the assignment for the next meeting (and make sure everyone is ready to tackle it).
-
-Very rarely are all readings listed required (though all assignments are); I try to list relevant readings that I think are worth knowing about and allow everyone to focus on what's most interesting to them and bring their interests and perspectives to our discussions.
-
-## Spy on your colleagues
-- [Angelica](https://sasariti.github.io/)
-- [Imani](https://imanico.github.io/)
-- [Jonathan](https://quintj.github.io/)
-- [Josh](https://joshuarrrr.github.io/)
-- [Kaitlyn](https://k8lyn6.github.io/)
-- [Marisol](https://filamarisol.github.io/)
-- [Nicholas](https://nrholterman.github.io/)
-- [Paula](https://pr-curtis.github.io/)
-- [Sarah](https://spswanz.github.io/)
-- [Scott](https://skirycki.github.io/)
-
+### Spy on your colleagues
+[Angelica](https://sasariti.github.io/),
+[Imani](https://imanico.github.io/),
+[Jonathan](https://quintj.github.io/),
+[Josh](https://joshuarrrr.github.io/),
+[Kaitlyn](https://k8lyn6.github.io/),
+[Marisol](https://filamarisol.github.io/),
+[Nicholas](https://nrholterman.github.io/),
+[Paula](https://pr-curtis.github.io/),
+[Sarah](https://spswanz.github.io/),
+[Scott](https://skirycki.github.io/)
 
 
 ## 1: Ethos of Digital Humanities / Digital Historiography
@@ -236,7 +228,6 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 ### In class
 - Part 3 of the QGIS tutorials (geo-rectifying and overlaying images)
 - MapBox Demo and data movement
--
 - Portfolio critiques. You'll show off your portfolio for the rest of the class and explain what you're trying to do and where you've had trouble. There are two main goals here: 1) to have a deadline to keep portfolios moving forward; 2) get ideas from other people (from their own sites as well as questions/comments). Questions we will address in class for each site:
   - Existence of basic pages and content
   - Is there a consistent layout and navigation scheme?
@@ -247,19 +238,31 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 
 ## SPRING BREAK
 
-General Note: Although we won't dedicate entire days to website development, we will continue to discuss ways to enhance your websites.
+<div class="alert alert-info" role="alert">
+<h4 class="alert-heading">Websites</h4>
+Although we won't dedicate entire days to website development, we will continue to discuss ways to enhance your websites. The topics are listed in the <strong>In Class</strong> sections for each day.
+<br><br>
+
+<h4 class="alert-heading">Response essays</h4>
+<strong>Your response essays</strong> are not just make-work for the course, but should be created so that you can show them off on your own personal website as a way of showing your facility with digital methods. So, the audience is not me or your class peers, but a general audience that wants to know what you know.
+</div>
+
 
 ## 9: Text Mining
-Under what circumstances are these techniques useful? How can they be used most effectively? We're going to talk about the different formats of data these tools require, problems moving from one to the other; pros and cons of their various approaches, and whatever you newly discovered about your sources from taking a broad view of your sources/data.
+Under what circumstances are these techniques useful? How can they be used most effectively? We're going to talk about the different formats of data these tools require, problems moving from one to the other, and the pros and cons of their various approaches.
+
+<div class="alert alert-danger" role="alert">
+  <h4 class="alert-heading">Response essay</h4>
+  Show your application of basic text mining in your own research, or a research topic that interests you.
+</div>
+
 
 ### Before class
 - Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
 - Shlomo Argamon et al., [Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html)
 - Look through [Mining the Dispatch](http://dsl.richmond.edu/dispatch/)    
 - Look through [projects that have used Voyant](http://docs.voyant-tools.org/about/examples-gallery/)    
-- DUE: Response essay on the pros and cons of text mining for your own research
 
-REMINDER: Your response essays are not just make-work for the course, but should be created so that you can show them off on your own personal website as a way of showing your facility with digital methods. So, the audience is not me or your class peers, but a general audience that wants to know what you know.
 
 #### Skim through some OCR readings
 We won't be discussing OCR correction in great detail, but you should be aware of the various challenges it presents and how people are dealing with it.
@@ -268,26 +271,39 @@ We won't be discussing OCR correction in great detail, but you should be aware o
 - Patrick Spedding, “‘The New Machine’: Discovering the Limits of ECCO,” _Eighteenth-Century Studies_ 44, no. 4 (2011): 437–53.
 - OCR Correction [here](https://usesofscale.com/gritty-details/basic-ocr-correction/) and [here](https://tedunderwood.com/2013/12/10/a-half-decent-ocr-normalizer-for-english-texts-after-1700/).
 - The [Early Modern OCR Project](http://emop.tamu.edu).
-- Various OCR correction tutorials at _Programming Historian_.
 
 
 ### In class
-- WEBSITES: Column layouts, grids, CSS frameworks and responsive design
 - Load some of your texts into [Voyant](http://voyant-tools.org/)
 - Download and load texts into [AntConc](http://www.laurenceanthony.net/software/antconc/), following the [PH Tutorial](http://programminghistorian.org/lessons/corpus-analysis-with-antconc) You might also consult [this guide](http://research.ncl.ac.uk/decte/toon/assets/docs/AntConc_Guide.pdf)  
-- Create a timeline with [Timeline Curator](http://www.cs.ubc.ca/group/infovis/software/TimeLineCurator/)
-- Create a timeline with [TimelineJS](https://timeline.knightlab.com)
 - Demo on structured data and [Bookworm](http://bookworm.culturomics.org/)
 - If you work more with structured data, consider [OpenRefine](http://openrefine.org)
 
-#### WHERE YOUR PORTFOLIOS SHOULD BE:
-- Fully defined layout (margins, page width, i.e. basic typography) with header and footer (however extensive or minimal)
-- Functioning navigation bar (however you style it)
-- Separate pages for your responses essays
-- Essays should have compelling formatting (section headers, bold type)
+
+<div class="alert alert-info" role="alert">
+<h4 class="alert-heading">Websites</h4>
+<ul><li>Column layouts, grids, CSS frameworks and responsive design</li></ul>
+</div>
+
+<div class="alert alert-warning" role="alert">
+ <h4 class="alert-heading">Portfolio check</h4>
+ <ul>
+ <li>Fully defined layout (margins, page width, i.e. basic typography) with header and footer (however extensive or minimal)</li>
+ <li>Functioning navigation bar (however you style it)</li>
+ <li>Separate pages for your responses essays</li>
+ <li>Essays should have compelling formatting (section headers, bold type)</li>
+</ul>
+</div>
+
 
 ## 10: Topic Modeling
 The best way to get a handle on topic modeling is to read a variety of explanations. Most are pretty short, and the longest tend to be overviews of topic modeling in practice rather than technical explanations.
+
+<div class="alert alert-danger" role="alert">
+  <h4 class="alert-heading">Response essay</h4>
+  Demonstrate an example of using topic modeling in your research, including how you prepared the data, how you created topics, and what they tell you about your sources.
+</div>
+
 
 ### Before class
 - Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
@@ -297,39 +313,70 @@ The best way to get a handle on topic modeling is to read a variety of explanati
 - Rachel Sagner Buurma, "The Fictionality of Topic Modeling: Machine Reading Anthony Trollope’s Barsetshire Series"
 - Cameron Blevins, [Topic Modeling Martha Ballard's Diary](http://historying.org/martha-ballards-diary/).
 - Want more? You'll find plenty more links to different kinds of articles (and some of the ones above) with Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://scottbot.net/topic-modeling-for-humanists-a-guided-tour/).
-- DUE: Response essay on the pros and cons of topic modeling for your own research
 
 ### In class
-- WEBSITES: Javascript basics and common applications
 - Install and use [MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet) to topic model some of your sources.
 - As you get some results, you'll want to consult this [guide on interpreting results](http://miriamposner.com/blog/?p=1335).
 - Load up some of your sources into [Overview](https://www.overviewdocs.com/), and compare what you can learn from "raw" topic modeling with MALLET and Overview's presentation of your documents.
+- - Create a timeline with [Timeline Curator](http://www.cs.ubc.ca/group/infovis/software/TimeLineCurator/)
+- Create a timeline with [TimelineJS](https://timeline.knightlab.com)
 
-#### WHERE YOUR PORTFOLIOS SHOULD BE:
-- Sound essay typography
-- Clean code
+
+<div class="alert alert-info" role="alert">
+<h4 class="alert-heading">Websites</h4>
+<ul>
+<li>Javascript basics and common applications</li>
+</ul>
+</div>
+
+<div class="alert alert-warning" role="alert">
+ <h4 class="alert-heading">Portfolio check</h4>
+ <ul>
+ <li>Clean code (refactor if necessary)</li>
+ <li>Sound essay typography</li>
+ </ul>
+</div>
 
 
 ## 11: Network Analysis
+
+<div class="alert alert-danger" role="alert">
+  <h4 class="alert-heading">Response essay</h4>
+  Demonstrate an example of using network analysis in your research, including the kind of relationships you set out to examine, how you prepared the data to visualize them, how you could style the diagram to aid in interpretation, and how it might be useful in your research at larger scales.
+</div>
 
 ### Before Class
 - Scott B. Weingart, [Demystifying Networks, Parts I and II](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/).
 - Elijah Meeks and Maya Krishnan, [Introduction to Network Analysis and Representation](http://dhs.stanford.edu/dh/networks/).
 - Dmitry Paranyushkin, [Identifying the Pathways for Meaning Circulation using Text Network Analysis](http://noduslabs.com/research/pathways-meaning-circulation-text-network-analysis/).
 - Skim through the documentation for [Palladio](http://hdlab.stanford.edu/palladio/), especially via the [help page](http://hdlab.stanford.edu/palladio/help/).
-- DUE: Response essay on the pros and cons of network analysis for your own research
 
 ### In Class
-- WEBSITES: More Javascript and slightly more complex applications, and jQuery
 - Upload data and create a network graph with Palladio.
 - Download, install, and model texts with [Gephi](http://gephi.org), using Martin Grandjean, [Introduction to Network Analysis and Visualization](http://www.martingrandjean.ch/gephi-introduction/). You might also consult [another set of tutorials](https://seinecle.github.io/gephi-tutorials/) for additional perspectives.
 
+<div class="alert alert-info" role="alert">
+<h4 class="alert-heading">Websites</h4>
+<ul>
+<li>More Javascript, slightly more complex applications, jQuery</li>
+</ul>
+</div>
 
-#### WHERE YOUR PORTFOLIOS SHOULD BE:
-- Incorporate some Javascript functionality elements for better usability
+<div class="alert alert-warning" role="alert">
+ <h4 class="alert-heading">Portfolio check</h4>
+ <ul>
+ <li>Incorporate some Javascript functionality elements for better usability</li>
+ </ul>
+</div>
+
 
 ## 12: Critiquing Digital Scholarship
-What are the fundamental criteria for critiquing digital history projects? How much does the traditional peer review model need to change to accommodate new types of historical work/projects?
+At least in my review, critical discourse about digital humanities projects remains impoverished compared to its analog counterparts.
+
+<div class="alert alert-danger" role="alert">
+  <h4 class="alert-heading">Response essay</h4>
+  What do you consider the fundamental criteria for critiquing digital history projects? How much does the traditional peer review model need to change to accommodate new types of historical work/projects?
+</div>
 
 - Journal of American History, [Digital History Reviews](http://jah.oah.org/submit/digital-history-reviews/).
 - Modern Language Association, [Guidelines for Evaluating Work in Digital Humanities and Digital Media](http://www.mla.org/resources/documents/rep_it/guidelines_evaluation_digital).
@@ -355,6 +402,3 @@ Today we'll explore how various digital methods can be incorporated into the und
 
 
 ## 15: Loose ends, conclusions, etc.
-
-### WHERE YOUR PORTFOLIOS SHOULD BE:
-- Done. Except for minor enhancements.

@@ -2,19 +2,30 @@
 layout: default
 ---
 
-{% if page.status == 'draft' %}
-<div id="syllabus-draft">
-<span class="draft">Draft</span>
-{% else %}
 <div id="syllabus">
-{% endif %}
 
-<h1>{{ page.title }}</h1>
+  <div class="row">
 
-{{ page.term }} • {{ page.number }}<br>      
-<a href="index.html">info</a> | <a href="schedule.html">readings</a>
-<p>
-<hr>
-<p>
-{{ content }}
+    <div class="col-12">
+      <h1>{{ page.title }}</h1>
+      {{ page.term }} • {{ page.number }}
+      <br>
+      <a href="index.html">info</a> | <a href="schedule.html">readings</a>
+      <hr>
+      {{ content }}
+    </div>
+<!--
+    <div class="col-3">
+      <nav id="side-nav">
+        <ul class="nav nav-tabs">
+          <li class="nav-item"><a href="#1-digital-historiography">1: Digital Historiography</a></li>
+          <li><a href="#2-the-command-line">2: The Command Line</a></li>
+          <li><a href="#3-digital-publishing">3: Digital Publishing</a></li>
+          <li><a href="#4-typography--html--css">4: Typography</a></li>
+        </ul>
+      </nav>
+    </div>
+-->
+  </div>
+
 </div>

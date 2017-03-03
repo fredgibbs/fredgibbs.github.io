@@ -1,8 +1,9 @@
 name: fredgibbs
-description: Digital History and Humanities Blog 
+description: Digital History and Humanities Blog
 url: http://fredgibbs.net
 permalink: :categories/:title
 safe: true
 markdown: kramdown
-kramdown: 
-  parse_block_html: true
+
+environment: development
+bootstrap: 4.0.0
