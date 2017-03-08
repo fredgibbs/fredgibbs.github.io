@@ -238,18 +238,14 @@ Matthew Wilkens, "Geolocation Extraction and Mapping of Nineteenth-Century U.S. 
 
 ## SPRING BREAK
 
-<div class="alert alert-info" role="alert">
-<h4 class="alert-heading">Websites</h4>
-Although we won't dedicate entire days to website development, we will continue to discuss ways to enhance your websites. The topics are listed in the <strong>In Class</strong> sections for each day.
-<br><br>
+{% include alert.html class='info' title='Websites' text="Although we won't dedicate entire days to website technologies anymore, we will continue to discuss various techniques to enhance your websites. The topics are listed in the **In Class** sections for each day." %}
 
-<h4 class="alert-heading">Response essays</h4>
-<strong>Your response essays</strong> are not just make-work for the course, but should be created so that you can show them off on your own personal website as a way of showing your facility with digital methods. So, the audience is not me or your class peers, but a general audience that wants to know what you know.
-</div>
+{% include alert.html class='info' title='Response Essays' text="Please keep in mind that these are are not just make-work for the course, but provide a forum for you to show off your facility with digital methods. So, the audience is not merely me or your class peers, but a general audience that wants to know what you know and can do (and is ostensibly interested in your critical engagement with these methods)." %}
 
 
 ## 9: Text Mining
 Under what circumstances are these techniques useful? How can they be used most effectively? We're going to talk about the different formats of data these tools require, problems moving from one to the other, and the pros and cons of their various approaches.
+
 
 <div class="alert alert-danger" role="alert">
   <h4 class="alert-heading">Response essay</h4>
@@ -276,25 +272,20 @@ We won't be discussing OCR correction in great detail, but you should be aware o
 ### In class
 - Load some of your texts into [Voyant](http://voyant-tools.org/)
 - Download and load texts into [AntConc](http://www.laurenceanthony.net/software/antconc/), following the [PH Tutorial](http://programminghistorian.org/lessons/corpus-analysis-with-antconc) You might also consult [this guide](http://research.ncl.ac.uk/decte/toon/assets/docs/AntConc_Guide.pdf)  
-- Demo on structured data and [Bookworm](http://bookworm.culturomics.org/)
 - If you work more with structured data, consider [OpenRefine](http://openrefine.org)
 
 
 <div class="alert alert-info" role="alert">
 <h4 class="alert-heading">Websites</h4>
-<ul><li>Column layouts, grids, CSS frameworks and responsive design</li></ul>
+<ul><li>Column layouts, grids, CSS frameworks, responsive design</li></ul>
 </div>
 
-<div class="alert alert-warning" role="alert">
- <h4 class="alert-heading">Portfolio check</h4>
- <ul>
- <li>Fully defined layout (margins, page width, i.e. basic typography) with header and footer (however extensive or minimal)</li>
- <li>Functioning navigation bar (however you style it)</li>
- <li>Separate pages for your responses essays</li>
- <li>Essays should have compelling formatting (section headers, bold type)</li>
-</ul>
-</div>
-
+{% include alert.html class='warning' title='Portfolio Benchmark' text="
+- Fully defined layout (margins, page width, i.e. basic typography) with header and footer (however extensive or minimal)
+- Functioning navigation bar (however you style it)
+- Separate pages for your responses essays
+- Essays should have compelling formatting (section headers, bold type)"
+%}
 
 ## 10: Topic Modeling
 The best way to get a handle on topic modeling is to read a variety of explanations. Most are pretty short, and the longest tend to be overviews of topic modeling in practice rather than technical explanations.
@@ -318,24 +309,22 @@ The best way to get a handle on topic modeling is to read a variety of explanati
 - Install and use [MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet) to topic model some of your sources.
 - As you get some results, you'll want to consult this [guide on interpreting results](http://miriamposner.com/blog/?p=1335).
 - Load up some of your sources into [Overview](https://www.overviewdocs.com/), and compare what you can learn from "raw" topic modeling with MALLET and Overview's presentation of your documents.
-- - Create a timeline with [Timeline Curator](http://www.cs.ubc.ca/group/infovis/software/TimeLineCurator/)
+- Create a timeline with [Timeline Curator](http://www.cs.ubc.ca/group/infovis/software/TimeLineCurator/)
 - Create a timeline with [TimelineJS](https://timeline.knightlab.com)
+- Demo on structured data and [Bookworm](http://bookworm.culturomics.org/)
 
 
-<div class="alert alert-info" role="alert">
-<h4 class="alert-heading">Websites</h4>
-<ul>
-<li>Javascript basics and common applications</li>
-</ul>
-</div>
+{% include alert.html class='info' title='Websites' text="
+- Sass and CSS review
+  - [Sass Guide](http://sass-lang.com/guide) and [this one](http://tutorialzine.com/2016/01/learn-sass-in-15-minutes/)
+  - [Jekyll docs on Sass](https://jekyllrb.com/docs/assets/)
+"%}
 
-<div class="alert alert-warning" role="alert">
- <h4 class="alert-heading">Portfolio check</h4>
- <ul>
- <li>Clean code (refactor if necessary)</li>
- <li>Sound essay typography</li>
- </ul>
-</div>
+{% include alert.html class='warning' title='Portfolio Benchmark' text="
+- Sass and CSS review<
+  - Clean code
+  - Sound essay topography
+"%}
 
 
 ## 11: Network Analysis
@@ -355,18 +344,12 @@ The best way to get a handle on topic modeling is to read a variety of explanati
 - Upload data and create a network graph with Palladio.
 - Download, install, and model texts with [Gephi](http://gephi.org), using Martin Grandjean, [Introduction to Network Analysis and Visualization](http://www.martingrandjean.ch/gephi-introduction/). You might also consult [another set of tutorials](https://seinecle.github.io/gephi-tutorials/) for additional perspectives.
 
+
 <div class="alert alert-info" role="alert">
 <h4 class="alert-heading">Websites</h4>
 <ul>
-<li>More Javascript, slightly more complex applications, jQuery</li>
+<li>Javascript basics and common applications</li>
 </ul>
-</div>
-
-<div class="alert alert-warning" role="alert">
- <h4 class="alert-heading">Portfolio check</h4>
- <ul>
- <li>Incorporate some Javascript functionality elements for better usability</li>
- </ul>
 </div>
 
 
@@ -383,6 +366,20 @@ At least in my review, critical discourse about digital humanities projects rema
 - Todd Presner, [Evaluating Digital Scholarship](http://idhmc.tamu.edu/commentpress/digital-scholarship/).
 - Cameron Blevins, [The New Wave of Review](http://www.cameronblevins.org/posts/the-new-wave-of-review/).
 - Fred Gibbs, “The Poetics of Digital Scholarship,” 101-122.
+
+<div class="alert alert-info" role="alert">
+<h4 class="alert-heading">Websites</h4>
+<ul>
+<li>More Javascript, slightly more complex applications, jQuery</li>
+</ul>
+</div>
+
+<div class="alert alert-warning" role="alert">
+ <h4 class="alert-heading">Portfolio check</h4>
+ <ul>
+ <li>Incorporate some Javascript functionality elements for better usability</li>
+ </ul>
+</div>
 
 
 ## 13: Digital Literacies/Pedagogy

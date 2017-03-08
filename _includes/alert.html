@@ -1,0 +1,6 @@
+<div class="alert alert-{{ include.class }}" role="alert">
+{% if include.title  %}
+<h4 class="alert-heading">{{ include.title }}</h4>
+{% endif %}
+{{ include.text | markdownify }}
+</div>
