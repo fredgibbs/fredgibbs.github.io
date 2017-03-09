@@ -8,7 +8,7 @@ section: home
 ---
 
 Fred Gibbs \([fwgibbs@umich.edu](mailto:fwgibbs@umich.edu)\)    
-Office Hours: W 1:30-2:30 & 4-5; Th 12-1. 1703 Haven.
+Office Hours: W 1:30-2:30 & 4-5; Th 11-12. 1703 Haven.
 
 ## Course Description
 This course explores new theoretical and methodological possibilities now available to historians working in the digital age. Combining provocative readings from the digital humanities with introductory tutorials on various digital methods (which build technical proficiency generally), we’ll talk about and experiment with powerful new research methodologies that now allow historians to ask and answer fundamentally different kinds of questions and innovatively communicate about them with new media.

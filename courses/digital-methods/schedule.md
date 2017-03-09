@@ -321,9 +321,9 @@ The best way to get a handle on topic modeling is to read a variety of explanati
 "%}
 
 {% include alert.html class='warning' title='Portfolio Benchmark' text="
-- Sass and CSS review<
+- Sass and CSS review
   - Clean code
-  - Sound essay topography
+  - Sound essay typography
 "%}
 
 
