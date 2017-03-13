@@ -157,19 +157,29 @@ Bill Cronon, [Scholarly Authority in a Wikified World](https://www.historians.or
 
 Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.2).
 
+
 ### Wednesday
-HTMl + Mardown + GitHub Demonstration.
+HTML + Markdown + GitHub Demonstration
 - Create accounts, move content and images into GitHub repository.
+
+#### Useful links
+- [GitHub repository](https://github.com/umich-hist-399/campus-histories)
+- [Displaced Histories](https://umich-hist-399.github.io/campus-histories/)
+- [Markdown tutorial](http://www.markdowntutorial.com)
+- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 ## 11: Second Essay Revisions
 
 ### Monday
+- DUE: You must have completely drafted 1 essay, 1 synopsis, and 1 blurb, and have committed them to the repository.
+- DUE: You must have complete a rough draft of 1 essay, 1 synopsis, and 1 blurb, and have committed them to the repository.
 - Second essay presentations and demonstrations
-- Peer review assignments
+- Peer review assignments (pair up with someone doing a related topic); review/remember the critique articles (you are now experts!)
 
 ### Wednesday
-- Review presentations
+- Presentations of your critiques
+- Research discussion and planning
 
 
 ## 12: Research
