@@ -155,7 +155,7 @@ No class: Research / Reading Day
 ### Monday
 Bill Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
 
-Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/–writing-history-in-the-digital-age).
+Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.2).
 
 ### Wednesday
 HTMl + Mardown + GitHub Demonstration.
