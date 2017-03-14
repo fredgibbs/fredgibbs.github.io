@@ -316,7 +316,10 @@ The best way to get a handle on topic modeling is to read a variety of explanati
 
 {% include alert.html class='info' title='Websites' text="
 - Sass and CSS review
-  - For more examples, tutorials, and reference, see the [Sass Guide](http://sass-lang.com/guide) [The Sass Way](http://thesassway.com) and [Tutorialzine](http://tutorialzine.com/2016/01/learn-sass-in-15-minutes/)
+  - For more examples, tutorials, and reference, see:
+    - [Sass Guide](http://sass-lang.com/guide)
+    - [The Sass Way](http://thesassway.com)
+    - [Tutorialzine](http://tutorialzine.com/2016/01/learn-sass-in-15-minutes/)
   - [Jekyll docs on using Sass](https://jekyllrb.com/docs/assets/)
 "%}
 
