@@ -160,13 +160,19 @@ Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](http:/
 
 ### Wednesday
 HTML + Markdown + GitHub Demonstration
-- Create accounts, move content and images into GitHub repository.
 
-#### Useful links
-- [GitHub repository](https://github.com/umich-hist-399/campus-histories)
-- [Displaced Histories](https://umich-hist-399.github.io/campus-histories/)
+- Create account at [GitHub](http://github.com)
+- Send me your username so I can add you to the project team
+- Download and install [Atom](https://atom.io)
+
+#### Markdown links
 - [Markdown tutorial](http://www.markdowntutorial.com)
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- This [Markdown sandbox](http://daringfireball.net/projects/markdown/dingus) allows you to experiment and see what your Markdown will look like in HTML and on a webpage.
+
+#### Our site
+- [GitHub repository](https://github.com/umich-hist-399/campus-histories)
+- [Displaced Histories](https://umich-hist-399.github.io/campus-histories/)
 
 
 ## 11: Second Essay Revisions
