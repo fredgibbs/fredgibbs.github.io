@@ -324,9 +324,8 @@ The best way to get a handle on topic modeling is to read a variety of explanati
 "%}
 
 {% include alert.html class='warning' title='Portfolio Benchmark' text="
-- Sass and CSS review
-  - Clean code
-  - Sound essay typography
+- Clean code
+- Sound essay typography
 "%}
 
 
@@ -342,11 +341,12 @@ The best way to get a handle on topic modeling is to read a variety of explanati
 - Elijah Meeks and Maya Krishnan, [Introduction to Network Analysis and Representation](http://dhs.stanford.edu/dh/networks/).
 - Dmitry Paranyushkin, [Identifying the Pathways for Meaning Circulation using Text Network Analysis](http://noduslabs.com/research/pathways-meaning-circulation-text-network-analysis/).
 - Skim through the documentation for [Palladio](http://hdlab.stanford.edu/palladio/), especially via the [help page](http://hdlab.stanford.edu/palladio/help/).
+- Read through the [_PH_ tutorial](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources) that will help you think about converting historical sources into data for uploading.
 
 ### In Class
-- Upload data and create a network graph with Palladio.
+- Create data (remember: the process, not the data is important here) and create a network graph with Palladio
 - Download, install, and model texts with [Gephi](http://gephi.org), using Martin Grandjean, [Introduction to Network Analysis and Visualization](http://www.martingrandjean.ch/gephi-introduction/). You might also consult [another set of tutorials](https://seinecle.github.io/gephi-tutorials/) for additional perspectives.
-
+- As usual, our goal in surveying the tools is not methodological expertise in a week, but to understand the process of creating data, the basic functionality, and the better evaluate how it's used in the real world.
 
 <div class="alert alert-info" role="alert">
 <h4 class="alert-heading">Websites</h4>
