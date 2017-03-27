@@ -190,8 +190,26 @@ HTML + Markdown + GitHub Demonstration
 
 ## 12: Research
 
+### Monday
+- DUE: Updated contributions with new layouts, typography
+- Critique of overall website so far. What's good? What's missing?
+- Peer review assignments (pair up with someone doing a related topic); review/remember the critique articles (you are now experts!)
+
+### Wednesday
+- Due: 500-word critiques committed to repository
+- Presentations of your critiques and broad overview of site
+- Bibliography analysis
+- Research discussion and planning
+
 
 ## 13: Writing
+
+### Monday
+- RESEARCH DAY: No class. Remember that your third essays are due in one week.
+
+### Wednesday
+- Second Essay Presentations and ancillary materials
+- Critique of overall website so far. What's good? What's missing?
 
 
 ## 14: The Last Additions
