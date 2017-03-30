@@ -365,7 +365,7 @@ At least in my review, critical discourse about digital humanities projects rema
 </div>
 
 - Journal of American History, [Digital History Reviews](http://jah.oah.org/submit/digital-history-reviews/).
-- Modern Language Association, [Guidelines for Evaluating Work in Digital Humanities and Digital Media](http://www.mla.org/resources/documents/rep_it/guidelines_evaluation_digital).
+- Modern Language Association, [Guidelines for Evaluating Work in Digital Humanities and Digital Media](https://www.mla.org/About-Us/Governance/Committees/Committee-Listings/Professional-Issues/Committee-on-Information-Technology/Guidelines-for-Evaluating-Work-in-Digital-Humanities-and-Digital-Media).
 - Todd Presner, [Evaluating Digital Scholarship](http://idhmc.tamu.edu/commentpress/digital-scholarship/).
 - Cameron Blevins, [The New Wave of Review](http://www.cameronblevins.org/posts/the-new-wave-of-review/).
 - Fred Gibbs, “The Poetics of Digital Scholarship,” 101-122.
