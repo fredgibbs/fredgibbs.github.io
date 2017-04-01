@@ -390,6 +390,13 @@ At least in my review, critical discourse about digital humanities projects rema
 ## 13: Digital Literacies/Pedagogy
 Today we'll explore how various digital methods can be incorporated into the undergraduate classroom.
 
+{% include alert.html class='danger' title='Due Today' text="
+- No critique essay
+- Instead: email 3 questions relevant to your portfolios. These can be as specific or as broad as you'd like. Please send these by the end of Tuesday so I have time to prepare answers for class.
+"%}
+
+These readings focus on visulaization, obviously, but the broader question they should help us answer is how well can the visual representation (modeling, graphing, design, etc) help communicate digital literacies and fundamental concerns of the humanities.
+
 - Johanna Drucker, [Humanities Approaches to Graphical Display](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html).
 - John Theibault, [Visualizations and Historical Arguments](http://writinghistory.trincoll.edu/evidence/theibault-2012-spring/).
 - Elijah Meeks, [Infoviz and New Literacies](https://dhs.stanford.edu/algorithmic-literacy/infoviz-and-new-literacies/).
