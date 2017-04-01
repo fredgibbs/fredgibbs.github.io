@@ -41,8 +41,8 @@ Your portfolio must include:
 - Some kind of landing page or home page that gives some idea of the site's contents
 - A page dedicated to explaining---and ideally illustrating---your research, especially its value and significance to a broad audience
 - A mostly complete curriculum vitae with appropriate typography
-- One webpage for each seminar meeting that hosts your blog post and screen shots explaining your engagement with the assignment. You might also indicate what you might do with considerable more time and expertise as it pertains to your research.
-- Critical review of significant digital projects in your field. What exists? How could they be better? What should new projects be doing? If there is not much to report, then write a short manifesto about how the "digital humanities" values and ethos might serve (or not!) your field.
+- One webpage for each seminar meeting (except network graphing) that hosts your blog post and screen shots explaining your engagement with the assignment. You might also indicate what you might do with considerable more time and expertise as it pertains to your research.
+- Your critical essays will also show you working with the technologies (creating a map, topic modeling, etc), and incorporating what you learned into your essays and your comments on the readings.
 - Perseverance and tolerance for frustration. Digital humanities intentionally engages with new methodological problems and professional challenges raised by technology and new media. While theorizing can be useful, this course emphasizes engagement and experience with the technologies themselves. Seemingly simple (and conceptually straightforward) tasks will occasionally take WAY longer than expected. Pushing through these moments is a big part of success in digital humanities work. (5%)
 
 ## IN PROGRESS!

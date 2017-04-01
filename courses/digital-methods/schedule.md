@@ -390,18 +390,22 @@ At least in my review, critical discourse about digital humanities projects rema
 ## 13: Digital Literacies/Pedagogy
 Today we'll explore how various digital methods can be incorporated into the undergraduate classroom.
 
-{% include alert.html class='danger' title='Due Today' text="
+{% include alert.html class='danger' title='The Last Push' text="
 - No critique essay
-- Instead: email 3 questions relevant to your portfolios. These can be as specific or as broad as you'd like. Please send these by the end of Tuesday so I have time to prepare answers for class.
+- Instead: email 3 questions relevant to your portfolio development. These can be as specific or as broad as you'd like (including suggestions for topics to cover). Please send these by the end of Tuesday so I have time to prepare answers for class. We'll probably spread these out over the last two weeks.
 "%}
 
-These readings focus on visulaization, obviously, but the broader question they should help us answer is how well can the visual representation (modeling, graphing, design, etc) help communicate digital literacies and fundamental concerns of the humanities.
+These readings focus on visualization, obviously, but the broader question they should help us address is: how well can visual representation (modeling, graphing, design, etc) help communicate digital literacies and fundamental concerns of the humanities? Building on last week: are these digital humanities concerns, or just humanities?
 
 - Johanna Drucker, [Humanities Approaches to Graphical Display](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html).
 - John Theibault, [Visualizations and Historical Arguments](http://writinghistory.trincoll.edu/evidence/theibault-2012-spring/).
+- John Rosinbum, [Teaching with #DigHist](http://blog.historians.org/2016/08/teaching-with-digital-history/)
+- John Rosinbum, [Teaching the Slave Trade with Voyages: The Transatlantic Slave Trade Database](http://blog.historians.org/2016/10/teaching-slave-trade-voyages-transatlantic-slave-trade-database/)
 - Elijah Meeks, [Infoviz and New Literacies](https://dhs.stanford.edu/algorithmic-literacy/infoviz-and-new-literacies/).
 
 ### Eye Candy
+But potentially useful for thinking about data? Or just critically evaluating data visualizations?
+
 - [Visualeyes](http://www.viseyes.org/)    
 - [Viewshare](http://viewshare.org)    
 - [Flowing Data](http://flowingdata.com)
