@@ -411,7 +411,19 @@ But potentially useful for thinking about data? Or just critically evaluating da
 - [Flowing Data](http://flowingdata.com)
 
 
-## 14: OPEN
+## 14: Topics TBD!
+
+{% include alert.html class='danger' title='The Last Assignment' text=" For your final response paper, I'd like you to produce an ~800 word review of a digital humanities project of your choice. Choose one that is worth reviewing, and about which you have something interesting to say. This should review should show you engaging in the various facets of the project that we have discussed throughout the semester: design, usability, sound use of digital research methods, accessible data, and so on.
+"%}
+
+Follow the steps outlined here: [Quick start: Setting up a custom domain - GitHub](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/)
+
+I highly recommend: [Reclaim Hosting](https://reclaimhosting.com/)
+
+In step 3, you'll probably want to use the first link:  [Setting up an apex domain - GitHub](https://help.github.com/articles/setting-up-an-apex-domain/)
+
+In order to complete that step, you'll want to consult the Reclaim Hosting instructions: [Domain Mapping to GitHub](https://community.reclaimhosting.com/t/domain-mapping-to-github/270)
+https://community.reclaimhosting.com/t/domain-mapping-to-github/270
 
 
 ## 15: Loose ends, conclusions, etc.
