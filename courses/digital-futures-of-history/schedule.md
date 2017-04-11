@@ -218,7 +218,12 @@ HTML + Markdown + GitHub Demonstration
 Third Essay Presentations
 
 ### Wednesday
-Project assembly and adjustments
+Requirements review and to-do lists
 
 
-## 15: Loose ends, conclusions, etc.
+## 15: Conclusions
+
+### Monday
+Course and website review
+
+## APR 28: All work committed to GitHub!

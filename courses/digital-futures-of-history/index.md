@@ -42,7 +42,7 @@ In addressing these questions, we'll draw from contemporary readings in history,
 
 - Serious effort and on-time completion of the many class assignments. Some of these are critical website or project reviews, others are slightly more technical challenges (no prior experience required), others are design challenges. We also do considerable peer review in the class, and you are graded on those efforts as well. (50%)
 
-While I try to provide feedback throughout the semester, particuarly on the various assignments, you are heartily encourage to speak with me at any time to learn what I think of your performance in the class and how it can be improved (if at all).
+While I try to provide feedback throughout the semester, particularly on the various assignments, you are heartily encourage to speak with me at any time to learn what I think of your performance in the class and how it can be improved (if at all).
 
 
 ## Books
