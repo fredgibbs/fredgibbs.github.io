@@ -11,17 +11,14 @@
 @media screen {
 
 body {
-  background-color: #FEFEFE;
-  position:relative;
-  font-family: 'Arimo', sans-serif;
-  font-size:14px;
-  font-weight: 300;
-  color:#666;
   margin-top:5rem;
+  background-color: #FEFEFE;
+  font: 300 1.1rem/1.5rem 'Arimo', sans-serif;
+  color:#666;
 }
 
 .container {
-  max-width: 40rem;
+  max-width: 45rem;
 }
 
 .container #syllabus{

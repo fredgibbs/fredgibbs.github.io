@@ -62,7 +62,7 @@ Accepted (Oct 2016) for publication at Routledge (_Medicine in the Medieval Medi
 
 ## Book Chapters
 
-“The Hermeneutics of Historical Data,” in David Staley (ed.), _Companion to Digital History_. Wiley (forthcoming).
+"Medical Literature on Poison, c. 1300-1600," in Philip Wexler (ed.), _Toxicology in the Middle Ages and Renaissance_, 159-166. London: Academic Press, 2017.
 
 “The Poetics of Digital Scholarship,” in Matt Bernico and Manuela Kölke (eds.), _Ontic Flows: From Digital Humanities to Posthumanities_, 101-122. New York and Dresden: Atropos Press, 2016.
 
@@ -79,6 +79,9 @@ _Histories of the Future_ ([histscifi.com](http://histscifi.com))
 
 "The Historical Value of Ephemeral Discussions of Science on the Web" in _Science &#64; Risk: Toward a National Strategy for Preserving Online Science_, 8-16. Washington, DC: Library of Congress National Digital Information Infrastructure and Preservation Program, 2012. [meeting site](http://www.digitalpreservation.gov/meetings/scienceonline_2012.html) \| [PDF](http://www.digitalpreservation.gov/meetings/documents/othermeetings/science-at-risk-NDIIPP-report-nov-2012.pdf)
 
+
+## Encyclopedia Articles
+
 “Natural History,” in Robert E. Bjork (ed.), _Oxford Dictionary of the Middle Ages_. Oxford: Oxford University Press, 2010.
 
 “Poison Libels,” in Joseph P. Byrne (ed.), _Encyclopedia of Pestilence, Pandemics, and Plagues_. Westport and London: Greenwood Press, 2008.
@@ -86,7 +89,10 @@ _Histories of the Future_ ([histscifi.com](http://histscifi.com))
 
 ## Reviews
 
-Isla Fay, _Health and the City: Disease, Environment and Government in Norwich, 1200–1575_. York: York Medieval Press, 2015. In *Social History of Medicine* 29.1 (February 2016).
+Susanne Leikam, _Framing Spaces in Motion: Tracing Visualizations of Earthquakes into
+Twentieth-Century San Francisco._ Heidelberg: Universitätsverlag, 2015. In _Journal of American History_ 103.4 (March 2017): 1067-68.
+
+Isla Fay, _Health and the City: Disease, Environment and Government in Norwich, 1200–1575_. York: York Medieval Press, 2015. In *Social History of Medicine* 29.4 (February 2016): 844-45.
 
 Massimo Montanari, _Medieval Tastes: Food, Cooking, and the Table_. New York: Columbia University Press, 2015. In _Agricultural History_ 90.2 (2016): 248-9.
 
