@@ -1,8 +1,9 @@
 ---
 layout: syllabus
 title: Digital Futures of History
-term: Fall 2017
-number: HIST 300-018
+term: Winter 2017
+number: HIST 399-006
+date: 2017-01-04 00:00:00
 section: home
 ---
 
@@ -10,9 +11,9 @@ section: home
 This syllabus is still under construction and changes frequently. You can, however, consider this a generally accurate guide to the topics the course will cover and the kinds of activities we'll be doing.
 
 ## Logistics
-- TH 3:30 - 4:45 @ 215 Mitchell Hall
-- Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
-- Office Hours: T 2-3; Th 10-11
+- MW 2:30 - 4 @ 1469 Mason Hall
+- Fred Gibbs \([fwgibbs@umich.edu](mailto:fwgibbs@umich.edu)\) @ 1703 Haven Hall
+- Office Hours: W 1:30-2:30 & 4-5; Th 12-1.
 
 ## Course Description
 This interdisciplinary course explores the effects of the digital age on producing and consuming history. The questions that we will try to answer:

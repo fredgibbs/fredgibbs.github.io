@@ -7,6 +7,8 @@
 @import url('https://fonts.googleapis.com/css?family=Arimo:400,400i,700,700i');
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Lora');
 
 @media screen {
 
@@ -18,7 +20,7 @@ body {
 }
 
 .container {
-  max-width: 45rem;
+  max-width: 50rem;
 }
 
 .container #syllabus{
@@ -40,7 +42,7 @@ a.navbar-brand {
 }
 
 a.nav-link, a.nav-link:visited  {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Roboto', sans-serif;
   text-transform: uppercase;
   text-decoration: none;
   border: 0;
@@ -198,7 +200,7 @@ ul {
 
 .footer {
   padding: 1em 0;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 90%;
   color: #999;
   border-top: 3px solid #eee;
@@ -246,10 +248,8 @@ img.footer-icon {
 
 
 .homename {
-  font-family: 'Oxygen', sans-serif;
-  font-size:400%;
+  font: 3rem 'Roboto', sans-serif;
   letter-spacing:-4px;
-  font-weight:bold;
   color:#990000;
 }
 
@@ -258,8 +258,10 @@ img.footer-icon {
 /* Posts Home
 /*
 /*****************************************************************************/
+
+
 ul.posts {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Roboto', sans-serif;
   list-style-type: none;
   margin-bottom: 2em;
 }
@@ -284,11 +286,27 @@ ul.posts span {
 /*****************************************************************************/
 
 .post {
+  font: 1.1rem/1.6rem "Lora";
+  margin-bottom:1rem;
 }
 
 .post h1 {
   margin-bottom:1em;
 }
+
+.post h2 {
+  font-size:1.8rem;
+}
+
+.post h3 {
+  font-size:1.4rem;
+}
+
+.post h4 {
+  font-size:1rem;
+  color:#ccc;
+}
+
 
 .post pre {
   border: 1px solid #ddd;
@@ -386,7 +404,7 @@ blockquote p {
 .caption {
   font-size:80%;
   line-height: 1.2em;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Roboto', sans-serif;
   display:block;
 }
 
@@ -425,7 +443,7 @@ figure img.icon {
 figcaption {
   font-size: 80%;
   text-align: right;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Roboto', sans-serif;
   display:block;
   margin:-.5em 2em 0em 0em;
   line-height: 1.3em;
@@ -434,7 +452,7 @@ figcaption {
 figcaption.raw {
   font-size: 80%;
   text-align: right;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Roboto', sans-serif;
   display:block;
   margin:.2em .5em 1em 0;
 }
@@ -479,7 +497,7 @@ figcaption.raw {
 }
 
 .pub-links {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 80%;
 }
 
@@ -515,7 +533,7 @@ font-size:85%;
 }
 
 #syllabus {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size:.9rem;
   max-width:70rem;
 }
@@ -563,9 +581,10 @@ margin: 1.5rem 0 .3rem 0;
 /*****************************************************************************/
 
 .cv {
+  max-width: 50em;
   line-height: 1.4em;
-  font-family: 'Oxygen', sans-serif;
-  font-size: 100%;
+  font-family: 'Lato', sans-serif;
+  font-size: 1rem;
   text-align: justify;
 }
 
@@ -646,7 +665,7 @@ a {
 
   body {
     font-weight: normal;
-    font-family: 'Oxygen', sans-serif;
+    font-family: 'Roboto', sans-serif;
   }
 
   nav {
@@ -665,7 +684,7 @@ a {
 }
 
 #syllabus {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size:.95em;
 }
 

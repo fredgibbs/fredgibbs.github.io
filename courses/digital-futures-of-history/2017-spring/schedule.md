@@ -95,100 +95,135 @@ Robert Blackey, “Words to the Whys: Crafting Critical Book Reviews,” _The Hi
 
 
 ### Wednesday
-John Rosinbum, [Teaching the Slave Trade with Voyages: The Transatlantic Slave Trade Database](http://blog.historians.org/2016/10/teaching-slave-trade-voyages-transatlantic-slave-trade-database/).
-
-Come to class with a formal critique of Andrew J. Torget & Jon Christensen, [Mapping Texts: Visualizing American Historical Newspapers](http://journalofdigitalhumanities.org/1-3/mapping-texts-project-by-andrew-torget-and-jon-christensen/).
+No new readings! Focus on completing drafts of your essays that showcase your research so far, and start to present a story that we can publish on our website. Come to class prepared to discuss your essay and research behind it; you'll give a brief presentation/overview of what you've learned so far and where you're headed with your research. We'll critique each other's work based on advice from the readings for (last) Monday; we'll also spend some time discussing the readings in general.
 
 
-
-## 7: Critiquing Digital Scholarship
-What are the fundamental criteria for critiquing digital history projects?
+## 7: Rethinking Campus Histories
 
 ### Monday
-Johanna Drucker, [Humanities Approaches to Graphical Display](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html).
+Google 'campus history' and see what turns up (find somewhere other than Michigan). It's a mixed bag. Find something that intrigues you (it doesn't have to be on the first page). Write a ~800 word critique of the project, following the advice of the articles from last week.
 
-Fred Gibbs, “The Poetics of Digital Scholarship,” in Matt Bernico and Manuela Kölke (eds.), _Ontic Flows: From Digital Humanities to Posthumanities_, 101-122. New York and Dresden: Atropos Press, 2016.
+#### Questions:
+- What themes are most compelling?
+- What kinds of stories will be useful?
+- What kinds of layout/design are we going to use? Why?
+- What kinds of typography?
+
+
+#### We need to set our research agenda TODAY:
+- Everyone will write 3 ~1000 word essays on 3 different themes (hopefully related, maybe not).
+- Have a clear point and original contribution
+- Develop clear chronology and topography in your essays
+- Find / create ~6 images to support each essay (mostly from Bentley)
+- Link to other essays (both ours an existing online histories)
+- Use pull quotes to highlight information
 
 
 ### Wednesday
-American Historical Association, [Guidelines for the Professional Evaluation of Digital Scholarship by Historians](https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-professional-evaluation-of-digital-scholarship-by-historians).
-
-Journal of American History, [Digital History Reviews](http://jah.oah.org/submit/digital-history-reviews/).
-
-Modern Language Association, [Guidelines for Evaluating Work in Digital Humanities and Digital Media](http://www.mla.org/resources/documents/rep_it/guidelines_evaluation_digital).
-
-Todd Presner, [Evaluating Digital Scholarship](http://journalofdigitalhumanities.org/1-4/how-to-evaluate-digital-scholarship-by-todd-presner/).
-
+Research Day: No Class; use time for Bentley visit
 
 
 ## 8: Digital Spatial History
 
 ### Monday
-Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?
-
-Anne Kelly Knowles, [A More Humane Approach to Digital Scholarship](http://parameters.ssrc.org/2016/08/a-more-humane-approach-to-digital-scholarship/).
-
+- Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?
+- Anne Kelly Knowles, [A More Humane Approach to Digital Scholarship](http://parameters.ssrc.org/2016/08/a-more-humane-approach-to-digital-scholarship/).
+- Gergely Baics, [Mapping as Process: Food Access in Nineteenth-Century New York](https://globalurbanhistory.com/2016/05/17/mapping-as-process-food-access-in-nineteenth-century-new-york/).
+- Research questions
 
 ### Wednesday
-Gergely Baics, [Mapping as Process: Food Access in Nineteenth-Century New York](https://globalurbanhistory.com/2016/05/17/mapping-as-process-food-access-in-nineteenth-century-new-york/).
-
-Come to class with a formal critique of a [GIS Project](http://anterotesis.com/wordpress/dh-gis-projects/).
+- Michael Conway, [The Problem With History Classes](http://www.theatlantic.com/education/archive/2015/03/the-problem-with-history-classes/387823/).
+- Research presentations and critiques
+- Review assignments for over break
 
 
 ## Spring Break
 
 
-## 9: Text Mining
-Under what circumstances are these techniques useful? How can they be used most effectively?
+## 9: Typography
 
 ### Monday
-Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/).
+No class: Research / Reading Day
 
 ### Wednesday
-Rob Nelson, [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
-
-Load some texts into [Voyant](http://voyant-tools.org/) and write a critique of one of the many [projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/).    
-
-
-## 10: Topic Modeling
-
-### Monday
-Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
-
-Ted Underwood, [Topic Modeling Made Just Simple Enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/).
-
-Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
+- DUE: 500-word critiques for first essays
+- Ellen Lupton, _Thinking with Type_. Sorry, but the website version is now broken, so you need the actual book. It's much better than the online version, though.
 
 
-### Wednesday
-Andrew Goldstone and Ted Underwood, "The Quiet Transformations of Literary Studies: What Thirteenth Thousand Scholars Could Tell Us."
-
-Load some documents into [Overview](https://www.overviewdocs.com).
-
-
-## 11: Wikipedia, Authority, and Historical Knowledge
+## 10: Wikipedia, Authority, and Historical Knowledge
 
 ### Monday
 Bill Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
 
-Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/–writing-history-in-the-digital-age).
+Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.2).
+
 
 ### Wednesday
-Selections from Bill Adair, Benjamin Filene, and Laura Koloski (eds.), _Letting Go?: Sharing Historical Authority in a User-Generated World_. [PDF](http://history2016.doingdh.org/wp-content/uploads/sites/8/2016/06/Throwing-Open-Doors.pdf).
+HTML + Markdown + GitHub Demonstration
 
-Fiona Romeo and Lucinda Blaser, [Bringing Citizen Scientists and Historians Together](http://www.museumsandtheweb.com/mw2011/papers/bringing_citizen_scientists_and_historians_tog).
+- Create account at [GitHub](http://github.com)
+- Send me your username so I can add you to the project team
+- Download and install [Atom](https://atom.io)
+
+#### Markdown links
+- [Markdown tutorial](http://www.markdowntutorial.com)
+- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- This [Markdown sandbox](http://daringfireball.net/projects/markdown/dingus) allows you to experiment and see what your Markdown will look like in HTML and on a webpage.
+
+#### Our site
+- [GitHub repository](https://github.com/umich-hist-399/campus-histories)
+- [Displaced Histories](https://umich-hist-399.github.io/campus-histories/)
 
 
-## 12: Typography
-What does a good review look like?
+## 11: Second Essay Revisions
 
-Ellen Lupton, _Thinking with Type_.
+### Monday
+- DUE: You must have completely drafted 1 essay, 1 synopsis, and 1 blurb, and have committed them to the repository.
+- DUE: You must have complete a rough draft of 1 essay, 1 synopsis, and 1 blurb, and have committed them to the repository.
+- Second essay presentations and demonstrations
+- Peer review assignments (pair up with someone doing a related topic); review/remember the critique articles (you are now experts!)
+
+### Wednesday
+- Presentations of your critiques
+- Research discussion and planning
 
 
-## 13: HTML + CSS + Digital Publishing
+## 12: Research
+
+### Monday
+- DUE: Updated contributions with new layouts, typography
+- Critique of overall website so far. What's good? What's missing?
+- Peer review assignments (pair up with someone doing a related topic); review/remember the critique articles (you are now experts!)
+
+### Wednesday
+- Due: 500-word critiques committed to repository
+- Presentations of your critiques and broad overview of site
+- Bibliography analysis
+- Research discussion and planning
 
 
-## 14: OPEN
+## 13: Writing
+
+### Monday
+- RESEARCH DAY: No class. Remember that your third essays are due in one week.
+
+### Wednesday
+- Second Essay Presentations and ancillary materials
+- Critique of overall website so far. What's good? What's missing?
 
 
-## 15: Loose ends, conclusions, etc.
+## 14: The Last Additions
+
+### Monday
+Third Essay Presentations
+
+### Wednesday
+Requirements review and to-do lists
+
+
+## 15: Conclusions
+
+### Monday
+Course and website review
+
+## APR 28: All work committed to GitHub!
