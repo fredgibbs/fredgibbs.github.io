@@ -8,7 +8,7 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
-@import url('https://fonts.googleapis.com/css?family=Lora');
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i');
 
 @media screen {
 
@@ -284,6 +284,8 @@ ul.posts span {
 }
 
 
+
+
 /*****************************************************************************/
 /*
 /* Posts
@@ -308,6 +310,7 @@ ul.posts span {
   font-size:1rem;
   color:#ccc;
 }
+
 
 
 .post pre {
