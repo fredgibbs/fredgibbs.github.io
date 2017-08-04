@@ -278,6 +278,11 @@ ul.posts span {
   font-size: 80%;
 }
 
+.posts h2 {
+  font-size:1.6rem;
+  text-transform:uppercase;
+}
+
 
 /*****************************************************************************/
 /*
@@ -294,9 +299,6 @@ ul.posts span {
   margin-bottom:1em;
 }
 
-.post h2 {
-  font-size:1.8rem;
-}
 
 .post h3 {
   font-size:1.4rem;
