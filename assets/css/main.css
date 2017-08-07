@@ -99,18 +99,27 @@ color:#000000;
 }
 
 h1 {
-  margin:0em 0 .5em 0;
-  font-size: 1.6em;
+  font-size: 1.6rem;
+  margin:0em 0 .5rem 0;
 }
 
 h2 {
-  margin:1.5em 0 .5em 0;
-  font-size: 1.3em;
+  font-size: 1.4rem;
+  text-transform:uppercase;
+  color:#fff;
+  background:#666;
+  margin:2rem 0 .5rem 0;
+  padding:.3rem;
+
 }
 
 h3 {
-  font-size: 1.1em;
-  margin:0;
+  font-size: 1.3rem;
+  margin:1.5rem 0 .5rem 0;
+}
+
+h2 + h3 {
+  margin-top:1.5rem;
 }
 
 h4 {
@@ -255,10 +264,9 @@ img.footer-icon {
 
 /*****************************************************************************/
 /*
-/* Posts Home
+/* Posts Index
 /*
 /*****************************************************************************/
-
 
 ul.posts {
   font-family: 'Roboto', sans-serif;
@@ -279,11 +287,12 @@ ul.posts span {
 }
 
 .posts h2 {
-  font-size:1.6rem;
-  text-transform:uppercase;
+  margin:2rem 0 1rem 0;
 }
 
-
+.posts h3 {
+  margin:0 0 .2rem 0;
+}
 
 
 /*****************************************************************************/
@@ -375,41 +384,37 @@ blockquote p {
 }
 
 
-.has-pullquote:before {
+.has-pullquote:before, .has-pullquote-left:before {
   /* Reset metrics. */
   padding: 0em;
   border: 0px solid #ccc;
+  color:#555;
 
   /* Content */
   content: attr(data-pullquote);
 
   /* Pull out to the right, modular scale based margins. */
   float: right;
-  width: 20em;
-  margin: 1em 0 1em 2em;
+  width: 40%;
+  margin: 0rem 0 1rem 1rem;
 
   /* Baseline correction */
   position: relative;
   top: 5px;
-
-  /* Typography (30px line-height equals 25% incremental leading) */
-  font-family: Roboto;
-  font-size: 120%;
-  line-height: 130%;
-  text-align: justify;
+  font: bold 1rem/1.2rem 'Source Sans Pro';
+  text-align: left;
 }
 
-.pullquote-left:before {
+.has-pullquote-left:before {
   float: left;
-  margin: 12px 31px 24px -102px;
-
-  width: 251px;
+  margin: 1rem 1rem 2rem 0;
+  width: 35%;
 }
 
 .caption {
   font-size:80%;
   line-height: 1.2em;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Arimo', sans-serif;
   display:block;
 }
 
@@ -586,22 +591,20 @@ margin: 1.5rem 0 .3rem 0;
 /*****************************************************************************/
 
 .cv {
-  max-width: 50em;
-  line-height: 1.4em;
+  max-width: 50rem;
+  line-height: 1.4rem;
   font-family: 'Lato', sans-serif;
   font-size: 1rem;
   text-align: justify;
 }
 
-
+/* use standard */
 .cv h2 {
-  text-transform: uppercase;
-  color:#222;
 }
 
 .cv h3{
-  line-height: 1.5em;
-  margin:2em 0 .3em 0;
+  line-height: 1.5rem;
+  margin:1rem 0 .3rem 0;
 }
 
 

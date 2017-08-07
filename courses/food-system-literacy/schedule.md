@@ -17,7 +17,7 @@ Today we'll review the syllabus, course aims, assignments, and general plan for 
 ### Aug 24
 Two contrasting visions of food production:
 * _Pandora's Lunchbox_, xiii-xix (def'n of processed food); 1-20. (idea of food science)
-* _Revolution in Eating_ (A culinary declaration of independence) (almost 40 pages)
+* _Revolution in Eating_ (A culinary declaration of independence) (~40 pages)
 
 
 ### Aug 29
@@ -36,7 +36,7 @@ Two contrasting visions of food production:
 * _Revolution at the Table_, 121-136 (Best for Babies, 1880-1930); rise of science over nature
 * Amy Bentley, "Inventing Baby Food: Gerber and the Discourse of Infancy in the United States," 92-109.
 
-[FOR NEXT TIME]: Find food ads from around 1900; What kinds of products are they promoting? What kinds of techniques do they use? What are they appealing to? How are they using science to sell food? Who are they marketing to?
+[FOR NEXT TIME]: Find food ads from around 1900 (1880-1920 at the extremes); What kinds of products are they promoting? What kinds of techniques do they use? What are they appealing to? How are they using science to sell food? Who are they marketing to?
 
 
 ### Sep 12
@@ -55,42 +55,47 @@ NO CLASS
 
 
 ### Sep 26
-* Selections from _The Jungle_
+* Upton Sinclair, _The Jungle_ (chapters 9 and 14; page numbers vary by edition).
 * _Pandora's Lunchbox_, 21-37 (about 1900, early FDA).
 
 ### Sep 28
-[PRIMARY] "Old Ideals versus New Ideas in Farm Life" (1940).
+* [PRIMARY] "Old Ideals versus New Ideas in Farm Life" (1940).
+* Michael Pollan, _Omnivore's Dilemma_, 32-56 (The Farm).
 
 
 
 ### Oct 3
 _Fast Food Nation_ 13-28 (brief history of fast food chains)
-_Paradox of Plenty_, 227-236 (Fast Foods and Quick Bucks). A little of the 1920s, mostly 50s and 60s.
+_Paradox of Plenty_, 227-236 (Fast Foods and Quick Bucks). some 1920s, mostly 50s and 60s.
 
 ### Oct 5
-_Salt, Sugar, Fat_, 45-67 (Convenience with a Capital C). 1950s and 60s.
+_Salt, Sugar, Fat_, 45-67 (Convenience with a Capital C). mostly 1950s and 60s.
 _Paradox of Plenty_, 101-118 (The Golden Age of Food Processing: Miracle Whip *über Alles*) 1950s;
 
 
 
 ### Oct 10
-Rachel Carson, _Silent Spring_, 5-37.
+* Rachel Carson, _Silent Spring_, 5-37.
+* Selections from _Appetite for Change_.
 
 ### Oct 12
 FALL BREAK
 
+For the next week, you should focus on your advertising assignment. We'll divide up into groups and tackle different years 1920-1970 (time span subject to adjustment), and how, from a food standpoint, those years appear in ABQ newspapers. We'll use business directories and newspapers to learn about the development of grocery stores, how they were advertising, and how this changed over time.
+
+Food Documentary Review
 
 ### Oct 17
-EXTENDED BREAK
+EXTENDED BREAK (research time)
 
 ### Oct 19
-EXTENDED BREAK
+EXTENDED BREAK (research time)
 
 
 
 ### Oct 31
-banana article? (really good!) good ecology and economics slant.
-avacado?
+John Soluri, “Accounting for Taste: Export Bananas, Mass Markets, and Panama Disease,” 386–410.
+avacado chapter
 
 ### Nov 2
 
@@ -103,7 +108,7 @@ avacado?
 ### Nov 9
 * _Fast Food Nation_ 149-166; 169-190 (working conditions).
 * _Meat Racket_, 1-13; 47-62; 17-46 (Family Chicken Farming)
-* "Livestock's Long Shadow," 267,284. ftp://ftp.fao.org/docrep/fao/010/a0701e/a0701e07.pdf
+* "Livestock's Long Shadow," 267-284. [(ftp://ftp.fao.org/docrep/fao/010/a0701e/a0701e07.pdf)]
 
 
 
@@ -111,6 +116,7 @@ avacado?
 * "A Brief Overview of the History and Philosophy of Organic Agriculture," 2-18.
 http://kerrcenter.com/wp-content/uploads/2014/08/organic-philosophy-report.pdf
 * Laura B. DeLind, “Transforming Organic Agriculture into Industrial Organic Products: Reconsidering National Organic Standards,” 198–208.
+* Michael Pollan, _Omnivore's Dilemma_, 134-184 (Big Organic).
 
 ### Nov 16
 * McKay Jenkins, _Food Fight: GMOs and the Future of the America_ (Prologue; Are GMO's Safe?), 1-46.

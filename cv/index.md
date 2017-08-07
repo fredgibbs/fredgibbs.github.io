@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: cv | fredgibbs
+title: cv | fred gibbs
 ---
 
 **Frederick W. Gibbs**  
@@ -13,25 +13,26 @@ Albuquerque, NM 87131-1181
 
 ## Academic Employment
 
-**Aug 2013 -**  
-Assistant Professor of History  
-University of New Mexico
+### University of New Mexico  
+Associate Professor of History (Aug 2017 -)  
+Assistant Professor of History (Aug 2013 - Jul 2017)  
 
-**Aug 2009 - Jul 2013**  
-Assistant Professor of History  
-Director of Digital Scholarship  
-Roy Rosenzweig Center for History and New Media  
-George Mason University
+### Roy Rosenzweig Center for History and New Media  
+Director of Digital Scholarship  (Aug 2009 - Jul 2013)
 
-**PhD**, **MA**, History of Science, Medicine & Technology  
-University of Wisconsin (2009, 2002)
+### George Mason University  
+Assistant Professor of History  (Aug 2009 - Jul 2013)
 
-**BA**, Physics  
-Carleton College (1998)
+### University of Wisconsin  
+Ph.D (2009), MA (2002)  
+History of Science, Medicine & Technology  
+
+### Carleton College  
+Bachelor of Arts (1998)  
+Physics
 
 
 ## Recent Courses
-
 * [Digital Methods for the Humanities](http://fredgibbs.net/courses/digital-methods)
 * [Digital Futures of History](http://fredgibbs.net/courses/digital-futures-of-history)
 * [Food, Diet, and Health](http://fredgibbs.net/courses/food-diet-health)
@@ -45,13 +46,10 @@ Carleton College (1998)
 ## Publications
 
 ### Book Manuscript
-
-"Poison, Medicine, and Disease in Late Medieval and Early Modern Europe"   
-Accepted (Oct 2016) for publication at Routledge (_Medicine in the Medieval Mediterranean_), currently in editorial production.
+_Poison, Medicine, and Disease in Late Medieval and Early Modern Europe_ forthcoming from Routledge (_Medicine in the Medieval Mediterranean_). Currently in editorial production.
 
 
 ### Articles in Refereed Journals
-
 "Data, Humanities and the History of Medicine: New Pedagogical Approaches," _Medical History_, 61.1 (2017), 177 - 180.
 
 "New Forms of History: Critiquing Data and Its Representations," _The American Historian_ 7 (2016): 31-36. [TAH](http://tah.oah.org/february-2016/new-forms-of-history-critiquing-data-and-its-representations/)
@@ -75,7 +73,6 @@ Accepted (Oct 2016) for publication at Routledge (_Medicine in the Medieval Medi
 
 
 ### Book Chapters
-
 "Medical Literature on Poison, c. 1300-1600," in Philip Wexler (ed.), _Toxicology in the Middle Ages and Renaissance_, 159-166. London: Academic Press, 2017.
 
 “The Poetics of Digital Scholarship,” in Matt Bernico and Manuela Kölke (eds.), _Ontic Flows: From Digital Humanities to Posthumanities_, 101-122. New York and Dresden: Atropos Press, 2016.
@@ -115,18 +112,20 @@ _Histories of the Future_ ([histscifi.com](http://histscifi.com))
 
 “Poison Libels,” in Joseph P. Byrne (ed.), _Encyclopedia of Pestilence, Pandemics, and Plagues_. Westport and London: Greenwood Press, 2008.
 
-
-
-## Ongoing Projects  
+## Curricular Development  
 
 ### Spatial Humanities Working Group (Aug2015 - present)
 This working group aims to build connections across disciplinary boundaries by providing an informal setting in which students and faculty across the university can meet to discuss theoretical, conceptual, and methodological questions regarding space and human societies. See more at the [SHWG website](http://spatialhumanities.unm.edu).
 
+### National Trails Course (Fall 2017 - present)
 
-## Previous Digital Humanities Projects
 
-### General Editor, _Programming Historian_ (Apr2012 - present)
-_[Programming Historian](http://programminghistorian.org)_ offers novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate their research. I have been a general editor since 2012; I have guided over a half-dozen lessons from proposals to polished tutorials, as well as helped develop and document a transparent and sustainable editorial process anchored with free, open source tools.
+## Digital Projects  
+
+### General Editor, _Programming Historian_ (Apr12 - Jul17)
+* Rigorously edited over a half-dozen lessons from proposals to polished tutorials
+* Developed and documented a transparent and peer review process
+* Implemented static site with Jekyll and GitHub Pages
 
 ### Metadata Improvement VIA Mapping (MIVIAM) (Dec10-Jan12)
 * Designed and coded robust Javascript interface to visualize thousands of data points via the Google Maps API (using plant specimen data held at [JSTOR Plants](http://plants.jstor.org))
@@ -146,7 +145,7 @@ _[Programming Historian](http://programminghistorian.org)_ offers novice-friendl
 
 
 
-## Selected Presentations and Participations
+## Selected Presentations, Panels, and Workshops
 *Personal Failure and Decentralized Digital History*  
 American Historical Association (Jan 2017)
 
@@ -282,7 +281,7 @@ Society for the Social History of Medicine Post-graduate conference (Jan 2006)
 
 ## Engagements
 
-#### Digital Workshop Instruction
+### Digital Workshop Instruction
 
 *Using QGIS for Historical Research*  
 University of New Mexico (Dec 2015)
@@ -302,36 +301,45 @@ THATCamp @ RRCHNM (June 2013)
 *Historical Mapping with QGIS*  
 THATCamp @ RRCHNM (June 2013)
 
-#### Editorships
+
+### Editorships
 * General Editor, *[Programming Historian](http://programminghistorian.org)* (Spring 2012 - )
 * Advisory Editor (Digital Scholarship) for _Isis_ [Journal of the History of Science Society] (Spring 2015 – )
 * Editor, H-Nutrition (Fall 2016 - )
 
-#### Manuscript Reviews
-_Digital Humanities Quarterly_, _Bulletin of the History of Medicine_, Pearson, Packt Publishing, MIT Press
 
-#### Grant application reviews  
+### Review Work
+
+#### Manuscripts
+_Isis_, _Digital Humanities Quarterly_, _Bulletin of the History of Medicine_, Pearson, Packt Publishing, MIT Press
+
+#### Grant Applications
 Austrian Science Fund, Humanities in the European Research Area (HERA), National Endowment for the Humanities (NEH), Social Sciences and Humanities Research Council of Canada (SSHRC)
 
-#### Conference abstract reviews
+#### Conference Proposals
 * Digital Humanities Conference
 
-#### Professional Society Committees  
+
+### Committees  
+
+#### Professional Societies
 * History of Science Society Technology and Communication Committee (Fall 2015 - )
 * History of Science Society ad-hoc committee on Publication Standards and Excellence (Spring – Summer 2015)
 * History of Science Society Strategic Planning Committee (Fall 2013 - Spring 2015)
 
-#### College and University Committees
+#### College and University
 * Faculty Advisory Committee for the UNM / National Park Service - National Trails Intermountain Region partnership (Spring 2016 - )
 * UNM Data to Knowledge Conference Organizing Committee (Spring 2014 - Fall 2015)
 * UNM Faculty Senate Information Technology Use Committee (Fall 2013 - )
 * Institute for Medieval Studies Steering Committee (Fall 2013 - )
 
-#### Departmental Committees
-* UNM History Deparment Library Liaison (Fall 2015 - )
+#### Departmental
+* UNM History Department Library Liaison (Fall 2015 - )
 * UNM History Graduate Advisory Committee (Fall 2014 - )
 * GMU Graduate Admissions Committee (2012-13)
 * GMU History Day Organizer (2009-2012)
+
+
 
 ## Previous Web Design and Development Projects
 
@@ -380,7 +388,7 @@ Austrian Science Fund, Humanities in the European Research Area (HERA), National
 
 
 ### Technical Skills and Experience
-* Standard and emerging desktop and web mapping technologies, including ArcGIS, QGIS, CartoDB, Mapbox, Leaflet, Open Street Map
+* Standard and emerging desktop and web mapping technologies, including ArcGIS, QGIS, Carto, Mapbox, Leaflet, Open Street Map
 * Web development with Javascript, HTML5, CSS, PHP, AJAX, REST APIs, XML, XSLT, Bootstrap, Django
 * Programming and scripting languages, esp. Javascript, Python, R, Java, C++
 * Database design and administration, esp. MySQL and SQLite

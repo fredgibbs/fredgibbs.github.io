@@ -1,20 +1,20 @@
 ---
 layout: default
-title: about | fredgibbs
+title: about | fred gibbs
 ---
 
 # Hello World!
-I'm Fred Gibbs, an assistant professor in the [history department](http://history.unm.edu) at the [University of New Mexico](http://unm.edu).
+I'm Fred Gibbs, an ~~assistant~~ associate professor in the [history department](http://history.unm.edu) at the [University of New Mexico](http://unm.edu).
 
-My research interests span the history of diet and health (particularly the popularization of nutritional science), the intersection of food and environmental histories (particularly food production and distribution), and qualitative and historical cartography (with and without GIS).
+My work in medical and environmental history focuses on the changing historical relationships between food, diet and health (particularly the popularization of nutritional science), and the intersection of food, environmental, and urban histories (particularly food production, distribution, and geographies of health).
 
-My research and teaching in the digital humanities (particularly digital history) explores new modes of historical research and publishing, the importance of design in scholarship, the necessity for new evaluative criteria for digital scholarship (and the nature of scholarship in the 21st century), and sustainable publication practices.
+My work in the digital humanities (particularly digital history) explores new modes of historical research and publishing, the importance of design in scholarship (especially cartography), critical GIS, and emerging digital publication practices for scholarship.
 
-I have been a general editor at [Programming Historian](http://programminghistorian.org) since 2012, co-founded in 2015 the UNM [Spatial Humanities Working Group](http://spatialhumanities.unm.edu), and serve as an editor at the recently (Oct 2016) launched [H-Nutrition](https://networks.h-net.org/h-nutrition) network on H-Net.
+I continue to run the UNM [Spatial Humanities Working Group](http://spatialhumanities.unm.edu) (co-founded in 2015), and serve (since Oct 2016) as an editor of the [H-Nutrition](https://networks.h-net.org/h-nutrition) network on H-Net. Previously, from 2012-2017, I served as a general editor at [Programming Historian](http://programminghistorian.org).
 
-Perhaps the best way of getting a sense of what I've been up to scroll through my [project portfolio](../projects), and check peruse some publications (and links to them) on [my CV](../cv).
+More on these projects, as well as other ongoing and previous research appears on [my project portfolio](../projects), and check peruse some publications (and links to them) on [my CV](../cv).
 
-Previously, my research focused on premodern toxicology, particularly late medieval and early modern medical literature on poison.
+Previously, my research focused on premodern toxicology, particularly late medieval and early modern medical literature on poison. I wrote a really boring book about it.
 
 
 # History
@@ -24,4 +24,4 @@ I completed my History of Science PhD at the [University of Wisconsin-Madison](h
 
 
 # Behind the scenes
-Pages of this site are written in Markdown and converted to static HTML with Jekyll. All code for this site is hosted in a [GitHub repository](https://github.com/fredgibbs/fredgibbs.github.io) and rendered via GitHub Pages. Read my take on [why these tools are great](http://fredgibbs.net/posts/post/a-new-minimalist-versioned-website/) for personal or project websites.
+Pages of this site are written in Markdown and converted to static HTML with Jekyll. All code for this site is hosted in a [GitHub repository](https://github.com/fredgibbs/fredgibbs.github.io) and rendered via GitHub Pages. Several years ago I jotted down [a few reflections on my switch from Wordpress to GitHub](a-new-minimalist-versioned-website), which continue to hold true.
