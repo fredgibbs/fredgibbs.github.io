@@ -525,6 +525,10 @@ figcaption.raw {
 /*
 /*****************************************************************************/
 
+#courses + h2:first-of-type {
+  background:#f90;
+}
+
 .course-desc {
 font-size:85%;
 }
@@ -552,7 +556,7 @@ font-size:85%;
 margin: 1.5em 0 .7em 0;
 border-top:1px dotted gray;
 border-bottom:1px dotted gray;
-padding: .5em;
+padding: .4em;
 background-color: #e71;
 color:#fff;
 text-transform: uppercase;

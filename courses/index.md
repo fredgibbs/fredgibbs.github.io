@@ -3,29 +3,30 @@ layout: default
 title: courses
 ---
 
-<h1>Courses</h1>
+# Courses
 
-<h2>Fall 2017</h2>
-<ul>
-   <li><a href="food-system-literacy">Food System Literacy</a></h2>
-   <li><a href="digital-futures-of-history">Digital Futures of History</h2>
-</ul>
+## Fall 2017
+* [Food System Literacy](food-system-literacy)
+* [Digital Futures of History](digital-futures-of-history)
 
 
-<h2>History of Medicine</h2>
+## History of Medicine
+
 <ul>
   <li><a href="food-diet-health">Food, Diet, and Health</a></li>
   <li><a href="premodern-medicine/fall-2015">History of Premodern Medicine</a></li>
   <li><a href="metaphor-of-plague/">The Metaphor of Plague</a></li>
 </ul>
 
-<h2> Digital Methods </h2>
+## Digital Methods
+
 <ul>
   <li><a href="digital-methods">Advanced Digital History Methods</a></li>
   <li><a href="digital-mapping">Digital Mapping</a></li>
 </ul>
 
-<h2>Historiography</h2>
+## Historiography
+
 <ul>
   <li><a href="historiography/"> Historiography</a></li>
   <li><a href="historiography-grad/fall-2015">Advanced Historiography</a></li>

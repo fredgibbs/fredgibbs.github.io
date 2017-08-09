@@ -1,6 +1,7 @@
 ---
 layout: default
 title: about | fred gibbs
+permalink: /about
 ---
 
 # Hello World!
