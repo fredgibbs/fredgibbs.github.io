@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: cv | fred gibbs
+permalink: /cv
 ---
 
 **Frederick W. Gibbs**  
@@ -82,6 +83,18 @@ _Poison, Medicine, and Disease in Late Medieval and Early Modern Europe_ forthco
 "The Hermeneutics of Data and Historical Writing," in Jack Dougherty and Kristen Nawrotzki (eds.), _Writing History in the Digital Age_, 159-72. Ann Arbor: University of Michigan Press, 2013. [with Trevor Owens]. [digitalculturebooks](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:7/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#7.3)
 
 
+### Other Stuff
+
+"[A Healthy Dose of Skepticism](https://nursingclio.org/2017/05/24/a-healthy-dose-of-skepticism/)," _Nursing Clio_, May 24, 2017.
+
+"How Do We Make the Future?" A Contribution to the History of Science Society Newsletter (July 2016) [with Erika Milam and Joanna Radin].
+
+_Histories of the Future_ ([histscifi.com](http://histscifi.com))  
+
+"The Historical Value of Ephemeral Discussions of Science on the Web" in _Science &#64; Risk: Toward a National Strategy for Preserving Online Science_, 8-16. Washington, DC: Library of Congress National Digital Information Infrastructure and Preservation Program, 2012. [meeting site](http://www.digitalpreservation.gov/meetings/scienceonline_2012.html) \| [PDF](http://www.digitalpreservation.gov/meetings/documents/othermeetings/science-at-risk-NDIIPP-report-nov-2012.pdf)
+
+
+
 ### Reviews
 
 Susanne Leikam, _Framing Spaces in Motion: Tracing Visualizations of Earthquakes into
@@ -100,17 +113,11 @@ Ian Mortimer, _The Dying and the Doctors: the Medical Revolution in Seventeenth 
 Lawrence M. Principe (ed.), _Chymists and Chymistry_. Edited by . Philadelphia: Chemical Heritage Foundation and Science History Publications, 2007. In _Pharmacy in History_ 50.1 (2008): 34-6.
 
 
-### Other Stuff
-
-"How Do We Make the Future?" A Contribution to the History of Science Society Newsletter (July 2016) [with Erika Milam and Joanna Radin].
-
-_Histories of the Future_ ([histscifi.com](http://histscifi.com))  
-
-"The Historical Value of Ephemeral Discussions of Science on the Web" in _Science &#64; Risk: Toward a National Strategy for Preserving Online Science_, 8-16. Washington, DC: Library of Congress National Digital Information Infrastructure and Preservation Program, 2012. [meeting site](http://www.digitalpreservation.gov/meetings/scienceonline_2012.html) \| [PDF](http://www.digitalpreservation.gov/meetings/documents/othermeetings/science-at-risk-NDIIPP-report-nov-2012.pdf)
-
+### Encyclopedia Articles
 “Natural History,” in Robert E. Bjork (ed.), _Oxford Dictionary of the Middle Ages_. Oxford: Oxford University Press, 2010.
 
 “Poison Libels,” in Joseph P. Byrne (ed.), _Encyclopedia of Pestilence, Pandemics, and Plagues_. Westport and London: Greenwood Press, 2008.
+
 
 ## Curricular Development  
 

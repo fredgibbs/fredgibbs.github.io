@@ -65,12 +65,12 @@ NO CLASS
 
 
 ### Oct 3
-_Fast Food Nation_ 13-28 (brief history of fast food chains)
-_Paradox of Plenty_, 227-236 (Fast Foods and Quick Bucks). some 1920s, mostly 50s and 60s.
+* _Fast Food Nation_ 13-28 (brief history of fast food chains)
+* _Paradox of Plenty_, 227-236 (Fast Foods and Quick Bucks). some 1920s, mostly 50s and 60s.
 
 ### Oct 5
-_Salt, Sugar, Fat_, 45-67 (Convenience with a Capital C). mostly 1950s and 60s.
-_Paradox of Plenty_, 101-118 (The Golden Age of Food Processing: Miracle Whip *über Alles*) 1950s;
+* _Salt, Sugar, Fat_, 45-67 (Convenience with a Capital C). mostly 1950s and 60s.
+* _Paradox of Plenty_, 101-118 (The Golden Age of Food Processing: Miracle Whip *über Alles*) 1950s;
 
 
 
@@ -94,8 +94,8 @@ EXTENDED BREAK (research time)
 
 
 ### Oct 31
-John Soluri, “Accounting for Taste: Export Bananas, Mass Markets, and Panama Disease,” 386–410.
-avacado chapter
+* John Soluri, “Accounting for Taste: Export Bananas, Mass Markets, and Panama Disease,” 386–410.
+* Jeffrey Charles, "Searching for Gold in Guacamole: California Growers Market the Avacado, 1910-1994," 131-150.
 
 ### Nov 2
 

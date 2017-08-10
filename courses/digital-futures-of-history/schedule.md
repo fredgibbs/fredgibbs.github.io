@@ -13,10 +13,10 @@ This syllabus is a living document and changes frequently, depending on what's g
 
 ## 1: Course and Digital History Introduction
 
-### Tuesday
+### Tuesday (Aug 22)
 Today we'll review the syllabus, course aims, assignments, and general plan for the semester. We'll also figure out how to customize the course to best suit participants' interests.
 
-### Thursday
+### Thursday (Aug 24)
 William Cronon, [The Public Practice of History in and for a Digital Age](http://www.historians.org/perspectives/issues/2012/1201/The-Public-Practice-of-History-in-and-for-a-Digital-Age.cfm).
 
 Lisa Spiro, ["This Is Why We Fight": Defining the Values of the Digital Humanities](http://dhdebates.gc.cuny.edu/debates/text/13).
@@ -24,11 +24,11 @@ Lisa Spiro, ["This Is Why We Fight": Defining the Values of the Digital Humaniti
 
 ## 2: Wikipedia, Authority, and Historical Knowledge
 
-### Tuesday
+### Tuesday (Aug 29)
 * Bill Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
 * Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/–writing-history-in-the-digital-age).
 
-### Thursday
+### Thursday (Aug 31)
 Selections from Bill Adair, Benjamin Filene, and Laura Koloski (eds.), _Letting Go?: Sharing Historical Authority in a User-Generated World_. [PDF](http://history2016.doingdh.org/wp-content/uploads/sites/8/2016/06/Throwing-Open-Doors.pdf).
 
 Fiona Romeo and Lucinda Blaser, [Bringing Citizen Scientists and Historians Together](http://www.museumsandtheweb.com/mw2011/papers/bringing_citizen_scientists_and_historians_tog).
@@ -36,20 +36,21 @@ Fiona Romeo and Lucinda Blaser, [Bringing Citizen Scientists and Historians Toge
 
 ## 3: What is History (For)?
 
-### Tuesday
+### Tuesday (Sep 5)
 Keith Jenkins, _Rethinking History_.
 
-### Wednesday
+### Wednesday (Sep 7)
 Keith Jenkins, _Rethinking History_.
 
 
 ## 4: Archival Power and Engagement
 
-### Tuesday
+### Tuesday (Sep 12)
 * Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” _Archival Science: International Journal on Recorded Information_ 2 (2002): 1–19.
 * Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” _Archival Science: International Journal on Recorded Information_ 2 (2002): 21–43.
 
-### Thursday
+### Thursday (Sep 14)
+* NO CLASS
 * Sheila A. Brennan, [Public, First](http://dhdebates.gc.cuny.edu/debates/text/83).
 * Andrew Hurley, “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” _The Public Historian_ 38, no. 1 (2016): 69–88.
 * Bruce Wyman et al., “Digital Storytelling in Museums: Observations and Best Practices,” _Curator: The Museum Journal_ 54, no. 4 (2011): 461–68.
@@ -57,14 +58,14 @@ Keith Jenkins, _Rethinking History_.
 
 ## 5: The Necessity of Critique
 
-### Tuesday
+### Tuesday (Sep 19)
 * Daniel Mendelsohn, [A Critic's Manifesto](http://www.newyorker.com/books/page-turner/a-critics-manifesto).
 * Dwight Garner, [A Critic’s Case for Critics Who Are Actually Critical](http://www.nytimes.com/2012/08/19/magazine/a-critic-makes-the-case-for-critics.html).
 * Robert Blackey, “Words to the Whys: Crafting Critical Book Reviews,” _The History Teacher_ 27, no. 2 (1994): 159–66.
 * John Rosinbum, [Teaching the Slave Trade with Voyages: The Transatlantic Slave Trade Database](http://blog.historians.org/2016/10/teaching-slave-trade-voyages-transatlantic-slave-trade-database/).
 
 
-### Thursday
+### Thursday (Sep 21)
 * Johanna Drucker, [Humanities Approaches to Graphical Display](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html).
 * Fred Gibbs, “The Poetics of Digital Scholarship,” in Matt Bernico and Manuela Kölke (eds.), _Ontic Flows: From Digital Humanities to Posthumanities_, 101-122. New York and Dresden: Atropos Press, 2016.
 
@@ -75,51 +76,53 @@ You don't need to spend a lot of time on each site, but you should be familiar w
 
 ## 6: Digital Spatial History
 
-### Tuesday
+### Tuesday (Sep 26)
 * Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?
 * Anne Kelly Knowles, [A More Humane Approach to Digital Scholarship](http://parameters.ssrc.org/2016/08/a-more-humane-approach-to-digital-scholarship/).
 
-### Thursday
+### Thursday (Sep 28)
 Come to class with a formal critique of a [GIS Project](http://anterotesis.com/wordpress/dh-gis-projects/).
 
 
 ## 7: Critique Critiques
-
+(Oct 3 and 5)
 
 ## 8: Text Mining
 Under what circumstances are these techniques useful? How can they be used most effectively?
 
-### Tuesday
+### Tuesday (Oct 10)
 * Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/).
 * Rob Nelson, [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
 
-### Thursday
+### Thursday (Oct 12)
+NO CLASS
 Load some texts into [Voyant](http://voyant-tools.org/) and write a critique of one of the many [projects that have used it](http://docs.voyant-tools.org/about/examples-gallery/).    
 
 
 ## 9: Critique Critiques
-
+(Oct 17 and 19)
+NO CLASS
 
 ## 10: Topic Modeling
 
-### Tuesday
+### Tuesday (Oct 31)
 * Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
 * Ted Underwood, [Topic Modeling Made Just Simple Enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/).
 * Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
 
 
-### Thursday
+### Thursday (Nov 2)
 * Andrew Goldstone and Ted Underwood, "The Quiet Transformations of Literary Studies: What Thirteenth Thousand Scholars Could Tell Us."
 
-Load some documents into [Overview](https://www.overviewdocs.com). 
+Load some documents into [Overview](https://www.overviewdocs.com).
 
 
-## 11: Critique Critiques
+## 11: Critique Critiques (Nov 7 and 9)
 
-## 12: Challenges of Digital Publishing
+## 12: Challenges of Digital Publishing (Nov 14 and 16)
 
-## 13: Review Essay compilation
+## 13: Review Essay compilation (Nov 21 and 23)
 
-## 14: OPEN
+## 14: OPEN (Nov 28 and 30)
 
-## 15: Loose ends, conclusions, etc.
+## 15: Loose ends (Dec 5 and 7)
