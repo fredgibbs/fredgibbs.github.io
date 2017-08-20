@@ -1,45 +1,43 @@
 ---
 layout: default
-title: using zotero | fredgibbs  
+title: using zotero | fred gibbs  
 ---
 
 # How to Access the Course Zotero Library
 
+[Zotero](http://zotero.org) is a free tool developed by academics for academics for managing bibliographies used by millions of people around the world. It also helps groups of scholars (that's us!) share resources like PDFs and notes. That's why we'll use it.
 
-[Zotero](http://zotero.org) is a free tool for managing bibliographies. It also helps people share resources like PDFs, and that's how we'll use it.
-
-There are two ways of getting course readings throug the course Zotero Library.
+There are two ways of getting course readings through the course Zotero Library.
 
 1. Use the [Zotero.org](http://zotero.org) website to access the materials online as you need them.
-2. Install Zotero onto your computer. This will allow you to access the readings offline (and take notes, etc).
+2. HIGHLY RECOMMENDED: Install Zotero onto your computer. You get a much easier interface and can access the readings offline (and take notes, etc).
 
-
-**There are a few prelimnary steps that everyone must do regardless of how you intend to access the readings:**
+**There are a few preliminary steps that everyone must do regardless of how you intend to access the readings. You will have no trouble if you follow these steps carefully and in order.** I am happy to help you if you have problems, but please be sure you have followed the directions carefully.
 
 
 ## Step 1: Create an account at zotero.org
-Regardless of which method you use, **you must [sign up for a free account at zotero.org](https://www.zotero.org/user/register)**. Creating a Zotero account requires only that you specify a username, password, and email address. You will not get any spam from them or anyone else because of your Zotero account.
+Regardless of which method you use, **you must [sign up for a free account at zotero.org](https://www.zotero.org/user/register)**. Creating a Zotero account requires only that you specify a username, password, and email address. You will not get any spam from Zotero or anyone else because of your Zotero account.
 
 
 ## Step 2: Accept the invitation to join the group library
-After the first day of class, you will get an email from Zotero.org that will invite you to join the group library for the course. **You must click the link in the invitation email to join the group!** 
+After the first day of class, you will get an email from Zotero.org that will invite you to join the group library for the course. For security reasons I cannot simply add you to the group: **You must click the link in the invitation email to join the group!**
 
 
 ## Step 3: View the course library online
-Once you've created your account AND accepted the invitation to join the group, you'll be able to visit the course library (the link is specified on the course syllabus). Be sure you are logged into your Zotero account, and you'll see all of the readings listed there. You can download or simply read the PDFs online as you need them. 
+**Once you've created your account AND accepted the invitation to join the group**, you'll be able to visit the course library (the link is specified on the course syllabus). Once you're on our group library page, be sure you are logged into your Zotero account, and you'll see all of the readings listed there. You can download or simply read the PDFs online as you need them.
 
 
 ## Optional Step 4: Installing Zotero on your computer
-Using the Zotero website to access the readings is rather clunky. If you [download and install Zotero](https://www.zotero.org/download/) on your computer, you'll have a much better interface to the readings. I recommend using the "Standalone" version.
+Using the Zotero website to access the readings is seriously clunky. If you [download and install Zotero](https://www.zotero.org/download/) on your computer, you'll have a much faster and clearer interface to the readings. Use the "Standalone" version. It is a small application that is entirely safe to install.
 
-Once you've installed Zotero on your computer, you'll have the option to link your installation of Zotero to your zotero.org account. Do this. 
+While in the process of installing Zotero, or once you've installed Zotero on your computer, you'll have the option to link your installation of Zotero to your online zotero.org account. Be sure to do this. If you complete the installation and have not told Zotero (the application) about your zotero.org account, go into the settings menu (the gear icon), and select the "Sync" tab. You can enter your username and password there.
 
-Then, automagically, on the leftmost column of your Zotero display, near the bottom, you should see a “Group Libraries” header with a little arrow next to it. Click the arrow, and click on the course folder. If you've only recently joined the group librari, Zotero will take a few minutes to download all the readings, but **then you'll have a copy of the course library with all of the readings available to you, even when you're offline.**
+Then, automagically, on the leftmost column of your Zotero display, near the bottom, you should see a “Group Libraries” header with a little arrow next to it. Click the arrow, and click on the course folder. If you've only recently joined the group library, Zotero will take a few minutes to download all the readings, but eventually you'll have all of them on your computer. If I update the Zotero library with a new reading (or a better scan or something like that), you'll automatically get it.
 
 
-## Unsolicited advice
-I highly recommend that you install and use the Zotero (the Standalone version) on your computer rather than just downloading the readings from the the course library online. 
+## Use the Zotero Application, not just the website.
+What's most important is that you can access the course readings. But I highly recommend that you install and use the Zotero (the Standalone version) on your computer rather than just downloading the readings from the the course library online.
 
-For one, it makes getting the course readings far more convenient. 
+For one, it makes getting and organizing the course readings far more convenient.
 
-Perhaps more importantly, learning how to stay organized in your studies is a crucial skill that you'll want to develop sooner than later because it will save you tremendous amounts of time. This course is a great excuse to start experimenting with finding a process that works best for you. Your future self will thank you.
+Perhaps more importantly, learning how to stay organized in your studies is a crucial skill that you'll want to develop sooner than later because it will save you tremendous amounts of time. This course is a great excuse to start experimenting with finding a process that works best for you.  Your future self will thank you.

@@ -7,8 +7,10 @@ section: schedule
 ---
 
 # IN PROGRESS!
-This syllabus is a living document and changes frequently, depending on what's going on in the course, though the general workload will remain more or less as indicated. If you print it out, you'll need to keep your paper version up to date with the online version.
+This syllabus is a living document and changes frequently, depending on what's going on in the course. If you print it out, you'll need to keep your paper version up to date with the online version. I will always announce important changes in class.
 
+
+## Introductions
 
 ### Aug 22
 Today we'll review the syllabus, course aims, assignments, and general plan for the semester. We'll also figure out how to customize the course to best suit participants' interests.
@@ -16,74 +18,80 @@ Today we'll review the syllabus, course aims, assignments, and general plan for 
 
 ### Aug 24
 Two contrasting visions of food production:
-* _Pandora's Lunchbox_, xiii-xix (def'n of processed food); 1-20. (idea of food science)
-* _Revolution in Eating_ (A culinary declaration of independence) (~40 pages)
+* Melanie Warner, _Pandora's Lunchbox_, xiii-xix; 1-20 (Weird Science). This is a super quick read.
+* James, E. McWilliams, _Revolution in Eating_ (A culinary declaration of independence) (~40 pages). No need to labor over the details; focus on the forest, not the trees.
 
+
+## Land and Capital
 
 ### Aug 29
-* _Nature's Metropolis_, 23-54 (1830-50s). Not specifically about food, but introduces how we can understand westward expansion as systematic conversion of land to capital.
+* William Cronon, _Nature's Metropolis_, 23-54 (1830-50s). Although this reading is not specifically about food production, it introduces how we can understand westward expansion as systematic conversion of land to capital.
 
 ### Aug 31
-* _Nature's Metropolis_, 55-93 (mid 1830-60; Impact of rails on shipping)
+* William Cronon, _Nature's Metropolis_, 55-93 (mid 1830-60; Impact of rails on shipping)
 
+
+## Technology and Taste
 
 ### Sep 5
-* _Revolution at the Table_, 30-43 (Giant Food Processors). Centered on 1880-1910. Ends with importance of advertising to shape eating habits.
-* _How America Eats_, 89-110 (Technology and Taste).
-* Skim fun piece on canning (1820-60s): http://www.bbc.com/news/magazine-21689069
+* Harvey Levenstein, _Revolution at the Table_, 30-43 (Giant Food Processors).
+* Jennifer Wallach, _How America Eats_, 89-110 (Technology and Taste).
+* Skim [fun piece on canning](http://www.bbc.com/news/magazine-21689069). Note: some of the embedded media sometimes doesn't work for me, but don't worry if you encounter similar issues.
 
 ### Sep 7
-* _Revolution at the Table_, 121-136 (Best for Babies, 1880-1930); rise of science over nature
+* DUE: Executive summaries of _Nature's Metropolis_ and its significance for the course.
+* Harvey Levenstein, _Revolution at the Table_, 121-136 (Best for Babies, 1880-1930).
 * Amy Bentley, "Inventing Baby Food: Gerber and the Discourse of Infancy in the United States," 92-109.
-
-[FOR NEXT TIME]: Find food ads from around 1900 (1880-1920 at the extremes); What kinds of products are they promoting? What kinds of techniques do they use? What are they appealing to? How are they using science to sell food? Who are they marketing to?
 
 
 ### Sep 12
-[DUE] Primary Source Advertising Presentations
+* Ann Vileisis, _Kitchen Literacy_, 96-125; 126-159.
+* FOR NEXT MEETING (9/19): Find food ads from around 1900 (1880-1920 at the extremes); What kinds of products are they promoting? What kinds of techniques do they use? What are they appealing to? How are they using science to sell food? Who are they marketing to?
 
 ### Sep 14
-NO CLASS
+NO CLASS (work on your presentations)
 
 
 ### Sep 19
-* _Eating Right in America_, 13-44. (Scientific Moralization and the Beginning of Modern Dietary Reform) (focus on Atwater, economics, morality)
+[DUE] Primary Source Advertising SUMMARIES and PRESENTATIONS
 
 ### Sep 21
-* Carolyn M. Goldstein, _Creating Consumers: Home Economists in Twentieth-Century America_  [e-book](http://public.eblib.com/choice/publicfullrecord.aspx?p=877296).
+* Charlotte Bitelkoff, _Eating Right in America_, 13-44 (Scientific Moralization and the Beginning of Modern Dietary Reform).
 
 
+## Critical Distances
 
 ### Sep 26
-* Upton Sinclair, _The Jungle_ (chapters 9 and 14; page numbers vary by edition).
-* _Pandora's Lunchbox_, 21-37 (about 1900, early FDA).
+* PRIMARY (1906): Upton Sinclair, _The Jungle_ (chapters 9 and 14; page numbers vary by edition).
+* Melanie Warner, _Pandora's Lunchbox_, 21-37.
 
 ### Sep 28
-* [PRIMARY] "Old Ideals versus New Ideas in Farm Life" (1940).
+* PRIMARY (1940): Paul Johnstone, "Old Ideals versus New Ideas in Farm Life," 111-167.
 * Michael Pollan, _Omnivore's Dilemma_, 32-56 (The Farm).
 
 
+## Fast Food
 
 ### Oct 3
-* _Fast Food Nation_ 13-28 (brief history of fast food chains)
-* _Paradox of Plenty_, 227-236 (Fast Foods and Quick Bucks). some 1920s, mostly 50s and 60s.
+* Eric Schlosser, _Fast Food Nation_ 13-28.
+* Harvey Levenstein, _Paradox of Plenty_, 227-236 (Fast Foods and Quick Bucks).
 
 ### Oct 5
-* _Salt, Sugar, Fat_, 45-67 (Convenience with a Capital C). mostly 1950s and 60s.
-* _Paradox of Plenty_, 101-118 (The Golden Age of Food Processing: Miracle Whip *über Alles*) 1950s;
+* Michael Moss, _Salt, Sugar, Fat_, 45-67 (Convenience with a Capital C).
+* _Paradox of Plenty_, 101-118 (The Golden Age of Food Processing: Miracle Whip *über Alles*).
 
 
+## What's on your food?
 
 ### Oct 10
 * Rachel Carson, _Silent Spring_, 5-37.
-* Selections from _Appetite for Change_.
+* Selections from Warren Belasco, _Appetite for Change_.
 
 ### Oct 12
 FALL BREAK
 
-For the next week, you should focus on your advertising assignment. We'll divide up into groups and tackle different years 1920-1970 (time span subject to adjustment), and how, from a food standpoint, those years appear in ABQ newspapers. We'll use business directories and newspapers to learn about the development of grocery stores, how they were advertising, and how this changed over time.
+For the next week, we're going to collaboratively tackle an advertising research project. We'll divide up into groups and focus on different years 1920-1970 (time span subject to adjustment), and how, from a food standpoint, those years appear in ABQ newspapers. We'll try to discover how how stores/businesses advertised food, and how this changed over time as the city grew dramatically. More detailed instructions and links will appear here as we get closer to the date.
 
-Food Documentary Review
 
 ### Oct 17
 EXTENDED BREAK (research time)
@@ -92,49 +100,57 @@ EXTENDED BREAK (research time)
 EXTENDED BREAK (research time)
 
 
+## The Tale of Two Fruits
 
 ### Oct 31
 * John Soluri, “Accounting for Taste: Export Bananas, Mass Markets, and Panama Disease,” 386–410.
 * Jeffrey Charles, "Searching for Gold in Guacamole: California Growers Market the Avacado, 1910-1994," 131-150.
 
 ### Nov 2
+OPEN
 
 
+## Working on the Farm
 
 ### Nov 7
-* _Food Justice_, 13-38 (workers' rights)
-* _Labor and the Locavore_, 1-14 (Introduction); 15-40 (Agrarianism and Hudson Valley Agriculture)
+* _Food Justice_, 13-38.
+* _Labor and the Locavore_, 1-14 (Introduction); 15-40 (Agrarianism and Hudson Valley Agriculture).
 
 ### Nov 9
-* _Fast Food Nation_ 149-166; 169-190 (working conditions).
-* _Meat Racket_, 1-13; 47-62; 17-46 (Family Chicken Farming)
+* Eric Schlosser, _Fast Food Nation_, 149-166; 169-190.
+* _Meat Racket_, 1-13; 47-62; 17-46.
 * "Livestock's Long Shadow," 267-284. [(ftp://ftp.fao.org/docrep/fao/010/a0701e/a0701e07.pdf)]
 
 
+## Big Organic
 
 ### Nov 14
-* "A Brief Overview of the History and Philosophy of Organic Agriculture," 2-18.
-http://kerrcenter.com/wp-content/uploads/2014/08/organic-philosophy-report.pdf
+* George Kuepper, "[A Brief Overview of the History and Philosophy of Organic Agriculture](http://kerrcenter.com/wp-content/uploads/2014/08/organic-philosophy-report.pdf)," 2-18.
 * Laura B. DeLind, “Transforming Organic Agriculture into Industrial Organic Products: Reconsidering National Organic Standards,” 198–208.
 * Michael Pollan, _Omnivore's Dilemma_, 134-184 (Big Organic).
 
 ### Nov 16
-* McKay Jenkins, _Food Fight: GMOs and the Future of the America_ (Prologue; Are GMO's Safe?), 1-46.
-* McKay Jenkins, _Food Fight: GMOs and the Future of the America_ (The Long, Paved Road to Industrial Food), 47-76.
+* McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 1-46 (Prologue; Are GMO's Safe?).
+* McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 47-76 (The Long, Paved Road to Industrial Food).
 
+
+
+## Local Food
 
 ### Nov 21
-Local Food
+* Branden Born and Mark Purcell, “Avoiding the Local Trap,” 195–207.
+* C. Clare Hinrichs, “The Practice and Politics of Food System Localization,” 33–45.
 
 ### Nov 23
 THANKSGIVING
 
 
+## Global Fortification
 
 ### Nov 28
-* _Food Politics_, Fortification and Marketing 295-314.
-* _Pandora's Lunchbox_, 97-123 (Better Living through Chemistry). (hidden, untested ingredients)
-* _Twinkie, Deconstructed_, skim 13-28; 29-44 (industrialization of vitamins).
+* _Food Politics_, 295-314 (Fortification and Marketing).
+* _Pandora's Lunchbox_, 97-123 (Better Living through Chemistry).
+* _Twinkie, Deconstructed_, skim 13-28; 29-44.
 
 ### Nov 30
 _Nutritionism_, 215-236 (The Food Quality Paradigm).
