@@ -19,16 +19,18 @@ Today we'll review the syllabus, course aims, assignments, and general plan for 
 ### Aug 24
 Two contrasting visions of food production:
 * Melanie Warner, _Pandora's Lunchbox_, xiii-xix; 1-20 (Weird Science). This is a super quick read.
-* James, E. McWilliams, _Revolution in Eating_ (A culinary declaration of independence) (~40 pages). No need to labor over the details; focus on the forest, not the trees.
+* James, E. McWilliams, _Revolution in Eating_, 240-64; 274-5. (A culinary declaration of independence). The PDF is in the Zotero library, or you can read it online [here](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=895246). Skip the section "Defining American Food." On the whole, no need to labor over the details; focus on the forest, not the trees.
 
 
 ## Land and Capital
 
 ### Aug 29
-* William Cronon, _Nature's Metropolis_, 23-54 (1830-50s). Although this reading is not specifically about food production, it introduces how we can understand westward expansion as systematic conversion of land to capital.
+* Lisi Krall, “Thomas Jefferson’s Agrarian Vision and the Changing Nature of Property,” 131–33; 144-48.
+* William Cronon, _Nature's Metropolis_, 23-54. Although this reading is not specifically about food production, it introduces how we can understand westward expansion as systematic conversion of land to capital, as introduced by Krall.
 
 ### Aug 31
 * William Cronon, _Nature's Metropolis_, 55-93 (mid 1830-60; Impact of rails on shipping)
+* Discussion of review assignment due in 1 week (see below).
 
 
 ## Technology and Taste
@@ -104,7 +106,7 @@ EXTENDED BREAK (research time)
 
 ### Oct 31
 * John Soluri, “Accounting for Taste: Export Bananas, Mass Markets, and Panama Disease,” 386–410.
-* Jeffrey Charles, "Searching for Gold in Guacamole: California Growers Market the Avacado, 1910-1994," 131-150.
+* Jeffrey Charles, "Searching for Gold in Guacamole: California Growers Market the Avocado, 1910-1994," 131-150.
 
 ### Nov 2
 OPEN

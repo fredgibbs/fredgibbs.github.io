@@ -6,7 +6,7 @@ title: courses
 # Courses
 
 ## Fall 2017
-* [Food System Literacy](food-system-literacy)
+* [History and Geography of Food Production](food-system-literacy)
 * [Digital Futures of History](digital-futures-of-history)
 
 
