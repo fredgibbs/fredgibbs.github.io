@@ -7,7 +7,7 @@ section: home
 ---
 
 ## Logistics
-- TH 3:30 - 4:45 @ 215 Mitchell
+- TH 3:30 - 4:45 @ 214 Mitchell
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
 - Office Hours: T 2-3; Th 10-11
 

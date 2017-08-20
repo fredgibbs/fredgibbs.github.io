@@ -2,7 +2,7 @@
 layout: syllabus
 title: History and Geography of Food Production
 term: Fall 2017
-number: HIST 300-001
+number: HIST 300-002
 section: schedule
 ---
 
@@ -80,7 +80,7 @@ NO CLASS (work on your presentations)
 
 ### Oct 5
 * Michael Moss, _Salt, Sugar, Fat_, 45-67 (Convenience with a Capital C).
-* _Paradox of Plenty_, 101-118 (The Golden Age of Food Processing: Miracle Whip *über Alles*).
+* Harvey Levenstein, _Paradox of Plenty_, 101-118 (The Golden Age of Food Processing: Miracle Whip *über Alles*).
 
 
 ## What's on your food?
@@ -115,12 +115,12 @@ OPEN
 ## Working on the Farm
 
 ### Nov 7
-* _Food Justice_, 13-38.
-* _Labor and the Locavore_, 1-14 (Introduction); 15-40 (Agrarianism and Hudson Valley Agriculture).
+* Gottlieb and Joshi, _Food Justice_, 13-38. In Zotero and also [online](http://ebookcentral.proquest.com/lib/unm/reader.action?docID=3339193).
+* Margaret Gray, _Labor and the Locavore_, 1-14 (Introduction); 15-40 (Agrarianism and Hudson Valley Agriculture).
 
 ### Nov 9
 * Eric Schlosser, _Fast Food Nation_, 149-166; 169-190.
-* _Meat Racket_, 1-13; 47-62; 17-46.
+* Christopher Leonard, _Meat Racket_, 1-13; 47-62; 17-46.
 * "Livestock's Long Shadow," 267-284. [(ftp://ftp.fao.org/docrep/fao/010/a0701e/a0701e07.pdf)]
 
 
@@ -132,7 +132,7 @@ OPEN
 * Michael Pollan, _Omnivore's Dilemma_, 134-184 (Big Organic).
 
 ### Nov 16
-* McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 1-46 (Prologue; Are GMO's Safe?).
+* McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 1-46 (Prologue; Are GMOs Safe?).
 * McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 47-76 (The Long, Paved Road to Industrial Food).
 
 
@@ -140,7 +140,7 @@ OPEN
 ## Local Food
 
 ### Nov 21
-* Branden Born and Mark Purcell, “Avoiding the Local Trap,” 195–207.
+* Born and Purcell, “Avoiding the Local Trap,” 195–207.
 * C. Clare Hinrichs, “The Practice and Politics of Food System Localization,” 33–45.
 
 ### Nov 23
@@ -150,12 +150,12 @@ THANKSGIVING
 ## Global Fortification
 
 ### Nov 28
-* _Food Politics_, 295-314 (Fortification and Marketing).
-* _Pandora's Lunchbox_, 97-123 (Better Living through Chemistry).
-* _Twinkie, Deconstructed_, skim 13-28; 29-44.
+* Marion Nestle, _Food Politics_, 295-314 (Fortification and Marketing).
+* Melanie Warner, _Pandora's Lunchbox_, 97-123 (Better Living through Chemistry).
+* Steve Ettlinger, _Twinkie, Deconstructed_, skim 13-28; 29-44.
 
 ### Nov 30
-_Nutritionism_, 215-236 (The Food Quality Paradigm).
+Gyorgy Scrinis, _Nutritionism_, 215-236 (The Food Quality Paradigm).
 
 
 

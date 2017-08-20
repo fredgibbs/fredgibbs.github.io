@@ -2,7 +2,7 @@
 layout: syllabus
 title: History and Geography of Food Production
 term: Fall 2017
-number: HIST 300-001
+number: HIST 300-002
 section: home
 ---
 
@@ -25,11 +25,11 @@ To cover so many topics, our reading list takes a smorgasbord approach from acad
 ## Work Requirements and Grading
 - Thorough preparedness and engaged participation in most every class meeting. This is a class that's focused on cultivating different perspectives about how we can think about food production, not just memorizing and regurgitating supposedly important "facts". (30%)
 
-- Serious effort and on-time completion of the short writing assignments (usually ~250 words). (30%)
+- Serious effort and on-time completion of the short writing assignments (usually ~250 words). (20%)
 
-- Serious engagement with peer review assignments (commenting on each others' work). (10%)
+- Serious engagement with peer review assignments (commenting on each others' work). (15%)
 
-- Pop quizzes. (10%)
+- Pop quizzes. (15%)
 
 - NOTE: Because of the size of the class, it's not feasible for me to provide significant feedback for everyone on each assignment. When I collect assignments (which I don't always do, even when they are due) I assign a number grade from 4-10 (if you don't turn in it, you get a 0). I hope you will visit office hours (or make an appointment) to discuss the rationale behind your grade, if you're interested.
 
