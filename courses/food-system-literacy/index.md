@@ -23,7 +23,7 @@ To cover so many topics, our reading list takes a smorgasbord approach from acad
 
 
 ## Work Requirements and Grading
-- Thorough preparedness and engaged participation in most every class meeting. This is a class that's focused on cultivating different perspectives about how we can think about food production, not just memorizing and regurgitating supposedly important "facts". (30%)
+- Thorough preparedness and engaged participation in most every class meeting. This is a class that's focused on cultivating different perspectives about how we can think about food production, not just memorizing and regurgitating supposedly important "facts". (20%)
 
 - Serious effort and on-time completion of the short writing assignments (usually ~250 words). (20%)
 
@@ -33,7 +33,9 @@ To cover so many topics, our reading list takes a smorgasbord approach from acad
 
 - NOTE: Because of the size of the class, it's not feasible for me to provide significant feedback for everyone on each assignment. When I collect assignments (which I don't always do, even when they are due) I assign a number grade from 4-10 (if you don't turn in it, you get a 0). I hope you will visit office hours (or make an appointment) to discuss the rationale behind your grade, if you're interested.
 
-- Final essay (~1200 words) explaining what you've learned in the course. This sounds like a joke, but this seriously affects your grade, and it's the last impression you get to make. We'll look at examples and prepare for this important exercise ahead of time. (20%)
+- Midterm ad analysis (~800 words) as explained on the schedule. (15%)
+
+- Final essay (~1200 words) explaining what you've learned in the course. This sounds like a joke, but this seriously affects your grade, and it's the last impression you get to make. We'll look at examples and prepare for this important exercise ahead of time. (15%)
 
 - You are heartily encourage to speak with me at any time about how I think you're doing in the class and how it can be improved (if at all).
 
@@ -41,4 +43,4 @@ To cover so many topics, our reading list takes a smorgasbord approach from acad
 
 
 ## Required Readings
-There are no required books for the course. All readings that aren't already online (and some that are) will be available through the class Zotero library. This will be discussed in class, but for reference, please see the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library will be posted shortly.
+There are no required books for the course. All readings that aren't already online (and some that are) will be available through the class Zotero library. This will be discussed in class, but for reference, please see the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library is [https://www.zotero.org/groups/1647225/food-production-unm/items](https://www.zotero.org/groups/1647225/food-production-unm/items).

@@ -18,7 +18,7 @@ Today we'll review the syllabus, course aims, assignments, and general plan for 
 
 ### Thursday (Aug 24)
 * Tim Hitchcock, “[Historyonics: Big Data for Dead People: Digital Readings and the Conundrums of Positivism](http://historyonics.blogspot.com/2013/12/big-data-for-dead-people-digital.html)."
-
+* Introduction to Zotero
 
 ## 2: Archival Power
 

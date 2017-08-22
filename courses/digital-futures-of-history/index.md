@@ -48,4 +48,4 @@ The following books are required for the course, but they are not available at U
 
 Note that there is a [Thinking with Type website](http://thinkingwithtype.com), but it DOES NOT substitute for the book itself, which has a tremendous amount of essential content that the website does not (not surprisingly). Browse the website if you'd like (it's nicely done), but READ THE BOOK.
 
-You will also need to subscribe to the course Zotero library to access assigned articles. This will be discussed in class, but for reference, please see the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library will be posted shortly.
+You will also need to subscribe to the course Zotero library to access assigned articles. This will be discussed in class, but for reference, please see the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library is [https://www.zotero.org/groups/1647219/digital-futures-unm/items](https://www.zotero.org/groups/1647219/digital-futures-unm/items).

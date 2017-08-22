@@ -17,15 +17,17 @@ Today we'll review the syllabus, course aims, assignments, and general plan for 
 
 
 ### Aug 24
-Two contrasting visions of food production:
+The point of this coupling of readings is to canvas the broad spectrum of visions of food production--one a global lab-driven research effort, and the other centered on the idyllic agrarian yeoman. **Some discussion questions for class: What's the difference between food grown in the ground and food produced in the lab? Does all food boil down to chemistry? Is the food production system described by Warner antithetical to Jefferson's vision, or evidence of its success?**
+
 * Melanie Warner, _Pandora's Lunchbox_, xiii-xix; 1-20 (Weird Science). This is a super quick read.
-* James, E. McWilliams, _Revolution in Eating_, 240-64; 274-5. (A culinary declaration of independence). The PDF is in the Zotero library, or you can read it online [here](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=895246). Skip the section "Defining American Food." On the whole, no need to labor over the details; focus on the forest, not the trees.
+* Lisi Krall, “Thomas Jefferson’s Agrarian Vision and the Changing Nature of Property,” 131–33; 144-48. Available at [JSTOR](https://www.jstor.org/stable/4227751?seq=1#page_scan_tab_contents).  The read middle section if you're interested in political economy. This reading also provides an important background to McWilliams for next week.
+* Introduction to Zotero.
 
 
 ## Land and Capital
 
 ### Aug 29
-* Lisi Krall, “Thomas Jefferson’s Agrarian Vision and the Changing Nature of Property,” 131–33; 144-48.
+* James, E. McWilliams, _Revolution in Eating_, 240-64; 274-5. (A culinary declaration of independence). The PDF is in the Zotero library, or you can read it online [here](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=895246). Skip the section "Defining American Food," (265-73). On the whole, no need to labor over the details; focus on the forest, not the trees.
 * William Cronon, _Nature's Metropolis_, 23-54. Although this reading is not specifically about food production, it introduces how we can understand westward expansion as systematic conversion of land to capital, as introduced by Krall.
 
 ### Aug 31
@@ -46,6 +48,8 @@ Two contrasting visions of food production:
 * Amy Bentley, "Inventing Baby Food: Gerber and the Discourse of Infancy in the United States," 92-109.
 
 
+## Advertising
+
 ### Sep 12
 * Ann Vileisis, _Kitchen Literacy_, 96-125; 126-159.
 * FOR NEXT MEETING (9/19): Find food ads from around 1900 (1880-1920 at the extremes); What kinds of products are they promoting? What kinds of techniques do they use? What are they appealing to? How are they using science to sell food? Who are they marketing to?
@@ -55,20 +59,20 @@ NO CLASS (work on your presentations)
 
 
 ### Sep 19
-[DUE] Primary Source Advertising SUMMARIES and PRESENTATIONS
+* Charlotte Bitelkoff, _Eating Right in America_, 13-44 (Scientific Moralization and the Beginning of Modern Dietary Reform).
 
 ### Sep 21
-* Charlotte Bitelkoff, _Eating Right in America_, 13-44 (Scientific Moralization and the Beginning of Modern Dietary Reform).
+* DUE: Primary Source Advertising SUMMARIES and PRESENTATIONS
 
 
 ## Critical Distances
 
 ### Sep 26
-* PRIMARY (1906): Upton Sinclair, _The Jungle_ (chapters 9 and 14; page numbers vary by edition).
+* PRIMARY (1906): Upton Sinclair, _The Jungle_ (chapters 9 and 14).
 * Melanie Warner, _Pandora's Lunchbox_, 21-37.
 
 ### Sep 28
-* PRIMARY (1940): Paul Johnstone, "Old Ideals versus New Ideas in Farm Life," 111-167.
+* PRIMARY (1940): Selections from Paul Johnstone, "Old Ideals versus New Ideas in Farm Life," 111-167.
 * Michael Pollan, _Omnivore's Dilemma_, 32-56 (The Farm).
 
 
@@ -79,6 +83,7 @@ NO CLASS (work on your presentations)
 * Harvey Levenstein, _Paradox of Plenty_, 227-236 (Fast Foods and Quick Bucks).
 
 ### Oct 5
+* DUE: Reading comparison: How does Johnstone's text compare to the values described much earlier in the course with Jefferson and more recently with Pollan?
 * Michael Moss, _Salt, Sugar, Fat_, 45-67 (Convenience with a Capital C).
 * Harvey Levenstein, _Paradox of Plenty_, 101-118 (The Golden Age of Food Processing: Miracle Whip *über Alles*).
 
@@ -109,7 +114,7 @@ EXTENDED BREAK (research time)
 * Jeffrey Charles, "Searching for Gold in Guacamole: California Growers Market the Avocado, 1910-1994," 131-150.
 
 ### Nov 2
-OPEN
+Ad research presentations
 
 
 ## Working on the Farm
@@ -121,7 +126,7 @@ OPEN
 ### Nov 9
 * Eric Schlosser, _Fast Food Nation_, 149-166; 169-190.
 * Christopher Leonard, _Meat Racket_, 1-13; 47-62; 17-46.
-* "Livestock's Long Shadow," 267-284. [(ftp://ftp.fao.org/docrep/fao/010/a0701e/a0701e07.pdf)]
+* For reference: "Livestock's Long Shadow," 267-284.
 
 
 ## Big Organic
@@ -134,7 +139,6 @@ OPEN
 ### Nov 16
 * McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 1-46 (Prologue; Are GMOs Safe?).
 * McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 47-76 (The Long, Paved Road to Industrial Food).
-
 
 
 ## Local Food
@@ -150,6 +154,7 @@ THANKSGIVING
 ## Global Fortification
 
 ### Nov 28
+* DUE: Local/Organic Food website analysis
 * Marion Nestle, _Food Politics_, 295-314 (Fortification and Marketing).
 * Melanie Warner, _Pandora's Lunchbox_, 97-123 (Better Living through Chemistry).
 * Steve Ettlinger, _Twinkie, Deconstructed_, skim 13-28; 29-44.
@@ -160,7 +165,7 @@ Gyorgy Scrinis, _Nutritionism_, 215-236 (The Food Quality Paradigm).
 
 
 ### Dec 5
-OPEN
+Final Essay Peer Review (optional)
 
 ### Dec 7
 Conclusions
