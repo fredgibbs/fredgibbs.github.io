@@ -40,7 +40,7 @@ The point of this coupling of readings is to canvas the broad spectrum of vision
 ### Sep 5
 * Harvey Levenstein, _Revolution at the Table_, 30-43 (Giant Food Processors).
 * Jennifer Wallach, _How America Eats_, 89-110 (Technology and Taste).
-* Skim [fun piece on canning](http://www.bbc.com/news/magazine-21689069). Note: some of the embedded media sometimes doesn't work for me, but don't worry if you encounter similar issues.
+* Skim this [fun piece on canning](http://www.bbc.com/news/magazine-21689069). Note: some of the embedded media sometimes doesn't work for me, but don't worry if you encounter similar issues.
 
 ### Sep 7
 {% include alert.html class='danger' title='DUE: Executive Summaries' text="
@@ -56,7 +56,7 @@ Come to class with a ~250-word summary of _Nature's Metropolis_ and its signific
 ### Sep 12
 * Ann Vileisis, _Kitchen Literacy_, 96-125; 126-159.
 
-{% include alert.html class='alert' title='Food Ads' text="
+{% include alert.html class='warning' title='Food Ads' text="
 For next week, find food ads from around 1900 (1880-1920 at the extremes); What kinds of products are they promoting? What kinds of techniques do they use? What are they appealing to? How are they using science to sell food? Who are they marketing to? Prepare a ~10-slide presentation.
 "%}
 
@@ -97,7 +97,7 @@ Come to class prepared to give your presentations (all will be evaluated, even i
 
 ### Oct 5
 {% include alert.html class='danger' title='DUE: Source Comparison' text="
-How does Johnstone's text compare to the values described much earlier in the course with Jefferson and more recently with Pollan?
+Another ~250-word source analysis: How does Johnstone's text compare to the values described much earlier in the course with Jefferson and more recently with Pollan?
 "%}
 
 * Michael Moss, _Salt, Sugar, Fat_, 45-67 (Convenience with a Capital C).
@@ -117,7 +117,7 @@ Relax, but not for too long (see below).
 
 
 ### Oct 17 and 19
-{% include alert.html class='info' title='No class: Research Break' text="
+{% include alert.html class='warning' title='No class: Research Break' text="
 This week, we're going to collaboratively tackle an advertising research project. We'll divide up into groups and focus on different years 1920-1970 (time span subject to adjustment), and how, from a food standpoint, those years appear in ABQ newspapers. We'll try to discover how how stores/businesses advertised food, and how this changed over time as the city grew dramatically. More detailed instructions and links will appear here as we get closer to the date.
 "%}
 
@@ -165,13 +165,18 @@ Bring to class your ~800-word essays on your ad research, and we'll pool our col
 * C. Clare Hinrichs, “The Practice and Politics of Food System Localization,” 33–45.
 
 ### Nov 23
-THANKSGIVING
+{% include alert.html class='info' title='Thanksgiving' text="
+Happy Eating!
+"%}
 
 
 ## Global Fortification
 
 ### Nov 28
-* DUE: Local/Organic Food website analysis
+{% include alert.html class='danger' title='DUE: Local/Organic website analysis' text="
+Bring to class a ~500-word critique of a website that promotes local and/or organic food production. What kinds of arguments do they make? Where have we seen these before? What's different? How convincing are they? How could they be more effective?
+"%}
+
 * Marion Nestle, _Food Politics_, 295-314 (Fortification and Marketing).
 * Melanie Warner, _Pandora's Lunchbox_, 97-123 (Better Living through Chemistry).
 * Steve Ettlinger, _Twinkie, Deconstructed_, skim 13-28; 29-44.
@@ -182,7 +187,11 @@ Gyorgy Scrinis, _Nutritionism_, 215-236 (The Food Quality Paradigm).
 
 
 ### Dec 5
-Final Essay Peer Review (optional)
+{% include alert.html class='warning' title='Final Essay Peer Review' text="
+This class is optional. If you come, you should bring a draft of your final that we can critique together. Students have found this very helpful in the past, both to get feedback on their papers and to see how others approach it.
+"%}
+
+
 
 ### Dec 7
 Conclusions
