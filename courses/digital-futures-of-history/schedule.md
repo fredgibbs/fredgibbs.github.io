@@ -28,7 +28,7 @@ Today we'll review the syllabus, course aims, assignments, and general plan for 
 
 ### Thursday (Aug 31)
 * Joshua Sternfeld, “Archival Theory and Digital Historiography: Selection, Search, and Metadata as Archival Processes for Assessing Historical Contextualization,” 544–75.
-* Jefferson Bailey, “[Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives](http://dev.archivejournal.net/?p=4722).
+* Jefferson Bailey, “[Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives](http://dev.archivejournal.net/?p=4722)".
 
 
 
@@ -41,19 +41,24 @@ Today we'll review the syllabus, course aims, assignments, and general plan for 
 * FOR FUN: Daniel Mendelsohn, [A Critic's Manifesto](http://www.newyorker.com/books/page-turner/a-critics-manifesto).
 
 ### Thursday (Sep 7)
+{% include alert.html class='danger' title='DUE: First DH Project Critique' text="
+Bring to class a ~750-word critique for a site listed [here](http://www.slate.com/blogs/the_vault/2016/12/30/five_great_digital_history_projects_from_2016.html), or any of the past projects (links near the top), or [here](http://www.slate.com/blogs/the_vault/2017/01/05/some_of_the_most_browsable_history_sites_we_encountered_in_2016.html).
+"%}
 * Fred Gibbs, “The Poetics of Digital Scholarship,” 101-122.
-* DUE: A ~750-word critique for a site listed [here](http://www.slate.com/blogs/the_vault/2016/12/30/five_great_digital_history_projects_from_2016.html), or any of the past projects (links near the top), or [here](http://www.slate.com/blogs/the_vault/2017/01/05/some_of_the_most_browsable_history_sites_we_encountered_in_2016.html).
 
 
 ## 4: Historical Data and Algorithms
 
 ### Tuesday (Sep 12)
-* DUE: Critiques of critiques
+{% include alert.html class='danger' title='DUE: Peer Critique' text="
+Return your marked-up critiques to their owners.
+"%}
 * Andrew Goldstone and Ted Underwood, "The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us."
 
 ### Thursday (Sep 14)
-NO CLASS (read Jenkins!)
-
+{% include alert.html class='info' title='No Class' text="
+Read Jenkins!
+"%}
 
 
 ## 5: What is History For?
@@ -80,7 +85,9 @@ NO CLASS (read Jenkins!)
 * Start finding a project to critique from [Humanities GIS Projects](http://geohumanities.org/gis).
 
 ### Thursday (Sep 28)
-* DUE: ~250-word report on Voyant experiments
+{% include alert.html class='danger' title='DUE: Voyant Report' text="
+~250-word report on loading, visualizing, and exploring text via Voyant
+"%}
 * Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
 * Ted Underwood, [Topic Modeling Made Just Simple Enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/).
 * If you want more: Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
@@ -97,7 +104,9 @@ NO CLASS (read Jenkins!)
 * Dolores Hayden, "Place, Memory, and Urban Preservation," in _The Power of Place_, 44-78.
 
 ### Thurs (Oct 5)
-* DUE: ~750-word critique of a text analysis / visualization project
+{% include alert.html class='danger' title='DUE: Text Analysis Critique' text="
+~750-word critique of a text analysis / visualization project
+"%}
 * Peter Fisher, “Sorites Paradox and Vague Geographies,” 7–18.
 * Demonstration of GIS technologies and web mapping tools
 
@@ -106,20 +115,30 @@ NO CLASS (read Jenkins!)
 ## 8: Critiquing Spatial History
 
 ### Tuesday (Oct 10)
-* DUE: Critiques of text analysis critiques
+{% include alert.html class='danger' title='DUE: Peer critiques' text="
+Critiques of text analysis critiques.
+"%}
+{% include alert.html class='info' title='Video Check-in' text="
+First video review check-in (1/2).
+"%}
 * Instructions for our spatial history project
-* First video review check-in (1/2).
 
 ### Thursday (Oct 12)
-FALL BREAK
+{% include alert.html class='info' title='Fall Break' text="
+Relax, but not for too long (see below).
+"%}
 
 
+## 9: Spatial History Work Time
 
-## 9: Mapping Work Time
 (Oct 17 and 19): NO CLASS
 READ: Ellen Lupton, _Thinking with Type_ (2nd edition).
 
+{% include alert.html class='warning' title='No class: Research Break' text="
 During this week, you'll pair up to research and work on a local spatial history research project. The idea (which we'll refine together as the date gets closer) is that everyone will pick a particular historic site or monument in ABQ that holds some interest for them. Using historic maps, newspapers, and city archives, we'll create micro-histories of these spaces, and then look at how they help shape the city as a whole and how they illustrate the story of ABQ's development over time. We'll discuss all the processes and requirements before fall break so you'll know exactly what to do. But it does take time, which is why you get a week to work on it.
+"%}
+
+
 
 
 ## 10: Data and Network Analysis
@@ -127,7 +146,9 @@ During this week, you'll pair up to research and work on a local spatial history
 ### Tuesday (Oct 31)
 - DUE: Research Data uploaded to the shared spreadsheet
 - Ellen Lupton, _Thinking with Type_.
-- First video review check-in (2/2).
+{% include alert.html class='info' title='Video Check-in' text="
+First video review check-in (2/2).
+"%}
 
 ### Thursday (Nov 2)
 - Scott B. Weingart, [Demystifying Networks, Parts I and II](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/).
@@ -139,7 +160,9 @@ During this week, you'll pair up to research and work on a local spatial history
 ## 11: Historical and Authorities of Knowledge
 
 ### Tuesday (Nov 7)
-- DUE: First video critique: a project from [Humanities GIS Projects](http://geohumanities.org/gis).
+{% include alert.html class='danger' title='DUE: First video critique' text="
+Review a project from this list of [Humanities GIS Projects](http://geohumanities.org/gis).
+"%}
 * William Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
 * Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/–writing-history-in-the-digital-age).
 
@@ -162,12 +185,16 @@ During this week, you'll pair up to research and work on a local spatial history
 ## 13: Clean up and Eating
 
 ### Tuesday (Nov 21)
-* DUE: Revised text critiques
+{% include alert.html class='danger' title='DUE: Revised text critiques' text="
+As we we think more about our review journal, we need to polish up our earlier critiques to account for everything we've talked about since then.
+"%}
+
 
 
 ### Thursday (Nov 23)
-THANKSGIVING
-
+{% include alert.html class='info' title='Thanksgiving' text="
+Happy Eating!
+"%}
 
 
 ## 14: OPEN (Nov 28 and 30)
