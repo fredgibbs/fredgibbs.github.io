@@ -43,8 +43,8 @@ The point of this coupling of readings is to canvas the broad spectrum of vision
 * Skim [fun piece on canning](http://www.bbc.com/news/magazine-21689069). Note: some of the embedded media sometimes doesn't work for me, but don't worry if you encounter similar issues.
 
 ### Sep 7
-{% include alert.html class='danger' title='Executive Summaries' text="
-Come to class with a ~250-word executive summary of _Nature's Metropolis_ and its significance for the course.
+{% include alert.html class='danger' title='DUE: Executive Summaries' text="
+Come to class with a ~250-word summary of _Nature's Metropolis_ and its significance for the course.
 "%}
 
 * Harvey Levenstein, _Revolution at the Table_, 121-136 (Best for Babies, 1880-1930).
@@ -55,17 +55,27 @@ Come to class with a ~250-word executive summary of _Nature's Metropolis_ and it
 
 ### Sep 12
 * Ann Vileisis, _Kitchen Literacy_, 96-125; 126-159.
-* FOR NEXT MEETING (9/19): Find food ads from around 1900 (1880-1920 at the extremes); What kinds of products are they promoting? What kinds of techniques do they use? What are they appealing to? How are they using science to sell food? Who are they marketing to?
+
+{% include alert.html class='alert' title='Food Ads' text="
+For next week, find food ads from around 1900 (1880-1920 at the extremes); What kinds of products are they promoting? What kinds of techniques do they use? What are they appealing to? How are they using science to sell food? Who are they marketing to? Prepare a ~10-slide presentation.
+"%}
+
 
 ### Sep 14
-NO CLASS (work on your presentations)
+{% include alert.html class='info' title='No Class' text="
+Work on your presentations (see above)
+"%}
+
+
 
 
 ### Sep 19
 * Charlotte Bitelkoff, _Eating Right in America_, 13-44 (Scientific Moralization and the Beginning of Modern Dietary Reform).
 
 ### Sep 21
-* DUE: Primary Source Advertising SUMMARIES and PRESENTATIONS
+{% include alert.html class='danger' title='DUE: Advertising Presentation' text="
+Come to class prepared to give your presentations (all will be evaluated, even if not presented in class)
+"%}
 
 
 ## Critical Distances
@@ -86,7 +96,10 @@ NO CLASS (work on your presentations)
 * Harvey Levenstein, _Paradox of Plenty_, 227-236 (Fast Foods and Quick Bucks).
 
 ### Oct 5
-* DUE: Reading comparison: How does Johnstone's text compare to the values described much earlier in the course with Jefferson and more recently with Pollan?
+{% include alert.html class='danger' title='DUE: Source Comparison' text="
+How does Johnstone's text compare to the values described much earlier in the course with Jefferson and more recently with Pollan?
+"%}
+
 * Michael Moss, _Salt, Sugar, Fat_, 45-67 (Convenience with a Capital C).
 * Harvey Levenstein, _Paradox of Plenty_, 101-118 (The Golden Age of Food Processing: Miracle Whip *über Alles*).
 
@@ -98,16 +111,15 @@ NO CLASS (work on your presentations)
 * Selections from Warren Belasco, _Appetite for Change_.
 
 ### Oct 12
-FALL BREAK
+{% include alert.html class='info' title='Fall Break' text="
+Relax, but not for too long (see below).
+"%}
 
-For the next week, we're going to collaboratively tackle an advertising research project. We'll divide up into groups and focus on different years 1920-1970 (time span subject to adjustment), and how, from a food standpoint, those years appear in ABQ newspapers. We'll try to discover how how stores/businesses advertised food, and how this changed over time as the city grew dramatically. More detailed instructions and links will appear here as we get closer to the date.
 
-
-### Oct 17
-EXTENDED BREAK (research time)
-
-### Oct 19
-EXTENDED BREAK (research time)
+### Oct 17 and 19
+{% include alert.html class='info' title='No class: Research Break' text="
+This week, we're going to collaboratively tackle an advertising research project. We'll divide up into groups and focus on different years 1920-1970 (time span subject to adjustment), and how, from a food standpoint, those years appear in ABQ newspapers. We'll try to discover how how stores/businesses advertised food, and how this changed over time as the city grew dramatically. More detailed instructions and links will appear here as we get closer to the date.
+"%}
 
 
 ## The Tale of Two Fruits
@@ -117,7 +129,9 @@ EXTENDED BREAK (research time)
 * Jeffrey Charles, "Searching for Gold in Guacamole: California Growers Market the Avocado, 1910-1994," 131-150.
 
 ### Nov 2
-Ad research presentations
+{% include alert.html class='danger' title='DUE: Ad research reports' text="
+Bring to class your ~800-word essays on your ad research, and we'll pool our collective knowledge to develop a bigger picture about selling food in ABQ.
+"%}
 
 
 ## Working on the Farm
