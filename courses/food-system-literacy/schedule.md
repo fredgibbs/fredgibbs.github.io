@@ -55,7 +55,6 @@ Come to class with a ~250-word summary of _Nature's Metropolis_ and its signific
 
 ### Sep 12
 * Ann Vileisis, _Kitchen Literacy_, 96-125; 126-159.
-
 {% include alert.html class='warning' title='Food Ads' text="
 For next week, find food ads from around 1900 (1880-1920 at the extremes); What kinds of products are they promoting? What kinds of techniques do they use? What are they appealing to? How are they using science to sell food? Who are they marketing to? Prepare a ~10-slide presentation.
 "%}
