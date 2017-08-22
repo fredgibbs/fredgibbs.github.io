@@ -94,6 +94,7 @@ NO CLASS (read Jenkins!)
 ### Tues (Oct 3)
 * Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?
 * David J. Bodenhamer, "The Spatial Humanities: Space, Time and Place in the New Digital Age," 23-38.
+* Dolores Hayden, "Place, Memory, and Urban Preservation," in _The Power of Place_, 44-78.
 
 ### Thurs (Oct 5)
 * DUE: ~750-word critique of a text analysis / visualization project
@@ -118,7 +119,7 @@ FALL BREAK
 (Oct 17 and 19): NO CLASS
 READ: Ellen Lupton, _Thinking with Type_ (2nd edition).
 
-During this week, you'll pair up to research and work on a local spatial history research project. The idea (which we'll refine together as the date gets closer) is that everyone will pick a particular block in ABQ that holds some interest for them (you live on it, you commute on it, you like the architecture, you think it's a blight on the city, whatever; just pick something that seems to be interesting in some way). Using historic maps and other archival sources, we'll create micro-histories of these spaces (the streets, parks, and buildings along your chosen block) and how they illustrate the story of ABQ's development over time. We'll discuss all the processes and requirements before fall break so you'll know exactly what to do. But it does take time, which is why you get a week to work on it.
+During this week, you'll pair up to research and work on a local spatial history research project. The idea (which we'll refine together as the date gets closer) is that everyone will pick a particular historic site or monument in ABQ that holds some interest for them. Using historic maps, newspapers, and city archives, we'll create micro-histories of these spaces, and then look at how they help shape the city as a whole and how they illustrate the story of ABQ's development over time. We'll discuss all the processes and requirements before fall break so you'll know exactly what to do. But it does take time, which is why you get a week to work on it.
 
 
 ## 10: Data and Network Analysis

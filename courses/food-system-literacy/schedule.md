@@ -19,7 +19,7 @@ Today we'll review the syllabus, course aims, assignments, and general plan for 
 ### Aug 24
 The point of this coupling of readings is to canvas the broad spectrum of visions of food production--one a global lab-driven research effort, and the other centered on the idyllic agrarian yeoman. **Some discussion questions for class: What's the difference between food grown in the ground and food produced in the lab? Does all food boil down to chemistry? Is the food production system described by Warner antithetical to Jefferson's vision, or evidence of its success?**
 
-* Melanie Warner, _Pandora's Lunchbox_, xiii-xix; 1-20 (Weird Science). This is a super quick read.
+* Melanie Warner, _Pandora's Lunchbox_, xiii-xix; 1-20 (Weird Science). This is a super quick read. Until we have more time to go over Zotero, the PDF is [here](readings/201708210919.pdf).
 * Lisi Krall, “Thomas Jefferson’s Agrarian Vision and the Changing Nature of Property,” 131–33; 144-48. Available at [JSTOR](https://www.jstor.org/stable/4227751?seq=1#page_scan_tab_contents).  The read middle section if you're interested in political economy. This reading also provides an important background to McWilliams for next week.
 * Introduction to Zotero.
 
@@ -43,7 +43,10 @@ The point of this coupling of readings is to canvas the broad spectrum of vision
 * Skim [fun piece on canning](http://www.bbc.com/news/magazine-21689069). Note: some of the embedded media sometimes doesn't work for me, but don't worry if you encounter similar issues.
 
 ### Sep 7
-* DUE: Executive summaries of _Nature's Metropolis_ and its significance for the course.
+{% include alert.html class='danger' title='Executive Summaries' text="
+Come to class with a ~250-word executive summary of _Nature's Metropolis_ and its significance for the course.
+"%}
+
 * Harvey Levenstein, _Revolution at the Table_, 121-136 (Best for Babies, 1880-1930).
 * Amy Bentley, "Inventing Baby Food: Gerber and the Discourse of Infancy in the United States," 92-109.
 
