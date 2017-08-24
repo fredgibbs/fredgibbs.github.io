@@ -18,7 +18,7 @@ Today we'll review the syllabus, course aims, assignments, and general plan for 
 
 ### Thursday (Aug 24)
 * Tim Hitchcock, “[Historyonics: Big Data for Dead People: Digital Readings and the Conundrums of Positivism](http://historyonics.blogspot.com/2013/12/big-data-for-dead-people-digital.html)."
-* Introduction to Zotero
+* Introduction to Zotero (in class)
 
 ## 2: Archival Power
 
@@ -118,7 +118,7 @@ Read Jenkins!
 {% include alert.html class='danger' title='DUE: Peer critiques' text="
 Critiques of text analysis critiques.
 "%}
-{% include alert.html class='info' title='Video Check-in' text="
+{% include alert.html class='warning' title='Video Check-in' text="
 First video review check-in (1/2).
 "%}
 * Instructions for our spatial history project
@@ -135,18 +135,29 @@ Relax, but not for too long (see below).
 READ: Ellen Lupton, _Thinking with Type_ (2nd edition).
 
 {% include alert.html class='warning' title='No class: Research Break' text="
-During this week, you'll pair up to research and work on a local spatial history research project. The idea (which we'll refine together as the date gets closer) is that everyone will pick a particular historic site or monument in ABQ that holds some interest for them. Using historic maps, newspapers, and city archives, we'll create micro-histories of these spaces, and then look at how they help shape the city as a whole and how they illustrate the story of ABQ's development over time. We'll discuss all the processes and requirements before fall break so you'll know exactly what to do. But it does take time, which is why you get a week to work on it.
+During this week, you'll pair up to research and work on a local spatial history research project. The idea (which we'll refine together as the date gets closer) is that everyone will pick a particular historic site or monument in ABQ that holds some interest for them. Using historic maps, newspapers, and city archives, we'll create micro-histories of these spaces, and then look at how they have helped shape the city as a whole and illustrate the story of ABQ's development over time. We'll discuss all the processes and requirements before fall break so you'll know exactly what to do. But it does take time, which is why you get a week to work on it.
 "%}
 
 
 
+## 10: Spatial History Project Discussion
 
-## 10: Data and Network Analysis
+### Tuesday (Oct 24)
+- Ellen Lupton, _Thinking with Type_.
+- Discussion of Research Projects
+
+
+### Thursday (Oct 26)
+{% include alert.html class='danger' title='DUE: Research Reports' text="
+Make sure all data is uploaded into the shared spreadsheet
+"%}
+
+
+## 11: Data and Network Analysis
 
 ### Tuesday (Oct 31)
-- DUE: Research Data uploaded to the shared spreadsheet
-- Ellen Lupton, _Thinking with Type_.
-{% include alert.html class='info' title='Video Check-in' text="
+
+{% include alert.html class='warning' title='Video Check-in' text="
 First video review check-in (2/2).
 "%}
 
@@ -157,7 +168,7 @@ First video review check-in (2/2).
 - Read through [this  tutorial](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources) to help you think about converting historical sources into data for uploading.
 
 
-## 11: Historical and Authorities of Knowledge
+## 12: Historical and Authorities of Knowledge
 
 ### Tuesday (Nov 7)
 {% include alert.html class='danger' title='DUE: First video critique' text="
@@ -172,7 +183,7 @@ Review a project from this list of [Humanities GIS Projects](http://geohumanitie
 * Discussion of public critiques
 
 
-## 12: Review Essay compilation
+## 13: Review Essay compilation
 
 ### Tuesday (Nov 14)
 * Digital Review Journal Assembly and Review
@@ -182,14 +193,12 @@ Review a project from this list of [Humanities GIS Projects](http://geohumanitie
 
 
 
-## 13: Clean up and Eating
+## 14: Clean up and Eating
 
 ### Tuesday (Nov 21)
 {% include alert.html class='danger' title='DUE: Revised text critiques' text="
 As we we think more about our review journal, we need to polish up our earlier critiques to account for everything we've talked about since then.
 "%}
-
-
 
 ### Thursday (Nov 23)
 {% include alert.html class='info' title='Thanksgiving' text="
@@ -197,8 +206,8 @@ Happy Eating!
 "%}
 
 
-## 14: OPEN (Nov 28 and 30)
+## 15: OPEN (Nov 28 and 30)
 
 
-## 15: Loose ends (Dec 5 and 7)
+## 16: Loose ends (Dec 5 and 7)
 * DUE: Second video critique (any digital history project)

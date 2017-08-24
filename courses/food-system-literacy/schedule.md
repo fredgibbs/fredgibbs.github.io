@@ -28,10 +28,10 @@ The point of this coupling of readings is to canvas the broad spectrum of vision
 
 ### Aug 29
 * James, E. McWilliams, _Revolution in Eating_, 240-64; 274-5. (A culinary declaration of independence). The PDF is in the Zotero library, or you can read it online [here](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=895246). Skip the section "Defining American Food," (265-73). On the whole, no need to labor over the details; focus on the forest, not the trees.
-* William Cronon, _Nature's Metropolis_, 23-54. Although this reading is not specifically about food production, it introduces how we can understand westward expansion as systematic conversion of land to capital, as introduced by Krall.
+* William Cronon, _Nature's Metropolis_, 23-54 (Dreaming the Metropolis). Although this reading is not specifically about food production, it introduces how we can understand westward expansion as systematic conversion of land to capital, as introduced by Krall.
 
 ### Aug 31
-* William Cronon, _Nature's Metropolis_, 55-93 (mid 1830-60; Impact of rails on shipping)
+* William Cronon, _Nature's Metropolis_, 55-93 (Rails and Water)
 * Discussion of review assignment due in 1 week (see below).
 
 
@@ -88,6 +88,7 @@ Come to class prepared to give your presentations (all will be evaluated, even i
 * Michael Pollan, _Omnivore's Dilemma_, 32-56 (The Farm).
 
 
+
 ## Fast Food
 
 ### Oct 3
@@ -101,6 +102,7 @@ Another ~250-word source analysis: How does Johnstone's text compare to the valu
 
 * Michael Moss, _Salt, Sugar, Fat_, 45-67 (Convenience with a Capital C).
 * Harvey Levenstein, _Paradox of Plenty_, 101-118 (The Golden Age of Food Processing: Miracle Whip *über Alles*).
+
 
 
 ## What's on your food?
@@ -121,6 +123,15 @@ This week, we're going to collaboratively tackle an advertising research project
 "%}
 
 
+### Oct 24
+{% include alert.html class='danger' title='DUE: Ad research reports' text="
+Bring to class your ~800-word visual essays on your ad research, and we'll pool our collective knowledge to develop a bigger picture about selling food in ABQ.
+"%}
+
+### Oct 26
+
+
+
 ## The Tale of Two Fruits
 
 ### Oct 31
@@ -128,9 +139,7 @@ This week, we're going to collaboratively tackle an advertising research project
 * Jeffrey Charles, "Searching for Gold in Guacamole: California Growers Market the Avocado, 1910-1994," 131-150.
 
 ### Nov 2
-{% include alert.html class='danger' title='DUE: Ad research reports' text="
-Bring to class your ~800-word essays on your ad research, and we'll pool our collective knowledge to develop a bigger picture about selling food in ABQ.
-"%}
+
 
 
 ## Working on the Farm
