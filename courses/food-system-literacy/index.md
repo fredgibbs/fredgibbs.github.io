@@ -37,6 +37,10 @@ To cover so many topics, our reading list takes a smorgasbord approach from acad
 
 - Final essay (~1200 words) explaining what you've learned in the course. This sounds like a joke, but this seriously affects your grade, and it's the last impression you get to make. We'll look at examples and prepare for this important exercise ahead of time. (15%)
 
+- You can resubmit all assignments once before the end of the term for re-grading. You get about the average between the two grades. Please keep in mind how busy you'll be at that time, mostly doing new work for other courses that needs to be submitted. This is a safety net, but not something you should plan on using.
+
+- Late work is not accepted unless due to a medical emergency. You can submit work per the resubmission policy to avoid getting a 0 for the assignment.
+
 - I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how it can be improved (if at all).
 
 - If life gets overwhelming during the semester, it can be tempting to drift away from an elective  course like this that doesn't have big exams scheduled from time to time. Rather than disappear (which compromises not only your attendance grade, but also all subsequent assignments), please come talk with me about how we can accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
