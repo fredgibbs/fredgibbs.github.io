@@ -105,11 +105,11 @@ Another ~250-word source analysis: How does Johnstone's text compare to the valu
 
 
 
-## What's on your food?
+## Counterculture
 
 ### Oct 10
 * Rachel Carson, _Silent Spring_, 5-37.
-* Selections from Warren Belasco, _Appetite for Change_.
+* Warren Belasco, _Appetite for Change_, 29-42 (Radical Consumerism); 111-131 (War of the Metaphors).
 
 ### Oct 12
 {% include alert.html class='info' title='Fall Break' text="
@@ -119,8 +119,10 @@ Relax, but not for too long (see below).
 
 ### Oct 17 and 19
 {% include alert.html class='warning' title='No class: Research Break' text="
-This week, we're going to collaboratively tackle an advertising research project. We'll divide up into groups and focus on different years 1920-1970 (time span subject to adjustment), and how, from a food standpoint, those years appear in ABQ newspapers. We'll try to discover how how stores/businesses advertised food, and how this changed over time as the city grew dramatically. More detailed instructions and links will appear here as we get closer to the date.
+This week, we're going to collaboratively tackle an advertising research project. We'll divide up into groups and focus on different years 1920-1990 (time span subject to adjustment), and how, from a food standpoint, those years appear in ABQ newspapers. We'll try to discover how how stores/businesses advertised food, and how this changed over time as the city grew dramatically. Does it follow the model suggested in _Food is Love_? More detailed instructions and links will appear here as we get closer to the date.
 "%}
+
+While on "break", read Katherine J. Parkin, _Food is Love_, 30-78.
 
 
 ### Oct 24
