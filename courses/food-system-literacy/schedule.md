@@ -44,7 +44,7 @@ The point of this coupling of readings is to canvas the broad spectrum of vision
 
 ### Sep 7
 {% include alert.html class='danger' title='DUE: Executive Summaries' text="
-Come to class with your executive summary of _Nature's Metropolis_ and its significance for the course. Be sure to follow the [Executive Summary Writing Guide](/courses/etc/exec-summary-writing-guide.html).
+Come to class with your executive summary of _Nature's Metropolis_ and its significance for the course. Be sure to follow the [Executive Summary Writing Guide](/courses/etc/exec-summary-writing-guide.html). Your summaries should provide BOTH a condensed summary of the main ideas from Cronon's chapters up AND explain why they are significant in the contexts of our other readings and class discussions.
 "%}
 
 * Harvey Levenstein, _Revolution at the Table_, 121-136 (Best for Babies, 1880-1930).
