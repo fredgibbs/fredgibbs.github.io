@@ -41,11 +41,10 @@ Questions to address (although maybe not all of these will be relevant to your a
 - **Use choice quotations.** Avoid long quotations, unless they perfectly illustrate what you're talking about. Usually short phrases convey the gist of why a longer phrase is interesting. Don't feel obligated to use complete sentences, but don't take phrases out of context.  
 - **Cite your ads.** When you directly reference or quote an ad, use a parenthetical citation to indicate exactly where you saw the ad, including the name of the paper, date, and page number.
   - _One ad from Carnation promised to offer "the finest nature in a can" (Albuquerque Journal, 09/13/1903, p.3)._
-- **Be selective.** You can’t fit everything worth saying into your essay. Choose carefully what you think is most important! That's part of what you're being graded on.
-- **Revise, revise, revise.** Once you have a complete draft of everything you want to say, you are about 50% done. Set it aside (and budget time for this!), then come back and economize your prose. Remove simple sentences that force you to be unnecessarily verbose.
-
- 1 (initial idea): There was a cat. The cat was black and it chased a mouse, which was eating cheese.    
- 2 (revised prose): The black cat chased the cheese-eating mouse.  
+- **Be selective.** You can’t fit everything worth saying into your essay. Choose carefully what points about your ads that you think are most significant. That's part of what you're being graded on. _HINT: Let our readings and discussions be your guide for what to include._
+- **Revise, revise, revise.** Once you have a complete draft of everything you want to say, you are about 50% done. Set it aside (and budget time for this!), then come back and economize your prose. Remove simple sentences that force you to be unnecessarily verbose.  
+  1 (initial idea): There was a cat. The cat was black and it chased a mouse, which was eating cheese.    
+  2 (revised prose): The black cat chased the cheese-eating mouse.  
 
 **Revisions are hard!** But they are the only way to make your writing shine.
 
