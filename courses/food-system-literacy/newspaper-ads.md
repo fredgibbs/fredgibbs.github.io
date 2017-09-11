@@ -40,7 +40,7 @@ Questions to address (although maybe not all of these will be relevant to your a
 - **Have a specific point to make**. Don't just describe the ads. (One ad said this; another ad said this; etc). Better to say something like: The ads with terms X, Y, and Z commonly appealed to "science" as a way of establishing trust. Look for general themes and explain how they relate to the readings.
 - **Use choice quotations.** Avoid long quotations, unless they perfectly illustrate what you're talking about. Usually short phrases convey the gist of why a longer phrase is interesting. Don't feel obligated to use complete sentences, but don't take phrases out of context.  
 - **Cite your ads.** When you directly reference or quote an ad, use a parenthetical citation to indicate exactly where you saw the ad, including the name of the paper, date, and page number.
-  - One ad from Carnation promised to offer "the finest nature in a can" (_Albuquerque Journal_, 09/13/1903, p.3).
+  - _One ad from Carnation promised to offer "the finest nature in a can" (Albuquerque Journal, 09/13/1903, p.3)._
 - **Be selective.** You can’t fit everything worth saying into your essay. Choose carefully what you think is most important! That's part of what you're being graded on.
 - **Revise, revise, revise.** Once you have a complete draft of everything you want to say, you are about 50% done. Set it aside (and budget time for this!), then come back and economize your prose. Remove simple sentences that force you to be unnecessarily verbose.
 
