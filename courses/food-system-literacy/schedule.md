@@ -56,24 +56,23 @@ Come to class with your executive summary of _Nature's Metropolis_ and its signi
 ### Sep 12
 * Ann Vileisis, _Kitchen Literacy_, 96-125; 126-159.
 {% include alert.html class='warning' title='Food Ads' text="
-For next week, find food ads from around 1900 (1880-1920 at the extremes); What kinds of products are they promoting? What kinds of techniques do they use? What are they appealing to? How are they using science to sell food? Who are they marketing to? Prepare a ~10-slide presentation.
+For next week, find food ads from around 1900 (1880-1920 at the extremes); What kinds of products are being sold? What kinds of techniques do they use? What sensibilities are the ads appealing to? How are they using science to sell food? Who are they marketing to? Prepare a ~350-word report on your findings. Please consult the [Ad Research Guide](newspaper-ads) for more detailed instructions.
 "%}
 
 
 ### Sep 14
 {% include alert.html class='info' title='No Class' text="
-Work on your presentations (see above)
+* Read Charlotte Bitelkoff, _Eating Right in America_, 13-44 (Scientific Moralization and the Beginning of Modern Dietary Reform). Read this before your newspaper research---it will help!
+* Work on your ad research reports (see above)
 "%}
 
 
-
-
 ### Sep 19
-* Charlotte Bitelkoff, _Eating Right in America_, 13-44 (Scientific Moralization and the Beginning of Modern Dietary Reform).
+Newspaper ad research discussion
 
 ### Sep 21
-{% include alert.html class='danger' title='DUE: Advertising Presentation' text="
-Come to class prepared to give your presentations (all will be evaluated, even if not presented in class)
+{% include alert.html class='danger' title='DUE: Ad Reports ' text="
+Come to class prepared to present your findings to the class; all papers will be collected and evaluated, even if not presented in class.
 "%}
 
 

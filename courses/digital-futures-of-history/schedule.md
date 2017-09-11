@@ -50,8 +50,8 @@ Bring to class a ~750-word critique for a site listed [here](http://www.slate.co
 ## 4: Historical Data and Algorithms
 
 ### Tuesday (Sep 12)
-{% include alert.html class='danger' title='DUE: Peer Critique' text="
-Return your marked-up critiques to their owners.
+{% include alert.html class='danger' title='DUE (for real): First Critiques' text="
+Critiques due (extended deadline from last time).
 "%}
 * Andrew Goldstone and Ted Underwood, "The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us."
 
