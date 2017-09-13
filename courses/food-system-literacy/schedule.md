@@ -67,15 +67,15 @@ For next week, find food ads from around 1900 (1880-1920 at the extremes); What 
 
 
 ### Sep 19
-{% include alert.html class='danger' title='DUE: Ad Reports First Draft ' text="
-Come to class prepared to present your findings to the class; all papers will be collected and evaluated, even if not presented in class.
-"%}
-
 * Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine* 34 (May 1887): 59-74.
 Our goal is to understand the overall flavor of this article that is representative of Atwater’s work so often referenced in our readings of late. *Skim but don't totally skip* the science details. What’s the point of all the science detail? Where does metaphor play a role?
+* I highly recommend that you **complete a first draft of your report before class**. I won't collect them, but it will help you ask questions and prepare a much better report (due Thursday).
 
 ### Sep 21
-* Charlotte Bitelkoff, _Eating Right in America_, 13-44 (Scientific Moralization and the Beginning of Modern Dietary Reform). Here we get another look at food reformers in the early 20th century, with an emphasis on the links between diet and morality. A few key points to consider: What does "morality" mean in this chapter? Why is it so important (per the reformers) to have the proper diet? How is the proper diet related to the supposedly universal calorie?
+{% include alert.html class='danger' title='DUE: Ad Reports' text="
+Come to class prepared to present your findings to the class; all papers will be collected and evaluated, even if not presented in class.
+"%}
+* Charlotte Bitelkoff, _Eating Right in America_, 13-44 (Scientific Moralization and the Beginning of Modern Dietary Reform). Here we can go beyond Atwater's "scientific" anaylsis of food and consider the links between diet and morality. A few key points to consider: What does "morality" mean in this chapter? Why is it so important (per the reformers) to have the proper diet? How is the proper diet related to the supposedly universal calorie?
 
 
 ## Critical Distances
