@@ -62,18 +62,20 @@ For next week, find food ads from around 1900 (1880-1920 at the extremes); What 
 
 ### Sep 14
 {% include alert.html class='info' title='No Class' text="
-* Read Charlotte Bitelkoff, _Eating Right in America_, 13-44 (Scientific Moralization and the Beginning of Modern Dietary Reform). Read this before your newspaper research---it will help!
 * Work on your ad research reports (see above)
 "%}
 
 
 ### Sep 19
-Newspaper ad research discussion
-
-### Sep 21
-{% include alert.html class='danger' title='DUE: Ad Reports ' text="
+{% include alert.html class='danger' title='DUE: Ad Reports First Draft ' text="
 Come to class prepared to present your findings to the class; all papers will be collected and evaluated, even if not presented in class.
 "%}
+
+* Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine* 34 (May 1887): 59-74.
+Our goal is to understand the overall flavor of this article that is representative of Atwater’s work so often referenced in our readings of late. *Skim but don't totally skip* the science details. What’s the point of all the science detail? Where does metaphor play a role?
+
+### Sep 21
+* Charlotte Bitelkoff, _Eating Right in America_, 13-44 (Scientific Moralization and the Beginning of Modern Dietary Reform). Here we get another look at food reformers in the early 20th century, with an emphasis on the links between diet and morality. A few key points to consider: What does "morality" mean in this chapter? Why is it so important (per the reformers) to have the proper diet? How is the proper diet related to the supposedly universal calorie?
 
 
 ## Critical Distances
@@ -96,7 +98,7 @@ Come to class prepared to present your findings to the class; all papers will be
 
 ### Oct 5
 {% include alert.html class='danger' title='DUE: Source Comparison' text="
-Another ~250-word source analysis: How does Johnstone's text compare to the values described much earlier in the course with Jefferson and more recently with Pollan?
+Another ~350-word source analysis: How does Johnstone's text compare to the values described much earlier in the course with Jefferson and more recently with Pollan?
 "%}
 
 * Michael Moss, _Salt, Sugar, Fat_, 45-67 (Convenience with a Capital C).
