@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Executive Summary Writing Guide
+title: Ad Report Writing Guide
 ---
 
 # Newspaper Ad/Article Analysis
