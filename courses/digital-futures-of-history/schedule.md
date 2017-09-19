@@ -68,8 +68,9 @@ Read Jenkins!
 
 ### Thursday (Sep 21)
 * Dennis Tenen and Grant Wythoff, [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown). You don't need to follow this tutorial exactly, just read for the ideas.
-* Introduction to Markdown and GitHub
-* Writing and rendering Markdown documents
+* Introduction to [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Introduction to GitHub, version control, and file management.
+* Writing and rendering Markdown documents with [Dillinger](https://dillinger.io/).
 * Visual Review Essay Expectations and Instructions
 
 
@@ -107,7 +108,7 @@ Read Jenkins!
 {% include alert.html class='danger' title='DUE: Text Analysis Critique' text="
 ~750-word critique of a text analysis / visualization project
 "%}
-* Peter Fisher, “Sorites Paradox and Vague Geographies,” 7–18.
+* Chris Wilson, "Ethnic/Sexual Personas in Tricultural New Mexico," 12-34.
 * Demonstration of GIS technologies and web mapping tools
 
 
