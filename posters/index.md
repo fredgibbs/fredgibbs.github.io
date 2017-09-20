@@ -25,15 +25,15 @@ title: posters | fredgibbs
 </div>
 
 <div class="poster-row">
-<img class="poster horizontal" src="duvall-poster-sm.jpg"/>
+<img class="poster vertical" src="duvall-poster-sm.jpg"/>
 </div>
 
 <div class="poster-row">
-<img class="poster horizontal" src="jackie-kramer-poster.jpg"/>
+<img class="poster vertical" src="jackie-kramer-poster.jpg"/>
 </div>
 
 <div class="poster-row">
-<img class="poster horizontal" src="palmer-poster.png"/>
+<img class="poster vertical" src="palmer-poster.png"/>
 </div>
 
 
