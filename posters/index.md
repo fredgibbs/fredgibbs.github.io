@@ -5,9 +5,6 @@ title: posters | fredgibbs
 
 # Poster Gallery
 
-I like to design things, even though they don't always turn out very well, Naturally, I spend a lot of time reading and writing; perhaps that's why I find it so invigorating to use a different part of my brain. Need a poster for something? I'm happy to oblige!
-
-
 <div class="poster-row">
 <img class="poster vertical" src="american-history-gray-sm.jpg"/>
 </div>
@@ -26,6 +23,19 @@ I like to design things, even though they don't always turn out very well, Natur
 <div class="poster-row">
 <img class="poster horizontal" src="germs-2016-sm.jpg"/>
 </div>
+
+<div class="poster-row">
+<img class="poster horizontal" src="duvall-poster-sm.jpg"/>
+</div>
+
+<div class="poster-row">
+<img class="poster horizontal" src="jackie-kramer-poster.jpg"/>
+</div>
+
+<div class="poster-row">
+<img class="poster horizontal" src="palmer-poster.png"/>
+</div>
+
 
 <div class="poster-row">
 <img class="poster vertical" src="cameron-blevins-poster.jpg"/>
@@ -64,6 +74,11 @@ I like to design things, even though they don't always turn out very well, Natur
 </div>
 
 <div class="poster-row">
+<img class="poster vertical" src="analog-to-digital-workshop.jpg"/>
+</div>
+
+
+<div class="poster-row">
 <img class="poster vertical" src="food-diet-health-2014-flyer.jpg"/>
 </div>
 
@@ -71,4 +86,3 @@ I like to design things, even though they don't always turn out very well, Natur
 <div class="poster-row">
 <img class="poster vertical" src="med-sci-med-sm.jpg"/>
 </div>
-
