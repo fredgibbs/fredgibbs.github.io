@@ -484,10 +484,11 @@ figcaption.raw {
   padding:1em;
   border:1px solid #ccc;
   box-shadow: 2px 2px 5px #888;
+
 }
 
 .vertical {
-  width:420px;
+  width:380px;
 }
 
 .horizontal {
