@@ -38,7 +38,21 @@ title: posters | fredgibbs
 
 
 <div class="poster-row">
+<img class="poster vertical" src="mellon2-sm.jpg"/>
+</div>
+
+
+<div class="poster-row">
+<img class="poster vertical" src="historiography.jpg"/>
+</div>
+
+<div class="poster-row">
 <img class="poster vertical" src="cameron-blevins-poster.jpg"/>
+</div>
+
+
+<div class="poster-row">
+<img class="poster horizontal" src="digital-methods-2014-flyer.jpg"/>
 </div>
 
 
@@ -52,22 +66,8 @@ title: posters | fredgibbs
 
 
 <div class="poster-row">
-<img class="poster vertical" src="historiography.jpg"/>
-</div>
-
-<div class="poster-row">
-<img class="poster horizontal" src="digital-methods-2014-flyer.jpg"/>
-</div>
-
-<div class="poster-row">
 <img class="poster horizontal" src="reproduction-poster-2016.jpg"/>
 </div>
-
-
-<div class="poster-row">
-<img class="poster vertical" src="mellon2-sm.jpg"/>
-</div>
-
 
 <div class="poster-row">
 <img class="poster vertical" src="clio5.jpg"/>
