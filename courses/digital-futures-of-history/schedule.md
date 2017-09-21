@@ -69,31 +69,26 @@ Read Jenkins!
 ### Thursday (Sep 21)
 * Dennis Tenen and Grant Wythoff, [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown). You don't need to follow this tutorial exactly, just read for the ideas.
 * Introduction to [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* Introduction to GitHub, version control, and file management.
+* Introduction to [GitHub](http://github.com), version control, and file management.
 * Writing and rendering Markdown documents with [Dillinger](https://dillinger.io/).
-* Visual Review Essay Expectations and Instructions
-
 
 
 
 ## 6: Text Analysis and Visualization
 
 ### Tuesday (Sep 26)
+* Review GitHub accounts
 * Stephan Sinclair and Geoffrey Rockwell, "Text Analysis and Visualization"
 * Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/).
 * Rob Nelson, [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
-* How to load texts into [Voyant](http://voyant-tools.org/);
 * Start finding a project to critique from [Humanities GIS Projects](http://geohumanities.org/gis).
 
 ### Thursday (Sep 28)
-{% include alert.html class='danger' title='DUE: Voyant Report' text="
-~250-word report on loading, visualizing, and exploring text via Voyant
-"%}
 * Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
 * Ted Underwood, [Topic Modeling Made Just Simple Enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/).
 * If you want more: Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
 * Load some documents into [Overview](https://www.overviewdocs.com).
-
+* Visual Review Essay Expectations and Instructions
 
 
 
@@ -106,7 +101,7 @@ Read Jenkins!
 
 ### Thurs (Oct 5)
 {% include alert.html class='danger' title='DUE: Text Analysis Critique' text="
-~750-word critique of a text analysis / visualization project
+~750-word critique (a visual essay in Markdown) of a text analysis / visualization project
 "%}
 * Chris Wilson, "Ethnic/Sexual Personas in Tricultural New Mexico," 12-34.
 * Demonstration of GIS technologies and web mapping tools
@@ -118,9 +113,6 @@ Read Jenkins!
 ### Tuesday (Oct 10)
 {% include alert.html class='danger' title='DUE: Peer critiques' text="
 Critiques of text analysis critiques.
-"%}
-{% include alert.html class='warning' title='Video Check-in' text="
-First video review check-in (1/2).
 "%}
 * Instructions for our spatial history project
 
