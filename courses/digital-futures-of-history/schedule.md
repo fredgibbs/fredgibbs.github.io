@@ -77,18 +77,21 @@ Read Jenkins!
 ## 6: Text Analysis and Visualization
 
 ### Tuesday (Sep 26)
-* Review GitHub accounts
+{% include alert.html class='warning' title='DUE: GitHub Contribution' text="
+* Create an account at [Github](http://github.com), and email me your username.
+* Add a markdown file you create in [Dillinger](https://dillinger.io/) to our  [repository](https://github.com/unm-digital-futures/digital-history-review). Be sure you are logged into GitHub when you do this: Click on the "docs" folder, then drag and drop your file onto your browser window. The content of the file is irrelevant, but be sure your filename has no spaces and ends with .md the exercise is to ensure everything is working. If you forgot basic Markdown encoding, see the [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+"%}
+
+* Review GitHub and Markdown
 * Stephan Sinclair and Geoffrey Rockwell, "Text Analysis and Visualization"
 * Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/).
 * Rob Nelson, [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
-* Start finding a project to critique from [Humanities GIS Projects](http://geohumanities.org/gis).
 
 ### Thursday (Sep 28)
 * Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
 * Ted Underwood, [Topic Modeling Made Just Simple Enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/).
 * If you want more: Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
 * Load some documents into [Overview](https://www.overviewdocs.com).
-* Visual Review Essay Expectations and Instructions
 
 
 
@@ -96,23 +99,21 @@ Read Jenkins!
 
 ### Tues (Oct 3)
 * Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?
-* David J. Bodenhamer, "The Spatial Humanities: Space, Time and Place in the New Digital Age," 23-38.
 * Dolores Hayden, "Place, Memory, and Urban Preservation," in _The Power of Place_, 44-78.
+* Start finding a project to critique from [Humanities GIS Projects](http://geohumanities.org/gis).
+* Visual Review Essay Expectations and Instructions
+
 
 ### Thurs (Oct 5)
-{% include alert.html class='danger' title='DUE: Text Analysis Critique' text="
-~750-word critique (a visual essay in Markdown) of a text analysis / visualization project
-"%}
 * Chris Wilson, "Ethnic/Sexual Personas in Tricultural New Mexico," 12-34.
-* Demonstration of GIS technologies and web mapping tools
 
 
 
 ## 8: Critiquing Spatial History
 
 ### Tuesday (Oct 10)
-{% include alert.html class='danger' title='DUE: Peer critiques' text="
-Critiques of text analysis critiques.
+{% include alert.html class='danger' title='DUE: Mapping Project Critique' text="
+~750-word critique (a visual essay in Markdown) of a GIS / map project
 "%}
 * Instructions for our spatial history project
 
@@ -128,7 +129,7 @@ Relax, but not for too long (see below).
 READ: Ellen Lupton, _Thinking with Type_ (2nd edition).
 
 {% include alert.html class='warning' title='No class: Research Break' text="
-During this week, you'll pair up to research and work on a local spatial history research project. The idea (which we'll refine together as the date gets closer) is that everyone will pick a particular historic site or monument in ABQ that holds some interest for them. Using historic maps, newspapers, and city archives, we'll create micro-histories of these spaces, and then look at how they have helped shape the city as a whole and illustrate the story of ABQ's development over time. We'll discuss all the processes and requirements before fall break so you'll know exactly what to do. But it does take time, which is why you get a week to work on it.
+During this week, you'll work on a local spatial history research project. The idea (which we'll refine together as the date gets closer) is that everyone will pick a particular piece of public art in ABQ or on campus that holds some interest for them (I'll supply a list of options, so you don't have to find one yourself, but you can do something you already know about as well). Using local archives, especially the Center for Southwest Research in Zimmerman Library, we'll create small multi-media essays about art, the circumstances of its creation, public discussion---and, of course, critique. We'll discuss all the processes and requirements before fall break so you'll know exactly what to do. But it does take time, which is why you get a week to work on it.
 "%}
 
 
@@ -141,17 +142,16 @@ During this week, you'll pair up to research and work on a local spatial history
 
 
 ### Thursday (Oct 26)
-{% include alert.html class='danger' title='DUE: Research Reports' text="
-Make sure all data is uploaded into the shared spreadsheet
+{% include alert.html class='danger' title='DUE: Public Art Essays' text="
+And make sure all data is uploaded into the shared spreadsheet
 "%}
 
 
 ## 11: Data and Network Analysis
 
 ### Tuesday (Oct 31)
-
 {% include alert.html class='warning' title='Video Check-in' text="
-First video review check-in (2/2).
+First video review check-in.
 "%}
 
 ### Thursday (Nov 2)
