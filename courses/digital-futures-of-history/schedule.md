@@ -77,22 +77,23 @@ Read Jenkins!
 ## 6: Text Analysis and Visualization
 
 ### Tuesday (Sep 26)
-{% include alert.html class='warning' title='DUE: GitHub Contribution' text="
-* Create an account at [Github](http://github.com), and email me your username.
-* Add a markdown file you create in [Dillinger](https://dillinger.io/) to our  [repository](https://github.com/unm-digital-futures/digital-history-review). Be sure you are logged into GitHub when you do this: Click on the "docs" folder, then drag and drop your file onto your browser window. The content of the file is irrelevant, but be sure your filename has no spaces and ends with .md the exercise is to ensure everything is working. If you forgot basic Markdown encoding, see the [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+{% include alert.html class='warning' title='DUE: GitHub Test' text="
+* Create an account at [Github](http://github.com), and email me (fwgibbs@unm.edu) your username
+* Add a markdown file you create in [Dillinger](https://dillinger.io/) to our  [repository](https://github.com/unm-digital-futures/digital-history-review). Be sure you are logged into GitHub when you do this: Click on the 'docs' folder, then drag and drop your file onto your browser window. The content of your markdown file is irrelevant, but be sure your filename has no spaces and ends with .md
+* If you are confused about Markdown, try this [Markdown tutorial](https://www.markdowntutorial.com/); if you need syntax help, see the [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 "%}
-
 * Review GitHub and Markdown
 * Stephan Sinclair and Geoffrey Rockwell, "Text Analysis and Visualization"
-* Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/).
-* Rob Nelson, [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
+* Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
+* Extra credit: Load a few texts into [Voyant](http://voyant-tools.org/) and be prepared to report on your findings (in class, nothing written to turn in)
+
 
 ### Thursday (Sep 28)
 * Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
 * Ted Underwood, [Topic Modeling Made Just Simple Enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/).
-* If you want more: Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
+* Rob Nelson, [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
 * Load some documents into [Overview](https://www.overviewdocs.com).
-
+* For more topic modeling details, see Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
 
 
 ## 7: Visual and Spatial History
@@ -113,7 +114,7 @@ Read Jenkins!
 
 ### Tuesday (Oct 10)
 {% include alert.html class='danger' title='DUE: Mapping Project Critique' text="
-~750-word critique (a visual essay in Markdown) of a GIS / map project
+~750-word critique (a visual essay in Markdown and posted on GitHub) of a GIS / map project
 "%}
 * Instructions for our spatial history project
 
@@ -129,69 +130,72 @@ Relax, but not for too long (see below).
 READ: Ellen Lupton, _Thinking with Type_ (2nd edition).
 
 {% include alert.html class='warning' title='No class: Research Break' text="
-During this week, you'll work on a local spatial history research project. The idea (which we'll refine together as the date gets closer) is that everyone will pick a particular piece of public art in ABQ or on campus that holds some interest for them (I'll supply a list of options, so you don't have to find one yourself, but you can do something you already know about as well). Using local archives, especially the Center for Southwest Research in Zimmerman Library, we'll create small multi-media essays about art, the circumstances of its creation, public discussion---and, of course, critique. We'll discuss all the processes and requirements before fall break so you'll know exactly what to do. But it does take time, which is why you get a week to work on it.
+During this week, you'll work on a local spatial history research project. The idea (which we'll refine together as the date gets closer) is that everyone will pick a particular piece of public art in ABQ or on campus that holds some interest for them (I'll supply a list of options, so you don't have to find one yourself, but you can do something you already know about as well). Using local archives, especially the Center for Southwest Research in Zimmerman Library, we'll create small multi-media essays about art, the circumstances of its creation, public discussion---and, of course, critique. We'll discuss all the processes and requirements before fall break so you'll know exactly what to do. But it does take time, which is why you get a week to work on it. This project will demonstrate what digital history can and should be, as well as critically reflect on the challenges in moving from analog archives to digital presentations.
 "%}
 
 
 
-## 10: Spatial History Project Discussion
+## 10: Public Art / Spatial History Project
 
 ### Tuesday (Oct 24)
 - Ellen Lupton, _Thinking with Type_.
-- Discussion of Research Projects
+- Discussion of Research Projects (esp Markdown essays at GitHub)
 
 
 ### Thursday (Oct 26)
 {% include alert.html class='danger' title='DUE: Public Art Essays' text="
-And make sure all data is uploaded into the shared spreadsheet
+* All essays (written in Markdown) must be fully visible and functional on GitHub
+* All spatial data should be uploaded to the Google Spreadsheet
 "%}
 
 
-## 11: Data and Network Analysis
+## 11: Essays and Video Critiques
 
 ### Tuesday (Oct 31)
-{% include alert.html class='warning' title='Video Check-in' text="
-First video review check-in.
+{% include alert.html class='danger' title='Art Critiques Due' text="
+* Put your ~400-word critique on GitHub.
+* Be prepared to present your critique and highlight specific examples of what worked well or did not.
 "%}
 
 ### Thursday (Nov 2)
-- Scott B. Weingart, [Demystifying Networks, Parts I and II](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/).
-- Elijah Meeks and Maya Krishnan, [Introduction to Network Analysis and Representation](http://dhs.stanford.edu/dh/networks/).
-- Skim through the documentation for [Palladio](http://hdlab.stanford.edu/palladio/), especially via the [help page](http://hdlab.stanford.edu/palladio/help/).
-- Read through [this  tutorial](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources) to help you think about converting historical sources into data for uploading.
+{% include alert.html class='danger' title='DUE: First video critique' text="
+* As noted on Oct 3: review a project from this list of [Humanities GIS Projects](http://geohumanities.org/gis).
+* Follow the video critique guide
+* We'll be watching and critiquing these in class
+"%}
+
 
 
 ## 12: Historical and Authorities of Knowledge
 
 ### Tuesday (Nov 7)
-{% include alert.html class='danger' title='DUE: First video critique' text="
-Review a project from this list of [Humanities GIS Projects](http://geohumanities.org/gis).
-"%}
-* William Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
-* Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/–writing-history-in-the-digital-age).
-
-### Thursday (Nov 9)
 * Sheila A. Brennan, [Public, First](http://dhdebates.gc.cuny.edu/debates/text/83).
 * Andrew Hurley, “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” 69–88.
-* Discussion of public critiques
+
+### Thursday (Nov 9)
+* William Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
+* Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/–writing-history-in-the-digital-age).
+* Discussion of Wikipedia Critique Assignments
 
 
-## 13: Review Essay compilation
+
+## 13: Wikipedia Reviews
 
 ### Tuesday (Nov 14)
-* Digital Review Journal Assembly and Review
+* Questions about Wikipedia review assignment
 
 ### Thursday (Nov 16)
-* Digital Review Journal Assembly and Review
+{% include alert.html class='danger' title='DUE: Wikipedia critiques' text="
+Wikipedia review assignments
+"%}
+
 
 
 
 ## 14: Clean up and Eating
 
 ### Tuesday (Nov 21)
-{% include alert.html class='danger' title='DUE: Revised text critiques' text="
-As we we think more about our review journal, we need to polish up our earlier critiques to account for everything we've talked about since then.
-"%}
+* Digital Review Journal Assembly and Review
 
 ### Thursday (Nov 23)
 {% include alert.html class='info' title='Thanksgiving' text="
