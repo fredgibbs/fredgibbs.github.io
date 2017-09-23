@@ -75,7 +75,7 @@ Our goal is to understand the overall flavor of this article that is representat
 {% include alert.html class='danger' title='DUE: Ad Reports' text="
 Come to class prepared to present your findings to the class; all papers will be collected and evaluated, even if not presented in class.
 "%}
-* Charlotte Bitelkoff, _Eating Right in America_, 13-44 (Scientific Moralization and the Beginning of Modern Dietary Reform). Here we can go beyond Atwater's "scientific" anaylsis of food and consider the links between diet and morality. A few key points to consider: What does "morality" mean in this chapter? Why is it so important (per the reformers) to have the proper diet? How is the proper diet related to the supposedly universal calorie?
+* Charlotte Bitelkoff, _Eating Right in America_, 13-44 (Scientific Moralization and the Beginning of Modern Dietary Reform). Here we can go beyond Atwater's "scientific" analysis of food and consider the links between diet and morality. A few key points to consider: What does "morality" mean in this chapter? Why is it so important (per the reformers) to have the proper diet? How is the proper diet related to the supposedly universal calorie?
 
 
 ## Critical Distances
@@ -85,32 +85,30 @@ Come to class prepared to present your findings to the class; all papers will be
 * Melanie Warner, _Pandora's Lunchbox_, 21-37.
 
 ### Sep 28
-* PRIMARY (1940): Selections from Paul Johnstone, "Old Ideals versus New Ideas in Farm Life," 111-167.
-* Michael Pollan, _Omnivore's Dilemma_, 32-56 (The Farm).
+* Eric Schlosser, _Fast Food Nation_ 13-28.
 
 
-
-## Fast Food
+## Convenience Food
 
 ### Oct 3
-* Eric Schlosser, _Fast Food Nation_ 13-28.
-* Harvey Levenstein, _Paradox of Plenty_, 227-236 (Fast Foods and Quick Bucks).
-
-### Oct 5
-{% include alert.html class='danger' title='DUE: Source Comparison' text="
-Another ~350-word source analysis: How does Johnstone's text compare to the values described much earlier in the course with Jefferson and more recently with Pollan?
-"%}
-
 * Michael Moss, _Salt, Sugar, Fat_, 45-67 (Convenience with a Capital C).
 * Harvey Levenstein, _Paradox of Plenty_, 101-118 (The Golden Age of Food Processing: Miracle Whip *über Alles*).
+
+
+### Oct 5
+* Michael Pollan, _Omnivore's Dilemma_, 32-56 (The Farm).
+* Rachel Carson, _Silent Spring_, 5-37.
 
 
 
 ## Counterculture
 
 ### Oct 10
-* Rachel Carson, _Silent Spring_, 5-37.
 * Warren Belasco, _Appetite for Change_, 29-42 (Radical Consumerism); 111-131 (War of the Metaphors).
+{% include alert.html class='danger' title='DUE: Executive Summaries' text="
+Come to class with your executive summaries of the rise of convenience foods as discussed across the first half of the course so far. As discussed, excellent summaries will draw widely from relevant readings and class discussions.
+"%}
+
 
 ### Oct 12
 {% include alert.html class='info' title='Fall Break' text="
@@ -123,26 +121,27 @@ Relax, but not for too long (see below).
 This week, we're going to collaboratively tackle an advertising research project. We'll divide up into groups and focus on different years 1920-1990 (time span subject to adjustment), and how, from a food standpoint, those years appear in ABQ newspapers. We'll try to discover how how stores/businesses advertised food, and how this changed over time as the city grew dramatically. Does it follow the model suggested in _Food is Love_? More detailed instructions and links will appear here as we get closer to the date.
 "%}
 
-While on "break", read Katherine J. Parkin, _Food is Love_, 30-78.
 
 
 ### Oct 24
+* Katherine J. Parkin, _Food is Love_, 30-78.
+
+### Oct 26
 {% include alert.html class='danger' title='DUE: Ad research reports' text="
 Bring to class your ~800-word visual essays on your ad research, and we'll pool our collective knowledge to develop a bigger picture about selling food in ABQ.
 "%}
-
-### Oct 26
 
 
 
 ## The Tale of Two Fruits
 
 ### Oct 31
+Read one of the following and be prepared to share highlights with the class
 * John Soluri, “Accounting for Taste: Export Bananas, Mass Markets, and Panama Disease,” 386–410.
 * Jeffrey Charles, "Searching for Gold in Guacamole: California Growers Market the Avocado, 1910-1994," 131-150.
 
 ### Nov 2
-
+* PRIMARY (1940): Selections from Paul Johnstone, "Old Ideals versus New Ideas in Farm Life." The beginning of this article will review some of what we talked about the first few weeks of class, but it's interesting to see these ideas in print in the 1940s, describing the changing nature of farming in the US. It's enlightening to skim the entire article, but focus especially on 111-114; bottom of 115-127; 139-167. Start and stop reading at major section headings on the pages specified; rarely will you read all of the first or last page in the given range. Pay particular attention to the changing ideas about farm labor, which is our focus for next week.
 
 
 ## Working on the Farm
@@ -154,7 +153,7 @@ Bring to class your ~800-word visual essays on your ad research, and we'll pool 
 ### Nov 9
 * Eric Schlosser, _Fast Food Nation_, 149-166; 169-190.
 * Christopher Leonard, _Meat Racket_, 1-13; 47-62; 17-46.
-* For reference: "Livestock's Long Shadow," 267-284.
+* More data for reference: "Livestock's Long Shadow," 267-284.
 
 
 ## Big Organic
