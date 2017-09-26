@@ -88,7 +88,7 @@ Come to class prepared to present your findings to the class; all papers will be
 * Eric Schlosser, _Fast Food Nation_ 13-28.
 
 
-## Convenience Food
+## Convenience Food 
 
 ### Oct 3
 * Michael Moss, _Salt, Sugar, Fat_, 45-67 (Convenience with a Capital C).
