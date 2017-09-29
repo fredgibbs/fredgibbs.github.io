@@ -100,13 +100,14 @@ Read Jenkins!
 
 ### Tues (Oct 3)
 * Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?
-* Dolores Hayden, "Place, Memory, and Urban Preservation," in _The Power of Place_, 44-78.
 * Start finding a project to critique from [Humanities GIS Projects](http://geohumanities.org/gis).
 * Visual Review Essay Expectations and Instructions
 
 
 ### Thurs (Oct 5)
+* Dolores Hayden, "Place, Memory, and Urban Preservation," in _The Power of Place_, 44-78.
 * Chris Wilson, "Ethnic/Sexual Personas in Tricultural New Mexico," 12-34.
+
 
 
 
