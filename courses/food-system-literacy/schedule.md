@@ -88,7 +88,7 @@ Come to class prepared to present your findings to the class; all papers will be
 * Eric Schlosser, _Fast Food Nation_ 13-28.
 
 
-## Convenience Food 
+## Convenience Food
 
 ### Oct 3
 * Michael Moss, _Salt, Sugar, Fat_, 45-67 (Convenience with a Capital C).
@@ -96,7 +96,7 @@ Come to class prepared to present your findings to the class; all papers will be
 
 
 ### Oct 5
-* Michael Pollan, _Omnivore's Dilemma_, 32-56 (The Farm).
+* Wendee Nicole, "[Secret Ingredients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3620743/)."
 * Rachel Carson, _Silent Spring_, 5-37.
 
 
@@ -141,6 +141,7 @@ Read one of the following and be prepared to share highlights with the class
 * Jeffrey Charles, "Searching for Gold in Guacamole: California Growers Market the Avocado, 1910-1994," 131-150.
 
 ### Nov 2
+* Michael Pollan, _Omnivore's Dilemma_, 32-56 (The Farm).
 * PRIMARY (1940): Selections from Paul Johnstone, "Old Ideals versus New Ideas in Farm Life." The beginning of this article will review some of what we talked about the first few weeks of class, but it's interesting to see these ideas in print in the 1940s, describing the changing nature of farming in the US. It's enlightening to skim the entire article, but focus especially on 111-114; bottom of 115-127; 139-167. Start and stop reading at major section headings on the pages specified; rarely will you read all of the first or last page in the given range. Pay particular attention to the changing ideas about farm labor, which is our focus for next week.
 
 
@@ -152,9 +153,9 @@ Read one of the following and be prepared to share highlights with the class
 
 ### Nov 9
 * Eric Schlosser, _Fast Food Nation_, 149-166; 169-190.
-* Christopher Leonard, _Meat Racket_, 1-13; 47-62; 17-46.
+* Christopher Leonard, _Meat Racket_, 1-13; 47-62; 17-46. (these are quick reads!)
+* Preview: [Memphis Meats](https://www.youtube.com/watch?v=DgdFjy1DTjA) and [The Meat of the Future](https://www.youtube.com/watch?v=u468xY1T8fw&t=29s).
 * More data for reference: "Livestock's Long Shadow," 267-284.
-
 
 ## Big Organic
 
