@@ -36,15 +36,13 @@ Various Mural, Downtown
 
 SW Pieta, Luis Jimenez, Martineztown park
 
- “Cruising San Mateo,” AKA Chevy on a Stick
+“Cruising San Mateo,” AKA Chevy on a Stick
 
 Fiesa [Fiesta], Luis Jimenez, by Popejoy
 
 Cultural Crossroads of America, Bob Haozous, Yale park by bookstore
 
 Art Critics sculptures, Betty Szabo and ??, SE of SUB
-
-Zmmerman Library Tricultural murals
 
 Gordon Huether, "Aluminum Yucca" north side of I-40 coming out of Tijeras canyon
 
@@ -57,7 +55,7 @@ Simms Building, Downtown
 
 AT&SF Locomotive Shops
 
-Zimmerman Library (including murals)
+Zimmerman Library
 
 Los Poblanos, Los Ranchos, buildings, landscape, murals and other art
 
