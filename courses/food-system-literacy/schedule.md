@@ -106,7 +106,7 @@ Come to class prepared to present your findings to the class; all papers will be
 ### Oct 10
 * Warren Belasco, _Appetite for Change_, 29-42 (Radical Consumerism); 111-131 (War of the Metaphors).
 {% include alert.html class='danger' title='DUE: Executive Summaries' text="
-Come to class with your executive summaries of the rise of convenience foods as discussed across the first half of the course so far. As discussed, excellent summaries will draw widely from relevant readings and class discussions.
+Come to class with your executive summaries of the rise of convenience foods as discussed across the first half of the course so far. As discussed, excellent summaries will draw widely from relevant readings and class discussions. Same formatting as last time---so you should review the [Executive Summary Writing Guide](/courses/etc/exec-summary-writing-guide.html). PLEASE NOTE AS ANNOUNCED IN CLASS: THESE SUMMARIES ARE 2 PAGES, NOT 1 LIKE LAST TIME.
 "%}
 
 
