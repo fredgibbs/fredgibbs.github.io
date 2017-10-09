@@ -132,7 +132,7 @@ Relax, but not for too long (see below).
 READ: Ellen Lupton, _Thinking with Type_ (2nd edition).
 
 {% include alert.html class='warning' title='No class: Research Break' text="
-During this week, you'll work on a local spatial history research project. The idea (which we'll refine together as the date gets closer) is that everyone will pick a particular piece of public art or historic building in ABQ or on campus that holds some interest for them (I'll supply [a list of options](historic-places), so you don't have to find one yourself, but you can do something you already know about as well). To embody what we read in the Wilson and Hayden chapters, we'll create small multi-media essays about some artwork or building, the circumstances of its creation, public discussion---and provide a richer sense of space. Over break you'll focus on digital research; later in the term we'll talk about using traditional archives to round out your research. This project will demonstrate what digital history can and should be, as well as critically reflect on the challenges in moving from analog archives to digital presentations.
+Work on your Spatial History Projects, following the [guidelines](spatial-history-guidelines).
 "%}
 
 
