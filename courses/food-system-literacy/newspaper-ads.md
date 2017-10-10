@@ -23,7 +23,8 @@ Scan through at least several dozen different articles or ads (they're small!)--
 ## Short Essays
 Write a ~350-word essay about what you found and how they relate to course readings and discussions. You should not simply describe a random collection of ads or articles and what they say; comment on a set of sources that tells you something about how people were marketing or discussing food at the time.
 
-Questions to address (although maybe not all of these will be relevant to your ads/articles):
+## Questions to Address
+Keep in mind that maybe not all of these will be relevant to your ads/articles):
 - What kinds of products are being sold?
 - What sensibilities are the ads appealing to?
 - What common themes run through the ads you saw?

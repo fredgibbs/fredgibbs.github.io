@@ -118,7 +118,7 @@ Relax, but not for too long (see below).
 
 ### Oct 17 and 19
 {% include alert.html class='warning' title='No class: Research Break' text="
-This week, we're going to collaboratively tackle an advertising research project. We'll divide up into groups and focus on different years 1920-1990 (time span subject to adjustment), and how, from a food standpoint, those years appear in ABQ newspapers. We'll try to discover how how stores/businesses advertised food, and how this changed over time as the city grew dramatically. Does it follow the model suggested in _Food is Love_? More detailed instructions and links will appear here as we get closer to the date.
+The goals, instructions, and guidelines are visible at the [Ad Research Guidelines](ad-review-2). Remember that you will also be relating what you find the ads to the analysis presented in the Parkin reading (see below).
 "%}
 
 
