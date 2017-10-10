@@ -128,7 +128,7 @@ The goals, instructions, and guidelines are visible at the [Ad Research Guidelin
 
 ### Oct 26
 {% include alert.html class='danger' title='DUE: Ad research reports' text="
-Bring to class your ~800-word visual essays on your ad research, and we'll pool our collective knowledge to develop a bigger picture about selling food in ABQ.
+Bring to class your ~800-word visual essays on your ad research. Be prepared to discuss some of the interesting features of your ads and your analysis.
 "%}
 
 
