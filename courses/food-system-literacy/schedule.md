@@ -124,7 +124,7 @@ The goals, instructions, and guidelines are visible at the [Ad Research Guidelin
 
 
 ### Oct 24
-* Katherine J. Parkin, _Food is Love_, 30-78.
+* Katherine J. Parkin, _Food is Love_, 30-78. Of course we'll go over the main ideas covered in these two chapters, but you should also think about how your ad research confirms or complicates Parkin's claims about advertising. 
 
 ### Oct 26
 {% include alert.html class='danger' title='DUE: Ad research reports' text="
