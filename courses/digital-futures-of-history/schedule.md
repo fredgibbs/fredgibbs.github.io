@@ -147,7 +147,6 @@ Work on your Spatial History Projects, following the [guidelines](spatial-histor
 ### Thursday (Oct 26)
 {% include alert.html class='danger' title='DUE: Public Art Essays' text="
 * All essays (written in Markdown) must be fully visible and functional on GitHub
-* All spatial data should be uploaded to the Google Spreadsheet
 "%}
 
 
@@ -155,7 +154,7 @@ Work on your Spatial History Projects, following the [guidelines](spatial-histor
 
 ### Tuesday (Oct 31)
 {% include alert.html class='danger' title='DUE: Spatial History Revisions' text="
-* Please see the [Peer Critique Guidelines](peer-critique-guidelines).
+* Please review the updated [spatial history guidelines](spatial-history-guidelines), and read the new [Peer Critique Guidelines](peer-critique-guidelines). Remember, you're NOT doing peer critiques this week, just revising your own essays knowing they will be critiqued along these guidelines next week.
 "%}
 * Review of existing JAH digital history reviews
 * Screencasting instructions
@@ -173,6 +172,9 @@ Work on your Spatial History Projects, following the [guidelines](spatial-histor
 ### Tuesday (Nov 7)
 {% include alert.html class='danger' title='DUE: Spatial History Peer Critiques' text="
 * Please see the [Peer Critique Guidelines](peer-critique-guidelines).
+"%}
+{% include alert.html class='danger' title='DUE: Update Google Sheet' text="
+* All spatial data should be uploaded to the Google Spreadsheet
 "%}
 
 

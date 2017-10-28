@@ -2,9 +2,9 @@
 ---
 
 # Spatial History Guide to ABQ
-This guide provides the formal requirements and instructions for your spatial history assignment that you'll be researching and writing over our mid-semester break. As discussed, you'll pick a particular piece of public art or historic building in ABQ or on campus that holds some interest for them. You can consult this [a list of options](historic-places), so you don't have to find one yourself, but you can do something you already know about as well.
+This guide provides the formal requirements and instructions for your spatial history assignment. As discussed, you'll pick a particular piece of public art or historic building in ABQ or on campus that holds some interest for you. You can consult this [a list of options](historic-places), so you don't have to find one yourself, but you can do something you already know about as well.
 
-To embody what we read in the Wilson and Hayden chapters, we'll create small multi-media essays about some artwork or building, the circumstances of its creation, public discussion---and provide a richer sense of ABQ's cultural spaces. This project will demonstrate what digital history can and should be, as well as critically reflect on the challenges in moving from analog archives to digital presentations.
+To embody what we read in the Wilson and Hayden chapters, we'll create small multi-media essays about some artwork or building, the circumstances of its creation, its surroundsing, and provide a richer sense of ABQ's cultural spaces. This project will demonstrate what digital history can and should be, as well as help us critically reflect on the challenges in moving from analog archives to digital presentations.
 
 ## Style
 - Write something you'd like to read
@@ -18,6 +18,16 @@ To embody what we read in the Wilson and Hayden chapters, we'll create small mul
 - 3 modern photographs, panoramas, or similar
 - Subheadings to delineate your main topics
 - No set length requirement since initial drafts; make sure essay achieves it goals instead of worrying about word counts.
+
+
+## Essay Requirements
+- **Citations**. Along with the analysis contained in your essay, citations are the primary indication of the breadth and depth of your research. You should have at least 5 original historical sources and 5 secondary sources. You should list relevant websites, but not count them as official sources. Your research must be your own.
+- **Engaging writing**, engaging the above questions, with minimal use of passive voice.
+- **Images with descriptive captions**. Use images not merely as eye candy, but to visually communicate the main points of your story.
+- **Clearly stated goal/relevance** for each section (see questions above).
+- **Meaningful headings** that provide clear structure and ideally communicate main points.
+- **Pull quotes** used appropriate to call attention to your best ideas.
+- **Consistent use of bold and italics**. Don't use either too often; you'll negate the effect of highlighting something. Do not use either for references; leave those as unformatted text.
 
 ## Citations
 For inline citations, we will use author date notation (Smith 1975, 13). **Do not cite webpages as primary sources! Find the original historical source, and cite that instead.** If you need to respond to something on a webpage (because you found something particulary good or bad to highlight), then, and only then, should you cite the webpage. You won't have a page number, but you'll still have author and date. If you can't find a date, use "n.d." (for no date).
@@ -33,19 +43,8 @@ Provide descriptive phrases for your captions, and use the first few words as a 
 ## Section Headings
 Do not use **bold** in your headings; use an appropriate heading level (as shown below). We can create new styles if need be. For your reference, all the headings styles are demonstrated below. Remember that you must have a space between the ### and the actual heading!
 
-
-## Essay Requirements
-- **Citations**. Along with the analysis contained in your essay, citations are the primary indication of the breadth and depth of your research. You should have at least 5 original historical sources and 5 secondary sources. You should list relevant websites, but not count them as official sources. Your research must be your own.
-- **Engaging writing**, engaging the above questions, with minimal use of passive voice.
-- **Images with descriptive captions**. Use images not merely as eye candy, but to visually communicate the main points of your story.
-- **Clearly stated goal/relevance** for each section (see questions above).
-- **Meaningful headings** that provide clear structure and ideally communicate main points. (5%)
-- **Pull quotes** used appropriate to call attention to your best ideas.
-- **Consistent use of bold and italics**. Don't use either too often; you'll negate the effect of highlighting something. Do not use either for references; leave those as unformatted text. (5%)
-
-
 ## Goals of essays
-- We talked about the lack any kind of spatial or cultural guide to ABW, so we're taking a step to improve that.
+- We talked about the lack any kind of spatial or cultural guide to ABQ, so we're taking a step to improve that.
 - Remember that these essays are a kind of critique---namely how space is used to build community through cultural memory.
 - Put your art or building in SPACE! Remember how descriptions of cultural artifacts are so frequently devoid of space.
   - This means that you won't be talking only about the art or monument or building, but what it did to the space in which it was built/installed and how that relationship and meaning has changed over time.
@@ -57,7 +56,7 @@ Do not use **bold** in your headings; use an appropriate heading level (as shown
 - How do we want them to think differently?
 
 -----
-(this section has been relocated because it's not relevant anymore)
+(the below section has been relocated because it's not relevant anymore)
 
 ## What to do over break
 Over break you'll focus on digital research; later in the term we'll talk about using traditional archives to round out your research. Your job during our extended break is to suss out everything you can online about it. Later, we’ll do more work in the actual archives later and talk about the difference between the digital and the physical archives. Doing the web stuff first will give you more research ideas and leads for the archive.
