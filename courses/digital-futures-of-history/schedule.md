@@ -154,50 +154,56 @@ Work on your Spatial History Projects, following the [guidelines](spatial-histor
 ## 11: Essays and Video Critiques
 
 ### Tuesday (Oct 31)
-{% include alert.html class='danger' title='Art Critiques Due' text="
-* Put your ~400-word critique on GitHub.
-* Be prepared to present your critique and highlight specific examples of what worked well or did not.
+{% include alert.html class='danger' title='DUE: Spatial History Revisions' text="
+* Please see the [Peer Critique Guidelines](peer-critique-guidelines).
 "%}
+* Review of existing JAH digital history reviews
+* Screencasting instructions
+
 
 ### Thursday (Nov 2)
+* BEFORE CLASS: Read [Intro to HTML and CSS](https://learn.shayhowe.com/html-css/building-your-first-web-page/). Read up to "Using CSS Resets". Bring questions to class or you will fail the course.
+* Go through HTML and CSS concepts
+* Go over spatial history site design
+* Google Spreadsheets for managing site content
+* Instructions for peer review of Spatial History Essays on GitHub
+
+## 12: Historical and Authorities of Knowledge
+
+### Tuesday (Nov 7)
+{% include alert.html class='danger' title='DUE: Spatial History Peer Critiques' text="
+* Please see the [Peer Critique Guidelines](peer-critique-guidelines).
+"%}
+
+
+### Thursday (Nov 9)
+* William Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
+* Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](hhttps://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.2).
+* Discussion of Wikipedia Critique Assignments
+
+
+
+## 13: Reviews
+
+### Tuesday (Nov 14)
+{% include alert.html class='danger' title='DUE: Wikipedia Critiques' text="
+* Choose one Wikipedia article on a topic you're interested in. Pick anything you want, but ideally one that isn't super short or long.
+* Write a ~800-word critique of the article, commenting on its organization, NPOV, sources, citations, revision history, and overall quality.
+"%}
+* Video check in (have a complete, even if rough, draft ready)
+
+### Thursday (Nov 16)
 {% include alert.html class='danger' title='DUE: First video critique' text="
-* As noted on Oct 3: review a project from this list of [Humanities GIS Projects](http://geohumanities.org/gis).
 * Follow the video critique guide
 * We'll be watching and critiquing these in class
 "%}
 
 
 
-## 12: Historical and Authorities of Knowledge
-
-### Tuesday (Nov 7)
-* Sheila A. Brennan, [Public, First](http://dhdebates.gc.cuny.edu/debates/text/83).
-* Andrew Hurley, “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” 69–88.
-
-### Thursday (Nov 9)
-* William Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
-* Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/–writing-history-in-the-digital-age).
-* Discussion of Wikipedia Critique Assignments
-
-
-
-## 13: Wikipedia Reviews
-
-### Tuesday (Nov 14)
-* Questions about Wikipedia review assignment
-
-### Thursday (Nov 16)
-{% include alert.html class='danger' title='DUE: Wikipedia critiques' text="
-Wikipedia review assignments
-"%}
-
-
-
-
 ## 14: Clean up and Eating
 
 ### Tuesday (Nov 21)
-* Digital Review Journal Assembly and Review
+* Bring to class 5 examples of web design / typography that we can adapt for our spatial history essays.
 
 ### Thursday (Nov 23)
 {% include alert.html class='info' title='Thanksgiving' text="
@@ -209,4 +215,3 @@ Happy Eating!
 
 
 ## 16: Loose ends (Dec 5 and 7)
-* DUE: Second video critique (any digital history project)
