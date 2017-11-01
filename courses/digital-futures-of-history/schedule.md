@@ -157,55 +157,57 @@ Work on your Spatial History Projects, following the [guidelines](spatial-histor
 * Please review the updated [spatial history guidelines](spatial-history-guidelines), and read the new [Peer Critique Guidelines](peer-critique-guidelines). Remember, you're NOT doing peer critiques this week, just revising your own essays knowing they will be critiqued along these guidelines next week.
 "%}
 * Review of existing JAH digital history reviews
-* Screencasting instructions
 
 
 ### Thursday (Nov 2)
 * BEFORE CLASS: Read [Intro to HTML and CSS](https://learn.shayhowe.com/html-css/building-your-first-web-page/). Read up to "Using CSS Resets". Bring questions to class or you will fail the course.
 * Go through HTML and CSS concepts
-* Go over spatial history site design
-* Google Spreadsheets for managing site content
-* Instructions for peer review of Spatial History Essays on GitHub
+* Go over [spatial history site](https://unm-digital-futures.github.io/digital-history-review/)
+* Go over [Google Sheet for managing site content](https://docs.google.com/spreadsheets/d/1tpcVOeTci6Bc4cXYN-ytnImn6MzILDPH4W6fMfEPvkg/edit#gid=0)
+* Screencasting basics
+
+
 
 ## 12: Historical and Authorities of Knowledge
 
 ### Tuesday (Nov 7)
-{% include alert.html class='danger' title='DUE: Spatial History Peer Critiques' text="
-* Please see the [Peer Critique Guidelines](peer-critique-guidelines).
-"%}
-{% include alert.html class='danger' title='DUE: Update Google Sheet' text="
+{% include alert.html class='danger' title='DUE: Spatial History Updates' text="
+* All essays should fit into website schema (use the code from the sample essay)
 * All spatial data should be uploaded to the Google Spreadsheet
 "%}
-
+* Review existing essays
+* Answer technical questions
+* More screencasting techniques
 
 ### Thursday (Nov 9)
+{% include alert.html class='danger' title='DUE: Last Updates' text="
+* Make sure your essays looks and reads exactly as you want, **and as I want**. This will make peer review more useful for both authors and reviewers.
+"%}
 * William Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
 * Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](hhttps://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.2).
-* Discussion of Wikipedia Critique Assignments
-
+* Instructions for peer review of Spatial History Essays on GitHub
 
 
 ## 13: Reviews
 
 ### Tuesday (Nov 14)
-{% include alert.html class='danger' title='DUE: Wikipedia Critiques' text="
-* Choose one Wikipedia article on a topic you're interested in. Pick anything you want, but ideally one that isn't super short or long.
-* Write a ~800-word critique of the article, commenting on its organization, NPOV, sources, citations, revision history, and overall quality.
+{% include alert.html class='danger' title='DUE: Spatial History Peer Critiques' text="
+* Please see the [Peer Critique Guidelines](peer-critique-guidelines).
 "%}
 * Video check in (have a complete, even if rough, draft ready)
 
 ### Thursday (Nov 16)
-{% include alert.html class='danger' title='DUE: First video critique' text="
-* Follow the video critique guide
-* We'll be watching and critiquing these in class
-"%}
-
+* Bring to class 5 examples of web design / typography that we can adapt for our spatial history essays.
 
 
 ## 14: Clean up and Eating
 
 ### Tuesday (Nov 21)
-* Bring to class 5 examples of web design / typography that we can adapt for our spatial history essays.
+{% include alert.html class='danger' title='DUE: First video critique' text="
+* Follow the video critique guide
+* We'll be watching and critiquing these in class
+"%}
+
 
 ### Thursday (Nov 23)
 {% include alert.html class='info' title='Thanksgiving' text="
