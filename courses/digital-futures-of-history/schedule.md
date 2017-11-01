@@ -163,7 +163,8 @@ Work on your Spatial History Projects, following the [guidelines](spatial-histor
 * BEFORE CLASS: Read [Intro to HTML and CSS](https://learn.shayhowe.com/html-css/building-your-first-web-page/). Read up to "Using CSS Resets". Bring questions to class or you will fail the course.
 * Go through HTML and CSS concepts
 * Go over [spatial history site](https://unm-digital-futures.github.io/digital-history-review/)
-* Go over [Google Sheet for managing site content](https://docs.google.com/spreadsheets/d/1tpcVOeTci6Bc4cXYN-ytnImn6MzILDPH4W6fMfEPvkg/edit#gid=0)
+* Go over [Google Sheet for map and directory content](https://docs.google.com/spreadsheets/d/1tpcVOeTci6Bc4cXYN-ytnImn6MzILDPH4W6fMfEPvkg/edit#gid=0)
+* Creating KML files (for map display)
 * Screencasting basics
 
 
