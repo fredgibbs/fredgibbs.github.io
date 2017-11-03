@@ -165,7 +165,6 @@ Work on your Spatial History Projects, following the [guidelines](spatial-histor
 * Go over [spatial history site](https://unm-digital-futures.github.io/digital-history-review/)
 * Go over [Google Sheet for map and directory content](https://docs.google.com/spreadsheets/d/1tpcVOeTci6Bc4cXYN-ytnImn6MzILDPH4W6fMfEPvkg/edit#gid=0)
 * Creating KML files (for map display)
-* Screencasting basics
 
 
 
@@ -173,11 +172,14 @@ Work on your Spatial History Projects, following the [guidelines](spatial-histor
 
 ### Tuesday (Nov 7)
 {% include alert.html class='danger' title='DUE: Spatial History Updates' text="
-* All essays should fit into website schema (use the code from the sample essay)
-* All spatial data should be uploaded to the Google Spreadsheet
+* All essays should look like the sample essay (copy code from the [sample code essay](https://unm-digital-futures.github.io/digital-history-review/code))
+* All spatial data should be uploaded to the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1tpcVOeTci6Bc4cXYN-ytnImn6MzILDPH4W6fMfEPvkg/edit#gid=0)
+* Your KML file created via Google Maps should be uploaded to the kml folder in the docs folder.
 "%}
-* Review existing essays
-* Answer technical questions
+
+* Review existing essays; answer technical questions
+* HTML and CSS quiz (review the [tutorial](https://learn.shayhowe.com/html-css/building-your-first-web-page/)!) and questions we didn't get to last time.
+* Screencasting basics (FOR REAL)
 * More screencasting techniques
 
 ### Thursday (Nov 9)
