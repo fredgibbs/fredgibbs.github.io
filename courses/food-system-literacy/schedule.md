@@ -124,7 +124,7 @@ The goals, instructions, and guidelines are visible at the [Ad Research Guidelin
 
 
 ### Oct 24
-* Katherine J. Parkin, _Food is Love_, 30-78. Of course we'll go over the main ideas covered in these two chapters, but you should also think about how your ad research confirms or complicates Parkin's claims about advertising. 
+* Katherine J. Parkin, _Food is Love_, 30-78. Of course we'll go over the main ideas covered in these two chapters, but you should also think about how your ad research confirms or complicates Parkin's claims about advertising.
 
 ### Oct 26
 {% include alert.html class='danger' title='DUE: Ad research reports' text="
@@ -149,7 +149,7 @@ Read one of the following and be prepared to share highlights with the class
 
 ### Nov 7
 * Gottlieb and Joshi, _Food Justice_, 13-38. In Zotero and also [online](http://ebookcentral.proquest.com/lib/unm/reader.action?docID=3339193).
-* Margaret Gray, _Labor and the Locavore_, 1-14 (Introduction); 15-40 (Agrarianism and Hudson Valley Agriculture).
+* Margaret Gray, _Labor and the Locavore_, 1-12 (Introduction); 15-26 (Chapter 1); skim through 40 (Agrarianism and Hudson Valley Agriculture).
 
 ### Nov 9
 * Eric Schlosser, _Fast Food Nation_, 149-166; 169-190.
