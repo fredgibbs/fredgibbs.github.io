@@ -177,35 +177,40 @@ Work on your Spatial History Projects, following the [guidelines](spatial-histor
 * Your KML file created via Google Maps should be uploaded to the kml folder in the docs folder.
 "%}
 
-* Review existing essays; answer technical questions
 * HTML and CSS quiz (review the [tutorial](https://learn.shayhowe.com/html-css/building-your-first-web-page/)!) and questions we didn't get to last time.
-* Screencasting basics (FOR REAL)
-* More screencasting techniques
 
 ### Thursday (Nov 9)
-{% include alert.html class='danger' title='DUE: Last Updates' text="
-* Make sure your essays looks and reads exactly as you want, **and as I want**. This will make peer review more useful for both authors and reviewers.
+{% include alert.html class='danger' title='DUE: Essay Improvements' text="
+* Add essay header information following the sample on the [Code Example Page](https://unm-digital-futures.github.io/digital-history-review/code).
+* Add your custom CSS file to the css directory, with some CSS code in it that will change the typography of your essay (for instance, making the headers red as the gibbs.css file does). Add your CSS file the same way you've added all your other files (either drag and drop or use the 'Create new file' button).
+* Start adding hyperlinks to your essays wherever appropriate.
+* Start adding footnote references following the example on the Code Example Page
+* REMEMBER 1: All the code you need on your page can be copied and pasted from the gray boxes on the [Code Example Page](https://unm-digital-futures.github.io/digital-history-review/code).
+* REMEMBER 2: You can always view the [raw markdown for the Simms Essay](https://raw.githubusercontent.com/unm-digital-futures/digital-history-review/master/docs/essays/simms-building.md) to see a complete and live model of how your markdown code should look.
 "%}
-* William Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
-* Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](hhttps://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.2).
-* Instructions for peer review of Spatial History Essays on GitHub
+
+* Review existing essays; answer technical questions
+* Screencasting basics
 
 
 ## 13: Reviews
 
 ### Tuesday (Nov 14)
-{% include alert.html class='danger' title='DUE: Spatial History Peer Critiques' text="
-* Please see the [Peer Critique Guidelines](peer-critique-guidelines).
+{% include alert.html class='danger' title='DUE: Last Updates' text="
+* Make sure your essays looks and reads exactly as you want, **and as I want**. This will make peer review more useful for both authors and reviewers.
 "%}
-* Video check in (have a complete, even if rough, draft ready)
+
+* Video check in (Complete a rough cut by today and try some editing)
 
 ### Thursday (Nov 16)
-* Bring to class 5 examples of web design / typography that we can adapt for our spatial history essays.
-
+* William Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
+* Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](hhttps://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.2).
+* Instructions for peer review of Spatial History Essays on GitHub
 
 ## 14: Clean up and Eating
 
 ### Tuesday (Nov 21)
+
 {% include alert.html class='danger' title='DUE: First video critique' text="
 * Follow the video critique guide
 * We'll be watching and critiquing these in class
@@ -218,7 +223,13 @@ Happy Eating!
 "%}
 
 
-## 15: OPEN (Nov 28 and 30)
+## 15: Catch up
+
+### Tuesday (Nov 28)
+
+{% include alert.html class='danger' title='DUE: Spatial History Peer Critiques' text="
+* Please see the [Peer Critique Guidelines](peer-critique-guidelines).
+"%}
 
 
 ## 16: Loose ends (Dec 5 and 7)
