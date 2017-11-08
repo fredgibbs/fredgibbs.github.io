@@ -188,7 +188,7 @@ Work on your Spatial History Projects, following the [guidelines](spatial-histor
 * REMEMBER 1: All the code you need on your page can be copied and pasted from the gray boxes on the [Code Example Page](https://unm-digital-futures.github.io/digital-history-review/code).
 * REMEMBER 2: You can always view the [raw markdown for the Simms Essay](https://raw.githubusercontent.com/unm-digital-futures/digital-history-review/master/docs/essays/simms-building.md) to see a complete and live model of how your markdown code should look.
 "%}
-
+* Review HTML and CSS concepts via [scratchpad](http://scratchpad.io)
 * Review existing essays; answer technical questions
 * Screencasting basics
 
