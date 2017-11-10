@@ -197,24 +197,24 @@ Work on your Spatial History Projects, following the [guidelines](spatial-histor
 
 ### Tuesday (Nov 14)
 {% include alert.html class='danger' title='DUE: Last Updates' text="
-* Make sure your essays looks and reads exactly as you want, **and as I want**. This will make peer review more useful for both authors and reviewers.
+* Make sure your essays looks and reads exactly as you want, **and as I want**. This will make peer review more useful for both authors and reviewers. Review the [Peer Critique Guidelines](peer-critique-guidelines)!
+* IMAGES: You may find that you want to resize, rotate, or crop your images to improve the layout of your essay. While you can control the width easily already, sometimes a bit more editing would go a long way. Use either [Fotor](https://www.fotor.com/) or [Pixlr](https://pixlr.com/express/). Both are online, free, and straightforward image editing tools that you can figure out with a few minutes of playing around. They both do color correction, filtering, and effects, but mostly you'll just want to crop, rotate, or resize images---which are super easy to do---and then download a new version of your file. You can't edit your image on GitHub directly; you'll have to upload a new version.
 "%}
 
-* Video check in (Complete a rough cut by today and try some editing)
+* More screencasting
+
 
 ### Thursday (Nov 16)
-* William Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
-* Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](hhttps://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.2).
-* Instructions for peer review of Spatial History Essays on GitHub
+* Video check in (Complete a rough cut by today and try some editing)
+
 
 ## 14: Clean up and Eating
 
 ### Tuesday (Nov 21)
+* William Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
+* Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](hhttps://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.2).
+* Instructions for peer review of Spatial History Essays on GitHub
 
-{% include alert.html class='danger' title='DUE: First video critique' text="
-* Follow the video critique guide
-* We'll be watching and critiquing these in class
-"%}
 
 
 ### Thursday (Nov 23)
@@ -227,9 +227,17 @@ Happy Eating!
 
 ### Tuesday (Nov 28)
 
+{% include alert.html class='danger' title='DUE: First video critique' text="
+* Follow the video critique guide
+* We'll be watching and critiquing these in class
+"%}
+
+
 {% include alert.html class='danger' title='DUE: Spatial History Peer Critiques' text="
 * Please see the [Peer Critique Guidelines](peer-critique-guidelines).
 "%}
+
+### Thursday (Nov 30)
 
 
 ## 16: Loose ends (Dec 5 and 7)
