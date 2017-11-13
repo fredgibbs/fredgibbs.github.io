@@ -148,8 +148,8 @@ Read one of the following and be prepared to share highlights with the class
 ## Working on the Farm
 
 ### Nov 7
-* Gottlieb and Joshi, _Food Justice_, 13-38. In Zotero and also [online](http://ebookcentral.proquest.com/lib/unm/reader.action?docID=3339193).
-* Margaret Gray, _Labor and the Locavore_, 1-12 (Introduction); 15-26 (Chapter 1); skim through 40 (Agrarianism and Hudson Valley Agriculture).
+* Gottlieb and Joshi, _Food Justice_, 13-30; SKIM 30-38. In Zotero and also [online](http://ebookcentral.proquest.com/lib/unm/reader.action?docID=3339193).
+* Margaret Gray, _Labor and the Locavore_, 1-12 (Introduction); 15-26 (Chapter 1); SKiM through 40 (Agrarianism and Hudson Valley Agriculture).
 
 ### Nov 9
 * Eric Schlosser, _Fast Food Nation_, 149-166; 169-190.
@@ -161,8 +161,8 @@ Read one of the following and be prepared to share highlights with the class
 
 ### Nov 14
 * George Kuepper, "[A Brief Overview of the History and Philosophy of Organic Agriculture](http://kerrcenter.com/wp-content/uploads/2014/08/organic-philosophy-report.pdf)," 2-18.
-* Laura B. DeLind, “Transforming Organic Agriculture into Industrial Organic Products: Reconsidering National Organic Standards,” 198–208.
 * Michael Pollan, _Omnivore's Dilemma_, 134-184 (Big Organic).
+* SKIM: Laura B. DeLind, “Transforming Organic Agriculture into Industrial Organic Products: Reconsidering National Organic Standards,” 198–208.
 
 ### Nov 16
 * McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 1-46 (Prologue; Are GMOs Safe?).
@@ -174,6 +174,7 @@ Read one of the following and be prepared to share highlights with the class
 ### Nov 21
 * Born and Purcell, “Avoiding the Local Trap,” 195–207.
 * C. Clare Hinrichs, “The Practice and Politics of Food System Localization,” 33–45.
+* IN CLASS: website analysis instructions.
 
 ### Nov 23
 {% include alert.html class='info' title='Thanksgiving' text="
@@ -185,7 +186,7 @@ Happy Eating!
 
 ### Nov 28
 {% include alert.html class='danger' title='DUE: Local/Organic website analysis' text="
-Bring to class a ~500-word critique of a website that promotes local and/or organic food production. What kinds of arguments do they make? Where have we seen these before? What's different? How convincing are they? How could they be more effective?
+Bring to class a ~500-800 word critique of a website that promotes local and/or organic food production. What kinds of arguments do they make? Where have we seen these before? What's different? How convincing are they? How could they be more effective? How is history---both real and imagined---invoked?
 "%}
 
 * Marion Nestle, _Food Politics_, 295-314 (Fortification and Marketing).
