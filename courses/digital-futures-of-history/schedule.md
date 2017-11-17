@@ -212,8 +212,10 @@ Work on your Spatial History Projects, following the [guidelines](spatial-histor
 
 ### Tuesday (Nov 21)
 * William Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
+* Leslie Madsen-Brooks, [I Nevertheless Am a Historian: Digital Historical Practice and Malpractice around Black Confederate Soldiers](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.1)
 * Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](hhttps://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.2).
-* Instructions for peer review of Spatial History Essays on GitHub
+
+* Instructions for uploading videos; need to do this by next class
 
 
 
@@ -227,9 +229,9 @@ Happy Eating!
 
 ### Tuesday (Nov 28)
 
-{% include alert.html class='danger' title='DUE: First video critique' text="
+{% include alert.html class='danger' title='DUE: First draft of video critique' text="
 * Follow the video critique guide
-* We'll be watching and critiquing these in class
+* We'll be watching and critiquing some of these in class
 "%}
 
 
