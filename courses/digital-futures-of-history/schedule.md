@@ -205,7 +205,7 @@ Work on your Spatial History Projects, following the [guidelines](spatial-histor
 
 ### Thursday (Nov 16)
 * Video check in (Complete a rough cut by today and try some editing)
-* Discussion of [spatial history score sheets](spatial-history-score-sheets).
+* Discussion of [spatial history score sheets](spatial-history-score-sheet).
 
 ## 14: Clean up and Eating
 

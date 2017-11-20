@@ -1,4 +1,11 @@
-# Spatial History Score Sheets
+---
+title: Spatial History Score Sheet
+term: Fall 2017
+number: HIST 300-018
+date: 2017-11-20
+---
+
+# Spatial History Score Sheet
 
 ## Everything rated 0-5
 5 = outstanding
