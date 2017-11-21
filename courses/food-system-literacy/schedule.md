@@ -186,7 +186,7 @@ Happy Eating!
 
 ### Nov 28
 {% include alert.html class='danger' title='DUE: Local/Organic website analysis' text="
-Bring to class a ~800 word critique of a website or article that discusses local or organic or GMO food production (or basically anything that relates to the discussions we've had over the last few weeks). Questions to consider in your essay: What _kinds_ of arguments does it make? What kinds of assumptions? Where have we seen them before? What's different? How are they convincing? How are they misleading? How could they be more effective? How is history---both real and imagined---invoked? As with all your assignments, the goal is to put the course to use in addressing "real-world" discussions about food production issues. So you will do better by drawing together various themes from the course in your analysis.
+Bring to class a ~800 word critique of a website or article that discusses local or organic or GMO food production (or basically anything that relates to the discussions we've had over the last few weeks). Questions to consider in your essay: What _kinds_ of arguments does it make? What kinds of assumptions? Where have we seen them before? What's different? How are they convincing? How are they misleading? How could they be more effective? How is history---both real and imagined---invoked? As with all your assignments, the goal is to put the course to use in addressing 'real-world' discussions about food production issues. So you will do better by drawing together various themes from the course in your analysis.
 "%}
 
 * Marion Nestle, _Food Politics_, 295-314 (Fortification and Marketing).
