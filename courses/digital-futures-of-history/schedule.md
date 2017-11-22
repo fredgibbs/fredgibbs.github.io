@@ -228,7 +228,7 @@ Happy Eating!
 ### Tuesday (Nov 28)
 
 {% include alert.html class='danger' title='DUE: First draft of video critique' text="
-* Follow the [video critique guide]()
+* Follow the [video critique guide](video-criteria)
 * Put links to your video on our [video link page](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/video-links.md)
 * I will randomly select some videos to watch and critique in class (be prepared, please. this significantly reduces awkwardness for everyone.)
 "%}
