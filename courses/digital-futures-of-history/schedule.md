@@ -217,7 +217,6 @@ Work on your Spatial History Projects, following the [guidelines](spatial-histor
 * Instructions for uploading videos; need to do this by next class
 
 
-
 ### Thursday (Nov 23)
 {% include alert.html class='info' title='Thanksgiving' text="
 Happy Eating!
@@ -229,16 +228,21 @@ Happy Eating!
 ### Tuesday (Nov 28)
 
 {% include alert.html class='danger' title='DUE: First draft of video critique' text="
-* Follow the video critique guide
-* We'll be watching and critiquing some of these in class
+* Follow the [video critique guide]()
+* Put links to your video on our [video link page](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/video-links.md)
+* I will randomly select some videos to watch and critique in class (be prepared, please. this significantly reduces awkwardness for everyone.)
 "%}
 
+### Thursday (Nov 30)
+TBD
 
+## 16: Loose ends
+
+### Dec 5
 {% include alert.html class='danger' title='DUE: Spatial History Peer Critiques' text="
 * Please see the [Peer Critique Guidelines](peer-critique-guidelines).
 "%}
 
-### Thursday (Nov 30)
 
-
-## 16: Loose ends (Dec 5 and 7)
+### Dec 7
+Course summary and last chance for me to convince you that everything we did was seriously worth it.
