@@ -234,15 +234,17 @@ Happy Eating!
 "%}
 
 ### Thursday (Nov 30)
-TBD
+* Review of [video critique guide](video-criteria).
+* Spatial History Essay Reviews
+* See your preliminary scores [here](https://docs.google.com/spreadsheets/d/1IVxQjYNR2NbW_xOBcW_1Eq5UveDszwMuwU3xr1Y7odc/edit?usp=sharing).
+* Be aware of the **NEW** [citation guide](citation-guide). 
 
 ## 16: Loose ends
 
 ### Dec 5
-{% include alert.html class='danger' title='DUE: Spatial History Peer Critiques' text="
-* Please see the [Peer Critique Guidelines](peer-critique-guidelines).
+{% include alert.html class='warning' title='Optional Class' text="
+Today is optional; we'll spend more time critiquing essays and videos for those who want extra feedback. While priority will be given to those who have not had their work critiqued in class thus far, everyone will leave with clearer ideas about how to revise their work before submitting final versions.
 "%}
 
-
 ### Dec 7
-Course summary and last chance for me to convince you that everything we did was seriously worth it.
+The last chance for me to convince you that everything we did was seriously worth it. Also, evaluations and final advice for the assignments.

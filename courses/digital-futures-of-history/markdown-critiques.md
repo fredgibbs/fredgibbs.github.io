@@ -19,13 +19,13 @@ This guide provides the formal requirements and instructions for your Markdown c
 
 
 ## Goals of critiques
-- Make it clear what the goals of the project are
 - Provide some summary of the main features / functionality
-- Evaluate how well the various facets of the website facilitate those goals (design, organization, writing style, etc)
-- How appropriate is the style for the intended audience?
-- Make a note of aspects that failed badly
-- Make a note of aspects that worked well
-- Remember to incorporate our readings from earlier in the semester (_yes in fact there was a reason we read all those pieces_)
+- Make it clear what the goals of the project are
+- Note stated or apparent intended audience (and whether it's in fact useful for them)
+- Evaluate how well the various facets of the website facilitate those goals (design, organization, writing style, interface, functionality)
+- Make a note of aspects that fail badly
+- Make a note of aspects that work well
+- Remember to incorporate our readings from earlier in the semester (_yes in fact there was a reason we read all those_)
   - In particular, think about how maps, databases, interfaces, shape the kinds of interpretations the website is meant to facilitate.
 - Most important: Organize your critiques by the particular points you want to make (this helps you avoid a rambling or process-narrative critique).
   - Give at least specific example to illustrate your point
