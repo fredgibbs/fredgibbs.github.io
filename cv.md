@@ -85,9 +85,11 @@ _Poison, Medicine, and Disease in Late Medieval and Early Modern Europe_ forthco
 
 ### Other Stuff
 
+[Digital History and Argument](https://rrchnm.org/argument-white-paper/), from the [Arguing with Digital History Workshop](https://rrchnm.org/news/arguing-with-digital-history-workshop-to-address-a-central-problem-in-digital-history/) at RRCHHM. 
+
 "[A Healthy Dose of Skepticism](https://nursingclio.org/2017/05/24/a-healthy-dose-of-skepticism/)," _Nursing Clio_, May 24, 2017.
 
-"How Do We Make the Future?" A Contribution to the History of Science Society Newsletter (July 2016) [with Erika Milam and Joanna Radin].
+"[How Do We Make the Future?](https://hssonline.org/resources/publications/newsletter/july-2016-newsletter/how-do-we-make-the-future/)" (July 2016) [with Erika Milam and Joanna Radin].
 
 _Histories of the Future_ ([histscifi.com](http://histscifi.com))  
 
@@ -154,13 +156,13 @@ This working group aims to build connections across disciplinary boundaries by p
 
 ## Selected Presentations, Panels, and Workshops
 
-*Intelligence of Algorithms*
+*Intelligence of Algorithms*  
 Max Planck Institute for the History of Science (Oct 2017)
 
-*Arguing with Digital History*
+*Arguing with Digital History*  
 Roy Rosenzweig Center for History and New Media (Sep 2017)
 
-*Critical Digital Humanities Symposium*
+*Critical Digital Humanities Symposium*  
 Dartmouth (Apr 2017)
 
 *Personal Failure and Decentralized Digital History*  

@@ -6,14 +6,10 @@ term: Fall 2016
 date: 2015-01-12 00:00:00
 ---
 
-
-could include optional readings that students can write on. (both primary and secondary)
-(need to integrate versions of history excerpts)
-
-
-
 # IN PROGRESS!
 This syllabus is a guide, not a contract. As a living document that changes frequently depending on what's going on with our group, you'll want to bookmark and consult the online version of this syllabus frequently. Important links to online assignment guides and other instructions will appear throughout the course, and I will always announce important changes in class. No significant changes will be made to the overall workload. If you print out the syllabus, be sure you keep your paper version up to date with the online version.
+
+-----
 
 ## 1: Course Introductions
 ### 15: NO CLASS (MLK Holiday)
@@ -27,7 +23,7 @@ This syllabus is a guide, not a contract. As a living document that changes freq
 * _FHTH_ "What is Historiography?", 1-24.  
 
 ### 24: Mythistory
-* William H. McNeill, “Mythistory, or Truth, Myth, History, and Historians,” 1–10.
+* William H. McNeill, “Mythistory, or Truth, Myth, History, and Historians”, 1–10.
 
 
 
@@ -57,7 +53,7 @@ This syllabus is a guide, not a contract. As a living document that changes freq
 
 ## 5: Scientific History
 
-### 12: Historiography in the early 20th century
+### 12: Historiography in the Early 20th Century
 * _FHTH_, "Scientific history in an era of conflict", 97-124.
 
 ### 14: The _Annales_ School
@@ -76,24 +72,24 @@ This syllabus is a guide, not a contract. As a living document that changes freq
 
 
 
-## 7: Historical Scales
+## 7: (post)Modern Histories
 
 ### 26: A 20th-century overview
 * _FHTH_, "Glorious Confusion", 127-65.
 
 ### 28: Quantitative History
 * _Houses_, "Quantitative History", 141-50; skim 151-71.
-* [optional]: Margo Anderson, "Qualitative History", 246-59.
+* Margo Anderson, "Qualitative History", 246-59.
 
 
 
 ## 8: Micro/Macro Histories
 
-### 5:
+### 5: Historical Scales
 * Georg Iggers, "From Macro- to Microhistory: The History of Everyday Life", 101-117.
 * _Houses_, "Anthropology and ethnohistorians", 172-203.
 
-### 7:
+### 7: Historical Significance
 * Kieran Healy, "Fuck nuance", 1-13.
 * Langdon Winner, "Do artifacts have politics?", 121-35.
 
@@ -105,10 +101,10 @@ This syllabus is a guide, not a contract. As a living document that changes freq
 
 ## 10: De-centerings
 
-### 19:
+### 19: Intro to Postmodernism
 * _Houses_, "The challenge of postmodernism/poststructuralism", 297-325.
 
-### 21:
+### 21: Discursive History
 * Foucault, _Archeology of Knowledge_, 21-39.
 * Foucault, _The Birth of the Clinic_, 3-20.
 
@@ -116,12 +112,12 @@ This syllabus is a guide, not a contract. As a living document that changes freq
 
 ## 11: Histories of Others
 
-### 26:
+### 26: Postcolonial Histories
 * _Houses_, "Postcolonial Perspectives", 263-76.
 * Henrietta Whiteman, "White Buffalo Woman" \[= _Houses_, 288-96] (skim).
 * Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?", 1-27.
 
-### 28:
+### 28: Gender Histories
 * _Houses_, "Gender History", 253-62.
 * Catherine Hall, "Gender Division and Class Formation in the Birmingham Middle Class, 1780-1850" [= _Houses_, 263-76].
 * Joan Scott, "Gender: A Useful Category of Historical Analysis", 1053-1075.
@@ -129,49 +125,49 @@ This syllabus is a guide, not a contract. As a living document that changes freq
 
 
 
-## 12: _Narrative and History_ I
-### 2:
-_NAH_, Introduction, 1-15.
-_NAH_, Narrating the Past, 16-28.
-_NAH_, History as Content/Story, 29-43.
+## 12: Narrative and History 1
+### 2: The imperative of Narrative
+_NAH_, "Introduction", 1-15.
+_NAH_, "Narrating the Past", 16-28.
+_NAH_, "History as Content/Story", 29-43.
 
-### 4:
-_NAH_, Narrating and Narration, 44-79.
-
-
-
-
-## 13: _Narrative and History_ II
-
-### 9:
-_NAH_, The Past, the Fact, and History, 80-93.
-_NAH_, Understanding [in] History, 94-110.
-
-### 11:
-_NAH_, The Oar in Water, 111-122.
-_NAH_, Conclusion, 123-129.
+### 4: Narrative Baggage
+_NAH_, "Narrating and Narration", 44-79.
 
 
 
 
-## 14: _What is History For?_ I
-### 16:
+## 13: Narrative and History 2
+
+### 9: The Past and History
+_NAH_, "The Past, the Fact, and History", 80-93.
+_NAH_, "Understanding [in] History", 94-110.
+
+### 11: Beyond Narrative
+_NAH_, "The Oar in Water", 111-122.
+_NAH_, "Conclusion", 123-129.
+
+
+
+
+## 14: What is History For? 1
+### 16: Why do we study history?
 * _WIHF?_, "History for its own sake", 10-30.
-* _WIHF?_, "Professed Purposes", 31-58.
+* _WIHF?_, "Professed purposes", 31-58.
 
 
-### 18:
+### 18: Historic Motivations
 * _WIHF?_, "Hidden agendas", 59-84.
 
 
 
 
-## 15:  _What is History For?_ II
-### 23:
+## 15:  What is History For? 2
+### 23: Postmodern History 1
 * _WIHF?_, "Life and needs in Postmodernity", 85-106.
 * _WIHF?_, "Histories in Postmodernity", 107-32.
 
-### 25:
+### 25: Postmodern History 2
 * _WIHF?_, "Histories for Postmodernity", 133-53.
 
 
