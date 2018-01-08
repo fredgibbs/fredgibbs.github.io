@@ -153,6 +153,16 @@ This working group aims to build connections across disciplinary boundaries by p
 
 
 ## Selected Presentations, Panels, and Workshops
+
+*Intelligence of Algorithms*
+Max Planck Institute for the History of Science (Oct 2017)
+
+*Arguing with Digital History*
+Roy Rosenzweig Center for History and New Media (Sep 2017)
+
+*Critical Digital Humanities Symposium*
+Dartmouth (Apr 2017)
+
 *Personal Failure and Decentralized Digital History*  
 American Historical Association (Jan 2017)
 
