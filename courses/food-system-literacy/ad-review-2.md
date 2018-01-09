@@ -10,11 +10,11 @@ The goal is to get you looking at food ads throughout the 20th century and think
 
 ## What to do
 I'm trying to balance you having fun looking through "vintage" ads but not being totally confused about what to do. So, you have a lot of leeway in what you can do within a few parameters. **The basic research method is to Google search (both text and image) a particular brand or kind of food (see below). Pick a food or a product (like baking powder) that's used to make food or a fast food brand.** Keep it food-centric: no candy, cigarettes, etc. The below approaches would work perfectly well, but you can do something else if you think it's in the spirit of the assignment.
-- Search for a particular brand. Use searches like “jif peanut butter vintage ads” or “jif ads 1990s” or "quaker oats branding" or whatever.
+- Search for a particular brand. Use searches like “jif peanut butter vintage ads” or “jif ads 1990s” or "quaker oats branding" or 'organic salad mix' or whatever.
 - Research a kind of product like peanut butter, and see how different brands use marketing differently.
 - Compare two brands over time: how are their ads similar or different?
 - Compare to how two kinds of food products use different ad techniques
-- ???
+- Let your search results guide your questions (zoom in or out)
 - No matter what your approach, you need to make a historical argument about the ads, preferably one that analyzes change over time.
 - You'll be evaluated on the sophistication of your analysis. If you don't look at many ads, or only look at some from a narrow time span, or don't mention the stuff we've been talking about in class, your grade goes down quickly.
 
@@ -46,6 +46,6 @@ Remember that your goal for the assignment to make a historical argument about t
 
 ## Historical Methodology
 As you think through your ads and write up your analysis, reflect on our methodology (as any good historian should). You don't need to specifically answer these questions in your essay, but they should help guide your analysis.
-- Provide basic information about the brands you comment on (when founded, significant changes, etc)
+- Provide basic information about the brands you comment on (when founded, significant changes, etc).
 - What are the limitations of doing research this way?
 - How representative is your sample of ads?

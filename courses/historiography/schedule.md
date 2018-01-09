@@ -14,12 +14,21 @@ This syllabus is a guide, not a contract. As a living document that changes freq
 ## 1: Course Introductions
 ### 15: NO CLASS (MLK Holiday)
 ### 17: Syllabus, Expectations, Tools
-
+* Introduction to [Zotero](http://zotero.org)
+* Introduction to [Github](http://github.com)
+{% include alert.html class='warning' title='Do This ASAP' text="
+* Review [Assignment Submission Instructions](github-instructions).
+* Remember to create an account at [Github](http://github.com), and email me (fwgibbs@unm.edu) your username
+"%}
 
 
 ## 2: Historiographical Introductions
 
 ### 22: What is Historiography?
+{% include alert.html class='warning' title='Leave time for GitHub' text="
+* All assignments must be posted in [our repository](https://github.com/unm-historiography/2018-spring). Instructions are in the README file.
+"%}
+* Resolve GitHub and Markdown confusion
 * _FHTH_ "What is Historiography?", 1-24.  
 
 ### 24: Mythistory
@@ -31,11 +40,11 @@ This syllabus is a guide, not a contract. As a living document that changes freq
 
 ### 29: Ancient History
 * _FHTH_, 25-35.  
-* Faces of History, "Roman foundations", 48-69.
+* _Faces of History_, "Roman foundations", 48-69.
 
 ### 31: Medieval History
 * _FHTH_, 35-45.  
-* Faces of History, "History in the medieval mirror", 99-124.
+* _Faces of History_, "History in the medieval mirror", 99-124.
 
 
 

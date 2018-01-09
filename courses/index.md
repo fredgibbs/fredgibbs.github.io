@@ -12,7 +12,7 @@ title: courses
 ## History of Food, Diet, Health, and Medicine
 * [History and Geography of Food Production](food-system-literacy)
 * [Food, Diet, and Health](food-diet-health)
-* [premodern-medicine/fall-2015](History of Premodern Medicine)
+* [History of Premodern Medicine](premodern-medicine/fall-2015)
 * [The Metaphor of Plague](metaphor-of-plague)
 
 
