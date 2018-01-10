@@ -1,9 +1,8 @@
 ---
 layout: syllabus
 title: "Historiography"
-number: HIST 491-002
-term: Fall 2016
-date: 2015-01-12 00:00:00
+number: HIST 491-001
+term: Spring 2018
 ---
 
 # IN PROGRESS!
