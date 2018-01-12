@@ -14,7 +14,7 @@ You are probably already realizing one of the principal challenges of GIS work. 
 
 
 ## Get and Display Data
-We've already got counties in the form of shapefile; let's see if we can add population data to our map. We'll get our data from census.gov again, at their page for [county population estimates](https://www.census.gov/data/datasets/2015/demo/popest/counties-total.html). (The navigation links at census.gov can lead you in circles; using the search function is usually the best way to find data you're after.) This time, however, we aren't going to use a shapefile because we're not interested in drawing geographic features (like county boundaries); we're interested in just the data (populations of counties).
+We've already got counties in the form of shapefile; let's see if we can add population data to our map. We'll get our data from census.gov again, at their page for [county population estimates](https://www.census.gov/data/datasets/2016/demo/popest/counties-total.html). (The navigation links at census.gov can lead you in circles; using the search function is usually the best way to find data you're after.) This time, however, we aren't going to use a shapefile because we're not interested in drawing geographic features (like county boundaries); we're interested in just the data (populations of counties).
 
 {% include figure.html src="/assets/images/qgis/county-census-data.png" caption="Census.gov has great data, but not always intuitive ways to access it" class="raw" %}
 

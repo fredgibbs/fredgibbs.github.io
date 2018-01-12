@@ -89,6 +89,9 @@ Although I have kept the reading load to a reasonable level (kind of low for an 
 - To access all other articles and book chapters on the syllabus, you will need to subscribe to the course Zotero library. Please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library is [https://www.zotero.org/groups/632527/items](https://www.zotero.org/groups/632527/items), but you must have clicked on the link in your invitation to access the library!
 
 
+## Accessibility
+Accessibility Resources Center (Mesa Vista Hall 2021, 277-3506) provides academic support to students who have disabilities. If you think you need alternative accessible formats for undertaking and completing coursework, you should contact this service right away to assure your needs are met in a timely manner.
+
 
 ## Syllabus
-View the [Schedule of Readings](schedule.html)
+View the [Schedule of Readings](schedule)

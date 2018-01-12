@@ -9,13 +9,13 @@ Department of History
 MSC06 3760  
 1 University of New Mexico  
 Albuquerque, NM 87131-1181  
-[fwgibbs@gmail.com](mailto:fwgibbs@gmail.com)
+[fwgibbs@unm.ed](mailto:fwgibbs@unm.edu)
 
 
 ## Academic Employment
 
 ### University of New Mexico  
-Associate Professor of History (Aug 2017 -)  
+Associate Professor of History (Aug 2017 - )  
 Assistant Professor of History (Aug 2013 - Jul 2017)  
 
 ### Roy Rosenzweig Center for History and New Media  
@@ -34,20 +34,21 @@ Physics
 
 
 ## Recent Courses
-* [Digital Methods for the Humanities](http://fredgibbs.net/courses/digital-methods)
 * [Digital Futures of History](http://fredgibbs.net/courses/digital-futures-of-history)
-* [Food, Diet, and Health](http://fredgibbs.net/courses/food-diet-health)
-* [Undergraduate Historiography](http://fredgibbs.net/courses/historiography)
 * [Digital Mapping](http://fredgibbs.net/courses/digital-mapping)
-* [History of Premodern Medicine](http://fredgibbs.net/courses/premodern-medicine/fall-2015)
-* [Graduate Historiography](http://fredgibbs.net/courses/historiography-grad/fall-2015)
+* [Digital Methods for the Humanities](http://fredgibbs.net/courses/digital-methods)
+* [Food, Diet, and Health](http://fredgibbs.net/courses/food-diet-health)
+* [Historiography](http://fredgibbs.net/courses/historiography)
+* [History of Convenience Food](http://fredgibbs.net/courses/food-system-literacy)
 * [Metaphor of Plague](http://fredgibbs.net/courses/metaphor-of-plague)
+* [History of Premodern Medicine](http://fredgibbs.net/courses/premodern-medicine/fall-2015)
+
 
 
 ## Publications
 
 ### Book Manuscript
-_Poison, Medicine, and Disease in Late Medieval and Early Modern Europe_ forthcoming from Routledge (_Medicine in the Medieval Mediterranean_). Currently in editorial production.
+_Poison, Medicine, and Disease in Late Medieval and Early Modern Europe_ forthcoming from Routledge (_Medicine in the Medieval Mediterranean_). Forthcoming Summer 2018.
 
 
 ### Articles in Refereed Journals
@@ -83,9 +84,9 @@ _Poison, Medicine, and Disease in Late Medieval and Early Modern Europe_ forthco
 "The Hermeneutics of Data and Historical Writing," in Jack Dougherty and Kristen Nawrotzki (eds.), _Writing History in the Digital Age_, 159-72. Ann Arbor: University of Michigan Press, 2013. [with Trevor Owens]. [digitalculturebooks](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:7/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#7.3)
 
 
-### Other Stuff
 
-[Digital History and Argument](https://rrchnm.org/argument-white-paper/), from the [Arguing with Digital History Workshop](https://rrchnm.org/news/arguing-with-digital-history-workshop-to-address-a-central-problem-in-digital-history/) at RRCHHM. 
+### Other Stuff
+[Digital History and Argument](https://rrchnm.org/argument-white-paper/), from the [Arguing with Digital History Workshop](https://rrchnm.org/news/arguing-with-digital-history-workshop-to-address-a-central-problem-in-digital-history/) at RRCHHM.
 
 "[A Healthy Dose of Skepticism](https://nursingclio.org/2017/05/24/a-healthy-dose-of-skepticism/)," _Nursing Clio_, May 24, 2017.
 
@@ -98,7 +99,6 @@ _Histories of the Future_ ([histscifi.com](http://histscifi.com))
 
 
 ### Reviews
-
 Susanne Leikam, _Framing Spaces in Motion: Tracing Visualizations of Earthquakes into
 Twentieth-Century San Francisco._ Heidelberg: Universitätsverlag, 2015. In _Journal of American History_ 103.4 (March 2017): 1067-68.
 
@@ -126,7 +126,7 @@ Lawrence M. Principe (ed.), _Chymists and Chymistry_. Edited by . Philadelphia: 
 ### Spatial Humanities Working Group (Aug2015 - present)
 This working group aims to build connections across disciplinary boundaries by providing an informal setting in which students and faculty across the university can meet to discuss theoretical, conceptual, and methodological questions regarding space and human societies. See more at the [SHWG website](http://spatialhumanities.unm.edu).
 
-### National Trails Course (Fall 2017 - present)
+### National Trails Research Course (Fall 2017 - present)
 
 
 ## Digital Projects  
@@ -136,12 +136,12 @@ This working group aims to build connections across disciplinary boundaries by p
 * Developed and documented a transparent and peer review process
 * Implemented static site with Jekyll and GitHub Pages
 
-### Metadata Improvement VIA Mapping (MIVIAM) (Dec10-Jan12)
+### Metadata Improvement VIA Mapping (MIVIAM) (Dec10 - Jan12)
 * Designed and coded robust Javascript interface to visualize thousands of data points via the Google Maps API (using plant specimen data held at [JSTOR Plants](http://plants.jstor.org))
 * Created sorting, filtering, and editing functions allowed researchers to correct and normalize metadata for easier research on botanical expeditions
 * Architected database schema and interface to manage suggested changes to metadata
 
-### Reframing the Victorians (Sep10-Sep11)
+### Reframing the Victorians (Sep10 - Sep11)
 * Created various visualizations of ~1.5M 19th-century books from Google Books
 * Developed and coordinated large data mining operation using Amazon S3 and Elastic MapReduce
 * Published pioneering digital history methodology piece in _Victorian Studies_
@@ -322,9 +322,10 @@ THATCamp @ RRCHNM (June 2013)
 
 
 ### Editorships
-* General Editor, *[Programming Historian](http://programminghistorian.org)* (Spring 2012 - )
-* Advisory Editor (Digital Scholarship) for _Isis_ [Journal of the History of Science Society] (Spring 2015 – )
 * Editor, H-Nutrition (Fall 2016 - )
+* General Editor, *[Programming Historian](http://programminghistorian.org)* (Spring 2012 - Summer 2017)
+* Advisory Editor (Digital Scholarship) for _Isis_ [Journal of the History of Science Society] (Spring 2015 – Spring 2017 )
+
 
 
 ### Review Work
@@ -342,7 +343,7 @@ Austrian Science Fund, Humanities in the European Research Area (HERA), National
 ### Committees  
 
 #### Professional Societies
-* History of Science Society Technology and Communication Committee (Fall 2015 - )
+* History of Science Society Technology and Communication Committee (Fall 2015 - Fall 2017)
 * History of Science Society ad-hoc committee on Publication Standards and Excellence (Spring – Summer 2015)
 * History of Science Society Strategic Planning Committee (Fall 2013 - Spring 2015)
 
@@ -353,14 +354,35 @@ Austrian Science Fund, Humanities in the European Research Area (HERA), National
 * Institute for Medieval Studies Steering Committee (Fall 2013 - )
 
 #### Departmental
+* UNM History Department Assessment Coordinator (Fall 2017 - )
+* UNM History Department Faculty Senator (Fall 2017 - )
 * UNM History Department Library Liaison (Fall 2015 - )
-* UNM History Graduate Advisory Committee (Fall 2014 - )
+* UNM History Graduate Advisory Committee (Fall 2014 - Fall 2016)
 * GMU Graduate Admissions Committee (2012-13)
 * GMU History Day Organizer (2009-2012)
 
 
 
 ## Previous Web Design and Development Projects
+
+### General Skills and Experience
+* 15+ years experience combining qualitative and quantitative research utilizing complex analog and digital sources
+* 7+ years project management experience with variously sized, multidisciplinary collaborative research projects
+* Exemplary written and oral communication skills, with vast public presentation experience (see presentations below)
+* 10+ years experience of classroom teaching (both lecture and discussion format) in higher education
+* Peer-reviewed author of one book (forthcoming) and a dozen scholarly articles for broad and specialized audiences
+* Successful grant-writer with National Science Foundation, National Endowment for the Humanities, Google, and Mellon Foundation
+
+
+### Technical Skills and Experience
+* Standard and emerging desktop and web mapping technologies, including ArcGIS, QGIS, Carto, Mapbox, Leaflet, Open Street Map
+* Web development with Javascript, HTML5, CSS, PHP, AJAX, REST APIs, XML, XSLT, Bootstrap, Django
+* Programming and scripting languages, esp. Javascript, Python, R, Java, C++
+* Database design and administration, esp. MySQL and SQLite
+* Implementing web standards, accessibility guidelines, and semantic mark-up
+* Creating harmony between user interfaces and information/database architecture
+* Spearheading initiatives to create technical documentation, guidelines and implement long-term sustainability practices
+* All common MS Office apps; all Adobe products, esp. Photoshop, Illustrator, and InDesign
 
 ### Zotero Developer (Feb08 - Sep09)
 * Critiqued and evaluated emerging technologies for collaborative bibliography management
@@ -395,23 +417,3 @@ Austrian Science Fund, Humanities in the European Research Area (HERA), National
 * Co-lead developer for first generation of target.com; responsible for back-end coding of e-commerce functionality with Java and Oracle, including product search engine to meet strict usability and performance requirements
 * Spearheaded standardization efforts and implementation of best practices among different programming, data modeling, testing, and deployment teams
 * Served as an _Information Technology Specialist_ for Global Services Division; diagnosed and solved debugging and testing challenges quickly and efficiently, adjusted to varied work environments, and established productive personal relationships with clients
-
-
-### General Skills and Experience
-* 15+ years experience combining qualitative and quantitative research utilizing complex analog and digital sources
-* 7+ years project management experience with variously sized, multidisciplinary collaborative research projects
-* Exemplary written and oral communication skills, with vast public presentation experience (see presentations below)
-* 10+ years experience of classroom teaching (both lecture and discussion format) in higher education
-* Peer-reviewed author of one book (forthcoming) and a dozen scholarly articles for broad and specialized audiences
-* Successful grant-writer with National Science Foundation, National Endowment for the Humanities, Google, and Mellon Foundation
-
-
-### Technical Skills and Experience
-* Standard and emerging desktop and web mapping technologies, including ArcGIS, QGIS, Carto, Mapbox, Leaflet, Open Street Map
-* Web development with Javascript, HTML5, CSS, PHP, AJAX, REST APIs, XML, XSLT, Bootstrap, Django
-* Programming and scripting languages, esp. Javascript, Python, R, Java, C++
-* Database design and administration, esp. MySQL and SQLite
-* Implementing web standards, accessibility guidelines, and semantic mark-up
-* Creating harmony between user interfaces and information/database architecture
-* Spearheading initiatives to create technical documentation, guidelines and implement long-term sustainability practices
-* All common MS Office apps; all Adobe products, esp. Photoshop, Illustrator, and InDesign
