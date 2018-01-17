@@ -25,7 +25,7 @@ This syllabus is a guide, not a contract. As a living document that changes freq
 
 ### 22: What is Historiography?
 {% include alert.html class='warning' title='Leave time for GitHub' text="
-* All assignments must be posted in [our repository](https://github.com/unm-historiography/2018-spring). Instructions are in the README file.
+* All assignments must be posted in [our repository](https://github.com/unm-historiography/2018-spring). Instructions are in the [README file](https://github.com/unm-historiography/2018-spring/blob/master/README.md).
 "%}
 * Resolve GitHub and Markdown confusion
 * _FHTH_ "What is Historiography?", 1-24.  
