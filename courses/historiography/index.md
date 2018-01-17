@@ -72,7 +72,7 @@ On your assignments, I will assign and post to your assignment a numerical score
 
 
 ## Submitting Work
-We will store our work at [https://github.com/unm-historiography/491-fall2016](https://github.com/unm-historiography/491-fall2016). We'll talk more about this in class, but instructions are [here](github-instructions.html).
+We will store our work at [https://github.com/unm-historiography/2018-spring](https://github.com/unm-historiography/2018-spring). We'll talk more about this in class, but instructions are [here](github-instructions.html).
 
 
 ## Required Texts
