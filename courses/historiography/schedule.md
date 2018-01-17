@@ -16,8 +16,8 @@ This syllabus is a guide, not a contract. As a living document that changes freq
 * Introduction to [Zotero](http://zotero.org)
 * Introduction to [Github](http://github.com)
 {% include alert.html class='warning' title='Do This ASAP' text="
-* Review [Assignment Submission Instructions](github-instructions).
-* Remember to create an account at [Github](http://github.com), and email me (fwgibbs@unm.edu) your username
+* Follow [Zotero setup instructions](../etc/zotero).
+* Follow [GitHub setup instructions](github-instructions).
 "%}
 
 
