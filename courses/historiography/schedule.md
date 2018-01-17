@@ -15,7 +15,7 @@ This syllabus is a guide, not a contract. As a living document that changes freq
 ### 17: Syllabus, Expectations, Tools
 * Introduction to [Zotero](http://zotero.org)
 * Introduction to [Github](http://github.com)
-{% include alert.html class='warning' title='Do This ASAP' text="
+{% include alert.html class='warning' title='Do This BEFORE FRIDAY' text="
 * Follow [Zotero setup instructions](../etc/zotero).
 * Follow [GitHub setup instructions](github-instructions).
 "%}
