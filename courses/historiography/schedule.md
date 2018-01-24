@@ -39,11 +39,11 @@ This syllabus is a guide, not a contract. As a living document that changes freq
 
 ### 29: Ancient History
 * _FHTH_, 25-35.  
-* _Faces of History_, "Roman foundations", 48-69.
+* _Faces of History_, "Roman foundations", 48-69. Don't get lost in the copious detail provided (skim when necessary). But do think about how much this description of Roman history supports or contradicts the much more condensed version from _FHTH_---and feel free to write about it in your posts.
 
 ### 31: Medieval History
 * _FHTH_, 35-45.  
-* _Faces of History_, "History in the medieval mirror", 99-124.
+* _Faces of History_, "History in the medieval mirror", 99-124. Ditto from last time.
 
 
 
