@@ -38,6 +38,13 @@ This syllabus is a guide, not a contract. As a living document that changes freq
 ## 3: Premodern History
 
 ### 29: Ancient History
+{% include alert.html class='warning' title='Preparing for Multiple Readings' text="
+
+When there are multiple readings paired together like today, treat the readings as a whole in your preparatory comments (whichever group you're in). There's no need to divide up your summaries/questions/comments strictly by the two selections. You can (probably should) make comments about each reading, but please feel free to have more or less to say about one or the other, depending on what you find most significant. You might also generalize about both at the same time. There certainly isn’t any rigid number of summary points or questions you need to have for each reading.
+
+More broadly, remember that each type of response should reflect your engagement with the entire assignment. So, if you don't say much of anything about one of the readings, it will be hard for me to know you spent any time with it.
+"%}
+
 * _FHTH_, 25-35.  
 * _Faces of History_, "Roman foundations", 48-69. Don't get lost in the copious detail provided (skim when necessary). But do think about how much this description of Roman history supports or contradicts the much more condensed version from _FHTH_---and feel free to write about it in your posts.
 
