@@ -58,7 +58,7 @@ More broadly, remember that each type of response should reflect your engagement
 
 ### 5: Early Modern Historiographical Revolutions
 * _FHTH_, "The historiographical revolution of the early modern era", 47-67.
-* Niccolò Machiavelli, _The Prince_, 5-19. (These are really small pages.) We'll discuss: How does Machiavelli use history in his text? How does it draw from previous historiographic traditions?
+* Niccolò Machiavelli, _The Prince_, 5-19. (These are really small pages.) As a primary source, don't worry about integrating Machiavelli into your responses---focus on _FHTH_. However, everyone should come to class prepared to discuss: How does Machiavelli use history in his text? How does it draw from previous historiographic traditions?
 
 
 ### 7: Historical Professionalization
