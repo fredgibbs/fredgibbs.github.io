@@ -24,6 +24,9 @@ Director of Digital Scholarship  (Aug 2009 - Jul 2013)
 ### George Mason University  
 Assistant Professor of History  (Aug 2009 - Jul 2013)
 
+
+## Education
+
 ### University of Wisconsin  
 Ph.D (2009), MA (2002)  
 History of Science, Medicine & Technology  
@@ -48,11 +51,15 @@ Physics
 ## Publications
 
 ### Book Manuscript
-_Poison, Medicine, and Disease in Late Medieval and Early Modern Europe_ forthcoming from Routledge (_Medicine in the Medieval Mediterranean_). Forthcoming Summer 2018.
+_Poison, Medicine, and Disease in Late Medieval and Early Modern Europe_. Forthcoming from Routledge, July 2018.
 
 
 ### Articles in Refereed Journals
-"Data, Humanities and the History of Medicine: New Pedagogical Approaches," _Medical History_, 61.1 (2017), 177 - 180.
+"Teaching and Researching the History of Medicine in the Era of (Big) Data: Reflections," _Medical History_, 61.4 (2017), 609-11. [with Jeffrey S. Reznick] [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5629600/)
+
+"Data, Humanities and the History of Medicine: New Pedagogical Approaches," _Medical History_, 61.1 (2017), 177-180. [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5206956/)
+
+"Teaching and Researching the History of Medicine in the Era of (Big) Data: Introduction," _Medical History_, 61.1 (2017), 176. [with Jeffrey S. Reznick] [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5206934/)
 
 "New Forms of History: Critiquing Data and Its Representations," _The American Historian_ 7 (2016): 31-36. [TAH](http://tah.oah.org/february-2016/new-forms-of-history-critiquing-data-and-its-representations/)
 
