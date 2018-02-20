@@ -93,7 +93,7 @@ For today (as last time), everyone will write a comment-type post that addresses
 
 You don't have to give each question equal attention (you might prefer to focus on one or two), but be sure that you at least touch on each question.
 
-Remember, don't make your thesis too vague, like "history and sociology are different." In this case, you should make a more specific argument about _how_ they are different. Of course, you can argue whatever you want.
+Remember, don't make your thesis too vague, like 'history and sociology are different.' In this case, you should make a more specific argument about _how_ they are different. Of course, you can argue whatever you want.
 
 Lastly, as much as you can, draw in previous readings and historiographical ideas to support your argument. Now that we've got a few weeks of readings under our belts, such synthetic work is now required for top scores on your assignments.
 "%}
