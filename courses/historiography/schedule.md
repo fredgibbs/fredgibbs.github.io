@@ -104,6 +104,15 @@ More broadly, remember that each type of response should reflect your engagement
 
 ### 26: A 20th-century overview
 * _FHTH_, "Glorious Confusion", 127-65.
+{% include alert.html class='warning' title='New Summary Assignment' text="
+
+- For today, everyone will write a summary post (of the whirlwind Popkin chapter) that highlights the key historiographical changes in the second half of the 20th century. Be comprehensive (as a good summary is) AND selective (as a good summary is).
+
+- Explain very briefly (as you have been doing in summaries previously), **why and how** the change is significant. Unlike last time, you DO NOT need to explicitly cite previous readings, but when you're explaining why something is significant, you'll do well to mention how it's deviating from historiographical tradition.
+
+- Its very important to keep your writing both informal and sharp! (he he)
+"%}
+
 
 ### 28: Quantitative History
 * _Houses_, "Quantitative History", 141-50; skim 151-71.
