@@ -166,7 +166,7 @@ More broadly, remember that each type of response should reflect your engagement
 ### 19: Intro to Postmodernism
 * _Houses_, "The challenge of postmodernism/poststructuralism", 297-306; 308-25.
 
-{% include alert.html class='warning' title='Glorious Revisions' text="
+{% include alert.html class='info' title='Glorious Revisions' text="
 
 - Review everyone else's summaries posted for February 26th. Pay attention to bullet length, formatting, how ideas are described and paraphrased, citations, etc.
 - REVISE your own summary to improve any aspect you find lacking (add points important points you missed, tighten prose, improve formatting, etc)
