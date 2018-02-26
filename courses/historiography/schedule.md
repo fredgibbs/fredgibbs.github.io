@@ -118,6 +118,14 @@ More broadly, remember that each type of response should reflect your engagement
 * _Houses_, "Quantitative History", 141-50; skim 151-71.
 * Margo Anderson, "Qualitative History", 246-59.
 
+{% include alert.html class='warning' title='Discussion prep' text="
+
+- Come to class prepared to discuss whether quantitative history has a more rosy future (as claimed on p. 258) in 2018 than it did in 2007 (when Outwaite was writing) or in 1967 (after initial forays into cliometrics).
+
+- **There is nothing to post for today, but BE SURE you are ready to contribute to class discussion.**
+
+"%}
+
 
 
 ## 8: Micro/Macro Histories
@@ -126,9 +134,26 @@ More broadly, remember that each type of response should reflect your engagement
 * Georg Iggers, "From Macro- to Microhistory: The History of Everyday Life", 101-117.
 * _Houses_, "Anthropology and ethnohistorians", 172-203.
 
+{% include alert.html class='warning' title='Questions Abound' text="
+
+- Everyone is the question group for today.
+- Prepare a set of questions (per usual question guidelines) that explores the historiographical precedents for (and therefore the novelty of) macrohistory and ethnohistories (not that they are the same thing) as developed in the later 20th century.
+- **You should draw and cite from previous readings.**
+"%}
+
+
 ### 7: Historical Significance
 * Kieran Healy, "Fuck nuance", 1-13.
 * Langdon Winner, "Do artifacts have politics?", 121-35.
+
+{% include alert.html class='warning' title='Discussion prep' text="
+
+- Come to class prepared to discuss the following two questions (one from each reading):
+  - Besides making for a good story, is there significant value in historical work that simply adds nuance to widely accepted understandings of the past?
+  - Can history can really be about artifacts rather than the people that make them or are affected by them?
+- **There is nothing to post for today, but BE SURE you are ready to contribute to class discussion.**
+
+"%}
 
 
 
@@ -139,7 +164,17 @@ More broadly, remember that each type of response should reflect your engagement
 ## 10: De-centerings
 
 ### 19: Intro to Postmodernism
-* _Houses_, "The challenge of postmodernism/poststructuralism", 297-325.
+* _Houses_, "The challenge of postmodernism/poststructuralism", 297-306; 308-25.
+
+{% include alert.html class='warning' title='Glorious Revisions' text="
+
+- Review everyone else's summaries posted for February 26th. Pay attention to bullet length, formatting, how ideas are described and paraphrased, citations, etc.
+- REVISE your own summary to improve any aspect you find lacking (add points important points you missed, tighten prose, improve formatting, etc)
+- ADD 1-3 bullets at the end that describe your changes.
+- Everyone should have a 10 at this point; make sure you can justify that your summary is as good as anyone's.
+- There is nothing to post specifically on the readings for today, but BE SURE you are ready to discuss how the historiographical changes in your summaries reflect the notion of postmodernism.**
+"%}
+
 
 ### 21: Discursive History
 * Foucault, _Archeology of Knowledge_, 21-39.
