@@ -87,7 +87,7 @@ More broadly, remember that each type of response should reflect your engagement
 ### 21: Sociology
 * _Houses_, "Historical sociology", 110-140.   
 
-{% include alert.html class='warning' title='New Comment Assignment' text="
+{% include alert.html class='info' title='New Comment Assignment' text="
 
 - For today (as last time), everyone will write a comment-type post that addresses the following questions: What are the crucial differences between history and sociology? What are the strengths and weaknesses of each? Is it possible to combine them, or are they incompatible systems? How does the excerpt in _Houses_ for this week provide any insight into these questions?
 
@@ -104,7 +104,7 @@ More broadly, remember that each type of response should reflect your engagement
 
 ### 26: A 20th-century overview
 * _FHTH_, "Glorious Confusion", 127-65.
-{% include alert.html class='warning' title='New Summary Assignment' text="
+{% include alert.html class='info' title='New Summary Assignment' text="
 
 - For today, everyone will write a summary post (of the whirlwind Popkin chapter) that highlights the key historiographical changes in the second half of the 20th century. Be comprehensive (as a good summary is) AND selective (as a good summary is).
 
@@ -118,7 +118,7 @@ More broadly, remember that each type of response should reflect your engagement
 * _Houses_, "Quantitative History", 141-50; skim 151-71.
 * Margo Anderson, "Qualitative History", 246-59.
 
-{% include alert.html class='warning' title='Discussion prep' text="
+{% include alert.html class='info' title='Discussion prep' text="
 
 - Come to class prepared to discuss whether quantitative history has a more rosy future (as claimed on p. 258) in 2018 than it did in 2007 (when Outwaite was writing) or in 1967 (after initial forays into cliometrics).
 
@@ -134,7 +134,7 @@ More broadly, remember that each type of response should reflect your engagement
 * Georg Iggers, "From Macro- to Microhistory: The History of Everyday Life", 101-117.
 * _Houses_, "Anthropology and ethnohistorians", 172-203.
 
-{% include alert.html class='warning' title='Questions Abound' text="
+{% include alert.html class='info' title='Questions Abound' text="
 
 - Everyone is the question group for today.
 - Prepare a set of questions (per usual question guidelines) that explores the historiographical precedents for (and therefore the novelty of) macrohistory and ethnohistories (not that they are the same thing) as developed in the later 20th century.
@@ -146,7 +146,7 @@ More broadly, remember that each type of response should reflect your engagement
 * Kieran Healy, "Fuck nuance", 1-13.
 * Langdon Winner, "Do artifacts have politics?", 121-35.
 
-{% include alert.html class='warning' title='Discussion prep' text="
+{% include alert.html class='info' title='Discussion prep' text="
 
 - Come to class prepared to discuss the following two questions (one from each reading):
   - Besides making for a good story, is there significant value in historical work that simply adds nuance to widely accepted understandings of the past?
@@ -172,7 +172,9 @@ More broadly, remember that each type of response should reflect your engagement
 - REVISE your own summary to improve any aspect you find lacking (add points important points you missed, tighten prose, improve formatting, etc)
 - ADD 1-3 bullets at the end that describe your changes.
 - Everyone should have a 10 at this point; make sure you can justify that your summary is as good as anyone's.
-- There is nothing to post specifically on the readings for today, but BE SURE you are ready to discuss how the historiographical changes in your summaries reflect the notion of postmodernism.**
+- There is nothing to post specifically on the readings for today, but:
+  - BE READY to discuss how the historiographical changes in your summaries reflect the notion of postmodernism.
+  - BE READY to discuss how the excerpt embodies (or doesn't) a postmodernist approach to historical writing.
 "%}
 
 
