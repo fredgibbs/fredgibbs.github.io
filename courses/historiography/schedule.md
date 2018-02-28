@@ -132,7 +132,7 @@ More broadly, remember that each type of response should reflect your engagement
 
 ### 5: Historical Scales
 * Georg Iggers, "From Macro- to Microhistory: The History of Everyday Life", 101-117.
-* _Houses_, "Anthropology and ethnohistorians", 172-203.
+* _Houses_, "Anthropology and ethnohistorians", 172-180; 183-203 (skim).
 
 {% include alert.html class='warning' title='Quantitative History' text="
 - Remember that we'll dedicate half of class to discussing quantitative history, based on the question posed for last time, especially noting pros and cons of such an approach.
