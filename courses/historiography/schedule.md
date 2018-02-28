@@ -134,6 +134,15 @@ More broadly, remember that each type of response should reflect your engagement
 * Georg Iggers, "From Macro- to Microhistory: The History of Everyday Life", 101-117.
 * _Houses_, "Anthropology and ethnohistorians", 172-203.
 
+{% include alert.html class='warning' title='Quantitative History' text="
+- Remember that we'll dedicate half of class to discussing quantitative history, based on the question posed for last time, especially noting pros and cons of such an approach.
+- More specifically, be prepared to discuss the following:
+  - Is history well served by models? (also: do you need math to have models?)
+  - Will all history gradually become quantitative history (as most sources become born-digital or digitized)?  
+  - Is quantitative history fundamentally different from “regular” history?
+"%}
+
+
 {% include alert.html class='info' title='Questions Abound' text="
 
 - Everyone is the question group for today.
