@@ -120,7 +120,7 @@ More broadly, remember that each type of response should reflect your engagement
 
 {% include alert.html class='info' title='Discussion prep' text="
 
-- Come to class prepared to discuss whether quantitative history has a more rosy future (as claimed on p. 258) in 2018 than it did in 2007 (when Outwaite was writing) or in 1967 (after initial forays into cliometrics).
+- Come to class prepared to discuss whether quantitative history has a more rosy future (as claimed on p. 258) in 2018 than it did in 2007 (when Anderson was writing) or in 1967 (after initial forays into cliometrics).
 
 - **There is nothing to post for today, but BE SURE you are ready to contribute to class discussion.**
 
