@@ -191,6 +191,11 @@ More broadly, remember that each type of response should reflect your engagement
 * Foucault, _Archeology of Knowledge_, 21-39.
 * Foucault, _The Birth of the Clinic_, 3-20.
 
+{% include alert.html class='info' title='WTF' text="
+Everyone is a commenter for today, and you need to answer two questions to which you should devote roughly equal space:
+1. Tranlsate Foucault's main points (readers choice!) into clear and concise language.
+2. What did you find most interesting about the selections, **and Why**? Note that what you found most interesting may or may not be what you consider the main point.
+"%}
 
 
 ## 11: Histories of Others
