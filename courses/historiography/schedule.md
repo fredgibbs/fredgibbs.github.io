@@ -205,6 +205,10 @@ Everyone is a commenter for today, and you need to answer two questions to which
 * Henrietta Whiteman, "White Buffalo Woman" \[= _Houses_, 288-96] (skim).
 * Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?", 1-27.
 
+{% include alert.html class='info' title='post-WTF rest' text="
+No postings for today. Focus your efforts on coming up with questions and comments (for discussion, not for posting) on the readings (esp Chakrabarty). "
+%}
+
 ### 28: Gender Histories
 * _Houses_, "Gender History", 253-62.
 * Catherine Hall, "Gender Division and Class Formation in the Birmingham Middle Class, 1780-1850" [= _Houses_, 263-76].
