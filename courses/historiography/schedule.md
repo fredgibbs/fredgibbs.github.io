@@ -215,7 +215,7 @@ No postings for today. Focus your efforts on coming up with questions and commen
 * Joan Scott, "Gender: A Useful Category of Historical Analysis", 1053-1075.
 
 {% include alert.html class='info' title='postmodernism so far' text="
-Write a comment (400-500 words) about your take on postmodern history, reflecting on everything we've read since Spring Break. If you are at a loss for an idea: write about whether postmodern history constitutes a historiographical paradigm shift. Are late twentieth-century ways of writing about history that we've discussed a "rupture" from previous historiographies? Or are they more on a continuum of historiographical change. Be interesting. 
+Write a comment (400-500 words) about your take on postmodern history, reflecting on everything we've read since Spring Break. Write/focus on whatever you like, but I hope you will provide at least rough answers to the following: how have our readings affected the way you think about history? Does postmodern history constitute a historiographical paradigm shift? In other words: Are late twentieth-century ways of writing about history that we've discussed a "rupture" from previous historiographies? Or are they more on a continuum of historiographical change. Be interesting. 
 "%}
 
 
