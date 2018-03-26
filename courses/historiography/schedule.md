@@ -193,7 +193,7 @@ More broadly, remember that each type of response should reflect your engagement
 
 {% include alert.html class='info' title='WTF' text="
 Everyone is a commenter for today, and you need to answer two questions to which you should devote roughly equal space:
-1. Tranlsate Foucault's main points (readers choice!) into clear and concise language.
+1. Translate Foucault's main points (readers choice!) into clear and concise language.
 2. What did you find most interesting about the selections, **and Why**? Note that what you found most interesting may or may not be what you consider the main point.
 "%}
 
@@ -214,6 +214,9 @@ No postings for today. Focus your efforts on coming up with questions and commen
 * Catherine Hall, "Gender Division and Class Formation in the Birmingham Middle Class, 1780-1850" [= _Houses_, 263-76].
 * Joan Scott, "Gender: A Useful Category of Historical Analysis", 1053-1075.
 
+{% include alert.html class='info' title='postmodernism so far' text="
+Write a comment (400-500 words) about your take on postmodern history, reflecting on everything we've read since Spring Break. If you are at a loss for an idea: write about whether postmodern history constitutes a historiographical paradigm shift. Are late twentieth-century ways of writing about history that we've discussed a "rupture" from previous historiographies? Or are they more on a continuum of historiographical change. Be interesting. 
+"%}
 
 
 
