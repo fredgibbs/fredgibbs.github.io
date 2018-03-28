@@ -233,6 +233,7 @@ We have decided, in lieu of each student writing a final paper, to compile a his
 
 {% include alert.html class='info' title='For Monday Apr 2' text="
 1) Write a short paragraph about what historiographical topic you're interested in writing about and the themes you plan to address. Put these in the essays/abstracts folder on GitHub [[here](https://github.com/unm-historiography/2018-spring/tree/master/essays/abstracts)]
+
 2) Post 3 items of interest from the _Narrative and History_ assignment in the [narrative1 folder](https://github.com/unm-historiography/2018-spring/tree/master/narrative1). These can be questions, ideas you find inspiring, or ideas you think are dumb. Whatever. These will help facilitate our discussion of the significance of narrative. **AS ALWAYS: even though your written assignment is minimal, I expect you to show your mastery of the reading assignment in the discussion.** The longer posts help me know if you're doing the reading, but now that burden shifts to your discussion performance. Be ready!!
 
 Each will be graded on a 0-3 scale (kind of like bonus points, which can mean the difference between two grades, so take them seriously).
