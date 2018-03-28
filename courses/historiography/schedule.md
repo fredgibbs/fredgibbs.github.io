@@ -226,6 +226,19 @@ _NAH_, "Introduction", 1-15.
 _NAH_, "Narrating the Past", 16-28.
 _NAH_, "History as Content/Story", 29-43.
 
+
+{% include alert.html class='warning' title='paradigm shift!' text="
+We have decided, in lieu of each student writing a final paper, to compile a historiography text for this course. Over the remaining weeks, each student will produce at least a 1500-word essay on a historiographical topic of their choice (in coordination with everyone else for broad coverage). You will begin your research with existing readings from the course, and also consult the literature cited in the notes and suggested reading sections of the texts. The schedule for the production of these essays will be added to the syllabus before class.
+"%}
+
+{% include alert.html class='warning' title='For Monday Apr 2' text="
+1) Write a short paragraph about what historiographical topic you're interested in writing about and the themes you plan to address. Put these in the essays/abstracts folder on GitHub [[here](https://github.com/unm-historiography/2018-spring/tree/master/essays/abstracts)]
+2) Post 3 items of interest from the _Narrative and History_ assignment in the [narrative1 folder](https://github.com/unm-historiography/2018-spring/tree/master/narrative1). These can be questions, ideas you find inspiring, or ideas you think are dumb. Whatever. These will help facilitate our discussion of the significance of narrative. **AS ALWAYS: even though your written assignment is minimal, I expect you to show your mastery of the reading assignment in the discussion.** The longer posts help me know if you're doing the reading, but now that burden shifts to your discussion performance. Be ready!!
+
+Each will be graded on a 0-3 scale (kind of like bonus points, which can mean the difference between two grades, so take them seriously).
+"%}
+
+
 ### 4: Narrative Baggage
 _NAH_, "Narrating and Narration", 44-79.
 
