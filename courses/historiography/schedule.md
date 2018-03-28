@@ -222,9 +222,9 @@ Write a comment (400-500 words) about your take on postmodern history, reflectin
 
 ## 12: Narrative and History 1
 ### 2: The imperative of Narrative
-_NAH_, "Introduction", 1-15.
-_NAH_, "Narrating the Past", 16-28.
-_NAH_, "History as Content/Story", 29-43.
+* _NAH_, "Introduction", 1-15.  
+* _NAH_, "Narrating the Past", 16-28.  
+* _NAH_, "History as Content/Story", 29-43.  
 
 
 {% include alert.html class='warning' title='paradigm shift!' text="
