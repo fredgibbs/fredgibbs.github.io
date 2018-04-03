@@ -241,54 +241,106 @@ Each will be graded on a 0-3 scale (kind of like bonus points, which can mean th
 
 
 ### 4: Narrative Baggage
-_NAH_, "Narrating and Narration", 44-79.
+* _NAH_, "Narrating and Narration", 44-79.
+* _NAH_, "The Past, the Fact, and History", 80-93.
 
+
+{% include alert.html class='warning' title='paradigm shift!' text="
+The general plan for the semester has shifted to completing and discussing our readings mostly on Wednesday, and using Monday to complete and discuss assignments related to your _final essay_. This means abnormally large reading assignments for Wednesday, but of course you'll start reading these much earlier than you might otherwise.
+"%}
+
+
+{% include alert.html class='info' title='Read Only Memory' text="
+**No GitHub post for today**, although I expect our usual quality of discussion and participation. No regrets!
+"%}
 
 
 
 ## 13: Narrative and History 2
 
-### 9: The Past and History
-_NAH_, "The Past, the Fact, and History", 80-93.
-_NAH_, "Understanding [in] History", 94-110.
+### 9: Holy Outlines Batman!
+{% include alert.html class='info' title='Essay Outlines' text="
+For today, post a COMPLETE outline for your essay. With no reading assignment, this is obviously your focus, so DO IT WELL and save everyone (including your future self) headaches later.
+
+Your outline should use _topic points [= bullet points]_ as we have been practicing with previous assignments.
+>Note: I'm trying to eliminate gun/violence metaphors from my writing, so please pardon the following awkwardness in terminology. But notice that bullets are called that because they are short, to-the-point, and make an impact. Which should still be true for your topic points.
+
+Your outline will be gradually expanded into your essay, so the better the topic points--WHICH WILL BECOME PARAGRAPHS LATER--the easier time you will have shifting your essay from topics (ideas) into prose (narrative).
+
+Your topic points should include the crucial [look! emplotment!!] explanations for what's significant about what you're talking about--especially how it deviated from previous historiography at the time and its legacy.
+
+### THESE ARE WORKING NOTES
+As such, ask questions, makes notes to yourself and your colleagues (who will review your work later).
+
+### DON'T FORGET CITATIONS
+If you just write stuff down and don't bother citing where you found it, you will have to eventually hunt down all the page numbers and THAT'S A HUGE WASTE OF TIME. As someone who has wasted considerable time on just that, please take my advice: take time to make accurate references THE FIRST TIME.
+"%}
+
+
 
 ### 11: Beyond Narrative
-_NAH_, "The Oar in Water", 111-122.
-_NAH_, "Conclusion", 123-129.
-
+* _NAH_, "Understanding [in] History", 94-110.
+* _NAH_, "The Oar in Water", 111-122.
+* _NAH_, "Conclusion", 123-129.
 
 
 
 ## 14: What is History For? 1
-### 16: Why do we study history?
-* _WIHF?_, "History for its own sake", 10-30.
-* _WIHF?_, "Professed purposes", 31-58.
+### 16: Hello Paragraphs
+{% include alert.html class='info' title='Expand Topic Points ' text="
+Two steps for this assignment:
+
+1) Improve your topic points according to feedback
+
+2) Make them paragraphs (add/delete/combine as need be)
+
+#### Be sure your paragraphs have an expressed purpose, contribute to your argument, and cite adequate sources.
+
+"%}
+
 
 
 ### 18: Historic Motivations
+* _WIHF?_, "History for its own sake", 10-30.
+* _WIHF?_, "Professed purposes", 31-58.
 * _WIHF?_, "Hidden agendas", 59-84.
 
 
-
-
 ## 15:  What is History For? 2
-### 23: Postmodern History 1
+### 23: Peer Essay Review
+{% include alert.html class='info' title='Review Criteria' text="
+You'll be paired up with TWO colleagues to review their work and offer critiques.
+
+COMMENTS: Your assignment is to offer review criticism for your colleagues. By embedding comments in the GitHub posts, offer suggestions on the following topics (a list of your own suggestions from April 2):
+
+- displays of overt bias
+- clearly stated argument
+- evidence clearly tied to argument
+- copious empirical sources
+- quality of citations
+- grammar, attention to detail
+- credibility
+- audience
+- framing (intro and conclusions)
+- originality, new perspective
+- engagement with historical discourse (secondary literature)
+"%}
+
+
+### 25: Postmodern History Again
 * _WIHF?_, "Life and needs in Postmodernity", 85-106.
 * _WIHF?_, "Histories in Postmodernity", 107-32.
-
-### 25: Postmodern History 2
 * _WIHF?_, "Histories for Postmodernity", 133-53.
-
-
 
 
 ## 16: Looking Forward and Back
 ### 30: Futures of History
+* We'll discuss your essays.
+
+### 2: Closing Remarks
 * _FHTH_, "History in a new millennium", 166-85.
-
-### 2: Conclusions and Hints for the Final
-* No readings!
-
+* Wrap-up comments
+* Evaluations
 
 
 ## All course work due by May 11!
