@@ -269,6 +269,8 @@ Your outline will be gradually expanded into your essay, so the better the topic
 
 Your topic points should include the crucial [look! emplotment!!] explanations for what's significant about what you're talking about--especially how it deviated from previous historiography at the time and its legacy.
 
+Put your outlines in the [essays/outlines folder](https://github.com/unm-historiography/2018-spring/tree/master/essays/outlines)
+
 ### START BUILDING YOUR ZOTERO LIBRARY
 For more instructions on what to do, [watch this](https://www.youtube.com/watch?v=yD8_6MZFI8c&feature=youtu.be).
 
