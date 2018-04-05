@@ -269,6 +269,9 @@ Your outline will be gradually expanded into your essay, so the better the topic
 
 Your topic points should include the crucial [look! emplotment!!] explanations for what's significant about what you're talking about--especially how it deviated from previous historiography at the time and its legacy.
 
+### START BUILDING YOUR ZOTERO LIBRARY
+For more instructions on what to do, [watch this](https://www.youtube.com/watch?v=yD8_6MZFI8c&feature=youtu.be).
+
 ### THESE ARE WORKING NOTES
 As such, ask questions, makes notes to yourself and your colleagues (who will review your work later).
 
