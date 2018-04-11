@@ -291,7 +291,19 @@ If you just write stuff down and don't bother citing where you found it, you wil
 
 
 ## 14: What is History For? 1
-### 16: Hello Paragraphs
+### 16: Historic Motivations
+* _WIHF?_, "History for its own sake", 10-30.
+* _WIHF?_, "Professed purposes", 31-58.
+* _WIHF?_, "Hidden agendas", 59-84.
+
+{% include alert.html class='warning' title='Switched assignments' text="
+Please note that we (per class consensus) have flipped the assignments due today and Wednesday. They are otherwise unaltered.
+"%}
+
+
+
+### 18:
+Hello Paragraphs
 {% include alert.html class='info' title='Expand Topic Points ' text="
 Two steps for this assignment:
 
@@ -302,13 +314,6 @@ Two steps for this assignment:
 #### Be sure your paragraphs have an expressed purpose, contribute to your argument, and cite adequate sources.
 
 "%}
-
-
-
-### 18: Historic Motivations
-* _WIHF?_, "History for its own sake", 10-30.
-* _WIHF?_, "Professed purposes", 31-58.
-* _WIHF?_, "Hidden agendas", 59-84.
 
 
 ## 15:  What is History For? 2
