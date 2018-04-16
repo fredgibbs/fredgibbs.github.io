@@ -302,8 +302,8 @@ Please note that we (per class consensus) have flipped the assignments due today
 
 
 
-### 18:
-Hello Paragraphs
+### 18: Hello Paragraphs
+
 {% include alert.html class='info' title='Expand Topic Points ' text="
 Two steps for this assignment:
 
@@ -315,9 +315,29 @@ Two steps for this assignment:
 
 "%}
 
+{% include alert.html class='danger' title='Bring Paper Copies' text="
+We'll be doing a peer review session with your essays, so please bring TWO HARD COPIES of your essay to class, DOUBLE-SPACED!
+"%}
+
+
 
 ## 15:  What is History For? 2
-### 23: Peer Essay Review
+### 23: Postmodern History Again
+* _WIHF?_, "Life and needs in Postmodernity", 85-106.
+
+{% include alert.html class='info' title='First Revision' text="
+Revise your essays according to peer feedback.
+"%}
+
+
+
+### 25: Peer Essay Review
+* _WIHF?_, "Histories in Postmodernity", 107-32.
+* _WIHF?_, "Histories for Postmodernity", 133-53.
+
+
+## 16: Looking Forward and Back
+### 30: Futures of History
 {% include alert.html class='info' title='Review Criteria' text="
 You'll be paired up with TWO colleagues to review their work and offer critiques.
 
@@ -336,16 +356,6 @@ COMMENTS: Your assignment is to offer review criticism for your colleagues. By e
 - engagement with historical discourse (secondary literature)
 "%}
 
-
-### 25: Postmodern History Again
-* _WIHF?_, "Life and needs in Postmodernity", 85-106.
-* _WIHF?_, "Histories in Postmodernity", 107-32.
-* _WIHF?_, "Histories for Postmodernity", 133-53.
-
-
-## 16: Looking Forward and Back
-### 30: Futures of History
-* We'll discuss your essays.
 
 ### 2: Closing Remarks
 * _FHTH_, "History in a new millennium", 166-85.
