@@ -1,51 +1,39 @@
 ---
 layout: syllabus
-title: Digital Futures of History
-term: Fall 2017
-number: HIST 300-018
+title: National Historic Trails
+term: Fall 2018
+number: HIST 300-0??
 section: home
 ---
 
 ## Logistics
-- TH 3:30 - 4:45 @ 214 Mitchell
+- MWF 9:00 - 9:50
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
-- Office Hours: T 2-3; Th 10-11
+- Office Hours: TBA
 
 ## Course Description
-This interdisciplinary course explores the effects of the digital age on producing and consuming history. Some guiding questions:
-
-- How are historians adapting research and publication practices to use digitized archives and historical data?
-- How does technology shape our access to the past?
-- How does the Web change the kinds and forms of history that should be produced?
-- How does the Web (and resources like Wikipedia) change perceptions of history?
-- How can historians engage with these methods to improve information literacy?
-
-
-In addressing these questions, we'll draw from contemporary readings in history, public history, historiography, digital humanities, literary studies, media studies, and library and museum studies. Along with our readings, we will investigate a variety of digital history, archival, and journalistic projects that feature various digital methods (such as text analysis, mapping, data visualization, and so on). We’ll critique the various facets of these projects (data, design, interface, utility, etc.) to understand the technologies and data involved. Based on this work, we’ll collaboratively design and publish a website that showcases our rigorous reviews of these digital projects.
+While national parks may grab the headlines, the national historic trails have perhaps even more directly shaped the development of American history and national identities by cultivating migration, trade, community identity, ethnic diversity, and environmental change. This multidisciplinary course (drawing from history, geography, archeology, anthropology, literature, and many others) will provide an introduction to the study, interpretation, and significance of the National Historic Trails System, including the challenges faced by the National Park Service (NPS) in administering them; a significant portion of the course will also engage students as core contributors to new and ongoing research projects at the National Trails Intermountain Region Office. As preparation for research projects, course readings will address theoretical work in the spatial humanities, general themes pertinent to historic trails, and more in-depth studies of particular trails. Students will gain fluency with primary sources, maps, and recent scholarship. Throughout the course we'll also discuss broad questions about historic preservation: What constitutes a historic trail? How does a historic trail retain cultural significance? What are the challenges and strategies in communicating about the trails to a 21st-century audience? Are there modern day equivalents of the original historic trails? How can trails reveal new perspectives on overland migration generally? Studying the National Historic Trails as conduits for cultural exchange provides a fresh take on the American experience.
 
 
 ## Student Learning Outcomes
-- Think critically about how history is produced, disseminated, and consumed in the digital age.
-- Appreciate the theoretical possibilities and practical limitations of digital archives and new research and publishing technologies.
-- Begin to experiment with new tools, workflows, methods, and techniques for large-scale research questions in history.
+- Provide training relevant to careers in the humanities, historical interpretation, museum studies, and public history.
+- Use Native, environmental, and spatial history to highlight historic trails as crucial parts of our national heritage.
+- Establish the importance of historic trails in reevaluating the American frontier.
+- Examine historic trails as under-appreciated linkages between vastly different nations and ecosystems.
+- Mesh current historic, anthropological, and environmental research with the National Park Service's time-honored mandate to preserve and interpret public lands.
+- Learn to think about theoretical and practical issues surrounding interpretation and administration of national historic trails.
+- Integrate students with ongoing research projects at the National Trails Intermountain Region Office.
 
+
+## Course Structure
+The course will be divided roughly in half. The first segment provides a multi-faceted and thematic view about understanding the history of national trails. The second section develops core research skills while engaging with an ongoing NPS trails research projects. Towards the end of the first segment, we will start to develop and coordinate research projects in conjunction with the National Trails Intermountain Region Office (based in Santa Fe, but with an office at UNM). Various deliverables and deadlines will be established throughout the second segment. All work will be due by the final exam date.
 
 ## Work Requirements and Grading
-- Thorough preparedness and engaged participation in most every class meeting. This is a class that's focused on discussing and making things, not just memorizing and regurgitating a historical narrative. (35%)
-- Spatial history research project (15%)
-- 2 ~750-word critiques of digital history/humanities projects (20%)
-- 2 Peer critiques (of the above critiques) (10%)
-- 2 ~5-minute video website reviews. We'll spend time in class discussing how to make these. But yes, they are videos, not written reviews. (20%)
+Preparation for each class meeting and active participation in the class discussions
+Completion of research project, including completing various components of the projects at deadlines throughout the semester.
 
-While I try to provide feedback throughout the semester, particularly on the various assignments, I heartily encourage you to speak with me at any time to learn what I think of your performance in the class and how it can be improved (if at all).
+- To access all other articles and book chapters on the syllabus, you will need to subscribe to the course Zotero library. Please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library is [https://www.zotero.org/groups/632527/items](https://www.zotero.org/groups/632527/items), but you must have clicked on the link in your invitation to access the library!
 
 
-## Books
-The following books are required for the course, but they are not available at UNM bookstore. They are widely available online in whatever condition you desire.
-
-- Keith Jenkins, _Rethinking History_ 3rd. ed. ISBN: 978-0415304436 [amazon](https://www.amazon.com/Rethinking-History-Routledge-Classics-96/dp/0415304431/ref=sr_1_1?ie=UTF8&qid=1483304717).
-- Ellen Lupton, _Thinking with Type_ 2nd. ed. ISBN: 978-1568989693 [amazon](https://www.amazon.com/Thinking-Type-2nd-revised-expanded/dp/1568989695).
-
-Note that there is a [Thinking with Type website](http://thinkingwithtype.com), but it DOES NOT substitute for the book itself, which has a tremendous amount of essential content that the website does not (not surprisingly). Browse the website if you'd like (it's nicely done), but READ THE BOOK.
-
-You will also need to subscribe to the course Zotero library to access assigned articles. This will be discussed in class, but for reference, please see the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library is [https://www.zotero.org/groups/1647219/digital-futures-unm/items](https://www.zotero.org/groups/1647219/digital-futures-unm/items).
+## Accessibility
+Accessibility Resources Center (Mesa Vista Hall 2021, 277-3506) provides academic support to students who have disabilities. If you think you need alternative accessible formats for undertaking and completing coursework, you should contact this service right away to assure your needs are met in a timely manner.

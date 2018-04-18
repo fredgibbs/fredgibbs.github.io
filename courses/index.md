@@ -5,6 +5,13 @@ title: courses
 
 # Courses
 
+## Summer 2018
+* [History of American Food](american-food)
+
+## Fall 2018
+* National Historic Trails [NEW!]
+* History of Diet and Health (see below for a previous syllabus, although currently undergoing significant revisions)
+
 ## Spring 2018
 * [Historiography](historiography)
 
