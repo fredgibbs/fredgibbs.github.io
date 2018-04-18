@@ -16,7 +16,7 @@ When you think of Mexican food, or Italian, or Chinese, a range of dishes and in
 
 The goal of this course is to see how much fun we can have exploring different perspectives on the concept of national cuisine and American food. Never shall we care about memorizing and regurgitating supposedly important historical "facts".
 
-Each class meeting is 2.5 hours, which is long. So we'll break it up into various activities, including mini-lectures, small and large group discussion of common readings (the books), and primary source analysis (a mix of newspapers, ads, menus, novels, etc), as well as student presentations on select short readings (of your choice) that dive deeper into topics touched on in the books.
+Each class meeting is 2.5 hours, which is long. So we'll break it up into various activities (with breaks), including mini-lectures, small and large group discussion of common readings (the books), and primary source analyses (mixes of newspapers, ads, menus, literature, trade journals), as well as student presentations on select short readings (of your choice) that dive deeper into topics touched on in the books.
 
 Some questions we'll tackle: What have Americans eaten over time? Why? How much have immigration and regionalization mattered? How have food production, technology, and marketing practices changed eating habits? How have dietary and nutritional advice altered perceptions of food and cuisine over the 20th century? How have recent global industrial conglomerates shaped the idea of what constitutes American food? What can the future of American food learn from its past?
 
@@ -30,7 +30,7 @@ Some questions we'll tackle: What have Americans eaten over time? Why? How much 
 
 ## Work Requirements and Grading
 
-### The main work/fun for this class is not in exams or essays or other stuff you might submit for a grade, but rather general engagement in our daily conversation.
+### The main work/fun for this class is not in exams or essays or other stuff you might submit for a grade, but rather general engagement in our daily activities and conversation.
 
 - Thorough preparedness and engaged participation in every class meeting  (50%)
 - Serious effort and on-time completion of the in-class presentations (30%)
@@ -40,7 +40,7 @@ Some questions we'll tackle: What have Americans eaten over time? Why? How much 
 
 
 ## Required Readings
-There's a wacko amount of reading for this course. That's what you get for condensing a semester-long history course into a month. **DO NOT DESPAIR!** The readings are meant for a broad (largely non-academic) audience and therefore quick and engaging reads. Yet they still give us plenty to talk about, especially as we put them in conversation with each other. I have tried to minimize assignments of dense and difficult academic prose, although it's worth pushing ourselves from time to time. It's summer, after all, and the course is designed with that fact in mind.
+There's a significant amount of reading for this course. **DO NOT DESPAIR!** The readings are meant for a broad (largely non-academic) audience and therefore are relatively quick and engaging reads. At the same time, they are smart, articulate, and give us plenty to talk about, especially as we put them in conversation with each other. I have tried to minimize assignments of dense and difficult academic prose, although it's worth pushing ourselves from time to time. It's summer, after all, and the course is designed with that fact in mind.
 
 
 All readings that aren't already online (and some that are) will be available through the class Zotero library. This will be discussed in class, but please note the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library will be posted here eventually.
