@@ -345,11 +345,12 @@ You'll be paired up with ONE colleagues to review their work and offer critiques
 - When you find your essay to review, click the PENCIL ICON (upper right of the text box) to go into editing mode
 - Note within paragraphs problems with clarity or intent
 - Use back tics to indicate your comments \`like this\` when editing, which will look `like this` when the author views it on GitHub
-- Summarize the main points of EACH PARAGRAPH directly below it to tell the author what you thought the main and useful points of the paragraph were. Separate the wheat from the chaff.
+- Summarize the main points of EACH PARAGRAPH directly below it to tell the author what you thought the main and useful points of the paragraph were. **Separate the wheat from the chaff.**
 - **EVERY WORD MATTERS**
+- **NEW IDEA, NEW PARAGRAPH**
 - Note whether the paragraph has a clearly stated purpose and is sufficiently connected to its neighbors
 - Write a few general/overall comments at the end of the essay; keep this minimal as you'll have a chance to chat about these on Monday
-- Complete your reviews by 9AM MONDAY, and look at the comments you receive before class
+- **Complete your reviews by 9AM MONDAY**, and look at the comments you receive before class
 - I will be making general/overall comments at the end of your essays, and, if I can't help myself, notes within paragraphs about problematic claims
 - **This (penultimate) assignment will be graded on the usual 0-10 scale**. I'm looking for the quality of your engagement with the essay. If you're thinking carefully about every sentence, you'll do fine.
 "%}
