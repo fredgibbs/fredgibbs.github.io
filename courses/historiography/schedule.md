@@ -342,6 +342,7 @@ Revise your essays according to peer feedback.
 
 You'll be paired up with ONE colleagues to review their work and offer critiques. Things you need to do, AS DISCUSSED/DEMONSTRATED IN CLASS:
 - FIRST: remember to put a copy of your latest draft in the TO BE REVIEWED folder, which is where you should go to find the essay you will review
+- When you find your essay to review, click the PENCIL ICON (upper right of the text box) to go into editing mode
 - Note within paragraphs problems with clarity or intent
 - Use back tics to indicate your comments \`like this\` when editing, which will look `like this` when the author views it on GitHub
 - Summarize the main points of EACH PARAGRAPH directly below it to tell the author what you thought the main and useful points of the paragraph were. Separate the wheat from the chaff.
