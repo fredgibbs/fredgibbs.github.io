@@ -338,22 +338,18 @@ Revise your essays according to peer feedback.
 
 ## 16: Looking Forward and Back
 ### 30: Futures of History
-{% include alert.html class='info' title='Review Criteria' text="
-You'll be paired up with TWO colleagues to review their work and offer critiques.
+{% include alert.html class='info' title='Review Criteria (REVISED)' text="
 
-COMMENTS: Your assignment is to offer review criticism for your colleagues. By embedding comments in the GitHub posts, offer suggestions on the following topics (a list of your own suggestions from April 2):
-
-- displays of overt bias
-- clearly stated argument
-- evidence clearly tied to argument
-- copious empirical sources
-- quality of citations
-- grammar, attention to detail
-- credibility
-- audience
-- framing (intro and conclusions)
-- originality, new perspective
-- engagement with historical discourse (secondary literature)
+You'll be paired up with ONE colleagues to review their work and offer critiques. Things you need to do, AS DEMONSTRATED IN CLASS:
+- Note within paragraphs problems with clarity or intent
+- Use back tics to indicate your comments \`like this\` when editing, which will look `like this` when the author views it on GitHub
+- Summarize the main points of EACH PARAGRAPH directly below it to tell the author what you thought the main and useful points of the paragraph were. Separate the wheat from the chaff.
+- **EVERY WORD MATTERS**
+- Note whether the paragraph has a clearly stated purpose and is sufficiently connected to its neighbors
+- Write a few general/overall comments at the end of the essay; keep this minimal as you'll have a chance to chat about these on Monday
+- Complete your reviews by 9AM MONDAY, and look at the comments you receive before class
+- I will be making general/overall comments at the end of your essays, and, if I can't help myself, notes within paragraphs about problematic claims
+- **This (penultimate) assignment will be graded on the usual 0-10 scale**. I'm looking for the quality of your engagement with the essay. If you're thinking carefully about every sentence, you'll do fine.
 "%}
 
 
