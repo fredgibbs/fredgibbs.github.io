@@ -39,8 +39,15 @@ Some questions we'll tackle: What have Americans eaten over time? Why? How much 
 - If life gets overwhelming during the course, it can be tempting to drift away from an elective course like this. Rather than disappear, please come talk with me about how we can accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
 
 
-## Required Readings
-There's a significant amount of reading for this course. **DO NOT DESPAIR!** The readings are meant for a broad (largely non-academic) audience and therefore are relatively quick and engaging reads. At the same time, they are smart, articulate, and give us plenty to talk about, especially as we put them in conversation with each other. I have tried to minimize assignments of dense and difficult academic prose, although it's worth pushing ourselves from time to time. It's summer, after all, and the course is designed with that fact in mind.
+## Course Readings
+There's a significant amount of reading for this course. **DO NOT DESPAIR!** The readings are meant for a broad (largely non-academic) audience and therefore are relatively quick and engaging reads. At the same time, they are smart, articulate, and give us plenty to talk about, especially as we put them in conversation with each other. I have tried to minimize assignments of dense and difficult academic prose (although it's worth pushing ourselves from time to time). It's summer, after all. You don't need to read every word carefully to get a lot from these books. These various themes they explore (and how they do it) will provide us with thematic anchors for the course.
 
+A significant component of the course is thinking about and discussing how we can tell very different stories about the history of American food, as exemplified by the course books.
+
+- Donna R. Gabaccia, _We Are What We Eat: Ethnic Food and the Making of Americans, Revised edition_ (Harvard University Press, 2000)
+- Roger Horowitz, _Putting Meat on the American Table: Taste, Technology, Transformation_, (Johns Hopkins University Press, 2005)
+- Jonathan Kauffman, _Hippie Food: How Back-to-the-Landers, Longhairs, and Revolutionaries Changed the Way We Eat_ (William Morrow, 2018)
+- Michael W. Twitty, _The Cooking Gene: A Journey Through African American Culinary History in the Old South_ (Amistad, 2017)
+- Jennifer Jensen Wallach, _How America Eats: A Social History of U.S. Food and Culture_,  (Rowman & Littlefield Publishers, 2014).
 
 All readings that aren't already online (and some that are) will be available through the class Zotero library. This will be discussed in class, but please note the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library will be posted here eventually.
