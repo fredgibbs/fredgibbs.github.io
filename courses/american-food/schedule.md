@@ -157,8 +157,16 @@ Reading assignments will be adjusted as we move along, but the general reading a
 - [The Globalization of “Fast Food”. Behind the Brand: McDonald’s](https://www.globalresearch.ca/the-globalization-of-fast-food-behind-the-brand-mcdonald-s/25309)
 - [Exporting Diabetes to Asia: The Impact of Western-Style Fast Food](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3401093/)
 
+### Corn
+- [Plant-based vs vegan](https://www.foodnavigator-usa.com/Article/2018/04/19/Plant-based-plays-way-better-than-vegan-with-most-consumers-says-Mattson#.Wt33XM5kP-4.twitter)
+- [How corn made its way into just about everything we eat](https://www.washingtonpost.com/news/wonk/wp/2015/07/14/how-corn-made-its-way-into-just-about-everything-we-eat/?utm_term=.e102722b2d64)
+- [Today’s botany lesson: Corn sex](http://apps.washingtonpost.com/g/page/lifestyle/todays-botany-lesson-corn-sex/1770/)
+- [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/)
+
+
 ### American Meat Review
 - What do we make of Horowitz in context of the course? Strengths? Weaknesses? Bias? Omissions?
+- NOTE: This discussion will be VERY useful for your book review assignment due next week.
 
 
 ## Jun 21
@@ -192,11 +200,6 @@ Reading assignments will be adjusted as we move along, but the general reading a
 
 
 ## Jun 25
-### Corn
-- [Plant-based vs vegan](https://www.foodnavigator-usa.com/Article/2018/04/19/Plant-based-plays-way-better-than-vegan-with-most-consumers-says-Mattson#.Wt33XM5kP-4.twitter)
-- [How corn made its way into just about everything we eat](https://www.washingtonpost.com/news/wonk/wp/2015/07/14/how-corn-made-its-way-into-just-about-everything-we-eat/?utm_term=.e102722b2d64)
-- [Today’s botany lesson: Corn sex](http://apps.washingtonpost.com/g/page/lifestyle/todays-botany-lesson-corn-sex/1770/)
-- [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/)
 
 ### Comparative Book Review
 - Kauffman, 131-67 (Tofu)
@@ -231,23 +234,21 @@ Reading assignments will be adjusted as we move along, but the general reading a
 ## Jun 26
 
 ### Research Presentations I
-~4 presentations; 8 min. presentations; 4 min. questions
-
-
+~11 presentations; 8 min. presentations; 4 min. questions
 
 
 
 ## Jun 27
 
 ### Research Presentations II
-~12 presentations; 8 min. presentations; 4 min. questions
+~11 presentations; 8 min. presentations; 4 min. questions
 
 
 
 ## Jun 28
 
 ### Research Presentations III
-~5 presentations; 8 min. presentations; 4 min. questions
+~4 presentations; 8 min. presentations; 4 min. questions
 
 ### Conclusions
 - Course Retrospective

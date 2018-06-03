@@ -50,19 +50,19 @@ This course is a challenge, but I do recognize that it's summer and it should be
 ## Book Reviews
 The main goal of this class is to help us think more critically about food and food history, particularly how it gets represented in the continuous supply of food literature that appears in print (and Amazon search results). We are reading two recent books on the history of American Food (though not advertised in those terms), both of which have been highly critically acclaimed. They couldn't be more different.
 
-One of your assignments will be to provide a standard 750-word review that summarizes the book and analyzes it in context of the course. The books are long (but quick reads), but you don't have to read every page (or even chapter!) to write a highly successful review (at least for our purposes). At least half of each book is required reading in the course, so you'll read the other half on your own.
+One of your assignments will be to provide a 750-word review that summarizes the book and analyzes it in context of the course. The books are long (but quick reads), but you don't have to read every page (or even chapter!) to write a highly successful review (at least for our purposes). At least half of each book is required reading in the course, so you'll read the other half on your own.
 
 ## Research Presentations
 The main goal of this class is to help us think more critically about food and food history, particularly how it appears online, in Google searches for instance, which is how we often find (mis)information quickly. Your research presentations will show you applying the analytical frameworks we learn in this class to a particular topic of your choice (anything vaguely related to food history, even if not American).
 
 The default project is to pick a topic and report on the what you find on the first page of Google (or whatever) search results. Questions you'll answer in your presentations:
 - What common information is repeated across the different sites?
-- Where do the sites diverge?
-- To what extent are the historical claims supported by archival sources? (as opposed to other websites or secondary sources?) Is there any historical evidence provided?
+- Where do the sites diverge? Or contradict each other?
+- To what extent are the historical claims supported by archival sources? (as opposed to other websites or secondary sources?) Do they provide any historical evidence?
 - Do the sites give you any reason to take them seriously? Why are they talking about the topic?
-- What ways of thinking about the history are missing from the sites you consult?
+- What ways of thinking about food history are missing?
 
-Everyone needs to do a presentation, but if you're really excited about another kind of project that you can present on, and that can show you applying the class to writing about food, talk to me about it. I'm very flexible provided that you can fulfill the same aims of the assignment (and share with classmates).
+Everyone needs to do a presentation, but if you're really excited about another kind of project that you can present to the class, and that can show you applying the class to writing about food, PLEASE talk to me about it. I'm very flexible provided that you can fulfill the same aims of the assignment (and share with classmates).
 
 
 ## Course Readings
@@ -71,5 +71,3 @@ Everyone needs to do a presentation, but if you're really excited about another 
 - Jonathan Kauffman, _Hippie Food: How Back-to-the-Landers, Longhairs, and Revolutionaries Changed the Way We Eat_ (William Morrow, 2018)
 - Michael W. Twitty, _The Cooking Gene: A Journey Through African American Culinary History in the Old South_ (Amistad, 2017)
 - Jennifer Jensen Wallach, _How America Eats: A Social History of U.S. Food and Culture_,  (Rowman & Littlefield Publishers, 2014).
-
-All readings that aren't already online (and some that are) will be available through the class Zotero library. This will be discussed in class, but please note the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library will be posted here eventually.
