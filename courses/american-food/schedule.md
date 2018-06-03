@@ -91,16 +91,19 @@ Reading assignments will be adjusted as we move along, but the general reading a
 - Compare two from [here](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis)
   - Hint: spend some time finding a good pair!
 
+### Note assignment due next Friday!
 
 
 
 ## Jun 12
 
 ### Immigration
-  - Gabbacia, 36-63 (Immigration, Isolation, Industry).
-  - Wallach, 57-87 (Expansion and Immigration).
-  - Twitty, Chapters 5 (Missing Pieces), 81-89; and 8 (0.01 Percent), 119-139.
-  - Twitty, Chapters 9 (Sweet Tooth), 141-159.
+- Gabbacia, 36-63 (Immigration, Isolation, Industry).
+- Wallach, 57-87 (Expansion and Immigration).
+
+### Genealogy
+- Twitty, Chapters 5 (Missing Pieces), 81-89; and 8 (0.01 Percent), 119-139.
+- Twitty, Chapters 9 (Sweet Tooth), 141-159.
 
 
 
@@ -119,8 +122,8 @@ Reading assignments will be adjusted as we move along, but the general reading a
 - Wallach, 143-67 (Pious and Patriotic Stomach).
 - Gabaccia, 122-48 (American Values).
 - Charlotte Biltekoff, _Eating Right in America_, 1-11 (Cultural Politics); 13-44 (Scientific Moralization).
+- Wilbur Atwater, "Chemistry, Foods, Nutrition" (1887), 59-74. [PDF](readings/chemistry-food-nutrition.pdf).
 
-- DUE: Cookbook comparisons (to be presented in class): Compare approaches of any two modern cookbooks.
 
 
 
@@ -128,6 +131,8 @@ Reading assignments will be adjusted as we move along, but the general reading a
 ## Jun 18
 
 ### Food Will Win the War
+- DUE: Cookbook comparisons (to be presented in class): Compare approaches of any two modern cookbooks.
+
 - Cecilia Gowdy-Wygant, _Cultivating Victory: The Women’s Land Army and the Victory Garden Movement_, 1-12; 131-161. [online](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=2039400)
 - Harvey A. Levenstein, _Paradox of Plenty_ (Golden Age of Food Processing), 101-118. [PDF](readings/food-processing.pdf)
 - Wallach, 124-141 (Gender and American Appetite).
@@ -135,6 +140,7 @@ Reading assignments will be adjusted as we move along, but the general reading a
 
 
 ## Jun 19
+### Mainstream and Counter-culture Foods
 - Horowitz, 42-102 (Pork, Hot Dogs).
 - Kauffman, 1-18 (Intro); 58-96 (Brown Rice and Macrobiotics); 97-130 (Brown Bread).
 
@@ -144,19 +150,21 @@ Reading assignments will be adjusted as we move along, but the general reading a
 ### Corporate Food
 - Horowitz, 103-154 (Chicken, Convenient Foods).
 - Gabaccia, 149-74 (Big Business).
-- Gabaccia, 175-201 (cookbooks); 225-232.
 - Harvey A. Levenstein, _Paradox of Plenty_ (Fast Foods and Quick Bucks), 227-236. [PDF](readings/fast-food-quick-bucks.pdf)
+
+### Economic Analyses
 - [Globalization, Fast Food and the "Threat" to Local Culture](http://www.theglobalentrepreneur.com/globalization-fast-food-threat-local-culture/)
 - [The Globalization of “Fast Food”. Behind the Brand: McDonald’s](https://www.globalresearch.ca/the-globalization-of-fast-food-behind-the-brand-mcdonald-s/25309)
 - [Exporting Diabetes to Asia: The Impact of Western-Style Fast Food](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3401093/)
 
-
+### American Meat Review
+- What do we make of Horowitz in context of the course? Strengths? Weaknesses? Bias? Omissions?
 
 
 ## Jun 21
 
-
 ### Food Media
+- Gabaccia, 175-201 (cookbooks); 225-232 (Conclusion).
 - [When Male Chefs Fear the Specter of ‘Women’s Work’](https://www.eater.com/2017/11/30/16687914/toxic-masculinity-restaurants)
 - [Why Are We Still Failing Female Chefs?](https://www.eater.com/2018/5/30/17397060/women-chefs-food-media)
 - [The Problems With Food Media That Nobody Wants to Talk About](https://firstwefeast.com/eat/2016/02/problems-with-food-media)
@@ -191,22 +199,15 @@ Reading assignments will be adjusted as we move along, but the general reading a
 - [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/)
 
 ### Comparative Book Review
-- Kauffman, 131-67 (Tofu);
-- DUE: 750-word book review of either Twitty or Kauffman (we'll split into two groups)
+- Kauffman, 131-67 (Tofu)
+- Twitty, TBD.
+- DUE: 750-word book review of either Twitty or Kauffman (we'll split into two groups to cover each equally)
 
 ### Discussion
 - How should we think of these books on their own?
 - How should we think of these books as a pair?
-- How should we think of these books in relation to the course
+- How should we think of these books in relation to the course?
 
-
-### Research Presentations I
-~4 presentations; 8 min. presentations; 4 min. questions
-
-
-
-
-## Jun 26
 
 
 ### Fad Diets (watch/read IN ORDER):
@@ -223,6 +224,15 @@ Reading assignments will be adjusted as we move along, but the general reading a
 ### Discussion
 - Can Fad Diets help define American Food?
 - Evaluate the idea of "natural" in terms of American food?
+
+
+
+
+## Jun 26
+
+### Research Presentations I
+~4 presentations; 8 min. presentations; 4 min. questions
+
 
 
 
