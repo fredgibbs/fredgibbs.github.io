@@ -124,7 +124,7 @@ Reading assignments will be adjusted as we move along, but the general reading a
 - Charlotte Biltekoff, _Eating Right in America_, 1-11 (Cultural Politics); 13-44 (Scientific Moralization).
 - Wilbur Atwater, "Chemistry, Foods, Nutrition" (1887), 59-74. [PDF](readings/chemistry-food-nutrition.pdf).
 
-
+- NOTE: Early next week is a bit heavier with readings---push ahead this weekend!
 
 
 
@@ -133,7 +133,7 @@ Reading assignments will be adjusted as we move along, but the general reading a
 ### Food Will Win the War
 - DUE: Cookbook comparisons (to be presented in class): Compare approaches of any two modern cookbooks.
 
-- Cecilia Gowdy-Wygant, _Cultivating Victory: The Women’s Land Army and the Victory Garden Movement_, 1-12; 131-161. [online](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=2039400)
+- Cecilia Gowdy-Wygant, _Cultivating Victory: The Women’s Land Army and the Victory Garden Movement_, 1-12; 131-161. [ProQuest Ebook](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=2039400)
 - Harvey A. Levenstein, _Paradox of Plenty_ (Golden Age of Food Processing), 101-118. [PDF](readings/food-processing.pdf)
 - Wallach, 124-141 (Gender and American Appetite).
 - Mark Weiner, "Consumer culture and participatory democracy: The story of Coca‐Cola during World War II", 109-129. [PDF]()
