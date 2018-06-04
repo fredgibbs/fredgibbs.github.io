@@ -219,10 +219,10 @@ Reading assignments will be adjusted as we move along, but the general reading a
 - [The Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/)
 
 ### Modern Dietary Advice
-- https://www.cnn.com/2017/12/08/health/avocados-health-benefits-food-as-fuel-explainer/index.html
-- https://www.nytimes.com/2018/01/29/well/good-fats-bad-fats.html
-- https://www.npr.org/sections/thesalt/2016/05/08/477057872/what-is-natural-food-a-riddle-wrapped-in-notions-of-good-and-evil
-- http://gawker.com/the-bullshit-hypocrisy-of-all-natural-foods-1702686054
+- [Avocados](https://www.cnn.com/2017/12/08/health/avocados-health-benefits-food-as-fuel-explainer/index.html)
+- [Good Fats Bad Fats](https://www.nytimes.com/2018/01/29/well/good-fats-bad-fats.html)
+- [What is a Natural Food](https://www.npr.org/sections/thesalt/2016/05/08/477057872/what-is-natural-food-a-riddle-wrapped-in-notions-of-good-and-evil)
+- [Bullshit Hypocrisy of Natural Foods](http://gawker.com/the-bullshit-hypocrisy-of-all-natural-foods-1702686054)
 
 ### Discussion
 - Can Fad Diets help define American Food?
