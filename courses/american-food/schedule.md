@@ -50,6 +50,7 @@ Reading assignments will be adjusted as we move along, but the general reading a
 ## Jun 6
 
 ### Colonial Roots
+- [Ketchup and the American Diet](http://www.zocalopublicsquare.org/2018/06/04/ketchup-perfect-complement-american-diet/ideas/essay/)
 - Wallach, 33-55 (Food and the Founding).
 - Gabaccia, 10-35 (Colonial Creoles).
 - McWilliams, _A Revolution in Eating_, 279-321 (A Culinary Declaration of Independence), via [ugly PDF](readings/McWilliams.pdf) or [ProQuest Ebook](https://ebookcentral.proquest.com/lib/unm/reader.action?docID=895246&ppg=288)
