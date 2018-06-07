@@ -86,7 +86,7 @@ The following two articles provide VERY useful ways of thinking about using cook
 
 - Amelia Simmons, [American Cookery](https://books.google.com/books?id=_6CggcPs3iQC). Read the introduction by Karen Hess (ix-xv), and skim through the recipes. What stands out to you?
 
-- For the following (all mentioned on the Early American Cookbooks page), there are no specific pages to read. But skim through the books and read a recipe here and there.
+- For the following (all mentioned on the Early American Cookbooks page), there are no specific pages to read. But skim through the books and read a recipe here and there so you have a sense of their similarities and differences.
   - Lydia Child, [American Frugal Housewife](https://books.google.com/books?id=D3AEAAAAYAAJ)
   - Mary Randolph [The Virginia Housewife](https://books.google.com/books?id=R4YEAAAAYAAJ)
   - Eliza Leslie, [Miss Leslie's Complete Cookery](https://books.google.com/books?id=KVL5oJA8IWsC)
