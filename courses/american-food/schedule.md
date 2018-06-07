@@ -76,21 +76,25 @@ Reading assignments will be adjusted as we move along, but the general reading a
 ## Jun 11
 
 ### Cookbooks as Historical Sources
+The following two articles provide VERY useful ways of thinking about using cookbooks as historical sources. Read them carefully enough that you can apply their techniques to other cookbooks.
 - Arjun Appadurai, “How to Make a National Cuisine: Cookbooks in Contemporary India,” 3–24. [JSTOR](http://www.jstor.org.libproxy.unm.edu/stable/179020)
 - Colleen Cotter, “Claiming a Piece of the Pie,” 51–68. [PDF](readings/claiming-piece-of-the-pie.pdf)
 
 ### Early Cookbooks
-- Harry Haff, _The Founders of American Cuisine_, 21-48. [PDF]()
-- Stavely and Fitzgerald, _United Tastes_, 11-28. [PDF]()
-- Amelia Simmons, [American Cookery](https://books.google.com/books?id=_6CggcPs3iQC)
-- Lydia Child, [American Frugal Housewife](https://books.google.com/books?id=D3AEAAAAYAAJ)
 
+- Read the little blurbs about more cookbooks [here](http://www.americantable.org/2015/12/top-12-most-influential-historic-american-cookbooks/)
 
-### Discussion
-- How can we compare Simmons and Child?
-- Review more cookbooks from [here](http://www.americantable.org/2015/12/top-12-most-influential-historic-american-cookbooks/)
+- Amelia Simmons, [American Cookery](https://books.google.com/books?id=_6CggcPs3iQC). Read the introduction by Karen Hess (ix-xv), and skim through the recipes. What stands out to you?
 
-### Impromptu Group Research Reports
+- For the following (all mentioned on the Early American Cookbooks page), there are no specific pages to read. But skim through the books and read a recipe here and there.
+  - Lydia Child, [American Frugal Housewife](https://books.google.com/books?id=D3AEAAAAYAAJ)
+  - Mary Randolph [The Virginia Housewife](https://books.google.com/books?id=R4YEAAAAYAAJ)
+  - Eliza Leslie, [Miss Leslie's Complete Cookery](https://books.google.com/books?id=KVL5oJA8IWsC)
+
+### Discussion (in class)
+- Using the What strikes you as most surprising or bizarre about the cookbooks? How did they affirm or complicate your ideas of American food?
+
+### Impromptu Group Research Reports (in class)
 - Compare two from [here](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis)
   - Hint: spend some time finding a good pair!
 
@@ -101,81 +105,89 @@ Reading assignments will be adjusted as we move along, but the general reading a
 ## Jun 12
 
 ### Immigration
-- Gabbacia, 36-63 (Immigration, Isolation, Industry).
-- Wallach, 57-87 (Expansion and Immigration).
+- Wallach, 57-87 (Expansion and Immigration). Skim through for basic info and background.
+- Gabbacia, 36-63 (Immigration, Isolation, Industry). Pay more attention to this one.
+
 
 ### Genealogy
-- Twitty, Chapters 5 (Missing Pieces), 81-89; and 8 (0.01 Percent), 119-139.
-- Twitty, Chapters 9 (Sweet Tooth), 141-159.
-
+- Our Twitty reading for this week is a fair number of pages, but as you've already seen, they go by quick. Read quickly over parts that aren't interesting to you--but be ready to talk about WHY Twitty is describing what he does.
+  - Twitty, Chapters 5 (Missing Pieces), 81-89; 8 (0.01 Percent), 119-139; 9 (Sweet Tooth), 141-159.
 
 
 
 ## Jun 13
 
 ### Boundaries of Taste
-- Gabaccia, 64-92 (Ethnic Entrepreneurs); 93-121 (Crossing the Boundaries of Taste).
-- Horowitz, 1-41 (Intro, Beef).
+- Gabaccia, 93-121 (Crossing the Boundaries of Taste).
+- Horowitz, 1-41 (Intro, Beef). There is more detail in here than we need, but try to formulate a overview of beef in the U.S. What are the major drivers of change with respect to beef production and consumption?
 
 
 
 ## Jun 14
 
 ### Moral Eating
-- Wallach, 143-67 (Pious and Patriotic Stomach).
-- Gabaccia, 122-48 (American Values).
+EVERYONE:
 - Charlotte Biltekoff, _Eating Right in America_, 1-11 (Cultural Politics); 13-44 (Scientific Moralization).
 - Wilbur Atwater, "Chemistry, Foods, Nutrition" (1887), 59-74. [PDF](readings/chemistry-food-nutrition.pdf).
 
-- NOTE: Early next week is a bit heavier with readings---push ahead this weekend!
+SPLIT UP:
+- Wallach, 143-67 (Pious and Patriotic Stomach).
+- Gabaccia, 122-48 (American Values).
 
 
 
 ## Jun 18
 
 ### Food Will Win the War
-- DUE: Cookbook comparisons (to be presented in class): Compare approaches of any two modern cookbooks.
+- DUE: Cookbook comparisons (to be presented in class; 500-word summary to turn in): Compare approaches of any two modern cookbooks.
 
+EVERYONE:
 - Cecilia Gowdy-Wygant, _Cultivating Victory: The Women’s Land Army and the Victory Garden Movement_, 1-12; 131-161. [ProQuest Ebook](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=2039400)
 - Harvey A. Levenstein, _Paradox of Plenty_ (Golden Age of Food Processing), 101-118. [PDF](readings/food-processing.pdf)
+
+SPLIT UP:
 - Wallach, 124-141 (Gender and American Appetite).
 - Mark Weiner, "Consumer culture and participatory democracy: The story of Coca‐Cola during World War II", 109-129. [PDF]()
 
 
 ## Jun 19
 ### Mainstream and Counter-culture Foods
-- Horowitz, 42-102 (Pork, Hot Dogs).
-- Kauffman, 1-18 (Intro); 58-96 (Brown Rice and Macrobiotics); 97-130 (Brown Bread).
+- Horowitz, 42-102 (Pork, Hot Dogs). As before, read quickly, but come to class ready to discuss the broad contours of meat consumption and how Horowitz makes his argument about what's changing and why.
+- Kauffman, 1-18 (Intro); 58-96 (Brown Rice and Macrobiotics); 97-130 (Brown Bread). This book is heavy on microbiography and anecdotal stories. You can skim over these quickly--but keep trying to formulate the main message
 
 
 
 ## Jun 20
 ### Corporate Food
 - Horowitz, 103-154 (Chicken, Convenient Foods).
-- Gabaccia, 149-74 (Big Business).
 - Harvey A. Levenstein, _Paradox of Plenty_ (Fast Foods and Quick Bucks), 227-236. [PDF](readings/fast-food-quick-bucks.pdf)
 
+- Gabaccia, 149-74 (Big Business). As usual, lots more detail than we need--but do skim to get a sense of the importance of "ethnic" foods in the rise of mass market foods.
+
 ### Economic Analyses
-- [Globalization, Fast Food and the "Threat" to Local Culture](http://www.theglobalentrepreneur.com/globalization-fast-food-threat-local-culture/)
-- [The Globalization of “Fast Food”. Behind the Brand: McDonald’s](https://www.globalresearch.ca/the-globalization-of-fast-food-behind-the-brand-mcdonald-s/25309)
-- [Exporting Diabetes to Asia: The Impact of Western-Style Fast Food](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3401093/)
+- Compare these two articles about "local" fast food. What is the role of food in these articles?
+  - [Globalization, Fast Food and the "Threat" to Local Culture](http://www.theglobalentrepreneur.com/globalization-fast-food-threat-local-culture/)
+  - [The Globalization of “Fast Food”. Behind the Brand: McDonald’s](https://www.globalresearch.ca/the-globalization-of-fast-food-behind-the-brand-mcdonald-s/25309)
 
 ### Corn
-- [Plant-based vs vegan](https://www.foodnavigator-usa.com/Article/2018/04/19/Plant-based-plays-way-better-than-vegan-with-most-consumers-says-Mattson#.Wt33XM5kP-4.twitter)
-- [How corn made its way into just about everything we eat](https://www.washingtonpost.com/news/wonk/wp/2015/07/14/how-corn-made-its-way-into-just-about-everything-we-eat/?utm_term=.e102722b2d64)
-- [Today’s botany lesson: Corn sex](http://apps.washingtonpost.com/g/page/lifestyle/todays-botany-lesson-corn-sex/1770/)
-- [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/)
+- Fun and Fast!
+  - [Today’s botany lesson: Corn sex](http://apps.washingtonpost.com/g/page/lifestyle/todays-botany-lesson-corn-sex/1770/)
+  - [How corn made its way into just about everything we eat](https://www.washingtonpost.com/news/wonk/wp/2015/07/14/how-corn-made-its-way-into-just-about-everything-we-eat/?utm_term=.e102722b2d64)
+  - [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/)
 
 
 ### American Meat Review
-- What do we make of Horowitz in context of the course? Strengths? Weaknesses? Bias? Omissions?
+What do we make of Horowitz in context of the course? Strengths? Weaknesses? Bias? Omissions?
 - NOTE: This discussion will be VERY useful for your book review assignment due next week.
 
 
 ## Jun 21
 
 ### Food Media
-- Gabaccia, 175-201 (cookbooks); 225-232 (Conclusion).
+- Gabaccia, 175-201 (culinary roots); 225-232 (Conclusion).
+  - Pay particular attention to how Gabaccia's description relates to our earlier discussion of authenticity
+
+### More Food and Gender
 - [When Male Chefs Fear the Specter of ‘Women’s Work’](https://www.eater.com/2017/11/30/16687914/toxic-masculinity-restaurants)
 - [Why Are We Still Failing Female Chefs?](https://www.eater.com/2018/5/30/17397060/women-chefs-food-media)
 - [The Problems With Food Media That Nobody Wants to Talk About](https://firstwefeast.com/eat/2016/02/problems-with-food-media)
@@ -184,9 +196,9 @@ Reading assignments will be adjusted as we move along, but the general reading a
 - Signe Rousseau, _Food Media_, xix-xxxiv; 5-20.
 - Ray Krishnendu, “Domesticating Cuisine: Food and Aesthetics on American Television,” 50–63. [PDF](http://www.jstor.org/stable/10.1525/gfc.2007.7.1.50)
 
-- Julia Child (cheese souffle)
+- Julia Child (cheese soufflé)
   - [Beef Bourguignon](https://www.youtube.com/watch?v=zA2ys8C-lNk)
-  - [Cheese Souffle](https://www.youtube.com/watch?v=IFAjJif7OoY)
+  - [Cheese Soufflé](https://www.youtube.com/watch?v=IFAjJif7OoY)
 
 - Rachael Ray
   - [$40/day](https://www.youtube.com/watch?time_continue=4&v=NysZaFhvW6s)
@@ -207,13 +219,13 @@ Reading assignments will be adjusted as we move along, but the general reading a
 ### Comparative Book Review
 - Kauffman, 131-67 (Tofu)
 - Twitty, TBD.
+
 - DUE: 750-word book review of either Twitty or Kauffman (we'll split into two groups to cover each equally)
 
-### Discussion
+### Discussion (in class)
 - How should we think of these books on their own?
 - How should we think of these books as a pair?
 - How should we think of these books in relation to the course?
-
 
 
 ### Fad Diets (watch/read IN ORDER):
