@@ -105,8 +105,8 @@ The following two articles provide VERY useful ways of thinking about using cook
 ## Jun 12
 
 ### Immigration
-- Wallach, 57-87 (Expansion and Immigration). Skim through for basic info and background.
-- Gabbacia, 36-63 (Immigration, Isolation, Industry). Pay more attention to this one.
+- Wallach, 57-87 (Expansion and Immigration). Read this for basic historical background and culinary changes underway.
+- Gabbacia, 36-63 (Immigration, Isolation, Industry). Don't worry about the details in the stories, but think about what Gabaccia is trying to say in the chapter as a whole.
 
 
 ### Genealogy
