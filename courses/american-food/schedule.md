@@ -135,6 +135,7 @@ SPLIT UP:
 - Gabaccia, 122-48 (American Values).
 
 Regardless of which you read, be prepared to answer the following in class:
+- What did you take away from the reading?
 - What is the author's argument or point to the chapter?
 - What kind of evidence do they use to support their argument?
 - Do they have appropriate sources? Sufficient evidence for their claims?
