@@ -127,7 +127,7 @@ The following two articles provide VERY useful ways of thinking about using cook
 
 ### Moral Eating
 EVERYONE:
-- Charlotte Biltekoff, _Eating Right in America_, 1-11 (Cultural Politics); 13-44 (Scientific Moralization).
+- Charlotte Biltekoff, _Eating Right in America_, 1-11 (Cultural Politics) [PDF](readings/cultural-politics.pdf); 13-44 (Scientific Moralization) [PDF](readings/scientific-moralization.pdf).
 - Wilbur Atwater, "Chemistry, Foods, Nutrition" (1887), 59-74. [PDF](readings/chemistry-food-nutrition.pdf).
 
 SPLIT UP:
