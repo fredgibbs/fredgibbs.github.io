@@ -98,7 +98,7 @@ The following two articles provide VERY useful ways of thinking about using cook
 - Compare two from [here](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis)
   - Hint: spend some time finding a good pair!
 
-### Note assignment due next Friday!
+### Note assignment due MONDAY!
 
 
 
@@ -134,6 +134,11 @@ SPLIT UP:
 - Wallach, 143-67 (Pious and Patriotic Stomach).
 - Gabaccia, 122-48 (American Values).
 
+Regardless of which you read, be prepared to answer the following in class:
+- What is the author's argument or point to the chapter?
+- What kind of evidence do they use to support their argument?
+- Do they have appropriate sources? Sufficient evidence for their claims?
+- How do these chapters overlap with previous readings?
 
 
 ## Jun 18
