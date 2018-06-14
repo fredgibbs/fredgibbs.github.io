@@ -151,7 +151,7 @@ EVERYONE:
 - Cecilia Gowdy-Wygant, _Cultivating Victory: The Women’s Land Army and the Victory Garden Movement_, 1-12; 131-161. [ProQuest Ebook](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=2039400)
 - Harvey A. Levenstein, _Paradox of Plenty_ (Golden Age of Food Processing), 101-118. [PDF](readings/food-processing.pdf)
 
-SPLIT UP:
+I WILL SUMMARIZE:
 - Wallach, 124-141 (Gender and American Appetite).
 - Mark Weiner, "Consumer culture and participatory democracy: The story of Coca‐Cola during World War II", 109-129. [PDF]()
 
