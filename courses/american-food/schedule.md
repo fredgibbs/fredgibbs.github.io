@@ -148,7 +148,7 @@ Regardless of which you read, be prepared to answer the following in class:
 - DUE: Cookbook comparisons (to be presented in class; 500-word summary to turn in): Compare approaches of any two modern cookbooks.
 
 EVERYONE:
-- Cecilia Gowdy-Wygant, _Cultivating Victory: The Women’s Land Army and the Victory Garden Movement_, 1-12; 131-161. [ProQuest Ebook](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=2039400)
+- Cecilia Gowdy-Wygant, _Cultivating Victory: The Women’s Land Army and the Victory Garden Movement_, 131-161. [ProQuest Ebook](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=2039400)
 - Harvey A. Levenstein, _Paradox of Plenty_ (Golden Age of Food Processing), 101-118. [PDF](readings/food-processing.pdf)
 
 I WILL SUMMARIZE:
