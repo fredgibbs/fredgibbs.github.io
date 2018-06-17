@@ -144,7 +144,6 @@ Regardless of which you read, be prepared to answer the following in class:
 
 ## Jun 18
 
-### Food Will Win the War
 - DUE: Cookbook comparisons (to be presented in class; 500-word summary to turn in): Compare approaches of any two modern cookbooks.
 
 ### Cookbook Assignment Goals
@@ -163,6 +162,7 @@ Regardless of which you read, be prepared to answer the following in class:
 
 
 
+### Food Will Win the War
 
 EVERYONE:
 - Cecilia Gowdy-Wygant, _Cultivating Victory: The Women’s Land Army and the Victory Garden Movement_, 131-161. [ProQuest Ebook](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=2039400)
@@ -170,7 +170,7 @@ EVERYONE:
 
 I WILL SUMMARIZE:
 - Wallach, 124-141 (Gender and American Appetite).
-- Mark Weiner, "Consumer culture and participatory democracy: The story of Coca‐Cola during World War II", 109-129. [PDF]()
+- Mark Weiner, "Consumer culture and participatory democracy: The story of Coca‐Cola during World War II", 109-129.
 
 
 ## Jun 19
