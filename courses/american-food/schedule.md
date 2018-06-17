@@ -155,9 +155,13 @@ Regardless of which you read, be prepared to answer the following in class:
   - Who is the intended audience? What should they know? What should they care about?
   - What does the intended audience want?
   - What kind of language (commands, narrative, etc) does the cookbook use?
-  - What kind of larger themes does the cookbook appeal to (exotic, health, comfort, regional, national, hipster, classic, etc)
+  - What kind of larger themes do the cookbooks appeal to (exotic, health, comfort, regional, national, hipster, classic, etc)
   - What are the various "national" or "ethnic" influences?
-  - What does the cookbook say about "American Food"?
+  - What do the cookbooks say about "American Food"?
+  - Use the fact that you're COMPARING/CONTRASTING a few different sources to help you answer these questions.
+  - You are being evaluated on the quality/depth of your analysis (based on class readings and discussion), not description.
+
+
 
 
 EVERYONE:
