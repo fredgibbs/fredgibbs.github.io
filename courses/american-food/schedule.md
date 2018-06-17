@@ -147,6 +147,19 @@ Regardless of which you read, be prepared to answer the following in class:
 ### Food Will Win the War
 - DUE: Cookbook comparisons (to be presented in class; 500-word summary to turn in): Compare approaches of any two modern cookbooks.
 
+### Cookbook Assignment Goals
+- The main objective: Describe what your 2-4 cookbooks tell us about American Culture/Food/Cuisine
+- As a graded assignment, you should apply the readings and our discussion to your analysis of the cookbooks
+- Although your cookbooks will be vastly different from the early American ones we discussed in class, you should ask the same kinds of questions:
+  - What kind of assumptions does the author(s) make about cooking/cuisine/food?
+  - Who is the intended audience? What should they know? What should they care about?
+  - What does the intended audience want?
+  - What kind of language (commands, narrative, etc) does the cookbook use?
+  - What kind of larger themes does the cookbook appeal to (exotic, health, comfort, regional, national, hipster, classic, etc)
+  - What are the various "national" or "ethnic" influences?
+  - What does the cookbook say about "American Food"?
+
+
 EVERYONE:
 - Cecilia Gowdy-Wygant, _Cultivating Victory: The Women’s Land Army and the Victory Garden Movement_, 131-161. [ProQuest Ebook](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=2039400)
 - Harvey A. Levenstein, _Paradox of Plenty_ (Golden Age of Food Processing), 101-118. [PDF](readings/food-processing.pdf)
