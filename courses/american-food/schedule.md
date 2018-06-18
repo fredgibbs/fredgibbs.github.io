@@ -168,24 +168,28 @@ EVERYONE:
 - Cecilia Gowdy-Wygant, _Cultivating Victory: The Women’s Land Army and the Victory Garden Movement_, 131-161. [ProQuest Ebook](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=2039400)
 - Harvey A. Levenstein, _Paradox of Plenty_ (Golden Age of Food Processing), 101-118. [PDF](readings/food-processing.pdf)
 
-I WILL SUMMARIZE:
-- Wallach, 124-141 (Gender and American Appetite).
-- Mark Weiner, "Consumer culture and participatory democracy: The story of Coca‐Cola during World War II", 109-129.
 
 
 ## Jun 19
 ### Mainstream and Counter-culture Foods
 - Horowitz, 42-102 (Pork, Hot Dogs). As before, read quickly, but come to class ready to discuss the broad contours of meat consumption and how Horowitz makes his argument about what's changing and why.
-- Kauffman, 1-18 (Intro); 58-96 (Brown Rice and Macrobiotics); 97-130 (Brown Bread). This book is heavy on microbiography and anecdotal stories. You can skim over these quickly--but keep trying to formulate the main message
+- Kauffman, 1-18 (Intro); 58-96 (Brown Rice and Macrobiotics); 97-130 (Brown Bread). This book is heavy on microbiography and anecdotal stories. You can skim over these quickly--but read for the big picture and to evaluate the quality of the story/argument.
+- Quiz probability: HIGH
+
+#### I WILL SUMMARIZE:
+- Wallach, 124-141 (Gender and American Appetite).
+- Mark Weiner, "Consumer culture and participatory democracy: The story of Coca‐Cola during World War II", 109-129.
 
 
 
 ## Jun 20
 ### Corporate Food
 - Horowitz, 103-154 (Chicken, Convenient Foods).
+- Gabaccia, 149-74 (Big Business). SKIM! As usual, lots more detail than we need--but read enough to get a sense of the importance of "ethnic" foods in the rise of mass market foods.
+
+#### Optional
 - Harvey A. Levenstein, _Paradox of Plenty_ (Fast Foods and Quick Bucks), 227-236. [PDF](readings/fast-food-quick-bucks.pdf)
 
-- Gabaccia, 149-74 (Big Business). As usual, lots more detail than we need--but do skim to get a sense of the importance of "ethnic" foods in the rise of mass market foods.
 
 ### Economic Analyses
 - Compare these two articles about "local" fast food. What is the role of food in these articles?
@@ -201,7 +205,7 @@ I WILL SUMMARIZE:
 
 ### American Meat Review
 What do we make of Horowitz in context of the course? Strengths? Weaknesses? Bias? Omissions?
-- NOTE: This discussion will be VERY useful for your book review assignment due next week.
+- NOTE: This discussion will be VERY useful for your book review assignment due next week!
 
 
 ## Jun 21
