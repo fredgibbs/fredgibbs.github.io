@@ -185,9 +185,9 @@ EVERYONE:
 ## Jun 20
 ### Corporate Food
 - Horowitz, 103-154 (Chicken, Convenient Foods).
-- Gabaccia, 149-74 (Big Business). SKIM! As usual, lots more detail than we need--but read enough to get a sense of the importance of "ethnic" foods in the rise of mass market foods.
 
-#### Optional
+#### Pick one
+- Gabaccia, 149-74 (Big Business). SKIM! As usual, lots more detail than we need--but read enough to get a sense of the importance of "ethnic" foods in the rise of mass market foods.
 - Harvey A. Levenstein, _Paradox of Plenty_ (Fast Foods and Quick Bucks), 227-236. [PDF](readings/fast-food-quick-bucks.pdf)
 
 
