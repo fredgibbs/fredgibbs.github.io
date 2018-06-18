@@ -220,7 +220,7 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Bia
 - [The Problems With Food Media That Nobody Wants to Talk About](https://firstwefeast.com/eat/2016/02/problems-with-food-media)
 
 ### The Food Network
-- Signe Rousseau, _Food Media_, xix-xxxiv; 5-20.
+- Signe Rousseau, _Food Media_, xix-xxxiv [PDF](readings/food-media-preface.pdf); 5-20 [PDF](readings/food-media-intro.pdf).
 - Ray Krishnendu, “Domesticating Cuisine: Food and Aesthetics on American Television,” 50–63. [PDF](http://www.jstor.org/stable/10.1525/gfc.2007.7.1.50)
 
 - Julia Child (cheese soufflé)
