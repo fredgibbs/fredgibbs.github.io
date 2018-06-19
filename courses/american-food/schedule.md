@@ -197,7 +197,7 @@ EVERYONE:
   - [How corn made its way into just about everything we eat](https://www.washingtonpost.com/news/wonk/wp/2015/07/14/how-corn-made-its-way-into-just-about-everything-we-eat/?utm_term=.e102722b2d64)
   - [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/)
 
-  ### Economic Analyses
+### Economic Analyses
   - Compare these two articles about "local" fast food. What is the role of food in these articles? What are the assumptions of the authors? HINT: they are pretty bad. But we should be able to articulate why, and hopefully the various perspectives about food we've considered will help.
     - [Globalization, Fast Food and the "Threat" to Local Culture](http://www.theglobalentrepreneur.com/globalization-fast-food-threat-local-culture/)
     - [The Globalization of “Fast Food”. Behind the Brand: McDonald’s](https://www.globalresearch.ca/the-globalization-of-fast-food-behind-the-brand-mcdonald-s/25309)
