@@ -184,17 +184,12 @@ EVERYONE:
 
 ## Jun 20
 ### Corporate Food
-- Horowitz, 103-154 (Chicken, Convenient Foods).
+- Horowitz, 103-154 (Chicken, Convenient Meat).
 
 #### Pick one
-- Gabaccia, 149-74 (Big Business). SKIM! As usual, lots more detail than we need--but read enough to get a sense of the importance of "ethnic" foods in the rise of mass market foods.
+- Gabaccia, 149-74 (Big Business). As usual, lots more detail than we need--but read enough to get a sense of the importance of "ethnic" foods in the rise of mass market foods.
 - Harvey A. Levenstein, _Paradox of Plenty_ (Fast Foods and Quick Bucks), 227-236. [PDF](readings/fast-food-quick-bucks.pdf)
 
-
-### Economic Analyses
-- Compare these two articles about "local" fast food. What is the role of food in these articles?
-  - [Globalization, Fast Food and the "Threat" to Local Culture](http://www.theglobalentrepreneur.com/globalization-fast-food-threat-local-culture/)
-  - [The Globalization of “Fast Food”. Behind the Brand: McDonald’s](https://www.globalresearch.ca/the-globalization-of-fast-food-behind-the-brand-mcdonald-s/25309)
 
 ### Corn
 - Fun and Fast!
@@ -202,8 +197,13 @@ EVERYONE:
   - [How corn made its way into just about everything we eat](https://www.washingtonpost.com/news/wonk/wp/2015/07/14/how-corn-made-its-way-into-just-about-everything-we-eat/?utm_term=.e102722b2d64)
   - [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/)
 
+  ### Economic Analyses
+  - Compare these two articles about "local" fast food. What is the role of food in these articles? What are the assumptions of the authors? HINT: they are pretty bad. But we should be able to articulate why, and hopefully the various perspectives about food we've considered will help.
+    - [Globalization, Fast Food and the "Threat" to Local Culture](http://www.theglobalentrepreneur.com/globalization-fast-food-threat-local-culture/)
+    - [The Globalization of “Fast Food”. Behind the Brand: McDonald’s](https://www.globalresearch.ca/the-globalization-of-fast-food-behind-the-brand-mcdonald-s/25309)
 
-### American Meat Review
+
+### American Meat Review (in class)
 What do we make of Horowitz in context of the course? Strengths? Weaknesses? Bias? Omissions?
 - NOTE: This discussion will be VERY useful for your book review assignment due next week!
 
