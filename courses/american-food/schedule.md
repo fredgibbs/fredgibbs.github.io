@@ -203,16 +203,36 @@ EVERYONE:
     - [The Globalization of “Fast Food”. Behind the Brand: McDonald’s](https://www.globalresearch.ca/the-globalization-of-fast-food-behind-the-brand-mcdonald-s/25309)
 
 
-### American Meat Review (in class)
-What do we make of Horowitz in context of the course? Strengths? Weaknesses? Bias? Omissions?
-- NOTE: This discussion will be VERY useful for your book review assignment due next week!
 
 
 ## Jun 21
 
-### Food Media
-- Gabaccia, 175-201 (culinary roots); 225-232 (Conclusion).
+### American Meat Review (in class)
+What do we make of Horowitz in context of the course? Strengths? Weaknesses? Assumptions? Biases? Omissions?
+- We'll do this while finishing the quiz from yesterday.
+- This discussion will (hopefully) be VERY useful for your book review assignment due next week!
+
+### Finishing some books
+- Review old Kauffman assignment (from June 19).
+- Kauffman, 131-67 (Tofu). (originally for Monday)
+- Skim Gabaccia, 149-74, if you didn't read it for yesterday.
+- Gabaccia, 175-201 (culinary roots); 225-232 (Conclusion). (originally for today)
   - Pay particular attention to how Gabaccia's description relates to our earlier discussion of authenticity
+  - We will be discussing Gabaccia in its entirely, so please think ahead of time how you would evaluate the strengths and weaknesses of it.
+
+### More Book Review Discussion
+- Our discussions of Gabaccia and Horowitz should provide a model for how to proceed with your own reviews
+
+### Website analysis assignment
+- Demo how to conduct final website analysis summary (now due last day of class)
+
+#### NEW: All work will be due 6/28 via email!
+
+
+
+## Jun 25
+
+### Food Media
 
 ### More Food and Gender
 - [When Male Chefs Fear the Specter of ‘Women’s Work’](https://www.eater.com/2017/11/30/16687914/toxic-masculinity-restaurants)
@@ -241,19 +261,7 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Bia
 
 
 
-## Jun 25
-
-### Comparative Book Review
-- Kauffman, 131-67 (Tofu)
-- Twitty, TBD.
-
-- DUE: 750-word book review of either Twitty or Kauffman (we'll split into two groups to cover each equally)
-
-### Discussion (in class)
-- How should we think of these books on their own?
-- How should we think of these books as a pair?
-- How should we think of these books in relation to the course?
-
+## Jun 26
 
 ### Fad Diets (watch/read IN ORDER):
 - [Cut Your Cravings](http://cutyourcravings.com/180504A.php)
@@ -273,25 +281,14 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Bia
 
 
 
-## Jun 26
-
-### Research Presentations I
-~11 presentations; 8 min. presentations; 4 min. questions
-
-
-
 ## Jun 27
 
-### Research Presentations II
-~11 presentations; 8 min. presentations; 4 min. questions
-
+### Conclusions
+- Assignment check-ins
+- Course Retrospective
 
 
 ## Jun 28
-
-### Research Presentations III
-~4 presentations; 8 min. presentations; 4 min. questions
-
-### Conclusions
-- Course Retrospective
-- Evaluations
+NO CLASS. All work due via email.
+DUE: 750-word book review of either Kauffman or Twitty
+DUE: 750-word website analysis
