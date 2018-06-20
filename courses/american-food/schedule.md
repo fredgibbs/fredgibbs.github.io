@@ -223,8 +223,24 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 ### More Book Review Discussion
 - Our discussions of Gabaccia and Horowitz should provide a model for how to proceed with your own reviews
 
-### Website analysis assignment
-- Demo how to conduct final website analysis summary (now due last day of class)
+#### Key Book Review Questions
+- What kind of story about American food does the author create?
+- What kind of assumptions does the author make about food/taste/cuisine/etc?
+- What are the kinds of sources used? Are they sufficient for supporting historical claims?
+- What topics that we've covered in class are missing from the book (that should be there)?
+- How does the book complement or contradict other readings we've done?
+
+
+### Website Analysis Guide
+- We will walk through how to conduct final website analysis summary (now due last day of class)
+
+- Google "history of X" where X is some food related topic.
+- Write 750 describing what you find and analyzing them through the lenses we used throughout the course
+- DO NOT SIMPLY DESCRIBE VARIOUS WEBSITES
+- The assignment is to describe the aggregate results; you are trying to create a typology.
+- A typology is a explanation of the KINDS of approaches you find, and their strengths and weaknesses.
+- As you did with cookbooks: You should indicate WHY the sites say what they do (don't worry about design)?
+- What can they tell us about approaches to food in America?
 
 #### NEW: All work will be due 6/28 via email!
 
