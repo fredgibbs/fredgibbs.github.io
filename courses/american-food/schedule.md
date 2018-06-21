@@ -301,19 +301,20 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 
 ## Jun 27
 
-### Conclusions
 
-## 2 Last Food Writings Bits
-- M.F.K. Fisher [Consider the Oyster](readings/consider-the-oyster.pdf) (125-38; 146-59).
-- David Foster Wallace [Consider the Lobster](readings/lobsterarticle.pdf) (READ THE FOOTNOTES!)
+### 2 Last Food Writings Bits
+- M.F.K. Fisher, [Consider the Oyster](readings/consider-the-oyster.pdf) (125-38; 146-59).
+- David Foster Wallace, [Consider the Lobster](readings/lobsterarticle.pdf) (READ THE FOOTNOTES!).
 
 
-## Closing Remarks
+### Closing Remarks
 - Assignment check-ins
 - HINTS FOR THE FINAL via course retrospective
 
 
 ## Jun 28
-NO CLASS. All work due via email.
-DUE: 750-word book review of either Kauffman or Twitty
-DUE: 750-word website analysis
+- NO CLASS. All work due via email.
+- DUE: 750-word book review of either Kauffman or Twitty
+- DUE: 750-word website analysis
+
+For both assignments, see important questions/goals listed under June 21.
