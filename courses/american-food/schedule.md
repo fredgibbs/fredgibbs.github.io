@@ -235,12 +235,12 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 - We will walk through how to conduct final website analysis summary (now due last day of class)
 
 - Google "history of X" where X is some food related topic.
-- Write 750 describing what you find and analyzing them through the lenses we used throughout the course
-- DO NOT SIMPLY DESCRIBE VARIOUS WEBSITES
+- Write 750 words that analyze the readings through the lenses we used throughout the course.
+- DO NOT SIMPLY DESCRIBE VARIOUS WEBSITES!
 - The assignment is to describe the aggregate results; you are trying to create a typology.
-- A typology is a explanation of the KINDS of approaches you find, and their strengths and weaknesses.
+- A typology is a explanation of the KINDS of approaches you find, including their strengths and weaknesses.
 - As you did with cookbooks: You should indicate WHY the sites say what they do (don't worry about design)?
-- What can they tell us about approaches to food in America?
+- What can they tell us about approaches/values/interests related to food in America?
 
 #### NEW: All work will be due 6/28 via email!
 
@@ -291,8 +291,10 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 - [Bullshit Hypocrisy of Natural Foods](http://gawker.com/the-bullshit-hypocrisy-of-all-natural-foods-1702686054)
 
 ### Discussion
+- As with everything now, we want to evaluate the sources in the context of readings/discussions for this course
 - Can Fad Diets help define American Food?
-- Evaluate the idea of "natural" in terms of American food?
+- Evaluate the idea of "natural" in terms of American food.
+- What do these articles assume (or at least focus on) in terms of definitions of food/diet/taste?
 
 
 
@@ -300,8 +302,15 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 ## Jun 27
 
 ### Conclusions
+
+## 2 Last Food Writings Bits
+- M.F.K. Fisher [Consider the Oyster](readings/consider-the-oyster.pdf) (125-38; 146-59).
+- David Foster Wallace [Consider the Lobster](readings/lobsterarticle.pdf) (READ THE FOOTNOTES!)
+
+
+## Closing Remarks
 - Assignment check-ins
-- Course Retrospective
+- HINTS FOR THE FINAL via course retrospective
 
 
 ## Jun 28
