@@ -279,6 +279,8 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 
 ## Jun 26
 
+- Twitty, 199-217; 239-264; 265-281; 297-317.
+
 ### Fad Diets (watch/read IN ORDER):
 - [Cut Your Cravings](http://cutyourcravings.com/180504A.php)
 - [The Real Story on Lectins](https://www.drfuhrman.com/library/eat-to-live-blog/147/the-real-story-on-lectins)
