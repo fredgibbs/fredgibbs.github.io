@@ -304,10 +304,12 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 ## Jun 27
 
 
+### 1 Book Review
+- Sophie Gilbert, [How American Cuisine Became a Melting Pot](https://www.theatlantic.com/entertainment/archive/2016/11/eight-flavors-sarah-lohman-review/508577/)
+
 ### 2 Last Food Writings Bits
 - M.F.K. Fisher, [Consider the Oyster](readings/consider-the-oyster.pdf) (125-38; 146-59).
 - David Foster Wallace, [Consider the Lobster](readings/lobsterarticle.pdf) (READ THE FOOTNOTES!).
-
 
 ### Closing Remarks
 - Assignment check-ins
