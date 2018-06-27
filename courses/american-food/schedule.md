@@ -235,12 +235,15 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 - We will walk through how to conduct final website analysis summary (now due last day of class)
 
 - Google "history of X" where X is some food related topic.
-- Write 750 words that analyze the readings through the lenses we used throughout the course.
-- DO NOT SIMPLY DESCRIBE VARIOUS WEBSITES!
+- Write 800-1000 words that analyze the search results through the lenses we used throughout the course.
+  - Put your search phrase at the top of your assignment
+- DO NOT SIMPLY DESCRIBE THE VARIOUS WEBSITES!
 - The assignment is to describe the aggregate results; you are trying to create a typology.
-- A typology is a explanation of the KINDS of approaches you find, including their strengths and weaknesses.
-- As you did with cookbooks: You should indicate WHY the sites say what they do (don't worry about design)?
+  - A typology is a explanation of the KINDS of approaches you find, including their strengths and weaknesses.
+- As you did with cookbooks: You should indicate WHY the sites say what they do (don't worry about design).
 - What can they tell us about approaches/values/interests related to food in America?
+
+- Maybe the best way to think of what you're doing: Imagine that you're creating a writing guide for the first page of search results. You're writing for someone interested in the topic, but hasn't taken this class and therefore might not be aware of the many assumptions/biases/omissions/etc that can easily infiltrate and entire set of sources. Your job, therefore, is to help guide your curious but naive reader through the minefield of food history on the web.
 
 #### NEW: All work will be due 6/28 via email!
 
