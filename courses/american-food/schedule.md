@@ -325,7 +325,6 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 
 ## Jun 28
 - NO CLASS. All work due via email.
-- DUE: 750-word book review of either Kauffman or Twitty
-- DUE: 750-word website analysis
-
-For both assignments, see important questions/goals listed under June 21.
+- DUE: 750-800 word book review of either Kauffman or Twitty
+- DUE: 800-1000 word website analysis
+- For both assignments, see important questions/goals listed under June 21.
