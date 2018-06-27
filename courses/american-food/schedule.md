@@ -223,15 +223,17 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 ### More Book Review Discussion
 - Our discussions of Gabaccia and Horowitz should provide a model for how to proceed with your own reviews
 
-#### Key Book Review Questions
+#### Key Book Review Questions (750-800 words)
 - What kind of story about American food does the author create?
+- What does the author do well? What seems to be less successful?
 - What kind of assumptions does the author make about food/taste/cuisine/etc?
 - What are the kinds of sources used? Are they sufficient for supporting historical claims?
 - What topics that we've covered in class are missing from the book (that should be there)?
 - How does the book complement or contradict other readings we've done?
+  - In other words, how does the book connect with other (kinds of) food writing?
 
 
-### Website Analysis Guide
+### Website Analysis Guide (800-1000 words)
 - We will walk through how to conduct final website analysis summary (now due last day of class)
 
 - Google "history of X" where X is some food related topic.
@@ -244,6 +246,8 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 - What can they tell us about approaches/values/interests related to food in America?
 
 - Maybe the best way to think of what you're doing: Imagine that you're creating a writing guide for the first page of search results. You're writing for someone interested in the topic, but hasn't taken this class and therefore might not be aware of the many assumptions/biases/omissions/etc that can easily infiltrate and entire set of sources. Your job, therefore, is to help guide your curious but naive reader through the minefield of food history on the web.
+
+- FOR BOTH: You now have, however rushed, expertise in the history of American Food. Use that expertise to write a critical and informed review. You are being evaluated on the extent to which your expertise shines through your reviews.
 
 #### NEW: All work will be due 6/28 via email!
 
