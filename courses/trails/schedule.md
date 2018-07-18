@@ -1,250 +1,251 @@
 ---
 layout: syllabus
-title: Digital Futures of History
-term: Fall 2017
-number: HIST 300-018
-date: 2017-08-20
+title: National Trails Syllabus
+term: Fall 2018
+number: HIST 300
 section: schedule
 ---
 
-# IN PROGRESS!
-This syllabus is a living document and changes frequently, depending on what's going on in the course. If you print it out, you'll need to keep your paper version up to date with the online version. I will always announce important changes in class.
+# National Trails Syllabus, weeks 1-8
 
+## Week 1: Intro to the National Historic Trails
 
-## 1: Course and Digital History Introduction
+### Monday, 8/20
+Introduction to course, syllabus, expectations, etc.
 
-### Tuesday (Aug 22)
-Today we'll review the syllabus, course aims, assignments, and general plan for the semester. We'll also figure out how to customize the course to best suit participants' interests.
+### Wednesday, 8/22: Backstories
+- Southern/New Mexican trails
+  -   Max L. Moorhead, "Blazing the Camino Real," in *New Mexico's Royal Road : Trade and Travel on the Chihuahua Trail* (Norman : University of Oklahoma Press, 1995), 3--27.
+  -   LeRoy R. Hafen, "The Old Spanish Trail, Santa Fe to Los Angeles," *Huntington Library Quarterly* 11, no. 2 (1948): 149--60.
+  -   Kathleen A. Cordes, "Santa Fe National Historic Trail," in *America's National Historic Trails* (Norman: University of Oklahoma Press, 1999), 105--130.
 
-### Thursday (Aug 24)
-* Tim Hitchcock, “[Historyonics: Big Data for Dead People: Digital Readings and the Conundrums of Positivism](http://historyonics.blogspot.com/2013/12/big-data-for-dead-people-digital.html)."
-* Introduction to Zotero (in class)
+#### Optional
+-   National Park Service, \"Historical Overview\" and \"Significance,\" in *El Camino Real de Los Tejas, Texas, Louisiana: National Historic Trail Feasibility Study and Environmental Assessment.* (Denver, Colo.: National Park Service, Denver Service Center, 1998), 30--44.
+-   Jesus F. De la Teja, "The Camino Real: Colonial Texas's Lifeline to the World," in *A Texas Legacy, the Old San Antonio Road and the Caminos Reales: A Tricentennial History, 1691-1991*, ed. A. Joachim McGraw, John Wilburn Clark, and Elizabeth A. Robbins (Texas State Department of Highways and Public Transportation, Highway Design Division, 1991), 43--48.
+-   D. W. Meinig, *The Shaping of America: A Geographical Perspective on 500 Years of History, Vol. 1: Atlantic America, 1492-1800* (New Haven: Yale University Press, 1988).
+    - Chapter 1 ("Doubling the National Territory: Louisiana"), chapter 4 ("The Reach Westward: to Circa 1830"), chapter 5 ("Shoving the Indians Out of the Way"), and/or chapter 8 ("Spanning a Continent---and Ocean")
+- D. W. Meinig, *The Shaping of America: A Geographical Perspective on 500 Years of History, Vol. 2: Continental America, 1800-1867* (New Haven: Yale University Press, 1995).
+    - Chapter 1 ("Filling in the Framework: Migration Westward"); chapter 2 ("Occupying New Ground: Colonization, America Style"); and/or chapter 8 ("Making New Pathways: Waterways, Roads, and Trails")
 
-## 2: Archival Power
+### Friday, 8/24: More Backstories
+-   Trail of Tears
+    -   Kathleen A. Cordes, "Trail of Tears National Historic Trail," in *America's National Historic Trails* (Norman: University of Oklahoma Press, 1999): 131--162.
+-   Northern trails
+    -   Kathleen A. Cordes, *America's National Historic Trails* (Norman: University of Oklahoma Press, 1999).
+        - Chapters (\<30 pgs. each) on the Oregon Trail, California Trail, Mormon Pioneer Trail, and Pony Express Trail.
+- Route 66
+    - Michael Wallis, \"America\'s Main Street,\" in *Route 66: The Mother Road 75th Anniversary Edition* (New York: St. Martin's Griffin, 2001): 1--28.
 
-### Tuesday (Aug 29)
-* Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19.
-* Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” 21–43.
 
-### Thursday (Aug 31)
-* Joshua Sternfeld, “Archival Theory and Digital Historiography: Selection, Search, and Metadata as Archival Processes for Assessing Historical Contextualization,” 544–75.
-* Jefferson Bailey, “[Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives](http://dev.archivejournal.net/?p=4722)".
 
+## Week 2: Historic trails and the challenge of public history
 
+### Monday, 8/27: Firsthand accounts
+-   Phil Edwards, "[The Bloody, Sexy, Drunken Oregon Trail](https://www.vox.com/2016/3/3/11152436/r-rated-oregon-trail)" (*Vox*, 3 March 2016).
+-   Francis Parkman, *The Oregon Trail: Adventures on the Prairie in the 1840's* (Santa Barbara, Calif. : Narrative Press, 2001).\* This will be divided up among the class so we're reading a few chapters each
 
-## 3: The Necessity of Critique
+#### Optional
+-   Lewis H. Garrard and A. B. Gutherie Jr., *Wah-to-Yah and the Taos Trail* (Norman: University of Oklahoma Press, 1972).
+-   Thomas Bullock and Will Bagley, *The Pioneer Camp of the Saints: The 1846 and 1847 Mormon Trail Journals of Thomas Bullock* (Logan: Utah State University Press, 2001).
+-   Josiah Gregg, *Commerce of the Prairies : Or, the Journal of a Santa Fé Trader, during Eight Expeditions across the Great Western Prairies, and a Residence of Nearly Nine Years in Northern Mexico* (New York: J. & H. G. Langley, 1845).
 
-### Tuesday (Sep 5)
-* Robert Blackey, “Words to the Whys: Crafting Critical Book Reviews,” 159–66.
-* Dwight Garner, [A Critic’s Case for Critics Who Are Actually Critical](http://www.nytimes.com/2012/08/19/magazine/a-critic-makes-the-case-for-critics.html).
-* John Rosinbum, [Teaching the Slave Trade with Voyages: The Transatlantic Slave Trade Database](http://blog.historians.org/2016/10/teaching-slave-trade-voyages-transatlantic-slave-trade-database/).
-* FOR FUN: Daniel Mendelsohn, [A Critic's Manifesto](http://www.newyorker.com/books/page-turner/a-critics-manifesto).
 
-### Thursday (Sep 7)
-{% include alert.html class='danger' title='DUE: First DH Project Critique' text="
-Bring to class a ~750-word critique for a site listed [here](http://www.slate.com/blogs/the_vault/2016/12/30/five_great_digital_history_projects_from_2016.html), or any of the past projects (links near the top), or [here](http://www.slate.com/blogs/the_vault/2017/01/05/some_of_the_most_browsable_history_sites_we_encountered_in_2016.html).
-"%}
-* Fred Gibbs, “The Poetics of Digital Scholarship,” 101-122.
+### Wednesday, 8/29: public history and problems of interpretation
+-   Bill Bigelow, "On the Road to Cultural Bias: A Critique of The Oregon Trail CD-ROM," *Language Arts* 74, no. 2 (1997): 84--93.
+-   Douglas W. Dodd and Peter J. Edwards, "Getting History out of a Rut: Public Agencies Interpret Oregon's Oregon Trail," *The Public Historian* 16, no. 1 (1994): 45--50.
+-   Gregory E. Smoak, "Beyond the Academy: Making the New Western History Matter in Local Communities," *The Public Historian* 31, no. 4 (2009): 85--89.
+- Oregon Trail Game
 
+#### Optional
+-   Robin W. Winks, "A Public Historiography," *The Public Historian* 14, no. 3 (1992): 93--105.
+-   John David Unruh, "Introduction: The Historians and the Overlanders," in *The Plains Across : The Overland Emigrants and the Trans-Mississippi West, 1840-60* (Urbana : University of Illinois Press, 1979), 3--27.
 
-## 4: Historical Data and Algorithms
 
-### Tuesday (Sep 12)
-{% include alert.html class='danger' title='DUE (for real): First Critiques' text="
-Critiques due (extended deadline from last time).
-"%}
-* Andrew Goldstone and Ted Underwood, "The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us."
+### Friday, 8/31: Primary Source Analysis
 
-### Thursday (Sep 14)
-{% include alert.html class='info' title='No Class' text="
-Read Jenkins!
-"%}
 
 
-## 5: What is History For?
+## Week 3: What exactly is a trail?
 
-### Tuesday (Sep 19)
-* Keith Jenkins, _Rethinking History_.
+### Monday, 9/3: the federal perspective
+Mini-lecture today on distinction between federal gov't as steward of trails vs. creator of trails and what that says about the changing purpose of trails\]
 
-### Thursday (Sep 21)
-* Dennis Tenen and Grant Wythoff, [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown). You don't need to follow this tutorial exactly, just read for the ideas.
-* Introduction to [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* Introduction to [GitHub](http://github.com), version control, and file management.
-* Writing and rendering Markdown documents with [Dillinger](https://dillinger.io/).
+-   ["National Trails System Act"](https://www.nps.gov/parkhistory/online_books/anps/anps_6g.htm) (1968).
+-   ["National Parks and Recreation Act"](https://www.nps.gov/mawa/upload/public-law-95-625.pdf) (1978).
+    -   section 551 ("Amendments to National Trails System Act").
+-   [*National Trails System*](https://www.nps.gov/hfc/carto/PDF/TRAILSmap1.pdf)National Park Service, (map).
+-   [*Wagon Tracks* 1, no. 3 (May 1987)](https://www.santafetrail.org/publications/wagon-tracks/pdf/V.%201%2086-87.pdf).
+-   ["Guidance for Recording and Evaluating Linear Cultural Resources"](http://www.oregon.gov/oprd/HCD/SHPO/docs/ORLinearResourcesGuidancev2.pdf)Oregon State Historic Preservation Office, (Oregon Parks and Recreation Department, 2013).
+-   ["Landscape Lines 15: Historic Trails"](https://permanent.access.gpo.gov/gpo54009/Landscape_Lines_15.pdf)Margie Coffin Brown, (National Park Service, n.d.).
 
 
 
-## 6: Text Analysis and Visualization
+### Wednesday, 9/5: the theoretical perspective
+-   James E. Snead, "Trails of Tradition: Movement, Meaning, and Place," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 42--60.
 
-### Tuesday (Sep 26)
-{% include alert.html class='warning' title='DUE: GitHub Test' text="
-* Create an account at [Github](http://github.com), and email me (fwgibbs@unm.edu) your username
-* Add a markdown file you create in [Dillinger](https://dillinger.io/) to our  [repository](https://github.com/unm-digital-futures/digital-history-review). Be sure you are logged into GitHub when you do this: Click on the 'docs' folder, then drag and drop your file onto your browser window. The content of your markdown file is irrelevant, but be sure your filename has no spaces and ends with .md
-* If you are confused about Markdown, try this [Markdown tutorial](https://www.markdowntutorial.com/); if you need syntax help, see the [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-"%}
-* Review GitHub and Markdown
-* Stephan Sinclair and Geoffrey Rockwell, "Text Analysis and Visualization"
-* Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
-* Extra credit: Load a few texts into [Voyant](http://voyant-tools.org/) and be prepared to report on your findings (in class, nothing written to turn in)
+#### Optional
+-   Timothy Earle, "Routes through the Landscape: A Comparative Approach," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 253--70.
+-   James E. Snead, Clark L. Erickson, and J. Andrew Darling, "Making Human Space: The Archaeology of Trails, Paths, and Roads," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 1--19.
+-   Robert Moor, *On Trails: An Exploration* (London: Quarto Publishing Group UK, 2017).
 
 
-### Thursday (Sep 28)
-* Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
-* Ted Underwood, [Topic Modeling Made Just Simple Enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/).
-* Rob Nelson, [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
-* Load some documents into [Overview](https://www.overviewdocs.com).
-* For more topic modeling details, see Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
+### Friday, 9/7: Reconciling Perspectives
+Discuss how both extremes (bureaucratic and theoretical) contribute to a useful definition of 'trail'
 
+- York H. Gunther, *Essays on Nonconceptual Content* (MIT Press, 2003), 157.
 
-## 7: Visual and Spatial History
 
-### Tues (Oct 3)
-* Richard White, [What is spatial history](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)?
-* Start finding a project to critique from [Humanities GIS Projects](http://geohumanities.org/gis).
-* Visual Review Essay Expectations and Instructions
 
+## Week 4: Spatial History
 
-### Thurs (Oct 5)
-* Dolores Hayden, "Place, Memory, and Urban Preservation," in _The Power of Place_, 44-78.
-* Chris Wilson, "Ethnic/Sexual Personas in Tricultural New Mexico," 12-34.
-* Find a project to critique from [Humanities GIS Projects](http://geohumanities.org/gis).
-* Start thinking about your spatial history project (I've put together [a few suggestions](historic-places) if you get stuck)
+### Monday, 9/10:
+- Richard White, [What Is Spatial History?](https://web.stanford.edu/group/spatialhistory/media/images/publication/what%20is%20spatial%20history%20pub%20020110.pdf). (Stanford Spatial History Project, 2010).
+-   Yi-Fu Tuan, "Space and Place: Humanistic Perspective," in *Philosophy in Geography*, ed. Stephen Gale and Gunnar Olsson (Boston: D. Reidel Publishing Company, 1979), 387--427.
 
+#### Optional
+-   Yi-fu Tuan, *Space and Place: The Perspective of Experience* (Minneapolis: University of Minnesota Press, 1977).
+  -   chapter 1 ("Introduction), chapter 2 ("Experiential Perspective"), chapter 7 ("Mythical Space and Place"), and/or chapter 12 ("Attachment to Homeland")
 
 
-## 8: Critiquing Spatial History
+###  Wednesday, 9/12: Deconstructing Maps
+-   J. B. Harley, "Deconstructing the Map," *Cartographica* 26, no. 2 (1989): 1--20.\*
+-   Mark Monmonier and H. J. de Blij, *How to Lie with Maps*, 2nd edition (Chicago: University of Chicago Press, 1996)chapter 1 ("Introduction), chapter 5 ("Maps That Advertise), chapter 6 ("Development Maps"), and/or chapter 7 ("Maps for Political Propaganda")
 
-### Tuesday (Oct 10)
-{% include alert.html class='danger' title='DUE: Mapping Project Critique' text="
-Post to GitHub your ~800-word critique (a visual essay in Markdown) of a GIS / map project. Be sure to [review the guidelines](markdown-critiques)!
-"%}
-* Instructions for our spatial history project
 
-### Thursday (Oct 12)
-{% include alert.html class='info' title='Fall Break' text="
-Relax, but not for too long (see below).
-"%}
+### Friday, 9/14: Reading maps as texts
+- Research project proposals due!
 
+-   [Santa Fe Trail](https://en.wikipedia.org/wiki/Santa_Fe_Trail#/media/File:Map_of_Santa_Fe_Trail-NPS.jpg) (NPS map)
+-   [Old Spanish Trail](http://www.oldspanishtrailcentennial.com/Gallery/Banner%20Large%20Final%201-2.jpg) (railroad map)
+-   [El Camino Real de Tierra Adentro](http://inahchihuahua.gob.mx/sections.pl?id=86) (Instituto Nacional de Anthropologia e Historia map)
+-   [Mormon Pioneer Trail](http://www.brothersfive.ca/images/2007_mormon_trail_map.jpg) (mounted plaque)
+-   [Oregon Trail](https://blog.richmond.edu/livesofmaps/files/2014/10/Oregontrail_map2.gif) (computer game map)
+-   [Travel Routes to California](https://www.eduplace.com/ss/hmss/4/unit/act3.2blm2.html) (Houghton Mifflin map)
+-   [Trail of Tears](https://kids.britannica.com/kids/assembly/view/217515) (Encyclopedia Brittanica map)
+-   [Route 66](http://www.mappery.com/map-of/Route-66-Chicago-IL-to-Springfield-MI-Map) ("travel mat" map)
 
-## 9: Spatial History Work Time
 
-(Oct 17 and 19): NO CLASS
-READ: Ellen Lupton, _Thinking with Type_ (2nd edition).
 
-{% include alert.html class='warning' title='No class: Research Break' text="
-Work on your Spatial History Projects, following the [guidelines](spatial-history-guidelines).
-"%}
+## Week 5: Native history along/among the trails
 
+### Monday, 9/17: Native space
+-   Juliana Barr, "Geographies of Power: Mapping Indian Borders in the 'Borderlands' of the Early Southwest," *William and Mary Quarterly* 68, no. 1 (2011): 5--46.
 
 
-## 10: Public Art / Spatial History Project
+#### Optional
+-   Ned Blackhawk, *Violence over the Land: Indians and Empires in the Early American West* (Harvard University Press, 2008).
+    -   chapter 2 ("The Making of the New Mexican-Ute Borderlands"), chapter 5 ("Great Basin Indians in the Era of Lewis & Clark"), and/or chapter 7 ("Utah's Indians and the Crisis of Mormon Settlement")
+-   Pekka Hämäläinen, *The Comanche Empire* (New Haven: Yale University Press, 2009).
+    -   chapter 1 ("Introduction: Reversed Colonialism"), chapter 4 ("The Empire of the Plains"), and/or chapter 5 ("Greater Comancheria")
+-   T.J. Ferguson, G. Lennis Berlin, and Leigh J. Kuwanwisiwma, "Kukheypa: Searching for Hopi Trails," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 20--41.
+-   Juliana Barr, *Peace Came in the Form of a Woman: Indians and Spaniards in the Texas Borderlands* (Chapel Hill, NC: University of North Carolina Press, 2014).
+    -   chapter 3 ("Civil Alliance and 'Civility' in Mission-Presidio Complexes") and/or chapter 4 ("Negotiating Fear with Violence: Apaches and Spaniards at Midcentury")
+-   Anne F. Hyde, *Empires, Nations, and Families: A New History of the North American West, 1800-1860*, Reprint edition (New York: Ecco, 2012).
+    -   chapter 4 ("The Early West: The Many Faces of Indian Country") and/or chapter 5 ("Empires in Transition: Indian Country at Midcentury, 1825--1860")
+-   Daniel Goodenough, Jr., "Lost on Cold Creek," *Montana: The Magazine of Western History* 24, no. 4 (1974): 16--29.
 
-### Tuesday (Oct 24)
-- Ellen Lupton, _Thinking with Type_.
-- Discussion of Research Projects (check in to make sure everything is going well)
 
+### Wednesday, 9/19: Problems of Memory
+-   Jackson B. Miller, "Coyote's Tale on the Old Oregon Trail: Challenging Cultural Memory through Narrative at the Tamástslikt Cultural Institute," *Text & Performance Quarterly* 25, no. 3 (July 2005): 220--38.\*
+-   Michael J. Zogry, "Wide Open Spaces: The Trail of Tears, the Lewis and Clark Expedition, and Gaps in the National Memory," in *New Territories, New Perspectives: The Religious Impact of the Louisiana Purchase*, ed. Richard J. Callahan, Jr. (Columbia, Mo: University of Missouri, 2008), 56--82.\*
+-   Guy McClellan, *Place Names Along the Santa Fe Trail* (maps)\*
+    -   ["Linguistic Origins of Place Names Along the Trail"](https://guymcclellan.carto.com/viz/53a098c2-a109-11e6-a456-0e233c30368f/public_map)
+    -   ["What Were Places Along the Trail Named For?"](https://guymcclellan.carto.com/viz/e81d98b6-a112-11e6-99ae-0e05a8b3e3d7/public_map)
 
-### Thursday (Oct 26)
-{% include alert.html class='danger' title='DUE: Public Art Essays' text="
-* All essays (written in Markdown) must be fully visible and functional on GitHub
-"%}
+#### Optional
+-   Peter B. Dedek, "'Wild' Lands and 'Tamed' Indians: Cultural Stereotypes and Route 66," in *Hip to the Trip : A Cultural History of Route 66* (Albuquerque : University of New Mexico Press, 2007), 9--27.\*
+-   Marion Blackburn, "Return to the Trail of Tears," *Archaeology*, no. 2 (2012): 53.
+-   Raymond Cross, "'Twice Born' from the Waters\': The Two-Hundred-Year Journey of the Mandan, Hidatsa, and Arikara Indians," in *Lewis & Clark : Legacies, Memories, and New Perspectives*, ed. Kris Fresonke and Mark David Spence (Berkeley: University of California Press, 2004), 117--42.
 
 
-## 11: Essays and Video Critiques
+### Friday, 9/21: NO CLASS
+- Field Trip Saturday, 9/22---Hubbell House?
 
-### Tuesday (Oct 31)
-{% include alert.html class='danger' title='DUE: Spatial History Revisions' text="
-* Please review the updated [spatial history guidelines](spatial-history-guidelines), and read the new [Peer Critique Guidelines](peer-critique-guidelines). Remember, you're NOT doing peer critiques this week, just revising your own essays knowing they will be critiqued along these guidelines next week.
-"%}
-* Review of existing JAH digital history reviews
 
 
-### Thursday (Nov 2)
-* BEFORE CLASS: Read [Intro to HTML and CSS](https://learn.shayhowe.com/html-css/building-your-first-web-page/). Read up to "Using CSS Resets". Bring questions to class or you will fail the course.
-* Go through HTML and CSS concepts
-* Go over [spatial history site](https://unm-digital-futures.github.io/digital-history-review/)
-* Go over [Google Sheet for map and directory content](https://docs.google.com/spreadsheets/d/1tpcVOeTci6Bc4cXYN-ytnImn6MzILDPH4W6fMfEPvkg/edit#gid=0)
-* Creating KML files (for map display)
+## Week 6: Economic Histories and Commodity Flows
 
 
+### Monday, 9/24: Intercultural Commerce
+-   Christopher L. Miller and George R. Hamell, "A New Perspective on Indian-White Contact: Cultural Symbols and Colonial Trade," *The Journal of American History* 73, no. 2 (1986): 311--28.
+-   Juliana Barr, "Womanly 'Captivation': Political Economies of Hostage Taking and Hospitality," in *Peace Came in the Form of a Woman: Indians and Spaniards in the Texas Borderlands* (Chapel Hill: University of North Carolina Press, 2014), 240--76.
+-   Susan Calafate Boyle, "Going Down the Royal Road," in *Los Capitalistas : Hispano Merchants and the Santa Fe Trade* (Albuquerque : University of New Mexico Press, 1997), 28--44.
 
-## 12: Historical and Authorities of Knowledge
+#### Optional
+-   William Patrick O'Brien, *Merchants of Independence : International Trade on the Santa Fe Trail, 1827-1860* (Kirksville, Mo. : Truman State University Press, 2013).
+-   Henri Folmer, "Contraband Trade between Louisiana and New Mexico in the Eighteenth Century," *New Mexico Historical Review* 16 (July 1941): 249--74.
+-   Carroll L. Riley, "The Road to Hawikuh: Trade and Trade Routes to Cibola-Zuni during Late Prehistoric and Early Historic Times," *Kiva* 41, no. 2 (1975): 137--59.
+-   Thomas Frank Schilz and Donald E. Worcester, "The Spread of Firearms among the Indian Tribes on the Northern Frontier of New Spain," *American Indian Quarterly* 11, no. 1 (1987): 1--10.
+-   Andrés Reséndez, "The Spirit of Mercantile Enterprise," in *Changing National Identities at the Frontier: Texas and New Mexico, 1800--1850* (Cambridge \[England\]: Cambridge University Press, 2004), 93--123.
+-   Henri Folmer, "The Mallet Expedition of 1739 through Nebraska, Kansas and Colorado to Santa Fe," *Colorado Magazine* 16 (September 1939): 161--73.
+-   Douglas C. Comer, *Ritual Ground: Bent's Old Fort, World Formation, and the Annexation of the Southwest* (Berkeley: University of California Press, 1996).
 
-### Tuesday (Nov 7)
-{% include alert.html class='danger' title='DUE: Spatial History Updates' text="
-* All essays should look like the sample essay (copy code from the [sample code essay](https://unm-digital-futures.github.io/digital-history-review/code))
-* All spatial data should be uploaded to the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1tpcVOeTci6Bc4cXYN-ytnImn6MzILDPH4W6fMfEPvkg/edit#gid=0)
-* Your KML file created via Google Maps should be uploaded to the kml folder in the docs folder.
-"%}
 
-* HTML and CSS quiz (review the [tutorial](https://learn.shayhowe.com/html-css/building-your-first-web-page/)!) and questions we didn't get to last time.
+### Wednesday, 9/26: cities, capitalists, and commodities
+-   Jay Gitlin, "Beyond St. Louis: Negotiating the Course of Empire, " in *The Bourgeois Frontier: French Towns, French Traders, and American Expansion* (New Haven, Conn.: Yale University Press, 2010), 83--123.
+-   Susan Calafate Boyle, \"New Mexican Merchants and Mercantile Capitalism,\" in *Los Capitalistas: Hispano Merchants and the Santa Fe Trade* (Albuquerque: University of New Mexico Press, 2000), 57--72.
 
-### Thursday (Nov 9)
-{% include alert.html class='danger' title='DUE: Essay Improvements' text="
-* Add essay header information following the sample on the [Code Example Page](https://unm-digital-futures.github.io/digital-history-review/code).
-* Add your custom CSS file to the css directory, with some CSS code in it that will change the typography of your essay (for instance, making the headers red as the gibbs.css file does). Add your CSS file the same way you've added all your other files (either drag and drop or use the 'Create new file' button).
-* Start adding hyperlinks to your essays wherever appropriate.
-* Start adding footnote references following the example on the Code Example Page
-* REMEMBER 1: All the code you need on your page can be copied and pasted from the gray boxes on the [Code Example Page](https://unm-digital-futures.github.io/digital-history-review/code).
-* REMEMBER 2: You can always view the [raw markdown for the Simms Essay](https://raw.githubusercontent.com/unm-digital-futures/digital-history-review/master/docs/essays/simms-building.md) to see a complete and live model of how your markdown code should look.
-"%}
-* Review HTML and CSS concepts via [scratchpad](http://scratchpad.io)
-* Review existing essays; answer technical questions
-* Screencasting basics
 
+#### Optional
+-   Richard C. Wade, *The Urban Frontier: The Rise of Western Cities, 1790-1830* (Urbana: University of Illinois Press, 1996).
+    -   chapter 1 ("The Beginnings of Western Urbanism") and/or chapter 2 ("The Economic Base")
+-   Adam Arenson, "The Double Life of St. Louis: Narratives of Origins and Maturity in Wade's Urban Frontier," *Indiana Magazine of History*, no. 3 (2009): 246.
+-   William J. Parish, *The Charles Ilfeld Company: A Study of the Rise and Decline of Mercantile Capitalism in New Mexico* (Cambridge, Mass.: Harvard University Press, 1961).
+-   Morris F. Taylor, *First Mail West : Stagecoach Lines on the Santa Fe Trail* (Albuquerque: University of New Mexico Press, 2000).
+-   David Lavender, *Bent's Fort* (Lincoln : University of Nebraska Press, 1972).
+-   Anne F. Hyde, *Empires, Nations, and Families: A New History of the North American West, 1800-1860* (New York: Ecco, 2012).
+    -   chapter 1 ("Families and Fur: The Personal World of the Early American West") and/or chapter 3 ("Western Places: Regional Communities and *Vecinidad*")
+-   Darlis A. Miller, *Soldiers and Settlers: Military Supply in the Southwest, 1861-1885* (Albuquerque: University of New Mexico Press, 1989).
 
-## 13: Reviews
+### Friday, 9/28: TBD
 
-### Tuesday (Nov 14)
-{% include alert.html class='danger' title='DUE: Last Updates' text="
-* Make sure your essays looks and reads exactly as you want, **and as I want**. This will make peer review more useful for both authors and reviewers. Review the [Peer Critique Guidelines](peer-critique-guidelines)!
-* IMAGES: You may find that you want to resize, rotate, or crop your images to improve the layout of your essay. While you can control the width easily already, sometimes a bit more editing would go a long way. Use either [Fotor](https://www.fotor.com/) or [Pixlr](https://pixlr.com/express/). Both are online, free, and straightforward image editing tools that you can figure out with a few minutes of playing around. They both do color correction, filtering, and effects, but mostly you'll just want to crop, rotate, or resize images---which are super easy to do---and then download a new version of your file. You can't edit your image on GitHub directly; you'll have to upload a new version.
-"%}
-* More screencasting
 
 
-### Thursday (Nov 16)
-* Video check in (Complete a rough cut by today and try some editing)
-* Discussion of [spatial history score sheets](spatial-history-score-sheet).
+## Week 7: Environmental history
 
-## 14: Clean up and Eating
+### Monday, 10/1: mythical and natural environments
+-   Frederick Jackson Turner, "The Significance of the Frontier in American History," *Annual Report of the American Historical Association*, 1894, 197--227.
+-   Walter Prescott Webb, "The American Approach to the Great Plains," in *The Great Plains* (Boston: Ginn and Co., 1931), 140--204.
+-   Henry Nash Smith, "The Garden of the World," in *Virgin Land: The American West as Symbol and Myth* (Cambridge, Mass.: Harvard University Press, 1950): 123--264.
+-   Elliot West, *The Contested Plains: Indians, Goldseekers, and the Rush to Colorado* (Lawrence: University Press of Kansas, 1998).
+    -   prologue and/or chapter 3 ("Frontiers and Visions")
 
-### Tuesday (Nov 21)
-* William Cronon, [Scholarly Authority in a Wikified World](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2012/scholarly-authority-in-a-wikified-world).
-* Leslie Madsen-Brooks, [I Nevertheless Am a Historian: Digital Historical Practice and Malpractice around Black Confederate Soldiers](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.1)
-* Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.2).
-* Screencasting and editing questions
-* Instructions for uploading videos; need to do this by next class
+### Wednesday, 10/3: flora, fauna, and food
+Readings should complicate Turner's thesis by either a) showing that westward migration was not as simple as it seemed, or b) that northward migration from Mexico also reshaped trailside environments in the New World.
 
+-   Elliott West, "Land," in *The Way to the West: Essays on the Central Plains* (Albuquerque: University of New Mexico Press, 1995), 13--50.\*
+-   Elliott West, "Animals," in *The Way to the West: Essays on the Central Plains* (Albuquerque: University of New Mexico Press, 1995), 51--84.\*
+-   William W. Dunmire, "The Corridor into Texas," in *Gardens of New Spain: How Mediterranean Plants and Foods Changed America* (Austin: University of Texas Press, 2004), 229--261.\*
+-   Guy McClellan, *Place Names Along the Santa Fe Trail* (maps)
+    -   ["What Were Places Along the Trail Named For (Besides Individuals)?"](https://guymcclellan.carto.com/viz/b4bf8350-a115-11e6-8fc8-0e3ff518bd15/public_map)
+-   Thomas B. Hall, *Medicine on the Santa Fe Trail* (Dayton, Ohio: Morningside Bookshop, 1971).
+-   Samuel P. Arnold, *Eating Up the Santa Fe Trail: Recipes and Lore from the Old West* (Golden, Colo.: Fulcrum Publishing, 2001).
+-   Fabiola Cabeza De Baca Gilbert, *Good Life: New Mexico Traditions And Food*, (Albuquerque: Museum of New Mexico Press, 2005).
+-   Dana Goodyear, "What Happened At Alder Creek?," *The New Yorker*, April 17, 2006, 140--151.
 
-### Thursday (Nov 23)
-{% include alert.html class='info' title='Thanksgiving' text="
-Happy Eating!
-"%}
+### Friday, 10/5: NO CLASS
 
 
-## 15: Catch up
 
-### Tuesday (Nov 28)
+## Week 8: Gender, Family, and Migration
 
-{% include alert.html class='danger' title='DUE: First draft of video critique' text="
-* Follow the [video critique guide](video-criteria)
-* Put links to your video on our [video link page](https://github.com/unm-digital-futures/digital-history-review/blob/master/docs/video-links.md)
-* I will randomly select some videos to watch and critique in class (be prepared, please. this significantly reduces awkwardness for everyone.)
-"%}
+### Monday, 10/8: ideas of gender and family travel westward
+-   Johnny Faragher and Christine Stansell, "Women and Their Families on the Overland Trail to California and Oregon, 1842-1867," *Feminist Studies* 2, no. 2/3 (1975): 150--66.\*
+-   Conevery Bolton Valenčius, "Gender and the Economy of Health on the Santa Fe Trail," *Osiris* 19 (2004): 79--92.\*
 
-### Thursday (Nov 30)
-* Review of [video critique guide](video-criteria).
-* Spatial History Essay Reviews
-* See your preliminary scores [here](https://docs.google.com/spreadsheets/d/1IVxQjYNR2NbW_xOBcW_1Eq5UveDszwMuwU3xr1Y7odc/edit?usp=sharing).
-* Be aware of the **NEW** [citation guide](citation-guide). 
+#### Optional
+-   Virginia Scharff, "The Hearth of Darkness: Susan Magoffin on Suspect Terrain," in *Twenty Thousand Roads: Women, Movement, and the West* (Berkeley: University of California Press, 2003).
+-   John Mack Faragher, *Women and Men on the Overland Trail* (New Haven, Conn. : Yale University Press, 2001).
+    -   chapter 1 ("The Overland Emigrants"), chapter 3 ("Men's and Women's Work on the Overland Trail"), and/or chapter 6 ("The World of the Family")
+-   Julie Jeffrey, *Frontier Women: "Civilizing" the West? 1840-1880* (New York: Hill and Wang, 1998).
+-   Elliott West, "Families," in *The Way to the West: Essays on the Central Plains* (Albuquerque: University of New Mexico Press, 1995), 85--126.
 
-## 16: Loose ends
+### Wednesday, 10/10: Women in their own words
+-   [*Ho for California!: Women's Overland Diaries from the Huntington Librar*](https://nwld.alexanderstreet.com/cgi-bin/asp/philo/nwld/documentidx.pl?sourceid=S212)Sandra L. Myres, ed., *y* (San Marino, Calif.: Huntington Library Press, 2007).\*
+    -   esp. Mary Stuart Bailey, Helen McCowen, Harriet Bunyard, and Maria Hargrave Schrode
+-   "Susan Shelby Magoffin: A Wandering Princess on the Santa Fe Trail," in Deborah Lawrence, *Writing the Trail : Five Women's Frontier Narratives* (Iowa City: University of Iowa Press, 2006), 9--34.\*
+-   Susan Shelby Magoffin and Howard R. Lamar, *Down the Santa Fe Trail and into Mexico: The Diary of Susan Shelby Magoffin, 1846-1847*, ed. Stella M. Drumm (Lincoln, Neb.: Bison Books, 1982).
+-   Isabella Lucy Bird and Daniel J. Boorstin, *A Lady's Life in the Rocky Mountains* (Norman: University of Oklahoma Press, 1975).
+-   Sandra L. Myres, *Westward Ho! Women on the Overland Trails* (Albuquerque : University of New Mexico Press, 1982).
 
-### Dec 5
-{% include alert.html class='warning' title='Optional Class' text="
-Today is optional; we'll spend more time critiquing essays and videos for those who want extra feedback. While priority will be given to those who have not had their work critiqued in class thus far, everyone will leave with clearer ideas about how to revise their work before submitting final versions.
-"%}
-
-### Dec 7
-The last chance for me to convince you that everything we did was seriously worth it. Also, evaluations and final advice for the assignments.
+### Friday, 10/12: NO CLASS (FALL BREAK)
