@@ -122,8 +122,8 @@ Reading maps as texts
 
 
 ### Wednesday, 9/19: Problems of Memory
--   Jackson B. Miller, "Coyote's Tale on the Old Oregon Trail: Challenging Cultural Memory through Narrative at the Tamástslikt Cultural Institute," *Text & Performance Quarterly* 25, no. 3 (July 2005): 220--38.\*
--   Michael J. Zogry, "Wide Open Spaces: The Trail of Tears, the Lewis and Clark Expedition, and Gaps in the National Memory," in *New Territories, New Perspectives: The Religious Impact of the Louisiana Purchase*, ed. Richard J. Callahan, Jr. (Columbia, Mo: University of Missouri, 2008), 56--82.\*
+-   Jackson B. Miller, "Coyote's Tale on the Old Oregon Trail: Challenging Cultural Memory through Narrative at the Tamástslikt Cultural Institute," *Text & Performance Quarterly* 25, no. 3 (July 2005): 220--38.
+-   Michael J. Zogry, "Wide Open Spaces: The Trail of Tears, the Lewis and Clark Expedition, and Gaps in the National Memory," in *New Territories, New Perspectives: The Religious Impact of the Louisiana Purchase*, ed. Richard J. Callahan, Jr. (Columbia, Mo: University of Missouri, 2008), 56--82.
 -   Guy McClellan, *Place Names Along the Santa Fe Trail*
     - [at the NTIR website](https://www.nps.gov/safe/learn/historyculture/place-names.htm)
     -   ["Linguistic Origins of Place Names Along the Trail"](https://guymcclellan.carto.com/viz/53a098c2-a109-11e6-a456-0e233c30368f/public_map)
@@ -182,18 +182,23 @@ Reading maps as texts
 ### Monday, 10/1: mythical and natural environments
 -   Frederick Jackson Turner, "The Significance of the Frontier in American History," *Annual Report of the American Historical Association*, 1894, 197--227.
 -   Walter Prescott Webb, "The American Approach to the Great Plains," in *The Great Plains* (Boston: Ginn and Co., 1931), 140--204.
+
+#### Noteworthy
 -   Henry Nash Smith, "The Garden of the World," in *Virgin Land: The American West as Symbol and Myth* (Cambridge, Mass.: Harvard University Press, 1950): 123--264.
 -   Elliot West, *The Contested Plains: Indians, Goldseekers, and the Rush to Colorado* (Lawrence: University Press of Kansas, 1998).
     -   prologue and/or chapter 3 ("Frontiers and Visions")
 
+
 ### Wednesday, 10/3: flora, fauna, and food
-Readings should complicate Turner's thesis by either a) showing that westward migration was not as simple as it seemed, or b) that northward migration from Mexico also reshaped trailside environments in the New World.
+These readings complicate Turner's thesis by either a) showing that westward migration was not as simple as it seemed, or b) that northward migration from Mexico also reshaped trailside environments in the New World.
 
 -   Elliott West, "Land," in *The Way to the West: Essays on the Central Plains* (Albuquerque: University of New Mexico Press, 1995), 13--50.\*
--   Elliott West, "Animals," in *The Way to the West: Essays on the Central Plains* (Albuquerque: University of New Mexico Press, 1995), 51--84.\*
 -   William W. Dunmire, "The Corridor into Texas," in *Gardens of New Spain: How Mediterranean Plants and Foods Changed America* (Austin: University of Texas Press, 2004), 229--261.\*
 -   Guy McClellan, *Place Names Along the Santa Fe Trail* (maps)
     -   ["What Were Places Along the Trail Named For (Besides Individuals)?"](https://guymcclellan.carto.com/viz/b4bf8350-a115-11e6-8fc8-0e3ff518bd15/public_map)
+
+#### Noteworthy
+-   Elliott West, "Animals," in *The Way to the West: Essays on the Central Plains* (Albuquerque: University of New Mexico Press, 1995), 51--84.\*
 -   Thomas B. Hall, *Medicine on the Santa Fe Trail* (Dayton, Ohio: Morningside Bookshop, 1971).
 -   Samuel P. Arnold, *Eating Up the Santa Fe Trail: Recipes and Lore from the Old West* (Golden, Colo.: Fulcrum Publishing, 2001).
 -   Fabiola Cabeza De Baca Gilbert, *Good Life: New Mexico Traditions And Food*, (Albuquerque: Museum of New Mexico Press, 2005).
@@ -209,7 +214,7 @@ Readings should complicate Turner's thesis by either a) showing that westward mi
 -   Johnny Faragher and Christine Stansell, "Women and Their Families on the Overland Trail to California and Oregon, 1842-1867," *Feminist Studies* 2, no. 2/3 (1975): 150--66.\*
 -   Conevery Bolton Valenčius, "Gender and the Economy of Health on the Santa Fe Trail," *Osiris* 19 (2004): 79--92.\*
 
-#### Optional
+#### Noteworthy
 -   Virginia Scharff, "The Hearth of Darkness: Susan Magoffin on Suspect Terrain," in *Twenty Thousand Roads: Women, Movement, and the West* (Berkeley: University of California Press, 2003).
 -   John Mack Faragher, *Women and Men on the Overland Trail* (New Haven, Conn. : Yale University Press, 2001).
     -   chapter 1 ("The Overland Emigrants"), chapter 3 ("Men's and Women's Work on the Overland Trail"), and/or chapter 6 ("The World of the Family")
@@ -217,9 +222,11 @@ Readings should complicate Turner's thesis by either a) showing that westward mi
 -   Elliott West, "Families," in *The Way to the West: Essays on the Central Plains* (Albuquerque: University of New Mexico Press, 1995), 85--126.
 
 ### Wednesday, 10/10: Women in their own words
--   [*Ho for California!: Women's Overland Diaries from the Huntington Librar*](https://nwld.alexanderstreet.com/cgi-bin/asp/philo/nwld/documentidx.pl?sourceid=S212)Sandra L. Myres, ed., *y* (San Marino, Calif.: Huntington Library Press, 2007).\*
+-   [*Ho for California!: Women's Overland Diaries from the Huntington Library*](https://nwld.alexanderstreet.com/cgi-bin/asp/philo/nwld/documentidx.pl?sourceid=S212) Sandra L. Myres, ed., *y* (San Marino, Calif.: Huntington Library Press, 2007).
     -   esp. Mary Stuart Bailey, Helen McCowen, Harriet Bunyard, and Maria Hargrave Schrode
 -   "Susan Shelby Magoffin: A Wandering Princess on the Santa Fe Trail," in Deborah Lawrence, *Writing the Trail : Five Women's Frontier Narratives* (Iowa City: University of Iowa Press, 2006), 9--34.\*
+
+#### Noteworthy
 -   Susan Shelby Magoffin and Howard R. Lamar, *Down the Santa Fe Trail and into Mexico: The Diary of Susan Shelby Magoffin, 1846-1847*, ed. Stella M. Drumm (Lincoln, Neb.: Bison Books, 1982).
 -   Isabella Lucy Bird and Daniel J. Boorstin, *A Lady's Life in the Rocky Mountains* (Norman: University of Oklahoma Press, 1975).
 -   Sandra L. Myres, *Westward Ho! Women on the Overland Trails* (Albuquerque : University of New Mexico Press, 1982).
