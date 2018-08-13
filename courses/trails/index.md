@@ -2,8 +2,9 @@
 layout: syllabus
 title: National Historic Trails
 term: Fall 2018
-number: HIST 300-0??
+number: HIST 300-002
 section: home
+header: trails
 ---
 
 ## Logistics
