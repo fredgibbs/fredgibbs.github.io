@@ -1,14 +1,14 @@
 ---
-layout: syllabus 
+layout: syllabus
 title: "History of Food, Diet, and Health"
 number: HIST 410
-term: Fall 2016
-date: 2016-07-29 00:00:00
+term: Fall 2018
+header: food-diet-health
 ---
 
 Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
 Mesa Vista Hall, 1077    
-Office Hours: M 10-11:30; W 11:30-1; almost anytime by appointment    
+Office Hours: M 12-2; T 10-12; by appointment    
 
 
 ## Course Description

@@ -2,8 +2,8 @@
 layout: syllabus
 title: "History of Food, Diet, and Health"
 number: HIST 410
-term: Fall 2016
-date: 2016-07-29 00:00:00
+term: Fall 2018
+header: food-health-diet
 ---
 
 Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
