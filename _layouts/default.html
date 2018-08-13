@@ -4,8 +4,11 @@
 {% include header.html %}
 
 <body data-spy="scroll" data-target="#side-nav" data-offset="50">
-
-	{% include nav.html %}
+	{% if page.header != nil  %}
+	 {% include nav-course-generic.html %}
+	{% else %}
+	  {% include nav.html %}
+{% endif %}
 
 	<div class="container">
 		{{ content }}
