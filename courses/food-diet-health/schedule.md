@@ -23,7 +23,7 @@ Dietary advice is constantly changing. What possible utility does history have h
 
 
 ### Fri 8/24
-- Selections from _Galen on Food and Diet_: 1-8; 14-18; 68-84.
+- Selections from Mark Grant (tr.), _Galen on Food and Diet_: 1-8; 14-18; 68-84.
 How did physicians like Galen conceive the notion of disease? According to Galen, how does diet fit into medical understandings of disease? How is his approach similar and different to modern approaches to diet? How would you describe his writing style? Does it seem strange for a physician?
 
 
@@ -70,10 +70,10 @@ DUE: Expertise analysis. Find an article about diet and health, and write a 500-
 ## 19th-century Reformers
 
 ### Mon 9/10
-- Shprintzen, _The Vegetarian Crusade_, Introduction and Chapter 1, 1-38. [online](https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=88c9c3b4-4d25-4888-9fc3-504fe236d4f6%40sessionmgr103&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=nlebk&AN=582993) and in Zotero.
+- Shprintzen, _The Vegetarian Crusade_, 1-38 (Introduction and Chapter 1: Proto-vegetarianism). [online](https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=88c9c3b4-4d25-4888-9fc3-504fe236d4f6%40sessionmgr103&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=nlebk&AN=582993) and in Zotero.
 
 ### Wed 9/12
-- Sylvester Graham, [A Defence of the Graham System of Living: Or, Remarks on Diet and Regimen. Dedicated to the Rising Generation](https://books.google.com/books?id=ODRlD83ww9IC)
+- Sylvester Graham, [A Defence of the Graham System of Living: Or, Remarks on Diet and Regimen. Dedicated to the Rising Generation](https://books.google.com/books?id=ODRlD83ww9IC).
 
 
 ### Fri 9/14: NO CLASS
@@ -87,7 +87,8 @@ DUE: Expertise analysis. Find an article about diet and health, and write a 500-
 
 
 ### Wed 9/19
-- Jessica J. Mudry, *Measured Meals. Nutrition in America*, 21-46 (Chapter 1).
+- Jessica J. Mudry, *Measured Meals. Nutrition in America*, 1-19 (Introduction: Eating by Numbers); 21-46 (Chapter 1: Early History of American Nutrition Research).
+
 
 ### Fri 9/21
 - Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine* 34 (May 1887): 59-74.
@@ -98,10 +99,11 @@ We don't need to summarize the main points of the article---they are clearly sta
     - How/why does metaphor play a role?
 
 
+
 ## From Malnutrition to Vitamania
 
 ### Mon 9/24
-- *Eating Right in America*, "Beginning of Modern Dietary Reform," 13-44.
+- *Eating Right in America*, 13-44 (Chapter 2: Scientific Moralization...).
 Here we get another look at food reformers in the early 20th century, with an emphasis on the links between diet and morality. A few key points to consider: What does "morality" mean in this chapter? Why is it so important (per the reformers) to have the proper diet? How is the proper diet related to the supposedly universal calorie?   
 
 
@@ -110,7 +112,7 @@ Here we get another look at food reformers in the early 20th century, with an em
 
 
 ### Fri 9/28
-- Catherine Price, _Vitamania_, 47-63 (4: Journey into Food);
+- Catherine Price, _Vitamania_, 47-63 (Chapter 4: Journey into Food);
 
 
 
@@ -129,7 +131,7 @@ Here we get another look at food reformers in the early 20th century, with an em
 
 
 ### Wed 10/3
-- Catherine Price, _Vitamania_, 64-90 (5: A to Zeitgeist).
+- Catherine Price, _Vitamania_, 64-90 (Chapter 5: A to Zeitgeist).
 
 
 ### Fri 10/5
@@ -152,7 +154,7 @@ Here we get another look at food reformers in the early 20th century, with an em
 ## Seeds of Change
 
 ### Mon 10/15
-- Warren Belasco, _Appetitle for Change_ 15-28; 111-131.
+- Warren Belasco, _Appetitle for Change_ 15-28 (Chapter 1: An Edible Dynamic); 111-131 (Chapter 5: The Orthodox Defense: The War of the Metaphors).
 
 
 ### Wed 10/17
@@ -216,7 +218,7 @@ We’ve been reading about the language by which foods and supplements are label
 ## Organics and Food Quality
 
 ### Mon 11/12
- - John T. Lang, _What's So Controversial about GMOs_,  7-24 (Introduction); 91-114 (Scientific Fallibility).
+ - John T. Lang, _What's So Controversial about GMOs_,  7-24 (Introduction); 91-114 (Chapter 4: Scientific Fallibility).
 
 
 ### Wed 11/14
@@ -224,7 +226,7 @@ We’ve been reading about the language by which foods and supplements are label
 Like the last article, you should skim the sociological theory and jargon at the beginning, focusing your attention on p. 467, when the author begins to compare the two movements. Our discussion will focus on (and the article nicely outlines these with clear headings: **What are the key historical similarities and differences** between the Gramhamites and the organic-ites (for lack of better term)?
 
 ### Fri 11/16
-- Georgy Scrinis, _Nutritionism_, "Food Quality Paradigm," 215-236.
+- Georgy Scrinis, _Nutritionism_, 215-236 (Chapter 9: The Food Quality Paradigm).
 The gist of the article is straightforward enough, so we'll discuss some of the larger questions that Scrinis raises. Are Tables 9.1 and 9.2 useful ways of categorizing levels of processing? What are the potential problems? What can we learn from the history of organics on this issue? Scrinis is adamant (page 223, for instance) that health threats come primarily from "high levels of reconstituted, degraded, and synthetic food components." Do you agree? Similarly, is it true (page 226), that nutritionism is far less important than the "range of chemical pesticides, antibiotics, and growth hormones found in industrially produced foods"? Does one have to be educated about "good" food? Is it natural? Should education focus on nutrition or eating?
 
 
