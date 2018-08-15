@@ -14,27 +14,30 @@ header: trails
 
 ### Monday, 8/20: The course plan
 Introduction to course, syllabus, expectations, research projects, etc.
+- Explore the [National Trails System](https://www.nps.gov/subjects/nationaltrailssystem/index.htm).
+- Survey the [National Trails Map](https://www.nps.gov/subjects/nationaltrailssystem/upload/National-Trails-50th-Map-02-09-18.pdf).
 
-### Wednesday, 8/22: What exactly is a trail?
-- Explore the [NHS site](https://www.nps.gov/subjects/nationaltrailssystem/index.htm).
-- ["Landscape Lines 15: Historic Trails"](https://permanent.access.gpo.gov/gpo54009/Landscape_Lines_15.pdf). Margie Coffin Brown, (National Park Service, n.d.).
--   Timothy Earle, "Routes through the Landscape: A Comparative Approach," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 253--70.
-
-### Friday, 8/24:
--   James E. Snead, Clark L. Erickson, and J. Andrew Darling, "Making Human Space: The Archaeology of Trails, Paths, and Roads," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 1--19.
--   James E. Snead, "Trails of Tradition: Movement, Meaning, and Place," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 42--60.
+### Wednesday, 8/22: The significance of trails
+- James E. Snead, Clark L. Erickson, and J. Andrew Darling, "Making Human Space: The Archaeology of Trails, Paths, and Roads," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 1--19. [PDF](readings/making-human-space.pdf)
+- Explore the histories of the [NTIR Historic Trails](https://www.nps.gov/orgs/1453/index.htm).
 
 #### Noteworthy
--   Robert Moor, *On Trails: An Exploration* (London: Quarto Publishing Group UK, 2017).
+- Timothy Earle, "Routes through the Landscape: A Comparative Approach," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 253--70.
+- James E. Snead, "Trails of Tradition: Movement, Meaning, and Place," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 42--60.
+
+
+### Friday, 8/24:
+- Robert Moor, *On Trails: An Exploration* (London: Quarto Publishing Group UK, 2017), 161--202. [PDF](readings/on-trails.pdf)
 
 
 
 ## Week 2: The challenge of public history
 
 ### Monday, 8/27: Public Historiography
-- Robin W. Winks, "A Public Historiography," *The Public Historian* 14, no. 3 (1992): 93--105.
+- Robin W. Winks, "A Public Historiography," *The Public Historian* 14, no. 3 (1992): 93--105. [JSTOR](https://www.jstor.org/stable/3378234?seq=1#page_scan_tab_contents).
 - Play Oregon Trail [online](https://classicreload.com/oregon-trail.html)
     - How would Winks analyze this game? Who is in the game? Who isn't? How does the game succeed and fail at popularizing history?
+- Download and critique the [NPS Oregon Trail Mobile App](https://www.nps.gov/oreg/learn/photosmultimedia/mobile-tours-and-apps.htm).
 
 ### Wednesday, 8/29: On second thought...
 - Phil Edwards, "[The Bloody, Sexy, Drunken Oregon Trail](https://www.vox.com/2016/3/3/11152436/r-rated-oregon-trail)" (*Vox*, 3 March 2016).
@@ -61,9 +64,10 @@ Introduction to course, syllabus, expectations, research projects, etc.
 
 ### Friday, 9/7: NTIR visit?
 #### Technical references
--   ["National Trails System Act"](https://www.nps.gov/parkhistory/online_books/anps/anps_6g.htm) (1968).
--   ["National Parks and Recreation Act"](https://www.nps.gov/mawa/upload/public-law-95-625.pdf) (1978).
-    -   section 551 ("Amendments to National Trails System Act").
+- ["Landscape Lines 15: Historic Trails"](https://permanent.access.gpo.gov/gpo54009/Landscape_Lines_15.pdf). Margie Coffin Brown, (National Park Service, n.d.).
+- ["National Trails System Act"](https://www.nps.gov/parkhistory/online_books/anps/anps_6g.htm) (1968).
+- ["National Parks and Recreation Act"](https://www.nps.gov/mawa/upload/public-law-95-625.pdf) (1978).
+    - section 551 ("Amendments to National Trails System Act").
 
 #### SKIM
 -  ["Guidance for Recording and Evaluating Linear Cultural Resources"](http://www.oregon.gov/oprd/HCD/SHPO/docs/ORLinearResourcesGuidancev2.pdf)Oregon State Historic Preservation Office, (Oregon Parks and Recreation Department, 2013).
@@ -77,20 +81,21 @@ Introduction to course, syllabus, expectations, research projects, etc.
 ### Monday, 9/10:
 - Richard White, [What Is Spatial History?](https://web.stanford.edu/group/spatialhistory/media/images/publication/what%20is%20spatial%20history%20pub%20020110.pdf). (Stanford Spatial History Project, 2010).
 - Yi-Fu Tuan, "Space and Place: Humanistic Perspective," in *Philosophy in Geography*, ed. Stephen Gale and Gunnar Olsson (Boston: D. Reidel Publishing Company, 1979), 387--427.
+- David J. Bodenhamer, “Creating a Landscape of Memory: The Potential of Humanities GIS,” International Journal of Humanities and Arts Computing 1, no. 2 (2007): 97–110.
 
 #### Noteworthy
 -   Yi-fu Tuan, *Space and Place: The Perspective of Experience* (Minneapolis: University of Minnesota Press, 1977), chapter 7 ("Mythical Space and Place"); chapter 9 ("Time in Experiential Space").
 
 
 ###  Wednesday, 9/12: Deconstructing Maps
-- J. B. Harley, "Deconstructing the Map," *Cartographica* 26, no. 2 (1989): 1--20.\*
+- J. B. Harley, "Deconstructing the Map," *Cartographica* 26, no. 2 (1989): 1--20.
 - Mark Monmonier and H. J. de Blij, *How to Lie with Maps*, 2nd edition (Chicago: University of Chicago Press, 1996)chapter 1 ("Introduction), chapter 5 ("Maps That Advertise), chapter 6 ("Development Maps"), and/or chapter 7 ("Maps for Political Propaganda")
-- something from Wood?
+- Mike Foster, “The Lost Art of Critical Map Reading,” Graphicarto (blog), February 27, 2014.  [online](http://www.graphicarto.com/the-lost-art-of-critical-map-reading/).
+- Linda Poon, “What Cities Look Like When Your Brain Does the Mapping, Not GPS,” CityLab, accessed August 14, 2018, http://www.citylab.com/design/2015/11/maps-made-from-the-mind-not-from-gps/415128/.
 
 ### Friday, 9/14: NO CLASS
-- Work on map assignment
+- Work on map assignment; reading maps as texts
 
-Reading maps as texts
 -   [Santa Fe Trail](https://en.wikipedia.org/wiki/Santa_Fe_Trail#/media/File:Map_of_Santa_Fe_Trail-NPS.jpg) (NPS map)
 -   [Old Spanish Trail](http://www.oldspanishtrailcentennial.com/Gallery/Banner%20Large%20Final%201-2.jpg) (railroad map)
 -   [El Camino Real de Tierra Adentro](http://inahchihuahua.gob.mx/sections.pl?id=86) (Instituto Nacional de Anthropologia e Historia map)
@@ -135,9 +140,8 @@ Reading maps as texts
 -   Raymond Cross, "'Twice Born' from the Waters\': The Two-Hundred-Year Journey of the Mandan, Hidatsa, and Arikara Indians," in *Lewis & Clark : Legacies, Memories, and New Perspectives*, ed. Kris Fresonke and Mark David Spence (Berkeley: University of California Press, 2004), 117--42.
 
 
-### Friday, 9/21: NO CLASS
-- Field Trip Saturday, 9/22---Hubbell House?
-
+### Friday, 9/21
+TBA
 
 
 ## Week 6: Economic Histories and Commodity Flows
