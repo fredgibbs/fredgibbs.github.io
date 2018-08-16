@@ -251,9 +251,10 @@ The gist of the article is straightforward enough, so we'll discuss some of the 
 
 ### Mon 11/26
 - Michael Moss, [The Extraordinary Science of Addictive Junk Food](http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html), *The New York Times*, February 2013.   
+- David H. Freedman, [How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true), *The Atlantic*, July 2013.
 
 ### Wed 11/28
-- David H. Freedman, [How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true), *The Atlantic*, July 2013.
+- A. F. La Berge, “How the Ideology of Low Fat Conquered America,” _Journal of the History of Medicine and Allied Sciences_ 63.2 (2007): 139–77.
 
 ### Fri 11/30
 - David Berreby, [The Obesity Era](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong), *Aeon*, June 2013.
