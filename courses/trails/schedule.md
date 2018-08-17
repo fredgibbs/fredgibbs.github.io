@@ -35,6 +35,7 @@ Introduction to course, syllabus, expectations, research projects, etc.
 
 ### Monday, 8/27: Public Historiography
 - Robin W. Winks, "A Public Historiography," *The Public Historian* 14, no. 3 (1992): 93--105. [JSTOR](https://www.jstor.org/stable/3378234?seq=1#page_scan_tab_contents).
+- SKIM: F. G. Young, “The Oregon Trail” 1, no. 4 (December 1, 1900): 339–70.
 - Play Oregon Trail [online](https://classicreload.com/oregon-trail.html)
     - How would Winks analyze this game? Who is in the game? Who isn't? How does the game succeed and fail at popularizing history?
 - Download and critique the [NPS Oregon Trail Mobile App](https://www.nps.gov/oreg/learn/photosmultimedia/mobile-tours-and-apps.htm).
@@ -90,8 +91,8 @@ Introduction to course, syllabus, expectations, research projects, etc.
 ###  Wednesday, 9/12: Deconstructing Maps
 - J. B. Harley, "Deconstructing the Map," *Cartographica* 26, no. 2 (1989): 1--20.
 - Mark Monmonier and H. J. de Blij, *How to Lie with Maps*, 2nd edition (Chicago: University of Chicago Press, 1996)chapter 1 ("Introduction), chapter 5 ("Maps That Advertise), chapter 6 ("Development Maps"), and/or chapter 7 ("Maps for Political Propaganda")
-- Mike Foster, “The Lost Art of Critical Map Reading,” Graphicarto (blog), February 27, 2014.  [online](http://www.graphicarto.com/the-lost-art-of-critical-map-reading/).
-- Linda Poon, “What Cities Look Like When Your Brain Does the Mapping, Not GPS,” CityLab, accessed August 14, 2018, http://www.citylab.com/design/2015/11/maps-made-from-the-mind-not-from-gps/415128/.
+- Mike Foster, “[The Lost Art of Critical Map Reading](http://www.graphicarto.com/the-lost-art-of-critical-map-reading/),” _Graphicarto_, February 27, 2014.
+- Linda Poon, “[What Cities Look Like When Your Brain Does the Mapping, Not GPS](http://www.citylab.com/design/2015/11/maps-made-from-the-mind-not-from-gps/415128/),” CityLab (2015).
 
 ### Friday, 9/14: NO CLASS
 - Work on map assignment; reading maps as texts
@@ -226,7 +227,7 @@ These readings complicate Turner's thesis by either a) showing that westward mig
 -   Elliott West, "Families," in *The Way to the West: Essays on the Central Plains* (Albuquerque: University of New Mexico Press, 1995), 85--126.
 
 ### Wednesday, 10/10: Women in their own words
--   [*Ho for California!: Women's Overland Diaries from the Huntington Library*](https://nwld.alexanderstreet.com/cgi-bin/asp/philo/nwld/documentidx.pl?sourceid=S212) Sandra L. Myres, ed., *y* (San Marino, Calif.: Huntington Library Press, 2007).
+-   [*Ho for California!: Women's Overland Diaries from the Huntington Library*](https://nwld.alexanderstreet.com/cgi-bin/asp/philo/nwld/documentidx.pl?sourceid=S212) Sandra L. Myres, ed., (San Marino, Calif.: Huntington Library Press, 2007).
     -   esp. Mary Stuart Bailey, Helen McCowen, Harriet Bunyard, and Maria Hargrave Schrode
 -   "Susan Shelby Magoffin: A Wandering Princess on the Santa Fe Trail," in Deborah Lawrence, *Writing the Trail : Five Women's Frontier Narratives* (Iowa City: University of Iowa Press, 2006), 9--34.\*
 
