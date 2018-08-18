@@ -50,8 +50,8 @@ Physics
 
 ## Publications
 
-### Book Manuscript
-_Poison, Medicine, and Disease in Late Medieval and Early Modern Europe_. Forthcoming from Routledge, July 2018.
+### Book
+[_Poison, Medicine, and Disease in Late Medieval and Early Modern Europe_](https://www.routledge.com/Poison-Medicine-and-Disease-in-Late-Medieval-and-Early-Modern-Europe/Gibbs/p/book/9781472420398).  Routledge, July 2018.
 
 
 ### Articles in Refereed Journals

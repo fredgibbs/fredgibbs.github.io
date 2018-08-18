@@ -5,9 +5,9 @@ permalink: /about
 ---
 
 # Hello World!
-I'm Fred Gibbs, an ~~assistant~~ associate professor in the [history department](http://history.unm.edu) at the [University of New Mexico](http://unm.edu).
+I'm Fred Gibbs, an associate professor in the [history department](http://history.unm.edu) at the [University of New Mexico](http://unm.edu).
 
-My work in medical and environmental history focuses on the changing historical relationships between food, diet and health (particularly the popularization of nutritional science), and the intersection of food, environmental, and urban histories (particularly food production, distribution, and geographies of health).
+My research focuses primarily on the changing historical relationships between food, diet and health (particularly the popularization of nutritional science), and the intersection of food, environmental, and urban histories (particularly food production, distribution, and geographies of health).
 
 My work in the digital humanities (particularly digital history) explores new modes of historical research and publishing, the importance of design in scholarship (especially cartography), critical GIS, and emerging digital publication practices for scholarship.
 
@@ -15,7 +15,7 @@ I continue to run the UNM [Spatial Humanities Working Group](http://spatialhuman
 
 More on these projects, as well as other ongoing and previous research appears on [my project portfolio](../projects), and check peruse some publications (and links to them) on [my CV](../cv).
 
-Previously, my research focused on premodern toxicology, particularly late medieval and early modern medical literature on poison. I wrote a really boring book about it.
+Previously, my research focused on premodern toxicology, particularly late medieval and early modern medical literature on poison. I wrote an significant but boring [book](https://www.routledge.com/Poison-Medicine-and-Disease-in-Late-Medieval-and-Early-Modern-Europe/Gibbs/p/book/9781472420398) about it.
 
 
 # History
