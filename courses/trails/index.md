@@ -33,7 +33,7 @@ The course will be divided roughly in half. The first segment provides a multi-f
 Preparation for each class meeting and active participation in the class discussions
 Completion of research project, including completing various components of the projects at deadlines throughout the semester.
 
-- To access all other articles and book chapters on the syllabus, you will need to subscribe to the course Zotero library. Please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library is [https://www.zotero.org/groups/632527/items](https://www.zotero.org/groups/632527/items), but you must have clicked on the link in your invitation to access the library!
+- To access all other articles and book chapters on the syllabus, you will need to subscribe to the course Zotero library. Please see the instructions for doing this at [fredgibbs.net/courses/etc/zotero.html](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library is [https://www.zotero.org/groups/1849015/national_trails/items](https://www.zotero.org/groups/1849015/national_trails/items), but you must have clicked on the link in your invitation to access the library!
 
 
 ## Accessibility
