@@ -6,11 +6,6 @@ term: Fall 2018
 header: food-health-diet
 ---
 
-Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
-Mesa Vista Hall, 1077    
-Office Hours: M 12-2; T 10-12; by appointment    
------
-
 ## Introductions
 
 ### Mon 8/20  
@@ -18,12 +13,13 @@ Introduction to the course, syllabus, and expectations.
 
 
 ### Wed 8/22  
-Dietary advice is constantly changing. What possible utility does history have here?
+Dietary advice is constantly changing. What possible use is history?
 - Kevin Quealy and Margot Sanger-katz, “Is Sushi ‘Healthy’? What About Granola? Where Americans and Nutritionists Disagree,” The New York Times, July 5, 2016. [NYTimes](http://www.nytimes.com/interactive/2016/07/05/upshot/is-sushi-healthy-what-about-granola-where-americans-and-nutritionists-disagree.html).
 
 
 ### Fri 8/24
-- Selections from Mark Grant (tr.), _Galen on Food and Diet_: 1-8; 14-18; 68-84.
+- Selections from Mark Grant (tr.), _Galen on Food and Diet_: 1-8; 14-18; 68-84. [PDF](readings/Galen.pdf)
+
 How did physicians like Galen conceive the notion of disease? According to Galen, how does diet fit into medical understandings of disease? How is his approach similar and different to modern approaches to diet? How would you describe his writing style? Does it seem strange for a physician?
 
 
@@ -32,14 +28,16 @@ How did physicians like Galen conceive the notion of disease? According to Galen
 
 ### Mon 8/27
 - Ken Albala, "The Human Body," 48-62; "Food," 82-88; 91-104.
+
 The PDF has considerably more than you need to read. For the specified page ranges, only read within entire sections. For instance: on page 62, read only up through the "Spirits" heading, and so on; some sections (like on p. 91) start near the bottom of the page [ = less reading!].
 
 Where do you see overlap with Galen's ideas? What do you see as the pros and cons for the Renaissance understanding of digestion? Why do drunk people crave salty foods? Why does the physicality of food matter so much if balancing the humors is so important? Aren't they totally different systems? Is there a modern analog to the Renaissance "virtues" of certain foods as described in the reading?
 
 
 ### Wed 8/29
-Here's our first excursion into a primary source without translation (making its eccentricities even more apparent). The language seems weird at first (and it is, compared to ours) but you get used to it after a few pages. How does Cheyne's advice echo what we've been reading about? What is different? In either case, what are his primary concerns? To what extent do you see the moral component of diet that we began to talk about last time? Can anyone actually follow this kind of advice?
 - George Cheyne, _An Essay on Regimen_," i-xxiv.
+
+Here's our first excursion into a primary source without translation (making its eccentricities even more apparent). The language seems weird at first (and it is, compared to ours) but you get used to it after a few pages. How does Cheyne's advice echo what we've been reading about? What is different? In either case, what are his primary concerns? To what extent do you see the moral component of diet that we began to talk about last time? Can anyone actually follow this kind of advice?
 
 
 ### Fri 8/31
@@ -136,7 +134,7 @@ Here we get another look at food reformers in the early 20th century, with an em
 
 ### Fri 10/5
 - Rima D. Apple, "'They Need it Now': Science, Advertising and Vitamins, 1925-1940".   
-
+- Liz Szabo, [Vitamin D, the Sunshine Supplement, Has Shadowy Money Behind It]( https://www.nytimes.com/2018/08/18/business/vitamin-d-michael-holick.html).
 
 
 ## A language of numbers
