@@ -95,7 +95,7 @@ Introduction to course, syllabus, expectations, research projects, etc.
 - Linda Poon, “[What Cities Look Like When Your Brain Does the Mapping, Not GPS](http://www.citylab.com/design/2015/11/maps-made-from-the-mind-not-from-gps/415128/),” CityLab (2015).
 
 ### Friday, 9/14: NO CLASS
-- Work on map assignment; reading maps as texts
+- Work on map assignment; reading maps as texts (more to be added later)
 
 -   [Santa Fe Trail](https://en.wikipedia.org/wiki/Santa_Fe_Trail#/media/File:Map_of_Santa_Fe_Trail-NPS.jpg) (NPS map)
 -   [Old Spanish Trail](http://www.oldspanishtrailcentennial.com/Gallery/Banner%20Large%20Final%201-2.jpg) (railroad map)
@@ -108,26 +108,39 @@ Introduction to course, syllabus, expectations, research projects, etc.
 
 
 
-## Week 5: Native history along/among the trails
+## Week 5: Environmental + American history
 
-### Monday, 9/17: Native space
--   Juliana Barr, "Geographies of Power: Mapping Indian Borders in the 'Borderlands' of the Early Southwest," *William and Mary Quarterly* 68, no. 1 (2011): 5--46.
+### Monday, 9/17: Mythical and Natural Environments
 - DUE: Map comparison (from last week)
+- Frederick Jackson Turner, "The Significance of the Frontier in American History," *Annual Report of the American Historical Association*, 1894, 197--227.
+- Walter Prescott Webb, "The American Approach to the Great Plains," in *The Great Plains* (Boston: Ginn and Co., 1931), 140--204.
 
 #### Noteworthy
--   Ned Blackhawk, *Violence over the Land: Indians and Empires in the Early American West* (Harvard University Press, 2008).
-    -   chapter 2 ("The Making of the New Mexican-Ute Borderlands"), chapter 5 ("Great Basin Indians in the Era of Lewis & Clark"), and/or chapter 7 ("Utah's Indians and the Crisis of Mormon Settlement")
--   Pekka Hämäläinen, *The Comanche Empire* (New Haven: Yale University Press, 2009).
-    -   chapter 1 ("Introduction: Reversed Colonialism"), chapter 4 ("The Empire of the Plains"), and/or chapter 5 ("Greater Comancheria")
--   T.J. Ferguson, G. Lennis Berlin, and Leigh J. Kuwanwisiwma, "Kukheypa: Searching for Hopi Trails," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 20--41.
--   Juliana Barr, *Peace Came in the Form of a Woman: Indians and Spaniards in the Texas Borderlands* (Chapel Hill, NC: University of North Carolina Press, 2014).
-    -   chapter 3 ("Civil Alliance and 'Civility' in Mission-Presidio Complexes") and/or chapter 4 ("Negotiating Fear with Violence: Apaches and Spaniards at Midcentury")
--   Anne F. Hyde, *Empires, Nations, and Families: A New History of the North American West, 1800-1860*, Reprint edition (New York: Ecco, 2012).
-    -   chapter 4 ("The Early West: The Many Faces of Indian Country") and/or chapter 5 ("Empires in Transition: Indian Country at Midcentury, 1825--1860")
--   Daniel Goodenough, Jr., "Lost on Cold Creek," *Montana: The Magazine of Western History* 24, no. 4 (1974): 16--29.
+-   Henry Nash Smith, "The Garden of the World," in *Virgin Land: The American West as Symbol and Myth* (Cambridge, Mass.: Harvard University Press, 1950): 123--264.
+-   Elliot West, *The Contested Plains: Indians, Goldseekers, and the Rush to Colorado* (Lawrence: University Press of Kansas, 1998).
+    -   prologue and/or chapter 3 ("Frontiers and Visions")
 
 
-### Wednesday, 9/19: Problems of Memory
+
+### Wednesday, 9/19: Flora, Fauna, and Food
+These readings complicate Turner's thesis by either a) showing that westward migration was not as simple as it seemed, or b) that northward migration from Mexico also reshaped trailside environments in the New World.
+
+-   Elliott West, "Land," in *The Way to the West: Essays on the Central Plains* (Albuquerque: University of New Mexico Press, 1995), 13--50.\*
+-   William W. Dunmire, "The Corridor into Texas," in *Gardens of New Spain: How Mediterranean Plants and Foods Changed America* (Austin: University of Texas Press, 2004), 229--261.\*
+-   Guy McClellan, *Place Names Along the Santa Fe Trail* (maps)
+    -   ["What Were Places Along the Trail Named For (Besides Individuals)?"](https://guymcclellan.carto.com/viz/b4bf8350-a115-11e6-8fc8-0e3ff518bd15/public_map)
+
+#### Noteworthy
+-   Elliott West, "Animals," in *The Way to the West: Essays on the Central Plains* (Albuquerque: University of New Mexico Press, 1995), 51--84.\*
+-   Thomas B. Hall, *Medicine on the Santa Fe Trail* (Dayton, Ohio: Morningside Bookshop, 1971).
+-   Samuel P. Arnold, *Eating Up the Santa Fe Trail: Recipes and Lore from the Old West* (Golden, Colo.: Fulcrum Publishing, 2001).
+-   Fabiola Cabeza De Baca Gilbert, *Good Life: New Mexico Traditions And Food*, (Albuquerque: Museum of New Mexico Press, 2005).
+-   Dana Goodyear, "What Happened At Alder Creek?," *The New Yorker*, April 17, 2006, 140--151.
+
+
+
+
+### Friday, 9/21: Problems of Memory
 -   Jackson B. Miller, "Coyote's Tale on the Old Oregon Trail: Challenging Cultural Memory through Narrative at the Tamástslikt Cultural Institute," *Text & Performance Quarterly* 25, no. 3 (July 2005): 220--38.
 -   Michael J. Zogry, "Wide Open Spaces: The Trail of Tears, the Lewis and Clark Expedition, and Gaps in the National Memory," in *New Territories, New Perspectives: The Religious Impact of the Louisiana Purchase*, ed. Richard J. Callahan, Jr. (Columbia, Mo: University of Missouri, 2008), 56--82.
 -   Guy McClellan, *Place Names Along the Santa Fe Trail*
@@ -140,9 +153,6 @@ Introduction to course, syllabus, expectations, research projects, etc.
 -   Marion Blackburn, "Return to the Trail of Tears," *Archaeology*, no. 2 (2012): 53.
 -   Raymond Cross, "'Twice Born' from the Waters\': The Two-Hundred-Year Journey of the Mandan, Hidatsa, and Arikara Indians," in *Lewis & Clark : Legacies, Memories, and New Perspectives*, ed. Kris Fresonke and Mark David Spence (Berkeley: University of California Press, 2004), 117--42.
 
-
-### Friday, 9/21
-TBA
 
 
 ## Week 6: Economic Histories and Commodity Flows
@@ -162,7 +172,7 @@ TBA
 -   Douglas C. Comer, *Ritual Ground: Bent's Old Fort, World Formation, and the Annexation of the Southwest* (Berkeley: University of California Press, 1996).
 
 
-### Wednesday, 9/26: cities, capitalists, and commodities
+### Wednesday, 9/26: Cities, Capitalists, and Commodities
 -   Jay Gitlin, "Beyond St. Louis: Negotiating the Course of Empire, " in *The Bourgeois Frontier: French Towns, French Traders, and American Expansion* (New Haven, Conn.: Yale University Press, 2010), 83--123.
 -   Susan Calafate Boyle, \"New Mexican Merchants and Mercantile Capitalism,\" in *Los Capitalistas: Hispano Merchants and the Santa Fe Trade* (Albuquerque: University of New Mexico Press, 2000), 57--72.
 
@@ -178,38 +188,32 @@ TBA
 -   Darlis A. Miller, *Soldiers and Settlers: Military Supply in the Southwest, 1861-1885* (Albuquerque: University of New Mexico Press, 1989).
 
 
-### Friday, 9/28: TBD
+### Friday, 9/28: TBA
 
 
 
-## Week 7: Environmental + American history
+## Week 7: Native history along/among the trails
 
-### Monday, 10/1: mythical and natural environments
--   Frederick Jackson Turner, "The Significance of the Frontier in American History," *Annual Report of the American Historical Association*, 1894, 197--227.
--   Walter Prescott Webb, "The American Approach to the Great Plains," in *The Great Plains* (Boston: Ginn and Co., 1931), 140--204.
-
-#### Noteworthy
--   Henry Nash Smith, "The Garden of the World," in *Virgin Land: The American West as Symbol and Myth* (Cambridge, Mass.: Harvard University Press, 1950): 123--264.
--   Elliot West, *The Contested Plains: Indians, Goldseekers, and the Rush to Colorado* (Lawrence: University Press of Kansas, 1998).
-    -   prologue and/or chapter 3 ("Frontiers and Visions")
-
-
-### Wednesday, 10/3: flora, fauna, and food
-These readings complicate Turner's thesis by either a) showing that westward migration was not as simple as it seemed, or b) that northward migration from Mexico also reshaped trailside environments in the New World.
-
--   Elliott West, "Land," in *The Way to the West: Essays on the Central Plains* (Albuquerque: University of New Mexico Press, 1995), 13--50.\*
--   William W. Dunmire, "The Corridor into Texas," in *Gardens of New Spain: How Mediterranean Plants and Foods Changed America* (Austin: University of Texas Press, 2004), 229--261.\*
--   Guy McClellan, *Place Names Along the Santa Fe Trail* (maps)
-    -   ["What Were Places Along the Trail Named For (Besides Individuals)?"](https://guymcclellan.carto.com/viz/b4bf8350-a115-11e6-8fc8-0e3ff518bd15/public_map)
+### Monday, 10/1: Native space
+-   Juliana Barr, "Geographies of Power: Mapping Indian Borders in the 'Borderlands' of the Early Southwest," *William and Mary Quarterly* 68, no. 1 (2011): 5--46.
 
 #### Noteworthy
--   Elliott West, "Animals," in *The Way to the West: Essays on the Central Plains* (Albuquerque: University of New Mexico Press, 1995), 51--84.\*
--   Thomas B. Hall, *Medicine on the Santa Fe Trail* (Dayton, Ohio: Morningside Bookshop, 1971).
--   Samuel P. Arnold, *Eating Up the Santa Fe Trail: Recipes and Lore from the Old West* (Golden, Colo.: Fulcrum Publishing, 2001).
--   Fabiola Cabeza De Baca Gilbert, *Good Life: New Mexico Traditions And Food*, (Albuquerque: Museum of New Mexico Press, 2005).
--   Dana Goodyear, "What Happened At Alder Creek?," *The New Yorker*, April 17, 2006, 140--151.
+-   Pekka Hämäläinen, *The Comanche Empire* (New Haven: Yale University Press, 2009).
+    -   chapter 1 ("Introduction: Reversed Colonialism"), chapter 4 ("The Empire of the Plains"), and/or chapter 5 ("Greater Comancheria")
+-   T.J. Ferguson, G. Lennis Berlin, and Leigh J. Kuwanwisiwma, "Kukheypa: Searching for Hopi Trails," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 20--41.
+-   Juliana Barr, *Peace Came in the Form of a Woman: Indians and Spaniards in the Texas Borderlands* (Chapel Hill, NC: University of North Carolina Press, 2014).
+    -   chapter 3 ("Civil Alliance and 'Civility' in Mission-Presidio Complexes") and/or chapter 4 ("Negotiating Fear with Violence: Apaches and Spaniards at Midcentury")
+-   Anne F. Hyde, *Empires, Nations, and Families: A New History of the North American West, 1800-1860*, Reprint edition (New York: Ecco, 2012).
+    -   chapter 4 ("The Early West: The Many Faces of Indian Country") and/or chapter 5 ("Empires in Transition: Indian Country at Midcentury, 1825--1860")
+-   Daniel Goodenough, Jr., "Lost on Cold Creek," *Montana: The Magazine of Western History* 24, no. 4 (1974): 16--29.
 
-### Friday, 10/5: NO CLASS
+
+### Wednesday, 10/3:
+-   Ned Blackhawk, *Violence over the Land: Indians and Empires in the Early American West* (Harvard University Press, 2008).
+    -   chapter 2 ("The Making of the New Mexican-Ute Borderlands"), chapter 5 ("Great Basin Indians in the Era of Lewis & Clark"), and/or chapter 7 ("Utah's Indians and the Crisis of Mormon Settlement")
+
+
+### Friday, 10/5: TBA
 
 
 
@@ -237,6 +241,8 @@ These readings complicate Turner's thesis by either a) showing that westward mig
 -   Sandra L. Myres, *Westward Ho! Women on the Overland Trails* (Albuquerque : University of New Mexico Press, 1982).
 
 ### Friday, 10/12: NO CLASS (FALL BREAK)
+
+
 
 ### Specific Trail Readings
 - Southern/New Mexican trails
