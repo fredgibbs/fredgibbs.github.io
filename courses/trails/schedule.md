@@ -26,15 +26,25 @@ Introduction to course, syllabus, expectations, research projects, etc.
 - James E. Snead, "Trails of Tradition: Movement, Meaning, and Place," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 42--60.
 
 
-### Friday, 8/24:
-- Robert Moor, *On Trails: An Exploration* (London: Quarto Publishing Group UK, 2017), 161--202. [PDF](readings/on-trails.pdf)
+### Friday, 8/24: NTIR Visit by Frank Norris
+Today we'll have a guest lecture by NPS-NTIR historian Frank Norris, who'll provide an overview and administrative history of the trail system. To provide a bit of concrete detail about trail administration, skim before class (nevermind the details, just get an impression of the challenges faced in trail interpretation):
+
+#### Technical references
+- ["Landscape Lines 15: Historic Trails"](https://permanent.access.gpo.gov/gpo54009/Landscape_Lines_15.pdf). Margie Coffin Brown, (National Park Service, n.d.).
+- ["National Trails System Act"](https://www.nps.gov/parkhistory/online_books/anps/anps_6g.htm) (1968).
+- ["National Parks and Recreation Act"](https://www.nps.gov/mawa/upload/public-law-95-625.pdf) (1978).
+    - section 551 ("Amendments to National Trails System Act").
+-  ["Guidance for Recording and Evaluating Linear Cultural Resources"](http://www.oregon.gov/oprd/HCD/SHPO/docs/ORLinearResourcesGuidancev2.pdf)Oregon State Historic Preservation Office, (Oregon Parks and Recreation Department, 2013).
+
 
 
 
 ## Week 2: The challenge of public history
 
 ### Monday, 8/27: Public Historiography
+- Robert Moor, *On Trails: An Exploration* (London: Quarto Publishing Group UK, 2017), 161--202. [PDF](readings/on-trails.pdf)
 - Robin W. Winks, "A Public Historiography," *The Public Historian* 14, no. 3 (1992): 93--105. [JSTOR](https://www.jstor.org/stable/3378234?seq=1#page_scan_tab_contents).
+
 - SKIM: F. G. Young, “The Oregon Trail” 1, no. 4 (December 1, 1900): 339–70.
 - Play Oregon Trail [online](https://classicreload.com/oregon-trail.html)
     - How would Winks analyze this game? Who is in the game? Who isn't? How does the game succeed and fail at popularizing history?
@@ -46,6 +56,7 @@ Introduction to course, syllabus, expectations, research projects, etc.
 - Douglas W. Dodd and Peter J. Edwards, "Getting History out of a Rut: Public Agencies Interpret Oregon's Oregon Trail," *The Public Historian* 16, no. 1 (1994): 45--50. [JSTOR](http://www.jstor.org/stable/3378581)
 
 ### Friday, 8/31: Contrasting accounts
+- Look through and critique [Santa Fe Trail Association website](https://www.santafetrail.org/).
 - LeRoy R. Hafen, "The Old Spanish Trail, Santa Fe to Los Angeles," *Huntington Library Quarterly* 11, no. 2 (1948): 149--60. [JSTOR](https://www.jstor.org/stable/3816075?seq=1#page_scan_tab_contents)
 - SKIM: Max L. Moorhead, "Blazing the Camino Real," in *New Mexico's Royal Road : Trade and Travel on the Chihuahua Trail* (Norman : University of Oklahoma Press, 1995), 3--27. [Google Books](https://books.google.com/books?id=ggW1fRWj4DkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 - MAYBE: John David Unruh, "Introduction: The Historians and the Overlanders," in *The Plains Across : The Overland Emigrants and the Trans-Mississippi West, 1840-60* (Urbana: University of Illinois Press, 1979), 3--27.
@@ -63,16 +74,7 @@ Introduction to course, syllabus, expectations, research projects, etc.
 - Thomas Bullock and Will Bagley, *The Pioneer Camp of the Saints: The 1846 and 1847 Mormon Trail Journals of Thomas Bullock* (Logan: Utah State University Press, 2001).
 
 
-### Friday, 9/7: NTIR visit?
-#### Technical references
-- ["Landscape Lines 15: Historic Trails"](https://permanent.access.gpo.gov/gpo54009/Landscape_Lines_15.pdf). Margie Coffin Brown, (National Park Service, n.d.).
-- ["National Trails System Act"](https://www.nps.gov/parkhistory/online_books/anps/anps_6g.htm) (1968).
-- ["National Parks and Recreation Act"](https://www.nps.gov/mawa/upload/public-law-95-625.pdf) (1978).
-    - section 551 ("Amendments to National Trails System Act").
-
-#### SKIM
--  ["Guidance for Recording and Evaluating Linear Cultural Resources"](http://www.oregon.gov/oprd/HCD/SHPO/docs/ORLinearResourcesGuidancev2.pdf)Oregon State Historic Preservation Office, (Oregon Parks and Recreation Department, 2013).
--   [*Wagon Tracks* 1, no. 3 (May 1987)](https://www.santafetrail.org/publications/wagon-tracks/pdf/V.%201%2086-87.pdf).
+### Friday, 9/7: NO CLASS
 
 
 
@@ -261,6 +263,7 @@ These readings complicate Turner's thesis by either a) showing that westward mig
     - Chapter 1 ("Doubling the National Territory: Louisiana"), chapter 4 ("The Reach Westward: to Circa 1830"), chapter 5 ("Shoving the Indians Out of the Way"), and/or chapter 8 ("Spanning a Continent---and Ocean")
 - D. W. Meinig, *The Shaping of America: A Geographical Perspective on 500 Years of History, Vol. 2: Continental America, 1800-1867* (New Haven: Yale University Press, 1995).
     - Chapter 1 ("Filling in the Framework: Migration Westward"); chapter 2 ("Occupying New Ground: Colonization, America Style"); and/or chapter 8 ("Making New Pathways: Waterways, Roads, and Trails")
+-   [*Wagon Tracks* 1, no. 3 (May 1987)](https://www.santafetrail.org/publications/wagon-tracks/pdf/V.%201%2086-87.pdf).
 
 ## Week 9: Research Projects
 
