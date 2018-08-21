@@ -40,7 +40,7 @@ Where do you see overlap with Galen's ideas? What do you see as the pros and con
 Here's our first excursion into a primary source without translation (making its eccentricities even more apparent). The language seems weird at first (and it is, compared to ours) but you get used to it after a few pages. How does Cheyne's advice echo what we've been reading about? What is different? In either case, what are his primary concerns? To what extent do you see the moral component of diet that we began to talk about last time? Can anyone actually follow this kind of advice?
 
 
-### Fri 8/31
+### Fri 8/31: TBA
 
 
 
@@ -60,19 +60,21 @@ What kinds of advice did his patients get in their personal correspondence? To w
 And the biggest question: **How did Cheyne establish his medical reputation?** Think about how some of the sections from his text we read last week can help us answer this so far.
 
 
-### Fri 9/7
-DUE: Expertise analysis. Find an article about diet and health, and write a 500-word answer to the question: **How does the author establish expertise?** Your analysis must use and reference class sources related to expertise.
+### Fri 9/7: NO CLASS
 
 
 
 ## 19th-century Reformers
 
 ### Mon 9/10
+DUE: Expertise analysis. Find an article about diet and health, and write a 500-word answer to the question: **How does the author establish expertise?** Your analysis must use and reference class sources related to expertise!
+
 - Shprintzen, _The Vegetarian Crusade_, 1-38 (Introduction and Chapter 1: Proto-vegetarianism). [online](https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=88c9c3b4-4d25-4888-9fc3-504fe236d4f6%40sessionmgr103&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=nlebk&AN=582993) and in Zotero.
+
 
 ### Wed 9/12
 - Sylvester Graham, [A Defence of the Graham System of Living: Or, Remarks on Diet and Regimen. Dedicated to the Rising Generation](https://books.google.com/books?id=ODRlD83ww9IC).
-
+What is your impression of this important dietary text of the early 19th century? How does this reflect what we read in Shprintzen last time? In what ways does it diverge?
 
 ### Fri 9/14: NO CLASS
 
