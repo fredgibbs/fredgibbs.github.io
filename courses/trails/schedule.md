@@ -31,35 +31,37 @@ Today we'll have a guest lecture by NPS-NTIR historian Frank Norris, who'll prov
 
 #### Technical references
 - ["Landscape Lines 15: Historic Trails"](https://permanent.access.gpo.gov/gpo54009/Landscape_Lines_15.pdf). Margie Coffin Brown, (National Park Service, n.d.).
+-  ["Guidance for Recording and Evaluating Linear Cultural Resources"](http://www.oregon.gov/oprd/HCD/SHPO/docs/ORLinearResourcesGuidancev2.pdf)Oregon State Historic Preservation Office, (Oregon Parks and Recreation Department, 2013).
 - ["National Trails System Act"](https://www.nps.gov/parkhistory/online_books/anps/anps_6g.htm) (1968).
 - ["National Parks and Recreation Act"](https://www.nps.gov/mawa/upload/public-law-95-625.pdf) (1978).
     - section 551 ("Amendments to National Trails System Act").
--  ["Guidance for Recording and Evaluating Linear Cultural Resources"](http://www.oregon.gov/oprd/HCD/SHPO/docs/ORLinearResourcesGuidancev2.pdf)Oregon State Historic Preservation Office, (Oregon Parks and Recreation Department, 2013).
 
 
 
 
-## Week 2: The challenge of public history
+## Week 2: The Challenge of Public History
 
-### Monday, 8/27: Public Historiography
-- Robert Moor, *On Trails: An Exploration* (London: Quarto Publishing Group UK, 2017), 161--202. [PDF](readings/on-trails.pdf)
-- Robin W. Winks, "A Public Historiography," *The Public Historian* 14, no. 3 (1992): 93--105. [JSTOR](https://www.jstor.org/stable/3378234?seq=1#page_scan_tab_contents).
-
-- SKIM: F. G. Young, “The Oregon Trail” 1, no. 4 (December 1, 1900): 339–70.
-- Play Oregon Trail [online](https://classicreload.com/oregon-trail.html)
-    - How would Winks analyze this game? Who is in the game? Who isn't? How does the game succeed and fail at popularizing history?
-- Download and critique the [NPS Oregon Trail Mobile App](https://www.nps.gov/oreg/learn/photosmultimedia/mobile-tours-and-apps.htm).
-
-### Wednesday, 8/29: On second thought...
-- Phil Edwards, "[The Bloody, Sexy, Drunken Oregon Trail](https://www.vox.com/2016/3/3/11152436/r-rated-oregon-trail)" (*Vox*, 3 March 2016).
-- Bill Bigelow, "On the Road to Cultural Bias: A Critique of The Oregon Trail CD-ROM," *Language Arts* 74, no. 2 (1997): 84--93. [JSTOR](https://www.jstor.org/stable/41482844?seq=1#page_scan_tab_contents)
-- Douglas W. Dodd and Peter J. Edwards, "Getting History out of a Rut: Public Agencies Interpret Oregon's Oregon Trail," *The Public Historian* 16, no. 1 (1994): 45--50. [JSTOR](http://www.jstor.org/stable/3378581)
-
-### Friday, 8/31: Contrasting accounts
-- Look through and critique [Santa Fe Trail Association website](https://www.santafetrail.org/).
+### Monday, 8/27: The Heroic Trail
+- F. G. Young, “The Oregon Trail” 1, no. 4 (December 1, 1900): 339–70.
 - LeRoy R. Hafen, "The Old Spanish Trail, Santa Fe to Los Angeles," *Huntington Library Quarterly* 11, no. 2 (1948): 149--60. [JSTOR](https://www.jstor.org/stable/3816075?seq=1#page_scan_tab_contents)
-- SKIM: Max L. Moorhead, "Blazing the Camino Real," in *New Mexico's Royal Road : Trade and Travel on the Chihuahua Trail* (Norman : University of Oklahoma Press, 1995), 3--27. [Google Books](https://books.google.com/books?id=ggW1fRWj4DkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
-- MAYBE: John David Unruh, "Introduction: The Historians and the Overlanders," in *The Plains Across : The Overland Emigrants and the Trans-Mississippi West, 1840-60* (Urbana: University of Illinois Press, 1979), 3--27.
+- Max L. Moorhead, "Blazing the Camino Real," in *New Mexico's Royal Road : Trade and Travel on the Chihuahua Trail* (Norman : University of Oklahoma Press, 1995), 3--27. [Google Books](https://books.google.com/books?id=ggW1fRWj4DkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+- Look through and critique [Santa Fe Trail Association website](https://www.santafetrail.org/).
+
+
+
+### Wednesday, 8/29: Another approach...
+- Robert Moor, *On Trails: An Exploration* (London: Quarto Publishing Group UK, 2017), 161--202. [PDF](readings/on-trails.pdf)
+- SKIM: Douglas W. Dodd and Peter J. Edwards, "Getting History out of a Rut: Public Agencies Interpret Oregon's Oregon Trail," *The Public Historian* 16, no. 1 (1994): 45--50. [JSTOR](http://www.jstor.org/stable/3378581)
+
+
+### Friday, 8/31: Popularizing the Trail
+- Robin W. Winks, "A Public Historiography," *The Public Historian* 14, no. 3 (1992): 93--105. [JSTOR](https://www.jstor.org/stable/3378234?seq=1#page_scan_tab_contents).
+- FIRST: Play Oregon Trail [online](https://classicreload.com/oregon-trail.html)
+    - How would Winks analyze this game? Who is in the game? Who isn't? How does the game succeed and fail at popularizing history?
+- Bill Bigelow, "On the Road to Cultural Bias: A Critique of The Oregon Trail CD-ROM," *Language Arts* 74, no. 2 (1997): 84--93. [JSTOR](https://www.jstor.org/stable/41482844?seq=1#page_scan_tab_contents)
+- Phil Edwards, "[The Bloody, Sexy, Drunken Oregon Trail](https://www.vox.com/2016/3/3/11152436/r-rated-oregon-trail)" (*Vox*, 3 March 2016).
+- THEN: Download and critique the [NPS Oregon Trail Mobile App](https://www.nps.gov/oreg/learn/photosmultimedia/mobile-tours-and-apps.htm).
+
 
 
 
@@ -68,9 +70,12 @@ Today we'll have a guest lecture by NPS-NTIR historian Frank Norris, who'll prov
 ### Monday, 9/3: LABOR DAY: NO CLASS
 
 ### Wednesday, 9/5: Original voices
-- Francis Parkman, *The Oregon Trail: Adventures on the Prairie in the 1840's* (Santa Barbara, Calif. : Narrative Press, 2001). NOTE: This will be divided up among the class so we're reading a few chapters each. [ProQuest](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=3375129#).
+- MAYBE: John David Unruh, "Introduction: The Historians and the Overlanders," in *The Plains Across : The Overland Emigrants and the Trans-Mississippi West, 1840-60* (Urbana: University of Illinois Press, 1979), 3--27.
+- Francis Parkman, *The Oregon Trail: Adventures on the Prairie in the 1840's* (Santa Barbara, Calif.: Narrative Press, 2001). NOTE: This will be divided up among the class so we're reading a few chapters each. [ProQuest](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=3375129#).
 - Josiah Gregg, *Commerce of the Prairies : Or, the Journal of a Santa Fé Trader, during Eight Expeditions across the Great Western Prairies, and a Residence of Nearly Nine Years in Northern Mexico* (New York: J. & H. G. Langley, 1845). [Google Books](https://books.google.com/books?id=3WHZTsz38gwC&printsec=frontcover&dq=Commerce+of+the+Prairies&hl=en&sa=X&ved=0ahUKEwjU3cOkidncAhUpllQKHRJYCUUQ6AEIKTAA#v=onepage&q=Commerce%20of%20the%20Prairies&f=false)
 - Lewis H. Garrard, *Wah-to-Yah and the Taos Trail* (Cincinnati: H. W. Derby & Co., 1850). [Internet Archive](https://archive.org/details/wahtoyahtaostrai00garr)
+
+#### Noteworthy
 - Thomas Bullock and Will Bagley, *The Pioneer Camp of the Saints: The 1846 and 1847 Mormon Trail Journals of Thomas Bullock* (Logan: Utah State University Press, 2001).
 
 
