@@ -46,10 +46,11 @@ All of the following should be read for overall flavor---don't get bogged down i
 
 Some of these readings provide maps, but the cartographic representation of the trails is generally lacking. I encourage you to view the maps of the trails on the NPS-NTIR website to get a better geographical sense of where the trails go. How much does geography matter in these older histories for today?
 
-- F. G. Young, “The Oregon Trail” 1, no. 4 (December 1, 1900): 339–70.
-- LeRoy R. Hafen, "The Old Spanish Trail, Santa Fe to Los Angeles," *Huntington Library Quarterly* 11, no. 2 (1948): 149--60. [JSTOR](https://www.jstor.org/stable/3816075?seq=1#page_scan_tab_contents)
+- F. G. Young, “The Oregon Trail” 1, no. 4 (1900): 339–70. [JSTOR](https://www.jstor.org/stable/20609476?seq=1#page_scan_tab_contents) or [Internet Archive](https://archive.org/details/jstor-20609476)
+- F. F. Stephens, “Missouri and the Santa Fe Trade,” _The Missouri Historical Review_ 10.4 (1916): 233–62. In Zotero and [SHSM](http://digital.shsmo.org/cdm/compoundobject/collection/mhr/id/2228/)
+- LeRoy R. Hafen, "The Old Spanish Trail, Santa Fe to Los Angeles," *Huntington Library Quarterly* 11.2 (1948): 149--60. [JSTOR](https://www.jstor.org/stable/3816075?seq=1#page_scan_tab_contents)
 - Max L. Moorhead, "Blazing the Camino Real," in *New Mexico's Royal Road: Trade and Travel on the Chihuahua Trail* (Norman: University of Oklahoma Press, 1958), 3--27. [Google Books](https://books.google.com/books?id=ggW1fRWj4DkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
-- Look through and critique [Santa Fe Trail Association website](https://www.santafetrail.org/).
+
 
 
 ### Wednesday, 8/29: Popularizing the Trail
@@ -65,6 +66,7 @@ Do all of these in order, please!
 - Phil Edwards, "[The Bloody, Sexy, Drunken Oregon Trail](https://www.vox.com/2016/3/3/11152436/r-rated-oregon-trail)" (*Vox*, 3 March 2016).
 
 - Download and critique the [NPS Oregon Trail Mobile App](https://www.nps.gov/oreg/learn/photosmultimedia/mobile-tours-and-apps.htm).
+- Look through and critique [Santa Fe Trail Association website](https://www.santafetrail.org/).
 
 ### Friday, 8/31: A Modern Meditation
 - Robert Moor, *On Trails: An Exploration* (London: Quarto Publishing Group UK, 2017), 161--202. [PDF](readings/on-trails.pdf)
