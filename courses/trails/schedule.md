@@ -42,26 +42,32 @@ Today we'll have a guest lecture by NPS-NTIR historian Frank Norris, who'll prov
 ## Week 2: The Challenge of Public History
 
 ### Monday, 8/27: The Heroic Trail
+All of the following should be read QUICKLY! You'll get some very interesting history of a few trails (and we'll read more recent stuff later on), but more importantly we want to pay attention to the historiography here---the way these histories are written, which are representative of early trail histories (and much of western history) generally. We read the Snead (et al.) chapter to get an overview of ways of thinking about trails; what kinds of assumptions do the authors make about trails? What are their analytical frameworks? Who or what are these histories about? Who are the actors? Who is left out? Whose story is this?
+
+Some of these readings provide maps, but the cartographic representation of the trails is generally lacking. I encourage you to view the maps of the trails on the NPS-NTIR website to get a better geographical sense of where the trails go. How much does geography matter in these older histories for today?
+
 - F. G. Young, “The Oregon Trail” 1, no. 4 (December 1, 1900): 339–70.
 - LeRoy R. Hafen, "The Old Spanish Trail, Santa Fe to Los Angeles," *Huntington Library Quarterly* 11, no. 2 (1948): 149--60. [JSTOR](https://www.jstor.org/stable/3816075?seq=1#page_scan_tab_contents)
-- Max L. Moorhead, "Blazing the Camino Real," in *New Mexico's Royal Road : Trade and Travel on the Chihuahua Trail* (Norman : University of Oklahoma Press, 1995), 3--27. [Google Books](https://books.google.com/books?id=ggW1fRWj4DkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+- Max L. Moorhead, "Blazing the Camino Real," in *New Mexico's Royal Road: Trade and Travel on the Chihuahua Trail* (Norman: University of Oklahoma Press, 1958), 3--27. [Google Books](https://books.google.com/books?id=ggW1fRWj4DkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 - Look through and critique [Santa Fe Trail Association website](https://www.santafetrail.org/).
 
 
+### Wednesday, 8/29: Popularizing the Trail
+Do all of these in order, please!
 
-### Wednesday, 8/29: Another approach...
-- Robert Moor, *On Trails: An Exploration* (London: Quarto Publishing Group UK, 2017), 161--202. [PDF](readings/on-trails.pdf)
+- Robin W. Winks, "A Public Historiography," *The Public Historian* 14, no. 3 (1992): 93--105. [JSTOR](https://www.jstor.org/stable/3378234?seq=1#page_scan_tab_contents).
+
 - SKIM: Douglas W. Dodd and Peter J. Edwards, "Getting History out of a Rut: Public Agencies Interpret Oregon's Oregon Trail," *The Public Historian* 16, no. 1 (1994): 45--50. [JSTOR](http://www.jstor.org/stable/3378581)
 
-
-### Friday, 8/31: Popularizing the Trail
-- Robin W. Winks, "A Public Historiography," *The Public Historian* 14, no. 3 (1992): 93--105. [JSTOR](https://www.jstor.org/stable/3378234?seq=1#page_scan_tab_contents).
-- FIRST: Play Oregon Trail [online](https://classicreload.com/oregon-trail.html)
+- Play Oregon Trail [online](https://classicreload.com/oregon-trail.html)
     - How would Winks analyze this game? Who is in the game? Who isn't? How does the game succeed and fail at popularizing history?
 - Bill Bigelow, "On the Road to Cultural Bias: A Critique of The Oregon Trail CD-ROM," *Language Arts* 74, no. 2 (1997): 84--93. [JSTOR](https://www.jstor.org/stable/41482844?seq=1#page_scan_tab_contents)
 - Phil Edwards, "[The Bloody, Sexy, Drunken Oregon Trail](https://www.vox.com/2016/3/3/11152436/r-rated-oregon-trail)" (*Vox*, 3 March 2016).
-- THEN: Download and critique the [NPS Oregon Trail Mobile App](https://www.nps.gov/oreg/learn/photosmultimedia/mobile-tours-and-apps.htm).
 
+- Download and critique the [NPS Oregon Trail Mobile App](https://www.nps.gov/oreg/learn/photosmultimedia/mobile-tours-and-apps.htm).
+
+### Friday, 8/31: A Modern Meditation
+- Robert Moor, *On Trails: An Exploration* (London: Quarto Publishing Group UK, 2017), 161--202. [PDF](readings/on-trails.pdf)
 
 
 
