@@ -74,6 +74,8 @@ Continuing our critiques of trail interpretation, and applying concerns from las
 For an engaging philosophical approach to thinking about trails:
 - Robert Moor, *On Trails: An Exploration* (London: Quarto, 2017), 161--202. [PDF](readings/on-trails.pdf)
 
+- Building on our guest lecture from Frank Norris, skim through a few very short essays at the [50th Anniversary of the Trail System Blog](https://www.trails50.org/new-blog/) to get a sense of modern "administration" and interpreting the modern trail.
+
 
 
 ## Week 3: Firsthand accounts
