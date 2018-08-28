@@ -56,20 +56,23 @@ Some of these readings provide maps, but the cartographic representation of the 
 ### Wednesday, 8/29: Popularizing the Trail
 Do all of these in order, please!
 
-- Robin W. Winks, "A Public Historiography," *The Public Historian* 14, no. 3 (1992): 93--105. [JSTOR](https://www.jstor.org/stable/3378234?seq=1#page_scan_tab_contents).
+- Robin W. Winks, "A Public Historiography," *The Public Historian* 14.3 (1992): 93--105. [JSTOR](https://www.jstor.org/stable/3378234?seq=1#page_scan_tab_contents).
 
-- SKIM: Douglas W. Dodd and Peter J. Edwards, "Getting History out of a Rut: Public Agencies Interpret Oregon's Oregon Trail," *The Public Historian* 16, no. 1 (1994): 45--50. [JSTOR](http://www.jstor.org/stable/3378581)
+- SKIM: Douglas W. Dodd and Peter J. Edwards, "Getting History out of a Rut: Public Agencies Interpret Oregon's Oregon Trail," *The Public Historian* 16.1 (1994): 45--50. [JSTOR](http://www.jstor.org/stable/3378581)
 
 - Play Oregon Trail [online](https://classicreload.com/oregon-trail.html)
     - How would Winks analyze this game? Who is in the game? Who isn't? How does the game succeed and fail at popularizing history?
 - Bill Bigelow, "On the Road to Cultural Bias: A Critique of The Oregon Trail CD-ROM," *Language Arts* 74, no. 2 (1997): 84--93. [JSTOR](https://www.jstor.org/stable/41482844?seq=1#page_scan_tab_contents)
 - Phil Edwards, "[The Bloody, Sexy, Drunken Oregon Trail](https://www.vox.com/2016/3/3/11152436/r-rated-oregon-trail)" (*Vox*, 3 March 2016).
 
+
+### Friday, 8/31: Modern Meditations
+Continuing our critiques of trail interpretation:
 - Download and critique the [NPS Oregon Trail Mobile App](https://www.nps.gov/oreg/learn/photosmultimedia/mobile-tours-and-apps.htm).
 - Look through and critique [Santa Fe Trail Association website](https://www.santafetrail.org/).
 
-### Friday, 8/31: A Modern Meditation
-- Robert Moor, *On Trails: An Exploration* (London: Quarto Publishing Group UK, 2017), 161--202. [PDF](readings/on-trails.pdf)
+For a more philosophical approach to thinking about trails:
+- Robert Moor, *On Trails: An Exploration* (London: Quarto, 2017), 161--202. [PDF](readings/on-trails.pdf)
 
 
 
