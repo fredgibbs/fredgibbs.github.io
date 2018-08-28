@@ -54,10 +54,10 @@ Some of these readings provide maps, but the cartographic representation of the 
 
 
 ### Wednesday, 8/29: Popularizing the Trail
-Do all of these in order, please!
+Today we're reading more direct critiques of trail interpretation, about historic signage and about the Oregon Trail (1990) video game. While these critiques have their own specific targets, they raise numerous issues that apply to any interpretive effort regarding national trails, including books, signage, websites, mobile apps, etc. Therefore, we should keep these critiques in mind whenever we read anything about the trail. What implicit messages do interpretations send to readers?
 
+#### Do all of these in order, please!
 - Robin W. Winks, "A Public Historiography," *The Public Historian* 14.3 (1992): 93--105. [JSTOR](https://www.jstor.org/stable/3378234?seq=1#page_scan_tab_contents).
-
 - SKIM: Douglas W. Dodd and Peter J. Edwards, "Getting History out of a Rut: Public Agencies Interpret Oregon's Oregon Trail," *The Public Historian* 16.1 (1994): 45--50. [JSTOR](http://www.jstor.org/stable/3378581)
 
 - Play Oregon Trail [online](https://classicreload.com/oregon-trail.html)
@@ -67,11 +67,11 @@ Do all of these in order, please!
 
 
 ### Friday, 8/31: Modern Meditations
-Continuing our critiques of trail interpretation:
+Continuing our critiques of trail interpretation, and applying concerns from last time to more modern instances:
 - Download and critique the [NPS Oregon Trail Mobile App](https://www.nps.gov/oreg/learn/photosmultimedia/mobile-tours-and-apps.htm).
 - Look through and critique [Santa Fe Trail Association website](https://www.santafetrail.org/).
 
-For a more philosophical approach to thinking about trails:
+For an engaging philosophical approach to thinking about trails:
 - Robert Moor, *On Trails: An Exploration* (London: Quarto, 2017), 161--202. [PDF](readings/on-trails.pdf)
 
 
