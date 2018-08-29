@@ -40,9 +40,13 @@ Where do you see overlap with Galen's ideas? What do you see as the pros and con
 Here's our first excursion into a primary source without translation (making its eccentricities even more apparent). The language seems weird at first (and it is, compared to ours) but you get used to it after a few pages. How does Cheyne's advice echo what we've been reading about? What is different? In either case, what are his primary concerns? To what extent do you see the moral component of diet that we began to talk about last time? Can anyone actually follow this kind of advice?
 
 
-### Fri 8/31: TBA
+### Fri 8/31: The _Regimen sanitatis Salernitanum_ and Transmission of Medical Knowledge
+Going slightly out of chronological order, today we're looking at the most popular treatise on diet of the later Medieval period, the _Regimen sanitatis Salernitanum_ (_Salernitan Regimen of Health_). It was originally composed around 1200 around Salerno in northern Italy (hence _Salernitanum_ in the title), and remained influential (in various versions and editions) into the 1800s. It has a lot of interesting dietary advice that echoes what we've already discussed and some new features as well. More significantly, it helps us think about the nature of dietary expertise (the main topic for next week), the transmission of medical knowledge, and challenges studying the history of medicine.
 
-
+- Skim through [this version](https://archive.org/details/cu31924012318071) of the _Regimen sanitatis_ (an Egnlish prose version from late 1500s). Start on page 75; just read a dozen pages or so, and then flip through a bit more, reading carefully here and there to get a sense of the text.
+- When you decide you want a clearer but boring English version, read through [this one](http://www.sca.org.au/herb/library/RegimenSanitatisSalernitanum.pdf). Think about how to make sense of what seems like weird advice. Where did this stuff come from? How different is it from we write about dietary advice?
+- Lastly, read this [short blog post](https://www.atlasobscura.com/articles/i-tried-a-medieval-diet-and-i-didnt-even-get-that-drunk) about following the diet.
+- Not much reading for today, but do come to class prepared to discuss what you found interesting about the _Regimen_, and to critique the blog post (more practice applying the course!).
 
 ## Dietary Expertise
 
