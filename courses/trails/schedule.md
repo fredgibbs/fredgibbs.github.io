@@ -83,13 +83,17 @@ For an engaging philosophical approach to thinking about trails:
 ### Monday, 9/3: LABOR DAY: NO CLASS
 
 ### Wednesday, 9/5: Original voices
-- MAYBE: John David Unruh, "Introduction: The Historians and the Overlanders," in *The Plains Across : The Overland Emigrants and the Trans-Mississippi West, 1840-60* (Urbana: University of Illinois Press, 1979), 3--27.
-- Francis Parkman, *The Oregon Trail: Adventures on the Prairie in the 1840's* (Santa Barbara, Calif.: Narrative Press, 2001). NOTE: This will be divided up among the class so we're reading a few chapters each. [ProQuest](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=3375129#).
-- Josiah Gregg, *Commerce of the Prairies : Or, the Journal of a Santa Fé Trader, during Eight Expeditions across the Great Western Prairies, and a Residence of Nearly Nine Years in Northern Mexico* (New York: J. & H. G. Langley, 1845). [Google Books](https://books.google.com/books?id=3WHZTsz38gwC&printsec=frontcover&dq=Commerce+of+the+Prairies&hl=en&sa=X&ved=0ahUKEwjU3cOkidncAhUpllQKHRJYCUUQ6AEIKTAA#v=onepage&q=Commerce%20of%20the%20Prairies&f=false)
+Spend some time with each of the below selections. At least read the first few chapters of each---but I think/hope you'll find them kind of addictive and read if not skim a bit more. If you get bored, at least skip around through the books until you get to a section that captures your attention.  In class, we'll talk about how these both echo and diverge from what we've read for class so far. How would you characterize the tone of these books? What are the assumptions and cultural frameworks of the authors? To what extent is it possible to capture the richness of these experiences/accounts in modern trail interpretation and administration? Or maybe we should put them behind us and keep them out of view?
+
+- Francis Parkman, *The Oregon Trail: Adventures on the Prairie in the 1840's* (Santa Barbara, Calif.: Narrative Press, 2001). [ProQuest](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=3375129#)
+- Ezra Meeker, _Personal Experiences on the Oregon Trail Sixty Years Ago_ (St. Louis: McAdoo printing co., 1912), [Internet Archive](http://archive.org/details/personalexperien00meekrich).
+- Josiah Gregg, *Commerce of the Prairies: Or, the Journal of a Santa Fé Trader, during Eight Expeditions across the Great Western Prairies, and a Residence of Nearly Nine Years in Northern Mexico* (New York: J. & H. G. Langley, 1845). [Google Books](https://books.google.com/books?id=3WHZTsz38gwC&printsec=frontcover&dq=Commerce+of+the+Prairies&hl=en&sa=X&ved=0ahUKEwjU3cOkidncAhUpllQKHRJYCUUQ6AEIKTAA#v=onepage&q=Commerce%20of%20the%20Prairies&f=false)
+- James A. Little, _What I Saw on the Old Santa Fe Trail: A Condensed Story of Frontier Life Half a Century Ago_ (Friends Press, 1904). [Google Books](https://books.google.com/books?id=03FNAAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 - Lewis H. Garrard, *Wah-to-Yah and the Taos Trail* (Cincinnati: H. W. Derby & Co., 1850). [Internet Archive](https://archive.org/details/wahtoyahtaostrai00garr)
 
 #### Noteworthy
 - Thomas Bullock and Will Bagley, *The Pioneer Camp of the Saints: The 1846 and 1847 Mormon Trail Journals of Thomas Bullock* (Logan: Utah State University Press, 2001).
+- John David Unruh, "Introduction: The Historians and the Overlanders," in *The Plains Across : The Overland Emigrants and the Trans-Mississippi West, 1840-60* (Urbana: University of Illinois Press, 1979), 3--27.
 
 
 ### Friday, 9/7: NO CLASS
