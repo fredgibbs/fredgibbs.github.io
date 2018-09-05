@@ -65,13 +65,14 @@ And the biggest question: **How did Cheyne establish his medical reputation?** T
 
 
 ### Fri 9/7: NO CLASS
-
+**Work on your Expertise Analysis; it's due Monday!**
+Find an article about diet and health, and write a 600-word answer to the question: **How does the author establish expertise?** Your analysis must use and reference class sources related to expertise! For more detail, consult the [expertise analysis writing guide](http://fredgibbs.net/courses/etc/expertise-analysis).
 
 
 ## 19th-century Reformers
 
 ### Mon 9/10
-DUE: Expertise analysis. Find an article about diet and health, and write a 500-word answer to the question: **How does the author establish expertise?** Your analysis must use and reference class sources related to expertise!
+DUE: Expertise analysis. Bring your papers to class; we'll discuss some of your findings, but mostly we'll talk about proto-vegetarianism from the below reading.
 
 - Shprintzen, _The Vegetarian Crusade_, 1-38 (Introduction and Chapter 1: Proto-vegetarianism). [online](https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=88c9c3b4-4d25-4888-9fc3-504fe236d4f6%40sessionmgr103&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=nlebk&AN=582993) and in Zotero.
 
