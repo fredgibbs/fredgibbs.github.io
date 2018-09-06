@@ -107,21 +107,22 @@ Beyond the first few chapters (as noted above), I have recommended some pages th
 
 ### Monday, 9/10:
 - Richard White, [What Is Spatial History?](https://web.stanford.edu/group/spatialhistory/media/images/publication/what%20is%20spatial%20history%20pub%20020110.pdf). (Stanford Spatial History Project, 2010).
-- Yi-Fu Tuan, "Space and Place: Humanistic Perspective," in *Philosophy in Geography*, ed. Stephen Gale and Gunnar Olsson (Boston: D. Reidel Publishing Company, 1979), 387--427.
-- David J. Bodenhamer, “Creating a Landscape of Memory: The Potential of Humanities GIS,” _International Journal of Humanities and Arts Computing_ 1.2 (2007): 97–-110.
+- Yi-Fu Tuan, “Humanistic Geography,” _Annals of the Association of American Geographers_ 66.2 (1976): 266--76.
+- David J. Bodenhamer, “Creating a Landscape of Memory: The Potential of Humanities GIS,” _International Journal of Humanities and Arts Computing_ 1.2 (2007): 97--110.
 
 #### Noteworthy
--   Yi-fu Tuan, *Space and Place: The Perspective of Experience* (Minneapolis: University of Minnesota Press, 1977), chapter 7 ("Mythical Space and Place"); chapter 9 ("Time in Experiential Space").
+- Yi-fu Tuan, *Space and Place: The Perspective of Experience* (Minneapolis: University of Minnesota Press, 1977), chapter 7 ("Mythical Space and Place"); chapter 9 ("Time in Experiential Space").
+- Yi-Fu Tuan, "Space and Place: Humanistic Perspective," in *Philosophy in Geography*, ed. Stephen Gale and Gunnar Olsson (Boston: D. Reidel Publishing Company, 1979), 387--427.
 
 
 ###  Wednesday, 9/12: Deconstructing Maps
 - J. B. Harley, "Deconstructing the Map," *Cartographica* 26, no. 2 (1989): 1--20.
 - Mark Monmonier and H. J. de Blij, *How to Lie with Maps*, 2nd edition (Chicago: University of Chicago Press, 1996)chapter 1 ("Introduction), chapter 5 ("Maps That Advertise), chapter 6 ("Development Maps"), and/or chapter 7 ("Maps for Political Propaganda")
-- Mike Foster, “[The Lost Art of Critical Map Reading](http://www.graphicarto.com/the-lost-art-of-critical-map-reading/),” _Graphicarto_, February 27, 2014.
-- Linda Poon, “[What Cities Look Like When Your Brain Does the Mapping, Not GPS](http://www.citylab.com/design/2015/11/maps-made-from-the-mind-not-from-gps/415128/),” CityLab (2015).
 
 ### Friday, 9/14: NO CLASS
-- Work on map assignment; reading maps as texts (more to be added later)
+- Work on map assignment; reading maps as texts (more detail coming soon)
+- Mike Foster, “[The Lost Art of Critical Map Reading](http://www.graphicarto.com/the-lost-art-of-critical-map-reading/),” _Graphicarto_, February 27, 2014.
+- Linda Poon, “[What Cities Look Like When Your Brain Does the Mapping, Not GPS](http://www.citylab.com/design/2015/11/maps-made-from-the-mind-not-from-gps/415128/),” CityLab (2015).
 
 -   [Santa Fe Trail](https://en.wikipedia.org/wiki/Santa_Fe_Trail#/media/File:Map_of_Santa_Fe_Trail-NPS.jpg) (NPS map)
 -   [Old Spanish Trail](http://www.oldspanishtrailcentennial.com/Gallery/Banner%20Large%20Final%201-2.jpg) (railroad map)
@@ -138,11 +139,12 @@ Beyond the first few chapters (as noted above), I have recommended some pages th
 
 ### Monday, 9/17: Mythical and Natural Environments
 - DUE: Map comparison (from last week)
-- William Cronon, “The Trouble with Wilderness: Or, Getting Back to the Wrong Nature,” Environmental History 1, no. 1 (1996): 7--28.
 - Frederick Jackson Turner, "The Significance of the Frontier in American History," *Annual Report of the American Historical Association*, 1894, 197--227.
-- Walter Prescott Webb, "The American Approach to the Great Plains," in *The Great Plains* (Boston: Ginn and Co., 1931), 140--204.
+- William Cronon, “The Trouble with Wilderness: Or, Getting Back to the Wrong Nature,” Environmental History 1, no. 1 (1996): 7--28.
+
 
 #### Noteworthy
+- Walter Prescott Webb, "The American Approach to the Great Plains," in *The Great Plains* (Boston: Ginn and Co., 1931), 140--204.
 -   Henry Nash Smith, "The Garden of the World," in *Virgin Land: The American West as Symbol and Myth* (Cambridge, Mass.: Harvard University Press, 1950): 123--264.
 -   Elliot West, *The Contested Plains: Indians, Goldseekers, and the Rush to Colorado* (Lawrence: University Press of Kansas, 1998).
     -   prologue and/or chapter 3 ("Frontiers and Visions")
