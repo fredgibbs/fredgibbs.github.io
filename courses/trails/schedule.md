@@ -106,18 +106,21 @@ Beyond the first few chapters (as noted above), I have recommended some pages th
 ## Week 4: Spatial History
 
 ### Monday, 9/10:
-- Richard White, [What Is Spatial History?](https://web.stanford.edu/group/spatialhistory/media/images/publication/what%20is%20spatial%20history%20pub%20020110.pdf). (Stanford Spatial History Project, 2010).
 - Yi-Fu Tuan, “Humanistic Geography,” _Annals of the Association of American Geographers_ 66.2 (1976): 266--76.
+- Richard White, [What Is Spatial History?](https://web.stanford.edu/group/spatialhistory/media/images/publication/what%20is%20spatial%20history%20pub%20020110.pdf). (Stanford Spatial History Project, 2010).
 - David J. Bodenhamer, “Creating a Landscape of Memory: The Potential of Humanities GIS,” _International Journal of Humanities and Arts Computing_ 1.2 (2007): 97--110.
 
 #### Noteworthy
-- Yi-fu Tuan, *Space and Place: The Perspective of Experience* (Minneapolis: University of Minnesota Press, 1977), chapter 7 ("Mythical Space and Place"); chapter 9 ("Time in Experiential Space").
+- Yi-fu Tuan, *Space and Place: The Perspective of Experience* (Minneapolis: University of Minnesota Press, 1977).
 - Yi-Fu Tuan, "Space and Place: Humanistic Perspective," in *Philosophy in Geography*, ed. Stephen Gale and Gunnar Olsson (Boston: D. Reidel Publishing Company, 1979), 387--427.
 
 
 ###  Wednesday, 9/12: Deconstructing Maps
 - J. B. Harley, "Deconstructing the Map," *Cartographica* 26, no. 2 (1989): 1--20.
-- Mark Monmonier and H. J. de Blij, *How to Lie with Maps*, 2nd edition (Chicago: University of Chicago Press, 1996)chapter 1 ("Introduction), chapter 5 ("Maps That Advertise), chapter 6 ("Development Maps"), and/or chapter 7 ("Maps for Political Propaganda")
+- Denis Wood, _The Power of Maps_. New York: Guilford Press, 1992, 28-47 (Chapter 2).
+
+#### Noteworthy
+- Mark Monmonier and H. J. de Blij, *How to Lie with Maps*, 2nd edition (Chicago: University of Chicago Press, 1996)
 
 ### Friday, 9/14: NO CLASS
 - Work on map assignment; reading maps as texts (more detail coming soon)
