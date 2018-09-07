@@ -74,12 +74,14 @@ Find an article about diet and health, and write a 600-word answer to the questi
 ### Mon 9/10
 DUE: Expertise analysis. Bring your papers to class; we'll discuss some of your findings, but mostly we'll talk about proto-vegetarianism from the below reading.
 
-- Shprintzen, _The Vegetarian Crusade_, 1-38 (Introduction and Chapter 1: Proto-vegetarianism). [online](https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=88c9c3b4-4d25-4888-9fc3-504fe236d4f6%40sessionmgr103&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=nlebk&AN=582993) and in Zotero.
+- Shprintzen, _The Vegetarian Crusade_, 1-9; 10-27; 32-38 (Introduction and Chapter 1: Proto-vegetarianism). [online](https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=88c9c3b4-4d25-4888-9fc3-504fe236d4f6%40sessionmgr103&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=nlebk&AN=582993) and in Zotero.
 
 
 ### Wed 9/12
-- Sylvester Graham, [A Defence of the Graham System of Living: Or, Remarks on Diet and Regimen. Dedicated to the Rising Generation](https://books.google.com/books?id=ODRlD83ww9IC).
-What is your impression of this important dietary text of the early 19th century? How does this reflect what we read in Shprintzen last time? In what ways does it diverge?
+- Sylvester Graham, [A Defence of the Graham System of Living: Or, Remarks on Diet and Regimen. Dedicated to the Rising Generation](https://books.google.com/books?id=ODRlD83ww9IC), 7-15; 88-89; 95-104.
+- Sylvester Graham, [Lectures on the Science of Human Life](https://books.google.com/books?id=uBUDAAAAQAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), preface (i-vii), and skim Table of Contents that follows. What topics stand out to you? What were you expecting to see? How is it different from what you expected?
+
+What is your impression of these important dietary texts of the early 19th century? How do they reinforce or contradict the impression of Graham that you got from what we read in Shprintzen last time?
 
 ### Fri 9/14: NO CLASS
 
