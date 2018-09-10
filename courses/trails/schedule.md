@@ -103,9 +103,9 @@ Beyond the first few chapters (as noted above), I have recommended some pages th
 
 
 
-## Week 4: Spatial History
+## Week 4: Space, Landscape, and Maps
 
-### Monday, 9/10:
+### Monday, 9/10: Spatial History
 - Yi-Fu Tuan, “Humanistic Geography,” _Annals of the Association of American Geographers_ 66.2 (1976): 266--76.
 - Richard White, [What Is Spatial History?](https://web.stanford.edu/group/spatialhistory/media/images/publication/what%20is%20spatial%20history%20pub%20020110.pdf). (Stanford Spatial History Project, 2010).
 - David J. Bodenhamer, “Creating a Landscape of Memory: The Potential of Humanities GIS,” _International Journal of Humanities and Arts Computing_ 1.2 (2007): 97--110.
@@ -116,8 +116,14 @@ Beyond the first few chapters (as noted above), I have recommended some pages th
 
 
 ###  Wednesday, 9/12: Deconstructing Maps
+Today we're reading two classics on cartographic literacy. Come to class prepared to talk about what kinds concerns we should keep in mind when reading/evaluating/critiquing maps about National Historic Trails. How can we combine the concerns presented in the readings for Monday, today, and earlier stuff on public history?
+
 - J. B. Harley, "Deconstructing the Map," *Cartographica* 26, no. 2 (1989): 1--20.
+Note that Harley can veer into the philosophical weeds at times, but it's never for very long, so don't give up. On the whole, he makes a lot of very important points about reading and understanding maps that are stated very clearly.
+
 - Denis Wood, _The Power of Maps_. New York: Guilford Press, 1992, 28-47 (Chapter 2).
+
+
 
 #### Noteworthy
 - Mark Monmonier and H. J. de Blij, *How to Lie with Maps*, 2nd edition (Chicago: University of Chicago Press, 1996)
