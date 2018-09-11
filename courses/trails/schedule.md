@@ -129,18 +129,37 @@ Note that Harley can veer into the philosophical weeds at times, but it's never 
 - Mark Monmonier and H. J. de Blij, *How to Lie with Maps*, 2nd edition (Chicago: University of Chicago Press, 1996)
 
 ### Friday, 9/14: NO CLASS
-- Work on map assignment; reading maps as texts (more detail coming soon)
+- Work on map assignment; reading maps as texts.
 - Mike Foster, “[The Lost Art of Critical Map Reading](http://www.graphicarto.com/the-lost-art-of-critical-map-reading/),” _Graphicarto_, February 27, 2014.
 - Linda Poon, “[What Cities Look Like When Your Brain Does the Mapping, Not GPS](http://www.citylab.com/design/2015/11/maps-made-from-the-mind-not-from-gps/415128/),” CityLab (2015).
 
--   [Santa Fe Trail](https://en.wikipedia.org/wiki/Santa_Fe_Trail#/media/File:Map_of_Santa_Fe_Trail-NPS.jpg) (NPS map)
--   [Old Spanish Trail](http://www.oldspanishtrailcentennial.com/Gallery/Banner%20Large%20Final%201-2.jpg) (railroad map)
--   [El Camino Real de Tierra Adentro](http://inahchihuahua.gob.mx/sections.pl?id=86) (Instituto Nacional de Anthropologia e Historia map)
--   [Mormon Pioneer Trail](http://www.brothersfive.ca/images/2007_mormon_trail_map.jpg) (mounted plaque)
--   [Oregon Trail](https://blog.richmond.edu/livesofmaps/files/2014/10/Oregontrail_map2.gif) (computer game map)
--   [Travel Routes to California](https://www.eduplace.com/ss/hmss/4/unit/act3.2blm2.html) (Houghton Mifflin map)
--   [Trail of Tears](https://kids.britannica.com/kids/assembly/view/217515) (Encyclopedia Brittanica map)
--   [Route 66](http://www.mappery.com/map-of/Route-66-Chicago-IL-to-Springfield-MI-Map) ("travel mat" map)
+- [National Trails System Map](https://www.americantrails.org/images/documents/National-Trails-System-Map.pdf)
+- [National Trails Interactive Viewer](https://imgis.nps.gov/html/?viewer=nht)
+
+- [Nez Perce](https://www.fs.usda.gov/Internet/FSE_MEDIA/stelprd3855487.jpg)
+- [Nez Perce](https://www.fs.usda.gov/Internet/FSE_MEDIA/fsbdev3_055022.jpg)
+
+- [California Trail](https://www.thearmchairexplorer.com/national-trails/nt-images/california-trail/california-trail-west01.jpg)
+
+- [El Camino Real de Tierra Adentro](http://inahchihuahua.gob.mx/sections.pl?id=86)
+- [El Camino Real de Tierra Adentro](http://socorro-history.org/CAMINOREAL/map_general.jpg)
+
+- [Old Spanish Trail](http://www.oldspanishtrailcentennial.com/Gallery/Banner%20Large%20Final%201-2.jpg)
+- [Old Spanish Trail](https://www.thearmchairexplorer.com/national-trails/nt-images/old-spanish-trail/nps-mapbig.jpg)
+
+- [Santa Fe Trail](https://en.wikipedia.org/wiki/Santa_Fe_Trail#/media/File:Map_of_Santa_Fe_Trail-NPS.jpg)
+
+- [Mormon Pioneer Trail](http://www.brothersfive.ca/images/2007_mormon_trail_map.jpg)
+- [Holy Mormon Trail Maps, Batman!](https://cdoovision.com/us-map-of-the-mormon-trail/)
+
+- [Oregon Trail](https://blog.richmond.edu/livesofmaps/files/2014/10/Oregontrail_map2.gif)
+
+- [Overmountain Victory National Historic Trail](https://www.wilkescountytourism.com/OVT-map-01-NPS)
+
+- [Trail of Tears](https://kids.britannica.com/kids/assembly/view/217515)
+
+- [Route 66](http://www.mappery.com/map-of/Route-66-Chicago-IL-to-Springfield-MI-Map)
+
 
 
 
