@@ -135,6 +135,7 @@ Note that Harley can veer into the philosophical weeds at times, but it's never 
 
 - [National Trails System Map](https://www.americantrails.org/images/documents/National-Trails-System-Map.pdf)
 - [National Trails Interactive Viewer](https://imgis.nps.gov/html/?viewer=nht)
+- [Trails West in the Mid 1800s](https://www.nationalgeographic.org/photo/trails-west-1800s/)
 
 - [Nez Perce](https://www.fs.usda.gov/Internet/FSE_MEDIA/stelprd3855487.jpg)
 - [Nez Perce](https://www.fs.usda.gov/Internet/FSE_MEDIA/fsbdev3_055022.jpg)
@@ -153,6 +154,7 @@ Note that Harley can veer into the philosophical weeds at times, but it's never 
 - [Holy Mormon Trail Maps, Batman!](https://cdoovision.com/us-map-of-the-mormon-trail/)
 
 - [Oregon Trail](https://blog.richmond.edu/livesofmaps/files/2014/10/Oregontrail_map2.gif)
+- [Oregon Trail](http://www.usgennet.org/usa/or/county/clackamas/TrailMap.html)
 
 - [Overmountain Victory National Historic Trail](https://www.wilkescountytourism.com/OVT-map-01-NPS)
 
@@ -166,8 +168,19 @@ Note that Harley can veer into the philosophical weeds at times, but it's never 
 ## Week 5: Environmental + American history
 
 ### Monday, 9/17: Mythical and Natural Environments
-- DUE: Map comparison (from last week)
-- Frederick Jackson Turner, "The Significance of the Frontier in American History," *Annual Report of the American Historical Association*, 1894, 197--227.
+- DUE: Map comparison
+    - ~750 words, 12pt font, double-spaced, 1" margins
+    - bring hard copies to class on Monday
+    - pick 1 map to deeply analyze, or pick 2 to comparatively analyze, or pick 4 to broadly compare (picking 1 or 2 is what I would recommend, but I leave it up to you)
+    - minimize description in favor of analysis according to map critique techniques discussed in readings and in class
+    - in other words, explain the presumptions of the cartographers, hidden agendas, biases, etc (just as our readings for Wednesday foregrounded)
+    - describe how what's left off of the map shapes our sense of reality
+    - draw extensively from previous course readings---not only the space/map readings---and cite them like (Bodenhamer, 12).
+
+
+Our readings for this week are meant to call into question the changing meaning of what seem like unalterable categories, like frontier, nature, or wilderness. First, skim the classic and still important Turner article (referenced in Cronon) and think about how what he describes gets reflected in histories of national historic trails. You're reading mostly for familiarity rather than deep knowledge, so read quickly. Focus your attention on Cronon's article and, again, think about how we can apply it to trails work generally.
+
+- SKIM: Frederick Jackson Turner, "The Significance of the Frontier in American History," *Annual Report of the American Historical Association*, 1894, 197--227.
 - William Cronon, “The Trouble with Wilderness: Or, Getting Back to the Wrong Nature,” Environmental History 1, no. 1 (1996): 7--28.
 
 
