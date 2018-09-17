@@ -192,30 +192,27 @@ Our readings for this week are meant to call into question the changing meaning 
 
 
 ### Wednesday, 9/19: Flora, Fauna, and Food
-These readings complicate Turner's thesis by either a) showing that westward migration was not as simple as it seemed, or b) that northward migration from Mexico also reshaped trailside environments in the New World.
+How does Dunmire's descriptions challenge Turner's notion of the frontier?
 
--   Elliott West, "Land," in *The Way to the West: Essays on the Central Plains* (Albuquerque: University of New Mexico Press, 1995), 13--50.\*
 -   William W. Dunmire, "The Corridor into Texas," in *Gardens of New Spain: How Mediterranean Plants and Foods Changed America* (Austin: University of Texas Press, 2004), 229--261.\*
--   Guy McClellan, *Place Names Along the Santa Fe Trail* (maps)
-    -   ["What Were Places Along the Trail Named For (Besides Individuals)?"](https://guymcclellan.carto.com/viz/b4bf8350-a115-11e6-8fc8-0e3ff518bd15/public_map)
+
 
 #### Noteworthy
--   Elliott West, "Animals," in *The Way to the West: Essays on the Central Plains* (Albuquerque: University of New Mexico Press, 1995), 51--84.\*
+-   Elliott West, *The Way to the West: Essays on the Central Plains* (Albuquerque: University of New Mexico Press, 1995), 51--84.
 -   Thomas B. Hall, *Medicine on the Santa Fe Trail* (Dayton, Ohio: Morningside Bookshop, 1971).
 -   Samuel P. Arnold, *Eating Up the Santa Fe Trail: Recipes and Lore from the Old West* (Golden, Colo.: Fulcrum Publishing, 2001).
 -   Fabiola Cabeza De Baca Gilbert, *Good Life: New Mexico Traditions And Food*, (Albuquerque: Museum of New Mexico Press, 2005).
--   Dana Goodyear, "What Happened At Alder Creek?," *The New Yorker*, April 17, 2006, 140--151.
-
 
 
 
 ### Friday, 9/21: Problems of Memory
--   Jackson B. Miller, "Coyote's Tale on the Old Oregon Trail: Challenging Cultural Memory through Narrative at the Tamástslikt Cultural Institute," *Text & Performance Quarterly* 25, no. 3 (July 2005): 220--38.
 -   Michael J. Zogry, "Wide Open Spaces: The Trail of Tears, the Lewis and Clark Expedition, and Gaps in the National Memory," in *New Territories, New Perspectives: The Religious Impact of the Louisiana Purchase*, ed. Richard J. Callahan, Jr. (Columbia, Mo: University of Missouri, 2008), 56--82.
+-   Jackson B. Miller, "Coyote's Tale on the Old Oregon Trail: Challenging Cultural Memory through Narrative at the Tamástslikt Cultural Institute," *Text & Performance Quarterly* 25, no. 3 (July 2005): 220--38.
 -   Guy McClellan, *Place Names Along the Santa Fe Trail*
     - [at the NTIR website](https://www.nps.gov/safe/learn/historyculture/place-names.htm)
     -   ["Linguistic Origins of Place Names Along the Trail"](https://guymcclellan.carto.com/viz/53a098c2-a109-11e6-a456-0e233c30368f/public_map)
     -   ["What Were Places Along the Trail Named For?"](https://guymcclellan.carto.com/viz/e81d98b6-a112-11e6-99ae-0e05a8b3e3d7/public_map)
+    -   ["What Were Places Along the Trail Named For (Besides Individuals)?"](https://guymcclellan.carto.com/viz/b4bf8350-a115-11e6-8fc8-0e3ff518bd15/public_map)
 
 #### Noteworthy
 -   Peter B. Dedek, "'Wild' Lands and 'Tamed' Indians: Cultural Stereotypes and Route 66," in *Hip to the Trip : A Cultural History of Route 66* (Albuquerque : University of New Mexico Press, 2007), 9--27.\*
