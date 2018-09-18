@@ -94,16 +94,11 @@ What is your impression of these important dietary texts of the early 19th centu
 
 
 ### Wed 9/19
-- Jessica J. Mudry, *Measured Meals. Nutrition in America*, 1-19 (Introduction: Eating by Numbers); 21-46 (Chapter 1: Early History of American Nutrition Research).
+- Jessica J. Mudry, *Measured Meals. Nutrition in America*, 1-19 (Introduction: Eating by Numbers).
 
 
 ### Fri 9/21
-- Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine* 34 (May 1887): 59-74.
-We don't need to summarize the main points of the article---they are clearly stated at the end. Our goal is to understand the overall flavor of this article that is representative of Atwater’s work so often referenced in our readings of late. *Skim but don't totally skip* the science lesson details.  
-    - How does article reflect larger scientific currents?
-    - To what extent has this been true for our other sources?
-    - What’s the point of all the science detail?
-    - How/why does metaphor play a role?
+- Jessica J. Mudry, *Measured Meals. Nutrition in America*, 21-46 (Chapter 1: Early History of American Nutrition Research).
 
 
 
@@ -112,6 +107,14 @@ We don't need to summarize the main points of the article---they are clearly sta
 ### Mon 9/24
 - *Eating Right in America*, 13-44 (Chapter 2: Scientific Moralization...).
 Here we get another look at food reformers in the early 20th century, with an emphasis on the links between diet and morality. A few key points to consider: What does "morality" mean in this chapter? Why is it so important (per the reformers) to have the proper diet? How is the proper diet related to the supposedly universal calorie?   
+
+- SKIM: Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine* 34 (May 1887): 59-74.
+We don't need to summarize the main points of the article---they are clearly stated at the end. Our goal is to understand the overall flavor of this article that is representative of Atwater’s work so often referenced in our readings of late. *Skim but don't totally skip* the science lesson details.  
+    - How does article reflect larger scientific currents?
+    - To what extent has this been true for our other sources?
+    - What’s the point of all the science detail?
+    - How/why does metaphor play a role?
+
 
 
 ### Wed 9/26
