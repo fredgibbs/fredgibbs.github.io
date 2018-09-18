@@ -211,7 +211,6 @@ How does Dunmire's story challenge Turner's notion of the frontier?
 -  PLAY WITH: Guy McClellan,
     - ["Linguistic Origins of Place Names Along the Trail"](https://guymcclellan.carto.com/viz/53a098c2-a109-11e6-a456-0e233c30368f/public_map)
     - ["What Were Places Along the Trail Named For?"](https://guymcclellan.carto.com/viz/e81d98b6-a112-11e6-99ae-0e05a8b3e3d7/public_map)
-    - ["What Were Places Along the Trail Named For (Besides Individuals)?"](https://guymcclellan.carto.com/viz/b4bf8350-a115-11e6-8fc8-0e3ff518bd15/public_map)
     - [and the official NTIR website](https://www.nps.gov/safe/learn/historyculture/place-names.htm)
 
 #### Noteworthy
