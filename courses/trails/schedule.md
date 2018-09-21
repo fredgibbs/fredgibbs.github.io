@@ -214,9 +214,9 @@ How does Dunmire's story challenge Turner's notion of the frontier?
     - [and the official NTIR website](https://www.nps.gov/safe/learn/historyculture/place-names.htm)
 
 #### Noteworthy
--   Peter B. Dedek, "'Wild' Lands and 'Tamed' Indians: Cultural Stereotypes and Route 66," in *Hip to the Trip : A Cultural History of Route 66* (Albuquerque : University of New Mexico Press, 2007), 9--27.
 -   Marion Blackburn, "Return to the Trail of Tears," *Archaeology*, no. 2 (2012): 53.
 -   Raymond Cross, "'Twice Born' from the Waters\': The Two-Hundred-Year Journey of the Mandan, Hidatsa, and Arikara Indians," in *Lewis & Clark : Legacies, Memories, and New Perspectives*, ed. Kris Fresonke and Mark David Spence (Berkeley: University of California Press, 2004), 117--42.
+-   Peter B. Dedek, "'Wild' Lands and 'Tamed' Indians: Cultural Stereotypes and Route 66," in *Hip to the Trip : A Cultural History of Route 66* (Albuquerque : University of New Mexico Press, 2007), 9--27.
 
 
 
@@ -224,17 +224,15 @@ How does Dunmire's story challenge Turner's notion of the frontier?
 
 ### Monday, 9/24: Intercultural Commerce
 -   Christopher L. Miller and George R. Hamell, "A New Perspective on Indian-White Contact: Cultural Symbols and Colonial Trade," *The Journal of American History* 73, no. 2 (1986): 311--28.
--   Juliana Barr, "Womanly 'Captivation': Political Economies of Hostage Taking and Hospitality," in *Peace Came in the Form of a Woman: Indians and Spaniards in the Texas Borderlands* (Chapel Hill: University of North Carolina Press, 2014), 240--76.
--   Susan Calafate Boyle, "Going Down the Royal Road," in *Los Capitalistas : Hispano Merchants and the Santa Fe Trade* (Albuquerque : University of New Mexico Press, 1997), 28--44.
 
 #### Noteworthy
--   William Patrick O'Brien, *Merchants of Independence : International Trade on the Santa Fe Trail, 1827-1860* (Kirksville, Mo. : Truman State University Press, 2013).
--   Henri Folmer, "Contraband Trade between Louisiana and New Mexico in the Eighteenth Century," *New Mexico Historical Review* 16 (July 1941): 249--74.
--   Carroll L. Riley, "The Road to Hawikuh: Trade and Trade Routes to Cibola-Zuni during Late Prehistoric and Early Historic Times," *Kiva* 41, no. 2 (1975): 137--59.
--   Thomas Frank Schilz and Donald E. Worcester, "The Spread of Firearms among the Indian Tribes on the Northern Frontier of New Spain," *American Indian Quarterly* 11, no. 1 (1987): 1--10.
--   Andrés Reséndez, "The Spirit of Mercantile Enterprise," in *Changing National Identities at the Frontier: Texas and New Mexico, 1800--1850* (Cambridge \[England\]: Cambridge University Press, 2004), 93--123.
--   Henri Folmer, "The Mallet Expedition of 1739 through Nebraska, Kansas and Colorado to Santa Fe," *Colorado Magazine* 16 (September 1939): 161--73.
+-   Juliana Barr, "Womanly 'Captivation': Political Economies of Hostage Taking and Hospitality," in *Peace Came in the Form of a Woman: Indians and Spaniards in the Texas Borderlands* (Chapel Hill: University of North Carolina Press, 2014), 240--76.
+-   Susan Calafate Boyle, "Going Down the Royal Road," in *Los Capitalistas : Hispano Merchants and the Santa Fe Trade* (Albuquerque : University of New Mexico Press, 1997), 28--44.
 -   Douglas C. Comer, *Ritual Ground: Bent's Old Fort, World Formation, and the Annexation of the Southwest* (Berkeley: University of California Press, 1996).
+-   William Patrick O'Brien, *Merchants of Independence : International Trade on the Santa Fe Trail, 1827-1860* (Kirksville, Mo. : Truman State University Press, 2013).
+-   Andrés Reséndez, "The Spirit of Mercantile Enterprise," in *Changing National Identities at the Frontier: Texas and New Mexico, 1800--1850* (Cambridge \[England\]: Cambridge University Press, 2004), 93--123.
+-   Thomas Frank Schilz and Donald E. Worcester, "The Spread of Firearms among the Indian Tribes on the Northern Frontier of New Spain," *American Indian Quarterly* 11, no. 1 (1987): 1--10.
+
 
 
 ### Wednesday, 9/26: Cities, Capitalists, and Commodities
@@ -243,13 +241,10 @@ How does Dunmire's story challenge Turner's notion of the frontier?
 
 #### Noteworthy
 -   Richard C. Wade, *The Urban Frontier: The Rise of Western Cities, 1790-1830* (Urbana: University of Illinois Press, 1996).
-    -   chapter 1 ("The Beginnings of Western Urbanism") and/or chapter 2 ("The Economic Base")
 -   Adam Arenson, "The Double Life of St. Louis: Narratives of Origins and Maturity in Wade's Urban Frontier," *Indiana Magazine of History*, no. 3 (2009): 246.
 -   William J. Parish, *The Charles Ilfeld Company: A Study of the Rise and Decline of Mercantile Capitalism in New Mexico* (Cambridge, Mass.: Harvard University Press, 1961).
 -   Morris F. Taylor, *First Mail West : Stagecoach Lines on the Santa Fe Trail* (Albuquerque: University of New Mexico Press, 2000).
 -   David Lavender, *Bent's Fort* (Lincoln : University of Nebraska Press, 1972).
--   Anne F. Hyde, *Empires, Nations, and Families: A New History of the North American West, 1800-1860* (New York: Ecco, 2012).
-    -   chapter 1 ("Families and Fur: The Personal World of the Early American West") and/or chapter 3 ("Western Places: Regional Communities and *Vecinidad*")
 -   Darlis A. Miller, *Soldiers and Settlers: Military Supply in the Southwest, 1861-1885* (Albuquerque: University of New Mexico Press, 1989).
 
 
@@ -263,14 +258,11 @@ How does Dunmire's story challenge Turner's notion of the frontier?
 -   Juliana Barr, "Geographies of Power: Mapping Indian Borders in the 'Borderlands' of the Early Southwest," *William and Mary Quarterly* 68, no. 1 (2011): 5--46.
 
 #### Noteworthy
--   Pekka Hämäläinen, *The Comanche Empire* (New Haven: Yale University Press, 2009).
-    -   chapter 1 ("Introduction: Reversed Colonialism"), chapter 4 ("The Empire of the Plains"), and/or chapter 5 ("Greater Comancheria")
--   T.J. Ferguson, G. Lennis Berlin, and Leigh J. Kuwanwisiwma, "Kukheypa: Searching for Hopi Trails," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 20--41.
 -   Juliana Barr, *Peace Came in the Form of a Woman: Indians and Spaniards in the Texas Borderlands* (Chapel Hill, NC: University of North Carolina Press, 2014).
-    -   chapter 3 ("Civil Alliance and 'Civility' in Mission-Presidio Complexes") and/or chapter 4 ("Negotiating Fear with Violence: Apaches and Spaniards at Midcentury")
+-   T.J. Ferguson, G. Lennis Berlin, and Leigh J. Kuwanwisiwma, "Kukheypa: Searching for Hopi Trails," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 20--41.
+-   Pekka Hämäläinen, *The Comanche Empire* (New Haven: Yale University Press, 2009).
 -   Anne F. Hyde, *Empires, Nations, and Families: A New History of the North American West, 1800-1860*, Reprint edition (New York: Ecco, 2012).
-    -   chapter 4 ("The Early West: The Many Faces of Indian Country") and/or chapter 5 ("Empires in Transition: Indian Country at Midcentury, 1825--1860")
--   Daniel Goodenough, Jr., "Lost on Cold Creek," *Montana: The Magazine of Western History* 24, no. 4 (1974): 16--29.
+- Daniel Goodenough, Jr., "Lost on Cold Creek," *Montana: The Magazine of Western History* 24, no. 4 (1974): 16--29.
 
 
 ### Wednesday, 10/3:
@@ -285,8 +277,8 @@ How does Dunmire's story challenge Turner's notion of the frontier?
 ## Week 8: Gender, Family, and Migration
 
 ### Monday, 10/8: ideas of gender and family travel westward
--   Johnny Faragher and Christine Stansell, "Women and Their Families on the Overland Trail to California and Oregon, 1842-1867," *Feminist Studies* 2, no. 2/3 (1975): 150--66.\*
--   Conevery Bolton Valenčius, "Gender and the Economy of Health on the Santa Fe Trail," *Osiris* 19 (2004): 79--92.\*
+-   Conevery Bolton Valenčius, "Gender and the Economy of Health on the Santa Fe Trail," *Osiris* 19 (2004): 79--92.
+-   Johnny Faragher and Christine Stansell, "Women and Their Families on the Overland Trail to California and Oregon, 1842-1867," *Feminist Studies* 2, no. 2/3 (1975): 150--66.
 
 #### Noteworthy
 -   Virginia Scharff, "The Hearth of Darkness: Susan Magoffin on Suspect Terrain," in *Twenty Thousand Roads: Women, Movement, and the West* (Berkeley: University of California Press, 2003).
@@ -298,7 +290,7 @@ How does Dunmire's story challenge Turner's notion of the frontier?
 ### Wednesday, 10/10: Women in their own words
 -   [*Ho for California!: Women's Overland Diaries from the Huntington Library*](https://nwld.alexanderstreet.com/cgi-bin/asp/philo/nwld/documentidx.pl?sourceid=S212) Sandra L. Myres, ed., (San Marino, Calif.: Huntington Library Press, 2007).
     -   esp. Mary Stuart Bailey, Helen McCowen, Harriet Bunyard, and Maria Hargrave Schrode
--   "Susan Shelby Magoffin: A Wandering Princess on the Santa Fe Trail," in Deborah Lawrence, *Writing the Trail : Five Women's Frontier Narratives* (Iowa City: University of Iowa Press, 2006), 9--34.\*
+- "Susan Shelby Magoffin: A Wandering Princess on the Santa Fe Trail," in Deborah Lawrence, *Writing the Trail : Five Women's Frontier Narratives* (Iowa City: University of Iowa Press, 2006), 9--34.\
 
 #### Noteworthy
 -   Susan Shelby Magoffin and Howard R. Lamar, *Down the Santa Fe Trail and into Mexico: The Diary of Susan Shelby Magoffin, 1846-1847*, ed. Stella M. Drumm (Lincoln, Neb.: Bison Books, 1982).
@@ -309,24 +301,31 @@ How does Dunmire's story challenge Turner's notion of the frontier?
 
 
 
-### Specific Trail Readings
-- Southern/New Mexican trails
-  -   Kathleen A. Cordes, "Santa Fe National Historic Trail," in *America's National Historic Trails* (Norman: University of Oklahoma Press, 1999), 105--130. [online](http://web.a.ebscohost.com/ehost/ebookviewer/ebook/bmxlYmtfXzE1ODkyX19BTg2?sid=df9b1a92-12e1-4abd-9689-2b81aaa4a77a@sessionmgr4008&vid=0&format=EB&rid=1)
-  -   Trail of Tears
-      -   Kathleen A. Cordes, "Trail of Tears National Historic Trail," in *America's National Historic Trails* (Norman: University of Oklahoma Press, 1999): 131--162. [online](http://web.a.ebscohost.com/ehost/ebookviewer/ebook/bmxlYmtfXzE1ODkyX19BTg2?sid=df9b1a92-12e1-4abd-9689-2b81aaa4a77a@sessionmgr4008&vid=0&format=EB&rid=1)
+
+
+### General Trail Readings for Research
+
+Kathleen A. Cordes, *America's National Historic Trails* (Norman: University of Oklahoma Press, 1999). [online](http://web.a.ebscohost.com/ehost/ebookviewer/ebook/bmxlYmtfXzE1ODkyX19BTg2?sid=df9b1a92-12e1-4abd-9689-2b81aaa4a77a@sessionmgr4008&vid=0&format=EB&rid=1)
+
+-   D. W. Meinig, *The Shaping of America: A Geographical Perspective on 500 Years of History, Vol. 1: Atlantic America, 1492-1800* (New Haven: Yale University Press, 1988).
+- D. W. Meinig, *The Shaping of America: A Geographical Perspective on 500 Years of History, Vol. 2: Continental America, 1800-1867* (New Haven: Yale University Press, 1995).
+
+
+
+#### Southern/New Mexican trails
+#### Trail of Tears
 
   -   Northern trails
-      -   Kathleen A. Cordes, *America's National Historic Trails* (Norman: University of Oklahoma Press, 1999).
+      -   
           - Chapters (\<30 pgs. each) on the Oregon Trail, California Trail, Mormon Pioneer Trail, and Pony Express Trail.
-  - Route 66
-      - Michael Wallis, \"America\'s Main Street,\" in *Route 66: The Mother Road 75th Anniversary Edition* (New York: St. Martin's Griffin, 2001): 1--28.
--   National Park Service, \"Historical Overview\" and \"Significance,\" in *El Camino Real de Los Tejas, Texas, Louisiana: National Historic Trail Feasibility Study and Environmental Assessment.* (Denver, Colo.: National Park Service, Denver Service Center, 1998), 30--44.
+#### Camino Real
 -   Jesus F. De la Teja, "The Camino Real: Colonial Texas's Lifeline to the World," in *A Texas Legacy, the Old San Antonio Road and the Caminos Reales: A Tricentennial History, 1691-1991*, ed. A. Joachim McGraw, John Wilburn Clark, and Elizabeth A. Robbins (Texas State Department of Highways and Public Transportation, Highway Design Division, 1991), 43--48.
--   D. W. Meinig, *The Shaping of America: A Geographical Perspective on 500 Years of History, Vol. 1: Atlantic America, 1492-1800* (New Haven: Yale University Press, 1988).
-    - Chapter 1 ("Doubling the National Territory: Louisiana"), chapter 4 ("The Reach Westward: to Circa 1830"), chapter 5 ("Shoving the Indians Out of the Way"), and/or chapter 8 ("Spanning a Continent---and Ocean")
-- D. W. Meinig, *The Shaping of America: A Geographical Perspective on 500 Years of History, Vol. 2: Continental America, 1800-1867* (New Haven: Yale University Press, 1995).
-    - Chapter 1 ("Filling in the Framework: Migration Westward"); chapter 2 ("Occupying New Ground: Colonization, America Style"); and/or chapter 8 ("Making New Pathways: Waterways, Roads, and Trails")
--   [*Wagon Tracks* 1, no. 3 (May 1987)](https://www.santafetrail.org/publications/wagon-tracks/pdf/V.%201%2086-87.pdf).
+-   National Park Service, \"Historical Overview\" and \"Significance,\" in *El Camino Real de Los Tejas, Texas, Louisiana: National Historic Trail Feasibility Study and Environmental Assessment.* (Denver, Colo.: National Park Service, Denver Service Center, 1998), 30--44.
+
+
+#### Route 66
+- Michael Wallis, \"America\'s Main Street,\" in *Route 66: The Mother Road 75th Anniversary Edition* (New York: St. Martin's Griffin, 2001): 1--28.
+
 
 ## Week 9: Research Projects
 
