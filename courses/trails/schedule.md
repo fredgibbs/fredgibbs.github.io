@@ -236,7 +236,7 @@ How does Dunmire's story challenge Turner's notion of the frontier?
 
 
 ### Wednesday, 9/26: Cities, Capitalists, and Commodities
--   Jay Gitlin, "Beyond St. Louis: Negotiating the Course of Empire, " in *The Bourgeois Frontier: French Towns, French Traders, and American Expansion* (New Haven, Conn.: Yale University Press, 2010), 83--123.
+-   Jay Gitlin, "Beyond St. Louis: Negotiating the Course of Empire, " in *The Bourgeois Frontier: French Towns, French Traders, and American Expansion* (New Haven, Conn.: Yale University Press, 2010), 83--109 (skim); 109-123 (read closely).
 -   Susan Calafate Boyle, \"New Mexican Merchants and Mercantile Capitalism,\" in *Los Capitalistas: Hispano Merchants and the Santa Fe Trade* (Albuquerque: University of New Mexico Press, 2000), 57--72.
 
 #### Noteworthy
@@ -248,7 +248,7 @@ How does Dunmire's story challenge Turner's notion of the frontier?
 -   Darlis A. Miller, *Soldiers and Settlers: Military Supply in the Southwest, 1861-1885* (Albuquerque: University of New Mexico Press, 1989).
 
 
-### Friday, 9/28: TBA
+### Friday, 9/28: Trail Person of Interest Project
 
 
 
