@@ -253,9 +253,9 @@ We'll discuss our first assignment from National Park Service---to write 3-5 pag
 
 We've been given some examples. We'll critique these (along the lines of all the other critiques we've done together) to get clear about how we want to write our own vignettes. We have a distinct advantage of having read and discussed many historical accounts and perspectives about the trails. So, finally, we get to put all our critical reading into practice.
 
-- [Jefferson](../readings/Jefferson.docx)
-- [Matȟó Wayúhi](../readings/Matȟó-Wayúhi.docx)
-- [Walkara](../readings/Walkara.docx)
+- [Jefferson](readings/Jefferson.docx)
+- [Matȟó Wayúhi](readings/Matȟó-Wayúhi.docx)
+- [Walkara](readings/Walkara.docx)
 
 Also today: we'll walk through the process for researching your particular person so that you have a clear path forward as you begin the research and writing process.
 
