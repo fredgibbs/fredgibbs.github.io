@@ -251,7 +251,7 @@ How does Dunmire's story challenge Turner's notion of the frontier?
 ### Friday, 9/28: NPS-NTIR Historical Vignettes Project
 We'll discuss our first assignment from National Park Service---to write 3-5 page historical vignettes about significant people from the two Camino Real historic trails. Each person will write one vignette. More deadlines will be posted soon.
 
-We've been given some examples. We'll critique these (along the lines of all the other critiques we've done together) to get clear about how we want to write our own vignettes. We have a distinct advantage of having read and discussed many historical accounts and perspectives about the trails. So, finally, we get to put all our critical reading into practice.
+We've been given some examples, which you should read before class. We'll critique these together (along the lines of all the other critiques we've done together) to get clear about how we want to write our own vignettes. We have a distinct advantage of having read and discussed many historical accounts and perspectives about the trails. So, finally, we get to put all our critical reading into practice.
 
 - [Jefferson](readings/Jefferson.docx)
 - [Matȟó Wayúhi](readings/Matȟó-Wayúhi.docx)
