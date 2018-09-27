@@ -129,10 +129,15 @@ We don't need to summarize the main points of the article---they are clearly sta
 ## The New Nutrition
 
 ### Mon 10/1
-- DUE: 750-word primary source analysis of one of the following sources (we'll talk about both in class, so read both, but write an analysis of just one).
-    - What was your first/overall impression of the reading?
-    - How do these sources illustrate what we've been reading in class recently?
-    - What else can we learn about diet and health from these sources?
+- DUE: 750-word primary source analysis of one of the following texts (we'll talk about both in class, so read both, but write an analysis of just one).
+
+Answer the following question:
+- How does it the text fit into the long history of nutrition that we’ve traced out in the course so far?
+
+As you are answering that question, also comment on:
+- What’s similar to and different from other primary sources we’ve read?
+
+AS ALWAYS: I'm looking for evidence of your ability to understand these texts in the context of the course materials. If you aren't answering the above questions with copious references to the readings, you are significantly lowering your grade.
 
 - John Harvey Kellogg, [_The New Dietetics, what to Eat and how: A Guide to Scientific Feeding in Health and Disease_](https://books.google.com/books?id=CBGxvXF332cC) (1921).
     - read the Preface (5-7); skim the Table of Contents (8-21); read 25-37.
