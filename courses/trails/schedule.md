@@ -264,69 +264,100 @@ Also today: we'll walk through the process for researching your particular perso
 ## Week 7: Native history along/among the trails
 
 ### Monday, 10/1: Native space
--   Juliana Barr, "Geographies of Power: Mapping Indian Borders in the 'Borderlands' of the Early Southwest," *William and Mary Quarterly* 68, no. 1 (2011): 5--46.
+- Juliana Barr, "Geographies of Power: Mapping Indian Borders in the 'Borderlands' of the Early Southwest," *William and Mary Quarterly* 68, no. 1 (2011): 5--46.
+
 
 #### Noteworthy
--   Juliana Barr, *Peace Came in the Form of a Woman: Indians and Spaniards in the Texas Borderlands* (Chapel Hill, NC: University of North Carolina Press, 2014).
--   T.J. Ferguson, G. Lennis Berlin, and Leigh J. Kuwanwisiwma, "Kukheypa: Searching for Hopi Trails," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 20--41.
--   Pekka Hämäläinen, *The Comanche Empire* (New Haven: Yale University Press, 2009).
--   Anne F. Hyde, *Empires, Nations, and Families: A New History of the North American West, 1800-1860*, Reprint edition (New York: Ecco, 2012).
+- Juliana Barr, *Peace Came in the Form of a Woman: Indians and Spaniards in the Texas Borderlands* (Chapel Hill, NC: University of North Carolina Press, 2014).
+- T.J. Ferguson, G. Lennis Berlin, and Leigh J. Kuwanwisiwma, "Kukheypa: Searching for Hopi Trails," in *Landscapes of Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed. James E. Snead, Clark L. Erickson, and J. Andrew Darling (University of Pennsylvania Press, 2010), 20--41.
+- Pekka Hämäläinen, *The Comanche Empire* (New Haven: Yale University Press, 2009).
+- Anne F. Hyde, *Empires, Nations, and Families: A New History of the North American West, 1800-1860*, Reprint edition (New York: Ecco, 2012).
 - Daniel Goodenough, Jr., "Lost on Cold Creek," *Montana: The Magazine of Western History* 24, no. 4 (1974): 16--29.
 
 
-### Wednesday, 10/3:
+### Wednesday, 10/3: Spatial Displacement
 -   Ned Blackhawk, *Violence over the Land: Indians and Empires in the Early American West* (Harvard University Press, 2008).
-    -   chapter 2 ("The Making of the New Mexican-Ute Borderlands"), chapter 5 ("Great Basin Indians in the Era of Lewis & Clark"), and/or chapter 7 ("Utah's Indians and the Crisis of Mormon Settlement")
+    - We will divide everyone into three groups, each to read one of the following: Chapter 2 ("The Making of the New Mexican-Ute Borderlands"), Chapter 5 ("Great Basin Indians in the Era of Lewis & Clark"), and Chapter 7 ("Utah's Indians and the Crisis of Mormon Settlement").
+    - Come to class having noted down the most important 3-5 points that Blackhawk makes in the chapter you read.
 
 
-### Friday, 10/5: TBA
-
-
-
-## Week 8: Gender, Family, and Migration
-
-### Monday, 10/8: ideas of gender and family travel westward
+### Friday, 10/5: Gender and family travel westward
 -   Conevery Bolton Valenčius, "Gender and the Economy of Health on the Santa Fe Trail," *Osiris* 19 (2004): 79--92.
--   Johnny Faragher and Christine Stansell, "Women and Their Families on the Overland Trail to California and Oregon, 1842-1867," *Feminist Studies* 2, no. 2/3 (1975): 150--66.
+- Looking ahead to the assignment due Monday, bring bibliography / research questions to class!
 
 #### Noteworthy
--   Virginia Scharff, "The Hearth of Darkness: Susan Magoffin on Suspect Terrain," in *Twenty Thousand Roads: Women, Movement, and the West* (Berkeley: University of California Press, 2003).
+-   Johnny Faragher and Christine Stansell, "Women and Their Families on the Overland Trail to California and Oregon, 1842-1867," *Feminist Studies* 2, no. 2/3 (1975): 150--66.
 -   John Mack Faragher, *Women and Men on the Overland Trail* (New Haven, Conn. : Yale University Press, 2001).
-    -   chapter 1 ("The Overland Emigrants"), chapter 3 ("Men's and Women's Work on the Overland Trail"), and/or chapter 6 ("The World of the Family")
 -   Julie Jeffrey, *Frontier Women: "Civilizing" the West? 1840-1880* (New York: Hill and Wang, 1998).
+-   Virginia Scharff, "The Hearth of Darkness: Susan Magoffin on Suspect Terrain," in *Twenty Thousand Roads: Women, Movement, and the West* (Berkeley: University of California Press, 2003).
 -   Elliott West, "Families," in *The Way to the West: Essays on the Central Plains* (Albuquerque: University of New Mexico Press, 1995), 85--126.
 
-### Wednesday, 10/10: Women in their own words
--   [*Ho for California!: Women's Overland Diaries from the Huntington Library*](https://nwld.alexanderstreet.com/cgi-bin/asp/philo/nwld/documentidx.pl?sourceid=S212) Sandra L. Myres, ed., (San Marino, Calif.: Huntington Library Press, 2007).
-    -   esp. Mary Stuart Bailey, Helen McCowen, Harriet Bunyard, and Maria Hargrave Schrode
-- "Susan Shelby Magoffin: A Wandering Princess on the Santa Fe Trail," in Deborah Lawrence, *Writing the Trail : Five Women's Frontier Narratives* (Iowa City: University of Iowa Press, 2006), 9--34.\
 
-#### Noteworthy
--   Susan Shelby Magoffin and Howard R. Lamar, *Down the Santa Fe Trail and into Mexico: The Diary of Susan Shelby Magoffin, 1846-1847*, ed. Stella M. Drumm (Lincoln, Neb.: Bison Books, 1982).
--   Isabella Lucy Bird and Daniel J. Boorstin, *A Lady's Life in the Rocky Mountains* (Norman: University of Oklahoma Press, 1975).
--   Sandra L. Myres, *Westward Ho! Women on the Overland Trails* (Albuquerque : University of New Mexico Press, 1982).
+
+
+## Week 8: RELAX
+
+### Monday, 10/8: Research Projects
+No reading for today!
+DUE: Research notes!
+
+Write out:
+- 5 bullet points of key facts/ideas/whatever that you've learned about your person
+- 5 bullet points of research questions that you need to address, and potential sources
+- 5-10 bibliography references of reliable secondary sources
+- extra credit: up to 5 primary sources that you can reference in your text. Only cite things that you will be able to actually consult/read and cite.
+
+- Quiz on previous readings
+
+### Wednesday, 10/10: NO CLASS (PRE FALL BREAK)
 
 ### Friday, 10/12: NO CLASS (FALL BREAK)
 
 
 
+## Week 9: Research Projects
 
+### Monday, 10/15: Primary Sources: Women in their own words
+-   [*Ho for California!: Women's Overland Diaries from the Huntington Library*](https://nwld.alexanderstreet.com/cgi-bin/asp/philo/nwld/documentidx.pl?sourceid=S212) Sandra L. Myres, ed., (San Marino, Calif.: Huntington Library Press, 2007), esp. Mary Stuart Bailey, Helen McCowen, Harriet Bunyard, and Maria Hargrave Schrode.
+- "Susan Shelby Magoffin: A Wandering Princess on the Santa Fe Trail," in Deborah Lawrence, *Writing the Trail : Five Women's Frontier Narratives* (Iowa City: University of Iowa Press, 2006), 9--34.
+
+#### Noteworthy
+-   Isabella Lucy Bird and Daniel J. Boorstin, *A Lady's Life in the Rocky Mountains* (Norman: University of Oklahoma Press, 1975).
+-   Sandra L. Myres, *Westward Ho! Women on the Overland Trails* (Albuquerque: University of New Mexico Press, 1982).
+-   Susan Shelby Magoffin and Howard R. Lamar, *Down the Santa Fe Trail and into Mexico: The Diary of Susan Shelby Magoffin, 1846-1847*, ed. Stella M. Drumm (Lincoln, Neb.: Bison Books, 1982).
+
+
+### Wednesday, 10/17: FIRST DRAFTS
+DUE: Bring a printed copy of your first draft to class for our first peer review session during class.
+
+#### Important Tips for Success
+- I say "first draft", but I mean first draft that is worth showing to someone else. This should be closer to 3rd or 4th draft. Quality over quantity.
+- The better your draft, the better the final version, and the higher your grade. And the less aggravated I'll be, which is generally better for everyone.
+- Even more than usualy, it's SUPER annoying to deal with people who come in late. Highly discouraged.
+
+### Friday, 10/19: SECOND DRAFTS
+DUE: Your "second" draft that incorporates feedback from the peer review session and other improvements from general discussions. Bring a printed copy to class and you'll exchange with someone else to get another set of eyes on your text.
+
+
+
+
+## Week 10: Research Projects
+
+### Monday, 10/22:
+
+### Wednesday, 10/24:
+
+### Friday, 10/26:
+
+
+-----
 
 ### General Trail Readings for Research
 
-Kathleen A. Cordes, *America's National Historic Trails* (Norman: University of Oklahoma Press, 1999). [online](http://web.a.ebscohost.com/ehost/ebookviewer/ebook/bmxlYmtfXzE1ODkyX19BTg2?sid=df9b1a92-12e1-4abd-9689-2b81aaa4a77a@sessionmgr4008&vid=0&format=EB&rid=1)
-
+- Kathleen A. Cordes, *America's National Historic Trails* (Norman: University of Oklahoma Press, 1999). [online](http://web.a.ebscohost.com/ehost/ebookviewer/ebook/bmxlYmtfXzE1ODkyX19BTg2?sid=df9b1a92-12e1-4abd-9689-2b81aaa4a77a@sessionmgr4008&vid=0&format=EB&rid=1)
 -   D. W. Meinig, *The Shaping of America: A Geographical Perspective on 500 Years of History, Vol. 1: Atlantic America, 1492-1800* (New Haven: Yale University Press, 1988).
 - D. W. Meinig, *The Shaping of America: A Geographical Perspective on 500 Years of History, Vol. 2: Continental America, 1800-1867* (New Haven: Yale University Press, 1995).
 
-
-
-#### Southern/New Mexican trails
-#### Trail of Tears
-
-  -   Northern trails
-      -   
-          - Chapters (\<30 pgs. each) on the Oregon Trail, California Trail, Mormon Pioneer Trail, and Pony Express Trail.
 #### Camino Real
 -   Jesus F. De la Teja, "The Camino Real: Colonial Texas's Lifeline to the World," in *A Texas Legacy, the Old San Antonio Road and the Caminos Reales: A Tricentennial History, 1691-1991*, ed. A. Joachim McGraw, John Wilburn Clark, and Elizabeth A. Robbins (Texas State Department of Highways and Public Transportation, Highway Design Division, 1991), 43--48.
 -   National Park Service, \"Historical Overview\" and \"Significance,\" in *El Camino Real de Los Tejas, Texas, Louisiana: National Historic Trail Feasibility Study and Environmental Assessment.* (Denver, Colo.: National Park Service, Denver Service Center, 1998), 30--44.
@@ -334,10 +365,3 @@ Kathleen A. Cordes, *America's National Historic Trails* (Norman: University of 
 
 #### Route 66
 - Michael Wallis, \"America\'s Main Street,\" in *Route 66: The Mother Road 75th Anniversary Edition* (New York: St. Martin's Griffin, 2001): 1--28.
-
-
-## Week 9: Research Projects
-
-### Monday, 10/15: Research Project Overview
-### Wednesday, 10/17: CSWR visit and overview to relevant historical collections
-### Friday, 10/19: Research Project Overview
