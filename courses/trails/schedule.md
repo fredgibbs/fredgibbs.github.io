@@ -299,15 +299,14 @@ Also today: we'll walk through the process for researching your particular perso
 
 ### Monday, 10/8: Research Projects
 No reading for today!
-DUE: Research notes!
 
+#### DUE: Research notes!
 Write out:
 - 5 bullet points of key facts/ideas/whatever that you've learned about your person
 - 5 bullet points of research questions that you need to address, and potential sources
 - 5-10 bibliography references of reliable secondary sources
 - extra credit: up to 5 primary sources that you can reference in your text. Only cite things that you will be able to actually consult/read and cite.
 
-- Quiz on previous readings
 
 ### Wednesday, 10/10: NO CLASS (PRE FALL BREAK)
 
@@ -336,8 +335,9 @@ DUE: Bring a printed copy of your first draft to class for our first peer review
 - Even more than usualy, it's SUPER annoying to deal with people who come in late. Highly discouraged.
 
 ### Friday, 10/19: SECOND DRAFTS
-DUE: Your "second" draft that incorporates feedback from the peer review session and other improvements from general discussions. Bring a printed copy to class and you'll exchange with someone else to get another set of eyes on your text.
+DUE: Your "second" draft that incorporates feedback from the peer review session and other improvements from general discussions. Bring a printed copy to class and you'll exchange with someone else (to critique them over the weekend) to get another set of eyes on your text.
 
+- Quiz on earlier readings
 
 
 
@@ -347,8 +347,9 @@ DUE: Your "second" draft that incorporates feedback from the peer review session
 
 ### Wednesday, 10/24:
 
-### Friday, 10/26:
 
+### Friday, 10/26:
+DUE: FINAL ESSAYS!
 
 -----
 
