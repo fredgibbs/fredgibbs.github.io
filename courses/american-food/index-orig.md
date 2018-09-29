@@ -1,8 +1,8 @@
 ---
 layout: syllabus
-title: History of American Food Cultures
-term: Summer 2019
-number: HIST 413
+title: History of American Food
+term: Summer 2018
+number: HIST 300-002
 section: home
 ---
 
@@ -22,19 +22,19 @@ Some questions we'll tackle: What have Americans eaten over time? Why? How much 
 
 
 ## Student Learning Outcomes
-- Think and write critically about how various people at various times have discussed the concept of American food
-- Identify and appreciate the various drivers of change with respect to food production and consumption in America
-- Discuss and write critically about how attitudes toward food are influenced by shifting cultural, social, religious, scientific, and political values
-- Understand how different historians construct very different histories of American food and its significance
+- Learn the broad contours of the history of American food
+- Appreciate the various drivers of change with respect to eating in America
+- Consider the intersection of food, culture, society
+- Understand how different historians construct very different histories of American food
 
 
 ## Work Requirements and Grading
 
-### Given the compressed nature of the class, the main work/fun on which you will be evaluated is general engagement in our daily activities and conversation.
+### The main work/fun for this class is not in exams or essays or other stuff you might submit for a grade, but rather general engagement in our daily activities and conversation.
 
 - Thorough preparedness and engaged participation in every class meeting  (40%)
-- Pop quizzes and other in-class work (20%)
-- 750-word book review (20%)
+- Pop quizzes and other in-class work that will be graded (20%)
+- 750-word book review of either Kauffman or Twitty (20%)
 - "Final" Research project and presentation on something vaguely related to food history (20%)
 - I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how it can be improved (if at all)
 - If life gets overwhelming during the course, it can be tempting to drift away from an elective course like this. Rather than disappear, please come talk with me about how we can accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
@@ -45,7 +45,7 @@ If you peek at the reading schedule page, you might think there is a lot of read
 The readings are meant for a broad (largely non-academic) audience and therefore are relatively quick and engaging reads. At the same time, they are smart, articulate, and give us plenty to talk about, especially as we put them in conversation with each other. A significant component of the course is thinking about and discussing how we can tell very different stories about the history of American food, as exemplified by the course readings.
 
 ## It's summer
-This course is a challenge, but I do recognize that it's summer, and that we're still recovering from last semester/year. There isn't much to do most days except do the preparatory reading, reflect on it, come to class, and participate in the conversation and activities. For the major assignments (see below), we'll practice doing them together before you do them on your own.
+This course is a challenge, but I do recognize that it's summer and it should be possible to learn a lot, learn in different ways, and have fun doing it. So there aren't any exams, long papers, or any of that sort of thing. There isn't much to do most days except do the preparatory reading, reflect on it, come to class, and participate in the conversation and activities. For the two major assignments (see below), we'll practice doing them together before you do them on your own.
 
 ## Book Reviews
 The main goal of this class is to help us think more critically about food and food history, particularly how it gets represented in the continuous supply of food literature that appears in print (and Amazon search results). We are reading two recent books on the history of American Food (though not advertised in those terms), both of which have been highly critically acclaimed. They couldn't be more different.

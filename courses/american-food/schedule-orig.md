@@ -1,10 +1,19 @@
 ---
 layout: syllabus
-title: History of American Food Cultures
-term: Summer 2019
-number: HIST 413
+title: History of American Food
+term: Summer 2018
+number: HIST 300-002
 section: schedule
 ---
+
+# IN PROGRESS!
+This syllabus is a living document and changes frequently (seriously!), depending on what's going on in the course. If you print it out, you'll need to keep your paper version up to date with the online version. I will always announce important changes in class. Although details will change, the general workload and assignments will not change significantly, so you can still plan around what's listed.
+
+As they are solidified, more precise class activities (and any preparatory work) will be detailed on the appropriate days.
+
+Reading assignments will be adjusted as we move along, but the general reading amount will not increase. Also, note that the reading assignment tends to be heaviest earlier in the week and gradually declines throughout the week.
+
+
 
 ## Jun 4
 
@@ -72,6 +81,7 @@ The following two articles provide VERY useful ways of thinking about using cook
 - Colleen Cotter, “Claiming a Piece of the Pie,” 51–68. [PDF](readings/claiming-piece-of-the-pie.pdf)
 
 ### Early Cookbooks
+
 - Read the little blurbs about more cookbooks [here](http://www.americantable.org/2015/12/top-12-most-influential-historic-american-cookbooks/)
 
 - Amelia Simmons, [American Cookery](https://books.google.com/books?id=_6CggcPs3iQC). Read the introduction by Karen Hess (ix-xv), and skim through the recipes. What stands out to you?
@@ -151,7 +161,10 @@ Regardless of which you read, be prepared to answer the following in class:
   - You are being evaluated on the quality/depth of your analysis (based on class readings and discussion), not description.
 
 
+
 ### Food Will Win the War
+
+EVERYONE:
 - Cecilia Gowdy-Wygant, _Cultivating Victory: The Women’s Land Army and the Victory Garden Movement_, 131-161. [ProQuest Ebook](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=2039400)
 - Harvey A. Levenstein, _Paradox of Plenty_ (Golden Age of Food Processing), 101-118. [PDF](readings/food-processing.pdf)
 
@@ -236,7 +249,7 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 
 - FOR BOTH: You now have, however rushed, expertise in the history of American Food. Use that expertise to write a critical and informed review. You are being evaluated on the extent to which your expertise shines through your reviews.
 
-#### All work will be due 6/28 via email!
+#### NEW: All work will be due 6/28 via email!
 
 
 
@@ -287,7 +300,7 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 - [Bullshit Hypocrisy of Natural Foods](http://gawker.com/the-bullshit-hypocrisy-of-all-natural-foods-1702686054)
 
 ### Discussion
-- As with everything, we want to evaluate the sources in the context of readings/discussions for this course
+- As with everything now, we want to evaluate the sources in the context of readings/discussions for this course
 - Can Fad Diets help define American Food?
 - Evaluate the idea of "natural" in terms of American food.
 - What do these articles assume (or at least focus on) in terms of definitions of food/diet/taste?
@@ -296,6 +309,7 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 
 
 ## Jun 27
+
 
 ### 1 Book Review
 - Sophie Gilbert, [How American Cuisine Became a Melting Pot](https://www.theatlantic.com/entertainment/archive/2016/11/eight-flavors-sarah-lohman-review/508577/)
@@ -309,8 +323,8 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 - HINTS FOR THE FINAL via course retrospective
 
 
-
 ## Jun 28
+- NO CLASS. All work due via email.
 - DUE: 750-800 word book review of either Kauffman or Twitty
 - DUE: 800-1000 word website analysis
 - For both assignments, see important questions/goals listed under June 21.
