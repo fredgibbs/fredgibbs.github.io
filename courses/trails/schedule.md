@@ -307,6 +307,7 @@ Write out:
 - 5-10 bibliography references of reliable secondary sources
 - extra credit: up to 5 primary sources that you can reference in your text. Only cite things that you will be able to actually consult/read and cite.
 
+- IN CLASS: Time to use Zotero properly.
 
 ### Wednesday, 10/10: NO CLASS (PRE FALL BREAK)
 
@@ -332,7 +333,7 @@ DUE: Bring a printed copy of your first draft to class for our first peer review
 #### Important Tips for Success
 - I say "first draft", but I mean first draft that is worth showing to someone else. This should be closer to 3rd or 4th draft. Quality over quantity.
 - The better your draft, the better the final version, and the higher your grade. And the less aggravated I'll be, which is generally better for everyone.
-- Even more than usualy, it's SUPER annoying to deal with people who come in late. Highly discouraged.
+- Even more than usual, it's SUPER annoying to deal with people who come in late. Highly discouraged.
 
 ### Friday, 10/19: SECOND DRAFTS
 DUE: Your "second" draft that incorporates feedback from the peer review session and other improvements from general discussions. Bring a printed copy to class and you'll exchange with someone else (to critique them over the weekend) to get another set of eyes on your text.

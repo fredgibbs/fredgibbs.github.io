@@ -253,6 +253,7 @@ The gist of the article is straightforward enough, so we'll discuss some of the 
     - Find and critique of blog or online essay about diet and health.
     - Remember to review the [critique writing guide](http://fredgibbs.net/courses/etc/critique-writing-guide).
 - [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/).
+- [More Evidence That Nutrition Studies Don’t Always Add Up](https://www.nytimes.com/2018/09/29/sunday-review/cornell-food-scientist-wansink-misconduct.html)
 
 ### Wed 11/21: NO CLASS (pre-Thanksgiving)
 

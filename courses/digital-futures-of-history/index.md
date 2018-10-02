@@ -20,15 +20,15 @@ This interdisciplinary course explores the effects of the digital age on produci
 - How does the Web (and resources like Wikipedia) change perceptions of history?
 - How can historians engage with these methods to improve information literacy?
 
-
 In addressing these questions, we'll draw from contemporary readings in history, public history, historiography, digital humanities, literary studies, media studies, and library and museum studies. Along with our readings, we will investigate a variety of digital history, archival, and journalistic projects that feature various digital methods (such as text analysis, mapping, data visualization, and so on). We’ll critique the various facets of these projects (data, design, interface, utility, etc.) to understand the technologies and data involved. Based on this work, we’ll collaboratively design and publish a website that showcases our rigorous reviews of these digital projects.
 
 
 ## Student Learning Outcomes
 - Think critically about how history is produced, disseminated, and consumed in the digital age.
-- Appreciate the theoretical possibilities and practical limitations of digital archives and new research and publishing technologies.
+- Understand the theoretical possibilities and practical limitations of digital archives and new research and publishing technologies.
 - Begin to experiment with new tools, workflows, methods, and techniques for large-scale research questions in history.
-
+- Identify cultural and algorithmic biases in searching for historical information
+-
 
 ## Work Requirements and Grading
 - Thorough preparedness and engaged participation in most every class meeting. This is a class that's focused on discussing and making things, not just memorizing and regurgitating a historical narrative. (35%)
