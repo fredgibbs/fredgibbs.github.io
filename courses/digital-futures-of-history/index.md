@@ -24,10 +24,11 @@ In addressing these questions, we'll draw from contemporary readings in history,
 
 
 ## Student Learning Outcomes
-- Think critically about how history is produced, disseminated, and consumed in the digital age.
-- Understand the theoretical possibilities and practical limitations of digital archives and new research and publishing technologies.
-- Begin to experiment with new tools, workflows, methods, and techniques for large-scale research questions in history.
+- Think critically about how technology shapes our access to and interpretations of the past
+- Examine the impact of the digitization of cultural heritage and how digital archives reshape our access to the past
+- Begin to experiment with new tools, workflows, methods, and techniques for large-scale research questions in history
 - Identify cultural and algorithmic biases in searching for historical information
+- Critique how digital publishing challenges historical authority and expertise
 
 ## Work Requirements and Grading
 - Thorough preparedness and engaged participation in most every class meeting. This is a class that's focused on discussing and making things, not just memorizing and regurgitating a historical narrative. (35%)
