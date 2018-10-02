@@ -28,7 +28,6 @@ In addressing these questions, we'll draw from contemporary readings in history,
 - Understand the theoretical possibilities and practical limitations of digital archives and new research and publishing technologies.
 - Begin to experiment with new tools, workflows, methods, and techniques for large-scale research questions in history.
 - Identify cultural and algorithmic biases in searching for historical information
--
 
 ## Work Requirements and Grading
 - Thorough preparedness and engaged participation in most every class meeting. This is a class that's focused on discussing and making things, not just memorizing and regurgitating a historical narrative. (35%)
