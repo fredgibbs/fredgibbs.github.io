@@ -151,6 +151,7 @@ AS ALWAYS: I'm looking for evidence of your ability to understand these texts in
 
 ### Fri 10/5
 - Rima D. Apple, "'They Need it Now': Science, Advertising and Vitamins, 1925-1940".   
+- Gina Kolata, [Why are so many people popping Vitamin D?](https://www.nytimes.com/2017/04/10/health/vitamin-d-deficiency-supplements.html)
 - Liz Szabo, [Vitamin D, the Sunshine Supplement, Has Shadowy Money Behind It]( https://www.nytimes.com/2018/08/18/business/vitamin-d-michael-holick.html).
 
 
