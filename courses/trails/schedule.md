@@ -341,6 +341,13 @@ It's always a bit trying to restart after break, but we should have a fun discus
 ### Wednesday, 10/17: FIRST DRAFTS
 DUE: Bring a printed copy of your first draft to class for our first peer review session during class.
 
+### Some more important research tools for your vignette projects:
+- [Hathitrust](http://www.hahthitrust.org): lots of older books and government reports, complete with a useful full-text search tool
+- [Archive.org](http://www.archive.org): specializes in multimedia, but some scans may be better quality than others
+- [Rocky Mountain Online Archive](https://rmoa.unm.edu/): digitized photos, maps, and documents from libraries around the Southwest
+- [New Mexico Digital Collections](https://econtent.unm.edu/): New Mexico-specific online archive with legal documents, diagrams, and historic newspapers
+- [Google Books](https://books.google.com/): perfect for older sources that are now in the public domain
+
 #### Important Tips for Success
 - I say "first draft", but I mean first draft that is worth showing to someone else. This should be closer to 3rd or 4th draft. Quality over quantity.
 - Every historical claim (or set of claims if they are closely related and from the same source), should have a citation like (AUTHOR-LAST-NAME, PAGE-NUMBER).
