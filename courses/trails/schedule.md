@@ -315,16 +315,27 @@ Write out:
 
 
 
-## Week 9: Research Projects
+## Week 9: Ends and Beginnings
 
 ### Monday, 10/15: Primary Sources: Women in their own words
--   [*Ho for California!: Women's Overland Diaries from the Huntington Library*](https://nwld.alexanderstreet.com/cgi-bin/asp/philo/nwld/documentidx.pl?sourceid=S212) Sandra L. Myres, ed., (San Marino, Calif.: Huntington Library Press, 2007), esp. Mary Stuart Bailey, Helen McCowen, Harriet Bunyard, and Maria Hargrave Schrode.
-- "Susan Shelby Magoffin: A Wandering Princess on the Santa Fe Trail," in Deborah Lawrence, *Writing the Trail : Five Women's Frontier Narratives* (Iowa City: University of Iowa Press, 2006), 9--34.
+Today we're practicing reading primary sources (trail diaries), which you will likely encounter and should use during your own research (if not for the vignettes then for the next project). You'll read one article that tries to make sense of Susan Magoffin's diary from the Santa Fe Trail in 1846. Then, you'll apply those techniques to interpreting the diary of Harriett Shaw, who traveled the SFT in 1851, who we also will read for Monday.  
+
+First, read quickly through this article that very clearly describes how to interpret this kind of source. We've read some interesting descriptions of life on the trail, but nothing approaches the vibrancy of first-hand accounts. Don't worry about the details, but do appreciate how the author of the article is trying to read between the lines of the diary and extract larger meaning from the minutia recorded therein.
+- "Susan Shelby Magoffin: A Wandering Princess on the Santa Fe Trail," in Deborah Lawrence, *Writing the Trail: Five Women's Frontier Narratives* (Iowa City: University of Iowa Press, 2006), 9--34.
+
+Next, Consult the diaries of Harriett Bidwell Shaw, available [here](https://www.kansasmemory.org/item/display.php?item_id=209694&f=00059118). Note the handwriting and how fun it would be to read it in the original. Luckily, someone has already done very useful transcription work for us, so to actually read the diary, click on the "text version" button. You don't need to read every entry, but the more the better. It's kind of fun! Read enough to get a sense of her worldview, and what her diary tells us about trail travel in the mid nineteenth century. Think of the map critique assignment and how you commented on what wasn't there as much as what was, and how seemingly trivial details can be very revealing. Please come to class ready to discuss how the diary can tell us something about the themes and categories that we've considered in class and, in general, what we can learn from Ms. Shaw.
+
+Remember, we'll be writing about the Santa Fe Trail for our next and main research project. So both of these readings will be super helpful for establishing general context of the trail experience.
+
+It's always a bit trying to restart after break, but we should have a fun discussion on Monday morning!
 
 #### Noteworthy
--   Isabella Lucy Bird and Daniel J. Boorstin, *A Lady's Life in the Rocky Mountains* (Norman: University of Oklahoma Press, 1975).
--   Sandra L. Myres, *Westward Ho! Women on the Overland Trails* (Albuquerque: University of New Mexico Press, 1982).
--   Susan Shelby Magoffin and Howard R. Lamar, *Down the Santa Fe Trail and into Mexico: The Diary of Susan Shelby Magoffin, 1846-1847*, ed. Stella M. Drumm (Lincoln, Neb.: Bison Books, 1982).
+- [*Ho for California!: Women's Overland Diaries from the Huntington Library*](https://nwld.alexanderstreet.com/cgi-bin/asp/philo/nwld/documentidx.pl?sourceid=S212) Sandra L. Myres, ed., (San Marino, Calif.: Huntington Library Press, 2007), esp. Mary Stuart Bailey, Helen McCowen, Harriet Bunyard, and Maria Hargrave Schrode.
+- Susan Shelby Magoffin and Howard R. Lamar, *Down the Santa Fe Trail and into Mexico: The Diary of Susan Shelby Magoffin, 1846-1847*, ed. Stella M. Drumm (Lincoln, Neb.: Bison Books, 1982).
+- Isabella Lucy Bird and Daniel J. Boorstin, *A Lady's Life in the Rocky Mountains* (Norman: University of Oklahoma Press, 1975).
+- Sandra L. Myres, *Westward Ho! Women on the Overland Trails* (Albuquerque: University of New Mexico Press, 1982).
+
+#### We have completed the required reading portion of the course!
 
 
 ### Wednesday, 10/17: FIRST DRAFTS
@@ -332,8 +343,11 @@ DUE: Bring a printed copy of your first draft to class for our first peer review
 
 #### Important Tips for Success
 - I say "first draft", but I mean first draft that is worth showing to someone else. This should be closer to 3rd or 4th draft. Quality over quantity.
+- Every historical claim (or set of claims if they are closely related and from the same source), should have a citation like (AUTHOR-LAST-NAME, PAGE-NUMBER).
+- Attach to your draft a complete bibliography. Complete means everything you've looked at to this point, but it may grow as you continue work on them.
 - The better your draft, the better the final version, and the higher your grade. And the less aggravated I'll be, which is generally better for everyone.
 - Even more than usual, it's SUPER annoying to deal with people who come in late. Highly discouraged.
+
 
 ### Friday, 10/19: SECOND DRAFTS
 DUE: Your "second" draft that incorporates feedback from the peer review session and other improvements from general discussions. Bring a printed copy to class and you'll exchange with someone else (to critique them over the weekend) to get another set of eyes on your text.
