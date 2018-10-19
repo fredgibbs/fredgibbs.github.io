@@ -363,15 +363,23 @@ DUE: Your "second" draft that incorporates feedback from the peer review session
 
 
 
-## Week 10: Research Projects
+## Week 10: Finish Vignettes and new research project discussion
 
-### Monday, 10/22:
+### Monday, 10/22: SAFE Critiques
+- Read [A History of the Santa Fe Trail](https://www.santafetrail.org/the-trail/history/history-of-the-sft/)
+- Critique the [SFTA Interactive Trail Map](https://www.santafetrail.org/the-trail/history/history-of-the-sft/)
+- Critique the [Santa Fe Trail Exhibits](https://www.nps.gov/safe/learn/historyculture/exhibits.htm)
+- What do you think of the information / histories presented in these contexts? Strengths? Weaknesses?
 
-### Wednesday, 10/24:
+
+### Wednesday, 10/24: BRING FINAL ESSAYS!
 
 
-### Friday, 10/26:
-DUE: FINAL ESSAYS!
+### Friday, 10/26: NO CLASS
+
+
+
+## Week 11: Research Projects
 
 -----
 
