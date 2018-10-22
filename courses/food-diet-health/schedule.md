@@ -190,28 +190,26 @@ AS ALWAYS: I'm looking for evidence of your ability to understand these texts in
 ### Wed 10/24
 - James Hamblin, [Lectins Could Become the Next Gluten \- The Atlantic](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/)
 
+
 ### Fri 10/26: NO CLASS
 
 
 
 
-## Health Claims
+## Managing Risk
 
 ### Mon 10/29
- _Food Politics_, 219-246. (Part 4 Introduction, "Deregulating Dietary Supplements", and Chapter 10, "Science versus supplements").
+- Alan Levinovitz, [What Is 'Natural' Food? A Riddle Wrapped In Notions Of Good And Evil](https://www.npr.org/sections/thesalt/2016/05/08/477057872/what-is-natural-food-a-riddle-wrapped-in-notions-of-good-and-evil)
+- Discussion of LABEL ASSIGNMENT (see next Monday)
 
 
 ### Wed 10/31
-- Alan Levinovitz, [What Is 'Natural' Food? A Riddle Wrapped In Notions Of Good And Evil](https://www.npr.org/sections/thesalt/2016/05/08/477057872/what-is-natural-food-a-riddle-wrapped-in-notions-of-good-and-evil)
+- Nadia Berenstein, [Clean label's dirty little secret](https://newfoodeconomy.org/clean-label-dirty-little-secret/)
 
 
 ### Fri 11/2
-- Nadia Berenstein, [Clean label's dirty little secret](https://newfoodeconomy.org/clean-label-dirty-little-secret/)
-- DUE: Label Analysis!
-    - Pick a food/food-like item that makes health claims.
-    - Cereal boxes, granola bars, various snack items, supplements, etc. make good choices; don't pick candy or soda or any product whose label doesn't have anything to do with health.
-    - Write a 750 word analysis about how the label tries to inform you about health
-    - AS ALWAYS: your analysis must draw from course readings!
+- Nadia Berenstein, [How activists forced FDA to blacklist “carcinogenic” flavor chemicals the agency says are safe](https://newfoodeconomy.org/fda-carcinogenic-flavor-chemical-food-additive-lacroix-lawsuit/)
+
 
 
 
@@ -219,15 +217,23 @@ AS ALWAYS: I'm looking for evidence of your ability to understand these texts in
 
 ### Mon 11/5  
 - Gyorgy Scrinis, “[On the Ideology of Nutritionism](https://www.jstor.org/stable/10.1525/gfc.2008.8.1.39),” 39–48.
+
 What does Scrinis means by "nutritionism"? What processes encouraged that? To what extent does it still pervade dietary thinking and advice? Although a seemingly objective measure of energy, how is the calorie political? What are the examples of techno-fixes in this chapter? "Perception of nutrient scarcity" and "myth of nutritional precision" are key phrases that motivate this chapter---what are they? And do they really matter? How far can we trust Scrinis's analysis?
 
+- DUE: Package Analysis!
+    - Pick a food/food-like item that makes health claims on its package. Cereal boxes, granola bars, various snack items, frozen dinners, supplements, and similar are usually good. DO NOT pick candy or soda or any product whose label doesn't have anything to do with health. Ask if you're not sure!
+    - Write a 800-word analysis about how the label informs you perceptions of healthy
+    - AS ALWAYS: your analysis must draw from course readings!
+
+
 ### Wed 11/7
-- David M. Nowacek and Rebecca S. Nowacek, “The Organic Foods System: Its Discursive Achievements and Prospects,” *College English* 70.4 (2008): 403–20.  
-We’ve been reading about the language by which foods and supplements are labeled and the kind of laws they must follow. While “organic” is not necessarily a health claim per se, it clearly speaks to the nature of what we consider to be "healthy" food. **In this article, don’t worry about all the sociological theory stuff, especially at the beginning.** Activity Systems Theory (whatever that is) is not our primary concern. Focus on the *history of the organic movement* and *the discourse of organics* (the way people define it for their own purposes and give it meaning). Our focus here complements our discussion about nutrition discourse. In particular: What have been some problems with "organic" as a label? Who has defined it? How can we explain (in part) the rise of organics? Why are "inputs" so crucial to certification? How is organic certification different from the problems with labeling we've recently discussed? Can industrial farming be truly organic?
+- Elizabeth G. Dunn, [Meet the Startup That Thinks DNA Can Predict Your Best Diet](https://medium.com/s/futurehuman/is-the-secret-to-better-nutrition-encoded-in-our-genes-e0cfd1ad11a8).
+
 
 
 ### Fri 11/9
-- Elizabeth G. Dunn, [Meet the Startup That Thinks DNA Can Predict Your Best Diet](https://medium.com/s/futurehuman/is-the-secret-to-better-nutrition-encoded-in-our-genes-e0cfd1ad11a8).
+- David M. Nowacek and Rebecca S. Nowacek, “The Organic Foods System: Its Discursive Achievements and Prospects,” *College English* 70.4 (2008): 403–20.  
+We’ve been reading about the language by which foods and supplements are labeled and the kind of laws they must follow. While “organic” is not necessarily a health claim per se, it clearly speaks to the nature of what we consider to be "healthy" food. **In this article, don’t worry about all the sociological theory stuff, especially at the beginning.** Activity Systems Theory (whatever that is) is not our primary concern. Focus on the *history of the organic movement* and *the discourse of organics* (the way people define it for their own purposes and give it meaning). Our focus here complements our discussion about nutrition discourse. In particular: What have been some problems with "organic" as a label? Who has defined it? How can we explain (in part) the rise of organics? Why are "inputs" so crucial to certification? How is organic certification different from the problems with labeling we've recently discussed? Can industrial farming be truly organic?
 
 
 
@@ -242,8 +248,9 @@ We’ve been reading about the language by which foods and supplements are label
 Like the last article, you should skim the sociological theory and jargon at the beginning, focusing your attention on p. 467, when the author begins to compare the two movements. Our discussion will focus on (and the article nicely outlines these with clear headings: **What are the key historical similarities and differences** between the Gramhamites and the organic-ites (for lack of better term)?
 
 ### Fri 11/16
-- Georgy Scrinis, _Nutritionism_, 215-236 (Chapter 9: The Food Quality Paradigm).
-The gist of the article is straightforward enough, so we'll discuss some of the larger questions that Scrinis raises. Are Tables 9.1 and 9.2 useful ways of categorizing levels of processing? What are the potential problems? What can we learn from the history of organics on this issue? Scrinis is adamant (page 223, for instance) that health threats come primarily from "high levels of reconstituted, degraded, and synthetic food components." Do you agree? Similarly, is it true (page 226), that nutritionism is far less important than the "range of chemical pesticides, antibiotics, and growth hormones found in industrially produced foods"? Does one have to be educated about "good" food? Is it natural? Should education focus on nutrition or eating?
+- [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/).
+- [More Evidence That Nutrition Studies Don’t Always Add Up](https://www.nytimes.com/2018/09/29/sunday-review/cornell-food-scientist-wansink-misconduct.html)
+
 
 
 
@@ -253,8 +260,9 @@ The gist of the article is straightforward enough, so we'll discuss some of the 
 - DUE: Health/Diet site review
     - Find and critique of blog or online essay about diet and health.
     - Remember to review the [critique writing guide](http://fredgibbs.net/courses/etc/critique-writing-guide).
-- [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/).
-- [More Evidence That Nutrition Studies Don’t Always Add Up](https://www.nytimes.com/2018/09/29/sunday-review/cornell-food-scientist-wansink-misconduct.html)
+
+- SKIM: Georgy Scrinis, _Nutritionism_, 215-236 (Chapter 9: The Food Quality Paradigm).
+    The gist of the article is straightforward enough, so we'll discuss some of the larger questions that Scrinis raises. Are Tables 9.1 and 9.2 useful ways of categorizing levels of processing? What are the potential problems? What can we learn from the history of organics on this issue? Scrinis is adamant (page 223, for instance) that health threats come primarily from "high levels of reconstituted, degraded, and synthetic food components." Do you agree? Similarly, is it true (page 226), that nutritionism is far less important than the "range of chemical pesticides, antibiotics, and growth hormones found in industrially produced foods"? Does one have to be educated about "good" food? Is it natural? Should education focus on nutrition or eating?
 
 ### Wed 11/21: NO CLASS (pre-Thanksgiving)
 
