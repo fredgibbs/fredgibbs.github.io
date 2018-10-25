@@ -42,19 +42,20 @@ This course is a challenge, but I do recognize that it's summer, and that we're 
 - Research project and presentation on something vaguely related to food history (20 points)
 
 ### Grade Distribution
- Points | Grade
+
+Points | Grade
 --- | ---
- 94+ | A
- 90-94 | A-
- 87-89 | B+
- 83-86 | B
- 80-82 | B-
- 77-79 | C+
- 73-76 | C
- 70-72 | C-
- 67-69 | D+
- 60-66 | D
- 59- | F
+94+ | A
+90-94 | A-
+87-89 | B+
+83-86 | B
+80-82 | B-
+77-79 | C+
+73-76 | C
+70-72 | C-
+67-69 | D+
+60-66 | D
+59- | F
 
 
 ### Please Ask for Help
