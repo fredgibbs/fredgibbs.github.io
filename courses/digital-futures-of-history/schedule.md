@@ -1,15 +1,10 @@
 ---
 layout: syllabus
-title: Digital Futures of History
-term: Fall 2017
-number: HIST 300-018
-date: 2017-08-20
+title: Digital  History
+term: Spring 2019
+number: HIST 407
 section: schedule
 ---
-
-# IN PROGRESS!
-This syllabus is a living document and changes frequently, depending on what's going on in the course. If you print it out, you'll need to keep your paper version up to date with the online version. I will always announce important changes in class.
-
 
 ## 1: Course and Digital History Introduction
 
@@ -237,7 +232,7 @@ Happy Eating!
 * Review of [video critique guide](video-criteria).
 * Spatial History Essay Reviews
 * See your preliminary scores [here](https://docs.google.com/spreadsheets/d/1IVxQjYNR2NbW_xOBcW_1Eq5UveDszwMuwU3xr1Y7odc/edit?usp=sharing).
-* Be aware of the **NEW** [citation guide](citation-guide). 
+* Be aware of the **NEW** [citation guide](citation-guide).
 
 ## 16: Loose ends
 

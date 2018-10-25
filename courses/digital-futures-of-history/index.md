@@ -2,12 +2,12 @@
 layout: syllabus
 title: Digital History
 term: Spring 2019
-number: HIST
+number: HIST 407
 section: home
 ---
 
 ## Logistics
-- TH 3:30 - 4:45 @ 214 Mitchell
+- T,TH 9:30 - 10:45
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
 - Office Hours: T 2-3; Th 10-11
 
