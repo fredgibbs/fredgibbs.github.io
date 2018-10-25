@@ -1,13 +1,18 @@
 ---
 layout: syllabus
-title: History and Geography of Food Production
-term: Fall 2017
-number: HIST 300-002
 section: schedule
+title: Food, Technology, and Society
+term: Fall 2019
+number: HIST 412
 ---
 
 # IN PROGRESS!
 This syllabus is a living document and changes frequently, depending on what's going on in the course. If you print it out, you'll need to keep your paper version up to date with the online version. I will always announce important changes in class.
+
+
+## Required Readings
+There are no required books for the course. All readings that aren't already online (and some that are) will be available through the class Zotero library. This will be discussed in class, but for reference, please see the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library is [https://www.zotero.org/groups/1647225/food-production-unm/items](https://www.zotero.org/groups/1647225/food-production-unm/items).
+
 
 
 ## Introductions
