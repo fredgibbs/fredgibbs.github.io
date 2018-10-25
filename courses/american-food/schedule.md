@@ -6,6 +6,16 @@ number: HIST 413
 section: schedule
 ---
 
+
+## Course Readings
+- Donna R. Gabaccia, _We Are What We Eat: Ethnic Food and the Making of Americans, Revised edition_ (Harvard University Press, 2000)
+- Roger Horowitz, _Putting Meat on the American Table: Taste, Technology, Transformation_, (Johns Hopkins University Press, 2005)
+- Jonathan Kauffman, _Hippie Food: How Back-to-the-Landers, Longhairs, and Revolutionaries Changed the Way We Eat_ (William Morrow, 2018)
+- Michael W. Twitty, _The Cooking Gene: A Journey Through African American Culinary History in the Old South_ (Amistad, 2017)
+- Jennifer Jensen Wallach, _How America Eats: A Social History of U.S. Food and Culture_,  (Rowman & Littlefield Publishers, 2014).
+
+
+
 ## Jun 4
 
 ### Introductions
