@@ -3,6 +3,8 @@ layout: default
 title: courses
 ---
 
+# Regularly Scheduled Courses
+
 ## Spring 2019
 * [Digital History](digital-history)
 
