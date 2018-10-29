@@ -220,7 +220,7 @@ AS ALWAYS: I'm looking for evidence of your ability to understand these texts in
 
 What does Scrinis means by "nutritionism"? What processes encouraged that? To what extent does it still pervade dietary thinking and advice? Although a seemingly objective measure of energy, how is the calorie political? What are the examples of techno-fixes in this chapter? "Perception of nutrient scarcity" and "myth of nutritional precision" are key phrases that motivate this chapter---what are they? And do they really matter? How far can we trust Scrinis's analysis?
 
-- DUE: Package Analysis!
+- DUE: Package Analysis! See the [Package Analysis Guide](http://fredgibbs.net/courses/etc/package-analysis), summarized below:
     - Pick a food/food-like item that makes health claims on its package. Cereal boxes, granola bars, various snack items, frozen dinners, supplements, and similar are usually good. DO NOT pick candy or soda or any product whose label doesn't have anything to do with health. Ask if you're not sure!
     - Write a 800-word analysis about how the label informs you perceptions of healthy
     - AS ALWAYS: your analysis must draw from course readings!
@@ -231,9 +231,10 @@ What does Scrinis means by "nutritionism"? What processes encouraged that? To wh
 
 
 
-### Fri 11/9
-- David M. Nowacek and Rebecca S. Nowacek, “The Organic Foods System: Its Discursive Achievements and Prospects,” *College English* 70.4 (2008): 403–20.  
-We’ve been reading about the language by which foods and supplements are labeled and the kind of laws they must follow. While “organic” is not necessarily a health claim per se, it clearly speaks to the nature of what we consider to be "healthy" food. **In this article, don’t worry about all the sociological theory stuff, especially at the beginning.** Activity Systems Theory (whatever that is) is not our primary concern. Focus on the *history of the organic movement* and *the discourse of organics* (the way people define it for their own purposes and give it meaning). Our focus here complements our discussion about nutrition discourse. In particular: What have been some problems with "organic" as a label? Who has defined it? How can we explain (in part) the rise of organics? Why are "inputs" so crucial to certification? How is organic certification different from the problems with labeling we've recently discussed? Can industrial farming be truly organic?
+### Fri 11/9: NO CLASS
+But you should get started on your Health/Diet site review
+  - Find and critique of blog or online essay about diet and health.
+  - Remember to review the [critique writing guide](http://fredgibbs.net/courses/etc/critique-writing-guide).
 
 
 
