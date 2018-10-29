@@ -381,18 +381,87 @@ DUE: Your "second" draft that incorporates feedback from the peer review session
 
 ## Week 11: Research Projects
 
------
-
-### General Trail Readings for Research
-
-- Kathleen A. Cordes, *America's National Historic Trails* (Norman: University of Oklahoma Press, 1999). [online](http://web.a.ebscohost.com/ehost/ebookviewer/ebook/bmxlYmtfXzE1ODkyX19BTg2?sid=df9b1a92-12e1-4abd-9689-2b81aaa4a77a@sessionmgr4008&vid=0&format=EB&rid=1)
--   D. W. Meinig, *The Shaping of America: A Geographical Perspective on 500 Years of History, Vol. 1: Atlantic America, 1492-1800* (New Haven: Yale University Press, 1988).
-- D. W. Meinig, *The Shaping of America: A Geographical Perspective on 500 Years of History, Vol. 2: Continental America, 1800-1867* (New Haven: Yale University Press, 1995).
-
-#### Camino Real
--   Jesus F. De la Teja, "The Camino Real: Colonial Texas's Lifeline to the World," in *A Texas Legacy, the Old San Antonio Road and the Caminos Reales: A Tricentennial History, 1691-1991*, ed. A. Joachim McGraw, John Wilburn Clark, and Elizabeth A. Robbins (Texas State Department of Highways and Public Transportation, Highway Design Division, 1991), 43--48.
--   National Park Service, \"Historical Overview\" and \"Significance,\" in *El Camino Real de Los Tejas, Texas, Louisiana: National Historic Trail Feasibility Study and Environmental Assessment.* (Denver, Colo.: National Park Service, Denver Service Center, 1998), 30--44.
+### Monday, 10/29
+- Lecture: History of the Santa Fe Trail
 
 
-#### Route 66
-- Michael Wallis, \"America\'s Main Street,\" in *Route 66: The Mother Road 75th Anniversary Edition* (New York: St. Martin's Griffin, 2001): 1--28.
+### Wednesday, 10/31
+- Introduction to [Markdown]((https://www.markdowntutorial.com/)
+- Introduction to [GitHub](https://github.com)
+
+#### As soon as possible after class
+- Create an account at [Github](http://github.com), and email Guy (gmcclell@unm.edu) your username. He'll add you to join our GitHub "Team".
+
+* Add a markdown file you create in [Dillinger](https://dillinger.io/) to our  [repository](https://github.com/historic-trails/itineraries/SantaFe). Be sure you are logged into GitHub when you do this: Click on the 'docs' folder, then drag and drop your file onto your browser window. The content of your markdown file is irrelevant, but be sure your filename has no spaces and ends with .md
+* If you are confused about Markdown, go back to our [Markdown tutorial](https://www.markdowntutorial.com/); for syntax help, consult the [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+### Friday, 11/02
+- Solve GitHub and Markdown problems
+- More Itinerary Project Details
+- Historically Significant Site selections
+
+
+
+
+## Week 12: Itinerary Drafts
+
+### Monday, 11/05
+- Lecture on the National Historic Registry
+
+
+### Wednesday, 11/07
+- DUE: Research Outlines
+- Public History Writing Exercise
+
+
+### Friday, 11/09: NO CLASS
+
+
+
+## Week 13: More Drafts
+
+### Monday, 11/12
+- DUE: First Complete Draft
+- Class Critiques
+- Template/Layout Decisions
+
+
+### Wednesday, 11/14
+- Class Critiques
+
+
+### Friday, 11/16
+- DUE: Possibly Final Vignette Revisions
+
+
+## Week 14: Research Projects
+
+### Monday, 11/19
+- Revised Itinerary Drafts due on GitHub
+- Class Critiques
+
+### Wednesday, 11/21: NO CLASS (pre-Thanksgiving)
+
+### Friday, 11/23: NO CLASS (Thanksgiving)
+
+
+
+
+## Week 15
+
+### Monday, 11/26
+
+
+### Wednesday, 11/28
+
+
+### Friday, 11/30
+
+
+
+## Week 16: Loose Ends and Final Submissions
+
+### Monday, 12/03
+
+### Wednesday, 12/05
