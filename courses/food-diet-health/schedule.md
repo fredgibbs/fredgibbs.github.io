@@ -205,7 +205,7 @@ AS ALWAYS: I'm looking for evidence of your ability to understand these texts in
 
 ### Wed 10/31
 - Nadia Berenstein, [Clean label's dirty little secret](https://newfoodeconomy.org/clean-label-dirty-little-secret/)
-
+- [The FDA's updated nutrition labels could improve your health---if you know how to read them](https://www.popsci.com/new-nutrition-labels-fda)
 
 ### Fri 11/2
 - Nadia Berenstein, [How activists forced FDA to blacklist “carcinogenic” flavor chemicals the agency says are safe](https://newfoodeconomy.org/fda-carcinogenic-flavor-chemical-food-additive-lacroix-lawsuit/)
