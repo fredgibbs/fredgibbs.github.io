@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Critique Writing Guide | fredgibbs  
+title: Critique Writing Guide 
 ---
 
 # Critique Writing Guide
 
 ## Your Assignment
-Your challenge is to write a review/critique of some “publication” pertaining to this course---namely the relationship between food, health, and diet. It can be an article or blog post from a website, newspaper, or magazine; it can be a video, movie, or food documentary; science research article, historical scholarship, or whatever you like. Feel free to find these via Google, UNM Library databases, or whatever (you’ll have more fun with Google). 
+Your challenge is to write a review/critique of some “publication” pertaining to this course---namely the relationship between food, health, and diet. It can be an article or blog post from a website, newspaper, or magazine; it can be a video, movie, or food documentary; science research article, historical scholarship, or whatever you like. Feel free to find these via Google, UNM Library databases, or whatever (you’ll have more fun with Google).
 
-Don't choose something that is super long or complex; that creates way more work for you than is necessary here. Also, don't choose anything that is super short and trite; it simply won't give you enough material to work with. 
+Don't choose something that is super long or complex; that creates way more work for you than is necessary here. Also, don't choose anything that is super short and trite; it simply won't give you enough material to work with.
 
 
 ## Assignment Goals
@@ -17,15 +17,15 @@ This assignment shows that you’re able to apply the course discussion and acti
 
 ## Assignment Format
 
-### First Essay 
-Your essay must be 400-500 words. This restrictive format is very deliberate, to force you to think about quality over quantity. The challenge isn't to write 500 words, but pack as much analysis into that space as you can, and to make your writing as concise as possible. 
+### First Essay
+Your essay must be 400-500 words. This restrictive format is very deliberate, to force you to think about quality over quantity. The challenge isn't to write 500 words, but pack as much analysis into that space as you can, and to make your writing as concise as possible.
 
 ### Second Essay
-This time, your format challenge is to produce a 1-2 page bullet point critique. 
+This time, your format challenge is to produce a 1-2 page bullet point critique.
 
 - It has the same purpose and goals as the first 500-word essay, but you must use only bullet points (and sub-bullets) to articulate your ideas.
-- The emphasis here should be on foregrounding your excellent ideas rather than on writing an essay. 
-- Do not use highly elliptical sentences or sentence fragments that are hard to follow. You must strive for both concision and clarity. This is _really_ difficult. 
+- The emphasis here should be on foregrounding your excellent ideas rather than on writing an essay.
+- Do not use highly elliptical sentences or sentence fragments that are hard to follow. You must strive for both concision and clarity. This is _really_ difficult.
 - Make interesting and sophisticated observations in each bullet point.
 - Be sure you create and follow a logical structure and progression to your bullet points. A random collection of ideas will be frowned upon.
 
@@ -40,17 +40,17 @@ Are you convinced by the evidence? What is problematic or missing? What are the 
 
 **Can the history of diet and health (as we've discussed it so far), provide any insight into what the article is talking about?** For instance, you might discuss (thinking about the early part of the course in particular) _how your source balances common sense and medical advice_.
 
- 
+
 
 ## References and Citations
-You should cite passages from the readings with author-date notation. 
+You should cite passages from the readings with author-date notation.
 
-An example: _Although Cheyne appealed to his personal experience with diet, he himself was extraordinarily large (Shapin, "Trusting," 276)._ Note that I've used a abbreviated form of the article name since we read two things by Shapin. You can omit that if there is only one source by the author, like (Cowan, 15). 
+An example: _Although Cheyne appealed to his personal experience with diet, he himself was extraordinarily large (Shapin, "Trusting," 276)._ Note that I've used a abbreviated form of the article name since we read two things by Shapin. You can omit that if there is only one source by the author, like (Cowan, 15).
 
 If you cite something from outside the class, you need to provide a foot- or endnote with a full reference to that source (either a URL or regular bibliographic citation). You can use any format you want, but be consistent.
 
 
-## General formatting checklist 
+## General formatting checklist
 
 - 12 pt. Times New Roman (or very similar serif font)
 - 1" margins on all sides
@@ -64,7 +64,7 @@ If you cite something from outside the class, you need to provide a foot- or end
  - **Provide specific citations.** This forces you to double check your own memory and interpretation of the readings, and helps you avoid making false claims.
  - **Don't be banal.** Avoid trivial statements that are simply fluff and don't show you engaging with the course materials or your source.
  - **Paraphase.** Avoid long quotations in your critique, since you want use all the space for your own thinking!
- - **Be selective.** You can’t fit everything worth saying into your essay. Choose carefully what you think is most important! 
+ - **Be selective.** You can’t fit everything worth saying into your essay. Choose carefully what you think is most important!
  - **Revise, revise, revise.** Once you have a complete draft of everything you want to say, you are about 50% done. Set it aside (and budget time for this!), then come back and economize your prose. Remove simple sentences that force you to be unnecessarily verbose.
 
  In the process of getting your ideas on paper, you might end up with something like: "This article does not cite any research. The lack of research means it is difficult to understand if it should be trusted." (22 words)
@@ -75,7 +75,7 @@ If you cite something from outside the class, you need to provide a foot- or end
 
 
 ## Resubmissions
-If you are not pleased with your grade, you can revise and resubmit them within **2 weeks** of getting them back. You get an average grade between the two, though I tend to count the second one a bit more. I encourage you to meet with me about your essay before revising it to make sure you have a clear plan for revisions. 
+If you are not pleased with your grade, you can revise and resubmit them within **2 weeks** of getting them back. You get an average grade between the two, though I tend to count the second one a bit more. I encourage you to meet with me about your essay before revising it to make sure you have a clear plan for revisions.
 
 
 ## Questions
