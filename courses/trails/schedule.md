@@ -386,15 +386,17 @@ DUE: Your "second" draft that incorporates feedback from the peer review session
 
 
 ### Wednesday, 10/31
-DO NOT MISS CLASS! Or you will create a lot of confusion for yourself and waste time trying to figure it out. What we're doing cannot be explained over email, and I'm not keen on teaching this class again to you personally during office hours---so you need to be in class. We will be using these tools the rest of the semester, so you can't wait for them to go away.
 
-Peruse these beforehand, and we'll go over them in class (esp GitHub):
+#### DO NOT MISS CLASS!
+Or you will create a lot of confusion for yourself and waste time trying to sort through it. What we're doing cannot be explained over email, and I will not teach this class again to you personally during office hours---so you need to be in class. We will be using these tools the rest of the semester, so you can't wait for them to go away.
+
+Peruse these beforehand:
 - Introduction to [Markdown](https://www.markdowntutorial.com/)
-- Introduction to [GitHub](https://github.com)
+- Introduction to [GitHub](https://guides.github.com/activities/hello-world/). Read through this tutorial, but do not actually do all the steps---just try to understand what's going on and we'll go over it.
 
 
 #### As soon as possible after class
-- Create a free and secure account at [Github](http://github.com). You can pick any username you want---it's independent from UNM and Zotero.
+- Create a free and secure account at [GitHub](http://github.com). You can pick any username you want---it's independent from UNM and Zotero.
 - Email Guy (gmcclell@unm.edu) your GitHub username. He'll invite you to join our GitHub "Team". Like Zotero, You'll get an email asking if you want to accept the invitation. Do it!
 - Use either [Dillinger](https://dillinger.io/) or a text editor (like [Atom](https://atom.io)) to create a plaintext Markdown file with some dummy text that includes some Markdown formatting. Be sure to save it as `FIRSTNAME-LASTNAME.md`. The content of your markdown file is irrelevant, but be sure your filename has no spaces and ends with `.md`.
 - Add that Markdown file to our  [repository](https://github.com/historic-trails/santa-fe-itinerary). Be sure you are logged into GitHub when you do this: Click on the `testfiles` folder, then drag and drop your file onto your browser window.
