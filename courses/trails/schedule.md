@@ -386,14 +386,17 @@ DUE: Your "second" draft that incorporates feedback from the peer review session
 
 
 ### Wednesday, 10/31
+DO NOT MISS CLASS! Or you will create a lot of confusion for yourself and waste time trying to figure it out. What we're doing cannot be explained over email, and I'm not keen on teaching this class again to you personally during office hours---so you need to be in class. We will be using these tools the rest of the semester, so you can't wait for them to go away.
+
+Peruse these beforehand, and we'll go over them in class (esp GitHub):
 - Introduction to [Markdown]((https://www.markdowntutorial.com/)
 - Introduction to [GitHub](https://github.com)
 
+
 #### As soon as possible after class
 - Create an account at [Github](http://github.com), and email Guy (gmcclell@unm.edu) your username. He'll add you to join our GitHub "Team".
-
-* Add a markdown file you create in [Dillinger](https://dillinger.io/) to our  [repository](https://github.com/historic-trails/itineraries/SantaFe). Be sure you are logged into GitHub when you do this: Click on the 'docs' folder, then drag and drop your file onto your browser window. The content of your markdown file is irrelevant, but be sure your filename has no spaces and ends with .md
-* If you are confused about Markdown, go back to our [Markdown tutorial](https://www.markdowntutorial.com/); for syntax help, consult the [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- Add a markdown file you create in [Dillinger](https://dillinger.io/) to our  [repository](https://github.com/historic-trails/itineraries/SantaFe). Be sure you are logged into GitHub when you do this: Click on the 'docs' folder, then drag and drop your file onto your browser window. The content of your markdown file is irrelevant, but be sure your filename has no spaces and ends with .md
+- If you are confused about Markdown, go back to our [Markdown tutorial](https://www.markdowntutorial.com/); for syntax help, consult the [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 ### Friday, 11/02
