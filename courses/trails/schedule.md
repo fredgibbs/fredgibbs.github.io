@@ -389,7 +389,7 @@ DUE: Your "second" draft that incorporates feedback from the peer review session
 DO NOT MISS CLASS! Or you will create a lot of confusion for yourself and waste time trying to figure it out. What we're doing cannot be explained over email, and I'm not keen on teaching this class again to you personally during office hours---so you need to be in class. We will be using these tools the rest of the semester, so you can't wait for them to go away.
 
 Peruse these beforehand, and we'll go over them in class (esp GitHub):
-- Introduction to [Markdown]((https://www.markdowntutorial.com/)
+- Introduction to [Markdown](https://www.markdowntutorial.com/)
 - Introduction to [GitHub](https://github.com)
 
 
