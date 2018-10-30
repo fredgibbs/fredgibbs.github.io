@@ -394,8 +394,10 @@ Peruse these beforehand, and we'll go over them in class (esp GitHub):
 
 
 #### As soon as possible after class
-- Create an account at [Github](http://github.com), and email Guy (gmcclell@unm.edu) your username. He'll add you to join our GitHub "Team".
-- Add a markdown file you create in [Dillinger](https://dillinger.io/) to our  [repository](https://github.com/historic-trails/itineraries/SantaFe). Be sure you are logged into GitHub when you do this: Click on the 'docs' folder, then drag and drop your file onto your browser window. The content of your markdown file is irrelevant, but be sure your filename has no spaces and ends with .md
+- Create a free and secure account at [Github](http://github.com). You can pick any username you want---it's independent from UNM and Zotero.
+- Email Guy (gmcclell@unm.edu) your GitHub username. He'll invite you to join our GitHub "Team". Like Zotero, You'll get an email asking if you want to accept the invitation. Do it!
+- Use either [Dillinger](https://dillinger.io/) or a text editor (like [Atom](https://atom.io)) to create a plaintext Markdown file with some dummy text that includes some Markdown formatting. Be sure to save it as `FIRSTNAME-LASTNAME.md`. The content of your markdown file is irrelevant, but be sure your filename has no spaces and ends with `.md`.
+- Add that Markdown file to our  [repository](https://github.com/historic-trails/santa-fe-itinerary). Be sure you are logged into GitHub when you do this: Click on the `testfiles` folder, then drag and drop your file onto your browser window.
 - If you are confused about Markdown, go back to our [Markdown tutorial](https://www.markdowntutorial.com/); for syntax help, consult the [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
