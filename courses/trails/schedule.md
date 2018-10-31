@@ -406,7 +406,7 @@ Peruse these beforehand:
 ### Friday, 11/02
 - Solve GitHub and Markdown problems
 - More Itinerary Project Details
-- [Itinerary sandbox]((https://historic-trails.github.io/santa-fe-itinerary/)
+- [Itinerary sandbox](https://historic-trails.github.io/santa-fe-itinerary/)
 - Historically Significant Site selections
 
 
