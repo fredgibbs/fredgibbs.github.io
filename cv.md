@@ -36,21 +36,9 @@ Bachelor of Arts (1998)
 Physics
 
 
-## Recent Courses
-* [Digital Futures of History](http://fredgibbs.net/courses/digital-futures-of-history)
-* [Digital Mapping](http://fredgibbs.net/courses/digital-mapping)
-* [Digital Methods for the Humanities](http://fredgibbs.net/courses/digital-methods)
-* [Food, Diet, and Health](http://fredgibbs.net/courses/food-diet-health)
-* [Historiography](http://fredgibbs.net/courses/historiography)
-* [History of Convenience Food](http://fredgibbs.net/courses/food-system-literacy)
-* [Metaphor of Plague](http://fredgibbs.net/courses/metaphor-of-plague)
-* [History of Premodern Medicine](http://fredgibbs.net/courses/premodern-medicine/fall-2015)
-
-
-
 ## Publications
 
-### Book
+### Monograph
 [_Poison, Medicine, and Disease in Late Medieval and Early Modern Europe_](https://www.routledge.com/Poison-Medicine-and-Disease-in-Late-Medieval-and-Early-Modern-Europe/Gibbs/p/book/9781472420398).  Routledge, July 2018.
 
 
@@ -120,44 +108,6 @@ Nancy G. Siraisi, _Communities of Learned Experience. Epistolary Medicine in the
 Ian Mortimer, _The Dying and the Doctors: the Medical Revolution in Seventeenth Century England_. Woodbridge: Boydell Press, 2009. In _Journal of Social History_ 44.4 (2011): 1289-91.
 
 Lawrence M. Principe (ed.), _Chymists and Chymistry_. Edited by . Philadelphia: Chemical Heritage Foundation and Science History Publications, 2007. In _Pharmacy in History_ 50.1 (2008): 34-6.
-
-
-### Encyclopedia Articles
-“Natural History,” in Robert E. Bjork (ed.), _Oxford Dictionary of the Middle Ages_. Oxford: Oxford University Press, 2010.
-
-“Poison Libels,” in Joseph P. Byrne (ed.), _Encyclopedia of Pestilence, Pandemics, and Plagues_. Westport and London: Greenwood Press, 2008.
-
-
-## Curricular Development  
-
-### Spatial Humanities Working Group (Aug2015 - present)
-This working group aims to build connections across disciplinary boundaries by providing an informal setting in which students and faculty across the university can meet to discuss theoretical, conceptual, and methodological questions regarding space and human societies. See more at the [SHWG website](http://spatialhumanities.unm.edu).
-
-### National Trails Research Course (Fall 2017 - present)
-
-
-## Digital Projects  
-
-### General Editor, _Programming Historian_ (Apr12 - Jul17)
-* Rigorously edited over a half-dozen lessons from proposals to polished tutorials
-* Developed and documented a transparent and peer review process
-* Implemented static site with Jekyll and GitHub Pages
-
-### Metadata Improvement VIA Mapping (MIVIAM) (Dec10 - Jan12)
-* Designed and coded robust Javascript interface to visualize thousands of data points via the Google Maps API (using plant specimen data held at [JSTOR Plants](http://plants.jstor.org))
-* Created sorting, filtering, and editing functions allowed researchers to correct and normalize metadata for easier research on botanical expeditions
-* Architected database schema and interface to manage suggested changes to metadata
-
-### Reframing the Victorians (Sep10 - Sep11)
-* Created various visualizations of ~1.5M 19th-century books from Google Books
-* Developed and coordinated large data mining operation using Amazon S3 and Elastic MapReduce
-* Published pioneering digital history methodology piece in _Victorian Studies_
-
-### Digging Into Data: Criminal Intent (Sep09 - Sep10)
-* Developed Zotero translator to harvest data from the Old Bailey API
-* Researched cases on poison using Old Bailey Online API and Voyant
-* Participated in routine conference calls with project team to review progress and meet deadlines
-
 
 
 
@@ -305,28 +255,19 @@ Midwest Junto for the History of Science (Apr 2006)
 Society for the Social History of Medicine Post-graduate conference (Jan 2006)
 
 
+## Recent Courses
+* [Digital History](http://fredgibbs.net/courses/digital-history)
+* [Food, Diet, and Health](http://fredgibbs.net/courses/food-diet-health)
+* [Food, Technology, and Society](http://fredgibbs.net/courses/food-technology-society)
+* [American Food Cultures](http://fredgibbs.net/courses/american-food)
+* [Historiography](http://fredgibbs.net/courses/historiography)
+* [Digital Mapping](http://fredgibbs.net/courses/digital-mapping)
+* [History of Plague](http://fredgibbs.net/courses/metaphor-of-plague)
+
+
+
+
 ## Engagements
-
-### Digital Workshop Instruction
-
-*Using QGIS for Historical Research*  
-University of New Mexico (Dec 2015)
-
-*Digital History Methods Workshop (intermediate GIS)*  
-American Historical Association (Jan 2015)
-
-*NEH Summer Institute [Doing Digital History](http://history2014.doingdh.org)*
-George Mason University (August 2014)
-
-*Text mining in the Digital Humanities*  
-Hertog Global Strategy Initiative @ Columbia University (May 2013)
-
-*Document Similarity with R*  
-THATCamp @ RRCHNM (June 2013)
-
-*Historical Mapping with QGIS*  
-THATCamp @ RRCHNM (June 2013)
-
 
 ### Editorships
 * Editor, H-Nutrition (Fall 2016 - )
@@ -334,20 +275,7 @@ THATCamp @ RRCHNM (June 2013)
 * Advisory Editor (Digital Scholarship) for _Isis_ [Journal of the History of Science Society] (Spring 2015 – Spring 2017 )
 
 
-
-### Review Work
-
-#### Manuscripts
-_Isis_, _Digital Humanities Quarterly_, _Bulletin of the History of Medicine_, Pearson, Packt Publishing, MIT Press
-
-#### Grant Applications
-Austrian Science Fund, Humanities in the European Research Area (HERA), National Endowment for the Humanities (NEH), Social Sciences and Humanities Research Council of Canada (SSHRC)
-
-#### Conference Proposals
-* Digital Humanities Conference
-
-
-### Committees  
+### Administrata
 
 #### Professional Societies
 * History of Science Society Technology and Communication Committee (Fall 2015 - Fall 2017)
@@ -356,71 +284,15 @@ Austrian Science Fund, Humanities in the European Research Area (HERA), National
 
 #### College and University
 * Faculty Advisory Committee for the UNM / National Park Service - National Trails Intermountain Region partnership (Spring 2016 - )
+* UNM Faculty Senate Information Technology Use Committee (Fall 2013 - Fall 2018)
 * UNM Data to Knowledge Conference Organizing Committee (Spring 2014 - Fall 2015)
-* UNM Faculty Senate Information Technology Use Committee (Fall 2013 - )
 * Institute for Medieval Studies Steering Committee (Fall 2013 - )
 
 #### Departmental
+* UNM History Department Undergraduate Director (Fall 2018 - )
 * UNM History Department Assessment Coordinator (Fall 2017 - )
 * UNM History Department Faculty Senator (Fall 2017 - )
 * UNM History Department Library Liaison (Fall 2015 - )
 * UNM History Graduate Advisory Committee (Fall 2014 - Fall 2016)
 * GMU Graduate Admissions Committee (2012-13)
 * GMU History Day Organizer (2009-2012)
-
-
-
-## Previous Web Design and Development Projects
-
-### General Skills and Experience
-* 15+ years experience combining qualitative and quantitative research utilizing complex analog and digital sources
-* 7+ years project management experience with variously sized, multidisciplinary collaborative research projects
-* Exemplary written and oral communication skills, with vast public presentation experience (see presentations below)
-* 10+ years experience of classroom teaching (both lecture and discussion format) in higher education
-* Peer-reviewed author of one book (forthcoming) and a dozen scholarly articles for broad and specialized audiences
-* Successful grant-writer with National Science Foundation, National Endowment for the Humanities, Google, and Mellon Foundation
-
-
-### Technical Skills and Experience
-* Standard and emerging desktop and web mapping technologies, including ArcGIS, QGIS, Carto, Mapbox, Leaflet, Open Street Map
-* Web development with Javascript, HTML5, CSS, PHP, AJAX, REST APIs, XML, XSLT, Bootstrap, Django
-* Programming and scripting languages, esp. Javascript, Python, R, Java, C++
-* Database design and administration, esp. MySQL and SQLite
-* Implementing web standards, accessibility guidelines, and semantic mark-up
-* Creating harmony between user interfaces and information/database architecture
-* Spearheading initiatives to create technical documentation, guidelines and implement long-term sustainability practices
-* All common MS Office apps; all Adobe products, esp. Photoshop, Illustrator, and InDesign
-
-### Zotero Developer (Feb08 - Sep09)
-* Critiqued and evaluated emerging technologies for collaborative bibliography management
-* Focused on abstracting and standardizing non-standardized data for algorithmic formatting
-* Committed source code for citation creation and style editing
-
-### UW Nelson Institute for Environmental Studies (Mar09 - Oct09)
-* Managed and executed complete website redesign centered around a custom developed tag-based resource management system (PHP, Javascript, MySQL) to connect Nelson Institute faculty, students, and staff with each other through mutual research interests
-* Integrated full news and event management system with custom tagging (and taxonomy manager) to unite all Institute resources
-
-### UW Center for the Humanities (Jan08  -  Jan10)
-* Revitalized a static website to deliver rich and dynamic content through a standards compliant and typographically sound website
-* Designed and developed open-source web-based (PHP, MySQL) event calendar system to automate website maintenance and to feature audio and video resources
-* Helped shaped Center workflows for creating, publishing, and archiving all Center website content with multiple access points, including RSS/XML feeds
-
-### UW Biological Systems Engineering Department (Jan08  -  Jul09)
-* Lead programmer for USDA funded project to build web tools for farmers to teach and promote energy conservation
-* Focus on readable display of complex data and intuitive user interfaces for data input, and extending analytical capabilities of tools
-* Assisted with project management by coordinating project timelines, milestones, and deliverables
-
-### Freelance Web Designer and Developer at UW-Madison (Jun05  -  Jan08)
-* Coordinated with various academic departments, programs, and scholars to entirely redesign and develop customized web sites
-* Clients included the Medical History Department, Center for Culture, History, Environment, Journal of Undergraduate International Studies, and Holtz Center for Science and Technology Studies (all at UW-Madison)
-
-### UW Student Academic Affairs (Jun03  -  Sep06)
-* Architect, designer, developer for suite of 20+ websites; supervised undergraduate programmer. Juggled multiple projects with various timelines, deadlines; created full documentation for site code and best practices
-* Developed and implemented site-wide redesign built upon a custom CMS (PHP, MySQL) for all sites to manage a centralized event calendar, message board, and various student application forms
-* Created all layouts, design schemes, logos, and site graphics to preserve individual program personalities online; enforced University accessibility and style guidelines
-* Formulated and presented long-term web initiatives and project plans to UW Assistant Deans to create and increase web presence for specific undergraduate audiences
-
-### IBM and Target Corporations (Jul98  -  Feb00)
-* Co-lead developer for first generation of target.com; responsible for back-end coding of e-commerce functionality with Java and Oracle, including product search engine to meet strict usability and performance requirements
-* Spearheaded standardization efforts and implementation of best practices among different programming, data modeling, testing, and deployment teams
-* Served as an _Information Technology Specialist_ for Global Services Division; diagnosed and solved debugging and testing challenges quickly and efficiently, adjusted to varied work environments, and established productive personal relationships with clients
