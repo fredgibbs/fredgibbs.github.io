@@ -216,7 +216,13 @@ AS ALWAYS: I'm looking for evidence of your ability to understand these texts in
 ## Nutritionism
 
 ### Mon 11/5  
-- Gyorgy Scrinis, “[On the Ideology of Nutritionism](https://www.jstor.org/stable/10.1525/gfc.2008.8.1.39),” 39–48.
+- Elizabeth G. Dunn, [Meet the Startup That Thinks DNA Can Predict Your Best Diet](https://medium.com/s/futurehuman/is-the-secret-to-better-nutrition-encoded-in-our-genes-e0cfd1ad11a8).
+
+#### Package Analyses not due today as originally scheduled, but rather on Wednesday
+
+
+### Wed 11/7
+- Gyorgy Scrinis, “On the Ideology of Nutritionism,” 39–48. (In Zotero)
 
 What does Scrinis means by "nutritionism"? What processes encouraged that? To what extent does it still pervade dietary thinking and advice? Although a seemingly objective measure of energy, how is the calorie political? What are the examples of techno-fixes in this chapter? "Perception of nutrient scarcity" and "myth of nutritional precision" are key phrases that motivate this chapter---what are they? And do they really matter? How far can we trust Scrinis's analysis?
 
@@ -224,11 +230,6 @@ What does Scrinis means by "nutritionism"? What processes encouraged that? To wh
     - Pick a food/food-like item that makes health claims on its package. Cereal boxes, granola bars, various snack items, frozen dinners, supplements, and similar are usually good. DO NOT pick candy or soda or any product whose label doesn't have anything to do with health. Ask if you're not sure!
     - Write a 800-word analysis about how the label informs you perceptions of healthy
     - AS ALWAYS: your analysis must draw from course readings!
-
-
-### Wed 11/7
-- Elizabeth G. Dunn, [Meet the Startup That Thinks DNA Can Predict Your Best Diet](https://medium.com/s/futurehuman/is-the-secret-to-better-nutrition-encoded-in-our-genes-e0cfd1ad11a8).
-
 
 
 ### Fri 11/9: NO CLASS
