@@ -4,12 +4,12 @@ title: cv | fred gibbs
 permalink: /cv
 ---
 
-**Frederick W. Gibbs**  
+## Frederick W. Gibbs
 Department of History  
 MSC06 3760  
 1 University of New Mexico  
 Albuquerque, NM 87131-1181  
-[fwgibbs@unm.ed](mailto:fwgibbs@unm.edu)
+[fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)
 
 
 ## Academic Employment
