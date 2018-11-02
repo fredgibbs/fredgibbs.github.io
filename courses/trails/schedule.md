@@ -408,7 +408,7 @@ Peruse these beforehand:
 - More Itinerary Project Details
 - [Itinerary sandbox](https://historic-trails.github.io/santa-fe-itinerary/)
 - Historically Significant Site selections
-
+- Research Outline Reminder
 
 
 
