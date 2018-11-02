@@ -1,10 +1,13 @@
 ---
 layout: syllabus
-title: Digital  History
+title: Digital History
 term: Spring 2019
 number: HIST 407
 section: schedule
 ---
+
+# This is NOT EXACTLY RIGHT
+This syllabus is from the most recent version of the course and is undergoing revision for Spring 2019. However, it will not change radically, and thus can still give you an idea of what this course is about. 
 
 ## 1: Course and Digital History Introduction
 
