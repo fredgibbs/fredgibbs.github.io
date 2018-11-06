@@ -7,7 +7,7 @@ section: schedule
 header: trails
 ---
 
-# National Trails Syllabus, weeks 1-8
+# National Historic Trails
 
 
 ## Week 1: Introductions
@@ -419,9 +419,17 @@ Peruse these beforehand:
 
 
 ### Wednesday, 11/07
-- DUE: Research Outlines
-- Public History Writing Exercise
+- READ selections an NPS [Santa Fe History](https://dnr.mo.gov/shpo/nps-nr/64500309.pdf). This is a a kind of historic registry nomination form that we've been looking at but intended to be for all historic sites near the Santa Fe Trail. It begins with a long and thorough history (with just under 800 footnotes), and also has a long bibliography that we'll want to keep an eye on. We're reading from section E (Statement of Historic Contexts), which starts on page 3 of the PDF, but is labeled as E1 on the document (yay bureaucracy!). All pages are as listed in the document, not what your PDF reader says.
+  - Make sure you at least skim everything and read carefully what interests you. Some paragraphs have lots of detail to support a larger point; obviously we're not concerned with minute detail, but it helps indicate what we know and what we don't about the Trail. Read extra quickly over those bits.
+  - Introduction (1-6)
+  - Part I (13-38)
+  - Part II (39-44)
+  - Part III (44-47)
+  - Part IV (57-middle 59)
+  - Part V (62-top 67)
 
+- Registration Form Assignments
+- Go over Itinerary Outlines DUE MONDAY
 
 ### Friday, 11/09: NO CLASS
 
@@ -430,24 +438,23 @@ Peruse these beforehand:
 ## Week 13: More Drafts
 
 ### Monday, 11/12
-- DUE: First Complete Draft
-- Class Critiques
+- DUE: Itinerary Outlines
+- Public History Writing Exercise
 - Template/Layout Decisions
 
 
 ### Wednesday, 11/14
-- Class Critiques
-
+- NO CLASS?
 
 ### Friday, 11/16
-- DUE: Possibly Final Vignette Revisions
-
+- DUE: Complete Itinerary Drafts (with notes notes about what needs more research)
+- Peer Review
 
 ## Week 14: Research Projects
 
 ### Monday, 11/19
 - Revised Itinerary Drafts due on GitHub
-- Class Critiques
+- Layout Critiques
 
 ### Wednesday, 11/21: NO CLASS (pre-Thanksgiving)
 
