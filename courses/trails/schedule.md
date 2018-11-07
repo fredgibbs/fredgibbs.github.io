@@ -439,12 +439,17 @@ Peruse these beforehand:
 
 ### Monday, 11/12
 - DUE: Itinerary Outlines
+  - Need to produce complete outline
+  - Bullet points only, but 1-2 meaningful sentences each. These will be topic sentences of your paragraphs.
+  - 2-3 sub-bullets (of things to mention; NO SENTENCES)
+  - Use specific citations; or note where more research is needed
+  - Minimum 10 sources in Zotero collection (start with sources on registration forms).
 - Public History Writing Exercise
 - Template/Layout Decisions
 
 
 ### Wednesday, 11/14
-- NO CLASS?
+- TBD
 
 ### Friday, 11/16
 - DUE: Complete Itinerary Drafts (with notes notes about what needs more research)
