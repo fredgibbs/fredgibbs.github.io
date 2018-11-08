@@ -439,27 +439,38 @@ Peruse these beforehand:
 
 ### Monday, 11/12
 - DUE: Itinerary Outlines
-  - Need to produce complete outline
+  - Need to produce COMPLETE outline
   - Bullet points only, but 1-2 meaningful sentences each. These will be topic sentences of your paragraphs.
   - 2-3 sub-bullets (of things to mention; NO SENTENCES)
   - Use specific citations; or note where more research is needed
   - Minimum 10 sources in Zotero collection (start with sources on registration forms).
-- Public History Writing Exercise
-- Template/Layout Decisions
+  - Name your file according to your site like `blue-mills.md`
+    - use dashes, NOT spaces
+    - all lower case
+    - `.md` extension
+  - Add your file to the [new sites folder](https://github.com/historic-trails/santa-fe-itinerary/tree/master/docs/sites) in our repository
+
+- IN CLASS: Public History Writing Exercise
 
 
 ### Wednesday, 11/14
-- TBD
+- Template/Layout Decisions
+- The Return of the Vignettes
 
 ### Friday, 11/16
-- DUE: Complete Itinerary Drafts (with notes notes about what needs more research)
+- DUE: Complete Itinerary Drafts
+  - Write in plain text + Markdown, but BRING A PAPER COPY
+  - Flesh out your outlines into a full draft with section headings
+  - Include notes notes about what needs more research
 - Peer Review
+
+
 
 ## Week 14: Research Projects
 
 ### Monday, 11/19
 - Revised Itinerary Drafts due on GitHub
-- Layout Critiques
+- Image research
 
 ### Wednesday, 11/21: NO CLASS (pre-Thanksgiving)
 
