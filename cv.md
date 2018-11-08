@@ -113,7 +113,7 @@ Lawrence M. Principe (ed.), _Chymists and Chymistry_. Edited by . Philadelphia: 
 
 ## Selected Presentations, Panels, and Workshops
 
-Panelist: *History of Food, Nutrition, and the History of Medicine*
+Panelist: *History of Food, Nutrition, and the History of Medicine*  
 American Association for the History of Medicine (May 2018)
 
 *Intelligence of Algorithms*  
