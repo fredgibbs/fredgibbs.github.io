@@ -15,7 +15,7 @@ I continue to run the UNM [Spatial Humanities Working Group](http://spatialhuman
 
 More on these projects, as well as other ongoing and previous research appears on [my project portfolio](../projects), and check peruse some publications (and links to them) on [my CV](../cv).
 
-Previously, my research focused on premodern toxicology, particularly late medieval and early modern medical literature on poison. I wrote an significant but boring [book](https://www.routledge.com/Poison-Medicine-and-Disease-in-Late-Medieval-and-Early-Modern-Europe/Gibbs/p/book/9781472420398) about it.
+Previously, my research focused on premodern toxicology, particularly late medieval and early modern medical literature on poison. I wrote [book](https://www.routledge.com/Poison-Medicine-and-Disease-in-Late-Medieval-and-Early-Modern-Europe/Gibbs/p/book/9781472420398) about it.
 
 
 # History
