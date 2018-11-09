@@ -438,10 +438,15 @@ Peruse these beforehand:
 ## Week 13: More Drafts
 
 ### Monday, 11/12
-- DUE: Itinerary Outlines
-  - Need to produce COMPLETE outline
-  - Bullet points only, but 1-2 meaningful sentences each. These will be topic sentences of your paragraphs.
-  - 2-3 sub-bullets (of things to mention; NO SENTENCES)
+- DUE: ITINERARY OUTLINES
+  - Note there is a sample outline [HERE](https://github.com/historic-trails/santa-fe-itinerary/blob/master/docs/sites/blue-mills.md)
+    - This is very much, like your outlines, a work in progress, but notice:
+      - the general topics are clear, distinct, and in a reasonable (not necessarily final) order
+      - it's clear what i have sources for and what i need to research further
+      - although clearly super rough, it's a solid base to build on and that's what you need to have by Monday.
+  - Need to produce COMPLETE outline--the main work is in pulling out the main points from the registration forms and ordering it appropriately for a general audience.
+  - Use 1-2 sentences (even if incomplete) that will ultimately become topic sentences of your paragraphs. They can be rough an sketchy now, but the ideas should be clear.
+  - For each paragraph, have 2-3 sub-bullets (of things to mention, research etc)
   - Use specific citations; or note where more research is needed
   - Minimum 10 sources in Zotero collection (start with sources on registration forms).
   - Name your file according to your site like `blue-mills.md`
