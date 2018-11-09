@@ -444,6 +444,7 @@ Peruse these beforehand:
       - the general topics are clear, distinct, and in a reasonable (not necessarily final) order
       - it's clear what i have sources for and what i need to research further
       - although clearly super rough, it's a solid base to build on and that's what you need to have by Monday.
+      - please note the formatting, which makes it easy to skim as an outline.
   - Need to produce COMPLETE outline--the main work is in pulling out the main points from the registration forms and ordering it appropriately for a general audience.
   - Use 1-2 sentences (even if incomplete) that will ultimately become topic sentences of your paragraphs. They can be rough an sketchy now, but the ideas should be clear.
   - For each paragraph, have 2-3 sub-bullets (of things to mention, research etc)
