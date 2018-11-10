@@ -442,6 +442,7 @@ Peruse these beforehand:
   - Note there is a sample outline [HERE](https://github.com/historic-trails/santa-fe-itinerary/blob/master/docs/sites/blue-mills.md)
     - This is very much, like your outlines, a work in progress, but notice:
       - the general topics are clear, distinct, and in a reasonable (not necessarily final) order
+      - the topic sentences convey the topic, but are generally shite as far as style goes. SUBSTANCE OVER STYLE AT THIS POINT
       - it's clear what i have sources for and what i need to research further
       - although clearly super rough, it's a solid base to build on and that's what you need to have by Monday.
       - please note the formatting, which makes it easy to skim as an outline.
