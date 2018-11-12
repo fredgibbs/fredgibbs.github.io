@@ -246,12 +246,14 @@ But you should get started on your Health/Diet site review
 
 
 ### Wed 11/14
-- Jeffrey Haydu, “Cultural Modeling in Two Eras of U.S. Food Protest: Grahamites (1830s) and Organic Advocates (1960s–70s),” *Social Problems* 58.3 (2011): 461–87.
-Like the last article, you should skim the sociological theory and jargon at the beginning, focusing your attention on p. 467, when the author begins to compare the two movements. Our discussion will focus on (and the article nicely outlines these with clear headings: **What are the key historical similarities and differences** between the Gramhamites and the organic-ites (for lack of better term)?
-
-### Fri 11/16
 - [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/).
 - [More Evidence That Nutrition Studies Don’t Always Add Up](https://www.nytimes.com/2018/09/29/sunday-review/cornell-food-scientist-wansink-misconduct.html)
+
+
+### Fri 11/16
+- Georgy Scrinis, _Nutritionism_, 215-236 (Chapter 9: The Food Quality Paradigm).
+    The gist of the article is straightforward enough, so we'll discuss some of the larger questions that Scrinis raises. Are Tables 9.1 and 9.2 useful ways of categorizing levels of processing? What are the potential problems? What can we learn from the history of organics on this issue? Scrinis is adamant (page 223, for instance) that health threats come primarily from "high levels of reconstituted, degraded, and synthetic food components." Do you agree? Similarly, is it true (page 226), that nutritionism is far less important than the "range of chemical pesticides, antibiotics, and growth hormones found in industrially produced foods"? Does one have to be educated about "good" food? Is it natural? Should education focus on nutrition or eating?
+
 
 
 
@@ -259,12 +261,14 @@ Like the last article, you should skim the sociological theory and jargon at the
 ## Weight and Health
 
 ### Mon 11/19
+
 - DUE: Health/Diet site review
     - Find and critique of blog or online essay about diet and health.
     - Remember to review the [critique writing guide](http://fredgibbs.net/courses/etc/critique-writing-guide).
 
-- SKIM: Georgy Scrinis, _Nutritionism_, 215-236 (Chapter 9: The Food Quality Paradigm).
-    The gist of the article is straightforward enough, so we'll discuss some of the larger questions that Scrinis raises. Are Tables 9.1 and 9.2 useful ways of categorizing levels of processing? What are the potential problems? What can we learn from the history of organics on this issue? Scrinis is adamant (page 223, for instance) that health threats come primarily from "high levels of reconstituted, degraded, and synthetic food components." Do you agree? Similarly, is it true (page 226), that nutritionism is far less important than the "range of chemical pesticides, antibiotics, and growth hormones found in industrially produced foods"? Does one have to be educated about "good" food? Is it natural? Should education focus on nutrition or eating?
+- Jeffrey Haydu, “Cultural Modeling in Two Eras of U.S. Food Protest: Grahamites (1830s) and Organic Advocates (1960s–70s),” *Social Problems* 58.3 (2011): 461–87.
+  Skim the sociological theory and jargon at the beginning, focusing your attention beginning on p. 467, when the author begins to compare the two movements. Our discussion will focus on (and the article nicely outlines these with clear headings: **What are the key historical similarities and differences** between the Gramhamites and the organic-ites (for lack of better term)?
+
 
 ### Wed 11/21: NO CLASS (pre-Thanksgiving)
 
