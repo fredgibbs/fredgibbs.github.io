@@ -462,18 +462,18 @@ Peruse these beforehand:
 ### Wednesday, 11/14
 - NOTE REPOSITORY RE-ORG:
   - Your outlines are now officially "versioned" and preserved in our `outlines` folder; don't edit these anymore.
-  - For you first drafts, you should EDIT or REPLACE copies of your outline files in the `first-drafts` folder at https://github.com/historic-trails/santa-fe-itinerary/tree/master/first-drafts.
+  - For you first drafts, you should EDIT or REPLACE copies of your outline files in the `first-drafts` folder [here] (https://github.com/historic-trails/santa-fe-itinerary/tree/master/first-drafts).
   - We will start using the  `docs/sites` folder again for revised drafts due next Monday.
 - IN CLASS: Public History Writing Exercise
 - The Return of the Vignettes, and notes for better first drafts.
-- As you finish drafting your essays for Friday, review our models from https://www.nps.gov/subjects/travelcharlestonsc/visit.htm.
+- As you finish drafting your essays for Friday, review existing site essays from the [travel Charleston itinerary] (https://www.nps.gov/subjects/travelcharlestonsc/visit.htm). Notice the scope of these essays and get excited about the perspectives we're able to bring to our site histories.
 
 ### Friday, 11/16
 - DUE: Complete Itinerary Drafts
-  - Write in plain text + Markdown, but BRING A PAPER COPY
   - Flesh out your outlines into a full draft with section headings
+  - Write in plain text + Markdown, commit your files to our repository, AND BRING A PAPER COPY to class.
   - Include notes notes about what needs more research
-- Peer Review
+- IN CLASS: Peer Review
 
 
 
@@ -481,7 +481,7 @@ Peruse these beforehand:
 
 ### Monday, 11/19
 - Revised Itinerary Drafts due on GitHub
-- Image research
+- Image research tips and technical details
 
 ### Wednesday, 11/21: NO CLASS (pre-Thanksgiving)
 
@@ -493,7 +493,7 @@ Peruse these beforehand:
 ## Week 15
 
 ### Monday, 11/26
-
+DUE: Modified drafts with appropriate images and captions integrated into narrative.
 
 ### Wednesday, 11/28
 
