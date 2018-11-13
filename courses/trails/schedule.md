@@ -457,12 +457,16 @@ Peruse these beforehand:
     - `.md` extension
   - Add your file to the [new sites folder](https://github.com/historic-trails/santa-fe-itinerary/tree/master/docs/sites) in our repository
 
-- IN CLASS: Public History Writing Exercise
 
 
 ### Wednesday, 11/14
-- Template/Layout Decisions
-- The Return of the Vignettes
+- NOTE REPOSITORY RE-ORG:
+  - Your outlines are now officially "versioned" and preserved in our `outlines` folder; don't edit these anymore.
+  - For you first drafts, you should EDIT or REPLACE copies of your outline files in the `first-drafts` folder at https://github.com/historic-trails/santa-fe-itinerary/tree/master/first-drafts.
+  - We will start using the  `docs/sites` folder again for revised drafts due next Monday.
+- IN CLASS: Public History Writing Exercise
+- The Return of the Vignettes, and notes for better first drafts.
+- As you finish drafting your essays for Friday, review our models from https://www.nps.gov/subjects/travelcharlestonsc/visit.htm.
 
 ### Friday, 11/16
 - DUE: Complete Itinerary Drafts
