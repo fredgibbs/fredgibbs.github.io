@@ -462,11 +462,11 @@ Peruse these beforehand:
 ### Wednesday, 11/14
 - NOTE REPOSITORY RE-ORG:
   - Your outlines are now officially "versioned" and preserved in our `outlines` folder; don't edit these anymore.
-  - For you first drafts, you should EDIT or REPLACE copies of your outline files in the `first-drafts` folder [here] (https://github.com/historic-trails/santa-fe-itinerary/tree/master/first-drafts).
+  - For you first drafts, you should EDIT or REPLACE copies of your outline files in the `first-drafts` folder [here](https://github.com/historic-trails/santa-fe-itinerary/tree/master/first-drafts).
   - We will start using the  `docs/sites` folder again for revised drafts due next Monday.
 - IN CLASS: Public History Writing Exercise
 - The Return of the Vignettes, and notes for better first drafts.
-- As you finish drafting your essays for Friday, review existing site essays from the [travel Charleston itinerary] (https://www.nps.gov/subjects/travelcharlestonsc/visit.htm). Notice the scope of these essays and get excited about the perspectives we're able to bring to our site histories.
+- As you finish drafting your essays for Friday, review existing site essays from the [Charleston travel itinerary](https://www.nps.gov/subjects/travelcharlestonsc/visit.htm). Notice the scope of these essays and get excited about the perspectives we're able to bring to our site histories.
 
 ### Friday, 11/16
 - DUE: Complete Itinerary Drafts
