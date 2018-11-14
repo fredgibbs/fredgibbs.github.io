@@ -469,19 +469,20 @@ Peruse these beforehand:
 - As you finish drafting your essays for Friday, review existing site essays from the [Charleston travel itinerary](https://www.nps.gov/subjects/travelcharlestonsc/visit.htm). Notice the scope of these essays and get excited about the perspectives we're able to bring to our site histories.
 
 ### Friday, 11/16
-- DUE: Complete Itinerary Drafts
+- DUE: COMPLETE Itinerary Drafts
   - Flesh out your outlines into a full draft with section headings
-  - Write in plain text + Markdown, commit your files to our repository, AND BRING A PAPER COPY to class.
-  - Include notes notes about what needs more research
+  - Write in plain text + Markdown, commit your files to our repository (see link above)
+  - Include notes notes about what needs more research if awaiting sources
+  - BRING A PAPER COPY to class
+- IN CLASS: Research questions
 - IN CLASS: Peer Review
-
-
 
 ## Week 14: Research Projects
 
 ### Monday, 11/19
-- Revised Itinerary Drafts due on GitHub
-- Image research tips and technical details
+- DUE: Revised Itinerary Drafts due on GitHub.
+- Image research and captioning tips
+- Technical details on how to put images in your essay
 
 ### Wednesday, 11/21: NO CLASS (pre-Thanksgiving)
 
@@ -493,17 +494,29 @@ Peruse these beforehand:
 ## Week 15
 
 ### Monday, 11/26
-DUE: Modified drafts with appropriate images and captions integrated into narrative.
+- DUE: Modified drafts with appropriate images and captions integrated into narrative.
+- IN CLASS: review of general formatting, intro paragraphs, and skimmable topic sentences
+- IN CLASS: hyperlinking
 
 ### Wednesday, 11/28
-
+- DUE: All itinerary pages should be ENTIRELY COMPLETE, including clear section headings, clear and focused paragraphs, clear narrative thread, images (with captions), hyperlinks, and properly formatted bibliography.
+- Website layout and features that need work
+- Creating our directory of sites via Google Sheets
 
 ### Friday, 11/30
+- DUE: All directory info in Google Sheet
+- OPTIONAL DUE: If you want another round of critique on your vignettes, bring a complete draft to class, and you'll get it back by the last day of class.
 
 
 
 ## Week 16: Loose Ends and Final Submissions
 
 ### Monday, 12/03
+- Final website walk-thru. What else does Gibbs need to do?
 
 ### Wednesday, 12/05
+- What have we done?
+- What have we learned?
+- What can you do now?
+
+## All work due December 12 at 5:00pm.
