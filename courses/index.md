@@ -5,25 +5,130 @@ title: courses
 
 # Regularly Scheduled Courses
 
-## Spring 2019
-* [Digital History](digital-history)
+
+<div class="row course">
+
+<div class="col-12">
+  <h2 class="course-title"><a href="digital-history">Digital History</a></h2>
+</div>
+
+<div class="col-4">
+  <img class="course-poster" src="images/digital-history-sm.jpg">
+</div>
+
+  <div class="col-8">
+    <p class="course-desc">This course examines how technology shapes our access to and interpretations of the past. How does the digitization of cultural artifacts change the ways historians ask and answer questions about the past? What kinds of new research methods do historians need to analyze and interpret the exponentially growing digital archive? How has digital publishing and platforms like Wikipedia challenged traditional historical expertise and authority? Our collaborative coursework will focus on using new media technologies to communicate about the value and significance of history.</p>
+  </div>
+
+</div>
 
 
-## Fall 2018
-* [National Historic Trails](trails)
-* [History of Diet and Health](food-diet-health)
+
+<div class="row course">
+<div class="col-12">
+  <h2 class="course-title"><a href="trails">National Historic Trails</a></h2>
+</div>
+
+<div class="col-4">
+  <img class="course-poster" src="images/trails-sm.jpg">
+</div>
+
+  <div class="col-8">
+    <p class="course-desc">This multidisciplinary course provides an introduction to the study, interpretation, and significance of the National Historic Trails System. It also explores the challenges of public history by engaging students as core contributors to research projects at the National Trails Intermountain Region Office that will appear on their official website. Throughout the course we’ll also discuss broad questions about cultural heritage and historic preservation: What constitutes a historic trail? How does a historic trail retain cultural significance? What are the challenges and strategies in communicating about the trails to a 21st-century audience?</p>
+  </div>
+
+</div>
 
 
-## Summer 2018
-* [History of American Food](american-food)
 
-## Spring 2018
-* [Historiography](historiography)
+<div class="row course">
+<div class="col-12">
+  <h2 class="course-title"><a href="food-diet-health">History of Diet and Health</a></h2>
+</div>
 
-## Fall 2017
-* [Food, Technology, and Society](food-technology-society)
-* [Digital History](digital-history)
+<div class="col-4">
+  <img class="course-poster" src="images/diet-health-sm.jpg">
+</div>
+
+  <div class="col-8">
+    <p class="course-desc">
+     The questions of what constitute healthy foods and bodies have been in flux since people had a choice about what to eat. And even today, medical understandings of nutrition, diet, and health seems to change almost daily. This course explores how various cultural, scientific, and medical values have continually shaped our relationship to food, health, and diet since the Renaissance. How have medical authorities continually redefined what it means to be healthy and to eat a healthy diet?  How much do food industries and lobbyists affect our understanding of healthy eating? How can the history of nutrition help us understand our own cultural constructions of natural and healthy diets?
+    </p>
+  </div>
+
+</div>
 
 
-## Previously
-* [Digital Mapping](digital-mapping)
+<div class="row course">
+<div class="col-12">
+  <h2 class="course-title"><a href="american-food">History of American Food Cultures</a></h2>
+</div>
+
+<div class="col-4">
+  <img class="course-poster" src="images/american-food-sm.jpg">
+</div>
+
+  <div class="col-8">
+    <p class="course-desc">
+This course investigates the changing meanings of food and foodways throughout US history, including what people eaten, how they have attached cultural values to certain foods yet rejected others, and how immigration, and regionalization have shaped notions of American cuisine.
+    </p>
+  </div>
+
+</div>
+
+
+<div class="row course">
+<div class="col-12">
+  <h2 class="course-title"><a href="food-technology-society">Food, Technology, and Society</a></h2>
+</div>
+
+<div class="col-4">
+  <img class="course-poster" src="images/food-tech-society-sm.jpg">
+</div>
+
+<div class="col-8">
+  <p class="course-desc">
+    This course explores how supermarkets have come to look like they do. We’ll look at the impact of science and technology on food production, processing, and distribution (such as canning, refrigeration, GMOs, techno-foods). We’ll also put these developments in larger social, cultural, and demographic contexts, including the growing divide between food producers and consumers, urbanization, and food deserts, the rise of food corporations, governmental regulation and sustainability. Even more broadly, we try to identify connections between agriculture, ecology, consumerism, capitalism, media, politics, and the history of science and medicine.
+  </p>
+</div>
+
+</div>
+
+
+
+<div class="row course">
+<div class="col-12">
+  <h2 class="course-title"><a href="historiography">Historiography</a></h2>
+</div>
+
+
+<div class="col-4">
+  <img class="course-poster" src="images/historiography-sm.jpg">
+</div>
+
+<div class="col-8">
+  <p class="course-desc">
+    This course introduces some of the most influential approaches that historians (from antiquity through the present) have taken in writing about the past. It also addresses various meta-questions about history: What is history? What is it for? Who is it for? It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history.
+  </p>
+</div>
+
+</div>
+
+
+<div class="row course">
+<div class="col-12">
+  <h2 class="course-title"><a href="digital-mapping">Digital Mapping + Spatial Humanities</a></h2>
+</div>
+
+
+<div class="col-4">
+  <img class="course-poster" src="images/digital-mapping-humanities-sm.jpg">
+</div>
+
+<div class="col-8">
+  <p class="course-desc">
+  We are in the midst of a major paradigm shift in human consciousness and society caused by our ubiquitous connectedness via the internet, smartphones, and digital maps. These globalizing forces have telescoped space and time to an unprecedented degree, while paradoxically heightening the importance of local places. The course explores the technologies, tools, and workflows that can help collect, connect, and present online interpretations of the spaces around us.
+  </p>
+</div>
+
+</div>

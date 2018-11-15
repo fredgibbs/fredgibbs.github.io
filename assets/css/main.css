@@ -531,13 +531,31 @@ figcaption.raw {
 }
 
 .course-desc {
-font-size:85%;
+font: 1rem/1.5rem 'Arimo', sans-serif;
+text-align:justify;
+}
+
+.row.course {
+  margin-bottom:2em;
 }
 
 .course-img {
   float:right;
   padding: 0 0 1em 1em;
   width:300px;
+}
+
+.course-poster {
+  width:100%;
+  padding:0;
+}
+
+.course-title {
+  font-size: 2.5rem;
+  border-bottom:1px solid black;
+  text-align:right;
+  background:#fff;
+  color:#333;
 }
 
 .course-img-horiz {
