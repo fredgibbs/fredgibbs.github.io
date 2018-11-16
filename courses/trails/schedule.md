@@ -477,12 +477,17 @@ Peruse these beforehand:
 - IN CLASS: Research questions
 - IN CLASS: Peer Review
 
+
+
+
 ## Week 14: Research Projects
 
 ### Monday, 11/19
 - DUE: Revised Itinerary Drafts due on GitHub.
 - Image research and captioning tips
-- Technical details on how to put images in your essay
+- Finding related articles, people, places (as per our Charleston model)
+- Technical details on how to put images in your essay and hyperlinks
+- Note that your drafts due next Wednesday will be graded.
 
 ### Wednesday, 11/21: NO CLASS (pre-Thanksgiving)
 
@@ -494,17 +499,19 @@ Peruse these beforehand:
 ## Week 15
 
 ### Monday, 11/26
-- DUE: Modified drafts with appropriate images and captions integrated into narrative.
+- DUE: THIRD DRAFT with appropriate images and captions integrated into narrative, and related articles, people, places
 - IN CLASS: review of general formatting, intro paragraphs, and skimmable topic sentences
-- IN CLASS: hyperlinking
+
 
 ### Wednesday, 11/28
-- DUE: All itinerary pages should be ENTIRELY COMPLETE, including clear section headings, clear and focused paragraphs, clear narrative thread, images (with captions), hyperlinks, and properly formatted bibliography.
+- DUE: All itinerary pages should be ENTIRELY COMPLETE, including clear section headings, clear and focused paragraphs, clear narrative thread, images (with captions), hyperlinks, and related people, places, and articles.
+- NOTE: THESE WILL BE GRADED.
 - Website layout and features that need work
 - Creating our directory of sites via Google Sheets
 
 ### Friday, 11/30
 - DUE: All directory info in Google Sheet
+- DUE: Complete and accurate Zotero collections.
 - OPTIONAL DUE: If you want another round of critique on your vignettes, bring a complete draft to class, and you'll get it back by the last day of class.
 
 
