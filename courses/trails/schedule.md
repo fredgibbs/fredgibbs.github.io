@@ -490,6 +490,7 @@ Peruse these beforehand:
 - Note that your drafts due next Wednesday will be graded.
 
 ### Wednesday, 11/21: NO CLASS (pre-Thanksgiving)
+- Note [things to do over break](https://historic-trails.github.io/santa-fe-itinerary/things-to-do-over-break).
 
 ### Friday, 11/23: NO CLASS (Thanksgiving)
 
@@ -499,15 +500,16 @@ Peruse these beforehand:
 ## Week 15
 
 ### Monday, 11/26
-- DUE: THIRD DRAFT with appropriate images and captions integrated into narrative, and related articles, people, places
-- IN CLASS: review of general formatting, intro paragraphs, and skimmable topic sentences
+- DUE: THIRD DRAFT with appropriate images and captions integrated into narrative. All essays should work within our website framework. See [things to do over break](https://historic-trails.github.io/santa-fe-itinerary/things-to-do-over-break). Start noting relevant people, places, and articles and writing improvements due Wednesday.
+- IN CLASS: review of general formatting, intro paragraphs, and skimmable topic sentences. Also, hyperlinks.
 
 
 ### Wednesday, 11/28
 - DUE: All itinerary pages should be ENTIRELY COMPLETE, including clear section headings, clear and focused paragraphs, clear narrative thread, images (with captions), hyperlinks, and related people, places, and articles.
-- NOTE: THESE WILL BE GRADED.
+- NOTE: THESE DRAFTS WILL BE GRADED.
 - Website layout and features that need work
-- Creating our directory of sites via Google Sheets
+- IN CLASS: How to creating a directory of sites via Google Sheets
+- Clean Zotero Library due FRIDAY!
 
 ### Friday, 11/30
 - DUE: All directory info in Google Sheet
