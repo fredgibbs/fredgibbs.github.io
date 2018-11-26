@@ -495,7 +495,9 @@ Peruse these beforehand:
 ### Friday, 11/23: NO CLASS (Thanksgiving)
 
 
-
+## LINKS we will use all the time
+- [docs folder](https://github.com/historic-trails/santa-fe-itinerary/tree/master/docs)
+- [Itinerary List ](https://historic-trails.github.io/santa-fe-itinerary/list)
 
 ## Week 15
 
