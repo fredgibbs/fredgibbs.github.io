@@ -496,7 +496,7 @@ Peruse these beforehand:
 
 
 ## LINKS we will use all the time
-- [docs folder](https://github.com/historic-trails/santa-fe-itinerary/tree/master/docs)
+- [docs folder](https://github.com/historic-trails/santa-fe-itinerary/tree/master/docs/sites)
 - [Itinerary List ](https://historic-trails.github.io/santa-fe-itinerary/list)
 
 ## Week 15
@@ -508,7 +508,8 @@ Peruse these beforehand:
 
 ### Wednesday, 11/28
 - DUE: All itinerary pages should be ENTIRELY COMPLETE, including clear section headings, clear and focused paragraphs, clear narrative thread, images (with captions), hyperlinks, and related people, places, and articles.
-- NOTE: THESE DRAFTS WILL BE GRADED.
+- NOTE: THESE DRAFTS WILL BE GRADED
+- NEW NOTE: They will be graded according to [THIS RUBRIC](essay-grading-rubric.pdf)
 - Website layout and features that need work
 - IN CLASS: How to creating a directory of sites via Google Sheets
 - Clean Zotero Library due FRIDAY!
