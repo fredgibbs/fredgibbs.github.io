@@ -511,13 +511,14 @@ Peruse these beforehand:
 - NOTE: THESE DRAFTS WILL BE GRADED
 - NEW NOTE: They will be graded according to [THIS RUBRIC](essay-grading-rubric.pdf)
 - Website layout and features that need work
-- IN CLASS: How to creating a directory of sites via Google Sheets
-- Clean Zotero Library due FRIDAY!
+- IN CLASS: How to create a directory of sites via a [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0)
+- Clean Zotero Collections due FRIDAY!
+
 
 ### Friday, 11/30
-- DUE: All directory info in Google Sheet
+- DUE: All directory info in our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0)
 - DUE: Complete and accurate Zotero collections.
-- OPTIONAL DUE: If you want another round of critique on your vignettes, bring a complete draft to class, and you'll get it back by the last day of class.
+- OPTIONAL DUE: If you want another round of critique on your vignettes, bring a complete draft to class, and you'll get it back by the last day of class (Wednesday next week.
 
 
 
