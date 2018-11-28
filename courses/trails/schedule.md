@@ -519,8 +519,21 @@ Peruse these beforehand:
 - DUE: All directory info in our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0)
 - DUE: Complete and accurate Zotero collections.
 - DUE: Convert your references to new footnote code.
+
 - OPTIONAL DUE: If you want another round of critique on your vignettes, bring a complete draft to class, and you'll get it back by the last day of class (Wednesday next week.
 
+### HOW TO FORMAT Registration Forms
+As taken from [NPS.gov](https://www.nps.gov/subjects/nationalregister/frequently-asked-questions.htm). Choose whichever is easier for your particular form.
+
+#### EITHER
+_National Register of Historic Places, property name, town, county, state, reference number._
+
+National Register of Historic Places, Lamesa Farm Workers Community Historic District, Los Ybanez, Dawson County, Texas, National Register #93000771.
+
+#### OR
+_Straw, Elizabeth A. "Cumberland Homesteads Historic District." National Register of Historic Places Inventory/Nomination Form. Tennessee Historic Commission, Nashville, September 20, 1988._
+
+(Elizabeth A. Straw wrote the nomination; she worked for the Tennessee Historical Commission; and the date is the date the property was listed in the National Register of Historic Places.)
 
 
 ## Week 16: Loose Ends and Final Submissions
