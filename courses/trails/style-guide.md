@@ -8,7 +8,7 @@ date: 2018-11-19
 # Historic Site Style Guide
 As Lane suggested, it will be very useful for you to have a style guide to make sure we're formatting our essays consistently. This is IN ADDITION to the [general rubric](http://fredgibbs.net/courses/trails/essay-grading-rubric.pdf).
 
-Below I've tried to summarize what we've decided in class. **If I've missed anything, EDIT THIS DOCUMENT ON GITHUB.** You have the power.
+Below I've tried to summarize what we've decided in class. **If I've missed anything, please ask so I can add it.** 
 
 ## Quick Facts
 - We voted that a Quick Facts section is OPTIONAL.
