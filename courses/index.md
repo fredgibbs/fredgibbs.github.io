@@ -34,6 +34,7 @@ title: courses
 
   <div class="col-8">
     <p class="course-desc">This multidisciplinary course provides an introduction to the study, interpretation, and significance of the National Historic Trails System. It also explores the challenges of public history by engaging students as core contributors to research projects at the National Trails Intermountain Region Office that will appear on their official website. Throughout the course we’ll also discuss broad questions about cultural heritage and historic preservation: What constitutes a historic trail? How does a historic trail retain cultural significance? What are the challenges and strategies in communicating about the trails to a 21st-century audience?</p>
+    <p> Learn about [historic sites on the Santa Fe Trail](https://historic-trails.github.io/santa-fe-itinerary/) from the Fall 2018 students!</p>
   </div>
 
 </div>
