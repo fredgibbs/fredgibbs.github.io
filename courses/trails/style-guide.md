@@ -1,7 +1,7 @@
 ---
 title: Style Guide
 author: Fred Gibbs
-layout: single-col
+layout: default
 date: 2018-11-19
 ---
 
@@ -37,7 +37,7 @@ Below I've tried to summarize what we've decided in class. **If I've missed anyt
 - Make sure the references are unambiguous and as precise as possible
 - Minimize ugly URLS on the page; make sure they are hyperlinked
 
-## Unsure or confused? 
+## Unsure or confused?
 - Look at other essays to get ideas of what other people are doing
 - Decide how much you should do something similar or if you really need to do something else (and it's OK if you do)
 - Essays don't have to match perfectly, but we should keep stylistic deviations to a minimum and for specific reasons other than laziness or ignorance.
