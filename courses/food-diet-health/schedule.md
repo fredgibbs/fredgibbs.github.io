@@ -298,3 +298,13 @@ But you should get started on your Health/Diet site review
 ### Mon 12/3: Catch up
 
 ### Wed 12/5: Final Discussion (useful for your final): What can we learn from the history of diet and health?
+- All work due by December 14 at 5:00pm.
+- Email your final to me, and I'll let you know I received it.
+- You can also resubmit (via email) any previous assignments that you've substantially revised for re-evaluation. Trivial changes don't make any difference in your grade.
+
+### Final "Exam"
+- Your final assignment is to write a 1200-1500 word review essay that answers the question: "What is the use of history in understanding the relationship between food, diet, and health?" There is no "right" answer, obviously. The point is to show off the ways of thinking about diet and health that you've learned in the course.
+- As discussed in class over and over and over again:
+  - Formulate an answer to that question and clearly state it your first paragraph.
+  - Use the rest of your essay to systematically argue for your answer using the readings and discussions as support for your argument
+  - You are being evaluated on the sophistication of your answer, the clarity of your argument, and your use of course readings as support.
