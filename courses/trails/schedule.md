@@ -547,4 +547,4 @@ _Straw, Elizabeth A. "Cumberland Homesteads Historic District." National Registe
 - What can you do now?
 
 ## All work due December 12 at 5:00pm.
-- As you finalize your essays, please keep in mind the [general rubric](http://fredgibbs.net/courses/trails/essay-grading-rubric.pdf) and the new [style guide](https://fredgibbs.net/courses/trails/style-guide)
+- As you finalize your essays, please keep in mind the [general rubric](http://fredgibbs.net/courses/trails/essay-grading-rubric.pdf) and the new [style guide](http://fredgibbs.net/courses/trails/style-guide)
