@@ -405,9 +405,8 @@ Peruse these beforehand:
 
 ### Friday, 11/02
 - Solve GitHub and Markdown problems
-- More Itinerary Project Details
-- [Itinerary sandbox](https://historic-trails.github.io/santa-fe-itinerary/)
-- Historically Significant Site selections
+- More Itinerary Project Details. We will start to put all our work in our [Itinerary sandbox](https://historic-trails.github.io/santa-fe-itinerary/)
+- Historically Significant Site selections. You need to pick a site from [this list](https://github.com/historic-trails/santa-fe-itinerary/tree/master/historic-registration-forms)
 - Research Outline Reminder
 
 
