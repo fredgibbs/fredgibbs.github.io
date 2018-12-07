@@ -7,6 +7,7 @@ section: home
 ---
 
 ## Logistics
+- 3 Credit Hours
 - TH 12:30 - 1:45 @ 136 DSH
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
 - Office Hours: T 2-3; Th 10-11
