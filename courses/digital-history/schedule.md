@@ -194,14 +194,14 @@ Spatial History Project Discussion
 
 
 
-## 13: Digital Public History (I’ll be gone this week for the CNI Conference in St. Louis)
+## 13: Digital Public History 
 
 ### Tuesday (Apr 9)
 - Trevor Owens and Jesse Johnston, [Archivists as Peers in Digital Public History](https://osf.io/preprints/lissa/4hvtb/)
 - Andrew Hurley, “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” The Public Historian 38, no. 1 (2016): 69–88. [Zotero](https://files.zotero.net/6337731764/Hurley_Chasing%20the%20Frontiers%20of%20Digital%20Technology.pdf)
 
 ### Thursday (Apr 11)
-- Bruce Wyman et al., “Digital Storytelling in Museums: Observations and Best Practices,” Curator: The Museum Journal 54, no. 4 (October 1, 2011): 461–68.
+- Bruce Wyman et al., “Digital Storytelling in Museums: Observations and Best Practices,” _Curator: The Museum Journal_ 54.4 (2011): 461–68.
 
 
 
@@ -212,15 +212,18 @@ Spatial History Project Discussion
 - Yours truly, [The poetics of digital scholarship](https://files.zotero.net/5056402201/gibbs-poetics-of-digital-scholarship.pdf)
 
 ### Thursday (Apr 18)
-
+Probably no reading so you have time for your critiques
 
 #### TO-DO
 - Digital History website critique
+
+
 
 ## 15: Digital History Now
 
 ### Tuesday (Apr 23)
 - Jesse Daniels, [W.E.B. DuBois for the Twenty-First Century: On Being a Scholar-Activist in the Digital Era](https://onlinelibrary.wiley.com/doi/full/10.1111/socf.12464)
+- [Decolonizing Research](https://theconversation.com/decolonising-research-methodology-must-include-undoing-its-dirty-history-83912)
 
 ### Thursday (Apr 25)
 - Janna Anderson and Lee Raine, [The Future of Truth and Misinformation Online](http://www.pewinternet.org/2017/10/19/the-future-of-truth-and-misinformation-online/)
