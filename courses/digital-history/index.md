@@ -11,6 +11,7 @@ section: home
 - Class: T,TH 9:30 - 10:45 @ 120 Mitchell Hall
 - Office Hours: T 8-9:30; 11-12:30 @ 1077 Mesa Vista Hall
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
+- Margie Montanez \([margie@unm.edu](mailto:margie@unm.edu)\)
 
 ## Course Description
 This interdisciplinary course explores the effects of the digital age on producing and consuming history. Some guiding questions:

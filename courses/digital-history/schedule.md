@@ -18,10 +18,8 @@ Today we'll review the syllabus, course aims, assignments, and general plan for 
 
 #### Some sites for discussion
 
-#### VINTAGE
 - http://valley.lib.virginia.edu/
 - http://www.virtualjamestown.org/page2.html
-
 - http://www.slavevoyages.org/
 - http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html
 
@@ -66,10 +64,11 @@ Think about and come prepared to discuss what kinds of public digital history pr
 
 ### Tuesday (Jan 29)
 - Trevor Owens, [What Do you Mean by Archive? Genres of Usage for Digital Preservers](https://blogs.loc.gov/thesignal/2014/02/what-do-you-mean-by-archive-genres-of-usage-for-digital-preservers/)
-- Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19.
+- Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19. (Zotero)
 - Introduction to Metadata and Controlled Vocabularies
 
 ### Thursday (Jan 31)
+- Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” Cataloging & Classification Quarterly 53, no. 5–6 (July 4, 2015): 677–702. (Zotero)
 - [Race and Ethnicity in Classification Systems: Teaching Knowledge Organization from a Social Perspective](http://muse.jhu.edu/article/706988)
 
 
@@ -106,11 +105,11 @@ Think about and come prepared to discuss what kinds of public digital history pr
 
 
 
-
 ## 6: Creating New Archives
 
 ### Tuesday (Feb 19)
 - [Participatory and Post-Custodial Archives as Community Practice](https://er.educause.edu/articles/2017/10/participatory-and-post-custodial-archives-as-community-practice)
+- Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” The Public Historian 36, no. 4 (2014): 26–37. (Zotero)
 - [3D Scans Help Preserve History, But Who Should Own Them?](https://www.npr.org/sections/alltechconsidered/2018/05/21/609084578/3d-scans-help-preserve-history-but-who-should-own-them)
 
 
