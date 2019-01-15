@@ -73,8 +73,8 @@ Think about and come prepared to discuss what kinds of public digital history pr
 
 ### Tuesday (Feb 12)
 - [Algorithmic Bias in Library Discovery Systems](https://matthew.reidsrow.com/articles/173)
--[Google’s Autocompletion: Algorithms, Stereotypes, and Accountability](http://dhpoco.org/blog/2013/11/19/googles-autocompletion-algorithms-stereotypes-and-accountability/)
--[Algorithms aren’t racist. Your skin is just too dark](https://hackernoon.com/algorithms-arent-racist-your-skin-is-just-too-dark-4ed31a7304b8)
+- [Google’s Autocompletion: Algorithms, Stereotypes, and Accountability](http://dhpoco.org/blog/2013/11/19/googles-autocompletion-algorithms-stereotypes-and-accountability/)
+- [Algorithms aren’t racist. Your skin is just too dark](https://hackernoon.com/algorithms-arent-racist-your-skin-is-just-too-dark-4ed31a7304b8)
 
 
 ### Thursday (Feb 14)
@@ -177,7 +177,7 @@ Spatial History Project Discussion
 - [Can Digital Humanities Mean Transformative Critique?](https://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/xmlpage/4/article/425)
 - Maria Cotera, [Nuestra Autohistoria: Toward a Chicana Digital Praxis](https://muse.jhu.edu/article/704334/pdf)
 - [Taking Chicana/o Activist History to the Public: Chicana/o Activism in the Southern Plains through time and Space](http://muse.jhu.edu/article/708344)
-[Chicano/a Activism in the Southern Plains Interactive Map and Timeline](https://plainsmovement.com/neatline/show/interactive-map-and-timeline)
+- [Chicano/a Activism in the Southern Plains Interactive Map and Timeline](https://plainsmovement.com/neatline/show/interactive-map-and-timeline)
 - [Reclaiming the Lesbian Archives](https://academic.oup.com/ohr/article/43/1/170/1752485)
 
 
@@ -208,7 +208,7 @@ Spatial History Project Discussion
 ## 14: Critiquing Digital History
 
 ### Tuesday (Apr 16)
-- American Historical Association, [Evaluation of Digital Scholarship in History[(https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-professional-evaluation-of-digital-scholarship-by-historians)
+- American Historical Association, [Evaluation of Digital Scholarship in History](https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-professional-evaluation-of-digital-scholarship-by-historians)
 - Yours truly, [The poetics of digital scholarship](https://files.zotero.net/5056402201/gibbs-poetics-of-digital-scholarship.pdf)
 
 ### Thursday (Apr 18)
