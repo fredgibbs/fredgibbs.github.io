@@ -56,10 +56,10 @@ Think about and come prepared to discuss what kinds of public digital history pr
 ## 4: From Analog to Digital Archives
 
 ### Tuesday (Feb 5)
-- Jefferson Bailey, [Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives](http://dev.archivejournal.net/?p=4722).
+- Jefferson Bailey, [Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives](http://dev.archivejournal.net/?p=4722)
 
 ### Thursday (Feb 7)
-- Mitchell Whitelaw, [Generous Interfaces for Digital Cultural Collections](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html).
+- Mitchell Whitelaw, [Generous Interfaces for Digital Cultural Collections](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html)
 - Skim through more examples [here](https://lab.sciencemuseum.org.uk/exploring-museum-collections-online-some-background-reading-da5a332fa2f8)
 
 #### Et cetera
@@ -79,7 +79,7 @@ Think about and come prepared to discuss what kinds of public digital history pr
 
 ### Thursday (Feb 14)
 - Ted Underwood, [Why an Age of Machine Learning Needs the Humanities](https://www.publicbooks.org/why-an-age-of-machine-learning-needs-the-humanities/#fnref-25281-5)
-- [Doing Right Online: Archivists shape an ethics for the digital age])https://www.historians.org/publications-and-directories/perspectives-on-history/november-2016/doing-right-online-archivists-shape-an-ethics-for-the-digital-age)
+- [Doing Right Online: Archivists shape an ethics for the digital age](https://www.historians.org/publications-and-directories/perspectives-on-history/november-2016/doing-right-online-archivists-shape-an-ethics-for-the-digital-age)
 - [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
 
@@ -194,7 +194,7 @@ Spatial History Project Discussion
 
 
 
-## 13: Digital Public History 
+## 13: Digital Public History
 
 ### Tuesday (Apr 9)
 - Trevor Owens and Jesse Johnston, [Archivists as Peers in Digital Public History](https://osf.io/preprints/lissa/4hvtb/)
