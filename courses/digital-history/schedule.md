@@ -13,35 +13,15 @@ Today we'll review the syllabus, course aims, assignments, and general plan for 
 
 - Brief Introduction to Digital History/Historiography
 - Relevance of Digital History to Contemporary Society
-- Sampling Digital (History) Projects
-- Introduction to Zotero
 
-#### Some sites for discussion
-
-- http://valley.lib.virginia.edu/
-- http://www.virtualjamestown.org/page2.html
-- http://www.slavevoyages.org/
-- http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html
-
-- https://native-land.ca/
-- http://mappingsegregationdc.org
-- http://civilwardc.org/
-- http://depts.washington.edu/moves/index.shtml
-
-- https://www.firstdaysproject.org/
-- http://www.americanyawp.com/
-- https://bcgenesis.uvic.ca/index.htm
-
-- http://coloredconventions.org/
-- https://lynchinginamerica.eji.org/
-- https://docsouth.unc.edu/blueridgeparkway/
-- https://heritage.umich.edu/stories/a-different-diag/
-- http://dsl.richmond.edu/panorama/
-
+#### Sample Digital History Projects
+[Valley of the Shadow](http://valley.lib.virginia.edu/), [Virtual Jamestown](http://www.virtualjamestown.org), [American Social Movements](http://depts.washington.edu/moves/index.shtml), [Civil War Washington](http://civilwardc.org/), [Blue Ridge Parkway](https://docsouth.unc.edu/blueridgeparkway/), [Slave Voyages](http://www.slavevoyages.org/) + [a striking visualization](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html), [Colonial Dispatches](https://bcgenesis.uvic.ca/index.htm), [Colored Conventions](http://coloredconventions.org/), [Lynching America](https://lynchinginamerica.eji.org/), [Mapping Segregation](http://mappingsegregationdc.org), [Native Land](https://native-land.ca/), [UM Heritage Project](https://heritage.umich.edu), [First Days Project](https://www.firstdaysproject.org/), [American Yawp](http://www.americanyawp.com/), [American Panorama](http://dsl.richmond.edu/panorama/)
 
 ### Thursday (Jan 17)
 - Analog to Digital Historiography
-- Burdick, et al., _Digital_Humanities_, Chapter 1 (4-26).
+- Burdick, et al., _Digital_Humanities_, Chapter 1 (4-26). [PDF](readings/Burdick-Digital_Humanities.pdf)
+- Introduction to Zotero and [connecting to the course library](http://fredgibbs.net/courses/etc/zotero.html).
+- Make sure you can [access our group library](https://www.zotero.org/groups/1647219/digital-history-unm/items).
 
 #### TO-DO
 Think about and come prepared to discuss what kinds of public digital history projects you'd be excited to work on.
