@@ -44,12 +44,12 @@ Think about and come prepared to discuss what kinds of public digital history pr
 
 ### Tuesday (Jan 29)
 - Trevor Owens, [What Do you Mean by Archive? Genres of Usage for Digital Preservers](https://blogs.loc.gov/thesignal/2014/02/what-do-you-mean-by-archive-genres-of-usage-for-digital-preservers/)
-- Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19. (Zotero)
+- Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19.
 - Introduction to Metadata and Controlled Vocabularies
 
 ### Thursday (Jan 31)
-- Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” Cataloging & Classification Quarterly 53, no. 5–6 (July 4, 2015): 677–702. (Zotero)
-- [Race and Ethnicity in Classification Systems: Teaching Knowledge Organization from a Social Perspective](http://muse.jhu.edu/article/706988)
+- Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” Cataloging & Classification Quarterly 53, no. 5–6 (July 4, 2015): 677–702.
+- Melissa Adler and Lindsey M. Harper, “Race and Ethnicity in Classification Systems: Teaching Knowledge Organization from a Social Justice Perspective,” Library Trends 67.1 (2018): 52–73.
 
 
 
@@ -89,7 +89,7 @@ Think about and come prepared to discuss what kinds of public digital history pr
 
 ### Tuesday (Feb 19)
 - [Participatory and Post-Custodial Archives as Community Practice](https://er.educause.edu/articles/2017/10/participatory-and-post-custodial-archives-as-community-practice)
-- Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” The Public Historian 36, no. 4 (2014): 26–37. (Zotero)
+- Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” The Public Historian 36, no. 4 (2014): 26–37.
 - [3D Scans Help Preserve History, But Who Should Own Them?](https://www.npr.org/sections/alltechconsidered/2018/05/21/609084578/3d-scans-help-preserve-history-but-who-should-own-them)
 
 
@@ -175,8 +175,8 @@ Spatial History Project Discussion
 
 ### Thursday (Mar 28)
 - [Can Digital Humanities Mean Transformative Critique?](https://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/xmlpage/4/article/425)
-- Maria Cotera, [Nuestra Autohistoria: Toward a Chicana Digital Praxis](https://muse.jhu.edu/article/704334/pdf)
-- [Taking Chicana/o Activist History to the Public: Chicana/o Activism in the Southern Plains through time and Space](http://muse.jhu.edu/article/708344)
+- María Cotera, “Nuestra Autohistoria: Toward a Chicana Digital Praxis,” American Quarterly 70.3 (2018): 483–504.
+- Joel Zapata, “Taking Chicana/o Activist History to the Public: Chicana/o Activism in the Southern Plains through Time and Space,” Great Plains Quarterly 38.4 (2018): 407–24.
 - [Chicano/a Activism in the Southern Plains Interactive Map and Timeline](https://plainsmovement.com/neatline/show/interactive-map-and-timeline)
 - [Reclaiming the Lesbian Archives](https://academic.oup.com/ohr/article/43/1/170/1752485)
 
@@ -198,7 +198,7 @@ Spatial History Project Discussion
 
 ### Tuesday (Apr 9)
 - Trevor Owens and Jesse Johnston, [Archivists as Peers in Digital Public History](https://osf.io/preprints/lissa/4hvtb/)
-- Andrew Hurley, “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” The Public Historian 38, no. 1 (2016): 69–88. [Zotero](https://files.zotero.net/6337731764/Hurley_Chasing%20the%20Frontiers%20of%20Digital%20Technology.pdf)
+- Andrew Hurley, “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” The Public Historian 38, no. 1 (2016): 69–88.
 
 ### Thursday (Apr 11)
 - Bruce Wyman et al., “Digital Storytelling in Museums: Observations and Best Practices,” _Curator: The Museum Journal_ 54.4 (2011): 461–68.
@@ -209,7 +209,7 @@ Spatial History Project Discussion
 
 ### Tuesday (Apr 16)
 - American Historical Association, [Evaluation of Digital Scholarship in History](https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-professional-evaluation-of-digital-scholarship-by-historians)
-- Yours truly, [The poetics of digital scholarship](https://files.zotero.net/5056402201/gibbs-poetics-of-digital-scholarship.pdf)
+- Fred Gibbs, “The Poetics of Digital Scholarship,” in _Ontic Flows: From Digital Humanities to Posthumanities_ (New York and Dresden: Atropos Press, 2016), 101–22.
 
 ### Thursday (Apr 18)
 Probably no reading so you have time for your critiques
