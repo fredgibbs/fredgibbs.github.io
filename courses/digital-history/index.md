@@ -40,7 +40,7 @@ In addressing these questions, we'll draw from contemporary readings in history,
 - Spatial History Map (10 points)
 - Equitable contribution to collaborative Digital History Project (10 points)
 - ~1000-word critique of digital history/humanities project (10 points)
-- 8 Reading responses (2 points each)
+- 8 Reading responses (2 points each). See the [Response guidelines](response-guidelines).
 - Yes I know these add up to 106. You're welcome.
 - All revised work is due Tuesday, May 7, by 9:30am (the end of our scheduled final exam).
 

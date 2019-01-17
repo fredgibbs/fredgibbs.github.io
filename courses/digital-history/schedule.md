@@ -2,7 +2,7 @@
 layout: syllabus
 title: Digital History
 term: Spring 2019
-number: HIST 407
+number: HIST 300-002
 section: schedule
 ---
 
@@ -223,6 +223,7 @@ Probably no reading so you have time for your critiques
 
 ### Tuesday (Apr 23)
 - Jesse Daniels, [W.E.B. DuBois for the Twenty-First Century: On Being a Scholar-Activist in the Digital Era](https://onlinelibrary.wiley.com/doi/full/10.1111/socf.12464)
+- [W.E.B. Du Bois’s Little-Known, Arresting Modernist Data Visualizations of Black Life for the World’s Fair of 1900](https://www.brainpickings.org/2017/10/09/w-e-b-du-bois-diagrams/)
 - [Decolonizing Research](https://theconversation.com/decolonising-research-methodology-must-include-undoing-its-dirty-history-83912)
 
 ### Thursday (Apr 25)
