@@ -1,4 +1,4 @@
-# Reading Response Guidlines
+# Reading Response Guidelines
 In ~300 words (ideally 2-3 short paragraphs), you have two goals: 1) to show me that you've read and thought critically about the reading; 2) to help advance our discussion about the reading, its utility, and how it fits into the course.
 
 
