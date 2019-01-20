@@ -35,7 +35,8 @@ Think about and come prepared to discuss what kinds of public digital history pr
 - Beverley Southgate, _What is History For?_, 10-30.
 
 ### Thursday (Jan 24)
-- Beverley Southgate, _What is History For?_, 31-58.
+- SKIM QUICKLY: Beverley Southgate, _What is History For?_, 31-58. (I'll be summarizing this in class)
+- SKIM SLOWLY: [Knowledge Infrastructures](http://pne.people.si.umich.edu/PDF/Edwards_etal_2013_Knowledge_Infrastructures.pdf)
 - [What is an archives?](http://www.archivists.org/archivesmonth/2007WhatIsAnArchives.pdf)
 
 
