@@ -29,7 +29,7 @@ Think about and come prepared to discuss what kinds of public digital history pr
 
 
 
-## 2: The Uses of History
+## 2: The Uses of (Digital) History
 
 ### Tuesday (Jan 22)
 - Beverley Southgate, _What is History For?_, 10-30.
@@ -47,6 +47,9 @@ Think about and come prepared to discuss what kinds of public digital history pr
 - Trevor Owens, [What Do you Mean by Archive? Genres of Usage for Digital Preservers](https://blogs.loc.gov/thesignal/2014/02/what-do-you-mean-by-archive-genres-of-usage-for-digital-preservers/)
 - Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19.
 - Introduction to Metadata and Controlled Vocabularies
+
+#### Et cetera
+- Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings,” American Literature 85, no. 4 (January 1, 2013): 661–88.
 
 ### Thursday (Jan 31)
 - Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” Cataloging & Classification Quarterly 53, no. 5–6 (July 4, 2015): 677–702.
@@ -111,12 +114,21 @@ Today we're looking at a few transcription projects.
 
 
 
-## 7:Text Analysis and Visualization
+## 7: Text Analysis and Visualization
 
 ### Tuesday (Feb 26)
 - [Machine Learning + the Humanities](https://arstechnica.com/science/2019/01/machine-learning-can-offer-new-tools-fresh-insights-for-the-humanities/)
 - Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
 - Preparing data for text mining
+
+#### Et cetera
+- Stephan Sinclair and Geoffrey Rockwell, "Text Analysis and Visualization"
+- Benjamin M. Schmidt, “[Do Digital Humanists Need to Understand Algorithms?](http://dhdebates.gc.cuny.edu/debates/text/99),” in _Debates in the Digital Humanities_.
+- Shlomo Argamon et al., “Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters” 3, no. 2 (2009), [DHQ](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html).
+- Andrew Goldstone and Ted Underwood, “The Quiet Transformations of Literary Studies: What Thirteenth Thousand Scholars Could Tell Us,” in _New Literary History_, 2014, 1–30.
+- [Between Canon and Corpus: Six Perspectives on 20th-Century Novels](https://litlab.stanford.edu/LiteraryLabPamphlet8.pdf)
+- David L. Hoover, “Corpus Stylistics, Stylometry, and the Styles of Henry James,” Style 41, no. 2 (2007): 174–203.
+- David Elson, Nicholas Dames, and Kathleen McKeown, “Extracting Social Networks from Literary Fiction,” in Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics (Uppsala, Sweden: Association for Computational Linguistics, 2010), 138–147.
 
 #### TO-DO
 - [Hathi Trust Digital Archive]https://www.hathitrust.org) and the [Research Center](https://analytics.hathitrust.org)
@@ -130,9 +142,9 @@ Today we're looking at a few transcription projects.
 * CLICK THRU: Rob Nelson, [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
 
 #### Et cetera
-* Stephan Sinclair and Geoffrey Rockwell, "Text Analysis and Visualization" via [Zotero](https://www.zotero.org/groups/1647219/digital-history-unm/items/YER83YH9/file)
-* For more topic modeling details, see Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
-
+- Andrew Goldstone and Ted Underwood, “[What Can Topic Models of PMLA Teach Us about the History of Literary Scholarship?](https://tedunderwood.com/2012/12/14/what-can-topic-models-of-pmla-teach-us-about-the-history-of-literary-scholarship/)”.
+- Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
+- Benjamin M. Schmidt, “[Words Alone: Dismantling Topic Models in the Humanities](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/),” Journal of Digital Humanities (2013).
 
 #### TO-DO
 - Download a set of journal volumes from [Medical Heritage Library](http://medicalheritage.org/)
@@ -175,11 +187,14 @@ Spatial History Project Discussion
 
 
 ### Thursday (Mar 28)
-- [Can Digital Humanities Mean Transformative Critique?](https://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/xmlpage/4/article/425)
 - María Cotera, “Nuestra Autohistoria: Toward a Chicana Digital Praxis,” American Quarterly 70.3 (2018): 483–504.
-- Joel Zapata, “Taking Chicana/o Activist History to the Public: Chicana/o Activism in the Southern Plains through Time and Space,” Great Plains Quarterly 38.4 (2018): 407–24.
+- Joel Zapata, “Taking Chicana/o Activist History to the Public: Chicana/o Activism in the Southern Plains through Time and Space,” _Great Plains Quarterly_ 38.4 (2018): 407–24.
 - [Chicano/a Activism in the Southern Plains Interactive Map and Timeline](https://plainsmovement.com/neatline/show/interactive-map-and-timeline)
+
+
+#### Et cetera
 - [Reclaiming the Lesbian Archives](https://academic.oup.com/ohr/article/43/1/170/1752485)
+- - Alexis Lothian and Amanda Phillips, [Can Digital Humanities Mean Transformative Critique?](https://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/xmlpage/4/article/425)
 
 
 
@@ -198,10 +213,11 @@ Spatial History Project Discussion
 ## 13: Digital Public History
 
 ### Tuesday (Apr 9)
+- Sheila Brennan, “[Public, First](http://dhdebates.gc.cuny.edu/debates/text/83),” in Debates in the Digital Humanities, accessed December 31, 2016, .
 - Trevor Owens and Jesse Johnston, [Archivists as Peers in Digital Public History](https://osf.io/preprints/lissa/4hvtb/)
-- Andrew Hurley, “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” The Public Historian 38, no. 1 (2016): 69–88.
 
 ### Thursday (Apr 11)
+- Andrew Hurley, “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” The Public Historian 38, no. 1 (2016): 69–88.
 - Bruce Wyman et al., “Digital Storytelling in Museums: Observations and Best Practices,” _Curator: The Museum Journal_ 54.4 (2011): 461–68.
 
 
