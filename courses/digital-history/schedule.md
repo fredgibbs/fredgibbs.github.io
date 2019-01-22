@@ -35,6 +35,10 @@ Think about and come prepared to discuss what kinds of public digital history pr
 - Beverley Southgate, _What is History For?_, 10-30.
 
 ### Thursday (Jan 24)
+- Refine your ideas for our _People's History of New Mexico_ Project. Remember that it's easy to think of cool projects that end up being impossible because we can't find historical sources. So make sure what you want to focus on has at least some trace in these archives. Hunting for digital sources is part of the fun! (ok, no, it's not always fun, but it's a necessary step in the process.)
+  - [New Mexico Digital Collections](econtent.unm.edu)
+  - [Rocky Mountain Online Archive](https://rmoa.unm.edu/)
+  - For a huge range of digital content, see [this guide](https://libguides.unm.edu/az.php?t=6969=)
 - SKIM QUICKLY: Beverley Southgate, _What is History For?_, 31-58. (I'll be summarizing this in class)
 - SKIM SLOWLY: [Knowledge Infrastructures](http://pne.people.si.umich.edu/PDF/Edwards_etal_2013_Knowledge_Infrastructures.pdf)
 - [What is an archives?](http://www.archivists.org/archivesmonth/2007WhatIsAnArchives.pdf)
