@@ -56,15 +56,17 @@ Think about and come prepared to discuss what kinds of public digital history pr
 #### Et cetera
 - Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings,” American Literature 85, no. 4 (January 1, 2013): 661–88.
 
-#### TO-DO
+#### TO-DO FOR TUESDAY
 - Set up your [Wix](https://www.wix.com/) website, and post your URL on our [Class Website List](https://docs.google.com/document/d/1cQ1BTuCfa6kKhsAtvBAs8LswoQFgyt7eiMJstkwYJpY/edit?usp=sharing).
-- Complete a short project description on our [class project page](https://docs.google.com/document/d/1rIaWjmKmAwKerV_lVSzxMhRuSRvFPFNVvVadZY-KgtM/edit#), and link to at least one primary source to organize around.
 
 
 ### Thursday (Jan 31)
 Read one of the following and be prepared to discuss in class. For ideas of what to think about when reading, see the [reading response guidelines](response-guidelines) (even if you're not going to write anything).
 - Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 4, 2015): 677–702.
 - Melissa Adler and Lindsey M. Harper, “Race and Ethnicity in _Classification Systems: Teaching Knowledge Organization from a Social Justice Perspective_,” Library Trends 67.1 (2018): 52–73.
+
+#### TO-DO
+- Complete a short project description on our [class project page](https://docs.google.com/document/d/1rIaWjmKmAwKerV_lVSzxMhRuSRvFPFNVvVadZY-KgtM/edit#), and link to at least one primary source to organize around.
 
 
 
