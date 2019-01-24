@@ -35,11 +35,12 @@ Think about and come prepared to discuss what kinds of public digital history pr
 - Beverley Southgate, _What is History For?_, 10-30.
 
 ### Thursday (Jan 24)
-- Refine your ideas for our _People's History of New Mexico_ Project. Remember that it's easy to think of cool projects that end up being impossible because we can't find historical sources. So make sure what you want to focus on has at least some trace in these archives. Hunting for digital sources is part of the fun! (ok, no, it's not always fun, but it's a necessary step in the process.)
+- Refine your ideas for our _Histories of New Mexico_ Project. Remember that it's easy to think of cool projects that end up being impossible because we can't find historical sources. So make sure what you want to focus on has at least some trace in available archives. Hunting for digital (and analog) sources is part of the fun! (ok, no, it's not always fun, but it's a necessary step in the process.)
   - [New Mexico Digital Collections](econtent.unm.edu)
   - [Rocky Mountain Online Archive](https://rmoa.unm.edu/)
   - For a huge range of digital content, see [this guide](https://libguides.unm.edu/az.php?t=6969=)
-- SKIM QUICKLY: Beverley Southgate, _What is History For?_, 31-58. (I'll be summarizing this in class)
+
+- SKIM QUICKLY: Beverley Southgate, _What is History For?_, 31-58.
 - SKIM SLOWLY: [Knowledge Infrastructures](http://pne.people.si.umich.edu/PDF/Edwards_etal_2013_Knowledge_Infrastructures.pdf)
 - [What is an archives?](http://www.archivists.org/archivesmonth/2007WhatIsAnArchives.pdf)
 
@@ -50,14 +51,20 @@ Think about and come prepared to discuss what kinds of public digital history pr
 ### Tuesday (Jan 29)
 - Trevor Owens, [What Do you Mean by Archive? Genres of Usage for Digital Preservers](https://blogs.loc.gov/thesignal/2014/02/what-do-you-mean-by-archive-genres-of-usage-for-digital-preservers/)
 - Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19.
-- Introduction to Metadata and Controlled Vocabularies
+- IN CLASS: Introduction to Metadata and Controlled Vocabularies
 
 #### Et cetera
 - Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings,” American Literature 85, no. 4 (January 1, 2013): 661–88.
 
+#### TO-DO
+- Set up your [Wix](https://www.wix.com/) website, and post your URL on our [Class Website List](https://docs.google.com/document/d/1cQ1BTuCfa6kKhsAtvBAs8LswoQFgyt7eiMJstkwYJpY/edit?usp=sharing).
+- Complete a short project description on our [class project page](https://docs.google.com/document/d/1rIaWjmKmAwKerV_lVSzxMhRuSRvFPFNVvVadZY-KgtM/edit#), and link to at least one primary source to organize around.
+
+
 ### Thursday (Jan 31)
-- Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” Cataloging & Classification Quarterly 53, no. 5–6 (July 4, 2015): 677–702.
-- Melissa Adler and Lindsey M. Harper, “Race and Ethnicity in Classification Systems: Teaching Knowledge Organization from a Social Justice Perspective,” Library Trends 67.1 (2018): 52–73.
+Read one of the following and be prepared to discuss in class. For ideas of what to think about when reading, see the [reading response guidelines](response-guidelines) (even if you're not going to write anything).
+- Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 4, 2015): 677–702.
+- Melissa Adler and Lindsey M. Harper, “Race and Ethnicity in _Classification Systems: Teaching Knowledge Organization from a Social Justice Perspective_,” Library Trends 67.1 (2018): 52–73.
 
 
 
