@@ -51,7 +51,6 @@ Think about and come prepared to discuss what kinds of public digital history pr
 ### Tuesday (Jan 29)
 - Trevor Owens, [What Do you Mean by Archive? Genres of Usage for Digital Preservers](https://blogs.loc.gov/thesignal/2014/02/what-do-you-mean-by-archive-genres-of-usage-for-digital-preservers/)
 - Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19.
-- IN CLASS: Introduction to Metadata and Controlled Vocabularies
 
 #### Et cetera
 - Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings,” American Literature 85, no. 4 (January 1, 2013): 661–88.
@@ -64,9 +63,10 @@ Think about and come prepared to discuss what kinds of public digital history pr
 Read one of the following and be prepared to discuss in class. For ideas of what to think about when reading, see the [reading response guidelines](response-guidelines) (even if you're not going to write anything).
 - Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 4, 2015): 677–702.
 - Melissa Adler and Lindsey M. Harper, “Race and Ethnicity in _Classification Systems: Teaching Knowledge Organization from a Social Justice Perspective_,” Library Trends 67.1 (2018): 52–73.
+- IN CLASS: Introduction to Metadata and Controlled Vocabularies
 
 #### TO-DO
-- Complete a short project description on our [class project page](https://docs.google.com/document/d/1rIaWjmKmAwKerV_lVSzxMhRuSRvFPFNVvVadZY-KgtM/edit#), and link to at least one primary source to organize around.
+- Complete a short project description on our [class project page](https://docs.google.com/document/d/1rIaWjmKmAwKerV_lVSzxMhRuSRvFPFNVvVadZY-KgtM/edit#), and link to at least three primary sources to organize around. If you can't find three, you might have trouble completing the project.
 
 
 
