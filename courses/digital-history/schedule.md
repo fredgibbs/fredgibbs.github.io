@@ -62,11 +62,11 @@ Think about and come prepared to discuss what kinds of public digital history pr
 ### Thursday (Jan 31)
 Read one of the following and be prepared to discuss in class. For ideas of what to think about when reading, see the [reading response guidelines](response-guidelines) (even if you're not going to write anything).
 - Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 4, 2015): 677–702.
-- Melissa Adler and Lindsey M. Harper, “Race and Ethnicity in _Classification Systems: Teaching Knowledge Organization from a Social Justice Perspective_,” Library Trends 67.1 (2018): 52–73.
+- Melissa Adler and Lindsey M. Harper, “_Race and Ethnicity in Classification Systems: Teaching Knowledge Organization from a Social Justice Perspective_,” Library Trends 67.1 (2018): 52–73.
 - IN CLASS: Introduction to Metadata and Controlled Vocabularies
 
 #### TO-DO
-- Complete a short project description on our [class project page](https://docs.google.com/document/d/1rIaWjmKmAwKerV_lVSzxMhRuSRvFPFNVvVadZY-KgtM/edit#), and link to at least three primary sources to organize around. If you can't find three, you might have trouble completing the project.
+- Complete a short project description on our [class project page](https://docs.google.com/document/d/1rIaWjmKmAwKerV_lVSzxMhRuSRvFPFNVvVadZY-KgtM/edit#), and link to at least three primary source to organize around. If you can't find at least three relatively easily, you might have trouble completing the project. So this is a good litmus test as to the viability of your idea.
 
 
 
@@ -78,6 +78,16 @@ Read one of the following and be prepared to discuss in class. For ideas of what
 ### Thursday (Feb 7)
 - Mitchell Whitelaw, [Generous Interfaces for Digital Cultural Collections](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html)
 - Skim through more examples [here](https://lab.sciencemuseum.org.uk/exploring-museum-collections-online-some-background-reading-da5a332fa2f8)
+
+
+#### EXTRA CREDIT OPTION
+As discussed in class on Jan 31, this is our first extra credit possibility to give you a few extra points in the class. The assignment:
+- Search for a history book at https://unm.worldcat.org/ or https://library.unm.edu/, that is also held physically in one of our libraries at UNM, and note what you see in the first few pages of search results for that book.
+- Note the library call number for the book, and go find it in the stacks.
+- Browse around the book and note what kind of books are physically around it---look at a few shelves above and below, too, not just the few books on either side of your target book.
+- Write up a standard reading response blog post (~350 words) about how these two different browsing experiences compare.
+- Obviously there's no right or wrong answer. But strive for clarity in your description of what you searched for, what you found in both cases, and how you might explain the differences.
+- Responses will be scored as all others, namely on a 0-2 point scale.
 
 #### Et cetera
 - Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” 21–43.

@@ -22,7 +22,7 @@ This interdisciplinary course explores the effects of the digital age on produci
 - How does the Web (and resources like Wikipedia) change perceptions of history?
 - How can historians engage with these methods to improve information literacy?
 
-In addressing these questions, we'll draw from contemporary readings in history, public history, historiography, digital humanities, literary studies, media studies, and library and museum studies. Along with our readings, we will investigate a variety of digital history, archival, and journalistic projects that feature various digital methods (such as text analysis, mapping, data visualization, and so on). We’ll critique the various facets of these projects (data, design, interface, utility, etc.) to understand the technologies and data involved. Based on this work, we’ll collaboratively design and publish a website that showcases our rigorous reviews of these digital projects.
+In addressing these questions, we'll draw from contemporary readings in history, public history, historiography, digital humanities, literary studies, media studies, and library and museum studies. Along with our readings, we will investigate a variety of digital history, archival, and journalistic projects that feature various digital methods (such as text analysis, mapping, data visualization, and so on). We’ll critique the various facets of these projects (data, design, interface, utility, etc.) to understand the technologies and data involved.
 
 
 ## Student Learning Outcomes
@@ -31,6 +31,7 @@ In addressing these questions, we'll draw from contemporary readings in history,
 - Begin to experiment with new tools, workflows, methods, and techniques for large-scale research questions in history
 - Identify cultural and algorithmic biases in searching for historical information
 - Critique how digital publishing challenges historical authority and expertise
+
 
 ## Work Requirements and Grading
 - Thorough preparedness and engaged participation in most every class meeting. This is a class that's focused on discussing and making things, not just memorizing and regurgitating a historical narrative. (30 points; note this is roughly 2 points per day)
@@ -61,7 +62,7 @@ Points | Grade
 59- | F
 
 ### Absences Policy
-Up to three unexcused absences are allowed without any grade penalty. However, after that, you lose two points for every absence---so that roughly every two missed classes lowers your grade one notch (B+ to B, for instance). If you reach ten absences, I will drop you from the course. Family or medical emergencies are excused absences, provided that you get in touch with me ASAP about them.
+Up to three unexcused absences are allowed without any grade penalty. However, after that, you lose roughly two points for every absence---so that basically every two missed classes lowers your grade one notch (B+ to B, for instance). If you reach ten absences, I will drop you from the course. Family or medical emergencies are excused absences, provided that you get in touch with me ASAP about them.
 
 ### Please Ask for Help
 I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how it can be improved (if at all). If life gets overwhelming during the course, it can be tempting to drift away from an elective course like this. Rather than disappear, please come talk with me about how we can accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
