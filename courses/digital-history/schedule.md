@@ -75,13 +75,22 @@ Read one of the following and be prepared to discuss in class. For ideas of what
 ### Tuesday (Feb 5)
 - Jefferson Bailey, [Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives](http://dev.archivejournal.net/?p=4722)
 
+
+#### TO-DO
+Create an RSS Feed for your blog and put the link on our [RSS Feed page](https://docs.google.com/document/d/1d2T-Pv0QIaEHAw7HWX8Chl8wKjG-qUc9bvbTGrs5Xqc/edit?usp=sharing).
+
 ### Thursday (Feb 7)
 - Mitchell Whitelaw, [Generous Interfaces for Digital Cultural Collections](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html)
 - Skim through more examples [here](https://lab.sciencemuseum.org.uk/exploring-museum-collections-online-some-background-reading-da5a332fa2f8)
 
+#### TO-DO
+- Come to class ready to discuss your experience with some of the interfaces mentioned, or others that you've used for something that you've found interesting.
+- Continue to look for sources for your research essay. We'll be talking more about that on in class and we will be more productive and efficient if you've more some poking around ahead of time.
+
+
 
 #### EXTRA CREDIT OPTION
-As discussed in class on Jan 31, this is our first extra credit possibility to give you a few extra points in the class. The assignment:
+As discussed in class on Jan 31, this is our first extra credit possibility to give you a few extra points in the class. **This can be done at any point, not just for today** The assignment:
 - Search for a history book at https://unm.worldcat.org/ or https://library.unm.edu/, that is also held physically in one of our libraries at UNM, and note what you see in the first few pages of search results for that book.
 - Note the library call number for the book, and go find it in the stacks.
 - Browse around the book and note what kind of books are physically around it---look at a few shelves above and below, too, not just the few books on either side of your target book.
