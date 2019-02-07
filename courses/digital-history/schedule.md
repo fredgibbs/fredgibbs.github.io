@@ -109,14 +109,14 @@ As discussed in class on Jan 31, this is our first extra credit possibility to g
 
 ### Tuesday (Feb 12)
 - Ted Underwood, [Why an Age of Machine Learning Needs the Humanities](https://www.publicbooks.org/why-an-age-of-machine-learning-needs-the-humanities/#fnref-25281-5)
-- [Google’s Autocompletion: Algorithms, Stereotypes, and Accountability](http://dhpoco.org/blog/2013/11/19/googles-autocompletion-algorithms-stereotypes-and-accountability/)
-- [Algorithms aren’t racist. Your skin is just too dark](https://hackernoon.com/algorithms-arent-racist-your-skin-is-just-too-dark-4ed31a7304b8)
+- ajobin, [Google’s Autocompletion: Algorithms, Stereotypes, and Accountability](http://dhpoco.org/blog/2013/11/19/googles-autocompletion-algorithms-stereotypes-and-accountability/)
+- Joy Buolamwini, [Algorithms aren’t racist. Your skin is just too dark](https://hackernoon.com/algorithms-arent-racist-your-skin-is-just-too-dark-4ed31a7304b8)
 
 
 ### Thursday (Feb 14)
-- [Algorithmic Bias in Library Discovery Systems](https://matthew.reidsrow.com/articles/173)
-- [Doing Right Online: Archivists shape an ethics for the digital age](https://www.historians.org/publications-and-directories/perspectives-on-history/november-2016/doing-right-online-archivists-shape-an-ethics-for-the-digital-age)
-- [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+- Matthew Reidsma, [Algorithmic Bias in Library Discovery Systems](https://matthew.reidsrow.com/articles/173)
+- Kritika Agarwal, [Doing Right Online: Archivists shape an ethics for the digital age](https://www.historians.org/publications-and-directories/perspectives-on-history/november-2016/doing-right-online-archivists-shape-an-ethics-for-the-digital-age)
+- Angwin, Larson, Mattu, and Kircher, [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
 
 
