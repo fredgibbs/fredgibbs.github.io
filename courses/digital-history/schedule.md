@@ -118,7 +118,7 @@ As discussed in class on Jan 31, this is our first extra credit possibility to g
 ### Thursday (Feb 14)
 - ajobin, [Google’s Autocompletion: Algorithms, Stereotypes, and Accountability](http://dhpoco.org/blog/2013/11/19/googles-autocompletion-algorithms-stereotypes-and-accountability/)
 - Joy Buolamwini, [Algorithms aren’t racist. Your skin is just too dark](https://hackernoon.com/algorithms-arent-racist-your-skin-is-just-too-dark-4ed31a7304b8)
-- Angwin, Larson, Mattu, and Kircher, [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+- SKIM: Angwin, Larson, Mattu, and Kircher, [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). Look especially at the images, captions, and statistics provided.
 
 
 
