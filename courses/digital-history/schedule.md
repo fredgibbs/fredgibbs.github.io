@@ -126,25 +126,25 @@ As discussed in class on Jan 31, this is our first extra credit possibility to g
 ## 6: Creating New Archives
 
 ### Tuesday (Feb 19)
-- [Participatory and Post-Custodial Archives as Community Practice](https://er.educause.edu/articles/2017/10/participatory-and-post-custodial-archives-as-community-practice)
 - Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” The Public Historian 36, no. 4 (2014): 26–37.
 - [3D Scans Help Preserve History, But Who Should Own Them?](https://www.npr.org/sections/alltechconsidered/2018/05/21/609084578/3d-scans-help-preserve-history-but-who-should-own-them)
 
 
 ### Thursday (Feb 21)
-Today we're looking at a few transcription projects.
+- [Participatory and Post-Custodial Archives as Community Practice](https://er.educause.edu/articles/2017/10/participatory-and-post-custodial-archives-as-community-practice)
+
+We're also looking at a few transcription projects:
 - [Transcribing Multilingual Documents in the Digital Age](https://recoveryprojectappblog.wordpress.com/2017/12/15/transcribing-multilingual-documents-in-the-digital-age/)
-- [Library of Congress transcription project](https://crowd.loc.gov/)
 - [Colored Conventions](http://coloredconventions.org/transcribe-minutes)
 - [Transcribe Bentham](http://blogs.ucl.ac.uk/transcribe-bentham/)
 - [Transkribus](https://transkribus.eu/Transkribus/)
+- [Library of Congress transcription project](https://crowd.loc.gov/)
 
 
-#### TO-DO
+#### TO-DO FOR NEXT TUESDAY
 - Go to the [Library of Congress transcription project](https://crowd.loc.gov/)
 - Transcribe some stuff
 - Blog entry on your experience
-
 
 
 
