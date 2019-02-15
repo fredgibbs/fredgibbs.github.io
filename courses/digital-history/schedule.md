@@ -162,9 +162,9 @@ In class we'll survey a few transcription projects and go over instructions for 
 ## 7: Text Analysis and Visualization
 
 ### Tuesday (Feb 26)
-- [Machine Learning + the Humanities](https://arstechnica.com/science/2019/01/machine-learning-can-offer-new-tools-fresh-insights-for-the-humanities/)
+- Jennifer Ouellette, [Machine Learning + the Humanities](https://arstechnica.com/science/2019/01/machine-learning-can-offer-new-tools-fresh-insights-for-the-humanities/)
 - Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
-- Overview of [Hathi Trust Digital Archive](https://www.hathitrust.org) and the [Research Center](https://analytics.hathitrust.org)
+- IN CLASS: Overview of [Hathi Trust Digital Archive](https://www.hathitrust.org), the [Research Center](https://analytics.hathitrust.org), and the data behind text mining.
 
 
 #### Et cetera
