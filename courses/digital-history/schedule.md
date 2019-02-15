@@ -151,9 +151,11 @@ In class we'll survey a few transcription projects and go over instructions for 
 
 #### TO-DO FOR NEXT TUESDAY
 - Review some [transcription tips](https://www.archives.gov/citizen-archivist/transcribe/tips)
-- Go to the [Library of Congress transcription project](https://crowd.loc.gov/)
+- Pick one of the transcription projects above
 - Transcribe at least one document
+- Create screen shots of your work (including an image of what you're transcribing)
 - Blog entry on your experience
+- Remember that you're writing for other students in the class. We all know the general assignment, but you can't assume anyone is familiar with your site or text or experience.
 
 
 
