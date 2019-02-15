@@ -126,24 +126,33 @@ As discussed in class on Jan 31, this is our first extra credit possibility to g
 ## 6: Creating New Archives
 
 ### Tuesday (Feb 19)
-- Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” The Public Historian 36, no. 4 (2014): 26–37.
-- [3D Scans Help Preserve History, But Who Should Own Them?](https://www.npr.org/sections/alltechconsidered/2018/05/21/609084578/3d-scans-help-preserve-history-but-who-should-own-them)
+- Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” _The Public Historian_ 36, no. 4 (2014): 26–37.
+- Laura Sydell, [3D Scans Help Preserve History, But Who Should Own Them?](https://www.npr.org/sections/alltechconsidered/2018/05/21/609084578/3d-scans-help-preserve-history-but-who-should-own-them)
 
 
 ### Thursday (Feb 21)
-- [Participatory and Post-Custodial Archives as Community Practice](https://er.educause.edu/articles/2017/10/participatory-and-post-custodial-archives-as-community-practice)
+- Hannah Alpert-Abrams, [Transcribing Multilingual Documents in the Digital Age](https://recoveryprojectappblog.wordpress.com/2017/12/15/transcribing-multilingual-documents-in-the-digital-age/)
+- SKIM: Sofía Becerra-Licha, [Participatory and Post-Custodial Archives as Community Practice](https://er.educause.edu/articles/2017/10/participatory-and-post-custodial-archives-as-community-practice)
 
-We're also looking at a few transcription projects:
-- [Transcribing Multilingual Documents in the Digital Age](https://recoveryprojectappblog.wordpress.com/2017/12/15/transcribing-multilingual-documents-in-the-digital-age/)
+
+In class we'll survey a few transcription projects and go over instructions for your transcription assignment
 - [Colored Conventions](http://coloredconventions.org/transcribe-minutes)
 - [Transcribe Bentham](http://blogs.ucl.ac.uk/transcribe-bentham/)
-- [Transkribus](https://transkribus.eu/Transkribus/)
+- [Information Wanted](http://informationwanted.org/): Contribute to the construction of a searchable digital database of advertisements printed by former enslaved people searching for their loved ones.
+- [What’s on the Menu?](http://menus.nypl.org/): Contribute to food history research with over 17,000 menus from the past 170 years. Currently they need help reviewing submitted transcriptions.
+- [Making History](http://www.virginiamemory.com/transcribe/): A wealth of papers, records, images, and speeches from more than 300 years of Virginian history.
+- [The Civil War in Letters](https://publications.newberry.org/digital/mms-transcribe/index): This collection contains letters from Civil War soldiers that give a human view of the conflict.
 - [Library of Congress transcription project](https://crowd.loc.gov/)
+- [Citizen Archivist](https://www.archives.gov/citizen-archivist): A set of transcription projects organized by the National Archives
+- [Smithsonian Digital Volunteers](https://transcription.si.edu/): LOTS of great projects to contribute to, based on archives of the Smithsonian Institution. You can browse all projects by name or by theme.
+
+- One tool to note: [Transkribus](https://transkribus.eu/Transkribus/)
 
 
 #### TO-DO FOR NEXT TUESDAY
+- Review some [transcription tips](https://www.archives.gov/citizen-archivist/transcribe/tips)
 - Go to the [Library of Congress transcription project](https://crowd.loc.gov/)
-- Transcribe some stuff
+- Transcribe at least one document
 - Blog entry on your experience
 
 
@@ -153,7 +162,8 @@ We're also looking at a few transcription projects:
 ### Tuesday (Feb 26)
 - [Machine Learning + the Humanities](https://arstechnica.com/science/2019/01/machine-learning-can-offer-new-tools-fresh-insights-for-the-humanities/)
 - Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
-- Preparing data for text mining
+- Overview of [Hathi Trust Digital Archive](https://www.hathitrust.org) and the [Research Center](https://analytics.hathitrust.org)
+
 
 #### Et cetera
 - Stephan Sinclair and Geoffrey Rockwell, "Text Analysis and Visualization"
@@ -164,10 +174,6 @@ We're also looking at a few transcription projects:
 - David L. Hoover, “Corpus Stylistics, Stylometry, and the Styles of Henry James,” Style 41, no. 2 (2007): 174–203.
 - David Elson, Nicholas Dames, and Kathleen McKeown, “Extracting Social Networks from Literary Fiction,” in Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics (Uppsala, Sweden: Association for Computational Linguistics, 2010), 138–147.
 
-#### TO-DO
-- [Hathi Trust Digital Archive]https://www.hathitrust.org) and the [Research Center](https://analytics.hathitrust.org)
-- Load a corpus into [Voyant](http://voyant-tools.org/)
-- Blog entry on your findings
 
 
 ### Thursday (Feb 28)
@@ -178,11 +184,11 @@ We're also looking at a few transcription projects:
 #### Et cetera
 - Andrew Goldstone and Ted Underwood, “[What Can Topic Models of PMLA Teach Us about the History of Literary Scholarship?](https://tedunderwood.com/2012/12/14/what-can-topic-models-of-pmla-teach-us-about-the-history-of-literary-scholarship/)”.
 - Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
-- Benjamin M. Schmidt, “[Words Alone: Dismantling Topic Models in the Humanities](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/),” Journal of Digital Humanities (2013).
+- Benjamin M. Schmidt, “[Words Alone: Dismantling Topic Models in the Humanities](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/),” _Journal of Digital Humanities_ (2013).
 
-#### TO-DO
+#### TO-DO FOR TUESDAY
 - Download a set of journal volumes from [Medical Heritage Library](http://medicalheritage.org/)
-- Load corpus  into [Overview](https://www.overviewdocs.com)
+- Load a corpus into [Overview](https://www.overviewdocs.com)
 - Blog entry on your findings
 
 
@@ -194,8 +200,10 @@ We're also looking at a few transcription projects:
 
 ### Thursday (Mar 7)
 -  Introduction to Historical GIS
-- Survey of [Spatial History  Projects](http://geohumanities.org/gis).
+- Survey of [Spatial History Projects](http://geohumanities.org/gis).
 - Discussion of Spatial History Projects
+
+
 
 ## 9: SPRING BREAK
 
