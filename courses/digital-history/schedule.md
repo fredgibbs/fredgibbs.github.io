@@ -126,7 +126,8 @@ As discussed in class on Jan 31, this is our first extra credit possibility to g
 ## 6: Creating New Archives
 
 ### Tuesday (Feb 19)
-- Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” _The Public Historian_ 36, no. 4 (2014): 26–37.
+- Jimmy Zavala et al., “‘A Process Where We’re All at the Table’: Community Archives Challenging Dominant Modes of Archival Practice.,” Archives and Manuscripts 45, no. 3 (2017): 202–15.
+- SKIM: Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” _The Public Historian_ 36, no. 4 (2014): 26–37.
 - Laura Sydell, [3D Scans Help Preserve History, But Who Should Own Them?](https://www.npr.org/sections/alltechconsidered/2018/05/21/609084578/3d-scans-help-preserve-history-but-who-should-own-them)
 
 
