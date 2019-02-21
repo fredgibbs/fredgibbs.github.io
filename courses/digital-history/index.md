@@ -4,6 +4,7 @@ title: Digital History
 term: Spring 2019
 number: HIST 300-002
 section: home
+header: digital-history
 ---
 
 
