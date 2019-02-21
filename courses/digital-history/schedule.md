@@ -147,16 +147,18 @@ In class we'll survey a few transcription projects and go over instructions for 
 - [Citizen Archivist](https://www.archives.gov/citizen-archivist): A set of transcription projects organized by the National Archives
 - [Smithsonian Digital Volunteers](https://transcription.si.edu/): LOTS of great projects to contribute to, based on archives of the Smithsonian Institution. You can browse all projects by name or by theme.
 
-- One tool to note: [Transkribus](https://transkribus.eu/Transkribus/)
+- One tool to note (that we won't be using): [Transkribus](https://transkribus.eu/Transkribus/)
 
 
-#### TO-DO FOR NEXT TUESDAY
-- Review some [transcription tips](https://www.archives.gov/citizen-archivist/transcribe/tips)
-- Pick one of the transcription projects above
-- Transcribe at least one document
-- Create screen shots of your work (including an image of what you're transcribing)
-- Blog entry on your experience
-- Remember that you're writing for other students in the class. We all know the general assignment, but you can't assume anyone is familiar with your site or text or experience.
+#### TO-DO FOR NEXT THURSDAY
+- Get started with this over the weekend and bring questions to class on Tuesday.
+- Review the [assignment guidelines](transcription-guidelines). (summarized below, but important details are on the guidelines page)
+- Review some [transcription tips](https://www.archives.gov/citizen-archivist/transcribe/tips).
+- Pick one of the transcription projects above.
+- Transcribe at least THREE pages (can be sequential pages of the same document).
+- Create screen shots of your work, including images of what you're transcribing and aspects of the interface that you comment on.
+- Create a NEW PAGE in your portfolio for your ~800-word essay--this is not a blog post like reading responses--that describes and critiques your experience.
+- Imagine that you're writing for other students in the class (so you don't need to introduce what a transcription project is, for example). We all know the general assignment, but you can't assume anyone is familiar with your site, interface, text, or experience.
 
 
 
@@ -175,7 +177,7 @@ In class we'll survey a few transcription projects and go over instructions for 
 - Andrew Goldstone and Ted Underwood, “The Quiet Transformations of Literary Studies: What Thirteenth Thousand Scholars Could Tell Us,” in _New Literary History_, 2014, 1–30.
 - [Between Canon and Corpus: Six Perspectives on 20th-Century Novels](https://litlab.stanford.edu/LiteraryLabPamphlet8.pdf)
 - David L. Hoover, “Corpus Stylistics, Stylometry, and the Styles of Henry James,” Style 41, no. 2 (2007): 174–203.
-- David Elson, Nicholas Dames, and Kathleen McKeown, “Extracting Social Networks from Literary Fiction,” in Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics (Uppsala, Sweden: Association for Computational Linguistics, 2010), 138–147.
+- David Elson, Nicholas Dames, and Kathleen McKeown, “Extracting Social Networks from Literary Fiction,” in _Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics_ (Uppsala, Sweden: Association for Computational Linguistics, 2010), 138–147.
 
 
 
@@ -184,13 +186,20 @@ In class we'll survey a few transcription projects and go over instructions for 
 * Ted Underwood, [Topic Modeling Made Just Simple Enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/).
 * CLICK THRU: Rob Nelson, [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
 
+
+#### DUE: Transcription essays (see Feb 21 and [the guidelines](transcription-guidelines))
+
+
+
 #### Et cetera
 - Andrew Goldstone and Ted Underwood, “[What Can Topic Models of PMLA Teach Us about the History of Literary Scholarship?](https://tedunderwood.com/2012/12/14/what-can-topic-models-of-pmla-teach-us-about-the-history-of-literary-scholarship/)”.
 - Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
 - Benjamin M. Schmidt, “[Words Alone: Dismantling Topic Models in the Humanities](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/),” _Journal of Digital Humanities_ (2013).
 
+
+
 #### TO-DO FOR TUESDAY
-- Download a set of journal volumes from [Medical Heritage Library](http://medicalheritage.org/)
+- Download a set of journal volumes in the [Medical Heritage Library Collection](http://medicalheritage.org/) from [archive.org](https://archive.org/details/medicalheritagelibrary)
 - Load a corpus into [Overview](https://www.overviewdocs.com)
 - Blog entry on your findings
 
