@@ -188,7 +188,8 @@ In class we'll survey a few transcription projects and go over instructions for 
 * CLICK THRU: Rob Nelson, [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
 
 
-#### DUE: Transcription essays (see Feb 21 and [the guidelines](transcription-guidelines))
+#### DUE: Transcription essays
+* See Feb 21 and [the guidelines](transcription-guidelines))
 
 
 
