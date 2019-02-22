@@ -4,12 +4,9 @@ term: Summer 2019
 number: HIST 413
 layout: syllabus
 header: american-food
-slug: american-food
 ---
 
-{% assign slug={{page.slug}} %}
-
-
+{% assign slug={{page.header}} %}
 
 {% for page in site.pages %}
   {% if page.header == slug and page.section == "home" %}
