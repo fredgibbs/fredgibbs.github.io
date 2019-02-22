@@ -4,6 +4,7 @@ title: History of American Food Cultures
 term: Summer 2019
 number: HIST 413
 section: home
+header: american-food
 ---
 
 ## Logistics
