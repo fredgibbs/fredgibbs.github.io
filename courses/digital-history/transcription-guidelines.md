@@ -1,8 +1,9 @@
 # Transcription Guidelines
 In ~800 words, you have three goals:
-- to show me that you've done the transcription assignment (to transcribe THREE PAGES) of the same document or of different ones
-- to document your experience to an informed but general audience (like us!)
-- to critique your transcription project, the interface and the user experience.
+- To show me that you've done the transcription assignment (to transcribe MOST of THREE PAGES) of the same document or of different ones.
+- If you've spent a lot of time on a page, but can't get every single word, move on! There's only so much we can contribute on our first time.
+- To document your experience to an informed but general audience (like us!).
+- To critique your transcription project, the interface and the user experience.
 
 ## Basic Requirements
 - ~800 words (but there is no maximum, so take the space you need to describe and analyze your experience)

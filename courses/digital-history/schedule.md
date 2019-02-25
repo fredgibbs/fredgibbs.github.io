@@ -174,9 +174,11 @@ In class we'll survey a few transcription projects and go over instructions for 
 #### Et cetera
 - Stephan Sinclair and Geoffrey Rockwell, "Text Analysis and Visualization"
 - Benjamin M. Schmidt, “[Do Digital Humanists Need to Understand Algorithms?](http://dhdebates.gc.cuny.edu/debates/text/99),” in _Debates in the Digital Humanities_.
-- Shlomo Argamon et al., “Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters” 3, no. 2 (2009), [DHQ](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html).
+- Sara Klingenstein, Tim Hitchcock, and Simon DeDeo, “The Civilizing Process in London’s Old Bailey,” _Proceedings of the National Academy of Sciences_ 111, no. 26 (July 1, 2014): 9419–24.
 - Andrew Goldstone and Ted Underwood, “The Quiet Transformations of Literary Studies: What Thirteenth Thousand Scholars Could Tell Us,” in _New Literary History_, 2014, 1–30.
 - [Between Canon and Corpus: Six Perspectives on 20th-Century Novels](https://litlab.stanford.edu/LiteraryLabPamphlet8.pdf)
+- Andrew Piper, “Novel Devotions: Conversional Reading, Computational Modeling, and the Modern Novel,” _New Literary History_ 46, no. 1 (May 20, 2015): 63–98.
+- Shlomo Argamon et al., “Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters” 3, no. 2 (2009), [DHQ](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html).
 - David L. Hoover, “Corpus Stylistics, Stylometry, and the Styles of Henry James,” Style 41, no. 2 (2007): 174–203.
 - David Elson, Nicholas Dames, and Kathleen McKeown, “Extracting Social Networks from Literary Fiction,” in _Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics_ (Uppsala, Sweden: Association for Computational Linguistics, 2010), 138–147.
 
@@ -189,7 +191,7 @@ In class we'll survey a few transcription projects and go over instructions for 
 
 
 #### DUE: Transcription essays
-* See Feb 21 and [the guidelines](transcription-guidelines))
+* See Feb 21 and the [transcription guidelines](transcription-guidelines)
 
 
 
@@ -200,7 +202,9 @@ In class we'll survey a few transcription projects and go over instructions for 
 
 
 
-#### TO-DO FOR TUESDAY
+#### TO-DO FOR THURSDAY
+- Pick an old medical journal from [this list](http://www.medicalheritage.org/wp-content/uploads/2015/03/Serial-Titles-User-List_v8.csv). Don't be intimidated by all the text and commas. Part of the lesson here is to learn to use a CSV file.
+-
 - Download a set of journal volumes in the [Medical Heritage Library Collection](http://medicalheritage.org/) from [archive.org](https://archive.org/details/medicalheritagelibrary)
 - Load a corpus into [Overview](https://www.overviewdocs.com)
 - Blog entry on your findings
@@ -292,9 +296,10 @@ Probably no reading so you have time for your critiques
 
 
 
-## 15: Digital History Now
+## 15: Digital History Activism
 
 ### Tuesday (Apr 23)
+- Carol M. Taylor, “W.E.B. DuBois’s Challenge to Scientific Racism,” _Journal of Black Studies_ 11, no. 4 (1981): 449–60.
 - Jesse Daniels, [W.E.B. DuBois for the Twenty-First Century: On Being a Scholar-Activist in the Digital Era](https://onlinelibrary.wiley.com/doi/full/10.1111/socf.12464)
 - [W.E.B. Du Bois’s Little-Known, Arresting Modernist Data Visualizations of Black Life for the World’s Fair of 1900](https://www.brainpickings.org/2017/10/09/w-e-b-du-bois-diagrams/)
 - [Decolonizing Research](https://theconversation.com/decolonising-research-methodology-must-include-undoing-its-dirty-history-83912)

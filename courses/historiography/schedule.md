@@ -1,8 +1,11 @@
 ---
 layout: syllabus
-title: "Historiography"
+title: Historiography
 number: HIST 491-001
 term: Spring 2018
+header: historiography
+section: schedule
+
 ---
 
 # IN PROGRESS!
