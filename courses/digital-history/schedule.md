@@ -204,10 +204,10 @@ In class we'll survey a few transcription projects and go over instructions for 
 
 #### TO-DO FOR THURSDAY
 - Pick an old medical journal from [this list](http://www.medicalheritage.org/wp-content/uploads/2015/03/Serial-Titles-User-List_v8.csv). Don't be intimidated by all the text and commas. Part of the lesson here is to learn to use a CSV file.
--
-- Download a set of journal volumes in the [Medical Heritage Library Collection](http://medicalheritage.org/) from [archive.org](https://archive.org/details/medicalheritagelibrary)
-- Load a corpus into [Overview](https://www.overviewdocs.com)
-- Blog entry on your findings
+- Go to [archive.org](https://archive.org/details/medicalheritagelibrary), search for the title of your journal.
+- Download 5-10 journals---get the TEXT FILE, not the PDF--and put them all into a single folder on your desktop.
+- Create a free account at [Overview](https://www.overviewdocs.com), and upload your directory of files (it's pretty obvious how to do this).
+- Write up your explorations on a separate text mining page on your digital portfolio.
 
 
 ## 8: Spatial History and Historical GIS
@@ -217,10 +217,9 @@ In class we'll survey a few transcription projects and go over instructions for 
 - David J. Bodenhamer, “The Potential of Spatial Humanities”, 14-30.
 
 ### Thursday (Mar 7)
--  Introduction to Historical GIS
+- Introduction to Historical GIS
 - Survey of [Spatial History Projects](http://geohumanities.org/gis).
-- Discussion of Spatial History Projects
-
+- Preliminary discussion of Spatial History Projects
 
 
 ## 9: SPRING BREAK
