@@ -168,14 +168,26 @@ In class we'll survey a few transcription projects and go over instructions for 
 ### Tuesday (Feb 26)
 - Jennifer Ouellette, [Machine Learning + the Humanities](https://arstechnica.com/science/2019/01/machine-learning-can-offer-new-tools-fresh-insights-for-the-humanities/)
 - Ted Underwood, [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
-- IN CLASS: Overview of [Hathi Trust Digital Archive](https://www.hathitrust.org), the [Research Center](https://analytics.hathitrust.org), and the data behind text mining.
+
+#### Some Digital Archives
+- [Chronicling America](https://chroniclingamerica.loc.gov/)
+- [Hathi Trust Digital Archive](https://www.hathitrust.org) and [Research Center](https://analytics.hathitrust.org)
+- [Internet Archive](https://archive.org/)
+- [Project Gutenberg](https://www.gutenberg.org/)
+- [Old Bailey Online](https://www.oldbaileyonline.org/)
+- [Early English Books Online](https://eebo.chadwyck.com/home)
+- [Eighteenth-Century Collections Online](https://quod.lib.umich.edu/e/ecco/)
+
+#### Some tools
+- [Voyant](https://voyant-tools.org/)
+- [Google Books Ngram Viewer](https://books.google.com/ngrams)
+- [AntConc](http://www.laurenceanthony.net/software/antconc/)
 
 
 #### Et cetera
 - Stephan Sinclair and Geoffrey Rockwell, "Text Analysis and Visualization"
 - Benjamin M. Schmidt, “[Do Digital Humanists Need to Understand Algorithms?](http://dhdebates.gc.cuny.edu/debates/text/99),” in _Debates in the Digital Humanities_.
 - Sara Klingenstein, Tim Hitchcock, and Simon DeDeo, “The Civilizing Process in London’s Old Bailey,” _Proceedings of the National Academy of Sciences_ 111, no. 26 (July 1, 2014): 9419–24.
-- Andrew Goldstone and Ted Underwood, “The Quiet Transformations of Literary Studies: What Thirteenth Thousand Scholars Could Tell Us,” in _New Literary History_, 2014, 1–30.
 - [Between Canon and Corpus: Six Perspectives on 20th-Century Novels](https://litlab.stanford.edu/LiteraryLabPamphlet8.pdf)
 - Andrew Piper, “Novel Devotions: Conversional Reading, Computational Modeling, and the Modern Novel,” _New Literary History_ 46, no. 1 (May 20, 2015): 63–98.
 - Shlomo Argamon et al., “Gender, Race, and Nationality in Black Drama, 1950-2006: Mining Differences in Language Use in Authors and Their Characters” 3, no. 2 (2009), [DHQ](http://digitalhumanities.org/dhq/vol/3/2/000043/000043.html).
@@ -185,7 +197,6 @@ In class we'll survey a few transcription projects and go over instructions for 
 
 
 ### Thursday (Feb 28)
-* Megan R. Brett, [Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/).
 * Ted Underwood, [Topic Modeling Made Just Simple Enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/).
 * CLICK THRU: Rob Nelson, [Mining the Dispatch](http://dsl.richmond.edu/dispatch/).    
 
@@ -197,6 +208,7 @@ In class we'll survey a few transcription projects and go over instructions for 
 
 #### Et cetera
 - Andrew Goldstone and Ted Underwood, “[What Can Topic Models of PMLA Teach Us about the History of Literary Scholarship?](https://tedunderwood.com/2012/12/14/what-can-topic-models-of-pmla-teach-us-about-the-history-of-literary-scholarship/)”.
+- Andrew Goldstone and Ted Underwood, “The Quiet Transformations of Literary Studies: What Thirteenth Thousand Scholars Could Tell Us,” in _New Literary History_, 2014, 1–30.
 - Scott Weingart, [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113).
 - Benjamin M. Schmidt, “[Words Alone: Dismantling Topic Models in the Humanities](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/),” _Journal of Digital Humanities_ (2013).
 
