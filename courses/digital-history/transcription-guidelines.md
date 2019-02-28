@@ -1,9 +1,14 @@
 # Transcription Guidelines
+
+## Goals for the course
 In ~800 words, you have three goals:
 - To show me that you've done the transcription assignment (to transcribe MOST of THREE PAGES) of the same document or of different ones.
 - If you've spent a lot of time on a page, but can't get every single word, move on! There's only so much we can contribute on our first time.
 - To document your experience to an informed but general audience (like us!).
 - To critique your transcription project, the interface and the user experience.
+
+## Goals beyond the course
+Part of the goal of your digital portfolios is to show off your fluency moving between digital/analog texts/tools and qualitative/quantitative methods and analyses. Imagine that you are writing this for a potential employer who is intrigued by the "Digital History" course on your transcript. What does this allow you to do? Your essay ()
 
 ## Basic Requirements
 - ~800 words (but there is no maximum, so take the space you need to describe and analyze your experience)
@@ -29,8 +34,14 @@ For the project critique, below are some possible themes and questions you might
 
 ### Transcription Experience
 - What was your experience with the handwriting? What did you learn or get better at along the way?
-- We talked in class (21st) a lot about the experience of text. How did the transcription project confirm or complicate the notions of text?
+- How did you use (or not) the meaning of the texts to transcribe them?
+- Was it easier to transcribe those texts that you felt some connection to?
 
+### Critical Reflection
+- This is the most important aspect of your essay!
+- We talked in class (21st) a lot about the experience of text. How did the transcription project confirm or complicate the notions of text?
+- How does transcription fit into digital history? Namely, how can transcription projects increase the utility of digital history research? What are the dangers?
+- How can we use our previous abstract/theoretical readings to evaluate the pros and cons of transcription and text mining generally?
 
 
 ## Grading

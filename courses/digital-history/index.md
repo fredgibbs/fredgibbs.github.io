@@ -35,15 +35,16 @@ In addressing these questions, we'll draw from contemporary readings in history,
 
 
 ## Work Requirements and Grading
+NOTE THAT ALL WORK IS OPTIONAL! You need to do as many assignments to get whatever grade you want. There are more assignments given than anyone needs to do. Do the ones that interest you and do them well! Note that point values are the MAXIMUM possible, not what you get for merely completing them.
+
 - Thorough preparedness and engaged participation in most every class meeting. This is a class that's focused on discussing and making things, not just memorizing and regurgitating a historical narrative. (30 points; note this is roughly 2 points per day)
-- Transcription (10 points)
-- Overview of Medical Heritage (10 points)
-- Hathi Trust Exploration (10 points)
-- Spatial History Map (10 points)
-- Equitable contribution to collaborative Digital History Project (10 points)
+- Reading responses (0-2 points each). See the [Response guidelines](response-guidelines).
+- Transcription Assignment (10 points)
+- Topic Modeling of Medical History Journals (10 points)
+- Spatial History Project (10 points)
+- Equitable contribution our collaborative Digital History Project (10 points)
 - ~1000-word critique of digital history/humanities project (10 points)
-- 8 Reading responses (2 points each). See the [Response guidelines](response-guidelines).
-- Yes I know these add up to 106. You're welcome.
+- Final Evaluation of Digital Portfolio (10 points)
 - All revised work is due Tuesday, May 7, by 9:30am (the end of our scheduled final exam).
 
 ### Grade Distribution
