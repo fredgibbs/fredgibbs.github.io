@@ -1,3 +1,12 @@
+---
+layout: syllabus
+title: Digital History
+term: Spring 2019
+number: HIST 300-002
+section: schedule
+header: digital-history
+---
+
 # Transcription Guidelines
 
 ## Goals for the course

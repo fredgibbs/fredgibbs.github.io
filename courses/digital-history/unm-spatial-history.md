@@ -1,3 +1,12 @@
+---
+layout: syllabus
+title: Digital History
+term: Spring 2019
+number: HIST 300-002
+section: schedule
+header: digital-history
+---
+
 # Campus History Guidelines
 This guide provides the instructions for our collaborative campus history assignment. You'll pick a particular building on campus---you can consult this [a list of options](https://en.wikipedia.org/wiki/List_of_University_of_New_Mexico_buildings). We'll each write a short history of that building based on archival sources from the Special Collections in Zimmerman (the Center for Southwest Research)---where almost all University archival materials are held. Librarians will help us find stuff, but it will be up to us to make good use of it.
 
