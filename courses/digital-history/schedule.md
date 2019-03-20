@@ -248,22 +248,25 @@ In class we'll survey a few transcription projects and go over instructions for 
 ### Tuesday (Mar 19)
 - David J. Bodenhamer, “The Potential of Spatial Humanities”, 14-30. (note the Zotero PDF has an extra chapter at the beginning, so make sure you read chapter 2).
 - IN CLASS: Introduction to GIS and Historical GIS
-- IN CLASS: Survey of [Spatial History Projects](http://www.aag.org/cs/projects_and_programs/historical_gis_clearinghouse/hgis_projects_programs).
 
 
 ### Thursday (Mar 21)
 - Shannon Mattern, [Mapping’s Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/?cn-reloaded=1)
+- Survey of [Spatial History Projects](http://www.aag.org/cs/projects_and_programs/historical_gis_clearinghouse/hgis_projects_programs).
+- Discussion of [geo-referencing exercise](georeferencing-exercise)
+- Discussion of collaborative [spatial history project](unm-spatial-history)
 
 
 
 ## 11: Intersectionality: Race, Class, and Gender
 
 ### Tuesday (Mar 26)
--[Beyond the Margins: Intersectionality and the Digital Humanities](http://www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html)
--[All the Digital Humanists are White, all the Nerds are Men, but Some of Us Are Brave](http://journalofdigitalhumanities.org/1-1/all-the-digital-humanists-are-white-all-the-nerds-are-men-but-some-of-us-are-brave-by-moya-z-bailey/)
+- [Beyond the Margins: Intersectionality and the Digital Humanities](http://www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html)
+- [All the Digital Humanists are White, all the Nerds are Men, but Some of Us Are Brave](http://journalofdigitalhumanities.org/1-1/all-the-digital-humanists-are-white-all-the-nerds-are-men-but-some-of-us-are-brave-by-moya-z-bailey/)
 
 
 ### Thursday (Mar 28)
+- Americo Paredes, _The Hammon and the Beans and Other Stories_ (Houston, TX: Arte Publico Press, 1994), 3-9.
 - María Cotera, “Nuestra Autohistoria: Toward a Chicana Digital Praxis,” American Quarterly 70.3 (2018): 483–504.
 - Joel Zapata, “Taking Chicana/o Activist History to the Public: Chicana/o Activism in the Southern Plains through Time and Space,” _Great Plains Quarterly_ 38.4 (2018): 407–24.
 - [Chicano/a Activism in the Southern Plains Interactive Map and Timeline](https://plainsmovement.com/neatline/show/interactive-map-and-timeline)
@@ -271,49 +274,75 @@ In class we'll survey a few transcription projects and go over instructions for 
 
 #### Et cetera
 - [Reclaiming the Lesbian Archives](https://academic.oup.com/ohr/article/43/1/170/1752485)
-- - Alexis Lothian and Amanda Phillips, [Can Digital Humanities Mean Transformative Critique?](https://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/xmlpage/4/article/425)
+- Alexis Lothian and Amanda Phillips, [Can Digital Humanities Mean Transformative Critique?](https://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/xmlpage/4/article/425)
 
 
 
-## 12: Historical Authorities of Knowledge
+## 12: Historical Authorities of Knowledge + Collaboration
 
-### Tuesday (Apr 2)
+### Tuesday (Apr 2) - IMPORTANT!
+Today's class will be split into two halves; the first part a discussion of History and Wikipedia, the second a discussion about the technology required for our collaborative spatial history project.
+
+If you miss class you will create a lot of confusion for yourself and waste time. What we're doing cannot be explained over email, and I will not teach this class again to you personally during office hours---so you need to be in class. We will be using these tools for your spatial history exercise and there is no alternative.
+
+#### TO-DO
+- Recommended due date for geo-referencing assignment
+
+#### PART ONE
 - Roy Rosenzwieg, [Can History Be Open Source? Wikipedia and the Future of the Past]( https://www.jstor.org/stable/4486062?seq=1#metadata_info_tab_contents)
+
+#### PART TWO
+Peruse these beforehand:
+- Introduction to [Markdown](https://www.markdowntutorial.com/)
+- Introduction to [GitHub](https://guides.github.com/activities/hello-world/). Read through this tutorial, but do not actually do all the steps---just try to understand what's going on and we'll go over it.
+
+#### As soon as possible after class
+- As with all our other tools, we're using real world tools as part of our survey of digital interfaces to history.
+- Create a free and secure account at [GitHub](http://github.com). You can pick any username/password you want---it's independent of UNM and Zotero.
+- Add your GitHub username to our shared Google Doc by the end of the day. I'll invite you to join our GitHub "Team". Like Zotero, You'll get an email asking if you want to accept the invitation. Do it!
+- Use either [Dillinger](https://dillinger.io/) or a text editor (like [Atom](https://atom.io)) to create a plaintext Markdown file with some dummy text that includes some Markdown formatting. Be sure to save it as `Firstname-Lastname.md`. The content of your markdown file is irrelevant, but be sure your filename has no spaces, follows the capitalization scheme, and ends with `.md`.
+- Add that Markdown file to our repository. Be sure you are logged into GitHub when you do this: Click on the `testfiles` folder, then drag and drop your file onto your browser window.
+- If you are confused about Markdown, visit the [Markdown tutorial](https://www.markdowntutorial.com/); for syntax help, consult the [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 
 
 ### Thursday (Apr 4)
-* Leslie Madsen-Brooks, [I Nevertheless Am a Historian: Digital Historical Practice and Malpractice around Black Confederate Soldiers](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.1)
-* Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.2).
+Pick one of these two and be ready to discuss:
+- Leslie Madsen-Brooks, [I Nevertheless Am a Historian: Digital Historical Practice and Malpractice around Black Confederate Soldiers](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.1)
+- Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.2).
 
+- IN CLASS: Solve GitHub and Markdown problems
 
 
 ## 13: Digital Public History
 
 ### Tuesday (Apr 9)
-- Sheila Brennan, “[Public, First](http://dhdebates.gc.cuny.edu/debates/text/83),” in Debates in the Digital Humanities, accessed December 31, 2016, .
-- Trevor Owens and Jesse Johnston, [Archivists as Peers in Digital Public History](https://osf.io/preprints/lissa/4hvtb/)
+- Sheila Brennan, [Public, First](http://dhdebates.gc.cuny.edu/debates/text/83), in _Debates in the Digital Humanities_ (2016).
+- Trevor Owens and Jesse Johnston, [Archivists as Peers in Digital Public History](https://osf.io/preprints/lissa/4hvtb/).
 
 ### Thursday (Apr 11)
 - Andrew Hurley, “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” The Public Historian 38, no. 1 (2016): 69–88.
-- Bruce Wyman et al., “Digital Storytelling in Museums: Observations and Best Practices,” _Curator: The Museum Journal_ 54.4 (2011): 461–68.
+- Bruce Wyman et al., “Digital Storytelling in Museums: Observations and Best Practices,” _Curator: The Museum Journal_ 54, no. 4 (2011): 461–68.
 
 
 
 ## 14: Critiquing Digital History
 
 ### Tuesday (Apr 16)
+IN CLASS: How to critique a digital history archive/interface/website/project
+
+#### Et cetera
 - American Historical Association, [Evaluation of Digital Scholarship in History](https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-professional-evaluation-of-digital-scholarship-by-historians)
 - Fred Gibbs, “The Poetics of Digital Scholarship,” in _Ontic Flows: From Digital Humanities to Posthumanities_ (New York and Dresden: Atropos Press, 2016), 101–22.
 
+
 ### Thursday (Apr 18)
-Probably no reading so you have time for your critiques
+No readings: Instead, complete your digital history website critique (or at least a solid draft)
 
-#### TO-DO
-- Digital History website critique
-
+- IN CLASS: UNM Spatial History and NM History progress reports and discussion
 
 
-## 15: Digital History Activism
+## 15: Digital Activism
 
 ### Tuesday (Apr 23)
 - Carol M. Taylor, “W.E.B. DuBois’s Challenge to Scientific Racism,” _Journal of Black Studies_ 11, no. 4 (1981): 449–60.
@@ -325,9 +354,16 @@ Probably no reading so you have time for your critiques
 - Janna Anderson and Lee Raine, [The Future of Truth and Misinformation Online](http://www.pewinternet.org/2017/10/19/the-future-of-truth-and-misinformation-online/)
 
 
+
 ## 16: Loose ends
-The last few days have nothing scheduled because we'll probably be behind with individual and class projects, so a little buffer will help us get caught up as the semester concludes. And if we're not behind, maybe we don't need to meet anymore. But don't get your hopes up.
+
 
 ### Tuesday (Apr 30)
+- Spatial History Project Wrap Up
+
+#### TO-DO
+- Make sure you have the key components of your spatial history project completed so we can solve problems and answer questions.
 
 ### Thursday (May 2)
+- Review and critique of [visual essays](visual-essays) --- very helpful for making yours better before the final due date.
+- Essential tips for finalizing your essays and portfolios.
