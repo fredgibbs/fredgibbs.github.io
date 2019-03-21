@@ -255,14 +255,14 @@ In class we'll survey a few transcription projects and go over instructions for 
 - Survey of [Spatial History Projects](http://www.aag.org/cs/projects_and_programs/historical_gis_clearinghouse/hgis_projects_programs).
 - Discussion of [geo-referencing exercise](georeferencing-exercise)
 - Discussion of collaborative [UNM spatial history project](unm-spatial-history)
-
+  - Remember this is a spatial history, not just a building history. For instance, keep in mind how sources like this [Co-Ed Code](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1006&context=unm_coed_code) can help you.
 
 
 ## 11: Intersectionality: Race, Class, and Gender
 
 ### Tuesday (Mar 26)
-- [Beyond the Margins: Intersectionality and the Digital Humanities](http://www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html)
-- [All the Digital Humanists are White, all the Nerds are Men, but Some of Us Are Brave](http://journalofdigitalhumanities.org/1-1/all-the-digital-humanists-are-white-all-the-nerds-are-men-but-some-of-us-are-brave-by-moya-z-bailey/)
+- Roopika Risam, [Beyond the Margins: Intersectionality and the Digital Humanities](http://www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html)
+- Moya Z. Bailey, [All the Digital Humanists are White, all the Nerds are Men, but Some of Us Are Brave](http://journalofdigitalhumanities.org/1-1/all-the-digital-humanists-are-white-all-the-nerds-are-men-but-some-of-us-are-brave-by-moya-z-bailey/)
 
 
 ### Thursday (Mar 28)
@@ -337,8 +337,7 @@ IN CLASS: How to critique a digital history archive/interface/website/project
 
 
 ### Thursday (Apr 18)
-No readings: Instead, complete your digital history website critique (or at least a solid draft)
-
+- No readings: Instead, complete your digital history website critique (or at least a solid draft)
 - IN CLASS: UNM Spatial History and NM History progress reports and discussion
 
 
