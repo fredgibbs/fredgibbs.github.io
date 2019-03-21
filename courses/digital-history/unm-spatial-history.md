@@ -51,7 +51,7 @@ Rather than post these on your digital portfolios, we're going to make a separat
 - How do we want them to think differently?
 
 ## Grading
-- 0-2: Technically the assignment is done, but doesn't tell a cohesive story, has very limited images, or clearly rushed writing.
-- 3-5: Displays a respectable level of effort, but generally underwhelming.
-- 6-8: Shows potential, but falls short in scope or execution. Usually this score represents a solid effort that is missing a critical component or is sloppily done. For instance: too few  many images, weak captions, no real consideration of space, or campus development generally
-- 9-10: Carefully and engagingly written; interesting images that give a sense of the archival history of UNM; tells a compelling story in a short space about the building, its space, and its relationship to campus; makes broader points about the potential of collaborative spatial history
+- 0-4: Technically the assignment is done, but doesn't tell a cohesive story, has very limited images, or clearly rushed writing.
+- 5-9: Displays a respectable level of effort, but generally underwhelming.
+- 10-16: Shows potential, but falls short in scope or execution. Usually this score represents a solid effort that is missing a critical component or is sloppily done. For instance: too few  many images, weak captions, no real consideration of space, or campus development generally
+- 17-20: Carefully and engagingly written; interesting images that give a sense of the archival history of UNM; tells a compelling story in a short space about the building, its space, and its relationship to campus; makes broader points about the potential of collaborative spatial history

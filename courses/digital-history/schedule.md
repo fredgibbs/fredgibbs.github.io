@@ -254,7 +254,7 @@ In class we'll survey a few transcription projects and go over instructions for 
 - Shannon Mattern, [Mapping’s Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/?cn-reloaded=1)
 - Survey of [Spatial History Projects](http://www.aag.org/cs/projects_and_programs/historical_gis_clearinghouse/hgis_projects_programs).
 - Discussion of [geo-referencing exercise](georeferencing-exercise)
-- Discussion of collaborative [UNM spatial history project](unm-spatial-history)
+- Discussion of collaborative 20 point [UNM spatial history project](unm-spatial-history)
   - Remember this is a spatial history, not just a building history. For instance, keep in mind how sources like this [Co-Ed Code](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1006&context=unm_coed_code) can help you.
 
 
