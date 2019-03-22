@@ -261,6 +261,12 @@ In class we'll survey a few transcription projects and go over instructions for 
 ## 11: Intersectionality: Race, Class, and Gender
 
 ### Tuesday (Mar 26)
+We didn't quite get to these last time, so it's our top priority for today. Should only take 20 minutes or so, but we can be more efficient in you've browsed the exercise guidelines ahead of time. As with all exercises, these are optional, but also opportunities for easy points.
+- Discussion of [geo-referencing exercise](georeferencing-exercise)
+- Discussion of collaborative **20 point** [UNM spatial history project](unm-spatial-history)
+  - Remember this is a spatial history, not just a building history. For instance, keep in mind how sources like this [Co-Ed Code](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1006&context=unm_coed_code) can help you.
+
+
 - Roopika Risam, [Beyond the Margins: Intersectionality and the Digital Humanities](http://www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html)
 - Moya Z. Bailey, [All the Digital Humanists are White, all the Nerds are Men, but Some of Us Are Brave](http://journalofdigitalhumanities.org/1-1/all-the-digital-humanists-are-white-all-the-nerds-are-men-but-some-of-us-are-brave-by-moya-z-bailey/)
 
@@ -283,7 +289,7 @@ In class we'll survey a few transcription projects and go over instructions for 
 ### Tuesday (Apr 2) - IMPORTANT!
 Today's class will be split into two halves; the first part a discussion of History and Wikipedia, the second a discussion about the technology required for our collaborative spatial history project.
 
-If you miss class you will create a lot of confusion for yourself and waste time. What we're doing cannot be explained over email, and I will not teach this class again to you personally during office hours---so you need to be in class. We will be using these tools for your spatial history exercise and there is no alternative.
+If you miss class you will create a lot of confusion for yourself and waste time. What we're doing cannot be explained effectively via email, and I will not teach this class again to you personally during office hours---so you need to be in class. We will be using these tools for our spatial history project and there is no alternative. Of course I will help you with problems, but you need to see the explanation in person first.
 
 #### TO-DO
 - Recommended due date for geo-referencing assignment
@@ -317,11 +323,13 @@ Pick one of these two and be ready to discuss:
 ## 13: Digital Public History
 
 ### Tuesday (Apr 9)
+These are short, easy, and important, so you should read both. If you do a reading response for today, you should discuss both!
 - Sheila Brennan, [Public, First](http://dhdebates.gc.cuny.edu/debates/text/83), in _Debates in the Digital Humanities_ (2016).
 - Trevor Owens and Jesse Johnston, [Archivists as Peers in Digital Public History](https://osf.io/preprints/lissa/4hvtb/).
 
 ### Thursday (Apr 11)
-- Andrew Hurley, “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” The Public Historian 38, no. 1 (2016): 69–88.
+Pick one of these two and be ready to discuss:
+- Andrew Hurley, “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” _The Public Historian_ 38, no. 1 (2016): 69–88.
 - Bruce Wyman et al., “Digital Storytelling in Museums: Observations and Best Practices,” _Curator: The Museum Journal_ 54, no. 4 (2011): 461–68.
 
 
@@ -329,7 +337,7 @@ Pick one of these two and be ready to discuss:
 ## 14: Critiquing Digital History
 
 ### Tuesday (Apr 16)
-IN CLASS: How to critique a digital history archive/interface/website/project
+No required articles for today. In class we'll look at how to critique a data interface, and the [data interface critique guidelines](data-interface-critique). You should read these ahead of time.
 
 #### Et cetera
 - American Historical Association, [Evaluation of Digital Scholarship in History](https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-professional-evaluation-of-digital-scholarship-by-historians)
@@ -337,7 +345,7 @@ IN CLASS: How to critique a digital history archive/interface/website/project
 
 
 ### Thursday (Apr 18)
-- No readings: Instead, complete your digital history website critique (or at least a solid draft)
+- No readings: Instead, complete your [data interface critique](data-interface-critique) (or at least a solid draft)
 - IN CLASS: UNM Spatial History and NM History progress reports and discussion
 
 
@@ -358,7 +366,7 @@ IN CLASS: How to critique a digital history archive/interface/website/project
 
 
 ### Tuesday (Apr 30)
-- Spatial History Project Wrap Up
+- UNM Spatial History Project Wrap Up
 
 #### TO-DO
 - Make sure you have the key components of your spatial history project completed so we can solve problems and answer questions.
@@ -366,3 +374,6 @@ IN CLASS: How to critique a digital history archive/interface/website/project
 ### Thursday (May 2)
 - Review and critique of [visual essays](visual-essays) --- very helpful for making yours better before the final due date.
 - Essential tips for finalizing your essays and portfolios.
+
+## Final Deadline
+- All work is due Tuesday, May 7, by 9:30am (the end of our scheduled final exam). Everyone is welcome to an extension until 5:00pm, Friday, May 10. Please send me a quick email to tell me when you've concluded work on your portfolio.
