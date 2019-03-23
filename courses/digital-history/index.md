@@ -70,12 +70,14 @@ Points | Grade
 - Analog/Digital Search Comparison---see Feb 7 (10 points)
 - [Transcription Assignment](transcription-guidelines) (10 points)
 - Topic Modeling of Medical History Journals---see March 5 (10 points)
+- [Geo-referencing exercise](georeferencing-guidelines) (10 points)
 - [Spatial History Project](unm-spatial-history-guidelines) (20 points)
 - [Visual Essay](visual-essay-guidelines) (10 points)
 - [Data Interface Critique](data-interface-critique) (10 points)
 - Complete and clean Digital Portfolio (10 points)
 
 ### Grade Distribution
+Note everything is 10 points less than before to make up for getting behind earlier and not presenting enough scoring opportunities.
 
 Points | Grade
 --- | ---
@@ -90,6 +92,11 @@ Points | Grade
 57-59 | D+
 50-56 | D
 49- | F
+
+
+{% include alert.html class='warning' title='things are good' text="
+The whole purpose of these latest syllabus revisions (of which there have been too many) is to make sure we finish strong by having fun learning some cool new stuff and tying everything together with minimal stress and anxiety about deadlines and assignments. If you follow the recommended deadlines for drafts, it will be VERY EASY to get an 'A' for the course. And you will have done enough work to truly earn it.
+"%}
 
 
 {% include alert.html class='danger' title='ASK FOR FEEDBACK' text="
