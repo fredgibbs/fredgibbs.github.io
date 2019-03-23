@@ -275,8 +275,8 @@ We didn't quite get to these last time, so it's our top priority for today. Shou
 - Americo Paredes, _The Hammon and the Beans and Other Stories_ (Houston, TX: Arte Publico Press, 1994), 3-9.
   - How does intersectionality affect how space is conceived or structured? In other words, how is space modified by race, class, and gender? When reading Paredes think about what the landscape tells us about these positionalities. Who moves between the different spaces in the short story, who determines the spacial boundaries and their markers?  What can be read in this movement? As White states in What is Spatial History? (week 9!)  we "produce and reproduce space through our movements and the movements of goods..." and I would add the movement of  ideologies  as well.
 
-{% include alert.html class='warning' title='Story Map' text="
-Drawing only from the cues in the short story, draw a map of Jonesville on the Grande. As a literary cartographer, you get to decide what to include. Bring a physical copy to class on Thursday.
+{% include alert.html class='danger' title='Story Map' text="
+Drawing only from the cues in the short story, draw a map of Jonesville on the Grande. As a literary cartographer, you get to decide what to include. **Bring a physical copy to class because we will be using them during class.**
 "%}
 
 - María Cotera, “Nuestra Autohistoria: Toward a Chicana Digital Praxis,” American Quarterly 70.3 (2018): 483–504.
@@ -294,7 +294,7 @@ Drawing only from the cues in the short story, draw a map of Jonesville on the G
 
 ### Tuesday (Apr 2)
 
-{% include alert.html class='alert' title='Due date' text="
+{% include alert.html class='warning' title='Recommended Due Date' text="
 Recommended first draft of your [geo-referencing exercise](georeferencing-guidelines)
 "%}
 
@@ -325,7 +325,7 @@ Peruse these beforehand:
 
 
 ### Thursday (Apr 4)
-{% include alert.html class='warning' title='GitHub Test' text="
+{% include alert.html class='danger' title='GitHub Test' text="
 Make sure your Markdown file is in the `testfiles` folder!
 "%}
 
@@ -353,8 +353,8 @@ Pick one of these two and be ready to discuss:
 ## 14: Critiquing Digital History
 
 ### Tuesday (Apr 16)
-{% include alert.html class='alert' title='Due Date' text="
-Complete a first draft of your [visual essays](visual-essay-guidelines) to gauge how long its taking!
+{% include alert.html class='warning' title='Recommended Due Date' text="
+Complete a first draft of your [visual essays](visual-essay-guidelines) to gauge how long its taking and what kind of images you can find.
 "%}
 
 In class we'll discuss our on-going spatial history essays, look at how to critique a data interface, and review the [data interface critique guidelines](data-interface-critique). You should read these ahead of time, but there's no other required reading.
@@ -365,8 +365,8 @@ In class we'll discuss our on-going spatial history essays, look at how to criti
 
 
 ### Thursday (Apr 18)
-{% include alert.html class='alert' title='Due Date' text="
-Complete a first draft of your [spatial history essay](unm-spatial-history-guidelines) to gauge how your research is coming along and how long its taking
+{% include alert.html class='warning' title='Recommended Due Date' text="
+Complete an outline or very rough draft of your [spatial history essay](unm-spatial-history-guidelines) to gauge how your research is coming along and how long its taking.
 "%}
 IN CLASS: UNM Spatial History essay questions, answers, and critiques. We will take volunteers to have their essay DRAFTS critiqued in class. It's a GREAT way to get lots of feedback and ideas for improvement.
 
@@ -374,7 +374,7 @@ IN CLASS: UNM Spatial History essay questions, answers, and critiques. We will t
 ## 15: Digital Activism
 
 ### Tuesday (Apr 23)
-{% include alert.html class='alert' title='Due Date' text="
+{% include alert.html class='warning' title='Recommended Due Date' text="
 Complete a solid draft of your [data interface critique](data-interface-critique).
 "%}
 
@@ -393,16 +393,18 @@ The below article was originally scheduled for this week but is now optional. Th
 ## 16: Loose ends
 
 ### Tuesday (Apr 30)
-{% include alert.html class='alert' title='Due Date' text="
-Make sure you have the key components of your [spatial history essay](unm-spatial-history-guidelines) project completed to make sure you're on track to get everything finalized next week.
-"%}
+- Review and critique of our [visual essays](visual-essay-guidelines) --- very helpful for making yours better before the final due date.
 
 
 ### Thursday (May 2)
-- Review and critique of our [visual essays](visual-essay-guidelines) --- very helpful for making yours better before the final due date.
-- Don't miss essential tips for finalizing your essays and portfolios.
+{% include alert.html class='warning' title='Recommended Due Date' text="
+Make sure you have a complete draft of your [spatial history essay](unm-spatial-history-guidelines) to make sure you're on track to get everything finalized next week and get any research or formatting questions answered.
+"%}
 
-{% include alert.html class='info' title='FINAL DEADLINE' text="
+- Don't miss essential tips for finalizing your essays and portfolios!
+
+
+{% include alert.html class='danger' title='FINAL DEADLINE' text="
 Technically, all work is due Tuesday, May 7, by 9:30am, which is the end of our scheduled final exam. (we of course don't have an actual exam)
 
 HOWEVER: Everyone is welcome to an extension until 5:00pm, Friday, May 10.

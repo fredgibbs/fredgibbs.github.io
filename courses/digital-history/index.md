@@ -37,7 +37,7 @@ In addressing these questions, we'll draw from contemporary readings in history,
 ## Work Requirements and Grading
 NOTE THAT ALL WORK IS OPTIONAL! You need to do as many assignments to get whatever grade you want. There are more assignments given than anyone needs to do. Do the ones that interest you and do them well! Note that point values are the MAXIMUM possible, not what you get for merely completing them.
 
-{% include alert.html class='info' title='OLD GRADING TEXT' text="
+{% include alert.html class='info' title="OLD GRADING TEXT THAT WE'RE NOT USING ANYMORE, SEE BELOW FOR THE CORRECT INFO" text="
 - Thorough preparedness and engaged participation in most every class meeting. This is a class that's focused on discussing and making things, not just memorizing and regurgitating a historical narrative. (30 points; note this is roughly 2 points per day)
 - Reading responses (0-2 points each). See the [Response guidelines](response-guidelines).
 - Transcription Assignment (10 points)
@@ -48,6 +48,7 @@ NOTE THAT ALL WORK IS OPTIONAL! You need to do as many assignments to get whatev
 - Final Evaluation of Digital Portfolio (10 points)
 
 ### Grade Distribution
+
 Points | Grade
 --- | ---
 94+ | A
@@ -65,7 +66,7 @@ Points | Grade
 
 
 - Thorough preparedness and engaged participation in most every class meeting. (30 points; note this is roughly 1 point per meeting if you are in class AND PARTICIPATING)
-- Reading responses (0-2 points each). See the [Response guidelines](response-guidelines).
+- Reading responses (0-2 points each). See the [Response guidelines](response-guidelines). You can write a response for EACH item on the syllabus; so if there are two readings for one day, you can write two responses and get double points that day. You can always write responses on optional readings. There are 20(!) readings left as of 3/26; about 10 are required. All responses do have to be done BEFORE class, though.
 - Analog/Digital Search Comparison---see Feb 7 (10 points)
 - [Transcription Assignment](transcription-guidelines) (10 points)
 - Topic Modeling of Medical History Journals---see March 5 (10 points)
@@ -75,6 +76,7 @@ Points | Grade
 - Complete and clean Digital Portfolio (10 points)
 
 ### Grade Distribution
+
 Points | Grade
 --- | ---
 84+ | A
@@ -89,12 +91,13 @@ Points | Grade
 50-56 | D
 49- | F
 
-{% include alert.html class='alert' title='ASK FOR FEEDBACK' text="
-Because our various exercises are optional, so you can choose exercises that seem most interesting to you, you only have one real assignment---your digital portfolio that will showcase the exercises you have chosen to do.
 
-Therefore, nothing is going to be officially graded before the end of finals week.
-
-HOWEVER: You are encouraged to email me AT ANY TIME and AS MANY TIMES AS YOU WANT with a URL of an exercise or of your entire portfolio for an evaluation and grade estimate. I will get back to you as soon as I can.  
+{% include alert.html class='danger' title='ASK FOR FEEDBACK' text="
+Because our various exercises are optional and have no official deadlines (before the final due date, obv), so you can choose exercises that seem most interesting to you, you only have one real assignment---your digital portfolio that will showcase the exercises you have chosen to do.
+<hr>
+**Therefore, nothing is going to be officially graded before the end of finals week. This gives you more time to draft, revise, and improve your work over time.**
+<hr>
+You are heartily encouraged to email me AT ANY TIME and AS MANY TIMES AS YOU WANT with a URL of an exercise or of your entire portfolio for an evaluation and grade estimate. I will get back to you as soon as I can, with as helpful of feedback as I can. This way you get all the feedback you want when you are ready for it.
 "%}
 
 

@@ -33,7 +33,7 @@ Part of the goal of your digital portfolios is to show off your fluency moving b
 ## Basic Requirements
 - Needs to be a separate PAGE on your portfolio, NOT a blog post
 - ~800 words, but there is no maximum, so take the space you need to describe and analyze your experience.
-- Show me that you've done the geo-referencing assignment---to geo-rectify AT LEAST TWO maps via the [David Rumsey Map Collection](https://www.davidrumsey.com/view/georeferencer)---one of a place you kind of know, and one you don't know at all.
+- Show me that you've done the geo-referencing assignment---to geo-rectify AT LEAST TWO maps via the [David Rumsey Map Georeferencer](https://www.davidrumsey.com/view/georeferencer)---one of a place you kind of know, and one you don't know at all.
 - NOTE: If you spend a lot of time on a map (placing lots of points) and the maps still don't seem to be aligning very well, move on! Some historical maps can take a zillion points to really get right and that's not the point of the exercise.
 - Document your experience to a general audience, namely what kinds of features you used, how easy it was to find corresponding features evenly across the map.
 - Clear, concise, and meaningful writing (no fluff!)
@@ -59,7 +59,7 @@ For the project critique, below are some possible themes and questions you might
 
 ## Critical Reflection
 - **This is the most important aspect of your essay!**
-- We've discussed the difference between digital and analog sources. How did the geo-referencing project confirm or complicate the notions of text?
+- We've discussed the difference between digital and analog sources. How did the geo-referencing project confirm or complicate the notion of a map (this question isn't as stupid as it sounds)?
 - How do analog and digital maps fit into digital history? Namely, how can they increase the utility of digital history research? What are the dangers?
 - How can we use our previous abstract/theoretical readings to evaluate the pros and cons of digital spatial history?
 - Reflect critically on what you're doing using course readings. The point of the readings is that you can use them!
@@ -67,9 +67,7 @@ For the project critique, below are some possible themes and questions you might
 
 
 ## Grading
-This assignment is a bigger deal than the reading responses (hence the 10 point scale), and will be graded accordingly. Here's a general guide:
-
 - 0-2: Technically the assignment is done, but is entirely descriptive without any critical reflection on your experience, and with rushed writing (unorganized, repetitive) that was hard to follow.
 - 3-5: Displays some critical engagement with the assignment, writing is fine and gives a serviceable picture of what you did. Generally underwhelming.
-- 6-8: Shows potential, but falls short in scope or execution. Usually this score represents a generally good essay that is missing a critical component or is sloppily done. For instance, you might clearly describe your map warping without any broader critical reflection on digital texts generally.
+- 6-8: Shows potential, but falls short in scope or execution. Usually this score represents a generally good essay that is missing a critical component or is sloppily done. For instance, you might clearly describe your map warping without any broader critical reflection on digital maps generally.
 - 9-10: Carefully written; pulls in different readings from the course to analyze your experience (across all relevant readings from the syllabus); shows significant critical engagement with the assignment in that all description is used to make a broader point.
