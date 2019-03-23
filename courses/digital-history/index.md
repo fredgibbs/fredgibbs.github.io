@@ -37,6 +37,7 @@ In addressing these questions, we'll draw from contemporary readings in history,
 ## Work Requirements and Grading
 NOTE THAT ALL WORK IS OPTIONAL! You need to do as many assignments to get whatever grade you want. There are more assignments given than anyone needs to do. Do the ones that interest you and do them well! Note that point values are the MAXIMUM possible, not what you get for merely completing them.
 
+{% include alert.html class='info' title='OLD GRADING TEXT' text="
 - Thorough preparedness and engaged participation in most every class meeting. This is a class that's focused on discussing and making things, not just memorizing and regurgitating a historical narrative. (30 points; note this is roughly 2 points per day)
 - Reading responses (0-2 points each). See the [Response guidelines](response-guidelines).
 - Transcription Assignment (10 points)
@@ -45,10 +46,8 @@ NOTE THAT ALL WORK IS OPTIONAL! You need to do as many assignments to get whatev
 - Equitable contribution our collaborative Digital History Project (10 points)
 - ~1000-word critique of digital history/humanities project (10 points)
 - Final Evaluation of Digital Portfolio (10 points)
-- All revised work is due Tuesday, May 7, by 9:30am (the end of our scheduled final exam).
 
 ### Grade Distribution
-
 Points | Grade
 --- | ---
 94+ | A
@@ -62,6 +61,42 @@ Points | Grade
 67-69 | D+
 60-66 | D
 59- | F
+"%}
+
+
+- Thorough preparedness and engaged participation in most every class meeting. (30 points; note this is roughly 1 point per meeting if you are in class AND PARTICIPATING)
+- Reading responses (0-2 points each). See the [Response guidelines](response-guidelines).
+- Analog/Digital Search Comparison---see Feb 7 (10 points)
+- [Transcription Assignment](transcription-guidelines) (10 points)
+- Topic Modeling of Medical History Journals---see March 5 (10 points)
+- [Spatial History Project](unm-spatial-history-guidelines) (20 points)
+- [Visual Essay](visual-essay-guidelines) (10 points)
+- [Data Interface Critique](data-interface-critique) (10 points)
+- Complete and clean Digital Portfolio (10 points)
+
+### Grade Distribution
+Points | Grade
+--- | ---
+84+ | A
+80-84 | A-
+77-79 | B+
+73-76 | B
+70-72 | B-
+67-69 | C+
+63-66 | C
+60-62 | C-
+57-59 | D+
+50-56 | D
+49- | F
+
+{% include alert.html class='alert' title='ASK FOR FEEDBACK' text="
+Because our various exercises are optional, so you can choose exercises that seem most interesting to you, you only have one real assignment---your digital portfolio that will showcase the exercises you have chosen to do.
+
+Therefore, nothing is going to be officially graded before the end of finals week.
+
+HOWEVER: You are encouraged to email me AT ANY TIME and AS MANY TIMES AS YOU WANT with a URL of an exercise or of your entire portfolio for an evaluation and grade estimate. I will get back to you as soon as I can.  
+"%}
+
 
 ### Absences Policy
 Up to three unexcused absences are allowed without any grade penalty. However, after that, you lose roughly two points for every absence---so that basically every two missed classes lowers your grade one notch (B+ to B, for instance). If you reach ten absences, I will drop you from the course. Family or medical emergencies are excused absences, provided that you get in touch with me ASAP about them.

@@ -91,13 +91,13 @@ Create an RSS Feed for your blog and put the link on our [RSS Feed page](https:/
 
 
 #### EXTRA CREDIT OPTION
-As discussed in class on Jan 31, this is our first extra credit possibility to give you a few extra points in the class. **This can be done at any point, not just for today** The assignment:
+As discussed in class on Jan 31, this is our first extra credit possibility. **This can be done at any point, not just for today** The assignment:
 - Search for a history book at https://unm.worldcat.org/ or https://library.unm.edu/, that is also held physically in one of our libraries at UNM, and note what you see in the first few pages of search results for that book.
 - Note the library call number for the book, and go find it in the stacks.
 - Browse around the book and note what kind of books are physically around it---look at a few shelves above and below, too, not just the few books on either side of your target book.
-- Write up a standard reading response blog post (~350 words) about how these two different browsing experiences compare.
+- Write up a standard essay (like transcription assignment) (~800 words) about how these two different browsing experiences compare.
 - Obviously there's no right or wrong answer. But strive for clarity in your description of what you searched for, what you found in both cases, and how you might explain the differences.
-- Responses will be scored as all others, namely on a 0-2 point scale.
+- Graded on 0-10 point scale, like everything but reading responses.
 
 #### Et cetera
 - Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” 21–43.
@@ -230,7 +230,7 @@ In class we'll survey a few transcription projects and go over instructions for 
 - Go to [archive.org](https://archive.org/details/medicalheritagelibrary), search for the title of your journal.
 - Download 5-10 journals---get the TEXT FILE, not the PDF--and put them all into a single folder on your desktop.
 - Create a free account at [Overview](https://www.overviewdocs.com), and upload your directory of files (it's pretty obvious how to do this).
-- Write up your explorations on a separate topic modeling page on your digital portfolio.
+- Write up your explorations on a separate topic modeling page on your digital portfolio (the usual ~800 words, 0-10 point grading scale).
 
 
 
@@ -262,8 +262,8 @@ In class we'll survey a few transcription projects and go over instructions for 
 
 ### Tuesday (Mar 26)
 We didn't quite get to these last time, so it's our top priority for today. Should only take 20 minutes or so, but we can be more efficient in you've browsed the exercise guidelines ahead of time. As with all exercises, these are optional, but also opportunities for easy points.
-- Discussion of [geo-referencing exercise](georeferencing-exercise)
-- Discussion of collaborative **20 point** [UNM spatial history project](unm-spatial-history)
+- Discussion of [geo-referencing exercise](georeferencing-guidelines)
+- Discussion of collaborative **20 point** [UNM spatial history project](unm-spatial-history-guidelines)
   - Remember this is a spatial history, not just a building history. For instance, keep in mind how sources like this [Co-Ed Code](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1006&context=unm_coed_code) can help you.
 
 
@@ -273,6 +273,12 @@ We didn't quite get to these last time, so it's our top priority for today. Shou
 
 ### Thursday (Mar 28)
 - Americo Paredes, _The Hammon and the Beans and Other Stories_ (Houston, TX: Arte Publico Press, 1994), 3-9.
+  - How does intersectionality affect how space is conceived or structured? In other words, how is space modified by race, class, and gender? When reading Paredes think about what the landscape tells us about these positionalities. Who moves between the different spaces in the short story, who determines the spacial boundaries and their markers?  What can be read in this movement? As White states in What is Spatial History? (week 9!)  we "produce and reproduce space through our movements and the movements of goods..." and I would add the movement of  ideologies  as well.
+
+{% include alert.html class='warning' title='Story Map' text="
+Drawing only from the cues in the short story, draw a map of Jonesville on the Grande. As a literary cartographer, you get to decide what to include. Bring a physical copy to class on Thursday.
+"%}
+
 - María Cotera, “Nuestra Autohistoria: Toward a Chicana Digital Praxis,” American Quarterly 70.3 (2018): 483–504.
 - Joel Zapata, “Taking Chicana/o Activist History to the Public: Chicana/o Activism in the Southern Plains through Time and Space,” _Great Plains Quarterly_ 38.4 (2018): 407–24.
 - [Chicano/a Activism in the Southern Plains Interactive Map and Timeline](https://plainsmovement.com/neatline/show/interactive-map-and-timeline)
@@ -286,13 +292,16 @@ We didn't quite get to these last time, so it's our top priority for today. Shou
 
 ## 12: Historical Authorities of Knowledge + Collaboration
 
-### Tuesday (Apr 2) - IMPORTANT!
+### Tuesday (Apr 2)
+
+{% include alert.html class='alert' title='Due date' text="
+Recommended first draft of your [geo-referencing exercise](georeferencing-guidelines)
+"%}
+
 Today's class will be split into two halves; the first part a discussion of History and Wikipedia, the second a discussion about the technology required for our collaborative spatial history project.
 
 If you miss class you will create a lot of confusion for yourself and waste time. What we're doing cannot be explained effectively via email, and I will not teach this class again to you personally during office hours---so you need to be in class. We will be using these tools for our spatial history project and there is no alternative. Of course I will help you with problems, but you need to see the explanation in person first.
 
-#### TO-DO
-- Recommended due date for geo-referencing assignment
 
 #### PART ONE
 - Roy Rosenzwieg, [Can History Be Open Source? Wikipedia and the Future of the Past]( https://www.jstor.org/stable/4486062?seq=1#metadata_info_tab_contents)
@@ -300,19 +309,26 @@ If you miss class you will create a lot of confusion for yourself and waste time
 #### PART TWO
 Peruse these beforehand:
 - Introduction to [Markdown](https://www.markdowntutorial.com/)
+  - For later reference, there's an easy [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - Introduction to [GitHub](https://guides.github.com/activities/hello-world/). Read through this tutorial, but do not actually do all the steps---just try to understand what's going on and we'll go over it.
 
-#### As soon as possible after class
+{% include alert.html class='info' title='Do in class or ASAP afterward' text="
 - As with all our other tools, we're using real world tools as part of our survey of digital interfaces to history.
 - Create a free and secure account at [GitHub](http://github.com). You can pick any username/password you want---it's independent of UNM and Zotero.
-- Add your GitHub username to our shared Google Doc by the end of the day. I'll invite you to join our GitHub "Team". Like Zotero, You'll get an email asking if you want to accept the invitation. Do it!
-- Use either [Dillinger](https://dillinger.io/) or a text editor (like [Atom](https://atom.io)) to create a plaintext Markdown file with some dummy text that includes some Markdown formatting. Be sure to save it as `Firstname-Lastname.md`. The content of your markdown file is irrelevant, but be sure your filename has no spaces, follows the capitalization scheme, and ends with `.md`.
-- Add that Markdown file to our repository. Be sure you are logged into GitHub when you do this: Click on the `testfiles` folder, then drag and drop your file onto your browser window.
-- If you are confused about Markdown, visit the [Markdown tutorial](https://www.markdowntutorial.com/); for syntax help, consult the [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
+- Add your GitHub username to our shared Google Doc by the end of the day, and I'll invite everyone to join our GitHub Team. Like Zotero, You'll get an email asking if you want to accept the invitation. Do it!
+- Use either [Dillinger](https://dillinger.io/) or a text editor (like [Atom](https://atom.io)) to create a plaintext Markdown file with some dummy text that includes some Markdown formatting. Be sure to save it as `firstname-lastname.md` (example: `fred-gibbs.md`). The text in your file doesn't matter, but make sure your filename:
+  - has no spaces
+  - is all lower case
+  - ends with `.md`
+- Be sure you are logged into GitHub, then add your Markdown file to our repository. To do this, click on the `testfiles` folder, then drag and drop your file onto your browser window.
+"%}
 
 
 ### Thursday (Apr 4)
+{% include alert.html class='warning' title='GitHub Test' text="
+Make sure your Markdown file is in the `testfiles` folder!
+"%}
+
 Pick one of these two and be ready to discuss:
 - Leslie Madsen-Brooks, [I Nevertheless Am a Historian: Digital Historical Practice and Malpractice around Black Confederate Soldiers](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.1)
 - Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.2).
@@ -337,7 +353,11 @@ Pick one of these two and be ready to discuss:
 ## 14: Critiquing Digital History
 
 ### Tuesday (Apr 16)
-No required articles for today. In class we'll look at how to critique a data interface, and the [data interface critique guidelines](data-interface-critique). You should read these ahead of time.
+{% include alert.html class='alert' title='Due Date' text="
+Complete a first draft of your [visual essays](visual-essay-guidelines) to gauge how long its taking!
+"%}
+
+In class we'll discuss our on-going spatial history essays, look at how to critique a data interface, and review the [data interface critique guidelines](data-interface-critique). You should read these ahead of time, but there's no other required reading.
 
 #### Et cetera
 - American Historical Association, [Evaluation of Digital Scholarship in History](https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-professional-evaluation-of-digital-scholarship-by-historians)
@@ -345,35 +365,47 @@ No required articles for today. In class we'll look at how to critique a data in
 
 
 ### Thursday (Apr 18)
-- No readings: Instead, complete your [data interface critique](data-interface-critique) (or at least a solid draft)
-- IN CLASS: UNM Spatial History and NM History progress reports and discussion
+{% include alert.html class='alert' title='Due Date' text="
+Complete a first draft of your [spatial history essay](unm-spatial-history-guidelines) to gauge how your research is coming along and how long its taking
+"%}
+IN CLASS: UNM Spatial History essay questions, answers, and critiques. We will take volunteers to have their essay DRAFTS critiqued in class. It's a GREAT way to get lots of feedback and ideas for improvement.
 
 
 ## 15: Digital Activism
 
 ### Tuesday (Apr 23)
+{% include alert.html class='alert' title='Due Date' text="
+Complete a solid draft of your [data interface critique](data-interface-critique).
+"%}
+
+The below article was originally scheduled for this week but is now optional. The exercise was going to be think through how it relates to the class, even though it doesn't have any explicit connection to digital history (so that's a good reading response topic if you do one).
+- Janna Anderson and Lee Raine, [The Future of Truth and Misinformation Online](http://www.pewinternet.org/2017/10/19/the-future-of-truth-and-misinformation-online/)
+
+
+### Thursday (Apr 25)
 - Carol M. Taylor, “W.E.B. DuBois’s Challenge to Scientific Racism,” _Journal of Black Studies_ 11, no. 4 (1981): 449–60.
 - Jesse Daniels, [W.E.B. DuBois for the Twenty-First Century: On Being a Scholar-Activist in the Digital Era](https://onlinelibrary.wiley.com/doi/full/10.1111/socf.12464)
 - [W.E.B. Du Bois’s Little-Known, Arresting Modernist Data Visualizations of Black Life for the World’s Fair of 1900](https://www.brainpickings.org/2017/10/09/w-e-b-du-bois-diagrams/)
 - [Decolonizing Research](https://theconversation.com/decolonising-research-methodology-must-include-undoing-its-dirty-history-83912)
 
-### Thursday (Apr 25)
-- Janna Anderson and Lee Raine, [The Future of Truth and Misinformation Online](http://www.pewinternet.org/2017/10/19/the-future-of-truth-and-misinformation-online/)
-
 
 
 ## 16: Loose ends
 
-
 ### Tuesday (Apr 30)
-- UNM Spatial History Project Wrap Up
+{% include alert.html class='alert' title='Due Date' text="
+Make sure you have the key components of your [spatial history essay](unm-spatial-history-guidelines) project completed to make sure you're on track to get everything finalized next week.
+"%}
 
-#### TO-DO
-- Make sure you have the key components of your spatial history project completed so we can solve problems and answer questions.
 
 ### Thursday (May 2)
-- Review and critique of [visual essays](visual-essays) --- very helpful for making yours better before the final due date.
-- Essential tips for finalizing your essays and portfolios.
+- Review and critique of our [visual essays](visual-essay-guidelines) --- very helpful for making yours better before the final due date.
+- Don't miss essential tips for finalizing your essays and portfolios.
 
-## Final Deadline
-- All work is due Tuesday, May 7, by 9:30am (the end of our scheduled final exam). Everyone is welcome to an extension until 5:00pm, Friday, May 10. Please send me a quick email to tell me when you've concluded work on your portfolio.
+{% include alert.html class='info' title='FINAL DEADLINE' text="
+Technically, all work is due Tuesday, May 7, by 9:30am, which is the end of our scheduled final exam. (we of course don't have an actual exam)
+
+HOWEVER: Everyone is welcome to an extension until 5:00pm, Friday, May 10.
+
+If you finish before then, I'd very much appreciate a quick email to let me know so I can get a jump on (re)evaluating all your work.
+"%}
