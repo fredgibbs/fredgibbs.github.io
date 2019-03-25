@@ -8,7 +8,7 @@ header: digital-history
 ---
 
 # Campus History Guidelines
-This guide provides the instructions for our collaborative campus history assignment. You'll pick a particular building on campus---you can consult this [a list of options](https://en.wikipedia.org/wiki/List_of_University_of_New_Mexico_buildings). We'll each write a short history of that building based on archival sources from the Special Collections in Zimmerman (the Center for Southwest Research)---where almost all University archival materials are held. Librarians will help us find stuff, but it will be up to us to make good use of it.
+This guide provides the instructions for our collaborative campus history assignment. You'll pick a particular building or space on campus---you can consult this [a list of options](https://en.wikipedia.org/wiki/List_of_University_of_New_Mexico_buildings). We'll each write a short history of that building or space based on archival sources from the Special Collections in Zimmerman (the Center for Southwest Research)---where almost all University archival materials are held. Librarians will help us find stuff, but it will be up to us to make good use of it.
 
 We are arbitrarily, but defensibly, limiting our sources to what we can find at CSWR (which is the official archive of the University), so don't worry about outside sources.
 
@@ -20,13 +20,14 @@ Rather than post these on your digital portfolios, we're going to make a separat
 
 
 ## Research Process
-- Pick a building that is or was on campus. Buildings that no longer exist have important spatial histories, too! Take a few minutes to find something that interests you.
-- Add your name (in the author column) and building/place (in the place-name column) to our [UNM Campus History Index](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit?usp=sharing)
+- You've already picked a place and added your name (in the author column) and building/place (in the place-name column) to our [UNM Campus History Index](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit?usp=sharing)
   - Ignore all the other columns for now
   - Note that the data on this page will be used on our collaborative website, take care with details!
 - Go to the Center for Southwest Research in Zimmerman Library. To get there, enter Zimmerman through the main door, then make a U-turn to the left. Note all the cool archival stuff in the display cases.
 - Proceed to the round service kiosk, where you need to store your bags. You can take whatever you need into the reading room, except food/drink.
-- Go in the Reading Room, find a computer, and navigate to the [Rocky Mountain Online Archive Advanced Search](https://rmoa.unm.edu/advanced.php)
+- Go in the Reading Room, say hello to the librarian at the reference desk, and tell them you're doing research on a campus place for your digital history class. They can point you to the shelf of books on UNM Campus histories ([Only in New Mexico](https://unm-worldcat-org.libproxy.unm.edu/title/only-in-new-mexico-an-architectural-history-of-the-university-of-new-mexico-the-first-century-1889-1989/oclc/42420906&referer=brief_results) is probably the most important). There is also a book on reserve at the reference desk, [A History of the buildings of the University of New Mexico](https://unm-worldcat-org.libproxy.unm.edu/title/history-of-the-buildings-of-the-university-of-new-mexico-1890-1934/oclc/55135823&referer=brief_results) that you get as well.
+- Skim through the books to get a sense of campus history, especially as pertains to your space.
+- Find a computer, and navigate to the [Rocky Mountain Online Archive Advanced Search](https://rmoa.unm.edu/advanced.php)
 - Enter the name of your building or place (you need to spell it correctly), and USE QUOTES if it's multiple words (or you'll get results with ANY of the words)
 - For the Institutions field, pick "University of New Mexico Center for Southwest Research"
 - Once you click on an item from the search results, note the "Collection Number" near the top of the page, and find the relevant Box number further down the page for the building you're looking for.

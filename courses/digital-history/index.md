@@ -37,7 +37,10 @@ In addressing these questions, we'll draw from contemporary readings in history,
 ## Work Requirements and Grading
 NOTE THAT ALL WORK IS OPTIONAL! You need to do as many assignments to get whatever grade you want. There are more assignments given than anyone needs to do. Do the ones that interest you and do them well! Note that point values are the MAXIMUM possible, not what you get for merely completing them.
 
-{% include alert.html class='info' title="OLD GRADING TEXT THAT WE'RE NOT USING ANYMORE, SEE BELOW FOR THE CORRECT INFO" text="
+{% include alert.html class='info' title="OLD GRADING TEXT" text="
+
+## Everything in this blue box is OLD! All final scoring opportunities and the grading scale are listed below.
+
 - Thorough preparedness and engaged participation in most every class meeting. This is a class that's focused on discussing and making things, not just memorizing and regurgitating a historical narrative. (30 points; note this is roughly 2 points per day)
 - Reading responses (0-2 points each). See the [Response guidelines](response-guidelines).
 - Transcription Assignment (10 points)
@@ -62,6 +65,8 @@ Points | Grade
 67-69 | D+
 60-66 | D
 59- | F
+
+## Everything in this blue box is OLD! All final scoring opportunities and the grading scale are listed below.
 "%}
 
 

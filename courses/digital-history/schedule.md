@@ -266,12 +266,21 @@ We didn't quite get to these last time, so it's our top priority for today. Shou
 - Discussion of collaborative **20 point** [UNM spatial history project](unm-spatial-history-guidelines)
   - Remember this is a spatial history, not just a building history. For instance, keep in mind how sources like this [Co-Ed Code](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1006&context=unm_coed_code) can help you.
 
-
 - Roopika Risam, [Beyond the Margins: Intersectionality and the Digital Humanities](http://www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html)
 - Moya Z. Bailey, [All the Digital Humanists are White, all the Nerds are Men, but Some of Us Are Brave](http://journalofdigitalhumanities.org/1-1/all-the-digital-humanists-are-white-all-the-nerds-are-men-but-some-of-us-are-brave-by-moya-z-bailey/)
 
 
+
 ### Thursday (Mar 28)
+{% include alert.html class='danger' title='Choose your place' text="
+- Read the [UNM Spatial History Guidelines](unm-spatial-history-guidelines).
+- Before class, pick a building or space on campus. Buildings that no longer exist have important spatial histories, too! Take a few minutes to find something that interests you.
+- You can consult this [list](https://en.wikipedia.org/wiki/List_of_University_of_New_Mexico_buildings) to get started, but you can do anything you want as long as no one else has claimed it.
+- Add your name (in the author column) and building/place (in the place-name column) to our [UNM Campus History Index](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit?usp=sharing)
+  - Ignore all the other columns for now
+  - Note that the data on this page will be used on our collaborative website, take care with details!
+"%}
+
 - Americo Paredes, _The Hammon and the Beans and Other Stories_ (Houston, TX: Arte Publico Press, 1994), 3-9.
   - How does intersectionality affect how space is conceived or structured? In other words, how is space modified by race, class, and gender? When reading Paredes think about what the landscape tells us about these positionalities. Who moves between the different spaces in the short story, who determines the spacial boundaries and their markers?  What can be read in this movement? As White states in What is Spatial History? (week 9!)  we "produce and reproduce space through our movements and the movements of goods..." and I would add the movement of  ideologies  as well.
 
@@ -342,13 +351,16 @@ Pick one of these two and be ready to discuss:
 These are short, easy, and important, so you should read both. If you do a reading response for today, you should discuss both!
 - Sheila Brennan, [Public, First](http://dhdebates.gc.cuny.edu/debates/text/83), in _Debates in the Digital Humanities_ (2016).
 - Trevor Owens and Jesse Johnston, [Archivists as Peers in Digital Public History](https://osf.io/preprints/lissa/4hvtb/).
+- Review assignment steps for Thursday.
 
 ### Thursday (Apr 11)
 {% include alert.html class='danger' title='Campus History Test' text="
-Building off our testfiles checkpoint: for today, put a dummy Markdown file for your UNM space (with appropriate file name) in our [essays folder in our repository](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays) and be sure you can get at least one image to show up that you've saved in our [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images). Remember you add images by navigating to the the images folder and either dragging and dropping a single file, or click on 'choose your files' and select a bunch at once (much easier!). If you confused about code, USE THE SAMPLE!
+- Building off our testfiles exercise: for today, put a sample Markdown file for your UNM space (with appropriate file name) in our [essays folder in our repository](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays).
+- You don't have to have done any research---you can simply use the text from [my sample](https://raw.githubusercontent.com/unm-campus-histories/spaces/master/docs/essays/mesa-vista-hall.md).
+- Be sure you can get at least one image to show up that you've saved in our [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images). Remember you add images by navigating to the the images folder and either dragging and dropping a single file, or click on 'choose your files' and select a bunch at once (much easier!). If you confused about code, take what you need from [THE CODE SAMPLES PAGE](https://unm-campus-histories.github.io/spaces/code)!
 "%}
 
-{% include alert.html class='warning' title='Campus History Test' text="
+{% include alert.html class='warning' title='Image problems?' text="
 If your images aren't showing up, there is 99% change you referencing the wrong filename or folder.
 - check the file extension (.jpg, .jpeg, .JPG, .png)
 - check capitalization (mesa-vista is NOT THE SAME as Mesa-Vista)
@@ -363,14 +375,14 @@ Pick one of these two and be ready to discuss:
 
 
 
-## 14: Critiquing Digital History
+## 14: Critiquing Data Interfaces
 
 ### Tuesday (Apr 16)
 {% include alert.html class='warning' title='Recommended Due Date' text="
 Complete a first draft of your [visual essays](visual-essay-guidelines) to gauge how long its taking and what kind of images you can find.
 "%}
 
-In class we'll discuss our on-going spatial history essays, look at how to critique a data interface, and review the [data interface critique guidelines](data-interface-critique). You should read these ahead of time, but there's no other required reading.
+In class we'll discuss our on-going visual essays, look at how to critique a data interface, and review the [data interface critique guidelines](data-interface-critique). You should read these ahead of time, but there's no other required reading.
 
 #### Et cetera
 - American Historical Association, [Evaluation of Digital Scholarship in History](https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-professional-evaluation-of-digital-scholarship-by-historians)
@@ -381,12 +393,12 @@ In class we'll discuss our on-going spatial history essays, look at how to criti
 {% include alert.html class='warning' title='Recommended Due Date' text="
 Complete an outline or very rough draft of your [spatial history essay](unm-spatial-history-guidelines) to gauge how your research is coming along and how long its taking.
 <hr>
-Ideally, you should post your markdown essay to our [essays folder in our repository](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays), with all your images in the [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images).
+Remember, you should post your markdown essay to our [essays folder in our repository](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays), with all your images in the [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images).
 <hr>
 Then you can visit the URL of your page to see it live. The URL will look like https://unm-campus-histories.github.io/spaces/essays/mesa-vista-hall. Just replace `mesa-vista-hall` with your own markdown file name.
 This will make sure you're on track to get everything finalized next week and get any research or formatting questions answered before we don't have any regular meeting scheduled.
 "%}
-"%}
+
 IN CLASS: UNM Spatial History essay questions, answers, and critiques. We will take volunteers to have their essay DRAFTS critiqued in class. It's a GREAT way to get lots of feedback and ideas for improvement.
 
 
@@ -420,7 +432,7 @@ Make sure you have a complete draft of your [visual essays](visual-essay-guideli
 
 
 ### Thursday (May 2)
-{% include alert.html class='danger' title='Recommended Due Date' text="
+{% include alert.html class='warning' title='Recommended Due Date' text="
 Make sure you have a complete draft of your [spatial history essay](unm-spatial-history-guidelines) posted to our [essays folder in our repository](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays), with all your images in the [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images). This will make sure you're on track to get everything finalized next week and get any research or formatting questions answered before we don't have any regular meetings scheduled.
 "%}
 

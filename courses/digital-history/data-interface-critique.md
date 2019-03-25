@@ -14,10 +14,11 @@ header: digital-history
 - ~800 words, but the quality is far more important than the quantity
 - Judicious use of subheadings to delineate your main topics
 - Clear, concise, and meaningful writing (no fluff!)
-- Must include at least 4 screenshots of what you're doing (both the texts you transcribe and the aspects of the interface you want to critique).
+- Must include at least 4 screenshots of what you're critiquing
 - Reflect critically on what you're doing using course readings. This is not optional--the point of the readings is that you can use them!
 
 ## Goals of critiques
+Like any critique or review, you're 
 - Provide some summary of the main features / functionality
 - Make it clear what the goals of the project are
 - Note stated or apparent intended audience (and whether it's in fact useful for them)
@@ -25,9 +26,8 @@ header: digital-history
 - Make a note of aspects that work well
 - Make a note of aspects that need improvement (and why!)
 - Remember to incorporate our readings from earlier in the semester (_yes in fact there was a reason we read all those_)
-- In particular, think about how maps, databases, interfaces, shape the kinds of interpretations the website is meant to facilitate.
+- In particular, think about how maps, databases, interfaces, and visualizations shape the kinds of interpretations the website is meant to facilitate.
 - Most important: Organize your critiques by the particular points you want to make (this helps you avoid a rambling or process-narrative critique).
-- Give at least specific example to illustrate your point
 
 ## PRO TIPS
 - Avoid writing a 'process narrative'---that is, a description of "First I clicked this, then I clicked that, but it didn't work, so I clicked something else." **Nobody cares what you clicked on**.
