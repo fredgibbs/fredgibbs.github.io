@@ -320,13 +320,13 @@ Peruse these beforehand:
   - has no spaces
   - is all lower case
   - ends with `.md`
-- Be sure you are logged into GitHub, then add your Markdown file to our repository. To do this, click on the `testfiles` folder, then drag and drop your file onto your browser window.
+- Be sure you are logged into GitHub, then add your Markdown file to [our GitHub repository](https://github.com/unm-campus-histories/spaces). To do this, click on the `testfiles` folder, or simply click [HERE](https://github.com/unm-campus-histories/spaces/tree/master/testfiles) then drag and drop your file onto your browser window. You should see my own test file there, `fred-gibbs.md`. If you don't see my file, you're in the wrong place!
 "%}
 
 
 ### Thursday (Apr 4)
 {% include alert.html class='danger' title='GitHub Test' text="
-Make sure your Markdown file is in the `testfiles` folder!
+Make sure your Markdown file is in the `testfiles` [folder](https://github.com/unm-campus-histories/spaces/tree/master/testfiles)!
 "%}
 
 Pick one of these two and be ready to discuss:
@@ -344,6 +344,19 @@ These are short, easy, and important, so you should read both. If you do a readi
 - Trevor Owens and Jesse Johnston, [Archivists as Peers in Digital Public History](https://osf.io/preprints/lissa/4hvtb/).
 
 ### Thursday (Apr 11)
+{% include alert.html class='danger' title='Campus History Test' text="
+Building off our testfiles checkpoint: for today, put a dummy Markdown file for your UNM space (with appropriate file name) in our [essays folder in our repository](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays) and be sure you can get at least one image to show up that you've saved in our [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images). Remember you add images by navigating to the the images folder and either dragging and dropping a single file, or click on 'choose your files' and select a bunch at once (much easier!). If you confused about code, USE THE SAMPLE!
+"%}
+
+{% include alert.html class='warning' title='Campus History Test' text="
+If your images aren't showing up, there is 99% change you referencing the wrong filename or folder.
+- check the file extension (.jpg, .jpeg, .JPG, .png)
+- check capitalization (mesa-vista is NOT THE SAME as Mesa-Vista)
+- check for spaces and dashes (mesa-vista is NOT THE SAME as mesa vista)
+- make sure your image file is where it is supposed to be, in docs/essays/images.
+- make sure your image path in your code starts with `images\`
+"%}
+
 Pick one of these two and be ready to discuss:
 - Andrew Hurley, “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” _The Public Historian_ 38, no. 1 (2016): 69–88.
 - Bruce Wyman et al., “Digital Storytelling in Museums: Observations and Best Practices,” _Curator: The Museum Journal_ 54, no. 4 (2011): 461–68.
@@ -367,6 +380,12 @@ In class we'll discuss our on-going spatial history essays, look at how to criti
 ### Thursday (Apr 18)
 {% include alert.html class='warning' title='Recommended Due Date' text="
 Complete an outline or very rough draft of your [spatial history essay](unm-spatial-history-guidelines) to gauge how your research is coming along and how long its taking.
+<hr>
+Ideally, you should post your markdown essay to our [essays folder in our repository](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays), with all your images in the [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images).
+<hr>
+Then you can visit the URL of your page to see it live. The URL will look like https://unm-campus-histories.github.io/spaces/essays/mesa-vista-hall. Just replace `mesa-vista-hall` with your own markdown file name.
+This will make sure you're on track to get everything finalized next week and get any research or formatting questions answered before we don't have any regular meeting scheduled.
+"%}
 "%}
 IN CLASS: UNM Spatial History essay questions, answers, and critiques. We will take volunteers to have their essay DRAFTS critiqued in class. It's a GREAT way to get lots of feedback and ideas for improvement.
 
@@ -393,12 +412,16 @@ The below article was originally scheduled for this week but is now optional. Th
 ## 16: Loose ends
 
 ### Tuesday (Apr 30)
-- Review and critique of our [visual essays](visual-essay-guidelines) --- very helpful for making yours better before the final due date.
+{% include alert.html class='warning' title='Recommended Due Date' text="
+Make sure you have a complete draft of your [visual essays](visual-essay-guidelines) posted to your portfolio. We'll review and critique some of your essays (usually there are plenty of volunteers), which help outline both general and specific concrete examples for making yours better before the final due date.
+"%}
+
+
 
 
 ### Thursday (May 2)
-{% include alert.html class='warning' title='Recommended Due Date' text="
-Make sure you have a complete draft of your [spatial history essay](unm-spatial-history-guidelines) to make sure you're on track to get everything finalized next week and get any research or formatting questions answered.
+{% include alert.html class='danger' title='Recommended Due Date' text="
+Make sure you have a complete draft of your [spatial history essay](unm-spatial-history-guidelines) posted to our [essays folder in our repository](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays), with all your images in the [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images). This will make sure you're on track to get everything finalized next week and get any research or formatting questions answered before we don't have any regular meetings scheduled.
 "%}
 
 - Don't miss essential tips for finalizing your essays and portfolios!
