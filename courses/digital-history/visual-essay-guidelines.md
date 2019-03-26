@@ -7,12 +7,12 @@ section: schedule
 header: digital-history
 ---
 
-# Revealing New Mexico
+# Visual Essay Guidelines
 
-### (Our Collaborative Digital History Project)
+### (Replacing our collaborative NM History project)
 
 ## Goals for the course
-We've talked _ad nauseum_ about the advantages and limitations of digital archives and storytelling. In this assignment, you're going to write a history of your topic (that we decided much earlier) almost entirely from digital images.
+We've talked _ad nauseum_ about the advantages and limitations of digital archives and storytelling. In this assignment, you're going to write a history of any topic almost entirely in terms of digital images. You can use the NM history topic you picked much earlier, or do something TOTALLY DIFFERENT. It's up to you. Pick something you have some interest in learning about, since research is still required---although not nearly as much as before.
 
 Clearly, this is a highly restrictive and artificial limitation, but one that represents research in the real world, as there are always arbitrary limitations (whether geography, time or access, etc). It's also an extreme test of the power of digital essays to (potentially) create more engaging histories. In your essay, therefore, you should comment on how this kind of restriction affects your ability to tell an interesting and accurate story about your topic.
 
