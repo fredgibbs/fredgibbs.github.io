@@ -41,7 +41,7 @@ At the end of your essay, you should list the full bibliographic entry of your s
 ## Image Credits
 At the end of your image caption, you should have a hyperlink that takes the reader to the digital source of your image, which will look like `[source]`. Please don't make the brackets part of the hyperlink. Have the link go to wherever you found the image. A working example might look like:
 
-![https://econtent.unm.edu/digital/api/singleitem/image/ULPhotoImag/912/default.jpg]
+![protestors in front of MVH](https://econtent.unm.edu/digital/api/singleitem/image/ULPhotoImag/912/default.jpg)
 Protestors and spectators on Cornell Mall after the arrival of the National Guard on UNM campus. Mesa Vista Hall in background. [[source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/912/rec/6)]
 
 As a class exercise, we are operating under the doctrine of fair use, so we don't need to worry about copyright for our website. Still, we should always be respectful of the fact that every image is a creative work subject to copyright.
