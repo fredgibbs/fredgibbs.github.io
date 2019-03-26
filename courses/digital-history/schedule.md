@@ -272,8 +272,16 @@ We didn't quite get to these last time, so it's our top priority for today. Shou
 
 ### Thursday (Mar 28)
 - Discussion of collaborative **20 point** [UNM spatial history project](unm-spatial-history-guidelines)
-  - If you haven't already, read through the guidelines before class so it's not totally new to you.
+  - Before class, read the [UNM Spatial History Guidelines](unm-spatial-history-guidelines).
   - Remember this is a spatial history, not just a building history. For instance, keep in mind how sources like this [Co-Ed Code](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1006&context=unm_coed_code) can help you.
+
+{% include alert.html class='danger' title='Choose your place' text="
+- Before class, pick a building or space on campus. Buildings that no longer exist have important spatial histories, too! Take a few minutes to find something that interests you.
+- You can consult this [list](https://en.wikipedia.org/wiki/List_of_University_of_New_Mexico_buildings) to get started, but you can do anything you want as long as no one else has claimed it.
+- Add your name (in the author column) and building/place (in the place-name column) to our [UNM Campus History Index](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit?usp=sharing)
+  - Ignore all the other columns for now
+  - Note that the data on this page will be used on our collaborative website, take care with details!
+"%}
 
 
 - Americo Paredes, _The Hammon and the Beans and Other Stories_ (Houston, TX: Arte Publico Press, 1994), 3-9.
@@ -297,19 +305,10 @@ Drawing only from the cues in the short story, draw a map of Jonesville on the G
 ## 12: Historical Authorities of Knowledge + Collaboration
 
 ### Tuesday (Apr 2)
-
 {% include alert.html class='warning' title='Recommended Due Date' text="
 Recommended first draft of your [geo-referencing exercise](georeferencing-guidelines)
 "%}
 
-{% include alert.html class='danger' title='Choose your place' text="
-- Read the [UNM Spatial History Guidelines](unm-spatial-history-guidelines).
-- Before class, pick a building or space on campus. Buildings that no longer exist have important spatial histories, too! Take a few minutes to find something that interests you.
-- You can consult this [list](https://en.wikipedia.org/wiki/List_of_University_of_New_Mexico_buildings) to get started, but you can do anything you want as long as no one else has claimed it.
-- Add your name (in the author column) and building/place (in the place-name column) to our [UNM Campus History Index](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit?usp=sharing)
-  - Ignore all the other columns for now
-  - Note that the data on this page will be used on our collaborative website, take care with details!
-"%}
 
 Today's class will be split into two halves; the first part a discussion of History and Wikipedia, the second a discussion about the technology required for our collaborative spatial history project.
 
