@@ -27,33 +27,25 @@ AS ALWAYS: Part of the goal of your digital portfolios is to show off ability to
 ## Basic Requirements
 - Needs to be a separate PAGE on your portfolio, NOT a blog post
 - MAX 400 words, not counting captions. This does not mean essays are going to be SHORT, though, since you'll have a lot of images.
-- Meaningful images---a set number is kind of silly given the variety of topics you've picked out, but you should have close to 10.
-- Remember that not all images will be directly related to your topic---some will be for historical context.
-- Your prose should fill in the gaps, but the images (and captions) are the heart of the story. THIS IS GOING TO BE VERY FRUSTRATING AND THAT'S THE POINT.
+- Meaningful images---a set number is kind of silly given the variety of topics you've picked out, but you should have 10-15. Less than that makes the essay harder, because you won't have enough for a story.
+- Remember that not all images will be **directly** related to your topic---some will be representative of historical context.
+- Carefully written captions are key to the success of this exercise. They need to be sharp, concise, and informative. Don't just label the image, make sure it's clear what it's doing in tyour essay. Don't be ridiculous with the length of your captions (ie don't write full paragraphs and pretend it's OK).
+- Your prose should fill in the gaps, but the images (and captions) must be the heart of the story. THIS IS GOING TO BE FRUSTRATING AND THAT'S THE POINT.
 - I can't give precise formatting or layout requirements because there aren't any. The exercise is to think about how best to communicate visually. You should be used to the Wix editor by now (remedy this ASAP if not) so that you can make pages look the way you want. ASK IN CLASS IF YOU CAN'T; there is a 0% chance you are the only person with that question.
-- Don't be ridiculous with the length of your captions (ie don't write full paragraphs and pretend it's OK).
 - Reflect critically on what you're doing using course readings. This is not optional---the point of the readings is that you can use them!
 
 
-## Essay Requirements
-- **Citations** are the primary indication of the breadth and depth of your research. You should have at least 5 original historical sources and 5 secondary sources. You should have more, but if you don't have at least 5, I'm not even going to bother grading it.
-- **Engaging storytelling**, with minimal use of passive voice.
-- **Images with descriptive captions**. Use images not merely as eye candy, but to visually communicate the main points of your story.
-- **Meaningful headings** that provide clear structure and communicate main topics.
-
-## Citations
-For inline citations, we will use author date notation (Smith 1975, 13). **Cite the most trusted original historical source that you can.** Keep in mind that "publications" like webpages are not trustworthy. But you can use them to help you identify useful sources.
-
-Be as specific and consistent as you can with your citations, even though some of your historical sources may require some improvising.
-
 ## Sources
-At the end of your essay, you should list the full bibliographic entry for your source to complement the inline citations that appear in the text. Use a second-level heading that says "Sources" (with no colon) at the top of this section.
+At the end of your essay, you should list the full bibliographic entry of your sources and images. Use whatever style you're most familiar with (Chicago, APA, whatever), but be consistent.
 
 ## Image Credits
-Provide descriptive phrases for your captions. As with your (limited) text, you must provide detailed citations to your image sources. As a class exercise, we are operating under the doctrine of fair use, so we don't need to worry about copyright for our website. Still, we should always be respectful of the fact that every image is a creative work subject to copyright.
+At the end of your image caption, you should have a hyperlink that takes the reader to the digital source of your image, which will look like `[source]`. Please don't make the brackets part of the hyperlink. Have the link go to wherever you found the image. A working example might look like:
 
-## Section Headings
-Do not use **bold** in your headings; use an appropriate heading level (as shown below). We can create new styles if need be. For your reference, all the headings styles are demonstrated below. Remember that you must have a space between the ### and the actual heading!
+![https://econtent.unm.edu/digital/api/singleitem/image/ULPhotoImag/912/default.jpg]
+Protestors and spectators on Cornell Mall after the arrival of the National Guard on UNM campus. Mesa Vista Hall in background. [[source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/912/rec/6)]
+
+As a class exercise, we are operating under the doctrine of fair use, so we don't need to worry about copyright for our website. Still, we should always be respectful of the fact that every image is a creative work subject to copyright.
+
 
 ## Grading
 - 0-2: Technically the assignment is done, but doesn't tell a cohesive story, has very limited images, or clearly rushed writing.

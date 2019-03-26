@@ -262,9 +262,8 @@ In class we'll survey a few transcription projects and go over instructions for 
 
 ### Tuesday (Mar 26)
 We didn't quite get to these last time, so it's our top priority for today. Should only take 20 minutes or so, but we can be more efficient in you've browsed the exercise guidelines ahead of time. As with all exercises, these are optional, but also opportunities for easy points.
+- Discussion of assignments, recommended due dates, and scoring updates
 - Discussion of [geo-referencing exercise](georeferencing-guidelines)
-- Discussion of collaborative **20 point** [UNM spatial history project](unm-spatial-history-guidelines)
-  - Remember this is a spatial history, not just a building history. For instance, keep in mind how sources like this [Co-Ed Code](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1006&context=unm_coed_code) can help you.
 
 - Roopika Risam, [Beyond the Margins: Intersectionality and the Digital Humanities](http://www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html)
 - Moya Z. Bailey, [All the Digital Humanists are White, all the Nerds are Men, but Some of Us Are Brave](http://journalofdigitalhumanities.org/1-1/all-the-digital-humanists-are-white-all-the-nerds-are-men-but-some-of-us-are-brave-by-moya-z-bailey/)
@@ -272,14 +271,10 @@ We didn't quite get to these last time, so it's our top priority for today. Shou
 
 
 ### Thursday (Mar 28)
-{% include alert.html class='danger' title='Choose your place' text="
-- Read the [UNM Spatial History Guidelines](unm-spatial-history-guidelines).
-- Before class, pick a building or space on campus. Buildings that no longer exist have important spatial histories, too! Take a few minutes to find something that interests you.
-- You can consult this [list](https://en.wikipedia.org/wiki/List_of_University_of_New_Mexico_buildings) to get started, but you can do anything you want as long as no one else has claimed it.
-- Add your name (in the author column) and building/place (in the place-name column) to our [UNM Campus History Index](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit?usp=sharing)
-  - Ignore all the other columns for now
-  - Note that the data on this page will be used on our collaborative website, take care with details!
-"%}
+- Discussion of collaborative **20 point** [UNM spatial history project](unm-spatial-history-guidelines)
+  - If you haven't already, read through the guidelines before class so it's not totally new to you.
+  - Remember this is a spatial history, not just a building history. For instance, keep in mind how sources like this [Co-Ed Code](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1006&context=unm_coed_code) can help you.
+
 
 - Americo Paredes, _The Hammon and the Beans and Other Stories_ (Houston, TX: Arte Publico Press, 1994), 3-9.
   - How does intersectionality affect how space is conceived or structured? In other words, how is space modified by race, class, and gender? When reading Paredes think about what the landscape tells us about these positionalities. Who moves between the different spaces in the short story, who determines the spacial boundaries and their markers?  What can be read in this movement? As White states in What is Spatial History? (week 9!)  we "produce and reproduce space through our movements and the movements of goods..." and I would add the movement of  ideologies  as well.
@@ -307,6 +302,15 @@ Drawing only from the cues in the short story, draw a map of Jonesville on the G
 Recommended first draft of your [geo-referencing exercise](georeferencing-guidelines)
 "%}
 
+{% include alert.html class='danger' title='Choose your place' text="
+- Read the [UNM Spatial History Guidelines](unm-spatial-history-guidelines).
+- Before class, pick a building or space on campus. Buildings that no longer exist have important spatial histories, too! Take a few minutes to find something that interests you.
+- You can consult this [list](https://en.wikipedia.org/wiki/List_of_University_of_New_Mexico_buildings) to get started, but you can do anything you want as long as no one else has claimed it.
+- Add your name (in the author column) and building/place (in the place-name column) to our [UNM Campus History Index](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit?usp=sharing)
+  - Ignore all the other columns for now
+  - Note that the data on this page will be used on our collaborative website, take care with details!
+"%}
+
 Today's class will be split into two halves; the first part a discussion of History and Wikipedia, the second a discussion about the technology required for our collaborative spatial history project.
 
 If you miss class you will create a lot of confusion for yourself and waste time. What we're doing cannot be explained effectively via email, and I will not teach this class again to you personally during office hours---so you need to be in class. We will be using these tools for our spatial history project and there is no alternative. Of course I will help you with problems, but you need to see the explanation in person first.
@@ -325,7 +329,7 @@ Peruse these beforehand:
 - As with all our other tools, we're using real world tools as part of our survey of digital interfaces to history.
 - Create a free and secure account at [GitHub](http://github.com). You can pick any username/password you want---it's independent of UNM and Zotero.
 - Add your GitHub username to our shared Google Doc by the end of the day, and I'll invite everyone to join our GitHub Team. Like Zotero, You'll get an email asking if you want to accept the invitation. Do it!
-- Use either [Dillinger](https://dillinger.io/) or a text editor (like [Atom](https://atom.io)) to create a plaintext Markdown file with some dummy text that includes some Markdown formatting. Be sure to save it as `firstname-lastname.md` (example: `fred-gibbs.md`). The text in your file doesn't matter, but make sure your filename:
+- Use either [Dillinger](https://dillinger.io/) or a text editor (like [Atom](https://atom.io)) to create a plaintext Markdown file with some dummy text that includes some Markdown formatting---this shows me you understand the basics of Markdown. Be sure to save it as `firstname-lastname.md` (example: `fred-gibbs.md`). The text in your file doesn't matter, but make sure your filename:
   - has no spaces
   - is all lower case
   - ends with `.md`
@@ -356,7 +360,7 @@ These are short, easy, and important, so you should read both. If you do a readi
 ### Thursday (Apr 11)
 {% include alert.html class='danger' title='Campus History Test' text="
 - Building off our testfiles exercise: for today, put a sample Markdown file for your UNM space (with appropriate file name) in our [essays folder in our repository](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays).
-- You don't have to have done any research---you can simply use the text from [my sample](https://raw.githubusercontent.com/unm-campus-histories/spaces/master/docs/essays/mesa-vista-hall.md).
+- You don't have to have done any research---you can simply use the text from [my sample](https://raw.githubusercontent.com/unm-campus-histories/spaces/master/docs/essays/mesa-vista-hall.md). Simply copy and paste this text into your editor, save it as a text file, and drag and drop it into the essays folder. You can also create a file directly on GitHub by using the "Create New File" button, and copying and pasting text into the editor window.
 - Be sure you can get at least one image to show up that you've saved in our [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images). Remember you add images by navigating to the the images folder and either dragging and dropping a single file, or click on 'choose your files' and select a bunch at once (much easier!). If you confused about code, take what you need from [THE CODE SAMPLES PAGE](https://unm-campus-histories.github.io/spaces/code)!
 "%}
 

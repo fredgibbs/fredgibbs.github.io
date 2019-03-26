@@ -81,6 +81,8 @@ Points | Grade
 - [Data Interface Critique](data-interface-critique) (10 points)
 - Complete and clean Digital Portfolio (10 points)
 
+NOTE: If you have already done significant work on an original assignment that can't transfer to the new ones (or if you don't want to do that), you are more than welcome to complete the original assignment instead.
+
 ### Grade Distribution
 Note everything is 10 points less than before to make up for getting behind earlier and not presenting enough scoring opportunities.
 

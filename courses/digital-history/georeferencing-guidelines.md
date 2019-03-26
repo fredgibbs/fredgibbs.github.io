@@ -27,17 +27,19 @@ Now, the putty will be stretched in various directions (often different amounts 
 Like the transcription exercise, this work helps others use historic maps in digital research. It also helps us think about the difference between modern digital web maps and older analog ones.
 
 
-## Goals beyond the course
-Part of the goal of your digital portfolios is to show off your fluency moving between digital/analog texts + tools and qualitative/quantitative methods + analyses. Imagine that you are writing this for a potential employer who is intrigued by the "Digital History" course on your transcript. **Describe (in terms of the map exercise) how the relevant aspects of the course help you think differently.**
-
 ## Basic Requirements
 - Needs to be a separate PAGE on your portfolio, NOT a blog post
 - ~800 words, but there is no maximum, so take the space you need to describe and analyze your experience.
-- Show me that you've done the geo-referencing assignment---to geo-rectify AT LEAST TWO maps via the [David Rumsey Map Georeferencer](https://www.davidrumsey.com/view/georeferencer)---one of a place you kind of know, and one you don't know at all.
+- Show me that you've done the geo-referencing assignment---to geo-rectify AT LEAST TWO maps via the [David Rumsey Map Georeferencer](https://www.davidrumsey.com/view/georeferencer)---ideally one of a place you know fairly well, and one you don't know at all.
 - NOTE: If you spend a lot of time on a map (placing lots of points) and the maps still don't seem to be aligning very well, move on! Some historical maps can take a zillion points to really get right and that's not the point of the exercise.
 - Document your experience to a general audience, namely what kinds of features you used, how easy it was to find corresponding features evenly across the map.
-- Clear, concise, and meaningful writing (no fluff!)
 - Must include screenshots of what you're doing. Before and after shots of the maps would be appropriate, as well as zoomed in images that highlight map details (features) you mention in your description.
+- Clear, concise, and meaningful writing (no fluff!)
+- If you want to geo-reference a map from somewhere else (not the Rumsey Collection), that's fine! You can use a great open source tool called [Map Warper](https://mapwarper.net) and document your experience with that tool.
+
+## Goals beyond the course
+Part of the goal of your digital portfolios is to show off your fluency moving between digital/analog texts + tools and qualitative/quantitative methods + analyses. Imagine that you are writing this for a potential employer who is intrigued by the "Digital History" course on your transcript. **Describe (in terms of the map exercise) how the relevant aspects of the course help you think differently.**
+
 
 
 ## What to comment on
