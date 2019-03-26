@@ -7,7 +7,7 @@ section: schedule
 header: digital-history
 ---
 
-# Map Guidelines
+# Geo-referencing Guidelines
 
 ## The nature of geo-referencing
 We've already done a transcription exercise, which helped us experience and think about different kinds of texts and archival creation. It was awesome.
@@ -41,7 +41,6 @@ Like the transcription exercise, this work helps others use historic maps in dig
 Part of the goal of your digital portfolios is to show off your fluency moving between digital/analog texts + tools and qualitative/quantitative methods + analyses. Imagine that you are writing this for a potential employer who is intrigued by the "Digital History" course on your transcript. **Describe (in terms of the map exercise) how the relevant aspects of the course help you think differently.**
 
 
-
 ## What to comment on
 For the project critique, below are some possible themes and questions you might ask yourself and comment on in your response. This is not an exhaustive or restrictive list! But remember, **these more pedestrian questions are not as important as the critical reflection component,** so don't spend a lot of words on them.
 
@@ -58,6 +57,7 @@ For the project critique, below are some possible themes and questions you might
 ### Geo-referencing Experience
 - What was your experience with trying to align the maps? What did you learn? Did you get better at it along the way?
 - What kinds of features made it easier to align the maps and which didn't? How might this make you rethink how we read digital maps?
+
 
 ## Critical Reflection
 - **This is the most important aspect of your essay!**
