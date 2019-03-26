@@ -43,8 +43,8 @@ At the end of your image caption, you should have a hyperlink that takes the rea
 
 ![protestors in front of MVH](https://econtent.unm.edu/digital/api/singleitem/image/ULPhotoImag/912/default.jpg)
 
-<p>
-Protestors and spectators on Cornell Mall after the arrival of the National Guard on UNM campus. Mesa Vista Hall in background. [[source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/912/rec/6)]</p>
+Protestors and spectators on Cornell Mall after the arrival of the National Guard on UNM campus. Mesa Vista Hall in background. [[source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/912/rec/6)]
+
 
 
 As a class exercise, we are operating under the doctrine of fair use, so we don't need to worry about copyright for our website. Still, we should always be respectful of the fact that every image is a creative work subject to copyright.
