@@ -291,7 +291,8 @@ We didn't quite get to these last time, so it's our top priority for today. Shou
 Drawing only from the cues in the short story, draw a map of Jonesville on the Grande. As a literary cartographer, you get to decide what to include. **Bring a physical copy to class because we will be using them during class.**
 "%}
 
-- María Cotera, “Nuestra Autohistoria: Toward a Chicana Digital Praxis,” American Quarterly 70.3 (2018): 483–504.
+- María Cotera, “Nuestra Autohistoria: Toward a Chicana Digital Praxis,” _American Quarterly_ 70.3 (2018): 483–504.
+- [Chicana por mi Raza](http://www.chicanapormiraza.org/)
 - [Chicano/a Activism in the Southern Plains Interactive Map and Timeline](https://plainsmovement.com/neatline/show/interactive-map-and-timeline)
 
 
