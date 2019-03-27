@@ -292,13 +292,13 @@ Drawing only from the cues in the short story, draw a map of Jonesville on the G
 "%}
 
 - María Cotera, “Nuestra Autohistoria: Toward a Chicana Digital Praxis,” American Quarterly 70.3 (2018): 483–504.
-- Joel Zapata, “Taking Chicana/o Activist History to the Public: Chicana/o Activism in the Southern Plains through Time and Space,” _Great Plains Quarterly_ 38.4 (2018): 407–24.
 - [Chicano/a Activism in the Southern Plains Interactive Map and Timeline](https://plainsmovement.com/neatline/show/interactive-map-and-timeline)
 
 
 #### Et cetera
 - [Reclaiming the Lesbian Archives](https://academic.oup.com/ohr/article/43/1/170/1752485)
 - Alexis Lothian and Amanda Phillips, [Can Digital Humanities Mean Transformative Critique?](https://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/xmlpage/4/article/425)
+- Joel Zapata, “Taking Chicana/o Activist History to the Public: Chicana/o Activism in the Southern Plains through Time and Space,” _Great Plains Quarterly_ 38.4 (2018): 407–24.
 
 
 
