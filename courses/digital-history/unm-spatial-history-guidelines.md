@@ -31,7 +31,7 @@ Rather than post these on your digital portfolios, we're going to make a separat
   - Susan McColeman, [A History of the Buildings of the University of New Mexico: 1890-1934](https://unm-worldcat-org.libproxy.unm.edu/title/history-of-the-buildings-of-the-university-of-new-mexico-1890-1934/oclc/55135823) is on reserve at the reference desk; you need to ask for it. It's really great for the early years, but very limited in its coverage.
   - Dorothy B Hughes, [Pueblo on the Mesa: The First Fifty Years at the University of New Mexico](https://unm.worldcat.org/title/pueblo-on-the-mesa-the-first-fifty-years-at-the-university-of-new-mexico/oclc/19638445) is originally from 1939 (and a typewriter), but a worthwhile source if your place is old enough to be included. It's especially great for general campus info, but not super great as reference work (no index).
 
-- Skim through the relevant sections of these books (i.e. the parts that correspond to the life of your building) to get a sense of the culture and concerns of the University around the time your building was build or remodeled or whatever.
+- Skim through the relevant sections of these books (i.e. the parts that correspond to the life of your building) to get a sense of the culture and concerns of the University around the time your building was built or remodeled or whatever.
 - Ask the librarian for a manuscript request form.
 - Find a computer, and navigate to the [Rocky Mountain Online Archive Advanced Search](https://rmoa.unm.edu/advanced.php)
 - Enter the name of your building or place (you need to spell it correctly), and USE QUOTES if it's multiple words (or you'll get results with ANY of the words)
