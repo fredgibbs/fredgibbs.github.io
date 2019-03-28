@@ -8,7 +8,7 @@ header: digital-history
 ---
 
 # Campus History Guidelines
-This guide provides the instructions for our collaborative campus history assignment. You'll pick a particular building or space on campus---you can consult this [a list of options](https://en.wikipedia.org/wiki/List_of_University_of_New_Mexico_buildings). We'll each write a short history of that building or space based on archival sources from the Special Collections in Zimmerman (the Center for Southwest Research)---where almost all University archival materials are held. Librarians will help us find stuff, but it will be up to us to make good use of it.
+This guide provides the instructions for our collaborative campus history assignment. You'll pick a particular building or space on campus---you can consult this [a list of options](https://en.wikipedia.org/wiki/List_of_University_of_New_Mexico_buildings). We'll each write a short history of that building or space based on archival sources from the Center for Southwest Research and Special Collections in Zimmerman Library. Librarians will help us find stuff, but it will be up to us to make good use of it.
 
 We are arbitrarily, but defensibly, limiting our sources to what we can find at CSWR (which is the official archive of the University), so don't worry about outside sources.
 
