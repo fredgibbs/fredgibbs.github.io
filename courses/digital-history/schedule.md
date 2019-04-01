@@ -328,7 +328,7 @@ Peruse these beforehand:
 {% include alert.html class='info' title='Do in class or ASAP afterward' text="
 - As with all our other tools, we're using real world tools as part of our survey of digital interfaces to history.
 - Create a free and secure account at [GitHub](http://github.com). You can pick any username/password you want---it's independent of UNM and Zotero.
-- Add your GitHub username to our shared Google Doc by the end of the day, and I'll invite everyone to join our GitHub Team. Like Zotero, You'll get an email asking if you want to accept the invitation. Do it!
+- Add your GitHub username to our [shared Google Doc of GitHub usernames](https://docs.google.com/document/d/1Egg3c8LxeUo54B63HqbC-d-MSWKClvjJVfhrzxwz_YI/edit?usp=sharing) by the end of the day, and I'll invite everyone to join our GitHub Team. Like Zotero, You'll get an email asking if you want to accept the invitation. Do it!
 - Use either [Dillinger](https://dillinger.io/) or a text editor (like [Atom](https://atom.io)) to create a plaintext Markdown file with some dummy text that includes some Markdown formatting---this shows me you understand the basics of Markdown. Be sure to save it as `firstname-lastname.md` (example: `fred-gibbs.md`). The text in your file doesn't matter, but make sure your filename:
   - has no spaces
   - is all lower case
