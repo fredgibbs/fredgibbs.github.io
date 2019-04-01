@@ -317,7 +317,7 @@ If you miss class you will create a lot of confusion for yourself and waste time
 
 
 #### PART ONE
-- Roy Rosenzwieg, [Can History Be Open Source? Wikipedia and the Future of the Past]( https://www.jstor.org/stable/4486062?seq=1#metadata_info_tab_contents)
+- Roy Rosenzwieg, "Can History Be Open Source? Wikipedia and the Future of the Past." _Journal of American History_ 93.1 (2006): 117-146.
 
 #### PART TWO
 Peruse these beforehand:
