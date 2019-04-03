@@ -334,6 +334,7 @@ Peruse these beforehand:
   - is all lower case
   - ends with `.md`
 - Be sure you are logged into GitHub, then add your Markdown file to [our GitHub repository](https://github.com/unm-campus-histories/spaces). To do this, click on the `testfiles` folder, or simply click [HERE](https://github.com/unm-campus-histories/spaces/tree/master/testfiles) then drag and drop your file onto your browser window. You should see my own test file there, `fred-gibbs.md`. If you don't see my file, you're in the wrong place!
+- Click the green 'Commit Changes' button near the bottom of the page.
 "%}
 
 
