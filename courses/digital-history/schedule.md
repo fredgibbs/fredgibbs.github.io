@@ -360,13 +360,17 @@ These are short, easy, and important, so you should read both. If you do a readi
 
 ### Thursday (Apr 11)
 {% include alert.html class='danger' title='Campus History Test' text="
-- Building off our testfiles exercise: for today, put a sample Markdown file for your UNM space (with appropriate file name) in our [essays folder in our repository](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays).
-- You don't have to have done any research---you can simply use the text from [my sample](https://raw.githubusercontent.com/unm-campus-histories/spaces/master/docs/essays/mesa-vista-hall.md). Simply copy and paste this text into your editor, save it as a text file, and drag and drop it into the essays folder. You can also create a file directly on GitHub by using the 'Create New File' button, and copying and pasting text into the editor window.
-- Be sure you can get at least one image to show up that you've saved in our [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images). Remember you add images by navigating to the the images folder and either dragging and dropping a single file, or click on 'choose your files' and select a bunch at once (much easier!). If you confused about code, take what you need from [THE CODE SAMPLES PAGE](https://unm-campus-histories.github.io/spaces/code)!
+- Building off our testfiles exercise: for today, put a sample Markdown file for your UNM space (with appropriate file name) in our repository. We're not using the `testfiles` folder anymore [essays folder in the docs folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays).
+- You don't have to have done any research---you can simply use the text from [my sample](https://raw.githubusercontent.com/unm-campus-histories/spaces/master/docs/essays/mesa-vista-hall.md). Simply copy and paste this text into your editor, save it as a text file, and drag and drop it into the essays folder, as you did before.
+- TIP: You can also create a file directly on GitHub by using the 'Create New File' button, and copying and pasting text into the editor window.
+- Be sure you can get at least one image to show up that you've saved in our [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images).
+- You need to make sure the block of code that loads the image is customized to your image by changing the `caption` and `source` fields.
+- You can add images as you have created files. Navigate to the the images folder and either dragging and dropping a single file, or click on 'choose your files' and select a bunch at once (much easier!).
+- For reference, consult the [THE CODE SAMPLES PAGE](https://unm-campus-histories.github.io/spaces/code)!
 "%}
 
 {% include alert.html class='warning' title='Image problems?' text="
-If your images aren't showing up, there is 99% change you referencing the wrong filename or folder.
+If your image isn't showing up, there is 99% change you referencing the wrong filename or folder.
 - check the file extension (.jpg, .jpeg, .JPG, .png)
 - check capitalization (mesa-vista is NOT THE SAME as Mesa-Vista)
 - check for spaces and dashes (mesa-vista is NOT THE SAME as mesa vista)
