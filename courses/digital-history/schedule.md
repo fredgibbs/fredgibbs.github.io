@@ -368,17 +368,17 @@ These are short, easy, and important, so you should read both. If you do a readi
 - You can add images as you have created files. Navigate to the the images folder and either dragging and dropping a single file, or click on 'choose your files' and select a bunch at once (much easier!).
 - Notice that the GitHub page for your file (like [the Mesa Visa one](https://github.com/unm-campus-histories/spaces/blob/master/docs/essays/mesa-vista-hall.md)) makes your Markdown look nice but doesn't display images.
 - To see if your images are working, go to your live webpage, which is at a URL like `https://unm-campus-histories.github.io/spaces/essays/mesa-vista-hall` except you need to replace `mesa-vista-hall` with the name of your file.
-- Your webpage can take up to ten minutes to refresh when you make changes--usually just one or two minutes, but please be patient. Save yourself frustration by BEING CAREFUL with punctuation, ESPECIALLY WHEN CUTTING AND PASTING. 
+- Your webpage can take up to ten minutes to refresh when you make changes--usually just one or two minutes, but please be patient. Save yourself frustration by BEING CAREFUL with punctuation, ESPECIALLY WHEN CUTTING AND PASTING.
 - For reference, consult the [THE CODE SAMPLES PAGE](https://unm-campus-histories.github.io/spaces/code)!
 "%}
 
 {% include alert.html class='warning' title='Image problems?' text="
-If your image isn't showing up, there is 99% change you referencing the wrong filename or folder.
+If your image isn't showing up, there is 95% chance you referencing the wrong filename or folder. And a 5% chance you haven't put files in the right place.
 - check the file extension (.jpg, .jpeg, .JPG, .png)
 - check capitalization (mesa-vista is NOT THE SAME as Mesa-Vista)
 - check for spaces and dashes (mesa-vista is NOT THE SAME as mesa vista)
-- make sure your image file is where it is supposed to be, in docs/essays/images.
-- make sure your image path in your code starts with `images\`
+- make sure your image file is where it is supposed to be, in `docs/essays/images`.
+- make sure your place file is in the `docs/essays` folder, and the image path in your code starts with `images\`
 "%}
 
 Pick one of these two and be ready to discuss:
