@@ -360,12 +360,12 @@ These are short, easy, and important, so you should read both. If you do a readi
 
 ### Thursday (Apr 11)
 {% include alert.html class='danger' title='Campus History Test' text="
-- Building off our testfiles exercise: for today, put a sample Markdown file for your UNM space (with appropriate file name) in our repository. We're not using the `testfiles` folder anymore [essays folder in the docs folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays).
-- You don't have to have done any research---you can simply use the text from [my sample](https://raw.githubusercontent.com/unm-campus-histories/spaces/master/docs/essays/mesa-vista-hall.md). Simply copy and paste this text into your editor, save it as a text file, and drag and drop it into the essays folder, as you did before.
-- TIP: You can also create a file directly on GitHub by using the 'Create New File' button, and copying and pasting text into the editor window.
-- Be sure you can get at least one image to show up that you've saved in our [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images).
-- You need to make sure the block of code that loads the image is customized to your image by changing the `caption` and `source` fields.
+- Building off our testfiles exercise: for today, put a sample Markdown file for your UNM space (with appropriate file name) in our repository. We're not using the `testfiles` folder anymore, but rather our [essays folder in the docs folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays). In this folder you'll see an `images` directory and my `mesa-vista-hall.md` sample file.
+- You don't have to have done any research---you can simply use the text from [my sample file](https://raw.githubusercontent.com/unm-campus-histories/spaces/master/docs/essays/mesa-vista-hall.md). Simply copy and paste this text into your editor---including the info at the very top--- save it as a text file, and drag and drop it into the essays folder, as you did in the previous exercise.
+- PRO TIP: You can also create a file directly on GitHub by using the 'Create New File' button, and copying and pasting text into the editor window.
+- Your place holder file needs to display at least one image that you've saved in our [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images).
 - You can add images as you have created files. Navigate to the the images folder and either dragging and dropping a single file, or click on 'choose your files' and select a bunch at once (much easier!).
+- You need to make sure the block of code that loads the image is customized to your image by changing the `caption` and `source` fields.
 - Notice that the GitHub page for your file (like [the Mesa Visa one](https://github.com/unm-campus-histories/spaces/blob/master/docs/essays/mesa-vista-hall.md)) makes your Markdown look nice but doesn't display images.
 - To see if your images are working, go to your live webpage, which is at a URL like `https://unm-campus-histories.github.io/spaces/essays/mesa-vista-hall` except you need to replace `mesa-vista-hall` with the name of your file.
 - Your webpage can take up to ten minutes to refresh when you make changes--usually just one or two minutes, but please be patient. Save yourself frustration by BEING CAREFUL with punctuation, ESPECIALLY WHEN CUTTING AND PASTING.
@@ -381,7 +381,6 @@ If your image isn't showing up, there is 95% chance you referencing the wrong fi
 - make sure your place file is in the `docs/essays` folder, and the image path in your code starts with `images\`
 "%}
 
-Pick one of these two and be ready to discuss:
 - Andrew Hurley, “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” _The Public Historian_ 38, no. 1 (2016): 69–88.
 - Bruce Wyman et al., “Digital Storytelling in Museums: Observations and Best Practices,” _Curator: The Museum Journal_ 54, no. 4 (2011): 461–68.
 
