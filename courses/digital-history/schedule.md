@@ -359,7 +359,7 @@ These are short, easy, and important, so you should read both. If you do a readi
 - Review assignment steps for Thursday.
 
 ### Thursday (Apr 11)
-{% include alert.html class='danger' title='Campus History Test' text="
+{% include alert.html class='danger' title='Image Test' text='
 - Building off our testfiles exercise: for today, put a sample Markdown file for your UNM space (with appropriate file name) in our repository. We're not using the `testfiles` folder anymore, but rather our [essays folder in the docs folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays). In this folder you'll see an `images` directory and my `mesa-vista-hall.md` sample file.
 - You don't have to have done any research---you can simply use the text from [my sample file](https://raw.githubusercontent.com/unm-campus-histories/spaces/master/docs/essays/mesa-vista-hall.md). Simply copy and paste this text into your editor---including the info at the very top--- save it as a text file, and drag and drop it into the essays folder, as you did in the previous exercise.
 - PRO TIP: You can also create a file directly on GitHub by using the 'Create New File' button, and copying and pasting text into the editor window. Remember to hit the green 'Commit Changes' button.
@@ -373,7 +373,7 @@ These are short, easy, and important, so you should read both. If you do a readi
 - To see if your images are working, go to your live webpage, which is at a URL like `https://unm-campus-histories.github.io/spaces/essays/mesa-vista-hall` except you need to replace `mesa-vista-hall` with the name of your file. We will have an easier way of doing that soon.
 - Your webpage can take up to ten minutes to refresh when you make changes--usually just one or two minutes, but please be patient. Save yourself frustration by BEING CAREFUL with punctuation, ESPECIALLY WHEN CUTTING AND PASTING.
 - For reference, consult the [THE CODE SAMPLES PAGE](https://unm-campus-histories.github.io/spaces/code)!
-"%}
+'%}
 
 {% include alert.html class='warning' title='Image problems?' text="
 If your image isn't showing up, there is 95% chance you referencing the wrong filename or folder. And a 5% chance you haven't put files in the right place.
