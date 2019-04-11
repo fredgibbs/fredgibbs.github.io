@@ -360,7 +360,7 @@ These are short, easy, and important, so you should read both. If you do a readi
 
 ### Thursday (Apr 11)
 {% include alert.html class='danger' title='Image Test' text='
-- Building off our testfiles exercise: for today, put a sample Markdown file for your UNM space (with appropriate file name) in our repository. We are not using the `testfiles` folder anymore, but rather our [essays folder in the docs folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays). In this folder you'll see an `images` directory and my `mesa-vista-hall.md` sample file.
+- Building off our testfiles exercise: for today, put a sample Markdown file for your UNM space (with appropriate file name) in our repository. We are not using the `testfiles` folder anymore, but rather our [essays folder in the docs folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays). In this folder you will see an `images` directory and my `mesa-vista-hall.md` sample file.
 - You do not have to have done any research---you can simply use the text from [my sample file](https://raw.githubusercontent.com/unm-campus-histories/spaces/master/docs/essays/mesa-vista-hall.md). Simply copy and paste this text into your editor---including the info at the very top--- save it as a text file, and drag and drop it into the essays folder, as you did in the previous exercise.
 - PRO TIP: You can also create a file directly on GitHub by using the "Create New File" button, and copying and pasting text into the editor window. Remember to hit the green "Commit Changes" button.
 - Your final essays will have lots of images in them, so we want to be sure everyone can display images in your place holder file.
