@@ -413,13 +413,13 @@ Remember, you should post your markdown essay to our [essays folder in our repos
 Then you can visit the URL of your page to see it live. The URL will look like https://unm-campus-histories.github.io/spaces/essays/mesa-vista-hall. Just replace `mesa-vista-hall` with your own markdown file name.
 "%}
 
-{% include alert.html class='info' title='Recommended Due Date' text="
+{% include alert.html class='info' title='Campus History URL' text="
 You can now access our skeletal site at [https://unm-campus-histories.github.io/spaces/](https://unm-campus-histories.github.io/spaces/).
 "%}
 
 IN CLASS: UNM Spatial History essay questions, answers, and critiques. We will take volunteers to have their essay DRAFTS critiqued in class. It's a GREAT way to get lots of feedback and ideas for improvement. We'll also go over the directory and map pages of the site.
 
-{% include alert.html class='danger' title='Make your KML files and Directory Care' text="
+{% include alert.html class='danger' title='Make your KML files and Directory Cards' text="
 - For KML files: Follow the instructions on the [campus history guidelines page](unm-spatial-history-guidelines).
 - To get your display cards to appear on the [directory page](https://unm-campus-histories.github.io/spaces/directory), update [our spreadsheet](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit#gid=0)
 "%}
@@ -429,45 +429,60 @@ IN CLASS: UNM Spatial History essay questions, answers, and critiques. We will t
 ## 15: Digital Activism
 
 ### Tuesday (Apr 23)
-{% include alert.html class='warning' title='Make your KML files' text="
+{% include alert.html class='warning' title='Make your KML files and cards' text="
 - Be sure your place card on [our directory page](https://unm-campus-histories.github.io/spaces/directory) is displaying properly by updating [our spreadsheet](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit#gid=0).
 - Be sure your KML files are done and showing up on [our map interface](https://unm-campus-histories.github.io/spaces/map). See the red box above.
 "%}
 
-{% include alert.html class='info' title='Recommended Due Date' text="
-You can now access our skeletal site at [https://unm-campus-histories.github.io/spaces/](https://unm-campus-histories.github.io/spaces/).
+{% include alert.html class='info' title='Campus History URL' text="
+Remember you can now access our skeletal site at [https://unm-campus-histories.github.io/spaces/](https://unm-campus-histories.github.io/spaces/).
 "%}
 
+This short article is going to be the basis of our discussion about spatial history and erasure. It will help us link our UNM spatial histories to much broader concerns about architecture, land use, community, identity, and regionalism.
 
-The below article was originally scheduled for this week but is now optional. The exercise was going to be think through how it relates to the class, even though it doesn't have any explicit connection to digital history (so that's a good reading response topic if you do one).
-- Janna Anderson and Lee Raine, [The Future of Truth and Misinformation Online](http://www.pewinternet.org/2017/10/19/the-future-of-truth-and-misinformation-online/)
+- Gail Okawa, "Finding American World War II Internment in Santa Fe: Voices Through Time." In Marta Weigle (ed.), _Telling New Mexico: A New History_. Santa Fe: Museum of New Mexico Press, 2009. 360–73.
+
+#### For reference
+- All these links are a kind of digital history. How do we talk about how they are all completely different?
+- [this hankerchief](http://digitalcollections.usfca.edu/cdm/singleitem/collection/p15129coll10/id/760/rec/4) from [https://njahs.org/confinementsites/santa-fe-internment-camp/](https://njahs.org/confinementsites/santa-fe-internment-camp/)
+- [this New Mexico History website article](http://newmexicohistory.org/people/japanese-american-internment-camps-in-new-mexico-1942-1946)?
+- [this _New Mexico Historical Review_ article](https://ejournals.unm.edu/index.php/nmhr/article/view/86/66) -- also available through our Zotero library.
+- [this encyclopedia article](http://encyclopedia.densho.org/Santa_Fe_(detention_facility))
 
 
 ### Thursday (Apr 25)
-- Carol M. Taylor, “W.E.B. DuBois’s Challenge to Scientific Racism,” _Journal of Black Studies_ 11, no. 4 (1981): 449–60.
-- Jesse Daniels, [W.E.B. DuBois for the Twenty-First Century: On Being a Scholar-Activist in the Digital Era](https://onlinelibrary.wiley.com/doi/full/10.1111/socf.12464)
-- [W.E.B. Du Bois’s Little-Known, Arresting Modernist Data Visualizations of Black Life for the World’s Fair of 1900](https://www.brainpickings.org/2017/10/09/w-e-b-du-bois-diagrams/)
-- [Decolonizing Research](https://theconversation.com/decolonising-research-methodology-must-include-undoing-its-dirty-history-83912)
+### NO CLASS -- RESEARCH TIME
 
 
 
-## 16: Loose ends
+## 16: Wrapping up & Loose ends
 
 ### Tuesday (Apr 30)
-{% include alert.html class='warning' title='Recommended Due Date' text="
-Make sure you have a complete draft of your [visual essays](visual-essay-guidelines) posted to your portfolio. We'll review and critique some of your essays (usually there are plenty of volunteers), which help outline both general and specific concrete examples for making yours better before the final due date.
-"%}
+- Jesse Daniels, [W.E.B. DuBois for the Twenty-First Century: On Being a Scholar-Activist in the Digital Era](https://onlinelibrary.wiley.com/doi/full/10.1111/socf.12464)
 
+#### Stuff to quickly browse that will come up in discussion:
+- Skim through the images in [W.E.B. Du Bois’s Little-Known, Arresting Modernist Data Visualizations of Black Life for the World’s Fair of 1900](https://www.brainpickings.org/2017/10/09/w-e-b-du-bois-diagrams/)
+- Read the absurd ["Three Peoples Mural" description](https://library.unm.edu/zimmerman75/art.php) from Zimmerman Library.
+- Peruse the [Georgetown Slavery Archive](https://slaveryarchive.georgetown.edu/)
+
+
+#### Et cetera
+- Carol M. Taylor, “W.E.B. DuBois’s Challenge to Scientific Racism,” _Journal of Black Studies_ 11, no. 4 (1981): 449–60.
+- [Decolonizing Research](https://theconversation.com/decolonising-research-methodology-must-include-undoing-its-dirty-history-83912)
+- - Janna Anderson and Lee Raine, [The Future of Truth and Misinformation Online](http://www.pewinternet.org/2017/10/19/the-future-of-truth-and-misinformation-online/)
 
 
 
 ### Thursday (May 2)
 {% include alert.html class='warning' title='Recommended Due Date' text="
+Make sure you have a complete draft of your [visual essays](visual-essay-guidelines) posted to your portfolio. We'll review and critique some of your essays (usually there are plenty of volunteers), which help outline both general and specific concrete examples for making yours better before the final due date.
+"%}
+
+{% include alert.html class='warning' title='Recommended Due Date' text="
 Make sure you have a complete draft of your [spatial history essay](unm-spatial-history-guidelines) posted to our [essays folder in our repository](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays), with all your images in the [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images). This will make sure you're on track to get everything finalized next week and get any research or formatting questions answered before we don't have any regular meetings scheduled.
 "%}
 
 - Don't miss essential tips for finalizing your essays and portfolios!
-
 
 {% include alert.html class='danger' title='FINAL DEADLINE' text="
 Technically, all work is due Tuesday, May 7, by 9:30am, which is the end of our scheduled final exam. (we of course don't have an actual exam)
