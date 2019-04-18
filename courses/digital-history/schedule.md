@@ -419,8 +419,9 @@ You can now access our skeletal site at [https://unm-campus-histories.github.io/
 
 IN CLASS: UNM Spatial History essay questions, answers, and critiques. We will take volunteers to have their essay DRAFTS critiqued in class. It's a GREAT way to get lots of feedback and ideas for improvement. We'll also go over the directory and map pages of the site.
 
-{% include alert.html class='danger' title='Make your KML files' text="
-Follow the instructions on the [campus history guidelines page](unm-spatial-history-guidelines).
+{% include alert.html class='danger' title='Make your KML files and Directory Care' text="
+- For KML files: Follow the instructions on the [campus history guidelines page](unm-spatial-history-guidelines).
+- To get your display cards to appear on the [directory page](https://unm-campus-histories.github.io/spaces/directory), update [our spreadsheet](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit#gid=0)
 "%}
 
 
@@ -429,7 +430,9 @@ Follow the instructions on the [campus history guidelines page](unm-spatial-hist
 
 ### Tuesday (Apr 23)
 {% include alert.html class='warning' title='Make your KML files' text="
-Be sure your KML files are done and showing up on [our map interface](https://unm-campus-histories.github.io/spaces/map). See the red box above."%}
+- Be sure your place card on [our directory page](https://unm-campus-histories.github.io/spaces/directory) is displaying properly by updating [our spreadsheet](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit#gid=0).
+- Be sure your KML files are done and showing up on [our map interface](https://unm-campus-histories.github.io/spaces/map). See the red box above.
+"%}
 
 {% include alert.html class='info' title='Recommended Due Date' text="
 You can now access our skeletal site at [https://unm-campus-histories.github.io/spaces/](https://unm-campus-histories.github.io/spaces/).
