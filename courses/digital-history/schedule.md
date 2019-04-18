@@ -411,18 +411,30 @@ Complete an outline or very rough draft of your [spatial history essay](unm-spat
 Remember, you should post your markdown essay to our [essays folder in our repository](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays), with all your images in the [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images).
 <hr>
 Then you can visit the URL of your page to see it live. The URL will look like https://unm-campus-histories.github.io/spaces/essays/mesa-vista-hall. Just replace `mesa-vista-hall` with your own markdown file name.
-This will make sure you're on track to get everything finalized next week and get any research or formatting questions answered before we don't have any regular meeting scheduled.
 "%}
 
-IN CLASS: UNM Spatial History essay questions, answers, and critiques. We will take volunteers to have their essay DRAFTS critiqued in class. It's a GREAT way to get lots of feedback and ideas for improvement.
+{% include alert.html class='info' title='Recommended Due Date' text="
+You can now access our skeletal site at [https://unm-campus-histories.github.io/spaces/](https://unm-campus-histories.github.io/spaces/).
+"%}
+
+IN CLASS: UNM Spatial History essay questions, answers, and critiques. We will take volunteers to have their essay DRAFTS critiqued in class. It's a GREAT way to get lots of feedback and ideas for improvement. We'll also go over the directory and map pages of the site.
+
+{% include alert.html class='danger' title='Make your KML files' text="
+Follow the instructions on the [campus history guidelines page](unm-spatial-history-guidelines).
+"%}
+
 
 
 ## 15: Digital Activism
 
 ### Tuesday (Apr 23)
-{% include alert.html class='warning' title='Recommended Due Date' text="
-Complete a solid draft of your [data interface critique](data-interface-critique).
+{% include alert.html class='warning' title='Make your KML files' text="
+Be sure your KML files are done and showing up on [our map interface](https://unm-campus-histories.github.io/spaces/map). See the red box above."%}
+
+{% include alert.html class='info' title='Recommended Due Date' text="
+You can now access our skeletal site at [https://unm-campus-histories.github.io/spaces/](https://unm-campus-histories.github.io/spaces/).
 "%}
+
 
 The below article was originally scheduled for this week but is now optional. The exercise was going to be think through how it relates to the class, even though it doesn't have any explicit connection to digital history (so that's a good reading response topic if you do one).
 - Janna Anderson and Lee Raine, [The Future of Truth and Misinformation Online](http://www.pewinternet.org/2017/10/19/the-future-of-truth-and-misinformation-online/)

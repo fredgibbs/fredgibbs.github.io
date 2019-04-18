@@ -44,6 +44,7 @@ Rather than post these on your digital portfolios, we're going to make a separat
 - Take good notes, get good quotes, take pictures with your phone for your own reference so that you can examine stuff outside the reading room.
 - USE THE SCANNER in the reading room to create quality digital images for your digital essays.
 - When you have to leave, you can have your box kept out in the reading room for quick access at a later time.
+- If you need to do basic edits to your photo (cropping, rotating, resizing, etc), you can use any software you want. If you aren't sure what to use, try [https://www.befunky.com/](https://www.befunky.com/).
 
 ## Research Tips
 - Be aware that your building may have been called something else. Records documenting its construction and early days are obviously not going to refer to it by the modern name you know, so make sure you're searching all relevant names or alternate names. What is now known as Mesa Vista Hall was most commonly known as the 400-man dorm when it was built in 1950.
@@ -65,6 +66,7 @@ Rather than post these on your digital portfolios, we're going to make a separat
 - 2 modern photographs (via your phone if you can't find any) of your building/space. It's very effective to try to replicate a perspective of a historical photo to show change over time.
 - IMAGES IN YOUR ESSAYS MUST BE HIGH QUALITY SCANS/PHOTOS. Of course you can take lots of low quality pics for your own research process.
 - Informative captions on your images that don't merely describe what the image is, but why it's significant.
+- Your captions must include a citation to its digital home (via a hyperlink), or the box where you found it.
 - Subheadings to delineate your main topics and make your essay more skimmable.
 - You can start writing in MS Word if you want to, but eventually we're going to use different technologies for publishing our essays. In the meantime, DO NOT SPEND ANY TIME FORMATTING YOUR ESSAY or embedding images or anything like that. Just write and decide what images to use.
 - Ultimately, your essay needs to be written in Markdown and uploaded to our GitHub repository, but don't worry if that makes no sense as you get started. Everything you need to know/do is already on the syllabus and will be covered extensively in class.
@@ -86,25 +88,27 @@ Rather than post these on your digital portfolios, we're going to make a separat
 ## Spatial Footprints (we'll go over this in class)
 Since this is a SPATIAL history, we should have a map interface to what we're doing. So, we need a way of creating a clickable space on a web map. I'll handle the technical details, but you need to tell me where your building/place is.
 
-- Go to [Google Maps](http://maps.google.com)
-- Click the 3-line menu icon in the upper left of the search bar
-- Click on "Your Places"
-- Click on "Maps"
-- Click "Create Map" at the bottom of the window pane
+- Go to [Google Maps](http://maps.google.com).
+- Click the 3-line menu icon in the upper left of the search bar.
+- Click on "Your Places".
+- Click on "Maps".
+- Click "Create Map" at the bottom of the window pane.
 - Search for your building name or otherwise make sure the space you are researching is in your browser window. Close the pop-up if you get one.
-- You can see the map layer you are creating is titled "Untitled Layer". That's not helpful. Change that to the name of your building/space, but **USE ALL LOWER CASE AND HYPHENS INSTEAD OF SPACES**, like `mesa-vista-hall`. Leave your map title as "Untitled Map".
+- You can see the map layer you are creating is titled "Untitled Layer". That's not helpful. **Change that to the name of your building/space, and make sure it matches your essay exactly**, like `mesa-vista-hall`.
+- Edit your map title to be the name of your building. You can use spaces if you want! This is helpful for later retrieval and editing, but isn't tied to anything like the layer title.
 - Click the little arrow to the left of "Base Map" at the bottom.
-- Choose the Satellite view.
-- Find a zoom level that allows you to see your place all at once.
+- Choose the Satellite view and see if that's easier than the map view for your building.
+- Find a zoom level that allows you to see your place all at once, but as zoomed in as possible.
 - Click the "Draw a Line" icon under the search bar (it looks like a broken triangle).
 - Click "Add line or shape"
 - Trace out your place that you want to appear on our map. You are making a polygon, so make sure that your starting and ending points are the same, otherwise you'll make a line and that's not what we want.
 - If you need to adjust a point, click the hand icon and drag whatever point you want to move.
-- Click the 3-dot menu icon next to your map TITLE, which is probably still "Untitled Map" (NOT the layer title you changed)
-- Click "Export to KML/KMZ"
-- Choose to export just your layer, not the map
-- Check the "Export to KML..." box (the bottom of the two)
-- Upload the KML file (from your Downloads directory or wherever it ended up) to our `kml` folder in our repository.
+- Click the 3-dot menu icon next to your MAP TITLE.
+- Click "Export to KML/KMZ".
+- Choose to EXPORT YOUR LAYER, not the map.
+- VERY IMPORTANT: Check the "Export to KML..." box (the bottom of the two).
+- Upload the KML file (from your Downloads directory or wherever it ended up) to our [kml folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/kml) in our repository.
+- Wait a few minutes, and see if your polygon shows up on our [map interface](https://unm-campus-histories.github.io/spaces/map). If not, double check your file made it into the `kml` folder and that the filename (minus the .kml extension) matches your essay exactly.
 
 
 ## Grading
