@@ -440,12 +440,12 @@ Remember you can now access our skeletal site at [https://unm-campus-histories.g
 
 This short article is going to be the basis of our discussion about spatial history and erasure. It will help us link our UNM spatial histories to much broader concerns about architecture, land use, community, identity, and regionalism.
 
-- Gail Okawa, "Finding American World War II Internment in Santa Fe: Voices Through Time." In Marta Weigle (ed.), _Telling New Mexico: A New History_. Santa Fe: Museum of New Mexico Press, 2009. 360–73.
+- Gail Okawa, "Finding American World War II Internment in Santa Fe: Voices Through Time." In Marta Weigle (ed.), _Telling New Mexico: A New History_. Santa Fe: Museum of New Mexico Press, 2009. 360–73. (in Zotero)
 
 #### For reference
 - All these links are a kind of digital history. How do we talk about how they are all completely different?
 - [this hankerchief](http://digitalcollections.usfca.edu/cdm/singleitem/collection/p15129coll10/id/760/rec/4) from [https://njahs.org/confinementsites/santa-fe-internment-camp/](https://njahs.org/confinementsites/santa-fe-internment-camp/)
-- [this New Mexico History website article](http://newmexicohistory.org/people/japanese-american-internment-camps-in-new-mexico-1942-1946)?
+- [this New Mexico History website article](http://newmexicohistory.org/people/japanese-american-internment-camps-in-new-mexico-1942-1946)
 - [this _New Mexico Historical Review_ article](https://ejournals.unm.edu/index.php/nmhr/article/view/86/66) -- also available through our Zotero library.
 - [this encyclopedia article](http://encyclopedia.densho.org/Santa_Fe_(detention_facility))
 
