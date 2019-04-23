@@ -479,10 +479,8 @@ Make sure you have a complete draft of your [visual essays](visual-essay-guideli
 "%}
 
 {% include alert.html class='warning' title='Recommended Due Date' text="
-Make sure you have a complete draft of your [spatial history essay](unm-spatial-history-guidelines) posted to our [essays folder in our repository](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays), with all your images in the [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images). This will make sure you're on track to get everything finalized next week and get any research or formatting questions answered before we don't have any regular meetings scheduled.
+Make sure you have a complete draft of your [spatial history essay](unm-spatial-history-guidelines) posted to our [essays folder in our repository](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays), with all your images in the [images folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/essays/images). This will make sure you're on track to get everything finalized next week and get any research or formatting questions answered.
 "%}
-
-- Don't miss essential tips for finalizing your essays and portfolios!
 
 {% include alert.html class='danger' title='FINAL DEADLINE' text="
 Technically, all work is due Tuesday, May 7, by 9:30am, which is the end of our scheduled final exam. (we of course don't have an actual exam)

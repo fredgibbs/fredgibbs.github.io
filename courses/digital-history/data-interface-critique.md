@@ -18,17 +18,17 @@ header: digital-history
 - Reflect critically on what you're doing using course readings. This is not optional--the point of the readings is that you can use them!
 
 ## Goals of critiques
-Like any critique or review, you should
+Like any critique or review, you should:
 - Provide some summary of the main features / functionality
-- Note stated or apparent intended audience (and whether the site is in fact useful for them)
+- Note stated or apparent intended audience
 - Make it clear what the goals of the project are
-- Evaluate how well the various facets of the website (design, organization, writing style, interface, functionality) facilitate its intended goals
-- Note of aspects that work well
-- Note of aspects that need improvement (and why!)
-- Remember to incorporate our readings from earlier in the semester (_yes in fact there was a reason we read all those_)
+- Evaluate how well the various facets of the website (design, organization, writing style, interface, functionality) facilitate its intended goals for its audience
+- Note aspects that work well
+- Note aspects that need improvement (and why!)
+- Remember to incorporate our readings from earlier in the semester (_yes in fact there was a reason we read all those!_)
 - Contemplate about how maps, databases, interfaces, and visualizations shape the kinds of (historical) interpretations the website is meant to facilitate.
 
-## Questions to think about
+## What's behind the curtain?
 Your essay should not simply answer these questions one by one. Think about them holistically as you begin formulating and drafting your critique.
 - What are the original sources? How accessible does the site make them?
 - How easy is it to see where the data comes from and gets represented?

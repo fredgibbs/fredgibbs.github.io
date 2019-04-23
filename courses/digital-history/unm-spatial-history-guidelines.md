@@ -44,7 +44,7 @@ Rather than post these on your digital portfolios, we're going to make a separat
 - Take good notes, get good quotes, take pictures with your phone for your own reference so that you can examine stuff outside the reading room.
 - USE THE SCANNER in the reading room to create quality digital images for your digital essays.
 - When you have to leave, you can have your box kept out in the reading room for quick access at a later time.
-- If you need to do basic edits to your photo (cropping, rotating, resizing, etc), you can use any software you want. If you aren't sure what to use, try [https://www.befunky.com/](https://www.befunky.com/).
+- If you need to do basic edits to your photo (cropping, rotating, resizing, etc), you can use any software you want. If you aren't sure what to use, try the free and online editor at [https://www.befunky.com/](https://www.befunky.com/).
 
 ## Research Tips
 - Be aware that your building may have been called something else. Records documenting its construction and early days are obviously not going to refer to it by the modern name you know, so make sure you're searching all relevant names or alternate names. What is now known as Mesa Vista Hall was most commonly known as the 400-man dorm when it was built in 1950.
@@ -65,7 +65,7 @@ Rather than post these on your digital portfolios, we're going to make a separat
 - 2 images of primary sources (more is better, esp if you have a variety of KINDS of sources)
 - 2 modern photographs (via your phone if you can't find any) of your building/space. It's very effective to try to replicate a perspective of a historical photo to show change over time.
 - IMAGES IN YOUR ESSAYS MUST BE HIGH QUALITY SCANS/PHOTOS. Of course you can take lots of low quality pics for your own research process.
-- Informative captions on your images that don't merely describe what the image is, but why it's significant.
+- **Informative captions** on your images that don't merely describe what the image is, but why it's significant.
 - Your captions must include a citation to its digital home (via a hyperlink), or the box where you found it.
 - Subheadings to delineate your main topics and make your essay more skimmable.
 - You can start writing in MS Word if you want to, but eventually we're going to use different technologies for publishing our essays. In the meantime, DO NOT SPEND ANY TIME FORMATTING YOUR ESSAY or embedding images or anything like that. Just write and decide what images to use.

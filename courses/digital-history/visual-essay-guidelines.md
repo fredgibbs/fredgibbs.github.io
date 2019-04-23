@@ -17,7 +17,7 @@ We've talked _ad nauseum_ about the advantages and limitations of digital archiv
 Clearly, this is a highly restrictive and artificial limitation, but one that represents research in the real world, as there are always arbitrary limitations (whether geography, time or access, etc). It's also an extreme test of the power of digital essays to (potentially) create more engaging histories. In your essay, therefore, you should comment on how this kind of restriction affects your ability to tell an interesting and accurate story about your topic.
 
 ### IMPORTANT CLARIFICATION
-Your research is not restricted to digital images, as that would be impossible, or so crude as to be useless. Your research will be the same as if you were writing a standard 5-page paper (or whatever). But you need to **TELL THE STORY THROUGH IMAGES**, with as little text as possible, and highly informative captions.
+Your research is not restricted to digital images, as that would be impossible, or so crude as to be useless. Your research will be the same as if you were writing a standard 5-page paper (or whatever). But you need to **TELL THE STORY THROUGH IMAGES**, with as little text as possible, and highly informative captions and image citations.
 
 
 ## Goals beyond the course
