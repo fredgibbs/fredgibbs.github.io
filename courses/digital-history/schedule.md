@@ -462,7 +462,7 @@ This short article is going to be the basis of our discussion about spatial hist
 
 #### Stuff to quickly browse that will come up in discussion:
 - Skim through the images in [W.E.B. Du Bois’s Little-Known, Arresting Modernist Data Visualizations of Black Life for the World’s Fair of 1900](https://www.brainpickings.org/2017/10/09/w-e-b-du-bois-diagrams/)
-- Read the absurd ["Three Peoples Mural" description](https://library.unm.edu/zimmerman75/art.php) from Zimmerman Library, and scan the larger images of the four murals: [1](mural-1.jpg) | [2](mural-2.jpg) | [3](mural-3.jpg) | [4](mural-4.jpg)
+- Read the absurd ["Three Peoples Mural" description](https://library.unm.edu/zimmerman75/art.php) from Zimmerman Library, and scan the larger images of the four murals: [1](mural-1.jpg), [2](mural-2.jpg), [3](mural-3.jpg), [4](mural-4.jpg)
 - Peruse the [Georgetown Slavery Archive](https://slaveryarchive.georgetown.edu/)
 
 
