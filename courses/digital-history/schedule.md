@@ -471,6 +471,11 @@ This short article is going to be the basis of our discussion about spatial hist
 - [Decolonizing Research](https://theconversation.com/decolonising-research-methodology-must-include-undoing-its-dirty-history-83912)
 - - Janna Anderson and Lee Raine, [The Future of Truth and Misinformation Online](http://www.pewinternet.org/2017/10/19/the-future-of-truth-and-misinformation-online/)
 
+{% include alert.html class='info' title='Extra (non-really) Credit' text="
+We have been commissioned to review a local digital history project! Write up a 400-word review of [A Most Splendid Company](https://coronado.unm.edu/). Follow the [critique guidelines](data-interface-critique), although there is not a lot to say about visualizations. It is, however, intended as an interface to historical data. **A serious effort will get you an easy 4 points.**
+"%}
+
+
 
 
 ### Thursday (May 2)
