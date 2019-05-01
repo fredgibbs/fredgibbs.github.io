@@ -472,7 +472,15 @@ This short article is going to be the basis of our discussion about spatial hist
 - - Janna Anderson and Lee Raine, [The Future of Truth and Misinformation Online](http://www.pewinternet.org/2017/10/19/the-future-of-truth-and-misinformation-online/)
 
 {% include alert.html class='info' title='Extra (non-really) Credit' text="
-We have been commissioned to review a local digital history project! Write up a 400-word review of [A Most Splendid Company](https://coronado.unm.edu/). Follow the [critique guidelines](data-interface-critique), although there is not a lot to say about visualizations. It is, however, intended as an interface to historical data. **A serious effort will get you an easy 4 points.**
+We have been commissioned to review a local digital history project! Write up a 400-word review (as a post or page in your portfolio) of [A Most Splendid Company](https://coronado.unm.edu/). Follow the [critique guidelines](data-interface-critique), although there is not a lot to say about visualizations. It is, however, intended as an interface to historical data. **A serious effort will get you an easy 4 points.**
+<hr>
+Specific questions for us to address:
+- Is it readily apparent what the purpose of the website is?
+- How easy is it for the first-time user to navigate into, out of, and through the site? 
+- Are there actions that users wanted to take, but could not or found difficult or unnecessarily complicated?
+- Was there anything that you sensed was missing from the site?
+<hr>
+Remember that the best critiques will take into account the way we've critiqued digital history projects all semester, not only on the above questions.
 "%}
 
 
