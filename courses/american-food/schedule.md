@@ -8,62 +8,83 @@ header: american-food
 ---
 
 
-## Course Readings
-- Donna R. Gabaccia, _We Are What We Eat: Ethnic Food and the Making of Americans, Revised edition_ (Harvard University Press, 2000)
-- Roger Horowitz, _Putting Meat on the American Table: Taste, Technology, Transformation_, (Johns Hopkins University Press, 2005)
-- Jonathan Kauffman, _Hippie Food: How Back-to-the-Landers, Longhairs, and Revolutionaries Changed the Way We Eat_ (William Morrow, 2018)
-- Michael W. Twitty, _The Cooking Gene: A Journey Through African American Culinary History in the Old South_ (Amistad, 2017)
+For all readings:
+Regardless of which you read, be prepared to answer the following in class:
+- What did you take away from the reading?
+- What is the author's argument or point to the chapter?
+- What kind of evidence do they use to support their argument?
+- Do they have appropriate sources? Sufficient evidence for their claims?
+- How do these chapters overlap with previous readings?
+
+
+## Course Books
 - Jennifer Jensen Wallach, _How America Eats: A Social History of U.S. Food and Culture_,  (Rowman & Littlefield Publishers, 2014).
+
+- Keith W. F Stavely and Kathleen Fitzgerald, _America’s Founding Food: The Story of New England Cooking_ (Chapel Hill: University of North Carolina Press, 2004). [online](https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=0e5f3b4e-dc5f-4ba6-94c9-c3eabb1bd6a1%40pdc-v-sessmgr01&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#AN=151762&db=nlebk)
+
+- Jeffrey M. Pilcher, _Que Vivan Los Tamales!: Food and the Making of Mexican Identity_. (Albuquerque: University of New Mexico Press, 1998). Several copies available [at CSWR](https://unm.worldcat.org/title/que-vivan-los-tamales-food-and-the-making-of-mexican-identity/oclc/37966376&referer=brief_results).
+
+- Marcie Cohen Ferris, _The Edible South: The Power of Food and the Making of an American Region_. Chapel Hill: The University of North Carolina Press, 2014. [online](https://unm.worldcat.org/title/edible-south-the-power-of-food-and-the-making-of-an-american-region/oclc/891717719&referer=brief_results)
+
+- Ruth Reichl, _Best American Food Writing 2018_.
+
+
+# Week 1
+
+## Jun 3
+
+### Introductions
+- Review the syllabus, course aims, assignments, and general plan for the semester.
+- Why are you here?
+- [Why study food?](readings/why-study-food)
+
+### What do you think?
+- What are our conceptions of American Food? Where do they come from?
+
+### Critiques
+- _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
+
+### Why Care About Taste?
+- Andrew P. Haley, “The Nation before Taste: The Challenges of American Culinary History,” _The Public Historian_ 34, no. 2 (2012): 53–78.
+- G. J. Fitzgerald and G. M. Petrick, “In Good Taste: Rethinking American History with Our Palates,” 392–404. [PDF](readings/in-good-taste.pdf)
+
 
 
 
 ## Jun 4
 
-### Introductions
-- Review the syllabus, course aims, assignments, and general plan for the semester.
-- Key aspects of food studies and food history
-- Why are you here?
+### The Idea of National Cuisine
+- Wallach, xi-xv.
+- Mintz, "Eating American". [PDF](readings/eating-american.pdf)
+- Pick an essay from [here](https://blogs.brown.edu/amst-1906p-s01-spring-2017/), and find one interesting point you agree with and one you don't.
+- [Ketchup and the American Diet](http://www.zocalopublicsquare.org/2018/06/04/ketchup-perfect-complement-american-diet/ideas/essay/)
+- [The Ketchup Conundrum](https://www.newyorker.com/magazine/2004/09/06/the-ketchup-conundrum)
 
-### What do you think?
-- What are our conceptions of American Food? Where do they come from?
 
-### Warm ups
-- _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
-- [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html)
-- [New GMO food labels](https://www.npr.org/sections/thesalt/2018/05/19/612063389/usda-unveils-prototypes-for-gmo-food-labels-and-theyre-confusing)
+### Authenticity
+- Rachel Laudan, [Desperately Seeking Authenticity](https://www.latimes.com/archives/la-xpm-2001-dec-19-fo-16368-story.html)
+- [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
+- [Life in Chains](https://www.eater.com/2014/11/5/7155501/life-in-chains-kfc-taco-bell)
+- Twitty, Chapter 1 (No more whistling walk for me)
 
 
 
 ## Jun 5
 
-### National Cuisine
-- Wallach, xi-xv.
-- Gabaccia, 1-10.
-- Mintz, "Eating American". [PDF](readings/eating-american.pdf)
-- G. J. Fitzgerald and G. M. Petrick, “In Good Taste: Rethinking American History with Our Palates,” 392–404. [PDF](readings/in-good-taste.pdf)
-
-### Authenticity
-- [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
-- [Life in Chains](https://www.eater.com/2014/11/5/7155501/life-in-chains-kfc-taco-bell)
-- Twitty, Chapters 1 (No more whistling walk for me); and 3 (Mise en place).
+### Colonial Roots
 - Wallach, 1-31 (Cuisine of Contact).
+- Heather Trigg, “[Food Choice and Social Identity in Early Colonial New Mexico](readings/trigg.pdf),” 223–252.
+
+### Corn
+- _America's Founding Food_, 4-48.
 
 
 ## Jun 6
 
-### Colonial Roots
-- [Ketchup and the American Diet](http://www.zocalopublicsquare.org/2018/06/04/ketchup-perfect-complement-american-diet/ideas/essay/)
-- [The Ketchup Conundrum](https://www.newyorker.com/magazine/2004/09/06/the-ketchup-conundrum)
-- Andrew Haley, "The Nation before Taste", 53-78. [JSTOR](http://www.jstor.org/stable/10.1525/tph.2012.34.2.53)
-- McWilliams, _A Revolution in Eating_, 279-321 (A Culinary Declaration of Independence), via [ugly PDF](readings/McWilliams.pdf) or [ProQuest Ebook](https://ebookcentral.proquest.com/lib/unm/reader.action?docID=895246&ppg=288)
-
-
-
-
-## Jun 7
+### Revolutionary Food
 - Wallach, 33-55 (Food and the Founding).
-- Gabaccia, 10-35 (Colonial Creoles).
-- Heather Trigg, “Food Choice and Social Identity in Early Colonial New Mexico,” 223–252. [JSTOR](http://www.jstor.org/stable/40170289)
+- McWilliams, _A Revolution in Eating_, 279-321 (A Culinary Declaration of Independence), via [ugly PDF](readings/McWilliams.pdf) or [ProQuest Ebook](https://ebookcentral.proquest.com/lib/unm/reader.action?docID=895246&ppg=288)
+- _Edible South_, 9-22.
 
 ### Food Myths
 - Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality,” 167–91. [PDF](readings/Siskind.pdf)
@@ -74,83 +95,29 @@ header: american-food
 
 
 
+# Week 2
 
-## Jun 11
+
+## Jun 10
 
 ### Cookbooks as Historical Sources
-The following two articles provide VERY useful ways of thinking about using cookbooks as historical sources. Read them carefully enough that you can apply their techniques to other cookbooks.
-- Arjun Appadurai, “How to Make a National Cuisine: Cookbooks in Contemporary India,” 3–24. [JSTOR](http://www.jstor.org.libproxy.unm.edu/stable/179020)
+### For reference
 - Colleen Cotter, “Claiming a Piece of the Pie,” 51–68. [PDF](readings/claiming-piece-of-the-pie.pdf)
 
 ### Early Cookbooks
-- Read the little blurbs about more cookbooks [here](http://www.americantable.org/2015/12/top-12-most-influential-historic-american-cookbooks/)
+- Read the little blurbs about Early American cookbooks [here](http://www.americantable.org/2015/12/top-12-most-influential-historic-american-cookbooks/)
 
-- Amelia Simmons, [American Cookery](https://books.google.com/books?id=_6CggcPs3iQC). Read the introduction by Karen Hess (ix-xv), and skim through the recipes. What stands out to you?
-
-- For the following (all mentioned on the Early American Cookbooks page), there are no specific pages to read. But skim through the books and read a recipe here and there so you have a sense of their similarities and differences.
+- For the following (all mentioned on the Early American Cookbooks page), there are no specific pages to read. But skim through the books and read a recipe here and there so you have a sense of their similarities and differences. What strikes you as most surprising or bizarre about the cookbooks? How did they affirm or complicate your ideas of American food? How can we use them as historical courses?
+  - Amelia Simmons, [American Cookery](https://books.google.com/books?id=_6CggcPs3iQC)
   - Lydia Child, [American Frugal Housewife](https://books.google.com/books?id=D3AEAAAAYAAJ)
   - Mary Randolph [The Virginia Housewife](https://books.google.com/books?id=R4YEAAAAYAAJ)
   - Eliza Leslie, [Miss Leslie's Complete Cookery](https://books.google.com/books?id=KVL5oJA8IWsC)
 
-### Discussion (in class)
-- Using the What strikes you as most surprising or bizarre about the cookbooks? How did they affirm or complicate your ideas of American food?
 
-### Impromptu Group Research Reports (in class)
-- Compare two from [here](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis)
-  - Hint: spend some time finding a good pair!
-
-### Note assignment due MONDAY!
-
-
-
-## Jun 12
-
-### Immigration
-- Wallach, 57-87 (Expansion and Immigration). Read this for basic historical background and culinary changes underway.
-- Gabbacia, 36-63 (Immigration, Isolation, Industry). Don't worry about the details in the stories, but think about what Gabaccia is trying to say in the chapter as a whole.
-
-
-### Genealogy
-- Our Twitty reading for this week is a fair number of pages, but as you've already seen, they go by quick. Read quickly over parts that aren't interesting to you--but be ready to talk about WHY Twitty is describing what he does.
-  - Twitty, Chapters 5 (Missing Pieces), 81-89; 8 (0.01 Percent), 119-139; 9 (Sweet Tooth), 141-159.
-
-
-
-## Jun 13
-
-### Boundaries of Taste
-- Gabaccia, 93-121 (Crossing the Boundaries of Taste).
-- Horowitz, 1-41 (Intro, Beef). There is more detail in here than we need, but try to formulate a overview of beef in the U.S. What are the major drivers of change with respect to beef production and consumption?
-
-
-
-## Jun 14
-
-### Moral Eating
-EVERYONE:
-- Charlotte Biltekoff, _Eating Right in America_, 1-11 (Cultural Politics) [PDF](readings/cultural-politics.pdf); 13-44 (Scientific Moralization) [PDF](readings/scientific-moralization.pdf).
-- Wilbur Atwater, "Chemistry, Foods, Nutrition" (1887), 59-74. [PDF](readings/chemistry-food-nutrition.pdf).
-
-SPLIT UP:
-- Wallach, 143-67 (Pious and Patriotic Stomach).
-- Gabaccia, 122-48 (American Values).
-
-Regardless of which you read, be prepared to answer the following in class:
-- What did you take away from the reading?
-- What is the author's argument or point to the chapter?
-- What kind of evidence do they use to support their argument?
-- Do they have appropriate sources? Sufficient evidence for their claims?
-- How do these chapters overlap with previous readings?
-
-
-## Jun 18
-
-- DUE: Cookbook comparisons (to be presented in class; 500-word summary to turn in): Compare approaches of any two modern cookbooks.
-
-### Cookbook Assignment Goals
-- The main objective: Describe what your 2-4 cookbooks tell us about American Culture/Food/Cuisine
-- As a graded assignment, you should apply the readings and our discussion to your analysis of the cookbooks
-- Although your cookbooks will be vastly different from the early American ones we discussed in class, you should ask the same kinds of questions:
+### Cookbook Review
+- Take a modern cookbook published recently or find a historic cookbook from [here](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis)
+- The main objective: Describe what your cookbook tells us about American Culture/Food/Cuisine
+- Apply the readings and our discussion to your analysis of the cookbooks
   - What kind of assumptions does the author(s) make about cooking/cuisine/food?
   - Who is the intended audience? What should they know? What should they care about?
   - What does the intended audience want?
@@ -158,8 +125,50 @@ Regardless of which you read, be prepared to answer the following in class:
   - What kind of larger themes do the cookbooks appeal to (exotic, health, comfort, regional, national, hipster, classic, etc)
   - What are the various "national" or "ethnic" influences?
   - What do the cookbooks say about "American Food"?
-  - Use the fact that you're COMPARING/CONTRASTING a few different sources to help you answer these questions.
-  - You are being evaluated on the quality/depth of your analysis (based on class readings and discussion), not description.
+  - Why does this book exist?
+  - You are being evaluated on the quality/depth of your ANALYSIS (based on class readings and discussion), NOT DESCRIPTION.
+
+
+
+## Jun 11
+
+### Immigration
+- Wallach, 57-87 (Expansion and Immigration). Read this for basic historical background and culinary changes underway.
+- Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change,” _The Journal of Popular Culture_ 36, no. 4 (2003): 669–86.
+
+### topic???
+
+
+
+## Jun 12
+- _Edible South_, 23-47.
+
+
+
+## Jun 13
+
+### A New Way of Eating Right
+- Wallach, 143-67 (Pious and Patriotic Stomach).
+- [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html)
+- Wilbur Atwater, "Chemistry, Foods, Nutrition" (1887), 59-74. [PDF](readings/chemistry-food-nutrition.pdf).
+
+
+### Moral Food
+- Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122-48.
+- Charlotte Biltekoff, _Eating Right in America_, 1-11 (Cultural Politics) [PDF](readings/cultural-politics.pdf); 13-44 (Scientific Moralization) [PDF](readings/scientific-moralization.pdf).
+
+
+
+
+
+# Week 3
+
+## Jun 17: NO CLASS (midterm break!)
+### Read ahead!
+
+## Jun 18
+### Cookbook Review Reports DUE
+- DUE: Cookbook reviews (to be presented in class; 800-word summary to turn in). See guidelines from Monday
 
 
 ### Food Will Win the War
@@ -168,68 +177,35 @@ Regardless of which you read, be prepared to answer the following in class:
 
 
 
+
 ## Jun 19
 ### Mainstream and Counter-culture Foods
-- Horowitz, 42-102 (Pork, Hot Dogs). As before, read quickly, but come to class ready to discuss the broad contours of meat consumption and how Horowitz makes his argument about what's changing and why.
-- Kauffman, 1-18 (Intro); 58-96 (Brown Rice and Macrobiotics); 97-130 (Brown Bread). This book is heavy on microbiography and anecdotal stories. You can skim over these quickly--but read for the big picture and to evaluate the quality of the story/argument.
-- Quiz probability: HIGH
+Bellasco
 
-#### I WILL SUMMARIZE:
+### topic???
 - Wallach, 124-141 (Gender and American Appetite).
 - Mark Weiner, "Consumer culture and participatory democracy: The story of Coca‐Cola during World War II", 109-129.
 
 
 
 ## Jun 20
-### Corporate Food
-- Horowitz, 103-154 (Chicken, Convenient Meat).
 
-#### Pick one
-- Gabaccia, 149-74 (Big Business). As usual, lots more detail than we need--but read enough to get a sense of the importance of "ethnic" foods in the rise of mass market foods.
+### Corporate Food
+
+#### topic???
 - Harvey A. Levenstein, _Paradox of Plenty_ (Fast Foods and Quick Bucks), 227-236. [PDF](readings/fast-food-quick-bucks.pdf)
 
 
 ### Corn
-- Fun and Fast!
-  - [Today’s botany lesson: Corn sex](http://apps.washingtonpost.com/g/page/lifestyle/todays-botany-lesson-corn-sex/1770/)
-  - [How corn made its way into just about everything we eat](https://www.washingtonpost.com/news/wonk/wp/2015/07/14/how-corn-made-its-way-into-just-about-everything-we-eat/?utm_term=.e102722b2d64)
-  - [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/)
-
-### Economic Analyses
-  - Compare these two articles about "local" fast food. What is the role of food in these articles? What are the assumptions of the authors? HINT: they are pretty bad. But we should be able to articulate why, and hopefully the various perspectives about food we've considered will help.
-    - [Globalization, Fast Food and the "Threat" to Local Culture](http://www.theglobalentrepreneur.com/globalization-fast-food-threat-local-culture/)
-    - [The Globalization of “Fast Food”. Behind the Brand: McDonald’s](https://www.globalresearch.ca/the-globalization-of-fast-food-behind-the-brand-mcdonald-s/25309)
+- [Today’s botany lesson: Corn sex](http://apps.washingtonpost.com/g/page/lifestyle/todays-botany-lesson-corn-sex/1770/)
+- [How corn made its way into just about everything we eat](https://www.washingtonpost.com/news/wonk/wp/2015/07/14/how-corn-made-its-way-into-just-about-everything-we-eat/?utm_term=.e102722b2d64)
+- [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/)
 
 
 
 
 ## Jun 21
-
-### American Meat Review (in class)
-What do we make of Horowitz in context of the course? Strengths? Weaknesses? Assumptions? Biases? Omissions?
-- We'll do this while finishing the quiz from yesterday.
-- This discussion will (hopefully) be VERY useful for your book review assignment due next week!
-
-### Finishing some books
-- Review old Kauffman assignment (from June 19).
-- Kauffman, 131-67 (Tofu). (originally for Monday)
-- Skim Gabaccia, 149-74, if you didn't read it for yesterday.
-- Gabaccia, 175-201 (culinary roots); 225-232 (Conclusion). (originally for today)
-  - Pay particular attention to how Gabaccia's description relates to our earlier discussion of authenticity
-  - We will be discussing Gabaccia in its entirely, so please think ahead of time how you would evaluate the strengths and weaknesses of it.
-
-### More Book Review Discussion
-- Our discussions of Gabaccia and Horowitz should provide a model for how to proceed with your own reviews
-
-#### Key Book Review Questions (750-800 words)
-- What kind of story about American food does the author create?
-- What does the author do well? What seems to be less successful?
-- What kind of assumptions does the author make about food/taste/cuisine/etc?
-- What are the kinds of sources used? Are they sufficient for supporting historical claims?
-- What topics that we've covered in class are missing from the book (that should be there)?
-- How does the book complement or contradict other readings we've done?
-  - In other words, how does the book connect with other (kinds of) food writing?
-
+???
 
 ### Website Analysis Guide (800-1000 words)
 - We will walk through how to conduct final website analysis summary (now due last day of class)
@@ -239,7 +215,7 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
   - Put your search phrase at the top of your assignment
 - DO NOT SIMPLY DESCRIBE THE VARIOUS WEBSITES!
 - The assignment is to describe the aggregate results; you are trying to create a typology.
-  - A typology is a explanation of the KINDS of approaches you find, including their strengths and weaknesses.
+  - A TYPOLOGY is an explanation of the KINDS of approaches, including their strengths and weaknesses.
 - As you did with cookbooks: You should indicate WHY the sites say what they do (don't worry about design).
 - What can they tell us about approaches/values/interests related to food in America?
 
@@ -247,11 +223,13 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 
 - FOR BOTH: You now have, however rushed, expertise in the history of American Food. Use that expertise to write a critical and informed review. You are being evaluated on the extent to which your expertise shines through your reviews.
 
-#### All work will be due 6/28 via email!
 
 
 
-## Jun 25
+
+# Week 4
+
+## Jun 24
 
 ### Food Media
 
@@ -281,47 +259,33 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 
 
 
+## Jun 25
 
-## Jun 26
+### Fad Diets (watch/read IN ORDER)
+American Food can't be discussed without reference to American dieting. As with previous readings, we're not reading these because they are "right", but because they illustrate a collective insanity about the relationship between food and health. How much do Fad Diets help define American Food? How should we understand the idea of "natural" in terms of American food.
 
-- Twitty, 199-217; 239-264; 265-281; 297-317.
-
-### Fad Diets (watch/read IN ORDER):
 - [Cut Your Cravings](http://cutyourcravings.com/180504A.php)
 - [The Real Story on Lectins](https://www.drfuhrman.com/library/eat-to-live-blog/147/the-real-story-on-lectins)
 - [The Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/)
-
-### Modern Dietary Advice
 - [Avocados](https://www.cnn.com/2017/12/08/health/avocados-health-benefits-food-as-fuel-explainer/index.html)
 - [Good Fats Bad Fats](https://www.nytimes.com/2018/01/29/well/good-fats-bad-fats.html)
+
+### Natural Food
 - [What is a Natural Food](https://www.npr.org/sections/thesalt/2016/05/08/477057872/what-is-natural-food-a-riddle-wrapped-in-notions-of-good-and-evil)
 - [Bullshit Hypocrisy of Natural Foods](http://gawker.com/the-bullshit-hypocrisy-of-all-natural-foods-1702686054)
 
-### Discussion
-- As with everything, we want to evaluate the sources in the context of readings/discussions for this course
-- Can Fad Diets help define American Food?
-- Evaluate the idea of "natural" in terms of American food.
-- What do these articles assume (or at least focus on) in terms of definitions of food/diet/taste?
 
+
+## Jun 26
+
+### American Food Writing
+- Josée Johnston and Shyon Baumann, “Democracy versus Distinction: A Study of Omnivorousness in Gourmet Food Writing,” _American Journal of Sociology_ 113, no. 1 (2007): 165–204.
+- M.F.K. Fisher, [Consider the Oyster](readings/consider-the-oyster.pdf) (125-38; 146-59).
+- David Foster Wallace, [Consider the Lobster](readings/lobsterarticle.pdf) (READ THE FOOTNOTES!).
 
 
 
 ## Jun 27
-
-### 1 Book Review
-- Sophie Gilbert, [How American Cuisine Became a Melting Pot](https://www.theatlantic.com/entertainment/archive/2016/11/eight-flavors-sarah-lohman-review/508577/)
-
-### 2 Last Food Writings Bits
-- M.F.K. Fisher, [Consider the Oyster](readings/consider-the-oyster.pdf) (125-38; 146-59).
-- David Foster Wallace, [Consider the Lobster](readings/lobsterarticle.pdf) (READ THE FOOTNOTES!).
-
-### Closing Remarks
-- Assignment check-ins
-- HINTS FOR THE FINAL via course retrospective
-
-
-
-## Jun 28
-- DUE: 750-800 word book review of either Kauffman or Twitty
+- Big Points Exercise
 - DUE: 800-1000 word website analysis
 - For both assignments, see important questions/goals listed under June 21.

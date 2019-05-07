@@ -1,9 +1,9 @@
 ---
-title: History of American Food Cultures
-term: Summer 2019
-number: HIST 413
+title: National Historic Trails
+term: Fall 2018
+number: HIST 300
 layout: syllabus
-header: american-food
+header: trails
 ---
 
 {% assign slug={{page.header}} %}
@@ -23,6 +23,6 @@ header: american-food
   <hr/><hr/>
     <h1>Schedule, Readings and Due Dates<h1>
     {{page.content}}
-  </div>
+
   {% endif %}   
 {% endfor %}  

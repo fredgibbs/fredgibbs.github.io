@@ -59,7 +59,7 @@ Rather than post these on your digital portfolios, we're going to make a separat
 
 
 ## Essay Requirements
-- ~ 600 words minimum (a little shorter than our others on purpose) but no maximum.
+- ~ 600-800 words minimum (a little shorter than our others on purpose) but no maximum.
 - Written in plain text using Markdown for formatting (review the links on the syllabus if you don't know what this means but don't worry about it as you're starting)
 - 3 historical photographs (more is better)
 - 2 images of primary sources (more is better, esp if you have a variety of KINDS of sources)
@@ -70,6 +70,7 @@ Rather than post these on your digital portfolios, we're going to make a separat
 - Subheadings to delineate your main topics and make your essay more skimmable.
 - You can start writing in MS Word if you want to, but eventually we're going to use different technologies for publishing our essays. In the meantime, DO NOT SPEND ANY TIME FORMATTING YOUR ESSAY or embedding images or anything like that. Just write and decide what images to use.
 - Ultimately, your essay needs to be written in Markdown and uploaded to our GitHub repository, but don't worry if that makes no sense as you get started. Everything you need to know/do is already on the syllabus and will be covered extensively in class.
+- Bibliography at end of essay that outlines the sources you used.
 
 ## Style
 - Write something you or your friends would want to read
