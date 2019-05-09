@@ -1,6 +1,6 @@
 ---
 layout: syllabus
-title: History of American Food Cultures
+title: History of American Food
 term: Summer 2019
 number: HIST 413
 section: schedule
@@ -65,6 +65,7 @@ Regardless of which you read, be prepared to answer the following in class:
 - Rachel Laudan, [Desperately Seeking Authenticity](https://www.latimes.com/archives/la-xpm-2001-dec-19-fo-16368-story.html)
 - Dwight Furrow, _American Foodie_ (7: Habits and Heresies: Authenticity, Food Rules, and Traditions), 133-48.
 - [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
+- Sara Kay, [Yelp Reviewers’ Authenticity Fetish Is White Supremacy in Action](https://ny.eater.com/2019/1/18/18183973/authenticity-yelp-reviews-white-supremacy-trap)
 - [Life in Chains](https://www.eater.com/2014/11/5/7155501/life-in-chains-kfc-taco-bell)
 
 
@@ -94,7 +95,6 @@ Regardless of which you read, be prepared to answer the following in class:
 - Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality,” 167–91. [PDF](readings/Siskind.pdf)
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/)
 - [Food Origin Myths](http://www.mashed.com/31587/food-origin-myths-everyone-believes-true/)
-- [10 Stubborn Food Myths That Just Won't Die](https://lifehacker.com/5847591/10-stubborn-food-myths-that-just-wont-die)
 
 
 
@@ -104,13 +104,11 @@ Regardless of which you read, be prepared to answer the following in class:
 
 ## Jun 10
 
-### Cookbooks as Historical Sources
-
-
 - _Tomales_, 25-44.
+- [The United States of Mexican Food](https://www.eater.com/2019/4/23/18214403/mexican-food-us-region-america?fbclid=IwAR2YbAcuWHHM0DORiE9loWvl06bQEOcAHIHVod5Hak6sfK--XYDE8Rt1VBw)
 
 
-### Early Cookbooks
+### Early Cookbooks as Historical Sources
 - Read the little blurbs about Early American cookbooks [here](http://www.americantable.org/2015/12/top-12-most-influential-historic-american-cookbooks/)
 
 - For the following (all mentioned on the Early American Cookbooks page), there are no specific pages to read. But skim through the books and read a recipe here and there so you have a sense of their similarities and differences. What strikes you as most surprising or bizarre about the cookbooks? How did they affirm or complicate your ideas of American food? How can we use them as historical courses?
@@ -120,8 +118,8 @@ Regardless of which you read, be prepared to answer the following in class:
   - Eliza Leslie, [Miss Leslie's Complete Cookery](https://books.google.com/books?id=KVL5oJA8IWsC)
 
 ### For reference
-  - Colleen Cotter, “Claiming a Piece of the Pie,” 51–68. [PDF](readings/claiming-piece-of-the-pie.pdf)
-
+- Colleen Cotter, “Claiming a Piece of the Pie,” 51–68. [PDF](readings/claiming-piece-of-the-pie.pdf)
+- Jane C. Busch, "Using Cookbooks as Research Documents", 22-25. [PDF](readings/cookbooks-as-research-docs.pdf)
 - Review the [Cookbook Analysis Guide](cookbook-analysis)
 
 
@@ -207,10 +205,11 @@ Regardless of which you read, be prepared to answer the following in class:
 
 ### Food Media
 
-### More Food and Gender
+### Gendered Cooking
 - [When Male Chefs Fear the Specter of ‘Women’s Work’](https://www.eater.com/2017/11/30/16687914/toxic-masculinity-restaurants)
 - [Why Are We Still Failing Female Chefs?](https://www.eater.com/2018/5/30/17397060/women-chefs-food-media)
 - [The Problems With Food Media That Nobody Wants to Talk About](https://firstwefeast.com/eat/2016/02/problems-with-food-media)
+- [Why there are no great women chefs](https://gastronomica.org/2010/02/05/why-are-there-no-great-women-chefs/)
 
 ### The Food Network
 - Signe Rousseau, _Food Media_, xix-xxxiv [PDF](readings/food-media-preface.pdf); 5-20 [PDF](readings/food-media-intro.pdf).
@@ -243,6 +242,8 @@ American Food can't be discussed without reference to American dieting. As with 
 - [The Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/)
 - [Avocados](https://www.cnn.com/2017/12/08/health/avocados-health-benefits-food-as-fuel-explainer/index.html)
 - [Good Fats Bad Fats](https://www.nytimes.com/2018/01/29/well/good-fats-bad-fats.html)
+- [10 Stubborn Food Myths That Just Won't Die](https://lifehacker.com/5847591/10-stubborn-food-myths-that-just-wont-die)
+
 
 ### Natural Food
 - [What is a Natural Food](https://www.npr.org/sections/thesalt/2016/05/08/477057872/what-is-natural-food-a-riddle-wrapped-in-notions-of-good-and-evil)
@@ -260,6 +261,6 @@ American Food can't be discussed without reference to American dieting. As with 
 
 
 ## Jun 27
+- What have we read? How do the different kinds of writing matter?
 - Big Points Exercise
 - DUE: 800-1000 word website analysis
-- For both assignments, see important questions/goals listed under June 21.

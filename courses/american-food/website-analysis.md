@@ -6,7 +6,19 @@ number: HIST 413
 section: home
 header: american-food
 ---
-# Website Analysis Guide
+# Digital Food History Analysis Guide
+The main goal of this class is to help us think more critically about food and food history, particularly how it appears online, in Google searches for instance, which is how we often find (mis)information quickly.
+
+Your research presentations will show you applying the analytical frameworks we learn in this class to a particular topic of your choice (anything vaguely related to food history, even if not American).
+
+The default project is to pick a topic and report on the what you find on the first page of Google (or whatever) search results. Questions you'll answer in your presentations:
+- What common information is repeated across the different sites?
+- Where do the sites diverge? Or contradict each other?
+- To what extent are the historical claims supported by archival sources? (as opposed to other websites or secondary sources?) Do they provide any historical evidence?
+- Do the sites give you any reason to take them seriously? Why are they talking about the topic?
+- What ways of thinking about food history are missing?
+
+## The Process
 - Google "history of X" where X is some food related topic.
 - Write 800-1000 words that analyze the search results through the lenses we used throughout the course.
   - Put your search phrase at the top of your assignment

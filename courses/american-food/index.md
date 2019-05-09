@@ -1,6 +1,6 @@
 ---
 layout: syllabus
-title: History of American Food Cultures
+title: History of American Food
 term: Summer 2019
 number: HIST 413
 section: home
@@ -8,9 +8,9 @@ header: american-food
 ---
 
 ## Logistics
-- MTWTh 9:20 - 11:50 @ 234 DSH
+- MTWTh 9:20 - 11:50 @ 327 DSH
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
-- Office Hours: One hour after class MTW (or before if necessary)
+- Office Hours: By appointment (there is plenty of time in class)
 
 
 ## Course Description
@@ -33,14 +33,17 @@ Some questions we'll tackle: What have Americans eaten over time? Why? How much 
 ## Work Requirements and Grading
 
 ### It's summer
-This course is a challenge, but I do recognize that it's summer, and that we're still recovering from last semester/year. There isn't much to do most days except do the preparatory reading, reflect on it, come to class, and participate in the conversations and activities. For the major assignments (see below), we'll practice doing them together before you do them on your own.
+As an upper level history course compressed into a month, it's meant to be a challenge. But I do recognize that it's summer, and that we're still recovering from last semester/year. There isn't much to do most days except do the preparatory reading, reflect on it, come to class, and participate in the conversations and activities. For the major assignments (see below), we'll practice doing them together before you do them on your own.
 
 **Given the compressed nature of the class, the main work/fun on which you will be evaluated is general engagement in our daily activities and conversation.**
 
-- Thorough preparedness and engaged participation in every class meeting (40 points)
-- Pop quizzes and other in-class assignments (20 points)
-- 800-word book review (20 points)
-- Research project and presentation on something vaguely related to food history (20 points)
+- Thorough preparedness and engaged participation in class meetings (30 points)
+- Small reading response assignments (30 points)
+- Reading/discussion quizzes  (10 points)
+- Food writing presentations (10 points)
+- Cookbook analysis (10 points) [instructions](cookbook-analysis)
+- Digital Food History analysis (10 points) [instructions](website-analysis)
+
 
 ### Grade Distribution
 
@@ -60,31 +63,14 @@ Points | Grade
 
 
 ### Please Ask for Help
-I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how it can be improved (if at all). If life gets overwhelming during the course, it can be tempting to drift away from an elective course like this. Rather than disappear, please come talk with me about how we can accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
+I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how it can be improved (if at all). If life gets overwhelming during the course, it can be tempting to drift away from an elective course like this. PLEASE DON'T! Rather than disappear, please come talk with me about how we can accommodate your circumstances.
 
 
-### Learn to Read Quickly
-If you peek at the reading schedule page, you might think there is a lot of reading. You're right! That's one of the skills we're practicing here---learning to read quickly and effectively. You don't have to read every word carefully to absorb the key features of our reading list---namely how they approach the topic, what kind of argument they make, what kinds of sources they use, how interesting it is, how they differ from each other, etc. That's what we'll be talking about during our discussions.
+## Learn to Read Quickly
+If you peek at the reading schedule page, you might think there is a lot of reading. You're right! That's one of the key skills we're developing in this course---learning to read quickly and effectively. You don't have to read every word carefully to absorb the key features of the assignment. You simply need to read enough to form an opinion on how they approach the topic, what kind of argument they make, what kinds of sources they use, how interesting it is, how they differ from each other, etc. That's what we'll be talking about during our discussions, and you'll learn from everyone else's interpretations.
 
-The readings are meant for a broad (largely non-academic) audience and therefore are relatively quick and engaging reads. At the same time, they are smart, articulate, and give us plenty to talk about, especially as we put them in conversation with each other. A significant component of the course is thinking about and discussing how we can tell very different stories about the history of American food, as exemplified by the course readings.
+Almost all readings are meant for a broad (largely non-academic) audience and therefore are relatively quick and engaging reads. At the same time, they are smart, articulate, and give us plenty to talk about, especially as we put them in conversation with each other, and how they tell very different stories of American Food
 
-
-### Book Reviews
-The main goal of this class is to help us think more critically about food and food history, particularly how it gets represented in the continuous supply of food literature that appears in print (and Amazon search results). We are reading two recent books on the history of American Food (though not advertised in those terms), both of which have been highly critically acclaimed. They couldn't be more different.
-
-One of your assignments will be to provide a 750-word review that summarizes the book and analyzes it in context of the course. The books are long (but quick reads), but you don't have to read every page (or even chapter!) to write a highly successful review (at least for our purposes). At least half of each book is required reading in the course, so you'll read the other half on your own.
-
-### Research Presentations
-The main goal of this class is to help us think more critically about food and food history, particularly how it appears online, in Google searches for instance, which is how we often find (mis)information quickly. Your research presentations will show you applying the analytical frameworks we learn in this class to a particular topic of your choice (anything vaguely related to food history, even if not American).
-
-The default project is to pick a topic and report on the what you find on the first page of Google (or whatever) search results. Questions you'll answer in your presentations:
-- What common information is repeated across the different sites?
-- Where do the sites diverge? Or contradict each other?
-- To what extent are the historical claims supported by archival sources? (as opposed to other websites or secondary sources?) Do they provide any historical evidence?
-- Do the sites give you any reason to take them seriously? Why are they talking about the topic?
-- What ways of thinking about food history are missing?
-
-Everyone needs to do a presentation, but if you're really excited about another kind of project that you can present to the class, and that can show you applying the class to writing about food, PLEASE talk to me about it. I'm very flexible provided that you can fulfill the same aims of the assignment (and share with classmates).
 
 ## UNM Resources
 [CAPS Tutoring Services](http://caps.unm.edu/programs/online-tutoring/) is a free-of-charge educational assistance program available to UNM students
