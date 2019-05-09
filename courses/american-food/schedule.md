@@ -63,9 +63,9 @@ Regardless of which you read, be prepared to answer the following in class:
 
 ### Authenticity
 - Rachel Laudan, [Desperately Seeking Authenticity](https://www.latimes.com/archives/la-xpm-2001-dec-19-fo-16368-story.html)
+- Dwight Furrow, _American Foodie_ (7: Habits and Heresies: Authenticity, Food Rules, and Traditions), 133-48.
 - [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
 - [Life in Chains](https://www.eater.com/2014/11/5/7155501/life-in-chains-kfc-taco-bell)
-- Twitty, Chapter 1 (No more whistling walk for me)
 
 
 
@@ -73,10 +73,14 @@ Regardless of which you read, be prepared to answer the following in class:
 
 ### Colonial Roots
 - Wallach, 1-31 (Cuisine of Contact).
-- Heather Trigg, “[Food Choice and Social Identity in Early Colonial New Mexico](readings/trigg.pdf),” 223–252.
 
 ### Corn
 - _America's Founding Food_, 4-48.
+- _Tomales_, 7-24.
+
+### Noteworthy
+- Heather Trigg, “[Food Choice and Social Identity in Early Colonial New Mexico](readings/trigg.pdf),” 223–252.
+
 
 
 ## Jun 6
@@ -101,8 +105,10 @@ Regardless of which you read, be prepared to answer the following in class:
 ## Jun 10
 
 ### Cookbooks as Historical Sources
-### For reference
-- Colleen Cotter, “Claiming a Piece of the Pie,” 51–68. [PDF](readings/claiming-piece-of-the-pie.pdf)
+
+
+- _Tomales_, 25-44.
+
 
 ### Early Cookbooks
 - Read the little blurbs about Early American cookbooks [here](http://www.americantable.org/2015/12/top-12-most-influential-historic-american-cookbooks/)
@@ -113,21 +119,10 @@ Regardless of which you read, be prepared to answer the following in class:
   - Mary Randolph [The Virginia Housewife](https://books.google.com/books?id=R4YEAAAAYAAJ)
   - Eliza Leslie, [Miss Leslie's Complete Cookery](https://books.google.com/books?id=KVL5oJA8IWsC)
 
+### For reference
+  - Colleen Cotter, “Claiming a Piece of the Pie,” 51–68. [PDF](readings/claiming-piece-of-the-pie.pdf)
 
-### Cookbook Review
-- Take a modern cookbook published recently or find a historic cookbook from [here](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis)
-- The main objective: Describe what your cookbook tells us about American Culture/Food/Cuisine
-- Apply the readings and our discussion to your analysis of the cookbooks
-  - What kind of assumptions does the author(s) make about cooking/cuisine/food?
-  - Who is the intended audience? What should they know? What should they care about?
-  - What does the intended audience want?
-  - What kind of language (commands, narrative, etc) does the cookbook use?
-  - What kind of larger themes do the cookbooks appeal to (exotic, health, comfort, regional, national, hipster, classic, etc)
-  - What are the various "national" or "ethnic" influences?
-  - What do the cookbooks say about "American Food"?
-  - Why does this book exist?
-  - You are being evaluated on the quality/depth of your ANALYSIS (based on class readings and discussion), NOT DESCRIPTION.
-
+- Review the [Cookbook Analysis Guide](cookbook-analysis)
 
 
 ## Jun 11
@@ -135,15 +130,14 @@ Regardless of which you read, be prepared to answer the following in class:
 ### Immigration
 - Wallach, 57-87 (Expansion and Immigration). Read this for basic historical background and culinary changes underway.
 - Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change,” _The Journal of Popular Culture_ 36, no. 4 (2003): 669–86.
-
-### topic???
+- _Tomales_, 45-76.
 
 
 
 ## Jun 12
-- _Edible South_, 23-47.
-
-
+- _Edible South_ (4: Language of Food in Civil War South), 48-70.
+- _Edible South_ (5: African Americans and the Collective Memory of a 19th c. South), 71-84.
+- _Edible South_ (6: The Reconstructed Table), 85-93.
 
 ## Jun 13
 
@@ -156,7 +150,7 @@ Regardless of which you read, be prepared to answer the following in class:
 ### Moral Food
 - Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122-48.
 - Charlotte Biltekoff, _Eating Right in America_, 1-11 (Cultural Politics) [PDF](readings/cultural-politics.pdf); 13-44 (Scientific Moralization) [PDF](readings/scientific-moralization.pdf).
-
+- _Edible South_ (8: Home Economics and Domestic Science), 109-123.
 
 
 
@@ -179,21 +173,17 @@ Regardless of which you read, be prepared to answer the following in class:
 
 
 ## Jun 19
-### Mainstream and Counter-culture Foods
-Bellasco
-
-### topic???
+???
 - Wallach, 124-141 (Gender and American Appetite).
-- Mark Weiner, "Consumer culture and participatory democracy: The story of Coca‐Cola during World War II", 109-129.
 
 
 
 ## Jun 20
 
-### Corporate Food
-
-#### topic???
+### Corporate and Counterculture Food
 - Harvey A. Levenstein, _Paradox of Plenty_ (Fast Foods and Quick Bucks), 227-236. [PDF](readings/fast-food-quick-bucks.pdf)
+- Warren J. Bellasco, 43-67; 111-31.
+- _Edible South_ (18: Food Counterculture, Southern-Style), 301-14.
 
 
 ### Corn
@@ -206,23 +196,7 @@ Bellasco
 
 ## Jun 21
 ???
-
-### Website Analysis Guide (800-1000 words)
-- We will walk through how to conduct final website analysis summary (now due last day of class)
-
-- Google "history of X" where X is some food related topic.
-- Write 800-1000 words that analyze the search results through the lenses we used throughout the course.
-  - Put your search phrase at the top of your assignment
-- DO NOT SIMPLY DESCRIBE THE VARIOUS WEBSITES!
-- The assignment is to describe the aggregate results; you are trying to create a typology.
-  - A TYPOLOGY is an explanation of the KINDS of approaches, including their strengths and weaknesses.
-- As you did with cookbooks: You should indicate WHY the sites say what they do (don't worry about design).
-- What can they tell us about approaches/values/interests related to food in America?
-
-- Maybe the best way to think of what you're doing: Imagine that you're creating a writing guide for the first page of search results. You're writing for someone interested in the topic, but hasn't taken this class and therefore might not be aware of the many assumptions/biases/omissions/etc that can easily infiltrate and entire set of sources. Your job, therefore, is to help guide your curious but naive reader through the minefield of food history on the web.
-
-- FOR BOTH: You now have, however rushed, expertise in the history of American Food. Use that expertise to write a critical and informed review. You are being evaluated on the extent to which your expertise shines through your reviews.
-
+- Review the [Website Anaylsis Guide](website-analysis)
 
 
 
