@@ -23,10 +23,10 @@ Each class meeting is 2.5 hours, which is long. So we'll break it up into variou
 Some questions we'll tackle: What have Americans eaten over time? Why? How much have immigration and regionalization mattered? How have food production, technology, and marketing practices changed eating habits? How have dietary and nutritional advice altered perceptions of food and cuisine over the 20th century? How have recent global industrial conglomerates shaped the idea of what constitutes American food? What can the future of American food learn from its past?
 
 
-## Student Learning Outcomes
-- Think and write critically about how various people at various times have discussed the concept of American food
+## Student Learning Objectives
+- Think critically about how various people at various times have discussed what to eat and why
 - Identify and appreciate the various drivers of change with respect to food production and consumption in America
-- Discuss and write critically about how attitudes toward food are influenced by shifting cultural, social, religious, scientific, and political values
+- Understand how attitudes toward food are influenced by shifting cultural, social, religious, scientific, and political values
 - Understand how different historians construct very different histories of American food and its significance
 
 
@@ -37,10 +37,10 @@ As an upper level history course compressed into a month, it's meant to be a cha
 
 **Given the compressed nature of the class, the main work/fun on which you will be evaluated is general engagement in our daily activities and conversation.**
 
-- Thorough preparedness and engaged participation in class meetings (30 points)
-- Small reading response assignments (30 points)
+- Thorough preparedness and engaged participation in class meetings (40 points)
+- Small reading response assignments (20 points)
 - Reading/discussion quizzes  (10 points)
-- Food writing presentations (10 points)
+- Food writing informal presentations (10 points)
 - Cookbook analysis (10 points) [instructions](cookbook-analysis)
 - Digital Food History analysis (10 points) [instructions](website-analysis)
 
@@ -63,13 +63,7 @@ Points | Grade
 
 
 ### Please Ask for Help
-I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how it can be improved (if at all). If life gets overwhelming during the course, it can be tempting to drift away from an elective course like this. PLEASE DON'T! Rather than disappear, please come talk with me about how we can accommodate your circumstances.
-
-
-## Learn to Read Quickly
-If you peek at the reading schedule page, you might think there is a lot of reading. You're right! That's one of the key skills we're developing in this course---learning to read quickly and effectively. You don't have to read every word carefully to absorb the key features of the assignment. You simply need to read enough to form an opinion on how they approach the topic, what kind of argument they make, what kinds of sources they use, how interesting it is, how they differ from each other, etc. That's what we'll be talking about during our discussions, and you'll learn from everyone else's interpretations.
-
-Almost all readings are meant for a broad (largely non-academic) audience and therefore are relatively quick and engaging reads. At the same time, they are smart, articulate, and give us plenty to talk about, especially as we put them in conversation with each other, and how they tell very different stories of American Food
+I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how it can be improved (if at all). If life gets overwhelming during the course, it can be tempting to drift away from an intensive elective course like this. PLEASE DON'T! Rather than disappear, please come talk with me about how we can accommodate your circumstances.
 
 
 ## UNM Resources

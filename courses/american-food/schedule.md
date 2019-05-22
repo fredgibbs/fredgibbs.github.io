@@ -8,8 +8,8 @@ header: american-food
 ---
 
 
-For all readings:
-Regardless of which you read, be prepared to answer the following in class:
+## For all readings
+Be prepared to answer the following in class:
 - What did you take away from the reading?
 - What is the author's argument or point to the chapter?
 - What kind of evidence do they use to support their argument?
@@ -20,13 +20,31 @@ Regardless of which you read, be prepared to answer the following in class:
 ## Course Books
 - Jennifer Jensen Wallach, _How America Eats: A Social History of U.S. Food and Culture_,  (Rowman & Littlefield Publishers, 2014).
 
-- Keith W. F Stavely and Kathleen Fitzgerald, _America’s Founding Food: The Story of New England Cooking_ (Chapel Hill: University of North Carolina Press, 2004). [online](https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=0e5f3b4e-dc5f-4ba6-94c9-c3eabb1bd6a1%40pdc-v-sessmgr01&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#AN=151762&db=nlebk)
+- Keith W. F Stavely and Kathleen Fitzgerald, _America’s Founding Food: The Story of New England Cooking_ (Chapel Hill: University of North Carolina Press, 2004). [online](https://unm.worldcat.org/title/americas-founding-food-the-story-of-new-england-cooking/oclc/65181292&referer=brief_results)
 
 - Jeffrey M. Pilcher, _Que Vivan Los Tamales!: Food and the Making of Mexican Identity_. (Albuquerque: University of New Mexico Press, 1998). Several copies available [at CSWR](https://unm.worldcat.org/title/que-vivan-los-tamales-food-and-the-making-of-mexican-identity/oclc/37966376&referer=brief_results).
 
 - Marcie Cohen Ferris, _The Edible South: The Power of Food and the Making of an American Region_. Chapel Hill: The University of North Carolina Press, 2014. [online](https://unm.worldcat.org/title/edible-south-the-power-of-food-and-the-making-of-an-american-region/oclc/891717719&referer=brief_results)
 
 - Ruth Reichl, _Best American Food Writing 2018_.
+
+
+### Notes about access
+If you are on campus, the above [online] links take you to the library catalog page for that book with a "View eBook" link. This link brings you to the EBSCOhost site where you can read the chapters online. Click the "PDF Full Text" link on the left, then use the left nav to find the pages you're looking for. Unfortunately, it's not possible to reliably link directly to the pages.
+
+If you are not on campus, you should at some point be asked to log into the UNM "system" so that you can view the book. If it ever appears you need to pay to access the book, don't panic. One surefire way to access the book: Go to [unm.wordlcat.org](http://unm.wordlcat.org), search for the book title, and before you see search results you will be asked if you want to log into UNM. Do that, click on the book on the results page, and you'll be able to see the "View eBook" link.
+
+
+### How to survive the readings
+
+## Learn to Read Quickly
+If you peek at the reading schedule page, you might think there is a lot of reading. You're right! As a compressed, intensive course, there is a lot of reading. This is unavoidable because I respect the challenges and demands of a four-week course that ostensibly provides comparable intellectual rigor as a full-semester course.
+
+Obviously we can't just quadruple the reading load for each day. So, it's roughly double that of a typical upper-level history course. You cannot possibly read every word, or every page, or master all the ideas, and that's just fine. I expect you to come to class with a familiarity of all the assignments so that you can answer the questions noted at the top of the page. Because we're covering so much ground so quickly, broad familiarity is far more important than specific details (although hopefully some historical detail will stick with you).
+
+Learning to reading quickly and effectively is one of the key skills we're developing in this course. You don't have to read every word carefully to absorb the key features of the assignment. You simply need to read enough to form an opinion on how they approach the topic, what kind of argument they make, what kinds of sources they use, how interesting it is, how they differ from each other, why you do or don't like it, etc. That's what we'll be talking about during our discussions, and you'll learn from everyone else's interpretations (or at least past students have reported that to be true).
+
+Almost all readings are meant for a broad (largely non-academic) audience and therefore are relatively quick and engaging reads. At the same time, they are smart, articulate, and give us plenty to talk about, especially as we put them in conversation with each other, and how they tell very different stories of American Food.
 
 
 # Week 1
@@ -38,15 +56,13 @@ Regardless of which you read, be prepared to answer the following in class:
 - Why are you here?
 - [Why study food?](readings/why-study-food)
 
-### What do you think?
-- What are our conceptions of American Food? Where do they come from?
-
-### Critiques
-- _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
 
 ### Why Care About Taste?
-- Andrew P. Haley, “The Nation before Taste: The Challenges of American Culinary History,” _The Public Historian_ 34, no. 2 (2012): 53–78.
+- Andrew P. Haley, “The Nation before Taste: The Challenges of American Culinary History,” _The Public Historian_, 34.2 (2012): 53–78.
 - G. J. Fitzgerald and G. M. Petrick, “In Good Taste: Rethinking American History with Our Palates,” 392–404. [PDF](readings/in-good-taste.pdf)
+
+### Looking Ahead
+- _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
 
 
 
@@ -54,18 +70,26 @@ Regardless of which you read, be prepared to answer the following in class:
 ## Jun 4
 
 ### The Idea of National Cuisine
-- Wallach, xi-xv.
-- Mintz, "Eating American". [PDF](readings/eating-american.pdf)
-- Pick an essay from [here](https://blogs.brown.edu/amst-1906p-s01-spring-2017/), and find one interesting point you agree with and one you don't.
-- [Ketchup and the American Diet](http://www.zocalopublicsquare.org/2018/06/04/ketchup-perfect-complement-american-diet/ideas/essay/)
-- [The Ketchup Conundrum](https://www.newyorker.com/magazine/2004/09/06/the-ketchup-conundrum)
+- _HAE_, xi-xv.
+- Sidney Mintz, "Eating American". [PDF](readings/eating-american.pdf)
+- Pick an essay from [here](https://blogs.brown.edu/amst-1906p-s01-spring-2017/), and find one interesting point you agree with and one you don't. There are no right answers in any of the essays, but many great points we need to keep in mind throughout the course.
 
+### What do you think?
+- What are our conceptions of American Food? Where do they come from?
 
 ### Authenticity
 - Rachel Laudan, [Desperately Seeking Authenticity](https://www.latimes.com/archives/la-xpm-2001-dec-19-fo-16368-story.html)
 - Dwight Furrow, _American Foodie_ (7: Habits and Heresies: Authenticity, Food Rules, and Traditions), 133-48.
-- [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
+- Kevin Alexander, [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
 - Sara Kay, [Yelp Reviewers’ Authenticity Fetish Is White Supremacy in Action](https://ny.eater.com/2019/1/18/18183973/authenticity-yelp-reviews-white-supremacy-trap)
+
+
+### Ketchup
+- Amy Bentley, [Is Ketchup the Perfect Complement to the American Diet?](http://www.zocalopublicsquare.org/2018/06/04/ketchup-perfect-complement-american-diet/ideas/essay/)
+- Malcolm Gladwell, [The Ketchup Conundrum](https://www.newyorker.com/magazine/2004/09/06/the-ketchup-conundrum)
+
+
+### For reference
 - [Life in Chains](https://www.eater.com/2014/11/5/7155501/life-in-chains-kfc-taco-bell)
 
 
@@ -73,45 +97,57 @@ Regardless of which you read, be prepared to answer the following in class:
 ## Jun 5
 
 ### Colonial Roots
-- Wallach, 1-31 (Cuisine of Contact).
+- _HAE_, 1-31 (1: Cuisine of Contact).
 
 ### Corn
-- _America's Founding Food_, 4-48.
-- _Tomales_, 7-24.
+- _Founding Food_, 4-48.
+- _Tamales_, 7-24 (1: The People of Corn).
 
-### Noteworthy
+### For reference
 - Heather Trigg, “[Food Choice and Social Identity in Early Colonial New Mexico](readings/trigg.pdf),” 223–252.
 
 
 
 ## Jun 6
-
-### Revolutionary Food
-- Wallach, 33-55 (Food and the Founding).
-- McWilliams, _A Revolution in Eating_, 279-321 (A Culinary Declaration of Independence), via [ugly PDF](readings/McWilliams.pdf) or [ProQuest Ebook](https://ebookcentral.proquest.com/lib/unm/reader.action?docID=895246&ppg=288)
-- _Edible South_, 9-22.
-
-### Food Myths
-- Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality,” 167–91. [PDF](readings/Siskind.pdf)
-- [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/)
-- [Food Origin Myths](http://www.mashed.com/31587/food-origin-myths-everyone-believes-true/)
+- _Founding Food_, 49-70 (2: Beans and Pumpkins)
+- _Founding Food_, 71-119 (3: Fish and Shellfish).
 
 
 
 
 # Week 2
 
-
 ## Jun 10
+### Revolutionary Food
+- _HAE_, 33-55 (2: Food and the Founding).
+- James E. McWilliams, _A Revolution in Eating_, 279-321 (8: A Culinary Declaration of Independence), via [ugly PDF](readings/McWilliams.pdf) or [ProQuest Ebook](https://ebookcentral.proquest.com/lib/unm/reader.action?docID=895246&ppg=288)
+- _Edible South_, 9-22.
 
-- _Tomales_, 25-44.
-- [The United States of Mexican Food](https://www.eater.com/2019/4/23/18214403/mexican-food-us-region-america?fbclid=IwAR2YbAcuWHHM0DORiE9loWvl06bQEOcAHIHVod5Hak6sfK--XYDE8Rt1VBw)
+
+
+
+## Jun 11
+
+### Thanksgiving
+- Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality,” 167–91. [PDF](readings/Siskind.pdf)
+- [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/)
+- _Founding Food_, 148-97.
+
+- _Tamales_, 25-44.
+- _Founding Food_, 198-231 (6: Of a Fruity Flavor).
+
+
+
+
+## Jun 12
 
 
 ### Early Cookbooks as Historical Sources
 - Read the little blurbs about Early American cookbooks [here](http://www.americantable.org/2015/12/top-12-most-influential-historic-american-cookbooks/)
+- Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_, 29-51 (2: Culinary Tradition).
+- _Founding Food_, 120-147 (4: Cookbooks and Commerce).
 
-- For the following (all mentioned on the Early American Cookbooks page), there are no specific pages to read. But skim through the books and read a recipe here and there so you have a sense of their similarities and differences. What strikes you as most surprising or bizarre about the cookbooks? How did they affirm or complicate your ideas of American food? How can we use them as historical courses?
+- For the following (all mentioned in the "American Table" article above), there are no specific pages to read. But skim through the books and read a recipe here and there so you have a sense of their similarities and differences. What strikes you as most surprising or bizarre about the cookbooks? How did they affirm or complicate your ideas of American food? How can we use them as historical courses?
   - Amelia Simmons, [American Cookery](https://books.google.com/books?id=_6CggcPs3iQC)
   - Lydia Child, [American Frugal Housewife](https://books.google.com/books?id=D3AEAAAAYAAJ)
   - Mary Randolph [The Virginia Housewife](https://books.google.com/books?id=R4YEAAAAYAAJ)
@@ -123,32 +159,15 @@ Regardless of which you read, be prepared to answer the following in class:
 - Review the [Cookbook Analysis Guide](cookbook-analysis)
 
 
-## Jun 11
 
-### Immigration
-- Wallach, 57-87 (Expansion and Immigration). Read this for basic historical background and culinary changes underway.
-- Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change,” _The Journal of Popular Culture_ 36, no. 4 (2003): 669–86.
-- _Tomales_, 45-76.
-
-
-
-## Jun 12
-- _Edible South_ (4: Language of Food in Civil War South), 48-70.
-- _Edible South_ (5: African Americans and the Collective Memory of a 19th c. South), 71-84.
-- _Edible South_ (6: The Reconstructed Table), 85-93.
 
 ## Jun 13
 
-### A New Way of Eating Right
-- Wallach, 143-67 (Pious and Patriotic Stomach).
-- [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html)
-- Wilbur Atwater, "Chemistry, Foods, Nutrition" (1887), 59-74. [PDF](readings/chemistry-food-nutrition.pdf).
-
-
-### Moral Food
-- Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122-48.
-- Charlotte Biltekoff, _Eating Right in America_, 1-11 (Cultural Politics) [PDF](readings/cultural-politics.pdf); 13-44 (Scientific Moralization) [PDF](readings/scientific-moralization.pdf).
-- _Edible South_ (8: Home Economics and Domestic Science), 109-123.
+### Immigration
+- _HAE_, 57-87 (3: Expansion and Immigration).
+- _HAE_, 169-78.
+- Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change,” _The Journal of Popular Culture_, 36.4 (2003): 669–86.
+- _Tamales_, 45-76.
 
 
 
@@ -159,41 +178,60 @@ Regardless of which you read, be prepared to answer the following in class:
 ### Read ahead!
 
 ## Jun 18
-### Cookbook Review Reports DUE
-- DUE: Cookbook reviews (to be presented in class; 800-word summary to turn in). See guidelines from Monday
-
-
-### Food Will Win the War
-- Cecilia Gowdy-Wygant, _Cultivating Victory: The Women’s Land Army and the Victory Garden Movement_, 131-161. [ProQuest Ebook](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=2039400)
-- Harvey A. Levenstein, _Paradox of Plenty_ (Golden Age of Food Processing), 101-118. [PDF](readings/food-processing.pdf)
-
-
+- _HAE_, 89-110 (4: Technology and Taste).
+- _Edible South_ (4: Language of Food in Civil War South), 48-70.
+- _Edible South_ (5: African Americans and the Collective Memory of a 19th c. South), 71-84.
+- _Edible South_ (6: The Reconstructed Table), 85-93.
 
 
 ## Jun 19
-???
-- Wallach, 124-141 (Gender and American Appetite).
+### Moral Food
+- Charlotte Biltekoff, _Eating Right in America_, 13-44 (Scientific Moralization) [PDF](readings/scientific-moralization.pdf).
+- _Tamales_, 77-97 (4: Tortilla Discourse).
+- Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122-48.
+
+### Cereal
+- _HAE_, 143-55 (6: Pious and Patriotic Stomach).
+- [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html)
+
+### For reference
+- Wilbur Atwater, "Chemistry, Foods, Nutrition" (1887), 59-74. [PDF](readings/chemistry-food-nutrition.pdf).
+
+
 
 
 
 ## Jun 20
+- _Tamales_, 143-62 (7: Recipes for _Patria_).
+- _Edible South_, 97-122 (7: The Shifting Soil of Southern Agriculture).
+- _Edible South_, 109-123 (8: Home Economics and Domestic Science).
+- [The United States of Mexican Food](https://www.eater.com/2019/4/23/18214403/mexican-food-us-region-america?fbclid=IwAR2YbAcuWHHM0DORiE9loWvl06bQEOcAHIHVod5Hak6sfK--XYDE8Rt1VBw)
 
-### Corporate and Counterculture Food
-- Harvey A. Levenstein, _Paradox of Plenty_ (Fast Foods and Quick Bucks), 227-236. [PDF](readings/fast-food-quick-bucks.pdf)
-- Warren J. Bellasco, 43-67; 111-31.
-- _Edible South_ (18: Food Counterculture, Southern-Style), 301-14.
-
-
-### Corn
-- [Today’s botany lesson: Corn sex](http://apps.washingtonpost.com/g/page/lifestyle/todays-botany-lesson-corn-sex/1770/)
-- [How corn made its way into just about everything we eat](https://www.washingtonpost.com/news/wonk/wp/2015/07/14/how-corn-made-its-way-into-just-about-everything-we-eat/?utm_term=.e102722b2d64)
-- [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/)
+- DUE: Cookbook reviews (to be presented in class; Bring printed summary to turn in. Remember to follow the [Cookbook Analysis Guide](cookbook-analysis).
 
 
 
 
 ## Jun 21
-???
+
+### Convenience
+- Harvey A. Levenstein, _Paradox of Plenty_, 101-118 (7: Golden Age of Food Processing). [PDF](readings/food-processing.pdf)
+- Harvey A. Levenstein, _Paradox of Plenty_, 227-236 (15: Fast Foods and Quick Bucks). [PDF](readings/fast-food-quick-bucks.pdf)
+
+- _Edible South_, 188-212 (13: Branding the Edible New South).
+
+
+### Corporate and Counterculture Food
+- Warren J. Bellasco, _Appetite for Change_, 43-67 (3: Radical Therapy).
+- Warren J. Bellasco, _Appetite for Change_, 111-31 (5: The Orthodox Defense).
+- _Edible South_, 301-14 (18: Food Counterculture, Southern-Style).
+- _Edible South_, 315-32 (19: New Southern Cuisine).
+
+### For reference: Corn
+- [Today’s botany lesson: Corn sex](http://apps.washingtonpost.com/g/page/lifestyle/todays-botany-lesson-corn-sex/1770/)
+- [How corn made its way into just about everything we eat](https://www.washingtonpost.com/news/wonk/wp/2015/07/14/how-corn-made-its-way-into-just-about-everything-we-eat/?utm_term=.e102722b2d64)
+- [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/)
+
 - Review the [Website Anaylsis Guide](website-analysis)
 
 
@@ -202,8 +240,6 @@ Regardless of which you read, be prepared to answer the following in class:
 # Week 4
 
 ## Jun 24
-
-### Food Media
 
 ### Gendered Cooking
 - [When Male Chefs Fear the Specter of ‘Women’s Work’](https://www.eater.com/2017/11/30/16687914/toxic-masculinity-restaurants)
@@ -215,6 +251,8 @@ Regardless of which you read, be prepared to answer the following in class:
 - Signe Rousseau, _Food Media_, xix-xxxiv [PDF](readings/food-media-preface.pdf); 5-20 [PDF](readings/food-media-intro.pdf).
 - Ray Krishnendu, “Domesticating Cuisine: Food and Aesthetics on American Television,” 50–63. [PDF](http://www.jstor.org/stable/10.1525/gfc.2007.7.1.50)
 
+
+### For reference
 - Julia Child (cheese soufflé)
   - [Beef Bourguignon](https://www.youtube.com/watch?v=zA2ys8C-lNk)
   - [Cheese Soufflé](https://www.youtube.com/watch?v=IFAjJif7OoY)
@@ -235,11 +273,14 @@ Regardless of which you read, be prepared to answer the following in class:
 ## Jun 25
 
 ### Fad Diets (watch/read IN ORDER)
-American Food can't be discussed without reference to American dieting. As with previous readings, we're not reading these because they are "right", but because they illustrate a collective insanity about the relationship between food and health. How much do Fad Diets help define American Food? How should we understand the idea of "natural" in terms of American food.
+American Food can't be discussed without reference to American dieting. As with previous readings, we're not reading these because they are "right", but because they illustrate a collective insanity about the relationship between food and health. How much do Fad Diets help define American Food? How should we understand the idea of "natural" in terms of American food?
 
-- [Cut Your Cravings](http://cutyourcravings.com/180504A.php)
+- [How to Reduce Lectins in Your Diet](https://articles.mercola.com/sites/articles/archive/2017/08/14/reduce-lectins-in-your-diet.aspx)
 - [The Real Story on Lectins](https://www.drfuhrman.com/library/eat-to-live-blog/147/the-real-story-on-lectins)
 - [The Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/)
+
+
+### Critiquing Dietary Advice
 - [Avocados](https://www.cnn.com/2017/12/08/health/avocados-health-benefits-food-as-fuel-explainer/index.html)
 - [Good Fats Bad Fats](https://www.nytimes.com/2018/01/29/well/good-fats-bad-fats.html)
 - [10 Stubborn Food Myths That Just Won't Die](https://lifehacker.com/5847591/10-stubborn-food-myths-that-just-wont-die)
