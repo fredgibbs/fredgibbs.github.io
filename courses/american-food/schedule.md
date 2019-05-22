@@ -18,7 +18,7 @@ Be prepared to answer the following in class:
 
 
 ## Course Books
-- Jennifer Jensen Wallach, _How America Eats: A Social History of U.S. Food and Culture_,  (Rowman & Littlefield Publishers, 2014).
+- Jennifer Jensen Wallach, _How America Eats: A Social History of U.S. Food and Culture_,  (Rowman & Littlefield Publishers, 2014). [online](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results)
 
 - Keith W. F Stavely and Kathleen Fitzgerald, _America’s Founding Food: The Story of New England Cooking_ (Chapel Hill: University of North Carolina Press, 2004). [online](https://unm.worldcat.org/title/americas-founding-food-the-story-of-new-england-cooking/oclc/65181292&referer=brief_results)
 
@@ -30,14 +30,12 @@ Be prepared to answer the following in class:
 
 
 ### Notes about access
-If you are on campus, the above [online] links take you to the library catalog page for that book with a "View eBook" link. This link brings you to the EBSCOhost site where you can read the chapters online. Click the "PDF Full Text" link on the left, then use the left nav to find the pages you're looking for. Unfortunately, it's not possible to reliably link directly to the pages.
+If you are on campus, the above [online] links take you to the library catalog page for that book with a "View eBook" link. This link brings you to the EBSCOhost site where you can read the chapters online.  Click the "PDF Full Text" link on the left, then use the left nav to find the chapter or pages you're looking for. Unfortunately, it's not possible to reliably link directly to specific pages.
 
-If you are not on campus, you should at some point be asked to log into the UNM "system" so that you can view the book. If it ever appears you need to pay to access the book, don't panic. One surefire way to access the book: Go to [unm.wordlcat.org](http://unm.wordlcat.org), search for the book title, and before you see search results you will be asked if you want to log into UNM. Do that, click on the book on the results page, and you'll be able to see the "View eBook" link.
+If you are not on campus, you'll notice a small blue box with a "Remote Access" link on the library catalog page. Click that link to sign into the UNM Main Campus Library Network, which will ensure you can access the online version as described above.
 
 
-### How to survive the readings
-
-## Learn to Read Quickly
+## How to survive the readings
 If you peek at the reading schedule page, you might think there is a lot of reading. You're right! As a compressed, intensive course, there is a lot of reading. This is unavoidable because I respect the challenges and demands of a four-week course that ostensibly provides comparable intellectual rigor as a full-semester course.
 
 Obviously we can't just quadruple the reading load for each day. So, it's roughly double that of a typical upper-level history course. You cannot possibly read every word, or every page, or master all the ideas, and that's just fine. I expect you to come to class with a familiarity of all the assignments so that you can answer the questions noted at the top of the page. Because we're covering so much ground so quickly, broad familiarity is far more important than specific details (although hopefully some historical detail will stick with you).
