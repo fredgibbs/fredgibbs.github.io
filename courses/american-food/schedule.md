@@ -112,50 +112,47 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 
 
 
-
 # Week 2
 
 ## Jun 10
 ### Revolutionary Food
 - _HAE_, 33-55 (2: Food and the Founding).
-- James E. McWilliams, _A Revolution in Eating_, 279-321 (8: A Culinary Declaration of Independence), via [ugly PDF](readings/McWilliams.pdf) or [ProQuest Ebook](https://ebookcentral.proquest.com/lib/unm/reader.action?docID=895246&ppg=288)
-- _Edible South_, 9-22.
+- _Edible South_, 9-22 (1: Outsiders).
+- _Edible South_, 23-33 (2: Insiders).
+- SKIM: James E. McWilliams, _A Revolution in Eating_, 279-321 (8: A Culinary Declaration of Independence), via [ugly PDF](readings/McWilliams.pdf) or [ProQuest Ebook](https://ebookcentral.proquest.com/lib/unm/reader.action?docID=895246&ppg=288)
 
 
 
 
 ## Jun 11
 
-### Thanksgiving
-- Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality,” 167–91. [PDF](readings/Siskind.pdf)
-- [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/)
-- _Founding Food_, 148-97.
-
-- _Tamales_, 25-44.
-- _Founding Food_, 198-231 (6: Of a Fruity Flavor).
-
-
-
-
-## Jun 12
-
-
 ### Early Cookbooks as Historical Sources
-- Read the little blurbs about Early American cookbooks [here](http://www.americantable.org/2015/12/top-12-most-influential-historic-american-cookbooks/)
-- Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_, 29-51 (2: Culinary Tradition).
+- _Tamales_, 25-43 (2: The Conquest of Wheat).
 - _Founding Food_, 120-147 (4: Cookbooks and Commerce).
+- Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_, 29-51 (2: Culinary Tradition).
 
-- For the following (all mentioned in the "American Table" article above), there are no specific pages to read. But skim through the books and read a recipe here and there so you have a sense of their similarities and differences. What strikes you as most surprising or bizarre about the cookbooks? How did they affirm or complicate your ideas of American food? How can we use them as historical courses?
+- For the following, there are no specific pages to read. But skim through the books and read a recipe here and there so you have a sense of their similarities and differences. What strikes you as most surprising or bizarre about the cookbooks? How did they affirm or complicate your ideas of American food? How can we use them as historical courses?
   - Amelia Simmons, [American Cookery](https://books.google.com/books?id=_6CggcPs3iQC)
   - Lydia Child, [American Frugal Housewife](https://books.google.com/books?id=D3AEAAAAYAAJ)
   - Mary Randolph [The Virginia Housewife](https://books.google.com/books?id=R4YEAAAAYAAJ)
   - Eliza Leslie, [Miss Leslie's Complete Cookery](https://books.google.com/books?id=KVL5oJA8IWsC)
 
+
 ### For reference
 - Colleen Cotter, “Claiming a Piece of the Pie,” 51–68. [PDF](readings/claiming-piece-of-the-pie.pdf)
 - Jane C. Busch, "Using Cookbooks as Research Documents", 22-25. [PDF](readings/cookbooks-as-research-docs.pdf)
+- Blurbs about Early American cookbooks [here](http://www.americantable.org/2015/12/top-12-most-influential-historic-american-cookbooks/)
 - Review the [Cookbook Analysis Guide](cookbook-analysis)
 
+
+
+## Jun 12
+
+### Thanksgiving
+- Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality,” 167–91. [PDF](readings/Siskind.pdf)
+- [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/)
+- _Founding Food_, 148-97 (5: Fresh and Sweet Pasture).
+- _Founding Food_, 198-231 (6: Of a Fruity Flavor).
 
 
 
@@ -164,8 +161,8 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 ### Immigration
 - _HAE_, 57-87 (3: Expansion and Immigration).
 - _HAE_, 169-78.
-- Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change,” _The Journal of Popular Culture_, 36.4 (2003): 669–86.
 - _Tamales_, 45-76.
+- Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change,” _The Journal of Popular Culture_, 36.4 (2003): 669–86.
 
 
 
@@ -177,9 +174,9 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 
 ## Jun 18
 - _HAE_, 89-110 (4: Technology and Taste).
-- _Edible South_ (4: Language of Food in Civil War South), 48-70.
-- _Edible South_ (5: African Americans and the Collective Memory of a 19th c. South), 71-84.
-- _Edible South_ (6: The Reconstructed Table), 85-93.
+- _Edible South_, 48-70 (4: Language of Food in Civil War South).
+- _Edible South_, 71-84 (5: African Americans and the Collective Memory of a 19th c. South).
+- _Edible South_, 85-93 (6: The Reconstructed Table).
 
 
 ## Jun 19
@@ -188,14 +185,11 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 - _Tamales_, 77-97 (4: Tortilla Discourse).
 - Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122-48.
 
-### Cereal
-- _HAE_, 143-55 (6: Pious and Patriotic Stomach).
-- [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html)
 
 ### For reference
+- _HAE_, 143-55 (6: Pious and Patriotic Stomach).
+- [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html)
 - Wilbur Atwater, "Chemistry, Foods, Nutrition" (1887), 59-74. [PDF](readings/chemistry-food-nutrition.pdf).
-
-
 
 
 
@@ -203,21 +197,14 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 - _Tamales_, 143-62 (7: Recipes for _Patria_).
 - _Edible South_, 97-122 (7: The Shifting Soil of Southern Agriculture).
 - _Edible South_, 109-123 (8: Home Economics and Domestic Science).
-- [The United States of Mexican Food](https://www.eater.com/2019/4/23/18214403/mexican-food-us-region-america?fbclid=IwAR2YbAcuWHHM0DORiE9loWvl06bQEOcAHIHVod5Hak6sfK--XYDE8Rt1VBw)
+- _Edible South_, 124-135 (9: The Southern "Dietaries").
+- _Edible South_, 188-212 (13: Branding the Edible New South).
 
 - DUE: Cookbook reviews (to be presented in class; Bring printed summary to turn in. Remember to follow the [Cookbook Analysis Guide](cookbook-analysis).
 
 
 
-
 ## Jun 21
-
-### Convenience
-- Harvey A. Levenstein, _Paradox of Plenty_, 101-118 (7: Golden Age of Food Processing). [PDF](readings/food-processing.pdf)
-- Harvey A. Levenstein, _Paradox of Plenty_, 227-236 (15: Fast Foods and Quick Bucks). [PDF](readings/fast-food-quick-bucks.pdf)
-
-- _Edible South_, 188-212 (13: Branding the Edible New South).
-
 
 ### Corporate and Counterculture Food
 - Warren J. Bellasco, _Appetite for Change_, 43-67 (3: Radical Therapy).
@@ -225,12 +212,16 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 - _Edible South_, 301-14 (18: Food Counterculture, Southern-Style).
 - _Edible South_, 315-32 (19: New Southern Cuisine).
 
+### For reference: Convenience
+- Harvey A. Levenstein, _Paradox of Plenty_, 101-118 (7: Golden Age of Food Processing). [PDF](readings/food-processing.pdf)
+- Harvey A. Levenstein, _Paradox of Plenty_, 227-236 (15: Fast Foods and Quick Bucks). [PDF](readings/fast-food-quick-bucks.pdf)
+
 ### For reference: Corn
 - [Today’s botany lesson: Corn sex](http://apps.washingtonpost.com/g/page/lifestyle/todays-botany-lesson-corn-sex/1770/)
 - [How corn made its way into just about everything we eat](https://www.washingtonpost.com/news/wonk/wp/2015/07/14/how-corn-made-its-way-into-just-about-everything-we-eat/?utm_term=.e102722b2d64)
 - [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/)
 
-- Review the [Website Anaylsis Guide](website-analysis)
+- Review the [Website Analysis Guide](website-analysis)
 
 
 
@@ -293,13 +284,17 @@ American Food can't be discussed without reference to American dieting. As with 
 ## Jun 26
 
 ### American Food Writing
-- Josée Johnston and Shyon Baumann, “Democracy versus Distinction: A Study of Omnivorousness in Gourmet Food Writing,” _American Journal of Sociology_ 113, no. 1 (2007): 165–204.
 - M.F.K. Fisher, [Consider the Oyster](readings/consider-the-oyster.pdf) (125-38; 146-59).
 - David Foster Wallace, [Consider the Lobster](readings/lobsterarticle.pdf) (READ THE FOOTNOTES!).
+
+### For reference
+- Josée Johnston and Shyon Baumann, “Democracy versus Distinction: A Study of Omnivorousness in Gourmet Food Writing,” _American Journal of Sociology_ 113, no. 1 (2007): 165–204.
 
 
 
 ## Jun 27
+- [The United States of Mexican Food](https://www.eater.com/2019/4/23/18214403/mexican-food-us-region-america?fbclid=IwAR2YbAcuWHHM0DORiE9loWvl06bQEOcAHIHVod5Hak6sfK--XYDE8Rt1VBw)
+
 - What have we read? How do the different kinds of writing matter?
 - Big Points Exercise
 - DUE: 800-1000 word website analysis
