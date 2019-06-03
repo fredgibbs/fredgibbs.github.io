@@ -7,6 +7,28 @@ title: courses
 
 <div class="row course">
 
+
+<div class="row course">
+<div class="col-12">
+  <h2 class="course-title"><a href="american-food">History of American Food</a></h2>
+</div>
+
+<div class="col-4">
+  <img class="course-poster" src="images/american-food-cultures-2019.jpg">
+</div>
+
+  <div class="col-8">
+    <p class="course-desc">
+This course investigates the changing meanings of food and foodways throughout US history, including what people eaten, how they have attached cultural values to certain foods yet rejected others, and how immigration, and regionalization have shaped notions of American cuisine. When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. But what about American food? Is there such a thing? How much does the history of American Food tell a very different story of US History than we typically hear? How are ideas of nationalism reflected in our foodways? What constitutes a “national” cuisine? Does this concept even make sense anymore?
+
+    </p>
+  </div>
+
+</div>
+
+
+
+
 <div class="col-12">
   <h2 class="course-title"><a href="digital-history">Digital History</a></h2>
 </div>
@@ -59,23 +81,6 @@ title: courses
 </div>
 
 
-<div class="row course">
-<div class="col-12">
-  <h2 class="course-title"><a href="american-food">History of American Food Cultures</a></h2>
-</div>
-
-<div class="col-4">
-  <img class="course-poster" src="images/american-food-sm.jpg">
-</div>
-
-  <div class="col-8">
-    <p class="course-desc">
-This course investigates the changing meanings of food and foodways throughout US history, including what people eaten, how they have attached cultural values to certain foods yet rejected others, and how immigration, and regionalization have shaped notions of American cuisine. When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. But what about American food? Is there such a thing? How much does the history of American Food tell a very different story of US History than we typically hear? How are ideas of nationalism reflected in our foodways? What constitutes a “national” cuisine? Does this concept even make sense anymore?
-
-    </p>
-  </div>
-
-</div>
 
 
 <div class="row course">
