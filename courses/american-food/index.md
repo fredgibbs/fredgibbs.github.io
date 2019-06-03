@@ -33,17 +33,19 @@ Some questions we'll tackle: What have Americans eaten over time? Why? How much 
 ## Work Requirements and Grading
 
 ### It's summer
-As an upper level history course compressed into a month, it's meant to be a challenge. But I do recognize that it's summer, and that we're still recovering from last semester/year. There isn't much to do most days except do the preparatory reading, reflect on it, come to class, and participate in the conversations and activities. For the major assignments (see below), we'll practice doing them together before you do them on your own.
+As an upper level history course compressed into a month, it's meant to be a challenge. But I do recognize that it's summer, and that we're still recovering from last semester/year and we have busy lives outside of class. There isn't much to do most days except do the preparatory reading, reflect on it, write a brief response (sometimes), come to class, and participate in the conversations and activities. For the major assignments (see below), we'll practice doing them together before you do them on your own.
 
 **Given the compressed nature of the class, the main work/fun on which you will be evaluated is general engagement in our daily activities and conversation.**
 
-- Thorough preparedness and engaged participation in class meetings (40 points)
-- Small reading response assignments (20 points)
-- Reading/discussion quizzes  (10 points)
-- Food writing informal presentations (10 points)
+- Thorough preparedness and engaged participation in class meetings (20 points)
+- Reading/discussion quizzes (20 points)
+- Reading responses (18 points) [instructions and schedule](reading-responses)
 - Cookbook analysis (10 points) [instructions](cookbook-analysis)
-- Digital Food History analysis (10 points) [instructions](website-analysis)
+- Food writing analysis presentation (10 points) [instructions](food-writing-presentation)
+- Food writing analysis essay (10 points) [instructions](food-writing-essay)
+- Digital Food History analysis (12 points) [instructions](website-analysis)
 
+- Everyone gets 2 unexcused absences for free. After that, there is a 10 point penalty for each absence. Significant illness, family emergencies, and similar unexpected life events are always excused absences. Car trouble, tiredness, hangovers, etc. are not excused absences. If you miss 5 classes for any reason (including excused absences) you will be dropped from the course.
 
 ### Grade Distribution
 

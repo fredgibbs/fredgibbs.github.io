@@ -9,7 +9,7 @@ header: american-food
 
 
 ## For all readings
-Be prepared to answer the following in class:
+Everyday, to encourage easy participation points, I ask the same questions. Be prepared to answer the following in class:
 - What did you take away from the reading?
 - What is the author's argument or point to the chapter?
 - What kind of evidence do they use to support their argument?
@@ -52,7 +52,7 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 ### Introductions
 - Review the syllabus, course aims, assignments, and general plan for the semester.
 - Why are you here?
-- [Why study food?](readings/why-study-food)
+- [Why study food?](readings/why-study-food.pdf)
 
 
 ### Why Care About Taste?
@@ -98,16 +98,21 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 - _HAE_, 1-31 (1: Cuisine of Contact).
 
 ### Corn
-- _Founding Food_, 4-48.
+- _Founding Food_, 4-29; 39-48 (1: The Beautifull Noble Eare).
 - _Tamales_, 7-24 (1: The People of Corn).
 
-### For reference
+### For reference: Corn
+- [Today’s botany lesson: Corn sex](http://apps.washingtonpost.com/g/page/lifestyle/todays-botany-lesson-corn-sex/1770/)
+- [How corn made its way into just about everything we eat](https://www.washingtonpost.com/news/wonk/wp/2015/07/14/how-corn-made-its-way-into-just-about-everything-we-eat/?utm_term=.e102722b2d64)
+- [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/)
+
+### For reference: Food and Identity
 - Heather Trigg, “[Food Choice and Social Identity in Early Colonial New Mexico](readings/trigg.pdf),” 223–252.
 
 
 
 ## Jun 6
-- _Founding Food_, 49-70 (2: Beans and Pumpkins)
+- _Founding Food_, 49-52; 65-70 (2: Beans and Pumpkins)
 - _Founding Food_, 71-119 (3: Fish and Shellfish).
 
 
@@ -160,7 +165,7 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 
 ### Immigration
 - _HAE_, 57-87 (3: Expansion and Immigration).
-- _HAE_, 169-78.
+- _HAE_, 169-78 (7: Food Habits and Racial Thinking).
 - _Tamales_, 45-76.
 - Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change,” _The Journal of Popular Culture_, 36.4 (2003): 669–86.
 
@@ -206,9 +211,11 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 
 ## Jun 21
 
+- Review the [Website Analysis Guide](website-analysis)
+
 ### Corporate and Counterculture Food
-- Warren J. Bellasco, _Appetite for Change_, 43-67 (3: Radical Therapy).
-- Warren J. Bellasco, _Appetite for Change_, 111-31 (5: The Orthodox Defense).
+- Warren J. Belasco, _Appetite for Change_, 43-67 (3: Radical Therapy).
+- Warren J. Belasco, _Appetite for Change_, 111-31 (5: The Orthodox Defense). [PDF](readings/chap-5-war-of-metaphors.pdf)
 - _Edible South_, 301-14 (18: Food Counterculture, Southern-Style).
 - _Edible South_, 315-32 (19: New Southern Cuisine).
 
@@ -216,12 +223,8 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 - Harvey A. Levenstein, _Paradox of Plenty_, 101-118 (7: Golden Age of Food Processing). [PDF](readings/food-processing.pdf)
 - Harvey A. Levenstein, _Paradox of Plenty_, 227-236 (15: Fast Foods and Quick Bucks). [PDF](readings/fast-food-quick-bucks.pdf)
 
-### For reference: Corn
-- [Today’s botany lesson: Corn sex](http://apps.washingtonpost.com/g/page/lifestyle/todays-botany-lesson-corn-sex/1770/)
-- [How corn made its way into just about everything we eat](https://www.washingtonpost.com/news/wonk/wp/2015/07/14/how-corn-made-its-way-into-just-about-everything-we-eat/?utm_term=.e102722b2d64)
-- [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/)
 
-- Review the [Website Analysis Guide](website-analysis)
+
 
 
 
@@ -261,7 +264,7 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 
 ## Jun 25
 
-### Fad Diets (watch/read IN ORDER)
+### Fad Diets and Nutritionism  (read IN ORDER)
 American Food can't be discussed without reference to American dieting. As with previous readings, we're not reading these because they are "right", but because they illustrate a collective insanity about the relationship between food and health. How much do Fad Diets help define American Food? How should we understand the idea of "natural" in terms of American food?
 
 - [How to Reduce Lectins in Your Diet](https://articles.mercola.com/sites/articles/archive/2017/08/14/reduce-lectins-in-your-diet.aspx)
