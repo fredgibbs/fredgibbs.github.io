@@ -112,9 +112,10 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 
 
 ## Jun 6
-- _Founding Food_, 49-52; 65-70 (2: Beans and Pumpkins)
-- _Founding Food_, 71-119 (3: Fish and Shellfish).
-
+- Review _Tamales_, chapter 1 reading.
+- _Founding Food_, 49-52; 65-70 (2: Beans and Pumpkins).
+- _Founding Food_, 71-80; 88-109 (3: Fish and Shellfish).
+- Review previous readings for QUIZ.
 
 
 # Week 2
