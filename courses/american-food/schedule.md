@@ -125,7 +125,7 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 - _HAE_, 33-55 (2: Food and the Founding).
 - _Edible South_, 9-22 (1: Outsiders).
 - _Edible South_, 23-33 (2: Insiders).
-- SKIM: James E. McWilliams, _A Revolution in Eating_, 279-321 (8: A Culinary Declaration of Independence), via [ugly PDF](readings/McWilliams.pdf) or [ProQuest Ebook](https://ebookcentral.proquest.com/lib/unm/reader.action?docID=895246&ppg=288)
+- James E. McWilliams, _A Revolution in Eating_, 279-321 (8: A Culinary Declaration of Independence), via [ugly PDF](readings/McWilliams.pdf) or [ProQuest Ebook](https://ebookcentral.proquest.com/lib/unm/reader.action?docID=895246&ppg=288)
 
 
 
