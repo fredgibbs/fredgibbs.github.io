@@ -121,6 +121,8 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 # Week 2
 
 ## Jun 10
+First things is our QUIZ
+
 ### Revolutionary Food
 - _HAE_, 33-55 (2: Food and the Founding).
 - _Edible South_, 9-22 (1: Outsiders).
@@ -137,12 +139,22 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 - _Founding Food_, 120-147 (4: Cookbooks and Commerce).
 - Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_, 29-51 (2: Culinary Tradition).
 
-- For the following, there are no specific pages to read. But skim through the books and read a recipe here and there so you have a sense of their similarities and differences. What strikes you as most surprising or bizarre about the cookbooks? How did they affirm or complicate your ideas of American food? How can we use them as historical courses?
+- For the following (they are main sources for several of our readings), there are no specific pages to read. But skim through the books and read a recipe here and there so you have a sense of their similarities and differences. What strikes you as most surprising or bizarre about the cookbooks? How did they affirm or complicate your ideas of American food? How can we use them as historical courses?
   - Amelia Simmons, [American Cookery](https://books.google.com/books?id=_6CggcPs3iQC)
   - Lydia Child, [American Frugal Housewife](https://books.google.com/books?id=D3AEAAAAYAAJ)
   - Mary Randolph [The Virginia Housewife](https://books.google.com/books?id=R4YEAAAAYAAJ)
   - Eliza Leslie, [Miss Leslie's Complete Cookery](https://books.google.com/books?id=KVL5oJA8IWsC)
 
+
+### IN CLASS: Impromptu Group Research Reports
+  - Get in small groups (3 max)
+  - Everyone pick a book from [here](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis)
+    - When is it from?
+    - Who wrote it?
+    - Who is the audience?
+    - What does this tell us about American food at the time?
+    - How does it compare to others in your group?
+    - Be prepared to report on your own book and how it was distinct from others in your group
 
 ### For reference
 - Colleen Cotter, “Claiming a Piece of the Pie,” 51–68. [PDF](readings/claiming-piece-of-the-pie.pdf)
@@ -176,13 +188,13 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 # Week 3
 
 ## Jun 17: NO CLASS (midterm break!)
-### Read ahead!
+Nothing to do for today, but use the extra day to read ahead and polish your cookbook reviews.
 
 ## Jun 18
 - _HAE_, 89-110 (4: Technology and Taste).
-- _Edible South_, 48-70 (4: Language of Food in Civil War South).
 - _Edible South_, 71-84 (5: African Americans and the Collective Memory of a 19th c. South).
 - _Edible South_, 85-93 (6: The Reconstructed Table).
+- DUE: Cookbook reviews (to be presented in class; Bring printed summary to turn in. Remember to follow the [Cookbook Analysis Guide](cookbook-analysis).
 
 
 ## Jun 19
@@ -206,26 +218,9 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 - _Edible South_, 124-135 (9: The Southern "Dietaries").
 - _Edible South_, 188-212 (13: Branding the Edible New South).
 
-- DUE: Cookbook reviews (to be presented in class; Bring printed summary to turn in. Remember to follow the [Cookbook Analysis Guide](cookbook-analysis).
-
-
-
-## Jun 21
-
-- Review the [Website Analysis Guide](website-analysis)
-
-### Corporate and Counterculture Food
-- Warren J. Belasco, _Appetite for Change_, 43-67 (3: Radical Therapy).
-- Warren J. Belasco, _Appetite for Change_, 111-31 (5: The Orthodox Defense). [PDF](readings/chap-5-war-of-metaphors.pdf)
-- _Edible South_, 301-14 (18: Food Counterculture, Southern-Style).
-- _Edible South_, 315-32 (19: New Southern Cuisine).
-
-### For reference: Convenience
-- Harvey A. Levenstein, _Paradox of Plenty_, 101-118 (7: Golden Age of Food Processing). [PDF](readings/food-processing.pdf)
-- Harvey A. Levenstein, _Paradox of Plenty_, 227-236 (15: Fast Foods and Quick Bucks). [PDF](readings/fast-food-quick-bucks.pdf)
-
-
-
+## Looking ahead to finals
+- Review the Food writing analysis essay [instructions](food-writing-essay)
+- Review the Digital Food History analysis [instructions](website-analysis)
 
 
 
@@ -233,7 +228,19 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 # Week 4
 
 ## Jun 24
+### Corporate and Counterculture Food
+- Warren J. Belasco, _Appetite for Change_, 43-67 (3: Radical Therapy).
+- Warren J. Belasco, _Appetite for Change_, 111-31 (5: The Orthodox Defense). [PDF](readings/chap-5-war-of-metaphors.pdf)
+- _Edible South_, 301-14 (18: Food Counterculture, Southern-Style).
+- _Edible South_, 315-32 (19: New Southern Cuisine).
 
+### Convenience (SKIM)
+- Harvey A. Levenstein, _Paradox of Plenty_, 101-118 (7: Golden Age of Food Processing). [PDF](readings/food-processing.pdf)
+- Harvey A. Levenstein, _Paradox of Plenty_, 227-236 (15: Fast Foods and Quick Bucks). [PDF](readings/fast-food-quick-bucks.pdf)
+
+
+
+## Jun 25
 ### Gendered Cooking
 - [When Male Chefs Fear the Specter of ‘Women’s Work’](https://www.eater.com/2017/11/30/16687914/toxic-masculinity-restaurants)
 - [Why Are We Still Failing Female Chefs?](https://www.eater.com/2018/5/30/17397060/women-chefs-food-media)
@@ -263,8 +270,8 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 
 
 
-## Jun 25
 
+## Jun 26
 ### Fad Diets and Nutritionism  (read IN ORDER)
 American Food can't be discussed without reference to American dieting. As with previous readings, we're not reading these because they are "right", but because they illustrate a collective insanity about the relationship between food and health. How much do Fad Diets help define American Food? How should we understand the idea of "natural" in terms of American food?
 
@@ -285,20 +292,24 @@ American Food can't be discussed without reference to American dieting. As with 
 
 
 
-## Jun 26
 
+## Jun 27
 ### American Food Writing
 - M.F.K. Fisher, [Consider the Oyster](readings/consider-the-oyster.pdf) (125-38; 146-59).
 - David Foster Wallace, [Consider the Lobster](readings/lobsterarticle.pdf) (READ THE FOOTNOTES!).
+- [The United States of Mexican Food](https://www.eater.com/2019/4/23/18214403/mexican-food-us-region-america?fbclid=IwAR2YbAcuWHHM0DORiE9loWvl06bQEOcAHIHVod5Hak6sfK--XYDE8Rt1VBw)
+
 
 ### For reference
 - Josée Johnston and Shyon Baumann, “Democracy versus Distinction: A Study of Omnivorousness in Gourmet Food Writing,” _American Journal of Sociology_ 113, no. 1 (2007): 165–204.
 
-
-
-## Jun 27
-- [The United States of Mexican Food](https://www.eater.com/2019/4/23/18214403/mexican-food-us-region-america?fbclid=IwAR2YbAcuWHHM0DORiE9loWvl06bQEOcAHIHVod5Hak6sfK--XYDE8Rt1VBw)
-
-- What have we read? How do the different kinds of writing matter?
+### In class
+- Final Assignment reviews  
+- What have we read? How do the books tell different stories? How do the different kinds of writing matter?
 - Big Points Exercise
-- DUE: 800-1000 word website analysis
+
+
+## June 29 (SATURDAY)
+Obviously there is no meeting today, but it's officially the last day of the summer term, so all work is due. Let me know if you need a few extra days, but that's all I can offer since grades are due early the following week.
+- DUE: Food writing analysis essay (10 points) [instructions](food-writing-essay)
+- DUE: Digital Food History analysis (12 points) [instructions](website-analysis)
