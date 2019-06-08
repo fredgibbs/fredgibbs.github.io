@@ -37,6 +37,7 @@ As an upper level history course compressed into a month, it's meant to be a cha
 
 **Given the compressed nature of the class, the main work/fun on which you will be evaluated is general engagement in our daily activities and conversation.**
 
+### Required (due dates on the schedule page)
 - Thorough preparedness and engaged participation in class meetings (20 points)
 - Reading/discussion quizzes (20 points)
 - Reading responses (18 points) [instructions and schedule](reading-responses)
@@ -45,9 +46,14 @@ As an upper level history course compressed into a month, it's meant to be a cha
 - Food writing analysis essay (10 points) [instructions](food-writing-essay)
 - Digital Food History analysis (12 points) [instructions](website-analysis)
 
+### Extra Credit (all due on the Saturday after the last day of class: June 29)
+- Food Documentary / Film Critique (8 points) [instructions](film-analysis)
+
+
+### Attendance
 - Everyone gets 2 unexcused absences for free. After that, there is a 10 point penalty for each absence. Significant illness, family emergencies, and similar unexpected life events are always excused absences. Car trouble, tiredness, hangovers, etc. are not excused absences. If you miss 5 classes for any reason (including excused absences) you will be dropped from the course.
 
-### Grade Distribution
+### Grading Scale
 
 Points | Grade
 --- | ---
@@ -67,6 +73,7 @@ Points | Grade
 ### Please Ask for Help
 I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how it can be improved (if at all). If life gets overwhelming during the course, it can be tempting to drift away from an intensive elective course like this. PLEASE DON'T! Rather than disappear, please come talk with me about how we can accommodate your circumstances.
 
+You are always welcome and encouraged to ask for brief feedback about assignments you are working on. This is very useful for making sure you're on the right track or learning about any major flaws or omissions in your work-in-progress. Send me a draft or bring it to class. A 5-minute consultation can make your life MUCH easier!
 
 ## UNM Resources
 [CAPS Tutoring Services](http://caps.unm.edu/programs/online-tutoring/) is a free-of-charge educational assistance program available to UNM students

@@ -7,7 +7,7 @@ section: home
 header: american-food
 ---
 # Food Writing Essay
-This assignment is one of the two "final" assignments for the course, due the Monday after class (short extensions will be readily granted).
+This assignment is one of the two "final" assignments for the course, due the Saturday after class (short extensions will be readily granted).
 
 ## Main objectives
 This assignment encourages you to bring what we've learned in class in critiquing and analyzing food writing in general. It's meant to be an extension of the presentations, but in written form and more synthetic.

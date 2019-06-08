@@ -7,6 +7,9 @@ section: home
 header: american-food
 ---
 # Digital Food History Analysis Guide
+This assignment is one of the two "final" assignments for the course, due the Saturday after class (short extensions will be readily granted).
+
+## Objective
 The main goal of this class is to help us think more critically about food and food history, particularly how it appears online, in Google searches for instance, which is how we often find (mis)information quickly.
 
 Your research presentations will show you applying the analytical frameworks we learn in this class to a particular topic of your choice (anything vaguely related to food history, even if not American).
