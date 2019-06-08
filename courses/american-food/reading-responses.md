@@ -17,16 +17,17 @@ header: american-food
 - Thursdays: 1: sources; 2: rest; 3: description/argument
 
 ## Description/argument
-- What does the text describe?
-- Is there an argument, or just description?
-- Are we motivated to care?
-- Do the examples seem exceptional or representative?
+This group practices summarizing the variety of readings.
+- What are the key take home arguments or descriptions of the readings? What themes stood out to you?
+  - Note this is a synthetic exercise! You should be tying together the themes across the readings
+- What did you find most interesting /surprising / confusing about the selections? Why?
 
 ## Sources
-- What are the sources used throughout the text?
-- Roughly how many sources are used?
-- Roughly how many kinds of sources are used?
-- Do the examples seem exceptional or representative?
+This group practices evaluating the kinds of sources used by our readings (whether in footnotes or just described in the text). It should also encourage us to think critically about how sources are being used to make historical arguments about food.
+- What kinds of sources are used?
+- Do the sources and examples adequately support the argument?
+  - Are the quantity and variety of sources and examples sufficient?
+  - For instance: if our reading says that New Englanders ate X, but cites only 1 example from 1 cookbook, would that be considered sufficient evidence? Or an overgeneralization?
 
 
 ## Rest
