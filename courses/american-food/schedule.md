@@ -121,7 +121,7 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 # Week 2
 
 ## Jun 10
-First things is our QUIZ
+First thing is our review QUIZ from week 1.
 
 ### Revolutionary Food
 - _HAE_, 33-55 (2: Food and the Founding).
