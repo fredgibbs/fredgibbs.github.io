@@ -99,7 +99,7 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 
 ### Corn
 - _Founding Food_, 4-29; 39-48 (1: The Beautifull Noble Eare).
-- _Tamales_, 7-24 (1: The People of Corn).
+- _Tamales_, 7-24 (1: The People of Corn). [PDF](readings/tamales-1.pdf)
 
 ### For reference: Corn
 - [Today’s botany lesson: Corn sex](http://apps.washingtonpost.com/g/page/lifestyle/todays-botany-lesson-corn-sex/1770/)
@@ -135,7 +135,7 @@ First thing is our review QUIZ from week 1.
 ## Jun 11
 
 ### Early Cookbooks as Historical Sources
-- _Tamales_, 25-43 (2: The Conquest of Wheat).
+- _Tamales_, 25-43 (2: The Conquest of Wheat). [PDF](readings/tamales-2.pdf)
 - _Founding Food_, 120-147 (4: Cookbooks and Commerce).
 - Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_, 29-51 (2: Culinary Tradition).
 
@@ -179,8 +179,8 @@ First thing is our review QUIZ from week 1.
 ### Immigration
 - _HAE_, 57-87 (3: Expansion and Immigration).
 - _HAE_, 169-78 (7: Food Habits and Racial Thinking).
-- _Tamales_, 45-76.
-- Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change,” _The Journal of Popular Culture_, 36.4 (2003): 669–86.
+- _Tamales_, 45-76 (3: Many Chefs in the National Kitchen). [PDF](readings/tamales-3.pdf)
+- Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change,” _The Journal of Popular Culture_, 36.4 (2003): 669–86. [PDF](readings/Barbas-2003-The_Journal_of_Popular_Culture.pdf)
 
 
 
@@ -310,6 +310,6 @@ American Food can't be discussed without reference to American dieting. As with 
 
 
 ## June 29 (SATURDAY)
-Obviously there is no meeting today, but it's officially the last day of the summer term, so all work is due. Let me know if you need a few extra days, but that's all I can offer since grades are due early the following week.
+Obviously there is no meeting today, but it's officially the last day of our summer term, so all work is due. Let me know if you need a few extra days, but that's all I can offer since grades are due early the following week.
 - DUE: Food writing analysis essay (10 points) [instructions](food-writing-essay)
 - DUE: Digital Food History analysis (12 points) [instructions](website-analysis)
