@@ -137,7 +137,7 @@ First thing is our review QUIZ from week 1.
 ### Early Cookbooks as Historical Sources
 - _Tamales_, 25-43 (2: The Conquest of Wheat). [PDF](readings/tamales-2.pdf)
 - _Founding Food_, 120-147 (4: Cookbooks and Commerce).
-- Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_, 29-51 (2: Culinary Tradition).
+- Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_, 29-51 (2: Culinary Tradition). [PDF](readings/united-tastes.pdf)
 
 - For the following (they are main sources for several of our readings), there are no specific pages to read. But skim through the books and read a recipe here and there so you have a sense of their similarities and differences. What strikes you as most surprising or bizarre about the cookbooks? How did they affirm or complicate your ideas of American food? How can we use them as historical courses?
   - Amelia Simmons, [American Cookery](https://books.google.com/books?id=_6CggcPs3iQC)
