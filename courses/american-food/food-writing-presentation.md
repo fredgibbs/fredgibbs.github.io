@@ -9,7 +9,7 @@ header: american-food
 # Food Writing Comparison
 I'm making this up as we go and we'll make adjustments as necessary.
 
-Every T, W, Th, 3 people will be selected at random to present the following day. Each will get a random number between 1 and 28 that denotes an essay in the Food Writing book. SKIM each essay and pick one that you want to report on.
+Each day (probably not Mondays), 4 people will be selected at random to present the following day. Each will get a random number between 1 and 28 that denotes an essay in the Food Writing book.
 
 The next day, you will present an informal summary and analysis to the class for 6-8 min. A brief question and answer period will follow. A chance for everyone to participate!
 
@@ -19,7 +19,7 @@ The next day, you will present an informal summary and analysis to the class for
 - To the extent you are able (since some people present early in the semester and some nearer the end), apply the readings and our discussion to your analysis
 - Describe what your essay tells us about American Culture/Food/Cuisine. Usually you need to read between the lines here, including thinking about what it means that your essay even exists and was selected as "best" food writing of 2018.
 
-## Questions to keep in mind 
+## Questions to keep in mind
 Here are some questions to bear in mind while reading and preparing your comments. You should not and/or cannot answer all of these well in 8 minutes. Pick those that are most relevant to your particular essays:
 - What kind of assumptions does the author(s) make about cooking/cuisine/food/food production?
 - Who is the intended audience? What should they know? What should they care about?

@@ -191,10 +191,11 @@ First thing is our review QUIZ from week 1.
 Nothing to do for today, but use the extra day to read ahead and polish your cookbook reviews.
 
 ## Jun 18
+- DUE: Cookbook reviews as we've discussed. 800 words. Remember to follow the [Cookbook Analysis Guide](cookbook-analysis). We will randomly select a few people to comment on their essays, but it's not a presentation like the food writing one (you can stay in your seat!).
+
 - _HAE_, 89-110 (4: Technology and Taste).
 - _Edible South_, 71-84 (5: African Americans and the Collective Memory of a 19th c. South).
 - _Edible South_, 85-93 (6: The Reconstructed Table).
-- DUE: Cookbook reviews (to be presented in class; Bring printed summary to turn in. Remember to follow the [Cookbook Analysis Guide](cookbook-analysis).
 
 
 ## Jun 19
