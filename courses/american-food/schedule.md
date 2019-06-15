@@ -202,7 +202,7 @@ Nothing to do for today, but use the extra day to read ahead and polish your coo
 ### Moral Food
 - Charlotte Biltekoff, _Eating Right in America_, 13-44 (Scientific Moralization) [PDF](readings/scientific-moralization.pdf).
 - _Tamales_, 77-97 (4: Tortilla Discourse).
-- Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122-48.
+- Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122-48. [PDF](readings/food-fights-american-values.pdf)
 
 
 ### For reference
