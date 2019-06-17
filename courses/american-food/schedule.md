@@ -200,21 +200,25 @@ Nothing to do for today, but use the extra day to read ahead and polish your coo
 
 ## Jun 19
 ### Moral Food
-- Charlotte Biltekoff, _Eating Right in America_, 13-44 (Scientific Moralization) [PDF](readings/scientific-moralization.pdf).
-- _Tamales_, 77-97 (4: Tortilla Discourse).
 - Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122-48. [PDF](readings/food-fights-american-values.pdf)
-
+- Charlotte Biltekoff, _Eating Right in America_, 13-44 (Scientific Moralization) [PDF](readings/scientific-moralization.pdf).
 
 ### For reference
-- _HAE_, 143-55 (6: Pious and Patriotic Stomach).
-- [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html)
 - Wilbur Atwater, "Chemistry, Foods, Nutrition" (1887), 59-74. [PDF](readings/chemistry-food-nutrition.pdf).
 
 
 
 ## Jun 20
+
+### Primary
+- _HAE_, 143-55 (6: Pious and Patriotic Stomach).
+- _Tamales_, 77-97 (4: Tortilla Discourse).
+- [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html)
+
+
+### Secondary
 - _Tamales_, 143-62 (7: Recipes for _Patria_).
-- _Edible South_, 97-122 (7: The Shifting Soil of Southern Agriculture).
+- _Edible South_, 97-108 (7: The Shifting Soil of Southern Agriculture).
 - _Edible South_, 109-123 (8: Home Economics and Domestic Science).
 - _Edible South_, 124-135 (9: The Southern "Dietaries").
 - _Edible South_, 188-212 (13: Branding the Edible New South).
