@@ -210,14 +210,12 @@ Nothing to do for today, but use the extra day to read ahead and polish your coo
 
 ## Jun 20
 
-### Primary
+### Cereal, Health, and National Cuisine
 - _HAE_, 143-55 (6: Pious and Patriotic Stomach).
-- _Tamales_, 77-97 (4: Tortilla Discourse).
 - [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html)
-
-
-### Secondary
 - _Tamales_, 143-62 (7: Recipes for _Patria_).
+
+### Post-war Southern Food
 - _Edible South_, 97-108 (7: The Shifting Soil of Southern Agriculture).
 - _Edible South_, 109-123 (8: Home Economics and Domestic Science).
 - _Edible South_, 124-135 (9: The Southern "Dietaries").
@@ -234,7 +232,7 @@ Nothing to do for today, but use the extra day to read ahead and polish your coo
 
 ## Jun 24
 ### Corporate and Counterculture Food
-- Warren J. Belasco, _Appetite for Change_, 43-67 (3: Radical Therapy).
+- Warren J. Belasco, _Appetite for Change_, 43-67 (3: Radical Therapy). [PDF](readings/chap-3-radical-identity.pdf)
 - Warren J. Belasco, _Appetite for Change_, 111-31 (5: The Orthodox Defense). [PDF](readings/chap-5-war-of-metaphors.pdf)
 - _Edible South_, 301-14 (18: Food Counterculture, Southern-Style).
 - _Edible South_, 315-32 (19: New Southern Cuisine).
