@@ -231,15 +231,16 @@ Nothing to do for today, but use the extra day to read ahead and polish your coo
 # Week 4
 
 ## Jun 24
-### Corporate and Counterculture Food
-- Warren J. Belasco, _Appetite for Change_, 43-67 (3: Radical Therapy). [PDF](readings/chap-3-radical-identity.pdf)
-- Warren J. Belasco, _Appetite for Change_, 111-31 (5: The Orthodox Defense). [PDF](readings/chap-5-war-of-metaphors.pdf)
+### Corporate, Convenience and Counterculture Food
+- (1,2) Warren J. Belasco, _Appetite for Change_, 43-67 (3: Radical Therapy). [PDF](readings/chap-3-radical-identity.pdf)
+- (1,2) Warren J. Belasco, _Appetite for Change_, 111-31 (5: The Orthodox Defense). [PDF](readings/chap-5-war-of-metaphors.pdf)
+
+- (3,4) Harvey A. Levenstein, _Paradox of Plenty_, 101-118 (7: Golden Age of Food Processing). [PDF](readings/food-processing.pdf)
+- (3,4) Harvey A. Levenstein, _Paradox of Plenty_, 227-236 (15: Fast Foods and Quick Bucks). [PDF](readings/fast-food-quick-bucks.pdf)
+
+### New Southern Food
 - _Edible South_, 301-14 (18: Food Counterculture, Southern-Style).
 - _Edible South_, 315-32 (19: New Southern Cuisine).
-
-### Convenience (SKIM)
-- Harvey A. Levenstein, _Paradox of Plenty_, 101-118 (7: Golden Age of Food Processing). [PDF](readings/food-processing.pdf)
-- Harvey A. Levenstein, _Paradox of Plenty_, 227-236 (15: Fast Foods and Quick Bucks). [PDF](readings/fast-food-quick-bucks.pdf)
 
 
 
