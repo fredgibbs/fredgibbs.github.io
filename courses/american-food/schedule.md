@@ -246,9 +246,9 @@ Nothing to do for today, but use the extra day to read ahead and polish your coo
 
 ## Jun 25
 ### Food Media
-- [The Problems With Food Media That Nobody Wants to Talk About](https://firstwefeast.com/eat/2016/02/problems-with-food-media)
 - Signe Rousseau, _Food Media_, xix-xxxiv [PDF](readings/food-media-preface.pdf); 5-20 [PDF](readings/food-media-intro.pdf).
 - Ray Krishnendu, “Domesticating Cuisine: Food and Aesthetics on American Television,” 50–63. [PDF](readings/Domesticating Cuisine.pdf)
+- [The Problems With Food Media That Nobody Wants to Talk About](https://firstwefeast.com/eat/2016/02/problems-with-food-media)
 
 
 ### Gendered Cooking
