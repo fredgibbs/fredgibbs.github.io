@@ -245,15 +245,16 @@ Nothing to do for today, but use the extra day to read ahead and polish your coo
 
 
 ## Jun 25
+### Food Media
+- [The Problems With Food Media That Nobody Wants to Talk About](https://firstwefeast.com/eat/2016/02/problems-with-food-media)
+- Signe Rousseau, _Food Media_, xix-xxxiv [PDF](readings/food-media-preface.pdf); 5-20 [PDF](readings/food-media-intro.pdf).
+- Ray Krishnendu, “Domesticating Cuisine: Food and Aesthetics on American Television,” 50–63. [PDF](readings/Domesticating Cuisine.pdf)
+
+
 ### Gendered Cooking
 - [When Male Chefs Fear the Specter of ‘Women’s Work’](https://www.eater.com/2017/11/30/16687914/toxic-masculinity-restaurants)
 - [Why Are We Still Failing Female Chefs?](https://www.eater.com/2018/5/30/17397060/women-chefs-food-media)
-- [The Problems With Food Media That Nobody Wants to Talk About](https://firstwefeast.com/eat/2016/02/problems-with-food-media)
 - [Why there are no great women chefs](https://gastronomica.org/2010/02/05/why-are-there-no-great-women-chefs/)
-
-### The Food Network
-- Signe Rousseau, _Food Media_, xix-xxxiv [PDF](readings/food-media-preface.pdf); 5-20 [PDF](readings/food-media-intro.pdf).
-- Ray Krishnendu, “Domesticating Cuisine: Food and Aesthetics on American Television,” 50–63. [PDF](http://www.jstor.org/stable/10.1525/gfc.2007.7.1.50)
 
 
 ### For reference
