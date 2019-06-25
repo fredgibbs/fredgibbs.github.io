@@ -259,8 +259,8 @@ Nothing to do for today, but use the extra day to read ahead and polish your coo
 
 ### For reference
 - Julia Child (cheese soufflé)
-  - [Beef Bourguignon](https://www.youtube.com/watch?v=zA2ys8C-lNk)
-  - [Cheese Soufflé](https://www.youtube.com/watch?v=IFAjJif7OoY)
+  - [Beef Bourguignon](https://www.dailymotion.com/video/x2gtae0)
+  - [Cheese Soufflé](https://www.dailymotion.com/video/x2gti4y)
 
 - Rachael Ray
   - [$40/day](https://www.youtube.com/watch?time_continue=4&v=NysZaFhvW6s)
