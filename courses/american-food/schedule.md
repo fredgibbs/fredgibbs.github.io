@@ -254,19 +254,37 @@ Nothing to do for today, but use the extra day to read ahead and polish your coo
 ### Gendered Cooking
 - [When Male Chefs Fear the Specter of ‘Women’s Work’](https://www.eater.com/2017/11/30/16687914/toxic-masculinity-restaurants)
 - [Why Are We Still Failing Female Chefs?](https://www.eater.com/2018/5/30/17397060/women-chefs-food-media)
-- [Why there are no great women chefs](https://gastronomica.org/2010/02/05/why-are-there-no-great-women-chefs/)
+- [Why there are no great women chefs](https://gastronomica.org/2010/02/05/why-are-there-no-great-women-chefs/) 
 
 
 ### For reference
-- Julia Child (cheese soufflé)
+- Julia Child (The French Chef)
   - [Beef Bourguignon](https://www.dailymotion.com/video/x2gtae0)
   - [Cheese Soufflé](https://www.dailymotion.com/video/x2gti4y)
 
+- Ming Tsai (East Meets West)
+ - [Chiles](https://www.youtube.com/watch?v=U3sLmeKR7hg)
+
+- Jamie Oliver (The Naked Chef)
+  - [Chefs' Night Off](https://www.youtube.com/watch?v=c_gXQvmHL3I)
+
+- Giada De Laurentiis (Everyday Italian)
+  - [Everyday Italian-Seafood Feast](https://www.foodnetwork.com/videos/everyday-italian-seafood-feast-0108595)
+
+- Bobby Flay (Throwdown!)
+  - [Chowder](https://www.foodnetwork.com/shows/throwdown-with-bobby-flay/episodes/chowder)
+
+- Guy Fieri
+  - [Guy's Big Bite - Penne with Cajun Links](https://www.foodnetwork.com/shows/guys-big-bite/episodes/mexicajitalian-fusion)
+  - [Diner, Drive-Ins and Dives - A Bowlful of Soul](https://www.foodnetwork.com/restaurants/shows/diners-drive-ins-and-dives)
+
+- Gordon Ramsey
+  - [Hell's Kitchen](https://www.dailymotion.com/video/x565t1o)
+
 - Rachael Ray
   - [$40/day](https://www.youtube.com/watch?time_continue=4&v=NysZaFhvW6s)
-  - [Tex-Mex](https://www.youtube.com/watch?v=naqJr7e43cs)
 
-- Emeril Lagasse
+- The Evolution of Emeril Lagasse (and the Food Network)
   - [Shrimp Étouffée (Original Show)](https://www.youtube.com/watch?v=p_0Z7IUhyv8)
   - [Emeril and Friends](https://www.youtube.com/watch?v=0KEi3vMi4Dg)
   - [Tex-Mex Chile](https://www.youtube.com/watch?v=lL9C70DItUA)
