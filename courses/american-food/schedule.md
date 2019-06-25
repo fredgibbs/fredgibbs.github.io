@@ -254,35 +254,41 @@ Nothing to do for today, but use the extra day to read ahead and polish your coo
 ### Gendered Cooking
 - [When Male Chefs Fear the Specter of ‘Women’s Work’](https://www.eater.com/2017/11/30/16687914/toxic-masculinity-restaurants)
 - [Why Are We Still Failing Female Chefs?](https://www.eater.com/2018/5/30/17397060/women-chefs-food-media)
-- [Why there are no great women chefs](https://gastronomica.org/2010/02/05/why-are-there-no-great-women-chefs/) 
+- [Why there are no great women chefs](https://gastronomica.org/2010/02/05/why-are-there-no-great-women-chefs/)
 
 
 ### For reference
-- Julia Child (The French Chef)
+- Julia Child (The French Chef, 1962-73)
   - [Beef Bourguignon](https://www.dailymotion.com/video/x2gtae0)
   - [Cheese Soufflé](https://www.dailymotion.com/video/x2gti4y)
 
-- Ming Tsai (East Meets West)
- - [Chiles](https://www.youtube.com/watch?v=U3sLmeKR7hg)
+- Mario Batali
+  - [Molto Mario (1996-2004) - Pasta Sauces](https://www.youtube.com/watch?v=-QvWpWm_PEg)
 
-- Jamie Oliver (The Naked Chef)
-  - [Chefs' Night Off](https://www.youtube.com/watch?v=c_gXQvmHL3I)
+- Ming Tsai
+ - [East Meets West (1998-2003) - Chiles](https://www.youtube.com/watch?v=U3sLmeKR7hg)
 
-- Giada De Laurentiis (Everyday Italian)
-  - [Everyday Italian-Seafood Feast](https://www.foodnetwork.com/videos/everyday-italian-seafood-feast-0108595)
+- Jamie Oliver
+  - [The Naked Chef (1999-2001) - Chefs' Night Off](https://www.youtube.com/watch?v=c_gXQvmHL3I)
 
-- Bobby Flay (Throwdown!)
-  - [Chowder](https://www.foodnetwork.com/shows/throwdown-with-bobby-flay/episodes/chowder)
+- Giada De Laurentiis
+  - [Everyday Italian (2003-08) - Seafood Feast](https://www.foodnetwork.com/videos/everyday-italian-seafood-feast-0108595)
+
+- Bobby Flay
+  - [Throwdown! (2006-10) - Chowder](https://www.foodnetwork.com/shows/throwdown-with-bobby-flay/episodes/chowder)
 
 - Guy Fieri
-  - [Guy's Big Bite - Penne with Cajun Links](https://www.foodnetwork.com/shows/guys-big-bite/episodes/mexicajitalian-fusion)
-  - [Diner, Drive-Ins and Dives - A Bowlful of Soul](https://www.foodnetwork.com/restaurants/shows/diners-drive-ins-and-dives)
+  - [Guy's Big Bite (2006-16) - Penne with Cajun Links](https://www.foodnetwork.com/shows/guys-big-bite/episodes/mexicajitalian-fusion)
+  - [Diners, Drive-Ins and Dives (2007-present) - A Bowlful of Soul](https://www.foodnetwork.com/restaurants/shows/diners-drive-ins-and-dives)
 
-- Gordon Ramsey
-  - [Hell's Kitchen](https://www.dailymotion.com/video/x565t1o)
+- Gordon Ramsay
+  - [Hell's Kitchen (2005-present)](https://www.dailymotion.com/video/x565t1o)
 
 - Rachael Ray
-  - [$40/day](https://www.youtube.com/watch?time_continue=4&v=NysZaFhvW6s)
+  - [$40/day (2002-05)](https://www.youtube.com/watch?time_continue=4&v=NysZaFhvW6s)
+  - [30 Minute Meals (2001)](https://www.youtube.com/watch?v=QSJS2HFcRwk)
+  - [30 Minute Meals 2.0 (2018)]((https://www.youtube.com/watch?v=fI9lzO0hqfA)
+
 
 - The Evolution of Emeril Lagasse (and the Food Network)
   - [Shrimp Étouffée (Original Show)](https://www.youtube.com/watch?v=p_0Z7IUhyv8)
@@ -290,7 +296,6 @@ Nothing to do for today, but use the extra day to read ahead and polish your coo
   - [Tex-Mex Chile](https://www.youtube.com/watch?v=lL9C70DItUA)
   - [Comfort Food](https://www.youtube.com/watch?v=eoNjjnJ9MOc)
   - [Eat the World](https://www.youtube.com/watch?v=GtL7wtG3PnQ)
-
 
 
 
