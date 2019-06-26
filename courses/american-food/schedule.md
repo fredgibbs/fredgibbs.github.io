@@ -287,7 +287,7 @@ Nothing to do for today, but use the extra day to read ahead and polish your coo
 - Rachael Ray
   - [$40/day (2002-05)](https://www.youtube.com/watch?time_continue=4&v=NysZaFhvW6s)
   - [30 Minute Meals (2001)](https://www.youtube.com/watch?v=QSJS2HFcRwk)
-  - [30 Minute Meals 2.0 (2018)]((https://www.youtube.com/watch?v=fI9lzO0hqfA)
+  - [30 Minute Meals 2.0 (2018)](https://www.youtube.com/watch?v=fI9lzO0hqfA)
 
 
 - The Evolution of Emeril Lagasse (and the Food Network)
