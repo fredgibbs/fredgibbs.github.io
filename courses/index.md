@@ -6,60 +6,72 @@ title: courses
 # Regularly Scheduled Courses
 
 <div class="row course">
-
-
-<div class="row course">
-<div class="col-12">
-  <h2 class="course-title"><a href="american-food">History of American Food</a></h2>
-</div>
-
-<div class="col-4">
-  <img class="course-poster" src="images/american-food-cultures-2019.jpg">
-</div>
-
-  <div class="col-8">
-    <p class="course-desc">
-This course investigates the changing meanings of food and foodways throughout US history, including what people eaten, how they have attached cultural values to certain foods yet rejected others, and how immigration, and regionalization have shaped notions of American cuisine. When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. But what about American food? Is there such a thing? How much does the history of American Food tell a very different story of US History than we typically hear? How are ideas of nationalism reflected in our foodways? What constitutes a “national” cuisine? Does this concept even make sense anymore?
-
-    </p>
+  <div class="col-12">
+    <h2 class="course-title"><a href="trails">National Historic Trails</a></h2>
   </div>
 
-</div>
-
-
-
-
-<div class="col-12">
-  <h2 class="course-title"><a href="digital-history">Digital History</a></h2>
-</div>
-
-<div class="col-4">
-  <img class="course-poster" src="images/digital-history-sm.jpg">
-</div>
-
-  <div class="col-8">
-    <p class="course-desc">This course examines how technology shapes our access to and interpretations of the past. How does the digitization of cultural artifacts change the ways historians ask and answer questions about the past? What kinds of new research methods do historians need to analyze and interpret the exponentially growing digital archive? How has digital publishing and platforms like Wikipedia challenged traditional historical expertise and authority? Our collaborative coursework will focus on using new media technologies to communicate about the value and significance of history.</p>
+  <div class="col-4">
+    <img class="course-poster" src="images/trails-sm.jpg">
   </div>
-
-</div>
-
-
-
-<div class="row course">
-<div class="col-12">
-  <h2 class="course-title"><a href="trails">National Historic Trails</a></h2>
-</div>
-
-<div class="col-4">
-  <img class="course-poster" src="images/trails-sm.jpg">
-</div>
 
   <div class="col-8">
     <p class="course-desc">This multidisciplinary course provides an introduction to the study, interpretation, and significance of the National Historic Trails System. It also explores the challenges of public history by engaging students as core contributors to research projects at the National Trails Intermountain Region Office that will appear on their official website. Throughout the course we’ll also discuss broad questions about cultural heritage and historic preservation: What constitutes a historic trail? How does a historic trail retain cultural significance? What are the challenges and strategies in communicating about the trails to a 21st-century audience?</p>
     <p> Learn about <a href="https://historic-trails.github.io/santa-fe-itinerary/">historic sites on the Santa Fe Trail</a> from the Fall 2018 students!</p>
   </div>
-
 </div>
+
+
+<div class="row course">
+  <div class="col-12">
+    <h2 class="course-title"><a href="historiography">Historiography</a></h2>
+  </div>
+
+  <div class="col-4">
+    <img class="course-poster" src="images/historiography-sm.jpg">
+  </div>
+
+  <div class="col-8">
+    <p class="course-desc">
+      This course introduces some of the most influential approaches that historians (from antiquity through the present) have taken in thinking and writing about the past. It also addresses various meta-questions about history: What is history? What is it for? Who is it for? It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history. Coursework consists of numerous short essays that compare and contrast different processes, modes of thought, and modes of expression from different historical time periods and in different geographic areas.
+    </p>
+  </div>
+</div>
+
+
+<div class="row course">
+  <div class="col-12">
+    <h2 class="course-title"><a href="american-food">History of American Food</a></h2>
+  </div>
+
+  <div class="col-4">
+    <img class="course-poster" src="images/american-food-cultures-2019.jpg">
+  </div>
+
+  <div class="col-8">
+    <p class="course-desc">
+      This course investigates the changing meanings of food and foodways throughout US history, including what people eaten, how they have attached cultural values to certain foods yet rejected others, and how immigration, and regionalization have shaped notions of American cuisine. When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. But what about American food? Is there such a thing? How much does the history of American Food tell a very different story of US History than we typically hear? How are ideas of nationalism reflected in our foodways? What constitutes a “national” cuisine? Does this concept even make sense anymore?
+    </p>
+  </div>
+</div>
+
+
+<div class="row course">
+
+  <div class="col-12">
+    <h2 class="course-title"><a href="digital-history">Digital History</a></h2>
+  </div>
+
+  <div class="col-4">
+    <img class="course-poster" src="images/digital-history-sm.jpg">
+  </div>
+
+  <div class="col-8">
+    <p class="course-desc">This course examines how technology shapes our access to and interpretations of the past. How does the digitization of cultural artifacts change the ways historians ask and answer questions about the past? What kinds of new research methods do historians need to analyze and interpret the exponentially growing digital archive? How has digital publishing and platforms like Wikipedia challenged traditional historical expertise and authority? Our collaborative coursework will focus on using new media technologies to communicate about the value and significance of history.</p>
+  </div>
+</div>
+
+
+
 
 
 
@@ -95,26 +107,6 @@ This course investigates the changing meanings of food and foodways throughout U
 <div class="col-8">
   <p class="course-desc">
     This course explores how supermarkets have come to look like they do. We’ll look at the impact of science and technology on food production, processing, and distribution (such as canning, refrigeration, GMOs, techno-foods). We’ll also put these developments in larger social, cultural, and demographic contexts, including the growing divide between food producers and consumers, urbanization, and food deserts, the rise of food corporations, governmental regulation and sustainability. Even more broadly, we try to identify connections between agriculture, ecology, consumerism, capitalism, media, politics, and the history of science and medicine.
-  </p>
-</div>
-
-</div>
-
-
-
-<div class="row course">
-<div class="col-12">
-  <h2 class="course-title"><a href="historiography">Historiography</a></h2>
-</div>
-
-
-<div class="col-4">
-  <img class="course-poster" src="images/historiography-sm.jpg">
-</div>
-
-<div class="col-8">
-  <p class="course-desc">
-    This course introduces some of the most influential approaches that historians (from antiquity through the present) have taken in thinking and writing about the past. It also addresses various meta-questions about history: What is history? What is it for? Who is it for? It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history. Coursework consists of numerous short essays that compare and contrast different processes, modes of thought, and modes of expression from different historical time periods and in different geographic areas.
   </p>
 </div>
 
