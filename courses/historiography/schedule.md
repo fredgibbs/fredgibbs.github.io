@@ -97,7 +97,6 @@ This syllabus is a guide, not a contract. As a living document that changes depe
 {% include alert.html class='info' title='Discussion prep' text="
 - Is quantitative history fundamentally different from “regular” history?
 - Will all history gradually become quantitative history (as most sources become born-digital or digitized)?  
-
 "%}
 
 
