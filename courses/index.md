@@ -7,6 +7,23 @@ title: courses
 
 <div class="row course">
   <div class="col-12">
+    <h2 class="course-title"><a href="historiography">Historiography</a></h2>
+  </div>
+
+  <div class="col-4">
+    <img class="course-poster" src="images/historiography-sm.jpg">
+  </div>
+
+  <div class="col-8">
+    <p class="course-desc">
+      This course introduces some of the most influential approaches that historians (from antiquity through the present) have taken in thinking and writing about the past. It also addresses various meta-questions about history: What is history? What is it for? Who is it for? It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history. Coursework consists of numerous short essays that compare and contrast different processes, modes of thought, and modes of expression from different historical time periods and in different geographic areas.
+    </p>
+  </div>
+</div>
+
+
+<div class="row course">
+  <div class="col-12">
     <h2 class="course-title"><a href="trails">National Historic Trails</a></h2>
   </div>
 
@@ -21,21 +38,7 @@ title: courses
 </div>
 
 
-<div class="row course">
-  <div class="col-12">
-    <h2 class="course-title"><a href="historiography">Historiography</a></h2>
-  </div>
 
-  <div class="col-4">
-    <img class="course-poster" src="images/historiography-sm.jpg">
-  </div>
-
-  <div class="col-8">
-    <p class="course-desc">
-      This course introduces some of the most influential approaches that historians (from antiquity through the present) have taken in thinking and writing about the past. It also addresses various meta-questions about history: What is history? What is it for? Who is it for? It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history. Coursework consists of numerous short essays that compare and contrast different processes, modes of thought, and modes of expression from different historical time periods and in different geographic areas.
-    </p>
-  </div>
-</div>
 
 
 <div class="row course">
