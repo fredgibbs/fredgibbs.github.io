@@ -111,7 +111,7 @@ This syllabus is a guide, not a contract. As a living document that changes depe
 ### 9: From Qualitative to Digital History
 {% include alert.html class='warning' title='Digital History' text="
 - Be prepared to discuss the following:
-  - What is your sense of what "digital history" is?
+  - What is your sense of what 'digital history' is?
   - Do you think the historical profession will need new research paradigms?
   - Are historiography courses going to look very different in 20 years because of digital technologies?
 "%}
