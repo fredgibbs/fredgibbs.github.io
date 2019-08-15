@@ -17,14 +17,13 @@ This syllabus is a guide, not a contract. As a living document that changes depe
 - Introduction to [Github](http://github.com)
 {% include alert.html class='warning' title='Do This BEFORE WEDNESDAY' text="
 - Follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero).
-- Follow the [GitHub setup instructions](http://fredgibbs.net/courses/etc/github-instructions).
+- Follow the [GitHub setup instructions](http://fredgibbs.net/courses/etc/connecting-to-github).
 "%}
 
 ### 21: What is Historiography?
 {% include alert.html class='warning' title='Leave time for GitHub' text="
-- All assignments must be posted in [our repository](https://github.com/unm-historiography/2018-spring). Instructions are in the [README file](https://github.com/unm-historiography/2018-spring/blob/master/README.md).
+- All assignments must be posted in [our repository](https://github.com/unm-historiography/2019-fall). You will want to consult our [Instructions for using GitHub](http://fredgibbs.net/courses/etc/posting-to-github).
 "%}
-- Resolve GitHub and Markdown confusion
 - _FHTH_, "What is Historiography?", 1-24.  
 
 
@@ -96,20 +95,14 @@ This syllabus is a guide, not a contract. As a living document that changes depe
 - Margo Anderson, "Qualitative History", 246-59.
 
 {% include alert.html class='info' title='Discussion prep' text="
+- Is quantitative history fundamentally different from “regular” history?
+- Will all history gradually become quantitative history (as most sources become born-digital or digitized)?  
 
-- Come to class prepared to discuss whether quantitative history has a more rosy future (as claimed on p. 258) in 2018 than it did in 2007 (when Anderson was writing) or in 1967 (after initial forays into cliometrics).
-"%}
-
-{% include alert.html class='warning' title='Quantitative History' text="
-- Be prepared to discuss the following:
-  - Is history well served by models? (also: do you need math to have models?)
-  - Will all history gradually become quantitative history (as most sources become born-digital or digitized)?  
-  - Is quantitative history fundamentally different from “regular” history?
 "%}
 
 
 ### 9: From Qualitative to Digital History
-{% include alert.html class='warning' title='Digital History' text="
+{% include alert.html class='info' title='No Reading, but' text="
 - Be prepared to discuss the following:
   - What is your sense of what 'digital history' is?
   - Do you think the historical profession will need new research paradigms?
@@ -155,33 +148,58 @@ Everyone is a commenter for today, and you need to answer two questions to which
 
 ### 30:  Getting to the know the Intro Guide
 {% include alert.html class='danger' title='Revisions due' text="
-By sure all edits are committed to GitHub.
+Be sure all edits are committed to GitHub.
 "%}
 
 
 ## Week 12
 ### 4:
+{% include alert.html class='danger' title='Essay Outlines' text="
+For today, post a COMPLETE outline for your essay. With no reading assignment, this is obviously your focus, so DO IT WELL and save everyone (including your future self) headaches later.
 
+Your outline will be gradually expanded into your essay, so the better the topic points--WHICH WILL BECOME PARAGRAPHS LATER--the easier time you will have shifting your essay from topics (ideas) into prose (narrative).
 
-### 6:
+Your topic points should include the crucial explanations for what's significant about what you're talking about--especially how it deviated from previous historiography at the time and its legacy.
 
+Put your outlines in the [essays/outlines folder](https://github.com/unm-historiography/2019-fall/tree/master/essays/outlines)
 
+### START BUILDING YOUR ZOTERO LIBRARY
+For more instructions on what to do, [watch this](https://www.youtube.com/watch?v=yD8_6MZFI8c&feature=youtu.be).
 
+### THESE ARE WORKING NOTES
+As such, ask questions, makes notes to yourself and your colleagues (who will review your work later).
 
-## Week 13
+### DON'T FORGET CITATIONS
+If you just write stuff down and don't bother citing where you found it, you will have to eventually hunt down all the page numbers and THAT'S A HUGE WASTE OF TIME. As someone who has wasted considerable time on just that, please take my advice: take time to make accurate references THE FIRST TIME.
+"%}
 
-### 11: Narrative history
+### 6: Narrative history
 - Alex Rosenberg, [Why most narrative history is wrong](https://www.salon.com/2018/10/07/why-most-narrative-history-is-wrong/)
 {% include alert.html class='info' title='Discussion prep' text="
   - Where do you agree and disagree with this article?
 "%}
 
 
+
+## Week 13
+
+### 11:
+{% include alert.html class='danger' title='Expand Topic Points ' text="
+Two steps for this assignment:
+
+1) Improve your topic points according to feedback
+
+2) Make them paragraphs (add/delete/combine as need be)
+
+#### Be sure your paragraphs have an expressed purpose, contribute to your argument, and cite adequate sources.
+
+"%}
 ### 13: Scales of history
 * Kieran Healy, "Fuck nuance", 1-13.
 
 {% include alert.html class='info' title='Discussion prep' text="
   - Besides making for a good story, is there significant value in historical work that simply adds nuance to widely accepted understandings of the past?
+  - Is history well served by models? (also: do you need math to have models?)
 "%}
 
 
@@ -204,10 +222,16 @@ By sure all edits are committed to GitHub.
 
 ## Week 15:  Postmodern discursive history
 ### 25: Professed Purposes
-- _What is History For?_, pp. ??
+- _What is History For?_, 31--58.
+
+{% include alert.html class='danger' title='Bring Paper Copies' text="
+We'll be doing a peer review session with your essays, so please bring TWO HARD COPIES of your essay to class, DOUBLE-SPACED!
+"%}
+
+
 
 ### 27: Hidden Agendas
-- _What is History For?_, pp. ??
+- _What is History For?_, 59--84.
 
 
 
@@ -218,45 +242,3 @@ By sure all edits are committed to GitHub.
 
 
 ## All course work due by Dec 11!
-
-
-
-
-{% include alert.html class='info' title='Expand Topic Points ' text="
-Two steps for this assignment:
-
-1) Improve your topic points according to feedback
-
-2) Make them paragraphs (add/delete/combine as need be)
-
-#### Be sure your paragraphs have an expressed purpose, contribute to your argument, and cite adequate sources.
-
-"%}
-
-{% include alert.html class='danger' title='Bring Paper Copies' text="
-We'll be doing a peer review session with your essays, so please bring TWO HARD COPIES of your essay to class, DOUBLE-SPACED!
-"%}
-
-
-
-{% include alert.html class='info' title='Essay Outlines' text="
-For today, post a COMPLETE outline for your essay. With no reading assignment, this is obviously your focus, so DO IT WELL and save everyone (including your future self) headaches later.
-
-Your outline should use _topic points [= bullet points]_ as we have been practicing with previous assignments.
->Note: I'm trying to eliminate gun/violence metaphors from my writing, so please pardon the following awkwardness in terminology. But notice that bullets are called that because they are short, to-the-point, and make an impact. Which should still be true for your topic points.
-
-Your outline will be gradually expanded into your essay, so the better the topic points--WHICH WILL BECOME PARAGRAPHS LATER--the easier time you will have shifting your essay from topics (ideas) into prose (narrative).
-
-Your topic points should include the crucial [look! emplotment!!] explanations for what's significant about what you're talking about--especially how it deviated from previous historiography at the time and its legacy.
-
-Put your outlines in the [essays/outlines folder](https://github.com/unm-historiography/2018-spring/tree/master/essays/outlines)
-
-### START BUILDING YOUR ZOTERO LIBRARY
-For more instructions on what to do, [watch this](https://www.youtube.com/watch?v=yD8_6MZFI8c&feature=youtu.be).
-
-### THESE ARE WORKING NOTES
-As such, ask questions, makes notes to yourself and your colleagues (who will review your work later).
-
-### DON'T FORGET CITATIONS
-If you just write stuff down and don't bother citing where you found it, you will have to eventually hunt down all the page numbers and THAT'S A HUGE WASTE OF TIME. As someone who has wasted considerable time on just that, please take my advice: take time to make accurate references THE FIRST TIME.
-"%}
