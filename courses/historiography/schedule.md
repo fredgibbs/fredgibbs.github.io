@@ -63,7 +63,7 @@ This syllabus is a guide, not a contract. As a living document that changes depe
 
 ### 18: Enlightenment
 - _PoH_, 168-200.
-
+- Discussion of editing assignment due next week
 
 
 ## Week 6
@@ -71,9 +71,16 @@ This syllabus is a guide, not a contract. As a living document that changes depe
 ### 23: Hegel
 - _PoH_, 201-237.
 
+{% include alert.html class='danger' title='First edits due' text="
+Your first edits should be complete and visible on GitHub. We'll devote some class discussion time for evaluating these.
+"%}
+
 ### 25: Marx
 - _PoH_, 238-277.
 
+{% include alert.html class='danger' title='Final edits due' text="
+Your final edits should be complete and visible on GitHub (11% of your grade).
+"%}
 
 
 ## Week 7
@@ -118,7 +125,6 @@ This syllabus is a guide, not a contract. As a living document that changes depe
 
 ### 16: What is History FOR?
 - _PoH_, 323-56.
-- Discussion of editing assignment due next week
 
 
 ## Week 10:
@@ -152,7 +158,7 @@ Be sure all edits are committed to GitHub.
 
 
 ## Week 12
-### 4:
+### 4: Essay Outlines
 {% include alert.html class='danger' title='Essay Outlines' text="
 For today, post a COMPLETE outline for your essay. With no reading assignment, this is obviously your focus, so DO IT WELL and save everyone (including your future self) headaches later.
 
