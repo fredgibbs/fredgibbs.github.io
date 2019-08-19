@@ -53,13 +53,16 @@ This syllabus is a guide, not a contract. As a living document that changes depe
 
 ### 11: Interlude?
 - _PoH_, 107-126.
-
+- Discussion of assignment due Tuesday
 
 
 ## Week 5
 
 ### 16: Giambattista Vico (1668-1744)
 - _PoH_, 127-167.
+{% include alert.html class='danger' title='The Intro Guide' text="
+Comment on your first impressions. Can freshmen learn the BASICS of historiography from this? Can this be a way of helping students to reimagine history? What needs to be improved? (There is an overwhelming amount to be improved, so the assignment here is kind of stating the obvious---but it's an important first step.)
+"%}
 
 ### 18: Enlightenment
 - _PoH_, 168-200.
