@@ -13,24 +13,35 @@ This syllabus is a guide, not a contract. As a living document that changes depe
 
 ## Week 1
 ### 19: Syllabus, Expectations, Tools
+- Introduction to the course
 - Introduction to [Zotero](http://zotero.org)
-- Introduction to [Github](http://github.com)
-{% include alert.html class='warning' title='Do This BEFORE WEDNESDAY' text="
+
+{% include alert.html class='danger' title='Do this TODAY' text="
 - Follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero).
-- Follow the [GitHub setup instructions](http://fredgibbs.net/courses/etc/connecting-to-github).
 "%}
 
+
 ### 21: What is Historiography?
-{% include alert.html class='warning' title='Leave time for GitHub' text="
-- All assignments must be posted in [our repository](https://github.com/unm-historiography/2019-fall). You will want to consult our [Instructions for using GitHub](http://fredgibbs.net/courses/etc/posting-to-github).
+- _From Herodotus to H-Net_, "What is Historiography?", 1-24.  
+- Introduction to [Github](http://github.com)
+
+{% include alert.html class='danger' title='Do This BEFORE FRIDAY' text="
+- Follow the [GitHub setup instructions](http://fredgibbs.net/courses/etc/connecting-to-github).
+- Consult our [Instructions for using GitHub](http://fredgibbs.net/courses/etc/posting-to-github).
+- Note that starting Monday (for Monday, not after Monday), all assignments must be posted in [our repository](https://github.com/unm-historiography/2019-fall).
 "%}
-- _FHTH_, "What is Historiography?", 1-24.  
 
 
 ## Week 2
 
 ### 26: Philosophy of History
 - _PoH_, 1-13.
+{% include alert.html class='info' title='Leave time for GitHub' text="
+A short reading assignment, partially to let you get used to posting on GitHub. Everyone should post a comment on the following, drawing from the previous two readings:
+- Where have you encountered historiography before?
+- Should you have encountered historiography before?
+- Why is history important?
+"%}
 
 ### 28: Pre-classical History + Greco-Roman History
 - _PoH_,  14-27; 28-44.

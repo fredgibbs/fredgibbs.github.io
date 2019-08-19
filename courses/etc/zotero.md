@@ -16,7 +16,7 @@ There are two ways of getting course readings through the course Zotero Library.
 
 
 ## Step 1: Create an account at zotero.org
-Regardless of which method you use, **you must [sign up for a free account at zotero.org](https://www.zotero.org/user/register)**. Creating a Zotero account requires only that you specify a username, password, and email address. You will not get any spam from Zotero or anyone else because of your Zotero account.
+Regardless of which method you use, **you must [sign up for a free account at zotero.org](https://www.zotero.org/user/register)**. Creating a Zotero account requires only that you specify a username, password, and email address. You will not get any spam from Zotero or anyone else because of your Zotero account. **Use your UNM email address!!!!!**
 
 
 ## Step 2: Accept the invitation to join the group library
@@ -24,7 +24,7 @@ After the first day of class, you will get an email from Zotero.org that will in
 
 
 ## Step 3: View the course library online
-**Once you've created your account AND accepted the invitation to join the group**, you'll be able to visit the course library (the link is specified on the course syllabus). Once you're on our group library page, be sure you are logged into your Zotero account, and you'll see all of the readings listed there. You can download or simply read the PDFs online as you need them.
+**Once you've created your account AND accepted the invitation**, you'll be able to visit the course library (the link is specified on the course syllabus). Once you're on our group library page, be sure you are logged into your Zotero account, and you'll see all of the readings listed there. You can download or simply read the PDFs online as you need them.
 
 
 ## Optional Step 4: Installing Zotero on your computer
@@ -36,8 +36,10 @@ Then, automagically, on the leftmost column of your Zotero display, near the bot
 
 
 ## Use the Zotero Application, not just the website.
-What's most important is that you can access the course readings. But I highly recommend that you install and use the Zotero (the Standalone version) on your computer rather than just downloading the readings from the the course library online.
+What's most important is that you can access the course readings. But I highly recommend that, if possible, you install and use the Zotero (the Standalone version) on your computer rather than just downloading the readings from the the course library online.
 
-For one, it makes getting and organizing the course readings far more convenient.
+One: it makes getting and organizing the course readings far more convenient.
 
-Perhaps more importantly, learning how to stay organized in your studies is a crucial skill that you'll want to develop sooner than later because it will save you tremendous amounts of time. This course is a great excuse to start experimenting with finding a process that works best for you.  Your future self will thank you.
+Two: It will make managing your research bibliographies for your historiographic essay far far more convenient.
+
+Most: Learning how to stay organized in your studies is a crucial skill that you'll want to develop sooner than later because it will save you tremendous amounts of time. This course is a great excuse to start experimenting with finding a process that works best for you.  Your future self will thank you!
