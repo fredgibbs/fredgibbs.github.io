@@ -27,7 +27,8 @@ This syllabus is a guide, not a contract. As a living document that changes depe
 
 {% include alert.html class='danger' title='Do This BEFORE FRIDAY' text="
 - Follow the [GitHub setup instructions](http://fredgibbs.net/courses/etc/connecting-to-github).
-- Add your GitHub username to our [shared Google Doc](https://docs.google.com/document/d/1Db2kwK0AXIRQWyE7wO_0JU_NFXTGOgZCGIfBGl1qmMM/edit?usp=sharing)
+- Add your GitHub username to our [shared Google Doc](https://docs.google.com/document/d/1Db2kwK0AXIRQWyE7wO_0JU_NFXTGOgZCGIfBGl1qmMM/edit?usp=sharing).
+- Click on the link from the invitation email (like Zotero, but from GitHub).
 - Consult our [Instructions for using GitHub](http://fredgibbs.net/courses/etc/posting-to-github).
 - Note that starting Monday (for Monday, not after Monday), all assignments must be posted in [our repository](https://github.com/unm-historiography/2019-fall).
 "%}
@@ -39,8 +40,9 @@ This syllabus is a guide, not a contract. As a living document that changes depe
 - _PoH_, 1-13.
 {% include alert.html class='info' title='Leave time for GitHub' text="
 A short reading assignment, partially to let you get used to posting on GitHub. Everyone should post a comment on the following, drawing from the previous two readings and your own personal experience:
-- What's the difference between studying the philosophy of history and historiography?
 - What is history for?
+- What's the difference between studying the philosophy of history and historiography?
+- How is historiography useful outside of the academy?
 "%}
 
 ### 28: Pre-classical History + Greco-Roman History

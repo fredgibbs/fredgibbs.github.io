@@ -12,8 +12,8 @@ A quick warning: GitHub is used primarily by programmers working on collaborativ
 ## Step 1: Create a GitHub Account
 [Create a free account](https://github.com/join). It takes 30 seconds, and you need only a username and password and email address; you will never get any kind of spam.
 
-## Step 2: Email me your GitHub username
-Send me [fwgibbs@unm.edu](mailto:fwgibbs@unm.edu) your GitHub username so that I can give you permission to edit the course repository. You'll get an email from GitHub about this to complete the process.
+## Step 2: Add your GitHub username to our class list
+The easiest way to join our GitHub team is to give me your GitHub username so I can invite you. Add your name to our shared doc: https://docs.google.com/document/d/1Db2kwK0AXIRQWyE7wO_0JU_NFXTGOgZCGIfBGl1qmMM/edit. At the end of Wednesday you'll get an email from GitHub inviting you to join our team. Make sure your name is on the list by then!
 
 ## Step 3: Look for an email from GitHub
 As soon as I get your email, I will invite you to join our repository. You will receive an email from GitHub that you've been invited to join our repository.
