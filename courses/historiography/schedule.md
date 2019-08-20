@@ -38,10 +38,9 @@ This syllabus is a guide, not a contract. As a living document that changes depe
 ### 26: Philosophy of History
 - _PoH_, 1-13.
 {% include alert.html class='info' title='Leave time for GitHub' text="
-A short reading assignment, partially to let you get used to posting on GitHub. Everyone should post a comment on the following, drawing from the previous two readings:
-- Where have you encountered historiography before?
-- Should you have encountered historiography before?
-- Why is history important?
+A short reading assignment, partially to let you get used to posting on GitHub. Everyone should post a comment on the following, drawing from the previous two readings and your own personal experience:
+- What's the difference between studying the philosophy of history and historiography?
+- What is history for?
 "%}
 
 ### 28: Pre-classical History + Greco-Roman History
