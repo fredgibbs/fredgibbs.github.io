@@ -9,7 +9,7 @@ section: home
 
 Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
 Mesa Vista Hall, 1077    
-Office Hours: MW 10-11:30 and by appointment    
+Office Hours: MW 10:30-12:30 and by appointment    
 -----
 
 ## Course Description
