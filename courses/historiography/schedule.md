@@ -27,6 +27,7 @@ This syllabus is a guide, not a contract. As a living document that changes depe
 
 {% include alert.html class='danger' title='Do This BEFORE FRIDAY' text="
 - Follow the [GitHub setup instructions](http://fredgibbs.net/courses/etc/connecting-to-github).
+- Add your GitHub username to our [shared Google Doc](https://docs.google.com/document/d/1Db2kwK0AXIRQWyE7wO_0JU_NFXTGOgZCGIfBGl1qmMM/edit?usp=sharing)
 - Consult our [Instructions for using GitHub](http://fredgibbs.net/courses/etc/posting-to-github).
 - Note that starting Monday (for Monday, not after Monday), all assignments must be posted in [our repository](https://github.com/unm-historiography/2019-fall).
 "%}
