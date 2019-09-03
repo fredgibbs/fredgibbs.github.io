@@ -7,15 +7,17 @@ permalink: /about
 # Hello World!
 I'm Fred Gibbs, an associate professor in the [history department](http://history.unm.edu) at the [University of New Mexico](http://unm.edu).
 
-My research focuses primarily on the changing historical relationships between food, diet and health (particularly the popularization of nutritional science), and the intersection of food, environmental, and urban histories (particularly food production, distribution, and geographies of health).
+I'm an associate professor of history who focuses on critical data studies, especially machine learning and GIS, and am always eager to work with community partners to build a shared digital heritage infrastructure. I also work on the history of food, diet, and health--most recently the history and rhetoric of natural food.
 
-My work in the digital humanities (particularly digital history) explores new modes of historical research and publishing, the importance of design in scholarship (especially cartography), critical GIS, and emerging digital publication practices for scholarship.
+For over a decade I have worked and published in various facets of the digital humanities, including computational history, digital editing and publishing, and data visualization. As an author and editor I have published a wide-ranging curriculum for helping scholars of all ranks blend qualitative and quantitative analytical skills.
 
-I continue to run the UNM [Spatial Humanities Working Group](http://spatialhumanities.unm.edu) (co-founded in 2015), and serve (since Oct 2016) as an editor of the [H-Nutrition](https://networks.h-net.org/h-nutrition) network on H-Net. Previously, from 2012-2017, I served as a general editor at [Programming Historian](http://programminghistorian.org).
+I'm always looking to draw upon my vast experience with web publishing technologies and platforms, especially web design, development (HTML/CSS/Javascript/PHP/Python), and digital mapping. Please get in touch if I could be a useful consultant to your project.
+
+I've served (since Oct 2016) as an editor of the [H-Nutrition](https://networks.h-net.org/h-nutrition) network on H-Net. I co-founded and co-organized the UNM [Spatial Humanities Working Group](http://spatialhumanities.unm.edu) (2015-18). Previously (2012-2017), I served as a general editor at [Programming Historian](http://programminghistorian.org).
 
 More on these projects, as well as other ongoing and previous research appears on [my project portfolio](../projects), and check peruse some publications (and links to them) on [my CV](../cv).
 
-Previously, my research focused on premodern toxicology, particularly late medieval and early modern medical literature on poison. I wrote [book](https://www.routledge.com/Poison-Medicine-and-Disease-in-Late-Medieval-and-Early-Modern-Europe/Gibbs/p/book/9781472420398) about it.
+Previously, my research focused on premodern toxicology, particularly late medieval and early modern medical literature on poison. I wrote a [book](https://www.routledge.com/Poison-Medicine-and-Disease-in-Late-Medieval-and-Early-Modern-Europe/Gibbs/p/book/9781472420398) about it.
 
 
 # History
