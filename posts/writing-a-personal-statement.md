@@ -3,9 +3,6 @@ layout: post
 title: "Unsolicited Advice on Writing a Personal Statement"
 date: 2019-09-04
 ---
-
-# Unsolicited Advice on Writing a Personal Statement
-
 Hello Student who has asked for a letter of recommendation!
 
 With the luxury of teaching smaller undergraduate seminars on a regular basis, writing letters of recommendations for students is a regular part of my fall semester. As you probably know, I always request that I see a copy of applicants' personal statements so that I can write a letter that complements what the student has written about themselves---highlighting strengths, mitigating weaknesses, and generally waxing poetic about the student from an instructor's standpoint.
