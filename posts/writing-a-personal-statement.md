@@ -1,4 +1,10 @@
-# Unsolicited Personal Statement Advice
+---
+layout: post
+title: "Unsolicited Advice on Writing a Personal Statement"
+date: 2019-09-04
+---
+
+# Unsolicited Advice on Writing a Personal Statement
 
 Hello Student who has asked for a letter of recommendation!
 
