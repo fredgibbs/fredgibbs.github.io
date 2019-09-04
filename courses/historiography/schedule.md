@@ -64,9 +64,13 @@ A short reading assignment, partially to let you get used to posting on GitHub. 
 - _PoH_, 74-106.
 - Niccolò Machiavelli, _The Prince_, 5-19. (These are really small pages.) Everyone should come to class prepared to discuss: What examples from _The Prince_ illustrate what's in the chapter? How does it draw from previous historiographic traditions?
 
+{% include alert.html class='info' title='Review posts from last time' text="
+We're going to tie up some loose ends from last time, so we can be most efficient if you review the excellent questions and comments you produced for last Wednesday's class.
+"%}
+
 ### 11: Interlude?
 - _PoH_, 107-126.
-- Discussion of assignment due Tuesday
+- Discussion of Intro Guide assignment due Monday
 
 
 ## Week 5
@@ -74,7 +78,13 @@ A short reading assignment, partially to let you get used to posting on GitHub. 
 ### 16: Giambattista Vico (1668-1744)
 - _PoH_, 127-167.
 {% include alert.html class='danger' title='The Intro Guide' text="
-Comment on your first impressions. Can freshmen learn the BASICS of historiography from this? Can this be a way of helping students to reimagine history? What needs to be improved? (There is an overwhelming amount to be improved, so the assignment here is kind of stating the obvious---but it's an important first step.)
+Maintaining our four groups:
+- Questioners: What questions to we need to be asking of ourselves to make this most usable for a new college student?
+- Summarizers: What are the strengths and weaknesses of what's already here?
+- Commenters: Can freshmen learn the BASICS of historiography from this? Can this be a way of helping students to reimagine history?
+- Slackers: You don't need to write anything, but as always be ready to contribute to our conversation.
+
+Note: There is an overwhelming amount to be improved, so the assignment here is to some extent an exercise in stating the obvious---but it's an important first step.
 "%}
 
 ### 18: Enlightenment
