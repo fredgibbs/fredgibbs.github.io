@@ -19,11 +19,11 @@ We already downloaded counties in the form of a shapefile; let's see if we can a
 
 This time, however, we are not going to use a shapefile because we're not interested in drawing explicitly geographic features (like county boundaries); we're interested in non-geographic data (like populations of counties).
 
-We'll get our data from census.gov again, at their page for [population estimates](https://www.census.gov/programs-surveys/popest.html). Click "Data" in the left nav bar, then "Datasets". Scroll down to the second link under the big 2018 to click on "County Population Totals and Components of Change: 2010-2018". Scroll all the way down to the bottom of the page to find a long link that starts with "Population, Population Change ...". That links downloads the data you need.
+We'll get our data from census.gov again, at their page for [population estimates](https://www.census.gov/programs-surveys/popest.html). Click "Data" in the left nav bar, then "Datasets". Scroll down to the second link under the big 2018 to click on "County Population Totals and Components of Change: 2010-2018". Scroll all the way down to the bottom of the page to find a long link that starts with "Population, Population Change ..." and has a green Microsoft-Excel-looking icon next to it. That links downloads the data you need.
 
 You have now experienced how labyrinthine census.gov really is. There is a lot of tremendous data there, but it can take some perseverance to locate. If you skimmed over the directions for the census data, you can click [here](https://www2.census.gov/programs-surveys/popest/datasets/2010-2018/counties/totals/co-est2018-alldata.csv) to get the file.
 
-_PRO TIP: The navigation links at census.gov often lead you in excruciatingly frustrating circles; a Google search is often the fastest way to find data you're after. When you do find what you're looking for, it's worth making a bookmark rather than assuming you can find it again quickly._
+_PRO TIP: The navigation links at census.gov often lead you in excruciatingly frustrating circles; a Google search is often the fastest way to find data you're after. When you do find what you're looking for, it's worth making a bookmark rather than assuming you can find it again quickly. This is also why it's useful to keep your data organized when you download it---so you don't have to find it or download it again._
 
 You just downloaded a CSV file, which stands for _Comma Separated Values_. You could load this into a spreadsheet, and it would look like:
 
@@ -31,13 +31,11 @@ You just downloaded a CSV file, which stands for _Comma Separated Values_. You c
 
 You should put this file, `co-est2018-alldata.csv` with your other files for this tutorial.
 
-To load this data into QGIS, open the Data Source Manager again and on the left select "Delimited Text". Click the three dots in the upper right to select the CSV file you just downloaded.
-
-In the File Format section, make sure CSV is selected (it should be the default). Notice that the preview pane on the bottom tells us how QGIS is interpreting the data in the file. If your CSV file isn't properly formatted, or you've chosen options from this dialog that do not correspond to the CSV file, the preview will show you that something is wrong.
+It's possible to load some CSV files into QGIS by dragging and dropping them onto a QGIS window, but it's better to follow a more explicit method. To load CSV data into QGIS, open the Data Source Manager again and on the left select "Delimited Text". Click the three dots in the upper right to select the CSV file you just downloaded. In the File Format section, make sure CSV is selected (it should be the default). Notice that the preview pane on the bottom tells us how QGIS is interpreting the data in the file. If your CSV file isn't properly formatted, or you've chosen options from this dialog that do not correspond to the CSV file, the preview will show you that something is wrong.
 
 Especially if you're someone who just likes to click "OK" without really paying attention, you'll notice the "Add" button is grayed out to save you from yourself. Here's why:
 
-This CSV file contains data related to geography (population of counties), but does not contain any strictly geographic data (our other files did). In other words, the data is not specifically for mapping; it's just data. So we need to tell QGIS not to look for any specific geographic data. Expand the Geometry Definition menu and select "No Geometry". Now you can click "Add" and "Close" the Data Source Manager window.
+This CSV file contains data related to geography (population of counties), but does not contain any data to tell QGIS how to draw that geography (our other files did). In other words, the data is not specifically for mapping; it's just data. So we need to tell QGIS not to look for any specific geographic data. Expand the Geometry Definition menu and select "No Geometry". Now you can click "Add" and "Close" the Data Source Manager window.
 
 
 {% include figure.html src="/assets/images/qgis/create-text-layer-2.png" caption="Pay attention to the preview to avoid future headaches" %}
@@ -46,7 +44,7 @@ You notice you have a new layer in the Layers pane, but we haven't told QGIS wha
 
 Let's just check out the data first. Right click on the `co-est2018-alldata` layer and "Open Attribute Table". Notice that our CSV file has loaded properly and contains lots of great data, like county name (the `CTYNAME` field), and the 2010 population (labeled as `CENSUS2010POP`) and various estimates for years since then. Take notice of the values in the `CTYNAME` field---they should look familiar.
 
-Now, open the attribute table for our original map of the counties (so you'll have two attribute tables open at once). You'll notice that it, too, contains a field (= column) listing all the county names, but in this file it's called `NAMELSAD`. Our two datasets (the county geographic data and the population data) both have the county names, and it doesn't matter that one is labeled as `CTYNAME` and the other as `NAMELSAD` because we can see (from just browsing through them) that the data is _exactly_ the same (they both have county names with the same capitalization and the word "County" in each case. Because of this congruity, we can join these tables together so that we can visualize the population data on our county map. Close the attribute tables for now.
+Now, open the attribute table for our original map of the counties (so you'll have two attribute tables open at once). You'll notice that it, too, contains a field (fields are columns) listing all the county names, but in this file it's called `NAMELSAD`. Our two datasets (the county geographic data and the population data) both have the county names, and it doesn't matter that one is labeled as `CTYNAME` and the other as `NAMELSAD` because we can see (from just browsing through them) that the data is _exactly_ the same (they both have county names with the same capitalization and the word "County" in each case. Because of this congruity, we can join these tables together so that we can visualize the population data on our county map. Close the attribute tables for now.
 
 
 ## Joining Datasets Together
@@ -70,7 +68,7 @@ Now on to the second step of useful joins: making our new population data visibl
 
 Return to the Properties menu of the original map. Click the Symbology Tab.
 
-What the hell is "symbology"? Well, you noticed that all our counties are simply filled in with the same color (mine is light green). So we're representing the area of a county with a "Single Symbol," which is to fill our polygons (= counties) with a single color.
+What the hell is "symbology"? Well, you noticed that all our counties are simply filled in with the same color (mine is light green). So we're representing the area of a county with a "Single Symbol," which is to fill our polygons (in this case counties) with a single color.
 
 At the very top of the dialog box, you can see "Single Symbol". Instead of the default Single Symbol (which means that all counties get filled with the same color), choose Graduated. You'll notice that a Color ramp appears (mine goes from white to bright red).
 
@@ -90,7 +88,7 @@ You probably expecting something more interesting and/or useful. This is not an 
 
 Bring up the properties dialog again. Notice the "Mode" dropdown box near the bottom. It's set to "Equal Interval". This is a classification scheme that equally divides our range of data (roughly 0 - 10,000,000) into bins with equal ranges (in this case roughly 2 million, so we have separate colors for roughly 0-2 million, 2-4 million, and so on). This is evident from the "Classes" window in the middle of the dialog box. This means that since virtually all counties in the U.S. have less than 2 million people, most everything is shaded the lightest color.
 
-Let's change the "Mode" to something that better fits our data, like "Natural Breaks (Jenks)". Basically this algorithm tries to find natural groupings in the data (up to the number of groups we specify, which is 5 by default).
+Let's change the "Mode" to something that better fits our data, like "Natural Breaks (Jenks)". Basically this algorithm tries to find natural groupings in the data (up to the number of groups we specify, which is 5 by default). Users should click "Classify" again after selecting "Natural Breaks (Jenks)".
 
 {% include figure.html src="/assets/images/qgis/symbology-breaks.png" caption="Take care that your styling is appropriate for your data." %}
 

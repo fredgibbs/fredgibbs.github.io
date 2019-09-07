@@ -1,0 +1,95 @@
+<html>
+<head>
+<style>
+	#standard {
+		border:3px solid blue;
+	}
+
+	#container {
+		width:35em;
+		margin: 0 auto 0 auto;
+		border:3px solid red;
+	}
+	
+	#mtest {
+		font-family: courier;
+		font-size: 12pt;
+		width:12em;
+		margin: 0 auto 0 auto;
+		border:3px solid green;
+	}
+
+	#mtest2 {
+			font-family: courier;
+			font-size: 12px;
+			width:144px; /* 12px x 12 characters = 144px */
+			margin: 0 auto 0 auto;
+			border:3px solid yellow;
+		}		
+	
+	#mtest3 {
+			font-family: courier;
+			font-size: 12px;
+			width:132px;
+			margin: 0 auto 0 auto;
+			border:3px solid yellow;
+		}
+ 
+</style>
+</head>
+
+<body>
+<div id="standard">
+<p>
+One common issue for new web programmers and designers is keeping line lengths under control.
+</p>
+<p>
+The default HTML behavior, as this div shows, is to have your text span as long as its container element allows. This could be as long as the viewer's screen is wide, which can make it quite hard to read. 
+</p>
+<p>
+It is easy not to notice this because typically you are developing your webpage in a reasonably sized browser window, but other people will view your page under different circumstances depending on browser and screen size. The best way to ensure that lines of text (or your design in general) does not get too long is to have all of your content inside a container div that has a fixed width.
+</p>
+</div>
+
+<div id="container">
+<p>
+You can see from the CSS that styles this container that this text is going to have a much more normal and readable length (35 ems). There are <a href="http://www.w3schools.com/cssref/css_units.asp">several different units</a> you can use to control sizing on your pages and help create <a href="http://v1.jontangerine.com/log/2007/09/the-incredible-em-and-elastic-layouts-with-css">elastic layouts</a> that automatically conform to your user's screensize.
+</P>
+<p>
+Even though I've applied my container style to just this box, you can apply it to your entire HTML page. By using the same container element on each page of your site, you can easily adjust the layout of all your pages by editing only the "container" class in your CSS file.
+</p>
+</div>
+
+
+<div id="mtest">
+<p>
+MMMMMMMMMMMMMMMMMMMM
+</P>
+<p>
+		font-size: 12pt;<br>
+		width:12em;<br>
+</p>
+</div>
+
+<div id="mtest2">
+<p>
+MMMMMMMMMMMMMMMMMMMM
+</P>
+<p>
+		font-size: 12px; <br>
+		width:144px; <br>
+</p>
+</div>
+
+<div id="mtest3">
+<p>
+MMMMMMMMMMMMMMMMMMMM
+</P>
+<p>
+		font-size: 12px; <br>
+		width:132px; <br>
+</p>
+</div>
+
+</body>
+</html>

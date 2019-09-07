@@ -1,0 +1,40 @@
+figure {
+  padding:0;
+  margin:0;
+  border:2px solid red;
+}
+
+/* force image to fit into and fill figure tag */
+figure img {
+  width:100%;
+}
+
+figcaption {
+  border:2px solid blue;
+  font-size:12px;
+}
+
+.quarter-width {
+  width:25%;
+}
+
+.half-width {
+  width:50%;
+}
+
+.text-right {
+  text-align:right;
+}
+
+.container-figure {
+  border:4px solid green;
+}
+
+.float-right {
+  float:right;
+  margin: 0 0 .5rem 1rem;
+}
+
+hr {
+  margin: 2em 0;
+}

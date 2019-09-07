@@ -12,7 +12,7 @@ This tutorial is the third of three tutorials on getting started with QGIS. The 
 ## Using Data with Historic Maps
 Tools like QGIS afford us new vistas onto historical data. Say you wanted to study the development of the railroad. You could collect and pour over historic railroad maps to analyze change over time. But this would miss out on one of the great powers of mapping tools like QGIS---the opportunity to layer different kinds of data, such as the development of towns along the railways, or a quantitative analysis of track lengths by different railroad companies.
 
-And while it can be very helpful to see historic data on modern maps, but it's nice to see the historic context as well. This, too, is part of the laying functionality built into GIS software. Let's walk through this process.
+And while it can be very nice to see historic data on modern maps, but it's helpful to see the historic context as well. This, too, is part of the laying functionality built into GIS software. Let's walk through this process.
 
 First you'll need a historic map. You can use, for example, the David Rumsey map collection. We can download a map (say, of railway lines) from the 1860s. We might use something like [this map of the Pacific Greyhound Lines](http://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~263514~5524264:Transcontinental-routes-of-Pacific-?sort=Pub_List_No_InitialSort&qvq=w4s:/where/United+States;sort:Pub_List_No_InitialSort;lc:RUMSEY~8~1&mi=11&trs=3774#).
 
@@ -22,13 +22,13 @@ To download your own version of the map, click the "Export" button near the uppe
 
 
 ## Map Projections
-Here we must pause to consider map projections, though we're only going to scratch the non-technical surface of an incredibly complex topic. When just looking at a single map, you might not think much about the particular projection---that is, how a curved surface of the Earth gets represented on a flat piece of paper or your screen. But when trying to line up different maps on top of each other, especially from different time periods, the differences in their projections need to be taken into account. For now it's enough to say that the projection of a historic map (whatever it may be) is unlikely to be the same as a modern map (and might be inaccurate in other ways, too). So we'll need to digitally warp the old map (kind of like re-projecting it) so that it better lines up with a modern map on which we can visualize data.
+Here we must pause to consider map projections, though we're only going to scratch the non-technical surface of an incredibly complex topic. When just looking at a single map, you might not think much about the particular projection---that is, how a curved surface of the Earth gets represented on a flat piece of paper or your screen. But when trying to line up different maps on top of each other, especially from different time periods, the differences in their projections need to be taken into account. For now it's enough to say that the projection of a historic map (which might have its own distortions) is unlikely to be the same as a modern map (and might be inaccurate in other ways, too). So we'll need to digitally warp the old map (kind of like re-projecting it) so that it better lines up with a modern map on which we can visualize data.
 
 Here's a conceptual description of what we want to do. Pretend you have a reasonably accurate (nothing cartoonish or highly stylized) historic map of the U.S. printed on transparent silly putty sitting atop a modern paper map of the U.S. They won't line up exactly, but they will be pretty close.
 
 Now imagine stretching your putty map in various directions (push and pulling it at various points, and not always symmetrically) to align it with the modern map. To keep the silly putty stretched out, stick pins through the silly putty at obvious geographic features (coastlines) or political boundaries (state borders) and through the same features on the modern map. As we do this, the two maps will begin to line up very closely in places near to our pins and perhaps less so everywhere else where we haven't directly lined it up.
 
-In a very crude way, this process "re-projects" the historic map from one coordinate system to another one. It's more technically accurate to say that we are "geo-rectifying" the map/image by indicating where a spot on historic map aligns with a spot on a modern map.
+In a very crude way, this process "re-projects" the historic map from one coordinate system to another one. It's more technically accurate to say that we are "geo-rectifying" the map/image by indicating where a spot on historic map aligns with a spot on a modern map. This is also called geo-referencing, which is a generic term for assigning geophysical coordinates to a specific space.  
 
 
 ## Loading Images
@@ -50,7 +50,7 @@ Let's zoom in a bit to see the continental U.S., which reveals a bit more detail
 
 {% include figure.html src="/assets/images/qgis/topo2.png" caption="Combining images and data" %}
 
-Let's blend the layers a bit rather than just overlay them. In the Properties menu for the county boundaries layer, click the arrow next to Layer Rendering near the bottom and set Layer Blending Mode to "Darken", and the Layer Transparency to 20%. This will enable us to see more of a blend of the county data atop the topographic data. It's kinda fun to play around with these setting to see what effects you can create.
+Let's blend the layers a bit rather than just overlay them. In the "Symbology" submenu (not "Rendering"): in the Properties menu for the county boundaries layer, click the arrow next to Layer Rendering near the bottom and set Layer Blending Mode to "Darken", and the "Layer Opacity" to 80%. Click "OK". This will enable us to see more of a blend of the county data atop the topographic data. It's kinda fun to play around with these setting to see what effects you can create (some of which are decidedly more helpful than others).
 
 {% include figure.html src="/assets/images/qgis/topo3.png" caption="You're probably appreciating well designed maps a bit more now" %}
 
@@ -58,7 +58,7 @@ Let's blend the layers a bit rather than just overlay them. In the Properties me
 ### Load a historic raster image
 For now, "Zoom to Layer" of the county boundary layer.
 
-Now, let's load our historic map the same way. Bring up the Data Source Manager, and select "Raster" from the left menu. As usual, click the three dots to select your file, and choose the Rumsey image you downloaded.
+Now, let's load our historic map the same way. Bring up the Data Source Manager, and select "Raster" from the left menu. As usual, click the three dots to select your file, and choose the Rumsey image you downloaded. It will be named something like `8068000.jpg`.
 
 After you click "Add", the "Coordinate Reference System Selector" dialog box will open. Here QGIS is trying to figure out how to align raster image to the vector map. Just press "OK"---you know you want to---and we'll hope for the best. Close the Data Source Manager dialog.
 
@@ -79,6 +79,8 @@ Our first step is to "georeference" our historic map. As already mentioned, to g
 {% include figure.html src="/assets/images/qgis/georef.png" caption="The Georeference plugin is already installed but needs to be enabled" %}
 
 Although the Georeferencer is part of QGIS, it needs to be enabled explicitly. On the menu bar, click "Plugins" (to get the above dialog) and search for "georef". You'll see one of the results is Georeference GDAL; click the check box next to it to enable the plugin. Close the plugins dialog.
+
+_Plugins are a standard feature of open source software like QGIS. This approach allows different groups to independently write, improve, and maintain code for different facets of a large and complicated application like QGIS._
 
 **Before proceeding, use the Zoom tool to draw a rectangle around the continental U.S. so that it fits entirely within the map canvas**
 
