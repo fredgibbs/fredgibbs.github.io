@@ -35,9 +35,9 @@ When you first start QGIS you'll get a whole lot of blank space, a bunch of cryp
 
 On the left pane of the application window, if you see a "Browser" panel (which for connecting to data sources) you can click the 'X' to close it, since we won't be using it. Be sure to keep the "Layers" panel visible.
 
-{% include figure.html class="full" src="/assets/images/qgis/qgis-blank.png" caption="The exhilaration and terror of a blank 'map'" %}
+{% include figure.html class="full" src="/assets/images/qgis/qgis-blank.jpg" caption="The exhilaration and terror of a blank 'map'" %}
 
-Many people expect to see a map, and are frustrated when they don't. QGIS is a powerful but general mapping tool; broad tools of this nature tend not to do much without explicit instructions from you. Using these tools successfully often means adjusting your expectations of what they should do automatically. If you're constantly comparing what the tool actually does to what you assume it should do, you'll often feel like the tool isn't right for you simply because of erroneous expectations. If you are disappointed there is no map, you should ask yourself why you expected to see a map. After all, we haven't given the tool any map data to display.
+Many people expect to see a map, and are frustrated when they don't. QGIS is a powerful but general mapping tool; broad tools of this nature tend not to do much without explicit instructions from you. Using these tools successfully often means adjusting your expectations of what they should do automatically. **If you're constantly comparing what the tool actually does to what you are assuming it should do, you'll often feel like the tool isn't right for you because of erroneous expectations.** If you are disappointed there is no map, you should ask yourself why you expected to see a map. After all, we haven't given the tool any data to display.
 
 
 ## Data, not maps

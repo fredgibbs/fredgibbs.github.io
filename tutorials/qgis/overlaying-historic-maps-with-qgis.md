@@ -28,7 +28,7 @@ Here's a conceptual description of what we want to do. Pretend you have a reason
 
 Now imagine stretching your putty map in various directions (push and pulling it at various points, and not always symmetrically) to align it with the modern map. To keep the silly putty stretched out, stick pins through the silly putty at obvious geographic features (coastlines) or political boundaries (state borders) and through the same features on the modern map. As we do this, the two maps will begin to line up very closely in places near to our pins and perhaps less so everywhere else where we haven't directly lined it up.
 
-In a very crude way, this process "re-projects" the historic map from one coordinate system to another one. It's more technically accurate to say that we are "geo-rectifying" the map/image by indicating where a spot on historic map aligns with a spot on a modern map. This is also called geo-referencing, which is a generic term for assigning geophysical coordinates to a specific space.  
+In a very crude way, this process "re-projects" the historic map from one coordinate system to another one. It's more technically accurate to say that we are "geo-rectifying" the map/image by indicating where a spot on historic map aligns with a spot on a modern map in order to distort the original image of a map. This is a more specific instance of "geo-referencing", which is a generic term for assigning geophysical coordinates to a specific space, whether on a modern or historic map (but doesn't necessarily involve distortion).
 
 
 ## Loading Images
