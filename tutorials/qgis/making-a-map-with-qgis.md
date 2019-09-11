@@ -4,6 +4,7 @@ title: Making a Map with QGIS
 created: 2015-10-27
 updated: 2017-02-12
 updated: 2019-08-22
+updated: 2019-09-13
 ---
 
 ## Introduction
@@ -13,7 +14,7 @@ This is the first of three tutorials on getting started with QGIS, covering the 
 
 
 ## Troubleshooting
-If (= when), during your QGIS adventures, you get stuck or have questions, consult the [QGIS Training Manual](http://www.qgis.org/en/docs/index.html), [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS), and an [array of tutorials](http://qgistutorials.com). You may not at first find exactly what you're looking for, but it's worth browsing through these sites to help sort out conceptual misunderstandings. Be aware that many tutorials are for older versions of QGIS, so the screen shots and menu labels may not match exactly what you see in your version---but the concepts are generally the same.
+If (= when), during your QGIS adventures, you get stuck or have questions, consult the [QGIS Training Manual](http://www.qgis.org/en/docs/index.html){: target="\_blank"}, [the QGIS wiki](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS){: target="\_blank"}, and an [array of tutorials](http://qgistutorials.com){: target="\_blank"}. You may not at first find exactly what you're looking for, but it's worth browsing through these sites to help sort out conceptual misunderstandings. Be aware that many tutorials are for older versions of QGIS, so the screen shots and menu labels may not match exactly what you see in your version---but the concepts are generally the same.
 
 Also, remember that Google searches are your friend. You're not the first one to haul yourself up the learning curve of QGIS; many people have likely posted similar questions on forums where someone eventually provided a useful explanation. Others have written tutorials or blog posts that can shed light on your issue. This kind of searching also helps you better understand the tool and build your vocabulary for how to search and solve problems on your own.
 
@@ -24,9 +25,9 @@ This tutorial has been updated for 3.8 (Zanzibar) for Mac, though some images ar
 ### Latest vs Long Term Release
 The "latest release" of QGIS with give you the most functionality and absolutely most recent version, but with the potential for bugs that haven't been fixed or discovered yet. The "long term release" will be a bit older (sometimes significantly) and therefore without the latest features, but with greater stability. For most users, it really doesn't matter, and it doesn't for these tutorials.
 
-The most up to date versions of the necessary components can be found, organized by operating system, at the [QGIS download page](https://qgis.org/en/site/forusers/download.html). You'll notice that QGIS installs several components (like GRASS) that are separate from QGIS itself but required for it to run (a standard feature of open source software)
+The most up to date versions of the necessary components can be found, organized by operating system, at the [QGIS download page](https://qgis.org/en/site/forusers/download.html){: target="\_blank"}. You'll notice that QGIS installs several components (like GRASS) that are separate from QGIS itself but required for it to run (a standard feature of open source software)
 
-**Windows users**: You will need to choose between the 32-bit or 64-bit versions based on your particular operating system. If you don't already know which one you have, you can [figure it out](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows#1TC=windows-7).
+**Windows users**: You will need to choose between the 32-bit or 64-bit versions based on your particular operating system. If you don't already know which one you have, you can [figure it out](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows#1TC=windows-7){: target="\_blank"}.
 
 
 
@@ -47,11 +48,11 @@ The second thing to recognize is that **GIS tools are NOT only for projects prim
 
 
 ## Acquire Data
-Let's start making a map! Following a typical and familiar example, let's make a map of all the counties in the US. The first step in making any map is to find the data you need. One of the most common formats for GIS data is called a shapefile. The technical details are not important for us, but you can [read more about the standard](http://www.digitalpreservation.gov/formats/fdd/fdd000280.shtml).
+Let's start making a map! Following a typical and familiar example, let's make a map of all the counties in the US. The first step in making any map is to find the data you need. One of the most common formats for GIS data is called a shapefile. The technical details are not important for us, but you can [read more about the standard](http://www.digitalpreservation.gov/formats/fdd/fdd000280.shtml){: target="\_blank"}.
 
-There are many places for finding GIS data online, but one important repository to keep on your radar is the [Geography Program at census.gov](https://www.census.gov/programs-surveys/geography.html). For this example, we can use 2018 data [from this page](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2018.html) that provides geographic data of many political boundaries, including U.S. counties.
+There are many places for finding GIS data online, but one important repository to keep on your radar is the [Geography Program at census.gov](https://www.census.gov/programs-surveys/geography.html){: target="\_blank"}. For this example, we can use 2018 data [from this page](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2018.html){: target="\_blank"} that provides geographic data of many political boundaries, including U.S. counties.
 
-Because it's a warehouse of invaluable data, it's worth clicking through the pages yourself to get a better sense of how census.gov works. Towards the bottom of the page, click the 'Web Interface' link, then use the 'Select a layer type' dropdown menu to choose 'Counties (and equivalent)'. Click the 'Submit' button, then click 'Download national file'. The file `tl_2018_us_county.zip` should save into your specified downloads directory (it's about 75MB so it might take some time). If all else fails, you can also try [this link](https://www2.census.gov/geo/tiger/TIGER2018/COUNTY/tl_2018_us_county.zip) to download the zip file.
+Because it's a warehouse of invaluable data, it's worth clicking through the pages yourself to get a better sense of how census.gov works. Towards the bottom of the page, click the 'Web Interface' link, then use the 'Select a layer type' dropdown menu to choose 'Counties (and equivalent)'. Click the 'Submit' button, then click 'Download national file'. The file `tl_2018_us_county.zip` should save into your specified downloads directory (it's about 75MB so it might take some time). If all else fails, you can also try [this link](https://www2.census.gov/geo/tiger/TIGER2018/COUNTY/tl_2018_us_county.zip){: target="\_blank"} to download the zip file.
 
 Since we're going to start acquiring and generating a set of files and folders, now is a good time to create a new folder somewhere on your hard drive to keep tutorial files organized, ideally a high-level location that's easy to get to (like your Documents folder or Desktop; you can always move it later). Wherever you put them, your files should be in a stable and accessible place. It is a good idea to have separate folders for your working files (where you would save your QGIS project) separate from your data files (that you download from various sources), separate from image files (like historic maps). This isn't strictly necessary, but it makes finding files and reusing them much easier as you accumulate and create more files.
 
@@ -91,7 +92,7 @@ There are a bunch of codes and numbers that won't mean much to you. However, you
 
 
 ## Add Some Data to the Map
-The real power of mapping tools like QGIS is the ability to layer data to visualize spatial relationships. The counties we displayed on the map are technically polygons, but let's try loading a different data type. Instead of polygons, let's load and display some lines. We can download data of existing railway lines at [Natural Earth Data](http://www.naturalearthdata.com/downloads/10m-cultural-vectors/) (another great data source you should always keep in mind). Scroll down until you get to Railroads, then download the North America Supplement.
+The real power of mapping tools like QGIS is the ability to layer data to visualize spatial relationships. The counties we displayed on the map are technically polygons, but let's try loading a different data type. Instead of polygons, let's load and display some lines. We can download data of existing railway lines at [Natural Earth Data](http://www.naturalearthdata.com/downloads/10m-cultural-vectors/){: target="\_blank"} (another great data source you should always keep in mind). Scroll down until you get to Railroads, then download the North America Supplement.
 
 {% include figure.html class="raw" src="/assets/images/qgis/ne-railroads.png" caption="Lots of great data available" %}
 

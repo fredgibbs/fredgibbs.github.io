@@ -4,6 +4,7 @@ title: Using Historic Maps with QGIS
 created: 2015-10-27
 updated: 2017-02-12
 updated: 2019-08-22
+updated: 2019-09-13
 ---
 
 This tutorial is the third of three tutorials on getting started with QGIS. The [first part](/tutorials/qgis/making-a-map-with-qgis.html) of our tutorial covered some basics of QGIS. The [second part](/tutorials/qgis/linking-and-styling-data-with-qgis.html) of our tutorial showed some ways of adding data to a map.
@@ -14,7 +15,7 @@ Tools like QGIS afford us new vistas onto historical data. Say you wanted to stu
 
 And while it can be very nice to see historic data on modern maps, but it's helpful to see the historic context as well. This, too, is part of the laying functionality built into GIS software. Let's walk through this process.
 
-First you'll need a historic map. You can use, for example, the David Rumsey map collection. We can download a map (say, of railway lines) from the 1860s. We might use something like [this map of the Pacific Greyhound Lines](http://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~263514~5524264:Transcontinental-routes-of-Pacific-?sort=Pub_List_No_InitialSort&qvq=w4s:/where/United+States;sort:Pub_List_No_InitialSort;lc:RUMSEY~8~1&mi=11&trs=3774#).
+First you'll need a historic map. You can use, for example, the David Rumsey map collection. We can download a map (say, of railway lines) from the 1860s. We might use something like [this map of the Pacific Greyhound Lines](http://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~263514~5524264:Transcontinental-routes-of-Pacific-?sort=Pub_List_No_InitialSort&qvq=w4s:/where/United+States;sort:Pub_List_No_InitialSort;lc:RUMSEY~8~1&mi=11&trs=3774#){: target="\_blank"}.
 
 {% include figure.html class="full" src="/assets/images/qgis/rumsey.png" caption="Historic maps + GIS = better historical insight" %}
 
@@ -36,7 +37,7 @@ Geo-rectifying a historic map complicates the process of loading an image into Q
 
 
 ### Load a modern raster image
-The map we've made so far is totally flat; let's add a bit of terrain. We can do this by adding a raster image of topographic features (a visual representation of elevation data). Get an "shaded relief" image from [Natural Earth](http://www.naturalearthdata.com/downloads/50m-raster-data/50m-shaded-relief/) by clicking the "Download small size" button.
+The map we've made so far is totally flat; let's add a bit of terrain. We can do this by adding a raster image of topographic features (a visual representation of elevation data). Get an "shaded relief" image from [Natural Earth](http://www.naturalearthdata.com/downloads/50m-raster-data/50m-shaded-relief/){: target="\_blank"} by clicking the "Download small size" button.
 
 Once downloaded, you can add this image to the map in a similar way as the other layers we've added. Unzip the `SR_50M.zip` file in your folder of tutorial files (which gives you a `SR_50M` folder), bring up the Data Source Manager, select "Raster" from the left, click the 3 dots and, within the `SR_50M` folder, select `SR_50M.tif`. Right click on the layer and "Zoom to layer" to center our image.
 

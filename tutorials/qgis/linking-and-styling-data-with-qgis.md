@@ -4,6 +4,7 @@ title: Linking and Styling Data with QGIS
 created: 2015-10-27
 updated: 2017-02-12
 updated: 2019-08-22
+updated: 2019-09-13
 ---
 
 The [first part](/tutorials/qgis/making-a-map-with-qgis.html) of our tutorial covered some basics of loading vector data into QGIS.
@@ -19,9 +20,9 @@ We already downloaded counties in the form of a shapefile; let's see if we can a
 
 This time, however, we are not going to use a shapefile because we're not interested in drawing explicitly geographic features (like county boundaries); we're interested in non-geographic data (like populations of counties).
 
-We'll get our data from census.gov again, at their page for [population estimates](https://www.census.gov/programs-surveys/popest.html). Click "Data" in the left nav bar, then "Datasets". Scroll down to the second link under the big 2018 to click on "County Population Totals and Components of Change: 2010-2018". Scroll all the way down to the bottom of the page to find a long link that starts with "Population, Population Change ..." and has a green Microsoft-Excel-looking icon next to it. That links downloads the data you need.
+We'll get our data from census.gov again, at their page for [population estimates](https://www.census.gov/programs-surveys/popest.html){: target="\_blank"}. Click "Data" in the left nav bar, then "Datasets". Scroll down to the second link under the big 2018 to click on "County Population Totals and Components of Change: 2010-2018". Scroll all the way down to the bottom of the page to find a long link that starts with "Population, Population Change ..." and has a green Microsoft-Excel-looking icon next to it. That links downloads the data you need.
 
-You have now experienced how labyrinthine census.gov really is. There is a lot of tremendous data there, but it can take some perseverance to locate. If you skimmed over the directions for the census data, you can click [here](https://www2.census.gov/programs-surveys/popest/datasets/2010-2018/counties/totals/co-est2018-alldata.csv) to get the file.
+You have now experienced how labyrinthine census.gov really is. There is a lot of tremendous data there, but it can take some perseverance to locate. If you skimmed over the directions for the census data, you can click [here](https://www2.census.gov/programs-surveys/popest/datasets/2010-2018/counties/totals/co-est2018-alldata.csv){: target="\_blank"} to get the file.
 
 _PRO TIP: The navigation links at census.gov often lead you in excruciatingly frustrating circles; a Google search is often the fastest way to find data you're after. When you do find what you're looking for, it's worth making a bookmark rather than assuming you can find it again quickly. This is also why it's useful to keep your data organized when you download it---so you don't have to find it or download it again._
 
