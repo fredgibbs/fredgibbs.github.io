@@ -70,21 +70,25 @@ We're going to tie up some loose ends from last time, so we can be most efficien
 
 ### 11: Interlude?
 - _PoH_, 107-126.
-- Discussion of Intro Guide assignment due Monday
+- Discussion of [Intro Guide](https://unm-historiography.github.io/intro-guide/) assignment due Monday.
 
 
 ## Week 5
 
 ### 16: Giambattista Vico (1668-1744)
-- _PoH_, 127-167.
-{% include alert.html class='danger' title='The Intro Guide' text="
-Maintaining our four groups:
-- Questioners: What questions to we need to be asking of ourselves to make this most usable for a new college student?
-- Summarizers: What are the strengths and weaknesses of what's already here?
-- Commenters: Can freshmen learn the BASICS of historiography from this? Can this be a way of helping students to reimagine history?
-- Slackers: You don't need to write anything, but as always be ready to contribute to our conversation.
+- _PoH_, 127-167. Skim 137-160. You should still read these pages---they are actually quite interesting as perhaps the first comprehensive theory of history---but read quickly as to not get bogged down in the details.
 
-Note: There is an overwhelming amount to be improved, so the assignment here is to some extent an exercise in stating the obvious---but it's an important first step.
+{% include alert.html class='danger' title='The Intro Guide' text="
+
+**As you look over the intro guide, stay out of the weeds!** Really specific criticism about a particular essay is not particularly helpful at this stage. Keep your analysis focused on the big picture and the overall project.
+
+Maintaining our four groups:
+- **Questioners**: What questions to we need to be asking of ourselves to make this most usable for an early college student? These should be a product of surveying what's already in the guide and thinking about what should or should not be in it as well as how it should be done.
+- **Summarizers**: What are the strengths and weaknesses of what's already here and what you find to be lacking?
+- **Commenters**: Can early college students learn the BASICS of historiography from this KIND of resource? Don't limit your analysis simply to what is already on the site. What should the key features be? Can such a guide be a way of helping students to reimagine what history is?
+- **Slackers**: You don't need to write anything, but as always be ready to contribute to our conversation.
+
+Note: There is an overwhelming amount to be improved, so the assignment here is to some extent an exercise in stating the obvious---but it's an important first step. You will be graded on your effort to say something productive and improve the project. 
 "%}
 
 ### 18: Enlightenment
