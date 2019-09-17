@@ -88,7 +88,7 @@ Maintaining our four groups:
 - **Commenters**: Can early college students learn the BASICS of historiography from this KIND of resource? Don't limit your analysis simply to what is already on the site. What should the key features be? Can such a guide be a way of helping students to reimagine what history is?
 - **Slackers**: You don't need to write anything, but as always be ready to contribute to our conversation.
 
-Note: There is an overwhelming amount to be improved, so the assignment here is to some extent an exercise in stating the obvious---but it's an important first step. You will be graded on your effort to say something productive and improve the project. 
+Note: There is an overwhelming amount to be improved, so the assignment here is to some extent an exercise in stating the obvious---but it's an important first step. You will be graded on your effort to say something productive and improve the project.
 "%}
 
 ### 18: Enlightenment
@@ -102,7 +102,11 @@ Note: There is an overwhelming amount to be improved, so the assignment here is 
 - _PoH_, 201-237.
 
 {% include alert.html class='danger' title='First edits due' text="
-Your first edits should be complete and visible on GitHub. We'll devote some class discussion time for evaluating these.
+Consult the [Intro-guide revision guidelines](1st-revision-guide).
+
+Your first edits should be complete and visible on GitHub. Note that changes will be made in the [intro guide repository](https://github.com/unm-historiography/intro-guide), not the repository for our reading responses. We'll devote some class discussion time for evaluating these. There is nothing else to post for today, BUT: 
+
+Be prepared to discuss what’s significant with Hegel, what’s new with his view of history, and why should we care. There is a very high probability of me using the cards to keep everyone honest.
 "%}
 
 ### 25: Marx
