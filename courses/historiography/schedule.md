@@ -104,9 +104,13 @@ Note: There is an overwhelming amount to be improved, so the assignment here is 
 {% include alert.html class='danger' title='First edits due' text="
 Consult the [Intro-guide revision guidelines](1st-revision-guide).
 
-Your first edits should be complete and visible on GitHub. Note that changes will be made in the [intro guide repository](https://github.com/unm-historiography/intro-guide), not the repository for our reading responses. We'll devote some class discussion time for evaluating these. There is nothing else to post for today, BUT: 
+You can access the intro guide (I'm now calling it _Metahistory_ just for fun) [here](https://unm-historiography.github.io/intro-guide/).
+
+Your first edits should be complete and visible on GitHub. Note that changes will be made in the [intro guide repository](https://github.com/unm-historiography/intro-guide), which is separate from the repository for our reading responses. We'll devote some class discussion time for evaluating these. There is nothing else to post for today, BUT:
 
 Be prepared to discuss what’s significant with Hegel, what’s new with his view of history, and why should we care. There is a very high probability of me using the cards to keep everyone honest.
+
+Remember that the first chunk (up to p. 213 or so) is an overview of his philosophy that you should read quickly. Slow down when it's more about his theory of history.
 "%}
 
 ### 25: Marx
