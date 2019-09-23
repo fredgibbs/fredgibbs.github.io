@@ -22,3 +22,5 @@ This page contains a list of links that you will probably need repeatedly throug
 
 ## Guides
 [Intro-guide revision guidelines](1st-revision-guide)
+[Embedding images in your essays](https://unm-historiography.github.io/intro-guide/loading-images)
+[Code samples](https://unm-historiography.github.io/intro-guide/code)

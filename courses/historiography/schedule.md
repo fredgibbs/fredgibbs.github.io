@@ -117,15 +117,17 @@ Remember that the first chunk (up to p. 213 or so) is an overview of his philoso
 - _PoH_, 238-277.
 
 {% include alert.html class='danger' title='Image edits due' text="
-Remember to copy and paste the code from the [code page](https://unm-historiography.github.io/intro-guide/code).
+We looked at the code page in class, but I split off the images stuff into their own file with more explicit directions for Wednesday. See [Embedding images in your essays](https://unm-historiography.github.io/intro-guide/loading-images).
+
+The original [code samples](https://unm-historiography.github.io/intro-guide/code) are still available.
 
 All you need to do is copy and paste the code from the gray box, and change the parameters (position, width, filename, etc).
 
-BE CAREFUL ABOUT QUOTATIONS! If you accidentally omit a quotation mark, the code won't work and the whole site will break.
+- BE CAREFUL ABOUT QUOTATIONS! If you accidentally omit a quotation mark, the code won't work and the whole site will break.
 
-If you ever get an email or notification of a 'Page Build Failure', send me a quick email to let me know and I will look at what's wrong. There's a chance it's not with your file, so if you don't see anything wrong, just keep working and it will get resolved.
+- If you ever get an email or notification of a 'Page Build Failure', send me a quick email to let me know and I will look at what's wrong. There's a chance it's not with your file, so if you don't see anything wrong, just keep working and it will get resolved.
 
-If you get really confused or frustrated, relax. We'll work through issues on Wednesday and you can finish uploading code and images before Monday.
+- If you get really confused or frustrated, relax. We'll work through issues on Wednesday and you can finish uploading code and images before Monday.
 "%}
 
 
