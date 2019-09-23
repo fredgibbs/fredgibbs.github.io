@@ -123,7 +123,7 @@ All you need to do is copy and paste the code from the gray box, and change the 
 
 BE CAREFUL ABOUT QUOTATIONS! If you accidentally omit a quotation mark, the code won't work and the whole site will break.
 
-If you ever get an email or notification of a "Page Build Error", send me a quick email to let me know and I will look at what's wrong. There's a chance it's not with your file, so if you don't see anything wrong, just keep working and it will get resolved.
+If you ever get an email or notification of a 'Page Build Failure', send me a quick email to let me know and I will look at what's wrong. There's a chance it's not with your file, so if you don't see anything wrong, just keep working and it will get resolved.
 
 If you get really confused or frustrated, relax. We'll work through issues on Wednesday and you can finish uploading code and images before Monday.
 "%}
