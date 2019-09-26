@@ -135,19 +135,19 @@ All you need to do is copy and paste the code from the gray box, and change the 
 ## Week 7
 
 ### 30: Leopold von Ranke and Professional History
-- _FHTH_, "The 19th century and the rise of academic scholarship", 68-96.  
+- Jeremy D. Popkin, _From Herodotus to H-Net_, "The 19th century and the rise of academic scholarship", 68-96.  
 - Thomas Gil, "Leopold Ranke", 383-92.
 
 
 ### 2: The _Annales_ School
 - Georg Iggers, "From Macro- to Microhistory: The History of Everyday Life", 101-117.
-- _Houses_, "The _Annales_", 87-109.   
+- Anna Green and Kathleen Troup, eds., _The Houses of History_, "The _Annales_", 87-109.   
 
 
 ## Week 8
 
 ### 7:  Quantitative History
-- _Houses_, "Quantitative History", 141-50; skim 151-71.
+- Anna Green and Kathleen Troup, eds., _The Houses of History_, "Quantitative History", 141-50; skim 151-71.
 - Margo Anderson, "Qualitative History", 246-59.
 
 {% include alert.html class='info' title='Discussion prep' text="
