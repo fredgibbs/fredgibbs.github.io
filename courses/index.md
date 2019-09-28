@@ -5,40 +5,29 @@ title: courses
 
 # Regularly Scheduled Courses
 
-<div class="row course">
-  <div class="col-12">
-    <h2 class="course-title"><a href="historiography">Historiography</a></h2>
-  </div>
 
-  <div class="col-4">
-    <img class="course-poster" src="images/historiography-sm.jpg">
-  </div>
-
-  <div class="col-8">
-    <p class="course-desc">
-      This course introduces some of the most influential approaches that historians (from antiquity through the present) have taken in thinking and writing about the past. It also addresses various meta-questions about history: What is history? What is it for? Who is it for? It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history. Coursework consists of numerous short essays that compare and contrast different processes, modes of thought, and modes of expression from different historical time periods and in different geographic areas.
-    </p>
-  </div>
-</div>
+{% include course-block.html
+slug="landscape-memory"
+title="Landscape and Memory"
+poster="images/landscape-memory-sm.jpg"
+desc="With ubiquitous digital maps at our finger tips, it’s easy to move through space without giving it much thought. At the same time, we recognize that physical space connects us to our past and charts a course for the future. This multidisciplinary course draws from history, geography, archeology, anthropology, literature, cultural studies and architecture to explore the how we attach meanings to space and how both space and place influence our identities, communities, regions, and nations. Coursework contributes to ongoing projects at the National Park Service on the National Historic Trails (particularly writing about historic sites on the Santa Fe Trail and contributing to [this website](http://trails.unm.edu)), emphasizing qualitative research and historical writing for a broad audience with digital publication technologies."
+%}
 
 
-<div class="row course">
-  <div class="col-12">
-    <h2 class="course-title"><a href="trails">National Historic Trails</a></h2>
-  </div>
-
-  <div class="col-4">
-    <img class="course-poster" src="images/trails-sm.jpg">
-  </div>
-
-  <div class="col-8">
-    <p class="course-desc">This multidisciplinary course provides an introduction to the study, interpretation, and significance of the National Historic Trails System. It also explores the challenges of public history by engaging students as core contributors to research projects at the National Trails Intermountain Region Office that will appear on their official website. Throughout the course we’ll also discuss broad questions about cultural heritage and historic preservation: What constitutes a historic trail? How does a historic trail retain cultural significance? What are the challenges and strategies in communicating about the trails to a 21st-century audience?</p>
-    <p> Learn about <a href="https://historic-trails.github.io/santa-fe-itinerary/">historic sites on the Santa Fe Trail</a> from the Fall 2018 students!</p>
-  </div>
-</div>
+{% include course-block.html
+slug="food-technology-society"
+title="Food, Technology, and Society"
+poster="images/food-tech-society-sm.jpg"
+desc="This course explores the complex relationships between food, food production, technology, and society. In some ways, our goal is to explain how and why supermarkets have come to look like they do. Taking chronological and thematic approaches simultaneously, we’ll look at the impact of science and technology on food processing and distribution (such as canning, refrigeration, GMOs, food stabilizers and preservatives). We’ll also put these developments in larger social, cultural, and demographic contexts, including the growing divide between food producers and consumers, governmental regulation, the rise of global food conglomerates, urbanization, and sustainability. Even more broadly, we identify connections between agribusiness, ecology, consumerism, media, politics, and the history of science and medicine."
+%}
 
 
-
+{% include course-block.html
+slug="historiography"
+title="Historiography"
+poster="images/historiography-sm.jpg"
+desc="This course introduces some of the most influential approaches that historians (from antiquity through the present) have taken in thinking and writing about the past. It also addresses various meta-questions about history: What is history? What is it for? Who is it for? It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history. Coursework consists of numerous short essays that compare and contrast different processes, modes of thought, and modes of expression from different historical time periods and in different geographic areas."
+%}
 
 
 <div class="row course">
@@ -96,26 +85,6 @@ title: courses
 </div>
 
 
-
-
-<div class="row course">
-<div class="col-12">
-  <h2 class="course-title"><a href="food-technology-society">Food, Technology, and Society</a></h2>
-</div>
-
-<div class="col-4">
-  <img class="course-poster" src="images/food-tech-society-sm.jpg">
-</div>
-
-<div class="col-8">
-  <p class="course-desc">
-    This course explores how supermarkets have come to look like they do. We’ll look at the impact of science and technology on food production, processing, and distribution (such as canning, refrigeration, GMOs, techno-foods). We’ll also put these developments in larger social, cultural, and demographic contexts, including the growing divide between food producers and consumers, urbanization, and food deserts, the rise of food corporations, governmental regulation and sustainability. Even more broadly, we try to identify connections between agriculture, ecology, consumerism, capitalism, media, politics, and the history of science and medicine.
-  </p>
-</div>
-
-</div>
-
-
 <div class="row course">
 <div class="col-12">
   <h2 class="course-title"><a href="digital-mapping">Digital Mapping + Spatial Humanities</a></h2>
@@ -131,5 +100,20 @@ title: courses
   We are in the midst of a major paradigm shift in human consciousness and society caused by our ubiquitous connectedness via the internet, smartphones, and digital maps. These globalizing forces have telescoped space and time to an unprecedented degree, while paradoxically heightening the importance of local places. The course explores the technologies, tools, and workflows that can help collect, connect, and present online interpretations of the spaces around us.
   </p>
 </div>
+</div>
 
+
+<div class="row course">
+  <div class="col-12">
+    <h2 class="course-title"><a href="trails">National Historic Trails</a></h2>
+  </div>
+
+  <div class="col-4">
+    <img class="course-poster" src="images/trails-sm.jpg">
+  </div>
+
+  <div class="col-8">
+    <p class="course-desc">This multidisciplinary course provides an introduction to the study, interpretation, and significance of the National Historic Trails System. It also explores the challenges of public history by engaging students as core contributors to research projects at the National Trails Intermountain Region Office that will appear on their official website. Throughout the course we’ll also discuss broad questions about cultural heritage and historic preservation: What constitutes a historic trail? How does a historic trail retain cultural significance? What are the challenges and strategies in communicating about the trails to a 21st-century audience?</p>
+    <p> Learn about <a href="http://trails.unm.edu/">historic sites on the Santa Fe Trail</a> from the Fall 2018 students!</p>
+  </div>
 </div>

@@ -1,7 +1,7 @@
 ---
-title: Sample Essay
+title: What To Do Over Break
 author: Fred Gibbs
-layout: single-col
+layout: syllabus
 date: 2018-11-19
 ---
 

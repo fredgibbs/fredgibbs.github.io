@@ -1,0 +1,15 @@
+<div class="row course">
+  <div class="col-12">
+    <h2 class="course-title"><a href="{{ include.slug }}">{{ include.title }}</a></h2>
+  </div>
+
+  <div class="col-4">
+    <img class="course-poster" src="{{ include.poster }}">
+  </div>
+
+  <div class="col-8">
+    <p class="course-desc">
+      {{ include.desc | markdownify }}
+    </p>
+  </div>
+</div>
