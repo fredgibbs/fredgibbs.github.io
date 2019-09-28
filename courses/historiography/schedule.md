@@ -156,13 +156,7 @@ All you need to do is copy and paste the code from the gray box, and change the 
 "%}
 
 
-### 9: From Qualitative to Digital History
-{% include alert.html class='info' title='No Reading, but' text="
-- Be prepared to discuss the following:
-  - What is your sense of what 'digital history' is?
-  - Do you think the historical profession will need new research paradigms?
-  - Are historiography courses going to look very different in 20 years because of digital technologies?
-"%}
+### 9: NO CLASS: Enjoy Fall Break!!!
 
 
 

@@ -112,9 +112,6 @@ header: landscape
 ###  Monday 11/11: Deconstructing Maps
 - J. B. Harley, "Deconstructing the Map," *Cartographica* 26, no. 2 (1989): 1--20. Note that Harley can veer into the philosophical weeds at times, but it's never for very long, so don't give up. On the whole, he makes a lot of very important points about reading and understanding maps that are stated very clearly.
 
-- Juliana Barr, "Geographies of Power: Mapping Indian Borders in the 'Borderlands' of the Early Southwest," *William and Mary Quarterly* 68, no. 1 (2011): 5--46.
-
-
 
 ### Wednesday, 11/13:
 
@@ -142,24 +139,6 @@ How would you characterize the tone of these books? What are the assumptions and
 ## Week 15/7:
 
 ### Monday, 11/25:
-
-
-
-
-
-
-#### Noteworthy (put in Zotero and remove from here)
-- [*Ho for California!: Women's Overland Diaries from the Huntington Library*](https://nwld.alexanderstreet.com/cgi-bin/asp/philo/nwld/documentidx.pl?sourceid=S212) Sandra L. Myres, ed., (San Marino, Calif.: Huntington Library Press, 2007), esp. Mary Stuart Bailey, Helen McCowen, Harriet Bunyard, and Maria Hargrave Schrode.
-- Susan Shelby Magoffin and Howard R. Lamar, *Down the Santa Fe Trail and into Mexico: The Diary of Susan Shelby Magoffin, 1846-1847*, ed. Stella M. Drumm (Lincoln, Neb.: Bison Books, 1982).
-- Isabella Lucy Bird and Daniel J. Boorstin, *A Lady's Life in the Rocky Mountains* (Norman: University of Oklahoma Press, 1975).
-- Sandra L. Myres, *Westward Ho! Women on the Overland Trails* (Albuquerque: University of New Mexico Press, 1982).
-- Thomas Bullock and Will Bagley, *The Pioneer Camp of the Saints: The 1846 and 1847 Mormon Trail Journals of Thomas Bullock* (Logan: Utah State University Press, 2001).
-- John David Unruh, "Introduction: The Historians and the Overlanders," in *The Plains Across : The Overland Emigrants and the Trans-Mississippi West, 1840-60* (Urbana: University of Illinois Press, 1979), 3--27.
-- Lewis H. Garrard, *Wah-to-Yah and the Taos Trail* (Cincinnati: H. W. Derby & Co., 1850). [Internet Archive](https://archive.org/details/wahtoyahtaostrai00garr) Recommended: 157-198.
-- Francis Parkman, *The Oregon Trail: Adventures on the Prairie in the 1840's* (Santa Barbara, Calif.: Narrative Press, 2001). [ProQuest](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=3375129#)
-- Ezra Meeker, _Personal Experiences on the Oregon Trail Sixty Years Ago_ (St. Louis: McAdoo printing co., 1912), [Internet Archive](http://archive.org/details/personalexperien00meekrich) Read the beginning bits, but also skim through the whole thing---note all the monuments and places mentioned in the video game (esp starting after p. 46). How is the context different here? Can you imagine how the game would be different if not for Meeker's efforts?
-
-
 
 
 ### Wednesday, 11/27:
