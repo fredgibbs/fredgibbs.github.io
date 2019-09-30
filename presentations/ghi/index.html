@@ -1,0 +1,314 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Student Driven Digital History</title>
+
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reset.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reveal.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/theme/black.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/lib/css/monokai.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? '/assets/vendor/reveal.js-3.8.0/css/print/pdf.css' : '/assets/vendor/reveal.js-3.8.0/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+
+
+	<body>
+		<div class="reveal">
+			<div class="slides">
+
+				<section data-transition="fade">
+					<h1>Student Driven Digital History</h1>
+					<p>towards a modular framework with documentation</p>
+
+					<p>
+						<small><a href="http://twitter.com/fredgibbs">@fredgibbs</a> | <a href="http://history.unm.edu">univ. new mexico</a></small>
+					</p>
+				</section>
+
+				<section>
+					<h1>Introduction</h1>
+				</section>
+
+				<section>
+					<h2>Local Observations</h2>
+					<ul>
+						<li class="fragment fade-in-then-semi-out">My history classes (not just DH ones) have tended toward digital public history projects</li>
+						<li class="fragment fade-in-then-semi-out">Building is more fun than grading (and teaches more)</li>
+						<li class="fragment fade-in-then-semi-out">Engaging students with ongoing projects is better than fantasizing about sustainability plans</li>
+					</ul>
+				</section>
+
+				<section>
+					<h2>Wider Observations</h2>
+					<ul>
+						<li class="fragment fade-in-then-semi-out">More instructors are having students make websites or contribute to digital projects</li>
+						<li class="fragment fade-in-then-semi-out">More instructors want to learn how to gain more control and aggregate work over time</li>
+						<li class="fragment fade-in-then-semi-out">Wild WWWest with little standardization</li>
+						<li class="fragment fade-in-then-semi-out">Lots of duplicated effort</li>
+						<li class="fragment fade-in-then-semi-out">Little of reusability</li>
+					</ul>
+				</section>
+
+
+				<section data-background-color="#ff0000">
+					<h1>Key Question</h2>
+					<p>Is there an opportunity to for passive collaboration to drive student and community digital history projects?</p>
+				</section>
+
+
+				<section>
+
+					<section>
+						<h2>Interface-driven sites</h2>
+					</section>
+
+					<section>
+						<h3>Some advantages</h3>
+
+						<ul>
+							<li class="fragment fade-in-then-semi-out">almost zero startup cost</li>
+							<li class="fragment fade-in-then-semi-out">easy administrative tools</li>
+							<li class="fragment fade-in-then-semi-out">ubiquitous</li>
+						</ul>
+					</section>
+
+					<section>
+						<h3>Some drawbacks</h3>
+						<ul>
+							<li class="fragment fade-in-then-semi-out">complex interfaces for simple tasks</li>
+							<li class="fragment fade-in-then-semi-out">too much document abstraction</li>
+							<li class="fragment fade-in-then-semi-out">reusing components is hard</li>
+							<li class="fragment fade-in-then-semi-out">siloing</li>
+						</ul>
+					</section>
+				</section>
+
+				<section>
+
+					<section>
+						<h2>Static sites</h2>
+					</section>
+
+						<section>
+							<h3>Some advantages</h3>
+							<ul>
+								<li class="fragment fade-in-then-semi-out">file based</li>
+								<li class="fragment fade-in-then-semi-out">preservation</li>
+								<li class="fragment fade-in-then-semi-out">precision/customization</li>
+								<li class="fragment fade-in-then-semi-out">experimentation</li>
+								<li class="fragment fade-in-then-semi-out">modularity</li>
+							</ul>
+						</section>
+
+						<section>
+							<h3>Some disadvantages</h3>
+							<ul>
+								<li class="fragment fade-in-then-semi-out">non-trivial start-up costs</li>
+								<li class="fragment fade-in-then-semi-out">troubleshooting rabbit holes</li>
+								<li class="fragment fade-in-then-semi-out">ongoing commitment</li>
+							</ul>
+						</section>
+
+				</section>
+
+
+
+				<section data-transition="fade">
+					<h2>GitHub Pages Features</h2>
+					<ul>
+					<li class="fragment fade-in-then-semi-out">free hosting</li>
+					<li class="fragment fade-in-then-semi-out">minimum overhead</li>
+					<li class="fragment fade-in-then-semi-out">ubiquitious and stable</li>
+					<li class="fragment fade-in-then-semi-out"><a href="https://github.com/programminghistorian/jekyll" target="_blank">direct file editing (+ offline) &rarr;</a></li>
+					<li class="fragment fade-in-then-semi-out"><a href"https://github.com/programminghistorian/jekyll/commit/cbde2ab226c11d202d478ee276bf78fec9d06065" target="_blank">version control &rarr;</a></li>
+					<li class="fragment fade-in-then-semi-out">fundamentally collaborative</li>
+					<li class="fragment fade-in-then-semi-out"><a href="https://github.com/programminghistorian/jekyll/issues" target="_blank">issue tracking &rarr;</a>
+						<ul><li class="fragment my-gray">did we talk about this?</li>
+						<li class="fragment my-gray">why did we do that?</li>
+						<li class="fragment my-gray">whatever happened with that?</li>
+					</ul>
+					</li>
+					<li class="fragment fade-in-then-semi-out"><a href="https://github.com/programminghistorian/jekyll/issues/193#issuecomment-275692867" target="_blank">constantly evolving &rarr;</a></li>
+					</ul>
+				</section>
+
+				<section style="data-background-color:#ff0000">
+					<h1>Key Question</h2>
+					<p>Is there an opportunity to for passive collaboration to drive student and community digital history projects?
+					</p>
+				</section>
+
+				<section>
+					<h1>Some Conceits</h1>
+					<ul>
+						<li class="fragment fade-in-then-semi-out">Non-zero tech investment is better</li>
+						<li class="fragment fade-in-then-semi-out">Shared frameworks are better</li>
+						<li class="fragment fade-in-then-semi-out">Modularity is better</li>
+						<li class="fragment fade-in-then-semi-out">Instruction can lead the way</li>
+					</ul>
+				</section>
+
+
+
+				<section data-transition="fade">
+					<h2>A beginning...</h2>
+					<p class="fragment fade-in-then-semi-out">GitHub Pages as repository for course work</p>
+					<p class="fragment fade-in-then-semi-out" style="font-color:#ff0000">It worked! [<a href="https://github.com/unm-historiography/2015-spring">here]</p>
+					<p class="fragment fade-in-then-semi-out">Why not make a web site?</p>
+
+
+
+					<section data-transition="fade">
+						<h2>Development...</h2>
+						<li class="fragment fade-in-then-semi-out">Add functionality</li>
+						<li class="fragment fade-in-then-semi-out">Rebrand for partner</li>
+						<li class="fragment fade-in-then-semi-out">Improve documentation</li>
+						<a class="fragment fade-in-then-semi-out" href="http://trails.unm.edu">NPS National Historic Trails</a>
+					</section>
+
+
+					<section data-transition="fade">
+						<h2>Duplication...</h2>
+						<ul>
+							<li class="fragment fade-in-then-semi-out">Add functionality</li>
+							<li class="fragment fade-in-then-semi-out">Rebrand for partner</li>
+							<li class="fragment fade-in-then-semi-out">Improve documentation</li>
+						</ul>
+						<a class="fragment fade-in-then-semi-out" href="http://campushistory.unm.edu">UNM Campus History</a>
+					</section>
+
+					<section data-transition="fade">
+						<h2>Infrastructure...</h2>
+						<ul>
+							<li class="fragment fade-in-then-semi-out">New theme</li>
+							<li class="fragment fade-in-then-semi-out">Improve documentation</li>
+							<li class="fragment fade-in-then-semi-out"><a href="https://travis-ci.com/unm-historiography/intro-guide">Add testing</a></li>
+						</ul>
+						<a class="fragment fade-in-then-semi-out" href="https://unm-historiography.github.io/intro-guide/">An Intro to Historiography</a>
+					</section>
+
+
+				</section>
+
+
+
+
+
+				<section>
+					<h2>Modular Enhancments</h2>
+					<ul>
+						<li class="fragment fade-in-then-semi-out">typographic features</li>
+						<li class="fragment fade-in-then-semi-out">embedded maps</li>
+						<li class="fragment fade-in-then-semi-out">social media feeds</li>
+						<li class="fragment fade-in-then-semi-out">Zotero bibliographies</li>
+					</ul>
+				</section>
+
+
+				<section>
+					<h2>Collaborative Values</h2>
+					<ul>
+						<li class="fragment fade-in-then-semi-out">inclusivity</li>
+						<li class="fragment fade-in-then-semi-out">transparency</li>
+						<li class="fragment fade-in-then-semi-out">rigorous peer review</li>
+						<li class="fragment fade-in-then-semi-out">accountability</li>
+					</ul>
+				</section>
+
+
+				<section>
+					<h2>Essay Writing</h2>
+					<ul>
+					<li class="fragment fade-in-then-semi-out">plain text</li>
+					<li class="fragment fade-in-then-semi-out">use a text editor like <a href="https://atom.io" target="_blank">atom &rarr;</a></li>
+
+					<li class="fragment fade-in-then-semi-out"><a href="https://dillinger.io/" target="_blank">dillinger &rarr;</a></li>
+					<li class="fragment fade-in-then-semi-out"><a href="http://packetlife.net/media/library/16/Markdown.pdf">cheatsheet &rarr;</a></li>
+					<li class="fragment fade-in-then-semi-out">let's compare HTML and Markdown</li>
+					</ul>
+				</section>
+
+
+				<section data-transition="fade">
+					<h2>Digital Publishing Pedagogy</h2>
+					<ul>
+						<li class="fragment fade-in-then-semi-out">exploration</li>
+						<li class="fragment fade-in-then-semi-out">product + process</li>
+						<li class="fragment fade-in-then-semi-out">mutual learning</li>
+						<li class="fragment fade-in-then-semi-out">self-enforced peer review</li>
+						<li class="fragment fade-in-then-semi-out">open and public histories</li>
+					</ul>
+				</section>
+
+				<section data-transition="fade">
+					<h2>Instructor payoffs</h2>
+					<ul>
+						<li class="fragment fade-in-then-semi-out">expansible digital projects</li>
+						<li class="fragment fade-in-then-semi-out">deeper enegagement with DH</li>
+						<li class="fragment fade-in-then-semi-out">better project planning</li>
+						<li class="fragment fade-in-then-semi-out">helping to move the needle</li>
+					</ul>
+				</section>
+
+
+
+				<section data-transition="fade">
+					<h2>Ongoing Questions</h2>
+					<ul>
+					<li class="fragment fade-in-then-semi-out">getting past intimidation</li>
+					<li class="fragment fade-in-then-semi-out">how to not stop</li>
+					<li class="fragment fade-in-then-semi-out">troubleshooting</li>
+					<li class="fragment fade-in-then-semi-out">how much reuse is really possible?</li>
+					<li class="fragment fade-in-then-semi-out">how much centralization</li>
+				</section>
+
+				<section>
+					<h2>Developing Locally?</h2>
+					<ul>
+						<li class="fragment fade-in-then-semi-out">some tech consolidation</li>
+						<li class="fragment fade-in-then-semi-out">less dependency hell</li>
+						<li class="fragment fade-in-then-semi-out">possible through instruction</li>
+						<li class="fragment fade-in-then-semi-out">people are ready</li>
+					</ul>
+				</section>
+
+
+
+				<section>
+					<h1>Thank you</h1>
+					<h3>Let's work together!</h3>
+					<p><span class="my-highlight-red">fwgibbs@unm.edu</span></p>
+				</section>
+
+			</div>
+		</div>
+
+		<script src="/assets/vendor/reveal.js-3.8.0/js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/markdown/marked.js' },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/markdown/markdown.js' },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/notes/notes.js', async: true },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/highlight/highlight.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>
