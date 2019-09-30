@@ -23,6 +23,13 @@ Make sure the essay both very near the beginning and at the end makes it very cl
 ## Readability
 Improving accessibility of these essays for a new college student is our main goal in this round of revisions. Try to revise any sentences that are too long, or too hard to follow. That said, we don't want overly simplistic writing, either. You don't have to write the perfect sentence (although that's always the goal)---just leave it better than you found it. Sometimes stepping back and rewriting a sentence or two and paraphrasing is the fastest way to improve clarity. Don't hesitate to replace prose to communicate more effectively.
 
+## Skim test
+
+### Meaningful headings
+Overly general or clever headings usually don't help readers very much.
+
+### First sentences
+Informative first sentences that have a clear progression through the essay.
 
 ## Paragraph lengths
 There is nothing intrinsically wrong with long paragraphs, but long paragraphs are quite difficult to read on a screen, and are also rather off-putting to new readers confronted with a wall of text. It is often very easy to make one large paragraph into two or three without any additional editing.

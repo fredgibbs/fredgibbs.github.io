@@ -78,7 +78,7 @@ We're going to tie up some loose ends from last time, so we can be most efficien
 ### 16: Giambattista Vico (1668-1744)
 - _PoH_, 127-167. Skim 137-160. You should still read these pages---they are actually quite interesting as perhaps the first comprehensive theory of history---but read quickly as to not get bogged down in the details.
 
-{% include alert.html class='danger' title='The Intro Guide' text="
+{% include alert.html class='info' title='The Intro Guide' text="
 
 **As you look over the intro guide, stay out of the weeds!** Really specific criticism about a particular essay is not particularly helpful at this stage. Keep your analysis focused on the big picture and the overall project.
 
@@ -151,8 +151,9 @@ All you need to do is copy and paste the code from the gray box, and change the 
 - Margo Anderson, "Qualitative History", 246-59.
 
 {% include alert.html class='info' title='Discussion prep' text="
-- Is quantitative history fundamentally different from “regular” history?
-- Will all history gradually become quantitative history (as most sources become born-digital or digitized)?  
+- Everyone is a commenter for today. Drawing from the readings, respond to the following two questions:
+  - Is quantitative history fundamentally different from "regular" history?
+  - To what extent will all history gradually become quantitative history (as sources are born-digital or become digitized)?  
 "%}
 
 
