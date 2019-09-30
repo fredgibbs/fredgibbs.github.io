@@ -13,8 +13,8 @@ header: landscape
 - Introduction to course, syllabus, expectations, landscape, memory, public history, digital history, research projects, national trails, etc.
 - Explore the [National Trails System](https://www.nps.gov/subjects/nationaltrailssystem/index.htm).
 - Survey the [National Trails Map](https://www.nps.gov/subjects/nationaltrailssystem/upload/National-Trails-50th-Map-02-09-18.pdf).
-- ["Landscape Lines 15: Historic Trails"](https://permanent.access.gpo.gov/gpo54009/Landscape_Lines_15.pdf). Margie Coffin Brown, (National Park Service, n.d.).
-- Explanation of our digital infrastructure and digital projects
+- Margie Coffin Brown, ["Landscape Lines 15: Historic Trails"](https://permanent.access.gpo.gov/gpo54009/Landscape_Lines_15.pdf).
+- Explanation of our [trails site](trails.unm.edu)
 - Introduction to [Zotero](http://zotero.org)
 
 {% include alert.html class='danger' title='Do this TODAY' text="
@@ -45,7 +45,7 @@ header: landscape
 - Introduction to [Markdown](https://www.markdowntutorial.com/)
 - Read how to [connect to GitHub](/courses/etc/connecting-to-github)
 - Read how to [post to GitHub](/courses/etc/posting-to-github)
-- Divide into summarizers and commenters for next time.
+- Divide into summarizer and commenter groups for next time.
 
 
 ### Wednesday, 10/23: Remembering Trails
@@ -86,7 +86,6 @@ header: landscape
 
 - What do you think of the information / histories presented in these contexts? Strengths? Weaknesses?
 
-- DUE: Historically Significant Site selections. You need to pick a site that has not been researched already from [this list](http://trails.unm/historic-registration-forms)
 
 
 
@@ -96,9 +95,16 @@ header: landscape
 - Dolores Hayden, _The Power of Place_, 44--78.
 - Shannon Mattern, "[Interfacing Urban Intelligence](https://placesjournal.org/article/interfacing-urban-intelligence/),"  _Places Journal_ (April 2014).
 
+{% include alert.html class='warning' title='SITE SELECTIONS TODAY' text="
+- Historically Significant Site selections. Be prepared to pick a site that has not been researched already from [this list](https://github.com/historic-trails/website/tree/master/historic-registration-forms).
+"%}
+
+
 {% include alert.html class='danger' title='DUE TODAY' text="
 - Complete essay revisions at the [Trails Repository](https://github.com/historic-trails/website). Be sure to review the [Essay Revision guidelines](http://trails.unm.edu/revision-guide).
 "%}
+
+
 
 
 ### Wednesday, 11/06: Meanings of Nature
@@ -110,7 +116,7 @@ header: landscape
 ## Week 13/5
 
 ###  Monday 11/11: Deconstructing Maps
-- J. B. Harley, "Deconstructing the Map," *Cartographica* 26, no. 2 (1989): 1--20. Note that Harley can veer into the philosophical weeds at times, but it's never for very long, so don't give up. On the whole, he makes a lot of very important points about reading and understanding maps that are stated very clearly.
+- J. B. Harley, "Deconstructing the Map," *Cartographica* 26.2 (1989): 1--20. Note that Harley can veer into the philosophical weeds at times, but it's never for very long, so don't give up. On the whole, he makes a lot of very important points about reading and understanding maps that are stated very clearly.
 
 
 ### Wednesday, 11/13:
@@ -139,7 +145,10 @@ How would you characterize the tone of these books? What are the assumptions and
 ## Week 15/7:
 
 ### Monday, 11/25:
-
+- All directory info in our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0)
+- All historic site essays should be ENTIRELY COMPLETE, including clear section headings, clear and focused paragraphs, clear narrative thread, images (with captions), hyperlinks, and related people, places, and articles.
+- Clean Zotero Collections
+- Peer Review
 
 ### Wednesday, 11/27:
 
@@ -152,7 +161,7 @@ How would you characterize the tone of these books? What are the assumptions and
 
 ### Wednesday, 12/04
 - All directory info in our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0)
-- All itinerary pages should be ENTIRELY COMPLETE, including clear section headings, clear and focused paragraphs, clear narrative thread, images (with captions), hyperlinks, and related people, places, and articles.
+- All historic site essays should be ENTIRELY COMPLETE, including clear section headings, clear and focused paragraphs, clear narrative thread, images (with captions), hyperlinks, and related people, places, and articles.
 - Clean Zotero Collections
 
 
