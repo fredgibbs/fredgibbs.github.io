@@ -152,7 +152,7 @@ All you need to do is copy and paste the code from the gray box, and change the 
 
 {% include alert.html class='info' title='Discussion prep' text="
 - Everyone is a commenter for today. Drawing from the readings, respond to the following two questions:
-  - Is quantitative history fundamentally different from "regular" history?
+  - Is quantitative history fundamentally different from 'regular' history?
   - To what extent will all history gradually become quantitative history (as sources are born-digital or become digitized)?  
 "%}
 
