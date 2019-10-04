@@ -11,6 +11,7 @@ header: landscape
 
 ### Monday, 10/14: This course and digital public landscape history
 - Introduction to course, syllabus, expectations, landscape, memory, public history, digital history, research projects, national trails, etc.
+- Landscape definitions
 - Explore the [National Trails System](https://www.nps.gov/subjects/nationaltrailssystem/index.htm).
 - Survey the [National Trails Map](https://www.nps.gov/subjects/nationaltrailssystem/upload/National-Trails-50th-Map-02-09-18.pdf).
 - Margie Coffin Brown, ["Landscape Lines 15: Historic Trails"](https://permanent.access.gpo.gov/gpo54009/Landscape_Lines_15.pdf).
@@ -63,9 +64,15 @@ header: landscape
 ### Monday, 10/28: Humanistic Space
 - David Lowenthal, "Age and Artifact: Dilemmas of Appreciation", 103--128.
 - Yi-Fu Tuan, "Space and Place: Humanistic Perspective," in *Philosophy in Geography*, ed. Stephen Gale and Gunnar Olsson (Boston: D. Reidel Publishing Company, 1979), 387--427.
-- Introduction to the Historic Registry.
+- [Protecting Cultural Landscapes](https://www.nps.gov/TPS/how-to-preserve/briefs/36-cultural-landscapes.htm)
+- Introduction to the [National Historic Registry](https://www.nps.gov/subjects/nationalregister/index.htm)
+- [National Register Research - Santa Fe National Historic Trail ](https://www.nps.gov/safe/learn/historyculture/national-register-research.htm)
 
 ### Wednesday, 10/30: Santa Fe Trail History
+{% include alert.html class='warning' title='SITE SELECTIONS TODAY' text="
+- Historically Significant Site selections. Be prepared to pick a site that has not been researched already from the [National Register Research Page](https://www.nps.gov/safe/learn/historyculture/national-register-research.htm), or the [Certified Sites Page](https://www.nps.gov/safe/getinvolved/certified-sites.htm).
+"%}
+
 
 - [A History of the Santa Fe Trail](https://www.santafetrail.org/the-trail/history/history-of-the-sft/)
 - Selections from the NPS [Santa Fe History](https://dnr.mo.gov/shpo/nps-nr/64500309.pdf). This is a kind of historic registry nomination form intended to be for all historic sites near the Santa Fe Trail rather than a single specific site, as is more common. It begins with a long and thorough history (with just under 800 footnotes), and also has a long bibliography that we'll want to keep an eye on. We're reading from section E (Statement of Historic Contexts), which starts on page 3 of the PDF, but is labeled as E1 on the document (yay bureaucracy!). All pages are as listed in the document, not what your PDF reader says.
@@ -79,7 +86,6 @@ header: landscape
 
 
 - Check out the [Santa Fe Trail Association](https://www.santafetrail.org/index.html) and their [Interactive Trail Map](https://www.santafetrail.org/interactive-trail-map/).
-- Critique the [SFTA Interactive Trail Map](https://www.santafetrail.org/the-trail/history/history-of-the-sft/)
 - Critique the [Santa Fe Trail Exhibits](https://www.nps.gov/safe/learn/historyculture/exhibits.htm)
 - Explore the histories of the [NTIR Historic Trails](https://www.nps.gov/orgs/1453/index.htm).
 - [Santa Fe Walking Tour](https://www.santafetrail.org/chapters/endoftrail/pdf/M-Pitel_SantaFesSFTWalkingTourFinal.pdf)
@@ -95,21 +101,16 @@ header: landscape
 - Dolores Hayden, _The Power of Place_, 44--78.
 - Shannon Mattern, "[Interfacing Urban Intelligence](https://placesjournal.org/article/interfacing-urban-intelligence/),"  _Places Journal_ (April 2014).
 
-{% include alert.html class='warning' title='SITE SELECTIONS TODAY' text="
-- Historically Significant Site selections. Be prepared to pick a site that has not been researched already from [this list](https://github.com/historic-trails/website/tree/master/historic-registration-forms).
-"%}
 
-
-{% include alert.html class='danger' title='DUE TODAY' text="
+{% include alert.html class='danger' title='REVISIONS DUE TODAY' text="
 - Complete essay revisions at the [Trails Repository](https://github.com/historic-trails/website). Be sure to review the [Essay Revision guidelines](http://trails.unm.edu/revision-guide).
 "%}
 
 
 
-
 ### Wednesday, 11/06: Meanings of Nature
 - Keith H. Basso, _Wisdom Sits in Places_, 37--70.
-- William Cronon, “The Trouble with Wilderness: Or, Getting Back to the Wrong Nature,” _Environmental History_ 1.1 (1996): 7--28.
+- Robert Moor, *On Trails: An Exploration* (London: Quarto, 2017), 161--202. [PDF](readings/on-trails.pdf)
 
 
 
@@ -120,6 +121,11 @@ header: landscape
 
 
 ### Wednesday, 11/13:
+{% include alert.html class='danger' title='TRIAL ESSAY DUE TODAY' text="
+- [Loading Images](http://trails.unm.edu/loading-images)
+- [Code Samples](http://trails.unm.edu/code)
+
+"%}
 
 
 
@@ -160,10 +166,8 @@ How would you characterize the tone of these books? What are the assumptions and
 ### Monday, 12/02: NO CLASS --> WORK TIME
 
 ### Wednesday, 12/04
-- All directory info in our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0)
-- All historic site essays should be ENTIRELY COMPLETE, including clear section headings, clear and focused paragraphs, clear narrative thread, images (with captions), hyperlinks, and related people, places, and articles.
-- Clean Zotero Collections
-
+- Loose Ends, Reflections, and Evaluations
+- TODO lists for final revisions
 
 ## All final versions December 11 at 5:00pm.
 - As you finalize your essays, please keep in mind the [general rubric](http://fredgibbs.net/courses/trails/essay-grading-rubric.pdf) and the [style guide](http://fredgibbs.net/courses/trails/style-guide)
