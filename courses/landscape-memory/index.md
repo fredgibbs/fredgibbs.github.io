@@ -27,7 +27,7 @@ With ubiquitous digital maps at our finger tips, it’s easy to move through spa
 Preparation for each class meeting and active participation in the class discussions
 Completion of research project, including completing various components of the projects at deadlines throughout the semester.
 
-- To access articles and book chapters on the syllabus, you will need to [subscribe to the course Zotero library](fredgibbs.net/courses/etc/zotero.html). The URL for the group library is [here](https://www.zotero.org/groups/2379087/landscape-memory-unm/items), but you must have clicked on the link in your invitation to access the library!
+- To access articles and book chapters on the syllabus, you will need to [subscribe to the course Zotero library](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library is [here](https://www.zotero.org/groups/2379087/landscape-memory-unm/items), but you must have clicked on the link in your invitation to access the library!
 
 
 ## Accessibility
