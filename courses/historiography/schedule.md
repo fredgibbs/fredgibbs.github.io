@@ -164,8 +164,15 @@ All you need to do is copy and paste the code from the gray box, and change the 
 ## Week 9: What are we doing?
 
 ### 14: What IS History?
-- _PoH_, 281-89; 290-322.
-- Review existing Intro Guide and come to class with a specific topic in mind. We will discuss proposed topics to manage overlap amongst ourselves and existing essays.
+- _PoH_, 281-89
+{% include alert.html class='info' title='EVERYONE: summary assignment' text="
+Summarize this intro to Part II in ONLY 3 bullet points from the reading.
+"%}
+ 
+- _PoH_, 290-322.
+- Regular groups for this section.
+
+- DECIDE ON A TOPIC. Review existing Intro Guide and come to class with a specific topic in mind. We will discuss proposed topics to manage overlap amongst ourselves and existing essays.
 
 
 ### 16: What is History FOR?
