@@ -165,85 +165,122 @@ All you need to do is copy and paste the code from the gray box, and change the 
 
 ### 14: What IS History?
 - _PoH_, 281-89; 290-322.
+- Review existing Intro Guide and come to class with a specific topic in mind. We will discuss proposed topics to manage overlap amongst ourselves and existing essays.
 
 
 ### 16: What is History FOR?
 - _PoH_, 323-56.
+- Create new pages for your essays. Copy and paste an existing essay into your new, blank one. Pick one that has good images, captions, and so on so you have working code samples already.
+- On your new page, write a 1-2 paragraph abstract of what you'd intend to do in your essay. This is a starting point, not a final commitment, but be thorough.
 
 
-## Week 10:
+## Week 10: All hell breaks loose
 
-### 21:
+### 21: Postmodernism I
+- Jeremy D. Popkin, _From Herodotus to H-Net_, "Glorious Confusion", 127-65.
+- Notes on forking repositories and developing your essay.
+
+{% include alert.html class='info' title='postmodernism so far' text="
+No posts for today, but look at the assignment for Wednesday.
+"%}
+
+
+### 23: Postmodernism II
 - _PoH_, 359-89.
 
-### 23:
-- _From Herodotus to H-Net_, "Glorious Confusion", 127-65.
 {% include alert.html class='info' title='postmodernism so far' text="
-Write a comment (400-500 words) about your take on postmodern history. Write/focus on whatever you like, but provide at least rough answers to the following kinds of questions: how have our readings affected the way you think about history? Does postmodern history constitute a historiographical paradigm shift? In other words: Are late twentieth-century ways of writing about history that we've discussed a 'rupture' from previous historiographies? Or are they more on a continuum of historiographical change. Be interesting.
+Write a slightly-longer-than-normal-comment (600-800 words) about your take on postmodern history. Write/focus on whatever you like, but provide at least rough answers to the following kinds of questions (but don't just answer them one by one):
+- How have our readings affected the way you think about history?
+- Does postmodern history constitute a historiographical paradigm shift?
+- Are late twentieth-century ways of writing about history that we've discussed a 'rupture' from previous historiographies?
+- Or are they more on a continuum of historiographical change.
+**These comments will be VERY useful for our Intro Guide.**
 "%}
 
 
 
 ## Week 11
 
-### 28: Discursive History
-* Foucault, _Archeology of Knowledge_, 21-39.
+### 28: NO CLASS: Work on your essays!
 
-{% include alert.html class='info' title='WTF' text="
-Everyone is a commenter for today, and you need to answer two questions to which you should devote roughly equal space:
-1. Translate Foucault's main points (readers choice!) into clear and concise language.
-2. What did you find most interesting about the selections, **and Why**? Note that what you found most interesting may or may not be what you consider the main point.
-"%}
-
-### 30:  Getting to the know the Intro Guide
-{% include alert.html class='danger' title='Revisions due' text="
-Be sure all edits are committed to GitHub.
-"%}
-
-
-## Week 12
-### 4: Essay Outlines
-{% include alert.html class='danger' title='Essay Outlines' text="
-For today, post a COMPLETE outline for your essay. With no reading assignment, this is obviously your focus, so DO IT WELL and save everyone (including your future self) headaches later.
-
-Your outline will be gradually expanded into your essay, so the better the topic points--WHICH WILL BECOME PARAGRAPHS LATER--the easier time you will have shifting your essay from topics (ideas) into prose (narrative).
-
-Your topic points should include the crucial explanations for what's significant about what you're talking about--especially how it deviated from previous historiography at the time and its legacy.
-
-Put your outlines in the [essays/outlines folder](https://github.com/unm-historiography/2019-fall/tree/master/essays/outlines)
+{% include alert.html class='danger' title='Research Methods' text="
 
 ### START BUILDING YOUR ZOTERO LIBRARY
 For more instructions on what to do, [watch this](https://www.youtube.com/watch?v=yD8_6MZFI8c&feature=youtu.be).
 
-### THESE ARE WORKING NOTES
+### MAKE WORKING NOTES
 As such, ask questions, makes notes to yourself and your colleagues (who will review your work later).
 
 ### DON'T FORGET CITATIONS
-If you just write stuff down and don't bother citing where you found it, you will have to eventually hunt down all the page numbers and THAT'S A HUGE WASTE OF TIME. As someone who has wasted considerable time on just that, please take my advice: take time to make accurate references THE FIRST TIME.
+If you just write stuff down and don't bother citing where you found it, you will have to eventually hunt down all the page numbers and THAT'S A HUGE WASTE OF TIME. As someone who has wasted considerable time on just that, please take my advice: take time to make accurate references AS YOU WRITE.
 "%}
 
+
+### 30: Discursive History
+* Foucault, _Archeology of Knowledge_, 3-17; 21-30; 31-39.
+
+{% include alert.html class='info' title='WTF' text="
+Everyone is a summarizer for today:
+- Translate Foucault's main points into clear and concise language.
+"%}
+
+
+## Week 12
+### 4: Essay Drafts I
+{% include alert.html class='danger' title='Essay Drafts Due' text="
+For today, post a COMPLETE draft for your essay. With no reading assignment, this is obviously your focus, so DO IT WELL and save everyone (including your future self) headaches later.
+
+'Draft' does not mean some half-baked sketch hastily thrown together so you have something to post. It means a COMPLETE FIRST VERSION that we can all respond to in a meaningful way.
+"%}
+
+{% include alert.html class='danger' title='Bring Paper Copies' text="
+We'll be doing a peer review session with your essays, so please bring TWO HARD COPIES of your essay to class. Print from the Intro Guide website!
+"%}
+
+
 ### 6: Narrative history
+
+{% include alert.html class='danger'
+title='First Revisions Due' text="
+Respond to your critics (and friends)! Incorporate changes while they are fresh in your mind. You will revise more later, so these aren't final revisions, but we want to take best advantage of the peer review exercise.
+"%}
+
+
 - Alex Rosenberg, [Why most narrative history is wrong](https://www.salon.com/2018/10/07/why-most-narrative-history-is-wrong/)
+
 {% include alert.html class='info' title='Discussion prep' text="
   - Where do you agree and disagree with this article?
 "%}
 
 
 
+
 ## Week 13
 
-### 11:
-{% include alert.html class='danger' title='Expand Topic Points ' text="
-Two steps for this assignment:
+### 11: Gender Histories
+* _Houses_, "Gender History", 253-62.
+* Catherine Hall, "Gender Division and Class Formation in the Birmingham Middle Class, 1780-1850" [= _Houses_, 263-76; skim].
+* Joan Scott, "Gender: A Useful Category of Historical Analysis", 1053-1075.
 
-1) Improve your topic points according to feedback
 
-2) Make them paragraphs (add/delete/combine as need be)
 
-#### Be sure your paragraphs have an expressed purpose, contribute to your argument, and cite adequate sources.
+### 13: Postcolonial Histories
+- _Houses_, "Postcolonial Perspectives", 263-76.
+- Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?", 1-27.
+- Essay assignments for review
 
+
+
+
+
+## Week 14
+### 18: Reader Reports
+{% include alert.html class='danger' title='Reader Reports Due' text="
+You'll post TWO 500-600 word comments on TWO different essays (randomly assigned last class)
 "%}
-### 13: Scales of history
+
+
+### 20: Scales of history
 * Kieran Healy, "Fuck nuance", 1-13.
 
 {% include alert.html class='info' title='Discussion prep' text="
@@ -254,29 +291,9 @@ Two steps for this assignment:
 
 
 
-## Week 14
-### 18: Gender Histories
-* _Houses_, "Gender History", 253-62.
-* Catherine Hall, "Gender Division and Class Formation in the Birmingham Middle Class, 1780-1850" [= _Houses_, 263-76; skim].
-* Joan Scott, "Gender: A Useful Category of Historical Analysis", 1053-1075.
-
-
-
-### 20: Postcolonial Histories
-* _Houses_, "Postcolonial Perspectives", 263-76.
-* Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?", 1-27.
-
-
-
-
 ## Week 15:  Postmodern discursive history
 ### 25: Professed Purposes
 - _What is History For?_, 31--58.
-
-{% include alert.html class='danger' title='Bring Paper Copies' text="
-We'll be doing a peer review session with your essays, so please bring TWO HARD COPIES of your essay to class, DOUBLE-SPACED!
-"%}
-
 
 
 ### 27: Hidden Agendas
