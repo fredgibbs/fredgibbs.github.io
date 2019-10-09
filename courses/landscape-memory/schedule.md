@@ -15,7 +15,8 @@ header: landscape
 - Explore the [National Trails System](https://www.nps.gov/subjects/nationaltrailssystem/index.htm).
 - Survey the [National Trails Map](https://www.nps.gov/subjects/nationaltrailssystem/upload/National-Trails-50th-Map-02-09-18.pdf).
 - Margie Coffin Brown, ["Landscape Lines 15: Historic Trails"](https://permanent.access.gpo.gov/gpo54009/Landscape_Lines_15.pdf).
-- Explanation of our [trails site](trails.unm.edu)
+
+- Explanation of our [trails site](http://trails.unm.edu)
 - Introduction to [Zotero](http://zotero.org)
 
 {% include alert.html class='danger' title='Do this TODAY' text="
@@ -24,7 +25,7 @@ header: landscape
 
 ### Wednesday, 10/16: Sites of Memory
 - D. W. Meinig, "The Beholding Eye: Ten Versions of the Same Scene", 33--48.
-- Jay Winter, "Sites of Memory." In _Memory: Histories, Theories, Debates_, edited by Susannah Radstone and Bill Schwarz, 312-24. (New York: Fordham University, 2010). [JSTOR](http://www.jstor.org/stable/j.ctt1c999bq.25)
+- Jay Winter, "Sites of Memory," in _Memory: Histories, Theories, Debates_, 312-24.
 
 
 #### Noteworthy
@@ -52,7 +53,7 @@ header: landscape
 ### Wednesday, 10/23: Remembering Trails
 - Michael J. Zogry, "Wide Open Spaces: The Trail of Tears, the Lewis and Clark Expedition, and Gaps in the National Memory" (2008), 56--82.
 
-- Peter B. Dedek, "'Wild' Lands and 'Tamed' Indians: Cultural Stereotypes and Route 66," in *Hip to the Trip : A Cultural History of Route 66* (Albuquerque: University of New Mexico Press, 2007), 9--27.
+- Peter B. Dedek, "'Wild' Lands and 'Tamed' Indians: Cultural Stereotypes and Route 66," in _Hip to the Trip : A Cultural History of Route 66_, 9--27.
 
 - Robin W. Winks, "A Public Historiography," *The Public Historian* 14.3 (1992): 93--105. [JSTOR](https://www.jstor.org/stable/3378234?seq=1#page_scan_tab_contents).
 
@@ -61,19 +62,7 @@ header: landscape
 
 ## Week 11/3
 
-### Monday, 10/28: Humanistic Space
-- David Lowenthal, "Age and Artifact: Dilemmas of Appreciation", 103--128.
-- Yi-Fu Tuan, "Space and Place: Humanistic Perspective," in *Philosophy in Geography*, ed. Stephen Gale and Gunnar Olsson (Boston: D. Reidel Publishing Company, 1979), 387--427.
-- [Protecting Cultural Landscapes](https://www.nps.gov/TPS/how-to-preserve/briefs/36-cultural-landscapes.htm)
-- Introduction to the [National Historic Registry](https://www.nps.gov/subjects/nationalregister/index.htm)
-- [National Register Research - Santa Fe National Historic Trail ](https://www.nps.gov/safe/learn/historyculture/national-register-research.htm)
-
-### Wednesday, 10/30: Santa Fe Trail History
-{% include alert.html class='warning' title='SITE SELECTIONS TODAY' text="
-- Historically Significant Site selections. Be prepared to pick a site that has not been researched already from the [National Register Research Page](https://www.nps.gov/safe/learn/historyculture/national-register-research.htm), or the [Certified Sites Page](https://www.nps.gov/safe/getinvolved/certified-sites.htm).
-"%}
-
-
+### Monday, 10/28: NO CLASS but...
 - [A History of the Santa Fe Trail](https://www.santafetrail.org/the-trail/history/history-of-the-sft/)
 - Selections from the NPS [Santa Fe History](https://dnr.mo.gov/shpo/nps-nr/64500309.pdf). This is a kind of historic registry nomination form intended to be for all historic sites near the Santa Fe Trail rather than a single specific site, as is more common. It begins with a long and thorough history (with just under 800 footnotes), and also has a long bibliography that we'll want to keep an eye on. We're reading from section E (Statement of Historic Contexts), which starts on page 3 of the PDF, but is labeled as E1 on the document (yay bureaucracy!). All pages are as listed in the document, not what your PDF reader says.
   - Make sure you at least skim everything and read carefully what interests you. Some paragraphs have lots of detail to support a larger point; obviously we're not concerned with minute detail, but it helps indicate what we know and what we don't about the Trail. Read extra quickly over those bits.
@@ -84,13 +73,25 @@ header: landscape
   - Part IV (57-middle 59)
   - Part V (62-top 67)
 
-
 - Check out the [Santa Fe Trail Association](https://www.santafetrail.org/index.html) and their [Interactive Trail Map](https://www.santafetrail.org/interactive-trail-map/).
 - Critique the [Santa Fe Trail Exhibits](https://www.nps.gov/safe/learn/historyculture/exhibits.htm)
 - Explore the histories of the [NTIR Historic Trails](https://www.nps.gov/orgs/1453/index.htm).
 - [Santa Fe Walking Tour](https://www.santafetrail.org/chapters/endoftrail/pdf/M-Pitel_SantaFesSFTWalkingTourFinal.pdf)
-
 - What do you think of the information / histories presented in these contexts? Strengths? Weaknesses?
+
+
+
+### Wednesday, 10/30: Humanistic Space
+{% include alert.html class='warning' title='SITE SELECTIONS TODAY' text="
+- Historically Significant Site selections. Be prepared to pick a site that has not been researched already from the [National Register Research Page](https://www.nps.gov/safe/learn/historyculture/national-register-research.htm), or the [Certified Sites Page](https://www.nps.gov/safe/getinvolved/certified-sites.htm).
+"%}
+
+- David Lowenthal, "Age and Artifact: Dilemmas of Appreciation", 103--128.
+- Yi-Fu Tuan, "Space and Place: Humanistic Perspective," in *Philosophy in Geography*, 387--427.
+- [Protecting Cultural Landscapes](https://www.nps.gov/TPS/how-to-preserve/briefs/36-cultural-landscapes.htm)
+- Introduction to the [National Historic Registry](https://www.nps.gov/subjects/nationalregister/index.htm)
+
+
 
 
 
@@ -124,7 +125,6 @@ header: landscape
 {% include alert.html class='danger' title='TRIAL ESSAY DUE TODAY' text="
 - [Loading Images](http://trails.unm.edu/loading-images)
 - [Code Samples](http://trails.unm.edu/code)
-
 "%}
 
 
@@ -142,7 +142,7 @@ How would you characterize the tone of these books? What are the assumptions and
 
 - Read quickly through "Susan Shelby Magoffin: A Wandering Princess on the Santa Fe Trail," in Deborah Lawrence, *Writing the Trail: Five Women's Frontier Narratives* (Iowa City: University of Iowa Press, 2006), 9--34. This very clearly describes how to interpret primary sources from the trail. Don't worry about the details, but do appreciate how the author of the article is trying to read between the lines of the diary and extract larger meaning from the minutia recorded therein.
 
--   Virginia Scharff, *Twenty Thousand Roads: Women, Movement, and the West* (Berkeley: University of California Press, 2003), 35--66.
+-   Virginia Scharff, *Twenty Thousand Roads: Women, Movement, and the West* (Berkeley: University of California Press, 2003), 35--66. [read online](https://ebookcentral.proquest.com/lib/unm/reader.action?ppg=48&docID=223632&tm=1540682964396).
 
 -  Consult the diaries of Harriett Bidwell Shaw, available [here](https://www.kansasmemory.org/item/display.php?item_id=209694&f=00059118). Note the handwriting and how fun it would be to read it in the original. Luckily, someone has already done very useful transcription work for us. To actually read the diary, click on the "text version" button. You don't need to read every entry, but the more the better. Read enough to get a sense of her worldview, and what her diary tells us about trail travel in the mid nineteenth century. Please come to class ready to discuss how the diary---both what it says and what it doesn't---tells us about trail life.
 
@@ -154,7 +154,7 @@ How would you characterize the tone of these books? What are the assumptions and
 - All directory info in our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0)
 - All historic site essays should be ENTIRELY COMPLETE, including clear section headings, clear and focused paragraphs, clear narrative thread, images (with captions), hyperlinks, and related people, places, and articles.
 - Clean Zotero Collections
-- Peer Review
+- Bring 2 printed versions to class for peer review
 
 ### Wednesday, 11/27:
 
