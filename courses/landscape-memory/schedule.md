@@ -26,7 +26,7 @@ header: landscape
 ### Wednesday, 10/16: Sites of Memory
 - D. W. Meinig, "The Beholding Eye: Ten Versions of the Same Scene", 33--48.
 - Jay Winter, "Sites of Memory," in _Memory: Histories, Theories, Debates_, 312-24.
-
+- Margie Coffin Brown, ["Landscape Lines 15: Historic Trails"](https://permanent.access.gpo.gov/gpo54009/Landscape_Lines_15.pdf), 1-15.
 
 #### Noteworthy
 - Skim through a few very short essays at the [50th Anniversary of the Trail System Blog](https://www.trails50.org/new-blog/) to get a sense of modern "administration" and interpreting the modern trail.
