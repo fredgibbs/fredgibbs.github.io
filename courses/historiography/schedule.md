@@ -168,7 +168,7 @@ All you need to do is copy and paste the code from the gray box, and change the 
 {% include alert.html class='info' title='EVERYONE: summary assignment' text="
 Summarize this intro to Part II in ONLY 3 bullet points from the reading.
 "%}
- 
+
 - _PoH_, 290-322.
 - Regular groups for this section.
 
@@ -177,19 +177,26 @@ Summarize this intro to Part II in ONLY 3 bullet points from the reading.
 
 ### 16: What is History FOR?
 - _PoH_, 323-56.
-- Create new pages for your essays. Copy and paste an existing essay into your new, blank one. Pick one that has good images, captions, and so on so you have working code samples already.
-- On your new page, write a 1-2 paragraph abstract of what you'd intend to do in your essay. This is a starting point, not a final commitment, but be thorough.
+- Regular groups responses for this reading.
+- Notes on forking repositories and developing your essay. These instructions are written out under next Monday's class, but we'll go over them today.
+
 
 
 ## Week 10: All hell breaks loose
 
 ### 21: Postmodernism I
 - Jeremy D. Popkin, _From Herodotus to H-Net_, "Glorious Confusion", 127-65.
-- Notes on forking repositories and developing your essay.
-
-{% include alert.html class='info' title='postmodernism so far' text="
-No posts for today, but look at the assignment for Wednesday.
+{% include alert.html class='info' title='Get your new page working' text="
+No posts for today, but complete the steps below (as explained on Monday) and start thinking about the assignment for Wednesday.
 "%}
+- Fork the intro-guide repository.
+- Turn on your own repository's GitHub Pages website. Under the settings tab, scroll down to GitHub Pages section (second from the bottom), and select `master branch`. Scroll back down to get your URL, but it will look like https://USERNAME.github.io/intro-guide
+- Working in YOUR repository, create a new page for your essay. Copy and paste the standard page header from the Code Examples page.
+- On your new page, write a 1-2 paragraph abstract of what you'd intend to do in your essay. This is a starting point, not a final commitment, but be thorough.
+- Get one image to appear, just to make sure you have working code for it. You can copy and paste image code from another image on an existing page.
+- Get your page looking like you want to within YOUR repository. Make sure there are no page build errors.
+- Then make a PULL REQUEST to move your changes up to the unm-historiography/intro-guide repository (where the real website lives)
+
 
 
 ### 23: Postmodernism II
