@@ -15,12 +15,11 @@ header: landscape
 - Explore the [National Trails System](https://www.nps.gov/subjects/nationaltrailssystem/index.htm).
 - Survey the [National Trails Map](https://www.nps.gov/subjects/nationaltrailssystem/upload/National-Trails-50th-Map-02-09-18.pdf).
 - Margie Coffin Brown, ["Landscape Lines 15: Historic Trails"](https://permanent.access.gpo.gov/gpo54009/Landscape_Lines_15.pdf).
-
 - Explanation of our [trails site](http://trails.unm.edu)
 - Introduction to [Zotero](http://zotero.org)
 
 {% include alert.html class='danger' title='Do this TODAY' text="
-- Follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero) so you have access to the readings for Wednesday.
+- Follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero) so you have access to the readings for Wednesday. After you have registered at Zotero.org and have accepted the invitation (in that order), you can access the readings at [https://www.zotero.org/groups/2379087/landscape-memory-unm/items](https://www.zotero.org/groups/2379087/landscape-memory-unm/items).
 "%}
 
 ### Wednesday, 10/16: Sites of Memory
