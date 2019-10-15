@@ -72,12 +72,12 @@ header: landscape
   - Part IV (57-middle 59)
   - Part V (62-top 67)
 
-- Check out the [Santa Fe Trail Association](https://www.santafetrail.org/index.html) and their [Interactive Trail Map](https://www.santafetrail.org/interactive-trail-map/).
-- Critique the [Santa Fe Trail Exhibits](https://www.nps.gov/safe/learn/historyculture/exhibits.htm)
-- Explore the histories of the [NTIR Historic Trails](https://www.nps.gov/orgs/1453/index.htm).
-- [Santa Fe Walking Tour](https://www.santafetrail.org/chapters/endoftrail/pdf/M-Pitel_SantaFesSFTWalkingTourFinal.pdf)
-- What do you think of the information / histories presented in these contexts? Strengths? Weaknesses?
+In light of the "official" Santa Fe trail historic registry report, how does that kind of work get reflected (or not) in most easy to find digital resources? What do you think of the information / histories presented in these contexts? Strengths? Weaknesses?
 
+- [Santa Fe Trail on Wikipedia](https://en.wikipedia.org/wiki/Santa_Fe_Trail)
+- [Official NPS site](https://www.nps.gov/safe/index.htm) and the [Santa Fe Trail Exhibits](https://www.nps.gov/safe/learn/historyculture/exhibits.htm)
+- [Santa Fe Trail Association](https://www.santafetrail.org/index.html) and their [Interactive Trail Map](https://www.santafetrail.org/interactive-trail-map/).
+- [Santa Fe Walking Tour](https://www.santafetrail.org/chapters/endoftrail/pdf/M-Pitel_SantaFesSFTWalkingTourFinal.pdf)
 
 
 ### Wednesday, 10/30: Humanistic Space
@@ -118,6 +118,7 @@ header: landscape
 
 ###  Monday 11/11: Deconstructing Maps
 - J. B. Harley, "Deconstructing the Map," *Cartographica* 26.2 (1989): 1--20. Note that Harley can veer into the philosophical weeds at times, but it's never for very long, so don't give up. On the whole, he makes a lot of very important points about reading and understanding maps that are stated very clearly.
+- Adam Loften & Emmanuel Vaughan-Lee, [Counter Mapping](https://emergencemagazine.org/story/counter-mapping/)
 
 
 ### Wednesday, 11/13:
