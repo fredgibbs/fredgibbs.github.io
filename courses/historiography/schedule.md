@@ -189,14 +189,17 @@ Summarize this intro to Part II in ONLY 3 bullet points from the reading.
 {% include alert.html class='info' title='Get your new page working' text="
 No posts for today, but complete the steps below (as explained on Monday) and start thinking about the assignment for Wednesday.
 "%}
-- Fork the intro-guide repository.
-- Turn on your own repository's GitHub Pages website. Under the settings tab, scroll down to GitHub Pages section (second from the bottom), and select `master branch`. Scroll back down to get your URL, but it will look like https://USERNAME.github.io/intro-guide
-- Working in YOUR repository, create a new page for your essay. Copy and paste the standard page header from the Code Examples page.
-- On your new page, write a 1-2 paragraph abstract of what you'd intend to do in your essay. This is a starting point, not a final commitment, but be thorough.
-- Get one image to appear, just to make sure you have working code for it. You can copy and paste image code from another image on an existing page.
-- Get your page looking like you want to within YOUR repository. Make sure there are no page build errors.
-- Then make a PULL REQUEST to move your changes up to the unm-historiography/intro-guide repository (where the real website lives)
-
+- Fork the intro-guide. Go to the [intro-guide repository](https://github.com/unm-historiography/intro-guide), and click the `Fork` button in the upper right corner (don't click the number).
+- You'll see a popup window asking you where you want to fork it, and you'll click on your username (you should only have one choice).
+- Notice where you are! You are looking at the intro-guide repository under YOUR OWN ACCOUNT. This is evident from the URL and the top left of the GitHub page. Our collection will always have `unm=-historiography` in it, and yours will have your GitHub username. But the files look exactly the same!
+- Turn on your own repository's GitHub Pages website. Under the settings tab, scroll down to the `GitHub Pages` section (second from the bottom), and under `source`, change it from `none` to `master branch`. Scroll back down to the GitHub Pages section, and notice that it gives you a URL for your version of the intro-guide. It will look like https://USERNAME.github.io/intro-guide.
+- Working in YOUR repository (which will look like https://github.com/USERNAME/intro-guide/), go into the `essays` folder and appropriate subfolder, and create a new page for your essay.
+- Copy and paste the standard page header from the Code Examples page or copy the code from an existing page.
+- Copy and paste image code from the Loading Images page or copy code from an existing page. You want to get one image to appear, just to make sure you have working code for it.
+- Write a 1-2 paragraph abstract of what you'd intend to do in your essay. This is a starting point, not a final commitment, but be thorough.
+- You can test your page by going to https://USERNAME.github.io/intro-guide/essays/FOLDER/FILENAME, where FOLDER is the folder in which you created a new file, and FILENAME is the name of your file.
+- Get your page looking like you want within YOUR repository. Make sure there are no page build errors (you will get an email about them).
+- You're done! We'll talk about integrating your new page with everyone else's later.
 
 
 ### 23: Postmodernism II
