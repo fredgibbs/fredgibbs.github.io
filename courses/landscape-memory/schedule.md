@@ -31,8 +31,9 @@ header: landscape
 #### Noteworthy
 - Skim through a few very short essays at the [50th Anniversary of the Trail System Blog](http://pnts.org/new/resources/blog/) to get a sense of modern "administration" and interpreting the modern trail.
 -  ["Guidance for Recording and Evaluating Linear Cultural Resources"](http://www.oregon.gov/oprd/HCD/SHPO/docs/ORLinearResourcesGuidancev2.pdf)Oregon State Historic Preservation Office, (Oregon Parks and Recreation Department, 2013).
-- ["National Trails System Act"](https://www.nps.gov/parkhistory/online_books/anps/anps_6g.htm) (1968).
-- ["National Parks and Recreation Act"](https://www.nps.gov/mawa/upload/public-law-95-625.pdf) (1978), especially section 551  ("Amendments to National Trails System Act").
+- [Santa Fe Trail Exhibits](https://www.nps.gov/safe/learn/historyculture/exhibits.htm)
+- [National Trails System Act](https://www.nps.gov/parkhistory/online_books/anps/anps_6g.htm) (1968).
+- [National Parks and Recreation Act](https://www.nps.gov/mawa/upload/public-law-95-625.pdf) (1978), especially section 551  ("Amendments to National Trails System Act").
 
 
 
