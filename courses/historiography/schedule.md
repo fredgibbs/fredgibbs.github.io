@@ -245,9 +245,12 @@ Everyone is a summarizer for today:
 ## Week 12
 ### 4: Essay Drafts I
 {% include alert.html class='danger' title='Essay Drafts Due' text="
-For today, post a COMPLETE draft for your essay. With no reading assignment, this is obviously your focus, so DO IT WELL and save everyone (including your future self) headaches later.
+For today, post a COMPLETE draft for your essay, which should be around at least 2000 words (with the final being 2500). With no reading assignment, this is obviously your focus, so DO IT WELL and save everyone (including your future self) headaches later.
 
-'Draft' does not mean some half-baked sketch hastily thrown together so you have something to post. It means a COMPLETE FIRST VERSION that we can all respond to in a meaningful way.
+'Draft' does not mean some half-baked sketch hastily thrown together so you have something to post. It means a COMPLETE FIRST VERSION that we can all respond to in a meaningful way. If your post is too hastily thrown together, you will need to revise and resubmit it immediately to get credit.
+
+#### I make no distinction between your ideas and your expression of them.
+
 "%}
 
 {% include alert.html class='danger' title='Bring Paper Copies' text="
