@@ -4,7 +4,10 @@ section: schedule
 title: Food, Technology, and Society
 term: Fall 2019
 number: HIST 412
+header: food-technology-society
+section: schedule
 ---
+
 
 # IN PROGRESS!
 This syllabus is a living document and changes frequently, depending on what's going on in the course. If you print it out, you'll need to keep your paper version up to date with the online version. I will always announce important changes in class.

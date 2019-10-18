@@ -3,14 +3,15 @@ layout: syllabus
 title: Food, Technology, and Society
 term: Fall 2019
 number: HIST 412
+header: food-technology-society
 section: home
 ---
 
 ## Logistics
 - 3 Credit Hours
-- TH 12:30 - 1:45 @ 136 DSH
+- T,Th 9:30 - 10:45
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
-- Office Hours: T 2-3; Th 10-11
+- Office Hours: T,Th 11-1
 
 ## Course Description
 This course explores the relationship between food, food production, technology, and society. In some ways, our goals is to explain why supermarkets have come to look like they do. Taking chronological and thematic approaches simultaneously, we'll look at the impact of science and technology on food production, processing, and distribution (such as canning, refrigeration, GMOs, techno-foods). We’ll also put these developments in larger social, cultural, and demographic contexts, including the growing divide between food producers and consumers, urbanization, the rise of food corporations and global conglomerates, governmental regulation, organics, and sustainability. Even more broadly, we identify connections between agriculture, ecology, consumerism, capitalism, media, politics, and the history of science and medicine.
