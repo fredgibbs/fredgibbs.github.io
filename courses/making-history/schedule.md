@@ -6,7 +6,7 @@ term: Fall 2020
 header: making-history
 section: schedule
 ---
-You should plan to do each reading BEFORE class. Lectures will make much more sense. In any case, you are responsible for incorporating all relevant material in your submitted work.
+You should plan to do each reading BEFORE class, as they provide an excellent overview of the lecture material. Lectures will make much more sense if you've spent some time with the readings ahead of time. In any case, you are responsible for incorporating all relevant material in your submitted work.
 
 ## Week 1
 ### 19: Syllabus, Expectations, Tools

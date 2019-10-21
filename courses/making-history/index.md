@@ -6,9 +6,14 @@ term: Fall 2020
 header: making-history
 section: home
 ---
-Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
-Mesa Vista Hall, 1077    
-Office Hours: TDB and by appointment
+
+## Logistics
+- 3 Credit Hours
+- Humanities Gen Ed Credit
+- T,Th 9:30 - 10:45
+- Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
+- Office Hours: T,Th 11-1
+
 
 ## Course Description
 This course is designed to introduce students to the discipline of history. It will help students understand historical thinking which include chronological thinking, historical comprehension, historical analysis and interpretation, historical research capabilities, and historical issues analysis and decision-making.

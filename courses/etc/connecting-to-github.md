@@ -13,7 +13,7 @@ A quick warning: GitHub is used primarily by programmers working on collaborativ
 [Create a free account](https://github.com/join). It takes 30 seconds, and you need only a username and password and email address; you will never get any kind of spam.
 
 ## Step 2: Add your GitHub username to our class list
-The easiest way to join our GitHub team is to give me your GitHub username so I can invite you. Add your name to our shared doc: https://docs.google.com/document/d/1Db2kwK0AXIRQWyE7wO_0JU_NFXTGOgZCGIfBGl1qmMM/edit. At the end of Wednesday you'll get an email from GitHub inviting you to join our team. Make sure your name is on the list by then!
+The easiest way to join our GitHub team is to give me your GitHub username so I can invite you---just email it to me (fwgibbs@unm.edu). Soon you'll get an email from GitHub inviting you to join our team.
 
 ## Step 3: Look for an email from GitHub
 As soon as I get your email, I will invite you to join our repository. You will receive an email from GitHub that you've been invited to join our repository.
