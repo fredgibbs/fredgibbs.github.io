@@ -8,20 +8,20 @@ section: schedule
 ---
 
 
-# 1: Introductions
+## 1: Introductions
 - M: Introduction to the course, syllabus, and expectations  
 - W: Medicine in the Greek World: WMT, 11-31; 35-38. Hippocrates: _Epidemics_, _Prognosis_, _Airs, Waters, Places_, _Aphorisms_
 
 
-# 2: Classical Medicine I
+## 2: Classical Medicine I
 - M: Intro to Galen: WMT, 58-70.  
 - W: Galen: _Galen: On Food and Diet_ (skim 1-5; 6-13); _On the Humours_ (14-18); _On the Causes of Disease_, 46-61; _On the Powers of Foods_, 68-89 (skim for flavor). All these are contained in the PDF under _Galen: On Food and Diet_.   
 
-# 3: Early Medieval Medicine
+## 3: Early Medieval Medicine
 - M: Peregrine Horden, “What’s Wrong with Early Medieval Medicine?,” Social History of Medicine (2009).  
 - W: Faith Wallis, “Signs and Senses: Diagnosis and Prognosis in Early Medieval Pulse and Urine Texts,” _Social History of Medicine_ 13, no. 2 (2000): 265–78; Excerpts of common medical advice, 34-42; 49-54.  
 
-# 4: Arabic Medicine
+## 4: Arabic Medicine
 - M: WMT, 93-110.  
 - W: WMT, 110-138.  
 
