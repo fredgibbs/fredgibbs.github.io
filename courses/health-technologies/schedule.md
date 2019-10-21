@@ -1,6 +1,6 @@
 ---
 layout: syllabus
-title: Historical Questions and Debates: History of Health Technologies
+title: "Historical Questions and Debates: History of Health Technologies"
 term: Fall 2020
 number: HIST 1100
 header: health-technologies

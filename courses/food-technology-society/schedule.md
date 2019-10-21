@@ -1,6 +1,5 @@
 ---
 layout: syllabus
-section: schedule
 title: Food, Technology, and Society
 term: Fall 2019
 number: HIST 412

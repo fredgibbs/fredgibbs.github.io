@@ -1,6 +1,6 @@
 ---
 layout: syllabus
-title: Historical Questions and Debates: History of Health Technologies
+title: "Historical Questions and Debates: History of Health Technologies"
 term: Fall 2020
 number: HIST 1100
 header: health-technologies
@@ -22,7 +22,7 @@ The particular topic for section of the course is the **History of Health Techno
 
 ## Student Learning Outcomes
 Through readings, lectures, discussions, examinations, as well as writing assignments, students, upon completion of this course, will be able to:
-1. Students will be able to EXPLAIN in their work how diverse peoples, as individuals, and in complex groups, shaped their own historical moments and were shaped by those moments. 
+1. Students will be able to EXPLAIN in their work how diverse peoples, as individuals, and in complex groups, shaped their own historical moments and were shaped by those moments.
 
 2. Students will DISTINGUISH between primary and secondary sources, IDENTIFY and EVALUATE different kinds of evidence about what motivates people to act as they do.
 
