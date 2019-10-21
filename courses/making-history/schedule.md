@@ -13,14 +13,14 @@ You should plan to do each reading BEFORE class. Lectures will make much more se
 - Introductions
 
 ### 21: What is Historiography?
-- _From Herodotus to H-Net_, "What is Historiography?", 1-24.  
+- _From Herodotus to H-Net_, 1-24.  
 * William H. McNeill, “Mythistory, or Truth, Myth, History, and Historians”, 1–10.
 
 
 ## Week 2
 
 ### 26: Philosophy of History
-- _Philsophy of History_, 1-13.
+- _Philosophy of History_, 1-13.
 - _Faces of History_, 1-18; 19-35; skim to 42; 42-47.
 
 ### 28: Pre-classical History + Greco-Roman History
@@ -45,7 +45,7 @@ You should plan to do each reading BEFORE class. Lectures will make much more se
 - _From Herodotus to H-Net_, "The historiographical revolution of the early modern era", 47-67.
 
 
-### 11:
+### 11: History for Politics
 - Niccolò Machiavelli, _The Prince_, 5-19. (These are really small pages.) Everyone should come to class prepared to discuss: What examples from _The Prince_ illustrate what's in the chapter? How does it draw from previous historiographic traditions?
 
 
@@ -61,10 +61,10 @@ You should plan to do each reading BEFORE class. Lectures will make much more se
 
 ## Week 6
 
-### 23: Hegel
+### 23: Hegel + Dialectical History
 - _Philosophy of History_, 201-237.
 
-### 25: Marx
+### 25: Marx + Materialist History
 - _Philosophy of History_, 238-277.
 
 
@@ -89,7 +89,7 @@ You should plan to do each reading BEFORE class. Lectures will make much more se
 
 
 
-## Week 9: What are we doing?
+## Week 9
 
 ### 14: History for its own sake
 - _What is History For?_, "History for its own sake", 10-30.
@@ -100,7 +100,7 @@ You should plan to do each reading BEFORE class. Lectures will make much more se
 
 
 
-## Week 10: All hell breaks loose
+## Week 10
 
 ### 21: Hidden Agenda
 - _What is History For?_, 59--84.
@@ -124,9 +124,8 @@ You should plan to do each reading BEFORE class. Lectures will make much more se
 ### 4: Discursive History
 * Foucault, _Archeology of Knowledge_, 3-17; 21-30; 31-39.
 
-### 6: Narrative history
-- Alex Rosenberg, [Why most narrative history is wrong](https://www.salon.com/2018/10/07/why-most-narrative-history-is-wrong/)
-
+### 6: Discursive History
+* Gertrude Himmelfarb, "Telling it as you like it: postmoderist history and the flight from fact," 158-74.
 
 
 ## Week 13
@@ -137,7 +136,6 @@ You should plan to do each reading BEFORE class. Lectures will make much more se
 * Joan Scott, "Gender: A Useful Category of Historical Analysis", 1053-1075.
 
 
-
 ### 13: Postcolonial Histories
 - _Houses_, "Postcolonial Perspectives", 263-76.
 - Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?", 1-27.
@@ -146,23 +144,21 @@ You should plan to do each reading BEFORE class. Lectures will make much more se
 
 
 ## Week 14
-### 18: Reader Reports
+### 18: Narrative I
+- Alex Rosenberg, [Why most narrative history is wrong](https://www.salon.com/2018/10/07/why-most-narrative-history-is-wrong/)
+
+### 20: Narrative II
+* _Houses_, "The Question of Narrative," 204-213; Group 1: Hayden White, "The Value of Narrativity in the Representation of Reality," 5-27; Group 2: Hayden White, "The Fictions of Factual Representation," [= _Houses_, 214-229].
 
 
-### 20: Scales of history
-* Kieran Healy, "Fuck nuance", 1-13.
 
 
-
-
-## Week 15:  Postmodern discursive history
-### 25: Professed Purposes
+## Week 15
+### 25: Towards a 21st-century History
 * _From Herodotus to H-Net_, "History in a new millennium", 166-85.
 
-
-
-
-### 27: Hidden Agendas
+### 27: Digital Humanities
+- Burdick, et al., _Digital\_Humanities_, 1-61.  
 
 
 

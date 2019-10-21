@@ -22,16 +22,15 @@ The particular topic for section of the course is the **History of Health Techno
 
 ## Student Learning Outcomes
 Through readings, lectures, discussions, examinations, as well as writing assignments, students, upon completion of this course, will be able to:
-1. Students will be able to EXPLAIN in their work how diverse peoples, as individuals, and in complex groups, shaped their own historical moments and were shaped by those moments, and how those people and societies changed over time.
+1. Students will be able to EXPLAIN in their work how diverse peoples, as individuals, and in complex groups, shaped their own historical moments and were shaped by those moments. 
 
 2. Students will DISTINGUISH between primary and secondary sources, IDENTIFY and EVALUATE different kinds of evidence about what motivates people to act as they do.
 
-3. Students will DESIGN ways of researching different communities, social groups, and social systems, and EXPLAIN how diverse identities are created, maintained, and adapted by different groups over time.
+3. Students will DESIGN research projects to understand different communities, social groups, and social systems, and EXPLAIN how diverse identities are created, maintained, and adapted by different groups over time.
 
 4. Students will IDENTIFY how information about humans and societies is researched from a variety of sources, EXPLAIN how different methods results in different kinds of arguments, and EVALUATE credibility, perspective, and relevance.
 
-5. Students will EXPLAIN how historical narratives are constructed, how they mediate between the past and present, and how rhetoric and storytelling play integral roles in constructing historical knowledge.
-
+5. Students will EXPLAIN how historical narratives are constructed, how historians mediate between the past and present, and how source analysis, rhetoric, and storytelling play integral roles in constructing historical knowledge.
 
 
 ## Work Requirements and Grading

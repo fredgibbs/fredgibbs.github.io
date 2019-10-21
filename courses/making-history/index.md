@@ -18,13 +18,16 @@ The core philosophy underlying the course is that the study of history is essent
 
 ## Student Learning Outcomes (SLOs)
 Through readings, lectures, discussions, examinations, as well as writing assignments, students, upon completion of this course, will be able to:
-1. understand and articulate the differences and similarities between history and memory
-2. analyze and critically interpret primary sources and understand how others might interpret and use the same material in different ways
-3. recognize and appreciate the diversity of historical experiences and the uses of historical memory in various societies
-4. understand how historical experiences that include political, geographical, social, cultural, religious and intellectual experiences have been expressed across historical periods
-5. understand how historical experiences and memories have shaped contemporary societies
-6. identify and understand the degree to which history has been used and misused in the past
-7. demonstrate improvement in their ability to read critically, think logically, and express themselves clearly in writing.
+1. Students will be able to EXPLAIN in their work how humans in the past shaped their own unique historical moments, constructed historical memories, and were shaped by those moments and memories over time.
+
+2. Students will DISTINGUISH between primary and secondary sources, IDENTIFY and EVALUATE evidence and UNDERSTAND people in their historical context.
+
+3. Students will SUMMARIZE and APPRAISE the diversity of historical experiences, interpretations, evidence in order to RECONSTRUCT past events and EVALUATE how history and historical memory can be used and misused for various purposes.
+
+4. Students will IDENTIFY historical arguments in a variety of sources and EXPLAIN how they were constructed, EVALUATING credibility, perspective, and relevance.
+
+5. Students will CREATE well-supported historical arguments and narratives that demonstrate their ability to read critically, think logically, and express themselves clearly in writing appropriate for their audience.
+
 
 ## Work Requirements and Grading
 - Serious effort and on-time completion of five short reading response assignments (usually ~300 words). (5 points each; 25 points total)
