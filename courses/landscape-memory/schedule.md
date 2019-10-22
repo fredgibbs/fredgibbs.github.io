@@ -45,10 +45,6 @@ header: landscape
 
 - Paul A. Shackel, “Public Memory and the Search for Power in American Historical Archaeology,” _American Anthropologist_ 103.3 (2001): 655–70.
 
-- Introduction to [Markdown](https://www.markdowntutorial.com/)
-- Read how to [connect to GitHub](/courses/etc/connecting-to-github)
-- Read how to [post to GitHub](/courses/etc/posting-to-github)
-- Divide into summarizer and commenter groups for next time.
 
 
 ### Wednesday, 10/23: Remembering Trails
@@ -58,14 +54,18 @@ header: landscape
 
 - Robin W. Winks, "A Public Historiography," *The Public Historian* 14.3 (1992): 93--105. [JSTOR](https://www.jstor.org/stable/3378234?seq=1#page_scan_tab_contents).
 
-- Solve GitHub and Markdown problems
+#### In class we'll use:
+- [Official NPS site](https://www.nps.gov/safe/index.htm) and the [Santa Fe Trail Exhibits](https://www.nps.gov/safe/learn/historyculture/exhibits.htm)
+
+- Introduction to the [National Historic Registry](https://www.nps.gov/subjects/nationalregister/index.htm) and tips for finding historic registration forms for your research.
+
 
 
 ## Week 11/3
 
 ### Monday, 10/28: NO CLASS but...
 - [A History of the Santa Fe Trail](https://www.santafetrail.org/the-trail/history/history-of-the-sft/)
-- Selections from the NPS [Santa Fe History](https://dnr.mo.gov/shpo/nps-nr/64500309.pdf). This is a kind of historic registry nomination form intended to be for all historic sites near the Santa Fe Trail rather than a single specific site, as is more common. It begins with a long and thorough history (with just under 800 footnotes), and also has a long bibliography that we'll want to keep an eye on. We're reading from section E (Statement of Historic Contexts), which starts on page 3 of the PDF, but is labeled as E1 on the document (yay bureaucracy!). All pages are as listed in the document, not what your PDF reader says.
+- Selections from the NPS [Santa Fe History](https://dnr.mo.gov/shpo/nps-nr/64500309.pdf). This is a kind of historic registry nomination form intended to be for all historic sites near the Santa Fe Trail rather than a single specific site, as is more common. It begins with a long and thorough history (with just under 800 footnotes), and also has a long bibliography that we'll want to keep in mind. We're reading from section E (Statement of Historic Contexts), which starts on page 3 of the PDF, but is labeled as E1 on the document (yay bureaucracy!). All pages below are as listed in the document, not what your PDF reader says.
   - Make sure you at least skim everything and read carefully what interests you. Some paragraphs have lots of detail to support a larger point; obviously we're not concerned with minute detail, but it helps indicate what we know and what we don't about the Trail. Read extra quickly over those bits.
   - Introduction (1-6)
   - Part I (13-38)
@@ -74,6 +74,10 @@ header: landscape
   - Part IV (57-middle 59)
   - Part V (62-top 67)
 
+
+### Wednesday, 10/30: NO CLASS but... <-- THIS IS NEW!
+No meeting today so you have more research time.
+
 In light of the "official" Santa Fe trail historic registry report, how does that kind of work get reflected (or not) in most easy to find digital resources? What do you think of the information / histories presented in these contexts? Strengths? Weaknesses?
 
 - [Santa Fe Trail on Wikipedia](https://en.wikipedia.org/wiki/Santa_Fe_Trail)
@@ -81,53 +85,57 @@ In light of the "official" Santa Fe trail historic registry report, how does tha
 - [Santa Fe Trail Association](https://www.santafetrail.org/index.html) and their [Interactive Trail Map](https://www.santafetrail.org/interactive-trail-map/).
 - [Santa Fe Walking Tour](https://www.santafetrail.org/chapters/endoftrail/pdf/M-Pitel_SantaFesSFTWalkingTourFinal.pdf)
 
-
-### Wednesday, 10/30: Humanistic Space
-{% include alert.html class='warning' title='SITE SELECTIONS TODAY' text="
-- Historically Significant Site selections. Be prepared to pick a site that has not been researched already from the [National Register Research Page](https://www.nps.gov/safe/learn/historyculture/national-register-research.htm), or the [Certified Sites Page](https://www.nps.gov/safe/getinvolved/certified-sites.htm).
+{% include alert.html class='warning' title='SITE SELECTIONS ON MONDAY' text="
+- Historically Significant Site selections. Be prepared to pick a site that has not been researched already from the [National Register Research Page](https://www.nps.gov/safe/learn/historyculture/national-register-research.htm), or the [Certified Sites Page](https://www.nps.gov/safe/getinvolved/certified-sites.htm). ADD (do not delete anything) your site to our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0).
 "%}
-
-- David Lowenthal, "Age and Artifact: Dilemmas of Appreciation", 103--128.
-- Yi-Fu Tuan, "Space and Place: Humanistic Perspective," in *Philosophy in Geography*, 387--427.
-- [Protecting Cultural Landscapes](https://www.nps.gov/TPS/how-to-preserve/briefs/36-cultural-landscapes.htm)
-- Introduction to the [National Historic Registry](https://www.nps.gov/subjects/nationalregister/index.htm)
-
-
-
 
 
 
 ## Week 12/4
 
-### Monday, 11/04: Urban Landscapes
-- Dolores Hayden, _The Power of Place_, 44--78.
-- Shannon Mattern, "[Interfacing Urban Intelligence](https://placesjournal.org/article/interfacing-urban-intelligence/),"  _Places Journal_ (April 2014).
-
-
-{% include alert.html class='danger' title='REVISIONS DUE TODAY' text="
-- Complete essay revisions at the [Trails Repository](https://github.com/historic-trails/website). Be sure to review the [Essay Revision guidelines](http://trails.unm.edu/revision-guide).
+### Monday, 11/04: Humanistic Space
+{% include alert.html class='warning' title='SITE SELECTIONS TODAY' text="
+- Historically Significant Site selections. Be prepared to pick a site that does not appear on the [trails site](http://trails.unm.edu) from the [National Register Research Page](https://www.nps.gov/safe/learn/historyculture/national-register-research.htm), or the [Certified Sites Page](https://www.nps.gov/safe/getinvolved/certified-sites.htm).
 "%}
 
+- David Lowenthal, "Age and Artifact: Dilemmas of Appreciation", 103--128.
+- Yi-Fu Tuan, "Space and Place: Humanistic Perspective," in *Philosophy in Geography*, 387--427.
+- [Protecting Cultural Landscapes](https://www.nps.gov/TPS/how-to-preserve/briefs/36-cultural-landscapes.htm)
+
+- Introduction to [Markdown](https://www.markdowntutorial.com/)
+- Read how to [connect to GitHub](/courses/etc/connecting-to-github)
+- Read how to [post to GitHub](/courses/etc/posting-to-github)
 
 
 ### Wednesday, 11/06: Meanings of Nature
 - Keith H. Basso, _Wisdom Sits in Places_, 37--70.
 - Robert Moor, *On Trails: An Exploration* (London: Quarto, 2017), 161--202. [PDF](readings/on-trails.pdf)
 
+#### In class
+- Solve GitHub problems
+- Discussion of Essay Revision assignment
+
 
 
 ## Week 13/5
 
-###  Monday 11/11: Deconstructing Maps
-- J. B. Harley, "Deconstructing the Map," *Cartographica* 26.2 (1989): 1--20. Note that Harley can veer into the philosophical weeds at times, but it's never for very long, so don't give up. On the whole, he makes a lot of very important points about reading and understanding maps that are stated very clearly.
-- Adam Loften & Emmanuel Vaughan-Lee, [Counter Mapping](https://emergencemagazine.org/story/counter-mapping/)
+###  Monday 11/11: Urban Landscapes
+{% include alert.html class='danger' title='REVISIONS DUE TODAY' text="
+- Complete essay revisions at the [Trails Repository](https://github.com/historic-trails/website). Be sure to review the [Essay Revision guidelines](http://trails.unm.edu/revision-guide).
+"%}
+
+- Dolores Hayden, _The Power of Place_, 44--78.
+- Shannon Mattern, "[Interfacing Urban Intelligence](https://placesjournal.org/article/interfacing-urban-intelligence/)," _Places Journal_ (April 2014).
+- Adam Loften & Emmanuel Vaughan-Lee, [Counter Mapping](https://emergencemagazine.org/story/counter-mapping/).
 
 
-### Wednesday, 11/13:
-{% include alert.html class='danger' title='TRIAL ESSAY DUE TODAY' text="
+### Wednesday, 11/13: Essay Drafts!
+{% include alert.html class='danger' title='FIRST ESSAY DRAFT DUE TODAY' text="
 - [Loading Images](http://trails.unm.edu/loading-images)
 - [Code Samples](http://trails.unm.edu/code)
 "%}
+
+There's always a lot to talk about during class, from solving technical challenges to standardization issues, to stylistic questions, etc. PLEASE BRING QUESTIONS ABOUT YOUR ESSAYS! Nothing to prepare for today except your drafts.
 
 
 
@@ -153,7 +161,7 @@ How would you characterize the tone of these books? What are the assumptions and
 ## Week 15/7:
 
 ### Monday, 11/25:
-- All directory info in our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0)
+- Complete info for the directory page in our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0)
 - All historic site essays should be ENTIRELY COMPLETE, including clear section headings, clear and focused paragraphs, clear narrative thread, images (with captions), hyperlinks, and related people, places, and articles.
 - Clean Zotero Collections
 - Bring 2 printed versions to class for peer review
