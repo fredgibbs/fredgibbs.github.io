@@ -85,8 +85,16 @@ In light of the "official" Santa Fe trail historic registry report, how does tha
 - [Santa Fe Trail Association](https://www.santafetrail.org/index.html) and their [Interactive Trail Map](https://www.santafetrail.org/interactive-trail-map/).
 - [Santa Fe Walking Tour](https://www.santafetrail.org/chapters/endoftrail/pdf/M-Pitel_SantaFesSFTWalkingTourFinal.pdf)
 
-{% include alert.html class='warning' title='SITE SELECTIONS ON MONDAY' text="
-- Historically Significant Site selections. Be prepared to pick a site that has not been researched already from the [National Register Research Page](https://www.nps.gov/safe/learn/historyculture/national-register-research.htm), or the [Certified Sites Page](https://www.nps.gov/safe/getinvolved/certified-sites.htm). ADD (do not delete anything) your site to our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0).
+{% include alert.html class='warning' title='SITE SYNOPSIS DUE MONDAY' text="
+- Pick a historic site that does not appear on the [trails site](http://trails.unm.edu) from the [National Register Research Page](https://www.nps.gov/safe/learn/historyculture/national-register-research.htm), or the [Certified Sites Page](https://www.nps.gov/safe/getinvolved/certified-sites.htm). ADD (do not delete anything) your site to our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0).
+- For Monday, there are THREE components of your final essay you need to have completed (as drafts).
+  - Write a 600-800 word outline/synopsis of your historic site. Summarize its original significance, its legacy, the landscape/space, relevant people associated with it, and how different people might have viewed it differently. Don't worry about producing great prose. You're just trying to give some shape to your ideas. Bullet points are fine, but make them complete ideas.
+  - Compile a bibliography of 5-10 sources you will use as the basis of your essay. These need to be published academic sources. You will add to this list, and maybe subtract from it, so don't worry about getting it perfect.
+  - Compile a list of relevant websites that have information about your site. It is very important that we know about these, and use them as appropriate, but we will not be citing these in our essays.
+- You are not just regurgitating facts about it, but telling a compelling story.
+- Use the readings done previously on landscape and memory to address broader issues that will help change the way your readers think.
+- These synopses will be integral to your final essays, so time spend on them now will save you much time later, when you will have much less of it.
+- Make sure your essays are double spaced with 1" margins.
 "%}
 
 
@@ -94,8 +102,8 @@ In light of the "official" Santa Fe trail historic registry report, how does tha
 ## Week 12/4
 
 ### Monday, 11/04: Humanistic Space
-{% include alert.html class='warning' title='SITE SELECTIONS TODAY' text="
-- Historically Significant Site selections. Be prepared to pick a site that does not appear on the [trails site](http://trails.unm.edu) from the [National Register Research Page](https://www.nps.gov/safe/learn/historyculture/national-register-research.htm), or the [Certified Sites Page](https://www.nps.gov/safe/getinvolved/certified-sites.htm).
+{% include alert.html class='warning' title='BRING SITE SYNOPSIS TO CLASS' text="
+Bring your 2-page synopsis (see instructions above) to class today on actual paper. We'll be exchanging these for feedback.
 "%}
 
 - David Lowenthal, "Age and Artifact: Dilemmas of Appreciation", 103--128.
@@ -113,7 +121,7 @@ In light of the "official" Santa Fe trail historic registry report, how does tha
 
 #### In class
 - Solve GitHub problems
-- Discussion of Essay Revision assignment
+- Discussion of Essay Revision assignment DUE MONDAY.
 
 
 
