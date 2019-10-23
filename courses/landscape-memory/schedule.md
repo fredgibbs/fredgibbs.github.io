@@ -94,7 +94,7 @@ In light of the "official" Santa Fe trail historic registry report, how does tha
 - You are not just regurgitating facts about it, but telling a compelling story.
 - Use the readings done previously on landscape and memory to address broader issues that will help change the way your readers think.
 - These synopses will be integral to your final essays, so time spend on them now will save you much time later, when you will have much less of it.
-- Make sure your essays are double spaced with 1" margins.
+- Make sure your essays are double spaced with 1\" margins.
 "%}
 
 
