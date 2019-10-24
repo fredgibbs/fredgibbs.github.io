@@ -95,18 +95,17 @@ In light of the "official" Santa Fe trail historic registry report, how does tha
 - Google Scholar is an excellent way to find more academic sources for your bibliographies, especially if you end up with a lot of commercial results to sort through.
 - There is no one approach or technique for finding all the digital stuff we can about our historic sites, so be creative! Our main contribution to understanding the Santa Fe trail is bringing together really fascinating historical resources and accounts that are spread out among lots of different kinds of sites.
 
-### Some more important research tools for your vignette projects:
-- [WorldCat](https://unm.worldcat.org/): the best place to search for scholarly sources about your topic or related topics (like commerce on the Santa Fe Trail).
+### Important places to search for your historic sites
+- [WorldCat](https://unm.worldcat.org/): the best place to search for scholarly sources about your topic or related topics (like commerce on the Santa Fe Trail)
 - [Google Books](https://books.google.com/): perfect for older sources that are now in the public domain
 - [Hathitrust](http://www.hahthitrust.org): lots of older books and government reports, complete with a useful full-text search tool
 - [Archive.org](http://www.archive.org): specializes in multimedia, but some scans may be better quality than others
-- [Chronciling America](https://chroniclingamerica.loc.gov/): one the best sources for old digitized newspapers, easily searchable. You can quickly find stuff [like this](https://chroniclingamerica.loc.gov/lccn/sn83040198/1912-05-10/ed-1/seq-3/#date1=1789&index=0&rows=20&words=Pawnee+Rock&searchType=basic&sequence=0&state=&date2=1963&proxtext=pawnee+rock&y=0&x=0&dateFilterType=yearRange&page=1) (to use a site we explored last class).
+- [Chronciling America](https://chroniclingamerica.loc.gov/): one the best sources for old digitized newspapers, easily searchable. You can quickly find stuff [like this](https://chroniclingamerica.loc.gov/lccn/sn83040198/1912-05-10/ed-1/seq-3/#date1=1789&index=0&rows=20&words=Pawnee+Rock&searchType=basic&sequence=0&state=&date2=1963&proxtext=pawnee+rock&y=0&x=0&dateFilterType=yearRange&page=1) (to use a site we explored last class)
 - [Rocky Mountain Online Archive](https://rmoa.unm.edu/): digitized photos, maps, and documents from libraries around the Southwest
-- [Kansas Historical Society](https://www.kshs.org/p/research/19385) and the [Kansas Memory Digital Collection](https://www.kansasmemory.org/).
-- [Missouri State Historical Society Digital Collections](https://digital.shsmo.org/).
+- [Kansas Historical Society](https://www.kshs.org/p/research/19385) and the [Kansas Memory Digital Collection](https://www.kansasmemory.org/)
+- [Missouri State Historical Society Digital Collections](https://digital.shsmo.org/)
 - [New Mexico Digital Collections](https://econtent.unm.edu/): New Mexico-specific online archive with legal documents, diagrams, and historic newspapers
-
-%}
+"%}
 
 {% include alert.html class='danger' title='SITE SYNOPSIS DUE MONDAY' text="
 
