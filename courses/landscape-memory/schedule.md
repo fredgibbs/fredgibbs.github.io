@@ -85,23 +85,41 @@ In light of the "official" Santa Fe trail historic registry report, how does tha
 - [Santa Fe Trail Association](https://www.santafetrail.org/index.html) and their [Interactive Trail Map](https://www.santafetrail.org/interactive-trail-map/).
 - [Santa Fe Walking Tour](https://www.santafetrail.org/chapters/endoftrail/pdf/M-Pitel_SantaFesSFTWalkingTourFinal.pdf)
 
-{% include alert.html class='warning' title='SITE SYNOPSIS DUE MONDAY' text="
+{% include alert.html class='warning' title='Begin Your Historic Site Essay Research' text="
 - Pick a historic site that does not appear on the [trails site](http://trails.unm.edu) from the [National Register Research Page](https://www.nps.gov/safe/learn/historyculture/national-register-research.htm), or the [Certified Sites Page](https://www.nps.gov/safe/getinvolved/certified-sites.htm). ADD (do not delete anything) your site to our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0).
-- To begin your research, start by Googling for your historic site. This sounds like a silly way to begin serious academic research, but it will become clear why it's actually the most useful approach. It also helps you get a lot information about it (although the reliability will very) in a short time.
-- Usually, Wikipedia pages are an excellent place to begin because they provide references to the Historic Registration Forms and other useful bibliographic references. When you start you are really hunting for leads (people, places, events, etc) that you add to your search queries. 
+- To begin your research, start by Googling for your historic site. This sounds like a silly way to begin serious academic research, but it will become clear why it's actually the most useful approach for us and our sources. It also helps you get a lot information about your site (although the reliability will vary) in a short time.
+- Usually, Wikipedia pages are an excellent place to begin because they provide references to the Historic Registration Forms and other useful bibliographic references. When you start you are really hunting for leads (people, places, events, etc) that you add to your search queries.
+- You can almost always find your site on a Wikipedia list of Historic Places on the National Register, by searching for state and county. For example, each state has a page [like this one for Kansas](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Kansas). Find the page for the state or county your site is in.
 - Make sure you look through resources available through State Historical Society websites (which one you'll use depends on what state your site is in). Keep an eye out for digital collections that are a great source of photographs, diaries, etc.
 - Search Google Books for your historic site (usually with 'santa fe trail' as part of the search) to find not only existing scholarship, but also printed diaries an other first person trail accounts.
 - Google Scholar is an excellent way to find more academic sources for your bibliographies, especially if you end up with a lot of commercial results to sort through.
 - There is no one approach or technique for finding all the digital stuff we can about our historic sites, so be creative! Our main contribution to understanding the Santa Fe trail is bringing together really fascinating historical resources and accounts that are spread out among lots of different kinds of sites.
 
+### Some more important research tools for your vignette projects:
+- [WorldCat](https://unm.worldcat.org/): the best place to search for scholarly sources about your topic or related topics (like commerce on the Santa Fe Trail).
+- [Google Books](https://books.google.com/): perfect for older sources that are now in the public domain
+- [Hathitrust](http://www.hahthitrust.org): lots of older books and government reports, complete with a useful full-text search tool
+- [Archive.org](http://www.archive.org): specializes in multimedia, but some scans may be better quality than others
+- [Chronciling America](https://chroniclingamerica.loc.gov/): one the best sources for old digitized newspapers, easily searchable. You can quickly find stuff [like this](https://chroniclingamerica.loc.gov/lccn/sn83040198/1912-05-10/ed-1/seq-3/#date1=1789&index=0&rows=20&words=Pawnee+Rock&searchType=basic&sequence=0&state=&date2=1963&proxtext=pawnee+rock&y=0&x=0&dateFilterType=yearRange&page=1) (to use a site we explored last class).
+- [Rocky Mountain Online Archive](https://rmoa.unm.edu/): digitized photos, maps, and documents from libraries around the Southwest
+- [Kansas Historical Society](https://www.kshs.org/p/research/19385) and the [Kansas Memory Digital Collection](https://www.kansasmemory.org/).
+- [Missouri State Historical Society Digital Collections](https://digital.shsmo.org/).
+- [New Mexico Digital Collections](https://econtent.unm.edu/): New Mexico-specific online archive with legal documents, diagrams, and historic newspapers
+
+%}
+
+{% include alert.html class='danger' title='SITE SYNOPSIS DUE MONDAY' text="
+
 - For Monday, there are THREE components of your final essay you need to have completed (as drafts).
-  - Write a 500-600 word outline/synopsis of your historic site. Summarize its original significance, its legacy, the landscape/space, relevant people associated with it, and how different people might have viewed it differently. Don't worry about producing great prose. You're just trying to give some shape to your ideas. Bullet points are fine, but make them complete ideas.
-  - Compile a bibliography of 5-10 sources you will use as the basis of your essay. These need to be published academic sources. You will add to this list, and maybe subtract from it, so don't worry about getting it perfect.
-  - Compile a list of relevant websites that have information about your site. It is very important that we know about these, and use them as appropriate, but we will not be citing these in our essays.
-- You are not just regurgitating facts about it, but telling a compelling story.
-- Use the readings done previously on landscape and memory to address broader issues that will help change the way your readers think.
+  - Write a 500-600 word outline/synopsis of your historic site. Summarize its original significance, its legacy, the landscape/space, relevant people associated with it, and how different people might have viewed it differently.
+  - Don't worry about producing great prose. You're just trying to give some shape to your ideas. Bullet points are fine, but make them complete ideas. How you describe the significance will vary by the kind of site. Buildings have people associated with them; wagon ruts or river crossings are more closely tied to geography (and what they connect).
+  - Your synopsis should begin to describe the SPATIAL CONTEXT of the site during the Santa Fe Trail years, but also how it functions today (why are we preserving it? what are we really preserving?).
+  - You are not just regurgitating facts about it, but telling a compelling story.
+  - Use the readings done previously on landscape and memory to address broader issues that will help change the way your readers think.
+  - Compile a bibliography of 5-10 sources you will use as the basis of your essay. **These need to be published academic sources.** You will add to this list, and maybe subtract from it, so don't worry about getting it perfect.
+  - Compile a list of relevant websites (however many you find useful) that have information about your site. It is very important that we know about these, and use them as appropriate (we will link to the best ones in our essays), but we will not be citing these in our bibliographies.
 - These synopses will be integral to your final essays, so time spend on them now will save you much time later, when you will have much less of it.
-- Make sure your essays are double spaced with 1\" margins.
+- Make sure your essays are double spaced with 1\" margins so we can scribble on them next class.
 "%}
 
 
@@ -117,6 +135,7 @@ Bring your 2-page synopsis (see instructions above) to class today on actual pap
 - Yi-Fu Tuan, "Space and Place: Humanistic Perspective," in *Philosophy in Geography*, 387--427.
 - [Protecting Cultural Landscapes](https://www.nps.gov/TPS/how-to-preserve/briefs/36-cultural-landscapes.htm)
 
+#### Review before class, but don't worry about details
 - Introduction to [Markdown](https://www.markdowntutorial.com/)
 - Read how to [connect to GitHub](/courses/etc/connecting-to-github)
 - Read how to [post to GitHub](/courses/etc/posting-to-github)
