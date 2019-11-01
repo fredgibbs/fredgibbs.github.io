@@ -254,7 +254,11 @@ For today, post a COMPLETE draft for your essay, which should be around at least
 "%}
 
 {% include alert.html class='danger' title='Bring Paper Copies' text="
-We'll be doing a peer review session with your essays, so please bring TWO HARD COPIES of your essay to class. Print from the Intro Guide website!
+We'll be doing a peer review session with your essays, so please bring TWO HARD COPIES of your essay to class.
+
+As we discussed, merge your essay from your fork into the main unm-historiography/intro-guide repository. I showed you how to do this in class, and made a [rough screencast of it](https://youtu.be/tLAaLmHkKZU).
+
+Once your essay is merged, print it from the Intro Guide website (not your fork)!
 "%}
 
 
