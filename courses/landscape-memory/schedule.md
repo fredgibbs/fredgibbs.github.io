@@ -142,19 +142,18 @@ Bring your 2-page synopsis (see instructions above) to class today on actual pap
 
 ### Wednesday, 11/06: Meanings of Nature
 - Keith H. Basso, _Wisdom Sits in Places_, 37--70.
-- Robert Moor, *On Trails: An Exploration* (London: Quarto, 2017), 161--202. [PDF](readings/on-trails.pdf)
+- Robert Moor, *On Trails: An Exploration* (London: Quarto, 2017), 161--202.
 
 #### In class
 - Solve GitHub problems
-- Discussion of Essay Revision assignment DUE MONDAY.
-
+- Discussion of Essay Critiques DUE MONDAY (preview the [critique guide](critique-guide)), and (random) essay assignments
 
 
 ## Week 13/5
 
 ###  Monday 11/11: Urban Landscapes
-{% include alert.html class='danger' title='REVISIONS DUE TODAY' text="
-- Complete essay revisions at the [Trails Repository](https://github.com/historic-trails/website). Be sure to review the [Essay Revision guidelines](http://trails.unm.edu/revision-guide).
+{% include alert.html class='danger' title='CRITIQUES DUE TODAY' text="
+- Write and bring to class a 500-word critique of one of the essays. You should comment on aspects that work particularly well (that we might use as inspiration) as well as aspects that could use improvement. Everyone will take a turn presenting their critique (and walking us through the good and bad of the essay online). Be sure to use the [critique guide](critique-guide) for ideas about what to look out for.
 "%}
 
 - Dolores Hayden, _The Power of Place_, 44--78.
