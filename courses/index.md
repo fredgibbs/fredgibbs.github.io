@@ -5,6 +5,17 @@ title: courses
 
 # Regularly Scheduled Courses
 
+## Spring 2020
+
+{% include course-block.html
+slug="food-technology-society"
+title="Food, Technology, and Society"
+poster="images/fts-sm.jpg"
+desc="This course explores the complex relationships between food, food production, technology, and society. In some ways, our goal is to explain how and why supermarkets have come to look like they do. Taking chronological and thematic approaches simultaneously, we’ll look at the impact of science and technology on food processing and distribution (such as canning, refrigeration, GMOs, food stabilizers and preservatives). We’ll also put these developments in larger social, cultural, and demographic contexts, including the growing divide between food producers and consumers, governmental regulation, the rise of global food conglomerates, urbanization, and sustainability. Even more broadly, we identify connections between agribusiness, ecology, consumerism, media, politics, and the history of science and medicine."
+%}
+
+
+## Fall 2019
 
 {% include course-block.html
 slug="landscape-memory"
@@ -15,20 +26,14 @@ desc="With ubiquitous digital maps at our finger tips, it’s easy to move throu
 
 
 {% include course-block.html
-slug="food-technology-society"
-title="Food, Technology, and Society"
-poster="images/food-tech-society-sm.jpg"
-desc="This course explores the complex relationships between food, food production, technology, and society. In some ways, our goal is to explain how and why supermarkets have come to look like they do. Taking chronological and thematic approaches simultaneously, we’ll look at the impact of science and technology on food processing and distribution (such as canning, refrigeration, GMOs, food stabilizers and preservatives). We’ll also put these developments in larger social, cultural, and demographic contexts, including the growing divide between food producers and consumers, governmental regulation, the rise of global food conglomerates, urbanization, and sustainability. Even more broadly, we identify connections between agribusiness, ecology, consumerism, media, politics, and the history of science and medicine."
-%}
-
-
-{% include course-block.html
 slug="historiography"
 title="Historiography"
 poster="images/historiography-sm.jpg"
 desc="This course introduces some of the most influential approaches that historians (from antiquity through the present) have taken in thinking and writing about the past. It also addresses various meta-questions about history: What is history? What is it for? Who is it for? It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history. Coursework consists of numerous short essays that compare and contrast different processes, modes of thought, and modes of expression from different historical time periods and in different geographic areas."
 %}
 
+
+## Summer 2019
 
 <div class="row course">
   <div class="col-12">
@@ -47,6 +52,8 @@ desc="This course introduces some of the most influential approaches that histor
 </div>
 
 
+## Spring 2019
+
 <div class="row course">
 
   <div class="col-12">
@@ -64,8 +71,7 @@ desc="This course introduces some of the most influential approaches that histor
 
 
 
-
-
+## Fall 2018
 
 <div class="row course">
 <div class="col-12">
@@ -84,6 +90,8 @@ desc="This course introduces some of the most influential approaches that histor
 
 </div>
 
+
+## Previously
 
 <div class="row course">
 <div class="col-12">
