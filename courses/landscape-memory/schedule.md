@@ -150,7 +150,7 @@ Bring your 2-page synopsis (see instructions above) to class today on actual pap
 
 {% include alert.html class='danger' title='DUE BEFORE FRIDAY' text="
 - Follow the [GitHub setup instructions](http://fredgibbs.net/courses/etc/connecting-to-github).
-- Add your GitHub username to our [shared Google Doc](https://docs.google.com/document/d/1r5636Rp_a2OT60tyoG0yuKnmE5V2e0XYTwijpWWYJVI/edit?usp=sharing.
+- Add your GitHub username to our [shared Google Doc](https://docs.google.com/document/d/1r5636Rp_a2OT60tyoG0yuKnmE5V2e0XYTwijpWWYJVI/edit?usp=sharing).
 - Click on the link from the invitation email (like Zotero, but from GitHub). If you don't see a Green Button in the middle of the email, look for the text that says something like 'If you don't see the button click here...'
 - Consult our [Instructions for using GitHub](http://fredgibbs.net/courses/etc/posting-to-github).
 - Post a simple markdown file in the `test-files` folder of the [trails GitHub repository](https://github.com/historic-trails/website). Use my file `fred-gibbs.md` as an example. As per the instructions linked above, make sure the filename is firstname-lastname.md with no spaces, no capital letters, and ends with `.md`. You can put whatever text you want in the file.
