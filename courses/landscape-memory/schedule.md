@@ -146,7 +146,7 @@ Bring your 2-page synopsis (see instructions above) to class today on actual pap
 
 #### In class
 - Review GitHub instructions (see box for below ASSIGNMENT DUE FRIDAY (yes, Friday))
-- Discussion of existing historic site essays [here](http://trailus.unm.edu) DUE MONDAY (preview the [critique guide](critique-guide)), and (random) essay assignments
+- Discussion of existing historic site essays [here](http://trails.unm.edu/directory) DUE MONDAY (preview the [critique guide](critique-guide)), and (random) essay assignments (or assigned via email if you missed class)
 
 {% include alert.html class='danger' title='DUE BEFORE FRIDAY' text="
 - Follow the [GitHub setup instructions](http://fredgibbs.net/courses/etc/connecting-to-github).
@@ -167,7 +167,7 @@ If for some reason you missed the assignment for Friday (see above), do it NOW.
 
 
 {% include alert.html class='danger' title='CRITIQUES DUE TODAY' text="
-- Write and bring to class a ~400-word critique of one of the [existing historic site essays](http://trails.unm.edu/sites). You should comment on aspects that work particularly well (that we might use as inspiration) as well as aspects that could use improvement. Everyone will take a turn presenting their critique (and walking us through the good and bad of the essay online). Be sure to use the [critique guide](critique-guide) for ideas about what to look out for.
+- Write and bring to class a ~400-word critique of one of the [existing historic site essays](http://trails.unm.edu/directory). You should comment on aspects that work particularly well (that we might use as inspiration) as well as aspects that could use improvement. Everyone will take a turn presenting their critique (and walking us through the good and bad of the essay online). Be sure to use the [critique guide](critique-guide) for ideas about what to look out for.
 "%}
 
 - Dolores Hayden, _The Power of Place_, 44--78.
