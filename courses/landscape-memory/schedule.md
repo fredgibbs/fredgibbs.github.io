@@ -146,14 +146,14 @@ Bring your 2-page synopsis (see instructions above) to class today on actual pap
 
 #### In class
 - Review GitHub instructions (see box for below ASSIGNMENT DUE FRIDAY (yes, Friday))
-- Discussion of Essay Critiques DUE MONDAY (preview the [critique guide](critique-guide)), and (random) essay assignments
+- Discussion of existing historic site essays [here](http://trailus.unm.edu) DUE MONDAY (preview the [critique guide](critique-guide)), and (random) essay assignments
 
 {% include alert.html class='danger' title='DUE BEFORE FRIDAY' text="
 - Follow the [GitHub setup instructions](http://fredgibbs.net/courses/etc/connecting-to-github).
-- Add your GitHub username to our [shared Google Doc](https://docs.google.com/document/d/1r5636Rp_a2OT60tyoG0yuKnmE5V2e0XYTwijpWWYJVI/edit?usp=sharing).
-- Click on the link from the invitation email (like Zotero, but from GitHub). If you don't see a Green Button in the middle of the email, look for the text that says something like 'If you don't see the button click here...'
-- Consult our [Instructions for using GitHub](http://fredgibbs.net/courses/etc/posting-to-github).
-- Post a simple markdown file in the `test-files` folder of the [trails GitHub repository](https://github.com/historic-trails/website). Use my file `fred-gibbs.md` as an example. As per the instructions linked above, make sure the filename is firstname-lastname.md with no spaces, no capital letters, and ends with `.md`. You can put whatever text you want in the file.
+  - As per the instructions, add your GitHub username to our [shared Google Doc](https://docs.google.com/document/d/1r5636Rp_a2OT60tyoG0yuKnmE5V2e0XYTwijpWWYJVI/edit?usp=sharing).
+  - Be sure to click on the link from the invitation email from GitHub. If you don't see a Green Button in the middle of the email, look for the text that says something like 'If you don't see the button click here...'
+- Follow the [Instructions for using GitHub](http://fredgibbs.net/courses/etc/posting-to-github) to create a new file (just follow the top section; never mind about text editors for now).
+- Post a simple markdown file in the `test-files` folder of the [trails GitHub repository](https://github.com/historic-trails/website). Be sure to click on the `test-files` folder to get into the right place. You can see and use my file `fred-gibbs.md` as an example. As per the instructions linked above, make sure the filename is firstname-lastname.md with no spaces, no capital letters, and ends with `.md`. You can put whatever text you want in the file.
 "%}
 
 
@@ -167,7 +167,7 @@ If for some reason you missed the assignment for Friday (see above), do it NOW.
 
 
 {% include alert.html class='danger' title='CRITIQUES DUE TODAY' text="
-- Write and bring to class a 500-word critique of one of the essays. You should comment on aspects that work particularly well (that we might use as inspiration) as well as aspects that could use improvement. Everyone will take a turn presenting their critique (and walking us through the good and bad of the essay online). Be sure to use the [critique guide](critique-guide) for ideas about what to look out for.
+- Write and bring to class a ~400-word critique of one of the [existing historic site essays](http://trails.unm.edu/sites). You should comment on aspects that work particularly well (that we might use as inspiration) as well as aspects that could use improvement. Everyone will take a turn presenting their critique (and walking us through the good and bad of the essay online). Be sure to use the [critique guide](critique-guide) for ideas about what to look out for.
 "%}
 
 - Dolores Hayden, _The Power of Place_, 44--78.

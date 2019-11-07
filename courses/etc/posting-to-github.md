@@ -4,7 +4,7 @@ We use a platform called GitHub to submit and review our work. It will become cl
 ### Writing on GitHub
 * Navigate to the appropriate folder for the assignment (usually obvious by name)
 * Click on the "Create new file" button
-* Name your file appropriately (remember the .md extension!)
+* Name your file appropriately---all lower case, dashes instead of spaces, and the .md extension
 * Type your post into the text box (or copy and paste from some other editor)
 * Commit your work with the green "Commit New File" button at the bottom
 * You can always edit your file after you commit it---click on your filename, then click the pencil icon. And don't forget to commit your changes using the green "Commit Changes" button at the bottom.
