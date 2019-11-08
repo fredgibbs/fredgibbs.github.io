@@ -282,6 +282,7 @@ Respond to your critics (and friends)! Incorporate changes while they are fresh 
 ## Week 13
 
 ### 11: Gender Histories
+* BONUS: [Using Atom.io to commit changes to your repository](https://youtu.be/baRQrTl7wxU)
 * _Houses_, "Gender History", 253-62.
 * Catherine Hall, "Gender Division and Class Formation in the Birmingham Middle Class, 1780-1850" [= _Houses_, 263-76; skim].
 * Joan Scott, "Gender: A Useful Category of Historical Analysis", 1053-1075.
