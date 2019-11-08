@@ -282,26 +282,20 @@ Respond to your critics (and friends)! Incorporate changes while they are fresh 
 ## Week 13
 
 ### 11: Gender Histories
-* BONUS: [Using Atom.io to commit changes to your repository](https://youtu.be/baRQrTl7wxU)
-* _Houses_, "Gender History", 253-62.
-* Catherine Hall, "Gender Division and Class Formation in the Birmingham Middle Class, 1780-1850" [= _Houses_, 263-76; skim].
 * Joan Scott, "Gender: A Useful Category of Historical Analysis", 1053-1075.
-
+* BONUS: [Using Atom.io to commit changes to your repository](https://youtu.be/baRQrTl7wxU)
 
 
 ### 13: Postcolonial Histories
-- _Houses_, "Postcolonial Perspectives", 263-76.
 - Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?", 1-27.
 - Essay assignments for review
-
-
 
 
 
 ## Week 14
 ### 18: Reader Reports
 {% include alert.html class='danger' title='Reader Reports Due' text="
-You'll post TWO 500-600 word comments on TWO different essays (randomly assigned last class)
+You'll post TWO 400-500 word comments on TWO different essays (randomly assigned last class)
 "%}
 
 
