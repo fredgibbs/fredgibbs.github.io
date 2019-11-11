@@ -290,12 +290,17 @@ Respond to your critics (and friends)! Incorporate changes while they are fresh 
 - Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?", 1-27.
 - Essay assignments for review
 
+{% include alert.html class='danger'
+title='SECOND Revisions Due' text="
+Your essays will undergo another (but different) kind of peer review over the weekend, so you should have a TOTALLY COMPLETE and REASONABLY POLISHED draft following the [writing guide](https://unm-historiography.github.io/intro-guide/writing-guide).
+"%}
+
 
 
 ## Week 14
 ### 18: Reader Reports
 {% include alert.html class='danger' title='Reader Reports Due' text="
-You'll post TWO 400-500 word comments on TWO different essays (randomly assigned last class)
+You'll post TWO ~400 word comments on TWO different essays (randomly assigned last class). These should be bullets and sub-bullets only. NO NARRATIVES ALLOWED! And critique the big picture, not grammar details.
 "%}
 
 
