@@ -189,7 +189,7 @@ Today we will cover getting your essay in GitHub. You already know how to create
 #### Create a new file with your essay
 - Create a new file in the [sites folder of our repository](https://github.com/historic-trails/website/tree/master/sites) for YOUR essay. Make sure the name follows our naming convention (all lower case, dashes instead of spaces, `.md` extension). Your filename is going to be in the URL for your site, so it should look like all the other essay filenames in the `sites` folder.  
 - Copy and paste in YOUR essay from your Word file or wherever you've been writing it.
-- Add spaces between paragraphs and add section headings.
+- Add blank lines between paragraphs and add section headings for clarity.
 - Add your Essay Metadata as specified in the [Code Samples](http://trails.unm.edu/code) page. Copy and paste from the code sample and edit appropriately.
 - Commit your changes with green button at the bottom of the page.
 

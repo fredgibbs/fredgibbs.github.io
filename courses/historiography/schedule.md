@@ -292,7 +292,7 @@ Respond to your critics (and friends)! Incorporate changes while they are fresh 
 
 {% include alert.html class='danger'
 title='SECOND Revisions Due' text="
-Your essays will undergo another (but different) kind of peer review over the weekend, so you should have a TOTALLY COMPLETE and REASONABLY POLISHED draft following the [writing guide](https://unm-historiography.github.io/intro-guide/writing-guide).
+Your essays will undergo another (but different) kind of peer review over the weekend, so you should have a **TOTALLY COMPLETE** and REASONABLY POLISHED draft following the [writing guide](https://unm-historiography.github.io/intro-guide/writing-guide).
 "%}
 
 
@@ -318,6 +318,11 @@ You'll post TWO ~400 word comments on TWO different essays (randomly assigned la
 ## Week 15:  Postmodern discursive history
 ### 25: Professed Purposes
 - _What is History For?_, 31--58.
+
+{% include alert.html class='danger' title='Revisions Due' text="
+  You need to post to your repository the latest version of your essay. I will be commenting on these drafts, and the quality of these drafts will contribute to your participation grade for the course. Don't miss the opportunity to submit quality drafts for the most useful feedback going into the final weeks of the semester.
+"%}
+
 
 
 ### 27: Hidden Agendas
