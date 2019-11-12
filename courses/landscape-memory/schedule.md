@@ -177,15 +177,40 @@ If for some reason you missed the assignment for Friday (see above), do it NOW.
 
 ### Wednesday, 11/13: Essay Drafts!
 {% include alert.html class='danger' title='FIRST ESSAY DRAFT DUE TODAY' text="
-- [Loading Images](http://trails.unm.edu/loading-images)
-- [Code Samples](http://trails.unm.edu/code)
-"%}
+As discussed in class, bring a hard copy of your COMPLETE FIRST DRAFT. You should write it Word or whatever you're comfortable with, although we will be moving it to GitHub for use on the website.
 
 There's always a lot to talk about during class, from solving technical challenges to standardization issues, to stylistic questions, etc. PLEASE BRING QUESTIONS ABOUT YOUR ESSAYS! Nothing to prepare for today except your drafts.
+"%}
+
+Today we will cover getting your essay in GitHub. You already know how to create files in our repository; now we're going to create files for our essays, start adding markdown code for headers, links, and images.
+
+### Here's what you need to do FOR MONDAY
+
+#### Create a new file with your essay
+- Create a new file in the [sites folder of our repository](https://github.com/historic-trails/website/tree/master/sites) for YOUR essay. Make sure the name follows our naming convention (all lower case, dashes instead of spaces, `.md` extension). Your filename is going to be in the URL for your site, so it should look like all the other essay filenames in the `sites` folder.  
+- Copy and paste in YOUR essay from your Word file or wherever you've been writing it.
+- Add spaces between paragraphs and add section headings.
+- Add your Essay Metadata as specified in the [Code Samples](http://trails.unm.edu/code) page. Copy and paste from the code sample and edit appropriately.
+- Commit your changes with green button at the bottom of the page.
+
+#### Let's make sure we can easily get to your new essay page
+- You are going to edit your entry in our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0).
+- Remember that this sheet controls the cards on our [directory page](https://trails.unm.edu/directory).
+- Add a short description to the `card-description` field; try to match the lengths of existing entries.
+- Add the name of your file MINUS the `.md` extension to the `essay-slug` field.
+- Refresh or reload the [directory page](https://trails.unm.edu/directory), and your card should link to your essay. If it's not working, double check that your essay file is in the `sites` folder and that the name of your file (without the `.md`) and what's in the essay-slug column MATCH EXACTLY.
+
+You should have already identified some images to use in your essay. You can get these to appear by following our [Loading Images Guide](http://trails.unm.edu/loading-images).
+
+All other formatting that you might want to incorporate into your essay can be done by copying and pasting code from the [code samples page](http://trails.unm.edu/code).
 
 
 
 ## Week 14/6: Trail Accounts and Diaries
+
+{% include alert.html class='danger' title='Get your GitHub essays working' text="
+Make sure you have completed all the steps outlined above!
+"%}
 
 ### Monday, 11/18:
 - Josiah Gregg, *Commerce of the Prairies: Or, the Journal of a Santa Fé Trader, during Eight Expeditions across the Great Western Prairies, and a Residence of Nearly Nine Years in Northern Mexico* Vol. II, 5th ed. (Philadelphia: J. W. Moore, 1855). [Google Books](https://books.google.com/books?id=3WHZTsz38gwC&printsec=frontcover&dq=Commerce+of+the+Prairies&hl=en&sa=X&ved=0ahUKEwjU3cOkidncAhUpllQKHRJYCUUQ6AEIKTAA#v=onepage&q=Commerce%20of%20the%20Prairies&f=false) Recommended: 105-158. What did you learn about commerce?
