@@ -179,19 +179,31 @@ If for some reason you missed the assignment for Friday (see above), do it NOW.
 {% include alert.html class='danger' title='FIRST ESSAY DRAFT DUE TODAY' text="
 As discussed in class, bring a hard copy of your COMPLETE FIRST DRAFT. You should write it Word or whatever you're comfortable with, although we will be moving it to GitHub for use on the website.
 
-There's always a lot to talk about during class, from solving technical challenges to standardization issues, to stylistic questions, etc. PLEASE BRING QUESTIONS ABOUT YOUR ESSAYS! Nothing to prepare for today except your drafts.
+There's always a lot to talk about during class, from solving technical challenges to standardization issues, to stylistic questions, etc. PLEASE BRING QUESTIONS ABOUT YOUR RESEARCH and ESSAYS! Nothing to prepare for today except your drafts. Make them good!
 "%}
 
-Today we will cover getting your essay in GitHub. You already know how to create files in our repository; now we're going to create files for our essays, start adding markdown code for headers, links, and images.
+Today we will cover getting your essay in GitHub. You already know how to create files in our repository; now we're going to create individual working copies of the website, create files for our essays, start adding markdown code for headers, links, and images.
 
 ### Here's what you need to do FOR MONDAY
+We will go over all these in class on Wednesday Nov 13.
+
+#### Create a "Fork" of the trails repository
+- Go to the [trails GitHub repository](https://github.com/historic-trails/website), and click the `Fork` button in the upper right corner (don't click the number). This will make a copy of the trails website for you to play around with and develop your essays.
+- You'll see a popup window asking you where you want to fork it, and you'll click on your username (you should only have one choice).
+- Notice where you are! You are looking at the repository under YOUR OWN ACCOUNT (not historic-trails, where the live website lives). This is evident from the URL and the top left of the GitHub page. Our shared repository will always have `historic-trails` in it, and yours will have your GitHub username. But the files look exactly the same!
+- Turn on your own repository's GitHub Pages website. Under the settings tab, scroll down to the `GitHub Pages` section (second from the bottom), and under `source`, change it from `none` to `master branch`. Scroll back down to the GitHub Pages section, and notice that it gives you a URL for your version of the trails site. It will look like https://USERNAME.github.io/website.
+
 
 #### Create a new file with your essay
-- Create a new file in the [sites folder of our repository](https://github.com/historic-trails/website/tree/master/sites) for YOUR essay. Make sure the name follows our naming convention (all lower case, dashes instead of spaces, `.md` extension). Your filename is going to be in the URL for your site, so it should look like all the other essay filenames in the `sites` folder.  
+- Working in YOUR repository (which will look like https://github.com/USERNAME/website/), go into the `sites` folder and create a new page for your essay.
+- Make sure the name follows our naming convention (all lower case, dashes instead of spaces, `.md` extension). Your filename is going to be in the URL for your site, so it should look like all the other essay filenames in the `sites` folder.  
 - Copy and paste in YOUR essay from your Word file or wherever you've been writing it.
 - Add blank lines between paragraphs and add section headings for clarity.
 - Add your Essay Metadata as specified in the [Code Samples](http://trails.unm.edu/code) page. Copy and paste from the code sample and edit appropriately.
 - Commit your changes with green button at the bottom of the page.
+- You can test your page by going pasting https://USERNAME.github.io/website/sites/FILENAME into your browser, and changing USERNAME to your GitHub username and FILENAME to the name of your file (make sure it matches EXACTLY).
+- Get your page looking like you want within YOUR repository. Make sure there are no page build errors (you will get an email about them).
+
 
 #### Let's make sure we can easily get to your new essay page
 - You are going to edit your entry in our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0).
