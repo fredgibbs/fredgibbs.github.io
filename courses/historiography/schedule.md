@@ -300,7 +300,7 @@ Your essays will undergo another (but different) kind of peer review over the we
 ## Week 14
 ### 18: Reader Reports
 {% include alert.html class='danger' title='Reader Reports Due' text="
-You'll post TWO ~400 word comments on TWO different essays (randomly assigned last class). These should be bullets and sub-bullets only. NO NARRATIVES ALLOWED! And critique the big picture, not grammar details.
+Bring your TWO ~400 word critiques on TWO different essays. Review assignments are posted [in our repository](https://github.com/unm-historiography/2019-fall/blob/master/review-assignments.md). For efficiency, these should be bullets and sub-bullets only. NO NARRATIVES ALLOWED! Focus on the big picture: framing, historiographical significance, and accessibility for the intended audience. Be sure you are thinking about the points raised in the [writing guide](https://unm-historiography.github.io/intro-guide/writing-guide).
 "%}
 
 
