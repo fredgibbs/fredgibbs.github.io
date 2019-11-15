@@ -225,11 +225,12 @@ Make sure you have completed all the steps outlined above!
 "%}
 
 ### Monday, 11/18:
-- Josiah Gregg, *Commerce of the Prairies: Or, the Journal of a Santa Fé Trader, during Eight Expeditions across the Great Western Prairies, and a Residence of Nearly Nine Years in Northern Mexico* Vol. II, 5th ed. (Philadelphia: J. W. Moore, 1855). [Google Books](https://books.google.com/books?id=3WHZTsz38gwC&printsec=frontcover&dq=Commerce+of+the+Prairies&hl=en&sa=X&ved=0ahUKEwjU3cOkidncAhUpllQKHRJYCUUQ6AEIKTAA#v=onepage&q=Commerce%20of%20the%20Prairies&f=false) Recommended: 105-158. What did you learn about commerce?
+- Josiah Gregg, *Commerce of the Prairies: Or, the Journal of a Santa Fé Trader, during Eight Expeditions across the Great Western Prairies, and a Residence of Nearly Nine Years in Northern Mexico* Vol. II, 5th ed. (Philadelphia: J. W. Moore, 1855). [Google Books](https://books.google.com/books?id=3WHZTsz38gwC&printsec=frontcover&dq=Commerce+of+the+Prairies&hl=en&sa=X&ved=0ahUKEwjU3cOkidncAhUpllQKHRJYCUUQ6AEIKTAA#v=onepage&q=Commerce%20of%20the%20Prairies&f=false) Recommended: 9-21; 27-41; 105-121; 136-142. These are short pages that you can read really quickly so don't be intimidated by the number of pages. And it reads very quickly!
 
-- James A. Little, _What I Saw on the Old Santa Fe Trail: A Condensed Story of Frontier Life Half a Century Ago_ (Plainfield, IN: Friends Press, 1904). [Google Books](https://books.google.com/books?id=03FNAAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) Recommended: All the random stuff before the table of contents; also, 11-38.
+- James A. Little, _What I Saw on the Old Santa Fe Trail: A Condensed Story of Frontier Life Half a Century Ago_ (Plainfield, IN: Friends Press, 1904). [Google Books](https://books.google.com/books?id=03FNAAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) Read everything up to the table of contents; 11-38; and pick some other random chapter that you can report on.
 
-How would you characterize the tone of these books? What are the assumptions and cultural frameworks of the authors? To what extent is it possible to capture the richness of these experiences/accounts in modern trail interpretation and administration? Or maybe we should put them behind us and keep them out of view?
+How would you characterize the tone of these books? What are the assumptions and cultural frameworks of the authors? To what extent is it possible to capture the richness of these experiences/accounts in modern trail interpretation and administration? Or maybe we should put them behind us and keep them out of view? 
+
 
 ### Wednesday, 11/20:
 
