@@ -308,8 +308,16 @@ Bring your TWO ~400 word critiques on TWO different essays. Review assignments a
 * Kieran Healy, "Fuck nuance", 1-13.
 
 {% include alert.html class='info' title='Discussion prep' text="
-  - Besides making for a good story, is there significant value in historical work that simply adds nuance to widely accepted understandings of the past?
+Everyone is an informal(!) commenter for today (usual length). We haven't done comments for a while, but it was clear that many of you were finding your commenter voice/style. Keep it up! Here are some questions to consider, but write a general comment on these topics rather than give specific answers (which you can't do well in only 400 words).
+
+  - Do you reject my premise that this article applies equally well to history?
+  - Is all historical study except the 'universal' histories predominant before Ranke a matter of nuance?
+  - Besides making for a good story, is there value in historical work that simply adds nuance to widely accepted understandings of the past?
+  - How should the scale of a historical study be used in understanding its value? (= what is history for? [see next week])
   - Is history well served by models? (also: do you need math to have models?)
+  - Will the rise of a digital archive make historical laws more attractive to historians?
+  - How might a digital archive challenge traditional historical authority?
+
 "%}
 
 
