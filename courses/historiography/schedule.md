@@ -328,7 +328,7 @@ Everyone is an informal(!) commenter for today (usual length). We haven't done c
 - _What is History For?_, 31--58.
 
 {% include alert.html class='danger' title='Revisions Due' text="
-  You need to post to your repository the latest version of your essay. I will be commenting on these drafts, and the quality of these drafts will contribute to your participation grade for the course. Don't miss the opportunity to submit quality drafts for the most useful feedback going into the final weeks of the semester.
+  You need to post to your repository the latest version of your essay. I will be commenting on these drafts (similar to the critiques you just did), and the quality of these drafts will contribute to your participation grade for the course. Don't miss the opportunity to submit quality drafts for the most useful feedback going into the final weeks of the semester!
 "%}
 
 
