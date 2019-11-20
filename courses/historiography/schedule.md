@@ -321,39 +321,6 @@ Everyone is an informal(!) commenter for today (usual length). We haven't done c
 "%}
 
 
-
----
-# ORIGINAL
----
-
-## Week 15:  Postmodern discursive history
-### 25: Professed Purposes
-- _What is History For?_, 31--58.
-
-{% include alert.html class='danger' title='Revisions Due' text="
-  You need to post to your repository the latest version of your essay. I will be commenting on these drafts (similar to the critiques you just did), and the quality of these drafts will contribute to your participation grade for the course. Don't miss the opportunity to submit quality drafts for the most useful feedback going into the final weeks of the semester!
-"%}
-
-
-### 27: Hidden Agendas
-- _What is History For?_, 59--84.
-
-## Week 16
-### 2: NO CLASS: WRITING TIME
-
-### 4: Wrap up
-
-
-## All course work due by Dec 11!
-
-
-
-
----
-# PROPOSED
----
-
-
 ## Week 15:  Postmodern discursive history
 ### 25: Finish Revisions
 
@@ -371,16 +338,16 @@ Everyone is an informal(!) commenter for today (usual length). We haven't done c
   - _What is History For?_, 59--84.
 
 
-### 27: History as Giant Data Set
+### 27: The Future of History
 One last (and new) reading to discuss:
 - Laura Spinney, [History as a giant data set: how analysing the past could help save the future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
-- In class: Discussion and concluding remarks
+- In class: Discussion of reading (you are highly encouraged to end on a participation high note--please be prepared) and concluding remarks.
 
 
 ## Week 16
 ### 2: NO CLASS: WRITING TIME
 
-### 4: NO CLASS: REVISION TIME
+### 4: NO CLASS: REVISING TIME
 
 
 ## All course work due by Dec 13!
