@@ -229,7 +229,7 @@ Make sure you have completed all the steps outlined above!
 
 - James A. Little, _What I Saw on the Old Santa Fe Trail: A Condensed Story of Frontier Life Half a Century Ago_ (Plainfield, IN: Friends Press, 1904). [Google Books](https://books.google.com/books?id=03FNAAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) Read everything up to the table of contents; 11-38; and pick some other random chapter that you can report on.
 
-How would you characterize the tone of these books? What are the assumptions and cultural frameworks of the authors? To what extent is it possible to capture the richness of these experiences/accounts in modern trail interpretation and administration? Or maybe we should put them behind us and keep them out of view? 
+How would you characterize the tone of these books? What are the assumptions and cultural frameworks of the authors? To what extent is it possible to capture the richness of these experiences/accounts in modern trail interpretation and administration? Or maybe we should put them behind us and keep them out of view?
 
 
 ### Wednesday, 11/20:
@@ -245,23 +245,24 @@ How would you characterize the tone of these books? What are the assumptions and
 ## Week 15/7:
 
 ### Monday, 11/25:
-- Complete info for the directory page in our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0)
-- All historic site essays should be ENTIRELY COMPLETE, including clear section headings, clear and focused paragraphs, clear narrative thread, images (with captions), hyperlinks, and related people, places, and articles.
-- Clean Zotero Collections
-- Bring 2 printed versions to class for peer review
-
-### Wednesday, 11/27:
+- All historic site essays should be ENTIRELY COMPLETE (even though you will continue to revise), including clear section headings, clear and focused paragraphs, clear narrative thread, images (with captions), hyperlinks, and related people, places, and articles. For more suggestions (= requirements), see the [writing guide](http://trails.unm.edu/writing-guide).
+- These must be committed to YOUR repository and you should be able to preview your essay as a webpage.
+- For class today, you should print out TWO copies to bring to class for peer review. You should print these directly from your webpage. If you do not have essays to submit for review, don't bother coming to class.
+- If for some reason you haven't already, complete info for the directory page in our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0)
 
 
+### Wednesday, 11/27: NO CLASS
+It's basically Thanksgiving already. Use the time to extend the scope of your research. This is NOT OPTIONAL. Essays that don't provide adequate historical context will be heartily and happily graded down. We've talked about this enough in class that you should know what to do.
 
 
 ## Week 16/8
 
-### Monday, 12/02: NO CLASS --> WORK TIME
+### Monday, 12/02: NO CLASS
+RESEARCH and REVISE!
 
 ### Wednesday, 12/04
-- Loose Ends, Reflections, and Evaluations
-- TODO lists for final revisions
+- Loose Ends, Conclusions, and Reflections
+- TODO lists for final revisions (both you and me)
 
-## All final versions December 11 at 5:00pm.
-- As you finalize your essays, please keep in mind the [general rubric](http://fredgibbs.net/courses/trails/essay-grading-rubric.pdf) and the [style guide](http://fredgibbs.net/courses/trails/style-guide)
+## All final versions December 13 at 5:00pm.
+Consult the [writing guide](http://trails.unm.edu/writing-guide) over and over again. 
