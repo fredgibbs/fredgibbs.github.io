@@ -340,8 +340,10 @@ Everyone is an informal(!) commenter for today (usual length). We haven't done c
 
 
 ### 27: The Future of History
-{% include alert.html class='danger' title='Merge your fork with intro-guide' text="
-  - To make sure everyone can 'publish' their final essays at the very end of the term, you should BEFORE CLASS ON WEDNESDAY merge your fork with the intro-guide. We're not doing reviews or anything more there--it's just to check that everything is working as expected. [screencast](https://youtu.be/tLAaLmHkKZU).
+{% include alert.html class='danger' title='STUFF TO DO BEFORE WED' text="
+  - FIRST COPY AND PASTE the code from [most recent nav bar](https://github.com/unm-historiography/intro-guide/blob/master/_data/nav.yml) to the same file in your fork. Just copy all the text from the edit window (or the `raw` view) and replace all text in your nav.yml file.
+
+  - NEXT, merge your fork with the intro-guide. We're not doing reviews or anything more there--it's just to check that everything is working as expected. [screencast](https://youtu.be/tLAaLmHkKZU).
 
   - Also BEFORE CLASS ON WEDNESDAY, update our [Table of Contents Data](https://docs.google.com/spreadsheets/d/1EBAxMEabmmgxiU_0yabIDr6r8Cnevtv63KXDbae33T4/edit#gid=0)
 "%}
