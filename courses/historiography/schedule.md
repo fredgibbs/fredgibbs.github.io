@@ -329,9 +329,10 @@ Everyone is an informal(!) commenter for today (usual length). We haven't done c
 "%}
 
 ### IN CLASS
+- Lingering technical questions
 - Final essay spot checking and suggestions (for you)
 - Final site suggestions (for me)
-- Lingering technical questions
+- A final quiz?
 
 - I summarize (since you won't be reading it):
   - _What is History For?_, 31--58.
@@ -339,9 +340,15 @@ Everyone is an informal(!) commenter for today (usual length). We haven't done c
 
 
 ### 27: The Future of History
+{% include alert.html class='danger' title='Merge your fork with intro-guide' text="
+  - To make sure everyone can 'publish' their final essays at the very end of the term, you should BEFORE CLASS ON WEDNESDAY merge your fork with the intro-guide. We're not doing reviews or anything more there--it's just to check that everything is working as expected. [screencast](https://youtu.be/tLAaLmHkKZU).
+
+  - Also BEFORE CLASS ON WEDNESDAY, update our [Table of Contents Data](https://docs.google.com/spreadsheets/d/1EBAxMEabmmgxiU_0yabIDr6r8Cnevtv63KXDbae33T4/edit#gid=0)
+"%}
+
 One last (and new) reading to discuss:
 - Laura Spinney, [History as a giant data set: how analysing the past could help save the future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
-- In class: Discussion of reading (you are highly encouraged to end on a participation high note--please be prepared) and concluding remarks.
+- In class: Discussion of reading (you are highly encouraged to end on a participation high note--please be prepared) and concluding remarks for the course.
 
 
 ## Week 16
