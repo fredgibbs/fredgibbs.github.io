@@ -265,4 +265,7 @@ RESEARCH and REVISE!
 - TODO lists for final revisions (both you and me)
 
 ## All final versions December 13 at 5:00pm.
-Consult the [writing guide](http://trails.unm.edu/writing-guide) over and over again. 
+- Consult the [writing guide](http://trails.unm.edu/writing-guide) over and over again.
+- Be sure you have completed an entry on our [Google Sheet](https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit#gid=0). This makes the cards display on our directory page.
+- Remember that you need to sync your fork with the historic-trails repository so that your essay and images will be visible at trails.unm.edu. If you forgot what to do from our last class (or weren't there), [here's a screencast](https://youtu.be/Qs4FuykinPw) that shows you exactly what to do.
+- Good luck!!!
