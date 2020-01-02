@@ -14,8 +14,8 @@ In terms of the writing itself, the assignments encourage/force you to focus on 
 
 
 ## Writing style
-- You must use only bullet points (and sub-bullets) to articulate your ideas. Bullet points by definition are short and to the point; don't write small paragraphs.
-- Bullet points does not mean sentence fragments. Use complete sentences.
+- You must use only bullet points (and sub-bullets) to articulate your ideas. Bullet points by definition are short and to the point; 2-3 sentences MAX. Don't write small paragraphs.
+- Use complete sentences. Bullet points does not necessarily mean sentence fragments.
 - Make interesting and sophisticated observations in each bullet point.
 - Strive for both concision and clarity. This is _really_ difficult.
 - Be sure you create and follow a logical structure and progression to your bullet points. A random collection of ideas will be frowned upon.
@@ -33,7 +33,7 @@ In terms of the writing itself, the assignments encourage/force you to focus on 
  - **Be specific.** Something like, "Railroads were important to Chicago's development" tells me little more than you have a pulse. Don't waste our time, please.
  - **Provide specific citations.** This forces you to double check your own memory and interpretation of the readings, and helps you avoid making false claims. In your references to the readings, use page numbers.
  - **Paraphase.** Avoid full quotations (short phrases are fine), since you want use all the space for your own thinking.
- - **Be selective.** You can’t fit everything worth saying into your essay. Choose carefully what you think is most important! That's part of what you're being graded on.
+ - **Be selective.** You can’t fit everything worth saying into your essay. Choose carefully what you think is most important! You're being graded on your ability to separate the wheat from the chaff.
  - **Revise, revise, revise.** Once you have a complete draft of everything you want to say, you are about 50% done. Set it aside (and budget time for this!), then come back and economize your prose. Remove simple sentences that force you to be unnecessarily verbose.
 
  1 (initial idea): There was a cat. The cat was black and it chased a mouse, which was eating cheese.    

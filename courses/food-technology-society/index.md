@@ -14,10 +14,12 @@ section: home
 - Office Hours: T,Th 11-1
 
 ## Course Description
-This course explores the relationship between food, food production, technology, and society. In some ways, our goals is to explain why supermarkets have come to look like they do. Taking chronological and thematic approaches simultaneously, we'll look at the impact of science and technology on food production, processing, and distribution (such as canning, refrigeration, GMOs, techno-foods). We’ll also put these developments in larger social, cultural, and demographic contexts, including the growing divide between food producers and consumers, urbanization, the rise of food corporations and global conglomerates, governmental regulation, organics, and sustainability. Even more broadly, we identify connections between agriculture, ecology, consumerism, capitalism, media, politics, and the history of science and medicine.
+This course explores the relationship between food, food production, technology, and society. Taking chronological and thematic approaches simultaneously, we'll look at the impact of science and technology on food production, processing, and distribution (such as canning, refrigeration, GMOs, techno-foods). We’ll also put these developments in larger social, cultural, and demographic contexts, including industrialization, urbanization, the growing divide between food producers and consumers, the rise of global food corporations, and governmental regulation. Even more broadly, we identify connections between agriculture, ecology, consumerism, capitalism, media, politics, and the history of science and medicine.
 
-To cover so many topics, our reading list takes a smorgasbord approach from academic and popular literature. Some of the readings go together well, others seem a bit more isolated. Some of them reinforce each other, others contradict each other. There isn't any clear narrative or story that this course tries to tell; we sample widely from the buffet and to think about food production from as many angles as possible. The hope is to provide a stronger sense of where and how food is produced and the many and mostly hidden consequences of the many complicated global systems that facilitate the incredible choice of food at our fingertips. The course does not tell you how to eat, but hopefully how to think more critically about the implications of our food production and consumption choices.
+To cover so many topics, our reading list takes a smorgasbord approach from academic and popular literature. Some of the readings go together well, others seem a bit more isolated. Some of them reinforce each other, others contradict each other. There isn't any clear narrative or story that this course tries to tell; we sample widely from the buffet and to think about food production from as many angles as possible. The hope is to provide a stronger sense of where and how food is produced and the many and mostly hidden consequences of the many complicated global systems that facilitate the incredible choice of food at our fingertips. The course does not tell you how to eat, but hopefully how you can think more critically about the implications of our food production and consumption choices.
 
+## Schedule of Readings
+Note at the top of the page, the link to the schedule page of the syllabus: [http://fredgibbs.net/courses/food-technology-society/schedule.html](http://fredgibbs.net/courses/food-technology-society/schedule.html).
 
 ## Student Learning Outcomes
 - Articulate the history of the US food system and its relationship with technological developments
@@ -37,10 +39,10 @@ To cover so many topics, our reading list takes a smorgasbord approach from acad
 
 - Midterm ad analysis (~800 words) as explained on the schedule. (15 points)
 
-- Final essay (~1200 words): Make an argument for the three most significant changes in food due to technology. You can only pick three as the MOST important, but you should mention lots of important factors to show what you've learned in the course We'll look at examples and prepare for this important exercise ahead of time. (20 points)
+- Final essay (~1200 words): Make an argument for the three most significant changes in food due to technology. You can only pick three as the MOST important, but you should mention lots of important factors that go along with those to show what you've learned in the course We'll look at examples and prepare for this important exercise ahead of time. (20 points)
 
 ### Submission Policies
-- You can resubmit all assignments within one week of getting them back for re-grading. You get about the average between the two grades. This is a safety net, but not something you should plan on using.
+- You can resubmit all assignments within one week of getting them back for re-grading. You get about the average between the two grades. This is a safety net, not something you should plan on using.
 
 - Late work is not accepted unless due to a medical emergency. You can submit work per the resubmission policy to avoid getting a 0 for the assignment.
 
@@ -63,7 +65,9 @@ Points | Grade
 
 
 ### Please Ask for Help
-I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how it can be improved (if at all). If life gets overwhelming during the course, it can be tempting to drift away from an elective course like this. Rather than disappear, please come talk with me about how we can accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
+Please please please come talk me at any time. I'm alway happy to tell you how I think you're doing in the class and how it can be improved (if at all).
+
+If life gets overwhelming during the course, it can be tempting to drift away from an elective course like this. Rather than disappear, please come talk with me about how we can accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
 
 
 
