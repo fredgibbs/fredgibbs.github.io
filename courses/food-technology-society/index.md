@@ -29,22 +29,29 @@ Note at the top of the page, the link to the schedule page of the syllabus: [htt
 
 
 ## Work Requirements and Grading
-- Thorough preparedness and engaged participation in most every class meeting. This is a class that's focused on cultivating different perspectives about how we can think about food, technology, and society---not just memorizing and regurgitating supposedly important "facts". (20 points)
+- Thorough preparedness and engaged participation in most every class meeting. This is a class that's focused on cultivating different perspectives about how we can think about food, technology, and society---not just memorizing and regurgitating supposedly important "facts". (16 points; roughly .5 points per class)
 
-- Serious effort and on-time completion of the four short reading response assignments (usually ~250 words). (5 points each; 20 points total)
+- Two 900-word [book reviews](book-review-guide). You will be writing reviews of required books that we read and talk about together, so it's a kind of "test" to see if you've been paying attention. (10 points each; 20 points total)
 
-- Serious engagement with peer review assignments (commenting on each others' work). (5 points each; 10 points total)
+- Two 2-page [executive summaries](/courses/etc/exec-summary-writing-guide) of class readings (10 points each; 20 points total)
 
-- Pop quizzes. (15 points)
+- Two readings quizzes (2 points each; 4 points total)
 
-- Midterm ad analysis (~800 words) as explained on the schedule. (15 points)
+- One ~900-word [website analysis](/courses/etc/website-analysis) on GMO safety (10 points)
 
-- Final essay (~1200 words): Make an argument for the three most significant changes in food due to technology. You can only pick three as the MOST important, but you should mention lots of important factors that go along with those to show what you've learned in the course We'll look at examples and prepare for this important exercise ahead of time. (20 points)
+- One ~900-word [Old newspaper ad analysis](newspaper-ads) (10 points)
+
+- ~1800-word final essay (20 points):
+  - Make an argument for the three most significant changes in food due to technology. You can only pick three as the MOST important, but you should mention lots of important factors that go along with those to show what you've learned in the course. We'll talk more about strategies for this option the last week of class
+  - Write a review of _Tomatoland_, following the models of our previous book reviews. We will discuss the book but not to the same extent as the others. Your review however, will be more like a final than a book review in that it must show you analyzing the book in terms of the course (hence the many extra words)
+
 
 ### Submission Policies
 - You can resubmit all assignments within one week of getting them back for re-grading. You get about the average between the two grades. This is a safety net, not something you should plan on using.
 
 - Late work is not accepted unless due to a medical emergency. You can submit work per the resubmission policy to avoid getting a 0 for the assignment.
+
+- Work is due in class in hard copy. Emailed assignments will be ignored. If you have an emergency or unavoidable conflict that prevents you from attending class, you can turn it in the next class that you can attend for full credit.
 
 
 ### Grade Distribution

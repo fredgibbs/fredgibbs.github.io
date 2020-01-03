@@ -13,3 +13,8 @@ This page contains a list of links that you will probably need repeatedly throug
 
 ## Scanned Readings
 - [Zotero Group Library](https://www.zotero.org/groups/1647225/food-tech-society-unm/library)
+
+## Assignment Guides
+- [Book Review Writing Guide](http://fredgibbs.net/courses/etc/book-review-guide.html)
+- [Ad Analysis Writing Guide](http://fredgibbs.net/courses/food-technology-society/newspaper-ads.html)
+- [Executive Summary Writing Guide](/courses/etc/exec-summary-writing-guide.html)
