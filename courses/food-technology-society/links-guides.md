@@ -15,6 +15,7 @@ This page contains a list of links that you will probably need repeatedly throug
 - [Zotero Group Library](https://www.zotero.org/groups/1647225/food-tech-society-unm/library)
 
 ## Assignment Guides
-- [Book Review Writing Guide](http://fredgibbs.net/courses/etc/book-review-guide.html)
-- [Ad Analysis Writing Guide](http://fredgibbs.net/courses/food-technology-society/newspaper-ads.html)
-- [Executive Summary Writing Guide](/courses/etc/exec-summary-writing-guide.html)
+- [Book Review  Guide](book-review-guide.html)
+- [Newspaper Ad Guide](newspaper-ads-guide.html)
+- [Executive Summary Guide](exec-summary-guide.html)
+- [Website Analysis Guide](website-analysis-guide.html)

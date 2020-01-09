@@ -1,15 +1,21 @@
 ---
-layout: default
-title: Executive Summary Writing Guide
+layout: syllabus
+title: Executive Summary Guide
+term: Spring 2020
+number: HIST 412
+header: food-technology-society
+section: links-guides
 ---
 
-# Executive Summary Writing Guide
+# Executive Summary Guide
+
+## What is it?
+An executive summary is a highly compressed way of communicating the most important points AND quality of some source of information. It takes the form of a set of bullet points rather than narrative prose. It is dense, meaning a lot of ideas get carefully compressed into a small space.
+
 
 ## Assignment Purpose
-These kinds of assignments show that you're doing the reading and thinking about how to relate them to each other and our discussions. Obviously you can do this in our class meetings as well, but this gives you yet another forum to show that you're learning. And to help me give you the most appropriate grade for your effort at the end of the term.
+This assignment show that you're doing the reading and thinking about how to relate them to each other and our discussions. Obviously you can do this in our class meetings as well, but this gives you yet another forum to show that you're learning. And to help me give you the most appropriate grade for your effort at the end of the term.
 
-
-## Your Job
 In terms of the writing itself, the assignments encourage/force you to focus on the clarity and concision of your thinking and expression. It's a super useful skill that you'll frequently employ in your future career, whatever it is.
 
 
@@ -21,12 +27,15 @@ In terms of the writing itself, the assignments encourage/force you to focus on 
 - Be sure you create and follow a logical structure and progression to your bullet points. A random collection of ideas will be frowned upon.
 
 
-## General formatting checklist
-- One page maximum
-- 11 pt. Times New Roman (or very similar serif font)
+## Formatting Requirements
+These requirements are EASY. If you do not follow them, I will return your essay ungraded so that you can fix it and resubmit it. You will lose one point.
+
+- Two page maximum (can be single or double-sided)
+- If two pages, they must be stapled---not just with an corner folded over!
+- 11 pt. Times New Roman
 - 1" margins on all sides
+- 1.5 line spacing
 - Your name on top; do not bother noting the course, me, etc.
-- Everything should be single spaced, but put a blank line between bullet points
 
 
 ## Tips for success

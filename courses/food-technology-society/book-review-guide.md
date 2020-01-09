@@ -1,13 +1,13 @@
 ---
 layout: syllabus
-title: Food, Technology, and Society
+title: Book Review Guide
 term: Spring 2020
 number: HIST 412
 header: food-technology-society
 section: links-guides
 ---
 
-# Critique Writing Guide
+# Book Review Guide
 
 ## Assignment Goals
 This assignment shows that you’re able to apply the course discussion and activities in the real world by critically analyzing a kind of course (like one of our required books) that you might read even outside of this course. **This is the goal of the entire course---see the learning objectives on the syllabus!---to help you think carefully and historically about food.** In terms of the writing itself, the assignments encourage/force you to focus on the clarity and concision of your thinking and expression. It's a super useful skill that you'll frequently employ in your future career, whatever it is.

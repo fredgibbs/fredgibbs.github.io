@@ -33,13 +33,13 @@ Note at the top of the page, the link to the schedule page of the syllabus: [htt
 
 - Two 900-word [book reviews](book-review-guide). You will be writing reviews of required books that we read and talk about together, so it's a kind of "test" to see if you've been paying attention. (10 points each; 20 points total)
 
-- Two 2-page [executive summaries](/courses/etc/exec-summary-writing-guide) of class readings (10 points each; 20 points total)
+- Two 2-page [executive summaries](exec-summary-guide) of class readings (10 points each; 20 points total)
 
 - Two readings quizzes (2 points each; 4 points total)
 
-- One ~900-word [website analysis](/courses/etc/website-analysis) on GMO safety (10 points)
+- One ~900-word [website analysis](website-analysis-guide) on GMO safety (10 points)
 
-- One ~900-word [Old newspaper ad analysis](newspaper-ads) (10 points)
+- One ~900-word [Old newspaper ad analysis](newspaper-ads-guide) (10 points)
 
 - ~1800-word final essay (20 points):
   - Make an argument for the three most significant changes in food due to technology. You can only pick three as the MOST important, but you should mention lots of important factors that go along with those to show what you've learned in the course. We'll talk more about strategies for this option the last week of class
