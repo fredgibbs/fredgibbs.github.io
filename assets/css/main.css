@@ -4,18 +4,18 @@
 /*
 /*****************************************************************************/
 
-@import url('https://fonts.googleapis.com/css?family=Arimo:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Lato');
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
-@import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i');
 
 @media screen {
 
 body {
-  margin-top:5rem;
   background-color: #FEFEFE;
-  font: 1.1rem/1.5rem 'Arimo', sans-serif;
+  font: 1.2rem/1.7rem 'Lora', sans-serif; //posts
   color:#666;
 }
 
@@ -23,15 +23,11 @@ body {
   max-width: 50rem;
 }
 
-.container #syllabus{
-  max-width: 50rem;
-}
-
-
 .navbar {
 background:#FFF;
 opacity: .95;
 box-shadow: 0 3px 4px #ccc;
+margin-bottom:1rem;
 }
 
 a.navbar-brand {
@@ -72,31 +68,6 @@ a.bonus:visited {
 }
 
 
-
-#side-nav {
-  font-size:.8rem;
-  border:1px dotted gray;
-  background-color:#fff;
-  z-index:999;
-  position:fixed;
-}
-
-#side-nav ul.nav {
-  display:compact;
-}
-
-#side-nav .nav>li>a {
-  border:none;
-  line-height:1rem;
-}
-
-#side-nav a.nav-link  {
-  color:#F00;
-}
-
-#side-nav li.active a{
-  color:#0F0;
-}
 
 .alert-heading {
   margin-top:0;
@@ -150,6 +121,11 @@ h4 {
   font-size: 110%;
 }
 
+
+h2 a, h3 a {
+  border:none;
+}
+
 p { margin: 0em 0 1em 0; }
 
 a {
@@ -160,18 +136,9 @@ a {
 a:hover   { color: #a00; }
 a:visited { color: #c60; }
 
-a.nav-link easter-egg  {
-  color:#FEFEFE;
-}
 
-a.nav-link easter-egg:hover {
-  color:#C00;
-}
-
-
-
-h2 a, h3 a {
-  border:none;
+a.project-row {
+border:1px solid #666;
 }
 
 table {
@@ -179,10 +146,6 @@ table {
   font: 100%;
 }
 
-
-a.project-row {
-border:1px solid #666;
-}
 
 img {
   padding:1em;
@@ -588,24 +551,27 @@ text-align:justify;
 }
 
 h2.course-title {
-  font-size: 2.5rem;
+  font-size: 2.3rem;
   border-bottom:1px solid black;
   text-align:right;
   background:#fff;
   color:#333;
 }
 
-.course-img-horiz {
-  width:400px;
-  float:right;
-  padding: 0 0 1em 1em;
 
-}
+/*****************************************************************************/
+/*
+/* Syllabi
+/*
+/*****************************************************************************/
+
 
 #syllabus {
-  font-family: 'Roboto', sans-serif;
-  font-size:.9rem;
-  max-width:70rem;
+  max-width:65rem;
+  background-color: #FEFEFE;
+  font: 1rem/1.6rem 'Nota Serif', sans-serif;
+  color:#666;
+
 }
 
 #syllabus h2 {
@@ -620,7 +586,7 @@ text-transform: uppercase;
 
 #syllabus h3 {
 text-transform: uppercase;
-font-size:1rem;
+font-size:1.2rem;
 margin: 1.5rem 0 .3rem 0;
 }
 
@@ -638,11 +604,6 @@ margin: 1.5rem 0 .3rem 0;
   margin-bottom:0;
 }
 
-
-.duedate {
-  color:#990000;
-  text-transform: uppercase;
-}
 
 /*****************************************************************************/
 /*
@@ -744,12 +705,6 @@ a {
     display:none;
   }
 
-#accordion > *{display:block !important;}
-#accordion-schedule > *{display:block !important;}
-
-#syllabus {
-
-}
 
 #syllabus {
   font-family: 'Roboto', sans-serif;

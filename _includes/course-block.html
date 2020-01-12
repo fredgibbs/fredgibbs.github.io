@@ -3,13 +3,13 @@
     <h2 class="course-title"><a href="{{ include.slug }}">{{ include.title }}</a></h2>
   </div>
 
-  <div class="col-4">
+  <div class="col-12 col-sm-6 col-md-4">
     <img class="course-poster" src="{{ include.poster }}">
   </div>
 
-  <div class="col-8">
+  <div class="col-12 col-sm-6 col-md-8">
     <p class="course-desc">
-      {{ include.desc | markdownify }}
+      {{ include.desc | markdownify | remove: '<p>' | remove: '</p>' }}
     </p>
   </div>
 </div>

@@ -1,29 +1,62 @@
-  <head>
-      <!-- Required meta tags always come first -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-    <title>{{ page.title }}</title>
+  <title>{% if page.title %}{{ page.title | escape }} // {{ site.title | escape }}{% else %}{{ site.title | escape }} // {{ site.tagline | escape }}{% endif %}</title>
 
-    <link rel="shortcut icon" href="http://fredgibbs.net/favicon.ico?v=2" />
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="icon" href="{{site.baseurl}}/favicon.ico">
 
-    <script type="text/javascript" src="/assets/tether-1.3.3/dist/js/tether.js"></script>
-    <script type="text/javascript" src="/assets/js/jquery-3.1.1.js"></script>
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+
+  <!-- jquery UI CSS -->
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 
 
-{% if site.bootstrap == '3.3.7' %}
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-{% else if site.bootstrap == '4.0.0' %}
-<link rel="stylesheet" href="/assets/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.min.css"/>
-<script type="text/javascript" src="/assets/bootstrap-4.0.0-alpha.6-dist/js/bootstrap.min.js"></script>
-{% endif %}
+  {% if page.url == "/map.html" %}
+    <link rel="stylesheet" href="assets/css/leaflet.css"/>
+    <link rel="stylesheet" href="assets/css/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="assets/css/leaflet-sidebar.css"/>
+    <style>
+        body {
+            padding: 0;
+            margin: 0;
+        }
+        html, body, #map {
+            height: 100%;
+            width: 100%;
+        }
+        #sidebar-content, #sidebar-title {
+            word-break: break-word;
+            margin-right: 40px;
+        }
+    </style>
+  {% else %}
+  <!-- Slick carousel CSS -->
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css"/>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.4/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.4/dist/jquery.fancybox.min.js"></script>
+    <!-- core juxtapose.js CSS -->
+    <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
 
-    <link rel="stylesheet" href="/assets/css/pygments.css"/>
-    <link rel="stylesheet" href="/assets/css/main.css"/>
+    <!-- bigfoot.js (for fancy non-footnotes with auto numbering) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot-number.css" >
+
+  {% endif %}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" />
+
+
+  <!-- default CSS-->
+  <link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">
+
+
+
 
   </head>

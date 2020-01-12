@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
 {% include header.html %}
 
-<body data-spy="scroll" data-target="#side-nav" data-offset="50">
+<body>
 	{% if page.header != nil  %}
 	 {% include nav-course-generic.html %}
 	{% else %}
@@ -12,21 +12,13 @@
 
 	<div class="container">
 		{{ content }}
-		{% include footer.html %}
 	</div> <!-- /container -->
 
-	<script>
-		$( document ).ready(function() {
-			console.log("doc ready");
-			//$('#body').scrollspy({ target: '#navbar-side' });
-			//console.log("loaded spy");
-			$('#side-nav').on('activate.bs.scrollspy', function () {
-			  	alert("spied");
-			});
-			//$('#side-nav').scrollspy();
-		});
-	</script>
+		{% include footer.html %}
+
+		{% include bottom-js.html %}
+
+		{% include google-analytics.html %}
 
 </body>
-
 </html>
