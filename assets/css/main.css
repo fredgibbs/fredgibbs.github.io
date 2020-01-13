@@ -15,7 +15,7 @@
 
 body {
   background-color: #FEFEFE;
-  font: 1.2rem/1.7rem 'Lora', sans-serif; //posts
+  font: 1.2rem/1.8rem 'Lora', serif;
   color:#666;
 }
 
@@ -23,8 +23,38 @@ body {
   max-width: 50rem;
 }
 
+a.nav-link, a.nav-link:visited, a.bonus, a.bonus:visited  {
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: 0;
+  font-size: .9rem;
+  color:#666;
+}
+
+a.bonus {
+  color:#FEFEFE;
+}
+
+a.bonus:visited {
+  color:#FEFEFE;
+}
+
+.alert-heading {
+  margin-top:0;
+}
+
+.alert p {
+  margin-bottom:0;
+}
+
+.alert ul {
+  list-style-type:circle;
+}
+
+
 .navbar {
-background:#FFF;
+background:#efefef;
 opacity: .95;
 box-shadow: 0 3px 4px #ccc;
 margin-bottom:1rem;
@@ -34,7 +64,8 @@ a.navbar-brand {
   text-transform: lowercase;
   color:#F60;
   border:none;
-  font-size:1rem;
+  font-size:1.2rem;
+  font-family:'Oswald'
 }
 
 .navbar-light .navbar-nav .nav-link{
@@ -50,36 +81,6 @@ a.navbar-brand {
 }
 
 
-a.nav-link, a.nav-link:visited, a.bonus, a.bonus:visited  {
-  font-family: 'Roboto', sans-serif;
-  text-transform: uppercase;
-  text-decoration: none;
-  border: 0;
-  font-size: .8rem;
-  color:#666;
-}
-
-a.bonus {
-  color:#FEFEFE;
-}
-
-a.bonus:visited {
-  color:#FEFEFE;
-}
-
-
-
-.alert-heading {
-  margin-top:0;
-}
-
-.alert p {
-  margin-bottom:0;
-}
-
-.alert ul {
-  list-style-type:circle;
-}
 
 #syllabus .alert li {
   margin-left:.2rem;
@@ -94,7 +95,7 @@ color:#000000;
 
 h1 {
   font-size: 1.6rem;
-  margin:0em 0 .5rem 0;
+  margin:1rem 0 .5rem 0;
 }
 
 h2 {
@@ -161,7 +162,6 @@ ul {
 }
 
 
-
 .alert ul {
   margin-bottom:0;
 }
@@ -188,65 +188,26 @@ ul {
 
 /*****************************************************************************/
 /*
-/* Site
+/* Footer
 /*
 /*****************************************************************************/
 
-
-.site {
-  text-align: left;
-  line-height: 1.8em;
-  padding:0 1em 0 1em;
-  margin-top: 4em;
+footer {
+  font: 1rem/1.6rem 'Nota Serif', sans-serif;
+  background:#eee;
+  opacity: .95;
+  box-shadow: 3px 0 4px #ccc;
+  margin-bottom:0;
 }
 
-.site .meta {
-  color: #aaa;
-  margin:0 0 4px 0;
-  line-height: 1em;
-  font-size: 90%;
+footer ul {
+  margin-left:0px
 }
 
-.footer {
-  padding: 1em 0;
-  font-family: 'Roboto', sans-serif;
-  font-size: 90%;
-  color: #999;
-  border-top: 3px solid #eee;
-  margin-top: 2em;
-  overflow: hidden;
-}
-
-.footer .contact {
-  float: left;
-  margin-right: 3em;
-}
-
-.footer .contact a {
-  color: #8085C1;
-}
-
-.footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.footer .rss img {
-  border: none;
-}
-
-.footer a {
+footer a {
   border:none;
 }
 
-img.footer-icon {
-  height:22px;
-  vertical-align:middle;
-  padding:0;
-  margin:0;
-  border:none;
-}
 
 
 /*****************************************************************************/
@@ -254,7 +215,6 @@ img.footer-icon {
 /* Homepage
 /*
 /*****************************************************************************/
-
 
 .homename {
   font: 3rem 'Roboto', sans-serif;
@@ -474,7 +434,6 @@ figcaption.raw {
 /*
 /*****************************************************************************/
 
-
 .poster-row {
   text-align: center;
   margin-bottom: 4em;
@@ -484,7 +443,6 @@ figcaption.raw {
   padding:1em;
   border:1px solid #ccc;
   box-shadow: 2px 2px 5px #888;
-
 }
 
 .vertical {
@@ -564,7 +522,6 @@ h2.course-title {
 /* Syllabi
 /*
 /*****************************************************************************/
-
 
 #syllabus {
   max-width:65rem;

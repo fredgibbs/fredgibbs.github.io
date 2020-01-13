@@ -18,6 +18,7 @@ While there seems to be a rapidly increasing number of student-driven digital hi
 
 With an emphasis on simplicity, sustainability, and thorough documentation, this project seeks to develop and maintain a jumping off point for public digital history projects with GitHub and GitHub Pages. You can check out the [latest version of Jekylton](https://github.com/fredgibbs/jekylton) in my repository and use it as a template for a new project.
 
+[A brief set of slides](http://fredgibbs.net/presentations/ghi/) provides more detail.
 
 
 ### Minor / Certificate in Digital Heritage Studies
