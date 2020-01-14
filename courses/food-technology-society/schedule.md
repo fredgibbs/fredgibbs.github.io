@@ -30,7 +30,7 @@ Today we'll review the syllabus, course aims, assignments, Zotero, and general p
 ### Jan 23
 The point of this coupling of readings is to canvas the broad spectrum of visions of food production---one a global lab-driven research effort, and the other centered on the idyllic agrarian yeoman. **Some discussion questions for class: What's the difference between food grown in the ground and food produced in the lab? Does all food boil down to chemistry? Is the food production system described by Warner antithetical to Jefferson's vision, or evidence of its success?**
 
-- Melanie Warner, _Pandora's Lunchbox_, xiii--xix; 1--20 (Weird Science). This is a super quick read. [[PDF](readings/201708210919.pdf)].
+- Melanie Warner, _Pandora's Lunchbox_, xiii--xix; 1--20 (Weird Science). This is a super quick read.
 - Jennifer Wallach, _How America Eats_, 89--100 (Chapter 4: Technology and Taste).
 
 #### Background to skim
@@ -68,7 +68,7 @@ The point of this coupling of readings is to canvas the broad spectrum of vision
 - Anna Zeide, _Canned_, 163--194.
 
 {% include alert.html class='danger' title='DUE: Book Review' text="
-Come to class with your book review. Consult the [Book Review Writing Guide](http://fredgibbs.net/courses/etc/book-review-guide.html).
+Come to class with your book review. Consult the [Book Review Writing Guide](book-review-guide).
 "%}
 
 
@@ -92,7 +92,7 @@ Come to class with your book review. Consult the [Book Review Writing Guide](htt
 - Carolyn Thomas Peña, _Empty Pleasure_, Chapter 1: 13--38.
 
 {% include alert.html class='danger' title='DUE: Ad analysis' text="
-Come to class with your early newspaper ad analysis. Consult the [Ad Analysis Writing Guide](http://fredgibbs.net/courses/food-technology-society/newspaper-ads.html).
+Come to class with your early newspaper ad analysis. Consult the [Ad Analysis Writing Guide](newspaper-ads-guide).
 "%}
 
 
@@ -122,7 +122,7 @@ Come to class with your early newspaper ad analysis. Consult the [Ad Analysis Wr
 - Kendra Smith-Howard, _Pure and Modern Milk_, 147--166.
 
 {% include alert.html class='danger' title='DUE: Book Review' text="
-Come to class with your book review. Consult the [Book Review Writing Guide](http://fredgibbs.net/courses/etc/book-review-guide.html).
+Come to class with your book review. Consult the [Book Review Writing Guide](book-review-guide).
 "%}
 
 
@@ -168,7 +168,7 @@ Come to class with your book review. Consult the [Book Review Writing Guide](htt
 
 ### Apr 14
 {% include alert.html class='danger' title='DUE: Executive Summary' text="
-Come to class with your executive summaries of the rise of convenience foods as discussed in the course so far. As discussed, excellent summary will draw widely from relevant readings and class discussions. Consult the [Executive Summary Writing Guide](/courses/etc/exec-summary-writing-guide.html).
+Come to class with your executive summaries of the rise of convenience foods as discussed in the course so far. As discussed, excellent summary will draw widely from relevant readings and class discussions. Consult the [Executive Summary Writing Guide](exec-summary-guide).
 "%}
 
 - No required reading for today, but start reading ahead for Thursday
@@ -195,11 +195,7 @@ Come to class with your executive summaries of the rise of convenience foods as 
 ## Natural Progress
 
 ### Apr 28
-{% include alert.html class='danger' title='DUE: GMO safety analysis' text="
-Bring to class a ~800 word critique of a website that discusses whether GMOs are safe (just Google 'are GMOs safe' or something similar). Questions to consider in your essay:
-What's the agenda? How does it make its point? How is it convincing? How are they misleading? What kinds of assumptions does the author make? What issues are NOT raised that should be?
-
-As with all your assignments, the goal is to put the course to use in addressing 'real-world' discussions about food production issues. The best essays will draw together various themes from the course.
+{% include alert.html class='danger' title='DUE: GMO website analysis' text="You'll critique a website that discusses whether GMOs are safe. Consult the [website analysis guide](website-analysis-guide). As with all your assignments, the goal is to put the course to use in addressing 'real-world' discussions about food production issues. The best essays will draw together various themes from the course.
 "%}
 
 - LECTURE: What is natural food?
@@ -223,7 +219,7 @@ As with all your assignments, the goal is to put the course to use in addressing
 * Steve Ettlinger, _Twinkie, Deconstructed_, skim 13--28; 29--44.
 
 {% include alert.html class='danger' title='DUE: Executive Summaries' text="
-Come to class with your executive summary of how the readings for today intersect. Consult the [Executive Summary Writing Guide](/courses/etc/exec-summary-writing-guide.html).
+Come to class with your executive summary of how the readings for today intersect. Consult the [Executive Summary Writing Guide](exec-summary-guide).
 "%}
 
 
