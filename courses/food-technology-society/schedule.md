@@ -28,14 +28,14 @@ Today we'll review the syllabus, course aims, assignments, Zotero, and general p
 
 
 ### Jan 23
-The point of this coupling of readings is to canvas the broad spectrum of visions of food production---one a global lab-driven research effort, and the other centered on the idyllic agrarian yeoman. **Some discussion questions for class: What's the difference between food grown in the ground and food produced in the lab? Does all food boil down to chemistry? Is the food production system described by Warner antithetical to Jefferson's vision, or evidence of its success?**
+**Some discussion questions for class:**  What do you think of Warner's definition of *processed food*? What are the aspirations of food scientists? How are economies of scale intimately tied to our understanding of natural food? What are key transportation developments that influenced what and how we eat? What's the difference between food grown in the ground and food produced in the lab? Does all food boil down to chemistry?
 
 - Melanie Warner, _Pandora's Lunchbox_, xiii--xix; 1--20 (Weird Science). This is a super quick read.
-- Jennifer Wallach, _How America Eats_, 89--100 (Chapter 4: Technology and Taste).
+- Jennifer Wallach, _How America Eats_, 89--100 (Chapter 4: Technology and Taste; notice the chapter goes to 110, so don't read the whole PDF).
 
 #### Background to skim
 - Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine* 34 (May 1887): 59--74.
-*Skim but don't totally skip* the science details. What’s the point of all of it? How does metaphor play a role? What larger cultural phenomenon does this article represent?
+*Skim but don't totally skip* the science details. What’s the point of all of it? How does metaphor play a role? Why?
 
 
 
