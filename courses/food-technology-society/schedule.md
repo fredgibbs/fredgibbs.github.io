@@ -42,7 +42,13 @@ Today we'll review the syllabus, course aims, assignments, Zotero, and general p
 ## Natural and Pure Food
 
 ### Jan 28
-- Nicholas Bauch, _A Geography of Digestion_, 46--76 (Scientific Eating) and 77--101 (Flaked Cereal) [[ONLINE](http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1367888&site=ehost-live&scope=site&ebv=EB&ppid=pp_46)]
+- Nicholas Bauch, _A Geography of Digestion_, 77--101 (Flaked Cereal) [[ONLINE](http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1367888&site=ehost-live&scope=site&ebv=EB&ppid=pp_46)]
+- Nadia Berenstein, [Clean Label's Dirty Little Secret](https://newfoodeconomy.org/clean-label-dirty-little-secret/).
+
+
+#### Background to skim
+- Nicholas Bauch, _A Geography of Digestion_, 46--76 (Scientific Eating)  [[ONLINE](http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1367888&site=ehost-live&scope=site&ebv=EB&ppid=pp_46)]
+
 
 ### Jan 30
 - Ann Vileisis, _Kitchen Literacy_, 96--125 (chap. 5: "A new longing for nature").
