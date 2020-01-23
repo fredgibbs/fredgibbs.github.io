@@ -11,7 +11,7 @@ section: home
 - 3 Credit Hours
 - T,Th 9:30 - 10:45
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
-- Office Hours: T,Th 11-1
+- Student Hours: T,Th 12:30-2:00 and appointment
 
 ## Course Description
 This course explores the relationship between food, food production, technology, and society. Taking chronological and thematic approaches simultaneously, we'll look at the impact of science and technology on food production, processing, and distribution (such as canning, refrigeration, GMOs, techno-foods). We’ll also put these developments in larger social, cultural, and demographic contexts, including industrialization, urbanization, the growing divide between food producers and consumers, the rise of global food corporations, and governmental regulation. Even more broadly, we identify connections between agriculture, ecology, consumerism, capitalism, media, politics, and the history of science and medicine.
@@ -23,10 +23,10 @@ Note at the top of the page, the link to the schedule page of the syllabus: [htt
 
 ## Student Learning Outcomes
 - Articulate the history of the US food system and its relationship with technological developments
-- Think broadly and critically about how food is produced and how technological improvements have altered food systems
+- Think broadly and critically about how food is produced and how technological improvements have altered food systems and our relationship to food
 - Articulate clear arguments about the intersection of agriculture, consumerism, environmental and population health
 - Understand modern technological developments with respect to food in historical context
-
+- Critically evaluate argument and evidence in any food-related writing
 
 ## Work Requirements and Grading
 - Thorough preparedness and engaged participation in most every class meeting. This is a class that's focused on cultivating different perspectives about how we can think about food, technology, and society---not just memorizing and regurgitating supposedly important "facts". (16 points; roughly .5 points per class)
