@@ -42,6 +42,9 @@ Today we'll review the syllabus, course aims, assignments, Zotero, and general p
 ## Natural and Pure Food
 
 ### Jan 28
+**Some discussion questions for class:**
+Why were Graham Crackers invented? Why were they bland? What's a sanitarium? What were they for? To what extent were corn flakes invented by accident? T/F: Most of the food items in the health reform cuisine emerged as the result of a particular vision of what food should be. Do clean labels make products healthier? Is hummus a natural food? Can there ever be a satisfactory label? 
+
 - Nicholas Bauch, _A Geography of Digestion_, 77--101 (Flaked Cereal) [[ONLINE](http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1367888&site=ehost-live&scope=site&ebv=EB&ppid=pp_46)]
 - Nadia Berenstein, [Clean Label's Dirty Little Secret](https://newfoodeconomy.org/clean-label-dirty-little-secret/).
 
