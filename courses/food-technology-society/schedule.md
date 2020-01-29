@@ -43,7 +43,7 @@ Today we'll review the syllabus, course aims, assignments, Zotero, and general p
 
 ### Jan 28
 **Some discussion questions for class:**
-Why were Graham Crackers invented? Why were they bland? What's a sanitarium? What were they for? To what extent were corn flakes invented by accident? T/F: Most of the food items in the health reform cuisine emerged as the result of a particular vision of what food should be. Do clean labels make products healthier? Is hummus a natural food? Can there ever be a satisfactory label? 
+Why were Graham Crackers invented? Why were they bland? What's a sanitarium? What were they for? To what extent were corn flakes invented by accident? T/F: Most of the food items in the health reform cuisine emerged as the result of a particular vision of what food should be. Do clean labels make products healthier? Is hummus a natural food? Can there ever be a satisfactory label?
 
 - Nicholas Bauch, _A Geography of Digestion_, 77--101 (Flaked Cereal) [[ONLINE](http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1367888&site=ehost-live&scope=site&ebv=EB&ppid=pp_46)]
 - Nadia Berenstein, [Clean Label's Dirty Little Secret](https://newfoodeconomy.org/clean-label-dirty-little-secret/).
@@ -54,7 +54,10 @@ Why were Graham Crackers invented? Why were they bland? What's a sanitarium? Wha
 
 
 ### Jan 30
+How were conceptions of and relationships to nature changing toward the end of the 19th century? Did people want to get back to nature? How could they? What were consequences for how food was represented and marketed? There might be a quiz covering the first two weeks of class. Refreshing your mind of the readings and discussions could be useful.
+
 - Ann Vileisis, _Kitchen Literacy_, 96--125 (chap. 5: "A new longing for nature").
+- _Medical Adviser_ 17 (1824), "Dyspepsia" (258 - top of 260). [[PDF](medical-adviser.pdf)]
 - Upton Sinclair, _The Jungle_, 97--105; 140--46 (chapters 9 and 14).
 
 
