@@ -57,7 +57,7 @@ Why were Graham Crackers invented? Why were they bland? What's a sanitarium? Wha
 How were conceptions of and relationships to nature changing toward the end of the 19th century? Did people want to get back to nature? How could they? What were consequences for how food was represented and marketed? There might be a quiz covering the first two weeks of class. Refreshing your mind of the readings and discussions could be useful.
 
 - Ann Vileisis, _Kitchen Literacy_, 96--125 (chap. 5: "A new longing for nature").
-- _Medical Adviser_ 17 (1824), "Dyspepsia" (258 - top of 260). [[PDF](medical-adviser.pdf)]
+- _Medical Adviser_ 17 (1824), "Dyspepsia" (258 - top of 260). 
 - Upton Sinclair, _The Jungle_, 97--105; 140--46 (chapters 9 and 14).
 
 
