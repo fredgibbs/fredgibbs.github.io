@@ -57,7 +57,7 @@ Why were Graham Crackers invented? Why were they bland? What's a sanitarium? Wha
 How were conceptions of and relationships to nature changing toward the end of the 19th century? Did people want to get back to nature? How could they? What were consequences for how food was represented and marketed? There might be a quiz covering the first two weeks of class. Refreshing your mind of the readings and discussions could be useful.
 
 - Ann Vileisis, _Kitchen Literacy_, 96--125 (chap. 5: "A new longing for nature").
-- _Medical Adviser_ 17 (1824), "Dyspepsia" (258 - top of 260). 
+- _Medical Adviser_ 17 (1824), "Dyspepsia" (258 - top of 260).
 - Upton Sinclair, _The Jungle_, 97--105; 140--46 (chapters 9 and 14).
 
 
@@ -65,6 +65,16 @@ How were conceptions of and relationships to nature changing toward the end of t
 ## Canned I
 
 ### Feb 4
+Note you have a bigger chunk of reading for Thursday than Tuesday, so read ahead over the weekend!
+
+For Tuesday, we'll try to identify and discuss the key themes and developments in Chapter One. It's titled "Condensed Milk", but the chapter covers a lot of significant historical changes. Who are the main actors? What's going on?
+
+As with all reading assignments, but especially with our book sections, read primarily for the the big picture and skim the details when you've got the main idea. The historical details are there to give credence to the broader historical claims, not because you need to memorize them.
+
+As usual, I'll cycle through some 3x5 cards to randomly sample everyone's familiarity with the readings. As you have all seen, it's obvious from this exercise who has read and who hasn't.
+
+Additionally, we'll talk about what kinds of topics or ideas ARE NOT addressed by the author that we have discussed in class so far.
+
 - Anna Zeide, _Canned_, 1--40.
 
 ### Feb 6
