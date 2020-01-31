@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Unsolicited Advice on Writing a Personal Statement"
+author: Fred Gibbs
+description: Advice for writing personal statements for graduate or professional school.
 date: 2019-09-04
 ---
 Hello Student who has asked for a letter of recommendation!
