@@ -1,8 +1,12 @@
 ---
+layout: syllabus
 title: Writing Guide
-layout: single-col
-date: 2019-11-04
+term: Fall 2019
+number: HIST 300-012
+section: links-guides
+header: landscape
 ---
+
 
 ## So What?
 Make sure the essay very near both the beginning and the end makes it very clear what the reader is to take away as the main points. In other words, the essay needs to very obviously answer the SO WHAT question. This is something you need to do THROUGHOUT your essay in different ways, not just once in the intro.

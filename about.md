@@ -17,7 +17,7 @@ More on these projects, as well as past efforts can be found on [my project page
 
 My earlier research focused on premodern toxicology, particularly late medieval and early modern medical literature on poison. I wrote a really boring [book](https://www.routledge.com/Poison-Medicine-and-Disease-in-Late-Medieval-and-Early-Modern-Europe/Gibbs/p/book/9781472420398) about it. But it's really useful if you're into that sort of thing.
 
-When I'm not experimenting with new digital essay formats, I like trying to grow food, start (and occasionally finish) DIY remodeling projects, and make awkward [posters](/posters).
+When I'm not experimenting with new digital essay formats, I like trying to grow food, start (and occasionally finish) DIY remodeling projects, and make awkward [event flyers](/portfolio/flyers).
 
 
 # History

@@ -23,6 +23,14 @@ body {
   max-width: 50rem;
 }
 
+
+/*****************************************************************************/
+/*
+/* Nav bar
+/*
+/*****************************************************************************/
+
+
 a.nav-link, a.nav-link:visited, a.bonus, a.bonus:visited  {
   font-family: 'Roboto', sans-serif;
   text-transform: uppercase;
@@ -32,26 +40,9 @@ a.nav-link, a.nav-link:visited, a.bonus, a.bonus:visited  {
   color:#666;
 }
 
-a.bonus {
+a.bonus, a.bonus:visited {
   color:#FEFEFE;
 }
-
-a.bonus:visited {
-  color:#FEFEFE;
-}
-
-.alert-heading {
-  margin-top:0;
-}
-
-.alert p {
-  margin-bottom:0;
-}
-
-.alert ul {
-  list-style-type:circle;
-}
-
 
 .navbar {
 background:#efefef;
@@ -82,15 +73,15 @@ a.navbar-brand {
 
 
 
-#syllabus .alert li {
-  margin-left:.2rem;
-  margin-bottom:0;
-  padding-bottom:0;
-}
+/*****************************************************************************/
+/*
+/* Typography
+/*
+/*****************************************************************************/
 
 h1,h2,h3,h4,h5 {
-font-family: 'Oswald';
-color:#000000;
+  font-family: 'Oswald';
+  color:#000000;
 }
 
 h1 {
@@ -105,7 +96,6 @@ h2 {
   background:#666;
   margin:2rem 0 .5rem 0;
   padding:.3rem;
-
 }
 
 h3 {
@@ -122,11 +112,6 @@ h4 {
   font-size: 110%;
 }
 
-
-h2 a, h3 a {
-  border:none;
-}
-
 p { margin: 0em 0 1em 0; }
 
 a {
@@ -134,81 +119,15 @@ a {
   border-bottom:1px dotted;
   color: #f90;
 }
+
 a:hover   { color: #a00; }
+
 a:visited { color: #c60; }
-
-
-a.project-row {
-border:1px solid #666;
-}
-
-table {
-  font-size: inherit;
-  font: 100%;
-}
-
-
-img {
-  padding:1em;
-}
-
-a.thumbnail {
-  border-bottom:0px;
-}
 
 ul {
   margin:0 0 2em 1em;
   padding:0;
 }
-
-
-.alert ul {
-  margin-bottom:0;
-}
-
-.caps {
-  text-transform: uppercase;
-  font-size: 80%;
-}
-
-.clear {
-  clear:both;
-}
-
-
-.right {
-  float:right;
-}
-
-.left {
-  float:left;
-}
-
-
-
-/*****************************************************************************/
-/*
-/* Footer
-/*
-/*****************************************************************************/
-
-footer {
-  font: 1rem/1.6rem 'Nota Serif', sans-serif;
-  background:#eee;
-  opacity: .95;
-  box-shadow: 3px 0 4px #ccc;
-  margin-bottom:0;
-}
-
-footer ul {
-  margin-left:0px
-}
-
-footer a {
-  border:none;
-}
-
-
 
 /*****************************************************************************/
 /*
@@ -270,7 +189,6 @@ ul.posts span {
   margin-bottom:1em;
 }
 
-
 .post h3 {
   font-size:1.4rem;
 }
@@ -279,8 +197,6 @@ ul.posts span {
   font-size:1rem;
   color:#ccc;
 }
-
-
 
 .post pre {
   border: 1px solid #ddd;
@@ -343,7 +259,6 @@ blockquote p {
   margin:0;
 }
 
-
 .has-pullquote:before, .has-pullquote-left:before {
   /* Reset metrics. */
   padding: 0em;
@@ -376,6 +291,18 @@ blockquote p {
   line-height: 1.2em;
   font-family: 'Arimo', sans-serif;
   display:block;
+}
+
+
+/*****************************************************************************/
+/*
+/* Images
+/*
+/*****************************************************************************/
+
+
+img {
+  padding:1em;
 }
 
 figure {
@@ -456,57 +383,9 @@ figcaption.raw {
 
 /*****************************************************************************/
 /*
-/* Publications
-/*
-/*****************************************************************************/
-.publications ul li {
-  line-height: 1.5em;
-  list-style-type: none;
-  margin-bottom: 1.5em;
-}
-
-.pub-links {
-  font-family: 'Roboto', sans-serif;
-  font-size: 80%;
-}
-
-.publications h1 {
-  border-bottom:1px dotted #666;
-  margin-bottom:.5em;
-  text-transform: uppercase;
-}
-
-
-
-/*****************************************************************************/
-/*
 /* Courses
 /*
 /*****************************************************************************/
-
-#courses + h2:first-of-type {
-  background:#f90;
-}
-
-.course-desc {
-font: 1rem/1.5rem 'Arimo', sans-serif;
-text-align:justify;
-}
-
-.row.course {
-  margin-bottom:2em;
-}
-
-.course-img {
-  float:right;
-  padding: 0 0 1em 1em;
-  width:300px;
-}
-
-.course-poster {
-  width:100%;
-  padding:0;
-}
 
 h2.course-title {
   font-size: 2.3rem;
@@ -516,10 +395,23 @@ h2.course-title {
   color:#333;
 }
 
+p.course-desc {
+  font: 1rem/1.5rem 'Arimo', sans-serif;
+  text-align:justify;
+}
+
+img.course-poster {
+  width:100%;
+  padding:0;
+}
+
+.row.course {
+  margin-bottom:2em;
+}
 
 /*****************************************************************************/
 /*
-/* Syllabi
+/* Syllabus
 /*
 /*****************************************************************************/
 
@@ -528,7 +420,6 @@ h2.course-title {
   background-color: #FEFEFE;
   font: 1rem/1.6rem 'Nota Serif', sans-serif;
   color:#666;
-
 }
 
 #syllabus h2 {
@@ -560,6 +451,26 @@ margin: 1.5rem 0 .3rem 0;
 #syllabus li li {
   margin-bottom:0;
 }
+
+.alert-heading {
+  margin-top:0;
+}
+
+.alert p {
+  margin-bottom:0;
+}
+
+.alert ul {
+  list-style-type:circle;
+  margin-bottom:0;
+}
+
+#syllabus .alert li {
+  margin-left:.2rem;
+  margin-bottom:0;
+  padding-bottom:0;
+}
+
 
 
 /*****************************************************************************/
@@ -600,6 +511,31 @@ margin: 1.5rem 0 .3rem 0;
   padding:0;
   color:#999;
 }
+
+
+
+/*****************************************************************************/
+/*
+/* Footer
+/*
+/*****************************************************************************/
+
+footer {
+  font: 1rem/1.6rem 'Nota Serif', sans-serif;
+  background:#eee;
+  opacity: .95;
+  box-shadow: 3px 0 4px #ccc;
+  margin-bottom:0;
+}
+
+footer ul {
+  margin-left:0px
+}
+
+footer a {
+  border:none;
+}
+
 
 
 } /* end media screen */

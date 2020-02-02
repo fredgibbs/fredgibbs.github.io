@@ -6,8 +6,17 @@
 
   <title>{% if page.title %}{{ page.title | escape }} // {{ site.title | escape }}{% else %}{{ site.title | escape }} // {{ site.tagline | escape }}{% endif %}</title>
 
-  <meta name="description" content="">
-  <meta name="author" content="">
+  <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+
+  <meta name="description" content="{{ page.description }}">
+  <meta name="DCTERMS.title" content="{{ page.title }}">
+  <meta name="DCTERMS.creator" content="{{ page.author }}">
+  <meta name="DCTERMS.type" content="blogPost">
+  <meta name="DCTERMS.date" content="{{ page.date }}">
+  <meta name="DCTERMS.source" content="fredgibbs.net" />
+  <meta name="DCTERMS.language" content="en" />
+  <meta name="DCTERMS.license" content="https://creativecommons.org/licenses/by-nc/4.0/legalcode" />
+
   <link rel="icon" href="{{site.baseurl}}/favicon.ico">
 
   <!-- Bootstrap core CSS -->
@@ -17,7 +26,6 @@
 
   <!-- jquery UI CSS -->
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-
 
   {% if page.url == "/map.html" %}
     <link rel="stylesheet" href="assets/css/leaflet.css"/>
@@ -38,9 +46,6 @@
         }
     </style>
   {% else %}
-  <!-- Slick carousel CSS -->
-    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css"/>
 
     <!-- core juxtapose.js CSS -->
     <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
@@ -50,13 +55,10 @@
 
   {% endif %}
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" />
-
+  <!-- fancybox CSS for posters -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" />
 
   <!-- default CSS-->
   <link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">
-
-
-
 
   </head>

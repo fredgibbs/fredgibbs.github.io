@@ -37,19 +37,20 @@ Physics
 
 
 ## Recent Courses
-* [Digital History](http://fredgibbs.net/courses/digital-history)
-* [Food, Diet, and Health](http://fredgibbs.net/courses/food-diet-health)
 * [Food, Technology, and Society](http://fredgibbs.net/courses/food-technology-society)
 * [Historiography](http://fredgibbs.net/courses/historiography)
+* [Landscape and Memory](http://fredgibbs.net/courses/landscape-memory)
+* [History of American Food](http://fredgibbs.net/courses/american-food)
+* [Digital History](http://fredgibbs.net/courses/digital-history)
+* [Food, Diet, and Health](http://fredgibbs.net/courses/food-diet-health)
 * [Digital Mapping](http://fredgibbs.net/courses/digital-mapping)
-* [History Plague](http://fredgibbs.net/courses/metaphor-of-plague)
 
 
 
 ## Publications
 
 ### Monograph
-[_Poison, Medicine, and Disease in Late Medieval and Early Modern Europe_](https://www.routledge.com/Poison-Medicine-and-Disease-in-Late-Medieval-and-Early-Modern-Europe/Gibbs/p/book/9781472420398).  Routledge, July 2018.
+[_Poison, Medicine, and Disease in Late Medieval and Early Modern Europe_](https://www.routledge.com/Poison-Medicine-and-Disease-in-Late-Medieval-and-Early-Modern-Europe/Gibbs/p/book/9781472420398).  Routledge, 2018.
 
 
 ### Articles in Refereed Journals
@@ -104,20 +105,22 @@ _Histories of the Future_ ([histscifi.com](http://histscifi.com))
 
 
 ### Reviews
+Ole Peter Grell, Andrew Cunningham, and Jon Arrizabalaga (eds.), _"It All Depends on the Dose": Poison and Medicines in European History_. Routledge, 2018. In _Bulletin of the History of Medicine_ 93.3 (2019): 451-453.
+
 Susanne Leikam, _Framing Spaces in Motion: Tracing Visualizations of Earthquakes into
-Twentieth-Century San Francisco._ Heidelberg: Universitätsverlag, 2015. In _Journal of American History_ 103.4 (March 2017): 1067-68.
+Twentieth-Century San Francisco._ Universitätsverlag, 2015. In _Journal of American History_ 103.4 (March 2017): 1067-68.
 
-Isla Fay, _Health and the City: Disease, Environment and Government in Norwich, 1200–1575_. York: York Medieval Press, 2015. In *Social History of Medicine* 29.4 (February 2016): 844-45.
+Isla Fay, _Health and the City: Disease, Environment and Government in Norwich, 1200–1575_. York Medieval Press, 2015. In *Social History of Medicine* 29.4 (February 2016): 844-45.
 
-Massimo Montanari, _Medieval Tastes: Food, Cooking, and the Table_. New York: Columbia University Press, 2015. In _Agricultural History_ 90.2 (2016): 248-9.
+Massimo Montanari, _Medieval Tastes: Food, Cooking, and the Table_. Columbia University Press, 2015. In _Agricultural History_ 90.2 (2016): 248-9.
 
-Luke Demaitre, _Medieval Medicine: The Art of Healing from Head to Toe_. Santa Barbara: Praeger, 2013. In _Journal of the History of Medicine and Allied Sciences_ 69.1 (2014): 667-9.
+Luke Demaitre, _Medieval Medicine: The Art of Healing from Head to Toe_. Praeger, 2013. In _Journal of the History of Medicine and Allied Sciences_ 69.1 (2014): 667-9.
 
-Nancy G. Siraisi, _Communities of Learned Experience. Epistolary Medicine in the Renaissance_. Baltimore: Johns Hopkins University Press, 2013. In _British Journal of the History of Science_ 47.1 (2014): 178-9.
+Nancy G. Siraisi, _Communities of Learned Experience. Epistolary Medicine in the Renaissance_. Johns Hopkins University Press, 2013. In _British Journal of the History of Science_ 47.1 (2014): 178-9.
 
-Ian Mortimer, _The Dying and the Doctors: the Medical Revolution in Seventeenth Century England_. Woodbridge: Boydell Press, 2009. In _Journal of Social History_ 44.4 (2011): 1289-91.
+Ian Mortimer, _The Dying and the Doctors: the Medical Revolution in Seventeenth Century England_. Boydell Press, 2009. In _Journal of Social History_ 44.4 (2011): 1289-91.
 
-Lawrence M. Principe (ed.), _Chymists and Chymistry_. Edited by . Philadelphia: Chemical Heritage Foundation and Science History Publications, 2007. In _Pharmacy in History_ 50.1 (2008): 34-6.
+Lawrence M. Principe (ed.), _Chymists and Chymistry_. Chemical Heritage Foundation and Science History Publications, 2007. In _Pharmacy in History_ 50.1 (2008): 34-6.
 
 
 ### Encyclopedia Articles

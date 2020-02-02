@@ -1,24 +1,24 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-{% include header.html %}
+	{% include header.html %}
 
-<body>
-	{% if page.header != nil  %}
-	 {% include nav-course-generic.html %}
-	{% else %}
-	  {% include nav.html %}
-{% endif %}
+	<body>
+		{% if page.header != nil  %}
+	 		{% include nav-course-generic.html %}
+		{% else %}
+	  	{% include nav.html %}
+		{% endif %}
 
 	<div class="container">
 		{{ content }}
 	</div> <!-- /container -->
 
-		{% include footer.html %}
+	{% include footer.html %}
 
-		{% include bottom-js.html %}
+	{% include bottom-js.html %}
 
-		{% include google-analytics.html %}
+	{% include google-analytics.html %}
 
 </body>
 </html>

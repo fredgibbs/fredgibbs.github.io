@@ -9,16 +9,14 @@
 		<meta name="description" content="An overview of what the Programming Historian is and why">
 		<meta name="author" content="Fred Gibbs">
 
-		<meta name="apple-mobile-web-app-capable" content="yes" />
-		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
-		<link rel="stylesheet" href="/assets/css/reveal/reveal.css">
-		<link rel="stylesheet" href="/assets/css/reveal/theme/dll.css" id="theme">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reset.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reveal.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/theme/black.css">
 
-		<!-- Code syntax highlighting -->
-		<link rel="stylesheet" href="/assets/js/reveal/lib/css/zenburn.css">
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/lib/css/monokai.css">
 
 		<!-- Printing and PDF exports -->
 		<script>
@@ -224,33 +222,20 @@
 
 		</div>
 
-		<script src="/assets/js/reveal/lib/js/head.min.js"></script>
-		<script src="/assets/js/reveal/js/reveal.js"></script>
+		<script src="/assets/vendor/reveal.js-3.8.0/js/reveal.js"></script>
 
 		<script>
-
-			// Full list of configuration options available at:
-			// https://github.com/hakimel/reveal.js#configuration
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
 			Reveal.initialize({
-				controls: true,
-				progress: true,
-				history: true,
-				center: true,
-
-				transitionSpeed: 'slow',
-				transition: 'slide', // none/fade/slide/convex/concave/zoom
-
-				// Optional reveal.js plugins
 				dependencies: [
-					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
-					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
-					{ src: '../../js/reveal/plugin/zoom-js/zoom.js', async: true },
-					{ src: '../../js/reveal/plugin/notes/notes.js', async: true }
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/markdown/marked.js' },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/markdown/markdown.js' },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/notes/notes.js', async: true },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/highlight/highlight.js', async: true }
 				]
 			});
-
 		</script>
 
 	</body>

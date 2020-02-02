@@ -39,7 +39,11 @@ Working with the National Trails - Intermountain Region (NTIR) Office, and then-
 [_Programming Historian_](http://programminghistorian.org) offers novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate their research. As a general editor from early 2012 to mid 2017, I carefully edited and guided over a half-dozen lessons through the publication process. More importantly, I have focused my efforts on developing and documenting a transparent and sustainable editorial process anchored with free, open source tools and a commitment to open access.
 
 ### Histories of the Future
-This project was an experiment to see if a small academic workshop (on speculative futures in the history of science) could produce and make available a collection of scholarly work in an open access web format that would remain more visible an active than the results (and papers) from a typical academic workshop. Our work lives on at [histscifi.com](http://histscifi.com).
+This project was an experiment to see if a small academic workshop (on speculative futures in the history of science) could produce and make available a collection of scholarly work in an open access web format that would remain more visible an active than the results (and papers) from a typical academic workshop.
+
+I was responsible for designing and building the website, as well as migrating content to a sustainable web format and publishing the essays online. The project is still ongoing, but the project team was pulled in too many different directions b various other obligations, which has unfortunately dissipated energy from this project. But we are proud of what we produced as an experiment for making the work of a one-off workshop openly visible and available for specialists and non-specialists alike.
+
+Our work lives on at [histscifi.com](http://histscifi.com).
 
 ### Metadata Improvement VIA Mapping (MIVIAM)
 This project developed a prototype (funded by the Mellon Foundation) to ease the process of mapping historical data and clean up (inevitably) messy data in the process. MIVIAM's rich user interface allows users to map specific sets of data---about which they have expertise---and thus can easily recognize and correct problems with metadata, thus improving their own maps and making the data more useful for everyone else at the same time.

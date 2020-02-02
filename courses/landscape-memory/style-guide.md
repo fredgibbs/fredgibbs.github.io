@@ -1,8 +1,10 @@
 ---
+layout: syllabus
 title: Style Guide
-author: Fred Gibbs
-layout: default
-date: 2018-11-19
+term: Fall 2019
+number: HIST 300-012
+section: links-guides
+header: landscape
 ---
 
 # Historic Site Style Guide

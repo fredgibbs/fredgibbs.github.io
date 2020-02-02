@@ -1,9 +1,7 @@
 name: fredgibbs
-description: Digital History and Humanities Blog
+description: Personal and academic website for Fred Gibbs || An experimental playground for digital history, digital heritage, critical data, digital mapping, and design.
 url: http://fredgibbs.net
 permalink: :categories/:title
 safe: true
 markdown: kramdown
-
-environment: production
-bootstrap: 4.0.0
+environment: localhost
