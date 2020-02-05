@@ -2,26 +2,26 @@ toc-rows:
   - title: about
     link: about/
     headings:
-      - title: "Hello world!"
+      - title: "hello world!"
         link: "about/#hello-world"
-      - title: "History"
+      - title: "select history"
         link: "about/#history"
-      - title: "Under the hood"
+      - title: "under the screen"
         link: "about/#under-the-hood"
   - title: projects
     link: projects/
     headings:
-      - title: History natural food
+      - title: history of natural food
         link: projects/#the-unnatural-history-of-natural-food
-      - title: Sustainable course website framework
+      - title: sustainable course websites
         link: projects/#towards-a-public-digital-history-website-framework
-      - title: Digital heritage studies
+      - title: digital heritage studies
         link: projects/#digital-heritage-studies
-      - title: Historic trails
+      - title: historic trails
         link: projects/#digital-national-historic-trails
-      - title: Campus histories
+      - title: campus histories
         link: projects/#UNM-campus-histories
-      - title: Historiography guide
+      - title: intro to historiography
         link: projects/#intro-to-historiography
 
   - title: courses
@@ -44,22 +44,22 @@ toc-rows:
     headings:
       - title: QGIS
         link: tutorials/#qgis
-      - title: Data work
+      - title: data work
         link: tutorials/#data-work
-      - title: Digital publishing
+      - title: digital publishing
         link: tutorials/#digital-publishing
-      - title: Set-up
+      - title: set-up
         link: tutorials/#general-programming
   - title: posts
     link: posts/
     headings:
-      - title: Writing a personal statement
+      - title: writing a personal statement
         link: posts/writing-a-personal-statement
-      - title: Reflections from a former PH editor
+      - title: reflections from a former PH editor
         link: posts/reflections-former-PH-editor
-      - title: On digital solitude
+      - title: on digital solitude
         link: posts/on-digital-solitude
-      - title: Visual critique in the humanities
+      - title: visual critique in the humanities
         link: posts/visual-critique-in-the-humanities
   - title: vita
     link: cv/
