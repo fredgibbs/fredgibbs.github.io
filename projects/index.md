@@ -29,8 +29,21 @@ To promote digital research and publishing skills more broadly, faculty and stud
 The DHS grew out of a [Spatial Humanities Working Group](http://spatialhumanities.unm.edu), which helped build connections across disciplinary boundaries by providing an informal setting in which students and faculty across the university can meet to discuss theoretical, conceptual, and methodological questions regarding space and human societies.
 
 
-## Digital Historic Trails
+## Digital National Historic Trails
 Working with the National Trails - Intermountain Region (NTIR) Office, and then-graduate student Guy McClellan, I organized an multidisciplinary [research practicum course](http://fredgibbs.net/courses/trails/) that provides an introduction to the study, interpretation, and significance of the National Historic Trails System, as well as engages students as core contributors to ongoing research projects at the NTIR office. As preparation for research projects, students read about trail historiography, overland migration, gender dynamics on the trail, interactions with native communities, international commerce, and borderlands. The strong public history facet of the course encourages students to grapple with key questions about historic trails and national memory: How does a historic trail retain cultural significance? What are the challenges and strategies in communicating about the trails to a 21st-century audience?
 
-## Is that it?
+
+## UNM Campus Histories
+When walking around campus, it’s easy to accept that the space around us just is, or is as it should be. But the history of the campus tells a different story.
+
+Reflecting on the history of the space around us helps us to become more attune to the power of spatial relationships and to become more conscious consumers and shapers of the environments we inhabit.
+
+
+## Intro to Historiography
+Despite the importance of historiography to anyone interested in history, it's frequently mired in abstract theoretical, philosophical, and methodological jargon. This project showcases the collaborative essays produced by an advanced undergraduate historiography course at the University of New Mexico. The essays collected here take both a chronological and thematic approach to highlighting important continuities and and ruptures in the way people have conceived and produced historical interpretations of the western world.
+
+Our website hopes to build over time an accessible and welcoming guide for new undergraduates to understand the basics and importance of historiography for not only history itself, but more critical civil engagement.
+
+
+## Isn't there more?
 [Read about older project work <i class="fas fa-arrow-circle-right"></i>](old-work)
