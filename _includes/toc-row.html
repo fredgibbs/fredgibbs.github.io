@@ -7,9 +7,13 @@
       {% for heading in row.headings %}
         <a href="{{ heading.link }}">{{ heading.title }}</a>
         {% if forloop.last == false %}
-          <i class="far fa-circle"></i>
+          <i class="fas fa-circle"></i>
         {% endif %}
       {% endfor %}
     </div>
+    <svg class="divider"></svg>
   </div>
+
+
+
 {% endfor %}

@@ -18,8 +18,6 @@ description: Fred Gibbs's website on digital history, community archives, food h
       </div>
     </div>
 
-    <svg id="divider"></svg>
-
     {% include toc-row.html %}
 
   </div>
@@ -29,7 +27,7 @@ description: Fred Gibbs's website on digital history, community archives, food h
   {% include bottom-js.html %}
 
   {% include google-analytics.html %}
-
+<!--
   <script>
     $( document ).ready(function() {
         const svg = document.getElementById('divider');
@@ -45,6 +43,26 @@ description: Fred Gibbs's website on digital history, community archives, food h
         svg.appendChild(node);
     });
   </script>
+-->
+
+
+  <script>
+    $( document ).ready(function() {
+        $('.divider').each(function( index ) {
+          const rc = rough.svg(this);
+          let node =
+          rc.rectangle(0, 0, 1000, 40, {
+            fill: 'gray',
+            fillStyle: 'zigzag',
+            stroke: 'none',
+            hachureAngle: 140, // angle of hachure,
+            hachureGap: 3
+          });
+          this.appendChild(node);
+        });
+    });
+  </script>
+
 
 </body>
 </html>

@@ -12,25 +12,28 @@ toc-rows:
     link: projects/
     headings:
       - title: unnatural food
-        link: projects/#unnatural-food
+        link: projects/#the-unnatural-history-of-natural-foodunnatural-food
+      - title: digital history web framework
+        link: projects/#towards-a-public-digital-history-website-framework
       - title: digital heritage studies
         link: projects/#digital-heritage-studies
-      - title: compago
-        link: projects/#compago
       - title: digital historic trails
         link: projects/#digital-historic-trails
+      - title: intro to historiography
+        link: projects/#intro-to-historiography
+
   - title: courses
     link: courses/
     headings:
-      - title: food technology society
+      - title: food + technology + society
         link: courses/food-technology-society
       - title: american food
         link: courses/american-food
-      - title: "landscape + memory"
+      - title: landscape + memory
         link: courses/landscape-memory
       - title: historiography
         link: courses/historiography
-      - title: history of diet and health
+      - title: diet + health + expertise
         link: courses/food-diet-health
       - title: digital history
         link: courses/digital-history
