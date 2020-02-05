@@ -1,11 +1,14 @@
 ---
-layout: syllabus-top-nav
-title: "Food, Diet, and Heath"
+layout: syllabus
+course-title: "Food, Diet, and Heath"
+course-slug: food-diet-health
 number: HIST 300-007
 term: Fall 2014
 date: 2014-04-16 00:00:00
-slug: food-diet-health
+section: home
 ---
+
+# History of Diet & Health
 
 ### Get Help
 Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    

@@ -8,14 +8,15 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
-@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Righteous');
 
 @media screen {
 
 body {
   background-color: #FEFEFE;
-  font: 1.2rem/1.8rem 'Lora', serif;
+  font: 1.1rem/1.8rem 'Lato', sans-serif;
   color:#666;
 }
 
@@ -33,11 +34,11 @@ body {
 
 a.nav-link, a.nav-link:visited, a.bonus, a.bonus:visited  {
   font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
   text-transform: uppercase;
   text-decoration: none;
   border: 0;
-  font-size: .9rem;
-  color:#666;
+  color:#999;
 }
 
 a.bonus, a.bonus:visited {
@@ -45,18 +46,18 @@ a.bonus, a.bonus:visited {
 }
 
 .navbar {
-background:#efefef;
-opacity: .95;
-box-shadow: 0 3px 4px #ccc;
-margin-bottom:1rem;
+  background:#efefef;
+  opacity: .95;
+  box-shadow: 0 3px 4px #ccc;
+  margin-bottom:1rem;
 }
 
 a.navbar-brand {
-  text-transform: lowercase;
-  color:#F60;
-  border:none;
+  font-family:'Righteous';
   font-size:1.2rem;
-  font-family:'Oswald'
+  text-transform: lowercase;
+  border:none;
+  color:#ccc;
 }
 
 .navbar-light .navbar-nav .nav-link{
@@ -72,7 +73,6 @@ a.navbar-brand {
 }
 
 
-
 /*****************************************************************************/
 /*
 /* Typography
@@ -84,13 +84,25 @@ h1,h2,h3,h4,h5 {
   color:#000000;
 }
 
+h1 a, h2 a, h3 a, h4 a, h5 a, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited  {
+  text-decoration:none;
+  border:none;
+  color:#c60;
+}
+
 h1 {
-  font-size: 1.6rem;
-  margin:1rem 0 .5rem 0;
+  font-size: 2.8rem;
+  margin: 1rem 0;
 }
 
 h2 {
-  font-size: 1.4rem;
+  font-size: 2rem;
+  text-transform:uppercase;
+  margin:2rem 0 .5rem 0;
+}
+
+h2.solid {
+  font-size: 1.6rem;
   text-transform:uppercase;
   color:#fff;
   background:#666;
@@ -99,7 +111,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   margin:1.5rem 0 .5rem 0;
 }
 
@@ -129,6 +141,16 @@ ul {
   padding:0;
 }
 
+.alert-heading {
+  margin-top:0;
+}
+
+.alert ul {
+  list-style-type:circle;
+  margin-bottom:0;
+}
+
+
 /*****************************************************************************/
 /*
 /* Homepage
@@ -136,11 +158,70 @@ ul {
 /*****************************************************************************/
 
 .homename {
-  font: 3rem 'Roboto', sans-serif;
-  letter-spacing:-4px;
+  font: 4rem 'Righteous', sans-serif;
+  letter-spacing:-.3rem;
   color:#990000;
+  text-align:right;
 }
 
+.toc {
+  max-width:800px;
+  font-size:12px;
+}
+
+.toc .row {
+  border-bottom:1px solid #666;
+  margin-bottom:0em;
+}
+
+.toc #divider {
+  margin-top:-1.7rem;
+  margin-bottom:1rem;
+  width:100%;
+  height:1rem;
+}
+
+.title {
+  text-align:right;
+  height:100%;
+}
+
+.title a, .title a:hover, .title a:visited {
+  font-family: 'Roboto', cursive;
+  font-size:7rem;
+  font-weight:800;
+  line-height:7rem;
+  padding-bottom:0rem;
+  color:#333;
+  letter-spacing:-.3rem;
+  border:none;
+}
+
+.headings a, .headings a:visited {
+  font-family: 'Montserrat', cursive;
+  font-weight:300;
+  font-size:1rem;
+  color:#888;
+  border:none;
+
+}
+
+.headings a:hover {
+  color:#900;
+  border:none;
+}
+
+.headings {
+  display:inline-block;
+  line-height:1.2rem;
+  margin-top:1.7rem;
+}
+
+.fa-circle {
+  font-size:50%;
+  vertical-align:middle;
+  margin:-.2rem .2rem 0 .2rem;
+}
 /*****************************************************************************/
 /*
 /* Posts Index
@@ -161,7 +242,7 @@ ul.posts li {
 
 ul.posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  font-family: "Monaco", "Courier New", monospace;
   font-size: 80%;
 }
 
@@ -185,19 +266,6 @@ ul.posts span {
   margin-bottom:1rem;
 }
 
-.post h1 {
-  margin-bottom:1em;
-}
-
-.post h3 {
-  font-size:1.4rem;
-}
-
-.post h4 {
-  font-size:1rem;
-  color:#ccc;
-}
-
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -208,98 +276,40 @@ ul.posts span {
   margin-left: 1.35em;
 }
 
-.post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em;
-}
-
-.post pre code {
-  border: none;
-}
-
-/* terminal */
-.post pre.terminal {
-  border: 1px solid #000;
-  background-color: #333;
-  color: #FFF;
-}
-
-.post pre.terminal code {
-  background-color: #333;
-}
-
-blockquote {
-  color:#555;
-  width:80%;
-  border-top:0px solid #ccc;
-  border-bottom:0px solid #ccc;
-  padding:.5em 0em .5em 0em;
-  margin-left:auto;
-  margin-right:auto;
-  font-style: italic;
-}
-
-blockquote.left, img.left{
-  margin-right:2em;
-}
-
-blockquote.right, img.right {
-  margin-left: 2em;
-  padding-right:0;
-}
-
-blockquote .full {
-width: 80%;
-border:none;
-}
-
-blockquote p {
-  padding:0;
-  margin:0;
-}
-
 .has-pullquote:before, .has-pullquote-left:before {
-  /* Reset metrics. */
+  /* Reset metrics */
   padding: 0em;
-  border: 0px solid #ccc;
-  color:#555;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  padding: .5rem 0;
+  text-align: left;
+  color:#666;
+  position: relative;
+  top: 5px;
+
+  font: 1.5rem/1.8rem 'Merriweather';
+
+
+  /* Pull out to the right, modular scale based margins */
+  float: right;
+  width: 40%;
+  margin: 0rem 0 1rem 2rem;
 
   /* Content */
   content: attr(data-pullquote);
-
-  /* Pull out to the right, modular scale based margins. */
-  float: right;
-  width: 40%;
-  margin: 0rem 0 1rem 1rem;
-
-  /* Baseline correction */
-  position: relative;
-  top: 5px;
-  font: bold 1rem/1.2rem 'Source Sans Pro';
-  text-align: left;
 }
 
 .has-pullquote-left:before {
   float: left;
-  margin: 1rem 1rem 2rem 0;
-  width: 35%;
+  margin: 0rem 2rem 1rem 0;
+  width: 40%;
 }
-
-.caption {
-  font-size:80%;
-  line-height: 1.2em;
-  font-family: 'Arimo', sans-serif;
-  display:block;
-}
-
 
 /*****************************************************************************/
 /*
 /* Images
 /*
 /*****************************************************************************/
-
 
 img {
   padding:1em;
@@ -383,7 +393,7 @@ figcaption.raw {
 
 /*****************************************************************************/
 /*
-/* Courses
+/* Courses index
 /*
 /*****************************************************************************/
 
@@ -418,30 +428,28 @@ img.course-poster {
 #syllabus {
   max-width:65rem;
   background-color: #FEFEFE;
-  font: 1rem/1.6rem 'Nota Serif', sans-serif;
+  font: 1.1rem/1.6rem 'Roboto', serif;
   color:#666;
 }
 
 #syllabus h2 {
-margin: 1.5em 0 .7em 0;
-border-top:1px dotted gray;
-border-bottom:1px dotted gray;
-padding: .4em;
-background-color: #e71;
-color:#fff;
-text-transform: uppercase;
+  border-top: 1px solid #999;
+  border-bottom: 1px solid #999;
+  padding: .2rem 0;
 }
 
-#syllabus h3 {
-text-transform: uppercase;
-font-size:1.2rem;
-margin: 1.5rem 0 .3rem 0;
-}
-
-#syllabus h4.alert-heading {
+#syllabus h3 a {
   text-transform: uppercase;
-  font-size:1rem;
-  margin: .2rem 0 .8rem 0;
+  font-size:1.4rem;
+  margin: 1.4rem 0 .3rem 0;
+  color:#000;
+}
+
+#syllabus h4 a {
+  text-transform: uppercase;
+  font-size:1.1rem;
+  margin: 0 0 .4rem 0;
+  color:#333
 }
 
 #syllabus li {
@@ -449,19 +457,6 @@ margin: 1.5rem 0 .3rem 0;
 }
 
 #syllabus li li {
-  margin-bottom:0;
-}
-
-.alert-heading {
-  margin-top:0;
-}
-
-.alert p {
-  margin-bottom:0;
-}
-
-.alert ul {
-  list-style-type:circle;
   margin-bottom:0;
 }
 
@@ -487,15 +482,15 @@ margin: 1.5rem 0 .3rem 0;
   text-align: justify;
 }
 
-/* use standard */
-.cv h2 {
+.cv h2 a{
+  color:#000;
 }
+
 
 .cv h3{
   line-height: 1.5rem;
   margin:1rem 0 .3rem 0;
 }
-
 
 .cv ul {
  list-style-type: circle;
@@ -547,25 +542,25 @@ footer a {
 /*
 /*****************************************************************************/
 
-@media screen and (max-width: 560px) {
-
-a {
-  color:#c70;
-}
-
-  ul.posts span {
-    color:#999;
-    display:block;
-  }
+@media screen and (max-width: 768px) {
 
   a {
     text-decoration: none;
     border:none;
   }
 
-  ul.posts li {
-    line-height: 1em;
-    margin-bottom: 1.5em;
+  .title {
+    text-align:left;
+  }
+
+  .title a, .title a:hover, .title {
+    font-size:5rem;
+    line-height:4rem;
+    padding-top:.5rem;
+  }
+
+  .headings {
+    margin-top:.5rem;
   }
 
 }
@@ -587,62 +582,70 @@ a {
 
   body {
     font-weight: normal;
-    font-family: 'Roboto', sans-serif;
   }
 
   .navbar {
     display:none;
   }
 
-  .footer {
+  footer {
     display:none;
   }
 
+  .alert {
+    width:100%;
+  }
 
-#syllabus {
-  font-family: 'Roboto', sans-serif;
-  font-size:.95em;
+  .page-break { display: block; page-break-before: always; }
+
+#syllabus h1, #syllabus h2, #syllabus h3, #syllabus h4, #syllabus h5, #syllabus h1 a, #syllabus h2 a, #syllabus h3 a, #syllabus h4 a, #syllabus h5 a{
+  color:#000;
+  text-decoration:none;
 }
 
-#syllabus h2 {
-font-size:1.2em;
-margin: 1em 0 1em 0;
-border-top:1px dotted gray;
-border-bottom:1px dotted gray;
-padding: .5em;
-color:#666;
-text-transform: uppercase;
-background-color: #eee;
-}
+  #syllabus h1 a {
+    font-size: 2em;
+  }
 
-#syllabus h3 {
-font-size:1rem;
-margin: 1.2rem 0 .5rem 0;
-letter-spacing: .02em;
-}
+  #syllabus h2 {
+    font-size:1.6rem;
+    margin: 2rem 0 .5rem 0;
+    border-top:1px solid #999;
+    border-bottom:1px solid #999;
+    text-transform:uppercase;
+  }
 
-#syllabus h1 {
-font-size: 2em;
-}
+  #syllabus h3 {
+    font-size:1.3rem;
+    margin: 1.3rem 0 .5rem 0;
+    text-transform:uppercase;
+  }
 
-#syllabus p {
- padding-bottom: .8em
-}
+  #syllabus h4 a {
+    font-size:1rem;
+    margin: 1rem 0 .5rem 0;
+    text-transform:uppercase;
+  }
 
-p, div, ul, li {
+
+  #syllabus p {
+   padding-bottom: .8em
+  }
+
+  #syllabus a {
+   color:#666;
+  }
+
+
+  p, div, ul, li {
     font-weight: normal;
-}
+  }
 
-div p {
-  font-weight: normal;
-}
-
-
-ul li {
-  font-weight: normal;
-  font-size:100%;
-  page-break-inside: avoid;
-}
+  ul li {
+    font-weight: normal;
+    font-size:100%;
+    page-break-inside: avoid;
+  }
 
 h2 {
   clear:both;
@@ -651,17 +654,6 @@ h2 {
 h3 {
   font-weight: normal;
 }
-
-.photo1, .photo2, .photo3, .photo4, .photo5 {
-  height:0px;
-  display:none;
-}
-
-header {
-  display: none;
-}
-
-.page-break { display: block; page-break-before: always; }
 
 .cv {
   font-family: garamond;

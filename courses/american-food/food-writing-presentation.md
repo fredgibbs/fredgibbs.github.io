@@ -1,11 +1,13 @@
 ---
 layout: syllabus
-title: History of American Food Cultures
+course-title: History of American Food
+course-slug: american-food
 term: Summer 2019
 number: HIST 413
-section: home
-header: american-food
+section: links-guides
 ---
+
+
 # Food Writing Comparison
 I'm making this up as we go and we'll make adjustments as necessary.
 

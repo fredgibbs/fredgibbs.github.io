@@ -1,6 +1,10 @@
 ---
-layout: default
-title: Expertise Analysis
+layout: syllabus
+course-title: History of Diet & Health
+course-slug: food-diet-health
+number: HIST 410
+term: Fall 2018
+section: links-guides
 ---
 
 # Expertise Analysis Writing Guide

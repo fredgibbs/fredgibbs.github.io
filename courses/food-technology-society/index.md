@@ -1,11 +1,15 @@
 ---
 layout: syllabus
-title: Food, Technology, and Society
-term: Fall 2019
+course-title: Food, Technology, and Society
+course-slug: food-technology-society
+term: Spring 2020
 number: HIST 412
-header: food-technology-society
+title: Food, Technology, and Society
 section: home
 ---
+
+# {{ page.title }}
+{{ page.term }} • {{ page.number }}
 
 ## Logistics
 - 3 Credit Hours

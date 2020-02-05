@@ -1,10 +1,14 @@
 ---
 layout: syllabus
-title: "History of Food, Diet, and Health"
+course-title: History of Diet & Health
+course-slug: food-diet-health
 number: HIST 410
 term: Fall 2018
-header: food-health-diet
+section: schedule
 ---
+
+# Schedule of Readings & Assignments
+
 
 ## Introductions
 
@@ -18,7 +22,7 @@ Dietary advice is constantly changing. What possible use is history?
 
 
 ### Fri 8/24
-- Selections from Mark Grant (tr.), _Galen on Food and Diet_: 1-8; 14-18; 68-84. [PDF](readings/Galen.pdf)
+- Selections from Mark Grant (tr.), _Galen on Food and Diet_: 1-8; 14-18; 68-84.
 
 How did physicians like Galen conceive the notion of disease? According to Galen, how does diet fit into medical understandings of disease? How is his approach similar and different to modern approaches to diet? How would you describe his writing style? Does it seem strange for a physician?
 

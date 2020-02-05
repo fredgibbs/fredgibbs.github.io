@@ -1,10 +1,10 @@
 ---
 layout: syllabus
-title: Digital History
+course-title: Digital History
+course-slug: digital-history
 term: Spring 2019
 number: HIST 300-002
-section: schedule
-header: digital-history
+section: links-guides
 ---
 
 # Data Interface Critique

@@ -1,18 +1,23 @@
 ---
 layout: syllabus
-title: "History of Food, Diet, and Health"
+course-title: History of Diet & Health
+course-slug: food-diet-health
 number: HIST 410
 term: Fall 2018
-header: food-diet-health
+section: home
 ---
 
-Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
-Mesa Vista Hall, 1077    
-Office Hours: M 12-2; T 10-12; by appointment    
+# History of Diet & Health
+
+## Logistics
+- HIST 410 | Fall 2020
+- MWF 11:00 -- 11:50
+- 3 Credit Hours
+- Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ Mesa Vista Hall, 1077    
+- Office Hours: M 12-2; T 10-12; by appointment    
 
 
 ## Course Description
-
 What constitutes healthy food? A healthy diet? A healthy body? Dietary regimens to maintain health---as well as what it means to be healthy---have remained preeminent medical questions ever since people had a choice about what to eat. Yet even today, medical understandings of diet and official dietary advice seems to change almost daily. This course explores how various cultural, scientific, and medical values have continually shaped our relationship to food, health, and diet since the 1700s.
 
 Some guiding questions: How have medical authorities continually redefined what it means to be healthy and to eat a healthy diet? How and why have the perceived medical virtues of various foods changed over time? How much do food industries and lobbyists affect our understanding of healthy eating? How can the history of diet and health help us understand contemporary dietary advice?

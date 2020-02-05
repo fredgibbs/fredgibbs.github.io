@@ -1,10 +1,12 @@
 ---
+title: about
 layout: default
-title: about | fred gibbs
-permalink: /about
+description: Associate Professor of History at UNM. Interested in creating new kinds of digital historical archives, web design, history of food, gardening, bicycles.
 ---
 
-# Hello World!
+# About me
+
+## Hello World!
 I'm Fred Gibbs, an associate professor in the [history department](http://history.unm.edu) at the [University of New Mexico](http://unm.edu).
 
 My primary interest is in working with community partners to build a shared digital heritage infrastructure and create a new kind of historical record of cultural heritage. I also enjoy reading and writing about various aspects in the history of food---most recently the history and rhetoric of natural food.
@@ -20,11 +22,11 @@ My earlier research focused on premodern toxicology, particularly late medieval 
 When I'm not experimenting with new digital essay formats, I like trying to grow food, start (and occasionally finish) DIY remodeling projects, and make awkward [event flyers](/portfolio/flyers).
 
 
-# History
+## History
 Until the spring of 2013, I was an assistant professor in the department of History and Art History at [George Mason University](http:///gmu.edu) (Fairfax, VA) and director of digital scholarship at the [Roy Rosenzweig Center for History and New Media](http://chnm.gmu.edu).
 
 I completed my History of Science PhD at the [University of Wisconsin-Madison](http://wisc.edu), where I discovered a new interest in web design and development. For a few years before that, I did menial cubicle chores \[= web programming] (where I also built elaborate soda-can towers) after studying physics at [Carleton College](http://www.carleton.edu). I grew up in Prior Lake, MN, where I enjoyed riding bikes through neighbors' yards, playing  mindless video games (experiments in algorithms, really), and trying to get computers to do stuff.
 
 
-# Behind the scenes
+## Under the Hood
 Pages of this site are written in Markdown, converted to static HTML with Jekyll, and hosted in a [GitHub repository](https://github.com/fredgibbs/fredgibbs.github.io) and rendered via GitHub Pages. Several, I mean many, years ago I jotted down [a few reflections on my switch from Wordpress to GitHub](posts/a-new-minimalist-versioned-website), which continue to hold true.

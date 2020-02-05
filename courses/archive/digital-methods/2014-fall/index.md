@@ -1,12 +1,14 @@
 ---
-layout: syllabus-top-nav
-title: Digital Methods for the Humanities
+layout: syllabus
+course-title: Digital Methods for the Humanities
+course-slug: digital-methods
 term: Fall 2014
 number: HIST 666-001
 date: 2014-04-15 00:00:00
 section: home
-slug: digital-methods
 ---
+
+# Digital Methods for the Humanities
 
 ### Get Help
 Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    

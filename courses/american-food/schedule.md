@@ -1,12 +1,13 @@
 ---
 layout: syllabus
-title: History of American Food
+course-title: History of American Food
+course-slug: american-food
 term: Summer 2019
 number: HIST 413
-section: schedule
-header: american-food
+section: home
 ---
 
+# Schedule of Readings & Assignments
 
 ## For all readings
 Everyday, to encourage easy participation points, I ask the same questions. Be prepared to answer the following in class:
@@ -52,12 +53,12 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 ### Introductions
 - Review the syllabus, course aims, assignments, and general plan for the semester.
 - Why are you here?
-- [Why study food?](readings/why-study-food.pdf)
+- Why study food?
 
 
 ### Why Care About Taste?
 - Andrew P. Haley, “The Nation before Taste: The Challenges of American Culinary History,” _The Public Historian_, 34.2 (2012): 53–78.
-- G. J. Fitzgerald and G. M. Petrick, “In Good Taste: Rethinking American History with Our Palates,” 392–404. [PDF](readings/in-good-taste.pdf)
+- G. J. Fitzgerald and G. M. Petrick, “In Good Taste: Rethinking American History with Our Palates,” 392–404.
 
 ### Looking Ahead
 - _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
@@ -69,7 +70,7 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 
 ### The Idea of National Cuisine
 - _HAE_, xi-xv.
-- Sidney Mintz, "Eating American". [PDF](readings/eating-american.pdf)
+- Sidney Mintz, "Eating American".
 - Pick an essay from [here](https://blogs.brown.edu/amst-1906p-s01-spring-2017/), and find one interesting point you agree with and one you don't. There are no right answers in any of the essays, but many great points we need to keep in mind throughout the course.
 
 ### What do you think?
@@ -77,7 +78,7 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 
 ### Authenticity
 - Rachel Laudan, [Desperately Seeking Authenticity](https://www.latimes.com/archives/la-xpm-2001-dec-19-fo-16368-story.html)
-- Dwight Furrow, _American Foodie_ (7: Habits and Heresies: Authenticity, Food Rules, and Traditions), 133-48. [PDF](readings/furrow-american-foodie.pdf)
+- Dwight Furrow, _American Foodie_ (7: Habits and Heresies: Authenticity, Food Rules, and Traditions), 133-48.
 - Kevin Alexander, [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
 - Sara Kay, [Yelp Reviewers’ Authenticity Fetish Is White Supremacy in Action](https://ny.eater.com/2019/1/18/18183973/authenticity-yelp-reviews-white-supremacy-trap)
 
@@ -99,7 +100,7 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 
 ### Corn
 - _Founding Food_, 4-29; 39-48 (1: The Beautifull Noble Eare).
-- _Tamales_, 7-24 (1: The People of Corn). [PDF](readings/tamales-1.pdf)
+- _Tamales_, 7-24 (1: The People of Corn).
 
 ### For reference: Corn
 - [Today’s botany lesson: Corn sex](http://apps.washingtonpost.com/g/page/lifestyle/todays-botany-lesson-corn-sex/1770/)
@@ -107,7 +108,7 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 - [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/)
 
 ### For reference: Food and Identity
-- Heather Trigg, “[Food Choice and Social Identity in Early Colonial New Mexico](readings/trigg.pdf),” 223–252.
+- Heather Trigg, “Food Choice and Social Identity in Early Colonial New Mexico”, 223–252.
 
 
 
@@ -135,9 +136,9 @@ First thing is our review QUIZ from week 1.
 ## Jun 11
 
 ### Early Cookbooks as Historical Sources
-- _Tamales_, 25-43 (2: The Conquest of Wheat). [PDF](readings/tamales-2.pdf)
+- _Tamales_, 25-43 (2: The Conquest of Wheat).
 - _Founding Food_, 120-147 (4: Cookbooks and Commerce).
-- Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_, 29-51 (2: Culinary Tradition). [PDF](readings/united-tastes.pdf)
+- Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_, 29-51 (2: Culinary Tradition).
 
 - For the following (they are main sources for several of our readings), there are no specific pages to read. But skim through the books and read a recipe here and there so you have a sense of their similarities and differences. What strikes you as most surprising or bizarre about the cookbooks? How did they affirm or complicate your ideas of American food? How can we use them as historical courses?
   - Amelia Simmons, [American Cookery](https://books.google.com/books?id=_6CggcPs3iQC)
@@ -157,8 +158,8 @@ First thing is our review QUIZ from week 1.
     - Be prepared to report on your own book and how it was distinct from others in your group
 
 ### For reference
-- Colleen Cotter, “Claiming a Piece of the Pie,” 51–68. [PDF](readings/claiming-piece-of-the-pie.pdf)
-- Jane C. Busch, "Using Cookbooks as Research Documents", 22-25. [PDF](readings/cookbooks-as-research-docs.pdf)
+- Colleen Cotter, “Claiming a Piece of the Pie,” 51–68.
+- Jane C. Busch, "Using Cookbooks as Research Documents", 22-25.
 - Blurbs about Early American cookbooks [here](http://www.americantable.org/2015/12/top-12-most-influential-historic-american-cookbooks/)
 - Review the [Cookbook Analysis Guide](cookbook-analysis)
 
@@ -167,7 +168,7 @@ First thing is our review QUIZ from week 1.
 ## Jun 12
 
 ### Thanksgiving
-- Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality,” 167–91. [PDF](readings/Siskind.pdf)
+- Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality,” 167–91.
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/)
 - _Founding Food_, 148-97 (5: Fresh and Sweet Pasture).
 - _Founding Food_, 198-231 (6: Of a Fruity Flavor).
@@ -179,8 +180,8 @@ First thing is our review QUIZ from week 1.
 ### Immigration
 - _HAE_, 57-87 (3: Expansion and Immigration).
 - _HAE_, 169-78 (7: Food Habits and Racial Thinking).
-- _Tamales_, 45-76 (3: Many Chefs in the National Kitchen). [PDF](readings/tamales-3.pdf)
-- Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change,” _The Journal of Popular Culture_, 36.4 (2003): 669–86. [PDF](readings/Barbas-2003-The_Journal_of_Popular_Culture.pdf)
+- _Tamales_, 45-76 (3: Many Chefs in the National Kitchen).
+- Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change,” _The Journal of Popular Culture_, 36.4 (2003): 669–86.
 
 
 
@@ -200,11 +201,11 @@ Nothing to do for today, but use the extra day to read ahead and polish your coo
 
 ## Jun 19
 ### Moral Food
-- Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122-48. [PDF](readings/food-fights-american-values.pdf)
-- Charlotte Biltekoff, _Eating Right in America_, 13-44 (Scientific Moralization) [PDF](readings/scientific-moralization.pdf).
+- Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122-48.
+- Charlotte Biltekoff, _Eating Right in America_, 13-44 (Scientific Moralization)
 
 ### For reference
-- Wilbur Atwater, "Chemistry, Foods, Nutrition" (1887), 59-74. [PDF](readings/chemistry-food-nutrition.pdf).
+- Wilbur Atwater, "Chemistry, Foods, Nutrition" (1887), 59-74.
 
 
 
@@ -232,11 +233,11 @@ Nothing to do for today, but use the extra day to read ahead and polish your coo
 
 ## Jun 24
 ### Corporate, Convenience and Counterculture Food
-- (1,2) Warren J. Belasco, _Appetite for Change_, 43-67 (3: Radical Therapy). [PDF](readings/chap-3-radical-identity.pdf)
-- (1,2) Warren J. Belasco, _Appetite for Change_, 111-31 (5: The Orthodox Defense). [PDF](readings/chap-5-war-of-metaphors.pdf)
+- (1,2) Warren J. Belasco, _Appetite for Change_, 43-67 (3: Radical Therapy).
+- (1,2) Warren J. Belasco, _Appetite for Change_, 111-31 (5: The Orthodox Defense).
 
-- (3,4) Harvey A. Levenstein, _Paradox of Plenty_, 101-118 (7: Golden Age of Food Processing). [PDF](readings/food-processing.pdf)
-- (3,4) Harvey A. Levenstein, _Paradox of Plenty_, 227-236 (15: Fast Foods and Quick Bucks). [PDF](readings/fast-food-quick-bucks.pdf)
+- (3,4) Harvey A. Levenstein, _Paradox of Plenty_, 101-118 (7: Golden Age of Food Processing).
+- (3,4) Harvey A. Levenstein, _Paradox of Plenty_, 227-236 (15: Fast Foods and Quick Bucks).
 
 ### New Southern Food
 - _Edible South_, 301-14 (18: Food Counterculture, Southern-Style).
@@ -246,8 +247,8 @@ Nothing to do for today, but use the extra day to read ahead and polish your coo
 
 ## Jun 25
 ### Food Media
-- Signe Rousseau, _Food Media_, xix-xxxiv [PDF](readings/food-media-preface.pdf); 5-20 [PDF](readings/food-media-intro.pdf).
-- Ray Krishnendu, “Domesticating Cuisine: Food and Aesthetics on American Television,” 50–63. [PDF](readings/Domesticating Cuisine.pdf)
+- Signe Rousseau, _Food Media_, xix-xxxiv; 5-20.
+- Ray Krishnendu, “Domesticating Cuisine: Food and Aesthetics on American Television,” 50–63.
 - [The Problems With Food Media That Nobody Wants to Talk About](https://firstwefeast.com/eat/2016/02/problems-with-food-media)
 
 
@@ -323,8 +324,8 @@ American Food can't be discussed without reference to American dieting. As with 
 
 ## Jun 27
 ### American Food Writing
-- M.F.K. Fisher, [Consider the Oyster](readings/consider-the-oyster.pdf) (125-38; 146-59).
-- David Foster Wallace, [Consider the Lobster](readings/lobsterarticle.pdf) (READ THE FOOTNOTES!).
+- M.F.K. Fisher, _Consisder the Oyster_, 125-38; 146-59.
+- David Foster Wallace, "Consider the Lobster" and READ THE FOOTNOTES!.
 - [The United States of Mexican Food](https://www.eater.com/2019/4/23/18214403/mexican-food-us-region-america?fbclid=IwAR2YbAcuWHHM0DORiE9loWvl06bQEOcAHIHVod5Hak6sfK--XYDE8Rt1VBw)
 
 

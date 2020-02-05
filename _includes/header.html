@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-  <title>{% if page.title %}{{ page.title | escape }} // {{ site.title | escape }}{% else %}{{ site.title | escape }} // {{ site.tagline | escape }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title | escape }} | {{ site.title | escape }}{% else %}{{ site.title | escape }} | {{ site.tagline | escape }}{% endif %}</title>
 
   <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
 
@@ -22,38 +22,14 @@
   <!-- Bootstrap core CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+  <!-- Font Awesome Icons -->
+  <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 
   <!-- jquery UI CSS -->
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 
-  {% if page.url == "/map.html" %}
-    <link rel="stylesheet" href="assets/css/leaflet.css"/>
-    <link rel="stylesheet" href="assets/css/leaflet.awesome-markers.css"/>
-    <link rel="stylesheet" href="assets/css/leaflet-sidebar.css"/>
-    <style>
-        body {
-            padding: 0;
-            margin: 0;
-        }
-        html, body, #map {
-            height: 100%;
-            width: 100%;
-        }
-        #sidebar-content, #sidebar-title {
-            word-break: break-word;
-            margin-right: 40px;
-        }
-    </style>
-  {% else %}
-
-    <!-- core juxtapose.js CSS -->
-    <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
-
-    <!-- bigfoot.js (for fancy non-footnotes with auto numbering) -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot-number.css" >
-
-  {% endif %}
+  <!-- bigfoot.js (for fancy non-footnotes with auto numbering) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot-number.css" >
 
   <!-- fancybox CSS for posters -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" />

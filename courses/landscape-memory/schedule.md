@@ -1,11 +1,13 @@
 ---
 layout: syllabus
-title: Landscape and Memory
-term: Fall 2019
+course-title: Landscape and Memory
+course-slug: landscape-memory
 number: HIST 300-012
+term: Fall 2019
 section: schedule
-header: landscape
 ---
+
+# Schedule of Readings & Assignments
 
 ## Week 9/1: Introductions
 

@@ -1,11 +1,13 @@
 ---
 layout: syllabus
-title: History of American Food Cultures
+course-title: History of American Food
+course-slug: american-food
 term: Summer 2019
 number: HIST 413
-section: home
-header: american-food
+section: links-guides
 ---
+
+
 # Digital Food History Analysis Guide
 This assignment is one of the two "final" assignments for the course, due the Saturday after class (short extensions will be readily granted).
 

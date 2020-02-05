@@ -1,10 +1,9 @@
 ---
 layout: syllabus
-course-title: Food, Technology, and Society
-course-slug: food-technology-society
-term: Spring 2020
+course-title: History of Diet & Health
+course-slug: food-diet-health
+term: Fall 2020
 number: HIST 412
-title: Book Review Guide
 section: links-guides
 ---
 
@@ -16,7 +15,6 @@ This page contains a list of links that you will probably need repeatedly throug
 - [Zotero Group Library](https://www.zotero.org/groups/1647225/food-tech-society-unm/library)
 
 ## Assignment Guides
-- [Book Review  Guide](book-review-guide.html)
-- [Newspaper Ad Guide](newspaper-ads-guide.html)
-- [Executive Summary Guide](exec-summary-guide.html)
-- [Website Analysis Guide](website-analysis-guide.html)
+- [Fad Diet Essay](fad-diet-essay.html)
+- [Expertise](expertise-analysis.html)
+- [Package Analysis Guide](package-analysis-guide.html)

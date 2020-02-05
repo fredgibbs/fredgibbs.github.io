@@ -1,11 +1,12 @@
 ---
 layout: syllabus
-title: History of American Food Cultures
+course-title: History of American Food
+course-slug: american-food
 term: Summer 2019
 number: HIST 413
-section: home
-header: american-food
+section: links-guides
 ---
+
 # Cookbook Analysis Guide
 - Take a modern cookbook published recently or find a historic cookbook from [here](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis)
 

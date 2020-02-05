@@ -1,0 +1,71 @@
+toc-rows:
+  - title: about
+    link: about/
+    headings:
+      - title: "hello world"
+        link: "about/#hello-world"
+      - title: "history"
+        link: "about/#history"
+      - title: "under the hood"
+        link: "about/#under-the-hood"
+  - title: projects
+    link: projects/
+    headings:
+      - title: unnatural food
+        link: projects/#unnatural-food
+      - title: digital heritage studies
+        link: projects/#digital-heritage-studies
+      - title: compago
+        link: projects/#compago
+      - title: digital historic trails
+        link: projects/#digital-historic-trails
+  - title: courses
+    link: courses/
+    headings:
+      - title: food tech society
+        link: courses/food-tech-society
+      - title: american food
+        link: courses/american-food
+      - title: "landscape + memory"
+        link: courses/landscape-memory
+      - title: historiography
+        link: courses/historiography
+      - title: history of diet and health
+        link: courses/food-diet-health
+      - title: digital history
+        link: courses/digital-history
+  - title: tutorials
+    link: tutorials/
+    headings:
+      - title: QGIS
+        link: tutorials/#qgis
+      - title: data work
+        link: tutorials/#data-work
+      - title: digital publishing
+        link: tutorials/#digital-publishing
+      - title: set-up
+        link: tutorials/#general-programming
+  - title: posts
+    link: posts/
+    headings:
+      - title: writing a personal statement
+        link: posts/writing-a-personal-statement
+      - title: reflections from a former PH editor
+        link: posts/reflections-former-PH-editor
+      - title: on digital solitude
+        link: posts/on-digital-solitude
+      - title: visual critique in the humanities
+        link: posts/visual-critique-in-the-humanities
+  - title: vita
+    link: cv/
+    headings:
+      - title: academic employment
+        link: cv/#academic-employment
+      - title: degrees
+        link: cv/#education
+      - title: publications
+        link: cv/#publications
+      - title: presentations
+        link: cv/#selected-presentations-panels-and-workshops
+      - title: engagements
+        link: cv/#engagements

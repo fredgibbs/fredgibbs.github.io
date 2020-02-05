@@ -1,13 +1,13 @@
 ---
 layout: syllabus
-title: History of American Food Cultures
+course-title: History of American Food
+course-slug: american-food
 term: Summer 2019
 number: HIST 413
-section: home
-header: american-food
+section: links-guides
 ---
-# Film Analysis Essay
 
+# Film Analysis Essay
 
 ## Objective
 This assignment encourages you to bring what we've learned in class in critiquing and analyzing a documentary or film focused on food.

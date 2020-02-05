@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: cv | fred gibbs
+title: cv
 permalink: /cv
 ---
 
@@ -259,15 +259,7 @@ Society for the Social History of Medicine Post-graduate conference (Jan 2006)
 
 
 ## Recent Courses
-* [Digital History](http://fredgibbs.net/courses/digital-history)
-* [Food, Diet, and Health](http://fredgibbs.net/courses/food-diet-health)
-* [Food, Technology, and Society](http://fredgibbs.net/courses/food-technology-society)
-* [American Food Cultures](http://fredgibbs.net/courses/american-food)
-* [Historiography](http://fredgibbs.net/courses/historiography)
-* [Digital Mapping](http://fredgibbs.net/courses/digital-mapping)
-* [History of Plague](http://fredgibbs.net/courses/metaphor-of-plague)
-
-
+[Digital History](http://fredgibbs.net/courses/digital-history), [Food, Diet, and Health](http://fredgibbs.net/courses/food-diet-health), [Food, Technology, and Society](http://fredgibbs.net/courses/food-technology-society), [American Food Cultures](http://fredgibbs.net/courses/american-food), [Historiography](http://fredgibbs.net/courses/historiography), [Digital Mapping](http://fredgibbs.net/courses/digital-mapping)
 
 
 ## Engagements

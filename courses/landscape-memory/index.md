@@ -1,16 +1,20 @@
 ---
 layout: syllabus
-title: Landscape and Memory
-term: Fall 2019 2H
+course-title: Landscape and Memory
+course-slug: landscape-memory
 number: HIST 300-012
+term: Fall 2019
 section: home
-header: landscape-memory
 ---
 
+# Landscape and Memory
+
 ## Logistics
+- HIST 300-012
+- 3 Credit Hours
 - MW 3:00 -- 5:30
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
-- Office Hours: MW 10:30--12:30; by appointment. Please let me know if you plan to stop by.
+- Student Hours: MW 10:30--12:30; by appointment. Please let me know if you plan to stop by.
 
 ## Course Description
 With ubiquitous digital maps at our finger tips, it’s easy to move through space without giving it much thought. At the same time, we recognize that physical space connects us to our past and charts a course for the future. This multidisciplinary course draws from history, geography, archeology, anthropology, literature, cultural studies and architecture to explore the how we attach meanings to space and how both space and place influence our identities, communities, regions, and nations. Coursework contributes to ongoing projects at the National Park Service on the National Historic Trails (particularly historic sites on the Santa Fe Trail), emphasizing qualitative research and historical writing for a broad audience with digital publication technologies.

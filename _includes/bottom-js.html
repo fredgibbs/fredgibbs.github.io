@@ -1,7 +1,5 @@
 <!-- JavaScript
 ================================================== -->
-<script src="https://use.fontawesome.com/a1660defb1.js"></script>
-
 <!-- from https://getbootstrap.com/docs/4.3/getting-started/introduction/ -->
 <script
   src="https://code.jquery.com/jquery-3.4.1.min.js"
@@ -21,15 +19,13 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
+<!-- Font Awesome Icons -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/js/all.min.js" integrity="sha256-0vuk8LXoyrmCjp1f0O300qo1M75ZQyhH9X3J6d+scmk=" crossorigin="anonymous"></script>
+
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot.min.js"></script>
 <script type="text/javascript">
     $.bigfoot();
+    $('h2,h3,h4,h5,h6').filter('[id]').each(function () {
+        $(this).html('<a href="#'+$(this).attr('id')+'">' + $(this).text() + '</a>');
+    });
 </script>
-
-{% if page.url == "/map.html" %}
-<script src="{{site.baseurl}}/assets/js/leaflet.js"></script>
-<script src="{{site.baseurl}}/assets/js/leaflet-sidebar.js"></script>
-<script src="{{site.baseurl}}/assets/js/leaflet.awesome-markers.min.js"></script>
-<script src="{{site.baseurl}}/assets/js/tabletop.min.js"></script>
-<script src="{{site.baseurl}}/assets/js/leaflet-gsheets.js"></script>
-{% endif %}

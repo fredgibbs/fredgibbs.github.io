@@ -1,24 +1,27 @@
 ---
 layout: syllabus
-title: Food, Technology, and Society
+course-title: Food, Technology, and Society
+course-slug: food-technology-society
 term: Spring 2020
 number: HIST 412
-header: food-technology-society
+title: Schedule of Readings
 section: schedule
 ---
 
-# IN PROGRESS!
+# Schedule of Readings and Assignments
+
+### IN PROGRESS!
 This syllabus is a living document and changes occasionally, depending on what's going on in the course. If you print it out, you'll need to keep your paper version up to date with the online version. I will always announce important changes in class.
 
 
 ## Required Readings
-There are three required books for the course.
+There are three required books for the course; see the Bookstore list for details.
 
 Besides the books, all readings that aren't already online (and some that are) will be available through the class Zotero library. This will be discussed in class, but for reference, please see the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library is [https://www.zotero.org/groups/1647225/food-tech-society-unm/library](https://www.zotero.org/groups/1647225/food-tech-society-unm/library).
 
 
 
-## Introductions
+## 1: Introductions
 
 ### Jan 21
 Today we'll review the syllabus, course aims, assignments, Zotero, and general plan for the semester.
@@ -39,7 +42,7 @@ Today we'll review the syllabus, course aims, assignments, Zotero, and general p
 
 
 
-## Natural and Pure Food
+## 2: Natural and Pure Food
 
 ### Jan 28
 **Some discussion questions for class:**
@@ -62,7 +65,7 @@ How were conceptions of and relationships to nature changing toward the end of t
 
 
 
-## Canned I
+## 3: Canned I
 
 ### Feb 4
 Note you have a bigger chunk of reading for Thursday than Tuesday, so read ahead over the weekend!
@@ -81,7 +84,7 @@ Additionally, we'll talk about what kinds of topics or ideas ARE NOT addressed b
 - Anna Zeide, _Canned_, 74--134.
 
 
-## Canned II
+## 4: Canned II
 
 ### Feb 11
 - Anna Zeide, _Canned_, 135--162.
@@ -96,7 +99,7 @@ Come to class with your book review. Consult the [Book Review Writing Guide](boo
 
 
 
-## Fresh and Pure Foods
+## 5: Fresh and Pure Foods
 
 ### Feb 18
 - Susanne Frieberg, _Fresh_, 1--48 (intro and chapter 1).
@@ -108,7 +111,7 @@ Come to class with your book review. Consult the [Book Review Writing Guide](boo
 
 
 
-## Sugar and Saccharine
+## 6: Sugar and Saccharine
 
 ### Feb 25
 - Carolyn Thomas Peña, _Empty Pleasure_, Chapter 1: 13--38.
@@ -117,15 +120,13 @@ Come to class with your book review. Consult the [Book Review Writing Guide](boo
 Come to class with your early newspaper ad analysis. Consult the [Ad Analysis Writing Guide](newspaper-ads-guide).
 "%}
 
-
-
 ### Feb 27
 - Carolyn Thomas Peña, _Empty Pleasure_, Chapter 5: 141--175; Conclusion: 219--228.
 
 
 
 
-## Milk I
+## 7: Milk I
 
 ### Mar 3
 - Kendra Smith-Howard, _Pure and Modern Milk_, 3--66.
@@ -135,7 +136,7 @@ Come to class with your early newspaper ad analysis. Consult the [Ad Analysis Wr
 
 
 
-## Milk II
+## 8: Milk II
 
 ### Mar 10
 - Kendra Smith-Howard, _Pure and Modern Milk_, 98--146.
@@ -148,11 +149,11 @@ Come to class with your book review. Consult the [Book Review Writing Guide](boo
 "%}
 
 
-### Mar 17 and 19: SPRING BREAK
+### 9: Mar 17 and 19: SPRING BREAK
 
 
 
-## Restarting
+## 10: Restarting
 
 ### Mar 24
 - Sarah Grey, [A Social History of Jell-O Salad: The Rise and Fall of an American Icon](https://www.seriouseats.com/2015/08/print/history-of-jell-o-salad.html)
@@ -165,7 +166,7 @@ Come to class with your book review. Consult the [Book Review Writing Guide](boo
 
 
 
-## Hidden Convenience
+## 11: Hidden Convenience
 
 ### Mar 31
 * Michael Moss, _Salt, Sugar, Fat_, 45--67 (Convenience with a Capital C).
@@ -175,7 +176,7 @@ Come to class with your book review. Consult the [Book Review Writing Guide](boo
 
 
 
-## Environmental Food
+## 12: Environmental Food
 
 ### Apr 7
 - Alina Bradford, [Rachel Carson: Life, Discoveries and Legacy](https://www.livescience.com/62185-rachel-carson-biography.html).
@@ -186,7 +187,7 @@ Come to class with your book review. Consult the [Book Review Writing Guide](boo
 
 
 
-## Big Organic
+## 13: Big Organic
 
 ### Apr 14
 {% include alert.html class='danger' title='DUE: Executive Summary' text="
@@ -205,7 +206,7 @@ Come to class with your executive summaries of the rise of convenience foods as 
 
 
 
-## GMOs
+## 14: GMOs
 
 ### Apr 21
 * McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 1--46 (Prologue; Are GMOs Safe?).
@@ -214,7 +215,7 @@ Come to class with your executive summaries of the rise of convenience foods as 
 * McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 47--76 (The Long, Paved Road to Industrial Food).
 
 
-## Natural Progress
+## 15: Natural Progress
 
 ### Apr 28
 {% include alert.html class='danger' title='DUE: GMO website analysis' text="You'll critique a website that discusses whether GMOs are safe. Consult the [website analysis guide](website-analysis-guide). As with all your assignments, the goal is to put the course to use in addressing 'real-world' discussions about food production issues. The best essays will draw together various themes from the course.
@@ -233,7 +234,7 @@ Come to class with your executive summaries of the rise of convenience foods as 
 - Reading quiz
 
 
-## Global Industrialization
+## 16: Global Industrialization
 
 ### May 5
 * Marion Nestle, _Food Politics_, 295--314 (Fortification and marketing).

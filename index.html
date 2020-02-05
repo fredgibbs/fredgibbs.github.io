@@ -1,5 +1,6 @@
 ---
-title: fred gibbs
+title: home
+description: Fred Gibbs's website on digital history, community archives, food history, and web design.
 ---
 
 <!DOCTYPE html>
@@ -9,27 +10,41 @@ title: fred gibbs
 
 <body>
 
-  <div class="container">
+  <div class="container toc">
 
-    <div class="homename">
-      fred gibbs
+    <div class="row homename">
+      <div class="col-md-6">
+        fred gibbs
+      </div>
     </div>
 
-<div class="row">
-    <div class="col-sm-12">
-      <ul>
-        <li><a href="about">about</a></li>
-        <li><a href="projects">projects</a></li>
-        <li><a href="posts">posts</a></li>
-        <li><a href="courses">courses</a></li>
-        <li><a href="tutorials">tutorials</a></li>
-        <li><a href="cv">cv</a></li>
-      </ul>
-    </div>
+    <svg id="divider"></svg>
+
+    {% include toc-row.html %}
+
   </div>
-</div>
 
-{% include google-analytics.html %}
+  <script src="https://cdn.jsdelivr.net/npm/roughjs@4.0.4/bundled/rough.min.js"></script>
+
+  {% include bottom-js.html %}
+
+  {% include google-analytics.html %}
+
+  <script>
+    $( document ).ready(function() {
+        const svg = document.getElementById('divider');
+        const rc = rough.svg(svg);
+        let node =
+        rc.rectangle(0, 0, 1000, 300, {
+          fill: 'gray',
+          fillStyle: 'zigzag',
+          stroke: 'none',
+          hachureAngle: 140, // angle of hachure,
+          hachureGap: 3
+        });
+        svg.appendChild(node);
+    });
+  </script>
 
 </body>
 </html>

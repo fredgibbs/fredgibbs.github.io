@@ -1,6 +1,7 @@
 ---
-layout: digital-mapping
-title: Digital Mapping
+layout: syllabus
+page-title: Digital Mapping
+course-title: digital mapping
 term: Spring 2014
 number: ARCH 462 and LA 512
 date: 2014-05-28 00:00:00

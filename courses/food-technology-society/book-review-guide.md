@@ -1,9 +1,10 @@
 ---
 layout: syllabus
-title: Book Review Guide
+course-title: Food, Technology, and Society
+course-slug: food-technology-society
 term: Spring 2020
 number: HIST 412
-header: food-technology-society
+title: Book Review Guide
 section: links-guides
 ---
 

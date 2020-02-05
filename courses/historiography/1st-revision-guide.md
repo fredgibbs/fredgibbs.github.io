@@ -1,9 +1,9 @@
 ---
 layout: syllabus
-title: Historiography
+course-title: Historiography
+course-slug: historiography
 number: HIST 491-001
 term: Fall 2019
-header: historiography
 section: links-guides
 ---
 

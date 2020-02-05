@@ -1,16 +1,20 @@
 ---
 layout: syllabus
-title: History of American Food
+course-title: History of American Food
+course-slug: american-food
 term: Summer 2019
 number: HIST 413
 section: home
-header: american-food
 ---
 
+# History of American Food
+
 ## Logistics
+- HIST 413 | Summer 2019
 - MTWTh 9:20 - 11:50 @ 327 DSH
+- 3 Credit Hours
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
-- Office Hours: By appointment (there is plenty of time in class)
+- Student Hours: By appointment (there is plenty of time before/in/after class)
 
 
 ## Course Description

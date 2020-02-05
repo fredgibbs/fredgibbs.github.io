@@ -1,10 +1,10 @@
 ---
 layout: syllabus
-title: Style Guide
-term: Fall 2019
+course-title: Landscape and Memory
+course-slug: landscape-memory
 number: HIST 300-012
+term: Fall 2019
 section: links-guides
-header: landscape
 ---
 
 # Historic Site Style Guide

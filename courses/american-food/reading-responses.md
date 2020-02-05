@@ -1,11 +1,12 @@
 ---
 layout: syllabus
-title: History of American Food Cultures
+course-title: History of American Food
+course-slug: american-food
 term: Summer 2019
 number: HIST 413
-section: home
-header: american-food
+section: links-guides
 ---
+
 # Reading Responses
 - ~400 words
 - Bring PAPER COPIES of your responses to class when they are due.

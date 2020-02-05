@@ -1,9 +1,10 @@
 ---
 layout: syllabus
-title: Executive Summary Guide
+course-title: Food, Technology, and Society
+course-slug: food-technology-society
 term: Spring 2020
 number: HIST 412
-header: food-technology-society
+title: Executive Summary Guide
 section: links-guides
 ---
 

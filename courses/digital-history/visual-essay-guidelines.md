@@ -1,15 +1,13 @@
 ---
 layout: syllabus
-title: Digital History
+course-title: Digital History
+course-slug: digital-history
 term: Spring 2019
 number: HIST 300-002
-section: schedule
-header: digital-history
+section: links-guides
 ---
 
 # Visual Essay Guidelines
-
-### (Replacing our collaborative NM History project)
 
 ## Goals for the course
 We've talked _ad nauseum_ about the advantages and limitations of digital archives and storytelling. In this assignment, you're going to write a history of any topic almost entirely in terms of digital images. You can use the NM history topic you picked much earlier, or do something TOTALLY DIFFERENT. It's up to you. Pick something you have some interest in learning about, since research is still required---although not nearly as much as before.

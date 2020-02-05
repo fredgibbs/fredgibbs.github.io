@@ -1,10 +1,9 @@
 ---
 layout: syllabus
-course-title: Food, Technology, and Society
-course-slug: food-technology-society
-term: Spring 2020
-number: HIST 412
-title: Book Review Guide
+course-title: History of American Food
+course-slug: american-food
+term: Summer 2020
+number: HIST 413
 section: links-guides
 ---
 
@@ -13,10 +12,11 @@ This page contains a list of links that you will probably need repeatedly throug
 
 ## Scanned Readings
 - [Connecting to Zotero](/courses/etc/zotero)
-- [Zotero Group Library](https://www.zotero.org/groups/1647225/food-tech-society-unm/library)
 
 ## Assignment Guides
-- [Book Review  Guide](book-review-guide.html)
-- [Newspaper Ad Guide](newspaper-ads-guide.html)
-- [Executive Summary Guide](exec-summary-guide.html)
-- [Website Analysis Guide](website-analysis-guide.html)
+- [Cookbook Analysis](cookbook-analysis.html)
+- [Film Analysis](film-analysiss.html)
+- [Food Writing Essay](food-writing-essay.html)
+- [Food Writing Presentation](food-writing-presentation.html)
+- [Reading Responses](reading-responses.html)
+- [Website Analysis](website-analysis.html)

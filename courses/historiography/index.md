@@ -1,14 +1,20 @@
 ---
 layout: syllabus
-title: Historiography
+course-title: Historiography
+course-slug: historiography
 number: HIST 491-001
 term: Fall 2019
-header: historiography
 section: home
 ---
-Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)    
-Mesa Vista Hall, 1077    
-Office Hours: MW 10:30-12:30 and by appointment    
+
+# Historiography
+
+## Logistics
+- HIST 491-001 | Fall 2019
+- MW 12:30 -- 1:45
+- 3 Credit Hours
+- Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
+- Student Hours: MW 10:30-12:30 and by appointment    
 
 ## Course Description
 This course introduces some of the most influential approaches that historians (from antiquity through the present) have taken in writing about the past. It also addresses various meta-questions about history: **What is history? What is it for? Who is it for?** It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history.
@@ -73,7 +79,7 @@ Previous iterations of this course have created essays on historiographical topi
 
 
 ## Submitting Work
-We will store our work at [https://github.com/unm-historiography/2019-fall](https://github.com/unm-historiography/2019-fall). We'll talk more about this in class, but instructions are [here](http://fredgibbs.net/courses/etc/github-instructions.html). Repeated failure to post work for the class in the appropriate manner (without discussing with me the reasons why) will result in you being dropped from the course. 
+We will store our work at [https://github.com/unm-historiography/2019-fall](https://github.com/unm-historiography/2019-fall). We'll talk more about this in class, but instructions are [here](http://fredgibbs.net/courses/etc/github-instructions.html). Repeated failure to post work for the class in the appropriate manner (without discussing with me the reasons why) will result in you being dropped from the course.
 
 
 ## Required Readings

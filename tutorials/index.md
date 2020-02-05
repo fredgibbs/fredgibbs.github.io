@@ -1,10 +1,10 @@
 ---
+title: tutorials  
 layout: default
-title: tutorials | fred gibbs  
+description: These tutorials introduce basic concepts with specific examples that walk through basic use cases. No experience required!
 ---
 
 # Tutorials
-
 
 ## QGIS
 - [Making a Map](qgis/making-a-map-with-qgis.html)
@@ -19,9 +19,6 @@ title: tutorials | fred gibbs
 ## Digital Publishing
 - [GitHub Pages and Jekyll](github-pages-and-jekyll.html)
 - [Creating a slideshow voiceover](slideshow-voice-over.html)
-
-## Text Mining
-- [Detecting Document Similarity with R](document-similarity-with-r.html)
 
 ## General Programming
 - [Installing python modules with pip](install-python-modules)

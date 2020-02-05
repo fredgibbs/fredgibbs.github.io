@@ -1,18 +1,19 @@
 ---
 layout: syllabus
-title: Digital History
+course-title: Digital History
+course-slug: digital-history
 term: Spring 2019
 number: HIST 300-002
 section: home
-header: digital-history
 ---
 
+# Digital History
 
 ## Logistics
 - Class: T,TH 9:30 - 10:45 @ 120 Mitchell Hall
 - Office Hours: T 8-9:30; 11-12:30 @ 1077 Mesa Vista Hall
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
-- Margie Montanez \([margie@unm.edu](mailto:margie@unm.edu)\)
+- Margie Montañez \([margie@unm.edu](mailto:margie@unm.edu)\)
 
 ## Course Description
 This interdisciplinary course explores the effects of the digital age on producing and consuming history. Some guiding questions:

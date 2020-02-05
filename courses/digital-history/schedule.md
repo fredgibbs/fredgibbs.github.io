@@ -1,11 +1,13 @@
 ---
 layout: syllabus
-title: Digital History
+course-title: Digital History
+course-slug: digital-history
 term: Spring 2019
 number: HIST 300-002
 section: schedule
-header: digital-history
 ---
+
+# Schedule of Readings & Assignments
 
 ## 1: Course and Digital History (+ Humanities)  Introduction
 
@@ -476,7 +478,7 @@ We have been commissioned to review a local digital history project! Write up a 
 <hr>
 Specific questions for us to address:
 - Is it readily apparent what the purpose of the website is?
-- How easy is it for the first-time user to navigate into, out of, and through the site? 
+- How easy is it for the first-time user to navigate into, out of, and through the site?
 - Are there actions that users wanted to take, but could not or found difficult or unnecessarily complicated?
 - Was there anything that you sensed was missing from the site?
 <hr>

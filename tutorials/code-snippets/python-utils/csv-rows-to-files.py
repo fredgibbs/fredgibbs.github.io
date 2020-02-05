@@ -4,10 +4,11 @@
 # where csvfile must be a valid CSV text file with a header row (the first line of the CSV file is skipped)
 
 import csv
+import sys
 
 inputfilename = sys.argv[1]
 
-with open(inputfilename, 'rb') as csvfile:
+with open(inputfilename, 'rt', encoding='utf-8') as csvfile:
 
     reader = csv.reader(csvfile, delimiter=',')
 
@@ -18,8 +19,9 @@ with open(inputfilename, 'rb') as csvfile:
         topic = row[0] #column A: topic
         content = row[5] # column F: text
 
-        # the date string has a space in it, but that's no good for a filename.
-        date = row[7].replace(" ","-") # column H: date
+        # the timestamp contains " " and ":", but these can make tricky filenames
+        # this could be handled more elegantly with date formatting functions and a different timestamp format
+        date = row[7].replace(" ","-").replace(":","-") # column H: date
 
         # assemble filename from fields and output expected file to be created
         filename = topic + '_' + date + '.txt'
