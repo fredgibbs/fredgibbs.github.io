@@ -4,4 +4,4 @@ url: http://fredgibbs.net
 permalink: :categories/:title
 safe: true
 markdown: kramdown
-environment: localhost
+environment: production
