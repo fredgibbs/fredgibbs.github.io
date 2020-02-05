@@ -11,9 +11,8 @@
         {% endif %}
       {% endfor %}
     </div>
-    <svg class="divider"></svg>
+    {% if forloop.last == false %}
+      <svg class="divider"></svg>
+    {% endif %}
   </div>
-
-
-
 {% endfor %}
