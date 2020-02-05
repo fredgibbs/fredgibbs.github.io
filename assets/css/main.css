@@ -162,6 +162,7 @@ ul {
   letter-spacing:-.3rem;
   color:#990000;
   text-align:right;
+  border-bottom:0px;
 }
 
 .toc {
