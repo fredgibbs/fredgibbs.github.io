@@ -90,34 +90,34 @@ Common
 
   h2 {
     font-size: 2rem;
-    text-transform:uppercase;
-    margin:2rem 0 .5rem 0;
+    text-transform: uppercase;
+    margin: 2rem 0 0.5rem 0;
   }
 
   h2.solid {
     font-size: 1.6rem;
-    text-transform:uppercase;
-    color:#fff;
-    background:#666;
-    margin:2rem 0 .5rem 0;
-    padding:.3rem;
+    text-transform: uppercase;
+    color: #fff;
+    background: #666;
+    margin: 2rem 0 0.5rem 0;
+    padding: 0.3rem;
   }
 
   h3 {
     font-size: 1.4rem;
-    margin:1.5rem 0 .5rem 0;
+    margin: 1.5rem 0 .5rem 0;
   }
 
   h2 + h3 {
-    margin-top:1.5rem;
+    margin-top: 1.5rem;
   }
 
   h4 {
-    margin:0em 0 .2em 0;
+    margin: 0 0 0.2em 0;
     font-size: 110%;
   }
 
-  p { margin: 0em 0 1em 0; }
+  p { margin: 0 0 1em 0; }
 
   a {
     text-decoration: none;
@@ -125,59 +125,55 @@ Common
     color: #f90;
   }
 
-  a:hover   { color: #a00; }
+  a:hover { color: #a00; }
 
   a:visited { color: #c60; }
 
   ul {
-    margin:0 0 2em 1em;
-    padding:0;
+    margin: 0 0 2em 1em;
+    padding: 0;
   }
 
   .alert-heading {
-    margin-top:0;
+    margin-top: 0;
   }
 
   .alert ul {
-    list-style-type:circle;
-    margin-bottom:0;
+    list-style-type: circle;
+    margin-bottom: 0;
   }
 
-
-  /*****************************************************************************/
-  /*
-  /* Homepage
-  /*
-  /*****************************************************************************/
+  /****************************************************************************
+  Homepage
+  ****************************************************************************/
 
   .homename {
     font: 5rem 'Roboto', sans-serif;
-    letter-spacing:-.3rem;
-    color:#990000;
-    text-align:right;
-    font-weight:900;
-    border-bottom:0;
+    letter-spacing: -0.3rem;
+    color: #900;
+    text-align: right;
+    font-weight: 900;
+    border-bottom: 0;
   }
 
   .toc {
-    max-width:800px;
-    font-size:12px;
+    max-width: 800px;
+    font-size: 12px;
   }
 
-
   .toc .row {
-    border-bottom:1px solid #666;
-    margin-bottom:0;
+    border-bottom: 1px solid #666;
+    margin-bottom: 0;
   }
 
   .toc .divider {
-    width:100%;
-    height:1rem;
+    width: 100%;
+    height: 1rem;
   }
 
   .title {
-    text-align:right;
-    height:100%;
+    text-align: right;
+    height: 100%;
   }
 
   .title a, .title a:hover, .title a:visited {
