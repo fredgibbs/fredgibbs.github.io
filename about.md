@@ -9,24 +9,35 @@ description: Associate Professor of History at UNM. Interested in creating new k
 ## Hello World!
 I'm Fred Gibbs, an associate professor in the [history department](http://history.unm.edu) at the [University of New Mexico](http://unm.edu).
 
-My primary interest is in working with community partners to build a shared digital heritage infrastructure and create a new kind of historical record of cultural heritage. I also enjoy reading and writing about various aspects in the history of food---most recently the history and rhetoric of natural food.
+I have three primary research interests that I try to overlap as much as possible, but sometimes it's nice when they don't. Even the most comfortable hat can chafe after a while. General descriptions follow; I describe specific implementations on my [projects page](projects/).
 
-For over a decade I have worked and published in various facets of the digital humanities, including computational history, digital editing and publishing, and data visualization. As an author and editor I have published a wide-ranging curriculum for helping scholars of all ranks blend qualitative and quantitative analytical skills. For nearly two decades I have embraced my love/hate relationship with web publishing technologies, especially web design and development with HTML, CSS, Javascript, PHP, and Python.
-
-I've served (since Oct 2016) as an editor of the [H-Nutrition](https://networks.h-net.org/h-nutrition) network on H-Net. I co-founded and co-organized the UNM [Spatial Humanities Working Group](http://spatialhumanities.unm.edu) (2015-18). Previously (2012-2017), I served as a general editor at [Programming Historian](http://programminghistorian.org).
-
-More on these projects, as well as past efforts can be found on [my project page](projects). A list of publications (and links to them) is on [my CV](cv).
-
-My earlier research focused on premodern toxicology, particularly late medieval and early modern medical literature on poison. I wrote a really boring [book](https://www.routledge.com/Poison-Medicine-and-Disease-in-Late-Medieval-and-Early-Modern-Europe/Gibbs/p/book/9781472420398) about it. But it's really useful if you're into that sort of thing.
-
-When I'm not experimenting with new digital essay formats, I like trying to grow food, start (and occasionally finish) DIY remodeling projects, and make awkward [event flyers](/portfolio/flyers).
+### History and Rhetoric of Food
+Early in my graduate school days, I developed a fascination for food writing and food history. I wanted to write a dissertation on monastic diets. Difficulty in finding sources took my work away from food and towards poison, as described below. Post-dissertation, I am finally returning to my interests in understanding how foodways, traditions, cookbooks, food media, diet books, provide a unique expression of cultural values.
 
 
-## History
+### Sustainable Digital History Coursework
+Many of my classes now produce some kind of digital public history project rather than standard essays.  Each class makes new contributions, and over time that work adds up to digital history projects that would be nearly impossible to do otherwise. I'm enjoying the challenge of crafting and refining a basic web framework that others can use for digital coursework.
+
+
+### Digital History & Archives
+For over a decade I have worked and published in various facets of digital history/humanities. Early on I focused on computational history, digital editing, and data visualization. More recently my interests have shifted toward developing post-custodial, community-based archives that can help facilitate a new kind of historical record and new kinds of historical research.
+
+
+### What about poison? (in case you've heard something about that)
+My earlier (dissertation) research (and most early presentations and publications) focused on premodern toxicology, particularly late medieval and early modern medical texts on poison. I wrote a boring but highly informative [book](https://www.routledge.com/Poison-Medicine-and-Disease-in-Late-Medieval-and-Early-Modern-Europe/Gibbs/p/book/9781472420398) about it. Reveling in its pedantry, it shows how physicians cultivated a distinct genre of poison literature in which they explored the natural philosophy of poison, debating its existence and wide range of meanings.
+
+
+### Outside the Academy
+When I'm not experimenting with new digital forms of history and archives, I like trying to grow food in harsh desert climates, starting (and occasionally finishing) DIY projects around the house (which entails many hours of research with YouTube videos and chat forums---a truly fascinating window onto American DIY culture), and making awkward [event flyers](/portfolio/flyers) to remind myself why a design career will always be out of reach.
+
+
+## A Brief History
 Until the spring of 2013, I was an assistant professor in the department of History and Art History at [George Mason University](http:///gmu.edu) (Fairfax, VA) and director of digital scholarship at the [Roy Rosenzweig Center for History and New Media](http://chnm.gmu.edu).
 
-I completed my History of Science PhD at the [University of Wisconsin-Madison](http://wisc.edu), where I discovered a new interest in web design and development. For a few years before that, I did menial cubicle chores \[= web programming] (where I also built elaborate soda-can towers) after studying physics at [Carleton College](http://www.carleton.edu). I grew up in Prior Lake, MN, where I enjoyed riding bikes through neighbors' yards, playing  mindless video games (experiments in algorithms, really), and trying to get computers to do stuff.
+I completed my History of Science PhD at the [University of Wisconsin-Madison](http://wisc.edu), where I discovered a new interest in web design and development. For a few years before that, I did menial cubicle chores \[= web programming] (where I also built elaborate soda-can towers) after studying physics at [Carleton College](http://www.carleton.edu). I grew up in Prior Lake, MN, where I enjoyed riding bikes through neighbors' yards, playing mindless video games (experiments in algorithms, really), and trying to get computers to do stuff.
 
 
-## Under the Hood
-Pages of this site are written in Markdown, converted to static HTML with Jekyll, and hosted in a [GitHub repository](https://github.com/fredgibbs/fredgibbs.github.io) and rendered via GitHub Pages. Several, I mean many, years ago I jotted down [a few reflections on my switch from Wordpress to GitHub](posts/a-new-minimalist-versioned-website), which continue to hold true.
+## Under the Screen
+This site is run through GitHub Pages, a free hosting platform through GitHub. Individual pages are written in Markdown, which makes it super easy to write and edit webpages without code getting in the way, uploaded/committed to my [GitHub repository](https://github.com/fredgibbs/fredgibbs.github.io) and rendered (via a tool called Jekyll) by GitHub Pages into the website. It's easy, maintenance-free, and extremely flexible.
+
+Many years ago I jotted down [a few reflections on my switch from Wordpress to GitHub](posts/a-new-minimalist-versioned-website), which continue to hold true.

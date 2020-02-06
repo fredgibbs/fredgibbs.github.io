@@ -1,10 +1,10 @@
 toc-rows:
   - title: about
-    link: about/
+    link: about
     headings:
       - title: "hello world!"
         link: "about/#hello-world"
-      - title: "select history"
+      - title: "a brief history"
         link: "about/#history"
       - title: "under the screen"
         link: "about/#under-the-hood"
@@ -62,7 +62,7 @@ toc-rows:
       - title: visual critique in the humanities
         link: posts/visual-critique-in-the-humanities
   - title: vita
-    link: cv/
+    link: cv
     headings:
       - title: academic employment
         link: cv/#academic-employment
