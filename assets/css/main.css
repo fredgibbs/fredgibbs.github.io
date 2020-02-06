@@ -1,8 +1,6 @@
-/*****************************************************************************/
-/*
-/* Common
-/*
-/*****************************************************************************/
+/****************************************************************************
+Common
+****************************************************************************/
 
 @import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i');
 @import url('https://fonts.googleapis.com/css?family=Lato');
@@ -12,592 +10,587 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 @media screen {
-
-body {
-  background-color: #FEFEFE;
-  font: 1.1rem/1.8rem 'Lato', sans-serif;
-  color:#666;
-}
-
-.container {
-  max-width: 50rem;
-}
-
-
-/*****************************************************************************/
-/*
-/* Nav bar
-/*
-/*****************************************************************************/
-
-
-a.nav-link, a.nav-link:visited, a.bonus, a.bonus:visited  {
-  font-family: 'Roboto', sans-serif;
-  font-size: 1rem;
-  text-transform: uppercase;
-  text-decoration: none;
-  border: 0;
-  color:#999;
-}
-
-a.bonus, a.bonus:visited {
-  color:#FEFEFE;
-}
-
-.navbar {
-  background:#efefef;
-  opacity: .95;
-  box-shadow: 0 3px 4px #ccc;
-  margin-bottom:1rem;
-}
-
-a.navbar-brand {
-  font-family:'Oswald';
-  font-size:1.4rem;
-  text-transform: lowercase;
-  border:none;
-  color:#ccc;
-}
-
-.navbar-light .navbar-nav .nav-link{
-  color:#666;
-}
-
-.navbar-light .navbar-nav .nav-link.bonus{
-  color:#FEFEFE;
-}
-
-.navbar-light .navbar-nav a.nav-link.bonus:hover{
-  color:#C00;
-}
-
-
-/*****************************************************************************/
-/*
-/* Typography
-/*
-/*****************************************************************************/
-
-h1,h2,h3,h4,h5 {
-  font-family: 'Oswald';
-  color:#000000;
-}
-
-h1 a, h2 a, h3 a, h4 a, h5 a, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited  {
-  text-decoration:none;
-  border:none;
-  color:#c60;
-}
-
-h1 {
-  font-size: 2.8rem;
-  margin: 1rem 0;
-}
-
-h2 {
-  font-size: 2rem;
-  text-transform:uppercase;
-  margin:2rem 0 .5rem 0;
-}
-
-h2.solid {
-  font-size: 1.6rem;
-  text-transform:uppercase;
-  color:#fff;
-  background:#666;
-  margin:2rem 0 .5rem 0;
-  padding:.3rem;
-}
-
-h3 {
-  font-size: 1.4rem;
-  margin:1.5rem 0 .5rem 0;
-}
-
-h2 + h3 {
-  margin-top:1.5rem;
-}
-
-h4 {
-  margin:0em 0 .2em 0;
-  font-size: 110%;
-}
-
-p { margin: 0em 0 1em 0; }
-
-a {
-  text-decoration: none;
-  border-bottom:1px dotted;
-  color: #f90;
-}
-
-a:hover   { color: #a00; }
-
-a:visited { color: #c60; }
-
-ul {
-  margin:0 0 2em 1em;
-  padding:0;
-}
-
-.alert-heading {
-  margin-top:0;
-}
-
-.alert ul {
-  list-style-type:circle;
-  margin-bottom:0;
-}
-
-
-/*****************************************************************************/
-/*
-/* Homepage
-/*
-/*****************************************************************************/
-
-.homename {
-  font: 5rem 'Roboto', sans-serif;
-  letter-spacing:-.3rem;
-  color:#990000;
-  text-align:right;
-  font-weight:900;
-  border-bottom:0;
-}
-
-.toc {
-  max-width:800px;
-  font-size:12px;
-}
-
-
-.toc .row {
-  border-bottom:1px solid #666;
-  margin-bottom:0;
-}
-
-.toc .divider {
-  width:100%;
-  height:1rem;
-}
-
-.title {
-  text-align:right;
-  height:100%;
-}
-
-.title a, .title a:hover, .title a:visited {
-  font-family: 'Roboto', cursive;
-  font-size:7rem;
-  font-weight:900;
-  line-height:7rem;
-  padding-bottom:0rem;
-  color:#333;
-  letter-spacing:-.3rem;
-  border:none;
-}
-
-.headings a, .headings a:visited {
-  font-family: 'Montserrat', cursive;
-  font-weight:300;
-  font-size:1rem;
-  color:#888;
-  border:none;
-
-}
-
-.headings a:hover {
-  color:#900;
-  border:none;
-}
-
-.headings {
-  display:inline-block;
-  line-height:1.3rem;
-  margin-top:1rem;
-}
-
-.fa-circle {
-  font-size:50%;
-  vertical-align:middle;
-  margin:-.2rem .2rem 0 .2rem;
-  color:#aaa;
-}
-/*****************************************************************************/
-/*
-/* Posts Index
-/*
-/*****************************************************************************/
-
-ul.posts {
-  font-family: 'Roboto', sans-serif;
-  list-style-type: none;
-  margin-bottom: 2em;
-}
-
-ul.posts li {
-  line-height: 1.75em;
-  margin: 0;
-  padding:0;
-}
-
-ul.posts span {
-  color: #aaa;
-  font-family: "Monaco", "Courier New", monospace;
-  font-size: 80%;
-}
-
-.posts h2 {
-  margin:2rem 0 1rem 0;
-}
-
-.posts h3 {
-  margin:0 0 .2rem 0;
-}
-
-
-/*****************************************************************************/
-/*
-/* Posts
-/*
-/*****************************************************************************/
-
-.post {
-  font: 1.1rem/1.6rem "Lora";
-  margin-bottom:1rem;
-}
-
-.post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
-}
-
-.post ul, .post ol {
-  margin-left: 1.35em;
-}
-
-.has-pullquote:before, .has-pullquote-left:before {
-  /* Reset metrics */
-  padding: 0em;
-  border-top: 1px solid #ccc;
-  border-bottom: 1px solid #ccc;
-  padding: .5rem 0;
-  text-align: left;
-  color:#666;
-  position: relative;
-  top: 5px;
-
-  font: 1.5rem/1.8rem 'Merriweather';
-
-
-  /* Pull out to the right, modular scale based margins */
-  float: right;
-  width: 40%;
-  margin: 0rem 0 1rem 2rem;
-
-  /* Content */
-  content: attr(data-pullquote);
-}
-
-.has-pullquote-left:before {
-  float: left;
-  margin: 0rem 2rem 1rem 0;
-  width: 40%;
-}
-
-/*****************************************************************************/
-/*
-/* Images
-/*
-/*****************************************************************************/
-
-img {
-  padding:1em;
-}
-
-figure {
-  margin: 1.5em;
-  clear:both;
-  max-width: 40em;
-}
-
-figure p {
-  clear:both;
-  margin:0;
-}
-
-figure a {
-  text-decoration: none;
-  padding:0;
-  border:none;
-}
-
-figure img {
-  max-width:40em;
-  padding:0;
-  clear:both;
-}
-
-figure img.full {
-  width:100%;
-}
-
-figure img.icon {
-  margin:0;
-  width: 50px;
-}
-
-figcaption {
-  font-size: 80%;
-  text-align: right;
-  font-family: 'Roboto', sans-serif;
-  display:block;
-  margin:-.5em 2em 0em 0em;
-  line-height: 1.3em;
-}
-
-figcaption.raw {
-  font-size: 80%;
-  text-align: right;
-  font-family: 'Roboto', sans-serif;
-  display:block;
-  margin:.2em .5em 1em 0;
-}
-
-
-/*****************************************************************************/
-/*
-/* Posters
-/*
-/*****************************************************************************/
-
-.poster-row {
-  text-align: center;
-  margin-bottom: 4em;
-}
-
-.poster {
-  padding:1em;
-  border:1px solid #ccc;
-  box-shadow: 2px 2px 5px #888;
-}
-
-.vertical {
-  width:380px;
-}
-
-.horizontal {
-  width:640px;
-}
-
-
-/*****************************************************************************/
-/*
-/* Courses index
-/*
-/*****************************************************************************/
-
-h2.course-title {
-  font-size: 2.3rem;
-  border-bottom:1px solid black;
-  text-align:right;
-  background:#fff;
-  color:#333;
-}
-
-p.course-desc {
-  font: 1rem/1.5rem 'Arimo', sans-serif;
-  text-align:justify;
-}
-
-img.course-poster {
-  width:100%;
-  padding:0;
-}
-
-.row.course {
-  margin-bottom:2em;
-}
-
-/*****************************************************************************/
-/*
-/* Syllabus
-/*
-/*****************************************************************************/
-
-#syllabus {
-  max-width:65rem;
-  background-color: #FEFEFE;
-  font: 1.1rem/1.6rem 'Roboto', serif;
-  color:#666;
-}
-
-#syllabus h2 {
-  border-top: 1px solid #999;
-  border-bottom: 1px solid #999;
-  padding: .2rem 0;
-}
-
-#syllabus h3 a {
-  text-transform: uppercase;
-  font-size:1.4rem;
-  margin: 1.4rem 0 .3rem 0;
-  color:#000;
-}
-
-#syllabus h4 a {
-  text-transform: uppercase;
-  font-size:1.1rem;
-  margin: 0 0 .4rem 0;
-  color:#333
-}
-
-#syllabus li {
-  margin-bottom:.5rem;
-}
-
-#syllabus li li {
-  margin-bottom:0;
-}
-
-#syllabus .alert li {
-  margin-left:.2rem;
-  margin-bottom:0;
-  padding-bottom:0;
-}
-
-
-
-/*****************************************************************************/
-/*
-/* CV
-/*
-/*****************************************************************************/
-
-.cv {
-  max-width: 50rem;
-  line-height: 1.4rem;
-  font-family: 'Lato', sans-serif;
-  font-size: 1rem;
-  text-align: justify;
-}
-
-.cv h2 a{
-  color:#000;
-}
-
-
-.cv h3{
-  line-height: 1.5rem;
-  margin:1rem 0 .3rem 0;
-}
-
-.cv ul {
- list-style-type: circle;
-}
-
-.cv li {
-  margin:0 0 .7em 0em;
-  padding:0;
-}
-
-.cv li li{
-  margin:0 0 0 0;
-  padding:0;
-  color:#999;
-}
-
-
-
-/*****************************************************************************/
-/*
-/* Footer
-/*
-/*****************************************************************************/
-
-footer {
-  font: 1rem/1.6rem 'Nota Serif', sans-serif;
-  background:#eee;
-  opacity: .95;
-  box-shadow: 3px 0 4px #ccc;
-  margin-bottom:0;
-}
-
-footer ul {
-  margin-left:0px
-}
-
-footer a {
-  border:none;
-}
+  body {
+    background-color: #fefefe;
+    font: 1.1rem/1.8rem 'Lato', sans-serif;
+    color: #666;
+  }
+
+  .container {
+    max-width: 50rem;
+  }
+
+  /****************************************************************************
+  Navbar
+  ****************************************************************************/
+
+  a.nav-link,
+  a.nav-link:visited,
+  a.bonus,
+  a.bonus:visited {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 0;
+    color: #999;
+  }
+
+  a.bonus,
+  a.bonus:visited {
+    color: #fefefe;
+  }
+
+  .navbar {
+    background: #efefef;
+    opacity: 0.95;
+    box-shadow: 0 3px 4px #ccc;
+    margin-bottom: 1rem;
+  }
+
+  a.navbar-brand {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.4rem;
+    text-transform: lowercase;
+    border: none;
+    color: #ccc;
+  }
+
+  .navbar-light .navbar-nav .nav-link {
+    color: #666;
+  }
+
+  .navbar-light .navbar-nav .nav-link.bonus {
+    color: #fefefe;
+  }
+
+  .navbar-light .navbar-nav a.nav-link.bonus:hover {
+    color: #c00;
+  }
+
+  /****************************************************************************
+  Typography
+  ****************************************************************************/
+
+  h1,h2,h3,h4,h5 {
+    font-family: 'Oswald', sans-serif;
+    color: #000;
+  }
+
+  h1 a, h2 a, h3 a, h4 a, h5 a, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited  {
+    text-decoration:none;
+    border:none;
+    color:#c60;
+  }
+
+  h1 {
+    font-size: 2.8rem;
+    margin: 1rem 0;
+  }
+
+  h2 {
+    font-size: 2rem;
+    text-transform:uppercase;
+    margin:2rem 0 .5rem 0;
+  }
+
+  h2.solid {
+    font-size: 1.6rem;
+    text-transform:uppercase;
+    color:#fff;
+    background:#666;
+    margin:2rem 0 .5rem 0;
+    padding:.3rem;
+  }
+
+  h3 {
+    font-size: 1.4rem;
+    margin:1.5rem 0 .5rem 0;
+  }
+
+  h2 + h3 {
+    margin-top:1.5rem;
+  }
+
+  h4 {
+    margin:0em 0 .2em 0;
+    font-size: 110%;
+  }
+
+  p { margin: 0em 0 1em 0; }
+
+  a {
+    text-decoration: none;
+    border-bottom:1px dotted;
+    color: #f90;
+  }
+
+  a:hover   { color: #a00; }
+
+  a:visited { color: #c60; }
+
+  ul {
+    margin:0 0 2em 1em;
+    padding:0;
+  }
+
+  .alert-heading {
+    margin-top:0;
+  }
+
+  .alert ul {
+    list-style-type:circle;
+    margin-bottom:0;
+  }
+
+
+  /*****************************************************************************/
+  /*
+  /* Homepage
+  /*
+  /*****************************************************************************/
+
+  .homename {
+    font: 5rem 'Roboto', sans-serif;
+    letter-spacing:-.3rem;
+    color:#990000;
+    text-align:right;
+    font-weight:900;
+    border-bottom:0;
+  }
+
+  .toc {
+    max-width:800px;
+    font-size:12px;
+  }
+
+
+  .toc .row {
+    border-bottom:1px solid #666;
+    margin-bottom:0;
+  }
+
+  .toc .divider {
+    width:100%;
+    height:1rem;
+  }
+
+  .title {
+    text-align:right;
+    height:100%;
+  }
+
+  .title a, .title a:hover, .title a:visited {
+    font-family: 'Roboto', cursive;
+    font-size:7rem;
+    font-weight:900;
+    line-height:7rem;
+    padding-bottom:0rem;
+    color:#333;
+    letter-spacing:-.3rem;
+    border:none;
+  }
+
+  .headings a, .headings a:visited {
+    font-family: 'Montserrat', cursive;
+    font-weight:300;
+    font-size:1rem;
+    color:#888;
+    border:none;
+
+  }
+
+  .headings a:hover {
+    color:#900;
+    border:none;
+  }
+
+  .headings {
+    display:inline-block;
+    line-height:1.3rem;
+    margin-top:1rem;
+  }
+
+  .fa-circle {
+    font-size:50%;
+    vertical-align:middle;
+    margin:-.2rem .2rem 0 .2rem;
+    color:#aaa;
+  }
+  /*****************************************************************************/
+  /*
+  /* Posts Index
+  /*
+  /*****************************************************************************/
+
+  ul.posts {
+    font-family: 'Roboto', sans-serif;
+    list-style-type: none;
+    margin-bottom: 2em;
+  }
+
+  ul.posts li {
+    line-height: 1.75em;
+    margin: 0;
+    padding:0;
+  }
+
+  ul.posts span {
+    color: #aaa;
+    font-family: "Monaco", "Courier New", monospace;
+    font-size: 80%;
+  }
+
+  .posts h2 {
+    margin:2rem 0 1rem 0;
+  }
+
+  .posts h3 {
+    margin:0 0 .2rem 0;
+  }
+
+
+  /*****************************************************************************/
+  /*
+  /* Posts
+  /*
+  /*****************************************************************************/
+
+  .post {
+    font: 1.1rem/1.6rem "Lora";
+    margin-bottom:1rem;
+  }
+
+  .post pre {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    padding: 0 .4em;
+  }
+
+  .post ul, .post ol {
+    margin-left: 1.35em;
+  }
+
+  .has-pullquote:before, .has-pullquote-left:before {
+    /* Reset metrics */
+    padding: 0em;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: .5rem 0;
+    text-align: left;
+    color:#666;
+    position: relative;
+    top: 5px;
+
+    font: 1.5rem/1.8rem 'Merriweather';
+
+
+    /* Pull out to the right, modular scale based margins */
+    float: right;
+    width: 40%;
+    margin: 0rem 0 1rem 2rem;
+
+    /* Content */
+    content: attr(data-pullquote);
+  }
+
+  .has-pullquote-left:before {
+    float: left;
+    margin: 0rem 2rem 1rem 0;
+    width: 40%;
+  }
+
+  /*****************************************************************************/
+  /*
+  /* Images
+  /*
+  /*****************************************************************************/
+
+  img {
+    padding:1em;
+  }
+
+  figure {
+    margin: 1.5em;
+    clear:both;
+    max-width: 40em;
+  }
+
+  figure p {
+    clear:both;
+    margin:0;
+  }
+
+  figure a {
+    text-decoration: none;
+    padding:0;
+    border:none;
+  }
+
+  figure img {
+    max-width:40em;
+    padding:0;
+    clear:both;
+  }
+
+  figure img.full {
+    width:100%;
+  }
+
+  figure img.icon {
+    margin:0;
+    width: 50px;
+  }
+
+  figcaption {
+    font-size: 80%;
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+    display:block;
+    margin:-.5em 2em 0em 0em;
+    line-height: 1.3em;
+  }
+
+  figcaption.raw {
+    font-size: 80%;
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+    display:block;
+    margin:.2em .5em 1em 0;
+  }
+
+
+  /*****************************************************************************/
+  /*
+  /* Posters
+  /*
+  /*****************************************************************************/
+
+  .poster-row {
+    text-align: center;
+    margin-bottom: 4em;
+  }
+
+  .poster {
+    padding:1em;
+    border:1px solid #ccc;
+    box-shadow: 2px 2px 5px #888;
+  }
+
+  .vertical {
+    width:380px;
+  }
+
+  .horizontal {
+    width:640px;
+  }
+
+
+  /*****************************************************************************/
+  /*
+  /* Courses index
+  /*
+  /*****************************************************************************/
+
+  h2.course-title {
+    font-size: 2.3rem;
+    border-bottom:1px solid black;
+    text-align:right;
+    background:#fff;
+    color:#333;
+  }
+
+  p.course-desc {
+    font: 1rem/1.5rem 'Arimo', sans-serif;
+    text-align:justify;
+  }
+
+  img.course-poster {
+    width:100%;
+    padding:0;
+  }
+
+  .row.course {
+    margin-bottom:2em;
+  }
+
+  /*****************************************************************************/
+  /*
+  /* Syllabus
+  /*
+  /*****************************************************************************/
+
+  #syllabus {
+    max-width:65rem;
+    background-color: #FEFEFE;
+    font: 1.1rem/1.6rem 'Roboto', serif;
+    color:#666;
+  }
+
+  #syllabus h2 {
+    border-top: 1px solid #999;
+    border-bottom: 1px solid #999;
+    padding: .2rem 0;
+  }
+
+  #syllabus h3 a {
+    text-transform: uppercase;
+    font-size:1.4rem;
+    margin: 1.4rem 0 .3rem 0;
+    color:#000;
+  }
+
+  #syllabus h4 a {
+    text-transform: uppercase;
+    font-size:1.1rem;
+    margin: 0 0 .4rem 0;
+    color:#333
+  }
+
+  #syllabus li {
+    margin-bottom:.5rem;
+  }
+
+  #syllabus li li {
+    margin-bottom:0;
+  }
+
+  #syllabus .alert li {
+    margin-left:.2rem;
+    margin-bottom:0;
+    padding-bottom:0;
+  }
+
+
+
+  /*****************************************************************************/
+  /*
+  /* CV
+  /*
+  /*****************************************************************************/
+
+  .cv {
+    max-width: 50rem;
+    line-height: 1.4rem;
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+    text-align: justify;
+  }
+
+  .cv h2 a{
+    color:#000;
+  }
+
+
+  .cv h3{
+    line-height: 1.5rem;
+    margin:1rem 0 .3rem 0;
+  }
+
+  .cv ul {
+   list-style-type: circle;
+  }
+
+  .cv li {
+    margin:0 0 .7em 0em;
+    padding:0;
+  }
+
+  .cv li li{
+    margin:0 0 0 0;
+    padding:0;
+    color:#999;
+  }
+
+
+
+  /*****************************************************************************/
+  /*
+  /* Footer
+  /*
+  /*****************************************************************************/
+
+  footer {
+    font: 1rem/1.6rem 'Nota Serif', sans-serif;
+    background:#eee;
+    opacity: .95;
+    box-shadow: 3px 0 4px #ccc;
+    margin-bottom:0;
+  }
+
+  footer ul {
+    margin-left:0px
+  }
+
+  footer a {
+    border:none;
+  }
 
 
 
 } /* end media screen */
 
 
-/*****************************************************************************/
-/*
-/* SMALL SCREEN
-/*
-/*****************************************************************************/
+/****************************************************************************
+SMALL SCREEN
+****************************************************************************/
 
 @media screen and (max-width: 768px) {
-
   a {
     text-decoration: none;
-    border:none;
+    border: none;
   }
 
-  .title, .homename {
-    text-align:left;
+  .title,
+  .homename {
+    text-align: left;
   }
 
-  .title a, .title a:hover, .title {
-    font-size:5rem;
-    line-height:4rem;
-    padding-top:.5rem;
+  .title a,
+  .title a:hover,
+  .title {
+    font-size: 5rem;
+    line-height: 4rem;
+    padding-top: 0.5rem;
   }
 
   .headings {
-    margin-top:.5rem;
+    margin-top: 0.5rem;
   }
-
 }
 
-/*****************************************************************************/
-/*
-/* PRINTING
-/*
-/*****************************************************************************/
+/*****************************************************************************
+PRINTING
+******************************************************************************/
 
-@page  {
-    size: auto;   /* auto is the initial value */
+@page {
+  size: auto;   /* auto is the initial value */
 
-    /* this affects the margin in the printer settings */
-    margin: 25mm 25mm 25mm 25mm;
+  /* this affects the margin in the printer settings */
+  margin: 25mm 25mm 25mm 25mm;
 }
 
 @media print {
-
   body {
     font-weight: normal;
   }
 
   .navbar {
-    display:none;
+    display: none;
   }
 
   footer {
-    display:none;
+    display: none;
   }
 
   .alert {
-    width:100%;
+    width: 100%;
   }
 
-  .page-break { display: block; page-break-before: always; }
+  .page-break {
+    display: block;
+    page-break-before: always;
+  }
 
 #syllabus h1, #syllabus h2, #syllabus h3, #syllabus h4, #syllabus h5, #syllabus h1 a, #syllabus h2 a, #syllabus h3 a, #syllabus h4 a, #syllabus h5 a{
   color:#000;
