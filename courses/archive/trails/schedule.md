@@ -1,13 +1,13 @@
 ---
 layout: syllabus
-title: National Historic Trails
+course-title: National Historic Trails
+course-slug: trails
 term: Fall 2018
 number: HIST 300-002
 section: schedule
-header: trails
 ---
 
-# National Historic Trails
+# Schedule of Readings and Assignments
 
 
 ## Week 1: Introductions

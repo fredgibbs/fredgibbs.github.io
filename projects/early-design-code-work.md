@@ -3,8 +3,7 @@ layout: default
 title: early design and code work | fred gibbs
 ---
 
-## Early Design + Code Work
-More technical details about these projects can be found on [my CV](/cv).
+# Early Design + Code Work
 
 ### UW Center for the Humanities
 As the web developer and designer for the UW Center for the Humanities, I worked closely with the directors and staff to help redefine and modernize their web presence, as well as to identify ways of using the website to carry out the Center’s core mission. This has entailed establishing and documenting best practices for how to better integrate content creation and deployment with the Center’s workflow.
