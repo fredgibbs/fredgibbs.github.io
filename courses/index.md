@@ -1,6 +1,7 @@
 ---
 layout: default
 title: courses
+description: Regularly scheduled courses: Food + Technology + Society; Landscape + Memory; Historiography; American Food; Digital History; History of Diet and Health
 ---
 
 # Regularly Scheduled Courses

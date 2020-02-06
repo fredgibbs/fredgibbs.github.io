@@ -1,6 +1,7 @@
 ---
 layout: default
 title: projects
+description: A list of projects, initiatives, ambitions, fantasies. Details on my research interests in natural food, sustainable digital public history, and Digital Heritage Studies
 ---
 
 # Stuff I'm Working On
@@ -9,7 +10,7 @@ title: projects
 This project maps out the shifting contours of the idea of “natural food” in the United States beginning around the early nineteenth-century as religious and health reformers responded to the emergence of new convenience and packaged foods. Perhaps because the term “natural” has become so ubiquitous, its long and complex history has been overlooked. Yet it provides a revealing lens onto popular relationships between nature, technology, and modernity. Even amidst massive cultural change over the last century, the way appeals to natural food have been formulated, contested, and appropriated provides much needed perspective on contemporary (but often ahistorical and reductive) debates about the meaning and implications of natural food, its place in our food system, and ways it continues to shape food production and consumption.
 
 
-## Towards a Public Digital History Website Framework
+## Sustainable Student-driven Digital Public History Websites
 Many of my classes now produce some kind of digital public history project rather than standard essays and other assignments. Honestly, I like working with students to build things a lot more than just working through a more traditional grading regimen. Students indicate that they enjoy it, work harder, and learn more. Each class makes new contributions, and over time that work adds up to digital history projects that would be nearly impossible to do otherwise.
 
 While the number of student-driven digital history projects seems to be on the rise, there also seems to be a fair amount of reinventing the wheel within each project. Some duplication is necessary for many reasons, but there would be many benefits in having a more centralized place for explaining a strategy for planning and executing these kinds of projects, both from technical and logistical standpoints.
