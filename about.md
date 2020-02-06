@@ -26,8 +26,8 @@ Check out the [GitHub repository](https://github.com/fredgibbs/jekylton) for the
 For over a decade I have worked and published in various facets of digital history/humanities. Early on I focused on computational history, digital editing, and data visualization. More recently my interests have shifted toward developing post-custodial, community-based archives that can help facilitate a new kind of historical record and new kinds of historical research.
 
 
-## What about poison? (in case you've heard something about that)
-My earlier (dissertation) research (and most early presentations and publications) focused on premodern toxicology, particularly late medieval and early modern medical texts on poison. I wrote a boring but highly informative [book](https://www.routledge.com/Poison-Medicine-and-Disease-in-Late-Medieval-and-Early-Modern-Europe/Gibbs/p/book/9781472420398) about it. Reveling in its pedantry, it shows how physicians cultivated a distinct genre of poison literature in which they explored the natural philosophy of poison, debating its existence and wide range of meanings.
+## What about poison?
+My earlier (dissertation) research (and most early presentations and publications) focused on premodern toxicology, particularly late medieval and early modern medical texts on poison. I wrote a boring but highly informative and I think insightful [book](https://www.routledge.com/Poison-Medicine-and-Disease-in-Late-Medieval-and-Early-Modern-Europe/Gibbs/p/book/9781472420398) about it. Reveling in its own pedantry, it shows how physicians cultivated a distinct genre of poison literature in which they explored the natural philosophy of poison, debating its existence and wide range of meanings.
 
 
 ## Outside the Academy

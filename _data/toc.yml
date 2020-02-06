@@ -2,12 +2,12 @@ toc-rows:
   - title: about
     link: about
     headings:
-      - title: "hello world!"
-        link: "about/#hello-world"
+      - title: "hello world"
+        link: "about#hello-world"
       - title: "a brief history"
-        link: "about/#history"
+        link: "about#history"
       - title: "under the screen"
-        link: "about/#under-the-hood"
+        link: "about#under-the-hood"
   - title: projects
     link: projects/
     headings:
@@ -65,12 +65,12 @@ toc-rows:
     link: cv
     headings:
       - title: academic employment
-        link: cv/#academic-employment
+        link: cv#academic-employment
       - title: degrees
-        link: cv/#education
+        link: cv#education
       - title: publications
-        link: cv/#publications
+        link: cv#publications
       - title: presentations
-        link: cv/#selected-presentations-panels-and-workshops
+        link: cv#selected-presentations-panels-and-workshops
       - title: engagements
-        link: cv/#engagements
+        link: cv#engagements
