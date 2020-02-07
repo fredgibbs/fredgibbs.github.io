@@ -39,8 +39,8 @@ header: american-food
 ### National Cuisine
 - Wallach, xi-xv.
 - Gabaccia, 1-10.
-- Mintz, "Eating American". [PDF](readings/eating-american.pdf)
-- G. J. Fitzgerald and G. M. Petrick, “In Good Taste: Rethinking American History with Our Palates,” 392–404. [PDF](readings/in-good-taste.pdf)
+- Mintz, "Eating American".
+- G. J. Fitzgerald and G. M. Petrick, “In Good Taste: Rethinking American History with Our Palates,” 392–404.
 
 ### Authenticity
 - [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
@@ -55,7 +55,7 @@ header: american-food
 - [Ketchup and the American Diet](http://www.zocalopublicsquare.org/2018/06/04/ketchup-perfect-complement-american-diet/ideas/essay/)
 - [The Ketchup Conundrum](https://www.newyorker.com/magazine/2004/09/06/the-ketchup-conundrum)
 - Andrew Haley, "The Nation before Taste", 53-78. [JSTOR](http://www.jstor.org/stable/10.1525/tph.2012.34.2.53)
-- McWilliams, _A Revolution in Eating_, 279-321 (A Culinary Declaration of Independence), via [ugly PDF](readings/McWilliams.pdf) or [ProQuest Ebook](https://ebookcentral.proquest.com/lib/unm/reader.action?docID=895246&ppg=288)
+- McWilliams, _A Revolution in Eating_, 279-321 (A Culinary Declaration of Independence)
 
 
 
@@ -66,7 +66,7 @@ header: american-food
 - Heather Trigg, “Food Choice and Social Identity in Early Colonial New Mexico,” 223–252. [JSTOR](http://www.jstor.org/stable/40170289)
 
 ### Food Myths
-- Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality,” 167–91. [PDF](readings/Siskind.pdf)
+- Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality,” 167–91.
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/)
 - [Food Origin Myths](http://www.mashed.com/31587/food-origin-myths-everyone-believes-true/)
 - [10 Stubborn Food Myths That Just Won't Die](https://lifehacker.com/5847591/10-stubborn-food-myths-that-just-wont-die)
@@ -80,7 +80,7 @@ header: american-food
 ### Cookbooks as Historical Sources
 The following two articles provide VERY useful ways of thinking about using cookbooks as historical sources. Read them carefully enough that you can apply their techniques to other cookbooks.
 - Arjun Appadurai, “How to Make a National Cuisine: Cookbooks in Contemporary India,” 3–24. [JSTOR](http://www.jstor.org.libproxy.unm.edu/stable/179020)
-- Colleen Cotter, “Claiming a Piece of the Pie,” 51–68. [PDF](readings/claiming-piece-of-the-pie.pdf)
+- Colleen Cotter, “Claiming a Piece of the Pie,” 51–68.
 
 ### Early Cookbooks
 - Read the little blurbs about more cookbooks [here](http://www.americantable.org/2015/12/top-12-most-influential-historic-american-cookbooks/)
@@ -128,8 +128,8 @@ The following two articles provide VERY useful ways of thinking about using cook
 
 ### Moral Eating
 EVERYONE:
-- Charlotte Biltekoff, _Eating Right in America_, 1-11 (Cultural Politics) [PDF](readings/cultural-politics.pdf); 13-44 (Scientific Moralization) [PDF](readings/scientific-moralization.pdf).
-- Wilbur Atwater, "Chemistry, Foods, Nutrition" (1887), 59-74. [PDF](readings/chemistry-food-nutrition.pdf).
+- Charlotte Biltekoff, _Eating Right in America_, 1-11 (Cultural Politics); 13-44 (Scientific Moralization).
+- Wilbur Atwater, "Chemistry, Foods, Nutrition" (1887), 59-74.
 
 SPLIT UP:
 - Wallach, 143-67 (Pious and Patriotic Stomach).
@@ -164,7 +164,7 @@ Regardless of which you read, be prepared to answer the following in class:
 
 ### Food Will Win the War
 - Cecilia Gowdy-Wygant, _Cultivating Victory: The Women’s Land Army and the Victory Garden Movement_, 131-161. [ProQuest Ebook](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=2039400)
-- Harvey A. Levenstein, _Paradox of Plenty_ (Golden Age of Food Processing), 101-118. [PDF](readings/food-processing.pdf)
+- Harvey A. Levenstein, _Paradox of Plenty_ (Golden Age of Food Processing), 101-118.
 
 
 
@@ -186,7 +186,7 @@ Regardless of which you read, be prepared to answer the following in class:
 
 #### Pick one
 - Gabaccia, 149-74 (Big Business). As usual, lots more detail than we need--but read enough to get a sense of the importance of "ethnic" foods in the rise of mass market foods.
-- Harvey A. Levenstein, _Paradox of Plenty_ (Fast Foods and Quick Bucks), 227-236. [PDF](readings/fast-food-quick-bucks.pdf)
+- Harvey A. Levenstein, _Paradox of Plenty_ (Fast Foods and Quick Bucks), 227-236.
 
 
 ### Corn
@@ -261,8 +261,8 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 - [The Problems With Food Media That Nobody Wants to Talk About](https://firstwefeast.com/eat/2016/02/problems-with-food-media)
 
 ### The Food Network
-- Signe Rousseau, _Food Media_, xix-xxxiv [PDF](readings/food-media-preface.pdf); 5-20 [PDF](readings/food-media-intro.pdf).
-- Ray Krishnendu, “Domesticating Cuisine: Food and Aesthetics on American Television,” 50–63. [PDF](http://www.jstor.org/stable/10.1525/gfc.2007.7.1.50)
+- Signe Rousseau, _Food Media_, xix-xxxiv; 5-20.
+- Ray Krishnendu, “Domesticating Cuisine: Food and Aesthetics on American Television,” 50–63. [JSTOR](http://www.jstor.org/stable/10.1525/gfc.2007.7.1.50)
 
 - Julia Child (cheese soufflé)
   - [Beef Bourguignon](https://www.youtube.com/watch?v=zA2ys8C-lNk)
@@ -312,8 +312,8 @@ What do we make of Horowitz in context of the course? Strengths? Weaknesses? Ass
 - Sophie Gilbert, [How American Cuisine Became a Melting Pot](https://www.theatlantic.com/entertainment/archive/2016/11/eight-flavors-sarah-lohman-review/508577/)
 
 ### 2 Last Food Writings Bits
-- M.F.K. Fisher, [Consider the Oyster](readings/consider-the-oyster.pdf) (125-38; 146-59).
-- David Foster Wallace, [Consider the Lobster](readings/lobsterarticle.pdf) (READ THE FOOTNOTES!).
+- M.F.K. Fisher, Consider the Oyster, 125-38; 146-59).
+- David Foster Wallace, Consider the Lobster, (READ THE FOOTNOTES!).
 
 ### Closing Remarks
 - Assignment check-ins
