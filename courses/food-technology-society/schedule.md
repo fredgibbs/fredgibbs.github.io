@@ -104,26 +104,34 @@ Come to class with your book review. Consult the [Book Review Writing Guide](boo
 ### Feb 18
 - Susanne Frieberg, _Fresh_, 1--48 (intro and chapter 1).
 
+{% include alert.html class='danger' title='DUE: _Canned_ edits' text="
+As we rushed through in class, my hope is to get you to see what other people are doing and some new perspectives on the assignment. I am committed to my belief that it is super useful to edit other people's work as a way of helping your own thinking and writing, especially in novel formats, because it makes you a little more aware of things that work or don't. Also, not to be overly snarky, figuring out how to tell someone that something isn't very good is a prized managerial skill that is always worth cultivating.
+
+What you should do for TODAY with whoever's essay you have:
+- Mark words or phrases that are confusing. You don't have to fix them--just let the author know it doesn't work (implied is that it doesn't work FOR YOU and the author may decide it works for everyone else, although that's usually wishful thinking).
+- Mark phrases or sentences that you feel are too vague, meaning they don't have a well defined subject, geography, time period, or don't seem supported by any examples or evidence.
+- In the margins, make a note of topics or ideas that seems relevant but aren't mentioned.
+- GRADE IT. A=Excellent; B=Fine, but with issues; C=OK but kind of disappointing; D=problematic; F=WTF. Write a few sentences about what motivated your decision. You might not feel qualified to grade someone else's work, but you are. This is NOT the grade your author will get; so be honest and tell them what you think so they can make their essay better.
+"%}
+
 
 ### Feb 20
 - Gabriella M. Petrick, "'Purity as Life:", 37--57.
-
-
+- Discussion of Ad analysis assignment. Please review the [Ad Analysis Writing Guide](newspaper-ads-guide) ahead of time.
 
 
 ## 6: Sugar and Saccharine
 
 ### Feb 25
 - Carolyn Thomas Peña, _Empty Pleasure_, Chapter 1: 13--38.
+- Carolyn Thomas Peña, _Empty Pleasure_, Chapter 5: 141--175; Conclusion: 219--228.
+
+### Feb 27
+- No reading for today, but...
 
 {% include alert.html class='danger' title='DUE: Ad analysis' text="
 Come to class with your early newspaper ad analysis. Consult the [Ad Analysis Writing Guide](newspaper-ads-guide).
 "%}
-
-### Feb 27
-- Carolyn Thomas Peña, _Empty Pleasure_, Chapter 5: 141--175; Conclusion: 219--228.
-
-
 
 
 ## 7: Milk I
@@ -144,18 +152,21 @@ Come to class with your early newspaper ad analysis. Consult the [Ad Analysis Wr
 ### Mar 12
 - Kendra Smith-Howard, _Pure and Modern Milk_, 147--166.
 
-{% include alert.html class='danger' title='DUE: Book Review' text="
-Come to class with your book review. Consult the [Book Review Writing Guide](book-review-guide).
+{% include alert.html class='warning' title='PSEUDO-DUE: Book Review' text="
+Highly recommended that you turn in your book review today while it's fresh in your mind and so you don't have to think about it over break. But if your week is already crazy and you want/need extra time, you can turn it in after break without penalty. Consult the [Book Review Writing Guide](book-review-guide).
 "%}
 
 
 ### 9: Mar 17 and 19: SPRING BREAK
 
 
-
 ## 10: Restarting
 
 ### Mar 24
+{% include alert.html class='danger' title='DUE: Book Review' text="
+Your book review is absolutely due today (unless you already turned it in, obv) Consult the [Book Review Writing Guide](book-review-guide).
+"%}
+
 - Sarah Grey, [A Social History of Jell-O Salad: The Rise and Fall of an American Icon](https://www.seriouseats.com/2015/08/print/history-of-jell-o-salad.html)
 - LECTURE: What have we done so far? Notice there is a quiz about what we have done so far on Thursday.
 
