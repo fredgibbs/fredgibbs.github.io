@@ -28,7 +28,7 @@ Play around with searching for different sets of terms and how the results compa
 Scan through at least several dozen different articles or ads (they're small!)---the more you look at, the easier it will be to write your essay---until you notice some kind of pattern or general feature that seems worth commenting on. Given your search terms (whatever they are), pretend you are going to discuss your findings with, say, a classroom full of students who have also looked at similar ads from similar newspapers. That's the audience you should have in mind while writing.
 
 ## Short Essays
-Write a ~900-word essay about what you found and how they relate to course readings and discussions. You should not simply describe a random collection of ads or articles and what they say; comment on a set of sources that tells you something about how people were marketing or discussing food at the time.
+Write a ~600-word essay about what you found and how they relate to course readings and discussions. You should not simply describe a random collection of ads or articles and what they say; comment on a set of sources that tells you something about how people were marketing or discussing food at the time.
 
 ## Questions to Address
 Keep in mind that maybe not all of these will be relevant to your ads/articles):

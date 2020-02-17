@@ -83,7 +83,9 @@ If life gets overwhelming during the course, it can be tempting to drift away fr
 ## Extra Credit
 There are roughly a zillion books, articles, websites, documentaries, films, etc about food + technology. Most are not very good. As in a total-waste-of-time kind of way. But films/documentaries about food are usually more interesting than most other stuff because of the production costs involved. This does not guarantee quality, of course (surely you've seen something about food that just wasn't worth it), but the genre provides a useful filter against mindless blog posts created simply because someone needs more "content" and places for ads.
 
-So, if you would like (and who wouldn't) to write a film/documentary review of anything related to the relationship between food and technology, you should do that for extra credit. Reviews should be 600 words (which is insanely short for a balanced and thoughtful review), and can be worth, depending on the quality, up to 5 extra credit points. You don't have to ask me if something is appropriate. You need to EXPLAIN to me in your review how it is appropriate and how we should evaluate it in light of the course. Not to be too cavalier about points, but a serious effort will probably get you at least 4 points.
+So, if you would like (and who wouldn't) to write a film/documentary review of anything related to the relationship between food and technology, you should do that for extra credit. Reviews should be 600 words (which is insanely short for a balanced and thoughtful review), and can be worth, depending on the quality, up to 4 extra credit points. You don't have to ask me if something is appropriate. You need to EXPLAIN to me in your review how it is appropriate and how we should evaluate it in light of the course. Not to be too cavalier about points, but a serious effort will probably get you at least 2 points. 
+
+--> Your review should use class readings and discussions! <--
 
 ### Extra credit is EXTRA, not substitute.
 You can only get extra credit points if you have turned in all other assigned work.
