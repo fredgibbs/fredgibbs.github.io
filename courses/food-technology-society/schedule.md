@@ -102,7 +102,7 @@ Come to class with your book review. Consult the [Book Review Writing Guide](boo
 ## 5: Fresh and Pure Foods
 
 ### Feb 18
-- Susanne Frieberg, _Fresh_, 1--48 (intro and chapter 1).
+- Susanne Freidberg, _Fresh_, 1--48 (intro and chapter 1).
 
 {% include alert.html class='danger' title='DUE: _Canned_ edits' text="
 As we rushed through in class, my hope is to get you to see what other people are doing and some new perspectives on the assignment. I am committed to my belief that it is super useful to edit other people's work as a way of helping your own thinking and writing, especially in novel formats, because it makes you a little more aware of things that work or don't. Also, not to be overly snarky, figuring out how to tell someone that something isn't very good is a prized managerial skill that is always worth cultivating.
