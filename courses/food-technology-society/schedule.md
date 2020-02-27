@@ -140,20 +140,22 @@ Come to class with your early newspaper ad analysis. Consult the [Ad Analysis Wr
 - Kendra Smith-Howard, _Pure and Modern Milk_, 3--66.
 
 ### Mar 5
-- Kendra Smith-Howard, _Pure and Modern Milk_, 67--97.
+- Kendra Smith-Howard, _Pure and Modern Milk_, 67--120.
 
 
 
 ## 8: Milk II
 
 ### Mar 10
-- Kendra Smith-Howard, _Pure and Modern Milk_, 98--146.
+- Kendra Smith-Howard, _Pure and Modern Milk_, 121--166.
 
 ### Mar 12
-- Kendra Smith-Howard, _Pure and Modern Milk_, 147--166.
+{% include alert.html class='danger' title='NO CLASS' text="
+Let's take a break from food history discussions and recharge for the second half.
+"%}
 
 {% include alert.html class='warning' title='PSEUDO-DUE: Book Review' text="
-Highly recommended that you turn in your book review today while it's fresh in your mind and so you don't have to think about it over break. But if your week is already crazy and you want/need extra time, you can turn it in after break without penalty. Consult the [Book Review Writing Guide](book-review-guide).
+I highly recommended that you turn in your book review VIA EMAIL BEFORE BREAK while it's fresh in your mind and so you don't have to think about it over break. But if your week is already crazy and you want/need extra time, you can turn it in after break without penalty. Consult the [Book Review Writing Guide](book-review-guide).
 "%}
 
 
