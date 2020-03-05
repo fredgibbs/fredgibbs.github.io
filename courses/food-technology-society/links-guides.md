@@ -20,3 +20,6 @@ This page contains a list of links that you will probably need repeatedly throug
 - [Newspaper Ad Guide](newspaper-ads-guide.html)
 - [Executive Summary Guide](exec-summary-guide.html)
 - [Website Analysis Guide](website-analysis-guide.html)
+
+## General
+- [Writing Advice](writing-advice)
