@@ -14,7 +14,7 @@ section: home
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
 - Office Hours: T,Th 11-1
 
-## Course Description
+## Course Description and Goals
 This topics course is designed to introduce students to how historical questions and debates continue to shape and reshape society, particularly with respect to large, structural systems, as well as the creation and implications of social identities, including race/ethnicity, class, gender, sexual orientation, political affiliations.
 
 The particular topic for this section is the **History of Health Technologies**. This course surveys the history of health technologies in the western world from the ancient world to today. It looks at myriad different medical technologies interrogating the ways technologies have intersected with cultural constructs of disease, race, class, gender, nationality, and bodies. It explores, through broad narrative and specific case studies, theories and practices employed by physicians, the social construction of health and illness, and the role of technologies in medical professionalization, medical power, and patient agency.

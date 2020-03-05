@@ -15,7 +15,7 @@ section: home
 - Office Hours: T,Th 11-1
 
 
-## Course Description
+## Course Description and Goals
 This course is designed to introduce students to the discipline of history. It will help students understand historical thinking which include chronological thinking, historical comprehension, historical analysis and interpretation, historical research capabilities, and historical issues analysis and decision-making.
 
 The core philosophy underlying the course is that the study of history is essential for the educated citizen. Students will consider the difference between history and memory, how history has been used in the past to manipulate public memory, and how the study of history has been at the center of recent culture wars. Through readings and class discussion students will explore the nature of the study of history and consider the place of history in their everyday lives.
