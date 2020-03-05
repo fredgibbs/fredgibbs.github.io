@@ -35,7 +35,7 @@ Note at the top of the page, the link to the schedule page of the syllabus: [htt
 ## Work Requirements and Grading
 - Thorough preparedness and engaged participation in most every class meeting. This is a class that's focused on cultivating different perspectives about how we can think about food, technology, and society---not just memorizing and regurgitating supposedly important "facts". (16 points; roughly .5 points per class)
 
-- Two 900-word [book reviews](book-review-guide). You will be writing reviews of required books that we read and talk about together, so it's a kind of "test" to see if you've been paying attention. (10 points each; 20 points total)
+- Two 1200-word [book reviews](book-review-guide). You will be writing reviews of required books that we read and talk about together, so it's a kind of "test" to see if you've been paying attention. (10 points each; 20 points total)
 
 - Two 2-page [executive summaries](exec-summary-guide) of class readings (10 points each; 20 points total)
 
@@ -50,7 +50,7 @@ Note at the top of the page, the link to the schedule page of the syllabus: [htt
   - Write a review of _Tomatoland_, following the models of our previous book reviews. We will discuss the book but not to the same extent as the others. Your review however, will be more like a final than a book review in that it must show you analyzing the book in terms of the course (hence the many extra words)
 
 ### Submission Policies
-- You can resubmit all assignments within one week of getting them back for re-grading. You get about the average between the two grades. This is a safety net, not something you should plan on using.
+- You can resubmit all assignments within one week of getting them back for re-grading. If you got  above a 5 on the original submission, your new grade will replace your old one. If you got below a 5, you will get the average. If you get a 10 on a resubmission, you will get 1 bonus point. This is a safety net, not something you should plan on using.
 
 - Late work is not accepted unless due to a medical emergency. You can submit work per the resubmission policy to avoid getting a 0 for the assignment.
 
@@ -83,9 +83,13 @@ If life gets overwhelming during the course, it can be tempting to drift away fr
 ## Extra Credit
 There are roughly a zillion books, articles, websites, documentaries, films, etc about food + technology. Most are not very good. As in a total-waste-of-time kind of way. But films/documentaries about food are usually more interesting than most other stuff because of the production costs involved. This does not guarantee quality, of course (surely you've seen something about food that just wasn't worth it), but the genre provides a useful filter against mindless blog posts created simply because someone needs more "content" and places for ads.
 
-So, if you would like (and who wouldn't) to write a film/documentary review of anything related to the relationship between food and technology, you should do that for extra credit. Reviews should be 600 words (which is insanely short for a balanced and thoughtful review), and can be worth, depending on the quality, up to 4 extra credit points. You don't have to ask me if something is appropriate. You need to EXPLAIN to me in your review how it is appropriate and how we should evaluate it in light of the course. Not to be too cavalier about points, but a serious effort will probably get you at least 2 points. 
+So, if you would like (and who wouldn't) to write a film/documentary review of anything related to the relationship between food and technology, you should do that for extra credit. Reviews should be ~800 words (which is insanely short for a balanced and thoughtful review). They can be worth, depending on the quality, up to 4 extra credit points.
 
---> Your review should use class readings and discussions! <--
+Your review has two main tasks that each should comprise roughly half of your review: (1) to provide an overview of the film; (2) to critically evaluate its strengths and weaknesses in light of the course. Your review MUST use class readings and discussions! Imagine yourself taking on the role of expert reviewer, helping your reader (not just me) decide if the film is worth their time.
+
+You don't have to ask me if something is appropriate. You need to EXPLAIN to me in your review how it's appropriate and how we should evaluate it in light of the course. Not to be too cavalier about points, but a serious effort will probably get you at least 2 points.
+
+
 
 ### Extra credit is EXTRA, not substitute.
 You can only get extra credit points if you have turned in all other assigned work.
