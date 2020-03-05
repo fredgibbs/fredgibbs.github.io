@@ -7,6 +7,8 @@ section: home
 header: digital-heritage-studies
 ---
 
+# HIST 301/501: Digital Heritage Studies
+
 ## Logistics
 - 3 Credit Hours
 - No prerequisites
@@ -15,7 +17,7 @@ header: digital-heritage-studies
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
 
 
-## Course Description
+## Course Description and Goals
 This course introduces students to the key issues surrounding how to collect, organize, interpret, and ethically publish cultural and intellectual properties in the digital space. The course provides students direct experience through every step of “the digital heritage pipeline,” from research, collecting, archiving, publishing, and disseminating.
 
 This multi-disciplinary course draw from contemporary readings in history, public history, historiography, digital humanities, literary studies, media studies, and library and museum studies. Along with our readings, we will investigate a variety of community archival collection and digital history projects to learn from past and contemporary practices. We’ll critique the various facets of these projects (data, design, interface, utility, etc.) to understand the technologies and data involved.
@@ -45,7 +47,7 @@ Graduate students will complete all of the undergraduate assignments; these will
 - Write and present on 2 1200-word reviews on digital heritage projects to the class. (20 points; 10 points each)
 - As a final, submit a 6-page digital heritage project proposal that apply the course readings to a potential real-world project. (30 points)
 
-Graduate students can earn 200 points for the course (100 for undergraduate work and 100 for graduate work). At the end of the semester, point totals will be divided by 2 and final grades will be calculated using the standard grade distribution scale noted below.
+Graduate students can earn up to 200 points for the course (100 for undergraduate work and 100 for graduate work). At the end of the semester, point totals will be divided by 2 and final grades will be calculated using the standard grade distribution scale noted below.
 
 NOTE: Graduate students may not be assigned C-, D+, D or D- grades.
 

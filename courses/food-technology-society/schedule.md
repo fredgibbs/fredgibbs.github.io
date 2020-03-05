@@ -148,6 +148,11 @@ Come to class with your early newspaper ad analysis. Consult the [Ad Analysis Wr
 
 ### Mar 10
 - Kendra Smith-Howard, _Pure and Modern Milk_, 121--166.
+- Robin Wall Kimmerer, _Braiding Sweetgrass_, 303--309.
+
+Also today we're going to discuss a very short and totally food unrelated piece (~7 small pages). My question for you all that I'd like to discuss today, is whether the kind of mentality or cultural lens used in this short chapter should be a bigger part of the food history books we've read this semester.
+
+
 
 ### Mar 12
 {% include alert.html class='danger' title='NO CLASS' text="

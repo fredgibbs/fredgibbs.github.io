@@ -7,6 +7,8 @@ section: home
 header: digital-heritage-studies
 ---
 
+# Digital Archives & Storytelling
+
 ## Logistics
 - 3 Credit Hours in upper-division Humanities
 - Class: T,TH 9:30 - 10:45 @ 120 Mitchell Hall
@@ -14,7 +16,7 @@ header: digital-heritage-studies
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
 
 
-## Course Description
+## Course Description and Goals
 This course introduces students to the key issues surrounding how to collect, organize, interpret, and ethically publish cultural and intellectual properties in the digital space. The course provides students direct experience through every step of “the digital heritage pipeline,” from research, collecting, archiving, publishing, and disseminating.
 
 This multi-disciplinary course draw from contemporary readings in history, public history, historiography, digital humanities, literary studies, media studies, and library and museum studies. Along with our readings, we will investigate a variety of community archival collection and digital history projects to learn from past and contemporary practices. We’ll critique the various facets of these projects (data, design, interface, utility, etc.) to understand the technologies and data involved.
