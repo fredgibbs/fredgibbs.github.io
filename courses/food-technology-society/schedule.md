@@ -160,7 +160,7 @@ Let's take a break from food history discussions and recharge for the second hal
 "%}
 
 {% include alert.html class='warning' title='PSEUDO-DUE: Book Review' text="
-I highly recommended that you turn in your book review VIA EMAIL BEFORE BREAK while it's fresh in your mind and so you don't have to think about it over break. But if your week is already crazy and you want/need extra time, you can turn it in after break without penalty. Consult the [Book Review Writing Guide](book-review-guide).
+I highly recommended that you turn in your book review VIA EMAIL BEFORE BREAK while it's fresh in your mind and so you don't have to think about it over break. But if your week is already crazy and you want/need extra time, you can turn it in after break without penalty. Consult the REVISED [Book Review Writing Guide](book-review-guide) and the NEW [Revision Guide](writing-advice).
 "%}
 
 
@@ -171,7 +171,7 @@ I highly recommended that you turn in your book review VIA EMAIL BEFORE BREAK wh
 
 ### Mar 24
 {% include alert.html class='danger' title='DUE: Book Review' text="
-Your book review is absolutely due today (unless you already turned it in, obv) Consult the [Book Review Writing Guide](book-review-guide).
+Your book review is absolutely due today (paper copies as usual, unless you already turned it in, obv). Consult the REVISED [Book Review Writing Guide](book-review-guide). This was updated after the first essay. Also don't forget to consult the new [Revision Guide](writing-advice). I'm estimating you can raise your score by at least 1 or 2 points by spending up to an hour revising your essay with these writing suggestions in mind. As discussed in class, it's not just about improving your "style" (whatever that means) but making your understanding and analysis of the book clearer to me, which is what I'm ultimately evaluating you on.
 "%}
 
 - Sarah Grey, [A Social History of Jell-O Salad: The Rise and Fall of an American Icon](https://www.seriouseats.com/2015/08/print/history-of-jell-o-salad.html)
