@@ -170,15 +170,17 @@ I highly recommended that you turn in your book review VIA EMAIL BEFORE BREAK wh
 ## 10: Restarting
 
 ### Mar 24
-{% include alert.html class='danger' title='DUE: Book Review' text="
-Your book review is absolutely due today (paper copies as usual, unless you already turned it in, obv). Consult the REVISED [Book Review Writing Guide](book-review-guide). This was updated after the first essay. Also don't forget to consult the new [Revision Guide](writing-advice). I'm estimating you can raise your score by at least 1 or 2 points by spending up to an hour revising your essay with these writing suggestions in mind. As discussed in class, it's not just about improving your 'style' (whatever that means) but making your understanding and analysis of the book clearer to me, which is what I'm ultimately evaluating you on.
-"%}
+NO CLASS!
 
+#### Previously
 - Sarah Grey, [A Social History of Jell-O Salad: The Rise and Fall of an American Icon](https://www.seriouseats.com/2015/08/print/history-of-jell-o-salad.html)
 - LECTURE: What have we done so far? Notice there is a quiz about what we have done so far on Thursday.
 
 
 ### Mar 26
+NO CLASS!
+
+#### Previously
 - Amy Bentley, "Inventing Baby Food: Gerber and the Discourse of Infancy in the United States," 92--109.
 - First-half (+ this week) review quiz
 
@@ -187,9 +189,15 @@ Your book review is absolutely due today (paper copies as usual, unless you alre
 ## 11: Hidden Convenience
 
 ### Mar 31
+NO CLASS!
+
+#### Previously
 * Michael Moss, _Salt, Sugar, Fat_, 45--67 (Convenience with a Capital C).
 
 ### Apr 2
+NO CLASS!
+
+#### Previously
 * Wendee Nicole, "[Secret Ingredients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3620743/)."
 
 
@@ -197,6 +205,10 @@ Your book review is absolutely due today (paper copies as usual, unless you alre
 ## 12: Environmental Food
 
 ### Apr 7
+{% include alert.html class='danger' title='DUE: Book Review' text="
+Your book review is absolutely due today (paper copies as usual, unless you already turned it in, obv). Consult the REVISED [Book Review Writing Guide](book-review-guide). This was updated after the first essay. Also don't forget to consult the new [Revision Guide](writing-advice). I'm estimating you can raise your score by at least 1 or 2 points by spending up to an hour revising your essay with these writing suggestions in mind. As discussed in class, it's not just about improving your 'style' (whatever that means) but making your understanding and analysis of the book clearer to me, which is what I'm ultimately evaluating you on.
+"%}
+
 - Alina Bradford, [Rachel Carson: Life, Discoveries and Legacy](https://www.livescience.com/62185-rachel-carson-biography.html).
 - Rachel Carson, _Silent Spring_, 5--37.
 
@@ -209,7 +221,7 @@ Your book review is absolutely due today (paper copies as usual, unless you alre
 
 ### Apr 14
 {% include alert.html class='danger' title='DUE: Executive Summary' text="
-Come to class with your executive summaries of the rise of convenience foods as discussed in the course so far. As discussed, excellent summary will draw widely from relevant readings and class discussions. Consult the [Executive Summary Writing Guide](exec-summary-guide).
+Come to class with an executive summary of (one of the readings we skipped due to an extended spring break): Wendee Nicole, "[Secret Ingredients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3620743/)." An excellent summary will draw widely from relevant readings and class discussions. Consult the [Executive Summary Writing Guide](exec-summary-guide).
 "%}
 
 - No required reading for today, but start reading ahead for Thursday
