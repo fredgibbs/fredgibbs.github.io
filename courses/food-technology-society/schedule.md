@@ -221,7 +221,7 @@ Your book review is absolutely due today (paper copies as usual, unless you alre
 
 ### Apr 14
 {% include alert.html class='danger' title='DUE: Executive Summary' text="
-Come to class with an executive summary of (one of the readings we skipped due to an extended spring break): Wendee Nicole, "[Secret Ingredients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3620743/)." An excellent summary will draw widely from relevant readings and class discussions. Consult the [Executive Summary Writing Guide](exec-summary-guide).
+Come to class with an executive summary of (one of the readings we skipped due to an extended spring break): Wendee Nicole, [Secret Ingredients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3620743/). An excellent summary will draw widely from relevant readings and class discussions. Consult the [Executive Summary Writing Guide](exec-summary-guide).
 "%}
 
 - No required reading for today, but start reading ahead for Thursday
