@@ -58,7 +58,7 @@ These email exchanges are also a convenient opportunity for you to ask questions
 
 For the first week of class after our extended break (April 7/9 week) you have TWO assignments due (one Tuesday and one abnormally on Friday). As you probably already planned to do, you should COMPLETE your _Milk_ review over break so that you are ready to jump into the reading schedule again and complete the next assignment by the end of the week (Friday, Apr 10). These and all other assignments (and due dates) have been updated on the schedule page as well. Please consider submitting your _Milk_ review early so I can get it back to you early.
 
-Given the new course format and the fact that it is now much more self-directed, the final essay assignment has been refocused on showing what you've learned in the course. To accommodate our new course format and assignment structure, writing a review of _Tomatoland_ as a final is no longer an option. I have updated the [extra credit section](index/#extra-credit) to include the option of writing a _Tomatoland_ review.
+Given the new course format and the fact that it is now much more self-directed, the final essay assignment has been refocused on showing what you've learned in the course. To accommodate our new course format and assignment structure, writing a review of _Tomatoland_ as a final is no longer an option. I have updated the [extra credit section](/#extra-credit) to include the option of writing a _Tomatoland_ review.
 
 Even with abnormal learning conditions, I'm committed to making it easy for you to get the grade you want provided that you're doing the appropriate quality and/or quantity of work.
 
