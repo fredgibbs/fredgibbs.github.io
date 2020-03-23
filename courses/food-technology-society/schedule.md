@@ -214,13 +214,15 @@ For reference, a thorough explanation of course changes is on the [syllabus home
 Your book review is absolutely due today via email. Consult the REVISED [Book Review Writing Guide](book-review-guide). This was updated after the first essay. Also don't forget to consult the new [Revision Guide](writing-advice). I'm estimating you can raise your score by at least 1 or 2 points by spending up to an hour revising your essay with these writing suggestions in mind. As discussed in class, it's not just about improving your 'style' (whatever that means) but making your understanding and analysis of the book clearer to me, which is what I'm ultimately evaluating you on.
 "%}
 
-### For the week ending Apr 10
+### For the original Apr 7/9 week
 - Alina Bradford, [Rachel Carson: Life, Discoveries and Legacy](https://www.livescience.com/62185-rachel-carson-biography.html).
 - Rachel Carson, _Silent Spring_, 5--37.
 - Warren Belasco, _Appetite for Change_, 29--42 (Radical Consumerism); 111--131 (War of the Metaphors).
 
-{% include alert.html class='danger' title='DUE on FRIDAY, APR 10: Executive Summary' text="
-Email me your executive summary that provides answers to the following: What is the argument in Carson's book? In your view, what about her writing style maybe made it so effective at instigating environmental concerns? What is the relationship between what Carson is describing and what's happening in the Belasco chapters? How would you summarize what's happening in the Belasco chapters? Consult the [Executive Summary Writing Guide](exec-summary-guide).
+{% include alert.html class='danger' title='DUE on FRIDAY, APR 10 at 5pm: Executive Summary' text="
+Sorry for the weird due date/time, but I wanted to give you more time to complete the assignment since you have reviews due earlier this week.
+
+Email me your executive summary that provides an answer to the following: How would you characterize the relationship between what Carson is describing and what's happening in the Belasco chapters? In answering the question, you will need to provide SOME summary of what the texts say, but remember that your analysis is far more important than the summary! Consult the [Executive Summary Writing Guide](exec-summary-guide).
 "%}
 
 ### From now on you have one assignment per week to be submitted (see above instructions) by THURSDAY at 11am.
@@ -234,7 +236,7 @@ Email me your executive summary that provides answers to the following: What is 
 - Michael Pollan, _Omnivore's Dilemma_, 134--184 (Big Organic).
 
 {% include alert.html class='danger' title='DUE: Executive Summary' text="
-Prepare an executive summary of the history of organic agriculture and how the present meanings and assumptions of the organic label deviate from that. Consult the [Executive Summary Writing Guide](exec-summary-guide).
+Prepare an executive summary of the history of organic agriculture and, more importantly, how the present meanings and assumptions of the organic label deviate from that. Consult the [Executive Summary Writing Guide](exec-summary-guide).
 "%}
 
 
@@ -260,7 +262,7 @@ Prepare an executive summary of the history of organic agriculture and how the p
 
 
 {% include alert.html class='danger' title='DUE: Executive Summaries' text="
-These readings are fine, but they should seem a bit superficial after this course. Using the readings as a jumping off point, prepare an executive summary addressing the question: How does history help us understand the concept of natural food? If we have to define it, what's at stake? What issues are most important? What kinds of questions should we be asking? Consult the [Executive Summary Writing Guide](exec-summary-guide).
+These readings are fine, but they should seem a bit superficial after this course. Using these readings on 'natural' as a jumping off point, prepare an executive summary addressing the questions: How does history help us understand the concept of natural food? If we have to define it, what's at stake? What issues are most important? What kinds of questions should we be asking? Consult the [Executive Summary Writing Guide](exec-summary-guide).
 "%}
 
 
