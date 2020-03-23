@@ -58,7 +58,7 @@ These email exchanges are also a convenient opportunity for you to ask questions
 
 For the first week of class after our extended break (April 7/9 week) you have TWO assignments due (one Tuesday and one abnormally on Friday). As you probably already planned to do, you should COMPLETE your _Milk_ review over break so that you are ready to jump into the reading schedule again and complete the next assignment by the end of the week (Friday, Apr 10). These and all other assignments (and due dates) have been updated on the schedule page as well. Please consider submitting your _Milk_ review early so I can get it back to you early.
 
-Given the new course format and the fact that it is now much more self-directed, the final essay assignment has been refocused on showing what you've learned in the course. To accommodate our new course format and assignment structure, writing a review of _Tomatoland_ as a final is no longer an option. Please see the [course information page](index/#extra-credit) for additional extra credit options based on readings we skipped over the extended break---including writing a _Tomatoland_ review.
+Given the new course format and the fact that it is now much more self-directed, the final essay assignment has been refocused on showing what you've learned in the course. To accommodate our new course format and assignment structure, writing a review of _Tomatoland_ as a final is no longer an option. I have updated the [extra credit section](index/#extra-credit) to include the option of writing a _Tomatoland_ review.
 
 Even with abnormal learning conditions, I'm committed to making it easy for you to get the grade you want provided that you're doing the appropriate quality and/or quantity of work.
 
@@ -131,15 +131,14 @@ If life gets overwhelming during the course, it can be tempting to drift away fr
 ## Extra Credit
 There are roughly a zillion books, articles, websites, documentaries, films, etc about food + technology. Most are not very good. As in a total-waste-of-time kind of way. But films/documentaries about food are usually more interesting than most other stuff because of the production costs involved. This does not guarantee quality, of course (surely you've seen something about food that just wasn't worth it), but the genre provides a useful filter against mindless blog posts created simply because someone needs more "content" and places for ads.
 
-So, if you would like (and who wouldn't) to write a film/documentary review of anything related to the relationship between food and technology, you should do that for extra credit. Reviews should be ~800 words (which is insanely short for a balanced and thoughtful review). They can be worth, depending on the quality, up to 4 extra credit points.
+So, if you would like (and who wouldn't) to write a film/documentary review of anything related to the relationship between food and technology, you should do that for extra credit. Reviews should be ~900 words (which is insanely short for a balanced and thoughtful review). They can be worth, depending on the quality, up to 4 extra credit points.
 
 Your review has two main tasks that each should comprise roughly half of your review: (1) to provide an overview of the film; (2) to critically evaluate its strengths and weaknesses in light of the course. Your review MUST use class readings and discussions! Imagine yourself taking on the role of expert reviewer, helping your reader (not just me) decide if the film is worth their time.
 
 You don't have to ask me if something is appropriate. You need to EXPLAIN to me in your review how it's appropriate and how we should evaluate it in light of the course. Not to be too cavalier about points, but a serious effort will probably get you at least 2 points.
 
-In addition to a film review, one automatic and easy way to get more points is to write a review of _Tomatoland_, following the models of our previous book reviews. We will discuss the book but not to the same extent as the others.
+In addition to a film review, one automatic and easy way to get more points is to write a review of _Tomatoland_, following the model of our previous book reviews. This review can be worth up to 6 points, and a competent review should earn at least 4 points (note that turning something in does not make it competent).
 
-For two points, you may do a summary of the Bentley article on Baby Food that we are skipping because of the extended break. One point for submitting something coherent, two points for showing a thorough reading. Hey, this is short! An easy two points, if you need them.
 
 ### Extra credit is EXTRA, not substitute.
 You can only get extra credit points if you have turned in all other assigned work.
