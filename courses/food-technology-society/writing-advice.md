@@ -28,23 +28,27 @@ That is usually easy to fix by replacing a leading “this” with a more concre
 ### ADJECTIVES AND ADVERBS ARE YOUR FRIEND
 They help your writing flow and save you words.
 
-CLUNKY: The dog was blue, and was ashamed of its color, so it kept running through the car wash.
-SMOOTHER: The blue dog, ashamed of its color, repeatedly ran through the car wash.
+- CLUNKY: The dog was blue, and was ashamed of its color, so it kept running through the car wash.
+- SMOOTHER: The blue dog, ashamed of its color, repeatedly ran through the car wash.
+
+- CLUNKY: This article does not cite any research. The lack of research means it is difficult to understand if it should be trusted.
+- SMOOTHER: The article's lack of research compromises its authority.
 
 Note the clunky way is how we think and get ideas into words. The smoother way is what we get from revising and polishing rough written drafts of our ideas.
+
 
 ### Use passive constructions sparingly
 Look for unnecessary is, was, be, or being verbs. See if you can be clearer by using a concrete subject.
 
-Passive: It was not clear how the assignment would be graded.
-Active: The assignment instructions did not clearly explain how grading would work.
-Better: The hastily written assignment instructions provided only an unhelpfully ambiguous grading policy.
+- Passive: It was not clear how the assignment would be graded.
+- Active: The assignment instructions did not clearly explain how grading would work.
+- Better: The hastily written assignment instructions provided only an unhelpfully ambiguous grading policy.
 
-Passive: The king was getting impatient.
-Active: The king grew impatient.
+- Passive: The king was getting impatient.
+- Active: The king grew impatient.
 
-Passive: This class is boring.
-Active: This class bores me.
+- Passive: This class is boring.
+- Active: This class bores me.
 
 In the last example, you might deliberately choose the passive construction if your point were that any objective observer would also declare that the class’s very existence should be characterized as boring. If you want to emphasize the agency of the class to bore students, particularly you, but it’s at least conceivable that other students might not find it boring, the active construction would be more precise.
 

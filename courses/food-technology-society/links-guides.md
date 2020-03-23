@@ -16,9 +16,10 @@ This page contains a list of links that you will probably need repeatedly throug
 - [Zotero Group Library](https://www.zotero.org/groups/1647225/food-tech-society-unm/library)
 
 ## Assignment Guides
-- [Book Review  Guide](book-review-guide.html)
+- [Book Review Guide](book-review-guide.html)
 - [Newspaper Ad Guide](newspaper-ads-guide.html)
 - [Executive Summary Guide](exec-summary-guide.html)
+- [Executive Summary Sample](exec-summary-sample.html)
 - [Website Analysis Guide](website-analysis-guide.html)
 
 ## General

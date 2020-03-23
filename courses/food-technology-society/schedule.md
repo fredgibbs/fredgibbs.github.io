@@ -198,83 +198,87 @@ NO CLASS!
 NO CLASS!
 
 #### Previously
-* Wendee Nicole, "[Secret Ingredients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3620743/)."
 
+- Wendee Nicole, "[Secret Ingredients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3620743/)."
+
+---
+# Updated for coronavirus starting here
+For reference, a thorough explanation of course changes is on the [syllabus home page](http://fredgibbs.net/courses/food-technology-society/#work-requirements-and-grading).
+---
 
 
 ## 12: Environmental Food
 
-### Apr 7
+### Apr 7 (as originally scheduled)
 {% include alert.html class='danger' title='DUE: Book Review' text="
-Your book review is absolutely due today (paper copies as usual, unless you already turned it in, obv). Consult the REVISED [Book Review Writing Guide](book-review-guide). This was updated after the first essay. Also don't forget to consult the new [Revision Guide](writing-advice). I'm estimating you can raise your score by at least 1 or 2 points by spending up to an hour revising your essay with these writing suggestions in mind. As discussed in class, it's not just about improving your 'style' (whatever that means) but making your understanding and analysis of the book clearer to me, which is what I'm ultimately evaluating you on.
+Your book review is absolutely due today via email. Consult the REVISED [Book Review Writing Guide](book-review-guide). This was updated after the first essay. Also don't forget to consult the new [Revision Guide](writing-advice). I'm estimating you can raise your score by at least 1 or 2 points by spending up to an hour revising your essay with these writing suggestions in mind. As discussed in class, it's not just about improving your 'style' (whatever that means) but making your understanding and analysis of the book clearer to me, which is what I'm ultimately evaluating you on.
 "%}
 
+### For the week ending Apr 10
 - Alina Bradford, [Rachel Carson: Life, Discoveries and Legacy](https://www.livescience.com/62185-rachel-carson-biography.html).
 - Rachel Carson, _Silent Spring_, 5--37.
+- Warren Belasco, _Appetite for Change_, 29--42 (Radical Consumerism); 111--131 (War of the Metaphors).
 
-### Apr 9
-* Warren Belasco, _Appetite for Change_, 29--42 (Radical Consumerism); 111--131 (War of the Metaphors).
+{% include alert.html class='danger' title='DUE on FRIDAY, APR 10: Executive Summary' text="
+Email me your executive summary that provides answers to the following: What is the argument in Carson's book? In your view, what about her writing style maybe made it so effective at instigating environmental concerns? What is the relationship between what Carson is describing and what's happening in the Belasco chapters? How would you summarize what's happening in the Belasco chapters? Consult the [Executive Summary Writing Guide](exec-summary-guide).
+"%}
 
+### From now on you have one assignment per week to be submitted (see above instructions) by THURSDAY at 11am.
 
 
 ## 13: Big Organic
 
-### Apr 14
-{% include alert.html class='danger' title='DUE: Executive Summary' text="
-Come to class with an executive summary of (one of the readings we skipped due to an extended spring break): Wendee Nicole, [Secret Ingredients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3620743/). An excellent summary will draw widely from relevant readings and class discussions. Consult the [Executive Summary Writing Guide](exec-summary-guide).
-"%}
-
-- No required reading for today, but start reading ahead for Thursday
-- LECTURE: The Origins of "Organic"
-
-#### Lecture background (for skimming):
+### Apr 14,16
 - George Kuepper, "[A Brief Overview of the History and Philosophy of Organic Agriculture](http://kerrcenter.com/wp-content/uploads/2014/08/organic-philosophy-report.pdf)," 2--18.
 - Laura B. DeLind, “Transforming Organic Agriculture into Industrial Organic Products: Reconsidering National Organic Standards,” 198–-208.
+- Michael Pollan, _Omnivore's Dilemma_, 134--184 (Big Organic).
 
-### Apr 16
-* Michael Pollan, _Omnivore's Dilemma_, 134--184 (Big Organic).
+{% include alert.html class='danger' title='DUE: Executive Summary' text="
+Prepare an executive summary of the history of organic agriculture and how the present meanings and assumptions of the organic label deviate from that. Consult the [Executive Summary Writing Guide](exec-summary-guide).
+"%}
 
 
 
 ## 14: GMOs
 
-### Apr 21
+### Apr 21,23
 * McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 1--46 (Prologue; Are GMOs Safe?).
-
-### Apr 23
 * McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 47--76 (The Long, Paved Road to Industrial Food).
+
+{% include alert.html class='danger' title='DUE: GMO website analysis' text="For this assignment you'll critique a website of your choosing that discusses whether GMOs are safe. Consult the [website analysis guide](website-analysis-guide) for more details. As with all your assignments, the goal is to put the course to use in addressing 'real-world' discussions about the impact of technology on food safety and quality. The best essays will draw together various themes from the course and makes extensive use of the Jenkins reading.
+"%}
+
 
 
 ## 15: Natural Progress
 
-### Apr 28
-{% include alert.html class='danger' title='DUE: GMO website analysis' text="You'll critique a website that discusses whether GMOs are safe. Consult the [website analysis guide](website-analysis-guide). As with all your assignments, the goal is to put the course to use in addressing 'real-world' discussions about food production issues. The best essays will draw together various themes from the course.
-"%}
-
-- LECTURE: What is natural food?
-
-#### Background to skim
+### Apr 28,30
 - [How the FDA's New Definition for "Natural" Food Could Affect Your Pantry](https://www.bonappetit.com/story/natural-food-definition)
 - [What is a Natural Food](https://www.npr.org/sections/thesalt/2016/05/08/477057872/what-is-natural-food-a-riddle-wrapped-in-notions-of-good-and-evil)
 - [Bullshit Hypocrisy of Natural Foods](http://gawker.com/the-bullshit-hypocrisy-of-all-natural-foods-1702686054)
-
-
-### Apr 30
 - Roger Horowitz, _Putting Meat on the Table_, 129--154 (Convenient meat).
-- Reading quiz
+
+
+{% include alert.html class='danger' title='DUE: Executive Summaries' text="
+These readings are fine, but they should seem a bit superficial after this course. Using the readings as a jumping off point, prepare an executive summary addressing the question: How does history help us understand the concept of natural food? If we have to define it, what's at stake? What issues are most important? What kinds of questions should we be asking? Consult the [Executive Summary Writing Guide](exec-summary-guide).
+"%}
+
 
 
 ## 16: Global Industrialization
 
-### May 5
-* Marion Nestle, _Food Politics_, 295--314 (Fortification and marketing).
-* Melanie Warner, _Pandora's Lunchbox_, 97--123 (Better living through chemistry).
-* Steve Ettlinger, _Twinkie, Deconstructed_, skim 13--28; 29--44.
+### May 5,7
+- Marion Nestle, _Food Politics_, 295--314 (Fortification and marketing).
+- Melanie Warner, _Pandora's Lunchbox_, 97--123 (Better living through chemistry).
+- Steve Ettlinger, _Twinkie, Deconstructed_, 13--44.
+- Wendee Nicole, [Secret Ingredients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3620743/).
+
 
 {% include alert.html class='danger' title='DUE: Executive Summaries' text="
-Come to class with your executive summary of how the readings for today intersect. Consult the [Executive Summary Writing Guide](exec-summary-guide).
+Submit an executive summary of YOUR take on the place of 'secret' ingredients in convenience foods and what the role of federal regulation should be. I'm NOT asking you to simply summarize the readings, but to use them as a basis for a more philosophical piece on food additives generally. Questions to consider: What kinds of things should be allowed in our food? What is the role of regulation? How can it be enforced? How precise should labeling be? What are the problems with full transparency? How do we assess risk of food additives? Consult the [Executive Summary Writing Guide](exec-summary-guide).
 "%}
 
 
-### May 7
-Conclusions and Advice for the Final
+{% include alert.html class='danger' title='DUE: Final Essay' text="
+Final Essays should be emailed to me by midnight Friday, May 15th. See the [final essay guide](final-essay-guide) for more details. And review the [revision guide](writing-advice) after you've got a solid first draft!
+"%}
