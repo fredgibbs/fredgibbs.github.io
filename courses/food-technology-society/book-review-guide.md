@@ -53,17 +53,8 @@ Anything in your text that refers to a specific point or idea should a have pare
 ## Tips for success
  - **Don't dwell.** You want to give a lot of analysis in a short space, so most points you'll want to make should get compressed into a couple sentences. Don't write a whole paragraph about, say, the writing being repetitive. "Despite the repetitive writing, the author makes the important point that..." OR, conversely: "Despite the interesting analysis of consumer trust, the repetitive writing challenges the reader's will to continue reading."
  - **Create a thread.** Make sure each sentence naturally flows from one to the next. Abrupt changes in topic, tense, style, etc, are quite jarring for a reader. This is almost impossible to do well when drafting your initial ideas (unless you are an extremely talented writer already), so look to improve this aspect as you revise.
- - **Be specific.** Give a specific example to illustrate your general point whenever possible. Never, even mention only that something relates to something else. You must explain how and why and the significance of the relationship. This is probably the biggest weakness with most essays.
- - **Paraphrase.** Avoid long quotations in your critique, since you want use all the space for your own thinking!
- - **Be selective.** You can’t fit everything worth saying into your essay. Choose carefully what you think is most important!
- - **Revise, revise, revise.** Once you have a complete draft of everything you want to say, you are about 50% done. Set it aside (and budget time for this!), then come back and economize your prose. Remove simple sentences that force you to be unnecessarily verbose.
-
- In the process of getting your ideas on paper, you might end up with something like: "This article does not cite any research. The lack of research means it is difficult to understand if it should be trusted." (22 words)
-
- During revisions, you should rephrase this to: "The article's lack of research compromises its authority." (8 words) This gives you much-needed space for more analysis!
-
-**Note: Revisions are hard!** But they are the only way to make your writing shine.
-
+- **Be selective.** You can’t fit everything worth saying into your essay. Choose carefully what you think is most important! You're being graded on your ability to separate the wheat from the chaff.
+- **Revise, revise, revise.** Once you have a complete draft of everything you want to say, you are about 50% done. Set it aside (and budget time for this!), then come back and economize your prose. Remove simple sentences that force you to be unnecessarily verbose. See the [revision guide](writing-advice). **Revisions are hard!** But they are the only way to make your writing---and your THINKING---shine.
 
 ## Questions
-It is always worthwhile to talk about these things in class; don't hesitate to ask! Questions are ALWAYS relevant to more than just you. Email is OK, too, especially for quick questions.
+You are ALWAYS welcome to email questions or ask for clarification. Writing is hard enough, and virtually impossible when you're not sure what you're trying to do. Please get in touch!
