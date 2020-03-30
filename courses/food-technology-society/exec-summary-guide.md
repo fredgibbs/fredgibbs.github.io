@@ -11,7 +11,11 @@ section: links-guides
 # Executive Summary Guide
 
 ## What is it?
-An executive summary is a highly compressed way of communicating key ideas and offering evidence/support for them. It takes the form of a set of bullet points (and sub-bullets) rather than narrative prose, that should be take up no more than two pages. The bullet points should make writing more efficient because you don't have to spend time writing and revising formal prose, and it makes reading more efficient by focusing on ideas over narrative. Even limited to bullets, an effective summary still has an overall point and flow to it. In other words, just because you're using bullets DOES NOT mean you should turn in a random collection of ideas. It still requires thought and care to produce.
+An executive summary is a highly compressed way of communicating key ideas and offering evidence/support for them. It takes the form of a set of bullet points (and sub-bullets) rather than narrative prose, that should be take up no more than two pages.
+
+Your summary should be about 1/2 historical summary from the sources, 1/2 analysis or connection to previous readings, including relevant history that IS NOT mentioned but was discussed in other readings. This exercise should help you keep making connections between course material that I would have tried to do in discussion, and should, hopefully, make your final much easier to write.
+
+The bullet points should make writing more efficient because you don't have to spend time writing and revising formal prose, and it makes reading more efficient by focusing on ideas over narrative. Even limited to bullets, an effective summary still has an overall point and flow to it. In other words, just because you're using bullets DOES NOT mean you should turn in a random collection of ideas. It still requires thought and care to produce.
 
 Check out a [sample executive summary](exec-summary-example) on the Bentley article about Gerber baby food that we skipped.
 
