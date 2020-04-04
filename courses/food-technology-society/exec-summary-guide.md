@@ -11,13 +11,14 @@ section: links-guides
 # Executive Summary Guide
 
 ## What is it?
-An executive summary is a highly compressed way of communicating key ideas and offering evidence/support for them. It takes the form of a set of bullet points (and sub-bullets) rather than narrative prose, that should be take up no more than two pages.
+An executive summary is a highly compressed way of communicating key ideas and offering evidence/support for them. It takes the form of a set of bullet points (and sub-bullets) rather than narrative prose, that should be take up about two pages and be around 700 words (+/- 100).
 
-Your summary should be about 1/2 historical summary from the sources, 1/2 analysis or connection to previous readings, including relevant history that IS NOT mentioned but was discussed in other readings. This exercise should help you keep making connections between course material that I would have tried to do in discussion, and should, hopefully, make your final much easier to write.
+Your summary should be about 1/2 historical summary from the reading assignment, and about 1/2 answer to the assignment prompt and connection to previous readings---including relevant history that IS NOT mentioned but was discussed in other readings. This exercise should help you keep making connections between course material that I would have tried to do in discussion, and should make your final much easier to write.
 
 The bullet points should make writing more efficient because you don't have to spend time writing and revising formal prose, and it makes reading more efficient by focusing on ideas over narrative. Even limited to bullets, an effective summary still has an overall point and flow to it. In other words, just because you're using bullets DOES NOT mean you should turn in a random collection of ideas. It still requires thought and care to produce.
 
-Check out a [sample executive summary](exec-summary-example) on the Bentley article about Gerber baby food that we skipped.
+Check out a [sample executive summary](exec-summary-example) on the Bentley article about Gerber baby food that we skipped. I've also created a [Word version]((exec-summary-example.docx), if you want to see it in word processor form.
+
 
 
 ## Assignment Purpose
@@ -39,17 +40,17 @@ In terms of the writing itself, the assignments encourage/force you to focus on 
 These requirements are EASY, and are selfishly designed to make it easier for me to read all your essays on the screen in a short time without straining my eyes, fraying my nerves, and lowering your grade out of frustration. If you do not follow them, I will probably ask you to fix it before I grade it.
 
 - Two page soft maximum (if a tiny bit spills onto a third page, that's fine)
-- 11 pt. san-serif font (easier to read on a screen)
+- 12 pt. Calibri (or similar font)
 - 1" margins on all sides
 - 1.5 line spacing
 
 
 ## Tips for success
- - **Be specific.** Something like, "Cans of tuna had too much mercury" tells me little more than you have a pulse. Don't waste our time, please.
+ - **Be specific.** Make sure you aren't making statements without attention to time
  - **Provide specific citations.** This forces you to double check your own memory and interpretation of the readings, and helps you avoid making false claims. In your references to the readings, use page numbers in parentheses.
- - **Paraphase.** Avoid full quotations (short phrases are fine), since you want use all the space for your own thinking.
- - **Be selective.** You can’t fit everything worth saying into your essay. Choose carefully what you think is most important! You're being graded on your ability to separate the wheat from the chaff.
- - **Revise, revise, revise.** Once you have a complete draft of everything you want to say, you are about 50% done. Set it aside (and budget time for this!), then come back and economize your prose. Remove simple sentences that force you to be unnecessarily verbose. See the [revision guide](writing-advice). **Revisions are hard!** But they are the only way to make your writing---and your THINKING---shine.
+ - **Paraphase.** Avoid full quotations, since you want use all the space for your own thinking.
+ - **Be selective.** You can’t fit everything worth saying into your summary. Choose carefully what you think is most important! You're being graded on your ability to separate the wheat from the chaff.
+ - **Revise, revise, revise.** Once you have a complete draft of everything you want to say, you are about half done. Set it aside (and budget time for this!), then come back and economize your prose. Remove simple sentences that force you to be unnecessarily verbose. See the [revision guide](writing-advice). **Revisions are hard!** But they are the only way to make your writing---and your THINKING---shine.
 
 
 ## Questions

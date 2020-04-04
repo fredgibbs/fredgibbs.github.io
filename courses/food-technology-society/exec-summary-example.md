@@ -34,8 +34,8 @@ Here's a sample prompt:
   - Although Gerber promoted its product's high vitamin content as a selling point, it wasn't any higher than regular canned vegetables.
     - As we've seen throughout the course, advertisers frequently overstated the nutritional value of their foods.
 
-- As canning industry grew and canned good were increasingly accepted by consumers throughout the early 1900s, there emerged a market opportunity to mash up vegetables already being canned and market them as baby food.
-  - By the 1930s, canned good were affordable, familiar, and advertising was hitting its stride (103).
+- As canning industry grew and canned goods were increasingly accepted by consumers throughout the early 1900s, there emerged a market opportunity to mash up vegetables already being canned and market them as baby food.
+  - By the 1930s, canned goods were affordable, familiar, and advertising was hitting its stride (103).
   - The rapid rise of baby food sales encouraged the Fremont Canning Co. to focus solely on baby food to change its name to Gerber Products Company (103).
   - Production rose quickly in terms of number of cans produced (kind of like canning in general).
     - 1930: 842K; 1931: 1.31M; 1932: 2.26M (103).
@@ -60,7 +60,7 @@ Here's a sample prompt:
   - Milk was made "pure" and "wholesome" through techniques like pasteurization and homogenization were advertised as superior to the raw product.
   - Milk, however, was becoming harder to produce and distribute safely as cities grew and dairy farms grew further from the city, whereas baby food was recommended more out of fear or precaution.
 
-- The emphasis on convenience and modernity of baby food echoes the kind of advertising used to sell refrigerators.
+The emphasis on convenience and modernity of baby food echoes the kind of advertising used to sell refrigerators.
   - Both were frequently pitched as something that was not only helpful but in fact essential, even when everyone was used to living without them.
 
-- In sum, the rising popularity of baby food illustrates middle-class Americans' wish to improve nature, make it more convenient for everyday life, and trust in a process sanctified by "science".
+In sum, the rising popularity of baby food illustrates middle-class Americans' wish to improve nature, make it more convenient for everyday life, and trust in a process sanctified by "science".
