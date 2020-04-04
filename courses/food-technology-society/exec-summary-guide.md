@@ -17,7 +17,7 @@ Your summary should be about 1/2 historical summary from the reading assignment,
 
 The bullet points should make writing more efficient because you don't have to spend time writing and revising formal prose, and it makes reading more efficient by focusing on ideas over narrative. Even limited to bullets, an effective summary still has an overall point and flow to it. In other words, just because you're using bullets DOES NOT mean you should turn in a random collection of ideas. It still requires thought and care to produce.
 
-Check out a [sample executive summary](exec-summary-example) on the Bentley article about Gerber baby food that we skipped. I've also created a [Word version](exec-summary-example.docx), if you want to see it in word processor form.
+Check out a [sample executive summary](exec-summary-example) on the Bentley article about Gerber baby food that we skipped. I've also created a [Word version](exec-summary-sample.docx), if you want to see it in word processor form.
 
 
 ## Assignment Purpose
@@ -38,7 +38,7 @@ In terms of the writing itself, the assignments encourage/force you to focus on 
 ## Formatting Requirements (revised for online submissions)
 These requirements are EASY, and are selfishly designed to make it easier for me to read all your essays on the screen in a short time without straining my eyes, fraying my nerves, and lowering your grade out of frustration. If you do not follow them, I will probably ask you to fix it before I grade it.
 
-See the [Word version](exec-summary-example.docx) to see what I have in mind, which follows the guidelines below. NOTE: You don't need to use Word's auto bullet feature; you can just use dashes like I have in the sample. I hate fighting with the auto indent, so I keep it off. Suit yourself; just make your summary look nice and consistent.
+See the [Word version](exec-summary-sample.docx) to see what I have in mind, which follows the guidelines below. NOTE: You don't need to use Word's auto bullet feature; you can just use dashes like I have in the sample. I hate fighting with the auto indent, so I keep it off. Suit yourself; just make your summary look nice and consistent.
 
 - 12 pt. Calibri (or similar font)
 - 1" margins on all sides
