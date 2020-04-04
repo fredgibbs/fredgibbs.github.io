@@ -60,7 +60,7 @@ Here's a sample prompt:
   - Milk was made "pure" and "wholesome" through techniques like pasteurization and homogenization were advertised as superior to the raw product.
   - Milk, however, was becoming harder to produce and distribute safely as cities grew and dairy farms grew further from the city, whereas baby food was recommended more out of fear or precaution.
 
-The emphasis on convenience and modernity of baby food echoes the kind of advertising used to sell refrigerators.
+- The emphasis on convenience and modernity of baby food echoes the kind of advertising used to sell refrigerators.
   - Both were frequently pitched as something that was not only helpful but in fact essential, even when everyone was used to living without them.
 
-In sum, the rising popularity of baby food illustrates middle-class Americans' wish to improve nature, make it more convenient for everyday life, and trust in a process sanctified by "science".
+- In sum, the rising popularity of baby food illustrates middle-class Americans' wish to improve nature, make it more convenient for everyday life, and trust in a process sanctified by "science".
