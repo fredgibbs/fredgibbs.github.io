@@ -20,7 +20,6 @@ The bullet points should make writing more efficient because you don't have to s
 Check out a [sample executive summary](exec-summary-example) on the Bentley article about Gerber baby food that we skipped. I've also created a [Word version]((exec-summary-example.docx), if you want to see it in word processor form.
 
 
-
 ## Assignment Purpose
 This assignment shows that you're doing the reading and thinking about how to relate them to each other and our discussions. Previously, you could do this in our class meetings as well. Now this exercise will be the primary medium to show that you're learning and thinking critically. And they help me give you the most appropriate grade for your effort at the end of the term.
 
@@ -39,10 +38,13 @@ In terms of the writing itself, the assignments encourage/force you to focus on 
 ## Formatting Requirements (revised for online submissions)
 These requirements are EASY, and are selfishly designed to make it easier for me to read all your essays on the screen in a short time without straining my eyes, fraying my nerves, and lowering your grade out of frustration. If you do not follow them, I will probably ask you to fix it before I grade it.
 
-- Two page soft maximum (if a tiny bit spills onto a third page, that's fine)
+See the [Word version]((exec-summary-example.docx) to see what I have in mind, which follows the guidelines below. NOTE: You don't need to use Word's auto bullet feature; you can just use dashes like I have in the sample. I hate fighting with the auto indent, so I keep it off. Suit yourself; just make your summary look nice and consistent. 
+
 - 12 pt. Calibri (or similar font)
 - 1" margins on all sides
-- 1.5 line spacing
+- Regular line spacing (1 or 1.1)
+- One blank line between bullets
+- Two page soft maximum (if a tiny bit spills onto a third page, that's fine)
 
 
 ## Tips for success
