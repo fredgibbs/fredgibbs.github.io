@@ -48,7 +48,7 @@ See the [Word version](exec-summary-example.docx) to see what I have in mind, wh
 
 
 ## Tips for success
- - **Be specific.** Make sure you aren't making statements without attention to time
+ - **Be specific.** Don't write vague statements like "canning was dangerous." Include a real subject, time period, and specific examples: "Because of scares with botulism, mercury, and BPA, consumers have at various points throughout the 20th century questioned the safety of canned goods."
  - **Provide specific citations.** This forces you to double check your own memory and interpretation of the readings, and helps you avoid making false claims. In your references to the readings, use page numbers in parentheses.
  - **Paraphase.** Avoid full quotations, since you want use all the space for your own thinking.
  - **Be selective.** You can’t fit everything worth saying into your summary. Choose carefully what you think is most important! You're being graded on your ability to separate the wheat from the chaff.
