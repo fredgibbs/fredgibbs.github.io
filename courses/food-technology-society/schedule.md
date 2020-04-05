@@ -222,7 +222,7 @@ Your book review is absolutely due today via email. Consult the REVISED [Book Re
 {% include alert.html class='danger' title='DUE on FRIDAY, APR 10 at 5pm: Executive Summary' text="
 Sorry for the weird due date/time, but I wanted to give you more time to complete the assignment since you have reviews due earlier this week.
 
-Email me your executive summary that provides an answer to the following: How would you characterize the relationship between what Carson is describing and what's happening in the Belasco chapters? In answering the question, you will need to provide SOME summary of what the texts say, but remember that your analysis is far more important than the summary! Consult the [Executive Summary Writing Guide](exec-summary-guide).
+Email me your executive summary that provides an answer to the following: How can you connect what's in the Carson reading, the Belasco reading, and how they intersect with our previous readings? Remember that about 1/2 your summary should be summary of the readings for this week and about 1/2 should be the connections between them and prior course material (your analysis). Consult the [Executive Summary Writing Guide](exec-summary-guide) and the [awkward screencast of summary tips](https://www.youtube.com/watch?v=lUhEE2rbcDU).
 "%}
 
 ### From now on you have one assignment per week to be submitted (see above instructions) by THURSDAY at 11am.
