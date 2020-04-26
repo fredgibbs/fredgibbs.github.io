@@ -258,11 +258,12 @@ Prepare an executive summary of the history of organic agriculture and, more imp
 - [How the FDA's New Definition for "Natural" Food Could Affect Your Pantry](https://www.bonappetit.com/story/natural-food-definition)
 - [What is a Natural Food](https://www.npr.org/sections/thesalt/2016/05/08/477057872/what-is-natural-food-a-riddle-wrapped-in-notions-of-good-and-evil)
 - [Bullshit Hypocrisy of Natural Foods](http://gawker.com/the-bullshit-hypocrisy-of-all-natural-foods-1702686054)
-- Roger Horowitz, _Putting Meat on the Table_, 129--154 (Convenient meat).
 
 
 {% include alert.html class='danger' title='DUE: Executive Summaries' text="
-These readings are fine, but they should seem a bit superficial after this course. Using these readings on 'natural' as a jumping off point, prepare an executive summary addressing the questions: How does history help us understand the concept of natural food? If we have to define it, what's at stake? What issues are most important? What kinds of questions should we be asking? Consult the [Executive Summary Writing Guide](exec-summary-guide).
+These readings are fine, but they should seem a bit superficial after everything else we've read. Using this week's readings on 'natural' food as a jumping off point, prepare an executive summary addressing the questions: What kinds of issues or questions to these readings miss? How does history help us understand the concept of natural food? If we have to define it, what's at stake? What issues are most important? What kinds of questions should we be asking about them?
+
+For this summary, and thinking ahead to the final, you should be drawing as much as possible from the entire course, not just this week's readings (of course they will feature prominently as well). Remember to review the [Executive Summary Writing Guide](exec-summary-guide).
 "%}
 
 
@@ -275,9 +276,12 @@ These readings are fine, but they should seem a bit superficial after this cours
 - Steve Ettlinger, _Twinkie, Deconstructed_, 13--44.
 - Wendee Nicole, [Secret Ingredients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3620743/).
 
+{% include alert.html class='warning' title='Zotero warning' text="
+When accessing the readings through Zotero, remember that each Zotero item (a reference to a book, usually) can contain multiple PDFs. Double-clicking the item will load whatever Zotero has decided is the 'first' PDF, which might not be the one that you're supposed to read. Clicking the arrow to on the left of the item will reveal all PDFs; once visible, you can click to open the one you need.
+"%}
 
 {% include alert.html class='danger' title='DUE: Executive Summaries' text="
-Submit an executive summary of YOUR take on the place of 'secret' ingredients in convenience foods and what the role of federal regulation should be. I'm NOT asking you to simply summarize the readings, but to use them as a basis for a more philosophical piece on food additives generally. Questions to consider: What kinds of things should be allowed in our food? What is the role of regulation? How can it be enforced? How precise should labeling be? What are the problems with full transparency? How do we assess risk of food additives? Consult the [Executive Summary Writing Guide](exec-summary-guide).
+Drawing widely from this week's readings, submit an executive summary of YOUR take on the place of 'secret' ingredients in convenience foods and what the role of federal regulation should be. I'm NOT asking you to simply summarize the readings, but to use them as a basis for a more philosophical piece on food additives generally. Questions to consider: What kinds of things should be allowed in our food? What is the role of regulation? How can it be enforced? How precise should labeling be? What are the problems with full transparency? How do we assess risk of food additives? Consult the [Executive Summary Writing Guide](exec-summary-guide).
 "%}
 
 
