@@ -13,7 +13,9 @@ section: links-guides
 ## What is it?
 An executive summary is a highly compressed way of communicating key ideas and offering evidence/support for them. It takes the form of a set of bullet points (and sub-bullets) rather than narrative prose, that should be take up about two pages and be around 700 words (+/- 100).
 
-Your summary should be about 1/2 historical summary from the reading assignment, and about 1/2 answer to the assignment prompt and connection to previous readings---including relevant history that IS NOT mentioned but was discussed in other readings. This exercise should help you keep making connections between course material that I would have tried to do in discussion, and should make your final much easier to write.
+On the whole, your summary should be about 1/2 historical summary from the reading assignment, and about 1/2 answer to the assignment prompt and connection to previous readings---including relevant history that IS NOT mentioned but was discussed in other readings.
+
+The best executive summaries focus on answering the question on the syllabus and draw synthetically from all the readings rather than going reading by reading.
 
 The bullet points should make writing more efficient because you don't have to spend time writing and revising formal prose, and it makes reading more efficient by focusing on ideas over narrative. Even limited to bullets, an effective summary still has an overall point and flow to it. In other words, just because you're using bullets DOES NOT mean you should turn in a random collection of ideas. It still requires thought and care to produce.
 
@@ -25,12 +27,14 @@ This assignment shows that you're doing the reading and thinking about how to re
 
 In terms of the writing itself, the assignments encourage/force you to focus on the clarity and concision of your thinking and expression. It's a super useful skill that you'll frequently employ in your future career, whatever it is.
 
+This exercise should help you keep making connections between course material that I would have tried to do in discussion, and should make your final much easier to write.
 
-## What you're being graded on (the basis of the score sheet)
-- How intelligently you formulate an answer to the set of questions. As always, the best summaries do not simply answer one question after the next, but present a cohesive answer relevant to the questions. It may or may not explicitly address every single question.
+
+## What you're being graded on
+- How intelligently you formulate an answer to the set of questions. As always, the best summaries do not progress from one reading to the next, or simply answer one question after the next, but present a cohesive answer relevant to the questions. It may or may not explicitly address every single question.
 - How well you create and follow a logical structure and progression to your bullet points. A random collection of ideas will be frowned upon (and graded down).
-- Using only bullet points (and sub-bullets) to articulate your ideas. Bullet points by definition are short and to the point; 2-3 shortish sentences MAX.
-  - Don't write small paragraphs.
+- How well you use only bullet points (and sub-bullets) to articulate your ideas. Bullet points by definition are short and to the point; 2-3 shortish sentences MAX, or maybe one long, complex sentence.
+  - Don't write a whole paragraph and then make it into a bullet point.
   - Use complete sentences. Bullet points does NOT mean sentence fragments.
 - The extent you can combine concision, clarity, and thoroughness. Revisions are the only way to achieve effective bullets and an effective summary. I will be asking myself if it seems obvious that you've used the [revision guide](writing-advice).
 - EFFORT! If you're asking yourself "what does Gibbs want?", the short answer is: EVIDENCE OF EFFORT. I want you to show me that you've done the reading, thought about it, thought about how it relates to the other readings, and made a serious effort to answer the questions I've posed. You'll be graded primarily on what seems to be the effort you put into the assignment, not on whether you mention X, Y, or Z. But if you don't mention what are obviously main points from the readings that everyone else is mentioning, I can only assume you didn't try very hard.

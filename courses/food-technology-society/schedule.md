@@ -286,5 +286,7 @@ Drawing widely from this week's readings, submit an executive summary of YOUR ta
 
 
 {% include alert.html class='danger' title='DUE: Final Essay' text="
-Final Essays should be emailed to me by midnight Friday, May 15th. See the [final essay guide](final-essay-guide) for more details. And review the [revision guide](writing-advice) after you've got a solid first draft!
+Final Essays should be emailed to me before you go to bed on Friday, May 15th (or perhaps early Saturday morning). If you need a few more days, that's fine, but you must email me to let me know (you don't need to ask, just let me know). Grades are due in the middle of the week so there isn't much more leeway I can give you.
+
+See the [final essay guide](final-essay-guide) for more details. And review the [revision guide](writing-advice) after you've got a solid first draft!
 "%}
