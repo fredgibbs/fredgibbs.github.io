@@ -44,7 +44,7 @@ To better accommodate the variable and uncertain schedules that many of us now h
 
 Without face-to-face discussion, participation points are no longer possible. So now you can earn those points via a few extra short written assignments, which will be [executive summaries](exec-summary-guide) that answer some questions I've posted for each assignment prompt. I've tried to very clear in the guide about what I'm looking for, but please let me know what I need to improve. To be more concrete, I've created a [sample summary](exec-summary-example). Although I call these 'executive summaries', you should (as the guide explains) think of them not as summaries per se but as a condensed way of conveying essential information and answering questions.
 
-There were originally two 'summaries' as part of the course, but now there are four to help make up for participation points. The total number of points for the course (and opportunities for earning them) remain essentially the same---you just have to do it via writing instead of in-class discussion. To give you a bit more leeway in these uncertain times, the total points now adds up to 104. In other words, you can lose 4 points on assignments and still get 100% for the class. If you get more than 100 points, including extra credit, you will get an A+.
+There were originally two 'summaries' as part of the course, but now there are four to help make up for participation points. The total number of points for the course (and opportunities for earning them) remain essentially the same---you just have to do it via writing instead of in-class discussion. To give you a bit more leeway in these uncertain times, the total points now adds up to 104. In other words, you can lose 4 points on assignments and still get 100% for the class. If you get more than 100% points, including extra credit, you will get an A+.
 
 We're going lo-tech for assignment submissions. Frankly, I don't trust that UNM Learn will remain functional with everyone moving courses online (it seems on the brink even under normal usage), so we're just going to use good ol' email.
 
@@ -78,25 +78,25 @@ Lastly, my sincere thanks to everyone for your understanding and perseverance wi
 - One ~600-word [Old newspaper ad analysis](newspaper-ads-guide) (10 points)
 
 
-### SECOND HALF (62 points)
-- Four 2-page [executive summaries](exec-summary-guide) of class readings (8 points each; 32 points total)
+### SECOND HALF (70 points)
+- Four 2-page [executive summaries](exec-summary-guide) of class readings (10 points each; 40 points total)
 
 - One ~1200-word [website analysis](website-analysis-guide) on GMO safety (10 points)
 
-- One ~2400-word final essay (20 points):
-  - Answer the following question: What can we learn relevant to our present food system and our relationship to food by studying the history of food and technology?
-  - See the [final essay guide](final-essay-guide) for more details. And send me an email if something isn't clear.
+- One ~2400-word final essay OR ~1600-word executive summary (20 points):
+  - See the [final essay guide](final-essay-guide) for more details. And send me an email if something isn't clear!
 
-
+## 112 possible points, but 108 is 100%
+What?! To give everyone a bit more leeway given the circumstances, everyone gets one free point per each executive summary (4 points total). So your grade is calculated by adding up all your points and dividing by 108.
 
 ### Submission Policies
-- You can resubmit all assignments within one week of getting them back for re-grading. If you got  above 50% on the original submission, your new grade will replace your old one. If you got below50%, you will get the average. If you get a 10 on a resubmission, you will get 1 bonus point. This is a safety net, not something you should plan on using.
+- You can resubmit all assignments within one week of getting them back for re-grading. If you got  above 50% on the original submission, your new grade will replace your old one. If you got below 50%, you will get the average. If you get a 10 on a resubmission, you will get 1 bonus point. This is a safety net, not something you should plan on using.
 
 ---
 
 - Late work is not accepted unless due to a medical emergency. You can submit work per the resubmission policy to avoid getting a 0 for the assignment.
 
-- REVISED: Late work WILL BE accepted with a suitable explanation, including life being overwhelming and you just needing more time. Doctors notes or other documentation is NOT required, and in fact I don't want it.
+- REVISED: All coursework may be submitted AT ANY TIME. All the due dates on the syllabus are advisory to keep everything evenly spaced out. The most important thing is that work gets turned in, whenever that is, before the end of the term. There is no penalty for submitting work after the advisory due date, so please always feel free to email me stuff whenever makes the most sense for you.
 
 ---
 
@@ -107,7 +107,7 @@ Lastly, my sincere thanks to everyone for your understanding and perseverance wi
 
 ### Grade Distribution
 
-Points | Grade
+Percent of points | Grade
 --- | ---
 94+ | A
 90-94 | A-
