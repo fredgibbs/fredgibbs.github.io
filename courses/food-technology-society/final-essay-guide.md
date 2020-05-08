@@ -11,11 +11,10 @@ section: links-guides
 # Final Essay Guide -- REVISED Apr 27
 
 
-## Final Exam Question  -- REVISED (lightly) May 8
-Answer one of the following questions (they are all pretty much the same question to me):
+## Final Exam Question(s)
+Answer EITHER of the following questions (pretty much the same question to me):
 * What can we learn relevant to our present food system and about our relationship to food by studying the history of food and technology?
 * What are the most important themes we've discussed this semester in terms of thinking about the future of food?
-* What have you learned in this class?
 
 ## Format Options
 Given that we're adjusting to our online-only format by writing more executive summaries, and because you're all obviously working hard to refine your executive-summary-writing skills, it makes sense that the final exam can take the same format.
@@ -46,7 +45,7 @@ DO NOT simply provide a prose version of the syllabus outlining the topics we co
 Pausing the obvious for a moment: Your audience is NOT ME as your professor who is grading your paper. It's someone you want to impress who asks you what you learned in your food technology class. If you just recite facts or historical tidbits your learned at some point this term, your audience (including me) will not be impressed. They want the big picture. The so what. The who cares. What kinds of issues are important for this person to think about that they probably haven't considered or maybe have thought about only superficially? Again, think thematically and synthetically.
 
 ## Organizational advice (not really optional)
-There is no set organizational structure like the book reviews. But your paper must make a coherent argument throughout, not just randomly drift from topic to topic in the hopes of mentioning everything that you think I might be looking for. I'm definitely not looking for that! To be succinct: MAKE A CASE for what you think are the most important big picture themes this semester---don't just describe some topics we've covered.
+There is no set organizational structure like the book reviews. But your paper must make a coherent argument throughout, not just randomly drift from topic to topic in the hopes of mentioning everything that you think I might be looking for. I'm definitely not looking for that! To be succinct: MAKE A CASE for what you think are the most important big picture themes this semester---don't just describe some topics we've covered or keep repeating that history is important. EXPLAIN HOW.
 
 Again (and again), think thematically and synthetically. And give SPECIFIC EXAMPLES. Don't write a whole paragraph about olives making people sick. So what?!? Write a paragraph or more about consumer trust, industrial growing pains, or the role of the media, in which you mention olives making people sick as a specific historical example.
 
