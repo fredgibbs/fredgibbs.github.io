@@ -13,8 +13,8 @@ section: links-guides
 
 ## Final Exam Question(s)
 Answer EITHER of the following questions (pretty much the same question to me):
-* What can we learn relevant to our present food system and about our relationship to food by studying the history of food and technology?
-* What are the most important themes we've discussed this semester in terms of thinking about the future of food?
+* What can we learn relevant to our present food system and about our relationship to food by studying the history of food and technology? Don't tell me history is important. I know that. EXPLAIN what the history of food and technology teaches us that is actually useful.
+* What are the most important themes we've discussed this semester in terms of thinking about the future of food? You need to explain WHY they are the most important!
 
 ## Format Options
 Given that we're adjusting to our online-only format by writing more executive summaries, and because you're all obviously working hard to refine your executive-summary-writing skills, it makes sense that the final exam can take the same format.
