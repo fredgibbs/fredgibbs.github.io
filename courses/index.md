@@ -7,6 +7,14 @@ description: Regularly scheduled courses: Food + Technology + Society; Landscape
 # Regularly Scheduled Courses
 
 {% include course-block.html
+slug="american-food"
+title="History of American Food"
+poster="images/american-food-cultures-2019.jpg"
+desc="This course explores both historical and contemporary ways of thinking about 'American' food. We look the changing meanings of food and foodways throughout US history, including what people eaten, how they have attached cultural values to certain foods yet rejected others, and how immigration, and regionalization have shaped notions of American cuisine. When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. But what about American food? Is there such a thing? How much does the history of American Food tell a very different story of US History than we typically hear? How are ideas of nationalism reflected in our foodways? What constitutes a “national” cuisine? Does this concept even make sense anymore?"
+%}
+
+
+{% include course-block.html
 slug="food-technology-society"
 title="Food, Technology, and Society"
 poster="images/fts-sm.jpg"
@@ -30,12 +38,6 @@ desc="This course introduces some of the most influential approaches that histor
 %}
 
 
-{% include course-block.html
-slug="american-food"
-title="History of American Food"
-poster="images/american-food-cultures-2019.jpg"
-desc="This course investigates the changing meanings of food and foodways throughout US history, including what people eaten, how they have attached cultural values to certain foods yet rejected others, and how immigration, and regionalization have shaped notions of American cuisine. When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. But what about American food? Is there such a thing? How much does the history of American Food tell a very different story of US History than we typically hear? How are ideas of nationalism reflected in our foodways? What constitutes a “national” cuisine? Does this concept even make sense anymore?"
-%}
 
 {% include course-block.html
 slug="digital-history"
