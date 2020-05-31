@@ -2,7 +2,7 @@
 layout: syllabus
 course-title: History of American Food
 course-slug: american-food
-term: Summer 2019
+term: Summer 2020
 number: HIST 413
 section: links-guides
 ---
@@ -24,7 +24,7 @@ The default project is to pick a topic and report on the what you find on the fi
 - What ways of thinking about food history are missing?
 
 ## The Process
-- Google "history of X" where X is some food related topic.
+- Google "history of X" where X is some food related topic. Like history of potatoes; history of mac and cheese; history of bacon; history of avocados; history of tacos, etc
 - Write 800-1000 words that analyze the search results through the lenses we used throughout the course.
   - Put your search phrase at the top of your assignment
 - DO NOT SIMPLY DESCRIBE THE VARIOUS WEBSITES!

@@ -2,13 +2,14 @@
 layout: syllabus
 course-title: History of American Food
 course-slug: american-food
-term: Summer 2019
+term: Summer 2020
 number: HIST 413
 section: links-guides
 ---
 
 # Cookbook Analysis Guide
-- Take a modern cookbook published recently or find a historic cookbook from [here](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis)
+- Pick a book from [here](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis;sort=date_a;sz=100), but make sure it's not one we've already discussed.
+
 
 ## Main objectives
 - Describe what your cookbook tells us about American Culture/Food/Cuisine
