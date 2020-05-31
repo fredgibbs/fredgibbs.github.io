@@ -12,11 +12,11 @@ This page contains a list of links that you will probably need repeatedly throug
 
 ## Scanned Readings
 - [Connecting to Zotero](/courses/etc/zotero)
+- [Course readings](https://www.zotero.org/groups/2499167/american-food-unm/library)
 
 ## Assignment Guides
-- [Cookbook Analysis](cookbook-analysis.html)
-- [Film Analysis](film-analysiss.html)
-- [Food Writing Essay](food-writing-essay.html)
-- [Food Writing Presentation](food-writing-presentation.html)
-- [Reading Responses](reading-responses.html)
-- [Website Analysis](website-analysis.html)
+- [Reading Responses](reading-responses)
+- [Learning Reflections](learning-reflections.html)
+- [Early Cookbook Analysis](cookbook-analysis.html)
+- [Food Blog Analysis](food-blog-analysis) (1x8 = 8)
+- [Extra Credit Film Analysis](film-analysis.html)
