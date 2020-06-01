@@ -14,12 +14,12 @@ section: home
 - Summer 2020
 - 3 Credit Hours
 - Web remote (asynchronous; no set meeting time)
-- Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) 
+- Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
 
 ## Getting Started
 This page, and the [schedule page](schedule), have all the instructions and assignments you need for the course. Make sure you are very familiar with these two pages. We use UNM Learn to manage quizzes, assignment submissions, and the discussion board, but all course information is on these two pages.
 
-While I hope the syllabus is self-explanatory, you should take a few minutes to watch the [introductory video]().
+While I hope the syllabus is self-explanatory, you should take a few minutes to watch the [introductory video](https://youtu.be/axHN2TC1Lyk).
 
 
 ## Course Description
