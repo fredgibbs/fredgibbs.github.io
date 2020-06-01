@@ -24,7 +24,7 @@ section: home
 
 
 {% include alert.html class='danger' title='Syllabus/intro video quiz' text="
-Visit UNM Learn, and find the `quizzes` link on the left nav.
+First, watch the [introductory video](https://www.youtube.com/watch?v=axHN2TC1Lyk). Then, visit UNM Learn, and find the `quizzes` link on the left nav.
 "%}
 
 {% include alert.html class='danger' title='Introductory post' text="
