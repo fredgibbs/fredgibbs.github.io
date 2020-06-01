@@ -40,7 +40,7 @@ Some questions we'll tackle: What have Americans eaten over time? Why? How do we
 - [UNM Learn](http://learn.unm.edu). All assignments will be submitted via UNM Learn.
 - [Zotero](http://zotero.org); see the [getting started guide](http://fredgibbs.net/courses/etc/zotero); once connected you can access the [course library](https://www.zotero.org/groups/2499167/american-food-unm/library).
 - [YouTube Channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig) will host mini-lectures and other screencasts.
-- [Slack channel](http://american-food.slack.com); first click the [invitation link](https://join.slack.com/t/american-food/shared_invite/zt-ef9zksoz-W2SiBrv9LfMvg~b00xNAhw). Slack is a straightforward collaborative messaging app (via your browser or app) that allows us to stay connected without more formal emails or messages in UNM Learn. I get notifications about messages so I can get back to you quickly. For personal or private issues, email is best.
+- [Slack channel](http://american-food.slack.com); first click the [invitation link](https://join.slack.com/t/american-food/shared_invite/zt-ef9zksoz-W2SiBrv9LfMvg~b00xNAhw). Slack is a straightforward collaborative messaging platform (via your browser or desktop/mobile app) that allows us to stay connected without more formal emails or messages in UNM Learn. I get notifications about messages so I can get back to you quickly. For personal or private issues, email is best.
 
 
 ## Work Requirements
@@ -126,6 +126,16 @@ I heartily encourage you to speak with me at any time about how I think you're d
 
 ### Please Ask for More Feedback
 You are always welcome and encouraged to ask for MORE FEEDBACK about assignments. I do my best to respond to your work and keep a conversation going, but there's about 60 students in this class so unfortunately I can't respond to everyone everyday. But I want to make sure everyone is getting as much feedback from me as they want.
+
+### Use SLACK for a grade bump
+As a way of keeping our conversation going, even if you're more of a fly-on-the-wall type, we use
+a [Slack channel](http://american-food.slack.com). To join, first click the [invitation link](https://join.slack.com/t/american-food/shared_invite/zt-ef9zksoz-W2SiBrv9LfMvg~b00xNAhw).
+
+Slack is a straightforward collaborative messaging platform (via your browser or desktop/mobile app) that allows us to stay connected without more formal emails or messages in UNM Learn. I get notifications about messages so I can get back to you quickly. You can message me directly and privately in Slack, but email might be best for personal or private issues.
+
+You are NOT REQUIRED to use Slack. HOWEVER, as a way to encourage you to post questions, comments, insights, observations, etc, about the readings, a consistent (but not necessarily heavy) engagement with our Slack channel will help you BOOST YOUR FINAL GRADE to the next grade level (B+ to A-, for instance). In your learning refection, you'll be able to point to your continued participation as justification for a higher final grade.
+
+What does consistent engagement or participation mean? There's really no point in quantifying something like this (a "you need to post 2 questions and 1 comment" type thing), as that's really against the spirit of why we're using it. If you are posting a few comments, questions, and/or quick replies each week, that's perfect. Hopefully you'll be reading through what other people post even more often---that's the fun part!!---but there's no way of quantifying that. Overall, it's a low stakes way for everyone to learn together and get other perspectives in a quick and informal manner---and makes up a little bit for never getting together in person. Please consider jumping in!
 
 
 
