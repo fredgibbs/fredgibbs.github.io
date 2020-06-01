@@ -78,6 +78,8 @@ There is no formal attendance, obviously. But everyone does need to attend to an
 
 
 ## Grade yourself
+For a bit more elaboration on what's below, I've highlighted a key points in [this screencast](https://youtu.be/U7hgAtqUH_k).
+
 As far as feedback goes, I think it's far more useful to think together and have an ongoing conversation than to give you a score or grade that supposedly indicates how "well" you're doing the assignment. **What matters most is the effort you are putting into the readings and responses, and YOU are the best person to score that.** So you will be submitting as part your assignment submission YOUR OWN SCORE that reflects the work you put into them. I will comment on whether I think your grade is vastly inappropriate given how it compares to what others are doing. With very few exceptions, **the score you give yourself is the score you get for that assignment.**
 
 For your FINAL learning reflection, you will give yourself a grade for the course. Unless there is a serious mismatch between the quality of work you've submitted and the grade you indicate, that is the grade will get for the course.
