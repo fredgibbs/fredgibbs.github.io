@@ -14,7 +14,12 @@ section: home
 - Summer 2020
 - 3 Credit Hours
 - Web remote (asynchronous; no set meeting time)
-- Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
+- Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) 
+
+## Getting Started
+This page, and the [schedule page](schedule), have all the instructions and assignments you need for the course. Make sure you are very familiar with these two pages. We use UNM Learn to manage quizzes, assignment submissions, and the discussion board, but all course information is on these two pages.
+
+While I hope the syllabus is self-explanatory, you should take a few minutes to watch the [introductory video]().
 
 
 ## Course Description
@@ -33,9 +38,9 @@ Some questions we'll tackle: What have Americans eaten over time? Why? How do we
 
 ## Tech tools
 - [UNM Learn](http://learn.unm.edu). All assignments will be submitted via UNM Learn.
-- [Zotero](zotero.org); see the [getting started guide](http://fredgibbs.net/courses/etc/zotero); once connected you can access the [course library](https://www.zotero.org/groups/2499167/american-food-unm/library). More details are in the reading section below.
+- [Zotero](http://zotero.org); see the [getting started guide](http://fredgibbs.net/courses/etc/zotero); once connected you can access the [course library](https://www.zotero.org/groups/2499167/american-food-unm/library).
 - [YouTube Channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig) will host mini-lectures and other screencasts.
-- [Slack channel](american-food.slack.com); first click the [invitation link](https://join.slack.com/t/american-food/shared_invite/zt-ef9zksoz-W2SiBrv9LfMvg~b00xNAhw). Use this for quick questions rather than email! Slack is a great collaborative messaging app that allows us to stay connected without more formal emails or messages in UNM Learn. I get notifications about messages so I can get back to you quickly. For personal or private issues, email is best.
+- [Slack channel](http://american-food.slack.com); first click the [invitation link](https://join.slack.com/t/american-food/shared_invite/zt-ef9zksoz-W2SiBrv9LfMvg~b00xNAhw). Slack is a straightforward collaborative messaging app (via your browser or app) that allows us to stay connected without more formal emails or messages in UNM Learn. I get notifications about messages so I can get back to you quickly. For personal or private issues, email is best.
 
 
 ## Work Requirements
@@ -57,9 +62,9 @@ The little equations after the assignment type indicates `number of assignments`
 - [Book reviews](book-reviews) (2x8 = 16)
 - [Early cookbook analysis](cookbook-analysis) (1x8 = 8)
 - [Food blog analysis](food-blog-analysis) (1x8 = 8)
-- [Final learning reflection](learning-reflections) (1x20 = 20)
+- [Final learning reflection](learning-reflections) (1x30 = 30)
 
-This totals 136 points, which is weird, but there's no difference between having 136 or a round number like 100. Your "grade" is determined by percent, as indicated below.
+This totals 146 points, which is weird, but there's no difference between having 136 or a round number like 100. Your "grade" is determined by percent, as indicated below.
 
 ### Submitting work
 The [schedule page](schedule) indicates all due dates for course work; all assignments should be uploaded to UNM Learn by the end of the day they are listed (by midnight).
@@ -88,7 +93,7 @@ Some of you just want a C to fulfill a UNM requirement. Some of you want a B to 
 
 
 ### Grading and feedback are different
-I don't really grade your work, but I engage with it as much as possible over the course (given that there are about 60 students and I'm covid-home-schooling two toddlers). I love having conversations even on the awkward Learn Discussion Board. Please reply!
+I don't really grade your work, but I will engage with your responses as much as possible over the course (given that there are about 60 students and I'm covid-home-schooling two toddlers). I love having conversations even on the awkward Learn Discussion Board. Please reply!
 
 ### Does this work?
 It does. But you might be thinking: Why not just do the absolute minimum and give yourself max points and an A for course? Three reasons.
@@ -135,7 +140,7 @@ In addition, a crucial aspect of this course is learning how to read critically 
 
 
 ### Familiarity over mastery
-If you peek at the reading schedule page, you might think there is a lot of reading. You're right! As an intensive 1H course, there IS a lot of reading. This is unavoidable because I respect the challenges and demands of a compressed four-week course that ostensibly provides comparable intellectual rigor as a full-semester course.
+If you peek at the reading schedule page, you might think there is a lot of reading. You're right! As an intensive 1H course, there IS a lot of reading. This is unavoidable because I respect the challenges and demands of a compressed four-week course that ostensibly provides comparable intellectual rigor as a full-semester course. But the workload is comparable to any average 1H upper-level humanities course, whether in person or online.
 
 Obviously we can't just quadruple the reading load for each day. So, it's not quite double that of a typical upper-level history course. Even then, you cannot possibly read every word, or every page, or master all the ideas, **and that's just fine**. I DO expect you to gain a familiarity across all the readings so that you can write a thoughtful response about them. Because we're covering so much ground so quickly, broad familiarity is far more important than specific details (although hopefully some historical detail will stick with you).
 

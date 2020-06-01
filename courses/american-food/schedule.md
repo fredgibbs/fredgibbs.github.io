@@ -9,14 +9,37 @@ section: home
 
 # Schedule of Readings & Assignments
 
+### All posted assignments should be complete by the END OF THE NEXT DAY from when they are assigned (ie when they appear on the syllabus)
+
 
 # Week 1
 
 ## Jun 1
 
 ### Introductions
-- Mini-lecture: Review the syllabus, course aims, assignments, and general plan for the semester.
 
+{% include alert.html class='info' title='Mini-lecture' text='
+### Introduction to the course and syllabus
+'%}
+
+
+{% include alert.html class='danger' title='Syllabus/intro video quiz' text="
+Visit UNM Learn, and find the `quizzes` link on the left nav.
+"%}
+
+{% include alert.html class='danger' title='Introductory post' text="
+Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post on the class Discussion Board in UNM Learn (should be an obvious link on the left nav bar) a brief introduction to who you are and one of your most vivid food memories---and why it resonates with you. These should be ~150-200 words or so. PLEASE DO THIS BY THE END OF MONDAY, JUNE 1!
+"%}
+
+
+
+## Jun 2
+
+### National Cuisine & American Food
+- _HAE_, xi-xv.
+- Sidney Mintz, "Eating American".
+- _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
+- Browse a few essays from [here](https://blogs.brown.edu/amst-1906p-s01-spring-2017/), and find one interesting point you agree with and one you don't. There are no right answers in any of the essays, but many great ideas we should keep in mind throughout the course. Please pick one of the substantive essays to browse, not the introduction or conclusion essays.
 
 {% include alert.html class='info' title='Mini-lecture' text='
 ### Why Care About Food & Taste?
@@ -26,26 +49,12 @@ section: home
 '%}
 
 
-{% include alert.html class='danger' title='Syllabus and Why Study Food quiz' text="
-[Take the quiz](https://learn.unm.edu/webapps/assessment/take/launchAssessment.jsp?course_id=_90020_1&content_id=_5535444_1&mode=cpview). If you are logged into UNM Learn, this link takes you directly to the quiz. If not, it takes you to the login screen; but it won't forward you to the quiz so you'll have to navigate to the quiz folder yourself.
+{% include alert.html class='danger' title='Why study food quiz' text="
+Visit UNM Learn, and find the `quizzes` link on the left nav.
 "%}
 
-
-## Jun 2
-
-### National Cuisine & American Food
-- _HAE_, xi-xv.
-- Sidney Mintz, "Eating American".
-- _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
-- Browse a few essays from [here](https://blogs.brown.edu/amst-1906p-s01-spring-2017/), and find one interesting point you agree with and one you don't. There are no right answers in any of the essays, but many great ideas we should keep in mind throughout the course. Pick one of the substantive essays to browse, not the introduction or conclusion essays.
-
-
 {% include alert.html class='danger' title='Reading response' text="
-Two-part blog post!
-
-1: Brief introduction. What food memories stand out to you?
-
-2: What arguments seemed most interesting or ridiculous about what constitutes American food?
+First, consult the [reading responses guide](reading-responses). In addition to the generic questions listed there: What arguments seemed most interesting or ridiculous about what constitutes American food?
 "%}
 
 

@@ -13,7 +13,7 @@ section: links-guides
 Rather than me trying to determine and assign a grade to how much you've learned from the reading assignment, you should just tell me what you thought about them. I'm interested learning in WHAT YOU THINK ABOUT THEM, not just getting a recap summary of the readings.
 
 ## Basics
-- ~250 words
+- ~250-300 words
 - Informal, but free of typos and basic grammatical errors
 - Original thinking
 - Posted ON TIME at UNM Learn (on your group's discussion board).
@@ -40,7 +40,7 @@ You can use half points! (.5, 1.5, 2.5); but don't do other fractions (1.8, 2.4,
 - 1: **Acceptable**. Skimmed the readings quickly and your response provides a coherent but rather simplistic description of what you learned.
 - 2: **Solid**. Read reasonably carefully, and your response shows you thinking critically about the ideas, arguments, and evidence presented.
 - 3: **Excellent**. Read most of the assignment carefully, and your response shows you RESPONDING to (not just summarizing) various complementary or conflicting ideas presented in the readings.
-- 4: **Home run**. Sometimes you'll really love a topic and write something you're REALLY proud of (both the thinking and the writing). Get an extra point for that! 
+- 4: **Home run**. Sometimes you'll really love a topic and write something you're REALLY proud of (both the thinking and the writing). Get an extra point for that!
 
 Remember that you are evaluating your effort for the assignment, not the absolute "quality" of your final response. If you spent a lot of effort learning from the readings, even if you feel your response doesn't sound particularly sophisticated, you can give yourself a 2.5 or 3.
 
