@@ -26,7 +26,7 @@ This page contains a list of links that you will probably need repeatedly throug
 ## Assignment Guides
 - [Reading Responses](reading-responses)
 - [Learning Reflections](learning-reflections.html)
+- [Book Reflections](book-reflections)
 - [Early Cookbook Analysis](cookbook-analysis.html)
-- [Book reviews](book-reviews)
 - [Food Blog Analysis](food-blog-analysis)
 - [Extra Credit Film Analysis](film-analysis.html)
