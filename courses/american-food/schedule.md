@@ -82,7 +82,7 @@ If you agree with the general sentiment of the readings that authenticity is pre
 - Heather Trigg, “Food Choice and Social Identity in Early Colonial New Mexico”, 223–252.
 
 {% include alert.html class='danger' title='Reading response' text="
-Based on the readings for today, how would you describe early American food?
+How do the readings describe how food and personal/community/national identity are related?
 "%}
 
 
