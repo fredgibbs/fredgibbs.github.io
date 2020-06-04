@@ -73,8 +73,10 @@ The [schedule page](schedule) indicates all due dates for course work; all assig
 - [Food Documentary Critique](film-analysis) (6 points)
 - Extra credit is only available if all other work is turned in on time, and should be emailed to me directly.
 
-### Attendance
+### Participation, Posts, and Replies
 There is no formal attendance, obviously. But everyone does need to attend to and engage with our various digital platforms. These help you learn and show me you're learning---both required to get credit for the course.
+
+I encourage students to post quick replies to other posts when something resonates with them—something you found interesting, insightful, funny, totally wrong, and so on. This is part of your effort and engagement with the course that you will point to when doing self-assessment. As far as official requirements go, you are required only to post your own reading response.
 
 
 ## Grade yourself

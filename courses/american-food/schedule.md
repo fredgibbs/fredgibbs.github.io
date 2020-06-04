@@ -82,7 +82,7 @@ If you agree with the general sentiment of the readings that authenticity is pre
 - Heather Trigg, “Food Choice and Social Identity in Early Colonial New Mexico”, 223–252.
 
 {% include alert.html class='danger' title='Reading response' text="
-How do the readings describe how food and personal/community/national identity are related?
+Based on the readings for today, how would you describe early American food?
 "%}
 
 
@@ -215,7 +215,7 @@ Your reflection on _Tastes like Chicken_ is due TODAY. Remember to review the [b
 
 ### Chinese-American Food
 - _HAE_, 169-78 (7: Food Habits and Racial Thinking).
-- Anne Mendelson, _Chow Chop Suey_, 23-71.
+- Anne Mendelson, _Chow Chop Suey_, 24-71.
 - Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change”, _The Journal of Popular Culture_, 36.4 (2003): 669–86.
 
 {% include alert.html class='danger' title='Reading response' text="
