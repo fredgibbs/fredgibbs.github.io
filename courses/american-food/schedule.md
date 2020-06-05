@@ -93,6 +93,9 @@ How do the readings describe how food and personal/community/national identity a
 Learning Reflection 1 is due today. See the [learning reflection guide](learning-reflections) and the first 10 minutes of the [weekly reflection tips video](https://youtu.be/l2izXCxn2xo). (the remainder of the video is a preview of week 2.)
 "%}
 
+{% include alert.html class='warning' title='New Book starts Monday' text="
+We start reading  _Tastes like Chicken_ on Monday, though you are encouraged to read ahead this weekend. Even before you start reading, please consult the [book reflection guide](book-reflections).
+"%}
 
 
 

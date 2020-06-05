@@ -59,7 +59,7 @@ The little equations after the assignment type indicates `number of assignments`
 - [Reading responses](reading-responses) (10x4 = 40)
 - Mini-lecture quizzes (4x6 = 24)
 - [Weekly learning reflections](learning-reflections) (3x10 = 30)
-- [Book reviews](book-reviews) (2x8 = 16)
+- [Book reflections](book-reflections) (2x8 = 16)
 - [Early cookbook analysis](cookbook-analysis) (1x8 = 8)
 - [Food blog analysis](food-blog-analysis) (1x8 = 8)
 - [Final learning reflection](learning-reflections) (1x30 = 30)
@@ -76,7 +76,7 @@ The [schedule page](schedule) indicates all due dates for course work; all assig
 ### Participation, Posts, and Replies
 There is no formal attendance, obviously. But everyone does need to attend to and engage with our various digital platforms. These help you learn and show me you're learning---both required to get credit for the course.
 
-I encourage students to post quick replies to other posts when something resonates with them—something you found interesting, insightful, funny, totally wrong, and so on. This is part of your effort and engagement with the course that you will point to when doing self-assessment. As far as official requirements go, you are required only to post your own reading response.
+I encourage students to post quick replies to other posts when something resonates with them—something you found interesting, insightful, funny, totally wrong, and so on. This is part of your effort and engagement with the course that you will point to when doing self-assessment (both weekly and in the final assessment). As far as official requirements go, you are required only to post your own reading response.
 
 
 ## Grade yourself
