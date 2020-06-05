@@ -9,7 +9,8 @@ section: home
 
 # Schedule of Readings & Assignments
 
-### All posted assignments should be complete by the END OF THE NEXT DAY from when they are assigned (ie when they appear on the syllabus)
+## Due dates
+All posted assignments are technically due on the day they are listed so that we all stay on schedule. But there is always a one day grace period to submit your post without it being considered late. The grace period should be something you use a safety net for when shit happens, which it will. The course will be much easier if you're doing your readings and postings on the day listed on the syllabus.
 
 
 # Week 1
@@ -106,7 +107,7 @@ Learning Reflection 1 is due today. See the [learning reflection guide](learning
 - James E. McWilliams, “‘How Unripe We Are’”, _Food, Culture & Society_ 8.2 (2005): 143–60.
 
 {% include alert.html class='danger' title='Reading response' text="
-How would you describe the attitudes toward food in early settler-colonial America?
+Think about and address the questions on the [reading response guide](reading-responses).
 "%}
 
 
@@ -161,7 +162,7 @@ What did you find most surprising or interesting about the myth/reality of Thank
 
 ## Jun 11
 
-### Chicken 121--148
+### _Tastes like Chicken_, 121--148
 
 ### Immigration
 - _HAE_, 57-87 (3: Expansion and Immigration).
@@ -169,7 +170,7 @@ What did you find most surprising or interesting about the myth/reality of Thank
 - Explore [What America Ate](https://whatamericaate.org/).
 
 {% include alert.html class='danger' title='Reading response' text="
-Report on what you found interesting at [What America Ate](https://whatamericaate.org/). What kinds of documents did you look at? What kinds of essays did you read? How would you improve the site (in terms of content or design)? How much does the website reflect what's in the readings for today?
+Use the readings to contextualize what you found interesting at [What America Ate](https://whatamericaate.org/). How much does the website reflect what's in the readings for today?
 "%}
 
 

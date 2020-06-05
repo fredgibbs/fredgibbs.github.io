@@ -27,18 +27,16 @@ In reflecting over the topics and readings for the week:
 - What kinds of questions did the readings raise for you?
 
 ## Reflect more than summarize
-As with the reading responses, I'm much more interested in reading and engaging with what you've found interesting over the course of the week---especially across the range of topics---than in slogging through a synopsis of the week's readings. A good reflection of what you've learned shows the effort you've been putting into the readings; simply paraphrasing the readings really doesn't show me anything.
+As with the reading responses, I'm much more interested in reading and engaging with what you've found interesting over the course of the week---especially across the range of topics---than in slogging through a synopsis of the week's readings. A good reflection of what you've learned shows the effort you've been putting into the readings; simply paraphrasing the readings one by one really doesn't show me anything or provide evidence of your effort to learn.
 
 ## Don't forget your grade
-At the end of your post, evaluate your own effort for that week using the following scale (sort of same as the daily reading responses). You are encouraged to quote from your reading responses as evidence for your effort!
+At the end of your post, evaluate your own effort for your summary and the week using the following scale (sort of same as the daily reading responses). You are encouraged to quote from your reading responses and engagement on the discussion board and Slack as evidence for your effort!
 
-Because there is a much wider scale and a scale range for each category of effort, there is NO NEED FOR HALF POINTS, but you can use them if you really, really, want to.
-
-- 0: You really can't give yourself a 0, because that's what you get when you don't submit anything.
 - 1-3: **Acceptable**. Skimmed the readings quickly and your response provides a coherent but rather simplistic description of what you learned.
 - 4-7: **Solid**. Read the assignments reasonably carefully, and your responses show that you're thinking critically about the ideas, arguments, and evidence presented.
 - 8-9: **Excellent**. Read most of the assignments carefully, and your response shows you RESPONDING to (not just summarizing) various complementary or conflicting ideas presented in the readings and across the topics for the week.
-- 10: **Home run**. If you can't imagine anyone putting in more work for the course, this is the score for you. This would mean that you were really into the readings, had some interesting ideas about them as a set, and consistently posted original, expressive, and sophisticated reading responses (or other assignments).
+- 10: **Home run**. If you can't imagine anyone putting in more work for the course this week, this is the score for you. This would mean that you spent significant time with all the readings (not just a few from each day) and consistently posted original, expressive, and sophisticated reading responses (or other assignments). Use this highest mark sparingly!
+
 
 
 # Final Learning Reflection
