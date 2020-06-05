@@ -16,7 +16,7 @@ Rather than me trying to determine and assign a grade to how much you've learned
 - ~200--250 words
 - Informal, but free of typos and basic grammatical errors
 - Original thinking
-- Posted ON TIME at UNM Learn. On time means ideally the day it appears on the syllabus, but includes a grace period until the end of the following day. 
+- Posted ON TIME at UNM Learn. On time means ideally the day it appears on the syllabus, but includes a grace period until the end of the following day.
 
 ## Questions to think about
 - What ideas did you find most interesting?
@@ -30,7 +30,7 @@ Rather than me trying to determine and assign a grade to how much you've learned
 ## Reflect more than summarize
 I'm much more interested in reading about YOUR PERSONAL LEARNING EXPERIENCE than reading a summary of the assignment. Of course in describing what you found most interesting or what you disagreed with the most you'll end up restating some ideas from the reading. That's important! But this exercise is NOT about just regurgitating the readings or identifying the "most" important points---everyone will learn something different from them.
 
-## Don't forget your grade (1-3)
+## Don't forget your learning assessment (1-3)
 At the end of your post, evaluate your own effort for that day's readings using the following scale. Individual points seem like they don't matter all that much per each assignment, but they add up over the month!
 
 You can use half points! (.5, 1.5, 2.5); but don't do other fractions (1.8, 2.4, etc) because it leads to too much nit-picking.

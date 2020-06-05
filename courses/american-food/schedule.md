@@ -155,7 +155,7 @@ Follow the [Cookbook Analysis Guide](cookbook-analysis).
 
 
 {% include alert.html class='danger' title='Reading response' text="
-What did you find most surprising or interesting about the myth/reality of Thanksgiving? To what extent did the readings make you think about food traditions in general?
+Think about and address the questions on the [reading response guide](reading-responses).
 "%}
 
 

@@ -29,7 +29,7 @@ In reflecting over the topics and readings for the week:
 ## Reflect more than summarize
 As with the reading responses, I'm much more interested in reading and engaging with what you've found interesting over the course of the week---especially across the range of topics---than in slogging through a synopsis of the week's readings. A good reflection of what you've learned shows the effort you've been putting into the readings; simply paraphrasing the readings one by one really doesn't show me anything or provide evidence of your effort to learn.
 
-## Don't forget your grade
+## Don't forget your learning assessment
 At the end of your post, evaluate your own effort for your summary and the week using the following scale (sort of same as the daily reading responses). You are encouraged to quote from your reading responses and engagement on the discussion board and Slack as evidence for your effort!
 
 - 1-3: **Acceptable**. Skimmed the readings quickly and your response provides a coherent but rather simplistic description of what you learned.

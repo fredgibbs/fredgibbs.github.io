@@ -36,7 +36,7 @@ Anything in your text that refers to a specific quote or idea should a have pare
 For example: The author claims that food is no longer good for us (13). The author of the book is implied since we only have one source. If you are citing other texts from class, use author/date format (Gibbs, 75).
 
 
-## Don't forget your grade (1-8 scale)
+## Don't forget your learning assessment (1-8 scale)
 At the end of your cookbook analysis, evaluate your own effort. Use half points if you'd like.
 
 - 1-2: **Marginal**. Skimmed the cookbook quickly and your analysis provides a coherent but rather simplistic description of its contents.
