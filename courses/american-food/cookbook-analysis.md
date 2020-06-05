@@ -43,3 +43,7 @@ At the end of your cookbook analysis, evaluate your own effort. Use half points 
 - 3-4: **Fine**. Read the cookbook reasonably carefully, and your analysis shows that you're thinking critically about the questions above.
 - 5-6: **Very good**. Read the cookbook carefully, with thorough answers to the above questions.
 - 7-8: **Excellent**. This would mean that you spent a lot of time with your cookbook (relative to what you would normally spend with a reading and what other people seem to have done), and wrote up an original, expressive, and sophisticated analysis of what we can learn about American food from that cookbook.
+
+
+## Questions
+You are ALWAYS welcome to use email or better yet Slack for questions or clarifications. Writing is hard enough, and virtually impossible when you're not sure what you're trying to do. Please get in touch!

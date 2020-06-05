@@ -14,7 +14,7 @@ section: links-guides
 This assignment shows that you’re able to apply the course to a critical description and evaluation of a food-related text (like one of our required books) that you might read even outside of this course.
 
 ## Assignment Logistics
-Your essay must be ~900 words. This restrictive format is deliberate, to force you to think about quality over quantity. The challenge is NOT to meet the word count, but to pack as much analysis and synthesis into that space as you can.
+Your essay must be ~800 words. This restrictive format is deliberate, to force you to think about quality over quantity. The challenge is NOT to meet the word count, but to pack as much analysis and synthesis into that space as you can.
 
 ## Audience
 Your audience is NOT ME as your professor who is grading your paper. For one, I'm actually not grading it; you are. Two, you want to imagine you're writing for someone who likes food and/or food history and might be interested in this book, and is therefore reading a concise review to get a sense of what it's about and to decide if it's worth their time.
@@ -22,27 +22,30 @@ Your audience is NOT ME as your professor who is grading your paper. For one, I'
 ## Organizational advice
 Although you don't need to have distinct section headings, you should have three main sections to your paper. You should have multiple paragraphs in each section. Paragraphs are for ideas, not sections.
 
-### Summary (~300 words)
+
+### Summary (~250 words)
 You should begin your essay with a **thorough but quick summary** of the main takeaway points of the book so that your readers have an idea of BOTH the **general topics covered** AND the **main themes addressed**. DO NOT GIVE A CHAPTER BY CHAPTER SUMMARY. Go for the bird's eye view.
 
 
-### Personal Reflections (300 words)
+### Importance and Relevance (~250 words)
+- What besides historical knowledge should readers take away from the book?
+- Who could benefit from reading this? Who might be excluded?
+- What are the implications of the book for the modern consumer?
+
+Don't simply say that knowing the history of X is important. Everyone knows that (not true, but let's pretend). Make a specific case how the book is useful beyond the history it presents.
+
+
+### Personal Reflections (~300 words)
 Typical book reviews aren't very personal, but our book reflections are. You should describe YOUR EXPERIENCE (not that of some hypothetical reader) reading the book. Again, thinking big picture, write about:
 
 - What was most interesting for you?
-- How was the book most successful?
+- How was the book most successful or impactful?
+- To what extent did it change your thinking on the topic?
 - What did you find problematic? Where did you get confused?
 - Are there key issues or topics that were not addressed?
 - Did you find the general point of the book interesting/effective/persuasive?
 
 
-### Importance and Relevance (300 words)
-- What besides historical knowledge can we take away from the book?
-- What societal good can this book possibly do?
-- Who could benefit from reading this? Who might be excluded?
-- **What are the implications of the book for the modern consumer?**
-
-Don't simply say that knowing the history of X is important. Everyone knows that (not true, but let's pretend). Make a specific case how the book is useful beyond the history it presents.
 
 
 ## References and Citations
@@ -54,10 +57,10 @@ For example: The author claims that food is no longer good for us (13). The auth
 ## Don't forget your grade (1-8 scale)
 At the end of your cookbook analysis, evaluate your own effort. Use half points if you'd like.
 
-- 1-2: **Marginal**. Skimmed the readings quickly and your response provides a coherent but rather simplistic description of what you learned.
-- 3-4: **Fine**. Read the assignments reasonably carefully, and your responses show that you're thinking critically about the ideas, arguments, and evidence presented.
-- 5-6: **Very good**. Read the assignments reasonably carefully, and your responses show that you're thinking critically about the ideas, arguments, and evidence presented.
-- 7-8: **Excellent**. This would mean that you spent a lot of time with your cookbook (relative to what you would normally spend with a reading and what other people seem to have done), and wrote up an original, expressive, and sophisticated analysis of what we can learn about American food from that cookbook.
+- 1-2: **Marginal**. Skimmed the book quickly and your review provides a coherent but rather simplistic description of the content.
+- 3-4: **Fine**. Read the book reasonably carefully, and your review shows that you're thinking critically about the ideas, arguments, and evidence presented.
+- 5-6: **Very good**. Read the book carefully, and your review shows a legitimate effort to engage with the suggested questions above.
+- 7-8: **Excellent**. Read the book closely, and your review shows an original, expressive, and sophisticated answers to the suggested questions above.
 
 ## Questions
-You are ALWAYS welcome to email questions or ask for clarification. Writing is hard enough, and virtually impossible when you're not sure what you're trying to do. Please get in touch via email or Slack!
+You are ALWAYS welcome to use email or better yet Slack for questions or clarifications. Writing is hard enough, and virtually impossible when you're not sure what you're trying to do. Please get in touch!
