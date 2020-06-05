@@ -12,7 +12,7 @@ Pick a book from [here](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listi
 
 
 ## Basic Goals
-- ~800 words
+- ~600-800 words
 - Describe what your cookbook tells us about American Culture/Food/Cuisine
 - Apply the readings and our discussions to your analysis of a historic cookbook
 

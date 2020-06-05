@@ -13,7 +13,7 @@ section: links-guides
 These follow the same motivation as the more-or-less daily reading responses, except that you're reflecting over a number of topics and a more diverse set of readings. Therefore your reflections will be more synthetic and a bit longer. You should feel like you're doing more or less the same kind of reflective exercise, except more big picture as you think back on the week.
 
 ## Basics
-- 600-800 words
+- ~600-800 words
 - Synthetic across the entire week
 - Free of typos and basic grammatical errors
 - Smooth, focused writing

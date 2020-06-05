@@ -16,7 +16,7 @@ Rather than me trying to determine and assign a grade to how much you've learned
 - ~200--250 words
 - Informal, but free of typos and basic grammatical errors
 - Original thinking
-- Posted ON TIME at UNM Learn (on your group's discussion board).
+- Posted ON TIME at UNM Learn. On time means ideally the day it appears on the syllabus, but includes a grace period until the end of the following day. 
 
 ## Questions to think about
 - What ideas did you find most interesting?
