@@ -90,7 +90,7 @@ How do the readings describe how food and personal/community/national identity a
 
 ## Jun 5
 {% include alert.html class='danger' title='Learning Reflection 1/4' text="
-Learning Reflection 1 is due today. See the [learning reflection guide](learning-reflections)
+Learning Reflection 1 is due today. See the [learning reflection guide](learning-reflections) and the first 10 minutes of the [weekly reflection tips video](https://youtu.be/l2izXCxn2xo). (the remainder of the video is a preview of week 2.)
 "%}
 
 
