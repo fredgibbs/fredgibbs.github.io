@@ -136,6 +136,9 @@ Common
 
   .alert-heading {
     margin-top: 0;
+    margin-bottom:.5em;
+    font-size:130%;
+    text-transform:uppercase;
   }
 
   .alert ul {
