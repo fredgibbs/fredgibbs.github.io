@@ -109,7 +109,7 @@ We start reading  _Tastes like Chicken_ on Monday, though you are encouraged to 
 - James E. McWilliams, “‘How Unripe We Are’”, _Food, Culture & Society_ 8.2 (2005): 143–60.
 
 {% include alert.html class='danger' title='Reading response' text="
-Think about and address the questions on the [reading response guide](reading-responses). Note that unlike last week, from now on there will not be a separate syllabus or discussion board prompt for you to follow. Instead, you'll just address the questions listed in the Response Guide. This should make it easier for you to talk about what interests you. Also note that the expected length of the reading responses has been reduced by 50 words (now 200-250 words).
+Think about and address the questions on the [reading response guide](reading-responses). Note that unlike last week, from now on there will not usually be a separate syllabus or discussion board prompt for you to follow. Instead, you'll just address the questions listed in the Response Guide. This should make it easier for you to talk about what interests you. Also note that the expected length of the reading responses has been reduced by 50 words (now 200-250 words).
 "%}
 
 
@@ -157,12 +157,14 @@ Follow the [Cookbook Analysis Guide](cookbook-analysis).
 ### Thanksgiving
 - Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70–74.
 - Andrew F. Smith, “The First Thanksgiving”, _Gastronomica_ 3.4 (2003): 79–85.
+
+#### For reference
 - Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167–91.
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/)
 
 
 {% include alert.html class='danger' title='Reading response' text="
-Think about and address the questions on the [reading response guide](reading-responses).
+As usual, think about the questions in the [reading response guide](reading-responses). HOWEVER, there's one additional question to consider and discuss this week: Based on the Deloria reading (your response should make it clear you're well acquainted with it), how much is the national holiday of Thanksgiving more or less a ritual of reaffirming institutionalized marginalization and oppression? (something you may have heard about in the news this past week...) 
 "%}
 
 
