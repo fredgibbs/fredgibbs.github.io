@@ -39,7 +39,7 @@ Some questions we'll tackle: What have Americans eaten over time? Why? How do we
 ## Tech tools
 - [UNM Learn](http://learn.unm.edu). All assignments will be submitted via UNM Learn.
 - [Zotero](http://zotero.org); see the [getting started guide](http://fredgibbs.net/courses/etc/zotero); once connected you can access the [course library](https://www.zotero.org/groups/2499167/american-food-unm/library).
-- [YouTube Channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig) will host mini-lectures and other screencasts.
+- [YouTube Channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig) will host mini-lectures and other screencasts. I will post announcements of new videos in Learn (which send an email to you as well).
 - [Slack channel](http://american-food.slack.com); first click the [invitation link](https://join.slack.com/t/american-food/shared_invite/zt-ef9zksoz-W2SiBrv9LfMvg~b00xNAhw). Slack is a straightforward collaborative messaging platform (via your browser or desktop/mobile app) that allows us to stay connected without more formal emails or messages in UNM Learn. I get notifications about messages so I can get back to you quickly. For personal or private issues, email is best.
 
 

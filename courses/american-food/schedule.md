@@ -10,7 +10,11 @@ section: home
 # Schedule of Readings & Assignments
 
 ## Due dates
-All posted assignments are technically due on the day they are listed so that we all stay on schedule. But there is always a one day grace period to submit your post without it being considered late. The grace period should be something you use a safety net for when shit happens, which it will. The course will be much easier if you're doing your readings and postings on the day listed on the syllabus.
+All posted assignments are technically "due" on the day they are listed so that we all stay on schedule. But you always have a one day grace period to submit your post without it being considered late. The grace period should be something you use a safety net for when shit happens, which it will. The course will be much easier if you're doing your readings and postings on the day listed on the syllabus.
+
+## Video lectures and instructional videos
+All mini-lectures (of which are less mini than is ideal) and other instructions about assignments are posted on the YouTube channel, and I will post an announcement and send an email about them via UNM Learn when they become available.
+
 
 
 # Week 1
@@ -164,7 +168,7 @@ Follow the [Cookbook Analysis Guide](cookbook-analysis).
 
 
 {% include alert.html class='danger' title='Reading response' text="
-As usual, think about the questions in the [reading response guide](reading-responses). HOWEVER, there's one additional question to consider and discuss this week: Based on the Deloria reading (your response should make it clear you're well acquainted with it), how much is the national holiday of Thanksgiving more or less a ritual of reaffirming institutionalized marginalization and oppression? (something you may have heard about in the news this past week...) 
+As usual, think about the questions in the [reading response guide](reading-responses). HOWEVER, there's one additional question to consider and discuss this week: Based on the Deloria reading (your response should make it clear you're well acquainted with it), how much is the national holiday of Thanksgiving more or less a ritual of reaffirming institutionalized marginalization and oppression? (something you may have heard about in the news this past week...)
 "%}
 
 
