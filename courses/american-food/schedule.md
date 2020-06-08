@@ -113,7 +113,7 @@ We start reading  _Tastes like Chicken_ on Monday, though you are encouraged to 
 - James E. McWilliams, “‘How Unripe We Are’”, _Food, Culture & Society_ 8.2 (2005): 143–60.
 
 {% include alert.html class='danger' title='Reading response' text="
-Think about and address the questions on the [reading response guide](reading-responses). Note that unlike last week, from now on there will not usually be a separate syllabus or discussion board prompt for you to follow. Instead, you'll just address the questions listed in the Response Guide. This should make it easier for you to talk about what interests you. Also note that the expected length of the reading responses has been reduced by 50 words (now 200-250 words).
+Think about and address the questions on the [reading response guide](reading-responses). Note that unlike last week, from now on there will not usually be a separate syllabus or discussion board prompt for you to follow (too confusing!). Instead, you'll just address the questions listed in the Response Guide. This should make it easier for you to talk about what interests you. Also note that the expected length of the reading responses has been reduced by 50 words (now 200-250 words) so we're all not totally burnt out by the end of the week.
 "%}
 
 
@@ -123,15 +123,15 @@ Think about and address the questions on the [reading response guide](reading-re
 
 ### Early Cookbooks
 The below readings will help you do the [Cookbook Analysis](cookbook-analysis) assignment that's due today. So read them with USING them in mind, not for writing a response about them.
-- Keith Stavely and Kathleen Fitzgerald, _America\'s Founding Food_ (4: Cookbooks and Commerce), 120--147.
-- Harry Haff, _The Founders of American Cuisine: Seven Cookbook Authors, with Historical Recipes_ (2: Amelia Simmons), 21--33.
+- Keith Stavely and Kathleen Fitzgerald, _America\'s Founding Food_ (4: Cookbooks and Commerce), 120--147. This is very helpful in understanding the world of food production at the time early cookbooks we're looking at were written, and part of the reason for their emergence. Skim to page 129 and read more carefully after that.
+- Harry Haff, _The Founders of American Cuisine: Seven Cookbook Authors, with Historical Recipes_ (2: Amelia Simmons), 21--33. Note in particular how the author analyzes Simmons's cookbook. This is what you'll be doing for your assignment today.
 
 
 {% include alert.html class='info' title='Assignment Demo: Analyzing historic cookbooks' text='
 The following resources form the basis of the assignment demo, so I want to list them here, but you don\'t need to read through these on your own.
 
 #### Cookbooks as historical sources
-- Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_ (2: Culinary Tradition), 29-51.
+- Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_ (2: Culinary Tradition), 29-51. This provides a fascinating cultural background of cookbooks and their evolution. Honestly the first few sentences of each paragraph will give you enough background.
 - Colleen Cotter, "Claiming a Piece of the Pie", 51--68.
 - Jane C. Busch, "Using Cookbooks as Research Documents", 22--25.
 
