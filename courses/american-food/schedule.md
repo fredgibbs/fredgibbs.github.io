@@ -340,8 +340,8 @@ For today, your response should be directed at answering two specific questions:
 - [Why there are no great women chefs](https://gastronomica.org/2010/02/05/why-are-there-no-great-women-chefs/)
 
 {% include alert.html class='danger' title='Reading response' text="
-We've read so much in this course about how cooking is women's work. Why is the food industry in general so hostile to women?
-%}
+We've read much in this course about how cooking is women's work. Uniting the readings for today with the rest of the course: How and why is the food industry in general so hostile to women?
+"%}
 
 
 
