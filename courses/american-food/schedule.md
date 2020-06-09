@@ -182,11 +182,11 @@ As usual, think about the questions in the [reading response guide](reading-resp
 ### Immigration
 - _HAE_, 57-87 (3: Expansion and Immigration).
 - Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122-48.
-- Explore [What America Ate](https://whatamericaate.org/).
 
-{% include alert.html class='danger' title='Reading response' text="
-Use the readings to contextualize what you found interesting at [What America Ate](https://whatamericaate.org/). How much does the website reflect what's in the readings for today?
+{% include alert.html class='warning' title='No reading response' text="
+Nothing due specifically on these readings today. But you should discuss them in your weekly reflection due tomorrow.
 "%}
+
 
 
 
@@ -233,12 +233,13 @@ Your reflection on _Tastes like Chicken_ is due TODAY. Remember to follow the [b
 
 ### Chinese-American Food
 - _HAE_, 169-78 (7: Food Habits and Racial Thinking).
-- Anne Mendelson, _Chow Chop Suey_, 24-71.
+- Anne Mendelson, _Chow Chop Suey_, 24-40.
 - Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change”, _The Journal of Popular Culture_, 36.4 (2003): 669–86.
 
-{% include alert.html class='danger' title='Reading response' text="
-You're sitting at a Chinese restaurant with friends. Someone asks what you learned about Chinese food in America and its relationship to American food. What will you say to them?
+{% include alert.html class='warning' title='No reading response' text="
+Nothing due specifically on these readings today. But you should discuss them in your weekly reflection.
 "%}
+
 
 
 
@@ -268,9 +269,10 @@ Pick an essay from [The United States of Mexican Food](https://www.eater.com/201
 - Warren J. Belasco, _Appetite for Change_, 43-67 (3: Radical Therapy).
 - Warren J. Belasco, _Appetite for Change_, 111-31 (5: The Orthodox Defense).
 
-{% include alert.html class='danger' title='Reading response' text="
-Think about and address the questions on the [reading response guide](reading-responses).
+{% include alert.html class='warning' title='No reading response' text="
+Nothing due specifically on these readings today. There will be an extra credit reading/lecture quiz.
 "%}
+
 
 
 ## Jun 19 (Friday)
@@ -324,8 +326,9 @@ https://www.foodrepublic.com/2017/06/01/cultural-appropriation-food/
 
 
 {% include alert.html class='danger' title='Reading response' text="
-For today, your response should be directed at answering one specific question:
-- How are (in the selections for today) Twitty and Wallace trying to accomplish the same thing?
+For today, your response should be directed at answering two specific questions:
+1. How are (in the selections for today) Twitty and Wallace trying to accomplish the same thing?
+2. How do these articles explain what is at stake in terms of food justice?
 "%}
 
 
@@ -337,8 +340,8 @@ For today, your response should be directed at answering one specific question:
 - [Why there are no great women chefs](https://gastronomica.org/2010/02/05/why-are-there-no-great-women-chefs/)
 
 {% include alert.html class='danger' title='Reading response' text="
-Think about and address the questions on the [reading response guide](reading-responses).
-"%}
+We've read so much in this course about how cooking is women's work. Why is the food industry in general so hostile to women?
+%}
 
 
 
@@ -346,13 +349,13 @@ Think about and address the questions on the [reading response guide](reading-re
 No reading for today, just the penultimate assignment.
 
 {% include alert.html class='danger' title='Food Blog Analysis Due Today' text="
-See the [Food Blog Analysis Guidelines](food-blog-analysis)
+See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to your cookbook analysis a few weeks ago. I claimed that the kinds of things you can learn from modern food blogs are kinda similar to what you can learn from 19th-century cookbooks. How much did you find that to be true or not?
 "%}
 
 
 
 ### For fun: Food TV
-This is totally optional, but a great way to procrastinate---there might be no better illustration of how Food Television has evolved than watching these clips of Emeril:
+This is totally optional, but a great way to procrastinate---there might be no better illustration of how Food Television has evolved than watching the first few minutes of these clips of Emeril:
 - [Shrimp Étouffée (Original Show)](https://www.youtube.com/watch?v=p_0Z7IUhyv8)
 - [Emeril and Friends](https://www.youtube.com/watch?v=0KEi3vMi4Dg)
 - [Tex-Mex Chile](https://www.youtube.com/watch?v=lL9C70DItUA)

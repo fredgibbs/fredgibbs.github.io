@@ -56,15 +56,15 @@ Not having actual class meetings (as the course normally does) deprives us of so
 
 ### Required
 The little equations after the assignment type indicates `number of assignments` x `points for each` = `total points`
-- [Reading responses](reading-responses) (10x4 = 40)
-- Mini-lecture quizzes (4x6 = 24)
+- [Reading responses](reading-responses) (8x3 = 24)
+- Mini-lecture quizzes (4x5 = 20)
 - [Weekly learning reflections](learning-reflections) (3x10 = 30)
 - [Book reflections](book-reflections) (2x8 = 16)
 - [Early cookbook analysis](cookbook-analysis) (1x8 = 8)
 - [Food blog analysis](food-blog-analysis) (1x8 = 8)
 - [Final learning reflection](learning-reflections) (1x30 = 30)
 
-This totals 146 points, which is weird, but there's no difference between having 136 or a round number like 100. Your "grade" is determined by percent, as indicated below.
+This totals 136 points, which is weird, but there's no difference between having 136 or a round number like 100. Your "grade" is determined by percent, as indicated below.
 
 ### Submitting work
 The [schedule page](schedule) indicates all due dates for course work; all assignments should be uploaded to UNM Learn by the end of the day they are listed (by midnight).
@@ -106,22 +106,21 @@ It does. But you might be thinking: Why not just do the absolute minimum and giv
 - 3) Reality. Being honest about your own learning and effort---because of the self-reflection it entails---actually helps you learn more and get better at learning in general. Ultimately, the people who work at learning (with any topic) are going to be more successful in life (however you define that).
 
 
-### Grading Scale
+### Grading Scale (updated June 9)
 
-Percent | Grade
+Points | Grade
 --- | ---
-94+ | A
-90-93 | A-
-87-89 | B+
-83-86 | B
-80-82 | B-
-77-79 | C+
-73-76 | C
-70-72 | C-
-67-69 | D+
-60-66 | D
-59- | F
-
+118+ | A
+110-117 | A-
+102-109 | B+
+95-101 | B
+88-94 | B-
+81-87 | C+
+74-80 | C
+68-73 | C-
+61-67 | D+
+54-60 | D
+53- | F
 
 ### Please Don't Drift Away
 I heartily encourage you to speak with me at any time about how I think you're doing in the class and how it can be improved (if at all). If life gets overwhelming during the course, it's easy to drift away from an intensive elective course like this, especially an online course. PLEASE DON'T! Rather than disappear, let's talk about how we can accommodate your circumstances, including figuring out a target grade, reduced assignments, switching to CR/NC grade mode, etc.
