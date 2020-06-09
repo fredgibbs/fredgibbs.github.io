@@ -15,7 +15,8 @@ Pick a book from [here](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listi
 - ~600-800 words
 - Describe what your cookbook tells us about American Culture/Food/Cuisine
 - Apply the readings and our discussions to your analysis of a historic cookbook
-- Have a little fun looking through a primary source for food history
+- Have some fun looking through a primary source for food history! This is meant to be more of a fun assignment than a laborious analysis.
+
 
 ## Questions to ask your cookbook and write about:
 - What is your overall impression of the cookbook? What is most interesting? Unexpected?
