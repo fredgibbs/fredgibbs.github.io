@@ -13,7 +13,7 @@ section: home
 All posted assignments are technically "due" on the day they are listed so that we all stay on schedule. But you always have a one day grace period to submit your post without it being considered late. The grace period should be something you use a safety net for when shit happens, which it will. The course will be much easier if you're doing your readings and postings on the day listed on the syllabus.
 
 ## Video lectures and instructional videos
-All mini-lectures (of which are less mini than is ideal) and other instructions about assignments are posted on the YouTube channel, and I will post an announcement and send an email about them via UNM Learn when they become available.
+All mini-lectures (of which are less mini than is ideal) and other instructions about assignments are posted on the [course YouTube channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig), and I will post an announcement in UNM Learn when they become available.
 
 
 
