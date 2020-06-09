@@ -130,6 +130,8 @@ The below readings will help you do the [Cookbook Analysis](cookbook-analysis) a
 {% include alert.html class='info' title='Assignment Demo: Analyzing historic cookbooks' text='
 The following resources form the basis of the assignment demo, so I want to list them here, but you don\'t need to read through these on your own.
 
+The assignment demo video is posted on the YouTube Channel, and you can [watch it here](https://youtu.be/XU8JkkuzpP8).
+
 #### Cookbooks as historical sources
 - Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_ (2: Culinary Tradition), 29-51. This provides a fascinating cultural background of cookbooks and their evolution. Honestly the first few sentences of each paragraph will give you enough background.
 - Colleen Cotter, "Claiming a Piece of the Pie", 51--68.
