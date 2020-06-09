@@ -15,9 +15,10 @@ Pick a book from [here](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listi
 - ~600-800 words
 - Describe what your cookbook tells us about American Culture/Food/Cuisine
 - Apply the readings and our discussions to your analysis of a historic cookbook
-
+- Have a little fun looking through a primary source for food history
 
 ## Questions to ask your cookbook and write about:
+- What is your overall impression of the cookbook? What is most interesting? Unexpected?
 - What kind of assumptions does the author(s) make about cooking/cuisine/food?
 - Who is the intended audience? What should they know? What should they care about?
 - What kind of larger themes do the cookbooks appeal to (exotic, health, comfort, regional, national, classical, etc)?
@@ -26,6 +27,8 @@ Pick a book from [here](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listi
 - What kinds of ingredients and recipes appear? What does NOT appear that you might have expected?
 - How much does history or tradition matter to the recipes?
 - What does it say about "American Food"?
+- Any other thoughts or reflections on your experience looking through your cookbook?
+
 
 
 ## References and Citations
