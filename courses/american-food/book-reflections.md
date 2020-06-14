@@ -20,7 +20,7 @@ Your essay must be ~800 words. This restrictive format is deliberate, to force y
 Your audience is NOT ME as your professor who is grading your paper. For one, I'm actually not grading it; you are assessing your effort in reading and reflecting on it. Two, you want to imagine you're writing for someone who likes food and/or food history and might be interested in this book, and is therefore reading a concise review/reflection to get a sense of what it's about and to decide if it's worth their time.
 
 ## Organizational advice
-Although you don't need to have distinct section headings, you should have three main sections to your paper. You should have multiple paragraphs in each section. Paragraphs are for ideas, not sections.
+Although you don't need to have distinct section headings, you should have three main sections to your paper. You should have multiple paragraphs in each section. Paragraphs are for ideas, not sections. The word counts for each are APPROXIMATE. Do not spend time trying to stay super close to the suggested length. 
 
 ### Summary (~250 words)
 You should begin your paper with a **relatively quick summary** of the main takeaway points of the book so that your readers have an idea of not only **what it is about** in broad terms, but also what the **general themes are**. DO NOT GIVE A CHAPTER BY CHAPTER SUMMARY. You want to provide a bird's eye view.

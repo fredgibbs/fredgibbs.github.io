@@ -232,9 +232,9 @@ Your reflection on _Tastes like Chicken_ is due TODAY. Remember to follow the [b
 ### _Red Meat Republic_, 67--118.
 
 ### Chinese-American Food
-- _HAE_, 169-78 (7: Food Habits and Racial Thinking).
-- Anne Mendelson, _Chow Chop Suey_, 24-40.
+- _HAE_ (7: Food Habits and Racial Thinking), 169-78.
 - Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change”, _The Journal of Popular Culture_, 36.4 (2003): 669–86.
+- Helen Zoe Veit, _Modern Food, Moral Food_ (6: Americanizing the American Diet), 123-56.
 
 {% include alert.html class='warning' title='No reading response' text="
 Nothing due specifically on these readings today. But you should discuss them in your weekly reflection.
@@ -251,7 +251,7 @@ Nothing due specifically on these readings today. But you should discuss them in
 - Pick an essay from [The United States of Mexican Food](https://www.eater.com/2019/4/23/18214403/mexican-food-us-region-america?fbclid=IwAR2YbAcuWHHM0DORiE9loWvl06bQEOcAHIHVod5Hak6sfK--XYDE8Rt1VBw). You'll report on what you read and what was interesting about it (see below).
 
 {% include alert.html class='danger' title='Reading response' text="
-Pick an essay from [The United States of Mexican Food](https://www.eater.com/2019/4/23/18214403/mexican-food-us-region-america?fbclid=IwAR2YbAcuWHHM0DORiE9loWvl06bQEOcAHIHVod5Hak6sfK--XYDE8Rt1VBw) and report on what you found interesting in light of the course so far. Connect it to the Pilcher reading for today.
+Pick an essay from [The United States of Mexican Food](https://www.eater.com/2019/4/23/18214403/mexican-food-us-region-america?fbclid=IwAR2YbAcuWHHM0DORiE9loWvl06bQEOcAHIHVod5Hak6sfK--XYDE8Rt1VBw) and report on what you found interesting in light of the course--AND PREVIOUS READINGS so far. Connect it to the Pilcher reading for today.
 "%}
 
 
