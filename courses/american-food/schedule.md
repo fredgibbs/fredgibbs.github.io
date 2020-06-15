@@ -251,7 +251,7 @@ Nothing due specifically on these readings today. But you should discuss them in
 - Pick an essay from [The United States of Mexican Food](https://www.eater.com/2019/4/23/18214403/mexican-food-us-region-america?fbclid=IwAR2YbAcuWHHM0DORiE9loWvl06bQEOcAHIHVod5Hak6sfK--XYDE8Rt1VBw). You'll report on what you read and what was interesting about it (see below).
 
 {% include alert.html class='danger' title='Reading response' text="
-Pick an essay from [The United States of Mexican Food](https://www.eater.com/2019/4/23/18214403/mexican-food-us-region-america?fbclid=IwAR2YbAcuWHHM0DORiE9loWvl06bQEOcAHIHVod5Hak6sfK--XYDE8Rt1VBw) and report on what you found interesting in light of the course--AND PREVIOUS READINGS so far. Connect it to the Pilcher reading for today.
+Skim through a few essays from [The United States of Mexican Food](https://www.eater.com/2019/4/23/18214403/mexican-food-us-region-america?fbclid=IwAR2YbAcuWHHM0DORiE9loWvl06bQEOcAHIHVod5Hak6sfK--XYDE8Rt1VBw) (avoid articles that are just lists of restaurants) and comment in your post on the following: How do these articles create (intentionally or not) a definition of Mexican food? How are notions of authenticity or national cuisine at work? What do the articles imply about American food? How (if at all) is the story of Mexican food different from Chinese or Italian?
 "%}
 
 
@@ -352,8 +352,6 @@ No reading for today, just the penultimate assignment.
 See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to your cookbook analysis a few weeks ago. I claimed that the kinds of things you can learn from modern food blogs are kinda similar to what you can learn from 19th-century cookbooks. How much did you find that to be true or not?
 "%}
 
-
-
 ### For fun: Food TV
 This is totally optional, but a great way to procrastinate---there might be no better illustration of how Food Television has evolved than watching the first few minutes of these clips of Emeril:
 - [Shrimp Étouffée (Original Show)](https://www.youtube.com/watch?v=p_0Z7IUhyv8)
@@ -366,7 +364,7 @@ This is totally optional, but a great way to procrastinate---there might be no b
 
 
 ## June 25 (Friday)
-Your Final Learning Reflection is NOT due today, but ON MONDAY so you have some extra time to make it nice. You can of course submit it whenever you'd like. Use Slack to ask questions! I want to help you tie everything together.
+Your Final Learning Reflection (for the course, not just the last week) is TECHNICALLY due today, but everyone has UNTIL MONDAY so you have some extra time to make it nice. You can of course submit it whenever you'd like. Use Slack to ask questions! I want to help you tie everything together.
 
 {% include alert.html class='danger' title='Mini-lecture: Wrapping up' text="
 This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course. To help that happen, there is a short quiz on these (as per our routine). This lecture is intended to help you think through your Final Learning Reflection (see the very last day).
