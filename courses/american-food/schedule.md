@@ -261,6 +261,14 @@ Skim through a few essays from [The United States of Mexican Food](https://www.e
 
 ### _Red Meat Republic_, 174--217.
 
+Sorry for the last second change, but I just came across this article published this past Monday. I decided it was much more important and timely than what was originally planned. It addresses the role of meat in contemporary American society, how it is tied to identity, and features numerous quotes from the author of the _Red Meat Republic_ (and many other smart historians of food and diet). This is all I want you to read for today.
+
+- Eamon Whalen, [How Red Meat Became the Red Pill for the Alt-Right](https://www.thenation.com/article/society/beef-red-pill-right/)
+
+
+{% include alert.html class='info' title='Mini-lecture: Convenience and Counter-cuisine' text="
+Instead of a full lecture like for Cereal, I'm just going to tell you what I think is most interesting about the following readings that were originally on the syllabus. I hope you'll skim them, but you don't need to read them separately. I will create a short extra-credit quiz based on the mini-lecture.
+
 ### Convenience Food
 - Harvey A. Levenstein, _Paradox of Plenty_, 101-118 (7: Golden Age of Food Processing).
 - Harvey A. Levenstein, _Paradox of Plenty_, 227-236 (15: Fast Foods and Quick Bucks).
@@ -269,8 +277,11 @@ Skim through a few essays from [The United States of Mexican Food](https://www.e
 - Warren J. Belasco, _Appetite for Change_, 43-67 (3: Radical Therapy).
 - Warren J. Belasco, _Appetite for Change_, 111-31 (5: The Orthodox Defense).
 
-{% include alert.html class='warning' title='No reading response' text="
-Nothing due specifically on these readings today. There will be an extra credit reading/lecture quiz.
+"%}
+
+
+{% include alert.html class='warning' title='EXTRA CREDIT reading response' text="
+As previously promised, there is no required posting for today. But I'd love to hear your thoughts on the Whalen article. A coherent response (200--250 words) will get you 2 extra credit points.
 "%}
 
 
