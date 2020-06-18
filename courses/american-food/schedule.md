@@ -268,7 +268,7 @@ Sorry for the last second change, but I just came across this article published 
 
 
 {% include alert.html class='warning' title='EXTRA CREDIT reading response' text="
-As previously promised, there is no required posting for today. But I'd love to hear your thoughts on the Whalen article. A coherent response (200--250 words) will get you 2 extra credit points.
+As previously promised, there is no required posting for today. But I'd love to hear your thoughts on the Whalen article. A coherent response (200--250 words) will get you 3 extra credit points.
 "%}
 
 
