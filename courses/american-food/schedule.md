@@ -266,6 +266,17 @@ Sorry for the last second change, but I just came across this article published 
 - Eamon Whalen, [How Red Meat Became the Red Pill for the Alt-Right](https://www.thenation.com/article/society/beef-red-pill-right/)
 
 
+
+{% include alert.html class='warning' title='EXTRA CREDIT reading response' text="
+As previously promised, there is no required posting for today. But I'd love to hear your thoughts on the Whalen article. A coherent response (200--250 words) will get you 2 extra credit points.
+"%}
+
+
+
+## Jun 19 (Friday)
+
+### _Red Meat Republic_, 218--260.
+
 {% include alert.html class='info' title='Mini-lecture: Convenience and Counter-cuisine' text="
 Instead of a full lecture like for Cereal, I'm just going to tell you what I think is most interesting about the following readings that were originally on the syllabus. I hope you'll skim them, but you don't need to read them separately. I will create a short extra-credit quiz based on the mini-lecture.
 
@@ -279,16 +290,6 @@ Instead of a full lecture like for Cereal, I'm just going to tell you what I thi
 
 "%}
 
-
-{% include alert.html class='warning' title='EXTRA CREDIT reading response' text="
-As previously promised, there is no required posting for today. But I'd love to hear your thoughts on the Whalen article. A coherent response (200--250 words) will get you 2 extra credit points.
-"%}
-
-
-
-## Jun 19 (Friday)
-
-### _Red Meat Republic_, 218--260.
 
 {% include alert.html class='danger' title='Learning Reflection 3 due today' text="
 Learning Reflection 3 is due today. See the [learning reflection guide](learning-reflections)
