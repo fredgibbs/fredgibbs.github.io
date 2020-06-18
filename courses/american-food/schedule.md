@@ -268,7 +268,7 @@ Sorry for the last second change, but I just came across this article published 
 
 
 {% include alert.html class='warning' title='EXTRA CREDIT reading response' text="
-As previously promised, there is no required posting for today. But I'd love to hear your thoughts on the Whalen article. A THOUGHTFUL ﻿standard length daily reflection will get you﻿﻿﻿﻿﻿﻿﻿﻿ 3 points. ﻿﻿﻿I'm interested in your opinion but make sure it's grounded in thoughtful analysis.﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
+As previously promised, there is no required posting for today. But I'd love to hear your thoughts on the Whalen article. A THOUGHTFUL ﻿standard length daily reflection will get you﻿﻿﻿﻿﻿﻿﻿﻿ 3 extra credit points. ﻿﻿﻿I'm interested in your opinion but make sure it's grounded in thoughtful analysis.﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
 "%}
 
 
