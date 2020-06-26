@@ -386,7 +386,7 @@ UPDATED FRI 6/26: This lecture has been replaced with a short video with [some a
 
 {% include alert.html class='danger' title='Lecture quiz' text="
 For the last time (*sniff*), find the quiz at UNM Learn.
-UPDATED FRI 6/26: NO QUIZ
+UPDATED FRI 6/26: NO QUIZ. But PLEASE do the anonymous end-of-course survey in Learn.
 "%}
 
 
