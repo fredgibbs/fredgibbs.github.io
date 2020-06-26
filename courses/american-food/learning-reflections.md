@@ -48,7 +48,8 @@ To explain what you've learned is NOT THE SAME as summarizing or paraphrasing th
 
 I can't emphasize enough that these should be personal statements about YOUR LEARNING EXPERIENCE, not just a summary of course topics and themes. If you are describing your EXPERIENCE with the readings and the course overall, you'll end up including plenty of information from the course. If all you do is summarize readings without including your reaction to them, describing how it changed your thinking, or why it didn't (again, either is fine), I can only assume that you didn't put in very much effort to learn anything.
 
-This isn't a writing class so you're not getting evaluated on elegant prose. BUT, your writing must be clear enough that I can follow the thread of your argument.  
+This isn't a writing class so you're not getting evaluated on elegant prose. BUT, your writing must be clear enough that I can follow the thread of your argument. Your final reflection should be well thought out and carefully written, not a stream of consciousness off-the-cuff here’s what I remember type thing. The quality of your final essay should be reflective of your effort to learn in the course. Even if you’re going for a C, this is your last chance to make sure you get at least that. You should invest a few hours time skimming through the readings again---not re-reading them---to remind yourself what you did, or maybe reading a little more of something you totally skimmed.
+
 
 
 ## Make an argument for your OVERALL GRADE
@@ -67,7 +68,7 @@ NOTE: Don't just talk about how great your work has been (even if true). That's 
 This is what separates excellent from mediocre reflections. To say that "I learned to think more critically about authenticity" is fine AS LONG AS you provide several specific examples of the issues that you think are important to think critically about and WHY. But if you just leave it at that (the vague statement that you learned about a topic on the syllabus) and don't provide any examples from the readings, I can only assume it's because you didn't read or learn very much.
 
 ### Think holistically
-The more you can tie themes together and speak about the course as a whole (while giving specific examples from the readings), the higher your 0-30 score will be.
+The more you can tie themes together and speak about the course as a whole (while giving specific examples from the readings), the higher your 0-30 score will be. You should absolutely use your daily and weekly reflections to remind you of what you were thinking. But you need to go beyond these as well to reflect on the course as a whole.
 
 
 ## I evaluate these!
