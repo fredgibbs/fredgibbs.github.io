@@ -376,14 +376,17 @@ This is totally optional, but a great way to procrastinate---there might be no b
 
 
 ## June 25 (Friday)
-Your Final Learning Reflection (for the course, not just the last week) is TECHNICALLY due today, but everyone has UNTIL MONDAY so you have some extra time to make it nice. You can of course submit it whenever you'd like. Use Slack to ask questions! I want to help you tie everything together.
+Your Final Learning Reflection (for the course, not just the last week) is TECHNICALLY due today, but everyone has UNTIL MONDAY so you have some extra time to make it nice. You can of course submit it whenever you'd like. Use Slack to ask questions (email is OK, too)! I want to help you tie everything together.
 
 {% include alert.html class='danger' title='Mini-lecture: Wrapping up' text="
 This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course. To help that happen, there is a short quiz on these (as per our routine). This lecture is intended to help you think through your Final Learning Reflection (see the very last day).
+
+UPDATED FRI 6/26: This lecture has been replaced with a short video with [some advice for the final reflections](https://www.youtube.com/watch?v=ygIFptUphms) due today/Monday.
 "%}
 
 {% include alert.html class='danger' title='Lecture quiz' text="
 For the last time (*sniff*), find the quiz at UNM Learn.
+UPDATED FRI 6/26: NO QUIZ
 "%}
 
 
