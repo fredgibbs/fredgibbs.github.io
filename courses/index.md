@@ -1,10 +1,21 @@
 ---
 layout: default
 title: courses
-description: Regularly scheduled courses: Food + Technology + Society; Landscape + Memory; Historiography; American Food; Digital History; History of Diet and Health
+description: Regularly scheduled courses: Food + Technology + Society; Landscape + Memory; Historiography; American Food; Digital History; History of Diet, Health, Expertise
 ---
 
 # Regularly Scheduled Courses
+
+{% include course-block.html
+slug="diet-health-expertise"
+title="Diet, Health, and Expertise"
+poster="images/diet-health-sm.jpg"
+desc="If someone tells you how to eat or what you should or shouldn’t eat, do you believe them? Why or why not? Is dietary advice ever truly believable? This course uses the long history of diet and health to investigate the relationship between medical expertise and popular understandings of health.
+
+Some guiding questions: How do dietary experts establish their expertise? Why have medical authorities continually redefined what it means to be healthy and to eat a healthy diet? Why have so many fad diets come into and gone out of fashion?  What can historical perspectives on topics like GMOs, vitamins, and obesity offer contemporary debates on these issues?"
+%}
+
+
 
 {% include course-block.html
 slug="american-food"
@@ -44,14 +55,6 @@ slug="digital-history"
 title="Digital History"
 poster="images/digital-history-sm.jpg"
 desc="This course examines how technology shapes our access to and interpretations of the past. How does the digitization of cultural artifacts change the ways historians ask and answer questions about the past? What kinds of new research methods do historians need to analyze and interpret the exponentially growing digital archive? How has digital publishing and platforms like Wikipedia challenged traditional historical expertise and authority? Our collaborative coursework will focus on using new media technologies to communicate about the value and significance of history."
-%}
-
-
-{% include course-block.html
-slug="food-diet-health"
-title="History of Diet and Health"
-poster="images/diet-health-sm.jpg"
-desc=" The questions of what constitute healthy foods and bodies have been in flux since people had a choice about what to eat. And even today, medical understandings of nutrition, diet, and health seems to change almost daily. This course explores how various cultural, scientific, and medical values have continually shaped our relationship to food, health, and diet since the Renaissance. How have medical authorities continually redefined what it means to be healthy and to eat a healthy diet?  How much do food industries and lobbyists affect our understanding of healthy eating? How can the history of nutrition help us understand our own cultural constructions of natural and healthy diets?"
 %}
 
 
