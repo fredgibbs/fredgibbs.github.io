@@ -10,7 +10,7 @@ section: home
 # Diet, Health, and Expertise
 
 ## Logistics
-- HIST 410 | Fall 2020
+- HIST 410-001; CRN: 68708
 - Remote arranged; asynchronous (no set meeting times)
 - 3 Credit Hours
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ Mesa Vista Hall, 1077
@@ -36,7 +36,7 @@ This page, and the [schedule page](schedule), have all the instructions and assi
 - [UNM Learn](http://learn.unm.edu). All assignments will be submitted via UNM Learn.
 - [Zotero](http://zotero.org); see the [getting started guide](http://fredgibbs.net/courses/etc/zotero); once connected you can access the [course library](https://www.zotero.org/groups/2499167/american-food-unm/library).
 - [YouTube Channel](https://www.youtube.com/channel/UCt6_7arYzi4TcIIwo7TLURw) will host mini-lectures and other screencasts. I will post announcements of new videos in Learn (which send an email to you as well). I highly recommend that you either subscribe or bookmark the channel so you have quick access to it.
-- [Slack channel](http://diet-health-expertise.slack.com; first click the [invitation link](https://join.slack.com/t/diet-health-expertise/shared_invite/zt-fr3dhvtx-a3KB6TvgydhGhf9p6yYlxQ). Slack is a straightforward collaborative messaging platform (via your browser or desktop/mobile app) that allows us to stay connected without the hassle of formal emails or messages in UNM Learn. I get notifications about messages so I can get back to you quickly.
+- [Slack channel](http://diet-health-expertise.slack.com); first click the [invitation link](https://join.slack.com/t/diet-health-expertise/shared_invite/zt-fr3dhvtx-a3KB6TvgydhGhf9p6yYlxQ). Slack is a straightforward collaborative messaging platform (via your browser or desktop/mobile app) that allows us to stay connected and communicate quickly without the hassle of formal emails or UNM Learn. I keep an eye out for notifications so I can get back to you quickly.
 
 
 ### It's a marathon, not a sprint
