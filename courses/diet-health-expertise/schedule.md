@@ -247,7 +247,6 @@ As usual, be prepared to discuss: What’s the evidence like? How compelling is 
 
 
 
-
 ## Week 12:
 
 ### Mon 11/2  
@@ -261,8 +260,7 @@ As usual, be prepared to discuss: What’s the evidence like? How compelling is 
 ### Fri 11/6
 - Wendee Nicole, "[Secret Ingredients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3620743/)."
 
-- https://babel.hathitrust.org/cgi/pt?id=mdp.39015077053083&view=1up&seq=455&q1=food
-
+- United States Congress. [House Select Committee To Investigate the Use of Chemicals in Food Products](https://babel.hathitrust.org/cgi/pt?id=mdp.39015077053083&view=1up&seq=448). _Chemicals In Food Products_. U.S. Govt. Print. Off., 195152, 1472--1478.
 
 
 
@@ -290,32 +288,15 @@ Eddie Kim, [THEIR DIET? 100 PERCENT MEAT. AND THEY SAY THEY’VE NEVER FELT HEAL
 
 
 
-## Week 14: Civic Health
-We can't NOT read about Thanksgiving this week! These readings have nothing to do with diet, but it's also useful to think about civic health in addition to bodily health.
+## Week 14: Review and Reflection 1
 
+### Mon 11/16
 
-### Mon 11/23
-- Andrew F. Smith, “The First Thanksgiving”, _Gastronomica_ 3.4 (2003): 79–85.
-- Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70–74.
+### Wed 11/18
 
-### Wed 11/25
-
-
-### Thurs 11/26: Thanksgiving
-
-
-
-
-## Week 15: Review and Reflection 1
-
-### Mon 11/30
-
-### Wed 12/02
-
-### Fri 12/04
+### Fri 11/20
 
 - [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/).
-
 
 - Dariush Mozaffarian, Irwin Rosenberg, Ricardo Uauy, [History of modern nutrition science—implications for current research, dietary guidelines, and food policy](https://www.bmj.com/content/361/bmj.k2392)
 
@@ -324,10 +305,24 @@ We can't NOT read about Thanksgiving this week! These readings have nothing to d
 
 
 
+## Week 15:
+We can't NOT read about Thanksgiving this week! These readings have nothing to do with diet, but it's also useful to think about civic health in addition to bodily health.
+
+### Mon 11/23
+- Andrew F. Smith, “The First Thanksgiving”, _Gastronomica_ 3.4 (2003): 79–85.
+- Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70–74.
+
+### Wed 11/25
+
+### Thurs 11/26: Thanksgiving
+
+
+
+
 ## Week 16: Review and Reflection 2
 
-### Mon 12/07
+### Mon 11/30
 
-### Wed 12/09
+### Wed 12/02
 
-### Fri 12/11
+### Fri 12/04
