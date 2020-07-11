@@ -1,7 +1,7 @@
 ---
 layout: syllabus
 course-title: Diet, Health, Expertise
-course-slug: food-diet-health
+course-slug: diet-health-expertise
 term: Fall 2020
 number: HIST 410
 section: links-guides
@@ -25,15 +25,12 @@ This assignment encourages you to bring what we've learned in class in critiquin
 
 
 ## Questions to ask your blog and write about
-- What kind of assumptions does the author(s) make about cooking/cuisine/food?
+- What kind of assumptions does the author(s) make about the relationship between food, diet, health?
 - Who is the intended audience? What do they know? What do they care about? (as implied from the blog)
-- What kind of larger themes do the essays appeal to (exotic, health, comfort, regional, national, hipster, classic, etc)?
-- How are the ideas of "national" or "ethnic" or "authentic" used?
-- Do you get a sense of where the recipes came from?
-- How much does history or tradition matter to the recipes?
+- How does the author established their credibility or authority?
 
 ## MOST IMPORTANT QUESTION(s) TO ADDRESS
-- How does your food blog reflect contemporary American Food Culture? How does it NOT?
+- How does your food blog reflect contemporary attitudes toward diet and health? Or not?
 
 
 ## Don't forget your learning assessment (1-10 scale)
@@ -42,7 +39,7 @@ At the end of your food blog analysis, evaluate your own effort. You know the dr
 - 1-3: **Marginal**. Skimmed the blog quickly and your analysis provides a coherent but rather simplistic description of its contents.
 - 4-6: **Fine**. Read the blog unevenly, but your analysis shows that you're starting to think critically about the questions above.
 - 7-8: **Very good**. Read the blog thoroughly, with partial answers to the above questions.
-- 9-10: **Excellent**. Spent significant time with your blog, and wrote up an original, expressive, and sophisticated analysis of what we can learn about American food from it.
+- 9-10: **Excellent**. Spent significant time with your blog, and wrote up an original, expressive, and sophisticated analysis of what we can learn about diet and health from it.
 
 
 ## Questions

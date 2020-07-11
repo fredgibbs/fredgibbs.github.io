@@ -66,5 +66,5 @@ The little equations after the assignment type indicates `number of assignments`
 - Extra credit is only available if all other work is turned in on time, and should be emailed to me directly.
 
 
-## Syllabus
+## Course Readings and Schedule
 View the [schedule page](schedule) for all reading assignments, reading reflection prompts (all submitted via UNM Learn), and due dates (usually Friday).

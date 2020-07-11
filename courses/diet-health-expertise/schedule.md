@@ -27,10 +27,10 @@ Just to make sure everyone is connected, and as an informal way of introducing o
 ### Fri 8/21
 - Jessica J. Mudry, *Measured Meals. Nutrition in America*, 1-19 (Introduction: Eating by Numbers).
 
-{% include alert.html class='danger' title='Weekly reflections' text="
+{% include alert.html class='danger' title='Weekly reflection' text="
 How would Mundry critique Taubes's article? What are the assumptions of the author in terms of how we create knowledge of nutrition? Do we really not know what a healthy diet is? Do you agree that there are real dangers in quantification?
 "%}
----
+
 
 
 
@@ -39,8 +39,7 @@ How would Mundry critique Taubes's article? What are the assumptions of the auth
 
 ### Mon 8/24
 
-- Video lecture on premodern dietary thinking
-
+- Classical dietary thinking
 - Selections from Mark Grant (tr.), _Galen on Food and Diet_: 1-8; 14-18; 68-84.
 
 How did physicians like Galen conceive the notion of disease? According to Galen, how does diet fit into medical understandings of disease? How is his approach similar and different to modern approaches to diet? How would you describe his writing style? Does it seem strange for a physician?
@@ -58,7 +57,7 @@ How did physicians like Galen conceive the notion of disease? According to Galen
 How would you characterize premodern dietary thinking? What elements have persisted? What elements have been discarded? How is it inferior to our current model? How is it superior?
 "%}
 
----
+
 
 
 
@@ -89,7 +88,6 @@ How would you characterize premodern dietary thinking? What elements have persis
 "%}
 
 
----
 
 
 
@@ -110,14 +108,14 @@ This briefly describes some of the early religious sentiments supporting vegetar
 
 What is your impression of these important dietary texts of the early 19th century? How do they reinforce or contradict the impression of Graham that you got from what we read in Shprintzen?
 
----
+
 
 
 
 ## Week 5: The Origins of Nutrition
 
 ### Mon 9/14
-- Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49-–67.
+- Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67.
 
 
 ### Wed 9/16
@@ -136,7 +134,7 @@ We don't need to summarize the main points of the article---they are clearly sta
 - NEK book I found from before?
 
 
----
+
 
 
 
@@ -151,7 +149,9 @@ We don't need to summarize the main points of the article---they are clearly sta
 
 ### Fri 9/25
 
----
+Find an article about diet and health, and write a 600-word answer to the question: **How does the author establish expertise?** Your analysis must use and reference class sources related to expertise! For more detail, consult the [expertise analysis writing guide](http://fredgibbs.net/courses/etc/expertise-analysis).
+
+
 
 
 
@@ -172,7 +172,6 @@ We don't need to summarize the main points of the article---they are clearly sta
 
 - Rima D. Apple, "'They Need it Now': Science, Advertising and Vitamins, 1925-1940".   
 
----
 
 
 ## Week 8:
@@ -185,7 +184,8 @@ We don't need to summarize the main points of the article---they are clearly sta
 
 ### Fri 10/09
 BREAK
----
+
+
 
 
 
@@ -196,8 +196,8 @@ BREAK
 
 
 ### Wed 10/14
-David H. Freedman, “How Junk Food Can End Obesity.” The Atlantic, August 2013. http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true.
-Tom Philpott,  “Why The Atlantic’s Defense of Junk Food Fails.” Mother Jones, 2013. http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails.
+- David H. Freedman, [How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true), _The Atlantic_, August 2013.
+- Tom Philpott, [Why The Atlantic’s Defense of Junk Food Fails](http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails), _Mother Jones_, 2013.
 
 
 
@@ -207,7 +207,6 @@ As usual, be prepared to discuss: What’s the evidence like? How compelling is 
 
 
 
----
 
 
 
@@ -224,7 +223,7 @@ As usual, be prepared to discuss: What’s the evidence like? How compelling is 
 - Catherine Carstairs, “‘Our Sickness Record Is a National Disgrace’: Adelle Davis, Nutritional Determinism, and the Anxious 1970s”, 461--91.
 
 
----
+
 
 
 
@@ -248,8 +247,6 @@ As usual, be prepared to discuss: What’s the evidence like? How compelling is 
 
 
 
----
-
 
 ## Week 12:
 
@@ -269,10 +266,6 @@ As usual, be prepared to discuss: What’s the evidence like? How compelling is 
 
 
 
-
-
-
----
 
 
 ## Week 13: Dietary Dangers
@@ -295,8 +288,6 @@ Eddie Kim, [THEIR DIET? 100 PERCENT MEAT. AND THEY SAY THEY’VE NEVER FELT HEAL
 
 
 
----
-
 
 
 ## Week 14: Civic Health
@@ -313,7 +304,6 @@ We can't NOT read about Thanksgiving this week! These readings have nothing to d
 ### Thurs 11/26: Thanksgiving
 
 
----
 
 
 ## Week 15: Review and Reflection 1
@@ -331,7 +321,6 @@ We can't NOT read about Thanksgiving this week! These readings have nothing to d
 
 - Dariush Mozaffarian, “Foods, Nutrients, and Health: As Modern Nutrition Science Evolves, When Will Our Policies Catch Up?” _The Lancet. Diabetes & Endocrinology_ 5.2 (February 2017): 85–88.
 
----
 
 
 
@@ -342,23 +331,3 @@ We can't NOT read about Thanksgiving this week! These readings have nothing to d
 ### Wed 12/09
 
 ### Fri 12/11
-
-
----
-
-
-
-### Final "Exam"
-- Your final assignment is to write a 1200-1500 word review essay that answers the question: "What is the use of history in understanding the relationship between food, diet, and health?" There is no "right" answer, obviously. The point is to show off the ways of thinking about diet and health that you've learned in the course.
-- As discussed in class over and over and over again:
-  - Formulate an answer to that question and clearly state it your first paragraph.
-  - Use the rest of your essay to systematically argue for your answer using the readings and discussions as support for your argument
-  - You are being evaluated on the sophistication of your answer, the clarity of your argument, and your use of course readings as support.
-
-
-Find an article about diet and health, and write a 600-word answer to the question: **How does the author establish expertise?** Your analysis must use and reference class sources related to expertise! For more detail, consult the [expertise analysis writing guide](http://fredgibbs.net/courses/etc/expertise-analysis).
-
-Package Analysis! See the [Package Analysis Guide](http://fredgibbs.net/courses/etc/package-analysis), summarized below:
-    - Pick a food/food-like item that makes health claims on its package. Cereal boxes, granola bars, various snack items, frozen dinners, supplements, and similar are usually good. DO NOT pick candy or soda or any product whose label doesn't have anything to do with health. Ask if you're not sure!
-    - Write a 800-word analysis about how the label informs you perceptions of healthy
-    - AS ALWAYS: your analysis must draw from course readings!
