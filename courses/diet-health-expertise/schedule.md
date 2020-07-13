@@ -38,7 +38,6 @@ How would Mundry critique Taubes's article? What are the assumptions of the auth
 
 
 ### Mon 8/24
-
 - Classical dietary thinking
 - Selections from Mark Grant (tr.), _Galen on Food and Diet_: 1-8; 14-18; 68-84.
 
@@ -51,7 +50,6 @@ How did physicians like Galen conceive the notion of disease? According to Galen
 
 ### Fri 8/28
 - Ken Albala, _Eating Right in the Renaissance_, 63--77; 78--84; 91--104.
-
 
 {% include alert.html class='danger' title='Weekly reflection' text="
 How would you characterize premodern dietary thinking? What elements have persisted? What elements have been discarded? How is it inferior to our current model? How is it superior?
@@ -78,15 +76,12 @@ What kinds of advice did his patients get in their personal correspondence? To w
 
 
 ### Fri 9/04
-- George Cheyne, _An Essay on Regimen_," i-xxiv.
-
-Here's our first excursion into a primary source without translation (making its eccentricities even more apparent). The language seems weird at first (and it is, compared to ours) but you get used to it after a few pages. How does Cheyne's advice echo what we've been reading about? What is different? In either case, what are his primary concerns? Can anyone actually follow this kind of advice? **How did Cheyne establish his medical reputation?**
+- George Cheyne, _An Essay on Regimen_," i-xxiv, and randomly sample the whole text to get a feel for the tone, language, and rhetorical effect. Yes, the language seems weird at first (and it is, compared to ours) but you get used to it after a few pages.
 
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-How would you characterize premodern dietary thinking? What elements have persisted? What elements have been discarded? How is it inferior to our current model? How is it superior?
+How does Cheyne's advice echo what we've been reading about? What is different? In either case, what are his primary concerns? Can anyone actually follow this kind of advice? How did Cheyne establish his medical reputation? Aside from the language, how different or similar is Cheyne's way of establishing expertise compared to modern experts?
 "%}
-
 
 
 
@@ -107,9 +102,8 @@ This briefly describes some of the early religious sentiments supporting vegetar
 - Sylvester Graham, [Lectures on the Science of Human Life](https://books.google.com/books?id=uBUDAAAAQAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), preface (i-vii), and skim Table of Contents that follows. What topics stand out to you? What were you expecting to see? How is it different from what you expected?
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-How, if at all, are dietary concerns of the early 19th century different from our own?
+How, if at all, are dietary concerns of the early 19th century---especially concerning natural diet---different from our own?
 "%}
-
 
 
 
@@ -129,10 +123,10 @@ Here we get another look at food reformers in the early 20th century, with an em
 ### Fri 9/18
 - Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine* 34 (May 1887): 59--74.
 We don't need to summarize the main points of the article---they are clearly stated at the end. Our goal is to understand the overall flavor of this article that is representative of Atwater’s work so often referenced in our readings of late. *Skim but don't totally skip* the science lesson details.  
-    - How does article reflect larger scientific currents?
-    - To what extent has this been true for our other sources?
-    - What’s the point of all the science detail?
-    - How/why does metaphor play a role?
+  - How does article reflect larger scientific currents?
+  - To what extent has this been true for our other sources?
+  - What’s the point of all the science detail?
+  - How/why does metaphor play a role?
 
 {% include alert.html class='danger' title='Weekly reflection' text="
 How does Atwater establish his credibility, authority, and expertise? How was this different from Cheyne (two weeks ago)?
@@ -159,10 +153,8 @@ How does Atwater establish his credibility, authority, and expertise? How was th
 
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-How do these primary sources differ in how they
+Even though they are published within a few years of each other, how do these authors differ in how they define a successful diet? How do the authors establish their expertise?
 "%}
-
-Find an article about diet and health, and write a 600-word answer to the question: **How does the author establish expertise?** Your analysis must use and reference class sources related to expertise! For more detail, consult the [expertise analysis writing guide](http://fredgibbs.net/courses/etc/expertise-analysis).
 
 
 
@@ -178,8 +170,10 @@ Find an article about diet and health, and write a 600-word answer to the questi
 - Rima D. Apple, "'They Need it Now': Science, Advertising and Vitamins, 1925-1940".   
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-How does Atwater establish his credibility, authority, and expertise? How was this different from Cheyne (two weeks ago)?
+Are vitamins supplements necessary? Google it and read a handful of pages. Analyze the kinds of arguments made. Does this history of vitamins matter in settling the debate?
 "%}
+
+
 
 ## Week 8:
 
@@ -188,6 +182,11 @@ How does Atwater establish his credibility, authority, and expertise? How was th
 
 ### Wed 10/07  
 - A. F. La Berge, “How the Ideology of Low Fat Conquered America,” _Journal of the History of Medicine and Allied Sciences_ 63.2 (2007): 139--77.
+
+{% include alert.html class='danger' title='Weekly reflection' text="
+What was most interesting this week?
+"%}
+
 
 ### Fri 10/09
 BREAK
@@ -226,15 +225,13 @@ What is the role of nutrition science and research in understanding obesity? Whi
 ## Week 10:
 
 ### Mon 10/19
-
+???
 
 ### Wed 10/21
-
+???
 
 ### Fri 10/23
-
 - Catherine Carstairs, “‘Our Sickness Record Is a National Disgrace’: Adelle Davis, Nutritional Determinism, and the Anxious 1970s”, 461--91.
-
 
 
 
@@ -309,27 +306,25 @@ Eddie Kim, [THEIR DIET? 100 PERCENT MEAT. AND THEY SAY THEY’VE NEVER FELT HEAL
 
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-One of the main goals of this course is to sharpen critical faculties when it comes to critiquing dietary advice. So let's practice. Critique the Eddie Kim article. What does it do well? Where does it use history effectively? What kinds of issues have we covered in class that it should have used more?
+One of the main goals of this course is to sharpen critical faculties when it comes to critiquing dietary advice. So let's practice. For your post this week, critique the Eddie Kim article. What does it do well? Where does it use history effectively? What kinds of issues have we covered in class that it should have used more?
 "%}
+
 
 
 ## Week 14: Review and Reflection 1
 
 ### Mon 11/16
-
-### Wed 11/18
-
-### Fri 11/20
-
 - [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/).
 
+### Wed 11/18
 - Dariush Mozaffarian, Irwin Rosenberg, Ricardo Uauy, [History of modern nutrition science—implications for current research, dietary guidelines, and food policy](https://www.bmj.com/content/361/bmj.k2392)
 
+### Fri 11/20
 - Dariush Mozaffarian, “Foods, Nutrients, and Health: As Modern Nutrition Science Evolves, When Will Our Policies Catch Up?” _The Lancet. Diabetes & Endocrinology_ 5.2 (February 2017): 85–88.
 
 
 {% include alert.html class='danger' title='Course Reflection 1' text="
-Reflecting on what we've done in the course so far, how well do you think the articles for this week establish/outline a future of understanding the relationship between nutrition, diet, and health?
+Reflecting on what we've done in the course so far, how well do you think the articles for this week establish/outline a productive future for understanding the relationship between nutrition, diet, and health?
 "%}
 
 
@@ -353,7 +348,12 @@ How will you celebrate/protest?
 ## Week 16: Review and Reflection 2
 
 ### Mon 11/30
+NO READING
 
 ### Wed 12/02
+NO READING
 
 ### Fri 12/04
+{% include alert.html class='danger' title='Food Blog Analysis' text="
+As a preparatory exercise for the final, your food blog analysis is due today. We have read a lot about explicit dietary advice, but obviously a lot of what we 'know' about health and diet comes from packages, ads, cookbooks, and so on. What can modern food blogs tell us about the relationship between food, health, and diet? What issues have we covered in class are present or missing?
+"%}

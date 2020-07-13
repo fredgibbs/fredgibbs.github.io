@@ -39,7 +39,7 @@ This page, and the [schedule page](schedule), have all the instructions and assi
 - [Slack channel](http://diet-health-expertise.slack.com); first click the [invitation link](https://join.slack.com/t/diet-health-expertise/shared_invite/zt-fr3dhvtx-a3KB6TvgydhGhf9p6yYlxQ). Slack is a straightforward collaborative messaging platform (via your browser or desktop/mobile app) that allows us to stay connected and communicate quickly without the hassle of formal emails or UNM Learn. I keep an eye out for notifications so I can get back to you quickly.
 
 
-### It's a marathon, not a sprint
+### It's a (virtual) marathon, not a sprint
 Not having actual class meetings (as the course normally does) deprives us of some collegial conversation, but it presents new freedoms as well. There isn't much to do most days except do the reading, reflect on it, write a brief response, and occasionally respond to your colleagues. There are a few slightly longer assignments that give you the chance to apply the readings more directly.
 
 **In order to keep us learning at an even pace, the main work/fun that determines your grade are the daily reading responses.**
@@ -54,12 +54,11 @@ There are no required books for the course. However, you will need to subscribe 
 All assignments are scored on a 0-10 scale, but assignments count differently (ie they are weighted) towards your final grade.
 
 The little equations after the assignment type indicates `number of assignments` x `points for each` x `weight` = `total points`
-- [Reading/lecture quizzes](reading-responses) (8x10x.5 = 40)
+- [Occasional reading/lecture quizzes](reading-responses) (8x10x.5 = 40)
 - [Weekly learning reflections](learning-reflections) (13x10 = 130) (usually in response to a particular question that encourages you to connect the readings.)
 - [Food blog analysis](food-blog-analysis) (1x10 = 10)
-- End of semester review exercises (2x10 = 20)
-- [Final learning reflection](learning-reflections) (1x30 = 30)
-[keep food blog analysis but with health focus ]
+- [Final learning reflection](learning-reflections) (1x20 = 20)
+
 
 ### Extra Credit (all due on the Monday after the last day of class)
 - [Food Documentary Critique](film-analysis) (5 points)
