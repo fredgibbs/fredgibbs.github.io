@@ -17,7 +17,7 @@ section: schedule
 - Syllabus quiz
 
 {% include alert.html class='danger' title='Introductory post' text="
-Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post on the class Discussion Board in UNM Learn (should be an obvious link on the left nav bar) a brief introduction to who you are and some opinion about diet and health that you've changed your mind about---we all have many! These should be ~150 words or so.
+Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post on the class Discussion Board in UNM Learn (should be an obvious link on the left nav bar) a brief introduction to who you are and some opinion about diet and health that you've changed your mind about---we all have many!
 "%}
 
 ### Wed 8/19  
@@ -106,13 +106,16 @@ This briefly describes some of the early religious sentiments supporting vegetar
 - Sylvester Graham, [A Defence of the Graham System of Living: Or, Remarks on Diet and Regimen. Dedicated to the Rising Generation](https://books.google.com/books?id=ODRlD83ww9IC), 7--15; 88--89; 95--104.
 - Sylvester Graham, [Lectures on the Science of Human Life](https://books.google.com/books?id=uBUDAAAAQAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), preface (i-vii), and skim Table of Contents that follows. What topics stand out to you? What were you expecting to see? How is it different from what you expected?
 
-What is your impression of these important dietary texts of the early 19th century? How do they reinforce or contradict the impression of Graham that you got from what we read in Shprintzen?
+{% include alert.html class='danger' title='Weekly reflection' text="
+How, if at all, are dietary concerns of the early 19th century different from our own?
+"%}
 
 
 
 
 
-## Week 5: The Origins of Nutrition
+
+## Week 5: Scientific and Quantified Eating
 
 ### Mon 9/14
 - Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67.
@@ -131,27 +134,35 @@ We don't need to summarize the main points of the article---they are clearly sta
     - What’s the point of all the science detail?
     - How/why does metaphor play a role?
 
-- NEK book I found from before?
+{% include alert.html class='danger' title='Weekly reflection' text="
+How does Atwater establish his credibility, authority, and expertise? How was this different from Cheyne (two weeks ago)?
+"%}
 
 
 
 
 
-
-## Week 6: Scientific and Quantified Eating
+## Week 6: Primary source comparison
 
 ### Mon 9/21
 - Lulu Hunt Peters,  [Diet and Health: With Key to the Calories](https://www.google.com/books/edition/Diet_and_Health/f7UXAAAAYAAJ?hl=en&gbpv=0) (1918).
 
 ### Wed 9/23
-- John Harvey Kellogg, [_The New Dietetics, what to Eat and how: A Guide to Scientific Feeding in Health and Disease_](https://books.google.com/books?id=CBGxvXF332cC) (1921).
-    - read the Preface (5--7); skim the Table of Contents (8--21); read 25--37.
+- John Harvey Kellogg, [_The New Dietetics, what to Eat and how: A Guide to Scientific Feeding in Health and Disease_](https://books.google.com/books?id=CBGxvXF332cC) (1921). Read the Preface (5--7); skim the Table of Contents (8--21); read 25--37.
 
 ### Fri 9/25
+- Elmer McCollum, [The Newer Knowledge of Nutrition](https://books.google.com/books?id=jndUnd5xX5wC) (1922).
+  - Read the preface (xii--ix), skim the Table of Contents, and read 1--13.
+  - How would you characterize the contents of the book?
+  - How does McCollum establish his expertise and legitimize the "new" way of studying nutrition and bodily health?
+  - How does the text differ from what impression you get from Price's chapter?
+
+
+{% include alert.html class='danger' title='Weekly reflection' text="
+How do these primary sources differ in how they
+"%}
 
 Find an article about diet and health, and write a 600-word answer to the question: **How does the author establish expertise?** Your analysis must use and reference class sources related to expertise! For more detail, consult the [expertise analysis writing guide](http://fredgibbs.net/courses/etc/expertise-analysis).
-
-
 
 
 
@@ -164,15 +175,11 @@ Find an article about diet and health, and write a 600-word answer to the questi
 - Catherine Price, _Vitamania_, Chapter 5: A to Zeitgeist, 65--90.
 
 ### Fri 10/02
-- Elmer McCollum, [The Newer Knowledge of Nutrition](https://books.google.com/books?id=jndUnd5xX5wC) (1922).
-    - Read the preface (xii--ix), skim the Table of Contents, and read 1--13.
-    - How would you characterize the contents of the book?
-    - How does McCollum establish his expertise and legitimize the "new" way of studying nutrition and bodily health?
-    - How does the text differ from what impression you get from Price's chapter?
-
 - Rima D. Apple, "'They Need it Now': Science, Advertising and Vitamins, 1925-1940".   
 
-
+{% include alert.html class='danger' title='Weekly reflection' text="
+How does Atwater establish his credibility, authority, and expertise? How was this different from Cheyne (two weeks ago)?
+"%}
 
 ## Week 8:
 
@@ -199,12 +206,18 @@ BREAK
 - David H. Freedman, [How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true), _The Atlantic_, August 2013.
 - Tom Philpott, [Why The Atlantic’s Defense of Junk Food Fails](http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails), _Mother Jones_, 2013.
 
+{% include alert.html class='danger' title='Daily reflection' text="
+Which line of argument do you find more compelling? Why?
+"%}
+
 
 
 ### Fri 10/16
 - David Berreby, [The Obesity Era](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong), *Aeon*, June 2013.
-As usual, be prepared to discuss: What’s the evidence like? How compelling is the writing and the argument? Why is it so difficult to let go of obesity (or health in general) as personal choice or responsibility? How is "science" going to help with this?
 
+{% include alert.html class='danger' title='Weekly reflection' text="
+What is the role of nutrition science and research in understanding obesity? Which of the articles for this week resonated most strongly with you? Why?
+"%}
 
 
 
@@ -227,12 +240,17 @@ As usual, be prepared to discuss: What’s the evidence like? How compelling is 
 
 
 
-## Week 11:
+## Week 11: Chronic effects
 
 ### Mon 10/26
 - Ralph H. Lutts, “Chemical Fallout: Rachel Carson’s Silent Spring, Radioactive Fallout, and the Environmental Movement.” _Environmental Review_ 9.3 (1985): 211--25.
 
 - Rachel Carson, _Silent Spring_, 5--13; 15--37.
+
+{% include alert.html class='danger' title='Reading reflection' text="
+What do you find most compelling about Carson's writing?
+"%}
+
 
 
 ### Wed 10/28
@@ -240,28 +258,34 @@ As usual, be prepared to discuss: What’s the evidence like? How compelling is 
 
 
 ### Fri 10/30
-
 - McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 1--46 (Prologue; Are GMOs Safe?).
 
+{% include alert.html class='danger' title='Weekly reflection' text="
+How is Carson relevant to discussion of the effect of GMOs on our health? How is it not?
+"%}
 
 
 
 
-## Week 12:
+## Week 12: Hidden Dangers
 
 ### Mon 11/2  
-- [How A 19th Century Chemist Took On The Food Industry With A Grisly Experiment](https://www.npr.org/sections/thesalt/2018/10/08/654066794/how-a-19th-century-chemist-took-on-the-food-industry-with-a-grisly-experiment)
+- NPR, [How A 19th Century Chemist Took On The Food Industry With A Grisly Experiment](https://www.npr.org/sections/thesalt/2018/10/08/654066794/how-a-19th-century-chemist-took-on-the-food-industry-with-a-grisly-experiment).
 
 
 ### Wed 11/4
 - Marion Nestle, _Food Politics: How the Food Industry Influences Nutrition and Health_, Chapter 10: "Science Versus Supplements", 219--246.
 
+- United States Congress. [House Select Committee To Investigate the Use of Chemicals in Food Products](https://babel.hathitrust.org/cgi/pt?id=mdp.39015077053083&view=1up&seq=448). _Chemicals In Food Products_. U.S. Govt. Print. Off., 195152, 1472--1478.
+
 
 ### Fri 11/6
 - Wendee Nicole, "[Secret Ingredients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3620743/)."
 
-- United States Congress. [House Select Committee To Investigate the Use of Chemicals in Food Products](https://babel.hathitrust.org/cgi/pt?id=mdp.39015077053083&view=1up&seq=448). _Chemicals In Food Products_. U.S. Govt. Print. Off., 195152, 1472--1478.
 
+{% include alert.html class='danger' title='DEBATE!' text="
+Based on your group assignment, use the evidence and reasoning and history in the articles to argue that the government should  play either a stronger or weaker role in regulating particular ingredients in food.
+"%}
 
 
 
@@ -285,7 +309,9 @@ As usual, be prepared to discuss: What’s the evidence like? How compelling is 
 Eddie Kim, [THEIR DIET? 100 PERCENT MEAT. AND THEY SAY THEY’VE NEVER FELT HEALTHIER](https://melmagazine.com/en-us/story/their-diet-100-percent-meat-and-they-say-theyve-never-felt-healthier)
 
 
-
+{% include alert.html class='danger' title='Weekly reflection' text="
+One of the main goals of this course is to sharpen critical faculties when it comes to critiquing dietary advice. So let's practice. Critique the Eddie Kim article. What does it do well? Where does it use history effectively? What kinds of issues have we covered in class that it should have used more?
+"%}
 
 
 ## Week 14: Review and Reflection 1
@@ -303,20 +329,26 @@ Eddie Kim, [THEIR DIET? 100 PERCENT MEAT. AND THEY SAY THEY’VE NEVER FELT HEAL
 - Dariush Mozaffarian, “Foods, Nutrients, and Health: As Modern Nutrition Science Evolves, When Will Our Policies Catch Up?” _The Lancet. Diabetes & Endocrinology_ 5.2 (February 2017): 85–88.
 
 
+{% include alert.html class='danger' title='Course Reflection 1' text="
+Reflecting on what we've done in the course so far, how well do you think the articles for this week establish/outline a future of understanding the relationship between nutrition, diet, and health?
+"%}
 
 
-## Week 15:
-We can't NOT read about Thanksgiving this week! These readings have nothing to do with diet, but it's also useful to think about civic health in addition to bodily health.
 
-### Mon 11/23
+## Week 15: Food Traditions and Societal Health
+We can't NOT read about Thanksgiving this week! These readings have nothing to do with diet/health, but it's useful to think about civic health in addition to bodily health. Can food make
+
 - Andrew F. Smith, “The First Thanksgiving”, _Gastronomica_ 3.4 (2003): 79–85.
 - Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70–74.
+- David Foster Wallace, "Consider the Lobster". READ THE FOOTNOTES!
+- [Michael Twitty on Culinary Justice](https://www.youtube.com/watch?v=EhxjC3XX54g)
 
-### Wed 11/25
+{% include alert.html class='danger' title='Feasting Reflection' text="
+Do food traditions play a role in societal health?
+"%}
 
-### Thurs 11/26: Thanksgiving
-
-
+### Thurs 11/26: Thanksgiving!
+How will you celebrate/protest?
 
 
 ## Week 16: Review and Reflection 2
