@@ -252,7 +252,6 @@ What do you find most compelling about Carson's writing?
 "%}
 
 
-
 ### Wed 10/28
 - Warren Belasco, _Appetite for Change_, Chapter 5: The Orthodox Defense: The War of the Metaphors, 111--131.
 
@@ -267,7 +266,7 @@ How is Carson relevant to discussion of the effect of GMOs on our health? How is
 
 
 
-## Week 12: Hidden Dangers
+## Week 12: Secret Ingredients and Regulation
 
 ### Mon 11/2  
 - NPR, [How A 19th Century Chemist Took On The Food Industry With A Grisly Experiment](https://www.npr.org/sections/thesalt/2018/10/08/654066794/how-a-19th-century-chemist-took-on-the-food-industry-with-a-grisly-experiment).
@@ -290,7 +289,7 @@ Based on your group assignment, use the evidence and reasoning and history in th
 
 
 
-## Week 13: Dietary Dangers
+## Week 13: Dietary Dangers and Critiques
 
 ### Mon 11/09
 - Michael Specter, [Against the Grain](https://www.newyorker.com/magazine/2014/11/03/grain).
