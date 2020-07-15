@@ -54,8 +54,9 @@ There are no required books for the course. However, you will need to subscribe 
 All assignments are scored on a 0-10 scale, but assignments count differently (ie they are weighted) towards your final grade.
 
 The little equations after the assignment type indicates `number of assignments` x `points for each` x `weight` = `total points`
-- [Occasional reading/lecture quizzes](reading-responses) (8x10x.5 = 40)
-- [Weekly learning reflections](learning-reflections) (13x10 = 130) (usually in response to a particular question that encourages you to connect the readings.)
+- Occasional reading/lecture quizzes (8x10x.5 = 40)
+- [Reading connections](reading-connections)(12x1 = 12)
+- [Weekly learning reflections](learning-reflections) (13x10 = 130) (usually in response to a particular question)
 - [Food blog analysis](food-blog-analysis) (1x10 = 10)
 - [Final learning reflection](learning-reflections) (1x20 = 20)
 
