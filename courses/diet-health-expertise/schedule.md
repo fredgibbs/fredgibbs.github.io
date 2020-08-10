@@ -38,14 +38,14 @@ How would Mundry critique Taubes's article? What are the assumptions of the auth
 
 
 ### Mon 8/24
-- Classical dietary thinking
+- Classical dietary thinking (link TBP)
 - Selections from Mark Grant (tr.), _Galen on Food and Diet_: 1-8; 14-18; 68-84.
 
 How did physicians like Galen conceive the notion of disease? According to Galen, how does diet fit into medical understandings of disease? How is his approach similar and different to modern approaches to diet? How would you describe his writing style? Does it seem strange for a physician?
 
 
 ### Wed 8/26
-- Medieval and Early Modern dietary thinking
+- Medieval and Early Modern dietary thinking (link TBP)
 
 
 ### Fri 8/28
@@ -61,7 +61,6 @@ How would you characterize premodern dietary thinking? What elements have persis
 
 ## Week 3:  Dietary Expertise in the Enlightenment
 
-
 ### Mon 8/31
 - Steven Shapin, "Trusting George Cheyne," 263--79.
 
@@ -76,7 +75,7 @@ What kinds of advice did his patients get in their personal correspondence? To w
 
 
 ### Fri 9/04
-- George Cheyne, _An Essay on Regimen_," i-xxiv, and randomly sample the whole text to get a feel for the tone, language, and rhetorical effect. Yes, the language seems weird at first (and it is, compared to ours) but you get used to it after a few pages.
+- George Cheyne, [_An Essay on Regimen_](https://www.google.com/books/edition/_/ezswAAAAYAAJ?hl=en&gbpv=1)," i-xxiv, and randomly sample the whole text to get a feel for the tone, language, and rhetorical effect. Yes, the language seems weird at first (and it is, compared to ours) but you get used to it after a few pages. Note that single "s" within a word looks like an "f". For instance, on title page you'll see "Philofophical" instead of "Philosophical". It's weird to us moderns, but you get used to it after a few pages.
 
 
 {% include alert.html class='danger' title='Weekly reflection' text="
@@ -89,7 +88,7 @@ How does Cheyne's advice echo what we've been reading about? What is different? 
 ## Week 4: Natural and Moral Diets of the 1800s
 
 ### Mon 9/07
-- Emerging Questions on Natural Diets
+- Emerging Questions on Natural Diets (link TBP)
 
 
 ### Wed 9/09
@@ -121,7 +120,7 @@ Here we get another look at food reformers in the early 20th century, with an em
 
 
 ### Fri 9/18
-- Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine* 34 (May 1887): 59--74.
+- Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine*, 34 (May 1887): 59--74.
 We don't need to summarize the main points of the article---they are clearly stated at the end. Our goal is to understand the overall flavor of this article that is representative of Atwater’s work so often referenced in our readings of late. *Skim but don't totally skip* the science lesson details.  
   - How does article reflect larger scientific currents?
   - To what extent has this been true for our other sources?
@@ -136,16 +135,16 @@ How does Atwater establish his credibility, authority, and expertise? How was th
 
 
 
-## Week 6: Primary source comparison
+## Week 6: Early Dietary Advice + Expertise comparison
 
 ### Mon 9/21
-- Lulu Hunt Peters,  [Diet and Health: With Key to the Calories](https://www.google.com/books/edition/Diet_and_Health/f7UXAAAAYAAJ?hl=en&gbpv=0) (1918).
+- Lulu Hunt Peters,  [Diet and Health: With Key to the Calories](https://www.google.com/books/edition/Diet_and_Health/f7UXAAAAYAAJ?hl=en&gbpv=1) (1918).
 
 ### Wed 9/23
-- John Harvey Kellogg, [_The New Dietetics, what to Eat and how: A Guide to Scientific Feeding in Health and Disease_](https://books.google.com/books?id=CBGxvXF332cC) (1921). Read the Preface (5--7); skim the Table of Contents (8--21); read 25--37.
+- John Harvey Kellogg, [_The New Dietetics, what to Eat and how: A Guide to Scientific Feeding in Health and Disease_](https://www.google.com/books/edition/_/CBGxvXF332cC?hl=en&gbpv=1&pg=PA1) (1921). Read the Preface (5--7); skim the Table of Contents (8--21); read 25--37.
 
 ### Fri 9/25
-- Elmer McCollum, [The Newer Knowledge of Nutrition](https://books.google.com/books?id=jndUnd5xX5wC) (1922).
+- Elmer McCollum, [The Newer Knowledge of Nutrition](https://www.google.com/books/edition/_/jndUnd5xX5wC?hl=en&gbpv=1) (1922).
   - Read the preface (xii--ix), skim the Table of Contents, and read 1--13.
   - How would you characterize the contents of the book?
   - How does McCollum establish his expertise and legitimize the "new" way of studying nutrition and bodily health?
@@ -175,15 +174,15 @@ Are vitamins supplements necessary? Google it and read a handful of pages. Analy
 
 
 
-## Week 8:
+## Week 8: The fat enemy
 
 ### Mon 10/5
-- Helen Zoe Veit, *Modern Food, Moral Food*, Chapter 5: The Progressive Body and the Thin Ideal, 157--80.
+- Helen Zoe Veit, *Modern Food, Moral Food*, Chapter 7: The Triumph of the Will: The Progressive Body and the Thin Ideal, 157--80.
 
 ### Wed 10/07  
 - A. F. La Berge, “How the Ideology of Low Fat Conquered America,” _Journal of the History of Medicine and Allied Sciences_ 63.2 (2007): 139--77.
 
-{% include alert.html class='danger' title='Weekly reflection' text="
+{% include alert.html class='danger' title='(short) Weekly reflection' text="
 What was most interesting this week?
 "%}
 
@@ -195,24 +194,23 @@ BREAK
 
 
 
-## Week 9:
+## Week 9: Obesity science, politics, and ethics
 
 ### Mon 10/12
-- Gary Taubes and Cristin Kearns Couzens, [Big Sugar's Sweet Little Lies](https://www.motherjones.com/environment/2012/10/sugar-industry-lies-campaign/)
+- Gary Taubes and Cristin Kearns Couzens, [Big Sugar's Sweet Little Lies](https://www.motherjones.com/environment/2012/10/sugar-industry-lies-campaign/), _Mother Jones_ (Nov/Dec 2012).
 
 
 ### Wed 10/14
-- David H. Freedman, [How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true), _The Atlantic_, August 2013.
-- Tom Philpott, [Why The Atlantic’s Defense of Junk Food Fails](http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails), _Mother Jones_, 2013.
+- David H. Freedman, [How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true), _The Atlantic_ (August 2013).
+- Tom Philpott, [Why The Atlantic’s Defense of Junk Food Fails](http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails), _Mother Jones_ (August 2013).
 
-{% include alert.html class='danger' title='Daily reflection' text="
+{% include alert.html class='danger' title='Reading reflection' text="
 Which line of argument do you find more compelling? Why?
 "%}
 
 
-
 ### Fri 10/16
-- David Berreby, [The Obesity Era](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong), *Aeon*, June 2013.
+- David Berreby, [The Obesity Era](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong), *Aeon* (June 2013).
 
 {% include alert.html class='danger' title='Weekly reflection' text="
 What is the role of nutrition science and research in understanding obesity? Which of the articles for this week resonated most strongly with you? Why?
@@ -222,7 +220,7 @@ What is the role of nutrition science and research in understanding obesity? Whi
 
 
 
-## Week 10:
+## Week 10: FLEX
 
 ### Mon 10/19
 ???
@@ -266,7 +264,7 @@ How is Carson relevant to discussion of the effect of GMOs on our health? How is
 ## Week 12: Secret Ingredients and Regulation
 
 ### Mon 11/2  
-- NPR, [How A 19th Century Chemist Took On The Food Industry With A Grisly Experiment](https://www.npr.org/sections/thesalt/2018/10/08/654066794/how-a-19th-century-chemist-took-on-the-food-industry-with-a-grisly-experiment).
+- NPR, _All Things Considered_ (host Ari Shapiro talks with author Deborah Blum), [How A 19th Century Chemist Took On The Food Industry With A Grisly Experiment](https://www.npr.org/sections/thesalt/2018/10/08/654066794/how-a-19th-century-chemist-took-on-the-food-industry-with-a-grisly-experiment) (October 8, 2018).
 
 
 ### Wed 11/4
@@ -276,11 +274,11 @@ How is Carson relevant to discussion of the effect of GMOs on our health? How is
 
 
 ### Fri 11/6
-- Wendee Nicole, "[Secret Ingredients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3620743/)."
+- Wendee Nicole, "[Secret Ingredients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3620743/)", _Environmental Health Perspectives_ 121.6 (2013): A126--A133.
 
 
 {% include alert.html class='danger' title='DEBATE!' text="
-Based on your group assignment, use the evidence and reasoning and history in the articles to argue that the government should  play either a stronger or weaker role in regulating particular ingredients in food.
+Based on your group assignment, use the evidence and reasoning and history in the articles to argue that the government should play EITHER a stronger or weaker role in regulating particular ingredients in food.
 "%}
 
 
@@ -289,20 +287,20 @@ Based on your group assignment, use the evidence and reasoning and history in th
 ## Week 13: Dietary Dangers and Critiques
 
 ### Mon 11/09
-- Michael Specter, [Against the Grain](https://www.newyorker.com/magazine/2014/11/03/grain).
+- Michael Specter, [Against the Grain](https://www.newyorker.com/magazine/2014/11/03/grain) (_New Yorker_, October 27, 2014).
 
-- James Hamblin, [Lectins Could Become the Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/)
+- James Hamblin, [Lectins Could Become the Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/), (_The Atlantic_ April 24, 2017).
 
 
 ### Wed 11/11
-- Elizabeth G. Dunn, [Meet the Startup That Thinks DNA Can Predict Your Best Diet](https://medium.com/s/futurehuman/is-the-secret-to-better-nutrition-encoded-in-our-genes-e0cfd1ad11a8).
+- Elizabeth G. Dunn, [Meet the Startup That Thinks DNA Can Predict Your Best Diet](https://medium.com/s/futurehuman/is-the-secret-to-better-nutrition-encoded-in-our-genes-e0cfd1ad11a8) (_OneZero_, July 2018).
 
-- Richard Sprague, [So Should I Eat Apples, or Not?](https://medium.com/neodotlife/review-of-viome-f024423a3d3a)
+- Richard Sprague, [So Should I Eat Apples, or Not?](https://medium.com/neodotlife/review-of-viome-f024423a3d3a) (_NEO.LIFE_, February 2018).
 
 
 
 ### Fri 11/13
-Eddie Kim, [THEIR DIET? 100 PERCENT MEAT. AND THEY SAY THEY’VE NEVER FELT HEALTHIER](https://melmagazine.com/en-us/story/their-diet-100-percent-meat-and-they-say-theyve-never-felt-healthier)
+Eddie Kim, [THEIR DIET? 100 PERCENT MEAT. AND THEY SAY THEY’VE NEVER FELT HEALTHIER](https://melmagazine.com/en-us/story/their-diet-100-percent-meat-and-they-say-theyve-never-felt-healthier), (_Mel Magazine_, 2019).
 
 
 {% include alert.html class='danger' title='Weekly reflection' text="
@@ -314,16 +312,16 @@ One of the main goals of this course is to sharpen critical faculties when it co
 ## Week 14: Review and Reflection 1
 
 ### Mon 11/16
-- [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/).
+- Christie Aschwanden, [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/), (_FiveThirtyEight_, Jan 6, 2016).
 
 ### Wed 11/18
-- Dariush Mozaffarian, Irwin Rosenberg, Ricardo Uauy, [History of modern nutrition science—implications for current research, dietary guidelines, and food policy](https://www.bmj.com/content/361/bmj.k2392)
+- Dariush Mozaffarian, Irwin Rosenberg, Ricardo Uauy, "History of modern nutrition science—implications for current research, dietary guidelines, and food policy", (_BMJ_ 2018;361:k2392).
 
 ### Fri 11/20
 - Dariush Mozaffarian, “Foods, Nutrients, and Health: As Modern Nutrition Science Evolves, When Will Our Policies Catch Up?” _The Lancet. Diabetes & Endocrinology_ 5.2 (February 2017): 85–88.
 
 
-{% include alert.html class='danger' title='Course Reflection 1' text="
+{% include alert.html class='danger' title='Course Reflection Warm-up' text="
 Reflecting on what we've done in the course so far, how well do you think the articles for this week establish/outline a productive future for understanding the relationship between nutrition, diet, and health?
 "%}
 
@@ -334,10 +332,10 @@ We can't NOT read about Thanksgiving this week! These readings have nothing to d
 
 - Andrew F. Smith, “The First Thanksgiving”, _Gastronomica_ 3.4 (2003): 79–85.
 - Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70–74.
-- David Foster Wallace, "Consider the Lobster". READ THE FOOTNOTES!
+- David Foster Wallace, "Consider the Lobster", _Gourmet_ (August 2004), 50--64. READ THE FOOTNOTES!
 - [Michael Twitty on Culinary Justice](https://www.youtube.com/watch?v=EhxjC3XX54g)
 
-{% include alert.html class='danger' title='Feasting Reflection' text="
+{% include alert.html class='danger' title='Weekly/Feasting Reflection' text="
 Do food traditions play a role in societal health?
 "%}
 
@@ -345,10 +343,11 @@ Do food traditions play a role in societal health?
 How will you celebrate/protest?
 
 
+
 ## Week 16: Review and Reflection 2
 
 ### Mon 11/30
-NO READING
+- Food Blog Analysis Overview video (link TBP)
 
 ### Wed 12/02
 NO READING
