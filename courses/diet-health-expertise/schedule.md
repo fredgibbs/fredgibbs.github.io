@@ -7,28 +7,35 @@ term: Fall 2020
 section: schedule
 ---
 
-# Schedule of Readings & Assignments
+# HIST 410: Readings and Assignments
 
 
 ## Week 1: Introductions + Key Concepts
 
 ### Mon 8/17  
 - Introduction to the course, syllabus, and expectations.
-- Syllabus quiz
 
-{% include alert.html class='danger' title='Introductory post' text="
-Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post on the class Discussion Board in UNM Learn (should be an obvious link on the left nav bar) a brief introduction to who you are and some opinion about diet and health that you've changed your mind about---we all have many!
+{% include alert.html class='danger' title='Introductory stuff' text="
+There are a couple things to do just to make sure we're all connected.
+
+- As an informal way of introducing ourselves, please post on the class Discussion Board in UNM Learn (should be an obvious link on the left nav bar) a very brief introduction and a brief story about some opinion about diet and health that you've changed your mind about---we all have many!
+
+- Post a hello message in the Slack workspace. It can literally say nothing more than 'hello.' Feel free to say more, of course, but the point is to make sure it works.
+
+- Take the Syllabus Quiz. The point is to confirm and highlight key aspects of the course to avoid confusion later.
 "%}
 
+
+
 ### Wed 8/19  
-- Gary Taubes, [Why Nutrition is So Confusing](https://www.nytimes.com/2014/02/09/opinion/sunday/why-nutrition-is-so-confusing.html).
+- Gary Taubes, [Why Nutrition is So Confusing](https://search-proquest-com.libproxy.unm.edu/docview/1496257577/fulltext/61D8DF94940D48FBPQ/1?accountid=14613).
 
 
 ### Fri 8/21
 - Jessica J. Mudry, *Measured Meals. Nutrition in America*, 1-19 (Introduction: Eating by Numbers).
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-How would Mundry critique Taubes's article? What are the assumptions of the author in terms of how we create knowledge of nutrition? Do we really not know what a healthy diet is? Do you agree that there are real dangers in quantification?
+How would Mundry critique Taubes's article? What are the assumptions of the authors in terms of how we create knowledge of nutrition? Do we really not know what a healthy diet is? Do you agree that there are real dangers in quantification? Whose perspective is more convincing?
 "%}
 
 
@@ -75,11 +82,11 @@ What kinds of advice did his patients get in their personal correspondence? To w
 
 
 ### Fri 9/04
-- George Cheyne, [_An Essay on Regimen_](https://www.google.com/books/edition/_/ezswAAAAYAAJ?hl=en&gbpv=1)," i-xxiv, and randomly sample the whole text to get a feel for the tone, language, and rhetorical effect. Yes, the language seems weird at first (and it is, compared to ours) but you get used to it after a few pages. Note that single "s" within a word looks like an "f". For instance, on title page you'll see "Philofophical" instead of "Philosophical". It's weird to us moderns, but you get used to it after a few pages.
+- George Cheyne, [_An Essay on Regimen_](https://www.google.com/books/edition/_/ezswAAAAYAAJ?hl=en&gbpv=1)," i-xxiv, and randomly sample the whole text to get a feel for the tone, language, and rhetorical effect. Note that single "s" within a word looks like an "f". For instance, on title page you'll see "Philofophical" instead of "Philosophical". Yes, the language and long "f"s seem weird to us moderns, but you get used to it after a few pages.
 
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-How does Cheyne's advice echo what we've been reading about? What is different? In either case, what are his primary concerns? Can anyone actually follow this kind of advice? How did Cheyne establish his medical reputation? Aside from the language, how different or similar is Cheyne's way of establishing expertise compared to modern experts?
+How does Cheyne's advice echo what we've been reading about up to this point? What is different?   How did Cheyne establish his medical reputation? Aside from the language, how different or similar is Cheyne's way of establishing expertise compared to modern dietary experts?
 "%}
 
 
@@ -92,8 +99,7 @@ How does Cheyne's advice echo what we've been reading about? What is different? 
 
 
 ### Wed 9/09
-- Adam D. Shprintzen, _The Vegetarian Crusade_, Chapter 1: Proto-vegetarianism, 10-27; 32-38. [online](https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=88c9c3b4-4d25-4888-9fc3-504fe236d4f6%40sessionmgr103&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=nlebk&AN=582993) and in Zotero.
-This briefly describes some of the early religious sentiments supporting vegetarianism, but most importantly it introduces Sylvester Graham and his historical context.
+- Adam D. Shprintzen, _The Vegetarian Crusade_, Chapter 1: Proto-vegetarianism, 10-27; 32-38. [online](https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=88c9c3b4-4d25-4888-9fc3-504fe236d4f6%40sessionmgr103&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=nlebk&AN=582993) and in Zotero. This briefly describes some of the early religious sentiments supporting vegetarianism, but most importantly (and the reason we're reading it) it introduces Sylvester Graham and his historical context.
 
 
 ### Fri 9/11
@@ -121,11 +127,11 @@ Here we get another look at food reformers in the early 20th century, with an em
 
 ### Fri 9/18
 - Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine*, 34 (May 1887): 59--74.
-We don't need to summarize the main points of the article---they are clearly stated at the end. Our goal is to understand the overall flavor of this article that is representative of Atwater’s work so often referenced in our readings of late. *Skim but don't totally skip* the science lesson details.  
+We don't need to summarize the main points of the article---they are clearly stated at the end. Our goal is to understand the overall flavor of this article that is representative of Atwater’s work so often referenced in our readings of late. *Skim but don't totally skip* the science lesson details. Think about:
   - How does article reflect larger scientific currents?
   - To what extent has this been true for our other sources?
   - What’s the point of all the science detail?
-  - How/why does metaphor play a role?
+  - How/why does metaphor play such a prominent role in his explanations? Does that still happen?
 
 {% include alert.html class='danger' title='Weekly reflection' text="
 How does Atwater establish his credibility, authority, and expertise? How was this different from Cheyne (two weeks ago)?
@@ -169,7 +175,7 @@ Even though they are published within a few years of each other, how do these au
 - Rima D. Apple, "'They Need it Now': Science, Advertising and Vitamins, 1925-1940".   
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-Are vitamins supplements necessary? Google it and read a handful of pages. Analyze the kinds of arguments made. Does this history of vitamins matter in settling the debate?
+Are vitamins supplements necessary? Google some variant of that question and read through a handful of sites. Analyze the kinds of arguments made. Does this history of vitamins matter in settling the debate?
 "%}
 
 
@@ -188,7 +194,7 @@ What was most interesting this week?
 
 
 ### Fri 10/09
-BREAK
+BREAK! Nothing due today.
 
 
 

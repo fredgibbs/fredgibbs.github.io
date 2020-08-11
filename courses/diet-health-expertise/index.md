@@ -7,7 +7,7 @@ term: Fall 2020
 section: home
 ---
 
-# Diet, Health, and Expertise
+# HIST 410: Syllabus Home
 
 ## Logistics
 - HIST 410-001; CRN: 68708
@@ -30,7 +30,7 @@ Some guiding questions: Why have medical authorities continually redefined what 
 
 
 ## You are welcome here
-This class is probably unlike most history classes you've taken, since history and medicine and history of food are somewhat specialized topics. It's also a 400-level class, which can seem intimidating. Even if you have never taken a history course before, or even many humanities courses, you are welcome here and I will do everything I can do help you get whatever grade you're aiming for. As much as possible I've tried to make the course about everyone thinking together rather than just you memorizing something I say so that you can regurgitate it later.
+This class is probably unlike most history classes you've taken, since history and medicine and history of food are somewhat specialized topics. It's also a 400-level class, which can seem intimidating. But I want to be VERY CLEAR: Even if you have never thought about the history of medicine or diet, or have never taken a history course or even a humanities course, YOU ARE WELCOME HERE! I will do everything I can do help you learn as much as you're motivated to learn, and to get whatever grade you're aiming for. As much as possible I've tried to make the course about everyone thinking together rather than just you memorizing something I say so that you can regurgitate it later.
 
 
 ## Getting Started
@@ -45,9 +45,11 @@ This page, and the [schedule page](schedule), have all the instructions and assi
 
 
 ### It's a (virtual) marathon, not a sprint
-Not having actual class meetings (as the course normally does) deprives us of some collegial conversation, but it presents new freedoms as well. There isn't much to do most days except do the reading, reflect on it, write a brief response, and occasionally respond to your colleagues. There are a few slightly longer assignments that give you the chance to apply the readings more directly.
+Not having actual class meetings (as the course normally does) deprives us of some collegial conversation, but it presents new freedoms as well. There isn't much to do most days except do the reading, reflect on it, write a brief response, and occasionally respond to your colleagues.
 
-**In order to keep us learning at an even pace, the main work/fun that determines your grade is the weekly learning reflections.** I've deliberately avoided disproportionately large midterms or finals.
+I hold you accountable for keeping up with the readings by asking you to respond to them twice per week (Mondays and Wednesday), plus a weekly learning reflection (due most Fridays) that will address a few questions that I think will help tie together the readings for the week. In place of some weekly learning reflections there are a few slightly longer assignments that give you the chance to apply the readings more directly.
+
+The upshot is that your work for the course is very evenly distributed across the semester. There are no big essays or exams or final. As long as you're keeping up with the readings (and I've tried to be quite modest in the amount), the course shouldn't ever become a burden on your workload or schedule.
 
 
 ## Required Texts
@@ -58,14 +60,33 @@ TO BE CLEAR: LITERALLY EVERYTHING you need for the course is either already free
 
 
 ## Work Requirements and Grading
-All assignments are scored on a 0-10 scale, but assignments count differently towards your final grade (that is, some are weighted to count more because they are more significant).
+Assignments are worth either 2 points (weekly discussion posts), 10 points (weekly learning reflections), or 20 points (larger assignments and the final learning reflection)
 
 The little equations after the assignment type indicates `number of assignments` x `points for each` x `weight` = `total points`
-- Occasional reading/lecture quizzes (8x10x.5 = 40)
-- [Reading connections](reading-connections)(12x2 = 24)
+- Occasional reading/lecture quizzes (4x10x.5 = 20)
+- [Reading reflections](reading-reflections)(10x4 = 20)
 - [Weekly learning reflections](learning-reflections) (13x10 = 130) (usually in response to a particular question)
-- [Food blog analysis](food-blog-analysis) (1x10 = 10)
+- [Food blog analysis](food-blog-analysis) (1x20 = 20)
+- Individual contribution to our Diet Timeline Collaboration [TBD] (1x20 = 20)
 - [Final learning reflection](learning-reflections) (1x20 = 20)
+
+
+### Grade Distribution (230 points)
+Depending on how the course unfolds, the final number of points may change slightly. But the percent grading scale will remain basically the same, unless it becomes easier to get a higher grade.
+
+Percent | Grade
+--- | ---
+94+ | A
+90-94 | A-
+87-89 | B+
+83-86 | B
+80-82 | B-
+77-79 | C+
+73-76 | C
+70-72 | C-
+67-69 | D+
+60-66 | D
+59- | F
 
 
 ### Extra Credit (all due on the Monday after the last day of class)

@@ -5,7 +5,7 @@ title: using zotero | fred gibbs
 
 # How to Access the Course Zotero Library
 
-[Zotero](http://zotero.org) is a free tool developed by academics for academics for managing bibliographies used by millions of people around the world. It also helps groups of scholars (that's us!) share resources like PDFs and notes. That's why we'll use it.
+[Zotero](http://zotero.org) is a free tool developed by academics for academics for managing bibliographies used by millions of people around the world. It also helps groups of scholars (that's us!) share resources like PDFs. That's why we'll use it.
 
 There are two ways of getting course readings through the course Zotero Library.
 
@@ -19,16 +19,22 @@ There are two ways of getting course readings through the course Zotero Library.
 Regardless of which method you use, **you must [sign up for a free account at zotero.org](https://www.zotero.org/user/register)**. Creating a Zotero account requires only that you specify a username, password, and email address. You will not get any spam from Zotero or anyone else because of your Zotero account. **Use your UNM email address!!!!!**
 
 
-## Step 2: Accept the invitation to join the group library
-After the first day of class, you will get an email from Zotero.org that will invite you to join the group library for the course. For security reasons I cannot simply add you to the group: **You must click the link in the invitation email to join the group!**
+## Step 2: Find the email invitation to join the group library
+On the first day of class, you will get an email from Zotero.org that will invite you to join the group library for the course. For security reasons I cannot simply add you to the group: **You must click the link in the invitation email to join the group!**
 
 
-## Step 3: View the course library online
-**Once you've created your account AND accepted the invitation**, you'll be able to visit the course library (the link is specified on the course syllabus). Once you're on our group library page, be sure you are logged into your Zotero account, and you'll see all of the readings listed there. You can download or simply read the PDFs online as you need them.
+## Step 3: Click the join button on the website
+After you click the link in the email, you end up at zotero.org, and there is an Accept button to join the library. You must click this button to join the group!
+
+## Step 4: Verify you can see the course library online
+Now you'll be able to visit the course library (just click the link on the syllabus home page).
+If you're not sure where you are at zotero.org, click the "groups" link in the menu bar. If you don't see a link to `diet-health-expertise-unm` then either you aren't logged into zotero.org or you haven't joined the group yet.
+
+Once you're on our group library page, be sure you are logged into your Zotero account, and you'll see all of the readings listed there. You can download or simply read the PDFs online as you need them.
 
 
-## Optional Step 4: Installing Zotero on your computer
-Using the Zotero website to access the readings is seriously clunky. If you [download and install Zotero](https://www.zotero.org/download/) on your computer, you'll have a much faster and clearer interface to the readings. Use the "Standalone" version. It is a small application that is entirely safe to install.
+## Optional: Installing Zotero on your computer
+Using the Zotero website to access the readings will always work, but it's seriously clunky. If you [download and install Zotero](https://www.zotero.org/download/) on your computer, you'll have a much faster and clearer interface to the readings. Use the "Standalone" version. It is a small application that is entirely safe to install.
 
 While in the process of installing Zotero, or once you've installed Zotero on your computer, you'll have the option to link your installation of Zotero to your online zotero.org account. Be sure to do this. If you complete the installation and have not told Zotero (the application) about your zotero.org account, go into the settings menu (the gear icon), and select the "Sync" tab. You can enter your username and password there.
 
