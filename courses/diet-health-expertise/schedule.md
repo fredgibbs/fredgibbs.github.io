@@ -48,7 +48,7 @@ How do Mundry and Taubes take very different approaches to thinking about nutrit
 
 
 ## Week 2:  The Long History of Dietary Advice
-
+This week we cover medical and dietary thinking from ancient Greece and Rome through about 1700. Some of the medical thinking seems a bit bizarre to our modern sensibilities, but in terms of dietary advice, there is a remarkable consistency over the last 2000 years. So it's worth looking at the foundational thinking that has directly influenced modern nutrition, even if if certain aspects have been dramatically altered by increasingly sophisticated biochemical research.
 
 ### Mon 8/24
 - Classical medicine, diet, and intro to Galen Lecture (link TBP)
@@ -57,7 +57,7 @@ How do Mundry and Taubes take very different approaches to thinking about nutrit
 {% include alert.html class='danger' title='Reading reflection' text="
 Still getting settled: no groups for this week. Everyone will post a regular ~200 word reading reflection to address the following:
 
-How did physicians like Galen conceive the notion of disease? According to Galen, how does diet fit into medical understandings of disease? How is his approach similar and different to modern approaches to diet? How would you describe his writing style? Does it seem strange for a physician?
+How did physicians like Galen conceive the notion of disease? According to Galen, how does diet fit into medical understandings of disease? How is his approach similar and different to modern approaches to diet? How would you describe his writing style? Does it seem strange for a physician? Your responses should also draw on the background info from the lecture.
 "%}
 
 
@@ -76,13 +76,15 @@ How would you characterize premodern dietary thinking? What aspects of dietary a
 
 
 ## Week 3:  Dietary Expertise in the Enlightenment
+Our 2-part reading for this week continues and focuses our previous attention to medical expertise and moral authority. It's very clearly written, but quite dense, so it's spread across two days so we can unpack it.
+
+The theme for the week is how physicians beginning the 1700s started promoting dietary advice and their expertise in different ways than they did previously (see Week 2). We also see the early ties between dietary advice, moral authority, a common sense, a group we'll come back to repeatedly over the semester.
+
 
 ### Mon 8/31
 - Steven Shapin, "Trusting George Cheyne," 263--79.
 
-This reading continues and focuses our previous attention to medical expertise and moral authority. It's very clearly written, but quite dense, so I've provided a bit more guidance than usual on what you might be thinking about as you read.
-
-Let's think about common sense vs. expert advice. **Was this a new tension in the 1700s?** **How much do we still have this tension regarding modern dietary concerns?** Part of the answer to this depends on what "common sense" is at a time. What was the typical layperson's medical knowledge in the 1700s? And today? NOTE in particular: _In dietetics ... medicine pitched its tent on ground already densely occupied by moral common sense._  How similar and different to modern dietary advice? What were common criticisms of 18th-century physicians? What does Shapin mean by "micromechanism" and "iatromechanical"? Where do these terms come from?
+Questions to keep in mind while reading: How similar and different to modern dietary advice? What were common criticisms of 18th-century physicians? What does Shapin mean by "micromechanism" and "iatromechanical"? Where do these terms come from?
 
 {% include alert.html class='danger' title='Reflections' text="
 - Group 1: Standard Reflection
@@ -92,7 +94,8 @@ Let's think about common sense vs. expert advice. **Was this a new tension in th
 
 ### Wed 9/02
 - Steven Shapin, "Trusting George Cheyne," 279--97.
-What kinds of advice did his patients get in their personal correspondence? To what extent were these reasonable? Was there any conflict with common sense? How different was public and private medical advice? How specifically did Cheyne appeal to morality in his letters with patients? How did his own physical condition matter? How prevalent was the "micromechanical" approach/advice we read about last time? What kinds of experience does Shapin discuss? What are the modern analogs?
+
+Questions to keep in mind while reading: What kinds of advice did his patients get in their personal correspondence? Was there any conflict with common sense? How different was public and private medical advice? How specifically did Cheyne appeal to morality in his letters with patients? How prevalent was the "micromechanical" approach/advice we read about last time? What are the modern analogs?
 
 {% include alert.html class='danger' title='Reflections' text="
 - Group 1: Comparative Reflection
@@ -112,6 +115,7 @@ How does Cheyne's advice echo what we've been reading about up to this point? Wh
 
 
 ## Week 4: Natural and Moral Diets of the 1800s
+
 
 ### Mon 9/07
 - Emerging Questions on Natural Diets (link TBP)
@@ -218,24 +222,13 @@ Even though they are published within a few years of each other, how do these au
 
 
 ## Week 7: Vitamins
+You've probably heard that you should take your vitamins. Yes, they are crucial for health in minuscule amounts, but why is there so much focus on them? This looks at the discovery and marketing of vitamins in the early 1900s. The way the mere idea of vitamins reshaped nutritional thinking is still with us today. These readings also help us think about the relationship between scientific expertise and common sense. No M/W reading responses due this week, but a slightly longer weekly reflection.
 
 ### Mon 09/28
 - Catherine Price, _Vitamania_, Chapter 4: Journey into Food, 47--63.
 
-{% include alert.html class='danger' title='Reflections' text="
-- Group 1: Standard Reflection
-- Group 2: Connective Reflection
-"%}
-
 ### Wed 09/30
 - Catherine Price, _Vitamania_, Chapter 5: A to Zeitgeist, 65--90.
-
-
-{% include alert.html class='danger' title='Reflections' text="
-- Group 1: Comparative Reflection. Since we're reading the same author, make your comparative reflection on other modern writers about the history of diet that we've read. How does Price compare to Muldry or Biltekoff (to name only two).
-- Group 2: Standard Reflection
-"%}
-
 
 ### Fri 10/02
 - Rima D. Apple, "'They Need it Now': Science, Advertising and Vitamins, 1925-1940".   
@@ -247,7 +240,7 @@ Are vitamins supplements necessary? Google some variant of that question and rea
 
 
 ## Week 8: The fat enemy
-Do you think fat is bad? Most of us would answer a qualified no at best and a resounding YES! at worst. Why is this? This week examines how the idea of fat and fat bodies became something to avoid. Given the midterm-ness of this week, we're not doing individual reading responses, just a weekly learning reflection that ties everything together.
+Is fat bad? Of course not, but to say it's controversial within dietary advice is a huge understatement. Why is this? This week examines how the idea of fat and fat bodies became something to avoid. Given the midterm-ness of this week, we're not doing individual reading responses, just a weekly learning reflection that ties everything together.
 
 ### Mon 10/5
 - Helen Zoe Veit, *Modern Food, Moral Food*, Chapter 7: The Triumph of the Will: The Progressive Body and the Thin Ideal, 157--80.
@@ -358,13 +351,12 @@ Based on your group assignment, use the evidence and reasoning and history in th
 - Richard Sprague, [So Should I Eat Apples, or Not?](https://medium.com/neodotlife/review-of-viome-f024423a3d3a) (_NEO.LIFE_, February 2018).
 
 
-
 ### Fri 11/13
 Eddie Kim, [THEIR DIET? 100 PERCENT MEAT. AND THEY SAY THEY’VE NEVER FELT HEALTHIER](https://melmagazine.com/en-us/story/their-diet-100-percent-meat-and-they-say-theyve-never-felt-healthier), (_Mel Magazine_, 2019).
 
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-One of the main goals of this course is to sharpen critical faculties when it comes to critiquing dietary advice. So let's practice. For your post this week, critique the Eddie Kim article. What does it do well? Where does it use history effectively? What kinds of issues have we covered in class that it should have used more?
+One of the main goals of this course is to sharpen critical faculties when it comes to critiquing dietary advice. So let's practice. For your post this week, critique the Eddie Kim article using the kinds of arguments you found in the other articles for this week. What does it do well? Where does it use history effectively? What kinds of issues have we covered in class that it should have used more?
 "%}
 
 
@@ -382,7 +374,7 @@ One of the main goals of this course is to sharpen critical faculties when it co
 
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up. Reflecting on what we've done in the course so far, how well do you think the articles for this week establish/outline a productive future for understanding the relationship between nutrition, diet, and health? The more readings you can tie in from the course now, the easier and better your final will be.
+For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up (still usual weekly reflection length). Reflecting on what we've done in the course so far, how well do you think the articles for this week establish/outline a productive future for understanding the relationship between nutrition, diet, and health? The more readings you can tie in from the course now, the easier and better your final will be.
 "%}
 
 

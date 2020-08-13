@@ -75,8 +75,8 @@ TO BE CLEAR: LITERALLY EVERYTHING you need for the course is either already free
 Assignments are worth either 2 points (weekly discussion posts), 10 points (weekly learning reflections), or 20 points (larger assignments and the final learning reflection)
 
 The little equations after the assignment type indicates `number of assignments` x `points for each` x `weight` = `total points`
-- Occasional reading/lecture quizzes (4x8x.5 = 16)
-- [Reading reflections](reading-reflections)(18x2 = 36)
+- Occasional reading/lecture quizzes (4x6x.5 = 18)
+- [Reading reflections](reading-reflections)(16x2 = 32)
 - [Weekly learning reflections](weekly-reflections) (13x10 = 130) (usually in response to a particular question)
 - [Food blog analysis](food-blog-analysis) (1x20 = 20)
 - [Final learning reflection](weekly-reflections) (1x20 = 20)
