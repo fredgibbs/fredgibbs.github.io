@@ -19,9 +19,9 @@ This week we're just getting up to speed and reading two VERY different perspect
 {% include alert.html class='danger' title='Introductory stuff' text="
 There are a couple things to do just to make sure we're all connected. Please do them ASAP, but make sure these are done BEFORE WEDNESDAY.
 
-- As an informal way of introducing ourselves, please post on the class Discussion Board in UNM Learn (should be an obvious link on the left nav bar) a very brief introduction and a brief reflection on some idea about health and diet that you've totally changed your mind about for whatever reason---we all have many!
-
 - Take the Syllabus Quiz. The point is to confirm and highlight key aspects of the course to avoid confusion later. All quizzes are accessible through UNM Learn (there is a quizzes link on the left nav bar).
+
+- As an informal way of introducing ourselves, please post on the class Discussion Board in UNM Learn (should be an obvious link on the left nav bar) a very brief introduction, and just to get warmed up for the next few readings, address BRIEFLY the following: On a scale of really unhealthy to really healthy, how would you rate the general health of the United States population? What reasons or factors do you think contribute to our general population health.
 "%}
 
 
@@ -86,9 +86,9 @@ The theme for the week is how physicians beginning the 1700s started promoting d
 
 Questions to keep in mind while reading: How similar and different to modern dietary advice? What were common criticisms of 18th-century physicians? What does Shapin mean by "micromechanism" and "iatromechanical"? Where do these terms come from?
 
-{% include alert.html class='danger' title='Reflections' text="
-- Group 1: Standard Reflection
-- Group 2: Connective Reflection
+{% include alert.html class='danger' title='Reading Reflections' text="
+- Group 1: [Standard Reflection](reading-reflections#standard-reflection)
+- Group 2: [Connective Reflection](reading-reflections#connective-reflection)
 "%}
 
 
@@ -97,9 +97,9 @@ Questions to keep in mind while reading: How similar and different to modern die
 
 Questions to keep in mind while reading: What kinds of advice did his patients get in their personal correspondence? Was there any conflict with common sense? How different was public and private medical advice? How specifically did Cheyne appeal to morality in his letters with patients? How prevalent was the "micromechanical" approach/advice we read about last time? What are the modern analogs?
 
-{% include alert.html class='danger' title='Reflections' text="
-- Group 1: Comparative Reflection
-- Group 2: Standard Reflection
+{% include alert.html class='danger' title='Reading Reflections' text="
+- Group 1: [Comparative Reflection](reading-reflections#comparative-reflection)
+- Group 2: [Standard Reflection](reading-reflections#standard-reflection)
 "%}
 
 
@@ -120,9 +120,9 @@ How does Cheyne's advice echo what we've been reading about up to this point? Wh
 ### Mon 9/07
 - Emerging Questions on Natural Diets (link TBP)
 
-{% include alert.html class='danger' title='Reflections' text="
-- Group 1: Connective Reflection
-- Group 2: Standard Reflection
+{% include alert.html class='danger' title='Reading Reflections' text="
+- Group 1: [Connective Reflection](reading-reflections#connective-reflection)
+- Group 2: [Standard Reflection](reading-reflections#standard-reflection)
 "%}
 
 
@@ -130,9 +130,9 @@ How does Cheyne's advice echo what we've been reading about up to this point? Wh
 ### Wed 9/09
 - Adam D. Shprintzen, _The Vegetarian Crusade_, Chapter 1: Proto-vegetarianism, 10-27; 32-38. This briefly describes some of the early religious sentiments supporting vegetarianism, but most importantly (and the reason we're reading it) it introduces Sylvester Graham and his historical context.
 
-{% include alert.html class='danger' title='Reflections' text="
-- Group 1: Standard Reflection
-- Group 2: Comparative Reflection
+{% include alert.html class='danger' title='Reading Reflections' text="
+- Group 1: [Standard Reflection](reading-reflections#standard-reflection)
+- Group 2: [Comparative Reflection](reading-reflections#comparative-reflection)
 "%}
 
 
@@ -148,16 +148,14 @@ How, if at all, are dietary concerns of the early 19th century---especially conc
 
 
 
-
-
 ## Week 5: Scientific and Quantified Eating
 
 ### Mon 9/14
 - Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67.
 
-{% include alert.html class='danger' title='Reflections' text="
-- Group 1: Standard Reflection
-- Group 2: Connective Reflection
+{% include alert.html class='danger' title='Reading Reflections' text="
+- Group 1: [Standard Reflection](reading-reflections#standard-reflection)
+- Group 2: [Connective Reflection](reading-reflections#connective-reflection)
 "%}
 
 
@@ -165,9 +163,9 @@ How, if at all, are dietary concerns of the early 19th century---especially conc
 - Charlotte Biltekoff, *Eating Right in America*, Chapter 2: Scientific Moralization, 13--44.
 Here we get another look at food reformers in the early 20th century, with an emphasis on the links between diet and morality. A few key points to consider: What does "morality" mean in this chapter? Why is it so important (per the reformers) to have the proper diet? How is the proper diet related to the supposedly universal calorie?   
 
-{% include alert.html class='danger' title='Reflections' text="
-- Group 1: Comparative Reflection
-- Group 2: Standard Reflection
+{% include alert.html class='danger' title='Reading Reflections' text="
+- Group 1: [Comparative Reflection](reading-reflections#comparative-reflection)
+- Group 2: [Standard Reflection](reading-reflections#standard-reflection)
 "%}
 
 
@@ -192,18 +190,18 @@ How does Atwater establish his credibility, authority, and expertise? How was hi
 ### Mon 9/21
 - Lulu Hunt Peters,  [Diet and Health: With Key to the Calories](https://www.google.com/books/edition/Diet_and_Health/f7UXAAAAYAAJ?hl=en&gbpv=1) (1918).
 
-{% include alert.html class='danger' title='Reflections' text="
-- Group 1: Connective Reflection
-- Group 2: Standard Reflection
+{% include alert.html class='danger' title='Reading Reflections' text="
+- Group 1: [Connective Reflection](reading-reflections#connective-reflection)
+- Group 2: [Standard Reflection](reading-reflections#standard-reflection)
 "%}
 
 
 ### Wed 9/23
 - John Harvey Kellogg, [_The New Dietetics, what to Eat and how: A Guide to Scientific Feeding in Health and Disease_](https://www.google.com/books/edition/_/CBGxvXF332cC?hl=en&gbpv=1&pg=PA1) (1921). Read the Preface (5--7); skim the Table of Contents (8--21); read 25--37.
 
-{% include alert.html class='danger' title='Reflections' text="
-- Group 1: Standard Reflection
-- Group 2: Comparative Reflection
+{% include alert.html class='danger' title='Reading Reflections' text="
+- Group 1: [Standard Reflection](reading-reflections#standard-reflection)
+- Group 2: [Comparative Reflection](reading-reflections#comparative-reflection)
 "%}
 
 
@@ -216,13 +214,19 @@ How does Atwater establish his credibility, authority, and expertise? How was hi
 
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-Even though they are published within a few years of each other, how do these authors differ in how they define a successful diet? How do the authors establish their expertise?
+Even though they are published within a few years of each other, how do the three authors from this week differ in how they define a successful diet? How do the authors establish their expertise?
 "%}
 
 
 
 ## Week 7: Vitamins
-You've probably heard that you should take your vitamins. Yes, they are crucial for health in minuscule amounts, but why is there so much focus on them? This looks at the discovery and marketing of vitamins in the early 1900s. The way the mere idea of vitamins reshaped nutritional thinking is still with us today. These readings also help us think about the relationship between scientific expertise and common sense. No M/W reading responses due this week, but a slightly longer weekly reflection.
+You've probably heard that you should take your vitamins. Of course they are crucial for health in minuscule amounts, but are we really in danger of falling short? why is there so much focus on them? This week we look more closely at the discovery and marketing of vitamins in the early 1900s. The way the mere idea of vitamins reshaped nutritional thinking is still with us today. These readings also help us think about the relationship between scientific expertise and common sense.
+
+{% include alert.html class='warning' title='NO READING REFLECTIONS' text="
+No M/W reading responses due this week, but a slightly longer weekly reflection.
+"%}
+
+
 
 ### Mon 09/28
 - Catherine Price, _Vitamania_, Chapter 4: Journey into Food, 47--63.
@@ -234,13 +238,19 @@ You've probably heard that you should take your vitamins. Yes, they are crucial 
 - Rima D. Apple, "'They Need it Now': Science, Advertising and Vitamins, 1925-1940".   
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-Are vitamins supplements necessary? Google some variant of that question and read through a handful of sites. Analyze the kinds of arguments made. Do you notice that they fall into distinct groups?  Does this history of vitamins matter in settling the debate?
+Are vitamins supplements necessary? Google some variant of that question and read through a handful of sites. Analyze the kinds of arguments made. Do you notice that they fall into distinct groups?  Does this history of vitamins matter in settling the debate? What's your take on the cacophony of modern vitamania?
 "%}
 
 
 
 ## Week 8: The fat enemy
 Is fat bad? Of course not, but to say it's controversial within dietary advice is a huge understatement. Why is this? This week examines how the idea of fat and fat bodies became something to avoid. Given the midterm-ness of this week, we're not doing individual reading responses, just a weekly learning reflection that ties everything together.
+
+{% include alert.html class='warning' title='NO READING REFLECTIONS' text="
+No M/W reading responses due this week, but a slightly longer weekly reflection.
+"%}
+
+
 
 ### Mon 10/5
 - Helen Zoe Veit, *Modern Food, Moral Food*, Chapter 7: The Triumph of the Will: The Progressive Body and the Thin Ideal, 157--80.
@@ -252,15 +262,15 @@ Is fat bad? Of course not, but to say it's controversial within dietary advice i
 ### Fri 10/09
 - Catherine Carstairs, “‘Our Sickness Record Is a National Disgrace’: Adelle Davis, Nutritional Determinism, and the Anxious 1970s”, 461--91.
 
-{% include alert.html class='danger' title='(short) Weekly reflection' text="
-What was most interesting this week?
+{% include alert.html class='danger' title='Weekly reflection' text="
+No specific question this week. Just write 800 words on what you found most interesting, surprising, confusing, etc.
 "%}
 
 
 
 
 ## Week 9: FLEX AND/OR BREAK
-Nothing scheduled this week.
+Nothing scheduled this week. If we need to catch up with anything, we can slot it in here, but we will get a few days off regardless to recharge for the last 6 weeks.
 
 ### Mon 10/12
 
@@ -276,10 +286,20 @@ Nothing scheduled this week.
 ### Mon 10/19
 - Gary Taubes and Cristin Kearns Couzens, [Big Sugar's Sweet Little Lies](https://www.motherjones.com/environment/2012/10/sugar-industry-lies-campaign/), _Mother Jones_ (Nov/Dec 2012).
 
+{% include alert.html class='danger' title='Reading reflection' text="
+Everyone writes on the same question today: Which perspective do you find more compelling why? What expertise is required to understand how to "end" obesity?
+"%}
+
+
 
 ### Wed 10/21
 - David H. Freedman, [How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true), _The Atlantic_ (August 2013).
 - Tom Philpott, [Why The Atlantic’s Defense of Junk Food Fails](http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails), _Mother Jones_ (August 2013).
+
+{% include alert.html class='danger' title='Reading reflection' text="
+Everyone writes on the same question today: Which perspective do you find more compelling why? What expertise is required to understand how to "end" obesity?
+"%}
+
 
 
 ### Fri 10/23
@@ -374,7 +394,7 @@ One of the main goals of this course is to sharpen critical faculties when it co
 
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up (still usual weekly reflection length). Reflecting on what we've done in the course so far, how well do you think the articles for this week establish/outline a productive future for understanding the relationship between nutrition, diet, and health? The more readings you can tie in from the course now, the easier and better your final will be.
+For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up (but still the usual weekly reflection length). Reflecting on what we've done in the course so far, how well do you think the articles for this week establish/outline a productive future for understanding the relationship between nutrition, diet, and health? The more readings you can tie in from the course now, the easier and better your final will be.
 "%}
 
 
