@@ -82,7 +82,7 @@ The little equations after the assignment type indicates `number of assignments`
 - [Final learning reflection](weekly-reflections) (1x20 = 20)
 
 
-### Grade Distribution (222 points)
+### Grade Distribution (220 points)
 Depending on how the course unfolds, the final number of points may change slightly. But the percent grading scale will remain basically the same, unless it becomes easier to get a higher grade.
 
 Percent | Grade

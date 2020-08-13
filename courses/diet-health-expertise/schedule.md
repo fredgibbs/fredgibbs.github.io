@@ -128,7 +128,7 @@ How does Cheyne's advice echo what we've been reading about up to this point? Wh
 
 
 ### Wed 9/09
-- Adam D. Shprintzen, _The Vegetarian Crusade_, Chapter 1: Proto-vegetarianism, 10-27; 32-38. [online](https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=88c9c3b4-4d25-4888-9fc3-504fe236d4f6%40sessionmgr103&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=nlebk&AN=582993) and in Zotero. This briefly describes some of the early religious sentiments supporting vegetarianism, but most importantly (and the reason we're reading it) it introduces Sylvester Graham and his historical context.
+- Adam D. Shprintzen, _The Vegetarian Crusade_, Chapter 1: Proto-vegetarianism, 10-27; 32-38. This briefly describes some of the early religious sentiments supporting vegetarianism, but most importantly (and the reason we're reading it) it introduces Sylvester Graham and his historical context.
 
 {% include alert.html class='danger' title='Reflections' text="
 - Group 1: Standard Reflection
@@ -327,7 +327,7 @@ How is Carson relevant to discussion of the effect of GMOs on our health? How is
 
 
 ### Fri 11/6
-- Wendee Nicole, "[Secret Ingredients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3620743/)", _Environmental Health Perspectives_ 121.6 (2013): A126--A133.
+- Wendee Nicole, "Secret Ingredients", _Environmental Health Perspectives_ 121.6 (2013): A126--A133.
 
 
 {% include alert.html class='danger' title='DEBATE!' text="
