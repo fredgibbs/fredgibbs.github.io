@@ -33,13 +33,11 @@ This assignment encourages you to bring what we've learned in class in critiquin
 - How does your food blog reflect contemporary attitudes toward diet and health? Or not?
 
 
-## Don't forget your learning assessment (1-10 scale)
-At the end of your food blog analysis, evaluate your own effort. You know the drill.
-
-- 1-3: **Marginal**. Skimmed the blog quickly and your analysis provides a coherent but rather simplistic description of its contents.
-- 4-6: **Fine**. Read the blog unevenly, but your analysis shows that you're starting to think critically about the questions above.
-- 7-8: **Very good**. Read the blog thoroughly, with partial answers to the above questions.
+## Grading
 - 9-10: **Excellent**. Spent significant time with your blog, and wrote up an original, expressive, and sophisticated analysis of what we can learn about diet and health from it.
+- 7-8: **Very good**. Read the blog thoroughly, with partial answers to the above questions.
+- 4-6: **Fine**. Read the blog unevenly, but your analysis shows that you're starting to think critically about the questions above.
+- 1-3: **Marginal**. Skimmed the blog quickly and your analysis provides a coherent but rather simplistic description of its contents.
 
 
 ## Questions
