@@ -286,8 +286,8 @@ Nothing scheduled this week. If we need to catch up with anything, we can slot i
 ### Mon 10/19
 - Gary Taubes and Cristin Kearns Couzens, [Big Sugar's Sweet Little Lies](https://www.motherjones.com/environment/2012/10/sugar-industry-lies-campaign/), _Mother Jones_ (Nov/Dec 2012).
 
-{% include alert.html class='danger' title='Reading reflection' text="
-Everyone writes on the same question today: Which perspective do you find more compelling why? What expertise is required to understand how to "end" obesity?
+{% include alert.html class='warning' title='NO READING REFLECTION' text="
+No Reading Reflection today!
 "%}
 
 
@@ -297,7 +297,7 @@ Everyone writes on the same question today: Which perspective do you find more c
 - Tom Philpott, [Why The Atlantic’s Defense of Junk Food Fails](http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails), _Mother Jones_ (August 2013).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Everyone writes on the same question today: Which perspective do you find more compelling why? What expertise is required to understand how to "end" obesity?
+Everyone writes on the same question today: Which perspective do you find more compelling why? What expertise is required to understand how to 'end' obesity? Is that ever possible?
 "%}
 
 
@@ -306,7 +306,7 @@ Everyone writes on the same question today: Which perspective do you find more c
 - David Berreby, [The Obesity Era](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong), *Aeon* (June 2013).
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-What is the role of nutrition science and research in understanding obesity? Which of the articles for this week resonated most strongly with you? Why?
+What is the role of nutrition science and research in understanding obesity? What is the food industry's role? Which of the articles for this week resonated most strongly with you? Why?
 "%}
 
 
