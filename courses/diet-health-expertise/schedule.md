@@ -21,7 +21,9 @@ There are a couple things to do just to make sure we're all connected. Please do
 
 - Take the Syllabus Quiz. The point is to confirm and highlight key aspects of the course to avoid confusion later. All quizzes are accessible through UNM Learn (there is a quizzes link on the left nav bar).
 
-- As an informal way of introducing ourselves, please post on the class Discussion Board in UNM Learn (should be an obvious link on the left nav bar) a very brief introduction, and just to get warmed up for the next few readings, address BRIEFLY the following: On a scale of really unhealthy to really healthy, how would you rate the general health of the United States population? What reasons or factors do you think contribute to our general population health.
+- As an informal way of introducing ourselves, please post on the class Discussion Board in UNM Learn (should be an obvious link on the left nav bar) a very brief introduction, AND, just to get warmed up for the next few readings, address BRIEFLY the following questions: 
+  - On a scale of really unhealthy to really healthy, how would you rate the general health of the United States population?
+  - Does much do you think knowledge of nutrition contribute individual dietary choices?
 "%}
 
 
@@ -39,7 +41,7 @@ No groups for this week. Everyone will post a 'standard' reading reflection (as 
 - Jessica J. Mudry, *Measured Meals. Nutrition in America*, 1-19 (Introduction: Eating by Numbers).
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-Remember that Fridays are always for WEEKLY reflections, not just individual reading reflections.
+Remember that Fridays are always for WEEKLY reflections, so you'll never write just about the Friday reading. You'll always discuss it in context with the rest of the week.
 
 How do Mundry and Taubes take very different approaches to thinking about nutrition? What are the assumptions of the authors in terms of how we create knowledge of nutrition? How much to you agree that we really don't know what a healthy diet is? How much do you agree that there are real dangers in quantification? Whose perspective/article is more convincing?
 "%}
@@ -343,6 +345,10 @@ How was Jenkins convincing and how was he not? Does the history of nutrition hol
 
 ## Week 12: Secret Ingredients and Regulation
 
+{% include alert.html class='warning' title='NO READING REFLECTIONS' text="
+No M/W reading responses due this week!
+"%}
+
 ### Mon 11/2  
 - NPR, _All Things Considered_ (host Ari Shapiro talks with author Deborah Blum), [How A 19th Century Chemist Took On The Food Industry With A Grisly Experiment](https://www.npr.org/sections/thesalt/2018/10/08/654066794/how-a-19th-century-chemist-took-on-the-food-industry-with-a-grisly-experiment) (October 8, 2018).
 
@@ -358,9 +364,9 @@ How was Jenkins convincing and how was he not? Does the history of nutrition hol
 
 
 {% include alert.html class='danger' title='DEBATE!' text="
-Based on your group assignment, use the evidence and reasoning and history in the articles to argue that the government should play EITHER a stronger or weaker role in regulating particular ingredients in food. Wednesdays readings are particularly useful here, so make sure to use them.
-- Group 1: Argue that the federal government should have a STRONGER role in food regulation
-- Group 2: Argue that the federal government should have a WEAKER role in food regulation
+Based on your group assignment, use the evidence and reasoning and history in the articles to argue in ~600 words (standard weekly reflection length) that government should play EITHER a stronger or weaker role in regulating particular ingredients in food. BOTH Wednesday's and today's readings are particularly useful here, so make sure to use them!
+- Group 1: Argue that the government should have a STRONGER role in food regulation
+- Group 2: Argue that the government should have a WEAKER role in food regulation
 "%}
 
 
@@ -399,11 +405,10 @@ One of the main goals of this course is to sharpen critical faculties when it co
 - Dariush Mozaffarian, Irwin Rosenberg, Ricardo Uauy, "History of modern nutrition science—implications for current research, dietary guidelines, and food policy", (_BMJ_ 2018;361:k2392).
 
 ### Fri 11/20
-- Dariush Mozaffarian, “Foods, Nutrients, and Health: As Modern Nutrition Science Evolves, When Will Our Policies Catch Up?” _The Lancet. Diabetes & Endocrinology_ 5.2 (February 2017): 85–88.
-
+- NO NEW READING, just your weekly reflection as explained below.
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up (but still the usual weekly reflection length). Reflecting on what we've done in the course so far, how well do you think the articles for this week establish/outline a productive future for understanding the relationship between nutrition, diet, and health? The more readings you can tie in from the course now, the easier and better your final will be.
+For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up (but still the usual weekly reflection length, ~800 words). Reflecting on what we've done in the course so far, how well does Wednesday's reading establishes/outlines a productive future for understanding the relationship between nutrition, diet, and health? Does it use history effectively? What kinds of things have we considered that don't appear in the article? The more readings you can tie in from the course now, the easier and better your final will be.
 "%}
 
 

@@ -26,7 +26,7 @@ Some guiding questions: How do dietary experts establish their expertise? Why ha
 ## Student Learning Objectives
 * Question and judge the extent to which ideas of health are constructed as much socially and culturally as well as scientifically
 * Interpret and explain the rhetoric of health in different historical periods
-* Outline how the establishment of dietary expertise has and has not changed over time.
+* Outline how the establishment of dietary expertise has and has not changed over time
 * Sharpen critical thinking and historical source analysis skills by evaluating primary sources on dietary advice
 * Describe and analyze how ideas of healthy diets have changed over time
 
@@ -41,14 +41,15 @@ This class is probably unlike most history classes you've taken, not least becau
 ## Getting Started
 This page, and the [schedule page](schedule), have all the instructions and assignments you need for the course. Make sure you are VERY FAMILIAR with these two pages. We use UNM Learn to manage quizzes, assignment submissions, and the discussion board, but all basic course information is on these two (separate) webpages.
 
-## General Work outline
-While we have no formal meetings, the class is organized to have modest reading assignments for most Mondays, Wednesday, Fridays.
 
-I hold you accountable for keeping up with the readings by asking you to respond to them (~150 words) twice per week (Mondays and Wednesday), plus a weekly learning reflection (~600 words, due most Fridays) that will address a few questions that I think will help tie together the readings for the week. In place of a few weekly learning reflections there are other assignments spice things up a bit. The workload generally decreases as the semester progresses.
+## General Work outline
+While we have no formal meetings, the class is organized around modest reading assignments for most Mondays, Wednesday, Fridays.
+
+I hold you accountable for keeping up with the readings by asking you to respond to them with very short ~150 words posts on Mondays and Wednesdays; on most Fridays, you'll post a a ~600-word weekly learning reflection that will address a few questions that will help tie together the readings for the week. In place of a few weekly learning reflections there are other assignments spice things up a bit. The frequency of written responses generally decreases as the semester progresses.
 
 The upshot is that your WORK FOR THE COURSE IS VERY EVENLY DISTRIBUTED across the semester. There are no big essays or exams or drawn-out research projects. There is a short ~1200-word final essay due the last day of finals. As long as you're keeping up with the readings (and I've tried to be quite modest in the amount), the course shouldn't ever become a burden on your workload or schedule. And by staying engaged throughout the semester, everyone will learn more and we (I mean me, too!) can avoid the stress of big assignments.
 
-Every so often there is no assignment due, just to give everyone a break, and we take most of a week off around the middle of the semester for a much needed siesta because semesters are WAY too long. Reading and assignment details are comprehensively outlined on the [schedule page](schedule).
+Every so often there is no assignment due, just to give everyone a break, and we take most of a week off around the middle of the semester for a much needed siesta because semesters are WAY too long. Reading and assignment details are comprehensively outlined on the [schedule page](schedule). More details about the assignments in the "Work Requirements and Grading" section below.
 
 
 ## Places to Find Stuff
@@ -60,11 +61,11 @@ Every so often there is no assignment due, just to give everyone a break, and we
 ## My attempt to facilitate some kind of teacher/student interaction
 I'm not much of a lecture guy; I much prefer discussions where we can listen and think and respond to each other. Nothing really replicates a collegial classroom discussion, but I think it's important we have a mechanism for informal communication as we might have before, during, or after class meetings.
 
-To that end, we are using a tool called Slack, a straightforward collaborative messaging platform (via web browser or desktop/mobile app) that allows us to stay connected and communicate quickly without the hassle of formal emails or UNM Learn messages. Our class has a dedicated [Slack workspace](http://diet-health-expertise.slack.com); to join it, first click the [invitation link](https://join.slack.com/t/diet-health-expertise/shared_invite/zt-fr3dhvtx-a3KB6TvgydhGhf9p6yYlxQ). You can post a public message if you have a general question or comment, or message just me if you have a more personal question. I keep an eye out for message notifications so I can get back to you quickly (likely much faster than email). I encourage you to post a "hello" message to make sure everything works, but that's optional.
+To that end, we are using a tool called Slack, a straightforward collaborative messaging platform (via web browser or desktop/mobile app) that allows us to stay connected and communicate quickly without the hassle of formal emails or UNM Learn messages. Our class has a dedicated [Slack workspace](http://diet-health-expertise.slack.com); to join it, first click the [invitation link](https://join.slack.com/t/diet-health-expertise/shared_invite/zt-fr3dhvtx-a3KB6TvgydhGhf9p6yYlxQ). You can post a public message if you have a general question or comment, or message just me if you have a more personal question. I keep an eye out for message notifications so I can respond quickly (likely much faster than email). I encourage you to post a "hello" message to make sure everything works, but that's optional.
 
-We also use Slack so you can ask general questions about a reading or the history of diet/health/expertise generally that you might have raised in a class discussion. For especially interesting questions I will record a 2-3 minute video answer that might help the course seem a bit less mechanical. You're the puppeteer, I'm the puppet!
+We also use Slack so you can ask general questions about a reading or the history of diet/health/expertise generally that you might have raised in a class discussion. For especially interesting questions, I will record a 2-3 minute video answer that might help the course seem a bit less impersonal. You're the puppeteer, I'm the puppet!
 
-Just as in a physical classroom, speaking up is always your choice. Because Slack is simply a tool to make it easier for us to communicate, it is not required that you use it. However, if you're asking questions and occasionally contributing to a thread (however tangential to the course) over the semester, that will definitely bump up your grade if your final point total for the course happens to be very nearly between two grades.
+Just as in a physical classroom, speaking up is always your choice. Because Slack is simply a tool to make it easier for us to communicate, it is not required that you use it. However, if you're asking questions and occasionally contributing a comment here or there (however tangential to the course) over the semester, that will definitely bump up your grade if your final point total for the course happens to be very nearly between two grades.
 
 
 
@@ -105,7 +106,7 @@ Percent | Grade
 
 
 ### Extra Credit (all due the last day of finals
-- [Food Documentary Critique](film-analysis) (4 points)
+- [Diet/Health/Food Documentary Critique](film-analysis) (4 points)
 - Other ideas? If you are interested in a particular topic related to the class and want to do a little extra work for some extra points, ask me about it! I'm quite flexible about helping people to work they are excited about that contributed to the learning objectives of the course. Even extra credit gets graded, though, so just doing something for the sake of doing it (as opposed to doing it well) doesn't necessarily get you many points.
 - CAREFUL: Extra credit is only available if all other work is turned in on time, and should be emailed to me directly. You can't use extra credit to make up for other assignments you don't like (sorry if you don't like them, but they are still important).
 
