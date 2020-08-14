@@ -8,7 +8,6 @@ title: using zotero | fred gibbs
 [Zotero](http://zotero.org) is a free tool developed by academics for academics for managing bibliographies used by millions of people around the world. It also helps groups of scholars (that's us!) share resources like PDFs. That's why we'll use it.
 
 There are two ways of getting course readings through the course Zotero Library.
-
 1. Use the [Zotero.org](http://zotero.org) website to access the materials online as you need them.
 2. HIGHLY RECOMMENDED: Install Zotero onto your computer. You get a much better interface and can access the readings offline (and take notes, etc).
 
@@ -20,28 +19,45 @@ Regardless of which method you use, **you must [sign up for a free account at zo
 
 
 ## Step 2: Find the email invitation and click the link in the message
-On the first day of class, you will get an email from zotero.org that will invite you to join the group library for the course. For security reasons I cannot simply add you to the group: **You must click the link in the invitation email to join the group!**
+On the first day of class, you will get an email from zotero.org that will invite you to join the group library for the course. For security reasons I cannot simply add you to the group: **You must click the link in the invitation email!**
 
 
 ## Step 3: Click the join button on the website
-After you click the link in the email, you end up at zotero.org, and there is an Accept button to join the library. You must click this button to join the group!
+After you click the link in the email, you end up at zotero.org. It may ask you to log in, if you're not already. If you log in but then end up at the zotero.org home screen, click the link in the email again.
+
+- Once you get back to the group library page, you'll see a red "join" button off to the right. You must click this button to join the group!
 
 
 ## Step 4: Verify you can see the course library online
-Now you'll be able to visit the course library (the link is on the syllabus home page). When you do this, you'll see a listing of course readings. When you click one of these links, you'll see at the bottom a link to a PDF. 
+Refresh your browser, and you'll be able to visit the course library (the link is on the syllabus home page). When you do this, you'll see a listing of course readings. When you double click one of these, a PDF of the reading should open.
 
 
-## TROUBLESHOOTING
-If you go to the course library page (on the syllabus home page),
-If you're not sure where you are at zotero.org, click the "groups" link in the menu bar. If you don't see a link to `diet-health-expertise-unm` then either you aren't logged into zotero.org or you haven't joined the group yet.
+## TROUBLESHOOTING FAQs
 
+### I'm at zotero.org, but I don't know how to find the group library.
+- Click on the "groups" tab at the top. If you don't see a link to `diet-health-expertise-unm` then either you aren't logged into zotero.org or you haven't joined the group yet. Restart at Step 1, or see last FAQ.
+
+### I can see the items on the group library page, but I can't open any PDFs.
+- First, check that you're logged in to zotero.org. There is a "Log In" link in the upper right of the page.
+- If you ARE logged in, then you haven't joined the group library. Restart at Step 1, or see last FAQ.
+
+### Nothing is working. How do I join the group library?
+- Go to zotero.org and make sure you're logged in. (You'll see "Log Out" in the upper right of the page)
+- Click the groups tab.
+- Search for `"diet-health-expertise-unm"`
+- Be sure the "groups" tab for searching is selected
+- Click the `diet-health-expertise-unm` link
+- Click the red "Join" button, which will send an email to me and I'll add you as soon as I see it.
+
+
+---
 
 ## HIGHLY RECOMMENDED: Install Zotero on your computer
 Using the Zotero website to access the readings will always work, but it's seriously clunky. If you [download and install Zotero](https://www.zotero.org/download/) on your computer, you'll have a much faster and clearer interface to the readings. Use the "Standalone" version. It is a small application that is entirely safe to install.
 
-While in the process of installing the Zotero application, you'll have the option to link your installation of Zotero to your online zotero.org account. Be sure to do this. If you complete the installation and have not told Zotero (the application) about your zotero.org account, go into the settings menu (the gear icon), and select the "Sync" tab. You can enter your username and password there.
+While in the process of installing the Zotero application, you'll have the option to link your installation of Zotero to your online zotero.org account. Be sure to do this. If you complete the installation and have not told Zotero (the application) about your zotero.org account, go into the Zotero preferences menu (however you get to application preferences menus on your platform), and select the "Sync" tab. You can enter your username and password there.
 
-Once you have connected the Zotero app to your zotero.org account, you will see on the leftmost column of your Zotero display, near the bottom, a “Group Libraries” header with a little arrow next to it. Click the arrow, and click on the course folder.
+Once you have connected the Zotero app to your zotero.org account, you will see on the leftmost column of your Zotero display, near the bottom, a “Group Libraries” header, and you'll see a `diet-health-expertise` folder; click on that to see the group library. Double clicking opens a PDF; click on the arrow to see all the associated PDFS for that item.
 
 If you've only recently joined the group library, Zotero will take a few minutes to download all the readings, but eventually you'll have all of them on your computer. If I update the Zotero library with a new reading (or a better scan or something like that), you'll automatically get it.
 
