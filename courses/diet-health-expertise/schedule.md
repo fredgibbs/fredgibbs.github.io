@@ -251,7 +251,6 @@ No M/W reading responses due this week, but a slightly longer weekly reflection.
 "%}
 
 
-
 ### Mon 10/5
 - Helen Zoe Veit, *Modern Food, Moral Food*, Chapter 7: The Triumph of the Will: The Progressive Body and the Thin Ideal, 157--80.
 
@@ -286,10 +285,9 @@ Nothing scheduled this week. If we need to catch up with anything, we can slot i
 ### Mon 10/19
 - Gary Taubes and Cristin Kearns Couzens, [Big Sugar's Sweet Little Lies](https://www.motherjones.com/environment/2012/10/sugar-industry-lies-campaign/), _Mother Jones_ (Nov/Dec 2012).
 
-{% include alert.html class='warning' title='NO READING REFLECTION' text="
-No Reading Reflection today!
+{% include alert.html class='danger' title='Reading reflection' text="
+Very general prompt for everyone today: Is this article rhetorically effective? How so? How not? Does the preponderance of industry research in nutrition make nutritional information in general (not just what specific studies say) more suspect?
 "%}
-
 
 
 ### Wed 10/21
@@ -319,16 +317,25 @@ What is the role of nutrition science and research in understanding obesity? Wha
 - Ralph H. Lutts, “Chemical Fallout: Rachel Carson’s Silent Spring, Radioactive Fallout, and the Environmental Movement.” _Environmental Review_ 9.3 (1985): 211--25.
 - Rachel Carson, _Silent Spring_, 5--13; 15--37.
 
+{% include alert.html class='danger' title='Reading Reflections' text="
+- Group 1: [Standard Reflection](reading-reflections#standard-reflection)
+- Group 2: [Connective Reflection](reading-reflections#connective-reflection)
+"%}
+
 
 ### Wed 10/28
 - Warren Belasco, _Appetite for Change_, Chapter 5: The Orthodox Defense: The War of the Metaphors, 111--131.
 
+{% include alert.html class='danger' title='Reading Reflections' text="
+- Group 1: [Comparative Reflection](reading-reflections#comparative-reflection)
+- Group 2: [Standard Reflection](reading-reflections#standard-reflection)
+"%}
 
 ### Fri 10/30
 - McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 1--46 (Prologue; Are GMOs Safe?).
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-How is Carson relevant to discussion of the effect of GMOs on our health? How is it not?
+How was Jenkins convincing and how was he not? Does the history of nutrition hold any relevance to understanding the debate about GMOs? Should the history as explained by Carson and Belasco be a bigger part of explaining why the debate over GMOs matter?
 "%}
 
 
@@ -351,7 +358,9 @@ How is Carson relevant to discussion of the effect of GMOs on our health? How is
 
 
 {% include alert.html class='danger' title='DEBATE!' text="
-Based on your group assignment, use the evidence and reasoning and history in the articles to argue that the government should play EITHER a stronger or weaker role in regulating particular ingredients in food.
+Based on your group assignment, use the evidence and reasoning and history in the articles to argue that the government should play EITHER a stronger or weaker role in regulating particular ingredients in food. Wednesdays readings are particularly useful here, so make sure to use them.
+- Group 1: Argue that the federal government should have a STRONGER role in food regulation
+- Group 2: Argue that the federal government should have a WEAKER role in food regulation
 "%}
 
 
