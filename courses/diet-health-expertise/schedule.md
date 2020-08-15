@@ -21,9 +21,7 @@ There are a couple things to do just to make sure we're all connected. Please do
 
 - Take the Syllabus Quiz. The point is to confirm and highlight key aspects of the course to avoid confusion later. All quizzes are accessible through UNM Learn (there is a quizzes link on the left nav bar).
 
-- As an informal way of introducing ourselves, please post on the class Discussion Board in UNM Learn (should be an obvious link on the left nav bar) a very brief introduction, AND, just to get warmed up for the next few readings, address BRIEFLY the following questions: 
-  - On a scale of really unhealthy to really healthy, how would you rate the general health of the United States population?
-  - Does much do you think knowledge of nutrition contribute individual dietary choices?
+- Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post a brief introduction to who you are and some opinion about diet and health that you've changed your mind about---we all have many! These should be substantive but not long, ~150 words or so.
 "%}
 
 
@@ -32,7 +30,7 @@ There are a couple things to do just to make sure we're all connected. Please do
 - Gary Taubes, [Why Nutrition is So Confusing](https://search-proquest-com.libproxy.unm.edu/docview/1496257577/fulltext/61D8DF94940D48FBPQ/1?accountid=14613).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-No groups for this week. Everyone will post a 'standard' reading reflection (as described on the [reading reflections](reading-reflections) page), addressing the following: How much do you agree or disagree with this article? Feel free to draw personal experiences, whatever you've read about diet/nutrition, other courses, etc.
+No groups for this week. Everyone will post a 'standard' reading reflection (as described on the [reading reflections](reading-reflections) page), addressing the following: How much do you agree or disagree with this article?  How much much do you think knowledge of nutrition contribute individual dietary choices?? Feel free to draw personal experiences, whatever you've read about diet/nutrition, other courses, etc.
 "%}
 
 
@@ -54,7 +52,8 @@ This week we cover medical and dietary thinking from ancient Greece and Rome thr
 
 ### Mon 8/24
 - Classical medicine, diet, and intro to Galen Lecture (link TBP)
-- Selections from Mark Grant (tr.), _Galen on Food and Diet_: 1-8; 14-18; 68-84.
+- Mark Grant, _Galen: On Food and Diet_, 1-8. These few pages provide a general introduction to the classical physician Galen (died circa 215 CE) and ancient medicine. The author of the introduction has translated many of Galen's writing about food, and we'll read a excerpt from those as noted below.
+- Galen, (tr. Mark Grant), _On the Humors_, 14-18; _On the Power of Foods_, 68-84.
 
 {% include alert.html class='danger' title='Reading reflection' text="
 Still getting settled: no groups for this week. Everyone will post a regular ~200 word reading reflection to address the following:
@@ -117,7 +116,7 @@ How does Cheyne's advice echo what we've been reading about up to this point? Wh
 
 
 ## Week 4: Natural and Moral Diets of the 1800s
-
+The dietary advice we saw directly primarily toward the upper classes in the previous week moves into the emerging middle class in the early 19th century. In particular, physicians and moral reformers see diets changing as a result of industrialization and urbanization as a distinct societal ill. We look at how moral and dietary advice become even more tightly coupled throughout the 1800s. Later in the course, we'll see how that link has persisted even into the present day.
 
 ### Mon 9/07
 - Emerging Questions on Natural Diets (link TBP)
@@ -136,8 +135,6 @@ How does Cheyne's advice echo what we've been reading about up to this point? Wh
 - Group 1: [Standard Reflection](reading-reflections#standard-reflection)
 - Group 2: [Comparative Reflection](reading-reflections#comparative-reflection)
 "%}
-
-
 
 
 ### Fri 9/11
@@ -288,7 +285,7 @@ Nothing scheduled this week. If we need to catch up with anything, we can slot i
 - Gary Taubes and Cristin Kearns Couzens, [Big Sugar's Sweet Little Lies](https://www.motherjones.com/environment/2012/10/sugar-industry-lies-campaign/), _Mother Jones_ (Nov/Dec 2012).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Very general prompt for everyone today: Is this article rhetorically effective? How so? How not? Does the preponderance of industry research in nutrition make nutritional information in general (not just what specific studies say) more suspect?
+Everyone writes on the same question today: Is this article rhetorically effective? How so? How not? Does the preponderance of industry research in nutrition make nutritional information in general (not just what specific studies say) more suspect?
 "%}
 
 
@@ -379,11 +376,18 @@ Based on your group assignment, use the evidence and reasoning and history in th
 
 - James Hamblin, [Lectins Could Become the Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/), (_The Atlantic_ April 24, 2017).
 
+{% include alert.html class='danger' title='Reading reflection' text="
+Everyone writes on the same question today: Which perspective do you find more compelling why? What expertise is required to understand how to 'end' obesity? Is that ever possible?
+"%}
 
 ### Wed 11/11
 - Elizabeth G. Dunn, [Meet the Startup That Thinks DNA Can Predict Your Best Diet](https://medium.com/s/futurehuman/is-the-secret-to-better-nutrition-encoded-in-our-genes-e0cfd1ad11a8) (_OneZero_, July 2018).
 
 - Richard Sprague, [So Should I Eat Apples, or Not?](https://medium.com/neodotlife/review-of-viome-f024423a3d3a) (_NEO.LIFE_, February 2018).
+
+{% include alert.html class='danger' title='Reading reflection' text="
+Everyone writes on the same question today: Which perspective do you find more compelling why? What expertise is required to understand how to 'end' obesity? Is that ever possible?
+"%}
 
 
 ### Fri 11/13
@@ -391,8 +395,9 @@ Eddie Kim, [THEIR DIET? 100 PERCENT MEAT. AND THEY SAY THEY’VE NEVER FELT HEAL
 
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-One of the main goals of this course is to sharpen critical faculties when it comes to critiquing dietary advice. So let's practice. For your post this week, critique the Eddie Kim article using the kinds of arguments you found in the other articles for this week. What does it do well? Where does it use history effectively? What kinds of issues have we covered in class that it should have used more?
+One of the main goals of this course is to sharpen critical faculties when it comes to dietary advice. So let's practice! For your post this week, critique the Eddie Kim article using the kinds of arguments you found in the other articles for this week. What does it do well? How does it disappoint? Where does it use history effectively? What kinds of issues have we covered in class that it should have used more?
 "%}
+
 
 
 
@@ -401,8 +406,18 @@ One of the main goals of this course is to sharpen critical faculties when it co
 ### Mon 11/16
 - Christie Aschwanden, [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/), (_FiveThirtyEight_, Jan 6, 2016).
 
+{% include alert.html class='danger' title='Reading Reflections' text="
+- Group 1: [Connective Reflection](reading-reflections#connective-reflection)
+- Group 2: [Standard Reflection](reading-reflections#standard-reflection)
+"%}
+
 ### Wed 11/18
 - Dariush Mozaffarian, Irwin Rosenberg, Ricardo Uauy, "History of modern nutrition science—implications for current research, dietary guidelines, and food policy", (_BMJ_ 2018;361:k2392).
+
+{% include alert.html class='warning' title='NO READING REFLECTIONS' text="
+No reading responses due today, but look ahead to Friday.
+"%}
+
 
 ### Fri 11/20
 - NO NEW READING, just your weekly reflection as explained below.
@@ -416,29 +431,32 @@ For your weekly reflection this week, we're going to do a kind of a Final Course
 ## Week 15: Food Traditions and Societal Health
 We can't NOT read about Thanksgiving this week! These readings have nothing to do with diet/health, but it's useful to think about civic health in addition to bodily health. Can food make
 
+### Wed 11/25 (or anytime this week)
 - Andrew F. Smith, “The First Thanksgiving”, _Gastronomica_ 3.4 (2003): 79–85.
 - Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70–74.
 - David Foster Wallace, "Consider the Lobster", _Gourmet_ (August 2004), 50--64. READ THE FOOTNOTES!
 - [Michael Twitty on Culinary Justice](https://www.youtube.com/watch?v=EhxjC3XX54g)
 
 {% include alert.html class='danger' title='Weekly/Feasting Reflection' text="
-Do food traditions play a role in societal health?
+Do food traditions play a role in societal health? How will you celebrate/protest Thanksgiving this year?
 "%}
 
 ### Thurs 11/26: Thanksgiving!
-How will you celebrate/protest?
+Think about how important (or not) food traditions are for you. Does the food itself really matter, or is it just a vehicle for other social functions? Could it be getting in the way of something more important? Or are memories and kinship intimately bonded to what we eat? Safe travels (if applicable) and enjoy the mini-break!
 
 
 
 ## Week 16: Review and Reflection 2
+Winding down with one last assignment---in lieu of the weekly learning reflection, there is the food blog analysis that gives you a chance to apply the thinking and analytical approach from this class "in the wild".
+
 
 ### Mon 11/30
-- Food Blog Analysis Overview video (link TBP)
+- [Food Blog Analysis]((food-blog-analysis) pro tips video (link TBP). This will be more detail and a quick walk-thru example of how to do the food blog analysis (due Friday).  
 
 ### Wed 12/02
 NO READING
 
 ### Fri 12/04
 {% include alert.html class='danger' title='Food Blog Analysis' text="
-As a preparatory exercise for the final, your food blog analysis is due today. We have read a lot about explicit dietary advice, but obviously a lot of what we 'know' about health and diet comes from packages, ads, cookbooks, and so on. What can modern food blogs tell us about the relationship between food, health, and diet? What issues have we covered in class are present or missing?
+As a preparatory exercise for the final, your [food blog analysis](food-blog-analysis) is due today. We have read a lot about explicit dietary advice, but obviously a lot of what we 'know' about health and diet comes from packages, ads, cookbooks, and so on. What can modern food blogs tell us about the relationship between food, health, and diet? What issues have we covered in class are present or missing?
 "%}

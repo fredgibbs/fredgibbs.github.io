@@ -45,9 +45,11 @@ This page, and the [schedule page](schedule), have all the instructions and assi
 ## General Work outline
 While we have no formal meetings, the class is organized around modest reading assignments for most Mondays, Wednesday, Fridays.
 
-I hold you accountable for keeping up with the readings by asking you to respond to them with very short ~150 words posts on Mondays and Wednesdays; on most Fridays, you'll post a a ~600-word weekly learning reflection that will address a few questions that will help tie together the readings for the week. In place of a few weekly learning reflections there are other assignments spice things up a bit. The frequency of written responses generally decreases as the semester progresses.
+I hold you accountable for keeping up with the readings by asking you to respond to them with very short ~150 words posts on Mondays and Wednesdays; on most Fridays, you'll post a a ~600-word weekly learning reflection that will address a few questions that will help tie together the readings for the week. In place of a few weekly learning reflections there are other assignments to spice things up a bit. The frequency of written responses generally decreases as the semester progresses.
 
-The upshot is that your WORK FOR THE COURSE IS VERY EVENLY DISTRIBUTED across the semester. There are no big essays or exams or drawn-out research projects. There is a short ~1200-word final essay due the last day of finals. As long as you're keeping up with the readings (and I've tried to be quite modest in the amount), the course shouldn't ever become a burden on your workload or schedule. And by staying engaged throughout the semester, everyone will learn more and we (I mean me, too!) can avoid the stress of big assignments.
+These short writing assignments should add up to LESS TIME than you would have spent going to class. And you might learn more as well, so WIN WIN!
+
+The upshot of this approach is that your WORK FOR THE COURSE IS VERY EVENLY DISTRIBUTED across the semester. There are no big essays or exams or drawn-out research projects. There is a short ~1200-word final essay due the last day of finals. As long as you're keeping up with the readings (and I've tried to be quite modest in the amount), the course shouldn't ever become a burden on your workload or schedule. And by staying engaged throughout the semester, everyone will learn more and we (I mean me, too!) can avoid the stress of big assignments.
 
 Every so often there is no assignment due, just to give everyone a break, and we take most of a week off around the middle of the semester for a much needed siesta because semesters are WAY too long. Reading and assignment details are comprehensively outlined on the [schedule page](schedule). More details about the assignments in the "Work Requirements and Grading" section below.
 
@@ -80,14 +82,14 @@ TO BE CLEAR: LITERALLY EVERYTHING you need for the course is either already free
 Assignments are worth either 2 points (weekly discussion posts), 10 points (weekly learning reflections), or 20 points (larger assignments and the final learning reflection)
 
 The little equations after the assignment type indicates `number of assignments` x `points for each` x `weight` = `total points`
-- Occasional reading/lecture quizzes (4x6x.5 = 18)
+- Occasional reading/lecture quizzes (4x8x.5 = 16)
 - [Reading reflections](reading-reflections)(16x2 = 32)
 - [Weekly learning reflections](weekly-reflections) (13x10 = 130) (usually in response to a particular question)
 - [Food blog analysis](food-blog-analysis) (1x20 = 20)
 - [Final learning reflection](weekly-reflections) (1x20 = 20)
 
 
-### Grade Distribution (220 points)
+### Grade Distribution (218 points)
 Depending on how the course unfolds, the final number of points may change slightly. But the percent grading scale will remain basically the same, unless it becomes easier to get a higher grade.
 
 Percent | Grade
