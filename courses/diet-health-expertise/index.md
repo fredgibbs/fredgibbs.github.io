@@ -54,7 +54,7 @@ Every so often there is no assignment due, just to give everyone a break, and we
 
 ## Places to Find Stuff
 - [UNM Learn](http://learn.unm.edu). All assignments will be submitted via UNM Learn.
-- [Zotero](http://zotero.org); see the [getting started guide](http://fredgibbs.net/courses/etc/zotero); once connected you can access the [course library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library). All course readings not already online will be available through Zotero.
+- [Zotero](http://zotero.org); see the [getting started guide](http://fredgibbs.net/courses/etc/zotero); once connected you can access the [course library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library), which is named `diet-health-expertise-unm`. All course readings not already online will be available through Zotero.
 - [YouTube Channel](https://www.youtube.com/channel/UCt6_7arYzi4TcIIwo7TLURw) will host mini-lectures and other screencasts. I will post announcements of new videos in Learn (which send an email to you as well). I highly recommend that you either subscribe or bookmark the channel so you have quick access to it.
 
 
