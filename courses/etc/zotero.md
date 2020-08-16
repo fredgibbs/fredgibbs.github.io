@@ -27,10 +27,12 @@ Click on the "Groups" tab or nav bar link. Once you're on the [groups page](http
 If you don't see a red "Join" button, it's because you registered for the class after I sent out the invitations to join the group library or you are logged in with a non-UNM email address. Either way, skip to the "I didn't get an invitation" section below.
 
 ## Step 4: Click the red "Join" button
-Click the red "Join" button off to the right. Notice that you'll see a little message at the top that you've joined the group library, but you still won't see any readings or anything.
+Click the red "Join" button off to the right. Nothing really changes on the webpage, but that's fine.  
 
 ## Step 5: Verify you can see the course library online
-Reload the webpage (Command-R or Control-R), and you should now be able to see the course library and all the readings for the semester. When you click one of these, you'll go to a metadata page with a link to a PDF of the reading at the bottom. If you can open a PDF this way, everything is working.
+Click again on the "Groups" tab, and you should now be able to see the course library and all the readings for the semester. When you click one of these, you'll go to a metadata page with a link to a PDF of the reading at the bottom. If you can open a PDF this way, everything is working.
+
+NOTE: If you are using the New Beta version of zotero.org, then you'll want to look for the "attachments" tab on the right after you select an item.
 
 ---
 
