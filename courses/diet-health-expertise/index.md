@@ -56,25 +56,35 @@ Every so often there is no assignment due, just to give everyone a break, and we
 
 ## Places to Find Stuff
 - [UNM Learn](http://learn.unm.edu). All assignments will be submitted via UNM Learn.
-- We use a tool called [Zotero](http://zotero.org) to access PDFs for the course; see the [getting started guide](http://fredgibbs.net/courses/etc/zotero); once connected you can access the [course library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library), which is named `diet-health-expertise-unm`. ALL course readings not already online will be ONLY available through Zotero (unless you track them down on your own, which you should never need to do).
 - [YouTube Channel](https://www.youtube.com/channel/UCt6_7arYzi4TcIIwo7TLURw) will host mini-lectures and other screencasts. I will post announcements of new videos in Learn (which send an email to you as well). I highly recommend that you either subscribe or bookmark the channel so you have quick access to it.
+
+### Zotero
+We use a tool called [Zotero](http://zotero.org) to access PDFs for the course. We have what's called a group library that holds all the readings for the course. To get connected, see the [getting started guide](http://fredgibbs.net/courses/etc/zotero). Once connected you can access the [course library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library).
+
+NOTE: ALL course readings not already online will be ONLY available through Zotero (unless you track them down on your own, which you should never need to do).
+
+#### Quick Info
+- Group Library Name: `diet-health-expertise-unm` (in case you need to look it up at zotero.org)
+- Group Library URL: [https://www.zotero.org/groups/642043/diet-health-expertise-unm/library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library). Remember that you can only see the group library if you have joined it.
+
+
 
 
 ## My attempt to facilitate some kind of teacher/student interaction
 I'm not much of a lecture guy; I much prefer discussions where we can listen and think and respond to each other. Nothing really replicates a collegial classroom discussion, but I think it's important we have a mechanism for informal communication as we might have before, during, or after class meetings.
 
-To that end, we are using a tool called Slack, a straightforward collaborative messaging platform (via web browser or desktop/mobile app) that allows us to stay connected and communicate quickly without the hassle of formal emails or UNM Learn messages. Our class has a dedicated [Slack workspace](http://diet-health-expertise.slack.com); to join it, first click the [invitation link](https://join.slack.com/t/diet-health-expertise/shared_invite/zt-fr3dhvtx-a3KB6TvgydhGhf9p6yYlxQ). You can post a public message if you have a general question or comment, or message just me if you have a more personal question. I keep an eye out for message notifications so I can respond quickly (likely much faster than email). I encourage you to post a "hello" message to make sure everything works, but that's optional.
+To that end, we are using a tool called Slack, a straightforward collaborative messaging platform (via web browser or desktop/mobile app) that allows us to stay connected and communicate quickly without the hassle of formal emails or UNM Learn messages. Our class has a dedicated [Slack workspace](http://diet-health-expertise.slack.com). To join it, first click the [invitation link](https://join.slack.com/t/diet-health-expertise/shared_invite/zt-fr3dhvtx-a3KB6TvgydhGhf9p6yYlxQ). You can post a public message if you have a general question or comment, or message just me if you have a more personal question. I keep an eye out for message notifications so I can respond quickly (likely much faster than email). I encourage you to post a "hello" message to make sure everything works, but that's optional.
 
-We also use Slack so you can ask general questions about a reading or the history of diet/health/expertise generally that you might have raised in a class discussion. For especially interesting questions, I will record a 2-3 minute video answer that might help the course seem a bit less impersonal. You're the puppeteer, I'm the puppet!
+We also use Slack so you can ask  questions about a reading or the history of diet/health/expertise generally that you might have raised in a class discussion. For especially interesting questions, I will record a 2-3 minute video answer that might help the course seem a bit less impersonal. You're the puppeteer, I'm the puppet!
 
-Just as in a physical classroom, speaking up is always your choice. Because Slack is simply a tool to make it easier for us to communicate, it is not required that you use it. However, if you're asking questions and occasionally contributing a comment here or there (however tangential to the course) over the semester, that will definitely bump up your grade if your final point total for the course happens to be very nearly between two grades.
+Just as in a physical classroom, speaking up is always your choice. Because Slack is simply a tool to make it easier for us to communicate, it is not required that you use it during the semester. However, if you're asking questions and occasionally contributing a comment here or there (however tangential to the course), that will bump up your final grade if your final point total for the course happens to be very nearly between two grades.
 
 
 
 ## Required Texts
 There are NO REQUIRED BOOKS OR READERS for the course; everything is accessible online. However, you will need to accept an invitation to join the course Zotero library to access many of the assigned articles and book chapters. See the Tech Tools section above for instructions and links.
 
-TO BE CLEAR: LITERALLY EVERYTHING you need for the course is either already freely available online, or is a PDF in our Zotero library. If you ever think you need to track something down on your own, you are not connected to Zotero properly.
+TO BE CLEAR: LITERALLY EVERYTHING you need for the course is either already freely available online (and linked to on the syllabus), or is a PDF in our Zotero library. If you ever think you need to track something down on your own, you are not connected to Zotero properly.
 
 
 

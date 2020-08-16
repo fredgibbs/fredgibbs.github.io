@@ -7,11 +7,11 @@ title: using zotero | fred gibbs
 
 [Zotero](http://zotero.org) is a free and popular tool developed by academics for academics for managing bibliographies to share resources like PDFs.
 
-To access the course readings, you'll need to join our group library for the course. On the first day of class, I send invitations to all registered students to join our group library. If you have registered after then and are trying to connect to the course library, you'll need to skip to the "I didn't get an invitation" section below.
+To access the course readings, you'll need to join our group library for the course. On the first day of class, I send invitations to all registered students to join our group library. If you registered after then and are trying to connect to the course library, you'll need to skip to the "I didn't get an invitation" section below.
 
-If you clicked on the link in the invitation from zotero.org, you may have completed all these steps already. If you did (or think you did), skip to Step 5 to verify everything is working. Otherwise, start at Step 1 or 2.
+If you have already clicked on the link in the invitation from zotero.org, you may have completed all these steps already. If you did (or think you did), skip to Step 5 to verify everything is working. Otherwise, start at Step 1 or 2, depending on whether you've created an account or not.
 
-If you already have a Zotero account (from a previous course, perhaps), skip to Step 2. But you need to join a new library for each course.
+If you already have a Zotero account (from a previous course, perhaps), skip to Step 2. Each course has a separate library that you need to join.
 
 
 ## Step 1: Create a Zotero account
@@ -21,10 +21,10 @@ If you don't have one already, [sign up for a free account at zotero.org](https:
 If you are, there will be a "Log Out" link in the upper right corner of the page.
 
 ## Step 3: Go to the Groups page
-Click on the "Groups" tab or nav bar link. Once you're on the groups page, you should see off to the right that you have been invited to join our library, and you'll see a red "Join" button. If instead you happen to see a link to the course library on the main part of the page, then you're all good. Skip to Step 5.
+Click on the "Groups" tab or nav bar link. Once you're on the [groups page](https://www.zotero.org/groups/), you should see off to the right that you have been invited to join our course library, and you'll see a red "Join" button. If instead you happen to see a link to the course library on the main part of the page, then you're already connected.
 
 ## NO JOIN BUTTON?
-If you don't see a Join button, it's because you registered for the class after I sent out the invitations to join the group library. Skip to the "I didn't get an invitation" section below.
+If you don't see a red "Join" button, it's because you registered for the class after I sent out the invitations to join the group library or you are logged in with a non-UNM email address. Either way, skip to the "I didn't get an invitation" section below.
 
 ## Step 4: Click the red "Join" button
 Click the red "Join" button off to the right. Notice that you'll see a little message at the top that you've joined the group library, but you still won't see any readings or anything.

@@ -11,7 +11,10 @@ section: schedule
 
 
 ## Week 1: Introductions + Key Concepts
-This week we're just getting up to speed and reading two VERY different perspectives on how we can think about the links between nutrition and health generally. You have a few short introductory assignments to complete by the
+This week we're just getting up to speed and reading two VERY different perspectives on how we can think about the links between nutrition and health generally. You have a few short introductory assignments to complete before Wednesday (ideally on Monday), and we jump into our more or less regular routine starting on Wednesday.
+
+All assignments are DUE BY MIDNIGHT on the day they are listed on this page. Let me know if something is not clear (ideally via Slack)!
+
 
 ### Mon 8/17  
 - Introduction to the course, syllabus, and expectations.
