@@ -186,7 +186,7 @@ How does Atwater establish his credibility, authority, and expertise? How was hi
 
 
 ## Week 6: Early Dietary Advice + Expertise comparison
-This is a week of primary sources---dietary advice texts written between 1918 and 1922. They are all COMPLETELY different in their tone, approach, rhetoric, and the way they cultivate expertise. So we'll look at how the same cultural context could yield such different texts and how they collectively tell a very different story about the history of diet/health/nutrition than any one of them alone could do. 
+This is a week of primary sources---dietary advice texts written between 1918 and 1922. They are all COMPLETELY different in their tone, approach, rhetoric, and the way they cultivate expertise. So we'll look at how the same cultural context could yield such different texts and how they collectively tell a very different story about the history of diet/health/nutrition than any one of them alone could do.
 
 ### Mon 9/21
 - Lulu Hunt Peters,  [Diet and Health: With Key to the Calories](https://www.google.com/books/edition/Diet_and_Health/f7UXAAAAYAAJ?hl=en&gbpv=1) (1918).
@@ -388,7 +388,7 @@ Everyone writes on the same question today: How would you compare these two crit
 - Richard Sprague, [So Should I Eat Apples, or Not?](https://medium.com/neodotlife/review-of-viome-f024423a3d3a) (_NEO.LIFE_, February 2018).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Everyone writes on the same question today: What is your opinion on genetically informed diets? Take a broad philosophical approach to answering the question. Avoid simplistic and unhelpful conclusions like "if it works than it's good". Sure, that's true for everything. The real question is: can they EVER work? And if they COULD, would that entail a health/productive relationship to food?
+Everyone writes on the same question today: What is your opinion on genetically informed diets? Take a broad philosophical approach to answering the question. Avoid simplistic and unhelpful conclusions like 'if it works then it's fine'. Think about questions like: Can they EVER work? And if they COULD, would that entail a health/productive relationship to food?
 "%}
 
 
