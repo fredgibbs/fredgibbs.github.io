@@ -40,7 +40,7 @@ NOTE: If you are using the New Beta version of zotero.org, then you'll want to l
 
 ## I didn't get an invitation
 - Go to zotero.org and make sure you're logged in. You can verify this by looking for a "Log Out" link in the upper right corner of the page.
-- Go to the group library page at [https://www.zotero.org/groups/642043/diet-health-expertise-unm/library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library)
+- Go to the group library page at [https://www.zotero.org/groups/642043/diet-health-expertise-unm](https://www.zotero.org/groups/642043/diet-health-expertise-unm)
 - Click the red "Join" button off to the right, which will send an email to me and I'll approve your request to join the group as soon as I see it.
 
 ---
