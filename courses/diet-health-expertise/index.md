@@ -24,14 +24,14 @@ Some guiding questions: How do dietary experts establish their expertise? Why ha
 
 
 ## Student Learning Objectives
-* Question and judge the extent to which ideas of health are constructed as much socially and culturally as well as scientifically
+* Question and judge the extent to which ideas of health are constructed as much socially and culturally as scientifically
 * Interpret and explain the rhetoric of health in different historical periods
 * Outline how the establishment of dietary expertise has and has not changed over time
-* Sharpen critical thinking and historical source analysis skills by evaluating primary sources on dietary advice
-* Describe and analyze how ideas of healthy diets have changed over time
+* Sharpen critical thinking about diet/health/expertise
+* Advance historical source analysis skills by evaluating primary sources on dietary advice
 
 ### Bottom Line
-This class is NOT concerned primarily with learning the history of diet and health, but using examples from it to learn about medical expertise generally, with a particular focus on dietary expertise.
+This class is NOT concerned primarily with learning the history of diet and health, but using examples from it to learn about medical expertise (with a particular focus on diet/health), as well as the power of health-centric rhetoric. This class is concerned with HOW TO THINK, not WHAT TO KNOW.
 
 
 ## You are welcome here

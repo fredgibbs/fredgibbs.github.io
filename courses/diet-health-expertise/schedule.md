@@ -148,6 +148,7 @@ How, if at all, are dietary concerns of the early 19th century---especially conc
 
 
 ## Week 5: Scientific and Quantified Eating
+There has been no bigger shift in dietary advice than a shift to understanding health and what we eat in terms of numbers, averages, and scales. This week examines some of the earliest developments in quantification of dietary knowledge and advice. Of course we confront the implications of this paradigm shift each day as we see nutritional information labels, scales, and watch-like devices that count our number of steps each day.
 
 ### Mon 9/14
 - Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67.
@@ -185,6 +186,7 @@ How does Atwater establish his credibility, authority, and expertise? How was hi
 
 
 ## Week 6: Early Dietary Advice + Expertise comparison
+This is a week of primary sources---dietary advice texts written between 1918 and 1922. They are all COMPLETELY different in their tone, approach, rhetoric, and the way they cultivate expertise. So we'll look at how the same cultural context could yield such different texts and how they collectively tell a very different story about the history of diet/health/nutrition than any one of them alone could do. 
 
 ### Mon 9/21
 - Lulu Hunt Peters,  [Diet and Health: With Key to the Calories](https://www.google.com/books/edition/Diet_and_Health/f7UXAAAAYAAJ?hl=en&gbpv=1) (1918).
@@ -205,11 +207,11 @@ How does Atwater establish his credibility, authority, and expertise? How was hi
 
 
 ### Fri 9/25
-- Elmer McCollum, [The Newer Knowledge of Nutrition](https://www.google.com/books/edition/_/jndUnd5xX5wC?hl=en&gbpv=1) (1922).
+- Elmer McCollum, [The Newer Knowledge of Nutrition](https://www.google.com/books/edition/_/jndUnd5xX5wC?hl=en&gbpv=1) (1922). Stuff to think about:
   - Read the preface (xii--ix), skim the Table of Contents, and read 1--13.
   - How would you characterize the contents of the book?
   - How does McCollum establish his expertise and legitimize the "new" way of studying nutrition and bodily health?
-  - How does the text differ from what impression you get from Price's chapter?
+  - How does the text differ from what impression you get from Price's chapters about vitamins?
 
 
 {% include alert.html class='danger' title='Weekly reflection' text="
@@ -377,7 +379,7 @@ Based on your group assignment, use the evidence and reasoning and history in th
 - James Hamblin, [Lectins Could Become the Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/), (_The Atlantic_ April 24, 2017).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Everyone writes on the same question today: Which perspective do you find more compelling why? What expertise is required to understand how to 'end' obesity? Is that ever possible?
+Everyone writes on the same question today: How would you compare these two critiques of relatively new diets? Is one more effective than the other? WHY? What similar and different techniques do they use to communicate their skepticism to the reader? These writers are not dietary experts, but are they convincing to you?
 "%}
 
 ### Wed 11/11
@@ -386,7 +388,7 @@ Everyone writes on the same question today: Which perspective do you find more c
 - Richard Sprague, [So Should I Eat Apples, or Not?](https://medium.com/neodotlife/review-of-viome-f024423a3d3a) (_NEO.LIFE_, February 2018).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Everyone writes on the same question today: Which perspective do you find more compelling why? What expertise is required to understand how to 'end' obesity? Is that ever possible?
+Everyone writes on the same question today: What is your opinion on genetically informed diets? Take a broad philosophical approach to answering the question. Avoid simplistic and unhelpful conclusions like "if it works than it's good". Sure, that's true for everything. The real question is: can they EVER work? And if they COULD, would that entail a health/productive relationship to food?
 "%}
 
 
@@ -402,6 +404,8 @@ One of the main goals of this course is to sharpen critical faculties when it co
 
 
 ## Week 14: Review and Reflection 1
+This week we're really starting to ramp down for the course. Your final reading responses are due on Monday (there are more weekly reflections due, however). As a warm up for the course final (due the last Friday of Finals Week), your weekly reflection this week will be to analyze Wednesday's reading in terms of the whole course.
+
 
 ### Mon 11/16
 - Christie Aschwanden, [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/), (_FiveThirtyEight_, Jan 6, 2016).
@@ -423,13 +427,13 @@ No reading responses due today, but look ahead to Friday.
 - NO NEW READING, just your weekly reflection as explained below.
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up (but still the usual weekly reflection length, ~800 words). Reflecting on what we've done in the course so far, how well does Wednesday's reading establishes/outlines a productive future for understanding the relationship between nutrition, diet, and health? Does it use history effectively? What kinds of things have we considered that don't appear in the article? The more readings you can tie in from the course now, the easier and better your final will be.
+For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up (but still the usual weekly reflection length, ~600 words). Reflecting on what we've done in the course so far, how well does Wednesday's reading establishes/outlines a productive future for understanding the relationship between nutrition, diet, and health? Does it use history effectively? What kinds of things have we considered that don't appear in the article? The more readings you can tie in from the course now, the easier and better your final will be.
 "%}
 
 
 
 ## Week 15: Food Traditions and Societal Health
-We can't NOT read about Thanksgiving this week! These readings have nothing to do with diet/health, but it's useful to think about civic health in addition to bodily health. Can food make
+We can't NOT read about Thanksgiving this week! These readings have nothing to do with diet/health, but it's useful to think about civic health in addition to bodily health. It's common to think about food as bringing people together, but it's also a way of keeping people apart.
 
 ### Wed 11/25 (or anytime this week)
 - Andrew F. Smith, “The First Thanksgiving”, _Gastronomica_ 3.4 (2003): 79–85.
@@ -437,8 +441,8 @@ We can't NOT read about Thanksgiving this week! These readings have nothing to d
 - David Foster Wallace, "Consider the Lobster", _Gourmet_ (August 2004), 50--64. READ THE FOOTNOTES!
 - [Michael Twitty on Culinary Justice](https://www.youtube.com/watch?v=EhxjC3XX54g)
 
-{% include alert.html class='danger' title='Weekly/Feasting Reflection' text="
-Do food traditions play a role in societal health? How will you celebrate/protest Thanksgiving this year?
+{% include alert.html class='danger' title='Weekly Reflection' text="
+How much do you think food traditions play a role in societal health? What are we really celebrating? What is the national holiday supposed to mean? How will you celebrate/protest Thanksgiving this year?
 "%}
 
 ### Thurs 11/26: Thanksgiving!

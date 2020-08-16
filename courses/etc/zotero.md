@@ -7,45 +7,61 @@ title: using zotero | fred gibbs
 
 [Zotero](http://zotero.org) is a free and popular tool developed by academics for academics for managing bibliographies to share resources like PDFs.
 
-To access the course readings, you'll need to join the Zotero Group Library for the course.
+To access the course readings, you'll need to join our group library for the course. On the first day of class, I send invitations to all registered students to join our group library. If you have registered after then and are trying to connect to the course library, you'll need to skip to the "I didn't get an invitation" section below.
 
-## Step 1a: Create a Zotero account
+If you clicked on the link in the invitation from zotero.org, you may have completed all these steps already. If you did (or think you did), skip to Step 5 to verify everything is working. Otherwise, start at Step 1 or 2.
+
+If you already have a Zotero account (from a previous course, perhaps), skip to Step 2. But you need to join a new library for each course.
+
+
+## Step 1: Create a Zotero account
 If you don't have one already, [sign up for a free account at zotero.org](https://www.zotero.org/user/register). Creating a Zotero account requires only that you specify a username, password, and email address. You will not get any spam from Zotero or anyone else because of your Zotero account. **Use your UNM email address!!!!!**
 
-## Step 1b: Make sure you are logged into zotero.org
+## Step 2: Make sure you are logged into zotero.org
 If you are, there will be a "Log Out" link in the upper right corner of the page.
 
+## Step 3: Go to the Groups page
+Click on the "Groups" tab or nav bar link. Once you're on the groups page, you should see off to the right that you have been invited to join our library, and you'll see a red "Join" button. If instead you happen to see a link to the course library on the main part of the page, then you're all good. Skip to Step 5.
 
-## Step 2: Find the email invitation and click the link in the message
-On the first day of class, you will get an email from zotero.org inviting you to join the our Zotero group library for the course. For security reasons I cannot simply add you to the group.Search your email for "zotero" and you'll probably find it. If you can't skip to the last FAQ below. **Click the link in the invitation email!**
+## NO JOIN BUTTON?
+If you don't see a Join button, it's because you registered for the class after I sent out the invitations to join the group library. Skip to the "I didn't get an invitation" section below.
+
+## Step 4: Click the red "Join" button
+Click the red "Join" button off to the right. Notice that you'll see a little message at the top that you've joined the group library, but you still won't see any readings or anything.
+
+## Step 5: Verify you can see the course library online
+Reload the webpage (Command-R or Control-R), and you should now be able to see the course library and all the readings for the semester. When you click one of these, you'll go to a metadata page with a link to a PDF of the reading at the bottom. If you can open a PDF this way, everything is working.
+
+---
 
 
-## Step 3: Click the join button on the website
-After you click the link in the email, you'll end up at zotero.org. You should be logged in (see Step 1b), and if you're not you'll see a "Log In" link. If you log in but then end up at the zotero.org home screen, click the link in the invitation email again to go to the course library page.
+## I didn't get an invitation
+- Go to zotero.org and make sure you're logged in. You can verify this by looking for a "Log Out" link in the upper right corner of the page.
+- Click the groups tab.
+- Search for the course library name (noted on the home page of the syllabus).
+- Be sure the "Groups" tab for searching is selected (it usually defaults to People).
+- Click on the group library link (usually the first one, but not always)
+- Click the red "Join" button off to the right, which will send an email to me and I'll approve your request to join the group as soon as I see it.
 
-Once you're on the group library page, you'll see a red "join" button off to the right. Click this button to join the group! Everything should be good.
-
-
-## Step 4: Verify you can see the course library online
-Reload the webpage (Command-R or Control-R), and you should now be able to see the course library and all the readings for the semester. When you double click one of these, a PDF of the reading should open. If you can open a PDF this way, everything is working.
+---
 
 
 ## TROUBLESHOOTING FAQs
 
 ### I'm logged into zotero.org, but I don't know how to find the group library for the course.
-- Click on the "groups" tab at the top. If you don't see a link to the course library, then either you really aren't logged into zotero.org OR you haven't joined the group yet. Make sure you're logged in and restart and Step 2.
+- Click on the "groups" tab or link at the top. If you don't see a link to the course library on the main part of the page OR a "Join" button off to the right, then either you really aren't logged into zotero.org OR you joined the course after I sent the invitations. Make sure you're logged in and return to the "Groups" page. If still no Join button, go to the "I didn't get an invitation" section above.
 
 ### I can see the items on the group library page, but I can't open any PDFs.
 - First, check that you're logged in to zotero.org. If you are, there will be a "Log Out" link in the upper right corner of the page.
-- If you ARE logged in, but can't get any PDFs to open, then you haven't joined the group library. Restart at Step 2, or see last FAQ.
+- If you ARE logged in, but can't get any PDFs to open, then you haven't joined the group library. Go to the "I didn't get an invitation" section above.
 
-### Nothing is working and this is super annoying. What do I do now?
-- Go to zotero.org and make sure you're logged in. If you are, there will be a "Log Out" link in the upper right corner of the page.
+### Nothing is working. What do I do now?
+- Go to zotero.org and make sure you're logged in. You can verify this by looking for a "Log Out" link in the upper right corner of the page.
 - Click the groups tab.
-- Search for the course library name (noted on the home page of the syllabus) IN QUOTES.
-- Be sure the "groups" tab for searching is selected.
-- Click on the group library link (there will be just one if you searched with quotes)
-- Click the red "Join" button, which will send an email to me and I'll approve your request to join as soon as I see it.
+- Search for the course library name (noted on the home page of the syllabus).
+- Be sure the "Groups" tab for searching is selected (it usually defaults to People).
+- Click on the group library link (usually the first one, but not always)
+- Click the red "Join" button off to the right, which will send an email to me and I'll approve your request to join the group as soon as I see it.
 
 ---
 
