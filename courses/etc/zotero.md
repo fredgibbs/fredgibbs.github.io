@@ -14,6 +14,7 @@ If you have already clicked on the link in the invitation from zotero.org, you m
 If you already have a Zotero account (from a previous course, perhaps), skip to Step 2. Each course has a separate library that you need to join.
 
 
+
 ## Step 1: Create a Zotero account
 If you don't have one already, [sign up for a free account at zotero.org](https://www.zotero.org/user/register). Creating a Zotero account requires only that you specify a username, password, and email address. You will not get any spam from Zotero or anyone else because of your Zotero account. **Use your UNM email address!!!!!**
 
@@ -39,10 +40,7 @@ NOTE: If you are using the New Beta version of zotero.org, then you'll want to l
 
 ## I didn't get an invitation
 - Go to zotero.org and make sure you're logged in. You can verify this by looking for a "Log Out" link in the upper right corner of the page.
-- Click the groups tab.
-- Search for the course library name (noted on the home page of the syllabus).
-- Be sure the "Groups" tab for searching is selected (it usually defaults to People).
-- Click on the group library link (usually the first one, but not always)
+- Go to the group library page at [https://www.zotero.org/groups/642043/diet-health-expertise-unm/library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library)
 - Click the red "Join" button off to the right, which will send an email to me and I'll approve your request to join the group as soon as I see it.
 
 ---
@@ -60,7 +58,7 @@ NOTE: If you are using the New Beta version of zotero.org, then you'll want to l
 ### Nothing is working. What do I do now?
 - Go to zotero.org and make sure you're logged in. You can verify this by looking for a "Log Out" link in the upper right corner of the page.
 - Click the groups tab.
-- Search for the course library name (noted on the home page of the syllabus).
+- Search for the course library name: `diet-health-expertise-unm`.
 - Be sure the "Groups" tab for searching is selected (it usually defaults to People).
 - Click on the group library link (usually the first one, but not always)
 - Click the red "Join" button off to the right, which will send an email to me and I'll approve your request to join the group as soon as I see it.
