@@ -34,12 +34,12 @@ Some guiding questions: How do dietary experts establish their expertise? Why ha
 This class is NOT concerned primarily with learning the history of diet and health, but using examples from it to learn about medical expertise (with a particular focus on diet/health), as well as the power of health-centric rhetoric. This class is concerned with HOW TO THINK, not WHAT TO KNOW.
 
 
-## You are welcome here
-This class is probably unlike most history classes you've taken, not least because history of medicine and history of food are somewhat specialized topics. But I want to be VERY CLEAR: Even if you have never thought about the history of medicine or diet, or have never taken a history course, or even a humanities course, YOU ARE WELCOME HERE! I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. As much as possible I've tried to make the course about everyone thinking together rather than just you memorizing something I say or you read so that you can regurgitate it later. If you feel the course structure isn't facilitating your own success, let's talk (virtually, of course).
-
-
 ## Getting Started
 This page, and the [schedule page](schedule), have all the instructions and assignments you need for the course. Make sure you are VERY FAMILIAR with these two pages. We use UNM Learn to manage quizzes, assignment submissions, and the discussion board, but all basic course information is on these two (separate) webpages.
+
+
+## You are welcome here
+This class is probably unlike most history classes you've taken, not least because history of medicine and history of food are somewhat specialized topics. But I want to be VERY CLEAR: Even if you have never thought about the history of medicine or diet, or have never taken a history course, or even a humanities course, YOU ARE WELCOME HERE! I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. As much as possible I've tried to make the course about everyone thinking together rather than just you memorizing something I say or you read so that you can regurgitate it later. If you feel the course structure isn't facilitating your own success, let's talk (virtually, of course).
 
 
 ## General Work outline
