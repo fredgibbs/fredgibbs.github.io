@@ -14,7 +14,7 @@ These reflections are a personal reflection about what you've learned over the w
 
 
 ## Basics
-- ~600 words (write more if you want, but less than that will look skimpy)
+- ~600--800 words (a broad range because some days you'll have more to say than others)
 - Free of typos and basic grammatical errors
 - Posted on the discussion board by MIDNIGHT on FRIDAYS (unless otherwise noted on the syllabus)
 

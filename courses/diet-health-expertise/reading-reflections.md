@@ -9,6 +9,8 @@ number: HIST 410
 # Reading Reflections
 You have a short reading response due most days there is a reading assignment. The syllabus makes it very clear what you need to do and when.
 
+These are meant to be somewhat creative exercises to get you to compare and contrast different aspects of the reading and to indicate what you thought was most interesting about them (we all find different things interesting!). These are NOT intended to be boring academic regurgitations of the readings. You don't want to write those, and I don't want to read them. The best advice I can give: be yourself!
+
 Beginning on the third week, the class will be divided into two groups. You only need to remember if you are in Group 1 or Group 2. The schedule page makes clear what your group is doing for each day (or if there is no group assignment). In other words, the schedule page will tell you what kind of response you're supposed to write; this page describes the different kinds of responses. There are three kinds of responses that you'll be asked to do:
 
 ## Standard Reflection
@@ -38,14 +40,12 @@ There is never a reading response due Friday because there is either a weekly le
 - Posted ON TIME at UNM Learn. ON TIME means by MIDNIGHT on the due date. Late posts are docked .5 points per day. Late work once in a while doesn't really affect your grade, but consistently late work does, and turning work in a day or two late is FAR BETTER than not at all.
 
 
-## Questions to think about
-
 ## Connect, don't summarize
 These posts are meant to be something of a creative exercise. I (and your classmates) are much more interested in reading about what YOU THINK, rather than a summary of the assignment. This exercise is NOT about just regurgitating information or identifying the "right" answer. **There is no right answer.** Everyone is going to have a different take on what's interesting, how things connect, how they don't etc. We can all learn a lot from each other.
 
 
 ## Scoring and how these factor in your grade
-- 2 points: Your post clearly demonstrates broad familiarity with the assignment, original thinking, and is clearly articulated.
+- 2 points: Your post clearly demonstrates broad familiarity with the reading assignment, original thinking, and is clearly articulated.
 
 - 1.5 points: Your post demonstrates some familiarity with the assignment and some original thinking but could use refinement either in thinking or writing.
 
@@ -56,6 +56,6 @@ These posts are meant to be something of a creative exercise. I (and your classm
 - 0 points: Nothing posted, or otherwise so unintelligible that I can't even guess at what you were trying to do.
 
 
-The idea here is that these weekly posts should in sum account for a significant but not large portion of your final grade without being unduly stressful to complete.
+The idea here is that these reflections should in sum account for a significant but not large portion of your final grade without being unduly stressful to complete. And they should hold everyone accountable for keeping up with the reading and not falling behind.
 
 Bottom line: missing a few posts here and there won't affect your grade, but if you're consistently missing them or not adding value to the discussion, they end up lowering your grade by 1/3 (like A to A-) or 2/3 (like B+ to B-).

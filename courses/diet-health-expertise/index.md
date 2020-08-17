@@ -43,11 +43,11 @@ This page, and the [schedule page](schedule), have all the instructions and assi
 
 
 ## General Work outline
-While we have no formal meetings, the class is organized around modest reading assignments for most Mondays, Wednesday, Fridays.
+While we have no formal meetings, the class is organized around modest reading assignments for most Mondays, Wednesday, Fridays. The frequency of written responses generally decreases as the semester progresses.
 
-I hold you accountable for keeping up with the readings by asking you to respond to them with very short ~150 words posts on Mondays and Wednesdays; on most Fridays, you'll post a a ~600-word weekly learning reflection that will address a few questions that will help tie together the readings for the week. In place of a few weekly learning reflections there are other assignments to spice things up a bit. The frequency of written responses generally decreases as the semester progresses.
+I hold you accountable for keeping up with the readings by asking you to respond to them with very short ~150-word [reading reflections](reading-reflections) on Mondays and Wednesdays. On most Fridays, you'll post a ~600--800-word [weekly learning reflection](weekly-learning-reflection) that will address a few questions that will help tie together the readings for the week. In place of a few weekly learning reflections there are other assignments to spice things up a bit.
 
-These short writing assignments should add up to LESS TIME than you would have spent going to class. And you might learn more as well, so WIN WIN!
+These short writing assignments should add up to LESS TIME than you would have spent going to class. And you might learn more as well, so WIN WIN! These are meant to be somewhat creative exercises, not boring academic regurgitations of the readings. The best advice I can give: be yourself!
 
 The upshot of this approach is that your WORK FOR THE COURSE IS VERY EVENLY DISTRIBUTED across the semester. There are no big essays or exams or drawn-out research projects. There is a short ~1200-word final essay due the last day of finals. As long as you're keeping up with the readings (and I've tried to be quite modest in the amount), the course shouldn't ever become a burden on your workload or schedule. And by staying engaged throughout the semester, everyone will learn more and we (I mean me, too!) can avoid the stress of big assignments.
 
@@ -59,13 +59,15 @@ Every so often there is no assignment due, just to give everyone a break, and we
 - [YouTube Channel](https://www.youtube.com/channel/UCt6_7arYzi4TcIIwo7TLURw) will host mini-lectures and other screencasts. I will post announcements of new videos in Learn (which send an email to you as well). I highly recommend that you either subscribe or bookmark the channel so you have quick access to it.
 
 ### Zotero
-We use a tool called [Zotero](http://zotero.org) to access PDFs for the course. We have what's called a group library that holds all the readings for the course. To get connected, see the [getting started guide](http://fredgibbs.net/courses/etc/zotero). Once connected you can access the [course library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library).
+We use a tool called [Zotero](http://zotero.org) to access PDFs for the course. We have what's called a group library that holds all the readings for the course. FIRST, to get connected, see the [getting started guide](http://fredgibbs.net/courses/etc/zotero).
+
+Once you've completed the steps in the guide (it takes maybe 5 minutes), you can access the [course library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library). This link is also on UNM Learn and on the Links and Guides page for this course (see link at very top of page).
 
 NOTE: ALL course readings not already online will be ONLY available through Zotero (unless you track them down on your own, which you should never need to do).
 
 #### Quick Info
-- Group Library Name: `diet-health-expertise-unm` (in case you need to look it up at zotero.org)
-- Group Library URL: [https://www.zotero.org/groups/642043/diet-health-expertise-unm/library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library). Remember that you can only see the group library if you have joined it.
+- Group Library Name: `diet-health-expertise-unm` (in case you need to look it up on zotero.org)
+- Group Library URL: [https://www.zotero.org/groups/642043/diet-health-expertise-unm](https://www.zotero.org/groups/642043/diet-health-expertise-unm). Remember that you can only see the group library if you have joined it.
 
 
 
@@ -93,13 +95,13 @@ Assignments are worth either 2 points (weekly discussion posts), 10 points (week
 
 The little equations after the assignment type indicates `number of assignments` x `points for each` x `weight` = `total points`
 - Occasional reading/lecture quizzes (4x8x.5 = 16)
-- [Reading reflections](reading-reflections)(16x2 = 32)
-- [Weekly learning reflections](weekly-reflections) (13x10 = 130) (usually in response to a particular question)
-- [Food blog analysis](food-blog-analysis) (1x20 = 20)
-- [Final learning reflection](weekly-reflections) (1x20 = 20)
+- [Reading reflections](reading-reflections)(17x2 = 34)
+- [Weekly learning reflections](weekly-reflections) (14x10 = 140) (usually in response to a particular question) Due most Fridays.
+- [Food blog analysis](food-blog-analysis) (1x20 = 20) Due in lieu of a weekly reflection on the last day of class.
+- [Final learning reflection](weekly-reflections) (1x20 = 20) Due on the last Friday of Finals Week.
 
 
-### Grade Distribution (218 points)
+### Grade Distribution (230 points)
 Depending on how the course unfolds, the final number of points may change slightly. But the percent grading scale will remain basically the same, unless it becomes easier to get a higher grade.
 
 Percent | Grade

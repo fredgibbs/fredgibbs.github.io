@@ -33,7 +33,7 @@ There are a couple things to do just to make sure we're all connected. Please do
 - Gary Taubes, [Why Nutrition is So Confusing](https://search-proquest-com.libproxy.unm.edu/docview/1496257577/fulltext/61D8DF94940D48FBPQ/1?accountid=14613).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-No groups for this week. Everyone will post a 'standard' reading reflection (as described on the [reading reflections](reading-reflections) page), addressing the following: How much do you agree or disagree with this article?  How much much do you think knowledge of nutrition contribute individual dietary choices?? Feel free to draw personal experiences, whatever you've read about diet/nutrition, other courses, etc.
+No groups for this week. Everyone will post a 'standard' reading reflection (as described on the [reading reflections](reading-reflections) page), addressing the following: How much do you agree or disagree with the Taubes article? How much much do you think knowledge of nutrition contribute individual dietary choices? Feel free to draw personal experiences, whatever you've read about diet or nutrition, other courses, etc.
 "%}
 
 
@@ -266,7 +266,7 @@ No M/W reading responses due this week, but a slightly longer weekly reflection.
 - Catherine Carstairs, “‘Our Sickness Record Is a National Disgrace’: Adelle Davis, Nutritional Determinism, and the Anxious 1970s”, 461--91.
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-No specific question this week. Just write 800 words on what you found most interesting, surprising, confusing, etc.
+No specific question this week. Just write ~600 words on what you found most interesting, surprising, confusing, etc.
 "%}
 
 
@@ -454,7 +454,7 @@ Think about how important (or not) food traditions are for you. Does the food it
 
 
 ## Week 16: Review and Reflection 2
-Winding down with one last assignment---in lieu of the weekly learning reflection, there is the food blog analysis that gives you a chance to apply the thinking and analytical approach from this class "in the wild".
+Winding down with one last assignment---in lieu of the weekly learning reflection, you'll do a [Food Blog Analysis]((food-blog-analysis) that gives you a chance to apply the thinking and analytical approach from this class "in the wild".
 
 
 ### Mon 11/30
