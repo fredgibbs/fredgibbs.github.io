@@ -45,7 +45,7 @@ This class is probably unlike most history classes you've taken, not least becau
 ## General Work outline
 While we have no formal meetings, the class is organized around modest reading assignments for most Mondays, Wednesday, Fridays. The frequency of written responses generally decreases as the semester progresses.
 
-I hold you accountable for keeping up with the readings by asking you to respond to them with very short ~150-word [reading reflections](reading-reflections) on Mondays and Wednesdays. On most Fridays, you'll post a ~600--800-word [weekly learning reflection](weekly-learning-reflection) that will address a few questions that will help tie together the readings for the week. In place of a few weekly learning reflections there are other assignments to spice things up a bit.
+I hold you accountable for keeping up with the readings by asking you to respond to them with very short ~150-word [reading reflections](reading-reflections) on Mondays and Wednesdays. On most Fridays, you'll post a ~600--800-word [weekly learning reflection](weekly-reflections) that will address a few questions that will help tie together the readings for the week. In place of a few weekly learning reflections there are other assignments to spice things up a bit.
 
 These short writing assignments should add up to LESS TIME than you would have spent going to class. And you might learn more as well, so WIN WIN! These are meant to be somewhat creative exercises, not boring academic regurgitations of the readings. The best advice I can give: be yourself!
 
