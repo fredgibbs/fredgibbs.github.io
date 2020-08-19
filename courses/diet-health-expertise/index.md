@@ -49,7 +49,7 @@ I hold you accountable for keeping up with the readings by asking you to respond
 
 These short writing assignments should add up to LESS TIME than you would have spent going to class. And you might learn more as well, so WIN WIN! These are meant to be somewhat creative exercises, not boring academic regurgitations of the readings. The best advice I can give: be yourself!
 
-The upshot of this approach is that your WORK FOR THE COURSE IS VERY EVENLY DISTRIBUTED across the semester. There are no big essays or exams or drawn-out research projects. There is a short ~1200-word final essay due the last day of finals. As long as you're keeping up with the readings (and I've tried to be quite modest in the amount), the course shouldn't ever become a burden on your workload or schedule. And by staying engaged throughout the semester, everyone will learn more and we (I mean me, too!) can avoid the stress of big assignments.
+The upshot of this approach is that your WORK FOR THE COURSE IS VERY EVENLY DISTRIBUTED across the semester. There are no big essays or exams or drawn-out research projects. There is a short ~1200-word [final learning reflection](final-reflections) due the last day of finals. As long as you're keeping up with the readings (and I've tried to be quite modest in the amount), the course shouldn't ever become a burden on your workload or schedule. And by staying engaged throughout the semester, everyone will learn more and we (I mean me, too!) can avoid the stress of big assignments.
 
 Every so often there is no assignment due, just to give everyone a break, and we take most of a week off around the middle of the semester for a much needed siesta because semesters are WAY too long. Reading and assignment details are comprehensively outlined on the [schedule page](schedule). More details about the assignments in the "Work Requirements and Grading" section below.
 
@@ -98,7 +98,7 @@ The little equations after the assignment type indicates `number of assignments`
 - [Reading reflections](reading-reflections)(17x2 = 34)
 - [Weekly learning reflections](weekly-reflections) (14x10 = 140) (usually in response to a particular question) Due most Fridays.
 - [Food blog analysis](food-blog-analysis) (1x20 = 20) Due in lieu of a weekly reflection on the last day of class.
-- [Final learning reflection](weekly-reflections) (1x20 = 20) Due on the last Friday of Finals Week.
+- [Final learning reflection](final-reflections) (1x20 = 20) Due on the last Friday of Finals Week.
 
 
 ### Grade Distribution (230 points)
