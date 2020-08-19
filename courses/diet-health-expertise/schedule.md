@@ -42,7 +42,7 @@ No groups for this week. Everyone will post a 'standard' reading reflection (as 
 - Jessica J. Mudry, *Measured Meals. Nutrition in America*, 1-19 (Introduction: Eating by Numbers).
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-Remember that Fridays are always for [WEEKLY reflections]((weekly-reflections), so you'll never write only about the Friday reading---you'll always discuss it in context with the rest of the week.
+Remember that Fridays are always for [WEEKLY reflections](weekly-reflections), so you'll never write only about the Friday reading---you'll always discuss it in context with the rest of the week.
 
 How do Mundry and Taubes take very different approaches to thinking about nutrition? What are the assumptions of the authors in terms of how we create knowledge of nutrition? How much to you agree that we really don't know what a healthy diet is? How much do you agree that there are real dangers in quantification? Whose perspective/article is more convincing?
 "%}
