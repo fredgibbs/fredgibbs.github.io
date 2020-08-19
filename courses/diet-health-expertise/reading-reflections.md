@@ -15,6 +15,7 @@ Beginning on the third week, the class will be divided into two groups. You only
 
 ## Standard Reflection
 Provide a brief statement of what you found most interesting about the readings. Think about:
+- How can you address the questions for the reflection prompt?
 - What ideas did you find most interesting?
 - What was most unclear or confusing?
 - What questions did they bring up?
@@ -33,7 +34,7 @@ Compare/contrast the readings for today (Wednesday) compared to Monday. Usually,
 There is never a reading response due Friday because there is either a weekly learning reflection, a special assignment, or nothing, due.
 
 
-## Basics (both kickstarters AND commenters)
+## Basics
 - ~150--200 words. Write more or less as you need/want to per assignment, but don't be consistently too much above or below the target.
 - Original thinking! Avoid summarizing readings except to restate a point that you want to elaborate on.
 - Informal writing (don't try to sound like an academic), but free of typos and basic grammatical errors. These are VERY short posts, so it takes only a few minutes to revise them. Consistently sloppy posts will lower your grade by 1/3 to 2/3 grade (A to B+, for instance).
