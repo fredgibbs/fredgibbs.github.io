@@ -56,7 +56,7 @@ This week we cover medical and dietary thinking from ancient Greece and Rome thr
 ### Mon 8/24
 - Classical medicine, diet, and intro to Galen Lecture (link TBP)
 - Mark Grant, _Galen: On Food and Diet_, 1-8. These few pages provide a general introduction to the classical physician Galen (died circa 215 CE) and ancient medicine. The author of the introduction has translated many of Galen's writing about food, and we'll read a excerpt from those as noted below.
-- Galen, (tr. Mark Grant), _On the Humors_, 14-18; _On the Power of Foods_, 68-84.
+- Galen, (tr. Mark Grant), _On the Humors_, 14-18; _On the Power of Foods_, 68-84. Note that there is WAY MORE DETAIL about foods in here than you need to know. Remember we're not concerned with that level of detail. Read for the big picture in terms of how Galen establishes his expertise, what topics are most interesting to him, how he thinks about the relationship between diet and health.
 
 {% include alert.html class='danger' title='Reading reflection' text="
 Still getting settled: no groups for this week. Everyone will post a regular ~200 word reading reflection to address the following:
