@@ -61,20 +61,20 @@ This week we cover medical and dietary thinking from ancient Greece and Rome thr
 {% include alert.html class='danger' title='Reading reflection' text="
 Still getting settled: no groups for this week. Everyone will post a regular ~200 word reading reflection to address the following:
 
-How did physicians like Galen conceive the notion of disease? According to Galen, how does diet fit into medical understandings of disease? How is his approach similar and different to modern approaches to diet? How would you describe his writing style? Does it seem strange for a physician? Your responses should also draw on the background info from the lecture.
+How did physicians like Galen conceive the notion of disease? According to Galen, how does diet fit into medical understandings of disease? How is his approach similar and different to modern approaches to diet? How do we make sense of Galen's writing style?﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ Your responses should also draw on both the readings and ﻿﻿﻿﻿the video lecture.
 "%}
 
 
 ### Wed 8/26
 - Visualizing Medieval and Early Modern Medicine Lecture (link TBP, but it will be on the YouTube channel)
-- Lecture Quiz
+- Lecture Quiz (see Quizzes link on left nav of UNM Learn)
 
 
 ### Fri 8/28
 - Ken Albala, _Eating Right in the Renaissance_, 63--77; 78--84; 91--104.
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-How would you characterize premodern dietary thinking? What aspects of dietary advice have persisted across ancient, medieval, and early modern periods? What elements have been discarded? How is premodern dietary thinking inferior to our current model? How is it superior?
+How would you characterize premodern dietary thinking? What aspects of dietary advice have persisted across the ancient, medieval, and early modern periods? What elements have been discarded? How is premodern dietary thinking inferior to our current model? It what ways might it be superior?
 "%}
 
 
