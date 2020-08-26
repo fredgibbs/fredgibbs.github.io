@@ -66,7 +66,7 @@ How did physicians like Galen conceive the notion of disease? According to Galen
 
 
 ### Wed 8/26
-- Visualizing Medieval and Early Modern Medicine Lecture (link TBP, but it will be on the YouTube channel)
+- [Visualizing Medieval Medicine Lecture](https://youtu.be/Jre-MOGaGmw) (posted on the YouTube channel)
 - Lecture Quiz (see Quizzes link on left nav of UNM Learn)
 
 
