@@ -88,27 +88,34 @@ The theme for the week is how physicians beginning the 1700s started promoting d
 ### Mon 8/31
 - Steven Shapin, "Trusting George Cheyne," 263--79.
 
-Questions to keep in mind while reading: How similar and different to modern dietary advice? What were common criticisms of 18th-century physicians? What does Shapin mean by "micromechanism" and "iatromechanical"? Where do these terms come from?
+Questions to keep in mind while reading: Why is "micromechanism" important in this article and for 18th-century physicians? How did was it invoked in medical practice? Are there any modern analogs to the micromechanistic approach?
 
 {% include alert.html class='danger' title='Reading Reflections' text="
 - Group 1: [Standard Reflection](reading-reflections#standard-reflection)
 - Group 2: [Connective Reflection](reading-reflections#connective-reflection)
+- Group 3: [Prompt Reflection](reading-reflections#prompt-reflection)
+- Group 4: [Response Reflection](reading-reflections#response-reflection)
 "%}
 
 
 ### Wed 9/02
 - Steven Shapin, "Trusting George Cheyne," 279--97.
 
-Questions to keep in mind while reading: What kinds of advice did his patients get in their personal correspondence? Was there any conflict with common sense? How different was public and private medical advice? How specifically did Cheyne appeal to morality in his letters with patients? How prevalent was the "micromechanical" approach/advice we read about last time? What are the modern analogs?
+Questions to keep in mind while reading: What kinds of advice did his patients get in their personal correspondence? Was there any conflict with common sense? How did Cheyne appeal to morality in his letters with patients?
 
 {% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Comparative Reflection](reading-reflections#comparative-reflection)
+- Group 1: [Response Reflection](reading-reflections#response-reflection)
 - Group 2: [Standard Reflection](reading-reflections#standard-reflection)
+- Group 3: [Comparative Reflection](reading-reflections#comparative-reflection)
+- Group 4: [Prompt Reflection](reading-reflections#prompt-reflection)
 "%}
 
 
 ### Fri 9/04
-- George Cheyne, [_An Essay on Regimen_](https://www.google.com/books/edition/_/ezswAAAAYAAJ?hl=en&gbpv=1)," i-xxiv, and randomly sample the whole text to get a feel for the tone, language, and rhetorical effect. Note that single "s" within a word looks like an "f". For instance, on title page you'll see "Philofophical" instead of "Philosophical". Yes, the language and long "f"s seem weird to us moderns, but you get used to it after a few pages.
+- George Cheyne, [_An Essay on Regimen_](https://www.google.com/books/edition/_/ezswAAAAYAAJ?hl=en&gbpv=1)," i-xxiv, and randomly sample the whole text to get a feel for the tone, language, and rhetorical effect. Note that a single "s" within a word looks like an "f". For instance, on title page you'll see "Philofophical" instead of "Philosophical". Yes, the long "f"s and the language in general seems weird to us moderns, but you get used to it after a few pages.
+
+A NOTE ON PRIMARY SOURCES: After taking an upper-level history course, you should end up with a sense of what historians actually do. You'll see that working with historical sources is difficult! Like in any profession, good historians make it seem easy. The stories, the narratives, the summary, etc—--it all seem so obvious! But when you go back at look at the source material, you can understand how much work and INTERPRETATION goes into those. Nothing at all is truly obvious.
+
 
 
 {% include alert.html class='danger' title='Weekly reflection' text="

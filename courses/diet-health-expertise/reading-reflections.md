@@ -7,16 +7,16 @@ number: HIST 410
 ---
 
 # Reading Reflections
-You have a short reading response due most days there is a reading assignment. The syllabus makes it very clear what you need to do and when.
+You have a short reading response due most days that there is a reading assignment. The syllabus makes it very clear what you need to do and when.
 
-These are meant to be somewhat creative exercises to get you to compare and contrast different aspects of the reading and to indicate what you thought was most interesting about them (we all find different things interesting!). These are NOT intended to be boring academic regurgitations of the readings. You don't want to write those, and I don't want to read them. The best advice I can give: be yourself!
+These are meant to be somewhat creative exercises to get you to compare and contrast different aspects of the reading and to indicate what you thought was most interesting about them (we all find different things interesting!). These are NOT intended to be boring academic regurgitations of the readings. You don't want to write those, and no one wants to read them. The best advice I can give: do the reading, think critically, and be yourself!
 
-Beginning on the third week, the class will be divided into two groups. You only need to remember if you are in Group 1 or Group 2. The schedule page makes clear what your group is doing for each day (or if there is no group assignment). In other words, the schedule page will tell you what kind of response you're supposed to write; this page describes the different kinds of responses. There are three kinds of responses that you'll be asked to do:
+Beginning on the third week, the class will be divided into four groups based on last name. You only need to remember what group you are in (or you can look it up again if you forget). The schedule page makes clear what your group is doing for each day (or if there is no group assignment). In other words, the schedule page will tell you what kind of response you're supposed to write; this page describes the different kinds of responses. We'll have either connective or comparative responses (depending on whether it's M or W) so we will see four different kinds of responses each day.
+
 
 ## Standard Reflection
 Provide a brief statement of what you found most interesting about the readings. Think about:
-- How can you address the questions for the reflection prompt?
-- What ideas did you find most interesting?
+- What ideas did you find most interesting or surprising?
 - What was most unclear or confusing?
 - What questions did they bring up?
 
@@ -27,7 +27,18 @@ Provide a brief argument of how that day's reading assignment connects/relates t
 - Do you find more continuity or discontinuity?
 
 ## Comparative Reflection
-Compare/contrast the readings for today (Wednesday) compared to Monday. Usually, they are VERY different. Sometimes, the readings for M and W are chapters from the same book, so they are obviously similar, but you can still critique which you found to be more effective and WHY.
+Compare/contrast the readings for today (Wednesday) compared to Monday. Usually, they are VERY different. In terms of general ideas about diet: What commonalities did you notices? What were the key differences? In terms of writing style: which was more effective? Why, specifically? HINT: saying something was easier to read is distinctly NOT a good reason. Be more specific, like an author assumed the reader knew too much, or used too much specialized jargon, etc.
+
+## Prompt Reflection
+Before each reading, I have posted some questions to think about. Everyone should think about these, but I those who are doing Prompt Reflections will answer them specifically in their discussion board posts.
+
+
+## Response Reflection
+THIS IS A SPECIAL GROUP! Since the class is a bit larger than expected (and therefore we need more groups), and as a way of trying to facilitate some social interaction as most of us are stuck at home, this group will POST A ~150-200 RESPONSE TO SOMEONE ELSE for their "reflection" assignment. THESE ARE DUE ONE DAY AFTER THE ORIGINAL POSTS ARE DUE. So if you have this task on Monday, your response will be due Tuesday night. Feel free to respond to another as early as you'd like!
+
+Your responses should SUBSTANTIVELY engage with what the original poster said. You can totally disagree with their post and argue for something else. Plurality of interpretations is an integral part of historical study! You can add to a post by making similar, but related and NEW points. WHAT YOU SHOULD NOT DO: Simply agreeing with a post without any new contribution is totally insufficient and will be graded harshly. YOU NEED TO ADD SOMETHING ORIGINAL, and it needs to be based on or connected to the original post (and obviously the reading).
+
+I realize this adds a new due date into your schedule at times, but it's relatively infrequent for each student. As a payoff, we get to have a little more of an actual discussion and it will make the discussion board much more useful for everyone.
 
 
 ## Fridays
