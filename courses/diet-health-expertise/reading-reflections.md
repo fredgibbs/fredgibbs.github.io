@@ -34,7 +34,7 @@ Before each reading, I have posted some questions to think about. Everyone shoul
 
 
 ## Response Reflection
-THIS IS A SPECIAL GROUP! Since the class is a bit larger than expected (and therefore we need more groups), and as a way of trying to facilitate some social interaction as most of us are stuck at home, this group will POST A ~150-200 RESPONSE TO SOMEONE ELSE for their "reflection" assignment. THESE ARE DUE ONE DAY AFTER THE ORIGINAL POSTS ARE DUE. So if you have this task on Monday, your response will be due Tuesday night. Feel free to respond to another as early as you'd like!
+THIS IS A SPECIAL GROUP! This group will POST A ~150-200 RESPONSE TO SOMEONE ELSE for their "reflection" assignment. THESE ARE DUE ONE DAY AFTER THE ORIGINAL POSTS ARE DUE. So if you have this task on Monday, your response will be due Tuesday night. Feel free to respond to another as early as you'd like!
 
 Your responses should SUBSTANTIVELY engage with what the original poster said. You can totally disagree with their post and argue for something else. Plurality of interpretations is an integral part of historical study! You can add to a post by making similar, but related and NEW points. WHAT YOU SHOULD NOT DO: Simply agreeing with a post without any new contribution is totally insufficient and will be graded harshly. YOU NEED TO ADD SOMETHING ORIGINAL, and it needs to be based on or connected to the original post (and obviously the reading).
 
