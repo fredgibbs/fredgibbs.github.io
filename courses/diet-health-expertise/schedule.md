@@ -94,7 +94,7 @@ Questions to keep in mind while reading: Why is "micromechanism" important in th
 - Group 1: [Standard Reflection](reading-reflections#standard-reflection)
 - Group 2: [Connective Reflection](reading-reflections#connective-reflection)
 - Group 3: [Prompt Reflection](reading-reflections#prompt-reflection)
-- Group 4: [Response Reflection](reading-reflections#response-reflection)
+- Group 4: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of TUESDAY)
 "%}
 
 
@@ -107,7 +107,7 @@ Questions to keep in mind while reading: What kinds of advice did his patients g
 - Group 1: [Response Reflection](reading-reflections#response-reflection)
 - Group 2: [Standard Reflection](reading-reflections#standard-reflection)
 - Group 3: [Comparative Reflection](reading-reflections#comparative-reflection)
-- Group 4: [Prompt Reflection](reading-reflections#prompt-reflection)
+- Group 4: [Prompt Reflection](reading-reflections#prompt-reflection) (remember these are due by the end of THURSDAY)
 "%}
 
 
