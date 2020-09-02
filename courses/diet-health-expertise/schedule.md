@@ -104,10 +104,10 @@ Questions to keep in mind while reading: Why is "micromechanism" important in th
 Questions to keep in mind while reading: What kinds of advice did his patients get in their personal correspondence? Was there any conflict with common sense? How did Cheyne appeal to morality in his letters with patients?
 
 {% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Response Reflection](reading-reflections#response-reflection)
+- Group 1: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of THURSDAY)
 - Group 2: [Standard Reflection](reading-reflections#standard-reflection)
 - Group 3: [Comparative Reflection](reading-reflections#comparative-reflection)
-- Group 4: [Prompt Reflection](reading-reflections#prompt-reflection) (remember these are due by the end of THURSDAY)
+- Group 4: [Prompt Reflection](reading-reflections#prompt-reflection)
 "%}
 
 
@@ -119,7 +119,7 @@ A NOTE ON PRIMARY SOURCES: After taking an upper-level history course, you shoul
 
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-How does Cheyne's advice echo what we've been reading about up to this point? What is different?   How did Cheyne establish his medical reputation? Aside from the language, how different or similar is Cheyne's way of establishing expertise compared to modern dietary experts?
+How does Cheyne's advice (from Friday's reading) echo what we've been reading about up to this point? What is different?  How did Cheyne establish his medical reputation? Aside from the language, how different or similar is Cheyne's way of establishing expertise compared to modern dietary experts? Remember that about 1/2 your weekly reflection should answer these questions, and about 1/2 should describe your own experience with the readings and assignments for the week. See the [Weekly Reflections Guide](weekly-reflections) for more details.
 "%}
 
 
@@ -129,21 +129,19 @@ How does Cheyne's advice echo what we've been reading about up to this point? Wh
 The dietary advice we saw directly primarily toward the upper classes in the previous week moves into the emerging middle class in the early 19th century. In particular, physicians and moral reformers see diets changing as a result of industrialization and urbanization as a distinct societal ill. We look at how moral and dietary advice become even more tightly coupled throughout the 1800s. Later in the course, we'll see how that link has persisted even into the present day.
 
 ### Mon 9/07
-- Emerging Questions on Natural Diets (link TBP)
-
-{% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Connective Reflection](reading-reflections#connective-reflection)
-- Group 2: [Standard Reflection](reading-reflections#standard-reflection)
-"%}
+- Emerging Questions on Natural Diets (link TBP; also via the [course YouTube Channel](https://www.youtube.com/channel/UCt6_7arYzi4TcIIwo7TLURw))
+- Lecture quiz (you know what to do)
 
 
 
 ### Wed 9/09
-- Adam D. Shprintzen, _The Vegetarian Crusade_, Chapter 1: Proto-vegetarianism, 10-27; 32-38. This briefly describes some of the early religious sentiments supporting vegetarianism, but most importantly (and the reason we're reading it) it introduces Sylvester Graham and his historical context.
+- Adam D. Shprintzen, _The Vegetarian Crusade_, Chapter 1: Proto-vegetarianism, 10-27; 32-38. This briefly describes some of the early religious sentiments supporting vegetarianism, but most importantly (and the main reason we're reading it), it introduces Sylvester Graham and his historical context (who we'll read on Friday).
 
 {% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Standard Reflection](reading-reflections#standard-reflection)
-- Group 2: [Comparative Reflection](reading-reflections#comparative-reflection)
+- Group 1: [Prompt Reflection](reading-reflections#prompt-reflection)
+- Group 2: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of THURSDAY)
+- Group 3: [Standard Reflection](reading-reflections#standard-reflection)
+- Group 4: [Comparative Reflection](reading-reflections#comparative-reflection)
 "%}
 
 
@@ -157,6 +155,7 @@ How, if at all, are dietary concerns of the early 19th century---especially conc
 
 
 
+
 ## Week 5: Scientific and Quantified Eating
 There has been no bigger shift in dietary advice than a shift to understanding health and what we eat in terms of numbers, averages, and scales. This week examines some of the earliest developments in quantification of dietary knowledge and advice. Of course we confront the implications of this paradigm shift each day as we see nutritional information labels, scales, and watch-like devices that count our number of steps each day.
 
@@ -164,18 +163,21 @@ There has been no bigger shift in dietary advice than a shift to understanding h
 - Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67.
 
 {% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Standard Reflection](reading-reflections#standard-reflection)
-- Group 2: [Connective Reflection](reading-reflections#connective-reflection)
+- Group 1: [Comparative Reflection](reading-reflections#comparative-reflection)
+- Group 2: [Prompt Reflection](reading-reflections#prompt-reflection)
+- Group 3: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of TUESDAY)
+- Group 4: [Standard Reflection](reading-reflections#standard-reflection)
 "%}
-
 
 ### Wed 9/16
 - Charlotte Biltekoff, *Eating Right in America*, Chapter 2: Scientific Moralization, 13--44.
 Here we get another look at food reformers in the early 20th century, with an emphasis on the links between diet and morality. A few key points to consider: What does "morality" mean in this chapter? Why is it so important (per the reformers) to have the proper diet? How is the proper diet related to the supposedly universal calorie?   
 
 {% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Comparative Reflection](reading-reflections#comparative-reflection)
-- Group 2: [Standard Reflection](reading-reflections#standard-reflection)
+- Group 1: [Standard Reflection](reading-reflections#standard-reflection)
+- Group 2: [Connective Reflection](reading-reflections#connective-reflection)
+- Group 3: [Prompt Reflection](reading-reflections#prompt-reflection)
+- Group 4: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of TUESDAY)
 "%}
 
 
