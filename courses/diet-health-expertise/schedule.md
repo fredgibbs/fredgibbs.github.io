@@ -119,7 +119,9 @@ A NOTE ON PRIMARY SOURCES: After taking an upper-level history course, you shoul
 
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-How does Cheyne's advice (from Friday's reading) echo what we've been reading about up to this point? What is different?  How did Cheyne establish his medical reputation? Aside from the language, how different or similar is Cheyne's way of establishing expertise compared to modern dietary experts? Remember that about 1/2 your weekly reflection should answer these questions, and about 1/2 should describe your own experience with the readings and assignments for the week. See the [Weekly Reflections Guide](weekly-reflections) for more details.
+How does Cheyne's advice (from Friday's reading) echo what we've been reading about up to this point? What is different? How did Cheyne establish his medical reputation? Aside from the language, how different or similar is Cheyne's way of establishing expertise compared to modern dietary experts?
+
+Remember that about 1/2 your weekly reflection should answer these questions, and about 1/2 should describe your own experience with the readings and assignments for the week. See the [Weekly Reflections Guide](weekly-reflections) for more details.
 "%}
 
 
@@ -135,7 +137,10 @@ The dietary advice we saw directly primarily toward the upper classes in the pre
 
 
 ### Wed 9/09
-- Adam D. Shprintzen, _The Vegetarian Crusade_, Chapter 1: Proto-vegetarianism, 10-27; 32-38. This briefly describes some of the early religious sentiments supporting vegetarianism, but most importantly (and the main reason we're reading it), it introduces Sylvester Graham and his historical context (who we'll read on Friday).
+- Adam D. Shprintzen, _The Vegetarian Crusade_, Chapter 1: Proto-vegetarianism, 10-27; 32-38. This chapter briefly describes some early religious sentiments supporting vegetarianism, but most importantly (and the main reason we're reading it), it introduces Sylvester Graham and his historical context (who we'll read on Friday).
+
+
+Questions to keep in mind while reading: How did Graham establish his authority as a dietary reformer? How was cholera related to his success and thinking about diet? How was Graham's argument for a meat-free diet different from the Bible Christians discussed early in the chapter?
 
 {% include alert.html class='danger' title='Reading Reflections' text="
 - Group 1: [Prompt Reflection](reading-reflections#prompt-reflection)
@@ -150,7 +155,7 @@ The dietary advice we saw directly primarily toward the upper classes in the pre
 - Sylvester Graham, [Lectures on the Science of Human Life](https://books.google.com/books?id=uBUDAAAAQAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), preface (i-vii), and skim Table of Contents that follows. What topics stand out to you? What were you expecting to see? How is it different from what you expected?
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-How, if at all, are dietary concerns of the early 19th century---especially concerning natural diet---different from our own?
+How, if at all, are dietary CONCERNS of the early 19th century---especially concerning natural diet---similar to and different from our own? How is the RHETORIC similar to and different from our own? (To be clear: rhetoric refers to the way someone tries to persuade you of something)
 "%}
 
 
