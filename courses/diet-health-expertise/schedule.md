@@ -130,10 +130,13 @@ Remember that about 1/2 your weekly reflection should answer these questions, an
 The dietary advice we saw directly primarily toward the upper classes in the previous week moves into the emerging middle class in the early 19th century. In particular, physicians and moral reformers see diets changing as a result of industrialization and urbanization as a distinct societal ill. We look at how moral and dietary advice become even more tightly coupled throughout the 1800s. Later in the course, we'll see how that link has persisted into the present day.
 
 ### Mon 9/07 (Labor Day)
+{% include alert.html class='info' title='Relax' text="
+Nothing due today! Enjoy your virtual BBQs!!
+"%}
 
 ### Tue 9/08
 - BRIEF LECTURE: Mostly a review lecture with a BRIEF intro to 19th-century diet (link TBP; also via the [course YouTube Channel](https://www.youtube.com/channel/UCt6_7arYzi4TcIIwo7TLURw))
-- Lecture quiz (you know what to do) due TUESDAY NIGHT. Like the lecture, this is mostly course review, but a little bit on diet stuff for this week.
+- EXTRA CREDIT Lecture quiz (via Learn as always) due TUESDAY NIGHT. Like the lecture, this is mostly course review, but a little bit on diet stuff for this week. This quiz is OPTIONAL. If you don't want extra points, don't take this quiz! That doesn't mean it will be easy, but the points are EXTRA.
 
 
 ### Wed 9/09
@@ -155,7 +158,7 @@ Questions to keep in mind while reading: How did Graham establish his authority 
 - Sylvester Graham, [Lectures on the Science of Human Life](https://books.google.com/books?id=uBUDAAAAQAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), preface (i-vii), and skim Table of Contents that follows. What topics stand out to you? What were you expecting to see? How is it different from what you expected?
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-How, if at all, are dietary CONCERNS of the early 19th century---especially concerning natural diet---similar to and different from our own? How is the RHETORIC similar to and different from our own? (To be clear: rhetoric refers to the way someone tries to persuade you of something)
+How, if at all, are dietary CONCERNS of the early 19th century---especially about natural diet---similar to and different from our own concerns about natural diets? How is the RHETORIC similar to and different from our own? (To be clear: rhetoric refers to the way someone tries to persuade you of something.)
 "%}
 
 
