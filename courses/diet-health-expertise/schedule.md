@@ -126,14 +126,14 @@ Remember that about 1/2 your weekly reflection should answer these questions, an
 
 
 
-
 ## Week 4: Natural and Moral Diets of the 1800s
-The dietary advice we saw directly primarily toward the upper classes in the previous week moves into the emerging middle class in the early 19th century. In particular, physicians and moral reformers see diets changing as a result of industrialization and urbanization as a distinct societal ill. We look at how moral and dietary advice become even more tightly coupled throughout the 1800s. Later in the course, we'll see how that link has persisted even into the present day.
+The dietary advice we saw directly primarily toward the upper classes in the previous week moves into the emerging middle class in the early 19th century. In particular, physicians and moral reformers see diets changing as a result of industrialization and urbanization as a distinct societal ill. We look at how moral and dietary advice become even more tightly coupled throughout the 1800s. Later in the course, we'll see how that link has persisted into the present day.
 
-### Mon 9/07
-- Emerging Questions on Natural Diets (link TBP; also via the [course YouTube Channel](https://www.youtube.com/channel/UCt6_7arYzi4TcIIwo7TLURw))
-- Lecture quiz (you know what to do)
+### Mon 9/07 (Labor Day)
 
+### Tue 9/08
+- BRIEF LECTURE: Mostly a review lecture with a BRIEF intro to 19th-century diet (link TBP; also via the [course YouTube Channel](https://www.youtube.com/channel/UCt6_7arYzi4TcIIwo7TLURw))
+- Lecture quiz (you know what to do) due TUESDAY NIGHT. Like the lecture, this is mostly course review, but a little bit on diet stuff for this week.
 
 
 ### Wed 9/09
