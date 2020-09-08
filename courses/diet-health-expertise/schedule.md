@@ -140,18 +140,18 @@ Nothing due today! Enjoy your virtual BBQs!!
 - EXTRA CREDIT Lecture quiz (via Learn as always) due WEDNESDAY NIGHT. Like the lecture, this is mostly course review, but a little bit on diet stuff for this week. This quiz is OPTIONAL. If you don't want extra points, don't take this quiz! That doesn't mean it will be easy, but the points are EXTRA.
 
 {% include alert.html class='warning' title='Double Trouble' text="
-I ended up making two shorter videos and corresponding quizzes, to keep things a bit more compartmentalized. So there is a [broader themes review](https://youtu.be/C6AOzfoU_sw) video and a [week 4 background and preview](https://youtu.be/TtGezq2yDBA) video. The accompanying EXTRA CREDIT quizzes are self-explanatory and in Learn as always.
+I'm leaving the original syllabus entry for today unedited above, but I ended up making two shorter videos and corresponding quizzes, to keep things a bit more compartmentalized. So there is a [broader themes review](https://youtu.be/C6AOzfoU_sw) video and a [week 4 background and preview](https://youtu.be/TtGezq2yDBA) video. The accompanying EXTRA CREDIT quizzes are self-explanatory and in Learn as always.
 "%}
 
 
 
-{% include alert.html class='info' title='Relax' text="
+{% include alert.html class='info' title='Primary Sources in Action' text="
 I've uploaded [a short video](https://youtu.be/gvCk9jhLie8) that highlight a few passages from four early nineteenth-century texts. This is just to help give you a sense of some of the texts and ideas circulating about natural diet right before Graham become well known.
 
-William Buchan, [_Domestic Medicine_](https://books.google.com/books?id=Z7VbAAAAcAAJ) (1812).
-John Frank Newton, _[The Return to Nature](https://books.google.com/books?id=8dwhAQAAMAAJ): Or, A Defence of the Vegetable Regimen; with Some Account of an Experiment Made during the Last Three or Four Years in the Author’s Family_ (1811)
-John Ayrton Paris, _[A Treatise on Diet](https://books.google.com/books?id=xylFAAAAcAAJ) with a View to Establish ...: A System of Rules for the Prevention and Cure of Diseases Incident to a Disordered State of the Digestive Functions_ (1829).
-Charles Turner Thackrah, _[Lectures on Digestion and Diet](https://books.google.com/books?id=t9cGAAAAQAAJ)_ (1824).
+- William Buchan, [_Domestic Medicine_](https://books.google.com/books?id=Z7VbAAAAcAAJ) (1812).
+- John Frank Newton, _[The Return to Nature](https://books.google.com/books?id=8dwhAQAAMAAJ): Or, A Defence of the Vegetable Regimen; with Some Account of an Experiment Made during the Last Three or Four Years in the Author’s Family_ (1811)
+- John Ayrton Paris, _[A Treatise on Diet](https://books.google.com/books?id=xylFAAAAcAAJ) with a View to Establish ...: A System of Rules for the Prevention and Cure of Diseases Incident to a Disordered State of the Digestive Functions_ (1829).
+- Charles Turner Thackrah, _[Lectures on Digestion and Diet](https://books.google.com/books?id=t9cGAAAAQAAJ)_ (1824).
 
 "%}
 
