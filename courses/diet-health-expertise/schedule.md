@@ -177,7 +177,7 @@ Questions to keep in mind while reading: How did Graham establish his authority 
 
 {% include alert.html class='danger' title='Weekly reflection' text="
 First, compare and contrast Graham's advice for healthy living with that of Cheyne. Be specific, but don't lose sight of the big picture! More broadly: how is the rhetoric similar to and different from what we've seen in the course so far? How is it similar to and different from our own rhetoric about a healthy diet? (To be clear: rhetoric refers to the way someone tries to persuade you of something.)
-"%|
+"%}
 
 
 
