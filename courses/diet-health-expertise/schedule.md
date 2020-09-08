@@ -176,8 +176,8 @@ Questions to keep in mind while reading: How did Graham establish his authority 
 - Sylvester Graham, [Lectures on the Science of Human Life](https://books.google.com/books?id=uBUDAAAAQAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), preface (i-vii), and skim Table of Contents that follows. What topics stand out to you? What were you expecting to see? How is it different from what you expected?
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-How, if at all, are dietary CONCERNS of the early 19th century---especially about natural diet---similar to and different from our own concerns about natural diets? How is the RHETORIC similar to and different from our own? (To be clear: rhetoric refers to the way someone tries to persuade you of something.)
-"%}
+First, compare and contrast Graham's advice for healthy living with that of Cheyne. Be specific, but don't lose sight of the big picture! More broadly: how is the rhetoric similar to and different from what we've seen in the course so far? How is it similar to and different from our own rhetoric about a healthy diet? (To be clear: rhetoric refers to the way someone tries to persuade you of something.)
+"%|
 
 
 
