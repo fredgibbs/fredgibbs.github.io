@@ -445,8 +445,17 @@ Common
     text-transform: uppercase;
     font-size:1.1rem;
     margin: 0 0 .4rem 0;
+    color:#c60;
+  }
+
+
+  #syllabus h5 a {
+    text-transform: uppercase;
+    font-size:1.1rem;
+    margin: 0 0 .4rem 0;
     color:#333
   }
+
 
   #syllabus li {
     margin-bottom:.5rem;
