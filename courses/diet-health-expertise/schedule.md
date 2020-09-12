@@ -185,8 +185,31 @@ First, compare and contrast Graham's advice for healthy living with that of Chey
 ## Week 5: Scientific and Quantified Eating
 There has been no bigger shift in dietary advice than a shift to understanding health and what we eat in terms of numbers, averages, and scales. This week examines some of the earliest developments in quantification of dietary knowledge and advice. Of course we confront the implications of this paradigm shift each day as we see nutritional information labels, scales, and watch-like devices that count our number of steps each day.
 
+
+### Things to keep in mind this week
+
+#### Draw connections between the emerging mechanistic body of the 1700s, the morality of diet in the early 1800s with the development of quantified nutrition in the mid to late 1800s.
+This week continues to build on the mechanistic ideas about the body we saw in Cheyne. Also Continuing the moral component that we saw in Graham. Not justified through philosophy of natural diet, but through quantified nutrition. On page 56, Mudry notes that: "Distinguishing between good and bad food required an understanding of the scientific composition of various foods, the nutrients they furnished to the human body, and calculating a cost/nutrient ratio for each.” The phrase “good and bad” food is of course not just a judgment about the food, but the people who consume it.
+
+
+#### Critically evaluate unintended consequences of quantified nutritional research
+While there are obvious advantages to quantifying nutritional research, we should think also about unintended consequences. One of these is an unhealthy obsession with counting calories or other facets of nutrition, as many of you have noted. Another one is the fact that stuff we can’t quantify (like enjoying food) gets separated from the discourse about diet and health. So some ways of thinking about diet that might actually be extremely useful and important get sidelined in favor of knowledge that is maybe less useful but far more measurable.
+
+
+
+#### Make explicit links between immigration, domestic science, nationalism, nutrition
+We’ll read about how immigrants to the US were especially targeted by dietary reformers in the early 20th century. An important social phenomenon to keep in mind is how closely food choice and cultural identity are related. It’s a bit jarring to see how immigrants’ diets were criticized ostensibly on nutritional grounds, but really because that some reformers (usually upper middle class white folk) thought all the different people and customs coming into the US would be socially destructive. It’s alarming (and depressing) to think about what food in the US would look like if immigrants weren’t smart enough to ignore such advice about how to “eat right".
+
+
+#### Recognize the how knowledge of the invisible continued to shape the nature of medical expertise
+The popularization of the calorie at the end of the 19th and early 20th centuries parallels the popularization of germ theory. Note here that THE IMPORTANCE OF THE INVISIBLE. You can’t be a respected physicians without understanding invisible germs; you can’t be a respected nutritionist (although the actual discipline comes later) without knowing about calories (and later vitamins, etc)—again, KNOWLEDGE OF THE INVISIBLE. If this doesn’t remind you of Cheyne, you should go back and review. You can see this happening also in the hospital efficiency movement (Mudry, 54–55).
+
+
 ### Mon 9/14
 - Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67.
+
+Prompt question: On p. 64 Mudry concludes that "after the development of the science of nutrition, moral terms like “good” and “bad” became enumerated and objectified in discussions of food."" To what extent are you convinced by her argument and evidence? The most important aspect of your reply is the ARGUMENT and EVIDENCE that YOU PROVIDE.
+
 
 {% include alert.html class='danger' title='Reading Reflections' text="
 - Group 1: [Comparative Reflection](reading-reflections#comparative-reflection)
@@ -197,26 +220,26 @@ There has been no bigger shift in dietary advice than a shift to understanding h
 
 ### Wed 9/16
 - Charlotte Biltekoff, *Eating Right in America*, Chapter 2: Scientific Moralization, 13--44.
-Here we get another look at food reformers in the early 20th century, with an emphasis on the links between diet and morality. A few key points to consider: What does "morality" mean in this chapter? Why is it so important (per the reformers) to have the proper diet? How is the proper diet related to the supposedly universal calorie?   
+
+Prompt question: Today we get another look at food reformers in the early 20th century, particularly Ellen Richards, with an emphasis on the links between diet and morality. Describe the link between home economics, nutrition, and immigration. How and why did these come to intersect as according to Biltekoff (and Mudry)?
 
 {% include alert.html class='danger' title='Reading Reflections' text="
 - Group 1: [Standard Reflection](reading-reflections#standard-reflection)
 - Group 2: [Connective Reflection](reading-reflections#connective-reflection)
 - Group 3: [Prompt Reflection](reading-reflections#prompt-reflection)
-- Group 4: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of TUESDAY)
+- Group 4: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of THURSDAY)
 "%}
 
 
 ### Fri 9/18
 - Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine*, 34 (May 1887): 59--74.
-We don't need to summarize the main points of the article---they are clearly stated at the end. Our goal is to understand the overall flavor of this article that is representative of Atwater’s work so often referenced in our readings of late. *Skim but don't totally skip* the science lesson details. Think about:
+Our goal with this primary source is to understand the tone of this work so often referenced in our readings this week. *Skim but don't totally skip* the science lesson details. Think about:
   - How does article reflect larger scientific currents?
-  - To what extent has this been true for our other sources?
   - What’s the point of all the science detail?
-  - How/why does metaphor play such a prominent role in his explanations? Does that still happen?
+  - How/why does metaphor play such a prominent role in his explanations?
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-How does Atwater establish his credibility, authority, and expertise? How was his approach different from Cheyne (two weeks ago)?
+How does Atwater establish his credibility, authority, and expertise? Be specific! How was his approach different from Cheyne and Graham? How much do you agree with Mudry's and Biltekoff's interpretations of Atwater after reading his work for yourself?
 "%}
 
 
@@ -230,17 +253,22 @@ This is a week of primary sources---dietary advice texts written between 1918 an
 - Lulu Hunt Peters,  [Diet and Health: With Key to the Calories](https://www.google.com/books/edition/Diet_and_Health/f7UXAAAAYAAJ?hl=en&gbpv=1) (1918).
 
 {% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Connective Reflection](reading-reflections#connective-reflection)
+- Group 1: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of TUESDAY)
 - Group 2: [Standard Reflection](reading-reflections#standard-reflection)
+- Group 3: [Comparative Reflection](reading-reflections#comparative-reflection)
+- Group 4: [Prompt Reflection](reading-reflections#prompt-reflection)
 "%}
+
 
 
 ### Wed 9/23
 - John Harvey Kellogg, [_The New Dietetics, what to Eat and how: A Guide to Scientific Feeding in Health and Disease_](https://www.google.com/books/edition/_/CBGxvXF332cC?hl=en&gbpv=1&pg=PA1) (1921). Read the Preface (5--7); skim the Table of Contents (8--21); read 25--37.
 
 {% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Standard Reflection](reading-reflections#standard-reflection)
-- Group 2: [Comparative Reflection](reading-reflections#comparative-reflection)
+- Group 1: [Prompt Reflection](reading-reflections#prompt-reflection)
+- Group 2: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of THURSDAY)
+- Group 3: [Standard Reflection](reading-reflections#standard-reflection)
+- Group 4: [Comparative Reflection](reading-reflections#comparative-reflection)
 "%}
 
 
@@ -253,7 +281,7 @@ This is a week of primary sources---dietary advice texts written between 1918 an
 
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-Even though they are published within a few years of each other, how do the three authors from this week differ in how they define a successful diet? How do the authors establish their expertise?
+Even though they are published within a few years of each other, in what ways are they similar and different kinds of texts? What are the similarities and differences between how the authors establish their expertise?
 "%}
 
 
