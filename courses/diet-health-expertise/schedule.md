@@ -99,7 +99,7 @@ This is a week of primary sources---dietary advice texts written between 1918 an
 
 Note that our Friday reading starts to get into vitamins, which is the topic for next week, so you're right if they seem to come out of nowhere. McCollum was trying to introduce vitamins in the same way Atwater was trying to introduce calories. So it's a good introduction for us as well, but we'll get into more detail next week.
 
-For each source this week, I've indicated specific pages you should read fairly carefully. In addition, you should also examine the table on contents and randomly sample pages or small sections throughout the book to get a feel for the text as a whole---namely what is and what isn't addressed in the text, and HOW so.
+For each source this week, I've indicated specific pages you should read fairly carefully. In addition, you should also examine the table of contents and randomly sample pages or small sections throughout the book to get a feel for the text as a whole---namely what is and what isn't addressed in the text, and HOW so.
 
 {% include alert.html class='warning' title='Primary Source Reflections' text="
 I think you might be getting a wee bored of the usual response groups. To be honest, I am. (You read everyone else's posts, too, right?!?)
@@ -112,9 +112,9 @@ So the usual weekly reflection will be replaced by a primary source reflection t
 #### What is a primary source reflection?
 A primary source reflection is ~250-word post (slightly longer than usual in lieu of no weekly reflection, but less overall writing for the week) that answers two related questions as thoroughly as you can:
 
-- **Why do you think I wanted you to read this source? What is it meant to illustrate?**
+- **Why do you think I want you to read this source? What is it meant to illustrate?**
 
-To answer this thoroughly, consider how the text fits into the course narrative so far. Thank about how it addresses (or doesn't) the major themes we've focused on, especially ways of establishing expertise, continuities and discontinuities of dietary advice, moral component of dietary choices, and differing rhetorical styles. I'd also love to know if you found this assignment a bit more interesting than the usual group work.
+To answer this thoroughly, consider how the text fits into the course narrative so far. Think about how it addresses (or doesn't) the major themes we've focused on, especially ways of establishing expertise, continuities and discontinuities of dietary advice, moral component of dietary choices, and differing rhetorical styles. I'd also love to know if you found this assignment a bit more interesting than the usual group work.
 
 
 
