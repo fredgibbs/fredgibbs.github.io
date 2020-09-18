@@ -10,174 +10,22 @@ section: schedule
 # HIST 410: Readings and Assignments
 
 
-## Week 1: Introductions + Key Concepts
+## [Week 1: Introductions + Key Concepts](weeks/1)
 This week we're just getting up to speed and reading two VERY different perspectives on how we can think about the links between nutrition and health generally. You have a few short introductory assignments to complete before Wednesday (ideally on Monday), and we jump into our more or less regular routine starting on Wednesday.
 
-All assignments are DUE BY MIDNIGHT on the day they are listed on this page. Let me know if something is not clear (ideally via Slack)!
-
-
-### Mon 8/17  
-- Introduction to the course, syllabus, and expectations.
-
-{% include alert.html class='danger' title='Introductory stuff' text="
-There are a couple things to do just to make sure we're all connected. Please do them ASAP, but make sure these are done BEFORE WEDNESDAY.
-
-- Take the Syllabus Quiz. The point is to confirm and highlight key aspects of the course to avoid confusion later. All quizzes are accessible through UNM Learn (there is a quizzes link on the left nav bar).
-
-- Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post a brief introduction to who you are and some opinion about diet and health that you've changed your mind about---we all have many! These should be substantive but not long, ~150 words or so.
-"%}
-
-
-
-### Wed 8/19  
-- Gary Taubes, [Why Nutrition is So Confusing](https://search-proquest-com.libproxy.unm.edu/docview/1496257577/fulltext/61D8DF94940D48FBPQ/1?accountid=14613).
-
-{% include alert.html class='danger' title='Reading reflection' text="
-No groups for this week. Everyone will post a 'standard' reading reflection (as described on the [reading reflections](reading-reflections) page), addressing the following: How much do you agree or disagree with the Taubes article? How much much do you think knowledge of nutrition contribute individual dietary choices? Feel free to draw personal experiences, whatever you've read about diet or nutrition, other courses, etc.
-"%}
-
-
-
-### Fri 8/21
-- Jessica J. Mudry, *Measured Meals. Nutrition in America*, 1-19 (Introduction: Eating by Numbers).
-
-{% include alert.html class='danger' title='Weekly reflection' text="
-Remember that Fridays are always for [WEEKLY reflections](weekly-reflections), so you'll never write only about the Friday reading---you'll always discuss it in context with the rest of the week.
-
-How do Mundry and Taubes take very different approaches to thinking about nutrition? What are the assumptions of the authors in terms of how we create knowledge of nutrition? How much to you agree that we really don't know what a healthy diet is? How much do you agree that there are real dangers in quantification? Whose perspective/article is more convincing?
-"%}
-
-
-
-
-## Week 2:  The Long History of Dietary Advice
+## [Week 2:  The Long History of Dietary Advice](weeks/2)
 This week we cover medical and dietary thinking from ancient Greece and Rome through about 1700. Some of the medical thinking seems a bit bizarre to our modern sensibilities, but in terms of dietary advice, there is a remarkable consistency over the last 2000 years. So it's worth looking at the foundational thinking that has directly influenced modern nutrition, even if if certain aspects have been dramatically altered by increasingly sophisticated biochemical research.
 
-### Mon 8/24
-- Classical medicine, diet, and [Intro to Galen Lecture](https://youtu.be/9evKPqKOvUY)
-- Mark Grant, _Galen: On Food and Diet_, 1-8. These few pages provide a general introduction to the classical physician Galen (died circa 215 CE) and ancient medicine. The author of the introduction has translated many of Galen's writing about food, and we'll read a excerpt from those as noted below.
-- Galen, (tr. Mark Grant), _On the Humors_, 14-18; _On the Power of Foods_, 68-84. Note that there is WAY MORE DETAIL about foods in here than you need to know. Remember we're not concerned with that level of detail. Read for the big picture in terms of how Galen establishes his expertise, what topics are most interesting to him, how he thinks about the relationship between diet and health. What can you learn about medical practice in the ancient world from Galen's writing? What can you learn about how different foodstuffs differ from each other?
 
-{% include alert.html class='danger' title='Reading reflection' text="
-Still getting settled: no groups for this week. Everyone will post a regular ~200 word reading reflection to address the following:
-
-How did physicians like Galen conceive the notion of disease? According to Galen, how does diet fit into medical understandings of disease? How is his approach similar and different to modern approaches to diet? How do we make sense of Galen's writing style?﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ Your responses should also draw on both the readings and ﻿﻿﻿﻿the video lecture.
-"%}
-
-
-### Wed 8/26
-- [Visualizing Medieval Medicine Lecture](https://youtu.be/Jre-MOGaGmw) (posted on the YouTube channel)
-- Lecture Quiz (see Quizzes link on left nav of UNM Learn)
-
-
-### Fri 8/28
-- Ken Albala, _Eating Right in the Renaissance_, 63--77; 78--84; 91--104.
-
-{% include alert.html class='danger' title='Weekly reflection' text="
-How would you characterize premodern dietary thinking? What aspects of dietary advice have persisted across the ancient, medieval, and early modern periods? What elements have been discarded? How is premodern dietary thinking inferior to our current model? It what ways might it be superior?
-"%}
-
-
-
-## Week 3:  Dietary Expertise in the Enlightenment
+## [Week 3:  Dietary Expertise in the Enlightenment](weeks/3)
 Our 2-part reading for this week continues and focuses our previous attention to medical expertise and moral authority. It's very clearly written, but quite dense, so it's spread across two days so we can unpack it.
 
 The theme for the week is how physicians beginning the 1700s started promoting dietary advice and their expertise in different ways than they did previously (see Week 2). We also see the early ties between dietary advice, moral authority, a common sense, a group we'll come back to repeatedly over the semester.
 
 
-### Mon 8/31
-- Steven Shapin, "Trusting George Cheyne," 263--79.
 
-Questions to keep in mind while reading: Why is "micromechanism" important in this article and for 18th-century physicians? How did was it invoked in medical practice? Are there any modern analogs to the micromechanistic approach?
-
-{% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Standard Reflection](reading-reflections#standard-reflection)
-- Group 2: [Connective Reflection](reading-reflections#connective-reflection)
-- Group 3: [Prompt Reflection](reading-reflections#prompt-reflection)
-- Group 4: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of TUESDAY)
-"%}
-
-
-### Wed 9/02
-- Steven Shapin, "Trusting George Cheyne," 279--97.
-
-Questions to keep in mind while reading: What kinds of advice did his patients get in their personal correspondence? Was there any conflict with common sense? How did Cheyne appeal to morality in his letters with patients?
-
-{% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of THURSDAY)
-- Group 2: [Standard Reflection](reading-reflections#standard-reflection)
-- Group 3: [Comparative Reflection](reading-reflections#comparative-reflection)
-- Group 4: [Prompt Reflection](reading-reflections#prompt-reflection)
-"%}
-
-
-### Fri 9/04
-- George Cheyne, [_An Essay on Regimen_](https://www.google.com/books/edition/_/ezswAAAAYAAJ?hl=en&gbpv=1)," i-xxiv, and randomly sample the whole text to get a feel for the tone, language, and rhetorical effect. Note that a single "s" within a word looks like an "f". For instance, on title page you'll see "Philofophical" instead of "Philosophical". Yes, the long "f"s and the language in general seems weird to us moderns, but you get used to it after a few pages.
-
-A NOTE ON PRIMARY SOURCES: After taking an upper-level history course, you should end up with a sense of what historians actually do. You'll see that working with historical sources is difficult! Like in any profession, good historians make it seem easy. The stories, the narratives, the summary, etc—--it all seem so obvious! But when you go back at look at the source material, you can understand how much work and INTERPRETATION goes into those. Nothing at all is truly obvious.
-
-
-
-{% include alert.html class='danger' title='Weekly reflection' text="
-How does Cheyne's advice (from Friday's reading) echo what we've been reading about up to this point? What is different? How did Cheyne establish his medical reputation? Aside from the language, how different or similar is Cheyne's way of establishing expertise compared to modern dietary experts?
-
-Remember that about 1/2 your weekly reflection should answer these questions, and about 1/2 should describe your own experience with the readings and assignments for the week. See the [Weekly Reflections Guide](weekly-reflections) for more details.
-"%}
-
-
-
-## Week 4: Natural and Moral Diets of the 1800s
+## [Week 4: Natural and Moral Diets of the 1800s](weeks/4)
 The dietary advice we saw directly primarily toward the upper classes in the previous week moves into the emerging middle class in the early 19th century. In particular, physicians and moral reformers see diets changing as a result of industrialization and urbanization as a distinct societal ill. We look at how moral and dietary advice become even more tightly coupled throughout the 1800s. Later in the course, we'll see how that link has persisted into the present day.
-
-### Mon 9/07 (Labor Day)
-{% include alert.html class='info' title='Relax' text="
-Nothing due today! Enjoy your virtual BBQs!!
-"%}
-
-### Tue 9/08
-- BRIEF LECTURE: Mostly a review lecture with a BRIEF intro to 19th-century diet (link TBP; also via the [course YouTube Channel](https://www.youtube.com/channel/UCt6_7arYzi4TcIIwo7TLURw))
-
-- EXTRA CREDIT Lecture quiz (via Learn as always) due WEDNESDAY NIGHT. Like the lecture, this is mostly course review, but a little bit on diet stuff for this week. This quiz is OPTIONAL. If you don't want extra points, don't take this quiz! That doesn't mean it will be easy, but the points are EXTRA.
-
-{% include alert.html class='warning' title='Double Trouble' text="
-I'm leaving the original syllabus entry for today unedited above, but I ended up making two shorter videos and corresponding quizzes, to keep things a bit more compartmentalized. So there is a [broader themes review](https://youtu.be/C6AOzfoU_sw) video and a [week 4 background and preview](https://youtu.be/TtGezq2yDBA) video. The accompanying EXTRA CREDIT quizzes are self-explanatory and in Learn as always.
-"%}
-
-
-
-{% include alert.html class='info' title='Primary Sources in Action' text="
-I've uploaded [a short video](https://youtu.be/gvCk9jhLie8) that highlight a few passages from four early nineteenth-century texts. This is just to help give you a sense of some of the texts and ideas circulating about natural diet right before Graham become well known.
-
-- William Buchan, [_Domestic Medicine_](https://books.google.com/books?id=Z7VbAAAAcAAJ) (1812).
-- John Frank Newton, _[The Return to Nature](https://books.google.com/books?id=8dwhAQAAMAAJ): Or, A Defence of the Vegetable Regimen; with Some Account of an Experiment Made during the Last Three or Four Years in the Author’s Family_ (1811)
-- John Ayrton Paris, _[A Treatise on Diet](https://books.google.com/books?id=xylFAAAAcAAJ) with a View to Establish ...: A System of Rules for the Prevention and Cure of Diseases Incident to a Disordered State of the Digestive Functions_ (1829).
-- Charles Turner Thackrah, _[Lectures on Digestion and Diet](https://books.google.com/books?id=t9cGAAAAQAAJ)_ (1824).
-
-"%}
-
-
-
-### Wed 9/09
-- Adam D. Shprintzen, _The Vegetarian Crusade_, Chapter 1: Proto-vegetarianism, 10-27; 32-38. This chapter briefly describes some early religious sentiments supporting vegetarianism, but most importantly (and the main reason we're reading it), it introduces Sylvester Graham and his historical context (who we'll read on Friday).
-
-
-Questions to keep in mind while reading: How did Graham establish his authority as a dietary reformer? How was cholera related to his success and thinking about diet? How was Graham's argument for a meat-free diet different from the Bible Christians discussed early in the chapter?
-
-{% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Prompt Reflection](reading-reflections#prompt-reflection)
-- Group 2: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of THURSDAY)
-- Group 3: [Standard Reflection](reading-reflections#standard-reflection)
-- Group 4: [Comparative Reflection](reading-reflections#comparative-reflection)
-"%}
-
-
-### Fri 9/11
-- Sylvester Graham, [A Defence of the Graham System of Living: Or, Remarks on Diet and Regimen. Dedicated to the Rising Generation](https://books.google.com/books?id=ODRlD83ww9IC), 7--15; 88--89; 95--104.
-- Sylvester Graham, [Lectures on the Science of Human Life](https://books.google.com/books?id=uBUDAAAAQAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), preface (i-vii), and skim Table of Contents that follows. What topics stand out to you? What were you expecting to see? How is it different from what you expected?
-
-{% include alert.html class='danger' title='Weekly reflection' text="
-First, compare and contrast Graham's advice for healthy living with that of Cheyne. Be specific, but don't lose sight of the big picture! More broadly: how is the rhetoric similar to and different from what we've seen in the course so far? How is it similar to and different from our own rhetoric about a healthy diet? (To be clear: rhetoric refers to the way someone tries to persuade you of something.)
-"%}
 
 
 
@@ -247,42 +95,55 @@ How does Atwater establish his credibility, authority, and expertise? Be specifi
 
 
 ## Week 6: Early Dietary Advice + Expertise comparison
-This is a week of primary sources---dietary advice texts written between 1918 and 1922. They are all COMPLETELY different in their tone, approach, rhetoric, and the way they cultivate expertise. So we'll look at how the same cultural context could yield such different texts and how they collectively tell a very different story about the history of diet/health/nutrition than any one of them alone could do.
+This is a week of primary sources---dietary advice texts written between 1918 and 1922. They are all COMPLETELY different in their tone, approach, rhetoric, and the way their authors try to establish their expertise. Our goal is to understand how the same cultural context could yield such different texts and how they collectively illustrate several important facets of the history of diet/health/nutrition.
+
+Note that our Friday reading starts to get into vitamins, which is the topic for next week, so you're right if they seem to come out of nowhere. McCollum was trying to introduce vitamins in the same way Atwater was trying to introduce calories. So it's a good introduction for us as well, but we'll get into more detail next week.
+
+For each source this week, I've indicated specific pages you should read fairly carefully. In addition, you should also examine the table on contents and randomly sample pages or small sections throughout the book to get a feel for the text as a whole---namely what is and what isn't addressed in the text, and HOW so.
+
+{% include alert.html class='warning' title='Primary Source Reflections' text="
+I think you might be getting a wee bored of the usual response groups. To be honest, I am. (You read everyone else's posts, too, right?!?)
+
+As we're doing something different with our readings this week, let's do something a bit more creative with our reflections. We will pause the groups, and everyone will do the same kind of response for each day, a PRIMARY SOURCE REFLECTION. Everyone will do these for Monday, Wednesday, AND FRIDAY.
+
+So the usual weekly reflection will be replaced by a primary source reflection this week, as noted below.
+"%}
+
+#### What is a primary source reflection?
+A primary source reflection is ~250-word post (slightly longer than usual in lieu of no weekly reflection, but less overall writing for the week) that answers two related questions as thoroughly as you can:
+
+- **Why do you think I wanted you to read this source? What is it meant to illustrate?**
+
+To answer this thoroughly, consider how the text fits into the course narrative so far. Thank about how it addresses (or doesn't) the major themes we've focused on, especially ways of establishing expertise, continuities and discontinuities of dietary advice, moral component of dietary choices, and differing rhetorical styles. I'd also love to know if you found this assignment a bit more interesting than the usual group work.
+
+
 
 ### Mon 9/21
-- Lulu Hunt Peters,  [Diet and Health: With Key to the Calories](https://www.google.com/books/edition/Diet_and_Health/f7UXAAAAYAAJ?hl=en&gbpv=1) (1918).
+- Lulu Hunt Peters,  [Diet and Health: With Key to the Calories](https://www.google.com/books/edition/Diet_and_Health/f7UXAAAAYAAJ?hl=en&gbpv=1) (1918). Read the first 3.5 chapters, pp. 11--39 (these are tiny pages and the writing is rather breezy compared to what we're used to).
 
-{% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of TUESDAY)
-- Group 2: [Standard Reflection](reading-reflections#standard-reflection)
-- Group 3: [Comparative Reflection](reading-reflections#comparative-reflection)
-- Group 4: [Prompt Reflection](reading-reflections#prompt-reflection)
+{% include alert.html class='danger' title='Primary Source Reflections' text="
+See the description above. Have fun!
 "%}
 
 
 
 ### Wed 9/23
-- John Harvey Kellogg, [_The New Dietetics, what to Eat and how: A Guide to Scientific Feeding in Health and Disease_](https://www.google.com/books/edition/_/CBGxvXF332cC?hl=en&gbpv=1&pg=PA1) (1921). Read the Preface (5--7); skim the Table of Contents (8--21); read 25--37.
+- John Harvey Kellogg, [_The New Dietetics, what to Eat and how: A Guide to Scientific Feeding in Health and Disease_](https://www.google.com/books/edition/_/CBGxvXF332cC?hl=en&gbpv=1&pg=PA1) (1921). Read the Preface (pp. 5--7); skim the Table of Contents (pp. 8--21); read pp. 25--37.
 
-{% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Prompt Reflection](reading-reflections#prompt-reflection)
-- Group 2: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of THURSDAY)
-- Group 3: [Standard Reflection](reading-reflections#standard-reflection)
-- Group 4: [Comparative Reflection](reading-reflections#comparative-reflection)
+{% include alert.html class='danger' title='Primary Source Reflections' text="
+Same deal as Monday.
 "%}
+
 
 
 ### Fri 9/25
-- Elmer McCollum, [The Newer Knowledge of Nutrition](https://www.google.com/books/edition/_/jndUnd5xX5wC?hl=en&gbpv=1) (1922). Stuff to think about:
-  - Read the preface (xii--ix), skim the Table of Contents, and read 1--13.
-  - How would you characterize the contents of the book?
-  - How does McCollum establish his expertise and legitimize the "new" way of studying nutrition and bodily health?
-  - How does the text differ from what impression you get from Price's chapters about vitamins?
+- Elmer McCollum, [The Newer Knowledge of Nutrition](https://www.google.com/books/edition/_/jndUnd5xX5wC?hl=en&gbpv=1) (1922). Read the preface (xii--ix), skim the Table of Contents, and read 1--13.
 
-
-{% include alert.html class='danger' title='Weekly reflection' text="
-Even though they are published within a few years of each other, in what ways are they similar and different kinds of texts? What are the similarities and differences between how the authors establish their expertise?
+{% include alert.html class='danger' title='Primary Source Reflections' text="
+NO WEEKLY REFLECTION this week. We're completing our primary source survey with another primary source reflection as you did for M and W.
 "%}
+
+
 
 
 
