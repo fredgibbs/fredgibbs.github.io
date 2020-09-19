@@ -165,29 +165,47 @@ No M/W reading responses due this week, but a slightly longer weekly reflection.
 ### Fri 10/02
 - Rima D. Apple, "'They Need it Now': Science, Advertising and Vitamins, 1925-1940".   
 
-{% include alert.html class='danger' title='Weekly reflection' text="
-Are vitamins and supplements necessary? Google some variant of that question and read through a handful of sites. USE THE READINGS FOR THIS WEEK to analyze the kinds of arguments made. Do you notice that they fall into distinct groups?  Does this history of vitamins matter in settling the debate? What's your take on the cacophony of modern vitamania?
+{% include alert.html class='danger' title='Vitamin Rhetoric Analysis' text="
+Are vitamins and supplements necessary? Google some variant of that question and read through a handful of health websites (ignore ones that are obviously all marketing with no substance to them). USE THE READINGS FOR THIS WEEK to analyze the kinds of arguments you find. Do they fall into distinct groups? Does the history of vitamins explain the rhetoric we still see?
+
+Figure out what 2-3 main points you want to make about your set of website and clearly organize your ~800 word posts to make those points.
 "%}
 
 
 
 ## Week 8: The fat enemy
-Is fat bad? Of course not, but to say it's controversial within dietary advice is a huge understatement. Why is this? This week examines how the idea of fat and fat bodies became something to avoid. Given the midterm-ness of this week, we're not doing individual reading responses, just a weekly learning reflection that ties everything together.
+Is fat bad? Of course not! But it is definitely controversial within dietary advice is a huge understatement. Why is this? This week examines how the idea of fat and fat bodies became something to avoid. Given the midterm-ness of this week, we're not doing individual reading responses, just a weekly learning reflection that ties everything together.
 
 
 
 ### Mon 10/5
 - Helen Zoe Veit, *Modern Food, Moral Food*, Chapter 7: The Triumph of the Will: The Progressive Body and the Thin Ideal, 157--80.
 
+{% include alert.html class='danger' title='Reading Reflections' text="
+For this exercise, bullet points are 1-2 complete sentences that clearly express a complete idea, not cryptic phrases that no one but you can understand.
+
+- Group 1+2: Write 5 bullet points that summarize what you think are the main points of the article.
+- Group 3+4: Write 5 bullet points that explain what's new and what's the same in terms of approaches to diet that we've seen developing in the course to this point.
+"%}
+
+
 ### Wed 10/07  
 - A. F. La Berge, “How the Ideology of Low Fat Conquered America,” _Journal of the History of Medicine and Allied Sciences_ 63.2 (2007): 139--77.
+
+{% include alert.html class='danger' title='Reading Reflections' text="
+For this exercise, bullet points are 1-2 complete sentences that clearly express a complete idea, not cryptic phrases that no one but you can understand.
+
+- Groups 3+4: Write 5 bullet points that summarize what you think are the main points of the article.
+- Groups 1+2: Write 5 bullet points that explain what's new and what's the same in approaches to diet that we've seen developing in the course to this point.
+"%}
+
 
 
 ### Fri 10/09
 - Catherine Carstairs, “‘Our Sickness Record Is a National Disgrace’: Adelle Davis, Nutritional Determinism, and the Anxious 1970s”, 461--91.
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-No specific question this week. Just write ~600 words on what you found most interesting, surprising, confusing, etc.
+No specific prompt or questions this week. Just write ~700 words on what you found most interesting, surprising, confusing, similar to / different from what we've read before, etc. Remember the goal is to show that you're familiar with ALL the readings for this week (and connect them to previous ones for max points)!
 "%}
 
 
@@ -365,18 +383,22 @@ For your weekly reflection this week, we're going to do a kind of a Final Course
 ## Week 15: Food Traditions and Societal Health
 We can't NOT read about Thanksgiving this week! These readings have nothing to do with diet/health, but it's useful to think about civic health in addition to bodily health. It's common to think about food as bringing people together, but it's also a way of keeping people apart.
 
-### Wed 11/25 (or anytime this week)
+### Anytime this week
 - Andrew F. Smith, “The First Thanksgiving”, _Gastronomica_ 3.4 (2003): 79–85.
 - Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70–74.
 - David Foster Wallace, "Consider the Lobster", _Gourmet_ (August 2004), 50--64. READ THE FOOTNOTES!
 - [Michael Twitty on Culinary Justice](https://www.youtube.com/watch?v=EhxjC3XX54g)
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-How much do you think food traditions play a role in societal health? What are we really celebrating? What is the national holiday supposed to mean? How will you celebrate/protest Thanksgiving this year?
+This is a more reflective/opinion post than normal, but they should still show me you're familiar with the readings for this week.
+- What is the NATIONAL holiday of Thanksgiving really celebrating or supposed to mean?
+- How much do you think food traditions play a role in societal health?
+- Does the holiday food itself really matter, or is it just a vehicle for other social functions?
+- Are memories and kinship intimately bonded to the particular foods we eat (and not just eating together)?
 "%}
 
 ### Thurs 11/26: Thanksgiving!
-Think about how important (or not) food traditions are for you. Does the food itself really matter, or is it just a vehicle for other social functions? Could it be getting in the way of something more important? Or are memories and kinship intimately bonded to what we eat? Safe travels (if applicable) and enjoy the mini-break!
+Bon Appétit!
 
 
 
