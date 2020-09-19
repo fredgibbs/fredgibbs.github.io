@@ -21,7 +21,7 @@ Provide a brief statement of what you found most interesting about the readings.
 - What questions did they bring up?
 
 ## Connective Reflection
-Provide a brief argument of how that day's reading assignment connects/relates to the topic from the previous week. Think about:
+Provide a brief argument of how that day's reading assignment connects/relates to the topic from the previous reading (possibly the week's Friday reading, possibly the previous Monday). Think about:
 - How does the reading extend ideas we've seen developing?
 - How does the reading offer new perspectives on diet/health/nutrition?
 - Do you find more continuity or discontinuity?

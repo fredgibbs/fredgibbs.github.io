@@ -166,7 +166,7 @@ No M/W reading responses due this week, but a slightly longer weekly reflection.
 - Rima D. Apple, "'They Need it Now': Science, Advertising and Vitamins, 1925-1940".   
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-Are vitamins supplements necessary? Google some variant of that question and read through a handful of sites. Analyze the kinds of arguments made. Do you notice that they fall into distinct groups?  Does this history of vitamins matter in settling the debate? What's your take on the cacophony of modern vitamania?
+Are vitamins and supplements necessary? Google some variant of that question and read through a handful of sites. USE THE READINGS FOR THIS WEEK to analyze the kinds of arguments made. Do you notice that they fall into distinct groups?  Does this history of vitamins matter in settling the debate? What's your take on the cacophony of modern vitamania?
 "%}
 
 
@@ -174,9 +174,6 @@ Are vitamins supplements necessary? Google some variant of that question and rea
 ## Week 8: The fat enemy
 Is fat bad? Of course not, but to say it's controversial within dietary advice is a huge understatement. Why is this? This week examines how the idea of fat and fat bodies became something to avoid. Given the midterm-ness of this week, we're not doing individual reading responses, just a weekly learning reflection that ties everything together.
 
-{% include alert.html class='warning' title='NO READING REFLECTIONS' text="
-No M/W reading responses due this week, but a slightly longer weekly reflection.
-"%}
 
 
 ### Mon 10/5
@@ -209,6 +206,8 @@ Nothing scheduled this week. If we need to catch up with anything, we can slot i
 
 
 ## Week 10: Obesity science, politics, and ethics
+Continuing with our obsession with fat, this week we evaluate some pieces on the so-called obesity epidemic in America. This week is less about historical constructions of diet as we've been focused on; instead we're looking at contemporary rhetoric of diet and health in terms of obesity. These articles are a bit dated, but they still perfectly exemplify the kind of dietary philosophies and speculation that we see everyday. Our job will be to critically evaluate these in terms of how we've learned to think about health and diet via history.
+
 
 ### Mon 10/19
 - Gary Taubes and Cristin Kearns Couzens, [Big Sugar's Sweet Little Lies](https://www.motherjones.com/environment/2012/10/sugar-industry-lies-campaign/), _Mother Jones_ (Nov/Dec 2012).
@@ -240,14 +239,16 @@ What is the role of nutrition science and research in understanding obesity? Wha
 
 
 ## Week 11: Chronic effects
+Our investigations into the history of diet have been about what we are deliberately putting into our bodies. But what about stuff we're putting into our bodies unknowingly? How can science study minute affects of certain chemicals in our bodies over long periods of time given the complexity and variety of everyone's diets?
+
 
 ### Mon 10/26
 - Ralph H. Lutts, “Chemical Fallout: Rachel Carson’s Silent Spring, Radioactive Fallout, and the Environmental Movement.” _Environmental Review_ 9.3 (1985): 211--25.
 - Rachel Carson, _Silent Spring_, 5--13; 15--37.
 
 {% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Standard Reflection](reading-reflections#standard-reflection)
-- Group 2: [Connective Reflection](reading-reflections#connective-reflection)
+- Group 1+2: [Standard Reflection](reading-reflections#standard-reflection). How do you think Carson's writing style may have contributed to her book's success?
+- Group 3+4: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of TUESDAY)
 "%}
 
 
@@ -270,6 +271,8 @@ How was Jenkins convincing and how was he not? Does the history of nutrition hol
 
 
 ## Week 12: Secret Ingredients and Regulation
+We assume our food is safe. We assume that corporations that sell us food aren't adulterating it or defrauding us. History shows that these are not always good assumptions.
+
 
 {% include alert.html class='warning' title='NO READING REFLECTIONS' text="
 No M/W reading responses due this week!
@@ -290,9 +293,9 @@ No M/W reading responses due this week!
 
 
 {% include alert.html class='danger' title='DEBATE!' text="
-Based on your group assignment, use the evidence and reasoning and history in the articles to argue in ~600 words (standard weekly reflection length) that government should play EITHER a stronger or weaker role in regulating particular ingredients in food. BOTH Wednesday's and today's readings are particularly useful here, so make sure to use them!
-- Group 1: Argue that the government should have a STRONGER role in food regulation
-- Group 2: Argue that the government should have a WEAKER role in food regulation
+Based on your group assignment, use the evidence and reasoning and history in the articles to argue in ~800 words that government should play EITHER a stronger or weaker role (depending on your group) in regulating particular ingredients in food. MAKE SURE YOUR ARGUMENT REFLECTS THE READINGS FOR THIS WEEK!
+- Group 1+2: Argue that the government should have a STRONGER role in food regulation
+- Group 3+4: Argue that the government should have a WEAKER role in food regulation
 "%}
 
 
