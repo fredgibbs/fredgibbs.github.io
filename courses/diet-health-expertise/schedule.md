@@ -99,10 +99,10 @@ This is a week of primary sources---dietary advice texts written between 1918 an
 
 Note that our Friday reading starts to get into vitamins, which is the topic for next week, so you're right if they seem to come out of nowhere. McCollum was trying to introduce vitamins in the same way Atwater was trying to introduce calories. So it's a good introduction for us as well, but we'll get into more detail next week.
 
-For each source this week, I've indicated specific pages you should read fairly carefully. In addition, you should also examine the table of contents and randomly sample pages or small sections throughout the book to get a feel for the text as a whole---namely what is and what isn't addressed in the text, and HOW so.
+For each source this week, I've indicated specific pages you should read fairly carefully. IN ADDITION---and this is ESSENTIAL---you should also carefully examine the table of contents and randomly sample pages or small sections throughout the book to get a feel for the text as a whole---namely what is and what isn't addressed in the text, and HOW so. BROAD FAMILIARITY with the text as a whole is essential for you to write a competent reflection on it.
 
 {% include alert.html class='warning' title='Primary Source Reflections' text="
-I think you might be getting a wee bored of the usual response groups. To be honest, I am. (You read everyone else's posts, too, right?!?)
+I think you might be getting a wee bored of the usual response groups. To be honest, I am too. (You also read everyone else's posts, right?!?)
 
 As we're doing something different with our readings this week, let's do something a bit more creative with our reflections. We will pause the groups, and everyone will do the same kind of response for each day, a PRIMARY SOURCE REFLECTION. Everyone will do these for Monday, Wednesday, AND FRIDAY.
 
