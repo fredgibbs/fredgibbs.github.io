@@ -114,7 +114,17 @@ A primary source reflection is ~250-word post (slightly longer than usual in lie
 
 - **Why do you think I want you to read this source? What is it meant to illustrate?**
 
-To answer this thoroughly, consider how the text fits into the course narrative so far. Think about how it addresses (or doesn't) the major themes we've focused on, especially ways of establishing expertise, continuities and discontinuities of dietary advice, moral component of dietary choices, and differing rhetorical styles. I'd also love to know if you found this assignment a bit more interesting than the usual group work.
+To answer these thoroughly, consider how the text fits into the course narrative so far.
+- Think about how it addresses (or doesn't) the major themes we've focused on:
+  - continuities and discontinuities of dietary advice
+  - ways the author establishes expertise
+  - moral aspects of dietary choice
+  - differing rhetorical styles
+- What are the major beliefs about diet/health/society/etc that are motivating the author to write this?
+- Who is the audience? What does the author think their intended audience knows or doesn’t know?
+- How are the answers to these questions maybe a bit different than they have been with earlier sources?
+
+I'd also love to know if you found this assignment a bit more interesting than the usual group work.
 
 
 
