@@ -95,6 +95,9 @@ How does Atwater establish his credibility, authority, and expertise? Be specifi
 
 
 ## Week 6: Early Dietary Advice + Expertise comparison
+
+If you haven't seen them, check out the [Week 5 REview lecture](https://youtu.be/YrfECboBHpw)  and the [Week 6 PREview lecture](https://youtu.be/J29KZxNn3eA).
+
 This is a week of primary sources---dietary advice texts written between 1918 and 1922. They are all COMPLETELY different in their tone, approach, rhetoric, and the way their authors try to establish their expertise. Our goal is to understand how the same cultural context could yield such different texts and how they collectively illustrate several important facets of the history of diet/health/nutrition.
 
 Note that our Friday reading starts to get into vitamins, which is the topic for next week, so you're right if they seem to come out of nowhere. McCollum was trying to introduce vitamins in the same way Atwater was trying to introduce calories. So it's a good introduction for us as well, but we'll get into more detail next week.
