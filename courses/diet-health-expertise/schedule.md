@@ -164,13 +164,19 @@ NO WEEKLY REFLECTION this week. We're completing our primary source survey with 
 You've probably heard that you should take your vitamins. Of course they are crucial for health in minuscule amounts, but are we really in danger of falling short? why is there so much focus on them? This week we look more closely at the discovery and marketing of vitamins in the early 1900s. The way the mere idea of vitamins reshaped nutritional thinking is still with us today. These readings also help us think about the relationship between scientific expertise and common sense.
 
 {% include alert.html class='warning' title='NO READING REFLECTIONS' text="
-No M/W reading responses due this week, but a slightly longer weekly reflection.
+No M/W reading responses due this week (however note the QUIZ ON MONDAY; this was also a popular request from the survey in lieu of some writing assignments), and a different kind of weekly reflection. Actually, it's not a weekly reflection at all, but it serves a similar purpose---to show me that you've learned from the readings.
 "%}
 
 
 
 ### Mon 09/28
 - Catherine Price, _Vitamania_, Chapter 4: Journey into Food, 47--63.
+
+{% include alert.html class='danger' title='Weeks 5+6 Quiz' text="
+To make sure to emphasize and clarify some points from the previous weeks, there is for today 15-point QUIZ on the MAIN, GENERAL BIG-PICTURE points from the last two weeks, drawing from the readings, the discussion board, and the videos. If you've been neglecting any of these, you'll want to spend some time with them before you take the quiz. If you've been keeping up with the work, you'll be fine even without any review. There are no tricky details---it's a test of your grasp what should be obvious at this point in the course.
+"%}
+
+
 
 ### Wed 09/30
 - Catherine Price, _Vitamania_, Chapter 5: A to Zeitgeist, 65--90.
@@ -306,17 +312,17 @@ We assume our food is safe. We assume that corporations that sell us food aren't
 
 
 {% include alert.html class='warning' title='NO READING REFLECTIONS' text="
-No M/W reading responses due this week!
+No M/W reading responses due this week! There is a different kind of weekly reflection type thing due on Friday
 "%}
 
 ### Mon 11/2  
-- NPR, _All Things Considered_ (host Ari Shapiro talks with author Deborah Blum), [How A 19th Century Chemist Took On The Food Industry With A Grisly Experiment](https://www.npr.org/sections/thesalt/2018/10/08/654066794/how-a-19th-century-chemist-took-on-the-food-industry-with-a-grisly-experiment) (October 8, 2018).
-
-
-### Wed 11/4
 - Marion Nestle, _Food Politics: How the Food Industry Influences Nutrition and Health_, Chapter 10: "Science Versus Supplements", 219--246.
 
 - United States Congress. [House Select Committee To Investigate the Use of Chemicals in Food Products](https://babel.hathitrust.org/cgi/pt?id=mdp.39015077053083&view=1up&seq=448). _Chemicals In Food Products_. U.S. Govt. Print. Off., 195152, 1472--1478.
+
+
+### Wed 11/4
+- NPR, _All Things Considered_ (host Ari Shapiro talks with author Deborah Blum), [How A 19th Century Chemist Took On The Food Industry With A Grisly Experiment](https://www.npr.org/sections/thesalt/2018/10/08/654066794/how-a-19th-century-chemist-took-on-the-food-industry-with-a-grisly-experiment) (October 8, 2018).
 
 
 ### Fri 11/6
