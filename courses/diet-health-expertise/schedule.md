@@ -161,10 +161,10 @@ NO WEEKLY REFLECTION this week. We're completing our primary source survey with 
 
 
 ## Week 7: Vitamins
-You've probably heard that you should take your vitamins. Of course they are crucial for health in minuscule amounts, but are we really in danger of falling short? why is there so much focus on them? This week we look more closely at the discovery and marketing of vitamins in the early 1900s. The way the mere idea of vitamins reshaped nutritional thinking is still with us today. These readings also help us think about the relationship between scientific expertise and common sense.
+You've probably heard that you should take your vitamins. Of course they are crucial for health in minuscule amounts, but are we really in danger of falling short? Why is there so much focus on them? This week we look more closely at the discovery and marketing of vitamins in the early 1900s. The way the mere idea of vitamins reshaped nutritional thinking is still with us today. These readings also help us think about the relationship between scientific expertise and common sense.
 
 {% include alert.html class='warning' title='NO READING REFLECTIONS' text="
-No M/W reading responses due this week (however note the QUIZ ON MONDAY; this was also a popular request from the survey in lieu of some writing assignments), and a different kind of weekly reflection. Actually, it's not a weekly reflection at all, but it serves a similar purpose---to show me that you've learned from the readings.
+No M/W reading responses due this week, so you can read whenever you want. However, note the QUIZ ON MONDAY; this is in response to  a popular request from the survey to have a few more quizzes in lieu of some writing assignments. Also not a different kind of weekly reflection. Actually, it's not a weekly reflection at all, but it serves a similar purpose---to show me that you've learned from the readings.
 "%}
 
 
