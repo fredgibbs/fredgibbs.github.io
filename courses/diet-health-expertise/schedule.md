@@ -185,9 +185,11 @@ To make sure to emphasize and clarify some points from the previous weeks, there
 - Rima D. Apple, "'They Need it Now': Science, Advertising and Vitamins, 1925-1940".   
 
 {% include alert.html class='danger' title='Vitamin Rhetoric Analysis' text="
-Are vitamins and supplements necessary? Google some variant of that question and read through a handful of health websites (ignore ones that are obviously all marketing with no substance to them). USE THE READINGS FOR THIS WEEK to analyze the kinds of arguments you find. Do they fall into distinct groups? Does the history of vitamins explain the rhetoric we still see?
+Are vitamins and supplements necessary? Google some variant of that question and read through a handful (between 3 and 5) of articles that you find on the first page of search results (ignore sites that are obviously all marketing with no substance to them).
 
-Figure out what 2-3 main points you want to make about your set of website and clearly organize your ~800 word posts to make those points.
+USE THE READINGS FOR THIS WEEK to analyze the kinds of arguments you find. Do they fall into distinct groups? What kinds of evidence to they give? Are they convincing? Does the HISTORY of vitamins (that you have just read about) explain the rhetoric we still see?
+
+Figure out what 3-4 main points you want to make about your set of websites and clearly organize your ~800 word posts to make those points. BE CAREFUL: In your essay you are generalizing WITH SPECIFIC EXAMPLES about a SET of websites (3-5) in terms of how they communicate, the kinds of evidence and rhetoric they use, how the link between science and disease is explained, etc. MAKE SURE YOU'RE USING THE READINGS TO INFORM YOUR ANALYSIS.
 "%}
 
 
