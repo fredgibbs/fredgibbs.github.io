@@ -161,10 +161,10 @@ NO WEEKLY REFLECTION this week. We're completing our primary source survey with 
 
 
 ## Week 7: Vitamins
-You've probably heard that you should take your vitamins. Of course they are crucial for health in minuscule amounts, but are we really in danger of falling short? Why is there so much focus on them? This week we look more closely at the discovery and marketing of vitamins in the early 1900s. The way the mere idea of vitamins reshaped nutritional thinking is still with us today. These readings also help us think about the relationship between scientific expertise and common sense.
+You've probably heard that you should take your vitamins. Of course they are crucial for health in minuscule amounts, but are we really in danger of falling short? Why is there so much focus on them? We've already seen them discussed in McCollum, but this week we look more closely at the discovery and marketing of vitamins in the early 1900s. The way the mere idea of vitamins reshaped nutritional thinking is still with us today. These readings also help us think about the relationship between scientific expertise and common sense.
 
 {% include alert.html class='warning' title='NO READING REFLECTIONS' text="
-No M/W reading responses due this week, so you can read whenever you want. However, note the QUIZ ON MONDAY; this is in response to  a popular request from the survey to have a few more quizzes in lieu of some writing assignments. Also not a different kind of weekly reflection. Actually, it's not a weekly reflection at all, but it serves a similar purpose---to show me that you've learned from the readings.
+No M/W reading responses due this week, so you can read whenever you want. However, note the QUIZ ON MONDAY; this is in response to a popular request from the survey to have a few more quizzes in lieu of some writing assignments. Also note a different kind of weekly reflection for Friday. Actually, it's not a weekly reflection at all, but something a bit more creative that serves a similar purpose---to show me that you've learned from our readings and can apply them to contemporary rhetoric about diet and health.
 "%}
 
 
@@ -173,23 +173,23 @@ No M/W reading responses due this week, so you can read whenever you want. Howev
 - Catherine Price, _Vitamania_, Chapter 4: Journey into Food, 47--63.
 
 {% include alert.html class='danger' title='Weeks 5+6 Quiz' text="
-To make sure to emphasize and clarify some points from the previous weeks, there is for today 15-point QUIZ on the MAIN, GENERAL BIG-PICTURE points from the last two weeks, drawing from the readings, the discussion board, and the videos. If you've been neglecting any of these, you'll want to spend some time with them before you take the quiz. If you've been keeping up with the work, you'll be fine even without any review. There are no tricky details---it's a test of your grasp what should be obvious at this point in the course.
+To emphasize and clarify some points from the previous weeks, there is for today 15-point QUIZ on the MAIN, GENERAL BIG-PICTURE ideas from the last two weeks, drawing from the READINGS, the DISCUSSION BOARD, and the VIDEOS. If you've been neglecting any of these, you'll want to spend some time with them before you take the quiz. If you've been keeping up with the work, you'll be fine even without any review. There are no tricky details!
 "%}
-
 
 
 ### Wed 09/30
 - Catherine Price, _Vitamania_, Chapter 5: A to Zeitgeist, 65--90.
 
+
 ### Fri 10/02
 - Rima D. Apple, "'They Need it Now': Science, Advertising and Vitamins, 1925-1940".   
 
 {% include alert.html class='danger' title='Vitamin Rhetoric Analysis' text="
-Are vitamins and supplements necessary? Google some variant of that question and read through a handful (between 3 and 5) of articles that you find on the first page of search results (ignore sites that are obviously all marketing with no substance to them).
+Are vitamins and supplements really necessary? Google some variant of that question and read through a handful (between 3 and 5) of articles that you find on the first page of search results. Ignore sites that are obviously all marketing with no substance to them.
 
-USE THE READINGS FOR THIS WEEK to analyze the kinds of arguments you find. Do they fall into distinct groups? What kinds of evidence to they give? Are they convincing? Does the HISTORY of vitamins (that you have just read about) explain the rhetoric we still see?
+USE THE READINGS FOR THIS WEEK to analyze the kinds of arguments you find. Do they fall into distinct groups? What kinds of evidence do they give? Are they convincing? Does the HISTORY of vitamins (that you have just read about for this week) explain the rhetoric we still see?
 
-Figure out what 3-4 main points you want to make about your set of websites and clearly organize your ~800 word posts to make those points. BE CAREFUL: In your essay you are generalizing WITH SPECIFIC EXAMPLES about a SET of websites (3-5) in terms of how they communicate, the kinds of evidence and rhetoric they use, how the link between science and disease is explained, etc. MAKE SURE YOU'RE USING THE READINGS TO INFORM YOUR ANALYSIS.
+Figure out what 3-4 main points you want to make about your set of websites and clearly organize your ~800-word posts to make those points. BE CAREFUL: In your essay you are generalizing WITH SPECIFIC EXAMPLES about a SET of websites (3-5) in terms of how they communicate about the need for vitamins (however they characterize that), the kinds of evidence they use, and the kind rhetoric they employ (which might be similar to what's described in today's article on ads). MAKE SURE YOU'RE USING THE READINGS TO INFORM YOUR ANALYSIS.
 "%}
 
 
