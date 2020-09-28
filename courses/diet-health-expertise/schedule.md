@@ -193,7 +193,9 @@ Are vitamins and supplements really necessary? Google some variant of that quest
 
 USE THE READINGS FOR THIS WEEK to analyze the kinds of arguments you find. Do they fall into distinct groups? What kinds of evidence do they give? Are they convincing? Does the HISTORY of vitamins (that you have just read about for this week) explain the rhetoric we still see?
 
-Figure out what 3-4 main points you want to make about your SET OF ARTICLES and clearly organize your ~800-word posts to make those points. BE CAREFUL: In your essay you are generalizing WITH SPECIFIC EXAMPLES about a SET of websites (3-5). DO NOT summarize each article one by one! You might however, want to describe how one particular article stands out as different from others.
+Figure out what 3-4 main points you want to make about your SET OF ARTICLES and clearly organize your ~800-word posts to make those points. Posts are worth up to 15 points, based on your organization, clarity of analysis, and use of the readings.
+
+BE CAREFUL: In your essay you are generalizing WITH SPECIFIC EXAMPLES about a SET of articles (3-5). DO NOT summarize each article one by one! You might however, want to describe how one particular article stands out as different from others.
 
 For your set, generalize how they communicate about the need for vitamins (however they characterize that), the kinds of evidence they use, and the kind rhetoric they employ (which might be similar to what's described in today's article on ads). MAKE SURE YOU'RE USING THE READINGS TO INFORM YOUR ANALYSIS.
 "%}
