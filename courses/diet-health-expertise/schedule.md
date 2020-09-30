@@ -203,8 +203,7 @@ For your set, generalize how they communicate about the need for vitamins (howev
 
 
 ## Week 8: The fat enemy
-Is fat bad? Of course not! But it is definitely controversial within dietary advice is a huge understatement. Why is this? This week examines how the idea of fat and fat bodies became something to avoid. Given the midterm-ness of this week, we're not doing individual reading responses, just a weekly learning reflection that ties everything together.
-
+Is fat bad? Of course not! But to say its role within dietary advice is controversial would be a huge understatement. Why is this? We've looked at the morality of dietary advice in several ways already, and one aspect that has persisted is the idea that some people can be "too fat" (and we even have quantified thresholds, which can be highly biased as we've read about), representing some kind of moral deficiency. This week examines how the idea of fat and fat bodies became something to avoid over the 20th century.
 
 
 ### Mon 10/5
@@ -213,8 +212,8 @@ Is fat bad? Of course not! But it is definitely controversial within dietary adv
 {% include alert.html class='danger' title='Reading Reflections' text="
 For this exercise, bullet points are 1-2 complete sentences that clearly express a complete idea, not cryptic phrases that no one but you can understand.
 
-- Group 1+2: Write 5 bullet points that summarize what you think are the main points of the article.
-- Group 3+4: Write 5 bullet points that explain what's new and what's the same in terms of approaches to diet that we've seen developing in the course to this point.
+- Group 1+2: Write 5 bullet points that summarize what you think are the main points of the article. They might not be equally important; you might think your first one or two points are REALLY important and the others are less so. But I want you to come up with 5 points to highlight.
+- Group 3+4: Write 5 bullet points that point out similarities and differences to other readings we've had in the course to this point. What kinds of things have we seen before? What are variations on a theme? What's really new?
 "%}
 
 
@@ -222,10 +221,8 @@ For this exercise, bullet points are 1-2 complete sentences that clearly express
 - A. F. La Berge, “How the Ideology of Low Fat Conquered America,” _Journal of the History of Medicine and Allied Sciences_ 63.2 (2007): 139--77.
 
 {% include alert.html class='danger' title='Reading Reflections' text="
-For this exercise, bullet points are 1-2 complete sentences that clearly express a complete idea, not cryptic phrases that no one but you can understand.
-
-- Groups 3+4: Write 5 bullet points that summarize what you think are the main points of the article.
-- Groups 1+2: Write 5 bullet points that explain what's new and what's the same in approaches to diet that we've seen developing in the course to this point.
+- Group 1+2: Write 5 bullet points that summarize what you think are the main points of the article. They might not be equally important; you might think your first one or two points are REALLY important and the others are less so. But I want you to come up with 5 points to highlight.
+- Group 3+4: Write 5 bullet points that point out similarities and differences to other readings we've had in the course to this point. What kinds of things have we seen before? What are variations on a theme? What's really new?
 "%}
 
 
@@ -233,8 +230,8 @@ For this exercise, bullet points are 1-2 complete sentences that clearly express
 ### Fri 10/09
 - Catherine Carstairs, “‘Our Sickness Record Is a National Disgrace’: Adelle Davis, Nutritional Determinism, and the Anxious 1970s”, 461--91.
 
-{% include alert.html class='danger' title='Weekly reflection' text="
-No specific prompt or questions this week. Just write ~700 words on what you found most interesting, surprising, confusing, similar to / different from what we've read before, etc. Remember the goal is to show that you're familiar with ALL the readings for this week (and connect them to previous ones for max points)!
+{% include alert.html class='danger' title='No Weekly Reflection' text="
+We're taking a much-needed break from the weekly reflections (and next week, too, as planned). This week we're going to have a READING QUIZ, primarily on the main points of the FRIDAY READING, but with a few big-picture questions about the other readings for this week.
 "%}
 
 
