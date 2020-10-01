@@ -204,8 +204,8 @@ For your set, generalize how they communicate about the need for vitamins (howev
 
 
 
-## Week 8: The fat enemy
-Is fat bad? Of course not! But to say its role within dietary advice is controversial would be a huge understatement. Why is this? We've looked at the morality of dietary advice in several ways already, and one aspect that has persisted is the idea that some people can be "too fat" (and we even have quantified thresholds, which can be highly biased as we've read about), representing some kind of moral deficiency. This week examines how the idea of fat and fat bodies became something to avoid over the 20th century.
+## Week 8: The fat and malnourished body
+Is fat bad? Of course not! But to say its role within dietary advice is controversial would be a huge understatement. Why is this? We've looked at the morality of dietary advice in several ways already, and one aspect that has persisted is the idea that some people can be "too fat" (and we even have quantified thresholds, which can be highly biased as we've read about), representing some kind of moral deficiency. This week examines how the idea of fat and fat bodies became something to avoid during the early 20th century and how the legacy of vitamins and micronutrients came to define "proper" nourishment.
 
 
 ### Mon 10/5
@@ -220,7 +220,7 @@ For this exercise, bullet points are 1-2 complete sentences that clearly express
 
 
 ### Wed 10/07  
-- A. F. La Berge, “How the Ideology of Low Fat Conquered America,” _Journal of the History of Medicine and Allied Sciences_ 63.2 (2007): 139--77.
+- Catherine Carstairs, “‘Our Sickness Record Is a National Disgrace’: Adelle Davis, Nutritional Determinism, and the Anxious 1970s”, 461--91.
 
 {% include alert.html class='danger' title='Reading Reflections' text="
 - Group 1+2: Write 5 bullet points that summarize what you think are the main points of the article. They might not be equally important; you might think your first one or two points are REALLY important and the others are less so. But I want you to come up with 5 points to highlight.
@@ -230,10 +230,10 @@ For this exercise, bullet points are 1-2 complete sentences that clearly express
 
 
 ### Fri 10/09
-- Catherine Carstairs, “‘Our Sickness Record Is a National Disgrace’: Adelle Davis, Nutritional Determinism, and the Anxious 1970s”, 461--91.
+- NO NEW READING OMG IT'S A MIRACLE
 
 {% include alert.html class='danger' title='No Weekly Reflection' text="
-We're taking a much-needed break from the weekly reflections (and next week, too, as planned). This week we're going to have a READING QUIZ, primarily on the main points of the FRIDAY READING, but with a few big-picture questions about the other readings for this week.
+We're taking a much-needed break from the weekly reflections (and next week, too, as planned). This week we're going to have a READING QUIZ as a way of summing up a few big-picture questions about the TWO readings for this week and the corresponding discussion posts. The quiz questions will be closely tied to the summary and connection responses I see on the discussion board as well as my comments on them. To prepare for the quiz, do the readings (obviously), and make sure to skim through the discussion board for those days as well--the quiz will seem much more familiar that way.
 "%}
 
 
