@@ -231,6 +231,7 @@ For this exercise, bullet points are 1-2 complete sentences that clearly express
 
 ### Fri 10/09
 - NO NEW READING OMG IT'S A MIRACLE
+- Originally we were going to read A. F. La Berge, “How the Ideology of Low Fat Conquered America,” Journal of the History of Medicine and Allied Sciences 63.2 (2007): 139–77. But this is VERY long and given how the course has unfolded, it no longer fits as well as I thought it would when I was pulling the readings together. So we'll skip it. But if you're interested in popular discourse about low-fat diets (mostly 1970+, but with some earlier history, too), it's got a lot of great information and shows how popular diet advice columns (like Jane Brody's in the _New York Times_) become sources in which outdated and cutting-edge nutritional research mingle together.
 
 {% include alert.html class='danger' title='No Weekly Reflection' text="
 We're taking a much-needed break from the weekly reflections (and next week, too, as planned). This week we're going to have a READING QUIZ as a way of summing up a few big-picture questions about the TWO readings for this week and the corresponding discussion posts. The quiz questions will be closely tied to the summary and connection responses I see on the discussion board as well as my comments on them. To prepare for the quiz, do the readings (obviously), and make sure to skim through the discussion board for those days as well--the quiz will seem much more familiar that way.
