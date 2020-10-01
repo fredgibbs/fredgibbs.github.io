@@ -241,7 +241,7 @@ We're taking a much-needed break from the weekly reflections (and next week, too
 
 
 ## Week 9: BREAK!
-This week is a flex week to get caught up. I always need a catch-up week when we have scheduled classroom meetings and I don't quite get through everything I mean to. Obviously timing is a bit different when everything is asynchronously online. So, NOTHING TO DO THIS WEEK! Enjoy the time away from the history of dietary advice and I hope you'll be recharged for the last section of class. Our readings shift from primarily historical studies to analyses of contemporary issues---and we'll see what the long history of diet and health can add to the conversation.
+This week is a flex week to get caught up. I usually plan on a catch-up week when we have scheduled classroom meetings because I almost never quite get through everything I mean to. Obviously timing is a bit different when everything is asynchronously online. So, NOTHING TO DO THIS WEEK! Enjoy the time away from the history of dietary advice and I hope you'll be recharged for the last section of class. Our readings shift from primarily historical studies to analyses of contemporary issues---and we'll see what the long history of diet and health can add to the conversation.
 
 ### Mon 10/12
 
