@@ -195,6 +195,8 @@ USE THE READINGS FOR THIS WEEK to analyze the kinds of arguments you find. Do th
 
 Figure out what 3-4 main points you want to make about your SET OF ARTICLES and clearly organize your ~800-word posts to make those points. Posts are worth up to 15 points, based on your organization, clarity of analysis, and use of the readings.
 
+Be sure to copy and paste the URLs of your source into your post (top or bottom is fine). No formal citations required---but be sure the URLs of the sources you consult are listed somewhere. You should list sources that inform your analysis even if you don't explicitly reference it. But you will directly reference most of your sources in your description and analysis.  
+
 BE CAREFUL: In your essay you are generalizing WITH SPECIFIC EXAMPLES about a SET of articles (3-5). DO NOT summarize each article one by one! You might however, want to describe how one particular article stands out as different from others.
 
 For your set, generalize how they communicate about the need for vitamins (however they characterize that), the kinds of evidence they use, and the kind rhetoric they employ (which might be similar to what's described in today's article on ads). MAKE SURE YOU'RE USING THE READINGS TO INFORM YOUR ANALYSIS.
