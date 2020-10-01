@@ -231,17 +231,17 @@ For this exercise, bullet points are 1-2 complete sentences that clearly express
 
 ### Fri 10/09
 - NO NEW READING OMG IT'S A MIRACLE
-- Originally we were going to read A. F. La Berge, “How the Ideology of Low Fat Conquered America,” Journal of the History of Medicine and Allied Sciences 63.2 (2007): 139–77. But this is VERY long and given how the course has unfolded, it no longer fits as well as I thought it would when I was pulling the readings together. So we'll skip it. But if you're interested in popular discourse about low-fat diets (mostly 1970+, but with some earlier history, too), it's got a lot of great information and shows how popular diet advice columns (like Jane Brody's in the _New York Times_) become sources in which outdated and cutting-edge nutritional research mingle together.
+- Originally we were going to read A. F. La Berge, “How the Ideology of Low Fat Conquered America,” _Journal of the History of Medicine and Allied Sciences_ 63.2 (2007): 139–77. But this is VERY long and given how the course has unfolded, it no longer fits as well as I thought it would when I was pulling the readings together. So we'll skip it. But if you're interested in the popular discourse of low-fat diets (mostly 1970+, but with some earlier history, too), it's got a lot of great information and shows how popular diet advice columns (like Jane Brody's in the _New York Times_) become sources in which both outdated and cutting-edge nutritional research mingle together.
 
 {% include alert.html class='danger' title='No Weekly Reflection' text="
-We're taking a much-needed break from the weekly reflections (and next week, too, as planned). This week we're going to have a READING QUIZ as a way of summing up a few big-picture questions about the TWO readings for this week and the corresponding discussion posts. The quiz questions will be closely tied to the summary and connection responses I see on the discussion board as well as my comments on them. To prepare for the quiz, do the readings (obviously), and make sure to skim through the discussion board for those days as well--the quiz will seem much more familiar that way.
+We're taking a much-needed break from the weekly reflections (and next week, too, as planned). This week we're going to have a READING QUIZ as a way of summing up a few big-picture questions about the TWO readings for this week and the corresponding discussion posts. The quiz questions will be closely tied to the summary and connection bullet points from the discussion board as well as my comments on them. To prepare for the quiz, do the readings (obviously), and skim through the discussion board posts for the week as well---the quiz will seem much more familiar (and easier) that way.
 "%}
 
 
 
 
 ## Week 9: BREAK!
-This week is flex week to get caught up. I always need a catch-up week when we have scheduled meetings and I don't quite get through everything I mean to. Obviously timing is a bit different when everything is asynchronously online. So, NOTHING TO DO THIS WEEK! Enjoy the time away from the history of dietary advice and I hope you'll be recharged for the last section of class. Our readings shift from primarily historical studies to analyses of contemporary issues---and we'll see what the long history of diet and health can add to the conversation.
+This week is a flex week to get caught up. I always need a catch-up week when we have scheduled classroom meetings and I don't quite get through everything I mean to. Obviously timing is a bit different when everything is asynchronously online. So, NOTHING TO DO THIS WEEK! Enjoy the time away from the history of dietary advice and I hope you'll be recharged for the last section of class. Our readings shift from primarily historical studies to analyses of contemporary issues---and we'll see what the long history of diet and health can add to the conversation.
 
 ### Mon 10/12
 
