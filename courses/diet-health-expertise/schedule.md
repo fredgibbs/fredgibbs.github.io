@@ -13,6 +13,7 @@ section: schedule
 ## [Week 1: Introductions + Key Concepts](weeks/1)
 This week we're just getting up to speed and reading two VERY different perspectives on how we can think about the links between nutrition and health generally. You have a few short introductory assignments to complete before Wednesday (ideally on Monday), and we jump into our more or less regular routine starting on Wednesday.
 
+
 ## [Week 2:  The Long History of Dietary Advice](weeks/2)
 This week we cover medical and dietary thinking from ancient Greece and Rome through about 1700. Some of the medical thinking seems a bit bizarre to our modern sensibilities, but in terms of dietary advice, there is a remarkable consistency over the last 2000 years. So it's worth looking at the foundational thinking that has directly influenced modern nutrition, even if if certain aspects have been dramatically altered by increasingly sophisticated biochemical research.
 
@@ -23,6 +24,7 @@ Our 2-part reading for this week continues and focuses our previous attention to
 
 ## [Week 4: Natural and Moral Diets of the 1800s](weeks/4)
 The dietary advice we saw directly primarily toward the upper classes in the previous week moves into the emerging middle class in the early 19th century. In particular, physicians and moral reformers see diets changing as a result of industrialization and urbanization as a distinct societal ill. We look at how moral and dietary advice become even more tightly coupled throughout the 1800s. Later in the course, we'll see how that link has persisted into the present day.
+
 
 ## [Week 5: Scientific and Quantified Eating](weeks/5)
 There has been no bigger shift in dietary advice than a shift to understanding health and what we eat in terms of numbers, averages, and scales. This week examines some of the earliest developments in quantification of dietary knowledge and advice. Of course we confront the implications of this paradigm shift each day as we see nutritional information labels, scales, and watch-like devices that count our number of steps each day.
@@ -39,6 +41,14 @@ You've probably heard that you should take your vitamins. Of course they are cru
 
 ## Week 8: The fat and malnourished body
 Is fat bad? Of course not! But to say its role within dietary advice is controversial would be a huge understatement. Why is this? We've looked at the morality of dietary advice in several ways already, and one aspect that has persisted is the idea that some people can be "too fat" (and we even have quantified thresholds, which can be highly biased as we've read about), representing some kind of moral deficiency. This week examines how the idea of fat and fat bodies became something to avoid during the early 20th century and how the legacy of vitamins and micronutrients came to define "proper" nourishment.
+
+Note that you're doing a new kind of assignment for the M and W readings featuring (exclusively!) bullet points. Bullet points do not mean cryptic half-sentences. They should be complete, well-formed ideas, even a couple of sentences. There is no pressure to be SHORT with bullet points. Instead, they should be coherent, sophisticated, and demonstrate your mastery of the reading.
+
+#### bad example
+- importance of thin bodies
+
+#### good example
+- Veit argues that thin bodies were becoming more of a social and cultural expectation. To be thin was to be modern and moral.
 
 
 ### Mon 10/5
@@ -86,7 +96,7 @@ This week is a flex week to get caught up. I usually plan on a catch-up week whe
 
 
 ## Week 10: Obesity science, politics, and ethics
-Continuing with our obsession with fat, this week we evaluate some pieces on the so-called obesity epidemic in America. This week is less about historical constructions of diet as we've been focused on; instead we're looking at contemporary rhetoric of diet and health in terms of obesity. These articles are a bit dated, but they still perfectly exemplify the kind of dietary philosophies and speculation that we see everyday. Our job will be to critically evaluate these in terms of how we've learned to think about health and diet via history.
+Continuing with our obsession with calories and fat, this week we evaluate some pieces on the so-called obesity epidemic in America. This week is less about historical constructions of diet as we've been focused on; instead we're looking at contemporary rhetoric of diet and health in terms of obesity. These articles are a bit dated, but they still perfectly exemplify the kind of dietary philosophies and speculation that we see everyday. Our job will be to critically evaluate these in terms of how we've learned to think about health and diet via history.
 
 
 ### Mon 10/19
