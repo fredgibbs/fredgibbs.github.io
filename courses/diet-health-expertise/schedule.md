@@ -18,189 +18,22 @@ This week we cover medical and dietary thinking from ancient Greece and Rome thr
 
 
 ## [Week 3:  Dietary Expertise in the Enlightenment](weeks/3)
-Our 2-part reading for this week continues and focuses our previous attention to medical expertise and moral authority. It's very clearly written, but quite dense, so it's spread across two days so we can unpack it.
-
-The theme for the week is how physicians beginning the 1700s started promoting dietary advice and their expertise in different ways than they did previously (see Week 2). We also see the early ties between dietary advice, moral authority, a common sense, a group we'll come back to repeatedly over the semester.
-
+Our 2-part reading for this week continues and focuses our previous attention to medical expertise and moral authority. It's very clearly written, but quite dense, so it's spread across two days so we can unpack it. The theme for the week is how physicians beginning the 1700s started promoting dietary advice and their expertise in different ways than they did previously (see Week 2). We also see the early ties between dietary advice, moral authority, a common sense, a group we'll come back to repeatedly over the semester.
 
 
 ## [Week 4: Natural and Moral Diets of the 1800s](weeks/4)
 The dietary advice we saw directly primarily toward the upper classes in the previous week moves into the emerging middle class in the early 19th century. In particular, physicians and moral reformers see diets changing as a result of industrialization and urbanization as a distinct societal ill. We look at how moral and dietary advice become even more tightly coupled throughout the 1800s. Later in the course, we'll see how that link has persisted into the present day.
 
-
-
-
-## Week 5: Scientific and Quantified Eating
+## [Week 5: Scientific and Quantified Eating](weeks/5)
 There has been no bigger shift in dietary advice than a shift to understanding health and what we eat in terms of numbers, averages, and scales. This week examines some of the earliest developments in quantification of dietary knowledge and advice. Of course we confront the implications of this paradigm shift each day as we see nutritional information labels, scales, and watch-like devices that count our number of steps each day.
 
 
-### Things to keep in mind this week
+## [Week 6: Early Dietary Advice + Expertise comparison](weeks/6)
+This is a week of primary sources---dietary advice texts written between 1918 and 1922. They are all COMPLETELY different in their tone, approach, rhetoric, and the way their authors try to establish their expertise. Our goal is to understand how the same cultural context could yield such different texts and how they collectively illustrate several important facets of the history of diet/health/nutrition. If you haven't seen them, check out the [Week 5 REview lecture](https://youtu.be/YrfECboBHpw)  and the [Week 6 PREview lecture](https://youtu.be/J29KZxNn3eA).
 
-#### Draw connections between the emerging mechanistic body of the 1700s and the morality of diet in the early 1800s with the development of quantified nutrition in the mid to late 1800s.
-This week continues to build on the mechanistic ideas about the body we saw in Cheyne; we're also continuing the moral component that we saw in Graham, except that dietary advice is no longer justified through philosophy of natural diet (or religious precepts), but through quantified nutrition. On page 56, Mudry notes that: "Distinguishing between good and bad food required an understanding of the scientific composition of various foods, the nutrients they furnished to the human body, and calculating a cost/nutrient ratio for each.” The phrase “good and bad” food is of course not just a judgment about the food, but the people who consume it.
 
-
-#### Critically evaluate unintended consequences of quantified nutritional research
-While there are obvious advantages to quantifying nutritional research, we should think also about unintended consequences. One of these is an unhealthy obsession with counting calories or other facets of nutrition, as many of you have noted. Another one is the fact that stuff we can’t quantify (like enjoying food) gets separated from the discourse about diet and health (and gives rise to things like food guilt). As a result, some ways of thinking about diet that might actually be extremely useful and important get sidelined in favor of knowledge that is maybe less useful but far more measurable.
-
-
-
-#### Make explicit links between immigration, domestic science, nationalism, nutrition
-We’ll read about how immigrants to the U.S. were especially targeted by dietary reformers in the early 20th century. An important social phenomenon to keep in mind is how closely food choice and cultural identity are related. It’s a bit jarring to see how immigrants’ diets were criticized ostensibly on nutritional grounds, but really because some reformers (usually upper middle class white folk) thought all the different people and customs coming into the U.S. would be socially and culturally destructive. It’s alarming (and depressing) to think about what food (or culture) in the U.S. would look like if immigrants weren’t smart enough to ignore such advice about how to “eat right".
-
-
-#### Recognize the how knowledge of the invisible continued to shape the nature of medical expertise
-The popularization of the calorie in the late 19th and early 20th centuries parallels the popularization of germ theory (which we don't really get into). Note here THE IMPORTANCE OF THE INVISIBLE. You can’t be a respected physicians without understanding invisible germs; you can’t be a respected nutritionist (although the actual discipline comes later) without knowing about calories (and later vitamins, etc). If this doesn’t remind you of Cheyne, you should go back and review. You can see this happening also in the hospital efficiency movement (Mudry, 54–55).
-
-
-### Mon 9/14
-- Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67.
-
-Prompt question: On p. 64 Mudry concludes that "after the development of the science of nutrition, moral terms like “good” and “bad” became enumerated and objectified in discussions of food."" To what extent are you convinced by her argument and evidence? The most important aspect of your reply is the ARGUMENT and EVIDENCE that YOU PROVIDE.
-
-
-{% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Comparative Reflection](reading-reflections#comparative-reflection)
-- Group 2: [Prompt Reflection](reading-reflections#prompt-reflection)
-- Group 3: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of TUESDAY)
-- Group 4: [Standard Reflection](reading-reflections#standard-reflection)
-"%}
-
-### Wed 9/16
-- Charlotte Biltekoff, *Eating Right in America*, Chapter 2: Scientific Moralization, 13--44.
-
-Prompt question: Today we get another look at food reformers in the early 20th century, particularly Ellen Richards, with an emphasis on the links between diet and morality. Describe the link between home economics, nutrition, and immigration. How and why did these come to intersect as according to Biltekoff (and Mudry)?
-
-{% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Standard Reflection](reading-reflections#standard-reflection)
-- Group 2: [Connective Reflection](reading-reflections#connective-reflection)
-- Group 3: [Prompt Reflection](reading-reflections#prompt-reflection)
-- Group 4: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of THURSDAY)
-"%}
-
-
-### Fri 9/18
-- Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine*, 34 (May 1887): 59--74.
-Our goal with this primary source is to understand the tone of this work so often referenced in our readings this week. *Skim but don't totally skip* the science lesson details. Think about:
-  - How does article reflect larger scientific currents?
-  - What’s the point of all the science detail?
-  - How/why does metaphor play such a prominent role in his explanations?
-
-{% include alert.html class='danger' title='Weekly reflection' text="
-How does Atwater establish his credibility, authority, and expertise? Be specific! How was his approach different from Cheyne and Graham? How much do you agree with Mudry's and Biltekoff's interpretations of Atwater after reading his work for yourself?
-"%}
-
-
-
-
-
-## Week 6: Early Dietary Advice + Expertise comparison
-
-If you haven't seen them, check out the [Week 5 REview lecture](https://youtu.be/YrfECboBHpw)  and the [Week 6 PREview lecture](https://youtu.be/J29KZxNn3eA).
-
-This is a week of primary sources---dietary advice texts written between 1918 and 1922. They are all COMPLETELY different in their tone, approach, rhetoric, and the way their authors try to establish their expertise. Our goal is to understand how the same cultural context could yield such different texts and how they collectively illustrate several important facets of the history of diet/health/nutrition.
-
-Note that our Friday reading starts to get into vitamins, which is the topic for next week, so you're right if they seem to come out of nowhere. McCollum was trying to introduce vitamins in the same way Atwater was trying to introduce calories. So it's a good introduction for us as well, but we'll get into more detail next week.
-
-For each source this week, I've indicated specific pages you should read fairly carefully. IN ADDITION---and this is ESSENTIAL---you should also carefully examine the table of contents and randomly sample pages or small sections throughout the book to get a feel for the text as a whole---namely what is and what isn't addressed in the text, and HOW so. BROAD FAMILIARITY with the text as a whole is essential for you to write a competent reflection on it.
-
-{% include alert.html class='warning' title='Primary Source Reflections' text="
-I think you might be getting a wee bored of the usual response groups. To be honest, I am too. (You also read everyone else's posts, right?!?)
-
-As we're doing something different with our readings this week, let's do something a bit more creative with our reflections. We will pause the groups, and everyone will do the same kind of response for each day, a PRIMARY SOURCE REFLECTION. Everyone will do these for Monday, Wednesday, AND FRIDAY.
-
-So the usual weekly reflection will be replaced by a primary source reflection this week, as noted below.
-"%}
-
-#### What is a primary source reflection?
-A primary source reflection is ~250-word post (slightly longer than usual in lieu of no weekly reflection, but less overall writing for the week) that answers two related questions as thoroughly as you can:
-
-- **Why do you think I want you to read this source? What is it meant to illustrate?**
-
-To answer these thoroughly, consider how the text fits into the course narrative so far.
-- Think about how it addresses (or doesn't) the major themes we've focused on:
-  - continuities and discontinuities of dietary advice
-  - ways the author establishes expertise
-  - moral aspects of dietary choice
-  - differing rhetorical styles
-- What are the major beliefs about diet/health/society/etc that are motivating the author to write this?
-- Who is the audience? What does the author think their intended audience knows or doesn’t know?
-- How are the answers to these questions maybe a bit different than they have been with earlier sources?
-
-I'd also love to know if you found this assignment a bit more interesting than the usual group work.
-
-
-
-### Mon 9/21
-- Lulu Hunt Peters,  [Diet and Health: With Key to the Calories](https://www.google.com/books/edition/Diet_and_Health/f7UXAAAAYAAJ?hl=en&gbpv=1) (1918). Read the first 3.5 chapters, pp. 11--39 (these are tiny pages and the writing is rather breezy compared to what we're used to).
-
-{% include alert.html class='danger' title='Primary Source Reflections' text="
-See the description above. Have fun!
-"%}
-
-
-
-### Wed 9/23
-- John Harvey Kellogg, [_The New Dietetics, what to Eat and how: A Guide to Scientific Feeding in Health and Disease_](https://www.google.com/books/edition/_/CBGxvXF332cC?hl=en&gbpv=1&pg=PA1) (1921). Read the Preface (pp. 5--7); skim the Table of Contents (pp. 8--21); read pp. 25--37.
-
-{% include alert.html class='danger' title='Primary Source Reflections' text="
-Same deal as Monday.
-"%}
-
-
-
-### Fri 9/25
-- Elmer McCollum, [The Newer Knowledge of Nutrition](https://www.google.com/books/edition/_/jndUnd5xX5wC?hl=en&gbpv=1) (1922). Read the preface (xii--ix), skim the Table of Contents, and read 1--13.
-
-{% include alert.html class='danger' title='Primary Source Reflections' text="
-NO WEEKLY REFLECTION this week. We're completing our primary source survey with another primary source reflection as you did for M and W.
-"%}
-
-
-
-
-
-## Week 7: Vitamins
-You've probably heard that you should take your vitamins. Of course they are crucial for health in minuscule amounts, but are we really in danger of falling short? Why is there so much focus on them? We've already seen them discussed in McCollum, but this week we look more closely at the discovery and marketing of vitamins in the early 1900s. The way the mere idea of vitamins reshaped nutritional thinking is still with us today. These readings also help us think about the relationship between scientific expertise and common sense. Be sure to check out the [PREVIEW VIDEO](https://youtu.be/Y4wyg8ETtbA); it might help with the quiz as well.
-
-
-{% include alert.html class='warning' title='NO READING REFLECTIONS' text="
-No M/W reading responses due this week! You can read whenever you want (just get everything done before you do Friday's assignment), and I've removed the those daily headings so it's not confusing.
-
-
-Note the REVIEW QUIZ that you should take sometime this week BEFORE FRIDAY; this is in response to a popular request from the survey to have a few more quizzes in lieu of some writing assignments.
-
-Also note a different kind of weekly reflection for Friday. Actually, it's not a weekly reflection at all, but something a bit more creative that serves a similar purpose---to show me that you've learned from our readings and can apply them to contemporary rhetoric about diet and health.
-"%}
-
-
-{% include alert.html class='danger' title='Weeks 5+6 Quiz' text="
-To emphasize and clarify some points from the previous weeks, there is a 15-point QUIZ on the MAIN, GENERAL, BIG-PICTURE ideas from the last two weeks, drawing from primarily from the READINGS and VIDEOS (see the two video links listed under Week 6; familiarity with the discussion board posts and my replies will be helpful as well). If you've been neglecting any of these, you'll want to spend some time with them before you take the quiz. If you've been keeping up with the work, you'll be fine even without any review. There are no tricky details!
-
-You need to do the quiz by the end of Friday, just like your regular weekly assignments.
-"%}
-
-
-### Read before Friday
-- Catherine Price, _Vitamania_, Chapter 4: Journey into Food, 47--63.
-- Catherine Price, _Vitamania_, Chapter 5: A to Zeitgeist, 65--90.
-- Rima D. Apple, "'They Need it Now': Science, Advertising and Vitamins, 1925-1940".   
-
-
-### Fri 10/02
-{% include alert.html class='danger' title='Vitamin Rhetoric Analysis' text="
-Are vitamins and supplements really necessary? Google some variant of that question and read through a handful (between 3 and 5) of articles that you find on the first page of search results. Ignore sites that are obviously all marketing with no substance to them.
-
-USE THE READINGS FOR THIS WEEK to analyze the kinds of arguments you find. Do they fall into distinct groups? What kinds of evidence do they give? Are they convincing? Does the HISTORY of vitamins (that you have just read about for this week) explain the rhetoric we still see?
-
-Figure out what 3-4 main points you want to make about your SET OF ARTICLES and clearly organize your ~800-word posts to make those points. Posts are worth up to 15 points, based on your organization, clarity of analysis, and use of the readings.
-
-Be sure to copy and paste the URLs of your sources into your post (top or bottom is fine). No formal citations required---but be sure the URLs of the sources you consult are listed somewhere. You will directly reference most of your sources in your description and analysis, and you should also list sources that inform your analysis even if you don't explicitly reference them.
-
-BE CAREFUL: In your essay you are generalizing WITH SPECIFIC EXAMPLES about a SET of articles (3-5). DO NOT summarize each article one by one! You might however, want to describe how one particular article stands out as different from others.
-
-For your set, generalize how they communicate about the need for vitamins (however they characterize that), the kinds of evidence they use, and the kind rhetoric they employ (which might be similar to what's described in today's article on ads). MAKE SURE YOU'RE USING THE READINGS TO INFORM YOUR ANALYSIS.
-"%}
+## [Week 7: Vitamins](weeks/7)
+You've probably heard that you should take your vitamins. Of course they are crucial for health in minuscule amounts, but are we really in danger of falling short? Why is there so much focus on them? We've already seen them discussed in McCollum, but this week we look more closely at the discovery and marketing of vitamins in the early 1900s. The way the mere idea of vitamins reshaped nutritional thinking is still with us today. These readings also help us think about the relationship between scientific expertise and common sense. Be sure to check out the [Vitamin PREview video](https://youtu.be/Y4wyg8ETtbA); it might help with the quiz as well.
 
 
 
