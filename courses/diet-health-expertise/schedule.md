@@ -117,14 +117,19 @@ This week is a flex week to get caught up. I usually plan on a catch-up week whe
 
 
 ## Week 10: Obesity science, politics, and ethics
-Continuing with our obsession with calories and fat, this week we evaluate some pieces on the so-called obesity epidemic in America. This week is less about historical constructions of diet as we've been focused on; instead we're looking at contemporary rhetoric of diet and health in terms of obesity. These articles are a bit dated, but they still perfectly exemplify the kind of dietary philosophies and speculation that we see everyday. Our job will be to critically evaluate these in terms of how we've learned to think about health and diet via history.
+Continuing with our obsession with calories and fat, this week we evaluate some pieces on the so-called obesity epidemic in America. This week is less about historical constructions of diet as we've been focused on; instead we're looking at contemporary rhetoric of diet and health in terms of obesity. These articles are a bit dated, but they still perfectly exemplify the kind of dietary philosophies and speculation that we see everyday. Our job will be to critically evaluate these in terms of how we've learned to think about health and diet via their history.
 
 
 ### Mon 10/19
 - Gary Taubes and Cristin Kearns Couzens, [Big Sugar's Sweet Little Lies](https://www.motherjones.com/environment/2012/10/sugar-industry-lies-campaign/), _Mother Jones_ (Nov/Dec 2012).
 
+This article is quite rich in detail and a little like drinking from a fire hose, so it takes some effort to not let your eyes glaze over as you read through it. Don't give up! We're reading this in part to practice understanding history of nutrition narratives, not to absorb all the names and events and studies the article references.
+
+
 {% include alert.html class='danger' title='Reading reflection' text="
-Everyone writes on the same question today: Is this article rhetorically effective? How so? How not? Does the preponderance of industry research in nutrition make nutritional information in general (not just what specific studies say) more suspect?
+You're riding in an elevator and someone you admire gets on and notices you reading this article on your phone. They say to you: "That looks long and boring, but I've been wondering: does the sugar industry really lie to people or are they just marketing a product? Is it really dangerous? How do we know one way or the other?" You've got about a minute to make a good impression and answer the questions smartly (BASED ON THE ARTICLE). What are you going to say? Needless to say, if you just babble on without showing your knowledge of the article or the history your VIP will be unimpressed and you will lament your missed opportunity forever.
+
+_Note: This is all a fanciful way of asking you to boil down a long and dry but highly informative article to the main points that the average person should know about._
 "%}
 
 
@@ -133,7 +138,7 @@ Everyone writes on the same question today: Is this article rhetorically effecti
 - Tom Philpott, [Why The Atlantic’s Defense of Junk Food Fails](http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails), _Mother Jones_ (August 2013).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Everyone writes on the same question today: Which perspective do you find more compelling why? What expertise is required to understand how to 'end' obesity? Is that ever possible?
+Everyone writes on the same question today: Which perspective do you find more compelling? WHY? HOW? WHY? HOW? I'm not interested in ONLY your opinion---I want to you to make an argument as to WHY and HOW one article was more effective than the other. What expertise is required to understand how to 'end' obesity?
 "%}
 
 
