@@ -127,7 +127,7 @@ This article is quite rich in detail and a little like drinking from a fire hose
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-You're riding in an elevator and someone you admire gets on and notices you reading this article on your phone. They say to you: "That looks long and boring, but I've been wondering: does the sugar industry really lie to people or are they just marketing a product? Is it really dangerous? How do we know one way or the other?" You've got about a minute to make a good impression and answer the questions smartly (BASED ON THE ARTICLE). What are you going to say? Needless to say, if you just babble on without showing your knowledge of the article or the history your VIP will be unimpressed and you will lament your missed opportunity forever.
+You're riding in an elevator and someone you admire gets on and notices you reading this article on your phone. They say to you: \"That looks long and boring, but I've been wondering: does the sugar industry really lie to people or are they just marketing a product? Is it really dangerous? How do we know one way or the other?\" You've got about a minute to make a good impression and answer the questions smartly (BASED ON THE ARTICLE). What are you going to say? Needless to say, if you just babble on without showing your knowledge of the article or the history your VIP will be unimpressed and you will lament your missed opportunity forever.
 
 _Note: This is all a fanciful way of asking you to boil down a long and dry but highly informative article to the main points that the average person should know about._
 "%}
