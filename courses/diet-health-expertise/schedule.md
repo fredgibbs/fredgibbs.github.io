@@ -147,7 +147,7 @@ Everyone writes on the same question today: Which perspective do you find more c
 - David Berreby, [The Obesity Era](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong), *Aeon* (June 2013).
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-What is the role of nutrition science and research in understanding obesity? What is the food industry's role? Which of the articles for this week resonated most strongly with you? Why?
+What is the role of nutrition science and research in understanding obesity? What is the food industry's role? What is the government's role? What _should_ they be compared to what they are?
 "%}
 
 
