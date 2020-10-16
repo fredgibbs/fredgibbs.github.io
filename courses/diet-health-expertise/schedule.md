@@ -54,7 +54,6 @@ This week is a flex week to get caught up. I usually plan on a catch-up week whe
 
 
 
-
 ## Week 10: Obesity science, politics, and ethics
 Continuing with our obsession with calories and fat, this week we evaluate some pieces on the so-called obesity epidemic in America. This week is less about historical constructions of diet as we've been focused on; instead we're looking at contemporary rhetoric of diet and health in terms of obesity. These articles are a bit dated, but they still perfectly exemplify the kind of dietary philosophies and speculation that we see everyday. Our job will be to critically evaluate these in terms of how we've learned to think about health and diet via their history.
 
@@ -86,7 +85,7 @@ Everyone writes on the same question today: Which perspective do you find more c
 - David Berreby, [The Obesity Era](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong), *Aeon* (June 2013).
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-What is the role of nutrition science and research in understanding obesity? What is the food industry's role? What is the government's role? What _should_ they be compared to what they are?
+Show me you've done the readings for this week by addressing the following: What is the role of nutrition science and research in understanding obesity? What is the food industry's role? What is the government's role? What _should_ they be compared to what they are? As always, USE THE READINGS to answer the question. This is going to be a larger factor in evaluations going forward.
 "%}
 
 
@@ -119,7 +118,7 @@ Our investigations into the history of diet have been about what we are delibera
 - McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 1--46 (Prologue; Are GMOs Safe?).
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-How was Jenkins convincing and how was he not? Does the history of nutrition hold any relevance to understanding the debate about GMOs? Should the history as explained by Carson and Belasco be a bigger part of explaining why the debate over GMOs matter?
+This assignment is like the vitamin article analysis you did, except you'll google something along the lines of \"are GMOs safe?\". USE THE MCKAY READING to analyze the strengths and weaknesses of the article you choose. As before, be smart in your choice of article to analyze. Don't pick something super intricate or something totally superficial--they make the assignment much harder.
 "%}
 
 
