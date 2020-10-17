@@ -61,11 +61,13 @@ Continuing with our obsession with calories and fat, this week we evaluate some 
 ### Mon 10/19
 - Gary Taubes and Cristin Kearns Couzens, [Big Sugar's Sweet Little Lies](https://www.motherjones.com/environment/2012/10/sugar-industry-lies-campaign/), _Mother Jones_ (Nov/Dec 2012).
 
-This article is quite rich in detail and a little like drinking from a fire hose, so it takes some effort to not let your eyes glaze over as you read through it. Don't give up! We're reading this in part to practice understanding history of nutrition narratives, not to absorb all the names and events and studies the article references.
+This article is quite rich in detail and at times like drinking from a fire hose, so it takes some effort to not let your eyes glaze over as you read through it. Don't give up! We're reading this to practice understanding history of nutrition narratives, evaluate the role of science in the food industry. We DO NOT need to absorb all the names and events and studies the article references.
+
+Pay particular attention to how "science" is used in determining how dangerous (or not) sugar is. While the history of nutrition narrative that we've been following has generally shown how "science" is creating more knowledge about nutrition (even if it might be used for a particular social agenda), this article shows how the inherent uncertainties of science can be used (usually by facets of the food industry) to undermine confidence in that same nutrition research.
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-You're riding in an elevator and someone you admire gets on and notices you reading this article on your phone. They say to you: \"That looks long and boring, but I've been wondering: does the sugar industry really lie to people or are they just marketing a product? Is it really dangerous? How do we know one way or the other?\" You've got about a minute to make a good impression and answer the questions smartly (BASED ON THE ARTICLE). What are you going to say? Needless to say, if you just babble on without showing your knowledge of the article or the history your VIP will be unimpressed and you will lament your missed opportunity forever.
+You're riding in an elevator and someone you admire gets on and notices you reading this article on your phone. They say to you: \"That looks long and boring, but I've been wondering: Is sugar actually dangerous? How would we know one way or the other?\" You've got about a minute to make a good impression and answer the questions smartly (BASED ON THE ARTICLE). What are you going to say? Needless to say, if you just babble on without showing your knowledge of the article or the history your VIP will be unimpressed and you will lament your missed opportunity forever.
 
 _Note: This is all a fanciful way of asking you to boil down a long and dry but highly informative article to the main points that the average person should know about._
 "%}
@@ -75,8 +77,10 @@ _Note: This is all a fanciful way of asking you to boil down a long and dry but 
 - David H. Freedman, [How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true), _The Atlantic_ (August 2013).
 - Tom Philpott, [Why The Atlantic’s Defense of Junk Food Fails](http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails), _Mother Jones_ (August 2013).
 
+These readings are both straightforward enough that they don't need much of an introduction. Yet I want to be clear they are BOTH deeply flawed and that's why it's fun for us to dissect them as a pair. Pay close attention to the RHETORIC of these articles---the way they are trying to persuade you. Some questions that will help to evaluate the rhetoric: What assumptions about people/society/health are each making? How do the authors use "science" to argue their point? How does each NOT address issues or concerns that they should?
+
 {% include alert.html class='danger' title='Reading reflection' text="
-Everyone writes on the same question today: Which perspective do you find more compelling? WHY? HOW? WHY? HOW? I'm not interested in ONLY your opinion---I want to you to make an argument as to WHY and HOW one article was more effective than the other. What expertise is required to understand how to 'end' obesity?
+Everyone writes on the same question today: Is Philpott's reply to Freedman effective? Does he really refute Freedman's argument? Does he even characterize it effectively? Are they really talking about the same things? Does Philpott use the history of diet and health effectively (considering what you've learned in this course)?
 "%}
 
 
@@ -84,8 +88,12 @@ Everyone writes on the same question today: Which perspective do you find more c
 ### Fri 10/23
 - David Berreby, [The Obesity Era](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong), *Aeon* (June 2013).
 
+You probably noticed that this article is referenced in the Philpott article from Wednesday, so you might think it's really making the same point---but no! The main reason I think this article is so useful in the context of this course is that no matter what you think of Wednesday's readings, this one kind of dumps them on their heads. It just gives you a new way of thinking about science, health, knowledge, the world---everything. Good writing does that. Enjoy.
+
+Notice that the point of the article is to get us to rethink one of our assumptions about the basic thermodynamic approach to calories that has been at the heart of American thinking about the calorie since Atwater, through Peters, Davis, and so on. So not only is the author making a scientific argument, but also a historical one---in the sense of challenging a belief deeply engrained in our culture that takes on a level of "truth" because it's been around so long. How much "science" does it take to override "history"?
+
 {% include alert.html class='danger' title='Weekly reflection' text="
-Show me you've done the readings for this week by addressing the following: What is the role of nutrition science and research in understanding obesity? What is the food industry's role? What is the government's role? What _should_ they be compared to what they are? As always, USE THE READINGS to answer the question. This is going to be a larger factor in evaluations going forward.
+Show me you've done the readings for this week by addressing the following: What is the role of nutrition science and research in understanding obesity? What are some of the main problems and challenges? As always, USE THE READINGS to answer the question. This is going to be a larger factor in evaluations going forward.
 "%}
 
 
