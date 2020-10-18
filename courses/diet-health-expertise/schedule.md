@@ -55,7 +55,13 @@ This week is a flex week to get caught up. I usually plan on a catch-up week whe
 
 
 ## Week 10: Obesity science, politics, and ethics
-Continuing with our obsession with calories and fat, this week we evaluate some pieces on the so-called obesity epidemic in America. This week is less about historical constructions of diet as we've been focused on; instead we're looking at contemporary rhetoric of diet and health in terms of obesity. These articles are a bit dated, but they still perfectly exemplify the kind of dietary philosophies and speculation that we see everyday. Our job will be to critically evaluate these in terms of how we've learned to think about health and diet via their history.
+Continuing with our obsession with calories and fat, this week we evaluate some pieces on the so-called obesity epidemic in America. This week is less about historical constructions of diet as we've been focused on; instead we're looking at contemporary rhetoric of diet and health in terms of obesity. These articles are a bit dated, but they still perfectly exemplify the kind of dietary philosophies and speculation that we see everyday. Our job is to critically evaluate these in terms of how we've learned to think about diet, health, and expertise in light of their histories.
+
+#### Questions to keep in mind for each reading
+- What’s the general trend or trends the authors are presenting?
+- What are key examples to take that illustrate the authors’ points?
+- What topics aren't addressed that should be?
+- Is the narrative effective?
 
 
 ### Mon 10/19
@@ -77,7 +83,12 @@ _Note: This is all a fanciful way of asking you to boil down a long and dry but 
 - David H. Freedman, [How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true), _The Atlantic_ (August 2013).
 - Tom Philpott, [Why The Atlantic’s Defense of Junk Food Fails](http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails), _Mother Jones_ (August 2013).
 
-These readings are both straightforward enough that they don't need much of an introduction. Yet I want to be clear they are BOTH deeply flawed and that's why it's fun for us to dissect them as a pair. Pay close attention to the RHETORIC of these articles---the way they are trying to persuade you. Some questions that will help to evaluate the rhetoric: What assumptions about people/society/health are each making? How do the authors use "science" to argue their point? How does each NOT address issues or concerns that they should?
+These readings are both straightforward enough that they don't need much of an introduction. Yet I want to be clear they are BOTH deeply flawed and that's why it's fun for us to dissect them as a pair. Pay close attention to the RHETORIC of these articles---the way they are trying to persuade you.
+
+Some (at this point in the course, hopefully familiar) questions that will help to evaluate the rhetoric:
+- What assumptions about people/society/health are each making?
+- How do the authors use "science" to argue their point?
+- How does each NOT address issues or concerns that they should?
 
 {% include alert.html class='danger' title='Reading reflection' text="
 Everyone writes on the same question today: Is Philpott's reply to Freedman effective? Does he really refute Freedman's argument? Does he characterize it accurately? Are they really talking about the same things? Does Philpott use the history of diet and health effectively (considering what you've learned in this course)?
@@ -90,10 +101,10 @@ Everyone writes on the same question today: Is Philpott's reply to Freedman effe
 
 You probably noticed that this article is referenced in the Philpott article from Wednesday, so you might think it's really making the same point---but NO! The main reason I think this article is so useful in the context of this course is that no matter what you think of Wednesday's readings, this one kind of dumps them on their heads. It just gives you a new way of thinking about science, health, knowledge, the world---everything. Good writing does that. Enjoy.
 
-Notice that the point of the article is to get us to rethink one of our assumptions about the basic thermodynamic approach to calories that has been at the heart of American thinking about the calorie since Atwater, through Peters, Davis, and so on. So not only is the author making a scientific argument, but also a cultural / historical one---in the sense of challenging a belief so deeply engrained in our culture that takes on a level of "truth" because it's been around so long. How much "science" does it take to override "history"?
+Notice that the point of the article is to get us to rethink the basic thermodynamic approach to calories that has been at the heart of American thinking about the calorie since Atwater, through Peters, Davis, and so on. So not only is the author making a scientific argument, but also a cultural / historical one---in the sense of challenging a belief so deeply engrained in our culture that takes on a level of "truth" because it's been around so long. How much "science" does it take to override "history"?
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-Show me you've done the readings for this week by addressing the following: What is the role of nutrition science and research in understanding obesity? What are some of the main problems and challenges? As always, USE THE READINGS to answer the question. This is going to be a larger factor in evaluations going forward.
+Show me you've done the readings for this week by addressing the following: What are some of the main problems and challenges with studying obesity? Have we really been looking at it all wrong? How does Berreby present a different conception of fat than we've seen in previous course readings? As always, USE THE READINGS SPECIFICALLY in your post (which is going to be a larger factor in evaluations going forward; warm-ups are over!).
 "%}
 
 
