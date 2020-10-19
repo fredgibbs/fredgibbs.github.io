@@ -46,11 +46,7 @@ Is fat bad? Of course not! But to say its role within dietary advice is controve
 ## Week 9: BREAK!
 This week is a flex week to get caught up. I usually plan on a catch-up week when we have scheduled classroom meetings because I almost never quite get through everything I mean to. Obviously timing is a bit different when everything is asynchronously online. So, NOTHING TO DO THIS WEEK! Enjoy the time away from the history of dietary advice and I hope you'll be recharged for the last section of class. Our readings shift from primarily historical studies to analyses of contemporary issues---and we'll see what the long history of diet and health can add to the conversation.
 
-### Mon 10/12
-
-### Wed 10/14
-
-### Fri 10/16
+### Nothing to do M,W,F Oct 12,14,16
 
 
 
@@ -119,25 +115,29 @@ Our investigations into the history of diet have been about what we are delibera
 - Ralph H. Lutts, “Chemical Fallout: Rachel Carson’s Silent Spring, Radioactive Fallout, and the Environmental Movement.” _Environmental Review_ 9.3 (1985): 211--25.
 - Rachel Carson, _Silent Spring_, 5--13; 15--37.
 
+We're reading Lutts just for a bit of background about Carson and to understand her profound significance. It's rare that one can trace or attribute a significant cultural change to a single person, but if it's even possible, the most likely case is Rachel Carson as responsible for modern environmentalism. And it's not about the environment for its own sake (also important!) but because it so dramatically affects our health.
+
 {% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1+2: [Standard Reflection](reading-reflections#standard-reflection). How do you think Carson's writing style may have contributed to her book's success?
-- Group 3+4: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of TUESDAY)
+As some of the best writing we'll read in this course, it's worth paying extra attention to how and why Carson's language and rhetoric were so effective. Copy down the top 5 sentences from Carson that resonate with you, and a provide a sentence or two to explain why they were impactful for you. Collectively, your selected passages and explanations should make it clear what about the article you find most interesting and persuasive. If you pick rather trivial sentences, I'm going to assume you just didn't read it.
 "%}
 
 
 ### Wed 10/28
 - Warren Belasco, _Appetite for Change_, Chapter 5: The Orthodox Defense: The War of the Metaphors, 111--131.
 
+I've tried to encourage you to pay a lot of attention to RHETORIC in this course--the way(s) an author tries to persuade you of a particular point. This chapter gives us a kind of history of rhetoric in terms of the countercuisine and the industry response to it. In earlier chapters (that we're not reading), Belasco defines countercuisine as a protest against industrialized agriculture (part of the general counterculture movement emerging in the 1960s). They characterized modern (for them) food as unnatural, dangerous, and poisonous (see Rachel Carson). This chapter describes the language and metaphors that were employed to describe food, as well as their power to influence how people think about food.
+
+
 {% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Comparative Reflection](reading-reflections#comparative-reflection)
-- Group 2: [Standard Reflection](reading-reflections#standard-reflection)
+Some of you have asked for more free-form reflection prompts, so this is one of those. There's a LOT going on in this short chapter. What are the 4 or 5 most interesting ideas you came across? For each one, explain WHY you found them interesting.
 "%}
+
 
 ### Fri 10/30
 - McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 1--46 (Prologue; Are GMOs Safe?).
 
 {% include alert.html class='danger' title='Weekly reflection' text="
-This assignment is like the vitamin article analysis you did, except you'll google something along the lines of \"are GMOs safe?\". USE THE MCKAY READING to analyze the strengths and weaknesses of the article you choose. As before, be smart in your choice of article to analyze. Don't pick something super intricate or something totally superficial--they make the assignment much harder.
+This assignment is like the vitamin article analysis you did, except you'll google something along the lines of \"Are GMOs safe?\". USE THE JENKINS READING to analyze the strengths and weaknesses of the article you choose. As before, be smart in your choice of article to analyze. Don't pick something super intricate or something totally superficial--they make the assignment much harder. Did I mention you should use the Jenkins reading? Posts that do not use the Jenkins reading will be heavily (and gleefully) penalized.
 "%}
 
 
@@ -146,9 +146,10 @@ This assignment is like the vitamin article analysis you did, except you'll goog
 ## Week 12: Secret Ingredients and Regulation
 We assume our food is safe. We assume that corporations that sell us food aren't adulterating it or defrauding us. History shows that these are not always good assumptions.
 
+Because I suspect there will be some distration with the election and its aftermath, we have a lighter week this week with nothing due before Friday.
 
 {% include alert.html class='warning' title='NO READING REFLECTIONS' text="
-No M/W reading responses due this week! There is a different kind of weekly reflection type thing due on Friday
+No M/W reading responses due this week! There is a different kind of weekly reflection type thing due on Friday. Make sure you've done ALL the readings before composing
 "%}
 
 ### Mon 11/2  
@@ -166,7 +167,7 @@ No M/W reading responses due this week! There is a different kind of weekly refl
 
 
 {% include alert.html class='danger' title='DEBATE!' text="
-Based on your group assignment, use the evidence and reasoning and history in the articles to argue in ~800 words that government should play EITHER a stronger or weaker role (depending on your group) in regulating particular ingredients in food. MAKE SURE YOUR ARGUMENT REFLECTS THE READINGS FOR THIS WEEK!
+Based on your group assignment, use the evidence and reasoning and history in the articles to argue in ~800 words that government should play EITHER a stronger or weaker role (depending on your group) in regulating particular ingredients in food. MAKE SURE YOUR ARGUMENT REFLECTS THE READINGS FOR THIS WEEK! Posts that offer only opinions without reference to the course will be graded VERY LOW.
 - Group 1+2: Argue that the government should have a STRONGER role in food regulation
 - Group 3+4: Argue that the government should have a WEAKER role in food regulation
 "%}
@@ -236,7 +237,9 @@ For your weekly reflection this week, we're going to do a kind of a Final Course
 
 
 ## Week 15: Food Traditions and Societal Health
-We can't NOT read about Thanksgiving this week! These readings have nothing to do with diet/health, but it's useful to think about civic health in addition to bodily health. It's common to think about food as bringing people together, but it's also a way of keeping people apart.
+We can't NOT read about Thanksgiving this week! These readings have nothing to do with diet/health, but we might also think about how food relates to civic health in addition to bodily health. It's common to think about food as bringing people together, but it's also, as we've seen, a way of exerting control and a way of keeping people apart.
+
+You have one post due this week, which I highly recommend you complete BY WEDNEDAY NIGHT. But if you're swamped with other essays, exams, etc, just make sure to post it before the end of the weekend.
 
 ### Anytime this week
 - Andrew F. Smith, “The First Thanksgiving”, _Gastronomica_ 3.4 (2003): 79–85.
@@ -257,8 +260,9 @@ Bon Appétit!
 
 
 
+
 ## Week 16: Review and Reflection 2
-Winding down with one last assignment---in lieu of the weekly learning reflection, you'll do a [Food Blog Analysis]((food-blog-analysis) that gives you a chance to apply the thinking and analytical approach from this class "in the wild".
+Our brains are full! Rather than more readings, let's apply the thinking and analytical approach from this class to contemporary put the woryou'll do a [Food Blog Analysis]((food-blog-analysis) 
 
 
 ### Mon 11/30
