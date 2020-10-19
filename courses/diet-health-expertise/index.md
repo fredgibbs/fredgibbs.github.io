@@ -89,20 +89,20 @@ There are NO REQUIRED BOOKS OR READERS for the course; everything is accessible 
 TO BE CLEAR: LITERALLY EVERYTHING you need for the course is either already freely available online (and linked to on the syllabus), or is a PDF in our Zotero library. If you ever think you need to track something down on your own, you are not connected to Zotero properly.
 
 
-
 ## Work Requirements and Grading
-Assignments are worth either 2 points (weekly discussion posts), 10 points (weekly learning reflections), or 20 points (larger assignments and the final learning reflection)
+Assignments are usually worth either 2 points (weekly discussion posts), 10 points (weekly learning reflections; although sometimes these are 12 or 15), or 20 points (larger assignments and the final learning reflection)
 
 The little equations after the assignment type indicates `number of assignments` x `points for each` x `weight` = `total points`
-- Occasional reading/lecture quizzes (4x8x.5 = 16)
-- [Reading reflections](reading-reflections)(17x2 = 34)
-- [Weekly learning reflections](weekly-reflections) (14x10 = 140) (usually in response to a particular question) Due most Fridays.
-- [Food blog analysis](food-blog-analysis) (1x20 = 20) Due in lieu of a weekly reflection on the last day of class.
-- [Final learning reflection](final-reflections) (1x20 = 20) Due on the last Friday of Finals Week.
+- Occasional reading/lecture quizzes (~6x~10 = ~60)
+- [Reading reflections](reading-reflections)(16x2 = 32)
+- [Weekly learning reflections](weekly-reflections) (11x10 = 110) (usually in response to a particular question) Due most Fridays.
+- [Vitamin rhetoric analysis](healthy-diet-analysis) (1x15 = 15) Due in lieu of a weekly reflection.
+- [Healthy diet analysis](healthy-diet-analysis) (1x15 = 15) Due in lieu of a weekly reflection on the last day of class.
+- [Final learning reflection](final-reflections) (1x20 = 20) Due on the last Friday of Finals Week (12/11). Also known as a FINAL. But not a lot of points compared to other assignments.
 
 
-### Grade Distribution (230 points)
-Depending on how the course unfolds, the final number of points may change slightly. But the percent grading scale will remain basically the same, unless it becomes easier to get a higher grade.
+### Grade Distribution (~250 points)
+Depending on how the course unfolds, the final number of points may ( = will almost certainly) change slightly. But the percent grading scale will remain basically the same, unless it becomes easier to get a higher grade. I try to minimize grade scale changes, but sometimes they are necessary and they always work to your advantage.
 
 Percent | Grade
 --- | ---
