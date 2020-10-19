@@ -167,9 +167,9 @@ No M/W reading responses due this week! There is a different kind of weekly refl
 
 
 {% include alert.html class='danger' title='DEBATE!' text="
-Based on your group assignment, use the evidence and reasoning and history in the articles to argue in ~800 words that government should play EITHER a stronger or weaker role (depending on your group) in regulating particular ingredients in food. MAKE SURE YOUR ARGUMENT REFLECTS THE READINGS FOR THIS WEEK! Posts that offer only opinions without reference to the course will be graded VERY LOW.
-- Group 1+2: Argue that the government should have a STRONGER role in food regulation
-- Group 3+4: Argue that the government should have a WEAKER role in food regulation
+In this assignment, you're going to debate yourself. Use the evidence and reasoning and history in the articles to argue in ~400 words that government should play EITHER a stronger or weaker role in regulating particular ingredients in food. Then, flip positions and write ~400 words on the opposite view.
+
+MAKE SURE YOUR ARGUMENT REFLECTS THE READINGS FOR THIS WEEK! Posts that offer only opinions without reference to the course will be graded VERY LOW. As always, specific examples are a very good idea.
 "%}
 
 
@@ -208,15 +208,14 @@ One of the main goals of this course is to sharpen critical faculties when it co
 
 
 ## Week 14: Review and Reflection 1
-This week we're really starting to ramp down for the course. Your final reading responses are due on Monday (there are more weekly reflections due, however). As a warm up for the course final (due the last Friday of Finals Week), your weekly reflection this week will be to analyze Wednesday's reading in terms of the whole course.
+This week we're really starting to ramp down for the course. As a warm up for the course final (due the last Friday of Finals Week), your weekly reflection this week will be to analyze Wednesday's reading in terms of the whole course.
 
 
 ### Mon 11/16
 - Christie Aschwanden, [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/), (_FiveThirtyEight_, Jan 6, 2016).
 
-{% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Connective Reflection](reading-reflections#connective-reflection)
-- Group 2: [Standard Reflection](reading-reflections#standard-reflection)
+{% include alert.html class='danger' title='Reading Quiz' text="
+Just a basic reading quiz for today
 "%}
 
 ### Wed 11/18
@@ -262,18 +261,18 @@ Bon Appétit!
 
 
 ## Week 16: Review and Reflection 2
-Our brains are full! Rather than more readings, let's apply the thinking and analytical approach from this class to contemporary sources, like a food blog. Your only thing to do this week is a  [Food Blog Analysis]((food-blog-analysis).
+Our brains are full! Rather than more readings, let's apply the thinking and analytical approach from this class to contemporary sources, like a website about healthy diets. Your only thing to do this week is a [Healthy Diet Analysis]((healthy-diet-analysis).
 
-We have read a lot about explicit dietary advice, but obviously a lot of what we "know" about health and diet comes from packages, ads, cookbooks, and so on. What can modern food blogs tell us about the relationship between food, health, and diet? What issues have we covered in class are present or missing?
+We have read a lot about explicit dietary advice, but obviously a lot of what we "know" about health and diet comes not just from contemporary research, but the long history of how we have thought about diet and health. How does the HISTORY that we've covered help explain why diet advice looks like it does?
 
 
 ### Mon 11/30
-- [Food Blog Analysis]((food-blog-analysis) pro tips VIDEO (link TBP). This video will provide a quick walk-thru example of how to do the food blog analysis (due Friday).  
+- For day, watch the pro tips VIDEO (link TBP), which will provide a quick walk-thru example of how to do the healthy diet analysis (due Friday).  
 
 ### Wed 12/02
 NO READING
 
 ### Fri 12/04
 {% include alert.html class='danger' title='Food Blog Analysis' text="
-As a preparatory exercise for the [final course reflection](final-reflections), your [food blog analysis](food-blog-analysis) is due today.
+As a preparatory exercise for the [final course reflection](final-reflections), your [healthy diet analysis](healthy-diet-analysis) is due today.
 "%}
