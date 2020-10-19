@@ -192,7 +192,7 @@ Everyone writes on the same question today: How would you compare these two crit
 - Richard Sprague, [So Should I Eat Apples, or Not?](https://medium.com/neodotlife/review-of-viome-f024423a3d3a) (_NEO.LIFE_, February 2018).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Everyone writes on the same question today: What is your opinion on genetically informed diets? Take a broad philosophical approach to answering the question. Avoid simplistic and unhelpful conclusions like 'if it works then it's fine'. Think about questions like: Can they EVER work? And if they COULD, would that entail a health/productive relationship to food?
+Everyone writes on the same question today: What is your opinion on genetically informed diets? Take a broad philosophical approach to answering the question. Avoid simplistic and unhelpful conclusions like 'if it works then it's fine'. Think about questions like: Can they EVER work? And if they COULD, would that entail a healthy or productive relationship to food?
 "%}
 
 
@@ -231,7 +231,7 @@ No reading responses due today, but look ahead to Friday.
 - NO NEW READING, just your weekly reflection as explained below.
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up (but still the usual weekly reflection length, ~600 words). Reflecting on what we've done in the course so far, how well does Wednesday's reading establishes/outlines a productive future for understanding the relationship between nutrition, diet, and health? Does it use history effectively? What kinds of things have we considered that don't appear in the article? The more readings you can tie in from the course now, the easier and better your final will be.
+For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up. Reflecting on what we've done in the course so far, how well does Wednesday's reading establish/outline a productive future for understanding the relationship between nutrition, diet, and health? Does it use history effectively? What kinds of things have we considered that don't appear in the article? The more readings you can tie in from the course now, the easier and better your final will be.
 "%}
 
 
@@ -262,16 +262,18 @@ Bon Appétit!
 
 
 ## Week 16: Review and Reflection 2
-Our brains are full! Rather than more readings, let's apply the thinking and analytical approach from this class to contemporary put the woryou'll do a [Food Blog Analysis]((food-blog-analysis) 
+Our brains are full! Rather than more readings, let's apply the thinking and analytical approach from this class to contemporary sources, like a food blog. Your only thing to do this week is a  [Food Blog Analysis]((food-blog-analysis).
+
+We have read a lot about explicit dietary advice, but obviously a lot of what we "know" about health and diet comes from packages, ads, cookbooks, and so on. What can modern food blogs tell us about the relationship between food, health, and diet? What issues have we covered in class are present or missing?
 
 
 ### Mon 11/30
-- [Food Blog Analysis]((food-blog-analysis) pro tips video (link TBP). This will be more detail and a quick walk-thru example of how to do the food blog analysis (due Friday).  
+- [Food Blog Analysis]((food-blog-analysis) pro tips VIDEO (link TBP). This video will provide a quick walk-thru example of how to do the food blog analysis (due Friday).  
 
 ### Wed 12/02
 NO READING
 
 ### Fri 12/04
 {% include alert.html class='danger' title='Food Blog Analysis' text="
-As a preparatory exercise for the final, your [food blog analysis](food-blog-analysis) is due today. We have read a lot about explicit dietary advice, but obviously a lot of what we 'know' about health and diet comes from packages, ads, cookbooks, and so on. What can modern food blogs tell us about the relationship between food, health, and diet? What issues have we covered in class are present or missing?
+As a preparatory exercise for the [final course reflection](final-reflections), your [food blog analysis](food-blog-analysis) is due today.
 "%}
