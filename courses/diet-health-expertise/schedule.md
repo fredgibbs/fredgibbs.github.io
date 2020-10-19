@@ -281,6 +281,6 @@ We have read a lot about explicit dietary advice, but obviously a lot of what we
 NO READING
 
 ### Fri 12/04
-{% include alert.html class='danger' title='Food Blog Analysis' text="
+{% include alert.html class='danger' title='Healthy Diet Analysis' text="
 As a preparatory exercise for the [final course reflection](final-reflections), your [healthy diet analysis](healthy-diet-analysis) is due today.
 "%}
