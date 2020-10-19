@@ -149,13 +149,17 @@ We assume our food is safe. We assume that corporations that sell us food aren't
 Because I suspect there will be some distration with the election and its aftermath, we have a lighter week this week with nothing due before Friday.
 
 {% include alert.html class='warning' title='NO READING REFLECTIONS' text="
-No M/W reading responses due this week! There is a different kind of weekly reflection type thing due on Friday. Make sure you've done ALL the readings before composing
+No M/W reading responses due this week! There is a basic reading quiz for Monday. There is a different kind of weekly reflection type thing due on Friday to tie everything together.
 "%}
 
 ### Mon 11/2  
 - Marion Nestle, _Food Politics: How the Food Industry Influences Nutrition and Health_, Chapter 10: "Science Versus Supplements", 219--246.
 
 - United States Congress. [House Select Committee To Investigate the Use of Chemicals in Food Products](https://babel.hathitrust.org/cgi/pt?id=mdp.39015077053083&view=1up&seq=448). _Chemicals In Food Products_. U.S. Govt. Print. Off., 195152, 1472--1478.
+
+{% include alert.html class='danger' title='Reading Quiz' text="
+Just a basic reading quiz for today to make sure we're keeping up!
+"%}
 
 
 ### Wed 11/4
@@ -165,17 +169,21 @@ No M/W reading responses due this week! There is a different kind of weekly refl
 ### Fri 11/6
 - Wendee Nicole, "Secret Ingredients", _Environmental Health Perspectives_ 121.6 (2013): A126--A133.
 
-
 {% include alert.html class='danger' title='DEBATE!' text="
-In this assignment, you're going to debate yourself. Use the evidence and reasoning and history in the articles to argue in ~400 words that government should play EITHER a stronger or weaker role in regulating particular ingredients in food. Then, flip positions and write ~400 words on the opposite view.
+In this assignment, you're going to debate yourself. Use the evidence and reasoning and history in the articles to argue in 5-6 bullet points (see [week 8](weeks/8) to refresh your memory of what I'm looking for) that government should play a WEAKER (than it does now) role in regulating  ingredients in food. Then, flip positions and provide 5-6 bullet points on why government should play a STRONGER role.
 
-MAKE SURE YOUR ARGUMENT REFLECTS THE READINGS FOR THIS WEEK! Posts that offer only opinions without reference to the course will be graded VERY LOW. As always, specific examples are a very good idea.
+MAKE SURE YOUR ARGUMENTS REFLECTS ALL THE READINGS FOR THIS WEEK! Posts that offer only opinions without reference to the course will be graded VERY LOW. As always, specific examples are a very good idea.
 "%}
 
 
 
 
 ## Week 13: Dietary Dangers and Critiques
+Not many people haven't been on some kind of diet. How can we really evaluate whether any diet could be useful? Is there a "right" diet that we just haven't found? Have we known it all along?
+
+This week is about EVALUATING dietary advice and dietary CRITIQUE. As you know from the course SLOs, the course is all about learning to think critically about dietary advice, using history to gain a broad perspective on it. So now we turn our attention from evaluating the rhetoric of dietary advice to evaluting the rhetoric of dietary critique.
+
+M and W are our LAST DAILY READING REFLECTIONS! There are a few more weekly ones, though, as we try to wrap up everything from the course.
 
 ### Mon 11/09
 - Michael Specter, [Against the Grain](https://www.newyorker.com/magazine/2014/11/03/grain) (_New Yorker_, October 27, 2014).
@@ -183,7 +191,7 @@ MAKE SURE YOUR ARGUMENT REFLECTS THE READINGS FOR THIS WEEK! Posts that offer on
 - James Hamblin, [Lectins Could Become the Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/), (_The Atlantic_ April 24, 2017).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Everyone writes on the same question today: How would you compare these two critiques of relatively new diets? Is one more effective than the other? WHY? What similar and different techniques do they use to communicate their skepticism to the reader? These writers are not dietary experts, but are they convincing to you?
+How would you compare these two critiques of relatively new diets? Is one critique more effective than the other? These writers are not dietary experts, but are they convincing to you? Which one resonated with you? WHY?
 "%}
 
 ### Wed 11/11
@@ -192,7 +200,7 @@ Everyone writes on the same question today: How would you compare these two crit
 - Richard Sprague, [So Should I Eat Apples, or Not?](https://medium.com/neodotlife/review-of-viome-f024423a3d3a) (_NEO.LIFE_, February 2018).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Everyone writes on the same question today: What is your opinion on genetically informed diets? Take a broad philosophical approach to answering the question. Avoid simplistic and unhelpful conclusions like 'if it works then it's fine'. Think about questions like: Can they EVER work? And if they COULD, would that entail a healthy or productive relationship to food?
+What is your opinion on genetically informed diets? Take a broad philosophical approach to answering the question. Avoid simplistic and unhelpful conclusions like 'if it works then it's fine'. Think about questions like: Can they EVER work? And if they COULD, would that entail a healthy or productive relationship to food?
 "%}
 
 
