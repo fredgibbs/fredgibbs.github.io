@@ -10,6 +10,8 @@ section: links-guides
 # Healthy Diet Analysis
 This assignment encourages you to bring what we've learned in class in critiquing and analyzing how references to health and diet appear in contemporary literature---a webpage/website (of your choosing) that discusses what a "healthy diet" is. This assignment is a lot like the vitamin rhetoric analysis, but is made to help you reflect on the entire course and how the history of diet and health can help us understand contemporary advice and understandings of diet and health.
 
+Your job is to analyze the RHETORIC of your particular website/page.
+
 ## Basics
 - ~800 words
 - Clear paragraphs that answer the questions below
@@ -23,14 +25,15 @@ This assignment encourages you to bring what we've learned in class in critiquin
 
 
 ## Questions to ask your blog and write about
-- What kind of assumptions does the author(s) make about the relationship between food, diet, health?
-- What kinds of claims about diet and health does the author make? What kind of evidence is used to support these claims? Is there room for misinterpretation?
-- How does the author establish their credibility or authority about diet and health?
-- Who is the intended audience? What do they know? What does this audience care about?
-- Is it convincing? Why? Does the advice stem from expertise or common sense?
+These are all pretty general questions that we've addressed at different points and with different sources. Focus on the ones that are the most relevant for your particular page. Answers to some questions are going to be obvious; others require more reading between the lines.
 
-## MOST IMPORTANT QUESTION TO ADDRESS
-- How does the HISTORY of diet and health as we've covered it explain why your webpage looks the way it does?
+- What kind of assumptions does the author(s) make about the relationship between food, diet, health?
+- What kinds of claims about diet and health does the author make? What kind of evidence is used to support these claims? Can you seem them for yourself? Is there room for misinterpretation?
+- How is "science" used?
+- How does the author establish their credibility or authority about diet and health?
+- Does the advice stem from primarily expertise or common sense?
+- Is there any moral component to the advice?
+- Is it convincing or effective in getting people to eat healthier? How or why not?
 
 Think about all the topics and themes we've covered and how we've seen elements of your webpage in historical context before: balance, common sense, expertise, calories, fat, quantification, measurement, science, evidence, etc.
 
