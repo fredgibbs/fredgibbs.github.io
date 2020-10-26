@@ -60,13 +60,15 @@ Our investigations into the history of diet have been about what we are delibera
 - [Big Points from last week LECTURE](https://youtu.be/joTMK0Gy7x4).
 
 {% include alert.html class='danger' title='Lecture Reflections' text="
-Rather than plowing ahead, I think it will be most useful to step back a focus on some big picture ideas that I want you to take away from last week's readings. So for today there is NO READING but the 20-min lecture. IT IS NOT A REVIEW but a broader perspective on how I hope the set of readings will be useful moving forward.
+Rather than plowing ahead, I think it will be most useful to step back and focus for a minute on some big picture ideas that I want you to take away from last week's readings. For today there is NO READING, but instead a 20-min lecture. IT IS NOT A REVIEW but some thoughts about how I hope the set of readings will be useful moving forward.
 
-Instead of a lecture quiz, everyone will do a lecture reflection. For today (meaning complete it by Wednesday), write a standard reflection about your thoughts on the BIG POINTS lecture. What was interesting? What was confusing? How did you see the readings differently? Where do you disagree (and WHY)?  
+Instead of a lecture quiz, everyone will do a lecture reflection. For today (meaning complete it by Wednesday to stay on schedule), write a standard reflection about your thoughts on the BIG POINTS lecture. What was interesting? What was confusing? How did you see the readings differently? Where do you disagree (and WHY)?
 "%}
 
 
 ### Wed 10/28
+This is the original assignment for Monday, totally unchanged, just slid into the Wednesday slot.
+
 - Ralph H. Lutts, “Chemical Fallout: Rachel Carson’s Silent Spring, Radioactive Fallout, and the Environmental Movement.” _Environmental Review_ 9.3 (1985): 211--25.
 - Rachel Carson, _Silent Spring_, 5--13; 15--37.
 
