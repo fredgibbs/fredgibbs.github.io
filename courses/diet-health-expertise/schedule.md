@@ -46,64 +46,9 @@ Is fat bad? Of course not! But to say its role within dietary advice is controve
 ## Week 9: BREAK!
 This week is a flex week to get caught up. I usually plan on a catch-up week when we have scheduled classroom meetings because I almost never quite get through everything I mean to. Obviously timing is a bit different when everything is asynchronously online. So, NOTHING TO DO THIS WEEK! Enjoy the time away from the history of dietary advice and I hope you'll be recharged for the last section of class. Our readings shift from primarily historical studies to analyses of contemporary issues---and we'll see what the long history of diet and health can add to the conversation.
 
-### Nothing to do M,W,F Oct 12,14,16
 
-
-
-## Week 10: Obesity science, politics, and ethics
+## [Week 10: Obesity science, politics, and ethics](weeks/10)
 Continuing with our obsession with calories and fat, this week we evaluate some pieces on the so-called obesity epidemic in America. This week is less about historical constructions of diet as we've been focused on; instead we're looking at contemporary rhetoric of diet and health in terms of obesity. These articles are a bit dated, but they still perfectly exemplify the kind of dietary philosophies and speculation that we see everyday. Our job is to critically evaluate these in terms of how we've learned to think about diet, health, and expertise in light of their histories.
-
-#### Questions to keep in mind for each reading
-- What’s the general trend or trends the authors are presenting?
-- What are key examples to take that illustrate the authors’ points?
-- What topics aren't addressed that should be?
-- Is the narrative effective?
-
-
-### Mon 10/19
-- Gary Taubes and Cristin Kearns Couzens, [Big Sugar's Sweet Little Lies](https://www.motherjones.com/environment/2012/10/sugar-industry-lies-campaign/), _Mother Jones_ (Nov/Dec 2012).
-
-This article is quite rich in detail and at times like drinking from a fire hose, so it takes some effort to not let your eyes glaze over as you read through it. Don't give up! We're reading this to practice understanding history of nutrition narratives and to evaluate the relationship between science and industry. We DO NOT need to (and absolutely should not under any circumstances) absorb all the names and events and studies the article references. Sometimes you read for specific information; sometimes you read for the argument in general. FOCUS ON THE ARGUMENT (and the evidence to support it).
-
-Pay particular attention to how "science" is used in determining how dangerous (or not) sugar is. While the history of nutrition narrative that we've been following has generally shown how "science" is creating more knowledge about nutrition (even if it might be used for a particular social agenda), this article shows how the inherent uncertainties of "science" can be used (usually by facets of the food industry) to undermine confidence in that same nutrition research. I feel a little bad for putting "science" in quotes all the time, but I want you to think about how many different things it can mean. They are all on display in the readings for this week.
-
-
-{% include alert.html class='danger' title='Reading reflection' text="
-You're riding in an elevator and someone you admire gets on and notices you reading this article on your phone. They say to you: \"That looks long and boring, but I've been wondering: Is sugar actually dangerous? How would we know one way or the other?\" You've got about a minute to make a good impression and answer the questions smartly (BASED ON THE ARTICLE). What are you going to say? Needless to say, if you just babble on without showing your knowledge of the article or the history your VIP will be unimpressed and you will lament your missed opportunity forever.
-
-_Note: This is all a fanciful way of asking you to boil down a long and dry but highly informative article to the main points that the average person should know about._
-"%}
-
-
-### Wed 10/21
-- David H. Freedman, [How Junk Food Can End Obesity](http://www.theatlantic.com/magazine/archive/2013/07/how-junk-food-can-end-obesity/309396/?single_page=true), _The Atlantic_ (August 2013).
-- Tom Philpott, [Why The Atlantic’s Defense of Junk Food Fails](http://www.motherjones.com/tom-philpott/2013/06/fat-chance-why-atlantics-defense-junk-food-fails), _Mother Jones_ (August 2013).
-
-These readings are both straightforward enough that they don't need much of an introduction. Yet I want to be clear they are BOTH deeply flawed and that's why it's fun for us to dissect them as a pair. Pay close attention to the RHETORIC of these articles---the way they are trying to persuade you.
-
-Some (at this point in the course, hopefully familiar) questions that will help to evaluate the rhetoric:
-- What assumptions about people/society/health are each making?
-- How do the authors use "science" to argue their point?
-- How does each NOT address issues or concerns that they should?
-
-{% include alert.html class='danger' title='Reading reflection' text="
-Everyone writes on the same question today: Is Philpott's reply to Freedman effective? Does he really refute Freedman's argument? Does he characterize it accurately? Are they really talking about the same things? Does Philpott use the history of diet and health effectively (considering what you've learned in this course)?
-"%}
-
-
-
-### Fri 10/23
-- David Berreby, [The Obesity Era](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong), *Aeon* (June 2013).
-
-You probably noticed that this article is referenced in the Philpott article from Wednesday, so you might think it's really making the same point---but NO! The main reason I think this article is so useful in the context of this course is that no matter what you think of Wednesday's readings, this one kind of dumps them on their heads. It just gives you a new way of thinking about science, health, knowledge, the world---everything. Good writing does that. Enjoy.
-
-Notice that the point of the article is to get us to rethink the basic thermodynamic approach to calories that has been at the heart of American thinking about the calorie since Atwater, through Peters, Davis, and so on. So not only is the author making a scientific argument, but also a cultural / historical one---in the sense of challenging a belief so deeply engrained in our culture that takes on a level of "truth" because it's been around so long. How much "science" does it take to override "history"?
-
-{% include alert.html class='danger' title='Weekly reflection' text="
-Show me you've done the readings for this week by addressing the following: What are some of the main problems and challenges with studying obesity? Have we really been looking at it all wrong? How does Berreby present a different conception of fat than we've seen in previous course readings? As always, USE THE READINGS SPECIFICALLY in your post (which is going to be a larger factor in evaluations going forward; warm-ups are over!).
-"%}
-
-
 
 
 
@@ -112,6 +57,16 @@ Our investigations into the history of diet have been about what we are delibera
 
 
 ### Mon 10/26
+- [Big Points from last week LECTURE](https://youtu.be/joTMK0Gy7x4).
+
+{% include alert.html class='danger' title='Lecture Reflections' text="
+Rather than plowing ahead, I think it will be most useful to step back a focus on some big picture ideas that I want you to take away from last week's readings. So for today there is NO READING but the 20-min lecture. IT IS NOT A REVIEW but a broader perspective on how I hope the set of readings will be useful moving forward.
+
+Instead of a lecture quiz, everyone will do a lecture reflection. For today (meaning complete it by Wednesday), write a standard reflection about your thoughts on the BIG POINTS lecture. What was interesting? What was confusing? How did you see the readings differently? Where do you disagree (and WHY)?  
+"%}
+
+
+### Wed 10/28
 - Ralph H. Lutts, “Chemical Fallout: Rachel Carson’s Silent Spring, Radioactive Fallout, and the Environmental Movement.” _Environmental Review_ 9.3 (1985): 211--25.
 - Rachel Carson, _Silent Spring_, 5--13; 15--37.
 
@@ -122,23 +77,27 @@ As some of the best writing we'll read in this course, it's worth paying extra a
 "%}
 
 
-### Wed 10/28
+
+{% include alert.html class='danger' title='Extra Credit' text="
+This was the original assignment for Wednesday that I decided was less important than stepping back for a second (via the Big Points lecture). Now a standard response on this chapter can be submitted for EXTRA CREDIT, if you're interested.
+
 - Warren Belasco, _Appetite for Change_, Chapter 5: The Orthodox Defense: The War of the Metaphors, 111--131.
 
 I've tried to encourage you to pay a lot of attention to RHETORIC in this course--the way(s) an author tries to persuade you of a particular point. This chapter gives us a kind of history of rhetoric in terms of the countercuisine and the industry response to it. In earlier chapters (that we're not reading), Belasco defines countercuisine as a protest against industrialized agriculture (part of the general counterculture movement emerging in the 1960s). They characterized modern (for them) food as unnatural, dangerous, and poisonous (see Rachel Carson). This chapter describes the language and metaphors that were employed to describe food, as well as their power to influence how people think about food.
 
-
-{% include alert.html class='danger' title='Reading Reflections' text="
-Some of you have asked for more free-form reflection prompts, so this is one of those. There's a LOT going on in this short chapter. What are the 4 or 5 most interesting ideas you came across? For each one, explain WHY you found them interesting.
+ORIGINAL PROMPT: Some of you have asked for more free-form reflection prompts, so this is one of those. There's a LOT going on in this short chapter. What are the 4 or 5 most interesting ideas you came across? For each one, explain WHY you found them interesting.
 "%}
+
+
 
 
 ### Fri 10/30
 - McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 1--46 (Prologue; Are GMOs Safe?).
 
-{% include alert.html class='danger' title='Weekly reflection' text="
-This assignment is like the vitamin article analysis you did, except you'll google something along the lines of \"Are GMOs safe?\". USE THE JENKINS READING to analyze the strengths and weaknesses of the article you choose. As before, be smart in your choice of article to analyze. Don't pick something super intricate or something totally superficial--they make the assignment much harder. Did I mention you should use the Jenkins reading? Posts that do not use the Jenkins reading will be heavily (and gleefully) penalized.
+{% include alert.html class='danger' title='Reading reflection' text="
+Not really a weekly reflection, but a focus on just Friday's reading. What are the 4 or 5 most interesting ideas you came across in terms of understanding GMO safety? How can these chapters help us think and talk about it more productively?
 "%}
+
 
 
 
