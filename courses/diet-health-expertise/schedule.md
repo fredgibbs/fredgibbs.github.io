@@ -80,7 +80,7 @@ As some of the best writing we'll read in this course, it's worth paying extra a
 
 
 
-{% include alert.html class='danger' title='Extra Credit' text="
+{% include alert.html class='warning' title='Extra Credit' text="
 This was the original assignment for Wednesday that I decided was less important than stepping back for a second (via the Big Points lecture). Now a standard response on this chapter can be submitted for EXTRA CREDIT, if you're interested.
 
 - Warren Belasco, _Appetite for Change_, Chapter 5: The Orthodox Defense: The War of the Metaphors, 111--131.
@@ -107,7 +107,7 @@ Not really a weekly reflection, but a focus on just Friday's reading. What are t
 ## Week 12: Secret Ingredients and Regulation
 We assume our food is safe. We assume that corporations that sell us food aren't adulterating it or defrauding us. History shows that these are not always good assumptions.
 
-Because I suspect there will be some distration with the election and its aftermath, we have a lighter week this week with nothing due before Friday.
+Because I suspect there will be some distraction with the election and its aftermath, we have a lighter week this week with nothing due before Friday.
 
 {% include alert.html class='warning' title='NO READING REFLECTIONS' text="
 No M/W reading responses due this week! There is a basic reading quiz for Monday. There is a different kind of weekly reflection type thing due on Friday to tie everything together.
