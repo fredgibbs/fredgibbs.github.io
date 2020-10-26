@@ -7,6 +7,21 @@ description: Regularly scheduled courses: Food + Technology + Society; Landscape
 # Regularly Scheduled Courses
 
 {% include course-block.html
+slug="archives-algorithms"
+title="SPRING 2021: Archives + Algorithms"
+poster="images/digital-history-sm.jpg"
+desc="How do archives and algorithms govern our access to the past? How does the digitization of cultural artifacts and social media technologies present opportunities for new kinds of archives? What kinds of new research methods do historians need to analyze and interpret the exponentially growing digital archive? How has digital publishing and platforms like Wikipedia challenged traditional historical expertise and authority? Our collaborative coursework will focus on understanding the challenges inherent in digital archives and access to information."
+%}
+
+{% include course-block.html
+slug="making-history"
+title="SPRING 2021: Making History"
+poster="images/historiography-sm.jpg"
+desc="What does it mean to \"make history\"? On one hand, to do something worth recording. On the other, the act of memorializing. This course examines how we interact with history everyday, through books, film, Wikipedia, public spaces, historic buildings, art, and so on. It also addresses various meta-questions about history: What is history? What is it for? Who is it for? This entirely online and asynchronous course consists of short lectures, reading assignments, quizzes and short essays that helps students learn robust research skills, analytical techniques, and ways of using evidence to make arguments."
+%}
+
+
+{% include course-block.html
 slug="diet-health-expertise"
 title="Diet, Health, and Expertise"
 poster="images/diet-health-sm.jpg"
@@ -50,12 +65,6 @@ desc="This course introduces some of the most influential approaches that histor
 
 
 
-{% include course-block.html
-slug="digital-history"
-title="Digital History"
-poster="images/digital-history-sm.jpg"
-desc="This course examines how technology shapes our access to and interpretations of the past. How does the digitization of cultural artifacts change the ways historians ask and answer questions about the past? What kinds of new research methods do historians need to analyze and interpret the exponentially growing digital archive? How has digital publishing and platforms like Wikipedia challenged traditional historical expertise and authority? Our collaborative coursework will focus on using new media technologies to communicate about the value and significance of history."
-%}
 
 
 {% include course-block.html
