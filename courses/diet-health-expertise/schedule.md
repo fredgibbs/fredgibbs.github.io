@@ -97,43 +97,50 @@ ORIGINAL PROMPT: Some of you have asked for more free-form reflection prompts, s
 - McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 1--46 (Prologue; Are GMOs Safe?).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Not really a weekly reflection, but a focus on just Friday's reading. What are the 4 or 5 most interesting ideas you came across in terms of understanding GMO safety? How can these chapters help us think and talk about it more productively?
+Not really a weekly reflection, but a focus on just Friday's reading. What are the 4 or 5 most interesting ideas you came across in terms of understanding GMO safety? How can these chapters help us think and talk about it more productively? How do the questions of safety posed here relate to the Carson reading for Wednesday?
 "%}
 
 
 
+## Week 12: Secret Ingredients, Relative Risk, and Regulation
+We assume our food is safe. We assume that corporations that sell us food or nutritional supplements aren't adulterating it, that the labels are accurate, and that claims about health benefits aren't entirely fictitious. History shows that these are not good assumptions. This week we focus a little less on health per se and more about health claims, regulation, and safety---obviously continuing our line of inquiry from last week.
 
+Because I suspect there will be some distraction with the election (including its aftermath), we have a slightly slighter week this week with nothing due before Friday---but you'll want to have gotten the two readings done before then you so you can write your Friday reflection.
 
-## Week 12: Secret Ingredients and Regulation
-We assume our food is safe. We assume that corporations that sell us food aren't adulterating it or defrauding us. History shows that these are not always good assumptions.
+One of the main takeaways from the readings (which can get a bit lost in the regulatory detail) is that the responsibility of knowing if a given supplement or food additive is safe, or that a product has the nutritional benefit that a label or package might claim, has largely been placed almost entirely on the consumer. If you've learned anything in this class, you've probably picked up on the near impossibility of that actually happening given the conflicting science, rhetoric, values in dietary advice.
 
-Because I suspect there will be some distraction with the election and its aftermath, we have a lighter week this week with nothing due before Friday.
-
-{% include alert.html class='warning' title='NO READING REFLECTIONS' text="
-No M/W reading responses due this week! There is a basic reading quiz for Monday. There is a different kind of weekly reflection type thing due on Friday to tie everything together.
+{% include alert.html class='warning' title='Nothing due before Friday' text="
+No daily reading assignments, but make sure your weekly reflection clearly engages with the two readings this week!
 "%}
 
-### Mon 11/2  
-- Marion Nestle, _Food Politics: How the Food Industry Influences Nutrition and Health_, Chapter 10: "Science Versus Supplements", 219--246.
-
-- United States Congress. [House Select Committee To Investigate the Use of Chemicals in Food Products](https://babel.hathitrust.org/cgi/pt?id=mdp.39015077053083&view=1up&seq=448). _Chemicals In Food Products_. U.S. Govt. Print. Off., 195152, 1472--1478.
-
-{% include alert.html class='danger' title='Reading Quiz' text="
-Just a basic reading quiz for today to make sure we're keeping up!
-"%}
+Questions to keep in mind with the readings---questions you'll want to consider before crafting your Friday reflection (and for other stuff like the final as well):
+- What kinds of arguments have industry made to influence federal regulation?
+- How is science used to determine safety?
+- Why do we need food dyes anyway? Why is there so much extra stuff in our food anyway?
+- If the FDA is concerned about safety (avoiding poisoning, basically), and the FTC is concerned about commerce, who is looking out for our health?
+- We consider a lot of dietary advice (moderation!) more like common sense than expert advice. Is it common sense how deceptive labels can be? Sure, everyone recognizes the power of marketing and advertising---but are they influential anyway?
 
 
-### Wed 11/4
-- NPR, _All Things Considered_ (host Ari Shapiro talks with author Deborah Blum), [How A 19th Century Chemist Took On The Food Industry With A Grisly Experiment](https://www.npr.org/sections/thesalt/2018/10/08/654066794/how-a-19th-century-chemist-took-on-the-food-industry-with-a-grisly-experiment) (October 8, 2018).
+### Read before Friday
+- Marion Nestle, _Food Politics: How the Food Industry Influences Nutrition and Health_, Chapter 10: "Science Versus Supplements", 219--235; skim 236--244; 245--246. What specifically in the regulatory process of supplements might give you pause about their safety or efficacy?
+
+- Wendee Nicole, "Secret Ingredients", _Environmental Health Perspectives_ 121.6 (2013): A126--A133. This article is about food additives and the sketchy regulations (and the uses of science) that govern them and their safety. There's a quote in the article: "Whether a food ingredient is GRAS (generally recognized as safe) depends on the general recognition of safety, not on safety per se". What are the implications of GRAS for food safety and regulation?
+
+
+### Stuff to skim through
+- United States Congress. [House Select Committee To Investigate the Use of Chemicals in Food Products](https://babel.hathitrust.org/cgi/pt?id=mdp.39015077053083&view=1up&seq=448). _Chemicals In Food Products_. U.S. Govt. Print. Off., 195152, 1472--1478. This record of proceedings shows how nuanced arguments about the use of chemicals can be. After reading Nestle and Nicole, who make it seem obvious how government and industry can be at odds, you can see for yourself how NOT OBVIOUS it really is.
+- NPR, _All Things Considered_ (host Ari Shapiro talks with author Deborah Blum), [How A 19th Century Chemist Took On The Food Industry With A Grisly Experiment](https://www.npr.org/sections/thesalt/2018/10/08/654066794/how-a-19th-century-chemist-took-on-the-food-industry-with-a-grisly-experiment) (October 8, 2018). This is more for fun and to see how serious debates about government's role in regulation (and need for it) goes all the way back to the early 1900s.
 
 
 ### Fri 11/6
-- Wendee Nicole, "Secret Ingredients", _Environmental Health Perspectives_ 121.6 (2013): A126--A133.
+{% include alert.html class='danger' title='Another rhetorical analysis' text="
+You won't be surprised that industry lobbying has created looser governmental regulations that people might want or assume is in place for our health. So make sure you go beyond that in your analysis to look more carefully at HOW (historically) that has come to pass.
 
-{% include alert.html class='danger' title='DEBATE!' text="
-In this assignment, you're going to debate yourself. Use the evidence and reasoning and history in the articles to argue in 5-6 bullet points (see [week 8](weeks/8) to refresh your memory of what I'm looking for) that government should play a WEAKER (than it does now) role in regulating  ingredients in food. Then, flip positions and provide 5-6 bullet points on why government should play a STRONGER role.
+From the _Council of Responsible Nutrition_ (an entity that isn't as neutral as it sounds; it's a prominent lobbying group for the supplement industry---but what a great name!), read [this brief comparison of Food and Dietary Supplement Regulations](https://www.crnusa.org/resources/food-and-dietary-supplement-regulations-compared).
 
-MAKE SURE YOUR ARGUMENTS REFLECTS ALL THE READINGS FOR THIS WEEK! Posts that offer only opinions without reference to the course will be graded VERY LOW. As always, specific examples are a very good idea.
+Use BOTH THE NESTLE AND NICOLE READINGS to evaluate the language/rhetoric in the CRN document. How does the CRN portray federal regulation compared to how our class readings do? Does it seem stronger or weaker? What things show up in the readings this week, but not in this comparison? Does history itself tell us something important beyond what the regulations are right now?
+
+BE SPECIFIC in your use of Nestle and Nicole in your analysis!
 "%}
 
 
