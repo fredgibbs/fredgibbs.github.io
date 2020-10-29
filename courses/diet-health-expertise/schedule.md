@@ -105,26 +105,27 @@ Not really a weekly reflection, but a focus on just Friday's reading. What are t
 ## Week 12: Secret Ingredients, Relative Risk, and Regulation
 We assume our food is safe. We assume that corporations that sell us food or nutritional supplements aren't adulterating it, that the labels are accurate, and that claims about health benefits aren't entirely fictitious. History shows that these are not good assumptions. This week we focus a little less on health per se and more about health claims, regulation, and safety---obviously continuing our line of inquiry from last week.
 
-Because I suspect there will be some distraction with the election (including its aftermath), we have a slightly slighter week this week with nothing due before Friday---but you'll want to have gotten the two readings done before then you so you can write your Friday reflection.
+Because I suspect there will be some distraction with the election (especially the aftermath), we have a slightly lighter week this week with nothing due before Friday---but you'll want to have gotten the two readings done before then you so you can write your Friday reflection.
 
-One of the main takeaways from the readings (which can get a bit lost in the regulatory detail) is that the responsibility of knowing if a given supplement or food additive is safe, or that a product has the nutritional benefit that a label or package might claim, has largely been placed almost entirely on the consumer. If you've learned anything in this class, you've probably picked up on the near impossibility of that actually happening given the conflicting science, rhetoric, values in dietary advice.
+One of the main takeaways from the readings (which can get a bit lost in the regulatory history) is that the responsibility of knowing if a given supplement or food additive is safe, or that a product has the nutritional benefit that a label or package might claim, has largely been placed almost entirely on the consumer. If you've learned anything in this class, you've probably picked up on the near impossibility of that actually happening given the conflicting science, rhetoric, values in dietary advice.
 
 {% include alert.html class='warning' title='Nothing due before Friday' text="
-No daily reading assignments, but make sure your weekly reflection clearly engages with the two readings this week!
+No daily readings or assignments, but make sure your weekly reflection clearly engages with the two readings this week!
 "%}
 
 Questions to keep in mind with the readings---questions you'll want to consider before crafting your Friday reflection (and for other stuff like the final as well):
-- What kinds of arguments have industry made to influence federal regulation?
+- What kinds of arguments has industry made to influence federal regulation/oversight?
 - How is science used to determine safety?
-- Why do we need food dyes anyway? Why is there so much extra stuff in our food anyway?
-- If the FDA is concerned about safety (avoiding poisoning, basically), and the FTC is concerned about commerce, who is looking out for our health?
-- We consider a lot of dietary advice (moderation!) more like common sense than expert advice. Is it common sense how deceptive labels can be? Sure, everyone recognizes the power of marketing and advertising---but are they influential anyway?
+- Why do we need food dyes anyway? Why is there so much non-food in our food?
+- If the FDA is concerned about immediate safety (avoiding acute poisoning), and the FTC is concerned about commerce (enabling consumers to buy what they'd like and enable a robust economy), who is looking out for our long-term health?
+- We consider some dietary advice (moderation!) more like common sense than expert advice. Is it common sense how deceptive labels can be? Sure, everyone recognizes the power of marketing and advertising---but are they influential anyway? Should that affect labeling regulation?
+
 
 
 ### Read before Friday
-- Marion Nestle, _Food Politics: How the Food Industry Influences Nutrition and Health_, Chapter 10: "Science Versus Supplements", 219--235; skim 236--244; 245--246. What specifically in the regulatory process of supplements might give you pause about their safety or efficacy?
+- Marion Nestle, _Food Politics: How the Food Industry Influences Nutrition and Health_, Chapter 10: "Science Versus Supplements", 219--235; skim 236--244; 245--246. What specifically about the regulatory process of supplements might give you pause about their safety or efficacy?
 
-- Wendee Nicole, "Secret Ingredients", _Environmental Health Perspectives_ 121.6 (2013): A126--A133. This article is about food additives and the sketchy regulations (and the uses of science) that govern them and their safety. There's a quote in the article: "Whether a food ingredient is GRAS (generally recognized as safe) depends on the general recognition of safety, not on safety per se". What are the implications of GRAS for food safety and regulation?
+- Wendee Nicole, "Secret Ingredients", _Environmental Health Perspectives_ 121.6 (2013): A126--A133. This article is about food additives and the sketchy regulations (and the uses of science) that govern them and their safety. There's a quote in the article: "Whether a food ingredient is GRAS (generally recognized as safe) depends on the general recognition of safety, not on safety per se". What does that really mean? How is that true? What are the implications of GRAS for food safety and regulation?
 
 
 ### Stuff to skim through
@@ -134,7 +135,7 @@ Questions to keep in mind with the readings---questions you'll want to consider 
 
 ### Fri 11/6
 {% include alert.html class='danger' title='Another rhetorical analysis' text="
-You won't be surprised that industry lobbying has created looser governmental regulations that people might want or assume is in place for our health. So make sure you go beyond that in your analysis to look more carefully at HOW (historically) that has come to pass.
+You won't be surprised that industry lobbying has created looser governmental regulations that people might want or assume are in place for our health. So make sure you go beyond that fact in your analysis to look more carefully at HOW (historically) that has come to pass.
 
 From the _Council of Responsible Nutrition_ (an entity that isn't as neutral as it sounds; it's a prominent lobbying group for the supplement industry---but what a great name!), read [this brief comparison of Food and Dietary Supplement Regulations](https://www.crnusa.org/resources/food-and-dietary-supplement-regulations-compared).
 
