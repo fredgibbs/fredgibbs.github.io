@@ -52,58 +52,13 @@ Continuing with our obsession with calories and fat, this week we evaluate some 
 
 
 
-## Week 11: Chronic effects
-Our investigations into the history of diet have been about what we are deliberately putting into our bodies. But what about stuff we're putting into our bodies unknowingly? How can science study minute affects of certain chemicals in our bodies over long periods of time given the complexity and variety of everyone's diets?
-
-
-### Mon 10/26
-- [Big Points from last week LECTURE](https://youtu.be/joTMK0Gy7x4).
-
-{% include alert.html class='danger' title='Lecture Reflections' text="
-Rather than plowing ahead, I think it will be most useful to step back and focus for a minute on some big picture ideas that I want you to take away from last week's readings. For today there is NO READING, but instead a 20-min lecture. IT IS NOT A REVIEW but some thoughts about how I hope the set of readings will be useful moving forward.
-
-Instead of a lecture quiz, everyone will do a lecture reflection. For today (meaning complete it by Wednesday to stay on schedule), write a standard reflection about your thoughts on the BIG POINTS lecture. What was interesting? What was confusing? How did you see the readings differently? Where do you disagree (and WHY)?
-"%}
-
-
-### Wed 10/28
-This is the original assignment for Monday, totally unchanged, just slid into the Wednesday slot.
-
-- Ralph H. Lutts, “Chemical Fallout: Rachel Carson’s Silent Spring, Radioactive Fallout, and the Environmental Movement.” _Environmental Review_ 9.3 (1985): 211--25.
-- Rachel Carson, _Silent Spring_, 5--13; 15--37.
-
-We're reading Lutts just for a bit of background about Carson and to understand her profound significance. It's rare that one can trace or attribute a significant cultural change to a single person, but if it's even possible, the most likely case is Rachel Carson as responsible for modern environmentalism. And it's not about the environment for its own sake (also important!) but because it so dramatically affects our health.
-
-{% include alert.html class='danger' title='Reading Reflections' text="
-As some of the best writing we'll read in this course, it's worth paying extra attention to how and why Carson's language and rhetoric were so effective. Copy down the top 5 sentences from Carson that resonate with you, and a provide a sentence or two to explain why they were impactful for you. Collectively, your selected passages and explanations should make it clear what about the article you find most interesting and persuasive. If you pick rather trivial sentences, I'm going to assume you just didn't read it.
-"%}
-
-
-
-{% include alert.html class='warning' title='Extra Credit' text="
-This was the original assignment for Wednesday that I decided was less important than stepping back for a second (via the Big Points lecture). Now a standard response on this chapter can be submitted for EXTRA CREDIT, if you're interested.
-
-- Warren Belasco, _Appetite for Change_, Chapter 5: The Orthodox Defense: The War of the Metaphors, 111--131.
-
-I've tried to encourage you to pay a lot of attention to RHETORIC in this course--the way(s) an author tries to persuade you of a particular point. This chapter gives us a kind of history of rhetoric in terms of the countercuisine and the industry response to it. In earlier chapters (that we're not reading), Belasco defines countercuisine as a protest against industrialized agriculture (part of the general counterculture movement emerging in the 1960s). They characterized modern (for them) food as unnatural, dangerous, and poisonous (see Rachel Carson). This chapter describes the language and metaphors that were employed to describe food, as well as their power to influence how people think about food.
-
-ORIGINAL PROMPT: Some of you have asked for more free-form reflection prompts, so this is one of those. There's a LOT going on in this short chapter. What are the 4 or 5 most interesting ideas you came across? For each one, explain WHY you found them interesting.
-"%}
-
-
-
-
-### Fri 10/30
-- McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 1--46 (Prologue; Are GMOs Safe?).
-
-{% include alert.html class='danger' title='Reading reflection' text="
-Not really a weekly reflection, but a focus on just Friday's reading. What are the 4 or 5 most interesting ideas you came across in terms of understanding GMO safety? How can these chapters help us think and talk about it more productively? How do the questions of safety posed here relate to the Carson reading for Wednesday?
-"%}
+## [Week 11: Chronic effects](weeks/11)
+Our investigations into the history of diet have been about what we are deliberately putting into our bodies. But what about stuff we're putting into our bodies unknowingly? How can science study minute affects of certain chemicals in our bodies over long periods of time given the complexity and variety of everyone's diets? Also note some [BIG POINTS from last week LECTURE](https://youtu.be/joTMK0Gy7x4).
 
 
 
 ## Week 12: Secret Ingredients, Relative Risk, and Regulation
-We assume our food is safe. We assume that corporations that sell us food or nutritional supplements aren't adulterating it, that the labels are accurate, and that claims about health benefits aren't entirely fictitious. History shows that these are not good assumptions. This week we focus a little less on health per se and more about health claims, regulation, and safety---obviously continuing our line of inquiry from last week.
+We assume our food is safe. We assume that corporations that sell us food or nutritional supplements aren't adulterating it, that the labels are accurate, and that claims about health benefits aren't entirely fictitious. History shows that these are not good assumptions. This week we focus a little less on health per se and more about health claims, regulation, and safety---obviously continuing our line of inquiry from last week. Also note some [BIG POINTS from last week LECTURE](https://youtu.be/BWK4JivRD-4).
 
 Because I suspect there will be some distraction with the election (especially the aftermath), we have a slightly lighter week this week with nothing due before Friday---but you'll want to have gotten the two readings done before then you so you can write your Friday reflection.
 
