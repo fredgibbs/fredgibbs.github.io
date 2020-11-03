@@ -10,6 +10,9 @@ section: home
 # Schedule of Readings & Assignments
 
 
+have week about archives / power / decolonizing / community?
+
+
 ## Week 1: Jan 18--22
 
 ### Syllabus, Expectations, Tools
@@ -20,36 +23,41 @@ section: home
 - Follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero).
 "%}
 
-### What is Historiography?
-- _From Herodotus to H-Net_, "What is Historiography?", 1-24.  
+- Intro lecture and lecture quiz
+- _Thinking about History_, Ch. 1: "The History of Whom?", 10--44.
+
+{% include alert.html class='info' title='Reading response' text="
+- Who are the main groups discussed in the chapter? When did they start to get historical recognition?
+"%}
+
 
 
 ## Week 2: Jan 25--29
-
-### What IS History?
-
-### Where is History?
-
-
+- _Thinking about History_, Ch. 2: "The History of Where?", 45--82.
 
 
 ## Week 3: Feb 1--5
+- _Thinking about History_, Ch. 3: "The History of What?", 83--117.
 
 
 
 ## Week 4: Feb 8--12
-
+- _Thinking about History_, Ch. 4: "How is History Produced?", 118--156.
 
 
 ## Week 5: Feb 15--19
+- _Thinking about History_, Ch. 5: "Causes or Meanings?", 157--198.
 
 
 
 ## Week 6: Feb 22--26
+- _Thinking about History_, Ch. 6: "Causes or Meanings?", 199--238.
 
 
 
 ## Week 7: March 1--5
+
+
 
 ### 30: Leopold von Ranke and Professional History
 - Jeremy D. Popkin, _From Herodotus to H-Net_, "The 19th century and the rise of academic scholarship", 68-96.  
@@ -78,19 +86,12 @@ section: home
 
 
 
-### 14:
+## Week 10: Mar 22--27: Place memory
+- Paul A. Shackel, “Public Memory and the Search for Power in American Historical Archaeology,” American Anthropologist 103, no. 3 (2001): 655–70.
 
-### 16: What is History FOR?
+- Margaret E. Farrar, “Amnesia, Nostalgia, and the Politics of Place Memory,” Political Research Quarterly 64, no. 4 (2011): 723–35.
 
-
-
-## Week 10: Mar 22--27
-
-### Postmodernism
-- Jeremy D. Popkin, _From Herodotus to H-Net_, "Glorious Confusion", 127-65.
-
-
-
+- Dr Lyra D. Monteiro, “Power Structures: White Columns, White Marble, White Supremacy,” Medium, November 1, 2020, https://intersectionist.medium.com/american-power-structures-white-columns-white-marble-white-supremacy-d43aa091b5f9.
 
 ## Week 11: Mar 29--Apr 2
 
@@ -106,47 +107,26 @@ section: home
 
 ## Week 12: Apr 5--9
 
-### Narrative history
 
 
 
 
 ## Week 13: Apr 12--16
 
-### Gender Histories
-* Joan Scott, "Gender: A Useful Category of Historical Analysis", 1053-1075.
-
-### Postcolonial Histories
-- Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?", 1-27.
-
-
 
 
 ## Week 14: Apr 19--23
 
-### cales of history
-* Kieran Healy, "Fuck nuance", 1-13.
-
-{% include alert.html class='info' title='Discussion prep' text="
-Here are some questions to consider, but write a general comment on these topics rather than give specific answers (which you can't do well in only 400 words).
-
-  - Do you reject my premise that this article applies equally well to history?
-  - Is all historical study except the 'universal' histories predominant before Ranke a matter of nuance?
-  - Besides making for a good story, is there value in historical work that simply adds nuance to widely accepted understandings of the past?
-  - How should the scale of a historical study be used in understanding its value? (= what is history for? [see next week])
-  - Is history well served by models? (also: do you need math to have models?)
-  - Will the rise of a digital archive make historical laws more attractive to historians?
-  - How might a digital archive challenge traditional historical authority?
-"%}
-
-
-## Week 15: May 26--30: The Future of History
 - Laura Spinney, [History as a giant data set: how analysing the past could help save the future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
 
 
 
+## Week 15: May 26--30
+Review 1
+
 
 ## Week 16: May  3--7
+Review 2
 
 
 ## All course work due by FRIDAY May 14!

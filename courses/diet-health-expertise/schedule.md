@@ -107,7 +107,7 @@ Not many people haven't been on some kind of diet. How can we really evaluate wh
 
 This week is about EVALUATING dietary advice and dietary CRITIQUE. As you know from the course SLOs, the course is all about learning to think critically about dietary advice, using history to gain a broad perspective on it. So now we turn our attention from evaluating the rhetoric of dietary advice to evaluting the rhetoric of dietary critique.
 
-M and W are our LAST DAILY READING REFLECTIONS! There are a few more weekly ones, though, as we try to wrap up everything from the course.
+This week brings our last LAST DAILY READING REFLECTIONS (and we're doing a full 3 to celebrate)! No weekyl reflection  (still a daily one due on Friday, though). There are a few more weekly ones, though, as we try to wrap up everything from the course.
 
 ### Mon 11/09
 - Michael Specter, [Against the Grain](https://www.newyorker.com/magazine/2014/11/03/grain) (_New Yorker_, October 27, 2014).
@@ -115,7 +115,7 @@ M and W are our LAST DAILY READING REFLECTIONS! There are a few more weekly ones
 - James Hamblin, [Lectins Could Become the Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/), (_The Atlantic_ April 24, 2017).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-How would you compare these two critiques of relatively new diets? Is one critique more effective than the other? These writers are not dietary experts, but are they convincing to you? Which one resonated with you? WHY?
+These writers are not diet or nutrition experts, but are they convincing to you? Could more use of history of diet, health, and expertise as we've discussed it help either of these authors?
 "%}
 
 ### Wed 11/11
@@ -124,7 +124,7 @@ How would you compare these two critiques of relatively new diets? Is one critiq
 - Richard Sprague, [So Should I Eat Apples, or Not?](https://medium.com/neodotlife/review-of-viome-f024423a3d3a) (_NEO.LIFE_, February 2018).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-What is your opinion on genetically informed diets? Take a broad philosophical approach to answering the question. Avoid simplistic and unhelpful conclusions like 'if it works then it's fine'. Think about questions like: Can they EVER work? And if they COULD, would that entail a healthy or productive relationship to food?
+Are genetically informed diets a good idea? Take a broad philosophical approach to answering the question, and AVOID SIMPLISTIC CONCLUSIONS like 'if it works then it's fine'. Can they EVER work? And if they COULD, would that entail a healthy or productive relationship to food?
 "%}
 
 
@@ -132,15 +132,15 @@ What is your opinion on genetically informed diets? Take a broad philosophical a
 Eddie Kim, [THEIR DIET? 100 PERCENT MEAT. AND THEY SAY THEY’VE NEVER FELT HEALTHIER](https://melmagazine.com/en-us/story/their-diet-100-percent-meat-and-they-say-theyve-never-felt-healthier), (_Mel Magazine_, 2019).
 
 
-{% include alert.html class='danger' title='Weekly reflection' text="
-One of the main goals of this course is to sharpen critical faculties when it comes to dietary advice. So let's practice! For your post this week, critique the Eddie Kim article using the kinds of arguments you found in the other articles for this week. What does it do well? How does it disappoint? Where does it use history effectively? What kinds of issues have we covered in class that it should have used more?
+{% include alert.html class='danger' title='Reading reflection, but 10 points' text="
+I hope it's no surprise for me to say that one of the main goals of this course is to sharpen critical faculties when it comes to dietary advice. This is a kind of fun but highly problematic read. Let's do it! For your post this week, critique the article for today. What does it do well? How does it disappoint? How does it use history effectively (if at all)? What kinds of topics issues have we covered in class (yes, the whole thing!) that it should have addressed?
 "%}
 
 
 
 
 ## Week 14: Review and Reflection 1
-This week we're really starting to ramp down for the course. As a warm up for the course final (due the last Friday of Finals Week), your weekly reflection this week will be to analyze Wednesday's reading in terms of the whole course.
+This week we're really starting to ramp down for the course. As a warm up for the course final (due the last Friday of Finals Week), your weekly reflection this week will be to analyze Wednesday's reading (for which there is no assignment) in terms of the whole course.
 
 
 ### Mon 11/16
