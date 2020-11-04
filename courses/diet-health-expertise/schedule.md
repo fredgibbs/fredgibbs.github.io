@@ -116,7 +116,7 @@ This week brings our last LAST DAILY READING REFLECTIONS! (and we're doing a ful
 - James Hamblin, [Lectins Could Become the Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/), (_The Atlantic_ April 24, 2017).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-These writers are not diet or nutrition experts, so their \"expertise\" derives entirely from the success of their arguments and rhetoric. How are they or are they not convincing to you? Could they, or should they, use more history of diet, health, and expertise to be more effective?
+These writers are neither diet nor nutrition experts, so their \"expertise\" derives entirely from the success of their arguments and rhetoric. How are they or are they not convincing to you? Could they, or should they, use more history of diet and health to be more effective?
 "%}
 
 ### Wed 11/11
@@ -169,22 +169,19 @@ For your weekly reflection this week, we're going to do a kind of a Final Course
 
 
 ## Week 15: Food Traditions and Societal Health
-We can't NOT read about Thanksgiving this week! These readings have nothing to do with diet/health, but we might also think about how food relates to civic health in addition to bodily health. It's common to think about food as bringing people together, but it's also, as we've seen, a way of exerting control and a way of keeping people apart.
+We can't NOT read about Thanksgiving this week! These readings have nothing to do with diet/health, but we might also think about how food relates to civic health in addition to bodily health. It's common to think about food as bringing people together, but it's also a way of exerting control.
 
-You have one post due this week, which I highly recommend you complete BY WEDNEDAY NIGHT. But if you're swamped with other essays, exams, etc, just make sure to post it before the end of the weekend.
+You have one post due this week, which I highly recommend you complete BY WEDNESDAY NIGHT. But if you're swamped with other essays, exams, etc, just make sure to post it before the end of the weekend.
 
 ### Anytime this week
 - Andrew F. Smith, “The First Thanksgiving”, _Gastronomica_ 3.4 (2003): 79–85.
 - Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70–74.
-- David Foster Wallace, "Consider the Lobster", _Gourmet_ (August 2004), 50--64. READ THE FOOTNOTES!
-- [Michael Twitty on Culinary Justice](https://www.youtube.com/watch?v=EhxjC3XX54g)
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-This is a more reflective/opinion post than normal, but they should still show me you're familiar with the readings for this week.
-- What is the NATIONAL holiday of Thanksgiving really celebrating or supposed to mean?
-- How much do you think food traditions play a role in societal health?
-- Does the holiday food itself really matter, or is it just a vehicle for other social functions?
-- Are memories and kinship intimately bonded to the particular foods we eat (and not just eating together)?
+This is a more reflective/opinion post than normal, but they should still show me you're familiar with ALL the readings for this week.
+- How do the Thanksgiving articles complicate the traditional Thanksgiving narrative?
+- How do the articles suggest that food traditions play a role in societal health?
+- Does holiday food itself really matter (like turkey, or ham), or is it just a vehicle for other social functions?
 "%}
 
 ### Thurs 11/26: Thanksgiving!
