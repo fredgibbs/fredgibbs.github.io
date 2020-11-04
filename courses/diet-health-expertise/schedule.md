@@ -115,7 +115,7 @@ This week brings our last LAST DAILY READING REFLECTIONS (and we're doing a full
 - James Hamblin, [Lectins Could Become the Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/), (_The Atlantic_ April 24, 2017).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-These writers are not diet or nutrition experts, but are they convincing to you? Could more use of history of diet, health, and expertise as we've discussed it help either of these authors?
+These writers are not diet or nutrition experts, so their \"expertise\" derives entirely from the success of their arguments and rhetoric. How are they or are they not convincing to you? Could they, or should they, use more history of diet, health, and expertise to be more effective?
 "%}
 
 ### Wed 11/11
@@ -124,7 +124,7 @@ These writers are not diet or nutrition experts, but are they convincing to you?
 - Richard Sprague, [So Should I Eat Apples, or Not?](https://medium.com/neodotlife/review-of-viome-f024423a3d3a) (_NEO.LIFE_, February 2018).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Are genetically informed diets a good idea? Take a broad philosophical approach to answering the question, and AVOID SIMPLISTIC CONCLUSIONS like 'if it works then it's fine'. Can they EVER work? And if they COULD, would that entail a healthy or productive relationship to food?
+Does the history of diet and health tell us anything about the future of genetic diets? Can they EVER work? And if they COULD, would that entail a healthy or productive relationship to food?
 "%}
 
 
@@ -133,7 +133,7 @@ Eddie Kim, [THEIR DIET? 100 PERCENT MEAT. AND THEY SAY THEY’VE NEVER FELT HEAL
 
 
 {% include alert.html class='danger' title='Reading reflection, but 10 points' text="
-I hope it's no surprise for me to say that one of the main goals of this course is to sharpen critical faculties when it comes to dietary advice. This is a kind of fun but highly problematic read. Let's do it! For your post this week, critique the article for today. What does it do well? How does it disappoint? How does it use history effectively (if at all)? What kinds of topics issues have we covered in class (yes, the whole thing!) that it should have addressed?
+I hope it's no surprise for me to say that one of the main goals of this course is to sharpen critical faculties when it comes to dietary advice. This article is a kind-of-fun but highly problematic read. Let's get into it! Critique the article for today: What does it do well? How does it disappoint? How does it use history effectively (if at all)? What kinds of topics issues have we covered in class (yes, the whole thing!) that it should have addressed?
 "%}
 
 
