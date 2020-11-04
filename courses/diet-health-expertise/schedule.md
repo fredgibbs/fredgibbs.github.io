@@ -105,9 +105,10 @@ BE SPECIFIC in your use of Nestle and Nicole in your analysis!
 ## Week 13: Dietary Dangers and Critiques
 Not many people haven't been on some kind of diet. How can we really evaluate whether any diet could be useful? Is there a "right" diet that we just haven't found? Have we known it all along?
 
-This week is about EVALUATING dietary advice and dietary CRITIQUE. As you know from the course SLOs, the course is all about learning to think critically about dietary advice, using history to gain a broad perspective on it. So now we turn our attention from evaluating the rhetoric of dietary advice to evaluting the rhetoric of dietary critique.
+This week is about EVALUATING dietary advice and dietary CRITIQUE. As you know from the course SLOs, the course is all about learning to think critically about dietary advice, using history to gain a broad perspective on it. So now we turn our attention from evaluating the rhetoric of dietary advice to evaluating the rhetoric of dietary critique.
 
-This week brings our last LAST DAILY READING REFLECTIONS (and we're doing a full 3 to celebrate)! No weekyl reflection  (still a daily one due on Friday, though). There are a few more weekly ones, though, as we try to wrap up everything from the course.
+This week brings our last LAST DAILY READING REFLECTIONS! (and we're doing a full 3 to celebrate.) No weekly reflection, but still a daily one due on Friday, though.
+
 
 ### Mon 11/09
 - Michael Specter, [Against the Grain](https://www.newyorker.com/magazine/2014/11/03/grain) (_New Yorker_, October 27, 2014).
