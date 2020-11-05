@@ -163,7 +163,7 @@ No reading responses due today, but look ahead to Friday.
 - NO NEW READING, just your weekly reflection as explained below.
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up. Reflecting on what we've done in the course so far, how well does Wednesday's reading establish/outline a productive future for understanding the relationship between nutrition, diet, and health? Does it use history effectively? What kinds of things have we considered that don't appear in the article? The more readings you can tie in from the course now, the easier and better your final will be.
+For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up. Reflecting on what we've done in the course so far, how well does Wednesday's reading establish/outline a productive future for understanding the relationship between nutrition, diet, and health? What is the (implied) role of science? We've obviously covered a lot more history than is in (or may be appropriate for) for an article like this. Are there ISSUES (not necessarily specific historic "facts") that the article should have engaged with? The more readings you can review and try to tie in from the entire, the easier and better your final will be. 
 "%}
 
 
