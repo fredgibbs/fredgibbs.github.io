@@ -111,6 +111,10 @@ This week brings our last LAST DAILY READING REFLECTIONS! (and we're doing a ful
 
 
 ### Mon 11/09
+- Last week was difficult; let's take a breath. NOTHING TO DO FOR TODAY. Monday's assignment moves to Wednesday and Wednesday's assignment goes away.
+
+
+### Wed 11/11
 - Michael Specter, [Against the Grain](https://www.newyorker.com/magazine/2014/11/03/grain) (_New Yorker_, October 27, 2014).
 
 - James Hamblin, [Lectins Could Become the Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/), (_The Atlantic_ April 24, 2017).
@@ -119,7 +123,7 @@ This week brings our last LAST DAILY READING REFLECTIONS! (and we're doing a ful
 These writers are neither diet nor nutrition experts, so their \"expertise\" derives entirely from the success of their arguments and rhetoric. How are they or are they not convincing to you? Could they, or should they, use more history of diet and health to be more effective?
 "%}
 
-### Wed 11/11
+#### ORIGINALLY (and no longer required)
 - Elizabeth G. Dunn, [Meet the Startup That Thinks DNA Can Predict Your Best Diet](https://medium.com/s/futurehuman/is-the-secret-to-better-nutrition-encoded-in-our-genes-e0cfd1ad11a8) (_OneZero_, July 2018).
 
 - Richard Sprague, [So Should I Eat Apples, or Not?](https://medium.com/neodotlife/review-of-viome-f024423a3d3a) (_NEO.LIFE_, February 2018).
@@ -134,7 +138,7 @@ Eddie Kim, [THEIR DIET? 100 PERCENT MEAT. AND THEY SAY THEY’VE NEVER FELT HEAL
 
 
 {% include alert.html class='danger' title='Reading reflection, but 10 points' text="
-I hope it's no surprise for me to say that one of the main goals of this course is to sharpen critical faculties when it comes to dietary advice. This article is a kind-of-fun but highly problematic read. Let's get into it! Critique the article for today: What does it do well? How does it disappoint? How does it use history effectively (if at all)? What kinds of topics issues have we covered in class (yes, the whole thing!) that it should have addressed?
+I hope it's no surprise for me to say that one of the main goals of this course is to sharpen critical faculties when someone is trying to convince you of something. This article is a kind-of-fun but highly problematic read, which makes it a highly representative of stuff we see everyday. Critique the article for today: What does it do well? How does it disappoint? How does it use history effectively (if at all)? What kinds of topics issues have we covered in class (yes, the whole thing!) that it should have addressed?
 "%}
 
 
@@ -163,7 +167,7 @@ No reading responses due today, but look ahead to Friday.
 - NO NEW READING, just your weekly reflection as explained below.
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up. Reflecting on what we've done in the course so far, how well does Wednesday's reading establish/outline a productive future for understanding the relationship between nutrition, diet, and health? What is the (implied) role of science? We've obviously covered a lot more history than is in (or may be appropriate for) for an article like this. Are there ISSUES (not necessarily specific historic \"facts\") that the article should have engaged with? The more readings you can review and try to tie in from the entire, the easier and better your final will be. 
+For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up. Reflecting on what we've done in the course so far, how well does Wednesday's reading establish/outline a productive future for understanding the relationship between nutrition, diet, and health? What is the (implied) role of science? We've obviously covered a lot more history than is in (or may be appropriate for) for an article like this. Are there ISSUES (not necessarily specific historic \"facts\") that the article should have engaged with? The more readings you can review and try to tie in from the entire, the easier and better your final will be.
 "%}
 
 
