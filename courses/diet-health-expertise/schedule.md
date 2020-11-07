@@ -123,12 +123,11 @@ This week brings our last LAST DAILY READING REFLECTIONS! (and we're doing a ful
 These writers are neither diet nor nutrition experts, so their \"expertise\" derives entirely from the success of their arguments and rhetoric. How are they or are they not convincing to you? Could they, or should they, use more history of diet and health to be more effective?
 "%}
 
-#### ORIGINALLY (and no longer required)
+{% include alert.html class='danger' title='Originally' text="
 - Elizabeth G. Dunn, [Meet the Startup That Thinks DNA Can Predict Your Best Diet](https://medium.com/s/futurehuman/is-the-secret-to-better-nutrition-encoded-in-our-genes-e0cfd1ad11a8) (_OneZero_, July 2018).
 
 - Richard Sprague, [So Should I Eat Apples, or Not?](https://medium.com/neodotlife/review-of-viome-f024423a3d3a) (_NEO.LIFE_, February 2018).
 
-{% include alert.html class='danger' title='Reading reflection' text="
 Does the history of diet and health tell us anything about the future of genetic diets? Can they EVER work? And if they COULD, would that entail a healthy or productive relationship to food?
 "%}
 
