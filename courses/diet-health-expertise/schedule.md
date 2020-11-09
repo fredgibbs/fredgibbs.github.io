@@ -121,7 +121,7 @@ I think these are great articles (we read a lot of not great articles for variou
 
 At this point in the course we start to focus less on learning new stuff about diet and more on APPLYING how we've been learning to think about diet to various articles---stuff I think is representative in different ways of stuff we read all the time.
 
-- Michael Specter, [Against the Grain](https://www.newyorker.com/magazine/2014/11/03/grain) (_New Yorker_, October 27, 2014).
+- Michael Specter, [Against the Grain](https://www.newyorker.com/magazine/2014/11/03/grain) (_New Yorker_, October 27, 2014). If you can only see the first few paragraphs and can't figure out what's going on, I've put this article in Zotero as well.
 
 - James Hamblin, [Lectins Could Become the Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/), (_The Atlantic_ April 24, 2017).
 
