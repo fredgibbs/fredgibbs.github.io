@@ -150,6 +150,8 @@ I hope it's no surprise for me to say that one of the main goals of this course 
 {% include alert.html class='danger' title='Reading reflection' text="
 CRITIQUE (do NOT SUMMARIZE) the article for today: What does it do well? How does it disappoint? How does it use history effectively (if at all)? What kinds of topics issues have we covered in class (yes, the whole thing!) that it should have addressed?
 
+TO REPEAT: Don't get sidetracked in your analysis of THIS ARTICLE by analyzing the diet instead. Whether a meat-only diet is a good idea is not the point here. CRITIQUE THE ARTICLE, NOT THE DIET.
+
 Your responses should be around 800 words and are worth up to 10 points.
 "%}
 
