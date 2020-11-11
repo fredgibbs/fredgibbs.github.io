@@ -142,7 +142,9 @@ Does the history of diet and health tell us anything about the future of genetic
 
 
 ### Fri 11/13
-I hope it's no surprise for me to say that one of the main goals of this course is to sharpen your critical faculties for when someone is trying to convince you of something---and not just about diet. This article is a fun read but problematic in its analysis, which makes it highly representative of stuff we see everyday. That also means it's perfect for us to take a look at and probe a bit deeper.
+I hope it's no surprise for me to say that one of the main goals of this course is to sharpen your critical faculties regarding dietary advice, and frankly everything. This article is a mostly fun read but highly problematic in its rather superficial analysis, which makes it highly representative of stuff we see everyday. That also means it's perfect for us to take a look at and probe a bit deeper.
+
+Especially compared to Wednesday's readings, this article isn't very good, and that is PRECISELY why we're reading it---so that we can EXPLAIN HOW it misses the mark. So unlike most readings in the course, it's not something to learn from but something to facilitate a critical analysis exercise.
 
 - Eddie Kim, [THEIR DIET? 100 PERCENT MEAT. AND THEY SAY THEY’VE NEVER FELT HEALTHIER](https://melmagazine.com/en-us/story/their-diet-100-percent-meat-and-they-say-theyve-never-felt-healthier), (_Mel Magazine_, 2019).
 
