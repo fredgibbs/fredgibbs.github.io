@@ -125,7 +125,7 @@ This week we're really starting to ramp down for the course. As a warm up for th
 
 ### Mon 11/16
 - Christie Aschwanden, [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/), (_FiveThirtyEight_, Jan 6, 2016).
-- Julia Belluz, [I asked 8 researchers why the science of nutrition is so messy. Here’s what they said(https://www.vox.com/2016/1/14/10760622/nutrition-science-complicated), _Vox_, Aug 16, 2016.  
+- Julia Belluz, [I asked 8 researchers why the science of nutrition is so messy. Here’s what they said](https://www.vox.com/2016/1/14/10760622/nutrition-science-complicated), _Vox_, Aug 16, 2016.  
 
 {% include alert.html class='danger' title='Reading Quiz' text="
 Just a basic reading quiz for today.
