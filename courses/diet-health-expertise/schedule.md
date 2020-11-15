@@ -171,16 +171,11 @@ Bon Appétit!
 
 
 ## Week 16: Review and Reflection 2
-Our brains are full! Rather than more readings, let's apply the thinking and analytical approach from this class to contemporary sources, like a website about healthy diets. Your only thing to do this week is a [Healthy Diet Analysis]((healthy-diet-analysis).
+Our brains are full! Rather than more readings, let's apply the thinking and analytical approach from this class to contemporary sources, like a website about healthy diets. Your only thing to do this week is a [Healthy Diet Analysis](healthy-diet-analysis).
 
 We have read a lot about explicit dietary advice, but obviously a lot of what we "know" about health and diet comes not just from contemporary research, but the long history of how we have thought about diet and health. How does the HISTORY that we've covered help explain why diet advice looks like it does?
 
-
-### Mon 11/30
-- For day, watch the pro tips VIDEO (link TBP), which will provide a quick walk-thru example of how to do the healthy diet analysis (due Friday).  
-
-### Wed 12/02
-NO READING
+### Nothing due before Friday
 
 ### Fri 12/04
 {% include alert.html class='danger' title='Healthy Diet Analysis' text="
