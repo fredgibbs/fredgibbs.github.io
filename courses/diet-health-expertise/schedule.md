@@ -120,7 +120,7 @@ Your responses should be around 800 words and are worth up to 10 points.
 
 
 ## Week 14: Review and Reflection 1
-This week we're really starting to ramp down for the course. As a warm up for the course final (due the last Friday of Finals Week), your weekly reflection this week will be to analyze Wednesday's reading (for which there is no assignment) in terms of the whole course.
+This week we're really starting to ramp down for the course. As a warm up for the course final (due the last Friday of Finals Week), your weekly reflection this week will be to analyze Wednesday's reading (for which there is no assignment) in terms of the whole course. As soon as you can, check out the [BIG POINTS critique](https://youtu.be/Ewn7u87K9ts) for last week.
 
 
 ### Mon 11/16
