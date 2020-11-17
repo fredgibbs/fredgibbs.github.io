@@ -96,21 +96,26 @@ No reading responses due today, but look ahead to Friday.
 - NO NEW READING, just your weekly reflection as explained below.
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up. Reflecting on what we've done in the course so far, how well does Wednesday's reading establish/outline a productive future for understanding the relationship between nutrition, diet, and health? What is the (implied) role of science? We've obviously covered a lot more history than is in (or may be appropriate for) for an article like this. Are there ISSUES (not necessarily specific historic \"facts\") that the article should have engaged with? The more readings you can review and try to tie in from the entire course (ESPECIALLY MONDAY'S READINGS), the easier and better your final will be.
+For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up. Reflecting on what we've done in the course so far, how well does Wednesday's reading establish/outline a productive future for understanding the relationship between nutrition, diet, and health? What is the (implied) role of science? We've obviously covered a lot more history than is in (or would be appropriate for) for an article like this. Are there ISSUES (not necessarily specific historic \"facts\") that the article should have engaged with? The more readings you can review and try to tie in from the entire course (ESPECIALLY MONDAY'S READINGS), the easier and better your final will be.
 "%}
 
 
 
 ## Week 15: Food Traditions and Societal Health
+{% include alert.html class='warning' title='Nothing Due This Week' text="
+As you can see from the box below, originally there were going to be a few readings about Thanksgiving (seems appropriate for a food/diet course), but I'm getting the sense this semester is feeling longer than usual (and they are too long anyway). Fewer assignments done better is in everyone's best interests. So let's make cancel culture work in our favor and cancel this week.
+"%}
+
+
+{% include alert.html class='info' title='Originally' text="
 We can't NOT read about Thanksgiving this week! These readings have nothing to do with diet/health, but we might also think about how food relates to civic health in addition to bodily health. It's common to think about food as bringing people together, but it's also a way of exerting control.
 
 You have one post due this week, which I highly recommend you complete BY WEDNESDAY NIGHT. But if you're swamped with other essays, exams, etc, just make sure to post it before the end of the weekend.
 
-### Anytime this week
 - Andrew F. Smith, “The First Thanksgiving”, _Gastronomica_ 3.4 (2003): 79–85.
 - Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70–74.
 
-{% include alert.html class='danger' title='Weekly Reflection' text="
+
 This is a more reflective/opinion post than normal, but they should still show me you're familiar with ALL the readings for this week.
 - How do the Thanksgiving articles complicate the traditional Thanksgiving narrative?
 - How do the articles suggest that food traditions play a role in societal health?
