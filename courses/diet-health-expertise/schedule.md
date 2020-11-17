@@ -130,18 +130,15 @@ Bon Appétit!
 
 ## Week 16: Review and Reflection 2
 {% include alert.html class='warning' title='Nothing Due This Week' text="
-As with last week, you can see from the box below what the original assignment was going to be, but I honestly don't think it's useful at this point. SO IT'S CANCELLED. The whole week. WORK ON YOUR FINAL!"%}
+As with last week, you can see from the box below what the original assignment was going to be, but I honestly don't think it's useful at this point. SO IT'S CANCELLED. The whole week. WORK ON YOUR FINAL!
+"%}
 
 {% include alert.html class='info' title='Originally' text="
-Our brains are full! Rather than more readings, let's apply the thinking and analytical approach from this class to contemporary sources, like a website about healthy diets. Your only thing to do this week is a [Healthy Diet Analysis](healthy-diet-analysis).
+We have read a lot about explicit dietary advice, but obviously a lot of what we "know" about health and diet comes not just from contemporary research, but the long history of how we have thought about diet and health. How does the HISTORY that we've covered help explain why diet advice looks like it does? Your only thing to do this week is a [Healthy Diet Analysis](healthy-diet-analysis).
 
-We have read a lot about explicit dietary advice, but obviously a lot of what we "know" about health and diet comes not just from contemporary research, but the long history of how we have thought about diet and health. How does the HISTORY that we've covered help explain why diet advice looks like it does?
-
-### Nothing due before Friday
-
-### Fri 12/04
-{% include alert.html class='danger' title='Healthy Diet Analysis' text="
-As a preparatory exercise for the [final course reflection](final-reflections), your [healthy diet analysis](healthy-diet-analysis) is due today.
-
-UPDATE: 11/17: WE'RE NOT DOING THIS ASSIGNMENT! Just focus on the [final course reflection](final-reflections).
+UPDATE: 11/17: WE'RE NOT DOING THIS ASSIGNMENT! Just focus on the [final course reflection](final-reflections), due on midnight Dec 11, the last day of finals.
 "%}
+
+
+## Before midnight on Friday, December 11
+Post your [final course reflection](final-reflections).
