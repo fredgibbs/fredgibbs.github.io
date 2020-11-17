@@ -61,61 +61,14 @@ Our investigations into the history of diet have been about what we are delibera
 We assume our food is safe. We assume that corporations that sell us food or nutritional supplements aren't adulterating it, that the labels are accurate, and that claims about health benefits aren't entirely fictitious. History shows that these are not good assumptions. This week we focus a little less on health per se and more about health claims, regulation, and safety---obviously continuing our line of inquiry from last week. [BIG POINTS](https://youtu.be/ZEDx1Pd4lAY) for this week.
 
 
-## Week 13: Dietary Dangers and Critiques
+## Week 13: [Dietary Dangers and Critiques](weeks/13)
 Not many people haven't been on some kind of diet. How can we really evaluate whether any diet could be useful? Is there a "right" diet that we just haven't found? Have we known it all along?
 
 This week is about EVALUATING dietary advice and dietary CRITIQUE. As you know from the course SLOs, the course is all about learning to think critically about dietary advice, using history to gain a broad perspective on it. So now we turn our attention from evaluating the rhetoric of dietary advice to evaluating the rhetoric of dietary critique.
 
 This week brings our last LAST DAILY READING REFLECTIONS! (but a longer one on Friday)
 
-
-### Mon 11/09
-- Last week was difficult; let's take a breath. NOTHING TO DO FOR TODAY. Monday's assignment moves to Wednesday and Wednesday's assignment goes away.
-
-
-### Wed 11/11
-I frequently ask you to read between the lines of our readings to look beyond the specific dietary advice to see what else an author might be telling us. We've done that mostly with older diet texts to see how they tell us something about diet culture at the time it was written. Today (and Friday) we're reading a few relatively recent articles about contemporary fad diets, their appeal, and the scientific agreement/disagreement about their efficacy.
-
-I think these are great articles (we read a lot of not great articles for various reasons in this class; it's nice to get some actually nice ones, too) for many reasons. For one, each helps readers think more critically about a particular diet and the rationale behind it. But perhaps more importantly, they also give us some insightful ways about how our opinions about diets come to be formed. That's what I encourage you to focus on---what can these tell us about dieting IN GENERAL?
-
-At this point in the course we start to focus less on learning new stuff about diet and more on APPLYING how we've been learning to think about diet to various articles---stuff I think is representative in different ways of stuff we read all the time.
-
-- Michael Specter, [Against the Grain](https://www.newyorker.com/magazine/2014/11/03/grain) (_New Yorker_, October 27, 2014). If you can only see the first few paragraphs and can't figure out what's going on, I've put this article in Zotero as well.
-
-- James Hamblin, [Lectins Could Become the Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/), (_The Atlantic_ April 24, 2017).
-
-
-{% include alert.html class='danger' title='Reading reflection' text="
-What (if anything) did you find interesting or insightful about these? What do you think they are saying about diets and dieting IN GENERAL beyond the particular one they focus on?
-
-Your responses should be around 400 words and are worth up to 5 points.
-"%}
-
-{% include alert.html class='warning' title='Originally but not anymore' text="
-- Elizabeth G. Dunn, [Meet the Startup That Thinks DNA Can Predict Your Best Diet](https://medium.com/s/futurehuman/is-the-secret-to-better-nutrition-encoded-in-our-genes-e0cfd1ad11a8) (_OneZero_, July 2018).
-
-- Richard Sprague, [So Should I Eat Apples, or Not?](https://medium.com/neodotlife/review-of-viome-f024423a3d3a) (_NEO.LIFE_, February 2018).
-
-Does the history of diet and health tell us anything about the future of genetic diets? Can they EVER work? And if they COULD, would that entail a healthy or productive relationship to food?
-"%}
-
-
-### Fri 11/13
-I hope it's no surprise for me to say that one of the main goals of this course is to sharpen your critical faculties regarding dietary advice, and frankly everything. This article is a mostly fun read but highly problematic in its rather superficial analysis, which makes it highly representative of stuff we see everyday. That also means it's perfect for us to take a look at and probe a bit deeper.
-
-Especially compared to Wednesday's readings, this article isn't very good, and that is PRECISELY why we're reading it---so that we can EXPLAIN HOW it misses the mark. So unlike most readings in the course, it's not something to learn from but something to facilitate a critical analysis exercise.
-
-- Eddie Kim, [THEIR DIET? 100 PERCENT MEAT. AND THEY SAY THEY’VE NEVER FELT HEALTHIER](https://melmagazine.com/en-us/story/their-diet-100-percent-meat-and-they-say-theyve-never-felt-healthier), (_Mel Magazine_, 2019).
-
-
-{% include alert.html class='danger' title='Reading reflection' text="
-CRITIQUE (do NOT SUMMARIZE) the article for today: What does it do well? How does it disappoint? How does it use history effectively (if at all)? What kinds of topics issues have we covered in class (yes, the whole thing!) that it should have addressed?
-
-TO REPEAT: Don't get sidetracked in your analysis of THIS ARTICLE by analyzing the diet instead. Whether a meat-only diet is a good idea is not the point here. CRITIQUE THE ARTICLE, NOT THE DIET.
-
-Your responses should be around 800 words and are worth up to 10 points.
-"%}
-
+Don't forget about the [BIG POINTS critique](https://youtu.be/Ewn7u87K9ts) for this week.
 
 
 
@@ -128,11 +81,11 @@ This week we're really starting to ramp down for the course. As a warm up for th
 - Julia Belluz, [I asked 8 researchers why the science of nutrition is so messy. Here’s what they said](https://www.vox.com/2016/1/14/10760622/nutrition-science-complicated), _Vox_, Aug 16, 2016.  
 
 {% include alert.html class='danger' title='Reading Quiz' text="
-Just a basic reading quiz for today.
+Just a basic reading quiz for today that MUST BE DONE BEFORE MIDNIGHT on TUESDAY; a quiz explanation video will be available Wednesday.
 "%}
 
 ### Wed 11/18
-- Dariush Mozaffarian, Irwin Rosenberg, Ricardo Uauy, "History of modern nutrition science—implications for current research, dietary guidelines, and food policy", (_BMJ_ 2018;361:k2392).
+- Dariush Mozaffarian, Irwin Rosenberg, Ricardo Uauy, "History of modern nutrition science—implications for current research, dietary guidelines, and food policy", (_BMJ_ 2018; 361:k2392).
 
 {% include alert.html class='warning' title='NO READING REFLECTIONS' text="
 No reading responses due today, but look ahead to Friday.
