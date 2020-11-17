@@ -112,8 +112,8 @@ We can't NOT read about Thanksgiving this week! These readings have nothing to d
 
 You have one post due this week, which I highly recommend you complete BY WEDNESDAY NIGHT. But if you're swamped with other essays, exams, etc, just make sure to post it before the end of the weekend.
 
-- Andrew F. Smith, “The First Thanksgiving”, _Gastronomica_ 3.4 (2003): 79–85.
-- Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70–74.
+- Andrew F. Smith, \“The First Thanksgiving\”, _Gastronomica_ 3.4 (2003): 79–85.
+- Philip Deloria, \“The Invention of Thanksgiving\”, _New Yorker_, 95.37 (November 25, 2019): 70–74.
 
 
 This is a more reflective/opinion post than normal, but they should still show me you're familiar with ALL the readings for this week.
@@ -122,9 +122,9 @@ This is a more reflective/opinion post than normal, but they should still show m
 - Does holiday food itself really matter (like turkey, or ham), or is it just a vehicle for other social functions?
 "%}
 
+
 ### Thurs 11/26: Thanksgiving!
 Bon Appétit!
-
 
 
 
@@ -134,7 +134,7 @@ As with last week, you can see from the box below what the original assignment w
 "%}
 
 {% include alert.html class='info' title='Originally' text="
-We have read a lot about explicit dietary advice, but obviously a lot of what we "know" about health and diet comes not just from contemporary research, but the long history of how we have thought about diet and health. How does the HISTORY that we've covered help explain why diet advice looks like it does? Your only thing to do this week is a [Healthy Diet Analysis](healthy-diet-analysis).
+We have read a lot about explicit dietary advice, but obviously a lot of what we \"know\" about health and diet comes not just from contemporary research, but the long history of how we have thought about diet and health. How does the HISTORY that we've covered help explain why diet advice looks like it does? Your only thing to do this week is a [Healthy Diet Analysis](healthy-diet-analysis).
 
 UPDATE: 11/17: WE'RE NOT DOING THIS ASSIGNMENT! Just focus on the [final course reflection](final-reflections), due on midnight Dec 11, the last day of finals.
 "%}
