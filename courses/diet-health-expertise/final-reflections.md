@@ -10,13 +10,13 @@ section: links-guides
 # Final Learning Reflection
 Your final assignment for the course is a bit different from previous assignments.
 
-You will will write a ~1200-word argument for what letter grade you should get for the course. Most importantly, your essay will justify your grade by explaining what you've learned. You should describe your learning experience AND provide specific examples of what you've learned throughout the course. How has your perspective on diet and health changed? How is your understanding of expertise any different than before?
+You will will write a ~1600-word argument for what letter grade you should get for the course. Most importantly, your essay will justify your grade by explaining what you've learned. You should describe your learning experience AND provide specific examples of what you've learned throughout the course. How has your perspective on diet and health changed? How is your understanding of expertise any different than before?
 
 To explain what you've learned is NOT THE SAME as summarizing or paraphrasing the syllabus. Illustrating how your thinking about the SLOs (Student Learning Objectives) has changed, or describing why you think the readings were ineffective, is much more personal and shows a much greater depth of learning than simply listing topics possibly can.
 
-I can't emphasize enough that your final reflections should be personal statements about YOUR LEARNING EXPERIENCE, not just a summary of course topics and themes. If you are describing how your own thinking about diet and health and expertise have changed, with the readings and the course overall, you'll end up including plenty of information from the course. You just don't need to worry about summarizing anything.
+I can't emphasize enough that your final reflections should be personal statements about YOUR LEARNING EXPERIENCE, not just a summary of course topics and themes. If you are describing how your own thinking about diet and health and expertise have changed, with the readings and the course overall, you'll end up including plenty of information from the course.
 
-However, If all you do is summarize readings without including your reaction to them, describing how it changed your thinking, or why it didn't (again, either is fine), I can only assume that you didn't put in very much effort into the course.
+However, If all you do is summarize readings without including your reaction to them, or without describing how it changed your thinking (or why it didn't), I can only assume that you didn't put in very much effort into the course.
 
 This isn't a writing class so you're not getting evaluated on elegant prose. BUT, your writing must be clear enough that I can follow your argument and your survey of course themes. Your final reflection should be well thought out and carefully written, not a stream of consciousness off-the-cuff here’s-what-I-remember type thing.
 
@@ -32,22 +32,23 @@ Obviously you'll have SIGNIFICANTLY MORE DEPTH to your description in the sense 
 
 
 ### Be specific
-I may have mentioned this once or twice in the course already. Specificity (and clarity) is what separates excellent from mediocre reflections. To say that "I learned to think more critically about dietary advice" is fine ONLY IF you provide several specific examples of the issues that you think are important to think critically about and WHY. But if you just make a vague statement that you learned about a topic on the syllabus ("I learned the sugar industry likes to suggest it's not harmful"), and you don't provide any examples from the readings, I can only assume it's because you didn't read or learn very much. Telling me what you were SUPPOSED to learn is very different from describing what what you ACTUALLY learned. Make sure you're describing your LEARNING EXPERIENCE.
+I may have mentioned this once or twice in the course already. Specificity (and clarity) is what separates excellent from mediocre reflections. To say that "I learned to think more critically about fad diets" is fine ONLY IF you provide several specific examples of the issues that you think are important to think critically about and WHY. But if you just make a vague statement that you learned about a topic on the syllabus ("I learned the sugar industry likes to suggest that sugar isn't harmful"), and you don't provide any examples from the readings, I can only assume it's because you didn't read or learn very much. Telling me what you were SUPPOSED to learn (that is, paraphrasing the syllabus) is very different from describing YOUR LEARNING EXPERIENCE.
 
 
 ### Think holistically
 The more you can tie themes together and speak about the course as a whole (while giving specific examples from the readings), the higher your score will be. Essays that speak about one topic after the other in the order of the syllabus will make a case that you haven't really put anything together. Almost every single reading can be related to a handful of others on the syllabus. If I see those connections in your posts, I know you're putting in the work to make them.
 
 
-### Make an impression; 20 points go a long way
-This exercise is your final assignment. Duh. And it's worth only 20 points, but they are the LAST 20 points you can get, and I use the WHOLE SCALE. 20 points might not seem like much at the very end of the course, but that's the difference between an A- and C-. No matter how you have fared on assignments or quizzes previously, a smart essay here can make a significant grade difference. A strong performance can get you a better grade than your raw point total might suggest; a lackluster effort can definitely lower your final grade (although not less than that the point scale indicates). As many of you have already experienced, especially well-done posts get a little extra credit for the extra effort.
+### Make an impression; 30 points go a long way
+This exercise is your final assignment. Duh. And it's worth only 30 points (something like 12% of your grade), but crucially they are the LAST 30 points you can get, and I use the WHOLE SCALE. 30 points might not seem like much at the very end of a long course with lots of assignments, but that's the difference between an A and C-. No matter how you have fared on assignments or quizzes previously, a smart essay here can make a significant grade difference. A strong performance can get you a better grade than your raw point total might suggest (because I think improvement should be rewarded); a lackluster effort can definitely lower your final grade (although not less than that the point scale indicates). As many of you have already experienced, especially well-done posts get a little extra credit for the extra effort.
 
 I know everyone is fried at this point, but thinking back through the course now makes a big difference in what you take away from it and the quality of your critical thinking about diet, nutrition, and science generally, which is why we have this final reflection. I wouldn't bother if I didn't think it made a big impact.
 
 
 ## Grading
-- 19-20: **Excellent**. Presents an original, expressive, and sophisticated analysis of what the student has learned and how the readings relate to each other. It combines many specific examples from the readings with a detailed personal narrative of how they affected (or didn't) the student's thinking about diet and health.
-- 16-18: **Very good**. Provides excellent coverage of course topics, themes, and readings, with SOME (but not many) specific examples, and with a clear emphasis on creating a learning reflection rather than course summary.
-- 13-15: **Good**. Provides solid coverage of course topics, themes, and readings---with a few examples---but tends more towards summary than a learning narrative.
-- 8-12: **Fine**. Shows some evidence of thinking critically about core topics from the course, but does not demonstrate much knowledge of course content beyond superficial descriptions.
-- 1-7: **Marginal**. Basically summarizes or paraphrases the syllabus.
+- 28-30: **Excellent**. Presents an original, expressive, and sophisticated analysis of what the student has learned and how the readings relate to each other. It combines many specific examples from the readings with a detailed personal narrative of how they affected (or didn't) the student's thinking about diet and health.
+- 25-27: **Very good**. Provides excellent coverage of course topics, themes, and readings, with SOME (but not many) specific examples, and with a clear emphasis on creating a learning reflection rather than course summary.
+- 20-24: **Good**. Provides solid coverage of course topics, themes, and readings---with a few examples---but tends more towards summary than a learning narrative.
+- 15-19: **Fine**. Shows some evidence of thinking critically about core topics from the course, but does not demonstrate much knowledge of course content beyond superficial descriptions.
+- 10-14: **Marginal**. Basically summarizes or paraphrases the syllabus, but does well enough to get some points.
+- 0-9: **Not good**. Incoherent, overly general summary of some topics, many topics missing, no examples or engagement with readings.

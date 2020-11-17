@@ -98,7 +98,7 @@ The little equations after the assignment type indicates `number of assignments`
 - [Weekly learning reflections](weekly-reflections) (11x10 = 110) (usually in response to a particular question) Due most Fridays.
 - [Vitamin rhetoric analysis](healthy-diet-analysis) (1x15 = 15) Due in lieu of a weekly reflection.
 - [Healthy diet analysis](healthy-diet-analysis) (1x15 = 15) Due in lieu of a weekly reflection on the last day of class.
-- [Final learning reflection](final-reflections) (1x20 = 20) Due on the last Friday of Finals Week (12/11). Also known as a FINAL. But not a lot of points compared to other assignments.
+- [Final learning reflection](final-reflections) (1x30 = 30) Due on the last Friday of Finals Week (12/11). Also known as a FINAL. This is not a huge chunk of your grade, but this is the last chance to increase your point total for the course.
 
 
 ### Grade Distribution (~250 points)
