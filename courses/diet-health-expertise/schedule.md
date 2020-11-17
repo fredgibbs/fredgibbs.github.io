@@ -73,7 +73,7 @@ Don't forget about the [BIG POINTS critique](https://youtu.be/Ewn7u87K9ts) for t
 
 
 ## Week 14: Review and Reflection 1
-This week we're really starting to ramp down for the course. As a warm up for the course final (due the last Friday of Finals Week), your weekly reflection this week will be to analyze Wednesday's reading (for which there is no assignment) in terms of the whole course. As soon as you can, check out the [BIG POINTS critique](https://youtu.be/Ewn7u87K9ts) for last week.
+This week we're really starting to ramp down for the course. As a warm up for the course final (due the last Friday of Finals Week), your weekly reflection this week will be to analyze Wednesday's reading (for which there is no assignment) in terms of the whole course. As soon as you can, check out the [BIG POINTS critique](https://youtu.be/Ewn7u87K9ts) for last week. It's accidentally a little longer than normal (~30 min), but I hope you'll agree that on the whole we've had a relatively low lecture requirement for this course!
 
 
 ### Mon 11/16
