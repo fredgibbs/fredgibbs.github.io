@@ -35,11 +35,10 @@ A VERY skeletal but hopefully suggestive example (which condenses a whole essay 
 
 I think I earned a B+. I never thought about how the history of diet could change my thinking about A or B. I learned to think about X more carefully because of E. I realized I hadn't ever thought about Y in terms of F before, but that it's important because of Z. Those issues are also relevant to F and G, because of H and J. I also was really interested in reading about Q because of T; I liked how the reading on R made me think about U differently, even though that was contradicted by S. I enjoyed the readings A, B, and C because of X and Y, as they made me question assumptions M and N that I had initially. I disagreed with the D reading because of O and S. I disagreed with the B reading because of X, but liked how it described Z. I would have liked to spend more time with some of the topics, such as P, Q, and R, but I had to pick up extra shifts at work, so some of my reflections were a little thin on those days. I had a hard time following the lecture on F, so my quiz score was low, but I thought it was interesting how A and B from the lecture connected with M and N from the earlier C and D readings. I thought the readings on J had some good ideas but I found the writing hard to follow (for example when the author discusses G), and so I didn't incorporate them into my reflections. But I was really into J and K, and thought I wrote some of the more interesting posts of the class, particularly my analysis of G and H. I thought it was interesting how topics L and M from the first week intersected with T and U from the third week in the sense of P and Q. And so on.
 
-Obviously you'll have SIGNIFICANTLY MORE DEPTH to your description in the sense that all the letters above will be well-explained and specific examples from the readings---and they won't all be crammed into a single sentence as I have done. What what is one sentence above should be a whole paragraph in your reflection.
+Obviously you'll have SIGNIFICANTLY MORE DEPTH to your description in the sense that all the letters above will be well-explained and specific examples from the readings---and they won't all be crammed into a single sentence as I have done. What is one sentence above should be a whole paragraph in your reflection.
 
-The point here is that this final learning reflection will CONNECT DIFFERENT TOPICS AND THEMES AND READINGS for the course.
+The point here is that this final learning reflection will CONNECT DIFFERENT TOPICS AND THEMES AND READINGS for the course. I hope it's obvious that the sample (even in its intense vagueness) gives specific examples from the readings to illustrate a learning experience. In NO WAY does it resemble a week-by-week summary of the syllabus.
 
-MOST IMPORTANTLY, I hope it's obvious that the sample (even in its intense vagueness) gives specific examples from the readings to illustrate a learning experience. In NO WAY does it resemble a week-by-week summary of the syllabus.
 
 
 ## Pro tips for success
@@ -51,7 +50,6 @@ Before you start writing, over the next few weeks, you should invest a few hours
 ### BE SPECIFIC!
 I may have mentioned this once or twice in the course already. Specificity and clarity (in thinking and organization) is what separates excellent from mediocre work. To say that "I learned to think more critically about fad diets" will sound unconvincing unless you provide several specific examples of the issues that you think are important to think critically about and WHY. If you just make a vague statement that you learned about a topic on the syllabus ("I learned the sugar industry likes to suggest that sugar isn't harmful; or, I learned about the dangers of GMOs"), and you don't provide any examples from the readings, or don't connect different readings together, I can only assume it's because you didn't read or learn very much.
 
-One last time: telling me what you were SUPPOSED to learn (that is, paraphrasing the syllabus) is very different from describing YOUR LEARNING EXPERIENCE.
 
 
 ### Think holistically
@@ -65,11 +63,14 @@ AGAIN: No matter how you have fared on assignments or quizzes previously, a smar
 
 I know everyone is fried at this point, but thinking back through the course makes a big difference in what you take away from it and the quality of your critical thinking about diet and health, and hopefully just in general. I wouldn't bother if I didn't think it made a big impact.
 
+One last time: telling me what you were SUPPOSED to learn (that is, paraphrasing the syllabus) is very different from describing YOUR LEARNING EXPERIENCE.
+
+
 
 ## Grading
 - 28-30: **Excellent**. Presents an original, expressive, and sophisticated analysis of what the student has learned and how the readings relate to each other. It combines many specific examples from the readings with a detailed personal narrative of how they affected (or didn't) the student's thinking about diet and health.
-- 25-27: **Very good**. Provides excellent coverage of course topics, themes, and readings, with SOME (but not many) specific examples, and with a clear emphasis on creating a learning reflection rather than course summary.
-- 20-24: **Good**. Provides solid coverage of course topics, themes, and readings---with a few examples---but tends more towards summary than a learning narrative.
-- 15-19: **Fine**. Shows some evidence of thinking critically about core topics from the course, but does not demonstrate much knowledge of course content beyond superficial descriptions.
-- 10-14: **Marginal**. Basically summarizes or paraphrases the syllabus, but shows enough familiarity with enough readings to get some points.
-- 0-9: **Not good**. Incoherent, overly general summary of some topics, many topics missing, no examples or engagement with readings.
+- 25-27: **Very good**. Provides excellent coverage of course topics, themes, and readings, with more than a few specific examples, connects readings from throughout the course, and demonstrates a clear emphasis on creating a learning reflection rather than course summary.
+- 20-24: **Good**. Provides solid coverage of course topics, themes, and readings---with some examples---but tends more towards summary than a learning narrative.
+- 15-19: **Fine**. Shows some evidence of thinking critically about core topics from the course, covers a wide variety of course themes, but does not demonstrate much knowledge of course content beyond superficial descriptions.
+- 10-14: **Marginal**. Basically summarizes or paraphrases the syllabus, but shows enough familiarity with the majority readings to get some points.
+- 0-9: **Not good**. Incoherent, overly general summary of some topics, many topics missing, minimal examples or engagement with readings.
