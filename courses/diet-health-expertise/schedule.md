@@ -81,7 +81,7 @@ This week we're really starting to ramp down for the course. As a warm up for th
 - Julia Belluz, [I asked 8 researchers why the science of nutrition is so messy. Here’s what they said](https://www.vox.com/2016/1/14/10760622/nutrition-science-complicated), _Vox_, Aug 16, 2016.  
 
 {% include alert.html class='danger' title='Reading Quiz' text="
-Just a basic reading quiz for today that MUST BE DONE BEFORE MIDNIGHT on TUESDAY; a quiz explanation video will be available Wednesday.
+Just a basic reading quiz for today that MUST BE DONE BEFORE MIDNIGHT on TUESDAY; afterwards, check out the [quiz explanation / BIG POINTS video](https://youtu.be/NGBVwpTmAC0).
 "%}
 
 ### Wed 11/18
