@@ -20,7 +20,7 @@ You will do well if you describe HOW and WHY your thinking about diet/health/exp
 
 This isn't a writing class so you're not getting evaluated on elegant prose. BUT, your writing must be clear enough that I can follow your argument and your survey of course themes. Your final reflection should be well thought out and carefully written, not a stream of consciousness off-the-cuff here’s-what-I-remember type thing. MAKE SURE YOUR POST HAS CLEAR PARAGRAPHS BEFORE SUBMITTING IT (which most of you do already). I've given you LOTS of time to make these good, and I will be evaluating them with that in mind.
 
-## Pro tip \#1
+## Pro tip \#1: Take time to review
 Before you start writing, you should invest a few hours time skimming through the readings again---not necessarily re-reading them---to remind yourself what you've read, or maybe reading a little more of something you could only skim before. You should absolutely use the discussion board to remind you of what was going on over the many weeks of class. ALL THOSE POSTS are more than just assignments for you to do---they are our course archive that makes the key ideas from the course and the readings easily accessible.
 
 
