@@ -20,8 +20,6 @@ You will do well if you describe HOW and WHY your thinking about diet/health/exp
 
 This isn't a writing class so you're not getting evaluated on elegant prose. BUT, your writing must be clear enough that I can follow your argument and your survey of course themes. Your final reflection should be well thought out and carefully written, not a stream of consciousness off-the-cuff here’s-what-I-remember type thing. MAKE SURE YOUR POST HAS CLEAR PARAGRAPHS BEFORE SUBMITTING IT (which most of you do already). I've given you LOTS of time to make these good, and I will be evaluating them with that in mind.
 
-## Pro tip \#1: Take time to review
-Before you start writing, you should invest a few hours time skimming through the readings again---not necessarily re-reading them---to remind yourself what you've read, or maybe reading a little more of something you could only skim before. You should absolutely use the discussion board to remind you of what was going on over the many weeks of class. ALL THOSE POSTS are more than just assignments for you to do---they are our course archive that makes the key ideas from the course and the readings easily accessible.
 
 
 ## Why make an argument for a grade?
@@ -44,13 +42,19 @@ The point here is that this final learning reflection will CONNECT DIFFERENT TOP
 MOST IMPORTANTLY, I hope it's obvious that the sample (even in its intense vagueness) gives specific examples from the readings to illustrate a learning experience. In NO WAY does it resemble a week-by-week summary of the syllabus.
 
 
-## Pro tip \#2: BE SPECIFIC!
+## Pro tips for success
+
+### Take time to review
+Before you start writing, you should invest a few hours time skimming through the readings again---not necessarily re-reading them---to remind yourself what you've read, or maybe reading a little more of something you could only skim before. You should absolutely use the discussion board to remind you of what was going on over the many weeks of class. ALL THOSE POSTS are more than just assignments for you to do---they are our course archive that makes the key ideas from the course and the readings easily accessible.
+
+
+### BE SPECIFIC!
 I may have mentioned this once or twice in the course already. Specificity and clarity (in thinking and organization) is what separates excellent from mediocre work. To say that "I learned to think more critically about fad diets" will sound unconvincing unless you provide several specific examples of the issues that you think are important to think critically about and WHY. If you just make a vague statement that you learned about a topic on the syllabus ("I learned the sugar industry likes to suggest that sugar isn't harmful; or, I learned about the dangers of GMOs"), and you don't provide any examples from the readings, or don't connected different readings together, I can only assume it's because you didn't read or learn very much.
 
 One last time: telling me what you were SUPPOSED to learn (that is, paraphrasing the syllabus) is very different from describing YOUR LEARNING EXPERIENCE.
 
 
-### Pro tip \#3: Think holistically
+### Think holistically
 The more you can tie themes together and speak about the course as a whole (while giving specific examples from the readings---yes, I'm going to keep repeating it), the higher your score will be. Essays that speak very generally about one topic after the other in the order of the syllabus will make a case that you haven't really made any connections. Almost every single reading can be related to at least a handful of others on the syllabus. Many of you have been doing this in your posts of late---keep it up! When I see those connections in your final, I know you're putting in the work to make them.
 
 
