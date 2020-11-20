@@ -94,6 +94,7 @@ No reading responses due today, but look ahead to Friday.
 
 ### Fri 11/20
 - NO NEW READING, just your weekly reflection as explained below.
+- If you haven't seen it yet, the [quiz explanation / BIG POINTS video](https://youtu.be/NGBVwpTmAC0) may be useful.
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
 For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up. Reflecting on what we've done in the course so far, how well does Wednesday's reading establish/outline a productive future for understanding the relationship between nutrition, diet, and health? What is the (implied) role of science? We've obviously covered a lot more history than is in (or would be appropriate for) for an article like this. Are there ISSUES (not necessarily specific historic \"facts\") that the article should have engaged with? The more readings you can review and try to tie in from the entire course (ESPECIALLY MONDAY'S READINGS), the easier and better your final will be.
