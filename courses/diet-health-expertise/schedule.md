@@ -95,6 +95,8 @@ No reading responses due today, but look ahead to Friday.
 ### Fri 11/20
 - NO NEW READING, just your weekly reflection as explained below.
 - If you haven't seen it yet, the [quiz explanation / BIG POINTS video](https://youtu.be/NGBVwpTmAC0) may be useful.
+- [My critique of this article](https://youtu.be/xfKv2uNLbp8) is essential viewing for a successful final.
+
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
 For your weekly reflection this week, we're going to do a kind of a Final Course Reflection Warm-up. Reflecting on what we've done in the course so far, how well does Wednesday's reading establish/outline a productive future for understanding the relationship between nutrition, diet, and health? What is the (implied) role of science? We've obviously covered a lot more history than is in (or would be appropriate for) for an article like this. Are there ISSUES (not necessarily specific historic \"facts\") that the article should have engaged with? The more readings you can review and try to tie in from the entire course (ESPECIALLY MONDAY'S READINGS), the easier and better your final will be.
@@ -105,6 +107,8 @@ For your weekly reflection this week, we're going to do a kind of a Final Course
 ## Week 15: Food Traditions and Societal Health
 {% include alert.html class='warning' title='Nothing Due This Week' text="
 As you can see from the box below, originally there were going to be a few readings about Thanksgiving (seems appropriate for a food/diet course), but I'm getting the sense this semester is feeling longer than usual (and they are too long anyway). Fewer assignments done better is in everyone's best interests. So let's make cancel culture work in our favor and cancel this week.
+
+Sooner than later, you'll need to watch the [future of nutrition article critique](https://youtu.be/xfKv2uNLbp8)--the way I see the article you critiqued last week (Mozaffarian, et al.) and how it fits into the course. Essential viewing for a successful final.
 "%}
 
 
@@ -131,6 +135,9 @@ Bon Appétit!
 
 ## Week 16: Review and Reflection 2
 {% include alert.html class='warning' title='Nothing Due This Week' text="
+If you're catching up from last week, you'll need to watch the [future of nutrition article critique](https://youtu.be/xfKv2uNLbp8)--the way I see the article you critiqued before Thanksgiving week (Mozaffarian, et al.) and how it fits into the course. Essential viewing for a successful final.
+
+
 As with last week, you can see from the box below what the original assignment was going to be, but I honestly don't think it's useful at this point. SO IT'S CANCELLED. The whole week. WORK ON YOUR FINAL!
 "%}
 
