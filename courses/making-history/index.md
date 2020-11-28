@@ -25,20 +25,20 @@ The core philosophy underlying the course is that historical perspective is esse
 
 
 ## Student Learning Outcomes (SLOs)
-Through readings, lectures, discussions, examinations, as well as writing assignments, students, upon completion of this course, will be able to:
+Through readings, lectures, discussions, examinations, and writing assignments, students will be able to:
 
-* Students will be able to EXPLAIN how humans in the past shaped their own unique historical moments, constructed historical memories, and were shaped by those moments and memories over time.
-* Students will SUMMARIZE and APPRAISE the diversity of historical experiences, interpretations, evidence in order to RECONSTRUCT past events and EVALUATE how history and historical memory can be used and misused for various purposes.
-* Students will IDENTIFY historical arguments in a variety of sources and EXPLAIN how they were constructed, EVALUATING credibility, perspective, and relevance.
-* Students will CREATE well-supported historical arguments and narratives that demonstrate their ability to read critically, think logically, and express themselves clearly in writing appropriate for their audience.
-* Students will DISTINGUISH between primary and secondary sources, IDENTIFY and EVALUATE evidence and UNDERSTAND people in their historical context.
+*  EXPLAIN how humans in the past shaped their own unique historical moments, constructed historical memories, and were shaped by those moments and memories over time.
+* SUMMARIZE and APPRAISE the diversity of historical experiences, interpretations, evidence in order to RECONSTRUCT past events and EVALUATE how history and historical memory can be used and misused for various purposes.
+* IDENTIFY historical arguments in a variety of sources and EXPLAIN how they were constructed, EVALUATING credibility, perspective, and relevance.
+* CREATE well-supported historical arguments and narratives that demonstrate their ability to read critically, think logically, and express themselves clearly in writing appropriate for their audience.
+* DISTINGUISH between primary and secondary sources, IDENTIFY and EVALUATE evidence and UNDERSTAND people in their historical context.
 
 
 ## Work Requirements and Grading
 - Discussion board posts on lectures and reading assignments (30%)
 - Various essay assignments (30%)
 - Quizzes on lectures and reading assignments (20%)
-- Final Essay on the uses of history (20%)
+- Final Essay (20%)
 
 ### Grade Distribution
 
@@ -61,7 +61,10 @@ Percent | Grade
 I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how you can improve your performance (if at all). If life gets overwhelming during the course (as it easily can these days), it can be tempting to drift away from an elective course like this. Rather than disappear, let's work something out to accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
 
 ## Readings
-Coming soon!
+- Sarah Maza, _Thinking About History_ (University of Chicago Press, 2017)
+- Raj Patel and Jason W. Moore, _A History of the World in Seven Cheap Things_ (University of California Press, 2018) [online](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=4820021)
+- Jeremy D. Popkin, _From Herodotus to H-Net, 2nd ed._ (Oxford University Press, 2021)
+- Beverley Southgate, _What is History For?_ (Routledge, 2005) [online](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=259713)
 
 ## Writing Help
 [CAPS Tutoring Services](http://caps.unm.edu/programs/online-tutoring/) is a free-of-charge educational assistance program available to UNM students enrolled in classes. Online services include the Online Writing Lab, Chatting with or asking a question of a Tutor.
