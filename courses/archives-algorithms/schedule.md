@@ -8,7 +8,7 @@ section: schedule
 ---
 
 # Schedule of Readings & Assignments
-UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "progress" (more of a wandering back and forth than a directional march). This is meant to give you a rough idea of what we're doing, but there are still many topics not yet represented here, and the order is totally wrong.
+UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "progress" (more of a wandering back and forth than a directional march). This is meant to give you a rough idea of what we're doing, but there are still many topics not yet represented here, and probably there is more listed in this draft version that will make the final cut.
 
 
 ## Week 1: Jan 18--22
