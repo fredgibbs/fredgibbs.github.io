@@ -32,8 +32,8 @@ UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "pr
 
 
 ## Week 2: Jan 25--29: History
-- Walsham, Alexandra. “The Social History of the Archive: Record-Keeping in Early Modern Europe.” Past & Present 230, no. suppl_11 (November 1, 2016): 9–48. https://doi.org/10.1093/pastj/gtw033.
-
+- Walsham, Alexandra. “The Social History of the Archive: Record-Keeping in Early Modern Europe.” Past & Present 230, no. suppl_11 (November 1, 2016): 9–48.
+- Gabriella Giannchi, "A brief history of the archive" (Chapter 1 from _Archive Everything_), 1--25.
 
 
 ## Week 3: Feb 1--5: Power
@@ -75,7 +75,6 @@ UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "pr
 
 
 
-
 ## Week 7: March 1--5: Decolonizing
 -  J. J. Ghaddar and Michelle Caswell, ‘“To Go beyond”: Towards a Decolonial Archival Praxis’, Archival Science, 19.2 (2019), 71–85.
 - María Cotera, “Nuestra Autohistoria: Toward a Chicana Digital Praxis,” _American Quarterly_ 70.3 (2018): 483–504.
@@ -106,29 +105,10 @@ UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "pr
 ## Week 9: Mar 15--19: NOTHING: Enjoy Spring Break!!!
 
 
-## Week 10: Mar 22--27: Everyday algorithms
-- Michele Willson, “Algorithms (and the) Everyday.” _Information, Communication & Society_ 20.1 (2017): 137–50.
-- Tonia Sutherland, “The Carceral Archive: Documentary Records, Narrative Construction, and Predictive Risk Assessment.” _Journal of Cultural Analytics_, June 4, 2019.
-- Matthew Reidsma, [Algorithmic Bias in Library Discovery Systems](https://matthew.reidsrow.com/articles/173)
-- Holger Pötzsch, ‘Archives and Identity in the Context of Social Media and Algorithmic Analytics: Towards an Understanding of _iArchive_ and Predictive Retention’, _New Media & Society_, 20.9 (2018), 3304–22.
 
 
-## Week 11: Mar 29--Apr 2: Algorithms in the Wild
-
-- Frank Pasquale, [Digital star chamber](https://aeon.co/essays/judge-jury-and-executioner-the-unaccountable-algorithm), _Aeon_.
-- ajobin, [Google’s Autocompletion: Algorithms, Stereotypes, and Accountability](http://dhpoco.org/blog/2013/11/19/googles-autocompletion-algorithms-stereotypes-and-accountability/)
-- Joy Buolamwini, [Algorithms aren’t racist. Your skin is just too dark](https://hackernoon.com/algorithms-arent-racist-your-skin-is-just-too-dark-4ed31a7304b8)
-- Angwin, Larson, Mattu, and Kircher, [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). Look especially at the images, captions, and statistics provided.
-
-
-## Week 12: Apr 5--9:
-
-
-## Week 13 Apr 12--16:
-
-
-## Week 14: Apr 19--23: Text
-- Lara Putnam, “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They CastThe Transnational and the Text-Searchable.” _The American Historical Review_ 121, no. 2 (April 1, 2016): 377–402.
+## Week 10: Mar 22--27: Text
+- Lara Putnam, “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” _The American Historical Review_ 121.2 (2016): 377–402.
 - Hannah Alpert-Abrams, [Transcribing Multilingual Documents in the Digital Age](https://recoveryprojectappblog.wordpress.com/2017/12/15/transcribing-multilingual-documents-in-the-digital-age/)
 - Laura Spinney, [History as a giant data set: how analysing the past could help save the future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
 
@@ -143,6 +123,32 @@ UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "pr
 - [Library of Congress transcription project](https://crowd.loc.gov/)
 - [Citizen Archivist](https://www.archives.gov/citizen-archivist): A set of transcription projects organized by the National Archives
 - [Smithsonian Digital Volunteers](https://transcription.si.edu/): LOTS of great projects to contribute to, based on archives of the Smithsonian Institution. You can browse all projects by name or by theme.
+
+
+
+## Week 11: Mar 29--Apr 2: Everyday algorithms
+- Michele Willson, “Algorithms (and the) Everyday.” _Information, Communication & Society_ 20.1 (2017): 137–50.
+- John Danaher, ‘The Threat of Algocracy: Reality, Resistance and Accommodation’, _Philosophy & Technology_, 29.3 (2016): 245–68.
+- Christian Sandvig, "[Seeing the Sort: The Aesthetic and Industrial Defense of “The Algorithm”](http://median.newmediacaucus.org/art-infrastructures-information/seeing-the-sort-the-aesthetic-and-industrial-defense-of-the-algorithm/)".
+
+
+
+## Week 12: Apr 5--9:
+- [Color film was built for white people. Here's what it did to dark skin.](https://www.youtube.com/watch?v=d16LNHIEJzs&feature=emb_logo&ab_channel=Vox)
+- Tonia Sutherland, “The Carceral Archive: Documentary Records, Narrative Construction, and Predictive Risk Assessment.” _Journal of Cultural Analytics_, June 4, 2019.
+- Eubanks, V. The digital poorhouse. _Harper’s Magazine_ (Jan 2018).
+- Angwin, Larson, Mattu, and Kircher, [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). Look especially at the images, captions, and statistics provided.
+
+
+## Week 13 Apr 12--16: Dataveillance
+- Jose van Dijck, ‘Datafication, Dataism and Dataveillance: Big Data between Scientific Paradigm and Ideology’, _Surveillance & Society_, 12.2 (2014): 197–208.
+- Holger Pötzsch, ‘Archives and Identity in the Context of Social Media and Algorithmic Analytics: Towards an Understanding of _iArchive_ and Predictive Retention’, _New Media & Society_, 20.9 (2018), 3304–22.
+- Frank Pasquale, [Digital star chamber](https://aeon.co/essays/judge-jury-and-executioner-the-unaccountable-algorithm), _Aeon_.
+
+
+## Week 14: Apr 19--23: Representation
+- Maharawal, Manissa M., and Erin McElroy, ‘The Anti-Eviction Mapping Project: Counter Mapping and Oral History toward Bay Area Housing Justice’, Annals of the American Association of Geographers, 108.2 (2018): 380–89.
+- Presner, Todd, "The Ethics of the Algorithm: Close and Distant Listening to the Shoah Foundation Visual History Archive", in _Probing the Ethics of Holocaust Culture_, ed. by Claudio Fogu (Harvard University Press, 2016), 167–202.
 
 
 ## Week 15: May 26--30:
