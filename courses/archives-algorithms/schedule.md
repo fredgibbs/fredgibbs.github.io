@@ -25,7 +25,7 @@ UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "pr
 
 
 ### Introducing Archives
-- [What is an archives?](http://www.archivists.org/archivesmonth/2007WhatIsAnArchives.pdf)
+- Elizabeth Yale, ‘The History of Archives: The State of the Discipline’, _Book History_ 18 (2015): 332–59.
 - Trevor Owens, [What Do you Mean by Archive? Genres of Usage for Digital Preservers](https://blogs.loc.gov/thesignal/2014/02/what-do-you-mean-by-archive-genres-of-usage-for-digital-preservers/)
 
 
