@@ -43,7 +43,6 @@ UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "pr
 
 
 
-
 ## Week 4: Feb 8--12: Silence
 - Rodney G. S. Carter, “Of Things Said and Unsaid: Power, Archival Silences, and Power in Silence” _Archivaria_, September 25, 2006, 215–33.
 - Saidiya Hartman, "Venus in Two Acts." _Small Axe_ 12.2 (2008): 1-14.
@@ -52,8 +51,8 @@ UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "pr
 
 ## Week 5: Feb 15--19: Classification
 - Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 4, 2015): 677–702.
-- Melissa Adler and Lindsey M. Harper, “_Race and Ethnicity in Classification Systems: Teaching Knowledge Organization from a Social Justice Perspective_,” Library Trends 67.1 (2018): 52–73.
-- Guiliano, Jennifer, and Carolyn Heitman. “Difficult Heritage and the Complexities of Indigenous Data.” _Journal of Cultural Analytics_, 2019.
+- Melissa Adler and Lindsey M. Harper, “Race and Ethnicity in Classification Systems: Teaching Knowledge Organization from a Social Justice Perspective”, _Library Trends_ 67.1 (2018): 52–73.
+- Jennifer Guiliano and Carolyn Heitman, “Difficult Heritage and the Complexities of Indigenous Data,” _Journal of Cultural Analytics_ (2019).
 
 
 
