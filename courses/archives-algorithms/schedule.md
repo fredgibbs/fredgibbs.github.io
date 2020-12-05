@@ -45,9 +45,8 @@ UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "pr
 
 
 ## Week 4: Feb 8--12: Silence
-- Rodney G. S. Carter, “Of Things Said and Unsaid: Power, Archival Silences, and Power in Silence.” _Archivaria_, September 25, 2006, 215–33.
-- Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings,” American Literature 85, no. 4 (January 1, 2013): 661–88.
-
+- Rodney G. S. Carter, “Of Things Said and Unsaid: Power, Archival Silences, and Power in Silence” _Archivaria_, September 25, 2006, 215–33.
+- Saidiya Hartman, "Venus in Two Acts." _Small Axe_ 12.2 (2008): 1-14.
 
 
 
@@ -108,8 +107,8 @@ UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "pr
 
 
 ## Week 10: Mar 22--27: Text
+- Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings”, _American Literature_ 85.4 (2013): 661–88.
 - Lara Putnam, “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” _The American Historical Review_ 121.2 (2016): 377–402.
-- Hannah Alpert-Abrams, [Transcribing Multilingual Documents in the Digital Age](https://recoveryprojectappblog.wordpress.com/2017/12/15/transcribing-multilingual-documents-in-the-digital-age/)
 - Laura Spinney, [History as a giant data set: how analysing the past could help save the future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
 
 - Review the [assignment guidelines](transcription-guidelines).
@@ -147,8 +146,8 @@ UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "pr
 
 
 ## Week 14: Apr 19--23: Representation
-- Maharawal, Manissa M., and Erin McElroy, ‘The Anti-Eviction Mapping Project: Counter Mapping and Oral History toward Bay Area Housing Justice’, Annals of the American Association of Geographers, 108.2 (2018): 380–89.
-- Presner, Todd, "The Ethics of the Algorithm: Close and Distant Listening to the Shoah Foundation Visual History Archive", in _Probing the Ethics of Holocaust Culture_, ed. by Claudio Fogu (Harvard University Press, 2016), 167–202.
+- Manissa M. Maharawal and Erin McElroy, "The Anti-Eviction Mapping Project: Counter Mapping and Oral History toward Bay Area Housing Justice", _Annals of the American Association of Geographers_, 108.2 (2018): 380–89.
+- Todd Presner, "The Ethics of the Algorithm: Close and Distant Listening to the Shoah Foundation Visual History Archive", in _Probing the Ethics of Holocaust Culture_, ed. by Claudio Fogu (Harvard University Press, 2016), 167–202.
 
 
 ## Week 15: May 26--30:
