@@ -12,7 +12,8 @@ UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "pr
 
 11/30: This is meant to give you a rough idea of what we're doing, but there are still many topics not yet represented here, and probably there is more listed in this draft version that will make the final cut.
 
-12/6: This pretty close to the final reading selections. I'll be developing and posting the assignments here as well. The hope is that they are more creative than regurgitative exercises.
+12/6: This pretty close to the final reading selections. I'll be developing and posting the assignments here over the next few weeks. I intend for them to be more creative than regurgitative exercises.
+
 
 ## Week 1: Jan 18--22
 
