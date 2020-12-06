@@ -8,8 +8,11 @@ section: schedule
 ---
 
 # Schedule of Readings & Assignments
-UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "progress" (more of a wandering back and forth than a directional march). This is meant to give you a rough idea of what we're doing, but there are still many topics not yet represented here, and probably there is more listed in this draft version that will make the final cut.
+UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "progress" (more of a wandering back and forth than a directional march).
 
+11/30: This is meant to give you a rough idea of what we're doing, but there are still many topics not yet represented here, and probably there is more listed in this draft version that will make the final cut.
+
+12/6: This pretty close to the final reading selections. I'll be developing and posting the assignments here as well. The hope is that they are more creative than regurgitative exercises.
 
 ## Week 1: Jan 18--22
 
@@ -26,8 +29,7 @@ UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "pr
 
 ### Introducing Archives
 - Elizabeth Yale, ‘The History of Archives: The State of the Discipline’, _Book History_ 18 (2015): 332–59.
-- Trevor Owens, [What Do you Mean by Archive? Genres of Usage for Digital Preservers](https://blogs.loc.gov/thesignal/2014/02/what-do-you-mean-by-archive-genres-of-usage-for-digital-preservers/)
-
+- Trevor Owens, [What Do you Mean by Archive? Genres of Usage for Digital Preservers](https://blogs.loc.gov/thesignal/2014/02/what-do-you-mean-by-archive-genres-of-usage-for-digital-preservers/).
 
 
 
@@ -98,14 +100,11 @@ UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "pr
 
 
 
-
-
 ## Week 9: Mar 15--19: NOTHING: Enjoy Spring Break!!!
 
 
 
-
-## Week 10: Mar 22--27: Text
+## Week 10: Mar 22--27: Algorithmic Texts
 - Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings”, _American Literature_ 85.4 (2013): 661–88.
 - Lara Putnam, “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” _The American Historical Review_ 121.2 (2016): 377–402.
 - Laura Spinney, [History as a giant data set: how analysing the past could help save the future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
@@ -125,28 +124,26 @@ UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "pr
 
 
 ## Week 11: Mar 29--Apr 2: Everyday algorithms
+- Virgina Eubanks, "The digital poorhouse", _Harper’s Magazine_ (Jan 2018).
 - Michele Willson, “Algorithms (and the) Everyday.” _Information, Communication & Society_ 20.1 (2017): 137–50.
 - John Danaher, ‘The Threat of Algocracy: Reality, Resistance and Accommodation’, _Philosophy & Technology_, 29.3 (2016): 245–68.
-- Christian Sandvig, "[Seeing the Sort: The Aesthetic and Industrial Defense of “The Algorithm”](http://median.newmediacaucus.org/art-infrastructures-information/seeing-the-sort-the-aesthetic-and-industrial-defense-of-the-algorithm/)".
 
 
-
-## Week 12: Apr 5--9:
-- [Color film was built for white people. Here's what it did to dark skin.](https://www.youtube.com/watch?v=d16LNHIEJzs&feature=emb_logo&ab_channel=Vox)
+## Week 12: Apr 5--9: Carceral Archives and Algorithms
+- [Color film was built for white people. Here's what it did to dark skin.](https://www.youtube.com/watch?v=d16LNHIEJzs&feature=emb_logo&ab_channel=Vox).
 - Tonia Sutherland, “The Carceral Archive: Documentary Records, Narrative Construction, and Predictive Risk Assessment.” _Journal of Cultural Analytics_, June 4, 2019.
-- Eubanks, V. The digital poorhouse. _Harper’s Magazine_ (Jan 2018).
 - Angwin, Larson, Mattu, and Kircher, [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). Look especially at the images, captions, and statistics provided.
 
 
 ## Week 13 Apr 12--16: Dataveillance
-- Jose van Dijck, ‘Datafication, Dataism and Dataveillance: Big Data between Scientific Paradigm and Ideology’, _Surveillance & Society_, 12.2 (2014): 197–208.
-- Holger Pötzsch, ‘Archives and Identity in the Context of Social Media and Algorithmic Analytics: Towards an Understanding of _iArchive_ and Predictive Retention’, _New Media & Society_, 20.9 (2018), 3304–22.
+- Jose van Dijck, "Datafication, Dataism and Dataveillance: Big Data between Scientific Paradigm and Ideology’, _Surveillance & Society_ 12.2 (2014): 197--208.
+- Holger Pötzsch, "Archives and Identity in the Context of Social Media and Algorithmic Analytics: Towards an Understanding of _iArchive_ and Predictive Retention", _New Media & Society_ 20.9 (2018), 3304--22.
 - Frank Pasquale, [Digital star chamber](https://aeon.co/essays/judge-jury-and-executioner-the-unaccountable-algorithm), _Aeon_.
 
 
 ## Week 14: Apr 19--23: Representation
-- Manissa M. Maharawal and Erin McElroy, "The Anti-Eviction Mapping Project: Counter Mapping and Oral History toward Bay Area Housing Justice", _Annals of the American Association of Geographers_, 108.2 (2018): 380–89.
-- Todd Presner, "The Ethics of the Algorithm: Close and Distant Listening to the Shoah Foundation Visual History Archive", in _Probing the Ethics of Holocaust Culture_, ed. by Claudio Fogu (Harvard University Press, 2016), 167–202.
+- Manissa M. Maharawal and Erin McElroy, "The Anti-Eviction Mapping Project: Counter Mapping and Oral History toward Bay Area Housing Justice", _Annals of the American Association of Geographers_, 108.2 (2018): 380--89.
+- Todd Presner, "The Ethics of the Algorithm: Close and Distant Listening to the Shoah Foundation Visual History Archive", in _Probing the Ethics of Holocaust Culture_, ed. by Claudio Fogu (Harvard University Press, 2016), 167--202.
 
 
 ## Week 15: May 26--30:
