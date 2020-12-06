@@ -26,10 +26,9 @@ All data is an archive. While the idea of an archive has been typically used to 
 
 
 ## Work Requirements and Grading
-- [Reading responses](response-guidelines) (0-3 points each).
+- [Reading responses](response-guidelines) (0-3 points each)
 - [Transcription Assignment](transcription-guidelines) (10 points)
 - [Geo-referencing exercise](georeferencing-guidelines) (10 points)
-- [Spatial History Project](unm-spatial-history-guidelines) (20 points)
 - [Data Interface Critique](data-interface-critique) (10 points)
 
 
