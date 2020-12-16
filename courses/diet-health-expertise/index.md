@@ -106,7 +106,7 @@ Depending on how the course unfolds, the final number of points may ( = will alm
 
 Percent | Grade
 --- | ---
-94+ | A
+95+ | A
 90-94 | A-
 87-89 | B+
 83-86 | B
