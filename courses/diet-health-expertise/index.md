@@ -104,7 +104,7 @@ The little equations after the assignment type indicates `number of assignments`
 ### Grade Distribution (~250 points)
 Depending on how the course unfolds, the final number of points may ( = will almost certainly) change slightly. But the percent grading scale will remain basically the same, unless it becomes easier to get a higher grade. I try to minimize grade scale changes, but sometimes they are necessary and they always work to your advantage.
 
-Percent | Grade
+Percent | Grade 
 --- | ---
 95+ | A
 90-94 | A-
