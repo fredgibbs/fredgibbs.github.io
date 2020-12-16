@@ -10,19 +10,34 @@ section: home
 # Archives + Algorithms
 
 ## Logistics
-- Remote asynchronous
+- Remote asynchronous; everything (except this syllabus) on UNM Learn
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
 
 
 ## Course Description
-All data is an archive. While the idea of an archive has been typically used to refer to collections of historic documents, we can now think of all corporate and consumer data (smartphone use, search history, surveillance footage, fitbit stats, medical records, and even everything on the web) as an impossibly detailed archive of human activity. Who controls different facets of this archive? What kind of algorithms govern access to this information? How does systemic racism and bias creep into supposedly objective retrieval functions? How can the long history of the archive, and its many problems with selection bias, preservation, and access help us understand the future of data and its (mis)uses?
+All data is an archive. While the idea of an archive has been typically used to refer to collections of historic documents, we can now think of all corporate and consumer data (smartphone use, search history, surveillance footage, fitbit stats, medical records, and even everything on the web) as an impossibly detailed archive of human activity. Yet this raises important questions: Who controls different facets of this archive? Who can access it? How is this data archive increasingly managed and understood by algorithms? How does systemic racism and bias creep into supposedly objective retrieval functions? How can the long history of the archive, and its many problems with selection bias, preservation, and access help us understand the future of data and its (mis)uses?
 
 
 ## Student Learning Outcomes
+- Recognize the cultural shifts in the history of the archive
+- Examine the impact of the digitization of cultural heritage and how digital archives reshape the past and present
 - Think critically about how algorithms shape our access to and interpretations of information
-- Map how the history of the archive onto the future of data
 - Identify cultural and algorithmic biases that show up in everyday processes
-- Examine the impact of the digitization of cultural heritage and how digital archives reshape our access to the past
+- Map the history of the archive onto the future of data
+
+
+
+## Experimental caveat
+This is an experimental class that eschews the typical course narrative for a more exploratory adventure. This class, therefore, is not for anyone looking for a standard linear, information-delivery kind of course. There's nothing at all wrong with those, but this just isn't one of them. As you can see from the [schedule page](schedule), we spend roughly the first half of the course investigating the history of the archive and how it's been rapidly transformed in the last 20 years. Then, we spend roughly the second half of the course reading about the invisible algorithms at work in modern society and theorizing about how the history of the archives might give us some insight into the future of a data- and algorithmic-driven world.
+
+Assignments will tend to be speculative and creative exercises that allow you to apply the readings to a particular problem or question rather than just summarize or restate information. Some of these will be really fun and others won't because, as I mentioned, this class is experimental and successful experimentation involves failure!
+
+
+## You are welcome here
+This course is probably very unlike most history/humanities courses you've taken. But I want to be VERY CLEAR: Even if you have never thought about archives or algorithms (much less how they are related), or have never taken a history or humanities course, YOU ARE WELCOME HERE! This course assumes you know NOTHING about either archives or algorithms, and introduces and explores each of them as important lenses onto the world.
+
+I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. As much as possible I've tried to make the course about everyone thinking together rather than just you memorizing something I say or you read so that you can regurgitate it later. If you feel the course structure isn't facilitating your own success, let's talk (virtually, of course).
+
 
 
 ## Work Requirements and Grading
@@ -37,7 +52,7 @@ All data is an archive. While the idea of an archive has been typically used to 
 Percent | Grade
 --- | ---
 94+ | A
-90-94 | A-
+90-93 | A-
 87-89 | B+
 83-86 | B
 80-82 | B-
@@ -64,7 +79,6 @@ The American with Disabilities Act (ADA) is a federal anti-discrimination statut
 
 ## Academic Misconduct
 You should be familiar with [UNM’s Policy on Academic Dishonesty and the Student Code of Conduct](http://pathfinder.unm.edu/policies.htm#studentcode) which outline academic misconduct defined as plagiarism, cheating, fabrication, or facilitating any such act.
-
 
 ## Citizenship and/or Immigration Status
 All students are welcome in this class regardless of citizenship, residency, or immigration status.  I will respect your privacy if you choose to disclose your status. UNM as an institution has made a core commitment to the success of all our students, including members of our undocumented community.  The Administration’s welcome is found on our website: http://undocumented.unm.edu/.
