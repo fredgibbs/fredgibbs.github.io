@@ -10,8 +10,10 @@ section: home
 # Archives + Algorithms
 
 ## Logistics
-- Remote asynchronous; everything (except this syllabus) on UNM Learn
-- Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
+- Remote Arranged (fully online, no scheduled meetings); everything (except this syllabus) on UNM Learn
+- 3 Credit Hours
+- Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
+- No set student hours, but always happy to Zoom chat
 
 
 ## Course Description

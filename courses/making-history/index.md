@@ -19,9 +19,10 @@ section: home
 ## Course Description
 What does it mean to “make history”? On one hand, to do something worth recording. On the other, the act of memorializing. This course examines how we interact with history everyday, through social media, Wikipedia, film, books, public spaces, monuments, historic buildings, art, and so on. Where is it visible? Invisible? What difference does it make?
 
-It also addresses various meta-questions about history: What is history? What is it for? Who is it for? This entirely online and asynchronous course consists of short lectures, reading assignments, quizzes, and short essays that helps students learn robust research skills, analytical techniques, and ways of using evidence to make arguments.
+The core philosophy underlying the course is that historical perspective is essential for the educated citizen. We consider the difference between history and memory, how history has been used in the past to manipulate public memory, and how the study of history has been at the center of recent culture wars.
 
-The core philosophy underlying the course is that historical perspective is essential for the educated citizen. Students will consider the difference between history and memory, how history has been used in the past to manipulate public memory, and how the study of history has been at the center of recent culture wars.
+We will also explore various meta-questions about history: What is history? What is it for? Who is it for? This entirely online and asynchronous course consists of short lectures, reading assignments, quizzes, and short essays that helps students learn robust research skills, analytical techniques, and ways of using evidence to make arguments.
+
 
 
 ## Student Learning Outcomes (SLOs)
@@ -45,7 +46,7 @@ Through readings, lectures, discussions, examinations, and writing assignments, 
 Percent | Grade
 --- | ---
 94+ | A
-90-94 | A-
+90-93 | A-
 87-89 | B+
 83-86 | B
 80-82 | B-

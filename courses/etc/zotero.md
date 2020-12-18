@@ -28,20 +28,20 @@ Click on the "Groups" tab or nav bar link. Once you're on the [groups page](http
 If you don't see a red "Join" button, it's because you registered for the class after I sent out the invitations to join the group library or you are logged in with a non-UNM email address. Either way, skip to the "I didn't get an invitation" section below.
 
 ## Step 4: Click the red "Join" button
-Click the red "Join" button off to the right. Nothing really changes on the webpage, but that's fine.  
+Click the red "Join" button off to the right. Nothing really changes on the webpage, but it still worked.
 
 ## Step 5: Verify you can see the course library online
 Click again on the "Groups" tab, and you should now be able to see the course library and all the readings for the semester. When you click one of these, you'll go to a metadata page with a link to a PDF of the reading at the bottom. If you can open a PDF this way, everything is working.
 
-NOTE: If you are using the New Beta version of zotero.org, then you'll want to look for the "attachments" tab on the right after you select an item.
+NOTE: If you are using the Beta version of zotero.org, then you'll want to look for the "attachments" tab on the right after you select an item.
 
 ---
 
 
 ## I didn't get an invitation
 - Go to zotero.org and make sure you're logged in. You can verify this by looking for a "Log Out" link in the upper right corner of the page.
-- Go to the group library page at [https://www.zotero.org/groups/642043/diet-health-expertise-unm](https://www.zotero.org/groups/642043/diet-health-expertise-unm)
-- Click the red "Join" button off to the right, which will send an email to me and I'll approve your request to join the group as soon as I see it.
+- Go to the group library page as specified on the homepage of your course syllabus.
+- Click the red "Join" button off to the right, which will send an email to me and as soon as I see it I'll approve your request to join the group.
 
 ---
 
