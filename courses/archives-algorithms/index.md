@@ -72,7 +72,9 @@ I heartily encouraged you to speak with me at any time about how I think you're 
 ## Readings
 There are NO REQUIRED BOOKS for this course. But you will need to subscribe to the course Zotero library to access assigned articles. This will be discussed in class, but for reference, please see the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html).
 
-To join the library, create an account at Zotero.org using your UNM email address, then click the URL for the group library [https://www.zotero.org/groups/2667261/archives-algorithms)](https://www.zotero.org/groups/2667261/archives-algorithms). Click the red Join button.
+Our `Zotero Group homepage` is [https://www.zotero.org/groups/2667261/archives-algorithms)](https://www.zotero.org/groups/2667261/archives-algorithms).
+
+Our `Zotero Library page` is [https://www.zotero.org/groups/2667261/archives-algorithms/library](https://www.zotero.org/groups/2667261/archives-algorithms/library).
 
 
 ## Writing Help

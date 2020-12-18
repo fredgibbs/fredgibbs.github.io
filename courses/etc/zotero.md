@@ -40,7 +40,7 @@ NOTE: If you are using the Beta version of zotero.org, then you'll want to look 
 
 ## I didn't get an invitation
 - Go to zotero.org and make sure you're logged in. You can verify this by looking for a "Log Out" link in the upper right corner of the page.
-- Go to the group library page as specified on the homepage of your course syllabus.
+- Go to the `Zotero Group homepage` as specified on the homepage of your course syllabus.
 - Click the red "Join" button off to the right, which will send an email to me and as soon as I see it I'll approve your request to join the group.
 
 ---
