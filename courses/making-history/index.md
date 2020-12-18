@@ -62,7 +62,6 @@ Percent | Grade
 I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how you can improve your performance (if at all). If life gets overwhelming during the course (as it easily can these days), it can be tempting to drift away from an elective course like this. Rather than disappear, let's work something out to accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
 
 ## Readings
-- [Zotero Library](https://www.zotero.org/groups/2667261/archives-algorithms)
 - Sarah Maza, _Thinking About History_ (University of Chicago Press, 2017)
 - Raj Patel and Jason W. Moore, _A History of the World in Seven Cheap Things_ (University of California Press, 2018) [online](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=4820021)
 - Jeremy D. Popkin, _From Herodotus to H-Net, 2nd ed._ (Oxford University Press, 2021)
