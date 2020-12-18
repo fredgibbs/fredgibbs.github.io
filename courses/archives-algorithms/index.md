@@ -70,7 +70,9 @@ Percent | Grade
 I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how you can improve your performance (if at all). If life gets overwhelming during the course (as it easily can these days), it can be tempting to drift away from an elective course like this. Rather than disappear, let's work something out to accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
 
 ## Readings
-There are NO REQUIRED BOOKS for this course. But you will need to subscribe to the course Zotero library to access assigned articles. This will be discussed in class, but for reference, please see the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library is [https://www.zotero.org/groups/2667261/archives-algorithms)](https://www.zotero.org/groups/2667261/archives-algorithms).
+There are NO REQUIRED BOOKS for this course. But you will need to subscribe to the course Zotero library to access assigned articles. This will be discussed in class, but for reference, please see the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html).
+
+To join the library, create an account at Zotero.org using your UNM email address, then click the URL for the group library [https://www.zotero.org/groups/2667261/archives-algorithms)](https://www.zotero.org/groups/2667261/archives-algorithms). Click the red Join button.
 
 
 ## Writing Help
