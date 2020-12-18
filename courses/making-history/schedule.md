@@ -7,7 +7,7 @@ term: Spring 2021
 section: home
 ---
 
-# Schedule of Readings & Assignments
+# HIST 1105: Readings & Assignments
 
 Everything you need to turn in is listed in a red box. Many weeks have short reading reflections due on specified days to keep everyone moving along together and space out the work. But I am also aware that stuff happens and takes up valuable time unexpectedly. As long as you are USUALLY meeting the deadlines, you can submit work up to TWO DAYS after the due date for full credit if the need arises. But this leeway should be used only as a last resort to deal with unusual circumstances.
 
@@ -23,6 +23,7 @@ Everything you need to turn in is listed in a red box. Many weeks have short rea
 {% include alert.html class='danger' title='Do this ASAP' text="
 Before you start doing any reading or assignments for the course, follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero), and make sure you can access the required course readings there. We use this library throughout the semester---and occasionally I add stuff to this during the semester that we'll use for an assignment---so don't be foolish enough to think you can get by without it (although you can if you don't care about your grade).
 "%}
+
 
 ### Understanding History and its uses
 - Alice Dreger, [What is History?](http://alicedreger.com/what_is_history).
@@ -46,7 +47,7 @@ No new readings for today, but you might start reading the Popkin chapters for t
 {% include alert.html class='danger' title='Introductory Connections' text="
 We're going to make a thread of relatively short introductory posts that answer two questions: what have been your MOST interesting AND LEAST interesting experiences with history---AND WHY? It might be a particular class you've taken, one set of readings for a class, some engaging lectures, a book you couldn't put down, a terrible movie, a history podcast, a trip to a historical place, whatever. Just make sure it describes your experience with history in some way.
 
-GIMICK ALERT: To make everything a bit more connected and fun to read through, I'm going to start a thread on the Learn Discussion Board, and everyone is going to reply to the person who posted immediately before them. You don't need to respond directly or in depth to what the person says, but try your best to connect your post to the last one you can see in the thread. The post you will respond to will probably mention a historical topic or period that you're familiar with (or really dislike), or have been meaning to learn more about, and you can use that as your connection. You and your connection might like totally different topics for the same reason or the same topic for very different reasons. If the post is super short and vague (I love everything about history!), you can still find a way to respond (like, I definitely don't like everything about history because I'm not at all interested in history of great battles. Instead I prefer ...). You get the idea. 3 possible points. 
+GIMICK ALERT: To make everything a bit more connected and fun to read through, I'm going to start a thread on the Learn Discussion Board, and everyone is going to reply to the person who posted immediately before them. You don't need to respond directly or in depth to what the person says, but try your best to connect your post to the last one you can see in the thread. The post you will respond to will probably mention a historical topic or period that you're familiar with (or really dislike), or have been meaning to learn more about, and you can use that as your connection. You and your connection might like totally different topics for the same reason or the same topic for very different reasons. If the post is super short and vague (I love everything about history!), you can still find a way to respond (like, I definitely don't like everything about history because I'm not at all interested in history of great battles. Instead I prefer ...). You get the idea. 3 possible points.
 "%}
 
 ### Wednesday
