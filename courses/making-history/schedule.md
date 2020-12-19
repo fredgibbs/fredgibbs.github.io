@@ -9,52 +9,73 @@ section: home
 
 # HIST 1105: Readings & Assignments
 
-Everything you need to turn in is listed in a red box. Many weeks have short reading reflections due on specified days to keep everyone moving along together and space out the work. But I am also aware that stuff happens and takes up valuable time unexpectedly. As long as you are USUALLY meeting the deadlines, you can submit work up to TWO DAYS after the due date for full credit if the need arises. But this leeway should be used only as a last resort to deal with unusual circumstances.
+### A note about deadlines
+Everything you need to turn in is listed in a red box. Many weeks have short reading reflections due on specified days to keep everyone moving along together and space out the work. But I am also aware that sh!t happens and takes up valuable time unexpectedly. As long as you are USUALLY meeting the deadlines, you can submit work up to TWO DAYS after the due date for full credit if the need arises. But this leeway should be used only as a last resort to deal with unusual circumstances. Unless you've made arrangements with me (and please do!), work more than 2 days late will be scored a 0.
 
 
-## Week 1: Jan 18--22
+## Week 1 (Jan 18--22): Introductions
 
-### Syllabus, Expectations, Tools
-
-### Monday
-- Welcome lecture and lecture/syllabus quiz
+### Monday: Syllabus, Expectations, Tools
+- Welcome address and lecture/syllabus quiz
 - Introduction to [Zotero](http://zotero.org)
 
 {% include alert.html class='danger' title='Do this ASAP' text="
-Before you start doing any reading or assignments for the course, follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero), and make sure you can access the required course readings there. We use this library throughout the semester---and occasionally I add stuff to this during the semester that we'll use for an assignment---so don't be foolish enough to think you can get by without it (although you can if you don't care about your grade).
+Before you start doing any reading or assignments for the course, follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero), and make sure you can access the required course readings there. We use this library throughout the semester---and occasionally I add stuff to this during the semester that we'll use for an assignment---so don't be foolish enough to think you can get by without it.
 "%}
 
 
 ### Understanding History and its uses
 - Alice Dreger, [What is History?](http://alicedreger.com/what_is_history).
-The significance of the anecdote offered at the beginning of this piece is not explicitly stated, although it should be. The point here is that every time we ask WHY? about anything, we can focus on immediate practical implications (physics), or much larger structural, historical explanations. They are both important precisely because they provide different kinds of answers. Those who can move fluidly between these ways of understanding will be more astute problem solvers.
+The significance of the anecdote offered at the beginning of this piece is not explicitly stated, although it should be. The point here is that every time we ask WHY? about anything, we can focus on immediate practical implications (physics), or much larger structural, social explanations (history). They are both important because they provide different kinds of answers. Those who can move fluidly between these ways of thinking and understanding will be more astute problem solvers in any career.
 
 - Peter Sterns, [Why Study History](https://www.historians.org/about-aha-and-membership/aha-history-and-archives/historical-archives/why-study-history-(1998\)).
 
 - Popkin, Chapter 1: What is Historiography?, 15--25.
 This chapter outlines some interesting reasons for studying history and briefly explains different _kinds_ of history. The books makes a well-intentioned effort to not be exclusively Western, but it really is, and so the few brief non-Western sections here seem a bit forced. Don't skip them, but don't worry about the details.
 
-{% include alert.html class='danger' title='Self reflection' text="
-Drawing from the set of readings for this introductory week: What reasons for studying history have appealed to you (even if you didn't think explicitly about them until now)?
+{% include alert.html class='danger' title='Introductory Connections' text="
+Drawing from the set of readings for this introductory week, and as a way of getting to know each other just a little bit, answer the following : What kinds of history to you find interesting? What reasons for studying history have appealed to you (even if you didn't think explicitly about them until now)?
+
+GIMICK ALERT: Just for fun (apologies if this ends up being stupid), we're going to try to connect all our responses together. I'm going to start a thread on the Learn Discussion Board, and everyone is going to reply to the person who posted immediately before them. You don't need to respond directly or in depth to what the person says, but try your best to connect your post to the last one you can see in the thread. The post you will respond to will probably mention a historical topic or period that you're familiar with (or really dislike), or have been meaning to learn more about (or intend to avoid), and you can use that as your connection. You and your connection might like totally different topics for the same reason or the same topic for very different reasons.
+
+Standard reflection length (~200--250 words); 3 possible points for taking it seriously.
 "%}
 
 
 ## Week 2: Jan 25--29
+To understand more about what history is and what it is for, it is VERY useful to have a sense of how historical methods, goals, and writing has changed over time. That's what our first book is about. It's a very high-level overview that helps keep the big picture in focus. Short lectures and reading guides will complement the text with additional details and historic examples.
+
+{% include alert.html class='warning' title='Due this week' text="
+As we get up to speed, you have very straightforward (if a bit dull) slate of work for this week:
+- MONDAY: lecture quiz
+- WEDNESDAY: reading reflection
+- FRIDAY: reading reflection
+"%}
+
 
 ### Monday
-No new readings for today, but you might start reading the Popkin chapters for this week.
+- No specific readings for today, but you might start reading the Popkin chapters for this week.
+- History of history LECTURE and QUIZ.
 
-{% include alert.html class='danger' title='Introductory Connections' text="
-We're going to make a thread of relatively short introductory posts that answer two questions: what have been your MOST interesting AND LEAST interesting experiences with history---AND WHY? It might be a particular class you've taken, one set of readings for a class, some engaging lectures, a book you couldn't put down, a terrible movie, a history podcast, a trip to a historical place, whatever. Just make sure it describes your experience with history in some way.
-
-GIMICK ALERT: To make everything a bit more connected and fun to read through, I'm going to start a thread on the Learn Discussion Board, and everyone is going to reply to the person who posted immediately before them. You don't need to respond directly or in depth to what the person says, but try your best to connect your post to the last one you can see in the thread. The post you will respond to will probably mention a historical topic or period that you're familiar with (or really dislike), or have been meaning to learn more about, and you can use that as your connection. You and your connection might like totally different topics for the same reason or the same topic for very different reasons. If the post is super short and vague (I love everything about history!), you can still find a way to respond (like, I definitely don't like everything about history because I'm not at all interested in history of great battles. Instead I prefer ...). You get the idea. 3 possible points.
-"%}
 
 ### Wednesday
 - Popkin, Chapter 2: History in Ancient and Medieval Times, 26--48.
 
+{% include alert.html class='danger' title='Reading reflection' text="
+- How would you describe the differences between Herodotus and Thucydides?
+- What were Roman historians trying to accomplish?
+- How did Judiasm and Christianity challenge the kinds of history writing done to that point?
+- How would you characterize histories written during later Middle Ages?
+"%}
+
+
 ### Friday
 - Popkin, Chapter 3: The Historiographical Revolution of Early Modern Europe, 49--70.
+
+{% include alert.html class='danger' title='Reading reflection' text="
+- How did Renaissance humanism impact historical methods and writing?
+"%}
+
 
 
 ## Week 3: Feb 1--5
