@@ -36,9 +36,9 @@ Through readings, lectures, discussions, examinations, and writing assignments, 
 
 
 ## Work Requirements and Grading
-- Discussion board posts on lectures and reading assignments (30%)
-- Various essay assignments (30%)
+- Short discussion board posts on lectures and reading assignments (30%)
 - Quizzes on lectures and reading assignments (20%)
+- Various longer essay assignments (30%)
 - Final Essay (20%)
 
 ### Grade Distribution
