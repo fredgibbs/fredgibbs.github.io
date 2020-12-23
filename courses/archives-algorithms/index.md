@@ -43,9 +43,9 @@ I will do everything I can do help you learn as much as you're motivated to lear
 
 
 ## Work Requirements and Grading
-- [Reading responses](response-guidelines) (0-3 points each)
+- [Reading responses](reading-responses) (0-3 points x 20)
+- [Learning journal](learning-journal) (10 points x 10)
 - [Transcription Assignment](transcription-guidelines) (10 points)
-- [Geo-referencing exercise](georeferencing-guidelines) (10 points)
 - [Data Interface Critique](data-interface-critique) (10 points)
 
 
@@ -72,9 +72,9 @@ I heartily encouraged you to speak with me at any time about how I think you're 
 ## Readings
 There are NO REQUIRED BOOKS for this course. But you will need to subscribe to the course Zotero library to access assigned articles. This will be discussed in class, but for reference, please see the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html).
 
-Our `Zotero Group homepage` is [https://www.zotero.org/groups/2667261/archives-algorithms)](https://www.zotero.org/groups/2667261/archives-algorithms).
+Our `Zotero Group homepage` is [https://www.zotero.org/groups/2667261/archives-algorithms](https://www.zotero.org/groups/2667261/archives-algorithms). This link is best for joining the course Zotero Group.
 
-Our `Zotero Library page` is [https://www.zotero.org/groups/2667261/archives-algorithms/library](https://www.zotero.org/groups/2667261/archives-algorithms/library).
+Our `Zotero Library page` is [https://www.zotero.org/groups/2667261/archives-algorithms/library](https://www.zotero.org/groups/2667261/archives-algorithms/library). This link is best for accessing our Zotero Library once you're already a member of our group.
 
 
 ## Writing Help
