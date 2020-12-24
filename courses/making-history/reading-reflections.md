@@ -9,7 +9,7 @@ number: HIST 300-007
 # HIST 1105: Reading Reflections
 
 ## Introduction
-You sometimes will need to turn in a short reading response for some reading assignments. The syllabus makes it very clear what you need to do and when. These encourage everyone to read carefully enough to absorb the main ideas of the readings and to stay on schedule. Especially for online courses, it's far too easy to put off (and ultimately skip) any work that doesn't have at least a short assignment connected to it.
+Sometimes you will need to turn in a short reading response for some reading assignments. The syllabus makes it very clear what you need to do and when. These encourage everyone to stay on schedule and to read carefully enough to absorb the main ideas of the readings. Especially for online courses, it's far too easy to put off (and ultimately skip) any work that doesn't have at least a short assignment connected to it.
 
 In general, these are meant to be somewhat creative exercises to get you to compare and contrast different aspects of the reading and to give you a chance to riff on what you thought was most interesting about them (we all find different things interesting!). Sometimes I just ask you to restate a main point or answer a specific question or two.
 
@@ -29,7 +29,7 @@ Whatever the prompt, there are two motivations for these reflections:
 To mix things up a little, we have different _kinds_ of reflections that we use from time to time. The kind of reflection you should post should be clearly indicated on the syllabus, or is obvious by whether there are questions to answer.
 
 ### Prompt Reflection
-These are probably the most common because they are the most straightforward (if a bit dull). If I have posted some questions on the syllabus, you should answer them. 
+These are probably the most common because they are the most straightforward (if a bit dull). If I have posted some questions on the syllabus, you should answer them.
 
 
 ### Creative Reflection
@@ -41,7 +41,7 @@ Provide a brief statement of what you found most interesting about the readings.
 
 
 ## Scoring and how these factor in your grade
-I score reading reflections according to the rubric below, using .5 point increments. For exceptional responses, which might be a bit longer and more insightful than a typical post, I give UP TO 1.5 points EXTRA CREDIT. This makes it easy to make up points you may have missed on a reflection that you didn't have time to do particularly well.
+I score reading reflections according to the rubric below, using .5 point increments. For exceptional responses, which might be a bit longer and more insightful than a typical post, I give .5 or 1 point EXTRA CREDIT. This makes it easy to make up points you may have missed on a reflection that you didn't have time to do particularly well.
 
 The idea here is that these reflections should in sum account for a significant but not large portion of your final grade without being unduly stressful to complete. And they should hold everyone accountable for keeping up with the reading and not falling behind.
 
