@@ -10,7 +10,7 @@ section: links-guides
 # HIST 300-007: Reading Responses
 
 ## Introduction
-You sometimes will need to turn in a short reading response for some reading assignments. The syllabus makes it very clear what you need to do and when. These encourage everyone to read carefully enough to absorb the main ideas of the readings and to stay on schedule. Especially for online courses, it's far too easy to put off (and ultimately skip) any work that doesn't have at least a short assignment connected to it.
+Sometimes you will need to turn in a short reading response for a reading assignment. The syllabus makes it very clear what you need to do and when. These encourage everyone to read carefully enough to absorb the main ideas of the readings and to stay on schedule. Especially for online courses, it's far too easy to put off (and ultimately skip) any work that doesn't have at least a short assignment connected to it.
 
 In general, these are meant to be somewhat creative exercises to get you to compare and contrast different aspects of the reading and to give you a chance to riff on what you thought was most interesting about them (we all find different things interesting!). Sometimes I just ask you to restate a main point or answer a specific question or two.
 
@@ -22,7 +22,7 @@ Whatever the prompt, there are two motivations for these reflections:
 ## Basics
 - **~200--250 words**: Write more or less as you need/want to per assignment, but don't be consistently too much above or below the target.
 - **Original thinking**: Avoid summarizing readings except to restate a point that you want to elaborate on.
-- **Specific**: General statements are good ONLY when supported by examples from the readings. Otherwise it looks like you didn't read very carefully.
+- **Specificity**: General statements are good ONLY when supported by examples from the readings. Otherwise it looks like you didn't read very carefully.
 - **Polished writing**: Don't try to sound like an academic, but your post shouldn't read like a text message, either. Overly informal posts will lower your grade by 1/3 to 2/3 grade (A to B+, for instance).
 - **Posted ON TIME at UNM Learn**: ON TIME means by MIDNIGHT on the due date. As explained on the main syllabus page, you can turn work in up to two days late for full credit, but that's it. After that, you will get a zero. I don't mean to sound draconian, but too much leeway with assignments creates too much temptation to let them slide, and then they aren't effective and serve only to create busywork.
 

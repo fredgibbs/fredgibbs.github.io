@@ -10,7 +10,7 @@ section: home
 # HIST 1105: Readings & Assignments
 
 ### A note about deadlines
-Everything you need to turn in is listed in a red box. Most weeks have short reading quizzes or reflections due on specified days to keep everyone moving along together and space out the work. But I am also aware that sh!t happens and takes up valuable time unexpectedly. If need be, you can submit work up to TWO DAYS after the due date for full credit if the need arises. But this leeway should be used only as a last resort in the wake of unusual circumstances. Unless you've made arrangements with me (and please do!), work more than 2 days late will be scored a 0.
+Everything you need to turn in is listed in a red box. Most weeks have short reading quizzes or reflections due on specified days to keep everyone moving along together and space out the work. But I am also aware that sh!t happens and takes up valuable time unexpectedly. If need be, you can submit work up to TWO DAYS after the due date for full credit if the need arises. But this leeway should be used only as a last resort in the wake of unusual circumstances. Experience has taught me that too many students let things slide until the last weeks of the semester, so unless you've made arrangements with me (and please do!), work more than 2 days late will be scored a 0.
 
 
 ## Week 1 (Jan 18--22): Introductions
@@ -31,7 +31,7 @@ The significance of the anecdote offered at the beginning of this piece is not e
 - Peter Sterns, [Why Study History](https://www.historians.org/about-aha-and-membership/aha-history-and-archives/historical-archives/why-study-history-(1998\)).
 
 - Popkin, Chapter 1: What is Historiography?, 15--25.
-This chapter outlines some interesting reasons for studying history and briefly explains different _kinds_ of history. The books makes a well-intentioned effort to not be exclusively Western, but it really is (as is this course), and so the few brief non-Western sections here can seem a bit forced. Don't skip them, but don't worry about the details.
+This chapter outlines some interesting reasons for studying history and briefly explains different _kinds_ of history. The books makes a well-intentioned effort not to be exclusively Western, but it really is (as is this course), and so the few brief non-Western sections here can seem a bit forced. Don't skip them, but don't worry about the details.
 
 {% include alert.html class='danger' title='Introductory Connections' text="
 Drawing from the set of readings for this introductory week, and as a way of getting to know each other just a little bit, answer the following: What kinds of history to you find interesting? What reasons for studying history have appealed to you (even if you didn't think explicitly about them until now)?
@@ -61,7 +61,7 @@ As we get up to speed, you have very straightforward (if a bit dull) slate of wo
 ### Wednesday
 - Popkin, Chapter 2: History in Ancient and Medieval Times, 26--48.
 
-{% include alert.html class='danger' title='Questions to think about' text="
+{% include alert.html class='warning' title='Questions to think about' text="
 - How would you describe the differences between Herodotus and Thucydides?
 - What were Roman historians trying to accomplish?
 - How did Judiasm and Christianity challenge the kinds of history writing done to that point?

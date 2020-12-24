@@ -21,6 +21,7 @@ Whatever the prompt, there are two motivations for these reflections:
 ## Basics
 - **~200--250 words**: Write more or less as you need/want to per assignment, but don't be consistently too much above or below the target.
 - **Original thinking**: Avoid summarizing readings except to restate a point that you want to elaborate on.
+- **Specificity**: General statements are good ONLY when supported by examples from the readings. Otherwise it looks like you didn't read very carefully.
 - **Polished writing**: Don't try to sound like an academic, but your post shouldn't read like a text message, either. Overly informal posts will lower your grade by 1/3 to 2/3 grade (A to B+, for instance).
 - **Posted ON TIME at UNM Learn**: ON TIME means by MIDNIGHT on the due date. As explained on the main syllabus page, you can turn work in up to two days late for full credit, but that's it. After that, you will get a zero. I don't mean to sound draconian, but too much leeway with assignments creates too much temptation to let them slide, and then they aren't effective and serve only to create busywork.
 
@@ -41,9 +42,11 @@ Provide a brief statement of what you found most interesting about the readings.
 
 
 ## Scoring and how these factor in your grade
-I score reading reflections according to the rubric below, using .5 point increments. For exceptional responses, which might be a bit longer and more insightful than a typical post, I give .5 or 1 point EXTRA CREDIT. This makes it easy to make up points you may have missed on a reflection that you didn't have time to do particularly well.
+I score reading reflections according to the rubric below, using .5 point increments.
 
-The idea here is that these reflections should in sum account for a significant but not large portion of your final grade without being unduly stressful to complete. And they should hold everyone accountable for keeping up with the reading and not falling behind.
+For exceptional responses, which might be a bit longer and more insightful than a typical post, I give UP TO 1.5 points EXTRA CREDIT. This makes it easy to make up points you may have missed on a reflection that you didn't have time to do particularly well.
+
+The idea here is that these reflections should in sum account for a significant but not large portion of your final grade without being unduly stressful to complete.
 
 - 3 points: Clearly demonstrates broad familiarity with the reading assignment, original thinking, and is clearly articulated.
 

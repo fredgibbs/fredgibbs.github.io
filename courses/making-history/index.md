@@ -35,9 +35,9 @@ Through readings, lectures, discussions, examinations, and writing assignments, 
 
 
 ## General Workload
-Most weeks you will read two short book chapters (and occasionally articles) and excerpts from primary sources per week, the standard amount for a lower-division history course. Almost all weeks will have a 5-10 minute introductory video that will help provide some background and highlight important themes to look for in the readings. Most readings will have a short reading quiz associated with them to make sure you are motivated to keep up with the reading and to hold you accountable for actually reading, rather than cursorily skimming.
+Most weeks you will read two short book chapters (occasionally articles) and short excerpts from historical sources, the standard amount for a lower-division history course. Almost all weeks will have a 5-10 minute introductory video that will help provide some background and highlight important themes to look for in the readings. Most readings will have a short reading quiz associated with them to make sure you are motivated to keep up with the lectures and reading, and to hold you accountable.
 
-The quizzes (about 1/2 your grade for the course) are mostly straightforward. Some students have described them as tricky, but I'm not trying to trick you---just make you think carefully about course material. But don't worry! Because this class is about interpretation and argument, you are welcome and encouraged to debate ANY quiz question that you got wrong on the discussion board. If you make a good argument, you can get points for answers initially marked incorrect. There are a few other short essay assignments, too, to break up the monotony of the quizzes.
+The quizzes (about 1/2 your grade for the course) are mostly straightforward. Some students have described them as "tricky", but I'm NOT trying to trick you---but trying to make you think CAREFULLY about course material. But don't worry! Because this class is about interpretation and argument, you are welcome and encouraged to debate ANY quiz question that was marked as wrong on the discussion board. If you make a good argument, you can get those points back. Interspersed among the quizzes are a few other short essay assignments to break up the monotony of the quizzes.
 
 In short, it's very easy to get whatever grade you want in the class by just keeping up with the basic work. There is no huge midterm or final.
 
@@ -45,7 +45,7 @@ In short, it's very easy to get whatever grade you want in the class by just kee
 ## You are welcome here
 This course is probably very unlike most history/humanities courses you've taken. But I want to be VERY CLEAR: even if you have never been challenged to think about how history is made, YOU ARE WELCOME HERE! This course assumes no prior knowledge or skills. I grade quite leniently at the beginning of class and the bar slowly rises throughout the class as we dive deeper into course material and you get more comfortable with the quizzes and short essays.
 
-I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. If you feel the course structure or assignments isn't facilitating success or does not represent the effort you're putting in the course, let's talk (virtually, of course).
+I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. If you feel the course structure or assignments isn't facilitating success or does not represent the effort you're putting in the course, let's talk (virtually, of course)!
 
 
 ## Work Requirements and Grading
