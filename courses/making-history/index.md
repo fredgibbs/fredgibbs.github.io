@@ -17,12 +17,11 @@ section: home
 - No set student hours, but always happy to Zoom chat
 
 ## Course Description
-What does it mean to “make history”? On one hand, to do something worth recording. On the other, the act of memorializing. This course examines how we interact with history everyday, through social media, Wikipedia, film, books, public spaces, monuments, historic buildings, art, and so on. Where is it visible? Invisible? What difference does it make?
+What does it mean to “make history”? On one hand, to do something worth recording. On the other, to interpret and write about the past. But history is never an entirely objective and accurate reflection of the past. This course explores important questions about the production of history: What is history? What is it for? Who is it for? How have historical interpretations changed over time? What's at stake with changing narratives?
+
+This entirely online and asynchronous course consists of short lectures, reading assignments, quizzes, and short essays that helps students learn robust research skills, particularly how to identify relevant evidence, situate it in historical context, and use it to make a convincing argument.
 
 The core philosophy underlying the course is that historical perspective is essential for the educated citizen. We consider the difference between history and memory, how history has been used in the past to manipulate public memory, and how the study of history has been at the center of recent culture wars.
-
-We will also explore various meta-questions about history: What is history? What is it for? Who is it for? This entirely online and asynchronous course consists of short lectures, reading assignments, quizzes, and short essays that helps students learn robust research skills, analytical techniques, and ways of using evidence to make arguments.
-
 
 
 ## Student Learning Outcomes (SLOs)
@@ -35,11 +34,26 @@ Through readings, lectures, discussions, examinations, and writing assignments, 
 * DISTINGUISH between primary and secondary sources, IDENTIFY and EVALUATE evidence and UNDERSTAND people in their historical context.
 
 
+## General Workload
+Most weeks you will read two short book chapters (and occasionally articles) and excerpts from primary sources per week, the standard amount for a lower-division history course. Almost all weeks will have a 5-10 minute introductory video that will help provide some background and highlight important themes to look for in the readings. Most readings will have a short reading quiz associated with them to make sure you are motivated to keep up with the reading and to hold you accountable for actually reading, rather than cursorily skimming.
+
+The quizzes (about 1/2 your grade for the course) are mostly straightforward. Some students have described them as tricky, but I'm not trying to trick you---just make you think carefully about course material. But don't worry! Because this class is about interpretation and argument, you are welcome and encouraged to debate ANY quiz question that you got wrong on the discussion board. If you make a good argument, you can get points for answers initially marked incorrect. There are a few other short essay assignments, too, to break up the monotony of the quizzes.
+
+In short, it's very easy to get whatever grade you want in the class by just keeping up with the basic work. There is no huge midterm or final.
+
+
+## You are welcome here
+This course is probably very unlike most history/humanities courses you've taken. But I want to be VERY CLEAR: even if you have never been challenged to think about how history is made, YOU ARE WELCOME HERE! This course assumes no prior knowledge or skills. I grade quite leniently at the beginning of class and the bar slowly rises throughout the class as we dive deeper into course material and you get more comfortable with the quizzes and short essays.
+
+I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. If you feel the course structure or assignments isn't facilitating success or does not represent the effort you're putting in the course, let's talk (virtually, of course).
+
+
 ## Work Requirements and Grading
-- Short discussion board posts on lectures and reading assignments (30%)
-- Quizzes on lectures and reading assignments (20%)
+- Quizzes on lectures and reading assignments (50%)
 - Various longer essay assignments (30%)
-- Final Essay (20%)
+- Final Course Reflection Essay (20%)
+
+
 
 ### Grade Distribution
 
@@ -59,7 +73,7 @@ Percent | Grade
 
 
 ### Please Ask for Help
-I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how you can improve your performance (if at all). If life gets overwhelming during the course (as it easily can these days), it can be tempting to drift away from an elective course like this. Rather than disappear, let's work something out to accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
+I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how you can improve your performance (if at all). If life gets overwhelming during the course (as it easily can these days), it can be tempting to drift away from a survey course like this. Rather than disappear, let's work something out to accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
 
 ## Readings
 - Sarah Maza, _Thinking About History_ (University of Chicago Press, 2017)

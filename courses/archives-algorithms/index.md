@@ -7,7 +7,7 @@ number: HIST 300-007
 section: home
 ---
 
-# Archives + Algorithms
+# HIST 300-007: Archives + Algorithms
 
 ## Logistics
 - Remote Arranged (fully online, no scheduled meetings); everything (except this syllabus) on UNM Learn
@@ -17,7 +17,7 @@ section: home
 
 
 ## Course Description
-All data is an archive. While the idea of an archive has been typically used to refer to collections of historic documents, we can now think of all corporate and consumer data (smartphone use, search history, surveillance footage, fitbit stats, medical records, and even everything on the web) as an impossibly detailed archive of human activity. Yet this raises important questions: Who controls different facets of this archive? Who can access it? How is this data archive increasingly managed and understood by algorithms? How does systemic racism and bias creep into supposedly objective retrieval functions? How can the long history of the archive, and its many problems with selection bias, preservation, and access help us understand the future of data and its (mis)uses?
+Archives determine the histories that get written. While the idea of an archive typically refers to collections of historic documents, we can now think of all corporate and consumer data (smartphone use, search history, surveillance footage, fitbit stats, financial and medical records) as an impossibly detailed archive of human activity. Yet this raises important questions: Who controls different facets of this archive? Who can access it? How is this data archive increasingly managed and understood by algorithms? How does systemic racism and bias creep into supposedly objective retrieval functions? This course explores how can the long history of the archive, and its many problems with selection bias, preservation, and access, can help us understand the future of data and its (mis)uses.
 
 
 ## Student Learning Outcomes
@@ -29,32 +29,32 @@ All data is an archive. While the idea of an archive has been typically used to 
 
 
 ## Imagination over regurgitation
-This is an experimental class that eschews the typical course narrative for a more exploratory adventure. This class, therefore, is not for anyone looking for a standard linear, information-delivery kind of course. There's nothing wrong with those, but this just isn't one of them. Diversity is good.
+This course eschews the typical course narrative in favor of a more exploratory adventure. Therefore, is not for anyone looking for a standard linear, information-delivery kind of course. There's nothing wrong with those; this just isn't one of them. Diversity is good.
 
-As you can see from the [schedule page](schedule), we spend roughly the first half of the course investigating the history of the archive and how it's been rapidly transformed in the last 20 years. Then, we spend roughly the second half of the course reading about the invisible algorithms at work in modern society and theorizing about how the history of the archives might give us some insight into the future of a data- and algorithmic-driven world.
+As you can see from the [schedule page](schedule), we spend roughly the first half of the course investigating the history of the archive and how it's been rapidly transformed in the last 30 years. Then, we spend roughly the second half of the course reading about the invisible algorithms at work in modern society and theorizing about how the history of the archives might give us some insight into the future of a data- and algorithmic-driven world.
 
-Assignments will tend to be speculative and creative exercises that allow you to APPLY the readings to a particular problem or question rather than just summarize or restate information. Most of these will be quite fun and probably few less so as experimental and successful experimentation involves failure!
+Assignments will tend to be speculative and creative exercises that allow you to APPLY the readings to a particular problem or question rather than just summarize or restate information.
 
 
 ## General Workload
-Most of the work is this: You will read 2-3 reasonable-length articles or book chapters per week, and post an entry to your learning journal on THURSDAY (so that I can respond on Fridays). I'll provide a few guiding questions, but these are pretty free form. The only requirement is that they show your familiarity with the readings. Sometimes you'll focus on the articles separately; other times you'll be asked to synthesize them and talk about them as a group. The questions will be abstract and hypothetical and invite you to be creative as inspired by the readings. You'll post your response, and if it doesn't seem like you're using the readings (or reading them at all, TBH), I'll ask some follow up questions rather than just give you a low score. I might ask follow up questions anyway because I think this stuff is important to think about.
+Most of the work is this: You will read 2-3 reasonable-length articles or book chapters per week, and post an entry to your learning journal on THURSDAY (so that I can respond on Fridays). I'll provide a few guiding questions, but these entries are pretty freeform. The only requirement is that you show your familiarity with the readings. Sometimes you'll focus on the articles separately; other times you'll be asked to synthesize them and talk about them as a group. The questions will be abstract and hypothetical and invite you to draw your own conclusions from the readings. You'll post your response, and if it doesn't seem like you're using the readings (or reading them at all), I'll ask some follow up questions rather than just give you a low score. If you care about your grade, you can address them; if not, we just keep moving on. I understand sometimes your priorities will be elsewhere.
 
-There are a few other assignments, too, to break up the monotony of the journal entires. There will be a few short reading response assignments, a few quizzes, and a few "special" assignments 
+There are a few other assignments, too, to break up the monotony of the journal entries, such as short reading response assignments, a few quizzes, and a few one off "special" assignments (they each have special instruction pages as listed below).
 
 
 ## You are welcome here
 This course is probably very unlike most history/humanities courses you've taken. But I want to be VERY CLEAR: Even if you have never thought about archives or algorithms (much less how they are related), or have never taken a history or humanities course, YOU ARE WELCOME HERE! This course assumes you know NOTHING about either archives or algorithms (or even what they are, which is actually a trickier question than you might think), and introduces and explores each of them as a metaphor for interacting with knowledge infrastructures all around us.
 
-I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. As much as possible I've tried to make the course about everyone thinking together rather than just you memorizing something I say or you read so that you can regurgitate it later. If you feel the course structure isn't facilitating your own success, let's talk (virtually, of course).
-
+I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. As much as possible I've tried to make the course about everyone thinking together rather than just you memorizing something I say or you read so that you can regurgitate it later. If you feel the course structure or assignments aren't facilitating your success or reflecting your effort, let's talk (virtually, of course)!
 
 
 ## Work Requirements and Grading
-- [Reading responses](reading-responses) (0-3 points x 10)
+- [Reading/lecture responses](reading-responses) (5 points x 10)
+- Reading/lecture quizzes  (~8 points x 5)
 - [Learning journal](learning-journal) (10 points x 10)
-- [Transcription Assignment](transcription-guidelines) (10 points)
-- [Data Interface Critique](data-interface-critique) (10 points)
-
+- [Transcription Assignment](transcription-guidelines) (10 points x 1)
+- [Data Interface Critique](data-interface-critique) (10 points x 1)
+- [Final Course Reflection](final-reflections) (30 points x 1)
 
 ### Grade Distribution
 
