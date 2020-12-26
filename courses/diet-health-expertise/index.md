@@ -24,34 +24,38 @@ Some guiding questions: How do dietary experts establish their expertise? Why ha
 
 
 ## Student Learning Objectives
-* Question and judge the extent to which ideas of health are constructed as much socially and culturally as scientifically
-* Interpret and explain the rhetoric of health in different historical periods
-* Outline how the establishment of dietary expertise has and has not changed over time
-* Sharpen critical thinking about diet/health/expertise
-* Advance historical source analysis skills by evaluating primary sources on dietary advice
-
-### Bottom Line
-This class is NOT concerned primarily with learning the history of diet and health, but using examples from it to learn about medical expertise (with a particular focus on diet/health), as well as the power of health-centric rhetoric. This class is concerned with HOW TO THINK, not WHAT TO KNOW.
-
-
-## Getting Started
-This page, and the [schedule page](schedule), have all the instructions and assignments you need for the course. Make sure you are VERY FAMILIAR with these two pages. We use UNM Learn to manage quizzes, assignment submissions, and the discussion board, but all basic course information is on these two (separate) webpages.
+* 1: Question and judge the extent to which ideas of health are constructed as much socially and culturally as scientifically
+* 2: Interpret and explain the rhetoric of health in different historical periods
+* 3: Outline how the establishment of dietary expertise has and has not changed over time
+* 4: Sharpen critical thinking about diet/health/expertise
+* 5: Advance historical source analysis skills by evaluating primary sources on dietary advice
 
 
 ## You are welcome here
-This class is probably unlike most history classes you've taken, not least because history of medicine and history of food are somewhat specialized topics. But I want to be VERY CLEAR: Even if you have never thought about the history of medicine or diet, or have never taken a history course, or even a humanities course, YOU ARE WELCOME HERE! I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. As much as possible I've tried to make the course about everyone thinking together rather than just you memorizing something I say or you read so that you can regurgitate it later. If you feel the course structure isn't facilitating your own success, let's talk (virtually, of course).
+This class is probably unlike most history classes you've taken, not least because history of medicine and history of food are somewhat specialized topics. But I want to be VERY CLEAR: Even if you have never thought about the history of medicine or diet, or have never taken a history course, or even a humanities course, YOU ARE WELCOME HERE! I assume you have no prior knowledge or skills necessary for class, so we build from the ground up.
+
+I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. As much as possible I've tried to make the course about everyone thinking together rather than just you memorizing something I say or you read so that you can regurgitate it later. If you feel the course structure isn't facilitating your own success, let's talk (virtually, of course)!
+
+## Getting Started
+This page, and the [schedule page](schedule), have all the instructions and assignments you need for the course. Make sure you are VERY FAMILIAR with these two pages. We use UNM Learn to manage quizzes, assignment submissions, and the discussion board, but all basic course information is on these two webpages.
 
 
 ## General Work outline
 While we have no formal meetings, the class is organized around modest reading assignments for most Mondays, Wednesday, Fridays. The frequency of written responses generally decreases as the semester progresses.
 
-I hold you accountable for keeping up with the readings by asking you to respond to them with very short ~150-word [reading reflections](reading-reflections) on Mondays and Wednesdays. On most Fridays, you'll post a ~600--800-word [weekly learning reflection](weekly-reflections) that will address a few questions that will help tie together the readings for the week. In place of a few weekly learning reflections there are other assignments to spice things up a bit.
+### Reading Reflections
+I hold you accountable for keeping up with the readings by asking you to respond to them with short [reading reflections](reading-reflections) on Mondays and Wednesdays. On most Fridays, you'll post a [weekly learning reflection](weekly-reflections) that will address a few questions that will help tie together the readings for the week. In place of a few weekly learning reflections there are other assignments to spice things up a bit.
 
-These short writing assignments should add up to LESS TIME than you would have spent going to class. And you might learn more as well, so WIN WIN! These are meant to be somewhat creative exercises, not boring academic regurgitations of the readings. The best advice I can give: be yourself!
+These short writing assignments should add up to LESS TIME than you would have spent going to class. And you might learn more as well, so WIN WIN! These are meant to be somewhat creative exercises, not boring academic regurgitations of the readings. The best advice I can give: be yourself! All assignments are DUE BY MIDNIGHT on the day they are listed on the syllabus. Let me know if something is not clear!
 
-The upshot of this approach is that your WORK FOR THE COURSE IS VERY EVENLY DISTRIBUTED across the semester. There are no big essays or exams or drawn-out research projects. There is a short ~1200-word [final learning reflection](final-reflections) due the last day of finals. As long as you're keeping up with the readings (and I've tried to be quite modest in the amount), the course shouldn't ever become a burden on your workload or schedule. And by staying engaged throughout the semester, everyone will learn more and we (I mean me, too!) can avoid the stress of big assignments.
+
+### Final Learning Reflection
+The upshot of this approach is that your WORK FOR THE COURSE IS VERY EVENLY DISTRIBUTED across the semester. There are no big essays or exams or drawn-out research projects. There is a short [final learning reflection](final-reflections) due the last day of finals. As long as you're keeping up with the readings (and I've tried to be quite modest in the amount), the course shouldn't ever become a disproportionate burden on your workload or schedule. And by staying engaged throughout the semester, everyone will learn more and we (I mean me, too!) can avoid the stress of big assignments.
 
 Every so often there is no assignment due, just to give everyone a break, and we take most of a week off around the middle of the semester for a much needed siesta because semesters are WAY too long. Reading and assignment details are comprehensively outlined on the [schedule page](schedule). More details about the assignments in the "Work Requirements and Grading" section below.
+
+### Lecture Videos
+There will be lecture videos to watch almost every week. Sometimes these will be overviews for the week; sometimes they will be weekly reviews that comment on your reading reflections; sometimes they will go over a quiz. I try to keep them about ~20 minutes, but there are a few slightly longer ones, when I needed a bit more time to get through the material. I am aware that watching videos of me talking is not super (or vaguely) interesting, but obviously some explanation of course materials is necessary, so I try to provide what I think will be helpful videos while be respectful of your time and the awkwardness of watching a talking head on a screen.
 
 
 ## Places to Find Stuff
@@ -90,7 +94,7 @@ TO BE CLEAR: LITERALLY EVERYTHING you need for the course is either already free
 
 
 ## Work Requirements and Grading
-Assignments are usually worth either 2 points (weekly discussion posts), 10 points (weekly learning reflections; although sometimes these are 12 or 15), or 20 points (larger assignments and the final learning reflection)
+Assignments are usually worth either 2 points (weekly discussion posts), 10 points (weekly learning reflections; although sometimes these are 12 or 15), or 20 points (for larger, special assignments)
 
 The little equations after the assignment type indicates `number of assignments` x `points for each` x `weight` = `total points`
 - Occasional reading/lecture quizzes (~6x~10 = ~60)
@@ -104,7 +108,7 @@ The little equations after the assignment type indicates `number of assignments`
 ### Grade Distribution (~250 points)
 Depending on how the course unfolds, the final number of points may ( = will almost certainly) change slightly. But the percent grading scale will remain basically the same, unless it becomes easier to get a higher grade. I try to minimize grade scale changes, but sometimes they are necessary and they always work to your advantage.
 
-Percent | Grade 
+Percent | Grade
 --- | ---
 95+ | A
 90-94 | A-
@@ -119,10 +123,26 @@ Percent | Grade
 59- | F
 
 
+### Response times
+I try to respond to all emails ASAP, but it can take up to 2 days for longer inquires. Quick questions about assignments or deadlines or similar tend to be answered within a few hours. I try to grade assignments and provide feedback within 3 days of the assignment due date. It's not feasible to comment on everyone's work for each assignment (everyone gets comments on larger assignments), but I encourage you to ask for more feedback whether you get any or not. I'm always happy to have a conversation about your work and how I'm responding to it.
+
+
 ### Extra Credit (all due the last day of finals
 - [Diet/Health/Food Documentary Critique](film-analysis) (4 points)
 - Other ideas? If you are interested in a particular topic related to the class and want to do a little extra work for some extra points, ask me about it! I'm quite flexible about helping people to work they are excited about that contributed to the learning objectives of the course. Even extra credit gets graded, though, so just doing something for the sake of doing it (as opposed to doing it well) doesn't necessarily get you many points.
 - CAREFUL: Extra credit is only available if all other work is turned in on time, and should be emailed to me directly. You can't use extra credit to make up for other assignments you don't like (sorry if you don't like them, but they are still important).
+
+## Writing Help
+[CAPS Tutoring Services](http://caps.unm.edu/programs/online-tutoring/) is a free-of-charge educational assistance program available to UNM students enrolled in classes. Online services include the Online Writing Lab, Chatting with or asking a question of a Tutor.
+
+## Accessibility
+UNM is committed to providing courses that are inclusive and accessible for all participants. As your instructor, it is my objective to facilitate an accessible classroom setting, in which students have full access and opportunity. If you are experiencing physical or academic barriers, or concerns related to mental health, physical health and/or COVID-19, please consult with me after class, via email/phone or during office hours. You are also encouraged to contact Accessibility Resource Center at arcsrvs@unm.edu or by phone 277-3506..
+
+## Academic Misconduct
+You should be familiar with [UNM’s Policy on Academic Dishonesty and the Student Code of Conduct](http://pathfinder.unm.edu/policies.htm#studentcode) which outline academic misconduct defined as plagiarism, cheating, fabrication, or facilitating any such act.
+
+## Citizenship and/or Immigration Status
+All students are welcome in this class regardless of citizenship, residency, or immigration status.  I will respect your privacy if you choose to disclose your status. UNM as an institution has made a core commitment to the success of all our students, including members of our undocumented community.  The Administration’s welcome is found on our website: http://undocumented.unm.edu/.
 
 
 ## Course Readings and Schedule
