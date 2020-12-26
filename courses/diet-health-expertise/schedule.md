@@ -74,13 +74,10 @@ This week we're really starting to ramp down for the course. As a warm up for th
 
 ## [Week 15: Food Traditions and Societal Health](weeks/15)
 I'm getting the sense this semester is feeling longer than usual (and they are too long anyway). Fewer assignments done better is in everyone's best interests. So let's make cancel culture work in our favor and cancel this week. Sooner than later, you'll need to watch the [future of nutrition article critique](https://youtu.be/xfKv2uNLbp8)--the way I see the article you critiqued last week (Mozaffarian, et al.) and how it fits into the course. Essential viewing for a successful final.
-"%}
 
 
 ## [Week 16: Review and Reflection 2](weeks/16)
-{% include alert.html class='warning' title='Nothing Due This Week' text="
 If you're catching up from last week, you'll need to watch the [future of nutrition article critique](https://youtu.be/xfKv2uNLbp8)--the way I see the article you critiqued before Thanksgiving week (Mozaffarian, et al.) and how it fits into the course. Essential viewing for a successful final. As with last week, you can see from the box below what the original assignment was going to be, but I honestly don't think it's useful at this point. SO IT'S CANCELLED. The whole week. WORK ON YOUR FINAL!
-"%}
 
 
 
