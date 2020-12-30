@@ -24,14 +24,21 @@ Before you start doing any reading or assignments for the course, follow the [Zo
 "%}
 
 
-### Understanding History and its uses
+### Wednesday
+- David Foster Wallace [What is Water?](https://fs.blog/2012/04/david-foster-wallace-this-is-water). You can listen to DFW read this or just read the transcript (or both at the same time, as I did).
+
+{% include alert.html class='warning' title='Questions to think about' text="
+What have you worshipped that maybe you don't think about enough?
+"%}
+
+
+
+### Friday
 - Alice Dreger, [What is History?](http://alicedreger.com/what_is_history).
 The significance of the anecdote offered at the beginning of this piece is not explicitly stated, but it should be. The point here is that every time we ask WHY? about anything, we can focus either on immediate practical implications (physics), or on much larger structural, social explanations (history). They are both important because they provide different kinds of answers. Those who can move fluidly between these ways of thinking and understanding will be more astute problem solvers in any career.
 
-- Peter Sterns, [Why Study History](https://www.historians.org/about-aha-and-membership/aha-history-and-archives/historical-archives/why-study-history-(1998\)).
+- Peter Sterns, [Why Study History?](https://www.historians.org/about-aha-and-membership/aha-history-and-archives/historical-archives/why-study-history-(1998\)).
 
-- Popkin, Chapter 1: What is Historiography?, 15--25.
-This chapter outlines some interesting reasons for studying history and briefly explains different _kinds_ of history. The books makes a well-intentioned effort not to be exclusively Western, but it really is (as is this course), and so the few brief non-Western sections here can seem a bit forced. Don't skip them, but don't worry about the details.
 
 {% include alert.html class='danger' title='Introductory Connections' text="
 Drawing from the set of readings for this introductory week, and as a way of getting to know each other just a little bit, answer the following: What kinds of history to you find interesting? What reasons for studying history have appealed to you (even if you didn't think explicitly about them until now)?
@@ -99,13 +106,32 @@ Less writing this week, but the quizzes will test your familiarity with the lect
 
 
 
-## Week 4 (Feb 8--12): 1619 Project discussion
+## Week 4 (Feb 8--12):
+Rather than moving chronologically, our next book moves thematically across key questions that we should always be asking about every history we encounter. It sort of picks up where the other book leaves off (with some helpful overlap), and largely focuses on contemporary history writing and what's new about it.
+
+{% include alert.html class='warning' title='A few reflections' text="
+There are TWO reflection assignment for this week, one for each chapter.
+- WEDNESDAY: Reading reflection
+- FRIDAY: Reading reflection
+"%}
+
+### Wednesday
+- Sara Maza, _Thinking about History_, Ch. 1: The History of Whom?, 10--44.
+
+### Friday
+- Sara Maza, _Thinking about History_, Ch. 2: The History of Where?, 45--82.
+
+
+
+
+
+## Week 5 (Feb 15--19):  1619 Project discussion
 Now that our historiographical survey is complete, we can reflect more thoughtfully on our own moment of historiography.
 
 {% include alert.html class='warning' title='Reading reflection' text="
 There are no daily assignments for this week, just one longer reflection essay due on Friday that should demonstrate your familiarity with everything listed below.
 
-- FRIDAY: Project Critique
+- FRIDAY: 1619 Project Critique
 "%}
 
 - Browse quickly the [full issue of the _New York Times Magazine_ 1619 Project](https://pulitzercenter.org/sites/default/files/full_issue_of_the_1619_project.pdf) (Aug 26, 2019). The goal here is to get a sense of entire publication---namely what it covers, what it doesn't, and what perspectives the authors promote.
@@ -130,38 +156,28 @@ Your 1619 Project reflection should be around ~800 words and is worth up to 10 p
 
 
 
-## Week 5: Feb 15--19
-Rather than moving chronologically, our next book moves thematically across key questions that we should always be asking about every history we encounter. It sort of picks up where the other book leaves off (with some helpful overlap), and largely focuses on contemporary history writing and what's new about it.
-
-{% include alert.html class='warning' title='A few reflections' text="
-There are TWO reflection assignment for this week, one for each chapter.
-- WEDNESDAY: Reading reflection
-- FRIDAY: Reading reflection
-"%}
-
-### Wednesday
-- Sara Maza, _Thinking about History_, Ch. 1: The History of Whom?, 10--44.
-
-### Friday
-- Sara Maza, _Thinking about History_, Ch. 2: The History of Where?, 45--82.
-
-
-
-
-## Week 6: Feb 22--26
+## Week 6 (Feb 22--26)
 - Sara Maza, _Thinking about History_, Ch. 3: The History of What?, 83--117.
 - Sara Maza, _Thinking about History_, Ch. 4: How is History Produced?, 118--156.
 
 
 
 
-## Week 7: March 1--5
+## Week 7 (March 1--5)
 - Sara Maza, _Thinking about History_, Ch. 5: Causes or Meanings?, 157--198.
 - Sara Maza, _Thinking about History_, Ch, 6: Facts or Fictions?, 199--238.
 
 
 
-## Week 8 (Mar 8--12): Monuments and Architecture
+## Week 8 (Mar 8--12):
+
+
+## Week 9: Mar 15--19: Spring Break!
+Enjoy the break!
+
+
+
+## Week 10 (Mar 22--26):  Monuments and Architecture
 
 {% include alert.html class='warning' title='Reading reflection' text="
 There are no daily assignments for this week, just one reflection essay due on Friday--be sure to address BOTH readings.
@@ -173,33 +189,10 @@ There are no daily assignments for this week, just one reflection essay due on F
 
 
 
-## Week 9: Mar 15--19: Spring Break!
-Enjoy the break!
-
-
-
-## Week 10: Mar 22--26
-
-
-### Recommended
-- Southgate, _What is History For?_, 1: Humanities and therapeutic education, 1--9.
-- Southgate, _What is History For?_, 2: History for its own sake, 10--30.
-- Southgate, _What is History For?_, 3: Professed Purposes, 31--58.
-- Southgate, _What is History For?_, 4: Hidden Agendas, 59--84.
 
 
 
 ## Week 11: Mar 29--Apr 2
-
-
-### Recommended
-- Southgate, _What is History For?_, 5: Life and Needs in Postmodernity, 85--106.
-- Southgate, _What is History For?_, 6: History in Postmodernity, 107--132.
-- Southgate, _What is History For?_, 7: Histories for Postmodernity, 133--153.
-
-
-
-## Week 12: Apr 5--9
 Remember, we're reading this book to critique its use of history, not because it's "right" (you can decide for yourself how much you agree or disagree with it). The book's goal is to offer a critique of capitalism, but that's beside the point for us. OUR goal is to apply our discussion about what history is for to this point to this specific text that has a very particular way of using history. Critically thinking through how history is used here will help us be more informed readers when we see history invoked in any context.
 
 For each week, you'll have a couple chapters to read and will submit a reading reflection on the assigned pages. I will offer a few guiding questions for you to respond to, but you should feel free to address whatever aspects of the chapters are most interesting to you provided that you're making it clear to me that you're keeping up with the readings.
@@ -208,22 +201,26 @@ For each week, you'll have a couple chapters to read and will submit a reading r
 - Patel and Moore, _Seven Cheap Things_, 1: Cheap Nature, 44--63.
 
 
-## Week 13: Apr 12--16
+## Week 12: Apr 5--9
 - Patel and Moore, _Seven Cheap Things_, 2: Cheap Money, 64--90.
 - Patel and Moore, _Seven Cheap Things_, 3: Cheap Work, 91--110.
 
-## Week 14: Apr 19--23
+
+## Week 13: Apr 12--16
 - Patel and Moore, _Seven Cheap Things_, 4: Cheap Care, 111--137.
 - Patel and Moore, _Seven Cheap Things_, 5: Cheap Food, 138--160.
 
-
-## Week 15: May 26--30
+## Week 14: Apr 19--23
 - Patel and Moore, _Seven Cheap Things_, 6: Cheap Energy, 161--179.
 - Patel and Moore, _Seven Cheap Things_, 7: Cheap Lives, 180--201.
+
+
+## Week 15: May 26--30
 - Patel and Moore, _Seven Cheap Things_, Conclusion, 202--212.
+- John W. W. Zeise, "[Et in Arcadia Ego](https://lareviewofbooks.org/article/et-in-arcadia-ego/)", _Los Angeles Review of Books_, December 16, 2017.
+- Lecture on final essay (applying the course to reviewing Patel and Moore)
 
 ## Week 16: May  3--7
-- John W. W. Zeise, "[Et in Arcadia Ego](https://lareviewofbooks.org/article/et-in-arcadia-ego/)", _Los Angeles Review of Books_, December 16, 2017.
 
 
 ## All course work due by FRIDAY May 14!

@@ -76,10 +76,12 @@ Percent | Grade
 I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how you can improve your performance (if at all). If life gets overwhelming during the course (as it easily can these days), it can be tempting to drift away from a survey course like this. Rather than disappear, let's work something out to accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
 
 ## Readings
+
+### Required
 - Sarah Maza, _Thinking About History_ (University of Chicago Press, 2017)
 - Raj Patel and Jason W. Moore, _A History of the World in Seven Cheap Things_ (University of California Press, 2018) [online](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=4820021)
 - Jeremy D. Popkin, _From Herodotus to H-Net, 2nd ed._ (Oxford University Press, 2021)
-- Beverley Southgate, _What is History For?_ (Routledge, 2005) [online](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=259713)
+
 
 ## Writing Help
 [CAPS Tutoring Services](http://caps.unm.edu/programs/online-tutoring/) is a free-of-charge educational assistance program available to UNM students enrolled in classes. Online services include the Online Writing Lab, Chatting with or asking a question of a Tutor.
