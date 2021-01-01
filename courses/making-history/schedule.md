@@ -25,10 +25,12 @@ Before you start doing any reading or assignments for the course, follow the [Zo
 
 
 ### Wednesday
-- David Foster Wallace [What is Water?](https://fs.blog/2012/04/david-foster-wallace-this-is-water). You can listen to DFW read this or just read the transcript (or both at the same time, as I did).
+- David Foster Wallace [What is Water?](https://fs.blog/2012/04/david-foster-wallace-this-is-water). You can listen to DFW read this (a commencement speech at Kenyon College in 2005) or just read the transcript---or read and listen at the same time, as I did. 
 
-{% include alert.html class='warning' title='Questions to think about' text="
-What have you worshipped that maybe you don't think about enough?
+{% include alert.html class='warning' title='Reflections' text="
+- How is history useful in achieving the goals outlined in the speech?
+- What ideas or phrases resonated with you?
+- What have you worshipped that maybe you don't think about enough?
 "%}
 
 
@@ -50,7 +52,7 @@ Standard reflection length (~200--250 words); 3 possible points for taking it se
 
 
 ## Week 2 (Jan 25--29): Premodern history writing
-To understand more about what history is and what it is for, it is VERY useful to have a sense of how historical methods, goals, and writing has changed over time. That's what our first book is about. It's a very high-level overview that helps keep the big picture in focus. Short lectures and reading guides will complement the text with additional details and historic examples.
+To understand more about what history is and what it is for, it's imperative to have a sense of how historical methods, goals, and writing have changed over time. That's what our first book is about. It's a very high-level overview that helps keep the big picture of historiographical change in focus. Short lectures and reading guides will complement the text with additional details and historic examples. This book provides a foundation of historical tradition that is necessary to appreciate the critical questions and changes in historical writing that are the focus of our second book.
 
 {% include alert.html class='warning' title='Due this week' text="
 As we get up to speed, you have very straightforward (if a bit dull) slate of work for this week. But it gives me a chance to hear everyone's voice and respond right out of the gate.
@@ -107,7 +109,7 @@ Less writing this week, but the quizzes will test your familiarity with the lect
 
 
 ## Week 4 (Feb 8--12):
-Rather than moving chronologically, our next book moves thematically across key questions that we should always be asking about every history we encounter. It sort of picks up where the other book leaves off (with some helpful overlap), and largely focuses on contemporary history writing and what's new about it.
+Our next book introduces and explains some critical questions that we should always be asking about every history we encounter. It sort of picks up where the other book leaves off (with some helpful overlap), and largely focuses on contemporary history writing and what's new about it as opposed to past traditions. This book is really the meat of the course. We will apply these questions (and historical examples) to analyzing our final book for the course at the end of the term.
 
 {% include alert.html class='warning' title='A few reflections' text="
 There are TWO reflection assignment for this week, one for each chapter.
