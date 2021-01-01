@@ -25,7 +25,7 @@ Before you start doing any reading or assignments for the course, follow the [Zo
 
 
 ### Wednesday
-- David Foster Wallace [What is Water?](https://fs.blog/2012/04/david-foster-wallace-this-is-water). You can listen to DFW read this (a commencement speech at Kenyon College in 2005) or just read the transcript---or read and listen at the same time, as I did. 
+- David Foster Wallace [What is Water?](https://fs.blog/2012/04/david-foster-wallace-this-is-water). You can listen to DFW read this (a commencement speech at Kenyon College in 2005) or just read the transcript---or read and listen at the same time, as I did.
 
 {% include alert.html class='warning' title='Reflections' text="
 - How is history useful in achieving the goals outlined in the speech?
@@ -195,7 +195,7 @@ There are no daily assignments for this week, just one reflection essay due on F
 
 
 ## Week 11: Mar 29--Apr 2
-Remember, we're reading this book to critique its use of history, not because it's "right" (you can decide for yourself how much you agree or disagree with it). The book's goal is to offer a critique of capitalism, but that's beside the point for us. OUR goal is to apply our discussion about what history is for to this point to this specific text that has a very particular way of using history. Critically thinking through how history is used here will help us be more informed readers when we see history invoked in any context.
+We're reading this book to critique its use of history, not because it's "right" (you can decide for yourself how much you agree or disagree with it). The book's goal is to offer a critique of capitalism, but that's beside the point for us. OUR goal is to apply our discussion about "what history is for" to this point to this specific text, which has a very particular way of using history. Critically thinking through how history is used here will help us be more informed readers when we see history invoked in any context.
 
 For each week, you'll have a couple chapters to read and will submit a reading reflection on the assigned pages. I will offer a few guiding questions for you to respond to, but you should feel free to address whatever aspects of the chapters are most interesting to you provided that you're making it clear to me that you're keeping up with the readings.
 
@@ -220,9 +220,10 @@ For each week, you'll have a couple chapters to read and will submit a reading r
 ## Week 15: May 26--30
 - Patel and Moore, _Seven Cheap Things_, Conclusion, 202--212.
 - John W. W. Zeise, "[Et in Arcadia Ego](https://lareviewofbooks.org/article/et-in-arcadia-ego/)", _Los Angeles Review of Books_, December 16, 2017.
-- Lecture on final essay (applying the course to reviewing Patel and Moore)
+- Final essay explanation video (applying the course to reviewing Patel and Moore)
 
 ## Week 16: May  3--7
+- What is History For? Lecture and lecture quiz/response
 
 
 ## All course work due by FRIDAY May 14!
