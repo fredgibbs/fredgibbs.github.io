@@ -88,10 +88,10 @@ As we get up to speed, you have very straightforward (if a bit dull) slate of wo
 
 
 ## Week 3 (Feb 1--5): The rise of modern history
-This week we're continuing and finishing our historiographical survey. The plan is to have a short (~5 minute) introductory lecture and lecture/reading quiz for each chapter. Quizzes will employ a variety of kinds of questions, including short answer prompts that test your ability to synthesize information from the lecture and chapter.
+This week we're continuing and finishing our historiographical survey. The plan is to have a short (~5 minute) introductory lecture and lecture/reading quiz for each chapter. Quizzes will employ a variety of kinds of questions, including short answer prompts that test your ability to synthesize information from the lecture and chapter. The book is very good at making its main points very clear while providing lots of historical examples, so it's easy to read slower when getting the more important overview and read more quickly through the details. Don't treat it like a textbook where everything is equally important.
 
 {% include alert.html class='warning' title='Due this week' text="
-Less writing this week, but the quizzes will test your familiarity with the lectures and readings, as well as help emphasize what I think are the most important points to take away for the topic.
+Less writing this week, but the quizzes will test your familiarity with the brief lectures and readings, as well as help emphasize what I think are the most important points to take away for the topic.
 - M, W, F: Lecture/reading QUIZ
 "%}
 
@@ -160,22 +160,26 @@ Your 1619 Project reflection should be around ~800 words and is worth up to 10 p
 
 ## Week 6 (Feb 22--26)
 - Sara Maza, _Thinking about History_, Ch. 3: The History of What?, 83--117.
-- Sara Maza, _Thinking about History_, Ch. 4: How is History Produced?, 118--156.
+
 
 
 
 
 ## Week 7 (March 1--5)
+- Sara Maza, _Thinking about History_, Ch. 4: How is History Produced?, 118--156.
 - Sara Maza, _Thinking about History_, Ch. 5: Causes or Meanings?, 157--198.
-- Sara Maza, _Thinking about History_, Ch, 6: Facts or Fictions?, 199--238.
 
 
 
 ## Week 8 (Mar 8--12):
+- Sara Maza, _Thinking about History_, Ch, 6: Facts or Fictions?, 199--238.
+
+
 
 
 ## Week 9: Mar 15--19: Spring Break!
-Enjoy the break!
+Enjoy the break! And start reading _Seven Cheap Things_ to make life easier over the next month! See Week 11 for a brief introduction.
+
 
 
 
@@ -195,35 +199,39 @@ There are no daily assignments for this week, just one reflection essay due on F
 
 
 ## Week 11: Mar 29--Apr 2
-We're reading this book to critique its use of history, not because it's "right" (you can decide for yourself how much you agree or disagree with it). The book's goal is to offer a critique of capitalism, but that's beside the point for us. OUR goal is to apply our discussion about "what history is for" to this point to this specific text, which has a very particular way of using history. Critically thinking through how history is used here will help us be more informed readers when we see history invoked in any context.
+We're reading this book to critique its use of history, not because it's "right" (you can decide for yourself how much you agree or disagree with it). The book's goal is to offer a critique of capitalism, but that's beside the point for us. OUR goal is to apply the Maza book on how we should approach history to this specific text, which has a very particular way of using history. Thinking through how history is used here will help us be more informed and critical readers when we see history invoked in any context.
 
-For each week, you'll have a couple chapters to read and will submit a reading reflection on the assigned pages. I will offer a few guiding questions for you to respond to, but you should feel free to address whatever aspects of the chapters are most interesting to you provided that you're making it clear to me that you're keeping up with the readings.
+For each week, you'll have about 3 chapters to read. The number of pages per week seems high but the book is a quick read and we're not reading it to learn specific information. To keep on track, you'll submit a reading reflection on the assigned pages at the end of each week, and that will be your only assignment. I will offer a few guiding questions for you to respond to, but you should feel free to address whatever aspects of the chapters are most interesting to you---provided that you're making it clear to me that you're keeping up with the readings.
 
 - Patel and Moore, _Seven Cheap Things_, Introduction, 1--43.
 - Patel and Moore, _Seven Cheap Things_, 1: Cheap Nature, 44--63.
+- Patel and Moore, _Seven Cheap Things_, 2: Cheap Money, 64--90.
 
 
 ## Week 12: Apr 5--9
-- Patel and Moore, _Seven Cheap Things_, 2: Cheap Money, 64--90.
 - Patel and Moore, _Seven Cheap Things_, 3: Cheap Work, 91--110.
-
-
-## Week 13: Apr 12--16
 - Patel and Moore, _Seven Cheap Things_, 4: Cheap Care, 111--137.
 - Patel and Moore, _Seven Cheap Things_, 5: Cheap Food, 138--160.
 
-## Week 14: Apr 19--23
+
+
+## Week 13: Apr 12--16
 - Patel and Moore, _Seven Cheap Things_, 6: Cheap Energy, 161--179.
 - Patel and Moore, _Seven Cheap Things_, 7: Cheap Lives, 180--201.
+- Patel and Moore, _Seven Cheap Things_, Conclusion, 202--212.
+
+
+## Week 14: Apr 19--23
+- John W. W. Zeise, "[Et in Arcadia Ego](https://lareviewofbooks.org/article/et-in-arcadia-ego/)", _Los Angeles Review of Books_, December 16, 2017.
+- Reviewing the use of history in _Seven Cheap Things_
 
 
 ## Week 15: May 26--30
-- Patel and Moore, _Seven Cheap Things_, Conclusion, 202--212.
-- John W. W. Zeise, "[Et in Arcadia Ego](https://lareviewofbooks.org/article/et-in-arcadia-ego/)", _Los Angeles Review of Books_, December 16, 2017.
-- Final essay explanation video (applying the course to reviewing Patel and Moore)
+
 
 ## Week 16: May  3--7
 - What is History For? Lecture and lecture quiz/response
+- Final essay explanation video (applying the course to reviewing Patel and Moore)
 
 
 ## All course work due by FRIDAY May 14!
