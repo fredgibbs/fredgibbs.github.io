@@ -92,24 +92,41 @@ This week we're continuing and finishing our historiographical survey. The plan 
 
 {% include alert.html class='warning' title='Due this week' text="
 Less writing this week, but the quizzes will test your familiarity with the brief lectures and readings, as well as help emphasize what I think are the most important points to take away for the topic.
-- M, W, F: Lecture/reading QUIZ
+- MONDAY: Lecture response
+- WEDNESDAY: Reading reflection
+- FRIDAY: Reading reflection
 "%}
 
-
 ### Monday
-- Popkin, Chapter 4: Rise of Academic Scholarship and Nationalist History, 71--100.
+- Video: Background for next chapters
 
 ### Wednesday
-- Popkin, Chapter 5: Scientific History in an Era of Conflict, 101--129.
+- Popkin, Chapter 4: Rise of Academic Scholarship and Nationalist History, 71--100.
 
 ### Friday
-- Popkin, Chapter 6: From Objectivity to the "Culture Wars", 133--170.
+- Popkin, Chapter 5: Scientific History in an Era of Conflict, 101--129.
 
 
 
 
-## Week 4 (Feb 8--12):
-Our next book introduces and explains some critical questions that we should always be asking about every history we encounter. It sort of picks up where the other book leaves off (with some helpful overlap), and largely focuses on contemporary history writing and what's new about it as opposed to past traditions. This book is really the meat of the course. We will apply these questions (and historical examples) to analyzing our final book for the course at the end of the term.
+
+
+## Week 4 (Feb 8--12)
+
+### Monday
+- Popkin, Chapter 6: From Objectivity to the "Culture Wars", 133--146.
+- Maza, _Thinking about History_, 178--185 (until the new section starts).
+
+
+
+### Wednesday
+- Popkin, Chapter 6: From Objectivity to the "Culture Wars", 146--170.
+
+
+
+
+## Week 5 (Feb 15--19)
+Our next book (though we briefly dabbled in it already) introduces and explains some critical questions that we should always be asking about every history we encounter. It sort of picks up where the other book leaves off (with some helpful overlap), and largely focuses on contemporary history writing and what's new about it as opposed to past traditions. We will apply these questions (and historical examples) to analyzing our final book for the course at the end of the term.
 
 {% include alert.html class='warning' title='A few reflections' text="
 There are TWO reflection assignment for this week, one for each chapter.
@@ -118,17 +135,15 @@ There are TWO reflection assignment for this week, one for each chapter.
 "%}
 
 ### Wednesday
-- Sara Maza, _Thinking about History_, Ch. 1: The History of Whom?, 10--44.
+- Maza, _Thinking about History_, Ch. 1: The History of Whom?, 10--44.
 
 ### Friday
-- Sara Maza, _Thinking about History_, Ch. 2: The History of Where?, 45--82.
+- Maza, _Thinking about History_, Ch. 2: The History of Where?, 45--82.
 
 
 
-
-
-## Week 5 (Feb 15--19):  1619 Project discussion
-Now that our historiographical survey is complete, we can reflect more thoughtfully on our own moment of historiography.
+## Week 6 (Feb 22--26)
+Now that our historiographical survey is complete and we've started to think about critical historical questions, we can reflect more thoughtfully on our own historiographical moment. How should we conceptualize and write about U.S. History?
 
 {% include alert.html class='warning' title='Reading reflection' text="
 There are no daily assignments for this week, just one longer reflection essay due on Friday that should demonstrate your familiarity with everything listed below.
@@ -158,21 +173,16 @@ Your 1619 Project reflection should be around ~800 words and is worth up to 10 p
 
 
 
-## Week 6 (Feb 22--26)
-- Sara Maza, _Thinking about History_, Ch. 3: The History of What?, 83--117.
-
-
-
 
 
 ## Week 7 (March 1--5)
+- Sara Maza, _Thinking about History_, Ch. 3: The History of What?, 83--117.
+
 - Sara Maza, _Thinking about History_, Ch. 4: How is History Produced?, 118--156.
-- Sara Maza, _Thinking about History_, Ch. 5: Causes or Meanings?, 157--198.
 
 
 
 ## Week 8 (Mar 8--12):
-- Sara Maza, _Thinking about History_, Ch, 6: Facts or Fictions?, 199--238.
 
 
 
@@ -201,7 +211,7 @@ There are no daily assignments for this week, just one reflection essay due on F
 ## Week 11: Mar 29--Apr 2
 We're reading this book to critique its use of history, not because it's "right" (you can decide for yourself how much you agree or disagree with it). The book's goal is to offer a critique of capitalism, but that's beside the point for us. OUR goal is to apply the Maza book on how we should approach history to this specific text, which has a very particular way of using history. Thinking through how history is used here will help us be more informed and critical readers when we see history invoked in any context.
 
-For each week, you'll have about 3 chapters to read. The number of pages per week seems high but the book is a quick read and we're not reading it to learn specific information. To keep on track, you'll submit a reading reflection on the assigned pages at the end of each week, and that will be your only assignment. I will offer a few guiding questions for you to respond to, but you should feel free to address whatever aspects of the chapters are most interesting to you---provided that you're making it clear to me that you're keeping up with the readings.
+For each week, you'll have about 3 chapters to read. The number of pages per week seems high but the book is a quick read and we're not reading it to learn specific information. To keep on track, you'll submit a reading reflection on the assigned pages at the end of each week, and that will be the only thing to turn in for the week. I will offer a few guiding questions for you to respond to, but you should feel free to address whatever aspects of the chapters are most interesting to you---provided that you're making it clear to me that you're keeping up with the readings.
 
 - Patel and Moore, _Seven Cheap Things_, Introduction, 1--43.
 - Patel and Moore, _Seven Cheap Things_, 1: Cheap Nature, 44--63.
