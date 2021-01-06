@@ -25,7 +25,7 @@ Before you start doing any reading or assignments for the course, follow the [Zo
 
 
 ### Wednesday
-- David Foster Wallace [What is Water?](https://fs.blog/2012/04/david-foster-wallace-this-is-water). You can listen to DFW read this (a commencement speech at Kenyon College in 2005) or just read the transcript---or read and listen at the same time, as I did.
+- David Foster Wallace, [What is Water?](https://fs.blog/2012/04/david-foster-wallace-this-is-water). You can listen to DFW read this (a commencement speech at Kenyon College in 2005) or just read the transcript---or read and listen at the same time, as I did.
 
 {% include alert.html class='warning' title='Reflections' text="
 - How is history useful in achieving the goals outlined in the speech?
@@ -88,7 +88,7 @@ As we get up to speed, you have very straightforward (if a bit dull) slate of wo
 
 
 ## Week 3 (Feb 1--5): The rise of modern history
-This week we're continuing and finishing our historiographical survey. The plan is to have a short (~5 minute) introductory lecture and lecture/reading quiz for each chapter. Quizzes will employ a variety of kinds of questions, including short answer prompts that test your ability to synthesize information from the lecture and chapter. The book is very good at making its main points very clear while providing lots of historical examples, so it's easy to read slower when getting the more important overview and read more quickly through the details. Don't treat it like a textbook where everything is equally important.
+This week we're continuing with our historiographical survey. The plan is to have a short (~5 minute) introductory lecture and lecture/reading quiz for each chapter. Quizzes will employ a variety of kinds of questions, including short answer prompts that test your ability to synthesize information from the lecture and chapter. The book is very good at making its main points very clear while providing lots of historical examples, so it's easy to read slower when getting the more important overview and read more quickly through the details. Don't treat it like a textbook where everything is equally important.
 
 {% include alert.html class='warning' title='Due this week' text="
 Less writing this week, but the quizzes will test your familiarity with the brief lectures and readings, as well as help emphasize what I think are the most important points to take away for the topic.
@@ -114,12 +114,16 @@ Less writing this week, but the quizzes will test your familiarity with the brie
 ## Week 4 (Feb 8--12)
 
 ### Monday
+- Video: Background for next chapters
+
+
+### Wednesday
 - Popkin, Chapter 6: From Objectivity to the "Culture Wars", 133--146.
 - Maza, _Thinking about History_, 178--185 (until the new section starts).
 
 
 
-### Wednesday
+### Friday
 - Popkin, Chapter 6: From Objectivity to the "Culture Wars", 146--170.
 
 
@@ -182,7 +186,7 @@ Your 1619 Project reflection should be around ~800 words and is worth up to 10 p
 
 
 
-## Week 8 (Mar 8--12):
+## Week 8 (Mar 8--12)
 
 
 
