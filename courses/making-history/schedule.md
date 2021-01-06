@@ -52,13 +52,13 @@ Standard reflection length (~200--250 words); 3 possible points for taking it se
 
 
 ## Week 2 (Jan 25--29): Premodern history writing
-To understand more about what history is and what it is for, it's imperative to have a sense of how historical methods, goals, and writing have changed over time. That's what our first book is about. It's a very high-level overview that helps keep the big picture of historiographical change in focus. Short lectures and reading guides will complement the text with additional details and historic examples. This book provides a foundation of historical tradition that is necessary to appreciate the critical questions and changes in historical writing that are the focus of our second book.
+To understand more about what history is and what it is for, it's imperative to have a sense of how historical methods, goals, and writing have changed over time. That's what our first book is about. It's a very high-level overview that helps keep the big picture of historiographical change in focus. Short lectures and reading guides will complement the text with additional details and historic examples. This book provides a foundation of historical tradition that is necessary to appreciate the critical questions and changes in historical writing that are the focus of our second book. Popkin's book is very good at making its main points very clear while providing lots of historical examples and detail, so it's easy to read slower when getting the more important overview and read more quickly through the details. Don't treat it like a textbook where everything is equally important.
 
 {% include alert.html class='warning' title='Due this week' text="
-As we get up to speed, you have very straightforward (if a bit dull) slate of work for this week. But it gives me a chance to hear everyone's voice and respond right out of the gate.
-- MONDAY: lecture quiz
-- WEDNESDAY: reading quiz
-- FRIDAY: reading reflection
+As we get up to speed, you have very straightforward (if a bit dull) slate of work for this week. But it gives me a chance to hear everyone's voice and try to start a dialog right out of the gate.
+- MONDAY: Lecture quiz
+- WEDNESDAY: Reading quiz
+- FRIDAY: Reading reflection
 "%}
 
 
@@ -88,43 +88,76 @@ As we get up to speed, you have very straightforward (if a bit dull) slate of wo
 
 
 ## Week 3 (Feb 1--5): The rise of modern history
-This week we're continuing with our historiographical survey. The plan is to have a short (~5 minute) introductory lecture and lecture/reading quiz for each chapter. Quizzes will employ a variety of kinds of questions, including short answer prompts that test your ability to synthesize information from the lecture and chapter. The book is very good at making its main points very clear while providing lots of historical examples, so it's easy to read slower when getting the more important overview and read more quickly through the details. Don't treat it like a textbook where everything is equally important.
+This week we're continuing with our historiographical survey.
 
 {% include alert.html class='warning' title='Due this week' text="
-Less writing this week, but the quizzes will test your familiarity with the brief lectures and readings, as well as help emphasize what I think are the most important points to take away for the topic.
-- MONDAY: Lecture response
+As usual, the quizzes will test your familiarity with the brief lectures and readings, as well as help emphasize what I think are the most important points to take away for the topic.
+- MONDAY: Lecture reflection
 - WEDNESDAY: Reading reflection
-- FRIDAY: Reading reflection
+- FRIDAY: Reading quiz
 "%}
 
 ### Monday
 - Video: Background for next chapters
 
+{% include alert.html class='danger' title='Lecture reflection' text="
+- What do YOU THINK are the most important points covered so far and points to keep in mind for the next two chapters?
+"%}
+
+
 ### Wednesday
 - Popkin, Chapter 4: Rise of Academic Scholarship and Nationalist History, 71--100.
+
+{% include alert.html class='danger' title='Reading Reflection' text="
+- What constitutes 'academic' history?
+- How did history become linked to nationalism?
+"%}
+
 
 ### Friday
 - Popkin, Chapter 5: Scientific History in an Era of Conflict, 101--129.
 
+{% include alert.html class='danger' title='Reading Quiz' text="
+Your quiz will cover the whole chapter as usual, but will focus on one particular question: Why was there a tension between 'scientific' history and global conflicts happening in the early 20th century?
+"%}
 
 
 
 
 
 ## Week 4 (Feb 8--12)
+We finish up our historiographical survey this week. This week's chapters cover how approaches to history changed in the second half of the 20th century.
+
+{% include alert.html class='warning' title='Due this week' text="
+Less writing this week, but the quizzes will test your familiarity with the brief lectures and readings, as well as help emphasize what I think are the most important points to take away for the topic.
+- MONDAY: Lecture reflection
+- WEDNESDAY: Reading quiz
+- FRIDAY: Reading reflection
+"%}
 
 ### Monday
 - Video: Background for next chapters
+
+{% include alert.html class='danger' title='Lecture Quiz' text="
+Your quiz will cover the whole chapter as usual, but will focus on one particular question: Why was there a tension between 'scientific' history and global conflicts happening in the early 20th century?
+"%}
 
 
 ### Wednesday
 - Popkin, Chapter 6: From Objectivity to the "Culture Wars", 133--146.
 - Maza, _Thinking about History_, 178--185 (until the new section starts).
 
+{% include alert.html class='danger' title='Reading Quiz' text="
+The question to think about in reading for the quiz: What were the challenges to the objectivity of history?
+"%}
 
 
 ### Friday
 - Popkin, Chapter 6: From Objectivity to the "Culture Wars", 146--170.
+
+{% include alert.html class='danger' title='Reading Reflection' text="
+There was a LOT going on in this final chapter that we've read over the last few days. For today's reading reflection, make a bullet point list of what you consider the most important points in the chapter. You should have between 10 and 20 bullet points. Bullet points should be COMPLETE sentences, and you can have more than one sentence in a single bullet. It's OK if a bullet point to make a complex point takes several sentences, but make sure most are quite succinct.
+"%}
 
 
 
@@ -150,15 +183,19 @@ There are TWO reflection assignment for this week, one for each chapter.
 Now that our historiographical survey is complete and we've started to think about critical historical questions, we can reflect more thoughtfully on our own historiographical moment. How should we conceptualize and write about U.S. History?
 
 {% include alert.html class='warning' title='Reading reflection' text="
-There are no daily assignments for this week, just one longer reflection essay due on Friday that should demonstrate your familiarity with everything listed below.
+There are NO DAILY ASSIGNMENTS for this week, just one longer reflection essay due on Friday that should demonstrate your familiarity with everything listed below. I have recommended doing work on certain days to space everything out, but you can decide what works for your schedule, since you just have the one essay due Friday.
 
 - FRIDAY: 1619 Project Critique
 "%}
 
+
+### Monday
 - Browse quickly the [full issue of the _New York Times Magazine_ 1619 Project](https://pulitzercenter.org/sites/default/files/full_issue_of_the_1619_project.pdf) (Aug 26, 2019). The goal here is to get a sense of entire publication---namely what it covers, what it doesn't, and what perspectives the authors promote.
 
 - Nikole Hannah-Jones, [The Idea of America](https://pulitzercenter.org/sites/default/files/the_idea_of_america_full_essay.pdf). An easier-to-read-online version, but without images, is [here](https://web.archive.org/web/20200131161717/https://www.nytimes.com/interactive/2019/08/14/magazine/black-history-american-democracy.html). This statement
 
+
+### Wednesday
 The following two responses to the _NYTM_ issue and its aftermath are online, but sometimes access can be limited. They are in our Zotero library.
 - Adam Serwer, "The Fight Over the 1619 Project Is Not About the Facts", _The Atlantic_, December 23, 2019.
 - Conor Friedersdorf, "1776 Honors America’s Diversity in a Way 1619 Does Not", _The Atlantic_, January 6, 2020.
@@ -180,14 +217,22 @@ Your 1619 Project reflection should be around ~800 words and is worth up to 10 p
 
 
 ## Week 7 (March 1--5)
+
+{% include alert.html class='warning' title='A few reflections' text="
+There are TWO reflection assignment for this week, one for each chapter.
+- WEDNESDAY: Reading reflection
+- FRIDAY: Reading reflection
+"%}
+
 - Sara Maza, _Thinking about History_, Ch. 3: The History of What?, 83--117.
 
 - Sara Maza, _Thinking about History_, Ch. 4: How is History Produced?, 118--156.
 
 
 
-## Week 8 (Mar 8--12)
 
+## Week 8 (Mar 8--12)
+TBD
 
 
 

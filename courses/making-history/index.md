@@ -35,11 +35,11 @@ Through readings, lectures, discussions, examinations, and writing assignments, 
 
 
 ## General Workload
-Most weeks you will read two short book chapters (occasionally articles) and short excerpts from historical sources, the standard amount for a lower-division history course. Almost all weeks will have a 5-10 minute introductory video that will help provide some background and highlight important themes to look for in the readings. Most readings will have a short reading quiz associated with them to make sure you are motivated to keep up with the lectures and reading, and to hold you accountable.
+Most weeks you will read two short book chapters (occasionally articles) and short excerpts from historical sources, the standard amount for a lower-division history course. Almost all weeks will have a 5-10 minute introductory video that will help provide some background and highlight important themes to look for in the readings. Most lectures and readings will have either a short reading reflection or quiz associated with them to make sure you are motivated to keep up with the lectures and reading, and to hold you accountable. Quizzes will employ a variety of kinds of questions, including short answer prompts that test your ability to synthesize information from the lecture and chapter(s).
 
-The quizzes (about 1/2 your grade for the course) are mostly straightforward. Some students have described them as "tricky", but I'm NOT trying to trick you---but trying to make you think CAREFULLY about course material. But don't worry! Because this class is about interpretation and argument, you are welcome and encouraged to debate ANY quiz question that was marked as wrong on the discussion board. If you make a good argument, you can get those points back. Interspersed among the quizzes are a few other short essay assignments to break up the monotony of the quizzes.
+The quizzes (about 1/2 your grade for the course) are mostly straightforward. Some students have described them as "tricky", but I'm NOT trying to trick you. I am, however, trying to make you THINK CAREFULLY and CRITICALLY about course material. But don't worry! Because this class is about interpretation and argument, you are welcome and encouraged to debate ANY quiz question that was marked as wrong on the discussion board. If you make a good argument, you'll get points for it and make up any "missed" points from the quiz.
 
-In short, it's very easy to get whatever grade you want in the class by just keeping up with the basic work. There is no huge midterm or final.
+In short, it's very easy to get whatever grade you want in the class by just keeping up with the basic work. There is no huge midterm or final that is a large percent of your grade.
 
 
 ## You are welcome here
