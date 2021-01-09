@@ -16,11 +16,23 @@ Everything you need to turn in is listed in a red box. Most weeks have short rea
 ## Week 1 (Jan 18--22): Introductions
 
 ### Monday: Syllabus, Expectations, Tools
-- Welcome address and lecture/syllabus quiz
+- Welcome/overview video
+- Overview/syllabus quiz
 - Introduction to [Zotero](http://zotero.org)
 
-{% include alert.html class='danger' title='Do this ASAP' text="
-Before you start doing any reading or assignments for the course, follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero), and make sure you can access the required course readings there. We use this library throughout the semester---and occasionally I add stuff to this during the semester that we'll use for an assignment---so don't be foolish enough to think you can get by without it.
+{% include alert.html class='warning' title='Do this ASAP' text="
+Before you do anything else, follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero), and make sure you can access the required course readings there. We use this library throughout the semester---and occasionally I add stuff to this during the semester that we'll use for an assignment---so don't be foolish enough to think you can get by without it.
+
+We use a tool called Zotero to manage PDFs of reading assignments apart from the books. As you read the [Zotero set up instructions](/courses/etc/zotero), you will need the following links. Save yourself confusion by reading the directions FIRST.
+
+Our `Zotero Group homepage` is [https://www.zotero.org/groups/2703269/making-history-unm](https://www.zotero.org/groups/2703269/making-history-unm). This link is best for joining the course Zotero Group.
+
+Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-history-unm/library](https://www.zotero.org/groups/2703269/making-history-unm/library). Once you are a member of our group, this link is best for accessing our Zotero Library.
+"%}
+
+
+{% include alert.html class='danger' title='Reflections' text="
+- Make sure you watch the intro video and take the quiz that covers both the intro video and the syllabus. These are super easy points that you don't want to miss out on.
 "%}
 
 
@@ -88,7 +100,7 @@ As we get up to speed, you have very straightforward (if a bit dull) slate of wo
 
 
 ## Week 3 (Feb 1--5): The rise of modern history
-This week we're continuing with our historiographical survey.
+This week we continue our historiographical survey.
 
 {% include alert.html class='warning' title='Due this week' text="
 As usual, the quizzes will test your familiarity with the brief lectures and readings, as well as help emphasize what I think are the most important points to take away for the topic.
@@ -108,7 +120,7 @@ As usual, the quizzes will test your familiarity with the brief lectures and rea
 ### Wednesday
 - Popkin, Chapter 4: Rise of Academic Scholarship and Nationalist History, 71--100.
 
-{% include alert.html class='danger' title='Reading Reflection' text="
+{% include alert.html class='danger' title='Reading reflection' text="
 - What constitutes 'academic' history?
 - How did history become linked to nationalism?
 "%}
@@ -129,7 +141,6 @@ Your quiz will cover the whole chapter as usual, but will focus on one particula
 We finish up our historiographical survey this week. This week's chapters cover how approaches to history changed in the second half of the 20th century.
 
 {% include alert.html class='warning' title='Due this week' text="
-Less writing this week, but the quizzes will test your familiarity with the brief lectures and readings, as well as help emphasize what I think are the most important points to take away for the topic.
 - MONDAY: Lecture reflection
 - WEDNESDAY: Reading quiz
 - FRIDAY: Reading reflection

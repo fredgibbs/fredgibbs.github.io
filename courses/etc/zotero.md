@@ -7,61 +7,43 @@ title: using zotero | fred gibbs
 
 [Zotero](http://zotero.org) is a free and popular tool developed by academics for academics for managing bibliographies to share resources like PDFs.
 
-To access the course readings, you'll need to join our group library for the course. On the first day of class, I send invitations to all registered students to join our group library. If you registered after then and are trying to connect to the course library, you'll need to skip to the "I didn't get an invitation" section below.
+To access the course readings, you'll need to join our group library for the course. These steps walk you through the process. I can't just automatically add you to our Zotero group, so you need to request to join it.
 
-If you have already clicked on the link in the invitation from zotero.org, you may have completed all these steps already. If you did (or think you did), skip to Step 5 to verify everything is working. Otherwise, start at Step 1 or 2, depending on whether you've created an account or not.
-
-If you already have a Zotero account (from a previous course, perhaps), skip to Step 2. Each course has a separate library that you need to join.
+If you already have a Zotero account, skip to Step 2. You won't need to create another Zotero account, but you will need to request access to our group to access the library for this course.
 
 
 
 ## Step 1: Create a Zotero account
 If you don't have one already, [sign up for a free account at zotero.org](https://www.zotero.org/user/register). Creating a Zotero account requires only that you specify a username, password, and email address. You will not get any spam from Zotero or anyone else because of your Zotero account. **Use your UNM email address!!!!!**
 
+
 ## Step 2: Make sure you are logged into zotero.org
-If you are, there will be a "Log Out" link in the upper right corner of the page.
+To verify you are logged in, look for a "Log Out" link in the upper right corner of the page.
 
-## Step 3: Go to the Groups page
-Click on the "Groups" tab or nav bar link. Once you're on the [groups page](https://www.zotero.org/groups/), you should see off to the right that you have been invited to join our course library, and you'll see a red "Join" button. If instead you happen to see a link to the course library on the main part of the page, then you're already connected.
 
-## NO JOIN BUTTON?
-If you don't see a red "Join" button, it's because you registered for the class after I sent out the invitations to join the group library or you are logged in with a non-UNM email address. Either way, skip to the "I didn't get an invitation" section below.
+## Step 3: Go to our Zotero Group homepage
+- Go to the `Zotero Group homepage` as specified on the main page of your course syllabus, usually in the `Readings` section. Make sure you go to the Group homepage, not the group library.
 
 ## Step 4: Click the red "Join" button
-Click the red "Join" button off to the right. Nothing really changes on the webpage, but it still worked.
+- Click the red "Join" button off to the right, which will send an email to me. As soon as I see it, I'll approve your request to join the group (usually within the hour).
 
-## Step 5: Verify you can see the course library online
-Click again on the "Groups" tab, and you should now be able to see the course library and all the readings for the semester. When you click one of these, you'll go to a metadata page with a link to a PDF of the reading at the bottom. If you can open a PDF this way, everything is working.
-
-NOTE: If you are using the Beta version of zotero.org, then you'll want to look for the "attachments" tab on the right after you select an item.
-
----
-
-
-## I didn't get an invitation
-- Go to zotero.org and make sure you're logged in. You can verify this by looking for a "Log Out" link in the upper right corner of the page.
-- Go to the `Zotero Group homepage` as specified on the homepage of your course syllabus.
-- Click the red "Join" button off to the right, which will send an email to me and as soon as I see it I'll approve your request to join the group.
 
 ---
 
 
 ## TROUBLESHOOTING FAQs
 
-### I'm logged into zotero.org, but I don't know how to find the group library for the course.
-- Click on the "groups" tab or link at the top. If you don't see a link to the course library on the main part of the page OR a "Join" button off to the right, then either you really aren't logged into zotero.org OR you joined the course after I sent the invitations. Make sure you're logged in and return to the "Groups" page. If still no Join button, go to the "I didn't get an invitation" section above.
+### I'm logged into zotero.org, but I can't find the group library for the course.
+- Click on the "groups" tab or link at the top of the page and you should see a link to the group homepage.
+- If you don't see a link to the course library on the main part of the page then either you aren't logged into zotero.org or you haven't yet joined our group.
+- The easiest way to get to the group library, and make sure you're going to the right spot, is to use the link on the syllabus.
 
-### I can see the items on the group library page, but I can't open any PDFs.
+
+### I can see the items on the group library page, but I can't find/open any PDFs.
+- Everyone can SEE items in the library, even when not logged into zotero.org. You can only access the PDFs if you have JOINED the library.
 - First, check that you're logged in to zotero.org. If you are, there will be a "Log Out" link in the upper right corner of the page.
-- If you ARE logged in, but can't get any PDFs to open, then you haven't joined the group library. Go to the "I didn't get an invitation" section above.
+- If you ARE logged in, but can't get any PDFs to open, then you haven't joined the group library. Follow the directions from steps 1 or 2.
 
-### Nothing is working. What do I do now?
-- Go to zotero.org and make sure you're logged in. You can verify this by looking for a "Log Out" link in the upper right corner of the page.
-- Click the groups tab.
-- Search for the course library name: `diet-health-expertise-unm`.
-- Be sure the "Groups" tab for searching is selected (it usually defaults to People).
-- Click on the group library link (usually the first one, but not always)
-- Click the red "Join" button off to the right, which will send an email to me and I'll approve your request to join the group as soon as I see it.
 
 ---
 

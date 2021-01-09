@@ -19,12 +19,15 @@ UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "pr
 
 ### Syllabus, Expectations, Tools
 - Review the syllabus, course aims, assignments, and general plan for the semester.
-- Introduction to [Zotero](http://zotero.org)
-
+- Introduction to [Zotero](http://zotero.org).
 
 {% include alert.html class='danger' title='Do this RIGHT AWAY' text="
 - Follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero).
-- Make sure you can [access our group library](https://www.zotero.org/groups/1647219/digital-history-unm/items).
+
+- Our `Zotero Group homepage` is [https://www.zotero.org/groups/2667261/archives-algorithms](https://www.zotero.org/groups/2667261/archives-algorithms). This link is best for joining the course Zotero Group.
+
+- Our `Zotero Library page` is [https://www.zotero.org/groups/2667261/archives-algorithms/library](https://www.zotero.org/groups/2667261/archives-algorithms/library). Once you've joined the group, this link is best for accessing our Zotero Library.
+
 "%}
 
 

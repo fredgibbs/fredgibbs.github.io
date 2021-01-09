@@ -77,10 +77,17 @@ I heartily encouraged you to speak with me at any time about how I think you're 
 
 ## Readings
 
-### Required
+### Books
 - Sarah Maza, _Thinking About History_ (University of Chicago Press, 2017)
 - Raj Patel and Jason W. Moore, _A History of the World in Seven Cheap Things_ (University of California Press, 2018) [online](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=4820021)
 - Jeremy D. Popkin, _From Herodotus to H-Net, 2nd ed._ (Oxford University Press, 2021)
+
+### Zotero
+We use a tool called Zotero to manage PDFs of reading assignments apart from the books. As you read the [Zotero set up instructions](/courses/etc/zotero), you will need the following links. Save yourself confusion by reading the directions FIRST.
+
+Our `Zotero Group homepage` is [https://www.zotero.org/groups/2703269/making-history-unm](https://www.zotero.org/groups/2703269/making-history-unm). This link is best for joining the course Zotero Group.
+
+Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-history-unm/library](https://www.zotero.org/groups/2703269/making-history-unm/library). Once you are a member of our group, this link is best for accessing our Zotero Library.
 
 
 ## Writing Help
