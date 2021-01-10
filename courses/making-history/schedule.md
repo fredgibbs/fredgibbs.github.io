@@ -39,10 +39,10 @@ Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-histo
 ### Wednesday
 - David Foster Wallace, [What is Water?](https://fs.blog/2012/04/david-foster-wallace-this-is-water). You can listen to DFW read this (a commencement speech at Kenyon College in 2005) or just read the transcript---or read and listen at the same time, as I did.
 
-{% include alert.html class='warning' title='Reflections' text="
+{% include alert.html class='danger' title='Video Reflection' text="
 - How is history useful in achieving the goals outlined in the speech?
 - What ideas or phrases resonated with you?
-- What have you worshipped that maybe you don't think about enough?
+- What have you worshipped even if you never thought it about it that way?
 "%}
 
 
@@ -104,8 +104,8 @@ This week we continue our historiographical survey.
 ### Monday
 - Video: Background for next chapters
 
-{% include alert.html class='danger' title='Lecture reflection' text="
-- What do YOU THINK are the most important points covered so far and points to keep in mind for the next two chapters?
+{% include alert.html class='danger' title='Lecture quiz' text="
+
 "%}
 
 
@@ -219,12 +219,6 @@ Your 1619 Project reflection should be around ~800 words and is worth up to 20 p
 
 ## Week 7 (March 1--5)
 
-{% include alert.html class='warning' title='A few reflections' text="
-There are TWO reflection assignment for this week, one for each chapter.
-- WEDNESDAY: Reading reflection
-- FRIDAY: Reading reflection
-"%}
-
 - Sara Maza, _Thinking about History_, Ch. 3: The History of What?, 83--117.
 
 - Sara Maza, _Thinking about History_, Ch. 4: How is History Produced?, 118--156.
@@ -252,6 +246,10 @@ There are no daily assignments for this week, just one reflection essay due on F
 - Paul A. Shackel, “Public Memory and the Search for Power in American Historical Archaeology,” _American Anthropologist_ 103, no. 3 (2001): 655–70.
 
 - Lyra D. Monteiro, [Power Structures: White Columns, White Marble, White Supremacy](https://intersectionist.medium.com/american-power-structures-white-columns-white-marble-white-supremacy-d43aa091b5f9),” _Medium_, November 1, 2020.
+
+{% include alert.html class='danger' title='Architecture and Monuments' text="
+
+"%}
 
 
 
