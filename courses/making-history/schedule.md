@@ -31,8 +31,8 @@ Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-histo
 "%}
 
 
-{% include alert.html class='danger' title='Reflections' text="
-- Make sure you watch the intro video and take the quiz that covers both the intro video and the syllabus. These are super easy points that you don't want to miss out on.
+{% include alert.html class='danger' title='Syllabus Quiz' text="
+- Make sure you watch the intro video and take the quiz that covers both the intro video and the syllabus. These cover important aspects of the course and are super easy points that you don't want to miss out on.
 "%}
 
 
@@ -66,23 +66,21 @@ Standard reflection length (~200--250 words); 3 possible points for taking it se
 ## Week 2 (Jan 25--29): Premodern history writing
 To understand more about what history is and what it is for, it's imperative to have a sense of how historical methods, goals, and writing have changed over time. That's what our first book is about. It's a very high-level overview that helps keep the big picture of historiographical change in focus. Short lectures and reading guides will complement the text with additional details and historic examples. This book provides a foundation of historical tradition that is necessary to appreciate the critical questions and changes in historical writing that are the focus of our second book. Popkin's book is very good at making its main points very clear while providing lots of historical examples and detail, so it's easy to read slower when getting the more important overview and read more quickly through the details. Don't treat it like a textbook where everything is equally important.
 
-{% include alert.html class='warning' title='Due this week' text="
-As we get up to speed, you have very straightforward (if a bit dull) slate of work for this week. But it gives me a chance to hear everyone's voice and try to start a dialog right out of the gate.
-- MONDAY: Lecture quiz
-- WEDNESDAY: Reading quiz
-- FRIDAY: Reading reflection
-"%}
 
 
 ### Monday
 - No specific readings for today, but you might start reading the Popkin chapters for this week.
 - "Why care about historiography" LECTURE and QUIZ.
 
+{% include alert.html class='danger' title='Lecture Quiz' text="
+- How did Renaissance humanism impact historical methods and writing?
+"%}
 
 ### Wednesday
 - Popkin, Chapter 2: History in Ancient and Medieval Times, 26--48.
 
-{% include alert.html class='warning' title='Questions to think about' text="
+{% include alert.html class='danger' title='Reading Quiz' text="
+Some questions to keep in mind while reading and in preparing for the quiz:
 - How would you describe the differences between Herodotus and Thucydides?
 - What were Roman historians trying to accomplish?
 - How did Judiasm and Christianity challenge the kinds of history writing done to that point?
@@ -102,12 +100,6 @@ As we get up to speed, you have very straightforward (if a bit dull) slate of wo
 ## Week 3 (Feb 1--5): The rise of modern history
 This week we continue our historiographical survey.
 
-{% include alert.html class='warning' title='Due this week' text="
-As usual, the quizzes will test your familiarity with the brief lectures and readings, as well as help emphasize what I think are the most important points to take away for the topic.
-- MONDAY: Lecture reflection
-- WEDNESDAY: Reading reflection
-- FRIDAY: Reading quiz
-"%}
 
 ### Monday
 - Video: Background for next chapters
@@ -121,6 +113,7 @@ As usual, the quizzes will test your familiarity with the brief lectures and rea
 - Popkin, Chapter 4: Rise of Academic Scholarship and Nationalist History, 71--100.
 
 {% include alert.html class='danger' title='Reading reflection' text="
+A couple of broad questions to (paradoxically) answer in your reflection:
 - What constitutes 'academic' history?
 - How did history become linked to nationalism?
 "%}
@@ -140,11 +133,7 @@ Your quiz will cover the whole chapter as usual, but will focus on one particula
 ## Week 4 (Feb 8--12)
 We finish up our historiographical survey this week. This week's chapters cover how approaches to history changed in the second half of the 20th century.
 
-{% include alert.html class='warning' title='Due this week' text="
-- MONDAY: Lecture reflection
-- WEDNESDAY: Reading quiz
-- FRIDAY: Reading reflection
-"%}
+
 
 ### Monday
 - Video: Background for next chapters
@@ -159,7 +148,7 @@ Your quiz will cover the whole chapter as usual, but will focus on one particula
 - Maza, _Thinking about History_, 178--185 (until the new section starts).
 
 {% include alert.html class='danger' title='Reading Quiz' text="
-The question to think about in reading for the quiz: What were the challenges to the objectivity of history?
+The question to think about in reading for the quiz: What were the challenges to historical objectivity---the ability for historians to produce \"objective\" histories?
 "%}
 
 
@@ -167,7 +156,7 @@ The question to think about in reading for the quiz: What were the challenges to
 - Popkin, Chapter 6: From Objectivity to the "Culture Wars", 146--170.
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-There was a LOT going on in this final chapter that we've read over the last few days. For today's reading reflection, make a bullet point list of what you consider the most important points in the chapter. You should have between 10 and 20 bullet points. Bullet points should be COMPLETE sentences, and you can have more than one sentence in a single bullet. It's OK if a bullet point to make a complex point takes several sentences, but make sure most are quite succinct.
+There was a LOT going on in this final chapter that we've read over the last few days. For today's reading reflection, make a bullet point list of what you consider the most important points in the chapter. You should have 8--12 bullet points. Bullet points should be COMPLETE sentences, and you can have more than one sentence in a single bullet to make more complex points.
 "%}
 
 
@@ -176,28 +165,29 @@ There was a LOT going on in this final chapter that we've read over the last few
 ## Week 5 (Feb 15--19)
 Our next book (though we briefly dabbled in it already) introduces and explains some critical questions that we should always be asking about every history we encounter. It sort of picks up where the other book leaves off (with some helpful overlap), and largely focuses on contemporary history writing and what's new about it as opposed to past traditions. We will apply these questions (and historical examples) to analyzing our final book for the course at the end of the term.
 
-{% include alert.html class='warning' title='A few reflections' text="
-There are TWO reflection assignment for this week, one for each chapter.
-- WEDNESDAY: Reading reflection
-- FRIDAY: Reading reflection
-"%}
 
 ### Wednesday
 - Maza, _Thinking about History_, Ch. 1: The History of Whom?, 10--44.
 
+{% include alert.html class='danger' title='Reading Reflection' text="
+
+"%}
+
+
 ### Friday
 - Maza, _Thinking about History_, Ch. 2: The History of Where?, 45--82.
+
+{% include alert.html class='danger' title='Reading Reflection' text="
+
+"%}
+
 
 
 
 ## Week 6 (Feb 22--26)
 Now that our historiographical survey is complete and we've started to think about critical historical questions, we can reflect more thoughtfully on our own historiographical moment. How should we conceptualize and write about U.S. History?
 
-{% include alert.html class='warning' title='Reading reflection' text="
 There are NO DAILY ASSIGNMENTS for this week, just one longer reflection essay due on Friday that should demonstrate your familiarity with everything listed below. I have recommended doing work on certain days to space everything out, but you can decide what works for your schedule, since you just have the one essay due Friday.
-
-- FRIDAY: 1619 Project Critique
-"%}
 
 
 ### Monday
@@ -220,7 +210,7 @@ WARNING: Make specific use of ALL READINGS to inform your response. Don't just r
 {% include alert.html class='danger' title='Project Reflection' text="
 How would you characterize the pros (advantages) and cons (disadvantages) of what the project is trying to do? You should try to address equally (and objectively) both sides of the debate in your post, regardless of your own feelings about it.
 
-Your 1619 Project reflection should be around ~800 words and is worth up to 10 points (not counting extra credit, as usual).
+Your 1619 Project reflection should be around ~800 words and is worth up to 20 points (not counting extra credit, as usual).
 "%}
 
 

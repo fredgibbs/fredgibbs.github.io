@@ -48,10 +48,14 @@ This course is probably very unlike most history/humanities courses you've taken
 I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. If you feel the course structure or assignments isn't facilitating success or does not represent the effort you're putting in the course, let's talk (virtually, of course)!
 
 
-## Work Requirements and Grading
-- Quizzes on lectures and reading assignments (50%)
-- Various longer essay assignments (30%)
-- Final Course Reflection Essay (20%)
+## Work Requirements and Grading (points)
+- Quizzes on lectures and reading assignments (6x15=90)
+- Reading Reflections (6x15=90)
+- Primary Source Reflections (4x5=20)
+- 1619 Project Reflection (1x20)
+- Architecture and Monuments Reflection (1x20)
+- History at Work Critique (1x20)
+- Final Course Reflection Essay (1x40)
 
 
 
