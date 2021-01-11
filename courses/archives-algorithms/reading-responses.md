@@ -20,41 +20,29 @@ Whatever the prompt, there are two motivations for these reflections:
 3) create your own archive of the course---something we will use at the end to reflect on the course as a whole.
 
 ## Basics
-- **~200--250 words**: Write more or less as you need/want to per assignment, but don't be consistently too much above or below the target.
-- **Original thinking**: Avoid summarizing readings except to restate a point that you want to elaborate on.
-- **Specificity**: General statements are good ONLY when supported by examples from the readings. Otherwise it looks like you didn't read very carefully.
-- **Polished writing**: Don't try to sound like an academic, but your post shouldn't read like a text message, either. Overly informal posts will lower your grade by 1/3 to 2/3 grade (A to B+, for instance).
-- **Posted ON TIME at UNM Learn**: ON TIME means by MIDNIGHT on the due date. As explained on the main syllabus page, you can turn work in up to two days late for full credit, but that's it. After that, you will get a zero. I don't mean to sound draconian, but too much leeway with assignments creates too much temptation to let them slide, and then they aren't effective and serve only to create busywork.
-
+- **~300--350 words**: Write more or less as you need/want to per assignment, but don't be consistently too much above or below the target.
+- **Original thinking based on the readings**: Avoid summarizing readings except to restate a point that you want to elaborate on. Your reflections should be obviously informed by the readings. This is easy to do if you actually read them, and impossible if you don't.
+- **Specificity**: General statements are good ONLY when supported by examples from the readings. Otherwise it looks like you didn't read much and/or very carefully.
+- **Polished writing**: Don't try to sound like an academic, but your post shouldn't read like a text message, either.
+- **Posted ON TIME at UNM Learn**: ON TIME means by MIDNIGHT on the due date. As explained on the main syllabus page, you can on occasion turn work in up to two days late for full credit, but that's it. After that, you will get a zero. I don't mean to sound draconian, but too much leeway with assignments creates too much temptation to let them slide, and then they aren't effective and serve only to create busywork.
 
 ## Kind of responses
 To mix things up a little, we have different _kinds_ of reflections that we use from time to time. The kind of reflection you should post should be clearly indicated on the syllabus, or is obvious by whether there are questions to answer.
 
-### Prompt Reflection
-These are probably the most common because they are the most straightforward (if a bit dull). If I have posted some questions on the syllabus, you should answer them. The questions are meant to focus your attention on ideas or themes that I think are especially powerful and important for the course.
-
-
 ### Creative Reflection
-Provide a brief statement of what you found most interesting about the readings. Think about:
+Most reflections are creative reflections in that they ask you to provide a brief description of what you found most interesting about the readings AND WHY. Think about:
 - What ideas did you find most interesting or surprising?
 - What was most unclear or confusing?
-- What questions did they bring up?
+- What questions did they bring up, especially compared to other readings?
+
+### Prompt Reflection
+If I have posted some questions in the red box where the assignment is listed, you should answer them. Really! (I emphasize this because too many students just write something with the expectation of getting credit for turning something in.) The questions are meant to focus your attention on ideas or themes that I think are especially powerful and important for the course.
 
 
 
 ## Scoring and how these factor in your grade
-I score reading reflections according to the rubric below, using .5 point increments.
+These are basically pass/fail assignments, but I won't let you fail.
 
-For exceptional responses, which might be a bit longer and more insightful than a typical post, I give UP TO 1.5 points EXTRA CREDIT. This makes it easy to make up points you may have missed on a reflection that you didn't have time to do particularly well.
+These assignments do not get scored with points as do other assignments because I don't want the reflections to become an opaque game of you trying to writing out what you think I want to hear so that you get the most points. Most readings have way more cool stuff in them than can be absorbed in one reading so there really isn't a "right" answer. And I don't find it productive to spend time trying to justify why one student gets a 7 and another gets a 8.5, when they may have learned the same amount or spent the same amount genuinely working on the assignment to the best of their ability. You should be graded on work you do for this class, not how good of a thinker or writer you already are.
 
-The idea here is that these reflections should in sum account for a significant but not large portion of your final grade without being unduly stressful to complete.
-
-- 3 points: Clearly demonstrates broad familiarity with the reading assignment, original thinking, and is clearly articulated.
-
-- 2 points: Shows some familiarity with the assignment and some critical analysis but could use refinement either in thinking or writing.
-
-- 1 point: A decent effort, but doesn't show much engagement with the reading or is difficult to understand.
-
-- .5 point: You posted _something_, but it looks like you were posting without reading much at all. Often such posts ignorantly contradict them the readings or make erroneous assumptions.
-
-- 0 points: Nothing posted, or otherwise so unintelligible that I can't even guess at what you were trying to do.
+Instead, I look for genuine engagement with and reflection on the course material---as explained above, the reflections should make clear that you've done the readings and developed some thoughts about them. If it is NOT clear to me, I'll ask you some questions that you'll need answer. These questions will encourage a bit more engagement and once you've got . I might ask you questions even when I really like your ideas.

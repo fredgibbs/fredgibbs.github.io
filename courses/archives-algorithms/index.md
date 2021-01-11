@@ -45,16 +45,20 @@ There are a few other assignments, too, to break up the monotony of the journal 
 ## You are welcome here
 This course is probably very unlike most history/humanities courses you've taken. But I want to be VERY CLEAR: Even if you have never thought about archives or algorithms (much less how they are related), or have never taken a history or humanities course, YOU ARE WELCOME HERE! This course assumes you know NOTHING about either archives or algorithms (or even what they are, which is actually a trickier question than you might think), and introduces and explores each of them as a metaphor for interacting with knowledge infrastructures all around us.
 
-I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. As much as possible I've tried to make the course about everyone thinking together rather than just you memorizing something I say or you read so that you can regurgitate it later. If you feel the course structure or assignments aren't facilitating your success or reflecting your effort, let's talk (virtually, of course)!
+I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. I've tried to make the course about everyone thinking together rather than just you memorizing something I say or you read so that you can regurgitate it later; I've tried to make assignments less anxiety-producing by facilitating (hopefully) you holding yourself accountable rather than me assigning point values to everything.
+
+If you feel the course structure or assignments aren't facilitating your success or reflecting your effort, let's talk! (virtually, of course)
 
 
 ## Work Requirements and Grading
-- [Reading/lecture responses](reading-responses) (5 points x 10)
-- Reading/lecture quizzes  (~8 points x 5)
-- [Learning journal](learning-journal) (10 points x 10)
+- [Reading/lecture Responses](reading-responses) (no points; see assignment description)
+- [Learning Journal Entries](learning-journal) (no points; see assignment description)
+- [Archival Silence Analysis](archival-silence-analysis) (10 points x 1)
 - [Transcription Assignment](transcription-guidelines) (10 points x 1)
 - [Data Interface Critique](data-interface-critique) (10 points x 1)
 - [Final Course Reflection](final-reflections) (30 points x 1)
+
+
 
 ### Grade Distribution
 

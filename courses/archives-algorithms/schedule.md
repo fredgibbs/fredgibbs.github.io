@@ -8,11 +8,7 @@ section: schedule
 ---
 
 # Schedule of Readings & Assignments
-UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "progress" (more of a wandering back and forth than a directional march).
 
-11/30: This is meant to give you a rough idea of what we're doing, but there are still many topics not yet represented here, and probably there is more listed in this draft version that will make the final cut.
-
-12/6: This pretty close to the final reading selections. I'll be developing and posting the assignments here over the next few weeks. I intend for them to be more creative than regurgitative exercises.
 
 
 ## Week 1 (Jan 18--22): Introductions
@@ -123,7 +119,7 @@ UNDER DEVELOPMENT! I do update this occasionally if you want to check on the "pr
 - [The Civil War in Letters](https://publications.newberry.org/digital/mms-transcribe/index): This collection contains letters from Civil War soldiers that give a human view of the conflict.
 - [Library of Congress transcription project](https://crowd.loc.gov/)
 - [Citizen Archivist](https://www.archives.gov/citizen-archivist): A set of transcription projects organized by the National Archives
-- [Smithsonian Digital Volunteers](https://transcription.si.edu/): LOTS of great projects to contribute to, based on archives of the Smithsonian Institution. You can browse all projects by name or by theme.
+- [Smithsonian Digital Volunteers](https://transcription.si.edu/): LOTS of great projects to contribute to, based on archives of the Smithsonian Institution. You can browse all projects by name or theme.
 
 
 
