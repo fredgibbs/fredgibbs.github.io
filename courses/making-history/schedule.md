@@ -136,34 +136,35 @@ We finish up our historiographical survey this week. This week's chapters cover 
 
 
 ### Monday
-- Video: Background for next chapters
+- Video: Background for 20th-century "paradigm shifts"
 
 {% include alert.html class='danger' title='Lecture Quiz' text="
-Your quiz will cover the whole chapter as usual, but will focus on one particular question: Why was there a tension between 'scientific' history and global conflicts happening in the early 20th century?
+The video and quiz will center around this question: From the 1960s on, what were the challenges to historical objectivity---the ability for historians to produce \"objective\" histories?
 "%}
 
 
 ### Wednesday
-- Popkin, Chapter 6: From Objectivity to the "Culture Wars", 133--146.
+- Popkin, Chapter 6: From Objectivity to the "Culture Wars", 133--148.
 - Maza, _Thinking about History_, 178--185 (until the new section starts).
 
-{% include alert.html class='danger' title='Reading Quiz' text="
-The question to think about in reading for the quiz: What were the challenges to historical objectivity---the ability for historians to produce \"objective\" histories?
+{% include alert.html class='warning' title='Nothing due today' text="
+There is nothing due for today, but you will use the reading assignment for today in your assignment due Friday.
 "%}
 
 
-### Friday
-- Popkin, Chapter 6: From Objectivity to the "Culture Wars", 146--170.
 
-{% include alert.html class='danger' title='Reading Reflection' text="
-There was a LOT going on in this final chapter that we've read over the last few days. For today's reading reflection, make a bullet point list of what you consider the most important points in the chapter. You should have 8--12 bullet points. Bullet points should be COMPLETE sentences, and you can have more than one sentence in a single bullet to make more complex points.
+### Friday
+- Popkin, Chapter 6: From Objectivity to the "Culture Wars", 148--170.
+
+{% include alert.html class='danger' title='Reading Summary' text="
+There was a LOT going on in Chapter 6 and the few pages from Maza. For today's reading reflection, make a bullet point list of what you consider the most important historical changes described in the chapter. These should be in your own words---don't just copy sentences out of the book---and you should have ~12 bullet points. Bullet points should be COMPLETE sentences, and you can have more than one sentence in a single bullet to make more complex points. Make sure each bullet is a separate topic.
 "%}
 
 
 
 
 ## Week 5 (Feb 15--19)
-Our next book (though we briefly dabbled in it already) introduces and explains some critical questions that we should always be asking about every history we encounter. It sort of picks up where the other book leaves off (with some helpful overlap), and largely focuses on contemporary history writing and what's new about it as opposed to past traditions. We will apply these questions (and historical examples) to analyzing our final book for the course at the end of the term.
+Our next book (though we briefly dabbled in it already) introduces and explains some critical questions that we should always be asking about every history we encounter. It sort of picks up where the other book leaves off (with some helpful overlap), and largely focuses on contemporary history writing and what's new about it as opposed to past traditions. We will apply these questions (and historical examples) to analyzing our final book for the course towards the end of the term.
 
 
 ### Wednesday
