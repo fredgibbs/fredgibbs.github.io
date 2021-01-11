@@ -51,12 +51,18 @@ If you feel the course structure or assignments aren't facilitating your success
 
 
 ## Work Requirements and Grading
-- [Reading/lecture Responses](reading-responses) (no points; see assignment description)
-- [Learning Journal Entries](learning-journal) (no points; see assignment description)
-- [Archival Silence Analysis](archival-silence-analysis) (10 points x 1)
-- [Transcription Assignment](transcription-guidelines) (10 points x 1)
-- [Data Interface Critique](data-interface-critique) (10 points x 1)
-- [Final Course Reflection](final-reflections) (30 points x 1)
+This course has an atypical grading procedure, so be sure you understand how everything works to avoid unpleasant surprises later on. My goal is to have us doing things that are sort of fun to do and help us learn without a dark, mysterious shadow of an anxiety-inducing grade looming over everything. Explanations of how work is evaluated (or not) is explained on each assignment instruction page (links directly below).
+
+The general expectation is that you'll do about one reading or lecture response (~250 words) per week AND one entry in your learning journal (~800 words) for the set of readings for the week. These are all more or less pass/fail assignments and a chance for me to respond to your learning experience and add to the course rather than me assigning a seemingly arbitrary point value on how "good" you did. If I don't see your engagement with the readings, I just ask you to elaborate on some points you brought up or on a reading that you didn't mention much or at all so that you can get a pass for the assignment. I will let you fail only if you insist on it. If you're getting passes (I keep everyone informed about how they are doing as I respond to your work), then you're getting full points for those components of the course.
+
+The other assignments besides those are a little different in that they ask you to do a thing and think critically about it using the readings. These ARE graded in terms of points because it's useful to have a little pressure once in a while.
+
+- [Reading/lecture Responses](reading-responses) (pass/fail; 50 points total)
+- [Learning Journal Entries](learning-journal) (pass/fail 150 points total )
+- [Archival Silence Analysis](archival-silence-analysis) (20 points x 1)
+- [Transcription Assignment](transcription-guidelines) (20 points x 1)
+- [Data Interface Critique](data-interface-critique) (20 points x 1)
+- [Final Course Reflection](final-reflections) (40 points x 1)
 
 
 
