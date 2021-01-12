@@ -14,10 +14,10 @@ section: home
 All work will be submitted on UNM Learn, either through the discussion board or via a quiz.
 
 ### A note about deadlines
-Everything you need to turn in is listed in a red box. Most weeks have short reading quizzes or reflections due on specified days to keep everyone moving along together and space out the work. But I am also aware that sh!t happens and takes up valuable time unexpectedly. If need be, you can submit work up to TWO DAYS after the due date for full credit if the need arises. But this leeway should be used only as a last resort in the wake of unusual circumstances. Because there is a tendency to let things slide until the last weeks of the semester, unless you've made arrangements with me (and please do!), work more than 2 days late will be scored a 0.
+Everything you need to turn in is listed in a red box. Most weeks have short reading quizzes or reflections due on specified days to keep everyone moving along together and space out the work. But I am also aware that sh!t happens and takes up valuable time unexpectedly. If need be, you can submit work up to TWO DAYS after the due date for full credit IF THE NEED ARISES. But this leeway should be used only as a last resort in the wake of unusual circumstances. Because there is a natural tendency to let things slide until the last weeks of the semester, unless you've made arrangements with me (and please do!), **work more than 2 days late will be scored a 0**.
 
-### Kinda under construction
-I'm always fiddling with the syllabus depending on what's going on in the class. I might swap out a reading or change up an assignment for the upcoming week. But the overall workload will remain the same, and all changes will result in the same or less work than originally stated. I always let you know of any changes with considerable advance notice.
+### Kinda always under construction
+I'm always fiddling with the syllabus depending on what's working or not working in the class and what's going on in the world. I might swap out a reading or change up an assignment for an upcoming week. But the overall workload will always remain the same compared to what you see below, and all changes will result in the same or less work than originally stated. I always let you know of any changes with considerable advance notice.
 
 
 ## Week 1 (Jan 18--22): Introductions
@@ -28,7 +28,7 @@ I'm always fiddling with the syllabus depending on what's going on in the class.
 - Introduction to [Zotero](http://zotero.org)
 
 {% include alert.html class='warning' title='Do this ASAP' text="
-We use a tool called Zotero to manage PDFs of reading assignments apart from the books. As you read the [Zotero set up instructions](/courses/etc/zotero), you will need the following links. Save yourself confusion by reading the directions FIRST. We use Zoitero throughout the semester---and occasionally I add stuff to this during the semester that we'll use for an assignment---so don't be foolish enough to think you can get by without it.
+We use a tool called Zotero to manage PDFs of reading assignments apart from the books. As you read the [Zotero set up instructions](/courses/etc/zotero), you will need the following links. Save yourself confusion by reading the directions FIRST. We use Zotero throughout the semester---and occasionally I add stuff to this during the semester that we'll use for an assignment---so don't be foolish enough to think you can get by without it.
 
 Our `Zotero Group homepage` is [https://www.zotero.org/groups/2703269/making-history-unm](https://www.zotero.org/groups/2703269/making-history-unm). This link is best for joining the course Zotero Group.
 
@@ -144,11 +144,7 @@ We finish up our historiographical survey this week. This week's chapters cover 
 - Video: Background for 20th-century "paradigm shifts"
 
 {% include alert.html class='warning' title='Nothing due today' text="
-There is nothing due for today, but the lecture will be a big help for your summaries due Wednesday and Friday
-"%}
-
-{% include alert.html class='danger' title='Lecture Quiz' text="
-This introduction will center on the challenges to historical objectivity---the ability for historians to produce \"objective\" histories.
+There is nothing due for today, but the lecture will be a big help for your summaries due Wednesday and Friday.
 "%}
 
 
@@ -157,7 +153,7 @@ This introduction will center on the challenges to historical objectivity---the 
 - Maza, _Thinking about History_, 178--185 (until the new section starts).
 
 {% include alert.html class='danger' title='Reading Summary' text="
-Using both readings, make a bullet point list of what you consider the most important historical changes described in the chapter. These should be in your own words---don't just copy sentences out of the book---and you should have ~12 bullet points. Bullet points should be COMPLETE sentences, and you can have more than one sentence in a single bullet to make more complex points. Make sure each bullet is a separate topic.
+Using both readings, make a bullet point list of what you consider the most important historical changes described in the chapter. These should be in your own words---don't just copy sentences out of the book---and you should have ~8--10 bullet points. Bullet points should be COMPLETE sentences, and you can have more than one sentence in a single bullet to make more complex points. Make sure each bullet is a separate topic.
 "%}
 
 
@@ -181,7 +177,7 @@ Our next book (though we briefly dabbled in it already) introduces and explains 
 - Maza, _Thinking about History_, Ch. 1: The History of Whom?, 10--44.
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-
+TBA
 "%}
 
 
@@ -189,7 +185,7 @@ Our next book (though we briefly dabbled in it already) introduces and explains 
 - Maza, _Thinking about History_, Ch. 2: The History of Where?, 45--82.
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-
+TBA
 "%}
 
 
@@ -238,7 +234,7 @@ Your 1619 Project reflection should be around 800--1000 words and is worth up to
 
 
 ## Week 8 (Mar 8--12)
-TBD
+TBA
 
 
 
@@ -259,7 +255,7 @@ There are no daily assignments for this week, just one reflection essay due on F
 - Lyra D. Monteiro, [Power Structures: White Columns, White Marble, White Supremacy](https://intersectionist.medium.com/american-power-structures-white-columns-white-marble-white-supremacy-d43aa091b5f9),” _Medium_, November 1, 2020.
 
 {% include alert.html class='danger' title='Architecture and Monuments' text="
-TBD
+TBA
 "%}
 
 
