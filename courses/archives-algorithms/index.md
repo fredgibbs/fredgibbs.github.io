@@ -58,7 +58,7 @@ The general expectation is that you'll do about one reading or lecture response 
 The other assignments besides those are a little different in that they ask you to do a thing and think critically about it using the readings. These ARE graded in terms of points because it's useful to have a little pressure once in a while.
 
 - [Reading/lecture Responses](reading-responses) (pass/fail; 50 points total)
-- [Learning Journal Entries](learning-journal) (pass/fail 150 points total )
+- [Learning Journal Entries](learning-journal) (pass/fail; 150 points total)
 - [Archival Silence Analysis](archival-silence-analysis) (20 points x 1)
 - [Transcription Assignment](transcription-guidelines) (20 points x 1)
 - [Data Interface Critique](data-interface-critique) (20 points x 1)

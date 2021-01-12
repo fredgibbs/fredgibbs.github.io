@@ -9,8 +9,15 @@ section: home
 
 # HIST 1105: Readings & Assignments
 
+
+### Submitting work
+All work will be submitted on UNM Learn, either through the discussion board or via a quiz.
+
 ### A note about deadlines
-Everything you need to turn in is listed in a red box. Most weeks have short reading quizzes or reflections due on specified days to keep everyone moving along together and space out the work. But I am also aware that sh!t happens and takes up valuable time unexpectedly. If need be, you can submit work up to TWO DAYS after the due date for full credit if the need arises. But this leeway should be used only as a last resort in the wake of unusual circumstances. Experience has taught me that too many students let things slide until the last weeks of the semester, so unless you've made arrangements with me (and please do!), work more than 2 days late will be scored a 0.
+Everything you need to turn in is listed in a red box. Most weeks have short reading quizzes or reflections due on specified days to keep everyone moving along together and space out the work. But I am also aware that sh!t happens and takes up valuable time unexpectedly. If need be, you can submit work up to TWO DAYS after the due date for full credit if the need arises. But this leeway should be used only as a last resort in the wake of unusual circumstances. Because there is a tendency to let things slide until the last weeks of the semester, unless you've made arrangements with me (and please do!), work more than 2 days late will be scored a 0.
+
+### Kinda under construction
+I'm always fiddling with the syllabus depending on what's going on in the class. I might swap out a reading or change up an assignment for the upcoming week. But the overall workload will remain the same, and all changes will result in the same or less work than originally stated. I always let you know of any changes with considerable advance notice.
 
 
 ## Week 1 (Jan 18--22): Introductions
@@ -21,9 +28,7 @@ Everything you need to turn in is listed in a red box. Most weeks have short rea
 - Introduction to [Zotero](http://zotero.org)
 
 {% include alert.html class='warning' title='Do this ASAP' text="
-Before you do anything else, follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero), and make sure you can access the required course readings there. We use this library throughout the semester---and occasionally I add stuff to this during the semester that we'll use for an assignment---so don't be foolish enough to think you can get by without it.
-
-We use a tool called Zotero to manage PDFs of reading assignments apart from the books. As you read the [Zotero set up instructions](/courses/etc/zotero), you will need the following links. Save yourself confusion by reading the directions FIRST.
+We use a tool called Zotero to manage PDFs of reading assignments apart from the books. As you read the [Zotero set up instructions](/courses/etc/zotero), you will need the following links. Save yourself confusion by reading the directions FIRST. We use Zoitero throughout the semester---and occasionally I add stuff to this during the semester that we'll use for an assignment---so don't be foolish enough to think you can get by without it.
 
 Our `Zotero Group homepage` is [https://www.zotero.org/groups/2703269/making-history-unm](https://www.zotero.org/groups/2703269/making-history-unm). This link is best for joining the course Zotero Group.
 
@@ -32,7 +37,7 @@ Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-histo
 
 
 {% include alert.html class='danger' title='Syllabus Quiz' text="
-- Make sure you watch the intro video and take the quiz that covers both the intro video and the syllabus. These cover important aspects of the course and are super easy points that you don't want to miss out on.
+- Make sure you watch the intro video and take the quiz that covers both the intro video and the syllabus. These cover important logistics of the course and are super easy points that you don't want to miss out on.
 "%}
 
 
@@ -40,6 +45,7 @@ Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-histo
 - David Foster Wallace, [What is Water?](https://fs.blog/2012/04/david-foster-wallace-this-is-water). You can listen to DFW read this (a commencement speech at Kenyon College in 2005) or just read the transcript---or read and listen at the same time, as I did.
 
 {% include alert.html class='danger' title='Video Reflection' text="
+This assignment is a standard [reading reflection](reading-reflections), where you should answer the prompts
 - How is history useful in achieving the goals outlined in the speech?
 - What ideas or phrases resonated with you?
 - What have you worshipped even if you never thought it about it that way?
@@ -55,11 +61,11 @@ The significance of the anecdote offered at the beginning of this piece is not e
 
 
 {% include alert.html class='danger' title='Introductory Connections' text="
-Drawing from the set of readings for this introductory week, and as a way of getting to know each other just a little bit, answer the following: What kinds of history to you find interesting? What reasons for studying history have appealed to you (even if you didn't think explicitly about them until now)?
+USING THE READINGS FOR THIS WEEK---and as a way of getting to know each other just a little bit---answer the following: What kinds of history to you find interesting? What reasons for studying history have appealed to you (even if you didn't think explicitly about them until now)?
 
 GIMICK ALERT: Just for fun (apologies if this ends up being stupid), we're going to try to connect all our responses together. I'm going to start a thread on the Learn Discussion Board, and everyone is going to reply to the person who posted immediately before them. You don't need to respond directly or in depth to what the person says, but try your best to connect your post to the previous one. The post you will respond to will probably mention a historical topic or period that you're familiar with (or really dislike), or have been meaning to learn more about (or intend to avoid), and you can use that as your connection. You and your connection might like totally different topics for the same reason or the same topic for very different reasons.
 
-Standard reflection length (~200--250 words); 3 possible points for taking it seriously.
+Standard reflection length (~250--300 words); 3 possible points for taking it seriously.
 "%}
 
 
@@ -131,15 +137,18 @@ Your quiz will cover the whole chapter as usual, but will focus on one particula
 
 
 ## Week 4 (Feb 8--12)
-We finish up our historiographical survey this week. This week's chapters cover how approaches to history changed in the second half of the 20th century.
-
+We finish up our historiographical survey this week. This week's chapters cover how approaches to history changed in the second half of the 20th century. We are taking a short break from reading responses in favor of READING SUMMARIES. They are described below.
 
 
 ### Monday
 - Video: Background for 20th-century "paradigm shifts"
 
+{% include alert.html class='warning' title='Nothing due today' text="
+There is nothing due for today, but the lecture will be a big help for your summaries due Wednesday and Friday
+"%}
+
 {% include alert.html class='danger' title='Lecture Quiz' text="
-The video and quiz will center around this question: From the 1960s on, what were the challenges to historical objectivity---the ability for historians to produce \"objective\" histories?
+This introduction will center on the challenges to historical objectivity---the ability for historians to produce \"objective\" histories.
 "%}
 
 
@@ -147,8 +156,8 @@ The video and quiz will center around this question: From the 1960s on, what wer
 - Popkin, Chapter 6: From Objectivity to the "Culture Wars", 133--148.
 - Maza, _Thinking about History_, 178--185 (until the new section starts).
 
-{% include alert.html class='warning' title='Nothing due today' text="
-There is nothing due for today, but you will use the reading assignment for today in your assignment due Friday.
+{% include alert.html class='danger' title='Reading Summary' text="
+Using both readings, make a bullet point list of what you consider the most important historical changes described in the chapter. These should be in your own words---don't just copy sentences out of the book---and you should have ~12 bullet points. Bullet points should be COMPLETE sentences, and you can have more than one sentence in a single bullet to make more complex points. Make sure each bullet is a separate topic.
 "%}
 
 
@@ -157,7 +166,7 @@ There is nothing due for today, but you will use the reading assignment for toda
 - Popkin, Chapter 6: From Objectivity to the "Culture Wars", 148--170.
 
 {% include alert.html class='danger' title='Reading Summary' text="
-There was a LOT going on in Chapter 6 and the few pages from Maza. For today's reading reflection, make a bullet point list of what you consider the most important historical changes described in the chapter. These should be in your own words---don't just copy sentences out of the book---and you should have ~12 bullet points. Bullet points should be COMPLETE sentences, and you can have more than one sentence in a single bullet to make more complex points. Make sure each bullet is a separate topic.
+Same thing as Wednesday (but for today's assignment, obviously).
 "%}
 
 
@@ -165,6 +174,7 @@ There was a LOT going on in Chapter 6 and the few pages from Maza. For today's r
 
 ## Week 5 (Feb 15--19)
 Our next book (though we briefly dabbled in it already) introduces and explains some critical questions that we should always be asking about every history we encounter. It sort of picks up where the other book leaves off (with some helpful overlap), and largely focuses on contemporary history writing and what's new about it as opposed to past traditions. We will apply these questions (and historical examples) to analyzing our final book for the course towards the end of the term.
+
 
 
 ### Wednesday
@@ -211,7 +221,7 @@ WARNING: Make specific use of ALL READINGS to inform your response. Don't just r
 {% include alert.html class='danger' title='Project Reflection' text="
 How would you characterize the pros (advantages) and cons (disadvantages) of what the project is trying to do? You should try to address equally (and objectively) both sides of the debate in your post, regardless of your own feelings about it.
 
-Your 1619 Project reflection should be around ~800 words and is worth up to 20 points (not counting extra credit, as usual).
+Your 1619 Project reflection should be around 800--1000 words and is worth up to 20 points (not counting extra credit, as usual).
 "%}
 
 
@@ -249,7 +259,7 @@ There are no daily assignments for this week, just one reflection essay due on F
 - Lyra D. Monteiro, [Power Structures: White Columns, White Marble, White Supremacy](https://intersectionist.medium.com/american-power-structures-white-columns-white-marble-white-supremacy-d43aa091b5f9),” _Medium_, November 1, 2020.
 
 {% include alert.html class='danger' title='Architecture and Monuments' text="
-
+TBD
 "%}
 
 
@@ -260,7 +270,9 @@ There are no daily assignments for this week, just one reflection essay due on F
 ## Week 11: Mar 29--Apr 2
 We're reading this book to critique its use of history, not because it's "right" (you can decide for yourself how much you agree or disagree with it). The book's goal is to offer a critique of capitalism, but that's beside the point for us. OUR goal is to apply the Maza book on how we should approach history to this specific text, which has a very particular way of using history. Thinking through how history is used here will help us be more informed and critical readers when we see history invoked in any context.
 
-For each week, you'll have about 3 chapters to read. The number of pages per week seems high but the book is a quick read and we're not reading it to learn specific information. To keep on track, you'll submit a reading reflection on the assigned pages at the end of each week, and that will be the only thing to turn in for the week. I will offer a few guiding questions for you to respond to, but you should feel free to address whatever aspects of the chapters are most interesting to you---provided that you're making it clear to me that you're keeping up with the readings.
+For each week, you'll have about 3 chapters to read. The number of pages per week seems high but the book is a quick read and we're not reading it to learn specific information.
+
+To keep on track, you'll submit a reading reflection on the assigned pages at the end of each week, and that will be the only thing to turn in for the week. I will offer a few guiding questions for you to respond to, but you should feel free to address whatever aspects of the chapters are most interesting to you---provided that you're making it clear to me that you're keeping up with the readings.
 
 - Patel and Moore, _Seven Cheap Things_, Introduction, 1--43.
 - Patel and Moore, _Seven Cheap Things_, 1: Cheap Nature, 44--63.

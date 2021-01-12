@@ -9,7 +9,7 @@ number: HIST 300-007
 # HIST 1105: Reading Reflections
 
 ## Introduction
-Sometimes you will need to turn in a short reading response for some reading assignments. The syllabus makes it very clear what you need to do and when. These encourage everyone to stay on schedule and to read carefully enough to absorb the main ideas of the readings. Especially for online courses, it's far too easy to put off (and ultimately skip) any work that doesn't have at least a short assignment connected to it.
+Sometimes you will need to turn in a short reading response for a reading assignment. The syllabus makes it very clear what you need to do and when. These encourage everyone to stay on schedule and to read carefully enough to absorb the main ideas of the readings. Especially for online courses, it's far too easy to put off (and ultimately skip) any work that doesn't have at least a short assignment connected to it.
 
 In general, these are meant to be somewhat creative exercises to get you to compare and contrast different aspects of the reading and to give you a chance to riff on what you thought was most interesting about them (we all find different things interesting!). Sometimes I just ask you to restate a main point or answer a specific question or two.
 
@@ -19,11 +19,11 @@ Whatever the prompt, there are two motivations for these reflections:
 
 
 ## Basics
-- **~200--250 words**: Write more or less as you need/want to per assignment, but don't be consistently too much above or below the target.
+- **~250--300 words**: Write more or less as you need/want to per assignment, but don't be consistently too much above or below the target.
 - **Original thinking**: Avoid summarizing readings except to restate a point that you want to elaborate on.
 - **Specificity**: General statements are good ONLY when supported by examples from the readings. Otherwise it looks like you didn't read very carefully.
-- **Polished writing**: Don't try to sound like an academic, but your post shouldn't read like a text message, either. Overly informal posts will lower your grade by 1/3 to 2/3 grade (A to B+, for instance).
-- **Posted ON TIME at UNM Learn**: ON TIME means by MIDNIGHT on the due date. As explained on the main syllabus page, you can turn work in up to two days late for full credit, but that's it. After that, you will get a zero. I don't mean to sound draconian, but too much leeway with assignments creates too much temptation to let them slide, and then they aren't effective and serve only to create busywork.
+- **Polished writing**: Don't try to sound like an academic, but your post shouldn't read like a text message, either. Overly informal posts will ultimately lower your grade by 1/3 to 2/3 grade (A to B+, for instance).
+- **Posted ON TIME at UNM Learn**: ON TIME means by MIDNIGHT on the due date. As explained on the main syllabus page, you can occasionally turn work in up to two days late for full credit, but that's it. After that, you will get a zero. Too much leeway with assignments creates too much temptation to let them slide, and then they aren't effective and serve only to create busywork.
 
 
 ## Kind of reflections
@@ -34,7 +34,7 @@ These are probably the most common because they are the most straightforward (if
 
 
 ### Creative Reflection
-Provide a brief statement of what you found most interesting about the readings. Think about:
+Provide a brief statement of what you found most interesting about the readings. Try to sketch out answers to:
 - What ideas did you find most interesting or surprising?
 - What was most unclear or confusing?
 - What questions did they bring up?
@@ -42,13 +42,13 @@ Provide a brief statement of what you found most interesting about the readings.
 
 
 ## Scoring and how these factor in your grade
-I score reading reflections according to the rubric below, using .5 point increments.
+I score reading reflections according to the rubric below.
 
 For exceptional responses, which might be a bit longer and more insightful than a typical post, I give UP TO 1.5 points EXTRA CREDIT. This makes it easy to make up points you may have missed on a reflection that you didn't have time to do particularly well.
 
 The idea here is that these reflections should in sum account for a significant but not large portion of your final grade without being unduly stressful to complete.
 
-- 3 points: Clearly demonstrates broad familiarity with the reading assignment, original thinking, and is clearly articulated.
+- 15 points: Clearly demonstrates broad familiarity with the reading assignment and provides specific examples. The response is carefully thought out and clearly articulated.
 
 - 2 points: Shows some familiarity with the assignment and some critical analysis but could use refinement either in thinking or writing.
 

@@ -43,19 +43,19 @@ In short, it's very easy to get whatever grade you want in the class by just kee
 
 
 ## You are welcome here
-This course is probably very unlike most history/humanities courses you've taken. But I want to be VERY CLEAR: even if you have never been challenged to think about how history is made, YOU ARE WELCOME HERE! This course assumes no prior knowledge or skills. I grade quite leniently at the beginning of class and the bar slowly rises throughout the class as we dive deeper into course material and you get more comfortable with the quizzes and short essays.
+This course is probably very unlike most history/humanities courses you've taken. But I want to be VERY CLEAR: even if you have never been challenged to think about how history is made, YOU ARE WELCOME HERE! This course assumes no prior knowledge or skills. I grade quite leniently at the beginning of class and the bar slowly rises throughout the class as we dive deeper into course material and you get more comfortable with the quizzes and reading responses.
 
 I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. If you feel the course structure or assignments isn't facilitating success or does not represent the effort you're putting in the course, let's talk (virtually, of course)!
 
 
-## Work Requirements and Grading (points)
-- Quizzes on lectures and reading assignments (6x15=90)
-- Reading Reflections (6x15=90)
+## Work Requirements and Grading (number of assignments x possible points = total points)
+- Quizzes on lectures and reading assignments (6x10=60)
+- Reading Reflections (6x10=60)
 - Primary Source Reflections (4x5=20)
 - 1619 Project Reflection (1x20)
 - Architecture and Monuments Reflection (1x20)
 - History at Work Critique (1x20)
-- Final Course Reflection Essay (1x40)
+- Final Course Reflection (1x40)
 
 
 
@@ -79,7 +79,6 @@ Percent | Grade
 ### Please Ask for Help
 I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how you can improve your performance (if at all). If life gets overwhelming during the course (as it easily can these days), it can be tempting to drift away from a survey course like this. Rather than disappear, let's work something out to accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
 
-## Readings
 
 ### Books
 - Sarah Maza, _Thinking About History_ (University of Chicago Press, 2017)

@@ -10,7 +10,7 @@ section: links-guides
 # Final Learning Reflection
 Your final assignment for the course is a bit different from previous assignments.
 
-_Sorry for the long instructions here---I'm just trying to be as clear and explicit as possible. Let me know if you have any questions! There is a thread on the discussion board just for finals questions, Slack is always good, and email, too, if that's what you're most comfortable with._
+_Sorry for the long instructions here---I'm just trying to be as clear and explicit as possible. Let me know if you have any questions!_
 
 I'd like you to write a ~1600-word argument for what letter grade you should get for the course. Most importantly---as a final exercise and justification for your grade---your essay will describe your learning experience throughout the course, including providing SPECIFIC EXAMPLES FROM THE READINGS. What did you learn about archives? About algorithms? How can the history of the archives inform our approach to the use of data and deployment of algorithms in everyday life?
 
