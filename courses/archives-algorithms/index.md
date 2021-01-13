@@ -45,11 +45,11 @@ If you feel the course structure or assignments aren't facilitating your success
 
 
 ## General Workload
-Most of the work is this: You will read usually two articles or book chapters per week (averaging about 40 pages total). The general expectation is that you'll post usually one reading or lecture response (~250 words) per week AND post one entry in your learning journal (~800--900 words) for the set of readings for the week.
+Most of the work is this: You will read usually two to three articles or book chapters per week (averaging about 40 pages total). You'll occasionally post one reading or lecture response (~250 words) per week and/or one entry in your learning journal (~700 words) covering the set of readings for the week.
 
-For both kinds of responses, I'll provide a few guiding questions, but these entries are pretty freeform. The only requirement is that you show your familiarity with the readings. Sometimes you'll focus on the articles separately; other times you'll be asked to synthesize them and talk about them as a group. The questions will be abstract and hypothetical and invite you to draw your own conclusions from the readings.
+For both kinds of responses, I'll provide a few guiding questions, but these entries are pretty freeform. The only requirement is that you show your familiarity with the readings and your reaction to them. Sometimes you'll focus on the articles separately; other times you'll be asked to synthesize them and talk about them as a group. The questions will be abstract and hypothetical and invite you to draw your own conclusions from the readings.
 
-There are a few other assignments, too, to break up the monotony of the journal entries. Each of them have special instruction pages as listed below. They are basically fancy journal entries that ask you to apply the readings for that week to a particular exercise.
+There are a few other assignments (~900 words), too, to break up the monotony of the journal entries---you usually don't have anything else due those weeks. Each of them have special instruction pages (linked below). They are basically fancy journal entries that ask you to apply the readings for that week to a particular exercise.
 
 The last two weeks of the course we don't read anything new, so you'll have the time to write a few reflection essays that tie course themes together. One of these counts as your final, and is due the end of finals week.
 
@@ -57,17 +57,19 @@ The last two weeks of the course we don't read anything new, so you'll have the 
 ## Grading
 This course has an atypical grading procedure, so please be sure you understand how everything works to avoid surprises later on. My goal is do things that both kinda fun AND help us learn without a dark, mysterious shadow of an anxiety-inducing grade looming over everything. I'm not sure this is totally possible, but I want to find out. Explanations of how work is evaluated (or not) is explained on each assignment instruction page (links directly below).
 
-Ultimately, all reading responses and journal entries are all graded as rough/ok/good (worth 5, 10 and 15 points). Mostly they are chance for me to respond to your own ideas and add to the course rather than for me to assign and justify a seemingly arbitrary point value on how "good" you did (which derives too much from your educational background prior to this course). If I don't see your engagement with the readings, I will ask you to elaborate on some points you brought up or on a reading that you didn't mention much or at all so that you can get full points for the assignment. If you ignore my nudges to elaborate on your responses, you'll get partial credit for the assignment.
+Ultimately, all reading responses and journal entries are all graded as rough/ok/great (worth 1/3, 2/3 and full points). Mostly the responses are a chance for me to respond to your own ideas and add to the course rather than for me to assign and justify a seemingly arbitrary point value on how "good" you did (which derives too much from your educational background prior to this course). 
+
+If I don't see your engagement with the readings, I will ask you to elaborate on some points you brought up or on a reading that you didn't mention much or at all so that you can get full points for the assignment. If you ignore my nudges to elaborate on your responses, you'll get partial credit for the assignment.
 
 Fancy journal entries ARE graded in terms of points because it's useful to have a little pressure once in a while.
 
 ### Extra work = extra credit
-If you feel like writing a bit more for an assignment you can get a few points of extra credit. Some topics and readings will be more interesting to you than others, and if you have more to say, you should get credit for it. This is true for ALL ASSIGNMENTS. This should make it easy for you to get whatever grade you want in the course.
+If you feel like writing a bit more for an assignment you can get a few points of extra credit. Some topics and readings will be more interesting to you than others, so if you have more to say, you should get credit for it. This is true for ALL ASSIGNMENTS. This should make it easy for you to get whatever grade you want in the course.
 
 
 ### Assignments
-- [Reading/lecture Responses](reading-responses) (rough/ok/good; ~50 points total)
-- [Learning Journal Entries](learning-journal) (rough/ok/good; ~150 points total)
+- [Reading/lecture Responses](reading-responses) (2/4/6 points x 7; ~40 points total)
+- [Learning Journal Entries](learning-journal) (5/10/15 points x 8; ~120 points total)
 - [Archival Silence Analysis](archival-silence-analysis) (20 points x 1)
 - [Transcription Assignment](transcription-guidelines) (20 points x 1)
 - [Data Interface Critique](data-interface-critique) (20 points x 1)
