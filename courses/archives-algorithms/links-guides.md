@@ -1,22 +1,25 @@
 ---
 layout: syllabus
-course-title: Digital History
-course-slug: digital-history
-term: Spring 2019
-number: HIST 300-002
+course-title: Archives + Algorithms
+course-slug: archives-algorithms
+term: Spring 2021
+number: HIST 300-007
 section: links-guides
 ---
 
 # Links and Guides
-This page contains a list of links that you will probably need repeatedly throughout the term. Some of these links are to assignment guides that provide explicit directions on how to set up tools and complete required assignments. Some documents don't exist yet but will appear here when they do, and always well in advance of when you need them. Early set-up guides for Zotero and GitHub are not here--only on the schedule page, since you shouldn't need them more than once.
+This page contains links that you will need at some point. There's nothing new on this page---all these links appear on the syllabus as well (usually in multiple places)---but it can be sometimes helpful to have everything in one place.
 
-## Scanned Readings
-- [Connecting to Zotero](/courses/etc/zotero)
+## Submitting Work
+TBD
 
-## Assignment Guides
-- [Data Interface Critique](data-interface-critique.html)
-- [Geo-referencing Guide](georeferencing-guidelines.html)
-- [Reading Response Guide](response-guidelines.html)
-- [Transcription Guide](transcription-guidelines.html)
-- [UNM Campus History Guide](unm-spatial-history-guidelines.html)
-- [Visual Essay Guide](visual-essay-guidelines.html)
+## Readings
+We use a tool called Zotero to manage PDFs of reading assignments apart from the books. As you read the [Zotero set up instructions](/courses/etc/zotero), you will need the following links. Save yourself confusion by reading the directions FIRST.
+
+Our `Zotero Group homepage` is [https://www.zotero.org/groups/2667261/archives-algorithms](https://www.zotero.org/groups/2667261/archives-algorithms). This link is best for JOINING the course Zotero Group.
+
+Our `Zotero Library page` is [https://www.zotero.org/groups/2667261/archives-algorithms/library](https://www.zotero.org/groups/2667261/archives-algorithms/library). This link is best for ACCESSING our Zotero Library once you're already a member of our group.
+
+
+## Videos
+[YouTube Channel](https://www.youtube.com/channel/UCgNw10VCNMLcWV4hVM_bRPw). All course videos will appear here. There should be links on the syllabus under the day it they are published as well.

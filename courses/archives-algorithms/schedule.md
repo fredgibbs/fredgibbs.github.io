@@ -7,8 +7,7 @@ number: HIST 300-007
 section: schedule
 ---
 
-# Schedule of Readings & Assignments
-
+# Archives & Algorithms Schedule
 
 
 ## Week 1 (Jan 18--22): Introductions
@@ -41,7 +40,6 @@ section: schedule
 ## Week 3 (Feb 1--5): Power
 - Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19.
 - Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” 21–43.
-- Joshua Sternfeld, “Archival Theory and Digital Historiography: Selection, Search, and Metadata as Archival Processes for Assessing Historical Contextualization,” 544–75.
 
 
 
@@ -125,8 +123,8 @@ section: schedule
 
 ## Week 11 (Mar 29--Apr 2): Everyday algorithms
 - Virgina Eubanks, "The digital poorhouse", _Harper’s Magazine_ (Jan 2018).
-- Michele Willson, “Algorithms (and the) Everyday.” _Information, Communication & Society_ 20.1 (2017): 137–50.
-- John Danaher, ‘The Threat of Algocracy: Reality, Resistance and Accommodation’, _Philosophy & Technology_, 29.3 (2016): 245–68.
+- Michele Willson, “Algorithms (and the) Everyday.” _Information, Communication & Society_ 20.1 (2017): 137--50.
+- John Danaher, ‘The Threat of Algocracy: Reality, Resistance and Accommodation’, _Philosophy & Technology_, 29.3 (2016): 245--68.
 
 
 ## Week 12 (Apr 5--9): Carceral Archives and Algorithms
@@ -146,10 +144,11 @@ section: schedule
 - Todd Presner, "The Ethics of the Algorithm: Close and Distant Listening to the Shoah Foundation Visual History Archive", in _Probing the Ethics of Holocaust Culture_, ed. by Claudio Fogu (Harvard University Press, 2016), 167--202.
 
 
-## Week 15: May 26--30
-
+## Week 15: April 26--30
+- No new readings this week. You will write one longer journal entry (due Friday) on understanding algorithms through archive. More details as we get closer.
 
 ## Week 16: May  3--7
+- No new readings this week. You will write one longer journal entry on analyzing your own course archive in terms of those that other students produced. More details as we get closer. This will serve as a final for the course and will be due the end of finals week.
 
 
 ## All coursework due by FRIDAY May 14!

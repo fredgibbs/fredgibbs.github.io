@@ -36,12 +36,6 @@ As you can see from the [schedule page](schedule), we spend roughly the first ha
 Assignments will tend to be speculative and creative exercises that allow you to APPLY the readings to a particular problem or question rather than just summarize or restate information.
 
 
-## General Workload
-Most of the work is this: You will read 2-3 reasonable-length articles or book chapters per week, and post an entry to your learning journal on THURSDAY (so that I can respond on Fridays). I'll provide a few guiding questions, but these entries are pretty freeform. The only requirement is that you show your familiarity with the readings. Sometimes you'll focus on the articles separately; other times you'll be asked to synthesize them and talk about them as a group. The questions will be abstract and hypothetical and invite you to draw your own conclusions from the readings. You'll post your response, and if it doesn't seem like you're using the readings (or reading them at all), I'll ask some follow up questions rather than just give you a low score. If you care about your grade, you can address them; if not, we just keep moving on. I understand sometimes your priorities will be elsewhere.
-
-There are a few other assignments, too, to break up the monotony of the journal entries, such as short reading response assignments, a few quizzes, and a few one off "special" assignments (they each have special instruction pages as listed below).
-
-
 ## You are welcome here
 This course is probably very unlike most history/humanities courses you've taken. But I want to be VERY CLEAR: Even if you have never thought about archives or algorithms (much less how they are related), or have never taken a history or humanities course, YOU ARE WELCOME HERE! This course assumes you know NOTHING about either archives or algorithms (or even what they are, which is actually a trickier question than you might think), and introduces and explores each of them as a metaphor for interacting with knowledge infrastructures all around us.
 
@@ -50,19 +44,35 @@ I will do everything I can do help you learn as much as you're motivated to lear
 If you feel the course structure or assignments aren't facilitating your success or reflecting your effort, let's talk! (virtually, of course)
 
 
-## Work Requirements and Grading
-This course has an atypical grading procedure, so be sure you understand how everything works to avoid unpleasant surprises later on. My goal is to have us doing things that are sort of fun to do and help us learn without a dark, mysterious shadow of an anxiety-inducing grade looming over everything. Explanations of how work is evaluated (or not) is explained on each assignment instruction page (links directly below).
+## General Workload
+Most of the work is this: You will read usually two articles or book chapters per week (averaging about 40 pages total). The general expectation is that you'll post usually one reading or lecture response (~250 words) per week AND post one entry in your learning journal (~800--900 words) for the set of readings for the week.
 
-The general expectation is that you'll do about one reading or lecture response (~250--300 words) per week AND one entry in your learning journal (~800--900 words) for the set of readings for the week. These are all more or less pass/fail assignments and a chance for me to respond to your learning experience and add to the course rather than me assigning a seemingly arbitrary point value on how "good" you did. If I don't see your engagement with the readings, I just ask you to elaborate on some points you brought up or on a reading that you didn't mention much or at all so that you can get a pass for the assignment. I will let you fail only if you insist on it. If you're getting passes (I keep everyone informed about how they are doing as I respond to your work), then you're getting full points for those components of the course.
+For both kinds of responses, I'll provide a few guiding questions, but these entries are pretty freeform. The only requirement is that you show your familiarity with the readings. Sometimes you'll focus on the articles separately; other times you'll be asked to synthesize them and talk about them as a group. The questions will be abstract and hypothetical and invite you to draw your own conclusions from the readings.
 
-The other assignments besides those are a little different in that they ask you to do a thing and think critically about it using the readings. These ARE graded in terms of points because it's useful to have a little pressure once in a while.
+There are a few other assignments, too, to break up the monotony of the journal entries. Each of them have special instruction pages as listed below. They are basically fancy journal entries that ask you to apply the readings for that week to a particular exercise.
 
-- [Reading/lecture Responses](reading-responses) (pass/fail; 50 points total)
-- [Learning Journal Entries](learning-journal) (pass/fail; 150 points total)
+The last two weeks of the course we don't read anything new, so you'll have the time to write a few reflection essays that tie course themes together. One of these counts as your final, and is due the end of finals week.
+
+
+## Grading
+This course has an atypical grading procedure, so please be sure you understand how everything works to avoid surprises later on. My goal is do things that both kinda fun AND help us learn without a dark, mysterious shadow of an anxiety-inducing grade looming over everything. I'm not sure this is totally possible, but I want to find out. Explanations of how work is evaluated (or not) is explained on each assignment instruction page (links directly below).
+
+Ultimately, all reading responses and journal entries are all graded as rough/ok/good (worth 5, 10 and 15 points). Mostly they are chance for me to respond to your own ideas and add to the course rather than for me to assign and justify a seemingly arbitrary point value on how "good" you did (which derives too much from your educational background prior to this course). If I don't see your engagement with the readings, I will ask you to elaborate on some points you brought up or on a reading that you didn't mention much or at all so that you can get full points for the assignment. If you ignore my nudges to elaborate on your responses, you'll get partial credit for the assignment.
+
+Fancy journal entries ARE graded in terms of points because it's useful to have a little pressure once in a while.
+
+### Extra work = extra credit
+If you feel like writing a bit more for an assignment you can get a few points of extra credit. Some topics and readings will be more interesting to you than others, and if you have more to say, you should get credit for it. This is true for ALL ASSIGNMENTS. This should make it easy for you to get whatever grade you want in the course.
+
+
+### Assignments
+- [Reading/lecture Responses](reading-responses) (rough/ok/good; ~50 points total)
+- [Learning Journal Entries](learning-journal) (rough/ok/good; ~150 points total)
 - [Archival Silence Analysis](archival-silence-analysis) (20 points x 1)
 - [Transcription Assignment](transcription-guidelines) (20 points x 1)
 - [Data Interface Critique](data-interface-critique) (20 points x 1)
-- [Final Course Reflection](final-reflections) (40 points x 1)
+- [Applying Archives to Algorithms]() (30 points x 1)
+- [Course Analysis and Reflection]() (40 points x 1)
 
 
 
@@ -89,9 +99,9 @@ I heartily encouraged you to speak with me at any time about how I think you're 
 ## Readings
 There are NO REQUIRED BOOKS for this course. But you will need to subscribe to the course Zotero library to access assigned articles. This will be discussed in class, but for reference, please see the [instructions for connecting](http://fredgibbs.net/courses/etc/zotero.html).
 
-Our `Zotero Group homepage` is [https://www.zotero.org/groups/2667261/archives-algorithms](https://www.zotero.org/groups/2667261/archives-algorithms). This link is best for joining the course Zotero Group.
+Our `Zotero Group homepage` is [https://www.zotero.org/groups/2667261/archives-algorithms](https://www.zotero.org/groups/2667261/archives-algorithms). This link is best for JOINING the course Zotero Group.
 
-Our `Zotero Library page` is [https://www.zotero.org/groups/2667261/archives-algorithms/library](https://www.zotero.org/groups/2667261/archives-algorithms/library). This link is best for accessing our Zotero Library once you're already a member of our group.
+Our `Zotero Library page` is [https://www.zotero.org/groups/2667261/archives-algorithms/library](https://www.zotero.org/groups/2667261/archives-algorithms/library). This link is best for ACCESSING our Zotero Library once you're already a member of our group.
 
 
 ## Writing Help

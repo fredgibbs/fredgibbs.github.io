@@ -22,7 +22,7 @@ I'm always fiddling with the syllabus depending on what's working or not working
 
 ## Week 1 (Jan 18--22): Introductions
 
-### Monday: Syllabus, Expectations, Tools
+### Tuesday: Syllabus, Expectations, Tools
 - Welcome/overview video
 - Overview/syllabus quiz
 - Introduction to [Zotero](http://zotero.org)
@@ -42,18 +42,6 @@ Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-histo
 
 
 ### Wednesday
-- David Foster Wallace, [What is Water?](https://fs.blog/2012/04/david-foster-wallace-this-is-water). You can listen to DFW read this (a commencement speech at Kenyon College in 2005) or just read the transcript---or read and listen at the same time, as I did.
-
-{% include alert.html class='danger' title='Video Reflection' text="
-This assignment is a standard [reading reflection](reading-reflections), where you should answer the prompts
-- How is history useful in achieving the goals outlined in the speech?
-- What ideas or phrases resonated with you?
-- What have you worshipped even if you never thought it about it that way?
-"%}
-
-
-
-### Friday
 - Alice Dreger, [What is History?](http://alicedreger.com/what_is_history).
 The significance of the anecdote offered at the beginning of this piece is not explicitly stated, but it should be. The point here is that every time we ask WHY? about anything, we can focus either on immediate practical implications (physics), or on much larger structural, social explanations (history). They are both important because they provide different kinds of answers. Those who can move fluidly between these ways of thinking and understanding will be more astute problem solvers in any career.
 
@@ -61,11 +49,21 @@ The significance of the anecdote offered at the beginning of this piece is not e
 
 
 {% include alert.html class='danger' title='Introductory Connections' text="
-USING THE READINGS FOR THIS WEEK---and as a way of getting to know each other just a little bit---answer the following: What kinds of history to you find interesting? What reasons for studying history have appealed to you (even if you didn't think explicitly about them until now)?
+USING THE READINGS FOR THIS WEEK---and as a way of getting to know each other just a little bit---answer the following (~200 words): What kinds of history to you find interesting? What reasons for studying history have appealed to you (even if you didn't think explicitly about them until now)?
 
 GIMICK ALERT: Just for fun (apologies if this ends up being stupid), we're going to try to connect all our responses together. I'm going to start a thread on the Learn Discussion Board, and everyone is going to reply to the person who posted immediately before them. You don't need to respond directly or in depth to what the person says, but try your best to connect your post to the previous one. The post you will respond to will probably mention a historical topic or period that you're familiar with (or really dislike), or have been meaning to learn more about (or intend to avoid), and you can use that as your connection. You and your connection might like totally different topics for the same reason or the same topic for very different reasons.
+"%}
 
-Standard reflection length (~250--300 words); 3 possible points for taking it seriously.
+
+
+### Friday
+- David Foster Wallace, [What is Water?](https://fs.blog/2012/04/david-foster-wallace-this-is-water). You can listen to DFW read this (a commencement speech at Kenyon College in 2005) or just read the transcript---or read and listen at the same time, as I did.
+
+{% include alert.html class='danger' title='Video Reflection' text="
+This assignment is a standard [reading reflection](reading-reflections), where you should answer the prompts
+- How is history useful in achieving the goals outlined in the speech?
+- What ideas or phrases resonated with you?
+- What have you worshipped even if you never thought it about it that way?
 "%}
 
 

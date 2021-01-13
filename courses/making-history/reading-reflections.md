@@ -42,18 +42,18 @@ Provide a brief statement of what you found most interesting about the readings.
 
 
 ## Scoring and how these factor in your grade
-I score reading reflections according to the rubric below.
+I score reading reflections according to the rubric below, which is also coded into an official rubric used to score reflections.
 
 For exceptional responses, which might be a bit longer and more insightful than a typical post, I give UP TO 1.5 points EXTRA CREDIT. This makes it easy to make up points you may have missed on a reflection that you didn't have time to do particularly well.
 
 The idea here is that these reflections should in sum account for a significant but not large portion of your final grade without being unduly stressful to complete.
 
-- 15 points: Clearly demonstrates broad familiarity with the reading assignment and provides specific examples. The response is carefully thought out and clearly articulated.
+- 9--10 points: Clearly demonstrates broad familiarity with the reading assignment and provides specific examples. The response is carefully thought out and clearly articulated.
 
-- 2 points: Shows some familiarity with the assignment and some critical analysis but could use refinement either in thinking or writing.
+- 8 points: Shows some familiarity with the assignment and some critical analysis with examples from the readings but doesn't really respond to the prompt very well.
 
-- 1 point: A decent effort, but doesn't show much engagement with the reading or is difficult to understand.
+- 6--7 points: A decent effort, but doesn't show much engagement with the reading, doesn't make an effort to answer the questions, or is difficult to understand.
 
-- .5 point: You posted _something_, but it looks like you were posting without reading much at all. Often such posts ignorantly contradict them the readings or make erroneous assumptions.
+- 3--5 points: You posted _something_, but it looks like you were posting without reading much at all. Often such posts ignorantly contradict the readings or or all opinion without any references to the readings.
 
-- 0 points: Nothing posted, or otherwise so unintelligible that I can't even guess at what you were trying to do.
+- 0-2 points: Nothing posted, or otherwise so unintelligible that I can't even guess at what you were trying to do.
