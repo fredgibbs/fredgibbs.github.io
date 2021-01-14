@@ -77,7 +77,7 @@ To understand more about what history is and what it is for, it's imperative to 
 - "Why care about historiography" LECTURE and QUIZ.
 
 {% include alert.html class='danger' title='Lecture Quiz' text="
-- How did Renaissance humanism impact historical methods and writing?
+- What can we learn from historiography?
 "%}
 
 ### Wednesday
