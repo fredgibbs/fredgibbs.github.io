@@ -10,7 +10,7 @@ section: links-guides
 # HIST 300-007: Learning Journal
 
 ## Introduction
-Your Learning Journal entries, due most Thursdays, offer a chance to reflect on a week's topic as a whole and create your own archive of thinking for the course (which we will use at the end of the semester). There is not a specific question to answer, nor are you meant to summarize what you read for the week. I want to get your reaction to the set of the week's readings and how they relate to previous readings.
+Your Learning Journal entries, due most Fridays when there isn't a special assignment due, offer a chance to reflect on a week's topic as a whole and create your own archive of thinking for the course (which we will use at the end of the semester). There is not a specific question to answer, nor are you meant to summarize what you read for the week. I want to get your reaction to the set of the week's readings and how they relate to previous readings.
 
 Even without specific prompts to address, there are a few questions to keep in mind when composing your entry: What did you learn? What was confusing? What ideas did you find most interesting? What aspects were boring? How did the readings help you think about the week's topic differently? Or not? What questions do you have?
 
@@ -21,23 +21,23 @@ The point of this exercise is to help you solidify in your mind what you took aw
 
 
 ## Basics
-- **~800--900 words**: Write more or less as you need/want to per entry, but don't be consistently too much above or below the target.
+- **~700 words**: Write more or less as you need/want to per entry, but don't be consistently too much above or below the target.
 - **Original thinking**: Avoid summarizing readings except to restate a point that you want to elaborate on.
-- **Specificity**: Your entries should have copious specific references to the readings. You don't need to cite specific pages, but your general description of what you took away from the readings should be illustrated with examples that indicate your level of familiarity with the readings.
+- **Specificity**: Your entries should have copious specific references to the readings. It's not required that you cite specific pages (although I encourage it), but your general description of what you took away from the readings should be illustrated with examples that indicate your level of familiarity with the readings.
 - **Polished writing**: Don't try to sound like an academic, but your post shouldn't read like a text message, either.
 
 
 ## Scoring and how these factor in your grade
-I'd prefer not to give a grade on these, but it makes giving you a grade at the end of the semester (which I have to do) much easier most students like to have some idea of how they are doing in a class. So for your entries I indicate to you on a point scale what it seems to me your engagement was for the week based on your response. It's not a grade on whether you go the right answer---there isn't one---but how much effort you seem to put into learning from the articles and short introductory lectures each week. If you don't agree with my assessment, let me know and make an argument that you deserve more points.
+These assignments do not get scored with points as some other assignments because I don't want the reflections to become an opaque game of you trying to writing out what you think I want to hear so that you get the most points. Most readings have way more cool stuff in them than can be absorbed in one reading so there really isn't a "right" answer. And I don't find it productive to spend time trying to justify why one student gets a 7 and another gets a 8.5, when they may have learned the same amount or spent the same amount genuinely working on the assignment to the best of their ability. You should be graded on work you do for this class, not how good of a thinker or writer you already are.
 
-I use the scale below with .5 point increments. For exceptional responses, which might be a bit longer and more insightful than a typical journal reflection (because you were really interested in the topic), I give UP TO 3 points EXTRA CREDIT. This makes it easy to make up points you may have missed on an entry that you didn't have time to do particularly well.
+Instead, I look for genuine engagement with and reflection on the course material. As explained above, the reflections should make clear that you've done the readings and developed some thoughts about them. If it is NOT clear to me, I'll ask you some questions that you should address if you want to move to a higher point score for that assignment.
 
-- 9--10 points: Clearly demonstrates broad familiarity with the readings across the week, exhibits original thinking, connects current readings to past readings, and is clearly articulated.
+So you can earn either 5, 10, or 15 points. You can also get up to 3 extra credit points if you put extra work into a post. Extra words do not automatically equate to extra points---they need to be substantive.
 
-- 7--8 points: Shows familiarity with the readings and offers some critical reflection on key themes, but could use refinement either in thinking or writing.
+- 15 points: Clearly demonstrates broad familiarity with the readings across the week, exhibits original thinking, connects current readings to past readings, and is clearly articulated.
 
-- 5--6 points: Some effort, but doesn't show much engagement with the readings or is difficult to understand.
+- 10 points: Shows familiarity with the some of the reading and offers some critical reflection on key themes, but uneven coverage of the readings and/or could use significant improvements in writing.
 
-- <5 points: You posted _something_, but it looks like you were posting without reading much at all, and just offering an uninformed opinion.
+- 5 points: Some effort, but doesn't show much engagement with the readings or is difficult to understand.
 
 - 0 points: Nothing posted, or otherwise so unintelligible that I can't even guess at what you were trying to do.

@@ -10,7 +10,7 @@ section: home
 # HIST 300-007: Archives + Algorithms
 
 ## Logistics
-- Remote Arranged (fully online, no scheduled meetings); everything (except this syllabus) on UNM Learn
+- Remote Arranged (fully online, no scheduled meetings)
 - 3 Credit Hours
 - Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
 - No set student hours, but always happy to Zoom chat
@@ -29,9 +29,9 @@ Archives determine the histories that get written. While the idea of an archive 
 
 
 ## Imagination over regurgitation
-This course eschews the typical course narrative in favor of a more exploratory adventure. Therefore, is not for anyone looking for a standard linear, information-delivery kind of course. There's nothing wrong with those; this just isn't one of them. Diversity is good.
+This course eschews the typical course narrative in favor of a more exploratory adventure. Therefore, is not for anyone looking for a standard linear, information-delivery-centric kind of course. There's nothing wrong with those; this just isn't one of them. Diversity is good.
 
-As you can see from the [schedule page](schedule), we spend roughly the first half of the course investigating the history of the archive and how it's been rapidly transformed in the last 30 years. Then, we spend roughly the second half of the course reading about the invisible algorithms at work in modern society and theorizing about how the history of the archives might give us some insight into the future of a data- and algorithmic-driven world.
+As you can see from the [schedule page](schedule), we spend roughly the first half of the course investigating the history of the archive and how it's been rapidly transformed in the last 30 years. Then, we spend roughly the second half of the course reading about the invisible algorithms  and decision making at work in modern society and theorizing about how the history of the archives might give us some insight into the future of a data- and algorithm-driven world.
 
 Assignments will tend to be speculative and creative exercises that allow you to APPLY the readings to a particular problem or question rather than just summarize or restate information.
 
@@ -39,7 +39,7 @@ Assignments will tend to be speculative and creative exercises that allow you to
 ## You are welcome here
 This course is probably very unlike most history/humanities courses you've taken. But I want to be VERY CLEAR: Even if you have never thought about archives or algorithms (much less how they are related), or have never taken a history or humanities course, YOU ARE WELCOME HERE! This course assumes you know NOTHING about either archives or algorithms (or even what they are, which is actually a trickier question than you might think), and introduces and explores each of them as a metaphor for interacting with knowledge infrastructures all around us.
 
-I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. I've tried to make the course about everyone thinking together rather than just you memorizing something I say or you read so that you can regurgitate it later; I've tried to make assignments less anxiety-producing by facilitating (hopefully) you holding yourself accountable rather than me assigning point values to everything.
+I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. I've tried to make the course about everyone thinking and learning together rather than just you memorizing something I say or you read so that you can regurgitate it later; I've tried to make assignments less anxiety-producing by facilitating (hopefully) you holding yourself accountable rather than me assigning arbitrary point values to everything (though there is some of that out of necessity).
 
 If you feel the course structure or assignments aren't facilitating your success or reflecting your effort, let's talk! (virtually, of course)
 
@@ -47,21 +47,27 @@ If you feel the course structure or assignments aren't facilitating your success
 ## General Workload
 Most of the work is this: You will read usually two to three articles or book chapters per week (averaging about 40 pages total). You'll occasionally post one reading or lecture response (~250 words) per week and/or one entry in your learning journal (~700 words) covering the set of readings for the week.
 
-For both kinds of responses, I'll provide a few guiding questions, but these entries are pretty freeform. The only requirement is that you show your familiarity with the readings and your reaction to them. Sometimes you'll focus on the articles separately; other times you'll be asked to synthesize them and talk about them as a group. The questions will be abstract and hypothetical and invite you to draw your own conclusions from the readings.
+For both kinds of responses, I sometimes provide a few guiding questions, but these entries are pretty freeform. The only requirement is that you show your familiarity with the readings and your reaction to them. Sometimes you'll focus on the articles separately; other times you'll be asked to synthesize them and talk about them as a group. The questions will be abstract and hypothetical and invite you to draw your own conclusions from the readings.
 
-There are a few other assignments (~900 words), too, to break up the monotony of the journal entries---you usually don't have anything else due those weeks. Each of them have special instruction pages (linked below). They are basically fancy journal entries that ask you to apply the readings for that week to a particular exercise.
+There are a few other slightly longer "special" assignments (~900 words), too, to break up the monotony of the journal entries---you usually don't have anything else due those weeks. Each of them have special instruction pages (linked below). They are basically fancy journal entries that ask you to apply the readings for that week to a particular exercise.
 
 The last two weeks of the course we don't read anything new, so you'll have the time to write a few reflection essays that tie course themes together. One of these counts as your final, and is due the end of finals week.
+
+
+### Digital Portfolio / Archive
+we _could_ post everything on UNM Learn, but it's far more interesting and useful for us to create individual digital portfolios (= websites) of our work in the class. These will serve as our personal archives of the course that we will use in one of our final assignments. It also allows us to use images and design more interesting posts than is possible with Learn. THERE IS NO TECHNICAL KNOWLEDGE OR EXPERIENCE REQUIRED! Everything is explained and all the tools and assignments are for completely non-technical people.
+
+There's not much else to do the first week than to get everything set up, so you'll have plenty of time to get familiar with our digital tools. Using outside digital platforms is in itself an important component of the course, since we are fundamentally concerned with knowledge infrastructures, whether physical or digital archives, or algorithms and automated decision making.
 
 
 ## Grading
 This course has an atypical grading procedure, so please be sure you understand how everything works to avoid surprises later on. My goal is do things that both kinda fun AND help us learn without a dark, mysterious shadow of an anxiety-inducing grade looming over everything. I'm not sure this is totally possible, but I want to find out. Explanations of how work is evaluated (or not) is explained on each assignment instruction page (links directly below).
 
-Ultimately, all reading responses and journal entries are all graded as rough/ok/great (worth 1/3, 2/3 and full points). Mostly the responses are a chance for me to respond to your own ideas and add to the course rather than for me to assign and justify a seemingly arbitrary point value on how "good" you did (which derives too much from your educational background prior to this course). 
+Ultimately, all reading responses and journal entries are all graded as rough/ok/great (worth 1/3, 2/3 and full points). Mostly the responses are a chance for me to respond to your own ideas and add to the course rather than for me to assign and justify a seemingly arbitrary point value on how "good" you did (which derives too much from your educational background prior to this course).
 
 If I don't see your engagement with the readings, I will ask you to elaborate on some points you brought up or on a reading that you didn't mention much or at all so that you can get full points for the assignment. If you ignore my nudges to elaborate on your responses, you'll get partial credit for the assignment.
 
-Fancy journal entries ARE graded in terms of points because it's useful to have a little pressure once in a while.
+Special assignments ARE graded in terms of points because it's useful to have a little pressure once in a while.
 
 ### Extra work = extra credit
 If you feel like writing a bit more for an assignment you can get a few points of extra credit. Some topics and readings will be more interesting to you than others, so if you have more to say, you should get credit for it. This is true for ALL ASSIGNMENTS. This should make it easy for you to get whatever grade you want in the course.
@@ -73,7 +79,7 @@ If you feel like writing a bit more for an assignment you can get a few points o
 - [Archival Silence Analysis](archival-silence-analysis) (20 points x 1)
 - [Transcription Assignment](transcription-guidelines) (20 points x 1)
 - [Data Interface Critique](data-interface-critique) (20 points x 1)
-- [Applying Archives to Algorithms]() (30 points x 1)
+- [From Archives to Algorithms Analysis]() (30 points x 1)
 - [Course Analysis and Reflection]() (40 points x 1)
 
 

@@ -7,33 +7,59 @@ number: HIST 300-007
 section: schedule
 ---
 
-# Archives & Algorithms Schedule
+# Archives + Algorithms Schedule
 
 
 ## Week 1 (Jan 18--22): Introductions
+There are a bunch of small set up things to do for this week.
 
-### Syllabus, Expectations, Tools
 - Review the syllabus, course aims, assignments, and general plan for the semester.
-- Introduction to [Zotero](http://zotero.org).
 
-{% include alert.html class='danger' title='Do this RIGHT AWAY' text="
 - Follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero).
 
-- Our `Zotero Group homepage` is [https://www.zotero.org/groups/2667261/archives-algorithms](https://www.zotero.org/groups/2667261/archives-algorithms). This link is best for joining the course Zotero Group.
+  - Our `Zotero Group homepage` is [https://www.zotero.org/groups/2667261/archives-algorithms](https://www.zotero.org/groups/2667261/archives-algorithms). This link is best for joining the course Zotero Group.
 
-- Our `Zotero Library page` is [https://www.zotero.org/groups/2667261/archives-algorithms/library](https://www.zotero.org/groups/2667261/archives-algorithms/library). Once you've joined the group, this link is best for accessing our Zotero Library.
+  - Our `Zotero Library page` is [https://www.zotero.org/groups/2667261/archives-algorithms/library](https://www.zotero.org/groups/2667261/archives-algorithms/library). Once you've joined the group, this link is best for accessing our Zotero Library.
 
-"%}
+#### Set up your digital portfolio
+- Go to [wix.com](http://wix.com) and create an account (everything is free; you can opt out of all emails). Click the `Get Started` button in the middle of the page, then the `Sign up` link to enter your email address and set a password.
+- Once logged in, Click the `Create New Site`
+- You'll be asked what kind of site you want to create---pick `Blog`.
+- CAREFUL: On the next page, click the `Choose a Template` button. DO NOT click the other one!
+- Pick a design that you like---you can customize it later if you want. We're just getting the blog working right now. When you click on one of the images, it gives you a preview of the site layout and a button to Edit the site. If you like the layout (you'll be customizing it over the semester), click the Edit button. Or close the preview and pick a new layout.
+- After a few seconds, you'll end up in the website editor. There's a lot of options and stuff that we don't need. It will become more familiar and easier to use quickly.
+- Near the upper left corner of the page, you can change the page you are editing---select the `About` page on your site.
+- Edit the bio text to introduce yourself to the class.
+- Click `Save` in the upper right corner.
+- Name your site however you like---I suggest `aaportfolio` because it's clear.
+- Click the `Publish Now` button to make sure your site is visible.
+- You don't need to edit the mobile site at all, so just close the dialog box.
+- Copy the URL that it shows you (it should look like https://fwgibbs.wixsite.com/aaportfolio) and post it to our [class Google Doc of blog sites](https://docs.google.com/document/d/10vEQMEYl-nd98AcVMQkudAQCCKk3HqkZ1nEXgphiB_8/edit?usp=sharing).
 
 
-### Introducing Archives
-- Elizabeth Yale, ‘The History of Archives: The State of the Discipline’, _Book History_ 18 (2015): 332–59.
+### Introducing Archives and yourself
+One very short reading for this week just to get started and as a jumping off point for your first reading reflection.
+
 - Trevor Owens, [What Do you Mean by Archive? Genres of Usage for Digital Preservers](https://blogs.loc.gov/thesignal/2014/02/what-do-you-mean-by-archive-genres-of-usage-for-digital-preservers/).
+
+
+#### Post your first reading response
+- Log into wix.com and select your site to edit it.
+- Click the pen icon on the left side of the screen.
+- Click `Create a Post`.
+- Add a Catchy title.
+- Using the Owens reading for this week (link above), write a short ~200-word, two-part post that addressed 1) how you have thought of the term `archive` and 2) why you ended up in THIS class and what kinds of issues you're interested in.
+- This is just a warm-up blog post to make sure everything is working---so no pressure and no grading. But I am looking forward to your posts!
+- When you're done, be sure to click `Publish` in the upper right corner.
+- Close the dialog box that pops up.
+- You're done!
 
 
 
 ## Week 2 (Jan 25--29): History
-- Walsham, Alexandra. “The Social History of the Archive: Record-Keeping in Early Modern Europe.” Past & Present 230, no. suppl_11 (November 1, 2016): 9–48.
+This week we really get into the history of archives and some of the key issues that will guide our reading and thinking throughout the semester.
+
+- Alexandra Walsham, “The Social History of the Archive: Record-Keeping in Early Modern Europe.” Past & Present 230, no. suppl_11 (November 1, 2016): 9–48.
 - Gabriella Giannchi, "A brief history of the archive" (Chapter 1 from _Archive Everything_), 1--25.
 
 

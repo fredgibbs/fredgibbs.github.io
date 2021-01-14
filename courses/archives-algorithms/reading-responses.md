@@ -20,7 +20,7 @@ Whatever the prompt, there are two motivations for these reflections:
 3) create your own archive of the course---something we will use at the end to reflect on the course as a whole.
 
 ## Basics
-- **~300--350 words**: Write more or less as you need/want to per assignment, but don't be consistently too much above or below the target.
+- **~250 words**: Write more or less as you need/want to per assignment, but don't be consistently too much above or below the target.
 - **Original thinking based on the readings**: Avoid summarizing readings except to restate a point that you want to elaborate on. Your reflections should be obviously informed by the readings. This is easy to do if you actually read them, and impossible if you don't.
 - **Specificity**: General statements are good ONLY when supported by examples from the readings. Otherwise it looks like you didn't read much and/or very carefully.
 - **Polished writing**: Don't try to sound like an academic, but your post shouldn't read like a text message, either.
@@ -41,8 +41,8 @@ If I have posted some questions in the red box where the assignment is listed, y
 
 
 ## Scoring and how these factor in your grade
-These are basically pass/fail assignments, but I won't let you fail.
+These assignments do not get scored with points as some other assignments because I don't want the reflections to become an opaque game of you trying to writing out what you think I want to hear so that you get the most points. Most readings have way more cool stuff in them than can be absorbed in one reading so there really isn't a "right" answer. And I don't find it productive to spend time trying to justify why one student gets a 7 and another gets a 8.5, when they may have learned the same amount or spent the same amount genuinely working on the assignment to the best of their ability. You should be graded on work you do for this class, not how good of a thinker or writer you already are.
 
-These assignments do not get scored with points as do other assignments because I don't want the reflections to become an opaque game of you trying to writing out what you think I want to hear so that you get the most points. Most readings have way more cool stuff in them than can be absorbed in one reading so there really isn't a "right" answer. And I don't find it productive to spend time trying to justify why one student gets a 7 and another gets a 8.5, when they may have learned the same amount or spent the same amount genuinely working on the assignment to the best of their ability. You should be graded on work you do for this class, not how good of a thinker or writer you already are.
+Instead, I look for genuine engagement with and reflection on the course material. As explained above, the reflections should make clear that you've done the readings and developed some thoughts about them. If it is NOT clear to me, I'll ask you some questions that you should address if you want to move to a higher point score for that assignment.
 
-Instead, I look for genuine engagement with and reflection on the course material---as explained above, the reflections should make clear that you've done the readings and developed some thoughts about them. If it is NOT clear to me, I'll ask you some questions that you'll need answer. These questions will encourage a bit more engagement and once you've got . I might ask you questions even when I really like your ideas.
+So you can earn either 2, 4, or 6 points. You can also get up to two extra credit points if you put extra work into a post. Extra words do not automatically equate to extra points---they need to be substantive.
