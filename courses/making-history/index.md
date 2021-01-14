@@ -48,7 +48,9 @@ I want to be VERY CLEAR: even if you have never been challenged to think about h
 I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. If you feel the course structure or assignments isn't facilitating success or does not represent the effort you're putting in the course, let's talk (virtually, of course)!
 
 
-## Work Requirements and Grading (number of assignments x possible points = total points)
+## Work Requirements and Grading
+The little formula translates as `number of assignments` x `possible points` = `total points`
+
 - Quizzes on lectures and reading assignments (6x10=60)
 - Reading Reflections (6x10=60)
 - Primary Source Reflections (4x5=20)
@@ -60,6 +62,7 @@ I will do everything I can do help you learn as much as you're motivated to lear
 
 
 ### Grade Distribution
+There are about 240 points, but that will probably change slightly over the semester. Your grade is determined by percent so you can always see in Learn how you are doing regardless of the ultimate possible point total.
 
 Percent | Grade
 --- | ---
