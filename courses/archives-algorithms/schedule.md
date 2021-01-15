@@ -59,9 +59,8 @@ One very short reading for this week just to get started and as a jumping off po
 
 
 ## Week 2 (Jan 25--29): History
-This week we dive into the history of archives and some of the key issues that will guide our reading and thinking throughout the semester.
-
-
+Terry Cook, ‘The Archive(s) Is a Foreign Country: Historians, Archivists, and the Changing Archival Landscape’, _The American Archivist_ 33.
+Ted Striphas, ‘Algorithmic Culture’, _European Journal of Cultural Studies_, 18.4–5 (2015): 395–412.
 
 
 
