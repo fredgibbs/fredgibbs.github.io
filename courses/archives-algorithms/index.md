@@ -29,7 +29,7 @@ Archives determine the histories that get written. While the idea of an archive 
 
 
 ## Imagination over regurgitation
-This course eschews the typical course narrative in favor of a more exploratory adventure. Therefore, is not for anyone looking for a standard linear, information-delivery-centric kind of course. There's nothing wrong with those; this just isn't one of them. Diversity is good.
+This course eschews the typical course narrative in favor of a more exploratory adventure. Therefore, it is perhaps not ideal for anyone looking for a standard linear, information-delivery-centric kind of course. There's nothing wrong with those; this just isn't one of them. Diversity is good.
 
 As you can see from the [schedule page](schedule), we spend roughly the first half of the course investigating the history of the archive and how it's been rapidly transformed in the last 30 years. Then, we spend roughly the second half of the course reading about the invisible algorithms  and decision making at work in modern society and theorizing about how the history of the archives might give us some insight into the future of a data- and algorithm-driven world.
 
@@ -45,17 +45,18 @@ If you feel the course structure or assignments aren't facilitating your success
 
 
 ## General Workload
-Most of the work is this: You will read usually two to three articles or book chapters per week (averaging about 40 pages total). You'll occasionally post one reading or lecture response (~250 words) per week and/or one entry in your learning journal (~700 words) covering the set of readings for the week.
+Most of the work is this: You will read usually two to three articles or book chapters per week (averaging about 40 pages total). You'll occasionally post one reading or lecture response (~250 words) per week and usually one entry in your learning journal (~700 words) covering the set of readings for the week.
 
-For both kinds of responses, I sometimes provide a few guiding questions, but these entries are pretty freeform. The only requirement is that you show your familiarity with the readings and your reaction to them. Sometimes you'll focus on the articles separately; other times you'll be asked to synthesize them and talk about them as a group. The questions will be abstract and hypothetical and invite you to draw your own conclusions from the readings.
+For both kinds of responses, I sometimes provide a few guiding questions, but these entries are pretty freeform. The only requirement is that you show your familiarity with the readings and your reaction to them---whatever it is. Just read carefully enough that you have some kind of reaction. Sometimes you'll focus on the articles separately; other times you'll be asked to synthesize them and talk about them as a group. The questions will be abstract and hypothetical and invite you to draw your own conclusions from the readings.
 
 There are a few other slightly longer "special" assignments (~900 words), too, to break up the monotony of the journal entries---you usually don't have anything else due those weeks. Each of them have special instruction pages (linked below). They are basically fancy journal entries that ask you to apply the readings for that week to a particular exercise.
 
 The last two weeks of the course we don't read anything new, so you'll have the time to write a few reflection essays that tie course themes together. One of these counts as your final, and is due the end of finals week.
 
 
-### Digital Portfolio / Archive
-we _could_ post everything on UNM Learn, but it's far more interesting and useful for us to create individual digital portfolios (= websites) of our work in the class. These will serve as our personal archives of the course that we will use in one of our final assignments. It also allows us to use images and design more interesting posts than is possible with Learn. THERE IS NO TECHNICAL KNOWLEDGE OR EXPERIENCE REQUIRED! Everything is explained and all the tools and assignments are for completely non-technical people.
+### Your Digital Archive
+
+Instead of posting everything on UNM Learn, it will be far more interesting and useful for us to create individual digital archives of our work for the class, which we will interrogate in one of our final assignments. It also affords us more freedom in how we can use images and design more interesting posts than is possible with Learn. THERE IS NO TECHNICAL KNOWLEDGE OR EXPERIENCE REQUIRED! Everything is explained and all the tools and assignments are for completely non-technical people.
 
 There's not much else to do the first week than to get everything set up, so you'll have plenty of time to get familiar with our digital tools. Using outside digital platforms is in itself an important component of the course, since we are fundamentally concerned with knowledge infrastructures, whether physical or digital archives, or algorithms and automated decision making.
 
@@ -74,11 +75,12 @@ If you feel like writing a bit more for an assignment you can get a few points o
 
 
 ### Assignments
-- [Reading/lecture Responses](reading-responses) (2/4/6 points x 7; ~40 points total)
-- [Learning Journal Entries](learning-journal) (5/10/15 points x 8; ~120 points total)
+- [Reading/lecture Responses](reading-responses) (2/4/6 points x ~7; ~40 points total)
+- [Learning Journal Entries](learning-journal) (5/10/15 points x ~8; ~120 points total)
 - [Archival Silence Analysis](archival-silence-analysis) (20 points x 1)
 - [Transcription Assignment](transcription-guidelines) (20 points x 1)
 - [Data Interface Critique](data-interface-critique) (20 points x 1)
+- [Course Archive Comparison]() (20 points x 1)
 - [From Archives to Algorithms Analysis]() (30 points x 1)
 - [Course Analysis and Reflection]() (40 points x 1)
 

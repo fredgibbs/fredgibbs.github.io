@@ -1,21 +1,21 @@
 ---
 layout: syllabus
-course-title: Digital History
-course-slug: digital-history
-term: Spring 2019
-number: HIST 300-002
+course-title: Archives + Algorithms
+course-slug: archives-algorithms
+term: Spring 2021
+number: HIST 300-007
 section: links-guides
 ---
 
 # Data Interface Critique
 
 ## Basic Requirements
-- Needs to be a separate PAGE on your portfolio, NOT a blog post
-- ~800 words, but the quality is far more important than the quantity
+- Needs to be a separate PAGE in your archive, NOT a blog post
+- ~900 words, but the quality is far more important than the quantity
 - Judicious use of subheadings to delineate your main topics
 - Clear, concise, and meaningful writing (no fluff!)
 - Must include at least 4 screenshots of what you're critiquing
-- Reflect critically on what you're doing using course readings. This is not optional--the point of the readings is that you can use them!
+- Reflect critically on what you're doing using course readings. This is not optional---the point of the readings is that you can use them!
 
 ## Goals of critiques
 Like any critique or review, you should:

@@ -1,7 +1,7 @@
 ---
 layout: syllabus
-course-title: Digital History
-course-slug: digital-history
+course-title: Archives + Algorithms
+course-slug: archives-algorithms
 term: Spring 2021
 number: HIST 300-007
 section: links-guides
@@ -11,12 +11,10 @@ section: links-guides
 # Transcription Guidelines
 
 ## Goals for the course
-In ~800 words, you have three goals:
 - To show me that you've done the transcription assignment (to transcribe MOST of THREE PAGES) of the same document or of different ones.
 - If you've spent a lot of time on a page, but can't get every single word, move on! There's only so much we can contribute on our first time.
 - To document your experience to a general audience
-- To critique your transcription project, the interface and the user experience.
-- To comment on how the assignment brings up critical issues at the intersection of technology and the humanities.
+- To comment on how the assignment brings up critical issues at the intersection of texts, archives, and algorithms.
 
 
 ## Basic Requirements
