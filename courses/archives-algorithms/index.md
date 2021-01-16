@@ -17,7 +17,7 @@ section: home
 
 
 ## Course Description
-Archives determine the histories that get written. While the idea of an archive typically refers to collections of historic documents, we can now think of all corporate and consumer data (smartphone use, search history, surveillance footage, fitbit stats, financial and medical records) as an impossibly detailed archive of human activity. Yet this raises important questions: Who controls different facets of this archive? Who can access it? How is this data archive increasingly managed and understood by algorithms? How does systemic racism and bias creep into supposedly objective retrieval functions? This course explores how can the long history of the archive, and its many problems with selection bias, preservation, and access, can help us understand the future of data and its (mis)uses.
+Archives determine the histories that get written. While the idea of an archive typically refers to collections (in one form or another) of historic documents, we can now think of all corporate and consumer data (smartphone use, search history, surveillance footage, fitbit stats, financial and medical records) as an impossibly detailed archive of human activity. Yet this raises important questions: Who controls different facets of this archive? Who can access it? How is this data archive increasingly managed and understood by algorithms? How does systemic racism and bias creep into supposedly objective retrieval functions? But these are not wholly new, and this course explores how can the long history of the archive, and its many problems with selection bias, preservation, and access, can help us understand the future of data and its (mis)uses.
 
 
 ## Student Learning Outcomes
@@ -31,7 +31,7 @@ Archives determine the histories that get written. While the idea of an archive 
 ## Imagination over regurgitation
 This course eschews the typical course narrative in favor of a more exploratory adventure. Therefore, it is perhaps not ideal for anyone looking for a standard linear, information-delivery-centric kind of course. There's nothing wrong with those; this just isn't one of them. Diversity is good.
 
-As you can see from the [schedule page](schedule), we spend roughly the first half of the course investigating the history of the archive and how it's been rapidly transformed in the last 30 years. Then, we spend roughly the second half of the course reading about the invisible algorithms  and decision making at work in modern society and theorizing about how the history of the archives might give us some insight into the future of a data- and algorithm-driven world.
+As you can see from the [schedule page](schedule), we spend roughly the first half of the course investigating the history of the archive, its national and imperialist legacy, and how the idea of an archive has been rapidly transformed in the last 30 years. Then, we spend roughly the second half of the course reading about the invisible algorithms and automated decision making at work in modern society and theorizing about how the history of the archives might give us some insight into the future of a data- and algorithm-driven world.
 
 Assignments will tend to be speculative and creative exercises that allow you to APPLY the readings to a particular problem or question rather than just summarize or restate information.
 
@@ -45,7 +45,7 @@ If you feel the course structure or assignments aren't facilitating your success
 
 
 ## General Workload
-Most of the work is this: You will read usually two to three articles or book chapters per week (averaging about 40 pages total). You'll occasionally post one reading or lecture response (~250 words) per week and usually one entry in your learning journal (~700 words) covering the set of readings for the week.
+Most of the work is this: You will read usually two to three articles or book chapters per week (averaging about 40 pages total). You'll occasionally post one reading response (~250 words) per week and usually one slightly longer reflection (~700 words) that will tie together the readings for the week.
 
 For both kinds of responses, I sometimes provide a few guiding questions, but these entries are pretty freeform. The only requirement is that you show your familiarity with the readings and your reaction to them---whatever it is. Just read carefully enough that you have some kind of reaction. Sometimes you'll focus on the articles separately; other times you'll be asked to synthesize them and talk about them as a group. The questions will be abstract and hypothetical and invite you to draw your own conclusions from the readings.
 
@@ -55,34 +55,42 @@ The last two weeks of the course we don't read anything new, so you'll have the 
 
 
 ### Your Digital Archive
+Instead of posting everything on UNM Learn---which we all see too much of these days---it will be far more interesting and useful for us to create individual digital archives of our work for the class. Building our own digital archives also affords us more freedom in how we can use images and design in our assignments (meaning they are more fun to do) than is possible with Learn. You'll basically create a very simple blog website that you'll use as a digital archive, which we will interrogate and reflect on as part of the course. THERE IS NO TECHNICAL KNOWLEDGE OR EXPERIENCE REQUIRED! Everything is explained and all the tools and assignments are free and designed for completely non-technical people.
 
-Instead of posting everything on UNM Learn, it will be far more interesting and useful for us to create individual digital archives of our work for the class, which we will interrogate in one of our final assignments. It also affords us more freedom in how we can use images and design more interesting posts than is possible with Learn. THERE IS NO TECHNICAL KNOWLEDGE OR EXPERIENCE REQUIRED! Everything is explained and all the tools and assignments are for completely non-technical people.
+I will be making an archive along with you, customizing my website, doing the same assignments, and so on---though I'll always post them AFTER you do. So you'll get to see what I think (if you care), and it also provides a centralized place for me to engage with what you're thinking and writing about.
 
-There's not much else to do the first week than to get everything set up, so you'll have plenty of time to get familiar with our digital tools. Using outside digital platforms is in itself an important component of the course, since we are fundamentally concerned with knowledge infrastructures, whether physical or digital archives, or algorithms and automated decision making.
+There's not much else to do the first week than to get everything set up, so you'll have plenty of time to get familiar with our digital tools. Using outside digital platforms is in itself an important component of the course, since we are fundamentally concerned with knowledge infrastructures, whether physical or digital archives, and algorithms and automated decision making.
 
 
 ## Grading
-This course has an atypical grading procedure, so please be sure you understand how everything works to avoid surprises later on. My goal is do things that both kinda fun AND help us learn without a dark, mysterious shadow of an anxiety-inducing grade looming over everything. I'm not sure this is totally possible, but I want to find out. Explanations of how work is evaluated (or not) is explained on each assignment instruction page (links directly below).
+This course has an atypical grading procedure, so please be sure you understand how everything works to avoid surprises later on. My goal is do things that at are at least kinda fun AND help us learn without a dark, mysterious shadow of an anxiety-inducing grade looming over everything. I'm not sure this is totally possible, but I want to find out. Explanations of how work is evaluated (or not) is explained on each assignment instruction page (links directly below).
 
-Ultimately, all reading responses and journal entries are all graded as rough/ok/great (worth 1/3, 2/3 and full points). Mostly the responses are a chance for me to respond to your own ideas and add to the course rather than for me to assign and justify a seemingly arbitrary point value on how "good" you did (which derives too much from your educational background prior to this course).
+Ultimately, all reading responses and journal entries are all graded (in Learn, so you can always see how you're doing in the course) as rough/ok/great (worth 1/3, 2/3 and full points). Mostly the responses are a chance for me to respond to your own ideas and add to the course rather than for me to assign and justify a seemingly arbitrary point value on how "good" you did---which derives too much from your educational background prior to this course.
 
-If I don't see your engagement with the readings, I will ask you to elaborate on some points you brought up or on a reading that you didn't mention much or at all so that you can get full points for the assignment. If you ignore my nudges to elaborate on your responses, you'll get partial credit for the assignment.
+If I don't see your engagement with the readings, I will ask you to elaborate on some points you brought up or on a reading that you didn't mention much or at all so that you can get full points for the assignment. If you ignore my nudges to elaborate on your responses, you'll get partial credit.
 
-Special assignments ARE graded in terms of points because it's useful to have a little pressure once in a while.
+The six special assignments (including the final) ARE graded in terms of points because it's useful to have a little pressure once in a while.
+
+### Bottom line:
+- If you're legitimately reading the assignments, crafting thoughtful responses, and keeping up with the work, you'll get an A or A-.
+- If you do all the work but more than a few responses have little connection to the readings, you'll get closer to a B or B-.
+- If you do all the work but most responses have little connection to the readings, you'll get closer to a C or C-.
+- If your work is constantly superficial and you miss a bunch of assignments, that's bad news.
 
 ### Extra work = extra credit
 If you feel like writing a bit more for an assignment you can get a few points of extra credit. Some topics and readings will be more interesting to you than others, so if you have more to say, you should get credit for it. This is true for ALL ASSIGNMENTS. This should make it easy for you to get whatever grade you want in the course.
 
 
 ### Assignments
-- [Reading/lecture Responses](reading-responses) (2/4/6 points x ~7; ~40 points total)
+All the links here take you to assignment guides that provide more specific assignment instructions. Assignments without links will have them shortly.
+- [Reading/lecture Responses](reading-responses) (2/4/6 points x ~5; ~30 points total)
 - [Learning Journal Entries](learning-journal) (5/10/15 points x ~8; ~120 points total)
 - [Archival Silence Analysis](archival-silence-analysis) (20 points x 1)
 - [Transcription Assignment](transcription-guidelines) (20 points x 1)
 - [Data Interface Critique](data-interface-critique) (20 points x 1)
 - [Course Archive Comparison]() (20 points x 1)
 - [From Archives to Algorithms Analysis]() (30 points x 1)
-- [Course Analysis and Reflection]() (40 points x 1)
+- [Final Reflections](final-reflections) (40 points x 1)
 
 
 

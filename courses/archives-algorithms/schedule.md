@@ -15,34 +15,38 @@ There are a bunch of small set-up things to do for this week, but not much readi
 
 - Review the syllabus, course aims, assignments, and general plan for the semester.
 
+- Watch a short introductory video (link TBA).
+
+- Take a short video/syllabus quiz (in Learn).
+
 - Follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero).
 
   - Our `Zotero Group homepage` is [https://www.zotero.org/groups/2667261/archives-algorithms](https://www.zotero.org/groups/2667261/archives-algorithms). This link is best for joining the course Zotero Group.
 
   - Our `Zotero Library page` is [https://www.zotero.org/groups/2667261/archives-algorithms/library](https://www.zotero.org/groups/2667261/archives-algorithms/library). Once you've joined the group, this link is best for accessing our Zotero Library.
 
-#### Set up your digital portfolio
+#### Set up your digital portfolio and about page
 - Go to [wix.com](http://wix.com) and create an account (everything is free; you can opt out of all emails). Click the `Get Started` button in the middle of the page, then the `Sign up` link to enter your email address and set a password.
 - Once logged in, Click the `Create New Site`
 - You'll be asked what kind of site you want to create---pick `Blog`.
 - CAREFUL: On the next page, click the `Choose a Template` button. DO NOT click the other one!
-- Pick a design that you like---you can customize it later if you want. We're just getting the blog working right now. When you click on one of the images, it gives you a preview of the site layout and a button to Edit the site. If you like the layout (you'll be customizing it over the semester), click the Edit button. Or close the preview and pick a new layout.
-- After a few seconds, you'll end up in the website editor. There's a lot of options and stuff that we don't need. It will become more familiar and easier to use quickly.
+- Pick a design that is a good starting point for you (simple is best)---we'll customize it later. When you click on one of the images, it gives you a preview of the site layout and a button to Edit the site. If it looks good enough, click the Edit button. Or close the preview and pick a new layout.
+- After about 10 seconds, you'll end up in the website editor. There's a lot of options and stuff that we don't need, but it will quickly become more familiar and easier to use.
 - Near the upper left corner of the page, you can change the page you are editing---select the `About` page on your site.
-- Edit the bio text to introduce yourself to the class---basic info like major, hobbies, life goals, favorite foods --- and WHY you ended up here and what you hope to get out of the class.
+- Edit the bio text to introduce yourself to the class---basic first-day info like major, hobbies, life goals, favorite foods --- and WHY you ended up here and what you hope to get out of the class.
 - Click `Save` in the upper right corner.
 - Name your site whatever you like.
 - Click the `Publish Now` button to make sure your site is visible.
 - You don't need to edit the mobile site at all, so just close the dialog box.
-- Copy the URL that it shows you (it should look like https://fwgibbs.wixsite.com/aaportfolio) and post it to our [class Google Doc of blog sites](https://docs.google.com/document/d/10vEQMEYl-nd98AcVMQkudAQCCKk3HqkZ1nEXgphiB_8/edit?usp=sharing).
+- Copy the URL that it shows you (it should look like https://fwgibbs.wixsite.com/archive) and post it to our [class Google Doc of blog sites](https://docs.google.com/document/d/10vEQMEYl-nd98AcVMQkudAQCCKk3HqkZ1nEXgphiB_8/edit?usp=sharing).
 
 
-### Introducing Archives and yourself
-One very short reading for this week just to get started and as a jumping off point for your first reading reflection.
+### Introducing Archives
+Just two short readings for this week as a jumping off point for your first short reading response.
 
 - Gabriella Giannchi, "A brief history of the archive" (Chapter 1 from _Archive Everything_), 1--15. Note the full article goes to p. 25, so don't read the whole thing! This article can get into the weeds at times, so stay focused on the big picture in terms of a _general_ history of the archive and how it's changed over time.
 
-- Trevor Owens, [What Do you Mean by Archive? Genres of Usage for Digital Preservers](https://blogs.loc.gov/thesignal/2014/02/what-do-you-mean-by-archive-genres-of-usage-for-digital-preservers/).
+- Trevor Owens, [What Do you Mean by Archive? Genres of Usage for Digital Preservers](https://blogs.loc.gov/thesignal/2014/02/what-do-you-mean-by-archive-genres-of-usage-for-digital-preservers/). Read the comments, too! They are (perhaps unusually so) quite a useful addition to the article itself.
 
 
 #### Post your first reading response
@@ -50,17 +54,29 @@ One very short reading for this week just to get started and as a jumping off po
 - Click the pen icon on the left side of the screen.
 - Click `Create a Post`.
 - Add a Catchy title.
-- Using the Giannchi and Owens readings for this week (link above), write a standard reading reflection on what you thought were the most 3-4 most interesting points in EACH of the articles and WHY. There IS NO RIGHT ANSWER. I'm just curious what you thought was interesting.
-- NOTE: This is just a warm-up blog post to make sure everything is working---so no pressure and no grading. But I am looking forward to your posts!
+- Using the Giannchi and Owens readings for this week (see above), write a standard reading response on what definition(s) of archive (from Owens) you think Giannchi is primarily interested in. How do the various definitions offered by Owens complicate Giannchi's description?  There is NO RIGHT ANSWER.
+- NOTE: This is just a warm-up blog post to make sure everything is working---so no pressure and no grading! But I am looking forward to your thoughts, and this is the kind of assignment you'll be doing much of the semester--trying to combine two different readings for the week.
 - When you're done, be sure to click `Publish` in the upper right corner.
 - Close the dialog box that pops up.
-- You're done! Your site at this point will have all kinds of images and stuff that you don't need or want---and we'll clean up our sites over the next few weeks. If you want to start tidying now, go for it!
+- You're done! Your site at this point will have all kinds of images and stuff that you don't need or want. We'll clean up our sites over the next few weeks, but if you want to start tidying now, go for it!
 
 
 
-## Week 2 (Jan 25--29): History
-Terry Cook, ‘The Archive(s) Is a Foreign Country: Historians, Archivists, and the Changing Archival Landscape’, _The American Archivist_ 33.
-Ted Striphas, ‘Algorithmic Culture’, _European Journal of Cultural Studies_, 18.4–5 (2015): 395–412.
+## Week 2 (Jan 25--29): Archival Practice and Data Futures
+This week we read an article that describes the relationship between historians and archivists---particularly how historians have regarded archival work uncritically and as providing an objective way of accessing the past. The other article describes how so many ways of sorting, organizing, and storing elements of culture (the exact work that archivists have done) have become automated processes.
+
+- Terry Cook, ‘The Archive(s) Is a Foreign Country: Historians, Archivists, and the Changing Archival Landscape’, _The American Archivist_ 33 (2011): 600--632.
+
+{% include alert.html class='danger' title='Reading Response' text="
+- What did you find interesting and/or confusing?
+"%}
+
+
+- Ted Striphas, ‘Algorithmic Culture’, _European Journal of Cultural Studies_, 18.4–5 (2015): 395–412.
+
+{% include alert.html class='danger' title='Learning Journal' text="
+This post is space for you to put the two articles together: What can algorithmic culture learn from the history of the archive? How can our thinking about information, crowd, and algorithm be informed by how historians have used archives? We'll return to this question at the end of the class after we've read a lot more, and it will be useful to document/archive our preliminary thinking here. As always, THERE IS NO RIGHT ANSWER. Just show me you're reading and trying to find common ground between the articles.
+"%}
 
 
 
