@@ -112,7 +112,7 @@ This post is space for you to put the two articles together: What can algorithmi
 [Valley of the Shadow](http://valley.lib.virginia.edu/), [Virtual Jamestown](http://www.virtualjamestown.org), [American Social Movements](http://depts.washington.edu/moves/index.shtml), [Civil War Washington](http://civilwardc.org/), [Blue Ridge Parkway](https://docsouth.unc.edu/blueridgeparkway/), [Slave Voyages](http://www.slavevoyages.org/) + [a striking visualization](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html), [Colonial Dispatches](https://bcgenesis.uvic.ca/index.htm), [Colored Conventions](http://coloredconventions.org/), [Lynching America](https://lynchinginamerica.eji.org/), [Mapping Segregation](http://mappingsegregationdc.org), [Native Land](https://native-land.ca/), [First Days Project](https://www.firstdaysproject.org/), [American Yawp](http://www.americanyawp.com/), [American Panorama](http://dsl.richmond.edu/panorama/), [Georgetown Slavery Archive](https://slaveryarchive.georgetown.edu/)
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-- Follow the [data interface critique guidelines](data-interface-critique).
+- Follow the [Archival Interface Critique Guidelines](archival-interface-critique).
 "%}
 
 
