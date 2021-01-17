@@ -35,7 +35,7 @@ Through readings, lectures, discussions, examinations, and writing assignments, 
 
 
 ## General Workload
-Most weeks you will read two short book chapters (occasionally articles) and occasionally short excerpts from historical sources, the standard amount for a lower-division history course. Most weeks will have a 5-10 minute introductory video that will help provide some background and highlight important themes to look for in the readings. Most lectures and readings will have either a short reading reflection or quiz associated with them to make sure you are motivated to keep up with the lectures and reading, and to hold you accountable. Quizzes will employ a variety of kinds of questions, including short answer prompts that test your ability to synthesize information from the lecture and chapter(s).
+Most weeks you will read two short book chapters (occasionally articles), the standard amount for a lower-division history course. Most weeks will have a 5-10 minute introductory video that will help provide some background and highlight important themes to look for in the readings. Most lectures and readings will have either a short reading reflection or quiz associated with them to make sure you are motivated to keep up with the lectures and reading, and to hold you accountable. Quizzes will employ a variety of kinds of questions, including short answer prompts that test your ability to synthesize information from the lecture and chapter(s).
 
 The quizzes (about 25% of your grade for the course) are mostly straightforward, but not trivial. The goal is to make you THINK CAREFULLY and CRITICALLY about course material. You will disagree with me on some questions, which is what I want. Because this class is about interpretation and argument, you are welcome and encouraged to debate on the discussion board ANY quiz question marked as incorrect. If you make a good argument, you'll get points for it and make up any "missed" points from the quiz.
 
@@ -55,7 +55,6 @@ The little formula translates as `number of assignments` x `possible points` = `
 
 - Quizzes (on lectures & reading assignments) (6x10=60)
 - [Reading Reflections](reading-responses) (6x10=60)
-- Primary Source Reflections (4x5=20)
 - 1619 Project Reflection (1x20)
 - Architecture and Monuments Reflection (1x20)
 - History at Work Critique (1x20)
@@ -64,7 +63,7 @@ The little formula translates as `number of assignments` x `possible points` = `
 
 
 ### Grade Distribution
-There are about 240 points, but that will probably change slightly over the semester. Your grade is determined by percent so you can always see in Learn how you are doing regardless of the ultimate possible point total.
+There will be about 240 points, but that will probably change slightly over the semester. Your grade is determined by percent so you can always see in Learn how you are doing regardless of the ultimate possible point total.
 
 Percent | Grade
 --- | ---

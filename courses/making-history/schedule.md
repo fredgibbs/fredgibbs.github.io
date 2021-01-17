@@ -16,16 +16,11 @@ All work will be submitted on UNM Learn, either through the discussion board or 
 ### A note about deadlines
 Everything you need to turn in is listed in a red box. Most weeks have short reading quizzes or reflections due on specified days to keep everyone moving along together and space out the work. But I am also aware that sh!t happens and takes up valuable time unexpectedly. If need be, you can submit work up to TWO DAYS after the due date for full credit IF THE NEED ARISES. But this leeway should be used only as a last resort in the wake of unusual circumstances. Because there is a natural tendency to let things slide until the last weeks of the semester, unless you've made arrangements with me (and please do!), **work more than 2 days late will be scored a 0**.
 
-### Kinda always under construction
-I'm always fiddling with the syllabus depending on what's working or not working in the class and what's going on in the world. I might swap out a reading or change up an assignment for an upcoming week. But the overall workload will always remain the same compared to what you see below, and all changes will result in the same or less work than originally stated. I always let you know of any changes with considerable advance notice.
-
 
 ## Week 1 (Jan 18--22): Introductions
 
 ### Tuesday: Syllabus, Expectations, Tools
-- Welcome/overview video
-- Overview/syllabus quiz
-- Introduction to [Zotero](http://zotero.org)
+- Welcome/overview video (link TBP)
 
 {% include alert.html class='warning' title='Do this ASAP' text="
 We use a tool called Zotero to manage PDFs of reading assignments apart from the books. As you read the [Zotero set up instructions](/courses/etc/zotero), you will need the following links. Save yourself confusion by reading the directions FIRST. We use Zotero throughout the semester---and occasionally I add stuff to this during the semester that we'll use for an assignment---so don't be foolish enough to think you can get by without it.
@@ -61,15 +56,16 @@ GIMICK ALERT: Just for fun (apologies if this ends up being stupid), we're going
 
 {% include alert.html class='danger' title='Video Reflection' text="
 This assignment is a standard [reading reflection](reading-reflections), where you should answer the prompts
-- How is history useful in achieving the goals outlined in the speech?
 - What ideas or phrases resonated with you?
 - What have you worshipped even if you never thought it about it that way?
+- Most importantly: how is history useful in achieving the goals outlined in the speech?
 "%}
 
 
 ## Week 2 (Jan 25--29): Premodern history writing
-To understand more about what history is and what it is for, it's imperative to have a sense of how historical methods, goals, and writing have changed over time. That's what our first book is about. It's a very high-level overview that helps keep the big picture of historiographical change in focus. Short lectures and reading guides will complement the text with additional details and historic examples. This book provides a foundation of historical tradition that is necessary to appreciate the critical questions and changes in historical writing that are the focus of our second book. Popkin's book is very good at making its main points very clear while providing lots of historical examples and detail, so it's easy to read slower when getting the more important overview and read more quickly through the details. Don't treat it like a textbook where everything is equally important.
+To understand more about what history is and what it is for, it's imperative to have a sense of how historical methods, motivations, and interpretations have changed over time. That's what our first book is about. It's a very high-level overview that helps keep the big picture of historiographical change in focus. Short lectures and reading guides will complement the text with additional details and historic examples. This book provides a foundation of historical tradition that is necessary to appreciate the critical questions and changes in historical writing that are the focus of our second book.
 
+Popkin's book is very good at making its main points very clear while providing lots of historical examples and detail, so it's easy to read slower when getting the more important overview and read more quickly through the details. Don't treat it like a textbook where everything is equally important.
 
 
 ### Monday
