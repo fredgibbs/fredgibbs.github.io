@@ -35,9 +35,9 @@ Through readings, lectures, discussions, examinations, and writing assignments, 
 
 
 ## General Workload
-Most weeks you will read two short book chapters (occasionally articles) and short excerpts from historical sources, the standard amount for a lower-division history course. Almost all weeks will have a 5-10 minute introductory video that will help provide some background and highlight important themes to look for in the readings. Most lectures and readings will have either a short reading reflection or quiz associated with them to make sure you are motivated to keep up with the lectures and reading, and to hold you accountable. Quizzes will employ a variety of kinds of questions, including short answer prompts that test your ability to synthesize information from the lecture and chapter(s).
+Most weeks you will read two short book chapters (occasionally articles) and occasionally short excerpts from historical sources, the standard amount for a lower-division history course. Most weeks will have a 5-10 minute introductory video that will help provide some background and highlight important themes to look for in the readings. Most lectures and readings will have either a short reading reflection or quiz associated with them to make sure you are motivated to keep up with the lectures and reading, and to hold you accountable. Quizzes will employ a variety of kinds of questions, including short answer prompts that test your ability to synthesize information from the lecture and chapter(s).
 
-The quizzes (about 25% of your grade for the course) are mostly straightforward, but not trivial. The goal is to make you THINK CAREFULLY and CRITICALLY about course material. You will disagree with me on some questions, which is what I want. Because this class is about interpretation and argument, you are welcome and encouraged to debate ANY quiz question that was marked as wrong on the discussion board. If you make a good argument, you'll get points for it and make up any "missed" points from the quiz.
+The quizzes (about 25% of your grade for the course) are mostly straightforward, but not trivial. The goal is to make you THINK CAREFULLY and CRITICALLY about course material. You will disagree with me on some questions, which is what I want. Because this class is about interpretation and argument, you are welcome and encouraged to debate on the discussion board ANY quiz question marked as incorrect. If you make a good argument, you'll get points for it and make up any "missed" points from the quiz.
 
 In short, it's very easy to get whatever grade you want in the class by just keeping up with the basic work. There is no huge midterm or final that is a large percent of your grade.
 
@@ -49,17 +49,17 @@ I will do everything I can do help you learn as much as you're motivated to lear
 
 
 ## Work Requirements and Grading
-All assignments listed here will have their own instruction page, but some of them are not quite finalized.
+All assignments listed here will eventually link to their own instruction page. Most instruction guides are still being finalized, but they will all be available well before you need them.
 
 The little formula translates as `number of assignments` x `possible points` = `total points`
 
 - Quizzes (on lectures & reading assignments) (6x10=60)
-- [Reading Reflections](reading-reflections) (6x10=60)
+- [Reading Reflections](reading-responses) (6x10=60)
 - Primary Source Reflections (4x5=20)
 - 1619 Project Reflection (1x20)
 - Architecture and Monuments Reflection (1x20)
 - History at Work Critique (1x20)
-- Final Course Reflection (1x40)
+- [Final Course Reflection](final-reflections) (1x40)
 
 
 
