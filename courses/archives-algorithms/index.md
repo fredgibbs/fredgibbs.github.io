@@ -87,7 +87,7 @@ All the links here take you to assignment guides that provide more specific assi
 - [Weekly Reflections](weekly-reflections) (5/10/15 points x ~8; ~120 points total)
 - Archival Silence Analysis (20 points x 1)
 - [Crowdsourced Transcription](transcription-guidelines) (20 points x 1)
-- [Data Interface Critique](data-interface-critique) (20 points x 1)
+- [Archival Interface Critique](archival-interface-critique) (20 points x 1)
 - Isolated Archive Anaylsis (20 points x 1)
 - Course Archive Comparison (20 points x 1)
 - From Archives to Algorithms Analysis (30 points x 1)

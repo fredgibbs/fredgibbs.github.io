@@ -7,11 +7,11 @@ number: HIST 300-007
 section: links-guides
 ---
 
-# Data Interface Critique
+# Archival Interface Critique
 
 ## Basic Requirements
-- Needs to be a separate PAGE in your archive, NOT a blog post
-- ~900 words, but the quality is far more important than the quantity
+- Needs to be a separate PAGE on your site, NOT just a blog post
+- ~700 words, but the quality is far more important than the quantity
 - Judicious use of subheadings to delineate your main topics
 - Clear, concise, and meaningful writing (no fluff!)
 - Must include at least 4 screenshots of what you're critiquing
@@ -21,20 +21,18 @@ section: links-guides
 Like any critique or review, you should:
 - Provide some summary of the main features / functionality
 - Note stated or apparent intended audience
-- Make it clear what the goals of the project are
-- Evaluate how well the various facets of the website (design, organization, writing style, interface, functionality) facilitate its intended goals for its audience
+- How does the website motivate your interest in the sources?
 - Note aspects that work well
 - Note aspects that need improvement (and why!)
 - Remember to incorporate our readings from earlier in the semester (_yes in fact there was a reason we read all those!_)
-- Contemplate about how maps, databases, interfaces, and visualizations shape the kinds of (historical) interpretations the website is meant to facilitate.
 
 ## What's behind the curtain?
 Your essay should not simply answer these questions one by one. Think about them holistically as you begin formulating and drafting your critique.
 - What are the original sources? How accessible does the site make them?
-- How easy is it to see where the data comes from and gets represented?
+- How easy is it to learn more about the sources and possible selection bias?
 - Do you get a sense what data exists and what doesn't?
 - How might the interface/visualization be misleading?
-- How is the design working for or against the purposes of the site?
+- What kind of discovery or interpretation does the archive enable? What does it resist?
 
 
 ## PRO TIPS
