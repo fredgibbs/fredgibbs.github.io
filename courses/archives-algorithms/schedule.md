@@ -14,18 +14,12 @@ section: schedule
 There are a bunch of small set-up things to do for this week, but not much reading.
 
 - Review the syllabus, course aims, assignments, and general plan for the semester.
-
 - Watch a short introductory video (link TBA).
-
-- Take a short video/syllabus quiz (in Learn).
-
 - Follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero).
-
   - Our `Zotero Group homepage` is [https://www.zotero.org/groups/2667261/archives-algorithms](https://www.zotero.org/groups/2667261/archives-algorithms). This link is best for joining the course Zotero Group.
-
   - Our `Zotero Library page` is [https://www.zotero.org/groups/2667261/archives-algorithms/library](https://www.zotero.org/groups/2667261/archives-algorithms/library). Once you've joined the group, this link is best for accessing our Zotero Library.
 
-#### Set up your digital portfolio and about page
+#### Set up your website (= archive) and about page
 - Go to [wix.com](http://wix.com) and create an account (everything is free; you can opt out of all emails). Click the `Get Started` button in the middle of the page, then the `Sign up` link to enter your email address and set a password.
 - Once logged in, Click the `Create New Site`
 - You'll be asked what kind of site you want to create---pick `Blog`.
