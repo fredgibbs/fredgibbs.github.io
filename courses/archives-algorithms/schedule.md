@@ -74,8 +74,8 @@ This week we read an article that describes the relationship between historians 
 
 - Ted Striphas, ‘Algorithmic Culture’, _European Journal of Cultural Studies_, 18.4–5 (2015): 395–412.
 
-{% include alert.html class='danger' title='Learning Journal' text="
-This post is space for you to put the two articles together: What can algorithmic culture learn from the history of the archive? How can our thinking about information, crowd, and algorithm be informed by how historians have used archives? We'll return to this question at the end of the class after we've read a lot more, and it will be useful to document/archive our preliminary thinking here. As always, THERE IS NO RIGHT ANSWER. Just show me you're reading and trying to find common ground between the articles.
+{% include alert.html class='danger' title='Weekly Reflection' text="
+This post is space for you to put the two articles together: What can algorithmic culture learn from the history of the archive? How can our thinking about information, crowd, and algorithm be informed by how historians have used archives? We'll return to this question at the end of the class (after we've read a lot more), and it will be useful to document/archive our preliminary thinking here. As always, THERE IS NO RIGHT ANSWER. Just show me you're reading and trying to think about the future of data/algorithms via the history of the archive.
 "%}
 
 
@@ -84,12 +84,18 @@ This post is space for you to put the two articles together: What can algorithmi
 - Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19.
 - Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” 21–43.
 
+{% include alert.html class='danger' title='Weekly Reflection' text="
+- Drawing equally from the two readings for this week: How would you describe the relationship between archives, power, and memory?
+"%}
 
 
 ## Week 4 (Feb 8--12): Silence
 - Rodney G. S. Carter, “Of Things Said and Unsaid: Power, Archival Silences, and Power in Silence” _Archivaria_, September 25, 2006, 215–33.
 - Saidiya Hartman, "Venus in Two Acts." _Small Axe_ 12.2 (2008): 1-14.
 
+{% include alert.html class='danger' title='Archival Silence' text="
+- Normally we can only speculate about archival silences. In this assignment, you will consider a silence that you have intimate knowledge of. Look through the photos on your phone. Drawing from the provocations in the readings (and you should make it clear you are using the readings to inform your own writing), analyze the gaps in your own archive.
+"%}
 
 
 ## Week 5 (Feb 15--19): Classification
@@ -97,23 +103,23 @@ This post is space for you to put the two articles together: What can algorithmi
 - Melissa Adler and Lindsey M. Harper, “Race and Ethnicity in Classification Systems: Teaching Knowledge Organization from a Social Justice Perspective”, _Library Trends_ 67.1 (2018): 52–73.
 - Jennifer Guiliano and Carolyn Heitman, “Difficult Heritage and the Complexities of Indigenous Data,” _Journal of Cultural Analytics_ (2019).
 
+{% include alert.html class='danger' title='Weekly Reflection' text="
+- Why care about classification? What's at stake? Your reflection should draw from all three readings.
+"%}
 
 
 ## Week 6 (Feb 22--26): Interface
 - Jefferson Bailey, [Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives](http://dev.archivejournal.net/?p=4722)
 - Mitchell Whitelaw, [Generous Interfaces for Digital Cultural Collections](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html)
 - Skim through more examples [here](https://lab.sciencemuseum.org.uk/exploring-museum-collections-online-some-background-reading-da5a332fa2f8)
-- Review the [data interface critique guidelines](data-interface-critique). Please read the guidelines ahead of time, but there's no other required reading.
 
 
 #### Sample Digital Archive/History Projects
-[Valley of the Shadow](http://valley.lib.virginia.edu/), [Virtual Jamestown](http://www.virtualjamestown.org), [American Social Movements](http://depts.washington.edu/moves/index.shtml), [Civil War Washington](http://civilwardc.org/), [Blue Ridge Parkway](https://docsouth.unc.edu/blueridgeparkway/), [Slave Voyages](http://www.slavevoyages.org/) + [a striking visualization](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html), [Colonial Dispatches](https://bcgenesis.uvic.ca/index.htm), [Colored Conventions](http://coloredconventions.org/), [Lynching America](https://lynchinginamerica.eji.org/), [Mapping Segregation](http://mappingsegregationdc.org), [Native Land](https://native-land.ca/), [First Days Project](https://www.firstdaysproject.org/), [American Yawp](http://www.americanyawp.com/), [American Panorama](http://dsl.richmond.edu/panorama/)
+[Valley of the Shadow](http://valley.lib.virginia.edu/), [Virtual Jamestown](http://www.virtualjamestown.org), [American Social Movements](http://depts.washington.edu/moves/index.shtml), [Civil War Washington](http://civilwardc.org/), [Blue Ridge Parkway](https://docsouth.unc.edu/blueridgeparkway/), [Slave Voyages](http://www.slavevoyages.org/) + [a striking visualization](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html), [Colonial Dispatches](https://bcgenesis.uvic.ca/index.htm), [Colored Conventions](http://coloredconventions.org/), [Lynching America](https://lynchinginamerica.eji.org/), [Mapping Segregation](http://mappingsegregationdc.org), [Native Land](https://native-land.ca/), [First Days Project](https://www.firstdaysproject.org/), [American Yawp](http://www.americanyawp.com/), [American Panorama](http://dsl.richmond.edu/panorama/), [Georgetown Slavery Archive](https://slaveryarchive.georgetown.edu/)
 
-- Peruse the [Georgetown Slavery Archive](https://slaveryarchive.georgetown.edu/)
-- [New Mexico Digital Collections](econtent.unm.edu)
-- [Rocky Mountain Online Archive](https://rmoa.unm.edu/)
-- For a huge range of digital content, see [this guide](https://libguides.unm.edu/az.php?t=6969=)
-
+{% include alert.html class='danger' title='Weekly Reflection' text="
+- Follow the [data interface critique guidelines](data-interface-critique).
+"%}
 
 
 ## Week 7 (March 1--5): Decolonizing
@@ -124,7 +130,7 @@ This post is space for you to put the two articles together: What can algorithmi
 - [Chicana por mi Raza](http://www.chicanapormiraza.org/)
 - [Chicano/a Activism in the Southern Plains Interactive Map and Timeline](https://plainsmovement.com/neatline/show/interactive-map-and-timeline)
 - [Reclaiming the Lesbian Archives](https://academic.oup.com/ohr/article/43/1/170/1752485)
-- Joel Zapata, “Taking Chicana/o Activist History to the Public: Chicana/o Activism in the Southern Plains through Time and Space,” _Great Plains Quarterly_ 38.4 (2018): 407–24.
+- Joel Zapata, “Taking Chicana/o Activist History to the Public: Chicana/o Activism in the Southern Plains through Time and Space,” _Great Plains Quarterly_ 38.4 (2018): 407--24.
 
 ### Decolonizing Projects
 - [The Early Caribbean Digital Archive](https://ecda.northeastern.edu/)
@@ -133,12 +139,15 @@ This post is space for you to put the two articles together: What can algorithmi
 
 
 ## Week 8 (Mar 8--12): Community
-- Jimmy Zavala et al., “‘A Process Where We’re All at the Table’: Community Archives Challenging Dominant Modes of Archival Practice.,” _Archives and Manuscripts_ 45, no. 3 (2017): 202–15.
+- Jimmy Zavala et al., “‘A Process Where We’re All at the Table’: Community Archives Challenging Dominant Modes of Archival Practice”, _Archives and Manuscripts_ 45, no. 3 (2017): 202--15.
 - Laura Sydell, [3D Scans Help Preserve History, But Who Should Own Them?](https://www.npr.org/sections/alltechconsidered/2018/05/21/609084578/3d-scans-help-preserve-history-but-who-should-own-them)
-- SKIM: Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” _The Public Historian_ 36, no. 4 (2014): 26–37.
+- SKIM: Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” _The Public Historian_ 36, no. 4 (2014): 26--37.
 
 - SKIM: Sofía Becerra-Licha, [Participatory and Post-Custodial Archives as Community Practice](https://er.educause.edu/articles/2017/10/participatory-and-post-custodial-archives-as-community-practice)
 
+{% include alert.html class='danger' title='Weekly Reflection' text="
+- What do YOU see as the most important issues facing community archives?
+"%}
 
 
 ## Week 9: Mar 15--19: NOTHING: Enjoy Spring Break!!!
@@ -146,12 +155,11 @@ This post is space for you to put the two articles together: What can algorithmi
 
 
 ## Week 10 (Mar 22--27): Algorithmic Texts
-- Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings”, _American Literature_ 85.4 (2013): 661–88.
-- Lara Putnam, “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” _The American Historical Review_ 121.2 (2016): 377–402.
+- Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings”, _American Literature_ 85.4 (2013): 661--88.
+- Lara Putnam, “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” _The American Historical Review_ 121.2 (2016): 377--402.
 - Laura Spinney, [History as a giant data set: how analysing the past could help save the future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
 
-- Review the [assignment guidelines](transcription-guidelines).
-- Review some [transcription tips](https://www.archives.gov/citizen-archivist/transcribe/tips).
+### Transcription options
 - [Colored Conventions](http://coloredconventions.org/transcribe-minutes)
 - [Transcribe Bentham](http://blogs.ucl.ac.uk/transcribe-bentham/)
 - [Information Wanted](http://informationwanted.org/): Contribute to the construction of a searchable digital database of advertisements printed by former enslaved people searching for their loved ones.
@@ -161,6 +169,11 @@ This post is space for you to put the two articles together: What can algorithmi
 - [Library of Congress transcription project](https://crowd.loc.gov/)
 - [Citizen Archivist](https://www.archives.gov/citizen-archivist): A set of transcription projects organized by the National Archives
 - [Smithsonian Digital Volunteers](https://transcription.si.edu/): LOTS of great projects to contribute to, based on archives of the Smithsonian Institution. You can browse all projects by name or theme.
+
+{% include alert.html class='danger' title='Transcription' text="
+- Review some [transcription tips](https://www.archives.gov/citizen-archivist/transcribe/tips).
+- Follow the [assignment guidelines](transcription-guidelines).
+"%}
 
 
 
@@ -188,10 +201,17 @@ This post is space for you to put the two articles together: What can algorithmi
 
 
 ## Week 15: April 26--30
-- No new readings this week. You will write one longer journal entry (due Friday) on understanding algorithms through archive. More details as we get closer.
-
-## Week 16: May  3--7
 - No new readings this week. You will write one longer journal entry on analyzing your own course archive in terms of those that other students produced. More details as we get closer. This will serve as a final for the course and will be due the end of finals week.
 
+{% include alert.html class='danger' title='Course Archive Comparison' text="
+- Instruction guide coming soon."
+%}
+
+## Week 16: May  3--7
+- No new readings this week. You will write one reflection on understanding algorithms through archive. More details as we get closer.
+
+{% include alert.html class='danger' title='From Archives to Algorithms' text="
+- Instruction guide coming soon.
+"%}
 
 ## All coursework due by FRIDAY May 14!

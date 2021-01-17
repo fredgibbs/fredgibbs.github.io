@@ -49,10 +49,12 @@ I will do everything I can do help you learn as much as you're motivated to lear
 
 
 ## Work Requirements and Grading
+All assignments listed here will have their own instruction page, but some of them are not quite finalized.
+
 The little formula translates as `number of assignments` x `possible points` = `total points`
 
-- Quizzes on lectures and reading assignments (6x10=60)
-- Reading Reflections (6x10=60)
+- Quizzes (on lectures & reading assignments) (6x10=60)
+- [Reading Reflections](reading-reflections) (6x10=60)
 - Primary Source Reflections (4x5=20)
 - 1619 Project Reflection (1x20)
 - Architecture and Monuments Reflection (1x20)
