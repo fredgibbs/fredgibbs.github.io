@@ -54,7 +54,7 @@ All assignments listed here will eventually link to their own instruction page. 
 The little formula translates as `number of assignments` x `possible points` = `total points`
 
 - Quizzes (on lectures & reading assignments) (6x10=60)
-- [Reading Reflections](reading-responses) (6x10=60)
+- [Reading Responses](reading-reflections) (6x10=60)
 - 1619 Project Reflection (1x20)
 - Architecture and Monuments Reflection (1x20)
 - History at Work Critique (1x20)
