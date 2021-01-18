@@ -9,6 +9,9 @@ section: schedule
 
 # Archives + Algorithms Schedule
 
+## Submitting work
+All work is due by when you go to bed on Friday so that I have it early on Saturday morning. You are of course welcome to post your responses and reflections any time during the week. Unless otherwise specified, all work should be posted (usually as a blog post) to your website.
+
 
 ## Week 1 (Jan 18--22): Introductions
 There are a bunch of small set-up things to do for this week, but not much reading.
@@ -20,6 +23,7 @@ There are a bunch of small set-up things to do for this week, but not much readi
   - Our `Zotero Library page` is [https://www.zotero.org/groups/2667261/archives-algorithms/library](https://www.zotero.org/groups/2667261/archives-algorithms/library). Once you've joined the group, this link is best for accessing our Zotero Library.
 
 #### Set up your website (= archive) and about page
+- All the following steps, along with bit more explanation, are covered in a [quick screencast](https://youtu.be/t0x3752flqQ) if you prefer to just see them.
 - Go to [wix.com](http://wix.com) and create an account (everything is free; you can opt out of all emails). Click the `Get Started` button in the middle of the page, then the `Sign up` link to enter your email address and set a password.
 - Once logged in, Click the `Create New Site`
 - You'll be asked what kind of site you want to create---pick `Blog`.
@@ -62,7 +66,7 @@ This week we read an article that describes the relationship between historians 
 - Terry Cook, ‘The Archive(s) Is a Foreign Country: Historians, Archivists, and the Changing Archival Landscape’, _The American Archivist_ 33 (2011): 600--632.
 
 {% include alert.html class='danger' title='Reading Response' text="
-- What did you find interesting and/or confusing?
+- In response to the Cook article: Especially in terms of the history of the archive, what in the article you find most interesting and/or confusing?
 "%}
 
 
