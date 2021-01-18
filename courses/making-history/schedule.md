@@ -20,7 +20,7 @@ Everything you need to turn in is listed in a red box. Most weeks have short rea
 ## Week 1 (Jan 18--22): Introductions
 
 ### Tuesday: Syllabus, Expectations, Tools
-- Welcome/overview video (link TBP)
+- Welcome/overview video (link TBP no later than Tuesday morning)
 
 {% include alert.html class='warning' title='Do this ASAP' text="
 We use a tool called Zotero to manage PDFs of reading assignments apart from the books. As you read the [Zotero set up instructions](/courses/etc/zotero), you will need the following links. Save yourself confusion by reading the directions FIRST. We use Zotero throughout the semester---and occasionally I add stuff to this during the semester that we'll use for an assignment---so don't be foolish enough to think you can get by without it.
@@ -32,7 +32,7 @@ Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-histo
 
 
 {% include alert.html class='danger' title='Syllabus Quiz' text="
-- Make sure you watch the intro video and take the quiz that covers both the intro video and the syllabus. These cover important logistics of the course and are super easy points that you don't want to miss out on.
+- Make sure you watch the intro videos (one on the course, one on the syllabus) and take the quiz that covers both videos and the syllabus. Questions cover important logistics of the course and are super easy points that you don't want to miss out on! The video links will be posted no later than Tuesday morning, and you can take the quiz anytime this week.
 "%}
 
 
