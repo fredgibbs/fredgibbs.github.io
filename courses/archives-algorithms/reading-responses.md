@@ -46,3 +46,11 @@ These assignments do not get scored with points as some other assignments becaus
 Instead, I look for genuine engagement with and reflection on the course material. As explained above, the reflections should make clear that you've done the readings and developed some thoughts about them. If it is NOT clear to me, I'll ask you some questions that you should address if you want to move to a higher point score for that assignment.
 
 So you can earn either 2, 4, or 6 points. You can also get up to two extra credit points if you put extra work into a post. Extra words do not automatically equate to extra points---they need to be substantive.
+
+- 6 points: Clearly demonstrates broad familiarity with the readings across the week, exhibits original thinking, connects current readings to past readings, and is clearly articulated.
+
+- 4 points: Shows familiarity with the some of the reading and offers some critical reflection on key themes, but uneven coverage of the readings and/or could use significant improvements in writing.
+
+- 2 points: Some effort, but doesn't show much engagement with the readings or is difficult to understand.
+
+- 0 points: Nothing posted, or otherwise so unintelligible that I can't even guess at what you were trying to do.
