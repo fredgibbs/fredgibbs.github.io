@@ -17,7 +17,7 @@ All work is due by when you go to bed on Friday so that I have it early on Satur
 There are a bunch of small set-up things to do for this week, but not much reading.
 
 - Review the syllabus, course aims, assignments, and general plan for the semester.
-- Watch a short introductory video (link TBA).
+- Watch a ~short~ reasonable-length [introductory video](https://youtu.be/5rTlho5u62c).
 - Follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero).
   - Our `Zotero Group homepage` is [https://www.zotero.org/groups/2667261/archives-algorithms](https://www.zotero.org/groups/2667261/archives-algorithms). This link is best for joining the course Zotero Group.
   - Our `Zotero Library page` is [https://www.zotero.org/groups/2667261/archives-algorithms/library](https://www.zotero.org/groups/2667261/archives-algorithms/library). Once you've joined the group, this link is best for accessing our Zotero Library.
