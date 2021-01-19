@@ -40,7 +40,7 @@ Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-histo
 - Alice Dreger, [What is History?](http://alicedreger.com/what_is_history).
 The significance of the anecdote offered at the beginning of this piece is not explicitly stated, but it should be. The point here is that every time we ask WHY? about anything, we can focus either on immediate practical implications (physics), or on much larger structural, social explanations (history). They are both important because they provide different kinds of answers. Those who can move fluidly between these ways of thinking and understanding will be more astute problem solvers in any career.
 
-- Peter Sterns, [Why Study History?](https://www.historians.org/about-aha-and-membership/aha-history-and-archives/historical-archives/why-study-history-(1998\)).
+- Peter Sterns, [Why Study History?](https://www.historians.org/about-aha-and-membership/aha-history-and-archives/historical-archives/why-study-history-(1998)).
 
 
 {% include alert.html class='danger' title='Introductory Connections' text="
