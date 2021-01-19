@@ -20,7 +20,8 @@ Everything you need to turn in is listed in a red box. Most weeks have short rea
 ## Week 1 (Jan 18--22): Introductions
 
 ### Tuesday: Syllabus, Expectations, Tools
-- Welcome/overview video (link TBP no later than Tuesday morning)
+- [Welcome to Making History video](https://youtu.be/mgmTIOIj3n4)
+- [Syllabus overview video](https://youtu.be/5ZQi1_jYEhg)
 
 {% include alert.html class='warning' title='Do this ASAP' text="
 We use a tool called Zotero to manage PDFs of reading assignments apart from the books. As you read the [Zotero set up instructions](/courses/etc/zotero), you will need the following links. Save yourself confusion by reading the directions FIRST. We use Zotero throughout the semester---and occasionally I add stuff to this during the semester that we'll use for an assignment---so don't be foolish enough to think you can get by without it.
