@@ -10,7 +10,7 @@ section: schedule
 # Archives + Algorithms Schedule
 
 ## Submitting work
-All work is due by when you go to bed on Friday so that I have it early on Saturday morning. You are of course welcome to post your responses and reflections any time during the week. Reading responses and weekly reflections must be posted (usually as a blog post) to your website. You'll make separate pages for the other assignments. Keep in mind that our website aren't just an alternative to Learn, but are an integral component of the course.
+All work for each week is due by when you go to bed on Friday so that I have it early on Saturday morning. You are of course welcome to post your responses and reflections (if there is more than one thing due) any time during the week. Reading responses and weekly reflections must be posted (usually as a blog post) to your website. You'll make separate pages for the other assignments. Keep in mind that our website aren't just an alternative to Learn, but are an integral component of the course.
 
 
 ## Week 1 (Jan 18--22): Introductions
