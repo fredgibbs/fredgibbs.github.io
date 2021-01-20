@@ -55,7 +55,7 @@ GIMICK ALERT: Just for fun (apologies if this ends up being stupid), we're going
 ### Friday
 - David Foster Wallace, [What is Water?](https://fs.blog/2012/04/david-foster-wallace-this-is-water). You can listen to DFW read this (a commencement speech at Kenyon College in 2005) or just read the transcript---or read and listen at the same time, as I did.
 
-{% include alert.html class='danger' title='Video Reflection' text="
+{% include alert.html class='danger' title='What is Water Reflection' text="
 This assignment is a standard [reading reflection](reading-reflections), where you should answer the prompts
 - What ideas or phrases resonated with you?
 - What have you worshipped even if you never thought it about it that way?
@@ -71,10 +71,10 @@ Popkin's book is very good at making its main points very clear while providing 
 
 ### Monday
 - No specific readings for today, but you might start reading the Popkin chapters for this week.
-- "Why care about historiography" LECTURE and QUIZ.
+- Watch the lecture on historiography and this week's readings
 
 {% include alert.html class='danger' title='Lecture Quiz' text="
-- What can we learn from historiography?
+- This quiz is on Learn like the syllabus quiz, and don't forget that you can debate quiz questions marked incorrect. Be sure you have specific evidence and make an argument!
 "%}
 
 ### Wednesday
@@ -103,10 +103,10 @@ This week we continue our historiographical survey.
 
 
 ### Monday
-- Video: Background for next chapters
+- Video: Background and points of emphasis for next chapters
 
 {% include alert.html class='danger' title='Lecture quiz' text="
-
+You'll find this in Learn as always.
 "%}
 
 
