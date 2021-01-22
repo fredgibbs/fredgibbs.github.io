@@ -93,7 +93,10 @@ Some questions to keep in mind while reading and in preparing for the quiz:
 - Popkin, Chapter 3: The Historiographical Revolution of Early Modern Europe, 49--70.
 
 {% include alert.html class='danger' title='Reading reflection' text="
+Below are a few questions you should address in your reflection. For each point that you want to make, give at least one specific example:
 - How did Renaissance humanism impact historical methods and writing?
+- Pages 53--61 gives us a bunch of examples of kinds of histories and influences on history writing. How would you summarize what changes are happening in society and in the writing of history?
+- How are Enlightenment historians doing things differently than before? How did the aims of history changed?
 "%}
 
 
