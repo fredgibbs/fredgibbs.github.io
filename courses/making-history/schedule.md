@@ -84,7 +84,7 @@ Popkin's book is very good at making its main points very clear while providing 
 Some questions to keep in mind while reading and in preparing for the quiz:
 - How would you describe the differences between Herodotus and Thucydides?
 - What were Roman historians trying to accomplish?
-- How did Judiasm and Christianity challenge the kinds of history writing done to that point?
+- How did Judiasm and Christianity challenge the kinds of history writing?
 - How would you characterize histories written during later Middle Ages?
 "%}
 
@@ -96,7 +96,7 @@ Some questions to keep in mind while reading and in preparing for the quiz:
 Below are a few questions you should address in your reflection. For each point that you want to make, give at least one specific example:
 - How did Renaissance humanism impact historical methods and writing?
 - Pages 53--61 gives us a bunch of examples of kinds of histories and influences on history writing. How would you summarize what changes are happening in society and in the writing of history?
-- How are Enlightenment historians doing things differently than before? How did the aims of history changed?
+- How are Enlightenment historians doing things differently than before? How did the aims of historians and their histories change?
 "%}
 
 
