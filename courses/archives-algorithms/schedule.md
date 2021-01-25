@@ -75,7 +75,7 @@ This week we read an article that describes the relationship between historians 
 - Ted Striphas, ‘Algorithmic Culture’, _European Journal of Cultural Studies_, 18.4–5 (2015): 395–412.
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-This [weekly reflection](weekly-reflection) is space for you to put the two articles together: What can algorithmic culture learn from the history of the archive? How can our thinking about information, crowd, and algorithm be informed by how historians have used archives? Can you think of a keyword that, compared to past usage, represents a cultural shift of the 21st century?
+This [weekly reflection](weekly-reflections) is space for you to put the two articles together: What can algorithmic culture learn from the history of the archive? How can our thinking about information, crowd, and algorithm be informed by how historians have used archives? Can you think of a keyword that, compared to past usage, represents a cultural shift of the 21st century?
 
 We'll return to this question at the end of the class (after we've read a lot more), and it will be useful to document/archive our preliminary thinking here. As always, THERE IS NO RIGHT ANSWER. Just show me you're reading and trying to think about the future of data/algorithms via the history of the archive.
 "%}
