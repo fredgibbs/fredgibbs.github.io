@@ -96,7 +96,7 @@ We'll return to this question at the end of the class (after we've read a lot mo
 - Saidiya Hartman, "Venus in Two Acts." _Small Axe_ 12.2 (2008): 1-14.
 
 {% include alert.html class='danger' title='Archival Silence' text="
-- Normally we can only speculate about archival silences. In this 'special' assignment, you will consider a silence about which you have intimate knowledge. Look through the photos on your phone (or wherever you keep photos). Drawing from the provocations in the readings (and you should make it clear you are using the readings to inform your thinking), analyze the gaps in your own archive.
+- Normally we can only speculate about archival silences. In this 'special' assignment (although it's a lot like a weekly reflection), you will consider a silence about which you have intimate knowledge. Look through the photos on your phone (or wherever you keep photos). Drawing from the provocations in the readings (and you should make it clear you are using the readings to inform your thinking), analyze the gaps in your own archive.
 "%}
 
 
@@ -106,7 +106,7 @@ We'll return to this question at the end of the class (after we've read a lot mo
 - Jennifer Guiliano and Carolyn Heitman, “Difficult Heritage and the Complexities of Indigenous Data,” _Journal of Cultural Analytics_ (2019).
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-- Why care about classification? What's at stake? Your reflection should draw from all three readings.
+- Just a couple of broad questions that should allow you to riff off a few themes Why care about classification? What's at stake? Your [weekly reflection](weekly-reflections) should draw from all three readings.
 "%}
 
 
@@ -148,7 +148,7 @@ We'll return to this question at the end of the class (after we've read a lot mo
 - SKIM: Sofía Becerra-Licha, [Participatory and Post-Custodial Archives as Community Practice](https://er.educause.edu/articles/2017/10/participatory-and-post-custodial-archives-as-community-practice)
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-- What do YOU see as the most important issues facing community archives?
+- For your final, pre-break [weekly reflection](weekly-reflections), outline what YOU see as the most important issues facing community archives? Does the history of the archive give us any insight into how to cultivate community archives?
 "%}
 
 
