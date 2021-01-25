@@ -71,7 +71,9 @@ Popkin's book is very good at making its main points very clear while providing 
 
 ### Monday
 - No specific readings for today, but you might start reading the Popkin chapters for this week.
-- Watch the lecture on historiography and this week's readings
+- Watch the [comments on interesting questions you raised in your introductions](https://youtu.be/jmZomS3_Lj4). See if you're mentioned in it!
+- Watch the [lecture on historiography and this week's readings](https://youtu.be/uSLDHzSiRGQ).
+
 
 {% include alert.html class='danger' title='Lecture Quiz' text="
 - This quiz is on Learn like the syllabus quiz, and don't forget that you can debate quiz questions marked incorrect. Be sure you have specific evidence and make an argument!
