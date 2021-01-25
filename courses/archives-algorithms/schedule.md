@@ -63,17 +63,21 @@ Just two short readings for this week as a jumping off point for your first shor
 ## Week 2 (Jan 25--29): Archival Practice and Data Futures
 This week we read an article that describes the relationship between historians and archivists---particularly how historians have regarded archival work uncritically and as providing an objective way of accessing the past. The other article describes how so many ways of sorting, organizing, and storing elements of culture (the exact work that archivists have done) have become automated processes.
 
+- Check out the [Week 2 overview video](https://youtu.be/NLWZAkXRDaU), which gives an introduction to each article and some ideas for how to connect them in your weekly reflection this week.
+
+
 - Terry Cook, ‘The Archive(s) Is a Foreign Country: Historians, Archivists, and the Changing Archival Landscape’, _The American Archivist_ 33 (2011): 600--632.
 
 {% include alert.html class='danger' title='Reading Response' text="
 - In response to the Cook article: Especially in terms of the history of the archive, what in the article you find most interesting and/or confusing?
 "%}
 
-
 - Ted Striphas, ‘Algorithmic Culture’, _European Journal of Cultural Studies_, 18.4–5 (2015): 395–412.
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-This post is space for you to put the two articles together: What can algorithmic culture learn from the history of the archive? How can our thinking about information, crowd, and algorithm be informed by how historians have used archives? We'll return to this question at the end of the class (after we've read a lot more), and it will be useful to document/archive our preliminary thinking here. As always, THERE IS NO RIGHT ANSWER. Just show me you're reading and trying to think about the future of data/algorithms via the history of the archive.
+This [weekly reflection](weekly-reflection) is space for you to put the two articles together: What can algorithmic culture learn from the history of the archive? How can our thinking about information, crowd, and algorithm be informed by how historians have used archives? Can you think of a keyword that, compared to past usage, represents a cultural shift of the 21st century?
+
+We'll return to this question at the end of the class (after we've read a lot more), and it will be useful to document/archive our preliminary thinking here. As always, THERE IS NO RIGHT ANSWER. Just show me you're reading and trying to think about the future of data/algorithms via the history of the archive.
 "%}
 
 
