@@ -87,7 +87,7 @@ We'll return to this question at the end of the class (after we've read a lot mo
 - Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” 21–43.
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-- Drawing equally from the two readings for this week: How would you describe the relationship between archives, power, and memory?
+- Just one writing assignment---a [weekly reflection](weekly-reflections)---due this week: Drawing equally from the two readings for this week: How would you describe the relationship between archives, power, and memory?
 "%}
 
 
@@ -96,7 +96,7 @@ We'll return to this question at the end of the class (after we've read a lot mo
 - Saidiya Hartman, "Venus in Two Acts." _Small Axe_ 12.2 (2008): 1-14.
 
 {% include alert.html class='danger' title='Archival Silence' text="
-- Normally we can only speculate about archival silences. In this assignment, you will consider a silence that you have intimate knowledge of. Look through the photos on your phone. Drawing from the provocations in the readings (and you should make it clear you are using the readings to inform your own writing), analyze the gaps in your own archive.
+- Normally we can only speculate about archival silences. In this 'special' assignment, you will consider a silence about which you have intimate knowledge. Look through the photos on your phone (or wherever you keep photos). Drawing from the provocations in the readings (and you should make it clear you are using the readings to inform your thinking), analyze the gaps in your own archive.
 "%}
 
 
