@@ -93,6 +93,7 @@ This week we're looking at the power of archives, which includes a whole range o
   - How would you describe the relationship between archives, power, and memory?
   - How do you suppose archives have shaped your identity (p.16)? Note the discussion of identity isn't so much about how YOU see yourself, but how OTHERS see you (via the history of the archive).
   - What impacts/influences do interfaces have on how archives create/maintain power?
+  - In what ways is Wikipedia an archive? How is it not? (Careful---this is for those looking for a challenge!)
   - How might interfaces you use everyday be more influential (on you and/or society) than you might expect?
 "%}
 
