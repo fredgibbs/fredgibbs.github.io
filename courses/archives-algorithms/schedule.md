@@ -83,8 +83,10 @@ We'll return to this question at the end of the class (after we've read a lot mo
 
 
 ## Week 3 (Feb 1--5): Power
-- Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19.
-- Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” 21–43.
+This week we're looking at the power of archives, which includes a whole range of meanings as we got a sample of last time. A quote at the end of the first article sums up the gist of point for the week to keep in mind while reading. Archival power means: _Power over the documentary record, and by extension over the collective  memory of marginalized members of society – whether women, non-whites, gays and lesbians, children, the under-classes, prisoners, and the non-literate – and indeed over their representation and integration into the metanarratives of history._ And keep in mind, too, the parallels between societal data and archives and the power they yield. Of course power, whether through physical records, digital facsimiles, or data, is mediated through interfaces, whether a digital archive website or an algorithm that computes your SAT or GRE score.
+
+- Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19. This article is a little repetitive at times, but in a good way as it makes it easy to understand the main points. It is shorter than it looks in terms of page count because many pages are almost entirely footnotes (which you can peruse if you're interested).
+- Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” 21–43. This article overlaps a little with the other other, which doesn't mention interfaces at all, and makes for a very productive complement. There is a section on memory pp. 27--32, that you can skim; it's more productive for us to keep our focus on interfaces.
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
 - Just one writing assignment---a [weekly reflection](weekly-reflections)---due this week: Drawing equally from the two readings for this week, pick a few questions to answer. I think they are all equally useful to think about, but you don't have enough space to get into ALL of them in your response. As always: your responses must draw extensively from the readings!
