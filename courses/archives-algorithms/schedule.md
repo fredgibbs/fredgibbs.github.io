@@ -87,7 +87,10 @@ We'll return to this question at the end of the class (after we've read a lot mo
 - Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” 21–43.
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-- Just one writing assignment---a [weekly reflection](weekly-reflections)---due this week: Drawing equally from the two readings for this week: How would you describe the relationship between archives, power, and memory?
+- Just one writing assignment---a [weekly reflection](weekly-reflections)---due this week: Drawing equally from the two readings for this week:
+  - How would you describe the relationship between archives, power, and memory?
+  - What impacts/influences do interfaces have on these relationships?
+  - How might interfaces you use everyday be more influential (on you and/or society) than you might expect?
 "%}
 
 
