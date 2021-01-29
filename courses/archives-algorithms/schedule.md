@@ -87,9 +87,10 @@ We'll return to this question at the end of the class (after we've read a lot mo
 - Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” 21–43.
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-- Just one writing assignment---a [weekly reflection](weekly-reflections)---due this week: Drawing equally from the two readings for this week:
+- Just one writing assignment---a [weekly reflection](weekly-reflections)---due this week: Drawing equally from the two readings for this week, pick a few questions to answer. I think they are all equally useful to think about, but you don't have enough space to get into ALL of them in your response. As always: your responses must draw extensively from the readings!
   - How would you describe the relationship between archives, power, and memory?
-  - What impacts/influences do interfaces have on these relationships?
+  - How do you suppose archives have shaped your identity (p.16)? Note the discussion of identity isn't so much about how YOU see yourself, but how OTHERS see you (via the history of the archive).
+  - What impacts/influences do interfaces have on how archives create/maintain power?
   - How might interfaces you use everyday be more influential (on you and/or society) than you might expect?
 "%}
 
