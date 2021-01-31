@@ -121,7 +121,7 @@ You'll find this in Learn as always.
 {% include alert.html class='danger' title='Reading reflection' text="
 A few broad questions to (paradoxically) answer in your reflection:
 - How did history become 'professionalized' and more 'scientific' in the 19th century (which we more or less know as 'academic' history today?)
-- How would you describe the relationship between nationalism?
+- How would you describe the relationship between history and nationalism as formulated in the 19th century?
 "%}
 
 
