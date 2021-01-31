@@ -119,9 +119,9 @@ You'll find this in Learn as always.
 - Popkin, Chapter 4: Rise of Academic Scholarship and Nationalist History, 71--100.
 
 {% include alert.html class='danger' title='Reading reflection' text="
-A couple of broad questions to (paradoxically) answer in your reflection:
-- What constitutes 'academic' history?
-- How did history become linked to nationalism?
+A few broad questions to (paradoxically) answer in your reflection:
+- How did history become 'professionalized' and more 'scientific' in the 19th century (which we more or less know as 'academic' history today?)
+- How would you describe the relationship between nationalism?
 "%}
 
 
