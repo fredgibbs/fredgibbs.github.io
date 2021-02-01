@@ -108,8 +108,8 @@ This week we continue our historiographical survey.
 
 
 ### Monday
-- Check out the [Week 2 Overview video](https://youtu.be/isu3ia2G0r0)
-- Week 3 Overview video (link coming early Monday afternoon)
+- [Week 2 Overview video](https://youtu.be/isu3ia2G0r0). This one is good for making sure you haven't missed key historiographical points that we'll need later, and some advice about doing well on the quizzes.
+- [Week 3 Overview video](https://youtu.be/FKo0RlWskqs). This one is good for situating the two chapters in the contours of the course and for highlighting some important ideas you'll need for your Wednesday reflection.
 
 {% include alert.html class='warning' title='Lecture quiz' text="
 Originally we had a lecture quiz scheduled for today, but that is CANCELED! Nothing due today. However, the lecture video will help you score higher on the Wednesday reflection.
