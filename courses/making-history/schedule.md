@@ -108,10 +108,11 @@ This week we continue our historiographical survey.
 
 
 ### Monday
-- Video: Background and points of emphasis for next chapters
+- Check out the [Week 2 Overview video](https://youtu.be/isu3ia2G0r0)
+- Week 3 Overview video (link coming early Monday afternoon)
 
-{% include alert.html class='danger' title='Lecture quiz' text="
-You'll find this in Learn as always.
+{% include alert.html class='warning' title='Lecture quiz' text="
+Originally we had a lecture quiz scheduled for today, but that is CANCELED! Nothing due today. However, the lecture video will help you score higher on the Wednesday reflection.
 "%}
 
 
