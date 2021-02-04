@@ -83,7 +83,7 @@ We'll return to this question at the end of the class (after we've read a lot mo
 
 
 ## Week 3 (Feb 1--5): Power
-This week we're looking at the power of archives, which includes a whole range of meanings as we got a sample of last time. A quote at the end of the first article sums up the gist of point for the week to keep in mind while reading. Archival power means: _Power over the documentary record, and by extension over the collective  memory of marginalized members of society – whether women, non-whites, gays and lesbians, children, the under-classes, prisoners, and the non-literate – and indeed over their representation and integration into the metanarratives of history._ 
+This week we're looking at the power of archives, which includes a whole range of meanings as we got a sample of last time. A quote at the end of the first article sums up the gist of point for the week to keep in mind while reading. Archival power means: _Power over the documentary record, and by extension over the collective  memory of marginalized members of society – whether women, non-whites, gays and lesbians, children, the under-classes, prisoners, and the non-literate – and indeed over their representation and integration into the metanarratives of history._
 
 Keep in mind, too, the parallels between societal data and archives and the power they yield. Of course power, whether through physical records, digital facsimiles, or data, is mediated through interfaces, whether a digital archive website or an algorithm that computes your SAT or GRE score.
 
@@ -104,10 +104,11 @@ For an overview of some key themes for the week, check out the [Week 3 Overview 
 
 ## Week 4 (Feb 8--12): Silence
 - Rodney G. S. Carter, “Of Things Said and Unsaid: Power, Archival Silences, and Power in Silence” _Archivaria_, September 25, 2006, 215–33.
+- [UCLA to Establish Archive on Policing and Mass Incarceration in Los Angeles](https://mellon.org/news-blog/articles/ucla-establish-archive-policing-and-mass-incarceration-los-angeles/)
 - Saidiya Hartman, "Venus in Two Acts." _Small Axe_ 12.2 (2008): 1-14.
 
 {% include alert.html class='danger' title='Archival Silence' text="
-- Normally we can only speculate about archival silences. In this 'special' assignment (although it's a lot like a weekly reflection), you will consider a silence about which you have intimate knowledge. Look through the photos on your phone (or wherever you keep photos). Drawing from the provocations in the readings (and you should make it clear you are using the readings to inform your thinking), analyze the gaps in your own archive.
+- Normally we can only speculate about archival silences. In this 'special' assignment (although it's a lot like a weekly reflection), you will consider a silence about which you have intimate knowledge. Look through the photos on your phone (or wherever you keep photos). Drawing from the provocations in the readings, analyze the gaps in your own archive. Make it VERY CLEAR you are using the course readings---from both this and previous weeks---to inform your analysis.
 "%}
 
 
