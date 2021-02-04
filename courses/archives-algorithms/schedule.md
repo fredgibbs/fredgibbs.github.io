@@ -104,7 +104,7 @@ For an overview of some key themes for the week, check out the [Week 3 Overview 
 
 ## Week 4 (Feb 8--12): Silence
 - Rodney G. S. Carter, “Of Things Said and Unsaid: Power, Archival Silences, and Power in Silence” _Archivaria_, September 25, 2006, 215–33.
-- [UCLA to Establish Archive on Policing and Mass Incarceration in Los Angeles](https://mellon.org/news-blog/articles/ucla-establish-archive-policing-and-mass-incarceration-los-angeles/)
+- A recent news item about addressing silences: [UCLA to Establish Archive on Policing and Mass Incarceration in Los Angeles](https://mellon.org/news-blog/articles/ucla-establish-archive-policing-and-mass-incarceration-los-angeles/)
 - Saidiya Hartman, "Venus in Two Acts." _Small Axe_ 12.2 (2008): 1-14.
 
 {% include alert.html class='danger' title='Archival Silence' text="
