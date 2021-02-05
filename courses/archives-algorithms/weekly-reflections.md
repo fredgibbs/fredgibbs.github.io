@@ -21,7 +21,7 @@ The point of this exercise is to help you solidify in your mind what you took aw
 
 
 ## Basics
-- **~700 words**: Write more or less as you need/want to per entry, but don't be consistently too much above or below the target.
+- **~800 words**: Write more or less as you need/want to per entry, but don't be consistently too much above or below the target.
 - **Original thinking**: Avoid summarizing readings except to restate a point that you want to elaborate on.
 - **Specificity**: Your entries should have copious specific references to the readings. It's not required that you cite specific pages (although I encourage it), but your general description of what you took away from the readings should be illustrated with examples that indicate your level of familiarity with the readings.
 - **Polished writing**: Don't try to sound like an academic, but your post shouldn't read like a text message, either.

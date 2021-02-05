@@ -20,7 +20,7 @@ Whatever the prompt, there are two motivations for these reflections:
 3) create your own archive of the course---something we will use at the end to reflect on the course as a whole.
 
 ## Basics
-- **~250 words**: Write more or less as you need/want to per assignment, but don't be consistently too much above or below the target.
+- **~250--300 words**: Write more or less as you need/want to per assignment, but don't be consistently too much above or below the target. The word count is less important than the depth of the content.
 - **Original thinking based on the readings**: Avoid summarizing readings except to restate a point that you want to elaborate on. Your reflections should be obviously informed by the readings. This is easy to do if you actually read them, and impossible if you don't.
 - **Specificity**: General statements are good ONLY when supported by examples from the readings. Otherwise it looks like you didn't read much and/or very carefully.
 - **Polished writing**: Don't try to sound like an academic, but your post shouldn't read like a text message, either.
