@@ -136,16 +136,13 @@ Your quiz will cover the whole chapter as usual, but will focus on one particula
 
 
 
-
 ## Week 4 (Feb 8--12)
 We finish up our historiographical survey this week. This week's chapters cover how approaches to history changed in the second half of the 20th century. We are taking a short break from reading responses in favor of READING SUMMARIES. They are described below.
 
 
 ### Monday
-- Video: Background for 20th-century "paradigm shifts"
-
 {% include alert.html class='warning' title='Nothing due today' text="
-There is nothing due for today, but the lecture will be a big help for your summaries due Wednesday and Friday.
+No video, no quiz, nada. Nothing due for today! Use the time to produce better reading summaries due this week.
 "%}
 
 
@@ -156,7 +153,6 @@ There is nothing due for today, but the lecture will be a big help for your summ
 {% include alert.html class='danger' title='Reading Summary' text="
 Using both readings, make a bullet point list of what you consider the most important historical changes described in the chapter. These should be in your own words---don't just copy sentences out of the book---and you should have ~8--10 bullet points. Bullet points should be COMPLETE sentences, and you can have more than one sentence in a single bullet to make more complex points. Make sure each bullet is a separate topic.
 "%}
-
 
 
 ### Friday
@@ -170,8 +166,16 @@ Same thing as Wednesday (but for today's assignment, obviously).
 
 
 ## Week 5 (Feb 15--19)
-Our next book (though we briefly dabbled in it already) introduces and explains some critical questions that we should always be asking about every history we encounter. It sort of picks up where the other book leaves off (with some helpful overlap), and largely focuses on contemporary history writing and what's new about it as opposed to past traditions. We will apply these questions (and historical examples) to analyzing our final book for the course towards the end of the term.
+Our next book (though we briefly dabbled in it already) introduces and explains some critical questions that we should always be asking about every history we encounter. It sort of picks up where Popkin leaves off (with some helpful overlap), and largely focuses on contemporary history writing and what's new about it as opposed to past traditions. We will apply these questions (and historical examples) to analyzing our final book for the course towards the end of the term.
 
+
+
+### Monday
+- Popkin Review and Maza Preview Lecture (video link TBP)
+
+{% include alert.html class='danger' title='Review Lecture Quiz' text="
+- Review/Preview Lecture Quiz (via Learn as always)
+"%}
 
 
 ### Wednesday
