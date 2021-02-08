@@ -109,6 +109,7 @@ This week is an extension/elaboration on last week's POWER theme. The Policing a
 - Rodney G. S. Carter, “Of Things Said and Unsaid: Power, Archival Silences, and Power in Silence” _Archivaria_, September 25, 2006, 215–33.
 - Saidiya Hartman, "Venus in Two Acts." _Small Axe_ 12.2 (2008): 1-14.
 - A recent news item about addressing silences: [UCLA to Establish Archive on Policing and Mass Incarceration in Los Angeles](https://mellon.org/news-blog/articles/ucla-establish-archive-policing-and-mass-incarceration-los-angeles/)
+- Check out [this data-driven digital project](https://enslaved.org/) to fill silences about individuals who were enslaved.
 
 {% include alert.html class='danger' title='Archival Silence' text="
 - Normally we can only speculate about archival silences. In this 'special' assignment (a lot like a weekly reflection but POSTED AS A SEPARATE PAGE on your website), you will consider a silence about which you have intimate knowledge. Look through the photos on your phone (or wherever you keep photos). Drawing from the provocations in the readings, analyze the silences in your own archive. Make it VERY CLEAR you are using the course readings---from both this and previous weeks---to inform your analysis. More details (and advice) are available on the [Archival Silence Assignment Guide](archival-silences).
