@@ -122,11 +122,11 @@ Building on the overlapping themes of power and silences, this week we look at h
 - Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 4, 2015): 677–702. Focus on everything up through p.688; after that, skim the case studies and examples to think about how the theory discussed at the beginning of the article can be and is being put into practice in the real world.
 - Jennifer Guiliano and Carolyn Heitman, “Difficult Heritage and the Complexities of Indigenous Data,” _Journal of Cultural Analytics_ (August 13, 2019).
 
-### Relevant
+#### Relevant but optional
 - Melissa Adler and Lindsey M. Harper, “Race and Ethnicity in Classification Systems: Teaching Knowledge Organization from a Social Justice Perspective”, _Library Trends_ 67.1 (2018): 52–73.
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-- One question that should allow/force you to think about the overlaps and differences between the two readings this week for your [weekly reflection](weekly-reflections): How are the challenges/opportunities related to indigenous data (described in Guiliano and Heitman) the same and different from the general concerns about ontologies and cataloging/classifying (described in Durate and Belarde-Lewis)?
+- One question that should allow/force you to think about the overlaps and differences between the two readings this week for your [weekly reflection](weekly-reflections): How are the challenges/opportunities related to indigenous data (described in Guiliano and Heitman) the same and different from the general concerns about ontologies and cataloging/classifying (described in Duarte and Belarde-Lewis)?
 "%}
 
 
