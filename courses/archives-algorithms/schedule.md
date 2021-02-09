@@ -117,12 +117,16 @@ This week is an extension/elaboration on last week's POWER theme. The Policing a
 
 
 ## Week 5 (Feb 15--19): Classification
-- Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 4, 2015): 677–702.
+Building on the overlapping themes of power and silences, this week we look at how the act of classification (that's been mentioned in almost every article so far) can both create and remove archival silences. We're back to a regular weekly reflection this week.
+
+- Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 4, 2015): 677–702. Focus on everything up through p.688; after that, skim the case studies and examples to think about how the theory discussed at the beginning of the article can be and is being put into practice in the real world.
+- Jennifer Guiliano and Carolyn Heitman, “Difficult Heritage and the Complexities of Indigenous Data,” _Journal of Cultural Analytics_ (August 13, 2019).
+
+### Relevant
 - Melissa Adler and Lindsey M. Harper, “Race and Ethnicity in Classification Systems: Teaching Knowledge Organization from a Social Justice Perspective”, _Library Trends_ 67.1 (2018): 52–73.
-- Jennifer Guiliano and Carolyn Heitman, “Difficult Heritage and the Complexities of Indigenous Data,” _Journal of Cultural Analytics_ (2019).
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-- Just a couple of broad questions that should allow you to riff off a few themes Why care about classification? What's at stake? Your [weekly reflection](weekly-reflections) should draw from all three readings.
+- One question that should allow/force you to think about the overlaps and differences between the two readings this week for your [weekly reflection](weekly-reflections): How are the challenges/opportunities related to indigenous data (described in Guiliano and Heitman) the same and different from the general concerns about ontologies and cataloging/classifying (described in Durate and Belarde-Lewis)?
 "%}
 
 
