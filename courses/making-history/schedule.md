@@ -147,8 +147,8 @@ No video, no quiz, nada. Nothing due for today! Use the time to produce better r
 
 
 ### Wednesday
-- Popkin, Chapter 6: From Objectivity to the "Culture Wars", 133--148.
-- Maza, _Thinking about History_, 178--185 (until the new section starts).
+- Popkin, Chapter 6: From Objectivity to the "Culture Wars", 133--148 (beginning of the chapter up to section titled "Women's History...").
+- Maza, _Thinking about History_, 178--185 (Chapter 5, from section "In Search of Meaning: Microhistory" to "Clifford Geertz...").
 
 {% include alert.html class='danger' title='Reading Summary' text="
 Using both readings, make a bullet point list of what you consider the most important historical changes described in the chapter. These should be in your own words---don't just copy sentences out of the book---and you should have ~8--10 bullet points. Bullet points should be COMPLETE sentences, and you can have more than one sentence in a single bullet to make more complex points. Make sure each bullet is a separate topic.
@@ -156,7 +156,7 @@ Using both readings, make a bullet point list of what you consider the most impo
 
 
 ### Friday
-- Popkin, Chapter 6: From Objectivity to the "Culture Wars", 148--170.
+- Popkin, Chapter 6: From Objectivity to the "Culture Wars", 148--170 (from section titled "Women's History..." to end of chapter).
 
 {% include alert.html class='danger' title='Reading Summary' text="
 Same thing as Wednesday (but for today's assignment, obviously).
@@ -179,7 +179,7 @@ Our next book (though we briefly dabbled in it already) introduces and explains 
 
 
 ### Wednesday
-- Maza, _Thinking about History_, Ch. 1: The History of Whom?, 10--44.
+- Maza, _Thinking about History_, Ch. 1: The History of Whom?, 10--44 (whole chapter).
 
 {% include alert.html class='danger' title='Reading Reflection' text="
 TBA
@@ -187,7 +187,7 @@ TBA
 
 
 ### Friday
-- Maza, _Thinking about History_, Ch. 2: The History of Where?, 45--82.
+- Maza, _Thinking about History_, Ch. 2: The History of Where?, 45--82 (whole chapter).
 
 {% include alert.html class='danger' title='Reading Reflection' text="
 TBA
@@ -231,9 +231,9 @@ Your 1619 Project reflection should be around 800--1000 words and is worth up to
 
 ## Week 7 (March 1--5)
 
-- Sara Maza, _Thinking about History_, Ch. 3: The History of What?, 83--117.
+- Sara Maza, _Thinking about History_, Ch. 3: The History of What?, 83--117 (whole chapter).
 
-- Sara Maza, _Thinking about History_, Ch. 4: How is History Produced?, 118--156.
+- Sara Maza, _Thinking about History_, Ch. 4: How is History Produced?, 118--156 (whole chapter).
 
 
 
