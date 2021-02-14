@@ -166,14 +166,14 @@ Same thing as Wednesday (but for today's assignment, obviously).
 
 
 ## Week 5 (Feb 15--19)
-Our next book (though we briefly dabbled in it already) introduces and explains some critical questions that we should always be asking about every history we encounter. It sort of picks up where Popkin leaves off (with some helpful overlap), and largely focuses on contemporary history writing and what's new about it as opposed to past traditions. We will apply these questions (and historical examples) to analyzing our final book for the course towards the end of the term.
+Our next book (though we briefly dabbled in it already) introduces and explains some critical questions that we should always be asking about every history we encounter. It covers some of the same material as Popkin's final chapters, but in a very different way. Unlike the broad chronological overview Popkin gives us, Maza takes a more thematic approach to analyzing contemporary history writing and what's new about it compared to past traditions. We will apply these questions (and historical examples) to analyzing our final book for the course towards the end of the term. These first two chapters are especially useful for our exercise next week examining how US History should be taught.
 
 
 
 ### Monday
-- Popkin Review and Maza Preview Lecture (video link TBP)
+- Popkin lessons, History as Literature Lecture (video link TBP)
 
-{% include alert.html class='danger' title='Review Lecture Quiz' text="
+{% include alert.html class='danger' title='Lecture Quiz' text="
 - Review/Preview Lecture Quiz (via Learn as always)
 "%}
 
@@ -182,7 +182,7 @@ Our next book (though we briefly dabbled in it already) introduces and explains 
 - Maza, _Thinking about History_, Ch. 1: The History of Whom?, 10--44 (whole chapter).
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-TBA
+WHOM has history been about? How has this changed over time? What shifts do you find most interesting and WHY?
 "%}
 
 
@@ -190,7 +190,7 @@ TBA
 - Maza, _Thinking about History_, Ch. 2: The History of Where?, 45--82 (whole chapter).
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-TBA
+WHERE has history been about? How has this changed over time? What shifts do you find most interesting and WHY?
 "%}
 
 
