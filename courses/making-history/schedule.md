@@ -165,7 +165,7 @@ Same thing as Wednesday (but for today's assignment, obviously).
 
 
 
-## Week 5 (Feb 15--19)
+## Week 5 (Feb 15--19) 
 Our next book (though we briefly dabbled in it already) introduces and explains some critical questions that we should always be asking about every history we encounter. It covers some of the same material as Popkin's final chapters, but in a very different way. Unlike the broad chronological overview Popkin gives us, Maza takes a more thematic approach to analyzing contemporary history writing and what's new about it compared to past traditions. We will apply these questions (and historical examples) to analyzing our final book for the course towards the end of the term. These first two chapters are especially useful for our exercise next week examining how US History should be taught.
 
 
