@@ -133,13 +133,16 @@ Building on the overlapping themes of power and silences, this week we look at h
 
 
 ## Week 6 (Feb 22--26): Interface
+As you are all acutely aware at this point: classification, access, and dissemination go hand in hand in hand (is that a thing?). Mediating all of these, as we've already seen in our week on archival power, are interfaces. The article we read that focused on interfaces (Hesdtrom) discussed them in generic, theoretical terms. I emphasized that we should think about interfaces on multiple levels. This week, we're focusing on digital interfaces to archives and critiquing them according to the readings we've done in the course so far that suggest different ways in which archives shape identity, heritage, and history. How do digital interfaces to archives wield power?
+
 - Jefferson Bailey, [Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives](http://dev.archivejournal.net/?p=4722)
-- Mitchell Whitelaw, [Generous Interfaces for Digital Cultural Collections](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html). For more concrete ideas, skim through more examples [here](https://lab.sciencemuseum.org.uk/exploring-museum-collections-online-some-background-reading-da5a332fa2f8)
+- Mitchell Whitelaw, [Generous Interfaces for Digital Cultural Collections](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html). For more concrete examples of interfaces, skim through [more examples](https://lab.sciencemuseum.org.uk/exploring-museum-collections-online-some-background-reading-da5a332fa2f8)
 
 
 ### Sample Digital Archive/History Projects
-You can critique any of these, but you're also welcome to find something else or use something you already know about. If going off-list,  make sure whatever site you choose allows you to complete the assignment.
- [Civil War Washington](http://civilwardc.org/), [Slave Voyages](http://www.slavevoyages.org/) + [a striking visualization](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html), [Colored Conventions](http://coloredconventions.org/), [Lynching America](https://lynchinginamerica.eji.org/), [Native Land](https://native-land.ca/), [First Days Project](https://www.firstdaysproject.org/), [American Panorama](http://dsl.richmond.edu/panorama/), [Georgetown Slavery Archive](https://slaveryarchive.georgetown.edu/)
+For your assignment this week, you can critique any of these. You're also welcome to find something else or use something you already know about. If going off-list, make sure whatever site you choose is some kind of interface to an archive and allows you to address the questions in the assignment guide.
+
+[Civil War Washington](http://civilwardc.org/), [Slave Voyages](http://www.slavevoyages.org/) + [a striking visualization](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html), [Colored Conventions](http://coloredconventions.org/), [Lynching America](https://lynchinginamerica.eji.org/), [Native Land](https://native-land.ca/), [First Days Project](https://www.firstdaysproject.org/), [American Panorama](http://dsl.richmond.edu/panorama/), [Georgetown Slavery Archive](https://slaveryarchive.georgetown.edu/), [Black Women's Suffrage](https://blackwomenssuffrage.dp.la/)
 
 #### Retro sites (an always incomplete list)
 [Valley of the Shadow](http://valley.lib.virginia.edu/), [Virtual Jamestown](http://www.virtualjamestown.org), [American Social Movements](http://depts.washington.edu/moves/index.shtml), [Blue Ridge Parkway](https://docsouth.unc.edu/blueridgeparkway/)
