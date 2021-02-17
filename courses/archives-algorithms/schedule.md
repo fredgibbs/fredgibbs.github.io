@@ -134,12 +134,16 @@ Building on the overlapping themes of power and silences, this week we look at h
 
 ## Week 6 (Feb 22--26): Interface
 - Jefferson Bailey, [Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives](http://dev.archivejournal.net/?p=4722)
-- Mitchell Whitelaw, [Generous Interfaces for Digital Cultural Collections](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html)
-- Skim through more examples [here](https://lab.sciencemuseum.org.uk/exploring-museum-collections-online-some-background-reading-da5a332fa2f8)
+- Mitchell Whitelaw, [Generous Interfaces for Digital Cultural Collections](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html). For more concrete ideas, skim through more examples [here](https://lab.sciencemuseum.org.uk/exploring-museum-collections-online-some-background-reading-da5a332fa2f8)
 
 
-#### Sample Digital Archive/History Projects
-[Valley of the Shadow](http://valley.lib.virginia.edu/), [Virtual Jamestown](http://www.virtualjamestown.org), [American Social Movements](http://depts.washington.edu/moves/index.shtml), [Civil War Washington](http://civilwardc.org/), [Blue Ridge Parkway](https://docsouth.unc.edu/blueridgeparkway/), [Slave Voyages](http://www.slavevoyages.org/) + [a striking visualization](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html), [Colonial Dispatches](https://bcgenesis.uvic.ca/index.htm), [Colored Conventions](http://coloredconventions.org/), [Lynching America](https://lynchinginamerica.eji.org/), [Mapping Segregation](http://mappingsegregationdc.org), [Native Land](https://native-land.ca/), [First Days Project](https://www.firstdaysproject.org/), [American Yawp](http://www.americanyawp.com/), [American Panorama](http://dsl.richmond.edu/panorama/), [Georgetown Slavery Archive](https://slaveryarchive.georgetown.edu/)
+### Sample Digital Archive/History Projects
+You can critique any of these, but you're also welcome to find something else or use something you already know about. If going off-list,  make sure whatever site you choose allows you to complete the assignment.
+ [Civil War Washington](http://civilwardc.org/), [Slave Voyages](http://www.slavevoyages.org/) + [a striking visualization](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html), [Colored Conventions](http://coloredconventions.org/), [Lynching America](https://lynchinginamerica.eji.org/), [Native Land](https://native-land.ca/), [First Days Project](https://www.firstdaysproject.org/), [American Panorama](http://dsl.richmond.edu/panorama/), [Georgetown Slavery Archive](https://slaveryarchive.georgetown.edu/)
+
+#### Retro sites (an always incomplete list)
+[Valley of the Shadow](http://valley.lib.virginia.edu/), [Virtual Jamestown](http://www.virtualjamestown.org), [American Social Movements](http://depts.washington.edu/moves/index.shtml), [Blue Ridge Parkway](https://docsouth.unc.edu/blueridgeparkway/)
+
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
 - Follow the [Archival Interface Critique Guidelines](archival-interface-critique).
