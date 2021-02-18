@@ -32,8 +32,10 @@ Here are some questions to consider, but you should think about them holisticall
 - What are you NOT seeing? What are the silences?
 - What kind of discovery or interpretation does the interface ENABLE?
 - What kind of discovery or interpretation does the interface RESIST?
-- What would a more generous interface look like?
-- REMEMBER: Incorporate our readings about interfaces and archival power (_yes in fact there was a reason we read all those!_)
+- What would a more generous interface look like? What kinds of concepts from Whitelaw would be useful for your site?
+
+### USE COURSE READINGS
+- REMEMBER: Incorporate our readings about interfaces and archival power---_yes in fact there was a reason we read all those!_ If you comment on the searching and browsing functionality of your site but don't comment on how Whitelaw discusses these, I'll assume you didn't read it. If you don't comment on whether one group is appropriately or not speaking for another group, I'll assume you aren't familiar with those aspects of our readings.
 
 
 ## PRO TIPS
