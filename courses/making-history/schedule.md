@@ -197,9 +197,9 @@ WHERE has history been about? How has this changed over time? What shifts do you
 
 
 ## Week 6 (Feb 22--26)
-Having completed our historiographical survey (Popkin) and started to think about critical historical questions (Maza, and her first two chapters are especially relevant for this week), we can reflect more thoughtfully on our own historiographical moment. How should we conceptualize and write about U.S. History?
+Having completed our historiographical survey (Popkin) and started to think about critical historical questions (Maza, and her first two chapters are especially relevant for this week), we can reflect more thoughtfully on our own historiographical moment. How should we conceptualize and write about U.S. history?
 
-There are NO DAILY ASSIGNMENTS for this week, just one slightly-longer-than-normal reflection essay due on Friday that should demonstrate your familiarity with everything listed below. I have recommended doing work on certain days to space everything out, but you can decide what works for your schedule. HOWEVER, be sure you understand what you need to do for Friday EARLY in the week so that you have time to get everything done.
+There are NO DAILY ASSIGNMENTS for this week (no lecture, no quiz, either), just one longer-than-normal reflection essay due on Friday that should demonstrate your familiarity with everything listed below. I have recommended doing work on certain days to space everything out, but you can decide what works for your schedule. HOWEVER, be sure you understand what you need to do for Friday EARLY in the week so that you have time to get everything done.
 
 
 ### Monday
@@ -215,7 +215,7 @@ The following two responses to the _NYTM_ issue (and reactions to it) are online
 
 
 ### Friday
-After browsing the full issue, reading Hannah-Jones's introduction, and reading through the two different perspectives on how we should view the project, write a 800--1000 word essay to answer the following TWO questions (using roughly half your space for each, but don't sweat it):
+After browsing the full issue, reading Hannah-Jones's introduction, and reading through the two different perspectives on how we should view the project, write a 800-900 word essay to answer the following TWO questions (using roughly half your space for each, but don't sweat the exact ratio):
 - How would you summarize/characterize the pros and cons of what the project is trying to do?
 - What is YOUR view of how this historiographical debate fits into the long history of historiography that we've been reading?
 
@@ -224,19 +224,32 @@ WARNING: Make specific use of ALL READINGS THIS WEEK to inform your response. Do
 {% include alert.html class='danger' title='1619 Project Reflection' text="
 As noted above, two questions:
 - How would you summarize/characterize the pros (advantages) and cons (disadvantages) of what the project is trying to do? You should try to address equally (and objectively) both sides of the debate in your post, regardless of your own feelings about it.
-- What is YOUR view of how this historiographical debate about US history fits into the long history of historiography that we've been studying? There is no right answer, but your opinion should be directly grounded in the readings.
+- What is YOUR view of how this historiographical debate about U.S. history fits into the long history of historiography that we've been studying? There is no right answer, but your opinion should be directly grounded in the readings.
 
-Your 1619 Project reflection (800--1000 words) is worth up to 20 points (not counting extra credit, as usual).
+#### Extra points
+As a heftier weekly reflection, your 1619 Project reflection (800-900 words) is worth up to 30 points (not counting extra credit, as usual).
 "%}
 
 
 
 
-
 ## Week 7 (March 1--5)
+This week we're back to Maza, and in fact finishing up what we're doing with it (the last few chapters aren't quite as useful for us).
 
+
+### Monday
+- 1619 Project Critique Reflection Video (link TBP) and QUIZ.
+This video highlights some of the interesting points made in your essays from last week, and serves as a jumping off point for ideas I hope you'll take away from our readings and critique.
+
+{% include alert.html class='danger' title='Lecture Quiz' text="
+- 1619 Project Critique Lecture Quiz (via Learn as always)
+"%}
+
+
+### Wednesday
 - Sara Maza, _Thinking about History_, Ch. 3: The History of What?, 83--117 (whole chapter).
 
+### Friday
 - Sara Maza, _Thinking about History_, Ch. 4: How is History Produced?, 118--156 (whole chapter).
 
 
