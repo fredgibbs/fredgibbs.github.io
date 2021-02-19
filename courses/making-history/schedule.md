@@ -228,8 +228,8 @@ As noted above, two questions:
 
 ---
 
-#### Extra points
-As a heftier weekly reflection, your 1619 Project reflection (800-900 words) is worth up to 30 points (not counting extra credit, as usual).
+#### More words, more points
+As a heftier weekly reflection, your 1619 Project reflection (800-900 words) is worth up to 30 points (not counting extra credit, as usual). It uses the same grading rubric as the usual weekly reflections.
 "%}
 
 
