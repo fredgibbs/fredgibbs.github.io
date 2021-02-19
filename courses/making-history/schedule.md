@@ -225,6 +225,7 @@ WARNING: Make specific use of ALL READINGS THIS WEEK to inform your response. Do
 As noted above, two questions:
 - How would you summarize/characterize the pros (advantages) and cons (disadvantages) of what the project is trying to do? You should try to address equally (and objectively) both sides of the debate in your post, regardless of your own feelings about it.
 - What is YOUR view of how this historiographical debate about U.S. history fits into the long history of historiography that we've been studying? There is no right answer, but your opinion should be directly grounded in the readings.
+
 ---
 
 #### Extra points
