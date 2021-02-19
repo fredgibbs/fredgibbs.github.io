@@ -18,16 +18,16 @@ section: links-guides
 - Reflect critically on what you're doing using course readings. This is not optional---the point of the readings is that you can use them!
 
 ## Critique
-Like any critique or review, you should:
+Like any critique or review, you should briefly explain what the interface ACTUALLY DOES:
 - Provide the BRIEFEST POSSIBLE summary of the main features / functionality of archival access
 - How accessible does the site make the sources?
 - How easy is it to learn more about the sources AND their CONTEXT?
 - Briefly note aspects that work well and existing aspects that could use some tweaks (and in both cases, WHY!)
 
 ### What's behind the curtain?
-In addition to the basic questions above, you want to spend most of your words on an in-depth critique of the site that tries to understand and make clear for your reader what's maybe not apparent from the interface itself. This is where you really get to show off what you've learned from the readings.
+After addressing the basic questions above, you should spend MOST OF YOUR WORDS on an in-depth critique of the site that tries to understand and make clear for your reader what's maybe not apparent from the interface itself. This is where you really get to show off what you've learned from the readings.
 
-Here are some questions to consider, but you should think about them holistically as you formulate and draft your critique. You may find it easier to just write your own essay than step through the questions. Either way is fine as long as you're offering an insightful critique grounded in the readings.
+Here are some questions to consider, but you should think about them holistically as you formulate and draft your critique. You may find it easier to just write your own essay than to step through the questions. Either way is fine as long as you're offering an insightful critique grounded in the readings.
 - Do you get a sense what archival material exists and what doesn't?
 - What are you NOT seeing? What are the silences?
 - What kind of discovery or interpretation does the interface ENABLE?
@@ -35,7 +35,7 @@ Here are some questions to consider, but you should think about them holisticall
 - What would a more generous interface look like? What kinds of concepts from Whitelaw would be useful for your site?
 
 ### USE COURSE READINGS
-- REMEMBER: Incorporate our readings about interfaces and archival power---_yes in fact there was a reason we read all those!_ If you comment on the searching and browsing functionality of your site but don't comment on how Whitelaw discusses these, I'll assume you didn't read it. If you don't comment on whether one group is appropriately or not speaking for another group, I'll assume you aren't familiar with those aspects of our readings.
+- REMEMBER: Incorporate relevant readings from the last month---_yes in fact there was a reason we read all those!_ If you comment on the searching and browsing functionality of your site but don't comment on how Whitelaw discusses these, I'll assume you didn't read it. If you don't comment on whether one group is appropriately or not speaking for another group, I'll assume you aren't familiar with those aspects of our readings.
 
 
 ## PRO TIPS
