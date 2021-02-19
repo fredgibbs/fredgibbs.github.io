@@ -41,7 +41,7 @@ Here are some questions to consider, but you should think about them holisticall
 - The whole point here is to APPLY the readings so far. All the theory we've discussed is well and good, but it only matters to the extent it can be put into practice. Critique is an ideal way to do that.  
 
 ## PRO TIPS
-- The assignment is not JUST to DO A critique (which you could have done before the course started), but to write an INFORMED critique BASED ON THE READINGS and LECTURES and what they say about archival power, selection, context, visibility, silence, organization, interfaces and so on.
+- The assignment is not JUST to DO A critique (which you could have done before the course started), but to write an INFORMED critique BASED ON THE READINGS and LECTURES and what they say about archival power, selection, context, visibility, silence, organization, interfaces and so on. Keep these broad themes central in your mind, not font size and color palettes. 
 - The point of the critique is to SHOW HOW the interface acts as a source of archival power. We've read enough already to know it DOES act as a source of power, so you're not trying to make that point. That's our STARTING point.
 - Avoid writing a 'process narrative'---that is, a description of "First I clicked this, then I clicked that, but it didn't work, so I clicked something else." **Nobody cares what you clicked on**.
 - Make sure your comments are not just pure description but a commentary or critique with some description attached to it.
