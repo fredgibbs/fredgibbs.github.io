@@ -251,11 +251,20 @@ This video highlights some of the interesting points made in your essays from la
 ### Wednesday
 - Sara Maza, _Thinking about History_, Ch. 3: The History of What?, 83--117 (whole chapter).
 
+{% include alert.html class='danger' title='Reading Reflection' text="
+As Maza explains, history has traditionally been about people, but more recently it's been about a lot of other stuff.  Two questions:
+- What kinds of things have historians started to study and what did they think they could tell us that "traditional" histories could not? BRIEFLY, which examples did you think were most interesting?
+- Use the last few chapters of Popkin in addition to this Chapter to explain how interests in some of the new things that you mentioned in part 1 came to be. How were they part of broader historiographical change?
+"%}
+
 ### Friday
 - Sara Maza, _Thinking about History_, Ch. 4: How is History Produced?, 118--156 (whole chapter).
 
-
-
+{% include alert.html class='danger' title='Reading Reflection' text="
+- What are the key similarities between academic and popular/public history? What are the key differences?
+- Explain how heritage is history's opposite. Explain how it isn't.
+- Joining the last two sections: How are archives transformed into history? How can very different historical interpretations come from the same sources?
+"%}
 
 ## Week 8 (Mar 8--12)
 TBA
