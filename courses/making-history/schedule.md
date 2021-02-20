@@ -7,7 +7,7 @@ term: Spring 2021
 section: home
 ---
 
-# HIST 1105: Readings & Assignments 
+# HIST 1105: Readings & Assignments
 
 
 ### Submitting work
@@ -253,7 +253,7 @@ This video highlights some of the interesting points made in your essays from la
 
 {% include alert.html class='danger' title='Reading Reflection' text="
 As Maza explains, history has traditionally been about people, but more recently it's been about a lot of other stuff.  Two questions:
-- What kinds of things have historians started to study and what did they think they could tell us that "traditional" histories could not? BRIEFLY, which examples did you think were most interesting?
+- What kinds of things have historians started to study and what did they think they could tell us that \"traditional\" histories could not? BRIEFLY, which examples did you think were most interesting?
 - Use the last few chapters of Popkin in addition to this Chapter to explain how interests in some of the new things that you mentioned in part 1 came to be. How were they part of broader historiographical change?
 "%}
 
