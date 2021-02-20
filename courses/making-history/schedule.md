@@ -199,7 +199,7 @@ WHERE has history been about? How has this changed over time? What shifts do you
 ## Week 6 (Feb 22--26)
 Having completed our historiographical survey (Popkin) and started to think about critical historical questions (Maza, and her first two chapters are especially relevant for this week), we can reflect more thoughtfully on our own historiographical moment. How should we conceptualize and write about U.S. history?
 
-There are NO DAILY ASSIGNMENTS for this week (no lecture, no quiz, either), just one longer-than-normal reflection essay due on Friday that should demonstrate your familiarity with everything listed below. I have recommended doing work on certain days to space everything out, but you can decide what works for your schedule. HOWEVER, be sure you understand what you need to do for Friday EARLY in the week so that you have time to get everything done.
+There are NO DAILY ASSIGNMENTS for this week, just one longer-than-normal reflection essay due on Friday that should demonstrate your familiarity with everything listed below. I have recommended doing work on certain days to space everything out, but you can decide what works for your schedule. HOWEVER, be sure you understand what you need to do for Friday EARLY in the week so that you have time to get everything done.
 
 
 ### Monday
