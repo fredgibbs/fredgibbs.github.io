@@ -7,7 +7,7 @@ term: Spring 2021
 section: home
 ---
 
-# HIST 1105: Readings & Assignments
+# HIST 1105: Readings & Assignments 
 
 
 ### Submitting work
