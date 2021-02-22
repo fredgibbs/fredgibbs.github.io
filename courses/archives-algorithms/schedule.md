@@ -143,7 +143,7 @@ As you are all acutely aware at this point: classification, access, and dissemin
 ### Sample Digital Archive/History Projects
 For your assignment this week, you can critique any of these. You're also welcome to find something else or use something you already know about. If going off-list, make sure whatever site you choose is some kind of interface to an archive and allows you to address the questions in the assignment guide.
 
-[Civil War Washington](http://civilwardc.org/), [Slave Voyages](http://www.slavevoyages.org/) + [a striking visualization](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html), [Colored Conventions](http://coloredconventions.org/), [Lynching America](https://lynchinginamerica.eji.org/), [Native Land](https://native-land.ca/), [First Days Project](https://www.firstdaysproject.org/), [American Panorama](http://dsl.richmond.edu/panorama/), [Georgetown Slavery Archive](https://slaveryarchive.georgetown.edu/), [Black Women's Suffrage](https://blackwomenssuffrage.dp.la/), [Design Reviewed](https://designreviewed.com/), [Australian Prints + Printmaking](http://www.printsandprintmaking.gov.au/explore/)
+[Civil War Washington](http://civilwardc.org/), [Slave Voyages](http://www.slavevoyages.org/) + [a striking visualization](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html), [Colored Conventions](http://coloredconventions.org/), [Lynching America](https://lynchinginamerica.eji.org/), [Native Land](https://native-land.ca/), [First Days Project](https://www.firstdaysproject.org/), [American Panorama](http://dsl.richmond.edu/panorama/), [Georgetown Slavery Archive](https://slaveryarchive.georgetown.edu/), [The Early Caribbean Digital Archive](https://ecda.northeastern.edu/), [Black Women's Suffrage](https://blackwomenssuffrage.dp.la/), [Design Reviewed](https://designreviewed.com/), [Australian Prints + Printmaking](http://www.printsandprintmaking.gov.au/explore/), [South Asian American Digital Archive](https://www.saada.org/), [DTA](https://www.decolonisingthearchive.com/)
 
 #### Retro sites (an always incomplete list)
 [Valley of the Shadow](http://valley.lib.virginia.edu/), [Virtual Jamestown](http://www.virtualjamestown.org), [American Social Movements](http://depts.washington.edu/moves/index.shtml), [Blue Ridge Parkway](https://docsouth.unc.edu/blueridgeparkway/)
@@ -154,31 +154,32 @@ For your assignment this week, you can critique any of these. You're also welcom
 "%}
 
 
-## Week 7 (March 1--5): Decolonizing
--  J. J. Ghaddar and Michelle Caswell, ‘“To Go beyond”: Towards a Decolonial Archival Praxis’, Archival Science, 19.2 (2019), 71–85.
-- María Cotera, “Nuestra Autohistoria: Toward a Chicana Digital Praxis,” _American Quarterly_ 70.3 (2018): 483–504.
-- Siobhan Senier, “Decolonizing the Archive: Digitizing Native Literature with Students and Tribal Communities.” _Resilience: A Journal of the Environmental Humanities_, 1.3 (2014).
-
-- [Chicana por mi Raza](http://www.chicanapormiraza.org/)
-- [Chicano/a Activism in the Southern Plains Interactive Map and Timeline](https://plainsmovement.com/neatline/show/interactive-map-and-timeline)
-- [Reclaiming the Lesbian Archives](https://academic.oup.com/ohr/article/43/1/170/1752485)
-- Joel Zapata, “Taking Chicana/o Activist History to the Public: Chicana/o Activism in the Southern Plains through Time and Space,” _Great Plains Quarterly_ 38.4 (2018): 407--24.
-
-### Decolonizing Projects
-- [The Early Caribbean Digital Archive](https://ecda.northeastern.edu/)
-- [DTA](https://www.decolonisingthearchive.com/)
-
-
-
-## Week 8 (Mar 8--12): Community
+## Week 7 (March 1--5): Decolonial, post-custodial, community archives
+- Andrew Flinn, Mary Stevens, and Elizabeth Shepherd, "Whose Memories, Whose Archives? Independent Community Archives, Autonomy and the Mainstream", _Archival Science_, 9 (2009):71--86.
+  - An older article that gives a good sense of the history of community archives and why they emerged, and the problems with simply knowing about them (one of the downsides of not being a mainstream archive). Also an interesting discussion about the relationship between identity and archives. There are many skimmable details related to specific projects (at least for our purposes), but overall is a very nice overview.
+- Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” _The Public Historian_ 36.4 (2014): 26--37.
+  - A case study of sorts, but with some useful theory and reflection about how community archives intersect with many of the issues we've been reading about.
 - Jimmy Zavala et al., “‘A Process Where We’re All at the Table’: Community Archives Challenging Dominant Modes of Archival Practice”, _Archives and Manuscripts_ 45, no. 3 (2017): 202--15.
-- Laura Sydell, [3D Scans Help Preserve History, But Who Should Own Them?](https://www.npr.org/sections/alltechconsidered/2018/05/21/609084578/3d-scans-help-preserve-history-but-who-should-own-them)
-- SKIM: Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” _The Public Historian_ 36, no. 4 (2014): 26--37.
+  - Sort of like a roundtable of case studies, but that highlights many practical issues with founding, energizing, and sustaining community archives.
 
-- SKIM: Sofía Becerra-Licha, [Participatory and Post-Custodial Archives as Community Practice](https://er.educause.edu/articles/2017/10/participatory-and-post-custodial-archives-as-community-practice)
+### Relevant (but optional)
+- Siobhan Senier, “Decolonizing the Archive: Digitizing Native Literature with Students and Tribal Communities.” _Resilience: A Journal of the Environmental Humanities_, 1.3 (2014).
+- María Cotera, “Nuestra Autohistoria: Toward a Chicana Digital Praxis,” _American Quarterly_ 70.3 (2018): 483–504.
+-  J. J. Ghaddar and Michelle Caswell, "'To Go beyond': Towards a Decolonial Archival Praxis", _Archival Science_, 19.2 (2019), 71--85. But it really goes just to the top of 81.
+
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-- For your final, pre-break [weekly reflection](weekly-reflections), outline what YOU see as the most important issues facing community archives? Does the history of the archive give us any insight into how to cultivate community archives?
+- For your [weekly reflection](weekly-reflections) this week, outline what YOU see as the biggest advantages and disadvantages of community archives? Does the long history of the archive(s) in general (mostly not addressed in the articles for this week) give us any insight into how to or how not to cultivate community archives?
+"%}
+
+
+## Week 8 (Mar 8--12): Reflecting on Archives
+No new readings this week. One last pre-break reflection (although about 2x the usual length since we're thinking about ALL the weeks) to wrap up our archival side of the course.
+
+We learned a fair amount about the history of archives, archivists, relationships between historians and archives/archivists, archival power, silences, interfaces, etc. But what if the point has never been to learn about archives per se, but about how to think critically about knowledge infrastructures---how we learn anything about the world, whether through favorite podcasts, network news, Facebook, online news outlets, Twitter, whatever. I contend, for the purposes of debate, that everything we read about in terms of archives applies to basically every source of information. The same kinds of biases creep in, the same kinds of silences, the same limitations and exploratory possibilities of interfaces (and algorithms, not to get ahead of ourselves). What do you think?
+
+{% include alert.html class='danger' title='1/2 Semester Reflection' text="
+- For your [weekly reflection](weekly-reflections) this week (~1400 words), outline what from the lectures, readings, and responses thus far will stick with you OUTSIDE THE CONTEXT OF ARCHIVES. To what extent to you agree with my claim that the issues we've been reading about make sense outside of archives? How is it mostly true? How is it misguided?
 "%}
 
 
@@ -193,6 +194,7 @@ For your assignment this week, you can critique any of these. You're also welcom
 
 ### Transcription options
 - [Colored Conventions](http://coloredconventions.org/transcribe-minutes)
+- [DIY History](http://diyhistory.lib.uiowa.edu/)
 - [Transcribe Bentham](http://blogs.ucl.ac.uk/transcribe-bentham/)
 - [Information Wanted](http://informationwanted.org/): Contribute to the construction of a searchable digital database of advertisements printed by former enslaved people searching for their loved ones.
 - [What’s on the Menu?](http://menus.nypl.org/): Contribute to food history research with over 17,000 menus from the past 170 years. Currently they need help reviewing submitted transcriptions.
@@ -236,11 +238,11 @@ For your assignment this week, you can critique any of these. You're also welcom
 - No new readings this week. You will write one longer journal entry on analyzing your own course archive in terms of those that other students produced. More details as we get closer. This will serve as a final for the course and will be due the end of finals week.
 
 {% include alert.html class='danger' title='Course Archive Comparison' text="
-- Instruction guide coming soon."
-%}
+- Instruction guide coming soon.
+"%}
 
 ## Week 16: May  3--7
-- No new readings this week. You will write one reflection on understanding algorithms through archive. More details as we get closer.
+- No new readings this week. You will write one reflection on understanding algorithms through archives. More details as we get closer.
 
 {% include alert.html class='danger' title='From Archives to Algorithms' text="
 - Instruction guide coming soon.
