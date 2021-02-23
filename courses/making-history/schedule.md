@@ -266,8 +266,26 @@ As Maza explains, history has traditionally been about people, but more recently
 - Joining the last two sections: How are archives transformed into history? How can very different historical interpretations come from the same sources?
 "%}
 
+
 ## Week 8 (Mar 8--12)
-TBA
+As a few weeks ago, nothing due until Friday as we're winding down for break.
+
+### Early in the week
+- SKIM MAZA chapters 5 and 6. We've already read a chunk of 5, and 6 overlaps with Popkin (so there's not a lot that's new), but it is explained a bit differently. Again, the overlap will help you better see what historiographic changes brought up in Popkin are most important. You should read to get familiar with her main points and examples rather than absorb all the details.
+
+There is no quiz or reflection on just these chapters, but there is one last reflection on the whole Maza book to close out this half of the term.
+
+### Friday
+{% include alert.html class='danger' title='Reading Reflection' text="
+- This is a double reflection: 600 words, worth 20 pts.
+- How did Maza's approach (using thematic questions) to survey recent historiographical changes help you learn more about historiography than you could via Popkin? GIVE EXAMPLES!
+- How was this approach more limiting and/or confusing than Popkin's survey? GIVE EXAMPLES!
+"%}
+
+Be sure you are providing SPECIFIC examples in addition to generic statements. To say "Maza is useful because it's organized by question" is basically saying to me that you have no idea what's in the book.
+
+Remember, it's a REFLECTION, not a summary. Any brief summary should be in the service of providing examples and illustrating your informed opinion on the questions. I'm looking for your familiarity with the Maza book as a whole; there is a not a list of stuff you're supposed to mention.
+
 
 
 
