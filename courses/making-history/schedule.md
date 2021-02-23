@@ -223,13 +223,13 @@ WARNING: Make specific use of ALL READINGS THIS WEEK to inform your response. Do
 
 {% include alert.html class='danger' title='1619 Project Reflection' text="
 As noted above, two questions:
-- How would you summarize/characterize the pros (advantages) and cons (disadvantages) of what the project is trying to do? You should try to address equally (and objectively) both sides of the debate in your post, regardless of your own feelings about it.
-- What is YOUR view of how this historiographical debate about U.S. history fits into the long history of historiography that we've been studying? There is no right answer, but your opinion should be directly grounded in the readings.
+- How would you summarize/characterize the pros (advantages) and cons (disadvantages) of what the 1619 Project is trying to do? You should try to address equally (and objectively) both sides of the debate in your post, regardless of your own feelings about it. USE ALL THE READINGS!
+- What is YOUR view of how this historiographical debate about U.S. history (and how we should tell it) fits into the long history of historiography that we've been studying? There is no right answer, but your opinion should be directly grounded in the readings. Citations are a good way of visualizing how well you're doing that.
 
 ---
 
 #### More words, more points
-As a heftier weekly reflection, your 1619 Project reflection (800-900 words) is worth up to 30 points (not counting extra credit, as usual). It uses the same grading rubric as the usual weekly reflections.
+As a heftier weekly reflection, your 1619 Project reflection (800-900 words) is worth up to 30 points (not counting extra credit, as usual). It uses the same grading rubric as the usual weekly reflections. Be aware that the challenge is NOT simply to fill up the space but to provide thoughtful answers to the questions BASED ON THE READINGS.
 "%}
 
 
