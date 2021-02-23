@@ -169,7 +169,7 @@ For your assignment this week, you can critique any of these. You're also welcom
 
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-- For your [weekly reflection](weekly-reflections) this week, outline what YOU see as the biggest advantages and disadvantages of community archives? Does the long history of the archive(s) in general (mostly not addressed in the articles for this week) give us any insight into how to or how not to cultivate community archives?
+- For your [weekly reflection](weekly-reflections) this week, outline what YOU see as the biggest advantages and disadvantages of community archives? Does the long history of the archive(s) in general (mostly not addressed in the articles for this week) give us any insight into how to or how not to cultivate community archives? Do they solve more problems than they create?
 "%}
 
 
@@ -179,7 +179,7 @@ No new readings this week. One last pre-break reflection (although about 2x the 
 We learned a fair amount about the history of archives, archivists, relationships between historians and archives/archivists, archival power, silences, interfaces, etc. But what if the point has never been to learn about archives per se, but about how to think critically about knowledge infrastructures---how we learn anything about the world, whether through favorite podcasts, network news, Facebook, online news outlets, Twitter, whatever. I contend, for the purposes of debate, that everything we read about in terms of archives applies to basically every source of information. The same kinds of biases creep in, the same kinds of silences, the same limitations and exploratory possibilities of interfaces (and algorithms, not to get ahead of ourselves). What do you think?
 
 {% include alert.html class='danger' title='1/2 Semester Reflection' text="
-- For your [weekly reflection](weekly-reflections) this week (~1400 words), outline what from the lectures, readings, and responses thus far will stick with you OUTSIDE THE CONTEXT OF ARCHIVES. To what extent to you agree with my claim that the issues we've been reading about make sense outside of archives? How is it mostly true? How is it misguided?
+- For your [weekly reflection](weekly-reflections) this week (but extended ~1400 words), outline what from the lectures, readings, and responses thus far will stick with you OUTSIDE THE CONTEXT OF ARCHIVES. To what extent to you agree with my claim that the issues we've been reading about make sense outside of archives? How is it mostly true? How is it misguided?
 "%}
 
 
