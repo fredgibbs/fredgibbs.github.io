@@ -236,7 +236,7 @@ As a heftier weekly reflection, your 1619 Project reflection (800-900 words) is 
 
 
 ## Week 7 (March 1--5)
-This week we're back to Maza, and in fact finishing up what we're doing with it (the last few chapters aren't quite as useful for us).
+This week we're back to Maza, and in fact mostly finishing with it. We're reading chapters 3 and 4 carefully this week, but just skimming 5 and 6 next week.
 
 
 ### Monday
@@ -252,9 +252,9 @@ This video highlights some of the interesting points made in your essays from la
 - Sara Maza, _Thinking about History_, Ch. 3: The History of What?, 83--117 (whole chapter).
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-As Maza explains, history has traditionally been about people, but more recently it's been about a lot of other stuff.  Two questions:
+As Maza explains early in the chapter, history has traditionally been about people, but more recently it's been about a lot of other stuff.  Two questions:
 - What kinds of things have historians started to study and what did they think they could tell us that \"traditional\" histories could not? BRIEFLY, which examples did you think were most interesting?
-- Use the last few chapters of Popkin in addition to this Chapter to explain how interests in some of the new things that you mentioned in part 1 came to be. How were they part of broader historiographical change?
+- Use the last few chapters of Popkin in addition to Maza's Chapter 3 to explain how interests in some of the things that you mentioned in part 1 came to be. How were they part of broader historiographical change?
 "%}
 
 ### Friday
@@ -262,13 +262,14 @@ As Maza explains, history has traditionally been about people, but more recently
 
 {% include alert.html class='danger' title='Reading Reflection' text="
 - What are the key similarities between academic and popular/public history? What are the key differences?
-- Explain how heritage is history's opposite. Explain how it isn't.
-- Joining the last two sections: How are archives transformed into history? How can very different historical interpretations come from the same sources?
+- Explain how (according to David Lowenthal [p.131]) \"heritage is history's opposite\". Explain how it isn't.
+- Joining the last two sections of the chapter: How are archives transformed into history? How can very different historical interpretations come from the same sources?
 "%}
 
 
 ## Week 8 (Mar 8--12)
-As a few weeks ago, nothing due until Friday as we're winding down for break.
+We're finishing Maza this week, but there are no individual chapter reflections as we've done previously. As a few weeks ago, NOTHING DUE UNTIL FRIDAY as we're winding down for break. Because your assignment this week is to reflect over Maza as a whole, it's important to be familiar with the final two chapters (5 and 6), but we don't need to read for the same level of detail.
+
 
 ### Early in the week
 - SKIM MAZA chapters 5 and 6. We've already read a chunk of 5, and 6 overlaps with Popkin (so there's not a lot that's new), but it is explained a bit differently. Again, the overlap will help you better see what historiographic changes brought up in Popkin are most important. You should read to get familiar with her main points and examples rather than absorb all the details.
@@ -277,15 +278,14 @@ There is no quiz or reflection on just these chapters, but there is one last ref
 
 ### Friday
 {% include alert.html class='danger' title='Reading Reflection' text="
-- This is a double reflection: 600 words, worth 20 pts.
-- How did Maza's approach (using thematic questions) to survey recent historiographical changes help you learn more about historiography than you could via Popkin? GIVE EXAMPLES!
+- This is a double (in length and points) reflection: 600 words, worth 20 pts.
+- How did Maza's approach (using thematic questions) to survey recent historiographical changes help you learn more about historiography than you could/did via Popkin? GIVE EXAMPLES!
 - How was this approach more limiting and/or confusing than Popkin's survey? GIVE EXAMPLES!
 "%}
 
 Be sure you are providing SPECIFIC examples in addition to generic statements. To say "Maza is useful because it's organized by question" is basically saying to me that you have no idea what's in the book.
 
 Remember, it's a REFLECTION, not a summary. Any brief summary should be in the service of providing examples and illustrating your informed opinion on the questions. I'm looking for your familiarity with the Maza book as a whole; there is a not a list of stuff you're supposed to mention.
-
 
 
 
