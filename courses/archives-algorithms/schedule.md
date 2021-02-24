@@ -180,6 +180,7 @@ We learned a fair amount about the history of archives, archivists, relationship
 
 {% include alert.html class='danger' title='1/2 Semester Reflection' text="
 - For your [weekly reflection](weekly-reflections) this week (but extended ~1400 words), outline what from the lectures, readings, and responses thus far will stick with you OUTSIDE THE CONTEXT OF ARCHIVES. To what extent to you agree with my claim that the issues we've been reading about make sense outside of archives? How is it mostly true? How is it misguided?
+- ALSO: Please conclude with AT LEAST TWO QUESTIONS about the first half of the course. Are there ideas or concepts that weren't adequately explained? Is there something you're still confused about?  Is there something you want to know more about? These questions will be the basis for our warm-up lecture AFTER BREAK.
 "%}
 
 
