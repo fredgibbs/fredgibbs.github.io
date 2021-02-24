@@ -281,6 +281,7 @@ There is no quiz or reflection on just these chapters, but there is one last ref
 - This is a double (in length and points) reflection: 600 words, worth 20 pts.
 - How did Maza's approach (using thematic questions) to survey recent historiographical changes help you learn more about historiography than you could/did via Popkin? GIVE EXAMPLES!
 - How was this approach more limiting and/or confusing than Popkin's survey? GIVE EXAMPLES!
+- Ask AT LEAST TWO QUESTIONS about the first half of the course. Is there something you're still confused about? Did you think the books contradicted each other on certain points? Is there something you want to know more about? These questions will be the basis for our warm-up lecture AFTER BREAK.
 "%}
 
 Be sure you are providing SPECIFIC examples in addition to generic statements. To say "Maza is useful because it's organized by question" is basically saying to me that you have no idea what's in the book.
