@@ -299,18 +299,21 @@ Enjoy the break! And start reading _Seven Cheap Things_ to make life easier over
 ## Week 10 (Mar 22--26):  Monuments and Architecture
 
 {% include alert.html class='warning' title='Reading reflection' text="
-There are no daily assignments for this week, just one reflection essay due on Friday--be sure to address BOTH readings.
+There are no daily assignments for this week, just one reflection essay due on Friday. After reading Monteiro and her argument for the power of architecture and monuments to promote white supremacism, read through the Essays about Confederate monuments in the Civil War Monitor and whether they should be left in place or removed. 
 "%}
-
-- Paul A. Shackel, “Public Memory and the Search for Power in American Historical Archaeology,” _American Anthropologist_ 103, no. 3 (2001): 655–70.
 
 - Lyra D. Monteiro, [Power Structures: White Columns, White Marble, White Supremacy](https://intersectionist.medium.com/american-power-structures-white-columns-white-marble-white-supremacy-d43aa091b5f9),” _Medium_, November 1, 2020.
 
+- Selections from the _Civil War Monitor_ (in Zotero) on preserving Confederate monuments. The first and last essays are interesting but less on this debate specifically, so I would skim them quickly.
+
 {% include alert.html class='danger' title='Architecture and Monuments' text="
-TBA
+
+A two-part reflection for this week as we ramp up again.
+
+1) Monteiro uses many specific examples to support her argument---no surprise to you that I would like that at this point, right? But do you see as the most important points that she makes about architecture and monuments and white supremacy?
+
+2) The _Civil War Monitor_ pieces are quite short and obviously can't do what Monteiro does in much more space. How useful is it to have several short essays with different points of view compared to a longer form article with a singular argument? Each form has its advantages and disadvantages, obviously, but which did you find more beneficial? Which changed your understanding or thinking the most? Why?
 "%}
-
-
 
 
 
