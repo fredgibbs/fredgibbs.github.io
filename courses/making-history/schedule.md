@@ -236,10 +236,10 @@ As a heftier weekly reflection, your 1619 Project reflection (800-900 words) is 
 
 
 ## Week 7 (March 1--5)
-This week we're back to Maza, and in fact mostly finishing with it. We're reading chapters 3 and 4 carefully this week, but just skimming 5 and 6 next week.
+This week we're back to Maza, and in fact mostly finishing with it. We're reading chapters 3 and 4 carefully this week, but just skimming 5 and 6 next week. Because everything starts to get a little crazy this time of the semester, don't fret about the specific recommended due dates this week---just BE SURE TO GET EVERYTHING IN BY FRIDAY (or Saturday if you're hopelessly behind, as I seem to be this semester). There is a video wrap-up (and quiz) on the 1619 Project critiques, but it doesn't really need to (and won't) address the Maza chapters, so you can treat them independently.
 
 
-### Monday
+### Tuesday-ish
 - 1619 Project Critique Reflection Video (link TBP) and QUIZ.
 This video highlights some of the interesting points made in your essays from last week, and serves as a jumping off point for ideas I hope you'll take away from our readings and critique.
 
@@ -248,7 +248,7 @@ This video highlights some of the interesting points made in your essays from la
 "%}
 
 
-### Wednesday
+### Wednesday-ish
 - Sara Maza, _Thinking about History_, Ch. 3: The History of What?, 83--117 (whole chapter).
 
 {% include alert.html class='danger' title='Reading Reflection' text="
@@ -257,7 +257,7 @@ As Maza explains early in the chapter, history has traditionally been about peop
 - Use the last few chapters of Popkin in addition to Maza's Chapter 3 to explain how interests in some of the things that you mentioned in part 1 came to be. How were they part of broader historiographical change?
 "%}
 
-### Friday
+### Friday-ish
 - Sara Maza, _Thinking about History_, Ch. 4: How is History Produced?, 118--156 (whole chapter).
 
 {% include alert.html class='danger' title='Reading Reflection' text="
@@ -299,7 +299,7 @@ Enjoy the break! And start reading _Seven Cheap Things_ to make life easier over
 ## Week 10 (Mar 22--26):  Monuments and Architecture
 
 {% include alert.html class='warning' title='Reading reflection' text="
-There are no daily assignments for this week, just one reflection essay due on Friday. After reading Monteiro and her argument for the power of architecture and monuments to promote white supremacism, read through the Essays about Confederate monuments in the Civil War Monitor and whether they should be left in place or removed. 
+There are no daily assignments for this week, just one reflection essay due on Friday. After reading Monteiro and her argument for the power of architecture and monuments to promote white supremacism, read through the Essays about Confederate monuments in the Civil War Monitor and whether they should be left in place or removed.
 "%}
 
 - Lyra D. Monteiro, [Power Structures: White Columns, White Marble, White Supremacy](https://intersectionist.medium.com/american-power-structures-white-columns-white-marble-white-supremacy-d43aa091b5f9),” _Medium_, November 1, 2020.
