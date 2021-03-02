@@ -240,7 +240,7 @@ This week we're back to Maza, and in fact mostly finishing with it. We're readin
 
 
 ### Tuesday-ish
-- 1619 Project Critique Reflection Video (link TBP) and QUIZ.
+- 1619 Project Critique [Commentary Video](https://youtu.be/KM-_68hAlIo) and QUIZ.
 This video highlights some of the interesting points made in your essays from last week, and serves as a jumping off point for ideas I hope you'll take away from our readings and critique.
 
 {% include alert.html class='danger' title='Lecture Quiz' text="
