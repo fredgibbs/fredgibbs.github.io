@@ -187,11 +187,15 @@ Two questions to keep in mind this week, and that you'll write about in your ref
 ## Week 8 (Mar 8--12): Reflecting on Archives
 No new readings this week. One last pre-break reflection (although about 2x the usual length since we're thinking about ALL the weeks) to wrap up our archival side of the course.
 
-We learned a fair amount about the history of archives, archivists, relationships between historians and archives/archivists, archival power, silences, interfaces, etc. But what if the point has never been to learn about archives per se, but about how to think critically about knowledge infrastructures---how we learn anything about the world, whether through favorite podcasts, network news, Facebook, online news outlets, Twitter, whatever. I contend, for the purposes of debate, that everything we read about in terms of archives applies to basically every source of information. The same kinds of biases creep in, the same kinds of silences, the same limitations and exploratory possibilities of interfaces (and algorithms, not to get ahead of ourselves). What do you think?
+We learned a fair amount about the history of archives, archivists, relationships between historians and archives/archivists, archival power, silences, interfaces, etc. But what if the point has never been to learn about archives per se, but about how to think critically about knowledge infrastructures---how we learn anything about the world, whether through favorite podcasts, network news, Facebook, online news outlets, Twitter, whatever.
+
+I contend, for the purposes of debate, that everything we read about in terms of archives applies to basically every source of information. The same kinds of biases creep in, the same kinds of silences, the same limitations and exploratory possibilities of interfaces (and algorithms, not to get ahead of ourselves). What do you think?
+
+In lieu of another awkward video, I've written up a few thoughts on this and my hopes for what the course has been able to do so far in [my own midterm reflection and hopes](midterm-hopes). I hope it will be useful for you in your reflection this week.
 
 {% include alert.html class='danger' title='1/2 Semester Reflection' text="
 - For your [weekly reflection](weekly-reflections) this week (but extended ~1400 words), outline what from the lectures, readings, and responses thus far will stick with you OUTSIDE THE CONTEXT OF ARCHIVES. To what extent to you agree with my claim that the issues we've been reading about make sense outside of archives? How is it mostly true? How is it misguided?
-- ALSO: Please conclude with AT LEAST TWO QUESTIONS about the first half of the course. Are there ideas or concepts that weren't adequately explained? Is there something you're still confused about?  Is there something you want to know more about? These questions will be the basis for our warm-up lecture AFTER BREAK.
+- ALSO: Please conclude with AT LEAST TWO QUESTIONS about the first half of the course. Are there ideas or concepts that weren't adequately explained? Is there something you're still confused about? Is there something you want to know more about? These questions will be the basis for our welcome back lecture AFTER BREAK.
 "%}
 
 
