@@ -53,22 +53,14 @@ I may have mentioned this once or twice in the course already. Specificity and c
 ### Think holistically
 The more you can tie themes together and speak about the course as a whole (while giving specific examples from the readings---yes, I'm going to keep repeating it), the higher your score will be. Essays that speak very generally about one topic after the other in the order of the syllabus will make a case that you haven't really made any connections. Almost every single reading can be related to at least a handful of others on the syllabus. Many of you have been doing this in your posts of late---keep it up! When I see those connections in your final, I know you're putting in the work to make them.
 
-
-### Make an impression; 30 points go a long way
-This exercise is your final assignment. Duh. Crucially, these are the LAST POINTS you can get. And because I value improvement, a strong final that shows a bit more than previous assignments maybe did, will make a strong case for a higher grade that your point total might suggest.
-
-AGAIN: No matter how you have fared on assignments or quizzes previously, a smart essay here can make a significant grade difference. Please note that a strong performance can get you a better grade than your final point total might suggest (because I think effort and improvement should be reflected in your final grade). On the other hand, a lackluster performance can definitely lower your pre-final grade from what it was (but never lower that what your point total suggests).
-
-I know everyone is fried at this point, but thinking back through the course makes a big difference in what you take away from it and the quality of your critical thinking about diet and health, and hopefully just in general. I wouldn't bother if I didn't think it made a big impact.
-
 One last time: telling me what you were SUPPOSED to learn (that is, paraphrasing the syllabus) is very different from describing YOUR LEARNING EXPERIENCE.
 
 
 
 ## Grading
-- 28-30: **Excellent**. Presents an original, expressive, and sophisticated analysis of what the student has learned and how the readings relate to each other. It combines many specific examples from the readings with a detailed personal narrative of how they affected (or didn't) the student's thinking about diet and health.
-- 25-27: **Very good**. Provides excellent coverage of course topics, themes, and readings, with more than a few specific examples, connects readings from throughout the course, and demonstrates a clear emphasis on creating a learning reflection rather than course summary.
-- 20-24: **Good**. Provides solid coverage of course topics, themes, and readings---with some examples---but tends more towards summary than a learning narrative.
-- 15-19: **Fine**. Shows some evidence of thinking critically about core topics from the course, covers a wide variety of course themes, but does not demonstrate much knowledge of course content beyond superficial descriptions.
-- 10-14: **Marginal**. Basically summarizes or paraphrases the syllabus, but shows enough familiarity with the majority readings to get some points.
-- 0-9: **Not good**. Incoherent, overly general summary of some topics, many topics missing, minimal examples or engagement with readings.
+- A/A-: **Excellent**. Presents an original, expressive, and sophisticated analysis of what the student has learned and how the readings relate to each other. It combines many specific examples from the readings with a detailed personal narrative of how they affected (or didn't) the student's thinking about diet and health.
+- B+/B: **Very good**. Provides excellent coverage of course topics, themes, and readings, with more than a few specific examples, connects readings from throughout the course, and demonstrates a clear emphasis on creating a learning reflection rather than course summary.
+- B-/C+: **Good**. Provides solid coverage of course topics, themes, and readings---with some examples---but tends more towards summary than a learning narrative.
+- C/C-: **Fine**. Shows some evidence of thinking critically about core topics from the course, covers a wide variety of course themes, but does not demonstrate much knowledge of course content beyond superficial descriptions.
+- D: **Marginal**. Basically summarizes or paraphrases the syllabus, but shows enough familiarity with the majority readings to get some points.
+- F: **Not good**. Incoherent, overly general summary of some topics, many topics missing, minimal examples or engagement with readings.

@@ -323,7 +323,7 @@ We're reading this book to critique its use of history, not because it's "right"
 
 For each week, you'll have about 3 chapters to read. The number of pages per week seems high but the book is a quick read and we're not reading it to learn specific information.
 
-To keep on track, you'll submit a reading reflection on the assigned pages at the end of each week, and that will be the only thing to turn in for the week. I will offer a few guiding questions for you to respond to, but you should feel free to address whatever aspects of the chapters are most interesting to you---provided that you're making it clear to me that you're keeping up with the readings.
+To keep on track, you'll submit a reading reflection on the assigned pages at the end of each week, and that will be the only thing to turn in for the week. I will offer a few guiding questions for you to respond to, but you should feel free to address whatever aspects of the chapters are most interesting to you---but remember that the main goal is to make it clear to me that you're keeping up with the readings and reading carefully enough that you have an informed opinion about them. 
 
 - Patel and Moore, _Seven Cheap Things_, Introduction, 1--43.
 - Patel and Moore, _Seven Cheap Things_, 1: Cheap Nature, 44--63.
@@ -336,7 +336,6 @@ To keep on track, you'll submit a reading reflection on the assigned pages at th
 - Patel and Moore, _Seven Cheap Things_, 5: Cheap Food, 138--160.
 
 
-
 ## Week 13: Apr 12--16
 - Patel and Moore, _Seven Cheap Things_, 6: Cheap Energy, 161--179.
 - Patel and Moore, _Seven Cheap Things_, 7: Cheap Lives, 180--201.
@@ -344,16 +343,21 @@ To keep on track, you'll submit a reading reflection on the assigned pages at th
 
 
 ## Week 14: Apr 19--23
+- Video on using the course to critique the use of history in _Seven Cheap Things_.
 - John W. W. Zeise, "[Et in Arcadia Ego](https://lareviewofbooks.org/article/et-in-arcadia-ego/)", _Los Angeles Review of Books_, December 16, 2017.
-- Reviewing the use of history in _Seven Cheap Things_
+
+{% include alert.html class='danger' title='Book Reflection' text="
+- How would you situate _Seven Cheap Things_ in the historiographic tradition that we read about the first half of the term?
+"%}
 
 
 ## Week 15: May 26--30
+- Video on course wrap-upp and FIANL ESSAY INSTRUCTIONS---using the course to critique the use of history / writing of history in one final reading for the course.
+- Laura Spinney, [History as a giant data set: how analysing the past could help save the future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
 
 
 ## Week 16: May  3--7
-- What is History For? Lecture and lecture quiz/response
-- Final essay explanation video (applying the course to reviewing Patel and Moore)
+Nothing new this week: Work on your finals!
 
 
 ## All course work due by FRIDAY May 14!

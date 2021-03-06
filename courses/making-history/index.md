@@ -49,21 +49,23 @@ I will do everything I can do help you learn as much as you're motivated to lear
 
 
 ## Work Requirements and Grading
-All assignments listed here will eventually link to their own instruction page. Most instruction guides are still being finalized, but they will all be available well before you need them.
+Standard assignments listed here link to their own instruction page. If there is no link, the instructions are listed on the schedule page under the due date.
 
 The little formula translates as `number of assignments` x `possible points` = `total points`
 
-- Quizzes (on lectures & reading assignments) (6x10=60)
-- [Reading Responses](reading-reflections) (6x10=60)
-- 1619 Project Reflection (1x20)
+- Quizzes (on lectures & reading assignments) (6x~13=78)
+- [Reading Responses](reading-reflections) (9x10=90)
+- 1619 Project Reflection (1x30)
+- Maza/Midterm Reflection (1x20)
 - Architecture and Monuments Reflection (1x20)
-- History at Work Critique (1x20)
-- [Final Course Reflection](final-reflections) (1x40)
+- Weekly _Seven Cheap Things_ Reflections (3x20)
+- History in _Seven Cheap Things_ (1x30)
+- [Final Course Reflection] (1x40)
 
 
 
 ### Grade Distribution
-There will be about 240 points, but that will probably change slightly over the semester. Your grade is determined by percent so you can always see in Learn how you are doing regardless of the ultimate possible point total.
+There will be about 368 points, but that will probably change slightly over the semester. Your grade is determined by percent so you can always see in Learn how you are doing regardless of the ultimate possible point total.
 
 Percent | Grade
 --- | ---

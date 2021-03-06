@@ -46,6 +46,24 @@ For the project critique, below are some possible themes and questions you might
 - How can we use our previous abstract/theoretical readings to evaluate the pros and cons of transcription and a full-text archive generally?
 
 
+## Transcription Projects
+- [Colored Conventions](http://coloredconventions.org/transcribe-minutes)
+- [DIY History](http://diyhistory.lib.uiowa.edu/)
+- [Transcribe Bentham](http://blogs.ucl.ac.uk/transcribe-bentham/)
+- [Information Wanted](http://informationwanted.org/): Contribute to the construction of a searchable digital database of advertisements printed by former enslaved people searching for their loved ones.
+- [What’s on the Menu?](http://menus.nypl.org/): Contribute to food history research with over 17,000 menus from the past 170 years. Currently they need help reviewing submitted transcriptions.
+- [Making History](http://www.virginiamemory.com/transcribe/): A wealth of papers, records, images, and speeches from more than 300 years of Virginian history.
+- [The Civil War in Letters](https://publications.newberry.org/digital/mms-transcribe/index): This collection contains letters from Civil War soldiers that give a human view of the conflict.
+- [Library of Congress transcription project](https://crowd.loc.gov/)
+- [Citizen Archivist](https://www.archives.gov/citizen-archivist): A set of transcription projects organized by the National Archives
+- [Smithsonian Digital Volunteers](https://transcription.si.edu/): LOTS of great projects to contribute to, based on archives of the Smithsonian Institution. You can browse all projects by name or theme.
+
+{% include alert.html class='danger' title='Transcription' text="
+- Review some [transcription tips](https://www.archives.gov/citizen-archivist/transcribe/tips).
+- Follow the [assignment guidelines](transcription-guidelines).
+"%}
+
+
 ## Grading
 - 0-2: Technically the assignment is done, but is entirely descriptive without any critical reflection on your experience, and with rushed writing (unorganized, repetitive) that was hard to follow.
 - 3-5: Displays some critical engagement with the assignment, writing is fine and gives a serviceable picture of what you did. Generally underwhelming.

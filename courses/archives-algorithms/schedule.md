@@ -202,24 +202,6 @@ We learned a fair amount about the history of archives, archivists, relationship
 ## Week 10 (Mar 22--27): Algorithmic Texts
 - Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings”, _American Literature_ 85.4 (2013): 661--88.
 - Lara Putnam, “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” _The American Historical Review_ 121.2 (2016): 377--402.
-- Laura Spinney, [History as a giant data set: how analysing the past could help save the future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
-
-### Transcription options
-- [Colored Conventions](http://coloredconventions.org/transcribe-minutes)
-- [DIY History](http://diyhistory.lib.uiowa.edu/)
-- [Transcribe Bentham](http://blogs.ucl.ac.uk/transcribe-bentham/)
-- [Information Wanted](http://informationwanted.org/): Contribute to the construction of a searchable digital database of advertisements printed by former enslaved people searching for their loved ones.
-- [What’s on the Menu?](http://menus.nypl.org/): Contribute to food history research with over 17,000 menus from the past 170 years. Currently they need help reviewing submitted transcriptions.
-- [Making History](http://www.virginiamemory.com/transcribe/): A wealth of papers, records, images, and speeches from more than 300 years of Virginian history.
-- [The Civil War in Letters](https://publications.newberry.org/digital/mms-transcribe/index): This collection contains letters from Civil War soldiers that give a human view of the conflict.
-- [Library of Congress transcription project](https://crowd.loc.gov/)
-- [Citizen Archivist](https://www.archives.gov/citizen-archivist): A set of transcription projects organized by the National Archives
-- [Smithsonian Digital Volunteers](https://transcription.si.edu/): LOTS of great projects to contribute to, based on archives of the Smithsonian Institution. You can browse all projects by name or theme.
-
-{% include alert.html class='danger' title='Transcription' text="
-- Review some [transcription tips](https://www.archives.gov/citizen-archivist/transcribe/tips).
-- Follow the [assignment guidelines](transcription-guidelines).
-"%}
 
 
 
@@ -247,17 +229,11 @@ We learned a fair amount about the history of archives, archivists, relationship
 
 
 ## Week 15: April 26--30
-- No new readings this week. You will write one longer journal entry on analyzing your own course archive in terms of those that other students produced. More details as we get closer. This will serve as a final for the course and will be due the end of finals week.
+Nothing new this week: Finish up and submit your "From Archives to Algorithms" op-ed.
 
-{% include alert.html class='danger' title='Course Archive Comparison' text="
-- Instruction guide coming soon.
-"%}
 
 ## Week 16: May  3--7
-- No new readings this week. You will write one reflection on understanding algorithms through archives. More details as we get closer.
+Nothing new this week: Work on your [final course reflections](final-reflections) due the end of next week!
 
-{% include alert.html class='danger' title='From Archives to Algorithms' text="
-- Instruction guide coming soon.
-"%}
 
 ## All coursework due by FRIDAY May 14!
