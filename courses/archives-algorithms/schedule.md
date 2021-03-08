@@ -235,7 +235,7 @@ Nothing new this week: Finish up and submit your "From Archives to Algorithms" o
 
 
 ## Week 16: May  3--7
-Nothing new this week: Work on your [final course reflections](final-reflections) due the end of next week!
+Nothing new this week: Work on your [final course reflections](final-reflections) due the end of finals week!
 
 
 ## All coursework due by FRIDAY May 14!
