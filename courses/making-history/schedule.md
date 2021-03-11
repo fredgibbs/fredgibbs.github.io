@@ -299,20 +299,20 @@ Enjoy the break! And start reading _Seven Cheap Things_ to make life easier over
 ## Week 10 (Mar 22--26):  Monuments and Architecture
 
 {% include alert.html class='warning' title='Reading reflection' text="
-There are no daily assignments for this week, just one reflection essay due on Friday. After reading Monteiro and her argument for the power of architecture and monuments to promote white supremacism, read through the Essays about Confederate monuments in the Civil War Monitor and whether they should be left in place or removed.
+There are no daily assignments for this week, just one slightly-longer-than-usual reflection (~600 words/20 points) due on Friday. After reading Monteiro and her argument for the power of architecture and monuments to promote white supremacism, read through the essays about Confederate monuments in the _Civil War Monitor_ and whether they should be left in place or removed. Thanks to our TA Chase for the suggestion and PDFs.
 "%}
 
 - Lyra D. Monteiro, [Power Structures: White Columns, White Marble, White Supremacy](https://intersectionist.medium.com/american-power-structures-white-columns-white-marble-white-supremacy-d43aa091b5f9),” _Medium_, November 1, 2020.
 
-- Selections from the _Civil War Monitor_ (in Zotero) on preserving Confederate monuments. The first and last essays are interesting but less on this debate specifically, so I would skim them quickly.
+- Selections from the _Civil War Monitor_ (in Zotero)on preserving Confederate monuments. The first and last essays are interesting but less on this debate specifically, so I would skim them quickly.
 
 {% include alert.html class='danger' title='Architecture and Monuments' text="
 
-A two-part reflection for this week as we ramp up again.
+A two-part reflection for this week as we ramp up again. Like your final assignment before break, this reflection is double length (~600 words) and double points. In your response, answer the following:
 
-1) Monteiro uses many specific examples to support her argument---no surprise to you that I would like that at this point, right? But do you see as the most important points that she makes about architecture and monuments and white supremacy?
+1) Monteiro uses many specific examples to support her argument---no surprise to you that I would like that at this point, right? But do you see as the most important points that she makes about the links between architecture, monuments and white supremacy?
 
-2) The _Civil War Monitor_ pieces are quite short and obviously can't do what Monteiro does in much more space. How useful is it to have several short essays with different points of view compared to a longer form article with a singular argument? Each form has its advantages and disadvantages, obviously, but which did you find more beneficial? Which changed your understanding or thinking the most? Why?
+2) The _Civil War Monitor_ pieces are quite short and obviously can't do what Monteiro does in much more space. How useful is it to have several short essays with different points of view compared to a longer form article with a singular argument? Each form has its advantages and disadvantages, obviously, but which did you find more beneficial? Which (between Monteiro vs the _Monitor_) changed your understanding or thinking the most? WHY?
 "%}
 
 
@@ -323,7 +323,7 @@ We're reading this book to critique its use of history, not because it's "right"
 
 For each week, you'll have about 3 chapters to read. The number of pages per week seems high but the book is a quick read and we're not reading it to learn specific information.
 
-To keep on track, you'll submit a reading reflection on the assigned pages at the end of each week, and that will be the only thing to turn in for the week. I will offer a few guiding questions for you to respond to, but you should feel free to address whatever aspects of the chapters are most interesting to you---but remember that the main goal is to make it clear to me that you're keeping up with the readings and reading carefully enough that you have an informed opinion about them. 
+To keep on track, you'll submit a reading reflection on the assigned pages at the end of each week, and that will be the only thing to turn in for the week. I will offer a few guiding questions for you to respond to, but you should feel free to address whatever aspects of the chapters are most interesting to you---but remember that the main goal is to make it clear to me that you're keeping up with the readings and reading carefully enough that you have an informed opinion about them.
 
 - Patel and Moore, _Seven Cheap Things_, Introduction, 1--43.
 - Patel and Moore, _Seven Cheap Things_, 1: Cheap Nature, 44--63.
