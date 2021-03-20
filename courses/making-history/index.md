@@ -60,7 +60,7 @@ The little formula translates as `number of assignments` x `possible points` = `
 - Architecture and Monuments Reflection (1x20)
 - Weekly _Seven Cheap Things_ Reflections (3x20)
 - History in _Seven Cheap Things_ (1x30)
-- [Final Course Reflection] (1x40)
+- Final Course Reflection (1x40)
 
 
 

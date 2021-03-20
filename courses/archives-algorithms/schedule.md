@@ -199,11 +199,57 @@ I contend, for the purposes of debate, that everything we read about in terms of
 
 ## Week 9: Mar 15--19: NOTHING: Enjoy Spring Break!!!
 
+## IMPORTANT Second Half Announcements in these boxes
+
+{% include alert.html class='info' title='New wrap-up assignment/kind-of-final due Week 15' text="
+Your main project for the second half of the course is to write an op-ed for your favorite national newspaper or magazine about what consumers should understand about data and algorithms in modern society via the the history of the archive.
+
+I've written up an [archives to algorithms op-ed assignment guide](archives-to-algorithms-guide), but here's a brief summary:
+
+This op-ed should be about 2000 words (about 2.5x a weekly reflection) and draw widely from readings from both halves of the course. It's meant to reflect your understanding of course material (including my comments on your work) in a holistic and synthetic way. It is due the end of Week 15 (April 30), and there is nothing else to do that week.
+
+Assuming you keep up with the readings and basic work requirements (as has been the case thus far), this assignment mostly (there is one small assignment due during finals week) determines whether your final grade is a B+, A-, or A. Missing or minimal effort assignments will lower your grade beyond that. I have no doubt that everyone is capable of getting an A---it's just a matter of following through at this point.
+
+I'll talk more about this as we get further along, but I wanted you to have the end goal in mind.
+"%}
+
+
+{% include alert.html class='info' title='Routine Tweak' text="
+Our second-half readings (mostly) are much less academic, more accessible, and therefore don't really need a lecture introduction. I think this was less true for the archive articles that were mostly geared toward an audience of archivists.
+
+Given the different kinds of readings, it will be useful to refocus our weekly reflections just a bit to make them more useful for the op-ed assignment (see above). They will be about the same length and serve the same general purpose as the previous reflections, and will still be due on Friday. These reflections should be very useful for you as you prepare your Archives to Algorithms essay.
+
+Each week (there are 5 weeks of readings left), I'd like you to do the following:
+- For each article, provide the three (don't fret about the exact count) biggest takeaways that you think the article was trying to provide. These should be relatively concise statements (two sentences max), but don't make them so abbreviated and cryptic that they won't make sense to you six weeks from now.
+- In at least ~600 words (just to provide some kind of minimum requirement; but quality is more important than quantity), describe you found as the most significant overlap and divergence between the articles for the week.
+- Ask 2-3 INFORMED questions about the topic or articles, either in aggregate or about specific articles, that came to mind while reading (including how they relate to other readings or archive stuff we read about).
+- All these will be posted as usual as blog posts on your site.
+
+
+I will use your responses and questions as the basis for shorter (~15 min) informal videos to highlight anything I think is especially important, and answer your questions as if you mentioned them in class (and to highlight good ideas from your posts). As has been the case, there won't be direct response required to the videos, but you'll do MUCH better on your op-ed if you're keeping up with them.
+
+Doing more of a REview than a PREview video will give me a chance to respond to questions, confusions, and comments you might have about what's in the readings. I really enjoyed your questions from your last assignment and I want to keep them coming! I'm hoping this will allow us to have something more resembling a slow-motion dialog.
+
+Some of you indicated more creative assignments would be fun. Going forward, your assignments can take ANY FORM you'd like. If you want to make a video instead of writing things out, do it! If you want to sketch out visually how ideas relate (a [mind map](https://www.google.com/search?q=mind+map&rlz=1C5CHFA_enUS835US835&sxsrf=ALeKk02ltMh9Z_E1VrGFmmI8C_ODpuRuyw:1615979626686&source=lnms&tbm=isch&biw=1519&bih=1107) kinda thing), go for it! As long as you are doing the CRITICAL INTELLECTUAL WORK, you can choose whatever form you'd like. You still need to post it to your blog or link to it. If you're not sure if I'm going to understand what you're trying to do, provide a brief explanatory paragraph.
+
+I think these tweaks will make the weekly work more interesting for all of us and more directly align with the learning objectives for the course. Please don't hesitate to be in touch with any questions or concerns!
+"%}
+
 
 
 ## Week 10 (Mar 22--27): Algorithmic Texts
+- If you missed or skipped the above message boxes---read them!
 - Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings”, _American Literature_ 85.4 (2013): 661--88.
-- Lara Putnam, “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” _The American Historical Review_ 121.2 (2016): 377--402.
+- Lara Putnam, “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast”, _The American Historical Review_ 121.2 (2016): 377--402.
+
+{% include alert.html class='danger' title='Weekly Post' text="
+Copied and pasted from above:
+
+- For each article, provide the three (don't fret about the exact count) biggest takeaways that you think the article was trying to provide. These should be relatively concise statements (two sentences max), but don't make them so abbreviated and cryptic that they won't make sense to you six weeks from now.
+- In at least ~600 words (just to provide some kind of minimum requirement; but quality is more important than quantity), describe what you found as the most significant overlap and divergence between the articles for the week.
+- Ask 2-3 INFORMED questions about the topic or articles, either in aggregate or about specific articles, that came to mind while reading (including how they relate to other readings or archive stuff we read about).
+- All these will be posted as usual as blog posts on your site before the weekend (or very early into it).
+"%}
 
 
 

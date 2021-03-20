@@ -321,13 +321,23 @@ A two-part reflection for this week as we ramp up again. Like your final assignm
 ## Week 11: Mar 29--Apr 2
 We're reading this book to critique its use of history, not because it's "right" (you can decide for yourself how much you agree or disagree with it). The book's goal is to offer a critique of capitalism, but that's beside the point for us. OUR goal is to apply the Maza book on how we should approach history to this specific text, which has a very particular way of using history. Thinking through how history is used here will help us be more informed and critical readers when we see history invoked in any context.
 
-For each week, you'll have about 3 chapters to read. The number of pages per week seems high but the book is a quick read and we're not reading it to learn specific information.
+For each week, you'll have about 3 chapters to read. The number of pages per week seems high compared to what we've been doing but the book is a quick read and we're not reading it to learn specific information as we were before.
 
-To keep on track, you'll submit a reading reflection on the assigned pages at the end of each week, and that will be the only thing to turn in for the week. I will offer a few guiding questions for you to respond to, but you should feel free to address whatever aspects of the chapters are most interesting to you---but remember that the main goal is to make it clear to me that you're keeping up with the readings and reading carefully enough that you have an informed opinion about them.
+To keep on track, you'll submit a reading reflection on the assigned pages at the end of each week (see box directly below), and that will be the only thing to turn in for the week. I will offer a few guiding questions for you to respond to, but you should feel free to address whatever aspects of the chapters are most interesting to you---but remember that the main goal is to make it clear to me that you're keeping up with the readings and reading carefully enough that you have an informed opinion about them.
+
+
+{% include alert.html class='warning' title='Standard 7CT weekly reflection' text="
+
+"%}
 
 - Patel and Moore, _Seven Cheap Things_, Introduction, 1--43.
 - Patel and Moore, _Seven Cheap Things_, 1: Cheap Nature, 44--63.
 - Patel and Moore, _Seven Cheap Things_, 2: Cheap Money, 64--90.
+
+
+{% include alert.html class='danger' title='Reading Reflection' text="
+Standard _7CT_ weekly reflection. See yellow box just above.
+"%}
 
 
 ## Week 12: Apr 5--9
@@ -335,11 +345,19 @@ To keep on track, you'll submit a reading reflection on the assigned pages at th
 - Patel and Moore, _Seven Cheap Things_, 4: Cheap Care, 111--137.
 - Patel and Moore, _Seven Cheap Things_, 5: Cheap Food, 138--160.
 
+{% include alert.html class='danger' title='Reading Reflection' text="
+Standard _7CT_ weekly reflection. See Week 11 Yellow Box.
+"%}
+
 
 ## Week 13: Apr 12--16
 - Patel and Moore, _Seven Cheap Things_, 6: Cheap Energy, 161--179.
 - Patel and Moore, _Seven Cheap Things_, 7: Cheap Lives, 180--201.
 - Patel and Moore, _Seven Cheap Things_, Conclusion, 202--212.
+
+{% include alert.html class='danger' title='Reading Reflection' text="
+Standard _7CT_ weekly reflection. ee Week 11 Yellow Box.
+"%}
 
 
 ## Week 14: Apr 19--23
@@ -347,12 +365,16 @@ To keep on track, you'll submit a reading reflection on the assigned pages at th
 - John W. W. Zeise, "[Et in Arcadia Ego](https://lareviewofbooks.org/article/et-in-arcadia-ego/)", _Los Angeles Review of Books_, December 16, 2017.
 
 {% include alert.html class='danger' title='Book Reflection' text="
-- How would you situate _Seven Cheap Things_ in the historiographic tradition that we read about the first half of the term?
+This is a longer than usual assignment, ~900 words and 30 points. It uses the same grading rubric we've been using all semester. You should address the following questions:
+
+- How would you situate _Seven Cheap Things_ in the historiographic tradition that we read about the first half of the term? How does it represent postmodern history? How does it represent previous historiographical traditions?
+- Are the historical examples cited sufficient evidence to convince you of the authors' arguments about cheap things?
+- Should this book be considered history? Or merely historical? Give examples from the book and previous readings to support your position?
 "%}
 
 
 ## Week 15: May 26--30
-- Video on course wrap-upp and FIANL ESSAY INSTRUCTIONS---using the course to critique the use of history / writing of history in one final reading for the course.
+- Video on course wrap-up and FIANL ESSAY INSTRUCTIONS---using the course to critique the use of history / writing of history in one final reading for the course.
 - Laura Spinney, [History as a giant data set: how analysing the past could help save the future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
 
 
