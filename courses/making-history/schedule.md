@@ -325,7 +325,7 @@ We're reading this book to critique its use of history, not because it's "right"
 
 For each week, you'll have about 3 chapters to read. The number of pages per week seems high compared to what we've been doing but the book is a quick read and we're not reading it to learn specific information as we were before.
 
-To keep on track, you'll submit a reading reflection on the assigned pages at the end of each week (see box directly below), and that will be the only thing to turn in for the week. I will offer a few guiding questions for you to respond to, but you should feel free to address whatever aspects of the chapters are most interesting to you---but remember that the main goal is to make it clear to me that you're keeping up with the readings and reading carefully enough that you have an informed opinion about them.
+To keep on track, you'll submit a reading reflection on the assigned chapters at the end of each week (see box directly below), and that will be the only thing to turn in for the week. I will offer a few guiding questions for you to respond to, but you should feel free to address whatever aspects of the chapters are most interesting to you---but remember that the main goal is to make it clear to me that you're keeping up with the readings and reading carefully enough that you have an informed opinion about them.
 
 
 {% include alert.html class='warning' title='Standard 7CT weekly reflection' text="
