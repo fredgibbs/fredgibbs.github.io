@@ -303,6 +303,8 @@ Before we dive into our final book for the course, I thought it would be useful 
 
 There are no daily assignments for this week, just one slightly-longer-than-usual reflection (~600 words/20 points) due on Friday. After reading Monteiro and her argument for the power of architecture and monuments to promote white supremacism, read through the essays about Confederate monuments in the _Civil War Monitor_ and whether they should be left in place or removed. Thanks to our TA Chase for the suggestion and PDF of the _CWM_.
 
+- [First half wrap-up video](https://youtu.be/p6vFHklZT0g)
+
 - Lyra D. Monteiro, [Power Structures: White Columns, White Marble, White Supremacy](https://intersectionist.medium.com/american-power-structures-white-columns-white-marble-white-supremacy-d43aa091b5f9),” _Medium_, November 1, 2020.
 
 - Selections from the _Civil War Monitor_ (in Zotero) on preserving Confederate monuments. The first and last essays are interesting but less on this debate specifically, so I would skim them quickly.
