@@ -329,7 +329,7 @@ To keep on track, you'll submit a reading reflection on the assigned pages at th
 
 
 {% include alert.html class='warning' title='Standard 7CT weekly reflection' text="
-For the next few week you'll be submitting the same kind of reading reflection EACH FRIDAY. Although there is just one thing to turn in per week, your reflection should have distinct sections for each chapter. You should aim for about ~300 words per chapter, which is basically the same as the daily reflections that you were doing earlier. I encourage you to draft your chapter sections as you read them, but I think you will get ideas about how to improve them as you move through the set of chapters for the week, hence one submission per week. Also, it's just less stuff to post, which isn't a bad thing at this point.
+For the next few week you'll be submitting the same kind of reading reflection EACH FRIDAY. Although there is just one thing to turn in per week, your reflection should have distinct sections for each chapter. You should aim for about ~300 words per chapter, which is basically the same as the daily reflections that you were doing earlier. I encourage you to draft your chapter sections as you read them, but I think you will get ideas about how to improve them as you move through the set of chapters for the week, hence one submission per week. Also, it's just less stuff to post and more flexibility for reading on your own schedule, which isn't a bad thing at this point.
 
 Feel free to write a little more or less in for each chapter in accordance with how much it resonated with you as long as you're getting close to ~900 words total. My goal with articulating a word count here is not to be a stickler about it, but to help avoid anyone unintentionally writing way too much or too little.
 
@@ -369,7 +369,7 @@ Standard _7CT_ weekly reflection. See Week 11 Yellow Box.
 - Patel and Moore, _Seven Cheap Things_, Conclusion, 202--212.
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-Standard _7CT_ weekly reflection. ee Week 11 Yellow Box.
+Standard _7CT_ weekly reflection. Week 11 Yellow Box.
 "%}
 
 
@@ -378,7 +378,7 @@ Standard _7CT_ weekly reflection. ee Week 11 Yellow Box.
 - John W. W. Zeise, "[Et in Arcadia Ego](https://lareviewofbooks.org/article/et-in-arcadia-ego/)", _Los Angeles Review of Books_, December 16, 2017.
 
 {% include alert.html class='danger' title='Book Reflection' text="
-This is a longer than usual assignment, ~900 words and 30 points. It uses the same grading rubric we've been using all semester. You should address the following questions:
+This reflection is the same length and points (~900 words and 30 points) as you've been doing. It uses the same grading rubric we've been using all semester. You should address the following questions:
 
 - How would you situate _Seven Cheap Things_ in the historiographic tradition that we read about the first half of the term? How does it represent postmodern history? How does it represent previous historiographical traditions?
 - Are the historical examples cited sufficient evidence to convince you of the authors' arguments about cheap things?
