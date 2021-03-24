@@ -329,7 +329,9 @@ To keep on track, you'll submit a reading reflection on the assigned pages at th
 
 
 {% include alert.html class='warning' title='Standard 7CT weekly reflection' text="
-For the next few week you'll be submitting the same kind of reading reflection EACH FRIDAY. Although there is just one thing to turn in per week, your reflection should have distinct sections for each chapter. You should aim for about ~300 words per chapter, which is basically the same as the daily reflections that you were doing earlier. Feel free to write a little more or less in for each chapter in accordance with how much it resonated with you as long as you're getting close to ~900 words total. My goal with articulating word counts here is not to be a stickler about them, but to help avoid anyone unintentionally writing way too much or too little.
+For the next few week you'll be submitting the same kind of reading reflection EACH FRIDAY. Although there is just one thing to turn in per week, your reflection should have distinct sections for each chapter. You should aim for about ~300 words per chapter, which is basically the same as the daily reflections that you were doing earlier. I encourage you to draft your chapter sections as you read them, but I think you will get ideas about how to improve them as you move through the set of chapters for the week, hence one submission per week. Also, it's just less stuff to post, which isn't a bad thing at this point.
+
+Feel free to write a little more or less in for each chapter in accordance with how much it resonated with you as long as you're getting close to ~900 words total. My goal with articulating a word count here is not to be a stickler about it, but to help avoid anyone unintentionally writing way too much or too little.
 
 Your weekly reflection (due end of day Friday) should provide the following FOR EACH CHAPTER:
 - ~3 non-cryptic bullet points of what you consider to be the main ideas for the chapter (don't just repeat that the \"thing\" discussed in the chapter is important; be more specific about what the authors are arguing)
