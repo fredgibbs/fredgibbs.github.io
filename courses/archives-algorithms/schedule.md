@@ -239,6 +239,7 @@ I think these tweaks will make the weekly work more interesting for all of us an
 
 ## Week 10 (Mar 22--27): Algorithmic Texts
 - If you missed or skipped the above message boxes---read them!
+- [First half questions and things to keep in mind moving from archives to algorithms](https://youtu.be/nCtxj9L8Hyo)
 - Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings”, _American Literature_ 85.4 (2013): 661--88.
 - Lara Putnam, “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast”, _The American Historical Review_ 121.2 (2016): 377--402.
 
