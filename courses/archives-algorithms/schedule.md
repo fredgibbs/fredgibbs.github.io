@@ -255,6 +255,7 @@ Copied and pasted from above:
 
 
 ## Week 11 (Mar 29--Apr 2): Everyday algorithms
+- [REview from last week](https://youtu.be/HXbHW_ONKBY)
 - Virgina Eubanks, "The digital poorhouse", _Harper’s Magazine_ (Jan 2018).
 - Michele Willson, “Algorithms (and the) Everyday.” _Information, Communication & Society_ 20.1 (2017): 137--50.
 - John Danaher, ‘The Threat of Algocracy: Reality, Resistance and Accommodation’, _Philosophy & Technology_, 29.3 (2016): 245--68.
