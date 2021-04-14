@@ -268,6 +268,7 @@ Copied and pasted from above:
 
 
 ## Week 13 (Apr 12--16): Dataveillance
+- [Video highlights](https://youtu.be/SN02mpJL_OI) of past readings, responses, and questions
 - Jose van Dijck, "Datafication, Dataism and Dataveillance: Big Data between Scientific Paradigm and Ideology’, _Surveillance & Society_ 12.2 (2014): 197--208.
 - Holger Pötzsch, "Archives and Identity in the Context of Social Media and Algorithmic Analytics: Towards an Understanding of _iArchive_ and Predictive Retention", _New Media & Society_ 20.9 (2018), 3304--22.
 - Frank Pasquale, [Digital star chamber](https://aeon.co/essays/judge-jury-and-executioner-the-unaccountable-algorithm), _Aeon_.
