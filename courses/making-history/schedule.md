@@ -382,11 +382,11 @@ Standard _7CT_ weekly reflection. See Week 11 Yellow Box.
 - John W. W. Zeise, "[Et in Arcadia Ego](https://lareviewofbooks.org/article/et-in-arcadia-ego/)", _Los Angeles Review of Books_, December 16, 2017.
 
 {% include alert.html class='danger' title='Book Reflection' text="
-This reflection is the SAME LENGTH BUT MORE points (~900 words and 30 points) as you've been doing. It uses the same grading rubric we've been using all semester.
+This reflection is the SAME LENGTH BUT MORE POINTS (~900 words and 30 points) as you've been doing.
 
-When we have talked about books about history, we've tended to refer to books that discuss particular historical events and explain what happened and why it was significant. 7CT does that to some extent, but obviously the authors are more interested in changing our thinking about capitalism than in expanding our knowledge about the past (despite the plethora of historical examples!).
+When we've read about history books, usually it's been about books that discuss particular historical events and explain what happened and why it was significant. 7CT does that to some extent, but obviously the authors are more interested in changing our thinking about capitalism than in expanding our knowledge about the past (despite the plethora of historical examples!).
 
-So it clearly uses history in a very deliberate way with enough historical analysis that it can be fairly classified as a history book. What I want you to think and write about this week is how the book fits in the historiographic tradition that we outlined in the first half of the course.
+So 7CT clearly uses history in a very deliberate way with enough historical analysis that it can be classified as a history book. What I want you to think and write about this week is how the book fits in the historiographic tradition that we surveyed in the first half of the course.
 
 Allow me to set the stage a bit more.
 
@@ -394,10 +394,10 @@ The book seems to presume that the past can reveal to us something important abo
 
 Think back to Popkin. We don't need to compare 7CT to Herodotus or medieval chroniclers, but it might be worth considering how much the global ecology idea central to Patel and Moore is related to the universal histories of the Enlightenment. Or how much their history immersed in capitalist markets might remind us of the _Annales_ school that employed an economic analysis to study history at large scales. If we see in 7CT such similarities to such \"big picture\" history, perhaps it's actually a bit old-fashioned.
 
-Two parts to your assignment for FRIDAY:
+Two parts to your assignment for FRIDAY (give each roughly equal space [~450 words]):
 
-- As a historiographical expert, how would you characterize how 7CT as a history book fits into the genre? How does it draw from traditional approaches and more (post) modern ones? How does it depart from the kinds of texts we've read about? What are its strengths and weaknesses AS A WORK OF HISTORY?
-- Think back to the 1619 Project Critique and the idea of re-centering historical narratives. Present BOTH ADVANTAGES AND DISADVANTAGES of having the reading of this book a high school graduation requirement. You may have a strong opinion on this question, but you must present BOTH SIDES of the argument equally well.
+- As a historiographical expert, how would you characterize how 7CT fits into the genre of history? How does it draw from traditional approaches and more (post) modern ones? How does it depart from the kinds of texts we've read about? What are its strengths and weaknesses AS A WORK OF HISTORY? Be as specific as possible.
+- Think back to the 1619 Project Critique and the idea of re-centering historical narratives. Present BOTH ADVANTAGES AND DISADVANTAGES of requiring this book to graduate from high school (don't argue the philosophical question of whether any one book should be required or not; just pretend that SOME book is going to be required regardless). You may have a strong opinion on this question, but you must present BOTH SIDES of the argument equally well.
 "%}
 
 
