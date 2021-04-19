@@ -278,6 +278,15 @@ Copied and pasted from above:
 - Manissa M. Maharawal and Erin McElroy, "The Anti-Eviction Mapping Project: Counter Mapping and Oral History toward Bay Area Housing Justice", _Annals of the American Association of Geographers_, 108.2 (2018): 380--89.
 - Todd Presner, "The Ethics of the Algorithm: Close and Distant Listening to the Shoah Foundation Visual History Archive", in _Probing the Ethics of Holocaust Culture_, ed. by Claudio Fogu (Harvard University Press, 2016), 167--202.
 
+{% include alert.html class='danger' title='Weekly Post' text="
+To echo the weekly email: Because the standard reflection we've been doing isn't quite as applicable to our last set of readings, I have a few more specific questions I'd like you to consider for this week (and these should make your posts more helpful for your op-eds as well). Your posts will be less about the specific articles for this week and more about the general questions (in context of what we've been reading the last few weeks).
+
+- Is the kind of activism work described by Maharawal and McElroy a useful kind of work to increase awareness of algorithms? The article doesn't mention algorithms at all (I don't think), but it's not hard to see how the social issues they are concerned with could be (and in fact are in other places) driven by algorithmic discoveries via big data analysis.
+
+- Does history at large scales written from databases, metadata, and visual representations become less valuable than more \"conventional\" history? Which concerns and solutions that Presner discusses might be applicable to the kinds of algorithms (and uses of them) that we've been reading about recently?
+"%}
+
+
 
 ## Week 15: April 26--30
 Nothing new this week: Finish up and submit your "From Archives to Algorithms" op-ed.
