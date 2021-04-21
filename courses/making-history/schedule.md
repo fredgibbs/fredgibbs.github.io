@@ -422,13 +422,13 @@ Nothing new this week: Work on your final course reflections! You can post these
 {% include alert.html class='danger' title='Final Course Reflection' text="
 Your final reflection for the course is a bit different from previous reflections. Instead of responding or a particular reading (and my prompts), it's a more free-form reflection on the entire course. I want to learn about what from the course is going to stick with you.
 
-## Experience over summary
+### Experience over summary
 I can't emphasize enough that your final reflection should be personal statements about YOUR LEARNING EXPERIENCE, not just a recitation of course topics. What did you find most interesting? What did you want to want to explore in more depth? Where did you get confused? What connections between topics did you make? What was not part of the course that should have been?
 
-## Refresh and show off
-This final assignment is the last chance you have to show off for the course---to present a holistic view of what you learned. Without any new readings this week, I hope you'll be able to spend some time skimming back through what we've read. You'll read some things a bit differently and maybe notice a few things that you didn't before. Most importantly, it gives you a chance to take in a bird's eye view of the course and make connections between readings and ideas that simply weren't possible when going through them for the first time. 
+### Refresh and show off
+This final assignment is the last chance you have to show off for the course---to present a holistic view of what you learned. Without any new readings this week, I hope you'll be able to spend some time skimming back through what we've read. You'll read some things a bit differently and maybe notice a few things that you didn't before. Most importantly, it gives you a chance to take in a bird's eye view of the course and make connections between readings and ideas that simply weren't possible when going through them for the first time.
 
 
-## Grading
+### Grading
 No reason to change now! Same as usual rubric. 30 points. Beyond your numeric score, this final assignment is a last chance for a grade tweak. if you're near the bubble between two grades as far as your point total indicates, a thoughtful reflection here gets you the higher grade.
 "%}
