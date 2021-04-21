@@ -401,13 +401,34 @@ Two parts to your assignment for FRIDAY (give each roughly equal space [~450 wor
 "%}
 
 
-## Week 15: May 26--30
-- Video: 7CT wrap-up and penultimate reflection on history as data based on one reading for this week
+## Week 15: Apr 26--30
+- Video: Course wrap-up and thoughts on modeling history
 - Laura Spinney, [History as a giant data set: how analysing the past could help save the future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
 
+{% include alert.html class='danger' title='History as Data reflection' text="
+
+The article for this week describes the idea that aggregated historical data can be used to predict, if not solve, human crises. The idea is that complex systems, like complex ecologies in nature, may seem impossible to control but if in fact you know how to analyze them, you can devise mathematical models that can help you decide what actions will result in desirable outcomes.
+
+Your penultimate assignment, is to situate the Spinney article in a larger historiographical context---similar to what we just did with 7CT. We've talked both explicitly and implicitly about who history is about, who writes it, how they do it, what history is for, etc. **Your task is to evaluate the approach to history as explained in the Spinney given our historiographic overview over the semester.** How does this approach reflect previous historiographical traditions? How is it novel? How does it compare with various uses of history that we've discussed this term?
+
+There is no right answer! As usual, what's most important is how you justify your opinion using examples from the course. Just be sure that you clearly and thoroughly explain your thinking. Building off our exercise from last week, the meta-goal of this assignment is to get you to think and write about the fit between methods, goals, and uses of history.
+
+HINT: It's no accident that 7CT relies heavily on the concept of ecology to explore capitalism AND that the reading this week relies heavily on the concept of ecology to suggest how complex systems (like, say, capitalism and history) behave in predictable ways.
+"%}
 
 ## Week 16: May  3--7
-Nothing new this week: Work on your finals!
+Nothing new this week: Work on your final course reflections! You can post these whenever you'd like, but they must be posted by the end of Finals week (May 14).
+
+{% include alert.html class='danger' title='Final Course Reflection' text="
+Your final reflection for the course is a bit different from previous reflections. Instead of responding or a particular reading (and my prompts), it's a more free-form reflection on the entire course. I want to learn about what from the course is going to stick with you.
+
+## Experience over summary
+I can't emphasize enough that your final reflection should be personal statements about YOUR LEARNING EXPERIENCE, not just a recitation of course topics. What did you find most interesting? What did you want to want to explore in more depth? Where did you get confused? What connections between topics did you make? What was not part of the course that should have been?
+
+## Refresh and show off
+This final assignment is the last chance you have to show off for the course---to present a holistic view of what you learned. Without any new readings this week, I hope you'll be able to spend some time skimming back through what we've read. You'll read some things a bit differently and maybe notice a few things that you didn't before. Most importantly, it gives you a chance to take in a bird's eye view of the course and make connections between readings and ideas that simply weren't possible when going through them for the first time. 
 
 
-## All course work due by FRIDAY May 14!
+## Grading
+No reason to change now! Same as usual rubric. 30 points. Beyond your numeric score, this final assignment is a last chance for a grade tweak. if you're near the bubble between two grades as far as your point total indicates, a thoughtful reflection here gets you the higher grade.
+"%}
