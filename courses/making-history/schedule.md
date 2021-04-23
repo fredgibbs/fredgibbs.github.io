@@ -378,7 +378,8 @@ Standard _7CT_ weekly reflection. See Week 11 Yellow Box.
 
 
 ## Week 14: Apr 19--23
-- Video (likely Wednesday) on your questions and comments, as well as how I see the book fitting into the course.
+- [Video 1/1](https://youtu.be/MhgdIVO9fGw) (pros, cons, hopeful takeaways)
+- [Video 2/2](https://youtu.be/w60hjZHkc8M) (history as proof and historical agency)
 - John W. W. Zeise, "[Et in Arcadia Ego](https://lareviewofbooks.org/article/et-in-arcadia-ego/)", _Los Angeles Review of Books_, December 16, 2017.
 
 {% include alert.html class='danger' title='Book Reflection' text="
