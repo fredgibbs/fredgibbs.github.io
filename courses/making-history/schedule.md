@@ -383,7 +383,7 @@ Standard _7CT_ weekly reflection. See Week 11 Yellow Box.
 - John W. W. Zeise, "[Et in Arcadia Ego](https://lareviewofbooks.org/article/et-in-arcadia-ego/)", _Los Angeles Review of Books_, December 16, 2017.
 
 {% include alert.html class='danger' title='Book Reflection' text="
-This reflection is the SAME LENGTH BUT MORE POINTS (~900 words and 30 points) as you've been doing.
+This reflection is the SAME LENGTH BUT MORE POINTS (~900 words and 30 points) as you've been doing. THIS IS NOW DUE MONDAY 4/26!
 
 When we've read about history books, usually it's been about books that discuss particular historical events and explain what happened and why it was significant. 7CT does that to some extent, but obviously the authors are more interested in changing our thinking about capitalism than in expanding our knowledge about the past (despite the plethora of historical examples!).
 
@@ -408,6 +408,8 @@ Two parts to your assignment for FRIDAY (give each roughly equal space [~450 wor
 
 {% include alert.html class='danger' title='History as Data reflection' text="
 
+AS MENTIONED: THIS ASSIGNMENT IS NOW DUE ON MONDAY 5/1!
+
 The article for this week describes the idea that aggregated historical data can be used to predict, if not solve, human crises. The idea is that complex systems, like complex ecologies in nature, may seem impossible to control but if in fact you know how to analyze them, you can devise mathematical models that can help you decide what actions will result in desirable outcomes.
 
 Your penultimate assignment, is to situate the Spinney article in a larger historiographical context---similar to what we just did with 7CT. We've talked both explicitly and implicitly about who history is about, who writes it, how they do it, what history is for, etc. **Your task is to evaluate the approach to history as explained in the Spinney given our historiographic overview over the semester.** How does this approach reflect previous historiographical traditions? How is it novel? How does it compare with various uses of history that we've discussed this term?
@@ -419,6 +421,8 @@ HINT: It's no accident that 7CT relies heavily on the concept of ecology to expl
 
 ## Week 16: May  3--7
 Nothing new this week: Work on your final course reflections! You can post these whenever you'd like, but they must be posted by the end of Finals week (May 14).
+
+If you haven't posted your assignment from last week, please do that ASAP.
 
 {% include alert.html class='danger' title='Final Course Reflection' text="
 Your final reflection for the course is a bit different from previous reflections. Instead of responding or a particular reading (and my prompts), it's a more free-form reflection on the entire course. I want to learn about what from the course is going to stick with you.
