@@ -289,11 +289,12 @@ To echo the weekly email: Because the standard reflection we've been doing isn't
 
 
 ## Week 15: April 26--30
-Nothing new this week: Finish up and submit your "From Archives to Algorithms" op-ed.
+Nothing new this week: Your "From Archives to Algorithms" op-ed was originally due the end of the week, but there's no reason to hurry. OP-EDS ARE NOW DUE THE LAST DAY OF CLASSES, FRIDAY MAY 7.
 
 
 ## Week 16: May  3--7
-Nothing new this week: Work on your [final course reflections](final-reflections) due the end of finals week!
+- Your op-eds are DUE ON FRIDAY (feel free to post before then).
+- Think about your [final course reflections](final-reflections) due the end of finals week!
 
 
 ## All coursework due by FRIDAY May 14!
