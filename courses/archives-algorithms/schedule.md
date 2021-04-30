@@ -293,7 +293,7 @@ Nothing new this week: Your "From Archives to Algorithms" op-ed was originally d
 
 
 ## Week 16: May  3--7
-- Your op-eds are DUE ON FRIDAY (feel free to post before then).
+- Your op-eds are DUE ON FRIDAY (feel free to post before then). Op-eds should be posted as a SEPARATE PAGE on your blog, like the other special assignments we've had. Thank you!
 - Think about your [final course reflections](final-reflections) due the end of finals week!
 
 
