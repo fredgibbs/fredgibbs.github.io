@@ -403,7 +403,6 @@ Two parts to your assignment for FRIDAY (give each roughly equal space [~450 wor
 
 
 ## Week 15: Apr 26--30
-- Video: Course wrap-up and thoughts on modeling history
 - Laura Spinney, [History as a giant data set: how analysing the past could help save the future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
 
 {% include alert.html class='danger' title='History as Data reflection' text="
@@ -420,7 +419,8 @@ HINT: It's no accident that 7CT relies heavily on the concept of ecology to expl
 "%}
 
 ## Week 16: May  3--7
-Nothing new this week: Work on your final course reflections! You can post these whenever you'd like, but they must be posted by the end of Finals week (May 14).
+- Video: Course wrap-up and thoughts on modeling history and what history is for.
+- Otherwise, Nothing new this week. Work on your final course reflections! You can post these whenever you'd like, but they must be posted by the end of Finals week (May 14).
 
 If you haven't posted your assignment from last week, please do that ASAP.
 
