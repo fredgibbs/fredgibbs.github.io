@@ -290,7 +290,7 @@ To echo the weekly email: Because the standard reflection we've been doing isn't
 
 ## Week 15: April 26--30
 Nothing new this week: Your "From Archives to Algorithms" op-ed was originally due the end of the week, but there's no reason to hurry. OP-EDS ARE NOW DUE THE LAST DAY OF CLASSES, FRIDAY MAY 7.
-
+- [FINAL WRAP UP VIDEO](https://youtu.be/H0BRY3kM7ss)
 
 ## Week 16: May  3--7
 - Your op-eds are DUE ON FRIDAY (feel free to post before then). Op-eds should be posted as a SEPARATE PAGE on your blog, like the other special assignments we've had. Thank you!
