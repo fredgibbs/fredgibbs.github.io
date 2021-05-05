@@ -419,7 +419,7 @@ HINT: It's no accident that 7CT relies heavily on the concept of ecology to expl
 "%}
 
 ## Week 16: May  3--7
-- Video: Course wrap-up and thoughts on modeling history and what history is for.
+- Video: [Final course wrap-up](https://youtu.be/9pwkN0rxtk0)
 - Otherwise, Nothing new this week. Work on your final course reflections! You can post these whenever you'd like, but they must be posted by the end of Finals week (May 14).
 
 If you haven't posted your assignment from last week, please do that ASAP.
