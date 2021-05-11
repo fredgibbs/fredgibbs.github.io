@@ -435,5 +435,5 @@ This final assignment is the last chance you have to show off for the course---t
 
 
 ### Grading
-No reason to change now! Same as usual rubric. 30 points. Beyond your numeric score, this final assignment is a last chance for a grade tweak. if you're near the bubble between two grades as far as your point total indicates, a thoughtful reflection here gets you the higher grade.
+No reason to change now! Same rubric, 800-900 words, 30 points. Beyond your numeric score, this final assignment is a last chance for a grade tweak. if you're near the bubble between two grades as far as your point total indicates, a thoughtful reflection here gets you the higher grade.
 "%}
