@@ -10,11 +10,11 @@ section: home
 # Schedule of Readings & Assignments
 
 
-## Due dates
+### Due dates
 All posted assignments are technically "due" on the day they are listed so that we all stay on schedule. An occasional late post because something urgent came up is fine. Repeatedly late posts will negatively impact your grade.
 
-## Video lectures and instructional videos
-All video lectures are posted on the [course YouTube channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig), and I will link to them on the syllabus as they become available. If you want announcements of new videos, please subscribe to the channel, as I won't send out separate announcements.
+### Video lectures
+All video lectures are posted on the [course YouTube channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig), and I will link to them on the syllabus as they become available. If you want announcements of new videos, please subscribe to the channel.
 
 
 # Week 1
@@ -24,7 +24,7 @@ All video lectures are posted on the [course YouTube channel](https://www.youtub
 - Warren Belasco, "Why study food?", from _Food: The Key Concepts_ (Oxford University Press, 2008): 1--13.
 
 
-{% include alert.html class='danger' title='UNM Learn quiz' text="
+{% include alert.html class='warning' title='UNM Learn quiz' text="
 This will cover the course into video, the syllabus, and the short Belasco reading.
 "%}
 
@@ -43,7 +43,7 @@ Just to make sure everyone is connected, and as an informal way of introducing o
 #### Noteworthy
 - G. J. Fitzgerald and G. M. Petrick, "In Good Taste: Rethinking American History with Our Palates", _Journal of American History_ 95.2 (2008): 392--404.
 
-{% include alert.html class='danger' title='Food History Quiz' text="
+{% include alert.html class='warning' title='Food History Quiz' text="
 This will cover the lecture and Haley reading.
 "%}
 
@@ -51,7 +51,7 @@ This will cover the lecture and Haley reading.
 
 ## Jun 9
 
-## National Cuisine & American Food
+### National Cuisine & American Food
 - _HAE_, xi--xv.
 - _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
 - Sidney Mintz, "Eating American".
@@ -66,7 +66,7 @@ First, make sure you're familiar with the [reading response guide](reading-respo
 
 ## Jun 10
 
-## Authenticity
+### Authenticity
 - Dwight Furrow, _American Foodie_ (7: Habits and Heresies: Authenticity, Food Rules, and Traditions), 133--48.
 - Kevin Alexander, [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
 
@@ -83,14 +83,14 @@ These readings give us some new perspectives on the idea of authenticity and cas
 ## Jun 11 (Fri)
 ### Cuisines of Contact & Thanksgiving
 - _HAE_, 1--11 (from 1: Cuisine of Contact).
-- Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70-–74.
+- Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167–-91.
 
 #### For reference
-- Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167–-91.
+- Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70-–74.
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/)
 
 {% include alert.html class='danger' title='Quiz' text="
-This quiz covers basics from the readings, but also has short answer questions about how important is authenticity to Thanksgiving? How much does Thanksgiving reflect nationalism (of some people) and marginalization (of other people)?
+This quiz covers basics from the readings, but also has short answer questions about the various myths and meanings associated with Thanksgiving. How much does Thanksgiving reflect nationalism (of some people) and marginalization (of other people)?
 "%}
 
 
@@ -107,7 +107,7 @@ This quiz covers basics from the readings, but also has short answer questions a
 #### Noteworthy
 - John Lawerence, [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/#.YJ7o-GZKixs)
 
-{% include alert.html class='danger' title='Reading Quiz' text="
+{% include alert.html class='warning' title='Reading Quiz' text="
 This quiz covers early food consumption in America and how food and personal/community/national identity are intertwined.
 "%}
 
@@ -121,7 +121,8 @@ This quiz covers early food consumption in America and how food and personal/com
 #### Noteworthy
 - James E. McWilliams, “‘How Unripe We Are’”, _Food, Culture & Society_ 8.2 (2005): 143–60.
 
-{% include alert.html class='danger' title='Reading Quiz' text="
+{% include alert.html class='warning' title='Reading Quiz' text="
+This quiz covers the role of food in Revolutionary America, both in terms of actual food production and consumption, but also how ideas of FREEDOM were intimately tied to food and therefore American identity.
 "%}
 
 
@@ -171,7 +172,7 @@ Not much reading today, but an interesting early connection between health, tech
 - Jaya Saxena, [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html). This is fun for for its focus on advertising.
 
 
-{% include alert.html class='info' title='Cereal, Health, Tech Quiz' text="
+{% include alert.html class='warning' title='Cereal, Health, Tech Quiz' text="
 This quiz will draw equally from the lecture and bits of _HAE_ for today.
 "%}
 
@@ -188,7 +189,7 @@ This quiz will draw equally from the lecture and bits of _HAE_ for today.
 #### Noteworthy
 - Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122--48.
 
-{% include alert.html class='warning' title='Immigration Food Quiz' text="
+{% include alert.html class='danger' title='Immigration Food Quiz' text="
 Visit UNM Learn, and find the `quizzes` link on the left nav.
 "%}
 
