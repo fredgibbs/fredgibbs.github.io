@@ -189,11 +189,9 @@ This quiz will draw equally from the lecture and bits of _HAE_ for today.
 #### Noteworthy
 - Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122--48.
 
-{% include alert.html class='danger' title='Immigration Food Quiz' text="
-Visit UNM Learn, and find the `quizzes` link on the left nav.
+{% include alert.html class='danger' title='Reading Response' text="
+How would you describe the relationship between immigrant's food and American food? What were the motivations to Americanize immigrants' diets? How successful were such efforts?
 "%}
-
-
 
 
 
@@ -206,24 +204,27 @@ Visit UNM Learn, and find the `quizzes` link on the left nav.
 - Jeffrey M. Pilcher, “Tex-Mex, Cal-Mex, New Mex, or Whose Mex? Notes on the Historical Geography of Southwestern Cuisine”. _Journal of the Southwest_ 43.44 (2001): 659-–79.
 
 
-{% include alert.html class='warning' title='Reading Response' text="
+{% include alert.html class='warning' title='Readings Quiz' text="
+This quiz draws equally from both readings and focuses on food and identity in the Southwest
 "%}
 
 
 
 ## Jun 23
-### Convenience Food
-- Harvey A. Levenstein, _Paradox of Plenty_, 101--118 (7: Golden Age of Food Processing).
-- Harvey A. Levenstein, _Paradox of Plenty_, 227--236 (15: Fast Foods and Quick Bucks).
+### Food and Nature
 
-{% include alert.html class='warning' title='' text="
+
+#### Relevant Readings
+
+
+{% include alert.html class='warning' title='Lecture Quiz' text="
 "%}
 
 
 
 ## Jun 24
 ### Politics of Meat
-- Mini lecture to contextualize the next few days
+- Lecture on meat as lightning rod for basically every issue in food studies
 - Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
 - Jayson Lusk, [The Political Polarization of Meat Demand](http://jaysonlusk.com/blog/2019/4/23/the-political-polarization-of-meat-demand)
 - Meghan McCarron [I Want to Be a Non-Combatant in the Coming Burger Wars](https://www.eater.com/2019/3/18/18267816/burger-climate-change-political-weapon)
@@ -283,7 +284,8 @@ It's a bit silly to talk about whether culinary/cultural appropriation actually 
 - [When Male Chefs Fear the Specter of ‘Women’s Work’](https://www.eater.com/2017/11/30/16687914/toxic-masculinity-restaurants)
 
 
-{% include alert.html class='danger' title='Reading response' text="
+{% include alert.html class='warning' title='Readings Quiz' text="
+We've talked about food and identity in many ways already; this quiz covers the relationship between food and gender, including social dynamics of men and women in the food industry.
 "%}
 
 
@@ -317,7 +319,7 @@ No new reading for today! But start drafting your [Final Course Reflection](fina
 This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and to jump start your thinking on your Final Learning Reflection (see the very last day).
 
 
-{% include alert.html class='danger' title='Lecture quiz' text="
+{% include alert.html class='warning' title='Lecture quiz' text="
 For the last time (*sniff*), find the quiz at UNM Learn.
 "%}
 
@@ -325,3 +327,7 @@ For the last time (*sniff*), find the quiz at UNM Learn.
 
 ## July 3 (Saturday)
 Your FINAL Learning Reflection---over the WHOLE CLASS---is officially due today (but feel free to revise and submit it MONDAY). See the [Final Course Reflection Guide](final-course-reflections). I can't emphasize enough that this SHOULD NOT BE A SUMMARY of what we've covered. Instead, as the instructions explain in more detail, illustrate how your thinking about food has changed over the month, and how your submitted work justifies what you think should be your overall grade for the course.
+
+{% include alert.html class='danger' title='Final Course Reflection' text="
+Make sure to post your [Final Course Reflection](final-course-reflections) on the discussion board!
+"%}
