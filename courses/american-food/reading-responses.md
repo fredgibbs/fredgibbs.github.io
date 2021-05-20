@@ -2,7 +2,7 @@
 layout: syllabus
 course-title: History of American Food
 course-slug: american-food
-term: Summer 2020
+term: Summer 2021
 number: HIST 413
 section: links-guides
 ---
@@ -10,13 +10,13 @@ section: links-guides
 # Reading Responses
 
 ## Objective
-Rather than me trying to determine and assign a grade to how much you've learned from the reading assignment, you should just tell me what you thought about them. I'm interested learning in WHAT YOU THINK ABOUT THEM, not just getting a recap summary of the readings.
+There's almost always a prompt that asks a few related questions, and helps focus your attention on the readings, and you should answer them. HOWEVER, if you were really into the readings/topic and want to riff on a related theme, GO FOR IT! In either case, I'm interested learning in WHAT YOU THINK ABOUT THE IDEAS IN THE READINGS, not just in getting a summary of the readings.
 
 ## Basics
-- ~200--250 words
-- Informal, but free of typos and basic grammatical errors
+- ~300 words
 - Original thinking
-- Posted ON TIME at UNM Learn. On time means ideally the day it appears on the syllabus, but includes a grace period until the end of the following day.
+- Free of typos and basic grammatical errors
+- Posted ON TIME at UNM Learn, meaning the day it appears on the syllabus.
 
 ## Questions to think about
 - What ideas did you find most interesting?
@@ -30,16 +30,13 @@ Rather than me trying to determine and assign a grade to how much you've learned
 ## Reflect more than summarize
 I'm much more interested in reading about YOUR PERSONAL LEARNING EXPERIENCE than reading a summary of the assignment. Of course in describing what you found most interesting or what you disagreed with the most you'll end up restating some ideas from the reading. That's important! But this exercise is NOT about just regurgitating the readings or identifying the "most" important points---everyone will learn something different from them.
 
-## Don't forget your learning assessment (1-3)
-At the end of your post, evaluate your own effort for that day's readings using the following scale. Individual points seem like they don't matter all that much per each assignment, but they add up over the month!
+## Grading
+We use a consistent grading rubric for basic reading responses---and this should always be visible to you on Learn---but the criteria are basically:
 
-You can use half points! (.5, 1.5, 2.5); but don't do other fractions (1.8, 2.4, etc) because it leads to too much nit-picking.
+**Familiarity**: Do you have a sense of what's in the SET of READINGS? Completely ignoring one or more of the readings in your post is the easiest way to lose points for this category.
 
-- 0: You really can't give yourself a 0, because that's what you get when you don't submit a response.
-- 1: **Acceptable**. You skimmed the readings quickly and your response provides a coherent but rather simplistic description of what you learned. Look, it's pretty obvious if you're breezing through the readings and then just writing out an opinion in your post. AND THAT IS OKAY! Doing acceptable but not especially interesting work is nothing to be ashamed of. Own it. But don't do it all the time if you care about your grade.
-- 2: **Solid**. Read reasonably carefully, and your response shows you thinking critically about the ideas, arguments, and evidence presented. This is what most people should get most of the time because there is a lot of reading and everyone is busy. A typical post in this category will show familiarity with some of the readings (but not all of them), and have have a slippery (but at least somewhat) grounding in the readings.
-- 3: **Excellent**. This score indicates a comparatively excellent effort to understand the SET of readings and their relationship. Your reflection will make it obvious that you read most of the assignment carefully, and that you are critically RESPONDING to (not just summarizing) various complementary or conflicting ideas presented in the readings. Other should read your post and think: "oh that's interesting". Not "Oh, this person might have done the reading."
+**Clarity**: Can I understand what you're trying to say? This includes basic grammar issues like using clear paragraphs, avoiding run-on sentences, not starting every sentence with "this", etc. It also includes a logical progression of sentences within paragraphs. If your post looks like a giant text message, you won't get many points in this category.
 
-Remember that you are evaluating your effort for the assignment, not the absolute "quality" of your final response. If you spent a lot of effort learning from the readings, even if you feel your response doesn't sound particularly sophisticated, you can give yourself a 2.5 or 3.
+**Originality**: You don't need to win a Pulitzer prize with your essay, but you shouldn't just repeat what the readings say. Anyone with basic literacy can repeat what they read, and that doesn't show any kind of learning or thinking. Real learning means understanding it well enough to have something to say about it. You don't need to say something that's never been said! Originality here means saying something ABOUT the readings beyond what's in the readings themselves.
 
-Typically, over the course, students report mostly 2s with a bunch of 2.5s, some 3s, and a few 1s sprinkled in---and an occasional 0 for when life was unusually busy that day and an occasional 4 when they got really into something.
+**Length/Relevance**: Have you come close to the word count? Are you actually responding to the prompt or discussing something similar? These are grouped together as criteria because writing a lot that's off topic or writing a little that's on topic are pretty much the same to me.
