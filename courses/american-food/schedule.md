@@ -89,7 +89,7 @@ These readings give us some new perspectives on the idea of authenticity and cas
 - Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70-–74.
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/)
 
-{% include alert.html class='danger' title='Quiz' text="
+{% include alert.html class='warning' title='Reading Quiz' text="
 This quiz covers basics from the readings, but also has short answer questions about the various myths and meanings associated with Thanksgiving. How much does Thanksgiving reflect nationalism (of some people) and marginalization (of other people)?
 "%}
 
@@ -147,7 +147,7 @@ The below readings will help you do the upcoming [Cookbook Analysis](cookbook-an
 - Mary Randolph [The Virginia Housewife](https://books.google.com/books?id=R4YEAAAAYAAJ)
 - Eliza Leslie, [Miss Leslie\'s Complete Cookery](https://books.google.com/books?id=KVL5oJA8IWsC)
 
-{% include alert.html class='danger' title='Using cookbooks as sources' text="
+{% include alert.html class='warning' title='Cookbooks as Sources Quiz' text="
 This quiz highlights and emphasizes some ideas from the lecture and readings about HOW to use cookbooks as historical sources. It tries to ensure you are ready to do well on your assignment due tomorrow!
 "%}
 
