@@ -16,6 +16,13 @@ All posted assignments are technically "due" on the day they are listed so that 
 ### Video lectures
 All video lectures are posted on the [course YouTube channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig), and I will link to them on the syllabus as they become available. If you want announcements of new videos, please subscribe to the channel.
 
+### Read/watch in order
+I list the readings/videos in the order I think it will be most useful to you to move through them. Usually, the earlier readings (or videos) introduce some ideas that get elaborated on in later readings. Going out of order can make things much more confusing.
+
+### Noteworthy is optional
+Most days have a "noteworthy" section that lists a few relevant readings on the topic. These are optional! Some are just leftover from previous iterations of the course; some I draw from for lectures; others I just can't bring myself to totally delete from the syllabus. I hope you'll skim through any that seem interesting to you (and I hope you'll mention them in your posts so you can get credit for that work).
+
+
 
 # Week 1
 
@@ -54,12 +61,12 @@ This will cover the lecture and Haley reading.
 ### National Cuisine & American Food
 - _HAE_, xi--xv.
 - _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
-- Sidney Mintz, "Eating American".
 - Ruth Tobias, [Is There Such a Thing as ‘American’ Food?](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)
-- Alison K. Smith, [National Cuisines](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-25), from _The Oxford Handbook of Food History_ (2012).
+- Sidney Mintz, "Eating American".
+- Alison K. Smith, [National Cuisines](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-25), from _The Oxford Handbook of Food History_ (2012). You can read more quickly over the long Russia example if you want, as the details don't much matter. But do read the last paragraph.
 
 {% include alert.html class='danger' title='Reading response' text="
-First, make sure you're familiar with the [reading response guide](reading-responses). What were the most compelling arguments from the readings about how to define national food? How have YOU defined American food? What kinds of values and/or assumptions went into that?
+First, make sure you're familiar with the [reading response guide](reading-responses). What were the most compelling ideas from the SET readings about how to define national food? What ideas had you maybe not considered before? Main question for today: Do you think Smith would agree with Mintz that there really isn't an American cuisine?
 "%}
 
 
@@ -72,10 +79,11 @@ First, make sure you're familiar with the [reading response guide](reading-respo
 
 #### Noteworthy
 - Sara Kay, [Yelp Reviewers’ Authenticity Fetish Is White Supremacy in Action](https://ny.eater.com/2019/1/18/18183973/authenticity-yelp-reviews-white-supremacy-trap)
+- Rachel Laudan, [Desperately Seeking Authenticity](https://www.latimes.com/archives/la-xpm-2001-dec-19-fo-16368-story.html)
 
 
 {% include alert.html class='danger' title='Reading response' text="
-These readings give us some new perspectives on the idea of authenticity and cast some (if not significant) doubt on the value of the concept. How is it useful? How is it not? Why do many (if not most people) care still about it? What does it say about those who value it?
+These readings give us some new perspectives on the idea of authenticity and cast some (if not significant) doubt on the value of the concept. How is it useful? How is it not? Why do many (if not most people) care still about it? What does it say about those who value it? MAIN QUESTION: Alexander's article is provocative and fun and sometimes smart. But would it be even smarter if it incorporate more of Furrow's ideas?
 "%}
 
 
@@ -130,13 +138,12 @@ This quiz covers the role of food in Revolutionary America, both in terms of act
 ## Jun 16
 ### Cookbooks as historical sources
 The below readings will help you do the upcoming [Cookbook Analysis](cookbook-analysis) assignment. So read them with USING them in mind, not for writing a response about them.
-
 - Lecture on the cultural value of cookbooks and how to analyze them
 - Ken Albala, [Cookbooks as Historical Documents](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-13).
-- Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_ (2: Culinary Tradition), 29-51. This provides a fascinating cultural background of cookbooks and their evolution. Honestly the first few sentences of each paragraph will give you enough background.
+- Rachel A. Snell, [As North American as Pumpkin Pie: Cookbooks and the Development of National Cuisine in North America, 1796-1854](https://www.erudit.org/fr/revues/cuizine/2014-v5-n2-cuizine01533/1026771ar/).
 
 #### Noteworthy
-- Rachel A. Snell, [As North American as Pumpkin Pie: Cookbooks and the Development of National Cuisine in North America, 1796-1854](https://www.erudit.org/fr/revues/cuizine/2014-v5-n2-cuizine01533/1026771ar/).
+- Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_ (2: Culinary Tradition), 29-51. This provides a fascinating cultural background of cookbooks and their evolution. Honestly the first few sentences of each paragraph will give you enough background.
 - Harry Haff, _The Founders of American Cuisine: Seven Cookbook Authors, with Historical Recipes_ (2: Amelia Simmons), 21--33. Note in particular how the author analyzes Simmons's cookbook. This is what you'll be doing for your assignment.
 - Colleen Cotter, "Claiming a Piece of the Pie", 51--68.
 - Jane C. Busch, "Using Cookbooks as Research Documents", 22--25.

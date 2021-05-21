@@ -10,7 +10,9 @@ section: links-guides
 # Reading Responses
 
 ## Objective
-There's almost always a prompt that asks a few related questions, and helps focus your attention on the readings, and you should answer them. HOWEVER, if you were really into the readings/topic and want to riff on a related theme, GO FOR IT! In either case, I'm interested learning in WHAT YOU THINK ABOUT THE IDEAS IN THE READINGS, not just in getting a summary of the readings.
+There's almost always a prompt that asks a few related questions, and helps focus your attention on the readings, and you should answer them. HOWEVER, if you were really into the readings/topic and want to riff on a related theme, GO FOR IT!
+
+In either case, the main point of these responses is to show me that you've done the readings carefully enough that you can compose a thoughtful response to the prompt BASED ON THE READINGS.
 
 ## Basics
 - ~300 words
@@ -33,10 +35,10 @@ I'm much more interested in reading about YOUR PERSONAL LEARNING EXPERIENCE than
 ## Grading
 We use a consistent grading rubric for basic reading responses---and this should always be visible to you on Learn---but the criteria are basically:
 
-**Familiarity**: Do you have a sense of what's in the SET of READINGS? Completely ignoring one or more of the readings in your post is the easiest way to lose points for this category.
+**Familiarity**: Do you communicate a sense of what's in the SET of READINGS? Completely ignoring one or more of the readings in your post is the easiest way to lose points for this category.
 
 **Clarity**: Can I understand what you're trying to say? This includes basic grammar issues like using clear paragraphs, avoiding run-on sentences, not starting every sentence with "this", etc. It also includes a logical progression of sentences within paragraphs. If your post looks like a giant text message, you won't get many points in this category.
 
 **Originality**: You don't need to win a Pulitzer prize with your essay, but you shouldn't just repeat what the readings say. Anyone with basic literacy can repeat what they read, and that doesn't show any kind of learning or thinking. Real learning means understanding it well enough to have something to say about it. You don't need to say something that's never been said! Originality here means saying something ABOUT the readings beyond what's in the readings themselves.
 
-**Length/Relevance**: Have you come close to the word count? Are you actually responding to the prompt or discussing something similar? These are grouped together as criteria because writing a lot that's off topic or writing a little that's on topic are pretty much the same to me.
+**Length/Relevance**: Have you come close to the word count? Are you actually responding to the prompt or discussing something similar? These are grouped together as criteria because writing a lot that's off topic or writing a little that's on topic are pretty much the same to me as far as grading goes.
