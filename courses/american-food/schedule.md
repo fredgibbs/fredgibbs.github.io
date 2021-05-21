@@ -59,7 +59,7 @@ This will cover the lecture and Haley reading.
 - Alison K. Smith, [National Cuisines](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-25), from _The Oxford Handbook of Food History_ (2012).
 
 {% include alert.html class='danger' title='Reading response' text="
-First, make sure you're familiar with the [reading response guide](reading-responses). What were the most compelling arguments from the readings about how to define national food?
+First, make sure you're familiar with the [reading response guide](reading-responses). What were the most compelling arguments from the readings about how to define national food? How have YOU defined American food? What kinds of values and/or assumptions went into that?
 "%}
 
 
@@ -108,7 +108,7 @@ This quiz covers basics from the readings, but also has short answer questions a
 - John Lawerence, [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/#.YJ7o-GZKixs)
 
 {% include alert.html class='warning' title='Reading Quiz' text="
-This quiz covers early food consumption in America and how food and personal/community/national identity are intertwined.
+This quiz covers early food consumption in America, how food and personal/community/national identity are intertwined (as we see in attitudes about corn) and how meanings of food can be utterly transformed over time.
 "%}
 
 
@@ -164,7 +164,6 @@ Follow the [Cookbook Analysis Guide](cookbook-analysis).
 ### Cereal, Health, Technology
 Not much reading today, but an interesting early connection between health, technology, and nature that still influences our food choices.
 - Lecture on changing 19th century food production and cereal as the embodiment of American Food.
-- _HAE_, 89--110 (4: Technology and Taste).
 - _HAE_, 143--55 (6: Pious and Patriotic Stomach).
 
 #### Noteworthy
@@ -212,10 +211,12 @@ This quiz draws equally from both readings and focuses on food and identity in t
 
 ## Jun 23
 ### Food and Nature
-
+- _HAE_, 89--110 (4: Technology and Taste).
+- Lecture
+This lecture covers the relationship between the general categories of "food" and "nature" and how that relationship reflects humans relationship to nature generally.
 
 #### Relevant Readings
-
+- Frederick L. Kirschenmann, "Food as Relationship", _Journal of Hunger & Environmental Nutrition_, 3:2-3, 106-121.
 
 {% include alert.html class='warning' title='Lecture Quiz' text="
 "%}
@@ -237,7 +238,7 @@ This wide-ranging quiz test your familiarity with the arguments presented in the
 
 ## Jun 25 (Fri)
 ### Health and Environmentalism (of Meat)
-- Lecture on competing meat claims
+- Lecture on comparing competing meat claims
 - Diana Rodgers, [Meat is Magnificent: Water, Carbon, Methane & Nutrition](https://sustainabledish.com/meat-is-magnificent/)
 - Christina Sewell, [Removing the Meat Subsidy: Our Cognitive Dissonance Around Animal Agriculture](https://jia.sipa.columbia.edu/removing-meat-subsidy-our-cognitive-dissonance-around-animal-agriculture)
 - Nick Martin, [There Is No War on Meat. There Should Be.](https://newrepublic.com/article/162180/no-war-meat-be)
@@ -254,7 +255,6 @@ Why is the discussion about eating meat so complicated? This simple question sho
 
 ## Jun 28
 ### Culinary Appropriation
-
 - Cynthia R. Greenlee, [Innovation and the incinerated tongue: Notes on hot chicken, race, and culinary crossover](https://thecounter.org/hot-chicken-race-culinary-crossover-nashville-tennessee-black-food-rachel-martin/)
 - George Chesterton, [Cultural appropriation: everything is culture and it’s all appropriated](https://www.gq-magazine.co.uk/article/the-trouble-with-cultural-appropriation), _GQ_ (Sep 1, 2020).
 - Jess Kapadia, [I Still Don’t Understand The Cultural Appropriation Of Food](https://www.foodrepublic.com/2017/06/01/cultural-appropriation-food/), _Food Republic_.
