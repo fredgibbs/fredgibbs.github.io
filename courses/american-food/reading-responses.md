@@ -16,9 +16,9 @@ In either case, the main point of these responses is to show me that you've done
 
 ## Basics
 - ~300 words
-- Original thinking
-- Free of typos and basic grammatical errors
-- Posted ON TIME at UNM Learn, meaning the day it appears on the syllabus.
+- Follows the grading rubric (summarized below)
+- Posted ON TIME at UNM Learn, meaning the day it appears on the syllabus
+- Asks at least 1 (more is fine!) thoughtful question about the reading/topic
 
 ## Questions to think about
 - What ideas did you find most interesting?

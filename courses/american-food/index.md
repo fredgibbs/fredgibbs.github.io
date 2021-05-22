@@ -60,6 +60,8 @@ The little equations after the assignment type indicates `number of assignments`
 
 So you can expect around 320 points, but quizzes are sometimes a bit more or less than 10 points and I may swap out one kind of assignment for another, which may slightly change the point total. Your "grade" is determined by percent, as indicated below. To keep up with grading for a large class that has a lot of assignments in a short time, all grading is done through assignment rubrics so that you get a better sense of what I'm looking for and how I think you're doing without me having to write out virtually identical comments over and over again.
 
+The quizzes are mostly straightforward, but not trivial. The goal is to make you THINK CAREFULLY and CRITICALLY about course material. Sometimes I ask deliberately vague questions that don't really have a right answer because I am using the questions to highlight an important ambiguity.  These questions won't count toward your grade, but you won't know which questions count or not. Because this class is about interpretation and argument, you are encouraged to debate on the discussion board ANY quiz question marked as incorrect. If you contribute something original to the discussion (not just, "I agree with the last response!"), you can get extra credit.
+
 The [schedule page](schedule) indicates all due dates for course work; all assignments should be posted to UNM Learn by the end of the day they are listed (by midnight).
 
 
