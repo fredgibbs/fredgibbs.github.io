@@ -17,10 +17,10 @@ All posted assignments are technically "due" on the day they are listed so that 
 All video lectures are posted on the [course YouTube channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig), and I will link to them on the syllabus as they become available. If you want announcements of new videos, please subscribe to the channel.
 
 ### Read/watch in order
-I list the readings/videos in the order I think it will be most useful to you to move through them. Usually, the earlier readings (or videos) introduce some ideas that get elaborated on in later readings. Going out of order can make things much more confusing.
+I list the readings/videos in the order I think it will be most useful to you. Usually, the earlier readings (or videos) introduce some ideas that get elaborated on in later readings. Going out of order can make things much more confusing, but of course you're free to work through the readings however you wish.
 
 ### Noteworthy is optional
-Most days have a "noteworthy" section that lists a few relevant readings on the topic. These are optional! Some are just leftover from previous iterations of the course; some I draw from for lectures; others I just can't bring myself to totally delete from the syllabus. I hope you'll skim through any that seem interesting to you (and I hope you'll mention them in your posts so you can get credit for that work).
+Most days have a "noteworthy" section that lists a few relevant readings on the topic. These are optional! Most have some good ideas that I'll mention in the videos; others are there just for additional materials and extra credit opportunities. I hope you'll skim through any that seem interesting to you (and I hope you'll mention them in your posts so you can get credit for that work).
 
 
 
@@ -28,7 +28,7 @@ Most days have a "noteworthy" section that lists a few relevant readings on the 
 
 ## Jun 7
 - Course Intro + Why Food Video
-- Warren Belasco, "Why study food?", from _Food: The Key Concepts_ (Oxford University Press, 2008): 1--13.
+- Warren Belasco, "Why study food?", from _Food: The Key Concepts_ (Oxford University Press, 2008): 1--13. Note the last couple pages are about eating meat (and seems a bit shaded against it, IMO). But Belasco misses a couple major points when talking about both the benefits and consequences of eating meat. On the quiz for today, plan to articulate what you think he is **not** addressing---but should---in that section. Hint: Does it have anything to do with his definition of "meat"?
 
 
 {% include alert.html class='warning' title='UNM Learn quiz' text="
@@ -61,12 +61,12 @@ This will cover the lecture and Haley reading.
 ### National Cuisine & American Food
 - _HAE_, xi--xv.
 - _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
-- Ruth Tobias, [Is There Such a Thing as ‘American’ Food?](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)
 - Sidney Mintz, "Eating American".
 - Alison K. Smith, [National Cuisines](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-25), from _The Oxford Handbook of Food History_ (2012). You can read more quickly over the long Russia example if you want, as the details don't much matter. But do read the last paragraph.
+- Ruth Tobias, [Is There Such a Thing as ‘American’ Food?](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)
 
 {% include alert.html class='danger' title='Reading response' text="
-First, make sure you're familiar with the [reading response guide](reading-responses). What were the most compelling ideas from the SET readings about how to define national food? What ideas had you maybe not considered before? Main question for today: Do you think Smith would agree with Mintz that there really isn't an American cuisine?
+First, make sure you're familiar with the [reading response guide](reading-reflections). Do you think Smith would agree with Mintz that there really isn't an American cuisine?
 "%}
 
 
@@ -91,10 +91,10 @@ These readings give us some new perspectives on the idea of authenticity and cas
 ## Jun 11 (Fri)
 ### Cuisines of Contact & Thanksgiving
 - _HAE_, 1--11 (from 1: Cuisine of Contact).
-- Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167–-91.
+- Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167--91.
 
-#### For reference
-- Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70-–74.
+#### Noteworthy
+- Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70--74.
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/)
 
 {% include alert.html class='warning' title='Reading Quiz' text="
@@ -222,7 +222,7 @@ This quiz draws equally from both readings and focuses on food and identity in t
 - Lecture
 This lecture covers the relationship between the general categories of "food" and "nature" and how that relationship reflects humans relationship to nature generally.
 
-#### Relevant Readings
+#### Noteworthy
 - Frederick L. Kirschenmann, "Food as Relationship", _Journal of Hunger & Environmental Nutrition_, 3:2-3, 106-121.
 
 {% include alert.html class='warning' title='Lecture Quiz' text="
@@ -265,7 +265,7 @@ Why is the discussion about eating meat so complicated? This simple question sho
 - Cynthia R. Greenlee, [Innovation and the incinerated tongue: Notes on hot chicken, race, and culinary crossover](https://thecounter.org/hot-chicken-race-culinary-crossover-nashville-tennessee-black-food-rachel-martin/)
 - George Chesterton, [Cultural appropriation: everything is culture and it’s all appropriated](https://www.gq-magazine.co.uk/article/the-trouble-with-cultural-appropriation), _GQ_ (Sep 1, 2020).
 - Jess Kapadia, [I Still Don’t Understand The Cultural Appropriation Of Food](https://www.foodrepublic.com/2017/06/01/cultural-appropriation-food/), _Food Republic_.
-- Sarah Handley-Cousins, [Slavery & Soul Food: African Crops and Enslaved Cooks in the History of Southern Cuisine](https://digpodcast.org/2020/07/26/soul-food/). Listen or read.
+- Sarah Handley-Cousins, [Slavery & Soul Food: African Crops and Enslaved Cooks in the History of Southern Cuisine](https://digpodcast.org/2020/07/26/soul-food/). Listen or read the transcript.
 
 
 #### Noteworthy
@@ -274,7 +274,9 @@ Why is the discussion about eating meat so complicated? This simple question sho
 
 
 {% include alert.html class='danger' title='Reading response' text="
-It's a bit silly to talk about whether culinary/cultural appropriation actually happens (it does), or whether it's just some people being overly sensitive (it is), or whether it can be an (inadvertent) tool of marginalization (it can). BASED ON, but not repeating, the articles: how much is too much?
+Personally, I find most culinary appropriation conversations to be unhelpfully superficial. It is pointless to debate whether culinary/cultural appropriation actually happens (it does), or whether it's just some people being overly sensitive (it is), or whether it can be an (inadvertent) tool of marginalization (it can). These are non-debateable facts. But what is really happening? And what does it really matter?
+
+Use the articles for this week to evaluate a claim we read a few weeks ago from Ruth Tobias ([here](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)): "The difference between adaptation and appropriation is one of privilege--the privilege to control and inevitably whitewash the narrative surrounding a given dish." How is this statement correct? How is it lacking? BE SURE YOU USE THE READINGS TO SUPPORT YOUR ANSWER!
 "%}
 
 
@@ -320,7 +322,7 @@ See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the c
 
 
 ## July 2 (Friday)
-No new reading for today! But start drafting your [Final Course Reflection](final-course-reflections). These are TECHNICALLY due tomorrow (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY to make it nice. You can of course submit it whenever you'd like.
+No new reading for today! But start drafting your [Final Course Reflection](final-course-reflection). These are TECHNICALLY due tomorrow (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY to make it nice. You can of course submit it whenever you'd like.
 
 - Final wrap-up lecture
 This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and to jump start your thinking on your Final Learning Reflection (see the very last day).

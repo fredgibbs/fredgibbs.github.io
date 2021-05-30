@@ -13,7 +13,7 @@ section: home
 - HIST 413
 - Summer 2021
 - 3 Credit Hours
-- Web remote (asynchronous; no set meeting time)
+- Remote asynchronous (ie no set meeting times)
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
 
 ## Getting Started
@@ -30,15 +30,16 @@ Some questions we'll tackle: What have Americans eaten over time? Why? How do we
 
 
 ## Student Learning Objectives
-- Understand how attitudes toward food are influenced by shifting cultural, social, religious, scientific, and political values
-- Think critically about how various people at various times have discussed what to eat and why
-- Understand how different historians construct very different histories of American food and its significance
+- Describe how food shapes identities at various scales from the personal to the national.
+- Give historic examples of how attitudes toward food are influenced by shifting cultural, social, religious, scientific, and political values
+- Become more critical consumers of writing about food, whether about cooking, dieting, authenticity, appropriation, production, etc.
 
 
-## Tech tools
-- [UNM Learn](http://learn.unm.edu). All assignments will be submitted via UNM Learn.
-- [Zotero](http://zotero.org); see the [getting started guide](http://fredgibbs.net/courses/etc/zotero); once connected you can access the [course library](https://www.zotero.org/groups/2499167/american-food-unm/library).
+## Where to find stuff
+- [Syllabus](http://fredgibbs.net/courses/american-food). You're already here! Remember there are two pages: this one and the [schedule](schedule) page.
+- [UNM Learn](http://learn.unm.edu). All assignments will be submitted via UNM Learn. The left nabe bar has links to everything you need as well.
 - [YouTube Channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig) will host lectures and other screencasts. I put links to everything on the syllabus once they are uploaded, but I don't barge into your inbox just to tell you there's a new video. If you want such notifications, you can subscribe to the Channel and get them automatically.
+- For readings, we use a tool called [Zotero](http://zotero.org), but you need to create a free account and request to join our group library. It's a super quick process, and the `Course readings and books` section below has all the details.
 
 
 ## Work Requirements
@@ -52,13 +53,15 @@ Not having actual class meetings (as the course normally does) deprives us of so
 
 ### Required
 The little equations after the assignment type indicates `number of assignments` x `points for each` = `total points`
-- [Reading/lecture reflections](reading-responses) (7x15 = 100) [actually 105, but rounding down gives you free points]
+- [Reading/lecture reflections](reading-reflections) (7x15 = 100) [actually 105, but rounding down gives you free points]
 - Reading/lecture quizzes (10x10 = 100)
 - [Early cookbook analysis](cookbook-analysis) (1x30 = 30)
 - [Food blog analysis](food-blog-analysis) (1x30 = 30)
-- [Final learning reflection](learning-reflections) (1x40 = 60)
+- [Final learning reflection](final-course-reflection) (1x40 = 60)
 
-So you can expect around 320 points, but quizzes are sometimes a bit more or less than 10 points and I may swap out one kind of assignment for another, which may slightly change the point total. Your "grade" is determined by percent, as indicated below. To keep up with grading for a large class that has a lot of assignments in a short time, all grading is done through assignment rubrics so that you get a better sense of what I'm looking for and how I think you're doing without me having to write out virtually identical comments over and over again.
+So you can expect around 320 points, but quizzes are sometimes a bit more or less than 10 points and I may swap out one kind of assignment for another, which may slightly change the point total. Your grade is determined by percent, as indicated below. To keep up with grading for a large class that has a lot of assignments in a short time, all grading is done through assignment rubrics so you get at least some feedback more quickly.  
+
+There are two TAs for the course who mostly help with scoring your submitted work and providing some feedback on your assignments. But in a 60+ person class, we're not going to be able to provide substantive comments to everyone for every assignment. If you ever want more feedback, PLEASE EMAIL ME and ask for it. I will be more than happy to chat with you about course material or how you're doing in the course. But with so many people in the class, YOU HAVE TO ASK. I hope you will!
 
 The quizzes are mostly straightforward, but not trivial. The goal is to make you THINK CAREFULLY and CRITICALLY about course material. Sometimes I ask deliberately vague questions that don't really have a right answer because I am using the questions to highlight an important ambiguity.  These questions won't count toward your grade, but you won't know which questions count or not. Because this class is about interpretation and argument, you are encouraged to debate on the discussion board ANY quiz question marked as incorrect. If you contribute something original to the discussion (not just, "I agree with the last response!"), you can get extra credit.
 
@@ -84,27 +87,35 @@ Percent | Grade
 
 
 ### Submitting Work
-All work must be posted to the Discussion Board on UNM Learn by midnight on the day it appears on the syllabus. I don't care if you post at 12:05 or even 1am, so don't stress about that. Everyone is welcome to more time on assignments BUT YOU HAVE TO SEND ME AN EMAIL TO LET ME KNOW. Otherwise your work will be considered late and will be docked 1 point per day. I don't like being draconian about deadlines but the class moves so fast that falling behind even a little quickly spirals out of control. If you need to pause the class for a few days because of some emergency, we can work it out. Please get in touch!
+All quizzes or discussion board posts must be submitted via UNM Learn by MIDNIGHT on the day it appears on the syllabus. I don't care if you post at 12:05am or even 1am, so don't stress about that, but be sure you post before you go to bed.
+
+Everyone is welcome to a little extra time on assignments BUT YOU HAVE TO SEND ME AN EMAIL TO LET ME KNOW. Otherwise your work will be considered late and will be docked 1 point per day. After one week, you get a permanent ZERO for the assignment. I don't like being draconian about deadlines but the class moves so fast that falling behind even a little can quickly spiral out of control. If you are doing reasonably well in the class, missing one basic assignment at some point doesn't even matter.
+
+If you need to pause the class for a few days because of some emergency, we can work it out (more on this below). Please get in touch!
 
 
 ### Work towards your wants and ask for more feedback
-Some of you just want a C to fulfill a UNM requirement. Some of you want a B to maintain a solid GPA. Some of you want an A because top grades are really important to you. You all already know what your own average, good, or excellent effort feels like. So put in the work that justifies the grade you want for each assignment. If you're not getting the scores you want, LET ME KNOW. I'm not going to just start giving you higher scores, but there might be some minor tweaks that could go a long way. I want to do everything I can to ensure that the work you're putting in matches the grade you're getting.
+Some of you just want a C to fulfill a UNM requirement. Some of you want a B to maintain a solid GPA. Some of you want an A because top grades are really important to you. You all already know what your own average, good, or excellent effort feels like and what grade you are likely to get with that effort. So put in the work that justifies the grade you want for each assignment. If you're not getting the scores you want, LET ME KNOW. Often a few minor tweaks go a long way towards improving your scores. I see it every semester. Please know I want to do everything I can to ensure that the work you're putting in matches the grade you're getting.
 
 
-### Extra Credit (all due on the Monday after the last day of class)
-- [Food Documentary Critique](film-analysis) (6 points)
-- Extra credit is only available if all other work is turned in on time, and should be emailed to me directly.
+### Extra Credit
+- You can get more than the "maximum" number of points on almost any written assignment by going above and beyond the requirements. Posts that seem to have significant analytical depth to them (usually this means writing a bit more than the minimum) or unusually insightful analysis will get bonus points (usually up to 4). If you're really into a topic and have a little extra time for an assignment, it's an easy way to make sure you're on track for the grade you want.
+- Most quizzes, too, have a few questions that are extra credit. You can of course skip these without any penalty, but it's an easy chance for points.
+- If you are worried you are falling just short of a grade you're aiming for, there is an easy way to ensure you get it! Do a [Food Documentary Critique](food-documentary-critique) (worth up to 10 points). CAVEAT: you can do this ONLY if all other work is turned in on time. This should be emailed to me directly by July 5 (when all course work is due).
+
 
 ### Please Don't Drift Away
-If life gets overwhelming during the course (and _something_ will come up over the month), it's easy to drift away from an intensive elective course like this, especially an online course. PLEASE DON'T! Rather than disappear, let's talk about how we can accommodate your circumstances, including figuring out a target grade, reduced assignments, switching to CR/NC grade mode, etc.
+If life gets overwhelming during the course (and _something_ will come up over the month), it's easy to drift away from an intensive elective course like this, especially an online course. PLEASE DON'T! Rather than disappear, let's talk about how we can accommodate your circumstances, including shifting deadlines, figuring out a target grade that you can meet with reduced assignments, switching to CR/NC grade mode, taking an Incomplete to buy a little extra time, etc. Let's at least talk about it.
 
 
-## Course Readings and Books
-Most of the reading for the course are book chapters, short articles, blog posts, and the like. These are accessible through a platform called Zotero. All relevant directions are [posted here](http://fredgibbs.net/courses/etc/zotero). Once you've completed those steps, you can access our course readings [here](https://www.zotero.org/groups/2499167/american-food-unm/library).
+## Readings and Books
+Most of the reading for the course are book chapters, short articles, and blog posts. Everything not already accessible online (like blog posts) are accessible through a platform called Zotero. Directions are [posted here](http://fredgibbs.net/courses/etc/zotero). When following the directions, you'll be instrcuted to click over to our [Zotero Group homepage](https://www.zotero.org/groups/2499167/american-food-unm/) to click a red "Join" button.
 
-In addition, a crucial aspect of this course is learning how to read critically about food across a variety of forms, including books. _How America Eats_ is our month-long guide that we read bit by bit (and slightly out of order for reasons that will become clear) throughout the course.
+Once you've completed the steps and joined the library, you can access our course readings most easily via our [Group Library page](https://www.zotero.org/groups/2499167/american-food-unm/library). Note the Group Library page is distinct from the Zotero Group homepage above.
 
-- Wallach, Jennifer Jensen  _How America Eats: A Social History of U.S. Food and Culture_ (Rowman & Littlefield Publishers, 2014). [online](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results)
+In addition to separate articles and book chapters, we have one sort of textbook that we use to keep everything connected: _How America Eats_ is our month-long guide that we read bit by bit (and slightly out of order for reasons that will become clear) throughout the course. This book is freely available through UNM Libaries (the link below should ask you to log in with UNM credentials). If you don't want to read the whole thing online, there are many cheap copies available online.
+
+- Jennifer Jensen Wallach, _How America Eats: A Social History of U.S. Food and Culture_ (Rowman & Littlefield Publishers, 2014). [online](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results)
 
 
 ### Familiarity over mastery
