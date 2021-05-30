@@ -219,8 +219,7 @@ This quiz draws equally from both readings and focuses on food and identity in t
 ## Jun 23
 ### Food and Nature
 - _HAE_, 89--110 (4: Technology and Taste).
-- Lecture
-This lecture covers the relationship between the general categories of "food" and "nature" and how that relationship reflects humans relationship to nature generally.
+- Lecture on the relationship between the general categories of "food" and "nature" and how that relationship reflects humans relationship to nature generally.
 
 #### Noteworthy
 - Frederick L. Kirschenmann, "Food as Relationship", _Journal of Hunger & Environmental Nutrition_, 3:2-3, 106-121.
@@ -276,9 +275,8 @@ Why is the discussion about eating meat so complicated? This simple question sho
 {% include alert.html class='danger' title='Reading response' text="
 Personally, I find most culinary appropriation conversations to be unhelpfully superficial. It is pointless to debate whether culinary/cultural appropriation actually happens (it does), or whether it's just some people being overly sensitive (it is), or whether it can be an (inadvertent) tool of marginalization (it can). These are non-debateable facts. But what is really happening? And what does it really matter?
 
-Use the articles for this week to evaluate a claim we read a few weeks ago from Ruth Tobias ([here](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)): "The difference between adaptation and appropriation is one of privilege--the privilege to control and inevitably whitewash the narrative surrounding a given dish." How is this statement correct? How is it lacking? BE SURE YOU USE THE READINGS TO SUPPORT YOUR ANSWER!
+Use the articles for this week to evaluate a claim we read a few weeks ago from Ruth Tobias ([here](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)): \"The difference between adaptation and appropriation is one of privilege--the privilege to control and inevitably whitewash the narrative surrounding a given dish.\" How is this statement correct? How is it lacking? BE SURE YOU USE THE READINGS TO SUPPORT YOUR ANSWER!
 "%}
-
 
 
 

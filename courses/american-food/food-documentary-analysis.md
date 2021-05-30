@@ -2,7 +2,7 @@
 layout: syllabus
 course-title: History of American Food
 course-slug: american-food
-term: Summer 2020
+term: Summer 2021
 number: HIST 413
 section: links-guides
 ---

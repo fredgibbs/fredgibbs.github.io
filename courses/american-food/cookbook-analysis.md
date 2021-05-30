@@ -2,13 +2,13 @@
 layout: syllabus
 course-title: History of American Food
 course-slug: american-food
-term: Summer 2020
+term: Summer 2021
 number: HIST 413
 section: links-guides
 ---
 
 # Cookbook Analysis Guide
-Pick a book from [here](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis;sort=date_a;sz=100), but make sure it's not one we've already discussed. It is well worth your time to find a book that piques your interest somehow. Spending 5-10 minutes finding a book that you actually find interesting make the assignment MUCH easier and more effective as a learning exercise.
+Pick a book from [this collection](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis;sort=date_a;sz=100), and make sure it's from the 1800s. It is well worth your time to find a book that piques your interest somehow. Spending 5-10 minutes finding a book that you actually find interesting make the assignment MUCH easier and more effective as a learning exercise.
 
 
 ## Basic Goals
@@ -28,7 +28,6 @@ Pick a book from [here](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listi
 - How much does history or tradition matter to the author or recipes?
 - What does it contribute to an understanding of "American Food" at the time it was published?
 - What is your overall impression of the cookbook? What is most interesting? Unexpected?
-
 
 
 ## References and Citations
