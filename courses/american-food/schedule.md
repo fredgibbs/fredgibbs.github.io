@@ -217,54 +217,12 @@ This quiz draws equally from both readings and focuses on food and identity in t
 
 
 ## Jun 23
-### Food and Nature
-- _HAE_, 89--110 (4: Technology and Taste).
-- Lecture on the relationship between the general categories of "food" and "nature" and how that relationship reflects humans relationship to nature generally.
-
-#### Noteworthy
-- Frederick L. Kirschenmann, "Food as Relationship", _Journal of Hunger & Environmental Nutrition_, 3:2-3, 106-121.
-
-{% include alert.html class='warning' title='Lecture Quiz' text="
-"%}
-
-
-
-## Jun 24
-### Politics of Meat
-- Lecture on meat as lightning rod for basically every issue in food studies
-- Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
-- Jayson Lusk, [The Political Polarization of Meat Demand](http://jaysonlusk.com/blog/2019/4/23/the-political-polarization-of-meat-demand)
-- Meghan McCarron [I Want to Be a Non-Combatant in the Coming Burger Wars](https://www.eater.com/2019/3/18/18267816/burger-climate-change-political-weapon)
-
-{% include alert.html class='warning' title='Quiz' text="
-This wide-ranging quiz test your familiarity with the arguments presented in the readings---read carefully and don't over simplify!
-"%}
-
-
-
-## Jun 25 (Fri)
-### Health and Environmentalism (of Meat)
-- Lecture on comparing competing meat claims
-- Diana Rodgers, [Meat is Magnificent: Water, Carbon, Methane & Nutrition](https://sustainabledish.com/meat-is-magnificent/)
-- Christina Sewell, [Removing the Meat Subsidy: Our Cognitive Dissonance Around Animal Agriculture](https://jia.sipa.columbia.edu/removing-meat-subsidy-our-cognitive-dissonance-around-animal-agriculture)
-- Nick Martin, [There Is No War on Meat. There Should Be.](https://newrepublic.com/article/162180/no-war-meat-be)
-
-
-{% include alert.html class='danger' title='Reading Response' text="
-Why is the discussion about eating meat so complicated? This simple question should allow you to range over the VARIETY of readings. The lectures are essential for not making huge mistakes in your analysis.
-"%}
-
-
-
-
-# Week 4
-
-## Jun 28
 ### Culinary Appropriation
 - Cynthia R. Greenlee, [Innovation and the incinerated tongue: Notes on hot chicken, race, and culinary crossover](https://thecounter.org/hot-chicken-race-culinary-crossover-nashville-tennessee-black-food-rachel-martin/)
 - George Chesterton, [Cultural appropriation: everything is culture and it’s all appropriated](https://www.gq-magazine.co.uk/article/the-trouble-with-cultural-appropriation), _GQ_ (Sep 1, 2020).
 - Jess Kapadia, [I Still Don’t Understand The Cultural Appropriation Of Food](https://www.foodrepublic.com/2017/06/01/cultural-appropriation-food/), _Food Republic_.
 - Sarah Handley-Cousins, [Slavery & Soul Food: African Crops and Enslaved Cooks in the History of Southern Cuisine](https://digpodcast.org/2020/07/26/soul-food/). Listen or read the transcript.
+
 
 
 #### Noteworthy
@@ -281,7 +239,7 @@ Use the articles for this week to evaluate a claim we read a few weeks ago from 
 
 
 
-## Jun 29
+## Jun 24
 ### Gendered Cooking
 - _HAE_, 57-87 (5: Gender and the American Appetite).
 - [Why Are We Still Failing Female Chefs?](https://www.eater.com/2018/5/30/17397060/women-chefs-food-media)
@@ -297,12 +255,58 @@ We've talked about food and identity in many ways already; this quiz covers the 
 
 
 
+## Jun 25 (Fri)
+### Food and Nature
+- _HAE_, 89--110 (4: Technology and Taste).
+- Lecture on the relationship between the general categories of "food" and "nature" and how that relationship reflects humans relationship to nature generally.
 
-## Jun 30
+#### Noteworthy
+- Frederick L. Kirschenmann, "Food as Relationship", _Journal of Hunger & Environmental Nutrition_, 3:2-3, 106-121.
+
+{% include alert.html class='warning' title='Reading/Lecture Quiz' text="
+You'll want to read the _HAE_ section reasonably carefully, but the quiz is centered on the lecture.
+"%}
+
+
+
+
+
+# Week 4
+
+## Jun 28
 No new reading for today! Food Blog Analysis is due.
 
 {% include alert.html class='danger' title='Food Blog Analysis' text="
 See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the cookbook analysis assignment a few weeks ago, when we discussed how much you can learn about people and culture from cookbooks. How much do you find this to be true for your food blog as well?
+"%}
+
+
+
+
+
+## Jun 29
+### Politics of Meat
+- Lecture on meat as lightning rod for basically every issue in food studies
+- Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
+- Jayson Lusk, [The Political Polarization of Meat Demand](http://jaysonlusk.com/blog/2019/4/23/the-political-polarization-of-meat-demand)
+- Meghan McCarron [I Want to Be a Non-Combatant in the Coming Burger Wars](https://www.eater.com/2019/3/18/18267816/burger-climate-change-political-weapon)
+
+{% include alert.html class='warning' title='Quiz' text="
+This wide-ranging quiz test your familiarity with the arguments presented in the readings---read carefully and don't over simplify!
+"%}
+
+
+
+## Jun 30
+### Health and Environmentalism (of Meat)
+- Lecture on comparing competing meat claims
+- Diana Rodgers, [Meat is Magnificent: Water, Carbon, Methane & Nutrition](https://sustainabledish.com/meat-is-magnificent/)
+- Christina Sewell, [Removing the Meat Subsidy: Our Cognitive Dissonance Around Animal Agriculture](https://jia.sipa.columbia.edu/removing-meat-subsidy-our-cognitive-dissonance-around-animal-agriculture)
+- Nick Martin, [There Is No War on Meat. There Should Be.](https://newrepublic.com/article/162180/no-war-meat-be)
+
+
+{% include alert.html class='danger' title='Reading Response' text="
+Why is the discussion about eating meat so complicated? This simple question should allow you to range over the VARIETY of readings. The lectures are essential for not making huge mistakes in your analysis.
 "%}
 
 
@@ -320,10 +324,12 @@ See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the c
 
 
 ## July 2 (Friday)
-No new reading for today! But start drafting your [Final Course Reflection](final-course-reflection). These are TECHNICALLY due tomorrow (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY to make it nice. You can of course submit it whenever you'd like.
-
+- No new reading for today!
 - Final wrap-up lecture
 This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and to jump start your thinking on your Final Learning Reflection (see the very last day).
+
+
+Start drafting your [Final Course Reflection](final-course-reflection). These are TECHNICALLY due tomorrow (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY to make it nice. You can of course submit it whenever you'd like.
 
 
 {% include alert.html class='warning' title='Lecture quiz' text="
@@ -333,8 +339,8 @@ For the last time (*sniff*), find the quiz at UNM Learn.
 
 
 ## July 3 (Saturday)
-Your FINAL Learning Reflection---over the WHOLE CLASS---is officially due today (but feel free to revise and submit it MONDAY). See the [Final Course Reflection Guide](final-course-reflections). I can't emphasize enough that this SHOULD NOT BE A SUMMARY of what we've covered. Instead, as the instructions explain in more detail, illustrate how your thinking about food has changed over the month, and how your submitted work justifies what you think should be your overall grade for the course.
+Your FINAL Learning Reflection---over the WHOLE CLASS---is officially due today (the last official day of the 1H session.) However, feel free to revise and submit it MONDAY. See the [Final Course Reflection Guide](final-course-reflection). I can't emphasize enough that this SHOULD NOT BE MERELY A SUMMARY of what we've covered. Instead, as the instructions explain in more detail, illustrate how your thinking about food has changed over the month, and how your submitted work justifies what you think should be your overall grade for the course.
 
 {% include alert.html class='danger' title='Final Course Reflection' text="
-Make sure to post your [Final Course Reflection](final-course-reflections) on the discussion board!
+Make sure to post your [Final Course Reflection](final-course-reflection) on the discussion board!
 "%}
