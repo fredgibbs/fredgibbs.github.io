@@ -18,10 +18,18 @@ In either case, the main point of these responses is to show me that you've done
 - ~350--400 words
 - Clearly and thoughtfully addresses questions for the prompt
 - Posted ON TIME at UNM Learn, meaning the day it appears on the syllabus
+- 1-2 THOUGHTFUL questions about the topic for the day at the bottom of your response.
 
 
 ## Reflect more than summarize
-Please resist the urge to summarize of the assignment. Of course answering questions in the prompt you'll end up restating some ideas from the reading. That's important! But this exercise is NOT about just regurgitating the readings or identifying the "most" important points---everyone will learn something different from them. The goal is show me you can think critically about the quesitons USING THE READINGS! 
+Please resist the urge to summarize of the assignment. Of course answering questions in the prompt you'll end up restating some ideas from the reading. That's important! But this exercise is NOT about just regurgitating the readings or identifying the "most" important points---everyone will learn something different from them. The goal is show me you can think critically about the quesitons USING THE READINGS!
+
+## Please ask good questions
+As a way of trying to faciliate _some_ kind of interaction, I'm asking everyone in your reading responses to include 1-2 (or more) thoughtful questions about the day's topic. Ask for clarification on a particular argument or claim by an author. Ask about a contradiction between different readings (or within the same one!).
+
+What NOT to do: Don't just ask if I agree with a reading. That's TOO VAGUE. However, a good question is for you to paraphrase a particular point/claim/statement and ask what I think about that. That's something we'd surely do in class if we could have actual conversations.
+
+**Good questions show me you're reading carefully!**
 
 
 ## Grading
@@ -33,4 +41,4 @@ We use a consistent grading rubric for basic reading responses---and this should
 
 **Familiarity**: Do you communicate a sense of what's in the SET of READINGS? Completely ignoring one or more of the readings in your post is the easiest way to lose points for this category.
 
-**Originality**: You don't need to win a Pulitzer prize with your essay, but you shouldn't just repeat what the readings say. Anyone with basic literacy can repeat what they read, and that doesn't show any kind of learning or thinking. Real learning means understanding it well enough to have something to say about it. You don't need to say something that's never been said! Originality here means saying something ABOUT the readings beyond what's in the readings themselves.
+**Originality**: You don't need to win a Pulitzer prize with your essay, but you shouldn't just repeat what the readings say. Anyone with basic literacy can repeat what they read, and that doesn't show any kind of learning or thinking. Real learning means understanding the reading well enough to have something to say about it. You don't need to say something that's never been said! Originality here means saying something ABOUT the readings beyond what's in the readings themselves.

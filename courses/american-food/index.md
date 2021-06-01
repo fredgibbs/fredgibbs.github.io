@@ -20,7 +20,6 @@ section: home
 This page, and the [schedule page](schedule), have all the instructions and assignments you need for the course. Make sure you are very familiar with these two pages. We use UNM Learn to manage quizzes, assignment submissions, and the discussion board, but all course information is on these two pages.
 
 
-
 ## Course Description
 When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. Why is that? What constitutes a "national" cuisine? Does this concept even make sense anymore? What about American food? Is there (or was there ever) such a thing? How much does the history of American Food present a different kind of American History from we typically hear? How are ideas of nationalism reflected in our foodways?
 
@@ -28,12 +27,13 @@ The goal of this course is to see how much fun we can have exploring different p
 
 Some questions we'll tackle: What have Americans eaten over time? Why? How do we construct identities through food? How much have immigration and regionalization shaped dietary preferences? How have dietary and nutritional advice altered perceptions of food and cuisine over the 20th century? How have relatively recent global industrial conglomerates shaped the idea of what constitutes American food? What can the future of American food learn from its past?
 
-
-## Student Learning Objectives
+{% include alert.html class='info' title='Learning Objectives' text="
+I put these in a super special box because I think they are important and I want to be sure THEY ARE CLEARLY VISIBLE. Literally everything we do in this class works toward one or more of these goals.
 - Describe how food shapes identities at various scales from the personal to the national.
 - Give historic examples of how attitudes toward food are influenced by shifting cultural, social, religious, scientific, and political values
 - Become more critical consumers of writing about food, whether about cooking, dieting, authenticity, appropriation, production, etc.
 - Think more critically about motivations behind food choices and what they might tell us about ourselves.
+"%}
 
 
 ## Where to find stuff
@@ -60,15 +60,17 @@ The little equations after the assignment type indicates `number of assignments`
 - [Food blog analysis](food-blog-analysis) (1x30 = 30)
 - [Final learning reflection](final-course-reflection) (1x40 = 60)
 
+{% include alert.html class='info' title='Embrace ambiguity' text="
 So you can expect around 320 points, but quizzes are sometimes a bit more or less than 10 points and I may swap out one kind of assignment for another, which may slightly change the point total. Your grade is determined by percent, as indicated below. To keep up with grading for a large class that has a lot of assignments in a short time, all grading is done through assignment rubrics so you get at least some feedback more quickly.
+"%}
 
 The [schedule page](schedule) indicates all due dates for course work; all assignments should be posted to UNM Learn by the end of the day they are listed (by midnight).
 
 There are two TAs for the course who mostly help with scoring your submitted work and providing some feedback on your assignments. But in a 60+ person class, we're not going to be able to provide substantive comments to everyone for every assignment. If you ever want more feedback, PLEASE EMAIL ME and ask for it. I will be more than happy to chat with you about course material or how you're doing in the course. But with so many people in the class, YOU HAVE TO ASK. I hope you will!
 
-{% include alert.html class='info' title='Embrace ambiguity' text="
+#### Embrace Ambiguity
 The quizzes are mostly straightforward, but not trivial. The goal is to make you THINK CAREFULLY and CRITICALLY about course material. Sometimes I ask deliberately vague questions that don't really have a right answer because I am using the questions to highlight an important ambiguity.  These questions won't count toward your grade, but you won't know which questions count or not when you're taking the quiz (you'll find out after). Because this class is about interpretation and argument, you are encouraged to debate on the discussion board ANY quiz question marked as incorrect. If you contribute something original to the discussion (not just, \"I agree with the last response!\"), you can get extra credit to make sure you're earning the grade you want.
-"%}
+
 
 
 
@@ -91,7 +93,10 @@ Percent | Grade
 
 
 ### Submitting Work
+
+{% include alert.html class='info' title='Deadlines!' text="
 All quizzes or discussion board posts must be submitted via UNM Learn by MIDNIGHT on the day it appears on the syllabus. I don't care if you post at 12:05am or even 1am, so don't stress about that, but be sure you post before you go to bed.
+"%}
 
 Everyone is welcome to a little extra time on assignments BUT YOU HAVE TO SEND ME AN EMAIL TO LET ME KNOW. Otherwise your work will be considered late and will be docked 1 point per day. After one week, you get a permanent ZERO for the assignment. I don't like being draconian about deadlines but the class moves so fast that falling behind even a little can quickly spiral out of control. If you are doing reasonably well in the class, missing one basic assignment at some point doesn't even matter.
 
@@ -105,7 +110,7 @@ Some of you just want a C to fulfill a UNM requirement. Some of you want a B to 
 ### Extra Credit
 - You can get more than the "maximum" number of points on almost any written assignment by going above and beyond the requirements. Posts that seem to have significant analytical depth to them (usually this means writing a bit more than the minimum) or unusually insightful analysis will get bonus points (usually up to 4). If you're really into a topic and have a little extra time for an assignment, it's an easy way to make sure you're on track for the grade you want.
 - Most quizzes, too, have a few questions that are extra credit. You can of course skip these without any penalty, but it's an easy chance for points.
-- If you are worried you are falling just short of a grade you're aiming for, there is an easy way to ensure you get it! Do a [Food Documentary Critique](food-documentary-critique) (worth up to 10 points). CAVEAT: you can do this ONLY if all other work is turned in on time. This should be emailed to me directly by July 5 (when all course work is due).
+- If you are worried you are falling just short of a grade you're aiming for, there is an easy way to ensure you get it! Do a [Food Documentary Critique](food-documentary-analysis) (worth up to 10 points). CAVEAT: you can do this ONLY if all other work is turned in on time. This should be emailed to me directly by July 5 (when all course work is due).
 
 
 ### Please Don't Drift Away
@@ -131,9 +136,7 @@ Visit [our Zotero Group page](https://www.zotero.org/groups/2499167/american-foo
 ### Accessing Readings
 Once you've completed the steps above and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/2499167/american-food-unm/library). Double clicking an item brings up a PDF of the article or chapter.
 
-{% include alert.html class='info' title='Wrong reading?' text="
-A few items in our Zotero library have more than one PDF attached to them. If you're getting the wrong chapter when double-clicking at item: Single click on the item to select it, then click the \"Attachments\" tab near the upper right of the page. You'll see links to all PDFs for that item and you can select the PDF and click the icon to open it.
-"%}
+A few items in our Zotero library have more than one PDF attached to them. If you're getting the wrong chapter when double-clicking at item: Single click on the item to select it, then click the "Attachments" tab near the upper right of the page. You'll see links to all PDFs for that item and you can select the PDF and click the icon to open it.
 
 
 In addition to separate articles and book chapters, we have one sort of textbook that we use to keep everything connected: _How America Eats_ is our month-long guide that we read bit by bit (and slightly out of order for reasons that will become clear) throughout the course. [This book is freely available through UNM Libaries](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results). Links from here should ask you to log in with UNM credentials. If you don't want to read the whole thing online, there are many cheap copies available via various online booksellers (but NOT the UNM Bookstore).
@@ -148,9 +151,11 @@ Almost all readings are meant for a broad (largely non-academic) audience and th
 
 I've tried to embrace a _less is more_ philosophy, but there's a lot to do, you cannot possibly read every word, or every page, or master all the ideas, **and that's just fine**. I DO expect you to gain a familiarity across all the readings so that you can write a thoughtful response about them. Because we're covering so much ground so quickly, broad familiarity is far more important than specific details.
 
+{% include alert.html class='info' title='Rethinking Literacy' text="
 True literacy is not just understanding words and sentences. It's being able to read relatively quickly, think critically about what you read, and take away something useful from it (or decide you don't need to). That's one of the things we're deliberately practicing in this course.
+"%}
 
-
+---
 
 ## UNM Resources
 [CAPS Tutoring Services](http://caps.unm.edu/programs/online-tutoring/) is a free-of-charge educational assistance program available to UNM students

@@ -69,7 +69,9 @@ This will cover the lecture and the Haley reading.
 - Sidney Mintz, "Eating American". This is easily the most controversial piece this week, suggesting there is no such thing as American Cuisine. Pay attention to his arguments so you can craft a thoughtful reading reflection for this week.
 
 {% include alert.html class='danger' title='Reading reflection' text="
-First, make sure you're familiar with the [reading reflection guide](reading-reflections). DRAWING FROM THE SET OF READINGS: What are the most useful ideas for thinking about national cuisine that you noted? Can a cuisine be defined by its diversity as Tobias suggests? Or does such diversity mean there really isn't an American cuisine (as Mintz suggests)? Does the essence of a cuisine lie in certain \"dispositions\" as Tobias suggests?
+1. make sure you're familiar with the [reading reflection guide](reading-reflections).
+2. DRAWING FROM THE SET OF READINGS: What are the most useful ideas for thinking about national cuisine that you noted? Can a cuisine be defined by its diversity as Tobias suggests? Or does such diversity mean there really isn't an American cuisine (as Mintz suggests)? Does the essence of a cuisine lie in certain \"dispositions\" as Tobias suggests?
+3. Don't forget your 1-2 THOUGHTFUL questions at the end that I can address in the next video. See the [reading reflection guide](reading-reflections) for more.
 "%}
 
 
