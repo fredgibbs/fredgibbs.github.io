@@ -66,7 +66,7 @@ The [schedule page](schedule) indicates all due dates for course work; all assig
 
 There are two TAs for the course who mostly help with scoring your submitted work and providing some feedback on your assignments. But in a 60+ person class, we're not going to be able to provide substantive comments to everyone for every assignment. If you ever want more feedback, PLEASE EMAIL ME and ask for it. I will be more than happy to chat with you about course material or how you're doing in the course. But with so many people in the class, YOU HAVE TO ASK. I hope you will!
 
-{% include alert.html class='danger' title='Embrace ambiguity' text="
+{% include alert.html class='info' title='Embrace ambiguity' text="
 The quizzes are mostly straightforward, but not trivial. The goal is to make you THINK CAREFULLY and CRITICALLY about course material. Sometimes I ask deliberately vague questions that don't really have a right answer because I am using the questions to highlight an important ambiguity.  These questions won't count toward your grade, but you won't know which questions count or not when you're taking the quiz (you'll find out after). Because this class is about interpretation and argument, you are encouraged to debate on the discussion board ANY quiz question marked as incorrect. If you contribute something original to the discussion (not just, \"I agree with the last response!\"), you can get extra credit to make sure you're earning the grade you want.
 "%}
 
@@ -131,8 +131,8 @@ Visit [our Zotero Group page](https://www.zotero.org/groups/2499167/american-foo
 ### Accessing Readings
 Once you've completed the steps above and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/2499167/american-food-unm/library). Double clicking an item brings up a PDF of the article or chapter.
 
-{% include alert.html class='info' title='Not getting what you want?' text="
-If you're getting the wrong chapter when double-clicking at item: Single click on the item to select it, then click the \"Attachments\" tab near the upper right of the page. You'll see links to all PDFs for that item and you can select the PDF and click the icon to open it.
+{% include alert.html class='info' title='Wrong reading?' text="
+A few items in our Zotero library have more than one PDF attached to them. If you're getting the wrong chapter when double-clicking at item: Single click on the item to select it, then click the \"Attachments\" tab near the upper right of the page. You'll see links to all PDFs for that item and you can select the PDF and click the icon to open it.
 "%}
 
 
@@ -144,15 +144,11 @@ In addition to separate articles and book chapters, we have one sort of textbook
 ### Familiarity over mastery
 If you peek at the reading schedule page, you might think there is a lot of reading. You're right! As an intensive 1H course, there IS a lot of reading. This is unavoidable because I respect the challenges and demands of a compressed four-week course that ostensibly provides comparable intellectual rigor as a full-semester course. So the workload is comparable to any average 1H upper-level humanities course, whether in person or online, but obviously more intense than a regular full semester course.
 
-I've tried to embrace a _less is more_ philosophy, but there's a lot to do, you cannot possibly read every word, or every page, or master all the ideas, **and that's just fine**. I DO expect you to gain a familiarity across all the readings so that you can write a thoughtful response about them. Because we're covering so much ground so quickly, broad familiarity is far more important than specific details.
-
-
-### Rethinking literacy
-True literacy is not just understanding words and sentences. It's being able to read relatively quickly, think critically about what you read, and take away something useful from it (or decide you don't need to).
-
 Almost all readings are meant for a broad (largely non-academic) audience and therefore are relatively quick and engaging reads. At the same time, they are smart, articulate, and give us plenty to talk about, especially as we put them in conversation with each other, and how they tell very different stories of American Food.
 
-You don't have to read every word carefully to take away some useful ideas from the readings. You simply need to read enough and carefully enough to form an opinion on how the authors approach their topics, what kind of argument they make, what kinds of sources they use, how they differ from each other, why you do or don't like it, etc. This is what you'll be writing about in your reading responses.
+I've tried to embrace a _less is more_ philosophy, but there's a lot to do, you cannot possibly read every word, or every page, or master all the ideas, **and that's just fine**. I DO expect you to gain a familiarity across all the readings so that you can write a thoughtful response about them. Because we're covering so much ground so quickly, broad familiarity is far more important than specific details.
+
+True literacy is not just understanding words and sentences. It's being able to read relatively quickly, think critically about what you read, and take away something useful from it (or decide you don't need to). That's one of the things we're deliberately practicing in this course.
 
 
 
