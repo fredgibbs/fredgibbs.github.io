@@ -11,10 +11,10 @@ section: home
 
 
 ### Due dates
-All posted assignments are technically "due" on the day they are listed so that we all stay on schedule. An occasional late post because something urgent came up is fine. Repeatedly late posts will negatively impact your grade.
+All posted assignments are technically "due" on the day they are listed so that we all stay on schedule. An occasional late post is fine. Repeatedly late posts will negatively impact your grade, as your score decreases by one point per day. After a week, you get a zero. The course simply moves too quickly for much flexibility with deadlines.
 
 ### Video lectures
-All video lectures are posted on the [course YouTube channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig), and I will link to them on the syllabus as they become available. If you want announcements of new videos, please subscribe to the channel.
+All video lectures will be posted on the [course YouTube channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig), and I will link to them on the syllabus as they become available. If you want announcements of new videos, please subscribe to the channel.
 
 ### Read/watch in order
 I list the readings/videos in the order I think it will be most useful to you. Usually, the earlier readings (or videos) introduce some ideas that get elaborated on in later readings. Going out of order can make things much more confusing, but of course you're free to work through the readings however you wish.
@@ -22,16 +22,18 @@ I list the readings/videos in the order I think it will be most useful to you. U
 ### Noteworthy is optional
 Most days have a "noteworthy" section that lists a few relevant readings on the topic. These are optional! Most have some good ideas that I'll mention in the videos; others are there just for additional materials and extra credit opportunities. I hope you'll skim through any that seem interesting to you (and I hope you'll mention them in your posts so you can get credit for that work).
 
+### All non-linked reading assignments are in Zotero
+Remember that if there isn't a direct link to a reading, it's in our course Zotero library. Instructions are on the syllabus home page under `Readings and Books`.
 
 
 # Week 1
 
 ## Jun 7
-- Course Intro + Why Food Video
+- VIDEO: Course Intro, Syllabus Intro, and Why I like food
 - Warren Belasco, "Why study food?", from _Food: The Key Concepts_ (Oxford University Press, 2008): 1--13. Note the last couple pages are about eating meat (and seems a bit shaded against it, IMO). But Belasco misses a couple major points when talking about both the benefits and consequences of eating meat. On the quiz for today, plan to articulate what you think he is **not** addressing---but should---in that section. Hint: Does it have anything to do with his definition of "meat"?
 
 
-{% include alert.html class='warning' title='UNM Learn quiz' text="
+{% include alert.html class='warning' title='Syllabus quiz' text="
 This will cover the course into video, the syllabus, and the short Belasco reading.
 "%}
 
@@ -44,14 +46,14 @@ Just to make sure everyone is connected, and as an informal way of introducing o
 ## Jun 8
 
 ### Challenges and Rewards of Food + History
-- Lecture: The challenges and payoff of food history
 - Andrew P. Haley, "The Nation before Taste: The Challenges of American Culinary History", _The Public Historian_ 34.2 (2012): 53--78.
+- VIDEO: How and why to do food history
 
 #### Noteworthy
 - G. J. Fitzgerald and G. M. Petrick, "In Good Taste: Rethinking American History with Our Palates", _Journal of American History_ 95.2 (2008): 392--404.
 
-{% include alert.html class='warning' title='Food History Quiz' text="
-This will cover the lecture and Haley reading.
+{% include alert.html class='warning' title='Lecture and Reading Quiz' text="
+This will cover the lecture and the Haley reading.
 "%}
 
 
@@ -61,13 +63,13 @@ This will cover the lecture and Haley reading.
 ### National Cuisine & American Food
 - _HAE_, xi--xv.
 - _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
-- Sean Wyer, [Italy isn't Eatalty](https://vittles.substack.com/p/italy-isnt-eataly)
-- Sidney Mintz, "Eating American".
-- Alison K. Smith, [National Cuisines](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-25), from _The Oxford Handbook of Food History_ (2012). You can read more quickly over the long Russia example if you want, as the details don't much matter. But do read the last paragraph.
-- Ruth Tobias, [Is There Such a Thing as ‘American’ Food?](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)
+- Alison K. Smith, [National Cuisines](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-25), from _The Oxford Handbook of Food History_ (2012). You can read more quickly over the long Russia example if you want, as the details don't much as the general ideas introduced earlier on. But do read the last paragraph! This is definitely the driest of the readings for this week, but it introduces a number of useful concepts to keep in mind as moving through the other readings.
+- Sean Wyer, [Italy isn't Eatalty](https://vittles.substack.com/p/italy-isnt-eataly). The title and conclusion of this article relate the unsurprising point that the cuisine of an entire nation can't be captured in a giant upscale grocery store. We hardly need to article to explain that to us, but the author makes a number of good points about how to think about national cuisine.
+- Ruth Tobias, [Is There Such a Thing as ‘American’ Food?](https://www.tastingtable.com/culture/national/defining-american-food-cuisine). This article touches on culinary/cultural appropriation, which is a topic we cover in some depth in a few weeks, so focus for no
+- Sidney Mintz, "Eating American". This is easily the most controversial piece this week, suggesting there is no such thing as American Cuisine. Pay attention to his arguments so you can craft a thoughtful reading reflection for this week.
 
-{% include alert.html class='danger' title='Reading response' text="
-First, make sure you're familiar with the [reading response guide](reading-reflections). Do you think Smith would agree with Mintz that there really isn't an American cuisine?
+{% include alert.html class='danger' title='Reading reflection' text="
+First, make sure you're familiar with the [reading reflection guide](reading-reflections). DRAWING FROM THE SET OF READINGS: What are the most useful ideas for thinking about national cuisine that you noted? Can a cuisine be defined by its diversity as Tobias suggests? Or does such diversity mean there really isn't an American cuisine (as Mintz suggests)? Does the essence of a cuisine lie in certain \"dispositions\" as Tobias suggests?
 "%}
 
 
@@ -79,11 +81,11 @@ First, make sure you're familiar with the [reading response guide](reading-refle
 - Kevin Alexander, [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
 
 #### Noteworthy
-- Sara Kay, [Yelp Reviewers’ Authenticity Fetish Is White Supremacy in Action](https://ny.eater.com/2019/1/18/18183973/authenticity-yelp-reviews-white-supremacy-trap)
+- Sara Kay, [Yelp Reviewers’ Authenticity Fetish Is White Supremacy in Action](https://ny.eater.com/2019/1/18/18183973/authenticity-yelp-reviews-white-supremacy-trap).
 - Rachel Laudan, [Desperately Seeking Authenticity](https://www.latimes.com/archives/la-xpm-2001-dec-19-fo-16368-story.html)
 
 
-{% include alert.html class='danger' title='Reading response' text="
+{% include alert.html class='danger' title='Reading reflection' text="
 These readings give us some new perspectives on the idea of authenticity and cast some (if not significant) doubt on the value of the concept. How is it useful? How is it not? Why do many (if not most people) care still about it? What does it say about those who value it? MAIN QUESTION: Alexander's article is provocative and fun and sometimes smart. But would it be even smarter if it incorporate more of Furrow's ideas?
 "%}
 
@@ -98,8 +100,8 @@ These readings give us some new perspectives on the idea of authenticity and cas
 - Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70--74.
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/)
 
-{% include alert.html class='warning' title='Reading Quiz' text="
-This quiz covers basics from the readings, but also has short answer questions about the various myths and meanings associated with Thanksgiving. How much does Thanksgiving reflect nationalism (of some people) and marginalization (of other people)?
+{% include alert.html class='warning' title='Readings Quiz' text="
+This quiz covers basics from the readings, but also has short answer questions about the various myths and meanings associated with Thanksgiving. How much does Thanksgiving reflect both nationalism (of some people) and marginalization (of other people)?
 "%}
 
 
@@ -139,7 +141,6 @@ This quiz covers the role of food in Revolutionary America, both in terms of act
 ## Jun 16
 ### Cookbooks as historical sources
 The below readings will help you do the upcoming [Cookbook Analysis](cookbook-analysis) assignment. So read them with USING them in mind, not for writing a response about them.
-- Lecture on the cultural value of cookbooks and how to analyze them
 - Ken Albala, [Cookbooks as Historical Documents](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-13).
 - Rachel A. Snell, [As North American as Pumpkin Pie: Cookbooks and the Development of National Cuisine in North America, 1796-1854](https://www.erudit.org/fr/revues/cuizine/2014-v5-n2-cuizine01533/1026771ar/).
 
@@ -155,13 +156,13 @@ The below readings will help you do the upcoming [Cookbook Analysis](cookbook-an
 - Mary Randolph [The Virginia Housewife](https://books.google.com/books?id=R4YEAAAAYAAJ)
 - Eliza Leslie, [Miss Leslie\'s Complete Cookery](https://books.google.com/books?id=KVL5oJA8IWsC)
 
-{% include alert.html class='warning' title='Cookbooks as Sources Quiz' text="
+{% include alert.html class='warning' title='Readings Quiz' text="
 This quiz highlights and emphasizes some ideas from the lecture and readings about HOW to use cookbooks as historical sources. It tries to ensure you are ready to do well on your assignment due tomorrow!
 "%}
 
 
 ## Jun 17
-No new readings for today, just the cookbook analysis assignment we've been preparing for.
+NO NEW READINGS for today! Finish the cookbook analysis assignment we've been preparing for.
 
 {% include alert.html class='danger' title='Early Cookbook Analysis' text="
 Follow the [Cookbook Analysis Guide](cookbook-analysis).
@@ -169,17 +170,18 @@ Follow the [Cookbook Analysis Guide](cookbook-analysis).
 
 
 ## Jun 18 (Fri)
-### Cereal, Health, Technology
-Not much reading today, but an interesting early connection between health, technology, and nature that still influences our food choices.
-- Lecture on changing 19th century food production and cereal as the embodiment of American Food.
+### Health, Technology, and Cereal
+Not much reading today, but an interesting early connection between health and technology that still influences our food choices.
 - _HAE_, 143--55 (6: Pious and Patriotic Stomach).
+- VIDEO: Cereal as the embodiment of American Food.
+
 
 #### Noteworthy
 - Blake Hatton, [The Early Years of American Ready to Eat Breakfast Cereal: The Breakfast Cereal Revolution Until 1930](https://scalar.usc.edu/works/early-years-of-ready-to-eat-breakfast-cereal/index).
 - Jaya Saxena, [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html). This is fun for for its focus on advertising.
 
 
-{% include alert.html class='warning' title='Cereal, Health, Tech Quiz' text="
+{% include alert.html class='warning' title='Lecture and Reading Quiz' text="
 This quiz will draw equally from the lecture and bits of _HAE_ for today.
 "%}
 
@@ -196,7 +198,7 @@ This quiz will draw equally from the lecture and bits of _HAE_ for today.
 #### Noteworthy
 - Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122--48.
 
-{% include alert.html class='danger' title='Reading Response' text="
+{% include alert.html class='danger' title='Reading reflection' text="
 How would you describe the relationship between immigrant's food and American food? What were the motivations to Americanize immigrants' diets? How successful were such efforts?
 "%}
 
@@ -212,7 +214,7 @@ How would you describe the relationship between immigrant's food and American fo
 
 
 {% include alert.html class='warning' title='Readings Quiz' text="
-This quiz draws equally from both readings and focuses on food and identity in the Southwest
+This quiz draws equally from both readings and focuses on food and identity in the Southwest.
 "%}
 
 
@@ -231,7 +233,7 @@ This quiz draws equally from both readings and focuses on food and identity in t
 - [Michael Twitty on Culinary Justice](https://www.youtube.com/watch?v=EhxjC3XX54g)
 
 
-{% include alert.html class='danger' title='Reading response' text="
+{% include alert.html class='danger' title='Reading reflection' text="
 Personally, I find most culinary appropriation conversations to be unhelpfully superficial. It is pointless to debate whether culinary/cultural appropriation actually happens (it does), or whether it's just some people being overly sensitive (it is), or whether it can be an (inadvertent) tool of marginalization (it can). These are non-debateable facts. But what is really happening? And what does it really matter?
 
 Use the articles for this week to evaluate a claim we read a few weeks ago from Ruth Tobias ([here](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)): \"The difference between adaptation and appropriation is one of privilege--the privilege to control and inevitably whitewash the narrative surrounding a given dish.\" How is this statement correct? How is it lacking? BE SURE YOU USE THE READINGS TO SUPPORT YOUR ANSWER!
@@ -259,12 +261,12 @@ We've talked about food and identity in many ways already; this quiz covers the 
 ## Jun 25 (Fri)
 ### Food and Nature
 - _HAE_, 89--110 (4: Technology and Taste).
-- Lecture on the relationship between the general categories of "food" and "nature" and how that relationship reflects humans relationship to nature generally.
+- VIDEO: The relationship between the general categories of "food" and "nature" and how that relationship reflects humans relationship to nature generally.
 
 #### Noteworthy
 - Frederick L. Kirschenmann, "Food as Relationship", _Journal of Hunger & Environmental Nutrition_, 3:2-3, 106-121.
 
-{% include alert.html class='warning' title='Reading/Lecture Quiz' text="
+{% include alert.html class='warning' title='Lecture and Reading Quiz' text="
 You'll want to read the _HAE_ section reasonably carefully, but the quiz is centered on the lecture.
 "%}
 
@@ -287,12 +289,12 @@ See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the c
 
 ## Jun 29
 ### Politics of Meat
-- Lecture on meat as lightning rod for basically every issue in food studies
+- VIDEO: Introducing the next two days; meat as lightning rod for basically every issue in food studies
 - Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
 - Jayson Lusk, [The Political Polarization of Meat Demand](http://jaysonlusk.com/blog/2019/4/23/the-political-polarization-of-meat-demand)
 - Meghan McCarron [I Want to Be a Non-Combatant in the Coming Burger Wars](https://www.eater.com/2019/3/18/18267816/burger-climate-change-political-weapon)
 
-{% include alert.html class='warning' title='Quiz' text="
+{% include alert.html class='warning' title='Lecture and Readings Quiz' text="
 This wide-ranging quiz test your familiarity with the arguments presented in the readings---read carefully and don't over simplify!
 "%}
 
@@ -300,13 +302,13 @@ This wide-ranging quiz test your familiarity with the arguments presented in the
 
 ## Jun 30
 ### Health and Environmentalism (of Meat)
-- Lecture on comparing competing meat claims
+- VIDEO: comparing competing meat claims
 - Diana Rodgers, [Meat is Magnificent: Water, Carbon, Methane & Nutrition](https://sustainabledish.com/meat-is-magnificent/)
 - Christina Sewell, [Removing the Meat Subsidy: Our Cognitive Dissonance Around Animal Agriculture](https://jia.sipa.columbia.edu/removing-meat-subsidy-our-cognitive-dissonance-around-animal-agriculture)
 - Nick Martin, [There Is No War on Meat. There Should Be.](https://newrepublic.com/article/162180/no-war-meat-be)
 
 
-{% include alert.html class='danger' title='Reading Response' text="
+{% include alert.html class='danger' title='Reading reflection' text="
 Why is the discussion about eating meat so complicated? This simple question should allow you to range over the VARIETY of readings. The lectures are essential for not making huge mistakes in your analysis.
 "%}
 
@@ -325,15 +327,13 @@ Why is the discussion about eating meat so complicated? This simple question sho
 
 
 ## July 2 (Friday)
-- No new reading for today!
-- Final wrap-up lecture
+- VIDEO: Final wrap-up
 This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and to jump start your thinking on your Final Learning Reflection (see the very last day).
-
 
 Start drafting your [Final Course Reflection](final-course-reflection). These are TECHNICALLY due tomorrow (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY to make it nice. You can of course submit it whenever you'd like.
 
 
-{% include alert.html class='warning' title='Lecture quiz' text="
+{% include alert.html class='warning' title='Final lecture quiz' text="
 For the last time (*sniff*), find the quiz at UNM Learn.
 "%}
 
@@ -343,5 +343,5 @@ For the last time (*sniff*), find the quiz at UNM Learn.
 Your FINAL Learning Reflection---over the WHOLE CLASS---is officially due today (the last official day of the 1H session.) However, feel free to revise and submit it MONDAY. See the [Final Course Reflection Guide](final-course-reflection). I can't emphasize enough that this SHOULD NOT BE MERELY A SUMMARY of what we've covered. Instead, as the instructions explain in more detail, illustrate how your thinking about food has changed over the month, and how your submitted work justifies what you think should be your overall grade for the course.
 
 {% include alert.html class='danger' title='Final Course Reflection' text="
-Make sure to post your [Final Course Reflection](final-course-reflection) on the discussion board!
+Make sure to post your [Final Course Reflection](final-course-reflection) on the discussion board! These are due by Monday, July 5. If something comes up at the last minute, or you need some time to process an epiphany about the course email to ask for a few extra days!
 "%}

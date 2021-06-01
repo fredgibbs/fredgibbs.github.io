@@ -33,6 +33,7 @@ Some questions we'll tackle: What have Americans eaten over time? Why? How do we
 - Describe how food shapes identities at various scales from the personal to the national.
 - Give historic examples of how attitudes toward food are influenced by shifting cultural, social, religious, scientific, and political values
 - Become more critical consumers of writing about food, whether about cooking, dieting, authenticity, appropriation, production, etc.
+- Think more critically about motivations behind food choices and what they might tell us about ourselves.
 
 
 ## Where to find stuff
@@ -51,7 +52,7 @@ As an upper level history course compressed into a month, this class is meant to
 Not having actual class meetings (as the course normally does) deprives us of some collegial conversation, but it presents new freedoms as well. There isn't much to do most days except do the reading, reflect on it, and take a short quiz or write a brief response. There are a few slightly longer assignments that give you the chance to apply the readings more directly and a course final to show off what you've learned.
 
 
-### Required
+### Required assignments and points
 The little equations after the assignment type indicates `number of assignments` x `points for each` = `total points`
 - [Reading/lecture reflections](reading-reflections) (7x15 = 100) [actually 105, but rounding down gives you free points]
 - Reading/lecture quizzes (10x10 = 100)
@@ -59,13 +60,16 @@ The little equations after the assignment type indicates `number of assignments`
 - [Food blog analysis](food-blog-analysis) (1x30 = 30)
 - [Final learning reflection](final-course-reflection) (1x40 = 60)
 
-So you can expect around 320 points, but quizzes are sometimes a bit more or less than 10 points and I may swap out one kind of assignment for another, which may slightly change the point total. Your grade is determined by percent, as indicated below. To keep up with grading for a large class that has a lot of assignments in a short time, all grading is done through assignment rubrics so you get at least some feedback more quickly.  
+So you can expect around 320 points, but quizzes are sometimes a bit more or less than 10 points and I may swap out one kind of assignment for another, which may slightly change the point total. Your grade is determined by percent, as indicated below. To keep up with grading for a large class that has a lot of assignments in a short time, all grading is done through assignment rubrics so you get at least some feedback more quickly.
+
+The [schedule page](schedule) indicates all due dates for course work; all assignments should be posted to UNM Learn by the end of the day they are listed (by midnight).
 
 There are two TAs for the course who mostly help with scoring your submitted work and providing some feedback on your assignments. But in a 60+ person class, we're not going to be able to provide substantive comments to everyone for every assignment. If you ever want more feedback, PLEASE EMAIL ME and ask for it. I will be more than happy to chat with you about course material or how you're doing in the course. But with so many people in the class, YOU HAVE TO ASK. I hope you will!
 
-The quizzes are mostly straightforward, but not trivial. The goal is to make you THINK CAREFULLY and CRITICALLY about course material. Sometimes I ask deliberately vague questions that don't really have a right answer because I am using the questions to highlight an important ambiguity.  These questions won't count toward your grade, but you won't know which questions count or not. Because this class is about interpretation and argument, you are encouraged to debate on the discussion board ANY quiz question marked as incorrect. If you contribute something original to the discussion (not just, "I agree with the last response!"), you can get extra credit.
+{% include alert.html class='danger' title='Embrace ambiguity' text="
+The quizzes are mostly straightforward, but not trivial. The goal is to make you THINK CAREFULLY and CRITICALLY about course material. Sometimes I ask deliberately vague questions that don't really have a right answer because I am using the questions to highlight an important ambiguity.  These questions won't count toward your grade, but you won't know which questions count or not when you're taking the quiz (you'll find out after). Because this class is about interpretation and argument, you are encouraged to debate on the discussion board ANY quiz question marked as incorrect. If you contribute something original to the discussion (not just, \"I agree with the last response!\"), you can get extra credit to make sure you're earning the grade you want.
+"%}
 
-The [schedule page](schedule) indicates all due dates for course work; all assignments should be posted to UNM Learn by the end of the day they are listed (by midnight).
 
 
 ### Grading Scale
