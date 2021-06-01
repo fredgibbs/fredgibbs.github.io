@@ -61,6 +61,7 @@ This will cover the lecture and Haley reading.
 ### National Cuisine & American Food
 - _HAE_, xi--xv.
 - _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
+- Sean Wyer, [Italy isn't Eatalty](https://vittles.substack.com/p/italy-isnt-eataly)
 - Sidney Mintz, "Eating American".
 - Alison K. Smith, [National Cuisines](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-25), from _The Oxford Handbook of Food History_ (2012). You can read more quickly over the long Russia example if you want, as the details don't much matter. But do read the last paragraph.
 - Ruth Tobias, [Is There Such a Thing as ‘American’ Food?](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)

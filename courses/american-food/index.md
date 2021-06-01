@@ -39,7 +39,7 @@ Some questions we'll tackle: What have Americans eaten over time? Why? How do we
 - [Syllabus](http://fredgibbs.net/courses/american-food). You're already here! Remember there are two pages: this one and the [schedule](schedule) page.
 - [UNM Learn](http://learn.unm.edu). All assignments will be submitted via UNM Learn. The left nabe bar has links to everything you need as well.
 - [YouTube Channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig) will host lectures and other screencasts. I put links to everything on the syllabus once they are uploaded, but I don't barge into your inbox just to tell you there's a new video. If you want such notifications, you can subscribe to the Channel and get them automatically.
-- For readings, we use a tool called [Zotero](http://zotero.org), but you need to create a free account and request to join our group library. It's a super quick process, and the `Course readings and books` section below has all the details.
+- For readings, we use an external tool called [Zotero](http://zotero.org), and you need to create a free account and request to join our group library. It's a super quick process, and the `Readings and Books` section below has all the details.
 
 
 ## Work Requirements
@@ -109,11 +109,30 @@ If life gets overwhelming during the course (and _something_ will come up over t
 
 
 ## Readings and Books
-Most of the reading for the course are book chapters, short articles, and blog posts. Everything not already accessible online (like blog posts) are accessible through a platform called Zotero. Directions are [posted here](http://fredgibbs.net/courses/etc/zotero). When following the directions, you'll be instrcuted to click over to our [Zotero Group homepage](https://www.zotero.org/groups/2499167/american-food-unm/) to click a red "Join" button.
+Most of the reading for the course are book chapters, short articles, and blog posts. Everything not already accessible online (like blog posts) are accessible through a platform called Zotero. You will NEVER have to find anything on your own.
 
-Once you've completed the steps and joined the library, you can access our course readings most easily via our [Group Library page](https://www.zotero.org/groups/2499167/american-food-unm/library). Note the Group Library page is distinct from the Zotero Group homepage above.
 
-In addition to separate articles and book chapters, we have one sort of textbook that we use to keep everything connected: _How America Eats_ is our month-long guide that we read bit by bit (and slightly out of order for reasons that will become clear) throughout the course. This book is freely available through UNM Libaries (the link below should ask you to log in with UNM credentials). If you don't want to read the whole thing online, there are many cheap copies available online.
+### Step 1: Create a Zotero account
+If you don't have one already, [sign up for a free account at zotero.org](https://www.zotero.org/user/register). Creating a Zotero account requires only that you specify a username, password, and email address. You will not get any spam from Zotero or anyone else because of your Zotero account. **Use your UNM email address!!!!!**
+
+### Step 2: Make sure you are logged into zotero.org
+You should see your username or a "Log Out" link on the top nav bar. If you see a "Log In" link, you need to log in. Pretty straightforward.
+
+### Step 3: Go to our Zotero Group page
+Visit [our Zotero Group page](https://www.zotero.org/groups/2499167/american-food-unm/).
+
+### Step 4: Click the red "Join" button
+- Click the red "Join" button off to the right, which will send an email to me. As soon as I see it (usually within the hour unless you're doing it late at night), I'll approve your request to join the group. There is nothing else you need to do at this point.
+
+### Accessing Readings
+Once you've completed the steps above and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/2499167/american-food-unm/library). Double clicking an item brings up a PDF of the article or chapter.
+
+{% include alert.html class='info' title='Not getting what you want?' text="
+If you're getting the wrong chapter when double-clicking at item: Single click on the item to select it, then click the \"Attachments\" tab near the upper right of the page. You'll see links to all PDFs for that item and you can select the PDF and click the icon to open it.
+"%}
+
+
+In addition to separate articles and book chapters, we have one sort of textbook that we use to keep everything connected: _How America Eats_ is our month-long guide that we read bit by bit (and slightly out of order for reasons that will become clear) throughout the course. [This book is freely available through UNM Libaries](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results). Links from here should ask you to log in with UNM credentials. If you don't want to read the whole thing online, there are many cheap copies available via various online booksellers (but NOT the UNM Bookstore).
 
 - Jennifer Jensen Wallach, _How America Eats: A Social History of U.S. Food and Culture_ (Rowman & Littlefield Publishers, 2014). [online](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results)
 
