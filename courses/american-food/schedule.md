@@ -23,7 +23,7 @@ I list the readings/videos in the order I think it will be most useful to you. U
 Most days have a "noteworthy" section that lists a few relevant readings on the topic. These are optional! Most have some good ideas that I'll mention in the videos; others are there just for additional materials and extra credit opportunities. I hope you'll skim through any that seem interesting to you (and I hope you'll mention them in your posts so you can get credit for that work).
 
 ### All non-linked reading assignments are in Zotero
-Remember that if there isn't a direct link to a reading, it's in our course Zotero library. Instructions are on the syllabus home page under `Readings and Books`.
+Remember that if there isn't a direct link to a reading, it's in our course Zotero library. Instructions are on the [syllabus home page](index) under `Readings and Books`.
 
 
 # Week 1
@@ -114,7 +114,7 @@ This quiz covers basics from the readings, but also has short answer questions a
 ## Jun 14
 ###  On Cuisines and Corn
 - _HAE_, 13--31 (from 1: Cuisine of Contact).
-- Keith Stavely and Kathleen Fitzgerald, _America\'s Founding Food_ (2: This Beautifull Noble Eare), 4--48. This is very helpful in understanding the world of food production at the time early cookbooks we're looking at were written, and part of the reason for their emergence. Skim to page 129 and read more carefully after that.
+- Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (1: This Beautifull Noble Eare), 4--48. Read 4--22; and 45--48 more carefully; skim 22--45 on various dishes.
 - Erick Castellanos and Sarah Bergstresser, "The Mexican and Transnational Lives of Corn: Technological, Political, Edible Object", in _Edible Identities_ (ed. Broulotte and Di Giovine), Taylor & Francis (2016), 201--216.
 
 #### Noteworthy
@@ -209,7 +209,7 @@ How would you describe the relationship between immigrant's food and American fo
 ## Jun 22
 ### Culinary Diffusion
 - Amy Bentley, "From Culinary Other to Mainstream America: Meanings and Uses of Southwestern Cuisine", in _Culinary Tourism_ (ed. Lucy M. Long), University Press of Kentucky (2013), 209--223.
-- Kathermie Massoth, "Mexican Cookery that Belongs to the United States": Evolving Boundaries of Whiteness in New Mexican Kitchens, in _Food Across Borders_ (ed. Garcia, DuPuis, and Mitchell), 44--59.
+- Katherine Massoth, "'Mexican Cookery that Belongs to the United States': Evolving Boundaries of Whiteness in New Mexican Kitchens", in _Food Across Borders_ (ed. Garcia, DuPuis, and Mitchell), 44--59.
 
 #### Noteworthy
 - Jeffrey M. Pilcher, “Tex-Mex, Cal-Mex, New Mex, or Whose Mex? Notes on the Historical Geography of Southwestern Cuisine”. _Journal of the Southwest_ 43.44 (2001): 659-–79.
