@@ -66,7 +66,6 @@ So you can expect around 320 points, but quizzes are sometimes a bit more or les
 
 The [schedule page](schedule) indicates all due dates for course work; all assignments should be posted to UNM Learn by the end of the day they are listed (by midnight).
 
-There are two TAs for the course who mostly help with scoring your submitted work and providing some feedback on your assignments. But in a 60+ person class, we're not going to be able to provide substantive comments to everyone for every assignment. If you ever want more feedback, PLEASE EMAIL ME and ask for it. I will be more than happy to chat with you about course material or how you're doing in the course. But with so many people in the class, YOU HAVE TO ASK. I hope you will!
 
 #### Embrace Ambiguity
 The quizzes are mostly straightforward, but not trivial. The goal is to make you THINK CAREFULLY and CRITICALLY about course material. Sometimes I ask deliberately vague questions that don't really have a right answer because I am using the questions to highlight an important ambiguity.  These questions won't count toward your grade, but you won't know which questions count or not when you're taking the quiz (you'll find out after). Because this class is about interpretation and argument, you are encouraged to debate on the discussion board ANY quiz question marked as incorrect. If you contribute something original to the discussion (not just, \"I agree with the last response!\"), you can get extra credit to make sure you're earning the grade you want.
@@ -92,7 +91,6 @@ Percent | Grade
 
 
 ### Submitting Work
-
 {% include alert.html class='info' title='Deadlines!' text="
 All quizzes or discussion board posts must be submitted via UNM Learn by MIDNIGHT on the day it appears on the syllabus. I don't care if you post at 12:05am or even 1am, so don't stress about that, but be sure you post before you go to bed.
 "%}
@@ -102,8 +100,13 @@ Everyone is welcome to a little extra time on assignments BUT YOU HAVE TO SEND M
 If you need to pause the class for a few days because of some emergency, we can work it out (more on this below). Please get in touch!
 
 
-### Work towards your wants and ask for more feedback
-Some of you just want a C to fulfill a UNM requirement. Some of you want a B to maintain a solid GPA. Some of you want an A because top grades are really important to you. You all already know what your own average, good, or excellent effort feels like and what grade you are likely to get with that effort. So put in the work that justifies the grade you want for each assignment. If you're not getting the scores you want, LET ME KNOW. Often a few minor tweaks go a long way towards improving your scores. I see it every semester. Please know I want to do everything I can to ensure that the work you're putting in matches the grade you're getting.
+{% include alert.html class='info' title='Ask for more feedback' text="
+There are two TAs for the course who mostly help with scoring your submitted work and providing some feedback on your assignments. But in a 60+ person class with work due most days, we're not going to be able to provide substantive comments to everyone for every assignment. If you ever want more feedback, PLEASE EMAIL ME and ask for it. I will be more than happy to chat with you about course material or how you're doing in the course. But with so many people in the class, YOU HAVE TO ASK. I hope you will!
+"%}
+
+
+### Work towards your wants
+Some of you just want a C to fulfill a UNM requirement. Some of you want a B to maintain a solid GPA. Some of you want an A because top grades are really important to you. Put in the work that justifies the grade you want for each assignment, and if you're not getting the scores you want, LET ME KNOW. Usually a few minor tweaks go a long way towards improving your scores. Please know I want to do everything I can to ensure that the work you're putting in matches the grade you're getting.
 
 
 ### Extra Credit
@@ -130,12 +133,14 @@ You should see your username or a "Log Out" link on the top nav bar. If you see 
 Visit [our Zotero Group page](https://www.zotero.org/groups/2499167/american-food-unm/).
 
 ### Step 4: Click the red "Join" button
-- Click the red "Join" button off to the right, which will send an email to me. As soon as I see it (usually within the hour unless you're doing it late at night), I'll approve your request to join the group. There is nothing else you need to do at this point.
+Click the red "Join" button off to the right, which will send an email to me. As soon as I see it (usually within the hour unless you're doing it late at night), I'll approve your request to join the group. There is nothing else you need to do at this point.
 
 ### Accessing Readings
-Once you've completed the steps above and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/2499167/american-food-unm/library). Double clicking an item brings up a PDF of the article or chapter.
+{% include alert.html class='info' title='Zotero Readings' text="
+Once you've completed the steps above and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/2499167/american-food-unm/library). Double clicking an item brings up a PDF of the article or chapter. Again, everything you need that isn't already online is available via our Zotero group library.
+"%}
 
-A few items in our Zotero library have more than one PDF attached to them. If you're getting the wrong chapter when double-clicking at item: Single click on the item to select it, then click the "Attachments" tab near the upper right of the page. You'll see links to all PDFs for that item and you can select the PDF and click the icon to open it.
+A few items in our Zotero library have more than one PDF attached to them. If you're getting the wrong chapter when double-clicking at item: Single click on the item to select it, then click the "Attachments" tab near the upper right of the page. You'll see links to all PDFs for that item and you can select the PDF you need and click the icon to open it.
 
 
 In addition to separate articles and book chapters, we have one sort of textbook that we use to keep everything connected: _How America Eats_ is our month-long guide that we read bit by bit (and slightly out of order for reasons that will become clear) throughout the course. [This book is freely available through UNM Libaries](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results). Links from here should ask you to log in with UNM credentials. If you don't want to read the whole thing online, there are many cheap copies available via various online booksellers (but NOT the UNM Bookstore).
