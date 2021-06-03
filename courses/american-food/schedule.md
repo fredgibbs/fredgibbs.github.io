@@ -29,8 +29,12 @@ Remember that if there isn't a direct link to a reading, it's in our course Zote
 # Week 1
 
 ## Jun 7
+
+### Course introductions
+Our task for today is to make sure you know how the course is structured and general expectations.
+
 - VIDEO: Course Intro, Syllabus Intro, and Why I like food
-- Warren Belasco, "Why study food?", from _Food: The Key Concepts_ (Oxford University Press, 2008): 1--13. Note the last couple pages are about eating meat (and seems a bit shaded against it, IMO). But Belasco misses a couple major points when talking about both the benefits and consequences of eating meat. On the quiz for today, plan to articulate what you think he is **not** addressing---but should---in that section. Hint: Does it have anything to do with his definition of "meat"?
+- Warren Belasco, "Why study food?", from _Food: The Key Concepts_, 1--13. Note the last couple pages are about eating meat (and seems a bit shaded against it, IMO). But Belasco misses a couple major points when talking about both the benefits and consequences of eating meat. On the quiz for today, plan to articulate what you think he is **not** addressing---but should---in that section. Hint: Does it have anything to do with his definition of "meat"?
 
 
 {% include alert.html class='warning' title='Syllabus quiz' text="
@@ -46,6 +50,8 @@ Just to make sure everyone is connected, and as an informal way of introducing o
 ## Jun 8
 
 ### Challenges and Rewards of Food + History
+I think this whole course makes more sense when you understand how and why people study food the way they do. So that's what the lecture is about, complemented by the Haley reading that argues we should resist the urge to romanticize the culinary past as is so often done in food media. A) It's never that simple and B) the real history is far more interesting and revealing.
+
 - Andrew P. Haley, "The Nation before Taste: The Challenges of American Culinary History", _The Public Historian_ 34.2 (2012): 53--78.
 - VIDEO: How and why to do food history
 
@@ -61,6 +67,8 @@ This will cover the lecture and the Haley reading.
 ## Jun 9
 
 ### National Cuisine & American Food
+The goal for today is to complicate the idea of "American" food through an investigation of national cuisine generally and ways of thinking about it. There are an unusually high number of readings for today, but they are all quite short!  
+
 - _HAE_, xi--xv.
 - _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
 - Alison K. Smith, [National Cuisines](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-25), from _The Oxford Handbook of Food History_ (2012). You can read more quickly over the long Russia example if you want, as the details don't much as the general ideas introduced earlier on. But do read the last paragraph! This is definitely the driest of the readings for this week, but it introduces a number of useful concepts to keep in mind as moving through the other readings.
@@ -79,12 +87,15 @@ This will cover the lecture and the Haley reading.
 ## Jun 10
 
 ### Authenticity
+Almost everyone thinks about whether some kind of food or dish is authentic from time to time. But what does that really mean? The few readings for today should help us think more carefully about why we do that and how useful it is. And most importantly, how we can do it more effectively.
+
 - Dwight Furrow, _American Foodie_ (7: Habits and Heresies: Authenticity, Food Rules, and Traditions), 133--48.
 - Kevin Alexander, [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
 
 #### Noteworthy
 - Sara Kay, [Yelp Reviewers’ Authenticity Fetish Is White Supremacy in Action](https://ny.eater.com/2019/1/18/18183973/authenticity-yelp-reviews-white-supremacy-trap).
 - Rachel Laudan, [Desperately Seeking Authenticity](https://www.latimes.com/archives/la-xpm-2001-dec-19-fo-16368-story.html)
+- Matthew Strohl, ‘On Culinary Authenticity’, _The Journal of Aesthetics and Art Criticism_, 77.2 (2019), 157--67.
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
@@ -114,14 +125,14 @@ This quiz covers basics from the readings, but also has short answer questions a
 ## Jun 14
 ###  On Cuisines and Corn
 - _HAE_, 13--31 (from 1: Cuisine of Contact).
-- Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (1: This Beautifull Noble Eare), 4--48. Read 4--22; and 45--48 more carefully; skim 22--45 on various dishes.
-- Erick Castellanos and Sarah Bergstresser, "The Mexican and Transnational Lives of Corn: Technological, Political, Edible Object", in _Edible Identities_ (ed. Broulotte and Di Giovine), Taylor & Francis (2016), 201--216.
+- Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (1: This Beautifull Noble Eare), 4--48. Read 4--22; and 45--48 more carefully; skim 22--45 on the various dishes.
 
 #### Noteworthy
 - John Lawerence, [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/#.YJ7o-GZKixs)
+- Erick Castellanos and Sarah Bergstresser, "The Mexican and Transnational Lives of Corn: Technological, Political, Edible Object", in _Edible Identities_ (ed. Broulotte and Di Giovine), Taylor & Francis (2016), 201--216.
 
 {% include alert.html class='warning' title='Reading Quiz' text="
-This quiz covers early food consumption in America, how food and personal/community/national identity are intertwined (as we see in attitudes about corn) and how meanings of food can be utterly transformed over time.
+This quiz covers early food consumption in early America, how food and personal/community/national identity were intertwined (as we see in attitudes about corn) and how meanings of food can be utterly transformed over time.
 "%}
 
 
@@ -129,25 +140,25 @@ This quiz covers early food consumption in America, how food and personal/commun
 ## Jun 15
 ### Early America, Early Food
 - _HAE_, 33--55 (2: Food and the Founding).
-- Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (4: Cookbooks and Commerce), 120--147. This is very helpful in understanding the world of food production at the time early cookbooks we're looking at were written, and part of the reason for their emergence. Skim to page 129 and read more carefully after that.
+- Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (4: Cookbooks and Commerce), 120--147. Even though not clearly marked, there are really two distinct parts to this readings. The first part (to p.129) is very helpful in understanding capitalist logic of food production in the late 1700s and early 1800s. The second part shows how early cookbooks start reflect the cultural changes underway during that time.
 
 #### Noteworthy
-- James E. McWilliams, “‘How Unripe We Are’”, _Food, Culture & Society_ 8.2 (2005): 143–60.
+- James E. McWilliams, “‘How Unripe We Are’”, _Food, Culture & Society_ 8.2 (2005): 143--60.
 
-{% include alert.html class='warning' title='Reading Quiz' text="
-This quiz covers the role of food in Revolutionary America, both in terms of actual food production and consumption, but also how ideas of FREEDOM were intimately tied to food and therefore American identity.
+{% include alert.html class='warning' title='Reading Reflection' text="
+What was the role of food in Revolutionary America? How were ideas of FREEDOM were intimately tied to food and therefore American identity?
 "%}
 
 
 
 ## Jun 16
 ### Cookbooks as historical sources
-The below readings will help you do the upcoming [Cookbook Analysis](cookbook-analysis) assignment. So read them with USING them in mind, not for writing a response about them.
+The below readings will help you do the upcoming [Cookbook Analysis](cookbook-analysis) assignment. So read them with USING them in mind, not for writing a response about them. But there is a quiz to highlight a few key points.
 - Ken Albala, [Cookbooks as Historical Documents](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-13).
 - Rachel A. Snell, [As North American as Pumpkin Pie: Cookbooks and the Development of National Cuisine in North America, 1796-1854](https://www.erudit.org/fr/revues/cuizine/2014-v5-n2-cuizine01533/1026771ar/).
 
 #### Noteworthy
-- Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_ (2: Culinary Tradition), 29-51. This provides a fascinating cultural background of cookbooks and their evolution. Honestly the first few sentences of each paragraph will give you enough background.
+- Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_ (2: Culinary Tradition), 29--51. This provides a fascinating cultural background of cookbooks and their evolution. Honestly the first few sentences of each paragraph will give you enough background.
 - Harry Haff, _The Founders of American Cuisine: Seven Cookbook Authors, with Historical Recipes_ (2: Amelia Simmons), 21--33. Note in particular how the author analyzes Simmons's cookbook. This is what you'll be doing for your assignment.
 - Colleen Cotter, "Claiming a Piece of the Pie", 51--68.
 - Jane C. Busch, "Using Cookbooks as Research Documents", 22--25.
@@ -159,7 +170,7 @@ The below readings will help you do the upcoming [Cookbook Analysis](cookbook-an
 - Eliza Leslie, [Miss Leslie\'s Complete Cookery](https://books.google.com/books?id=KVL5oJA8IWsC)
 
 {% include alert.html class='warning' title='Readings Quiz' text="
-This quiz highlights and emphasizes some ideas from the lecture and readings about HOW to use cookbooks as historical sources. It tries to ensure you are ready to do well on your assignment due tomorrow!
+This quiz highlights and emphasizes some ideas from the readings about HOW to use cookbooks as historical sources. It tries to ensure you are ready to do well on your assignment due tomorrow!
 "%}
 
 
