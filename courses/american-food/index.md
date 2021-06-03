@@ -22,11 +22,11 @@ This page outlines all the instructions, logistics, and expectations for the cou
 "%}
 
 ## Course Description
-When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. Why is that? What constitutes a "national" cuisine? Does this concept even make sense anymore? What about American food? Is there (or was there ever) such a thing? How much does the history of American Food present a different kind of American History from we typically hear? How are ideas of nationalism reflected in our foodways?
+When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. Why is that? What constitutes a "national" cuisine? Does this concept even make sense anymore? What have Americans eaten over time and why has it changed? Is there (or was there ever) such a thing? Does it matter?
 
-The goal of this course is to see how much fun we can have exploring different perspectives on the concept of national cuisine and American food. There will be some history, but that's beside the point. Never shall we care about memorizing and regurgitating supposedly important historical "facts".
+While the idea of American food is central to the course, the main goal of the course is to see how much fun we can have exploring different perspectives on the meanings of food. There will be some history, but that's a means to an end. Never shall we care about memorizing and regurgitating supposedly important historical "facts". The end goal is to use the past to think more critically about uses and meanings of food, both historically and in the present.
 
-Some questions we'll tackle: What have Americans eaten over time? Why? How do we construct identities through food? How much have immigration and regionalization shaped dietary preferences? How have dietary and nutritional advice altered perceptions of food and cuisine over the 20th century? How have relatively recent global industrial conglomerates shaped the idea of what constitutes American food? What can the future of American food learn from its past?
+ How do we construct identities through food? How much have immigration and regionalization shaped dietary preferences and notions of American food? What can the future of American food learn from its past?
 
 ## Learning Objectives
 {% include alert.html class='info' title='' text="
