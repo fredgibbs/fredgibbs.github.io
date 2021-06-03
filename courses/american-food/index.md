@@ -16,9 +16,10 @@ section: home
 - Remote asynchronous (ie no set meeting times)
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
 
-## Getting Started
-This page, and the [schedule page](schedule), have all the instructions and assignments you need for the course. Make sure you are very familiar with these two pages. We use UNM Learn to manage quizzes, assignment submissions, and the discussion board, but all course information is on these two pages.
 
+{% include alert.html class='info' title='Getting Started' text="
+This page outlines all the instructions, logistics, and expectations for the course; the [schedule page](schedule) has all the instructions and assignments for each day. Make sure you are very familiar with these two pages. We use UNM Learn to manage quizzes, assignment submissions, and the discussion board, but all course information is on these two pages.
+"%}
 
 ## Course Description
 When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. Why is that? What constitutes a "national" cuisine? Does this concept even make sense anymore? What about American food? Is there (or was there ever) such a thing? How much does the history of American Food present a different kind of American History from we typically hear? How are ideas of nationalism reflected in our foodways?
@@ -27,7 +28,8 @@ The goal of this course is to see how much fun we can have exploring different p
 
 Some questions we'll tackle: What have Americans eaten over time? Why? How do we construct identities through food? How much have immigration and regionalization shaped dietary preferences? How have dietary and nutritional advice altered perceptions of food and cuisine over the 20th century? How have relatively recent global industrial conglomerates shaped the idea of what constitutes American food? What can the future of American food learn from its past?
 
-{% include alert.html class='info' title='Learning Objectives' text="
+## Learning Objectives
+{% include alert.html class='info' title='' text="
 I put these in a super special box because I think they are important and I want to be sure THEY ARE CLEARLY VISIBLE. Literally everything we do in this class works toward one or more of these goals.
 - Describe how food shapes identities at various scales from the personal to the national.
 - Give historic examples of how attitudes toward food are influenced by shifting cultural, social, religious, scientific, and political values
@@ -38,9 +40,9 @@ I put these in a super special box because I think they are important and I want
 
 ## Where to find stuff
 - [Syllabus](http://fredgibbs.net/courses/american-food). You're already here! Remember there are two pages: this one and the [schedule](schedule) page.
-- [UNM Learn](http://learn.unm.edu). All assignments will be submitted via UNM Learn. The left nabe bar has links to everything you need as well.
-- [YouTube Channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig) will host lectures and other screencasts. I put links to everything on the syllabus once they are uploaded, but I don't barge into your inbox just to tell you there's a new video. If you want such notifications, you can subscribe to the Channel and get them automatically.
-- For readings, we use an external tool called [Zotero](http://zotero.org), and you need to create a free account and request to join our group library. It's a super quick process, and the `Readings and Books` section below has all the details.
+- [UNM Learn](http://learn.unm.edu). All assignments will be submitted via UNM Learn. The left nav bar has links to everything you need as well. We use Learn only for quizzes, posting reading reflections and an occasional survey. There is nothing else there that you need.
+- [YouTube Channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig) will host lectures and other screencasts. I put links to everything on the syllabus once they are uploaded, but I don't barge into your inbox just to tell you there's a new video. If you want such notifications, you can subscribe to the Channel and get notifications that way.
+- For readings, we use an external tool called [Zotero](http://zotero.org), and you need to create a free account and request to join our group library. It's a super quick process, and the `Readings and Books` section below has all the details. It will take less than 5 minutes.
 
 
 ## Work Requirements
@@ -60,9 +62,7 @@ The little equations after the assignment type indicates `number of assignments`
 - [Food blog analysis](food-blog-analysis) (1x30 = 30)
 - [Final learning reflection](final-course-reflection) (1x40 = 60)
 
-{% include alert.html class='info' title='Embrace ambiguity' text="
 So you can expect around 320 points, but quizzes are sometimes a bit more or less than 10 points and I may swap out one kind of assignment for another, which may slightly change the point total. Your grade is determined by percent, as indicated below. To keep up with grading for a large class that has a lot of assignments in a short time, all grading is done through assignment rubrics so you get at least some feedback more quickly.
-"%}
 
 The [schedule page](schedule) indicates all due dates for course work; all assignments should be posted to UNM Learn by the end of the day they are listed (by midnight).
 
@@ -70,7 +70,6 @@ There are two TAs for the course who mostly help with scoring your submitted wor
 
 #### Embrace Ambiguity
 The quizzes are mostly straightforward, but not trivial. The goal is to make you THINK CAREFULLY and CRITICALLY about course material. Sometimes I ask deliberately vague questions that don't really have a right answer because I am using the questions to highlight an important ambiguity.  These questions won't count toward your grade, but you won't know which questions count or not when you're taking the quiz (you'll find out after). Because this class is about interpretation and argument, you are encouraged to debate on the discussion board ANY quiz question marked as incorrect. If you contribute something original to the discussion (not just, \"I agree with the last response!\"), you can get extra credit to make sure you're earning the grade you want.
-
 
 
 
