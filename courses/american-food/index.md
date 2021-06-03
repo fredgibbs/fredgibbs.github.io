@@ -126,16 +126,14 @@ Most of the reading for the course are book chapters, short articles, and blog p
 ### Step 1: Create a Zotero account
 If you don't have one already, [sign up for a free account at zotero.org](https://www.zotero.org/user/register). Creating a Zotero account requires only that you specify a username, password, and email address. You will not get any spam from Zotero or anyone else because of your Zotero account. **Use your UNM email address!!!!!**
 
-### Step 2: Make sure you are logged into zotero.org
+### Step 2: Make sure you are logged in at zotero.org
 You should see your username or a "Log Out" link on the top nav bar. If you see a "Log In" link, you need to log in. Pretty straightforward.
 
-### Step 3: Go to our Zotero Group homepage
-Visit [our Zotero Group homepage](https://www.zotero.org/groups/2499167/american-food-unm/).
+### Step 3: Request to Join our group library
+Visit [our Zotero Group homepage](https://www.zotero.org/groups/2499167/american-food-unm/), and click the red "Join" button off to the right, which will send an email to me. As soon as I see it (usually within the hour unless you're doing it late at night), I'll approve your request to join the group. There is nothing else you need to do at this point.
 
-### Step 4: Click the red "Join" button
-Click the red "Join" button off to the right, which will send an email to me. As soon as I see it (usually within the hour unless you're doing it late at night), I'll approve your request to join the group. There is nothing else you need to do at this point.
 
-### Accessing Readings
+### AFTER ABOVE: Accessing Readings
 {% include alert.html class='info' title='' text="
 Once you've completed the steps above, and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/2499167/american-food-unm/library). Double clicking an item brings up a PDF of the article or chapter. Again, everything you need that isn't already online is available via our Zotero group library.
 "%}
@@ -149,9 +147,9 @@ In addition to separate articles and book chapters, we have one sort of textbook
 
 
 ### Familiarity over mastery
-If you peek at the reading schedule page, you might think there is a lot of reading. You're right! As an intensive 1H course, there IS a lot of reading. This is unavoidable because I respect the challenges and demands of a compressed four-week course that ostensibly provides comparable intellectual rigor as a full-semester course. So the workload is comparable to any average 1H upper-level humanities course, whether in person or online, but obviously more intense than a regular full semester course.
+If you peek at the reading schedule page, you might think there is a lot of reading. You're right! As an intensive 1H course, there IS a lot of reading. This is unavoidable because I respect the challenges and demands of a compressed four-week course that ostensibly provides a learning experience comparable to a full-semester course. So the workload is comparable to any average 1H upper-level humanities course, whether in person or online, but is obviously more intense than a regular full semester course.
 
-Almost all readings are meant for a broad (largely non-academic) audience and therefore are relatively quick and engaging reads. At the same time, they are smart, articulate, and give us plenty to talk about, especially as we put them in conversation with each other, and how they tell very different stories of American Food.
+Almost all readings are meant for a broad (largely non-academic) audience and therefore are relatively quick and engaging reads. At the same time, most are smart, articulate, and give us plenty to talk about, especially as we put them in conversation with each other, and how they tell very different stories of American Food. For almost everything we read, we're reading to ENGAGE with it, not because it's right. There is a LOT to disagree with across the readings. And we don't all have to agree on anything. 
 
 I've tried to embrace a _less is more_ philosophy, but there's a lot to do, you cannot possibly read every word, or every page, or master all the ideas, **and that's just fine**. I DO expect you to gain a familiarity across all the readings so that you can write a thoughtful response about them. Because we're covering so much ground so quickly, broad familiarity is far more important than specific details.
 
