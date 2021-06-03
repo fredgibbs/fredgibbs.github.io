@@ -7,10 +7,10 @@ number: HIST 413
 section: links-guides
 ---
 
-# Food Documentary Essay
+# Food Documentary Critique
 
 ## Objective
-This assignment encourages you to bring what we've learned in class in critiquing and analyzing a food documentary. There are roughly a zillion; it's easy to find plenty via standard streaming outlets like Netflix, Hulu, Amazon Prime, PBS, etc.  It can be more focused on diet, food production, food industry, or whatever, but it food must be the main concern of the documentary.
+This assignment encourages you to bring what we've learned in class in critiquing and analyzing a food documentary. There are roughly a zillion; it's easy to find plenty via standard streaming outlets like Netflix, Hulu, Amazon Prime, PBS, etc. It can be more focused on diet, food production, food history, food industry, or whatever, but FOOD must be the main concern of the documentary.
 
 ## Basics
 - 800--1000 words (about the same as your longer analysis assignments)
@@ -20,7 +20,7 @@ This assignment encourages you to bring what we've learned in class in critiquin
 - Smooth, focused writing
 
 ## Questions to address
-- Summarize what you think the moral or take home message is, including not only whatever the film says is the purpose, but also other important points that you think it makes.
+- Summarize what you think the moral or take home message is? This include both whatever the film says is the purpose AND other important points that you think it makes
 - Who is the intended audience? What do they know? What do they need to know but don't?
 - How does the film try to persuade you? What kind of evidence does it provide?
 - How is it effective? What doubts do you have?
