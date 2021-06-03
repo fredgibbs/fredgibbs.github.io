@@ -129,23 +129,23 @@ If you don't have one already, [sign up for a free account at zotero.org](https:
 ### Step 2: Make sure you are logged into zotero.org
 You should see your username or a "Log Out" link on the top nav bar. If you see a "Log In" link, you need to log in. Pretty straightforward.
 
-### Step 3: Go to our Zotero Group page
-Visit [our Zotero Group page](https://www.zotero.org/groups/2499167/american-food-unm/).
+### Step 3: Go to our Zotero Group homepage
+Visit [our Zotero Group homepage](https://www.zotero.org/groups/2499167/american-food-unm/).
 
 ### Step 4: Click the red "Join" button
 Click the red "Join" button off to the right, which will send an email to me. As soon as I see it (usually within the hour unless you're doing it late at night), I'll approve your request to join the group. There is nothing else you need to do at this point.
 
 ### Accessing Readings
-{% include alert.html class='info' title='Zotero Readings' text="
-Once you've completed the steps above and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/2499167/american-food-unm/library). Double clicking an item brings up a PDF of the article or chapter. Again, everything you need that isn't already online is available via our Zotero group library.
+{% include alert.html class='info' title='' text="
+Once you've completed the steps above, and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/2499167/american-food-unm/library). Double clicking an item brings up a PDF of the article or chapter. Again, everything you need that isn't already online is available via our Zotero group library.
 "%}
 
 A few items in our Zotero library have more than one PDF attached to them. If you're getting the wrong chapter when double-clicking at item: Single click on the item to select it, then click the "Attachments" tab near the upper right of the page. You'll see links to all PDFs for that item and you can select the PDF you need and click the icon to open it.
 
 
-In addition to separate articles and book chapters, we have one sort of textbook that we use to keep everything connected: _How America Eats_ is our month-long guide that we read bit by bit (and slightly out of order for reasons that will become clear) throughout the course. [This book is freely available through UNM Libaries](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results). Links from here should ask you to log in with UNM credentials. If you don't want to read the whole thing online, there are many cheap copies available via various online booksellers (but NOT the UNM Bookstore).
+In addition to separate articles and book chapters, we have one sort of textbook that we use to keep everything connected: _How America Eats_ is our month-long guide that we read bit by bit (and slightly out of order for reasons that will become clear) throughout the course. [This book is freely available through UNM Libraries](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results). Links from here should ask you to log in with UNM credentials. If you don't want to read the whole thing online, there are many cheap copies available via various online booksellers (but NOT the UNM Bookstore).
 
-- Jennifer Jensen Wallach, _How America Eats: A Social History of U.S. Food and Culture_ (Rowman & Littlefield Publishers, 2014). [online](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results)
+- Jennifer Jensen Wallach, _How America Eats: A Social History of U.S. Food and Culture_ (Rowman & Littlefield Publishers, 2014). [online via UNM](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results)
 
 
 ### Familiarity over mastery
