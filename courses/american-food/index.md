@@ -12,6 +12,7 @@ section: home
 ## Logistics
 - HIST 413
 - Summer 2021
+- 1H (June 7 -- July 3)
 - 3 Credit Hours
 - Remote asynchronous (ie no set meeting times)
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
