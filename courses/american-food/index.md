@@ -34,7 +34,7 @@ I put these in a super special box because I think they are important and I want
 - Describe how food shapes identities at various scales from the personal to the national.
 - Give historic examples of how attitudes toward food are influenced by shifting cultural, social, religious, scientific, and political values
 - Become more critical consumers of writing about food, whether about cooking, dieting, authenticity, appropriation, production, etc.
-- Think more critically about motivations behind food choices and what they might tell us about ourselves.
+- Think more critically and deeply about the uses and meanings of food and food choices both historically and in everyday life.
 "%}
 
 
@@ -149,7 +149,7 @@ In addition to separate articles and book chapters, we have one sort of textbook
 ### Familiarity over mastery
 If you peek at the reading schedule page, you might think there is a lot of reading. You're right! As an intensive 1H course, there IS a lot of reading. This is unavoidable because I respect the challenges and demands of a compressed four-week course that ostensibly provides a learning experience comparable to a full-semester course. So the workload is comparable to any average 1H upper-level humanities course, whether in person or online, but is obviously more intense than a regular full semester course.
 
-Almost all readings are meant for a broad (largely non-academic) audience and therefore are relatively quick and engaging reads. At the same time, most are smart, articulate, and give us plenty to talk about, especially as we put them in conversation with each other, and how they tell very different stories of American Food. For almost everything we read, we're reading to ENGAGE with it, not because it's right. There is a LOT to disagree with across the readings. And we don't all have to agree on anything. 
+Almost all readings are meant for a broad (largely non-academic) audience and therefore are relatively quick and engaging reads. At the same time, most are smart, articulate, and give us plenty to talk about, especially as we put them in conversation with each other, and how they tell very different stories of American Food. For almost everything we read, we're reading to ENGAGE with it, not because it's right. There is a LOT to disagree with across the readings. And we don't all have to agree on anything.
 
 I've tried to embrace a _less is more_ philosophy, but there's a lot to do, you cannot possibly read every word, or every page, or master all the ideas, **and that's just fine**. I DO expect you to gain a familiarity across all the readings so that you can write a thoughtful response about them. Because we're covering so much ground so quickly, broad familiarity is far more important than specific details.
 
