@@ -33,7 +33,7 @@ Remember that if there isn't a direct link to a reading, it's in our course Zote
 ### Course introductions
 Our task for today is to make sure you know how the course is structured and general expectations.
 
-- VIDEO: Course Intro, Syllabus Intro, and Why I like food
+- [VIDEO: Course Intro, Syllabus Intro, and Why I like food](https://youtu.be/w4WJ5wmduY8)
 - Warren Belasco, "Why study food?", from _Food: The Key Concepts_, 1--13. Note the last couple pages are about eating meat (and seems a bit shaded against it, IMO). But Belasco misses a couple major points when talking about both the benefits and consequences of eating meat. On the quiz for today, plan to articulate what you think he is **not** addressing---but should---in that section. Hint: Does it have anything to do with his definition of "meat"?
 
 
