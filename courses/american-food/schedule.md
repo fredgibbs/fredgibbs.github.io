@@ -71,7 +71,7 @@ This will cover the lecture and the Haley reading.
 ### National Cuisine & American Food
 The goal for today is to complicate the idea of "American" food through an investigation of national cuisine generally and ways of thinking about it. There are an unusually high number of readings for today, but they are all quite short!  
 
-- _HAE_, xi--xv.
+- _HAE_, xi--xv. _HAE_ refers to _How America Eats_ as described on the syllabus home page. You can access it for [free through UNM Libraries](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results).
 - _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
 - Alison K. Smith, [National Cuisines](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-25), from _The Oxford Handbook of Food History_ (2012). You can read more quickly over the long Russia example if you want, as the details don't much as the general ideas introduced earlier on. But do read the last paragraph! This is definitely the driest of the readings for this week, but it introduces a number of useful concepts to keep in mind as moving through the other readings.
 - Sean Wyer, [Italy isn't Eatalty](https://vittles.substack.com/p/italy-isnt-eataly). The title and conclusion of this article relate the unsurprising point that the cuisine of an entire nation can't be captured in a giant upscale grocery store. We hardly need to article to explain that to us, but the author makes a number of good points about how to think about national cuisine.
@@ -108,7 +108,7 @@ These readings give us some new perspectives on the idea of authenticity and cas
 
 ## Jun 11 (Fri)
 ### Cuisines of Contact & Thanksgiving
-- _HAE_, 1--11 (from 1: Cuisine of Contact).
+- _HAE_, 1--10 (from 1: Cuisine of Contact).
 - Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167--91.
 
 #### Noteworthy
