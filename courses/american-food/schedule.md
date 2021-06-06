@@ -42,7 +42,9 @@ This will cover the course into video, the syllabus, and the short Belasco readi
 "%}
 
 {% include alert.html class='danger' title='Introductory post' text="
-Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post on the class Discussion Board in UNM Learn (should be an obvious link on the left nav bar) a brief introduction to who you are and one of your most vivid food memories---and why it resonates with you. These should be ~150-200 words or so. PLEASE DO THIS BY THE END OF MONDAY JUNE 7.
+Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post on the class Discussion Board in UNM Learn (should be an obvious link on the left nav bar in Learn) a brief introduction and one of your most vivid food memories---and why it resonates with you. These should be ~150 words or so. Please REPLY to the previous post (I've already put one there as a starter) so that we get one continuous thread---that makes reading through them MUCH easier.
+
+Remember that all work, including these introductions, are due on the the day they are listed on the syllabus---that's today!
 "%}
 
 
