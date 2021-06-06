@@ -3,35 +3,31 @@ layout: default
 title: using zotero | fred gibbs  
 ---
 
-# How to Access the Course Zotero Library
+# A Breif Zotero Guide
 
 [Zotero](http://zotero.org) is a free and popular tool developed by academics for academics for managing bibliographies to share resources like PDFs.
 
-To access the course readings, you'll need to join our group library for the course. These steps walk you through the process. I can't just automatically add you to our Zotero group, so you need to request to join it.
-
-If you already have a Zotero account, skip to Step 2. You won't need to create another Zotero account, but you will need to request access to our group to access the library for this course.
+Consult the syllabus for details about how to connect to Zotero for your course. This guide explains in more detail how to use the platform and troubleshooting
 
 
+## Using Zotero
+Once you've joined the group library, you can access all the readings on the Library Page. The Readings and Books section of the syllabus home page will have the specific link you need for the course library.
 
-## Step 1: Create a Zotero account
-If you don't have one already, [sign up for a free account at zotero.org](https://www.zotero.org/user/register). Creating a Zotero account requires only that you specify a username, password, and email address. You will not get any spam from Zotero or anyone else because of your Zotero account. **Use your UNM email address!!!!!**
+Double-clicking a reading will bring up the PDF attached to it.
 
+A few items in our Zotero library have more than one PDF attached to them. If you're getting the wrong chapter when double-clicking at item: Single click on the item to select it, then click the "Attachments" tab near the upper right of the page. You'll see links to all PDFs for that item and you can select the PDF you need and click the icon to open it.
 
-## Step 2: Make sure you are logged into zotero.org
-To verify you are logged in, look for a "Log Out" link in the upper right corner of the page.
-
-
-## Step 3: Go to our Zotero Group homepage
-- Go to the `Zotero Group homepage` as specified on the main page of your course syllabus, usually in the `Readings` section. Make sure you go to the Group homepage, not the group library.
-
-## Step 4: Click the red "Join" button
-- Click the red "Join" button off to the right, which will send an email to me. As soon as I see it, I'll approve your request to join the group (usually within the hour).
-
-
----
 
 
 ## TROUBLESHOOTING FAQs
+
+### I can see the items on the group library page, but I can't find/open any PDFs.
+- Everyone can SEE items in the library, even when not logged into zotero.org. You can only access the PDFs if you have JOINED the library.
+- First, check that you're logged in to zotero.org.
+- If you ARE logged in, but can't get any PDFs to open, then you haven't joined the group library. Follow the directions from steps 1 or 2.
+
+### I keep getting the wrong PDF when I double-click a reading in the library.
+A few items in our Zotero library have more than one PDF attached to them. If you're getting the wrong chapter when double-clicking at item: Single click on the item to select it, then click the "Attachments" tab near the upper right of the page. You'll see links to all PDFs for that item and you can select the PDF you need and click the icon to open it.
 
 ### I'm logged into zotero.org, but I can't find the group library for the course.
 - Click on the "groups" tab or link at the top of the page and you should see a link to the group homepage.
@@ -39,13 +35,6 @@ To verify you are logged in, look for a "Log Out" link in the upper right corner
 - The easiest way to get to the group library, and make sure you're going to the right spot, is to use the link on the syllabus.
 
 
-### I can see the items on the group library page, but I can't find/open any PDFs.
-- Everyone can SEE items in the library, even when not logged into zotero.org. You can only access the PDFs if you have JOINED the library.
-- First, check that you're logged in to zotero.org. If you are, there will be a "Log Out" link in the upper right corner of the page.
-- If you ARE logged in, but can't get any PDFs to open, then you haven't joined the group library. Follow the directions from steps 1 or 2.
-
-
----
 
 ## HIGHLY RECOMMENDED: Install Zotero on your computer
 Using the Zotero website to access the readings will always work, but it's seriously clunky. I HIGHLY recommend that you [download and install Zotero](https://www.zotero.org/download/) on your computer, so you'll have a much faster, convenient, and clearer interface to the readings. Use the "Standalone" version. It is a small app that is entirely safe to install.
