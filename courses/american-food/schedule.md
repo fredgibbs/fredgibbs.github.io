@@ -55,7 +55,7 @@ Remember that all work, including these introductions, are due on the the day th
 I think this whole course makes more sense when you understand how and why people study food the way they do. So that's what the lecture is about, complemented by the Haley reading that argues we should resist the urge to romanticize the culinary past as is so often done in food media. A) It's never that simple and B) the real history is far more interesting and revealing.
 
 - Andrew P. Haley, "The Nation before Taste: The Challenges of American Culinary History", _The Public Historian_ 34.2 (2012): 53--78.
-- VIDEO: How and why to do food history
+- [VIDEO: How and why to do food history](https://youtu.be/BWFMOiorPqg)
 
 #### Noteworthy
 - G. J. Fitzgerald and G. M. Petrick, "In Good Taste: Rethinking American History with Our Palates", _Journal of American History_ 95.2 (2008): 392--404.
@@ -246,6 +246,7 @@ This quiz draws equally from both readings and focuses on food and identity in t
 
 
 #### Noteworthy
+- Navneet Alang, [Stewed Awakening](https://www.eater.com/2020/5/20/21262304/global-pantry-alison-roman-bon-appetit) (_Eater_, June 2020).
 - Michael Twitty, _The Cooking Gene_, 1--24.
 - [Michael Twitty on Culinary Justice](https://www.youtube.com/watch?v=EhxjC3XX54g)
 
