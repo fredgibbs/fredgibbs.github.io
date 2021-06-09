@@ -41,6 +41,6 @@ We use a consistent grading rubric for basic reading responses---and this should
 
 **Clarity**: Can I understand what you're trying to say? This includes basic grammar issues like using clear paragraphs, avoiding run-on sentences, not starting every sentence with "this", etc. It also includes a logical progression of sentences within paragraphs. If your post looks like a giant text message, you won't get many points in this category.
 
-**Familiarity**: Do you communicate a sense of what's in the SET of READINGS? Completely ignoring one or more of the readings in your post is the easiest way to lose points for this category. Not mentioning topics that take up a lot of space and are obviously central to the set of readings is another good way to lose points.
+**Familiarity**: Do you communicate a sense of what's in the SET of READINGS? Not mentioning topics that take up a lot of space and are obviously central to the set of readings is the most common way to lose points.
 
 **Originality**: You don't need to win an award for creative non-fiction with your essay, but you shouldn't just repeat what the readings say. Anyone with basic literacy can repeat what they read, and that doesn't show any kind of learning or thinking. Real learning means understanding the reading well enough to have something to say about it. You don't need to say something that's never been said! Originality here means saying something ABOUT the readings beyond what's in the readings themselves.
