@@ -80,7 +80,7 @@ The goal for today is to complicate the idea of "American" food through an inves
 
 {% include alert.html class='danger' title='Reading reflection' text="
 1. make sure you're familiar with the [reading reflection guide](reading-reflections).
-2. DRAWING FROM THE SET OF READINGS: What are the most useful ideas for thinking about national cuisine that you noted? Can a cuisine be defined by its diversity as Tobias suggests? Or does such diversity mean there really isn't an American cuisine (as Mintz suggests)? Does the essence of a cuisine lie in certain \"dispositions\" as Tobias suggests?
+2. DRAWING FROM THE SET OF READINGS: What are the most useful ideas for thinking about national cuisine that you noted? Can a national cuisine be defined by its diversity (as Lee and Tobias suggest)? Or does such diversity mean there really isn't an American cuisine (as Mintz suggests), and would that be OK? Does the difficulty of defining a national cuisine complicate the idea of national identity in general?
 3. Don't forget your 1-2 THOUGHTFUL questions at the end that I can address in the next video. See the [reading reflection guide](reading-reflections) for more.
 "%}
 
