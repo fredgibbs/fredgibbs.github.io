@@ -92,6 +92,7 @@ The goal for today is to complicate the idea of "American" food through an inves
 ### Authenticity
 Almost everyone thinks about whether some kind of food or dish is authentic from time to time. But what does that really mean? The few readings for today should help us think more carefully about why we do that and how useful it is. And most importantly, how we can do it more effectively.
 
+- [VIDEO: Overlap between national cuisine and authentic food and ideas for your reflections](https://youtu.be/qqiNJx3mS8c)
 - Dwight Furrow, _American Foodie_ (7: Habits and Heresies: Authenticity, Food Rules, and Traditions), 133--48.
 - Kevin Alexander, [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
 
