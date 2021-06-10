@@ -102,7 +102,7 @@ Almost everyone thinks about whether some kind of food or dish is authentic from
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-These readings give us some new perspectives on the idea of authenticity and cast some (if not significant) doubt on the value of the concept. How is it useful? How is it not? Why do many (if not most people) care still about it? What does it say about those who value it? MAIN QUESTION: Alexander's article is provocative and fun and sometimes smart. But would it be even smarter if it incorporate more of Furrow's ideas?
+These readings give us some new perspectives on the idea of authenticity and cast some (if not significant) doubt on the value of the concept. Drawing from BOTH readings: How is it useful? How is it not? Alexander's article is provocative and fun and sometimes smart. Would it be even better if it incorporated more of Furrow's ideas (and nuance generally)? Or is it better to take a hard line on the topic as he does?
 "%}
 
 
