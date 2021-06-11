@@ -112,13 +112,14 @@ These readings give us some new perspectives on the idea of authenticity and cas
 ### Cuisines of Contact & Thanksgiving
 - _HAE_, 1--10 (from 1: Cuisine of Contact).
 - Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167--91.
+- [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/). This quick read serves two purposes: it's a nice overview of what food were likely available at the harvest celebration of 1621. And it's a good example of uncritical food history that focuses entirely on food without much of the historical context (neither in the 1600s or 1900s).
 
 #### Noteworthy
 - Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70--74.
-- [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/)
+
 
 {% include alert.html class='warning' title='Readings Quiz' text="
-This quiz covers basics from the readings, but also has short answer questions about the various myths and meanings associated with Thanksgiving. How much does Thanksgiving reflect both nationalism (of some people) and marginalization (of other people)?
+This quiz covers basics from the readings, but also has a few short answer questions about the various myths and meanings associated with Thanksgiving. How much does Thanksgiving reflect both nationalism (of some people) and marginalization (of other people)?
 "%}
 
 
