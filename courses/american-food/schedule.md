@@ -110,6 +110,7 @@ These readings give us some new perspectives on the idea of authenticity and cas
 
 ## Jun 11 (Fri)
 ### Cuisines of Contact & Thanksgiving
+- NO VIDEO TODAY
 - _HAE_, 1--10 (from 1: Cuisine of Contact).
 - Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167--91.
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/). This quick read serves two purposes: it's a nice overview of what food were likely available at the harvest celebration of 1621. And it's a good example of uncritical food history that focuses entirely on food without much of the historical context (neither in the 1600s or 1900s).
