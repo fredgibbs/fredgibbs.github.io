@@ -131,10 +131,10 @@ This quiz covers basics from the readings, but also has a few short answer quest
 ## Jun 14
 ###  On Cuisines and Corn
 - _HAE_, 13--31 (from 1: Cuisine of Contact).
-- Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (1: This Beautifull Noble Eare), 4--48. Read 4--22; and 45--48 more carefully; skim 22--45 on the various dishes.
+- Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (1: This Beautifull Noble Eare), read 4--22 and 45--48 more carefully; skim 22--45 on the various dishes.
+- John Lawerence, [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/#.YJ7o-GZKixs). This is a quick read that gives you a sense of how ubiquitious CORN is in the average American diet. Despite its reviled beginnings, maybe corn is the ultimate American food. A good illustration of how tastes change. You can stop reading when you get about halfway through and the author starts talking about organic food--it's not about corn at all and the author is just mostly upset that industrial organic farming isn't more in the original spirit of organics but he does a lot of overgeneralizing.
 
 #### Noteworthy
-- John Lawerence, [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/#.YJ7o-GZKixs)
 - Erick Castellanos and Sarah Bergstresser, "The Mexican and Transnational Lives of Corn: Technological, Political, Edible Object", in _Edible Identities_ (ed. Broulotte and Di Giovine), Taylor & Francis (2016), 201--216.
 
 {% include alert.html class='warning' title='Reading Quiz' text="
