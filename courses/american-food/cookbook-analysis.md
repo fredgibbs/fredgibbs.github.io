@@ -14,7 +14,7 @@ Pick a book from [this collection](https://babel.hathitrust.org/cgi/mb?c=1934413
 ## Basic Goals
 - ~800--900 words. But quality is more important than quantity.
 - Give a brief summary of the author's tone/style, organization, topics covered, and other main features of the book.
-- Apply the readings and our discussions to your analysis of a historic cookbook. We've talked a lot of about attitudes toward ingredients and dishes and cuisines recently. How does (or not) your cookbook illustrate the issues we've been discussing?
+- Apply the readings and our discussions to your analysis of a historic cookbook based on the questions below. We've talked a lot of about attitudes toward ingredients and dishes and cuisines recently. How does (or not) your cookbook illustrate the issues we've been discussing?
 - Enjoy looking through a primary source for food history. This is meant to be more of a fun way of engaging with historical sources!
 
 

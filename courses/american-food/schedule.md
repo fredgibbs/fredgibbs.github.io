@@ -136,6 +136,7 @@ This quiz covers basics from the readings, but also has a few short answer quest
 
 #### Noteworthy
 - Erick Castellanos and Sarah Bergstresser, "The Mexican and Transnational Lives of Corn: Technological, Political, Edible Object", in _Edible Identities_ (ed. Broulotte and Di Giovine), Taylor & Francis (2016), 201--216.
+- [Ever wonder what tassles are for?](https://www.youtube.com/watch?v=XEmbOFsqld8)
 
 {% include alert.html class='warning' title='Reading Quiz' text="
 This quiz covers early food consumption in early America, how food and personal/community/national identity were intertwined (as we see in attitudes about corn) and how meanings of food can be utterly transformed over time. It will also ask you about the main points of the Pollan article, but nothing specific, so just read for the big picture.
@@ -161,7 +162,7 @@ What was the role of food in Revolutionary America? How were ideas of FREEDOM we
 ### Cookbooks as historical sources
 The below readings will help you do the upcoming [Cookbook Analysis](cookbook-analysis) assignment. So read them with USING them in mind, not for writing a response about them. But there is a quiz to highlight a few key points.
 - Barbara Ketcham Wheaton, "Cookbook as Resources for Social History". This chapter very nicely sketches out, with many diverse examples, how cookbooks function as windows onto history, including how and why they were used in the world.
-- Ken Albala, [Cookbooks as Historical Documents](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-13). This chapter, although a bit long, very nicely lays out a process for interrogating cookbooks and reading in between the lines. The questions and methods described in the article are exactly what you be doing with your own [cookbook analysis](cookbook-analysis) due tomorrow.
+- Ken Albala, [Cookbooks as Historical Documents](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-13). This chapter, although a bit long, very nicely lays out a process for interrogating cookbooks and reading in between the lines with many excellent examples. The questions and methods described in the article are exactly what you be doing with your own [cookbook analysis](cookbook-analysis) due tomorrow.
 
 
 #### Noteworthy
