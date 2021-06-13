@@ -132,13 +132,13 @@ This quiz covers basics from the readings, but also has a few short answer quest
 ###  On Cuisines and Corn
 - _HAE_, 13--31 (from 1: Cuisine of Contact).
 - Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (1: This Beautifull Noble Eare), read 4--15 and 45--48 more carefully; skim (but don't skip) 15--45 on the various dishes (nothing about particular dishes will be on the quiz, but I will ask about about general availability of food and attitudes toward ingredients).
-- John Lawerence, [Cheap Corn Permeates Every Facet of the American Diet](https://sandiegofreepress.org/2014/04/cheap-corn-permeates-every-facet-of-the-american-diet-2/#.YJ7o-GZKixs). This is a quick read that gives you a sense of how ubiquitious CORN is in the average American diet and WHY (ie how it got so cheap). Despite its reviled beginnings, maybe corn is the now ultimate American food; it's certianly a good illustration of how attitudes about food can change. You can stop reading when you get about halfway through and the author starts talking about organic food, as then the article become less a succinct history and more of a complaint that industrial organic agriculture is so far from the original spirit of organic agriculture (true enough, but not relevant to corn).
+- Michael Pollan, _Omnivore's Dilemma_, (Chap. 2: The Farm), 32--56. The point of this reading (it's the fastest read for today) is to get a sense of the commoditization of corn and why it's so cheap now. And to compare the meaning of corn as discussed in the other readings with how it's portrayed in this chapter.
 
 #### Noteworthy
 - Erick Castellanos and Sarah Bergstresser, "The Mexican and Transnational Lives of Corn: Technological, Political, Edible Object", in _Edible Identities_ (ed. Broulotte and Di Giovine), Taylor & Francis (2016), 201--216.
 
 {% include alert.html class='warning' title='Reading Quiz' text="
-This quiz covers early food consumption in early America, how food and personal/community/national identity were intertwined (as we see in attitudes about corn) and how meanings of food can be utterly transformed over time.
+This quiz covers early food consumption in early America, how food and personal/community/national identity were intertwined (as we see in attitudes about corn) and how meanings of food can be utterly transformed over time. It will also ask you about the main points of the Pollan article, but nothing specific, so just read for the big picture.
 "%}
 
 
