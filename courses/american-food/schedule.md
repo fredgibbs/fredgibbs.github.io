@@ -131,7 +131,7 @@ This quiz covers basics from the readings, but also has a few short answer quest
 ## Jun 14
 ###  On Cuisines and Corn
 - _HAE_, 13--31 (from 1: Cuisine of Contact).
-- Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (1: This Beautifull Noble Eare), read 4--15 and 45--48 more carefully; skim (but don't skip) 15--45 on the various dishes (nothing about particular dishes will be on the quiz, but I will ask about about general availability of food and attitudes toward ingredients).
+- Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (1: This Beautifull Noble Eare), read 4--15 and 45--48 more carefully; skim (but don't skip) 15--45 on the various dishes. Nothing about particular dishes will be on the quiz, but I will ask why such descriptions are there, so look for those bits in the pages you're skimming. HINT: It has something to do with how dishes move across cultures.
 - Michael Pollan, _Omnivore's Dilemma_, (Chap. 2: The Farm), 32--56. The point of this reading (it's the fastest read for today) is to get a sense of the commoditization of corn and why it's so cheap now. And to compare the meaning of corn as discussed in the other readings with how it's portrayed in this chapter.
 
 #### Noteworthy
