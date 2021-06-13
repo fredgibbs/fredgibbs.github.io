@@ -130,6 +130,7 @@ This quiz covers basics from the readings, but also has a few short answer quest
 
 ## Jun 14
 ###  On Cuisines and Corn
+- Overview VIDEO (with survey results) [to be posted Monday morning]
 - _HAE_, 13--31 (from 1: Cuisine of Contact).
 - Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (1: This Beautifull Noble Eare), read 4--15 and 45--48 more carefully; skim (but don't skip) 15--45 on the various dishes. Nothing about particular dishes will be on the quiz, but I will ask why such descriptions are there, so look for those bits in the pages you're skimming. HINT: It has something to do with how dishes move across cultures (but you'll want to be able to elaborate on that point in your reply).
 - Michael Pollan, _Omnivore's Dilemma_, (Chap. 2: The Farm), 32--56. The point of this reading (it's the fastest read for today) is to get a sense of the commoditization of corn and why it's so cheap now. And to compare the meaning of corn as discussed in the other readings with how it's portrayed in this chapter.
@@ -146,6 +147,7 @@ This quiz covers early food consumption in early America, how food and personal/
 
 ## Jun 15
 ### Early America, Early Food
+- Overview VIDEO (to be posted Tuesday morning)
 - _HAE_, 33--55 (2: Food and the Founding).
 - Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (4: Cookbooks and Commerce), 120--147. Even though not clearly marked, there are really two distinct parts to this readings. The first part (to p.129) is very helpful in understanding capitalist logic of food production in the late 1700s and early 1800s. The second part shows how early cookbooks start reflect the cultural changes underway during that time.
 
@@ -160,6 +162,7 @@ What was the role of food in Revolutionary America? How were ideas of FREEDOM we
 
 ## Jun 16
 ### Cookbooks as historical sources
+- Cookbook analysis assignment VIDEO (to be posted Wednesday morning)
 The below readings will help you do the upcoming [Cookbook Analysis](cookbook-analysis) assignment. So read them with USING them in mind, not for writing a response about them. But there is a quiz to highlight a few key points.
 - Barbara Ketcham Wheaton, "Cookbook as Resources for Social History". This chapter very nicely sketches out, with many diverse examples, how cookbooks function as windows onto history, including how and why they were used in the world.
 - Ken Albala, [Cookbooks as Historical Documents](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-13). This chapter, although a bit long, very nicely lays out a process for interrogating cookbooks and reading in between the lines with many excellent examples. The questions and methods described in the article are exactly what you be doing with your own [cookbook analysis](cookbook-analysis) due tomorrow.
@@ -184,7 +187,8 @@ This quiz highlights and emphasizes some ideas from the readings about HOW to us
 
 
 ## Jun 17
-NO NEW READINGS for today! Finish the cookbook analysis assignment we've been preparing for.
+- NO VIDEO
+- NO NEW READINGS for today! Finish the cookbook analysis assignment we've been preparing for.
 
 {% include alert.html class='danger' title='Early Cookbook Analysis' text="
 Follow the [Cookbook Analysis Guide](cookbook-analysis).
