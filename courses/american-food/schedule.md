@@ -153,6 +153,9 @@ This quiz covers early food consumption in early America, how food and personal/
 
 
 #### Noteworthy
+- James E. McWilliams, “‘How Unripe We Are’”, _Food, Culture & Society_ 8.2 (2005): 143–60.
+
+
 {% include alert.html class='danger' title='Reading Reflection' text="
 On the survey, about 3/4 people wanted actual prompt questions to respond to, and roughly 1/4 preferred open-ended prompts to relay what they learned and/or found interesting. Since all our other prompts have been specific questions (and you have a more specific cookbook analysis due Thursday), we have a general one for today.
 
