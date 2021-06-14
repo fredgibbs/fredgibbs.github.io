@@ -146,15 +146,17 @@ This quiz covers early food consumption in early America, how food and personal/
 
 
 ## Jun 15
-### Early America, Early Food
+### Early America, Early Food, Cookbooks, and National Identity
 - NO VIDEO
-- _HAE_, 33--55 (2: Food and the Founding).
-- Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (4: Cookbooks and Commerce), 120--147. Even though not clearly marked, there are really two distinct parts to this reading. The first part (to 129) is very helpful in understanding capitalist logic of food production in the late 1700s and early 1800s. The second part shows how early cookbooks start reflect the cultural changes underway during that time.
+- _HAE_, 33--55 (2: Food and the Founding). Continuing our emphasis on food and identity, this chapter covers how food was central to shaping early American identity. Both this chapter and the other reading emphaize the importance of capitalist markets, food production, and the development of cookbooks as a way of cultivating an American cuisine (and identity).
+- Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (4: Cookbooks and Commerce), 120--147. Even though not clearly marked, there are really two distinct parts to this reading. The first part (to 129) is very helpful in understanding capitalist logic of food production in the late 1700s and early 1800s. The second part shows how early cookbooks start reflect the cultural changes underway during that time. Both complement the _HAE_ reading with considerable more detail about the role of women in managing food, the household, and shaping American foodways.
+
 
 #### Noteworthy
-
 {% include alert.html class='danger' title='Reading Reflection' text="
-What was the role of food in Revolutionary America? How were ideas of FREEDOM were intimately tied to food and therefore American identity?
+On the survey, about 3/4 people wanted actual prompt questions to respond to, and roughly 1/4 preferred open-ended prompts to relay what they learned and/or found interesting. Since all our other prompts have been specific questions (and you have a more specific cookbook analysis due Thursday), we have a general one for today.
+
+PROMPT: What did you learn through through BOTH CHAPTERS? Remember the goal of these reflections is to show your familiarity with the readings. The more you can describe, the higher your score will be, so you should aim to cover a range of topics that are prominent in the readings. The reading descriptions above might help you identify key themes that are worth elaborating on.
 "%}
 
 
