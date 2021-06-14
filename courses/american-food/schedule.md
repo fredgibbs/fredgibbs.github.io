@@ -147,12 +147,11 @@ This quiz covers early food consumption in early America, how food and personal/
 
 ## Jun 15
 ### Early America, Early Food
-- Overview VIDEO (to be posted Tuesday morning)
+- NO VIDEO
 - _HAE_, 33--55 (2: Food and the Founding).
-- Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (4: Cookbooks and Commerce), 120--147. Even though not clearly marked, there are really two distinct parts to this readings. The first part (to p.129) is very helpful in understanding capitalist logic of food production in the late 1700s and early 1800s. The second part shows how early cookbooks start reflect the cultural changes underway during that time.
+- Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (4: Cookbooks and Commerce), 120--147. Even though not clearly marked, there are really two distinct parts to this reading. The first part (to 129) is very helpful in understanding capitalist logic of food production in the late 1700s and early 1800s. The second part shows how early cookbooks start reflect the cultural changes underway during that time.
 
 #### Noteworthy
-- James E. McWilliams, “‘How Unripe We Are’”, _Food, Culture & Society_ 8.2 (2005): 143--60.
 
 {% include alert.html class='danger' title='Reading Reflection' text="
 What was the role of food in Revolutionary America? How were ideas of FREEDOM were intimately tied to food and therefore American identity?
@@ -162,6 +161,7 @@ What was the role of food in Revolutionary America? How were ideas of FREEDOM we
 
 ## Jun 16
 ### Cookbooks as historical sources
+- VIDEO: brief recap and cookbook analysis highlights [posted Wed morning]
 - Cookbook analysis assignment VIDEO (to be posted Wednesday morning)
 The below readings will help you do the upcoming [Cookbook Analysis](cookbook-analysis) assignment. So read them with USING them in mind, not for writing a response about them. But there is a quiz to highlight a few key points.
 - Barbara Ketcham Wheaton, "Cookbook as Resources for Social History". This chapter very nicely sketches out, with many diverse examples, how cookbooks function as windows onto history, including how and why they were used in the world.
