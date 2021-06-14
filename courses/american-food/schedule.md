@@ -159,7 +159,7 @@ This quiz covers early food consumption in early America, how food and personal/
 {% include alert.html class='danger' title='Reading Reflection' text="
 On the survey, about 3/4 people wanted actual prompt questions to respond to, and roughly 1/4 preferred open-ended prompts to relay what they learned and/or found interesting. Since all our other prompts have been specific questions (and you have a more specific cookbook analysis due Thursday), we have a general one for today.
 
-PROMPT: What did you learn through through BOTH CHAPTERS? Remember the goal of these reflections is to show your familiarity with the readings. The more you can describe, the higher your score will be, so you should aim to cover a range of topics that are prominent in the readings. The reading descriptions above might help you identify key themes that are worth elaborating on.
+PROMPT: What did you learn from the reading today? Remember the goal of these reflections is to show your familiarity with the readings---BOTH of them, as they are quite distinct. The more you can describe, the higher your score will be, so you should aim to cover a range of topics that are prominent in the readings. The reading descriptions above might help you identify key themes that are worth elaborating on.
 "%}
 
 
