@@ -167,8 +167,8 @@ PROMPT: What did you learn from the reading today? Remember the goal of these re
 ## Jun 16
 ### Cookbooks as historical sources
 - VIDEO: brief recap and cookbook analysis highlights [posted Wed morning]
-- Cookbook analysis assignment VIDEO (to be posted Wednesday morning)
-The below readings will help you do the upcoming [Cookbook Analysis](cookbook-analysis) assignment. So read them with USING them in mind, not for writing a response about them. But there is a quiz to highlight a few key points.
+The below readings will help you do the upcoming [Cookbook Analysis](cookbook-analysis) assignment. So read them with USING them in mind, not for writing a response about them. UPDATE 6/15: There is NO QUIZ for today as originally planned. We've been working hard enough---let's just focus on learning how to do the assignment.
+
 - Barbara Ketcham Wheaton, "Cookbook as Resources for Social History". This chapter very nicely sketches out, with many diverse examples, how cookbooks function as windows onto history, including how and why they were used in the world.
 - Ken Albala, [Cookbooks as Historical Documents](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-13). This chapter, although a bit long, very nicely lays out a process for interrogating cookbooks and reading in between the lines with many excellent examples. The questions and methods described in the article are exactly what you be doing with your own [cookbook analysis](cookbook-analysis) due tomorrow.
 
@@ -186,14 +186,14 @@ The below readings will help you do the upcoming [Cookbook Analysis](cookbook-an
 - Mary Randolph [The Virginia Housewife](https://books.google.com/books?id=R4YEAAAAYAAJ)
 - Eliza Leslie, [Miss Leslie\'s Complete Cookery](https://books.google.com/books?id=KVL5oJA8IWsC)
 
-{% include alert.html class='warning' title='Readings Quiz' text="
-This quiz highlights and emphasizes some ideas from the readings about HOW to use cookbooks as historical sources. It tries to ensure you are ready to do well on your assignment due tomorrow!
+{% include alert.html class='warning' title='No Quiz' text="
+Originally we were going to have a quiz to highlight and emphasize some ideas from the readings about HOW to use cookbooks as historical sources. On second (actually fourth or fifth) thought, we don't need a quiz to test if you're ready for the assignment---that will be clear from the cookbook analysis itself. Instead of the usual reading reflection rubric, we will use one that more specifically addresses the methods covered in the readings and video.
 "%}
 
 
 ## Jun 17
 - NO VIDEO
-- NO NEW READINGS for today! Finish the cookbook analysis assignment we've been preparing for.
+- NO NEW READINGS for today!
 
 {% include alert.html class='danger' title='Early Cookbook Analysis' text="
 Follow the [Cookbook Analysis Guide](cookbook-analysis).
