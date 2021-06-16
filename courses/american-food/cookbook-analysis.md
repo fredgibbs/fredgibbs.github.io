@@ -8,7 +8,7 @@ section: links-guides
 ---
 
 # Cookbook Analysis Guide
-Pick a book from [this collection](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis;sort=date_a;sz=100), and make sure it's from the 1800s or early 1900s--anything before 1910 is fine. It is well worth your time to find a book that piques your interest. Spending 5-10 minutes finding a book that you actually find interesting make the assignment MUCH easier and more effective as a learning exercise. Click the "Full View" link to actually see the cookbook; if it doesn't work for some reason, it's probably best to just choose another one.
+Pick a book from [this collection](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis;sort=date_a;sz=100), and make sure it's from the 1800s--anything before 1890s is fine. After that, there tends to be more variety than we are prepared to deal with. It is well worth your time to find a book that piques your interest. Spending 5-10 minutes finding a book that you actually find interesting (and have something to say about) makes the assignment MUCH easier and more effective as a learning exercise. Click the "Full View" link to actually see the cookbook; if it doesn't work for some reason, it's probably best to just choose another one.
 
 
 ## Basic Goals
