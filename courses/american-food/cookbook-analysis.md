@@ -23,6 +23,7 @@ Pick a book from [this collection](https://babel.hathitrust.org/cgi/mb?c=1934413
 ## Questions to write about
 I've asked you to write a brief description of the book on the whole (see "basic goals, above"), but that's the boring part. The fun part is READING BETWEEN THE LINES to learn about the author and American culture and cuisine from the cookbook.
 
+- Why is the author writing this book?
 - Who is the intended audience? What do they know?
 - What kind of assumptions does the author(s) make about cooking/cuisine/food?
 - What kind of larger themes do the cookbooks appeal to (exotic, health, comfort, frugality, regional or national food, etc)?
@@ -31,7 +32,7 @@ I've asked you to write a brief description of the book on the whole (see "basic
 - How does it help construct an American identity or a sense of "American food"?
 - What struck you as most interesting or unexpected about the cookbook?
 
-As with reading reflection prompts, you might find it more interesting/useful to spend more time on some questions over others depending on the kind of cookbook you have. So don't feel like you need to address each one explicitly, but you should try to address them as a set of questions as best you can. BE SURE YOU ARE DISCUSSING THE TOPICS FROM THE READINGS THIS WEEK IN YOUR ANALYSIS! 
+As with reading reflection prompts, you might find it more interesting/useful to spend more time on some questions over others depending on the kind of cookbook you have. So don't feel like you need to address each one explicitly, but you should try to address them as a set of questions as best you can. BE SURE YOU ARE DISCUSSING THE TOPICS FROM THE READINGS THIS WEEK IN YOUR ANALYSIS!
 
 
 ## References and Citations
