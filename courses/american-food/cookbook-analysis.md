@@ -8,13 +8,14 @@ section: links-guides
 ---
 
 # Cookbook Analysis Guide
-Pick a book from [this collection](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis;sort=date_a;sz=100), and make sure it's from the 1800s--anything before 1890s is fine. After that, there tends to be more variety than we are prepared to deal with. It is well worth your time to find a book that piques your interest. Spending 5-10 minutes finding a book that you actually find interesting (and have something to say about) makes the assignment MUCH easier and more effective as a learning exercise. Click the "Full View" link to actually see the cookbook; if it doesn't work for some reason, it's probably best to just choose another one.
+Pick a book from [this collection](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis;sort=date_a;sz=100), and make sure it's BEFORE 1890. After that, there tends to be more variety than we are prepared to deal with. It is well worth your time to find a book that piques your interest. Spending 5 minutes finding a book that you actually find interesting (and have something to say about) makes the assignment MUCH easier and more effective as a learning exercise. Click the "Full View" link to actually see the cookbook; if it doesn't work for some reason, it's probably best to just choose another one.
 
 
-## Basic Goals
+## Basics
 - ~800--900 words. But quality is more important than quantity.
+- At the top of your essay, put a functional hyperlink to the cookbook you are discussing.
 - Give a brief summary of the author's tone/style, organization, topics covered, and other main features of the book.
-- Apply the readings and our discussions to your analysis of a historic cookbook based on the questions below. We've talked a lot of about attitudes toward ingredients and dishes, as well as how food reveals and affirms identity. How does (or not) your cookbook illustrate the issues we've been discussing?
+- Apply the readings (esp from this week) to your analysis of a historic cookbook based on the questions below. We've talked a lot of about attitudes toward ingredients and dishes, as well as how food is used to signal social status and nationality. How does (or not) your cookbook illustrate the issues we've been discussing?
 - Enjoy looking through a primary source for food history! This is meant to be more of a fun way of engaging with historical sources and getting a feel for a very common source of food history.
 
 
@@ -27,10 +28,10 @@ I've asked you to write a brief description of the book on the whole (see "basic
 - What kind of larger themes do the cookbooks appeal to (exotic, health, comfort, frugality, regional or national food, etc)?
 - What are the various "national" or "ethnic" influences of the recipes or instructions?
 - How much does tradition or originality matter to the author?
-- What does it contribute to an understanding of "American Food"?
+- How does it help construct an American identity or a sense of "American food"?
 - What struck you as most interesting or unexpected about the cookbook?
 
-As with reading reflection prompts, you might find it more interesting/useful to spend more time on some questions over others depending on the kind of cookbook you have. So don't feel like you need to address each one explicitly, but you should try to address them as a set of questions as best you can.
+As with reading reflection prompts, you might find it more interesting/useful to spend more time on some questions over others depending on the kind of cookbook you have. So don't feel like you need to address each one explicitly, but you should try to address them as a set of questions as best you can. BE SURE YOU ARE DISCUSSING THE TOPICS FROM THE READINGS THIS WEEK IN YOUR ANALYSIS! 
 
 
 ## References and Citations
