@@ -166,7 +166,7 @@ PROMPT: What did you learn from the reading today? Remember the goal of these re
 
 ## Jun 16
 ### Cookbooks as historical sources
-- VIDEO: brief recap and cookbook analysis highlights [posted Wed morning]
+- [VIDEO: brief recap and cookbook analysis highlights](https://youtu.be/nCpazETMY6M)
 The below readings will help you do the upcoming [Cookbook Analysis](cookbook-analysis) assignment. So read them with USING them in mind, not for writing a response about them. UPDATE 6/15: There is NO QUIZ for today as originally planned. We've been working hard enough---let's just focus on learning how to do the assignment.
 
 - Rachel A. Snell, [As North American as Pumpkin Pie: Cookbooks and the Development of National Cuisine in North America, 1796-1854](https://www.erudit.org/fr/revues/cuizine/2014-v5-n2-cuizine01533/1026771ar/).
