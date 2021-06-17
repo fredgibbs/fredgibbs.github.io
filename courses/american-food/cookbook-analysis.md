@@ -13,6 +13,7 @@ Pick a book from [this collection](https://babel.hathitrust.org/cgi/mb?c=1934413
 
 ## Basics
 - ~800--900 words. But quality is more important than quantity.
+- Posted on the Discussion Board like reading reflections.
 - At the top of your essay, put a functional hyperlink to the cookbook you are discussing.
 - Give a brief summary of the author's tone/style, organization, topics covered, and other main features of the book.
 - Apply the readings (esp from this week) to your analysis of a historic cookbook based on the questions below. We've talked a lot of about attitudes toward ingredients and dishes, as well as how food is used to signal social status and nationality. How does (or not) your cookbook illustrate the issues we've been discussing?
