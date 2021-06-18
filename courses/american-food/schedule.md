@@ -204,7 +204,7 @@ Follow the [Cookbook Analysis Guide](cookbook-analysis).
 ### Health, Technology, and Cereal
 Not much reading today, but an interesting early connection between health and technology that still influences our food choices.
 - _HAE_, 143--55 (6: Pious and Patriotic Stomach).
-- [VIDEO: Cereal, Health, Technology, Nature](https://youtu.be/QhI_SMuU_94). Sorry again for the long delay with this and the quiz! As I'm publishing the video, I see Learn is now unavailable as I'm trying to publish the quiz. When it rains, it pours! As soon as I can get into Learn, I will make the quiz available (I try to publish quizzes after the videos to make sure I don't have questions that got edited out).
+- [VIDEO: Cereal, Health, Technology, Nature](https://youtu.be/x1jQ8aIfbLY). Sorry again for the long delay with this and the quiz! As I'm publishing the video, I see Learn is now unavailable as I'm trying to publish the quiz. When it rains, it pours! As soon as I can get into Learn, I will make the quiz available (I try to publish quizzes after the videos to make sure I don't have questions that got edited out).
 
 
 #### Noteworthy
