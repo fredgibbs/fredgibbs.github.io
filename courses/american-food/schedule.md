@@ -204,7 +204,7 @@ Follow the [Cookbook Analysis Guide](cookbook-analysis).
 ### Health, Technology, and Cereal
 Not much reading today, but an interesting early connection between health and technology that still influences our food choices.
 - _HAE_, 143--55 (6: Pious and Patriotic Stomach).
-- VIDEO: Cereal as the embodiment of American Food.
+- [VIDEO: Cereal, Health, Technology, Nature](https://youtu.be/QhI_SMuU_94)
 
 
 #### Noteworthy
