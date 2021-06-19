@@ -223,7 +223,6 @@ This quiz will draw equally from the lecture and bits of _HAE_ for today.
 ## Jun 21
 ### Immigration
 - _HAE_, 57-87 (3: Expansion and Immigration).
-- _HAE_, 169-91 (7: Food Habits and Racial Thinking).
 - Helen Zoe Veit, _Modern Food, Moral Food_ (6: Americanizing the American Diet), 123--56.
 
 #### Noteworthy
