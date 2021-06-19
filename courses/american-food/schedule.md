@@ -289,6 +289,7 @@ Use the articles for this week to evaluate a claim we read a few weeks ago from 
 ## Jun 25 (Fri)
 ### Gendered Cooking
 - _HAE_, 111--113; 124--141 (parts of 5: Gender and the American Appetite).
+- Katherine J. Parkin, _Food Is Love : Advertising and Gender Roles in Modern America_, 1--11 (Introduction).
 - [Why there are no great women chefs](https://gastronomica.org/2010/02/05/why-are-there-no-great-women-chefs/)
 
 #### Noteworthy
@@ -296,7 +297,7 @@ Use the articles for this week to evaluate a claim we read a few weeks ago from 
 - [Why Are We Still Failing Female Chefs?](https://www.eater.com/2018/5/30/17397060/women-chefs-food-media)
 
 {% include alert.html class='warning' title='Readings Quiz' text="
-We've talked about food and identity in many ways already; this quiz covers the relationship between food and gender, including social dynamics of men and women in the food industry.
+We've talked about food and identity in many ways already; this quiz covers the relationship between food and gender, the role of advertising, and how gender stereotypes affect professional cooking.
 "%}
 
 
@@ -309,7 +310,7 @@ We've talked about food and identity in many ways already; this quiz covers the 
 No new reading for today! Food Blog Analysis is due.
 
 {% include alert.html class='danger' title='Food Blog Analysis' text="
-See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the cookbook analysis assignment a few weeks ago, when we discussed how much you can learn about people and culture from cookbooks. How much do you find this to be true for your food blog as well?
+See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the cookbook analysis assignment, when we discussed how much you can learn about people and culture from cookbooks. How much do you find this to be true for your food blog as well?
 "%}
 
 
@@ -324,14 +325,14 @@ See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the c
 - Meghan McCarron [I Want to Be a Non-Combatant in the Coming Burger Wars](https://www.eater.com/2019/3/18/18267816/burger-climate-change-political-weapon)
 
 {% include alert.html class='warning' title='Lecture and Readings Quiz' text="
-This wide-ranging quiz test your familiarity with the arguments presented in the readings---read carefully and don't over simplify!
+This wide-ranging quiz test your familiarity with the video overview and the arguments presented in the readings---read carefully and don't over simplify!
 "%}
 
 
 
 ## Jun 30
 ### Health and Environmentalism (of Meat)
-- VIDEO: comparing competing meat claims
+- VIDEO: comparing competing meat claims. Unlike most videos that have information I want you to ingest, this video is more of a practical exercise in reading competing texts about meat in light of how we've been thinking about food and identity during the course.
 - Diana Rodgers, [Meat is Magnificent: Water, Carbon, Methane & Nutrition](https://sustainabledish.com/meat-is-magnificent/)
 - Christina Sewell, [Removing the Meat Subsidy: Our Cognitive Dissonance Around Animal Agriculture](https://jia.sipa.columbia.edu/removing-meat-subsidy-our-cognitive-dissonance-around-animal-agriculture)
 - Nick Martin, [There Is No War on Meat. There Should Be.](https://newrepublic.com/article/162180/no-war-meat-be)
