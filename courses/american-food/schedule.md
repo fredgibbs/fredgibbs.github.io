@@ -252,10 +252,11 @@ How does the process of mingling food traditions and social constructions of rac
 
 ## Jun 23
 ### Scientific Moralization
-- Charlotte Biltekoff, *Eating Right in America*, 13--44 (Chapter 2: Scientific Moralization). This builds directly off the lecture from last week on cereal and the coupling of moral and dietary advice---and how that continued even as the science of nutrition developed in the later 1800s and early 1900s. Nutrition provided the perfect scientific cover for telling immigrants how they should eat and be more American in their food and moral choices.
+Today's topic builds directly off the lecture from last week on cereal and the coupling of moral and dietary advice---and how that continued even as the science of nutrition developed in the later 1800s and early 1900s. Nutrition provided the perfect scientific cover for telling immigrants how they should eat and be more American in their food and moral choices. This is obviously building on our recent readings on immigration and culinary diffusion as well.
 
+- Charlotte Biltekoff, *Eating Right in America*, 13--44 (Chapter 2: Scientific Moralization).
 
-{% include alert.html class='info' title='Reading Quiz' text="
+{% include alert.html class='warning' title='Reading Quiz' text="
 This quiz is solely on the one reading for today.
 "%}
 
