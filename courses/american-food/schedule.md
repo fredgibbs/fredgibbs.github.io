@@ -345,22 +345,11 @@ Why is the discussion about eating meat so complicated? This simple question sho
 
 
 ## Jul 1
-### Food criticism
-- David Foster Wallace, "Consider the Lobster". READ THE FOOTNOTES!
+### Wrapping up
+- David Foster Wallace, "Consider the Lobster". READ THE FOOTNOTES! Yeah, you can skim over the lobster biology bits if you want, but keep thinking about the larger point he's trying to make with his piece.
+- VIDEO: Final wrap-up. This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and to jump start your thinking on your Final Learning Reflection (see the very last day).
 
-#### Noteworthy
-- Josée Johnston and Shyon Baumann, “Democracy versus Distinction: A Study of Omnivorousness in Gourmet Food Writing,” _American Journal of Sociology_ 113, no. 1 (2007): 165–204.
-
-{% include alert.html class='danger' title='Food Writing Critique' text="
-"%}
-
-
-
-## July 2 (Friday)
-- VIDEO: Final wrap-up
-This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and to jump start your thinking on your Final Learning Reflection (see the very last day).
-
-Start drafting your [Final Course Reflection](final-course-reflection). These are TECHNICALLY due tomorrow (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY to make it nice. You can of course submit it whenever you'd like.
+ALSO: Start drafting your [Final Course Reflection](final-course-reflection). These are TECHNICALLY due SATURDAY (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY to make it nice. You can of course submit it whenever you'd like.
 
 
 {% include alert.html class='warning' title='Final lecture quiz' text="
@@ -369,9 +358,13 @@ For the last time (*sniff*), find the quiz at UNM Learn.
 
 
 
+## July 2 (Friday)
+NOTHING. Just, like, nothing. Work on your finals! Ask questions! Catch up with any work you intend to submit.
+
+
 ## July 3 (Saturday)
 Your FINAL Learning Reflection---over the WHOLE CLASS---is officially due today (the last official day of the 1H session.) However, feel free to revise and submit it MONDAY. See the [Final Course Reflection Guide](final-course-reflection). I can't emphasize enough that this SHOULD NOT BE MERELY A SUMMARY of what we've covered. Instead, as the instructions explain in more detail, illustrate how your thinking about food has changed over the month, and how your submitted work justifies what you think should be your overall grade for the course.
 
 {% include alert.html class='danger' title='Final Course Reflection' text="
-Make sure to post your [Final Course Reflection](final-course-reflection) on the discussion board! These are due by Monday, July 5. If something comes up at the last minute, or you need some time to process an epiphany about the course email to ask for a few extra days!
+Make sure to post your [Final Course Reflection](final-course-reflection) on the discussion board! These are due by Monday, July 5. If something comes up at the last minute, or you need some time to process an epiphany about the course, email to ask for a few extra days!
 "%}
