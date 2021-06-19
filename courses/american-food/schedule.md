@@ -223,10 +223,10 @@ This quiz will draw equally from the lecture and bits of _HAE_ for today.
 ## Jun 21
 ### Immigration
 - _HAE_, 57-87 (3: Expansion and Immigration).
-- Helen Zoe Veit, _Modern Food, Moral Food_ (6: Americanizing the American Diet), 123--56.
 
 #### Noteworthy
 - Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122--48.
+- Helen Zoe Veit, _Modern Food, Moral Food_ (6: Americanizing the American Diet), 123--56.
 
 {% include alert.html class='danger' title='Reading reflection' text="
 How would you describe the relationship between immigrant's food and American food? What were the motivations to Americanize immigrants' diets? How successful were such efforts?
