@@ -289,12 +289,11 @@ Use the articles for this week to evaluate a claim we read a few weeks ago from 
 ## Jun 25 (Fri)
 ### Gendered Cooking
 - _HAE_, 111--113; 124--141 (parts of 5: Gender and the American Appetite).
-- [Why Are We Still Failing Female Chefs?](https://www.eater.com/2018/5/30/17397060/women-chefs-food-media)
 - [Why there are no great women chefs](https://gastronomica.org/2010/02/05/why-are-there-no-great-women-chefs/)
 
 #### Noteworthy
 - [When Male Chefs Fear the Specter of ‘Women’s Work’](https://www.eater.com/2017/11/30/16687914/toxic-masculinity-restaurants)
-
+- [Why Are We Still Failing Female Chefs?](https://www.eater.com/2018/5/30/17397060/women-chefs-food-media)
 
 {% include alert.html class='warning' title='Readings Quiz' text="
 We've talked about food and identity in many ways already; this quiz covers the relationship between food and gender, including social dynamics of men and women in the food industry.
