@@ -221,7 +221,7 @@ This quiz will draw equally from the lecture and bits of _HAE_ for today.
 # Week 3
 
 ## Jun 21
-### Expansion + Immigration 
+### Expansion + Immigration
 - _HAE_, 57-87 (3: Expansion and Immigration).
 
 #### Noteworthy
@@ -265,17 +265,17 @@ This quiz is solely on the one reading for today.
 
 ## Jun 24
 ### Culinary Appropriation
+- Michael Twitty, _The Cooking Gene_, 1--24.
 - Cynthia R. Greenlee, [Innovation and the incinerated tongue: Notes on hot chicken, race, and culinary crossover](https://thecounter.org/hot-chicken-race-culinary-crossover-nashville-tennessee-black-food-rachel-martin/)
-- George Chesterton, [Cultural appropriation: everything is culture and it’s all appropriated](https://www.gq-magazine.co.uk/article/the-trouble-with-cultural-appropriation), _GQ_ (Sep 1, 2020).
 - Jess Kapadia, [I Still Don’t Understand The Cultural Appropriation Of Food](https://www.foodrepublic.com/2017/06/01/cultural-appropriation-food/), _Food Republic_.
-- Sarah Handley-Cousins, [Slavery & Soul Food: African Crops and Enslaved Cooks in the History of Southern Cuisine](https://digpodcast.org/2020/07/26/soul-food/). Listen or read the transcript.
 
 
 
 #### Noteworthy
-- Navneet Alang, [Stewed Awakening](https://www.eater.com/2020/5/20/21262304/global-pantry-alison-roman-bon-appetit) (_Eater_, June 2020).
-- Michael Twitty, _The Cooking Gene_, 1--24.
 - [Michael Twitty on Culinary Justice](https://www.youtube.com/watch?v=EhxjC3XX54g)
+- Navneet Alang, [Stewed Awakening](https://www.eater.com/2020/5/20/21262304/global-pantry-alison-roman-bon-appetit) (_Eater_, June 2020).
+- George Chesterton, [Cultural appropriation: everything is culture and it’s all appropriated](https://www.gq-magazine.co.uk/article/the-trouble-with-cultural-appropriation), _GQ_ (Sep 1, 2020).
+- Sarah Handley-Cousins, [Slavery & Soul Food: African Crops and Enslaved Cooks in the History of Southern Cuisine](https://digpodcast.org/2020/07/26/soul-food/). Listen or read the transcript.
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
