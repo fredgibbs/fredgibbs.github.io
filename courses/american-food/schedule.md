@@ -221,7 +221,7 @@ This quiz will draw equally from the lecture and bits of _HAE_ for today.
 # Week 3
 
 ## Jun 21
-### Immigration
+### Expansion + Immigration 
 - _HAE_, 57-87 (3: Expansion and Immigration).
 
 #### Noteworthy
