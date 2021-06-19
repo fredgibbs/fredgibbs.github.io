@@ -228,28 +228,41 @@ This quiz will draw equally from the lecture and bits of _HAE_ for today.
 - Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122--48.
 - Helen Zoe Veit, _Modern Food, Moral Food_ (6: Americanizing the American Diet), 123--56.
 
-{% include alert.html class='danger' title='Reading reflection' text="
-How would you describe the relationship between immigrant's food and American food? What were the motivations to Americanize immigrants' diets? How successful were such efforts?
+
+{% include alert.html class='warning' title='Readings Quiz' text="
+This basic quiz tests you on the broader points in the _HAE_ chapter.
 "%}
+
 
 
 
 ## Jun 22
 ### Culinary Diffusion
-- Amy Bentley, "From Culinary Other to Mainstream America: Meanings and Uses of Southwestern Cuisine", in _Culinary Tourism_ (ed. Lucy M. Long), University Press of Kentucky (2013), 209--223.
 - Katherine Massoth, "'Mexican Cookery that Belongs to the United States': Evolving Boundaries of Whiteness in New Mexican Kitchens", in _Food Across Borders_ (ed. Garcia, DuPuis, and Mitchell), 44--59.
 
 #### Noteworthy
+- Amy Bentley, "From Culinary Other to Mainstream America: Meanings and Uses of Southwestern Cuisine", in _Culinary Tourism_ (ed. Lucy M. Long), University Press of Kentucky (2013), 209--223.
 - Jeffrey M. Pilcher, “Tex-Mex, Cal-Mex, New Mex, or Whose Mex? Notes on the Historical Geography of Southwestern Cuisine”. _Journal of the Southwest_ 43.44 (2001): 659-–79.
 
-
-{% include alert.html class='warning' title='Readings Quiz' text="
-This quiz draws equally from both readings and focuses on food and identity in the Southwest.
+{% include alert.html class='danger' title='Reading reflection' text="
+How does the process of mingling food traditions and social constructions of race and class as described by Massoth complicate the description of blending food traditions as described in the _HAE_ chapter for Monday?
 "%}
 
 
 
 ## Jun 23
+### Scientific Moralization
+- Charlotte Biltekoff, *Eating Right in America*, 13--44 (Chapter 2: Scientific Moralization). This builds directly off the lecture from last week on cereal and the coupling of moral and dietary advice---and how that continued even as the science of nutrition developed in the later 1800s and early 1900s. Nutrition provided the perfect scientific cover for telling immigrants how they should eat and be more American in their food and moral choices.
+
+
+{% include alert.html class='info' title='Reading Quiz' text="
+This quiz is solely on the one reading for today.
+"%}
+
+
+
+
+## Jun 24
 ### Culinary Appropriation
 - Cynthia R. Greenlee, [Innovation and the incinerated tongue: Notes on hot chicken, race, and culinary crossover](https://thecounter.org/hot-chicken-race-culinary-crossover-nashville-tennessee-black-food-rachel-martin/)
 - George Chesterton, [Cultural appropriation: everything is culture and it’s all appropriated](https://www.gq-magazine.co.uk/article/the-trouble-with-cultural-appropriation), _GQ_ (Sep 1, 2020).
@@ -265,17 +278,16 @@ This quiz draws equally from both readings and focuses on food and identity in t
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Personally, I find most culinary appropriation conversations to be unhelpfully superficial. It is pointless to debate whether culinary/cultural appropriation actually happens (it does), or whether it's just some people being overly sensitive (it is), or whether it can be an (inadvertent) tool of marginalization (it can). These are non-debateable facts. But what is really happening? And what does it really matter?
+Personally, I find most culinary appropriation conversations to be unhelpfully superficial. It is pointless to debate whether culinary/cultural appropriation actually happens (it does), or whether it's just some people being overly sensitive (it is), or whether it can be an (inadvertent) tool of marginalization (it can). These are non-debateable facts. What are the most important issues? What are debates about culinary appropriation really about?
 
-Use the articles for this week to evaluate a claim we read a few weeks ago from Ruth Tobias ([here](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)): \"The difference between adaptation and appropriation is one of privilege--the privilege to control and inevitably whitewash the narrative surrounding a given dish.\" How is this statement correct? How is it lacking? BE SURE YOU USE THE READINGS TO SUPPORT YOUR ANSWER!
+Use the articles for this week to evaluate a claim we read a few weeks ago from Ruth Tobias ([here](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)): \"The difference between adaptation and appropriation is one of privilege--the privilege to control and inevitably whitewash the narrative surrounding a given dish.\" How is this statement correct? How is it wrong? BE SURE YOU USE THE READINGS TO SUPPORT YOUR ANSWER!
 "%}
 
 
 
-
-## Jun 24
+## Jun 25 (Fri)
 ### Gendered Cooking
-- _HAE_, 57-87 (5: Gender and the American Appetite).
+- _HAE_, 111--113; 124--141 (parts of 5: Gender and the American Appetite).
 - [Why Are We Still Failing Female Chefs?](https://www.eater.com/2018/5/30/17397060/women-chefs-food-media)
 - [Why there are no great women chefs](https://gastronomica.org/2010/02/05/why-are-there-no-great-women-chefs/)
 
@@ -285,20 +297,6 @@ Use the articles for this week to evaluate a claim we read a few weeks ago from 
 
 {% include alert.html class='warning' title='Readings Quiz' text="
 We've talked about food and identity in many ways already; this quiz covers the relationship between food and gender, including social dynamics of men and women in the food industry.
-"%}
-
-
-
-## Jun 25 (Fri)
-### Food and Nature
-- _HAE_, 89--110 (4: Technology and Taste).
-- VIDEO: The relationship between the general categories of "food" and "nature" and how that relationship reflects humans relationship to nature generally.
-
-#### Noteworthy
-- Frederick L. Kirschenmann, "Food as Relationship", _Journal of Hunger & Environmental Nutrition_, 3:2-3, 106-121.
-
-{% include alert.html class='warning' title='Lecture and Reading Quiz' text="
-You'll want to read the _HAE_ section reasonably carefully, but the quiz is centered on the lecture.
 "%}
 
 
