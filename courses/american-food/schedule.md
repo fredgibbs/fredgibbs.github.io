@@ -222,6 +222,7 @@ This quiz will draw equally from the lecture and bits of _HAE_ for today.
 
 ## Jun 21
 ### Expansion + Immigration
+- Video on minor schedule changes and a few quiz questions
 - _HAE_, 57-87 (3: Expansion and Immigration).
 
 #### Noteworthy
@@ -238,6 +239,7 @@ This basic quiz tests you on the broader points in the _HAE_ chapter.
 
 ## Jun 22
 ### Culinary Diffusion
+- NO VIDEO
 - Katherine Massoth, "'Mexican Cookery that Belongs to the United States': Evolving Boundaries of Whiteness in New Mexican Kitchens", in _Food Across Borders_ (ed. Garcia, DuPuis, and Mitchell), 44--59.
 
 #### Noteworthy
@@ -254,6 +256,7 @@ How does the process of mingling food traditions and social constructions of rac
 ### Scientific Moralization
 Today's topic builds directly off the lecture from last week on cereal and the coupling of moral and dietary advice---and how that continued even as the science of nutrition developed in the later 1800s and early 1900s. Nutrition provided the perfect scientific cover for telling immigrants how they should eat and be more American in their food and moral choices. This is obviously building on our recent readings on immigration and culinary diffusion as well.
 
+- Video connecting today to last Friday's lecture
 - Charlotte Biltekoff, *Eating Right in America*, 13--44 (Chapter 2: Scientific Moralization).
 
 {% include alert.html class='warning' title='Reading Quiz' text="
@@ -265,6 +268,7 @@ This quiz is solely on the one reading for today.
 
 ## Jun 24
 ### Culinary Appropriation
+- Video: Why care about appropriation? And tips for your food blog anaylsis.
 - Michael Twitty, _The Cooking Gene_, 1--24.
 - Cynthia R. Greenlee, [Innovation and the incinerated tongue: Notes on hot chicken, race, and culinary crossover](https://thecounter.org/hot-chicken-race-culinary-crossover-nashville-tennessee-black-food-rachel-martin/)
 - Jess Kapadia, [I Still Don’t Understand The Cultural Appropriation Of Food](https://www.foodrepublic.com/2017/06/01/cultural-appropriation-food/), _Food Republic_.
@@ -288,6 +292,7 @@ Use the articles for this week to evaluate a claim we read a few weeks ago from 
 
 ## Jun 25 (Fri)
 ### Gendered Cooking
+- NO VIDEO
 - _HAE_, 111--113; 124--141 (parts of 5: Gender and the American Appetite).
 - Katherine J. Parkin, _Food Is Love : Advertising and Gender Roles in Modern America_, 1--11 (Introduction).
 - [Why there are no great women chefs](https://gastronomica.org/2010/02/05/why-are-there-no-great-women-chefs/)
@@ -322,7 +327,7 @@ See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the c
 - VIDEO: Introducing the next two days; meat as lightning rod for basically every issue in food studies
 - Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
 - Jayson Lusk, [The Political Polarization of Meat Demand](http://jaysonlusk.com/blog/2019/4/23/the-political-polarization-of-meat-demand)
-- Meghan McCarron [I Want to Be a Non-Combatant in the Coming Burger Wars](https://www.eater.com/2019/3/18/18267816/burger-climate-change-political-weapon)
+- Meghan McCarron, [I Want to Be a Non-Combatant in the Coming Burger Wars](https://www.eater.com/2019/3/18/18267816/burger-climate-change-political-weapon)
 
 {% include alert.html class='warning' title='Lecture and Readings Quiz' text="
 This wide-ranging quiz test your familiarity with the video overview and the arguments presented in the readings---read carefully and don't over simplify!
