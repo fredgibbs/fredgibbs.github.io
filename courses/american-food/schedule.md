@@ -222,7 +222,7 @@ This quiz will draw equally from the lecture and bits of _HAE_ for today.
 
 ## Jun 21
 ### Expansion + Immigration
-- Video on minor schedule changes and a few quiz questions
+- [Video on syllabus tweaks (less reading!) and today's topic (with quiz hints)](https://youtu.be/LsPwItPxF5Y).
 - _HAE_, 57-87 (3: Expansion and Immigration).
 
 #### Noteworthy
