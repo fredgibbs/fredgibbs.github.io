@@ -8,7 +8,7 @@ section: links-guides
 ---
 
 # Food Blog Analysis
-This assignment encourages you to bring what we've learned in class to critiquing and analyzing how food is discussed. It's quite similar to the early cookbook analysis we did in Week 2. (remember then?!)
+This assignment encourages you to bring what we've learned in class to critiquing and analyzing how food is discussed. It's quite similar to the early cookbook analysis we did in Week 2. (remember then?!) 
 
 ## Basics
 - ~800--900 words. But quality is more important than quantity.

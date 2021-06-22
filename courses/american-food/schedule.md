@@ -193,7 +193,7 @@ Originally we were going to have a quiz to highlight and emphasize some ideas fr
 
 ## Jun 17
 - NO VIDEO
-- NO NEW READINGS for today!
+- NO NEW READINGS for today! 
 
 {% include alert.html class='danger' title='Early Cookbook Analysis' text="
 Follow the [Cookbook Analysis Guide](cookbook-analysis).
