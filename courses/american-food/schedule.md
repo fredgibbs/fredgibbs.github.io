@@ -352,13 +352,13 @@ Why is the discussion about eating meat so complicated? This simple question sho
 ## Jul 1
 ### Wrapping up
 - David Foster Wallace, "Consider the Lobster". READ THE FOOTNOTES! Yeah, you can skim over the lobster biology bits if you want, but keep thinking about the larger point he's trying to make with his piece.
-- VIDEO: Final wrap-up. This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and to jump start your thinking on your Final Learning Reflection (see the very last day).
+- VIDEO: Final wrap-up. This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and to jump start your thinking on your Final Course Reflection (see July 3).
 
 ALSO: Start drafting your [Final Course Reflection](final-course-reflection). These are TECHNICALLY due SATURDAY (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY to make it nice. You can of course submit it whenever you'd like.
 
 
 {% include alert.html class='info' title='Nothing to do!' text="
-The final video is my closing argument about what I hope you got out of the class and will keep thinking about in terms of food. I hope you'll tune in and I think it will be helpful for your final course reflection, but it's up to you. No quiz or reflection!
+The final video is my closing argument about what I hope you got out of the class and will keep thinking about in terms of food. I hope you'll tune in, as I think it will be helpful for your final course reflection, but it's up to you. No quiz or reflection!
 "%}
 
 
