@@ -265,13 +265,12 @@ This quiz is solely on the one reading for today.
 
 
 
-
 ## Jun 24
 ### Culinary Appropriation
-- Video: Why care about appropriation? And tips for your food blog anaylsis.
+- Video: Why care about appropriation? And tips for your food blog analysis.
 - Michael Twitty, _The Cooking Gene_, 1--24.
-- Cynthia R. Greenlee, [Innovation and the incinerated tongue: Notes on hot chicken, race, and culinary crossover](https://thecounter.org/hot-chicken-race-culinary-crossover-nashville-tennessee-black-food-rachel-martin/)
 - Jess Kapadia, [I Still Don’t Understand The Cultural Appropriation Of Food](https://www.foodrepublic.com/2017/06/01/cultural-appropriation-food/), _Food Republic_.
+- Cynthia R. Greenlee, [Innovation and the incinerated tongue: Notes on hot chicken, race, and culinary crossover](https://thecounter.org/hot-chicken-race-culinary-crossover-nashville-tennessee-black-food-rachel-martin/)
 
 
 
@@ -283,9 +282,9 @@ This quiz is solely on the one reading for today.
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Personally, I find most culinary appropriation conversations to be unhelpfully superficial. It is pointless to debate whether culinary/cultural appropriation actually happens (it does), or whether it's just some people being overly sensitive (it is), or whether it can be an (inadvertent) tool of marginalization (it can). These are non-debateable facts. What are the most important issues? What are debates about culinary appropriation really about?
+Personally, I find most culinary appropriation conversations to be unhelpfully superficial. It is pointless to debate whether culinary/cultural appropriation actually happens (it does), or whether it's just some people being overly sensitive (it is), or whether it can be an (inadvertent) tool of marginalization (it can). These are non-debateable facts. So what are debates about culinary appropriation really about?
 
-Use the articles for this week to evaluate a claim we read a few weeks ago from Ruth Tobias ([here](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)): \"The difference between adaptation and appropriation is one of privilege--the privilege to control and inevitably whitewash the narrative surrounding a given dish.\" How is this statement correct? How is it wrong? BE SURE YOU USE THE READINGS TO SUPPORT YOUR ANSWER!
+Use the articles for this week to evaluate a claim we read a few weeks ago from Ruth Tobias ([here](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)): \"The difference between adaptation and appropriation is one of privilege--the privilege to control and inevitably whitewash the narrative surrounding a given dish.\" How is this statement correct? How is it wrong? How does food history we've been learning offer a possible solution to the legitimate but sometimes overblown concerns about appropriation? BE SURE YOU USE THE READINGS TO SUPPORT YOUR ANSWER!
 "%}
 
 
@@ -312,35 +311,35 @@ We've talked about food and identity in many ways already; this quiz covers the 
 # Week 4
 
 ## Jun 28
-No new reading for today! Food Blog Analysis is due.
+No video or new reading for today! Food Blog Analysis is due.
 
 {% include alert.html class='danger' title='Food Blog Analysis' text="
-See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the cookbook analysis assignment, when we discussed how much you can learn about people and culture from cookbooks. How much do you find this to be true for your food blog as well?
+See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the cookbook analysis assignment, when we discussed how much you can learn about people, culture, and food from cookbooks.  Just like we looked at cookbooks from ~150 years ago to learn about food at the time, what would a historian 150 years from now think American food was from looking at your blogs?
 "%}
 
 
 
-
-
 ## Jun 29
-### Politics of Meat
-- VIDEO: Introducing the next two days; meat as lightning rod for basically every issue in food studies
+### Technology and Industry of Meat
+- BRIEF INTRO VIDEO
 - Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
-- Jayson Lusk, [The Political Polarization of Meat Demand](http://jaysonlusk.com/blog/2019/4/23/the-political-polarization-of-meat-demand)
-- Meghan McCarron, [I Want to Be a Non-Combatant in the Coming Burger Wars](https://www.eater.com/2019/3/18/18267816/burger-climate-change-political-weapon)
+- Emeyln Rude, _Tastes like Chicken_, 1--11; 130--134; 141--147; 150--160; 181--192. Sorry for all the partial sections here; the PDF is just the pages you need to read. The book tends to go off on lots of cool tangents, so we'll skip around to stay on topic.
 
-{% include alert.html class='warning' title='Lecture and Readings Quiz' text="
-This wide-ranging quiz test your familiarity with the video overview and the arguments presented in the readings---read carefully and don't over simplify!
+{% include alert.html class='warning' title='Reading Quiz ' text="
+The quiz is on the readings, but as usual I'll try to highlight many questions in the video.
 "%}
 
 
 
 ## Jun 30
-### Health and Environmentalism (of Meat)
-- VIDEO: comparing competing meat claims. Unlike most videos that have information I want you to ingest, this video is more of a practical exercise in reading competing texts about meat in light of how we've been thinking about food and identity during the course.
+### Natural Diets
+- VIDEO: Natural diet; natural meat. Many ideological choices are reflected in how people eat or avoid meat. Some discussions about meat focus on the morality of eating other animals, some on potential health advantages, some on environmental impact. One can make moral arguments either way, or find "scientific" studies supporting just about any position, but often the decision comes down to whether one thinks eating meat is natural or not. Building on the history from yesterday, this lecture looks at the history of what constitutes a natural diet, including eating meat. The point isn't to say it's right or wrong (I have my opinion; you have yours), but to see how constructions of naturalness can be powerful influencers of food choice and debates.
+
+### Noteworthy for lecture (but not required reading)
+- Meghan McCarron, [I Want to Be a Non-Combatant in the Coming Burger Wars](https://www.eater.com/2019/3/18/18267816/burger-climate-change-political-weapon)
+- Jayson Lusk, [The Political Polarization of Meat Demand](http://jaysonlusk.com/blog/2019/4/23/the-political-polarization-of-meat-demand)
 - Diana Rodgers, [Meat is Magnificent: Water, Carbon, Methane & Nutrition](https://sustainabledish.com/meat-is-magnificent/)
 - Christina Sewell, [Removing the Meat Subsidy: Our Cognitive Dissonance Around Animal Agriculture](https://jia.sipa.columbia.edu/removing-meat-subsidy-our-cognitive-dissonance-around-animal-agriculture)
-- Nick Martin, [There Is No War on Meat. There Should Be.](https://newrepublic.com/article/162180/no-war-meat-be)
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
