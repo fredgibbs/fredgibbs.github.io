@@ -193,7 +193,7 @@ Originally we were going to have a quiz to highlight and emphasize some ideas fr
 
 ## Jun 17
 - NO VIDEO
-- NO NEW READINGS for today! 
+- NO NEW READINGS for today!
 
 {% include alert.html class='danger' title='Early Cookbook Analysis' text="
 Follow the [Cookbook Analysis Guide](cookbook-analysis).
@@ -326,7 +326,8 @@ See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the c
 - Emeyln Rude, _Tastes like Chicken_, 1--11; 130--134; 141--147; 150--160; 181--192. Sorry for all the partial sections here; the PDF is just the pages you need to read. The book tends to go off on lots of cool tangents, so we'll skip around to stay on topic.
 
 {% include alert.html class='warning' title='Reading Quiz ' text="
-The quiz is on the readings, but as usual I'll try to highlight many questions in the video.
+The quiz is on the readings, but as usual I'll try to highlight many questions in the video. It's the LAST (*insert teary-eyed sniff here*) QUIZ.
+
 "%}
 
 
@@ -356,8 +357,8 @@ Why is the discussion about eating meat so complicated? This simple question sho
 ALSO: Start drafting your [Final Course Reflection](final-course-reflection). These are TECHNICALLY due SATURDAY (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY to make it nice. You can of course submit it whenever you'd like.
 
 
-{% include alert.html class='warning' title='Final lecture quiz' text="
-For the last time (*sniff*), find the quiz at UNM Learn.
+{% include alert.html class='info' title='Nothing to do!' text="
+The final video is my closing argument about what I hope you got out of the class and will keep thinking about in terms of food. I hope you'll tune in and I think it will be helpful for your final course reflection, but it's up to you. No quiz or reflection!
 "%}
 
 
