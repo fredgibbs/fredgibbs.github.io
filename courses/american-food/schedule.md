@@ -267,7 +267,7 @@ This quiz is solely on the one reading for today.
 
 ## Jun 24
 ### Culinary Appropriation
-- Video: Why care about appropriation? And tips for your food blog analysis.
+- [Video: Why care about appropriation? And tips for your food blog analysis](https://youtu.be/Ax2WpVAtMH4)
 - Michael Twitty, _The Cooking Gene_, 1--24.
 - Jess Kapadia, [I Still Don’t Understand The Cultural Appropriation Of Food](https://www.foodrepublic.com/2017/06/01/cultural-appropriation-food/), _Food Republic_.
 - Cynthia R. Greenlee, [Innovation and the incinerated tongue: Notes on hot chicken, race, and culinary crossover](https://thecounter.org/hot-chicken-race-culinary-crossover-nashville-tennessee-black-food-rachel-martin/)
