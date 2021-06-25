@@ -334,7 +334,9 @@ The quiz is on the readings, but as usual I'll try to highlight many questions i
 
 ## Jun 30
 ### Natural Diets
-- VIDEO: Natural diet; natural meat. Many ideological choices are reflected in how people eat or avoid meat. Some discussions about meat focus on the morality of eating other animals, some on potential health advantages, some on environmental impact. One can make moral arguments either way, or find "scientific" studies supporting just about any position, but often the decision comes down to whether one thinks eating meat is natural or not. Building on the history from yesterday, this lecture looks at the history of what constitutes a natural diet, including eating meat. The point isn't to say it's right or wrong (I have my opinion; you have yours), but to see how constructions of naturalness can be powerful influencers of food choice and debates.
+- VIDEO: Natural diet; natural meat.
+- No required readings for today, but skimming through the noteworthy stuff would be useful.
+Many ideological choices are reflected in how people eat or avoid meat. Some discussions about meat focus on the morality of eating other animals, some on potential health advantages, some on environmental impact. One can make moral arguments either way, or find "scientific" studies supporting just about any position, but often the decision comes down to whether one thinks eating meat is natural or not. Building on the history from yesterday, this lecture looks at the history of what constitutes a natural diet, including eating meat. The point isn't to say it's right or wrong (I have my opinion; you have yours), but to see how constructions of naturalness can be powerful influencers of food choice and debates.
 
 ### Noteworthy for lecture (but not required reading)
 - Meghan McCarron, [I Want to Be a Non-Combatant in the Coming Burger Wars](https://www.eater.com/2019/3/18/18267816/burger-climate-change-political-weapon)
@@ -343,22 +345,22 @@ The quiz is on the readings, but as usual I'll try to highlight many questions i
 - Christina Sewell, [Removing the Meat Subsidy: Our Cognitive Dissonance Around Animal Agriculture](https://jia.sipa.columbia.edu/removing-meat-subsidy-our-cognitive-dissonance-around-animal-agriculture)
 
 
-{% include alert.html class='danger' title='Reading reflection' text="
-Why is the discussion about eating meat so complicated? This simple question should allow you to range over the VARIETY of readings. The lectures are essential for not making huge mistakes in your analysis.
+{% include alert.html class='danger' title='Lecture reflection' text="
+I thought about asking you to create a two-minute TikTok video to summarize the lecture. Wouldn't that be fun?! I decided probably not. But pretend you needed to do that and in preparation decided to outline what points you wanted to cover. That's what I want you to do for your reflection today. Create an outline of what YOU considered to be the main points and subpoints/examples from the lecture. By outline, I don't mean a bunch of cryptic bullet points. You should have a series of very short paragraphs that explain the points YOU found interesting and why. Or a point that I clearly thought was important and why YOU disagree it was all that interesting. THERE IS NOT A SET LIST OF STUFF TO WRITE DOWN. I'm looking for engagement with the main points of the lecture and your response to them. Engagement DOES NOT mean agreement.
 "%}
 
 
 
 ## Jul 1
 ### Wrapping up
-- David Foster Wallace, "Consider the Lobster". READ THE FOOTNOTES! Yeah, you can skim over the lobster biology bits if you want, but keep thinking about the larger point he's trying to make with his piece.
+- David Foster Wallace, "Consider the Lobster". READ THE FOOTNOTES, which make some of the best points of the article! You can skim over the lobster biology bits if you want, but keep thinking about the larger point he's trying to make with his piece.
 - VIDEO: Final wrap-up. This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and to jump start your thinking on your Final Course Reflection (see July 3).
 
-ALSO: Start drafting your [Final Course Reflection](final-course-reflection). These are TECHNICALLY due SATURDAY (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY to make it nice. You can of course submit it whenever you'd like.
+WORD TO THE WISE: Start drafting your [Final Course Reflection](final-course-reflection) (see July 3). These are TECHNICALLY due SATURDAY (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY (July 5) to make it nice. You can of course submit it whenever you'd like.
 
 
 {% include alert.html class='info' title='Nothing to do!' text="
-The final video is my closing argument about what I hope you got out of the class and will keep thinking about in terms of food. I hope you'll tune in, as I think it will be helpful for your final course reflection, but it's up to you. No quiz or reflection!
+The final video is my closing argument about what I hope you can take away from the course and stuff I hope you will keep thinking about in terms of food. I hope you'll tune in, as I think it will be helpful for your final course reflection, but it's up to you. No quiz or reflection!
 "%}
 
 
