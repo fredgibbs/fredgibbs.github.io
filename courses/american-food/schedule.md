@@ -323,7 +323,7 @@ See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the c
 ### Technology and Industry of Meat
 - BRIEF INTRO VIDEO
 - Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
-- Emeyln Rude, _Tastes like Chicken_, 1--11; 130--134; 141--147; 150--160; 181--192. Sorry for all the partial sections here; the PDF is just the pages you need to read. The book tends to go off on lots of cool tangents, so we'll skip around to stay on topic.
+- Emeyln Rude, _Tastes like Chicken_, 6--11; 27--39; 130--134; 141--160; 181--192. Sorry for all the partial sections here; the PDF is just the pages you need to read. The book tends to go off on lots of cool tangents, so we skip around to stay on topic. This looks like a crazy amount of reading, but the physical pages and number of words on them are quite small, and many pages are recipes that you can skip over. It goes by really fast, and it's a fun non-academic read.
 
 {% include alert.html class='warning' title='Reading Quiz ' text="
 The quiz is on the readings, but as usual I'll try to highlight many questions in the video. It's the LAST (*insert teary-eyed sniff here*) QUIZ.
