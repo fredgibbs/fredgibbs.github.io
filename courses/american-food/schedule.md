@@ -334,7 +334,7 @@ The quiz is on the readings, but as usual I'll try to highlight many questions i
 
 ## Jun 30
 ### Natural Diets
-- VIDEO: Natural diet; natural meat.
+- [VIDEO: Natural food, technology, nature, cost](https://youtu.be/P64q-jmkQfE)
 - No required readings for today, but skimming through the noteworthy stuff would be useful.
 Many ideological choices are reflected in how people eat or avoid meat. Some discussions about meat focus on the morality of eating other animals, some on potential health advantages, some on environmental impact. One can make moral arguments either way, or find "scientific" studies supporting just about any position, but often the decision comes down to whether one thinks eating meat is natural or not. Building on the history from yesterday, this lecture looks at the history of what constitutes a natural diet, including eating meat. The point isn't to say it's right or wrong (I have my opinion; you have yours), but to see how constructions of naturalness can be powerful influencers of food choice and debates.
 
