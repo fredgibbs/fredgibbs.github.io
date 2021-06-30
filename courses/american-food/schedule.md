@@ -346,7 +346,7 @@ Many ideological choices are reflected in how people eat or avoid meat. Some dis
 
 
 {% include alert.html class='danger' title='Lecture reflection' text="
-I thought about asking you to create a two-minute TikTok version of the lecture. Wouldn't that be fun?! I decided probably not. But I'm most interested to know what points YOU found interesting AND WHY. What did you already know? What did you agree or disagree with? Where did you get confused? Remember that the point of the reflection is to show your familiarity with the video and previous course readings. Of course there's no required reading for today, but outlining some ideas about how this lecture fits into the course will definitely help with your final course reflection. I look forward to your thoughts!
+I thought about asking you to create a two-minute TikTok version of the lecture. Wouldn't that be fun?! I decided probably not. But I'm most interested to know what points YOU found interesting AND WHY. What did you already know? What did you agree or disagree with? What did I not explain very well? What do you want to know more about? Remember that the point of the reflection is to show your familiarity with the video and previous course readings. Of course there's no required reading for today, but outlining some ideas about how this lecture fits into the course will definitely help with your final course reflection. I look forward to your thoughts!
 
 ONE DAY EXTENSION! Many folks have, understandably, slid a little behind as we hit the home stretch. To make things a little easier, the DEADLINE for the reflection today is going to SLIDE TO TOMORROW (Thursday). As noted below, there's the short wrap-up video but nothing to turn in otherwise.
 "%}
