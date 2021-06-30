@@ -346,7 +346,9 @@ Many ideological choices are reflected in how people eat or avoid meat. Some dis
 
 
 {% include alert.html class='danger' title='Lecture reflection' text="
-I thought about asking you to create a two-minute TikTok video to summarize the lecture. Wouldn't that be fun?! I decided probably not. But pretend you needed to do that and in preparation decided to outline what points you wanted to cover. That's what I want you to do for your reflection today. Create an outline of what YOU considered to be the main points and subpoints/examples from the lecture. By outline, I don't mean a bunch of cryptic bullet points. You should have a series of very short paragraphs that explain the points YOU found interesting and why. Or a point that I clearly thought was important and why YOU disagree it was all that interesting. THERE IS NOT A SET LIST OF STUFF TO WRITE DOWN. I'm looking for engagement with the main points of the lecture and your response to them. Engagement DOES NOT mean agreement.
+I thought about asking you to create a two-minute TikTok version of the lecture. Wouldn't that be fun?! I decided probably not. But I'm most interested to know what points YOU found interesting AND WHY. What did you already know? What did you agree or disagree with? Where did you get confused? Remember that the point of the reflection is to show your familiarity with the video and previous course readings. Of course there's no required reading for today, but outlining some ideas about how this lecture fits into the course will definitely help with your final course reflection. I look forward to your thoughts!
+
+ONE DAY EXTENSION! Many folks have, understandably, slid a little behind as we hit the home stretch. To make things a little easier, the DEADLINE for the reflection today is going to SLIDE TO TOMORROW (Thursday). As noted below, there's the short wrap-up video but nothing to turn in otherwise.
 "%}
 
 
