@@ -356,7 +356,7 @@ ONE DAY EXTENSION! Many folks have, understandably, slid a little behind as we h
 ## Jul 1
 ### Wrapping up
 - David Foster Wallace, "Consider the Lobster". READ THE FOOTNOTES, which make some of the best points of the article! You can skim over the lobster biology bits if you want, but keep thinking about the larger point he's trying to make with his piece.
-- VIDEO: Final wrap-up. This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and to jump start your thinking on your Final Course Reflection (see July 3).
+- [VIDEO: Final wrap-up](https://youtu.be/M1QBKYRW_8A). This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and to jump start your thinking on your Final Course Reflection (see July 3).
 
 WORD TO THE WISE: Start drafting your [Final Course Reflection](final-course-reflection) (see July 3). These are TECHNICALLY due SATURDAY (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY (July 5) to make it nice. You can of course submit it whenever you'd like.
 
