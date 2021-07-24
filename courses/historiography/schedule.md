@@ -3,7 +3,7 @@ layout: syllabus
 course-title: Historiography
 course-slug: historiography
 number: HIST 491-001
-term: Fall 2019
+term: Fall 2021
 section: schedule
 ---
 
@@ -11,352 +11,266 @@ section: schedule
 
 {% include in-progress.html %}
 
-## Week 1
-### 19: Syllabus, Expectations, Tools
-- Introduction to the course
-- Introduction to [Zotero](http://zotero.org)
 
-{% include alert.html class='danger' title='Do this TODAY' text="
-- Follow the [Zotero setup instructions](http://fredgibbs.net/courses/etc/zotero).
+## Week 1
+### 23: Syllabus, Expectations, Tools
+- No reading for today
+
+{% include alert.html class='info' title='In class' text="
+- Introduction to the course and historiography
+- Introduction to [Zotero](http://zotero.org)
+- Introduction to [GitHub](http://github.com)
+- Introduction to [_MetaHistory_](https://unm-historiography.github.io/metahistory/)
 "%}
 
-
-### 21: What is Historiography?
-- _From Herodotus to H-Net_, "What is Historiography?", 1-24.  
-- Introduction to [Github](http://github.com)
-
-{% include alert.html class='danger' title='Do This BEFORE FRIDAY' text="
+{% include alert.html class='danger' title='Do this TODAY' text="
+- Follow the "Connecting to Zotero" instructions on the syllabus home page.
 - Follow the [GitHub setup instructions](http://fredgibbs.net/courses/etc/connecting-to-github).
 - Add your GitHub username to our [shared Google Doc](https://docs.google.com/document/d/1Db2kwK0AXIRQWyE7wO_0JU_NFXTGOgZCGIfBGl1qmMM/edit?usp=sharing).
 - Click on the link from the invitation email (like Zotero, but from GitHub).
-- Consult our [Instructions for using GitHub](http://fredgibbs.net/courses/etc/posting-to-github).
-- Note that starting Monday (for Monday, not after Monday), all assignments must be posted in [our repository](https://github.com/unm-historiography/2019-fall).
 "%}
+
+
+### 25: What is History For?
+- Browse [_MetaHistory_](https://unm-historiography.github.io/metahistory/) and be prepared to report on what you learned (or got interested in) about historiography. You will be contributing to this as a main project for the course.
+- Beverly Southgate, _What is History For?_, 31--58.
+
+{% include alert.html class='danger' title='Reading Reflection' text="
+- Which ideas are most AND least interesting to you?
+- What has intrigued you about history? Think carefully and avoid the trite 'i dunno i've just always liked it' kind of response.
+"%}
+
+{% include alert.html class='info' title='In class' text="
+- Introduction to [Markdown](https://www.markdownguide.org/), [dillinger.io](https://dillinger.io/), and [Atom](https://atom.io/).
+- Why muck around with these tools?
+"%}
+
 
 
 ## Week 2
 
-### 26: Philosophy of History
-- _PoH_, 1-13.
-{% include alert.html class='info' title='Leave time for GitHub' text="
-A short reading assignment, partially to let you get used to posting on GitHub. Everyone should post a comment on the following, drawing from the previous two readings and your own personal experience:
-- What is history for?
-- What's the difference between studying the philosophy of history and historiography?
-- How is historiography useful outside of the academy?
-"%}
+### 30: Myth, History and the Past
 
-### 28: Pre-classical History + Greco-Roman History
-- _PoH_,  14-27; 28-44.
+### 1: Pre-classical, Greco-Roman, Medieval History
+
+
 
 
 ## Week 3
 
-### 2: NO CLASS (Labor Day)
+### 6: NO CLASS (Labor Day)
 
-### 4: Medieval History
-* _PoH_, 45-73.  
+### 8: Early Modern History + Enlightenment History
+- Niccolò Machiavelli, _The Prince_, 5-19. (These are really small pages.) Everyone should come to class prepared to discuss how examples from _The Prince_ illustrate what's changing in how history is being used?
+
 
 
 
 ## Week 4
 
-### 9: Early Modern Historiographical Revolutions
-- _PoH_, 74-106.
-- Niccolò Machiavelli, _The Prince_, 5-19. (These are really small pages.) Everyone should come to class prepared to discuss: What examples from _The Prince_ illustrate what's in the chapter? How does it draw from previous historiographic traditions?
+### 13: Leopold von Ranke and Professional History
+- Jeremy D. Popkin, _From Herodotus to H-Net_, "The 19th century and the rise of academic scholarship", 68-96.  
 
-{% include alert.html class='info' title='Review posts from last time' text="
-We're going to tie up some loose ends from last time, so we can be most efficient if you review the excellent questions and comments you produced for last Wednesday's class.
-"%}
 
-### 11: Interlude?
-- _PoH_, 107-126.
-- Discussion of [Intro Guide](https://unm-historiography.github.io/intro-guide/) assignment due Monday.
+### 15: The _Annales_ School and Macrohistory
+- Readings TBP
+
 
 
 ## Week 5
 
-### 16: Giambattista Vico (1668-1744)
-- _PoH_, 127-167. Skim 137-160. You should still read these pages---they are actually quite interesting as perhaps the first comprehensive theory of history---but read quickly as to not get bogged down in the details.
+### 20: Postmodernism
+- Jeremy D. Popkin, _From Herodotus to H-Net_, "Glorious Confusion", 127-65.
 
-{% include alert.html class='info' title='The Intro Guide' text="
-
-**As you look over the intro guide, stay out of the weeds!** Really specific criticism about a particular essay is not particularly helpful at this stage. Keep your analysis focused on the big picture and the overall project.
-
-Maintaining our four groups:
-- **Questioners**: What questions to we need to be asking of ourselves to make this most usable for an early college student? These should be a product of surveying what's already in the guide and thinking about what should or should not be in it as well as how it should be done.
-- **Summarizers**: What are the strengths and weaknesses of what's already here and what you find to be lacking?
-- **Commenters**: Can early college students learn the BASICS of historiography from this KIND of resource? Don't limit your analysis simply to what is already on the site. What should the key features be? Can such a guide be a way of helping students to reimagine what history is?
-- **Slackers**: You don't need to write anything, but as always be ready to contribute to our conversation.
-
-Note: There is an overwhelming amount to be improved, so the assignment here is to some extent an exercise in stating the obvious---but it's an important first step. You will be graded on your effort to say something productive and improve the project.
+{% include alert.html class='danger' title='Postmodern reflection' text="
+Write a long comment (600-800 words) about your take on postmodern history with a focus on this question:
+- Does postmodern history constitute a historiographical paradigm shift? Or are they more on a continuum of historiographical change?
 "%}
 
-### 18: Enlightenment
-- _PoH_, 168-200.
-- Discussion of editing assignment due next week
+
+### 22: Discursive History
+- Foucault, _Archeology of Knowledge_, 3-17; 21-30; 31-39.
+
+{% include alert.html class='danger' title='WTF' text="
+- Translate Foucault's main points into clear and concise language.
+"%}
+
 
 
 ## Week 6
 
-### 23: Hegel
-- _PoH_, 201-237.
+### 27: Gender Histories
+- Joan Scott, "Gender: A Useful Category of Historical Analysis", 1053-1075.
 
-{% include alert.html class='danger' title='First edits due' text="
-Consult the [Intro-guide revision guidelines](1st-revision-guide).
-
-You can access the intro guide (I'm now calling it _Metahistory_ just for fun) [here](https://unm-historiography.github.io/intro-guide/).
-
-Your first edits should be complete and visible on GitHub. Note that changes will be made in the [intro guide repository](https://github.com/unm-historiography/intro-guide), which is separate from the repository for our reading responses. We'll devote some class discussion time for evaluating these. There is nothing else to post for today, BUT:
-
-Be prepared to discuss what’s significant with Hegel, what’s new with his view of history, and why should we care. There is a very high probability of me using the cards to keep everyone honest.
-
-Remember that the first chunk (up to p. 213 or so) is an overview of his philosophy that you should read quickly. Slow down when it's more about his theory of history.
-"%}
-
-### 25: Marx
-- _PoH_, 238-277.
-
-{% include alert.html class='danger' title='Image edits due' text="
-We looked at the code page in class, but I split off the images stuff into their own file with more explicit directions for Wednesday. See [Embedding images in your essays](https://unm-historiography.github.io/intro-guide/loading-images).
-
-The original [code samples](https://unm-historiography.github.io/intro-guide/code) are still available.
-
-All you need to do is copy and paste the code from the gray box, and change the parameters (position, width, filename, etc).
-
-- BE CAREFUL ABOUT QUOTATIONS! If you accidentally omit a quotation mark, the code won't work and the whole site will break.
-
-- If you ever get an email or notification of a 'Page Build Failure', send me a quick email to let me know and I will look at what's wrong. There's a chance it's not with your file, so if you don't see anything wrong, just keep working and it will get resolved.
-
-- If you get really confused or frustrated, relax. We'll work through issues on Wednesday and you can finish uploading code and images before Monday.
-"%}
+### 29: Postcolonial Histories
+- Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?", 1-27.
 
 
 
 ## Week 7
 
-### 30: Leopold von Ranke and Professional History
-- Jeremy D. Popkin, _From Herodotus to H-Net_, "The 19th century and the rise of academic scholarship", 68-96.  
-- Thomas Gil, "Leopold Ranke", 383-92.
+### 4: Archival Power
+- Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19. This article is a little repetitive at times, but in a good way as it makes it easy to understand the main points. It is shorter than it looks in terms of page count because many pages are almost entirely footnotes (which you can peruse if you're interested).
+
+### 6: Archival Silence
+- Rodney G. S. Carter, “Of Things Said and Unsaid: Power, Archival Silences, and Power in Silence” _Archivaria_, September 25, 2006, 215–33.
 
 
-### 2: The _Annales_ School
-- Georg Iggers, "From Macro- to Microhistory: The History of Everyday Life", 101-117.
-- Anna Green and Kathleen Troup, eds., _The Houses of History_, "The _Annales_", 87-109.   
 
 
 ## Week 8
 
-### 7:  Quantitative History
-- Anna Green and Kathleen Troup, eds., _The Houses of History_, "Quantitative History", 141-50; skim 151-71.
-- Margo Anderson, "Qualitative History", 246-59.
+### 11: Historical Landscape and Sites of Memory
 
-{% include alert.html class='info' title='Discussion prep' text="
-- Everyone is a commenter for today. Drawing from the readings, respond to the following two questions:
-  - Is quantitative history fundamentally different from 'regular' history?
-  - To what extent will all history gradually become quantitative history (as sources are born-digital or become digitized)?  
+### 13: NO CLASS: Enjoy Fall Break!!!
+
+
+
+## Week 9
+This week we're starting our one book for the course. It's rather theoretical and abstract at times (most of the time, actually), but that challenge is by design. One of the aims of the course is that you can think abstractly about key issues in history and broaden your ability to think abstractly about ANYthing. That's what senior-level capstone seminars should do, in my opinion. There will be paragraphs or even pages where you will be confused about what the authors is trying to say. It's true for me, too! Don't be discouraged that you're not "getting it". It's not easy and it's not meant to be. We'll work through the main points in our discussion and I think you'll agree that once we work through it together, it gives us powerful new tools for interpreting not only history, but any kind of text.
+
+### 18: _Historical Theory_ I
+- _Historical Theory_, 3--11 (Ch. 1: Introduction).
+- _Historical Theory_, 12--30 (Ch. 2: The Contested Nature of Historical Knowledge).
+- _Historical Theory_, 31--50 (Ch. 3: Historical Paradigms and Theoretical Traditions).
+
+### 20: _Historical Theory_ II
+- _Historical Theory_, 53--73 (Ch. 4: Beyond Metanarrative: Plots, Puzzles, and Plausibility).
+
+
+
+## Week 10
+
+### 25: _Historical Theory_ III
+- _Historical Theory_, 74--97 (Ch. 5: Labelling the Parts: Categories and Concepts).
+- _Historical Theory_, 98--121 (Ch. 6: Looking for Clues).
+
+### 27: _Historical Theory_ IV
+- _Historical Theory_, 122--140 (Ch. 7: Satisfying Curiosity).
+
+
+
+# Week 11
+
+### 1: _Historical Theory_ V
+- _Historical Theory_, 143--163 (Ch. 8: Representing the Past).
+- _Historical Theory_, 164--184 (Ch. 9: History and Partisanship).
+
+### 3: _Historical Theory_ VI
+- _Historical Theory_, 185--196 (Ch. 10: Conclusion).
+- Peruse the Metahistory site.
+
+
+## Week 12
+### 8: Metahistory Review and Historiographical Research Methods
+- No new reading.
+
+{% include alert.html class='danger' title='Metahistory reflection' text="
+For your reflection today: What questions do we need to be asking to make _Metahistory_ most usable for students learning the basics of historiography?
+- What are the strengths and weaknesses of what's already there?
+- What you find to be lacking?
+- What kinds of topics aren't there that should be?
+- Where did you get confused in class and wished you had a essay to help you?
+- What topic do you want to write about?
 "%}
 
-
-### 9: NO CLASS: Enjoy Fall Break!!!
-
-
-
-## Week 9: What are we doing?
-
-### 14: What IS History?
-- _PoH_, 281-89
-{% include alert.html class='info' title='EVERYONE: summary assignment' text="
-Summarize this intro to Part II in ONLY 3 bullet points from the reading.
+{% include alert.html class='info' title='In class' text="
+Today we'll go over the basic research process that you should use for your essays. This ensures you will be selecting appropriate sources, and using and citing them appropriately.
 "%}
 
-- _PoH_, 290-322.
-- Regular groups for this section.
-
-- DECIDE ON A TOPIC. Review existing Intro Guide and come to class with a specific topic in mind. We will discuss proposed topics to manage overlap amongst ourselves and existing essays.
-
-
-### 16: What is History FOR?
-- _PoH_, 323-56.
-- Regular groups responses for this reading.
-- Notes on forking repositories and developing your essay. These instructions are written out under next Monday's class, but we'll go over them today.
-
-
-
-## Week 10: All hell breaks loose
-
-### 21: Postmodernism I
-- Jeremy D. Popkin, _From Herodotus to H-Net_, "Glorious Confusion", 127-65.
-{% include alert.html class='info' title='Get your new page working' text="
-No posts for today, but complete the steps below (as explained on Monday) and start thinking about the assignment for Wednesday.
-"%}
-- Fork the intro-guide. Go to the [intro-guide repository](https://github.com/unm-historiography/intro-guide), and click the `Fork` button in the upper right corner (don't click the number).
-- You'll see a popup window asking you where you want to fork it, and you'll click on your username (you should only have one choice).
-- Notice where you are! You are looking at the intro-guide repository under YOUR OWN ACCOUNT. This is evident from the URL and the top left of the GitHub page. Our collection will always have `unm=-historiography` in it, and yours will have your GitHub username. But the files look exactly the same!
-- Turn on your own repository's GitHub Pages website. Under the settings tab, scroll down to the `GitHub Pages` section (second from the bottom), and under `source`, change it from `none` to `master branch`. Scroll back down to the GitHub Pages section, and notice that it gives you a URL for your version of the intro-guide. It will look like https://USERNAME.github.io/intro-guide.
-- Working in YOUR repository (which will look like https://github.com/USERNAME/intro-guide/), go into the `essays` folder and appropriate subfolder, and create a new page for your essay.
-- Copy and paste the standard page header from the Code Examples page or copy the code from an existing page.
-- Copy and paste image code from the Loading Images page or copy code from an existing page. You want to get one image to appear, just to make sure you have working code for it.
-- Write a 1-2 paragraph abstract of what you'd intend to do in your essay. This is a starting point, not a final commitment, but be thorough.
-- You can test your page by going to https://USERNAME.github.io/intro-guide/essays/FOLDER/FILENAME, where FOLDER is the folder in which you created a new file, and FILENAME is the name of your file.
-- Get your page looking like you want within YOUR repository. Make sure there are no page build errors (you will get an email about them).
-- You're done! We'll talk about integrating your new page with everyone else's later.
-
-
-### 23: Postmodernism II
-- _PoH_, 359-89.
-
-{% include alert.html class='info' title='postmodernism so far' text="
-Write a slightly-longer-than-normal-comment (600-800 words) about your take on postmodern history. Write/focus on whatever you like, but provide at least rough answers to the following kinds of questions (but don't just answer them one by one):
-- How have our readings affected the way you think about history?
-- Does postmodern history constitute a historiographical paradigm shift?
-- Are late twentieth-century ways of writing about history that we've discussed a 'rupture' from previous historiographies?
-- Or are they more on a continuum of historiographical change.
-**These comments will be VERY useful for our Intro Guide.**
-"%}
-
-
-
-## Week 11
-
-### 28: NO CLASS: Work on your essays!
-
-{% include alert.html class='danger' title='Research Methods' text="
-
-### START BUILDING YOUR ZOTERO LIBRARY
-For more instructions on what to do, [watch this](https://www.youtube.com/watch?v=yD8_6MZFI8c&feature=youtu.be).
-
-### MAKE WORKING NOTES
-As such, ask questions, makes notes to yourself and your colleagues (who will review your work later).
-
-### DON'T FORGET CITATIONS
+{% include alert.html class='warning' title='Save time' text="
+### Don't procrastinate with citations!
 If you just write stuff down and don't bother citing where you found it, you will have to eventually hunt down all the page numbers and THAT'S A HUGE WASTE OF TIME. As someone who has wasted considerable time on just that, please take my advice: take time to make accurate references AS YOU WRITE.
 "%}
 
 
-### 30: Discursive History
-* Foucault, _Archeology of Knowledge_, 3-17; 21-30; 31-39.
-
-{% include alert.html class='info' title='WTF' text="
-Everyone is a summarizer for today:
-- Translate Foucault's main points into clear and concise language.
-"%}
-
-
-## Week 12
-### 4: Essay Drafts I
-{% include alert.html class='danger' title='Essay Drafts Due' text="
-For today, post a COMPLETE draft for your essay, which should be around at least 2000 words (with the final being 2500). With no reading assignment, this is obviously your focus, so DO IT WELL and save everyone (including your future self) headaches later.
-
-'Draft' does not mean some half-baked sketch hastily thrown together so you have something to post. It means a COMPLETE FIRST VERSION that we can all respond to in a meaningful way. If your post is too hastily thrown together, you will need to revise and resubmit it immediately to get credit.
-
-#### I make no distinction between your ideas and your expression of them.
-
-"%}
-
-{% include alert.html class='danger' title='Bring Paper Copies' text="
-We'll be doing a peer review session with your essays, so please bring TWO HARD COPIES of your essay to class.
-
-As we discussed, merge your essay from your fork into the main unm-historiography/intro-guide repository. I showed you how to do this in class, and made a [rough screencast of it](https://youtu.be/tLAaLmHkKZU).
-
-Once your essay is merged, print it from the Intro Guide website (not your fork)!
-"%}
-
-
-### 6: Narrative history
-
-{% include alert.html class='danger'
-title='First Revisions Due' text="
-Respond to your critics (and friends)! Incorporate changes while they are fresh in your mind. You will revise more later, so these aren't final revisions, but we want to take best advantage of the peer review exercise.
-"%}
-
-
-- Alex Rosenberg, [Why most narrative history is wrong](https://www.salon.com/2018/10/07/why-most-narrative-history-is-wrong/)
-
-{% include alert.html class='info' title='Discussion prep' text="
-  - Where do you agree and disagree with this article?
-"%}
+### 10: TBD
 
 
 
 
 ## Week 13
 
-### 11: Gender Histories
-* Joan Scott, "Gender: A Useful Category of Historical Analysis", 1053-1075.
-* BONUS: [Using Atom.io to commit changes to your repository](https://youtu.be/baRQrTl7wxU)
+### 15: History as Data
+- SKIM: Margo Anderson, "Quantitative History", 246-59.
+- Laura Spinney, [History as a giant data set: how analysing the past could help save the future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
+
+{% include alert.html class='info' title='Reading Reflection' text="
+Respond to the following questions:
+  - Is quantitative history fundamentally different from 'regular' history?
+  - To what extent will all history gradually become quantitative history (as sources are born-digital or become digitized)?  
+  - How does this suggestion problem solving through history conflict with uses of history as we've seen them so far in the course?
+"%}
 
 
-### 13: Postcolonial Histories
-- Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?", 1-27.
-- Essay assignments for review
+### 17: Digital History
+- No new readings, but you need to post your annotated bibliographies to GitHub for class discussion
 
-{% include alert.html class='danger'
-title='SECOND Revisions Due' text="
-Your essays will undergo another (but different) kind of peer review over the weekend, so you should have a **TOTALLY COMPLETE** and REASONABLY POLISHED draft following the [writing guide](https://unm-historiography.github.io/intro-guide/writing-guide).
+{% include alert.html class='info' title='In class' text="
+Presentation on Digital History Projects: Past, Present, and Future
+"%}
+
+
+{% include alert.html class='danger' title='Annotated Bibliographies Due' text="
+Your bibliographies should include a minimum of 10 sources relevant to your topic. You should aim for a range of both very specific and broader sources. They should be published in the last 20 years, unless you are citing a \"classic\" work.
 "%}
 
 
 
 ## Week 14
-### 18: Reader Reports
+### 22: NO CLASS: Work on your essay drafts!
+
+### 24: NO CLASS: Happy Thanksgiving!
+{% include alert.html class='danger' title='COMPLETE Drafts Due' text="
+No class today, but you must post by the end of the day a COMPLETE draft for your essay, which should be around at least 2000 words (with the final being 2500). With no reading assignment, this is obviously your focus, so DO IT WELL and save everyone (including your future self) headaches later.
+
+'Draft' does not mean some half-baked sketch hastily thrown together so you have something to post. It means a COMPLETE FIRST VERSION that we can all respond to in a meaningful way. If your post is too hastily thrown together, you will need to revise and resubmit it immediately to get credit for completing the assignment.
+
+Your essays will undergo peer review over the weekend, so you should have a **TOTALLY COMPLETE** and REASONABLY POLISHED draft following the [writing guide](https://unm-historiography.github.io/intro-guide/writing-guide).
+"%}
+
+
+
+## Week 15
+
+### 29: NO CLASS: Happy Post-Thanksgiving!
+- Find your essay review assignments for Wednesday's assignment HERE (link TBP).
+
+
+### 1: Reader Reports
+- No new readings. Today we read through and go over reader reports and general revision strategies.
+
 {% include alert.html class='danger' title='Reader Reports Due' text="
-Bring your TWO ~400 word critiques on TWO different essays. Review assignments are posted [in our repository](https://github.com/unm-historiography/2019-fall/blob/master/review-assignments.md). For efficiency, these should be bullets and sub-bullets only. NO NARRATIVES ALLOWED! Focus on the big picture: framing, historiographical significance, and accessibility for the intended audience. Be sure you are thinking about the points raised in the [writing guide](https://unm-historiography.github.io/intro-guide/writing-guide).
+Bring your TWO ~500 word critiques on TWO different essays. Review assignments are posted [in our repository](https://github.com/unm-historiography/2019-fall/blob/master/review-assignments.md). Focus on the big picture: framing, historiographical significance, and accessibility for the intended audience. Be sure you are thinking about the points raised in the [writing guide](https://unm-historiography.github.io/intro-guide/writing-guide).
 "%}
 
-
-### 20: Scales of history
-* Kieran Healy, "Fuck nuance", 1-13.
-
-{% include alert.html class='info' title='Discussion prep' text="
-Everyone is an informal(!) commenter for today (usual length). We haven't done comments for a while, but it was clear that many of you were finding your commenter voice/style. Keep it up! Here are some questions to consider, but write a general comment on these topics rather than give specific answers (which you can't do well in only 400 words).
-
-  - Do you reject my premise that this article applies equally well to history?
-  - Is all historical study except the 'universal' histories predominant before Ranke a matter of nuance?
-  - Besides making for a good story, is there value in historical work that simply adds nuance to widely accepted understandings of the past?
-  - How should the scale of a historical study be used in understanding its value? (= what is history for? [see next week])
-  - Is history well served by models? (also: do you need math to have models?)
-  - Will the rise of a digital archive make historical laws more attractive to historians?
-  - How might a digital archive challenge traditional historical authority?
-
-"%}
-
-
-## Week 15:  Postmodern discursive history
-### 25: Finish Revisions
-
-{% include alert.html class='danger' title='Revisions Due' text="
-  You need to post to your repository the latest version of your essay. I will be commenting on these drafts (similar to the critiques you just did), and the quality of these drafts will contribute to your participation grade for the course. Don't miss the opportunity to submit quality drafts for the most useful feedback going into the final weeks of the semester!
-"%}
-
-### IN CLASS
-- Lingering technical questions
-- Final essay spot checking and suggestions (for you)
-- Final site suggestions (for me)
-- A final quiz?
-
-- I summarize (since you won't be reading it):
-  - _What is History For?_, 31--58.
-  - _What is History For?_, 59--84.
-
-
-### 27: The Future of History
-{% include alert.html class='danger' title='STUFF TO DO BEFORE WED' text="
-  - FIRST COPY AND PASTE the code from [most recent nav bar](https://github.com/unm-historiography/intro-guide/blob/master/_data/nav.yml) to the same file in your fork. Just copy all the text from the edit window (or the `raw` view) and replace all text in your nav.yml file.
-
-  - NEXT, merge your fork with the intro-guide. We're not doing reviews or anything more there--it's just to check that everything is working as expected. [screencast](https://youtu.be/tLAaLmHkKZU).
-
-  - Also BEFORE CLASS ON WEDNESDAY, update our [Table of Contents Data](https://docs.google.com/spreadsheets/d/1EBAxMEabmmgxiU_0yabIDr6r8Cnevtv63KXDbae33T4/edit#gid=0)
-"%}
-
-One last (and new) reading to discuss:
-- Laura Spinney, [History as a giant data set: how analysing the past could help save the future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
-- In class: Discussion of reading (you are highly encouraged to end on a participation high note--please be prepared) and concluding remarks for the course.
 
 
 ## Week 16
-### 2: NO CLASS: WRITING TIME
+### 6: Publishing your essay
+- No new readings. Mostly we're going over the final revision and submission processes for your essays and final course reflections.
 
-### 4: NO CLASS: REVISING TIME
+{% include alert.html class='info' title='In class' text="
+- Walk through the steps necessary to publish your essay on the official Metahistory site. There will be a new version of this [screencast](https://youtu.be/tLAaLmHkKZU). Your final version must be posted by December 13.
+"%}
 
 
-## All course work due by Dec 13!
+{% include alert.html class='danger' title='Table of Contents' text="
+- BEFORE CLASS ON WEDNESDAY, update our [Table of Contents Data](https://docs.google.com/spreadsheets/d/1EBAxMEabmmgxiU_0yabIDr6r8Cnevtv63KXDbae33T4/edit#gid=0). Double check your abstract, image, and the link.
+"%}
+
+
+### 8: Last questions/comments and course wrap up
+- No new readings.
+
+{% include alert.html class='warning' title='In class' text="
+- Course Retrospective
+- What I hope you can do with historiography
+- Final essay revision advice
+- Final course reflection advice
+"%}
+
+
+
+
+## All revisions due by Dec 15!
