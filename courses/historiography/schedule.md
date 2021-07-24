@@ -24,7 +24,7 @@ section: schedule
 "%}
 
 {% include alert.html class='danger' title='Do this TODAY' text="
-- Follow the "Connecting to Zotero" instructions on the syllabus home page.
+- Follow the \"Connecting to Zotero\" instructions on the syllabus home page.
 - Follow the [GitHub setup instructions](http://fredgibbs.net/courses/etc/connecting-to-github).
 - Add your GitHub username to our [shared Google Doc](https://docs.google.com/document/d/1Db2kwK0AXIRQWyE7wO_0JU_NFXTGOgZCGIfBGl1qmMM/edit?usp=sharing).
 - Click on the link from the invitation email (like Zotero, but from GitHub).
