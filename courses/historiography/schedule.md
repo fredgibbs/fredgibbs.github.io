@@ -9,7 +9,23 @@ section: schedule
 
 # Schedule of Readings & Assignments
 
-{% include in-progress.html %}
+## Decoding the syllabus
+- Regular bullet points listed under each day are stuff you need to READ BEFORE CLASS.
+- Usually there are one or two items; occasionally there are three, like when we have short book chapters.
+
+{% include alert.html class='danger' title='Red boxes' text="
+These are something you have to TURN IN for that day, BEFORE CLASS, usually 10am.
+"%}
+
+{% include alert.html class='info' title='Blue boxes' text="
+These are usually notes about what we'll be discussing in class, usually with additional links for reference. If there is no blue box for one of our meeting days, it's just a usual class discussion.
+"%}
+
+{% include alert.html class='warning' title='Yellow Boxes' text="
+These are warnings about something that you should note, but aren't an assignment you need to turn in.
+"%}
+
+
 
 
 ## Week 1
@@ -23,7 +39,7 @@ section: schedule
 - Introduction to [_MetaHistory_](https://unm-historiography.github.io/metahistory/)
 "%}
 
-{% include alert.html class='danger' title='Do this TODAY' text="
+{% include alert.html class='danger' title='Do this AFTER CLASS' text="
 - Follow the \"Connecting to Zotero\" instructions on the syllabus home page.
 - Follow the [GitHub setup instructions](http://fredgibbs.net/courses/etc/connecting-to-github).
 - Add your GitHub username to our [shared Google Doc](https://docs.google.com/document/d/1Db2kwK0AXIRQWyE7wO_0JU_NFXTGOgZCGIfBGl1qmMM/edit?usp=sharing).
@@ -32,10 +48,11 @@ section: schedule
 
 
 ### 25: What is History For?
-- Browse [_MetaHistory_](https://unm-historiography.github.io/metahistory/) and be prepared to report on what you learned (or got interested in) about historiography. You will be contributing to this as a main project for the course.
+- Browse [_MetaHistory_](https://unm-historiography.github.io/metahistory/) and be prepared to report on what you learned (or got interested in) about historiography. You will be contributing an essay to this as a main project for the course.
 - Beverly Southgate, _What is History For?_, 31--58.
 
 {% include alert.html class='danger' title='Reading Reflection' text="
+- Reminder: these should be committed to our GitHub Repository!
 - Which ideas are most AND least interesting to you?
 - What has intrigued you about history? Think carefully and avoid the trite 'i dunno i've just always liked it' kind of response.
 "%}
@@ -50,8 +67,10 @@ section: schedule
 ## Week 2
 
 ### 30: Myth, History and the Past
+- Readings TBP
 
 ### 1: Pre-classical, Greco-Roman, Medieval History
+- Readings TBP
 
 
 
@@ -71,9 +90,17 @@ section: schedule
 ### 13: Leopold von Ranke and Professional History
 - Jeremy D. Popkin, _From Herodotus to H-Net_, "The 19th century and the rise of academic scholarship", 68-96.  
 
+{% include alert.html class='danger' title='Reading reflection' text="
+How would you rank the different aspects of professional history (according to Ranke) that separated it from previous historical practice?
+"%}
+
 
 ### 15: The _Annales_ School and Macrohistory
 - Readings TBP
+
+{% include alert.html class='danger' title='Reading reflection' text="
+What guiding principles did the Annalists follow that deviated from \"traditional\" history?
+"%}
 
 
 
@@ -91,7 +118,7 @@ Write a long comment (600-800 words) about your take on postmodern history with 
 ### 22: Discursive History
 - Foucault, _Archeology of Knowledge_, 3-17; 21-30; 31-39.
 
-{% include alert.html class='danger' title='WTF' text="
+{% include alert.html class='danger' title='WTF Reflection' text="
 - Translate Foucault's main points into clear and concise language.
 "%}
 
@@ -120,7 +147,7 @@ Write a long comment (600-800 words) about your take on postmodern history with 
 
 ## Week 8
 
-### 11: Historical Landscape and Sites of Memory
+### 11: TBD
 
 ### 13: NO CLASS: Enjoy Fall Break!!!
 
@@ -150,7 +177,7 @@ This week we're starting our one book for the course. It's rather theoretical an
 
 
 
-# Week 11
+## Week 11
 
 ### 1: _Historical Theory_ V
 - _Historical Theory_, 143--163 (Ch. 8: Representing the Past).
@@ -158,21 +185,35 @@ This week we're starting our one book for the course. It's rather theoretical an
 
 ### 3: _Historical Theory_ VI
 - _Historical Theory_, 185--196 (Ch. 10: Conclusion).
-- Peruse the Metahistory site.
+- Peruse the [Metahistory site](https://unm-historiography.github.io/metahistory/) again so you are familiar with the essays, their style, strengths and weaknesses. Pick an essay you want to edit according to the [revision guide](revision-guide).
+
+{% include alert.html class='info' title='In class' text="
+- _Historical Theory_ Wrap up discussion
+- Discuss the editing assignment due next Monday, including the GitHub process for editing and posting revisions.
+"%}
+
 
 
 ## Week 12
 ### 8: Metahistory Review and Historiographical Research Methods
-- No new reading.
+- No new reading
 
-{% include alert.html class='danger' title='Metahistory reflection' text="
-For your reflection today: What questions do we need to be asking to make _Metahistory_ most usable for students learning the basics of historiography?
+{% include alert.html class='danger' title='Essay revisions due' text="
+Complete AND COMMIT your edits. Please make sure you are following the [revision guide](revision-guide)
+"%}
+
+{% include alert.html class='info' title='In class' text="
+What questions do we need to be asking to make _Metahistory_ most usable for students learning the basics of historiography?
 - What are the strengths and weaknesses of what's already there?
 - What you find to be lacking?
 - What kinds of topics aren't there that should be?
 - Where did you get confused in class and wished you had a essay to help you?
 - What topic do you want to write about?
 "%}
+
+
+
+### 10: Public History
 
 {% include alert.html class='info' title='In class' text="
 Today we'll go over the basic research process that you should use for your essays. This ensures you will be selecting appropriate sources, and using and citing them appropriately.
@@ -182,10 +223,6 @@ Today we'll go over the basic research process that you should use for your essa
 ### Don't procrastinate with citations!
 If you just write stuff down and don't bother citing where you found it, you will have to eventually hunt down all the page numbers and THAT'S A HUGE WASTE OF TIME. As someone who has wasted considerable time on just that, please take my advice: take time to make accurate references AS YOU WRITE.
 "%}
-
-
-### 10: TBD
-
 
 
 
