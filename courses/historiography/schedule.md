@@ -189,7 +189,7 @@ This week we're starting our one book for the course. It's rather theoretical an
 
 {% include alert.html class='info' title='In class' text="
 - _Historical Theory_ Wrap up discussion
-- Discuss the editing assignment due next Monday, including the GitHub process for editing and posting revisions.
+- Discuss the editing assignment due next Monday, including the process for editing and posting revisions. There will be a new version of this [screencast](https://youtu.be/tLAaLmHkKZU).
 "%}
 
 
@@ -199,7 +199,7 @@ This week we're starting our one book for the course. It's rather theoretical an
 - No new reading
 
 {% include alert.html class='danger' title='Essay revisions due' text="
-Complete AND COMMIT your edits. Please make sure you are following the [revision guide](revision-guide)
+Complete, commit, and create a pull request your edits. Please make sure you are following the [revision guide](revision-guide).
 "%}
 
 {% include alert.html class='info' title='In class' text="
@@ -232,8 +232,7 @@ If you just write stuff down and don't bother citing where you found it, you wil
 - SKIM: Margo Anderson, "Quantitative History", 246-59.
 - Laura Spinney, [History as a giant data set: how analysing the past could help save the future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
 
-{% include alert.html class='info' title='Reading Reflection' text="
-Respond to the following questions:
+{% include alert.html class='danger' title='Reading Reflection' text="
   - Is quantitative history fundamentally different from 'regular' history?
   - To what extent will all history gradually become quantitative history (as sources are born-digital or become digitized)?  
   - How does this suggestion problem solving through history conflict with uses of history as we've seen them so far in the course?
@@ -243,13 +242,12 @@ Respond to the following questions:
 ### 17: Digital History
 - No new readings, but you need to post your annotated bibliographies to GitHub for class discussion
 
-{% include alert.html class='info' title='In class' text="
-Presentation on Digital History Projects: Past, Present, and Future
-"%}
-
-
 {% include alert.html class='danger' title='Annotated Bibliographies Due' text="
 Your bibliographies should include a minimum of 10 sources relevant to your topic. You should aim for a range of both very specific and broader sources. They should be published in the last 20 years, unless you are citing a \"classic\" work.
+"%}
+
+{% include alert.html class='info' title='In class' text="
+Presentation on Digital History Projects: Past, Present, and Future
 "%}
 
 
@@ -285,10 +283,10 @@ Bring your TWO ~500 word critiques on TWO different essays. Review assignments a
 
 ## Week 16
 ### 6: Publishing your essay
-- No new readings. Mostly we're going over the final revision and submission processes for your essays and final course reflections.
+- No new readings.
 
 {% include alert.html class='info' title='In class' text="
-- Walk through the steps necessary to publish your essay on the official Metahistory site. There will be a new version of this [screencast](https://youtu.be/tLAaLmHkKZU). Your final version must be posted by December 13.
+- Review the steps necessary to publish your essay on the official Metahistory site. This process is basically the same as when you committed your revisions a few weeks ago. There are a few additional concerns since you're making a NEW essay this time. Your final version must be posted by December 13.
 "%}
 
 
