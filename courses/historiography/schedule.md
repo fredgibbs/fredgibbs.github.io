@@ -45,7 +45,7 @@ These are warnings about something that you should note, but aren't an assignmen
 - Add your GitHub username to our [shared Google Doc](https://docs.google.com/document/d/1Db2kwK0AXIRQWyE7wO_0JU_NFXTGOgZCGIfBGl1qmMM/edit?usp=sharing).
 - Click on the link from the invitation email (like Zotero, but from GitHub).
 - You should bookmark [our repository](https://github.com/unm-historiography/2021-fall) where you will post work for the course.
-- Test out the [posting to GitHub instructions](posting-to-github) by posting a short introductory bio in the `introductions` folder. I've already put an example there.
+- Test out the [posting to GitHub instructions](posting-to-github) by posting a short introductory bio in the `introductions` folder. I've already put an example there. 
 "%}
 
 
