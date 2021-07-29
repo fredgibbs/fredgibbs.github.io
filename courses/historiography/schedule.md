@@ -45,13 +45,13 @@ These are warnings about something that you should note, but aren't an assignmen
 - Add your GitHub username to our [shared Google Doc](https://docs.google.com/document/d/1Db2kwK0AXIRQWyE7wO_0JU_NFXTGOgZCGIfBGl1qmMM/edit?usp=sharing).
 - Click on the link from the invitation email (like Zotero, but from GitHub).
 - You should bookmark [our repository](https://github.com/unm-historiography/2021-fall) where you will post work for the course.
-- Test out the [posting to GitHub instructions](posting-to-github) by posting a short introductory bio in the `introductions` folder. I've already put an example there. 
+- Test out the [posting to GitHub instructions](posting-to-github) by posting a short introductory bio in the `introductions` folder. I've already put an example there.
 "%}
 
 
 ### 25: What is History For?
 - Browse [_MetaHistory_](https://unm-historiography.github.io/metahistory/) and be prepared to report on what you learned (or got interested in) about historiography. You will be contributing an essay to this as a main project for the course.
-- Beverly Southgate, _What is History For?_, 31--58. [next week](#week-2)
+- Beverly Southgate, _What is History For?_, 31--58. 
 
 {% include alert.html class='danger' title='Reading Reflection' text="
 - Reminder: these should be committed to [our GitHub Repository](https://github.com/unm-historiography/2021-fall) where you will post work for the course.
