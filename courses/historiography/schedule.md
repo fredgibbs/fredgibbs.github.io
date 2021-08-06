@@ -7,7 +7,7 @@ term: Fall 2021
 section: schedule
 ---
 
-# Schedule of Readings & Assignments
+# Schedule of Readings + Assignments
 
 ## Decoding the syllabus
 - Regular bullet points listed under each day are stuff you need to READ BEFORE CLASS.
@@ -51,7 +51,7 @@ These are warnings about something that you should note, but aren't an assignmen
 
 ### 25: What is History For?
 - Browse [_MetaHistory_](https://unm-historiography.github.io/metahistory/) and be prepared to report on what you learned (or got interested in) about historiography. You will be contributing an essay to this as a main project for the course.
-- Beverly Southgate, _What is History For?_, 31--58. 
+- Beverly Southgate, _What is History For?_, 31--58.
 
 {% include alert.html class='danger' title='Reading Reflection' text="
 - Reminder: these should be committed to [our GitHub Repository](https://github.com/unm-historiography/2021-fall) where you will post work for the course.
@@ -210,16 +210,17 @@ What questions do we need to be asking to make _Metahistory_ most usable for stu
 - What are the strengths and weaknesses of what's already there?
 - What you find to be lacking?
 - What kinds of topics aren't there that should be?
-- Where did you get confused in class and wished you had a essay to help you?
+- Where did you get confused in class and wished you had an essay to help you?
 - What topic do you want to write about?
 "%}
 
 
 
-### 10: Public History
+### 10: Public History + Historiographical Research
 
 {% include alert.html class='info' title='In class' text="
-Today we'll go over the basic research process that you should use for your essays. This ensures you will be selecting appropriate sources, and using and citing them appropriately.
+- Challenges and necessity of public history
+- Basic research process that you should use for your essays. This ensures you will be selecting appropriate sources, and using and citing them appropriately.
 "%}
 
 {% include alert.html class='warning' title='Save time' text="
