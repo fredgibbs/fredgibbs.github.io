@@ -39,7 +39,7 @@ These are warnings about something that you should note, but aren't an assignmen
 {% include alert.html class='danger' title='Do this ASAP TODAY' text="
 - Follow the \"Connecting to Zotero\" instructions on the syllabus home page.
 - Make sure you can access the PDF for next Monday.
-
+"%}
 
 
 ### 25: MetaHistory and course tools
