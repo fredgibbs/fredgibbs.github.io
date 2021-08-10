@@ -14,7 +14,7 @@ section: schedule
 - Usually there are one or two items; occasionally there are three, like when we have short book chapters.
 
 {% include alert.html class='danger' title='Red boxes' text="
-These are something you have to TURN IN for that day, BEFORE CLASS, usually 10am.
+These are something you have to TURN IN BEFORE CLASS, usually by 9am.
 "%}
 
 {% include alert.html class='info' title='Blue boxes' text="
@@ -27,54 +27,55 @@ These are warnings about something that you should note, but aren't an assignmen
 
 
 
-
 ## Week 1
-### 23: Syllabus, Expectations, Tools
+### 23: Syllabus, Expectations, Introductions
 - No reading for today
 
-{% include alert.html class='info' title='In class' text="
-- Introduction to the course and historiography
-- Introduction to [Zotero](http://zotero.org)
-- Introduction to [GitHub](http://github.com)
-- Introduction to [_MetaHistory_](https://unm-historiography.github.io/metahistory/)
+{% include alert.html class='info' title='Lecture' text="
+- Introduction to the course: historiography, history, and the past. Also, the syllabus.
+- Introduction to [Zotero](http://zotero.org), which is how you will access all readings (minus the actual book we're using and readings that aren't already online).
 "%}
 
-{% include alert.html class='danger' title='Do this AFTER CLASS' text="
+{% include alert.html class='danger' title='Do this ASAP TODAY' text="
 - Follow the \"Connecting to Zotero\" instructions on the syllabus home page.
+- Make sure you can access the PDF for next Monday.
+
+
+
+### 25: MetaHistory and course tools
+- Browse [_MetaHistory_](https://unm-historiography.github.io/metahistory/) and be prepared to report on what you learned (or got interested in) about historiography. You will be contributing an essay to this as a main project for the course.
+
+
+{% include alert.html class='info' title='Lecture' text="
+- Discussions of the aims, strengths, and weaknesses of [_MetaHistory_](https://unm-historiography.github.io/metahistory/).
+- Introduction to [GitHub](http://github.com), [Markdown](https://www.markdownguide.org/), [dillinger.io](https://dillinger.io/), and [Atom](https://atom.io/).
+- Why muck around with these tools?
+"%}
+
+{% include alert.html class='danger' title='Do this ASAP TODAY' text="
 - Follow the [GitHub setup instructions](http://fredgibbs.net/courses/etc/connecting-to-github).
 - Add your GitHub username to our [shared Google Doc](https://docs.google.com/document/d/1Db2kwK0AXIRQWyE7wO_0JU_NFXTGOgZCGIfBGl1qmMM/edit?usp=sharing).
-- Click on the link from the invitation email (like Zotero, but from GitHub).
+- Click on the link from the invitation email from GitHub.
 - You should bookmark [our repository](https://github.com/unm-historiography/2021-fall) where you will post work for the course.
 - Test out the [posting to GitHub instructions](posting-to-github) by posting a short introductory bio in the `introductions` folder. I've already put an example there.
-"%}
-
-
-### 25: What is History For?
-- Browse [_MetaHistory_](https://unm-historiography.github.io/metahistory/) and be prepared to report on what you learned (or got interested in) about historiography. You will be contributing an essay to this as a main project for the course.
-- Beverly Southgate, _What is History For?_, 31--58.
-
-{% include alert.html class='danger' title='Reading Reflection' text="
-- Reminder: these should be committed to [our GitHub Repository](https://github.com/unm-historiography/2021-fall) where you will post work for the course.
-)!
-- Which ideas are most AND least interesting to you?
-- What has intrigued you about history? Think carefully and avoid the trite 'i dunno i've just always liked it' kind of response.
-"%}
-
-{% include alert.html class='info' title='In class' text="
-- Introduction to [Markdown](https://www.markdownguide.org/), [dillinger.io](https://dillinger.io/), and [Atom](https://atom.io/).
-- Why muck around with these tools?
 "%}
 
 
 
 ## Week 2
 
-### 30: Myth, History and the Past
-- Readings TBP
+### 30: What is History For?
+- Beverly Southgate, _What is History For?_, 31--58.
 
-### 1: Pre-classical, Greco-Roman, Medieval History
-- Readings TBP
+{% include alert.html class='danger' title='Lecture Reflection' text="
+- Reminder: these should be committed to [our GitHub Repository](https://github.com/unm-historiography/2021-fall) where you will post work for the course.
+- What has intrigued you about history? Think carefully and avoid the trite 'i dunno i've just always liked it' kind of response.
+- Which \"professed purposes\" resonated most with you? And least? In both cases, EXPLAIN WHY.
+"%}
 
+
+### 1: Myth + Greek and Roman and Medieval Histories
+- Readings TBP
 
 
 
@@ -82,47 +83,54 @@ These are warnings about something that you should note, but aren't an assignmen
 
 ### 6: NO CLASS (Labor Day)
 
-### 8: Early Modern History + Enlightenment History
-- Niccolò Machiavelli, _The Prince_, 5-19. (These are really small pages.) Everyone should come to class prepared to discuss how examples from _The Prince_ illustrate what's changing in how history is being used?
+### 8: Early Modern History
+- Eileen Ka-May Chang, _Historiography_, 4--28 (Chap 1: Art and Science in Renaissance Historical Writing).
+- Niccolò Machiavelli, _The Prince_, 5-19. (These are really small pages.)
+
+{% include alert.html class='danger' title='Lecture Reflection' text="
+- ANOTHER reminder for latecomers: these should be committed to [our GitHub Repository](https://github.com/unm-historiography/2021-fall) where you will post work for the course.
+- There's a lot of stuff in the chapter, but what would you consider the key developments in Renaissance history writing?
+- Give a few examples from _The Prince_ that illustrate what's changing in terms of how history is being used in Renaissance Europe (esp Florence)?
+"%}
 
 
 
 
 ## Week 4
 
-### 13: Leopold von Ranke and Professional History
-- Jeremy D. Popkin, _From Herodotus to H-Net_, "The 19th century and the rise of academic scholarship", 68-96.  
+### 13: Enlightenment History
+- Eileen Ka-May Chang, _Historiography_, 29--60 (Chap 2: Enlightenment and Philosophical History).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-How would you rank the different aspects of professional history (according to Ranke) that separated it from previous historical practice?
+How did Enlightenment thinking get applied to History?
 "%}
 
 
-### 15: The _Annales_ School and Macrohistory
-- Readings TBP
+### 15: Romantic and Critical History
+- Eileen Ka-May Chang, _Historiography_, 61--90 (Chap 3: Romantic and Critical History).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-What guiding principles did the Annalists follow that deviated from \"traditional\" history?
+- What would you say are the key differences between Romantic and Critical history?
+- Describe the different aspects of professional history (according to Ranke) that separated it from previous historical conceptions and practice? What aspects remained somewhat constant?
 "%}
 
 
 
 ## Week 5
 
-### 20: Postmodernism
-- Jeremy D. Popkin, _From Herodotus to H-Net_, "Glorious Confusion", 127-65.
+### 20: Postmodern History
+- Eileen Ka-May Chang, _Historiography_, 112--132 (Chap 5: Social History, Fragmentation, and the Revival of Narrative).
 
-{% include alert.html class='danger' title='Postmodern reflection' text="
-Write a long comment (600-800 words) about your take on postmodern history with a focus on this question:
-- Does postmodern history constitute a historiographical paradigm shift? Or are they more on a continuum of historiographical change?
+{% include alert.html class='danger' title='Reading reflection' text="
+Does postmodern history constitute a historiographical paradigm shift? Or are they more on a continuum of historiographical change?
 "%}
 
 
 ### 22: Discursive History
 - Foucault, _Archeology of Knowledge_, 3-17; 21-30; 31-39.
 
-{% include alert.html class='danger' title='WTF Reflection' text="
-- Translate Foucault's main points into clear and concise language.
+{% include alert.html class='danger' title='WTF Reading Reflection' text="
+- Translate Foucault's main points into clear and concise language. Good luck.
 "%}
 
 
@@ -132,8 +140,17 @@ Write a long comment (600-800 words) about your take on postmodern history with 
 ### 27: Gender Histories
 - Joan Scott, "Gender: A Useful Category of Historical Analysis", 1053-1075.
 
+{% include alert.html class='danger' title='Reading reflection' text="
+This is a classic article that seems dated now. But it still makes a number of useful points that are still relevant and more to our purposes, shows how historians can directly shape the way history is written. Many students assume this article is trying to argue that historians should pay more attention to the role women in history. It does argue that, but the main point is actually much more interesting and nuanced? What is it?
+"%}
+
+
 ### 29: Postcolonial Histories
 - Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?", 1-27.
+
+{% include alert.html class='danger' title='Reading reflection' text="
+This is another classic article that can also feel a bit out of date, yet another example of how historians can directly shape the way history is written by asking profound questions and offering new perspectives that were too easily unquestioned.
+"%}
 
 
 
