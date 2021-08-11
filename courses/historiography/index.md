@@ -11,13 +11,13 @@ section: home
 
 ## Logistics
 - HIST 491-001 | Fall 2021
-- MW 12:00 -- 1:15
 - 3 Credit Hours
+- MW 12:00 -- 1:15
 - Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
-- Student Hours: MW 9:30--10:30, right after class, and by appointment if necessary
+- Student Hours: Via Zoom, Wednesday 8--10am, and by appointment. Zoom link coming soon.
 
 ## Course Description
-Historiography literally means the writing of history. This class, then, introduces some of the most influential approaches that historians (from antiquity through the present) have taken in writing about the past. Our survey also identifies and discusses some philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped historical writing. It focuses, however, on various meta-questions about history: **What is history? What is it for? Who is it for?**
+The course introduces the various approaches that historians (from antiquity through the present) have taken in writing about the past. Our survey also identifies and discusses some philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped historical writing. It focuses, however, on various meta-questions about history: **What is history? What is it for? Who is it for? How should we be writing it?**
 
 
 ## Student Learning Outcomes (SLOs)
@@ -68,35 +68,47 @@ This final essay allows you describe what you learned in the course as a way of 
 
 
 ## Submitting Work
-For various reasons I'll explain in class, you will post work on a non-UNM platform that we will ultimately use for the Historiographical Essays, which is at [https://github.com/unm-historiography/2019-fall](https://github.com/unm-historiography/2019-fall). We'll talk more about this in class, but instructions are [here](http://fredgibbs.net/courses/etc/github-instructions.html). This is a REQUIRED, not optional, way of submitting work.
+For various reasons I'll explain in class, you will post work on a non-UNM platform that we will ultimately use for the Historiographical Essays, which is at [https://github.com/unm-historiography/2021-fall](https://github.com/unm-historiography/2021-fall). We'll talk more about this in class, but instructions are [here](http://fredgibbs.net/courses/etc/posting-to-github.html). This is a REQUIRED, not optional, way of submitting work and is part of the public history component to the course.
 
 
 ## Required Readings
 Although I have kept the reading load to a reasonable level (kind of low for an upper-level history course), some readings can quite dense and conceptually challenging. This emphasis on thinking and writing is by design, as a capstone course for the history department. Be honest with yourself about whether you have time to fit this course into your busy schedule. One of the goals of the course is that you will learn to read, absorb, and think critically about information more easily and quickly than you can already. That skill is hard-earned, and only comes with practice.
 
-There is one required book for the course. It's at UNM Bookstore and you can find copies online. You can also rent an eBook through Amazon. I don't care what format you get, but we do read the whole book and it's an essential aspect of the course.
+- There is one required book for the course: Mary Fulbrook, _Historical Theory_ (Routledge, 2002).
+
+It's at the UNM Bookstore and you can find copies online. You can also rent an eBook through Amazon (and possibly other places, too). I don't care what format you get, but we do read the whole book and it's an essential aspect of the course.
 
 - To access all other articles and book chapters on the syllabus, you will need to subscribe to the course Zotero library. The URL for the group library is [https://www.zotero.org/groups/632527/historiography-unm/items](https://www.zotero.org/groups/632527/historiography-unm/items), but you must have clicked on the link in your invitation to access the library!
 
+
+
+## Connecting to Zotero
+
 ### Step 1: Create a Zotero account
-If you don't have one already, [sign up for a free account at zotero.org](https://www.zotero.org/user/register). Creating a Zotero account requires only that you specify a username, password, and email address. You will not get any spam from Zotero or anyone else because of your Zotero account. **Use your UNM email address!!!!!**
+If you don't have one already, [sign up for a free account at zotero.org](https://www.zotero.org/user/register). Creating a Zotero account requires only that you specify a username, password, and email address. You will not get any spam from Zotero or anyone else because of your Zotero account. **Use your UNM email address!**
 
 ### Step 2: Make sure you are logged in at zotero.org
 You should see your username or a "Log Out" link on the top nav bar. If you see a "Log In" link, you need to log in. Pretty straightforward.
 
 ### Step 3: Request to Join our group library
-Visit [our Zotero Group homepage](https://www.zotero.org/groups/632527/historiography-unm/), and click the red "Join" button off to the right, which will send an email to me. As soon as I see it (usually within the hour unless you're doing it late at night), I'll approve your request to join the group. There is nothing else you need to do at this point.
+Once you know you are logged in to zotero.org, visit [our Zotero Group homepage](https://www.zotero.org/groups/632527/historiography-unm/), and click the red "Join" button off to the right, which will send an email to me. As soon as I see it (usually within the hour unless you're doing this late at night), I'll approve your request to join the group. There is nothing else you need to do at this point.
 
 
 ### ONCE CONNECTED: Accessing Readings
-{% include alert.html class='info' title='' text="
+{% include alert.html class='info' title='Once Connected' text="
 Once you've completed the steps above, and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/632527/historiography-unm/library). Double clicking an item brings up a PDF of the article or chapter.
 "%}
 
 
 ---
 
-## Important UNM Resources
+## Important UNM Announcements
+
+### Covid
+Perhaps you've heard of it. You should be aware of and follow the [Bring Back the Pack guidelines and requirements])(https://bringbackthepack.unm.edu/). Most notably, until told otherwise, we all have to wear masks ALL THE TIME in class.
+
+I'm adding one additional rule: I know we meet at lunchtime, but to increase comfort and safety, FOR NOW, NO EATING IS ALLOWED IN CLASS. Drinks and water are fine. I hope to drop this rule in late September.
+
 
 ### Tutoring and Writing
 [CAPS Tutoring Services](http://caps.unm.edu/programs/online-tutoring/) is a free-of-charge educational assistance program available to UNM students enrolled in classes. Online services include the Online Writing Lab, Chatting with or asking a question of a Tutor.

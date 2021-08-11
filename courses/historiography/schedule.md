@@ -10,19 +10,19 @@ section: schedule
 # Schedule of Readings + Assignments
 
 ## Decoding the syllabus
-- Regular bullet points listed under each day are stuff you need to READ BEFORE CLASS.
+- Regular bullet points listed under each day is what you need to READ BEFORE CLASS.
 - Usually there are one or two items; occasionally there are three, like when we have short book chapters.
 
 {% include alert.html class='danger' title='Red boxes' text="
-These are something you have to TURN IN BEFORE CLASS, usually by 9am.
+These indicate something you have to DO/POST BEFORE CLASS, usually by 9am.
 "%}
 
 {% include alert.html class='info' title='Blue boxes' text="
-These are usually notes about what we'll be discussing in class, usually with additional links for reference. If there is no blue box for one of our meeting days, it's just a usual class discussion.
+These indicate what we'll be discussing in class, usually with additional links for reference. If there is no blue box for one of our meeting days, there's just a usual class discussion and no need for a special box.
 "%}
 
 {% include alert.html class='warning' title='Yellow Boxes' text="
-These are warnings about something that you should note, but aren't an assignment you need to turn in.
+These indicate something should note to make life easier, but aren't anything you need to turn in.
 "%}
 
 
@@ -31,33 +31,32 @@ These are warnings about something that you should note, but aren't an assignmen
 ### 23: Syllabus, Expectations, Introductions
 - No reading for today
 
-{% include alert.html class='info' title='Lecture' text="
+{% include alert.html class='info' title='In class' text="
 - Introduction to the course: historiography, history, and the past. Also, the syllabus.
 - Introduction to [Zotero](http://zotero.org), which is how you will access all readings (minus the actual book we're using and readings that aren't already online).
 "%}
 
-{% include alert.html class='danger' title='Do this ASAP TODAY' text="
-- Follow the \"Connecting to Zotero\" instructions on the syllabus home page.
-- Make sure you can access the PDF for next Monday.
+{% include alert.html class='danger' title='After class, but TODAY' text="
+- Follow the [Connecting to Zotero](index#connecting-to-zotero) instructions on the syllabus home page.
+- Make sure you can access the Southgate reading (a PDF) for next Monday.
 "%}
 
 
 ### 25: MetaHistory and course tools
-- Browse [_MetaHistory_](https://unm-historiography.github.io/metahistory/) and be prepared to report on what you learned (or got interested in) about historiography. You will be contributing an essay to this as a main project for the course.
+- Browse [_MetaHistory_](https://unm-historiography.github.io/metahistory/) generally, and read through at least two essays carefully. For our discussion, be prepared to report on your impression of this resource. What seemed useful and/or interesting? What seemed a bit off? What were the strengths and weaknesses of the essays you read? You will be contributing an essay to this as a main project for the course.
 
 
-{% include alert.html class='info' title='Lecture' text="
+{% include alert.html class='info' title='In class' text="
 - Discussions of the aims, strengths, and weaknesses of [_MetaHistory_](https://unm-historiography.github.io/metahistory/).
-- Introduction to [GitHub](http://github.com), [Markdown](https://www.markdownguide.org/), [dillinger.io](https://dillinger.io/), and [Atom](https://atom.io/).
+- Introduction to [GitHub](http://github.com), [Markdown](https://www.markdownguide.org/), [dillinger.io](https://dillinger.io/).
 - Why muck around with these tools?
 "%}
 
-{% include alert.html class='danger' title='Do this ASAP TODAY' text="
+{% include alert.html class='danger' title='After class, but TODAY' text="
 - Follow the [GitHub setup instructions](http://fredgibbs.net/courses/etc/connecting-to-github).
 - Add your GitHub username to our [shared Google Doc](https://docs.google.com/document/d/1Db2kwK0AXIRQWyE7wO_0JU_NFXTGOgZCGIfBGl1qmMM/edit?usp=sharing).
-- Click on the link from the invitation email from GitHub.
-- You should bookmark [our repository](https://github.com/unm-historiography/2021-fall) where you will post work for the course.
-- Test out the [posting to GitHub instructions](posting-to-github) by posting a short introductory bio in the `introductions` folder. I've already put an example there.
+- You should bookmark [our course repository](https://github.com/unm-historiography/2021-fall) where you will post work for the course.
+- Test out the [posting to GitHub instructions](posting-to-github) by posting a short introductory bio in the `introductions` folder. I've already put an example there, but you don't need to follow it too closely.
 "%}
 
 
@@ -67,15 +66,24 @@ These are warnings about something that you should note, but aren't an assignmen
 ### 30: What is History For?
 - Beverly Southgate, _What is History For?_, 31--58.
 
-{% include alert.html class='danger' title='Lecture Reflection' text="
-- Reminder: these should be committed to [our GitHub Repository](https://github.com/unm-historiography/2021-fall) where you will post work for the course.
+{% include alert.html class='danger' title='Reading Reflection' text="
+- Reminder:  [Reading reflections](reading-reflections) should be committed to [our GitHub Repository](https://github.com/unm-historiography/2021-fall) (where you will post all work for the course) by 9AM before class.
+- Please note that Beverly is a HE for your responses.
 - What has intrigued you about history? Think carefully and avoid the trite 'i dunno i've just always liked it' kind of response.
 - Which \"professed purposes\" resonated most with you? And least? In both cases, EXPLAIN WHY.
 "%}
 
+{% include alert.html class='info' title='In class' text="
+- Southgate discussion on uses of history.
+- Introduction to [Atom](https://atom.io/) and an optional, easier way to post your work.
+"%}
 
-### 1: Myth + Greek and Roman and Medieval Histories
+
+
+### 1: Greek and Roman and Medieval Histories
 - Readings TBP
+
+
 
 
 
@@ -87,8 +95,8 @@ These are warnings about something that you should note, but aren't an assignmen
 - Eileen Ka-May Chang, _Historiography_, 4--28 (Chap 1: Art and Science in Renaissance Historical Writing).
 - Niccolò Machiavelli, _The Prince_, 5-19. (These are really small pages.)
 
-{% include alert.html class='danger' title='Lecture Reflection' text="
-- ANOTHER reminder for latecomers: these should be committed to [our GitHub Repository](https://github.com/unm-historiography/2021-fall) where you will post work for the course.
+{% include alert.html class='danger' title='Reading Reflection' text="
+- ANOTHER reminder for latecomers: [reading reflections](reading-reflections) should be committed to [our GitHub Repository](https://github.com/unm-historiography/2021-fall) where you will post work for the course by 9AM before class.
 - There's a lot of stuff in the chapter, but what would you consider the key developments in Renaissance history writing?
 - Give a few examples from _The Prince_ that illustrate what's changing in terms of how history is being used in Renaissance Europe (esp Florence)?
 "%}
@@ -157,11 +165,21 @@ This is another classic article that can also feel a bit out of date, yet anothe
 ## Week 7
 
 ### 4: Archival Power
-- Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19. This article is a little repetitive at times, but in a good way as it makes it easy to understand the main points. It is shorter than it looks in terms of page count because many pages are almost entirely footnotes (which you can peruse if you're interested).
+- Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19. This article is a little repetitive at times, but in a good way, as it makes it easy to understand the main points. It is shorter than it looks in terms of page count because many pages are almost entirely footnotes (which you can peruse if you're interested).
+
+
+{% include alert.html class='danger' title='Reading reflection' text="
+- What are the key ways archives manifest their power?
+- Before this article, how much have you thought about how archives help shape the future as much as they represent the past?  
+"%}
+
 
 ### 6: Archival Silence
 - Rodney G. S. Carter, “Of Things Said and Unsaid: Power, Archival Silences, and Power in Silence” _Archivaria_, September 25, 2006, 215–33.
 
+{% include alert.html class='danger' title='Reading reflection' text="
+- Softball question as we wind up the first half: What ideas in the article were most and least intersting?
+"%}
 
 
 
@@ -311,22 +329,20 @@ Bring your TWO ~500 word critiques on TWO different essays. Review assignments a
 "%}
 
 
-{% include alert.html class='danger' title='Table of Contents' text="
-- BEFORE CLASS ON WEDNESDAY, update our [Table of Contents Data](https://docs.google.com/spreadsheets/d/1EBAxMEabmmgxiU_0yabIDr6r8Cnevtv63KXDbae33T4/edit#gid=0). Double check your abstract, image, and the link.
+{% include alert.html class='danger' title='BEFORE CLASS ON WEDNESDAY' text="
+- Update our [Table of Contents Data](https://docs.google.com/spreadsheets/d/1EBAxMEabmmgxiU_0yabIDr6r8Cnevtv63KXDbae33T4/edit#gid=0). Double check your abstract, image, and the link.
 "%}
 
 
 ### 8: Last questions/comments and course wrap up
 - No new readings.
 
-{% include alert.html class='warning' title='In class' text="
+{% include alert.html class='warning' title='Class' text="
 - Course Retrospective
 - What I hope you can do with historiography
 - Final essay revision advice
 - Final course reflection advice
 "%}
-
-
 
 
 ## All revisions due by Dec 15!
