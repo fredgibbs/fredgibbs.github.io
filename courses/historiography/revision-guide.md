@@ -8,7 +8,7 @@ section: links-guides
 ---
 
 # Revising _Metahistory_
-These are the isses to keep in mind when thinking of how you can revise your selected essay. Your goal is to improve it in some clear way, not to completely re-research, rewrite, or revise the whole thing. If you can't see a clear way to improve it, then selecting a different essay is probably the best move.
+These are the issues to keep in mind when thinking of how you can revise your selected essay. Your goal is to improve it in some clear way, not to completely re-research, rewrite, or revise the whole thing. If you can't see a clear way to improve it, then selecting a different essay is probably the best move.
 
 This exercise is not only an exercise in historiography but also an exercise in public history. Reducing a complicated set of ideas (indeed, historiography can be an abstract subject that's hard to grasp at first) to their essence and presenting them to a general audience is a widely applicable skill in any career.
 

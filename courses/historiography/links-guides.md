@@ -13,23 +13,15 @@ This page contains a list of links that you will probably need repeatedly throug
 
 ## Course Logistics
 - [Zotero Group Library](https://www.zotero.org/groups/632527/historiography-unm/items)
-- [Reading Response repository](https://github.com/unm-historiography/2019-fall)
+- [Reading Response repository](https://github.com/unm-historiography/2021-fall)
 
 ---
-## Intro-guide links
-- [Intro Guide repository](https://github.com/unm-historiography/intro-guide)
-- [Intro Guide website](https://unm-historiography.github.io/intro-guide/)
-- [Review Assignments](https://github.com/unm-historiography/2019-fall/blob/master/review-assignments.md)
-- [Last critiques](https://github.com/unm-historiography/2019-fall/blob/master/reviews.md)
-- [Table of Contents Data](https://docs.google.com/spreadsheets/d/1EBAxMEabmmgxiU_0yabIDr6r8Cnevtv63KXDbae33T4/edit#gid=0)
+## Metahistory links
+- [Intro Guide repository](https://github.com/unm-historiography/metahistory)
+- [Intro Guide website](https://unm-historiography.github.io/metahistory/)
 
 ## Guides
 - [Intro-guide revision guidelines](1st-revision-guide)
-- [Embedding images in your essays](https://unm-historiography.github.io/intro-guide/loading-images)
-- [Code samples](https://unm-historiography.github.io/intro-guide/code)
-- [Writing Guide](https://unm-historiography.github.io/intro-guide/writing-guide)
-
-## Screencasts
-- [Building your Zotero library](https://www.youtube.com/watch?v=yD8_6MZFI8c&feature=youtu.be)
-- [Pushing your fork's edits to the intro-guide](https://youtu.be/tLAaLmHkKZU).
-- [Using Atom.io to commit changes to your repository](https://youtu.be/baRQrTl7wxU)
+- [Embedding images in your essays](https://unm-historiography.github.io/metahistory/docs/loading-images)
+- [Code samples](https://unm-historiography.github.io/metahistory/docs/code)
+- [Writing Guide](https://unm-historiography.github.io/metahistory/docs/writing-guide)
