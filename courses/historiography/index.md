@@ -51,9 +51,9 @@ Although I do not calculate grades strictly mathematically, I have provided perc
 
   - **All posts are due by 9am the day of class.** I use these posts to guide our discussion plan for our meetings, so these need to be posted at least very close to on time. Don't get anxious over the EXACT time---a few minutes or even 15 minutes late is fine. But posting after 10am is definitely too late. Consistently late posts will negatively impact your grade.
 
-  - As part of your response, include 1 or 2 questions (or more, if you have them) that will help guide discussion for that class. Don't ask questions that actually have an obvious factual answer, but questions that help us think critically about the readings. Was there something that seemed to make no sense? Or something you totally disagreed with? Or a seemingly interesting point that wasn't explained very well? Coming up with good questions is much harder than it sounds, which is why it's good to practice it.
+  - As part of your response, include 1 or 2 questions (or more, if you have them) that will help guide discussion for that class. Don't ask questions that actually have an obvious factual answer, but questions that help us think critically about the readings. Was there something that seemed to make no sense? Or something you totally disagreed with? Or a seemingly interesting point that wasn't explained very well? A point that contradicted what we've read earlier? Coming up with good questions is much harder than it sounds, which is why we practice in a low-stakes classroom setting.
 
-- These posts are not specifically graded, but are evaluated in the same way as class participation. I routinely highlight excellent reflections, and I sometimes highlight posts that are generally good but lacking in an easily fixable way. This is how I hold you accountable  for your work. I will let you know if your posts are consistently falling short of expectations and thus impacting your grade. If you'd like more feedback on them, you need to ask for it.
+- These posts are not specifically graded, but are evaluated as is class participation. In class, I will highlight excellent reflections, as well as posts that are generally good but lacking in an easily fixable way. This is how I hold you accountable for your work. I will let you know privately if your posts are consistently falling short of expectations and thus impacting your grade. If you'd like more feedback on them, I'd be happy to provide it, but you need to ask for it.
 
 - **Historiographical Essay** (25%)
 Previous iterations of this course have created essays on historiographical topics for a lower-division historiography course. Each student will contribute revisions to an existing essay and create a new essay on a topic of their choice.
@@ -74,12 +74,9 @@ For various reasons I'll explain in class, you will post work on a non-UNM platf
 ## Required Readings
 Although I have kept the reading load to a reasonable level (kind of low for an upper-level history course), some readings can quite dense and conceptually challenging. This emphasis on thinking and writing is by design, as a capstone course for the history department. Be honest with yourself about whether you have time to fit this course into your busy schedule. One of the goals of the course is that you will learn to read, absorb, and think critically about information more easily and quickly than you can already. That skill is hard-earned, and only comes with practice.
 
-- There is one required book for the course: Mary Fulbrook, _Historical Theory_ (Routledge, 2002).
+- There is one required book for the course: Mary Fulbrook, _Historical Theory_ (Routledge, 2002). This is at the UNM Bookstore and you can find copies online. You can also rent an eBook through Amazon (and possibly other places, too). I don't care what format you use, but we do read the whole book and it's an essential aspect of the course.
 
-It's at the UNM Bookstore and you can find copies online. You can also rent an eBook through Amazon (and possibly other places, too). I don't care what format you get, but we do read the whole book and it's an essential aspect of the course.
-
-- To access all other articles and book chapters on the syllabus, you will need to subscribe to the course Zotero library. The URL for the group library is [https://www.zotero.org/groups/632527/historiography-unm/items](https://www.zotero.org/groups/632527/historiography-unm/items), but you must have clicked on the link in your invitation to access the library!
-
+- To access all other articles and book chapters on the syllabus, we use a tool called Zotero to manage and provide access to articles and chapter scans.
 
 
 ## Connecting to Zotero
@@ -93,9 +90,7 @@ You should see your username or a "Log Out" link on the top nav bar. If you see 
 ### Step 3: Request to Join our group library
 Once you know you are logged in to zotero.org, visit [our Zotero Group homepage](https://www.zotero.org/groups/632527/historiography-unm/), and click the red "Join" button off to the right, which will send an email to me. As soon as I see it (usually within the hour unless you're doing this late at night), I'll approve your request to join the group. There is nothing else you need to do at this point.
 
-
-### ONCE CONNECTED: Accessing Readings
-{% include alert.html class='info' title='Once Connected' text="
+{% include alert.html class='info' title='Accessing Readings Once Connected' text="
 Once you've completed the steps above, and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/632527/historiography-unm/library). Double clicking an item brings up a PDF of the article or chapter.
 "%}
 
@@ -105,9 +100,9 @@ Once you've completed the steps above, and I've approved your request to join ou
 ## Important UNM Announcements
 
 ### Covid
-Perhaps you've heard of it. You should be aware of and follow the [Bring Back the Pack guidelines and requirements])(https://bringbackthepack.unm.edu/). Most notably, until told otherwise, we all have to wear masks ALL THE TIME in class.
+Perhaps you've heard of it. You should be aware of and follow the [Bring Back the Pack guidelines and requirements](https://bringbackthepack.unm.edu/). Most notably, until told otherwise, we all have to wear masks ALL THE TIME in class.
 
-I'm adding one additional rule: I know we meet at lunchtime, but to increase comfort and safety, FOR NOW, NO EATING IS ALLOWED IN CLASS. Drinks and water are fine. I hope to drop this rule in late September.
+I'm adding one additional rule: I know we meet at lunchtime, but to increase comfort and safety, FOR NOW, NO EATING IN CLASS. Drinks are fine. I intend to drop this rule in late September after the vaccine deadline has passed if we're in favor of it.
 
 
 ### Tutoring and Writing
