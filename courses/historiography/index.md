@@ -41,25 +41,24 @@ The course introduces the various approaches that historians (from antiquity thr
 ## Work Requirements and Grading
 Although I do not calculate grades strictly mathematically, I have provided percentages to indicate how much relative weight each component of the course receives in my evaluation of student performance.
 
-- **Active and thoughtful participation in class discussions** (30%)
+### Active and thoughtful participation in class discussions (30%)
+Because most of your participation in this course is not assigned a specific letter grade (and because many intangible factors go into a grade), what follows is my functional approach to evaluating your participation in this course.
 
-  - Because most of your participation in this course is not assigned a specific letter grade (and because many intangible factors go into a grade), what follows is my functional approach to evaluating your participation in this course. Basically, everyone starts with a B, and you gradually move it up or down depending on the consistency and quality of your class participation. If you are contributing to discussion most days, but aren't really adding anything new, but are clearly making an effort to stay involved, you stay at a B. If you are generally contributing to discussion but occasionally have insights to share or a good question, your grade moves to a B+. If you are generally asking good questions and highlighting important points from the readings on a regular basis, your grade moves to A-. If you are also actively engaging in the conversation each day and your comments are clearly based on the readings (not just your opinion at the time), your grade moves to an A. Conversely, you can also move your grade down by hardly ever participating in class, or making consistently superficial comments. Not showing up lowers your grade very quickly. I assign a final participation grade at the end of the course, not for each class meeting.
+Basically, everyone starts with a B, and you gradually move it up or down depending on the consistency and quality of your class participation. If you are clearly paying attention but hardly ever speaking up, you stay at a B. If you are generally contributing to discussion but only occasionally have an original comment to share or a good question, your grade moves to a B+. If you are generally asking good questions and highlighting important points from the readings on a regular basis, your grade moves to A-. If you are actively engaging in the conversation each day and your comments are clearly based on the readings (not just your opinion at the time), your grade moves to an A. Conversely, you can also move your grade down by consistently making superficial or repetitive comments (which suggests you're not actually paying attention). Spotty attendance lowers your grade VERY quickly. I assign a final participation grade at the end of the course, not for each class meeting.
 
-- **Preparation work for each class** (30%)
+### Preparation work for each class (30%)
+- Everyone will post a ~400-word critical comment on the readings. These should be high quality but informal writing, like you were writing for a literary magazine. Have an opinion, a specific point to make, and have fun writing about it. Resist the urge to just summarize the readings---we're all reading the same thing.
 
-  - Everyone will post a ~400-word critical comment on the readings. These should be high quality but informal writing, like you were writing for a literary magazine. Have an opinion, a specific point to make, and have fun writing about it. Resist the urge to just summarize the readings---we're all reading the same thing.
+- **All posts are due by 9am the day of class.** I use these posts to guide our discussion plan for our meetings, so these need to be posted at least very close to on time. Don't get anxious over the EXACT time---a few minutes or even 15 minutes late is fine. But posting after 10am is definitely too late. Consistently late posts will negatively impact your grade.
 
-  - **All posts are due by 9am the day of class.** I use these posts to guide our discussion plan for our meetings, so these need to be posted at least very close to on time. Don't get anxious over the EXACT time---a few minutes or even 15 minutes late is fine. But posting after 10am is definitely too late. Consistently late posts will negatively impact your grade.
-
-  - As part of your response, include 1 or 2 questions (or more, if you have them) that will help guide discussion for that class. Don't ask questions that actually have an obvious factual answer, but questions that help us think critically about the readings. Was there something that seemed to make no sense? Or something you totally disagreed with? Or a seemingly interesting point that wasn't explained very well? A point that contradicted what we've read earlier? Coming up with good questions is much harder than it sounds, which is why we practice in a low-stakes classroom setting.
+- As part of your response, include 1 or 2 questions (or more, if you have them) that will help guide discussion for that class. Don't ask questions that actually have an obvious factual answer, but questions that help us think critically about the readings. Was there something that seemed to make no sense? Or something you totally disagreed with? Or a seemingly interesting point that wasn't explained very well? A point that contradicted what we've read earlier? Coming up with good questions is much harder than it sounds, which is why we practice in a low-stakes classroom setting.
 
 - These posts are not specifically graded, but are evaluated as is class participation. In class, I will highlight excellent reflections, as well as posts that are generally good but lacking in an easily fixable way. This is how I hold you accountable for your work. I will let you know privately if your posts are consistently falling short of expectations and thus impacting your grade. If you'd like more feedback on them, I'd be happy to provide it, but you need to ask for it.
 
-- **Historiographical Essay** (25%)
+### Historiographical Essay (25%)
 Previous iterations of this course have created essays on historiographical topics for a lower-division historiography course. Each student will contribute revisions to an existing essay and create a new essay on a topic of their choice.
 
-
-- [Final learning reflection](final-reflections) (15%)
+### [Final learning reflection](final-reflections) (15%)
 This final essay allows you describe what you learned in the course as a way of boosting your final grade.
 
 
@@ -99,10 +98,10 @@ Once you've completed the steps above, and I've approved your request to join ou
 
 ## Important UNM Announcements
 
-### Covid
+### COVID-19
 Perhaps you've heard of it. You should be aware of and follow the [Bring Back the Pack guidelines and requirements](https://bringbackthepack.unm.edu/). Most notably, until told otherwise, we all have to wear masks ALL THE TIME in class.
 
-I'm adding one additional rule: I know we meet at lunchtime, but to increase comfort and safety, FOR NOW, NO EATING IN CLASS. Drinks are fine. I intend to drop this rule in late September after the vaccine deadline has passed if we're in favor of it.
+I'm adding one additional rule: FOR NOW, NO EATING IN CLASS. I know we meet at lunchtime, but our own safety (and comfort about our safety) have to come first. Drinks are fine. If we're generally in favor of doing so, we can drop this rule in late September after the vaccine deadline has passed.
 
 
 ### Tutoring and Writing

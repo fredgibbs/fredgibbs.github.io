@@ -81,9 +81,13 @@ These indicate something should note to make life easier, but aren't anything yo
 
 
 ### 1: Greek and Roman and Medieval Histories
-- Readings TBP
+- M. C. Lemon, _Philosophy of History_, 28--73.
 
-
+{% include alert.html class='danger' title='Reading Reflection' text="
+- What ideas were especially interesting?
+- What passages or sections were confusing?
+- How are conceptions of time and progress important to the meaning of history (even today)?
+"%}
 
 
 
@@ -96,7 +100,6 @@ These indicate something should note to make life easier, but aren't anything yo
 - Niccolò Machiavelli, _The Prince_, 5-19. (These are really small pages.)
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-- ANOTHER reminder for latecomers: [reading reflections](reading-reflections) should be committed to [our GitHub Repository](https://github.com/unm-historiography/2021-fall) where you will post work for the course by 9AM before class.
 - There's a lot of stuff in the chapter, but what would you consider the key developments in Renaissance history writing?
 - Give a few examples from _The Prince_ that illustrate what's changing in terms of how history is being used in Renaissance Europe (esp Florence)?
 "%}
