@@ -434,14 +434,18 @@ Common
     border-top: 1px solid #999;
     border-bottom: 1px solid #999;
     padding: .2rem 0;
-    margin-top:4rem;
-    font-size:2.2rem;
-    color:#c60;
+    margin-top: 4rem;
+    font-size: 3rem;
+    color: #c60;
+  }
+
+  #syllabus h3 {
+    font-size: 2.4rem;
   }
 
   #syllabus h3 a {
     text-transform: uppercase;
-    font-size:1.6rem;
+    font-size: 2rem;
     margin: 1.4rem 0 .3rem 0;
     color:#000;
   }
