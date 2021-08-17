@@ -48,7 +48,7 @@ These indicate something should note to make life easier, but aren't anything yo
 
 {% include alert.html class='info' title='In class' text="
 - Discussions of the aims, strengths, and weaknesses of [_MetaHistory_](https://unm-historiography.github.io/metahistory/).
-- Introduction to [GitHub](http://github.com), [Markdown](https://www.markdownguide.org/), [dillinger.io](https://dillinger.io/).
+- Introduction to [GitHub](http://github.com), [Markdown](https://www.markdownguide.org/), and [dillinger.io](https://dillinger.io/).
 - Why muck around with these tools?
 "%}
 

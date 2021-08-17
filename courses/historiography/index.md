@@ -7,14 +7,15 @@ term: Fall 2021
 section: home
 ---
 
-# Historiography
+# HIST 491: Historiography
 
 ## Logistics
-- HIST 491-001 | Fall 2021
+- Fall 2021
 - 3 Credit Hours
 - MW 12:00 -- 1:15
 - Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
-- Student Hours: Via Zoom, Wednesday 8--10am, and by appointment. Zoom link coming soon.
+- Student Hours: Via Zoom, Wednesday 8--10am, and by appointment. [Office hours Zoom link](https://unm.zoom.us/j/91531924375). Discussions after class are most welcome!
+
 
 ## Course Description
 The course introduces the various approaches that historians (from antiquity through the present) have taken in writing about the past. Our survey also identifies and discusses some philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped historical writing. It focuses, however, on various meta-questions about history: **What is history? What is it for? Who is it for? How should we be writing it?**
@@ -25,15 +26,17 @@ The course introduces the various approaches that historians (from antiquity thr
 
 * Explain how and why historians have argued about philosophical and methodological approaches to their craft over time, and what cultural changes precipitated new views.
 
+* Articulate how analytical perspectives and research skills from this class can be applied to any kind of persuasive writing and data analysis.
+
 * Recognize and articulate the diversity of human experience, including ethnicity, gender, language, as well as political, economic, social, and cultural structures over time and space---and how that is reflected in historical writing.
 
 
 ## General Expectations
-* As an undergraduate seminar, active engagement is crucial to (y)our success. Simply showing up to class counts for very little; I expect that you'll actively participate in all discussions. If you are shy about speaking in class, don't worry. You will become much more comfortable and fluent by the end of the semester. It is an essential skill that much be practiced, and this is the perfect place to do so. Please come see me if you'd like to discuss how we can make it easier for you to jump into the discussion. To ensure the discussion isn't dominated by the most outgoing students, I will call on people who aren't speaking up. The point isn't just to put people on the spot and create anxiety, but to help everyone hear as many perspectives as possible. Diversity of opinions and viewpoints is a key feature of this course. Please be prepared to contribute!
+* As an undergraduate seminar, active engagement is crucial to (y)our success. Simply showing up to class counts for very little; I expect that you'll ACTIVELY participate in all discussions. If you are shy about speaking in class, don't worry. You will become much more comfortable and fluent by the end of the semester. It is an essential skill that much be practiced, and this is the perfect place to do so. Please come see me if you'd like to discuss how we can make it easier for you to jump into the discussion. To ensure the discussion isn't dominated by the most outgoing students, I will call on people who aren't speaking up. The point isn't just to put people on the spot and create anxiety, but to help everyone hear as many perspectives as possible. Diversity of opinions and viewpoints is a key feature of this course. Please be prepared to contribute!
 
-* You cannot make up missed classes. Please DO NOT email me asking if you missed anything, or what you missed, or how to make it up (yes, everything, and you can't are the respective answers). Feel free to ask your class colleagues for notes. Emergencies beyond your control are the one exception to the attendance policy, and you should let me know about these ASAP.
+* You cannot make up missed classes. Please DO NOT email me asking if you missed anything, or what you missed, or how to make it up (yes; everything; and you can't; are the respective answers). Feel free to ask your class colleagues for notes. Emergencies beyond your control are the one exception to the attendance policy, and you should let me know about these ASAP. I don't need details but you should get in touch.
 
-* Our room is quite small and coming in late is a huge disruption. I get that weird random things happen that might make you a little late once or twice. Repeatedly being late will negatively impact your grade.
+* Coming in late is a really annoying disruption. I understand that weird random things happen that might make you a little late once or twice. Repeatedly being late will negatively impact your grade.
 
 * If you run into personal problems during the semester that make school difficult for you, PLEASE talk to me about what adjustments we can make to help you succeed in the course.
 
@@ -60,10 +63,6 @@ Previous iterations of this course have created essays on historiographical topi
 
 ### [Final learning reflection](final-reflections) (15%)
 This final essay allows you describe what you learned in the course as a way of boosting your final grade.
-
-
-## Get feedback whenever you want
-**Please talk to me about your grade at any time**, and as often as you'd like. Please do not email about this; a conversation is far more useful and efficient and avoids misunderstandings. Right before or after class is a good time, as well as office hours.
 
 
 ## Submitting Work
