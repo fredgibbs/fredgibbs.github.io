@@ -3,8 +3,7 @@ Common
 ****************************************************************************/
 
 @import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i');
-@import url('https://fonts.googleapis.com/css?family=Lato');
-@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Open-Sans');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
@@ -12,7 +11,7 @@ Common
 @media screen {
   body {
     background-color: #fefefe;
-    font: 1.1rem/1.8rem 'Lato', sans-serif;
+    font: 1.1rem/1.8rem 'Open-Sans', sans-serif;
     color: #666;
   }
 
@@ -49,7 +48,7 @@ Common
   }
 
   a.navbar-brand {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 1.4rem;
     text-transform: lowercase;
     border: none;
@@ -73,7 +72,7 @@ Common
   ****************************************************************************/
 
   h1,h2,h3,h4,h5 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #000;
   }
 
@@ -490,7 +489,7 @@ Common
   .cv {
     max-width: 50rem;
     line-height: 1.4rem;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Open-Sans', sans-serif;
     font-size: 1rem;
     text-align: justify;
   }
