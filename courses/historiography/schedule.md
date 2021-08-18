@@ -56,7 +56,7 @@ These indicate something should note to make life easier, but aren't anything yo
 - Follow the [GitHub setup instructions](http://fredgibbs.net/courses/etc/connecting-to-github).
 - Add your GitHub username to our [shared Google Doc](https://docs.google.com/document/d/1Db2kwK0AXIRQWyE7wO_0JU_NFXTGOgZCGIfBGl1qmMM/edit?usp=sharing).
 - You should bookmark [our course repository](https://github.com/unm-historiography/2021-fall) where you will post work for the course.
-- Test out the [posting to GitHub instructions](posting-to-github) by posting a short introductory bio in the `introductions` folder. I've already put an example there, but you don't need to follow it too closely.
+- Test out the [posting to GitHub instructions](http://fredgibbs.net/courses/etc/posting-to-github) by posting a short introductory bio in the `introductions` folder. I've already put an example there, but you don't need to follow it too closely.
 "%}
 
 
