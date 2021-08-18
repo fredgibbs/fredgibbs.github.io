@@ -5,13 +5,14 @@ Common
 @import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 @media screen {
   body {
     background-color: #fefefe;
-    font: 1.1rem/1.8rem 'Open Sans', sans-serif;
+    font: 1.1rem/1.8rem 'Lato', sans-serif;
     color: #666;
   }
 
@@ -71,8 +72,22 @@ Common
   Typography
   ****************************************************************************/
 
-  h1,h2,h3,h4,h5 {
-    font-family: 'Roboto', sans-serif;
+  a {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+    color: #f90;
+  }
+
+  a:hover { color: #a00; }
+
+  a:visited { color: #c60; }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    font-family: 'Roboto Condensed', sans-serif;
     color: #000;
   }
 
@@ -104,7 +119,7 @@ Common
 
   h3 {
     font-size: 1.8rem;
-    margin: 1.5rem 0 .5rem 0;
+    margin: 1.5rem 0 0.5rem 0;
   }
 
   h2 + h3 {
@@ -118,16 +133,6 @@ Common
 
   p { margin: 0 0 1em 0; }
 
-  a {
-    text-decoration: none;
-    border-bottom:1px dotted;
-    color: #f90;
-  }
-
-  a:hover { color: #a00; }
-
-  a:visited { color: #c60; }
-
   ul {
     margin: 0 0 2em 1em;
     padding: 0;
@@ -135,9 +140,9 @@ Common
 
   .alert-heading {
     margin-top: 0;
-    margin-bottom:.5em;
-    font-size:130%;
-    text-transform:uppercase;
+    margin-bottom: 0.5em;
+    font-size: 130%;
+    text-transform: uppercase;
   }
 
   .alert ul {
@@ -412,17 +417,17 @@ Common
     margin-bottom:2em;
   }
 
-  /*****************************************************************************/
+  /*****************************************************************************
   /*
   /* Syllabus
   /*
   /*****************************************************************************/
 
   #syllabus {
-    max-width:65rem;
+    max-width: 65rem;
     background-color: #FEFEFE;
-    font: 1.1rem/1.6rem 'Open Sans', serif;
-    color:#666;
+    font: 1.1rem/1.6rem 'Lato', serif;
+    color: #666;
   }
 
   #syllabus h1 {
@@ -432,7 +437,7 @@ Common
   #syllabus h2 {
     border-top: 1px solid #999;
     border-bottom: 1px solid #999;
-    padding: .2rem 0;
+    padding: 0.2rem 0;
     margin-top: 4rem;
     font-size: 2.8rem;
     color: #c60;
@@ -446,7 +451,7 @@ Common
     text-transform: uppercase;
     font-size: 2rem;
     margin: 1.4rem 0 .3rem 0;
-    color:#000;
+    color: #000;
   }
 
   #syllabus h4 a {
