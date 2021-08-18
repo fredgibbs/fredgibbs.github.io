@@ -89,6 +89,7 @@ Common
   h5 {
     font-family: 'Roboto Condensed', sans-serif;
     color: #000;
+    letter-spacing:-0.1rem
   }
 
   h1 a, h2 a, h3 a, h4 a, h5 a, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited  {
@@ -99,6 +100,8 @@ Common
 
   h1 {
     font-size: 3.2rem;
+    font-weight: 700;
+    letter-spacing: -0.1rem;
     margin: 1rem 0;
   }
 
@@ -119,7 +122,7 @@ Common
 
   h3 {
     font-size: 1.8rem;
-    margin: 1.5rem 0 0.5rem 0;
+    margin: 3rem 0 0.5rem 0;
   }
 
   h2 + h3 {
@@ -385,11 +388,10 @@ Common
   }
 
   .horizontal {
-    width:640px;
+    width: 640px;
   }
 
-
-  /*****************************************************************************/
+  /*****************************************************************************
   /*
   /* Courses index
   /*
@@ -397,10 +399,10 @@ Common
 
   h2.course-title {
     font-size: 2.3rem;
-    border-bottom:1px solid black;
-    text-align:right;
-    background:#fff;
-    color:#333;
+    border-bottom: 1px solid black;
+    text-align: right;
+    background: #fff;
+    color: #333;
   }
 
   p.course-desc {
@@ -450,14 +452,14 @@ Common
   #syllabus h3 a {
     text-transform: uppercase;
     font-size: 2rem;
-    margin: 1.4rem 0 .3rem 0;
+    margin: 1.4rem 0 0.3rem 0;
     color: #000;
   }
 
   #syllabus h4 a {
-    font-size:1.3rem;
-    margin: 0 0 .4rem 0;
-    color:#c60;
+    font-size: 1.3rem;
+    margin: 0 0 0.4rem 0;
+    color: #c60;
   }
 
 
