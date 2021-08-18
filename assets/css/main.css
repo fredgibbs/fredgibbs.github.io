@@ -89,7 +89,7 @@ Common
   h5 {
     font-family: 'Roboto Condensed', sans-serif;
     color: #000;
-    letter-spacing:-0.1rem
+    letter-spacing: -0.1rem
   }
 
   h1 a, h2 a, h3 a, h4 a, h5 a, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited  {

@@ -21,7 +21,7 @@ section: home
 The course introduces the various approaches that historians (from antiquity through the present) have taken in writing about the past. Our survey also identifies and discusses some philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped historical writing. It focuses, however, on various meta-questions about history: **What is history? What is it for? Who is it for? How should we be writing it?**
 
 
-## Student Learning Outcomes (SLOs)
+## Course Objectives and Learning Outcomes
 * Compare and contrast different processes, modes of thought, and modes of expression from different historical time periods.
 
 * Explain how and why historians have argued about philosophical and methodological approaches to their craft over time, and what cultural changes precipitated new views.
@@ -59,10 +59,10 @@ Basically, everyone starts with a B, and you gradually move it up or down depend
 - These posts are not specifically graded, but are evaluated as is class participation. In class, I will highlight excellent reflections, as well as posts that are generally good but lacking in an easily fixable way. This is how I hold you accountable for your work. I will let you know privately if your posts are consistently falling short of expectations and thus impacting your grade. If you'd like more feedback on them, I'd be happy to provide it, but you need to ask for it.
 
 ### Historiographical Essay (25%)
-Previous iterations of this course have created essays on historiographical topics for a lower-division historiography course. Each student will contribute revisions to an existing essay and create a new essay on a topic of their choice.
+Previous iterations of this course have created a [public history website](https://unm-historiography.github.io/metahistory/) with essays on historiographical topics for a lower-division historiography course. Each student will contribute revisions to an existing essay and create a new essay on a topic of their choice.
 
-### [Final learning reflection](final-reflections) (15%)
-This final essay allows you describe what you learned in the course as a way of boosting your final grade.
+### Final learning reflection (15%)
+Your [final learning reflection](final-reflections) allows you describe what you learned in the course and boost your final grade.
 
 
 ## Submitting Work
