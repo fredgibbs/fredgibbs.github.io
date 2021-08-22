@@ -12,9 +12,9 @@ section: home
 ## Logistics
 - Fall 2021
 - 3 Credit Hours
-- MW 12:00 -- 1:15
+- MW 12:00 -- 1:15, EDUC 101
 - Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
-- Student Hours: Via Zoom, Wednesday 8--10am, and by appointment. [Office hours Zoom link](https://unm.zoom.us/j/91531924375). Discussions after class are most welcome!
+- Student Hours: Via Zoom, Wednesday 8:30--10:30am, and by appointment. [Office hours Zoom link](https://unm.zoom.us/j/91531924375). Discussions after class are most welcome!
 
 
 ## Course Description
@@ -50,13 +50,10 @@ Because most of your participation in this course is not assigned a specific let
 Basically, everyone starts with a B, and you gradually move it up or down depending on the consistency and quality of your class participation. If you are clearly paying attention but hardly ever speaking up, you stay at a B. If you are generally contributing to discussion but only occasionally have an original comment to share or a good question, your grade moves to a B+. If you are generally asking good questions and highlighting important points from the readings on a regular basis, your grade moves to A-. If you are actively engaging in the conversation each day and your comments are clearly based on the readings (not just your opinion at the time), your grade moves to an A. Conversely, you can also move your grade down by consistently making superficial or repetitive comments (which suggests you're not actually paying attention). Spotty attendance lowers your grade VERY quickly. I assign a final participation grade at the end of the course, not for each class meeting.
 
 ### Preparation work for each class (30%)
-- Everyone will post a ~400-word critical comment on the readings. These should be high quality but informal writing, like you were writing for a literary magazine. Have an opinion, a specific point to make, and have fun writing about it. Resist the urge to just summarize the readings---we're all reading the same thing.
+- Everyone will post a ~400-word [reading reflection](reading-reflections) by 10AM BEFORE CLASS comment on the readings. These should be high quality but informal writing, like you were writing for a literary magazine. Have an opinion, a specific point to make, and have fun writing about it. Resist the urge to just summarize the readings---we're all reading the same thing.
 
-- **All posts are due by 9am the day of class.** I use these posts to guide our discussion plan for our meetings, so these need to be posted at least very close to on time. Don't get anxious over the EXACT time---a few minutes or even 15 minutes late is fine. But posting after 10am is definitely too late. Consistently late posts will negatively impact your grade.
+- **All posts are due by 10am the day of class.** I use these posts to guide our discussion plan for our meetings, so these need to be posted at least very close to on time. Don't get anxious over the EXACT time---a few minutes or even 15 minutes late is fine. But posting after 10:30 is definitely too late. Consistently late posts will negatively impact your grade (a few over the semester won't matter).
 
-- As part of your response, include 1 or 2 questions (or more, if you have them) that will help guide discussion for that class. Don't ask questions that actually have an obvious factual answer, but questions that help us think critically about the readings. Was there something that seemed to make no sense? Or something you totally disagreed with? Or a seemingly interesting point that wasn't explained very well? A point that contradicted what we've read earlier? Coming up with good questions is much harder than it sounds, which is why we practice in a low-stakes classroom setting.
-
-- These posts are not specifically graded, but are evaluated as is class participation. In class, I will highlight excellent reflections, as well as posts that are generally good but lacking in an easily fixable way. This is how I hold you accountable for your work. I will let you know privately if your posts are consistently falling short of expectations and thus impacting your grade. If you'd like more feedback on them, I'd be happy to provide it, but you need to ask for it.
 
 ### Historiographical Essay (25%)
 Previous iterations of this course have created a [public history website](https://unm-historiography.github.io/metahistory/) with essays on historiographical topics for a lower-division historiography course. Each student will contribute revisions to an existing essay and create a new essay on a topic of their choice.
@@ -100,7 +97,10 @@ Once you've completed the steps above, and I've approved your request to join ou
 ### COVID-19
 Perhaps you've heard of it. You should be aware of and follow the [Bring Back the Pack guidelines and requirements](https://bringbackthepack.unm.edu/). Most notably, until told otherwise, we all have to wear masks ALL THE TIME in class.
 
-I'm adding one additional rule: FOR NOW, NO EATING IN CLASS. I know we meet at lunchtime, but especially given our small room, our own safety (and comfort about our safety) have to come first. Drinks are fine. After the vaccine deadline has passed in late September, we can vote to drop this rule.
+I'm adding one additional rule: Drinks are fine but FOR NOW, PLEASE MINIMIZE EATING IN CLASS. I know we meet at lunchtime, but our own safety (and comfort about our safety) have to come first. Later on, especially after the vaccine deadline has passed in late September, we can reevaluate.
+
+If you are not feeling well, DO NOT COME TO CLASS! Just let me know via email. There is no grade penalty for misssed classes due to illness of any kind. If you need to quarantine, and miss several classes, that's fine. We'll work it out and I'll help you stay caught up. You will still be expected to post reading reflections and submit other work (except for serious illnesses, of course).
+
 
 ### Respect
 Our classroom and our university should always be spaces of mutual respect, kindness, and support, without fear of discrimination, harassment, or violence. Should you ever need assistance or have concerns about incidents that violate this principle, please access the resources available to you on campus, especially the [LoboRESPECT Advocacy Center](http://loborespect.unm.edu/) and the support services listed on its website . Please note that, because UNM faculty, TAs, and GAs are considered "responsible employees" by the Department of Education, any disclosure of gender discrimination (including sexual harassment, sexual misconduct, and sexual violence) made to a faculty member, TA, or GA must be reported by that faculty member, TA, or GA to the university's Title IX coordinator at the [Office of Compliance, Ethics, and Equal Opportunity](https://oeo.unm.edu/title-ix/title-ix-reporting-obligations.html).

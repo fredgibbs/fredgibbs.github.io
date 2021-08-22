@@ -66,7 +66,7 @@ Remember that this technique is totally different from how you learned to do ima
 
 ---
 
-{% include figure.html class="img-right" width="33%" caption="Centennial Hotel" src="images/centennial-hotel.jpg" %}
+{% include figure.html class="right" width="33%" caption="Centennial Hotel" src="images/centennial-hotel.jpg" %}
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
@@ -76,7 +76,7 @@ Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis s
 To insert the above image, copy this code to your Markdown file:
 ```
 {%raw%}{% include figure.html
-  class="img-right"
+  class="right"
   width="33%"
   caption="Centennial Hotel"
   src="images/centennial-hotel.jpg"

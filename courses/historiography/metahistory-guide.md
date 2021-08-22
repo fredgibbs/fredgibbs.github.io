@@ -8,33 +8,36 @@ section: links-guides
 ---
 
 #_Metahistory_ Writing Guide
-_Metahistory_ is intended as an introductory guide to historiography in the form of essays on relevant historiographical topics.
 
-Contributing an essay to the collection is not only an exercise in historiography but also an exercise in public history. Reducing a complicated set of ideas (as you know (or soon will), historiography can be an abstract subject that's hard to grasp at first) to their essence and presenting them to a general audience is a widely applicable skill in any career.
+_Metahistory_, as you all already know, is an introductory guide to historiography in the form of essays on various historiographical topics. Some essays talk about broad historiographical change over a long period of time, others focus on a particular idea or person that shaped the research and writing of history. Whatever the topic of the essay, and however broad or narrow the scope, **you should make sure the historiographical significance of the topic is clear throughout the essay**.
 
-This writing guide is a basically a checklist of things to keep in mind while you're writing and especially revising, or during the peer review process.
+Contributing an essay to the collection is not only an exercise in historiography but also an exercise in public history. Reducing a complicated set of ideas (indeed, historiography can be an abstract subject that's hard to grasp at first) to their essence and presenting them to a general audience is a widely applicable skill in any career. Your target audience is someone looking to learn about historiography and historiographical change, but doesn't necessarily know much about history. Make sure you keep your target audience in mind and indicate the significance of people, places, ideas, and institutions, etc, that you bring into your essay.
+
+This writing guide is a basically a checklist of things to keep in mind while you're writing and revising. It is also a kind of checklist to use during the peer review process.
+
+## Basics
+- ~2300 words
+- Shows significant research on your topic outside of course sources
+- Written in a clear, accessible style (no jargon); see below
+- Follows the [Readability Checklist](#readability)
+- 3-5 appropriate and well-captioned [images](#images)
+- Correctly formatted [citations and bibliography](#references); see below
+- Properly submitted to the [GitHub repository](https://github.com/unm-historiography/metahistory)
+
+
+## General writing advice
+- Have a clear beginning and end in mind. Divide up everything in between into discrete steps (paragraphs) that logically move from one to the next to advance the story, inform the reader, and hold their interest.
+- Focus your paragraphs: Paragraphs are visual representations of ideas, so each paragraph should have one main idea that is connected to what comes before and after it.
+- Weed out the fluff! Remove extra words or sentences that don't really add anything new or serve a necessary purpose.
+- Give specific examples to illustrate your broader claims.
 
 
 ## So What Question
-Make sure the essay both very near the beginning and at the end makes it very clear what the reader is meant to take away as the main points. In other words, the essay needs to very obviously answer the SO WHAT question. Your essay probably already has a clear statement to this effect somewhere in the essay although it might not be worded clearly or concisely.
-
-### Make sure the historiographical significance is clear throughout the essay
-
-## General writing advice
-- Have a clear idea of where the reader will be in terms of understanding your topic, and decide what will be useful for them (and what you’re capable of doing), and plot the steps along the way.
-- Give specific examples to illustrate your broader claims.
-- Weed out the fluff! Remove extra words or sentences that don't really add anything new or serve a necessary purpose.FOCUSED PARAGRAPHS
-- Focus your paragraphs: Paragraphs are visual representations of ideas, so each paragraph should have one main idea that is connected to what comes before and after it.
-
-
-## Citations and bibliographies
-- _Metahistory_ is meant to be a trusted academic resource. Historical summary or historiographical claims must include parenthetical citations to reputable sources with precise and unambiguous citations.
-- The bibliography should include only those sources directly cited. If something is important, you will find a way to cite it.
-
+Make sure your essay both very near the beginning and at the end makes it very clear what the reader is meant to take away as the main points. In other words, the essay needs to very obviously answer the SO WHAT question. Your essay probably already has a clear statement to this effect somewhere in the essay although it might be a bit buried or needs some clarification.
 
 
 ## Readability
-Improving accessibility of these essays for the average college student is our main goal. Try to revise any sentences that are too long, or too hard to follow. That said, we don't want overly simplistic writing, either. You don't have to write the perfect sentence (although that's always the goal)---just leave it better than you found it. Sometimes stepping back and rewriting a sentence or two and paraphrasing is the fastest way to improve clarity. Don't hesitate to replace prose to communicate more effectively.
+Accessibility of these essays for the average college student learning about historiography is our main goal. When revising your own or someone else's essay, rephrase any sentences that are too long or too hard to follow. That said, we don't want overly simplistic writing, either. You don't have to write the perfect sentence (although that's always the goal)---just leave it better than you found it. Sometimes stepping back and rewriting a sentence or two and paraphrasing is the fastest way to improve clarity. Don't hesitate to replace prose to communicate more effectively.
 
 Let's assume that potential readers are going to quickly skim the page to decide if it's worth reading. A few things can help draw readers in.
 
@@ -50,30 +53,45 @@ There is nothing intrinsically wrong with long paragraphs, but long paragraphs a
 ### Attention to detail
 Make sure your essay is free of typos, sentence fragments, and simple sentences. This makes it harder to read and calls your authority and trustworthiness into question. If you can't be bothered to write clear sentences, maybe you didn't do very good research, either.
 
-
-### Be explicit
-Every person, place, thing, concept mentioned in the essay should be there for a reason, and that reason should be explicitly spelled out. Make sure all people get a very brief introduction (even in passing); you should assume that readers don't know anyone you're talking about.
-
-
----
-**Here's an example of expanding an important point that is way too compressed into something longer but much clearer.** Obviously you're not going to do this sort of thing for every sentence, but if you can do it for the most important points, future readers will get a lot more out of these guides---and come away with a very different perspective and appreciation of history!
-
-### Before
-Augustine's _City of God_ made history of human affairs seem less relevant because we are all simply living out God's preordained plan.
-
-### After
-[St. Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo) (354--430), regarded as one of the most important Church fathers and early Christian theologians, suggested that the history of human affairs was less relevant than Biblical history because humans are simply living out God's preordained plan. This view emerges in part from his classic work [_City of God_](https://en.wikipedia.org/wiki/The_City_of_God), written to show that Christianity was not responsible for the fall of Rome, and which emphasize how we are merely passing through the temporal and corrupt Earthly City on our way (with proper behavior) to the eternal and perfect City of God.
-
----
-
-## Images
-We all agreed that images make the essays WAY more interesting. Let's aim for 3--5 images per essay. If your essay doesn't have any, find some relevant images that you can freely use (from sites like [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)). If your essay has 1 or 2 already, think of some images you can use to supplement what's already there. Feel free to replace images that seem too far afield from the essay's topic.
-
-### Image Captions
-For all images (new or existing), make sure they have USEFUL captions that explicitly connect the image to the topic of the. Good captions might be two or three sentences long and make an important point that is fleshed out in the essay. Readers should be able to understand some of the most important points in your essay just by reading captions! And hopefully they will be intrigued enough to read the essay itself.
-
-### Sensible typography
+### Clean typography
 Most of the typography is standardized, but many essays have too much bold or italics. Remove anything that doesn't need to be there and/or is distracting. Sometimes bolded statements could be moved into a pull quote.
 
-## Remove gratuitous links
+### Remove gratuitous links
 Reading an essay with lots of links to external websites is distracting and generally unhelpful. People know how to search for what they want to learn more about.
+
+
+## Be explicit
+Every person, place, thing, concept mentioned in the essay should be there for a reason, and that reason should be explicitly spelled out. Make sure all people get a very brief introduction (even in passing); you should assume that readers don't know anyone you're talking about.
+
+**Here's an example of expanding an important point that is way too compressed into something longer but much clearer.** Obviously you're not going to do this sort of thing for every sentence, but if you can do it for the most important points, readers will get a lot more out of the essays and come away with a very different perspective and appreciation of history!
+
+### Before
+Augustine's _City of God_ made history of human affairs seem less important because we are all simply living out God's preordained plan.
+
+### After
+[St. Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo) (354--430), regarded as one of the most important Church fathers and early Christian theologians, suggested that the history of human affairs was less relevant than Biblical history because humans are simply living out God's preordained plan. This view emerges in part from his classic work [_City of God_](https://en.wikipedia.org/wiki/The_City_of_God), written to show that Christianity was _not_ responsible for the fall of Rome, and that we are merely passing through the temporal and corrupt Earthly City on our way (with proper behavior) to the eternal and perfect City of God.
+
+
+
+## Images
+Even if somewhat gratuitous, images make the essays WAY more interesting. Aim for 3--5 images per essay. If your essay doesn't have any, find some relevant images that you can freely use (from sites like [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)). When revising another essay with too few images, think how you might augment what's already there. Feel free to replace images that seem too far afield from the essay's topic.
+
+### Image Captions
+For all images (new or existing), make sure they have **informative** captions that explicitly connect the image to the topic of the. Good captions might be two or three (short) sentences long and make an important point that is fleshed out in the essay. Readers should be able to understand some of the most important points in your essay just by reading captions! And hopefully they will be intrigued enough to read the essay itself.
+
+
+
+## References
+_Metahistory_ is meant to be a trusted academic resource. Historical summary or historiographical claims must include parenthetical citations to reputable sources with precise and unambiguous citations. Reputable sources means academic peer-reviewed publications.
+
+### Citations
+- Use the format of (Author-last-name, page-number). No p. or pg. or pp. or any other abbreviations; just put the page number.
+- Make sure the author name is spelled correctly!
+- EXAMPLE: His drive to list his sources was “not moved by ‘scientific’ motives but by his respect for the authority of the source and the awareness that… to distort a document would damage the truthfulness expected of a writer on sacred subjects” (Breisach, 96).
+
+### Bibliographies
+- Use standard Chicago style citations for your bibliography. See the bibliography entries at the [Chicago Manual of Style Online](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html).
+- The bibliography should include only those sources directly cited. If something is important, you will find a way to cite it.
+- DO NOT include URLs or DOIs, unless the original is only online and there is no print version.
+- EXAMPLE: Breisach, Ernst. _Historiography: Ancient, Medieval, & Modern._ University of Chicago Press, 2007.
+- The newest guidelines specify that place of publication (usually a city) is OPTIONAL, so let's leave them out. They aren't really important for modern books, which what we'll be using.

@@ -10,7 +10,7 @@ section: links-guides
 # Final Learning Reflection
 Your final reflection for the course is a bit different from previous reflections.
 
-I'd like you to write a ~800-word description of YOUR LEARNING EXPERIENCE in the course as a whole. Which ideas will stick with you? Which were not worth the trouble? What did you get interested in that we didn't do enough with? What was boring that we did too much of? How might you use the skills and approaches we learned in the course outside of anything related to history? Or do you think that's impossible? These are highly subjective essays and that's the point---I want to know about YOUR learning experience, not what you think the standard learning experience should have been. Please DO NOT provide a recitation of course topics and themes. I know what you were supposed to learn---I'm looking for an expression of what you _actually_ learned.
+I'd like you to write a ~1200-word description of YOUR LEARNING EXPERIENCE in the course as a whole. Which ideas will stick with you? Which were not worth the trouble? What did you get interested in that we didn't do enough with? What was boring that we did too much of? How might you use the skills and approaches we learned in the course outside of anything related to history? Or do you think that's impossible? These are highly subjective essays and that's the point---I want to know about YOUR learning experience, not what you think the standard learning experience should have been. Please DO NOT provide a recitation of course topics and themes. I know what you were supposed to learn---I'm looking for an expression of what you _actually_ learned.
 
 
 ## Purpose
