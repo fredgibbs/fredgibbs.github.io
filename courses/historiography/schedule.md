@@ -43,7 +43,12 @@ These indicate something should note to make life easier, but aren't anything yo
 
 
 ### 25: MetaHistory and course tools
-- Browse [_MetaHistory_](https://unm-historiography.github.io/metahistory/) generally, and read through at least two essays carefully. For our discussion, be prepared to report on your impression of this resource. What seemed useful and/or interesting? What seemed a bit off? What were the strengths and weaknesses of the essays you read? You will be contributing an essay to this as a main project for the course.
+- Browse [_MetaHistory_](https://unm-historiography.github.io/metahistory/) generally to get a sense of the entire site, and read through at least two essays carefully. For our discussion, be prepared to report on your impression of this resource.
+- What seemed useful and/or interesting?
+- What seemed a bit off?
+- What were the strengths and weaknesses of the essays you read?
+- What questions do you have that weren't answered?
+
 
 
 {% include alert.html class='info' title='In class' text="
