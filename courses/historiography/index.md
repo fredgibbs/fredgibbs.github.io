@@ -12,7 +12,7 @@ section: home
 ## Logistics
 - Fall 2021
 - 3 Credit Hours
-- MW 12:00 -- 1:15, EDUC 101
+- MW 12:00 -- 1:15, Ortega 115
 - Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
 - Student Hours: Via Zoom, Wednesday 8:30--10:30am, and by appointment. [Office hours Zoom link](https://unm.zoom.us/j/91531924375). Discussions after class are most welcome!
 
