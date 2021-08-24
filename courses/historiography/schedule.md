@@ -266,8 +266,7 @@ What questions do we need to be asking to make _Metahistory_ most usable for stu
 - Basic research process that you should use for your essays. This ensures you will be selecting appropriate sources, and using and citing them appropriately.
 "%}
 
-{% include alert.html class='warning' title='Save time' text="
-### Don't procrastinate with citations!
+{% include alert.html class='warning' title='Don't procrastinate with citations!' text="
 If you just write stuff down and don't bother citing where you found it, you will have to eventually hunt down all the page numbers and THAT'S A HUGE WASTE OF TIME. As someone who has wasted considerable time on just that, please take my advice: take time to make accurate references AS YOU WRITE.
 "%}
 
@@ -333,19 +332,15 @@ Bring your TWO ~500 word critiques on TWO different essays. Review assignments a
 - No new readings.
 
 {% include alert.html class='info' title='In class' text="
-- Review the steps necessary to publish your essay on the official Metahistory site. This process is basically the same as when you committed your revisions a few weeks ago. There are a few additional concerns since you're making a NEW essay this time. Your final version must be posted by December 13.
+- Review the steps necessary to publish your essay on the official _Metahistory_ site. This process is basically the same as when you committed your revisions a few weeks ago. There are a few additional concerns since you're making a NEW essay this time. Your final version must be posted by December 13.
 "%}
 
-
-{% include alert.html class='danger' title='BEFORE CLASS ON WEDNESDAY' text="
-- Update our [Table of Contents Data](https://docs.google.com/spreadsheets/d/1EBAxMEabmmgxiU_0yabIDr6r8Cnevtv63KXDbae33T4/edit#gid=0). Double check your abstract, image, and the link.
-"%}
 
 
 ### 8: Last questions/comments and course wrap up
 - No new readings.
 
-{% include alert.html class='warning' title='Class' text="
+{% include alert.html class='info' title='In class' text="
 - Course Retrospective
 - What I hope you can do with historiography
 - Final essay revision advice
