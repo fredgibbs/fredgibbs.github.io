@@ -265,7 +265,7 @@ What questions do we need to be asking to make _Metahistory_ most usable for stu
 - Basic research process that you should use for your essays. This ensures you will be selecting appropriate sources, and using and citing them appropriately.
 "%}
 
-{% include alert.html class='warning' title='Don't procrastinate with citations!' text="
+{% include alert.html class='warning' title='Don\'t procrastinate with citations!' text="
 If you just write stuff down and don't bother citing where you found it, you will have to eventually hunt down all the page numbers and THAT'S A HUGE WASTE OF TIME. As someone who has wasted considerable time on just that, please take my advice: take time to make accurate references AS YOU WRITE.
 "%}
 
