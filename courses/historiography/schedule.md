@@ -231,11 +231,10 @@ This week we're starting our one book for the course. It's rather theoretical an
 
 ### 3: _Historical Theory_ VI
 - _Historical Theory_, 185--196 (Ch. 10: Conclusion).
-- Peruse the [Metahistory site](https://unm-historiography.github.io/metahistory/) again so you are familiar with the essays, their style, strengths and weaknesses. Pick an essay you want to edit according to the [revision guide](revision-guide).
+- Peruse the [Metahistory site](https://unm-historiography.github.io/metahistory/) again to remind yourself of the essays, their style, strengths and weaknesses. Pick an essay you want to edit according to the [Metahistory guide](metahistory-guide).
 
 {% include alert.html class='info' title='In class' text="
 - _Historical Theory_ Wrap up discussion
-- Discuss the editing assignment due next Monday, including the process for editing and posting revisions. There will be a new version of this [screencast](https://youtu.be/tLAaLmHkKZU).
 "%}
 
 
