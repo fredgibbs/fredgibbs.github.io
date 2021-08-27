@@ -86,7 +86,8 @@ These indicate something should note to make life easier, but aren't anything yo
 
 
 ### 1: Greek and Roman and Medieval Histories
-- M. C. Lemon, _Philosophy of History_, 28--73.
+- M. C. Lemon, _Philosophy of History_, 28--44 (Chapter 3: Greek and Roman Speculations on History).
+- M. C. Lemon, _Philosophy of History_, 45--56 (read up to the last paragraph); 61--73 (Chapter 4: The Christian Challenge...).
 
 {% include alert.html class='danger' title='Reading Reflection' text="
 - What ideas were especially interesting?
