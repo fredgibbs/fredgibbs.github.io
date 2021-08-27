@@ -72,7 +72,7 @@ These indicate something should note to make life easier, but aren't anything yo
 - Beverly Southgate, _What is History For?_, 31--58.
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-- Reminder:  [Reading reflections](reading-reflections) should be committed to [our GitHub Repository](https://github.com/unm-historiography/2021-fall) (where you will post all work for the course) by 9AM before class.
+- Reminder:  [Reading reflections](reading-reflections) should be committed to [our GitHub Repository](https://github.com/unm-historiography/2021-fall) (where you will post all work for the course) by 10AM before class.
 - Please note that Beverly is a HE for your responses.
 - What has intrigued you about history? Think carefully and avoid the trite 'i dunno i've just always liked it' kind of response.
 - Which \"professed purposes\" resonated most with you? And least? In both cases, EXPLAIN WHY.
