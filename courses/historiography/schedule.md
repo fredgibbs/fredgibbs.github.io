@@ -106,7 +106,7 @@ These indicate something should note to make life easier, but aren't anything yo
 ### 6: NO CLASS (Labor Day)
 
 ### 8: Early Modern History
-- Eileen Ka-May Chang, _Historiography_, 4--28 (Chap 1: Art and Science in Renaissance Historical Writing).
+- Eileen Ka-May Cheng, _[Historiography](hhttps://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=450949&site=ehost-live&scope=site)_, 4--28 (Chap 1: Art and Science in Renaissance Historical Writing).
 - Niccolò Machiavelli, _The Prince_, 5-19. (These are really small pages.)
 
 {% include alert.html class='danger' title='Reading Reflection' text="
@@ -120,7 +120,7 @@ These indicate something should note to make life easier, but aren't anything yo
 ## Week 4
 
 ### 13: Enlightenment History
-- Eileen Ka-May Chang, _Historiography_, 29--60 (Chap 2: Enlightenment and Philosophical History).
+- Eileen Ka-May Cheng, _[Historiography](hhttps://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=450949&site=ehost-live&scope=site)_, 29--60 (Chap 2: Enlightenment and Philosophical History).
 
 {% include alert.html class='danger' title='Reading reflection' text="
 How did Enlightenment thinking get applied to History?
@@ -128,7 +128,7 @@ How did Enlightenment thinking get applied to History?
 
 
 ### 15: Romantic and Critical History
-- Eileen Ka-May Chang, _Historiography_, 61--90 (Chap 3: Romantic and Critical History).
+- Eileen Ka-May Cheng, _[Historiography](https://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=450949&site=ehost-live&scope=site)_, 61--90 (Chap 3: Romantic and Critical History).
 
 {% include alert.html class='danger' title='Reading reflection' text="
 - What would you say are the key differences between Romantic and Critical history?
@@ -140,7 +140,7 @@ How did Enlightenment thinking get applied to History?
 ## Week 5
 
 ### 20: Postmodern History
-- Eileen Ka-May Chang, _Historiography_, 112--132 (Chap 5: Social History, Fragmentation, and the Revival of Narrative).
+- Eileen Ka-May Chang, _[Historiography](https://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=450949&site=ehost-live&scope=site)_, 112--132 (Chap 5: Social History, Fragmentation, and the Revival of Narrative).
 
 {% include alert.html class='danger' title='Reading reflection' text="
 Does postmodern history constitute a historiographical paradigm shift? Or are they more on a continuum of historiographical change?
