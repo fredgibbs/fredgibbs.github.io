@@ -106,7 +106,7 @@ These indicate something should note to make life easier, but aren't anything yo
 ### 6: NO CLASS (Labor Day)
 
 ### 8: Early Modern History
-- Eileen Ka-May Cheng, _[Historiography](hhttps://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=450949&site=ehost-live&scope=site)_, 4--28 (Chap 1: Art and Science in Renaissance Historical Writing).
+- Eileen Ka-May Cheng, _[Historiography](https://web-b-ebscohost-com.libproxy.unm.edu/ehost/detail/detail?vid=5&sid=01470a5d-621a-487f-a886-1046fea4005d%40pdc-v-sessmgr02&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#AN=450949&db=nlebk)_, 4--28 (Chap 1: Art and Science in Renaissance Historical Writing).
 - Niccolò Machiavelli, _The Prince_, 5-19. (These are really small pages.)
 
 {% include alert.html class='danger' title='Reading Reflection' text="
