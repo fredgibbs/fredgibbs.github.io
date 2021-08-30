@@ -106,7 +106,7 @@ These indicate something should note to make life easier, but aren't anything yo
 ### 6: NO CLASS (Labor Day)
 
 ### 8: Early Modern History
-- Eileen Ka-May Cheng, _[Historiography](https://web-b-ebscohost-com.libproxy.unm.edu/ehost/detail/detail?vid=5&sid=01470a5d-621a-487f-a886-1046fea4005d%40pdc-v-sessmgr02&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#AN=450949&db=nlebk)_, 4--28 (Chap 1: Art and Science in Renaissance Historical Writing).
+- Eileen Ka-May Cheng, _[Historiography](https://unm.worldcat.org/title/historiography-an-introductory-guide/oclc/787843567&referer=brief_results)_, 4--28 (Chap 1: Art and Science in Renaissance Historical Writing). Click the "View eBook" link to get to the actual online text.
 - Niccolò Machiavelli, _The Prince_, 5-19. (These are really small pages.)
 
 {% include alert.html class='danger' title='Reading Reflection' text="
@@ -120,7 +120,7 @@ These indicate something should note to make life easier, but aren't anything yo
 ## Week 4
 
 ### 13: Enlightenment History
-- Eileen Ka-May Cheng, _[Historiography](hhttps://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=450949&site=ehost-live&scope=site)_, 29--60 (Chap 2: Enlightenment and Philosophical History).
+- Eileen Ka-May Cheng, _[Historiography](https://unm.worldcat.org/title/historiography-an-introductory-guide/oclc/787843567&referer=brief_results)_, 29--60 (Chap 2: Enlightenment and Philosophical History).
 
 {% include alert.html class='danger' title='Reading reflection' text="
 How did Enlightenment thinking get applied to History?
@@ -128,7 +128,7 @@ How did Enlightenment thinking get applied to History?
 
 
 ### 15: Romantic and Critical History
-- Eileen Ka-May Cheng, _[Historiography](https://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=450949&site=ehost-live&scope=site)_, 61--90 (Chap 3: Romantic and Critical History).
+- Eileen Ka-May Cheng, _[Historiography](https://unm.worldcat.org/title/historiography-an-introductory-guide/oclc/787843567&referer=brief_results)_, 61--90 (Chap 3: Romantic and Critical History).
 
 {% include alert.html class='danger' title='Reading reflection' text="
 - What would you say are the key differences between Romantic and Critical history?
