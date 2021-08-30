@@ -90,9 +90,13 @@ These indicate something should note to make life easier, but aren't anything yo
 - M. C. Lemon, _Philosophy of History_, 45--56 (read up to the last paragraph); 61--73 (Chapter 4: The Christian Challenge...).
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-- What ideas were especially interesting?
-- What passages or sections were confusing?
+- Reminder: [Reading reflections](reading-reflections) should be committed to [our GitHub Repository](https://github.com/unm-historiography/2021-fall)
 - How are conceptions of time and progress important to the meaning of history (even today)?
+- Does studying history imply it is to facilitate some kind of human "progress"?
+- Why should we care about Augustine in a historiography course?
+- How does Lemon think we should compare Greco-Roman vs. Christian histories?
+- What other ideas were especially interesting?
+- Don't forget your 1-2 INFORMED questions!
 "%}
 
 
