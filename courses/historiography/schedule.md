@@ -92,7 +92,7 @@ These indicate something should note to make life easier, but aren't anything yo
 {% include alert.html class='danger' title='Reading Reflection' text="
 - Reminder: [Reading reflections](reading-reflections) should be committed to [our GitHub Repository](https://github.com/unm-historiography/2021-fall)
 - How are conceptions of time and progress important to the meaning of history (even today)?
-- Does studying history imply it is to facilitate some kind of human "progress"?
+- Does studying history imply it is to facilitate some kind of human \"progress\"?
 - Why should we care about Augustine in a historiography course?
 - How does Lemon think we should compare Greco-Roman vs. Christian histories?
 - What other ideas were especially interesting?
