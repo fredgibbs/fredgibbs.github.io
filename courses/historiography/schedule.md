@@ -80,7 +80,6 @@ These indicate something should note to make life easier, but aren't anything yo
 
 {% include alert.html class='info' title='In class' text="
 - Southgate discussion on uses of history.
-- Introduction to [Atom](https://atom.io/) and an optional, easier way to post your work.
 "%}
 
 
@@ -106,14 +105,20 @@ These indicate something should note to make life easier, but aren't anything yo
 ### 6: NO CLASS (Labor Day)
 
 ### 8: Early Modern History
+- Read through the _[Metahistory](https://unm-historiography.github.io/metahistory/essays/early-modern/reforming-history.html)_ essays on Early Modern historiography. There is a little overlap with the Cheng reading, but mostly they cover and emphasize quite different aspects of Renaissance historiography.
 - Eileen Ka-May Cheng, _[Historiography](https://unm.worldcat.org/title/historiography-an-introductory-guide/oclc/787843567&referer=brief_results)_, 4--28 (Chap 1: Art and Science in Renaissance Historical Writing). Click the "View eBook" link to get to the actual online text.
 - Niccolò Machiavelli, _The Prince_, 5-19. (These are really small pages.)
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-- There's a lot of stuff in the chapter, but what would you consider the key developments in Renaissance history writing?
-- Give a few examples from _The Prince_ that illustrate what's changing in terms of how history is being used in Renaissance Europe (esp Florence)?
+- How would you characterize history writing during the Renaissance?
+- As part of your essay, be sure to mention what you consider to be the key developments in Renaissance history writing?
+- How does the excerpt from _The Prince_ illustrate what's changing in terms of how history is being used in Renaissance Europe (esp Florence)?
 "%}
 
+{% include alert.html class='info' title='In class' text="
+- Early Modern History Reflection discussion
+- How can we compare and contrast Cheng's chapter with the _Metahistory_ essays? Why are they so different?
+"%}
 
 
 
@@ -125,6 +130,12 @@ These indicate something should note to make life easier, but aren't anything yo
 {% include alert.html class='danger' title='Reading reflection' text="
 How did Enlightenment thinking get applied to History?
 "%}
+
+{% include alert.html class='info' title='In class' text="
+- Enlightenment philosophy of history
+- Introduction to [Atom](https://atom.io/) and an optional, easier way to post your work.
+"%}
+
 
 
 ### 15: Romantic and Critical History
