@@ -125,10 +125,13 @@ These indicate something should note to make life easier, but aren't anything yo
 ## Week 4
 
 ### 13: Enlightenment History
+- Read the one [_Metahistory_ essay](https://unm-historiography.github.io/metahistory/essays/enlightenment/enlightenment.html) on Enlightenment historiography. This is particularly useful for understanding the broader historical context and legacy of historiographical change.
 - Eileen Ka-May Cheng, _[Historiography](https://unm.worldcat.org/title/historiography-an-introductory-guide/oclc/787843567&referer=brief_results)_, 29--60 (Chap 2: Enlightenment and Philosophical History).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-How did Enlightenment thinking get applied to History?
+- What was new about Enlightenment thinking in general?
+- In broad terms, how did Enlightenment thinking get applied to History?
+- What were the commonalities and differences between the approaches to History described in the chapter?
 "%}
 
 {% include alert.html class='info' title='In class' text="
