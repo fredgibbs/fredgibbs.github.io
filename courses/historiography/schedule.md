@@ -124,7 +124,7 @@ These indicate something should note to make life easier, but aren't anything yo
 
 ## Week 4
 
-### 13: Enlightenment History
+### 13 <i class="fas fa-birthday-cake"></i>: Enlightenment History
 - Read the one [_Metahistory_ essay](https://unm-historiography.github.io/metahistory/essays/enlightenment/enlightenment.html) on Enlightenment historiography. This is particularly useful for understanding the broader historical context and legacy of historiographical change.
 - Eileen Ka-May Cheng, _[Historiography](https://unm.worldcat.org/title/historiography-an-introductory-guide/oclc/787843567&referer=brief_results)_, 29--60 (Chap 2: Enlightenment and Philosophical History).
 
