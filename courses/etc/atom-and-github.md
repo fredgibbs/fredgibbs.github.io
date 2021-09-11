@@ -22,14 +22,18 @@ You're all used to posting work on UNM Learn or maybe elsewhere, but it's always
 
 
 ## Connecting Atom to GitHub
-There are a few steps to get connected that you only have to do once. Essentially, you'll be making a copy of our repository on your own computer.
+There are a few steps to get connected that you only have to do once. It looks like a lot, but they are all small things you can do quickly. Essentially, you'll be making a copy of our repository on your own computer that you'll be able to edit and move to GitHub.
 - In Atom, open the Command Palette window by selecting `View` -> `Toggle Command Palette`
 - Type in `Clone`, and pick the first option, `Github: Clone`
 - In the `Clone from` prompt, enter `https://github.com/unm-historiography/2021-fall.git`
 - You can see that you must specify a directory where all the files from our repository will be copied. You can pick any directory on your computer, or just accept the default (recommended).
-- Press the `Clone` button
-- At this point, GitHub wants to make sure that you are authorized to make changes in our repository. So Atom will tell you to visit [github.atom.io/login](github.atom.io/login), log in with your GitHub credentials. Then you'll get the special code/token from GitHub that you need to relay to Atom. You've all done this sort of thing before.
-- Once you're connected to GitHub, you will see all the folders and files from our repository on the left Project pane.
+- Press the `Clone` button.
+- You will see all the folders and files from our repository on the left Project pane. To add or edit files in the repository (the whole point of doing this), you need to connect Atom to your GitHub account.
+- Click the `GitHub` link in the bottom right corner of your Atom window and click the big blue `Login` button.
+- Atom will tell you to visit [github.atom.io/login](http://github.atom.io/login), so click on that link. If you're not already logged into GitHub, you'll need to do that, you'll be at the "Authorize Atom GitHub package" page. Click the green `Authorize Atom` button toward the bottom.
+- Then you'll see your special token from GitHub that you need to relay to Atom. Click the blue `Copy token` button.
+- Paste that into the GitHub tab in Atom.
+- Close the GitHub tab.
 - You're done connecting and you never have to do any of these steps again.
 
 ## Creating a new file
@@ -43,7 +47,7 @@ When you're ready to commit your file to our repository, you're just a few click
 
 - Click the `Git` link/label (NOT GITHUB) in the lower right of your Atom window.
 
-- Double-click your file from the `Unchanged Changes` tab. You see it moves to the `Staged Changes` pane.
+- Double-click your file from the `Unchanged Changes` tab. You see it moves to the `Staged Changes` pane. You can also click the `Stage all` link.
 
 - In the text box that has a grayed out `Commit message`, enter a description of your changes (like `create file`).
 
