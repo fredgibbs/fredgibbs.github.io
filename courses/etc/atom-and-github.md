@@ -28,7 +28,7 @@ There are a few steps to get connected that you only have to do once. Essentiall
 - In the `Clone from` prompt, enter `https://github.com/unm-historiography/2021-fall.git`
 - You can see that you must specify a directory where all the files from our repository will be copied. You can pick any directory on your computer, or just accept the default (recommended).
 - Press the `Clone` button
-- At this point, GitHub wants to make sure that you are authorized to make changes in our repository. So Atom will tell you to visit `github.atom.io/login` and log in with your GitHub credentials. Then you'll get the special code/token from GitHub that you need to relay to Atom. You've all done this sort of thing before.
+- At this point, GitHub wants to make sure that you are authorized to make changes in our repository. So Atom will tell you to visit [github.atom.io/login](github.atom.io/login), log in with your GitHub credentials. Then you'll get the special code/token from GitHub that you need to relay to Atom. You've all done this sort of thing before.
 - Once you're connected to GitHub, you will see all the folders and files from our repository on the left Project pane.
 - You're done connecting and you never have to do any of these steps again.
 
