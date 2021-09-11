@@ -137,6 +137,7 @@ These indicate something should note to make life easier, but aren't anything yo
 {% include alert.html class='info' title='In class' text="
 - Enlightenment philosophy of history
 - Introduction to [Atom](https://atom.io/) and an optional, easier way to post your work.
+- Walk through the [Connecting GitHub and Atom guide](http://fredgibbs.net/courses/etc/atom-and-github)
 "%}
 
 
