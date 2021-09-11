@@ -26,10 +26,11 @@ There are a few steps to get connected that you only have to do once. Essentiall
 - In Atom, open the Command Palette window by selecting `View` -> `Toggle Command Palette`
 - Type in `Clone`, and pick the first option, `Github: Clone`
 - In the `Clone from` prompt, enter `https://github.com/unm-historiography/2021-fall.git`
+- You can see that you must specify a directory where all the files from our repository will be copied. You can pick any directory on your computer, or just accept the default (recommended).
+- Press the `Clone` button
 - At this point, GitHub wants to make sure that you are authorized to make changes in our repository. So Atom will tell you to visit `github.atom.io/login` and log in with your GitHub credentials. Then you'll get the special code/token from GitHub that you need to relay to Atom. You've all done this sort of thing before.
-- Back in Atom, you can see that you must specify a directory where all the files from our repository will be copied. You can pick any directory on your computer, or just accept the default (recommended).
-- Once you're connected to GitHub, you will see all the folders and files from our repository on the left pane.
-- You never have to do any of these steps again.
+- Once you're connected to GitHub, you will see all the folders and files from our repository on the left Project pane.
+- You're done connecting and you never have to do any of these steps again.
 
 ## Creating a new file
 When you want to write a new reflection, right-click on the folder to which you want to add your file, and Click `New File` (or you can just highlight the folder and Press A). Name your file according to the usual conventions (all lower case, with a `.md` extension).
@@ -38,10 +39,16 @@ When you want to write a new reflection, right-click on the folder to which you 
 It's just text! So fast!! So Easy!!! Remember you can preview your Markdown as you write through the menu `Packages`->`Markdown Preview`->`Toggle Preview`. Save often.
 
 ## Posting
-When you're ready to commit your file to our repository, click the `Git` link/label in the lower right of your Atom window. Double-click your file from the `Unchanged Changes` tab.
+When you're ready to commit your file to our repository, you're just a few clicks away.
 
-You see it moves to the `Staged Changes` pane. Type a description of your changes (like `create file`).
+- Click the `Git` link/label (NOT GITHUB) in the lower right of your Atom window.
 
-Click the `Commit to master` button. You're done!
+- Double-click your file from the `Unchanged Changes` tab. You see it moves to the `Staged Changes` pane.
+
+- In the text box that has a grayed out `Commit message`, enter a description of your changes (like `create file`).
+
+- Click the big blue `Commit to main` button.
+
+- Click the small `Push` link on the bottom of the Atom window. You're done!
 
 If you're paranoid like me, you can double check that your post is in our repository at GitHub. But unless you got some weird error message, it will be there.
