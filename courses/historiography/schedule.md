@@ -148,7 +148,7 @@ These indicate something should note to make life easier, but aren't anything yo
 
 {% include alert.html class='danger' title='Reading reflection' text="
 - What would you say are the key differences between Romantic and Critical history?
-- Give a few examples from von Humbolt's article that illustrate characterizations of history that appear in Cheng's chapter. What's most interesting to you about this description of a historian's task?
+- Give a few examples from von Humboldt's article that illustrate characterizations of history that appear in Cheng's chapter. What's most interesting to you about this description of a historian's task?
 "%}
 
 
