@@ -144,10 +144,11 @@ These indicate something should note to make life easier, but aren't anything yo
 
 ### 15: Romantic and Critical History
 - Eileen Ka-May Cheng, _[Historiography](https://unm.worldcat.org/title/historiography-an-introductory-guide/oclc/787843567&referer=brief_results)_, 61--90 (Chap 3: Romantic and Critical History).
+- Wilhelm von Humboldt, "On the Historian's Task" (1821). Read for the general characterization of history and what historians should be doing. There are some **long** sentences here that can be hard to follow, but just keep reading!
 
 {% include alert.html class='danger' title='Reading reflection' text="
 - What would you say are the key differences between Romantic and Critical history?
-- Describe the different aspects of professional history (according to Ranke) that separated it from previous historical conceptions and practice? What aspects remained somewhat constant?
+- Give a few examples from von Humbolt's article that illustrate characterizations of history that appear in Cheng's chapter. What's most interesting to you about this description of a historian's task?
 "%}
 
 
