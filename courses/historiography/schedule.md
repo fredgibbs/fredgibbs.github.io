@@ -162,7 +162,8 @@ These indicate something should note to make life easier, but aren't anything yo
 Write a ~1000 word reflection on the continuities and discontinuities in historical thinking and writing so far. Be sure to provide some SPECIFIC examples that are representative of the point you are trying to make. Also, include 1-2 big picture questions that we should address in class. These are due by 10am like all other reflections, and we'll be discussing everyone's thoughts and questions in class.
 
 #### Pro tips
-- Be careful of using words like truth, objective, fact, progress, better, etc. I don't mean that you _shouldn't_ use them, but that they should be used deliberately and carefully and with nuance that our readings have collectively given us
+- Be careful of using words like truth, objective, fact, progress, better, etc. I don't mean that you _shouldn't_ use them, but that they should be used deliberately and carefully and with nuance that our readings have collectively given us.
+- You know all those posts in our GitHub Repository? They are a great way to review the material, especially since y'all tend to have great ideas and different perspectives.
 - This review is a great time to do some thinking about what you'd like to write about for _Metahistory_. Keep an eye out for people, topics, themes, ideas, etc, that you might want to learn more about and explain to a general audience.
 "%}
 
