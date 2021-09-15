@@ -186,7 +186,9 @@ Two rather contradictory questions for today that I hope encourage you to think 
 - Joan Scott, "Gender: A Useful Category of Historical Analysis", 1053-1075.
 
 {% include alert.html class='danger' title='Reading reflection' text="
-This is a classic article, meaning its recognized has having helped make a real difference in the practice of history. Precisely because of its success, it seems a bit dated now. But it still makes a number of useful points that are still relevant. And it is a perfect example of how historians can directly shape the way history is written. Many students assume this article is trying to argue that historians should pay more attention to the role women in history. It doesn't dispute that, but the main point is actually much more interesting and nuanced? What is it?
+This is a classic article, meaning it is recognized has having helped make a real difference in the practice of history (and frequently read in classes like ours). Precisely because of its success, it seems a bit dated now. But it still makes a number of useful points that are still relevant, and it is a perfect example of how historians can directly shape the way history is written.
+
+Many students assume this article is trying to argue that historians should pay more attention to the role women in history. It doesn't dispute that, but the main point is actually much more interesting and nuanced? What is it?
 "%}
 
 
