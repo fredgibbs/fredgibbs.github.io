@@ -155,19 +155,21 @@ These indicate something should note to make life easier, but aren't anything yo
 
 ## Week 5
 
-### 20: Postmodern History
-- Eileen Ka-May Chang, _[Historiography](https://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=450949&site=ehost-live&scope=site)_, 112--132 (Chap 5: Social History, Fragmentation, and the Revival of Narrative).
+### 20: Review so far
+- No new reading for today. Instead, you need to do one, longer synthetic reflection on what we've covered so far as a way of tying everything together and preparing for the Wednesday reading and reflection.
 
-{% include alert.html class='danger' title='Reading reflection' text="
-Does postmodern history constitute a historiographical paradigm shift? Or are they more on a continuum of historiographical change?
+{% include alert.html class='danger' title='BIG reflection' text="
+Write a ~1000 word reflection on the continuities and discontinuities in historical thinking and writing so far. Also, include 1-2 big picture questions that we should address in class. These are due by 10am like all other reflections, and we'll be discussing everyone's thoughts and questions in class.
 "%}
 
 
-### 22: Discursive History
-- Foucault, _Archeology of Knowledge_, 3-17; 21-30; 31-39.
+### 22: Postmodern History
+- Eileen Ka-May Cheng, _[Historiography](https://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=450949&site=ehost-live&scope=site)_, 112--132 (Chap 5: Social History, Fragmentation, and the Revival of Narrative).
+- Skim super fast: Michel Foucault, _Archeology of Knowledge_, 3-17; 21-30; 31-39. What's the main point here? How does it illustrate what Cheng is talking about?
 
-{% include alert.html class='danger' title='WTF Reading Reflection' text="
-- Translate Foucault's main points into clear and concise language. Good luck.
+{% include alert.html class='danger' title='Reading reflection' text="
+- How does postmodern history constitute a fundamental historiographical paradigm shift?
+- Why should we see postmodern changes in historical practice as more evolutionary than revolutionary?
 "%}
 
 
