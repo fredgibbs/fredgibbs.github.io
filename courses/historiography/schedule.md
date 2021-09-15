@@ -160,6 +160,10 @@ These indicate something should note to make life easier, but aren't anything yo
 
 {% include alert.html class='danger' title='BIG reflection' text="
 Write a ~1000 word reflection on the continuities and discontinuities in historical thinking and writing so far. Be sure to provide some SPECIFIC examples that are representative of the point you are trying to make. Also, include 1-2 big picture questions that we should address in class. These are due by 10am like all other reflections, and we'll be discussing everyone's thoughts and questions in class.
+
+#### Pro tips
+- Be careful of using words like truth, objective, fact, progress, better, etc. I don't mean that you _shouldn't_ use them, but that they should be used deliberately and carefully and with nuance that our readings have collectively given us
+- This review is a great time to do some thinking about what you'd like to write about for _Metahistory_. Keep an eye out for people, topics, themes, ideas, etc, that you might want to learn more about and explain to a general audience.
 "%}
 
 
@@ -168,6 +172,7 @@ Write a ~1000 word reflection on the continuities and discontinuities in histori
 - Skim super fast: Michel Foucault, _Archeology of Knowledge_, 3-17; 21-30; 31-39. What's the main point here? How does it illustrate what Cheng is talking about?
 
 {% include alert.html class='danger' title='Reading reflection' text="
+Two rather contradictory questions for today that I hope encourage you to think about BOTH continuities and discontinuities, as you did for the review assignment.
 - How does postmodern history constitute a fundamental historiographical paradigm shift?
 - Why should we see postmodern changes in historical practice as more evolutionary than revolutionary?
 "%}
@@ -220,10 +225,13 @@ This is another classic article that can also feel a bit out of date, yet anothe
 
 ### 13: NO CLASS: Enjoy Fall Break!!!
 
+{% include alert.html class='warning' title='Read ahead!' text="
+It's a busy week, but especially with the long weekend, it's a great time to start reading AHEAD in our next book and reduce what you have to do on Sunday night (when you won't want to do anything). Obviously there is a chunk of reading for Monday, but any additional reading you can do will make life much easier when we reconvene.
+"%}
 
 
 ## Week 9
-This week we're starting our one book for the course. It's rather theoretical and abstract at times (most of the time, actually), but that challenge is by design. One of the aims of the course is that you can think abstractly about key issues in history and broaden your ability to think abstractly about ANYthing. That's what senior-level capstone seminars should do, in my opinion. There will be paragraphs or even pages where you will be confused about what the authors is trying to say. It's true for me, too! Don't be discouraged that you're not "getting it". It's not easy and it's not meant to be. We'll work through the main points in our discussion and I think you'll agree that once we work through it together, it gives us powerful new tools for interpreting not only history, but any kind of text.
+This week we're starting our one book for the course. It's can be a bit theoretical and abstract at times (most of the time, TBH), but that challenge for us _is by design_. One of the aims of the course is that you can think abstractly about key issues in history and **broaden your ability to think abstractly about ANYthing**. That's what senior-level capstone seminars should do, in my opinion. There will be paragraphs or even pages where you will be confused about what the author is trying to say. It's true for me, too! Don't be discouraged if you feel you're not "getting it". It's not easy and it's not meant to be. We'll work through the main points in our discussion and I think you'll agree that once we work through it together, it gives us powerful new tools for interpreting not only history, but any kind of text (any everything is a text as we learned from postmodernism).
 
 ### 18: _Historical Theory_ I
 - _Historical Theory_, 3--11 (Ch. 1: Introduction).
