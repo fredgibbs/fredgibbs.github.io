@@ -159,7 +159,7 @@ These indicate something should note to make life easier, but aren't anything yo
 - No new reading for today. Instead, you need to do one, longer synthetic reflection on what we've covered so far as a way of tying everything together and preparing for the Wednesday reading and reflection.
 
 {% include alert.html class='danger' title='BIG reflection' text="
-Write a ~1000 word reflection on the continuities and discontinuities in historical thinking and writing so far. Also, include 1-2 big picture questions that we should address in class. These are due by 10am like all other reflections, and we'll be discussing everyone's thoughts and questions in class.
+Write a ~1000 word reflection on the continuities and discontinuities in historical thinking and writing so far. Be sure to provide some SPECIFIC examples that are representative of the point you are trying to make. Also, include 1-2 big picture questions that we should address in class. These are due by 10am like all other reflections, and we'll be discussing everyone's thoughts and questions in class.
 "%}
 
 
@@ -180,7 +180,7 @@ Write a ~1000 word reflection on the continuities and discontinuities in histori
 - Joan Scott, "Gender: A Useful Category of Historical Analysis", 1053-1075.
 
 {% include alert.html class='danger' title='Reading reflection' text="
-This is a classic article that seems dated now. But it still makes a number of useful points that are still relevant and more to our purposes, shows how historians can directly shape the way history is written. Many students assume this article is trying to argue that historians should pay more attention to the role women in history. It does argue that, but the main point is actually much more interesting and nuanced? What is it?
+This is a classic article, meaning its recognized has having helped make a real difference in the practice of history. Precisely because of its success, it seems a bit dated now. But it still makes a number of useful points that are still relevant. And it is a perfect example of how historians can directly shape the way history is written. Many students assume this article is trying to argue that historians should pay more attention to the role women in history. It doesn't dispute that, but the main point is actually much more interesting and nuanced? What is it?
 "%}
 
 
@@ -188,7 +188,7 @@ This is a classic article that seems dated now. But it still makes a number of u
 - Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?", 1-27.
 
 {% include alert.html class='danger' title='Reading reflection' text="
-This is another classic article that can also feel a bit out of date, yet another example of how historians can directly shape the way history is written by asking profound questions and offering new perspectives that were too easily unquestioned.
+This is another classic article that can also feel a bit out of date, yet another example of how historians can directly shape historiography by asking profound questions and offering new perspectives that were too easily unnoticed or ignored. What is the premise of postcoloniality as described here? What are the main challenges to a postcolonial history?
 "%}
 
 
