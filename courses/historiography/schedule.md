@@ -184,19 +184,19 @@ Two rather contradictory questions for today that I hope encourage you to think 
 
 ### 27: Gender Histories
 - Joan Scott, "Gender: A Useful Category of Historical Analysis", 1053-1075.
-
-{% include alert.html class='danger' title='Reading reflection' text="
 This is a classic article, meaning it is recognized has having helped make a real difference in the practice of history (and frequently read in classes like ours). Precisely because of its success, it seems a bit dated now. But it still makes a number of useful points that are still relevant, and it is a perfect example of how historians can directly shape the way history is written.
 
-Many students assume this article is trying to argue that historians should pay more attention to the role women in history. It doesn't dispute that, but the main point is actually much more interesting and nuanced? What is it?
+{% include alert.html class='danger' title='Reading reflection' text="
+Many students assume this article is trying to argue that historians should pay more attention to the role women in history. The article agrees, but the main point is actually much more interesting and nuanced. What is it?
 "%}
 
 
 ### 29: Postcolonial Histories
 - Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?", 1-27.
+This is another classic article that can also feel a bit out of date, yet another example of how historians can directly shape historiography by asking profound questions and offering new perspectives that were too easily unnoticed or ignored.
 
 {% include alert.html class='danger' title='Reading reflection' text="
-This is another classic article that can also feel a bit out of date, yet another example of how historians can directly shape historiography by asking profound questions and offering new perspectives that were too easily unnoticed or ignored. What is the premise of postcoloniality as described here? What are the main challenges to a postcolonial history?
+ What is the premise of postcoloniality as described here? What are the main challenges to a postcolonial history?
 "%}
 
 
