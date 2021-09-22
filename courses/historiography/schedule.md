@@ -192,7 +192,7 @@ Many students assume this article is trying to argue that historians should pay 
 
 
 ### 29: Postcolonial Histories
-- Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?", 1-27.
+- Dipesh Chakrabarty, "Postcoloniality and the Artifice of History: Who Speaks for 'Indian' Pasts?", 1-27. Skim (but don't skip) section IV (11--17).
 This is another classic article that can also feel a bit out of date, yet another example of how historians can directly shape historiography by asking profound questions and offering new perspectives that were too easily unnoticed or ignored.
 
 {% include alert.html class='danger' title='Reading reflection' text="
