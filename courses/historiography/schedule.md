@@ -208,7 +208,9 @@ This is another classic article that can also feel a bit out of date, yet anothe
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-- We've talked about the difficulties of objectivity and truth in history, and this article explains how archives are far from a neutral site of data-gathering. How can archives be distorted? How do they get that way? Is it possible for a historian using archives to be accurate in terms of reporting about the past?
+- We've talked about the difficulties of objectivity and truth in history, and this article explains how archives are far from a neutral site of data-gathering. How and why are archives distorted?
+- Given that they are the basis for history, is it possible for a historian using archives to be accurate in terms of reporting about the past?
+- We typically think of archives as in the background, but why should they be considered active shapers of society?
 "%}
 
 
