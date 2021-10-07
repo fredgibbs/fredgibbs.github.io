@@ -253,11 +253,11 @@ Since we're reading distinct chapters and more pages than usual per meeting, it 
 
 - 1: There's a lot of postmodernism summary from the last few weeks here. What have we seen before that was useful to have recapped? Did it clarify anything that was still a bit murky in your mind? What in this chapter was new from what we've covered so far?
 
-- 2: What is an "empirical" approach to history, and what does it presuppose about historical knowledge (and method)? What is the "postmodernist challenge" (as Fulbrook puts it) to history? How have postmodern critics and proponents alike failed to reconcile these (there is a distinct answer for each group)?
+- 2: What is an \"empirical\" approach to history, and what does it presuppose about historical knowledge (and method)? What is the "postmodernist challenge" (as Fulbrook puts it) to history? How have postmodern critics and proponents alike failed to reconcile these (there is a distinct answer for each group)?
 
 - 3: What is a paradigm as far as historians are concerned? Briefly (but not too briefly) summarize the different kinds of paradigms Fulbrook identifies (Implicit, Perspectival, Proper, Pidgin). Most importantly: why are paradigms so important for Fulbrook?
 
-One big picture question to keep in mind and that we'll discuss (which is answered in various ways across all three chapters): Why is Fulbrook writing this book? What is she trying to contribute to discussions about the "contested nature of historical knowledge"?
+One big picture question to keep in mind and that we'll discuss (which is answered in various ways across all three chapters): Why is Fulbrook writing this book? What is she trying to contribute to discussions about the \"contested nature of historical knowledge\"?
 
 "%}
 
