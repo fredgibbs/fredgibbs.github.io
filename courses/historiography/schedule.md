@@ -225,22 +225,44 @@ This is another classic article that can also feel a bit out of date, yet anothe
 
 ## Week 8
 
-### 11: TBD
+### 11 & 13: NO CLASS: Enjoy Fall Break!!!
 
-### 13: NO CLASS: Enjoy Fall Break!!!
+{% include alert.html class='info' title='Thanks!' text="
+Everyone has done a great job posting thoughtful reflections and contributing to invigorating discussions for this first half. The course is infinitely more interesting when everyone is putting in the work and sharing their perspectives, and that's clearly the case this semester. Thank you for your effort over the first half and I look forward to y'all keeping the bar high for the second half. You've earned a real fall break and a chance to recharge before diving into our _Historical Theory_ book. Have a great break and good luck with everything in the meantime.
+"%}
+
 
 {% include alert.html class='warning' title='Read ahead!' text="
-It's a busy week, but especially with the long weekend, it's a great time to start reading AHEAD in our next book and reduce what you have to do on Sunday night (when you won't want to do anything). Obviously there is a chunk of reading for Monday, but any additional reading you can do will make life much easier when we reconvene.
+It's a busy and tiring week (although not for this class), but the long weekend is a great time to get a jump on our book and reduce what you have to do on Sunday night (_when you won't want to do anything_). Obviously there is a chunk of reading for Monday, but any additional reading you can do before the semester resumes will make life much easier once it does.
 "%}
 
 
 ## Week 9
-This week we're starting our one book for the course. It's can be a bit theoretical and abstract at times (most of the time, TBH), but that challenge for us _is by design_. One of the aims of the course is that you can think abstractly about key issues in history and **broaden your ability to think abstractly about ANYthing**. That's what senior-level capstone seminars should do, in my opinion. There will be paragraphs or even pages where you will be confused about what the author is trying to say. It's true for me, too! Don't be discouraged if you feel you're not "getting it". It's not easy and it's not meant to be. We'll work through the main points in our discussion and I think you'll agree that once we work through it together, it gives us powerful new tools for interpreting not only history, but any kind of text (any everything is a text as we learned from postmodernism).
+This week we're starting our one book for the course. It's can be a bit theoretical and abstract at times (much of the time, TBH), but that challenge for us _is by design_. There will be paragraphs where you will be confused about what the author is trying to say. It's true for me, too! Don't be discouraged if you feel you're not "getting it". It's not easy and it's not meant to be. There are many names of historians that appear---some we've read about, some were merely mentioned, and some are totally new. Don't worry about specific names, but do understand the historiographical perspective they are meant to represent.
+
+We'll work through the main points in our discussion. I think you'll agree that once we do, you'll have powerful new tools for interpreting not only history, but any kind of text (and everything is a text, as we now know). One of the aims of the course is that you can think abstractly about key issues in history and **broaden your ability to think abstractly about ANYthing**. That's what senior-level capstone seminars should do, in my opinion.
+
 
 ### 18: _Historical Theory_ I
 - _Historical Theory_, 3--11 (Ch. 1: Introduction).
 - _Historical Theory_, 12--30 (Ch. 2: The Contested Nature of Historical Knowledge).
 - _Historical Theory_, 31--50 (Ch. 3: Historical Paradigms and Theoretical Traditions).
+
+{% include alert.html class='danger' title='Reading reflection' text="
+Since we're reading distinct chapters and more pages than usual per meeting, it may be easier to have specific goals in mind for each chapter rather than as a whole. I'm trying to balance specific and general prompts per our last discussion, so here are some questions to keep in mind, but feel free to go off script as long as you're still showing me the engagement with the chapters.
+
+- 1: There's a lot of postmodernism summary from the last few weeks here. What have we seen before that was useful to have recapped? Did it clarify anything that was still a bit murky in your mind? What in this chapter was new from what we've covered so far?
+
+- 2: What is an "empirical" approach to history, and what does it presuppose about historical knowledge (and method)? What is the "postmodernist challenge" (as Fulbrook puts it) to history? How have postmodern critics and proponents alike failed to reconcile these (there is a distinct answer for each group)?
+
+- 3: What is a paradigm as far as historians are concerned? Briefly (but not too briefly) summarize the different kinds of paradigms Fulbrook identifies (Implicit, Perspectival, Proper, Pidgin). Most importantly: why are paradigms so important for Fulbrook?
+
+One big picture question to keep in mind and that we'll discuss (which is answered in various ways across all three chapters): Why is Fulbrook writing this book? What is she trying to contribute to discussions about the "contested nature of historical knowledge"?
+
+"%}
+
+
+
 
 ### 20: _Historical Theory_ II
 - _Historical Theory_, 53--73 (Ch. 4: Beyond Metanarrative: Plots, Puzzles, and Plausibility).
@@ -266,10 +288,11 @@ This week we're starting our one book for the course. It's can be a bit theoreti
 
 ### 3: _Historical Theory_ VI
 - _Historical Theory_, 185--196 (Ch. 10: Conclusion).
-- Peruse the [Metahistory site](https://unm-historiography.github.io/metahistory/) again to remind yourself of the essays, their style, strengths and weaknesses. Pick an essay you want to edit according to the [Metahistory guide](metahistory-guide).
+- Peruse the [Metahistory site](https://unm-historiography.github.io/metahistory/) again to remind yourself of the essays, their style, strengths and weaknesses. Pick an essay you want to EDIT according to the [Metahistory guide](metahistory-guide).
 
 {% include alert.html class='info' title='In class' text="
 - _Historical Theory_ Wrap up discussion
+- _Metahistory_ Editing instructions
 "%}
 
 
@@ -333,7 +356,7 @@ Presentation on Digital History Projects: Past, Present, and Future
 
 
 ## Week 14
-### 22: NO CLASS: Work on your essay drafts!
+### 22: TBD
 
 ### 24: NO CLASS: Happy Thanksgiving!
 {% include alert.html class='danger' title='COMPLETE Drafts Due' text="
