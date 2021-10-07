@@ -11,7 +11,7 @@ section: schedule
 # Schedule of Readings and Assignments
 
 ### IN PROGRESS!
-This syllabus is a living document and changes occasionally, depending on what's going on in the course. If you print it out, you'll need to keep your paper version up to date with the online version. I will always announce important changes in class.
+This syllabus is a living document and changes occasionally, depending on what's going on in the course. If you print it out, you'll need to keep your paper version up to date with the online version. If you keep a browser tab open all semester, make sure you refresh it when you go to look up the next assignment and reflection prompt. I will always announce important changes in class.
 
 
 ## Required Readings
@@ -23,18 +23,21 @@ Besides the books, all readings that aren't already online (and some that are) w
 
 ## 1: Introductions
 
-### Jan 21
-Today we'll review the syllabus, course aims, assignments, Zotero, and general plan for the semester.
+### Jan 17 (MLK)
 
-#### Background to skim
+### Jan 19
+Today we'll review the syllabus, course aims, assignments, Zotero, and general plan for the semester. We'll also discuss the problematic nature of natural food.
+
+### Jan 21
 - [Feeding the World Today and Tomorrow: The Importance of Food Science and Technology](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1541-4337.2010.00127.x)
 
 
-### Jan 23
+### Jan 24
 **Some discussion questions for class:**  What do you think of Warner's definition of *processed food*? What are the aspirations of food scientists? How are economies of scale intimately tied to our understanding of natural food? What are key transportation developments that influenced what and how we eat? What's the difference between food grown in the ground and food produced in the lab? Does all food boil down to chemistry?
 
 - Melanie Warner, _Pandora's Lunchbox_, xiii--xix; 1--20 (Weird Science). This is a super quick read.
 - Jennifer Wallach, _How America Eats_, 89--100 (Chapter 4: Technology and Taste; notice the chapter goes to 110, so don't read the whole PDF).
+
 
 #### Background to skim
 - Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine* 34 (May 1887): 59--74.
