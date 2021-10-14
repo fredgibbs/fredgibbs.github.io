@@ -257,8 +257,6 @@ Since we're reading distinct chapters and more pages than usual per meeting, it 
 
 - 3: What is a paradigm as far as historians are concerned? Briefly (but not too briefly) summarize the different kinds of paradigms Fulbrook identifies (Implicit, Perspectival, Proper, Pidgin). Most importantly: why are paradigms so important for Fulbrook?
 
-One big picture question to keep in mind and that we'll discuss (which is answered in various ways across all three chapters): Why is Fulbrook writing this book? What is she trying to contribute to discussions about the \"contested nature of historical knowledge\"?
-
 "%}
 
 
@@ -267,7 +265,11 @@ One big picture question to keep in mind and that we'll discuss (which is answer
 ### 20: _Historical Theory_ II
 - _Historical Theory_, 53--73 (Ch. 4: Beyond Metanarrative: Plots, Puzzles, and Plausibility).
 
-
+{% include alert.html class='danger' title='Reading reflection' text="
+- Regarding the \"death of metanarrative\": What does Fulbrook mean by metanarrative? Why is it dead? Why does it matter?
+- Why does Fulbrook disagree with Jenkins? How does she refute his claim that history is essentially fiction?
+- Fulbrook says that historians are really just trying to solve puzzles. What puzzle is she trying to solve?
+"%}
 
 ## Week 10
 
