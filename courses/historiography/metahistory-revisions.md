@@ -52,6 +52,8 @@ When you are *completely* done editing, you need to get your local changes (in Y
 - Click the Green `New Pull Request` button.
 - GitHub will show you what changes you are making, line by line (a whole paragraph counts as a line). Verify that the changes are correct.
 - Click the Green `Create Pull Request` button.
+- You should see near the top a green message that says `Able to merge.` If you don't see that, you should just stop and let me know in class.
+- Otherwise, click the Green `Create Pull Request` button.
 
 
 ## You're done
