@@ -256,10 +256,7 @@ Since we're reading distinct chapters and more pages than usual per meeting, it 
 - 2: What is an \"empirical\" approach to history, and what does it presuppose about historical knowledge (and method)? What is the \"postmodernist challenge\" (as Fulbrook puts it) to history? How have postmodern critics and proponents alike failed to reconcile these (there is a distinct answer for each group)?
 
 - 3: What is a paradigm as far as historians are concerned? Briefly (but not too briefly) summarize the different kinds of paradigms Fulbrook identifies (Implicit, Perspectival, Proper, Pidgin). Most importantly: why are paradigms so important for Fulbrook?
-
 "%}
-
-
 
 
 ### 20: _Historical Theory_ II
@@ -271,11 +268,13 @@ Since we're reading distinct chapters and more pages than usual per meeting, it 
 - Fulbrook says that historians are really just trying to solve puzzles. What puzzle is she trying to solve?
 "%}
 
+
 ## Week 10
 
 ### 25: _Historical Theory_ III
 - _Historical Theory_, 74--97 (Ch. 5: Labelling the Parts: Categories and Concepts).
 - _Historical Theory_, 98--121 (Ch. 6: Looking for Clues).
+
 
 ### 27: _Historical Theory_ IV
 - _Historical Theory_, 122--140 (Ch. 7: Satisfying Curiosity).
@@ -288,32 +287,36 @@ Since we're reading distinct chapters and more pages than usual per meeting, it 
 - _Historical Theory_, 143--163 (Ch. 8: Representing the Past).
 - _Historical Theory_, 164--184 (Ch. 9: History and Partisanship).
 
+
 ### 3: _Historical Theory_ VI
 - _Historical Theory_, 185--196 (Ch. 10: Conclusion).
-- Peruse the [Metahistory site](https://unm-historiography.github.io/metahistory/) again to remind yourself of the essays, their style, strengths and weaknesses. Pick an essay you want to EDIT according to the [Metahistory guide](metahistory-guide).
+- Peruse [Metahistory](https://unm-historiography.github.io/metahistory/) again to remind yourself of the essays, their style, strengths, and weaknesses. Pick an essay you want to EDIT according to the [Metahistory guide](metahistory-guide), which is a guide to WRITING essays that you will use for your own, but also tells you what to look for when EDITING.
+
+{% include alert.html class='danger' title='Book reflection' text="
+- What did you think of _Historical Theory_? How was it most useful? Where was it too confusing? What questions did it leave unanswered? How might we have prepared for or approached the book differently?
+"%}
 
 {% include alert.html class='info' title='In class' text="
 - _Historical Theory_ Wrap up discussion
-- _Metahistory_ Editing instructions
+- _Metahistory_ revision assignments and editing instructions
 "%}
 
 
 
 ## Week 12
-### 8: Metahistory Review and Historiographical Research Methods
+### 8: _Metahistory_ Review and Historiographical Research Methods
 - No new reading
 
 {% include alert.html class='danger' title='Essay revisions due' text="
-Complete, commit, and create a pull request your edits. Please make sure you are following the [revision guide](revision-guide).
+- Carefully follow the directions for [setting up your _Metahistory_ repository](metahistory-setup).
+- Carefully follow the directions for [revising _Metahistory_](metahistory-revisions). This exercise walks you through the process of making and publishing changes.
+- As you revise, make sure you are referring to the checklist on [_Metahistory_ guide](metahistory-guide).
+- After you finish your revisions, commit them to your repository, and create a pull request for your edits. This is _exactly_ the same process you followed for the test edit.
 "%}
 
 {% include alert.html class='info' title='In class' text="
 What questions do we need to be asking to make _Metahistory_ most usable for students learning the basics of historiography?
-- What are the strengths and weaknesses of what's already there?
-- What you find to be lacking?
-- What kinds of topics aren't there that should be?
-- Where did you get confused in class and wished you had an essay to help you?
-- What topic do you want to write about?
+- What are the strengths and weaknesses of the essay you edited?
 "%}
 
 
@@ -381,7 +384,7 @@ Your essays will undergo peer review over the weekend, so you should have a **TO
 - No new readings. Today we read through and go over reader reports and general revision strategies.
 
 {% include alert.html class='danger' title='Reader Reports Due' text="
-Bring your TWO ~500 word critiques on TWO different essays. Review assignments are posted [in our repository](https://github.com/unm-historiography/2019-fall/blob/master/review-assignments.md). Focus on the big picture: framing, historiographical significance, and accessibility for the intended audience. Be sure you are thinking about the points raised in the [writing guide](https://unm-historiography.github.io/intro-guide/writing-guide).
+Bring your TWO ~500 word critiques on TWO different essays. Review assignments are posted [in our repository](https://github.com/unm-historiography/2021-fall/blob/master/review-assignments.md). Focus on the big picture: framing, historiographical significance, and accessibility for the intended audience. As you did for the previous critique, be sure you are thinking about and addressing what's in the [writing guide](metahistory-guide).
 "%}
 
 
