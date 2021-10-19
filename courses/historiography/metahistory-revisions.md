@@ -44,8 +44,15 @@ If you commit a file with a syntax error (a missing quote or something like that
 ## FINISH YOUR EDITS
 Save your work as you go! Let me know if you have any questions, and we also have class time for discussions.
 
-## Create a Pull Request  
-When you are *completely* done editing, you need to get your local changes (in YOUR repository) to the remote repository, which is the live _Metahistory_ site that everyone sees. A **pull request** in this context is like asking me, as owner of the _Metahistory_ repository you forked, to "pull" into the main (remote) repository the changes you made in your (local) repository. If I like your changes, I will "accept" the request and if I don't I will "reject" them. Of course I'm not going to reject well-intentioned changes. But this process prevents accidental updates from happening. Everything can be undone in any case.
+## Pull Requests
+When you are *completely* done editing, you need to get your local changes (in YOUR repository) to the remote repository, which is the live _Metahistory_ site that everyone sees. A **pull request** in this context is like asking me, as owner of the _Metahistory_ repository you forked, to "pull" into the main (remote) repository the changes you made in your (local) repository. If I like your changes, I will "accept" the request and if I don't I will "reject" them. Of course I'm not going to reject well-intentioned changes. But this process prevents inadvertent updates from happening to the live _Metahistory_ site.
+
+### How to create a pull request
+- Go to the homepage of YOUR _Metahistory_ repository, and click the `Pull Request` nav link near the top.
+- Click the Green `New Pull Request` button.
+- GitHub will show you what changes you are making, line by line (a whole paragraph counts as a line). Verify that the changes are correct.
+- Click the Green `Create Pull Request` button.
+
 
 ## You're done
 After you make the pull request, there's nothing else to do! If you notice that you missed a typo or something you can always make another change and another pull request. No problem!

@@ -25,9 +25,13 @@ In GitHub speak, **forking** means to create your own copy of someone else's rep
 ## Enable your website
 Now that you have a "local" copy of the repository, you can make it create a live site that shows you how the essays look online rather than just as Markdown text as we see in the repository. This is basically a clone of the existing _Metahistory_ website, except it is connected to your own repository.
 
-- Under the settings tab, scroll down to the `GitHub Pages` section (second from the bottom), and under `source`, change it from `none` to `main branch`. Scroll back down to the GitHub Pages section, and notice that it gives you a URL for YOUR LOCAL version of _Metahistory_. The URL will look like https://USERNAME.github.io/metahistory.
+- Click the `Settings` nav link near the top of the page
+- Click the `Pages` tab (second from the bottom) on the left nav
+- Click the box that says `None` and change it to `master`.
+- Click the `Save`  button.
+- Notice that it gives you a URL for YOUR LOCAL version of _Metahistory_. The URL will look like https://USERNAME.github.io/metahistory/.
 
-- Wait a few minutes for the site to build, then go to the above URL to see if everything is working. If there is no page, check back in a few minutes. If you've waited over 10 minutes and nothing shows up, something is wrong, and you'll need to review the above steps.
+- Wait about 10 minutes for the site to build, then go to the above URL to see if everything is working. If there is no page, check back a few minutes later. If you've waited over 20 minutes and nothing shows up, something is wrong, and you'll need to review the above steps.
 
 ## Do a test edit
 Move on to the [next instruction page on editing an existing page](metahistory-revisions), which you will do for your next assignment.
