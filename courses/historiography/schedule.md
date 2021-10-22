@@ -276,7 +276,7 @@ Since we're reading distinct chapters and more pages than usual per meeting, it 
 - _Historical Theory_, 98--121 (Ch. 6: Looking for Clues).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-For EACH chapter (so your reflection will have 2 distinct parts, and multiple paragraphs within each part), \"essentialize\" what Fulbrook is arguing without cutting out all the nuance. In other words, the challenge here is to generalize without over generalizing. Describe theoretical problem she presents, the different sides of the debate, and her resolution of the problem.
+For EACH chapter (so your reflection will have 2 distinct parts, and multiple paragraphs within each part), \"essentialize\" what Fulbrook is arguing without cutting out all the nuance. In other words, the challenge here is to generalize without over generalizing. Describe theoretical problem she presents, the different sides of the debate, and her resolution of the problem. Your reflection will be a little longer than normal to do this effectively, but as consolation there is no reflection due for Wednesday.
 
 Work assured that based on these difficult chapters, there is a LOT of room for interpretation, so there is no \"correct\" way of describing what she's saying.
 "%}
