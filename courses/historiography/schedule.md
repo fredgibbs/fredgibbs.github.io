@@ -286,6 +286,10 @@ Work assured that based on these difficult chapters, there is a LOT of room for 
 ### 27: _Historical Theory_ IV
 - _Historical Theory_, 122--140 (Ch. 7: Satisfying Curiosity).
 
+{% include alert.html class='danger' title='Reading quiz' text="
+- No reading reflection due today! Instead, we're going to have a reading quiz IN CLASS. With real paper. It's going to be fun. Study up!
+"%}
+
 
 
 ## Week 11
