@@ -305,9 +305,9 @@ Work assured that based on these difficult chapters, there is a LOT of room for 
 {% include alert.html class='danger' title='Reading reflection' text="
 As we've done a few times before, you'll have two separate sections in your reflection. Fill in the dots!
 
-FRIEND: How is historiography going?<br>
-YOU: Awesome! It's my favorite class.<br>
-FRIEND: What are you learning about?<br>
+FRIEND: How is historiography going?
+YOU: Awesome! It's my favorite class.
+FRIEND: What are you learning about?
 YOU: (big sigh) Well...today we read about the idea of representation in history.
 FRIEND: What a coincidence. I just ran into a postmodern critic of history who shouted two things at me and wandered off.
 YOU: Yeah postmodernists are weird.  What did he/she/they say?
@@ -340,7 +340,7 @@ _[Notice FRIEND is employing the common \"appeal to evidence\" fallacy that Fulb
 "%}
 
 {% include alert.html class='info' title='In class' text="
-- _Historical Theory_ Wrap up discussion
+- _Historical Theory_ Wrap up discussion: In defense of history.
 - _Metahistory_ revision assignments and editing instructions
 "%}
 
