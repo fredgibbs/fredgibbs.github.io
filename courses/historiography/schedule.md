@@ -278,7 +278,7 @@ Since we're reading distinct chapters and more pages than usual per meeting, it 
 {% include alert.html class='danger' title='Reading reflection' text="
 For EACH chapter (so your reflection will have 2 distinct parts, and multiple paragraphs within each part), restate and \"essentialize\" what Fulbrook is arguing without cutting out all the nuance. In other words, the challenge here is to generalize without over generalizing. Describe theoretical problem she presents, the different sides of the debate, and her resolution of the problem.
 
-** Make sure you are paraphrasing rather than quoting! ** 
+** Make sure you are paraphrasing rather than quoting! **
 
 Your reflection will be a little longer than normal to do this effectively, but as consolation there is no reflection due for Wednesday.
 
@@ -301,6 +301,34 @@ Work assured that based on these difficult chapters, there is a LOT of room for 
 ### 1: _Historical Theory_ V
 - _Historical Theory_, 143--163 (Ch. 8: Representing the Past).
 - _Historical Theory_, 164--184 (Ch. 9: History and Partisanship).
+
+{% include alert.html class='danger' title='Reading reflection' text="
+As we've done a few times before, you'll have two separate sections in your reflection. Fill in the dots!
+
+FRIEND: How is historiography going?
+YOU: Awesome! It's my favorite class.
+FRIEND: What are you learning about?
+YOU: (big sigh) Well...today we read about the idea of representation in history.
+FRIEND: What a coincidence. I just ran into a postmodern critic of history who shouted two things at me and wandered off.
+YOU: Yeah postmodernists are weird.  What did he/she/they say?
+FRIEND: 1) historians assume they can represent the past more than they really can; 2) historians necessarily impose too much on their accounts of the past.
+YOU: My new hero Mary Fulbrook says that's not true.
+FRIEND: But they both seem pretty reasonable critiques. How do we really know what happened in the past? How can anyone possibly portray it accurately? And don't historians have to use a lot of imagination to tell a good story?  
+YOU: ...
+
+_[FRIEND is asking about two specific critiques and a few other pointed questions that are clearly at the heart of Chapter 8. Answer these as Fulbrook would (showing off your knowledge of the chapter) and highlight what **you** see as key issues about historical representation in general.]_
+
+FRIEND: Ah, I see how Fulbrook's theoretical approach is powerful. What else are you reading?
+YOU: (big sigh) Well...we also read about objectivity in history.
+FRIEND: Oh, do you have a quiz on it? I hear they're confusing.
+YOU: The professor thinks that true learning happens only when we try to resolve confusion, so we get a lot of practice. 
+FRIEND: Are you actually learning anything?
+YOU: I think about history totally differently now! I know I'm missing a lot, too, but that's how the class goes---it's OK if people learn different things.
+FRIEND: What did you learn about objectivity? I've read some history books that seem pretty objective and some that are obviously pretty biased. It seems like the more footnotes a book has, the more objective it is. Is that right?
+YOU: ...
+
+_[Notice FRIEND is employing the common \"appeal to evidence\" fallacy that Fulbrook is trying to put to bed in her book. Explain in lay (non-technical) terms how an interested reader of history (like FRIEND) should think about the question of historical objectivity (based on Fulbrook's Chapter 9, of course) and why thinking in terms of numbers of sources or citations and the like is misguided.]_
+"%}
 
 
 ### 3: _Historical Theory_ VI
