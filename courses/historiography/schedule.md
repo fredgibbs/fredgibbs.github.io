@@ -305,9 +305,9 @@ Work assured that based on these difficult chapters, there is a LOT of room for 
 {% include alert.html class='danger' title='Reading reflection' text="
 As we've done a few times before, you'll have two separate sections in your reflection. Fill in the dots!
 
-FRIEND: How is historiography going?
-YOU: Awesome! It's my favorite class.
-FRIEND: What are you learning about?
+FRIEND: How is historiography going?<br>
+YOU: Awesome! It's my favorite class.<br>
+FRIEND: What are you learning about?<br>
 YOU: (big sigh) Well...today we read about the idea of representation in history.
 FRIEND: What a coincidence. I just ran into a postmodern critic of history who shouted two things at me and wandered off.
 YOU: Yeah postmodernists are weird.  What did he/she/they say?
@@ -321,7 +321,7 @@ _[FRIEND is asking about two specific critiques and a few other pointed question
 FRIEND: Ah, I see how Fulbrook's theoretical approach is powerful. What else are you reading?
 YOU: (big sigh) Well...we also read about objectivity in history.
 FRIEND: Oh, do you have a quiz on it? I hear they're confusing.
-YOU: The professor thinks that true learning happens only when we try to resolve confusion, so we get a lot of practice. 
+YOU: The professor thinks that true learning happens only when we try to resolve confusion, so we get a lot of practice.
 FRIEND: Are you actually learning anything?
 YOU: I think about history totally differently now! I know I'm missing a lot, too, but that's how the class goes---it's OK if people learn different things.
 FRIEND: What did you learn about objectivity? I've read some history books that seem pretty objective and some that are obviously pretty biased. It seems like the more footnotes a book has, the more objective it is. Is that right?
