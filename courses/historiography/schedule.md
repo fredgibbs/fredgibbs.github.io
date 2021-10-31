@@ -333,10 +333,14 @@ _[Notice FRIEND is employing the common \"appeal to evidence\" fallacy that Fulb
 
 ### 3: _Historical Theory_ VI
 - _Historical Theory_, 185--196 (Ch. 10: Conclusion).
-- Peruse [Metahistory](https://unm-historiography.github.io/metahistory/) again to remind yourself of the essays, their style, strengths, and weaknesses. Pick an essay you want to EDIT according to the [Metahistory guide](metahistory-guide), which is a guide to WRITING essays that you will use for your own, but also tells you what to look for when EDITING.
+- Peruse [Metahistory](https://unm-historiography.github.io/metahistory/) again to remind yourself of the essays, their style, strengths, weaknesses. Pick an essay you want to REVISE according to the [Metahistory guide](metahistory-guide), which is a guide to WRITING essays that you will use for your own, but also tells you what to look for when revising. Note that revising here means making discrete and obvious improvements like fixing typos, standardizing citations, rewording overly-clunky sentences. You're not doing any research or extensive revisions.
 
 {% include alert.html class='danger' title='Book reflection' text="
+Another two part reflection for today.
+
 - What did you think of _Historical Theory_? How was it most useful? Where was it too confusing? What questions did it leave unanswered? How might we have prepared for or approached the book differently?
+
+- Describe Fulbrook's main point in ONE WORD. Really, just ONE WORD. But then write a short paragraph that describes what you mean and why you think that word is so central. Obviously no book can be adequately summarized in a single word, so let's all embrace the absurdity of this task as a fun way of highlighting and comparing in class the key theme/idea you found most compelling.
 "%}
 
 {% include alert.html class='info' title='In class' text="
