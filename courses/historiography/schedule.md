@@ -338,9 +338,9 @@ _[Notice FRIEND is employing the common \"appeal to evidence\" fallacy that Fulb
 {% include alert.html class='danger' title='Book reflection' text="
 Another two part reflection for today.
 
-- What did you think of _Historical Theory_? How was it most useful? Where was it too confusing? What questions did it leave unanswered? How might we have prepared for or approached the book differently?
-
 - Describe Fulbrook's main point in ONE WORD. Really, just ONE WORD. But then write a short paragraph that describes what you mean and why you think that word is so central. Obviously no book can be adequately summarized in a single word, so let's all embrace the absurdity of this task as a fun way of highlighting and comparing in class the key theme/idea you found most compelling.
+
+- For lots of karma points, write a short letter to a future student of this class. What should they know before diving into _Historical Theory_? How can they approach it to get the most out of it? How was it most useful? Where was it too confusing? What questions did it leave unanswered?
 "%}
 
 {% include alert.html class='info' title='In class' text="
@@ -369,11 +369,17 @@ What questions do we need to be asking to make _Metahistory_ most usable for stu
 
 
 ### 10: Public History + Historiographical Research
+- Readings TBA
+
+{% include alert.html class='danger' title='Topic descriptions due' text="
+- Post to GitHub a short title and description of your intended _Metahistory_ essay.
+"%}
 
 {% include alert.html class='info' title='In class' text="
 - Challenges and necessity of public history
 - Basic research process that you should use for your essays. This ensures you will be selecting appropriate sources, and using and citing them appropriately.
 "%}
+
 
 {% include alert.html class='warning' title='Don\'t procrastinate with citations!' text="
 If you just write stuff down and don't bother citing where you found it, you will have to eventually hunt down all the page numbers and THAT'S A HUGE WASTE OF TIME. As someone who has wasted considerable time on just that, please take my advice: take time to make accurate references AS YOU WRITE.
