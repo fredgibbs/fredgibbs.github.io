@@ -351,18 +351,18 @@ Another two part reflection for today.
 
 
 ## Week 12
-### 8: _Metahistory_ Review
-No new reading! NOTE NEW INSTRUCTIONS POSTED AFTER CLASS ON NOV 3!
+### 8: _Metahistory_ Revisions
+NOTE NEW INSTRUCTIONS POSTED AFTER CLASS ON NOV 3!
 
-The original assignment was to post your revisions, but we had so much fun wrapping up with Fulbrook, that we didn't have enough time to cover all the directions. And more people than usual weren't able to be in class. So we're shifting work forward a little bit. You should do as much revision as you can on your essay for Monday following directions below. We'll talk Monday about how to post it for Wednesday.
+The original assignment was to post your revisions, but we had so much fun (according to me) wrapping up with Fulbrook, that we didn't have enough time to cover all the directions. And more people than usual weren't able to be in class. So we're shifting work forward a little bit. You should do as much revision as you can on your essay for Monday following directions below. We'll talk Monday about how to officially post it for Wednesday.
 
 {% include alert.html class='danger' title='Start your essay revisions' text="
 
 - Become very familiar with the [_Metahistory_ guide](metahistory-guide). This is mostly for _writing_ your essay, but it gives you a good idea what to be thinking about when you revise as well.
 - In order to begin editing, you'll need to get the essay from Github. To do that,
   - Go to the [_Metahistory_ repository](https://github.com/unm-historiography/metahistory).
-  - Find your essay in the `essays` folder (note the essays are sorted by chronological period and can also figure this out from the URL of the actual essay )
-  - Click on the filename of your essay (like how you read other people's reflections (or your own) for class)
+  - Find your essay in the `essays` folder (note the essays are sorted by chronological period and can also figure this out from the URL of the actual essay).
+  - Click on the filename of your essay (like how you read other people's reflections (or your own) for class).
   - Click the pencil icon to bring up the raw \"code\" for your essay.
   - Copy and paste THE WHOLE ESSAY into a text editor (or even [shudder] MS Word) or however you create your reading reflections and save your work as you go.
    - Getting the WHOLE essay is crucial since it saves a lot of confusion later on.
@@ -381,19 +381,18 @@ The original assignment was to post your revisions, but we had so much fun wrapp
 ### 10: Public History + Historiographical Research
 - Readings TBA
 
-
+{% include alert.html class='danger' title='Revisions due' text="
 - Carefully follow the directions for [setting up your _Metahistory_ repository](metahistory-setup).
 - Carefully look the directions for [revising _Metahistory_](metahistory-revisions). This exercise walks you through the process of making and publishing changes.
-- After you finish your revisions, commit them to your repository, and create a pull request for your edits. This is _exactly_ the same process you followed for the test edit.
-
-
+- After you finish your revisions, commit them to your repository, and create a pull request for your edits.
+"%}
 
 {% include alert.html class='danger' title='Topic descriptions due' text="
 - Post to GitHub a short title and description of your intended _Metahistory_ essay.
 "%}
 
 {% include alert.html class='info' title='In class' text="
-- Challenges and necessity of public history
+- Challenges and necessity of public history (esp after Fulbrook)
 - Basic research process that you should use for your essays. This ensures you will be selecting appropriate sources, and using and citing them appropriately.
 "%}
 
@@ -425,7 +424,8 @@ Your bibliographies should include a minimum of 10 sources relevant to your topi
 "%}
 
 {% include alert.html class='info' title='In class' text="
-Presentation on Digital History Projects: Past, Present, and Future
+- Peer review of annotated bibliographies
+- Presentation on Digital History Projects: Past, Present, and Future
 "%}
 
 
