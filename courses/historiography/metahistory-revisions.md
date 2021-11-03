@@ -11,7 +11,7 @@ section: links-guides
 
 This guide is useful ONLY AFTER you have followed the directions for [setting up your _Metahistory_ repository](metahistory-setup).
 
-Once you have your own copy of the _Metahistory_ repository AND you can see the functioning website based on YOUR repository in YOUR GitHub account (the URL will look like https://github.com/USERNAME/metahistory/), you are ready to proceed.
+Once you have your own copy of the _Metahistory_ repository AND you can see the functioning website based on YOUR repository in YOUR GitHub account (the URL will look like https://USERNAME.github.io/metahistory/), you are ready to proceed.
 
 ### Save time with bookmarks
 Create bookmarks in your browser for two locations you will be visiting often:
@@ -19,6 +19,8 @@ Create bookmarks in your browser for two locations you will be visiting often:
 - YOUR own _Metahistory_ WEBSITE: https://USERNAME.github.io/metahistory
 
 ## Create a new page
+Go to YOUR Metahistory repository homepage. If you have just enabled GitHub pages (or basically anytime), you can click the "metahistory" link after your username near the top left corner. You should see the list of files in the repository (starting with folders like _data and _includes).
+
 Working in YOUR repository (the URL will look like https://github.com/USERNAME/metahistory/), find the essay you want to edit. You can always figure out where to go by looking at the URL of the original page. The folder structure in the repository is reflected in the URL.
 
 ## Make a simple change near the top of the page
@@ -31,7 +33,7 @@ It doesn't matter what you change, but keep it simple and make a change that you
 ## Edit away, edit offline
 Now you are ready to go in full-on edit mode for your essay. **Please do not edit this long essay in the tiny GitHub text editor** window that has worked well enough to submit reading responses. It makes it WAY TOO EASY to make mistakes that take a LOT OF TIME to fix. You can also lose a lot of work because of a network or power glitch.
 
-You should copy and paste the whole essay to somewhere else, do all your editing (possibly over a period of time, saving a local copy as you go), then commit your changes. You are welcome to commit them in smaller batches, such as one paragraph at a time.
+You should copy and paste the whole essay to somewhere else, do all your editing (possibly over a period of time, saving a local copy as you go), then commit your changes. **Make sure you save your file with the EXACT same name as the original.** You are welcome to commit your changes in smaller batches, as well, such as one paragraph at a time.
 
 For editing, use:
 - [Atom](http://atom.io)

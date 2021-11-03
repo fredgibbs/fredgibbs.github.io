@@ -19,7 +19,7 @@ In GitHub speak, **forking** means to create your own copy of someone else's rep
 
 - Go to the [Metahistory repository](https://github.com/unm-historiography/metahistory), and click the `Fork` button in the upper right corner (don't click the number).
 - You'll see a popup window asking you where you want to fork it, and you'll click on your username (you should only have one choice).
-- You'll see the page refresh very quickly.
+- You'll see the page refresh within 5-10 seconds.
 - Notice the URL! It looks like nothing on the page changed, but you are now looking at the _Metahistory_ repository that is **UNDER YOUR OWN ACCOUNT**. This is evident from the URL and the top left of the GitHub page. The live repository will always have `unm-historiography` in the URL, and the URL for your "fork" of it will have your GitHub username. Either way, the list of files looks exactly the same (for now). One terminology point here: the actual live repository at `unm-historiography` is the **remote** repository; the one you have under your own GitHub account is the **local** repository.
 
 ## Enable your website
@@ -30,6 +30,7 @@ Now that you have a "local" copy of the repository, you can make it create a liv
 - Click the box that says `None` and change it to `master`.
 - Click the `Save`  button.
 - Notice that it gives you a URL for YOUR LOCAL version of _Metahistory_. The URL will look like https://USERNAME.github.io/metahistory/.
+- Keep this tab open in your browser, as you'll need it in the next few steps.
 
 - Wait about 10 minutes for the site to build, then go to the above URL to see if everything is working. If there is no page, check back a few minutes later. If you've waited over 20 minutes and nothing shows up, something is wrong, and you'll need to review the above steps.
 

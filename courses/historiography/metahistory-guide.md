@@ -76,7 +76,10 @@ Augustine's _City of God_ made history of human affairs seem less important beca
 
 
 ## Images
-Even if somewhat gratuitous, images make the essays WAY more interesting. Include 3--5 relevant images that you can freely use (from sites like [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)). When revising another essay with too few images, think how you might augment what's already there. Feel free to replace images that seem too far afield from the essay's topic.
+Even if somewhat gratuitous, images make the essays WAY more interesting. Include 3--5 relevant images that you can freely use (from sites like [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)).
+
+Don't worry about images when doing the revision assignment, since we'll cover those later.
+
 
 ### Image Captions
 For all images (new or existing), make sure they have **informative** captions that explicitly connect the image to the topic of the. Good captions might be two or three (short) sentences long and make an important point that is fleshed out in the essay. **Readers should be able to understand some of the most important points in your essay just by reading captions!** And hopefully they will be intrigued enough to read the essay itself.
