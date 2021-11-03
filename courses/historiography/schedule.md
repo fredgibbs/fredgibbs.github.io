@@ -351,25 +351,42 @@ Another two part reflection for today.
 
 
 ## Week 12
-### 8: _Metahistory_ Review and Historiographical Research Methods
-- No new reading
+### 8: _Metahistory_ Review
+No new reading! NOTE NEW INSTRUCTIONS POSTED AFTER CLASS ON NOV 3!
 
-{% include alert.html class='danger' title='Essay revisions due' text="
-- Carefully follow the directions for [setting up your _Metahistory_ repository](metahistory-setup).
-- Carefully follow the directions for [revising _Metahistory_](metahistory-revisions). This exercise walks you through the process of making and publishing changes.
-- As you revise, make sure you are referring to the checklist on [_Metahistory_ guide](metahistory-guide).
-- After you finish your revisions, commit them to your repository, and create a pull request for your edits. This is _exactly_ the same process you followed for the test edit.
+The original assignment was to post your revisions, but we had so much fun wrapping up with Fulbrook, that we didn't have enough time to cover all the directions. And more people than usual weren't able to be in class. So we're shifting work forward a little bit. You should do as much revision as you can on your essay for Monday following directions below. We'll talk Monday about how to post it for Wednesday.
+
+{% include alert.html class='danger' title='Start your essay revisions' text="
+
+- Become very familiar with the [_Metahistory_ guide](metahistory-guide). This is mostly for _writing_ your essay, but it gives you a good idea what to be thinking about when you revise as well.
+- In order to begin editing, you'll need to get the essay from Github. To do that,
+  - Go to the [_Metahistory_ repository](https://github.com/unm-historiography/metahistory).
+  - Find your essay in the `essays` folder (note the essays are sorted by chronological period and can also figure this out from the URL of the actual essay )
+  - Click on the filename of your essay (like how you read other people's reflections (or your own) for class)
+  - Click the pencil icon to bring up the raw \"code\" for your essay.
+  - Copy and paste THE WHOLE ESSAY into a text editor (or even [shudder] MS Word) or however you create your reading reflections and save your work as you go.
+   - Getting the WHOLE essay is crucial since it saves a lot of confusion later on.
+  - Revise! Revise! Revise! PRO TIP: Revising is *much* more effective if done in several small chunks rather than one long session.
+  - We will talk about how to make these changes \"official\" in class. Just focus on the actual revisions.
 "%}
 
 {% include alert.html class='info' title='In class' text="
-What questions do we need to be asking to make _Metahistory_ most usable for students learning the basics of historiography?
+- What concepts should we be better explaining to make _Metahistory_ most usable for students learning the basics of historiography?
 - What are the strengths and weaknesses of the essay you edited?
+- You've been editing \"offline\". We'll cover how to get your revisions onto the actual _Metahistory_ site.
 "%}
 
 
 
 ### 10: Public History + Historiographical Research
 - Readings TBA
+
+
+- Carefully follow the directions for [setting up your _Metahistory_ repository](metahistory-setup).
+- Carefully look the directions for [revising _Metahistory_](metahistory-revisions). This exercise walks you through the process of making and publishing changes.
+- After you finish your revisions, commit them to your repository, and create a pull request for your edits. This is _exactly_ the same process you followed for the test edit.
+
+
 
 {% include alert.html class='danger' title='Topic descriptions due' text="
 - Post to GitHub a short title and description of your intended _Metahistory_ essay.
