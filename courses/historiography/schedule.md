@@ -352,7 +352,7 @@ Another two part reflection for today.
 
 ## Week 12
 ### 8: _Metahistory_ Revisions
-- no new reading
+- No new reading! Note that [answers to the quiz](quiz-answers) have been posted for the morbidly cuirious.
 
 The original assignment for today was to post your revisions, but we had so much fun (according to me) wrapping up with Fulbrook, that we didn't have enough time to cover all the directions. And more people than usual weren't able to be in class. So we're shifting work forward a little bit. You should do as much revision as you can on your essay for Monday following directions below. We'll talk on Monday about how to officially publish your changes for Wednesday.
 
@@ -363,7 +363,7 @@ The original assignment for today was to post your revisions, but we had so much
   - Go to the [_Metahistory_ repository](https://github.com/unm-historiography/metahistory). You can view all the files, but you don't have permissions to edit anything directly.
   - Find your essay in the `essays` folder (note the essays are sorted by chronological period and you can also figure this out from the URL of the actual essay).
   - Click on the filename of your essay (like how you read other people's reflections [or your own] for class).
-  - Click the pencil icon to bring up the raw \"code\" for your essay. **You have to get the code instead of just copying the text from the actual webpage where we read the essays online!**
+  - Click the `Raw` button to bring up the raw \"code\" for your essay. **You have to get the code instead of just copying the text from the actual webpage where we read the essays online!**
   - Copy and paste THE WHOLE ESSAY into a text editor (or even [shudder] MS Word---however you create your reading reflections is fine. **Getting the WHOLE essay is crucial since it saves a lot of confusion later on.**
   - Revise! Revise! Revise! PRO TIP: Revising is *much* more effective if done in several small chunks rather than one long session.
   - We will talk about how to publish your revisions in class on Monday. Just focus on the actual revisions over the weekend.
@@ -390,7 +390,7 @@ The original assignment for today was to post your revisions, but we had so much
 - Address any technical issues with publishing your revisions
 - Go over the basic research process that you should use for your essays. This ensures you will be selecting appropriate sources, and using and citing them appropriately.
 - How to use Zotero to keep organized
-- Note descriptions are due next week
+- Note your essay titles and descriptions are due next Wednesday; annotated bibliographies are due the following Monday. Please stay on schedule!
 "%}
 
 {% include alert.html class='warning' title='Stay organized!' text="
