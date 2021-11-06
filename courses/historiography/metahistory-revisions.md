@@ -38,7 +38,7 @@ You should copy and paste the whole essay to somewhere else, do all your editing
 For editing, use:
 - [Atom](http://atom.io)
 - some other text editor
-- Dillinger[http://dillinger.io]
+- [Dillinger](http://dillinger.io)
 
 ## Page build errors
 If you commit a file with a syntax error (a missing quote or something like that), you will get an email saying there is a "page build error". Until you fix it, you won't see any subsequent changes you commit to your repository.
