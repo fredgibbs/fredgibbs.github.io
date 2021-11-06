@@ -378,7 +378,7 @@ The original assignment for today was to post your revisions, but we had so much
 
 
 ### 10: Historiographical Research
-- no new reading
+- No new reading.
 
 {% include alert.html class='danger' title='Revisions due' text="
 - Carefully follow the directions for [setting up your _Metahistory_ repository](metahistory-setup).
@@ -390,7 +390,7 @@ The original assignment for today was to post your revisions, but we had so much
 - Address any technical issues with publishing your revisions
 - Go over the basic research process that you should use for your essays. This ensures you will be selecting appropriate sources, and using and citing them appropriately.
 - How to use Zotero to keep organized
-- Note your essay titles and descriptions are due next Wednesday; annotated bibliographies are due the following Monday. Please stay on schedule!
+- Note that your essay titles and descriptions are due next Wednesday; annotated bibliographies are due the following Monday. Please stay on schedule!
 "%}
 
 {% include alert.html class='warning' title='Stay organized!' text="
@@ -408,10 +408,13 @@ When you find a quote or passage you want to use later, make sure to make note o
 
 {% include alert.html class='danger' title='Reading Reflection' text="
 - What are the tensions and challenges of doing public history?
-- Is international public history even possible?
-- It's easy to see how Fulbrook's advice may useful for public history, but what are the challenges of implementing what she's arguing in terms of public history.
+- Is international public history either desirable or possible?
+- It's easy to see how Fulbrook's advice may useful for public history practitioners, but what are the challenges of implementing what she's arguing in public history contexts? What are potential solutions?
 "%}
 
+{% include alert.html class='warning' title='Topic descriptions due next time' text="
+Your essay titles/topics and descriptions are DUE WEDNESDAY. Make sure you are doing research to get these done.
+"%}
 
 
 
@@ -426,7 +429,7 @@ When you find a quote or passage you want to use later, make sure to make note o
 "%}
 
 {% include alert.html class='danger' title='Topic descriptions due' text="
-- Post to GitHub a short title and paragraph-long description of your intended _Metahistory_ essay. You need to have started your research to do this effectively, but this is also a stepping stone towards your bibliography due on Monday.
+- Post to GitHub a short title and paragraph-long description of your intended _Metahistory_ essay. You need to have started your research to do this effectively, but this is also a stepping stone towards **your annotated bibliography due on Monday**.
 "%}
 
 
@@ -434,7 +437,7 @@ When you find a quote or passage you want to use later, make sure to make note o
 
 ## Week 14
 ### 22: Bibliography Review
-- no new reading
+- No new reading.
 
 {% include alert.html class='danger' title='Annotated Bibliographies Due' text="
 Your bibliographies should include a minimum of 7 sources relevant to your topic. You should aim for a range of both very specific and broader sources. They should be published in the last 20 years, unless you are citing a \"classic\" work that you are directly engaging with.
@@ -442,7 +445,7 @@ Your bibliographies should include a minimum of 7 sources relevant to your topic
 
 {% include alert.html class='info' title='In class' text="
 - Review of annotated bibliographies
-- Process for MAKING NEW ESSAYS in your repository! **<<- don't miss this**
+- Overview of process for MAKING NEW ESSAYS in your repository! **<< don't miss this**
 "%}
 
 
