@@ -352,7 +352,7 @@ Another two part reflection for today.
 
 ## Week 12
 ### 8: _Metahistory_ Revisions
-- No new reading! Note that [answers to the quiz](quiz-answers) have been posted for the morbidly cuirious.
+- No new reading! Note that [answers to the quiz](quiz-answers) have been posted for the morbidly curious.
 
 The original assignment for today was to post your revisions, but we had so much fun (according to me) wrapping up with Fulbrook, that we didn't have enough time to cover all the directions. And more people than usual weren't able to be in class. So we're shifting work forward a little bit. You should do as much revision as you can on your essay for Monday following directions below. We'll talk on Monday about how to officially publish your changes for Wednesday.
 
