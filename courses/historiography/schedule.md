@@ -352,11 +352,11 @@ Another two part reflection for today.
 
 ## Week 12
 ### 8: _Metahistory_ Revisions
-NOTE NEW INSTRUCTIONS POSTED AFTER CLASS ON NOV 3!
+- no new reading
 
-The original assignment was to post your revisions, but we had so much fun (according to me) wrapping up with Fulbrook, that we didn't have enough time to cover all the directions. And more people than usual weren't able to be in class. So we're shifting work forward a little bit. You should do as much revision as you can on your essay for Monday following directions below. We'll talk Monday about how to officially post it for Wednesday.
+The original assignment for today was to post your revisions, but we had so much fun (according to me) wrapping up with Fulbrook, that we didn't have enough time to cover all the directions. And more people than usual weren't able to be in class. So we're shifting work forward a little bit. You should do as much revision as you can on your essay for Monday following directions below. We'll talk on Monday about how to officially publish your changes for Wednesday.
 
-{% include alert.html class='danger' title='Start your essay revisions' text="
+{% include alert.html class='danger' title='Make progress with your essay revisions' text="
 
 - Become very familiar with the [_Metahistory_ guide](metahistory-guide). This is mostly for _writing_ your essay, but it gives you a good idea what to be thinking about when you revise as well.
 - In order to begin editing, you'll need to get the essay from Github. To do that,
@@ -377,8 +377,8 @@ The original assignment was to post your revisions, but we had so much fun (acco
 
 
 
-### 10: Public History + Historiographical Research
-- Readings TBA
+### 10: Historiographical Research
+- no new reading
 
 {% include alert.html class='danger' title='Revisions due' text="
 - Carefully follow the directions for [setting up your _Metahistory_ repository](metahistory-setup).
@@ -386,25 +386,36 @@ The original assignment was to post your revisions, but we had so much fun (acco
 - After you finish your revisions, commit them to your repository, and create a pull request for your edits.
 "%}
 
-{% include alert.html class='danger' title='Topic descriptions due' text="
-- Post to GitHub a short title and description of your intended _Metahistory_ essay.
-"%}
-
 {% include alert.html class='info' title='In class' text="
-- Challenges and necessity of public history (esp after Fulbrook)
-- Basic research process that you should use for your essays. This ensures you will be selecting appropriate sources, and using and citing them appropriately.
+- Address any technical issues with publishing your revisions
+- Go over the basic research process that you should use for your essays. This ensures you will be selecting appropriate sources, and using and citing them appropriately.
+- How to use Zotero to keep organized
+- Note descriptions are due next week
 "%}
 
+{% include alert.html class='warning' title='Stay organized!' text="
+As you begin research, stay organized and keep track of everything from the get go. Keep track of what you've looked at, what you need to, what you won't use, pages of specific texts you want to come back to, etc. Zotero is a great, if not the best, tool for this.
 
-{% include alert.html class='warning' title='Don\'t procrastinate with citations!' text="
-If you just write stuff down and don't bother citing where you found it, you will have to eventually hunt down all the page numbers and THAT'S A HUGE WASTE OF TIME. As someone who has wasted considerable time on just that, please take my advice: take time to make accurate references AS YOU WRITE.
+When you find a quote or passage you want to use later, make sure to make note of it. You will feel you can easily come back to it, but in reality you will forget where it was. And then eventually you'll end up WASTING TIME looking for stuff you already found. As someone who has wasted considerable time on just that, please learn from my own mistakes: take time to make accurate references AS YOU RESEARCH AND WRITE.
 "%}
 
 
 
 ## Week 13
 
-### 15: History as Data
+### 15: (digital) Public History
+- Thomas Cauvin, "New Field, Old Practices: Promises and Challenges of Public History", _Magazén_, 1 (2021). This is in our ZOTERO library (and be sure you log in to access the PDF or it will look like it's not there)!
+
+{% include alert.html class='danger' title='Reading Reflection' text="
+- What are the tensions and challenges of doing public history?
+- Is international public history even possible?
+- It's easy to see how Fulbrook's advice may useful for public history, but what are the challenges of implementing what she's arguing in terms of public history.
+"%}
+
+
+
+
+### 17: History as Data
 - SKIM: Margo Anderson, "Quantitative History", 246-59.
 - Laura Spinney, [History as a giant data set: how analysing the past could help save the future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
 
@@ -414,69 +425,81 @@ If you just write stuff down and don't bother citing where you found it, you wil
   - How does this suggestion problem solving through history conflict with uses of history as we've seen them so far in the course?
 "%}
 
-
-### 17: Digital History
-- No new readings, but you need to post your annotated bibliographies to GitHub for class discussion
-
-{% include alert.html class='danger' title='Annotated Bibliographies Due' text="
-Your bibliographies should include a minimum of 10 sources relevant to your topic. You should aim for a range of both very specific and broader sources. They should be published in the last 20 years, unless you are citing a \"classic\" work.
+{% include alert.html class='danger' title='Topic descriptions due' text="
+- Post to GitHub a short title and paragraph-long description of your intended _Metahistory_ essay. You need to have started your research to do this effectively, but this is also a stepping stone towards your bibliography due on Monday.
 "%}
 
-{% include alert.html class='info' title='In class' text="
-- Peer review of annotated bibliographies
-- Presentation on Digital History Projects: Past, Present, and Future
-"%}
 
 
 
 ## Week 14
-### 22: TBD
+### 22: Bibliography Review
+- no new reading
+
+{% include alert.html class='danger' title='Annotated Bibliographies Due' text="
+Your bibliographies should include a minimum of 7 sources relevant to your topic. You should aim for a range of both very specific and broader sources. They should be published in the last 20 years, unless you are citing a \"classic\" work that you are directly engaging with.
+"%}
+
+{% include alert.html class='info' title='In class' text="
+- Review of annotated bibliographies
+- Process for MAKING NEW ESSAYS in your repository! **<<- don't miss this**
+"%}
+
 
 ### 24: NO CLASS: Happy Thanksgiving!
-{% include alert.html class='danger' title='COMPLETE Drafts Due' text="
-No class today, but you must post by the end of the day a COMPLETE draft for your essay, which should be around at least 2000 words (with the final being 2500). With no reading assignment, this is obviously your focus, so DO IT WELL and save everyone (including your future self) headaches later.
+- **No class today!**
 
-'Draft' does not mean some half-baked sketch hastily thrown together so you have something to post. It means a COMPLETE FIRST VERSION that we can all respond to in a meaningful way. If your post is too hastily thrown together, you will need to revise and resubmit it immediately to get credit for completing the assignment.
-
-Your essays will undergo peer review over the weekend, so you should have a **TOTALLY COMPLETE** and REASONABLY POLISHED draft following the [writing guide](https://unm-historiography.github.io/intro-guide/writing-guide).
+{% include alert.html class='warning' title='Work on your drafts' text="
+No class today, but you must post by MONDAY MORNING a COMPLETE draft for your essay, which should be around at least 2000 words (with the final being 2500). Follow the [writing guide](https://unm-historiography.github.io/intro-guide/writing-guide), **DO IT WELL**, and save everyone (including your future self) headaches later. If your essay is late, you will miss out on peer review, including my own comments, and this almost guarantees that your final essay grade will be lower.
 "%}
 
 
 
 ## Week 15
 
-### 29: NO CLASS: Happy Post-Thanksgiving!
-- Find your essay review assignments for Wednesday's assignment HERE (link TBP).
+### 29: Draft reviews and review assignments
+
+{% include alert.html class='danger' title='COMPLETE Drafts Due' text="
+By 10am, like usual, post a COMPLETE draft for your essay, which should be around at least 2000 words (with the final being 2500). Follow the [writing guide](https://unm-historiography.github.io/intro-guide/writing-guide), **DO IT WELL**, and save everyone (including your future self) headaches later. **If your essay is late, you will miss out on peer review, including my own comments,** and this almost guarantees that your final essay grade will be lower.
+"%}
+
+{% include alert.html class='info' title='In class' text="
+- Today we're going to look at how to do the peer review assignment efficiently and effectively. Remember that your review work is part of your participation grade.
+- If you miss class, find your essay review assignments for Wednesday's assignment HERE (link TBP).
+"%}
+
+
 
 
 ### 1: Reader Reports
-- No new readings. Today we read through and go over reader reports and general revision strategies.
+- No new readings. Today you'll read through your reader reports and ask questions of your reviewers. We'll also go over general revision strategies.
 
 {% include alert.html class='danger' title='Reader Reports Due' text="
-Bring your TWO ~500 word critiques on TWO different essays. Review assignments are posted [in our repository](https://github.com/unm-historiography/2021-fall/blob/master/review-assignments.md). Focus on the big picture: framing, historiographical significance, and accessibility for the intended audience. As you did for the previous critique, be sure you are thinking about and addressing what's in the [writing guide](metahistory-guide).
+Post your TWO ~500 word critiques on TWO different essays. Review assignments are posted [in our repository](https://github.com/unm-historiography/2021-fall/blob/master/review-assignments.md). Focus on the big picture: framing, historiographical significance, and accessibility for the intended audience. As you did for the previous critique, be sure you are thinking about and addressing what's in the [writing guide](metahistory-guide).
 "%}
 
 
 
 ## Week 16
-### 6: Publishing your essay
-- No new readings.
+### 6: Last questions/comments and course wrap up
+- No new readings!
 
-{% include alert.html class='info' title='In class' text="
-- Review the steps necessary to publish your essay on the official _Metahistory_ site. This process is basically the same as when you committed your revisions a few weeks ago. There are a few additional concerns since you're making a NEW essay this time. Your final version must be posted by December 13.
+{% include alert.html class='danger' title='Final Answers' text="
+Maybe you've wanted answers in this course. Today, you get to make them. For our last brief discussion, amongst other things on the agenda for our FINAL MEETING, the Final Jeopardy category is Historiography. What's your answer? We'll see if we can come up with the correct question in class, so don't put it in your post!
 "%}
 
 
-
-### 8: Last questions/comments and course wrap up
-- No new readings.
-
 {% include alert.html class='info' title='In class' text="
-- Course Retrospective
 - What I hope you can do with historiography
-- Final essay revision advice
-- Final course reflection advice
+- _Metahistory_ revision advice
+- [Final course reflection](final-reflections) advice
+- Review the steps necessary to publish your essay on the official _Metahistory_ site. This process is basically the same as when you committed your revisions a few weeks ago.
+- Your final version must be posted by December 13.
 "%}
 
 
-## All revisions due by Dec 15!
+
+### 8: NO CLASS! REVISE! REVISE!! REVISE!!!
+
+
+## All revisions due by Dec 13!
