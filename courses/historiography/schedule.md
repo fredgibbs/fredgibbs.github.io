@@ -447,9 +447,9 @@ Your early annotated bibliographies are DUE WEDNESDAY. Make sure you are doing r
 - Overview of process for making and revising new essays in _your_ repository! **<< don't miss this**
 
 {% include alert.html class='danger' title='Extended Bibliographies Due' text="
-For this assignment, your bibliographies should grow to include a minimum of 7 sources relevant to your topic. You should aim for a range of both very specific and broader sources. They should be published in the last 20 years, unless you are citing a \"classic\" work that you are directly engaging with.
+For this assignment, your bibliographies should grow to include a minimum of 7 sources (all with ~150-word annotations) relevant to your topic. You should aim for a range of both very specific and broader sources. They should be published in the last 20 years, unless you are citing a \"classic\" work that you are directly engaging with.
 
-ALSO, you need to add an additional ~250 words (~2 small paragraphs) explaining how sources from the course are relevant to your topic. Use our course repository to remind yourself of what we've covered. Again, this work will funnel directly into your essays.
+ALSO, you need to add an additional ~250 words (~2--3 small paragraphs) explaining how sources from the course are relevant to your topic. Use our course repository to remind yourself of what we've covered! Again, this work will funnel directly into your essays.
 "%}
 
 
