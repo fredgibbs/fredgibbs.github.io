@@ -392,7 +392,7 @@ The original assignment for today was to post your revisions, but we had so much
 - Finalize _Metahistory_ topic assignments
 - Go over the basic research process that you should use for your essays. This ensures you will be selecting appropriate sources, and using and citing them appropriately.
 - How to use Zotero to keep organized
-- Note that your annotated early bibliographies are due next Wednesday; an extended version is due the following Monday. Research takes time! Stay on schedule!!
+- **Note that your annotated early bibliographies are due next Wednesday; an extended version is due the following Monday. Research takes time! Stay on schedule!!**
 "%}
 
 {% include alert.html class='warning' title='Stay organized!' text="
