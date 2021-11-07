@@ -364,7 +364,7 @@ The original assignment for today was to post your revisions, but we had so much
   - Find your essay in the `essays` folder (note the essays are sorted by chronological period and you can also figure this out from the URL of the actual essay).
   - Click on the filename of your essay (like how you read other people's reflections [or your own] for class).
   - Click the `Raw` button to bring up the raw \"code\" for your essay. **You have to get the code instead of just copying the text from the actual webpage where we read the essays online!**
-  - Copy and paste THE WHOLE ESSAY into a text editor (or even [shudder] MS Word---however you create your reading reflections is fine. **Getting the WHOLE essay is crucial since it saves a lot of confusion later on.**
+  - Copy and paste THE WHOLE ESSAY into a text editor (or even [shudder] MS Word)---however you create your reading reflections is fine. **Getting the WHOLE essay is crucial since it saves a lot of confusion later on.**
   - Revise! Revise! Revise! PRO TIP: Revising is *much* more effective if done in several small chunks rather than one long session.
   - We will talk about how to publish your revisions in class on Monday. Just focus on the actual revisions over the weekend.
 "%}
