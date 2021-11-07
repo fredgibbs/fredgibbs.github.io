@@ -447,7 +447,7 @@ Your early annotated bibliographies are DUE WEDNESDAY. Make sure you are doing r
 - Overview of process for making and revising new essays in _your_ repository! **<< don't miss this**
 
 {% include alert.html class='danger' title='Extended Bibliographies Due' text="
-For this assignment, your bibliographies should grow to include a minimum of 7 sources (all with ~150-word annotations) relevant to your topic. You should aim for a range of both very specific and broader sources. They should be published in the last 20 years, unless you are citing a \"classic\" work that you are directly engaging with.
+For this assignment, your bibliographies should grow to include a minimum of 8 sources (all with ~150-word annotations) relevant to your topic. You should aim for a range of both very specific and broader sources. They should be published in the last 20 years, unless you are citing a \"classic\" work that you are directly engaging with.
 
 ALSO, you need to add an additional ~250 words (~2--3 small paragraphs) explaining how sources from the course are relevant to your topic. Use our course repository to remind yourself of what we've covered! Again, this work will funnel directly into your essays.
 "%}
@@ -484,10 +484,8 @@ BY 10am (as always), post your TWO ~400-word critiques on TWO different essays [
 
 ## Week 16
 ### 6: Last questions/comments and course wrap up
-- No new readings!
-
 {% include alert.html class='danger' title='Final Answers' text="
-Maybe you've wanted answers in this course. Today, you get to make them. For our last brief discussion (amongst other things on the agenda for our FINAL MEETING) **the Final Jeopardy category is Historiography.** What's your answer? We'll see if we can come up with the correct question in class, so don't put it in your post!
+Maybe you've wanted answers in this course. Today, you get to make them. For your FINAL POST and our final brief discussion (amongst other things on the agenda for our FINAL MEETING) **the Final Jeopardy category is Historiography.** What's your answer? We'll see if we can come up with the correct question in class, so don't put it in your post!
 "%}
 
 
