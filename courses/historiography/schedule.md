@@ -406,7 +406,7 @@ When you find a quote or passage you want to use later, make sure to make note o
 ## Week 13
 
 ### 15: (digital) Public History
-- Thomas Cauvin, "New Field, Old Practices: Promises and Challenges of Public History", _Magazén_, 1 (2021). This is in our ZOTERO library (and be sure you log in to access the PDF or it will look like it's not there)!
+- Thomas Cauvin, "New Field, Old Practices: Promises and Challenges of Public History", _Magazén_, 1 (2021). This is in our ZOTERO library (and be sure you log in to access the PDF or it will look like it's not there)! Note there is a fair amount of detail in terms of the history of public history that we can ignore. Specific names and places are not important, but stay tuned into the larger point the author is trying to make in sketching out the history. 
 
 {% include alert.html class='danger' title='Reading Reflection' text="
 - What are the tensions and challenges of doing public history?
