@@ -445,6 +445,7 @@ Your early annotated bibliographies are DUE WEDNESDAY. Make sure you are doing r
 - Bibliography and research questions
 - IMAGES: gathering, uploading, captioning, adding to your essays **<< don't miss this**
 - Overview of process for making and revising new essays in _your_ repository! **<< don't miss this**
+- We'll be going over the [Image Directions](https://unm-historiography.github.io/metahistory/docs/loading-images), which I hope you will consult ahead of time.
 
 {% include alert.html class='danger' title='Extended Bibliographies Due' text="
 For this assignment, your bibliographies should grow to include a minimum of 8 sources (all with ~150-word annotations) relevant to your topic. You should aim for a range of both very specific and broader sources. They should be published in the last 20 years, unless you are citing a \"classic\" work that you are directly engaging with.
