@@ -6,6 +6,7 @@ number: HIST 491-001
 term: Fall 2021
 section: links-guides
 ---
+# _Metahistory_ images
 
 This page provides a summary of how to display images on your essay pages. The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to. You should already have the basic code block from the sample essay (from our class repository).
 
