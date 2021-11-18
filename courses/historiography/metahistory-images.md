@@ -42,10 +42,22 @@ It is much faster to drag and drop multiple files at once, since after you commi
 
 
 ## Image Code
-As you have already seen, we use a small block of code to help us keep the display of images and captions consistent and flexible. You already have this code in what you grabbed from the sample essay, but below you'll find explanations of what to change.
+As you have already seen, we use a small block of code to help us keep the display of images and captions consistent and flexible. You already have this code in the [sample file](https://github.com/unm-historiography/2021-fall/blob/main/metahistory-sample.md), and below you'll find explanations of what to change.
+
+Just for reference, here's a standard code block:
+{%raw%}{% include figure.html
+class="left"
+width="50%"
+caption="Obviously we need a 50% image somewhere."
+image-url="Augustine_Lateran.jpg"
+source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg"
+%}{%endraw%}
+
 
 ### Edit parameters CAREFULLY
-The parameters (class, width, caption) are self explanatory once you see the examples below, but note that:
+- `class` can be `left`, `right`, or `center`
+- `width` is a percent of the page width and can have any value (0--100), but usually less than 25% looks weird.
+- `caption` is obviously your caption, but remember we use these to inform the reader about main points of the image, not just describe the image.
 - `image-url` is the ONLY the filename of the image, with the appropriate extension (`.jpg`, `.png`, `.jpeg`, etc).
   - **Make sure the image filename as it appears in the code block and your repository MATCH EXACTLY, including capitalization.**
 - `source-url` is the URL of wherever you got the image. This is so people can go see the original and how it's published or perhaps get a different version.
