@@ -442,16 +442,22 @@ Your early annotated bibliographies are DUE WEDNESDAY. Make sure you are doing r
 
 ## Week 14
 ### 22: Bibliography Review
-- Bibliography and research questions
-- IMAGES: gathering, uploading, captioning, adding to your essays **<< don't miss this**
-- Overview of process for making and revising new essays in _your_ repository! **<< don't miss this**
-- We'll be going over the [Image Directions](https://unm-historiography.github.io/metahistory/docs/loading-images), which I hope you will consult ahead of time.
+No new reading for today, but please review your reflection from last Wednesday on quantitative history in preparation for discussion.
 
 {% include alert.html class='danger' title='Extended Bibliographies Due' text="
 For this assignment, your bibliographies should grow to include a minimum of 8 sources (all with ~150-word annotations) relevant to your topic. You should aim for a range of both very specific and broader sources. They should be published in the last 20 years, unless you are citing a \"classic\" work that you are directly engaging with.
 
 ALSO, you need to add an additional ~250 words (~2--3 small paragraphs) explaining how sources from the course are relevant to your topic. Use our course repository to remind yourself of what we've covered! Again, this work will funnel directly into your essays.
 "%}
+
+{% include alert.html class='info' title='In class' text="
+- Bibliography and research questions
+- IMAGES: gathering, uploading, captioning, adding to your essays **<< don't miss this**
+  - We'll be going over the [Image Directions](metahistory-images).
+- Overview of process for making and revising new essays in _your_ repository! **<< don't miss this**
+"%}
+
+
 
 
 
