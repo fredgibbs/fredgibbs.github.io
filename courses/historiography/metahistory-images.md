@@ -1,7 +1,10 @@
 ---
-title: Loading images
-layout: default
-date: 2021-11-17
+layout: syllabus
+course-title: Historiography
+course-slug: historiography
+number: HIST 491-001
+term: Fall 2021
+section: links-guides
 ---
 
 This page provides a summary of how to display images on your essay pages. The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to. You should already have the basic code block from the sample essay (from our class repository).
@@ -73,6 +76,7 @@ image-url="images/default.jpg" %}
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
+
 ---
 To embed the image above, we use:
 ```
@@ -89,7 +93,8 @@ To embed the image above, we use:
 You can alter the width of the image **as a percentage of our standard page width**. You can have them appear on the left, right, or center of the page.
 
 ### Half-width
-{% include figure.html class="left" width="50%" image-url="../../assets/images/Augustine_Lateran.jpg" source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg" caption="Obviously we need a 50% image somewhere with text wrapping around it."%}
+{% include figure.html class="left" width="50%" image-url="images/Augustine_Lateran.jpg" source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg" caption="Obviously we need a 50% image somewhere with text wrapping around it."
+%}
 
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
