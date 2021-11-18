@@ -54,7 +54,8 @@ The parameters (class, width, caption) are self explanatory once you see the exa
 ### Double check and commit your changes
 As you modify the image code blocks, double check that you have:
 - matching double quotation marks for all your parameters
-- not accidentally deleted one of the `{%` or `%}` brackets that signify the beginning and end of the code block.
+- not accidentally deleted one of the {%raw%}{%{%endraw%}
+ or {%raw%}%}{%endraw%} brackets that signify the beginning and end of the code block.
 - an EXACT match between your image filename and what's in the `image-url` field.
 
 
