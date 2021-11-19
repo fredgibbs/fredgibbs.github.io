@@ -8,7 +8,7 @@ section: links-guides
 ---
 # _Metahistory_ images
 
-This page provides a summary of how to display images on your essay pages. The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to. You should already have the basic code block from the sample essay (from our class repository).
+This page provides a summary of how to display images the way you'd like to on your essay pages. The gray boxes should show you exactly what code you need to use to achieve different effects, but mostly you're just adjusting parameters from the basic code block you already have in place from the sample essay (from our class repository).
 
 **• In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!**
 
@@ -19,7 +19,7 @@ This page provides a summary of how to display images on your essay pages. The g
 ## Image Preparation
 
 ### Find Images
-Because our work is not merely a class project but a publication (yay internet!), **we need to make sure we have sufficient permissions to use the images that we do** and provide a link back to the original. As a non-commercial education resource, the doctrine of fair use gives us a wide latitude for using images. But it's always best to use images for which the copyright and licensing permissions are very clear.
+Because our work is not merely a class project but an actual publication (yay internet!), **we need to make sure we have sufficient permissions to use the images that we do** and provide a link back to the original. As a non-commercial education resource, the doctrine of fair use gives us a wide latitude for using images. But it's always best to use images for which the copyright and licensing permissions are very clear.
 
 You don't need to restrict yourself to these, but below are some fun places to search that have a lot of historical images:
 
@@ -87,7 +87,7 @@ If you've waited more than 5 minutes and your image is still not appearing, you 
 ### Standard Usage
 {% include figure.html class="right" width="33%"
 caption="Mesa Vista Hall is **awesome**"
-image-url="images/default.jpg" %}
+image-url="courses/historiography/images/default.jpg" %}
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
@@ -108,7 +108,7 @@ To embed the image above, we use:
 You can alter the width of the image **as a percentage of our standard page width**. You can have them appear on the left, right, or center of the page.
 
 ### Half-width
-{% include figure.html class="left" width="50%" image-url="images/Augustine_Lateran.jpg" source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg" caption="Obviously we need a 50% image somewhere with text wrapping around it."
+{% include figure.html class="left" width="50%" image-url="courses/historiography/images/Augustine_Lateran.jpg" source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg" caption="Obviously we need a 50% image somewhere with text wrapping around it."
 %}
 
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
@@ -128,12 +128,12 @@ source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augusti
 ---
 
 ### Side by side
-{% include figure.html class="left" width="49%" image-url="courses/historiography/images/Herder.jpg" caption="Here's an image on the left."%}
+{% include figure.html class="left" width="48%" image-url="courses/historiography/images/Herder.jpg" caption="Here's an image on the left."%}
 
-{% include figure.html class="left" width="49%" image-url="courses/historiography/images/Johann.jpg" caption="Here's an image on the right."%}
+{% include figure.html class="left" width="48%" image-url="courses/historiography/images/Johann.jpg" caption="Here's an image on the right."%}
 
 ---
-To achieve two images side by side use (note the 49% width for each):
+To achieve two images side by side use (note the 49% (not 50!) width for each):
 ```
 {%raw%}
 {% include figure.html
