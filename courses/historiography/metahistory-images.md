@@ -128,9 +128,9 @@ source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augusti
 ---
 
 ### Side by side
-{% include figure.html class="left" width="49%" image-url="../../assets/images/Herder.jpg" caption="Here's an image on the left."%}
+{% include figure.html class="left" width="49%" image-url="courses/historiography/images/Herder.jpg" caption="Here's an image on the left."%}
 
-{% include figure.html class="left" width="49%" image-url="../../assets/images/Johann.jpg" caption="Here's an image on the right."%}
+{% include figure.html class="left" width="49%" image-url="courses/historiography/images/Johann.jpg" caption="Here's an image on the right."%}
 
 ---
 To achieve two images side by side use (note the 49% width for each):
@@ -158,7 +158,7 @@ source-url=""
 
 ### Full-width
 {% include figure.html class="img-center" width="100%" caption="Make sure your image is large enough to be 100% width or it will look grainy."  
-image-url="../../assets/images/Cleve-van_construction-tower-babel.jpg"
+image-url="courses/historiography/images/Cleve-van_construction-tower-babel.jpg"
 source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
 %}
 
@@ -170,7 +170,7 @@ To achieve the above full-width image, use:
   class="img-center"
   width="100%"
   caption="Make sure your image is large enough to be 100% width or it will look grainy."
-  image-url="Cleve-van_construction-tower-babel.jpg"
+  image-url="courses/historiography/Cleve-van_construction-tower-babel.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
   %}
 ```
@@ -188,11 +188,11 @@ To achieve the above full-width image, use:
       <h5>Mesa Vista Hall Construction</h5>
       <p>This place was on the fringe!</p>
     </div>
-      <img class="d-block w-100" src="../essays/images/mvh-construction.jpg" alt="First slide">
+      <img class="d-block w-100" src="courses/historiography/images/mvh-construction.jpg" alt="First slide">
     </div>
 
     <div class="carousel-item">
-      <img class="d-block w-100" src="../essays/images/mvh-floorplan.jpg" alt="Second slide">
+      <img class="d-block w-100" src="courses/historiography/images/mvh-floorplan.jpg" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>The original floorplan</h5>
         <p>This floorplan is clearer than anything you can find in MVH now</p>
@@ -200,7 +200,7 @@ To achieve the above full-width image, use:
     </div>
 
     <div class="carousel-item">
-      <img class="d-block w-100" src="../essays/images/mvh-history-stays.jpg" alt="Third slide">
+      <img class="d-block w-100" src="courses/historiography/images/mvh-history-stays.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>History Stays</h5>
         <p>The History Department didn't want to move to the new Humanities building, so "some remodeling was arranged."</p>
@@ -229,11 +229,11 @@ To achieve the above full-width image, use:
       <h5>Mesa Vista Hall Construction</h5>
       <p>This place was on the fringe!</p>
     </div>
-      <img class="d-block w-100" src="images/mvh-construction.jpg" alt="First slide">
+      <img class="d-block w-100" src="mvh-construction.jpg" alt="First slide">
     </div>
 
     <div class="carousel-item">
-      <img class="d-block w-100" src="images/mvh-floorplan.jpg" alt="Second slide">
+      <img class="d-block w-100" src="mvh-floorplan.jpg" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>The original floorplan</h5>
         <p>This floorplan is clearer than anything you can find in MVH now</p>
@@ -241,7 +241,7 @@ To achieve the above full-width image, use:
     </div>
 
     <div class="carousel-item">
-      <img class="d-block w-100" src="images/mvh-history-stays.jpg" alt="Third slide">
+      <img class="d-block w-100" src="mvh-history-stays.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>History Stays</h5>
         <p>The History Department didn't want to move to the new Humanities building, so "some remodeling was arranged."</p>
