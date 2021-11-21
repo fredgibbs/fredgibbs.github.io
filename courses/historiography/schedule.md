@@ -451,12 +451,15 @@ ALSO, you need to add an additional ~250 words (~2--3 small paragraphs) explaini
 "%}
 
 {% include alert.html class='info' title='In class' text="
+- History as data discussion
 - Bibliography and research questions
-- IMAGES: gathering, uploading, captioning, adding to your essays **<< don't miss this**
-  - We'll be going over the [image guide](metahistory-images).
-- Overview of process for making and revising new essays in _your_ repository! **<< don't miss this**
+- NEW ESSAYS: Overview of the process for making and revising new essays in _your_ repository! **<< don't miss this**
   - We'll be going over the [essay addition guide](metahistory-addition-guide).
   - **You need to have your essay publicly accessible to participate in the peer review process!**
+- IMAGES: Overview of the process for gathering, uploading, captioning, adding to your essays **<< don't miss this**
+  - We'll be going over the [image guide](metahistory-images).
+
+
 "%}
 
 
