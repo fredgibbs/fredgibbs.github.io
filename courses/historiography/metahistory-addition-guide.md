@@ -7,7 +7,7 @@ term: Fall 2021
 section: links-guides
 ---
 
-#_Metahistory_ Addition Guide
+# _Metahistory_ Addition Guide
 
 This guide is useful ONLY AFTER you have followed the directions for [setting up your _Metahistory_ repository](metahistory-setup) AND have done some [_Metahistory_ revisions](metahistory-revisions).
 
@@ -19,10 +19,10 @@ Create bookmarks in your browser for two locations you will be visiting often:
 - YOUR own _Metahistory_ WEBSITE: https://USERNAME.github.io/metahistory
 
 ## Grab the sample page
-- Similar to what you did when getting your page for revisions, grab the raw code for the [sample essay])https://github.com/unm-historiography/2021-fall/blob/main/metahistory-sample.md).
+- Similar to what you did when getting your page for revisions, grab the raw code for the [sample essay](https://github.com/unm-historiography/2021-fall/blob/main/metahistory-sample.md).
 - Working in YOUR repository (the URL will look like https://github.com/USERNAME/metahistory/), go into the `essays` folder **and appropriate subfolder for the time period or theme of your essay.**
 - Create a new page for your essay the same way you create posts for your reading responses.
-- Paste in the code from the [sample essay])https://github.com/unm-historiography/2021-fall/blob/main/metahistory-sample.md).
+- Paste in the code from the [sample essay](https://github.com/unm-historiography/2021-fall/blob/main/metahistory-sample.md).
 - Edit the header of your file (the metadata between the `---` marks at the top) to reflect your TITLE, SUBTITLE, NAME.
 - Also add one of the following to the `toc-section` field:
   - antiquity
