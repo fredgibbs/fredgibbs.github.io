@@ -13,17 +13,34 @@ This guide is useful ONLY AFTER you have followed the directions for [setting up
 
 Before proceeding, make sure you have your own copy of the _Metahistory_ repository, and you can see the functioning website based on YOUR repository in YOUR GitHub account (the URL will look like https://github.com/USERNAME/metahistory/).
 
+### Save time with bookmarks
+Create bookmarks in your browser for two locations you will be visiting often:
+- YOUR own _Metahistory_ REPOSITORY: https://github.com/USERNAME/metahistory/, replacing USERNAME with your GitHub username.
+- YOUR own _Metahistory_ WEBSITE: https://USERNAME.github.io/metahistory
 
-## Create a new page
-- Working in YOUR repository (the URL will look like https://github.com/USERNAME/metahistory/), go into the `essays` folder and appropriate subfolder, and create a new page for your essay the same way you create posts for your reading responses.
-- Copy and paste the standard page header from the Code Examples page or copy the code from an existing page.
-- Copy and paste the image code block from the Loading Images page. You want to get one image to appear, just to make sure you have working code for it. Then you can copy and paste that code wherever you want an image to appear.
-- Write a 1-2 paragraph abstract of what you'd intend to do in your essay. This is a starting point, not a final commitment.
-- Commit your new page and/or latest updates.
+## Grab the sample page
+- Similar to what you did when getting your page for revisions, grab the raw code for the [sample essay])https://github.com/unm-historiography/2021-fall/blob/main/metahistory-sample.md).
+- Working in YOUR repository (the URL will look like https://github.com/USERNAME/metahistory/), go into the `essays` folder **and appropriate subfolder for the time period or theme of your essay.**
+- Create a new page for your essay the same way you create posts for your reading responses.
+- Paste in the code from the [sample essay])https://github.com/unm-historiography/2021-fall/blob/main/metahistory-sample.md).
+- Edit the header of your file (the metadata between the `---` marks at the top) to reflect your TITLE, SUBTITLE, NAME.
+- Also add one of the following to the `toc-section` field:
+  - antiquity
+  - medieval
+  - early-modern
+  - enlightenment
+  - modern
+  - postmodern
+  - thematic
+- Commit your new page.
+
 
 ## Test your page
-- Wait a few minutes after you commit your file. Remember there is a few minutes lag between when you save your file and when those changes appear on the actual webpage.
-- Test your page by going to https://USERNAME.github.io/metahistory/ and navigating to your new page. If you can't find your page listed there, you may need to wait a little longer and refresh the page. If after 10 minutes your page does not appear, double check your page looks correct in your repository.
+- Remember there is a short lag between when you commit your file and when those changes appear on the actual webpage.
+- Test your page by going to https://USERNAME.github.io/metahistory (you bookmarked it, right?) and navigate to the page you edited.
+- If your page is not showing up in the table of contents, check the `toc-section` field. You can still get to your essay at: https://USERNAME.github.io/metahistory/essays/FOLDER/FILENAME, where FOLDER is the folder in which you created a new file, and FILENAME is the name of the file you edited.
+- **You need to have your essay publicly accessible to participate in the peer review process!**
+
 
 ## Page build errors
 If you commit a file with a syntax error (a missing quote or something like that), you will get an email saying there is a "page build error". Until you fix it, you won't see any subsequent changes you save on your online version.

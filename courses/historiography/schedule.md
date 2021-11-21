@@ -453,17 +453,21 @@ ALSO, you need to add an additional ~250 words (~2--3 small paragraphs) explaini
 {% include alert.html class='info' title='In class' text="
 - Bibliography and research questions
 - IMAGES: gathering, uploading, captioning, adding to your essays **<< don't miss this**
-  - We'll be going over the [Image Directions](metahistory-images).
+  - We'll be going over the [image guide](metahistory-images).
 - Overview of process for making and revising new essays in _your_ repository! **<< don't miss this**
+  - We'll be going over the [essay addition guide](metahistory-addition-guide).
+  - **You need to have your essay publicly accessible to participate in the peer review process!**
 "%}
-
-
 
 
 
 ### 24: NO CLASS: Happy Thanksgiving!
 {% include alert.html class='warning' title='Work on your drafts' text="
-No class today, but you must post by MONDAY MORNING  (~10am as usual) a COMPLETE draft for your essay, which should be around at least 2000 words (with the final being 2500). Follow the [writing guide](https://unm-historiography.github.io/intro-guide/writing-guide), **DO IT WELL**, and save everyone (especially your future self) headaches later. If your essay is late (emergencies excepted), you will miss out on peer review, including my own comments, and this almost guarantees that your final essay grade will be lower than it should be.
+No class today, but you must post by MONDAY MORNING  (~10am as usual) a COMPLETE draft for your essay, which should be around at least 2000 words (with the final being 2500). Follow the [writing guide](metahistory-guide), **DO IT WELL**, and save everyone (especially your future self) headaches later.
+
+**Be sure your draft is a complete and coherent essay!** Obviously you will do more work on your essays, lots of schematic notes or underdeveloped sections make effective critique impossible.
+
+**If your essay is late (emergencies excepted), you will miss out on peer review**, including my own comments, and this almost guarantees that your final essay grade will be lower than it would otherwise be.
 "%}
 
 
