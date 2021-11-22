@@ -37,11 +37,18 @@ Create bookmarks in your browser for two locations you will be visiting often:
 
 
 ## Test your page
-- Remember there is a short lag between when you commit your file and when those changes appear on the actual webpage.
-- Test your page by going to https://USERNAME.github.io/metahistory (you bookmarked it, right?) and navigate to the page you edited.
-- If your page is not showing up in the table of contents, check the `toc-section` field. You can still get to your essay at: https://USERNAME.github.io/metahistory/essays/FOLDER/FILENAME, where FOLDER is the folder in which you created a new file, and FILENAME is the name of the file you created.
 - **You MUST have your essay publicly accessible to participate in the peer review process!**
+- Test your page by going to https://USERNAME.github.io/metahistory (you bookmarked it, right?) and navigate to your page. Remember there is a short lag between when you commit your file and when those changes appear on the actual webpage.
+- If your page is not showing up in the left nav, check the `toc-section` parameter.
+  - Even if that's not working, you can still test/view your essay at: https://USERNAME.github.io/metahistory/essays/FOLDER/FILENAME, where FOLDER is the folder in which you created a new file, and FILENAME is the name of the file you created.
+
+### Troubleshootoing
+If your page never appears, check these in the following order:
+- Are you really tired or frustrated? Trust me, just take a break. It's WAY TOO EASY to miss little details when exhausted or in a hurry.
+- Make sure the URL you are trying to access matches the folder structure in your repository.
+- Double check your metadata at the top of the page is correct, including the `---` above AND below the data.
+- Double check that all the image code blocks are intact and you're not missing any brackets or quotes.
 
 
 ## Page build errors
-If you commit a file with a syntax error (a missing quote or something like that), you will get an email saying there is a "page build error". Until you fix it, you won't see any subsequent changes you save on your online version.
+If you commit a file with a syntax error (a missing quote or something like that), you should get an email from GitHub saying you have a "page build error". Until you fix it, you won't see any subsequent changes you save on your online version.
