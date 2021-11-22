@@ -40,6 +40,7 @@ It is much faster to drag and drop multiple files at once, since after you commi
 As you have already seen, we use a small block of code to help us keep the display of images and captions consistent and flexible. You already have this code in the starter essay, and below you'll find explanations of what to change.
 
 When editing code blocks:
+
 **• Make sure you take extreme care with your quotation marks and other coding symbols!**
 
 **• If you want to use double quotation marks `"` in your titles or captions, you need to have a backslash `\` right before each one. Like: `caption="my caption is \"so\" good."`**
@@ -70,10 +71,10 @@ source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augusti
 ### Double check and commit your changes
 As you modify the image code blocks, double check that you have:
 - matching double quotation marks for all your parameters
-- not accidentally deleted one of the {%raw%}{%{%endraw%}
- or {%raw%}%}{%endraw%} brackets that signify the beginning and end of the code block.
+- not accidentally deleted one of the `{%raw%}{%{%endraw%}`
+ or `{%raw%}%}{%endraw%}` brackets that signify the beginning and end of the code block.
 - an EXACT match (including case, hypens, etc) between your image filename saved in your repository and what's in the `image-url` field.
-- **REMEMBER: using a text editor like [Atom](atom.io) with the way it color codes markdown makes editing EASIER AND SAFER.**
+- **REMEMBER: using a text editor like [Atom](atom.io) (because it color codes markdown) makes editing EASIER, FASTER, AND SAFER.**
 
 ### Check your work
 If you modify an image code block and want to make sure the image is loading properly, you can test this the same way as you did your earlier revisions. Commit your changes, then wait a few minutes, then reload/refresh your essay's webpage. Your images should appear. If they do not, either you need to wait a little longer for your site to rebuild, or you made a mistake with the code. Better to wait a little more before experimenting with code changes, which might not be necessary.
@@ -81,14 +82,14 @@ If you modify an image code block and want to make sure the image is loading pro
 ### Troubleshooting
 If you've waited more than 5 minutes and your image is still not appearing, you probably made a typo somewhere and you have to find it and fix it.
 
-If you see the image code on your webpage, you most likely accidentally deleted one of the {%raw%}{%{%endraw%} or {%raw%}%}{%endraw%} symbols.
+- If you see the image code on your webpage, you most likely accidentally deleted one of the {%raw%}{%{%endraw%} or {%raw%}%}{%endraw%} symbols. Check for that first.
 
-If you see the missing image icon (<i class="fas fa-image"></i>), then you have a problem either the image not being in the right place, or the filename in your code does not match the actual file.
+- If you see the missing image icon (<i class="fas fa-image"></i>), then you have a problem either with the image not being in the right place, or the filename in your code does not match the actual file.
 
 The most common problem is a mismatch between image filename and what you put in the `image-url` field.
 - Make sure your code and the filename match EXACTLY, including capitalization, spaces, etc.
   - This includes the filename extension---it might be `jpg` or `jpeg` or `Jpg` or `GIF`.
-- Make sure your files are in the `/essays/images` folder.
+- Make sure your images files are in the `/essays/images` folder.
 - Double check your code for a missing quote or bracket.
 
 
@@ -131,7 +132,7 @@ To achieve the above half-width image, use:
 {%raw%}{% include figure.html
 class="left"
 width="50%"
-caption="Obviously we need a 50% image somewhere."
+caption="This image is sized to take up half the essay width because the width parameter is set to 50%"
 image-url="Augustine_Lateran.jpg"
 source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg"
 %}{%endraw%}
@@ -168,7 +169,7 @@ source-url=""
 
 
 ### Full-width
-{% include figure.html class="img-center" width="100%" caption="Make sure your image is large enough to be 100% width or it will look grainy."  
+{% include figure.html class="img-center" width="100%" caption="Set the width parameter to 100% to make images span the whole essay. This usually looks better when the image is much wider than tall. If your image looks gra"  
 image-url="courses/historiography/images/Cleve-van_construction-tower-babel.jpg"
 source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
 %}
