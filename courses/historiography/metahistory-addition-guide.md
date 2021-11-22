@@ -42,6 +42,7 @@ Create bookmarks in your browser for two locations you will be visiting often:
 - Test your page by going to https://USERNAME.github.io/metahistory (you bookmarked it, right?) and navigate to your page. Remember there is a short lag between when you commit your file and when those changes appear on the actual webpage.
 - If your page is not showing up in the left nav, check the `toc-section` parameter.
   - Even if that's not working, you can still test/view your essay at: https://USERNAME.github.io/metahistory/essays/FOLDER/FILENAME, where FOLDER is the folder in which you created a new file, and FILENAME is the name of the file you created.
+- Once you have a working page, add the URL of your essay to our [class list](https://github.com/unm-historiography/2021-fall/blob/main/metahistory-topics.md).
 
 ### Troubleshootoing
 If your page never appears, check these in the following order:
