@@ -21,7 +21,7 @@ This writing guide is a basically a checklist of things to keep in mind while yo
 - ~10--12 relevant sources, with correctly formatted [citations and bibliography](#references)
 - Shows significant research on your topic outside of course sources
 - Written in a clear, accessible style (no jargon) that follows the [Readability Checklist](#readability)
-- Properly submitted to the [GitHub repository](https://github.com/unm-historiography/metahistory)
+- Submitted (via pull request) By December 13. 
 
 
 ## General writing advice
