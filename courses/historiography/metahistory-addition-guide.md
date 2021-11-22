@@ -19,7 +19,7 @@ Create bookmarks in your browser for two locations you will be visiting often:
 - YOUR own _Metahistory_ WEBSITE: https://USERNAME.github.io/metahistory
 
 ## Grab the sample page
-- Similar to what you did when getting your page for revisions, grab the [raw code of the starter essay](https://raw.githubusercontent.com/unm-historiography/metahistory/master/essays/starter.md).
+- Similar to what you did when getting your page for revisions, grab the [raw code of the starter essay](https://raw.githubusercontent.com/unm-historiography/metahistory/master/essays/starter.md). (The web version of the starter is [here](https://unm-historiography.github.io/metahistory/essays/starter.html).)
 - Working in YOUR repository (the URL will look like https://github.com/USERNAME/metahistory/), go into the `essays` folder **and appropriate subfolder for the time period or theme of your essay.**
 - Create a new page for your essay the same way you create posts for your reading responses.
   - **Be sure your filename is all lower case and uses hyphens instead of spaces!**
@@ -40,8 +40,7 @@ Create bookmarks in your browser for two locations you will be visiting often:
 - Remember there is a short lag between when you commit your file and when those changes appear on the actual webpage.
 - Test your page by going to https://USERNAME.github.io/metahistory (you bookmarked it, right?) and navigate to the page you edited.
 - If your page is not showing up in the table of contents, check the `toc-section` field. You can still get to your essay at: https://USERNAME.github.io/metahistory/essays/FOLDER/FILENAME, where FOLDER is the folder in which you created a new file, and FILENAME is the name of the file you created.
-- Your page should look like the [starter page](https://unm-historiography.github.io/metahistory/essays/starter.html.)
-- **You need to have your essay publicly accessible to participate in the peer review process!**
+- **You MUST have your essay publicly accessible to participate in the peer review process!**
 
 
 ## Page build errors
