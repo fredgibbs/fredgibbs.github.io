@@ -19,11 +19,11 @@ Create bookmarks in your browser for two locations you will be visiting often:
 - YOUR own _Metahistory_ WEBSITE: https://USERNAME.github.io/metahistory
 
 ## Grab the sample page
-- Similar to what you did when getting your page for revisions, grab the raw code for the [sample essay](https://github.com/unm-historiography/2021-fall/blob/main/metahistory-sample.md).
+- Similar to what you did when getting your page for revisions, grab the raw code for the [sample essay](https://raw.githubusercontent.com/unm-historiography/metahistory/master/essays/starter.md).
 - Working in YOUR repository (the URL will look like https://github.com/USERNAME/metahistory/), go into the `essays` folder **and appropriate subfolder for the time period or theme of your essay.**
 - Create a new page for your essay the same way you create posts for your reading responses.
   - **Be sure your filename is all lower case and uses hyphens instead of spaces!**
-- Paste in the code from the [sample essay](https://github.com/unm-historiography/2021-fall/blob/main/metahistory-sample.md).
+- Paste in the code from the sample essay.
 - Edit the header of your file (the metadata between the `---` marks at the top) to reflect your TITLE, SUBTITLE, NAME.
 - Also add one of the following to the `toc-section` field:
   - antiquity
