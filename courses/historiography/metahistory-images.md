@@ -78,10 +78,19 @@ If you modify an image code block and want to make sure the image is loading pro
 
 ### Troubleshooting
 If you've waited more than 5 minutes and your image is still not appearing, you probably made a typo somewhere and you have to find it and fix it.
-- The most common problem is a mismatch between image filename and what you put in the `image-url` field.
-  - Double check you filename extension---it might be `jpg` or `jpeg` or `png`. - - - Make sure your code and the filename match EXACTLY, including capitalization.
-- Double check your code for a missing quote or bracket.
+
+If you see the image code on your webpage, you most likely accidentally deleted one of the ```{%``` or  ```%}``` symbols.
+
+If you see the missing image icon (<i class="fas fa-image"></i>), then you have a problem either the image not being in the right place, or the filename in your code does not match the actual file.
+
+The most common problem is a mismatch between image filename and what you put in the `image-url` field.
+- Make sure your code and the filename match EXACTLY, including capitalization, spaces, etc.
+  - This includes the filename extension---it might be `jpg` or `jpeg` or `Jpg` or `GIF`.
 - Make sure your files are in the `/essays/images` folder.
+- Double check your code for a missing quote or bracket.
+
+
+## Parameter Reference
 
 
 ### Standard Usage
