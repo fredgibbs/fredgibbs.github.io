@@ -79,7 +79,7 @@ If you modify an image code block and want to make sure the image is loading pro
 ### Troubleshooting
 If you've waited more than 5 minutes and your image is still not appearing, you probably made a typo somewhere and you have to find it and fix it.
 
-If you see the image code on your webpage, you most likely accidentally deleted one of the ```{%``` or  ```%}``` symbols.
+If you see the image code on your webpage, you most likely accidentally deleted one of the {%raw%}{%{%endraw%} or {%raw%}%}{%endraw%} symbols.
 
 If you see the missing image icon (<i class="fas fa-image"></i>), then you have a problem either the image not being in the right place, or the filename in your code does not match the actual file.
 
