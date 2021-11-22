@@ -312,60 +312,6 @@ Common
   /*
   /*****************************************************************************/
 
-  img {
-    padding:1em;
-  }
-
-  figure {
-    margin: 1.5em;
-    clear:both;
-    max-width: 40em;
-  }
-
-  figure p {
-    clear:both;
-    margin:0;
-  }
-
-  figure a {
-    text-decoration: none;
-    padding:0;
-    border:none;
-  }
-
-  figure img {
-    max-width:40em;
-    padding:0;
-    clear:both;
-  }
-
-  figure img.full {
-    width:100%;
-  }
-
-  figure img.icon {
-    margin:0;
-    width: 50px;
-  }
-
-  figcaption {
-    font-size: 80%;
-    text-align: right;
-    font-family: 'Roboto', sans-serif;
-    display:block;
-    margin:-.5em 2em 0em 0em;
-    line-height: 1.3em;
-  }
-
-  figcaption.raw {
-    font-size: 80%;
-    text-align: right;
-    font-family: 'Roboto', sans-serif;
-    display:block;
-    margin:.2em .5em 1em 0;
-  }
-
-
   figure {
     clear:none;
     margin-bottom:1rem;
