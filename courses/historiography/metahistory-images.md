@@ -8,7 +8,7 @@ section: links-guides
 ---
 # _Metahistory_ images
 
-This page is useful after you've completed the directions for [adding a new page](metahistroy-addition-guide). It describes the process for finding, renaming, committing, and displaying images on your fork of _Metahistory_.
+This page is useful after you've completed the directions for [adding a new page](metahistory-addition-guide). It describes the process for finding, renaming, committing, and displaying images on your fork of _Metahistory_.
 
 
 ## Image Preparation
