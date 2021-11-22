@@ -8,13 +8,8 @@ section: links-guides
 ---
 # _Metahistory_ images
 
-This page provides a summary of how to display images the way you'd like to on your essay pages. The gray boxes should show you exactly what code you need to use to achieve different effects, but mostly you're just adjusting parameters from the basic code block you already have in place from the sample essay (from our class repository).
+This page is useful after you've completed the directions for [adding a new page](metahistroy-addition-guide). It describes the process for finding, renaming, committing, and displaying images on your fork of _Metahistory_.
 
-**• In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!**
-
-**• If you want to use double quotation marks `"` in your titles or captions, you need to have a backslash `\` right before each one. Like: `caption="my caption is \"so\" good."`**
-
----
 
 ## Image Preparation
 
@@ -42,7 +37,14 @@ It is much faster to drag and drop multiple files at once, since after you commi
 
 
 ## Image Code
-As you have already seen, we use a small block of code to help us keep the display of images and captions consistent and flexible. You already have this code in the [sample file](https://github.com/unm-historiography/2021-fall/blob/main/metahistory-sample.md), and below you'll find explanations of what to change.
+As you have already seen, we use a small block of code to help us keep the display of images and captions consistent and flexible. You already have this code in the starter essay, and below you'll find explanations of what to change.
+
+When editing code blocks:
+**• Make sure you take extreme care with your quotation marks and other coding symbols!**
+
+**• If you want to use double quotation marks `"` in your titles or captions, you need to have a backslash `\` right before each one. Like: `caption="my caption is \"so\" good."`**
+
+
 
 Just for reference, here's a standard code block:
 ```
@@ -60,7 +62,7 @@ source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augusti
 - `width` is a percent of the page width and can have any value (0--100), but usually less than 25% looks weird.
 - `caption` is obviously your caption, but remember we use these to inform the reader about main points of the image, not just describe the image.
   - If you want to use DOUBLE QUOTES in your caption, you need to have a backslash in front of them, like `caption="This is my \"quote\" in my caption."`
-- `image-url` is the ONLY the filename of the image, with the appropriate extension (`.jpg`, `.png`, `.jpeg`, etc).
+- `image-url` is the ONLY the filename of the image, with the appropriate extension (`.jpg`, `.png`, `.jpeg`, `.Jpeg`, etc).
   - **Make sure the image filename as it appears in the code block and your repository MATCH EXACTLY, including capitalization.**
 - `source-url` is the URL of wherever you got the image. This is so people can go see the original and how it's published or perhaps get a different version.
 
@@ -71,7 +73,7 @@ As you modify the image code blocks, double check that you have:
 - not accidentally deleted one of the {%raw%}{%{%endraw%}
  or {%raw%}%}{%endraw%} brackets that signify the beginning and end of the code block.
 - an EXACT match (including case, hypens, etc) between your image filename saved in your repository and what's in the `image-url` field.
-
+- **REMEMBER: using a text editor like [Atom](atom.io) with the way it color codes markdown makes editing EASIER AND SAFER.**
 
 ### Check your work
 If you modify an image code block and want to make sure the image is loading properly, you can test this the same way as you did your earlier revisions. Commit your changes, then wait a few minutes, then reload/refresh your essay's webpage. Your images should appear. If they do not, either you need to wait a little longer for your site to rebuild, or you made a mistake with the code. Better to wait a little more before experimenting with code changes, which might not be necessary.
