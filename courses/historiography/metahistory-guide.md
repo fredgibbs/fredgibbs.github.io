@@ -16,12 +16,11 @@ Contributing an essay to the collection is not only an exercise in historiograph
 This writing guide is a basically a checklist of things to keep in mind while you're writing and revising. It is also a kind of checklist to use during the peer review process.
 
 ## Basics
-- ~2300 words
-- Shows significant research on your topic outside of course sources
-- Written in a clear, accessible style (no jargon); see below
-- Follows the [Readability Checklist](#readability)
+- ~2300--2500 words
 - 3-5 appropriate and well-captioned [images](#images)
-- Correctly formatted [citations and bibliography](#references); see below
+- ~10--12 relevant sources, with correctly formatted [citations and bibliography](#references)
+- Shows significant research on your topic outside of course sources
+- Written in a clear, accessible style (no jargon) that follows the [Readability Checklist](#readability)
 - Properly submitted to the [GitHub repository](https://github.com/unm-historiography/metahistory)
 
 

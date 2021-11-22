@@ -482,7 +482,7 @@ No class today, but you must post by MONDAY MORNING  (~10am as usual) a COMPLETE
 - If you miss class, find your essay review assignments for Wednesday's assignment HERE (link TBP).
 
 {% include alert.html class='danger' title='COMPLETE Drafts Due' text="
-By 10am, like usual, post a COMPLETE draft for your essay, which should be around at least 2000 words (with the final being 2500). Follow the [writing guide](https://unm-historiography.github.io/intro-guide/writing-guide), **DO IT WELL**, and save everyone (including your future self) headaches later. **If your essay is late, you will miss out on peer review, including my own comments,** and this almost guarantees that your final essay grade will be lower.
+By 10am, like usual, post a COMPLETE draft for your essay, which should be around at least 2000 words (with the final being 2500) and 3 images (you'll need 3--5 for the final). Follow the [writing guide](https://unm-historiography.github.io/intro-guide/writing-guide), **DO IT WELL**, and save everyone (including your future self) headaches later. **If your essay is late, you will miss out on peer review, including my own comments,** and this almost guarantees that your final essay grade will be lower.
 "%}
 
 
