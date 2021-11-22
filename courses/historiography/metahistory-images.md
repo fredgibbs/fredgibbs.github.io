@@ -125,6 +125,10 @@ You can alter the width of the image **as a percentage of our standard page widt
 
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
+In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
+
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
+
 ---
 
 To achieve the above half-width image, use:
@@ -140,9 +144,9 @@ source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augusti
 ---
 
 ### Side by side
-{% include figure.html class="left" width="48%" image-url="courses/historiography/images/Herder.jpg" caption="Here's an image on the left."%}
+{% include figure.html class="left" width="49%" image-url="courses/historiography/images/Herder.jpg" caption="Here's an image on the left with 49% width."%}
 
-{% include figure.html class="left" width="48%" image-url="courses/historiography/images/Johann.jpg" caption="Here's an image on the right."%}
+{% include figure.html class="left" width="49%" image-url="courses/historiography/images/Johann.jpg" caption="Here's an image on the right with 49% width."%}
 
 ---
 To achieve two images side by side use (note the 49% (not 50!) width for each):
@@ -170,7 +174,7 @@ source-url=""
 
 
 ### Full-width
-{% include figure.html class="img-center" width="100%" caption="Set the width parameter to 100% to make images span the whole essay. This usually looks better when the image is much wider than tall. If your image looks grainy/blurry, get a higher resolution image or a new image."  
+{% include figure.html class="center" width="100%" caption="Set the width parameter to 100% to make images span the whole essay. This usually looks better when the image is much wider than tall. If your image looks grainy/blurry, get a higher resolution image or a new image."  
 image-url="courses/historiography/images/Cleve-van_construction-tower-babel.jpg"
 source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
 %}
@@ -180,7 +184,7 @@ To achieve the above full-width image, use:
 {%raw%}
 ```
 {% include figure.html
-  class="img-center"
+  class="center"
   width="100%"
   caption="Set the width parameter to 100% to make images span the whole essay. This usually looks better when the image is much wider than tall. If your image looks grainy/blurry, get a higher resolution image or a new image."
   image-url="Cleve-van_construction-tower-babel.jpg"
