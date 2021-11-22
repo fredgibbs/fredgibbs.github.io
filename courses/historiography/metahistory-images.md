@@ -123,7 +123,7 @@ You can alter the width of the image **as a percentage of our standard page widt
 {% include figure.html class="left" width="50%" image-url="courses/historiography/images/Augustine_Lateran.jpg" source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg" caption="This image is sized to take up half the essay width because the width parameter is set to 50%."
 %}
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
 ---
 
@@ -140,9 +140,9 @@ source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augusti
 ---
 
 ### Side by side
-{% include figure.html class="left" width="48%" image-url="courses/historiography/images/Herder.jpg" caption="Here's an image on the left."%}
+{% include figure.html class="left" width="48%" image-url="images/Herder.jpg" caption="Here's an image on the left."%}
 
-{% include figure.html class="left" width="48%" image-url="courses/historiography/images/Johann.jpg" caption="Here's an image on the right."%}
+{% include figure.html class="left" width="48%" image-url="images/Johann.jpg" caption="Here's an image on the right."%}
 
 ---
 To achieve two images side by side use (note the 49% (not 50!) width for each):
@@ -166,6 +166,7 @@ source-url=""
 
 {%endraw%}
 ```
+---
 
 
 ### Full-width
@@ -200,11 +201,11 @@ To achieve the above full-width image, use:
       <h5>Mesa Vista Hall Construction</h5>
       <p>This place was on the fringe!</p>
     </div>
-      <img class="d-block w-100" src="courses/historiography/images/mvh-construction.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/mvh-construction.jpg" alt="First slide">
     </div>
 
     <div class="carousel-item">
-      <img class="d-block w-100" src="courses/historiography/images/mvh-floorplan.jpg" alt="Second slide">
+      <img class="d-block w-100" src="images/mvh-floorplan.jpg" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>The original floorplan</h5>
         <p>This floorplan is clearer than anything you can find in MVH now</p>
@@ -212,7 +213,7 @@ To achieve the above full-width image, use:
     </div>
 
     <div class="carousel-item">
-      <img class="d-block w-100" src="courses/historiography/images/mvh-history-stays.jpg" alt="Third slide">
+      <img class="d-block w-100" src="images/mvh-history-stays.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>History Stays</h5>
         <p>The History Department didn't want to move to the new Humanities building, so "some remodeling was arranged."</p>
