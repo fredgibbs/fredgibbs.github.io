@@ -120,7 +120,7 @@ To embed the image above, we use:
 You can alter the width of the image **as a percentage of our standard page width**. You can have them appear on the left, right, or center of the page.
 
 ### Half-width
-{% include figure.html class="left" width="50%" image-url="courses/historiography/images/Augustine_Lateran.jpg" source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg" caption="Obviously we need a 50% image somewhere with text wrapping around it."
+{% include figure.html class="left" width="50%" image-url="courses/historiography/images/Augustine_Lateran.jpg" source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg" caption="This image is sized to take up half the essay width because the width parameter is set to 50%."
 %}
 
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
@@ -169,7 +169,7 @@ source-url=""
 
 
 ### Full-width
-{% include figure.html class="img-center" width="100%" caption="Set the width parameter to 100% to make images span the whole essay. This usually looks better when the image is much wider than tall. If your image looks gra"  
+{% include figure.html class="img-center" width="100%" caption="Set the width parameter to 100% to make images span the whole essay. This usually looks better when the image is much wider than tall. If your image looks grainy/blurry, get a higher resolution image or a new image."  
 image-url="courses/historiography/images/Cleve-van_construction-tower-babel.jpg"
 source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
 %}
@@ -181,7 +181,7 @@ To achieve the above full-width image, use:
 {% include figure.html
   class="img-center"
   width="100%"
-  caption="Make sure your image is large enough to be 100% width or it will look grainy."
+  caption="Set the width parameter to 100% to make images span the whole essay. This usually looks better when the image is much wider than tall. If your image looks grainy/blurry, get a higher resolution image or a new image."
   image-url="courses/historiography/Cleve-van_construction-tower-babel.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
   %}
