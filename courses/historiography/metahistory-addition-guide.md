@@ -25,7 +25,8 @@ Create bookmarks in your browser for two locations you will be visiting often:
   - **Be sure your filename is all lower case and uses hyphens instead of spaces!**
 - Paste in the code from the sample essay.
 - Edit the header of your file (the metadata between the `---` marks at the top) to reflect your TITLE, SUBTITLE, NAME.
-- Also add one of the following to the `toc-section` field:
+- Ignore the `toc-blurb` and `toc-image` fields for now.
+- To get your page to show on the left nav, find `toc-section` name and change the value to one of the following:
   - antiquity
   - medieval
   - early-modern
