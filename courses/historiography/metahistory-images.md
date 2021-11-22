@@ -143,6 +143,30 @@ source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augusti
 ```
 ---
 
+
+### Full-width
+{% include figure.html class="center" width="100%" caption="Set the width parameter to 100% to make images span the whole essay. This usually looks better when the image is much wider than tall. If your image looks grainy/blurry, get a higher resolution image or a new image."  
+image-url="courses/historiography/images/Cleve-van_construction-tower-babel.jpg"
+source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
+%}
+
+
+To achieve the above full-width image, use:
+{%raw%}
+```
+{% include figure.html
+  class="center"
+  width="100%"
+  caption="Set the width parameter to 100% to make images span the whole essay. This usually looks better when the image is much wider than tall. If your image looks grainy/blurry, get a higher resolution image or a new image."
+  image-url="Cleve-van_construction-tower-babel.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
+  %}
+```
+{%endraw%}
+
+---
+
+
 ### Side by side
 {% include figure.html class="left" width="49%" image-url="courses/historiography/images/Herder.jpg" caption="Here's an image on the left with 49% width."%}
 
@@ -173,27 +197,7 @@ source-url=""
 ---
 
 
-### Full-width
-{% include figure.html class="center" width="100%" caption="Set the width parameter to 100% to make images span the whole essay. This usually looks better when the image is much wider than tall. If your image looks grainy/blurry, get a higher resolution image or a new image."  
-image-url="courses/historiography/images/Cleve-van_construction-tower-babel.jpg"
-source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
-%}
 
-
-To achieve the above full-width image, use:
-{%raw%}
-```
-{% include figure.html
-  class="center"
-  width="100%"
-  caption="Set the width parameter to 100% to make images span the whole essay. This usually looks better when the image is much wider than tall. If your image looks grainy/blurry, get a higher resolution image or a new image."
-  image-url="Cleve-van_construction-tower-babel.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
-  %}
-```
-{%endraw%}
-
----
 
 ### Slide carousel
 
