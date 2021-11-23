@@ -491,7 +491,7 @@ By 10am, like usual, post a COMPLETE draft for your essay, which should be aroun
 Today you'll read through your reader reports and ask questions of your reviewers. We'll also go over general revision strategies.
 
 {% include alert.html class='danger' title='Reader Reports Due' text="
-BY 10am (as always), post your TWO ~400-word critiques on TWO different essays [in our repository](in the reader reports folder). Focus on the big picture: framing, historiographical significance, and accessibility for the intended audience. As you did for the previous critique, be sure you are thinking about and addressing what's in the [writing guide](metahistory-guide).
+BY 10am (as always), post your TWO ~400-word critiques on TWO different essays [in our repository](https://github.com/unm-historiography/2021-fall/tree/main/reader-reports). Focus on the big picture: framing, historiographical significance, and accessibility for the intended audience. As you did for the previous critique, be sure you are thinking about and addressing what's in the [writing guide](metahistory-guide).
 "%}
 
 
