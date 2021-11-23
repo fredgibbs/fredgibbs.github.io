@@ -16,12 +16,16 @@ This page contains a list of links that you will probably need repeatedly throug
 - [Reading Response repository](https://github.com/unm-historiography/2021-fall)
 
 ---
-## Metahistory links
-- [Intro Guide repository](https://github.com/unm-historiography/metahistory)
-- [Intro Guide website](https://unm-historiography.github.io/metahistory/)
+## Metahistory Links
+- [Repository](https://github.com/unm-historiography/metahistory)
+- [Website](https://unm-historiography.github.io/metahistory/)
 
-## Guides
-- [Intro-guide revision guidelines](1st-revision-guide)
-- [Embedding images in your essays](https://unm-historiography.github.io/metahistory/docs/loading-images)
-- [Code samples](https://unm-historiography.github.io/metahistory/docs/code)
-- [Writing Guide](https://unm-historiography.github.io/metahistory/docs/writing-guide)
+## Metahistory Guides
+- [Setting up your Metahistory fork](metahistory-setup)
+- [Revision instructions](metahistory-revisions)
+- [Setting up your own essay](metahistory-addition-guide)
+- [Using images][metahistory-images]
+- [Writing Guide](metahistory-guide)
+
+## Lastly
+- [Final course reflections](final-reflections)
