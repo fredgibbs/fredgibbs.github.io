@@ -21,9 +21,11 @@ Create bookmarks in your browser for two locations you will be visiting often:
 ## Grab the sample page
 - Similar to what you did when getting your page for revisions, grab the [raw code of the starter essay](https://raw.githubusercontent.com/unm-historiography/metahistory/master/essays/starter.md). (The web version of the starter is [here](https://unm-historiography.github.io/metahistory/essays/starter.html).)
 - Working in YOUR repository (the URL will look like https://github.com/USERNAME/metahistory/), go into the `essays` folder **and appropriate subfolder for the time period or theme of your essay.**
-- Create a new page for your essay the same way you create posts for your reading responses.
+- Create a new page for your essay the same way you create posts for your reading responses. CAREFUL WITH THE FOLLOWING:
   - **Be sure your filename is all lower case and uses hyphens instead of spaces!**
-- Paste in the code from the sample essay.
+  - Don't forget the `.md` extension, just like your reading reflections.
+  - It's easy to modify the title later. You can do this by clicking the pencil icon to edit the file, and then click on the filename to edit it.
+- Paste in the code you copied from the starter essay.
 - Edit the header of your file (the metadata between the `---` marks at the top) to reflect your TITLE, SUBTITLE, NAME.
 - Ignore the `toc-blurb` and `toc-image` fields for now.
 - To get your page to show on the left nav, find `toc-section` name and change the value to one of the following:
