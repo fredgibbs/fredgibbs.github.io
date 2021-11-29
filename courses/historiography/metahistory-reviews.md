@@ -9,6 +9,10 @@ section: links-guides
 
 # _Metahistory_ review instructions
 
+Remember, you are reviewing TWO essays as [noted here](https://github.com/unm-historiography/2021-fall/blob/main/metahistory-topics.md). You will write about 400--500 words for EACH essay.
+
+
+## Getting started
 Before you start reading the essay, review the [writing guide](metahistory-guide), especially the checklist you are already familiar with from the revision assignment.
 
 Put yourself in model reader mode. Read as someone looking to understand the production of history (as distinct from the past). Make note of when the essay you're reviewing seems to assume too much historical knowledge or background. Note when the essay seems to dwell on something that the model reader would be familiar with.  
