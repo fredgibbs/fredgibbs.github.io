@@ -24,7 +24,7 @@ This page contains a list of links that you will probably need repeatedly throug
 - [Setting up your Metahistory fork](metahistory-setup)
 - [Revision instructions](metahistory-revisions)
 - [Setting up your own essay](metahistory-addition-guide)
-- [Using images][metahistory-images]
+- [Using images](metahistory-images)
 - [Writing Guide](metahistory-guide)
 
 ## Lastly
