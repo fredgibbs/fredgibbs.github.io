@@ -84,7 +84,6 @@ Don't worry about images when doing the revision assignment, since we'll cover t
 For all images (new or existing), make sure they have **informative** captions that explicitly connect the image to the topic of the. Good captions might be two or three (short) sentences long and make an important point that is fleshed out in the essay. **Readers should be able to understand some of the most important points in your essay just by reading captions!** And hopefully they will be intrigued enough to read the essay itself.
 
 
-
 ## References
 _Metahistory_ is meant to be a trusted academic resource. Historical summary or historiographical claims must include parenthetical citations to reputable sources with precise and unambiguous citations. Reputable sources means academic peer-reviewed publications. I don't need to tell you not to use random websites, but I'll mention it just to be thorough.
 

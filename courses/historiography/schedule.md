@@ -486,7 +486,6 @@ By 10am, like usual, post a COMPLETE draft for your essay, which should be aroun
 "%}
 
 
-
 ### 1: Reader Reports
 Today you'll read through your reader reports and ask questions of your reviewers. We'll also go over general revision strategies.
 
@@ -496,7 +495,6 @@ Follow the [review guide](metahistory-reviews). And remember to focus on the big
 **THESE MUST BE POSTED BEFORE CLASS ON WEDNESDAY!**
 
 "%}
-
 
 
 ## Week 16
@@ -517,4 +515,9 @@ Maybe you've wanted answers in this course. Today, you get to make them. For you
 ### 8: NO CLASS! REVISE! REVISE!! REVISE!!!
 
 
-## All revisions due by Dec 13!
+{% include alert.html class='danger' title='Final submissions' text="
+- Make sure to submit your [final course reflections](final-reflections).
+- Make sure you are following the _Metahistory_ [writing guide](metahistory-guide) and [final checklist](metahistory-presubmission-list).
+- Once you are completely done with your essay, make a pull request just like you did for your revision assignment.
+- All work due DEC 13, but let me know if you need more time!
+"%}
