@@ -479,7 +479,6 @@ No class today, but you must post by MONDAY MORNING  (~10am as usual) a COMPLETE
 
 ### 29: Draft reviews and review assignments
 - Today we're going to look at how to do the peer review assignment efficiently and effectively. Remember that your review work is part of your participation grade.
-- If you miss class, find your essay review assignments for Wednesday's assignment HERE (link TBP).
 
 {% include alert.html class='danger' title='COMPLETE Drafts Due' text="
 By 10am, like usual, post a COMPLETE draft for your essay, which should be around at least 2000 words (with the final being 2500) and 3 images (you'll need 3--5 for the final). Follow the [writing guide](metahistory-guide), **DO IT WELL**, and save everyone (including your future self) headaches later. **If your essay is late, you will miss out on peer review, including my own comments,** and this almost guarantees that your final essay grade will be lower.
@@ -487,12 +486,14 @@ By 10am, like usual, post a COMPLETE draft for your essay, which should be aroun
 
 
 ### 1: Reader Reports
-Today you'll read through your reader reports and ask questions of your reviewers. We'll also go over general revision strategies.
+Today you'll read through your [reader reports](https://github.com/unm-historiography/2021-fall/tree/main/reader-reports) and ask questions of your reviewers. We'll also go over general revision strategies.
 
 {% include alert.html class='danger' title='Reader Reports Due' text="
 Follow the [review guide](metahistory-reviews). And remember to focus on the big picture: framing, historiographical significance, and accessibility for the intended audience. As you did for the previous critique, be sure you are thinking about and addressing what's in the [writing guide](metahistory-guide).
 
 **THESE MUST BE POSTED BEFORE CLASS ON WEDNESDAY!**
+
+
 
 "%}
 
