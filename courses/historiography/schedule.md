@@ -503,7 +503,7 @@ Follow the [review guide](metahistory-reviews). And remember to focus on the big
 {% include alert.html class='danger' title='Final Questions + Answers' text="
 In the style of the deliberately ambiguous T/F questions we've discussed this semester, post a T/F question ([in this folder](https://github.com/unm-historiography/2021-fall/tree/main/final-quiz)) that that suggests _through its ambiguity_ a key concept/issue that you found especially interesting/helpful/useful from the course. To refresh your memory, you can review [our earlier quiz questions and answers](quiz-answers).
 
-The point, of course, is to generate a list of key topics/issues to discuss in preparation for your final course reflection. Needless to say, your question should be **both true and false** to some extent.
+The point is to generate a list of key topics/issues to discuss in preparation for your [final course reflection](final-reflections). Needless to say, your question should be **both true and false** to some extent, even if you think one answer is more appropriate.
 "%}
 
 
