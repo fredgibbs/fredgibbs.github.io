@@ -500,8 +500,10 @@ Follow the [review guide](metahistory-reviews). And remember to focus on the big
 
 ## Week 16
 ### 6: Last questions/comments and course wrap up
-{% include alert.html class='danger' title='Final Answers' text="
-Maybe you've wanted answers in this course. Today, you get to make them. For your FINAL POST and our final brief discussion (amongst other things on the agenda for our FINAL MEETING) **the Final Jeopardy category is Historiography.** What's your answer? We'll see if we can come up with the correct question in class, so don't put it in your post!
+{% include alert.html class='danger' title='Final Questions + Answers' text="
+In the style of the deliberately ambiguous T/F questions we've discussed this semester, post a T/F question ([in this folder](https://github.com/unm-historiography/2021-fall/tree/main/final-quiz)) that that suggests _through its ambiguity_ a key concept/issue that you found especially interesting/helpful/useful from the course. To refresh your memory, you can review [our earlier quiz questions and answers](quiz-answers).
+
+The point, of course, is to generate a list of key topics/issues to discuss in preparation for your final course reflection. Needless to say, your question should be **both true and false** to some extent.
 "%}
 
 
@@ -519,6 +521,6 @@ Maybe you've wanted answers in this course. Today, you get to make them. For you
 {% include alert.html class='danger' title='Final submissions' text="
 - Make sure to submit your [final course reflections](final-reflections).
 - Make sure you are following the _Metahistory_ [writing guide](metahistory-guide) and [final checklist](metahistory-presubmission-list).
-- Once you are completely done with your essay, make a pull request just like you did for your revision assignment.
+- Once you are completely done with your essay, make a pull request just like you did for your revision assignment. I will take your pull request to be your signal that you are completely done with your essay. Again, you are free to submit pull requests for minor changes (if you notice a typo or something).
 - All work due DEC 13, but let me know if you need more time!
 "%}
