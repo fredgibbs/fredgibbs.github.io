@@ -90,7 +90,11 @@ _Metahistory_ is meant to be a trusted academic resource. Historical summary or 
 ### Citations
 - Use the format of (Author-last-name, page-number). No p. or pg. or pp. or any other abbreviations; just put the page number.
 - Make sure the author name is spelled correctly!
-- EXAMPLE: His drive to list his sources was “not moved by ‘scientific’ motives but by his respect for the authority of the source and the awareness that… to distort a document would damage the truthfulness expected of a writer on sacred subjects” (Breisach, 96).
+  - EXAMPLE: His drive to list his sources was “not moved by ‘scientific’ motives but by his respect for the authority of the source and the awareness that… to distort a document would damage the truthfulness expected of a writer on sacred subjects” (Breisach, 96).
+- When an electronic source lacks page numbers, try to include information that will help readers find the passage being cited. Use a section name, or a paragraph number (para. 1), or a combination of these. If there are too many paragraphs to count, just cite the author's last name.
+  - EXAMPLE: According to Smith, blah blah blah (Smith, Mind Over Matter section, para. 6). According to Jones, yadda yadda yadda (Jones).
+- Note that even if you mention the author by name in your prose, you should still repeat it in the citation.
+
 
 ### Bibliographies
 - Use standard Chicago style citations for your bibliography. See the bibliography entries at the [Chicago Manual of Style Online](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html).
