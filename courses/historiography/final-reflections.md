@@ -12,7 +12,7 @@ Your final reflection for the course is a bit different from previous reading re
 
 
 ## What to do
-I'd like you to write a ~800-word description of **YOUR LEARNING EXPERIENCE** for the course as a whole. Which topics or ideas will stick with you? Which were not worth the trouble? What did you get interested in that we didn't do enough with? When were you most and least excited about the material? How might you use the skills and approaches we learned in the course outside of anything related to history? Or do you think that's impossible?
+I'd like you to write a ~800-word description of **YOUR LEARNING EXPERIENCE** for the course as a whole. Which topics or ideas will stick with you? Which were not worth the trouble? What did you get interested in that we didn't do enough with? When were you most and least excited about the material? Did the _Metahistory_ project allow you to apply course material? How might you use the skills and approaches we learned in the course outside of anything related to history? Or do you think that's impossible?
 
 These are highly subjective essays and that's precisely the point---I want to know about YOUR learning experience, not what you think the Standard Learning Experience should have been. Please DO NOT provide a recitation of course topics and themes---I already know what we covered---I want to know what the course was like for you.
 
