@@ -522,6 +522,7 @@ The point is to generate a list of key topics/issues to discuss in preparation f
 - Make sure to submit your [final course reflections](final-reflections).
 - Make sure you are following the _Metahistory_ [writing guide](metahistory-guide) and [final checklist](metahistory-presubmission-list). Big picture: focus on the **narrative thread** and **the so what question**.
 - Once you are **completely** done with your essay, make a pull request just like you did for your revision assignment. These steps are described at the bottom of the [_Metahistory_ revisions guide](metahistory-revisions).
-  - I will take your pull request to be your signal that your essay is ready for final evaluation. - You are free to submit pull requests for minor changes (if you notice a typo or something).
+  - I will take your pull request to be your signal that your essay is ready for final evaluation.
+  - You are free to submit pull requests for minor changes (if you notice a typo or something).
 - All work due DEC 13, but let me know if you need more time!
 "%}
