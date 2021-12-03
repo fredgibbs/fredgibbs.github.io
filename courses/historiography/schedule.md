@@ -508,7 +508,7 @@ The point is to generate a list of key topics/issues to discuss in preparation f
 
 
 {% include alert.html class='info' title='In class' text="
-- _Metahistory_ revision advice
+- _Metahistory_ revision highlights, mostly from the _Metahistory_ [writing guide](metahistory-guide) and [final checklist](metahistory-presubmission-list).
 - [Final course reflection](final-reflections) advice
 - Review the steps necessary to publish your essay on the official _Metahistory_ site. This process is basically the same as when you committed your revisions a few weeks ago.
 - Your final version must be pull requested by December 13. You are free to submit pull requests for minor changes (if you notice a typo or something), but I will ignore large changes for evaluation purposes.
@@ -520,7 +520,8 @@ The point is to generate a list of key topics/issues to discuss in preparation f
 
 {% include alert.html class='danger' title='Final submissions' text="
 - Make sure to submit your [final course reflections](final-reflections).
-- Make sure you are following the _Metahistory_ [writing guide](metahistory-guide) and [final checklist](metahistory-presubmission-list).
-- Once you are completely done with your essay, make a pull request just like you did for your revision assignment. I will take your pull request to be your signal that you are completely done with your essay. Again, you are free to submit pull requests for minor changes (if you notice a typo or something).
+- Make sure you are following the _Metahistory_ [writing guide](metahistory-guide) and [final checklist](metahistory-presubmission-list). Big picture: focus on the **narrative thread** and **the so what question**.
+- Once you are **completely** done with your essay, make a pull request just like you did for your revision assignment. These steps are described at the bottom of the [_Metahistory_ revisions guide](metahistory-revisions).
+  - I will take your pull request to be your signal that your essay is ready for final evaluation. - You are free to submit pull requests for minor changes (if you notice a typo or something).
 - All work due DEC 13, but let me know if you need more time!
 "%}
