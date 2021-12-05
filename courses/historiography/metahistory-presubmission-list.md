@@ -24,8 +24,14 @@ As we discussed for the peer reviews, **make sure your essay has a clear narrati
 - Make sure the filename of your essay is similar to the title---and NOT YOUR NAME.
 - Make sure the filename of your essay is in ALL LOWER CASE and uses HYPHENS INSTEAD OF SPACES.
 - Make sure your essay title (not filename) uses Title Case. All non-article words should be capitalized---just make your title look like the others on the sidebar.
-- Make sure your essay is appearing on the sidebar---otherwise it will be invisible!
 - Double check all the other metadata (stuff between the three dashes at the top) is accurate.
+- Although not strictly metadata, **make sure you have short and punchy abstract** at the top of your essay underneath the metadata, just as in the starter page.
+
+## Table of Contents (toc) fields
+- Make sure your essay is appearing on the sidebar using the `toc-section` variable---otherwise it will be invisible!
+- Decide on an image already in your essay to display on the _Metahistory_ table of contents page, and COPY AND PASTE the image filename from your image code block into the `toc-image` field.
+- Write a MAX 50-word blurb (a super short abstract), for the `toc-blurb` field.
+
 
 
 ## Images & Captions
