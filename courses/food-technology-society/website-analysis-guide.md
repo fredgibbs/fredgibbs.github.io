@@ -19,7 +19,7 @@ Your challenge is to write a review/critique of some webpage that discusses whet
 - What kinds of assumptions does the author make?
 - What issues are NOT raised that should be?
 
-Don't choose something that is super long or complex; that creates way more work for you than is necessary here. Also, don't choose anything that is super short and trite; it simply won't give you enough material to work with. Spend 10 or 15 minutes looking through various options before deciding on what to critique. The assignment is more fun if you have something to say about your piece, whether about how useful it is or how ridiculous it is. Either way, have an opinion and express it clearly in your essay!
+Don't choose something that is super long or complex; that creates way more work for you than is necessary here. Also, don't choose anything that is super short and trite; it simply won't give you enough material to work with. Spend 10 minutes looking through various options before deciding on what to critique. The assignment is more fun if you have something to say about your piece, whether about how useful it is or how ridiculous it is. Either way, have an opinion and express it clearly in your essay!
 
 
 ## Assignment Goals

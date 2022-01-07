@@ -10,9 +10,7 @@ section: links-guides
 
 # Writing Advice
 
-
 ## Easy ways to dramatically improve your writing
-
 
 ### Learn to use apostrophe's
 Its not hard to get them right and they show how careful your being. Even in the 2020’s, computers will not fix these errors for you. Besides, careful editing is it’s own reward. Everything here is wrong, as you have surely noted. Train your eye to focus on potential errors!
@@ -55,8 +53,6 @@ Look for unnecessary is, was, be, or being verbs. See if you can be clearer by u
 - Passive: This class is boring.
 - Active: This class bores me.
 
-In the last example, you might deliberately choose the passive construction if your point were that any objective observer would also declare that the class’s very existence should be characterized as boring. If you want to emphasize the agency of the class to bore students, particularly you, but it’s at least conceivable that other students might not find it boring, the active construction would be more precise.
+In the last example, you might deliberately choose the passive construction if your point were that any objective observer would also declare the class is boring. If you want to emphasize that it's at least conceivable that other students might not find the class boring, but that you do, the active construction would be more precise.
 
-Another way of thinking about it is that the passive voice describes a state of being (how the class _is_), which is pretty generic and vague. But sometimes that's what you want. The active voice emphasizes a subject and action (what the class _does_).
-
-All I’m saying is that you should choose deliberately.
+In any case, you should choose deliberately.

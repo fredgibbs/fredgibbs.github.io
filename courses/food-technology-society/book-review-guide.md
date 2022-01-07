@@ -11,21 +11,21 @@ section: links-guides
 # Book Review Guide
 
 ## Assignment Goals
-This assignment shows that you’re able to apply the course to a critical description and evaluation of a food-related text (like one of our required books) that you might read even outside of this course. **This is the goal of the entire course (see Student Learning Outcomes!)---to help you think carefully and historically about food and food systems.** In terms of the writing itself, the assignments encourage/force you to focus on the clarity and concision of your thinking and expression. It's a super useful skill that you'll frequently employ in your future career, whatever it is.
+This assignment shows that you’re able to apply the course to a critical description and evaluation of a food-related text. **This is the goal of the entire course (see Student Learning Outcomes!)---to help you think carefully and historically about the complex relationship between food and technology.** In terms of the writing itself, the assignments encourage/force you to focus on the clarity and concision of your thinking and expression. It's a skill that you'll frequently employ in your future career, whatever it is.
 
 ## Assignment Format
-Your essay must be 900-1200 words. This restrictive format is deliberate, to force you to think about quality over quantity. The challenge is NOT to meet the word count, but to pack as much analysis and synthesis into that space as you can.
+Your essay must be ~1000 words. This restrictive format is deliberate, to force you to think about quality over quantity. The challenge is NOT to meet the word count, but to pack as much analysis and synthesis into that space as you can.
 
 ## Audience
-Your audience is NOT ME as your professor who is grading your paper. It's someone who likes food or food history and might be interested in this kind of book, and is therefore reading a concise review to get a sense of what it's about. You should assume your audience has NOT read it, and that you're helping them to decide if it's worth their time.
+Your audience is NOT ME as your professor who is grading your paper. It's someone who likes food or food history and might be interested in this kind of book, and is therefore reading a concise review to get a sense of what it's about, and how it can help us think more critically about food and technology. You should assume your audience has NOT read it, and that you're helping them to decide if it's worth their time.
 
 ## Organizational advice
 Although you don't need to have distinct section headings, you should have three main sections to your paper. You should have multiple paragraphs in each section. Paragraphs are for ideas, not sections.
 
-### Summary (600 words - DOUBLE THE ORIGINAL AMOUNT)
+### Summary (~600 words)
 You should begin your essay with a **thorough but quick summary** of the book so that your readers have an idea of BOTH the **general topics covered** AND the **main themes addressed**. Go for breadth over depth, as you want to give your reader a clear sense of what's included in the book.  Your ability to recount both the topics and themes shows that you've been (a) actually reading and (b) paying attention and taking notes in our discussions.
 
-### Strengths, Weaknesses, Critical Omissions (300 words)
+### Strengths, Weaknesses, Critical Omissions (~300 words)
 As part of your evaluation of the strengths and weaknesses, **comment briefly on the historical evidence** the author uses. Maybe there are "scientific" studies, maybe anecdotal evidence, maybe nothing. Is the evidence sufficient to support the historical claims?
 
 In general you want to address questions like:
@@ -37,7 +37,7 @@ In general you want to address questions like:
 
 NOTE: All histories are biased and all authors have an agenda. So it's not so interesting simply to note that an author seems have a particular opinion about X or Y. That said, you should comment on whether the bias or agenda seems to get in the way of the book?
 
-### Importance and Relevance (300 words)
+### Importance and Relevance (~300 words)
 What besides historical knowledge can we take away from the book? Are there lessons we should learn? Can you imagine an analogous situation that we might need address in the future? **What are the implications of the book for the modern consumer?** Don't simply say that the history of X is important. Everyone knows that (not true, but let's pretend). Make a specific case how the book is useful beyond the history it presents. This may or may not be explicitly addressed in the book. You might even say something like: "Even though it's not explicitly addressed, this book is useful because..."
 
 ## References and Citations

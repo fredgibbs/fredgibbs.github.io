@@ -1,0 +1,280 @@
+---
+layout: syllabus
+course-title: History of Nature
+course-slug: history-of-nature
+term: Spring 2022
+number: HIST 300
+title: Schedule of Readings
+section: schedule
+---
+
+# Schedule of Readings and Assignments
+
+
+
+## 1: Introductions
+
+### Jan 17 (MLK)
+
+### Jan 19
+We'll review the course aims, assignments, and general plan for the semester. Why does "nature" matter, anyway?
+
+### Jan 21
+
+- Raymond Williams, "Ideas of Nature" (1980), 67--85.
+- What is YOUR nature?
+
+
+
+
+
+## 2:
+### Jan 24
+
+### Jan 26
+
+### Jan 28
+
+- Frédéric Ducarme and Denis Couvet, “What Does ‘Nature’ Mean?” Palgrave Communications 6, no. 1 (January 31, 2020): 1–8.
+
+- Leo Marx, "[The Idea of Nature in America](https://www.amacad.org/publication/idea-nature-america)", _Daedalus_ (2008): 8--21.
+
+
+
+- Arias-Maldonado, Manuel. Environment and Society: Socionatural Relations in the Anthropocene, 2015. 1--50. A good overview of some question about human/nature divide.
+
+
+
+- Frederick Turner, "Cultivating the American Garden"
+
+- Michael Pollan, _Second Nature_ (Ch. 2: Nature Abhors a Garden), 37--53; 6 (Weeds are Us) 98--116.
+
+Worster?
+
+
+
+
+
+Wilderness and Nature
+
+- William Cronon, "The Trouble with Wilderness: Or, Getting Back to the Wrong Nature", _Environmental History_, 1.1 (1996).
+
+- Michael Pollan, _Second Nature_ (Ch. 10: The Idea of a Garden), 176--201.
+
+
+
+
+## 3:
+
+Premodern Nature
+
+Aristotle and Ancient Greek formulations
+
+- Vicki E. Szabo, "Medieval Perceptions of the Natural World", 13--33.
+
+- Lynn White, Jr., "The Historical Roots of Our Ecological Crisis" _Science_, 155 (1967): 1203-1207.
+
+- Carolyn Merchant, _The Death of Nature_ (Ch. 1: Nature as Female), 1--41.
+
+### Jan 31
+
+### Feb 2
+
+### Feb 4
+
+
+
+## 4:
+Enlightened Nature
+Rousseau, descartes,
+
+(this is too hard) --> Daston, “Attention and the Values of Nature in the Enlightenment"
+
+
+### Feb 7
+
+### Feb 9
+
+### Feb 11
+
+
+
+## 5:
+
+Early American Nature
+
+- Mark Fiege, _Republic of Nature_ (Ch. 2: By the Law's of Nature and Nature's God), 57-99.
+
+- Richard White, "Discovering Nature in North America", 874--891.
+
+- Leo Marx, _Machine in the Garden_, 73-144.
+
+- Alexis de Tocqueville, _Democracy in America_ (TBD)
+
+
+### Feb 14:
+
+### Feb 16:
+
+### Feb 18
+
+
+
+
+## 6:  
+
+Jeffersonian Nature
+
+more on westward expansion?
+frontier thesis?
+
+Arthur Ekirch, Jr., _Man and Nature in America_, 10--21 (2: The Agrarian Dream)
+
+Thomas Jefferson, _Notes on Virginia_ (TBD)
+
+
+
+### Feb 21
+
+### Feb 23
+
+### Feb 25
+
+
+
+
+## 7:
+
+Romantic Nature
+
+Arthur Ekirch, Jr., _Man and Nature in America_, 22--34 (3: The Romantic View)
+
+Something from Foster, _The Civilized Wilderness_ (Backgrounds to American Romantic Literature 1817--1860)
+
+-Ronald Rees, “Constable, Turner, and Views of Nature in the Nineteenth Century.” _Geographical Review_ 72, no. 3 (1982): 253–69.
+
+- Thomas Cole, "Essay on American Scenery" _American Monthly Magazine_ vol 1. (1836), 1--12.
+
+### Feb 28
+
+### Mar 2
+
+### Mar 4
+
+
+
+
+## 8:
+
+Transcendentalists
+
+Arthur Ekirch, Jr., _Man and Nature in America_, 47--68 (3 and 4: Emerson and Thoreau)
+
+?? Worster, _Nature's Economy_, 59--97.
+
+Ralph Waldo Emerson, "Nature", 1--53.
+
+Thoreau, Excerpts from _Walden_.
+
+ John Stuart Mill, the Utility of Religion, Nature chapter 3--68 (selections) [good intro to key definitions]
+
+### Mar 7
+
+### Mar 9
+
+### Mar 11
+- NO CLASS: Get started on your Spring Break!
+
+
+
+### 9: Mar 14, 16, 18: SPRING BREAK
+
+
+Aim for around 1900 starting here
+
+## 10: Mar 21, 23, 25
+
+- Gifford Pinchot : Selected Writings, 21--28.
+
+- "A Plan to Save the Forests" (Century Magazine, Feb. 1895), 626--634.
+
+- John M. Meyer, "Gifford Pinchot, John Muir, and the Boundaries of Politics in American Thought", Polity, 30.2 (1997), 267–84.
+
+- John Muir, My First Summer in the Sierra (https://www.google.com/books/edition/My_First_Summer_in_the_Sierra/ymNIAAAAMAAJ?hl=en&gbpv=1)
+
+- Miles A. Powell, “‘Pestered with Inhabitants’: Aldo Leopold, William Vogt, and More Trouble with Wilderness.” Pacific Historical Review 84, no. 2 (2015): 195–226.
+
+
+
+## 11:
+
+Landscapes
+
+- Anne Whiston Spirn, "Constructing Nature: The Legacy of Frederick Law Olmstead", 91--113.
+
+- Audrey J Horning, "Of Saints and Sinners: Mythic Landscapes of the Old and New South"
+
+- Paul Claval, "Changing Conceptions of Heritage and Landscape" (from _Heritage, Memory and the Politics of Identity_), 85--92.
+### Mar 28
+
+### Mar 30
+
+### Apr 1
+
+
+
+worster and mckibben together
+
+
+## 12:
+
+### Apr 4
+
+### Apr 6
+
+### Apr 8
+
+
+
+## 13:
+
+### Apr 11,13,15
+
+Adam Rome, Bulldozer in the Countryside, Chapter 4 (The first protests against  thebulldozed landscape), 119--152.
+
+
+
+## 14:
+
+### Apr 18,20,22
+
+carson and ecology?
+
+
+
+## 15:
+
+### Apr 25,27,29
+
+- Carolyn Merchant, "Reinventing Eden: Western Culture as a Recovery Narrative", 132--159.
+
+- Frederick Turner, "[Life on Mars: Cultivating a Planet — And Ourselves](http://frederickturnerpoet.com/?page_id=88)".
+
+
+
+
+## 16:
+
+### May 2,4,6
+
+leave blank?
+
+
+
+
+## May 15
+{% include alert.html class='danger' title='DUE: Final Course Reflection' text="
+Final Essays should be emailed to me before you go to bed on Friday, May 15th (or perhaps early Saturday morning). If you need a few more days, that's fine, but you must email me to let me know (you don't need to ask, just let me know). Grades are due in the middle of the week so there isn't much more leeway I can give you, unless you want to take an Incomplete.
+
+See the [final essay guide](final-essay-guide) for more details. And review the [revision guide](writing-advice) after you've got a solid first draft!
+"%}
