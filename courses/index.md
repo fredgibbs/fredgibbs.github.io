@@ -6,18 +6,14 @@ description: Regularly scheduled courses: Food + Technology + Society; Landscape
 
 # Regularly Scheduled Courses
 
+{% include course-block.html
+slug="food-technology-society"
+title="Food, Technology, and Society (Spring 2020)"
+poster="images/fts-sm.jpg"
+desc="This course explores the complex relationships between food, food production, technology, and society. In some ways, our goal is to explain how and why supermarkets have come to look like they do. Taking chronological and thematic approaches simultaneously, we’ll look at the impact of science and technology on food processing and distribution (such as canning, refrigeration, GMOs, food stabilizers and preservatives). We’ll also put these developments in larger social, cultural, and demographic contexts, including the growing divide between food producers and consumers, governmental regulation, the rise of global food conglomerates, urbanization, and sustainability. Even more broadly, we identify connections between agribusiness, ecology, consumerism, media, politics, and the history of science and medicine."
+%}
 
 {% include course-block.html
-
-
-  {% include course-block.html
-  slug="food-technology-society"
-  title="Food, Technology, and Society (Spring 2020)"
-  poster="images/fts-sm.jpg"
-  desc="This course explores the complex relationships between food, food production, technology, and society. In some ways, our goal is to explain how and why supermarkets have come to look like they do. Taking chronological and thematic approaches simultaneously, we’ll look at the impact of science and technology on food processing and distribution (such as canning, refrigeration, GMOs, food stabilizers and preservatives). We’ll also put these developments in larger social, cultural, and demographic contexts, including the growing divide between food producers and consumers, governmental regulation, the rise of global food conglomerates, urbanization, and sustainability. Even more broadly, we identify connections between agribusiness, ecology, consumerism, media, politics, and the history of science and medicine."
-  %}
-
-
 slug="historiography"
 title="Historiography (Fall 2021)"
 poster="images/historiography-sm.jpg"
