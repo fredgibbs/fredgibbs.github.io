@@ -1,8 +1,8 @@
 ---
 layout: syllabus
-course-title: Food, Technology, and Society
+course-title: Food + Tech + Society
 course-slug: food-technology-society
-term: Spring 2020
+term: Spring 2022
 number: HIST 412
 title: Newspaper Ad Analysis
 section: links-guides

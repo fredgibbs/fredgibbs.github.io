@@ -55,7 +55,6 @@ Illustrations of Cereal, Nature, and Technology
 "%}
 
 
-
 ### Feb 2
 Today we're looking at how a technology like canning---that seems obviously useful and safe now---was viewed with a lot of skepticism. This chapter shows how a main obstacle to selling food in cans was not trouble with canning technology itself, but in building consumer trust.
 
@@ -79,7 +78,6 @@ Today we're looking at how a technology like canning---that seems obviously usef
 - Sylvester Graham, [A Defense of the Graham System of Living: Or, Remarks on Diet and Regimen. Dedicated to the Rising Generation](https://books.google.com/books?id=ODRlD83ww9IC), 7--15; 88--89; 95--104.
 
 
-
 ### Feb 9
 - Deborah Blum, _The Poison Squad_ (Chapters 7 and 8), 119--152.
 - Upton Sinclair, _The Jungle_, 97--105; 140--46 (chapters 9 and 14).
@@ -88,12 +86,10 @@ Today we're looking at how a technology like canning---that seems obviously usef
 Purity in the newspapers as prep for your [Ad Analysis Assignment](newspaper-ads-guide).
 "%}
 
-
 ### Feb 11
 {% include alert.html class='danger' title='DUE: Ad analysis' text="
 Be sure to submit your [Ad Analysis Assignment](newspaper-ads-guide).
 "%}
-
 
 
 
@@ -142,7 +138,7 @@ How do these do chapters illustrate how technology is impacting cooking at home?
 
 
 
-## 8:
+## 8: First 1/2 Reflections
 ### Mar 7
 - NO CLASS: Work on your First Half Reflections
 
@@ -158,7 +154,7 @@ How would YOU describe the story of food, technology, and society so far? What c
 
 
 
-### 9: Mar 14, 16, 18: SPRING BREAK
+## 9: Mar 14, 16, 18: SPRING BREAK
 
 
 ## 10: Sweetness and Risk
@@ -274,7 +270,6 @@ Regarding whichever article you read:
 "%}
 
 
-
 #### Skim
 - Check out what Food Tech is talking about [at the last conference](https://futurefoodtechsf.com/agenda/)
 - [How big data is going to help feed nine billion people by 2050](https://www.techrepublic.com/article/how-big-data-is-going-to-help-feed-9-billion-people-by-2050/).  
@@ -282,7 +277,7 @@ Regarding whichever article you read:
 
 ### May 4
 - Course wrap-up
-- Tips for your finals
+- Tips for your final essay
 
 
 ### May 6
