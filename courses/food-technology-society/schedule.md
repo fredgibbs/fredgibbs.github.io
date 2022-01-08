@@ -264,6 +264,17 @@ TBD
 ### May 2
 - Megan Poinski, [Technology is revolutionizing food, but how can it be explained to consumers?](https://www.fooddive.com/news/food-tech-explain-marketing/606401/)
 
+{% include alert.html class='danger' title='DUE: Week in Review' text="
+Both articles obviously have the relationship between food and technology at their core, and both make excellent points. But I hope after this class you'll be able to recognize how both are a bit myopic in terms of how they discuss technology.
+
+Regarding whichever article you read:
+- What are the key issues, or basic questions or challenges discussed in the article?
+- What assumptions does it make about technological \"progress\"?
+- Explain, drawing from previous course readings, what key aspects about food and technology are MISSING from the article that should have been touched on a bit more to develop a more thorough analysis of the key issues?
+"%}
+
+
+
 #### Skim
 - Check out what Food Tech is talking about [at the last conference](https://futurefoodtechsf.com/agenda/)
 - [How big data is going to help feed nine billion people by 2050](https://www.techrepublic.com/article/how-big-data-is-going-to-help-feed-9-billion-people-by-2050/).  
@@ -273,14 +284,6 @@ TBD
 - Course wrap-up
 - Tips for your finals
 
-{% include alert.html class='danger' title='DUE: Week in Review' text="
-Both articles obviously have the relationship between food and technology at their core, and both make excellent points. But I hope after this class you'll be able to recognize how both are a bit myopic in terms of how they discuss technology.
-
-Regarding whichever article you read:
-- What are the key issues, or basic questions or challenges discussed in the article?
-- What assumptions does it make about technological "progress"?
-- Explain, drawing from previous course readings, what key aspects about food and technology are MISSING from the article that should have been touched on a bit more to develop a more thorough analysis of the key issues?
-"%}
 
 ### May 6
 NO CLASS: Congrats and Thank you!
