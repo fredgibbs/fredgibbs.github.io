@@ -13,7 +13,7 @@ section: schedule
 
 ## General rules
 - Regular bullet points listed under each day is what you need to READ BEFORE CLASS.
-- All work that isn't directly linked to is in our [our Group Library page](https://www.zotero.org/groups/1647225/food-tech-society-unm/library). See the syllabus home page for instructions on gaining access.
+- All work that isn't directly linked to is in [our Zotero library](https://www.zotero.org/groups/1647225/food-tech-society-unm/library). See the syllabus home page for instructions on gaining access.
 - Submit all work via Learn before midnight the day it's listed. Don't worry about a few minutes, but I expect to have them (and will start grading them) early the next morning.
 
 
