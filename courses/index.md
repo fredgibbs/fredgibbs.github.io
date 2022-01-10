@@ -8,9 +8,9 @@ description: Regularly scheduled courses: Food + Technology + Society; Landscape
 
 {% include course-block.html
 slug="food-technology-society"
-title="Food, Technology, and Society (Spring 2020)"
+title="Food, Technology, and Society (Spring 2022)"
 poster="images/fts-sm.jpg"
-desc="This course explores the complex relationships between food, food production, technology, and society. In some ways, our goal is to explain how and why supermarkets have come to look like they do. Taking chronological and thematic approaches simultaneously, we’ll look at the impact of science and technology on food processing and distribution (such as canning, refrigeration, GMOs, food stabilizers and preservatives). We’ll also put these developments in larger social, cultural, and demographic contexts, including the growing divide between food producers and consumers, governmental regulation, the rise of global food conglomerates, urbanization, and sustainability. Even more broadly, we identify connections between agribusiness, ecology, consumerism, media, politics, and the history of science and medicine."
+desc="It's easy to take supermarkets for granted. It almost seems natural that they should abound with vibrant and uniform vegetables, tasty snacks, and highly perishable but perfectly safe meat and dairy products. But the seeming inevitability of our grocery stores obscures the complex and frequently surprising history of the intersection of food and technology. But by carefully considering the tension between our desire for pure, natural food and our desire for cheap, convenient food helps us understand how technology is constantly reframing our relationship to food."
 %}
 
 {% include course-block.html

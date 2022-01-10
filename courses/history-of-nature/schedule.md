@@ -11,7 +11,6 @@ section: schedule
 # Schedule of Readings and Assignments
 
 
-
 ## 1: Introductions
 
 ### Jan 17 (MLK)
@@ -20,12 +19,8 @@ section: schedule
 We'll review the course aims, assignments, and general plan for the semester. Why does "nature" matter, anyway?
 
 ### Jan 21
-
 - Raymond Williams, "Ideas of Nature" (1980), 67--85.
 - What is YOUR nature?
-
-
-
 
 
 ## 2:
@@ -44,16 +39,18 @@ We'll review the course aims, assignments, and general plan for the semester. Wh
 - Arias-Maldonado, Manuel. Environment and Society: Socionatural Relations in the Anthropocene, 2015. 1--50. A good overview of some question about human/nature divide.
 
 
-
-- Frederick Turner, "Cultivating the American Garden"
+- Frederick Turner, "Cultivating the American Garden" (nature / culture divide)
 
 - Michael Pollan, _Second Nature_ (Ch. 2: Nature Abhors a Garden), 37--53; 6 (Weeds are Us) 98--116.
 
-Worster?
 
 
+## 3:
+### Jan 31
 
+### Feb 2
 
+### Feb 4
 
 Wilderness and Nature
 
@@ -63,12 +60,14 @@ Wilderness and Nature
 
 
 
+## 4:
+### Feb 7
 
-## 3:
+### Feb 9
+
+### Feb 11
 
 Premodern Nature
-
-Aristotle and Ancient Greek formulations
 
 - Vicki E. Szabo, "Medieval Perceptions of the Natural World", 13--33.
 
@@ -76,30 +75,15 @@ Aristotle and Ancient Greek formulations
 
 - Carolyn Merchant, _The Death of Nature_ (Ch. 1: Nature as Female), 1--41.
 
-### Jan 31
-
-### Feb 2
-
-### Feb 4
-
-
-
-## 4:
-Enlightened Nature
-Rousseau, descartes,
-
-(this is too hard) --> Daston, “Attention and the Values of Nature in the Enlightenment"
-
-
-### Feb 7
-
-### Feb 9
-
-### Feb 11
 
 
 
 ## 5:
+### Feb 14:
+
+### Feb 16:
+
+### Feb 18
 
 Early American Nature
 
@@ -111,29 +95,13 @@ Early American Nature
 
 - Alexis de Tocqueville, _Democracy in America_ (TBD)
 
+- Arthur Ekirch, Jr., _Man and Nature in America_, 10--21 (2: The Agrarian Dream)
 
-### Feb 14:
-
-### Feb 16:
-
-### Feb 18
-
+- Thomas Jefferson, _Notes on Virginia_ (TBD)
 
 
 
 ## 6:  
-
-Jeffersonian Nature
-
-more on westward expansion?
-frontier thesis?
-
-Arthur Ekirch, Jr., _Man and Nature in America_, 10--21 (2: The Agrarian Dream)
-
-Thomas Jefferson, _Notes on Virginia_ (TBD)
-
-
-
 ### Feb 21
 
 ### Feb 23
@@ -144,29 +112,40 @@ Thomas Jefferson, _Notes on Virginia_ (TBD)
 
 
 ## 7:
-
-Romantic Nature
-
-Arthur Ekirch, Jr., _Man and Nature in America_, 22--34 (3: The Romantic View)
-
-Something from Foster, _The Civilized Wilderness_ (Backgrounds to American Romantic Literature 1817--1860)
-
--Ronald Rees, “Constable, Turner, and Views of Nature in the Nineteenth Century.” _Geographical Review_ 72, no. 3 (1982): 253–69.
-
-- Thomas Cole, "Essay on American Scenery" _American Monthly Magazine_ vol 1. (1836), 1--12.
-
 ### Feb 28
 
 ### Mar 2
 
 ### Mar 4
 
+Romantic Nature
+
+- Arthur Ekirch, Jr., _Man and Nature in America_, 22--34 (3: The Romantic View)
+
+- Something from Foster, _The Civilized Wilderness_ (Backgrounds to American Romantic Literature 1817--1860)
+
+- Ronald Rees, “Constable, Turner, and Views of Nature in the Nineteenth Century.” _Geographical Review_ 72, no. 3 (1982): 253–69.
+
+- Thomas Cole, "Essay on American Scenery" _American Monthly Magazine_ vol 1. (1836), 1--12.
 
 
 
-## 8:
+## 8: NO CLASS
+### Mar 7
 
-Transcendentalists
+### Mar 9
+
+### Mar 11
+
+midterm reflections?
+
+
+
+### 9: Mar 14, 16, 18: SPRING BREAK
+
+## 10: Mar 21, 23, 25
+
+Transcendentalist Nature
 
 Arthur Ekirch, Jr., _Man and Nature in America_, 47--68 (3 and 4: Emerson and Thoreau)
 
@@ -176,23 +155,19 @@ Ralph Waldo Emerson, "Nature", 1--53.
 
 Thoreau, Excerpts from _Walden_.
 
- John Stuart Mill, the Utility of Religion, Nature chapter 3--68 (selections) [good intro to key definitions]
-
-### Mar 7
-
-### Mar 9
-
-### Mar 11
-- NO CLASS: Get started on your Spring Break!
+John Stuart Mill, the Utility of Religion, Nature chapter 3--68 (selections) [good intro to key definitions]
 
 
 
-### 9: Mar 14, 16, 18: SPRING BREAK
 
+## 11:
+### Mar 28
 
-Aim for around 1900 starting here
+### Mar 30
 
-## 10: Mar 21, 23, 25
+### Apr 1
+
+Preserving and Conserving Nature
 
 - Gifford Pinchot : Selected Writings, 21--28.
 
@@ -206,8 +181,12 @@ Aim for around 1900 starting here
 
 
 
-## 11:
+## 12:
+### Apr 4
 
+### Apr 6
+
+### Apr 8
 Landscapes
 
 - Anne Whiston Spirn, "Constructing Nature: The Legacy of Frederick Law Olmstead", 91--113.
@@ -215,59 +194,38 @@ Landscapes
 - Audrey J Horning, "Of Saints and Sinners: Mythic Landscapes of the Old and New South"
 
 - Paul Claval, "Changing Conceptions of Heritage and Landscape" (from _Heritage, Memory and the Politics of Identity_), 85--92.
-### Mar 28
-
-### Mar 30
-
-### Apr 1
-
-
-
-worster and mckibben together
-
-
-## 12:
-
-### Apr 4
-
-### Apr 6
-
-### Apr 8
 
 
 
 ## 13:
-
 ### Apr 11,13,15
+Suburban Nature
 
-Adam Rome, Bulldozer in the Countryside, Chapter 4 (The first protests against  thebulldozed landscape), 119--152.
+Adam Rome, Bulldozer in the Countryside, Chapter 4 (The first protests against the bulldozed landscape), 119--152.
 
 
 
 ## 14:
-
 ### Apr 18,20,22
+carson and ecology
 
-carson and ecology?
 
 
 
 ## 15:
-
 ### Apr 25,27,29
 
-- Carolyn Merchant, "Reinventing Eden: Western Culture as a Recovery Narrative", 132--159.
-
-- Frederick Turner, "[Life on Mars: Cultivating a Planet — And Ourselves](http://frederickturnerpoet.com/?page_id=88)".
-
-
+worster and mckibben together
 
 
 ## 16:
 
 ### May 2,4,6
+Reframing Nature
 
-leave blank?
+- Carolyn Merchant, "Reinventing Eden: Western Culture as a Recovery Narrative", 132--159.
+
+- Frederick Turner, "[Life on Mars: Cultivating a Planet — And Ourselves](http://frederickturnerpoet.com/?page_id=88)".
 
 
 

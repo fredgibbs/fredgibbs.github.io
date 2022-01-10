@@ -10,6 +10,23 @@ section: schedule
 
 # Schedule of Readings and Assignments
 
+## Decoding the syllabus
+- Regular bullet points listed under each day is what you need to READ BEFORE CLASS.
+- Submit all work via Learn before midnight the day it's listed. Don't worry about a few minutes, but I expect to have them (and will start grading them) early the next morning.
+
+{% include alert.html class='danger' title='Red boxes' text="
+These indicate something you have to DO OR TURN IN.
+"%}
+
+{% include alert.html class='warning' title='Yellow Boxes' text="
+These indicate something you should be aware of, but isn't anything you need to turn in.
+"%}
+
+{% include alert.html class='info' title='Blue boxes' text="
+These indicate what we'll be doing or discussing in class, sometimes with additional links for reference. If there is no blue box for one of our meeting days, there's just a usual class discussion, so no need for a special box.
+"%}
+
+
 ## 1: Introductions
 
 ### Jan 17 (MLK)
@@ -41,18 +58,17 @@ Today we're looking at a couple of very different takes on the necessity and uti
 - Nicholas Bauch, _A Geography of Digestion_, 77--101 (Flaked Cereal) [[ONLINE](http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1367888&site=ehost-live&scope=site&ebv=EB&ppid=pp_77)]
 - John Harvey Kellogg, [_The Stomach_](https://www.google.com/books/edition/The_Stomach/98AmTp5YPmMC?hl=en&gbpv=1) (1896), 1--6.
 
+{% include alert.html class='info' title='IN CLASS' text="
+Week in Review Quiz Review
+"%}
 
 
 
 
-## 3: Unnatural trust
+## 3: Unnatural Trust
 
 ### Jan 31
 - Ann Vileisis, _Kitchen Literacy_, 96--125 (chap. 5: "A new longing for nature").
-
-{% include alert.html class='info' title='IN CLASS' text="
-Illustrations of Cereal, Nature, and Technology
-"%}
 
 
 ### Feb 2
@@ -64,6 +80,9 @@ Today we're looking at how a technology like canning---that seems obviously usef
 ### Feb 4
 - Gabriella M. Petrick, "'Purity as Life: H.J. Heinz, religious sentiment, and the beginning of the industrial diet", 37--57.
 
+{% include alert.html class='info' title='IN CLASS' text="
+Week in Review Quiz Review
+"%}
 
 
 
@@ -79,7 +98,7 @@ Today we're looking at how a technology like canning---that seems obviously usef
 
 
 ### Feb 9
-- Deborah Blum, _The Poison Squad_ (Chapters 7 and 8), 119--152.
+- Deborah Blum, _The Poison Squad_ (Chs. 7 and 8), 119--152.
 - Upton Sinclair, _The Jungle_, 97--105; 140--46 (chapters 9 and 14).
 
 {% include alert.html class='info' title='IN CLASS' text="
@@ -87,22 +106,35 @@ Purity in the newspapers as prep for your [Ad Analysis Assignment](newspaper-ads
 "%}
 
 ### Feb 11
+{% include alert.html class='info' title='IN CLASS' text="
+- Ad Analysis Findings and Questions. Your assignment isn't due until midnight, but please have done a little research before class so you can discuss what you're finding so far. Our discussion should help you improve your ad anaylsis assignment.
+"%}
+
 {% include alert.html class='danger' title='DUE: Ad analysis' text="
-Be sure to submit your [Ad Analysis Assignment](newspaper-ads-guide).
+Be sure to submit your [Ad Analysis Assignment](newspaper-ads-guide) by midnight.
+"%}
+
+
+{% include alert.html class='warning' title='READ AHEAD' text="
+Note you have a big chunk of reading for Monday. Sorry that it's more than usual, but it's best to just plow through rather than drag it out. Consider getting a head start over the weekend. The reward is no class on Friday.
 "%}
 
 
 
 ## 5: Milk
+This week we're learning to read quickly and extract the main point from a food book. The main topic is how the production and distribution and consumption of milk changed in the late 19th and early 20th centuries as cities grew in size (both demographically and physically), pushing dairy farms farther from cities and needing to scale up.
+
 
 ### Feb 14
 - Kendra Smith-Howard, _Pure and Modern Milk_, 1--11; 12--35; 36--66.
 
 ### Feb 16
-- Kendra Smith-Howard, _Pure and Modern Milk_, 67--97, 98--120.
+- Kendra Smith-Howard, _Pure and Modern Milk_, 67--97; 98--120.
 
 ### Feb 18
-{% include alert.html class='danger' title='Book Review Option' text="
+NO CLASS!
+
+{% include alert.html class='danger' title='Book Review' text="
 How does the story of how milk production and distribution is changing illustrate the intersection of food, technology, and society?
 "%}
 
@@ -111,47 +143,52 @@ How does the story of how milk production and distribution is changing illustrat
 ## 6: Industrializing Food
 
 ### Feb 21
-- Susanne Freidberg, _Fresh_ (Introduction and chapter 1), 1--48.
-
-### Feb 23
 - Deborah Fitzgerald, [_Every Farm a Factory: The Industrial Ideal in American Agriculture.](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=3419843), 10--32.
 - Paul H. Johnstone, _Old Ideals Versus New Ideas in Farm Life_ (1940), pages TBD.
 
-### Feb 25
+
+### Feb 23
 - William Boyd, "Making Meat: Science, Technology, and American Poultry Production", 631--664.
 
+### Feb 25
 - Mark Finlay, "Hogs, antibiotics, and the industrial environments of postwar agriculture", 237--254.
 
 
-## 7: Postwar Cooking
+{% include alert.html class='info' title='IN CLASS' text="
+- Week in Review Quiz Review
+"%}
+
+
+
+## 7: Cold War Cooking
 
 ### Feb 28
-- Laura Shapiro, _Something from the Oven_, 3--40.
+- Susanne Freidberg, _Fresh_ (Introduction and chapter 1), 1--48.
+
+{% include alert.html class='info' title='IN CLASS' text="
+- Reading Quiz Review
+"%}
 
 ### Mar 2
-- Laura Shapiro, _Something from the Oven_, 41--84.
+- Laura Shapiro, _Something from the Oven_, 3--40.
 
 ### Mar 4
-{% include alert.html class='danger' title='Book Review Option' text="
+- Laura Shapiro, _Something from the Oven_, 41--84.
+
+{% include alert.html class='danger' title='DUE: Book Review' text="
 How do these do chapters illustrate how technology is impacting cooking at home?
 "%}
 
 
 
-## 8: First 1/2 Reflections
-### Mar 7
-- NO CLASS: Work on your First Half Reflections
-
-### Mar 9
-- NO CLASS: Work on your First Half Reflections
+## 8: Mar 7, 9, 11: NO CLASS
 
 ### Mar 11
-- NO CLASS: Turn in your reflection and get started on your Spring Break!
-
 {% include alert.html class='danger' title='DUE: First Half Reflection' text="
-How would YOU describe the story of food, technology, and society so far? What commonalities do you see between the various topics and readings? What's been most and least interesting so far? AND WHY?!
-"%}
+No class today, but you should submit your First Half Reflection by midnight.
 
+How would YOU describe the story of food, technology, and society so far? What commonalities do you see between the various topics and readings? What's been most and least interesting so far? AND WHY?! As always with reflections, there is no right answer!!! I'm looking for you to show off what you've learned and a serious effort to describe and link the key themes of the course.
+"%}
 
 
 ## 9: Mar 14, 16, 18: SPRING BREAK
@@ -166,7 +203,9 @@ How would YOU describe the story of food, technology, and society so far? What c
 - Carolyn Thomas Peña, _Empty Pleasure_, Chapter 5: 141--175; Conclusion: 219--228.
 
 ### Mar 25
-{% include alert.html class='danger' title='Book Review Option' text="
+NO CLASS!
+
+{% include alert.html class='danger' title='DUE: Book Review' text="
 How does the history of saccharine illustrate the issue of technological risk?
 "%}
 
@@ -186,8 +225,12 @@ There's a quote in the article: "_Whether a food ingredient is GRAS (Generally R
 
 
 ### Apr 1
+{% include alert.html class='info' title='IN CLASS' text="
+Executive summary prep: What kinds of things should be allowed in our food? What is the role of regulation? How can it be enforced? How precise should labeling be? What are the problems with full transparency? How do we assess risk of food additives?
+"%}
+
 {% include alert.html class='danger' title='DUE: Executive Summary' text="
-Drawing widely from this week's readings, submit an [Executive Summary](exec-summary-guide) on the place of 'secret' ingredients in convenience foods and what the role of federal regulation should be. I'm NOT asking you to simply summarize the readings, but to use them as a basis for a more philosophical piece on food additives generally.
+Drawing widely from this week's readings, submit an [Executive Summary](exec-summary-guide) on the place of 'secret' ingredients in convenience foods and what the role of federal regulation should be. DO NOT simply summarize the readings! Use them as a basis for a more philosophical piece on food additives generally.
 
 Questions to consider, but please don't try to answer all of these: What kinds of things should be allowed in our food? What is the role of regulation? How can it be enforced? How precise should labeling be? What are the problems with full transparency? How do we assess risk of food additives?
 "%}
@@ -244,7 +287,6 @@ Prepare an executive summary that addresses this question: How does the history 
 
 ## 15: Social Food
 
-
 ### Apr 25
 - [Eating for the Insta](https://gradfoodstudies.org/2017/11/11/eating-for-the-insta/)
 
@@ -260,13 +302,11 @@ TBD
 ### May 2
 - Megan Poinski, [Technology is revolutionizing food, but how can it be explained to consumers?](https://www.fooddive.com/news/food-tech-explain-marketing/606401/)
 
-{% include alert.html class='danger' title='DUE: Week in Review' text="
-Both articles obviously have the relationship between food and technology at their core, and both make excellent points. But I hope after this class you'll be able to recognize how both are a bit myopic in terms of how they discuss technology.
+### May 4
+No required reading for today!
 
-Regarding whichever article you read:
-- What are the key issues, or basic questions or challenges discussed in the article?
-- What assumptions does it make about technological \"progress\"?
-- Explain, drawing from previous course readings, what key aspects about food and technology are MISSING from the article that should have been touched on a bit more to develop a more thorough analysis of the key issues?
+{% include alert.html class='danger' title='DUE: Essay analysis' text="
+According to Monday's article, how is technology presenting challenges for food labeling? There isn't much historical context in the article, but when have we seen similar issues arise in the past? History never supplies any answers, but how can the history of food + tech help us ask better questions or think more carefully about how to label foods generated with increasingly sophisticated tech?
 "%}
 
 
@@ -274,8 +314,6 @@ Regarding whichever article you read:
 - Check out what Food Tech is talking about [at the last conference](https://futurefoodtechsf.com/agenda/)
 - [How big data is going to help feed nine billion people by 2050](https://www.techrepublic.com/article/how-big-data-is-going-to-help-feed-9-billion-people-by-2050/).  
 
-
-### May 4
 - Course wrap-up
 - Tips for your final essay
 
@@ -287,7 +325,7 @@ NO CLASS: Congrats and Thank you!
 
 ## May 15
 {% include alert.html class='danger' title='DUE: Final Essay' text="
-Final Essays should be submitted via Learn before you go to bed on Friday, May 15th (or perhaps early Saturday morning). If you need a few more days, that's fine, but you should email me to let me know (you don't need to ask, just tell me your plan).
+Final Essays should be submitted via Learn by midnight on Friday, May 15th (or perhaps early Saturday morning). If you need a few more days, that's fine, but please email me to let me know your plan.
 
 See the [final essay guide](final-essay-guide) for more details. And review the [revision guide](writing-advice) after you've got a solid first draft!
 "%}

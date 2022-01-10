@@ -12,7 +12,7 @@ section: links-guides
 
 
 ## Final Exam Question
-You are a hotshot journalist who has been asked to write a smart piece on food and technology. What are the key themes people should be thinking about? Don't just state that history is important or recite course topics. **DESCRIBE WITH EXAMPLES how history helps us think more critically about food and technology useful.**
+You are a hotshot journalist who has been asked to write a smart piece on food and technology. What are the key themes people should be thinking about? Don't just state that history is important or recite course topics. **DESCRIBE WITH EXAMPLES how history helps us think more critically about food and technology.**
 
 
 ## Assignment Goals

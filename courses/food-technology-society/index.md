@@ -14,10 +14,10 @@ section: home
 - 3 Credit Hours
 - Spring 2022; 11 - 11:50 MWF
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
-- Student Hours: 1-3 Wednesdays via Zoom
+- Student Hours: 1:30-3:30 Wednesdays via Zoom (find the link on the UNM Learn course page)
 
 ## Course Description
-It's easy to take supermarkets for granted. It almost seems natural that they should abound with vibrant and uniform vegetables, tasty snacks, and highly perishable but perfectly safe meat and dairy products. But the seeming inevitability of our grocery stores obscures the complex and frequently surprising history of the intersection of food and technology. But by carefully considering the tension between our desire for pure, natural food and our desire for cheap, convenient food helps us understand of our changing relationship to both food and technology.
+It's easy to take supermarkets for granted. It almost seems natural that they should abound with vibrant and uniform vegetables, tasty snacks, and highly perishable but perfectly safe meat and dairy products. But the seeming inevitability of our grocery stores obscures the complex and frequently surprising history of the intersection of food and technology. But by carefully considering the tension between our desire for pure, natural food and our desire for cheap, convenient food helps us understand how technology is constantly reframing our relationship to food.
 
 
 ## Student Learning Outcomes
@@ -63,23 +63,24 @@ This course is focused on cultivating different perspectives about how we can th
 ### Weekly reflections on course readings/discussions
 Almost every Friday starting the 4th week of class, you have some assignment **due by midnight on Friday** that asks you to comment on the readings for the week, usually what we read and discuss on Monday and Wednesday. There are a few different flavors of exercise that we encounter throughout the term, as noted below. Each assignment will use basically the same rubric in Learn.
 
-- 1 ~800-word [historic newspaper ad analysis](newspaper-ads-guide) (10 pts)
-- 2 ~800-word [week in review essays](week-in-review-guide) (10 pts each)
-- 2/3 ~800-word [book reviews](book-review-guide) (10 pts each)
+- 4 Week in Review Quizzes (via Learn) (10--15 pts each)
+- 3 ~600-word [book reviews](book-review-guide) (10 pts each)
 - 2 ~400-word [executive summaries](exec-summary-guide) (10 pts each)
-- 1 ~800-word [website analysis](website-analysis-guide) on GMO safety (10 pts)
+- 1 ~800-word [historic newspaper ad analysis](newspaper-ads-guide) (15 pts)
+- 1 ~800-word [website analysis](website-analysis-guide) on GMO safety (15 pts)
+- 1 ~600-word essay analysis (10 pts)
 
 ### Midterm and final
-- 1 ~1600-word [midterm essay](midterm-essay-guide) (20 pts)
-- 1 ~1600-word [final essay](final-essay-guide) (20 pts)
+- 1 ~1200-word First half reflection (20 pts)
+- 1 ~1200-word [final essay](final-essay-guide) (20 pts)
 
 **There are no right answers!** These are graded primarily on effort. But I expect they do connect to course readings and discussions, so the more do they do that, the more effort it would seem you have put into your assignment.
 
 
 ### Grade Distribution
-Total of 150 points (no, that's not weird).
+Total of ~200 points.
 
-Percent of points (150) | Grade
+% of points | Grade
 --- | ---
 94+ | A
 90-93 | A-
