@@ -63,7 +63,7 @@ This course is focused on cultivating different perspectives about how we can th
 ### Weekly reflections on course readings/discussions
 Almost every Friday starting the 4th week of class, you have some assignment **due by midnight on Friday** that asks you to comment on the readings for the week, usually what we read and discuss on Monday and Wednesday. There are a few different flavors of exercise that we encounter throughout the term, as noted below. Each assignment will use basically the same rubric in Learn.
 
-- 4 Week in Review Quizzes (via Learn) (10--15 pts each)
+- 4 Week-in-Review Quizzes (via Learn) (10--15 pts each)
 - 3 ~600-word [book reviews](book-review-guide) (10 pts each)
 - 2 ~400-word [executive summaries](exec-summary-guide) (10 pts each)
 - 1 ~800-word [historic newspaper ad analysis](newspaper-ads-guide) (15 pts)
@@ -74,7 +74,9 @@ Almost every Friday starting the 4th week of class, you have some assignment **d
 - 1 ~1200-word First half reflection (20 pts)
 - 1 ~1200-word [final essay](final-essay-guide) (20 pts)
 
-**There are no right answers!** These are graded primarily on effort. But I expect they do connect to course readings and discussions, so the more do they do that, the more effort it would seem you have put into your assignment.
+
+### Grading is mostly about effort
+**There are no right answers!** All assignments are graded primarily on what it looks like your effort to connect to course readings and discussions and to highlight interesting points from the readings (which we do in class discussion as well). If you actually do the readings, come to class, and make a serious effort to show me you've learned something, it's almost impossible NOT to get an A.
 
 
 ### Grade Distribution
@@ -138,7 +140,7 @@ UNM is committed to providing courses that are inclusive and accessible for all 
 In accordance with University Policy 2310 and the Americans with Disabilities Act (ADA), academic accommodations may be made for any student who notifies the instructor of the need for an accommodation. It is imperative that you take the initiative to bring such needs to the instructor’s attention, as I am not legally permitted to inquire. Students who may require assistance in emergency evacuations should contact the instructor as to the most appropriate procedures to follow. Contact the [Accessibility Resource Center](https://arc.unm.edu/) at 277-3506 or arcsrvs@unm.edu for additional information.
 
 ### Get additional help
-Students who ask for help are successful students. I encourage students to be familiar with services and policies that can help them navigate UNM successfully. Many services exist to help you succeed academically, such as [peer tutoring at CAPS](http://caps.unm.edu/programs/online-tutoring/) and http://mentalhealth.unm.edu. There are plenty of ways to find your place and your pack at UNM: see the "student guide" tab on my.unm.edu and students.unm.edu.
+Students who ask for help are successful students. I encourage students to be familiar with services and policies that can help them navigate UNM successfully. Many services exist to help you succeed academically, such as [peer tutoring at CAPS](http://caps.unm.edu/programs/online-tutoring/) and various [mental health resources](http://mentalhealth.unm.edu). Also see the UNM [student guide](https://students.unm.edu/).
 
 ### Academic Honesty
 Please ask for help in understanding and avoiding plagiarism (passing the work or words of others off as your own) or other forms academic dishonesty. Doing something dishonest in a class or on an assignment can lead to serious academic consequences, including failing grades and expulsion from the University. Come talk with me about your concerns or needs for academic flexibility or talk with support staff at one of our [student resource centers](https://students.unm.edu/find-your-pack/resource-centers.html) before you do something that may endanger your academic career.
