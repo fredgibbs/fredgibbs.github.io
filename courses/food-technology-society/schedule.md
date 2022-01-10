@@ -10,10 +10,14 @@ section: schedule
 
 # Schedule of Readings and Assignments
 
-## Decoding the syllabus
+
+## General rules
 - Regular bullet points listed under each day is what you need to READ BEFORE CLASS.
+- All work that isn't directly linked to is in our [our Group Library page](https://www.zotero.org/groups/1647225/food-tech-society-unm/library). See the syllabus home page for instructions on gaining access.
 - Submit all work via Learn before midnight the day it's listed. Don't worry about a few minutes, but I expect to have them (and will start grading them) early the next morning.
 
+
+## Decoding the syllabus
 {% include alert.html class='danger' title='Red boxes' text="
 These indicate something you have to DO OR TURN IN.
 "%}
@@ -248,6 +252,10 @@ Questions to consider, but please don't try to answer all of these: What kinds o
 
 ## 12: Environmental Food
 
+{% include alert.html class='warning' title='Just class' text="
+There is no assignment due this week! (about time...i know) But this makes it extra important that you're in class.
+"%}
+
 ### Apr 4
 - VIDEO: [The Green Revolution: Waging A War Against Hunger](https://www.youtube.com/watch?v=HucSCNQ01X4). This 10 min. video presents an informative, but very rosy (and therefore distorted) view of the Green Revolution.
 - R. Douglas Hurt, _The Green Revolution in the Global South : Science, Politics, and Unintended Consequences_ (2020), 1--6 (Intro); 179--195 (Ch. 7). [[ONLINE](https://web.s.ebscohost.com/ehost/ebookviewer/ebook/bmxlYmtfXzIzNzE2MjFfX0FO0?sid=07e8c3cd-a444-47c8-88a3-353595965d76@redis&vid=0&format=EB&lpid=lp_179&rid=0)]
@@ -281,7 +289,7 @@ Isn't it weird that at least culturally speaking we have two fundamental categor
 
 ### Apr 15
 {% include alert.html class='danger' title='DUE: Executive Summary' text="
-Prepare an executive summary that addresses this question: How does the history of food and technology help us understand the future of organics? There is NO RIGHT ANSWER. I'm interested in how much you can bring the course to bear on this question, however you choose to do that. Be sure to consult the [Executive Summary Writing Guide](exec-summary-guide).
+Submit an [executive summary](exec-summary-guide) that addresses this question: How does the history of food and technology help us understand the future of organics? There is NO RIGHT ANSWER. I'm interested in how much you can bring the course to bear on this question, however you choose to do that.
 "%}
 
 
@@ -295,7 +303,7 @@ Prepare an executive summary that addresses this question: How does the history 
 * McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 47--76 (The Long, Paved Road to Industrial Food).
 
 ### Apr 22
-{% include alert.html class='danger' title='DUE: GMO website analysis' text="For this assignment you'll critique a website of your choosing that discusses whether GMOs are safe. Consult the [website analysis guide](website-analysis-guide) for more details. As with all your assignments, the goal is to put the course to use in addressing 'real-world' discussions about the impact of technology on food safety, quality, and risk. The best essays will draw together various themes from the course and makes extensive use of the Jenkins reading.
+{% include alert.html class='danger' title='DUE: GMO website analysis' text="For this assignment you'll critique a website of your choosing that discusses whether GMOs are safe. Consult the [website analysis guide](website-analysis-guide) for more details. As with all your assignments, the goal is to put the course to use in addressing 'real-world' discussions about the impact of technology on food safety, quality, and risk. The best essays will draw together readings from the last few weeks and makes extensive use of the Jenkins reading for this week.
 "%}
 
 
