@@ -34,17 +34,26 @@ These indicate what we'll be doing or discussing in class, sometimes with additi
 ### Jan 19
 We'll review the course aims, assignments, and general plan for the semester. We'll also discuss the problematic concept of "natural food" as a way of considering some key issues we'll be discussing throughout the semester.
 
+You don't need to read this before class, but we'll be discussing: [Feeding the World Today and Tomorrow: The Importance of Food Science and Technology](https://ift.onlinelibrary.wiley.com/doi/full/10.1111/j.1541-4337.2010.00127.x).
+
 
 ### Jan 21
-Today we're looking at a couple of very different takes on the necessity and utility of food science. Why are these so different? Where do such divergent views come from?
+Many topics we cover in this course speak to (but do not answer) the complex question: What is a natural food? We often see "natural" as descriptors of food in grocery stores and restaurant menus, but what does that mean? Can anything be natural anymore? Do we really want that, anyway?
 
-- Melanie Warner, _Pandora's Lunchbox_, xiii--xix; 1--20 (Weird Science). What does Warner think of food technology? How are economies of scale intimately tied to our understanding of natural food? What are key transportation developments that influenced what and how we eat? What's the difference between food grown in the ground and food produced in the lab? Does all food boil down to chemistry?
+- Melanie Warner, _Pandora's Lunchbox_, xiii--xix; 1--20 (Weird Science). What does Warner think of food technology? What would she consider a natural food?
 
+- Joseph LaPorte, [What are natural foods?](https://aeon.co/essays/is-eating-natural-food-the-same-as-eating-whats-healthy).
+
+- [The Family Oracle of Health](https://www.google.com/books/edition/The_Family_Oracle_of_Health_Or_Magazine/K-oEAAAAQAAJ?hl=en&gbpv=0) (1824), bottom 64--top 68 (the section on the "natural food of man").
+
+#### Also relevant
 - [What is a Natural Food](https://www.npr.org/sections/thesalt/2016/05/08/477057872/what-is-natural-food-a-riddle-wrapped-in-notions-of-good-and-evil). Is the idea of natural food essentially a moral judgement about how much technology should or should not be applied to food? Can any clear demarcation between
+- Warren Belasco, _Appetite for Change_, 111--131 (War of the Metaphors).
 
 
 
 ## 2: Improving Nature
+
 
 ### Jan 24
 - Jennifer Wallach, _How America Eats_, 89--top 105 (Chapter 4: Technology and Taste; notice the chapter goes to 110, so don't read the last few pages of the PDF).
@@ -211,7 +220,7 @@ How does the history of saccharine illustrate the issue of technological risk?
 
 
 
-## 11: Secret Ingredients
+## 11: Risky Ingredients
 
 ### Mar 28
 - Melanie Warner, _Pandora's Lunchbox_, 97--123 (Better living through chemistry).
@@ -240,18 +249,23 @@ Questions to consider, but please don't try to answer all of these: What kinds o
 ## 12: Environmental Food
 
 ### Apr 4
-- Green Revolution Reading
-- Michael Pollan, _Omnivore's Dilemma_ (Ch. 2: The Farm), 32--56.
+- VIDEO: [The Green Revolution: Waging A War Against Hunger](https://www.youtube.com/watch?v=HucSCNQ01X4). This 10 min. video presents an informative, but very rosy (and therefore distorted) view of the Green Revolution.
+- R. Douglas Hurt, _The Green Revolution in the Global South : Science, Politics, and Unintended Consequences_ (2020), 1--6 (Intro); 179--195 (Ch. 7). [[ONLINE](https://web.s.ebscohost.com/ehost/ebookviewer/ebook/bmxlYmtfXzIzNzE2MjFfX0FO0?sid=07e8c3cd-a444-47c8-88a3-353595965d76@redis&vid=0&format=EB&lpid=lp_179&rid=0)]
+
+
+{% include alert.html class='info' title='IN CLASS' text="
+We will compare the tone and content of the video to the more sophisticated analysis provided in the Hurt chapter. How do we explain such different presentations? What does that say about our relationship to technology generally?
+"%}
 
 
 ### Apr 6
-- Alina Bradford, [Rachel Carson: Life, Discoveries and Legacy](https://www.livescience.com/62185-rachel-carson-biography.html).
-- Ralph H. Lutts, “Chemical Fallout: Rachel Carson’s Silent Spring, Radioactive Fallout, and the Environmental Movement.” _Environmental Review_ 9.3 (1985): 211--25.
-- Rachel Carson, _Silent Spring_, 5--13; 15--37.
+- Michael Pollan, _Omnivore's Dilemma_ (Ch. 2: The Farm), 32--56.
 
 
 ### Apr 8
-- Warren Belasco, _Appetite for Change_, 29--42 (Radical Consumerism); 111--131 (War of the Metaphors).
+- Alina Bradford, [Rachel Carson: Life, Discoveries and Legacy](https://www.livescience.com/62185-rachel-carson-biography.html).
+- Ralph H. Lutts, “Chemical Fallout: Rachel Carson’s Silent Spring, Radioactive Fallout, and the Environmental Movement”, _Environmental Review_ 9.3 (1985): 211--225.
+- Rachel Carson, _Silent Spring_, 5--13; 15--37.
 
 
 
@@ -294,7 +308,7 @@ Prepare an executive summary that addresses this question: How does the history 
 - Sharon Zukin, Scarlett Lindeman, and Laurie Hurson. “The Omnivore’s Neighborhood? Online Restaurant Reviews, Race, and Gentrification.” _Journal of Consumer Culture_ 17, no. 3 (2017): 459–79.
 
 ### Apr 29
-TBD
+TBD (or no class)
 
 
 ## 16: Food Futures
