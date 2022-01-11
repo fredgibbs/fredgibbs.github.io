@@ -47,7 +47,7 @@ You should see your username or a "Log Out" link on the top nav bar. If you see 
 Once you know you are logged in to zotero.org, visit [our Zotero Group homepage](https://www.zotero.org/groups/1647225/food-tech-society-unm/), and click the red "Join" button off to the right, which will send an email to me. As soon as I see it (usually within an hour or two unless you're doing this late at night), I'll approve your request to join the group. There is nothing else you need to do at this point.
 
 {% include alert.html class='info' title='Accessing Readings Once Connected' text="
-Once you've completed the steps above, and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/1647225/food-tech-society-unm/library). Double clicking an item brings up a PDF of the article or chapter.
+Once you've completed the steps above, and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/1647225/food-tech-society-unm/library). Double-clicking an item brings up a PDF of the article or chapter.
 "%}
 
 
@@ -97,10 +97,12 @@ Total of ~200 points.
 59- | F
 
 ### Submission Policies
-To keep us on schedule, late work will be penalized 1/3 grade for each day late unless due to a medical issue or other extenuating circumstances. You should let me know about these ASAP and let me know when you can get caught up. Do not stress about submitting work a few or minutes or even hours late. That's fine. But days late is not okay. We have to vaguely respect the deadlines to keep from falling behind.
+To keep us on schedule, late work will be penalized 1/3 grade for each day late UNLESS due to a medical issue or other extenuating circumstances (not uncommon these days!). You should let me know about these ASAP and let me know when you plan get caught up. **I'm always happy to be flexible and allow you to submit work late for full credit _as long as you're communicating what's going on_**.
+
+Do not stress about submitting work a few or minutes or even hours late. That's fine. But unless you've gotten in touch with me, days late is not okay. We have to vaguely respect the deadlines to keep from falling hopelessly behind.
 
 ### Feedback
-Because your assignments are scored via a rubric on Learn, they provide some feedback about areas where you could improve. I try to provide some comments as well, but I'm not able to do this thoroughly for everyone each week. That said, if you want more feedback on any assignment, please ask via email and I will be happy to provide it!
+Because your assignments are scored via a rubric on Learn, the rubrics provide some feedback about areas where you could improve. I try to provide some comments as well, but I'm not able to do this thoroughly for everyone for each assignment. That said, if you want more feedback on any assignment, please ask via email and I will be happy to provide it!
 
 More generally, please please please email me at any time to learn how I think you're doing in the class and how it can be improved (if at all). This can be via email or Zoom (in addition to student hours on Wednesday afternoons).
 
@@ -124,9 +126,9 @@ You can only get extra credit points if you have turned in all other assigned wo
 ## Important UNM Announcements and Resources
 
 ### COVID-19
-Perhaps you've heard of it. You should be aware of and follow the [Bring Back the Pack guidelines and requirements](https://bringbackthepack.unm.edu/). Most notably, until told otherwise, we all have to wear masks ALL THE TIME in class.
+Perhaps you've heard of it. You should be aware of and follow the [Bring Back the Pack guidelines and requirements](https://bringbackthepack.unm.edu/). Most notably, until told otherwise, we all have to wear masks ALL THE TIME in class. Per UNM policy, if you don't wear your mask or wear it improperly you will be dropped from the course.
 
-I'm adding one additional rule: Drinks are fine PLEASE MINIMIZE EATING IN CLASS. I know we meet at right around lunchtime, but our own safety (and comfort about our safety) have to come first.
+I'm adding one additional rule: Drinks are fine PLEASE MINIMIZE EATING IN CLASS. I know we meet at around lunchtime, but our own safety (and comfort about our safety) have to come first.
 
 **If you are not feeling well, PLEASE DO NOT COME TO CLASS!** There is no grade penalty for missed classes due to illness of any kind. If you need to quarantine, and miss several classes, that's fine, but please let me know what's going on. We'll work it out and I'll help you stay caught up. You will still be expected to post reading reflections and submit other work (except for serious illnesses, of course).
 
