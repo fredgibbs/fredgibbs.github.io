@@ -194,34 +194,32 @@ How do these do chapters illustrate how technology is impacting cooking at home?
 
 
 
-## 8: Mar 7, 9, 11: NO CLASS
+## 8: Sweetness and Risk
 
-### Mar 11
-{% include alert.html class='danger' title='DUE: First Half Reflection' text="
-No class today, but you should submit your First Half Reflection by midnight.
-
-How would YOU describe the story of food, technology, and society so far? What commonalities do you see between the various topics and readings? What's been most and least interesting so far? AND WHY?! As always with reflections, there is no right answer!!! I'm looking for you to show off what you've learned and a serious effort to describe and link the key themes of the course.
-"%}
-
-
-## 9: Mar 14, 16, 18: SPRING BREAK
-
-
-## 10: Sweetness and Risk
-
-### Mar 21
+### Mar 7
 - Carolyn Thomas Peña, _Empty Pleasure_, Chapter 1: 13--38.
 
-### Mar 23
+### Mar 9
 - Carolyn Thomas Peña, _Empty Pleasure_, Chapter 5: 141--175; Conclusion: 219--228.
 
-### Mar 25
-NO CLASS!
+### Mar 11
+NO CLASS! Get started on your spring break!
 
 {% include alert.html class='danger' title='DUE: Book Review' text="
 How does the history of saccharine illustrate the issue of technological risk?
 "%}
 
+
+
+## 9: Mar 14, 16, 18: SPRING BREAK
+
+
+## 10: Mar 21, 23, 25: MORE REST, SORT OF.
+No class this week! But you do have a midterm, due midnight on Friday, that wraps-up and gets us going for the second half. 
+
+{% include alert.html class='danger' title='DUE: First Half Reflection' text="
+How would YOU describe the story of food, technology, and society so far? What commonalities do you see between the various topics and readings? What's been most and least interesting so far? AND WHY?! As always with reflections, there is no right answer!!! I'm looking for you to show off what you've learned and a serious effort to describe and link the key themes of the course. This is our way of getting back into the course after a much-needed break.
+"%}
 
 
 ## 11: Risky Ingredients
