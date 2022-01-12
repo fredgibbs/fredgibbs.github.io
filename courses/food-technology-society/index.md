@@ -130,7 +130,7 @@ Perhaps you've heard of it. You should be aware of and follow the [Bring Back th
 
 I'm adding one additional rule: Drinks are fine PLEASE MINIMIZE EATING IN CLASS. I know we meet at around lunchtime, but our own safety (and comfort about our safety) have to come first.
 
-**If you are not feeling well, PLEASE DO NOT COME TO CLASS!** There is no grade penalty for missed classes due to illness of any kind. If you need to quarantine, and miss several classes, that's fine, but please let me know what's going on. We'll work it out and I'll help you stay caught up. You will still be expected to post reading reflections and submit other work (except for serious illnesses, of course).
+**If you are not feeling well, PLEASE DO NOT COME TO CLASS!** There is no grade penalty for missed classes due to illness of any kind. If you need to quarantine, and miss several classes, that's fine, but please let me know what's going on. We'll work it out and I'll help you stay caught up. You will still be expected to complete assignments within a reasonable amount of time, but I'm trying to err on the side of compassion and be very flexible with deadlines.
 
 
 ### Respect
