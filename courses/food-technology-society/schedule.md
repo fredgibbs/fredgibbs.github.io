@@ -262,7 +262,7 @@ Questions to consider, but please don't try to answer all of these: What kinds o
 
 
 ## 12: Environmental Food
-
+It was only about 60 years ago that we really started to think about the environmental implications of the incredibly rapid rise of food technology. We also learn about Rachel Carson, one of the few people in history that we can point to as almost single-handedly changing the way we think about the environment and helped create the field of ecology.
 
 {% include alert.html class='warning' title='Just class' text="
 There is no assignment due this week! (about time...i know) But this makes it extra important that you're in class to show that you're keeping up with the readings.
@@ -307,6 +307,7 @@ Submit an [executive summary](exec-summary-guide) that addresses this question: 
 
 
 ## 14: GMOs
+Perhaps no issue more than Genetically Modified Organisms embodies the various themes we've explored in the course thus far. This week we focus on the various issues of food technology that get rarified with the debate about the safety, risk, regulation, and labeling of GMO foods.
 
 ### Apr 18
 * McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 1--46 (Prologue; Are GMOs Safe?).
@@ -320,6 +321,7 @@ Submit an [executive summary](exec-summary-guide) that addresses this question: 
 
 
 ## 15: Social Food
+Most of the class is about technology as applied to food production and distribution. But this week we consider how our attitudes toward food are shaped by social media and representations of food.
 
 ### Apr 25
 - [Eating for the Insta](https://gradfoodstudies.org/2017/11/11/eating-for-the-insta/)
@@ -332,6 +334,7 @@ TBD (or no class)
 
 
 ## 16: Food Futures
+Mostly wrap-up stuff for our last two meetings. Monday continues our theme of thinking through the social implications of technological change when it comes to food production and consumption.
 
 ### May 2
 - Megan Poinski, [Technology is revolutionizing food, but how can it be explained to consumers?](https://www.fooddive.com/news/food-tech-explain-marketing/606401/)
