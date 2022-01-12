@@ -57,7 +57,7 @@ Many topics we cover in this course speak to (but do not answer) the complex que
 
 
 ## 2: Improving Nature
-
+As the U.S. industrialized and urbanized rapidly throughout the 19th century, many people got further away from their food and started buying a lot more of it. This week we look at how developments in urbanization, transportation, and food production touted how much they were improving nature.
 
 ### Jan 24
 - Jennifer Wallach, _How America Eats_, 89--top 105 (Chapter 4: Technology and Taste; notice the chapter goes to 110, so don't read the last few pages of the PDF).
@@ -68,7 +68,7 @@ Many topics we cover in this course speak to (but do not answer) the complex que
 
 
 ### Jan 28
-- Nicholas Bauch, _A Geography of Digestion_, 77--101 (Flaked Cereal) [[ONLINE](http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1367888&site=ehost-live&scope=site&ebv=EB&ppid=pp_77)]
+- Nicholas Bauch, _A Geography of Digestion_, 77--101 (Flaked Cereal) [both [ONLINE](http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1367888&site=ehost-live&scope=site&ebv=EB&ppid=pp_77) and in Zotero as a PDF]
 - John Harvey Kellogg, [_The Stomach_](https://www.google.com/books/edition/The_Stomach/98AmTp5YPmMC?hl=en&gbpv=1) (1896), 1--6.
 
 {% include alert.html class='info' title='IN CLASS' text="
@@ -79,6 +79,7 @@ Week in Review Quiz Review
 
 
 ## 3: Unnatural Trust
+As cities grew, so did the amount of food that city-dwellers had to purchase. But it was a major shift to buy food that came in an opaque can or box. As a result, the idea of a name brand that consumers could trust regardless of the product became central to food production and marketing.
 
 ### Jan 31
 - Ann Vileisis, _Kitchen Literacy_, 96--125 (chap. 5: "A new longing for nature").
@@ -100,6 +101,7 @@ Week in Review Quiz Review
 
 
 ## 4: Pure Food
+As food production and many food products themselves became hidden from consumers, unscrupulous manufacturers would cut almost any corner to lower their costs by using various fillers and misleading consumers as to what was inside the box. In addition, the growth of food chemistry meant that many new chemicals could be added to food to enhance shelf-life and stability. This week we see, as a result of rapid technological change, the debates about the necessity (or not) of government to regulate food manufacturers to ensure purity and honesty.
 
 ### Feb 7
 - Deborah Blum, _The Poison Squad_ (Chs. 2 and 4), 29--46; 65--79.
@@ -120,7 +122,7 @@ Purity in the newspapers as prep for your [Ad Analysis Assignment](newspaper-ads
 
 ### Feb 11
 {% include alert.html class='info' title='IN CLASS' text="
-- Ad Analysis Findings and Questions. Your assignment isn't due until midnight, but please have done a little research before class so you can discuss what you're finding so far. Our discussion should help you improve your ad anaylsis assignment.
+- Ad Analysis Findings and Questions. Your assignment isn't due until midnight, but please have done a little research before class so you can discuss what you're finding so far. Our discussion should help you improve your ad analysis assignment.
 "%}
 
 {% include alert.html class='danger' title='DUE: Ad analysis' text="
@@ -135,14 +137,14 @@ Note you have a big chunk of reading for Monday. Sorry that it's more than usual
 
 
 ## 5: Milk
-This week we're learning to read quickly and extract the main point from a food book. The main topic is how the production and distribution and consumption of milk changed in the late 19th and early 20th centuries as cities grew in size (both demographically and physically), pushing dairy farms farther from cities and needing to scale up.
+This week we're learning to read quickly and extract the main point from a food book. The main topic is how the production and distribution and consumption of milk changed in the late 19th and early 20th centuries as cities grew in size (both demographically and physically), pushing dairy farms farther from cities and also needing to scale up. We'll see how a lot of what we take for granted with milk---as a natural, wholesome, and safe food---has a surprisingly contested history behind it.
 
 
 ### Feb 14
 - Kendra Smith-Howard, _Pure and Modern Milk_, 1--11; 12--35; 36--66.
 
 ### Feb 16
-- Kendra Smith-Howard, _Pure and Modern Milk_, 67--97; 98--120.
+- Kendra Smith-Howard, _Pure and Modern Milk_, 67--97.
 
 ### Feb 18
 NO CLASS!
@@ -154,9 +156,10 @@ How does the story of how milk production and distribution is changing illustrat
 
 
 ## 6: Industrializing Food
+Continuing with the same theme as milk, this week we look at how farms became more like factories in the early 20th century. We also look in particular at the drive to industrialize animals to scale up production and lower costs.
 
 ### Feb 21
-- Deborah Fitzgerald, [_Every Farm a Factory: The Industrial Ideal in American Agriculture.](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=3419843), 10--32.
+- Deborah Fitzgerald, [_Every Farm a Factory: The Industrial Ideal in American Agriculture_](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=3419843), 10--32.
 - Paul H. Johnstone, _Old Ideals Versus New Ideas in Farm Life_ (1940), pages TBD.
 
 
@@ -174,6 +177,12 @@ How does the story of how milk production and distribution is changing illustrat
 
 
 ## 7: Cold War Cooking
+This week brings us two somewhat paradoxical and concurrent trends: the development of refrigeration to have fresher food and frozen foods that were anything but fresh, but very convenient. You might think given the ubiquity of both of these now, that it was an inevitable development of technology. But we'll look at how contested the growth of these were and how they refigured the American kitchen.
+
+
+{% include alert.html class='warning' title='Read Quickly' text="
+There are three big chunks of reading for this week, but they all go fast. Challenge yourself to read quickly without lightly skimming or skipping big chunks. We'll address the main points in class, so all you need to do is have a broad familiarity with what the readings are trying to outline. There is a lot of historical detail to support the authors' claims, which is easy to skim once you've got the main idea.
+"%}
 
 ### Feb 28
 - Susanne Freidberg, _Fresh_ (Introduction and chapter 1), 1--48.
@@ -195,6 +204,7 @@ How do these do chapters illustrate how technology is impacting cooking at home?
 
 
 ## 8: Sweetness and Risk
+This week is about how technology in food creates new concerns and debates about risk. We've already seen in the pure food week how food could be risky from a health standpoint when left purely to capitalist markets. But this week we look at the intersection of scientific understandings of risk versus public perception of them.
 
 ### Mar 7
 - Carolyn Thomas Peña, _Empty Pleasure_, Chapter 1: 13--38.
@@ -214,15 +224,18 @@ How does the history of saccharine illustrate the issue of technological risk?
 ## 9: Mar 14, 16, 18: SPRING BREAK
 
 
-## 10: Mar 21, 23, 25: MORE REST, SORT OF.
-No class this week! But you do have a midterm, due midnight on Friday, that wraps-up and gets us going for the second half. 
+## 10: Mar 21, 23, 25: MORE BREAK, SORT OF.
+No class this week! But you do have a (post) midterm, due midnight on Friday, that wraps-up the first half and gets us primed for the second half.
 
 {% include alert.html class='danger' title='DUE: First Half Reflection' text="
-How would YOU describe the story of food, technology, and society so far? What commonalities do you see between the various topics and readings? What's been most and least interesting so far? AND WHY?! As always with reflections, there is no right answer!!! I'm looking for you to show off what you've learned and a serious effort to describe and link the key themes of the course. This is our way of getting back into the course after a much-needed break.
+How would YOU describe the story of food, technology, and society so far? What commonalities do you see between the various topics and readings? What's been most and least interesting so far? AND WHY?!
+
+**As always with reflections, there is no right answer!!!** I'm looking for you to show off what you've learned and a serious effort to describe and link the key themes of the course. This is our way of getting back into the course after a much-needed break.
 "%}
 
 
 ## 11: Risky Ingredients
+Continuing the theme of risk, this week we look at the modern state of food additives and the intersection of food safety and food technology.
 
 ### Mar 28
 - Melanie Warner, _Pandora's Lunchbox_, 97--123 (Better living through chemistry).
@@ -250,8 +263,9 @@ Questions to consider, but please don't try to answer all of these: What kinds o
 
 ## 12: Environmental Food
 
+
 {% include alert.html class='warning' title='Just class' text="
-There is no assignment due this week! (about time...i know) But this makes it extra important that you're in class.
+There is no assignment due this week! (about time...i know) But this makes it extra important that you're in class to show that you're keeping up with the readings.
 "%}
 
 ### Apr 4
@@ -322,20 +336,18 @@ TBD (or no class)
 ### May 2
 - Megan Poinski, [Technology is revolutionizing food, but how can it be explained to consumers?](https://www.fooddive.com/news/food-tech-explain-marketing/606401/)
 
-### May 4
-No required reading for today!
-
-{% include alert.html class='danger' title='DUE: Essay analysis' text="
-According to Monday's article, how is technology presenting challenges for food labeling? There isn't much historical context in the article, but when have we seen similar issues arise in the past? History never supplies any answers, but how can the history of food + tech help us ask better questions or think more carefully about how to label foods generated with increasingly sophisticated tech?
+{% include alert.html class='danger' title='DUE BY MIDNIGHT: Essay analysis' text="
+According to today's article, how is technology presenting challenges for food labeling? There isn't much historical context in the article, but when have we seen similar issues arise in the past? History never supplies any answers, but how can the history of food + tech help us ask better questions or think more carefully about how to label foods generated with increasingly sophisticated tech?
 "%}
 
-
-#### Skim
-- Check out what Food Tech is talking about [at the last conference](https://futurefoodtechsf.com/agenda/)
-- [How big data is going to help feed nine billion people by 2050](https://www.techrepublic.com/article/how-big-data-is-going-to-help-feed-9-billion-people-by-2050/).  
-
+### May 4
+No required reading for today!
 - Course wrap-up
 - Tips for your final essay
+
+#### Skim before class
+- Check out what Food Tech is talking about [at the last conference](https://futurefoodtechsf.com/agenda/)
+- [How big data is going to help feed nine billion people by 2050](https://www.techrepublic.com/article/how-big-data-is-going-to-help-feed-9-billion-people-by-2050/).  
 
 
 ### May 6
