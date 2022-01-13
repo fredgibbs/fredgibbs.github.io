@@ -42,7 +42,7 @@ You don't need to read this before class, but we'll be discussing: [Feeding the 
 
 
 ### Jan 21
-Many topics we cover in this course speak to (but do not answer) the complex question: What is a natural food? We often see "natural" as descriptors of food in grocery stores and restaurant menus, but what does that mean? Can anything be natural anymore? Do we really want that, anyway?
+Many topics we cover in this course speak to (but do not answer) the complex question: What is a natural food? Does the application of technology to food make it less natural? We often see "natural" as descriptors of food in grocery stores and restaurant menus, but what does that mean? Can anything be natural anymore? Do we really want natural food, anyway?
 
 - Melanie Warner, _Pandora's Lunchbox_, xiii--xix; 1--20 (Weird Science). What does Warner think of food technology? What would she consider a natural food?
 
@@ -57,37 +57,39 @@ Many topics we cover in this course speak to (but do not answer) the complex que
 
 
 ## 2: Improving Nature
-As the U.S. industrialized and urbanized rapidly throughout the 19th century, many people got further away from their food and started buying a lot more of it. This week we look at how developments in urbanization, transportation, and food production touted how much they were improving nature.
+As the U.S. industrialized and urbanized rapidly throughout the 19th century, many people got further away from their food and started buying a lot more of it. This week we look at how developments in urbanization, transportation, and food production touted how much they were improving nature. In the case of cereal, we see how a main breakthrough was to make it more digestible than the natural, raw product. Food ads from the turn of the century show how producers began to claim how they were improving nature, a theme we still see today.
 
 ### Jan 24
-- Jennifer Wallach, _How America Eats_, 89--top 105 (Chapter 4: Technology and Taste; notice the chapter goes to 110, so don't read the last few pages of the PDF).
+- Jennifer Wallach, _How America Eats_ (Ch. 4: Technology and Taste), 89--top 105. Notice the PDF goes to p. 110, so don't read the last few pages.
 
 
 ### Jan 26
-- William Cronon, _Nature's Metropolis_, Chapter 2.
+- William Cronon, _Nature's Metropolis_ (Ch. 2: Rails and Water), 55--93.
 
 
 ### Jan 28
-- Nicholas Bauch, _A Geography of Digestion_, 77--101 (Flaked Cereal) [both [ONLINE](http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1367888&site=ehost-live&scope=site&ebv=EB&ppid=pp_77) and in Zotero as a PDF]
+- Nicholas Bauch, _A Geography of Digestion_ (Ch. 3: Flaked Cereal), 77--101  [both [ONLINE](http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1367888&site=ehost-live&scope=site&ebv=EB&ppid=pp_77) and in Zotero as a PDF]
 - John Harvey Kellogg, [_The Stomach_](https://www.google.com/books/edition/The_Stomach/98AmTp5YPmMC?hl=en&gbpv=1) (1896), 1--6.
 
 {% include alert.html class='info' title='IN CLASS' text="
-Week in Review Quiz Review
+- Discussion of readings for today
+- Theme of Nature in Cereal Ads
+- Week-in-Review Quiz Review (where we cover the hardest questions on the quiz so that they are easy for you later)
+"%}
+
+{% include alert.html class='warning' title='DUE: QUIZ' text="
+After class, I will make the quiz available in Learn. It is due by midnight, but remember our policy for submitting work. Don't stress about being a few minutes or even hours late. But you do need to get in touch if you (or family) have medical issues that are keeping you from your work.
 "%}
 
 
-
-
 ## 3: Unnatural Trust
-As cities grew, so did the amount of food that city-dwellers had to purchase. But it was a major shift to buy food that came in an opaque can or box. As a result, the idea of a name brand that consumers could trust regardless of the product became central to food production and marketing.
+As cities grew, so did the amount of food that city-dwellers had to purchase. But it was a major shift for people to buy food that came in an opaque can or box. A technology like canning---that seems obviously useful and safe now---was viewed with a lot of skepticism. As a result, the idea of a name brand that consumers (think Borden, Heinz, etc) could trust regardless of the product became central to food production and marketing.
 
 ### Jan 31
 - Ann Vileisis, _Kitchen Literacy_, 96--125 (chap. 5: "A new longing for nature").
 
 
 ### Feb 2
-Today we're looking at how a technology like canning---that seems obviously useful and safe now---was viewed with a lot of skepticism. This chapter shows how a main obstacle to selling food in cans was not trouble with canning technology itself, but in building consumer trust.
-
 - Anna Zeide, _Canned_, 1--9; 10--40.
 
 
@@ -95,7 +97,12 @@ Today we're looking at how a technology like canning---that seems obviously usef
 - Gabriella M. Petrick, "'Purity as Life: H.J. Heinz, religious sentiment, and the beginning of the industrial diet", 37--57.
 
 {% include alert.html class='info' title='IN CLASS' text="
-Week in Review Quiz Review
+- Discussion and highlights of the article for today
+- Week-in-Review Quiz Review (same thing as last week, but the quiz will be a bit more short answer)
+"%}
+
+{% include alert.html class='warning' title='DUE: QUIZ' text="
+Same as last week. Be sure to complete the quiz by midnight or let me know what your plan is.
 "%}
 
 
@@ -136,8 +143,8 @@ Note you have a big chunk of reading for Monday. Sorry that it's more than usual
 
 
 
-## 5: Milk
-This week we're learning to read quickly and extract the main point from a food book. The main topic is how the production and distribution and consumption of milk changed in the late 19th and early 20th centuries as cities grew in size (both demographically and physically), pushing dairy farms farther from cities and also needing to scale up. We'll see how a lot of what we take for granted with milk---as a natural, wholesome, and safe food---has a surprisingly contested history behind it.
+## 5: Pure and Modern Milk
+This week we're learning to read quickly and extract the main point from a food book. The main topic is how the production and distribution and consumption of milk changed in the late 19th and early 20th centuries as cities grew in size (both demographically and physically), pushing dairy farms farther from cities and also needing to scale up. We'll see how a lot of what we take for granted with milk---as a natural, wholesome, and safe food---has a surprisingly contested history behind it. The story behind milk perfectly illustrates the themes of the last few weeks in terms of how technology was employed to make "pure" food by improving nature.
 
 
 ### Feb 14
@@ -171,7 +178,11 @@ Continuing with the same theme as milk, this week we look at how farms became mo
 
 
 {% include alert.html class='info' title='IN CLASS' text="
-- Week in Review Quiz Review
+Week-in-Review Quiz Review
+"%}
+
+{% include alert.html class='warning' title='DUE: QUIZ' text="
+Same quiz routine as always. Be sure to complete the quiz by midnight or let me know what your plan is.
 "%}
 
 
@@ -181,24 +192,36 @@ This week brings us two somewhat paradoxical and concurrent trends: the developm
 
 
 {% include alert.html class='warning' title='Read Quickly' text="
-There are three big chunks of reading for this week, but they all go fast. Challenge yourself to read quickly without lightly skimming or skipping big chunks. We'll address the main points in class, so all you need to do is have a broad familiarity with what the readings are trying to outline. There is a lot of historical detail to support the authors' claims, which is easy to skim once you've got the main idea.
+There are three big chunks of reading for this week, but they all go fast. Challenge yourself to read quickly without skipping big chunks. We'll address the main points in class, so all you need to do is have a broad familiarity with what the readings are trying to outline. There is a lot of historical detail to support the authors' claims, which is easy to skim once you've got the main idea.
 "%}
 
 ### Feb 28
-- Susanne Freidberg, _Fresh_ (Introduction and chapter 1), 1--48.
+- Susanne Freidberg, _Fresh_ (Intro and Ch. 1), 1--48.
+
 
 {% include alert.html class='info' title='IN CLASS' text="
-- Reading Quiz Review
+- General discussion and review for reading quiz
+"%}
+
+{% include alert.html class='warning' title='DUE: QUIZ' text="
+Same quiz routine as always, but this time it's just on this one reading. Be sure to complete the quiz by midnight or let me know what your plan is.
 "%}
 
 ### Mar 2
+I don't expect you to read 80 pages for one day of class, but we're going to talk about the whole book as preparation for your review. At a minimum, you should be able to read the first chapter carefully and skim the second. You'll have time to review them later while you're writing your review. This is much less dense than the milk book, so it's a pretty quick read and we can cover it more quickly. And to practice reading quickly is part of reason for the exercises.
+
 - Laura Shapiro, _Something from the Oven_, 3--40.
+- Laura Shapiro, _Something from the Oven_, 41--84.
+
 
 ### Mar 4
-- Laura Shapiro, _Something from the Oven_, 41--84.
+NO CLASS!
+
 
 {% include alert.html class='danger' title='DUE: Book Review' text="
 How do these do chapters illustrate how technology is impacting cooking at home?
+
+FLEX DEADLINE: Book reviews are technically due today, per our usual routine, but as we're all in survival mode at this point in the semester, you can submit your book review anytime in the next week.
 "%}
 
 
@@ -207,16 +230,18 @@ How do these do chapters illustrate how technology is impacting cooking at home?
 This week is about how technology in food creates new concerns and debates about risk. We've already seen in the pure food week how food could be risky from a health standpoint when left purely to capitalist markets. But this week we look at the intersection of scientific understandings of risk versus public perception of them.
 
 ### Mar 7
-- Carolyn Thomas Peña, _Empty Pleasure_, Chapter 1: 13--38.
+- Carolyn Thomas Peña, _Empty Pleasure_ (Ch. 1), 13--38.
 
 ### Mar 9
-- Carolyn Thomas Peña, _Empty Pleasure_, Chapter 5: 141--175; Conclusion: 219--228.
+- Carolyn Thomas Peña, _Empty Pleasure_ (Ch. 5), 141--175; (Conclusion), 219--228.
 
 ### Mar 11
-NO CLASS! Get started on your spring break!
+NO CLASS! Finish your review and get started on your spring break!
 
 {% include alert.html class='danger' title='DUE: Book Review' text="
 How does the history of saccharine illustrate the issue of technological risk?
+
+FLEX DEADLINE: Book reviews are technically due today, per our usual routine, but as we're all in survival mode at this point in the semester, you can submit your book review anytime in the next week.
 "%}
 
 
@@ -227,7 +252,7 @@ How does the history of saccharine illustrate the issue of technological risk?
 ## 10: Mar 21, 23, 25: MORE BREAK, SORT OF.
 No class this week! But you do have a (post) midterm, due midnight on Friday, that wraps-up the first half and gets us primed for the second half.
 
-{% include alert.html class='danger' title='DUE: First Half Reflection' text="
+{% include alert.html class='danger' title='DUE FRIDAY: First Half Reflection' text="
 How would YOU describe the story of food, technology, and society so far? What commonalities do you see between the various topics and readings? What's been most and least interesting so far? AND WHY?!
 
 **As always with reflections, there is no right answer!!!** I'm looking for you to show off what you've learned and a serious effort to describe and link the key themes of the course. This is our way of getting back into the course after a much-needed break.
@@ -235,11 +260,11 @@ How would YOU describe the story of food, technology, and society so far? What c
 
 
 ## 11: Risky Ingredients
-Continuing the theme of risk, this week we look at the modern state of food additives and the intersection of food safety and food technology.
+Continuing the theme of risk, this week we look at the modern state of food additives and the intersection of food safety and food technology. What would Harvey Wiley think of all this stuff in our food?
 
 ### Mar 28
-- Melanie Warner, _Pandora's Lunchbox_, 97--123 (Better living through chemistry).
-- Steve Ettlinger, _Twinkie, Deconstructed_, 29--44.
+- Melanie Warner, _Pandora's Lunchbox_ (Ch. 6: Better living through chemistry), 97--123 .
+- Steve Ettlinger, _Twinkie, Deconstructed_ (Ch. 4: Enrichment Blend), 29--44.
 
 
 ### Mar 30
@@ -250,26 +275,28 @@ There's a quote in the article: "_Whether a food ingredient is GRAS (Generally R
 
 ### Apr 1
 {% include alert.html class='info' title='IN CLASS' text="
-Executive summary prep: What kinds of things should be allowed in our food? What is the role of regulation? How can it be enforced? How precise should labeling be? What are the problems with full transparency? How do we assess risk of food additives?
+We'll be discussing the readings and walking through how to do executive summaries.
+
+What kinds of things should be allowed in our food? What is the role of regulation? How can it be enforced? How precise should labeling be? What are the problems with full transparency? How do we assess risk of food additives?
 "%}
 
 {% include alert.html class='danger' title='DUE: Executive Summary' text="
 Drawing widely from this week's readings, submit an [Executive Summary](exec-summary-guide) on the place of 'secret' ingredients in convenience foods and what the role of federal regulation should be. DO NOT simply summarize the readings! Use them as a basis for a more philosophical piece on food additives generally.
 
-Questions to consider, but please don't try to answer all of these: What kinds of things should be allowed in our food? What is the role of regulation? How can it be enforced? How precise should labeling be? What are the problems with full transparency? How do we assess risk of food additives?
+Questions to consider (as we did in class), but please don't try to answer all of these: What kinds of things should be allowed in our food? What is the role of regulation? How can it be enforced? How precise should labeling be? What are the problems with full transparency? How do we assess risk of food additives?
 "%}
 
 
 
 ## 12: Environmental Food
-It was only about 60 years ago that we really started to think about the environmental implications of the incredibly rapid rise of food technology. We also learn about Rachel Carson, one of the few people in history that we can point to as almost single-handedly changing the way we think about the environment and helped create the field of ecology.
+It was only about 60 years ago that we really started to think about the environmental implications of the incredibly rapid rise of food technology and production. We also learn about Rachel Carson, one of the few people in history that we can point to as almost single-handedly changing the way we think about the environment and helped to create the field of ecology.
 
 {% include alert.html class='warning' title='Just class' text="
 There is no assignment due this week! (about time...i know) But this makes it extra important that you're in class to show that you're keeping up with the readings.
 "%}
 
 ### Apr 4
-- VIDEO: [The Green Revolution: Waging A War Against Hunger](https://www.youtube.com/watch?v=HucSCNQ01X4). This 10 min. video presents an informative, but very rosy (and therefore distorted) view of the Green Revolution.
+- VIDEO: [The Green Revolution: Waging A War Against Hunger](https://www.youtube.com/watch?v=HucSCNQ01X4). This 10 min. video presents an informative, but very rosy (and therefore highly distorted) view of the Green Revolution.
 - R. Douglas Hurt, _The Green Revolution in the Global South : Science, Politics, and Unintended Consequences_ (2020), 1--6 (Intro); 179--195 (Ch. 7). [[ONLINE](https://web.s.ebscohost.com/ehost/ebookviewer/ebook/bmxlYmtfXzIzNzE2MjFfX0FO0?sid=07e8c3cd-a444-47c8-88a3-353595965d76@redis&vid=0&format=EB&lpid=lp_179&rid=0)]
 
 
@@ -294,7 +321,6 @@ Isn't it weird that at least culturally speaking we have two fundamental categor
 
 ### Apr 11
 - Michael Pollan, _Omnivore's Dilemma_ (Ch. 9: Big Organic), 134--184.
-
 
 ### Apr 13
 - Laura B. DeLind, “Transforming Organic Agriculture into Industrial Organic Products: Reconsidering National Organic Standards,” 198–-208.
