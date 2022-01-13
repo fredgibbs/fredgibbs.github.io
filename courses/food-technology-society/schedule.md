@@ -77,7 +77,7 @@ As the U.S. industrialized and urbanized rapidly throughout the 19th century, ma
 - Week-in-Review Quiz Review (where we cover the hardest questions on the quiz so that they are easy for you later)
 "%}
 
-{% include alert.html class='warning' title='DUE: QUIZ' text="
+{% include alert.html class='danger' title='DUE: QUIZ' text="
 After class, I will make the quiz available in Learn. It is due by midnight, but remember our policy for submitting work. Don't stress about being a few minutes or even hours late. But you do need to get in touch if you (or family) have medical issues that are keeping you from your work.
 "%}
 
@@ -101,7 +101,7 @@ As cities grew, so did the amount of food that city-dwellers had to purchase. Bu
 - Week-in-Review Quiz Review (same thing as last week, but the quiz will be a bit more short answer)
 "%}
 
-{% include alert.html class='warning' title='DUE: QUIZ' text="
+{% include alert.html class='danger' title='DUE: QUIZ' text="
 Same as last week. Be sure to complete the quiz by midnight or let me know what your plan is.
 "%}
 
@@ -181,7 +181,7 @@ Continuing with the same theme as milk, this week we look at how farms became mo
 Week-in-Review Quiz Review
 "%}
 
-{% include alert.html class='warning' title='DUE: QUIZ' text="
+{% include alert.html class='danger' title='DUE: QUIZ' text="
 Same quiz routine as always. Be sure to complete the quiz by midnight or let me know what your plan is.
 "%}
 
@@ -208,7 +208,7 @@ Same quiz routine as always, but this time it's just on this one reading. Be sur
 "%}
 
 ### Mar 2
-I don't expect you to read 80 pages for one day of class, but we're going to talk about the whole book as preparation for your review. At a minimum, you should be able to read the first chapter carefully and skim the second. You'll have time to review them later while you're writing your review. This is much less dense than the milk book, so it's a pretty quick read and we can cover it more quickly. And to practice reading quickly is part of reason for the exercises.
+I don't expect you to read 80 pages for one day of class, but we're going to talk about the whole book as preparation for your review due on Friday. At a minimum, you should be able to read the first chapter carefully and skim the second. You'll have time to review them later while you're writing your review. This is much less dense than the milk book, so it's a pretty quick read and we can cover it in a single day. And to practice reading quickly is part of reason for the exercises.
 
 - Laura Shapiro, _Something from the Oven_, 3--40.
 - Laura Shapiro, _Something from the Oven_, 41--84.
@@ -216,7 +216,6 @@ I don't expect you to read 80 pages for one day of class, but we're going to tal
 
 ### Mar 4
 NO CLASS!
-
 
 {% include alert.html class='danger' title='DUE: Book Review' text="
 How do these do chapters illustrate how technology is impacting cooking at home?
@@ -317,7 +316,7 @@ We will compare the tone and content of the video to the more sophisticated anal
 
 
 ## 13: Standardizing Organic
-Isn't it weird that at least culturally speaking we have two fundamental categories of food--organic and non-organic? What does that say about our food system and our expectations for food? Our discussion about organic food isn't as directly about technology as some of our other topics, but I contend that we can't talk productively about organic practices, definitions, labeling, certification, etc, unless we think about the issue in the context of the various ways in which technology and food have a very complicated relationship (that we have been trying to untangle a bit in this course).
+Isn't it weird that at least culturally speaking we have two fundamental categories of food---organic and non-organic? What does that say about our food system and our expectations for food? Our discussion about organic food isn't as directly about technology as some of our other topics, but I contend that we can't talk productively about organic practices, definitions, labeling, certification, etc, unless we think about the issue in the context of the various ways in which technology and food have a very complicated relationship (that we have been trying to untangle a bit in this course).
 
 ### Apr 11
 - Michael Pollan, _Omnivore's Dilemma_ (Ch. 9: Big Organic), 134--184.
