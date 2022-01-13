@@ -14,7 +14,7 @@ section: schedule
 ## General rules
 - Regular bullet points listed under each day is what you need to READ BEFORE CLASS.
 - All work that isn't directly linked to is in [our Zotero library](https://www.zotero.org/groups/1647225/food-tech-society-unm/library). See the syllabus home page for instructions on gaining access.
-- Submit all work via Learn before midnight the day it's listed. Don't worry about a few minutes, but I expect to have them (and will start grading them) early the next morning.
+- Submit all work via Learn (the discussion board) before midnight the day it's listed. Don't worry about a few minutes, but I expect to have them (and will start grading them) early the next morning.
 
 
 ## Decoding the syllabus
@@ -335,10 +335,10 @@ Submit an [executive summary](exec-summary-guide) that addresses this question: 
 Perhaps no issue more than Genetically Modified Organisms embodies the various themes we've explored in the course thus far. This week we focus on the various issues of food technology that get rarified with the debate about the safety, risk, regulation, and labeling of GMO foods.
 
 ### Apr 18
-* McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 1--46 (Prologue; Are GMOs Safe?).
+* McKay Jenkins, _Food Fight: GMOs and the Future of the America_ (Prologue; Are GMOs Safe?), 1--46 .
 
 ### Apr 20
-* McKay Jenkins, _Food Fight: GMOs and the Future of the America_, 47--76 (The Long, Paved Road to Industrial Food).
+* McKay Jenkins, _Food Fight: GMOs and the Future of the America_ (The Long, Paved Road to Industrial Food), 47--76 .
 
 ### Apr 22
 {% include alert.html class='danger' title='DUE: GMO website analysis' text="For this assignment you'll critique a website of your choosing that discusses whether GMOs are safe. Consult the [website analysis guide](website-analysis-guide) for more details. As with all your assignments, the goal is to put the course to use in addressing 'real-world' discussions about the impact of technology on food safety, quality, and risk. The best essays will draw together readings from the last few weeks and makes extensive use of the Jenkins reading for this week.
@@ -359,7 +359,7 @@ TBD (or no class)
 
 
 ## 16: Food Futures
-Mostly wrap-up stuff for our last two meetings. Monday continues our theme of thinking through the social implications of technological change when it comes to food production and consumption.
+Mostly wrap-up stuff for our last two meetings. Monday continues our theme of thinking through the social implications of technological change when it comes to food production and consumption, and how new advancements are challenging traditional categories of food. Should lab-grown meat be labeled as meat? Or is that deceptive?
 
 ### May 2
 - Megan Poinski, [Technology is revolutionizing food, but how can it be explained to consumers?](https://www.fooddive.com/news/food-tech-explain-marketing/606401/)
