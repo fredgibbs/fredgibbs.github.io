@@ -60,11 +60,11 @@ Many topics we cover in this course speak to (but do not answer) the complex que
 As the U.S. industrialized and urbanized rapidly throughout the 19th century, many people got further away from their food and started buying a lot more of it. This week we look at how developments in urbanization, transportation, and food production touted how much they were improving nature. In the case of cereal, we see how a main breakthrough was to make it more digestible than the natural, raw product. Food ads from the turn of the century show how producers began to claim how they were improving nature, a theme we still see today.
 
 ### Jan 24
-- Jennifer Wallach, _How America Eats_ (Ch. 4: Technology and Taste), 89--top 105. Notice the PDF goes to p. 110, so don't read the last few pages.
+- Jennifer Wallach, _How America Eats_ (Ch. 4: Technology and Taste), 89--110.
 
 
 ### Jan 26
-- William Cronon, _Nature's Metropolis_ (Ch. 2: Rails and Water), 55--93.
+- Lisa Haushofer, "Darby's Fluid Meat, Digestion, and the British Imperial Food Supply", 203--216.
 
 
 ### Jan 28
@@ -90,7 +90,8 @@ As cities grew, so did the amount of food that city-dwellers had to purchase. Bu
 
 
 ### Feb 2
-- Anna Zeide, _Canned_, 1--9; 10--40.
+- Anna Zeide, _Canned_, 1--9; 10--30.
+- Anna Zeide, "Marion Harland, Tastemaker", 167--179.
 
 
 ### Feb 4
@@ -358,14 +359,15 @@ Most of the class is about technology as applied to food production and distribu
 TBD (or no class)
 
 
-## 16: Food Futures
+## 16: Fake Meat and Food Futures
 Mostly wrap-up stuff for our last two meetings. Monday continues our theme of thinking through the social implications of technological change when it comes to food production and consumption, and how new advancements are challenging traditional categories of food. Should lab-grown meat be labeled as meat? Or is that deceptive?
 
 ### May 2
 - Megan Poinski, [Technology is revolutionizing food, but how can it be explained to consumers?](https://www.fooddive.com/news/food-tech-explain-marketing/606401/)
+- Adam Shprintzen, "Ella Eaton Kellogg's Protose", 219--231.
 
 {% include alert.html class='danger' title='DUE BY MIDNIGHT: Essay analysis' text="
-According to today's article, how is technology presenting challenges for food labeling? There isn't much historical context in the article, but when have we seen similar issues arise in the past? History never supplies any answers, but how can the history of food + tech help us ask better questions or think more carefully about how to label foods generated with increasingly sophisticated tech?
+According to the Poinski, how is technology presenting challenges for food labeling? There isn't much historical context in the article, but how can histories like that of protose help us? When else have we seen similar issues? History never supplies any answers, but how can the history of food + tech help us ask better questions or think more carefully about how to label foods generated with increasingly sophisticated tech?
 "%}
 
 ### May 4
