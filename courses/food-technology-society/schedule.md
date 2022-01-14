@@ -50,20 +50,24 @@ Many topics we cover in this course speak to (but do not answer) the complex que
 
 - [The Family Oracle of Health](https://www.google.com/books/edition/The_Family_Oracle_of_Health_Or_Magazine/K-oEAAAAQAAJ?hl=en&gbpv=0) (1824), bottom 64--top 68 (the section on the "natural food of man").
 
-#### Also relevant
+#### Notable
 - [What is a Natural Food](https://www.npr.org/sections/thesalt/2016/05/08/477057872/what-is-natural-food-a-riddle-wrapped-in-notions-of-good-and-evil). Is the idea of natural food essentially a moral judgement about how much technology should or should not be applied to food? Can any clear demarcation between
 - Warren Belasco, _Appetite for Change_, 111--131 (War of the Metaphors).
 
 
 
 ## 2: Improving Nature
-As the U.S. industrialized and urbanized rapidly throughout the 19th century, many people got further away from their food and started buying a lot more of it. This week we look at how developments in urbanization, transportation, and food production touted how much they were improving nature. In the case of cereal, we see how a main breakthrough was to make it more digestible than the natural, raw product. Food ads from the turn of the century show how producers began to claim how they were improving nature, a theme we still see today.
+As the U.S. industrialized and urbanized rapidly throughout the 19th century, many people got further away from their food and started buying a lot more of it. This week we look at how developments in urbanization, transportation, and food production touted how much they were improving nature. In the cases of meat extract and cereal, we see how a main goal was make it more digestible than the natural, raw product. Food ads from the turn of the century show how producers began to claim how they were both capturing and improving nature, a theme we still see today in every aisle of the grocery store.
 
 ### Jan 24
 - Jennifer Wallach, _How America Eats_ (Ch. 4: Technology and Taste), 89--110.
 
+#### Notable
+- William Cronon, _Nature's Metropolis_ (Ch. 2: Rails and Water), 55--93.
+
 
 ### Jan 26
+- _Medical Adviser_ 17 (1824), "Dyspepsia" (258 -- top of 260).
 - Lisa Haushofer, "Darby's Fluid Meat, Digestion, and the British Imperial Food Supply", 203--216.
 
 
@@ -114,9 +118,8 @@ As food production and many food products themselves became hidden from consumer
 ### Feb 7
 - Deborah Blum, _The Poison Squad_ (Chs. 2 and 4), 29--46; 65--79.
 
-#### SKIM
+#### SKIM for flavor
 - Fredrick Accum, [A Treatise on Adulterations of Food and Culinary Poisons](https://www.google.com/books/edition/A_Treatise_on_Adulterations_of_Food_and/QMqIbr69qpQC?hl=en) (1820). Skim through the Table of Contents and read 1--15.
-- _Medical Adviser_ 17 (1824), "Dyspepsia" (258 -- top of 260).
 - Sylvester Graham, [A Defense of the Graham System of Living: Or, Remarks on Diet and Regimen. Dedicated to the Rising Generation](https://books.google.com/books?id=ODRlD83ww9IC), 7--15; 88--89; 95--104.
 
 
