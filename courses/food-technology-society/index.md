@@ -21,10 +21,10 @@ It's easy to take supermarkets for granted. It almost seems natural that they sh
 
 
 ## Student Learning Outcomes
-- Think broadly and critically about how food is produced and how technological improvements have altered food systems and our relationship to food
-- Articulate clear arguments about the intersection of agriculture, consumerism, environmental and population health
-- Understand technological developments with respect to food in their historical contexts
-- Critically evaluate argument and evidence in food-related writing
+- Describe key shifts in food technology in their historical contexts
+- Think broadly and critically about the social implications of technological change with respect to food production and distribution
+- Evaluate how food technology continually alters our relationship to food
+- Explain how history helps us ask better questions about developing food technologies
 
 
 ## Readings & Assignments

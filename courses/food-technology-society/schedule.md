@@ -38,7 +38,7 @@ These indicate what we'll be doing or discussing in class, sometimes with additi
 ### Jan 19
 We'll review the course aims, assignments, and general plan for the semester. We'll also discuss the problematic concept of "natural food" as a way of considering some key issues we'll be discussing throughout the semester.
 
-You don't need to read this before class, but we'll be discussing: [Feeding the World Today and Tomorrow: The Importance of Food Science and Technology](https://ift.onlinelibrary.wiley.com/doi/full/10.1111/j.1541-4337.2010.00127.x).
+You don't need to read this before class, but we'll be discussing: [Feeding the World Today and Tomorrow: The Importance of Food Science and Technology](https://ift.onlinelibrary.wiley.com/doi/full/10.1111/j.1541-4337.2010.00127.x). If the website says you don't have access, you can find a PDF of the article in our Zotero Library.
 
 
 ### Jan 21
@@ -54,7 +54,9 @@ Many topics we cover in this course speak to (but do not answer) the complex que
 - [What is a Natural Food](https://www.npr.org/sections/thesalt/2016/05/08/477057872/what-is-natural-food-a-riddle-wrapped-in-notions-of-good-and-evil). Is the idea of natural food essentially a moral judgement about how much technology should or should not be applied to food? Can any clear demarcation between
 - Warren Belasco, _Appetite for Change_, 111--131 (War of the Metaphors).
 
-
+{% include alert.html class='danger' title='DUE: QUIZ' text="
+We have our first quiz this week! It's mostly a quiz on the syllabus to make sure we're clear on a few keys aspects of the class. There are a few questions related to Friday's reading and discussion as well. 
+"%}
 
 ## 2: Improving Nature
 As the U.S. industrialized and urbanized rapidly throughout the 19th century, many people got further away from their food and started buying a lot more of it. This week we look at how developments in urbanization, transportation, and food production touted how much they were improving nature. In the cases of meat extract and cereal, we see how a main goal was make it more digestible than the natural, raw product. Food ads from the turn of the century show how producers began to claim how they were both capturing and improving nature, a theme we still see today in every aisle of the grocery store.
@@ -122,14 +124,16 @@ As food production and many food products themselves became hidden from consumer
 - Fredrick Accum, [A Treatise on Adulterations of Food and Culinary Poisons](https://www.google.com/books/edition/A_Treatise_on_Adulterations_of_Food_and/QMqIbr69qpQC?hl=en) (1820). Skim through the Table of Contents and read 1--15.
 - Sylvester Graham, [A Defense of the Graham System of Living: Or, Remarks on Diet and Regimen. Dedicated to the Rising Generation](https://books.google.com/books?id=ODRlD83ww9IC), 7--15; 88--89; 95--104.
 
+{% include alert.html class='info' title='IN CLASS' text="
+Purity in the newspapers as prep for your [Ad Analysis Assignment](newspaper-ads-guide).
+"%}
+
 
 ### Feb 9
 - Deborah Blum, _The Poison Squad_ (Chs. 7 and 8), 119--152.
 - Upton Sinclair, _The Jungle_, 97--105; 140--46 (chapters 9 and 14).
 
-{% include alert.html class='info' title='IN CLASS' text="
-Purity in the newspapers as prep for your [Ad Analysis Assignment](newspaper-ads-guide).
-"%}
+
 
 ### Feb 11
 {% include alert.html class='info' title='IN CLASS' text="
@@ -207,7 +211,7 @@ There are three big chunks of reading for this week, but they all go fast. Chall
 - General discussion and review for reading quiz
 "%}
 
-{% include alert.html class='warning' title='DUE: QUIZ' text="
+{% include alert.html class='danger' title='DUE: QUIZ' text="
 Same quiz routine as always, but this time it's just on this one reading. Be sure to complete the quiz by midnight or let me know what your plan is.
 "%}
 
@@ -326,7 +330,7 @@ Isn't it weird that at least culturally speaking we have two fundamental categor
 - Michael Pollan, _Omnivore's Dilemma_ (Ch. 9: Big Organic), 134--184.
 
 ### Apr 13
-- Laura B. DeLind, “Transforming Organic Agriculture into Industrial Organic Products: Reconsidering National Organic Standards,” 198–-208.
+- Laura B. DeLind, “Transforming Organic Agriculture into Industrial Organic Products: Reconsidering National Organic Standards,” 198--208.
 
 ### Apr 15
 {% include alert.html class='danger' title='DUE: Executive Summary' text="
@@ -339,10 +343,10 @@ Submit an [executive summary](exec-summary-guide) that addresses this question: 
 Perhaps no issue more than Genetically Modified Organisms embodies the various themes we've explored in the course thus far. This week we focus on the various issues of food technology that get rarified with the debate about the safety, risk, regulation, and labeling of GMO foods.
 
 ### Apr 18
-* McKay Jenkins, _Food Fight: GMOs and the Future of the America_ (Prologue; Are GMOs Safe?), 1--46 .
+* McKay Jenkins, _Food Fight: GMOs and the Future of the America_ (Prologue; Are GMOs Safe?), 1--46.
 
 ### Apr 20
-* McKay Jenkins, _Food Fight: GMOs and the Future of the America_ (The Long, Paved Road to Industrial Food), 47--76 .
+* McKay Jenkins, _Food Fight: GMOs and the Future of the America_ (The Long, Paved Road to Industrial Food), 47--76.
 
 ### Apr 22
 {% include alert.html class='danger' title='DUE: GMO website analysis' text="For this assignment you'll critique a website of your choosing that discusses whether GMOs are safe. Consult the [website analysis guide](website-analysis-guide) for more details. As with all your assignments, the goal is to put the course to use in addressing 'real-world' discussions about the impact of technology on food safety, quality, and risk. The best essays will draw together readings from the last few weeks and makes extensive use of the Jenkins reading for this week.
