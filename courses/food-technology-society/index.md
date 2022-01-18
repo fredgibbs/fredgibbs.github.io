@@ -53,6 +53,11 @@ When you can see all the items in our library, double-clicking an item brings up
 "%}
 
 
+### Familiarity over mastery
+Almost all our readings are meant for a broad (largely non-academic) audience and therefore are relatively quick and engaging reads. At the same time, most are smart, articulate, and give us plenty to talk about, especially as we put them in conversation with each other. For almost everything we read, we're reading to ENGAGE with it, not because it's right. There is a LOT to disagree with across the readings. And we don't all have to agree on anything.
+
+This class has a very average amount of reading for an upper-level humanities course. **That said, you cannot possibly read every word, or every page, or master all the ideas, and that's just fine**. I DO expect you to gain a familiarity across all the readings so that they can inform your weekly assignments.
+
 
 ## Work Requirements and Grading
 The theme for the assignment schedule is slow and steady. Starting Week 2, almost every week you have some assignment **due by midnight on Friday** that asks you to comment on the readings for the week, usually what we read and discuss on Monday and Wednesday. These hold you accountable for keeping up with the course, but these are all pretty short and low stakes so as not to cause unnecessary stress.
@@ -114,13 +119,10 @@ If life gets overwhelming during the course, it can be tempting to drift away fr
 
 
 ## Extra Credit (5-10 points)
-There are roughly a zillion books, journal articles, newspaper articles, websites about food and technology. Most are pretty superficial. But films/documentaries about food are usually more interesting than most other stuff because of the high production costs involved. This does not guarantee quality---surely you've watched films that just weren't worth it---but the genre provides a useful filter against mindless blog posts created simply because someone needs more "content" and places for ads.
+- You can get more than the "maximum" number of points on almost any written assignment by going above and beyond the requirements. Posts that seem to have significant analytical depth to them (usually this means writing a bit more than the minimum) or unusually insightful analysis will get bonus points (usually up to 4). If you're really into a topic and have a little extra time for an assignment, it's an easy way to make sure you're on track for the grade you want.
+- Most quizzes, too, have a few questions that are extra credit. You can of course skip these without any penalty, but it's an easy chance for points.
+- If you are worried you are falling just short of a grade you're aiming for, there is an easy way to ensure you get it! Do a [Food Documentary Critique](food-documentary-analysis) (worth up to 10 points).
 
-As a way of complementing existing course material, So, you can write a film/documentary review of anything related to the relationship between food and technology, for extra credit. Like all other assignments, reviews should be ~800 words (which is insanely short for a balanced and thoughtful review).
-
-Your review has two main tasks: (1) to provide an overview of the film (about 25% of your review); (2) to critically evaluate its strengths and weaknesses in light of the course material. Your review MUST use class readings and discussions! Imagine yourself taking on the role of expert reviewer, helping your reader (not just me) decide if the film is worth their time.
-
-You don't have to ask me if something is appropriate, but you're welcome and encouraged to do that. But you do need to EXPLAIN to me in your review how the film is appropriate and how we should evaluate it in light of the course. Generally speaking, a good effort raises your grade by 1/3 grade (from A- to A).
 
 ### Extra credit is EXTRA, not substitute.
 You can only get extra credit points if you have turned in all other assigned work.
