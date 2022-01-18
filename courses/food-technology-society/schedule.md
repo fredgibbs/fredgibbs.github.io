@@ -44,25 +44,25 @@ You don't need to read this before class, but we'll be discussing: [Feeding the 
 ### Jan 21
 Many topics we cover in this course speak to (but do not answer) the complex question: What is a natural food? Does the application of technology to food make it less natural? We often see "natural" as descriptors of food in grocery stores and restaurant menus, but what does that mean? Can anything be natural anymore? Do we really want natural food, anyway?
 
-- Melanie Warner, _Pandora's Lunchbox_, xiii--xix; 1--20 (Weird Science). What does Warner think of food technology? What would she consider a natural food?
+- Melanie Warner, _Pandora's Lunchbox_, xiii--xix; 1--20 (Weird Science). What does Warner think of food technology? What would she consider a natural food? Do you agree with her definition of "processed" foods?
 
-- Joseph LaPorte, [What are natural foods?](https://aeon.co/essays/is-eating-natural-food-the-same-as-eating-whats-healthy).
+- Joseph LaPorte, [What are natural foods?](https://aeon.co/essays/is-eating-natural-food-the-same-as-eating-whats-healthy). This article discusses ways we should and should not define natural food, with a focus on the dangers of equating natural and healthy. This article is a great example of why thinking about definitions of natural food are important, especially in terms of how it affects thinking about ideas of health.
 
-- [The Family Oracle of Health](https://www.google.com/books/edition/The_Family_Oracle_of_Health_Or_Magazine/K-oEAAAAQAAJ?hl=en&gbpv=0) (1824), bottom 64--top 68 (the section on the "natural food of man").
+- [The Family Oracle of Health](https://www.google.com/books/edition/The_Family_Oracle_of_Health_Or_Magazine/K-oEAAAAQAAJ?hl=en&gbpv=0) (1824), bottom 64--top 68 (the section on the "natural food of man"). This is our first primary source, a very short letter to the editor from 1824 about what our natural diet should be.
 
 #### Notable
 - [What is a Natural Food](https://www.npr.org/sections/thesalt/2016/05/08/477057872/what-is-natural-food-a-riddle-wrapped-in-notions-of-good-and-evil). Is the idea of natural food essentially a moral judgement about how much technology should or should not be applied to food? Can any clear demarcation between
 - Warren Belasco, _Appetite for Change_, 111--131 (War of the Metaphors).
 
 {% include alert.html class='danger' title='DUE: QUIZ' text="
-We have our first quiz this week! It's mostly a quiz on the syllabus to make sure we're clear on a few keys aspects of the class. There are a few questions related to Friday's reading and discussion as well. 
+We have our first quiz this week! It's mostly a quiz on the syllabus to make sure we're clear on a few keys aspects of the class. There are a few questions related to Friday's reading and discussion as well.
 "%}
 
 ## 2: Improving Nature
 As the U.S. industrialized and urbanized rapidly throughout the 19th century, many people got further away from their food and started buying a lot more of it. This week we look at how developments in urbanization, transportation, and food production touted how much they were improving nature. In the cases of meat extract and cereal, we see how a main goal was make it more digestible than the natural, raw product. Food ads from the turn of the century show how producers began to claim how they were both capturing and improving nature, a theme we still see today in every aisle of the grocery store.
 
 ### Jan 24
-- Jennifer Wallach, _How America Eats_ (Ch. 4: Technology and Taste), 89--110.
+- Jennifer Wallach, _How America Eats_ (Ch. 4: Technology and Taste), 89--110. This chapter is a great overview of some technological innovations in food production and provides a useful preview of many topics that we will cover in much more depth to understand the social side of technological change. How would you characterize the overall tone of this chapter in terms of how technology is portrayed?
 
 #### Notable
 - William Cronon, _Nature's Metropolis_ (Ch. 2: Rails and Water), 55--93.
@@ -70,16 +70,16 @@ As the U.S. industrialized and urbanized rapidly throughout the 19th century, ma
 
 ### Jan 26
 - _Medical Adviser_ 17 (1824), "Dyspepsia" (258 -- top of 260).
-- Lisa Haushofer, "Darby's Fluid Meat, Digestion, and the British Imperial Food Supply", 203--216.
+- Lisa Haushofer, "Darby's Fluid Meat, Digestion, and the British Imperial Food Supply", 203--216. Why was fluid meat, which sounds kind of gross to our modern ears, so interesting in the 19th century? How does it represent what's happening with food and technology at the time?  
 
 
 ### Jan 28
+- John Harvey Kellogg, [_The Stomach_](https://www.google.com/books/edition/The_Stomach/98AmTp5YPmMC?hl=en&gbpv=1) (1896), 1--6. Why is the stomach so important to Kellogg? How does this source give us important historical context for the advent of breakfast cereal?
 - Nicholas Bauch, _A Geography of Digestion_ (Ch. 3: Flaked Cereal), 77--101  [both [ONLINE](http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1367888&site=ehost-live&scope=site&ebv=EB&ppid=pp_77) and in Zotero as a PDF]
-- John Harvey Kellogg, [_The Stomach_](https://www.google.com/books/edition/The_Stomach/98AmTp5YPmMC?hl=en&gbpv=1) (1896), 1--6.
 
 {% include alert.html class='info' title='IN CLASS' text="
 - Discussion of readings for today
-- Theme of Nature in Cereal Ads
+- Exploring the theme of Nature in Cereal Ads (lots of slides!)
 - Week-in-Review Quiz Review (where we cover the hardest questions on the quiz so that they are easy for you later)
 "%}
 
