@@ -62,11 +62,14 @@ This class has a very average amount of reading for an upper-level humanities co
 ## Work Requirements and Grading
 The theme for the assignment schedule is slow and steady. Almost every week you have some assignment **due by midnight on Friday** that asks you to comment on the readings for the week, usually what we read and discuss on Monday and Wednesday. These hold you accountable for keeping up with the course, but these are all pretty short and low stakes so as not to cause unnecessary stress.
 
+**Everyone can skip one assignment no questions asked, not including the midterm or final.** I recommend that you save that get-out-of-assignment-free card in case you really need it! If you complete all assignments, your "extra" one will count as extra credit toward your point total.
+
+
 ### Preparedness and participation
 This course is focused on cultivating different perspectives about how we can think about food, technology, and society---not just memorizing and regurgitating supposedly important "facts". Solid (not necessarily perfect) attendance and participation almost always raises your grade 2/3 grade.
 
-- Attendance in most class meetings (15 pts)
-- Attentive participation in most class meetings (15 pts)
+- Attendance in most class meetings (20 pts)
+- Attentive participation in most class meetings (20 pts)
 
 ### Weekly reflections on course readings/discussions
 There are a few different flavors of exercise that we encounter throughout the term, as noted below. Each assignment will use basically the same rubric in Learn.
@@ -84,7 +87,7 @@ There are a few different flavors of exercise that we encounter throughout the t
 
 
 ### Grading is mostly about effort
-**There are no right answers!** All assignments are graded primarily on what it looks like your effort to connect to course readings and discussions and to highlight interesting points from the readings (which we do in class discussion as well). If you actually do the readings, come to class, and make a serious effort to show me you've learned something, it's almost impossible NOT to get an A.
+**There are no right answers!** All assignments are graded primarily on what it looks like your effort to connect to course readings and discussions and to highlight what you found most interesting (which we do in class discussion as well). If you actually do the readings, come to class, and make a serious effort to show me you've learned something, it's almost impossible NOT to get an A.
 
 
 ### Grade Distribution
