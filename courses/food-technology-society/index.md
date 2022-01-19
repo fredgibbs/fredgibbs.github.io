@@ -62,8 +62,6 @@ This class has a very average amount of reading for an upper-level humanities co
 ## Work Requirements and Grading
 The theme for the assignment schedule is slow and steady. Almost every week you have some assignment **due by midnight on Friday** that asks you to comment on the readings for the week, usually what we read and discuss on Monday and Wednesday. These hold you accountable for keeping up with the course, but these are all pretty short and low stakes so as not to cause unnecessary stress.
 
-**Everyone can skip one assignment no questions asked, not including the midterm or final.** I recommend that you save that get-out-of-assignment-free card in case you really need it! If you complete all assignments, your "extra" one will count as extra credit toward your point total.
-
 
 ### Preparedness and participation
 This course is focused on cultivating different perspectives about how we can think about food, technology, and society---not just memorizing and regurgitating supposedly important "facts". Solid (not necessarily perfect) attendance and participation almost always raises your grade 2/3 grade.
@@ -91,7 +89,7 @@ There are a few different flavors of exercise that we encounter throughout the t
 
 
 ### Grade Distribution
-Total of ~220 points.
+Total of ~200 points.
 
 % of points | Grade
 --- | ---
@@ -111,6 +109,9 @@ Total of ~220 points.
 To keep us on schedule, late work will be penalized 1/3 grade for each day late UNLESS due to a medical issue or other extenuating circumstances (not uncommon these days!). You should let me know about these ASAP and let me know when you plan get caught up. **I'm always happy to be flexible and allow you to submit work late for full credit _as long as you're communicating what's going on_**.
 
 Do not stress about submitting work a few or minutes or even hours late. That's fine. But unless you've gotten in touch with me, days late is not okay. We have to vaguely respect the deadlines to keep from falling hopelessly behind.
+
+**Everyone can skip one assignment no questions asked, not including the midterm or final.** I recommend that you save that get-out-of-assignment-free card in case you really need it! If you complete all assignments, your "extra" one will count as extra credit toward your point total.
+
 
 ### Feedback
 Because your assignments are scored via a rubric on Learn, the rubrics provide some feedback about areas where you could improve. I try to provide some comments as well, but I'm not able to do this thoroughly for everyone for each assignment. That said, if you want more feedback on any assignment, please ask via email and I will be happy to provide it!
