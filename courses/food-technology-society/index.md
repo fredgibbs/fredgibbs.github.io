@@ -73,14 +73,14 @@ There are a few different flavors of exercise that we encounter throughout the t
 
 - 5 Week-in-Review Quizzes (via Learn) (10--15 pts each)
 - 3 ~600-word [book reviews](book-review-guide) (15 pts each)
-- 2 ~400-word [executive summaries](exec-summary-guide) (10 pts each)
-- 1 ~800-word [historic newspaper ad analysis](newspaper-ads-guide) (15 pts)
-- 1 ~800-word [website analysis](website-analysis-guide) on GMO safety (15 pts)
+- 2 ~400-word [executive summaries](exec-summary-guide) (15 pts each)
+- 1 ~800-word [historic newspaper ad analysis](newspaper-ads-guide) (20 pts)
+- 1 ~800-word [website analysis](website-analysis-guide) on GMO safety (20 pts)
 - 1 ~600-word essay analysis (10 pts)
 
 ### Midterm and final
-- 1 ~1200-word First half reflection (20 pts)
-- 1 ~1200-word [final essay](final-essay-guide) (20 pts)
+- 1 ~1200-word First half reflection (25 pts)
+- 1 ~1200-word [final essay](final-essay-guide) (25 pts)
 
 
 ### Grading is mostly about effort
@@ -88,7 +88,7 @@ There are a few different flavors of exercise that we encounter throughout the t
 
 
 ### Grade Distribution
-Total of ~200 points.
+Total of ~220 points.
 
 % of points | Grade
 --- | ---
