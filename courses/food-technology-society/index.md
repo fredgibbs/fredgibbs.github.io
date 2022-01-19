@@ -21,9 +21,9 @@ It's easy to take supermarkets for granted. It almost seems natural that they sh
 
 
 ## Student Learning Outcomes
-- Describe key shifts in food technology in their historical contexts
 - Think broadly and critically about the social implications of technological change with respect to food production and distribution
 - Evaluate how food technology continually alters our relationship to food
+- Describe key shifts in food technology in their historical contexts
 - Explain how history helps us ask better questions about developing food technologies
 
 
