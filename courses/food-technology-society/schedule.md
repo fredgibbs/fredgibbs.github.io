@@ -38,7 +38,7 @@ These indicate what we'll be doing or discussing in class, sometimes with additi
 ### Jan 19
 We'll review the course aims, assignments, and general plan for the semester. We'll also discuss the problematic concept of "natural food" as a way of considering some key issues we'll be discussing throughout the semester.
 
-You don't need to read this before class, but we'll be discussing: [Feeding the World Today and Tomorrow: The Importance of Food Science and Technology](https://ift.onlinelibrary.wiley.com/doi/full/10.1111/j.1541-4337.2010.00127.x). If the website says you don't have access, you can find a PDF of the article in our Zotero Library.
+You don't need to read this before class, but we'll be briefly discussing: [Feeding the World Today and Tomorrow: The Importance of Food Science and Technology](https://ift.onlinelibrary.wiley.com/doi/full/10.1111/j.1541-4337.2010.00127.x). If the website says you don't have access, you can find a PDF of the article in our Zotero Library.
 
 
 ### Jan 21
@@ -48,7 +48,7 @@ Many topics we cover in this course speak to (but do not answer) the complex que
 
 - Joseph LaPorte, [What are natural foods?](https://aeon.co/essays/is-eating-natural-food-the-same-as-eating-whats-healthy). This article discusses ways we should and should not define natural food, with a focus on the dangers of equating natural and healthy. This article is a great example of why thinking about definitions of natural food are important, especially in terms of how it affects thinking about ideas of health.
 
-- [The Family Oracle of Health](https://www.google.com/books/edition/The_Family_Oracle_of_Health_Or_Magazine/K-oEAAAAQAAJ?hl=en&gbpv=0) (1824), bottom 64--top 68 (the section on the "natural food of man"). This is our first primary source, a very short letter to the editor from 1824 about what our natural diet should be.
+- [The Family Oracle of Health](https://www.google.com/books/edition/The_Family_Oracle_of_Health_Or_Magazine/K-oEAAAAQAAJ?hl=en&gbpv=0) (1824), 62--64 (_On Vegetable Diet_); bottom 64--top 68 (_What is the Natural Food of Man_). Take a few minutes to skim the titles of the articles as you're scrolling to get to the readings--it's an eclectic mix! This is our first primary source, two very short letters to the editor from 1824 about what our natural diet should be. Writing style aside, the arguments sound like they could come from a diet book published last year.
 
 #### Notable
 - [What is a Natural Food](https://www.npr.org/sections/thesalt/2016/05/08/477057872/what-is-natural-food-a-riddle-wrapped-in-notions-of-good-and-evil). Is the idea of natural food essentially a moral judgement about how much technology should or should not be applied to food? Can any clear demarcation between
