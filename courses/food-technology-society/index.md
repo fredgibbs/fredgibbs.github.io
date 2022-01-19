@@ -60,7 +60,7 @@ This class has a very average amount of reading for an upper-level humanities co
 
 
 ## Work Requirements and Grading
-The theme for the assignment schedule is slow and steady. Starting Week 2, almost every week you have some assignment **due by midnight on Friday** that asks you to comment on the readings for the week, usually what we read and discuss on Monday and Wednesday. These hold you accountable for keeping up with the course, but these are all pretty short and low stakes so as not to cause unnecessary stress.
+The theme for the assignment schedule is slow and steady. Almost every week you have some assignment **due by midnight on Friday** that asks you to comment on the readings for the week, usually what we read and discuss on Monday and Wednesday. These hold you accountable for keeping up with the course, but these are all pretty short and low stakes so as not to cause unnecessary stress.
 
 ### Preparedness and participation
 This course is focused on cultivating different perspectives about how we can think about food, technology, and society---not just memorizing and regurgitating supposedly important "facts". Solid (not necessarily perfect) attendance and participation almost always raises your grade 2/3 grade.
@@ -71,7 +71,7 @@ This course is focused on cultivating different perspectives about how we can th
 ### Weekly reflections on course readings/discussions
 There are a few different flavors of exercise that we encounter throughout the term, as noted below. Each assignment will use basically the same rubric in Learn.
 
-- 4 Week-in-Review Quizzes (via Learn) (10--15 pts each)
+- 5 Week-in-Review Quizzes (via Learn) (10--15 pts each)
 - 3 ~600-word [book reviews](book-review-guide) (15 pts each)
 - 2 ~400-word [executive summaries](exec-summary-guide) (10 pts each)
 - 1 ~800-word [historic newspaper ad analysis](newspaper-ads-guide) (15 pts)
