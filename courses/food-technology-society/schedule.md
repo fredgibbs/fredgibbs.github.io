@@ -62,7 +62,7 @@ We have our first quiz this week! It's mostly a quiz on the syllabus to make sur
 As the U.S. industrialized and urbanized rapidly throughout the 19th century, many people got further away from their food and started buying a lot more of it. This week we look at how developments in urbanization, transportation, and food production touted how much they were improving nature. In the cases of meat extract and cereal, we see how a main goal was make it more digestible than the natural, raw product. Food ads from the turn of the century show how producers began to claim how they were both capturing and improving nature, a theme we still see today in every aisle of the grocery store.
 
 ### Jan 24
-- Jennifer Wallach, _How America Eats_ (Ch. 4: Technology and Taste), 89--110. This chapter is a great overview of some technological innovations in food production and provides a useful preview of many topics that we will cover in much more depth to understand the social side of technological change. How would you characterize the overall tone of this chapter in terms of how technology is portrayed?
+- Jennifer Wallach, _How America Eats_ (Ch. 4: Technology and Taste), 89--105; skim 105--110.  This chapter is a great overview of some technological innovations in food production and provides a useful preview of many topics that we will cover in much more depth to understand the social side of technological change. How would you characterize the overall tone of this chapter in terms of how technology is portrayed?
 
 #### Notable
 - William Cronon, _Nature's Metropolis_ (Ch. 2: Rails and Water), 55--93.
