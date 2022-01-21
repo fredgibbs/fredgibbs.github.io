@@ -133,20 +133,21 @@ Purity in the newspapers as prep for your [Ad Analysis Assignment](newspaper-ads
 - Deborah Blum, _The Poison Squad_ (Chs. 7 and 8), 119--152.
 - Upton Sinclair, _The Jungle_, 97--105; 140--46 (chapters 9 and 14).
 
+{% include alert.html class='info' title='IN CLASS' text="
+- Readings discussion
+- Ad Analysis Findings and Questions. Your assignment isn't due until Friday, but please have done a little research before class so you can discuss what you're finding so far. Our discussion should help you improve your ad analysis assignment.
+"%}
 
 
 ### Feb 11
-{% include alert.html class='info' title='IN CLASS' text="
-- Ad Analysis Findings and Questions. Your assignment isn't due until midnight, but please have done a little research before class so you can discuss what you're finding so far. Our discussion should help you improve your ad analysis assignment.
-"%}
+NO CLASS!
 
 {% include alert.html class='danger' title='DUE: Ad analysis' text="
 Be sure to submit your [Ad Analysis Assignment](newspaper-ads-guide) by midnight.
 "%}
 
-
 {% include alert.html class='warning' title='READ AHEAD' text="
-Note you have a big chunk of reading for Monday. Sorry that it's more than usual, but it's best to just plow through rather than drag it out. Consider getting a head start over the weekend. The reward is no class on Friday.
+Note you have a bigger than usual chunk of reading for Monday. Sorry that it's more than usual, but it's best to just plow through rather than drag it out. Consider getting a head start over the weekend. The reward is no class on Friday.
 "%}
 
 
