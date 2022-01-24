@@ -13,6 +13,7 @@ section: schedule
 
 ## General rules
 - Regular bullet points listed under each day is what you need to READ BEFORE CLASS.
+- Readings are listed in a particular order that I think works best.
 - All work that isn't directly linked to is in [our Zotero library](https://www.zotero.org/groups/1647225/food-tech-society-unm/library). See the syllabus home page for instructions on gaining access.
 - Submit all work via Learn (the discussion board) before midnight the day it's listed. Don't worry about a few minutes, but I expect to have them (and will start grading them) early the next morning.
 
@@ -72,6 +73,8 @@ As the U.S. industrialized and urbanized rapidly throughout the 19th century, ma
 - _Medical Adviser_ 17 (1824), "Dyspepsia" (258 -- top of 260). Another _very_ short primary source for today! What is dyspepsia and why was it of such concern in the early 19th century?
 
 - Lisa Haushofer, "Darby's Fluid Meat, Digestion, and the British Imperial Food Supply", 203--216. Why was fluid meat, which sounds kind of gross to our modern ears, so interesting in the middle of the 19th century? What was the key scientific debate between von Liebig and Pavy? How does it represent what's happening in general with food and science at the time?  
+
+- Stephen Darby, [_On Fluid Meat_](https://archive.org/details/b22298344/mode/2up) (1870). Read the first few pages and skim the rest (it's really short) just to see Darby's own explanation for why his "new" preparation of meat is so valuable.
 
 
 ### Jan 28
