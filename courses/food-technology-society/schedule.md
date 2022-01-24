@@ -69,8 +69,9 @@ As the U.S. industrialized and urbanized rapidly throughout the 19th century, ma
 
 
 ### Jan 26
-- _Medical Adviser_ 17 (1824), "Dyspepsia" (258 -- top of 260).
-- Lisa Haushofer, "Darby's Fluid Meat, Digestion, and the British Imperial Food Supply", 203--216. Why was fluid meat, which sounds kind of gross to our modern ears, so interesting in the 19th century? How does it represent what's happening with food and technology at the time?  
+- _Medical Adviser_ 17 (1824), "Dyspepsia" (258 -- top of 260). Another _very_ short primary source for today! What is dyspepsia and why was it of such concern in the early 19th century?
+
+- Lisa Haushofer, "Darby's Fluid Meat, Digestion, and the British Imperial Food Supply", 203--216. Why was fluid meat, which sounds kind of gross to our modern ears, so interesting in the middle of the 19th century? What was the key scientific debate between von Liebig and Pavy? How does it represent what's happening in general with food and science at the time?  
 
 
 ### Jan 28
