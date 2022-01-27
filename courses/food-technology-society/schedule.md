@@ -79,7 +79,7 @@ As the U.S. industrialized and urbanized rapidly throughout the 19th century, ma
 
 ### Jan 28
 - John Harvey Kellogg, [_The Stomach_](https://www.google.com/books/edition/The_Stomach/98AmTp5YPmMC?hl=en&gbpv=1) (1896), 3--6 (the preface); 17--20 (The Chapter called "The Stomach"). Why is the stomach so important to Kellogg? How does this source give us important historical context for the advent of breakfast cereal?
-- Nicholas Bauch, _A Geography of Digestion_ (Ch. 3: Flaked Cereal), 77--101  [both [ONLINE](http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1367888&site=ehost-live&scope=site&ebv=EB&ppid=pp_77) and in Zotero as a PDF]
+- Nicholas Bauch, _A Geography of Digestion_ (Ch. 3: Flaked Cereal), 77--101  [both [ONLINE](http://libproxy.unm.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1367888&site=ehost-live&scope=site&ebv=EB&ppid=pp_77) and in Zotero as a PDF] This book chapter describes Kellogg's discovery of how to make the flaked cereal that is ubiquitous today. The specific process of discovery isn't the main point, though, but how Kellogg saw his process of preparing cereal as an improvement or enhancement of nature. Food and health had become corrupted through society and technology---we needed a return to a more "natural" diet. Come to class prepared to share what YOU thought were most interesting points from the chapter (I intend to cycle through the notecards, not just rely on volunteers!) 
 
 {% include alert.html class='info' title='IN CLASS' text="
 - Discussion of readings for today
