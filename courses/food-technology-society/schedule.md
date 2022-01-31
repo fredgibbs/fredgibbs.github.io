@@ -98,6 +98,13 @@ As cities grew, so did the amount of food that city-dwellers had to purchase. Bu
 ### Jan 31
 - Ann Vileisis, _Kitchen Literacy_, 96--125 (chap. 5: "A new longing for nature"). This reading Takes a broad view in describing our changing relationship to nature in the late 19th and early 20th centuries. There is a little repetition with stuff we saw last week, but just enough that it's a useful reminder of some key points. Last week we looked at technology improving nature, but today we read about how urban dwellers were interested in getting back to the "real" thing, and in particular how that affected the role of "nature" in early 20th century advertising. Appeals to nature were, as we've discussed, a way of gaining consumers' trust. They didn't need to worry about the details of the production process if they could be convinced that the food was natural, in spite of the rapidly-evolving technology used to produce it. As before, come to class prepared to discuss what you found most insightful or interesting or wrong.
 
+{% include alert.html class='info' title='IN CLASS' text="
+- Discussion and highlights of the article for today
+- Cereal and Nature ads
+- Quick look at [Maud Howe Elliot's article](https://babel.hathitrust.org/cgi/pt?id=mdp.39015012341577&view=1up&seq=104&skin=2021) (as mentioned in the reading).
+- [Recreation Magazine (v. 7: 1902)](https://www.google.com/books/edition/Recreation/lPAXAAAAYAAJ?hl=en&gbpv=1) (skim and check out the "Man Cannot Improve Nature" ad on p. xliii).
+"%}
+
 
 ### Feb 2
 - Anna Zeide, _Canned_, 1--9; 10--30.
@@ -109,6 +116,7 @@ As cities grew, so did the amount of food that city-dwellers had to purchase. Bu
 
 {% include alert.html class='info' title='IN CLASS' text="
 - Discussion and highlights of the article for today
+- Quick look at [Maud Howe Elliot's article](https://babel.hathitrust.org/cgi/pt?id=mdp.39015012341577&view=1up&seq=104&skin=2021) (as mentioned in the reading).
 - Week-in-Review Quiz Review (same thing as last week, but the quiz will be a bit more short answer)
 "%}
 
