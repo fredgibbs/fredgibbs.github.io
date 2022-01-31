@@ -107,8 +107,8 @@ As cities grew, so did the amount of food that city-dwellers had to purchase. Bu
 
 
 ### Feb 2
-- Anna Zeide, _Canned_, 1--9; 10--30.
-- Anna Zeide, "Marion Harland, Tastemaker", 167--179.
+- Anna Zeide, _Canned_, 1--9; 10--30. Things to think about before class: What are the key points in the early history of canning (exact names and dates are not important for us)? How did canners respond to the idea of government regulation? How did canners try to convince consumers that canned good were safe and trustworthy? What does the rise of canned goods represent in the history of food, technology, and society?
+- Anna Zeide, "Marion Harland, Tastemaker", 167--179. This short chapter reviews a little history of canning from the other reading for today, but is especially good at illustrating how consumer attitudes toward canning shifted in the early 20th century. We also see the importance of what we might call an early food celebrity in helping to influence consumer opinion.
 
 
 ### Feb 4
