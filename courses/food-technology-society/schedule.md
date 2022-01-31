@@ -102,7 +102,7 @@ As cities grew, so did the amount of food that city-dwellers had to purchase. Bu
 - Discussion and highlights of the article for today
 - Cereal and Nature ads
 - Quick look at [Maud Howe Elliot's article](https://babel.hathitrust.org/cgi/pt?id=mdp.39015012341577&view=1up&seq=104&skin=2021) (as mentioned in the reading).
-- [Recreation Magazine (v. 7: 1902)](https://www.google.com/books/edition/Recreation/lPAXAAAAYAAJ?hl=en&gbpv=1) (skim and check out the "Man Cannot Improve Nature" ad on p. xliii).
+- [Recreation Magazine (v. 7: 1902)](https://www.google.com/books/edition/Recreation/lPAXAAAAYAAJ?hl=en&gbpv=1) (skim and check out the \"Man Cannot Improve Nature\" ad on p. xliii).
 "%}
 
 
@@ -116,7 +116,6 @@ As cities grew, so did the amount of food that city-dwellers had to purchase. Bu
 
 {% include alert.html class='info' title='IN CLASS' text="
 - Discussion and highlights of the article for today
-- Quick look at [Maud Howe Elliot's article](https://babel.hathitrust.org/cgi/pt?id=mdp.39015012341577&view=1up&seq=104&skin=2021) (as mentioned in the reading).
 - Week-in-Review Quiz Review (same thing as last week, but the quiz will be a bit more short answer)
 "%}
 
