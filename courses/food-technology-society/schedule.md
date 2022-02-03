@@ -112,15 +112,14 @@ As cities grew, so did the amount of food that city-dwellers had to purchase. Bu
 
 
 ### Feb 4
-- Gabriella M. Petrick, "'Purity as Life: H.J. Heinz, religious sentiment, and the beginning of the industrial diet", 37--57.
+NO CLASS and NOTHING TO READ TODAY! Originally, we had Gabriella M. Petrick, "'Purity as Life: H.J. Heinz, religious sentiment, and the beginning of the industrial diet", 37--57.
 
-{% include alert.html class='info' title='IN CLASS' text="
-- Discussion and highlights of the article for today
-- Week-in-Review Quiz Review (same thing as last week, but the quiz will be a bit more short answer)
+{% include alert.html class='warning' title='NO CLASS' text="
+We're extending UNM's snow day through Friday for our class. NO CLASS TODAY!
 "%}
 
 {% include alert.html class='danger' title='DUE: QUIZ' text="
-Same as last week. Be sure to complete the quiz by midnight or let me know what your plan is.
+As always, be sure to complete the quiz by midnight or let me know what your plan is. The quiz will be on the readings and discussions from Monday and Wednesday only, and should be available by Thursday afternoon.
 "%}
 
 
