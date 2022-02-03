@@ -8,38 +8,38 @@ title: Newspaper Ad Analysis
 section: links-guides
 ---
 
-# Newspaper Ad Analysis
+# Ad Analysis
 
 ## Assignment Purpose
-These short essays show that you're able to consult primary sources (old newspapers) and analyze them according to our readings and discussions. We'll use the [Chronicling America](http://chroniclingamerica.loc.gov/) project from the Library of Congress.
+These short essays show that you're able to consult primary sources to understand food-related ads from the late 19th  and early 20th century and analyze them according to our readings and discussions. Honestly, the main goal is to have some fun looking at food ads (or articles) that illustrate the kind of stuff we've been talking about. So I'm hoping you can explain why the ads say what they do given the work we've been doing in the course thus far.
 
 
 ## Your Job
-Go to the [Chronicling America Advanced Search Page](http://chroniclingamerica.loc.gov/#tab=tab_advanced_search), and search for food related words in newspapers from New Mexico from between 1880 and 1920 (you can choose the range of years; a narrower range means more similar ads; a broader range means more diverse kinds of ads. Choose what seems more interesting to you). You need to **select New Mexico** from the list on the left, and **manually enter a date range**.
+Research some food ads.
 
-There is no specific set of words phrases you need to search---that's up to you. Choose terms like _food_, _canned_, _pure_, _nutrition_, _formula_, _diet_, _health_, _natural_, _scientific_, and so on, but PLEASE don't limit yourself to these! You can also search for specific brands or foods if you'd like, but these yield spottier results.
+Two main sources that we've seen in class, are particularly fun:
 
-I recommend using the "all of the words" text box on the search form, but you can try different search methods to see how they affect your results. Different combinations of words work better with certain search methods.
+- 1) [Ladies' Home Journal](https://catalog.hathitrust.org/Record/000059808). You should look through at least two or three different issues. Once you click the link to the issue, you can do a full-text search to find food-related stuff. You can easily see from the text-preview in the left column what might be worth reading in more detail.
 
-Browse through your search results by clicking on the page thumbnails; you'll notice your search terms are highlighted in red. Be sure to scan the whole page for relevant ads and content, not just stuff that's highlighted---you'll find a lot of interesting material that you didn't directly search for!
+- 2) Go to the [Chronicling America Advanced Search Page](http://chroniclingamerica.loc.gov/#tab=tab_advanced_search), and search for food related words in newspapers some state (your choice!) for some range of years between 1890 and 1910 (what we've been talking about most recently). You can choose the range of years; a narrower range means more similar ads; a broader range means more diverse ads. Choose what seems more interesting to you. You need to **select a state** from the list on the left, and **manually enter a date range**. Browse through your search results by clicking on the page thumbnails; you'll notice your search terms are highlighted in red. Be sure to scan the whole page for relevant ads and content, not just stuff that's highlighted---you'll find a lot of interesting material that you didn't directly search for!
 
-Play around with searching for different sets of terms and how the results compare to each other.
+
+### For either source
+There is no specific set of words phrases you should search for---that's entirely up to you. Choose terms like _food, canned, pure, nutrition, extract, soda, natural, scientific_, and so on, but PLEASE don't limit yourself to these! You can also search for specific brands or foods (_peas, milk, etc_) if you'd like, but these yield spottier results. Play around with searching for different sets of terms and how the results compare to each other. Remember that food ads tend to be grouped together, so take some time to look at what you can find around what appears next to your search results---and also just by scrolling through your sources. Not everything is going to appear from the full-text search.
+
 
 Scan through at least several dozen different articles or ads (they're small!)---the more you look at, the easier it will be to write your essay---until you notice some kind of pattern or general feature that seems worth commenting on. Given your search terms (whatever they are), pretend you are going to discuss your findings with, say, a classroom full of students who have also looked at similar ads from similar newspapers. That's the audience you should have in mind while writing.
 
 ## Short Essays
-Write a ~600-word essay about what you found and how they relate to course readings and discussions. DO NOT simply describe a random collection of ads or articles and what they say. Describe how a set of courses tell us something interesting about how people were marketing or discussing food at the time.
+Write a ~600-word report on what you found and how the ads (esp their imagery and language) relate to course readings and discussions. DO NOT simply describe what a few different ads or articles say. Describe how the ads tell us something interesting about how people were marketing or discussing food at the time.
 
 ## Questions to Address
 Keep in mind that maybe not all of these will be relevant to your ads/articles):
-- What kinds of products are being sold?
 - What sensibilities are the ads appealing to?
-- What common themes run through the ads you saw?
+- What common imagery/language/themes run through the ads you saw?
 - How cohesive are the ads? Do they use similar techniques?
-- Who is the audience (think about social status, race/ethnicity)
-- How much do they support or contradict the arguments made in the readings?
-- If you compare ads from two different sets of terms, how can you explain their similarities or differences?
-- How do the newspaper pages in general (not just the ads/articles you're focusing on) give you a different impression of America in the early twentieth century?
+- Who does the audience seem to be (think about social status, race/ethnicity)
+- How can you explain why the ads look like they do based on what we've studied in the course so far?
 
 ## Tips for success
 - **Describe what you searched for**. The first thing you should do is describe the terms you used to search for articles. Put this as a separate statement ahead of your essay. Example:
