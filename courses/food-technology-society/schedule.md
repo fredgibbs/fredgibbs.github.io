@@ -128,14 +128,16 @@ As always, be sure to complete the quiz by midnight or let me know what your pla
 As food production and many food products themselves became hidden from consumers, unscrupulous manufacturers would cut almost any corner to lower their costs by using various fillers and misleading consumers as to what was inside the box. In addition, the growth of food chemistry meant that many new chemicals could be added to food to enhance shelf-life and stability. This week we see, as a result of rapid technological change, the debates about the necessity (or not) of government to regulate food manufacturers to ensure purity and honesty.
 
 ### Feb 7
-- Deborah Blum, _The Poison Squad_ (Chs. 2 and 4), 29--46; 65--79.
+- Deborah Blum, _The Poison Squad_ (Chs. 2 and 4), 29--46; 65--79. These two chapters describe the kinds of adulteration that were common in the late 1800s, as well as the extent to which food adulteration was seen as a serious threat to not only food purity, but food safety. It also starts to outline (and we'll see more on Wednesday) the complex political battles that are behind the push to create the Pure Food and Drug act of 1906. The chief protagonist in these chapters is Harvey Wiley, who is not introduced in the chapters we're reading for today, but has been mentioned in several previous readings as a crusader for more federal regulation of the burgeoning food industry in the later 19th-century.
 
 #### SKIM for flavor
+We won't spend a lot of time on these, but it's important to note how concern about food adulteration had a long history even by the 1880s and 90s as we're focused on this week.
 - Fredrick Accum, [A Treatise on Adulterations of Food and Culinary Poisons](https://www.google.com/books/edition/A_Treatise_on_Adulterations_of_Food_and/QMqIbr69qpQC?hl=en) (1820). Skim through the Table of Contents and read 1--15.
 - Sylvester Graham, [A Defense of the Graham System of Living: Or, Remarks on Diet and Regimen. Dedicated to the Rising Generation](https://books.google.com/books?id=ODRlD83ww9IC), 7--15; 88--89; 95--104.
 
 {% include alert.html class='info' title='IN CLASS' text="
-Purity in the newspapers as prep for your [Ad Analysis Assignment](newspaper-ads-guide).
+- Discussion of the Blum chapters
+- Surveying "pure foods" in the newspapers as prep for your [Ad Analysis Assignment](newspaper-ads-guide).
 "%}
 
 
