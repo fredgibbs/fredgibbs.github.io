@@ -137,7 +137,7 @@ We won't spend a lot of time on these, but it's important to note how concern ab
 
 {% include alert.html class='info' title='IN CLASS' text="
 - Discussion of the Blum chapters
-- Surveying "pure foods" in the newspapers as prep for your [Ad Analysis Assignment](newspaper-ads-guide).
+- Surveying pure foods in the newspapers as prep for your [Ad Analysis Assignment](newspaper-ads-guide).
 "%}
 
 
