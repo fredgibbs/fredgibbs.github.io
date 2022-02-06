@@ -142,8 +142,8 @@ We won't spend a lot of time on these, but it's important to note how concern ab
 
 
 ### Feb 9
-- Deborah Blum, _The Poison Squad_ (Chs. 7 and 8), 119--152.
-- Upton Sinclair, _The Jungle_, 97--105; 140--46 (chapters 9 and 14).
+- Deborah Blum, _The Poison Squad_ (Chs. 7 and 8), 119--152. As for Monday, these two chapters from Blum's book go by quickly. I think they do a nice job of describing the context of Sinclair writing _The Jungle_ and the political issues it sparked. As you read, be thinking about how this more elaborate description of Sinclair, Wiley, and the 1906 Pure Food and Drug Act adds a lot more depth to how it is often summarized (as we've read). That's what we'll focus on in class.
+- Upton Sinclair, _The Jungle_, 97--105; 140--46 (chapters 9 and 14). Even before this week, we've seen plenty of references to _The Jungle_. These few pages give you a more concrete impression of the book itself. The selections also give you a stronger flavor of how the book was primarily about the working conditions and social life of immigrants around the turn of the century, rather than food purity or safety.
 
 {% include alert.html class='info' title='IN CLASS' text="
 - Readings discussion
@@ -155,7 +155,8 @@ We won't spend a lot of time on these, but it's important to note how concern ab
 NO CLASS!
 
 {% include alert.html class='danger' title='DUE: Ad analysis' text="
-Be sure to submit your [Ad Analysis Assignment](newspaper-ads-guide) by midnight.
+- NO QUIZ! But...
+- Be sure to submit your [Ad Analysis Assignment](newspaper-ads-guide) by midnight. - Be sure you've reviewed the rubric before and after writing. Usual caveats apply.
 "%}
 
 {% include alert.html class='warning' title='READ AHEAD' text="
