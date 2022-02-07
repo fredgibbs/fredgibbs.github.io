@@ -136,8 +136,8 @@ We won't spend a lot of time on these, but it's important to note how concern ab
 - Sylvester Graham, [A Defense of the Graham System of Living: Or, Remarks on Diet and Regimen. Dedicated to the Rising Generation](https://books.google.com/books?id=ODRlD83ww9IC), 7--15; 88--89; 95--104.
 
 {% include alert.html class='info' title='IN CLASS' text="
-- Discussion of the Blum chapters
-- Surveying pure foods in the newspapers as prep for your [Ad Analysis Assignment](newspaper-ads-guide).
+- Heinz and purity overview
+- Discussion of the Blum chapters on adulterations and preservatives, and the broader question of government regulation of food manufacturers.
 "%}
 
 
@@ -147,7 +147,8 @@ We won't spend a lot of time on these, but it's important to note how concern ab
 
 {% include alert.html class='info' title='IN CLASS' text="
 - Readings discussion
-- Ad Analysis Findings and Questions. Your assignment isn't due until Friday, but please have done a little research before class so you can discuss what you're finding so far. Our discussion should help you improve your ad analysis assignment.
+- Surveying pure foods in the newspapers as prep for your [Ad Analysis Assignment](newspaper-ads-guide).
+- Ad Analysis Findings and Questions. Your assignment isn't due until Friday, but please look at the assignment guide and start poking around before class so you can discuss what you're finding so far. Our discussion should help you improve your ad analysis assignment.
 "%}
 
 
