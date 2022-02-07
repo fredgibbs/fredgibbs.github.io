@@ -136,7 +136,8 @@ We won't spend a lot of time on these, but it's important to note how concern ab
 - Sylvester Graham, [A Defense of the Graham System of Living: Or, Remarks on Diet and Regimen. Dedicated to the Rising Generation](https://books.google.com/books?id=ODRlD83ww9IC), 7--15; 88--89; 95--104.
 
 {% include alert.html class='info' title='IN CLASS' text="
-- Heinz and purity overview
+- Reminder of your [Ad Analysis Assignment](newspaper-ads-guide).
+- Heinz and purity overview/slides
 - Discussion of the Blum chapters on adulterations and preservatives, and the broader question of government regulation of food manufacturers.
 "%}
 
