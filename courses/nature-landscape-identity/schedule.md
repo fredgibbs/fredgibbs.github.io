@@ -1,7 +1,7 @@
 ---
 layout: syllabus
-course-title: History of Nature
-course-slug: history-of-nature
+course-title: nature, landscape, identity
+course-slug: nature-landscape-identity
 term: Spring 2022
 number: HIST 300-004
 title: Schedule of Readings
@@ -11,10 +11,10 @@ section: schedule
 # Schedule of Readings and Assignments
 
 
-## 9(1): Introductions
+## 1: Introductions
 
 ### Mar 21
-We'll review the course aims, assignments, and general plan for the 1/2 semester. Why do conceptions of "nature" matter, anyway?
+We'll review the course aims, assignments, and general plan for our 1/2 semester together. Why do conceptions of "nature" matter?
 - Raymond Williams, "Ideas of Nature" (1980), 67--85.
 - What is YOUR nature?
 
@@ -23,6 +23,11 @@ We'll review the course aims, assignments, and general plan for the 1/2 semester
 
 - Leo Marx, "[The Idea of Nature in America](https://www.amacad.org/publication/idea-nature-america)", _Daedalus_ (2008): 8--21.
 
+
+Landscape Stories
+2 chapters on indigenous places and mapping indigenous depth of place?
+
+
 Feminine Nature
 
 - Lynn White, Jr., "The Historical Roots of Our Ecological Crisis" _Science_, 155 (1967): 1203-1207.
@@ -30,29 +35,27 @@ Feminine Nature
 - Carolyn Merchant, _The Death of Nature_ (Ch. 1: Nature as Female), 1--41.
 
 
-## 10(2):
 
-# Mar 28
-- Arias-Maldonado, Manuel. Environment and Society: Socionatural Relations in the Anthropocene, 2015. 1--50. A good overview of some question about human/nature divide.
+## 2:: Nature / Culture / Wilderness
 
-
-# Mar 30
-Nature / Culture / Wilderness
+### Mar 28
 - Frederick Turner, "Cultivating the American Garden" (nature / culture divide)
 
 - Michael Pollan, _Second Nature_ (Ch. 2: Nature Abhors a Garden), 37--53; 6 (Weeds are Us) 98--116.
 
+
+#### Noteworthy
+- Arias-Maldonado, Manuel. Environment and Society: Socionatural Relations in the Anthropocene, 2015. 1--50. A good overview of some question about human/nature divide.
+
+
+#### Mar 30
 - William Cronon, "The Trouble with Wilderness: Or, Getting Back to the Wrong Nature", _Environmental History_, 1.1 (1996).
 
 - Michael Pollan, _Second Nature_ (Ch. 10: The Idea of a Garden), 176--201.
 
 
 
-## 11(3):
-
-
-
-## 12(4):
+## 3:
 ### Apr 4
 Early American Nature
 
@@ -79,7 +82,8 @@ Romantic Nature
 
 
 
-## 13(5):
+
+## 4::
 ### Apr 11
 Transcendentalist Nature
 
@@ -95,7 +99,6 @@ John Stuart Mill, the Utility of Religion, Nature chapter 3--68 (selections) [go
 
 
 ### Apr 13
-
 Preserving and Conserving Nature
 
 - Gifford Pinchot : Selected Writings, 21--28.
@@ -109,8 +112,21 @@ Preserving and Conserving Nature
 - Miles A. Powell, “‘Pestered with Inhabitants’: Aldo Leopold, William Vogt, and More Trouble with Wilderness.” Pacific Historical Review 84, no. 2 (2015): 195–226.
 
 
-## 14(6):
+## 5:
 ### Apr 18
+carson and ecology
+
+
+
+### Apr 20
+
+
+
+## 6:
+### Apr 25
+
+
+### Apr 27
 Landscapes
 
 - Anne Whiston Spirn, "Constructing Nature: The Legacy of Frederick Law Olmstead", 91--113.
@@ -120,21 +136,12 @@ Landscapes
 - Paul Claval, "Changing Conceptions of Heritage and Landscape" (from _Heritage, Memory and the Politics of Identity_), 85--92.
 
 
-### Apr 20
-carson and ecology
 
 
-## 15(7):
-### Apr 25
 
-
-### Apr 27
-worster and mckibben together
-
-
-## 16(8):
-
+## 7:
 ### May 2
+worster and mckibben together
 
 
 ### May 4
@@ -145,11 +152,11 @@ Reframing Nature
 - Frederick Turner, "[Life on Mars: Cultivating a Planet — And Ourselves](http://frederickturnerpoet.com/?page_id=88)".
 
 
+## 8: FIANLS WEEK
 
-
-## May 15
+## May 14
 {% include alert.html class='danger' title='DUE: Final Course Reflection' text="
-Final Essays should be emailed to me before you go to bed on Friday, May 15th (or perhaps early Saturday morning). If you need a few more days, that's fine, but you must email me to let me know (you don't need to ask, just let me know). Grades are due in the middle of the week so there isn't much more leeway I can give you, unless you want to take an Incomplete.
+Final Essays should be submitted before you go to bed on May 14th (or perhaps early Saturday morning). If you need a few more days, that's fine, but you must email me to let me know (you don't need to ask, just let me know). Grades are due in the middle of the week so there isn't much more leeway I can give you, unless you want to take an Incomplete.
 
 See the [final essay guide](final-essay-guide) for more details. And review the [revision guide](writing-advice) after you've got a solid first draft!
 "%}
