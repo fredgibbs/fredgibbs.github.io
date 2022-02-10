@@ -172,10 +172,10 @@ This week we're learning to read quickly and extract the main point from a food 
 
 
 ### Feb 14
-- Kendra Smith-Howard, _Pure and Modern Milk_, 1--11; 12--35; 36--66.
+- Kendra Smith-Howard, _Pure and Modern Milk_ (Intro, Chs. 1 and 2), 3--35; 36--66.
 
 ### Feb 16
-- Kendra Smith-Howard, _Pure and Modern Milk_, 67--97.
+- Kendra Smith-Howard, _Pure and Modern Milk_ (Ch. 3), 67--97.
 
 ### Feb 18
 NO CLASS!
