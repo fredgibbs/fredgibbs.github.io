@@ -14,10 +14,10 @@ section: links-guides
 This assignment shows that you’re able to apply the course to a critical description and evaluation of a food-related text. **This is the goal of the entire course (see Student Learning Outcomes!)---to help you think carefully and historically about the complex relationship between food and technology.** In terms of the writing itself, the assignments encourage/force you to focus on the clarity and concision of your thinking and expression. It's a skill that you'll frequently employ in your future career, whatever it is.
 
 ## Assignment Format
-Your essay must be ~600 words. **This restrictive format is deliberate, to force you to think about quality over quantity.** The challenge is NOT to meet the word count, but to pack as much analysis and synthesis into that space as you can and show me your effort and engagement with the readings. This should be quite easy if you're coming to class.
+Your essay must be at least ~600 words, but a few more may be necessary. **This restrictive format is deliberate, to force you to think about quality over quantity.** The challenge is NOT to meet the word count, but to pack as much analysis and synthesis into that space as you can and show me your effort and engagement with the readings. This should be quite easy if you're coming to class.
 
 ## Audience
-Pretend your audience is NOT ME as your professor. It's someone who likes food or food history and might be interested in this kind of book, and is therefore reading a concise review to get a sense of what it's about, and how it can help us think more critically about food and technology. You should assume your audience has NOT read it, and that you're helping them to decide if it's worth their time.
+**Your audience is NOT ME as your professor.** It's someone who likes food or food history and might be interested in this kind of book, and is therefore reading a concise review to get a sense of what it's about, and how it can help us think more critically about food and technology. You should assume your audience has NOT read it, and that you're helping them to decide if it's worth their time.
 
 ## Organizational advice
 Although you don't need to have distinct section headings, you should have three main sections to your paper. You should have multiple paragraphs in each section. Paragraphs are for ideas, not sections.

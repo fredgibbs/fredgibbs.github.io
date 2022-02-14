@@ -181,7 +181,7 @@ This week we're learning to read quickly and extract the main point from a food 
 NO CLASS!
 
 {% include alert.html class='danger' title='Book Review' text="
-How does the story of how milk production and distribution is changing illustrate the intersection of food, technology, and society?
+Follow the [Book Review Guide](book-review-guide)! We're not reading the whole book, so the review applies to only the chapters for this week.
 "%}
 
 

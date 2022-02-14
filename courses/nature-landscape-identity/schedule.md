@@ -27,6 +27,15 @@ We'll review the course aims, assignments, and general plan for our 1/2 semester
 Landscape Stories
 2 chapters on indigenous places and mapping indigenous depth of place?
 
+J. B. Jackson, _Sense of Place, A Sense of Time_, 15--25 or 37.
+
+D. W. Meinig, "The Beholding Eye: "
+
+
+something about urban places,
+place memory (ferrar article)
+Dolores Hayden, _The Power of Place_, 15--43.
+
 
 Feminine Nature
 
@@ -142,7 +151,7 @@ Landscapes
 ## 7:
 ### May 2
 worster and mckibben together
-
+Bill McKibben, _The End of Nature_, Chap. 2.
 
 ### May 4
 Reframing Nature
