@@ -25,20 +25,13 @@ Although you don't need to have distinct section headings, you should have three
 ### Summary (~200 words)
 You should begin your essay with a **thorough but quick summary** of the book so that your readers have an idea of BOTH the **general topics covered** AND the **main themes addressed**. Go for breadth over depth, as you want to give your reader a clear sense of what's included in the book.  Your ability to recount both the topics and themes shows that you've been (a) actually reading and (b) paying attention and taking notes in our discussions.
 
-### Strengths, Weaknesses, Critical Omissions (~200 words)
-As part of your evaluation of the strengths and weaknesses, **comment briefly on the historical evidence** the author uses. Maybe there are "scientific" studies, maybe anecdotal evidence, maybe nothing. Is the evidence sufficient to support the historical claims?
-
-In general you want to address questions like:
-- How was the book most successful?
-- What did you find problematic?
-- Are there key issues or topics that were not addressed?
-- Are you convinced by the evidence?
-- How well does the author balance historical content (just the facts) versus talking about larger themes (media, industry, science, consumerism, etc)?
-
-NOTE: All histories are biased and all authors have an agenda. So it's not so interesting simply to note that an author seems have a particular opinion about X or Y. That said, you should comment on whether the bias or agenda seems to get in the way of the book?
+### Connections to Course Material (~200 words)
+The main point of this section is to show off what you've learned so far and connect the book to previous material. What's similar to what we've seen before? What's different?  
 
 ### Importance and Relevance (~200 words)
-What besides historical knowledge can we take away from the book? Are there lessons we should learn? Can you imagine an analogous situation that we might need address in the future? **What are the implications of the book for the modern consumer?** Don't simply say that the history of X is important. Everyone knows that (not true, but let's pretend). Make a specific case how the book is useful beyond the history it presents. This may or may not be explicitly addressed in the book. You might even say something like: "Even though it's not explicitly addressed, this book is useful because..."
+What besides historical knowledge can we take away from the book? Are there lessons we should learn? Can you imagine an analogous situation that we might need address in the future? **What are the implications of the book for the modern consumer?**
+
+Don't simply say that the history of X is important. Everyone knows that (not true, but let's pretend). Make a specific case how the book is useful beyond the history it presents. This may or may not be explicitly addressed in the book. You might even say something like: "Even though it's not explicitly addressed, this book is useful because..."
 
 ## References and Citations
 Anything in your text that refers to a specific point or idea should a have parenthetical page reference. These show the reader how you are using the book in your review. The author claims that food is no longer good for us (13). The author of the book is implied since we only have one source. If you are citing other texts from class, use author/date format (Gibbs, 75).
