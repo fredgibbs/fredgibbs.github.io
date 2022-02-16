@@ -187,7 +187,7 @@ Follow the [Book Review Guide](book-review-guide)! We're not reading the whole b
 
 
 ## 6: Industrializing Food
-Continuing with the same theme as milk, this week we look at how farms became more like factories in the early 20th century. We also look in particular at the drive to industrialize animals to scale up production and lower costs. This week continues our exploration of our changing relationship to nature driven (in part) by food production. 
+Continuing with the same theme as milk, this week we look at how farms became more like factories in the early 20th century. We also look in particular at the drive to industrialize animals to scale up production and lower costs. This week continues our exploration of our changing relationship to nature driven (in part) by food production.
 
 ### Feb 21
 - Deborah Fitzgerald, [_Every Farm a Factory: The Industrial Ideal in American Agriculture_](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=3419843), 10--32.
@@ -201,7 +201,6 @@ Pick one of these fairly carefully and come to class ready to share what you lea
 
 ### Feb 25
 NO CLASS!
-
 
 {% include alert.html class='danger' title='DUE: WEEK IN REVIEW' text="
 For this week, write ~600--800  words on what you learned or thought was most significant about industrializing farms. Submit on the discussion board on Learn as usual. The best essays will draw the various readings for the week together (and just talking about one of the two for Wednesday is fine)
