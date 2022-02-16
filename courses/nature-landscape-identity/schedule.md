@@ -18,26 +18,13 @@ We'll review the course aims, assignments, and general plan for our 1/2 semester
 - Raymond Williams, "Ideas of Nature" (1980), 67--85.
 - What is YOUR nature?
 
+
 ### Mar 23
 - Frédéric Ducarme and Denis Couvet, “What Does ‘Nature’ Mean?” Palgrave Communications 6, no. 1 (January 31, 2020): 1–8.
 
 - Leo Marx, "[The Idea of Nature in America](https://www.amacad.org/publication/idea-nature-america)", _Daedalus_ (2008): 8--21.
 
 
-Landscape Stories
-2 chapters on indigenous places and mapping indigenous depth of place?
-
-J. B. Jackson, _Sense of Place, A Sense of Time_, 15--25 or 37.
-
-D. W. Meinig, "The Beholding Eye: "
-
-
-something about urban places,
-place memory (ferrar article)
-Dolores Hayden, _The Power of Place_, 15--43.
-
-
-Feminine Nature
 
 - Lynn White, Jr., "The Historical Roots of Our Ecological Crisis" _Science_, 155 (1967): 1203-1207.
 
@@ -52,9 +39,7 @@ Feminine Nature
 
 - Michael Pollan, _Second Nature_ (Ch. 2: Nature Abhors a Garden), 37--53; 6 (Weeds are Us) 98--116.
 
-
-#### Noteworthy
-- Arias-Maldonado, Manuel. Environment and Society: Socionatural Relations in the Anthropocene, 2015. 1--50. A good overview of some question about human/nature divide.
+- Bill McKibben, _The End of Nature_, Chap. 2, 40--78.
 
 
 #### Mar 30
@@ -68,15 +53,12 @@ Feminine Nature
 ### Apr 4
 Early American Nature
 
-- Mark Fiege, _Republic of Nature_ (Ch. 2: By the Law's of Nature and Nature's God), 57-99.
-
 - Richard White, "Discovering Nature in North America", 874--891.
-
-- Leo Marx, _Machine in the Garden_, 73-144.
 
 - Arthur Ekirch, Jr., _Man and Nature in America_, 10--21 (2: The Agrarian Dream)
 
 - Thomas Jefferson, _Notes on Virginia_ (TBD)
+
 
 ### Apr 6
 Romantic Nature
@@ -98,45 +80,54 @@ Transcendentalist Nature
 
 Arthur Ekirch, Jr., _Man and Nature in America_, 47--68 (3 and 4: Emerson and Thoreau)
 
-?? Worster, _Nature's Economy_, 59--97.
-
 Ralph Waldo Emerson, "Nature", 1--53.
 
 Thoreau, Excerpts from _Walden_.
 
-John Stuart Mill, the Utility of Religion, Nature chapter 3--68 (selections) [good intro to key definitions]
+
 
 
 ### Apr 13
 Preserving and Conserving Nature
 
-- Gifford Pinchot : Selected Writings, 21--28.
+- John M. Meyer, "Gifford Pinchot, John Muir, and the Boundaries of Politics in American Thought", Polity, 30.2 (1997), 267–84.
+
+- Gifford Pinchot : Selected Writings, 21--28. [online]
 
 - "A Plan to Save the Forests" (Century Magazine, Feb. 1895), 626--634.
 
-- John M. Meyer, "Gifford Pinchot, John Muir, and the Boundaries of Politics in American Thought", Polity, 30.2 (1997), 267–84.
+- Miles A. Powell, “‘Pestered with Inhabitants’: Aldo Leopold, William Vogt, and More Trouble with Wilderness.” Pacific Historical Review 84, no. 2 (2015): 195–226.
 
 - John Muir, My First Summer in the Sierra (https://www.google.com/books/edition/My_First_Summer_in_the_Sierra/ymNIAAAAMAAJ?hl=en&gbpv=1)
 
-- Miles A. Powell, “‘Pestered with Inhabitants’: Aldo Leopold, William Vogt, and More Trouble with Wilderness.” Pacific Historical Review 84, no. 2 (2015): 195–226.
 
 
 ## 5:
 ### Apr 18
-carson and ecology
+Turner thesis, impact, criticism
 
 
 
 ### Apr 20
+something about urban places,
+place memory (ferrar article)
+Dolores Hayden, _The Power of Place_, 15--43.
+
 
 
 
 ## 6:
 ### Apr 25
+Landscape Stories
+2 chapters on indigenous places and mapping indigenous depth of place?
+
+J. B. Jackson, _Sense of Place, A Sense of Time_, 15--25 or 37.
+
+D. W. Meinig, "The Beholding Eye: "
 
 
 ### Apr 27
-Landscapes
+Constructing Landscapes
 
 - Anne Whiston Spirn, "Constructing Nature: The Legacy of Frederick Law Olmstead", 91--113.
 
@@ -148,10 +139,10 @@ Landscapes
 
 
 
+
 ## 7:
 ### May 2
-worster and mckibben together
-Bill McKibben, _The End of Nature_, Chap. 2.
+
 
 ### May 4
 Reframing Nature

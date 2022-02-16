@@ -195,18 +195,16 @@ Continuing with the same theme as milk, this week we look at how farms became mo
 
 
 ### Feb 23
+Pick one of these and come to class ready to share what you learned.
 - William Boyd, "Making Meat: Science, Technology, and American Poultry Production", 631--664.
-
-### Feb 25
 - Mark Finlay, "Hogs, antibiotics, and the industrial environments of postwar agriculture", 237--254.
 
+### Feb 25
+NO CLASS!
 
-{% include alert.html class='info' title='IN CLASS' text="
-Week-in-Review Quiz Review
-"%}
 
-{% include alert.html class='danger' title='DUE: QUIZ' text="
-Same quiz routine as always. Be sure to complete the quiz by midnight or let me know what your plan is.
+{% include alert.html class='danger' title='DUE: WEEK IN REVIEW' text="
+For this week, write ~600 words on what you learned or thought was most significant about industrializing farms. Submit on the discussion board on Learn as usual.
 "%}
 
 
