@@ -187,23 +187,25 @@ Follow the [Book Review Guide](book-review-guide)! We're not reading the whole b
 
 
 ## 6: Industrializing Food
-Continuing with the same theme as milk, this week we look at how farms became more like factories in the early 20th century. We also look in particular at the drive to industrialize animals to scale up production and lower costs. This week continues our exploration of our changing relationship to nature driven (in part) by food production.
+Continuing with the same theme as milk, this week we look at how farms became more like factories in the early 20th century. For Monday, we look not at a specific industry as we have been, but focus on the changing nature of farming itself, and the development of the modern food system (including not just processes, but also attitudes toward it). We also look in particular at the drive to industrialize animals to scale up production and lower costs. This week also continues our exploration of our changing relationship to nature driven (in part) by food production.
 
 ### Feb 21
-- Deborah Fitzgerald, [_Every Farm a Factory: The Industrial Ideal in American Agriculture_](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=3419843), 10--32.
-- Paul H. Johnstone, _Old Ideals Versus New Ideas in Farm Life_ (1940), pages TBD.
+- Deborah Fitzgerald, _Every Farm a Factory: The Industrial Ideal in American Agriculture_, 10--32. Available as a PDF in Zotero and [ONLINE](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=3419843). This chapter describes diversity of farming in the U.S. before 1920 and how the logic of the urban factory came to transform the idea of farming and food production.
+- Paul H. Johnstone, _Old Ideals Versus New Ideas in Farm Life_ (1940), 111--112; 116--119; 144--152; 157--162 (NOTE: within the pages specified, always read from one section heading to another.) This is another primary source---an article from 1940 that describes how farms and farm life have changed throughout American history. You'll notice a lot of overlap  what Fitzgerald describes, and the tensions between urban and rural values, crucial changing attitudes toward labor.
 
 
 ### Feb 23
-Pick one of these fairly carefully and come to class ready to share what you learned---particularly the big picture takeaways. Or feel free to skim both and comment on key similarities and differences. You will need to write about one (or both) in your reflection for the week.
+Two options for today's discussion. Whichever you choose, I expect that your work will show up both in today's discussion AND in the essay assignment for the week, due on Friday as usual. Either read ONE of these fairly carefully and come to class ready to share what you learned---particularly the big picture takeaways. OR, skim both and be prepared to comment on key similarities and differences.
+
 - William Boyd, "Making Meat: Science, Technology, and American Poultry Production", 631--664.
 - Mark Finlay, "Hogs, antibiotics, and the industrial environments of postwar agriculture", 237--254.
+
 
 ### Feb 25
 NO CLASS!
 
 {% include alert.html class='danger' title='DUE: WEEK IN REVIEW' text="
-For this week, write ~600--800  words on what you learned or thought was most significant about industrializing farms. Submit on the discussion board on Learn as usual. The best essays will draw the various readings for the week together (and just talking about one of the two for Wednesday is fine)
+For this week, write ~600--800  words on what you learned or thought was most significant about industrializing farms/meat. Post your essay to the discussion board on Learn as the last few assignments. The best essays will draw from ALL the readings for the week together (including the one you didn't read but learned about on Wednesday).
 "%}
 
 
