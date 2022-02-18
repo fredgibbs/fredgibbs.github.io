@@ -191,7 +191,7 @@ Continuing with the same theme as milk, this week we look at how farms became mo
 
 ### Feb 21
 - Deborah Fitzgerald, _Every Farm a Factory: The Industrial Ideal in American Agriculture_, 10--32. Available as a PDF in Zotero and [ONLINE](http://ebookcentral.proquest.com/lib/unm/detail.action?docID=3419843). This chapter describes diversity of farming in the U.S. before 1920 and how the logic of the urban factory came to transform the idea of farming and food production. It's a little dry, but excellent background for the Johnstone article (from 1940).
-- Paul H. Johnstone, _Old Ideals Versus New Ideas in Farm Life_ (1940), 111--112; 116--119; 144--152; 157--167. (NOTE: within the pages specified, always read from one section heading to another.) This is another primary source---an article from 1940 that describes how farms and farm life have changed throughout American history. You'll notice a lot of overlap what Fitzgerald describes, and the tensions between urban and rural values, and changing attitudes toward ownership, business, and labor around 1920.
+- Paul H. Johnstone, _Old Ideals Versus New Ideas in Farm Life_ (1940), 111--112; 116--119; 144--152; 157--167. (NOTE: within the pages specified, always read from one section heading to another.) This is another primary source---an article from 1940 that describes how farms and farm life were changing rapidly in the early 20th century. You'll notice a lot of overlap what Fitzgerald describes, and take special note of the tensions between urban and rural values, and changing attitudes toward ownership, business, and labor around 1920.
 
 
 ### Feb 23
