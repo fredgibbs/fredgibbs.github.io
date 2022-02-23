@@ -1,35 +1,32 @@
 ---
 layout: syllabus
-course-title: Landscape and Memory
-course-slug: landscape-memory
-number: HIST 300-012
-term: Fall 2019
+course-title: Nature, Landscape, Identity
+course-slug: nature-landscape-identity
+number: HIST 300-011
+term: Fall 2022
 section: home
 ---
 
 # Landscape and Memory
 
 ## Logistics
-- HIST 300-012
+- HIST 300-011
 - 3 Credit Hours
-- MW 3:00 -- 5:30
+- MW 3:00 -- 5:30 (but really 4:30--5 most days)
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
-- Student Hours: MW 10:30--12:30; by appointment. Please let me know if you plan to stop by.
+- Student Hours: W 1:00--3:00 via Zoom (see the Learn for the links). Easy to meet before or after class or schedule a different time.
 
 ## Course Description
-With ubiquitous digital maps at our finger tips, it’s easy to move through space without giving it much thought. At the same time, we recognize that physical space connects us to our past and charts a course for the future. This multidisciplinary course draws from history, geography, archeology, anthropology, literature, cultural studies and architecture to explore the how we attach meanings to space and how both space and place influence our identities, communities, regions, and nations. Coursework contributes to ongoing projects at the National Park Service on the National Historic Trails (particularly historic sites on the Santa Fe Trail), emphasizing qualitative research and historical writing for a broad audience with digital publication technologies.
-
+Nature and landscape so often seem in the background. At the same time, we recognize that the spaces around us connects us to our past and charts a course for the future. This course explores how the ideas of nature, landscapes around us, influence personal identities, communities, regions, and nations.
 
 ## Student Learning Outcomes
+- Describe how the idea of nature, and attitudes towards it, have shifted over time.
 - Articulate how landscapes of all kinds mediates our relationship to the past, present, and future.
-- Practical work with historical sources, including analysis, contextualization, and interpretation.
 - Develop research and writing skills relevant to careers in the humanities, historical interpretation, museum studies, and public history (and basically everything else).
-- Learn to think about theoretical and practical issues surrounding interpretation and administration of national historic trails.
 
 
 ## Work Requirements and Grading
 Preparation for each class meeting and active participation in the class discussions
-Completion of research project, including completing various components of the projects at deadlines throughout the semester.
 
 - To access articles and book chapters on the syllabus, you will need to [subscribe to the course Zotero library](http://fredgibbs.net/courses/etc/zotero.html). The URL for the group library is [here](https://www.zotero.org/groups/2379087/landscape-memory-unm/items), but you must have clicked on the link in your invitation to access the library!
 

@@ -205,7 +205,7 @@ Two options for today's discussion. Whichever you choose, I expect that your wor
 NO CLASS!
 
 {% include alert.html class='danger' title='DUE: WEEK IN REVIEW' text="
-For this week, write ~600--800  words on what you learned or thought was most significant about industrializing farms/meat. Post your essay to the discussion board on Learn as the last few assignments. The best essays will draw from ALL the readings for the week together (including the one you didn't read but learned about on Wednesday).
+For this week, write ~600--800  words on what you learned or thought was most significant about industrializing farms/meat. Post your essay to the discussion board on Learn as the last few assignments. The best essays will draw from ALL the readings for the week together (including the one you didn't read but learned about on Wednesday). **Focus on the commonalities and differences across the readings.**
 "%}
 
 

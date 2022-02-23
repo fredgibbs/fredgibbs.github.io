@@ -3,7 +3,7 @@ layout: syllabus
 course-title: nature, landscape, identity
 course-slug: nature-landscape-identity
 term: Spring 2022
-number: HIST 300-004
+number: HIST 300-011
 title: Schedule of Readings
 section: schedule
 ---
@@ -65,7 +65,6 @@ Romantic Nature
 
 - Arthur Ekirch, Jr., _Man and Nature in America_, 22--34 (3: The Romantic View)
 
-- Something from Foster, _The Civilized Wilderness_ (Backgrounds to American Romantic Literature 1817--1860)
 
 - Ronald Rees, “Constable, Turner, and Views of Nature in the Nineteenth Century.” _Geographical Review_ 72, no. 3 (1982): 253–69.
 
@@ -82,7 +81,7 @@ Arthur Ekirch, Jr., _Man and Nature in America_, 47--68 (3 and 4: Emerson and Th
 
 Ralph Waldo Emerson, "Nature", 1--53.
 
-Thoreau, Excerpts from _Walden_.
+Thoreau, Excerpts from _Walden_, "Walking"
 
 
 
@@ -123,7 +122,7 @@ Landscape Stories
 
 J. B. Jackson, _Sense of Place, A Sense of Time_, 15--25 or 37.
 
-D. W. Meinig, "The Beholding Eye: "
+D. W. Meinig, "The Beholding Eye: Ten Versions of the Same Scene"
 
 
 ### Apr 27
@@ -131,7 +130,7 @@ Constructing Landscapes
 
 - Anne Whiston Spirn, "Constructing Nature: The Legacy of Frederick Law Olmstead", 91--113.
 
-- Audrey J Horning, "Of Saints and Sinners: Mythic Landscapes of the Old and New South"
+- Audrey J Horning, "Of Saints and Sinners: Mythic Landscapes of the Old and New South",  21--39. (from _Myth, Memory, and the Making of the American Landscape_)
 
 - Paul Claval, "Changing Conceptions of Heritage and Landscape" (from _Heritage, Memory and the Politics of Identity_), 85--92.
 

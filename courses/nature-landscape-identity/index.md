@@ -1,35 +1,32 @@
 ---
 layout: syllabus
-course-title: Food, Technology, and Society
-course-slug: food-technology-society
-term: Spring 2022
-number: HIST 412
-title: Food, Technology, and Society
+course-title: Nature, Landscape, Identity
+course-slug: nature-landscape-identity
+number: HIST 300-011
+term: Fall 2022
 section: home
 ---
 
-# HIST 412: Food, Technology & Society
+# Nature, Landscape, Identity
 
 ## Logistics
+- HIST 300-011
 - 3 Credit Hours
-- Spring 2022; M,W,F 11 - 11:50
+- MW 3:00 -- 5:30 (but really 4:30--5 most days)
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
-- Student Hours:
+- Student Hours: W 1:00--3:00 via Zoom (see the Learn for the link). I'm always happy to meet before or after class or schedule a different time.
 
 ## Course Description
-It's easy to take supermarkets for granted. Why shouldn't they abound with vibrant and uniform vegetables, tasty snacks, and highly perishable but perfectly safe meat and dairy products. But the seeming inevitability of our grocery stores obscures the complex and frequently surprising history of the intersection of food and technology. Carefully considering the inevitable tension between our desire for pure, natural food and our desire for cheap, convenient, and consistent food gives us a better understanding of not only our changing relationship to food, but also technology in general.
-
+Nature and landscape so often seem in the background. At the same time, we recognize that the spaces around us connects us to our past and charts a course for the future. This course explores how the ideas of nature, landscapes around us, influence personal identities, communities, regions, and nations.
 
 ## Student Learning Outcomes
-- Articulate the history of the US food system and its relationship with technological developments
-- Think broadly and critically about how food is produced and how technological improvements have altered food systems and our relationship to food
-- Articulate clear arguments about the intersection of agriculture, consumerism, environmental and population health
-- Understand modern technological developments with respect to food in historical context
-- Critically evaluate argument and evidence in any food-related writing
+- Describe how the attitudes towards nature have shifted over time.
+- Articulate how landscapes of all kinds mediates our relationship to the past, present, and future.
+- Explain how landscape can influence constructions of identities at personal, regional, and national levels.
 
 
 ## Readings & Assignments
-Note at the top of the page, the link to the schedule page of the syllabus: [http://fredgibbs.net/courses/food-technology-society/schedule.html](http://fredgibbs.net/courses/food-technology-society/schedule.html).
+Note at the top of the page, the link to the SCHEDULE page of the syllabus!
 
 Please note that the schedule is a living document and changes depending on what's going on in the course. If you print it out, you'll need to keep your paper version up to date with the online version. If you keep a browser tab open all semester, make sure you refresh it when you go to look up the next assignment and reflection prompt.
 
@@ -45,31 +42,48 @@ If you don't have one already, [sign up for a free account at zotero.org](https:
 You should see your username or a "Log Out" link on the top nav bar. If you see a "Log In" link, you need to log in. Pretty straightforward.
 
 ### Step 3: Request to Join our group library
-Once you know you are logged in to zotero.org, visit [our Zotero Group homepage](https://www.zotero.org/groups/1647225/food-tech-society-unm/), and click the red "Join" button off to the right, which will send an email to me. As soon as I see it (usually within the hour unless you're doing this late at night), I'll approve your request to join the group. There is nothing else you need to do at this point.
+Once you know you are logged in to zotero.org, visit [our Zotero Group homepage](https://www.zotero.org/groups/1647225/food-tech-society-unm/), and click the red "Join" button off to the right, which will send an email to me. As soon as I see it (usually within an hour or two unless you're doing this late at night), I'll approve your request to join the group. There is nothing else you need to do at this point.
 
 {% include alert.html class='info' title='Accessing Readings Once Connected' text="
-Once you've completed the steps above, and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/1647225/food-tech-society-unm/library). Double clicking an item brings up a PDF of the article or chapter.
+Once you've completed the steps above, and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/1647225/food-tech-society-unm/library). If you are asked to log in, do that, but you end up on the Zotero homepage. Come back here to click the above link again.
+
+When you can see all the items in our library, double-clicking an item brings up a PDF of the article or chapter. If it brings up the wrong thing, there are multiple PDFs linked to that item. Select the item you need, then click the `Attachments` tab in the upper right of the page to see all the attachments. The box+arrow icon will open the PDF.
 "%}
+
+
+### Familiarity over mastery
+We read a lot in this class, as is unavoidable in a 2H humanities course. For almost everything we read, we're reading to ENGAGE with it, not because it's RIGHT. There is a LOT to disagree with across the readings. And we don't all have to agree on anything.
+
+This class has a very average amount of reading for an upper-level humanities course. **That said, you cannot possibly read every word, or every page, or master all the ideas, and that's just fine**. I DO expect you to gain a familiarity across all the readings so that they can inform your participation in class and weekly assignments.
 
 
 
 ## Work Requirements and Grading
-- Thorough preparedness and engaged participation in most every class meeting. This course is focused on cultivating different perspectives about how we can think about food, technology, and society---not just memorizing and regurgitating supposedly important "facts"---so you need to be in the conversation. (20%)
+- Thorough preparedness and engaged participation in most every class meeting.  Because this course is focused on cultivating different perspectives about how we can think about the relationship between nature, landscape, and identity, your active participation in the course is essential. (20%)
 
-- One ~1200-word [book review](book-review-guide). This is a chance for you to apply the course to understanding a book related to food and technology, as I hope you will continue to do after the course is over. (15%)
+- 7 Weekly Reflections. These are due on Friday; they will demonstrate your familiarity with the readings and discussions for the week. You should be taking notes in preparation for these while you read and during class. There's nothing specific I'm looking for you to say. Just show me you're engaged with what we're doing.
 
-- One ~800-word [Old newspaper ad analysis](newspaper-ads-guide) (10%)
+- 1 ~2400-word [final essay guide](final-essay-guide) for more details. (25%)
 
-- Four 2-page [executive summaries](exec-summary-guide) of class readings (5% each points each; 20% total)
 
-- One ~1200-word [website analysis](website-analysis-guide) on GMO safety (10%)
-
-- One ~2400-word final essay
-  - See the [final essay guide](final-essay-guide) for more details. (25%)
+### Grading is mostly about effort
+**There are no right answers!** All assignments are graded primarily on what it looks like your effort to connect to course readings and discussions and to highlight what you found most interesting (which we do in class discussion as well). If you actually do the readings, come to class, and make a serious effort to show me you've learned something, it's almost impossible NOT to get an A.
 
 
 ### Submission Policies
-Late work is not accepted unless due to a medical issue or other extenuating circumstances. You should let me know about these ASAP and let me know when you can get caught up.
+To keep us on schedule, late work will be penalized 1/3 grade for each day late UNLESS due to a medical issue or other extenuating circumstances (not uncommon these days!). You should let me know about these ASAP and let me know when you plan get caught up. **I'm always happy to be flexible and allow you to submit work late for full credit _as long as you're communicating what's going on_**.
+
+Do not stress about submitting work a few or minutes or even hours late. That's fine. But unless you've gotten in touch with me, days late is not okay. We have to vaguely respect the deadlines to keep from falling hopelessly behind.
+
+
+### Feedback
+Because your assignments are scored via a rubric on Learn, the rubrics provide some feedback about areas where you could improve. I try to provide some comments as well, but I'm not able to do this thoroughly for everyone for each assignment. That said, if you want more feedback on any assignment, please ask via email and I will be happy to provide it!
+
+More generally, please please please email me at any time to learn how I think you're doing in the class and how it can be improved (if at all). This can be via email or Zoom (in addition to student hours on Wednesday afternoons).
+
+### Please Ask for Help
+If life gets overwhelming during the course, it can be tempting to drift away from an elective course like this. Please get in touch before that happens so we can work something out. Even if you do go into hibernation mode, we can almost always figure out a way for you to finish the course with a decent grade. Just shoot me a quick email to ask what we can do!
+
 
 
 ### Grade Distribution
@@ -77,7 +91,7 @@ Late work is not accepted unless due to a medical issue or other extenuating cir
 Percent of points | Grade
 --- | ---
 94+ | A
-90-94 | A-
+90-93 | A-
 87-89 | B+
 83-86 | B
 80-82 | B-
@@ -95,26 +109,29 @@ Please please please come talk me at any time. I'm alway happy to tell you how I
 If life gets overwhelming during the course, it can be tempting to drift away from an elective course like this. Rather than disappear, please come talk with me about how we can accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
 
 
-## Extra Credit
-There are roughly a zillion books, articles, websites, documentaries, films, etc about food + technology. Most are not very good. As in a total-waste-of-time kind of way. But films/documentaries about food are usually more interesting than most other stuff because of the production costs involved. This does not guarantee quality, of course (surely you've seen something about food that just wasn't worth it), but the genre provides a useful filter against mindless blog posts created simply because someone needs more "content" and places for ads.
+## Important UNM Announcements and Resources
 
-So, if you would like (and who wouldn't) to write a film/documentary review of anything related to the relationship between food and technology, you should do that for extra credit. Reviews should be ~900 words (which is insanely short for a balanced and thoughtful review). They can be worth, depending on the quality, up to 4 extra credit points.
+### COVID-19
+Perhaps you've heard of it. You should be aware of and follow the [Bring Back the Pack guidelines and requirements](https://bringbackthepack.unm.edu/). Most notably, until told otherwise, we all have to wear masks ALL THE TIME in class. Per UNM policy, if you don't wear your mask or wear it improperly you will be dropped from the course.
 
-Your review has two main tasks that each should comprise roughly half of your review: (1) to provide an overview of the film; (2) to critically evaluate its strengths and weaknesses in light of the course. Your review MUST use class readings and discussions! Imagine yourself taking on the role of expert reviewer, helping your reader (not just me) decide if the film is worth their time.
+I'm adding one additional rule: Drinks are fine PLEASE MINIMIZE EATING IN CLASS. I know we meet at around lunchtime, but our own safety (and comfort about our safety) have to come first.
 
-You don't have to ask me if something is appropriate. You need to EXPLAIN to me in your review how it's appropriate and how we should evaluate it in light of the course. Not to be too cavalier about points, but a serious effort will probably get you at least 2 points.
-
-
-### Extra credit is EXTRA, not substitute.
-You can only get extra credit points if you have turned in all other assigned work.
+**If you are not feeling well, PLEASE DO NOT COME TO CLASS!** There is no grade penalty for missed classes due to illness of any kind. If you need to quarantine, and miss several classes, that's fine, but please let me know what's going on. We'll work it out and I'll help you stay caught up. You will still be expected to complete assignments within a reasonable amount of time, but I'm trying to err on the side of compassion and be very flexible with deadlines.
 
 
-## UNM Resources
-[CAPS Tutoring Services](http://caps.unm.edu/programs/online-tutoring/) is a free-of-charge educational assistance program available to UNM students
-enrolled in classes. Online services include the Online Writing Lab, Chatting with or asking a question of a Tutor.
+### Respect
+Our classroom and our university should always be spaces of mutual respect, kindness, and support, without fear of discrimination, harassment, or violence. Should you ever need assistance or have concerns about incidents that violate this principle, please access the resources available to you on campus, especially the [LoboRESPECT Advocacy Center](http://loborespect.unm.edu/) and the support services listed on its website . Please note that, because UNM faculty, TAs, and GAs are considered "responsible employees" by the Department of Education, any disclosure of gender discrimination (including sexual harassment, sexual misconduct, and sexual violence) made to a faculty member, TA, or GA must be reported by that faculty member, TA, or GA to the university's Title IX coordinator at the [Office of Compliance, Ethics, and Equal Opportunity](https://oeo.unm.edu/title-ix/title-ix-reporting-obligations.html).
 
-## Students with Disabilities
-The American with Disabilities Act (ADA) is a federal anti-discrimination statute that provides comprehensive civil rights protection for persons with disabilities. Among other things, this legislation requires that all students with disabilities be guaranteed a learning environment that provides for reasonable accommodations of their disabilities. If you have a disability requiring accommodation, please contact me immediately to make arrangements as well as Accessibility Services Office in 2021 Mesa Vista Hall at 277-3506 or http://as2.unm.edu/index.html. Information about your disability is confidential.
+### Accessibility
+UNM is committed to providing courses that are inclusive and accessible for all participants. As your instructor, it is my objective to facilitate an accessible classroom setting, in which students have full access and opportunity. If you are experiencing physical or academic barriers, or concerns related to mental health, physical health and/or COVID-19, please consult with me after class, via email/phone or during office hours. You are also encouraged to contact the [Accessibility Resource Center](https://arc.unm.edu/) at arcsrvs@unm.edu or by phone 277-3506.
 
-## Academic Misconduct
-You should be familiar with [UNM’s Policy on Academic Dishonesty and the Student Code of Conduct](http://pathfinder.unm.edu/policies.htm#studentcode) which outline academic misconduct defined as plagiarism, cheating, fabrication, or facilitating any such act.
+In accordance with University Policy 2310 and the Americans with Disabilities Act (ADA), academic accommodations may be made for any student who notifies the instructor of the need for an accommodation. It is imperative that you take the initiative to bring such needs to the instructor’s attention, as I am not legally permitted to inquire. Students who may require assistance in emergency evacuations should contact the instructor as to the most appropriate procedures to follow. Contact the [Accessibility Resource Center](https://arc.unm.edu/) at 277-3506 or arcsrvs@unm.edu for additional information.
+
+### Get additional help
+Students who ask for help are successful students. I encourage students to be familiar with services and policies that can help them navigate UNM successfully. Many services exist to help you succeed academically, such as [peer tutoring at CAPS](http://caps.unm.edu/programs/online-tutoring/) and various [mental health resources](http://mentalhealth.unm.edu). Also see the UNM [student guide](https://students.unm.edu/).
+
+### Academic Honesty
+Please ask for help in understanding and avoiding plagiarism (passing the work or words of others off as your own) or other forms academic dishonesty. Doing something dishonest in a class or on an assignment can lead to serious academic consequences, including failing grades and expulsion from the University. Come talk with me about your concerns or needs for academic flexibility or talk with support staff at one of our [student resource centers](https://students.unm.edu/find-your-pack/resource-centers.html) before you do something that may endanger your academic career.
+
+### Land Acknowledgement
+Founded in 1889, the University of New Mexico sits on the stolen traditional homelands of the Tiwa people, whose descendants today include the Pueblos of Sandia and Isleta. The original peoples of New Mexico – Pueblo, Diné (Navajo), Apache, Comanche, Ute, Genízaro and others – since time immemorial, have deep connections to the land and have made significant contributions to the broader community statewide. We honor the both land itself and especially those who survived colonization throughout the generations.
