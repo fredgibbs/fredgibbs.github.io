@@ -226,24 +226,27 @@ There are three big chunks of reading for this week, but they all go fast. Chall
 - General discussion and review for reading quiz
 "%}
 
-{% include alert.html class='danger' title='DUE: QUIZ' text="
+{% include alert.html class='danger' title='DUE: READING QUIZ' text="
 Same quiz routine as always, but this time it's just on this one reading. Be sure to complete the quiz by midnight or let me know what your plan is.
 "%}
 
 ### Mar 2
-I don't expect you to read 80 pages for one day of class, but we're going to talk about the whole book as preparation for your review due on Friday. At a minimum, you should be able to read the first chapter carefully and skim the second. You'll have time to review them later while you're writing your review. This is much less dense than the milk book, so it's a pretty quick read and we can cover it in a single day. And to practice reading quickly is part of reason for the exercises.
+I don't expect you to read 50+ pages for one day of class, but we're going to talk about all assigned pages as preparation for your READING QUIZ (formerly book review) on Friday (same thing as Monday). You'll have time to read more while preparing for the quiz. This book is MUCH less dense than the milk book, so it's a pretty quick read and we can cover it in a single day. And to practice reading quickly is part of reason for the exercise!
 
-- Laura Shapiro, _Something from the Oven_, 3--40.
+- Laura Shapiro, _Something from the Oven_, 3--27 (read quickly to get a sense of the different convenience foods coming onto the market; details are not important, but you should have a sense of what the new questions and concerns of consumers are).
 - Laura Shapiro, _Something from the Oven_, 41--84.
+
+
+{% include alert.html class='info' title='IN CLASS' text="
+- General discussion and review for reading quiz due Friday (but you can take it anytime after class). There will be questions that are NOT covered in class to keep you honest about reading, but most material on the quiz will be highlighted today.
+"%}
 
 
 ### Mar 4
 NO CLASS!
 
-{% include alert.html class='danger' title='DUE: Book Review' text="
-How do these do chapters illustrate how technology is impacting cooking at home?
-
-FLEX DEADLINE: Book reviews are technically due today, per our usual routine, but as we're all in survival mode at this point in the semester, you can submit your book review anytime in the next week.
+{% include alert.html class='danger' title='DUE: Reading Quiz' text="
+Same deal as last week---a quiz on the reading for this week. The book as a whole and the material on the quiz will be well-covered in class on Wednesday.
 "%}
 
 
@@ -255,7 +258,7 @@ This week is about how technology in food creates new concerns and debates about
 - Carolyn Thomas Peña, _Empty Pleasure_ (Ch. 1), 13--38.
 
 ### Mar 9
-- Carolyn Thomas Peña, _Empty Pleasure_ (Ch. 5), 141--175; (Conclusion), 219--228.
+- Carolyn Thomas Peña, _Empty Pleasure_ (Ch. 5 and Conclusion), 141--175; 219--228.
 
 ### Mar 11
 NO CLASS! Finish your review and get started on your spring break!
