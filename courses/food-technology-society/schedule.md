@@ -246,7 +246,7 @@ I don't expect you to read 50+ pages for one day of class, but we're going to ta
 NO CLASS!
 
 {% include alert.html class='danger' title='DUE: Reading Quiz' text="
-Same deal as last week---a quiz on the reading for this week. The book as a whole and the material on the quiz will be well-covered in class on Wednesday.
+Same deal as Monday---a quiz on the most recent reading. The book as a whole and the material on the quiz will be well-covered in class on Wednesday.
 "%}
 
 
