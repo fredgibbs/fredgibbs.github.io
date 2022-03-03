@@ -255,7 +255,7 @@ Same deal as Monday---a quiz on the most recent reading. The book as a whole and
 This week is about how technology in food creates new concerns and debates about risk. We've already seen in the pure food week how food could be risky from a health standpoint when left purely to capitalist markets. But this week we look at the intersection of scientific understandings of risk versus public perception of them.
 
 ### Mar 7
-- Carolyn Thomas Peña, _Empty Pleasure_ (Ch. 1), 13--38.
+- Carolyn Thomas Peña, _Empty Pleasure_ (Ch. 1), 13--38. This chapter focuses how ideas of sweetness change over the first half of the 20th century, and how it was influenced by debates about natural versus artificial foods. Note how familiar issues of purity, nutrition, motherhood, wartime rationing, etc, play a significant role in shaping that artificial/natural food divide. Also note the emerging issue of risk that we will see develop more on Wednesday.
 
 ### Mar 9
 - Carolyn Thomas Peña, _Empty Pleasure_ (Ch. 5 and Conclusion), 141--175; 219--228.
@@ -266,7 +266,7 @@ NO CLASS! Finish your review and get started on your spring break!
 {% include alert.html class='danger' title='DUE: Book Review' text="
 How does the history of saccharine illustrate the issue of technological risk?
 
-FLEX DEADLINE: Book reviews are technically due today, per our usual routine, but as we're all in survival mode at this point in the semester, you can submit your book review anytime in the next week.
+FLEX DEADLINE: Book reviews are technically due today, per our usual routine, but as we're all in survival mode at this point in the semester, you can submit your book review anytime in the next week. REMEMBER you have a midterm due AFTER spring break!
 "%}
 
 
