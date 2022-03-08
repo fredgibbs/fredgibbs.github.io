@@ -6,7 +6,7 @@ date: 2015-01-09 13:31:00
 
 At the AHA 2015 meeting in NYC, I had the opportunity to present a poster that featured the tremendously valuable tutorials at the [Programming Historian](http://programminghistorian.org). Click on the digital version below to get a _much_ larger version, and get ready to zoom and scroll.
 
-{% include figure.html caption="A new perspective on the Programming Historian" class="raw" img-url="/assets/images/ph-poster/final-board.png" %}
+{% include figure.html caption="A new perspective on the Programming Historian" class="raw" image-url="/assets/images/ph-poster/final-board.png" %}
 
 
 ## A New Perspective
