@@ -6,7 +6,7 @@ date: 2015-01-09 13:31:00
 
 At the AHA 2015 meeting in NYC, I had the opportunity to present a poster that featured the tremendously valuable tutorials at the [Programming Historian](http://programminghistorian.org). Click on the digital version below to get a _much_ larger version, and get ready to zoom and scroll.
 
-{% include figure.html caption="A new perspective on the Programming Historian" class="raw" src="/assets/images/ph-poster/final-board.png" %}
+{% include figure.html caption="A new perspective on the Programming Historian" class="raw" img-url="/assets/images/ph-poster/final-board.png" %}
 
 
 ## A New Perspective
@@ -16,7 +16,7 @@ However, this otherwise helpful justification begins with what I consider a misg
 
 I've been happily working, along with the rest of the [project team](http://programminghistorian.org/project-team), as a general editor of the _Programming Historian_ for almost two years. I talk with the other general editors about once a month about how to make the site better. In addition to the usual discussion of the lesson pipeline and improving our editorial processes, this has also included many conversations about reorganizing the underwhelming homepage (coming soon!), making a more intuitive way of showing off our fabulous lessons, and better soliciting participation from those who want to write or review tutorials. (Let me know if you'd like to [contribute](http://programminghistorian.org/contribute)!) So it's not like I'm so chin-on-the-keyboard immersed in editorial work that I don't have motivations or opportunities to think about the big picture. **Yet it turned out that the poster was a unique opportunity and motivation to get a new perspective as a result of the design challenge.**
 
-{% include figure.html caption="The analog version comes to life at AHA 2015" class="raw" src="/assets/images/ph-poster/aha-photo.jpg" %}
+{% include figure.html caption="The analog version comes to life at AHA 2015" class="raw" img-url="/assets/images/ph-poster/aha-photo.jpg" %}
 
 
 ## Value of Design Challenges
@@ -38,7 +38,7 @@ I then realized that the poster areas at AHA were going to be 4' tall x 8' wide,
 
 This technique is perhaps not ideal for standard (smaller) posters because the interior edges of the sections need to line up precisely so they don't interfere with legibility. But since posters tend to be chunked into sections anyway, I figured I could find some compromise and use the space in between my 8x11 panels as the cork equivalent of whitespace.
 
-{% include figure.html caption="The first step of design? Divest yourself of bad ideas like this one." class="raw" src="/assets/images/ph-poster/aha-poster-board-orig.jpg" %}
+{% include figure.html caption="The first step of design? Divest yourself of bad ideas like this one." class="raw" img-url="/assets/images/ph-poster/aha-poster-board-orig.jpg" %}
 
 While I feel like the poster eventually came to look _like it should_ (that is, a blend of _wow this is taking way too long_ and _hey this actually does what i want_), it took much brainstorming and shooting wads of paper at the recycle bin before I had any idea worth pursuing.
 
