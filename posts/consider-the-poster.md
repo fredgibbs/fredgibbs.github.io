@@ -68,4 +68,4 @@ It's always good to do things at least twice, right? Fast forward to [another po
 
 {% include figure.html caption="Theory." class="center" width="100%" image-url="assets/images/ph-poster/rethinking-historiography.png" %}
 
-{% include figure.html caption="Practice." class="center" width="100%" image-url="assets/images/ph-poster/rethinking-historiography-display.jpg" %}
+{% include figure.html caption="Practice. Note the interactive voting panel in the lower right panel! " class="center" width="100%" image-url="assets/images/ph-poster/rethinking-historiography-display.jpg" %}
