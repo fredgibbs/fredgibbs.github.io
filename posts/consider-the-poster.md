@@ -16,7 +16,7 @@ However, this otherwise helpful justification begins with what I consider a misg
 
 I've been happily working, along with the rest of the [project team](http://programminghistorian.org/project-team), as a general editor of the _Programming Historian_ for almost two years. I talk with the other general editors about once a month about how to make the site better. In addition to the usual discussion of the lesson pipeline and improving our editorial processes, this has also included many conversations about reorganizing the underwhelming homepage (coming soon!), making a more intuitive way of showing off our fabulous lessons, and better soliciting participation from those who want to write or review tutorials. (Let me know if you'd like to [contribute](http://programminghistorian.org/contribute)!) So it's not like I'm so chin-on-the-keyboard immersed in editorial work that I don't have motivations or opportunities to think about the big picture. **Yet it turned out that the poster was a unique opportunity and motivation to get a new perspective as a result of the design challenge.**
 
-{% include figure.html caption="The analog version comes to life at AHA 2015" class="center" width="100%" image-url="assets/images/ph-poster/aha-photo.jpg" %}
+{% include figure.html caption="The analog version comes to life at AHA 2015, although the photo makes it look darker than it was." class="center" width="100%" image-url="assets/images/ph-poster/aha-photo.jpg" %}
 
 
 ## Value of Design Challenges
@@ -45,8 +45,8 @@ While I feel like the poster eventually came to look _like it should_ (that is, 
 The mound of crumpled scratch paper in my office (very tricky wind currents!) could have been read as failure. Actually, the creative process proved incredibly productive. Unexpectedly, it focused an interesting synergy between the physical constraints of the poster board, pieces of paper, and my conceptions of what the _Programming Historian_ is about. **It provided new clarity about what we're doing, what we're not, and what can be better communicated—all in ways that I hadn't seen before.** Such revelations, of course, are as much applicable to individual research projects as to community-based digital resources like _Programming Historian_.
 
 
-## Bring on the Noise, Funk, and especially Posters
-I won't here belabor the value of physical over virtual conversation; that's hardly news. But I found it surprising what a different cross-section of interested folks I could talk to about _Programming Historian_ that I would not have engaged with otherwise. I got questions—and more importantly, _kinds_ of questions—about the site I never would have got via email; I got to understand how people might approach what/who we are and what we are trying to do in a way that never would have manifested itself virtually.
+## Inspire conversation
+I won't here belabor the value of physical over virtual conversation; that's hardly news. But I found it surprising what a different cross-section of interested folks I could talk to about _Programming Historian_ that I would not have engaged with otherwise. I got different questions and, more importantly, different _kinds_ of questions about the site I never would have got via email; I got to understand how people might approach what/who we are and what we are trying to do in a way that never would have manifested itself virtually.
 
 As valuable as the poster-creation process can be, the product of course matters as well. A good poster serves as a inspiring and intriguing visualization of your abstract (research project) or mission (community resource). As digital versions can be put online and referenced after the fact, the poster far outlives the individual poster session where it makes its debut.
 
@@ -64,8 +64,8 @@ I strongly urge other historians to (re)consider the poster. Of course it can he
 
 ---
 ## And again...
-It's always good to do things at least twice, right? Fast forward to [another poster at AHA 2019](https://aha.confex.com/aha/2019/webprogram/Paper25630.html). A little more color and typographic styling, but I found the same basic idea was perfectly effective for how to organize the visual display.
+It's always good to do things at least twice, right? Fast forward to [another poster at AHA 2019 Chicago](https://aha.confex.com/aha/2019/webprogram/Paper25630.html). A little more color and typographic styling, but I found the same basic idea was perfectly effective for how to organize the visual display.
 
-{% include figure.html caption="Theory." class="center" width="100%" image-url="assets/images/ph-poster/rethinking-historiography-display.jpg" %}
+{% include figure.html caption="Theory." class="center" width="100%" image-url="assets/images/ph-poster/rethinking-historiography.png" %}
 
-{% include figure.html caption="Practice." class="center" width="100%" image-url="assets/images/ph-poster/rethinking-historiography.png" %}
+{% include figure.html caption="Practice." class="center" width="100%" image-url="assets/images/ph-poster/rethinking-historiography-display.jpg" %}
