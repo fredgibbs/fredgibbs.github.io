@@ -38,7 +38,7 @@ I then realized that the poster areas at AHA were going to be 4' tall x 8' wide,
 
 This technique is perhaps not ideal for standard (smaller) posters because the interior edges of the sections need to line up precisely so they don't interfere with legibility. But since posters tend to be chunked into sections anyway, I figured I could find some compromise and use the space in between my 8x11 panels as the cork equivalent of whitespace.
 
-{% include figure.html caption="The first step of design? Divest yourself of bad ideas like this one." class="center" width="100%" image-url="/assets/images/ph-poster/aha-poster-board-orig.jpg" %}
+{% include figure.html caption="The first step of design? Divest yourself of bad ideas like this one." class="center" width="100%" image-url="assets/images/ph-poster/aha-poster-board-orig.jpg" %}
 
 While I feel like the poster eventually came to look _like it should_ (that is, a blend of _wow this is taking way too long_ and _hey this actually does what i want_), it took much brainstorming and shooting wads of paper at the recycle bin before I had any idea worth pursuing.
 
@@ -61,3 +61,11 @@ Two suggestions I hope AHA will consider for future meetings:
 2) Allow the each poster session to overlap two regularly-slotted sessions, with a poster group change-out during the middle of a session. This is more of a session commitment for poster presenters (though I'd wager anyone who takes time to make a poster would gladly miss a few extra papers to show it off), but greatly increases the visibility of posters, and ensures that the prime traffic times correspond to fully-assembled poster displays.
 
 I strongly urge other historians to (re)consider the poster. Of course it can help convey the essence of your research to a big crowd. More importantly, though, **the poster facilitates a process of discovery that forces us out of our habits of thinking forged by textual scholarship.** And in the end, you have a sketch of your research that can entice a much broader audience to engage with your work.
+
+---
+## And again...
+It's always good to do things at least twice, right? Fast forward to [another poster at AHA 2019](https://aha.confex.com/aha/2019/webprogram/Paper25630.html). A little more color and typographic styling, but I found the same basic idea was perfectly effective for how to organize the visual display.
+
+{% include figure.html caption="Theory." class="center" width="100%" image-url="assets/images/ph-poster/rethinking-historiography-display.jpg" %}
+
+{% include figure.html caption="Practice." class="center" width="100%" image-url="assets/images/ph-poster/rethinking-historiography.png" %}
