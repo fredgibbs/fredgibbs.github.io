@@ -394,7 +394,7 @@ Mostly wrap-up stuff for our last two meetings. Monday continues our theme of th
 - Adam Shprintzen, "Ella Eaton Kellogg's Protose", 219--231.
 
 {% include alert.html class='danger' title='DUE BY MIDNIGHT: Essay analysis' text="
-According to the Poinski, how is technology presenting challenges for food labeling? There isn't much historical context in the article, but how can histories like that of protose help us? When else have we seen similar issues? History never supplies any answers, but how can the history of food + tech help us ask better questions or think more carefully about how to label foods generated with increasingly sophisticated tech?
+According to the Poinski, how is technology presenting challenges for food labeling? There isn't much historical context in the article, but how can histories of products, like protose, help us? When else have we seen similar issues? History never supplies any answers, but how can the history of food + tech help us ask better questions or think more carefully about how to label foods generated with increasingly sophisticated tech?
 "%}
 
 ### May 4
