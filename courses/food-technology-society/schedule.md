@@ -275,14 +275,14 @@ FLEX DEADLINE: Book reviews are technically due today, per our usual routine, bu
 
 
 ## 10: Mar 21, 23, 25: MORE BREAK, SORT OF.
-No class this week! But you do have a (post) midterm, due midnight on Friday, that wraps-up the first half and gets us primed for the second half.
+No class this week! But you do have a (post) midterm, due midnight on Friday. This is our way of solidifying the first-half material and getting back into the course after a much-needed break.
 
 {% include alert.html class='danger' title='DUE FRIDAY: First Half Reflection' text="
 How would YOU describe the story of food, technology, and society so far? What commonalities do you see between the various topics and readings? What's been most and least interesting so far? AND WHY?!
 
 These should be ~1200 words, but quality is more important than quantity. Just meeting the word count doesn't mean you're demonstrating knowledge from the course. You'll post these to the discussion board as with previous essays.
 
-**As always with reflections, there is no right answer!!!** I'm looking for you to show off what you've learned and a serious effort to describe and link the key themes of the course. This is our way of solidifying the first-half material and getting back into the course after a much-needed break.
+**As always with reflections, there is no right answer!!!** I'm looking for you to show off what you've learned and a serious effort to describe and link the key themes of the course.
 "%}
 
 
