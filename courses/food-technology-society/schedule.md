@@ -287,7 +287,7 @@ These should be ~1200 words, but quality is more important than quantity. Just m
 
 
 ## 11: Risky Ingredients
-Continuing the theme of risk, this week we look at the modern state of food additives and the intersection of food safety and food technology. What would Harvey Wiley think of all this stuff in our food?
+Continuing the theme of risk from before break, this week we look at the modern state of food additives and the intersection of food safety and food technology. What would Harvey Wiley think of all this stuff in our food?
 
 ### Mar 28
 - Melanie Warner, _Pandora's Lunchbox_ (Ch. 6: Better living through chemistry), 97--123 .
@@ -295,51 +295,54 @@ Continuing the theme of risk, this week we look at the modern state of food addi
 
 
 ### Mar 30
-- Wendee Nicole, "Secret Ingredients", _Environmental Health Perspectives_ 121.6 (2013): A126--A133. This article is about food additives and the sketchy regulations (and the uses of science) that govern them and their safety.
+- Wendee Nicole, "Secret Ingredients", _Environmental Health Perspectives_ 121.6 (2013): A126--A133. This article is about food additives and the sketchy regulations (and the uses of science) that govern them and their safety. For class:
 
-There's a quote in the article: "_Whether a food ingredient is GRAS (Generally Recognized As Safe) depends on the general recognition of safety, not on safety per se_". What does that really mean? How is this claim supported in the article?
+{% include alert.html class='info' title='IN CLASS' text="
+- There's a quote in the article: "_Whether a food ingredient is GRAS (Generally Recognized As Safe) depends on the general recognition of safety, not on safety per se_". What does that really mean?
+- IN GENERAL: What kinds of things should be allowed in our food? What is the role of regulation? How can it be enforced? How precise should labeling be? What are the problems with full transparency? How do we assess risk of food additives?
+- Quick overview of new Executive Summary assignment due Friday.
+"%}
+
 
 
 ### Apr 1
-{% include alert.html class='info' title='IN CLASS' text="
-We'll be discussing the readings and walking through how to do executive summaries.
-
-What kinds of things should be allowed in our food? What is the role of regulation? How can it be enforced? How precise should labeling be? What are the problems with full transparency? How do we assess risk of food additives?
-"%}
+NO CLASS!
 
 {% include alert.html class='danger' title='DUE: Executive Summary' text="
 Drawing widely from this week's readings, submit an [Executive Summary](exec-summary-guide) on the place of 'secret' ingredients in convenience foods and what the role of federal regulation should be. DO NOT simply summarize the readings! Use them as a basis for a more philosophical piece on food additives generally.
-
-Questions to consider (as we did in class), but please don't try to answer all of these: What kinds of things should be allowed in our food? What is the role of regulation? How can it be enforced? How precise should labeling be? What are the problems with full transparency? How do we assess risk of food additives?
 "%}
 
 
 
 ## 12: Environmental Food
-It was only about 60 years ago that we really started to think about the environmental implications of the incredibly rapid rise of food technology and production. We also learn about Rachel Carson, one of the few people in history that we can point to as almost single-handedly changing the way we think about the environment and helped to create the field of ecology.
+It was only about 60 years ago that we really started to think about the environmental implications of the incredibly rapid rise of food technology and production. We learn about the so-called Green Revolution that ushered in a new intensity to industrialized agriculture entirely reliant on chemical inputs. We also learn about Rachel Carson, one of the few people in history that we can point to as almost single-handedly changing the way we think about the environment and helped to create the field of ecology.
 
-{% include alert.html class='warning' title='Just class' text="
-There is no assignment due this week! (about time...i know) But this makes it extra important that you're in class to show that you're keeping up with the readings.
-"%}
 
 ### Apr 4
-- VIDEO: [The Green Revolution: Waging A War Against Hunger](https://www.youtube.com/watch?v=HucSCNQ01X4). This 10 min. video presents an informative, but very rosy (and therefore highly distorted) view of the Green Revolution.
-- R. Douglas Hurt, _The Green Revolution in the Global South : Science, Politics, and Unintended Consequences_ (2020), 1--6 (Intro); 179--195 (Ch. 7). [[ONLINE](https://web.s.ebscohost.com/ehost/ebookviewer/ebook/bmxlYmtfXzIzNzE2MjFfX0FO0?sid=07e8c3cd-a444-47c8-88a3-353595965d76@redis&vid=0&format=EB&lpid=lp_179&rid=0)]
-
+- VIDEO: [The Green Revolution: Waging A War Against Hunger](https://www.youtube.com/watch?v=HucSCNQ01X4). This 10 minute video presents an informative, but very rosy (and therefore highly distorted) view of the Green Revolution.
+- R. Douglas Hurt, _The Green Revolution in the Global South : Science, Politics, and Unintended Consequences_ (2020), 179--195 (Ch. 7).
 
 {% include alert.html class='info' title='IN CLASS' text="
-We will compare the tone and content of the video to the more sophisticated analysis provided in the Hurt chapter. How do we explain such different presentations? What does that say about our relationship to technology generally?
+- Let's compare the tone and content of the video to the more sophisticated analysis provided in the Hurt chapter. How do we explain such different presentations? What does that say about our relationship to technology generally?
+- Intro to Rachel Carson (looking ahead to Wednesday)
 "%}
 
 
 ### Apr 6
-- Michael Pollan, _Omnivore's Dilemma_ (Ch. 2: The Farm), 32--56.
+- Rachel Carson, _Silent Spring_, 5--13; 15--37.
 
+{% include alert.html class='warning' title='Keep Reading' text="
+You have one additional reading (the Pollan chapter for Friday) to do before the quiz that we won't talk about in class. It's a super easy read that doesn't require any additional explanation or review. The questions on the quiz will be easy if you are familiar with the reading. Just wanted to make sure it's on your radar before Friday.
+"%}
 
 ### Apr 8
-- Alina Bradford, [Rachel Carson: Life, Discoveries and Legacy](https://www.livescience.com/62185-rachel-carson-biography.html).
-- Ralph H. Lutts, “Chemical Fallout: Rachel Carson’s Silent Spring, Radioactive Fallout, and the Environmental Movement”, _Environmental Review_ 9.3 (1985): 211--225.
-- Rachel Carson, _Silent Spring_, 5--13; 15--37.
+NO CLASS! But you still have one reading to do before you take the essay quiz due today.
+
+- Michael Pollan, _Omnivore's Dilemma_ (Ch. 2: The Farm), 32--56.
+
+{% include alert.html class='danger' title='DUE: READING QUIZ' text="
+Same quiz routine as always, and this one spans ALL the readings for the week. Since you expressed a preference for short answer quizzes over general essays, this is a short-answer quiz like the one we had for the Freshness week. Be sure to complete the quiz by midnight or let me know what your plan is.
+"%}
 
 
 
@@ -353,10 +356,11 @@ Isn't it weird that at least culturally speaking we have two fundamental categor
 - Laura B. DeLind, “Transforming Organic Agriculture into Industrial Organic Products: Reconsidering National Organic Standards,” 198--208.
 
 ### Apr 15
-{% include alert.html class='danger' title='DUE: Executive Summary' text="
-Submit an [executive summary](exec-summary-guide) that addresses this question: How does the history of food and technology help us understand the future of organics? There is NO RIGHT ANSWER. I'm interested in how much you can bring the course to bear on this question, however you choose to do that.
-"%}
+NO CLASS!
 
+{% include alert.html class='danger' title='DUE: Executive Summary' text="
+Submit an [executive summary](exec-summary-guide) that addresses this question: How does the history of food and technology help us understand the future of organics? As always, there is NO RIGHT ANSWER, only more or less informed ones based on our readings. I'm interested in how much you can bring the course to bear on this question, however you choose to do that.
+"%}
 
 
 ## 14: GMOs
@@ -383,7 +387,8 @@ Most of the class is about technology as applied to food production and distribu
 - Sharon Zukin, Scarlett Lindeman, and Laurie Hurson. “The Omnivore’s Neighborhood? Online Restaurant Reviews, Race, and Gentrification.” _Journal of Consumer Culture_ 17, no. 3 (2017): 459–79.
 
 ### Apr 29
-TBD (or no class)
+NO CLASS!
+
 
 
 ## 16: Fake Meat and Food Futures
@@ -393,18 +398,15 @@ Mostly wrap-up stuff for our last two meetings. Monday continues our theme of th
 - Megan Poinski, [Technology is revolutionizing food, but how can it be explained to consumers?](https://www.fooddive.com/news/food-tech-explain-marketing/606401/)
 - Adam Shprintzen, "Ella Eaton Kellogg's Protose", 219--231.
 
-{% include alert.html class='danger' title='DUE BY MIDNIGHT: Essay analysis' text="
-According to the Poinski, how is technology presenting challenges for food labeling? There isn't much historical context in the article, but how can histories of products, like protose, help us? When else have we seen similar issues? History never supplies any answers, but how can the history of food + tech help us ask better questions or think more carefully about how to label foods generated with increasingly sophisticated tech?
+{% include alert.html class='danger' title='DUE: Essay analysis' text="
+According to the Poinski, how is technology presenting challenges for food labeling? There isn't much historical context in the article, but how can histories of products, like _protose_, help us? When else have we seen similar issues? History never supplies any answers, but how can the history of food + tech help us ask better questions or think more carefully about how to label foods generated with increasingly sophisticated tech?
 "%}
 
 ### May 4
-No required reading for today!
+We don't need to dissect this article in detail, but you should be familiar with it a way of wrapping everything up and thinking about the future intersections of food, tech, and society.
+- [How big data is going to help feed nine billion people by 2050](https://www.techrepublic.com/article/how-big-data-is-going-to-help-feed-9-billion-people-by-2050/).  
 - Course wrap-up
 - Tips for your final essay
-
-#### Skim before class
-- Check out what Food Tech is talking about [at the last conference](https://futurefoodtechsf.com/agenda/)
-- [How big data is going to help feed nine billion people by 2050](https://www.techrepublic.com/article/how-big-data-is-going-to-help-feed-9-billion-people-by-2050/).  
 
 
 ### May 6
@@ -414,7 +416,7 @@ NO CLASS: Congrats and Thank you!
 
 ## May 15
 {% include alert.html class='danger' title='DUE: Final Essay' text="
-Final Essays should be submitted via Learn by midnight on Friday, May 15th (or perhaps early Saturday morning). If you need a few more days, that's fine, but please email me to let me know your plan.
+Final Essays should be submitted via Learn (discussion board, as always) by midnight on Friday, May 15th (or perhaps early Saturday morning; I'm not a stickler about these as you know, especially now). If you need a few more days, that's fine, but please email me to let me know your plan so I don't give you a W for the course.
 
 See the [final essay guide](final-essay-guide) for more details. And review the [revision guide](writing-advice) after you've got a solid first draft!
 "%}
