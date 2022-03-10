@@ -264,7 +264,9 @@ This week is about how technology in food creates new concerns and debates about
 NO CLASS! Finish your review and get started on your spring break!
 
 {% include alert.html class='danger' title='DUE: Book Review' text="
-How does the history of saccharine illustrate the issue of technological risk?
+Follow the [Book Review Guide](book-review-guide)! We're not reading the whole book, so the review applies to only the chapters for this week.
+
+The key question you'll be address in your review (after your brief summary) is: How does the history of saccharine illustrate the issue of technological risk?
 
 FLEX DEADLINE: Book reviews are technically due today, per our usual routine, but as we're all in survival mode at this point in the semester, you can submit your book review anytime in the next week. REMEMBER you have a midterm due AFTER spring break!
 "%}
