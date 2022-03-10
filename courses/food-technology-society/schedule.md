@@ -300,7 +300,7 @@ Continuing the theme of risk from before break, this week we look at the modern 
 - Wendee Nicole, "Secret Ingredients", _Environmental Health Perspectives_ 121.6 (2013): A126--A133. This article is about food additives and the sketchy regulations (and the uses of science) that govern them and their safety. For class:
 
 {% include alert.html class='info' title='IN CLASS' text="
-- There's a quote in the article: "_Whether a food ingredient is GRAS (Generally Recognized As Safe) depends on the general recognition of safety, not on safety per se_". What does that really mean?
+- There's a quote in the article: \"_Whether a food ingredient is GRAS (Generally Recognized As Safe) depends on the general recognition of safety, not on safety per se_\". What does that really mean?
 - IN GENERAL: What kinds of things should be allowed in our food? What is the role of regulation? How can it be enforced? How precise should labeling be? What are the problems with full transparency? How do we assess risk of food additives?
 - Quick overview of new Executive Summary assignment due Friday.
 "%}
