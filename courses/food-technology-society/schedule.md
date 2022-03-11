@@ -60,7 +60,7 @@ We have our first quiz this week! It's mostly a quiz on the syllabus to make sur
 "%}
 
 ## 2: Improving Nature
-As the U.S. industrialized and urbanized rapidly throughout the 19th century, many people got further away from their food and started buying a lot more of it. This week we look at how developments in urbanization, transportation, and food production touted how much they were improving nature. In the cases of meat extract and cereal, we see how a main goal was make it more digestible than the natural, raw product. Food ads from the turn of the century show how producers began to claim how they were both capturing and improving nature, a theme we still see today in every aisle of the grocery store.
+As the U.S. industrialized and urbanized rapidly throughout the 19th century, many people got further away from their food and started buying a lot more of it. This week we look at how developments in urbanization, transportation, and food production touted how much they were improving nature. In the cases of meat extract and cereal, we see how a main goal was make it more digestible than the natural, raw product. Food ads from the turn of the century show how producers began to claim how they were both capturing and improving nature, a theme we still see today in every aisle of the grocery store. [SLIDES for this week](https://docs.google.com/presentation/d/1w8d9ASI7neMamDoR1r84H_Os6OvaoYZjY3gE-8yPqVs/edit?usp=sharing)
 
 ### Jan 24
 - Jennifer Wallach, _How America Eats_ (Ch. 4: Technology and Taste), 89--105; skim 105--110.  This chapter is a great overview of some technological innovations in food production and provides a useful preview of many topics that we will cover in much more depth to understand the social side of technological change. How would you characterize the overall tone of this chapter in terms of how technology is portrayed?
@@ -100,7 +100,7 @@ As cities grew, so did the amount of food that city-dwellers had to purchase. Bu
 
 {% include alert.html class='info' title='IN CLASS' text="
 - Discussion and highlights of the article for today
-- Cereal and Nature ads
+- [SLIDES of Cereal and Nature ads](https://docs.google.com/presentation/d/13a9tXzyPRr8clwF105Vd6XTi2CkHQWddG_kLIh8tWXQ/edit?usp=sharing)
 - Quick look at [Maud Howe Elliot's article](https://babel.hathitrust.org/cgi/pt?id=mdp.39015012341577&view=1up&seq=104&skin=2021) (as mentioned in the reading).
 - [Recreation Magazine (v. 7: 1902)](https://www.google.com/books/edition/Recreation/lPAXAAAAYAAJ?hl=en&gbpv=1) (skim and check out the \"Man Cannot Improve Nature\" ad on p. xliii).
 "%}
@@ -109,7 +109,7 @@ As cities grew, so did the amount of food that city-dwellers had to purchase. Bu
 ### Feb 2
 - Anna Zeide, _Canned_, 1--9; 10--30. Things to think about before class: What are the key points in the early history of canning (exact names and dates are not important for us)? How did canners respond to the idea of government regulation? How did canners try to convince consumers that canned good were safe and trustworthy? What does the rise of canned goods represent in the history of food, technology, and society?
 - Anna Zeide, "Marion Harland, Tastemaker", 167--179. This short chapter reviews a little history of canning from the other reading for today, but is especially good at illustrating how consumer attitudes toward canning shifted in the early 20th century. We also see the importance of what we might call an early food celebrity in helping to influence consumer opinion.
-
+- [SLIDES of Borden ads](https://docs.google.com/presentation/d/1Si0-fuqzb1N8D4AoLSEfdrBTuzyswAjGtI7mdnSx608/edit?usp=sharing)
 
 ### Feb 4
 NO CLASS and NOTHING TO READ TODAY! Originally, we had Gabriella M. Petrick, "'Purity as Life: H.J. Heinz, religious sentiment, and the beginning of the industrial diet", 37--57.
@@ -137,7 +137,7 @@ We won't spend a lot of time on these, but it's important to note how concern ab
 
 {% include alert.html class='info' title='IN CLASS' text="
 - Reminder of your [Ad Analysis Assignment](newspaper-ads-guide).
-- Heinz and purity overview/slides
+- [SLIDES about Heinz and purity](https://docs.google.com/presentation/d/1zCLzuuGgqMpFlfXC5iaFG7Q70mW9w34SVv3YTZ4JKr0/edit?usp=sharing)
 - Discussion of the Blum chapters on adulterations and preservatives, and the broader question of government regulation of food manufacturers.
 "%}
 
@@ -224,6 +224,7 @@ There are three big chunks of reading for this week, but they all go fast. Chall
 
 {% include alert.html class='info' title='IN CLASS' text="
 - General discussion and review for reading quiz
+- [SLIDES for freshness](https://docs.google.com/presentation/d/14tlkfSWMuGCQGkEGnhlPWi1xZMIFqtr4vJ4LsXh-ZAQ/edit?usp=sharing)
 "%}
 
 {% include alert.html class='danger' title='DUE: READING QUIZ' text="
@@ -239,6 +240,7 @@ I don't expect you to read 50+ pages for one day of class, but we're going to ta
 
 {% include alert.html class='info' title='IN CLASS' text="
 - General discussion and review for reading quiz due Friday (but you can take it anytime after class). There will be questions that are NOT covered in class to keep you honest about reading, but most material on the quiz will be highlighted today.
+- [SLIDES of 1950s food ads](https://docs.google.com/presentation/d/17spIP3Y9onlCsXiPxGU2kJ7td066YK8viN-jq8uNuto/edit?usp=sharing)
 "%}
 
 
@@ -259,6 +261,7 @@ This week is about how technology in food creates new concerns and debates about
 
 ### Mar 9
 - Carolyn Thomas Peña, _Empty Pleasure_ (Ch. 5 and Conclusion), 141--175; 219--228.
+- [SLIDES for the first-half review](https://docs.google.com/presentation/d/1cJxbOXY65zQ_Zj7pxBqrKPB2vrlkscB4w0VuKbOLpBM/edit?usp=sharing)
 
 ### Mar 11
 NO CLASS! Finish your review and get started on your spring break!
