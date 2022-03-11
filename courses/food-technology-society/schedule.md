@@ -391,24 +391,36 @@ Most of the class is about technology as applied to food production and distribu
 ### Apr 29
 NO CLASS!
 
+{% include alert.html class='danger' title='DUE: READING QUIZ' text="
+Same quiz routine as usual on BOTH readings for the week. Since you expressed a preference for short-answer quizzes over general essays, this is a short-answer quiz like the one we had for the Freshness week. Be sure to complete the quiz by midnight or let me know what your plan is.
+"%}
 
 
 ## 16: Fake Meat and Food Futures
-Mostly wrap-up stuff for our last two meetings. Monday continues our theme of thinking through the social implications of technological change when it comes to food production and consumption, and how new advancements are challenging traditional categories of food. Should lab-grown meat be labeled as meat? Or is that deceptive?
+Mostly wrap-up stuff for our last two meetings. Monday continues our theme of thinking through the social implications of technological change when it comes to food production and consumption, and how new advancements are challenging traditional categories of food (and how to label them). What can we expect from the reception of techno-foods like lab-cultured meat based on the history we've learned this semester?
 
 ### May 2
 - Megan Poinski, [Technology is revolutionizing food, but how can it be explained to consumers?](https://www.fooddive.com/news/food-tech-explain-marketing/606401/)
 - Adam Shprintzen, "Ella Eaton Kellogg's Protose", 219--231.
 
 {% include alert.html class='danger' title='DUE: Essay analysis' text="
-According to the Poinski, how is technology presenting challenges for food labeling? There isn't much historical context in the article, but how can histories of products, like _protose_, help us? When else have we seen similar issues? History never supplies any answers, but how can the history of food + tech help us ask better questions or think more carefully about how to label foods generated with increasingly sophisticated tech?
+This last assignment is a warm-up for your final due next week.
+
+According to the Poinski, how is technology presenting challenges for food labeling? There isn't much historical context in the article, but how can histories of products, like _protose_, help us? History never supplies any answers, but how can the history of food + tech help us ask better questions or think more carefully about what we should expect from the reception of techno-foods like lab-cultured meat?
 "%}
 
 ### May 4
 We don't need to dissect this article in detail, but you should be familiar with it a way of wrapping everything up and thinking about the future intersections of food, tech, and society.
-- [How big data is going to help feed nine billion people by 2050](https://www.techrepublic.com/article/how-big-data-is-going-to-help-feed-9-billion-people-by-2050/).  
-- Course wrap-up
+
+- [How big data is going to help feed nine billion people by 2050](https://www.techrepublic.com/article/how-big-data-is-going-to-help-feed-9-billion-people-by-2050/). We've been talking about the long and sometimes revolutionary process of industrializing agriculture all through the semester. How does this article reflect some of the trends we've already seen? What's new? Can you identity a few blind spots the article has after going through this course?
+
+
+{% include alert.html class='info' title='IN CLASS' text="
+- Article discussion
+- Course wrap-up/review (for your final)
 - Tips for your final essay
+"%}
+
 
 
 ### May 6
