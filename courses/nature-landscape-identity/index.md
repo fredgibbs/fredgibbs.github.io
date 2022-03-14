@@ -3,7 +3,7 @@ layout: syllabus
 course-title: Nature, Landscape, Identity
 course-slug: nature-landscape-identity
 number: HIST 300-011
-term: Fall 2022
+term: Spring 2022
 section: home
 ---
 
@@ -42,32 +42,36 @@ If you don't have one already, [sign up for a free account at zotero.org](https:
 You should see your username or a "Log Out" link on the top nav bar. If you see a "Log In" link, you need to log in. Pretty straightforward.
 
 ### Step 3: Request to Join our group library
-Once you know you are logged in to zotero.org, visit [our Zotero Group homepage](https://www.zotero.org/groups/1647225/food-tech-society-unm/), and click the red "Join" button off to the right, which will send an email to me. As soon as I see it (usually within an hour or two unless you're doing this late at night), I'll approve your request to join the group. There is nothing else you need to do at this point.
+Once you know you are logged in to zotero.org, visit [our Zotero Group homepage](https://www.zotero.org/groups/2379087/), and click the red "Join" button off to the right, which will send an email to me. As soon as I see it (usually within an hour or two unless you're doing this late at night), I'll approve your request to join the group. There is nothing else you need to do at this point.
 
 {% include alert.html class='info' title='Accessing Readings Once Connected' text="
-Once you've completed the steps above, and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/1647225/food-tech-society-unm/library). If you are asked to log in, do that, but you end up on the Zotero homepage. Come back here to click the above link again.
+Once you've completed the steps above, and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/2379087/nature-landscape-unm/library). If you are asked to log in, do that, but you end up on the Zotero homepage. Come back here to click the above link again.
 
 When you can see all the items in our library, double-clicking an item brings up a PDF of the article or chapter. If it brings up the wrong thing, there are multiple PDFs linked to that item. Select the item you need, then click the `Attachments` tab in the upper right of the page to see all the attachments. The box+arrow icon will open the PDF.
 "%}
 
 
 ### Familiarity over mastery
-We read a lot in this class, as is unavoidable in a 2H humanities course. For almost everything we read, we're reading to ENGAGE with it, not because it's RIGHT. There is a LOT to disagree with across the readings. And we don't all have to agree on anything.
+There is a fair amount of reading for this class, but very average for a 2H humanities course. However you look at it, **You cannot possibly read every word, or every page, or master all the ideas, and that's just fine**. I DO expect you to gain a familiarity across all the readings so that they can inform your participation in class and weekly assignments.
 
-This class has a very average amount of reading for an upper-level humanities course. **That said, you cannot possibly read every word, or every page, or master all the ideas, and that's just fine**. I DO expect you to gain a familiarity across all the readings so that they can inform your participation in class and weekly assignments.
-
+For almost everything we read, we're reading to ENGAGE with it, NOT because it's RIGHT. There is a LOT to disagree with across the readings. And we don't all have to agree on anything.
 
 
 ## Work Requirements and Grading
-- Thorough preparedness and engaged participation in most every class meeting.  Because this course is focused on cultivating different perspectives about how we can think about the relationship between nature, landscape, and identity, your active participation in the course is essential. (20%)
+- Thorough preparedness and engaged participation in most every class meeting.  Because this course is focused on cultivating different perspectives about how we can think about the relationship between nature, landscape, and identity, your **active participation in the course is essential**. (25%)
 
-- 7 Weekly Reflections. These are due on Friday; they will demonstrate your familiarity with the readings and discussions for the week. You should be taking notes in preparation for these while you read and during class. There's nothing specific I'm looking for you to say. Just show me you're engaged with what we're doing.
+### Reading Reflections (~250 words, and DUE BEFORE CLASS)
+These encourage everyone to read carefully enough to have something to say about the readings and be prepared for our discussion. No one is interested in factual recitation of the readings. These should focus on interesting conceptual issues raised by the readings. These should also include TWO big-picture questions about the topic for the day based on the reading. (25%)
 
-- 1 ~2400-word [final essay guide](final-essay-guide) for more details. (25%)
+### Weekly Reflections (~500 words and DUE MIDNIGHT FRIDAY)
+These will demonstrate your familiarity with the readings and discussions for the week. I highly recommend taking some notes in preparation for these while you read and during class. Even the most cursory reminders go a long way. There's nothing specific I'm looking for you to say. Just tell me about what you learned and what you thought was interesting or kind of boring. **Be sure to give some explanation of why you have whatever opinion you do!** (25%)
+
+### Final Essay (~1200-words)
+See the [final essay guide](final-essay-guide) for more details. (25%)
 
 
 ### Grading is mostly about effort
-**There are no right answers!** All assignments are graded primarily on what it looks like your effort to connect to course readings and discussions and to highlight what you found most interesting (which we do in class discussion as well). If you actually do the readings, come to class, and make a serious effort to show me you've learned something, it's almost impossible NOT to get an A.
+**There are no right answers!** All assignments are graded primarily on what it looks like your effort to connect to course readings and discussions and to highlight what you found most interesting (which we do in class discussion as well). If you actually do the readings, come to class, and make a serious effort to show me you've learned something, **it's almost impossible NOT to get an A**.
 
 
 ### Submission Policies
@@ -77,7 +81,7 @@ Do not stress about submitting work a few or minutes or even hours late. That's 
 
 
 ### Feedback
-Because your assignments are scored via a rubric on Learn, the rubrics provide some feedback about areas where you could improve. I try to provide some comments as well, but I'm not able to do this thoroughly for everyone for each assignment. That said, if you want more feedback on any assignment, please ask via email and I will be happy to provide it!
+Because all your assignments are scored via a rubric on Learn, the rubrics provide some feedback about areas where you could improve. I try to provide some comments as well, but I'm not able to do this thoroughly for everyone for each assignment. That said, if you want more feedback on any assignment, please ask via email and I will be happy to provide it!
 
 More generally, please please please email me at any time to learn how I think you're doing in the class and how it can be improved (if at all). This can be via email or Zoom (in addition to student hours on Wednesday afternoons).
 
@@ -112,9 +116,7 @@ If life gets overwhelming during the course, it can be tempting to drift away fr
 ## Important UNM Announcements and Resources
 
 ### COVID-19
-Perhaps you've heard of it. You should be aware of and follow the [Bring Back the Pack guidelines and requirements](https://bringbackthepack.unm.edu/). Most notably, until told otherwise, we all have to wear masks ALL THE TIME in class. Per UNM policy, if you don't wear your mask or wear it improperly you will be dropped from the course.
-
-I'm adding one additional rule: Drinks are fine PLEASE MINIMIZE EATING IN CLASS. I know we meet at around lunchtime, but our own safety (and comfort about our safety) have to come first.
+Perhaps you've heard of it. You should be aware of and follow the [Bring Back the Pack guidelines and requirements](https://bringbackthepack.unm.edu/). These have loosened recently, but could change at any time. I follow and enforce whatever rules UNM decides are appropriate.
 
 **If you are not feeling well, PLEASE DO NOT COME TO CLASS!** There is no grade penalty for missed classes due to illness of any kind. If you need to quarantine, and miss several classes, that's fine, but please let me know what's going on. We'll work it out and I'll help you stay caught up. You will still be expected to complete assignments within a reasonable amount of time, but I'm trying to err on the side of compassion and be very flexible with deadlines.
 

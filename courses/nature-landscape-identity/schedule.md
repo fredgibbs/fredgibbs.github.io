@@ -20,26 +20,23 @@ We'll review the course aims, assignments, and general plan for our 1/2 semester
 
 
 ### Mar 23
+- D. W. Meinig, "The Beholding Eye: Ten Versions of the Same Scene", 33--48.
+
 - Frédéric Ducarme and Denis Couvet, “What Does ‘Nature’ Mean?” Palgrave Communications 6, no. 1 (January 31, 2020): 1–8.
 
 - Leo Marx, "[The Idea of Nature in America](https://www.amacad.org/publication/idea-nature-america)", _Daedalus_ (2008): 8--21.
 
 
 
-- Lynn White, Jr., "The Historical Roots of Our Ecological Crisis" _Science_, 155 (1967): 1203-1207.
-
-- Carolyn Merchant, _The Death of Nature_ (Ch. 1: Nature as Female), 1--41.
 
 
-
-## 2:: Nature / Culture / Wilderness
+## 2: Nature / Culture / Wilderness
 
 ### Mar 28
 - Frederick Turner, "Cultivating the American Garden" (nature / culture divide)
 
-- Michael Pollan, _Second Nature_ (Ch. 2: Nature Abhors a Garden), 37--53; 6 (Weeds are Us) 98--116.
+- Michael Pollan, _Second Nature_ (Ch. 2: Nature Abhors a Garden; Ch. 6: Weeds are Us) 37--53; 98--116.
 
-- Bill McKibben, _The End of Nature_, Chap. 2, 40--78.
 
 
 #### Mar 30
@@ -55,16 +52,15 @@ Early American Nature
 
 - Richard White, "Discovering Nature in North America", 874--891.
 
-- Arthur Ekirch, Jr., _Man and Nature in America_, 10--21 (2: The Agrarian Dream)
+- Arthur Ekirch, Jr., _Man and Nature in America_ (2: The Agrarian Dream), 10--21.
 
-- Thomas Jefferson, _Notes on Virginia_ (TBD)
+- George Catlin, _Letters and Notes on the North American Indians_ (Letters 2 and 10), 14--22; 66--79.
 
 
 ### Apr 6
 Romantic Nature
 
-- Arthur Ekirch, Jr., _Man and Nature in America_, 22--34 (3: The Romantic View)
-
+- Arthur Ekirch, Jr., _Man and Nature in America_ (3: The Romantic View), 22--34.
 
 - Ronald Rees, “Constable, Turner, and Views of Nature in the Nineteenth Century.” _Geographical Review_ 72, no. 3 (1982): 253–69.
 
@@ -73,15 +69,15 @@ Romantic Nature
 
 
 
-## 4::
+## 4:
 ### Apr 11
 Transcendentalist Nature
 
-Arthur Ekirch, Jr., _Man and Nature in America_, 47--68 (3 and 4: Emerson and Thoreau)
+Arthur Ekirch, Jr., _Man and Nature in America_, (Chs. 5 and 6: Emerson and Thoreau), 47--69.
 
 Ralph Waldo Emerson, "Nature", 1--53.
 
-Thoreau, Excerpts from _Walden_, "Walking"
+Henry David Thoreau, "Walking", 59--92.
 
 
 
@@ -91,38 +87,42 @@ Preserving and Conserving Nature
 
 - John M. Meyer, "Gifford Pinchot, John Muir, and the Boundaries of Politics in American Thought", Polity, 30.2 (1997), 267–84.
 
-- Gifford Pinchot : Selected Writings, 21--28. [online]
+- _Gifford Pinchot: Selected Writings_, 1--18 (skim over the biographical details, but pay attention to the personal experiences that shaped his views of nature); 21--33 (pay attention to the time and contexts when Pinchot wrote these short pieces we are reading).
 
-- "A Plan to Save the Forests" (Century Magazine, Feb. 1895), 626--634.
+- Miles A. Powell, “‘Pestered with Inhabitants’: Aldo Leopold, William Vogt, and More Trouble with Wilderness.” (2015): 195–226.
 
-- Miles A. Powell, “‘Pestered with Inhabitants’: Aldo Leopold, William Vogt, and More Trouble with Wilderness.” Pacific Historical Review 84, no. 2 (2015): 195–226.
+- John Muir, [My First Summer in the Sierra](https://www.google.com/books/edition/My_First_Summer_in_the_Sierra/ymNIAAAAMAAJ?hl=en&gbpv=1)
 
-- John Muir, My First Summer in the Sierra (https://www.google.com/books/edition/My_First_Summer_in_the_Sierra/ymNIAAAAMAAJ?hl=en&gbpv=1)
 
 
 
 ## 5:
 ### Apr 18
-Turner thesis, impact, criticism
+Environmentalism
 
+- Donald Worster, _The Wealth of Nature_
 
 
 ### Apr 20
-something about urban places,
-place memory (ferrar article)
-Dolores Hayden, _The Power of Place_, 15--43.
+Landscape Stories
+
+- J. B. Jackson, _Sense of Place, A Sense of Time_, 15--25 or 37.
+- Leslie Marmon Silko, "Landscape, History and the Pueblo Imagination", 83--94.
+- Keith H. Basso, "'Stalking with Stores: Names, Places, and Moral Narratives Among the Western Apache'", 95--116.
+- Margaret Wickens Pearce and Renee Pualani Louis, “Mapping Indigenous Depth of Place” (2008): 107--26.
 
 
 
 
 ## 6:
 ### Apr 25
-Landscape Stories
-2 chapters on indigenous places and mapping indigenous depth of place?
+Place Memory
 
-J. B. Jackson, _Sense of Place, A Sense of Time_, 15--25 or 37.
+- Oliver Zimmer, “In Search of Natural Identity: Alpine Landscape and the Reconstruction of the Swiss Nation.” (1998): 637--48.
+- Margaret E. Farrar, “Amnesia, Nostalgia, and the Politics of Place Memory” (2011): 723–35.
+- Dolores Hayden, _The Power of Place_ (Ch. 2:Sense of Place and Politics of Space), 15--43.
 
-D. W. Meinig, "The Beholding Eye: Ten Versions of the Same Scene"
+
 
 
 ### Apr 27
@@ -130,17 +130,22 @@ Constructing Landscapes
 
 - Anne Whiston Spirn, "Constructing Nature: The Legacy of Frederick Law Olmstead", 91--113.
 
-- Audrey J Horning, "Of Saints and Sinners: Mythic Landscapes of the Old and New South",  21--39. (from _Myth, Memory, and the Making of the American Landscape_)
+- Audrey J Horning, "Of Saints and Sinners: Mythic Landscapes of the Old and New South" (from _Myth, Memory, and the Making of the American Landscape_), 21--39.
 
 - Paul Claval, "Changing Conceptions of Heritage and Landscape" (from _Heritage, Memory and the Politics of Identity_), 85--92.
 
 
 
 
-
-
 ## 7:
 ### May 2
+
+- Lynn White, Jr., "The Historical Roots of Our Ecological Crisis" (1967): 173--181.
+
+- Carolyn Merchant, _The Death of Nature_ (Ch. 1: Nature as Female), 1--41.
+
+- Bill McKibben, _The End of Nature_, (Ch. 2: The End of Nature), 40--78
+
 
 
 ### May 4
@@ -151,7 +156,7 @@ Reframing Nature
 - Frederick Turner, "[Life on Mars: Cultivating a Planet — And Ourselves](http://frederickturnerpoet.com/?page_id=88)".
 
 
-## 8: FIANLS WEEK
+## 8: FINALS WEEK
 
 ## May 14
 {% include alert.html class='danger' title='DUE: Final Course Reflection' text="
