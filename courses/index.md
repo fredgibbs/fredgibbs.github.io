@@ -9,16 +9,16 @@ description: Regularly scheduled courses: Food + Technology + Society; Landscape
 {% include course-block.html
 slug="history-science-medicine"
 title="History of Science and Medicine (Fall 2022)"
-poster="images/fts-sm.jpg"
-desc="Science and medicine can seem like objective and neutral endeavors, but history shows us how culturally constructed they are. This course surveys the origins, evolutions, and revolutions in the history of science and medicine. There is  "
+poster="images/history-science-medicine-sm.jpg"
+desc="Science and medicine can seem like objective and neutral endeavors, but history shows us how culturally constructed they are. This one-semester survey highlights the origins, evolutions, and revolutions in the history of science and medicine."
 %}
 
 
 {% include course-block.html
 slug="constructing-nature"
-title="Constructing Nature (Fall 2022; 2H course)"
-poster="images/landscape-memory-sm.jpg"
-desc="Nature and landscape so often seem in the background. At the same time, we recognize that the spaces around us connects us to our past and charts a course for the future. This course explores the changing cultural constructions of \"nature\" in American History. We pursue three particular goals: 1) Describe how the attitudes towards nature have shifted over time. 2) Articulate how landscapes of all kinds mediates our relationship to the past, present, and future. 3) Explain how landscape can influence constructions of identities at personal, regional, and national levels."
+title="The Idea of Nature (Fall 2022; 2H course)"
+poster="images/idea-of-nature-sm.jpg"
+desc="Nature and landscape can seem like mere background our lives, but the spaces around us connect us to our past and chart a course for the future. This course explores the changing cultural constructions of \"nature\" in American History. We pursue three particular goals: 1) Describe how the attitudes towards nature have shifted over time. 2) Articulate how landscapes of all kinds mediates our relationship to the past, present, and future. 3) Explain how landscape can influence constructions of identities at personal, regional, and national levels."
 %}
 
 
