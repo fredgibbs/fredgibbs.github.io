@@ -7,6 +7,23 @@ description: Regularly scheduled courses: Food + Technology + Society; Landscape
 # Regularly Scheduled Courses
 
 {% include course-block.html
+slug="history-science-medicine"
+title="History of Science and Medicine (Fall 2022)"
+poster="images/fts-sm.jpg"
+desc="Science and medicine can seem like objective and neutral endeavors, but history shows us how culturally constructed they are. This course surveys the origins, evolutions, and revolutions in the history of science and medicine. There is  "
+%}
+
+
+{% include course-block.html
+slug="constructing-nature"
+title="Constructing Nature (Fall 2022; 2H course)"
+poster="images/landscape-memory-sm.jpg"
+desc="Nature and landscape so often seem in the background. At the same time, we recognize that the spaces around us connects us to our past and charts a course for the future. This course explores the changing cultural constructions of \"nature\" in American History. We pursue three particular goals: 1) Describe how the attitudes towards nature have shifted over time. 2) Articulate how landscapes of all kinds mediates our relationship to the past, present, and future. 3) Explain how landscape can influence constructions of identities at personal, regional, and national levels."
+%}
+
+
+
+{% include course-block.html
 slug="food-technology-society"
 title="Food, Technology, and Society (Spring 2022)"
 poster="images/fts-sm.jpg"
@@ -51,18 +68,6 @@ desc="If someone tells you how to eat or what you should or shouldn’t eat, do 
 
 Some guiding questions: How do dietary experts establish their expertise? Why have medical authorities continually redefined what it means to be healthy and to eat a healthy diet? Why have so many fad diets come into and gone out of fashion?  What can historical perspectives on topics like GMOs, vitamins, and obesity offer contemporary debates on these issues?"
 %}
-
-
-
-
-
-{% include course-block.html
-slug="landscape-memory"
-title="Landscape and Memory (Fall 2019)"
-poster="images/landscape-memory-sm.jpg"
-desc="With ubiquitous digital maps at our finger tips, it’s easy to move through space without giving it much thought. At the same time, we recognize that physical space connects us to our past and charts a course for the future. This multidisciplinary course draws from history, geography, archeology, anthropology, literature, cultural studies and architecture to explore the how we attach meanings to space and how both space and place influence our identities, communities, regions, and nations. Coursework contributes to ongoing projects at the National Park Service on the National Historic Trails (particularly writing about historic sites on the Santa Fe Trail and contributing to [this website](http://trails.unm.edu)), emphasizing qualitative research and historical writing for a broad audience with digital publication technologies."
-%}
-
 
 
 {% include course-block.html

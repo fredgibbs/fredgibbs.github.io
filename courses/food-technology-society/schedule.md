@@ -295,6 +295,8 @@ These should be ~1200 words, but quality is more important than quantity. Just m
 Continuing the theme of risk from before break, this week we look at the modern state of food additives and the intersection of food safety and food technology. What would Harvey Wiley think of all this stuff in our food?
 
 ### Mar 28
+A few fun readings to get back in gear for the second half. There are lots of details in the chapters that you can skim, but read carefully enough to get the big picture. Why and what does it mean that so many things are going in our food? Does it really matter? How does this change the way we should even think about food? We also start to learn about federal regulation of food additives, which we focus on for Wednesday.
+
 - Melanie Warner, _Pandora's Lunchbox_ (Ch. 6: Better living through chemistry), 97--123 .
 - Steve Ettlinger, _Twinkie, Deconstructed_ (Ch. 4: Enrichment Blend), 29--44.
 

@@ -22,6 +22,8 @@ We'll review the course aims, assignments, and general plan for our 1/2 semester
 ### Mar 23
 - D. W. Meinig, "The Beholding Eye: Ten Versions of the Same Scene", 33--48.
 
+- John Hay, "The Nature Writer's Dilemma", 7--10.
+
 - Frédéric Ducarme and Denis Couvet, “What Does ‘Nature’ Mean?” Palgrave Communications 6, no. 1 (January 31, 2020): 1–8.
 
 - Leo Marx, "[The Idea of Nature in America](https://www.amacad.org/publication/idea-nature-america)", _Daedalus_ (2008): 8--21.
@@ -37,6 +39,7 @@ We'll review the course aims, assignments, and general plan for our 1/2 semester
 
 - Michael Pollan, _Second Nature_ (Ch. 2: Nature Abhors a Garden; Ch. 6: Weeds are Us) 37--53; 98--116.
 
+- Ylva Uggla, “What is this thing called ‘natural’? The nature-culture divide in climate change and biodiversity policy.” (2010): 79--87.
 
 
 #### Mar 30
@@ -52,7 +55,11 @@ Early American Nature
 
 - Richard White, "Discovering Nature in North America", 874--891.
 
+- Noel Perrin, "Forever Virgin: The American View of America", 13--22.
+
 - Arthur Ekirch, Jr., _Man and Nature in America_ (2: The Agrarian Dream), 10--21.
+
+- _American Georgics_, 9--27.
 
 - George Catlin, _Letters and Notes on the North American Indians_ (Letters 2 and 10), 14--22; 66--79.
 
