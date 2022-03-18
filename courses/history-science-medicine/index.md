@@ -2,14 +2,15 @@
 layout: syllabus
 course-title: History of Science and Medicine
 course-slug: history-science-medicine
-term: Spring 2022
+term: Fall 2022
 number: HIST 2996
 section: home
 ---
 
-# HIST 2996: History of Science and Medicine
+# History of Science and Medicine
 
 ## Logistics
+- HIST 2996
 - 3 Credit Hours
 - Fall 2022; 12 - 12:50 MWF
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall

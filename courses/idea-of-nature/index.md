@@ -1,20 +1,20 @@
 ---
 layout: syllabus
-course-title: Nature, Landscape, Identity
-course-slug: nature-landscape-identity
-number: HIST 300-011
-term: Spring 2022
+course-title: The Idea of Nature
+course-slug: idea-of-nature
+number: HIST 300-xxx
+term: Fall 2022
 section: home
 ---
 
-# Nature, Landscape, Identity
+# The Idea of Nature
 
 ## Logistics
-- HIST 300-011
+- HIST 300-xxx
 - 3 Credit Hours
-- MW 3:00 -- 5:30 (but really 4:30--5 most days)
+- MW 3:00 -- 5:30 (but closer to 5 most days)
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
-- Student Hours: W 1:00--3:00 via Zoom (see the Learn for the link). I'm always happy to meet before or after class or schedule a different time.
+- Student Hours: TBD
 
 ## Course Description
 Nature and landscape so often seem in the background. At the same time, we recognize that the spaces around us connects us to our past and charts a course for the future. This course explores how the ideas of nature, landscapes around us, influence personal identities, communities, regions, and nations.
