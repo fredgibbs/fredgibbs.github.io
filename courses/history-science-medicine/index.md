@@ -1,36 +1,33 @@
 ---
 layout: syllabus
-course-title: Food + Tech + Society
-course-slug: food-technology-society
+course-title: History of Science and Medicine
+course-slug: history-science-medicine
 term: Spring 2022
-number: HIST 412
-title: Food, Technology, and Society
+number: HIST 2996
 section: home
 ---
 
-# HIST 412: Food, Technology & Society
+# HIST 2996: History of Science and Medicine
 
 ## Logistics
 - 3 Credit Hours
-- Spring 2022; 11 - 11:50 MWF
+- Fall 2022; 12 - 12:50 MWF
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
-- Student Hours: 1:30-3:30 Wednesdays via Zoom (find the link on the UNM Learn course page)
+- Student Hours: TBD
 
 ## Course Description
-It's easy to take supermarkets for granted. It almost seems natural that they should abound with vibrant and uniform vegetables, tasty snacks, and highly perishable but perfectly safe meat and dairy products. But the seeming inevitability of our grocery stores obscures the complex and frequently surprising history of the intersection of food and technology. But by carefully considering the tension between our desire for pure, natural food and our desire for cheap, convenient food helps us understand how technology is constantly reframing our relationship to food.
+Science and medicine can seem like objective and neutral endeavors, but history shows us how culturally constructed they are. This one-semester survey highlights the origins, evolutions, and revolutions in the history of science and medicine.
 
 
 ## Student Learning Outcomes
-- Think broadly and critically about the social implications of technological change with respect to food production and distribution
-- Evaluate how food technology continually alters our relationship to food
-- Describe key shifts in food technology in their historical contexts
-- Explain how history helps us ask better questions about developing food technologies
+- Think broadly and critically about the history of science and medicine
+- Analyze how science and medicine are culturally constructed
+- Describe key shifts in approaches to science and medicine
+- Explain how history helps us ask better questions about developing new technologies
 
 
 ## Readings & Assignments
-Note at the top of the page the link to the schedule page of the syllabus: [http://fredgibbs.net/courses/food-technology-society/schedule.html](http://fredgibbs.net/courses/food-technology-society/schedule.html).
-
-Please note that the schedule is a living document and changes depending on what's going on in the course. If you print it out, you'll need to keep your paper version up to date with the online version. If you keep a browser tab open all semester, make sure you refresh it when you go to look up the next assignment and reflection prompt.
+Note at the top of the page the link to the schedule page of the syllabus! The schedule is a living document and changes depending on what's going on in the course. If you print it out, you'll need to keep your paper version up to date with the online version. If you keep a browser tab open all semester, make sure you refresh it when you go to look up the next assignment and reflection prompt.
 
 To access all other articles and book chapters on the syllabus, we use a tool called Zotero to manage and provide access to articles and chapter scans. All readings that aren't already online (and some that are) will be available through the class Zotero library.
 
@@ -64,19 +61,12 @@ The theme for the assignment schedule is slow and steady. Almost every week you 
 
 
 ### Preparedness and participation
-This course is focused on cultivating different perspectives about how we can think about food, technology, and society---not just memorizing and regurgitating supposedly important "facts". Solid (not necessarily perfect) attendance and participation almost always raises your grade 2/3 grade.
-
-- Attendance in most class meetings (20 pts)
-- Attentive participation in most class meetings (20 pts)
 
 ### Weekly reflections on course readings/discussions
 There are a few different flavors of exercise that we encounter throughout the term, as noted below. Each assignment will use basically the same rubric in Learn.
 
 - 5 Week-in-Review Quizzes (via Learn) (10--15 pts each)
-- 3 ~600-word [book reviews](book-review-guide) (15 pts each)
 - 2 ~400-word [executive summaries](exec-summary-guide) (15 pts each)
-- 1 ~800-word [historic newspaper ad analysis](newspaper-ads-guide) (20 pts)
-- 1 ~800-word [website analysis](website-analysis-guide) on GMO safety (20 pts)
 - 1 ~600-word essay analysis (10 pts)
 
 ### Midterm and final
@@ -125,19 +115,12 @@ If life gets overwhelming during the course, it can be tempting to drift away fr
 ## Extra Credit (5-10 points)
 - You can get more than the "maximum" number of points on almost any written assignment by going above and beyond the requirements. Posts that seem to have significant analytical depth to them (usually this means writing a bit more than the minimum) or unusually insightful analysis will get bonus points (usually up to 4). If you're really into a topic and have a little extra time for an assignment, it's an easy way to make sure you're on track for the grade you want.
 - Most quizzes, too, have a few questions that are extra credit. You can of course skip these without any penalty, but it's an easy chance for points.
-- If you are worried you are falling just short of a grade you're aiming for, there is an easy way to ensure you get it! Do a [Food Documentary Critique](food-documentary-analysis) (worth up to 10 points).
-
-
-### Extra credit is EXTRA, not substitute.
-You can only get extra credit points if you have turned in all other assigned work.
 
 
 ## Important UNM Announcements and Resources
 
 ### COVID-19
-Perhaps you've heard of it. You should be aware of and follow the [Bring Back the Pack guidelines and requirements](https://bringbackthepack.unm.edu/). Most notably, until told otherwise, we all have to wear masks ALL THE TIME in class. Per UNM policy, if you don't wear your mask or wear it improperly you will be dropped from the course.
-
-I'm adding one additional rule: Drinks are fine PLEASE MINIMIZE EATING IN CLASS. I know we meet at around lunchtime, but our own safety (and comfort about our safety) have to come first.
+Perhaps you've heard of it. You should be aware of and follow the [Bring Back the Pack guidelines and requirements](https://bringbackthepack.unm.edu/).
 
 **If you are not feeling well, PLEASE DO NOT COME TO CLASS!** There is no grade penalty for missed classes due to illness of any kind. If you need to quarantine, and miss several classes, that's fine, but please let me know what's going on. We'll work it out and I'll help you stay caught up. You will still be expected to complete assignments within a reasonable amount of time, but I'm trying to err on the side of compassion and be very flexible with deadlines.
 

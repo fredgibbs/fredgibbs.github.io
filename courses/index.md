@@ -15,7 +15,7 @@ desc="Science and medicine can seem like objective and neutral endeavors, but hi
 
 
 {% include course-block.html
-slug="constructing-nature"
+slug="idea-of-nature"
 title="The Idea of Nature (Fall 2022; 2H course)"
 poster="images/idea-of-nature-sm.jpg"
 desc="Nature and landscape can seem like mere background our lives, but the spaces around us connect us to our past and chart a course for the future. This course explores the changing cultural constructions of \"nature\" in American History. We pursue three particular goals: 1) Describe how the attitudes towards nature have shifted over time. 2) Articulate how landscapes of all kinds mediates our relationship to the past, present, and future. 3) Explain how landscape can influence constructions of identities at personal, regional, and national levels."
