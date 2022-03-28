@@ -316,7 +316,7 @@ A few fun readings to get back in gear for the second half. There are lots of de
 NO CLASS!
 
 {% include alert.html class='danger' title='DUE: Executive Summary' text="
-Drawing widely from this week's readings, submit an [Executive Summary](exec-summary-guide) on the place of 'secret' ingredients in convenience foods and what the role of federal regulation should be. DO NOT simply summarize the readings! Use them as a basis for a more philosophical piece on food additives generally.
+Drawing widely from this week's readings, submit an [Executive Summary](exec-summary-guide) on the issues surrounding the place of 'secret' ingredients in convenience foods and what the role of federal regulation should be. DO NOT simply summarize the readings! Use them as a basis for a more philosophical piece on food additives generally and in explaining the kinds of things that a reader of your summary should be thinking about when it comes to these issues.
 "%}
 
 
