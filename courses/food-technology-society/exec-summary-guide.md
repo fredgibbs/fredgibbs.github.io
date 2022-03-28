@@ -31,7 +31,7 @@ This exercise should help you keep making connections between course material th
 
 
 ## What you're being graded on
-- How intelligently you formulate an answer to the set of questions. The best summaries do not progress from one reading to the next, or simply answer one prompt question after the next, but present a cohesive answer relevant to the questions. It may or may not explicitly address every single question.
+- How intelligently you formulate an answer to the set of questions. The best summaries present a cohesive answer to the assignment prompt.
 - How well you create and follow a logical structure and progression to your bullet points. A random collection of ideas will be frowned upon (and graded down).
 - How well you use **only bullet points** (and sub-bullets) to articulate your ideas. Bullet points by definition are short and to the point; 2-3 shortish sentences MAX, or maybe one long, complex sentence.
   - Don't write a whole paragraph and then make it into a bullet point.
@@ -41,7 +41,7 @@ This exercise should help you keep making connections between course material th
 - EFFORT! If you're asking yourself "what does Gibbs want?", the short answer is: EVIDENCE OF EFFORT. I want you to show me that you've done the reading, thought about it, thought about how it relates to the other readings, and made a serious effort to answer the questions I've posed. You'll be graded primarily on what seems to be the effort you put into the assignment, not on whether you mention X, Y, or Z. But if you don't mention what are obviously main points from the readings that everyone else is mentioning, I can only assume you didn't try very hard.
 
 ## Formatting Requirements
-Getting formatting to look nice in Learn is like herding cats at times, especially if you're trying to move something from Word and somehow all the formatting gets mysteriously transposed. But if you have a nice-looking bulleted list in Word, it _should_ easily copy and paste into your discussion thread without too much distortion. As long as bullets and sub bullets are clearly distinct, and the whole thing is legible, I don't much care about the specific aesthetics.
+Getting formatting to look nice in Learn can be like herding cats. But if you have a nice-looking bulleted list in Word, and cut and paste it into Learn, and use the "Keep Formatting" option when you're asked, you _should_ be able to maintain formatting without distortion. Bottom line: as long as bullets and sub bullets are clearly distinct, and the whole thing is legible, I don't much care about the specific aesthetics.
 
 
 ## Tips for success
