@@ -17,7 +17,7 @@ section: home
 - Student Hours: TBD
 
 ## Course Description
-Science and medicine can seem like objective and neutral endeavors, but history shows us how culturally constructed they are. This one-semester survey highlights the origins, evolutions, and revolutions in the history of science and medicine.
+Science and medicine can seem like objective and neutral endeavors, but history shows us how much they are a product of cultural circumstances. This one-semester survey highlights the origins, evolutions, and revolutions in the history of science and medicine.
 
 
 ## Student Learning Outcomes

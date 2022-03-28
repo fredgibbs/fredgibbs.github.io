@@ -339,16 +339,16 @@ It was only about 60 years ago that we really started to think about the environ
 - Rachel Carson, _Silent Spring_, 5--13; 15--37.
 
 {% include alert.html class='warning' title='Keep Reading' text="
-You have one additional reading (the Pollan chapter for Friday) to do before the quiz that we won't talk about in class. It's a super easy read that doesn't require any additional explanation or review. The questions on the quiz will be easy if you are familiar with the reading. Just wanted to make sure it's on your radar before Friday.
+You have one additional reading (the Pollan chapter for Friday) to do that we won't talk about in class. It's a super easy read that doesn't require any additional explanation or review. Just want to make sure it's on your radar before Friday.
 "%}
 
 ### Apr 8
-NO CLASS! But you still have one reading to do before you take the essay quiz due today.
+NO CLASS! But you still have one reading you should do before completing the executive summary .
 
 - Michael Pollan, _Omnivore's Dilemma_ (Ch. 2: The Farm), 32--56.
 
-{% include alert.html class='danger' title='DUE: READING QUIZ' text="
-Same quiz routine as always, and this one spans ALL the readings for the week. Since you expressed a preference for short answer quizzes over general essays, this is a short-answer quiz like the one we had for the Freshness week. Be sure to complete the quiz by midnight or let me know what your plan is.
+{% include alert.html class='danger' title='DUE: EXECUTIVE SUMMARY' text="
+Drawing widely from this week's readings, submit an [Executive Summary](exec-summary-guide) on the the Green Revolution, Rachel Carson, and modern industrial farming. DO NOT simply summarize the readings! Use them as a basis for a more philosophical piece on how these readings should help us think about food production in general and it's affect on the environment.
 "%}
 
 
@@ -371,7 +371,7 @@ Submit an [executive summary](exec-summary-guide) that addresses this question: 
 
 
 ## 14: GMOs
-Perhaps no issue more than Genetically Modified Organisms embodies the various themes we've explored in the course thus far. This week we focus on the various issues of food technology that get rarified with the debate about the safety, risk, regulation, and labeling of GMO foods.
+Perhaps no issue more than Genetically Modified Organisms embodies the various themes we've explored in the course thus far. This week we focus on the various issues of food technology that get rarified with the debate about the safety, risk, regulation, and labeling of GMO foods. It looks like a lot of pages, but the pages are actually small and the reading goes very quickly. Remember that seeing the big picture from a longer reading is one of the key skills we're trying to hone in the course.
 
 ### Apr 18
 * McKay Jenkins, _Food Fight: GMOs and the Future of the America_ (Prologue; Are GMOs Safe?), 1--46.
@@ -380,7 +380,9 @@ Perhaps no issue more than Genetically Modified Organisms embodies the various t
 * McKay Jenkins, _Food Fight: GMOs and the Future of the America_ (The Long, Paved Road to Industrial Food), 47--76.
 
 ### Apr 22
-{% include alert.html class='danger' title='DUE: GMO website analysis' text="For this assignment you'll critique a website of your choosing that discusses whether GMOs are safe. Consult the [website analysis guide](website-analysis-guide) for more details. As with all your assignments, the goal is to put the course to use in addressing 'real-world' discussions about the impact of technology on food safety, quality, and risk. The best essays will draw together readings from the last few weeks and makes extensive use of the Jenkins reading for this week.
+NO CLASS!
+
+{% include alert.html class='danger' title='DUE: GMO website analysis' text="For this assignment you'll critique a website of your choosing that discusses whether GMOs are safe. Consult the [website analysis guide](website-analysis-guide) for more details. As with all your assignments, the goal is to put the course to use in addressing 'real-world' discussions about the impact of technology on food safety, quality, and risk (and any theme from the course). The best essays will draw together readings from the last few weeks and makes extensive use of the Jenkins reading for this week.
 "%}
 
 

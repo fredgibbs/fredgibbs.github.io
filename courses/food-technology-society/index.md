@@ -74,7 +74,7 @@ There are a few different flavors of exercise that we encounter throughout the t
 
 - 5 Week-in-Review Quizzes (via Learn) (10--15 pts each)
 - 3 ~600-word [book reviews](book-review-guide) (15 pts each)
-- 2 ~400-word [executive summaries](exec-summary-guide) (15 pts each)
+- 2 ~500-word [executive summaries](exec-summary-guide) (15 pts each)
 - 1 ~800-word [historic newspaper ad analysis](newspaper-ads-guide) (20 pts)
 - 1 ~800-word [website analysis](website-analysis-guide) on GMO safety (20 pts)
 - 1 ~600-word essay analysis (10 pts)

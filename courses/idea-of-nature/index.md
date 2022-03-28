@@ -17,7 +17,7 @@ section: home
 - Student Hours: TBD
 
 ## Course Description
-Nature and landscape so often seem in the background. At the same time, we recognize that the spaces around us connects us to our past and charts a course for the future. This course explores how the ideas of nature, landscapes around us, influence personal identities, communities, regions, and nations.
+Nature and landscape so often seem merely a backdrop to more important things happening in our lives. At the same time, we recognize that the spaces around us connects us to our past and charts a course for the future. This course explores how the ideas about nature have involved over time and how landscapes around us influence personal identities, communities, and nations.
 
 ## Student Learning Outcomes
 - Describe how the attitudes towards nature have shifted over time.
