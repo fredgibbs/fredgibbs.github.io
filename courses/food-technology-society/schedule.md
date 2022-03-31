@@ -322,15 +322,20 @@ Drawing widely from this week's readings, submit an [Executive Summary](exec-sum
 
 
 ## 12: Environmental Food
-It was only about 60 years ago that we really started to think about the environmental implications of the incredibly rapid rise of food technology and production. We learn about the so-called Green Revolution that ushered in a new intensity to industrialized agriculture entirely reliant on chemical inputs. We also learn about Rachel Carson, one of the few people in history that we can point to as almost single-handedly changing the way we think about the environment and helped to create the field of ecology.
+It was only about 60 years ago that we really started to think about the environmental implications of the incredibly rapid rise of food technology and production. This week we learn about how the so-called Green Revolution ushered in a new intensity to industrialized agriculture that was entirely reliant on chemical inputs. We also learn about Rachel Carson, whose book _Silent Spring_ addressed some of the safety and environmental issues raised by new industrial agriculture. Carson of the few people in history that we can point to as almost single-handedly changing the way we think about the environment (and helped crystalize the field of ecology).
 
 
 ### Apr 4
-- VIDEO: [The Green Revolution: Waging A War Against Hunger](https://www.youtube.com/watch?v=HucSCNQ01X4). This 10 minute video presents an informative, but very rosy (and therefore highly distorted) view of the Green Revolution.
-- R. Douglas Hurt, _The Green Revolution in the Global South : Science, Politics, and Unintended Consequences_ (2020), 179--195 (Ch. 7).
+Less reading, more watching! Please watch/read in order listed so everything makes sense. Today is all about thinking through competing perspectives on technology applied to food production generally.
+
+- VIDEO: [The Green Revolution: Waging A War Against Hunger](https://www.youtube.com/watch?v=HucSCNQ01X4). This 10-minute video presents a solid introduction to the Green Revolution, but you'll notice it presents a quite rosy view of it---especially the way it mentions some significant downsides, but then abruptly dismisses them as "necessary".
+
+- VIDEO: [Green Revolution](https://www.youtube.com/watch?v=015HH9zbWHQ). A different take on the same topic. Obviously there is some overlap with the other video, but you'll see it's a really different way of presenting the "facts".
+
+- SKIM: R. Douglas Hurt, _The Green Revolution in the Global South: Science, Politics, and Unintended Consequences_ (2020), 179--195 (Ch. 7). This chapter is a conclusion of a book that looks at some of the unintended consequences of the Green Revolution in a global context. NEVERMIND THE DETAILS, but skim carefully enough to get a sense of how the Green Revolution played out a bit differently than scientists expected.
 
 {% include alert.html class='info' title='IN CLASS' text="
-- Let's compare the tone and content of the video to the more sophisticated analysis provided in the Hurt chapter. How do we explain such different presentations? What does that say about our relationship to technology generally?
+- Let's compare the tone and content of the two videos and the more sophisticated analysis provided in the Hurt chapter. How do we explain such different presentations of the same topic?
 - Intro to Rachel Carson (looking ahead to Wednesday)
 "%}
 
@@ -417,7 +422,7 @@ According to the Poinski, how is technology presenting challenges for food label
 "%}
 
 ### May 4
-We don't need to dissect this article in detail, but you should be familiar with it a way of wrapping everything up and thinking about the future intersections of food, tech, and society.
+We don't need to dissect this article in detail, but you should be familiar with it for our discussion as we wrap everything up and prepare for the final essay.
 
 - [How big data is going to help feed nine billion people by 2050](https://www.techrepublic.com/article/how-big-data-is-going-to-help-feed-9-billion-people-by-2050/). We've been talking about the long and sometimes revolutionary process of industrializing agriculture all through the semester. How does this article reflect some of the trends we've already seen? What's new? Can you identity a few blind spots the article has after going through this course?
 
