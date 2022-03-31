@@ -330,7 +330,7 @@ Less reading, more watching! Please watch/read in order listed so everything mak
 
 - VIDEO: [The Green Revolution: Waging A War Against Hunger](https://www.youtube.com/watch?v=HucSCNQ01X4). This 10-minute video presents a solid introduction to the Green Revolution, but you'll notice it presents a quite rosy view of it---especially the way it mentions some significant downsides, but then abruptly dismisses them as "necessary".
 
-- VIDEO: [Green Revolution](https://www.youtube.com/watch?v=015HH9zbWHQ). A different take on the same topic. Obviously there is some overlap with the other video, but you'll see it's a really different way of presenting the "facts".
+- VIDEO: [Green Revolution](https://www.youtube.com/watch?v=015HH9zbWHQ). A different take on the same topic. Obviously there's a little overlap with the other video, but you'll see it's a really different way of presenting the "facts". This isn't the most energetic presentation, but it's very clear and concise.
 
 - SKIM: R. Douglas Hurt, _The Green Revolution in the Global South: Science, Politics, and Unintended Consequences_ (2020), 179--195 (Ch. 7). This chapter is a conclusion of a book that looks at some of the unintended consequences of the Green Revolution in a global context. NEVERMIND THE DETAILS, but skim carefully enough to get a sense of how the Green Revolution played out a bit differently than scientists expected.
 
