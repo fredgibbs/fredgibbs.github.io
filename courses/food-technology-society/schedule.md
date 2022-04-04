@@ -341,6 +341,8 @@ Less reading, more watching! Please watch/read in order listed so everything mak
 
 
 ### Apr 6
+- [Pesticide Early Warnings](https://nm.pbslearningmedia.org/resource/amex29rc-soc-pesticide/pesticide-early-warnings/)
+- [Rachel Carson's Silent Spring](https://nm.pbslearningmedia.org/resource/envh10.sci.life.eco.silentspring/rachel-carsons-silent-spring/)
 - Rachel Carson, _Silent Spring_, 5--13; 15--37.
 
 {% include alert.html class='warning' title='Keep Reading' text="
@@ -348,7 +350,7 @@ You have one additional reading (the Pollan chapter for Friday) to do that we wo
 "%}
 
 ### Apr 8
-NO CLASS! But you still have one reading you should do before completing the executive summary .
+NO CLASS! But you still have one last reading you should do before completing the executive summary.
 
 - Michael Pollan, _Omnivore's Dilemma_ (Ch. 2: The Farm), 32--56.
 
