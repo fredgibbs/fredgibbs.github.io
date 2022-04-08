@@ -11,30 +11,32 @@ section: schedule
 # Schedule of Readings and Assignments
 
 
-## 1: Introductions
+{% include alert.html class='info' title='Reflections' text="
+For each group of readings (by day), submit via email a ~400-word reflection on the readings.  Please DO NOT SUMMARIZE the readings one by one. I'm looking for how you can compare and contrast them, and relate them to previous course material. You should answer the same questions each week:
+- Where did you see the most overlap between the readings? In other words, what are the major themes they have in common?
+- Where did the readings differ in significant ways in terms of disagreement or simply different perspectives?
+- How did the set of readings offer a different way of thinking about nature compared to previous readings?
+"%}
 
-### Mar 21
+
+## Week 1
+
+### Mar 21: Intro
 We'll review the course aims, assignments, and general plan for our 1/2 semester together. Why do conceptions of "nature" matter?
 - Raymond Williams, "Ideas of Nature" (1980), 67--85.
-- What is YOUR nature?
 
 
-### Mar 23
+### Mar 23: Considering Nature
 - D. W. Meinig, "The Beholding Eye: Ten Versions of the Same Scene", 33--48.
-
 - John Hay, "The Nature Writer's Dilemma", 7--10.
-
 - Frédéric Ducarme and Denis Couvet, “What Does ‘Nature’ Mean?” Palgrave Communications 6, no. 1 (January 31, 2020): 1–8.
-
 - Leo Marx, "[The Idea of Nature in America](https://www.amacad.org/publication/idea-nature-america)", _Daedalus_ (2008): 8--21.
 
 
 
+## Week 2
 
-
-## 2: Nature / Culture / Wilderness
-
-### Mar 28
+### Mar 28: Nature vs. Culture
 - Frederick Turner, "Cultivating the American Garden" (nature / culture divide)
 
 - Michael Pollan, _Second Nature_ (Ch. 2: Nature Abhors a Garden; Ch. 6: Weeds are Us) 37--53; 98--116.
@@ -42,17 +44,16 @@ We'll review the course aims, assignments, and general plan for our 1/2 semester
 - Ylva Uggla, “What is this thing called ‘natural’? The nature-culture divide in climate change and biodiversity policy.” (2010): 79--87.
 
 
-#### Mar 30
+#### Mar 30: Wilderness
 - William Cronon, "The Trouble with Wilderness: Or, Getting Back to the Wrong Nature", _Environmental History_, 1.1 (1996).
 
 - Michael Pollan, _Second Nature_ (Ch. 10: The Idea of a Garden), 176--201.
 
 
 
-## 3:
-### Apr 4
-Early American Nature
+## Week 3
 
+### Apr 4: Early American Nature
 - Richard White, "Discovering Nature in North America", 874--891.
 
 - Noel Perrin, "Forever Virgin: The American View of America", 13--22.
@@ -64,9 +65,7 @@ Early American Nature
 - George Catlin, _Letters and Notes on the North American Indians_ (Letters 2 and 10), 14--22; 66--79.
 
 
-### Apr 6
-Romantic Nature
-
+### Apr 6: Romantic Nature
 - Arthur Ekirch, Jr., _Man and Nature in America_ (3: The Romantic View), 22--34.
 
 - Ronald Rees, “Constable, Turner, and Views of Nature in the Nineteenth Century.” _Geographical Review_ 72, no. 3 (1982): 253–69.
@@ -76,21 +75,16 @@ Romantic Nature
 
 
 
-## 4:
-### Apr 11
-Transcendentalist Nature
-
-Arthur Ekirch, Jr., _Man and Nature in America_, (Chs. 5 and 6: Emerson and Thoreau), 47--69.
-
-Ralph Waldo Emerson, "Nature", 1--53.
-
-Henry David Thoreau, "Walking", 59--92.
+## Week 4
+### Apr 11: Transcendentalist Nature
+- Arthur Ekirch, Jr., _Man and Nature in America_, (Chs. 5 and 6: Emerson and Thoreau), 47--69.
+- Ralph Waldo Emerson, "Nature", 1--53.
+- Henry David Thoreau, "Walking", 59--92.
 
 
 
 
-### Apr 13
-Preserving and Conserving Nature
+### Apr 13: Preserving and Conserving Nature
 
 - John M. Meyer, "Gifford Pinchot, John Muir, and the Boundaries of Politics in American Thought", Polity, 30.2 (1997), 267–84.
 
@@ -103,16 +97,12 @@ Preserving and Conserving Nature
 
 
 
-## 5:
-### Apr 18
-Environmentalism
-
-- Donald Worster, _The Wealth of Nature_
+## Week 5
+### Apr 18: Environmentalism
+- Donald Worster, _The Wealth of Nature_ (TBD)
 
 
-### Apr 20
-Landscape Stories
-
+### Apr 20: Landscape Stories
 - J. B. Jackson, _Sense of Place, A Sense of Time_, 15--25 or 37.
 - Leslie Marmon Silko, "Landscape, History and the Pueblo Imagination", 83--94.
 - Keith H. Basso, "'Stalking with Stores: Names, Places, and Moral Narratives Among the Western Apache'", 95--116.
@@ -121,10 +111,8 @@ Landscape Stories
 
 
 
-## 6:
-### Apr 25
-Place Memory
-
+## Week 6
+### Apr 25: Place Memory
 - Oliver Zimmer, “In Search of Natural Identity: Alpine Landscape and the Reconstruction of the Swiss Nation.” (1998): 637--48.
 - Margaret E. Farrar, “Amnesia, Nostalgia, and the Politics of Place Memory” (2011): 723–35.
 - Dolores Hayden, _The Power of Place_ (Ch. 2:Sense of Place and Politics of Space), 15--43.
@@ -132,9 +120,7 @@ Place Memory
 
 
 
-### Apr 27
-Constructing Landscapes
-
+### Apr 27: Constructing Landscapes
 - Anne Whiston Spirn, "Constructing Nature: The Legacy of Frederick Law Olmstead", 91--113.
 
 - Audrey J Horning, "Of Saints and Sinners: Mythic Landscapes of the Old and New South" (from _Myth, Memory, and the Making of the American Landscape_), 21--39.
@@ -144,26 +130,20 @@ Constructing Landscapes
 
 
 
-## 7:
-### May 2
-
+## Week 7
+### May 2: The existence of Nature
 - Lynn White, Jr., "The Historical Roots of Our Ecological Crisis" (1967): 173--181.
-
 - Carolyn Merchant, _The Death of Nature_ (Ch. 1: Nature as Female), 1--41.
-
 - Bill McKibben, _The End of Nature_, (Ch. 2: The End of Nature), 40--78
 
 
-
-### May 4
-Reframing Nature
-
+### May 4: Reframing Nature
 - Carolyn Merchant, "Reinventing Eden: Western Culture as a Recovery Narrative", 132--159.
-
 - Frederick Turner, "[Life on Mars: Cultivating a Planet — And Ourselves](http://frederickturnerpoet.com/?page_id=88)".
 
 
-## 8: FINALS WEEK
+
+## Week 8: FINALLY
 
 ## May 14
 {% include alert.html class='danger' title='DUE: Final Course Reflection' text="

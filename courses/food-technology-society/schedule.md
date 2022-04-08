@@ -369,11 +369,19 @@ Isn't it weird that at least culturally speaking we have two fundamental categor
 ### Apr 13
 - Laura B. DeLind, “Transforming Organic Agriculture into Industrial Organic Products: Reconsidering National Organic Standards,” 198--208.
 
+{% include alert.html class='info' title='IN CLASS' text="
+- What are the key issues surrounding the idea of organic food and industrial organics?
+- What are the barriers to useful standardization?
+"%}
+
+
 ### Apr 15
 NO CLASS!
 
 {% include alert.html class='danger' title='DUE: Executive Summary' text="
-Submit an [executive summary](exec-summary-guide) that addresses this question: How does the history of food and technology help us understand the future of organics? As always, there is NO RIGHT ANSWER, only more or less informed ones based on our readings. I'm interested in how much you can bring the course to bear on this question, however you choose to do that.
+Submit an [executive summary](exec-summary-guide) that addresses the following: What are the key issues surrounding the idea of organic food and industrial organics? What are the barriers to useful standardization? As always, there is NO RIGHT ANSWER, only more or less informed ones based on our readings.
+
+Invariably some students take the readings to mean modern organic food is a scam just to get people to pay more for basically the same product. That is NOT why we're reading them! To be fair, there is concern and skepticism in these articles. But there are also many legitimate reasons why organics can be considered superior, especially in terms of process if not product. Please be sure you're providing a BALANCED analysis.
 "%}
 
 
