@@ -45,7 +45,7 @@ You should see your username or a "Log Out" link on the top nav bar. If you see 
 Once you know you are logged in to zotero.org, visit [our Zotero Group homepage](https://www.zotero.org/groups/2379087/), and click the red "Join" button off to the right, which will send an email to me. As soon as I see it (usually within an hour or two unless you're doing this late at night), I'll approve your request to join the group. There is nothing else you need to do at this point.
 
 {% include alert.html class='info' title='Accessing Readings Once Connected' text="
-Once you've completed the steps above, and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/2379087/nature-landscape-unm/library). If you are asked to log in, do that, but you end up on the Zotero homepage. Come back here to click the above link again.
+Once you've completed the steps above, and I've approved your request to join our library, you can access our course readings most easily via [our Group Library page](https://www.zotero.org/groups/2379087/library). If you are asked to log in, do that, but you end up on the Zotero homepage. Come back here to click the above link again.
 
 When you can see all the items in our library, double-clicking an item brings up a PDF of the article or chapter. If it brings up the wrong thing, there are multiple PDFs linked to that item. Select the item you need, then click the `Attachments` tab in the upper right of the page to see all the attachments. The box+arrow icon will open the PDF.
 "%}

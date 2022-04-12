@@ -367,7 +367,7 @@ Isn't it weird that at least culturally speaking we have two fundamental categor
 - Michael Pollan, _Omnivore's Dilemma_ (Ch. 9: Big Organic), 134--184.
 
 ### Apr 13
-- Laura B. DeLind, “Transforming Organic Agriculture into Industrial Organic Products: Reconsidering National Organic Standards,” 198--208. This article can get a bit technical at times, but it constantly makes excellent and concise points about the pros and cons of national organic standards.
+- Laura B. DeLind, “Transforming Organic Agriculture into Industrial Organic Products: Reconsidering National Organic Standards,” 198--208.
 
 {% include alert.html class='info' title='IN CLASS' text="
 - What are the key issues surrounding the idea of organic food and industrial organics?
@@ -385,38 +385,74 @@ Invariably some students take the readings to mean modern organic food is a scam
 "%}
 
 
-## 14: Explaining / Shaping Food
+## 14: GMOs
+Perhaps no issue more than Genetically Modified Organisms embodies the various themes we've explored in the course thus far. This week we focus on the various issues of food technology that get rarified with the debate about the safety, risk, regulation, and labeling of GMO foods. It looks like a lot of pages, but the pages are actually small and the reading goes very quickly. Remember that seeing the big picture from a longer reading is one of the key skills we're trying to hone in the course.
 
 ### Apr 18
-NO CLASS! Happy post-Easter break!
+* McKay Jenkins, _Food Fight: GMOs and the Future of the America_ (Prologue; Are GMOs Safe?), 1--46.
 
 ### Apr 20
-- Megan Poinski, [Technology is revolutionizing food, but how can it be explained to consumers?](https://www.fooddive.com/news/food-tech-explain-marketing/606401/). In class we'll discuss how questions about labeling reflects just about everything we've discussed this term. A good review as we start wrapping up!
-
-{% include alert.html class='danger' title='DUE BEFORE CLASS: Last essay' text="
-In preparation for class, post a ~400-word op-ed style essay that does two topics:
-1. What are the key issues facing labeling of new synthetic products?
-2. How does this course suggest how the future of these products might play out?
-"%}
+* McKay Jenkins, _Food Fight: GMOs and the Future of the America_ (The Long, Paved Road to Industrial Food), 47--76.
 
 ### Apr 22
-NO CLASS! Nothing due, either.
+NO CLASS!
+
+{% include alert.html class='danger' title='DUE: GMO website analysis' text="For this assignment you'll critique a website of your choosing that discusses whether GMOs are safe. Consult the [website analysis guide](website-analysis-guide) for more details. As with all your assignments, the goal is to put the course to use in addressing 'real-world' discussions about the impact of technology on food safety, quality, and risk (and any theme from the course). The best essays will draw together readings from the last few weeks and makes extensive use of the Jenkins reading for this week.
+"%}
 
 
-## 15: Wrapping up
+## 15: Social Food
+Most of the class is about technology as applied to food production and distribution. But this week we consider how our attitudes toward food are shaped by social media and representations of food.
 
 ### Apr 25
-- One LAST meeting: Please come!
-- Course wrap-up/review/big points
-- Tips for your [final essay](final-essay-guide)
+- [Eating for the Insta](https://gradfoodstudies.org/2017/11/11/eating-for-the-insta/)
 
-### Apr 27+
-NO CLASS ANYMORE: Congrats and Thank you! We're done, apart from the final reflections.
+### Apr 27
+- Sharon Zukin, Scarlett Lindeman, and Laurie Hurson. “The Omnivore’s Neighborhood? Online Restaurant Reviews, Race, and Gentrification.” _Journal of Consumer Culture_ 17, no. 3 (2017): 459–79.
+
+### Apr 29
+NO CLASS!
+
+{% include alert.html class='danger' title='DUE: READING QUIZ' text="
+Same quiz routine as usual on BOTH readings for the week. Since you expressed a preference for short-answer quizzes over general essays, this is a short-answer quiz like the one we had for the Freshness week. Be sure to complete the quiz by midnight or let me know what your plan is.
+"%}
+
+
+## 16: Fake Meat and Food Futures
+Mostly wrap-up stuff for our last two meetings. Monday continues our theme of thinking through the social implications of technological change when it comes to food production and consumption, and how new advancements are challenging traditional categories of food (and how to label them). What can we expect from the reception of techno-foods like lab-cultured meat based on the history we've learned this semester?
+
+### May 2
+- Megan Poinski, [Technology is revolutionizing food, but how can it be explained to consumers?](https://www.fooddive.com/news/food-tech-explain-marketing/606401/)
+- Adam Shprintzen, "Ella Eaton Kellogg's Protose", 219--231.
+
+{% include alert.html class='danger' title='DUE: Essay analysis' text="
+This last assignment is a warm-up for your final due next week.
+
+According to the Poinski, how is technology presenting challenges for food labeling? There isn't much historical context in the article, but how can histories of products, like _protose_, help us? History never supplies any answers, but how can the history of food + tech help us ask better questions or think more carefully about what we should expect from the reception of techno-foods like lab-cultured meat?
+"%}
+
+### May 4
+We don't need to dissect this article in detail, but you should be familiar with it for our discussion as we wrap everything up and prepare for the final essay.
+
+- [How big data is going to help feed nine billion people by 2050](https://www.techrepublic.com/article/how-big-data-is-going-to-help-feed-9-billion-people-by-2050/). We've been talking about the long and sometimes revolutionary process of industrializing agriculture all through the semester. How does this article reflect some of the trends we've already seen? What's new? Can you identity a few blind spots the article has after going through this course?
+
+
+{% include alert.html class='info' title='IN CLASS' text="
+- Article discussion
+- Course wrap-up/review (for your final)
+- Tips for your final essay
+"%}
+
+
+
+### May 6
+NO CLASS: Congrats and Thank you!
+
 
 
 ## May 15
 {% include alert.html class='danger' title='DUE: Final Essay' text="
-Final Essays should be submitted on the discussion board as always. You are encouraged to submit these as soon as we're done meeting, but please have them in by Friday, May 15th, so I can submit grades on time. If you run into problems during the end of the term---sometimes it's unavoidable---just let me know your plan for submitting work so I make sure everything gets counted before I have to turn final grades in.
+Final Essays should be submitted via Learn (discussion board, as always) by midnight on Friday, May 15th (or perhaps early Saturday morning; I'm not a stickler about these as you know, especially now). If you need a few more days, that's fine, but please email me to let me know your plan so I don't give you a W for the course.
 
 See the [final essay guide](final-essay-guide) for more details. And review the [revision guide](writing-advice) after you've got a solid first draft!
 "%}
