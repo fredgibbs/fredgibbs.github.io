@@ -36,7 +36,10 @@ GIVE SPECIFIC EXAMPLES! Don't write a whole paragraph about olives making people
 
 
 ## References and Citations
-Anything in your text that refers to a specific point or idea (and obviously direct quotations) should a have parenthetical page reference. These show me as the grader how you are using course materials in your review. Use author/date format like (Gibbs, 75). When we've read more than one thing from an author, cite a short title of the work as well, like (Jenkins, _Food Fight_, 33). Do not cite entire works without a page number or page range.
+Anything in your text that refers to a specific point or idea (and obviously direct quotations) should a have parenthetical page reference. These show me as the grader how you are using course materials in your review. Use author/date format like (Gibbs, 75). When we've read more than one thing from an author, cite a short title of the work as well, like (Jenkins, _Food Fight_, 33). Do not cite entire works without a page number or page range---that doesn't tell me anything other than you looked at the syllabus for 5 seconds.
+
+## Addendum
+These are a chance to show off you've learned from the course, connections you can make between topics, and how you can apply the course in your future thinking about food. **But I'd also love to hear about any topics you found especially interesting or boring!**
 
 
 ## Tips for success
