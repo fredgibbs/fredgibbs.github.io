@@ -388,7 +388,10 @@ Invariably some students take the readings to mean modern organic food is a scam
 ## 14: Explaining / Shaping Food
 
 ### Apr 18
-NO CLASS! Happy post-Easter break!
+{% include alert.html class='warning' title='No Class!' text="
+An unusual Monday off! Happy post-Easter break!!
+"%}
+
 
 ### Apr 20
 - Megan Poinski, [Technology is revolutionizing food, but how can it be explained to consumers?](https://www.fooddive.com/news/food-tech-explain-marketing/606401/). In class we'll discuss how questions about labeling reflect just about everything we've discussed this term. A good review as we start wrapping up!
