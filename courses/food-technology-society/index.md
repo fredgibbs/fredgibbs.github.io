@@ -76,12 +76,12 @@ There are a few different flavors of exercise that we encounter throughout the t
 - 3 ~600-word [book reviews](book-review-guide) (15 pts each)
 - 2 ~500-word [executive summaries](exec-summary-guide) (15 pts each)
 - 1 ~800-word [historic newspaper ad analysis](newspaper-ads-guide) (20 pts)
-- 1 ~800-word [website analysis](website-analysis-guide) on GMO safety (20 pts)
-- 1 ~600-word essay analysis (10 pts)
+- 1 ~~\~800-word [website analysis](website-analysis-guide) on GMO safety (20 pts)~~
+- 1 ~~\~600-word essay analysis (10 pts)~~
 
 ### Midterm and final
 - 1 ~1200-word First half reflection (25 pts)
-- 1 ~1200-word [final essay](final-essay-guide) (25 pts)
+- 1 ~1800-word [final essay](final-essay-guide) (35 pts)
 
 
 ### Grading is mostly about effort
@@ -89,7 +89,6 @@ There are a few different flavors of exercise that we encounter throughout the t
 
 
 ### Grade Distribution
-Total of ~200 points.
 
 % of points | Grade
 --- | ---
@@ -106,11 +105,11 @@ Total of ~200 points.
 59- | F
 
 ### Submission Policies
-To keep us on schedule, late work will be penalized 1/3 grade for each day late UNLESS due to a medical issue or other extenuating circumstances (not uncommon these days!). You should let me know about these ASAP and let me know when you plan get caught up. **I'm always happy to be flexible and allow you to submit work late for full credit _as long as you're communicating what's going on_**.
+To keep us on schedule, late work will be penalized 1 full letter grade for being late UNLESS due to a medical issue or other extenuating circumstances (not uncommon these days!). You should let me know about these ASAP and let me know when you plan get caught up. **I'm always happy to be flexible and allow you to submit work late for full credit _as long as you're communicating what's going on_**.
 
-Do not stress about submitting work a few or minutes or even hours late. That's fine. But unless you've gotten in touch with me, days late is not okay. We have to vaguely respect the deadlines to keep from falling hopelessly behind.
+Do not stress about submitting work a few or minutes or even hours late. That's fine. But we have to vaguely respect the deadlines to keep from falling hopelessly behind.
 
-**Everyone can skip one assignment no questions asked, not including the midterm or final.** I recommend that you save that get-out-of-assignment-free card in case you really need it! If you complete all assignments, your "extra" one will count as extra credit toward your point total.
+**Everyone can skip one assignment no questions asked, NOT including the midterm or final.** I recommend that you save that get-out-of-assignment-free card in case you really need it! If you complete all assignments, your "extra" one will count as extra credit toward your point total.
 
 
 ### Feedback
