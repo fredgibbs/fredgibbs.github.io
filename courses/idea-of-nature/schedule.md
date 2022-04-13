@@ -30,7 +30,7 @@ We'll review the course aims, assignments, and general plan for our 1/2 semester
 - D. W. Meinig, "The Beholding Eye: Ten Versions of the Same Scene" (1979), 33--48.
 - John Hay, "The Nature Writer's Dilemma" (1987), 7--10.
 - Frédéric Ducarme and Denis Couvet, “What Does ‘Nature’ Mean?” (2020), 1–8.
-- Leo Marx, "[The Idea of Nature in America](https://www.amacad.org/publication/idea-nature-america)" (2008), 8--21. (also in Zotero)
+- Leo Marx, "The Idea of Nature in America", in Zotero as a PDF and [online](https://www.amacad.org/publication/idea-nature-america) (2008), 8--21.
 
 
 
