@@ -391,12 +391,12 @@ Invariably some students take the readings to mean modern organic food is a scam
 NO CLASS! Happy post-Easter break!
 
 ### Apr 20
-- Megan Poinski, [Technology is revolutionizing food, but how can it be explained to consumers?](https://www.fooddive.com/news/food-tech-explain-marketing/606401/). In class we'll discuss how questions about labeling reflects just about everything we've discussed this term. A good review as we start wrapping up!
+- Megan Poinski, [Technology is revolutionizing food, but how can it be explained to consumers?](https://www.fooddive.com/news/food-tech-explain-marketing/606401/). In class we'll discuss how questions about labeling reflect just about everything we've discussed this term. A good review as we start wrapping up!
 
 {% include alert.html class='danger' title='DUE BEFORE CLASS: Last essay' text="
-In preparation for class, post a ~400-word op-ed style essay that does two topics:
+In preparation for class, post a ~400-word op-ed style essay that directly addresses two questions:
 1. What are the key issues facing labeling of new synthetic products?
-2. How does this course suggest how the future of these products might play out?
+2. How does this course suggest how the future of these products (in terms of safety, acceptance, labeling, regulation, etc) might play out?
 "%}
 
 ### Apr 22
@@ -411,7 +411,7 @@ NO CLASS! Nothing due, either.
 - Tips for your [final essay](final-essay-guide)
 
 ### Apr 27+
-NO CLASS ANYMORE: Congrats and Thank you! We're done, apart from the final reflections.
+NO CLASS ANYMORE: Congrats and THANK YOU! We're done, apart from the final reflections. As always, please be in touch with questions or concerns!
 
 
 ## May 15
