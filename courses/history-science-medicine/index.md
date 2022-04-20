@@ -10,22 +10,20 @@ section: home
 # History of Science and Medicine
 
 ## Logistics
-- HIST 2996
-- 3 Credit Hours
-- Fall 2022; 12 - 12:50 MWF
+- HIST 2996, ONLINE MAX
+- Fall 2022, Full term, 3 Credit Hours
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
 - Student Hours: TBD
 
 ## Course Description
-Science and medicine can seem like objective and neutral endeavors, but history shows us how much they are a product of cultural circumstances. This one-semester survey highlights the origins, evolutions, and revolutions in the history of science and medicine.
+Science and medicine can seem like objective and neutral endeavors, but history shows us how much they are a product of social, cultural, and industrial circumstances. This one-semester survey highlights the origins, evolutions, and revolutions in the history of science and medicine. Our focus is not merely a survey of breakthroughs or discoveries, but rather what drives the constant evolution of ways of investigating the world around us. This is a non-technical course that emphasizes the historical contexts of knowledge production; no scientific background is expected.
 
 
 ## Student Learning Outcomes
-- Think broadly and critically about the history of science and medicine
-- Analyze how science and medicine are culturally constructed
-- Describe key shifts in approaches to science and medicine
-- Explain how history helps us ask better questions about developing new technologies
-
+- Enumerate key shifts in approaches to science and medicine and motives for change
+- Describe how science and medicine are not autonomous and objective enterprises but are created in specific cultural and social contexts
+- Explain how history helps us ask better questions about emerging technologies
+- Articulate the possibilities and limitations of modern science and medicine
 
 ## Readings & Assignments
 Note at the top of the page the link to the schedule page of the syllabus! The schedule is a living document and changes depending on what's going on in the course. If you print it out, you'll need to keep your paper version up to date with the online version. If you keep a browser tab open all semester, make sure you refresh it when you go to look up the next assignment and reflection prompt.

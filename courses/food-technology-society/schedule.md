@@ -410,8 +410,14 @@ NO CLASS! Nothing due, either.
 
 ### Apr 25
 - One LAST meeting: Please come!
-- Course wrap-up/review/big points
 - Tips for your [final essay](final-essay-guide)
+- Last questions review
+- Course wrap-up/review/big points
+
+
+{% include alert.html class='warning' title='BRING A QUESTION' text="
+For part of our discussion, I want everyone to come to class with one question about the intersection of food and technology. It doesn't have to be one we have answered, or even one that has an answer. But surveying these questions and thinking about how to even try to answer them is excellent preparation for your final essays.
+"%}
 
 ### Apr 27+
 NO CLASS ANYMORE: Congrats and THANK YOU! We're done, apart from the final reflections. As always, please be in touch with questions or concerns!
