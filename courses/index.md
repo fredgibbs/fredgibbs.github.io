@@ -6,6 +6,18 @@ description: Regularly scheduled courses: Food + Technology + Society; Landscape
 
 # Regularly Scheduled Courses
 
+
+{% include course-block.html
+slug="american-food"
+title="History of American Food (Summer 2022)"
+poster="images/american-food-cultures-2019.jpg"
+desc="When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. But what about American food? Is there such a thing? Does this concept even make sense anymore? How are ideas of nationalism reflected in our foodways?
+
+This course explores both historical and contemporary ways of thinking about 'American' food and the relationship between food and identity. We look at the changing meanings of food and foodways throughout US history, particularly how people have attached cultural values to certain foods yet rejected others, and how foodways are so frequently an expression of personal, community, and national values."
+%}
+
+
+
 {% include course-block.html
 slug="history-science-medicine"
 title="History of Science and Medicine (Fall 2022)"
@@ -37,12 +49,6 @@ poster="images/historiography-sm.jpg"
 desc="This course introduces some of the most influential approaches that historians (from antiquity through the present) have taken in thinking and writing about the past. It also addresses various meta-questions about history: What is history? What is it for? Who is it for? It addresses various philosophies of history (the underlying assumptions of how we can access and understand the past), as well as various historical interpretive frameworks that have shaped the professional practice of history. Coursework consists of numerous short essays that compare and contrast different processes, modes of thought, and modes of expression from different historical time periods and in different geographic areas."
 %}
 
-{% include course-block.html
-slug="american-food"
-title="History of American Food (Summer 2021)"
-poster="images/american-food-cultures-2019.jpg"
-desc="This course explores both historical and contemporary ways of thinking about 'American' food. We look the changing meanings of food and foodways throughout US history, including what people eaten, how they have attached cultural values to certain foods yet rejected others, and how immigration, and regionalization have shaped notions of American cuisine. When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. But what about American food? Is there such a thing? How much does the history of American Food tell a very different story of US History than we typically hear? How are ideas of nationalism reflected in our foodways? What constitutes a “national” cuisine? Does this concept even make sense anymore?"
-%}
 
 
 {% include course-block.html
