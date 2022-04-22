@@ -23,17 +23,18 @@ This page outlines all the instructions, logistics, and expectations for the cou
 "%}
 
 ## Course Description
-When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. Why is that? What constitutes a "national" cuisine? Does this concept even make sense anymore? What have Americans eaten over time and why has it changed? Is there (or was there ever) such a thing? Does it matter?
+When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. But what about American food? Is there such a thing? Does this concept even make sense?
 
-While the idea of American food is central to the course, the main goal of the course is to see how much fun we can have exploring different perspectives on the meanings of food. There will be some history, but that's a means to an end. Never shall we care about memorizing and regurgitating supposedly important historical "facts". The end goal is to use the past to think more critically about uses and meanings of food, both historically and in the present.
+This course explores both historical and contemporary ways of thinking about 'American' food and the relationship between food and identity. We look at the changing meanings of food and foodways throughout US history, particularly how people have attached cultural values to certain foods yet rejected others, and how foodways are so frequently an expression of personal, community, and national values.
 
- How do we construct identities through food? How much have immigration and regionalization shaped dietary preferences and notions of American food? What can the future of American food learn from its past?
+While questions about the idea of American food run throughout the course, the main goal is to see how much fun we can have exploring different perspectives on how we use food as means of self-expression. There will be some history, naturally, but that's a means to an end. Never shall we care about memorizing and regurgitating supposedly important historical "facts". The end goal is to use the past to think more critically about uses and meanings of food, both historically and in the present.
+
 
 ## Learning Objectives
 {% include alert.html class='info' title='' text="
 I put these in a super special box because I think they are important and I want to be sure THEY ARE CLEARLY VISIBLE. Literally everything we do in this class works toward one or more of these goals.
 - Describe how food shapes identities at various scales from the personal to the national.
-- Give historic examples of how attitudes toward food are influenced by shifting cultural, social, religious, scientific, and political values
+- Provide historic examples of how attitudes toward food are influenced by shifting cultural, social, religious, scientific, and political values.
 - Become more critical consumers of writing about food, whether about cooking, dieting, authenticity, appropriation, production, etc.
 - Think more critically and deeply about the uses and meanings of food and food choices both historically and in everyday life.
 "%}
