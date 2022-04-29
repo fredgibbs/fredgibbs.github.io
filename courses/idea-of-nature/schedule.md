@@ -84,7 +84,7 @@ We'll review the course aims, assignments, and general plan for our 1/2 semester
 
 ## Week 5
 ### Apr 18: Environmentalism
-- Donald Worster, _The Wealth of Nature_ (TBD)
+- Donald Worster, _The Wealth of Nature_ 3--63.
 
 
 ### Apr 20: Landscape Stories
