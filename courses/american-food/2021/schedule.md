@@ -2,40 +2,25 @@
 layout: syllabus
 course-title: History of American Food
 course-slug: american-food
-term: Summer 2022
+term: Summer 2021
 number: HIST 413
 section: home
 ---
 
 # Schedule of Readings & Assignments
 
-## General suggestions
-- Regular bullet points listed under each day is what you need to READ FOR THAT DAY.
-- Readings are listed in a particular order that I think works best.
-- All work that isn't directly linked to is in [our Zotero library](https://www.zotero.org/groups/1647225/food-tech-society-unm/library). See the syllabus home page for instructions on gaining access.
-- All posted assignments are technically "due" on the day they are listed so that we all stay on schedule. An occasional late post is fine. Repeatedly late posts will negatively impact your grade, as your score decreases by one point per day. After a week, you get a zero. The course simply moves too quickly for much flexibility with deadlines. More on these policies in the "Submitting Work" section below.
-
-
-## Colored boxes
-{% include alert.html class='danger' title='Red boxes' text="
-These indicate something you have to DO or TURN IN.
-"%}
-
-{% include alert.html class='warning' title='Yellow Boxes' text="
-These indicate something you should be aware of, but isn't anything you need to immediately do.
-"%}
-
-{% include alert.html class='info' title='Blue boxes' text="
-These indicate something that will be useful to know, but isn't time sensitive.
-"%}
-
+ 
+### Due dates
+All posted assignments are technically "due" on the day they are listed so that we all stay on schedule. An occasional late post is fine. Repeatedly late posts will negatively impact your grade, as your score decreases by one point per day. After a week, you get a zero. The course simply moves too quickly for much flexibility with deadlines.
 
 ### Video lectures
 All video lectures will be posted on the [course YouTube channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig), and I will link to them on the syllabus as they become available. If you want announcements of new videos, please subscribe to the channel.
 
+### Read/watch in order
+I list the readings/videos in the order I think it will be most useful to you. Usually, the earlier readings (or videos) introduce some ideas that get elaborated on in later readings. Going out of order can make things much more confusing, but of course you're free to work through the readings however you wish.
 
 ### Noteworthy is optional
-Most days have a "noteworthy" section that lists a few relevant readings on the topic. These are optional! Most have some good ideas that I'll mention in the videos; others are there just for additional materials and extra credit opportunities. I hope you'll skim through any that seem interesting to you. If you engage with these in your posts, you can will get extra credit for that work.
+Most days have a "noteworthy" section that lists a few relevant readings on the topic. These are optional! Most have some good ideas that I'll mention in the videos; others are there just for additional materials and extra credit opportunities. I hope you'll skim through any that seem interesting to you (and I hope you'll mention them in your posts so you can get credit for that work).
 
 ### All non-linked reading assignments are in Zotero
 Remember that if there isn't a direct link to a reading, it's in our course Zotero library. Instructions are on the [syllabus home page](index) under `Readings and Books`.
@@ -43,7 +28,7 @@ Remember that if there isn't a direct link to a reading, it's in our course Zote
 
 # Week 1
 
-## Jun 6
+## Jun 7
 
 ### Course introductions
 Our task for today is to make sure you know how the course is structured and general expectations.
@@ -64,7 +49,7 @@ Remember that all work, including these introductions, are due on the the day th
 
 
 
-## Jun 7
+## Jun 8
 
 ### Challenges and Rewards of Food + History
 I think this whole course makes more sense when you understand how and why people study food the way they do. So that's what the lecture is about, complemented by the Haley reading that argues we should resist the urge to romanticize the culinary past as is so often done in food media. A) It's never that simple and B) the real history is far more interesting and revealing.
@@ -81,7 +66,7 @@ This will cover the lecture and the Haley reading.
 
 
 
-## Jun 8
+## Jun 9
 
 ### National Cuisine & American Food
 The goal for today is to complicate the idea of "American" food through an investigation of national cuisine generally and ways of thinking about it. There are an unusually high number of readings for today, but they are all quite short!  
@@ -102,7 +87,7 @@ The goal for today is to complicate the idea of "American" food through an inves
 
 
 
-## Jun 9
+## Jun 10
 
 ### Authenticity
 Almost everyone thinks about whether some kind of food or dish is authentic from time to time. But what does that really mean? The few readings for today should help us think more carefully about why we do that and how useful it is. And most importantly, how we can do it more effectively.
@@ -123,7 +108,7 @@ These readings give us some new perspectives on the idea of authenticity and cas
 
 
 
-## Jun 10
+## Jun 11 (Fri)
 ### Cuisines of Contact & Thanksgiving
 - NO VIDEO TODAY
 - _HAE_, 1--10 (from 1: Cuisine of Contact).
@@ -143,7 +128,7 @@ This quiz covers basics from the readings, but also has a few short answer quest
 
 # Week 2
 
-## Jun 13
+## Jun 14
 ###  On Cuisines and Corn
 - [Overview VIDEO; small changes; quiz tips; why the set of readings for today)](https://youtu.be/zRz17bvrWLQ)
 - _HAE_, 13--31 (from 1: Cuisine of Contact).
@@ -160,7 +145,7 @@ This quiz covers early food consumption in early America, how food and personal/
 
 
 
-## Jun 14
+## Jun 15
 ### Early America, Early Food, Cookbooks, and National Identity
 - NO VIDEO
 - _HAE_, 33--55 (2: Food and the Founding). Continuing our emphasis on food and identity, this chapter covers how food was central to shaping early American identity. Both this chapter and the other reading emphaize the importance of capitalist markets, food production, and the development of cookbooks as a way of cultivating an American cuisine (and identity).
@@ -179,7 +164,7 @@ PROMPT: What did you learn from the reading today? Remember the goal of these re
 
 
 
-## Jun 15
+## Jun 16
 ### Cookbooks as historical sources
 - [VIDEO: brief recap and cookbook analysis highlights](https://youtu.be/nCpazETMY6M)
 The below readings will help you do the upcoming [Cookbook Analysis](cookbook-analysis) assignment. So read them with USING them in mind, not for writing a response about them. UPDATE 6/15: There is NO QUIZ for today as originally planned. We've been working hard enough---let's just focus on learning how to do the assignment.
@@ -206,7 +191,7 @@ Originally we were going to have a quiz to highlight and emphasize some ideas fr
 "%}
 
 
-## Jun 16
+## Jun 17
 - NO VIDEO
 - NO NEW READINGS for today!
 
@@ -215,7 +200,7 @@ Follow the [Cookbook Analysis Guide](cookbook-analysis).
 "%}
 
 
-## Jun 17
+## Jun 18 (Fri)
 ### Health, Technology, and Cereal
 Not much reading today, but an interesting early connection between health and technology that still influences our food choices.
 - _HAE_, 143--55 (6: Pious and Patriotic Stomach).
@@ -235,7 +220,7 @@ This quiz will draw equally from the lecture and bits of _HAE_ for today.
 
 # Week 3
 
-## Jun 20
+## Jun 21
 ### Expansion + Immigration
 - [Video on syllabus tweaks (less reading!) and today's topic (with quiz hints)](https://youtu.be/LsPwItPxF5Y).
 - _HAE_, 57-87 (3: Expansion and Immigration).
@@ -252,7 +237,7 @@ This basic quiz tests you on the broader points in the _HAE_ chapter.
 
 
 
-## Jun 21
+## Jun 22
 ### Culinary Diffusion
 - NO VIDEO
 - Katherine Massoth, "'Mexican Cookery that Belongs to the United States': Evolving Boundaries of Whiteness in New Mexican Kitchens", in _Food Across Borders_ (ed. Garcia, DuPuis, and Mitchell), 44--59.
@@ -267,7 +252,7 @@ How does the process of mingling food traditions and social constructions of rac
 
 
 
-## Jun 22
+## Jun 23
 ### Scientific Moralization
 Today's topic builds directly off the lecture from last week on cereal and the coupling of moral and dietary advice---and how that continued even as the science of nutrition developed in the later 1800s and early 1900s. Nutrition provided the perfect scientific cover for telling immigrants how they should eat and be more American in their food and moral choices. This is obviously building on our recent readings on immigration and culinary diffusion as well.
 
@@ -280,7 +265,7 @@ This quiz is solely on the one reading for today.
 
 
 
-## Jun 23
+## Jun 24
 ### Culinary Appropriation
 - [Video: Why care about appropriation? And tips for your food blog analysis](https://youtu.be/Ax2WpVAtMH4)
 - Michael Twitty, _The Cooking Gene_, 1--24.
@@ -304,7 +289,7 @@ Use the articles for this week to evaluate a claim we read a few weeks ago from 
 
 
 
-## Jun 24
+## Jun 25 (Fri)
 ### Gendered Cooking
 - NO VIDEO
 - _HAE_, 111--113; 124--141 (parts of 5: Gender and the American Appetite).
@@ -325,7 +310,7 @@ We've talked about food and identity in many ways already; this quiz covers the 
 
 # Week 4
 
-## Jun 27
+## Jun 28
 No video or new reading for today! Food Blog Analysis is due.
 
 {% include alert.html class='danger' title='Food Blog Analysis' text="
@@ -334,7 +319,7 @@ See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the c
 
 
 
-## Jun 28
+## Jun 29
 ### Technology and Industry of Meat
 - [BRIEF INTRO VIDEO](https://youtu.be/Vr8nfqg0bZg) (geared toward helping with the quiz based on the reading)
 - Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
@@ -347,7 +332,7 @@ The quiz is on the readings, but as usual I'll try to highlight many questions i
 
 
 
-## Jun 29
+## Jun 30
 ### Natural Diets
 - [VIDEO: Natural food, technology, nature, cost](https://youtu.be/P64q-jmkQfE)
 - No required readings for today, but skimming through the noteworthy stuff would be useful.
@@ -368,7 +353,7 @@ ONE DAY EXTENSION! Many folks have, understandably, slid a little behind as we h
 
 
 
-## Jun 30
+## Jul 1
 ### Wrapping up
 - David Foster Wallace, "Consider the Lobster". READ THE FOOTNOTES, which make some of the best points of the article! You can skim over the lobster biology bits if you want, but keep thinking about the larger point he's trying to make with his piece.
 - [VIDEO: Final wrap-up](https://youtu.be/M1QBKYRW_8A). This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and to jump start your thinking on your Final Course Reflection (see July 3).
@@ -382,16 +367,13 @@ The final video is my closing argument about what I hope you can take away from 
 
 
 
-## July 1
+## July 2 (Friday)
 NOTHING. Just, like, nothing. Work on your finals! Ask questions! Catch up with any work you intend to submit.
 
-## July 2 (Saturday)
-Last official day of the class, but you can have the rest of the weekend to work on your last reflection or any other work.
 
-
-## July 4 (Monday)
-Your FINAL Learning Reflection---over the WHOLE CLASS---needs to be turned in today. However, feel free to revise and submit it MONDAY. See the [Final Course Reflection Guide](final-course-reflection). I can't emphasize enough that this SHOULD NOT BE MERELY A SUMMARY of what we've covered. Instead, as the instructions explain in more detail, illustrate how your thinking about food has changed over the month, and how your submitted work justifies what you think should be your overall grade for the course.
+## July 3 (Saturday)
+Your FINAL Learning Reflection---over the WHOLE CLASS---is officially due today (the last official day of the 1H session.) However, feel free to revise and submit it MONDAY. See the [Final Course Reflection Guide](final-course-reflection). I can't emphasize enough that this SHOULD NOT BE MERELY A SUMMARY of what we've covered. Instead, as the instructions explain in more detail, illustrate how your thinking about food has changed over the month, and how your submitted work justifies what you think should be your overall grade for the course.
 
 {% include alert.html class='danger' title='Final Course Reflection' text="
-Make sure to post your [Final Course Reflection](final-course-reflection) on the discussion board! If something comes up at the last minute, or you need some time to process an epiphany about the course, email to ask for more time (just let me know what you need)!
+Make sure to post your [Final Course Reflection](final-course-reflection) on the discussion board! These are due by Monday, July 5. If something comes up at the last minute, or you need some time to process an epiphany about the course, email to ask for a few extra days!
 "%}

@@ -2,7 +2,7 @@
 layout: syllabus
 course-title: The Idea of Nature
 course-slug: idea-of-nature
-number: HIST 300-xxx
+number: HIST 300-005
 term: Fall 2022
 section: home
 ---
@@ -10,14 +10,14 @@ section: home
 # The Idea of Nature
 
 ## Logistics
-- HIST 300-xxx
+- HIST 300-005
 - 3 Credit Hours
 - MW 3:00 -- 5:30 (but closer to 5 most days)
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
 - Student Hours: TBD
 
 ## Course Description
-Nature and landscape so often seem merely a backdrop to more important things happening in our lives. At the same time, we recognize that the spaces around us connects us to our past and charts a course for the future. This course explores how the ideas about nature have involved over time and how landscapes around us influence personal identities, communities, and nations.
+Nature is often understood as space outside of human influence. Yet while there might be objective laws of nature that we can discover, the very idea of nature itself is a fascinating window onto cultural values. This course explores the idea of nature in America. We examine spiritual, romantic, industrial, recreational, philosophical, and environmental views of nature and how these have played off each other over the last 400+ years.
 
 ## Student Learning Outcomes
 - Describe how the attitudes towards nature have shifted over time.
