@@ -4,7 +4,7 @@ course-title: History of American Food
 course-slug: american-food
 term: Summer 2022
 number: HIST 413
-section: home
+section: schedule
 ---
 
 # Schedule of Readings & Assignments
@@ -12,14 +12,14 @@ section: home
 ## General suggestions
 - Regular bullet points listed under each day is what you need to READ FOR THAT DAY.
 - Readings are listed in a particular order that I think works best.
-- All work that isn't directly linked to is in [our Zotero library](https://www.zotero.org/groups/1647225/food-tech-society-unm/library). See the syllabus home page for instructions on gaining access.
-- All posted assignments are technically "due" on the day they are listed so that we all stay on schedule. An occasional late post is fine. Repeatedly late posts will negatively impact your grade, as your score decreases by one point per day. After a week, you get a zero. The course simply moves too quickly for much flexibility with deadlines. More on these policies in the "Submitting Work" section below.
+- All readings that aren't directly linked to are in [our Zotero Library](https://www.zotero.org/groups/2499167/american-food-unm/library). See the syllabus home page for instructions on gaining access.
+- All posted assignments are technically due on the day they are listed so that we all stay on schedule, but they can be submitted up to 9am on the following day. Be sure you are familiar with policies in the "Submitting Work" section on the syllabus home page.
 
 
 ## Colored boxes
 {% include alert.html class='danger' title='Red boxes' text="
 These indicate something you have to DO or TURN IN.
-"%}
+"%
 
 {% include alert.html class='warning' title='Yellow Boxes' text="
 These indicate something you should be aware of, but isn't anything you need to immediately do.
@@ -35,10 +35,8 @@ All video lectures will be posted on the [course YouTube channel](https://www.yo
 
 
 ### Noteworthy is optional
-Most days have a "noteworthy" section that lists a few relevant readings on the topic. These are optional! Most have some good ideas that I'll mention in the videos; others are there just for additional materials and extra credit opportunities. I hope you'll skim through any that seem interesting to you. If you engage with these in your posts, you can will get extra credit for that work.
+Most days have a "noteworthy" section that lists a few relevant readings on the topic. These are optional! Most have some good ideas that I'll mention in the videos; others are there just for additional materials and extra credit opportunities. I hope you'll skim through any that seem interesting to you and mention them in your work so you can get extra credit for that work.
 
-### All non-linked reading assignments are in Zotero
-Remember that if there isn't a direct link to a reading, it's in our course Zotero library. Instructions are on the [syllabus home page](index) under `Readings and Books`.
 
 
 # Week 1
@@ -49,17 +47,17 @@ Remember that if there isn't a direct link to a reading, it's in our course Zote
 Our task for today is to make sure you know how the course is structured and general expectations.
 
 - [VIDEO: Course Intro, Syllabus Intro, and Why I like food](https://youtu.be/w4WJ5wmduY8)
-- Warren Belasco, "Why study food?", from _Food: The Key Concepts_, 1--13. Note the last couple pages are about eating meat (and seems a bit shaded against it, IMO). But Belasco misses a couple major points when talking about both the benefits and consequences of eating meat. On the quiz for today, plan to articulate what you think he is **not** addressing---but should---in that section. Hint: Does it have anything to do with his definition of "meat"?
+- Warren Belasco, "Why study food?", from _Food: The Key Concepts_, 1--13.
 
 
 {% include alert.html class='warning' title='Syllabus quiz' text="
-This will cover the course into video, the syllabus, and the short Belasco reading.
+This will cover the course intro video, the syllabus, and the short Belasco reading.
 "%}
 
 {% include alert.html class='danger' title='Introductory post' text="
-Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post on the class Discussion Board in UNM Learn (should be an obvious link on the left nav bar in Learn) a brief introduction and one of your most vivid food memories---and why it resonates with you. These should be ~150 words or so. Please REPLY to the previous post (I've already put one there as a starter) so that we get one continuous thread---that makes reading through them MUCH easier.
+Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post on the Canvas Discussion Board (should be an obvious link on the left nav bar on the Canvas course page) a brief introduction and one of your most vivid food memories---and why it resonates with you. These should be ~150 words or so. Please REPLY to the previous post (I've already put one there as a starter) so that we get one continuous thread---that makes reading through them MUCH easier.
 
-Remember that all work, including these introductions, are due on the the day they are listed on the syllabus---that's today!
+Remember that all work, including these introductions, are due on the the day they are listed on the syllabus---that's today (= by 9am tomorrow)!
 "%}
 
 
@@ -88,16 +86,19 @@ The goal for today is to complicate the idea of "American" food through an inves
 
 - [VIDEO: Ideas and questions to keep in mind; first reflection advice](https://youtu.be/TscBrPzkGto)
 - _HAE_, xi--xv. _HAE_ refers to _How America Eats_ as described on the syllabus home page. You can access it for [free through UNM Libraries](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results).
-- _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
 - Alison K. Smith, [National Cuisines](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-25), from _The Oxford Handbook of Food History_ (2012). You can read more quickly over the long Russia example if you want, as the details don't much as the general ideas introduced earlier on. But do read the last paragraph! This is definitely the driest of the readings for this week, but it introduces a number of useful concepts to keep in mind as moving through the other readings.
-- Sean Wyer, [Italy isn't Eatalty](https://vittles.substack.com/p/italy-isnt-eataly). The title and conclusion of this article relate the unsurprising point that the cuisine of an entire nation can't be captured in a giant upscale grocery store. We hardly need to article to explain that to us, but the author makes a number of good points about how to think about national cuisine.
+- _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
 - Ruth Tobias, [Is There Such a Thing as ‘American’ Food?](https://www.tastingtable.com/culture/national/defining-american-food-cuisine). This article touches on culinary/cultural appropriation, which is a topic we cover in some depth in a few weeks, so focus for no
 - Sidney Mintz, "Eating American". This is easily the most controversial piece this week, suggesting there is no such thing as American Cuisine. Pay attention to his arguments so you can craft a thoughtful reading reflection for this week.
 
+
+#### Noteworthy
+- Sean Wyer, [Italy isn't Eatalty](https://vittles.substack.com/p/italy-isnt-eataly). The title and conclusion of this article relate the unsurprising point that the cuisine of an entire nation can't be captured in a giant upscale grocery store. We hardly need to article to explain that to us, but the author makes a number of good points about how to think about national cuisine.
+
+
 {% include alert.html class='danger' title='Reading reflection' text="
 1. make sure you're familiar with the [reading reflection guide](reading-reflections).
-2. DRAWING FROM THE SET OF READINGS: What are the most useful ideas for thinking about national cuisine that you noted? Can a national cuisine be defined by its diversity (as Lee and Tobias suggest)? Or does such diversity mean there really isn't an American cuisine (as Mintz suggests), and would that be OK? Does the difficulty of defining a national cuisine complicate the idea of national identity in general? Or in other words, does thinking about American cuisine help us understand the idea of \"Americanness\"?
-3. Don't forget your 1-2 THOUGHTFUL questions at the end that I can address in the next video. See the [reading reflection guide](reading-reflections) for more.
+2. Drawing from ALL the readings: What are the most useful ideas for thinking about national cuisine that you noted? Can a national cuisine be defined by its diversity (as Lee and Tobias suggest)? Or does such diversity mean there really isn't an American cuisine (as Mintz suggests)? Is it OK if there is no such thing as American cuisine? Does the difficulty of defining a national cuisine complicate the idea of national identity in general?
 "%}
 
 
@@ -105,9 +106,9 @@ The goal for today is to complicate the idea of "American" food through an inves
 ## Jun 9
 
 ### Authenticity
-Almost everyone thinks about whether some kind of food or dish is authentic from time to time. But what does that really mean? The few readings for today should help us think more carefully about why we do that and how useful it is. And most importantly, how we can do it more effectively.
+Almost everyone thinks about whether some kind of food or dish is "authentic" from time to time. But what does that really mean? The few readings for today should help us think more carefully notions of authenticity---particularly how it's paradoxically an entirely superficial way of describing food, but still a very powerful one.
 
-- [VIDEO: Overlap between national cuisine and authentic food and ideas for your reflections](https://youtu.be/qqiNJx3mS8c)
+- [VIDEO: [National cuisine and authentic food](https://youtu.be/qqiNJx3mS8c)
 - Dwight Furrow, _American Foodie_ (7: Habits and Heresies: Authenticity, Food Rules, and Traditions), 133--48.
 - Kevin Alexander, [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
 
@@ -118,20 +119,20 @@ Almost everyone thinks about whether some kind of food or dish is authentic from
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-These readings give us some new perspectives on the idea of authenticity and cast some (if not significant) doubt on the value of the concept. Drawing from BOTH readings: How is it useful? How is it not? Alexander's article is provocative and fun and sometimes smart. Would it be even better if it incorporated more of Furrow's ideas (and nuance generally)? Or is it better to take a hard line on the topic as he does?
+These readings give us some new perspectives on the idea of authenticity and cast some (if not significant) doubt on the value of the concept. Your prompt for today asks you to put the readings in conversation with each other. Alexander's article is provocative and fun and sometimes smart, but how does it compare with the nuance and analysis in Furrow's article?
 "%}
 
 
 
 ## Jun 10
 ### Cuisines of Contact & Thanksgiving
-- NO VIDEO TODAY
+- NO VIDEO
 - _HAE_, 1--10 (from 1: Cuisine of Contact).
+- Philip Deloria, “[The Invention of Thanksgiving](https://www.newyorker.com/magazine/2019/11/25/the-invention-of-thanksgiving)”, _New Yorker_, 95.37 (November 25, 2019): 70--74. [Also in Zotero if the link doesn't work.]
 - Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167--91.
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/). This quick read serves two purposes: it's a nice overview of what food were likely available at the harvest celebration of 1621. And it's a good example of uncritical food history that focuses entirely on food without much of the historical context (neither in the 1600s or 1900s).
 
 #### Noteworthy
-- Philip Deloria, “The Invention of Thanksgiving”, _New Yorker_, 95.37 (November 25, 2019): 70--74.
 
 
 {% include alert.html class='warning' title='Readings Quiz' text="
@@ -182,16 +183,16 @@ PROMPT: What did you learn from the reading today? Remember the goal of these re
 ## Jun 15
 ### Cookbooks as historical sources
 - [VIDEO: brief recap and cookbook analysis highlights](https://youtu.be/nCpazETMY6M)
-The below readings will help you do the upcoming [Cookbook Analysis](cookbook-analysis) assignment. So read them with USING them in mind, not for writing a response about them. UPDATE 6/15: There is NO QUIZ for today as originally planned. We've been working hard enough---let's just focus on learning how to do the assignment.
+The below readings will help you do the upcoming [Cookbook Analysis](cookbook-analysis) assignment. To keep you honest, there is a short quiz on how to use cookbooks as historical sources based on the readings for today.
 
-- Rachel A. Snell, [As North American as Pumpkin Pie: Cookbooks and the Development of National Cuisine in North America, 1796-1854](https://www.erudit.org/fr/revues/cuizine/2014-v5-n2-cuizine01533/1026771ar/).
 - Ken Albala, [Cookbooks as Historical Documents](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-13). This chapter, although a bit long, very nicely lays out a process for interrogating cookbooks and reading in between the lines with many excellent examples. The questions and methods described in the article are exactly what you be doing with your own [cookbook analysis](cookbook-analysis) due tomorrow.
+- Harry Haff, _The Founders of American Cuisine: Seven Cookbook Authors, with Historical Recipes_ (2: Amelia Simmons), 21--33. Note in particular how the author analyzes Simmons's cookbook. This is what you'll be doing for your assignment.
 
 
 #### Noteworthy
 - Barbara Ketcham Wheaton, "Cookbook as Resources for Social History". This chapter very nicely sketches out, with many diverse examples, how cookbooks function as windows onto history, including how and why they were used in the world.
+- Rachel A. Snell, [As North American as Pumpkin Pie: Cookbooks and the Development of National Cuisine in North America, 1796-1854](https://www.erudit.org/fr/revues/cuizine/2014-v5-n2-cuizine01533/1026771ar/).
 - Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_ (2: Culinary Tradition), 29--51. This provides a fascinating cultural background of cookbooks and their evolution. Honestly the first few sentences of each paragraph will give you enough background.
-- Harry Haff, _The Founders of American Cuisine: Seven Cookbook Authors, with Historical Recipes_ (2: Amelia Simmons), 21--33. Note in particular how the author analyzes Simmons's cookbook. This is what you'll be doing for your assignment.
 - Colleen Cotter, "Claiming a Piece of the Pie", 51--68.
 - Jane C. Busch, "Using Cookbooks as Research Documents", 22--25.
 
@@ -201,8 +202,8 @@ The below readings will help you do the upcoming [Cookbook Analysis](cookbook-an
 - Mary Randolph [The Virginia Housewife](https://books.google.com/books?id=R4YEAAAAYAAJ)
 - Eliza Leslie, [Miss Leslie\'s Complete Cookery](https://books.google.com/books?id=KVL5oJA8IWsC)
 
-{% include alert.html class='warning' title='No Quiz' text="
-Originally we were going to have a quiz to highlight and emphasize some ideas from the readings about HOW to use cookbooks as historical sources. On second (actually fourth or fifth) thought, we don't need a quiz to test if you're ready for the assignment---that will be clear from the cookbook analysis itself. Instead of the usual reading reflection rubric, we will use one that more specifically addresses the methods covered in the readings and video.
+{% include alert.html class='warning' title='Quiz' text="
+Be sure to do the quiz that highlights ideas from the readings about HOW to use cookbooks as historical sources.
 "%}
 
 
@@ -219,8 +220,7 @@ Follow the [Cookbook Analysis Guide](cookbook-analysis).
 ### Health, Technology, and Cereal
 Not much reading today, but an interesting early connection between health and technology that still influences our food choices.
 - _HAE_, 143--55 (6: Pious and Patriotic Stomach).
-- [VIDEO: Cereal, Health, Technology, Nature](https://youtu.be/x1jQ8aIfbLY). Sorry again for the long delay with this and the quiz! As I'm publishing the video, I see Learn is now unavailable as I'm trying to publish the quiz. When it rains, it pours! As soon as I can get into Learn, I will make the quiz available (I try to publish quizzes after the videos to make sure I don't have questions that got edited out).
-
+- [VIDEO: Cereal, Health, Technology, Nature](https://youtu.be/x1jQ8aIfbLY).
 
 #### Noteworthy
 - Blake Hatton, [The Early Years of American Ready to Eat Breakfast Cereal: The Breakfast Cereal Revolution Until 1930](https://scalar.usc.edu/works/early-years-of-ready-to-eat-breakfast-cereal/index).
