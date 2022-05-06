@@ -66,18 +66,19 @@ The little equations after the assignment type indicates `number of assignments`
 - [Food blog analysis](food-blog-analysis) (1x30 = 30)
 - [Final learning reflection](final-course-reflection) (1x40 = 60)
 
-So you can expect around 320 points, but quizzes are sometimes a bit more or less than 10 points. Your grade is determined by percent, as indicated below. Most quizzes have short answer questions. These are worth between 2 and 4 points. The more points you can earn, the more thorough your answer should be.
 
 ### Grading Scale
-Whatever the final number of points is, your grade is determined by percent so you can always see in Learn how you are doing regardless of the ultimate possible point total.
+Whatever the exact number of points we end up with, your grade is determined by percent, as indicated below. You can always see at any point exactly what your grade is in Canvas.
+
 
 Percent | Grade
 --- | ---
-94+ | A
-90-93 | A-
+98+ | A+
+92-97 | A
+90-91 | A-
 87-89 | B+
-83-86 | B
-80-82 | B-
+82-86 | B
+80-81 | B-
 77-79 | C+
 73-76 | C
 70-72 | C-
@@ -87,17 +88,18 @@ Percent | Grade
 
 
 ### Submitting Work
-{% include alert.html class='info' title='Deadlines!' text="
-All quizzes or discussion board posts should be submitted via Canvas by the time you go to bed on the day they are listed. However, they are absolutely due by 9AM the DAY AFTER they are listed. Find whatever timing works for your schedule and stick with it.
+{% include alert.html class='warning' title='Deadlines!' text="
+All quizzes or discussion board posts should be submitted via Canvas by the time you go to bed on the day they are listed. However, previous students have found it helpful to have a grace period to accommodate work or family schedules. So assignments are absolutely due by 9AM the DAY AFTER they are listed. Find whatever timing works for your schedule and stick with it.
 "%}
 
-All work submitted late will be docked 1 point per day. After one week, you get a permanent ZERO for the assignment. This is my attempt at striking a balance between flexibility and preventing disaster, as the class moves so fast that falling behind even a little can quickly spiral out of control. Submitting an assignment late is FAR BETTER than not at all.
+All work submitted late will be docked 1 point per day. If not submitted before the following Monday (meaning you have the weekend to get caught up), you get a permanent ZERO for the assignment. This is my attempt at striking a balance between flexibility and preventing disaster---the class moves so fast that falling behind even a little can quickly spiral out of control. Submitting an assignment late is FAR BETTER than not at all.
 
-If you need to pause the class for a few days because of some personal situation (whatever kind it might be), we can work it out. Please get in touch!
-
+{% include alert.html class='info' title='Sh!t happens text="
+If you need to pause the class for a few days because of some personal situation (whatever kind it might be), we can work it out. Please get in touch and let me know what would help you!
+"%}
 
 {% include alert.html class='info' title='Ask for more feedback' text="
-There are two TAs for the course who mostly help with scoring your submitted work and providing some feedback on your assignments. But in a 60-person class with work due most days, we're not going to be able to provide substantive comments to everyone for every assignment. If you ever want more feedback, PLEASE EMAIL ME and ask for it. I will be more than happy to chat with you about course material or how you're doing in the course.
+There are two TAs for the course who mostly help with scoring your submitted work and providing some feedback on your assignments. But in a ~60-person class with work due most days, we're not going to be able to provide substantive comments to everyone for every assignment. If you ever want more feedback, PLEASE EMAIL ME and ask for it. I will be more than happy to write or chat with you about course material or how you're doing in the course.
 "%}
 
 
@@ -108,7 +110,7 @@ Some of you just want a C to fulfill a UNM requirement. Some of you want a B to 
 ### Extra Credit
 On all quizzes and assignments, the goal is to show how much you learned from the reading(s). I try to highlight what I think are the most important points in the questions themselves, but there's lots of cool stuff to learn. Writing more than the question requires, if clearly informed by the readings, will usually get you extra credit points for that question. If you're really into a topic and have a little extra time for an assignment, it's an easy way to make sure you're on track for the grade you want. These add up quickly!
 
-If you are worried you are falling just short of a grade you're aiming for, there is an easy way to ensure you get it! Do a [Food Documentary Critique](food-documentary-analysis) (worth up to 10 points). CAVEAT: you can do this ONLY if all other work is turned in on time. This should be emailed to me directly by July 7 (when all course work is due).
+If you are worried you are falling just short of a grade you're aiming for, there is an easy way to ensure you get it! Do a [Food Documentary Critique](food-documentary-analysis) (worth up to 10 points). WARNING: Extra credit is EXTRA. You can do this ONLY if all other work is turned in on time. This should be emailed to me directly by July 5 (when all course work is due).
 
 
 ### Please Don't Drift Away
@@ -141,14 +143,15 @@ In addition to separate articles and book chapters, we have one sort of textbook
 
 
 ### Familiarity over mastery
-If you peek at the reading schedule page, you might think there is a lot of reading. You're right! As an intensive 1H summer course, there is a fair amount of reading. This is unavoidable because I respect the challenges and demands of a compressed four-week course that provides a rigorous learning experience. The workload is comparable to any average 1H upper-level humanities course, whether in person or online, but is obviously more intense than a regular full semester course.
+If you peek at the reading schedule page, you might think there is a lot of reading. You're right! Naturally, as an intensive 1H summer humanities course, there is a fair amount of reading. This is unavoidable because I respect the challenges and demands of a compressed four-week course that provides a rigorous learning experience. The workload is comparable to any average 1H upper-level humanities course, whether in person or online, but is obviously more intense than a regular full semester course.
 
 Almost all readings are meant for a broad (largely non-academic) audience and therefore are relatively quick reads. At the same time, most are smart, articulate, and give us plenty to talk about, especially as we put them in conversation with each other, and how they tell very different stories of American Food. For almost everything we read, we're reading to ENGAGE with it, not because it's right. There is a LOT to disagree with across the readings, and we don't all have to agree on anything.
 
-You cannot possibly read every word, or every page, or master all the ideas, and that's just fine. **I expect you to gain a familiarity across all the readings so that you can write a thoughtful response about them. Because we're covering so much ground so quickly, broad familiarity is far more important than specific details.**
 
 {% include alert.html class='info' title='Rethinking Literacy' text="
 True literacy is not just understanding words and sentences. It's being able to read relatively quickly, think critically about what you read, and take away something useful from it (or decide you don't need to). That's one of the things we're deliberately practicing in this course.
+
+You cannot possibly read every word, or every page, or master all the ideas, and that's just fine. I expect you to gain a familiarity across all the readings so that you can write a thoughtful response about them. Because we're covering so much ground so quickly, broad familiarity is far more important than specific details.
 "%}
 
 
