@@ -94,7 +94,7 @@ All quizzes or discussion board posts should be submitted via Canvas by the time
 
 All work submitted late will be docked 1 point per day. If not submitted before the following Monday (meaning you have the weekend to get caught up), you get a permanent ZERO for the assignment. This is my attempt at striking a balance between flexibility and preventing disaster---the class moves so fast that falling behind even a little can quickly spiral out of control. Submitting an assignment late is FAR BETTER than not at all.
 
-{% include alert.html class='info' title='Sh!t happens text="
+{% include alert.html class='info' title='Sh!t happens' text="
 If you need to pause the class for a few days because of some personal situation (whatever kind it might be), we can work it out. Please get in touch and let me know what would help you!
 "%}
 

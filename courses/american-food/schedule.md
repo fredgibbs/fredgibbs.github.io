@@ -19,7 +19,7 @@ section: schedule
 ## Colored boxes
 {% include alert.html class='danger' title='Red boxes' text="
 These indicate something you have to DO or TURN IN.
-"%
+"%}
 
 {% include alert.html class='warning' title='Yellow Boxes' text="
 These indicate something you should be aware of---usually an upcoming assignment or a longer reading---but isn't anything you need to immediately do.
@@ -161,7 +161,7 @@ This quiz covers early food consumption in early America, how food and personal/
 
 
 ## Jun 14
-### Early America, Early Food, Cookbooks, and National Identity
+### Early America, Cookbooks, and National Identity
 - NO VIDEO
 - _HAE_, 33--55 (2: Food and the Founding). Continuing our emphasis on food and identity, this chapter covers how food was central to shaping early American identity. Both this chapter and the other reading emphaize the importance of capitalist markets, food production, and the development of cookbooks as a way of cultivating an American cuisine (and identity).
 - Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (4: Cookbooks and Commerce), 120--147. Even though not clearly marked, there are really two distinct parts to this reading. The first part (to 129) is very helpful in understanding capitalist logic of food production in the late 1700s and early 1800s. The second part shows how early cookbooks start reflect the cultural changes underway during that time. Both complement the _HAE_ reading with considerable more detail about the role of women in managing food, the household, and shaping American foodways. Pay attention to the SECTION HEADINGS! The reading is a bit dry and it can be easy to loose track of the main points, but if you keep relating the paragraphs and ideas back to the section headings, things will make more sense.
