@@ -237,13 +237,12 @@ This quiz will draw equally from the lecture and bits of _HAE_ for today.
 
 ## Jun 20
 ### Expansion + Immigration
-- [VIDEO OVERVIEW]()
+- [VIDEO OVERVIEW](#)
 - _HAE_, 57-87 (3: Expansion and Immigration).
 - How the Other Half Ate, 1--70.
 
 #### Noteworthy
 - Donna R. Gabaccia, _We Are What We Eat_ (Food Fights and American Values), 122--48.
-- Helen Zoe Veit, _Modern Food, Moral Food_ (6: Americanizing the American Diet), 123--56.
 
 
 {% include alert.html class='danger' title='Readings Quiz' text="
@@ -254,6 +253,20 @@ This basic quiz tests you on the broader points in the _HAE_ chapter.
 
 
 ## Jun 21
+### Americanizing Diets
+Popularization of nutritional science provided the perfect cover for telling immigrants how they should eat and be more American in their food and moral choices.
+
+- [VIDEO OVERVIEW](#)
+- Charlotte Biltekoff, *Eating Right in America*, 13--44 (Chapter 2: Scientific Moralization).
+- Helen Zoe Veit, _Modern Food, Moral Food_ (6: Americanizing the American Diet), 123--56.
+
+{% include alert.html class='danger' title='Reading Quiz' text="
+This quiz is solely on the one reading for today.
+"%}
+
+
+
+## Jun 22
 ### Culinary Diffusion
 - NO VIDEO
 - Katherine Massoth, "'Mexican Cookery that Belongs to the United States': Evolving Boundaries of Whiteness in New Mexican Kitchens", in _Food Across Borders_ (ed. Garcia, DuPuis, and Mitchell), 44--59.
@@ -270,26 +283,12 @@ How does the process of mingling food traditions and social constructions of rac
 
 
 
-## Jun 22
-### Scientific Moralization
-Today's topic builds directly off the lecture from last week on cereal and the coupling of moral and dietary advice---and how that continued even as the science of nutrition developed in the later 1800s and early 1900s. Nutrition provided the perfect scientific cover for telling immigrants how they should eat and be more American in their food and moral choices. This is obviously building on our recent readings on immigration and culinary diffusion as well.
-
-- [VIDEO OVERVIEW](https://youtu.be/bQGCzq4LXYk)
-- Charlotte Biltekoff, *Eating Right in America*, 13--44 (Chapter 2: Scientific Moralization).
-
-{% include alert.html class='danger' title='Reading Quiz' text="
-This quiz is solely on the one reading for today.
-"%}
-
-
-
 ## Jun 23
 ### Culinary Appropriation
-- [Video: Why care about appropriation? And tips for your food blog analysis](https://youtu.be/Ax2WpVAtMH4)
+- [VIDEO OVERVIEW: Why care about appropriation?](https://youtu.be/Ax2WpVAtMH4)
 - Michael Twitty, _The Cooking Gene_, 1--24.
 - Jess Kapadia, [I Still Don’t Understand The Cultural Appropriation Of Food](https://www.foodrepublic.com/2017/06/01/cultural-appropriation-food/), _Food Republic_.
 - Cynthia R. Greenlee, [Innovation and the incinerated tongue: Notes on hot chicken, race, and culinary crossover](https://thecounter.org/hot-chicken-race-culinary-crossover-nashville-tennessee-black-food-rachel-martin/)
-
 
 
 #### Noteworthy
@@ -309,7 +308,7 @@ Use the articles for this week to evaluate a claim we read a few weeks ago from 
 
 ## Jun 24
 ### Gendered Cooking
-- NO VIDEO
+- NO VIDEO!
 - _HAE_, 111--113; 124--141 (parts of 5: Gender and the American Appetite).
 - Katherine J. Parkin, _Food Is Love : Advertising and Gender Roles in Modern America_, 1--11 (Introduction).
 - [Why there are no great women chefs](https://gastronomica.org/2010/02/05/why-are-there-no-great-women-chefs/)
@@ -321,8 +320,6 @@ Use the articles for this week to evaluate a claim we read a few weeks ago from 
 {% include alert.html class='danger' title='Readings Quiz' text="
 We've talked about food and identity in many ways already; this quiz covers the relationship between food and gender, the role of advertising, and how gender stereotypes affect professional cooking.
 "%}
-
-
 
 
 
@@ -338,8 +335,8 @@ See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the c
 
 
 ## Jun 28
-### Technology and Industry of Meat
-- [VIDEO OVERVIEW](https://youtu.be/Vr8nfqg0bZg) (geared toward helping with the quiz based on the reading)
+### Industrializing Meat
+- [VIDEO OVERIEW: Animals as protein factories](https://youtu.be/Vr8nfqg0bZg)
 - Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
 - Emeyln Rude, _Tastes like Chicken_, 6--11; 27--39; 130--134; 141--160; 181--192. Sorry for all the partial sections here; the PDF is just the pages you need to read. The book tends to go off on lots of cool tangents, so we skip around to stay on topic. This looks like a crazy amount of reading, but the physical pages and number of words on them are quite small, and many pages are recipes that you can skip over. It goes by really fast, and it's a fun non-academic read.
 
@@ -351,19 +348,13 @@ The quiz is on the readings, but as usual I'll try to highlight many questions i
 
 
 ## Jun 29
-### Nutritionism and Dieting
-- [VIDEO:The invention of the calorie and diet]()
-If there is any such thing as American food, one facet has to be the way dieting is woven into the fabric of food in this country.
-
-
-{% include alert.html class='danger' title='Lecture reflection' text="
-I'm most interested to know what points YOU found interesting AND WHY. What did you already know? What did you agree or disagree with? What did I not explain very well? What do you want to know more about? Remember that the point of the reflection is to show your familiarity with the video and previous course readings. I look forward to your thoughts!
-"%}
+###
 
 
 
 ## Jun 30
 ### Counter Cuisine
+- [VIDEO OVERVIEW](#)
 - Warren Belasco, _Appetite for Change_ (Oppositional Identities), 43--67.
 - Megan Elias, _Food on the Page_ (Opposition Appetites), 145--176.
 
@@ -376,8 +367,7 @@ I'm most interested to know what points YOU found interesting AND WHY. What did 
 
 ## July 1
 ### Wrapping up
-
-- [VIDEO: Final wrap-up](). This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and to jump start your thinking on your Final Course Reflection (see July 3).
+- [VIDEO: In conclusion](#). This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and to jump start your thinking on your Final Course Reflection (see July 3).
 
 
 {% include alert.html class='warning' title='Nothing to do!' text="

@@ -423,9 +423,9 @@ For part of our discussion, I want everyone to come to class with one question a
 NO CLASS ANYMORE: Congrats and THANK YOU! We're done, apart from the final reflections. As always, please be in touch with questions or concerns!
 
 
-## May 15
+## May 13
 {% include alert.html class='danger' title='DUE: Final Essay' text="
-Final Essays should be submitted on the discussion board as always. You are encouraged to submit these as soon as we're done meeting, but please have them in by Friday, May 15th, so I can submit grades on time. If you run into problems during the end of the term---sometimes it's unavoidable---just let me know your plan for submitting work so I make sure everything gets counted before I have to turn final grades in.
+Final Essays should be submitted on the discussion board as always. You are encouraged to submit these as soon as we're done meeting, but please have them in by Friday, May 13th, so I can submit grades on time. If you run into problems during the end of the term---sometimes it's unavoidable---just let me know your plan for submitting work so I make sure everything gets counted before I have to turn final grades in.
 
 See the [final essay guide](final-essay-guide) for more details. And review the [revision guide](writing-advice) after you've got a solid first draft!
 "%}
