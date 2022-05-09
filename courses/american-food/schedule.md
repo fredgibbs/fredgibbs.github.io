@@ -12,7 +12,7 @@ section: schedule
 ## General suggestions
 - Regular bullet points listed under each day is what you need to READ FOR THAT DAY.
 - Readings are listed in a particular order that I think works best.
-- All readings that aren't directly linked to are in [our Zotero Library](https://www.zotero.org/groups/2499167/american-food-unm/library). See the syllabus home page for instructions on gaining access.
+- All readings that aren't hyperlinks are in [our Zotero Library](https://www.zotero.org/groups/2499167/american-food-unm/library). See the syllabus home page for instructions on gaining access.
 - All posted assignments are technically due on the day they are listed so that we all stay on schedule, but they can be submitted up to 9am on the following day. Be sure you are familiar with policies in the "Submitting Work" section on the syllabus home page.
 
 
@@ -31,11 +31,11 @@ These indicate something that is important to know, but isn't time sensitive.
 
 
 ### Video lectures
-All video lectures will be posted on the [course YouTube channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig), and I will link to them on the syllabus as they become available. If you want announcements of new videos, please subscribe to the channel.
+All video lectures will be posted on the [course YouTube channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig), and I will post link to them on the schedule page under the appropriate day as they become available. If you want announcements of new videos, please subscribe to the channel. The videos are NOT posted in Canvas itself.
 
 
 ### Noteworthy is optional
-Most days have a "noteworthy" section that lists a few relevant readings on the topic. These are optional! Most have some good ideas that I'll mention in the videos; others are there just for additional materials and extra credit opportunities. I hope you'll skim through any that seem interesting to you and mention them in your work so you can get extra credit for that work.
+Most days have a "noteworthy" section that lists a few relevant readings on the topic. These are optional! Most have some good ideas that I'll mention in the videos; others are there just for additional materials and extra credit opportunities. If you spend time with any that seem interesting to you, be sure to mention them in your reflection or quiz so you can get extra credit for that work.
 
 
 
@@ -50,7 +50,7 @@ Our task for today is to make sure you know how the course is structured and gen
 - Warren Belasco, "Why study food?", from _Food: The Key Concepts_, 1--13.
 
 
-{% include alert.html class='danger' title='Syllabus quiz' text="
+{% include alert.html class='danger' title='Syllabus and Reading quiz' text="
 This will cover the course intro video, the syllabus, and the short Belasco reading.
 "%}
 
@@ -65,7 +65,7 @@ Remember that all work, including these introductions, are due on the the day th
 ## Jun 7
 
 ### Challenges and Rewards of Food + History
-I think this whole course makes more sense when you understand how and why people study food the way they do. So that's what the lecture is about, complemented by the Haley reading that argues we should resist the urge to romanticize the culinary past as is so often done in food media. A) It's never that simple and B) the real history is far more interesting and revealing.
+I think this whole course makes more sense when you understand how and why people study food the way they do. So that's what the lecture is about, complemented by the Haley reading that argues we should resist the urge to romanticize the culinary past as is so often done in food media because: A) It's never that simple and B) the real history is far more interesting and revealing.
 
 - Andrew P. Haley, "The Nation before Taste: The Challenges of American Culinary History", _The Public Historian_ 34.2 (2012): 53--78.
 - [VIDEO LECTURE: How and why to do food history](https://youtu.be/BWFMOiorPqg)
@@ -74,7 +74,7 @@ I think this whole course makes more sense when you understand how and why peopl
 - G. J. Fitzgerald and G. M. Petrick, "In Good Taste: Rethinking American History with Our Palates", _Journal of American History_ 95.2 (2008): 392--404.
 
 {% include alert.html class='danger' title='Lecture and Reading Quiz' text="
-This will cover the lecture and the Haley reading.
+This will cover the Haley reading and video lecture.
 "%}
 
 
@@ -82,7 +82,7 @@ This will cover the lecture and the Haley reading.
 ## Jun 8
 
 ### National Cuisine & American Food
-The goal for today is to complicate the idea of "American" food through an investigation of national cuisine generally and ways of thinking about it. There are an unusually high number of readings for today, but they are all quite short!  
+The goal for today is to complicate the idea of "American" food through an investigation of national cuisine generally and ways of thinking about it. There are an unusually high number of readings for today, but they are all quite short and offer unique perspectives that are worth thinking about together. 
 
 - [VIDEO OVERVIEW](https://youtu.be/TscBrPzkGto)
 - _HAE_, xi--xv. _HAE_ refers to _How America Eats_ as described on the syllabus home page. You can access it for [free through UNM Libraries](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results).
