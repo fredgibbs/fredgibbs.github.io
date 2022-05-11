@@ -50,7 +50,7 @@ Our task for today is to make sure you know how the course is structured and gen
 - Warren Belasco, "Why study food?", from _Food: The Key Concepts_, 1--13.
 
 
-{% include alert.html class='danger' title='Syllabus and Reading quiz' text="
+{% include alert.html class='danger' title='Syllabus and Reading Quiz' text="
 This will cover the course intro video, the syllabus, and the short Belasco reading.
 "%}
 
@@ -82,7 +82,7 @@ This will cover the Haley reading and video lecture.
 ## Jun 8
 
 ### National Cuisine & American Food
-The goal for today is to complicate the idea of "American" food through an investigation of national cuisine generally and ways of thinking about it. There are an unusually high number of readings for today, but they are all quite short and offer unique perspectives that are worth thinking about together. 
+The goal for today is to complicate the idea of "American" food through an investigation of national cuisine generally and ways of thinking about it. There are an unusually high number of readings for today, but they are all quite short and offer unique perspectives that are worth thinking about together.
 
 - [VIDEO OVERVIEW](https://youtu.be/TscBrPzkGto)
 - _HAE_, xi--xv. _HAE_ refers to _How America Eats_ as described on the syllabus home page. You can access it for [free through UNM Libraries](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results).
@@ -133,7 +133,7 @@ These readings give us some new perspectives on the idea of authenticity and cas
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/). This quick read serves two purposes: it's a nice overview of what food were likely available at the harvest celebration of 1621. And it's a good example of uncritical food history that focuses entirely on food without much of the historical context (neither in the 1600s or 1900s).
 
 
-{% include alert.html class='danger' title='Readings Quiz' text="
+{% include alert.html class='danger' title='Reading Quiz' text="
 This quiz covers basics from the readings, but also has a few short answer questions about the various myths and meanings associated with Thanksgiving. How much does Thanksgiving reflect both nationalism (of some people) and marginalization (of other people)?
 "%}
 
@@ -146,11 +146,12 @@ This quiz covers basics from the readings, but also has a few short answer quest
 - [VIDEO OVERVIEW](https://youtu.be/zRz17bvrWLQ)
 - _HAE_, 13--31 (from Ch. 1: Cuisine of Contact).
 - Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (1: This Beautifull Noble Eare), read 4--15 and 45--48 more carefully; skim (but don't skip) 15--45 on the various dishes. Nothing about particular dishes will be on the quiz, but expect to explain why such descriptions are there. HINT: It has something to do with how dishes move across cultures (but you'll want to be able to elaborate on that point in your reply).
-- Erick Castellanos and Sarah Bergstresser, "The Mexican and Transnational Lives of Corn: Technological, Political, Edible Object", in _Edible Identities_ (ed. Broulotte and Di Giovine), Taylor & Francis (2016), 201--216.
+
 
 
 #### Noteworthy
 - Michael Pollan, _Omnivore's Dilemma_, (Chap. 2: The Farm), 32--56. The point of this reading (it's the fastest read for today) is to get a sense of the commoditization of corn and why it's so cheap now. And to compare the meaning of corn as discussed in the other readings with how it's portrayed in this chapter.
+- Erick Castellanos and Sarah Bergstresser, "The Mexican and Transnational Lives of Corn: Technological, Political, Edible Object", in _Edible Identities_ (ed. Broulotte and Di Giovine), Taylor & Francis (2016), 201--216.
 - [Ever wonder what tassles are for?](https://www.youtube.com/watch?v=XEmbOFsqld8) This explains the reproduction and maturity of dent corn, the most common kind of corn grown in the US, mostly for animal feed. The corn on the cob you like slathered with butter is sweet corn, and it reproduces the same way, but loses less moisture and is, as you might guess, sweeter. The other kind of corn you like to eat is popcorn, which has a non-porous hull. If you heat the kernel, the water in the kernel turns to steam, expands, and [turns inside out really slowly](https://www.youtube.com/watch?v=FSZd33awqQk), so you can munch on the starchy interior.
 
 {% include alert.html class='danger' title='Reading Quiz' text="
@@ -255,7 +256,7 @@ Popularization of nutritional science provided the perfect cover for telling imm
 - Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
 - Emeyln Rude, _Tastes like Chicken_, 6--11; 27--39; 130--134; 141--160; 181--192. Sorry for all the partial sections here; the PDF is just the pages you need to read. The book tends to go off on lots of cool tangents, so we skip around to stay on topic. This looks like a crazy amount of reading, but the physical pages and number of words on them are quite small, and many pages are recipes that you can skip over. It goes by really fast, and it's a fun non-academic read.
 
-{% include alert.html class='warning' title='Reading and brief lecture Quiz' text="
+{% include alert.html class='danger' title='Reading Quiz' text="
 The quiz is on the readings, but I highlight many questions in the video.
 "%}
 
@@ -283,6 +284,10 @@ BASED ON THE READINGS: How would you characterize Southwest food?
 
 {% include alert.html class='danger' title='Reading reflection' text="
 It's all too easy to characterize blending of food traditions as everything going into the good ol' American melting pot. But what do these articles suggest we can learn about American food if we look more closely?
+"%}
+
+{% include alert.html class='warning' title='Food Blog Analysis Soon' text="
+Weekends are already busy, but you might want to starting thinking about your [Food Blog Analysis](food-blog-analysis).
 "%}
 
 
@@ -313,20 +318,6 @@ Use the articles for this week to evaluate a claim we read a few weeks ago from 
 
 
 ## Jun 28
-No video or new reading for today! Food Blog Analysis is due.
-
-{% include alert.html class='danger' title='Food Blog Analysis' text="
-See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the cookbook readings, when we discussed how much you can learn about people, culture, and food from cookbooks. Just like we looked at cookbooks from ~150 years ago to learn about food at the time, what would a historian 150 years from now think American food was from looking at your blogs?
-"%}
-
-
-
-## Jun 29
-###
-
-
-
-## Jun 30
 ### Counter Cuisine
 - [VIDEO OVERVIEW](#)
 - Warren Belasco, _Appetite for Change_ (Oppositional Identities), 43--67.
@@ -338,12 +329,28 @@ See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the c
 
 
 
-## July 1
+
+
+## Jun 29
+### No video or new reading for today! Food Blog Analysis is due.
+
+{% include alert.html class='danger' title='Food Blog Analysis' text="
+See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the cookbook readings, when we discussed how much you can learn about people, culture, and food from cookbooks. Just like we looked at cookbooks from ~150 years ago to learn about food at the time, what would a historian 150 years from now think American food was from looking at your blogs?
+"%}
+##
+
+
+
+## Jun 30
 ### Wrapping up
 - [VIDEO: In conclusion](#). This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and to jump start your thinking on your Final Course Reflection.
 
 WORD TO THE WISE: Start drafting your [Final Course Reflection](final-course-reflection) (see July 3). These are TECHNICALLY due SATURDAY (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY (July 5) to make it nice. You can of course submit it whenever you'd like.
 
+
+
+## July 1 (Friday)
+### Nothing!
 
 ## July 2 (Saturday)
 Last official day of the class, but you can have the rest of the weekend (+ Monday) to work on your last reflection.
