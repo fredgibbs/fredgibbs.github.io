@@ -10,12 +10,13 @@ section: links-guides
 # Food Blog Analysis
 This assignment asks you to apply the perspectives of the course to critiquing and analyzing how food is discussed in contemporary food blogs. It's quite similar to the early cookbook analysis we did in Week 2. (remember then?!)
 
+This assignment is not an exercise in description! I'm interested in your ANALYSIS. I want you to use the course to identify what's important to the authors, how they try to achieve that, and what it says (or doesn't) about the idea of American food.
+
 ## Basics
 - ~800 words. But quality is more important than quantity.
 - At the top of your essay, put a functional hyperlink to the blogs you reference
 
-
-## What to do
+## Method
 - Remind yourself what we did with the early cookbook analysis. You're basically doing the same thing here with a slight twist.
 - Identify at least THREE food blogs that you want to skim through (I think the assignment is more fun if you skim through a few more, since you have more to draw from). These can be ones you already know or ones that you've never seen before.
   - You can find collections of food blog links [here](https://americanfoodbloggers.com/) and [here](https://bloggingtips.com/best-food-blogs/) and [here](https://www.chefspencil.com/best-30-food-blogs-in-2020/). You'll notice there is a lot of overlap on these. You can also CHOOSE WHATEVER BLOGS YOU WANT. The particular sites you use are of no consequence, but it's best to avoid super specialized ones for the purposes of this exercise.
@@ -23,7 +24,7 @@ This assignment asks you to apply the perspectives of the course to critiquing a
 - Make sure you're answering the question about the future historian as stated below!
 
 
-## Questions to keep in mind while reading and writing?
+## Questions to keep in mind while reading and writing
 - Who is the intended audience? What do they know? Are they intimidated by cooking? Are they already proficient cooks?
 - What kind of assumptions does the author(s) make about cooking/cuisine/food?
 - What kind of larger themes do the blogs appeal to (exotic, health, comfort, frugality, regional or national food, etc)?
