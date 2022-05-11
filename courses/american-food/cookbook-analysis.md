@@ -7,7 +7,14 @@ number: HIST 413
 section: links-guides
 ---
 
+
+
 # Cookbook Analysis Guide
+
+## Objective
+Illustrate and explain how have cookbooks represented cultural values and how have they been used to construct particular identities. BE SURE to use examples from early cookbooks!
+
+## Method
 Pick a book from [this collection](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis;sort=date_a;sz=100), and make sure it's BEFORE 1880. After that, there tends to be more variety than we are prepared to deal with. Spending a few minutes finding a book that you actually find interesting (and have something to say about) makes the assignment MUCH easier and more effective as a learning exercise. Click the "Full View" link to actually see the cookbook; if it doesn't work for some reason, just choose another one.
 
 

@@ -176,16 +176,25 @@ What did you learn from the readings today? Remember the goal of these reflectio
 
 
 ## Jun 15
+### Expansion and Immigration
+- _HAE_, 57--75 (from 4: Expansion and Immigration).
+
+{% include alert.html class='danger' title='Reading Quiz' text="
+How was American Food changing?
+"%}
+
+
+## Jun 16
 ### Cookbooks as historical sources
 - [VIDEO OVERVIEW](https://youtu.be/nCpazETMY6M)
-- Ken Albala, [Cookbooks as Historical Documents](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-13). This chapter nicely lays out a process for interrogating cookbooks and reading in between the lines with many excellent examples.
+- Ken Albala, [Cookbooks as Historical Documents](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-13). This highly skimmable chapter nicely lays out a process for interrogating cookbooks and reading in between the lines with many excellent examples.
 - Rachel A. Snell, [As North American as Pumpkin Pie: Cookbooks and the Development of National Cuisine in North America, 1796-1854](https://www.erudit.org/fr/revues/cuizine/2014-v5-n2-cuizine01533/1026771ar/).
-
+- Harry Haff, _The Founders of American Cuisine: Seven Cookbook Authors, with Historical Recipes_ (2: Amelia Simmons), 21--33. We're looking at this as an example of how the author analyzes Simmons's cookbook. This is what you'll be doing for your assignment.
 
 #### Noteworthy
 - Barbara Ketcham Wheaton, "Cookbook as Resources for Social History". This chapter very nicely sketches out, with many diverse examples, how cookbooks function as windows onto history, including how and why they were used in the world.
 - Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_ (2: Culinary Tradition), 29--51. This provides a fascinating cultural background of cookbooks and their evolution. Honestly the first few sentences of each paragraph will give you enough background.
-- Harry Haff, _The Founders of American Cuisine: Seven Cookbook Authors, with Historical Recipes_ (2: Amelia Simmons), 21--33. Note in particular how the author analyzes Simmons's cookbook. This is what you'll be doing for your assignment.
+
 - Colleen Cotter, "Claiming a Piece of the Pie", 51--68.
 - Jane C. Busch, "Using Cookbooks as Research Documents", 22--25.
 
@@ -195,18 +204,11 @@ What did you learn from the readings today? Remember the goal of these reflectio
 - Mary Randolph [The Virginia Housewife](https://books.google.com/books?id=R4YEAAAAYAAJ)
 - Eliza Leslie, [Miss Leslie\'s Complete Cookery](https://books.google.com/books?id=KVL5oJA8IWsC)
 
-{% include alert.html class='danger' title='Reading Reflection' text="
-How have cookbooks represented cultural values? How have they been used to construct particular identities? BE SURE to use examples from early cookbooks!
+
+{% include alert.html class='danger' title='Early Cookbook Analysis' text="
+Follow the [Cookbook Analysis Guide](cookbook-analysis).
 "%}
 
-
-## Jun 16
-### Expansion and Immigration
-- _HAE_, 57--87 (from 4: Expansion and Immigration).
-
-{% include alert.html class='danger' title='Quiz' text="
-How was American Food changing?
-"%}
 
 
 ## Jun 17
@@ -232,10 +234,11 @@ This quiz will draw equally from the lecture and bits of _HAE_ for today.
 ### Daily Food and Quantified Morality
 Popularization of nutritional science provided the perfect cover for telling immigrants how they should eat and be more American in their food and moral choices.
 
+- _HAE_, 76--87 (from 4: Expansion and Immigration).
 - Katherine Turner, _How the Other Half Ate_, 1--27.
 - Charlotte Biltekoff, _Eating Right in America_, 13--44 (Chapter 2: Scientific Moralization).
 
-{% include alert.html class='danger' title='Readings Quiz' text="
+{% include alert.html class='danger' title='Reading Quiz' text="
 "%}
 
 
@@ -344,6 +347,7 @@ See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the c
 
 ## Jun 30
 ### Wrapping up
+- No reading!
 - [VIDEO: In conclusion](#). This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and help you with your Final Course Reflection.
 
 {% include alert.html class='warning' title='Think ahead' text="
