@@ -346,7 +346,7 @@ See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the c
 ### Wrapping up
 - [VIDEO: In conclusion](#). This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and help you with your Final Course Reflection.
 
-{% include alert.html class='warning' title='Food Blog Analysis' text="
+{% include alert.html class='warning' title='Think ahead' text="
 Start drafting your [Final Course Reflection](final-course-reflection) (see July 5). These are TECHNICALLY due SATURDAY (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY (July 5) to make it nice. You can of course submit it whenever you'd like.
 "%}
 

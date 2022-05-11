@@ -8,15 +8,14 @@ section: links-guides
 ---
 
 # Cookbook Analysis Guide
-Pick a book from [this collection](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis;sort=date_a;sz=100), and make sure it's BEFORE 1890. After that, there tends to be more variety than we are prepared to deal with. It is well worth your time to find a book that piques your interest. Spending 5 minutes finding a book that you actually find interesting (and have something to say about) makes the assignment MUCH easier and more effective as a learning exercise. Click the "Full View" link to actually see the cookbook; if it doesn't work for some reason, it's probably best to just choose another one.
+Pick a book from [this collection](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis;sort=date_a;sz=100), and make sure it's BEFORE 1880. After that, there tends to be more variety than we are prepared to deal with. Spending a few minutes finding a book that you actually find interesting (and have something to say about) makes the assignment MUCH easier and more effective as a learning exercise. Click the "Full View" link to actually see the cookbook; if it doesn't work for some reason, just choose another one.
 
 
 ## Basics
-- ~800--900 words. But quality is more important than quantity.
-- Posted on the Discussion Board like reading reflections.
+- ~700 words. But quality is more important than quantity.
 - At the top of your essay, put a functional hyperlink to the cookbook you are discussing.
 - Give a brief summary of the author's tone/style, organization, topics covered, and other main features of the book.
-- Apply the readings (esp from this week) to your analysis of a historic cookbook based on the questions below. We've talked a lot of about attitudes toward ingredients and dishes, as well as how food is used to signal social status and nationality. How does (or not) your cookbook illustrate the issues we've been discussing?
+- Apply the readings to your analysis of a historic cookbook based on the questions below. We've talked a lot of about attitudes toward ingredients and dishes, as well as how food is used to signal social status and nationality. How does (or not) your cookbook illustrate the issues we've been discussing?
 - Enjoy looking through a primary source for food history! This is meant to be more of a fun way of engaging with historical sources and getting a feel for a very common source of food history.
 
 

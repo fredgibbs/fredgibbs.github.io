@@ -44,7 +44,7 @@ Learning objectives are pretty standard for syllabi, so much so that they can be
 
 ## Where to find stuff
 - [Syllabus](http://fredgibbs.net/courses/american-food). You're already here! Remember there are two pages: this one and the [schedule](schedule) page.
-- [Course Canvas Page](http://learn.unm.edu). We use Canvas for submitting and grading work (quizzes, essays, etc). But that's it. It also has links to other digital components of the course. There is no course material in Canvas
+- [Course Canvas Page](https://canvas.unm.edu/courses/10484). We use Canvas for submitting and grading work (quizzes, essays, etc). But that's it. It also has links to other digital components of the course. There is no course material in Canvas
 - [YouTube Channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig) will host lectures and other screencasts. I put links to everything on the syllabus once they are uploaded, but I don't barge into your inbox just to tell you there's a new video. If you want such notifications, you can subscribe to the Channel and get notifications that way.
 - [Zotero](http://zotero.org) is our tool for accessing readings. The `Readings and Books` section below has all the details. It will take less than 5 minutes to get set up with it.
 
@@ -61,9 +61,10 @@ Not having actual class meetings deprives us of some collegial conversation, but
 ### Required assignments and points
 The little equations after the assignment type indicates `number of assignments` x `points for each` = `total points`
 - [Reading/lecture reflections](reading-reflections) (7x15 = 100) [actually 105, but rounding down gives you free points]
-- Reading/lecture quizzes (10x10 = 100)
-- [Food blog analysis](food-blog-analysis) (1x50 = 50)
-- [Final learning reflection](final-course-reflection) (1x100 = 100)
+- Reading/lecture quizzes (~10x~20 = ~200)
+- [Historic Cookbook Analysis](cookbook-analysis) (1x50 = 50)
+- [Food Blog Analysis](food-blog-analysis) (1x50 = 50)
+- [Final Course Reflection](final-course-reflection) (1x100 = 100)
 
 
 ### Grading Scale
