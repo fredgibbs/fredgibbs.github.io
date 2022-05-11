@@ -55,15 +55,15 @@ Learning objectives are pretty standard for syllabi, so much so that they can be
 As an upper level history course compressed into a month, this class is meant to be a challenge. But I do recognize that it's summer, that we're still recovering from this past year and that we all have busy lives outside of class even when not (still) amidst a pandemic. AND YET: We can work hard and learn a lot together without taking ourselves too seriously.
 
 ### Slow and Steady
-Not having actual class meetings deprives us of some collegial conversation, but it presents new freedoms as well. There isn't much to do most days except do the reading, think about it, and take a short quiz or write a brief reading reflection. There is one slightly longer essay and a final reflection to show off what you've learned from the course as a whole.
+Not having actual class meetings deprives us of some collegial conversation, but it presents new freedoms as well. There isn't much to do most days except do the reading, think about it, and take a short quiz or write a brief reading reflection. There are two slightly longer reflections and a final reflection to show off what you've learned from the course as a whole.
 
 
 ### Required assignments and points
 The little equations after the assignment type indicates `number of assignments` x `points for each` = `total points`
 - [Reading/lecture reflections](reading-reflections) (7x15 = 100) [actually 105, but rounding down gives you free points]
 - Reading/lecture quizzes (~10x~20 = ~200)
-- [Historic Cookbook Analysis](cookbook-analysis) (1x50 = 50)
-- [Food Blog Analysis](food-blog-analysis) (1x50 = 50)
+- [Historic Cookbook Analysis](cookbook-analysis) (1x40 = 40)
+- [Food Blog Analysis](food-blog-analysis) (1x40 = 40)
 - [Final Course Reflection](final-course-reflection) (1x100 = 100)
 
 
@@ -89,14 +89,15 @@ Percent | Grade
 
 ### Submitting Work
 {% include alert.html class='danger' title='Deadlines!' text="
-All quizzes or discussion board posts should be submitted via Canvas by the time you go to bed on the day they are listed. However, previous students have found it helpful to have a grace period to accommodate work or family schedules (or the chance to draft something in the evening and revise it in the morning). So assignments are absolutely due by 9AM the DAY AFTER they are listed. Find whatever timing works for your schedule and stick with it.
+**All quizzes or discussion board posts should be submitted via Canvas by the time you go to bed on the day they are listed.** However, previous students have found it helpful to have a grace period to accommodate work or family schedules, or the chance to draft something in the evening and revise it in the morning. So **assignments are absolutely due by 9AM the DAY AFTER they are listed.** Find whatever timing works for your schedule and stick with it.
 "%}
 
+{% include alert.html class='warning' title='Lateness' text="
 All work submitted late will be docked 1 point per day. If not submitted before the following Monday (meaning you have the weekend to get caught up), you get a permanent ZERO for the assignment. This is my attempt at striking a balance between flexibility and preventing disaster---the class moves so fast that falling behind even a little can quickly spiral out of control. Submitting an assignment late is FAR BETTER than not at all.
-
+"%}
 
 {% include alert.html class='info' title='Ask for more feedback' text="
-There are two TAs for the course who mostly help with scoring your submitted work and providing some feedback on your assignments. But in a ~50-person class with work due most days, we're not going to be able to provide substantive comments to everyone for every assignment. If you ever want more feedback, PLEASE EMAIL ME and ask for it. I will be more than happy to write or chat with you about course material or how you're doing in the course.
+There are two TAs for the course who help with scoring submitted work and providing some feedback on your assignments. But in a ~50-person class with work due most days, we're not going to be able to provide substantive comments to everyone for every assignment. If you ever want more feedback, PLEASE EMAIL ME and ask for it. I will be more than happy to write or chat with you about course material or how you're doing in the course.
 "%}
 
 
