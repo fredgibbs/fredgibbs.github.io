@@ -272,7 +272,7 @@ The quiz is on the readings, but I highlight many questions in the video.
 - Anastacia Uriegas, [Fajitas, Queso & Enchiladas: A Look at the Origins of Tex-Mex Favorites](https://remezcla.com/features/culture/fajitas-queso-enchiladas-look-origins-tex-mex-favorites/)
 
 {% include alert.html class='danger' title='Reading reflection' text="
-BASED ON THE READINGS: How would you characterize Southwest food?
+BASED ON THE READINGS: What does the history of food in the Southwest teach us about food, culture, and identity?
 "%}
 
 
@@ -312,7 +312,7 @@ Personally, I find most culinary appropriation conversations to be unhelpfully s
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Use the articles for this week to evaluate a claim we read a few weeks ago from Ruth Tobias ([here](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)): \"The difference between adaptation and appropriation is one of privilege--the privilege to control and inevitably whitewash the narrative surrounding a given dish.\" How is this statement correct? How is it wrong? BE SURE YOU USE THE READINGS TO SUPPORT YOUR ANSWER!
+Use the articles for this week to evaluate a claim we [read a few weeks ago](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)): \"The difference between adaptation and appropriation is one of privilege--the privilege to control and inevitably whitewash the narrative surrounding a given dish.\" Use today's readings to explain how this statement is both correct and oversimplified.
 "%}
 
 
@@ -323,11 +323,13 @@ Use the articles for this week to evaluate a claim we read a few weeks ago from 
 - Warren Belasco, _Appetite for Change_ (Oppositional Identities), 43--67.
 - Megan Elias, _Food on the Page_ (Oppositional Appetites), 145--176.
 
-
 #### Noteworthy
 - Menaka Wilhelm, [The Far Out History Of How Hippie Food Spread Across America](https://www.npr.org/sections/thesalt/2018/01/23/579186110/the-far-out-history-of-how-hippie-food-spread-across-america)
 
 
+{% include alert.html class='danger' title='Reading Quiz' text="
+This quiz will draw equally from the two readings today. Both readings can go overboard with details, but the quiz is concerned only with the big picture of how food is changing in the second half of the 20th century.
+"%}
 
 
 
@@ -337,20 +339,23 @@ Use the articles for this week to evaluate a claim we read a few weeks ago from 
 {% include alert.html class='danger' title='Food Blog Analysis' text="
 See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the cookbook readings, when we discussed how much you can learn about people, culture, and food from cookbooks. Just like we looked at cookbooks from ~150 years ago to learn about food at the time, what would a historian 150 years from now think American food was from looking at your blogs?
 "%}
-##
 
 
 
 ## Jun 30
 ### Wrapping up
-- [VIDEO: In conclusion](#). This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and to jump start your thinking on your Final Course Reflection.
+- [VIDEO: In conclusion](#). This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and help you with your Final Course Reflection.
 
-WORD TO THE WISE: Start drafting your [Final Course Reflection](final-course-reflection) (see July 3). These are TECHNICALLY due SATURDAY (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY (July 5) to make it nice. You can of course submit it whenever you'd like.
-
+{% include alert.html class='warning' title='Food Blog Analysis' text="
+Start drafting your [Final Course Reflection](final-course-reflection) (see July 5). These are TECHNICALLY due SATURDAY (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY (July 5) to make it nice. You can of course submit it whenever you'd like.
+"%}
 
 
 ## July 1 (Friday)
 ### Nothing!
+Keep working on your [Final Course Reflection](final-course-reflection).
+
+
 
 ## July 2 (Saturday)
 Last official day of the class, but you can have the rest of the weekend (+ Monday) to work on your last reflection.
