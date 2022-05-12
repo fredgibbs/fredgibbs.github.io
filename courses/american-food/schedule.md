@@ -30,8 +30,8 @@ These indicate something that is important to know, but isn't time sensitive.
 "%}
 
 
-### Video lectures
-All video lectures will be posted on the [course YouTube channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig), and I will post link to them on the schedule page under the appropriate day as they become available. If you want announcements of new videos, please subscribe to the channel. The videos are NOT posted in Canvas itself.
+### Videos
+All videos will be posted on the [course YouTube channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig), and I will post link to them on the schedule page under the appropriate day as they become available. If you want announcements of new videos, please subscribe to the channel. The videos are NOT posted in Canvas itself.
 
 
 ### Noteworthy is optional
@@ -65,16 +65,16 @@ Remember that all work, including these introductions, are due on the the day th
 ## Jun 7
 
 ### Challenges and Rewards of Food + History
-I think this whole course makes more sense when you understand how and why people study food the way they do. So that's what the lecture is about, complemented by the Haley reading that argues we should resist the urge to romanticize the culinary past as is so often done in food media because: A) It's never that simple and B) the real history is far more interesting and revealing.
+I think this whole course makes more sense when you understand how and why people study food the way they do. So that's what today is about, complemented by the Haley reading that argues we should resist the urge to romanticize the culinary past as is so often done in food media because: A) it's never that simple and B) the real history is far more interesting and revealing.
 
 - Andrew P. Haley, "The Nation before Taste: The Challenges of American Culinary History", _The Public Historian_ 34.2 (2012): 53--78.
-- [VIDEO LECTURE: How and why to do food history](https://youtu.be/BWFMOiorPqg)
+- [VIDEO: How and why to do food history](https://youtu.be/BWFMOiorPqg)
 
 #### Noteworthy
 - G. J. Fitzgerald and G. M. Petrick, "In Good Taste: Rethinking American History with Our Palates", _Journal of American History_ 95.2 (2008): 392--404.
 
-{% include alert.html class='danger' title='Lecture and Reading Quiz' text="
-This will cover the Haley reading and video lecture.
+{% include alert.html class='danger' title='Reading and Video Quiz' text="
+This will cover the Haley reading and video.
 "%}
 
 
@@ -142,7 +142,7 @@ This quiz covers basics from the readings, but also has a few short answer quest
 # Week 2
 
 ## Jun 13
-###  On Cuisines and Corn
+###  Corn, Cuisine, Identity
 - [VIDEO OVERVIEW](https://youtu.be/zRz17bvrWLQ)
 - _HAE_, 13--31 (from Ch. 1: Cuisine of Contact).
 - Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (1: This Beautifull Noble Eare), read 4--15 and 45--48 more carefully; skim (but don't skip) 15--45 on the various dishes. Nothing about particular dishes will be on the quiz, but expect to explain why such descriptions are there. HINT: It has something to do with how dishes move across cultures (but you'll want to be able to elaborate on that point in your reply).
@@ -177,7 +177,7 @@ What did you learn from the readings today? Remember the goal of these reflectio
 
 ## Jun 15
 ### Expansion and Immigration
-- _HAE_, 57--75 (from 4: Expansion and Immigration).
+- _HAE_, 57--87 (3: Expansion and Immigration).
 
 {% include alert.html class='danger' title='Reading Quiz' text="
 How was American Food changing?
@@ -185,7 +185,7 @@ How was American Food changing?
 
 
 ## Jun 16
-### Cookbooks as historical sources
+### History from Cookbooks
 - [VIDEO OVERVIEW](https://youtu.be/nCpazETMY6M)
 - Ken Albala, [Cookbooks as Historical Documents](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-13). This highly skimmable chapter nicely lays out a process for interrogating cookbooks and reading in between the lines with many excellent examples.
 - Rachel A. Snell, [As North American as Pumpkin Pie: Cookbooks and the Development of National Cuisine in North America, 1796-1854](https://www.erudit.org/fr/revues/cuizine/2014-v5-n2-cuizine01533/1026771ar/).
@@ -214,48 +214,36 @@ Follow the [Cookbook Analysis Guide](cookbook-analysis).
 ## Jun 17
 ### Improving Nature
 Today we look at an interesting early connection between food, health, and technology that still influences our food choices.
-- _HAE_, 143--55 (Ch. 6: Pious and Patriotic Stomach).
+- Katherine Turner, _How the Other Half Ate_ (Ch. 2: Factories, Railroads, and Rotary Eggbeaters), eBook pp. 40--48. [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)]
 - Sarah Pruitt, “[How an Accidental Invention Changed What Americans Eat for Breakfast]([https://www.history.com/news/cereal-breakfast-origins-kellogg)”
-- [VIDEO LECTURE: Health, Technology, Nature](https://youtu.be/x1jQ8aIfbLY).
+- [VIDEO: Nature + Technology = Health](https://youtu.be/x1jQ8aIfbLY).
 
 #### Noteworthy
 - Blake Hatton, [The Early Years of American Ready to Eat Breakfast Cereal: The Breakfast Cereal Revolution Until 1930](https://scalar.usc.edu/works/early-years-of-ready-to-eat-breakfast-cereal/index).
 - Jaya Saxena, [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html). This is fun for for its focus on advertising.
 
 
-{% include alert.html class='danger' title='Lecture and Reading Quiz' text="
-This quiz will draw equally from the lecture and bits of _HAE_ for today.
+{% include alert.html class='danger' title='Reading and Video Quiz' text="
+This quiz will draw equally from readings and video
 "%}
 
 
 
 # Week 3
 ## Jun 20
-### Daily Food and Quantified Morality
+### Nutrition, Economy, and Citizenship
 Popularization of nutritional science provided the perfect cover for telling immigrants how they should eat and be more American in their food and moral choices.
 
-- _HAE_, 76--87 (from 4: Expansion and Immigration).
-- Katherine Turner, _How the Other Half Ate_, 1--27.
-- Charlotte Biltekoff, _Eating Right in America_, 13--44 (Chapter 2: Scientific Moralization).
+- Katherine Turner, _How the Other Half Ate_ (Ch. 1: The Problem of Food), ebook pp. 14--39. [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)]
+- Charlotte Biltekoff, _Eating Right in America_ (Ch. 2: Scientific Moralization), 13--44.
 
 {% include alert.html class='danger' title='Reading Quiz' text="
 "%}
 
 
 ## Jun 21
-### Industrializing Food
-- _HAE_, 89--110 (Ch. 4: Technology and Taste).
-- Katherine Turner, _How the Other Half Ate_, 28--60.
-
-{% include alert.html class='danger' title='Reading Quiz' text="
-"%}
-
-
-
-
-## Jun 22
 ### Industrializing Meat
-- [VIDEO OVERIEW: Animals as protein factories](https://youtu.be/Vr8nfqg0bZg)
+- [VIDEO OVERVIEW: Animals as protein technology](https://youtu.be/Vr8nfqg0bZg)
 - Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
 - Emeyln Rude, _Tastes like Chicken_, 6--11; 27--39; 130--134; 141--160; 181--192. Sorry for all the partial sections here; the PDF is just the pages you need to read. The book tends to go off on lots of cool tangents, so we skip around to stay on topic. This looks like a crazy amount of reading, but the physical pages and number of words on them are quite small, and many pages are recipes that you can skip over. It goes by really fast, and it's a fun non-academic read.
 
@@ -263,6 +251,11 @@ Popularization of nutritional science provided the perfect cover for telling imm
 The quiz is on the readings, but I highlight many questions in the video.
 "%}
 
+
+
+
+## Jun 22
+### REST DAY!
 
 
 ## Jun 23
@@ -348,7 +341,7 @@ See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the c
 ## Jun 30
 ### Wrapping up
 - No reading!
-- [VIDEO: In conclusion](#). This final lecture will highlight some of the key themes and ideas that I hope stick with you long after the course and help you with your Final Course Reflection.
+- [VIDEO: In conclusion](#). This final video will highlight some of the key themes and ideas that I hope stick with you long after the course and help you with your Final Course Reflection.
 
 {% include alert.html class='warning' title='Think ahead' text="
 Start drafting your [Final Course Reflection](final-course-reflection) (see July 5). These are TECHNICALLY due SATURDAY (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY (July 5) to make it nice. You can of course submit it whenever you'd like.

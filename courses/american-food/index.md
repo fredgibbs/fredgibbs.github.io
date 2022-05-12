@@ -61,7 +61,7 @@ Not having actual class meetings deprives us of some collegial conversation, but
 ### Required assignments and points
 The little equations after the assignment type indicates `number of assignments` x `points for each` = `total points`
 - [Reading/lecture reflections](reading-reflections) (6x20 = 120)
-- Reading/lecture quizzes (~10x~20 = ~200)
+- Reading/lecture quizzes (~9x~20 = ~180)
 - [Historic Cookbook Analysis](cookbook-analysis) (1x40 = 40)
 - [Food Blog Analysis](food-blog-analysis) (1x40 = 40)
 - [Final Course Reflection](final-course-reflection) (1x100 = 100)
