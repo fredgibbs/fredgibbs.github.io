@@ -135,9 +135,7 @@ Once you've completed the steps above, and I've approved your request to join ou
 A few items in our Zotero library have more than one PDF attached to them. If you're getting the wrong chapter when double-clicking at item: Single click on the item to select it, then click the "Attachments" tab near the upper right of the page. You'll see links to all PDFs for that item and you can select the PDF you need and click the icon to open it.
 
 
-In addition to separate articles and book chapters, we have one sort of textbook that we use to keep everything connected: _How America Eats_ is our month-long guide that we read bit by bit (and slightly out of order for reasons that will become clear) throughout the course. [This book is freely available through UNM Libraries](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results).
-
-If you don't want to read the whole thing online, there are many cheap copies available via various online booksellers (but NOT the UNM Bookstore).
+In addition to separate articles and book chapters, we have one sort of free, online textbook that we use to provide useful overview:
 
 - Jennifer Jensen Wallach, _How America Eats: A Social History of U.S. Food and Culture_ (Rowman & Littlefield Publishers, 2014). [online via UNM](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results)
 

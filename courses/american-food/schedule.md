@@ -86,19 +86,19 @@ The goal for today is to complicate the idea of "American" food through an inves
 
 - [VIDEO OVERVIEW](https://youtu.be/TscBrPzkGto)
 - _HAE_, xi--xv. _HAE_ refers to _How America Eats_ as described on the syllabus home page. You can access it for [free through UNM Libraries](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results).
-- Alison K. Smith, [National Cuisines](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-25), from _The Oxford Handbook of Food History_ (2012). You can read more quickly over the long Russia example if you want, as the details don't much as the general ideas introduced earlier on. But do read the last paragraph! This is definitely the driest of the readings for this week, but it introduces a number of useful concepts to keep in mind as moving through the other readings.
 - _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
 - Ruth Tobias, [Is There Such a Thing as ‘American’ Food?](https://www.tastingtable.com/culture/national/defining-american-food-cuisine). This article touches on culinary/cultural appropriation, which is a topic we cover in some depth in a few weeks, so focus for no
 - Sidney Mintz, "Eating American". This is easily the most controversial piece this week, suggesting there is no such thing as American Cuisine. Pay attention to his arguments so you can craft a thoughtful reading reflection for this week.
 
 
 #### Noteworthy
+- Alison K. Smith, [National Cuisines](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-25), from _The Oxford Handbook of Food History_ (2012). You can skim over the long Russia example if you want, as the details don't much as the general ideas introduced earlier on. But do read the last paragraph! This is definitely the driest of the readings for this week, but it introduces a number of useful concepts to keep in mind as moving through the other readings.
 - Sean Wyer, [Italy isn't Eatalty](https://vittles.substack.com/p/italy-isnt-eataly). The title and conclusion of this article relate the unsurprising point that the cuisine of an entire nation can't be captured in a giant upscale grocery store. We hardly need to article to explain that to us, but the author makes a number of good points about how to think about national cuisine.
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
 1. Make sure you're familiar with the [reading reflection guide](reading-reflections).
-2. Drawing from ALL the readings: What are the most useful ideas for thinking about national cuisine that you noted? Can a national cuisine be defined by its diversity (as Lee and Tobias suggest)? Or does such diversity mean there really isn't an American cuisine (as Mintz suggests)? Is it OK if there is no such thing as American cuisine? Does the difficulty of defining a national cuisine complicate the idea of national identity in general?
+2. Drawing from ALL the readings: What are the most useful ideas for thinking about national cuisine that you noted? Can a national cuisine be defined by its diversity (as Lee and Tobias suggest)? Or does such diversity mean there really isn't an American cuisine (as Mintz suggests)? **Does the difficulty of defining a national cuisine complicate the idea of national identity in general?** In other words
 "%}
 
 
