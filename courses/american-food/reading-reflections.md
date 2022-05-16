@@ -18,7 +18,6 @@ If there are a number of questions in the reflection prompt, you don't need to a
 ## Basics
 - ~350 words minimum. **Remember longer responses that cover more material get extra points.**
 - Coherent sentences with proper grammar, punctuation, capitalization.
-- Paragraphs that separate your ideas.
 - Clearly and thoughtfully addresses topics/questions in the prompt.
 - Submitted on time via Canvas
 

@@ -109,8 +109,9 @@ The goal for today is to complicate the idea of "American" food through an inves
 Almost everyone thinks about whether some kind of food or dish is "authentic" from time to time. But what does that really mean? The few readings for today should help us think more carefully notions of authenticity---particularly how it's paradoxically an entirely superficial way of describing food, but still a very powerful one.
 
 - [VIDEO OVERVIEW: Rethinking authenticity](https://youtu.be/qqiNJx3mS8c)
-- Dwight Furrow, _American Foodie_ (7: Habits and Heresies: Authenticity, Food Rules, and Traditions), 133--48.
 - Kevin Alexander, [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
+- Dwight Furrow, _American Foodie_ (7: Habits and Heresies: Authenticity, Food Rules, and Traditions), 133--48.
+
 
 #### Noteworthy
 - Sara Kay, [Yelp Reviewers’ Authenticity Fetish Is White Supremacy in Action](https://ny.eater.com/2019/1/18/18183973/authenticity-yelp-reviews-white-supremacy-trap).
@@ -119,7 +120,7 @@ Almost everyone thinks about whether some kind of food or dish is "authentic" fr
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-These readings give us some new perspectives on the idea of authenticity and cast some (if not significant) doubt on the value of the concept. Your prompt for today asks you to put the readings in conversation with each other. Alexander's article is provocative and fun and sometimes smart, but what does it miss compared to Furrow's article?
+These readings give us some new perspectives on the idea of authenticity and cast some (if not significant) doubt on the value of the concept. Your task for today: put the readings in conversation with each other. Alexander's article is provocative and fun and sometimes smart, but what does it miss compared to Furrow's analysis of authenticity? What ways of thinking about authenticity do you find most useful?
 "%}
 
 
