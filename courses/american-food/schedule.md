@@ -232,17 +232,6 @@ This quiz will draw equally from readings and video
 
 # Week 3
 ## Jun 20
-### Nutrition, Economy, and Citizenship
-Popularization of nutritional science provided the perfect cover for telling immigrants how they should eat and be more American in their food and moral choices.
-
-- Katherine Turner, _How the Other Half Ate_ (Ch. 1: The Problem of Food), ebook pp. 14--39. [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)]
-- Charlotte Biltekoff, _Eating Right in America_ (Ch. 2: Scientific Moralization), 13--44.
-
-{% include alert.html class='danger' title='Reading Quiz' text="
-"%}
-
-
-## Jun 21
 ### Industrializing Meat
 - [VIDEO OVERVIEW: Animals as protein technology](https://youtu.be/Vr8nfqg0bZg)
 - Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
@@ -252,6 +241,18 @@ Popularization of nutritional science provided the perfect cover for telling imm
 The quiz is on the readings, but I highlight many questions in the video.
 "%}
 
+
+
+
+## Jun 21
+### Nutrition, Economy, and Citizenship
+Popularization of nutritional science provided the perfect cover for telling immigrants how they should eat and be more American in their food and moral choices.
+
+- Katherine Turner, _How the Other Half Ate_ (Ch. 1: The Problem of Food), ebook pp. 14--39. [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)]
+- Charlotte Biltekoff, _Eating Right in America_ (Ch. 2: Scientific Moralization), 13--44.
+
+{% include alert.html class='danger' title='Reading Quiz' text="
+"%}
 
 
 
