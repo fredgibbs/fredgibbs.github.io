@@ -108,7 +108,7 @@ The goal for today is to complicate the idea of "American" food through an inves
 ### Authenticity
 Almost everyone thinks about whether some kind of food or dish is "authentic" from time to time. But what does that really mean? The few readings for today should help us think more carefully notions of authenticity---particularly how it's paradoxically an entirely superficial way of describing food, but still a very powerful one.
 
-- [VIDEO OVERVIEW: Rethinking authenticity](https://youtu.be/qqiNJx3mS8c)
+- [VIDEO OVERVIEW](https://youtu.be/qqiNJx3mS8c)
 - Kevin Alexander, [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
 - Dwight Furrow, _American Foodie_ (7: Habits and Heresies: Authenticity, Food Rules, and Traditions), 133--48.
 
@@ -127,7 +127,7 @@ These readings give us some new perspectives on the idea of authenticity and cas
 
 ## Jun 10
 ### Cuisines of Contact & Thanksgiving
-- NO VIDEO
+- VIDEO OVERVIEW
 - _HAE_, 1--10 (from Ch. 1: Cuisine of Contact).
 - Philip Deloria, “[The Invention of Thanksgiving](https://www.newyorker.com/magazine/2019/11/25/the-invention-of-thanksgiving)”, _New Yorker_, 95.37 (November 25, 2019): 70--74. [Also in Zotero if the link doesn't work.]
 - Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167--91.
@@ -144,9 +144,21 @@ This quiz covers basics from the readings, but also has a few short answer quest
 
 ## Jun 13
 ###  Corn, Cuisine, Identity
-- [VIDEO OVERVIEW](https://youtu.be/zRz17bvrWLQ)
+Corn may be the ultimate American food: We make a LOT of it, most of which is for cheap animal feed so we can have cheap meat. Corn and derived products are essential to processed food to make them cheap, safe, convenient, and readily available  It perfectly embodies the application of technology to food and the constant pursuit of innovation.
+
+It's also a prime example of how much food can change meanings. As you'll read about, comparing meanings and uses of corn in Native American traditions and early new England settlements with corn production in 20th century--it's kind of mind blowing what an incredibly transformation it's been.
+
+Hopefully after the readings for today you'll think back to our authenticity readings, and how much to these stories complicate the idea there is any authentic dish anywhere, ever.
+
+
+- NO VIDEO
 - _HAE_, 13--31 (from Ch. 1: Cuisine of Contact).
-- Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (1: This Beautifull Noble Eare), read 4--15 and 45--48 more carefully; skim (but don't skip) 15--45 on the various dishes. Nothing about particular dishes will be on the quiz, but expect to explain why such descriptions are there. HINT: It has something to do with how dishes move across cultures (but you'll want to be able to elaborate on that point in your reply).
+  - This chapter gives us a lot of basic background information, but also very useful analysis of the _meanings_ of food. For example, we learn how uses of food were essential to Puritan identity, especially the concern for feasting or fasting too much or too little. Puritans were afraid of both abundance and scarcity, as they saw food as means to survive, not a source of enjoyment.
+
+- Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (1: This Beautifull Noble Eare), read 4--15 and 45--48 more carefully; skim (but don't skip) 15--45 on the various dishes.
+  - In the early pages, look for how corn figured into different cultural value systems
+  - In the section you're skimming: What do the recipes do? What's the point? They illustrate through specific examples (maybe too many) how many Native American culinary traditions were incorporated into English traditions, and how English traditions adapted to new geographic circumstances, and how many Native American traditions were gradually were assimilated into what would be considered quintessentially American dishes (Riinjun bread into Boston Brown Bread).
+
 
 
 
@@ -178,6 +190,7 @@ What did you learn from the readings today? Remember the goal of these reflectio
 
 ## Jun 15
 ### Expansion and Immigration
+- NO VIDEO
 - _HAE_, 57--87 (3: Expansion and Immigration).
 
 {% include alert.html class='danger' title='Reading Quiz' text="
@@ -296,7 +309,7 @@ Weekends are already busy, but you might want to starting thinking about your [F
 ### Culinary Appropriation
 Personally, I find most culinary appropriation conversations to be unhelpfully superficial. It is pointless to debate whether culinary/cultural appropriation actually happens (it does), or whether it's just some people being overly sensitive (it is), or whether it can be an inadvertent or purposeful tool of marginalization (it can). These are non-debatable facts. What matters for today is how we can learn to think and talk about appropriation in a sufficiently nuanced way that encourages innovation and adaptation while respecting cultural heritage and meanings.
 
-- [VIDEO OVERVIEW: Why care about appropriation, and how to talk about it](https://youtu.be/Ax2WpVAtMH4)
+- [VIDEO OVERVIEW](https://youtu.be/Ax2WpVAtMH4)
 - Michael Twitty, _The Cooking Gene_, 1--24.
 - Jess Kapadia, [I Still Don’t Understand The Cultural Appropriation Of Food](https://www.foodrepublic.com/2017/06/01/cultural-appropriation-food/), _Food Republic_.
 - Cynthia R. Greenlee, [Innovation and the incinerated tongue: Notes on hot chicken, race, and culinary crossover](https://thecounter.org/hot-chicken-race-culinary-crossover-nashville-tennessee-black-food-rachel-martin/)
@@ -317,7 +330,7 @@ Use the articles for this week to evaluate a claim we [read a few weeks ago](htt
 
 ## Jun 28
 ### Counter Cuisine
-- [VIDEO OVERVIEW](#)
+- NO VIDEO
 - Warren Belasco, _Appetite for Change_ (Oppositional Identities), 43--67.
 - Megan Elias, _Food on the Page_ (Oppositional Appetites), 145--176.
 
@@ -343,7 +356,7 @@ See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the c
 ## Jun 30
 ### Wrapping up
 - No reading!
-- [VIDEO: In conclusion](#). This final video will highlight some of the key themes and ideas that I hope stick with you long after the course and help you with your Final Course Reflection.
+- [CONCLUDING VIDEO](#). This final video will highlight some of the key themes and ideas that I hope stick with you long after the course and help you with your Final Course Reflection.
 
 {% include alert.html class='warning' title='Think ahead' text="
 Start drafting your [Final Course Reflection](final-course-reflection) (see July 5). These are TECHNICALLY due SATURDAY (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY (July 5) to make it nice. You can of course submit it whenever you'd like.
