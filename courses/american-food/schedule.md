@@ -199,8 +199,9 @@ What did you learn from the readings today? Remember the goal of these reflectio
 
 ## Jun 15
 ### Expansion and Immigration
-- [VIDEO OVERVIEW](#). This covers just a few themes to keep in mind for the one chapter today. I also talk about how some points of overlap between yesterday, today, and tomorrow's assignment.
+- [VIDEO OVERVIEW](#). This covers just a few themes to keep in mind for the readings today. I also talk about how some points of overlap between yesterday, today, and tomorrow's assignment. 
 - _HAE_, 57--87 (3: Expansion and Immigration).
+- Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change”, _The Journal of Popular Culture_, 36.4 (2003): 669–86. As a complement to the _HAE_ chapter, this article vividly illustrates how a certain kind of cuisine is adopted, adapted, and transformed into the melting pot of American food. There is way more detail than we need, but Barbas paints an intriguing portrait of the creation of Chinese American food, which I would say has been one of the most vibrant genres of cookbooks in the last few years.
 
 {% include alert.html class='danger' title='Reading Quiz' text="
 How was American Food changing?
