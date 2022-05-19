@@ -340,7 +340,7 @@ Personally, I find most culinary appropriation conversations to be unhelpfully s
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Use the articles for this week to evaluate a claim we [read a few weeks ago](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)): \"The difference between adaptation and appropriation is one of privilege--the privilege to control and inevitably whitewash the narrative surrounding a given dish.\" Use today's readings to explain how this statement is both correct and oversimplified.
+Use the articles for this week to evaluate a claim we [read a few weeks ago](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)): \"The difference between adaptation and appropriation is one of privilege--the privilege to control and inevitably whitewash the narrative surrounding a given dish.\" Use today's readings to explain how this statement is both correct AND oversimplified.
 "%}
 
 
