@@ -122,11 +122,9 @@ Almost everyone thinks about whether some kind of food or dish is "authentic" fr
 
 
 {% include alert.html class='danger' title='Discussion Post' text="
-The most common student suggestion from last summer was to have a little more student interaction. So this summer, a few of our reading reflections will take the form of Discussion Board Posts, where you're invited to respond to a previous post and share your own thoughts on a few questions. This works like our food stories post from the first day, but **your post should show your familiarity with the readings for today.**
+The most common student suggestion from last summer was to have a little more student interaction. So this summer, a few of our reading reflections will take the form of Discussion Board Posts, where you're invited/expected to respond to a previous post and share your own thoughts on a few questions. How have you thought about it in the past, and why? What new perspectives did you get from the readings? What ways of thinking about authenticity do you find least and most useful?
 
-The readings for today give us some new perspectives on the idea of authenticity and cast some doubt on the value of the concept. Your task for today is to respond to one of your peers' discussion board post on authenticity. How have you thought about it in the past, and why? What new perspectives did you get from the readings? What ways of thinking about authenticity do you find least and most useful?
-
-Be sure you are actually engaging with the post you are replying to (agreeing/disagreeing, suggesting variations on ideas, etc, asking questions), not just posting a regular reading reflection on the Discussion Board.
+**Your post should show your familiarity with the readings for today AND engage with the earlier post.** Be sure you are actually engaging with the post you are replying to (agree/disagree, suggest variations on ideas, ask questions). Please do not just post a regular reading reflection on the Discussion Board.
 "%}
 
 
