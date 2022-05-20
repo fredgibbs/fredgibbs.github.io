@@ -110,7 +110,6 @@ The goal for today is to complicate the idea of "American" food through an inves
 Almost everyone thinks about whether some kind of food or dish is "authentic" from time to time. But what does that really mean? The few readings for today should help us think more carefully notions of authenticity---particularly how it's paradoxically an entirely superficial way of describing food, but still a very powerful one.
 
 - [VIDEO OVERVIEW](https://youtu.be/qqiNJx3mS8c)
-- Clarissa Wei, [What does authentic Chinese food even mean?](https://www.epicurious.com/ingredients/chinese-food-a-celebration-of-time-and-place)
 - Kevin Alexander, [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
 - Dwight Furrow, _American Foodie_ (7: Habits and Heresies: Authenticity, Food Rules, and Traditions), 133--48.
 
@@ -118,6 +117,7 @@ Almost everyone thinks about whether some kind of food or dish is "authentic" fr
 #### Noteworthy
 - Sara Kay, [Yelp Reviewers’ Authenticity Fetish Is White Supremacy in Action](https://ny.eater.com/2019/1/18/18183973/authenticity-yelp-reviews-white-supremacy-trap).
 - Rachel Laudan, [Desperately Seeking Authenticity](https://www.latimes.com/archives/la-xpm-2001-dec-19-fo-16368-story.html)
+- Clarissa Wei, [What does authentic Chinese food even mean?](https://www.epicurious.com/ingredients/chinese-food-a-celebration-of-time-and-place)
 - Matthew Strohl, ‘On Culinary Authenticity’, _The Journal of Aesthetics and Art Criticism_, 77.2 (2019), 157--67.
 
 
@@ -199,7 +199,7 @@ What did you learn from the readings today? Remember the goal of these reflectio
 
 ## Jun 15
 ### Expansion and Immigration
-- [VIDEO OVERVIEW](#). This covers just a few themes to keep in mind for the readings today. I also talk about how some points of overlap between yesterday, today, and tomorrow's assignment. 
+- [VIDEO OVERVIEW](#). This covers just a few themes to keep in mind for the readings today. I also talk about how some points of overlap between yesterday, today, and tomorrow's assignment.
 - _HAE_, 57--87 (3: Expansion and Immigration).
 - Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change”, _The Journal of Popular Culture_, 36.4 (2003): 669–86. As a complement to the _HAE_ chapter, this article vividly illustrates how a certain kind of cuisine is adopted, adapted, and transformed into the melting pot of American food. There is way more detail than we need, but Barbas paints an intriguing portrait of the creation of Chinese American food, which I would say has been one of the most vibrant genres of cookbooks in the last few years.
 
