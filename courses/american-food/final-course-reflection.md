@@ -9,15 +9,15 @@ section: links-guides
 
 
 # Final Course Reflection
-Your final course reflection should be ~1400 words long and cover the ENTIRE COURSE. You will make an argument for what letter grade you should get for the course and justify it by explaining what you've learned based on the effort you've put in.
+Your final course reflection should be ~1400 words long and cover the ENTIRE COURSE. You will make an argument for what letter grade you should get for the course and justify it by explaining what you've learned and the effort you put into the course.
 
-The goal here is to describe your learning EXPERIENCE and to provide SPECIFIC EXAMPLES of what you've learned throughout the course (and why that justifies a particular grade). Big picture questions to keep in mind: How is your sense of food history different? How has your perspective on food changed?  What kinds of questions might you continue to think about when it comes to food choice, identity, politics, etc.
+**The goal here is to describe your learning EXPERIENCE and to provide SPECIFIC EXAMPLES of what you've learned throughout the course, and why that justifies a particular grade.** Big picture questions to keep in mind: How is your sense of food history different? How has your perspective on food changed?  What kinds of questions might you continue to think about when it comes to food choice, identity, politics, etc.
 
-To describe your learning experience is NOT THE SAME as summarizing or paraphrasing the syllabus. Illustrating how your awareness about food and food history has changed or describing why the readings failed to make an impact is much more personal and shows a much greater depth of learning than simply listing topics possibly can.
+**To describe your learning experience is NOT THE SAME as summarizing or paraphrasing the syllabus.** Illustrating how your awareness about food and food history has changed or describing why the readings failed to make an impact is much more personal and shows a much greater depth of learning than simply listing topics possibly can.
 
 If you are describing your EXPERIENCE with the readings and the course overall, you'll end up including plenty of information from the course. If all you do is summarize readings without including your reaction to them, describing how it changed your thinking, or why it didn't (again, either is fine), I can only assume that you didn't put in very much effort to learn anything.
 
-This isn't a writing class so you're not getting evaluated on elegant prose. BUT, your writing must be clear enough that I can follow the thread of your argument. Your final reflection should be well thought out and carefully written, not a stream of consciousness off-the-cuff here’s what I remember type thing. The quality of your final essay should be reflective of your effort to learn in the course. Even if you’re going for a C, this is your last chance to make sure you get at least that. You should invest a few hours time skimming through the readings again---not re-reading them---to remind yourself what you did, or maybe reading a little more of something you totally skimmed.
+This isn't a writing class so you're not getting evaluated on elegant prose. BUT, your writing must be clear enough that I can follow the thread of your argument. Your final reflection should be well thought out and carefully written, not a stream of consciousness off-the-cuff here’s-what-I-remember type thing. The quality of your final essay should be reflective of your effort to learn in the course. Even if you’re going for a C, this is your last chance to make sure you get at least that. You should invest a few hours time skimming through the readings again---not re-reading them---to remind yourself what you did, or maybe reading a little more of something you totally skimmed.
 
 
 
