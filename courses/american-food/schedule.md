@@ -47,7 +47,7 @@ Most days have a "noteworthy" section that lists a few relevant readings on the 
 ### Course introductions
 Our task for today is to make sure you know how the course is structured and general expectations.
 
-- [VIDEO OVERVIEW: Course Intro](https://youtu.be/w4WJ5wmduY8)
+- VIDEO OVERVIEW: Course Intro
 - Warren Belasco, "Why study food?", from _Food: The Key Concepts_, 1--13.
 
 
@@ -69,7 +69,7 @@ Remember that all work, including these introductions, are due on the the day th
 I think this whole course makes more sense when you understand how and why people study food the way they do. So that's what today is about, complemented by the Haley reading that argues we should resist the urge to romanticize the culinary past as is so often done in food media because: A) it's never that simple and B) the real history is far more interesting and revealing.
 
 - Andrew P. Haley, "The Nation before Taste: The Challenges of American Culinary History", _The Public Historian_ 34.2 (2012): 53--78.
-- [VIDEO: How and why to do food history](https://youtu.be/BWFMOiorPqg)
+- VIDEO: Why and how to do food history
 
 #### Noteworthy
 - G. J. Fitzgerald and G. M. Petrick, "In Good Taste: Rethinking American History with Our Palates", _Journal of American History_ 95.2 (2008): 392--404.
@@ -85,7 +85,7 @@ This will cover the Haley reading and video.
 ### National Cuisine & American Food
 The goal for today is to complicate the idea of "American" food through an investigation of national cuisine generally and ways of thinking about it. There are an unusually high number of readings for today, but they are all quite short and offer unique perspectives that are worth thinking about together.
 
-- [VIDEO OVERVIEW](https://youtu.be/TscBrPzkGto)
+- VIDEO OVERVIEW
 - _HAE_, xi--xv. _HAE_ refers to _How America Eats_ as described on the syllabus home page. You can access it for [free through UNM Libraries](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results).
 - _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
 - Ruth Tobias, [Is There Such a Thing as ‘American’ Food?](https://www.tastingtable.com/culture/national/defining-american-food-cuisine). This article touches on culinary/cultural appropriation, which is a topic we cover in some depth in a few weeks, so focus for no
@@ -109,7 +109,7 @@ The goal for today is to complicate the idea of "American" food through an inves
 ### Authenticity
 Almost everyone thinks about whether some kind of food or dish is "authentic" from time to time. But what does that really mean? The few readings for today should help us think more carefully notions of authenticity---particularly how it's paradoxically an entirely superficial way of describing food, but still a very powerful one.
 
-- [VIDEO OVERVIEW](https://youtu.be/qqiNJx3mS8c)
+- VIDEO OVERVIEW
 - Kevin Alexander, [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
 - Dwight Furrow, _American Foodie_ (7: Habits and Heresies: Authenticity, Food Rules, and Traditions), 133--48.
 
@@ -197,7 +197,7 @@ What did you learn from the readings today? Remember the goal of these reflectio
 
 ## Jun 15
 ### Expansion and Immigration
-- [VIDEO OVERVIEW](#). This covers just a few themes to keep in mind for the readings today. I also talk about how some points of overlap between yesterday, today, and tomorrow's assignment.
+- VIDEO OVERVIEW. This covers just a few themes to keep in mind for the readings today. I also talk about how some points of overlap between yesterday, today, and tomorrow's assignment.
 - _HAE_, 57--87 (3: Expansion and Immigration).
 - Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change”, _The Journal of Popular Culture_, 36.4 (2003): 669–86. As a complement to the _HAE_ chapter, this article vividly illustrates how a certain kind of cuisine is adopted, adapted, and transformed into the melting pot of American food. There is way more detail than we need, but Barbas paints an intriguing portrait of the creation of Chinese American food, which I would say has been one of the most vibrant genres of cookbooks in the last few years.
 
@@ -242,8 +242,8 @@ Follow the [Cookbook Analysis Guide](cookbook-analysis).
 ### Improving Nature
 Today we look at an interesting early connection between food, health, and technology that still influences our food choices.
 - Katherine Turner, _How the Other Half Ate_ (Ch. 2: Factories, Railroads, and Rotary Eggbeaters), eBook pp. 40--48. [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)]
-- Sarah Pruitt, “[How an Accidental Invention Changed What Americans Eat for Breakfast]([https://www.history.com/news/cereal-breakfast-origins-kellogg)”
-- [VIDEO: Nature + Technology = Health](https://youtu.be/x1jQ8aIfbLY).
+- Sarah Pruitt, "[How an Accidental Invention Changed What Americans Eat for Breakfast](https://www.history.com/news/cereal-breakfast-origins-kellogg)"
+- [VIDEO: Nature + Technology = Health](#).
 
 #### Noteworthy
 - Blake Hatton, [The Early Years of American Ready to Eat Breakfast Cereal: The Breakfast Cereal Revolution Until 1930](https://scalar.usc.edu/works/early-years-of-ready-to-eat-breakfast-cereal/index).
@@ -259,7 +259,7 @@ This quiz will draw equally from readings and video
 # Week 3
 ## Jun 20
 ### Industrializing Meat
-- [VIDEO OVERVIEW](https://youtu.be/Vr8nfqg0bZg)
+- VIDEO OVERVIEW
 - Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
 - Emeyln Rude, _Tastes like Chicken_, 6--11; 27--39; 130--134; 141--160; 181--192. Sorry for all the partial sections here; the PDF is just the pages you need to read. The book tends to go off on lots of cool tangents, so we skip around to stay on topic. This looks like a crazy amount of reading, but the physical pages and number of words on them are quite small, and many pages are recipes that you can skip over. It goes by really fast, and it's a fun non-academic read.
 
