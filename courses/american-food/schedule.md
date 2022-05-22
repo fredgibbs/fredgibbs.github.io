@@ -243,7 +243,7 @@ Follow the [Cookbook Analysis Guide](cookbook-analysis).
 Today we look at an interesting early connection between food, health, and technology that still influences our food choices.
 - Katherine Turner, _How the Other Half Ate_ (Ch. 2: Factories, Railroads, and Rotary Eggbeaters), eBook pp. 40--48. [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)]
 - Sarah Pruitt, "[How an Accidental Invention Changed What Americans Eat for Breakfast](https://www.history.com/news/cereal-breakfast-origins-kellogg)"
-- [VIDEO: Nature + Technology = Health](#).
+- [VIDEO: Nature + Technology = Health]().
 
 #### Noteworthy
 - Blake Hatton, [The Early Years of American Ready to Eat Breakfast Cereal: The Breakfast Cereal Revolution Until 1930](https://scalar.usc.edu/works/early-years-of-ready-to-eat-breakfast-cereal/index).
@@ -325,7 +325,7 @@ Weekends are already busy, but you might want to starting thinking about your [F
 ### Culinary Appropriation
 Personally, I find most culinary appropriation conversations to be unhelpfully superficial. It is pointless to debate whether culinary/cultural appropriation actually happens (it does), or whether it's just some people being overly sensitive (it is), or whether it can be an inadvertent or purposeful tool of marginalization (it can). These are non-debatable facts. What matters for today is how we can learn to think and talk about appropriation in a sufficiently nuanced way that encourages innovation and adaptation in terms of food while simultaneously respecting cultural heritage and meanings.
 
-- [VIDEO OVERVIEW](https://youtu.be/Ax2WpVAtMH4)
+- [VIDEO OVERVIEW]()
 - Michael Twitty, _The Cooking Gene_, 1--24.
 - Jess Kapadia, [I Still Don’t Understand The Cultural Appropriation Of Food](https://www.foodrepublic.com/2017/06/01/cultural-appropriation-food/), _Food Republic_.
 - Cynthia R. Greenlee, [Innovation and the incinerated tongue: Notes on hot chicken, race, and culinary crossover](https://thecounter.org/hot-chicken-race-culinary-crossover-nashville-tennessee-black-food-rachel-martin/)
@@ -372,7 +372,7 @@ See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the c
 ## Jun 30
 ### Wrapping up
 - No reading!
-- [CONCLUDING VIDEO](#). This final video will highlight some of the key themes and ideas that I hope stick with you long after the course and help you with your Final Course Reflection.
+- [CONCLUDING VIDEO](). This final video will highlight some of the key themes and ideas that I hope stick with you long after the course and help you with your Final Course Reflection.
 
 {% include alert.html class='warning' title='Think ahead' text="
 Start drafting your [Final Course Reflection](final-course-reflection) (see July 5). These are TECHNICALLY due SATURDAY (the official last day of the 1H period), but everyone has some extra time UNTIL MONDAY (July 5) to make it nice. You can of course submit it whenever you'd like.
