@@ -197,12 +197,12 @@ What did you learn from the readings today? Remember the goal of these reflectio
 
 ## Jun 15
 ### Expansion and Immigration
-- VIDEO OVERVIEW. This covers just a few themes to keep in mind for the readings today. I also talk about how some points of overlap between yesterday, today, and tomorrow's assignment.
+- NO VIDEO. A pretty straightforward pair of readings for today means you don't need another video.
 - _HAE_, 57--87 (3: Expansion and Immigration).
-- Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change”, _The Journal of Popular Culture_, 36.4 (2003): 669–86. As a complement to the _HAE_ chapter, this article vividly illustrates how a certain kind of cuisine is adopted, adapted, and transformed into the melting pot of American food. There is way more detail than we need, but Barbas paints an intriguing portrait of the creation of Chinese American food, which I would say has been one of the most vibrant genres of cookbooks in the last few years.
+- Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change”, _The Journal of Popular Culture_, 36.4 (2003): 669–86. As a complement to the _HAE_ chapter, this article vividly illustrates how a certain kind of cuisine is adopted, adapted, and transformed into the melting pot of American food. There is way more detail than we need here, but Barbas paints an intriguing portrait of the creation of Chinese American food, which I would say has been one of the most vibrant genres of cookbooks in the last few years.
 
 {% include alert.html class='danger' title='Reading Quiz' text="
-How was American Food changing?
+This quiz focuses on instances when AND WHY food traditions were blending together and when they were remaining distinct. It would be useful to think about the differences in tone between _HAE_ and the Barbas article.
 "%}
 
 {% include alert.html class='warning' title='Cookbook analysis due tomorrow' text="
@@ -214,7 +214,7 @@ Tomorrow you have a slightly longer assignment than the standard reading reflect
 ### History from Cookbooks
 - NO VIDEO. Between the [Cookbook Analysis Guide](cookbook-analysis) and the readings for today that demonstrate exactly what you should do with your cookbooks, you already have everything you need to know.
 - Ken Albala, [Cookbooks as Historical Documents](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-13). This highly skimmable chapter nicely lays out a process for interrogating cookbooks and reading in between the lines with many excellent examples.
-- Rachel A. Snell, [As North American as Pumpkin Pie: Cookbooks and the Development of National Cuisine in North America, 1796-1854](https://www.erudit.org/fr/revues/cuizine/2014-v5-n2-cuizine01533/1026771ar/).
+- Rachel A. Snell, [As North American as Pumpkin Pie: Cookbooks and the Development of National Cuisine in North America, 1796-1854](https://www.erudit.org/fr/revues/cuizine/2014-v5-n2-cuizine01533/1026771ar/). This title is misleading, as the article is more about how cookbooks can be used to create a national identity more than a cuisine. But that's precisely why it's interesting and useful to us in thinking about how to read old cookbooks. The analysis here is a great example of what I hope you'll do (on a much smaller scale) with your own cookbooks.
 
 
 #### Noteworthy
@@ -258,6 +258,20 @@ This quiz will draw equally from readings and video
 
 # Week 3
 ## Jun 20
+### Nutrition, Economy, and Citizenship
+Building off Friday's video and theme of how dietary and moral advice are frequently intertwined, today we look at how popularization of nutritional science provided the perfect "objective" rationale for telling immigrants how they should eat. As we'll see, the goal seems to have been as much as about health as it was to encourage immigrants to be more American and moral in their food choices.
+
+- VIDEO OVERVIEW
+- Katherine Turner, _How the Other Half Ate_ (Ch. 1: The Problem of Food), ebook pp. 14--39. [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)]
+- Charlotte Biltekoff, _Eating Right in America_ (Ch. 2: Scientific Moralization), 13--44.
+
+{% include alert.html class='danger' title='Reading Quiz' text="
+"%}
+
+
+
+
+## Jun 21
 ### Industrializing Meat
 - VIDEO OVERVIEW
 - Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
@@ -267,19 +281,6 @@ This quiz will draw equally from readings and video
 The quiz is on the readings, but I highlight many questions in the video.
 "%}
 
-
-
-
-## Jun 21
-### Nutrition, Economy, and Citizenship
-Popularization of nutritional science provided the perfect cover for telling immigrants how they should eat and be more American in their food and moral choices.
-
-- VIDEO OVERVIEW
-- Katherine Turner, _How the Other Half Ate_ (Ch. 1: The Problem of Food), ebook pp. 14--39. [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)]
-- Charlotte Biltekoff, _Eating Right in America_ (Ch. 2: Scientific Moralization), 13--44.
-
-{% include alert.html class='danger' title='Reading Quiz' text="
-"%}
 
 
 
