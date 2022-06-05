@@ -58,7 +58,7 @@ This will cover the course intro video, the syllabus, and the short Belasco read
 {% include alert.html class='danger' title='Introductory post' text="
 Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post on the Canvas Discussion Board (should be an obvious link on the left nav bar on the Canvas course page) a brief introduction and one of your most vivid food memories---and why it resonates with you. These should be ~150 words or so. Please REPLY to the previous post (I've already put one there as a starter) so that we get one continuous thread---that makes reading through them MUCH easier.
 
-Remember that all work, including these introductions, are due on the the day they are listed on the syllabus---that's today (= by 9am tomorrow)!
+Remember that all work, including the introductory posts, are due at the end of the day they are listed on the syllabus (but really by 9am tomorrow)!
 "%}
 
 
