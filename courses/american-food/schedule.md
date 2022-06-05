@@ -47,7 +47,7 @@ Most days have a "noteworthy" section that lists a few relevant readings on the 
 ### Course introductions
 Our task for today is to make sure you know how the course is structured and general expectations.
 
-- VIDEO OVERVIEW: Course Intro
+- VIDEO OVERVIEW: [Course Intro](https://youtu.be/Aj0cN4yMHTM)
 - Warren Belasco, "Why study food?", from _Food: The Key Concepts_, 1--13.
 
 

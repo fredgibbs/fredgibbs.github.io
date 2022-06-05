@@ -45,17 +45,17 @@ Learning objectives are pretty standard for syllabi, so much so that they can be
 ## Where to find stuff
 - [Syllabus](http://fredgibbs.net/courses/american-food). You're already here! Remember there are two pages: this one and the [schedule](schedule) page.
 - [Course Canvas Page](https://canvas.unm.edu/courses/10484). We use Canvas for submitting and grading work (quizzes, essays, etc). But that's it. It also has links to other digital components of the course. There is no course material in Canvas
-- [YouTube Channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig) will host lectures and other screencasts. I put links to everything on the syllabus once they are uploaded, but I don't barge into your inbox just to tell you there's a new video. If you want such notifications, you can subscribe to the Channel and get notifications that way.
+- [YouTube Channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig) will host all our videos. I put links to everything on the syllabus once they are uploaded, but I don't barge into your inbox just to tell you there's a new video. If you want such notifications, you can subscribe to the Channel and get notifications that way.
 - [Zotero](http://zotero.org) is our tool for accessing readings. The `Readings and Books` section below has all the details. It will take less than 5 minutes to get set up with it.
 
 
 ## Work Requirements
 
 ### It's summer
-As an upper level history course compressed into a month, this class is meant to be a challenge. But I do recognize that it's summer, that we're still recovering from this past year and that we all have busy lives outside of class even when not (still) amidst a pandemic. AND YET: We can work hard and learn a lot together without taking ourselves too seriously.
+As an upper level history course compressed into a month, this class is meant to be a challenge. But I do recognize that it's summer, that we're still recovering from this past year, and that we all have busy lives outside of class even when not (still) amidst a pandemic. AND YET: We can work hard and learn a lot together without taking ourselves too seriously.
 
 ### Slow and Steady
-Not having actual class meetings deprives us of some collegial conversation, but it presents new freedoms as well. There isn't much to do most days except do the reading, think about it, and take a short quiz or write a brief reading reflection. There are two slightly longer reflections and a final reflection to show off what you've learned from the course as a whole.
+Not having actual class meetings deprives us of some collegial conversation and debate, but it presents new freedoms as well. There isn't much to do most days except do the reading, think about it, and take a short quiz or write a brief reading reflection. There are two slightly longer reflections and a final reflection so that you can show off what you're learning from the course as a whole.
 
 
 ### Required assignments and points
@@ -89,7 +89,7 @@ Percent | Grade
 
 ### Submitting Work
 {% include alert.html class='danger' title='Deadlines!' text="
-**All quizzes or discussion board posts should be submitted via Canvas by the time you go to bed on the day they are listed.** However, previous students have found it helpful to have a grace period to accommodate work or family schedules, or the chance to draft something in the evening and revise it in the morning. So **assignments are absolutely due by 9AM the DAY AFTER they are listed.** Find whatever timing works for your schedule and stick with it.
+**Ideally, all quizzes or discussion board posts will be submitted via Canvas by the time you go to bed on the day they are listed.** However, previous students have found it helpful to have a grace period to accommodate work or family schedules, or the chance to draft something in the evening and revise it in the morning. So **assignments are absolutely due by 9AM the DAY AFTER they are listed.** Find whatever timing works for your schedule and stick with it.
 "%}
 
 {% include alert.html class='warning' title='Lateness' text="
