@@ -68,8 +68,8 @@ Remember that all work, including the introductory posts, are due at the end of 
 ### Challenges and Rewards of Food + History
 I think this whole course makes more sense when you understand how and why people study food the way they do. So that's what today is about, complemented by the Haley reading that argues we should resist the urge to romanticize the culinary past as is so often done in food media because: A) it's never that simple and B) the real history is far more interesting and revealing.
 
+- [VIDEO OVERVIEW](https://youtu.be/UATJlBsbaXM)
 - Andrew P. Haley, "The Nation before Taste: The Challenges of American Culinary History", _The Public Historian_ 34.2 (2012): 53--78.
-- VIDEO: Why and how to do food history
 
 #### Noteworthy
 - G. J. Fitzgerald and G. M. Petrick, "In Good Taste: Rethinking American History with Our Palates", _Journal of American History_ 95.2 (2008): 392--404.
@@ -85,7 +85,7 @@ This will cover the Haley reading and video.
 ### National Cuisine & American Food
 The goal for today is to complicate the idea of "American" food through an investigation of national cuisine generally and ways of thinking about it. There are an unusually high number of readings for today, but they are all quite short and offer unique perspectives that are worth thinking about together.
 
-- VIDEO OVERVIEW
+- [VIDEO OVERVIEW](https://youtu.be/nWlH5GUvtTs)
 - _HAE_, xi--xv. _HAE_ refers to _How America Eats_ as described on the syllabus home page. You can access it for [free through UNM Libraries](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results).
 - _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
 - Ruth Tobias, [Is There Such a Thing as ‘American’ Food?](https://www.tastingtable.com/culture/national/defining-american-food-cuisine). This article touches on culinary/cultural appropriation, which is a topic we cover in some depth in a few weeks, so focus for no
