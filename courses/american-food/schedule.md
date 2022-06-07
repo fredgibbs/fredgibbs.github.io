@@ -109,7 +109,7 @@ The goal for today is to complicate the idea of "American" food through an inves
 ### Authenticity
 Almost everyone thinks about whether some kind of food or dish is "authentic" from time to time. But what does that really mean? The few readings for today should help us think more carefully notions of authenticity---particularly how it's paradoxically an entirely superficial way of describing food, but still a very powerful one.
 
-- VIDEO OVERVIEW
+- [VIDEO OVERVIEW](https://youtu.be/zPQAT9LpX4U)
 - Kevin Alexander, [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
 - Dwight Furrow, _American Foodie_ (7: Habits and Heresies: Authenticity, Food Rules, and Traditions), 133--48.
 
@@ -131,7 +131,7 @@ The most common student suggestion from last summer was to have a little more st
 
 ## Jun 10
 ### Cuisines of Contact & Thanksgiving
-- VIDEO OVERVIEW
+- [VIDEO OVERVIEW](https://youtu.be/cu6BXcG_vXg)
 - _HAE_, 1--10 (from Ch. 1: Cuisine of Contact).
 - Philip Deloria, “[The Invention of Thanksgiving](https://www.newyorker.com/magazine/2019/11/25/the-invention-of-thanksgiving)”, _New Yorker_, 95.37 (November 25, 2019): 70--74. [Also in Zotero if the link doesn't work.]
 - Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167--91.
