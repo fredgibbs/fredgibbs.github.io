@@ -179,7 +179,7 @@ This quiz covers early food consumption in early America, how food and personal/
 
 ## Jun 14
 ### Early America, Food, and Households
-- VIDEO OVERVIEW
+- [VIDEO OVERVIEW](https://youtu.be/CycD0Jx2OwU)
 - _HAE_, 33--55 (2: Food and the Founding). Continuing our emphasis on food and identity, this chapter covers how capitalism and food were central to shaping early American identity. Both this chapter and the other reading emphasize the importance of capitalist markets, food production, and the development of cookbooks as a way of cultivating an American cuisine (and identity).
 - Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (4: Cookbooks and Commerce), 120--147. Even though not clearly marked, there are really two distinct parts to this reading. SKIM the first part (to 129), which explains the capitalist logic of food production in the late 1700s and early 1800s, and how central food was to economic growth. The second part (129+) shows how early cookbooks start reflect the cultural changes underway during that time. Both complement the _HAE_ reading with considerable more detail about the role of women in managing food, the household, and shaping American foodways.
 
@@ -241,7 +241,7 @@ Follow the [Cookbook Analysis Guide](cookbook-analysis).
 ## Jun 17
 ### Improving Nature
 Today we look at an interesting early connection between food, health, and technology that still influences our food choices.
-- Katherine Turner, _How the Other Half Ate_ (Ch. 2: Factories, Railroads, and Rotary Eggbeaters), eBook pp. 40--48. [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)]
+- Katherine Turner, _How the Other Half Ate_ (Ch. 2: Factories, Railroads, and Rotary Eggbeaters), eBook pp. 40--48 (read up to the "Working Class Kitchens" heading). [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)]
 - Sarah Pruitt, "[How an Accidental Invention Changed What Americans Eat for Breakfast](https://www.history.com/news/cereal-breakfast-origins-kellogg)"
 - [VIDEO: Nature + Technology = Health]().
 
