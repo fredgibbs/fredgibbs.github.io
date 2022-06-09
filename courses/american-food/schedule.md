@@ -161,7 +161,7 @@ Hopefully after the readings for today you'll think back to our authenticity rea
 
 - Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (1: This Beautifull Noble Eare), read 4--15 and 45--48 more carefully; skim (but don't skip) 15--45 on the various dishes.
   - In the early pages, look for how corn figured into different cultural value systems
-  - In the section you're skimming: What do the recipes do? What's the point? They illustrate through specific examples (maybe too many) how many Native American culinary traditions were incorporated into English traditions, and how English traditions adapted to new geographic circumstances, and how many Native American traditions were gradually were assimilated into what would be considered quintessentially American dishes (Riinjun bread into Boston Brown Bread).
+  - In the section you're skimming: What do the recipes do? What's the point? They illustrate through specific examples (maybe too many) how many Native American culinary traditions were incorporated into English traditions, how English traditions adapted to new geographic circumstances, and how many Native American traditions were gradually were assimilated into what would be considered quintessentially American dishes (Riinjun bread into Boston Brown Bread).
 
 
 
@@ -172,7 +172,7 @@ Hopefully after the readings for today you'll think back to our authenticity rea
 - [Ever wonder what tassles are for?](https://www.youtube.com/watch?v=XEmbOFsqld8) This explains the reproduction and maturity of dent corn, the most common kind of corn grown in the US, mostly for animal feed. The corn on the cob you like slathered with butter is sweet corn, and it reproduces the same way, but loses less moisture and is, as you might guess, sweeter. The other kind of corn you like to eat is popcorn, which has a non-porous hull. If you heat the kernel, the water in the kernel turns to steam, expands, and [turns inside out really slowly](https://www.youtube.com/watch?v=FSZd33awqQk), so you can munch on the starchy interior.
 
 {% include alert.html class='danger' title='Reading Quiz' text="
-This quiz covers early food consumption in early America, how food and personal/community/national identity were intertwined (as we see in attitudes about corn) and how meanings of food can be utterly transformed over time, as outlined in the Castellanos and Bergstresser article.
+This quiz covers early food consumption in early America, how food and personal/community/national identity were intertwined (as we see in attitudes about corn) and how meanings of food can be utterly transformed over time.
 "%}
 
 
