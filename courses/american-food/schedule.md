@@ -243,7 +243,7 @@ Follow the [Cookbook Analysis Guide](cookbook-analysis).
 Today we look at an interesting early connection between food, health, and technology that still influences our food choices.
 - Katherine Turner, _How the Other Half Ate_ (Ch. 2: Factories, Railroads, and Rotary Eggbeaters), eBook pp. 40--48 (read up to the "Working Class Kitchens" heading). [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)]
 - Sarah Pruitt, "[How an Accidental Invention Changed What Americans Eat for Breakfast](https://www.history.com/news/cereal-breakfast-origins-kellogg)"
-- [VIDEO: Nature + Technology = Health]().
+- [LONGER VIDEO: Nature + Technology = Health](https://youtu.be/6Jr8lfldNPc).
 
 #### Noteworthy
 - Blake Hatton, [The Early Years of American Ready to Eat Breakfast Cereal: The Breakfast Cereal Revolution Until 1930](https://scalar.usc.edu/works/early-years-of-ready-to-eat-breakfast-cereal/index).
