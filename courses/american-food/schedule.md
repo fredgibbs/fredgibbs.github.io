@@ -261,7 +261,7 @@ This quiz will draw equally from readings and video
 ### Nutrition, Economy, and Citizenship
 Building off Friday's video and theme of how dietary and moral advice are frequently intertwined, today we look at how popularization of nutritional science provided the perfect "objective" rationale for telling immigrants how they should eat. As we'll see, the goal seems to have been as much as about health as it was to encourage immigrants to be more American and moral in their food choices.
 
-- VIDEO OVERVIEW
+- NO VIDEO
 - Katherine Turner, _How the Other Half Ate_ (Ch. 1: The Problem of Food), ebook pp. 14--39. [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)]
 - Charlotte Biltekoff, _Eating Right in America_ (Ch. 2: Scientific Moralization), 13--44.
 
@@ -273,7 +273,7 @@ Building off Friday's video and theme of how dietary and moral advice are freque
 
 ## Jun 21
 ### Industrializing Meat
-- VIDEO OVERVIEW
+- [VIDEO OVERVIEW](https://youtu.be/1UsDJLELuME)
 - Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
 - Emeyln Rude, _Tastes like Chicken_, 6--11; 27--39; 130--134; 141--160; 181--192. Sorry for all the partial sections here; the PDF is just the pages you need to read. The book tends to go off on lots of cool tangents, so we skip around to stay on topic. This looks like a crazy amount of reading, but the physical pages and number of words on them are quite small, and many pages are recipes that you can skip over. It goes by really fast, and it's a fun non-academic read.
 
