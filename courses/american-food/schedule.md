@@ -251,7 +251,7 @@ Today we look at an interesting early connection between food, health, and techn
 
 
 {% include alert.html class='danger' title='Reading and Video Quiz' text="
-This quiz will draw equally from readings and video
+This quiz will draw equally from readings and video.
 "%}
 
 
@@ -259,13 +259,20 @@ This quiz will draw equally from readings and video
 # Week 3
 ## Jun 20
 ### Nutrition, Economy, and Citizenship
-Building off Friday's video and theme of how dietary and moral advice are frequently intertwined, today we look at how popularization of nutritional science provided the perfect "objective" rationale for telling immigrants how they should eat. As we'll see, the goal seems to have been as much as about health as it was to encourage immigrants to be more American and moral in their food choices.
+No video for today, so a little longer syllabus introduction than usual: Building off Friday's video and theme of how dietary and moral advice are frequently intertwined, today we look at how popularization of nutritional science provided the perfect "objective" rationale for telling the working classes (and especially immigrants) how they should eat. As we'll see, the goal seems to have been as much as about health as it was to encourage immigrants to be more economically efficient, and therefore more moral and more American in their food choices. This topic may seem unique to the early 19th century and immigration, but even in 2022, a healthier body is still often thought of as a "better" body. The health industry is worth a gazillion dollars in part because it's not just about health!
+
+The idea that we should make decisions on what to eat based on a supposedly objective metric of health has been labelled _nutritionism_---an ISM like catholocism, totalitarianism---an IDEOLOGY of food and how to eat. There is even an official disorder called _orthorexia_---wanting to eat "right". This is often presented as a relatively new (last 40 or 50 years at most) phenomenon, but it actually has a long 120+ year history. It is striking that considering how much culture is very different now, and nutritional knowledge has advanced considerably since ~1900, the idea that we can assess and measure morality through food, diet, and health has persisted remarkably well.
+
 
 - NO VIDEO
-- Katherine Turner, _How the Other Half Ate_ (Ch. 1: The Problem of Food), ebook pp. 14--39. [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)]
-- Charlotte Biltekoff, _Eating Right in America_ (Ch. 2: Scientific Moralization), 13--44.
+
+- Katherine Turner, _How the Other Half Ate_ (Ch. 1: The Problem of Food), ebook pp. 14--39. [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)] This book gives us excellent background on working-class life in the U.S. around 1900. There is way more detail than we need (but helps ground the analysis in specific examples as I'm always asking you to do), so be sure you're reading to grasp the big picture of who the working class are, how they eat, and what they value (and don't) in food.
+
+- Charlotte Biltekoff, _Eating Right in America_ (Ch. 2: Scientific Moralization), 13--44. This reading illustrates how early nutritional scientists and social reformers tried to contain and order the chaos of diverse tastes, preferences, and eating habits of all the different people immigrating to the U.S. from the 1880s to the 1920s. The emphasis on dietary habits was a way of creating/maintaining a more consistent societal fabric. In the minds of social reformers, there was too much cultural and culinary diversity; the country needed a standard way of eating to make a stronger and more unified, more civilized bodies of citizens. Note how this is somewhat contrary to the blending/adaptation narrative we've read about at times with respect to various food traditions. Biltekoff claims that all dietary advice has a strong moral component to it. I disagree that all dietary advice is _necessarily_ moral, but I would say it USUALLY has a significant moral component, even as we might suppose that the language of science is objective. But we have to remember objective metrics are _always subjective_ in how they are applied and valued.
+
 
 {% include alert.html class='danger' title='Reading Quiz' text="
+Just to make sure you're reading the syllabus and red boxes: You'll read about Wilbur Atwater and his work on nutrition in the late nineteenth century. But you might wonder why vitamins aren't discussed in more depth, but (as very briefly mentioned in the article) that's because they weren't discovered yet and the nutritive value of food was determined by other variables.
 "%}
 
 
@@ -306,6 +313,7 @@ BASED ON THE READINGS: What does the history of food in the Southwest teach us a
 ## Jun 24
 ### Culinary Diffusion
 
+- NO VIDEO
 - Helen Zoe Veit, _Modern Food, Moral Food_ (6: Americanizing the American Diet), 123--56.
 - Amy Bentley, "From Culinary Other to Mainstream America: Meanings and Uses of Southwestern Cuisine", in _Culinary Tourism_ (ed. Lucy M. Long), University Press of Kentucky (2013), 209--223.
 
