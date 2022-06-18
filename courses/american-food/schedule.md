@@ -289,29 +289,31 @@ The quiz is on the readings, but I highlight many questions in the video.
 "%}
 
 
-
-
 ## Jun 22
 ### REST DAY!
 
 
 ## Jun 23
 ### Untangling Food in the Southwest
+As you are all well aware, the Southwest has a pretty amazing mix of foodways. While we've read in general terms about blending of food traditions, today is a more specific case study of blending (and not) in our own neck of the woods. Two primary goals: 1) Learn more about the various historical traditions of food in the Southwest; 2) Look in more depth at a specific region as a site of adaptation and resistance to new foods.
+
 - NO VIDEO
-- Jeffrey M. Pilcher, “Tex-Mex, Cal-Mex, New Mex, or Whose Mex? Notes on the Historical Geography of Southwestern Cuisine”. _Journal of the Southwest_ 43.44 (2001): 659-–79.
-- Katherine Massoth, "'Mexican Cookery that Belongs to the United States': Evolving Boundaries of Whiteness in New Mexican Kitchens", in _Food Across Borders_ (ed. Garcia, DuPuis, and Mitchell), 44--59.
+- Jeffrey M. Pilcher, “Tex-Mex, Cal-Mex, New Mex, or Whose Mex? Notes on the Historical Geography of Southwestern Cuisine”. _Journal of the Southwest_ 43.44 (2001): 659-–79. Like many sources we've used, there is more detail than we need. But you know how to handle that by this point---read for the big picture!
+
+- Katherine Massoth, "'Mexican Cookery that Belongs to the United States': Evolving Boundaries of Whiteness in New Mexican Kitchens", in _Food Across Borders_ (ed. Garcia, DuPuis, and Mitchell), 44--59. I love this piece because it tells a very clear story about the intersection of race, culture, and food with abundant historical examples. As much as we've read about mingling of ingredients and merging of dishes, most students get a new perspective on food and identity from this reading.
 
 
 #### Noteworthy
 - Anastacia Uriegas, [Fajitas, Queso & Enchiladas: A Look at the Origins of Tex-Mex Favorites](https://remezcla.com/features/culture/fajitas-queso-enchiladas-look-origins-tex-mex-favorites/)
 
 {% include alert.html class='danger' title='Discussion Post' text="
-BASED ON THE READINGS: What does the history of food in the Southwest teach us about food, culture, and identity?
+BASED ON THE READINGS: What does the history of food in the Southwest teach us about food, culture, and identity that we haven't exactly seen before? Since most of us are in the Southwest and have a history here, it can be easy to accidentally write an opinion piece that isn't connected to the readings. However much you interject your own opinion (and I hope you will!), please be sure your post addresses the prompt question and draws specifically from the article for today!
 "%}
 
 
 ## Jun 24
 ### Culinary Diffusion
+Yesterday we looked at the intersection of food traditions in the Southwest, and today we look at food moving out of specific regions. We've already covered this a little with our reading on Chinese food in the 19th century, but here focus specifically on diffusion as a general concept and how meanings of food get twisted as food moves around geographies and cultures.
 
 - NO VIDEO
 - Helen Zoe Veit, _Modern Food, Moral Food_ (6: Americanizing the American Diet), 123--56.
@@ -319,7 +321,7 @@ BASED ON THE READINGS: What does the history of food in the Southwest teach us a
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-It's all too easy to characterize blending of food traditions as everything going into the good ol' American melting pot. But what do these articles suggest we can learn about American food if we look more closely?
+It's easy to characterize the blending of food traditions simply as everything going into the good ol' American melting pot. But what do these articles suggest we can learn about American foodways if we look more closely? In other words, how do these articles suggest ideas about diffusion that we haven't seen before?
 "%}
 
 {% include alert.html class='warning' title='Food Blog Analysis Soon' text="
