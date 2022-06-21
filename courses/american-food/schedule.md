@@ -334,7 +334,7 @@ Weekends are already busy, but you might want to starting thinking about your [F
 
 ## Jun 27
 ### Culinary Appropriation
-Personally, I find most culinary appropriation conversations to be unhelpfully superficial. It is pointless to debate whether culinary/cultural appropriation actually happens (it does), or whether it's just some people being overly sensitive (it is), or whether it can be an inadvertent or purposeful tool of marginalization (it can). These are non-debatable facts. What matters for today is how we can learn to think and talk about appropriation in a sufficiently nuanced way that encourages innovation and adaptation in terms of food while simultaneously respecting cultural heritage and meanings.
+I find most culinary appropriation conversations to be unhelpfully superficial. It is pointless to debate whether culinary/cultural appropriation actually happens (it does), or whether it's just some people being overly sensitive (it is), or whether it can be an inadvertent or purposeful tool of marginalization (it can). These are non-debatable facts. What matters for today is how we can learn to think and talk about appropriation in a sufficiently nuanced way that encourages innovation and adaptation in terms of food while simultaneously respecting cultural heritage and meanings.
 
 - VIDEO OVERVIEW
 - Michael Twitty, _The Cooking Gene_, 1--24.
@@ -350,7 +350,7 @@ Personally, I find most culinary appropriation conversations to be unhelpfully s
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Use the articles for this week to evaluate a claim we [read a few weeks ago](https://www.tastingtable.com/culture/national/defining-american-food-cuisine)): \"The difference between adaptation and appropriation is one of privilege--the privilege to control and inevitably whitewash the narrative surrounding a given dish.\" Use today's readings to explain how this statement is both correct AND oversimplified.
+Use the articles for this week to evaluate a claim we [read a few weeks ago](https://www.tastingtable.com/culture/national/defining-american-food-cuisine): \"The difference between adaptation and appropriation is one of privilege--the privilege to control and inevitably whitewash the narrative surrounding a given dish.\" Use today's readings to explain how this statement is both correct AND oversimplified.
 "%}
 
 
