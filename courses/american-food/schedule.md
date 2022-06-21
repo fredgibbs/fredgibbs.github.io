@@ -369,13 +369,19 @@ Use the articles for this week to evaluate a claim we [read a few weeks ago](htt
 This quiz will draw equally from the two readings today. Both readings can go overboard with details, but the quiz is concerned only with the big picture of how food is changing in the second half of the 20th century.
 "%}
 
+{% include alert.html class='warning' title='Food Blog Analysis Tomorrow' text="
+If you haven't already, you might starting working on your [Food Blog Analysis](food-blog-analysis) due tomorrow. Nothing else due tomorrow (and no readings outside your food blogs), but it's a slightly longer assignment than the usual reflection.
+"%}
+
+
+
 
 
 ## Jun 29
 ### No video or new reading for today! Food Blog Analysis is due.
 
 {% include alert.html class='danger' title='Food Blog Analysis' text="
-See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the cookbook readings, when we discussed how much you can learn about people, culture, and food from cookbooks. Just like we looked at cookbooks from ~150 years ago to learn about food at the time, what would a historian 150 years from now think American food was from looking at your blogs?
+Think back to the cookbook readings, when we discussed how much you can learn about people, culture, and food from cookbooks. Just like we looked at cookbooks from ~150 years ago to learn about food at the time, what would a historian 150 years from now think American food was from looking at your blogs? Make sure you're following the [Food Blog Analysis Guidelines](food-blog-analysis).
 "%}
 
 
@@ -385,7 +391,7 @@ See the [Food Blog Analysis Guidelines](food-blog-analysis). Think back to the c
 - No reading!
 - CONCLUDING VIDEO. This final video will highlight some of the key themes and ideas that I hope will help you with your Final Course Reflection and even stick with you long after the course.
 
-{% include alert.html class='warning' title='Think ahead' text="
+{% include alert.html class='warning' title='Work ahead' text="
 Start drafting your [Final Course Reflection](final-course-reflection) (see July 5). These are TECHNICALLY due SATURDAY (the official last day of the 1H summer session), but everyone has some extra time UNTIL MONDAY (July 5) to do their best work. You can of course submit it whenever you'd like.
 "%}
 
