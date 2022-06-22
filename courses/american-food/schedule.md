@@ -359,14 +359,14 @@ Use the articles for this week to evaluate a claim we [read a few weeks ago](htt
 ### Counter Cuisine
 - VIDEO OVERVIEW
 - Warren Belasco, _Appetite for Change_ (Oppositional Identities), 43--67.
-- Megan Elias, _Food on the Page_ (Oppositional Appetites), 145--176.
 
 #### Noteworthy
 - Menaka Wilhelm, [The Far Out History Of How Hippie Food Spread Across America](https://www.npr.org/sections/thesalt/2018/01/23/579186110/the-far-out-history-of-how-hippie-food-spread-across-america)
+- Megan Elias, _Food on the Page_ (Oppositional Appetites), 145--176.
 
 
 {% include alert.html class='danger' title='Reading Quiz' text="
-This quiz will draw equally from the video and readings for today. Both readings can go overboard with details, but the quiz is concerned only with the big picture of how food is changing in the second half of the 20th century.
+This quiz will draw equally from the video and reading for today. Both readings can go overboard with details, but the quiz is concerned only with the big picture of how food is changing in the second half of the 20th century.
 "%}
 
 {% include alert.html class='warning' title='Food Blog Analysis Tomorrow' text="
