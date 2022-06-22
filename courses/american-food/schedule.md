@@ -366,7 +366,7 @@ Use the articles for this week to evaluate a claim we [read a few weeks ago](htt
 
 
 {% include alert.html class='danger' title='Reading Quiz' text="
-This quiz will draw equally from the two readings today. Both readings can go overboard with details, but the quiz is concerned only with the big picture of how food is changing in the second half of the 20th century.
+This quiz will draw equally from the video and readings for today. Both readings can go overboard with details, but the quiz is concerned only with the big picture of how food is changing in the second half of the 20th century.
 "%}
 
 {% include alert.html class='warning' title='Food Blog Analysis Tomorrow' text="
