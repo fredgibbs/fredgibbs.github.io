@@ -357,7 +357,7 @@ Use the articles for this week to evaluate a claim we [read a few weeks ago](htt
 
 ## Jun 28
 ### Counter Cuisine
-- VIDEO OVERVIEW
+- [VIDEO OVERVIEW](https://youtu.be/n_87hWFCKyE)
 - Warren Belasco, _Appetite for Change_ (Oppositional Identities), 43--67.
 
 #### Noteworthy
