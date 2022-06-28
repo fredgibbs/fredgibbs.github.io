@@ -362,7 +362,7 @@ Use the articles for this week to evaluate a claim we [read a few weeks ago](htt
 
 #### Noteworthy
 - Menaka Wilhelm, [The Far Out History Of How Hippie Food Spread Across America](https://www.npr.org/sections/thesalt/2018/01/23/579186110/the-far-out-history-of-how-hippie-food-spread-across-america)
-- Megan Elias, _Food on the Page_ (Oppositional Appetites), 145--176.
+
 
 
 {% include alert.html class='danger' title='Reading Quiz' text="
