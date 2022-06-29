@@ -9,7 +9,7 @@ section: links-guides
 
 
 # Final Course Reflection
-Your final course reflection should be ~1400 words long and cover the ENTIRE COURSE. You will make an argument for what letter grade you should get for the course and justify it by explaining what you've learned and the effort you put into the course.
+Your final course reflection should be ~1200 words long and cover the ENTIRE COURSE. You will make an argument for what letter grade you should get for the course and justify it by explaining what you've learned and the effort you put into the course.
 
 **The goal here is to describe your learning EXPERIENCE and to provide SPECIFIC EXAMPLES of what you've learned throughout the course, and why that justifies a particular grade.** Big picture questions to keep in mind: How is your sense of food history different? How has your perspective on food changed?  What kinds of questions might you continue to think about when it comes to food choice, identity, politics, etc.
 
