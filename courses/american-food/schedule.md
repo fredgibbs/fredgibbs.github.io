@@ -389,7 +389,7 @@ Think back to the cookbook readings, when we discussed how much you can learn ab
 ## Jun 30
 ### Wrapping up
 - No reading!
-- CONCLUDING VIDEO. This final video will highlight some of the key themes and ideas that I hope will help you with your Final Course Reflection and even stick with you long after the course.
+- [CONCLUDING VIDEO](https://youtu.be/VWl8ukvNNVk). This final video will highlight some of the key themes and ideas that I hope will help you with your Final Course Reflection and even stick with you long after the course.
 
 {% include alert.html class='warning' title='Work ahead' text="
 Start drafting your [Final Course Reflection](final-course-reflection) (see July 5). These are TECHNICALLY due SATURDAY (the official last day of the 1H summer session), but everyone has some extra time UNTIL MONDAY (July 5) to do their best work. You can of course submit it whenever you'd like.
