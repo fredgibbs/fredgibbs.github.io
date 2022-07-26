@@ -8,14 +8,11 @@ description: Regularly scheduled courses: Food + Technology + Society; Landscape
 
 
 {% include course-block.html
-slug="american-food"
-title="History of American Food (Summer 2022)"
-poster="images/american-food-cultures-2019.jpg"
-desc="When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. But what about American food? Is there such a thing? Does this concept even make sense anymore? How are ideas of nationalism reflected in our foodways?
-
-This course explores both historical and contemporary ways of thinking about 'American' food and the relationship between food and identity. We look at the changing meanings of food and foodways throughout US history, particularly how people have attached cultural values to certain foods yet rejected others, and how foodways are so frequently an expression of personal, community, and national values."
+slug="idea-of-nature"
+title="The Idea of Nature (Fall 2022; 2H course)"
+poster="images/idea-of-nature-sm.jpg"
+desc="Nature and landscape can seem like mere background our lives, but the spaces around us connect us to our past and chart a course for the future. This course explores the changing cultural constructions of \"nature\" in American History. We pursue three particular goals: 1) Describe how the attitudes towards nature have shifted over time. 2) Articulate how landscapes of all kinds mediates our relationship to the past, present, and future. 3) Explain how landscape can influence constructions of identities at personal, regional, and national levels."
 %}
-
 
 
 {% include course-block.html
@@ -26,11 +23,14 @@ desc="Science and medicine can seem like objective and neutral endeavors, but hi
 %}
 
 
+
 {% include course-block.html
-slug="idea-of-nature"
-title="The Idea of Nature (Fall 2022; 2H course)"
-poster="images/idea-of-nature-sm.jpg"
-desc="Nature and landscape can seem like mere background our lives, but the spaces around us connect us to our past and chart a course for the future. This course explores the changing cultural constructions of \"nature\" in American History. We pursue three particular goals: 1) Describe how the attitudes towards nature have shifted over time. 2) Articulate how landscapes of all kinds mediates our relationship to the past, present, and future. 3) Explain how landscape can influence constructions of identities at personal, regional, and national levels."
+slug="american-food"
+title="History of American Food (Summer 2022)"
+poster="images/american-food-cultures-2019.jpg"
+desc="When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. But what about American food? Is there such a thing? Does this concept even make sense anymore? How are ideas of nationalism reflected in our foodways?
+
+This course explores both historical and contemporary ways of thinking about 'American' food and the relationship between food and identity. We look at the changing meanings of food and foodways throughout US history, particularly how people have attached cultural values to certain foods yet rejected others, and how foodways are so frequently an expression of personal, community, and national values."
 %}
 
 

@@ -21,9 +21,9 @@ Science and medicine can seem like objective and neutral endeavors, but history 
 
 ## Student Learning Outcomes
 - Enumerate key shifts in approaches to science and medicine and motives for change
+- Analyze how key scientific controversies developed and how they were debated and resolved or abandoned
+- Understand the ways that standards of knowledge production have changed over time
 - Describe how science and medicine are not autonomous and objective enterprises but are created in specific cultural and social contexts
-- Explain how history helps us ask better questions about emerging technologies
-- Articulate the possibilities and limitations of modern science and medicine
 
 ## Readings & Assignments
 Note at the top of the page the link to the schedule page of the syllabus! The schedule is a living document and changes depending on what's going on in the course. If you print it out, you'll need to keep your paper version up to date with the online version. If you keep a browser tab open all semester, make sure you refresh it when you go to look up the next assignment and reflection prompt.
