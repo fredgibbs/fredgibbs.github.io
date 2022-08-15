@@ -112,9 +112,10 @@ Almost everyone thinks about whether some kind of food or dish is "authentic" fr
 - [VIDEO OVERVIEW](https://youtu.be/zPQAT9LpX4U)
 - Kevin Alexander, [Why Authentic Food is Bullshit](https://www.thrillist.com/eat/nation/why-authentic-food-is-bullshit)
 - Dwight Furrow, _American Foodie_ (7: Habits and Heresies: Authenticity, Food Rules, and Traditions), 133--48.
-
+-
 
 #### Noteworthy
+- Jeffrey Pratt, "Food Values: The Local and the Authentic," 285--300.
 - Sara Kay, [Yelp Reviewers’ Authenticity Fetish Is White Supremacy in Action](https://ny.eater.com/2019/1/18/18183973/authenticity-yelp-reviews-white-supremacy-trap).
 - Rachel Laudan, [Desperately Seeking Authenticity](https://www.latimes.com/archives/la-xpm-2001-dec-19-fo-16368-story.html)
 - Clarissa Wei, [What does authentic Chinese food even mean?](https://www.epicurious.com/ingredients/chinese-food-a-celebration-of-time-and-place)

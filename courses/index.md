@@ -16,15 +16,6 @@ desc="Nature and landscape can seem like mere background our lives, but the spac
 
 
 {% include course-block.html
-slug="history-science-medicine"
-title="History of Science and Medicine (Fall 2022)"
-poster="images/history-science-medicine-sm.jpg"
-desc="Science and medicine can seem like objective and neutral endeavors, but history shows us how culturally constructed they are. This one-semester survey highlights the origins, evolutions, and revolutions in the history of science and medicine."
-%}
-
-
-
-{% include course-block.html
 slug="american-food"
 title="History of American Food (Summer 2022)"
 poster="images/american-food-cultures-2019.jpg"
