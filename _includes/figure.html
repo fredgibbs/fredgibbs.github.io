@@ -1,7 +1,11 @@
 {% if include.abs-image-url %}
   {% capture img-url %}
     {{ site.baseurl }}{{ include.image-url }}
-    {% endcapture %}
+  {% endcapture %}
+{% elsif include.src %}
+  {% capture img-url %}
+    {{ site.baseurl }}{{ include.src }}
+  {% endcapture %}
 {% else %}
   {% capture img-url %}
     {{ site.baseurl }}{{site.essay-images}}/{{ include.image-url }}
