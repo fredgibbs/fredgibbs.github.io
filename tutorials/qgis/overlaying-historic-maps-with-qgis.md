@@ -87,7 +87,7 @@ _Plugins are a standard feature of open source software like QGIS. This approach
 
 Now, under the "Raster" menu, choose Georeferencer to bring up the Georeference dialog.
 
-{% include figure.html class="icon right" src="/assets/images/qgis/add-raster-icon.png" %}
+{% include figure.html class="icon right" src="/assets/images/qgis/add-raster-icon.png" width="20%" %}
 Once the dialog box appears, click the upper left icon to load a new image, and select the map you've downloaded. The "Coordinate Reference System Selector" dialog will appear again, and we can accept the defaults. Once it appears, we'll begin the georeferencing process (assigning modern geographic coordinates to points on the historic map).
 
 **CAREFUL: To georeference a historic map, we must load it through the Georeferencer, not through the Data Source Manager.**
