@@ -61,7 +61,7 @@ Put the county.zip file in your new folder, and double click the downloaded file
 
 ## Add Some Data to the Map
 
-{% include figure.html class="icon right" src="/assets/images/qgis/open-data-manager-icon.png" %}
+{% include figure.html class="icon right" src="/assets/images/qgis/open-data-manager-icon.png" width="30%" %}
 
 On the bottom of the two toolbars at the top, click the leftmost icon to open the "Data Source Manager".
 
