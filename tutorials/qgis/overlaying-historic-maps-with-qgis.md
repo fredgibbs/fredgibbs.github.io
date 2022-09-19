@@ -92,7 +92,7 @@ Once the dialog box appears, click the upper left icon to load a new image, and 
 
 **CAREFUL: To georeference a historic map, we must load it through the Georeferencer, not through the Data Source Manager.**
 
-{% include figure.html class="icon right" src="/assets/images/qgis/add-points-icon.png" %}
+{% include figure.html class="icon right" src="/assets/images/qgis/add-points-icon.png" width="20%" %}
 Click the "Add Points" icon to begin. Then, click a point on the historic map to which you want to assign coordinates (say, the southern tip of Florida).
 
 {% include figure.html src="/assets/images/qgis/map-coordinates.png" caption="The 'From Map Canvas' button is your friend" %}
@@ -104,7 +104,7 @@ Repeat this process, choosing a handful of points around the perimeter. You need
 
 {% include figure.html src="/assets/images/qgis/reference-points-2.png" caption="Just like silly putty."%}
 
-{% include figure.html  class="icon right" src="/assets/images/qgis/yellow-gear-icon.png" %}
+{% include figure.html  class="icon right" src="/assets/images/qgis/yellow-gear-icon.png" width="20%" %}
 After you’ve entered 6-8 points, click the yellow gear icon to adjust the Transformation Settings.
 
 For Transformation type, choose “Thin Plate Spline”; for Resampling methods, choose “Cubic Spline”. You can read about what these do if you want to remember why you hate math. Depending on how you need to warp your historic map, some of the settings are more appropriate than others, but that’s for another tutorial.
@@ -118,7 +118,7 @@ On the Output Raster line, notice that QGIS has automatically suggested a filena
 1. "Use 0 for transparency when needed"
 2. "Load in QGIS when done"
 
-{% include figure.html class="icon right" src="/assets/images/qgis/green-arrow-icon.png" %}
+{% include figure.html class="icon right" src="/assets/images/qgis/green-arrow-icon.png" width="20%" %}
 After you've finished with the transformation settings, click the green arrow icon (right next to the load image icon). When the Coordinate Reference System Selector appears, click "OK". Your view will probably be a little zoomed in, so zoom to the extent of the county map again.
 
 You can see we've georeferenced the image to more or less align with our county map! And you can see from the edges of the map what kind of warping the algorithm did to the image of the railway map.
