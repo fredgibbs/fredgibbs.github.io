@@ -10,27 +10,25 @@ section: schedule
 
 # Schedule of Readings and Assignments
 
-{% include alert.html class='info' title='Reflections' text="
-For each group of readings (by day), submit via email a ~350-word reflection on the readings.  Please DO NOT SUMMARIZE the readings one by one. I'm looking for how you can compare and contrast them, and relate them to previous course material. You should answer the same questions for each group of readings and give specific examples:
-- Where did you see the most overlap between the readings? In other words, what are the major themes they have in common?
-- Where did the readings differ in significant ways in terms of disagreement or simply different perspectives?
-- How did the set of readings offer a different way of thinking about nature compared to previous readings?
-- If applicable: How do the primary sources illustrate what's being discussed by the secondary sources?
-"%}
-
 
 ## Week 1
 
 ### 10/17: Intro
-We'll review the course aims, assignments, and general plan for our 1/2 semester together. Why do conceptions of "nature" matter?
-- Raymond Williams, "Ideas of Nature" (1980), 67--85.
+We'll review the course aims, assignments, and general plan for our 1/2 semester together.
+- What is your definition of "nature"?
+- Why do conceptions of "nature" matter?
+  - To better answer that question, read Gavin Lamb, [Nature: The Most Complex Word in the English Language](https://medium.com/curious/nature-the-most-complex-word-in-the-english-language-8992b983f0e3)
+
 
 
 ### 10/19: Considering Nature
+- Raymond Williams, "Ideas of Nature" (1980), 67--85.
 - D. W. Meinig, "The Beholding Eye: Ten Versions of the Same Scene" (1979), 33--48.
-- John Hay, "The Nature Writer's Dilemma" (1987), 7--10.
-- Frédéric Ducarme and Denis Couvet, “What Does ‘Nature’ Mean?” (2020), 1–8.
 - Leo Marx, "The Idea of Nature in America", in Zotero as a PDF and [online](https://www.amacad.org/publication/idea-nature-america) (2008), 8--21.
+
+#### Noteworthy
+- Frédéric Ducarme and Denis Couvet, “What Does ‘Nature’ Mean?” (2020), 1–8.
+- John Hay, "The Nature Writer's Dilemma" (1987), 7--10.
 
 
 
@@ -38,33 +36,42 @@ We'll review the course aims, assignments, and general plan for our 1/2 semester
 
 ### 10/24: Nature vs. Culture
 - Frederick Turner, "Cultivating the American Garden" (1985), 45--52.
-- Michael Pollan, _Second Nature_ [Ch. 2: Nature Abhors a Garden; Ch. 6: Weeds are Us] (1991), 37--53; 98--116.
-- Ylva Uggla, “What is this thing called ‘natural’? The nature-culture divide in climate change and biodiversity policy” (2010), 79--87.
-
-
-### 10/26: NO CLASS
-
-Wilderness
-- William Cronon, "The Trouble with Wilderness: Or, Getting Back to the Wrong Nature" (1996), 7--25.
 - Michael Pollan, _Second Nature_ [Ch. 10: The Idea of a Garden] (1991), 176--201.
+- William Cronon, "The Trouble with Wilderness: Or, Getting Back to the Wrong Nature" (1996), 7--25.
+
+
+### 10/26: NO CLASS: Early Modern Nature
+We're not meeting today, but you should read the following and prepare the pre-class reflection as usual (to bring next Monday). 
+- Carolyn Merchant, _The Death of Nature_ [Ch. 5: Nature as Disorder] (1980), 127--148.
+- Carolyn Merchant, _The Death of Nature_ [Ch. 7: Dominion over Nature] (1980), 164--190.
+
+
+#### Noteworthy
+- Lynn White, Jr., "The Historical Roots of Our Ecological Crisis" (1967), 173--181.
 
 
 
 ## Week 3
 
-### 10/31: Early American Nature
-- Richard White, "Discovering Nature in North America" (1992), 874--891.
-- Noel Perrin, "Forever Virgin: The American View of America" (1989), 13--22.
-- Arthur Ekirch, Jr., _Man and Nature in America_ (1973) (2: The Agrarian Dream), 10--21.
-- _American Georgics_, 9--27.
+### 10/31: Early American Nature (add Merchant and Recovery)
+- Discussion of Early Modern Nature readings from last week
+- Carolyn Merchant, _Reinventing Eden: Western Culture as a Recovery Narrative_ [Chapters 4--6], 65--143.
+
 - George Catlin, _Letters and Notes on the North American Indians_ (Letters 2 and 10), 14--22; 66--79.
 
 
-### 11/2: NO CLASS
+#### Noteworthy
+- Noel Perrin, "Forever Virgin: The American View of America" (1989), 13--22.
+- Richard White, "Discovering Nature in North America" (1992), 874--891.
+- Arthur Ekirch, Jr., _Man and Nature in America_ (1973) (2: The Agrarian Dream), 10--21.
+- _American Georgics_, 9--27.
 
 
-Romantic Nature
+
+### 11/2: NO CLASS: Romantic + Landscape Natures
+Same drill as last week: no meeting today but a new topic to explore for your usual pre-class assignments and discussion on Monday. Make sure to post your writing assignment by Thursday!
 - Arthur Ekirch, Jr., _Man and Nature in America_ [3: The Romantic View] (1973), 22--34.
+- Roderick Frazier Nash, _Wilderness and the American Mind_ [4: The _American_ Wilderness], 67--83.
 - Ronald Rees, “Constable, Turner, and Views of Nature in the Nineteenth Century” (1982), 253--69.
 - Thomas Cole, "Essay on American Scenery" _American Monthly Magazine_ vol 1. (1836), 1--12.
 
@@ -73,68 +80,82 @@ Romantic Nature
 
 ## Week 4
 ### 11/7: Transcendentalist Nature
+- Discussion of Romanic Nature from last week's readings.
 - Arthur Ekirch, Jr., _Man and Nature in America_ [Chs. 5 and 6: Emerson and Thoreau] (1973), 47--69.
-- Ralph Waldo Emerson, "Nature" (1836), 7--53. These are really small pages, so it's not as much reading as it looks like.
+- Ralph Waldo Emerson, "Nature" (1836), 7--53. These are really small pages, so it's not as much reading as it looks like. The idea is to get a sense of how Emerson thinks about nature, not read in great detail.
 - Henry David Thoreau, "Walking" (1851), 59--92.
+- Roderick Frazier Nash, _Wilderness and the American Mind_ [9: The Wilderness Cult], 141--160.
 
 
 
 ### 11/9: Preserving and Conserving Nature
 - John M. Meyer, "Gifford Pinchot, John Muir, and the Boundaries of Politics in American Thought" (1997), 267--84.
 - _Gifford Pinchot: Selected Writings_, 1--18 (skim over the biographical details, but pay attention to the personal experiences that shaped his views of nature); 21--33 (pay attention to the time and contexts when Pinchot wrote these short pieces).
-- Miles A. Powell, “‘Pestered with Inhabitants’: Aldo Leopold, William Vogt, and More Trouble with Wilderness” (2015), 195–226.
+- John Muir, [Treasures of the Yosemite](https://vault.sierraclub.org/john_muir_exhibit/writings/the_treasures_of_the_yosemite/).
+- John Burroughs, "The Spell of Yosemite", 169--175.
 - John Muir, [My First Summer in the Sierra](https://www.google.com/books/edition/My_First_Summer_in_the_Sierra/ymNIAAAAMAAJ?hl=en&gbpv=1) (1911), 3--25.
 
 
 
 ## Week 5
-### 11/14: Environmentalism
-- Donald Worster, _The Wealth of Nature_ 3--63.
+### 11/14: Environmental Ethics
+- Roderick Frazier Nash, _Wilderness and the American Mind_ [11: Aldo Leopold: Prophet], 182--199.
+- Aldo Leopold, "Wildlife in American Culture", 1--6.
+- Aldo Leopold, _Sand County Almanac_
+- Rachel Carson, _Silent Spring_
+
+#### Noteworthy
+- Miles A. Powell, “‘Pestered with Inhabitants’: Aldo Leopold, William Vogt, and More Trouble with Wilderness” (2015), 195–226.
+
 
 
 ### 11/16: Landscape Stories
 - J. B. Jackson, _Sense of Place, A Sense of Time_ (1994), 15--25.
 - Leslie Marmon Silko, "Landscape, History and the Pueblo Imagination", 83--94.
 - Keith H. Basso, "'Stalking with Stories': Names, Places, and Moral Narratives Among the Western Apache", 95--116.
+
+#### Noteworthy
 - Margaret Wickens Pearce and Renee Pualani Louis, “Mapping Indigenous Depth of Place” (2008): 107--26.
 
 
 
 ## Week 6
-### 11/21: Place Memory
-- Oliver Zimmer, “In Search of Natural Identity: Alpine Landscape and the Reconstruction of the Swiss Nation” (1998), 637--48.
-- Margaret E. Farrar, “Amnesia, Nostalgia, and the Politics of Place Memory” (2011), 723--35.
-- Dolores Hayden, _The Power of Place_ [Ch. 2:Sense of Place and Politics of Space] (1995), 15--43.
-
-
-### 9/28: NO CLASS
-Constructing Landscapes
+### 11/21: Real and Fake Nature
 - Anne Whiston Spirn, "Constructing Nature: The Legacy of Frederick Law Olmstead", 91--113.
-- Audrey J Horning, "Of Saints and Sinners: Mythic Landscapes of the Old and New South" [from _Myth, Memory, and the Making of the American Landscape_] (2001), 21--39.
-- Paul Claval, "Changing Conceptions of Heritage and Landscape" (from _Heritage, Memory and the Politics of Identity_), 85--92.
+- Bill McKibben, _The End of Nature_, [Ch. 2: The End of Nature] (1989), 40--78.
+Our key question here is how much should we be worried about the end of nature if we can construct it? Or is that simply impossible by the very definition of natural?
+- Discussion: Colonization on Mars has just begun after finding a giant layer of ice buried beneath the surface. You have been appointed the Director of Nature, and you need to provide a vision statement for how to create nature on Mars. How do you want people to think about nature when the duality between natural nature and manufactured nature is so stark? 
+
+
+### 11/23: NO CLASS: EAT WELL! 
 
 
 
 ## Week 7
-### 11/28: The existence of Nature
-- Lynn White, Jr., "The Historical Roots of Our Ecological Crisis" (1967), 173--181.
-- Carolyn Merchant, _The Death of Nature_ [Ch. 1: Nature as Female] (1980), 1--41.
-- Bill McKibben, _The End of Nature_, [Ch. 2: The End of Nature] (1989), 40--78.
+### 11/28: Consuming Nature
+- James Morton Turner, "From Woodcraft to  'Leave No Trace'", 137--169.
+- Jennifer Price "Nature at the Mall", 186--202.
+- Also in class: Nature on Instagram and Google Images. How do we interpret these images in light of course readings?
 
 
-### 11/30: Reframing Nature
-- Carolyn Merchant, "Reinventing Eden: Western Culture as a Recovery Narrative", 132--159.
-- Frederick Turner, "[Life on Mars: Cultivating a Planet — And Ourselves](http://frederickturnerpoet.com/?page_id=88)".
+#### Noteworthy
+- Phoebe S. K. Young, _Camping Grounds_ [Ch. 5: The Back-to-Nature Crowd], 195--240.
 
+
+
+### 11/30: Applying Nature: Natural Stuff
+A main goal of this class is to make it easier to think of how the idea of nature permeates so many things we interact with. Like childbirth. Like food. So how we can we apply definitions of nature (in general) as we've seen it change over time to something more specific like food (like we see in so many contexts now)?
+- Alan Levinovitz, _Natural_ [Chapters 1 and 2], 15--34; 35--58.
 
 
 ## Week 8: FINALLY
 
-## 12/5: Course Wrap-up
+## 12/5: Course Wrap-up + Final reflection hints
 
+## 12/7: NO CLASS
 
 {% include alert.html class='danger' title='DUE: Final Course Reflection' text="
-Final Essays should be submitted before you go to bed on May 14th (or perhaps early Saturday morning). If you need a few more days, that's fine, but you must email me to let me know (you don't need to ask, just let me know). Grades are due in the middle of the week so there isn't much more leeway I can give you, unless you want to take an Incomplete.
+Final Essays should be submitted before you go to bed on December 14th (or perhaps early Saturday morning). If you need a few more days, that's fine, but you must email me to let me know (you don't need to ask, just let me know). Grades are due in the middle of the week so there isn't much more leeway I can give you, unless you want to take an Incomplete (which is fine if you have a specific plan for completing the work quickly).
 
-See the [final essay guide](final-essay-guide) for more details. And review the [revision guide](writing-advice) after you've got a solid first draft!
+See the [final essay guide](final-reflection-guide) for more details. And review the [revision guide](writing-advice) after you've got a solid first draft!
 "%}

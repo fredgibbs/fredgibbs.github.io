@@ -11,26 +11,27 @@ section: home
 
 ## Logistics
 - HIST 300-005
-- 3 Credit Hours (2 2.5 hour meetings on Mon and Wed for 8 weeks, starting after Fall Break)
-- MW 3:00 -- 5:30 (probably closer to 5 most days)
+- 3 Credit Hours (2.5-hour meetings on Mon and Wed for 8 weeks, starting after Fall Break)
+- MW 3:00 -- 5:30 (usually we'll get out early)
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
 - Student Hours: Wednesday 1:45--2:45 and by appointment.
 
 ## Course Description
-Nature is often understood as space outside of human influence. Yet while there might be objective laws of nature that we can discover, the very idea of nature itself is a fascinating window onto cultural values. This course explores the idea of nature in America. We examine spiritual, romantic, industrial, recreational, philosophical, and environmental views of nature and how these have played off each other over the last 400+ years.
+Nature is often understood as space outside of human influence. Yet while there might be objective laws of nature that we can discover, the very idea of nature itself is a fascinating window onto cultural values. This course explores the idea of nature in America. We examine spiritual, romantic, industrial, recreational, philosophical, and environmental views of nature (among others) and how these have played off each other over the last 400+ years.
 
 ## Student Learning Outcomes
-- Describe how the attitudes towards nature have shifted over time.
+- Summarize key points from different kinds of readings about nature
+- Describe how American attitudes towards nature have shifted over time and what precipated those changes.
+- Analyze how different conceptions of nature are at work in different kinds of writing about the natural world.
 - Articulate how landscapes of all kinds mediates our relationship to the past, present, and future.
-- Explain how landscape can influence constructions of identities at personal, regional, and national levels.
 
 
 ## Readings & Assignments
-Note at the top of the page, the link to the SCHEDULE page of the syllabus!
+Note at the top of this page, there is a link to our [SCHEDULE page](schedule)! All the readings and assignments are listed there. This page is dedicated to course logistics. We are not using Canvas for anything!
 
-Please note that the schedule is a living document and changes depending on what's going on in the course. If you print it out (please avoid if possible), you'll need to keep your paper version up to date with the online version. If you keep a browser tab open all semester, make sure you refresh it when you go to look up the next assignment.
+Please note that the schedule is a living document and changes depending on what's going on in the course. If you print it out (please avoid if possible to avoid the irony of killing trees in a class about nature), you'll need to keep your paper version up to date with the online version. If you keep a browser tab open all semester, make sure you refresh it whenever you go to look something up.
 
-To access all other articles and book chapters on the syllabus, we use a tool called Zotero to manage and provide access to articles and chapter scans. All readings that aren't already online (and some that are) will be available through the class Zotero library.
+To access all articles and book chapters on the syllabus, we use a tool called Zotero to manage and provide access to articles and chapter scans. **All readings that aren't already online (and some that are) will be available through the class Zotero library.**
 
 
 ## Connecting to Zotero
@@ -58,36 +59,53 @@ For almost everything we read, we're reading to ENGAGE with it, NOT because it's
 
 
 ## Work Requirements and Grading
-Thorough preparedness and engaged participation in most every class meeting.  Because this course is focused on cultivating different perspectives about how we can think about the relationship between nature, landscape, and identity, your **active participation in the course is essential**. (25%)
 
-### Reading Reflections (~250 words, and DUE BEFORE CLASS)
-These encourage everyone to read carefully enough to have something to say about the readings and be prepared for our discussion. No one is interested in factual recitation of the readings. These should focus on interesting conceptual issues raised by the readings. These should also include TWO big-picture questions about the topic for the day based on the reading. (25%)
+### Attendance, attention, participation (20%)
+Preparedness and engaged participation in most every class meeting. Lots of absences negatively impact your grade. You should come to class with something to say; it can be what you wrote in the pre-class reflections. Always be prepared to comment on the questions below, what you found interesting in the readings, and ask thoughtful questions. 
 
-### Weekly Reflections (~500 words and DUE MIDNIGHT FRIDAY)
-These will demonstrate your familiarity with the readings and discussions for the week. I highly recommend taking some notes in preparation for these while you read and during class. Even the most cursory reminders go a long way. There's nothing specific I'm looking for you to say. Just tell me about what you learned and what you thought was interesting or kind of boring. **Be sure to give some explanation of why you have whatever opinion you do!** (25%)
 
-### Final Essay (~1200-words)
-See the [final essay guide](final-essay-guide) for more details. (25%)
+### Pre-class reflections (60%)
+These should be PRINTED OUT and brought to class each day (unless otherwise specified). Yes: old school.
+- Make sure you have only ONE piece of paper and about 300 words
+- 1" margins and 1.5 spacing
+- Digital copies are NOT accepted. If you miss class, bring it to the next one.
+- No late penalty for one class late; 1 points per class after that (unless we've made other arrangements)
+- Make sure you have separate paragraphs for different ideas. Single paragraphs will be returned.
+- You can use a bullet point / outline format if you want, but be careful!
+- Scored as 1-4; roughly like grade points [Needs Work / Satisfactory / Good / Excellent]
+- All these add up to about 60% of your grade.
+- Everyone can skip one reflection, no questions asked.
+
+Unless I provide other instructions for a special assignment (which will be noted on the syllabus), here's what I expect:
+
+Please DO NOT SUMMARIZE the readings one by one. I'm looking for how you can compare and contrast them, and relate them to previous course material. You should answer the same questions for each group of readings and give specific examples:
+- Where did you see the most overlap between the readings? In other words, what are the major themes they have in common?
+- Where did the readings differ in significant ways in terms of disagreement or simply different perspectives?
+- How did the set of readings offer a different way of thinking about nature compared to previous readings?
+- If applicable: How do the primary sources illustrate what's being discussed by the secondary sources?
+
+
+### Final Course Reflection (20%)
+See the [final course reflection guide](final-reflection-guide) for more details.
+
+
+### Extra Credit 
+If you want to raise your grade by one or two notches (B to B+ or A-, for instance), write a \~600-word essay on the [Landscape exhibit](https://www.cabq.gov/artsculture/albuquerque-museum/exhibitions/landscapes) on display at the Albuquerque Museum. Note that the Cole's Studio part starts Nov 18, but everything else has already started.
 
 
 ### Grading is mostly about effort
 **There are no right answers!** All assignments are graded primarily on what it looks like your effort to connect to course readings and discussions and to highlight what you found most interesting (which we do in class discussion as well). If you actually do the readings, come to class, and make a serious effort to show me you've learned something, **it's almost impossible NOT to get an A**.
 
+If you disagree with my score, send me an email explaining why it's wrong and I'll adjust your grade.
 
-### Submission Policies
-To keep us on schedule, late work will be penalized 1/3 grade for each day late UNLESS due to a medical issue or other extenuating circumstances (not uncommon these days!). You should let me know about these ASAP and let me know when you plan get caught up. **I'm always happy to be flexible and allow you to submit work late for full credit _as long as you're communicating what's going on_**.
-
-Do not stress about submitting work a few or minutes or even hours late. That's fine. But unless you've gotten in touch with me, days late is not okay. We have to vaguely respect the deadlines to keep from falling hopelessly behind in a compressed course.
+Whether you agree or not with the score and want to improve it, revise the reflection and resubmit it with the original.
 
 
 ### Feedback
-Because all your assignments are scored via a rubric on Canvas, the rubrics provide some feedback about areas where you could improve. I try to provide some comments as well, but I'm not able to do this thoroughly for everyone for each assignment. That said, if you want more feedback on any assignment, please ask via email and I will be happy to provide it!
+I try to provide some comments on your reflections, but I'm not able to do this thoroughly for everyone for each assignment. That said, if you want more feedback on any assignment, please ask via email and I will be happy to provide it! 
 
 More generally, please please please email me at any time to learn how I think you're doing in the class and how it can be improved (if at all). This can be via email or Zoom (in addition to student hours on Wednesday afternoons).
 
-{% include alert.html class='warning' title='Sh!t happens' text="
-If life gets overwhelming during the course (and _something_ will come up over the month!), it's easy to miss a few assignment and feel you're hopelessly behind. Rather than assume the worst, let's talk about how we can accommodate your circumstances, including shifting deadlines, figuring out a target grade that you can meet with reduced assignments, switching to CR/NC grade mode, taking an Incomplete to buy a little extra time, etc. Please get in touch and let me know what would help you!
-"%}
 
 
 ### Grade Distribution
@@ -107,10 +125,10 @@ Percent of points | Grade
 59- | F
 
 
-### Please Ask for Help
-Please please please come talk me at any time. I'm alway happy to tell you how I think you're doing in the class and how it can be improved (if at all).
+{% include alert.html class='warning' title='Sh!t happens' text="
+If life gets overwhelming during the course (and _something_ will come up over the next 8 weeks!), it's easy to miss a few assignment and feel you're hopelessly behind. Rather than assume the worst, let's talk about how we can accommodate your circumstances, including shifting deadlines, figuring out a target grade that you can meet with reduced assignments, switching to CR/NC grade mode, taking an Incomplete to buy a little extra time, etc. Please get in touch and let me know what would help you!
+"%}
 
-If life gets overwhelming during the course, it can be tempting to drift away from an elective course like this. Rather than disappear, please come talk with me about how we can accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
 
 
 ## Important UNM Announcements and Resources
@@ -118,7 +136,7 @@ If life gets overwhelming during the course, it can be tempting to drift away fr
 ### COVID-19 Health and Awareness
 UNM is a mask friendly, but not a mask required, community. To be registered or employed at UNM, Students, faculty, and staff must all meet UNM's Administrative Mandate on Required COVID-19 vaccination. UNM faculty and staff know that these are challenging times. Please let us know that you need support so that we can connect you to the right resources and please be aware that UNM will publish information on websites and email about any changes to our public health status and community response.
 
-**If you are not feeling well, PLEASE DO NOT COME TO CLASS!** There is no grade penalty for missed classes due to illness of any kind. If you need to quarantine, and miss several classes, that's fine, but please let me know what's going on. We'll work it out and I'll help you stay caught up. You will still be expected to complete assignments within a reasonable amount of time, but I'm trying to err on the side of compassion and be very flexible with deadlines.
+**If you are not feeling well, PLEASE DO NOT COME TO CLASS!** There is no grade penalty for missed classes due to illness of any kind. If you need to quarantine, and miss several classes, that's fine, but please let me know what's going on. We'll work it out and I'll help you stay caught up. You will still be expected to complete assignments within a reasonable amount of time, but I'm very flexible with deadlines as long as you're communicating.
 
 
 ### Respectful Learning
