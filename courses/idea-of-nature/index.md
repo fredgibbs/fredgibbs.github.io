@@ -29,7 +29,7 @@ Nature is often understood as space outside of human influence. Yet while there 
 ## Readings & Assignments
 Note at the top of this page, there is a link to our [SCHEDULE page](schedule)! All the readings and assignments are listed there. This page is dedicated to course logistics. We are not using Canvas for anything!
 
-Please note that the schedule is a living document and changes depending on what's going on in the course. If you print it out (please avoid if possible to avoid the irony of killing trees in a class about nature), you'll need to keep your paper version up to date with the online version. If you keep a browser tab open all semester, make sure you refresh it whenever you go to look something up.
+Please note that the schedule is a living document and changes depending on what's going on in the course. If you print it out (not recommended), you'll need to keep your paper version up to date with the online version, which will be a serious chore. If you keep a browser tab open all semester, make sure you refresh it whenever you go to look something up.
 
 To access all articles and book chapters on the syllabus, we use a tool called Zotero to manage and provide access to articles and chapter scans. **All readings that aren't already online (and some that are) will be available through the class Zotero library.**
 

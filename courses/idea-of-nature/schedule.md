@@ -21,10 +21,10 @@ We'll review the course aims, assignments, and general plan for our 1/2 semester
 
 
 
-### 10/19: Considering Nature
-- Raymond Williams, "Ideas of Nature" (1980), 67--85.
+### 10/19: Considering Nature at Scale
 - D. W. Meinig, "The Beholding Eye: Ten Versions of the Same Scene" (1979), 33--48.
-- Leo Marx, "The Idea of Nature in America", in Zotero as a PDF and [online](https://www.amacad.org/publication/idea-nature-america) (2008), 8--21.
+- READ CAREFULLY: Raymond Williams, "Ideas of Nature" (1980), 67--85. This reading is a challenge at times! But the many excellent ideas about different ways to think about nature--and how it's changed over time--make it worth the effort. Be prepared to describe the ideas that you were able to get out of it and our discussion should clarify the rest. 
+- SKIM CAREFULLY: Leo Marx, "The Idea of Nature in America", in Zotero as a PDF and [online](https://www.amacad.org/publication/idea-nature-america) (2008), 8--21. This reading provides an overview of many themes and ideas we'll explore throughout the course. It will be very useful for you to be familiar with it, but we'll do our own overview in class.
 
 #### Noteworthy
 - Frédéric Ducarme and Denis Couvet, “What Does ‘Nature’ Mean?” (2020), 1–8.
@@ -95,16 +95,19 @@ Same drill as last week: no meeting today but a new topic to explore for your us
 - John Burroughs, "The Spell of Yosemite", 169--175.
 - John Muir, [My First Summer in the Sierra](https://www.google.com/books/edition/My_First_Summer_in_the_Sierra/ymNIAAAAMAAJ?hl=en&gbpv=1) (1911), 3--25.
 
+#### Noteworthy
+- Roderick Frazier Nash, _Wilderness and the American Mind_ [10: Hetch Hetchy], 161--181.
 
 
 ## Week 5
 ### 11/14: Environmental Ethics
-- Roderick Frazier Nash, _Wilderness and the American Mind_ [11: Aldo Leopold: Prophet], 182--199.
 - Aldo Leopold, "Wildlife in American Culture", 1--6.
-- Aldo Leopold, _Sand County Almanac_
-- Rachel Carson, _Silent Spring_
+- Aldo Leopold, _Sand County Almanac_, 
+- Rachel Carson, _Silent Spring_, 5--37.
+- Jack Keroac, "Alone on a Mountaintop",  218--228.
 
 #### Noteworthy
+- Roderick Frazier Nash, _Wilderness and the American Mind_ [11: Aldo Leopold: Prophet], 182--199.
 - Miles A. Powell, “‘Pestered with Inhabitants’: Aldo Leopold, William Vogt, and More Trouble with Wilderness” (2015), 195–226.
 
 
@@ -113,9 +116,10 @@ Same drill as last week: no meeting today but a new topic to explore for your us
 - J. B. Jackson, _Sense of Place, A Sense of Time_ (1994), 15--25.
 - Leslie Marmon Silko, "Landscape, History and the Pueblo Imagination", 83--94.
 - Keith H. Basso, "'Stalking with Stories': Names, Places, and Moral Narratives Among the Western Apache", 95--116.
+- SKIM: Margaret Wickens Pearce and Renee Pualani Louis, “Mapping Indigenous Depth of Place” (2008): 107--113 (skim through 126). 
+- DIscussion: Mental Place Maps
 
 #### Noteworthy
-- Margaret Wickens Pearce and Renee Pualani Louis, “Mapping Indigenous Depth of Place” (2008): 107--26.
 
 
 
@@ -150,9 +154,13 @@ A main goal of this class is to make it easier to think of how the idea of natur
 
 ## Week 8: FINALLY
 
-## 12/5: Course Wrap-up + Final reflection hints
+## 12/5: TBD 
 
-## 12/7: NO CLASS
+## 12/7: Course Wrap-up + Final reflection hints
+- No reading reflection due today, but try your best with:
+  - _Uncommon Ground_,  447--459.
+  - Kate Soper, _What is Nature?_, 249--278.
+
 
 {% include alert.html class='danger' title='DUE: Final Course Reflection' text="
 Final Essays should be submitted before you go to bed on December 14th (or perhaps early Saturday morning). If you need a few more days, that's fine, but you must email me to let me know (you don't need to ask, just let me know). Grades are due in the middle of the week so there isn't much more leeway I can give you, unless you want to take an Incomplete (which is fine if you have a specific plan for completing the work quickly).
