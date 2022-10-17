@@ -18,12 +18,14 @@ We'll review the course aims, assignments, and general plan for our 1/2 semester
 - What is your definition of "nature"?
 - Why do conceptions of "nature" matter?
   - To better answer that question, read Gavin Lamb, [Nature: The Most Complex Word in the English Language](https://medium.com/curious/nature-the-most-complex-word-in-the-english-language-8992b983f0e3)
+  - For the original "Nature" entry, see Williams, _Keywords_ in the Zotero library.
 
 
 
 ### 10/19: Considering Nature at Scale
 - D. W. Meinig, "The Beholding Eye: Ten Versions of the Same Scene" (1979), 33--48.
-- READ CAREFULLY: Raymond Williams, "Ideas of Nature" (1980), 67--85. This reading is a challenge at times! But the many excellent ideas about different ways to think about nature--and how it's changed over time--make it worth the effort. Be prepared to describe the ideas that you were able to get out of it and our discussion should clarify the rest. 
+- Raymond Williams, _Keywords_ (Introduction). This nicely explains why words like "nature" are so revealing. We need to keep this in mind throughout the course.
+- CHALLENGE: Raymond Williams, "Ideas of Nature" (1980), 67--85. This reading is a challenge at times! But the many excellent ideas about different ways to think about nature--and how it's changed over time--make it worth the effort. Be prepared to describe the ideas that you were able to get out of it and our discussion should clarify the rest. 
 - SKIM CAREFULLY: Leo Marx, "The Idea of Nature in America", in Zotero as a PDF and [online](https://www.amacad.org/publication/idea-nature-america) (2008), 8--21. This reading provides an overview of many themes and ideas we'll explore throughout the course. It will be very useful for you to be familiar with it, but we'll do our own overview in class.
 
 #### Noteworthy
