@@ -10,7 +10,7 @@ section: home
 # The Idea of Nature
 
 ## Logistics
-- HIST 300-005
+- HIST 300-005; GEOG 499; SUST 402
 - 3 Credit Hours (2.5-hour meetings on Mon and Wed for 8 weeks, starting after Fall Break)
 - MW 3:00 -- 5:30 (usually we'll get out early)
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
@@ -20,10 +20,11 @@ section: home
 Nature is often understood as space outside of human influence. Yet while there might be objective laws of nature that we can discover, the very idea of nature itself is a fascinating window onto cultural values. This course explores the idea of nature in America. We examine spiritual, romantic, industrial, recreational, philosophical, and environmental views of nature (among others) and how these have played off each other over the last 400+ years.
 
 ## Student Learning Outcomes
-- Summarize key points from different kinds of readings about nature
-- Describe how American attitudes towards nature have shifted over time and what precipated those changes.
-- Analyze how different conceptions of nature are at work in different kinds of writing about the natural world.
+- Summarize key ideas about nature from different kinds of readings.
+- Describe how American attitudes towards nature have shifted over time and what precipitated those changes.
+- Explain how words like "nature" act as valuable windows onto culture.
 - Articulate how landscapes of all kinds mediates our relationship to the past, present, and future.
+- Analyze how different conceptions of nature inform different kinds of discourse.
 
 
 ## Readings & Assignments
@@ -31,7 +32,7 @@ Note at the top of this page, there is a link to our [SCHEDULE page](schedule)! 
 
 Please note that the schedule is a living document and changes depending on what's going on in the course. If you print it out (not recommended), you'll need to keep your paper version up to date with the online version, which will be a serious chore. If you keep a browser tab open all semester, make sure you refresh it whenever you go to look something up.
 
-To access all articles and book chapters on the syllabus, we use a tool called Zotero to manage and provide access to articles and chapter scans. **All readings that aren't already online (and some that are) will be available through the class Zotero library.**
+To access all articles and book chapters on the syllabus, we use a tool called Zotero to manage and provide access to articles and chapter scans. **ALL readings that aren't already online will be available through the class Zotero library. You will NEVER have to find anything on your own.**
 
 
 ## Connecting to Zotero
@@ -61,22 +62,24 @@ For almost everything we read, we're reading to ENGAGE with it, NOT because it's
 ## Work Requirements and Grading
 
 ### Attendance, attention, participation (20%)
-Preparedness and engaged participation in most every class meeting. Lots of absences negatively impact your grade. You should come to class with something to say; it can be what you wrote in the pre-class reflections. Always be prepared to comment on the questions below, what you found interesting in the readings, and ask thoughtful questions. 
+Preparedness and engaged participation in most every class meeting. Lots of absences negatively impact your grade. You should come to class with something to say; it can be what you wrote in the pre-class reflections. Always be prepared to comment on the questions below, what you found interesting in the readings, and ask thoughtful questions.
 
 
 ### Pre-class reflections (60%)
-These should be PRINTED OUT and brought to class each day (unless otherwise specified). Yes: old school.
-- Make sure you have only ONE piece of paper and about 300 words
-- 1" margins and 1.5 spacing
-- Digital copies are NOT accepted. If you miss class, bring it to the next one.
-- No late penalty for one class late; 1 points per class after that (unless we've made other arrangements)
-- Make sure you have separate paragraphs for different ideas. Single paragraphs will be returned.
-- You can use a bullet point / outline format if you want, but be careful!
-- Scored as 1-4; roughly like grade points [Needs Work / Satisfactory / Good / Excellent]
-- All these add up to about 60% of your grade.
+These should be PRINTED OUT and brought to class each day (unless otherwise specified). Yes, old school.
+- Your name, date, and topic at the top on a SINGLE LINE
+- 1" margins and 1.5 line spacing (important so I have room for comments)
+- \~300 words (basically a full page)
+- Make sure you have only ONE PIECE OF PAPER! (you can print double-sided if you need to.)
+- Digital copies are NOT accepted. If you miss class, bring your reflection to the next class.
+- No late penalty for one class late; 1 points per class after that (unless you've talked to me)
+- Make sure you have separate paragraphs for different ideas. Single paragraphs will be returned!
+- You can use a bullet point / outline format if you want, but be careful (easy to be too superficial)!
+- Scored as 1-4; roughly like grade points [1=Needs Work / 2=Satisfactory / 3=Good / 4=Excellent]
+- These are meant to be low-stakes, consistent assignments to show you're doing the reading.
 - Everyone can skip one reflection, no questions asked.
 
-Unless I provide other instructions for a special assignment (which will be noted on the syllabus), here's what I expect:
+Unless I provide other instructions for a special assignment (which will be noted on the syllabus), here's what I expect in your pre-class reflections:
 
 Please DO NOT SUMMARIZE the readings one by one. I'm looking for how you can compare and contrast them, and relate them to previous course material. You should answer the same questions for each group of readings and give specific examples:
 - Where did you see the most overlap between the readings? In other words, what are the major themes they have in common?
@@ -86,34 +89,27 @@ Please DO NOT SUMMARIZE the readings one by one. I'm looking for how you can com
 
 
 ### Final Course Reflection (20%)
-See the [final course reflection guide](final-reflection-guide) for more details.
+See the [final course reflection guide](final-reflection-guide) for more details. Please submit via email.
 
 
-### Extra Credit 
-If you want to raise your grade by one or two notches (B to B+ or A-, for instance), write a \~600-word essay on the [Landscape exhibit](https://www.cabq.gov/artsculture/albuquerque-museum/exhibitions/landscapes) on display at the Albuquerque Museum. Note that the Cole's Studio part starts Nov 18, but everything else has already started.
+### Extra Credit
+If you want to try to raise your grade by a notch (B+ to A-, for instance), write a \~600-word essay on the how you can use the sources from the course to interpret the newish [Landscape exhibit](https://www.cabq.gov/artsculture/albuquerque-museum/exhibitions/landscapes) on display at the Albuquerque Museum. Note that the _Cole's Studio_ part starts Nov 18, but everything else has already started. Please submit via email.
 
 
 ### Grading is mostly about effort
 **There are no right answers!** All assignments are graded primarily on what it looks like your effort to connect to course readings and discussions and to highlight what you found most interesting (which we do in class discussion as well). If you actually do the readings, come to class, and make a serious effort to show me you've learned something, **it's almost impossible NOT to get an A**.
 
-If you disagree with my score, send me an email explaining why it's wrong and I'll adjust your grade.
-
-Whether you agree or not with the score and want to improve it, revise the reflection and resubmit it with the original.
-
-
-### Feedback
-I try to provide some comments on your reflections, but I'm not able to do this thoroughly for everyone for each assignment. That said, if you want more feedback on any assignment, please ask via email and I will be happy to provide it! 
-
-More generally, please please please email me at any time to learn how I think you're doing in the class and how it can be improved (if at all). This can be via email or Zoom (in addition to student hours on Wednesday afternoons).
-
-
+#### For the pre-class reflections
+- If you write more to show you learned more, you can get extra credit (but still 1 page max!).
+- If you disagree with my score, send me an email explaining why it's wrong. If you're convincing, I'll adjust your grade.
+- Whether you agree or not with the score and want to improve it, revise the reflection and resubmit it with the original.
 
 ### Grade Distribution
 
 Percent of points | Grade
 --- | ---
-94+ | A
-90-93 | A-
+93+ | A
+90-92 | A-
 87-89 | B+
 83-86 | B
 80-82 | B-
@@ -125,9 +121,16 @@ Percent of points | Grade
 59- | F
 
 
+### Feedback
+I try to provide some comments on your reflections, but I'm not able to do this thoroughly for everyone for each assignment. That said, if you want more feedback on any assignment, please ask before or after class--I'd love to talk about it!
+
+More generally, please please please email me at any time to learn how I think you're doing in the class and how it can be improved (if at all). This can be via email or Zoom (in addition to student hours on Wednesday afternoons).
+
 {% include alert.html class='warning' title='Sh!t happens' text="
-If life gets overwhelming during the course (and _something_ will come up over the next 8 weeks!), it's easy to miss a few assignment and feel you're hopelessly behind. Rather than assume the worst, let's talk about how we can accommodate your circumstances, including shifting deadlines, figuring out a target grade that you can meet with reduced assignments, switching to CR/NC grade mode, taking an Incomplete to buy a little extra time, etc. Please get in touch and let me know what would help you!
+If life gets overwhelming during the course (and _something_ will come up over the next 8 weeks!), it's easy to miss a few classes or assignments and feel you're hopelessly behind. Rather than assume the worst, let's talk about how we can accommodate your circumstances--including shifting deadlines, figuring out a target grade that you can meet with reduced assignments, switching to CR/NC grade mode, taking an Incomplete to buy a little extra time, etc. Please get in touch and let me know what would help you!
 "%}
+
+
 
 
 
