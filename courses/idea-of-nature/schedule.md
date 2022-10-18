@@ -33,6 +33,10 @@ We'll review the course aims, assignments, and general plan for our 1/2 semester
 - John Hay, "The Nature Writer's Dilemma" (1987), 7--10.
 
 
+{% include alert.html class='danger' title='First Reading Reflections Due TODAY (10/19)' text="
+Please remember that you have a reading reflection due each day we have class. The instructions are on the [home page](index) of the syllabus that we discussed on Monday. Just to be clear: your reflections should be about the readings for TODAY (10/19). One of the main goals of the reflections is to help you prepare for class discussion. Remember, just one piece of paper, but double-sided printing is fine. They should be at least 300 words (which is a little less than a page), but showing more engagement gets you more points!
+"%}
+
 
 ## Week 2
 
