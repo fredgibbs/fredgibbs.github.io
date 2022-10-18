@@ -59,16 +59,15 @@ We're not meeting today, but you should read the following and prepare the pre-c
 
 ## Week 3
 
-### 10/31: Early American Nature (add Merchant and Recovery)
+### 10/31: Early American Nature 
 - Discussion of Early Modern Nature readings from last week
 - Carolyn Merchant, _Reinventing Eden: Western Culture as a Recovery Narrative_ [Chapters 4--6], 65--143.
-
 - George Catlin, _Letters and Notes on the North American Indians_ (Letters 2 and 10), 14--22; 66--79.
 
 
 #### Noteworthy
-- Noel Perrin, "Forever Virgin: The American View of America" (1989), 13--22.
 - Richard White, "Discovering Nature in North America" (1992), 874--891.
+- Noel Perrin, "Forever Virgin: The American View of America" (1989), 13--22.
 - Arthur Ekirch, Jr., _Man and Nature in America_ (1973) (2: The Agrarian Dream), 10--21.
 - _American Georgics_, 9--27.
 
@@ -80,7 +79,6 @@ Same drill as last week: no meeting today but a new topic to explore for your us
 - Roderick Frazier Nash, _Wilderness and the American Mind_ [4: The _American_ Wilderness], 67--83.
 - Ronald Rees, “Constable, Turner, and Views of Nature in the Nineteenth Century” (1982), 253--69.
 - Thomas Cole, "Essay on American Scenery" _American Monthly Magazine_ vol 1. (1836), 1--12.
-
 
 
 
@@ -96,13 +94,14 @@ Same drill as last week: no meeting today but a new topic to explore for your us
 
 ### 11/9: Preserving and Conserving Nature
 - John M. Meyer, "Gifford Pinchot, John Muir, and the Boundaries of Politics in American Thought" (1997), 267--84.
+- Kenneth R. Olwig, "Reinventing Common Nature", 379--408.
 - _Gifford Pinchot: Selected Writings_, 1--18 (skim over the biographical details, but pay attention to the personal experiences that shaped his views of nature); 21--33 (pay attention to the time and contexts when Pinchot wrote these short pieces).
 - John Muir, [Treasures of the Yosemite](https://vault.sierraclub.org/john_muir_exhibit/writings/the_treasures_of_the_yosemite/).
 - John Burroughs, "The Spell of Yosemite", 169--175.
-- John Muir, [My First Summer in the Sierra](https://www.google.com/books/edition/My_First_Summer_in_the_Sierra/ymNIAAAAMAAJ?hl=en&gbpv=1) (1911), 3--25.
 
 #### Noteworthy
 - Roderick Frazier Nash, _Wilderness and the American Mind_ [10: Hetch Hetchy], 161--181.
+- John Muir, [My First Summer in the Sierra](https://www.google.com/books/edition/My_First_Summer_in_the_Sierra/ymNIAAAAMAAJ?hl=en&gbpv=1) (1911), 3--25.
 
 
 ## Week 5
@@ -122,11 +121,12 @@ Same drill as last week: no meeting today but a new topic to explore for your us
 - J. B. Jackson, _Sense of Place, A Sense of Time_ (1994), 15--25.
 - Leslie Marmon Silko, "Landscape, History and the Pueblo Imagination", 83--94.
 - Keith H. Basso, "'Stalking with Stories': Names, Places, and Moral Narratives Among the Western Apache", 95--116.
+- J. B. Harley, "New England Cartography and the Native Americans", 170--195.
 - SKIM: Margaret Wickens Pearce and Renee Pualani Louis, “Mapping Indigenous Depth of Place” (2008): 107--113 (skim through 126). 
-- DIscussion: Mental Place Maps
+- DISCUSSION: Mental Place Maps
 
 #### Noteworthy
-
+N. Katherine Hayles, "Simulated Nature and Natural Simulations", 409--425.
 
 
 ## Week 6
@@ -163,9 +163,13 @@ A main goal of this class is to make it easier to think of how the idea of natur
 ## 12/5: TBD 
 
 ## 12/7: Course Wrap-up + Final reflection hints
-- No reading reflection due today, but try your best with:
-  - _Uncommon Ground_,  447--459.
+  - _Uncommon Ground_ [Toward a Conclusion],  447--459.
   - Kate Soper, _What is Nature?_, 249--278.
+
+{% include alert.html class='danger' title='No  reflection due' text="
+No reading reflection due today! But please be prepared to discuss these concluding chapters as a way of wrapping up the course and preparing for your final course reflection
+"%}
+- 
 
 
 {% include alert.html class='danger' title='DUE: Final Course Reflection' text="
