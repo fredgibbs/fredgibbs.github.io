@@ -25,7 +25,7 @@ We'll review the course aims, assignments, and general plan for our 1/2 semester
 ### 10/19: Considering Nature at Scale
 - D. W. Meinig, "The Beholding Eye: Ten Versions of the Same Scene" (1979), 33--48.
 - Raymond Williams, _Keywords_ (Introduction). This nicely explains why words like "nature" are so revealing. We need to keep this in mind throughout the course.
-- CHALLENGE: Raymond Williams, "Ideas of Nature" (1980), 67--85. This reading is a challenge at times! But the many excellent ideas about different ways to think about nature--and how it's changed over time--make it worth the effort. Be prepared to describe the ideas that you were able to get out of it and our discussion should clarify the rest. 
+- CHALLENGE: Raymond Williams, "Ideas of Nature" (1980), 67--85. This reading is a challenge at times! But the many excellent ideas about different ways to think about nature--and how it's changed over time--make it worth the effort. Be prepared to describe the ideas that you were able to get out of it and our discussion should clarify the rest.
 - SKIM CAREFULLY: Leo Marx, "The Idea of Nature in America", in Zotero as a PDF and [online](https://www.amacad.org/publication/idea-nature-america) (2008), 8--21. This reading provides an overview of many themes and ideas we'll explore throughout the course. It will be very useful for you to be familiar with it, but we'll do our own overview in class.
 
 #### Noteworthy
@@ -41,13 +41,15 @@ Please remember that you have a reading reflection due each day we have class. T
 ## Week 2
 
 ### 10/24: Nature vs. Culture
-- Frederick Turner, "Cultivating the American Garden" (1985), 45--52.
 - Michael Pollan, _Second Nature_ [Ch. 10: The Idea of a Garden] (1991), 176--201.
 - William Cronon, "The Trouble with Wilderness: Or, Getting Back to the Wrong Nature" (1996), 7--25.
 
+#### Noteworthy
+- Frederick Turner, "Cultivating the American Garden" (1985), 45--52.
+
 
 ### 10/26: NO CLASS: Early Modern Nature
-We're not meeting today, but you should read the following and prepare the pre-class reflection as usual (to bring next Monday). 
+We're not meeting today, but you should read the following and prepare the pre-class reflection as usual (to bring next Monday).
 - Carolyn Merchant, _The Death of Nature_ [Ch. 5: Nature as Disorder] (1980), 127--148.
 - Carolyn Merchant, _The Death of Nature_ [Ch. 7: Dominion over Nature] (1980), 164--190.
 
@@ -59,7 +61,7 @@ We're not meeting today, but you should read the following and prepare the pre-c
 
 ## Week 3
 
-### 10/31: Early American Nature 
+### 10/31: Early American Nature
 - Discussion of Early Modern Nature readings from last week
 - Carolyn Merchant, _Reinventing Eden: Western Culture as a Recovery Narrative_ [Chapters 4--6], 65--143.
 - George Catlin, _Letters and Notes on the North American Indians_ (Letters 2 and 10), 14--22; 66--79.
@@ -107,7 +109,7 @@ Same drill as last week: no meeting today but a new topic to explore for your us
 ## Week 5
 ### 11/14: Environmental Ethics
 - Aldo Leopold, "Wildlife in American Culture", 1--6.
-- Aldo Leopold, _Sand County Almanac_, 
+- Aldo Leopold, _Sand County Almanac_,
 - Rachel Carson, _Silent Spring_, 5--37.
 - Jack Keroac, "Alone on a Mountaintop",  218--228.
 
@@ -122,7 +124,7 @@ Same drill as last week: no meeting today but a new topic to explore for your us
 - Leslie Marmon Silko, "Landscape, History and the Pueblo Imagination", 83--94.
 - Keith H. Basso, "'Stalking with Stories': Names, Places, and Moral Narratives Among the Western Apache", 95--116.
 - J. B. Harley, "New England Cartography and the Native Americans", 170--195.
-- SKIM: Margaret Wickens Pearce and Renee Pualani Louis, “Mapping Indigenous Depth of Place” (2008): 107--113 (skim through 126). 
+- SKIM: Margaret Wickens Pearce and Renee Pualani Louis, “Mapping Indigenous Depth of Place” (2008): 107--113 (skim through 126).
 - DISCUSSION: Mental Place Maps
 
 #### Noteworthy
@@ -134,10 +136,10 @@ N. Katherine Hayles, "Simulated Nature and Natural Simulations", 409--425.
 - Anne Whiston Spirn, "Constructing Nature: The Legacy of Frederick Law Olmstead", 91--113.
 - Bill McKibben, _The End of Nature_, [Ch. 2: The End of Nature] (1989), 40--78.
 Our key question here is how much should we be worried about the end of nature if we can construct it? Or is that simply impossible by the very definition of natural?
-- Discussion: Colonization on Mars has just begun after finding a giant layer of ice buried beneath the surface. You have been appointed the Director of Nature, and you need to provide a vision statement for how to create nature on Mars. How do you want people to think about nature when the duality between natural nature and manufactured nature is so stark? 
+- Discussion: Colonization on Mars has just begun after finding a giant layer of ice buried beneath the surface. You have been appointed the Director of Nature, and you need to provide a vision statement for how to create nature on Mars. How do you want people to think about nature when the duality between natural nature and manufactured nature is so stark?
 
 
-### 11/23: NO CLASS: EAT WELL! 
+### 11/23: NO CLASS: EAT WELL!
 
 
 
@@ -160,7 +162,7 @@ A main goal of this class is to make it easier to think of how the idea of natur
 
 ## Week 8: FINALLY
 
-## 12/5: TBD 
+## 12/5: TBD
 
 ## 12/7: Course Wrap-up + Final reflection hints
   - _Uncommon Ground_ [Toward a Conclusion],  447--459.
@@ -169,7 +171,7 @@ A main goal of this class is to make it easier to think of how the idea of natur
 {% include alert.html class='danger' title='No  reflection due' text="
 No reading reflection due today! But please be prepared to discuss these concluding chapters as a way of wrapping up the course and preparing for your final course reflection
 "%}
-- 
+-
 
 
 {% include alert.html class='danger' title='DUE: Final Course Reflection' text="
