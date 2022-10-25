@@ -81,7 +81,9 @@ These should be PRINTED OUT and brought to class each day (unless otherwise spec
 
 Unless I provide other instructions for a special assignment (which will be noted on the syllabus), here's what I expect in your pre-class reflections:
 
-Please DO NOT SUMMARIZE the readings one by one. I'm looking for how you can compare and contrast them, and relate them to previous course material. You should answer the same questions for each group of readings and give specific examples:
+Your new challenge for these reflections is: THREE THINGS. Tell me three ideas you have about the collection of readings.  Remember the main goal is to demonstrate your familliarity with ALL the readings. Formulate your reflection to show off your knowledge of the material! Your THINGS should not be highly specific statements taken out of context. Be sure you offer some specifics from the readings to illustrate your point. Please DO NOT SUMMARIZE the readings one by one. I'm looking for how you can compare and contrast them, and relate them to previous course material. 
+
+Questions to help you come up with your ideas to write about, but you don't need to answer these directly:
 - Where did you see the most overlap between the readings? In other words, what are the major themes they have in common?
 - Where did the readings differ in significant ways in terms of disagreement or simply different perspectives?
 - How did the set of readings offer a different way of thinking about nature compared to previous readings?
