@@ -88,9 +88,10 @@ Same drill as last week: no meeting today but a new topic to explore for your us
 ### 11/7: Transcendentalist Nature
 - Discussion of Romanic Nature from last week's readings.
 - Arthur Ekirch, Jr., _Man and Nature in America_ [Chs. 5 and 6: Emerson and Thoreau] (1973), 47--69.
-- Ralph Waldo Emerson, "Nature" (1836), 7--53. These are really small pages, so it's not as much reading as it looks like. The idea is to get a sense of how Emerson thinks about nature, not read in great detail.
-- Henry David Thoreau, "Walking" (1851), 59--92.
 - Roderick Frazier Nash, _Wilderness and the American Mind_ [9: The Wilderness Cult], 141--160.
+- Ralph Waldo Emerson, "Nature" (1836), 7--24 (SKIM through p. 53). These are really small pages, so it's not as much reading as it seems. The idea is to get a sense of how Emerson thinks about nature, not read in great detail.
+- Henry David Thoreau, "Walking" (1851), 59--92.
+
 
 
 
