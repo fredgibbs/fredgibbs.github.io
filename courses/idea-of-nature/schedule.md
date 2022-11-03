@@ -98,7 +98,7 @@ Same drill as last week: no meeting today but a new topic to explore for your us
 ### 11/9: Preserving and Conserving Nature
 - John M. Meyer, "Gifford Pinchot, John Muir, and the Boundaries of Politics in American Thought" (1997), 267--84.
 - Kenneth R. Olwig, "Reinventing Common Nature", 379--408.
-- _Gifford Pinchot: Selected Writings_, 1--18 (skim over the biographical details, but pay attention to the personal experiences that shaped his views of nature); 21--33 (pay attention to the time and contexts when Pinchot wrote these short pieces).
+- _Gifford Pinchot: Selected Writings_, 21--33 (pay attention to the time and contexts when Pinchot wrote these short pieces).
 - John Muir, [Treasures of the Yosemite](https://vault.sierraclub.org/john_muir_exhibit/writings/the_treasures_of_the_yosemite/).
 - John Burroughs, "The Spell of Yosemite", 169--175.
 
