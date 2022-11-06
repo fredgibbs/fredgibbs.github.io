@@ -77,7 +77,7 @@ We're not meeting today, but you should read the following and prepare the pre-c
 
 ### 11/2: NO CLASS: Romantic + Landscape Natures
 Same drill as last week: no meeting today but a new topic to explore for your usual pre-class assignments and discussion on Monday. 
-- Arthur Ekirch, Jr., _Man and Nature in America_ [3: The Romantic View] (1973), 22--34.
+- Arthur Ekirch, Jr., _Man and Nature in America_ [3: The Romantic View] (1973), 22--34. 
 - Roderick Frazier Nash, _Wilderness and the American Mind_ [4: The _American_ Wilderness], 67--83.
 - Ronald Rees, “Constable, Turner, and Views of Nature in the Nineteenth Century” (1982), 253--69.
 - Thomas Cole, "Essay on American Scenery" _American Monthly Magazine_ vol 1. (1836), 1--12.
