@@ -76,8 +76,8 @@ We're not meeting today, but you should read the following and prepare the pre-c
 
 
 ### 11/2: NO CLASS: Romantic + Landscape Natures
-Same drill as last week: no meeting today but a new topic to explore for your usual pre-class assignments and discussion on Monday. 
-- Arthur Ekirch, Jr., _Man and Nature in America_ [3: The Romantic View] (1973), 22--34. 
+Same drill as last week: no meeting today but a new topic to explore for your usual pre-class assignments and discussion on Monday.
+- Arthur Ekirch, Jr., _Man and Nature in America_ [3: The Romantic View] (1973), 22--34.
 - Roderick Frazier Nash, _Wilderness and the American Mind_ [4: The _American_ Wilderness], 67--83.
 - Ronald Rees, “Constable, Turner, and Views of Nature in the Nineteenth Century” (1982), 253--69.
 - Thomas Cole, "Essay on American Scenery" _American Monthly Magazine_ vol 1. (1836), 1--12.
@@ -99,7 +99,7 @@ Same drill as last week: no meeting today but a new topic to explore for your us
 - John M. Meyer, "Gifford Pinchot, John Muir, and the Boundaries of Politics in American Thought" (1997), 267--84.
 - Kenneth R. Olwig, "Reinventing Common Nature", 379--408.
 - _Gifford Pinchot: Selected Writings_, 21--33 (pay attention to the time and contexts when Pinchot wrote these short pieces).
-- John Muir, [Treasures of the Yosemite](https://vault.sierraclub.org/john_muir_exhibit/writings/the_treasures_of_the_yosemite/).
+- John Muir, [Treasures of the Yosemite](https://vault.sierraclub.org/john_muir_exhibit/writings/the_treasures_of_the_yosemite/). (from _The Century Magazine_, Vol. XL, No. 4; August, 1890). No need to read the whole thing carefully, but get a sense of how Muir describes Yosemite. Come to class prepared to discuss some passages that you found reveal his conception of nature.
 - John Burroughs, "The Spell of Yosemite", 169--175.
 
 #### Noteworthy
@@ -145,7 +145,10 @@ Our key question here is how much should we be worried about the end of nature i
 
 
 ## Week 7
-### 11/28: Consuming Nature
+
+### 11/28: NO CLASS! NO READINGS!! NO REFLECTIONS!!!
+
+### 11/30: Consuming Nature
 - James Morton Turner, "From Woodcraft to  'Leave No Trace'", 137--169.
 - Jennifer Price "Nature at the Mall", 186--202.
 - Also in class: Nature on Instagram and Google Images. How do we interpret these images in light of course readings?
@@ -155,17 +158,13 @@ Our key question here is how much should we be worried about the end of nature i
 - Phoebe S. K. Young, _Camping Grounds_ [Ch. 5: The Back-to-Nature Crowd], 195--240.
 
 
+## Week 8: FINALLY
 
-### 11/30: Applying Nature: Natural Stuff
+### 12/5: Applying Nature: Natural Stuff
 A main goal of this class is to make it easier to think of how the idea of nature permeates so many things we interact with. Like childbirth. Like food. So how we can we apply definitions of nature (in general) as we've seen it change over time to something more specific like food (like we see in so many contexts now)?
 - Alan Levinovitz, _Natural_ [Chapters 1 and 2], 15--34; 35--58.
 
-
-## Week 8: FINALLY
-
-## 12/5: TBD
-
-## 12/7: Course Wrap-up + Final reflection hints
+### 12/7: Course Wrap-up + Final reflection hints
   - _Uncommon Ground_ [Toward a Conclusion],  447--459.
   - Kate Soper, _What is Nature?_, 249--278.
 
