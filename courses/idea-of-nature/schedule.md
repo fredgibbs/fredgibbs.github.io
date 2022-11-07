@@ -93,13 +93,16 @@ Same drill as last week: no meeting today but a new topic to explore for your us
 - Henry David Thoreau, "Walking" (1851), 59--92.
 
 
-
-
 ### 11/9: Preserving and Conserving Nature
 - John M. Meyer, "Gifford Pinchot, John Muir, and the Boundaries of Politics in American Thought" (1997), 267--84.
 - Kenneth R. Olwig, "Reinventing Common Nature", 379--408.
-- _Gifford Pinchot: Selected Writings_, 21--33 (pay attention to the time and contexts when Pinchot wrote these short pieces).
-- John Muir, [Treasures of the Yosemite](https://vault.sierraclub.org/john_muir_exhibit/writings/the_treasures_of_the_yosemite/). (from _The Century Magazine_, Vol. XL, No. 4; August, 1890). No need to read the whole thing carefully, but get a sense of how Muir describes Yosemite. Come to class prepared to discuss some passages that you found reveal his conception of nature.
+
+
+#### Primary sources
+In all cases, Remember the point isn't to learn any details (like the intricacies of European forest management) but to understand the authors' views of nature through their writings. Come to class prepared to discuss some passages that you found reveal conceptions of nature and the implications of such views.
+- _Gifford Pinchot: Selected Writings_, 21--33 (pay attention to the time and contexts when Pinchot wrote these short pieces and think about how those contexts may have informed his writing).
+- John Muir, [Treasures of the Yosemite](https://vault.sierraclub.org/john_muir_exhibit/writings/the_treasures_of_the_yosemite/). (from _The Century Magazine_, Vol. XL, No. 4; August, 1890).
+- Theodore Roosevelt, "Wilderness Reserves: Yellowstone Park", 152--160.
 - John Burroughs, "The Spell of Yosemite", 169--175.
 
 #### Noteworthy
