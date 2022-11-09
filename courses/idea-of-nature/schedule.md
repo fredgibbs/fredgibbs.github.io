@@ -110,37 +110,49 @@ In all cases, Remember the point isn't to learn any details (like the intricacie
 - John Muir, [My First Summer in the Sierra](https://www.google.com/books/edition/My_First_Summer_in_the_Sierra/ymNIAAAAMAAJ?hl=en&gbpv=1) (1911), 3--25.
 
 
+
 ## Week 5
-### 11/14: Environmental Ethics
-- Aldo Leopold, "Wildlife in American Culture", 1--6.
-- Aldo Leopold, _Sand County Almanac_,
+
+### 11/14: NO CLASS! NO READINGS!! NO REFLECTIONS!!!
+
+### 11/16: Environmental Ethics + Landscape Stories
+Something of a smorgasbord for today.
+- Aldo Leopold, "The River of the Mother of God" (176--181); "The Land Ethic" from _Sand County Almanac_ (181--195).
 - Rachel Carson, _Silent Spring_, 5--37.
+
+#### Pick one (and be prepared to report on how nature is portrayed)
 - Jack Keroac, "Alone on a Mountaintop",  218--228.
+- Edward Abbey, "Monkey Wrench Gang",
+
+#### Pick one (and be prepared to discuss the intersection of landscape histories and conceptions of nature)
+- Leslie Marmon Silko, "Landscape, History and the Pueblo Imagination", 83--94.
+- Keith H. Basso, "'Stalking with Stories': Names, Places, and Moral Narratives Among the Western Apache", 95--116.
+
+#### Pick one (and think about how maps and cartography inform ideas about nature)
+- J. B. Harley, "New England Cartography and the Native Americans", 170--195.
+- Margaret Wickens Pearce and Renee Pualani Louis, “Mapping Indigenous Depth of Place” (2008): 107--126.
+
 
 #### Noteworthy
+- J. B. Jackson, _Sense of Place, A Sense of Time_ (1994), 15--25.
 - Roderick Frazier Nash, _Wilderness and the American Mind_ [11: Aldo Leopold: Prophet], 182--199.
 - Miles A. Powell, “‘Pestered with Inhabitants’: Aldo Leopold, William Vogt, and More Trouble with Wilderness” (2015), 195–226.
 
 
-
-### 11/16: Landscape Stories
-- J. B. Jackson, _Sense of Place, A Sense of Time_ (1994), 15--25.
-- Leslie Marmon Silko, "Landscape, History and the Pueblo Imagination", 83--94.
-- Keith H. Basso, "'Stalking with Stories': Names, Places, and Moral Narratives Among the Western Apache", 95--116.
-- J. B. Harley, "New England Cartography and the Native Americans", 170--195.
-- SKIM: Margaret Wickens Pearce and Renee Pualani Louis, “Mapping Indigenous Depth of Place” (2008): 107--113 (skim through 126).
-- DISCUSSION: Mental Place Maps
-
-#### Noteworthy
-N. Katherine Hayles, "Simulated Nature and Natural Simulations", 409--425.
 
 
 ## Week 6
 ### 11/21: Real and Fake Nature
 - Anne Whiston Spirn, "Constructing Nature: The Legacy of Frederick Law Olmstead", 91--113.
 - Bill McKibben, _The End of Nature_, [Ch. 2: The End of Nature] (1989), 40--78.
-Our key question here is how much should we be worried about the end of nature if we can construct it? Or is that simply impossible by the very definition of natural?
-- Discussion: Colonization on Mars has just begun after finding a giant layer of ice buried beneath the surface. You have been appointed the Director of Nature, and you need to provide a vision statement for how to create nature on Mars. How do you want people to think about nature when the duality between natural nature and manufactured nature is so stark?
+Some key questions for discussion that I hope you'll think about ahead of time:
+- In what ways is nature "constructed"?
+- How much should we be worried about the end of nature if we can construct it? Or is that simply impossible by the very definition of nature/natural?
+- What assumptions does McKibben make about nature? How might the book be different if he had been part of our class discussions?
+- Colonization on Mars has just begun after finding a giant layer of ice buried beneath the surface that can yield significant but limited fresh water. You have been appointed the Director of Nature, and you need to provide a vision statement for how to create nature on Mars. What do you say? What are you priorities? How do you want to (or avoid) affect how colonists think about nature?
+
+#### Noteworthy
+N. Katherine Hayles, "Simulated Nature and Natural Simulations", 409--425.
 
 
 ### 11/23: NO CLASS: EAT WELL!
@@ -164,17 +176,21 @@ Our key question here is how much should we be worried about the end of nature i
 ## Week 8: FINALLY
 
 ### 12/5: Applying Nature: Natural Stuff
-A main goal of this class is to make it easier to think of how the idea of nature permeates so many things we interact with. Like childbirth. Like food. So how we can we apply definitions of nature (in general) as we've seen it change over time to something more specific like food (like we see in so many contexts now)?
+Our final day will have two parts:
+
+#### Part 1
+A main goal of this class is to facilitate critical exploration of how the idea of nature permeates so many things we interact with. Like childbirth. Like food. So how we can we apply definitions of nature (in general) as we've seen it change over time to something more specific like food (like we see in so many contexts now)?
 - Alan Levinovitz, _Natural_ [Chapters 1 and 2], 15--34; 35--58.
 
-### 12/7: Course Wrap-up + Final reflection hints
-  - _Uncommon Ground_ [Toward a Conclusion],  447--459.
-  - Kate Soper, _What is Nature?_, 249--278.
+#### Part 2
+- Course Wrap-up + Final reflection hints
+- _Uncommon Ground_ [Toward a Conclusion],  447--459.
 
-{% include alert.html class='danger' title='No  reflection due' text="
-No reading reflection due today! But please be prepared to discuss these concluding chapters as a way of wrapping up the course and preparing for your final course reflection
-"%}
--
+#### Noteworthy
+- Kate Soper, _What is Nature?_, 249--278.
+
+
+### 12/7:  NO CLASS. ANYMORE. EVER.
 
 
 {% include alert.html class='danger' title='DUE: Final Course Reflection' text="
