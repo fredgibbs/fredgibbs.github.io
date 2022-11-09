@@ -122,7 +122,7 @@ Something of a smorgasbord for today.
 
 #### Pick one (and be prepared to report on how nature is portrayed)
 - Jack Keroac, "Alone on a Mountaintop",  218--228.
-- Edward Abbey, "Monkey Wrench Gang",
+- Edward Abbey, "Monkey Wrench Gang", 251--267.
 
 #### Pick one (and be prepared to discuss the intersection of landscape histories and conceptions of nature)
 - Leslie Marmon Silko, "Landscape, History and the Pueblo Imagination", 83--94.
@@ -135,6 +135,7 @@ Something of a smorgasbord for today.
 
 #### Noteworthy
 - J. B. Jackson, _Sense of Place, A Sense of Time_ (1994), 15--25.
+- Aldo Leopold, “Wildlife in American Culture”, 1–6.
 - Roderick Frazier Nash, _Wilderness and the American Mind_ [11: Aldo Leopold: Prophet], 182--199.
 - Miles A. Powell, “‘Pestered with Inhabitants’: Aldo Leopold, William Vogt, and More Trouble with Wilderness” (2015), 195–226.
 
