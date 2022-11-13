@@ -116,7 +116,7 @@ In all cases, Remember the point isn't to learn any details (like the intricacie
 ### 11/14: NO CLASS! NO READINGS!! NO REFLECTIONS!!!
 
 ### 11/16: Environmental Ethics + Landscape Stories
-Something of a smorgasbord for today. As always, read to see how nature is used/portrayed in whatever readings you select. What does nature mean to the author? How is it represented? 
+Something of a smorgasbord for today. As always, read to see how nature is used/portrayed in whatever readings you select. What does nature mean to the author? How is it represented? Many of these authors have passionate views about how our relationship to nature should be. We're not reading them because they are correct, but they present complementary views to how we've talked about nature so far. Please read to understand the general perspective and argument, even if you disagree with the gist of the reading. 
 
 Everyone should read both the Leopold and Carson directly below, and then pick one of two  from each of the following section. Remember, it's your job to show me you're engaged with the readings via reflections and class participation. 
 
