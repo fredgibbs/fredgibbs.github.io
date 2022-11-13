@@ -116,7 +116,10 @@ In all cases, Remember the point isn't to learn any details (like the intricacie
 ### 11/14: NO CLASS! NO READINGS!! NO REFLECTIONS!!!
 
 ### 11/16: Environmental Ethics + Landscape Stories
-Something of a smorgasbord for today.
+Something of a smorgasbord for today. As always, read to see how nature is used/portrayed in whatever readings you select. What does nature mean to the author? How is it represented? 
+
+Everyone should read both the Leopold and Carson directly below, and then pick one of two  from each of the following section. Remember, it's your job to show me you're engaged with the readings via reflections and class participation. 
+
 - Aldo Leopold, "The River of the Mother of God" (176--181); "The Land Ethic" from _Sand County Almanac_ (181--195).
 - Rachel Carson, _Silent Spring_, 5--37.
 
