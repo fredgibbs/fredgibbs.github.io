@@ -149,11 +149,13 @@ Everyone should read both the Leopold and Carson directly below, and then pick o
 ### 11/21: Real and Fake Nature
 - Anne Whiston Spirn, "Constructing Nature: The Legacy of Frederick Law Olmstead", 91--113.
 - Bill McKibben, _The End of Nature_, [Ch. 2: The End of Nature] (1989), 40--78.
-Some key questions for discussion that I hope you'll think about ahead of time:
-- In what ways is nature "constructed"?
-- How much should we be worried about the end of nature if we can construct it? Or is that simply impossible by the very definition of nature/natural?
+
+Some key questions for discussion that you should think and write about in your reflections for today:
 - What assumptions does McKibben make about nature? How might the book be different if he had been part of our class discussions?
-- Colonization on Mars has just begun after finding a giant layer of ice buried beneath the surface that can yield significant but limited fresh water. You have been appointed the Director of Nature, and you need to provide a vision statement for how to create nature on Mars. What do you say? What are you priorities? How do you want to (or avoid) affect how colonists think about nature?
+- Thinking about Sprin's article, but also from the course generally, in what ways is nature "constructed"?
+- How much should we be worried about the end of nature if we can construct it? Or is that simply impossible by the very definition of nature/natural?
+
+- IN CLASS: Please think about this a little ahead of time, but don't put it in your reflections: Colonization on Mars has just begun after finding a giant layer of ice buried beneath the surface that can yield significant but limited fresh water. You have been appointed the Director of Nature, and you need to provide a vision statement for how to create nature on Mars. What do you say? What are you priorities? How do you want to (or avoid) affect how colonists think about nature?
 
 #### Noteworthy
 N. Katherine Hayles, "Simulated Nature and Natural Simulations", 409--425.
