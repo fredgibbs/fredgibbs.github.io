@@ -190,7 +190,7 @@ A main goal of this class is to facilitate critical exploration of how the idea 
 
 #### Part 2
 - Course Wrap-up + Final reflection hints
-- _Uncommon Ground_ [Toward a Conclusion],  447--459.
+- William Cronon, _Uncommon Ground_ [Toward a Conclusion],  447--459.
 
 #### Noteworthy
 - Kate Soper, _What is Nature?_, 249--278.
