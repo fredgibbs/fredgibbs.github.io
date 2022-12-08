@@ -12,9 +12,11 @@ Your final reflection for the course is a bit different from previous reading re
 
 
 ## What to do
-I'd like you to write a \~1200-word description of **YOUR LEARNING EXPERIENCE** for the course as a whole. Which topics or ideas will stick with you? Which were not worth the trouble? What did you get interested in that we didn't do enough with? Which topics were well matched? Which didn't seem to fit?
+I'd like you to write a \~1200-word description of **YOUR LEARNING EXPERIENCE** for the course as a whole. I'm really asking you to reflect critically over the last 8 weeks. What did you learn? Which topics or ideas will stick with you? Which were not worth the trouble? What did you get interested in that we didn't do enough with? Which topics were well matched? Which didn't seem to fit? You don't need to answer these explicitly, but you get the idea.
 
-These are highly subjective essays and that's precisely the point---I want to know about YOUR learning experience, not what you think the Standard Learning Experience should have been. Please DO NOT provide a recitation of course topics and themes---I already know what we covered---I want to know what the course was like for you.
+These are highly subjective essays, and that's precisely the point---I want to know about YOUR learning experience, not what you think the Standard Learning Experience should have been. Please DO NOT provide a recitation of course topics and themes---I already know what we covered---I want to know what the course was like for you.
+
+Make sure that your description of your learning experience shows me what you've learned in the course! One easy way to do that is to try to make as many connections as you can between readings, topics, ideas, people, and so on. 
 
 
 ## Purpose

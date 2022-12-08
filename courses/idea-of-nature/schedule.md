@@ -200,7 +200,7 @@ A main goal of this class is to facilitate critical exploration of how the idea 
 
 
 {% include alert.html class='danger' title='DUE: Final Course Reflection' text="
-Final Essays should be submitted before you go to bed on December 14th (or perhaps early Saturday morning). If you need a few more days, that's fine, but you must email me to let me know (you don't need to ask, just let me know). Grades are due in the middle of the week so there isn't much more leeway I can give you, unless you want to take an Incomplete (which is fine if you have a specific plan for completing the work quickly).
+Final Reflections should be *submitted via email* before you go to bed on Friday December 16h (or perhaps early Saturday morning). If you need a few more days, that's fine, but email me to let me know (you don't need to ask, just let me know). Grades are due in the middle of the week so there isn't much more leeway I can give you, unless you want to take an Incomplete (which is fine if you have a specific plan for completing the work quickly).
 
-See the [final essay guide](final-reflection-guide) for more details. And review the [revision guide](writing-advice) after you've got a solid first draft!
+See the [final essay guide](final-reflection-guide) for more details. And review the [revision guide](writing-advice) after you've got a solid first draft! 
 "%}
