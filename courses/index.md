@@ -4,7 +4,16 @@ title: courses
 description: Regularly scheduled courses: Food + Technology + Society; Landscape + Memory; Historiography; American Food; Digital History; History of Diet, Health, Expertise
 ---
 
-# Regularly Scheduled Courses
+# Mostly Regularly Scheduled Courses
+
+{% include course-block.html
+slug="diet-health-expertise"
+title="Diet, Health, and Expertise (Spring 2025)"
+poster="images/diet-health-sm.jpg"
+desc="If someone tells you how to eat or what you should or shouldn’t eat, do you believe them? Why or why not? Is dietary advice ever truly believable? This course uses the long history of diet and health to investigate the relationship between medical expertise and popular understandings of health.
+
+Some guiding questions: How do dietary experts establish their expertise? Why have medical authorities continually redefined what it means to be healthy and to eat a healthy diet? Why have so many fad diets come into and gone out of fashion?  What can historical perspectives on topics like GMOs, vitamins, and obesity offer contemporary debates on these issues?"
+%}
 
 
 {% include course-block.html
@@ -55,17 +64,6 @@ title="Making History (Spring 2021)"
 poster="images/making-history-poster.jpg"
 desc="What does it mean to \"make history\"? On one hand, to do something worth recording. On the other, the act of memorializing. This course examines how we interact with history everyday, through books, film, Wikipedia, public spaces, historic buildings, art, and so on. It also addresses various meta-questions about history: What is history? What is it for? Who is it for? This entirely online and asynchronous course consists of short lectures, reading assignments, quizzes and short essays that helps students learn robust research skills, analytical techniques, and ways of using evidence to make arguments."
 %}
-
-
-{% include course-block.html
-slug="diet-health-expertise"
-title="Diet, Health, and Expertise (Fall 2020)"
-poster="images/diet-health-sm.jpg"
-desc="If someone tells you how to eat or what you should or shouldn’t eat, do you believe them? Why or why not? Is dietary advice ever truly believable? This course uses the long history of diet and health to investigate the relationship between medical expertise and popular understandings of health.
-
-Some guiding questions: How do dietary experts establish their expertise? Why have medical authorities continually redefined what it means to be healthy and to eat a healthy diet? Why have so many fad diets come into and gone out of fashion?  What can historical perspectives on topics like GMOs, vitamins, and obesity offer contemporary debates on these issues?"
-%}
-
 
 {% include course-block.html
 slug="digital-mapping"
