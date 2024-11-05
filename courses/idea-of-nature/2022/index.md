@@ -2,35 +2,34 @@
 layout: syllabus
 course-title: The Idea of Nature
 course-slug: idea-of-nature
-number: HIST 408
-term: Fall 2025
+number: HIST 300-005
+term: Fall 2022
 section: home
 ---
 
 # The Idea of Nature
 
 ## Logistics
-- HIST 408
-- 3 Credit Hours 
-- Class meeting times: TBD
-- Student Hours: TBD
+- HIST 300-005; GEOG 499; SUST 402
+- 3 Credit Hours (2.5-hour meetings on Mon and Wed for 8 weeks, starting after Fall Break)
+- MW 3:00 -- 5:30 (usually we'll get out early)
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\) @ 1077 Mesa Vista Hall
-
+- Student Hours: Wednesday 1:45--2:45 and by appointment.
 
 ## Course Description
 Nature is often understood as space outside of human influence. Yet while there might be objective laws of nature that we can discover, the very idea of nature itself is a fascinating window onto cultural values. This course explores the idea of nature in America. We examine spiritual, romantic, industrial, recreational, philosophical, and environmental views of nature (among others) and how these have played off each other over the last 400+ years.
 
 ## Course Goals
-- Suggest how abstract constructs like nature inform everyday life and decision making
-- Utilize an array of primary sources to understand shifting American conceptions of and debates about nature
-- Summarize key ideas and evaluate arguments from different types of scholarship
-- Construct careful arguments using properly cited course material to answer specific essay questions
+- Suggest how abstract constructs like nature inform everyday life
+- Utilize historical sources to understand American conceptions of Nature
+- Summarize key ideas from different types of readings
+- Craft arguments using properly cited course materials
 
 
 ## Student Learning Outcomes
-- Describe how American attitudes towards nature have shifted over time and what precipitated changes
-- Explain how words like "nature" act as valuable windows onto culture
-- Articulate how various kinds of landscapes mediate our relationship to the past, present, and future
+- Describe how American attitudes towards nature have shifted over time and what precipitated changes.
+- Explain how words like "nature" act as valuable windows onto culture.
+- Articulate how various kinds of landscapes mediate our relationship to the past, present, and future.
 - Analyze how different conceptions of nature inform different arguments about how to conserve/preserve/exploit it
 
 
@@ -131,7 +130,7 @@ Percent of points | Grade
 
 
 ### Feedback
-I try to provide some comments on your reflections, but I'm not able to do this thoroughly for everyone for each assignment. PLEASE, if you want more feedback on any assignment, please ask before or after class--I'd love to talk about it!
+I try to provide some comments on your reflections, but I'm not able to do this thoroughly for everyone for each assignment. That said, if you want more feedback on any assignment, please ask before or after class--I'd love to talk about it!
 
 More generally, please please please email me at any time to learn how I think you're doing in the class and how it can be improved (if at all). This can be via email or Zoom (in addition to student hours on Wednesday afternoons).
 
@@ -144,6 +143,12 @@ If life gets overwhelming during the course (and _something_ will come up over t
 
 
 ## Important UNM Announcements and Resources
+
+### COVID-19 Health and Awareness
+UNM is a mask friendly, but not a mask required, community. To be registered or employed at UNM, Students, faculty, and staff must all meet UNM's Administrative Mandate on Required COVID-19 vaccination. UNM faculty and staff know that these are challenging times. Please let us know that you need support so that we can connect you to the right resources and please be aware that UNM will publish information on websites and email about any changes to our public health status and community response.
+
+**If you are not feeling well, PLEASE DO NOT COME TO CLASS!** There is no grade penalty for missed classes due to illness of any kind. If you need to quarantine, and miss several classes, that's fine, but please let me know what's going on. We'll work it out and I'll help you stay caught up. You will still be expected to complete assignments within a reasonable amount of time, but I'm very flexible with deadlines as long as you're communicating.
+
 
 ### Respectful Learning
 Our classroom and our university should always be spaces of mutual respect, kindness, and support, without fear of discrimination, harassment, or violence. Should you ever need assistance or have concerns about incidents that violate this principle, please access the resources available to you on campus, especially the [LoboRESPECT Advocacy Center](http://loborespect.unm.edu/) and the support services listed on its website . Please note that, because UNM faculty, TAs, and GAs are considered "responsible employees" by the Department of Education, any disclosure of gender discrimination (including sexual harassment, sexual misconduct, and sexual violence) made to a faculty member, TA, or GA must be reported by that faculty member, TA, or GA to the university's Title IX coordinator at the [Office of Compliance, Ethics, and Equal Opportunity](https://oeo.unm.edu/title-ix/title-ix-reporting-obligations.html).
@@ -164,6 +169,7 @@ Please ask for help in understanding and avoiding plagiarism (passing the work o
 
 ### Connecting to Campus and Finding Support
 Students who ask for help are successful students. I encourage students to be familiar with services and policies that can help them navigate UNM successfully. Many services exist to help you succeed academically, such as [peer tutoring at CAPS](http://caps.unm.edu/programs/online-tutoring/) and various [mental health resources](http://mentalhealth.unm.edu). Also see the UNM [student guide](https://students.unm.edu/).
+
 
 ### Land Acknowledgement
 Founded in 1889, the University of New Mexico sits on the traditional homelands of the Pueblo of Sandia. The original peoples of New Mexico Pueblo, Diné (Navajo), Apache, Comanche, Ute, Genízaro and others – since time immemorial, have deep connections to the land and have made significant contributions to the broader community statewide. We acknowledge the brutal history of colonization, and we honor the both land itself and especially those who have been and remain stewards of this land throughout the generations

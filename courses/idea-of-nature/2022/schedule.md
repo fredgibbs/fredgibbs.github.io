@@ -48,7 +48,8 @@ Please remember that you have a reading reflection due each day we have class. T
 - Frederick Turner, "Cultivating the American Garden" (1985), 45--52.
 
 
-### 10/26: Early Modern Nature
+### 10/26: NO CLASS: Early Modern Nature
+We're not meeting today, but you should read the following and prepare the pre-class reflection as usual (to bring next Monday).
 - Carolyn Merchant, _The Death of Nature_ [Ch. 5: Nature as Disorder] (1980), 127--148.
 - Carolyn Merchant, _The Death of Nature_ [Ch. 7: Dominion over Nature] (1980), 164--190.
 
@@ -74,7 +75,8 @@ Please remember that you have a reading reflection due each day we have class. T
 
 
 
-### 11/2: Romantic + Landscape Natures
+### 11/2: NO CLASS: Romantic + Landscape Natures
+Same drill as last week: no meeting today but a new topic to explore for your usual pre-class assignments and discussion on Monday.
 - Arthur Ekirch, Jr., _Man and Nature in America_ [3: The Romantic View] (1973), 22--34.
 - Roderick Frazier Nash, _Wilderness and the American Mind_ [4: The _American_ Wilderness], 67--83.
 - Ronald Rees, “Constable, Turner, and Views of Nature in the Nineteenth Century” (1982), 253--69.
@@ -87,7 +89,7 @@ Please remember that you have a reading reflection due each day we have class. T
 - Discussion of Romanic Nature from last week's readings.
 - Arthur Ekirch, Jr., _Man and Nature in America_ [Chs. 5 and 6: Emerson and Thoreau] (1973), 47--69.
 - Roderick Frazier Nash, _Wilderness and the American Mind_ [9: The Wilderness Cult], 141--160.
-- Ralph Waldo Emerson, "Nature" (1836), 7--24 (SKIM through p. 53). These are really small pages, so it's not as much reading as it seems. Skim details to get a sense of how Emerson thinks about nature.
+- Ralph Waldo Emerson, "Nature" (1836), 7--24 (SKIM through p. 53). These are really small pages, so it's not as much reading as it seems. The idea is to get a sense of how Emerson thinks about nature, not read in great detail.
 - Henry David Thoreau, "Walking" (1851), 59--92.
 
 
@@ -97,7 +99,7 @@ Please remember that you have a reading reflection due each day we have class. T
 
 
 #### Primary sources
-In all cases, the point isn't to learn any details (like the intricacies of European forest management 😬) but to understand the authors' views of nature through their writings. Come to class prepared to discuss some passages that you found revealing in that regard.
+In all cases, Remember the point isn't to learn any details (like the intricacies of European forest management) but to understand the authors' views of nature through their writings. Come to class prepared to discuss some passages that you found reveal conceptions of nature and the implications of such views.
 - _Gifford Pinchot: Selected Writings_, 21--33 (pay attention to the time and contexts when Pinchot wrote these short pieces and think about how those contexts may have informed his writing).
 - John Muir, [Treasures of the Yosemite](https://vault.sierraclub.org/john_muir_exhibit/writings/the_treasures_of_the_yosemite/). (from _The Century Magazine_, Vol. XL, No. 4; August, 1890).
 - Theodore Roosevelt, "Wilderness Reserves: Yellowstone Park", 152--160.
@@ -111,12 +113,12 @@ In all cases, the point isn't to learn any details (like the intricacies of Euro
 
 ## Week 5
 
-### 11/14: RESEARCH DAY!!!
+### 11/14: NO CLASS! NO READINGS!! NO REFLECTIONS!!!
 
 ### 11/16: Environmental Ethics + Landscape Stories
 Something of a smorgasbord for today. As always, read to see how nature is used/portrayed in whatever readings you select. What does nature mean to the author? How is it represented? Many of these authors have passionate views about how our relationship to nature should be. We're not reading them because they are correct, but they present complementary views to how we've talked about nature so far. Please read to understand the general perspective and argument, even if you disagree with the gist of the reading. 
 
-**Everyone should read both the Leopold and Carson directly below**, and then pick one of two  from each of the following section. Remember, it's your job to show me you're engaged with the readings via reflections and class participation. 
+Everyone should read both the Leopold and Carson directly below, and then pick one of two  from each of the following section. Remember, it's your job to show me you're engaged with the readings via reflections and class participation. 
 
 - Aldo Leopold, "The River of the Mother of God" (176--181); "The Land Ethic" from _Sand County Almanac_ (181--195).
 - Rachel Carson, _Silent Spring_, 5--37.
@@ -159,14 +161,13 @@ Some key questions for discussion that you should think and write about in your 
 N. Katherine Hayles, "Simulated Nature and Natural Simulations", 409--425.
 
 
-### 11/23: THANKSGIVING! (Eat naturally, obviously)
+### 11/23: NO CLASS: EAT WELL!
 
 
 
 ## Week 7
 
-### 11/28: WRITING DAY!
-- Get started on your final course reflecitons, so you have time to think, review, and revise. 
+### 11/28: NO CLASS! NO READINGS!! NO REFLECTIONS!!!
 
 ### 11/30: Consuming Nature
 - James Morton Turner, "From Woodcraft to  'Leave No Trace'", 137--169.
@@ -195,8 +196,8 @@ A main goal of this class is to facilitate critical exploration of how the idea 
 - Kate Soper, _What is Nature?_, 249--278.
 
 
-### 12/7: WRITING WORKSHOP
-- Bring in your relfection outlines for workshopping as discussed
+### 12/7:  NO CLASS. ANYMORE. EVER.
+
 
 {% include alert.html class='danger' title='DUE: Final Course Reflection' text="
 Final Reflections should be *submitted via email* before you go to bed on Friday December 16h (or perhaps early Saturday morning). If you need a few more days, that's fine, but email me to let me know (you don't need to ask, just let me know). Grades are due in the middle of the week so there isn't much more leeway I can give you, unless you want to take an Incomplete (which is fine if you have a specific plan for completing the work quickly).
