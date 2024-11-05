@@ -587,8 +587,12 @@ PRINTING
 @media print {
   body {
     font-weight: normal;
+    max-width:900px !important;
   }
 
+  .container {
+  min-width: 800px !important;
+}
   .navbar {
     display: none;
   }
