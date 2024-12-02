@@ -12,48 +12,38 @@ section: schedule
 ## 1: Various Introductions
 
 ### WED Jan 22 
-Today we'll review the syllabus, course aims, assignments, and general plan for the semester. We'll also figure out how to customize the course to best suit participants' interests.
-
-- Brief Introduction to Digital History/Historiography/Heritage
-- Relevance of Digital History to Contemporary Society
-
-#### Sample Digital History Projects
-[Valley of the Shadow](http://valley.lib.virginia.edu/), [Virtual Jamestown](http://www.virtualjamestown.org), [American Social Movements](http://depts.washington.edu/moves/index.shtml), [Civil War Washington](http://civilwardc.org/), [Blue Ridge Parkway](https://docsouth.unc.edu/blueridgeparkway/), [Slave Voyages](http://www.slavevoyages.org/) + [a striking visualization](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html), [Colonial Dispatches](https://bcgenesis.uvic.ca/index.htm), [Colored Conventions](http://coloredconventions.org/), [Lynching America](https://lynchinginamerica.eji.org/), [Mapping Segregation](http://mappingsegregationdc.org), [Native Land](https://native-land.ca/), [UM Heritage Project](https://heritage.umich.edu), [First Days Project](https://www.firstdaysproject.org/), [American Yawp](http://www.americanyawp.com/), [American Panorama](http://dsl.richmond.edu/panorama/)
+- Review the syllabus, course aims, assignments, and general plan for the semester
+- Intro to Digital History/Historiography/Heritage
+- Intro to Emerging Public History Technologies
+- Relevance of Digital Heritage to Contemporary Society
 
 
-### FRI Jan 25: Emerging Digital Heritage Technologies
-
+### FRI Jan 25:  Emerging Digital Heritage Technologies
 
 #### Connect to readings
 - Introduction to Zotero and [connecting to the course library](http://fredgibbs.net/courses/etc/zotero.html).
 - Make sure you can [access our group library](https://www.zotero.org/groups/1647219/digital-history-unm/items).
 
 
+## 2: Using History
+
+### MON Jan 27: History and Heritage
+Lowenthal?
 
 
-## 2: The Uses of (Digital) History
 
-### MON Jan 27
-- Beverley Southgate, _What is History For?_, 10-30.
+### WED Jan 29: Reviewing History Theory
+We spend a few days reviewing various digital history projects. Some are really good; some are not. The point is to get us thinking about what makes good public digital history? These questions will help us throughout the rest of the course and guide what we're doing.
 
-
-#### Et cetera
+- https://online.ucpress.edu/DocumentLibrary/TPH/RevisedTPHDigitalReviewGuidelines.pdf
 - Fred Gibbs, [New Forms of History: Critiquing Data and Its Representations](https://tah.oah.org/february-2016/new-forms-of-history-critiquing-data-and-its-representations/), _American Historian_ 7 (2016): 31-36.
-- Fred Gibbs, “The Poetics of Digital Scholarship,” in _Ontic Flows: From Digital Humanities to Posthumanities_ (New York and Dresden: Atropos Press, 2016), 101–22.
 
 
-### WED Jan 29
-  - [New Mexico Digital Collections](econtent.unm.edu)
-  - [Rocky Mountain Online Archive](https://rmoa.unm.edu/)
-  - For a huge range of digital content, see [this guide](https://libguides.unm.edu/az.php?t=6969=)
+### FRI Jan 31: Reviewing History Practice
+- Play around with 3-5 of the sites below, and come prepared to offer brief critiques in class
 
-- SKIM QUICKLY: Beverley Southgate, _What is History For?_, 31-58.
-- SKIM SLOWLY: [Knowledge Infrastructures](http://pne.people.si.umich.edu/PDF/Edwards_etal_2013_Knowledge_Infrastructures.pdf)
-- [What is an archives?](http://www.archivists.org/archivesmonth/2007WhatIsAnArchives.pdf)
-
-
-### FRI Jan 31
-
+#### Some Digital History Projects
+[Valley of the Shadow](http://valley.lib.virginia.edu/), [Virtual Jamestown](http://www.virtualjamestown.org), [American Social Movements](http://depts.washington.edu/moves/index.shtml), [Civil War Washington](http://civilwardc.org/), [Blue Ridge Parkway](https://docsouth.unc.edu/blueridgeparkway/), [Slave Voyages](http://www.slavevoyages.org/) + [a striking visualization](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html), [Colonial Dispatches](https://bcgenesis.uvic.ca/index.htm), [Colored Conventions](http://coloredconventions.org/), [Lynching America](https://lynchinginamerica.eji.org/), [Mapping Segregation](http://mappingsegregationdc.org), [Native Land](https://native-land.ca/), [UM Heritage Project](https://heritage.umich.edu), [First Days Project](https://www.firstdaysproject.org/), [American Yawp](http://www.americanyawp.com/), [American Panorama](http://dsl.richmond.edu/panorama/), [Names in Brick and Stone](https://unchistory.web.unc.edu/)
 
 
 
@@ -66,48 +56,36 @@ Today we'll review the syllabus, course aims, assignments, and general plan for 
 
 ### WED Feb 5
 Read one of the following and be prepared to discuss in class. For ideas of what to think about when reading, see the [reading response guidelines](response-guidelines) (even if you're not going to write anything).
+
 - Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 4, 2015): 677–702.
 
 
 ### FRI Feb 7: Getting Started with GitHub (keep links, but generalize instructions)
 
-Peruse these beforehand:
 - Introduction to [Markdown](https://www.markdowntutorial.com/)
   - For later reference, there's an easy [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - Introduction to [GitHub](https://guides.github.com/activities/hello-world/). Read through this tutorial, but do not actually do all the steps---just try to understand what's going on and we'll go over it.
 
-{% include alert.html class='info' title='Do in class or ASAP afterward' text="
-- As with all our other tools, we're using real world tools as part of our survey of digital interfaces to history.
-- Create a free and secure account at [GitHub](http://github.com). You can pick any username/password you want---it's independent of UNM and Zotero.
-- Add your GitHub username to our [shared Google Doc of GitHub usernames](https://docs.google.com/document/d/1Egg3c8LxeUo54B63HqbC-d-MSWKClvjJVfhrzxwz_YI/edit?usp=sharing) by the end of the day, and I'll invite everyone to join our GitHub Team. Like Zotero, You'll get an email asking if you want to accept the invitation. Do it!
-- Use either [Dillinger](https://dillinger.io/) or a text editor (like [Atom](https://atom.io)) to create a plaintext Markdown file with some dummy text that includes some Markdown formatting---this shows me you understand the basics of Markdown. Be sure to save it as `firstname-lastname.md` (example: `fred-gibbs.md`). The text in your file doesn't matter, but make sure your filename:
-  - has no spaces
-  - is all lower case
-  - ends with `.md`
-- Be sure you are logged into GitHub, then add your Markdown file to [our GitHub repository](https://github.com/unm-campus-histories/spaces). To do this, click on the `testfiles` folder, or simply click [HERE](https://github.com/unm-campus-histories/spaces/tree/master/testfiles) then drag and drop your file onto your browser window. You should see my own test file there, `fred-gibbs.md`. If you don't see my file, you're in the wrong place!
-- Click the green 'Commit Changes' button near the bottom of the page.
-"%}
-
 
 - IN CLASS: Solve GitHub and Markdown problems
+
 
 
 ## 4: From Analog to Digital Archives
 
 ### MON Feb 10 
 
-- SKIM: Jefferson Bailey, [Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives](http://dev.archivejournal.net/?p=4722)
 
+### WED  Feb 12: Archival Interfaces 
+Come to class ready to discuss your experience with some of the interfaces mentioned, or others that you've used for something that you've found interesting.
 
-### WED  (Feb 12)
+- Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” 21–43.
 - Mitchell Whitelaw, [Generous Interfaces for Digital Cultural Collections](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html)
-- Skim through more examples [here](https://lab.sciencemuseum.org.uk/exploring-museum-collections-online-some-background-reading-da5a332fa2f8)
-
-#### BEFORE CLASS
-- Come to class ready to discuss your experience with some of the interfaces mentioned, or others that you've used for something that you've found interesting.
+- Skim through [more examples](https://lab.sciencemuseum.org.uk/exploring-museum-collections-online-some-background-reading-da5a332fa2f8)
 
 
-### FRI Feb 14 ❤️
+
+### FRI ❤️ Feb 14: Analog / Digital Serendipity 
 
 - Search for a history book at https://unm.worldcat.org/ or https://library.unm.edu/, that is also held physically in one of our libraries at UNM, and note what you see in the first few pages of search results for that book.
 - Note the library call number for the book, and go find it in the stacks.
@@ -117,7 +95,6 @@ Peruse these beforehand:
 - Graded on 0-10 point scale, like everything but reading responses.
 
 #### Et cetera
-- Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” 21–43.
 - Joshua Sternfeld, “Archival Theory and Digital Historiography: Selection, Search, and Metadata as Archival Processes for Assessing Historical Contextualization,” 544–75.
 
 
@@ -129,10 +106,8 @@ Peruse these beforehand:
 NO CLASS: PRESIDENT'S DAY (as if preseidents don't get enough attention...)
 
 
-- Matthew Reidsma, [Algorithmic Bias in Library Discovery Systems](https://matthew.reidsrow.com/articles/173)
-- Ted Underwood, [Why an Age of Machine Learning Needs the Humanities](https://www.publicbooks.org/why-an-age-of-machine-learning-needs-the-humanities/#fnref-25281-5)
-
 #### Et cetera
+- Matthew Reidsma, [Algorithmic Bias in Library Discovery Systems](https://matthew.reidsrow.com/articles/173)
 - Kritika Agarwal, [Doing Right Online: Archivists shape an ethics for the digital age](https://www.historians.org/publications-and-directories/perspectives-on-history/november-2016/doing-right-online-archivists-shape-an-ethics-for-the-digital-age)
 
 
@@ -184,7 +159,7 @@ In class we'll survey a few transcription projects and go over instructions for 
 
 
 
-## 7: ???
+## 7: 
 
 - Discussion of collaborative **20 point** [UNM spatial history project](unm-spatial-history-guidelines)
   - Before class, read the [UNM Spatial History Guidelines](unm-spatial-history-guidelines).
@@ -211,7 +186,7 @@ In class we'll survey a few transcription projects and go over instructions for 
 
 
 
-## 8: ???
+## 8: 
 ### MON Mar 10: 
 ### WED Mar 12: 
 ### FRI Mar 14: NO CLASS
@@ -272,7 +247,7 @@ Pick one of these two and be ready to discuss:
 
 
 
-## 13: Digital Public History
+## 13: 
 
 ### MON Apr 14: 
 ### WED Apr 16: 
@@ -309,7 +284,7 @@ If your image isn't showing up, there is 95% chance you referencing the wrong fi
 
 
 
-## 14: Critiquing Data Interfaces
+## 14: 
 
 ### MON Apr 21: 
 ### WED Apr 23: 
@@ -338,7 +313,7 @@ IN CLASS: UNM Spatial History essay questions, answers, and critiques. We will t
 
 
 
-## 15: Digital Activism
+## 15: 
 
 ### MON Apr 28: 
 ### WED Apr 30: 
@@ -380,9 +355,9 @@ Make sure you have a complete draft of your [spatial history essay](unm-spatial-
 "%}
 
 {% include alert.html class='danger' title='FINAL DEADLINE' text="
-Technically, all work is due Tuesday, May 7, by 9:30am, which is the end of our scheduled final exam. (we of course don't have an actual exam)
+Technically, all work is due XXX, which is the end of our scheduled final exam. (we of course don't have an actual exam)
 
-HOWEVER: Everyone is welcome to an extension until 5:00pm, Friday, May 10.
+HOWEVER: Everyone is welcome to an extension until 5:00pm, Friday, May 16.
 
 If you finish before then, I'd very much appreciate a quick email to let me know so I can get a jump on (re)evaluating all your work.
 "%}

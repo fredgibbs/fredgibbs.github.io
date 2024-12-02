@@ -2,10 +2,7 @@
 layout: syllabus
 section: guides
 topic: github
-title:
 ---
-
-{{ page.topic }}
 
 # Creating your OWN _Metahistory_ repository and workspace
 

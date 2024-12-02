@@ -19,7 +19,7 @@ How can digital technology facilitate critical engagement with cultural heritage
 
 We'll examine how digital storytelling, virtual exhibits, digital historical tours, photogrammetry (3D modeling) of historic artifacts and sites, interface design for cultural collections, and digital mapping can help bring history and its relevance to life. We’ll draw from a wide range of fields including digital public history, historic preservation, museum studies, digital archiving, spatial humanities, and media studies. We'll collaborate on some posters, maps, 3D prints, digital essays, and a fictional interview with a campus building. Although we talk a lot about technology and this is a hands-on course (a laptop is helpful but not required), no technical skills are expected or needed--just an open mind about exploring the future of digital heritage!
 
-
+ 
 ## Student Learning Outcomes
 - Think critically about how technology shapes our access to and interpretations of the past
 - Examine the impact of the digitization of cultural heritage and how digital archives reshape our access to the past
@@ -30,7 +30,7 @@ We'll examine how digital storytelling, virtual exhibits, digital historical tou
 
 ## Work Requirements and Grading
 - Thorough preparedness and engagement in most class meetings. (30 points; ~2 points per day)
-- [Digital Heritage Project Review](data-interface-critique) (10 points)
+- [Digital History Project Review](data-interface-critique) (10 points)
 - Reading responses (0-2 points each). See the [Response guidelines](response-guidelines).
 - Analog/Digital Search Comparison (10 points)
 - [Transcription Assignment](transcription-guidelines) (10 points)
