@@ -8,10 +8,10 @@ description: Regularly scheduled courses: Digital Heritage; Food + Technology + 
 
 
 {% include course-block.html
-slug="digital-heritage"
-title="Digital Heritage (Spring 2025)"
-poster="images/diet-health-sm.jpg"
-desc="How can digital technology facilitate critical engagement with cultural heritage and its significance? How are cultural institutions are engaging with technology and what does the future look like? How can the digitization of historical artifacts--from pottery and jewelry to entire historic sites--change the ways we can understand past cultures? How can citizen science models energize the humanities? How is AI going to shape our access to and stories about the past? This is a class that's focused on discussing and making things, not just memorizing and regurgitating a historical facts. 
+slug="digital-history"
+title="Digital History (Spring 2025)"
+poster="images/digital-history-2-sm.jpg"
+desc="How can digital technology facilitate critical engagement with the humanities and cultural heritage? How are cultural institutions are engaging with technology and what does the future look like? How can the digitization (and virtual modeling) of historical artifacts--from pottery and jewelry to entire historic sites--change the ways we can understand past cultures? How can citizen science models energize the humanities? How is AI going to shape our access to and stories about the past? This is a class that's focused on discussing and making things, not just memorizing and regurgitating a historical facts. 
 
 We'll examine how digital storytelling, virtual exhibits, digital historical tours, photogrammetry (3D modeling) of historic artifacts and sites, interface design for cultural collections, and digital mapping can help bring history and its relevance to life. We’ll draw from a wide range of fields including digital public history, historic preservation, museum studies, digital archiving, spatial humanities, and media studies. We'll collaborate on some posters, maps, 3D prints, digital essays, and a fictional interview with a campus building. Although we talk a lot about technology and this is a hands-on course (a laptop is helpful but not required), no technical skills are expected or needed--just an open mind about exploring the future of digital heritage!"
 %}
