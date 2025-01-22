@@ -29,7 +29,7 @@ Like any critique or review, you should:
 - Contemplate about how maps, databases, interfaces, and visualizations shape the kinds of (historical) interpretations the website is meant to facilitate.
 
 ## What's behind the curtain?
-Your essay should not simply answer these questions one by one. Think about them holistically as you begin formulating and drafting your critique.
+Your essay should not simply answer these questions one by one. Think about them holistically as you develop your critique.
 - What are the original sources? How accessible does the site make them?
 - How easy is it to see where the data comes from and gets represented?
 - Do you get a sense what data exists and what doesn't?

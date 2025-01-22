@@ -2,8 +2,8 @@
 layout: syllabus
 course-title: Digital History
 course-slug: digital-history
-term: Spring 2019
-number: HIST 300-002
+term: Spring 2025
+number: HIST 300-001
 section: links-guides
 ---
 
@@ -110,6 +110,21 @@ Since this is a SPATIAL history, we should have a map interface to what we're do
 - VERY IMPORTANT: Check the "Export to KML..." box (the bottom of the two).
 - Upload the KML file (from your Downloads directory or wherever it ended up) to our [kml folder](https://github.com/unm-campus-histories/spaces/tree/master/docs/kml) in our repository.
 - Wait a few minutes, and see if your polygon shows up on our [map interface](https://unm-campus-histories.github.io/spaces/map). If not, double check your file made it into the `kml` folder and that the filename (minus the .kml extension) matches your essay exactly.
+
+
+- Be sure your place card on [our directory page](https://unm-campus-histories.github.io/spaces/directory) is displaying properly by updating [our spreadsheet](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit#gid=0).
+- Be sure your KML files are done and showing up on [our map interface](https://unm-campus-histories.github.io/spaces/map). See the red box above.
+
+
+{% include alert.html class='warning' title='Image problems?' text="
+If your image isn't showing up, there is 95% chance you referencing the wrong filename or folder. And a 5% chance you haven't put files in the right place.
+- check the file extension (.jpg, .jpeg, .JPG, .png)
+- check capitalization (mesa-vista is NOT THE SAME as Mesa-Vista)
+- check for spaces and dashes (mesa-vista is NOT THE SAME as mesa vista)
+- make sure your image file is where it is supposed to be, in `docs/essays/images`.
+- make sure your place file is in the `docs/essays` folder, and the image path in your code starts with `images\`
+"%}
+
 
 
 ## Grading

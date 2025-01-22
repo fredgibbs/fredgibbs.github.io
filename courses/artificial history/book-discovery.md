@@ -11,42 +11,36 @@ section: links-guides
 # Transcription Guidelines
 
 ## Goals for the course
-In ~800 words, you have three goals:
+In ~600 words, you have three goals:
 - To show me that you've done the transcription assignment (to transcribe MOST of THREE PAGES) of the same document or of different ones.
 - If you've spent a lot of time on a page, but can't get every single word, move on! There's only so much we can contribute on our first time.
 - To document your experience to a general audience
 - To critique your transcription project, the interface and the user experience.
 - To comment on how the assignment brings up critical issues at the intersection of technology and the humanities.
 
+
 ## Goals beyond the course
 Part of the goal of your digital portfolios is to show off your fluency moving between digital/analog texts + tools and qualitative/quantitative methods + analyses. Imagine that you are writing this for a potential employer who is intrigued by the "Digital History" course on your transcript. **Describe (in terms of the transcription exercise) how the relevant aspects of the course help you think differently.**
 
 ## Basic Requirements
-- ~800 words (but there is no maximum, so take the space you need to describe and analyze your experience)
-- Needs to be a separate PAGE on your portfolio, NOT a blog post
+- ~600--800 words (but there is no maximum, so take the space you need to describe and analyze your experience)
+- Needs to be a separate PAGE on your portfolio.
 - Clear, concise, and meaningful writing (no fluff!)
 - Must include screenshots of what you're doing (both the texts you transcribe and the aspects of the interface you want to critique).
 - Reflect critically on what you're doing using course readings. This is not optional--the point of the readings is that you can use them!
+- Imagine that you're writing for other students in the class. We all know the general assignment, but you can't assume anyone is familiar with your site, interface, text, or experience.
 
 
 ## What to comment on
 For the project critique, below are some possible themes and questions you might ask yourself and comment on in your response. This is not an exhaustive or restrictive list!
 
-### Project Website
-- Did the website inspire you to get involved? (yes, i know you didn't have a choice)
-- What did you think of the design?
-- Were you made to feel like you were contributing to an interesting public service?
-- Did you get a sense of how these transcriptions could be used?
+- Search for a history book at https://unm.worldcat.org/ or https://library.unm.edu/, that is also held physically in one of our libraries at UNM, and note what you see in the first few pages of search results for that book.
+- Note the library call number for the book, and go find it in the stacks.
+- Browse around the book and note what kind of books are physically around it---look at a few shelves above and below, too, not just the few books on either side of your target book.
+- Write up a standard essay (like transcription assignment) (~800 words) about how these two different browsing experiences compare.
+- Obviously there's no right or wrong answer. But strive for clarity in your description of what you searched for, what you found in both cases, and how you might explain the differences.
+- Graded on 0-10 point scale, like everything but reading responses.
 
-### Interface
-- Were you easily able to figure out what to do?
-- How "seamless" was the interface--that is, it always seemed to make it easy to go from one step to the next?
-- Did the interface make the transcription experience more or less enjoyable?
-
-### Transcription Experience
-- What was your experience with the handwriting? What did you learn or get better at along the way?
-- How did you use (or not) the meaning of the texts to transcribe them?
-- Was it easier to transcribe those texts that you felt some connection to?
 
 ## Critical Reflection
 - This is the most important aspect of your essay!
