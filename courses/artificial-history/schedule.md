@@ -55,8 +55,8 @@ For ideas of what to think about when reading, see the [reading response guideli
 
 ### T: The powers of archives to legitimize the present
 - Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19.
-- Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They CastThe Transnational and the Text-Searchable.” The American Historical Review 121, no. 2 (April 1, 2016): 377–402. https://doi.org/10.1093/ahr/121.2.377.
-
+- Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast: The Transnational and the Text-Searchable.” The American Historical Review 121, no. 2 (April 1, 2016): 377–402. https://doi.org/10.1093/ahr/121.2.377.
+- Christen, Kimberly. “Tribal Archives, Traditional Knowledge, and Local Contexts: Why the ‘s’ Matters,” 2015.
 
 
 ### Th: Community Archives
