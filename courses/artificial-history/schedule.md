@@ -10,7 +10,7 @@ section: schedule
 # Schedule of Readings & Assignments
 
 
-## 1. intro
+## 1. Introductions
 This introductory week sets the foundation for understanding the value of history and how digital technologies are reshaping historical study and practice. 
 	3. history v heritage
 	4. identity creation
@@ -60,6 +60,8 @@ For ideas of what to think about when reading, see the [reading response guideli
 
 
 ### Th: Community Archives
+(selections to be finalized)
+
 - Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 4, 2015): 677–702.
 - Guiliano, Jennifer, and Carolyn Heitman. “Difficult Heritage and the Complexities of Indigenous Data.” Journal of Cultural Analytics 4, no. 1 (August 13, 2019). https://doi.org/10.22148/16.044.
 - Hausknecht, Simone, Shannon Freeman, Jenny Martin, Carrie Nash, and Kelly Skinner. “Sharing Indigenous Knowledge through Intergenerational Digital Storytelling: Design of a Workshop Engaging Elders and Youth.” Educational Gerontology 47, no. 7 (July 3, 2021): 285–96. https://doi.org/10.1080/03601277.2021.1927484.
@@ -119,10 +121,8 @@ In class we'll survey a few transcription projects and go over instructions for 
 
 
 
-
-
 ## 4. Engaging History
-
+- how have FORMS of history kept pace with information technology change?
 
 ### T: Digital Storytelling
 
@@ -146,13 +146,13 @@ In class we'll survey a few transcription projects and go over instructions for 
 
 
 
-## 5. Replicating and Reconstructing History 
+## 5. Digital artifacts
 
 
 ### T: 3D scanning and digital twins
 
 - Alyssa Barilotti, “[Will the Digital Do? Exploring the Role of 3D Technologies in Repatriation Negotiations](https://GWU-Museum-Studies.github.io/Museum-Digital-Practice-2022/essays/essay-5/),” (2022).
-- DeHass, Medeia Krisztina Csoba, and Alexandra Taitt. “3D Technology in Collaborative Heritage Preservation.” Museum Anthropology Review 12, no. 2 (August 11, 2018): 120–52. 
+- DeHass, Medeia Krisztina Csoba, and Alexandra Taitt. “3D Technology in Collaborative Heritage Preservation.” Museum Anthropology Review 12.2 (2018): 120–52. 
 - Laura Sydell, [3D Scans Help Preserve History, But Who Should Own Them?](https://www.npr.org/sections/alltechconsidered/2018/05/21/609084578/3d-scans-help-preserve-history-but-who-should-own-them)
 
 #### For reference:
@@ -162,20 +162,26 @@ In class we'll survey a few transcription projects and go over instructions for 
 
 ### Th: Scanning Experiment?
 
+- tutorials on photogrammetry and processing coming soon!
 
 
-## 6. historical reconstructions
+
+
+## 6. Historical Reconstructions and Simulations
+	- theory and practice of reconstruction
+	- authenticity
+	- heritage, generally 
+
 
 ### T: Historic Site Reconstruction
-	1. gaming
-	2. authenticity
-	3. heritage, generally 
 
-- Sanders, Donald H. “Virtual Heritage: Researching and Visualizing the Past in 3D.” Journal of Eastern Mediterranean Archaeology and Heritage Studies 2, no. 1 (2014): 30–47.
+- Donald H. Sanders, “Virtual Heritage: Researching and Visualizing the Past in 3D.” Journal of Eastern Mediterranean Archaeology and Heritage Studies 2, no. 1 (2014): 30–47.
 - “Virtual Reconstruction as Archaeological Observation: Embracing New Ways of Treating Sites, Places and Landscapes.” (2024).
-- Huang, Jiawei, Mahda M. Bagher, Heather Dohn Ross, Nathan Piekielek, Jan Oliver Wallgrün, Jiayan Zhao, and Alexander Klippel. “From Archive, to Access, to Experience––Historical Documents as a Basis for Immersive Experiences.” Journal of Map & Geography Libraries 14, no. 1 (January 2, 2018): 40–63.
+- Jiawei Huang et al., “From Archive, to Access, to Experience––Historical Documents as a Basis for Immersive Experiences.” Journal of Map & Geography Libraries 14.1 (2018): 40–63.
 - Roussou, Maria. “The Components of Engagement in Virtual Heritage Environments.” In Proceeding of New Heritage: Beyond Verisimilitude, 265–83, 2008.
-Güntan, S. & Ar, B. (2024). Recreating the past: Historical narratives and virtual environments of video games. Mekansal Araştırmalar Dergisi, 2(1):1-10.
+- Güntan, S. & Ar, B. (2024). Recreating the past: Historical narratives and virtual environments of video games. Mekansal Araştırmalar Dergisi, 2(1):1-10.
+
+
 
 ### Th:
 
@@ -183,9 +189,9 @@ Güntan, S. & Ar, B. (2024). Recreating the past: Historical narratives and virt
 
 
 ## 7. Rethinking History with AI
-	1. historical authority
-	2. technotopias (utopia and dystopia)
-	3. role of critical humanities
+	- historical authority
+	- technotopias (utopia and dystopia)
+	- role of critical humanities
 
 
 ### T: 
@@ -198,6 +204,9 @@ Güntan, S. & Ar, B. (2024). Recreating the past: Historical narratives and virt
 
 
 ## 8. Review and wrap-up
+- what have we done?
+- what haven't we done?
+- how do you think differently about history?
 
 ### T: Campus History Reviews
 {% include alert.html class='warning' title='Campus History Reviews' text="
