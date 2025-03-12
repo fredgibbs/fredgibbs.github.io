@@ -13,10 +13,10 @@ section: schedule
 ## 1. Introductions
 This introductory week sets the foundation for understanding the value of history and how digital technologies are reshaping historical study and practice. 
 
-	- past v. history v. heritage
-	- history for presentist fantasies
-	- preserving perspectives and lived experiences
-	- artificial history
+- past v. history v. heritage
+- history for presentist fantasies
+- preserving perspectives and lived experiences
+- artificial history
 
 ### T:
 - The role of technology in history and historical research
