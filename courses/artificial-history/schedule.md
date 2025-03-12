@@ -12,10 +12,10 @@ section: schedule
 
 ## 1. Introductions
 This introductory week sets the foundation for understanding the value of history and how digital technologies are reshaping historical study and practice. 
-	3. history v heritage
-	4. identity creation
-	5. preserving perspectives and lived experiences
-	6. artificial history
+	- past v. history v. heritage
+	- history for presentist fantasies
+	- preserving perspectives and lived experiences
+	- artificial history
 
 ### T:
 - The role of technology in history and historical research
@@ -35,6 +35,9 @@ If you don't connect to it, you'll WASTE A LOT OF TIME finding things on your ow
 
 
 ### Th: What if bots write history?
+- Sachs (save for creative non-fiction?)
+Jenkins, _Rethinking History_, Chapter 1. Cronon, "A Place for Stories"
+
 For ideas of what to think about when reading, see the [reading response guidelines](response-guidelines) (even if you're not going to write anything).
 
 - Michele Willson, “Algorithms (and the) Everyday.” _Information, Communication & Society_ 20.1 (2017): 137--50.
@@ -53,7 +56,7 @@ For ideas of what to think about when reading, see the [reading response guideli
 - how archived-marginalized communities are creating new kinds of archives
 
 
-### T: The powers of archives to legitimize the present
+### T: The power of archives to legitimize the present
 - Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19.
 - Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast: The Transnational and the Text-Searchable.” The American Historical Review 121, no. 2 (April 1, 2016): 377–402. https://doi.org/10.1093/ahr/121.2.377.
 - Christen, Kimberly. “Tribal Archives, Traditional Knowledge, and Local Contexts: Why the ‘s’ Matters,” 2015.
@@ -62,7 +65,8 @@ For ideas of what to think about when reading, see the [reading response guideli
 ### Th: Community Archives
 (selections to be finalized)
 
-- Marisa Elena Duarte and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 4, 2015): 677–702.
+- Duarte, Marisa Elena and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 4, 2015): 677–702.
+
 - Guiliano, Jennifer, and Carolyn Heitman. “Difficult Heritage and the Complexities of Indigenous Data.” Journal of Cultural Analytics 4, no. 1 (August 13, 2019). https://doi.org/10.22148/16.044.
 - Hausknecht, Simone, Shannon Freeman, Jenny Martin, Carrie Nash, and Kelly Skinner. “Sharing Indigenous Knowledge through Intergenerational Digital Storytelling: Design of a Workshop Engaging Elders and Youth.” Educational Gerontology 47, no. 7 (July 3, 2021): 285–96. https://doi.org/10.1080/03601277.2021.1927484.
 - Marika Cifor, Michelle Caswell, Alda Allina Migoni, and Noah Geraci. “‘What We Do Crosses over to Activism’: The Politics and Practice of Community Archives.” _The Public Historian_ 40.2 (2018): 69–95.
@@ -71,17 +75,17 @@ For ideas of what to think about when reading, see the [reading response guideli
 - Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” _The Public Historian_ 36, no. 4 (2014): 26–37.
 - Sofía Becerra-Licha, [Participatory and Post-Custodial Archives as Community Practice](https://er.educause.edu/articles/2017/10/participatory-and-post-custodial-archives-as-community-practice)
 
-	
+#### Extra
+
 
 
 ## 3. digital archives -> computational history
 - transcription + computational overviews
 - historic data sets
 - machine learning and data classification in digital archives
-- animating 
+- energizing archives
 
 ### T: Interfacing the Archive
-
 Read a little about how we can critique digital history/archive projects:
 - Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” 21–43.
 - Presner, Todd. “8. The Ethics of the Algorithm: Close and Distant Listening to the Shoah Foundation Visual History Archive.” In Probing the Ethics of Holocaust Culture, edited by Claudio Fogu and Claudio Fogu, 167–202. Harvard University Press, 2016. https://doi.org/10.4159/9780674973244-009.	
@@ -96,9 +100,9 @@ Read a little about how we can critique digital history/archive projects:
 
 
 ## Th: Crowdsourcing History 
+- can history be done by the crowd?
 
-- Ridge, Mia, Samantha Blickhan, Meghan Ferriter, Austin Mast, Ben Brumfield, Brendon Wilkins, Daria Cybulska, et al. “2. What Is Crowdsourcing in Cultural Heritage?” Digital Scholarship at the British Library, April 29, 2021. https://britishlibrary.pubpub.org/pub/what-is-crowdsourcing-in-cultural-heritage/release/2.
-Pick one of these two and be ready to discuss:
+- Ridge, Mia, Samantha Blickhan, Meghan Ferriter, Austin Mast, Ben Brumfield, Brendon Wilkins, Daria Cybulska, et al. ["2. What Is Crowdsourcing in Cultural Heritage?"](https://britishlibrary.pubpub.org/pub/what-is-crowdsourcing-in-cultural-heritage/release/2), _Digital Scholarship at the British Library_ (2021).
 - Leslie Madsen-Brooks, [I Nevertheless Am a Historian: Digital Historical Practice and Malpractice around Black Confederate Soldiers](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.1)
 - Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.2).
 
@@ -118,6 +122,7 @@ In class we'll survey a few transcription projects and go over instructions for 
 - [Smithsonian Digital Volunteers](https://transcription.si.edu/): LOTS of great projects to contribute to, based on archives of the Smithsonian Institution. You can browse all projects by name or by theme.
 
 - One tool to note: [Transkribus](https://transkribus.eu/Transkribus/)
+
 
 
 
@@ -145,7 +150,6 @@ In class we'll survey a few transcription projects and go over instructions for 
 
 
 
-
 ## 5. Digital artifacts
 
 
@@ -155,9 +159,11 @@ In class we'll survey a few transcription projects and go over instructions for 
 - DeHass, Medeia Krisztina Csoba, and Alexandra Taitt. “3D Technology in Collaborative Heritage Preservation.” Museum Anthropology Review 12.2 (2018): 120–52. 
 - Laura Sydell, [3D Scans Help Preserve History, But Who Should Own Them?](https://www.npr.org/sections/alltechconsidered/2018/05/21/609084578/3d-scans-help-preserve-history-but-who-should-own-them)
 
-#### For reference:
+#### Extra:
+- [Immersive Pedagogy: Developing a Decolonial and Collaborative Framework for Teaching and Learning in 3D/VR/AR](https://cuny.manifoldapp.org/read/immersive-pedagogy-developing-a-decolonial-and-collaborative-framework-for-teaching-and-learning-in-3d-vr-ar-faeef5d8-a025-4623-9de3-df0dffb58e83/section/3b23b707-d760-4bc7-89ad-d34645264f5a).
 - Muenster, Sander. “Digital 3D Technologies for Humanities Research and Education: An Overview.” Applied Sciences 12, no. 5 (January 2022): 2426. https://doi.org/10.3390/app12052426.
-
+- https://www.myminifactory.com/object/3d-print-ancient-food-moulds-187410
+- https://www.myminifactory.com/users/Scan%20The%20World
 
 
 ### Th: Scanning Experiment?

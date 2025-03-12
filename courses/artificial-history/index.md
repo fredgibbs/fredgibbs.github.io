@@ -7,10 +7,10 @@ number: HIST 300-009
 section: home
 ---
 
-# Digital History
+# Artificial History
 
 ## Logistics
-- Class: T,Th 2:00 - ~4:00 @ TBD
+- Class: T,Th 2:00 - ~4:00 
 - Office Hours: W 9:30-11 @ 1077 Mesa Vista Hall
 - Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
 
@@ -18,14 +18,13 @@ section: home
 This is a three credit-hour course. Class meets for two ~120-minute sessions of direct instruction for EIGHT weeks during the Spring 2025 semester. Please plan for a minimum of six hours of out-of-class work (or homework, study, assignment completion, and class preparation) each week.
 
 ## Course Description
-How can digital technology facilitate critical engagement with cultural heritage and its significance? How are cultural institutions are engaging with technology and what does the future look like? How can the digitization of historical artifacts--from pottery and jewelry to entire historic sites--change the ways we can understand past cultures? How can citizen science models energize the humanities? How is AI going to shape our access to and stories about the past? 
+How can digital technology facilitate critical engagement with cultural heritage and its significance? How can the digitization of historical artifacts--from pottery and jewelry to entire historic sites--change the ways we can understand past cultures? How can citizen science models energize the humanities? How is AI going to shape our access to and stories about the past? 
 
 We'll examine how digital storytelling, virtual exhibits, digital historical tours, photogrammetry (3D modeling) of historic artifacts and sites, interface design for cultural collections, and digital mapping can help bring history and its relevance to life. We’ll draw from a wide range of fields including digital public history, historic preservation, digital archiving, and media studies. No technical skills are expected or needed--just an open mind about exploring the future of digital heritage!
 
  
 ## Student Learning Outcomes
 - Think critically about how technology shapes our access to and interpretations of the past
-- Examine the impact of the digitization of cultural heritage and how digital archives reshape our access to the past
 - Begin to experiment with new tools, workflows, methods, and techniques for large-scale research questions in history
 - Identify cultural and algorithmic biases in searching for historical information
 
@@ -35,19 +34,15 @@ There are NO REQUIRED BOOKS for this course. But you will need to subscribe to t
 
 
 ## Required Work (~ 90 points)
-- Thorough preparedness and engagement in most class meetings. (~30 points; ~2 per day)
-- Reading responses (~30 points; ~2 per day); see the [Response guidelines](response-guidelines).
-- [Digital Archive Project Review](data-interface-critique) (10 points)
-- [UNM Campus History Collaboration](unm-campus-history-guidelines) (20 points)
-
-
-## Elective Work
-- [Transcription Assignment](transcription-guidelines) (10 points)
-- Analog/Digital Search Comparison (10 points)
+- Thorough preparedness and engagement in most class meetings. (~75 points; ~5 per day)
+  - Note: Almost your entire grade is based on your active engagement during our meetings! 
 - Humanities Poster Assignment (10 points)
-- Photogrammetry Assignment (20 points)
+- Artifact Virtual Model and Essay (20 points)
 - Campus Building Interview (20 points)
 
+## Slightly project-y things you'll do as part of class prep
+- [Transcription Exercise](transcription-guidelines)
+- Analog/Digital Search Comparison
 
 
 ### Grade Distribution (by points, not percent)
