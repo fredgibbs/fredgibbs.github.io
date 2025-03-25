@@ -20,8 +20,10 @@ Today we spend most of the time looking at the aims of the course, topics on the
 
 {% include alert.html class='danger' title='Connect to Zotero' text="
 - Skim the [Introduction to Zotero](../guides/zotero.html), and follow steps in the first section.
-- Once you've created an account and logged in, click the red 'Join' button at [our Zotero library](https://www.zotero.org/groups/1647219/digital-history-unm)
+- Once you've created an account AND LOGGED IN, click the red 'Join' button at [our Zotero library](https://www.zotero.org/groups/1647219/digital-history-unm)
+- Note that you need to wait for me to approve the request (which won't happen after 8pm)
 - Make sure you can [access library items](https://www.zotero.org/groups/1647219/digital-history-unm/items).
+- If something is not working, check the [zotero guide](../guides/zotero.html)
 
 Make sure you can access our Zotero library ASAP. ALL COURSE READINGS are available via Zotero.
 If you don't connect to it, you'll WASTE A LOT OF TIME finding things on your own."
@@ -35,7 +37,7 @@ title = 'Check out the Reading Guide'
 text = "For ideas of what to think about when reading, and how to best prepare for our discussions, see the [reading guide](reading-guide)."
 %}
 
-- Jenkins, Keith. _Re-thinking History_, Chapter 1, pp. 6--32. 
+- Jenkins, Keith. _Re-thinking History_, Chapter 1: What history is, pp. 6--32. 
 - Cronon, William. “A Place for Stories: Nature, History, and Narrative.” _Journal of American History_ 78, no. 4 (1992): 1347–76. 
 
 
@@ -92,6 +94,13 @@ text = "Come to class prepared to discuss the [book discovery exercise](book-dis
 
 
 ### Th: Computing the Archive
+
+{% include alert.html class='warning' 
+title = 'Data interface exercise' 
+text = "Come to class prepared to discuss the [data interface exercise](data-interface-critique). Use the readings to explain your discoveries.
+"
+%}
+
 - Willson, Michele. “Algorithms (and the) Everyday.” _Information, Communication & Society_ 20.1 (2017): 137--50.
 - Goldstone, Andrew, and Ted Underwood. “The Quiet Transformations of Literary Studies: What Thirteenth Thousand Scholars Could Tell Us.” In _New Literary History_, 1–30, 2014.
 - Donovan, Moira. “[How AI Is Helping Historians Better Understand Our Past](https://www.technologyreview.com/2023/04/11/1071104/ai-helping-historians-analyze-past/)". _MIT Technology Review_ (April 11, 2023).
