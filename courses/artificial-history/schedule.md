@@ -11,209 +11,200 @@ section: schedule
 
 
 ## 1. Introductions
-This introductory week sets the foundation for understanding the value of history and how digital technologies are reshaping historical study and practice. 
+	- what's going on in this class?
+	- past v. history v. heritage
+	- why study history?
 
-- past v. history v. heritage
-- history for presentist fantasies
-- preserving perspectives and lived experiences
-- artificial history
-
-### T:
-- The role of technology in history and historical research
-	- early humanities computing, cliometrics
-	- early web
-	- cultuomics
-- History of digital history and computational methods in the humanities
-- Overview of AI tools used in history (machine learning, image recognition, NLP, etc.)
+### T: What you've signed up for...
+Today we spend most of the time looking at the aims of the course, topics on the syllabus, course expectations, etc.. 
 
 {% include alert.html class='danger' title='Connect to Zotero' text="
-- Introduction to Zotero and [connecting to the course library](http://fredgibbs.net/courses/etc/zotero.html).
-- Make sure you can [access our group library](https://www.zotero.org/groups/1647219/digital-history-unm/items).
+- Skim the [Introduction to Zotero](../guides/zotero.html), and follow steps in the first section.
+- Once you've created an account and logged in, click the red 'Join' button at [our Zotero library](https://www.zotero.org/groups/1647219/digital-history-unm)
+- Make sure you can [access library items](https://www.zotero.org/groups/1647219/digital-history-unm/items).
 
-Make sure you can access all the course readings ASAP. EVERYTHING you need is available via Zotero.
-If you don't connect to it, you'll WASTE A LOT OF TIME finding things on your own. 
-"%}
+Make sure you can access our Zotero library ASAP. ALL COURSE READINGS are available via Zotero.
+If you don't connect to it, you'll WASTE A LOT OF TIME finding things on your own."
+%}
 
 
-### Th: What if bots write history?
-- Sachs (save for creative non-fiction?)
-Jenkins, _Rethinking History_, Chapter 1. Cronon, "A Place for Stories"
 
-For ideas of what to think about when reading, see the [reading response guidelines](response-guidelines) (even if you're not going to write anything).
+### Th: Stories and forms of history
+{% include alert.html class='info' 
+title = 'Check out the Reading Guide' 
+text = "For ideas of what to think about when reading, and how to best prepare for our discussions, see the [reading guide](reading-guide)."
+%}
 
-- Michele Willson, “Algorithms (and the) Everyday.” _Information, Communication & Society_ 20.1 (2017): 137--50.
-- Danaher, John. “The Threat of Algocracy: Reality, Resistance and Accommodation.” Philosophy & Technology 29, no. 3 (September 1, 2016): 245–68.
-- Platt, Ben. “Now the Humanities Can Disrupt ‘AI.’” Public Books (blog), February 20, 2023. https://www.publicbooks.org/now-the-humanities-can-disrupt-ai/.
-- Shannon Mattern, [Mapping’s Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/?cn-reloaded=1)
-- “How AI Is Helping Historians Better Understand Our Past | MIT Technology Review.” Accessed January 14, 2025. https://www.technologyreview.com/2023/04/11/1071104/ai-helping-historians-analyze-past/.
+- Jenkins, Keith. _Re-thinking History_, Chapter 1, pp. 6--32. 
+- Cronon, William. “A Place for Stories: Nature, History, and Narrative.” _Journal of American History_ 78, no. 4 (1992): 1347–76. 
 
 
 
 ## 2. Archives and Algorithms
-- how history and heritage are increasingly shaped by algorithms
-- how algorithms are transforming archival practices, from data classification to content discovery
-- how algorithms mediate access to and interpretation of the past
-- how present archives represent the future of history
-- how archived-marginalized communities are creating new kinds of archives
+	- how algorithms are transforming archival practices
+	- how history and heritage are increasingly shaped by algorithms
+	- how present archives represent the future of history
+	- how archived-marginalized communities are creating new kinds of archives
 
 
-### T: The power of archives to legitimize the present
-- Joan M. Schwartz and Terry Cook, “Archives, Records and Power: The Making of Modern Memory,” 1–19.
-- Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast: The Transnational and the Text-Searchable.” The American Historical Review 121, no. 2 (April 1, 2016): 377–402. https://doi.org/10.1093/ahr/121.2.377.
+### T: The power of archives
+- Schwartz, Joan M. and Terry Cook. “Archives, Records and Power: The Making of Modern Memory,” 1–19.
+- Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast: The Transnational and the Text-Searchable.” _The American Historical Review_ 121, no. 2 (2016): 377–402.
 - Christen, Kimberly. “Tribal Archives, Traditional Knowledge, and Local Contexts: Why the ‘s’ Matters,” 2015.
+
+{% include alert.html class='warning' 
+title = 'Book discovery exercise' 
+text = "Come to class prepared to discuss the [book discovery exercise](book-discovery). Use the readings to explain your discoveries.
+"
+%}
 
 
 ### Th: Community Archives
-(selections to be finalized)
-
-- Duarte, Marisa Elena and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 4, 2015): 677–702.
-
-- Guiliano, Jennifer, and Carolyn Heitman. “Difficult Heritage and the Complexities of Indigenous Data.” Journal of Cultural Analytics 4, no. 1 (August 13, 2019). https://doi.org/10.22148/16.044.
-- Hausknecht, Simone, Shannon Freeman, Jenny Martin, Carrie Nash, and Kelly Skinner. “Sharing Indigenous Knowledge through Intergenerational Digital Storytelling: Design of a Workshop Engaging Elders and Youth.” Educational Gerontology 47, no. 7 (July 3, 2021): 285–96. https://doi.org/10.1080/03601277.2021.1927484.
-- Marika Cifor, Michelle Caswell, Alda Allina Migoni, and Noah Geraci. “‘What We Do Crosses over to Activism’: The Politics and Practice of Community Archives.” _The Public Historian_ 40.2 (2018): 69–95.
-- Jimmy Zavala et al., “‘A Process Where We’re All at the Table’: Community Archives Challenging Dominant Modes of Archival Practice.,” _Archives and Manuscripts_ 45, no. 3 (2017): 202–15.
-- Caswell, M. L. “‘Inventing New Archival Imaginaries: Theoretical Foundations for Identity-Based Community Archives.,’” October 25, 2017. 
-- Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” _The Public Historian_ 36, no. 4 (2014): 26–37.
-- Sofía Becerra-Licha, [Participatory and Post-Custodial Archives as Community Practice](https://er.educause.edu/articles/2017/10/participatory-and-post-custodial-archives-as-community-practice)
-
-#### Extra
+- Duarte, Marisa Elena and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 2015): 677–702.
+- Guiliano, Jennifer, and Carolyn Heitman. “Difficult Heritage and the Complexities of Indigenous Data.” Journal of Cultural Analytics 4, no. 1 (August 2019).
+- Caswell, Michelle. “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” _The Public Historian_ 36, no. 4 (2014): 26–37.
 
 
 
-## 3. digital archives -> computational history
-- transcription + computational overviews
-- historic data sets
-- machine learning and data classification in digital archives
-- energizing archives
+## 3. Digital archives -> Computational history
+	- transcription + computational overviews
+	- historic data sets
+	- machine learning and data classification in digital archives
+	- energizing archives
+
 
 ### T: Interfacing the Archive
-Read a little about how we can critique digital history/archive projects:
-- Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” 21–43.
+- Hedstrom, Margaret. “Archives, Memory, and Interfaces with the Past,” 21–43.
 - Presner, Todd. “8. The Ethics of the Algorithm: Close and Distant Listening to the Shoah Foundation Visual History Archive.” In Probing the Ethics of Holocaust Culture, edited by Claudio Fogu and Claudio Fogu, 167–202. Harvard University Press, 2016. https://doi.org/10.4159/9780674973244-009.	
-- Mitchell Whitelaw, [Generous Interfaces for Digital Cultural Collections](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html)
-- https://online.ucpress.edu/DocumentLibrary/TPH/RevisedTPHDigitalReviewGuidelines.pdf
-- Fred Gibbs, [New Forms of History: Critiquing Data and Its Representations](https://tah.oah.org/february-2016/new-forms-of-history-critiquing-data-and-its-representations/), _American Historian_ 7 (2016): 31-36.
+- Whitelaw, Mitchell. [Generous Interfaces for Digital Cultural Collections](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html)
+- Gibbs, Fred. [New Forms of History: Critiquing Data and Its Representations](https://tah.oah.org/february-2016/new-forms-of-history-critiquing-data-and-its-representations/), _American Historian_ 7 (2016): 31-36.
 
 #### Sample Digital Archive/History projects
-[Valley of the Shadow](http://valley.lib.virginia.edu/), [Virtual Jamestown](http://www.virtualjamestown.org), [American Social Movements](http://depts.washington.edu/moves/index.shtml), [Civil War Washington](http://civilwardc.org/), [Blue Ridge Parkway](https://docsouth.unc.edu/blueridgeparkway/), [Slave Voyages](http://www.slavevoyages.org/) + [a striking visualization](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html), [Colonial Dispatches](https://bcgenesis.uvic.ca/index.htm), [Colored Conventions](http://coloredconventions.org/), [Lynching America](https://lynchinginamerica.eji.org/), [Mapping Segregation](http://mappingsegregationdc.org), [Native Land](https://native-land.ca/), [UM Heritage Project](https://heritage.umich.edu), [First Days Project](https://www.firstdaysproject.org/), [American Yawp](http://www.americanyawp.com/), [American Panorama](http://dsl.richmond.edu/panorama/), [Names in Brick and Stone](https://unchistory.web.unc.edu/)
+[American Panorama](http://dsl.richmond.edu/panorama/), [Valley of the Shadow](https://valley.newamericanhistory.org/), [American Social Movements](http://depts.washington.edu/moves/index.shtml), [Slave Voyages](http://www.slavevoyages.org/), [Civil War Washington](http://civilwardc.org/), [Blue Ridge Parkway](https://docsouth.unc.edu/blueridgeparkway/), [Colonial Dispatches](https://bcgenesis.uvic.ca/), [Colored Conventions](http://coloredconventions.org/), [Lynching America](https://lynchinginamerica.eji.org/), [Mapping Segregation](http://mappingsegregationdc.org), [Native Land](https://native-land.ca/), [First Days Project](https://www.firstdaysproject.org/), [American Yawp](http://www.americanyawp.com/)
+
+#### Early efforts
+[Valley of the Shadow](http://valley.lib.virginia.edu/), [Virtual Jamestown](http://www.virtualjamestown.org), [Documenting the American South](https://docsouth.unc.edu/index.html)
+
+#### Campus Histories
+- [UNM Campus Histories](https://campushistory.unm.edu/)
+- [UM Heritage Project](https://heritage.umich.edu)
+- [Names in Brick and Stone](https://unchistory.web.unc.edu/)
 
 
+### Th: Computing the Archive
+- Willson, Michele. “Algorithms (and the) Everyday.” _Information, Communication & Society_ 20.1 (2017): 137--50.
+- Goldstone, Andrew, and Ted Underwood. “The Quiet Transformations of Literary Studies: What Thirteenth Thousand Scholars Could Tell Us.” In _New Literary History_, 1–30, 2014.
+- Donovan, Moira. “[How AI Is Helping Historians Better Understand Our Past](https://www.technologyreview.com/2023/04/11/1071104/ai-helping-historians-analyze-past/)". _MIT Technology Review_ (April 11, 2023).
+- Jaillant, Lise, and Arran Rees. “Applying AI to Digital Archives: Trust, Collaboration and Shared Professional Ethics”. _Digital Scholarship in the Humanities_ 38 (2023): 571–85. 
 
 
-## Th: Crowdsourcing History 
-- can history be done by the crowd?
-
-- Ridge, Mia, Samantha Blickhan, Meghan Ferriter, Austin Mast, Ben Brumfield, Brendon Wilkins, Daria Cybulska, et al. ["2. What Is Crowdsourcing in Cultural Heritage?"](https://britishlibrary.pubpub.org/pub/what-is-crowdsourcing-in-cultural-heritage/release/2), _Digital Scholarship at the British Library_ (2021).
-- Leslie Madsen-Brooks, [I Nevertheless Am a Historian: Digital Historical Practice and Malpractice around Black Confederate Soldiers](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.1)
-- Robert S. Wolff, [The Historian’s Craft, Popular Memory, and Wikipedia](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.2).
-
-
-
-There are score of interesting transcription projects that help convert scans of historical sources to digital text. But why? What are the potential upsides to this work? Will it it ever really be useful?
-
-In class we'll survey a few transcription projects and go over instructions for your transcription assignment
-- [Colored Conventions](http://coloredconventions.org/transcribe-minutes)
-- [Transcribe Bentham](http://blogs.ucl.ac.uk/transcribe-bentham/)
-- [Information Wanted](http://informationwanted.org/): Contribute to the construction of a searchable digital database of advertisements printed by former enslaved people searching for their loved ones.
-- [What’s on the Menu?](http://menus.nypl.org/): Contribute to food history research with over 17,000 menus from the past 170 years. Currently they need help reviewing submitted transcriptions.
-- [Making History](http://www.virginiamemory.com/transcribe/): A wealth of papers, records, images, and speeches from more than 300 years of Virginian history.
-- [The Civil War in Letters](https://publications.newberry.org/digital/mms-transcribe/index): This collection contains letters from Civil War soldiers that give a human view of the conflict.
-- [Library of Congress transcription project](https://crowd.loc.gov/)
-- [Citizen Archivist](https://www.archives.gov/citizen-archivist): A set of transcription projects organized by the National Archives
-- [Smithsonian Digital Volunteers](https://transcription.si.edu/): LOTS of great projects to contribute to, based on archives of the Smithsonian Institution. You can browse all projects by name or by theme.
-
-- One tool to note: [Transkribus](https://transkribus.eu/Transkribus/)
+#### Extra
+- Crane, Tom. “[Beyond the Viewer: Fragments and Links in Annotation Space](https://medium.com/digirati-ch/beyond-the-viewer-fragments-and-links-in-annotation-space-b3284e25f34)”. _Digirati-Ch_, June 2018.
 
 
 
 
 ## 4. Engaging History
-- how have FORMS of history kept pace with information technology change?
+	- how have FORMS of history kept pace with information technology change?
+	- what should history look like?
+	- what should a humanities poster look like?
+
 
 ### T: Digital Storytelling
+- Hurley, Andrew. “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” _The Public Historian_ 38, no. 1 (2016): 69–88.
+- Wyman, Bruce et al., “Digital Storytelling in Museums: Observations and Best Practices,” _Curator: The Museum Journal_ 54, no. 4 (2011): 461–68.
+- Quimby, Claire. [Digital Catalogues Study: A Cross-Institutional User Study of Online Museum Collection Catalogues](https://digpublishing.github.io/catalogues-study/.) Art Institute of Chicago, November 2019. 
 
-{% include alert.html class='danger' title='DUE: transcription reflection' text="
-- See the [transcription guidelines](transcription-guidelines)
-- Review some [transcription tips](https://www.archives.gov/citizen-archivist/transcribe/tips).
-"%}
-
-- Andrew Hurley, “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” _The Public Historian_ 38, no. 1 (2016): 69–88.
-- Bruce Wyman et al., “Digital Storytelling in Museums: Observations and Best Practices,” _Curator: The Museum Journal_ 54, no. 4 (2011): 461–68.
+#### Engagement
+- [Digital Community Engagement](https://ucincinnatipress.manifoldapp.org/read/digital-community-engagement/section/956440e8-7e77-42f7-9366-84a653fe72d4)
+- Cifor, Marika, Michelle Caswell, Alda Allina Migoni, and Noah Geraci. “‘What We Do Crosses over to Activism': The Politics and Practice of Community Archives.” _The Public Historian_ 40.2 (2018): 69–95.
+- Hausknecht, Simone, Shannon Freeman, Jenny Martin, Carrie Nash, and Kelly Skinner. “Sharing Indigenous Knowledge through Intergenerational Digital Storytelling: Design of a Workshop Engaging Elders and Youth.” _Educational Gerontology_ 47, no. 7 (July 2021): 285–96.
+- Zavala, Jimmy, et al., “‘A Process Where We’re All at the Table’: Community Archives Challenging Dominant Modes of Archival Practice.,” _Archives and Manuscripts_ 45, no. 3 (2017): 202–15.
 
 
+### Th: Campus History Collaboration
+- why collaborative history?
+- does UNM history matter?
+- what if buildings could talk?
+- maybe [Everything is Alive](https://www.everythingisalive.com/)
+
+{% include alert.html class='info' 
+title = 'A few tools for collaborative campus history' 
+text = " 
 - Introduction to [Markdown](https://www.markdowntutorial.com/). For later reference, there's an easy [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - Introduction to [GitHub](https://guides.github.com/activities/hello-world/). Read through this tutorial, but do not actually do all the steps---just try to understand what's going on and we'll go over it.
-
-
-
-### Th: Campus History Research and Writing
+"
+%}
 
 
 
 
 ## 5. Digital artifacts
+	- what good are digital scans of historical artefacts?
+	- when does a technology become worth it (and what is _it_?)
 
 
 ### T: 3D scanning and digital twins
+- Barilotti, Alyssa. “[Will the Digital Do? Exploring the Role of 3D Technologies in Repatriation Negotiations](https://GWU-Museum-Studies.github.io/Museum-Digital-Practice-2022/essays/essay-5/),” (2022).
+- DeHass, Medeia Krisztina Csoba, and Alexandra Taitt. “3D Technology in Collaborative Heritage Preservation.” _Museum Anthropology Review_ 12.2 (2018): 120–52. 
+- Sydell, Laura. [3D Scans Help Preserve History, But Who Should Own Them?](https://www.npr.org/sections/alltechconsidered/2018/05/21/609084578/3d-scans-help-preserve-history-but-who-should-own-them)
+- [Scan the World](https://www.myminifactory.com/users/Scan%20The%20World)
 
-- Alyssa Barilotti, “[Will the Digital Do? Exploring the Role of 3D Technologies in Repatriation Negotiations](https://GWU-Museum-Studies.github.io/Museum-Digital-Practice-2022/essays/essay-5/),” (2022).
-- DeHass, Medeia Krisztina Csoba, and Alexandra Taitt. “3D Technology in Collaborative Heritage Preservation.” Museum Anthropology Review 12.2 (2018): 120–52. 
-- Laura Sydell, [3D Scans Help Preserve History, But Who Should Own Them?](https://www.npr.org/sections/alltechconsidered/2018/05/21/609084578/3d-scans-help-preserve-history-but-who-should-own-them)
 
 #### Extra:
 - [Immersive Pedagogy: Developing a Decolonial and Collaborative Framework for Teaching and Learning in 3D/VR/AR](https://cuny.manifoldapp.org/read/immersive-pedagogy-developing-a-decolonial-and-collaborative-framework-for-teaching-and-learning-in-3d-vr-ar-faeef5d8-a025-4623-9de3-df0dffb58e83/section/3b23b707-d760-4bc7-89ad-d34645264f5a).
-- Muenster, Sander. “Digital 3D Technologies for Humanities Research and Education: An Overview.” Applied Sciences 12, no. 5 (January 2022): 2426. https://doi.org/10.3390/app12052426.
-- https://www.myminifactory.com/object/3d-print-ancient-food-moulds-187410
-- https://www.myminifactory.com/users/Scan%20The%20World
+- Muenster, Sander. “Digital 3D Technologies for Humanities Research and Education: An Overview.” Applied Sciences 12, no. 5 (January 2022): 2426.
+- [Ancient Food Molds](https://www.myminifactory.com/object/3d-print-ancient-food-moulds-187410)
 
 
-### Th: Scanning Experiment?
-
-- tutorials on photogrammetry and processing coming soon!
+### Th: Scan something
+- tutorials on photogrammetry coming soon!
 
 
 
 
 ## 6. Historical Reconstructions and Simulations
 	- theory and practice of reconstruction
-	- authenticity
+	- historical authenticity
 	- heritage, generally 
 
 
 ### T: Historic Site Reconstruction
-
-- Donald H. Sanders, “Virtual Heritage: Researching and Visualizing the Past in 3D.” Journal of Eastern Mediterranean Archaeology and Heritage Studies 2, no. 1 (2014): 30–47.
-- “Virtual Reconstruction as Archaeological Observation: Embracing New Ways of Treating Sites, Places and Landscapes.” (2024).
-- Jiawei Huang et al., “From Archive, to Access, to Experience––Historical Documents as a Basis for Immersive Experiences.” Journal of Map & Geography Libraries 14.1 (2018): 40–63.
-- Roussou, Maria. “The Components of Engagement in Virtual Heritage Environments.” In Proceeding of New Heritage: Beyond Verisimilitude, 265–83, 2008.
-- Güntan, S. & Ar, B. (2024). Recreating the past: Historical narratives and virtual environments of video games. Mekansal Araştırmalar Dergisi, 2(1):1-10.
+- Sanders, Donald H. “Virtual Heritage: Researching and Visualizing the Past in 3D.” _Journal of Eastern Mediterranean Archaeology and Heritage Studies_ 2, no. 1 (2014): 30–47.
+- Douglass, et al., “Virtual Reconstruction as Archaeological Observation: Embracing New Ways of Treating Sites, Places and Landscapes.” _Advances in Archaeological Practice_ (2024).
+- Huang, Jiawei, et al., “From Archive, to Access, to Experience––Historical Documents as a Basis for Immersive Experiences.” _Journal of Map & Geography Libraries_ 14.1 (2018): 40–63.
+- Ottaway, Susannah, and Austin Mason. “Reconsidering Poor Law Institutions.” _The Historical Journal_ 64, no. 3 (2021): 557–82.
 
 
-
-### Th:
+### Th: Fact, Fiction and History
+- Roussou, Maria. “The Components of Engagement in Virtual Heritage Environments.” In _Proceeding of New Heritage: Beyond Verisimilitude_, 265–83, 2008.
+- Güntan, S. & Ar, B. "Recreating the past: Historical narratives and virtual environments of video games," _Mekansal Araştırmalar Dergisi_, 2(1): 1-10.
+- Sachs, Aaron. “Letters to a Tenured Historian: Imagining History as Creative Nonfiction – or Maybe Even Poetry.” _Rethinking History_ 14, no. 1 (2010): 5–38.
 
 
 
 
 ## 7. Rethinking History with AI
 	- historical authority
-	- technotopias (utopia and dystopia)
+	- algorithmic narratives
 	- role of critical humanities
 
 
-### T: 
+### T: The role of the humanities
+- Platt, Ben. “[Now the Humanities Can Disrupt ‘AI’](https://www.publicbooks.org/now-the-humanities-can-disrupt-ai/)”. _Public Books_, February 20, 2023.
+- Danaher, John. “The Threat of Algocracy: Reality, Resistance and Accommodation.” _Philosophy & Technology_ 29, no. 3 (September 2016): 245–68.
 
 
-### Th: Arteficial Histories with AI
-- Use ChatGPT prompts to create and critique short historical essay on topic from this course.
+### Th: Making history with AI
+- Use ChatGPT prompts to create and critique short historical essay on a topic from another course.
 
 
 
 
 ## 8. Review and wrap-up
-- what have we done?
-- what haven't we done?
-- how do you think differently about history?
+	- what have we done?
+	- what haven't we done?
+	- how do you think differently about history?
 
 ### T: Campus History Reviews
 {% include alert.html class='warning' title='Campus History Reviews' text="

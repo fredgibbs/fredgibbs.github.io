@@ -1,9 +1,9 @@
 ---
 layout: syllabus
-course-title: Digital History
-course-slug: digital-history
+course-title: Artificial History
+course-slug: artificial-history
 term: Spring 2025
-number: HIST 300-001
+number: HIST 300-009
 section: links-guides
 ---
 
@@ -33,7 +33,7 @@ Rather than post these on your digital portfolios, we're going to make a separat
 
 - Skim through the relevant sections of these books (i.e. the parts that correspond to the life of your building) to get a sense of the culture and concerns of the University around the time your building was built or remodeled or whatever.
 - Ask the librarian for a manuscript request form.
-- Find a computer, and navigate to the [Rocky Mountain Online Archive Advanced Search](https://rmoa.unm.edu/advanced.php)
+- Find a computer, and navigate to the [New Mexico Digital Archive](https://econtent.unm.edu/)
 - Enter the name of your building or place (you need to spell it correctly), and USE QUOTES if it's multiple words (or you'll get results with ANY of the words)
 - For the Institutions field, pick "University of New Mexico Center for Southwest Research and Special Collections"
 - Once you click on an item from the search results, note the "Collection Number" near the top of the page and put that on your form.

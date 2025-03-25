@@ -88,7 +88,7 @@ Common
   h5 {
     font-family: 'Roboto Condensed', sans-serif;
     color: #000;
-    letter-spacing: -0.1rem
+    letter-spacing: -0.07rem
   }
 
   h1 a, h2 a, h3 a, h4 a, h5 a, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited  {
@@ -100,7 +100,6 @@ Common
   h1 {
     font-size: 3rem;
     font-weight: 700;
-    letter-spacing: -0.1rem;
     margin: 1rem 0;
   }
 
@@ -431,12 +430,12 @@ Common
     border-bottom: 1px solid #999;
     padding: 0.2rem 0;
     margin-top: 4rem;
-    font-size: 2.4rem;
+    font-size: 2.2rem;
     color: #c60;
   }
 
   #syllabus h3 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
   }
 
   #syllabus h3 a {

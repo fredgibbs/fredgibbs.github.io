@@ -7,9 +7,14 @@ title: using zotero | fred gibbs
 
 [Zotero](http://zotero.org) is a free and popular tool developed by academics for academics for managing bibliographies to share resources like PDFs.
 
-{% include alert.html class='warning' title='Just class' text="
+{% include alert.html class='warning' title='See syllabus for library links' text="
 Consult the syllabus for details about how to connect to Zotero for your course. This guide explains in more detail how to use the platform and helps solve the most common problems / questions.
 "%}
+
+## Connecting to Zotero
+- Go to [zotero.org](http://zotero.org) and create a free account with a username and password. I recommend using your UNM email address.
+- Once you've created an account and logged in, click on the link on your class syllabus for the class Zotero library. There should be a red "Join" button that you can click to request access to the shared library for course readings.
+- I approve requests every few hours. Follow directions on your course syllabus to see if you can access PDFs for the course. What does that mean? Read on...
 
 
 ## Using Zotero
@@ -17,7 +22,7 @@ You can know if you have access to the readings if you can bring up a PDF of any
 
 The main thing to know is that double-clicking a reading will bring up the PDF attached to it.
 
-HOWEVER, a few items in our Zotero library have more than one PDF attached to them. In those cases, like if you're getting the wrong chapter when double-clicking at item, single-click on the item to select it, then click the "Attachments" tab near the upper right of the page. You'll see links to all PDFs for that item and you can select the PDF you need and click the icon to open it. The title of the PDF should make it clear what it is.
+HOWEVER, a few items in our Zotero library have more than one PDF attached to them. In those cases, double-clicking brings up the same item repeatedly. If you're getting the wrong chapter when double-clicking at item, single-click on the item to select it, then click the "Attachments" tab near the upper right of the page. You'll see links to all PDFs for that item and you can select the PDF you need and click the icon to open it. The title of the PDF should make it clear what it is.
 
 
 
