@@ -137,8 +137,14 @@ text = "Come to class prepared to discuss the [data interface exercise](data-int
 - what if buildings could talk?
 - maybe [Everything is Alive](https://www.everythingisalive.com/)
 
+{% include alert.html class='warning' 
+title = 'Humanities Poster Assignment Due' 
+text = "More details and instructions coming soon!"
+%}
+
+
 {% include alert.html class='info' 
-title = 'A few tools for collaborative campus history' 
+title = 'FOR TODAY:A few tools for collaborative campus history' 
 text = " 
 - Introduction to [Markdown](https://www.markdowntutorial.com/). For later reference, there's an easy [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - Introduction to [GitHub](https://guides.github.com/activities/hello-world/). Read through this tutorial, but do not actually do all the steps---just try to understand what's going on and we'll go over it.
