@@ -54,17 +54,18 @@ text = "For ideas of what to think about when reading, and how to best prepare f
 - Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast: The Transnational and the Text-Searchable.” _The American Historical Review_ 121, no. 2 (2016): 377–402.
 - Christen, Kimberly. “Tribal Archives, Traditional Knowledge, and Local Contexts: Why the ‘s’ Matters,” 2015.
 
-{% include alert.html class='warning' 
-title = 'Book discovery exercise' 
-text = "Come to class prepared to discuss the [book discovery exercise](book-discovery). Use the readings to explain your discoveries.
-"
-%}
 
 
 ### Th: Community Archives
 - Duarte, Marisa Elena and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 2015): 677–702.
 - Guiliano, Jennifer, and Carolyn Heitman. “Difficult Heritage and the Complexities of Indigenous Data.” Journal of Cultural Analytics 4, no. 1 (August 2019).
 - Caswell, Michelle. “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” _The Public Historian_ 36, no. 4 (2014): 26–37.
+
+{% include alert.html class='warning' 
+title = 'Book discovery exercise' 
+text = "Come to class prepared to discuss the [book discovery exercise](book-discovery). Use the readings to explain your discoveries.
+"
+%}
 
 
 
