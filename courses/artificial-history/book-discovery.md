@@ -21,6 +21,6 @@ section: links-guides
 - What can we extrapolate from this exercise to the real world?
 - What does this tell us about discovery algorithms?
 
-## Participation matter
+## Participation matters
 - Don't be a tree falling silently in the forest! 
 - Be ready to describe your discovery "experience" in class.
