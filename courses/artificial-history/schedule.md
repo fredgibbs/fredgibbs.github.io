@@ -57,7 +57,7 @@ text = "For ideas of what to think about when reading, and how to best prepare f
 
 
 ### Th: Community Archives
-- Duarte, Marisa Elena and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 2015): 677–702.
+- Duarte, Marisa Elena and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 2015): 677–702. Read through 691 and skim the rest.
 - Guiliano, Jennifer, and Carolyn Heitman. “Difficult Heritage and the Complexities of Indigenous Data.” Journal of Cultural Analytics 4, no. 1 (August 2019).
 - Caswell, Michelle. “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” _The Public Historian_ 36, no. 4 (2014): 26–37.
 
