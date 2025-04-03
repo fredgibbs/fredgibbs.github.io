@@ -58,8 +58,13 @@ text = "For ideas of what to think about when reading, and how to best prepare f
 
 ### Th: Community Archives
 - Duarte, Marisa Elena and Miranda Belarde-Lewis, “Imagining: Creating Spaces for Indigenous Ontologies,” _Cataloging & Classification Quarterly_ 53, no. 5–6 (July 2015): 677–702. Read through 691 and skim the rest.
-- Guiliano, Jennifer, and Carolyn Heitman. “Difficult Heritage and the Complexities of Indigenous Data.” Journal of Cultural Analytics 4, no. 1 (August 2019).
+- Guiliano, Jennifer, and Carolyn Heitman. “Difficult Heritage and the Complexities of Indigenous Data.” _Journal of Cultural Analytics_ 4, no. 1 (August 2019).
 - Caswell, Michelle. “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation,” _The Public Historian_ 36, no. 4 (2014): 26–37.
+
+- [Community Webs](https://communitywebs.archive-it.org/)
+- [SAADA](https://www.saada.org/)
+- [After Violence](https://afterviolenceproject.org/)
+- [Genoa Indian School](https://genoaindianschool.org/)
 
 {% include alert.html class='warning' 
 title = 'Book discovery exercise' 
@@ -92,6 +97,7 @@ text = "Come to class prepared to discuss the [book discovery exercise](book-dis
 - [UNM Campus Histories](https://campushistory.unm.edu/)
 - [UM Heritage Project](https://heritage.umich.edu)
 - [Names in Brick and Stone](https://unchistory.web.unc.edu/)
+
 
 
 ### Th: Computing the Archive
@@ -138,10 +144,6 @@ text = "Come to class prepared to discuss the [data interface exercise](data-int
 - what if buildings could talk?
 - maybe [Everything is Alive](https://www.everythingisalive.com/)
 
-{% include alert.html class='warning' 
-title = 'Humanities Poster Assignment Due' 
-text = "More details and instructions coming soon!"
-%}
 
 
 {% include alert.html class='info' 
@@ -165,6 +167,11 @@ text = "
 - DeHass, Medeia Krisztina Csoba, and Alexandra Taitt. “3D Technology in Collaborative Heritage Preservation.” _Museum Anthropology Review_ 12.2 (2018): 120–52. 
 - Sydell, Laura. [3D Scans Help Preserve History, But Who Should Own Them?](https://www.npr.org/sections/alltechconsidered/2018/05/21/609084578/3d-scans-help-preserve-history-but-who-should-own-them)
 - [Scan the World](https://www.myminifactory.com/users/Scan%20The%20World)
+
+{% include alert.html class='warning' 
+title = 'Humanities Poster Assignment Due' 
+text = "More details and instructions coming soon!"
+%}
 
 
 #### Extra:
