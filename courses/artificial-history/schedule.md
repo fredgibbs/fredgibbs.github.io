@@ -83,6 +83,7 @@ text = "Come to class prepared to discuss the [book discovery exercise](book-dis
 ### T: Interfacing the Archive
 - Hedstrom, Margaret. “Archives, Memory, and Interfaces with the Past,” 21–43.
 - Presner, Todd. “8. The Ethics of the Algorithm: Close and Distant Listening to the Shoah Foundation Visual History Archive.” In _Probing the Ethics of Holocaust Culture_, 167–202. Harvard University Press, 2016. 
+  - Also see the [USC Shoah Foundation Visual History Archive](https://vha.usc.edu/home)
 - Whitelaw, Mitchell. [Generous Interfaces for Digital Cultural Collections](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html)
 - Gibbs, Fred. [New Forms of History: Critiquing Data and Its Representations](https://tah.oah.org/february-2016/new-forms-of-history-critiquing-data-and-its-representations/), _American Historian_ 7 (2016): 31-36.
 
