@@ -93,10 +93,7 @@ text = "Come to class prepared to discuss the [book discovery exercise](book-dis
 #### Early efforts
 [Valley of the Shadow](http://valley.lib.virginia.edu/), [Virtual Jamestown](http://www.virtualjamestown.org), [Documenting the American South](https://docsouth.unc.edu/index.html)
 
-#### Campus Histories
-- [UNM Campus Histories](https://campushistory.unm.edu/)
-- [UM Heritage Project](https://heritage.umich.edu)
-- [Names in Brick and Stone](https://unchistory.web.unc.edu/)
+
 
 
 
@@ -126,24 +123,29 @@ text = "Come to class prepared to discuss the [data interface exercise](data-int
 	- what should a humanities poster look like?
 
 
-### T: Digital Storytelling
-- Hurley, Andrew. “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” _The Public Historian_ 38, no. 1 (2016): 69–88.
-- Wyman, Bruce et al., “Digital Storytelling in Museums: Observations and Best Practices,” _Curator: The Museum Journal_ 54, no. 4 (2011): 461–68.
-- Quimby, Claire. [Digital Catalogues Study: A Cross-Institutional User Study of Online Museum Collection Catalogues](https://digpublishing.github.io/catalogues-study/.) Art Institute of Chicago, November 2019. 
-
-#### Engagement
-- [Digital Community Engagement](https://ucincinnatipress.manifoldapp.org/read/digital-community-engagement/section/956440e8-7e77-42f7-9366-84a653fe72d4)
-- Cifor, Marika, Michelle Caswell, Alda Allina Migoni, and Noah Geraci. “‘What We Do Crosses over to Activism': The Politics and Practice of Community Archives.” _The Public Historian_ 40.2 (2018): 69–95.
-- Hausknecht, Simone, Shannon Freeman, Jenny Martin, Carrie Nash, and Kelly Skinner. “Sharing Indigenous Knowledge through Intergenerational Digital Storytelling: Design of a Workshop Engaging Elders and Youth.” _Educational Gerontology_ 47, no. 7 (July 2021): 285–96.
-- Zavala, Jimmy, et al., “‘A Process Where We’re All at the Table’: Community Archives Challenging Dominant Modes of Archival Practice.,” _Archives and Manuscripts_ 45, no. 3 (2017): 202–15.
-
-
-### Th: Campus History Collaboration
+### T: Campus History Collaboration
 - why collaborative history?
 - does UNM history matter?
 - what if buildings could talk?
 - maybe [Everything is Alive](https://www.everythingisalive.com/)
 
+#### Campus Histories
+- [UNM Campus Histories](https://campushistory.unm.edu/)
+- [UM Heritage Project](https://heritage.umich.edu)
+- [Names in Brick and Stone](https://unchistory.web.unc.edu/)
+
+
+
+### Th: Digital Storytelling
+- Hurley, Andrew. “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” _The Public Historian_ 38, no. 1 (2016): 69–88.
+- Wyman, Bruce et al., “Digital Storytelling in Museums: Observations and Best Practices,” _Curator: The Museum Journal_ 54, no. 4 (2011): 461–68.
+- Quimby, Claire. [Digital Catalogues Study: A Cross-Institutional User Study of Online Museum Collection Catalogues](https://digpublishing.github.io/catalogues-study/.) Art Institute of Chicago, November 2019. 
+
+#### Engagement (browse a little, have something to say...)
+- [Digital Community Engagement](https://ucincinnatipress.manifoldapp.org/read/digital-community-engagement/section/956440e8-7e77-42f7-9366-84a653fe72d4)
+- Cifor, Marika, Michelle Caswell, Alda Allina Migoni, and Noah Geraci. “‘What We Do Crosses over to Activism': The Politics and Practice of Community Archives.” _The Public Historian_ 40.2 (2018): 69–95.
+- Hausknecht, Simone, Shannon Freeman, Jenny Martin, Carrie Nash, and Kelly Skinner. “Sharing Indigenous Knowledge through Intergenerational Digital Storytelling: Design of a Workshop Engaging Elders and Youth.” _Educational Gerontology_ 47, no. 7 (July 2021): 285–96.
+- Zavala, Jimmy, et al., “‘A Process Where We’re All at the Table’: Community Archives Challenging Dominant Modes of Archival Practice.,” _Archives and Manuscripts_ 45, no. 3 (2017): 202–15.
 
 
 {% include alert.html class='info' 
@@ -216,12 +218,13 @@ text = "More details and instructions coming soon!"
 ### T: The role of the humanities
 - Platt, Ben. “[Now the Humanities Can Disrupt ‘AI’](https://www.publicbooks.org/now-the-humanities-can-disrupt-ai/)”. _Public Books_, February 20, 2023.
 - Danaher, John. “The Threat of Algocracy: Reality, Resistance and Accommodation.” _Philosophy & Technology_ 29, no. 3 (September 2016): 245–68.
+- IN CLASS: use ChatGPT prompts to create and critique short historical essays on a topic from another course.
 
 
-### Th: Making history with AI
-- Use ChatGPT prompts to create and critique short historical essay on a topic from another course.
-
-
+### Th:  Campus History Reviews
+{% include alert.html class='warning' title='Campus History Reviews' text="
+Peer reviews today! Make sure you have a COMPLETE version of your [campus history essay](campus-history-guidelines) for critique.
+"%}
 
 
 ## 8. Review and wrap-up
@@ -229,10 +232,7 @@ text = "More details and instructions coming soon!"
 	- what haven't we done?
 	- how do you think differently about history?
 
-### T: Campus History Reviews
-{% include alert.html class='warning' title='Campus History Reviews' text="
-Peer reviews today! Make sure you have a COMPLETE version of your [campus history essay](campus-history-guidelines) for critique.
-"%}
+### T: Final Reflections
 
-### Th: Final Reflections
+### Th: NO CLASS
 
