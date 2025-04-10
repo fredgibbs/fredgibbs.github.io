@@ -115,13 +115,16 @@ text = "Come to class prepared to discuss the [data interface exercise](data-int
 - Crane, Tom. “[Beyond the Viewer: Fragments and Links in Annotation Space](https://medium.com/digirati-ch/beyond-the-viewer-fragments-and-links-in-annotation-space-b3284e25f34)”. _Digirati-Ch_, June 2018.
 
 
+{% include alert.html class='warning' 
+title = 'AI Summary Critique Intro' 
+text = "Upload one of our readings into ChatGPT or a similar AI tool. Ask the "machine" for a summary. Read the article carefully and critique what the AI did well and what it missed. Hopefully your notes from class discussions will be helpful. Come to class next Thursday prepared to discuss!"
+%}
 
 
 ## 4. Engaging History
 	- how have FORMS of history kept pace with information technology change?
 	- what should history look like?
-	- what should a humanities poster look like?
-
+	- how can campus histories come alive?
 
 ### T: Digital Storytelling
 - Hurley, Andrew. “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” _The Public Historian_ 38, no. 1 (2016): 69–88.
@@ -149,8 +152,8 @@ text = "Come to class prepared to discuss the [data interface exercise](data-int
 
 
 {% include alert.html class='warning' 
-title = 'AI Summary Critique' 
-text = "Upload one of our readings into ChatGPT or a similar AI tool. Ask the "machine" for a summary. Read the article carefully and critique what the AI did well and what it missed. Hopefully your notes from class discussions "
+title = 'AI Summary Critique DUE' 
+text = "Upload one of our readings into ChatGPT or a similar AI tool. Ask the "machine" for a summary. Read the article carefully and critique what the AI did well and what it missed. Hopefully your notes from class discussions will be helpful."
 %}
 
 {% include alert.html class='info' 
@@ -158,6 +161,7 @@ title = 'FOR TODAY: A few tools for collaborative campus history'
 text = " 
 - Introduction to [Markdown](https://www.markdowntutorial.com/). For later reference, there's an easy [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - Introduction to [GitHub](https://guides.github.com/activities/hello-world/). Read through this tutorial, but DO NOT actually do all the steps---just try to understand the general idea and we'll walk through everything together."
+- Garageband and Audacity
 %}
 
 
@@ -181,9 +185,10 @@ text = "
 - [Ancient Food Molds](https://www.myminifactory.com/object/3d-print-ancient-food-moulds-187410)
 
 
-### Th: Scan something
-- tutorials on photogrammetry coming soon!
-
+### Th: Work time
+- Do your campus history research for (minor) essay revisions and building interviews
+- Reserve time (or walk in) in the digital humanities studio to scan your artifact
+- Take a few photos of your object for your web essay
 
 
 
@@ -217,12 +222,11 @@ text = "
 ### T: The role of the humanities
 - Platt, Ben. “[Now the Humanities Can Disrupt ‘AI’](https://www.publicbooks.org/now-the-humanities-can-disrupt-ai/)”. _Public Books_, February 20, 2023.
 - Danaher, John. “The Threat of Algocracy: Reality, Resistance and Accommodation.” _Philosophy & Technology_ 29, no. 3 (September 2016): 245–68.
-- IN CLASS: use ChatGPT prompts to create and critique short historical essays on a topic from another course.
 
 
-### Th:  Campus History Reviews
-{% include alert.html class='warning' title='Campus History Reviews' text="
-Peer reviews today! Make sure you have a COMPLETE version of your [campus history essay](campus-history-guidelines) for critique.
+### Th:  Artefact Essay Reviews
+{% include alert.html class='warning' title='Artifact Essay Reviews' text="
+Peer reviews today! Make sure you have a COMPLETE version for critique.
 "%}
 
 
