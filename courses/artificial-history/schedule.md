@@ -150,15 +150,14 @@ text = "Come to class prepared to discuss the [data interface exercise](data-int
 
 {% include alert.html class='warning' 
 title = 'AI Summary Critique' 
-text = "More details and instructions coming soon!"
+text = "Upload one of our readings into ChatGPT or a similar AI tool. Ask the "machine" for a summary. Read the article carefully and critique what the AI did well and what it missed. Hopefully your notes from class discussions "
 %}
 
 {% include alert.html class='info' 
 title = 'FOR TODAY: A few tools for collaborative campus history' 
 text = " 
 - Introduction to [Markdown](https://www.markdowntutorial.com/). For later reference, there's an easy [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-- Introduction to [GitHub](https://guides.github.com/activities/hello-world/). Read through this tutorial, but do not actually do all the steps---just try to understand what's going on and we'll go over it.
-"
+- Introduction to [GitHub](https://guides.github.com/activities/hello-world/). Read through this tutorial, but DO NOT actually do all the steps---just try to understand the general idea and we'll walk through everything together."
 %}
 
 
