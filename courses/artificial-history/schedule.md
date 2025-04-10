@@ -123,20 +123,7 @@ text = "Come to class prepared to discuss the [data interface exercise](data-int
 	- what should a humanities poster look like?
 
 
-### T: Campus History Collaboration
-- why collaborative history?
-- does UNM history matter?
-- what if buildings could talk?
-- maybe [Everything is Alive](https://www.everythingisalive.com/)
-
-#### Campus Histories
-- [UNM Campus Histories](https://campushistory.unm.edu/)
-- [UM Heritage Project](https://heritage.umich.edu)
-- [Names in Brick and Stone](https://unchistory.web.unc.edu/)
-
-
-
-### Th: Digital Storytelling
+### T: Digital Storytelling
 - Hurley, Andrew. “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” _The Public Historian_ 38, no. 1 (2016): 69–88.
 - Wyman, Bruce et al., “Digital Storytelling in Museums: Observations and Best Practices,” _Curator: The Museum Journal_ 54, no. 4 (2011): 461–68.
 - Quimby, Claire. [Digital Catalogues Study: A Cross-Institutional User Study of Online Museum Collection Catalogues](https://digpublishing.github.io/catalogues-study/.) Art Institute of Chicago, November 2019. 
@@ -148,8 +135,26 @@ text = "Come to class prepared to discuss the [data interface exercise](data-int
 - Zavala, Jimmy, et al., “‘A Process Where We’re All at the Table’: Community Archives Challenging Dominant Modes of Archival Practice.,” _Archives and Manuscripts_ 45, no. 3 (2017): 202–15.
 
 
+
+### Th: Campus History Collaboration
+- why collaborative history?
+- does UNM history matter?
+- what if buildings could talk?
+- maybe [Everything is Alive](https://www.everythingisalive.com/)
+
+#### Campus Histories
+- [UNM Campus Histories](https://campushistory.unm.edu/)
+- [UM Heritage Project](https://heritage.umich.edu)
+- [Names in Brick and Stone](https://unchistory.web.unc.edu/)
+
+
+{% include alert.html class='warning' 
+title = 'AI Summary Critique' 
+text = "More details and instructions coming soon!"
+%}
+
 {% include alert.html class='info' 
-title = 'FOR TODAY:A few tools for collaborative campus history' 
+title = 'FOR TODAY: A few tools for collaborative campus history' 
 text = " 
 - Introduction to [Markdown](https://www.markdowntutorial.com/). For later reference, there's an easy [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - Introduction to [GitHub](https://guides.github.com/activities/hello-world/). Read through this tutorial, but do not actually do all the steps---just try to understand what's going on and we'll go over it.
@@ -169,11 +174,6 @@ text = "
 - DeHass, Medeia Krisztina Csoba, and Alexandra Taitt. “3D Technology in Collaborative Heritage Preservation.” _Museum Anthropology Review_ 12.2 (2018): 120–52. 
 - Sydell, Laura. [3D Scans Help Preserve History, But Who Should Own Them?](https://www.npr.org/sections/alltechconsidered/2018/05/21/609084578/3d-scans-help-preserve-history-but-who-should-own-them)
 - [Scan the World](https://www.myminifactory.com/users/Scan%20The%20World)
-
-{% include alert.html class='warning' 
-title = 'Humanities Poster Assignment Due' 
-text = "More details and instructions coming soon!"
-%}
 
 
 #### Extra:
