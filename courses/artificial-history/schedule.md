@@ -130,6 +130,7 @@ text = "Upload one of our readings into ChatGPT or a similar AI tool. Ask the "m
 - Hurley, Andrew. “Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide,” _The Public Historian_ 38, no. 1 (2016): 69–88.
 - Wyman, Bruce et al., “Digital Storytelling in Museums: Observations and Best Practices,” _Curator: The Museum Journal_ 54, no. 4 (2011): 461–68.
 - Quimby, Claire. [Digital Catalogues Study: A Cross-Institutional User Study of Online Museum Collection Catalogues](https://digpublishing.github.io/catalogues-study/.) Art Institute of Chicago, November 2019. 
+- Read the [Key Findings](https://digpublishing.github.io/catalogues-study/findings/) section, and the 3 short sections in the "[Functionality and Design](https://digpublishing.github.io/catalogues-study/functionality-and-design/)" section.
 
 #### Engagement (browse a little, have something to say...)
 - [Digital Community Engagement](https://ucincinnatipress.manifoldapp.org/read/digital-community-engagement/section/956440e8-7e77-42f7-9366-84a653fe72d4)
