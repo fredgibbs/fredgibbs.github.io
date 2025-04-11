@@ -173,9 +173,11 @@ text = "
 	- when does a technology become worth it (and what is _it_?)
 
 
-### T: 3D scanning and digital twins
+### T: 3D and digital twins
+- Liang, Jiafang. “Mixing Worlds: Current Trends in Integrating the Past and Present through Augmented and Mixed Reality.” Advances in Archaeological Practice 9, no. 3 (2021): 250–56.
 - Barilotti, Alyssa. “[Will the Digital Do? Exploring the Role of 3D Technologies in Repatriation Negotiations](https://GWU-Museum-Studies.github.io/Museum-Digital-Practice-2022/essays/essay-5/),” (2022).
-- DeHass, Medeia Krisztina Csoba, and Alexandra Taitt. “3D Technology in Collaborative Heritage Preservation.” _Museum Anthropology Review_ 12.2 (2018): 120–52. 
+- DeHass, Medeia Krisztina Csoba, and Alexandra Taitt. “3D Technology in Collaborative Heritage Preservation.” _Museum Anthropology Review_ 12.2 (2018): 120–52.
+- Cameron, Fiona. “3 Beyond the Cult of the Replicant: Museums and Historical Digital Objects—Traditional Concerns, New Discourses”  
 - Sydell, Laura. [3D Scans Help Preserve History, But Who Should Own Them?](https://www.npr.org/sections/alltechconsidered/2018/05/21/609084578/3d-scans-help-preserve-history-but-who-should-own-them)
 - [Scan the World](https://www.myminifactory.com/users/Scan%20The%20World)
 
@@ -183,6 +185,7 @@ text = "
 #### Extra:
 - [Immersive Pedagogy: Developing a Decolonial and Collaborative Framework for Teaching and Learning in 3D/VR/AR](https://cuny.manifoldapp.org/read/immersive-pedagogy-developing-a-decolonial-and-collaborative-framework-for-teaching-and-learning-in-3d-vr-ar-faeef5d8-a025-4623-9de3-df0dffb58e83/section/3b23b707-d760-4bc7-89ad-d34645264f5a).
 - Muenster, Sander. “Digital 3D Technologies for Humanities Research and Education: An Overview.” Applied Sciences 12, no. 5 (January 2022): 2426.
+- [Kinda what we're doing](https://sketchfab.com/scu-chl)
 - [Ancient Food Molds](https://www.myminifactory.com/object/3d-print-ancient-food-moulds-187410)
 
 
@@ -223,6 +226,7 @@ text = "
 ### T: The role of the humanities
 - Platt, Ben. “[Now the Humanities Can Disrupt ‘AI’](https://www.publicbooks.org/now-the-humanities-can-disrupt-ai/)”. _Public Books_, February 20, 2023.
 - Danaher, John. “The Threat of Algocracy: Reality, Resistance and Accommodation.” _Philosophy & Technology_ 29, no. 3 (September 2016): 245–68.
+- Klein, Lauren. “Are Large Language Models Our Limit Case?” Startwords, no. 3 (August 1, 2022).
 
 
 ### Th:  Artefact Essay Reviews
