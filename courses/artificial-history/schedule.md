@@ -117,7 +117,7 @@ text = "Come to class prepared to discuss the [data interface exercise](data-int
 
 {% include alert.html class='warning' 
 title = 'AI Summary Critique Intro' 
-text = "Upload one of our readings into ChatGPT or a similar AI tool. Ask the "machine" for a summary. Read the article carefully and critique what the AI did well and what it missed. Hopefully your notes from class discussions will be helpful. Come to class next Thursday prepared to discuss!"
+text = "Upload one of our readings into ChatGPT or a similar AI tool. Ask the \"machine\" for a summary. Read the article carefully and critique what the AI did well and what it missed. Hopefully your notes from class discussions will be helpful. Come to class next Thursday prepared to discuss!"
 %}
 
 
@@ -154,15 +154,16 @@ text = "Upload one of our readings into ChatGPT or a similar AI tool. Ask the "m
 
 {% include alert.html class='warning' 
 title = 'AI Summary Critique DUE' 
-text = "Upload one of our readings into ChatGPT or a similar AI tool. Ask the "machine" for a summary. Read the article carefully and critique what the AI did well and what it missed. Hopefully your notes from class discussions will be helpful."
+text = "Upload one of our readings into ChatGPT or a similar AI tool. Ask the \"machine\" for a summary. Read the article carefully and critique what the AI did well and what it missed. Hopefully your notes from class discussions will be helpful."
 %}
 
 {% include alert.html class='info' 
 title = 'FOR TODAY: A few tools for collaborative campus history' 
 text = " 
 - Introduction to [Markdown](https://www.markdowntutorial.com/). For later reference, there's an easy [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-- Introduction to [GitHub](https://guides.github.com/activities/hello-world/). Read through this tutorial, but DO NOT actually do all the steps---just try to understand the general idea and we'll walk through everything together."
+- Introduction to [GitHub](https://guides.github.com/activities/hello-world/). Read through this tutorial, but DO NOT actually do all the steps---just try to understand the general idea and we'll walk through everything together.
 - Garageband and Audacity
+"
 %}
 
 
