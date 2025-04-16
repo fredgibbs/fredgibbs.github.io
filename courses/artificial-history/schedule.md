@@ -148,7 +148,7 @@ text = "Upload one of our readings into ChatGPT or a similar AI tool. Ask the \"
 
 #### Campus Histories
 - [UNM Campus Histories](https://campushistory.unm.edu/)
-= [UW Center for Campus History](https://campushistory.wisc.edu/)
+- [UW Center for Campus History](https://campushistory.wisc.edu/)
 - [UM Heritage Project](https://heritage.umich.edu)
 - [Names in Brick and Stone](https://unchistory.web.unc.edu/)
 - [USSC Campus History](https://www.uccs.edu/about/history)
