@@ -20,13 +20,13 @@ So, we use a feature of GitHub to allow _everyone_ to make their own copy of _{{
 
 
 ## Create a GitHub account
-- Go to [[github.com]] and click the "Sign up" button.
+- Go to [github.com](https://github.com) and click the "Sign up" button.
 - I highly recommend your UNM email, but use whatever you want. 
 - Your username can be your UNM NetID, or something totally different. 
 
 
 ## Fork the intro-guide repository
-In GitHub speak, **forking** means to create your own copy of someone else's public repository for you to play around with your own copy.
+In GitHub speak, **forking** means to create your own copy of someone else's public repository so that you can play around with your own copy and leave the original alone.
 - Be sure you are logged into GitHub
 - Go to the [{{page.site-name}} repository]({{page.repository-url}}), and click the `Fork` button in the upper right corner (don't click the number).
 - We want the default settings, so just click the green  "Create fork" button.

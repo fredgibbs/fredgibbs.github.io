@@ -16,24 +16,33 @@ site-url: https://unm-digital-history.github.io/campus-history/
 
 This guide is useful ONLY AFTER you have followed the directions for [setting up your repository](campus-history-setup).
 
-Once you have your own copy of the  _{{page.site-name}}_ repository AND your own versioni of the website is running (the URL will look like https://USERNAME.github.io/{{page.repository-name}}/), you are ready to proceed.
+Once you have your own copy of the  _{{page.site-name}}_ repository AND your own version of the website is running (the URL will look like https://USERNAME.github.io/{{page.repository-name}}/), you are ready to proceed.
 
 ### Save time with bookmarks
 Create bookmarks for two locations you will be visiting often:
-- YOUR own _{{page.site-name}}_ **REPOSITORY**: https://github.com/USERNAME/{{page.repository-name}}/, replacing USERNAME with your GitHub username.
+- YOUR own _{{page.site-name}}_ **REPOSITORY**: https://github.com/USERNAME/{{page.repository-name}}/
+  - Replace USERNAME with your GitHub username!
 - YOUR own _{{page.site-name}}_ **WEBSITE**: https://USERNAME.github.io/{{page.repository-name}}
 
 ## Create a new page
-Go to YOUR repository. If you have just enabled GitHub pages (or basically anytime), you can click the "metahistory" link after your username near the top left corner. You should see the list of files in the repository (starting with folders like _data and _includes).
+Go to YOUR repository. You should see the list of files in the repository (starting with folders like _includes and _layouts).
 
-Working in YOUR repository (the URL will look like https://github.com/USERNAME/{{page.repository-name}}/), find the essay you want to edit. You can always figure out where to go by looking at the URL of the original page. The folder structure in the repository is reflected in the URL.
+Working in YOUR repository (the URL will look like https://github.com/USERNAME/{{page.repository-name}}/), find the essay you want to duplicate (use the Mesa Vista one if unsure). You can always find the file by looking at the URL of the original page. The folder structure in the repository is reflected in the URL.
 
-## Make a simple change near the top of the page
-It doesn't matter what you change, but keep it simple and make a change that you can easily detect. Commit that change to your repository.
+- Click the `Add file` button in the upper right
+- Type in a folder name for your essay, all lower case and with dashes (example: mesa-vista-hall)
+- Continue typing `/index.md`
+- Choose file namne with spaces instead of dashes and with a `.md` extension (example: `my-new-page.md`)
+- Click the green `Commit changes...` button.
+- Go to an essay in the `essays` folder (it will be called index.md)
+- Click the copy icon (two overlapping rectangles)
+- Navigate to your new page, paste the text you just copied.
+ - Click the green `Commit changes...` button.
+
 
 ## Test your page
-- Wait a few minutes after you commit your file. Remember there is a few minutes lag between when you save your file and seeing it on the website.
-- Test your page by going to https://USERNAME.github.io/{{page.repository-name}} (you bookmarked it, right?) and navigate to the page you edited. 
+- Chill for a minute. Remember there is a lag between when you save your file and the website getting updated.
+- Test your page by going to https://USERNAME.github.io/{{page.repository-name}} (you bookmarked it, right?) and add  `essays/your-new-folder/` to the URL to see your new page. Obviously replace your-new-folder with what you typed in the previous step.
 
 ## Edit offline
 Now you are ready to go in full-on edit mode for your essay. Although fine for testing, **please do not edit this long essay in the tiny GitHub text editor**. It makes it WAY TOO EASY to make mistakes that take a LOT OF TIME to fix. My favorite editor is [Sublime](https://www.sublimetext.com/)

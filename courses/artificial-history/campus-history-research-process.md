@@ -7,12 +7,11 @@ number: HIST 300-009
 section: links-guides
 ---
 
-## Research Process
+## Campus History Research Process
 
-### Pick a place
-- Add a building/place (in the place-name column) to our [UNM Campus History Index](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit?usp=sharing)
+### Pick a topic
+- Add a topci (in the place-name column) to our [UNM Campus History Index](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit?usp=sharing)
   - Ignore all the other columns for now
-  - Note that the data on this page will be used on our collaborative website, take care with details!
 
 ### Explore the "actual" archives
 - Go to the Center for Southwest Research in Zimmerman Library. To get there, enter Zimmerman through the main door, then make a U-turn to the left. Note all the cool archival stuff in the display cases.
