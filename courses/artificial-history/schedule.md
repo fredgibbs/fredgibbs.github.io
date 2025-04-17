@@ -147,7 +147,7 @@ text = "Upload one of our readings into ChatGPT or a similar AI tool. Ask the \"
 - maybe [Everything is Alive](https://www.everythingisalive.com/)
 
 #### Campus Histories
-- [UNM Campus Histories](https://campushistory.unm.edu/)
+- [UNM Campus Histories](https://unm-digital-history.github.io/campus-history/)
 - [UW Center for Campus History](https://campushistory.wisc.edu/)
 - [UM Heritage Project](https://heritage.umich.edu)
 - [Names in Brick and Stone](https://unchistory.web.unc.edu/)

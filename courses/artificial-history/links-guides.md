@@ -16,5 +16,10 @@ This page contains a list of links that you will probably need repeatedly throug
 - [Reading Guide](reading-guide.html)
 - [Book Discover Exercise](book-discovery.html)
 - [Data Interface Critique](data-interface-critique.html)
-- [UNM Campus History Guide](unm-campus-history-guidelines.html)
+
+## Campus History Project
+- [Guidelines](campus-history-guidelines.html)
+- [Research Process](campus-history-research-process.html)
+- [Getting started](campus-history-setup.html)
+- [Creating your page](campus-history-new-page.html)
 

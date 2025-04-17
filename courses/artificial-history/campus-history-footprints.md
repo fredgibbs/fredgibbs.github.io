@@ -8,7 +8,7 @@ section: links-guides
 ---
 
 # Spatial Footprints 
-Since this is a SPATIAL history, we should have a map interface! So, we need a way of creating a clickable space on a web map. I'll handle the technical details, but you need to tell me where your building/place is.
+MAPS ARE COOL! So we should have a map interface. So, we need a way of creating a clickable space on a web map, and for that, you need to tell me where your building/place is.
 
 - Go to [Google Maps](http://maps.google.com).
 - Click the 3-line menu icon in the upper left of the search bar.
