@@ -179,6 +179,7 @@ text = "
 
 #### Everyone
 - Sydell, Laura. [3D Scans Help Preserve History, But Who Should Own Them?](https://www.npr.org/sections/alltechconsidered/2018/05/21/609084578/3d-scans-help-preserve-history-but-who-should-own-them)
+  - [Bagan](https://artsexperiments.withgoogle.com/bagan)
 - [Scan the World](https://www.myminifactory.com/users/Scan%20The%20World)
 - [Kinda what we're doing](https://sketchfab.com/scu-chl)
 - [Ancient Food Molds](https://www.myminifactory.com/object/3d-print-ancient-food-moulds-187410)
