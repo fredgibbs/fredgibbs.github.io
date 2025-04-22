@@ -31,7 +31,7 @@ In GitHub speak, **forking** means to create your own copy of someone else's pub
 - Go to the [{{page.site-name}} repository]({{page.repository-url}}), and click the `Fork` button in the upper right corner (don't click the number).
 - We want the default settings, so just click the green  "Create fork" button.
 - You'll see the page refresh within 5-10 seconds.
-- Notice the URL! It looks like nothing on the page changed, but you are now looking at a repository **UNDER YOUR OWN ACCOUNT**. This is evident from the URL and the top left of the GitHub page. The live repository will always have `u{{page.group-name}}` in the URL, and the URL for your "fork" of it will have your GitHub username. Either way, the list of files looks exactly the same (for now). 
+- Notice the URL! It looks like nothing on the page changed, but you are now looking at a repository **UNDER YOUR OWN ACCOUNT**. This is evident from the URL and the top left of the GitHub page. The live repository will always have `{{page.group-name}}` in the URL, and the URL for your "fork" of it will have your GitHub username. Either way, the list of files looks exactly the same (for now). 
 
 
 ## Enable your website

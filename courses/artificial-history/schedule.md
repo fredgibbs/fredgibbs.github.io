@@ -200,10 +200,15 @@ text = "
 
 
 ### Th: Work time
-- Do your campus history research for (minor) essay revisions and building interviews
-- Reserve time in the digital humanities studio to scan your artifact
-- Take a few photos of your object for your web essay
-
+- No class in Ortega, but you should be working on your campus history project
+- I will be in the studio (MVH 2068) from 1-3:30 if you want any help
+- Stuff you need to do:
+  - Campus history research in CSWR
+  - Create GitHub and SketchFab accounts
+  - Get your campus history copy working
+  - Scan something either in the lab with the scanner or via your phone and [RealityScan](https://www.unrealengine.com/en-US/realityscan)
+  - Write out what your sound bite is going to be
+  - Take a few photos of your object for your web essay
 
 
 ## 6. Historical Reconstructions and Simulations
@@ -219,10 +224,20 @@ text = "
 - Ottaway, Susannah, and Austin Mason. “Reconsidering Poor Law Institutions.” _The Historical Journal_ 64, no. 3 (2021): 557–82.
 
 
+
 ### Th: Fact, Fiction and History
 - Roussou, Maria. “The Components of Engagement in Virtual Heritage Environments.” In _Proceeding of New Heritage: Beyond Verisimilitude_, 265–83, 2008.
 - Güntan, S. & Ar, B. "Recreating the past: Historical narratives and virtual environments of video games," _Mekansal Araştırmalar Dergisi_, 2(1): 1-10.
 - Sachs, Aaron. “Letters to a Tenured Historian: Imagining History as Creative Nonfiction – or Maybe Even Poetry.” _Rethinking History_ 14, no. 1 (2010): 5–38.
+
+
+{% include alert.html class='warning' 
+title = 'Campus History Draft Due' 
+text = " 
+Make sure you have a working essay in your campus-history repository under your GitHub account. We'll be looking at these in class. 
+"
+%}
+
 
 
 
