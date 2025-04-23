@@ -198,17 +198,18 @@ text = "
 - Muenster, Sander. “Digital 3D Technologies for Humanities Research and Education: An Overview.” Applied Sciences 12, no. 5 (January 2022): 2426.
 
 
-
 ### Th: Work time
 - No class in Ortega, but you should be working on your campus history project
 - I will be in the studio (MVH 2068) from 1-3:30 if you want any help
-- Stuff you need to do:
+- Please come and work even if you don't have specific questions!
+- Stuff you need to do and should make progress on this week:
   - Campus history research in CSWR
-  - Create GitHub and SketchFab accounts
+  - Create GitHub and SketchFab accounts. This are required for finishing the campus history project
   - Get your campus history copy working
-  - Scan something either in the lab with the scanner or via your phone and [RealityScan](https://www.unrealengine.com/en-US/realityscan)
-  - Write out what your sound bite is going to be
-  - Take a few photos of your object for your web essay
+  - Scan something either in the lab with the scanner or via your phone and [RealityScan](https://www.unrealengine.com/en-US/realityscan) (scans are due in 2 weeks!)
+  - Start writing out what your soundbite is going to be, and experiment with recording (soundbites are due in 2 weeks!)
+
+
 
 
 ## 6. Historical Reconstructions and Simulations
@@ -220,25 +221,32 @@ text = "
 ### T: Historic Site Reconstruction
 - Sanders, Donald H. “Virtual Heritage: Researching and Visualizing the Past in 3D.” _Journal of Eastern Mediterranean Archaeology and Heritage Studies_ 2, no. 1 (2014): 30–47.
 - Douglass, et al., “Virtual Reconstruction as Archaeological Observation: Embracing New Ways of Treating Sites, Places and Landscapes.” _Advances in Archaeological Practice_ (2024).
+
+
+#### Extra
 - Huang, Jiawei, et al., “From Archive, to Access, to Experience––Historical Documents as a Basis for Immersive Experiences.” _Journal of Map & Geography Libraries_ 14.1 (2018): 40–63.
 - Ottaway, Susannah, and Austin Mason. “Reconsidering Poor Law Institutions.” _The Historical Journal_ 64, no. 3 (2021): 557–82.
+
+{% include alert.html class='alert' 
+title = 'Make sure you've set up your GitHub repository' 
+text = " 
+Make sure you have your own copy of the campus-history site under your GitHub account---just to make sure everything is working for Thursday!
+"
+%}
 
 
 
 ### Th: Fact, Fiction and History
-- Roussou, Maria. “The Components of Engagement in Virtual Heritage Environments.” In _Proceeding of New Heritage: Beyond Verisimilitude_, 265–83, 2008.
+- Roussou, Maria. “The Components of Engagement in Virtual Heritage Environments.” In _Proceeding of New Heritage: Beyond Verisimilitude_ (2008): 265--83.
 - Güntan, S. & Ar, B. "Recreating the past: Historical narratives and virtual environments of video games," _Mekansal Araştırmalar Dergisi_, 2(1): 1-10.
-- Sachs, Aaron. “Letters to a Tenured Historian: Imagining History as Creative Nonfiction – or Maybe Even Poetry.” _Rethinking History_ 14, no. 1 (2010): 5–38.
 
 
 {% include alert.html class='warning' 
 title = 'Campus History Draft Due' 
 text = " 
-Make sure you have a working essay in your campus-history repository under your GitHub account. We'll be looking at these in class. 
+Have a more or less complete draft of your essay. It doesn't need to be super polished, but clear enough we can tell what you're trying to do and what the story is. We'll be looking at these in class. 
 "
 %}
-
-
 
 
 
@@ -251,12 +259,13 @@ Make sure you have a working essay in your campus-history repository under your 
 ### T: The role of the humanities
 - Platt, Ben. “[Now the Humanities Can Disrupt ‘AI’](https://www.publicbooks.org/now-the-humanities-can-disrupt-ai/)”. _Public Books_, February 20, 2023.
 - Danaher, John. “The Threat of Algocracy: Reality, Resistance and Accommodation.” _Philosophy & Technology_ 29, no. 3 (September 2016): 245–68.
-- Klein, Lauren. “Are Large Language Models Our Limit Case?” Startwords, no. 3 (August 1, 2022).
+- Klein, Lauren. “Are Large Language Models Our Limit Case?” _Startwords_, no. 3 (August 1, 2022).
 
 
-### Th:  Artefact Essay Reviews
-{% include alert.html class='warning' title='Artifact Essay Reviews' text="
-Peer reviews today! Make sure you have a COMPLETE version for critique.
+### Th:  Campus History Essay Reviews
+{% include alert.html class='warning' title='Campus History Checkpoint' text="
+- Make sure you have your scan complete and uploaded to SketchFab
+- Make sure you have your audio recording done and integrated to your campus history page
 "%}
 
 
@@ -268,6 +277,23 @@ Peer reviews today! Make sure you have a COMPLETE version for critique.
 	- how do you think differently about history?
 
 ### T: Final Reflections
+- Sachs, Aaron. “Letters to a Tenured Historian: Imagining History as Creative Nonfiction – or Maybe Even Poetry.” _Rethinking History_ 14, no. 1 (2010): 5–38.
+
+
+In class:
+- brief wrap-up review lecture and take-home points
+- advice on how to do well on final course reflections (due on our finals day)
+
+{% include alert.html class='warning' title='Campus History Reviews' text="
+Peer reviews today! Make sure you have a COMPLETE version for critique.
+"%}
+
 
 ### Th: NO CLASS
+- No class in Ortega!
+- I will be in the studio (MVH 2068) from 1-3:30 if you want any help; please come and work even if you don't have specific questions!
+- Stuff you should be finishing up:
+  - Last campus history research in CSWR
+  - Polishing the narrative and visual flow of your essay
+  - Scan something either in the lab with the scanner or via your phone and [RealityScan](https://www.unrealengine.com/en-US/realityscan)
 
