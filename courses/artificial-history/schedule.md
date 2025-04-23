@@ -228,9 +228,9 @@ text = "
 - Ottaway, Susannah, and Austin Mason. “Reconsidering Poor Law Institutions.” _The Historical Journal_ 64, no. 3 (2021): 557–82.
 
 {% include alert.html class='alert' 
-title = 'Make sure you've set up your GitHub repository' 
+title = 'Make sure you have a working clone of the campus-history site' 
 text = " 
-Make sure you have your own copy of the campus-history site under your GitHub account---just to make sure everything is working for Thursday!
+Make sure you have your own copy of the campus-history site under your GitHub account and a new page for your essay---just to make sure everything is working for Thursday! You don't need to have any real work on your essay, but you need to have everything ready.
 "
 %}
 
@@ -291,9 +291,11 @@ Peer reviews today! Make sure you have a COMPLETE version for critique.
 
 ### Th: NO CLASS
 - No class in Ortega!
-- I will be in the studio (MVH 2068) from 1-3:30 if you want any help; please come and work even if you don't have specific questions!
+- As before on our work day, I will be in the studio (MVH 2068) from 1-3:30 if you want any help
+  - Even if you don't have specific questions, please come and work!
 - Stuff you should be finishing up:
   - Last campus history research in CSWR
   - Polishing the narrative and visual flow of your essay
-  - Scan something either in the lab with the scanner or via your phone and [RealityScan](https://www.unrealengine.com/en-US/realityscan)
-
+  - Redoing scans either in the lab with the scanner or via your phone and [RealityScan](https://www.unrealengine.com/en-US/realityscan)
+  - Any sound editing you'd like to do
+  - Starting to draft your final course reflections
