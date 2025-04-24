@@ -23,3 +23,6 @@ This page contains a list of links that you will probably need repeatedly throug
 - [Research Process](campus-history-research-process.html)
 - [Setting up your campus-history copy](campus-history-setup.html)
 - [Creating your essay page](campus-history-new-page.html)
+- [Submitting your essay at the VERY END](campus-history-submitting)
+- [Creating your 3D scans](3d-scans)
+- [Studio Scanning Instructions](studio-scanning)
