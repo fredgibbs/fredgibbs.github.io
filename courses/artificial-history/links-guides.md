@@ -16,10 +16,10 @@ This page contains a list of links that you will probably need repeatedly throug
 - [Reading Guide](reading-guide.html)
 - [Book Discover Exercise](book-discovery.html)
 - [Data Interface Critique](data-interface-critique.html)
+- [Final Course Reflection](final-reflection-guidelines.html)
 
 ## Campus History Project
 - [Guidelines](campus-history-guidelines.html)
 - [Research Process](campus-history-research-process.html)
-- [Getting started](campus-history-setup.html)
-- [Creating your page](campus-history-new-page.html)
-
+- [Setting up your campus-history copy](campus-history-setup.html)
+- [Creating your essay page](campus-history-new-page.html)
