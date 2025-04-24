@@ -207,6 +207,7 @@ text = "
   - Create GitHub and SketchFab accounts. This are required for finishing the campus history project
   - Get your campus history copy working
   - Scan something either in the lab with the scanner or via your phone and [RealityScan](https://www.unrealengine.com/en-US/realityscan) (scans are due in 2 weeks!)
+    - Consult the [3D scan guidlines](3D scans)
   - Start writing out what your soundbite is going to be, and experiment with recording (soundbites are due in 2 weeks!)
 
 
@@ -300,8 +301,8 @@ Peer reviews today! Make sure you have a COMPLETE version for critique.
   - Sound recording and editing
   - Starting to draft your [final course reflections](final-reflection-guide)
 
-{% include alert.html class='danger' title='Final Deadline' text="
-#### All work is due on May 16.
+
+{% include alert.html class='danger' title='Final Deadline: MAY 16' text="
 - Campus History page: submit a GiutHub Pull Request as explained in the [submission guide](campus-history-submitting)
 - Final course reflection: send to me via email (fwgibbs@unm.edu)
 "%}
