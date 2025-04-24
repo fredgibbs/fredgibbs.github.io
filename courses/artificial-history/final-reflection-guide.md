@@ -16,6 +16,7 @@ These are highly subjective essays, and that's precisely the point---I want to k
 
 Make sure that your description of your learning experience shows me what you've learned in the course! One easy way to do that is to try to make connections between readings, topics, ideas, people, and so on. 
 
+These are to be submitted to me via email (fwgibbs@unm.edu) no later than May 16.
 
 ## Purpose
 This assignment serves three purposes:

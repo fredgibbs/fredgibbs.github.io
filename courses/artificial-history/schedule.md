@@ -270,7 +270,6 @@ Have a more or less complete draft of your essay. It doesn't need to be super po
 
 
 
-
 ## 8. Review and wrap-up
 	- what have we done?
 	- what haven't we done?
@@ -284,8 +283,9 @@ In class:
 - brief wrap-up review lecture and take-home points
 - advice on how to do well on final course reflections (due on our finals day)
 
-{% include alert.html class='warning' title='Campus History Reviews' text="
+{% include alert.html class='danger' title='Campus History Reviews' text="
 Peer reviews today! Make sure you have a COMPLETE version for critique.
+- Final essays are due by May 16.
 "%}
 
 
@@ -296,6 +296,12 @@ Peer reviews today! Make sure you have a COMPLETE version for critique.
 - Stuff you should be finishing up:
   - Last campus history research in CSWR
   - Polishing the narrative and visual flow of your essay
-  - Redoing scans either in the lab with the scanner or via your phone and [RealityScan](https://www.unrealengine.com/en-US/realityscan)
-  - Any sound editing you'd like to do
-  - Starting to draft your final course reflections
+  - (Re)doing scans either in the lab with the scanner or via your phone and [RealityScan](https://www.unrealengine.com/en-US/realityscan)
+  - Sound recording and editing
+  - Starting to draft your [final course reflections](final-reflection-guide)
+
+{% include alert.html class='danger' title='Final Deadline' text="
+#### All work is due on May 16.
+- Campus History page: submit a GiutHub Pull Request as explained in the [submission guide](campus-history-submitting)
+- Final course reflection: send to me via email (fwgibbs@unm.edu)
+"%}

@@ -10,7 +10,7 @@ section: links-guides
 # Healthy Diet Analysis
 This assignment encourages you to bring what we've learned in class in critiquing and analyzing how references to health and diet appear in contemporary literature---a webpage/website (of your choosing) that discusses what a "healthy diet" is. This assignment is a lot like the vitamin rhetoric analysis, but is made to help you reflect on the entire course and how the history of diet and health can help us understand contemporary advice and understandings of diet and health.
 
-Your job is to analyze the RHETORIC of your particular website/page, not to just critique the diet itself. As with our critique of the carnivorism diet, whether the diet "works" or not or "seems" like a good idea is totally beside the point. We're analyzing HOW THE AUTHOR IS MAKING AN ARGUMENT. Naturally, you might comment on a particular aspect of the dietary advice---maybe something about restricting the number of calories you eat. That's an aspect of dietary advice that is worth comment on because we've done a lot of reading to understand how that kind of thinking became so pervasive.
+Your job is to analyze the RHETORIC of your particular website/page, not to just critique the diet itself. As with our critique of the carnivorism diet, whether the diet "works" or not is totally beside the point. We're analyzing HOW THE AUTHOR IS MAKING AN ARGUMENT. Naturally, you might comment on a particular aspect of the dietary advice---maybe something about restricting the number of calories you eat. That's an aspect of dietary advice that is worth comment on because we've done a lot of reading to understand how that kind of thinking became so pervasive.
 
 ## Basics
 - ~800 words
