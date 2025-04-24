@@ -7,8 +7,8 @@ number: HIST 300-009
 section: links-guides
 ---
 
-# 3D Scans
-For this aspect of our collaborative campus history project, you need to create a 3D scan of something on campus. It's a way of documenting the campus outside of the traditional photo or video.
+# Sound Recording
+For this aspect of our collaborative campus history projec, you need to create a 3D scan of something on campus. It's a way of documenting the campus outside of the traditional photo or video.
 
 Yes, the assignment is a bit contrived, but also gives you a sense of what scanning, albeit with limitations that come with free tools, is actually like outside of us reading about it. Plus, it's a way to experience contributing to a new kind of digital archive of UNM. Future students will love looking at your objects! Wouldn't it be cool if you could see campus objects from 50 years ago? (just smile and nod even if you don't think so.)
 

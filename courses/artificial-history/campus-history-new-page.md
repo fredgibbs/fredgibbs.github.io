@@ -28,8 +28,8 @@ Create bookmarks for two locations you will be visiting often:
 Go to YOUR repository (the URL will look like https://github.com/USERNAME/{{page.repository-name}}/). You should see the list of files in the repository (starting with folders like _includes and _layouts).
 
 - Click the `essays` folder 
-- Click the `Add file` button in the upper right
-- Type in a folder name for your essay, all lower case and with dashes (example: mesa-vista-hall), and continue typing `/index.md`
+- Click the `Add file` button in the upper right, and `Create New File`
+- Type in a folder name for your essay, all lower case and with dashes (example: mesa-vista-hall), and continue typing `/index.md` **DON'T FORGET THE / AT THE BEGINNING**
 - Click the green `Commit changes...` button. Yes, you're saving an empty file.
 - Be sure you're still in the `essays` folder.
 - Click on the `mesa-vista-hall` folder
@@ -38,10 +38,27 @@ Go to YOUR repository (the URL will look like https://github.com/USERNAME/{{page
 - Click on your new page (index.md) in the folder you created, and paste the text you just copied.
  - Click the green `Commit changes...` button.
 
+## Create your images folder
+You'll notice that no images are showing up on your new page, because we didn't copy any images into your new folder. In fact, you don't even have an `images` folder yet!
+- Find some test image you can use from the [NM digital archive](https://econtent.unm.edu/).
+- Download an image (it doesn't matter what, you can always replace it later) and put it somewhere you can get to quickly.
+- On GitHub, navigate to the folder you just created (via the list of files on the left...)
+- Click the `Add file` button in the upper right (just like before), but this time `Upload Files`
+- Drag and drop the file into the big box.
+- Click the green `Commit changes...` button in the bottom left of the page. This time you're saving an actual file!
+- Now you've uploaded a file but it's in the wrong place. We want it in an `images` folder.\
+  - But GitHub doesn't keep track of folders, just files. So we need to rename our file to include a folder name.
+- Using the file list on the left, click on your new image file, then the pencil icon to edit it.
+- Click on the name of your file at the top so you can edit it.
+- Add `images/` to the front of the filename.
+- Click the green `Commit changes...` button.
+- If you want to see your new image appear on your page, find the snippet to display an image and change the image-url parameter to your new filename. **IT MUST MATCH EXACTLY**
+
+
 
 ## Test your page
 - Chill for a minute. Remember there is a lag between when you save your file and the website getting updated.
-- Test your page by going to https://USERNAME.github.io/{{page.repository-name}} (you bookmarked it, right?) and add  `essays/your-new-folder/` to the URL to see your new page. Obviously replace your-new-folder with what you typed in the previous step.
+- Test your page by going to https://USERNAME.github.io/{{page.repository-name}} (you bookmarked it, right?) and add  `/essays/your-new-folder/` to the URL to see your new page. Obviously replace your-new-folder with what you typed in the previous step.
 
 ## Edit offline
 Now you are ready to go in full-on edit mode for your essay. Although fine for testing, **please do not edit this long essay in the tiny GitHub text editor**. It makes it WAY TOO EASY to make mistakes that take a LOT OF TIME to fix. My favorite editor is [Sublime](https://www.sublimetext.com/)
