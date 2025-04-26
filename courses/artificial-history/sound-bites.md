@@ -32,14 +32,15 @@ Remember we're modeling this on the [Everything is Alive](https://www.everything
   - [Hume](https://platform.hume.ai/) 
   - [TTSMP3](https://ttsmp3.com/ai):  No use limits, but limited voices and tons of ads to ignore. This is a great tool to test and refine your script.
   - [Natural Reader](https://www.naturalreaders.com/index.html) Great voices (you can even have AI clone your voice), but no way to download clips; you have to record them with your phone.
-- For Hume and TTSMP#, you can type in some text, choose a voice, and download the sound file.
+- For Hume and TTSMP3, you can type in some text, choose a voice, and download the sound file.
 
 
 ## Put everything together
+- Feel free to use whatever editing software you want, like Garageband, if that's easier for you. 
 - Watch a [short intro to Audacity](https://www.youtube.com/watch?v=ox0NSwdOiyA)
-- You can either download audacity for yourself, or use the computers in the lab.
-- Once you've created all your sound clips, upload them into Audacity to combine them.
-  - Feel free to use whatever editing software you want, like Garageband. 
+- You can either download audacity for yourself, or use the computers in the lab
+- Once you've created all your sound clips, upload them into Audacity to combine them
+  - You can drag and drop files onto the app or use the File menu to import files
 - Export your file
 - Upload the sound file to your campus history folder in GitHub.
 - Copy and paste the audio code snippet from the Essay Components to your own essay
@@ -50,4 +51,4 @@ Remember we're modeling this on the [Everything is Alive](https://www.everything
 - Record some ambient sounds in your building---doors closing, people walking---and splice them into your interview. 2 or 3 clips is fine. Even just a few sound bites adds a new layer of interest. To record these, you probably already have a basic sound recording app that came with your phone. Two free recommendations:
   - Android: Voice Recorder
   - iPhone: Voice Record Pro
-- Incorporate free intro music from a site like [Pixabay](https://pixabay.com/).
+- Incorporate free intro or background music into your interview from a site like [Pixabay](https://pixabay.com/). See the above video for the exact procedure.
