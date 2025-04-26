@@ -8,7 +8,7 @@ section: links-guides
 ---
 
 # Spatial Footprints 
-MAPS ARE COOL! So we should have a map interface. So, we need a way of creating a clickable space on a web map, and for that, you need to tell me where your building/place is.
+MAPS ARE COOL! So we should have a map interface. For that, we need a way of creating a clickable space on a web map.
 
 - Go to [Google Maps](http://maps.google.com).
 - Click the 3-line menu icon in the upper left of the search bar.
@@ -16,7 +16,7 @@ MAPS ARE COOL! So we should have a map interface. So, we need a way of creating 
 - Click on "Maps".
 - Click "Create Map" at the bottom of the window pane.
 - Search for your building name or otherwise make sure the space you are researching is in your browser window. Close the pop-up if you get one.
-- You can see the map layer you are creating is titled "Untitled Layer". That's not helpful. **Change that to the name of your building/space, and make sure it matches your essay exactly**, like `mesa-vista-hall`.
+- You can see the map layer you are creating is titled "Untitled Layer". That's not helpful. **Change that to the name of your building/space, and make sure it matches your essay EXACTLY**, like `mesa-vista-hall`.
 - Edit your map title to be the name of your building. You can use spaces if you want! This is helpful for later retrieval and editing, but isn't tied to anything like the layer title.
 - Click the little arrow to the left of "Base Map" at the bottom.
 - Choose the Satellite view and see if that's easier than the map view for your building.
@@ -29,11 +29,5 @@ MAPS ARE COOL! So we should have a map interface. So, we need a way of creating 
 - Click "Export to KML/KMZ".
 - Choose to EXPORT YOUR LAYER, not the map.
 - VERY IMPORTANT: Check the "Export to KML..." box (the bottom of the two).
-- Upload the KML file (from your Downloads directory or wherever it ended up) to our [kml folder](https://github.com/unm-campus-histories/tree/master/assets/kml) in our repository.
-- Wait a few minutes, and see if your polygon shows up on our [map interface](https://unm-campus-histories.github.io/map). If not, double check your file made it into the `kml` folder and that the filename (minus the .kml extension) matches your essay exactly.
-
-
-- Be sure your place card on [our directory page](https://unm-campus-histories.github.io/directory) is displaying properly by updating [our spreadsheet](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit#gid=0).
-- Be sure your KML files are done and showing up on [our map interface](https://unm-campus-histories.github.io/map). 
-
-
+- Upload the KML file (from your Downloads directory or wherever it ended up) to your assets/kml folder. 
+- Wait a few minutes, and see if your polygon shows up on your map page of the clone of campus history. If not, double check your file made it into the `kml` folder and that the filename (minus the .kml extension) matches your essay EXACTLY.

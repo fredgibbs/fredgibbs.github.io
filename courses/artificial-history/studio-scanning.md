@@ -44,7 +44,7 @@ If you want to get a more detailed scan:
 - Select "All Models"
 - Select .obj format, and save to your desktop for convenience. You'll see 4 files.
 
-### SketchFab
+### Uploading to SketchFab
 - If uploading to SketchFab, log in to your account online. 
 - Click upload button in the upper right
 - Drag and drop all 4 files into the box

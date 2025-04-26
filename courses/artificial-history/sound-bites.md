@@ -8,41 +8,46 @@ section: links-guides
 ---
 
 # Sound Recording
-For this aspect of our collaborative campus history projec, you need to create a 3D scan of something on campus. It's a way of documenting the campus outside of the traditional photo or video.
+For this aspect of our collaborative campus history project, you need to create a historical fictional interview with your building, or a building related to your topic (however loosely---it doesn't matter). 
 
-Yes, the assignment is a bit contrived, but also gives you a sense of what scanning, albeit with limitations that come with free tools, is actually like outside of us reading about it. Plus, it's a way to experience contributing to a new kind of digital archive of UNM. Future students will love looking at your objects! Wouldn't it be cool if you could see campus objects from 50 years ago? (just smile and nod even if you don't think so.)
+This assignment is a fun way to experiment with historical fiction in the service of providing actual historical perspectives, based on actual research, and the experience contributing to a new kind of digital archive of UNM. 
 
-#### Do not worry about getting a perfect scan!
-There can be plenty of imperfections in your digital model. Spending more time trying to make it hyper realistic does not really help you learn any more than a relatively quick scan, provided that your 3D model is recognizable. 
+Remember we're modeling this on the [Everything is Alive](https://www.everythingisalive.com/) podcast. So you can think of your assignment here as a very short version of one of their episodes.
 
-## Scanning procedures
-Before you scan, make sure you've created your [SketchFab](http://sketchfab.com) account, since that's where we need to upload our scans. There's a Sign up link in the upper right corner.
-
-There are two main ways of scanning an object.
-
-### Use the digital humanities studio
-If you have a smallish item, you can use a little turn table to make scanning easier, since you don't need to move yourself or the scanner around the object.
-
-Warning: The scanner can't really scan black, shiny, or transparent things. We have a spray that you can use if there is a little shine or some black, but don't bring something super shiny or mostly black.
-
-Follow the [studio scanning guide](studio-scanning), and you'll have your scan in SketchFab in no time! 
+## What to talk about
+- Highlight some fun facts and history from documents and iamges in the archive. Even if you have images of those materials in your essay, describing them and their significance makes for good interview material.
+- Makes some general observations about campus history and how the campus has changed
+- Use campus photos to describe hanges _around_ your building, changes _inside_ your building
+- Your building should say something provocative about the history of UNM, not just give facutal information. Be creative!
 
 
-### Use your phone and RealityScan
-Download a free scanning app called [RealityScan](https://www.unrealengine.com/en-US/realityscan) . It's intuitive to use, so just playing around for a few minutes will tell you all you need to know.
-
-You'll be most efficient and get better scans right away if you [watch this 4-minute tutorial](https://www.youtube.com/watch?v=HVkvHZCmVjU). The inteface is a bit different now, but still works basically the same. It now has an auto capture mode that will take pictures for you as you move your phone around the object, and the cropping happens after it's done processing images, not as shown in the video. But you'll see it's quite straightforward. Scanning in general takes a little playing around to get the hang of it. Start with a very small item to see how things work.
-
-#### Tips
-- Be sure you're connected to Wifi
-- Objects in harsh lighting that create harsh shadows won't turn out as well, but sometimes they work well enough. 
-- Try to keep your object taking up as much of the your phone sceen as possible
-- If using auto capture, move your phone slowly and steadily
-- Try to get a wide variety of angles as shown in the video
-
-After your scan has processed, you can send your model to SketchFab through the RealityScan.
-
-Don't forget to get the embed code for your model and put it on your campus history page.
+## Prepare your script
+- It's easiest to write out a small script/dialog of your questions and answers before you record anything so you can conceptualize how everything is going to fit together.
+- Come up with 3-4 questions. They should be thoughtful and descriptive that provide some context and motivation. (i.e. they should have some substance to them!) 
 
 
+## Record/download your interview components
+- Record your questions on your phone, computer, or with the computers in the lab. The lab microphones will have noticably better sound quality and you can record and adjust on the fly. If you use your phone, you have to transfer files to a computer for editing.
+- Use a free text-to-speech tool to read your script and create the voice of your building.  
+  - [Hume](https://platform.hume.ai/) 
+  - [TTSMP3](https://ttsmp3.com/ai):  No use limits, but limited voices and tons of ads to ignore. This is a great tool to test and refine your script.
+  - [Natural Reader](https://www.naturalreaders.com/index.html) Great voices (you can even have AI clone your voice), but no way to download clips; you have to record them with your phone.
+- For Hume and TTSMP#, you can type in some text, choose a voice, and download the sound file.
 
+
+## Put everything together
+- Watch a [short intro to Audacity](https://www.youtube.com/watch?v=ox0NSwdOiyA)
+- You can either download audacity for yourself, or use the computers in the lab.
+- Once you've created all your sound clips, upload them into Audacity to combine them.
+  - Feel free to use whatever editing software you want, like Garageband. 
+- Export your file
+- Upload the sound file to your campus history folder in GitHub.
+- Copy and paste the audio code snippet from the Essay Components to your own essay
+- Change the filename to match your downloaded file
+
+
+#### Easy Extra Credit (pick one or more)
+- Record some ambient sounds in your building---doors closing, people walking---and splice them into your interview. 2 or 3 clips is fine. Even just a few sound bites adds a new layer of interest. To record these, you probably already have a basic sound recording app that came with your phone. Two free recommendations:
+  - Android: Voice Recorder
+  - iPhone: Voice Record Pro
+- Incorporate free intro music from a site like [Pixabay](https://pixabay.com/).

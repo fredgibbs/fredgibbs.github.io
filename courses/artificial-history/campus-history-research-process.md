@@ -10,7 +10,7 @@ section: links-guides
 ## Campus History Research Process
 
 ### Pick a topic
-- Add a topci (in the place-name column) to our [UNM Campus History Index](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit?usp=sharing)
+- Add a topic (in the place-name column) to our [UNM Campus History Index](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit?usp=sharing)
   - Ignore all the other columns for now
 
 ### Explore the "actual" archives

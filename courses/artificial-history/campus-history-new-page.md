@@ -38,6 +38,13 @@ Go to YOUR repository (the URL will look like https://github.com/USERNAME/{{page
 - Click on your new page (index.md) in the folder you created, and paste the text you just copied.
  - Click the green `Commit changes...` button.
 
+
+## Test your page
+- Chill for a minute. Remember there is a lag between when you save your file and the website getting updated.
+- Test your page by going to https://USERNAME.github.io/{{page.repository-name}} (you bookmarked it, right?) and add  `/essays/your-new-folder/` to the URL to see your new page. Obviously replace your-new-folder with what you typed in the previous step.
+
+#### Make sure you have `/essays/` in the above URL. 
+
 ## Create your images folder
 You'll notice that no images are showing up on your new page, because we didn't copy any images into your new folder. In fact, you don't even have an `images` folder yet!
 - Find some test image you can use from the [NM digital archive](https://econtent.unm.edu/).
@@ -55,17 +62,10 @@ You'll notice that no images are showing up on your new page, because we didn't 
 - If you want to see your new image appear on your page, find the snippet to display an image and change the image-url parameter to your new filename. **IT MUST MATCH EXACTLY**
 
 
-
-## Test your page
-- Chill for a minute. Remember there is a lag between when you save your file and the website getting updated.
-- Test your page by going to https://USERNAME.github.io/{{page.repository-name}} (you bookmarked it, right?) and add  `/essays/your-new-folder/` to the URL to see your new page. Obviously replace your-new-folder with what you typed in the previous step.
-
 ## Edit offline
-Now you are ready to go in full-on edit mode for your essay. Although fine for testing, **please do not edit this long essay in the tiny GitHub text editor**. It makes it WAY TOO EASY to make mistakes that take a LOT OF TIME to fix. My favorite editor is [Sublime](https://www.sublimetext.com/)
+Now you are ready to go in full-on edit mode for your essay. Although fine for testing, **please do not edit this long essay in the tiny GitHub text editor**. It makes it WAY TOO EASY to make mistakes that take a LOT OF TIME to fix. 
 
-You should copy and paste the whole essay to somewhere else, do all your editing (possibly over a period of time, saving a local copy as you go), then copy and paste your changes to GitHub. **Make sure you save your file with the EXACT same name as the original.** You are welcome to commit your changes in smaller batches, as well, such as one paragraph at a time.
+Instead, you should copy and paste the whole essay in a text editor, and do all your editing (possibly over a period of time, saving a local copy as you go), then copy and paste your changes to GitHub. **Make sure you save your file with the EXACT same name as the original.** You are welcome to commit your changes in smaller batches, as well, such as one paragraph at a time. My favorite editor is [Sublime](https://www.sublimetext.com/).
 
 ## Page build errors
 If you commit a file with a syntax error (a missing quote or something like that), you will get an email saying there is a "page build error". Until you fix it, you won't see any subsequent changes you commit to your repository.
-
-
