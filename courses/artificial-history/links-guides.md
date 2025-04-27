@@ -26,6 +26,7 @@ This page contains a list of links that you will probably need repeatedly throug
 - [Research Process](campus-history-research-process.html)
 - [Setting up your campus-history copy](campus-history-setup.html)
 - [Creating your essay page](campus-history-new-page.html)
+- [Updating directory data](campus-history-directory.html)
 - [Creating your map outlines](campus-history-footprints)
 
 ---

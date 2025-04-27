@@ -30,6 +30,20 @@ Go to YOUR repository (the URL will look like https://github.com/USERNAME/{{page
 - Click the `essays` folder 
 - Click the `Add file` button in the upper right, and `Create New File`
 - Type in a folder name for your essay, all lower case and with dashes (example: mesa-vista-hall), and continue typing `/index.md` **DON'T FORGET THE / AT THE BEGINNING**
+
+{% include alert.html class='danger' 
+title = 'Name your folder correctly' 
+text = " 
+It is IMPERATIVE that you name your folder correctly right away, or you will create A LOT of work for yourself (and probably me) later. 
+- all lower case, NO CAPITALS ANYWHERE
+- no spaces, ONLY DASHES. (no underscores)
+- it should like `mesa-vista-hall` or `maxwell-museum` or `johnson-field`
+"
+%}
+
+
+
+
 - Click the green `Commit changes...` button. Yes, you're saving an empty file.
 - Be sure you're still in the `essays` folder.
 - Click on the `mesa-vista-hall` folder
@@ -43,7 +57,8 @@ Go to YOUR repository (the URL will look like https://github.com/USERNAME/{{page
 - Chill for a minute. Remember there is a lag between when you save your file and the website getting updated.
 - Test your page by going to https://USERNAME.github.io/{{page.repository-name}} (you bookmarked it, right?) and add  `/essays/your-new-folder/` to the URL to see your new page. Obviously replace your-new-folder with what you typed in the previous step.
 
-#### Make sure you have `/essays/` in the above URL. 
+#### Make sure you have `/essays/` in the above URL
+Once you can get to your page, bookmark it! It's easy to forget what th URL is to preview your page.
 
 ## Create your images folder
 You'll notice that no images are showing up on your new page, because we didn't copy any images into your new folder. In fact, you don't even have an `images` folder yet!
@@ -51,13 +66,13 @@ You'll notice that no images are showing up on your new page, because we didn't 
 - Download an image (it doesn't matter what, you can always replace it later) and put it somewhere you can get to quickly.
 - On GitHub, navigate to the folder you just created (via the list of files on the left...)
 - Click the `Add file` button in the upper right (just like before), but this time `Upload Files`
-- Drag and drop the file into the big box.
+- Drag and drop your image file into the big box on the GitHub page.
 - Click the green `Commit changes...` button in the bottom left of the page. This time you're saving an actual file!
-- Now you've uploaded a file but it's in the wrong place. We want it in an `images` folder.\
+- Now you've uploaded a file but it's in the wrong place. We want it in an `images` folder.
   - But GitHub doesn't keep track of folders, just files. So we need to rename our file to include a folder name.
-- Using the file list on the left, click on your new image file, then the pencil icon to edit it.
+- Using the file list on the left, click on your new image file, then the pencil icon to go in edit mode.
 - Click on the name of your file at the top so you can edit it.
-- Add `images/` to the front of the filename.
+- Add `images/` to the front of the filename (and you'll see that creates an images directory)
 - Click the green `Commit changes...` button.
 - If you want to see your new image appear on your page, find the snippet to display an image and change the image-url parameter to your new filename. **IT MUST MATCH EXACTLY**
 
