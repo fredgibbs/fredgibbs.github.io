@@ -228,7 +228,7 @@ text = "
 - Huang, Jiawei, et al., “From Archive, to Access, to Experience––Historical Documents as a Basis for Immersive Experiences.” _Journal of Map & Geography Libraries_ 14.1 (2018): 40–63.
 - Ottaway, Susannah, and Austin Mason. “Reconsidering Poor Law Institutions.” _The Historical Journal_ 64, no. 3 (2021): 557–82.
 
-{% include alert.html class='alert' 
+{% include alert.html class='danger' 
 title = 'Make sure you have a working clone of the campus-history site' 
 text = " 
 Make sure you have your own copy of the campus-history site under your GitHub account and a new page for your essay---just to make sure everything is working for Thursday! You don't need to have any real work on your essay, but you need to have everything ready.
