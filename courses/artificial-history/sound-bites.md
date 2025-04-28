@@ -28,12 +28,11 @@ Remember we're modeling this on the [Everything is Alive](https://www.everything
 
 ## Record/download your interview components
 - Record your questions on your phone, computer, or with the computers in the lab. The lab microphones will have noticably better sound quality and you can record and adjust on the fly. If you use your phone, you have to transfer files to a computer for editing.
-- Use a free text-to-speech tool to read your script and create the voice of your building.  
-  - [Hume](https://platform.hume.ai/) 
+- Use a free text-to-speech tool to read your script and create the voice of your building. Some of these you have to create a free account; others you can use right away. The idea is that you type in some text, choose a voice, and download the sound file.
   - [TTSMP3](https://ttsmp3.com/ai):  No use limits, but limited voices and tons of ads to ignore. This is a great tool to test and refine your script.
-  - [Natural Reader](https://www.naturalreaders.com/index.html) Great voices (you can even have AI clone your voice), but no way to download clips; you have to record them with your phone.
-- For Hume and TTSMP3, you can type in some text, choose a voice, and download the sound file.
-
+  - [Hume](https://platform.hume.ai/) 
+  - [Luvvoice](https://luvvoice.com/)
+  
 
 ## Put everything together
 - Feel free to use whatever editing software you want, like Garageband, if that's easier for you. 
