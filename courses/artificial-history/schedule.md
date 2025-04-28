@@ -228,7 +228,7 @@ text = "
 - Huang, Jiawei, et al., “From Archive, to Access, to Experience––Historical Documents as a Basis for Immersive Experiences.” _Journal of Map & Geography Libraries_ 14.1 (2018): 40–63.
 - Ottaway, Susannah, and Austin Mason. “Reconsidering Poor Law Institutions.” _The Historical Journal_ 64, no. 3 (2021): 557–82.
 
-{% include alert.html class='danger' 
+{% include alert.html class='warning' 
 title = 'Make sure you have a working clone of the campus-history site' 
 text = " 
 Make sure you have your own copy of the campus-history site under your GitHub account and a new page for your essay---just to make sure everything is working for Thursday! You don't need to have any real work on your essay, but you need to have everything ready.
@@ -242,10 +242,12 @@ Make sure you have your own copy of the campus-history site under your GitHub ac
 - Güntan, S. & Ar, B. "Recreating the past: Historical narratives and virtual environments of video games," _Mekansal Araştırmalar Dergisi_, 2(1): 1-10.
 
 
-{% include alert.html class='warning' 
+{% include alert.html class='danger' 
 title = 'Campus History Draft Due' 
 text = " 
-Have a more or less complete draft of your essay. It doesn't need to be super polished, but clear enough we can tell what you're trying to do and what the story is. We'll be looking at these in class. 
+Have a SOLID DRAFT of your essay. It doesn't need to be totally done or polished, but it should be clear enough we can tell what you're trying to do and what the story is. You should have most of your sections and at least a few images in place. 
+
+We'll be looking at these in class. You don't need your scans or soundbites yet. Those are due next Thursday.
 "
 %}
 
