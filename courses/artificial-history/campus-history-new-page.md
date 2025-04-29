@@ -77,6 +77,17 @@ You'll notice that no images are showing up on your new page, because we didn't 
 - If you want to see your new image appear on your page, find the snippet to display an image and change the image-url parameter to your new filename. **IT MUST MATCH EXACTLY**
 
 
+{% include alert.html class='warning' title='Image problems?' text="
+If an image isn't showing up, your file is not in the right place, or your are not referecing it exactly---meaning your code and filename do not match EXACTLY.  
+- check the file extension (.jpg, .jpeg, .JPG, .png)
+- check capitalization (mesa-vista is NOT THE SAME as Mesa-Vista)
+- check for spaces and dashes (mesa-vista is NOT THE SAME as mesa vista)
+- make sure your image file is where it is supposed to be, in `essays/your-folder/images`
+- make sure your image path in your code starts with `images/`
+"%}
+
+
+
 ## Edit offline
 Now you are ready to go in full-on edit mode for your essay. Although fine for testing, **please do not edit this long essay in the tiny GitHub text editor**. It makes it WAY TOO EASY to make mistakes that take a LOT OF TIME to fix. 
 

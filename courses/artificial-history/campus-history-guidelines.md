@@ -42,9 +42,6 @@ This assignment hopefully:
 - How does space and our perception of it and its history effect our perception of UNM and your future degree?
 - How does your space represent larger campus culture or changes generally?
 
-- Be sure your place card on [our directory page](https://unm-campus-histories.github.io/spaces/directory) is displaying properly by updating [our spreadsheet](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit#gid=0).
-- Be sure your KML files are done and showing up on [our map interface](https://unm-campus-histories.github.io/map).
-
 
 {% include alert.html class='warning' title='Image problems?' text="
 If your image isn't showing up: 
