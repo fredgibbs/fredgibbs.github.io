@@ -29,12 +29,14 @@ This assignment hopefully:
 - Subheadings to delineate your main topics and make your essay more skimmable.
 - Bibliography at end of essay that outlines the sources you used.
 
+
 ## Style
 - Write something you and your friends would want to read
 - Aim for informal sophistication
 - Demonstrate your expertise through description AND analysis
 
-## Questions to keep in mind
+
+## Questions to keep in mind as you write and revise
 - Who is our audience(s)?
 - What do they know?
 - What do we want them to know?
@@ -42,16 +44,6 @@ This assignment hopefully:
 - How does space and our perception of it and its history effect our perception of UNM and your future degree?
 - How does your space represent larger campus culture or changes generally?
 
-
-{% include alert.html class='warning' title='Image problems?' text="
-If your image isn't showing up: 
-- your file is not in the right place, or your are not referecing it exactly. 
-- check the file extension (.jpg, .jpeg, .JPG, .png)
-- check capitalization (mesa-vista is NOT THE SAME as Mesa-Vista)
-- check for spaces and dashes (mesa-vista is NOT THE SAME as mesa vista)
-- make sure your image file is where it is supposed to be, in `essays/ESSAY-SLUG/images`
-- make sure your image path in your code starts with `images/`
-"%}
 
 
 ## Grading
