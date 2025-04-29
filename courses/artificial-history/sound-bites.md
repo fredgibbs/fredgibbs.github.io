@@ -36,12 +36,14 @@ Remember we're modeling this on the [Everything is Alive](https://www.everything
 
 ## Put everything together
 - Feel free to use whatever editing software you want, like Garageband, if that's easier for you. 
-- Watch a [short intro to Audacity](https://www.youtube.com/watch?v=ox0NSwdOiyA)
+- Watch a [short intro to Audacity](https://www.youtube.com/watch?v=ox0NSwdOiyA). This is a really good overview, even if it covers more than we need to do. 
 - You can either download audacity for yourself, or use the computers in the lab
 - Once you've created all your sound clips, upload them into Audacity to combine them
   - You can drag and drop files onto the app or use the File menu to import files
-- Export your file
-- Upload the sound file to your campus history folder in GitHub.
+  - Cut out what you don't need from the clips
+  - Arrange them so they make sense
+- Export your file (the defauly mp3 is fine); make sure you're exporting a sound file, not an Audacity project file (.aup)
+- Upload the sound file to your campus history folder in GitHub
 - Copy and paste the audio code snippet from the Essay Components to your own essay
 - Change the filename to match your downloaded file
 
