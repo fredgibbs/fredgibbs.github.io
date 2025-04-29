@@ -8,7 +8,7 @@ section: links-guides
 ---
 
 # Spatial Footprints 
-MAPS ARE COOL! So we should have a map interface. For that, we need a way of creating a clickable space on a web map.
+MAPS ARE COOL! So we should have a map interface. For that, we need a way of creating a clickable space on a web map. This seems like a long list of steps (and it is), but they all take like 5 seconds each.
 
 - Go to [Google Maps](http://maps.google.com).
 - Click on "Saved" on the left nav.
