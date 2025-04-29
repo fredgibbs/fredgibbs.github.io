@@ -34,7 +34,8 @@ If you want to get a more detailed scan:
 - Reposition the object to scan whatever features you want to be sure to get
 - Repeat the Scan procedure above
 
-# Processing your scan
+
+## Processing your scan
 - Click the One-click button (top row, third from the left) 
   - This will finalize the point cloud, create a mesh, and apply the texture
   - This takes about 3-4 minutes
