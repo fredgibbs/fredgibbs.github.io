@@ -237,10 +237,7 @@ Make sure you have your own copy of the campus-history site under your GitHub ac
 
 
 
-### Th: Fact, Fiction and History
-- Roussou, Maria. “The Components of Engagement in Virtual Heritage Environments.” In _Proceeding of New Heritage: Beyond Verisimilitude_ (2008): 265--83.
-- Güntan, S. & Ar, B. "Recreating the past: Historical narratives and virtual environments of video games," _Mekansal Araştırmalar Dergisi_, 2(1): 1-10.
-
+### Th: Getting caught up
 
 {% include alert.html class='danger' 
 title = 'Campus History Draft Due' 
@@ -259,13 +256,32 @@ We'll be looking at these in class. You don't need your scans or soundbites yet.
 	- role of critical humanities
 
 
-### T: The role of the humanities
+{% include alert.html class='alert' title='Book time in the studio' text="
+- If you want to use the computers, scanner or microphones, or just want to schedule some time to get help, [book time in the studio (2068 Mesa Vista)](https://outlook.office.com/owa/calendar/HistoryAmaranth@unmm.onmicrosoft.com/bookings/)
+- Remember all assignment instructions are on our [links and guides page](links-guides)
+"%}
+
+
+
+
+### T: Fact, Fiction and History
+
+{% include alert.html class='alert' title='Picking up from Thursday' text="
+These readings were originally assigned for last Thursday, but we used the time to go over technical issues and sound recording. We'll talk about these today."%}
+
+- Roussou, Maria. “The Components of Engagement in Virtual Heritage Environments.” In _Proceeding of New Heritage: Beyond Verisimilitude_ (2008): 265--83.
+- Güntan, S. & Ar, B. "Recreating the past: Historical narratives and virtual environments of video games," _Mekansal Araştırmalar Dergisi_, 2(1): 1-10.
+
+
+
+#### Extra
 - Platt, Ben. “[Now the Humanities Can Disrupt ‘AI’](https://www.publicbooks.org/now-the-humanities-can-disrupt-ai/)”. _Public Books_, February 20, 2023.
-- Danaher, John. “The Threat of Algocracy: Reality, Resistance and Accommodation.” _Philosophy & Technology_ 29, no. 3 (September 2016): 245–68.
 - Klein, Lauren. “Are Large Language Models Our Limit Case?” _Startwords_, no. 3 (August 1, 2022).
 
+### Th: The role of the humanities
+- Danaher, John. “The Threat of Algocracy: Reality, Resistance and Accommodation.” _Philosophy & Technology_ 29, no. 3 (September 2016): 245–68.
 
-### Th:  Campus History Essay Reviews
+
 {% include alert.html class='warning' title='Campus History Checkpoint' text="
 - Make sure you have your scan complete and uploaded to SketchFab
 - Make sure you have your audio recording done and integrated to your campus history page
@@ -277,6 +293,13 @@ We'll be looking at these in class. You don't need your scans or soundbites yet.
 	- what have we done?
 	- what haven't we done?
 	- how do you think differently about history?
+
+
+{% include alert.html class='alert' title='Book time in the studio' text="
+If you want to use the computers, scanner or microphones, or just want to schedule some time to get help, [book time in the studio (2068 Mesa Vista)](https://outlook.office.com/owa/calendar/HistoryAmaranth@unmm.onmicrosoft.com/bookings/)
+"%}
+
+
 
 ### T: Final Reflections
 - Sachs, Aaron. “Letters to a Tenured Historian: Imagining History as Creative Nonfiction – or Maybe Even Poetry.” _Rethinking History_ 14, no. 1 (2010): 5–38.

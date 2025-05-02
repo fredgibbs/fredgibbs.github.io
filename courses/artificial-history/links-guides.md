@@ -16,7 +16,7 @@ This page contains a list of links that you will probably need repeatedly throug
 - [Reading Guide](reading-guide.html)
 - [Book Discover Exercise](book-discovery.html)
 - [Data Interface Critique](data-interface-critique.html)
-- [Final Course Reflection](final-reflection-guidelines.html)
+- [Final Course Reflection](final-reflection-guide.html)
 
 ## Campus History Project
 - [Guidelines](campus-history-guidelines.html)
