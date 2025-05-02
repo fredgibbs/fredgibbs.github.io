@@ -266,22 +266,20 @@ We'll be looking at these in class. You don't need your scans or soundbites yet.
 
 ### T: Fact, Fiction and History
 
-{% include alert.html class="alert" title='Picking up from Thursday' text="
-These readings were originally assigned for last Thursday, but we used the time to go over technical issues and sound recording. We'll talk about these today."%}
+{% include alert.html class="warning" title='Picking up from Thursday' text="
+These readings were originally assigned for last Thursday, but we used the time to go over technical issues and sound recording. We'll talk about these today. 
+"%}
 
 - Roussou, Maria. “The Components of Engagement in Virtual Heritage Environments.” In _Proceeding of New Heritage: Beyond Verisimilitude_ (2008): 265--83.
 - Güntan, S. & Ar, B. "Recreating the past: Historical narratives and virtual environments of video games," _Mekansal Araştırmalar Dergisi_, 2(1): 1-10.
 
 
+### Th: The role of the humanities
+- Danaher, John. “The Threat of Algocracy: Reality, Resistance and Accommodation.” _Philosophy & Technology_ 29, no. 3 (September 2016): 245–68.
 
 #### Extra
 - Platt, Ben. “[Now the Humanities Can Disrupt ‘AI’](https://www.publicbooks.org/now-the-humanities-can-disrupt-ai/)”. _Public Books_, February 20, 2023.
 - Klein, Lauren. “Are Large Language Models Our Limit Case?” _Startwords_, no. 3 (August 1, 2022).
-
-
-
-### Th: The role of the humanities
-- Danaher, John. “The Threat of Algocracy: Reality, Resistance and Accommodation.” _Philosophy & Technology_ 29, no. 3 (September 2016): 245–68.
 
 
 {% include alert.html class='warning' title='Campus History Checkpoint' text="
