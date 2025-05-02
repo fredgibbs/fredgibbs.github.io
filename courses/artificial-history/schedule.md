@@ -256,7 +256,7 @@ We'll be looking at these in class. You don't need your scans or soundbites yet.
 	- role of critical humanities
 
 
-{% include alert.html class='info' title='Book time in the studio' text="
+{% include alert.html class="info" title='Book time in the studio' text="
 - If you want to use the computers, scanner or microphones, or just want to schedule some time to get help, [book time in the studio (2068 Mesa Vista)](https://outlook.office.com/owa/calendar/HistoryAmaranth@unmm.onmicrosoft.com/bookings/)
 - Remember all assignment instructions are on our [links and guides page](links-guides)
 "%}
@@ -266,7 +266,7 @@ We'll be looking at these in class. You don't need your scans or soundbites yet.
 
 ### T: Fact, Fiction and History
 
-{% include alert.html class='alert' title='Picking up from Thursday' text="
+{% include alert.html class="alert" title='Picking up from Thursday' text="
 These readings were originally assigned for last Thursday, but we used the time to go over technical issues and sound recording. We'll talk about these today."%}
 
 - Roussou, Maria. “The Components of Engagement in Virtual Heritage Environments.” In _Proceeding of New Heritage: Beyond Verisimilitude_ (2008): 265--83.
@@ -286,7 +286,9 @@ These readings were originally assigned for last Thursday, but we used the time 
 
 {% include alert.html class='warning' title='Campus History Checkpoint' text="
 - Make sure you have your scan complete and uploaded to SketchFab
-- Make sure you have your audio recording done and integrated to your campus history page
+  - If you haven't already, consult the [scanning guide](3d-scans) and, if useful for you, the [studio scanning guide](studio-scanning)
+- Make sure you have your audio recording done and integrated to your campus history page.
+  - If you haven't already, consult the [audio guide](sound-bites).
 "%}
 
 
@@ -297,7 +299,7 @@ These readings were originally assigned for last Thursday, but we used the time 
 	- how do you think differently about history?
 
 
-{% include alert.html class='info' title='Book time in the studio' text="
+{% include alert.html class="info" title='Book time in the studio' text="
 - If you want to use the computers, scanner or microphones, or just want to schedule some time to get help, [book time in the studio (2068 Mesa Vista)](https://outlook.office.com/owa/calendar/HistoryAmaranth@unmm.onmicrosoft.com/bookings/)
 - Remember all assignment instructions are on our [links and guides page](links-guides)
 "%}
@@ -315,6 +317,7 @@ In class:
 {% include alert.html class='danger' title='Campus History Reviews' text="
 Peer reviews today! Make sure you have a COMPLETE version for critique.
 - Final essays are due by May 16.
+- All instructions are on the [links and guides page](links-guides)
 "%}
 
 
@@ -330,7 +333,14 @@ Peer reviews today! Make sure you have a COMPLETE version for critique.
   - Starting to draft your [final course reflections](final-reflection-guide)
 
 
+{% include alert.html class="info" title='Book time in the studio' text="
+- Apart from this Thursday, if you want to use the computers, scanner or microphones, or just want to schedule some time to get help, [book time in the studio (2068 Mesa Vista)](https://outlook.office.com/owa/calendar/HistoryAmaranth@unmm.onmicrosoft.com/bookings/)
+- Remember all assignment instructions are on our [links and guides page](links-guides)
+"%}
+
 {% include alert.html class='danger' title='Final Deadline: MAY 16' text="
 - Campus History page: submit a GiutHub Pull Request as explained in the [submission guide](campus-history-submitting)
-- Final course reflection: send to me via email (fwgibbs@unm.edu)
+  - All Campus History instructions are on the [links and guides page](links-guides)
+- Final course reflection (review the [assignment guide](final-reflection-guide)): send to me via email (fwgibbs@unm.edu)
+- Have a great summer!
 "%}
