@@ -256,7 +256,7 @@ We'll be looking at these in class. You don't need your scans or soundbites yet.
 	- role of critical humanities
 
 
-{% include alert.html class='alert' title='Book time in the studio' text="
+{% include alert.html class='info' title='Book time in the studio' text="
 - If you want to use the computers, scanner or microphones, or just want to schedule some time to get help, [book time in the studio (2068 Mesa Vista)](https://outlook.office.com/owa/calendar/HistoryAmaranth@unmm.onmicrosoft.com/bookings/)
 - Remember all assignment instructions are on our [links and guides page](links-guides)
 "%}
@@ -278,6 +278,8 @@ These readings were originally assigned for last Thursday, but we used the time 
 - Platt, Ben. “[Now the Humanities Can Disrupt ‘AI’](https://www.publicbooks.org/now-the-humanities-can-disrupt-ai/)”. _Public Books_, February 20, 2023.
 - Klein, Lauren. “Are Large Language Models Our Limit Case?” _Startwords_, no. 3 (August 1, 2022).
 
+
+
 ### Th: The role of the humanities
 - Danaher, John. “The Threat of Algocracy: Reality, Resistance and Accommodation.” _Philosophy & Technology_ 29, no. 3 (September 2016): 245–68.
 
@@ -295,8 +297,9 @@ These readings were originally assigned for last Thursday, but we used the time 
 	- how do you think differently about history?
 
 
-{% include alert.html class='alert' title='Book time in the studio' text="
-If you want to use the computers, scanner or microphones, or just want to schedule some time to get help, [book time in the studio (2068 Mesa Vista)](https://outlook.office.com/owa/calendar/HistoryAmaranth@unmm.onmicrosoft.com/bookings/)
+{% include alert.html class='info' title='Book time in the studio' text="
+- If you want to use the computers, scanner or microphones, or just want to schedule some time to get help, [book time in the studio (2068 Mesa Vista)](https://outlook.office.com/owa/calendar/HistoryAmaranth@unmm.onmicrosoft.com/bookings/)
+- Remember all assignment instructions are on our [links and guides page](links-guides)
 "%}
 
 
