@@ -262,8 +262,6 @@ We'll be looking at these in class. You don't need your scans or soundbites yet.
 "%}
 
 
-
-
 ### T: Fact, Fiction and History
 
 {% include alert.html class="warning" title='Picking up from Thursday' text="
@@ -276,69 +274,48 @@ These readings were originally assigned for last Thursday, but we used the time 
 
 ### Th: The role of the humanities
 - Danaher, John. “The Threat of Algocracy: Reality, Resistance and Accommodation.” _Philosophy & Technology_ 29, no. 3 (September 2016): 245–68.
+- Sachs, Aaron. “Letters to a Tenured Historian: Imagining History as Creative Nonfiction – or Maybe Even Poetry.” _Rethinking History_ 14, no. 1 (2010): 5–38.
+
 
 #### Extra
 - Platt, Ben. “[Now the Humanities Can Disrupt ‘AI’](https://www.publicbooks.org/now-the-humanities-can-disrupt-ai/)”. _Public Books_, February 20, 2023.
 - Klein, Lauren. “Are Large Language Models Our Limit Case?” _Startwords_, no. 3 (August 1, 2022).
 
 
-{% include alert.html class='warning' title='Campus History Checkpoint' text="
-- Make sure you have your scan complete and uploaded to SketchFab
-  - If you haven't already, consult the [scanning guide](3d-scans) and, if useful for you, the [studio scanning guide](studio-scanning)
-- Make sure you have your audio recording done and integrated to your campus history page.
-  - If you haven't already, consult the [audio guide](sound-bites).
+
+
+## 8. Finals Week
+
+{% include alert.html class="warning" title='Building footprints are EXTRA CREDIT' text="
+Since many of you don't have specific sites, and I don't want to ask you to make a Google account (you've already had to make plenty of new accounts for this course), the building footprints and KML file are now EXTRA CREDIT.
+- If you don't want to do one, no worries! It is no longer a required part of the assignment. 
 "%}
 
 
 
-## 8. Review and wrap-up
-	- what have we done?
-	- what haven't we done?
-	- how do you think differently about history?
+### TUESDAY
+- I will be in the studio (MVH 2068) from 1-3:30 if you want any help
+- Even if you don't have specific questions, please come and work in case anything comes up!
 
 
 {% include alert.html class="info" title='Book time in the studio' text="
-- If you want to use the computers, scanner or microphones, or just want to schedule some time to get help, [book time in the studio (2068 Mesa Vista)](https://outlook.office.com/owa/calendar/HistoryAmaranth@unmm.onmicrosoft.com/bookings/)
-- Remember all assignment instructions are on our [links and guides page](links-guides)
+- Outside of Tuesday afternoon, if you want to use the computers, scanner or microphones, or just want to schedule some time to get help, [book time in the studio (2068 Mesa Vista)](https://outlook.office.com/owa/calendar/HistoryAmaranth@unmm.onmicrosoft.com/bookings/)
 "%}
 
 
+### STUFF TO FINISH
+- Remember: all assignment instructions are on the [links and guides page](links-guides)
+- Last campus history research in CSWR
+- Polishing the narrative and visual flow of your essay
+- (Re)doing scans either in the lab with the scanner or via your phone and [RealityScan](https://www.unrealengine.com/en-US/realityscan)
+- Sound recording and editing
+- There's no scheduled final, but your final assignment is your [final course reflection](final-reflection-guide)
 
-### T: Final Reflections
-- Sachs, Aaron. “Letters to a Tenured Historian: Imagining History as Creative Nonfiction – or Maybe Even Poetry.” _Rethinking History_ 14, no. 1 (2010): 5–38.
-
-
-In class:
-- brief wrap-up review lecture and take-home points
-- advice on how to do well on final course reflections (due on our finals day)
-
-{% include alert.html class='danger' title='Campus History Reviews' text="
-Peer reviews today! Make sure you have a COMPLETE version for critique.
-- Final essays are due by May 16.
-- All instructions are on the [links and guides page](links-guides)
-"%}
-
-
-### Th: NO CLASS
-- No class in Ortega!
-- As before on our work day, I will be in the studio (MVH 2068) from 1-3:30 if you want any help
-  - Even if you don't have specific questions, please come and work!
-- Stuff you should be finishing up:
-  - Last campus history research in CSWR
-  - Polishing the narrative and visual flow of your essay
-  - (Re)doing scans either in the lab with the scanner or via your phone and [RealityScan](https://www.unrealengine.com/en-US/realityscan)
-  - Sound recording and editing
-  - Starting to draft your [final course reflections](final-reflection-guide)
-
-
-{% include alert.html class="info" title='Book time in the studio' text="
-- Apart from this Thursday, if you want to use the computers, scanner or microphones, or just want to schedule some time to get help, [book time in the studio (2068 Mesa Vista)](https://outlook.office.com/owa/calendar/HistoryAmaranth@unmm.onmicrosoft.com/bookings/)
-- Remember all assignment instructions are on our [links and guides page](links-guides)
-"%}
 
 {% include alert.html class='danger' title='Final Deadline: MAY 16' text="
-- Campus History page: submit a GiutHub Pull Request as explained in the [submission guide](campus-history-submitting)
-  - All Campus History instructions are on the [links and guides page](links-guides)
-- Final course reflection (review the [assignment guide](final-reflection-guide)): send to me via email (fwgibbs@unm.edu)
+- All _Campus History_ instructions are on the [links and guides page](links-guides)
+- When you're TOTALLY DONE, submit a GitHub Pull Request as explained in the [submission guide](campus-history-submitting)
+  - This is how you turn in your assignment! If you get stuck, at least email me your GitHub repository URL
+- Don't forget your [final course reflection](final-reflection-guide). Send to me via email (fwgibbs@unm.edu)
 - Have a great summer!
 "%}
