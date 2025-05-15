@@ -4,19 +4,21 @@ toc-rows:
     headings:
       - title: "hello world"
         link: "about#hello-world"
-      - title: "a brief history"
-        link: "about#history"
-      - title: "under the screen"
-        link: "about#under-the-hood"
+      - title: "from-food-to-poison-and-back"
+        link: "about#from-food-to-poison-and-back"
+      - title: "digital history and archives"
+        link: "about#digital-history-and-archives"
+      - title: "outside the academy"
+        link: "about#outside-the-academy"
+      - title: "behind the screen"
+        link: "about#behind-the-screen"
   - title: projects
     link: projects/
     headings:
-      - title: history of natural food
-        link: projects/#the-unnatural-history-of-natural-food
-      - title: sustainable course websites
-        link: projects/#towards-a-public-digital-history-website-framework
-      - title: digital heritage studies
-        link: projects/#digital-heritage-studies
+      - title: history of natural diets
+        link: projects/#unnaturally-natural-diets
+      - title: xanthan
+        link: projects/#xanthan
       - title: historic trails
         link: projects/#digital-national-historic-trails
       - title: campus histories
@@ -27,18 +29,18 @@ toc-rows:
   - title: courses
     link: courses/
     headings:
-      - title: food + technology + society
-        link: courses/food-technology-society
+      - title: diet + health + expertise
+        link: courses/diet-health-expertise
+      - title: artificial history
+        link: courses/artificial-history
       - title: american food
         link: courses/american-food
-      - title: landscape + memory
-        link: courses/landscape-memory
+      - title: food + technology + society
+        link: courses/food-technology-society
+      - title: idea of nature
+        link: courses/idea-of-nature
       - title: historiography
         link: courses/historiography
-      - title: diet + health + expertise
-        link: courses/food-diet-health
-      - title: digital history
-        link: courses/digital-history
   - title: tutorials
     link: tutorials/
     headings:
