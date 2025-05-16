@@ -52,8 +52,8 @@ toc-rows:
         link: tutorials/#digital-publishing
       - title: set-up
         link: tutorials/#general-programming
-  - title: posts
-    link: posts/
+  - title: archive
+    link: archive/
     headings:
       - title: writing a personal statement
         link: posts/writing-a-personal-statement

@@ -24,7 +24,7 @@ Early in my graduate school days, I developed a fascination for cooking, food wr
 So thus began the "poison chapter" of my life, which focused on late medieval and early modern medical texts on poison. I wrote a boring but I think somewhat insightful [book](https://www.routledge.com/Poison-Medicine-and-Disease-in-Late-Medieval-and-Early-Modern-Europe/Gibbs/p/book/9781472420398) about it. Reveling in its own pedantry, it shows how physicians cultivated a distinct genre of poison literature in which they explored the natural philosophy of poison, debating its existence and wide range of meanings. So, no food, really. But a really cool natural philosophy meets medicine project.
 
 
-## Digital History & Archives
+## Digital History and Archives
 For over a decade I have worked and published in various facets of digital history/humanities. Early on I focused on computational history, digital editing, and data visualization. More recently my interests have shifted toward two distinct aspects of digital history: 1) Using technology to encourage others to engage in the fundamental questions of the humanities; 2) developing post-custodial, community-based archives that can help facilitate a new kind of historical record and new kinds of historical research.
 
 
@@ -32,7 +32,7 @@ For over a decade I have worked and published in various facets of digital histo
 When I'm not experimenting with new digital forms of history and archives, I like trying to grow food in harsh desert climates, starting (and occasionally finishing) DIY projects around the house (which entails many hours of research with YouTube videos and chat forums---a truly fascinating window onto American DIY culture), and making awkward [event flyers](/portfolio/flyers) to remind myself why a design career will always be out of reach. I'm a closet bike geek. I enjoy the absurdity of middle-distance triathlons. 
 
 
-## Under the Screen
+## Behind the Screen
 This site is run through GitHub Pages, a free hosting platform through GitHub. Individual pages are written in Markdown, which makes it super easy to write and edit webpages without code getting in the way, uploaded/committed to my [GitHub repository](https://github.com/fredgibbs/fredgibbs.github.io) and rendered (via a tool called Jekyll) by GitHub Pages into the website. It's easy, maintenance-free, and extremely flexible. Over a decade ago (!) I jotted down [a few reflections on my switch from Wordpress to GitHub](posts/a-new-minimalist-versioned-website), which continue to hold true. 
 
 [Read about ongoing projects <i class="fas fa-arrow-circle-right"></i>](projects)

@@ -6,28 +6,37 @@ description: Regularly scheduled courses: Digital Heritage; Food + Technology + 
 
 # Regular Courses
 
-
-{% include course-block.html
-slug="artificial-history"
-title="Artificial History (Spring 2025)"
-poster="images/digital-history-2-sm.jpg"
-desc="How can digital technology facilitate critical engagement with the humanities and cultural heritage? How are cultural institutions are engaging with technology and what does the future look like? How can the digitization (and virtual modeling) of historical artifacts--from pottery and jewelry to entire historic sites--change the ways we can understand past cultures? How can citizen science models energize the humanities? How is AI going to shape our access to and stories about the past? This is a class that's focused on discussing and making things, not just memorizing and regurgitating a historical facts. 
-
-We'll examine how digital storytelling, virtual exhibits, digital historical tours, photogrammetry (3D modeling) of historic artifacts and sites, interface design for cultural collections, and digital mapping can help bring history and its relevance to life. We’ll draw from a wide range of fields including digital public history, historic preservation, museum studies, digital archiving, spatial humanities, and media studies. We'll collaborate on some posters, maps, 3D prints, digital essays, and a fictional interview with a campus building. No technical skills are expected or needed--just an open mind about exploring the future of history!"
-%}
-
-
-
-
-
 {% include course-block.html
 slug="diet-health-expertise"
 title="Diet, Health, and Expertise (Summer 2025)"
 poster="images/diet-health-sm.jpg"
 desc="If someone tells you how to eat or what you should or shouldn’t eat, do you believe them? Why or why not? Is dietary advice ever truly believable? This course uses the long history of diet and health to investigate the relationship between medical expertise and popular understandings of health.
-
+<br><br>
 Some guiding questions: How do dietary experts establish their expertise? Why have medical authorities continually redefined what it means to be healthy and to eat a healthy diet? Why have so many fad diets come into and gone out of fashion?  What can historical perspectives on topics like GMOs, vitamins, and obesity offer contemporary debates on these issues?"
 %}
+
+
+
+{% include course-block.html
+slug="american-food"
+title="History of American Food (Fall 2025)"
+poster="images/american-food-cultures-2019.jpg"
+desc="When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. But what about American food? Is there such a thing? Does this concept even make sense anymore? How are ideas of nationalism, patriotism, regionalism, and freedom reflected in our foodways?
+<br><br>
+This course explores both historical and contemporary ways of thinking about 'American' food and the relationship between food and identity. We look at the changing meanings of food and foodways throughout US history, particularly how people have attached cultural values to certain foods yet rejected others, and how foodways are so frequently an expression of personal, community, and national values."
+%}
+
+
+
+{% include course-block.html
+slug="artificial-history"
+title="Artificial History (Spring 2025)"
+poster="images/digital-history-2-sm.jpg"
+desc="How can digital technology facilitate critical engagement with the humanities and cultural heritage? How are cultural institutions are engaging with technology and what does the future look like? How can the digitization (and virtual modeling) of historical artifacts--from pottery and jewelry to entire historic sites--change the ways we can understand past cultures? How is AI going to shape our access to and stories about the past? 
+<br><br>
+We’ll draw from a wide range of fields including digital public history, historic preservation, museum studies, digital archiving, spatial humanities, and media studies. We'll collaborate on some posters, maps, 3D prints, digital essays, and a fictional interview with a campus building. No technical skills are expected or needed--just an open mind about exploring the future of history!"
+%}
+
 
 
 {% include course-block.html
@@ -38,14 +47,6 @@ desc="Nature and landscape can seem like mere background our lives, but the spac
 %}
 
 
-{% include course-block.html
-slug="american-food"
-title="History of American Food (Summer 2022)"
-poster="images/american-food-cultures-2019.jpg"
-desc="When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. But what about American food? Is there such a thing? Does this concept even make sense anymore? How are ideas of nationalism reflected in our foodways?
-
-This course explores both historical and contemporary ways of thinking about 'American' food and the relationship between food and identity. We look at the changing meanings of food and foodways throughout US history, particularly how people have attached cultural values to certain foods yet rejected others, and how foodways are so frequently an expression of personal, community, and national values."
-%}
 
 
 {% include course-block.html
