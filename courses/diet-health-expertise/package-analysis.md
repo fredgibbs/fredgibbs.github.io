@@ -3,28 +3,28 @@ layout: syllabus
 course-title: History of Diet & Health
 course-slug: food-diet-health
 number: HIST 410
-term: Fall 2018
+term: Summer 2025
 section: links-guides
 ---
 
 # Package Analysis Writing Guide
 
 ## Executive Summary
-  - Pick a food/food-like item that makes health claims on its package. Cereal boxes, granola bars, various snack items, frozen dinners, supplements, and similar are usually good. DO NOT pick candy or soda or any product whose label doesn't have anything to do with health. Ask if you're not sure!
-  - Write a 800-word analysis about how the package informs our perceptions of "healthy"
+  - Pick a food/food-like item that makes health claims on its package. Cereal boxes, granola bars, various snack items, frozen dinners, supplements, and similar are usually good. DO NOT pick candy or soda or any product whose label doesn't have anything to do with health.
+  - Write a 750-word analysis about how the package informs our perceptions of "healthy"
   - Your analysis must draw from course readings!
 
 
 ## Your Assignment
-Your challenge is to critically analyze the package of some food OR supplement that makes some health-related claims. You should avoid products primarily marketed as fun, rather than healthy (like candy, soda, Doritos, etc). Some things like kids cereal straddle that line, but as long as there are health claims to critique, it's fine. If you can't automatically think of something to write about when you see the package, you should pick something else.
+Your challenge is to critically analyze the package of some food that makes some health-related claims. You should avoid products primarily marketed as fun, rather than healthy (so, don't critique candy, soda, Doritos, etc). Some things like kids cereal straddle that line, but as long as there are health claims to critique, it's fine. If you can't automatically think of something to write about when you see the package, you should pick something else.
 
 
 ## Assignment Goals
-This assignment shows that you’re able to apply the course discussion and activities in the real world by critically analyzing "stuff" that communicates about health, which is clearly true for most of the packages we see in grocery stores. **This is the goal of the entire course---see the learning objectives on the syllabus!---to help you think carefully and historically about diet and health.** In terms of the writing itself, the assignments encourage/force you to focus on the clarity and concision of your thinking and expression. It's a super useful skill that you'll frequently employ in your future career, whatever it is.
+Apply the course discussion and activities in the real world by critically analyzing "stuff" that communicates about health, which is clearly true for most of the packages we see in grocery stores. **This is the goal of the entire course--to help you think critically and historically about diet and health.** In terms of the writing itself, the assignments encourage/force you to focus on the clarity and concision of your thinking and expression. It's a super useful skill that you'll frequently employ in your future career, whatever it is.
 
 
 ## Words
-Your essay should be right around 800 words. This restrictive format is very deliberate, to force you to focus on quality over quantity. The challenge isn't to write 800 words, but pack as much analysis into that space as you can, and to make your writing as concise and clear as possible.
+Your essay should be ~750 words. Focus on quality over quantity. The challenge isn't to write enough words, but pack as much clear and concise analysis into that space as you can.
 
 
 ## Some advice (regardless of format)
@@ -46,8 +46,7 @@ Please do not cite work from outside course readings---this assignment is to hel
 ## Formatting Checklist
 - 12 pt. Times New Roman (or very similar serif font)
 - 1" margins on all sides
-- Your name and URL or citation to source at top
-- Double spaced!
+- 1.5 - 2 line spacing
 
 **NOTE: If your essay does not meet minimum formatting requirements, I will return it to you, and you will have to fix it, turn it in again, and you will lose points for being annoying.**
 

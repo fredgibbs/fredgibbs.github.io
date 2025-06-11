@@ -17,33 +17,34 @@ section: home
 
 
 ## Course Description
-If someone tells you how to eat or what you should or shouldn’t eat, do you believe them? Why or why not? Is any dietary advice ever truly "right"? What makes some more convincing than others? This course uses the long history of diet and health to investigate the relationship between medical expertise and popular understandings of health.
+If someone tells you how to be healthy or what you should or shouldn’t eat, do you believe them? Why or why not? How do dietary "experts" establish their expertise? What makes some people/arguments more convincing than others? Is any dietary advice ever truly "right"? What happens during the process of translating nutrition and diet research into everyday action? How have ideas about healthy diets and healthy bodies changed over time?
 
-Some guiding questions: How do dietary experts establish their expertise? Why have medical authorities continually redefined what it means to be healthy and to eat a healthy diet?  Why have so many fad diets come into and gone out of fashion?  What can historical perspectives on topics like GMOs, vitamins, and obesity offer contemporary debates on these issues?
+This course uses the long history of diet and health to investigate the relationship between popular understandings of health and the idea of expertise.
 
 
-## Student Learning Objectives
-* 1: Question and judge the extent to which ideas of health are constructed as much socially and culturally as scientifically
-* 2: Interpret and explain the rhetoric of health in different historical periods
-* 3: Outline how the establishment of dietary expertise has and has not changed over time
-* 4: Sharpen critical thinking about diet/health/expertise
-* 5: Advance historical source analysis skills by evaluating primary sources on dietary advice
+
+## Student Learning Outcomes
+* 1: Describe how ideas of health are constructed both culturally and scientifically
+* 2: Interpret and explain the how rhetoric of health varies across different historical periods
+* 3: Outline the different ways people have established dietary expertise over time
+* 4: Sharpen critical thinking about the relationship between diet, health, and expertise
+* 5: Critically evaluate dietary advice as a product of cultural context
 
 
 ## You are welcome here
-This class is probably unlike most history classes you've taken because the history of medicine and history of food are somewhat specialized topics. But I want to be VERY CLEAR: Even if you have never thought about the history of medicine or diet, or have never taken a history course, or even a humanities course, YOU ARE WELCOME HERE! I assume you have no prior knowledge or skills necessary for class, so we build from the ground up.
+Even if you have never thought about the history of medicine or diet or health, or have never taken a history course, or even a humanities course, YOU ARE WELCOME HERE! I assume you have no prior knowledge or skills necessary for class, so we build from the ground up.
 
-I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. As much as possible I've tried to make the course about everyone thinking together rather than just you memorizing something I say or you read so that you can regurgitate it later. If you feel the course structure isn't facilitating your own success, let's talk (virtually, of course)!
+I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. As much as possible I've tried to make the course about everyone thinking together rather than just you learning "facts" that you can regurgitate later. If you feel the course structure isn't facilitating your own success, please let me know!
 
 ## Getting Started
-This page, and the [schedule page](schedule), have all the instructions and assignments you need for the course. Make sure you are VERY FAMILIAR with these two pages. We use UNM Learn to manage quizzes, assignment submissions, and the discussion board, but all basic course information is on these two webpages.
+This page, and the [schedule page](schedule), have all the instructions and assignments you need for the course. It is YOUR RESPONSIBILITY to know what's on the syllabus. We use Canvas to manage quizzes, assignment submissions, and the discussion board, but all basic course information is on these two webpages.
 
 ### Course Readings
-We use a tool called [Zotero](http://zotero.org) to access PDFs for the course. We have what's called a group library that holds all the readings for the course. FIRST, to get connected, see the [getting started guide](http://fredgibbs.net/courses/etc/zotero).
+We use a tool called [Zotero](http://zotero.org) to organize and provide access to all readings for the course. FIRST, to get connected, see the [getting started guide](http://fredgibbs.net/courses/guides/zotero).
 
-Once you've completed the steps in the guide (it takes maybe 5 minutes), you can access the [course library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library). This link is also on UNM Learn and on the Links and Guides page for this course (see link at very top of page).
+Once you've completed the steps in the guide (it takes maybe 2 minutes), you can access the [course library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library). 
 
-NOTE: ALL course readings not already online will be ONLY available through Zotero (unless you track them down on your own, which you should never need to do).
+NOTE: ALL course readings not already online are available through Zotero. **You should never need to find anything on your own.**
 
 #### Quick Zotero Info
 - Group Library Name: `diet-health-expertise-unm` (in case you need to look it up on zotero.org)
@@ -51,27 +52,27 @@ NOTE: ALL course readings not already online will be ONLY available through Zote
 
 
 ## General Work outline
-While we have no formal meetings, the class is organized around modest reading assignments almost everyday. The frequency of written responses generally decreases as the semester progresses.
+While we have no formal meetings, the class is organized around modest reading assignments almost daily. The frequency of written responses generally decreases as the semester progresses.
 
 
 ### Reading Reflections
-I hold you accountable for keeping up with the readings by asking you to respond to them with short [reading reflections](reading-reflections). Some weeks you'll instead post a [weekly learning reflection](weekly-reflections) that will address a few questions that will help tie together some recent readings. In place of a few weekly learning reflections there are other assignments to spice things up a bit.
+I try to hold you accountable for keeping up with the readings by asking you to respond to them with short [reading reflections](reading-reflections).  In place of a few reflections there are other assignments to spice things up a bit.
 
-All assignments are DUE BY MIDNIGHT on the day they are listed on the syllabus. Let me know if something is not clear!
+All assignments are DUE BY MIDNIGHT on the day they are listed on the syllabus.
 
 
 ### Lecture Videos
-There will be short lecture videos to watch almost every week. Sometimes these will be overviews for the week; sometimes they will be weekly reviews that comment on your reading reflections; sometimes they will go over a quiz. I try to keep them about ~20 minutes, but there are a few slightly longer ones, when I needed a bit more time to get through the material. I am aware that watching videos of me talking is not super (or even vaguely) interesting, so I try to provide what I think is most neeeded while be respectful of your time and the awkwardness of watching a talking head on a screen.
+There will be short "big points" videos to watch every so often. Sometimes these will be overviews for the week; sometimes they will be weekly reviews that comment on your reading reflections; sometimes they will go over a quiz. I try to keep them about ~10-15 minutes, but sometimes I fail when I need more time to get through essential material. I am aware that watching videos of me talking is not super (or even vaguely) interesting, so I try to provide what I think is most neeeded while be respectful of your time.
 
 ## Places to Find Stuff
-- [Canvas @ UNM](http://canvas.unm.edu). All assignments will be submitted and graded via Canvas.
-- [YouTube Channel](https://www.youtube.com/channel/UCt6_7arYzi4TcIIwo7TLURw) will host mini-lectures and other screencasts. I highly recommend that you either subscribe or bookmark the channel so you have quick access to it.
+- [Canvas](http://canvas.unm.edu). All assignments will be submitted and graded via Canvas.
+- [YouTube Channel](https://www.youtube.com/channel/UCt6_7arYzi4TcIIwo7TLURw). Links to videos will be posted on the syllabus, and you can also subscribe to or bookmark the channel for quick access.
 
 
 ## Required Texts
 There are NO REQUIRED BOOKS OR READERS for the course; everything is accessible online. However, you will need to accept an invitation to join the course Zotero library to access many of the assigned articles and book chapters. See the Tech Tools section above for instructions and links.
 
-TO BE CLEAR: LITERALLY EVERYTHING you need for the course is either already freely available online (and linked to on the syllabus), or is a PDF in our Zotero library. If you ever think you need to track something down on your own, you are not connected to Zotero properly.
+TO BE CLEAR: LITERALLY EVERYTHING you need for the course is either already available online (and linked to on the syllabus), or is a PDF in our Zotero library. If you ever think you need to track something down on your own, YOU ARE MISTAKEN.
 
 
 ## Work Requirements and Grading
@@ -90,27 +91,27 @@ Depending on how the course unfolds, the final number of points may ( = will alm
 
 Percent | Grade
 --- | ---
-95+ | A
-90-94 | A-
-87-89 | B+
-83-86 | B
-80-82 | B-
+95+ | A+
+90-94 | A
+88-89 | A-
+85-87 | B+
+82-84 | B
+80-81 | B-
 77-79 | C+
 73-76 | C
-70-72 | C-
-67-69 | D+
-60-66 | D
-59- | F
-
-
-### Response times
-I try to respond to all emails ASAP, but it can take up to 2 days for longer inquires. Quick questions about assignments or deadlines or similar tend to be answered within a few hours. I try to grade assignments and provide feedback within 3 days of the assignment due date. It's not feasible to comment on everyone's work for each assignment (everyone gets comments on larger assignments), but I encourage you to ask for more feedback whether you get any or not. I'm always happy to have a conversation about your work and how I'm responding to it.
+66-72 | C-
+61-65 | D+
+56-60 | D
+55- | F
 
 
 ### Extra Credit (due the last day of finals)
 - [Diet/Health/Food Documentary Critique](film-analysis) (4 points)
-- Other ideas? If you are interested in a particular topic related to the class and want to do a little extra work for some extra points, ask me about it! I'm quite flexible about helping people to work they are excited about that contributed to the learning objectives of the course. Even extra credit gets graded, though, so just doing something for the sake of doing it (as opposed to doing it well) doesn't necessarily get you many points. Email these to me directly. 
-- CAREFUL: Extra credit is only available if all other work is turned in!
+- Other ideas? If you are interested in a particular topic related to the class and want to do extra work for extra points, ask me about it! I'm quite flexible about helping people to work they are excited about that contributed to the learning objectives of the course. 
+
+Be mindful that extra credit gets graded, too, so just doing something  doesn't necessarily get you many points. Email these to me directly. 
+
+CAREFUL! Extra credit is only available if all other work is turned in!
 
 ## Writing Help
 [CAPS Tutoring Services](http://caps.unm.edu/programs/online-tutoring/) is a free-of-charge educational assistance program available to UNM students enrolled in classes. Online services include the Online Writing Lab, Chatting with or asking a question of a Tutor.
@@ -123,4 +124,3 @@ You should be familiar with [UNM’s Policy on Academic Dishonesty and the Stude
 
 ## Citizenship and/or Immigration Status
 All students are welcome in this class regardless of citizenship, residency, or immigration status.  I will respect your privacy if you choose to disclose your status. UNM as an institution has made a core commitment to the success of all our students, including members of our undocumented community.  The Administration’s welcome is found on our website: http://undocumented.unm.edu/.
-

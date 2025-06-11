@@ -45,6 +45,3 @@ Think about all the topics and themes we've covered and how we've seen elements 
 - 8-11: **Fine**. Shows some evidence of thinking critically about the above questions, but does not demonstrate much knowledge of course content.
 - 4-7: **Marginal**. Provides simplistic descriptions and superficial answers to questions that are disconnected from course material.
 - 0-3: **Not good**. Doesn't meet basic length requirements or doesn't address any key questions posed above.
-
-## Questions
-You are ALWAYS welcome to use email or better yet Slack for questions or clarifications. Writing is hard enough, and virtually impossible when you're not sure what you're trying to do. Please get in touch!

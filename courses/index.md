@@ -1,7 +1,7 @@
 ---
 layout: default
 title: courses
-description: Regularly scheduled courses: Digital Heritage; Food + Technology + Society; The Idea of Nature; Historiography; American Food; Digital History; History of Diet, Health, Expertise
+description: "Regularly scheduled courses: Digital Heritage; Food + Technology + Society; The Idea of Nature; Historiography; American Food; Digital History; History of Diet, Health, Expertise"
 ---
 
 # Regular Courses
