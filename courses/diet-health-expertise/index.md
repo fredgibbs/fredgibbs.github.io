@@ -73,12 +73,12 @@ We use a tool called [Zotero](http://zotero.org) to organize and provide access 
 
 
 ## Assignments and Grading
-
-The little equations after the assignment type indicates `number of assignments` x `points for each` x `weight` = `total points`
-- Occasional reading/lecture quizzes (~6 x ~15 x 1 = ~90)
-- [Reading reflections](reading-reflections)(16 x 2 x 2 = 64)
-- [Diet analysis](healthy-diet-analysis) (1 x 15 x 1 = 15) 
-- [Final learning reflection](final-reflections) (1 x 15 x 2 = 30) 
+The little equations after the assignment type indicates `number of assignments` x `points for each` = `total points`
+This is probably going to be tweaked a bit as the class gets going, but the general idea won't change and it will only get easier to get higher grades.
+- Occasional reading/lecture quizzes (~5 x ~15 = ~75)
+- [Reading reflections](reading-reflections)(~12 x 10 = ~120)
+- [Diet analysis](healthy-diet-analysis) (1 x 20 = 20) 
+- [Final learning reflection](final-reflections) (1 x 50 = 50) 
 
 
 ### Grade Distribution

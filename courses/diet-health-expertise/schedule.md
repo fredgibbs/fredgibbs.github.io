@@ -9,9 +9,8 @@ section: schedule
 
 # HIST 410: Readings and Assignments
 
-
 ## Mon 6/30: Introductions, SLOs, Key Concepts
-Welcome! Today we're just getting up to speed with course logistics. There are a couple things to do just to make sure erverything is wired up for our month together. Please do them ASAP, but make sure these are done BEFORE WEDNESDAY. Normally stuff is due the day it appears on the syllabus, but we're all just now getting up to speed.
+Welcome! Today we're just getting up to speed with course logistics. There are a couple things to do just to make sure erverything is wired up for our month together. Please do them ASAP, but make sure these are done BEFORE WEDNESDAY. Normally stuff is due the day it appears on the syllabus, but we can take an extra day to get up to speed.
 
 - Course logistics video (link TBP = To Be Posted)
 - First week overview (link TBP)
@@ -19,11 +18,8 @@ Welcome! Today we're just getting up to speed with course logistics. There are a
 
 
 {% include alert.html class='danger' title='Introductory stuff to do' text="
-
 - Take the Syllabus Quiz. The point is to confirm and highlight key aspects of the course to avoid confusion later. 
-
 - Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post a brief introduction to who you are and some opinion about diet and health that you've changed your mind about---we all have many! These should be substantive but not long, ~150 words or so.
-
 "%}
 
 
@@ -41,14 +37,12 @@ Today we cover medical and dietary thinking from ancient Greece and Rome. Some o
 - Classical Medicine video (link TDP)
 - Mark Grant, _Galen: On Food and Diet_, 1-8. These few pages provide a general introduction to the classical physician Galen (died circa 215 CE) and ancient medicine. The author of the introduction has translated many of Galen's writing about food, and we'll read an excerpt from those as noted below.
 - Galen, (tr. Mark Grant), _On the Humors_, 14-18; _On the Power of Foods_, 68-84. Note that there is WAY MORE DETAIL about foods in here than you need to know. **Read for the big picture** in terms of how Galen establishes his expertise, what topics are most interesting to him, how he thinks about the relationship between diet and health. 
-  - What can you learn about medical practice in the ancient world from Galen's writing? 
-  - What can you learn about how different foodstuffs differ from each other?
 
 {% include alert.html class='warning' title='Reading reflection' text="
 - How did physicians like Galen conceive the notion of disease? 
-- According to Galen, how does diet fit into medical understandings of disease? 
-- How is his approach similar and different to modern approaches to diet? - How do we make sense of Galen's writing style? 
-- Be sure to use both the readings and the video lecture.
+- Using examples from Galen's text, show how diet fit into medical understandings of disease.
+- Why was it important to describe foods the way he did?
+- How does Galen establish his expertise in this text? 
 "%}
 
 
