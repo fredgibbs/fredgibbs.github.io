@@ -148,8 +148,8 @@ There has been no bigger shift in dietary advice than starting to understand hea
 ## Mon 7/14: Quantifying diets
 - Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67.
 
-{% include alert.html class='danger' title='Reading Reflection' text="
-On p.64 Mudry concludes that "after the development of the science of nutrition, moral terms like “good” and “bad” became enumerated and objectified in discussions of food." 
+{% include alert.html class='danger' title='Reading Reflection' text='
+On p.64 Mudry concludes that "after the development of the science of nutrition, moral terms like “good” and “bad” became enumerated and objectified in discussions of food.'
 
 What does this mean? Do you agree? How much are you convinced by her argument and evidence? The most important aspect of your reply is the ARGUMENT and EVIDENCE that YOU PROVIDE.
 "%}
