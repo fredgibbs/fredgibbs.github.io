@@ -27,12 +27,15 @@ There are a couple things to do just to make sure we're all connected. Please do
 
 ## Tue 7/1: Understanding Nutrition
 - Jessica J. Mudry, *Measured Meals. Nutrition in America*, 1-19 (Introduction: Eating by Numbers).
+{% include alert.html class='warning' title='Reading reflection' text="
+
+"%}
 
 
 ## Wed 7/2: Classical Diet
-Today we cover medical and dietary thinking from ancient Greece and Rome through about 1700. Some of the medical thinking seems a bit bizarre to our modern sensibilities, but in terms of dietary advice, there is a remarkable consistency over the last 2000 years. (SLO focus: 2,4,5)
+Today we cover medical and dietary thinking from ancient Greece and Rome through about 1700. Some of the medical thinking seems a bit bizarre to our modern sensibilities, but in terms of dietary advice, there is a remarkable consistency over the last 2000 years. 
 
-- Classical medicine, diet, and [Intro to Galen Lecture](https://youtu.be/9evKPqKOvUY)
+- Classical Medicine video (URL TDB)
 - Mark Grant, _Galen: On Food and Diet_, 1-8. These few pages provide a general introduction to the classical physician Galen (died circa 215 CE) and ancient medicine. The author of the introduction has translated many of Galen's writing about food, and we'll read an excerpt from those as noted below.
 - Galen, (tr. Mark Grant), _On the Humors_, 14-18; _On the Power of Foods_, 68-84. Note that there is WAY MORE DETAIL about foods in here than you need to know. **Read for the big picture** in terms of how Galen establishes his expertise, what topics are most interesting to him, how he thinks about the relationship between diet and health. 
   - What can you learn about medical practice in the ancient world from Galen's writing? 
@@ -48,22 +51,22 @@ Today we cover medical and dietary thinking from ancient Greece and Rome through
 
 ## Thu 7/3: Premodern diet
 
-- [Visualizing Medieval Medicine Lecture](https://youtu.be/Jre-MOGaGmw) (posted on the YouTube channel)
+- [Visualizing Medieval Medicine](https://youtu.be/Jre-MOGaGmw) 
 - Ken Albala, _Eating Right in the Renaissance_, 63--77; 78--84; 91--104.
 
-
 {% include alert.html class='danger' title='Lecture Quiz' text="
-- Be sure to complete the Lecture Quiz (see Quizzes link on left nav of Canvas)
+- Be sure to complete the quiz (see Quizzes link on left nav of Canvas), which covers BOTH the medieval medicine video and early modern diet reading.
+- This quiz is due by the END OF TOMORROW, since we don't have anything new b/c of the holiday.
 "%}
 
 
 ## Fri: July 4 Holiday
 
 
-# Week 2: 18th and 19th centuries (1700-1900)
+# Week 2: 18th and 19th centuries
 
 ## Mon 7/7: Dietary Expertise in the Enlightenment I
-The theme for next few days is how physicians beginning the 1700s started promoting dietary advice and their expertise in different ways than they did previously. We also see the early ties between dietary advice, moral authority, a common sense, a constellation of ideas we'll come back to repeatedly in very different historical contexts. (SLO focus: 1)
+The theme for next few days is how physicians beginning the 1700s started promoting dietary advice and their expertise in different ways than they did previously. We also see the early ties between dietary advice, moral authority, a common sense, a constellation of ideas we'll come back to repeatedly in very different historical contexts. 
 
 - Steven Shapin, "Trusting George Cheyne," 263--79. We're reading the whole article, but it's so long we're breaking up into two sections.
 
@@ -108,9 +111,7 @@ After taking even a single upper-level history course, you should have a sense o
 ## Thu 7/10: Natural and Moral Diets of the 1800s
 The dietary advice we just read was directed primarily toward the upper classes. By the early 1800s, however, dietary advice was increasingly directed at the emerging middle class. Physicians and moral reformers saw diets changing as a result of industrialization and urbanization as a distinct societal ill. 
 
-Over the next few days we look at how moral and dietary advice became even more tightly coupled throughout the 1800s. Later in the course, we'll see how that link has persisted into the present day. (SLO focus: 2,3,4)
-
-I've uploaded [a short video](https://youtu.be/gvCk9jhLie8) that highlights a few passages from four early nineteenth-century texts. Hopefully this gives you a sense of and ideas circulating about natural diet right before Graham becomes well known.
+Over the next few days we look at how moral and dietary advice became even more tightly coupled throughout the 1800s. Later in the course, we'll see how that link has persisted into the present day. 
 
 - William Buchan, [_Domestic Medicine_](https://books.google.com/books?id=Z7VbAAAAcAAJ) (1812).
 - John Frank Newton, _[The Return to Nature](https://books.google.com/books?id=8dwhAQAAMAAJ): Or, A Defence of the Vegetable Regimen; with Some Account of an Experiment Made during the Last Three or Four Years in the Author’s Family_ (1811)
@@ -120,7 +121,6 @@ I've uploaded [a short video](https://youtu.be/gvCk9jhLie8) that highlights a fe
 
 
 ## Fri 7/11: Early vegetarianism
-There is a [broader themes review](https://youtu.be/C6AOzfoU_sw) video and a [week 4 background and preview](https://youtu.be/TtGezq2yDBA) video. 
 
 - Adam D. Shprintzen, _The Vegetarian Crusade_, Chapter 1: Proto-vegetarianism, 10-27; 32-38. This chapter briefly describes some early religious sentiments supporting vegetarianism, but most importantly (and the main reason we're reading it), it introduces Sylvester Graham and his historical context.
 
@@ -142,17 +142,17 @@ Questions to keep in mind while reading:
 
 
 # Week 3: Scientific and Quantified Eating
-There has been no bigger shift in dietary advice than starting to understand health in terms of numbers, averages, and scales. This week examines some of the earliest developments in quantification of dietary knowledge and advice. We confront the implications of this paradigm shift each day as we see nutritional information labels, and watch-like computers that count our steps each day. (SLO focus: 1,2,3)
+There has been no bigger shift in dietary advice than starting to understand health in terms of numbers, averages, and scales. This week examines some of the earliest developments in quantification of dietary knowledge and advice. We confront the implications of this paradigm shift each day as we see nutritional information labels, and watch-like computers that count our steps each day.
 
 
 ## Mon 7/14: Quantifying diets
 - Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67.
 
 {% include alert.html class='danger' title='Reading Reflection' text='
-On p.64 Mudry concludes that "after the development of the science of nutrition, moral terms like “good” and “bad” became enumerated and objectified in discussions of food.'
+On p.64 Mudry concludes that "after the development of the science of nutrition, moral terms like “good” and “bad” became enumerated and objectified in discussions of food."
 
-What does this mean? Do you agree? How much are you convinced by her argument and evidence? The most important aspect of your reply is the ARGUMENT and EVIDENCE that YOU PROVIDE.
-"%}
+What does this mean? Do you agree? How much are you convinced by her argument and evidence? I\'m asking for your opinion here, but it should be carefully and clearly informed by the reading, and put in the context of course material.
+'%}
 
 
 
