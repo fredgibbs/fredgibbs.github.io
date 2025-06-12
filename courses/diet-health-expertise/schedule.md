@@ -11,14 +11,16 @@ section: schedule
 
 
 ## Mon 6/30: Introductions, SLOs, Key Concepts
-We're just getting up to speed and reading two VERY different perspectives on how we can think about the links between nutrition and health generally. You have a few short introductory assignments to complete right away. 
+Welcome! Today we're just getting up to speed with course logistics. There are a couple things to do just to make sure erverything is wired up for our month together. Please do them ASAP, but make sure these are done BEFORE WEDNESDAY. Normally stuff is due the day it appears on the syllabus, but we're all just now getting up to speed.
 
-- Introduction to the course, syllabus, and expectations.
+- Course logistics video (link TBP = To Be Posted)
+- First week overview (link TBP)
+- Yours truly, [A healthy dose of skepticism](https://nursingclio.org/2017/05/24/a-healthy-dose-of-skepticism/)
 
-{% include alert.html class='danger' title='Introductory stuff' text="
-There are a couple things to do just to make sure we're all connected. Please do them ASAP, but make sure these are done BEFORE WEDNESDAY.
 
-- Take the Syllabus Quiz. The point is to confirm and highlight key aspects of the course to avoid confusion later. All quizzes are accessible through UNM Learn (there is a quizzes link on the left nav bar).
+{% include alert.html class='danger' title='Introductory stuff to do' text="
+
+- Take the Syllabus Quiz. The point is to confirm and highlight key aspects of the course to avoid confusion later. 
 
 - Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post a brief introduction to who you are and some opinion about diet and health that you've changed your mind about---we all have many! These should be substantive but not long, ~150 words or so.
 
@@ -27,15 +29,16 @@ There are a couple things to do just to make sure we're all connected. Please do
 
 ## Tue 7/1: Understanding Nutrition
 - Jessica J. Mudry, *Measured Meals. Nutrition in America*, 1-19 (Introduction: Eating by Numbers).
+
 {% include alert.html class='warning' title='Reading reflection' text="
 
 "%}
 
 
 ## Wed 7/2: Classical Diet
-Today we cover medical and dietary thinking from ancient Greece and Rome through about 1700. Some of the medical thinking seems a bit bizarre to our modern sensibilities, but in terms of dietary advice, there is a remarkable consistency over the last 2000 years. 
+Today we cover medical and dietary thinking from ancient Greece and Rome. Some of the medical thinking seems a bit bizarre to our modern sensibilities, but in terms of dietary advice, there is a remarkable consistency over the last 2000 years. 
 
-- Classical Medicine video (URL TDB)
+- Classical Medicine video (link TDP)
 - Mark Grant, _Galen: On Food and Diet_, 1-8. These few pages provide a general introduction to the classical physician Galen (died circa 215 CE) and ancient medicine. The author of the introduction has translated many of Galen's writing about food, and we'll read an excerpt from those as noted below.
 - Galen, (tr. Mark Grant), _On the Humors_, 14-18; _On the Power of Foods_, 68-84. Note that there is WAY MORE DETAIL about foods in here than you need to know. **Read for the big picture** in terms of how Galen establishes his expertise, what topics are most interesting to him, how he thinks about the relationship between diet and health. 
   - What can you learn about medical practice in the ancient world from Galen's writing? 
@@ -49,9 +52,10 @@ Today we cover medical and dietary thinking from ancient Greece and Rome through
 "%}
 
 
-## Thu 7/3: Premodern diet
+## Thu 7/3: Medieval Medicine Premodern diet
+We explore the contours of medieval medicine, providing important context for understanding the long history of diet and health advice. While this course focuses on the 19th and 20th centuries, it's crucial to recognize that physicians have been debating what constitutes healthy food and good nutrition for a very long time. This week's lectures establish the foundation of the Western medical tradition as it pertains to diet, and helps us understand the close coupling between diet and culture.
 
-- [Visualizing Medieval Medicine](https://youtu.be/Jre-MOGaGmw) 
+- [Visualizing Medieval Medicine](link TBP)
 - Ken Albala, _Eating Right in the Renaissance_, 63--77; 78--84; 91--104.
 
 {% include alert.html class='danger' title='Lecture Quiz' text="
@@ -64,16 +68,18 @@ Today we cover medical and dietary thinking from ancient Greece and Rome through
 
 
 # Week 2: 18th and 19th centuries
-
-## Mon 7/7: Dietary Expertise in the Enlightenment I
 The theme for next few days is how physicians beginning the 1700s started promoting dietary advice and their expertise in different ways than they did previously. We also see the early ties between dietary advice, moral authority, a common sense, a constellation of ideas we'll come back to repeatedly in very different historical contexts. 
 
+
+## Mon 7/7: Dietary Expertise in the Enlightenment I
 - Steven Shapin, "Trusting George Cheyne," 263--79. We're reading the whole article, but it's so long we're breaking up into two sections.
 
-Questions to keep in mind while reading: 
-- Why is "micromechanism" important in this article and for 18th-century physicians? 
+{% include alert.html class='danger' title='Reading Reflections' text="
+- Why is _micromechanism_ important in this article and for 18th-century physicians? 
 - How did was it invoked in medical practice? 
 - Are there any modern analogs to the micromechanistic approach?
+"%}
+
 
 
 
@@ -85,10 +91,7 @@ Questions to keep in mind while reading:
 - Was there any conflict with common sense? How did Cheyne appeal to morality in his letters with patients?
 
 {% include alert.html class='danger' title='Reading Reflections' text="
-- Group 1: [Response Reflection](reading-reflections#response-reflection) (remember these are due by the end of THURSDAY)
-- Group 2: [Standard Reflection](reading-reflections#standard-reflection)
-- Group 3: [Comparative Reflection](reading-reflections#comparative-reflection)
-- Group 4: [Prompt Reflection](reading-reflections#prompt-reflection)
+
 "%}
 
 
@@ -120,7 +123,7 @@ Over the next few days we look at how moral and dietary advice became even more 
 
 
 
-## Fri 7/11: Early vegetarianism
+## Fri 7/11: Healthy Living with Crackers
 
 - Adam D. Shprintzen, _The Vegetarian Crusade_, Chapter 1: Proto-vegetarianism, 10-27; 32-38. This chapter briefly describes some early religious sentiments supporting vegetarianism, but most importantly (and the main reason we're reading it), it introduces Sylvester Graham and his historical context.
 
@@ -161,8 +164,7 @@ What does this mean? Do you agree? How much are you convinced by her argument an
 - Charlotte Biltekoff, *Eating Right in America*, Chapter 2: Scientific Moralization, 13--44.
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-Today we get another look at food reformers in the early 20th century, particularly Ellen Richards, with an emphasis on the links between diet and morality. Describe the link between home economics, nutrition, and immigration. How and why did these come to intersect as according to Biltekoff (and Mudry)?
-
+Today we look at food reformers in the early 20th century, particularly Ellen Richards, with an emphasis on the links between diet and morality. Describe the link between home economics, nutrition, and immigration. How and why did these come to intersect as according to Biltekoff (and Mudry)?
 "%}
 
 
@@ -170,7 +172,7 @@ Today we get another look at food reformers in the early 20th century, particula
 ## Wed 7/16: The Birth of the Calorie
 
 {% include alert.html class='alert' title='Another Primary Source' text="
-Our goal with this text is to understand the tone of this work that was so often referenced in our readings this week. *Skim but don't totally skip* the science details. Think about:
+Our goal with this text is to understand the tone of this work that was so often referenced in our readings this week. *Skim but don't totally skip* the science details. 
   - How does article reflect larger scientific currents?
   - What’s the point of all the science detail?
   - How/why does metaphor play such a prominent role in his explanations?
@@ -190,8 +192,6 @@ Our goal with this text is to understand the tone of this work that was so often
 These two days we focus on a few diet books written between 1918 and 1922. They are all COMPLETELY different in their approach, style, and the way their authors try to establish their expertise. 
 
 Our goal is to understand how the same cultural context could yield such different texts and how they collectively illustrate several important facets of the history of diet/health/nutrition around the time they were written. 
-
-If you haven't seen them, check out the [Week 5 REview lecture](https://youtu.be/YrfECboBHpw)  and the [Week 6 PREview lecture](https://youtu.be/J29KZxNn3eA). (SLO focus: 4,5)
 
 For each text, I've indicated specific pages you should read fairly carefully. IN ADDITION, carefully examine the table of contents and randomly sample pages or small sections throughout the book to get a feel for the text as a whole---like what is and what isn't addressed in the text. 
 
@@ -218,7 +218,7 @@ Consider how these texts fit into the course narrative so far.
 
 
 # Week 4: The fat and malnourished body
-Fat gets a bad rap. Why is this? We've looked at the morality of dietary advice in several ways already, and one aspect that has persisted is the idea that a large body represents a moral deficiency. This week examines how the idea of fat and fat bodies became something to avoid during the early 20th century and how the legacy of vitamins and micronutrients came to define "proper" nourishment and bodily. Check out the [PREview video](https://youtu.be/O2knZDgyN5Q) (SLO focus: 3,4,5)
+Fat gets a bad rap. Why is this? We've looked at the morality of dietary advice in several ways already, and one aspect that has persisted is the idea that a large body represents a moral deficiency. This week examines how the idea of fat and fat bodies became something to avoid during the early 20th century and how the legacy of vitamins and micronutrients came to define "proper" nourishment and bodily. 
 
 
 ## Mon 7/21
@@ -239,7 +239,6 @@ A. F. La Berge, “How the Ideology of Low Fat Conquered America,” _Journal of
 ## Wed 7/23
 - David Berreby, [The Obesity Era](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong), *Aeon* (June 2013).
 
-Here are some [BIG POINTS](https://youtu.be/joTMK0Gy7x4) to take away. (SLO focus: 1,3,4)
 
 ## Thu 7/24
 Dietary villains day or two

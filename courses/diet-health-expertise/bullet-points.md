@@ -7,8 +7,7 @@ number: HIST 410
 section: links-guides
 ---
 
-
-Note that you're doing a new kind of assignment for the M and W readings featuring (exclusively!) bullet points. Bullet points do not mean cryptic half-sentences. They should be complete, well-formed ideas, even a couple of sentences. There is no pressure or expectation to be SHORT with bullet points. Instead, they should be coherent, sophisticated, and demonstrate your mastery of the reading.
+Note that you're doing a new kind of assignment featuring (exclusively!) bullet points. Bullet points do NOT mean cryptic half-sentences. They should be complete, well-formed ideas, even a couple of sentences. There is no pressure or expectation to be SHORT with bullet points. Instead, they should be coherent, sophisticated, and demonstrate your mastery of the reading.
 
 #### bad example
 - importance of thin bodies
