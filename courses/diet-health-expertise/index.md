@@ -57,22 +57,22 @@ We use a tool called [Zotero](http://zotero.org) to organize and provide access 
 
 
 ## Course workflow
-- Most weeks (and some sub-week units) have a short overview video for each week that highlight a few "big points" that I hope you'll keep in mind as you make your way through the readings. **These are important to mention in your reading reflections.**
+- Most weeks (and some sub-week units) have a short overview video that highlight a few "big points" that I hope you'll keep in mind as you make your way through the readings. **These are important to mention in your reading reflections.**
 
-- Some days (or set of days) have their own short "big points" video to call attention to big picture ideas that might get lost in the details of the readings.
+- Some days (or set of days) have their own short "big points" video to call attention to big picture ideas that might get lost in the details of the readings. **These are important to mention in your reading reflections.**
 
 - Most days you'll have something to read or watch, and you'll need to show me you did that via some type of quiz or other kind of short essay assignment.
 
-  - [Reading reflections](reading-reflections) are _very_ short essays that usually have a constellation of questions to reflect on and address. Sometimes they are entirely freeform. There are a couple different flavors just to mix things up a bit, but  the spirit behind the assignment is always the same. **Show me you're trying to understand the reading and how it fits in the course**. There is never a right answer, but some answers are better informed that others. I'm looking for a legit effort.
+  - [Reading reflections](reading-reflections) are _very_ short essays that encourage you to reflect on the readings in a particular way. They usually have a constellation of questions to reflect on and address. Sometimes they are entirely freeform, and you can write whatever you want. There are a couple different flavors of reflections just to mix things up a bit, but the spirit behind the assignment is always the same. **Show me you're trying to understand the reading and how it fits in the course**. There is never a right answer, but some answers are better informed that others. I'm looking for legit effort.
 
-  - Quizzes are generally straightforward. I try to make the quizzes impossible if you haven't done the work and easy if you have. Many questions are deliberately misleading to better evaluate your grasp of the course material. My hope is that if you just try to guess the answer, you'll get about 50%. There are almost always short answer questions on quizzes that allow you to "show what you know" for extra points.
+  - Quizzes are generally straightforward. I try to make the quizzes easy if you've done the work and impossible if you're just bluffing your way through them. My hope is that if you just try to guess the answer, you'll get about 50%, but at least 90% otherwise. There are almost always short answer questions on quizzes that allow you to "show what you know" for extra points. There is often extra credit on the quizzes, too.
 
-{% include alert.html class='alert' title='Familiarity over mastery' text="
-The readings can be dense and sometimes it's hard to discern the big picture. That's part of what we're getting better at in this course! And sometimes they can just be hard to understand. So, in trying to evaluate your engagement with them, I'm always looking for familiarity over mastery. Knowing what's in the readings and what they are trying to do, is FAR more important than feeling like you completely get it. So, I try to make reflection prompts and quizzes focus on gauging your familiarity with what's going on. Please don't feel frustrated that everything isn't crystal clear the first time through!
+{% include alert.html class='info' title='Familiarity over mastery' text="
+The readings can be dense and sometimes it's hard to discern the forest for the trees. (Of course that's one of the skills you're developing in this course!) And sometimes they can just be hard to understand. So, in trying to evaluate your engagement with them, I'm always looking for **familiarity over mastery**. Knowing what's in the readings and what they are trying to do, is FAR more important than feeling like you completely get it. So, I try to make reflection prompts and quizzes focus on gauging your familiarity with what's going on in general.
 "%}
 
 
-- All assignments are DUE BY MIDNIGHT on the day they are listed on the syllabus (unless otherwise stated).
+- All assignments are DUE BY MIDNIGHT on the day they are listed on the syllabus (unless otherwise stated). Honestly, turning them in an hour late (if you're a night owl) doesn't matter.
 
 - You have TWO DAYS after the due date to turn in the assignment, although there is a small late penalty each day. I don't want to sound too strict, but I've found that having no deadlines encourages well-meaning students (who want to turn in their best work) to get into a deep hole of missing work, and the course simply moves too fast to recover.
 

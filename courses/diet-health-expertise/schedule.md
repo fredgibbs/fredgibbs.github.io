@@ -31,10 +31,11 @@ This chapter discusses the quantificaiton of dietary advice and the implications
 Her focus is on the language of quantification, but it can help us think about HOW WE TALK ABOUT HEALTH AND DIET. I want to set up this drame of analysis so we can be thinking about rhetoric of diet and health as we move through the course (even if the first few weeks don't have anything about quantification). 
 
 
-{% include alert.html class='warning' title='Reading reflection' text="
+{% include alert.html class='danger' title='Reading reflection' text='
 - What is significance of discourse / language of quantification?
 - Would you agree with Her argument that the langauge of quantification to proscribe a "healthy" diet is a failure?
-- In terms of dietary advice specifically, what are the pros and cons of quantification?"%}
+- In terms of dietary advice specifically, what are the pros and cons of quantification?'
+%}
 
 
 ## Wed 7/2: Classical Diet
@@ -44,7 +45,7 @@ Today we cover medical and dietary thinking from ancient Greece and Rome. Some o
 - Mark Grant, _Galen: On Food and Diet_, 1-8. These few pages provide a general introduction to the classical physician Galen (died circa 215 CE) and ancient medicine. The author of the introduction (Grant) has translated many of Galen's writing about food, and we'll read an excerpt from those as noted below.
 - Galen, (tr. Mark Grant), _On the Humors_, 14-18; _On the Power of Foods_, 68-84. This was written by Galen himself (not Grant).Note that there is WAY MORE DETAIL about foods in here than you need to know. **Read for the big picture** in terms of how Galen establishes his expertise, what topics are most interesting to him, how he thinks about the relationship between diet and health. 
 
-{% include alert.html class='warning' title='Reading reflection' text="
+{% include alert.html class='danger' title='Reading reflection' text="
 - How did physicians like Galen conceive the notion of disease? 
 - Using examples from Galen's text, show how diet fit into medical understandings of disease.
 - Why would Galen think it was important to describe foods the way he did?
@@ -71,31 +72,25 @@ We explore the contours of medieval medicine, providing important context for un
 The theme for next few days is how physicians beginning the 1700s started promoting dietary advice and their expertise in different ways than they did previously. We also see the early ties between dietary advice, moral authority, a common sense, a constellation of ideas we'll come back to repeatedly in very different historical contexts. 
 
 
-## Mon 7/7: Dietary Expertise in the Enlightenment I
-- Steven Shapin, "Trusting George Cheyne," 263--79. We're reading the whole article, but it's so long we're breaking up into two sections.
+## Mon 7/7: Dietary Expertise in the Enlightenment
+- Steven Shapin, "Trusting George Cheyne," 263--97. This article is clear and informative, but way longer than it needs with too much dtail. (yay academics writing!) So, let's use AI to help us focus. And help us learn how to use AI. Take the PDF from Zotero and upload it into some AI tool (chatGPT, for instance, but it doesn't matter which one), ask for a summary of the article. 
+
+You'll fine it's not horrible. But it's still REALLY reductive (meaning it misses a lot). Your job is to skim the article for yourself to compare the impression you get from the actual text (even if skimming) compared to the AI summary. For your reflection, please address some general AI-summary questions as well as the more specific content questions.
+
 
 {% include alert.html class='danger' title='Reading Reflections' text="
+- What are the key ideas about medical practice in general that it leaves out?
+- When skimming for yourself, what little bits of information did you think were interesting that didn't appear in the summary?
+- How would you describe the larger narrative arc of the article that inevitably gets lots in an AI summary?
 - Why is _micromechanism_ important in this article and for 18th-century physicians? 
-- How did was it invoked in medical practice? 
-- Are there any modern analogs to the micromechanistic approach?
+- Was Cheyne's advice in conflict with common sense as discussed in the early part of the article? 
+- How did Cheyne appeal to morality in his letters with patients?
 "%}
 
 
 
+## Tue 7/8: Cheyne himself
 
-## Tue 7/8: Dietary Expertise in the Enlightenment II
-- Steven Shapin, "Trusting George Cheyne," 279--97.
-
-Questions to keep in mind while reading: 
-- What kinds of advice did his patients get in their personal correspondence? 
-- Was there any conflict with common sense? How did Cheyne appeal to morality in his letters with patients?
-
-{% include alert.html class='danger' title='Reading Reflections' text="
-
-"%}
-
-
-## Wed 7/9: Cheyne himself
 {% include alert.html class='info' title='A note on primary sources' text="
 After taking even a single upper-level history course, you should have a sense of what historians actually do. Today tries to show that working with historical sources is difficult! Like in any profession, good historians make the stories seem like they naturally emerge from historical sources. But when you go back at look at the original material---as we're doing today---you immediately understand how much work and INTERPRETATION goes into even the most straightforward history. Nothing at all is truly obvious. **There are no stories waiting to be told.**
 "%}
@@ -111,7 +106,7 @@ After taking even a single upper-level history course, you should have a sense o
 "%}
 
 
-## Thu 7/10: Natural and Moral Diets of the 1800s
+## Wed 7/9: Natural and Moral Diets of the 1800s
 The dietary advice we just read was directed primarily toward the upper classes. By the early 1800s, however, dietary advice was increasingly directed at the emerging middle class. Physicians and moral reformers saw diets changing as a result of industrialization and urbanization as a distinct societal ill. 
 
 Over the next few days we look at how moral and dietary advice became even more tightly coupled throughout the 1800s. Later in the course, we'll see how that link has persisted into the present day. 
@@ -123,16 +118,23 @@ Over the next few days we look at how moral and dietary advice became even more 
 
 
 
-## Fri 7/11: Healthy Living with Crackers
+## Thu 7/10: Healthy Living with Crackers
 
 - Adam D. Shprintzen, _The Vegetarian Crusade_, Chapter 1: Proto-vegetarianism, skim 10--mid 16; 16-27; 32-38. This chapter briefly describes some early religious sentiments supporting vegetarianism, and most importantly introduces Sylvester Graham and his historical context. Focus on Graham, not the Biblical Christians, but understand their general influence.
 
-
-Questions to keep in mind while reading: 
+{% include alert.html class='danger' title='Reading reflection' text="
 - How did Graham establish his authority as a dietary reformer? 
 - How was cholera related to his success and thinking about diet? 
 - How was Graham's argument for a meat-free diet different from the Bible Christians discussed early in the chapter?
+"%}
 
+
+
+## Fri 7/11: Graham himself
+
+{% include alert.html class='info' title='Primary source' text="
+Same kind of drill as with Cheyne, except a century later and a VERY different kind of diet text to consider.
+"%}
 
 - Sylvester Graham, [A Defence of the Graham System of Living: Or, Remarks on Diet and Regimen. Dedicated to the Rising Generation](https://books.google.com/books?id=ODRlD83ww9IC), 7--15; 88--89; 95--104.
 - Sylvester Graham, [Lectures on the Science of Human Life](https://books.google.com/books?id=uBUDAAAAQAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), preface (i-vii), and skim Table of Contents that follows. What topics stand out to you? What were you expecting to see? How is it different from what you expected?
