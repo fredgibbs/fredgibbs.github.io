@@ -18,31 +18,37 @@ Welcome! Today we're just getting up to speed with course logistics. There are a
 
 
 {% include alert.html class='danger' title='Introductory stuff to do' text="
-- Take the Syllabus Quiz. The point is to confirm and highlight key aspects of the course to avoid confusion later. 
-- Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post a brief introduction to who you are and some opinion about diet and health that you've changed your mind about---we all have many! These should be substantive but not long, ~150 words or so.
+- Take the Syllabus (and a little on the firt reading) Quiz. The point is to confirm and highlight important logistics of the course to avoid problems later. 
+- We don't do a lot of discussion boarding, but we do a little today. Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post a brief introduction to who you are and some opinion about diet and health that you've changed your mind about---we all have many! These should be substantive but not long, ~150 words or so.
 "%}
 
 
 ## Tue 7/1: Understanding Nutrition
-- Jessica J. Mudry, *Measured Meals. Nutrition in America*, 1-19 (Introduction: Eating by Numbers).
+- Jessica J. Mudry, *Measured Meals. Nutrition in America*, 1-19 (Introduction: Eating by Numbers). 
+
+This chapter discusses the quantificaiton of dietary advice and the implications of such a change, which we dive into in week 3. The reason we start with it is because she calls direct attention to "the rhetoric of science". Her point is talking about diet is never just about the "facts"---if there even is such a thing (and there isn't)---but also about **how they are discussed**. Language itself is not just a reporter of knowedlge, but a direct shaper of it. 
+
+Her focus is on the language of quantification, but it can help us think about HOW WE TALK ABOUT HEALTH AND DIET. I want to set up this drame of analysis so we can be thinking about rhetoric of diet and health as we move through the course (even if the first few weeks don't have anything about quantification). 
+
 
 {% include alert.html class='warning' title='Reading reflection' text="
-
-"%}
+- What is significance of discourse / language of quantification?
+- Would you agree with Her argument that the langauge of quantification to proscribe a "healthy" diet is a failure?
+- In terms of dietary advice specifically, what are the pros and cons of quantification?"%}
 
 
 ## Wed 7/2: Classical Diet
 Today we cover medical and dietary thinking from ancient Greece and Rome. Some of the medical thinking seems a bit bizarre to our modern sensibilities, but in terms of dietary advice, there is a remarkable consistency over the last 2000 years. 
 
 - Classical Medicine video (link TDP)
-- Mark Grant, _Galen: On Food and Diet_, 1-8. These few pages provide a general introduction to the classical physician Galen (died circa 215 CE) and ancient medicine. The author of the introduction has translated many of Galen's writing about food, and we'll read an excerpt from those as noted below.
-- Galen, (tr. Mark Grant), _On the Humors_, 14-18; _On the Power of Foods_, 68-84. Note that there is WAY MORE DETAIL about foods in here than you need to know. **Read for the big picture** in terms of how Galen establishes his expertise, what topics are most interesting to him, how he thinks about the relationship between diet and health. 
+- Mark Grant, _Galen: On Food and Diet_, 1-8. These few pages provide a general introduction to the classical physician Galen (died circa 215 CE) and ancient medicine. The author of the introduction (Grant) has translated many of Galen's writing about food, and we'll read an excerpt from those as noted below.
+- Galen, (tr. Mark Grant), _On the Humors_, 14-18; _On the Power of Foods_, 68-84. This was written by Galen himself (not Grant).Note that there is WAY MORE DETAIL about foods in here than you need to know. **Read for the big picture** in terms of how Galen establishes his expertise, what topics are most interesting to him, how he thinks about the relationship between diet and health. 
 
 {% include alert.html class='warning' title='Reading reflection' text="
 - How did physicians like Galen conceive the notion of disease? 
 - Using examples from Galen's text, show how diet fit into medical understandings of disease.
-- Why was it important to describe foods the way he did?
-- How does Galen establish his expertise in this text? 
+- Why would Galen think it was important to describe foods the way he did?
+- How does Galen try to establish his expertise in this text? 
 "%}
 
 
@@ -119,7 +125,8 @@ Over the next few days we look at how moral and dietary advice became even more 
 
 ## Fri 7/11: Healthy Living with Crackers
 
-- Adam D. Shprintzen, _The Vegetarian Crusade_, Chapter 1: Proto-vegetarianism, 10-27; 32-38. This chapter briefly describes some early religious sentiments supporting vegetarianism, but most importantly (and the main reason we're reading it), it introduces Sylvester Graham and his historical context.
+- Adam D. Shprintzen, _The Vegetarian Crusade_, Chapter 1: Proto-vegetarianism, skim 10--mid 16; 16-27; 32-38. This chapter briefly describes some early religious sentiments supporting vegetarianism, and most importantly introduces Sylvester Graham and his historical context. Focus on Graham, not the Biblical Christians, but understand their general influence.
+
 
 Questions to keep in mind while reading: 
 - How did Graham establish his authority as a dietary reformer? 
@@ -148,7 +155,7 @@ There has been no bigger shift in dietary advice than starting to understand hea
 {% include alert.html class='danger' title='Reading Reflection' text='
 On p.64 Mudry concludes that "after the development of the science of nutrition, moral terms like “good” and “bad” became enumerated and objectified in discussions of food."
 
-What does this mean? Do you agree? How much are you convinced by her argument and evidence? I\'m asking for your opinion here, but it should be carefully and clearly informed by the reading, and put in the context of course material.
+What does this mean? Do you agree? How much are you convinced by her argument and evidence? I\'m asking for your opinion here, but it should be carefully and clearly informed by the reading, and put in the context of other course readings.
 '%}
 
 

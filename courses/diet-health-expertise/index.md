@@ -10,16 +10,14 @@ section: home
 # HIST 410: History of Diet and Health
 
 ## Logistics
-- HIST 410-001
+- HIST 410-002
 - 3 Credit Hours
 - Remote asynchronous (all online; no set meeting times)
 - Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
 
 
 ## Course Description
-If someone tells you how to be healthy or what you should or shouldn’t eat, do you believe them? Why or why not? How do dietary "experts" establish their expertise? What makes some people/arguments more convincing than others? Is any dietary advice ever truly "right"? What happens during the process of translating nutrition and diet research into everyday action? How have ideas about healthy diets and healthy bodies changed over time?
-
-This course uses the long history of diet and health to investigate the relationship between popular understandings of health and the idea of expertise.
+If someone tells you how to be healthy or what you should or shouldn’t eat, do you believe them? Why or why not? How do dietary "experts" establish their expertise? What makes some people/arguments more convincing than others? Is any dietary advice ever truly "right"? What happens during the process of translating nutrition and diet research into everyday action? How have ideas about healthy diets and healthy bodies changed over time? This course uses the long history of diet and health to investigate the relationship between popular understandings of health and the idea of expertise.
 
 
 ## Student Learning Outcomes
@@ -38,43 +36,51 @@ I will do everything I can do help you learn as much as you're motivated to lear
 
 - All assignments will be submitted and graded via [Canvas](http://canvas.unm.edu). 
 
-- All course videos are available on YouTube. Links to videos will be posted on the syllabus, and you can also subscribe to or bookmark the course [YouTube Channel](https://www.youtube.com/channel/UCt6_7arYzi4TcIIwo7TLURw) for quick access.
+- All course videos are available on YouTube, and links to videos will be posted on the syllabus. I don't send out notifications about videos, but if you want them you can subscribe to the course [YouTube Channel](https://www.youtube.com/channel/UCt6_7arYzi4TcIIwo7TLURw).
 
 
 ### Required Texts
-There are NO REQUIRED BOOKS OR READERS for the course; everything is accessible online. LITERALLY EVERYTHING you need for the course is either already available online (and linked to on the syllabus), or is a PDF in our Zotero library as described below. **You never need to find anything on your own.**
+There are NO REQUIRED BOOKS OR READERS for the course; everything is accessible online. LITERALLY EVERYTHING you need for the course is either already available online (and linked to on the syllabus), or is a PDF in our Zotero library as described below. **You never need to find anything on your own!**
 
 
 ### Course Readings
-We use a tool called [Zotero](http://zotero.org) to organize and provide access to all readings for the course. FIRST, to get connected, see the [getting started guide](http://fredgibbs.net/courses/guides/zotero).
+We use a tool called [Zotero](http://zotero.org) to organize and provide access to all readings for the course. To get connected, carefully follow the [getting started guide](http://fredgibbs.net/courses/guides/zotero). If it doesn't work for you, follow the directions more carefully. They work. 
 
 {% include alert.html class='info' title='Zotero links' text="
-- Group Library Name: `diet-health-expertise-unm` (in case you need to look it up on zotero.org)
-- Group Library Home: [https://www.zotero.org/groups/642043/diet-health-expertise-unm](https://www.zotero.org/groups/642043/diet-health-expertise-unm). This is where you can request access. 
-- Group Library Items: [https://www.zotero.org/groups/642043/diet-health-expertise-unm/library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library). This is where you can see/get the readings.
+- Group Library Name: `diet-health-expertise-unm` (in case you try to look it up on zotero.org, but you shouldn't need to.)
+- Group Library Home: [https://www.zotero.org/groups/642043/diet-health-expertise-unm](https://www.zotero.org/groups/642043/diet-health-expertise-unm). Once you've created and account, this is where you go to request to join the library.
+- Group Library Items: [https://www.zotero.org/groups/642043/diet-health-expertise-unm/library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library). Once I've approved your request, this is where you can see/get the readings.
 
-### Remember that you can only see the group library if you have joined it!
+### Remember that you can only access the PDFs in the library if you are a member of the course group!
 "%}
 
 
 
 ## Course workflow
-- Most weeks or units have short overview video for each week that highlight a few "big points" that I hope you'll keep in mind as you make your way through the readings. These are important to mention in your reading reflections.
+- Most weeks (and some sub-week units) have a short overview video for each week that highlight a few "big points" that I hope you'll keep in mind as you make your way through the readings. **These are important to mention in your reading reflections.**
 
-- Some days (or set of days) have their own "big points" video (these are really short!) to call attention to big picture ideas that might get lost in the details of the readings.
+- Some days (or set of days) have their own short "big points" video to call attention to big picture ideas that might get lost in the details of the readings.
 
-- Most days you'll have something to read or watch, and you'll need to show me you did that via some type of quiz oror other kind of short essay assignment.
+- Most days you'll have something to read or watch, and you'll need to show me you did that via some type of quiz or other kind of short essay assignment.
 
-  - [Reading reflections](reading-reflections) are _very_ short essays that usually have a specific prompt or set of questions to reflect on. Sometimes they are entirely freeform. There is never a right answer, but some answers are better informed that others. I'm looking for a legit effort to understand the reading and **how it fits into the course**. 
+  - [Reading reflections](reading-reflections) are _very_ short essays that usually have a constellation of questions to reflect on and address. Sometimes they are entirely freeform. There are a couple different flavors just to mix things up a bit, but  the spirit behind the assignment is always the same. **Show me you're trying to understand the reading and how it fits in the course**. There is never a right answer, but some answers are better informed that others. I'm looking for a legit effort.
 
   - Quizzes are generally straightforward. I try to make the quizzes impossible if you haven't done the work and easy if you have. Many questions are deliberately misleading to better evaluate your grasp of the course material. My hope is that if you just try to guess the answer, you'll get about 50%. There are almost always short answer questions on quizzes that allow you to "show what you know" for extra points.
 
+{% include alert.html class='alert' title='Familiarity over mastery' text="
+The readings can be dense and sometimes it's hard to discern the big picture. That's part of what we're getting better at in this course! And sometimes they can just be hard to understand. So, in trying to evaluate your engagement with them, I'm always looking for familiarity over mastery. Knowing what's in the readings and what they are trying to do, is FAR more important than feeling like you completely get it. So, I try to make reflection prompts and quizzes focus on gauging your familiarity with what's going on. Please don't feel frustrated that everything isn't crystal clear the first time through!
+"%}
+
+
 - All assignments are DUE BY MIDNIGHT on the day they are listed on the syllabus (unless otherwise stated).
 
+- You have TWO DAYS after the due date to turn in the assignment, although there is a small late penalty each day. I don't want to sound too strict, but I've found that having no deadlines encourages well-meaning students (who want to turn in their best work) to get into a deep hole of missing work, and the course simply moves too fast to recover.
 
 ## Assignments and Grading
-The little equations after the assignment type indicates `number of assignments` x `points for each` = `total points`
-This is probably going to be tweaked a bit as the class gets going, but the general idea won't change and it will only get easier to get higher grades.
+The little equations after the assignment type indicates `number of assignments` x `points for each` = `total points`. Total points really don't matter since grades are based on a simple percentage, but this shows the relative weight of each _kind_ of assignment. 
+
+Depending on how the course unfolds, the final number of points will change slightly. But the percent grading scale will remain  the same (unless it gets _easier_ to get a higher grade). 
+
 - Occasional reading/lecture quizzes (~5 x ~15 = ~75)
 - [Reading reflections](reading-reflections)(~12 x 10 = ~120)
 - [Diet analysis](healthy-diet-analysis) (1 x 20 = 20) 
@@ -82,7 +88,6 @@ This is probably going to be tweaked a bit as the class gets going, but the gene
 
 
 ### Grade Distribution
-Depending on how the course unfolds, the final number of points may ( = will almost certainly) change slightly. But the percent grading scale will remain basically the same (it can only become _easier_ to get a higher grade). 
 
 **Note that the whole scale is a little "easier" than the "standard" grading scale.** This is because some quiz questions might be too vague or unclear or whatever, or a reading reflection gets a bit misunderstood or doesn't convey what you intend. So rather than waste time nitpicking points here and there (which some of you would do), I just give them all to everyone right away. 
 
@@ -113,8 +118,8 @@ Percent | Grade
 
 ## AI Policy & Academic Integrity
 - AI is awesome! You should feel free to experiment with it as a tool for helping you in the course.
-- You must use it in accordance with UNM's academic integrity policy: you cannot submit AI-generated work as your own! 
-- All work you turn in must draw exclusively from course material (and the narrative presented here), which AI will not do. This makes it easy to spot inappropriate use of AI! 
+- You must use it in accordance with UNM's academic integrity policy, meaning you cannot submit AI-generated work as your own! 
+- All your work must draw exclusively from course material (and the narrative presented here), which AI will not do. This makes it easy to spot inappropriate use of AI! 
 
 You should be familiar with [UNM’s Policy on Academic Dishonesty and the Student Code of Conduct](http://pathfinder.unm.edu/policies.htm#studentcode) which outline academic misconduct defined as plagiarism, cheating, fabrication, or facilitating any such act.
 
