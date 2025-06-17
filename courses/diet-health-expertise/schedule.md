@@ -56,11 +56,11 @@ Today we cover medical and dietary thinking from ancient Greece and Rome. Some o
 ## Thu 7/3: Medieval Medicine Premodern diet
 We explore the contours of medieval medicine, providing important context for understanding the long history of diet and health advice. While this course focuses on the 19th and 20th centuries, it's crucial to recognize that physicians have been debating what constitutes healthy food and good nutrition for a very long time. This week's lectures establish the foundation of the Western medical tradition as it pertains to diet, and helps us understand the close coupling between diet and culture.
 
-- [Visualizing Medieval Medicine](link TBP)
-- Ken Albala, _Eating Right in the Renaissance_, 63--77; 78--84; 91--104.
+- [Visualizing Premodern Medicine](link TBP)
+- SKIM: Ken Albala, _Eating Right in the Renaissance_, 63--77; 78--84; 91--104.
 
 {% include alert.html class='danger' title='Lecture Quiz' text="
-- Be sure to complete the quiz (see Quizzes link on left nav of Canvas), which covers BOTH the medieval medicine video and early modern diet reading.
+- Be sure to complete the quiz (see Quizzes link on left nav of Canvas), which covers BOTH the medieval medicine video and a few broad questions about the early modern diet reading that you should be able to answer by skimming.
 - This quiz is due by the END OF TOMORROW, since we don't have anything new b/c of the holiday.
 "%}
 
@@ -73,15 +73,17 @@ The theme for next few days is how physicians beginning the 1700s started promot
 
 
 ## Mon 7/7: Dietary Expertise in the Enlightenment
-- Steven Shapin, "Trusting George Cheyne," 263--97. This article is clear and informative, but way longer than it needs with too much dtail. (yay academics writing!) So, let's use AI to help us focus. And help us learn how to use AI. Take the PDF from Zotero and upload it into some AI tool (chatGPT, for instance, but it doesn't matter which one), ask for a summary of the article. 
+- Steven Shapin, "Trusting George Cheyne," 263--97. This article is clear and informative, but way longer than it needs with too much detail. (yay academic writing!) So, let's use AI to help us sort it out. And help us learn how to use AI. Take the PDF from Zotero and upload it into some AI tool (chatGPT, for instance, but it doesn't matter which one), and ask for a summary of the article. 
 
-You'll fine it's not horrible. But it's still REALLY reductive (meaning it misses a lot). Your job is to skim the article for yourself to compare the impression you get from the actual text (even if skimming) compared to the AI summary. For your reflection, please address some general AI-summary questions as well as the more specific content questions.
+You'll find it's actually not bad. But it's still REALLY reductive (meaning it misses a lot). Your job is to skim the Shapin article for yourself and compare the impression you get from the actual text (even if skimming) compared to the AI summary. 
 
 
 {% include alert.html class='danger' title='Reading Reflections' text="
-- What are the key ideas about medical practice in general that it leaves out?
+#### Make sure you're giving SPECIFIC examples!
+
+- What are the key ideas about medical practice in general that the AI summary leaves out?
 - When skimming for yourself, what little bits of information did you think were interesting that didn't appear in the summary?
-- How would you describe the larger narrative arc of the article that inevitably gets lots in an AI summary?
+- How would you describe the larger narrative arc of the article that inevitably gets lost in an AI summary?
 - Why is _micromechanism_ important in this article and for 18th-century physicians? 
 - Was Cheyne's advice in conflict with common sense as discussed in the early part of the article? 
 - How did Cheyne appeal to morality in his letters with patients?
@@ -90,7 +92,6 @@ You'll fine it's not horrible. But it's still REALLY reductive (meaning it misse
 
 
 ## Tue 7/8: Cheyne himself
-
 {% include alert.html class='info' title='A note on primary sources' text="
 After taking even a single upper-level history course, you should have a sense of what historians actually do. Today tries to show that working with historical sources is difficult! Like in any profession, good historians make the stories seem like they naturally emerge from historical sources. But when you go back at look at the original material---as we're doing today---you immediately understand how much work and INTERPRETATION goes into even the most straightforward history. Nothing at all is truly obvious. **There are no stories waiting to be told.**
 "%}
@@ -111,10 +112,18 @@ The dietary advice we just read was directed primarily toward the upper classes.
 
 Over the next few days we look at how moral and dietary advice became even more tightly coupled throughout the 1800s. Later in the course, we'll see how that link has persisted into the present day. 
 
-- William Buchan, [_Domestic Medicine_](https://books.google.com/books?id=Z7VbAAAAcAAJ) (1812).
 - John Frank Newton, _[The Return to Nature](https://books.google.com/books?id=8dwhAQAAMAAJ): Or, A Defence of the Vegetable Regimen; with Some Account of an Experiment Made during the Last Three or Four Years in the Author’s Family_ (1811)
-- John Ayrton Paris, _[A Treatise on Diet](https://books.google.com/books?id=xylFAAAAcAAJ) with a View to Establish ...: A System of Rules for the Prevention and Cure of Diseases Incident to a Disordered State of the Digestive Functions_ (1829).
+- John Tweed _[Popular Observations on Regimen and Diet](https://www.google.com/books/edition/Popular_Observations_on_Regimen_and_Diet/N47GABoEaMgC?hl=en&gbpv=1)_ (1820).
 - Charles Turner Thackrah, _[Lectures on Digestion and Diet](https://books.google.com/books?id=t9cGAAAAQAAJ)_ (1824).
+- John Ayrton Paris, _[A Treatise on Diet](https://books.google.com/books?id=xylFAAAAcAAJ) with a View to Establish ...: A System of Rules for the Prevention and Cure of Diseases Incident to a Disordered State of the Digestive Functions_ (1829).
+- William Henry Robertson, _[A popular treatise on diet and regimen](https://www.google.com/books/edition/A_popular_treatise_on_diet_and_regimen/fyKfI2pAbrUC?hl=en)_ (1835).
+
+{% include alert.html class='danger' title='Comparative reflection' text="
+- Compare and contrast Graham's advice for healthy living with that of Cheyne.
+- How is the rhetoric similar to and different from what we've seen in the course so far? 
+- How is it similar to and different from our own rhetoric about a healthy diet? 
+"%}
+
 
 
 
@@ -125,7 +134,7 @@ Over the next few days we look at how moral and dietary advice became even more 
 {% include alert.html class='danger' title='Reading reflection' text="
 - How did Graham establish his authority as a dietary reformer? 
 - How was cholera related to his success and thinking about diet? 
-- How was Graham's argument for a meat-free diet different from the Bible Christians discussed early in the chapter?
+- How was Graham's argument for a meat-free diet different from the Biblical Christians discussed early in the chapter?
 "%}
 
 
