@@ -256,10 +256,14 @@ A. F. La Berge, “How the Ideology of Low Fat Conquered America,” _Journal of
 ## Wed 7/23
 - David Berreby, [The Obesity Era](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong), *Aeon* (June 2013).
 
+{% include alert.html class='danger' title='Reading reflection' text="
+Let's be clear: this article DOES NOT try to argue that personal choice is not a cause of obesity. But it does try to suggest other reasons that also matter. How does this course help explain WHY the author wrote this? According to the author, how should \"science\" be used to help understand obesity? 
+"%}
+
+
 
 ## Thu 7/24
-Dietary villains day or two
-gluten, lectins, fodmops, 
+Dietary villains: gluten, lectins, fodmops
 
 
 ## Fri 7/25
