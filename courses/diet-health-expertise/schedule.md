@@ -110,7 +110,7 @@ After taking even a single upper-level history course, you should have a sense o
 ## Wed 7/9: Natural and Moral Diets of the 1800s
 The dietary advice we just read was directed primarily toward the upper classes. By the early 1800s, however, dietary advice was increasingly directed at the emerging middle class. Physicians and moral reformers saw diets changing as a result of industrialization and urbanization as a distinct societal ill. 
 
-Over the next few days we look at how moral and dietary advice became even more tightly coupled throughout the 1800s. Later in the course, we'll see how that link has persisted into the present day. 
+Over the next few days we look at how moral and dietary advice became even more tightly coupled throughout the 1800s. Later in the course, we'll see how that link has persisted through today. 
 
 - John Frank Newton, _[The Return to Nature](https://books.google.com/books?id=8dwhAQAAMAAJ): Or, A Defence of the Vegetable Regimen; with Some Account of an Experiment Made during the Last Three or Four Years in the Author’s Family_ (1811)
 - John Tweed _[Popular Observations on Regimen and Diet](https://www.google.com/books/edition/Popular_Observations_on_Regimen_and_Diet/N47GABoEaMgC?hl=en&gbpv=1)_ (1820).
@@ -119,9 +119,13 @@ Over the next few days we look at how moral and dietary advice became even more 
 - William Henry Robertson, _[A popular treatise on diet and regimen](https://www.google.com/books/edition/A_popular_treatise_on_diet_and_regimen/fyKfI2pAbrUC?hl=en)_ (1835).
 
 {% include alert.html class='danger' title='Comparative reflection' text="
-- Compare and contrast Graham's advice for healthy living with that of Cheyne.
-- How is the rhetoric similar to and different from what we've seen in the course so far? 
-- How is it similar to and different from our own rhetoric about a healthy diet? 
+- Compare three texts from above in terms of similarities and differences. Guiding questions: 
+  - What is the health problem the authors describe? 
+  - What is their conception of disease?
+  - What kinds of arguments do they use to appeal to their audience?
+  - What kind of evidence to they provide?
+  - What can we learn about their society and cultural context from how they discuss diet?
+  - How is the text similar and different from other dietary texts we've read so far?
 "%}
 
 
@@ -183,7 +187,7 @@ Today we look at food reformers in the early 20th century, particularly Ellen Ri
 
 ## Wed 7/16: The Birth of the Calorie
 
-{% include alert.html class='alert' title='Another Primary Source' text="
+{% include alert.html class='info' title='Another Primary Source' text="
 Our goal with this text is to understand the tone of this work that was so often referenced in our readings this week. *Skim but don't totally skip* the science details. 
   - How does article reflect larger scientific currents?
   - What’s the point of all the science detail?
@@ -237,10 +241,11 @@ Fat gets a bad rap. Why is this? We've looked at the morality of dietary advice 
 - Helen Zoe Veit, *Modern Food, Moral Food*, Chapter 7: The Triumph of the Will: The Progressive Body and the Thin Ideal, 157--80.
 
 {% include alert.html class='danger' title='Reading Reflections' text="
-For this exercise, bullet points are 1-2 complete sentences that clearly express a complete idea, not cryptic phrases that no one but you can understand.
+For this exercise, bullet points are 1-3 complete sentences that clearly express a complete idea, not cryptic phrases that no one but you can understand. 
 
-- Write 5 bullet points that summarize what you think are the main points of the article. They might not be equally important; you might think your first one or two points are REALLY important and the others are less so. But I want you to come up with 5 points to highlight.
-- Write 5 bullet points that point out similarities and differences to other readings we've had in the course to this point. What kinds of things have we seen before? What are variations on a theme? What's really new?
+- Write 4 bullet points that summarize what you think are the main points of the article. They might not be equally important; you might think your first one or two points are REALLY important and the others are less so. But I want you to come up with 5 points to highlight.
+- Write 4 bullet points that point out similarities and differences to other readings we've had in the course to this point. What kinds of things have we seen before? What are variations on a theme? What's really new?
+- For each of your bullet points, briefly indicate your thinking behind it. 
 "%}
 
 
@@ -258,11 +263,18 @@ gluten, lectins, fodmops,
 
 
 ## Fri 7/25
-Not many people haven't been on some kind of diet. How can we really evaluate whether any diet could be useful? Is there a "right" diet that we just haven't found? Have we known it all along? 
+How can we really evaluate whether any diet could be useful? Is there a "right" diet that we just haven't found? Have we known it all along? 
 
-This chapter is about EVALUATING dietary advice and dietary CRITIQUE. As you know from the course SLOs, the course is all about learning to think critically about dietary advice, using history to gain a broad perspective on it. So now we turn our attention from evaluating the rhetoric of dietary advice to evaluating the rhetoric of dietary critique. Don't forget about the [BIG POINTS critique](https://youtu.be/Ewn7u87K9ts) for this week. (SLO focus: 1,4,5) Don't forget about the [BIG POINTS](https://youtu.be/ZEDx1Pd4lAY) for this week.
+This chapter is about EVALUATING dietary advice and dietary CRITIQUE. As you know from its overall goals, this course is all about learning to think critically about dietary advice and expertise in general, using history to gain a broader perspective. Today we turn our attention from evaluating the rhetoric of dietary advice to evaluating the rhetoric of dietary critique. 
 
-restore kim reading to critique lost opportunities; good to critique it as example, then they can do another one with prompt of: how could more historical perspective improve it?
+- Eddie Kim, [Their Diet? 100 Percent Meat. And They Say They've Never Felt Healthier](https://melmagazine.com/en-us/story/their-diet-100-percent-meat-and-they-say-theyve-never-felt-healthier), (_Mel Magazine_, 2019).
+
+
+{% include alert.html class='danger' title='Reading reflection' text="
+CRITIQUE (do NOT SUMMARIZE) the article for today: What does it do well? How does it disappoint? Describe how its use and effectiveness in using history. Can you tell what's missing (in general, not a specific topic)?
+
+TO REPEAT: Don't get sidetracked by analyzing or critiquing the diet that is the subject of the article. Whether a meat-only diet is a good idea (spoiler: no!) is not the point here. CRITIQUE THE ARTICLE, NOT THE DIET.
+"%}
 
 
 
