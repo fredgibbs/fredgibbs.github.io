@@ -32,6 +32,7 @@ Her focus is on the language of quantification, but it can help us think about H
 
 
 {% include alert.html class='danger' title='Reading reflection' text='
+- Be sure to review the [reading reflection guidelines](reading-reflections)
 - What is significance of discourse / language of quantification?
 - Would you agree with Her argument that the langauge of quantification to proscribe a "healthy" diet is a failure?
 - In terms of dietary advice specifically, what are the pros and cons of quantification?'
@@ -56,7 +57,7 @@ Today we cover medical and dietary thinking from ancient Greece and Rome. Some o
 ## Thu 7/3: Medieval Medicine Premodern diet
 We explore the contours of medieval medicine, providing important context for understanding the long history of diet and health advice. While this course focuses on the 19th and 20th centuries, it's crucial to recognize that physicians have been debating what constitutes healthy food and good nutrition for a very long time. This week's lectures establish the foundation of the Western medical tradition as it pertains to diet, and helps us understand the close coupling between diet and culture.
 
-- Visualizing Premodern Medicine link TBP
+- Visualizing Premodern Medicine (link TBP)
 - SKIM: Ken Albala, _Eating Right in the Renaissance_, 63--77; 78--84; 91--104.
 
 {% include alert.html class='danger' title='Lecture Quiz' text="
