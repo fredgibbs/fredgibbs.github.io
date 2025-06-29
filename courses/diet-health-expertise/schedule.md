@@ -41,7 +41,7 @@ Her focus is on the language of quantification, but it can help us think about H
 ## Wed 7/2: Classical Diet
 Today we cover medical and dietary thinking from ancient Greece and Rome. Some of the medical thinking seems a bit bizarre to our modern sensibilities, but in terms of dietary advice, there is a remarkable consistency over the last 2000 years. 
 
-- Classical Medicine video (link TDP)
+- [Classical medicine video](https://youtu.be/OEPWJAYnO6E)
 - Mark Grant, _Galen: On Food and Diet_, 1-8. These few pages provide a general introduction to the classical physician Galen (died circa 215 CE) and ancient medicine. The author of the introduction (Grant) has translated many of Galen's writing about food, and we'll read an excerpt from those as noted below.
 - Galen, (tr. Mark Grant), _On the Humors_, 14-18; _On the Power of Foods_, 68-84. This was written by Galen himself (not Grant).Note that there is WAY MORE DETAIL about foods in here than you need to know. **Read for the big picture** in terms of how Galen establishes his expertise, what topics are most interesting to him, how he thinks about the relationship between diet and health. 
 
