@@ -12,7 +12,7 @@ section: schedule
 ## Mon 6/30: Introductions, SLOs, Key Concepts
 Welcome! Today we're just getting up to speed with course logistics. There are a couple things to do just to make sure erverything is wired up for our month together. Please do them ASAP, but make sure these are done BEFORE WEDNESDAY. Normally stuff is due the day it appears on the syllabus, but we can take an extra day to get up to speed.
 
-- Course logistics video (link TBP = To Be Posted)
+- [Course overview video](https://youtu.be/N_4Gj2mKnDA)
 - First week overview (link TBP)
 - Yours truly, [A healthy dose of skepticism](https://nursingclio.org/2017/05/24/a-healthy-dose-of-skepticism/)
 
