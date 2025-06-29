@@ -13,7 +13,7 @@ section: schedule
 Welcome! Today we're just getting up to speed with course logistics. There are a couple things to do just to make sure erverything is wired up for our month together. Please do them ASAP, but make sure these are done BEFORE WEDNESDAY. Normally stuff is due the day it appears on the syllabus, but we can take an extra day to get up to speed.
 
 - [Course overview video](https://youtu.be/N_4Gj2mKnDA)
-- First week overview (link TBP)
+- [First week overview](https://youtu.be/jU_0BGbsW4Q)
 - Yours truly, [A healthy dose of skepticism](https://nursingclio.org/2017/05/24/a-healthy-dose-of-skepticism/)
 
 
@@ -56,7 +56,7 @@ Today we cover medical and dietary thinking from ancient Greece and Rome. Some o
 ## Thu 7/3: Medieval Medicine Premodern diet
 We explore the contours of medieval medicine, providing important context for understanding the long history of diet and health advice. While this course focuses on the 19th and 20th centuries, it's crucial to recognize that physicians have been debating what constitutes healthy food and good nutrition for a very long time. This week's lectures establish the foundation of the Western medical tradition as it pertains to diet, and helps us understand the close coupling between diet and culture.
 
-- [Visualizing Premodern Medicine](link TBP)
+- Visualizing Premodern Medicine link TBP
 - SKIM: Ken Albala, _Eating Right in the Renaissance_, 63--77; 78--84; 91--104.
 
 {% include alert.html class='danger' title='Lecture Quiz' text="
