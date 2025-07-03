@@ -14,7 +14,7 @@ This page summarizes course resource links that you will probably need repeatedl
 - [Canvas](http://canvas.unm.edu). All assignments will be submitted here; all quizzes are here, etc. The syllabus is NOT ON CANVAS. 
 
 ## Readings
-- We use [Zotero](http://zotero.org) to manage course readings. See the [Zotero guide](http://fredgibbs.net/courses/etc/zotero) for an overview of the tool, and instructions on how to join the course library.
+- We use [Zotero](http://zotero.org) to manage course readings. See the [Zotero guide](http://fredgibbs.net/courses/guides/zotero) for an overview of the tool, and instructions on how to join the course library.
 
 - [Zotero course library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library). Note that anyone can VIEW the course library, but you can only access the PDF scans if you're logged in and have joined the group library. If you can't see the PDFs, see the [Zotero guide](http://fredgibbs.net/courses/etc/zotero) for troubleshooting.
 
