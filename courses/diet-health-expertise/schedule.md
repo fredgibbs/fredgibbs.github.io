@@ -72,6 +72,8 @@ We explore the contours of medieval medicine, providing important context for un
 # Week 2: 18th and 19th centuries
 The theme for next few days is how physicians beginning the 1700s started promoting dietary advice and their expertise in different ways than they did previously. We also see the early ties between dietary advice, moral authority, a common sense, a constellation of ideas we'll come back to repeatedly in very different historical contexts. 
 
+- [Week 2 Overview](https://youtu.be/AabeM83A8_4)
+
 
 ## Mon 7/7: Dietary Expertise in the Enlightenment
 - Steven Shapin, "Trusting George Cheyne," 263--97. This article is clear and informative, but way longer than it needs with too much detail. (yay academic writing!) So, let's use AI to help us sort it out. And help us learn how to use AI. Take the PDF from Zotero and upload it into some AI tool (chatGPT, for instance, but it doesn't matter which one), and ask for a summary of the article. 
@@ -112,6 +114,8 @@ After taking even a single upper-level history course, you should have a sense o
 The dietary advice we just read was directed primarily toward the upper classes. By the early 1800s, however, dietary advice was increasingly directed at the emerging middle class. Physicians and moral reformers saw diets changing as a result of industrialization and urbanization as a distinct societal ill. 
 
 Over the next few days we look at how moral and dietary advice became even more tightly coupled throughout the 1800s. Later in the course, we'll see how that link has persisted through today. 
+
+- [Primary Source Comparison Methods](https://youtu.be/MOcW6fkt6Fw)
 
 - John Frank Newton, _[The Return to Nature](https://books.google.com/books?id=8dwhAQAAMAAJ): Or, A Defence of the Vegetable Regimen; with Some Account of an Experiment Made during the Last Three or Four Years in the Author’s Family_ (1811)
 - John Tweed _[Popular Observations on Regimen and Diet](https://www.google.com/books/edition/Popular_Observations_on_Regimen_and_Diet/N47GABoEaMgC?hl=en&gbpv=1)_ (1820).
