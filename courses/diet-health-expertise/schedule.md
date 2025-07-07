@@ -102,11 +102,12 @@ After taking even a single upper-level history course, you should have a sense o
 - George Cheyne, [_An Essay on Regimen_](https://www.google.com/books/edition/_/ezswAAAAYAAJ?hl=en&gbpv=1)," i-xxiv, and randomly sample the whole text to get a feel for the tone, language, and rhetorical effect. Note that a single "s" within a word looks like an "f". For instance, on title page you'll see "Philofophical" instead of "Philosophical". Yes, the long "f"s and the language in general seems weird to us moderns, but you get used to it after a few pages.
 
 
-{% include alert.html class='danger' title='Reading reflection' text="
-- How does Cheyne's advice echo what we've been reading about up to this point?
-- What is different? 
-- How did Cheyne establish his medical reputation? 
+{% include alert.html class='danger' title='Discussion Post' text="
+- This is one of our few discussion posts rather than a standard reading reflection. Answer the following questions, but (unless you are the first one) elate your ideas to at least one other post (which could be right before yours or a different one). 
+- **Briefly describe how much you agree or disagree with the post you choose. Have something NEW to say, but build off an earlier post (kinda like an actual discussion).**
+- How much did Cheyne's text match what Shapin described? 
 - Aside from the language, how different or similar is Cheyne's way of establishing expertise compared to modern dietary experts?
+
 "%}
 
 
