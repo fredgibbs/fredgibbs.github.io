@@ -167,7 +167,7 @@ Same kind of drill as with Cheyne, except a century later and a VERY different k
 
 
 # Week 3: Scientific and Quantified Eating
-There has been no bigger shift in dietary advice than starting to understand health in terms of numbers, averages, and scales. This week examines some of the earliest developments in quantification of dietary knowledge and advice. We confront the implications of this paradigm shift each day as we see nutritional information labels, and watch-like computers that count our steps each day.
+There has been no bigger shift in dietary advice than starting to understand health in terms of numbers, averages, and scales. This week examines some of the earliest developments in quantification of dietary knowledge and advice. We confront the implications of this paradigm shift each day as we see nutritional information labels, and watch-like computers that count our steps.
 
 
 ## Mon 7/14: Quantifying diets
