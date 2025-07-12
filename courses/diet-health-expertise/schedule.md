@@ -13,7 +13,7 @@ section: schedule
 Welcome! Today we're just getting up to speed with course logistics. There are a couple things to do just to make sure erverything is wired up for our month together. Please do them ASAP, but make sure these are done BEFORE WEDNESDAY. Normally stuff is due the day it appears on the syllabus, but we can take an extra day to get up to speed.
 
 - [Course overview video](https://youtu.be/N_4Gj2mKnDA)
-- [First week overview](https://youtu.be/jU_0BGbsW4Q)
+- [Week 1 overview](https://youtu.be/jU_0BGbsW4Q)
 - Yours truly, [A healthy dose of skepticism](https://nursingclio.org/2017/05/24/a-healthy-dose-of-skepticism/)
 
 
@@ -169,24 +169,25 @@ Same kind of drill as with Cheyne, except a century later and a VERY different k
 # Week 3: Scientific and Quantified Eating
 There has been no bigger shift in dietary advice than starting to understand health in terms of numbers, averages, and scales. This week examines some of the earliest developments in quantification of dietary knowledge and advice. We confront the implications of this paradigm shift each day as we see nutritional information labels, and watch-like computers that count our steps.
 
+We also look at food reformers in the early 20th century, particularly Ellen Richards, with an emphasis on the links between diet and morality. Take note of the many links between food chemistry, home economics, nutrition, and immigration. 
+
+- Week 3 Video Overview Coming Soon!
+
 
 ## Mon 7/14: Quantifying diets
 - Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67.
 
 {% include alert.html class='danger' title='Reading Reflection' text='
-On p.64 Mudry concludes that "after the development of the science of nutrition, moral terms like “good” and “bad” became enumerated and objectified in discussions of food."
-
-What does this mean? Do you agree? How much are you convinced by her argument and evidence? I\'m asking for your opinion here, but it should be carefully and clearly informed by the reading, and put in the context of other course readings.
+Use specific examples to illustrate what you see as the strenths and weakness of Mudry's analysis of the implications of quantified eating. Where is she most convincing? Where were you more skeptical?
 '%}
-
 
 
 
 ## Tue 7/15: Diet and Morality
 - Charlotte Biltekoff, *Eating Right in America*, Chapter 2: Scientific Moralization, 13--44.
 
-{% include alert.html class='danger' title='Reading Reflection' text="
-Today we look at food reformers in the early 20th century, particularly Ellen Richards, with an emphasis on the links between diet and morality. Describe the link between home economics, nutrition, and immigration. How and why did these come to intersect as according to Biltekoff (and Mudry)?
+{% include alert.html class='danger' title='Discussion Board' text="
+To what extent do you agree with Biltekoff's argument and evidence that scientific advice is necssariy moralizing? Do you agree with Mudry's claim that "after the development of the science of nutrition, moral terms like “good” and “bad” became enumerated and objectified in discussions of food." (p. 62)? As before, please build off a previous (but not necessarily the most recent) reply.
 "%}
 
 
@@ -194,28 +195,25 @@ Today we look at food reformers in the early 20th century, particularly Ellen Ri
 ## Wed 7/16: The Birth of the Calorie
 
 {% include alert.html class='info' title='Another Primary Source' text="
-Our goal with this text is to understand the tone of this work that was so often referenced in our readings this week. *Skim but don't totally skip* the science details. 
-  - How does article reflect larger scientific currents?
-  - What’s the point of all the science detail?
-  - How/why does metaphor play such a prominent role in his explanations?
+Our goal with this text is to understand the tone of this work that was so often referenced in our readings this week. *Skim but don't totally skip* the science details. The detail is obviously not important *per se* but we should think about why it's there. Also notice what's NOT in this article as pointed out by our readings---there's nothing about the subjective meanings of food. Taste, tradition, comfort are entirely unimportant in comparison to maximizing nutritive and economic value.
 "%}
 
 - Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine*, 34 (May 1887): 59--74.
 
-
 {% include alert.html class='danger' title='Reading Reflection' text="
 - How does Atwater establish his credibility, authority, and expertise? Be specific! 
-- How was his approach different from Cheyne and Graham? 
+- How is his approach different from Cheyne and Graham? 
+- How/why does analogy and metaphor play such a prominent role in his explanations?
 - How much do you agree with Mudry's and Biltekoff's interpretations of Atwater after reading his work for yourself?
 "%}
 
 
 ## Thu — Fri (7/17 - 7/18): Early 20th century sources
-These two days we focus on a few diet books written between 1918 and 1922. They are all COMPLETELY different in their approach, style, and the way their authors try to establish their expertise. 
+For the next two days (which we treat as a single unit since there's nothing due on Thursday) we focus on a few diet books written between 1918 and 1922. They are all COMPLETELY different in their approach, style, and the way their authors try to establish their expertise. 
 
 Our goal is to understand how the same cultural context could yield such different texts and how they collectively illustrate several important facets of the history of diet/health/nutrition around the time they were written. 
 
-For each text, I've indicated specific pages you should read fairly carefully. IN ADDITION, carefully examine the table of contents and randomly sample pages or small sections throughout the book to get a feel for the text as a whole---like what is and what isn't addressed in the text. 
+For each text, I've indicated specific pages you should read fairly carefully. IN ADDITION, as we did before, carefully examine the table of contents and randomly sample pages or small sections throughout the book to get a feel for the text as a whole.
 
 
 - Lulu Hunt Peters,  [Diet and Health: With Key to the Calories](https://www.google.com/books/edition/Diet_and_Health/f7UXAAAAYAAJ?hl=en&gbpv=1) (1918). Read the first 3.5 chapters, pp. 11--39 (these are tiny pages and the writing is rather breezy compared to what we're used to).
@@ -225,16 +223,13 @@ For each text, I've indicated specific pages you should read fairly carefully. I
 - Elmer McCollum, [The Newer Knowledge of Nutrition](https://www.google.com/books/edition/_/jndUnd5xX5wC?hl=en&gbpv=1) (1922). Read the preface (xii--ix), skim the Table of Contents, and read 1--13.
 
 
-{% include alert.html class='danger' title='Compartive Reflection' text="
-Consider how these texts fit into the course narrative so far.
-- Think about how it addresses (or doesn't) the major themes we've focused on:
-  - continuities and discontinuities of dietary advice
-  - ways the author establishes expertise
-  - moral aspects of dietary choice
-  - differing rhetorical styles
-- What are the major beliefs about diet/health/society/etc that are motivating the author to write this?
-- Who is the audience? What does the author think their intended audience knows or doesn’t know?
-- How are the answers to these questions maybe a bit different than they have been with earlier sources?
+{% include alert.html class='danger' title='TRIPLE Compartive Reflection' text="
+This reflection should be THREE TIMES as long as the usual reading reflection and is worth THREE TIMES as many points. As with last week, you ARE NOT reading these books in their entirety. Ratehr, you're using strategies outlined in the video from last week to find revealing parts that help you understand what they are doing (with a focus on the pages specifically listed above).
+- How would you characterize their different rhetorical styles?
+- How do the text show continuities and discontinuities of dietary advice from past sources?
+- How do the authors establishe expertise?
+- To what extent do these texts illustrate the points from the Monday and Tuesday readings?
+- What does the author think their intended audience knows or doesn’t know?
 "%}
 
 
