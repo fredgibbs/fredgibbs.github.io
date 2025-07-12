@@ -186,9 +186,9 @@ Use specific examples to illustrate what you see as the strenths and weakness of
 ## Tue 7/15: Diet and Morality
 - Charlotte Biltekoff, *Eating Right in America*, Chapter 2: Scientific Moralization, 13--44.
 
-{% include alert.html class='danger' title='Discussion Board' text="
-To what extent do you agree with Biltekoff's argument and evidence that scientific advice is necssariy moralizing? Do you agree with Mudry's claim that "after the development of the science of nutrition, moral terms like “good” and “bad” became enumerated and objectified in discussions of food." (p. 62)? As before, please build off a previous (but not necessarily the most recent) reply.
-"%}
+{% include alert.html class='danger' title='Discussion Board' text='
+To what extent do you agree with Biltekoff\'s argument and evidence that scientific advice is necssariy moralizing? Do you agree with Mudry\'s claim that "after the development of the science of nutrition, moral terms like "good” and “bad” became enumerated and objectified in discussions of food." (p.62)? As before, please build off a previous (but not necessarily the most recent) reply.
+'%}
 
 
 
