@@ -177,9 +177,9 @@ We also look at food reformers in the early 20th century, particularly Ellen Ric
 ## Mon 7/14: Quantifying diets
 - Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67.
 
-{% include alert.html class='danger' title='Reading Reflection' text='
+{% include alert.html class='danger' title='Reading Reflection' text="
 Use specific examples to illustrate what you see as the strenths and weakness of Mudry's analysis of the implications of quantified eating. Where is she most convincing? Where were you more skeptical?
-'%}
+"%}
 
 
 
