@@ -167,18 +167,18 @@ Same kind of drill as with Cheyne, except a century later and a VERY different k
 
 
 # Week 3: Scientific and Quantified Eating
-There has been no bigger shift in dietary advice than starting to understand health in terms of numbers, averages, and scales. This week examines some of the earliest developments in quantification of dietary knowledge and advice. We confront the implications of this paradigm shift each day as we see nutritional information labels, and watch-like computers that count our steps.
+There has been no bigger shift in dietary advice than starting to understand health in terms of numbers, averages, and scales. This week examines some of the earliest developments in quantification of dietary knowledge and advice. We confront the implications of this paradigm shift each day as we read nutritional information labels and consult watch-like computers that count our steps.
 
 We also look at food reformers in the early 20th century, particularly Ellen Richards, with an emphasis on the links between diet and morality. Take note of the many links between food chemistry, home economics, nutrition, and immigration. 
 
-- Week 3 Video Overview Coming Soon!
+- [Week 3 Video Overview](https://youtu.be/Zt9Wk5mpD4M)
 
 
 ## Mon 7/14: Quantifying diets
 - Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67.
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-Use specific examples to illustrate what you see as the strenths and weakness of Mudry's analysis of the implications of quantified eating. Where is she most convincing? Where were you more skeptical?
+Use specific examples to illustrate what you see as the strenths and weakness of Mudry's analysis of the implications of quantified eating. Where is she most convincing? Where are you more skeptical? Would you say she presents a neutral and balanced view of the implications of quantification?
 "%}
 
 
@@ -195,7 +195,7 @@ To what extent do you agree with Biltekoff\'s argument and evidence that scienti
 ## Wed 7/16: The Birth of the Calorie
 
 {% include alert.html class='info' title='Another Primary Source' text="
-Our goal with this text is to understand the tone of this work that was so often referenced in our readings this week. *Skim but don't totally skip* the science details. The detail is obviously not important *per se* but we should think about why it's there. Also notice what's NOT in this article as pointed out by our readings---there's nothing about the subjective meanings of food. Taste, tradition, comfort are entirely unimportant in comparison to maximizing nutritive and economic value.
+Our goal today is to investigate ourselves a work that was so often referenced in our readings this week. *Skim but don't totally skip* the science details. The detail is obviously not important *per se* but we should think about why it's there. Also notice what's NOT in this article as pointed out by our readings---there's nothing about the subjective meanings of food. Taste, tradition, comfort are entirely unimportant in comparison to maximizing nutritive and economic value.
 "%}
 
 - Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine*, 34 (May 1887): 59--74.
@@ -223,13 +223,12 @@ For each text, I've indicated specific pages you should read fairly carefully. I
 - Elmer McCollum, [The Newer Knowledge of Nutrition](https://www.google.com/books/edition/_/jndUnd5xX5wC?hl=en&gbpv=1) (1922). Read the preface (xii--ix), skim the Table of Contents, and read 1--13.
 
 
-{% include alert.html class='danger' title='TRIPLE Compartive Reflection' text="
-This reflection should be THREE TIMES as long as the usual reading reflection and is worth THREE TIMES as many points. As with last week, you ARE NOT reading these books in their entirety. Ratehr, you're using strategies outlined in the video from last week to find revealing parts that help you understand what they are doing (with a focus on the pages specifically listed above).
+{% include alert.html class='danger' title='TRIPLE Comparative Reflection DUE FRIDAY' text="
+This reflection should be THREE TIMES as long as the usual reading reflection and is worth THREE TIMES as many points. As with last week, you ARE NOT reading these books in their entirety. This time I've provided more specific pages, but you should also develop a sense of each texts as a whole. Use the skimming strategies outlined in the video from last week to find revealing parts that help you understand why the text is the way it is.
 - How would you characterize their different rhetorical styles?
-- How do the text show continuities and discontinuities of dietary advice from past sources?
+- How do the texts show continuities and discontinuities of dietary advice from past sources?
 - How do the authors establishe expertise?
 - To what extent do these texts illustrate the points from the Monday and Tuesday readings?
-- What does the author think their intended audience knows or doesn’t know?
 "%}
 
 
