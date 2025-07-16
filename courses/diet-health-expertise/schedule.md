@@ -236,6 +236,8 @@ This reflection should be THREE TIMES as long as the usual reading reflection an
 # Week 4: The fat and malnourished body
 Fat gets a bad rap. Why is this? We've looked at the morality of dietary advice in several ways already, and one aspect that has persisted is the idea that a large body represents a moral deficiency. This week examines how the idea of fat and fat bodies became something to avoid during the early 20th century and how the legacy of vitamins and micronutrients came to define "proper" nourishment and bodily. 
 
+We're also focusing our attention on applying the kinds of work you've done in the course to both scholarly and more "popular" articles to understand how the history of diet and health can help us understand different kinds of writing about diet and health.
+
 
 ## Mon 7/21
 - Helen Zoe Veit, *Modern Food, Moral Food*, Chapter 7: The Triumph of the Will: The Progressive Body and the Thin Ideal, 157--80.
@@ -243,33 +245,44 @@ Fat gets a bad rap. Why is this? We've looked at the morality of dietary advice 
 {% include alert.html class='danger' title='Reading Reflections' text="
 For this exercise, bullet points are 1-3 complete sentences that clearly express a complete idea, not cryptic phrases that no one but you can understand. 
 
-- Write 4 bullet points that summarize what you think are the main points of the article. They might not be equally important; you might think your first one or two points are REALLY important and the others are less so. But I want you to come up with 5 points to highlight.
-- Write 4 bullet points that point out similarities and differences to other readings we've had in the course to this point. What kinds of things have we seen before? What are variations on a theme? What's really new?
-- For each of your bullet points, briefly indicate your thinking behind it. 
+- Write 4 bullet points that summarize what you think are the MAIN POINTS of the article. They might not be equally important; you might think your first one or two points are REALLY important and the others are less so. 
+- Write 4 bullet points that point out similarities and differences to other readings in the course to this point. What kinds of things have we seen before? What are variations on a theme? What's really new?
+- As part of your bullet points, briefly indicate WHY you think your point is worth highlighting. 
 "%}
 
 
 ## Tue 7/22
-A. F. La Berge, “How the Ideology of Low Fat Conquered America,” _Journal of the History of Medicine and Allied Sciences_ 63.2 (2007): 139–77.  If you're interested in the popular discourse of low-fat diets (mostly 1970+, but with some earlier history, too), it's got a lot of great information and shows how popular diet advice columns (like Jane Brody's in the _New York Times_) become sources in which both outdated and cutting-edge nutritional research mingle together.
+- A. F. La Berge, “How the Ideology of Low Fat Conquered America,” _Journal of the History of Medicine and Allied Sciences_ 63.2 (2007): 139–77.  If you're interested in the popular discourse of low-fat diets (mostly 1970+, but with some earlier history, too), it's got a lot of great information and shows how popular diet advice columns (like Jane Brody's in the _New York Times_) become sources in which both outdated and cutting-edge nutritional research mingle together.
+
+{% include alert.html class='danger' title='Reading reflection' text="
+This is a LONG description of some things that happened in the past regarding low-fat diets. There's not much analysis of how we should understand those things in the context of the history of diet and health. That's where you come in! Your challenge is to explain how we can understand---using a historical prespective that is not in the article, but hopefully has been in the course---how / why the \"ideology of low fat\" unfolded as it did. 
+
+Although a secondary source, you are NOT meant to read this carefully. You should skim/read as much as you need to. 
+"%}
 
 
 ## Wed 7/23
 - David Berreby, [The Obesity Era](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong), *Aeon* (June 2013).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Let's be clear: this article DOES NOT try to argue that personal choice is not a cause of obesity. But it does try to suggest other reasons that also matter. How does this course help explain WHY the author wrote this? According to the author, how should \"science\" be used to help understand obesity? 
+Let's be clear: this article DOES NOT try to argue that personal choice is not a cause of obesity. But tries to suggest how there other reasons that also matter, and in fact ways of thinking about health that can be easily overlooked. How does this course help explain WHY the author wrote this? According to the author, how should \"science\" be used to help understand obesity? 
 "%}
 
 
 
 ## Thu 7/24
-Dietary villains: gluten, lectins, fodmops
+- Christie Aschwanden, [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/), (_FiveThirtyEight_, Jan 6, 2016).
+- Julia Belluz, [I asked 8 researchers why the science of nutrition is so messy. Here’s what they said](https://www.vox.com/2016/1/14/10760622/nutrition-science-complicated), _Vox_, Aug 16, 2016.  
+
+{% include alert.html class='danger' title='Reading Quiz' text="
+Just a basic reading quiz for today.
+"%}
 
 
 ## Fri 7/25
 How can we really evaluate whether any diet could be useful? Is there a "right" diet that we just haven't found? Have we known it all along? 
 
-This chapter is about EVALUATING dietary advice and dietary CRITIQUE. As you know from its overall goals, this course is all about learning to think critically about dietary advice and expertise in general, using history to gain a broader perspective. Today we turn our attention from evaluating the rhetoric of dietary advice to evaluating the rhetoric of dietary critique. 
+This assignemnt focuses on EVALUATING dietary advice and dietary CRITIQUE. As you know from its overall goals, this course is all about learning to think critically about dietary advice and expertise in general, using history to gain a broader perspective. Today we turn our attention from evaluating the rhetoric of dietary advice to evaluating the rhetoric of dietary critique. 
 
 - Eddie Kim, [Their Diet? 100 Percent Meat. And They Say They've Never Felt Healthier](https://melmagazine.com/en-us/story/their-diet-100-percent-meat-and-they-say-theyve-never-felt-healthier), (_Mel Magazine_, 2019).
 
@@ -277,21 +290,13 @@ This chapter is about EVALUATING dietary advice and dietary CRITIQUE. As you kno
 {% include alert.html class='danger' title='Reading reflection' text="
 CRITIQUE (do NOT SUMMARIZE) the article for today: What does it do well? How does it disappoint? Describe how its use and effectiveness in using history. Can you tell what's missing (in general, not a specific topic)?
 
-TO REPEAT: Don't get sidetracked by analyzing or critiquing the diet that is the subject of the article. Whether a meat-only diet is a good idea (spoiler: no!) is not the point here. CRITIQUE THE ARTICLE, NOT THE DIET.
+IMPORTANT: Don't get sidetracked by analyzing or critiquing the diet presented in the article. Whether a meat-only diet is a good idea (spoiler: no!) is not the point here. CRITIQUE THE ARTICLE and its analysis, NOT THE DIET.
 "%}
 
 
 
 ## Week 5: Review and Reflection
 
-## Mon 7/28
-- Christie Aschwanden, [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/), (_FiveThirtyEight_, Jan 6, 2016).
-- Julia Belluz, [I asked 8 researchers why the science of nutrition is so messy. Here’s what they said](https://www.vox.com/2016/1/14/10760622/nutrition-science-complicated), _Vox_, Aug 16, 2016.  
-
-{% include alert.html class='danger' title='Reading Quiz' text="
-Just a basic reading quiz for today that MUST BE DONE BEFORE MIDNIGHT on TUESDAY; afterwards, check out the [quiz explanation / BIG POINTS video](https://youtu.be/NGBVwpTmAC0).
-"%}
-
-
-## Tue 7/29
-Post your [final course reflection](final-reflections).
+## Mon -- Tue (7/28 - 7/29)
+- Course wrap-up video (link TBP)
+- Post your [final course reflection](final-reflections).
