@@ -265,14 +265,13 @@ Although a secondary source, you are NOT meant to read this carefully. You shoul
 - David Berreby, [The Obesity Era](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong), *Aeon* (June 2013).
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Let's be clear: this article DOES NOT try to argue that personal choice is not a cause of obesity. But tries to suggest how there other reasons that also matter, and in fact ways of thinking about health that can be easily overlooked. How does this course help explain WHY the author wrote this? According to the author, how should \"science\" be used to help understand obesity? 
+Let's be clear: this article DOES NOT try to argue that personal choice is not a cause of obesity. But it does try to suggest how there other reasons that also matter, and that there are potentially structual causes of ill-health that can be easily overlooked in modern research paradigms. How does this course help explain WHY the author wrote this? According to the author, how should \"science\" be used to help understand obesity? 
 "%}
 
 
 
 ## Thu 7/24
 - Christie Aschwanden, [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/), (_FiveThirtyEight_, Jan 6, 2016).
-- Julia Belluz, [I asked 8 researchers why the science of nutrition is so messy. Here’s what they said](https://www.vox.com/2016/1/14/10760622/nutrition-science-complicated), _Vox_, Aug 16, 2016.  
 
 {% include alert.html class='danger' title='Reading Quiz' text="
 Just a basic reading quiz for today.
@@ -288,9 +287,9 @@ This assignemnt focuses on EVALUATING dietary advice and dietary CRITIQUE. As yo
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-CRITIQUE (do NOT SUMMARIZE) the article for today: What does it do well? How does it disappoint? Describe how its use and effectiveness in using history. Can you tell what's missing (in general, not a specific topic)?
+CRITIQUE (do NOT summarize) the article for today: What does it do well? How does it disappoint? Describe how it uses the history diet well and how it misses some key concepts that we've covered.
 
-IMPORTANT: Don't get sidetracked by analyzing or critiquing the diet presented in the article. Whether a meat-only diet is a good idea (spoiler: no!) is not the point here. CRITIQUE THE ARTICLE and its analysis, NOT THE DIET.
+IMPORTANT: Don't get sidetracked by analyzing or critiquing the diet presented in the article. Whether a meat-only diet is a good idea (spoiler: no!) is not the point here. CRITIQUE THE ARTICLE and its analysis and use of history, NOT THE DIET.
 "%}
 
 
