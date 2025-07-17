@@ -215,6 +215,8 @@ Our goal is to understand how the same cultural context could yield such differe
 
 For each text, I've indicated specific pages you should read fairly carefully. IN ADDITION, as we did before, carefully examine the table of contents and randomly sample pages or small sections throughout the book to get a feel for the text as a whole.
 
+- [Some background, context, and reminders](https://youtu.be/ymnqvS0OD8M)
+
 
 - Lulu Hunt Peters,  [Diet and Health: With Key to the Calories](https://www.google.com/books/edition/Diet_and_Health/f7UXAAAAYAAJ?hl=en&gbpv=1) (1918). Read the first 3.5 chapters, pp. 11--39 (these are tiny pages and the writing is rather breezy compared to what we're used to).
 
