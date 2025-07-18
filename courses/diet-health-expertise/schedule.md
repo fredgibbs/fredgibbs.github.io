@@ -289,9 +289,11 @@ This assignemnt focuses on EVALUATING dietary advice and dietary CRITIQUE. As yo
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-CRITIQUE (do NOT summarize) the article for today: What does it do well? How does it disappoint? Describe how it uses the history diet well and how it misses some key concepts that we've covered.
+- DOUBLE REFLECTION (2x points)
 
-IMPORTANT: Don't get sidetracked by analyzing or critiquing the diet presented in the article. Whether a meat-only diet is a good idea (spoiler: no!) is not the point here. CRITIQUE THE ARTICLE and its analysis and use of history, NOT THE DIET.
+CRITIQUE (do NOT summarize) the article for today. Describe how it uses the history diet well and how it misses some key concepts that we've covered.
+
+IMPORTANT: Don't get sidetracked by analyzing or critiquing the diet presented in the article. Whether a meat-only diet is a good idea (spoiler: no!) is not the point here. CRITIQUE THE ARTICLE and its analysis and use of dietary history, NOT THE DIET.
 "%}
 
 
