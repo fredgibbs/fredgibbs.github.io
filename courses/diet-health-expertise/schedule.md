@@ -257,9 +257,9 @@ For this exercise, bullet points are 1-3 complete sentences that clearly express
 - A. F. La Berge, “How the Ideology of Low Fat Conquered America,” _Journal of the History of Medicine and Allied Sciences_ 63.2 (2007): 139–77.  If you're interested in the popular discourse of low-fat diets (mostly 1970+, but with some earlier history, too), it's got a lot of great information and shows how popular diet advice columns (like Jane Brody's in the _New York Times_) become sources in which both outdated and cutting-edge nutritional research mingle together.
 
 {% include alert.html class='danger' title='Reading reflection' text="
-This is a LONG description of some things that happened in the past regarding low-fat diets. There's not much analysis of how we should understand those things in the context of the history of diet and health. That's where you come in! Your challenge is to explain how we can understand---using a historical prespective that is not in the article, but hopefully has been in the course---how / why the \"ideology of low fat\" unfolded as it did. 
+This article is a LONG (and kinda dry) description of some things that happened in the past regarding low-fat diets. There's not much analysis of how we should understand those things in the context of the broad history of diet and health. That's where you come in! 
 
-Although a secondary source, you are NOT meant to read this carefully. You should skim/read as much as you need to. 
+Although a secondary source, you are NOT meant to read this carefully. You should skim/read as much as you need to. Your challenge---what you should write about in your reflection---is to explain how we can understand how / why the \"ideology of low fat\" unfolded as it did and what was in fact new about it. I hope you can use a historical prespective that is not in the article, but that the course has hopefully provided.
 "%}
 
 
@@ -289,13 +289,12 @@ This assignemnt focuses on EVALUATING dietary advice and dietary CRITIQUE. As yo
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-- DOUBLE REFLECTION (2x points)
+DOUBLE REFLECTION! (2x points and 2x length)
 
 CRITIQUE (do NOT summarize) the article for today. Describe how it uses the history diet well and how it misses some key concepts that we've covered.
 
-IMPORTANT: Don't get sidetracked by analyzing or critiquing the diet presented in the article. Whether a meat-only diet is a good idea (spoiler: no!) is not the point here. CRITIQUE THE ARTICLE and its analysis and use of dietary history, NOT THE DIET.
+IMPORTANT: Don't get sidetracked by critiquing the diet presented in the article. Whether a meat-only diet is a good idea (spoiler: no!) is not the point here. CRITIQUE THE ARTICLE and its analysis and use of dietary history, NOT THE DIET.
 "%}
-
 
 
 ## Week 5: Review and Reflection
