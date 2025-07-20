@@ -240,7 +240,7 @@ Fat gets a bad rap. Why is this? We've looked at the morality of dietary advice 
 We're also focusing our attention on applying the kinds of work you've done in the course to both scholarly and more "popular" articles to understand how the history of diet and health can help us understand different kinds of writing about diet and health.
 
 
-## Mon 7/21
+## Mon 7/21: Modern willpower
 - [Week 4 Overview](https://youtu.be/tN8-Ue23dJU)
 - Helen Zoe Veit, *Modern Food, Moral Food*, Chapter 7: The Triumph of the Will: The Progressive Body and the Thin Ideal, 157--80.
 
@@ -253,7 +253,7 @@ For this exercise, bullet points are 1-3 complete sentences that clearly express
 "%}
 
 
-## Tue 7/22
+## Tue 7/22: Lo-fat ideology
 - A. F. La Berge, “How the Ideology of Low Fat Conquered America,” _Journal of the History of Medicine and Allied Sciences_ 63.2 (2007): 139–77.  If you're interested in the popular discourse of low-fat diets (mostly 1970+, but with some earlier history, too), it's got a lot of great information and shows how popular diet advice columns (like Jane Brody's in the _New York Times_) become sources in which both outdated and cutting-edge nutritional research mingle together.
 
 {% include alert.html class='danger' title='Reading reflection' text="
@@ -263,7 +263,7 @@ Although a secondary source, you are NOT meant to read this carefully. You shoul
 "%}
 
 
-## Wed 7/23
+## Wed 7/23: Rethinking obesity
 - David Berreby, [The Obesity Era](https://aeon.co/essays/blaming-individuals-for-obesity-may-be-altogether-wrong), *Aeon* (June 2013).
 
 {% include alert.html class='danger' title='Reading reflection' text="
@@ -272,7 +272,7 @@ Let's be clear: this article DOES NOT try to argue that personal choice is not a
 
 
 
-## Thu 7/24
+## Thu 7/24: Food epistemology
 - Christie Aschwanden, [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/), (_FiveThirtyEight_, Jan 6, 2016).
 
 {% include alert.html class='danger' title='Reading Quiz' text="
@@ -280,7 +280,7 @@ Just a basic reading quiz for today.
 "%}
 
 
-## Fri 7/25
+## Fri 7/25: Putting the course to work
 How can we really evaluate whether any diet could be useful? Is there a "right" diet that we just haven't found? Have we known it all along? 
 
 This assignemnt focuses on EVALUATING dietary advice and dietary CRITIQUE. As you know from its overall goals, this course is all about learning to think critically about dietary advice and expertise in general, using history to gain a broader perspective. Today we turn our attention from evaluating the rhetoric of dietary advice to evaluating the rhetoric of dietary critique. 
