@@ -72,10 +72,9 @@ We explore the contours of medieval medicine, providing important context for un
 # Week 2: 18th and 19th centuries
 The theme for next few days is how physicians beginning the 1700s started promoting dietary advice and their expertise in different ways than they did previously. We also see the early ties between dietary advice, moral authority, a common sense, a constellation of ideas we'll come back to repeatedly in very different historical contexts. 
 
-- [Week 2 Overview](https://youtu.be/AabeM83A8_4)
-
 
 ## Mon 7/7: Dietary Expertise in the Enlightenment
+- [Week 2 Overview](https://youtu.be/AabeM83A8_4)
 - Steven Shapin, "Trusting George Cheyne," 263--97. This article is clear and informative, but way longer than it needs with too much detail. (yay academic writing!) So, let's use AI to help us sort it out. And help us learn how to use AI. Take the PDF from Zotero and upload it into some AI tool (chatGPT, for instance, but it doesn't matter which one), and ask for a summary of the article. 
 
 You'll find it's actually not bad. But it's still REALLY reductive (meaning it misses a lot). Your job is to skim the Shapin article for yourself and compare the impression you get from the actual text (even if skimming) compared to the AI summary. 
@@ -171,10 +170,10 @@ There has been no bigger shift in dietary advice than starting to understand hea
 
 We also look at food reformers in the early 20th century, particularly Ellen Richards, with an emphasis on the links between diet and morality. Take note of the many links between food chemistry, home economics, nutrition, and immigration. 
 
-- [Week 3 Video Overview](https://youtu.be/Zt9Wk5mpD4M)
 
 
 ## Mon 7/14: Quantifying diets
+- [Week 3 Video Overview](https://youtu.be/Zt9Wk5mpD4M)
 - Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67.
 
 {% include alert.html class='danger' title='Reading Reflection' text="
@@ -242,6 +241,7 @@ We're also focusing our attention on applying the kinds of work you've done in t
 
 
 ## Mon 7/21
+- [Week 4 Overview](https://youtu.be/tN8-Ue23dJU)
 - Helen Zoe Veit, *Modern Food, Moral Food*, Chapter 7: The Triumph of the Will: The Progressive Body and the Thin Ideal, 157--80.
 
 {% include alert.html class='danger' title='Reading Reflections' text="
