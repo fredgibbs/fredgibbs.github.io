@@ -24,3 +24,4 @@ This page summarizes course resource links that you will probably need repeatedl
 ## Assignment Guides
 - [Reading Reflections](reading-reflections)
 - [Extra Credit Documentary Critique](documentary-critique.html)
+- [Final Course Reflection](final-reflections)
