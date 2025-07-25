@@ -8,25 +8,26 @@ section: links-guides
 ---
 
 # Final Learning Reflection
-Your final assignment for the course is a bit different from previous assignments. I'd like you to write a ~1200-word course reflection, with two main components (and maybe a little of a third depending on whether you're satisfied with your current grade). You can do these sections separately, or they can be totally integrated. I don't care much about the form as long as you're addressing the issues suggested below.
+Your final assignment for the course is a bit different from previous assignments. I'd like you to write a ~1200-word course reflection, with two main components (and maybe a third depending on whether you're satisfied with your current grade). You can do these sections separately, or they can be totally integrated. I don't care much about the form as long as you're addressing the issues suggested below.
 
 ## Describe what you learned
-Using specific examples from the reading and connecting larger across themes as done in the overview videos, tell me what you learned in the course. Don't forget the big picture questions (review the Course Goals!), such as:
+Using specific examples from the reading and connecting themes across the course as done in the overview videos, tell me what you learned in the course. In addition to history of diet particulars, don't forget the big picture questions (like the Course Goals!), such as:
 - How has dietary advice stayed the same over the centuries? How has it remained the same?
 - How is your understanding of how expertise is created different than before? 
 - How can you analyze the rhetoric of diet and health differently now? 
 - How can the history of diet and health help us contextualize contemporary dietary debates?
 
 ## Describe your learning experience
-Describe your learning experience in the course. This is obviously a totally subjective question and there's no right answer. Some questions to consider:
+Describe your learning experience in the course. This is obviously totally subjective and there's no right answer. Some questions to consider:
 - What was your learning experience like in this course?
 - What topics were interesting? Which weren't?
-- Which assignments seemed to help you learn? Which seemed a waste of time?
+- Which readings were helpful? Which weren't worth the trouble?
+- Which reflection assignments seemed to help you learn? Which seemed a waste of time?
 - Where did the course flow together well? Where did it seem disconnected?
 
-Allow me to emphasize that you should not simply summarize course topics and themes. You should use specific examples from the course readings. If all you do is summarize some readings without including your reaction to them (unfavorable reactions are fine!), I can only assume that you didn't put in very much effort into the course.
+Allow me to emphasize that you should not simply summarize course topics and themes as stated on the syllabus. You should use specific examples from the course readings to illustrate your points. Otherwise, I can only assume that you didn't put in very much effort into the course.
 
-This isn't a writing class so you're not getting evaluated on elegant prose. BUT, your writing must be clear enough that I can follow your argument and your survey of course themes. Your final reflection should be well thought out and carefully written, not a stream of consciousness off-the-cuff here’s-what-I-remember type thing. 
+This isn't a writing class so you're not getting evaluated on elegant prose. So, use AI to help smooth your writing as long as the ideas are your own. AI or not, your writing must be clear enough that I can follow your argument and your survey of course themes. Your final reflection should be well thought out and carefully written, not a stream of consciousness off-the-cuff here’s-what-I-remember type thing. 
 
 ## Make an argument for a grade
 The third and optional component is to make a brief argument for what letter grade you should get for the course. It's maybe a weird request for a final, but there is a specific reason: your effort to learn, and what you actually did learn, might not be represented in your final point tally. This assignment gives you a chance to argue that you've put more work in or learned more than your numbers indicate.
@@ -38,7 +39,7 @@ To be clear, you aren't necessarily going to get whatever grade you ask for. But
 ## Pro tips
 
 ### Take time to review
-Before you start writing, invest a few hours to REVISIT THE READINGS. This does not mean re-reading them, but just reminding yourself what you've read, or maybe reading a little more of something you could only skim before. Course videos can be tedious, but they all try to pull together broader themes and explain how different weeks and topics fit together. Seeing some of the first readings after having done the course is a very different experience than when you first read them.
+Before you start writing, invest some time to REVISIT THE READINGS. This does not mean re-reading them, but just reminding yourself what you've read, or maybe reading a little more of something you could only skim before. Course videos can be tedious, but they try to pull together broader themes and explain how different weeks and topics fit together. Seeing some of the first readings after having done the course is a very different experience than when you first read them.
 
 
 ### Be Specific
@@ -46,11 +47,11 @@ Specificity and clarity (in thinking and organization) is what separates excelle
 
 
 ### Think holistically
-I hope you will use your final learning reflection to CONNECT DIFFERENT TOPICS AND THEMES AND READINGS for the course. The more you can tie themes together and speak about the course as a whole (while giving specific examples from the readings---yes, I'm going to keep repeating it), the better you'll do. Essays that speak very generally about one topic after the other in the order of the syllabus will make a case that you haven't really made any connections. When I see those connections in your final, I know you're putting in the work to make them.
+I hope you will use your final reflection to CONNECT DIFFERENT TOPICS AND THEMES AND READINGS for the course. The more you can tie themes together and speak about the course as a whole (while giving specific examples from the readings [yes, I'm going to keep repeating it]), the better you'll do. Essays that speak very generally about one topic after the other in the order of the syllabus will suggest that you haven't really made any connections. When I see those connections in your final, I know you're putting in the work to make them.
 
 
 ### Make an impression; 50 points go a long way
-I know everyone is fried at this point, and it's therefore tempting to just bulldoze through the assignment to be done with the course. I GET IT! But taking some time to think back through the course makes a big difference in what you take away from it. I wouldn't bother with this assignment if I didn't think it made a big impact.
+I know everyone is fried at this point, and it's therefore tempting to just bulldoze through the assignment to be done with the course. I GET IT! (and I've done it, too.) But taking some time to think back through the course makes a big difference in what you take away from it. I wouldn't bother with this assignment if I didn't think it makes a big impact.
 
 
 ## Grading
