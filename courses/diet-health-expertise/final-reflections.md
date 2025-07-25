@@ -19,10 +19,10 @@ Using specific examples from the readings AND connecting themes across the cours
 
 ## Describe your learning experience
 Describe your learning experience in the course. This is obviously totally subjective and there's no right answer. Some questions to consider:
-- What was your learning experience like in this course?
+- How did this course go for you? What aspects worked well? What tweaks need to be made?
 - What topics were interesting? Which weren't?
 - Which readings were helpful? Which weren't worth the trouble?
-- Which reflection assignments seemed to help you learn? Which seemed a waste of time?
+- Which reflection assignments helped you learn? Which were a waste of time?
 - Where did the course flow together well? Where did it seem disconnected?
 
 Allow me to emphasize that you should not simply summarize course topics and themes as stated on the syllabus. You should use specific examples from the course readings to illustrate your points. Otherwise, I can only assume that you didn't put in very much effort into the course.
