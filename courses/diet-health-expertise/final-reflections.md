@@ -11,7 +11,7 @@ section: links-guides
 Your final assignment for the course is a bit different from previous assignments. I'd like you to write a ~1200-word reflection covering the entire course, with two main components (and maybe a third depending on whether you're satisfied with your current grade). You can do these sections separately, or they can be totally integrated. I don't care much about the form as long as you're addressing the issues suggested below.
 
 ## Describe what you learned
-Using specific examples from the reading and connecting themes across the course as done in the overview videos, tell me what you learned in the course. In addition to history of diet particulars, don't forget the big picture questions (like the Course Goals!), such as:
+Using specific examples from the readings AND connecting themes across the course (as the overview videos should help with), tell me what you learned in the course. In addition to history of diet particulars, don't forget big picture questions (like the Course Goals!), such as:
 - How has dietary advice stayed the same over the centuries? How has it remained the same?
 - How is your understanding of how expertise is created different than before? 
 - How can you analyze the rhetoric of diet and health differently now? 
