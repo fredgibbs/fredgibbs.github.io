@@ -30,9 +30,9 @@ Allow me to emphasize that you should not simply summarize course topics and the
 This isn't a writing class so you're not getting evaluated on elegant prose. So, use AI to help smooth your writing as long as the ideas are your own. AI or not, your writing must be clear enough that I can follow your argument and your survey of course themes. Your final reflection should be well thought out and carefully written, not a stream of consciousness off-the-cuff here’s-what-I-remember type thing. 
 
 ## Make an argument for a grade
-The third and optional component is to make a brief argument for what letter grade you should get for the course. It's maybe a weird request for a final, but there is a specific reason: your effort to learn, and what you actually did learn, might not be represented in your final point tally. This assignment gives you a chance to argue that you've put more work in or learned more than your numbers indicate.
+The optional third component is to make a brief argument for what letter grade you should get for the course. It's maybe a weird request for a final, but there is a specific reason: your effort to learn, and what you actually did learn, might not be represented in your final point tally. This assignment gives you a chance to argue that you've put more work in or learned more than your numbers indicate.
 
-To be clear, you aren't necessarily going to get whatever grade you ask for. But if you have gotten lower scores, but write a very smart final that uses lots of examples from the readings as evidence for your familiarity with them and connects reading material as done in the overview vidfeos, you will likely get a higher grade than your raw point total suggests.
+To be clear, you aren't necessarily going to get whatever grade you ask for. However, if you have gotten some lower scores, but write a very smart final that uses lots of examples from the readings as evidence for your familiarity with them and connects reading material as done in the overview vidfeos, you will likely get a higher grade than your raw point total equates to.
 
 
 
