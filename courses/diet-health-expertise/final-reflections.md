@@ -39,7 +39,7 @@ To be clear, you aren't necessarily going to get whatever grade you ask for. How
 ## Pro tips
 
 ### Take time to review
-Before you start writing, invest some time to REVISIT THE READINGS. This does not mean re-reading them, but just reminding yourself what you've read, or maybe reading a little more of something you could only skim before. Course videos can be tedious, but they try to pull together broader themes and explain how different weeks and topics fit together. Seeing some of the first readings after having done the course is a very different experience than when you first read them.
+Before you start writing, invest some time to REVISIT THE READINGS. This does not mean re-reading them, but just reminding yourself what you've read, or maybe reading a little more of something you could only skim before. Course videos can be tedious, but they try to pull together broader themes and explain how different weeks and topics fit together, which the readings often don't do at all. Seeing some of the first readings after having done the course is a very different experience than when you first read them.
 
 
 ### Be Specific
@@ -51,7 +51,7 @@ I hope you will use your final reflection to CONNECT DIFFERENT TOPICS AND THEMES
 
 
 ### Make an impression; 50 points go a long way
-I know everyone is fried at this point, and it's therefore tempting to just bulldoze through the assignment to be done with the course. I GET IT! (and I've done it, too.) But taking some time to think back through the course makes a big difference in what you take away from it. I wouldn't bother with this assignment if I didn't think it makes a big impact.
+I know everyone is fried at this point, and it's therefore tempting to just bulldoze through the assignment to be done with the course. I GET IT! (and I've done it, too.) But taking some time to think back through the course makes a big difference in what you take away from it. I wouldn't bother with this assignment if I didn't think it makes a significant impact.
 
 
 ## Grading
