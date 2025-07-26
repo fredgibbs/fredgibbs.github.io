@@ -300,5 +300,5 @@ IMPORTANT: Don't get sidetracked by critiquing the diet presented in the article
 ## Week 5: Review and Reflection
 
 ## Mon -- Tue (7/28 - 7/29)
-- Course wrap-up video (link TBP)
+- [Course wrap-up video](https://youtu.be/4GO6Hl9ahMw)
 - Post your [final course reflection](final-reflections).
