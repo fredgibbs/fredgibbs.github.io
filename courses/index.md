@@ -6,6 +6,17 @@ description: "Regularly scheduled courses: Digital Heritage; Food + Technology +
 
 # Regular Courses
 
+
+{% include course-block.html
+slug="american-food"
+title="History of American Food (Fall 2025)"
+poster="images/american-food-ai.png"
+desc="When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. But what about American food? Is there such a thing? Does this concept even make sense anymore? How are ideas of nationalism, patriotism, regionalism, and freedom reflected in our foodways?
+<br><br>
+This course explores both historical and contemporary ways of thinking about 'American' food and the relationship between food and identity. We look at the changing meanings of food and foodways throughout US history, particularly how people have attached cultural values to certain foods yet rejected others, and how foodways are so frequently an expression of personal, community, and national values."
+%}
+
+
 {% include course-block.html
 slug="diet-health-expertise"
 title="Diet, Health, and Expertise (Summer 2025)"
@@ -17,14 +28,6 @@ Some guiding questions: How do dietary experts establish their expertise? Why ha
 
 
 
-{% include course-block.html
-slug="american-food"
-title="History of American Food (Fall 2025)"
-poster="images/american-food-ai.png"
-desc="When you think of Mexican food, or Italian, or Chinese, a range of dishes and ingredients immediately spring to mind. But what about American food? Is there such a thing? Does this concept even make sense anymore? How are ideas of nationalism, patriotism, regionalism, and freedom reflected in our foodways?
-<br><br>
-This course explores both historical and contemporary ways of thinking about 'American' food and the relationship between food and identity. We look at the changing meanings of food and foodways throughout US history, particularly how people have attached cultural values to certain foods yet rejected others, and how foodways are so frequently an expression of personal, community, and national values."
-%}
 
 
 

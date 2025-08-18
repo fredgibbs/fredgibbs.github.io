@@ -2,7 +2,7 @@
 layout: syllabus
 course-title: History of American Food
 course-slug: american-food
-term: Fall 2025
+term: Summer 2022
 number: HIST 413
 section: links-guides
 ---
@@ -16,7 +16,10 @@ This page contains a list of important links that appear on various places on th
 ## Readings
 - [our Zotero Group page](https://www.zotero.org/groups/2499167/american-food-unm/) (this is best for joining the course library)
 - [our Zotero Group Library page](https://www.zotero.org/groups/2499167/american-food-unm/library) (this is best for getting to the readings once you've joined the library)
-- Free online text: [How America Eats](https://research.ebsco.com/c/kov46v/search/details/wkgaeees55?db=nlebk)
+- [_How America Eats_](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results)
+
+## Videos
+- All these will be on the [course YouTube Channel](https://www.youtube.com/channel/UCeiHxkIHW5kM1hqofknf2ig).
 
 
 ## Assignment Guides

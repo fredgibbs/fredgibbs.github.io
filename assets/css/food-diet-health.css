@@ -404,7 +404,19 @@ ul.navigation {
 }
 
 #syllabus-new h1 {
-  font-size: 130%;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 3.2em;
+  font-weight: 700;
+  color: #8B4513;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  border-bottom: 4px solid #D2691E;
+  padding-bottom: 0.2em;
+  margin-bottom: 0.5em;
+  background: linear-gradient(45deg, #F4A460, #DEB887);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
   nav {

@@ -2,10 +2,12 @@
 layout: syllabus
 course-title: History of American Food
 course-slug: american-food
-term: Fall 2025
+term: Summer 2021
 number: HIST 413
 section: links-guides
 ---
+
+
 
 # Cookbook Analysis Guide
 
@@ -21,7 +23,7 @@ Your job is to compare the cookbooks in terms of what they discuss, what they do
 
 
 ## Basics
-- ~800 words. But quality is more important than quantity.
+- ~700 words. But quality is more important than quantity.
 - At the top of your essay, put a functional hyperlink to the cookbooks you are discussing.
 - Apply the readings to your analysis of a historic cookbook based on the questions below. We've talked a lot of about attitudes toward ingredients and dishes, as well as how food is used to signal social status and nationality. How does (or not) your cookbook illustrate the issues we've been discussing?
 - It is probably easiest to organize your essay by theme/topic rather than writing about one book and then the other. Organizing your essay by topic makes it way easier to compare/contrast the books.
