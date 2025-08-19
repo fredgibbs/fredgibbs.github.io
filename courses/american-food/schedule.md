@@ -96,6 +96,9 @@ Tell me what you learned about the notion of authenticity this week. You need to
   - In the early pages, look for how corn figured into different cultural value systems
   - In the section you're skimming: What do the recipes do? What's the point? They illustrate through specific examples (maybe too many) how many Native American culinary traditions were incorporated into English traditions, how English traditions adapted to new geographic circumstances, and how many Native American traditions were gradually were assimilated into what would be considered quintessentially American dishes (Riinjun bread into Boston Brown Bread).
 
+{% include alert.html class='danger' title='Reading / Discussion Quiz' text="
+This quiz examaines early food consumption in early America, how food and personal/community/national identity were intertwined (as we see in attitudes about corn) and how meanings of food can be utterly transformed over time.
+"%}
 
 
 ### Sep 11: More Corn
