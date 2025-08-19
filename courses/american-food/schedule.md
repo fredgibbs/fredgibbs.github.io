@@ -210,7 +210,7 @@ Today we look at an interesting early connection between food, health, and techn
 - Blake Hatton, [The Early Years of American Ready to Eat Breakfast Cereal: The Breakfast Cereal Revolution Until 1930](https://scalar.usc.edu/works/early-years-of-ready-to-eat-breakfast-cereal/index).
 - Jaya Saxena, [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html). This is fun for for its focus on advertising.
 
-{% include alert.html class='danger' title='Reading Quiz' text="
+{% include alert.html class='danger' title='Weekly Reflection' text="
 "%}
 
 
