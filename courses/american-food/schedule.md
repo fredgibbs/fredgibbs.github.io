@@ -1,7 +1,7 @@
 ---
 title: HAF Schedule
 layout: syllabus
-course-title: History of American Food
+course-title: American Food
 course-slug: american-food
 term: Fall 2025
 number: HIST 413

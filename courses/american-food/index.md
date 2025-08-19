@@ -32,7 +32,7 @@ While the history of food in the U.S. runs throughout the course, the main goal 
 
 
 ## Learning Objectives
-{% include alert.html class='info' title='' text="
+{% include alert.html class='info' title='These matter!' text="
 Learning objectives are pretty standard for syllabi, so much so that they can become meaningless. But I think they are very important, and I want to be sure THEY ARE CLEARLY VISIBLE. Literally everything we do in this class works toward one or more of these goals.
 "%}
 
