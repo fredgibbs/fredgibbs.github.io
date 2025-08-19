@@ -169,7 +169,7 @@ html body #syllabus h1, html body #syllabus h2 {
 /* Alert boxes integration */
 #syllabus .alert {
   margin: .5rem 0;
-  padding: 0.5rem 1rem;
+  padding: 0.3rem 1rem;
   border-radius: 6px;
   border-left: 4px solid;
   line-height: 1.2;

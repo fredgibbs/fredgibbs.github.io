@@ -49,6 +49,10 @@ The goal for today is to complicate the idea of "American" food.  There are an u
 - Ruth Tobias, [Is There Such a Thing as 'American' Food?](https://www.tastingtable.com/culture/national/defining-american-food-cuisine). This article touches on culinary/cultural appropriation, which is a topic we cover in some depth in a few weeks, so focus for no
 - Sidney Mintz, "Eating American". (Remember, if there's no link, it's in the Zotero library). This is easily the most controversial piece this week, suggesting there is no such thing as American Cuisine. We'll discuss in class how much you agree or disagree with his argument.
 
+{% include alert.html class='danger' title='Reading Quiz' text="
+Again, you'll find quizzes are infinitely easier after attending class.
+"%}
+
 
 ### Aug 28: National Cuisines
 Today we'll broaden out our discussion of American food to discuss national cuisine generally.
@@ -105,8 +109,8 @@ Tell me what you learned about the notion of authenticity this week. You need to
 - The other kind of corn you like to eat has a non-porous hull. If you heat the kernel, the water in the kernel turns to steam, expands, and [turns inside out really slowly](https://www.youtube.com/watch?v=FSZd33awqQk), so you can munch on the now-puffy starchy interior.
 "%}
 
-{% include alert.html class='danger' title='Reading Quiz' text="
-This quiz covers early food consumption in early America, how food and personal/community/national identity were intertwined (as we see in attitudes about corn) and how meanings of food can be utterly transformed over time.
+{% include alert.html class='danger' title='Weekly Reflection' text="
+Tell me about early food consumption in early America, how food and personal/community/national identity were intertwined (as we see in attitudes about corn) and how meanings of food can be utterly transformed over time. Remember, provide specific examples from OUR readings!
 "%}
 
 
@@ -125,7 +129,7 @@ This quiz covers early food consumption in early America, how food and personal/
 - James E. McWilliams, "'How Unripe We Are'", _Food, Culture & Society_ 8.2 (2005): 143–60.
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-What did you learn from the readings this week? Remember the goal of these reflections is to show your familiarity with the readings---BOTH of them, as they are quite distinct. The more you can describe, the higher your score will be, so you should aim to cover a range of topics that are prominent in the readings. The reading descriptions above might help you identify key themes that are worth elaborating on.
+What did you learn from the readings this week? Remember the goal of these reflections is to show your familiarity with the readings. The reading descriptions above might help you identify key themes that are worth elaborating on.
 "%}
 
 
@@ -150,9 +154,14 @@ This quiz focuses on instances when AND WHY food traditions were blending togeth
 ## 7: Sep 30 + Oct 2 
 
 ### Sep 30: History from Cookbooks
-- Between the [Cookbook Analysis Guide](cookbook-analysis) and the readings for today that demonstrate exactly what you should do with your cookbooks, you already have everything you need to know.
+- Review the  [Cookbook Comparison Guide](cookbook-analysis) to get a sense of what we're working toward.
 - Ken Albala, [Cookbooks as Historical Documents](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-13). This highly skimmable chapter nicely lays out a process for interrogating cookbooks and reading in between the lines with many excellent examples.
 - Rachel A. Snell, [As North American as Pumpkin Pie: Cookbooks and the Development of National Cuisine in North America, 1796-1854](https://www.erudit.org/fr/revues/cuizine/2014-v5-n2-cuizine01533/1026771ar/). This title is misleading, as the article is more about how cookbooks can be used to create a national identity more than a cuisine. And that's precisely why it's interesting and useful to us in thinking about how to read old cookbooks. The analysis here is a great example of what I hope you'll do (on a much smaller scale) with your own cookbooks.
+
+{% include alert.html class='danger' title='Reading Quiz' text="
+This one's about using cookbooks as historical sources.
+"%}
+
 
 
 ### Oct 2: Using Cookbooks
@@ -168,6 +177,12 @@ This quiz focuses on instances when AND WHY food traditions were blending togeth
 - Mary Randolph [The Virginia Housewife](https://books.google.com/books?id=R4YEAAAAYAAJ)
 - Eliza Leslie, [Miss Leslie\'s Complete Cookery](https://books.google.com/books?id=KVL5oJA8IWsC)
 
+{% include alert.html class='warning' title='Nothing Due' text="
+There is nothing due today, but our readings and discussion today focus on how the Early American cookbooks we're looking at tell us about American food and values at the time. This will make your assignment for Tuesday WAY EASIER.
+"%}
+
+
+
 
 ## 8: Fall Break
 
@@ -175,7 +190,7 @@ This quiz focuses on instances when AND WHY food traditions were blending togeth
 Today we're talking about the comparison you're doing for your assignment. If you want a higher grade, you should come talk about the assignment. If you don't care or have other priorities, have a great break!
 
 {% include alert.html class='danger' title='Early Cookbook Comparison' text="
-Follow the [Cookbook Comparison Guide](cookbook-analysis). Be sure to submit your analysis on Canvas before you call it a 1/2 semester!
+Follow the [Cookbook Comparison Guide](cookbook-analysis). Be sure to submit your analysis on Canvas before you start your Break!
 "%}
 
 ### Oct 9: FALL BREAK
@@ -209,11 +224,11 @@ The idea that we should make decisions on what to eat based on a supposedly obje
 - Katherine Turner, _How the Other Half Ate_ (Ch. 1: The Problem of Food), ebook pp. 14--39. [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)] This book gives us excellent background on working-class life in the U.S. around 1900. There is way more detail than we need (but helps ground the analysis in specific examples as I'm always asking you to do), so be sure you're reading to grasp the big picture of who the working class are, how they eat, and what they value (and don't) in food.
 
 ### Oct 23: Scientific Moralization
-- Charlotte Biltekoff, _Eating Right in America_ (Ch. 2: Scientific Moralization), 13--44. This reading illustrates how early nutritional scientists and social reformers tried to contain and order the chaos of diverse tastes, preferences, and eating habits of all the different people immigrating to the U.S. from the 1880s to the 1920s. The emphasis on dietary habits was a way of creating/maintaining a more consistent societal fabric. In the minds of social reformers, there was too much cultural and culinary diversity; the country needed a standard way of eating to make a stronger and more unified, more civilized bodies of citizens. Note how this is somewhat contrary to the blending/adaptation narrative we've read about at times with respect to various food traditions. Biltekoff claims that all dietary advice has a strong moral component to it. I disagree that all dietary advice is _necessarily_ moral, but I would say it USUALLY has a significant moral component, even as we might suppose that the language of science is objective. But we have to remember objective metrics are _always subjective_ in how they are applied and valued.
+- Charlotte Biltekoff, _Eating Right in America_ (Ch. 2: Scientific Moralization), 13--44. This reading illustrates how early nutritional scientists and social reformers tried to contain and order the chaos of diverse tastes, preferences, and eating habits of all the different people immigrating to the U.S. from the 1880s to the 1920s. The emphasis on dietary habits was a way of creating/maintaining a more consistent societal fabric. In the minds of social reformers, there was too much cultural and culinary diversity; the country needed a standard way of eating to make a stronger and more unified, more civilized bodies of citizens. Note how this is somewhat contrary to the blending/adaptation narrative we've read about at times with respect to various food traditions. Biltekoff claims that all dietary advice has a strong moral component to it. 
 
 
-{% include alert.html class='danger' title='Reading Quiz' text="
-Just to make sure you're reading the syllabus and red boxes: You'll read about Wilbur Atwater and his work on nutrition in the late nineteenth century. But you might wonder why vitamins aren't discussed in more depth, but (as very briefly mentioned in the article) that's because they weren't discovered yet and the nutritive value of food was determined by other variables.
+{% include alert.html class='danger' title='Weekly Reflection' text="
+To what extent to agree that all dietary advice is _necessarily_ moral? Isn't science and nutrition objective?
 "%}
 
 
@@ -234,7 +249,7 @@ Industrializing Meat
   - Sorry for all the partial sections here, but the PDF is just the pages you need to read (the book tends to go off on lots of cool tangents, so we skip around to stay on topic). 
   - This looks like a crazy amount of reading, but the physical pages and number of words on them are quite small, and many pages are recipes that you can skip over. It goes by really fast, and it's a fun non-academic read.
 
-{% include alert.html class='danger' title='Meat Quiz' text="
+{% include alert.html class='danger' title='Reading Quiz' text="
 The usual.
 "%}
 
@@ -251,6 +266,9 @@ The usual.
 - Menaka Wilhelm, [The Far Out History Of How Hippie Food Spread Across America](https://www.npr.org/sections/thesalt/2018/01/23/579186110/the-far-out-history-of-how-hippie-food-spread-across-america)
 
 
+{% include alert.html class='danger' title='Reading Quiz' text="
+I'm not sure what's happening this week, but there will be some sort of quiz, probably.
+"%}
 
 
 ## 13: Nov 11 + 13
@@ -306,6 +324,10 @@ Just one meeting this week, and we're going back in time a little to examine the
 - Philip Deloria, “[The Invention of Thanksgiving](https://www.newyorker.com/magazine/2019/11/25/the-invention-of-thanksgiving)”, _New Yorker_, 95.37 (November 25, 2019): 70--74. [Also in Zotero if the link doesn't work.]
 - Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167--91.
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/). This quick read serves two purposes: it's a nice overview of what food were likely available at the harvest celebration of 1621. And it's a good example of uncritical food history that focuses entirely on food without much of the historical context (neither in the 1600s or 1900s).
+
+{% include alert.html class='danger' title='Reading Quiz' text="
+One last readings + discussion quiz! 
+"%}
 
 
 ### Nov 27: THANKSGIVING!
