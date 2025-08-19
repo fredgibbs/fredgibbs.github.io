@@ -303,8 +303,8 @@ We've already looked at the intersection of food traditions in the Southwest, an
 - Helen Zoe Veit, _Modern Food, Moral Food_ (6: Americanizing the American Diet), 123--56.
 - Amy Bentley, "From Culinary Other to Mainstream America: Meanings and Uses of Southwestern Cuisine", in _Culinary Tourism_ (ed. Lucy M. Long), University Press of Kentucky (2013), 209--223.
 
-{% include alert.html class='danger' title='Reading reflection' text="
-It's easy to characterize the blending of food traditions simply as everything going into the good ol' American melting pot. But what do these articles suggest we can learn about American foodways if we look more closely? In other words, how do these articles suggest ideas about diffusion that we haven't seen before?
+{% include alert.html class='danger' title='Reading/Discussion Quiz' text="
+It's easy to characterize the blending of food traditions simply as everything going into the good ol' American melting pot. This quiz examines how these articles suggest ideas about diffusion that we haven't seen before.
 "%}
 
 
