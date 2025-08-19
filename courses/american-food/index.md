@@ -41,6 +41,10 @@ Learning objectives are pretty standard for syllabi, so much so that they can be
 - Become more critical consumers of writing about food, whether about cooking, dieting, authenticity, appropriation, production, etc.
 - Think more critically and deeply about the uses and meanings of food and food choices both historically and in everyday life.
 
+{% include alert.html class='warning' title='The Big Picture' text="
+Food history is not really about learning what people ate. That's a means to an end, and the end is more critical thinking about food, identity, and culture.
+"%}
+
 
 ## Color Guide
 {% include alert.html class='danger' title='Red boxes' text="
@@ -118,14 +122,11 @@ If you ever want more feedback, PLEASE EMAIL ME and ask for it. I will be more t
 - AI is awesome! You should feel free to experiment with it as a tool for helping you in the course.
 - However, you must use it in accordance with UNM's academic integrity policy, meaning you cannot submit AI-generated work as your own! 
 - **All of your work needs to differentiate itself from a generic AI response.** You can do this easily if you draw exclusively from course material (readings, class discussions, etc), which AI will not do if it composes your response for you. Very general responses and reponses that reference material we don't cover makes it easy to spot inappropriate use of AI! 
+- Please ask for help in understanding and avoiding plagiarism (passing the work or words of others---including AI---off as your own) or other forms academic dishonesty. Doing something dishonest in a class or on an assignment can lead to serious academic consequences, including failing grades and expulsion from the University. 
+- You should be familiar with [UNM’s Policy on Academic Dishonesty and the Student Code of Conduct](https://pathfinder.unm.edu/code-of-conduct.html) which outline academic misconduct defined as plagiarism, cheating, fabrication, or facilitating any such act.
 
 #### Bottom line: let AI help polish your writing, don't use it to think for you. 
 
-You should be familiar with [UNM’s Policy on Academic Dishonesty and the Student Code of Conduct](https://pathfinder.unm.edu/code-of-conduct.html) which outline academic misconduct defined as plagiarism, cheating, fabrication, or facilitating any such act.
-
-
-### Academic Honesty
-Please ask for help in understanding and avoiding plagiarism (passing the work or words of others---including AI---off as your own) or other forms academic dishonesty. Doing something dishonest in a class or on an assignment can lead to serious academic consequences, including failing grades and expulsion from the University. Come talk with me about your concerns or needs for academic flexibility or talk with support staff at one of our [student resource centers](https://students.unm.edu/find-your-pack/resource-centers.html) before you do something that may endanger your ability to complete your degree.
 
 
 ### Get your grade
