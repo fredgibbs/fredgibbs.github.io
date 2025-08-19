@@ -11,11 +11,12 @@ section: home
 # History of American Food
 
 ## Logistics
-- HIST 413
-- Fall 2025
+- Course: HIST 413
+- Term: Fall 2025
 - 3 Credit Hours
-- T, Th 11 - 12:15
-- Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
+- Meetings: T, Th 11 -- 12:15 @ Dane Smith Hall 234
+- Professor: Fred Gibbs \ fwgibbs@unm.edu 
+- Student Hours: Th 9:30 -- 10:30 @ Mesa Vista 1077
 
 
 {% include alert.html class='info' title='Getting Started' text="
