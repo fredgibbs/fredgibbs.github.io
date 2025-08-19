@@ -1,7 +1,7 @@
 ---
 title: HAF Home
 layout: syllabus
-course-title: History of American Food
+course-title: American Food
 course-slug: american-food
 term: Fall 2025
 number: HIST 413
@@ -121,7 +121,11 @@ If you ever want more feedback, PLEASE EMAIL ME and ask for it. I will be more t
 ### AI Policy & Academic Integrity
 - AI is awesome! You should feel free to experiment with it as a tool for helping you in the course.
 - However, you must use it in accordance with UNM's academic integrity policy, meaning you cannot submit AI-generated work as your own! 
+
+{% include alert.html class='warning' title='Transcend the Model' text="
 - **All of your work needs to differentiate itself from a generic AI response.** You can do this easily if you draw exclusively from course material (readings, class discussions, etc), which AI will not do if it composes your response for you. Very general responses and reponses that reference material we don't cover makes it easy to spot inappropriate use of AI! 
+"%}
+
 - Please ask for help in understanding and avoiding plagiarism (passing the work or words of others---including AI---off as your own) or other forms academic dishonesty. Doing something dishonest in a class or on an assignment can lead to serious academic consequences, including failing grades and expulsion from the University. 
 - You should be familiar with [UNM’s Policy on Academic Dishonesty and the Student Code of Conduct](https://pathfinder.unm.edu/code-of-conduct.html) which outline academic misconduct defined as plagiarism, cheating, fabrication, or facilitating any such act.
 
