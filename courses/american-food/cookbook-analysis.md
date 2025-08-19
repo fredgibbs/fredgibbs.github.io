@@ -7,7 +7,7 @@ number: HIST 413
 section: links-guides
 ---
 
-# Cookbook Analysis Guide
+# Cookbook Comparison Guide
 
 ## Objective
 Illustrate and explain how have cookbooks represented cultural values and how have they been used to construct particular identities. BE SURE to use examples from early cookbooks!
@@ -16,6 +16,8 @@ Illustrate and explain how have cookbooks represented cultural values and how ha
 Pick TWO books from [this collection](https://babel.hathitrust.org/cgi/mb?c=1934413200;a=listis;sort=date_a;sz=100), and make sure they are BEFORE 1880. After that, there tends to be more variety than we are prepared to deal with. Spending a few minutes finding books that you actually find interesting (and have something to say about) makes the assignment MUCH easier and more effective as a learning exercise. Click the "Full View" link to actually see the cookbook; if it doesn't work for some reason, just choose another one.
 
 Your job is to compare the cookbooks in terms of what they discuss, what they don't, tone, style, ingredients, recipes, overall content (many of these books are about way more than cooking).
+
+**Why TWO books?** Because the variety of cookbooks is remarkable! They illustrate the wide variety of values and approaches to the genre. That said, you might end up comparing cookbooks that are quite similar. This is also fun because then you can reflect on their shared values and reasons for variation.
 
 **DO NOT SUMMARIZE EACH BOOK!** The point of the exercise here is to find and explain similarities and differences between the books.
 

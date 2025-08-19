@@ -1,3 +1,26 @@
+@media (max-width: 767px) {
+  #syllabus .alert {
+    padding-top: 0.3rem !important;
+    padding-bottom: 0.3rem !important;
+  }
+}
+@media (max-width: 767px) {
+  html body .navbar {
+    position: relative !important;
+    top: auto !important;
+    z-index: auto !important;
+  }
+}
+html body #syllabus h1, html body #syllabus h2 {
+  font-family: 'Josefin Sans', sans-serif !important;
+}
+#syllabus h1, #syllabus h2 {
+  font-family: 'Josefin Sans', sans-serif !important;
+}
+/* Reduce top margin for Quick Navigation sidebar header */
+.scroll-spy-nav h4 {
+  margin-top: 0.5rem !important;
+}
 /*****************************************************************************/
 /*
 /* Syllabus Styles for Course Pages
@@ -131,7 +154,8 @@
 /* Code and emphasis */
 #syllabus em {
   font-style: italic;
-  color: #333;
+  font-weight: 500;
+  color: inherit;
 }
 
 #syllabus code {
@@ -196,7 +220,7 @@
 
 /* SIMPLE LAYOUT - STARTING OVER */
 .syllabus-container {
-  max-width: 1200px;
+  max-width: 55rem;
   margin: 0 auto;
   padding: 0 2rem;
 }
@@ -221,22 +245,19 @@
   margin-bottom: 1rem;
 }
 
-/* Video links styling */
+/* Video links: remove special button styling; add a small play icon */
 #syllabus a[href*="youtu"] {
-  background-color: #8B4513;
-  color: white;
-  padding: 0.3em 0.6em;
-  border-radius: 4px;
-  text-decoration: none;
-  font-weight: 500;
-  display: inline-block;
-  margin: 0.2em 0;
-  transition: background-color 0.3s ease;
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  display: inline;
+  margin: 0;
 }
 
-#syllabus a[href*="youtu"]:hover {
-  background-color: #A0522D;
-  border-bottom: none;
+#syllabus a[href*="youtu"]::after {
+  content: "\00A0\25B6"; /* non-breaking space + play icon */
+  color: inherit;
+  font-weight: 700;
 }
 
 /* Responsive design */
@@ -456,7 +477,6 @@
   .syllabus-container {
     margin-left: 300px;
     margin-right: 2rem;
-    max-width: none;
     padding: 0;
   }
 }

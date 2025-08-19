@@ -1,4 +1,5 @@
 ---
+title: HAF Home
 layout: syllabus
 course-title: History of American Food
 course-slug: american-food
@@ -76,11 +77,12 @@ We use a tool called [Zotero](http://zotero.org) to organize and provide access 
 ## Course work
 This lists the kinds of assignments you'll be doing, with an approximate percent of your final grade (exact points are computed in Canvas)
 - Class Participation (10%)
-- Reading/lecture quizzes (20%)
+- Reading/discussion quizzes (10%)
 - [Reading reflections](reading-reflections) (20%)
 - [Historic Cookbook Analysis](cookbook-analysis) (15%)
 - [Food Blog Analysis](food-blog-analysis) (15%)
-- [Final Course Reflection](final-course-reflection) (20%)
+- NM Food Stories (guide coming soon) (15%)
+- [Final Course Reflection](final-course-reflection) (15%)
 
 
 ### Grading Scale
@@ -113,40 +115,41 @@ If you ever want more feedback, PLEASE EMAIL ME and ask for it. I will be more t
 
 ### AI Policy & Academic Integrity
 - AI is awesome! You should feel free to experiment with it as a tool for helping you in the course.
-- You must use it in accordance with UNM's academic integrity policy, meaning you cannot submit AI-generated work as your own! 
-- All of your work needs to differentiate itself from a generic AI response. You can do this easily if you draw exclusively from course material (readings, class discussions, etc), which AI will not do if it composes your response for you. Very general responses and reponses that reference material we don't cover makes it easy to spot inappropriate use of AI! 
+- However, you must use it in accordance with UNM's academic integrity policy, meaning you cannot submit AI-generated work as your own! 
+- **All of your work needs to differentiate itself from a generic AI response.** You can do this easily if you draw exclusively from course material (readings, class discussions, etc), which AI will not do if it composes your response for you. Very general responses and reponses that reference material we don't cover makes it easy to spot inappropriate use of AI! 
+
+#### Bottom line: let AI help polish your writing, don't use it to think for you. 
 
 You should be familiar with [UNM’s Policy on Academic Dishonesty and the Student Code of Conduct](https://pathfinder.unm.edu/code-of-conduct.html) which outline academic misconduct defined as plagiarism, cheating, fabrication, or facilitating any such act.
 
 
 ### Academic Honesty
-Please ask for help in understanding and avoiding plagiarism (passing the work or words of others off as your own) or other forms academic dishonesty. Doing something dishonest in a class or on an assignment can lead to serious academic consequences, including failing grades and expulsion from the University. Come talk with me about your concerns or needs for academic flexibility or talk with support staff at one of our [student resource centers](https://students.unm.edu/find-your-pack/resource-centers.html) before you do something that may endanger your ability to complete your degree.
+Please ask for help in understanding and avoiding plagiarism (passing the work or words of others---including AI---off as your own) or other forms academic dishonesty. Doing something dishonest in a class or on an assignment can lead to serious academic consequences, including failing grades and expulsion from the University. Come talk with me about your concerns or needs for academic flexibility or talk with support staff at one of our [student resource centers](https://students.unm.edu/find-your-pack/resource-centers.html) before you do something that may endanger your ability to complete your degree.
 
 
 ### Get your grade
 Some of you just want a C to fulfill a UNM requirement. Some of you want a B to maintain a solid GPA. Some of you want an A because top grades are really important to you. Put in the work that justifies the grade you want for each assignment, and if you're not getting the scores you want, LET ME KNOW. Usually a few minor tweaks go a long way towards improving your scores. Please know I want to do everything I can to ensure that the work you're putting in matches the grade you want.
 
 {% include alert.html class='warning' title='Sh!t happens' text="
-If life gets overwhelming during the course (and _something_ will come up!), it's easy to miss a few assignment and feel you're hopelessly behind. Rather than assume the worst, let's talk about how we can accommodate your circumstances, including shifting deadlines, figuring out a target grade that you can meet with reduced assignments, switching to CR/NC grade mode, taking an Incomplete to buy a little extra time, etc. Please get in touch and let me know what would help you!
+If life gets overwhelming during the course (and _something_ will come up!), it's easy to miss a few classes and assignments and then drift away because feel you're hopelessly behind. Don't do that! let's talk about how we can accommodate your circumstances, including shifting deadlines, figuring out a target grade that you can meet with reduced assignments, switching to CR/NC grade mode, taking an Incomplete to buy a little extra time, etc. Please get in touch and let me know what would help you!
 "%}
 
 
 ### Extra Credit
-On all quizzes and assignments, the goal is to show how much you learned from the reading(s). I try to highlight what I think are the most important points in the questions themselves, but there's lots of fun stuff to learn. Writing more than the question requires, if clearly informed by the readings, will usually get you extra credit points for that question. If you're really into a topic and have a little extra time for an assignment, it's an easy way to make sure you're on track for the grade you want. These add up quickly!
+On all the assignments, the goal is to show how much you learned from the reading(s). Writing more than the quiz question or assignment requires, if clearly informed by the readings, will usually get you extra credit points for that question. If you're really into a topic and have a little extra time for an assignment, it's an easy way to make sure you're on track for the grade you want. These add up and make a difference!
 
-If you are worried you are falling just short of a grade you're aiming for, there is an easy way to ensure you get it! Do a [Food Documentary Critique](food-documentary-analysis) (worth up to 10 points). WARNING: This critique assignment is EXTRA. You can do this ONLY if all other work is turned in on time. This should be emailed to me directly by July 5 (when all course work is due).
+If you are worried you are falling just short of a grade you're aiming for, there is an easy way to ensure you get it! Do a [Food Documentary Critique](food-documentary-analysis) (worth up to 15 points). WARNING: This critique assignment is EXTRA. You can do this ONLY if all other work is turned in on time. This should be emailed to me directly.
 
 
 ### Familiarity over mastery
-If you peek at the schedule page, you might think there is a lot of reading, especially comapred to non-humanities courses. You're right!
+If you peek at the schedule page, you might think there is a lot of reading,  comapred to non-humanities courses. You're right! There's usually at least one article or book chapter for each class meeting.
 
-Almost all readings are meant for a broad (largely non-academic) audience and therefore are relatively quick reads. At the same time, most are smart, articulate, and give us plenty to talk about, especially as we put them in conversation with each other, and how they tell very different stories of American Food. **For almost everything we read, we're reading to ENGAGE with it, not because it's right.** There is a LOT to disagree with across the readings, and we don't all have to agree on anything.
+One of the main skills we develop in this course is sorting through a long reading to extract the main point and evaluate argument and evidence. **For almost everything we read, we're reading to ENGAGE with it, NOT because it's right.** There is a LOT to disagree with across the readings, and we don't all have to agree on everything.
 
+You cannot possibly read every word, or every page, or master all the ideas, and that's just fine. **I expect you to gain a familiarity across all the readings so that you can write a thoughtful response about them.** Because we cover a lot of ground over the whole semester, broad familiarity is far more important than specific details.
 
 {% include alert.html class='info' title='Rethinking Literacy' text="
-True literacy is not just understanding words and sentences. It's being able to read relatively quickly, think critically about what you read, and take away something useful from it (or decide you don't need to). That's one of the things we're deliberately practicing in this course.
-
-You cannot possibly read every word, or every page, or master all the ideas, and that's just fine. **I expect you to gain a familiarity across all the readings so that you can write a thoughtful response about them.** Because we're covering so much ground so quickly, broad familiarity is far more important than specific details.
+True literacy is not just understanding words and sentences. It's being able to read relatively quickly, think critically about what you read, and take away something useful from it (or decide you don't need to). That's one of the things we're deliberately practicing in this course. 
 "%}
 
 

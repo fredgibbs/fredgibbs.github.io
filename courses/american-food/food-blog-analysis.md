@@ -2,15 +2,14 @@
 layout: syllabus
 course-title: History of American Food
 course-slug: american-food
-term: Summer 2021
-number: HIST 413
+term: Fall 2025
 section: links-guides
 ---
 
 # Food Blog Analysis
-This assignment asks you to apply the perspectives of the course to critiquing and analyzing how food is discussed in contemporary food blogs. It's quite similar to the early cookbook analysis we did in Week 2. (remember then?!)
+This assignment asks you to apply the perspectives of the course to critiquing and analyzing how food is discussed in contemporary food blogs. It's quite similar to the early cookbook comparison.
 
-This assignment is not merely an exercise in description! I'm interested in your ANALYSIS. I want you to **use the course to identify what's important to the authors, how they try to achieve that, and what it says (or doesn't) about the idea of American food.**
+This assignment is NOT an exercise in description! I'm interested in your ANALYSIS. I want you to **use the course to identify what's important to the authors, how they try to achieve that, and what it says (or doesn't) about the idea of American food.**
 
 ## Basics
 - ~800 words. But quality is more important than quantity.
@@ -19,14 +18,14 @@ This assignment is not merely an exercise in description! I'm interested in your
 
 ## Method
 - Remind yourself what we did with the early cookbook analysis. You're basically doing the same thing here with a slight twist.
-- Identify at least THREE food blogs that you want to skim through (I think the assignment is more fun if you skim through a few more, since you'll have more to draw from).
+- Identify TWO food blogs that you want to skim through (I think the assignment is more fun if you skim through a few more, since you'll have more to draw from).
   - If you are already familiar with some blogs, feel free to use them.
   - If you don't know of any blogs right now, you can find collections of food blog links [here](https://americanfoodbloggers.com/) and [here](https://bloggingtips.com/best-food-blogs/) and [here](https://www.chefspencil.com/best-30-food-blogs-in-2020/). You'll notice there is a lot of overlap on these. The particular sites you use are of no consequence, but it's best to avoid super specialized ones for the purposes of this exercise.
 - Click through the blogs (especially the "about" pages, a handful of recipes, photography, etc) to get a sense of what each is trying to do. Think about tone, style, assumptions about food, cooking, etc.
 - Make sure you're addressing the questions below!
 
 
-## Questions to keep in mind while reading and writing
+## Questions to keep in mind
 - Who is the intended audience? (For instance: What do they (the audience) know? Are they intimidated by cooking? Are they already proficient cooks?)
 - What kind of assumptions does the author(s) make about cooking/cuisine/food?
 - What kind of larger themes do the blogs appeal to (exotic, health, comfort, economy, speed, etc)?

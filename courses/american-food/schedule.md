@@ -1,4 +1,5 @@
 ---
+title: HAF Schedule
 layout: syllabus
 course-title: History of American Food
 course-slug: american-food
@@ -29,15 +30,11 @@ Don't lose points by making assumptions. This quiz is due by Friday, but do it e
 "%}
 
 ### Aug 21: Challenges and Rewards of Food + History
-The whole course makes more sense when you understand how and why people study food the way they do. The Haley reading that argues we should resist the urge to romanticize the culinary past as is so often done in food media because: A) it's never that simple and B) the real history is far more interesting and revealing.
-
-
 - Warren Belasco, "Why study food?", from _Food: The Key Concepts_, 1--13.
 - Andrew P. Haley, "The Nation before Taste: The Challenges of American Culinary History", _The Public Historian_ 34.2 (2012): 53--78.
-- G. J. Fitzgerald and G. M. Petrick, "In Good Taste: Rethinking American History with Our Palates", _Journal of American History_ 95.2 (2008): 392--404.
 
-{% include alert.html class='danger' title='Why Study Food Quiz' text="
-Another quiz this week just to keep us on the same page. You'll find quizzes are infinitely easier after class.
+{% include alert.html class='danger' title='Why + How to Study Food Quiz' text="
+Another quiz this week to get us warmed up and shake up assumptions. You'll find quizzes are infinitely easier after attending class.
 "%}
 
 
@@ -47,7 +44,7 @@ Another quiz this week just to keep us on the same page. You'll find quizzes are
 ### Aug 26: American Food
 The goal for today is to complicate the idea of "American" food.  There are an unusually high number of readings for today, but they are all quite short and offer unique perspectives that are worth thinking about together.
 
-- _HAE_, xi--xv. _HAE_ refers to _How America Eats_ as described on the syllabus home page. You can access it for [free through UNM Libraries](https://unm-worldcat-org.libproxy.unm.edu/title/how-america-eats-a-social-history-of-us-food-and-culture/oclc/794361344&referer=brief_results).
+- _HAE_, xi--xv. (Remember that _HAE_ refers to _How America Eats_ as described with a link at the top of the page.)
 - _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
 - Ruth Tobias, [Is There Such a Thing as 'American' Food?](https://www.tastingtable.com/culture/national/defining-american-food-cuisine). This article touches on culinary/cultural appropriation, which is a topic we cover in some depth in a few weeks, so focus for no
 - Sidney Mintz, "Eating American". (Remember, if there's no link, it's in the Zotero library). This is easily the most controversial piece this week, suggesting there is no such thing as American Cuisine. We'll discuss in class how much you agree or disagree with his argument.
@@ -59,7 +56,7 @@ Today we'll broaden out our discussion of American food to discuss national cuis
   - Skim/skip over the long Russia example at the end, but do read the last paragraph! This is definitely the driest of the readings for this week, but it introduces a number of useful concepts to keep in mind as moving through the other readings.
 
 
-{% include alert.html class='danger' title='Reading reflection' text="
+{% include alert.html class='danger' title='Weekly reflection' text="
 1. Make sure you're familiar with the [reading reflection guide](reading-reflections).
 2. Drawing from ALL the readings: What are the most useful ideas for thinking about national cuisine that you noted? Can a national cuisine be defined by its diversity (as Lee and Tobias suggest)? Or does such diversity mean there really isn't an American cuisine (as Mintz suggests)? **Does the difficulty of defining a national cuisine complicate the idea of 'Americanness'?** In other words, does the difficulty in defining an American cuisine suggest the same difficulties in defining American anything?
 "%}
@@ -80,6 +77,10 @@ Almost everyone thinks about whether some kind of food or dish is "authentic" fr
 - Clarissa Wei, [What does authentic Chinese food even mean?](https://www.epicurious.com/ingredients/chinese-food-a-celebration-of-time-and-place)
 - Matthew Strohl, 'On Culinary Authenticity', _The Journal of Aesthetics and Art Criticism_, 77.2 (2019), 157--67.
 
+{% include alert.html class='danger' title='Weekly Reflection' text="
+Tell me what you learned about the notion of authenticity this week. You need to use the readings and provide specific quotes and examples. 
+"%}
+
 
 
 ## 4: Sep 9 + 11
@@ -99,7 +100,9 @@ Almost everyone thinks about whether some kind of food or dish is "authentic" fr
 
 
 {% include alert.html class='info' title='Corn' text="
-[Ever wonder what tassles are for?](https://www.youtube.com/watch?v=XEmbOFsqld8) This explains the reproduction and maturity of dent corn, the most common kind of corn grown in the US, mostly for animal feed. The corn on the cob you like slathered with butter is sweet corn, and it reproduces the same way, but loses less moisture and is, as you might guess, sweeter. The other kind of corn you like to eat is popcorn, which has a non-porous hull. If you heat the kernel, the water in the kernel turns to steam, expands, and [turns inside out really slowly](https://www.youtube.com/watch?v=FSZd33awqQk), so you can munch on the starchy interior.
+- Ever wonder what tassles are for?[This short video](https://www.youtube.com/watch?v=XEmbOFsqld8) explains the reproduction and maturity of dent corn, the most common kind of corn grown in the US, mostly for animal feed. 
+- The corn on the cob you like slathered with butter is sweet corn, and it reproduces the same way, but loses less moisture and (as you might guess) is sweeter. 
+- The other kind of corn you like to eat has a non-porous hull. If you heat the kernel, the water in the kernel turns to steam, expands, and [turns inside out really slowly](https://www.youtube.com/watch?v=FSZd33awqQk), so you can munch on the now-puffy starchy interior.
 "%}
 
 {% include alert.html class='danger' title='Reading Quiz' text="
@@ -168,13 +171,15 @@ This quiz focuses on instances when AND WHY food traditions were blending togeth
 
 ## 8: Fall Break
 
-### Oct 7: Cookbook Comparison
+### Oct 7: Cookbook Comparison Workshop
+Today we're talking about the comparison you're doing for your assignment. If you want a higher grade, you should come talk about the assignment. If you don't care or have other priorities, have a great break!
+
 {% include alert.html class='danger' title='Early Cookbook Comparison' text="
-Follow the [Cookbook Analysis Guide](cookbook-analysis).
+Follow the [Cookbook Comparison Guide](cookbook-analysis). Be sure to submit your analysis on Canvas before you call it a 1/2 semester!
 "%}
 
 ### Oct 9: FALL BREAK
-
+NO CLASS! Make some good food.
 
 
 ## 9: Oct 14 + 16
@@ -191,7 +196,6 @@ Today we look at an interesting early connection between food, health, and techn
 - Jaya Saxena, [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html). This is fun for for its focus on advertising.
 
 {% include alert.html class='danger' title='Reading Quiz' text="
-This quiz will draw equally from readings and video.
 "%}
 
 
@@ -226,7 +230,9 @@ Industrializing Meat
 
 
 ### Oct 30: Chicken
-- Emeyln Rude, _Tastes like Chicken_, 6--11; 27--39; 130--134; 141--160; 181--192. Sorry for all the partial sections here; the PDF is just the pages you need to read. The book tends to go off on lots of cool tangents, so we skip around to stay on topic. This looks like a crazy amount of reading, but the physical pages and number of words on them are quite small, and many pages are recipes that you can skip over. It goes by really fast, and it's a fun non-academic read.
+- Emeyln Rude, _Tastes like Chicken_, 6--11; 27--39; 130--134; 141--160; 181--192. 
+  - Sorry for all the partial sections here, but the PDF is just the pages you need to read (the book tends to go off on lots of cool tangents, so we skip around to stay on topic). 
+  - This looks like a crazy amount of reading, but the physical pages and number of words on them are quite small, and many pages are recipes that you can skip over. It goes by really fast, and it's a fun non-academic read.
 
 {% include alert.html class='danger' title='Meat Quiz' text="
 The usual.
@@ -237,7 +243,6 @@ The usual.
 
 
 ### Nov 4: 
-- [VIDEO LECTURE/OVERVIEW](https://youtu.be/n_87hWFCKyE)
 - Warren Belasco, _Appetite for Change_ (Oppositional Identities), 43--67.
 - Megan Elias, _Food on the Page_ (Oppositional Appetites), 145--176.
 
@@ -327,8 +332,6 @@ No readings for today, but crucial tips for succeess on your [final course refle
 
 
 ## Dec 12 Finals Due
- This final video will highlight some of the key themes and ideas that I hope will help you with your Final Course Reflection and even stick with you long after the course.
-
 Your FINAL Learning Reflection---over the WHOLE CLASS---needs to be turned in BY THE END OF TODAY. See the [Final Course Reflection Guide](final-course-reflection). I can't emphasize enough that this SHOULD NOT BE MERELY A SUMMARY of what we've covered. Instead, as the instructions explain in more detail, illustrate how your thinking about food has changed over the month, and how your submitted work justifies what you think should be your overall grade for the course.
 
 {% include alert.html class='danger' title='Final Course Reflection' text="
