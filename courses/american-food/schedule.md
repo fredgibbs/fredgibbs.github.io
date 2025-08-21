@@ -57,7 +57,7 @@ If we can have a fun discussion about the idea of American food, I'll cancel the
 ### Aug 28: National Cuisines
 Today we'll broaden out our discussion of American food to discuss national cuisine generally.
 - Alison K. Smith, [National Cuisines](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-25), from _The Oxford Handbook of Food History_ (2012). 
-  - Skim/skip over the long Russia example at the end, but do read the last paragraph! This is definitely the driest of the readings for this week, but it introduces a number of useful concepts to keep in mind as moving through the other readings.
+  - Skim/skip over the long Russia example at the end, but do read the last paragraph! This is definitely the driest of the readings for this week, but it introduces a number of useful concepts that help us get a bigger perspective on the topic.
 
 
 {% include alert.html class='danger' title='Weekly reflection' text="
