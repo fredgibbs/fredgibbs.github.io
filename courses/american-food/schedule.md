@@ -49,8 +49,8 @@ The goal for today is to complicate the idea of "American" food.  There are an u
 - Ruth Tobias, [Is There Such a Thing as 'American' Food?](https://www.tastingtable.com/culture/national/defining-american-food-cuisine). This article touches on culinary/cultural appropriation, which is a topic we cover in some depth in a few weeks, so focus for no
 - Sidney Mintz, "Eating American". (Remember, if there's no link, it's in the Zotero library). This is easily the most controversial piece this week, suggesting there is no such thing as American Cuisine. We'll discuss in class how much you agree or disagree with his argument.
 
-{% include alert.html class='danger' title='Reading Quiz' text="
-Again, you'll find quizzes are infinitely easier after attending class.
+{% include alert.html class='danger' title='Avoid the Quiz' text="
+If we can have a fun discussion about the idea of American food, I'll cancel the quiz for today. This means robust participation and clear engagement with the readings. Come prepared to discuss what assumptions and stereotypes go into ideas about American food and/or cuisine. Also consider some broader questions (that we'll get into Thursday in more detail) like can anything really be ascribed to a particular nation. What is national anything? What is it a shortcut for?
 "%}
 
 
