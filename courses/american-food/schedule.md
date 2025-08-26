@@ -62,7 +62,7 @@ Today we'll broaden out our discussion of American food to discuss national cuis
 
 {% include alert.html class='danger' title='Weekly reflection' text="
 1. Make sure you're familiar with the [reading reflection guide](reading-reflections).
-2. Drawing from ALL the readings: What are the most useful ideas for thinking about national cuisine that you noted? Can a national cuisine be defined by its diversity (as Lee and Tobias suggest)? Or does such diversity mean there really isn't an American cuisine (as Mintz suggests)? **Does the difficulty of defining a national cuisine complicate the idea of 'Americanness'?** In other words, does the difficulty in defining an American cuisine suggest the same difficulties in defining American anything?
+2. Drawing from the readings as a whole (not just Thursday): Which ways of thinking about national cuisine did you find most and least persuasive---and why? If someone references a kind of 'national' food, what questions should come to mind? Is there such thing as a 'national' food in general (whether American, Italian, Mexican)?
 "%}
 
 
