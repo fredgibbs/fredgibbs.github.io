@@ -76,13 +76,18 @@ Almost everyone thinks about whether some kind of food or dish is "authentic" fr
 
 
 ### Sep 4: Authenticity II
-- Jeffrey Pratt, "Food Values: The Local and the Authentic," 285--300.
-- Sara Kay, [Yelp Reviewers' Authenticity Fetish Is White Supremacy in Action](https://ny.eater.com/2019/1/18/18183973/authenticity-yelp-reviews-white-supremacy-trap).
+{% include alert.html class='warning' title='NO CLASS TODAY!' text="
+The semester is long; this week is short. Read the two SHORT assignments below (and enjoy the photos in the 2nd one!), and use them in your weekly reflection.
+"%}
+
+- Sara Kay, [Yelp Reviewers' Authenticity Fetish Is White Supremacy in Action](https://ny.eater.com/2019/1/18/18183973/authenticity-yelp-reviews-white-supremacy-trap). I don't agree with the conclusions of this article, but I want you to understand the argument. What else can an "authenticity fetish" represent?
 - Clarissa Wei, [What does authentic Chinese food even mean?](https://www.epicurious.com/ingredients/chinese-food-a-celebration-of-time-and-place)
-- Matthew Strohl, 'On Culinary Authenticity', _The Journal of Aesthetics and Art Criticism_, 77.2 (2019), 157--67.
+- CHALLENGE: Matthew Strohl, 'On Culinary Authenticity', _The Journal of Aesthetics and Art Criticism_, 77.2 (2019), 157--67.
+- CHALLENGE: Jeffrey Pratt, "Food Values: The Local and the Authentic," 285--300.
+
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-Tell me what you learned about the notion of authenticity this week. You need to use the readings and provide specific quotes and examples. 
+Tell me what you learned about the notion of authenticity this week. As always, show me that you're using the readings by providing specific quotes and examples, and SYNTHESIZING what the authors are doing. 
 "%}
 
 
