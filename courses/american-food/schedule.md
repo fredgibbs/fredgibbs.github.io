@@ -118,7 +118,7 @@ This quiz examaines early food consumption in early America, how food and person
 "%}
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-Tell me about early food consumption in early America, how food and personal/community/national identity were intertwined (as we see in attitudes about corn) and how meanings of food can be utterly transformed over time. Remember, provide specific examples from OUR readings!
+Tell me about early food consumption in early America, how food and personal/community/national identity were intertwined (as we see in attitudes about corn) and how meanings of food can be utterly transformed over time. In other words, what we can we learn from this history of corn? Remember, provide specific examples from OUR readings/discussion!
 "%}
 
 
@@ -142,26 +142,9 @@ What did you learn from the readings this week? Remember the goal of these refle
 
 
 
-
-
 ## 6: Sept 23 + 25
 
-### Sep 23: Expansion and Immigration
-- _HAE_, 57--87 (3: Expansion and Immigration).
-
-
-### Sep 25: Restaurants as Agents of Change
-- Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change”, _The Journal of Popular Culture_, 36.4 (2003): 669–86. As a complement to the _HAE_ chapter, this article vividly illustrates how a certain kind of cuisine is adopted, adapted, and transformed into the melting pot of American food. There is way more detail than we need here, but Barbas paints an intriguing portrait of the creation of Chinese American food, which I would say has been one of the most vibrant genres of cookbooks in the last few years.
-
-{% include alert.html class='danger' title='Reading Quiz' text="
-This quiz focuses on instances when AND WHY food traditions were blending together and when they were remaining distinct. It would be useful to think about the differences in tone between _HAE_ and the Barbas article.
-"%}
-
-
-
-## 7: Sep 30 + Oct 2 
-
-### Sep 30: History from Cookbooks
+### Sep 23: History from Cookbooks
 - Review the  [Cookbook Comparison Guide](cookbook-analysis) to get a sense of what we're working toward.
 - Ken Albala, [Cookbooks as Historical Documents](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-13). This highly skimmable chapter nicely lays out a process for interrogating cookbooks and reading in between the lines with many excellent examples.
 - Rachel A. Snell, [As North American as Pumpkin Pie: Cookbooks and the Development of National Cuisine in North America, 1796-1854](https://www.erudit.org/fr/revues/cuizine/2014-v5-n2-cuizine01533/1026771ar/). This title is misleading, as the article is more about how cookbooks can be used to create a national identity more than a cuisine. And that's precisely why it's interesting and useful to us in thinking about how to read old cookbooks. The analysis here is a great example of what I hope you'll do (on a much smaller scale) with your own cookbooks.
@@ -171,8 +154,7 @@ This one's about using cookbooks as historical sources.
 "%}
 
 
-
-### Oct 2: Using Cookbooks
+### Sept 25: Using Cookbooks
 - Harry Haff, _The Founders of American Cuisine: Seven Cookbook Authors, with Historical Recipes_ (2: Amelia Simmons), 21--33. We're looking at this as an example of how the author analyzes Simmons's cookbook, particularly the way the author comments on how explanation or ambiguities in the recipes reflect what readers would know or not know.
 - Barbara Ketcham Wheaton, "Cookbook as Resources for Social History". This chapter very nicely sketches out, with many diverse examples, how cookbooks function as windows onto history, including how and why they were used in the world.
 - Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_ (2: Culinary Tradition), 29--51. This provides a fascinating cultural background of cookbooks and their evolution. Honestly the first few sentences of each paragraph will give you enough background.
@@ -185,28 +167,36 @@ This one's about using cookbooks as historical sources.
 - Mary Randolph [The Virginia Housewife](https://books.google.com/books?id=R4YEAAAAYAAJ)
 - Eliza Leslie, [Miss Leslie\'s Complete Cookery](https://books.google.com/books?id=KVL5oJA8IWsC)
 
-{% include alert.html class='warning' title='Nothing Due' text="
-There is nothing due today, but our readings and discussion today focus on how the Early American cookbooks we're looking at tell us about American food and values at the time. This will make your assignment for Tuesday WAY EASIER.
+{% include alert.html class='danger' title='Cookbook comparison' text="
+Post your [cookbook comparison](cookbook-analysis) by SUNDAY NIGHT.
 "%}
 
+
+
+## 7: Sep 30 + Oct 2 
+
+### Sep 30: Expansion and Immigration
+- _HAE_, 57--87 (3: Expansion and Immigration).
+
+
+### Oct 2: Restaurants as Agents of Change
+- Samantha Barbas, “‘I’ll Take Chop Suey’: Restaurants as Agents of Culinary and Cultural Change”, _The Journal of Popular Culture_, 36.4 (2003): 669–86. As a complement to the _HAE_ chapter, this article vividly illustrates how a certain kind of cuisine is adopted, adapted, and transformed into the melting pot of American food. There is way more detail than we need here, but Barbas paints an intriguing portrait of the creation of Chinese American food, which I would say has been one of the most vibrant genres of cookbooks in the last few years.
+
+{% include alert.html class='danger' title='Reading Quiz' text="
+This quiz focuses on instances when AND WHY food traditions were blending together and when they were remaining distinct. It would be useful to think about the differences in tone between _HAE_ and the Barbas article.
+"%}
 
 
 
 ## 8: Fall Break
 
-### Oct 7: Cookbook Comparison Workshop
-Today we're talking about the comparison you're doing for your assignment. If you want a higher grade, you should come talk about the assignment. If you don't care or have other priorities, have a great break!
+### Oct 7 AND Oct 9: FALL BREAK
+NO CLASS! Make some good food. Argue about its authenticity. 
 
-{% include alert.html class='danger' title='Early Cookbook Comparison' text="
-Follow the [Cookbook Comparison Guide](cookbook-analysis). Be sure to submit your analysis on Canvas before you start your Break!
-"%}
-
-### Oct 9: FALL BREAK
-NO CLASS! Make some good food.
 
 
 ## 9: Oct 14 + 16
-Is anything more American than "health food" and cereal for breakfast? 
+Welcome back! Is anything more American than cereal for breakfast? 
 
 ### Oct 14: Improving Nature
 Today we look at an interesting early connection between food, health, and technology that still influences our food choices.
