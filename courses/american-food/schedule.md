@@ -118,7 +118,7 @@ This quiz examaines early food consumption in early America, how food and person
 "%}
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
-Tell me about early food consumption in early America, how food and personal/community/national identity were intertwined (as we see in attitudes about corn) and how meanings of food can be utterly transformed over time. In other words, what we can we learn from this history of corn? Remember, provide specific examples from OUR readings/discussion!
+What we can we learn from this history of corn? Remember, provide specific examples from OUR readings/discussion!
 "%}
 
 
