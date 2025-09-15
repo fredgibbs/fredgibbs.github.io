@@ -134,10 +134,11 @@ What we can we learn from this history of corn? Remember, provide specific examp
 
 
 ### Sep 18: NO CLASS
-- ORGINALLY: James E. McWilliams, "'How Unripe We Are'", _Food, Culture & Society_ 8.2 (2005): 143–60. (Still a good article to review, especially after p.151.)
-
 {% include alert.html class='warning' title='NO CLASS TODAY!' text="
 Upon further review, this article is not totally necessary given amount of reading for Tuesday. Also, next week will be a bit more work with your cookbook comparisons, so it's good to recharge beforehand.
+
+- ORGINALLY: James E. McWilliams, "'How Unripe We Are'", _Food, Culture & Society_ 8.2 (2005): 143–60. (Still a good article to review, especially after p.151.)
+
 "%}
 
 
