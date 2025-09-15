@@ -126,18 +126,23 @@ What we can we learn from this history of corn? Remember, provide specific examp
 
 ### Sep 16: Early America, Food, and Households
 
-- _HAE_, 33--55 (2: Food and the Founding). Continuing our emphasis on food and identity, this chapter covers how capitalism and food were central to shaping early American identity. Both this chapter and the other reading emphasize the importance of capitalist markets, food production, and the development of cookbooks as a way of cultivating an American cuisine (and identity).
+- _HAE_, 33--55 (2: Food and the Founding). Continuing our thinking about food and identity, this chapter covers how capitalism and food were central to shaping early American identity. Both this chapter and the other reading emphasize the importance of capitalist markets, food production, and the development of cookbooks as a way of cultivating an American cuisine (and identity).
 - Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (4: Cookbooks and Commerce), 120--147. Even though not clearly marked, there are two distinct parts to this reading. 
-  - SKIM the first part (to 129), which explains the capitalist logic of food production in the late 1700s and early 1800s, and how central food was to economic growth. 
-  - The second part (129+) shows how early cookbooks start reflect the cultural changes underway during that time. 
-  - Both complement the _HAE_ reading with considerable more detail about the role of women in managing food, the household, and shaping American foodways.
+  - SKIM BUT DON'T SKIP the first part (to 129), which explains the capitalist logic of food production in the late 1700s and early 1800s, and how central food was to economic growth. This is important background knowledge to have, but don't sweat the details.
+  - The second part (129+) shows how early cookbooks start reflect the cultural changes underway during that time, and to some extent become drivers of those changes as well. 
+  - This reading complements the _HAE_ reading with considerable more detail about the role of women in managing food, the household, and shaping American foodways.
 
 
-### Sep 18: 
-- James E. McWilliams, "'How Unripe We Are'", _Food, Culture & Society_ 8.2 (2005): 143–60.
+### Sep 18: NO CLASS
+- ORGINALLY: James E. McWilliams, "'How Unripe We Are'", _Food, Culture & Society_ 8.2 (2005): 143–60. (Still a good article to review, especially after p.151.)
+
+{% include alert.html class='warning' title='NO CLASS TODAY!' text="
+Upon further review, this article is not totally necessary given amount of reading for Tuesday. Also, next week will be a bit more work with your cookbook comparisons, so it's good to recharge beforehand.
+"%}
+
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-What did you learn from the readings this week? Remember the goal of these reflections is to show your familiarity with the readings. The reading descriptions above might help you identify key themes that are worth elaborating on.
+Sketch out the various ways food was used to create early American identity. Remember the goal of these reflections is to show your familiarity with OUR readings and the arguments/evidence presented in them.  
 "%}
 
 
