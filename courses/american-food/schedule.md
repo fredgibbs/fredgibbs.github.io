@@ -125,7 +125,6 @@ What we can we learn from this history of corn? Remember, provide specific examp
 ## 5: Sep 16 + 18
 
 ### Sep 16: Early America, Food, and Households
-
 - _HAE_, 33--55 (2: Food and the Founding). Continuing our thinking about food and identity, this chapter covers how capitalism and food were central to shaping early American identity. Both this chapter and the other reading emphasize the importance of capitalist markets, food production, and the development of cookbooks as a way of cultivating an American cuisine (and identity).
 - Keith Stavely and Kathleen Fitzgerald, _America's Founding Food_ (4: Cookbooks and Commerce), 120--147. Even though not clearly marked, there are two distinct parts to this reading. 
   - SKIM BUT DON'T SKIP the first part (to 129), which explains the capitalist logic of food production in the late 1700s and early 1800s, and how central food was to economic growth. This is important background knowledge to have, but don't sweat the details.
@@ -137,13 +136,13 @@ What we can we learn from this history of corn? Remember, provide specific examp
 {% include alert.html class='warning' title='NO CLASS TODAY!' text="
 Upon further review, this article is not totally necessary given amount of reading for Tuesday. Also, next week will be a bit more work with your cookbook comparisons, so it's good to recharge beforehand.
 
-- ORGINALLY: James E. McWilliams, \"How Unripe We Are\", _Food, Culture & Society_ 8.2 (2005): 143–60. (Still a good article to review, especially after p.151.)
+- ORGINALLY: James E. McWilliams, \"How Unripe We Are\", _Food, Culture & Society_ 8.2 (2005): 143–60. This is still an excellent article to review for the cookbook assignment!
 
 "%}
 
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-Sketch out the various ways food was used to create early American identity. Remember the goal of these reflections is to show your familiarity with OUR readings and the arguments/evidence presented in them.  
+The cost for canceling class on Thursday is a slightly longer reflection this week. ~500 words instead of the usual ~350. Sketch out the various ways food was used to create early American identity. This is important background to our cookbook assignment next week. Again, remember the goal of these reflections is to **show your familiarity with OUR readings and the arguments/evidence presented in them**.  
 "%}
 
 
@@ -153,28 +152,26 @@ Sketch out the various ways food was used to create early American identity. Rem
 ### Sep 23: History from Cookbooks
 - Review the  [Cookbook Comparison Guide](cookbook-analysis) to get a sense of what we're working toward.
 - Ken Albala, [Cookbooks as Historical Documents](https://www-oxfordhandbooks-com.libproxy.unm.edu/view/10.1093/oxfordhb/9780199729937.001.0001/oxfordhb-9780199729937-e-13). This highly skimmable chapter nicely lays out a process for interrogating cookbooks and reading in between the lines with many excellent examples.
-- Rachel A. Snell, [As North American as Pumpkin Pie: Cookbooks and the Development of National Cuisine in North America, 1796-1854](https://www.erudit.org/fr/revues/cuizine/2014-v5-n2-cuizine01533/1026771ar/). This title is misleading, as the article is more about how cookbooks can be used to create a national identity more than a cuisine. And that's precisely why it's interesting and useful to us in thinking about how to read old cookbooks. The analysis here is a great example of what I hope you'll do (on a much smaller scale) with your own cookbooks.
+- Barbara Ketcham Wheaton, "Cookbook as Resources for Social History". This chapter very nicely sketches out, with many diverse examples, how cookbooks function as windows onto history, including how and why they were used in the world. It has a much broader scope than Early U.S. History.
 
 {% include alert.html class='danger' title='Reading Quiz' text="
 This one's about using cookbooks as historical sources.
 "%}
 
 
-### Sept 25: Using Cookbooks
-- Harry Haff, _The Founders of American Cuisine: Seven Cookbook Authors, with Historical Recipes_ (2: Amelia Simmons), 21--33. We're looking at this as an example of how the author analyzes Simmons's cookbook, particularly the way the author comments on how explanation or ambiguities in the recipes reflect what readers would know or not know.
-- Barbara Ketcham Wheaton, "Cookbook as Resources for Social History". This chapter very nicely sketches out, with many diverse examples, how cookbooks function as windows onto history, including how and why they were used in the world.
+### Sept 25: Early American Cookbook Contexts
 - Keith Stavely and Kathleen Fitzgerald, _United Tastes: The Making of the First American Cookbook_ (2: Culinary Tradition), 29--51. This provides a fascinating cultural background of cookbooks and their evolution. Honestly the first few sentences of each paragraph will give you enough background.
-- Colleen Cotter, "Claiming a Piece of the Pie", 51--68.
-- Jane C. Busch, "Using Cookbooks as Research Documents", 22--25.
+- Rachel A. Snell, [As North American as Pumpkin Pie: Cookbooks and the Development of National Cuisine in North America, 1796-1854](https://www.erudit.org/fr/revues/cuizine/2014-v5-n2-cuizine01533/1026771ar/). This title is misleading, as the article is more about how cookbooks can be used to create a national identity more than a cuisine. And that's precisely why it's interesting and useful to us in thinking about how to read old cookbooks. The analysis here is a great example of what I hope you'll do (on a much smaller scale) with your own cookbooks.
+
 
 #### Some cookbooks mentioned in the readings
-- Amelia Simmons, [American Cookery](https://books.google.com/books?id=_6CggcPs3iQC)
+- Amelia Simmons, [American Cookery](https://books.google.com/books?id=_6CggcPs3iQC). For more, see Harry Haff, _The Founders of American Cuisine: Seven Cookbook Authors, with Historical Recipes_ (2: Amelia Simmons), 21--33. This is a great example of how the author analyzes Simmons's cookbook, particularly the way the author comments on how explanation or ambiguities in the recipes reflect what readers would know or not know.
 - Lydia Child, [American Frugal Housewife](https://books.google.com/books?id=D3AEAAAAYAAJ)
 - Mary Randolph [The Virginia Housewife](https://books.google.com/books?id=R4YEAAAAYAAJ)
 - Eliza Leslie, [Miss Leslie\'s Complete Cookery](https://books.google.com/books?id=KVL5oJA8IWsC)
 
 {% include alert.html class='danger' title='Cookbook comparison' text="
-Post your [cookbook comparison](cookbook-analysis) by SUNDAY NIGHT.
+Post your [cookbook comparison](cookbook-analysis) by MONDAY NIGHT!
 "%}
 
 
