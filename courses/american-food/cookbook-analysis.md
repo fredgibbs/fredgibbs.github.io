@@ -17,7 +17,7 @@ Pick TWO books from [this collection](https://babel.hathitrust.org/cgi/mb?c=1934
 
 Your job is to compare the cookbooks in terms of what they discuss, what they don't, tone, style, ingredients, recipes, overall content (many of these books are about way more than cooking).
 
-**Why TWO books?** Because the variety of cookbooks is remarkable! They illustrate the wide variety of values and approaches to the genre. That said, you might end up comparing cookbooks that are quite similar. This is also fun because then you can reflect on their shared values and reasons for variation. You need to write about TWO books, but it is very helpful to skim through even more to get a sense of what kinds of things are NOT in your cookbook. 
+**Why TWO books?** Because the variety of cookbooks is remarkable! They illustrate the wide variety of values and approaches to the genre. That said, you might end up comparing cookbooks that are quite similar. This is also fun because then you can reflect on their shared values and reasons for variation. You need to write about TWO books, but it is very helpful to skim through even more to get a sense of what kinds of things are NOT in your cookbook. (p.s. if you want to compare 3 or 4 books, you can, but any more turns into a mess.)
 
 **DO NOT SUMMARIZE EACH BOOK!** The point of the exercise here is to find and explain similarities and differences between the books.
 
