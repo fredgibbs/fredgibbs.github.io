@@ -119,7 +119,7 @@ Common
   }
 
   h3 {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     margin: 3rem 0 0.5rem 0;
   }
 
@@ -132,7 +132,11 @@ Common
     font-size: 110%;
   }
 
-  p { margin: 0 0 1em 0; }
+  p { 
+    margin: 0 0 1em 0; 
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+  }
 
   ul {
     margin: 0 0 2em 1em;
@@ -186,7 +190,7 @@ Common
 
   .title a, .title a:hover, .title a:visited {
     font-family: 'Roboto', cursive;
-    font-size:6rem;
+    font-size:5.3rem;
     font-weight:900;
     line-height:7rem;
     padding-bottom:0rem;
@@ -261,7 +265,7 @@ Common
   /*****************************************************************************/
 
   .post {
-    font: 1.1rem/1.6rem "Lato";
+    font: 1rem/1.4rem "Lato";
     margin-bottom:1rem;
   }
 

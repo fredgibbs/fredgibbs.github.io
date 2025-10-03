@@ -1,0 +1,53 @@
+---
+layout: default
+title: posts
+description: Musings that I think are interesting and useful enough to share, but don't necessarily fit in a more formal publication.
+---
+
+# Archive
+These are mostly short essays, but they also include some conference presentations that seem worth keeping around. Also, I'm a hoarder. So this is basically the digital equivalent of a closet full of stuff one can't bear to let go.
+
+
+  <div class="posts">
+
+  <div class="post">
+     <h3><a href="/archive/writing-a-personal-statement">Unsolicited Advice on Writing a Personal Statement</a></h3>
+   </div>
+
+  <div class="post">
+     <h3><a href="/archive/reflections-former-PH-editor">Sustainable Publishing: Reflections of a Former Programming Historian Editor</a></h3>
+   </div>
+
+   <div class="post">
+      <h3><a href="/archive/on-digital-solitude">On Digital Solitude</a></h3>
+    </div>
+
+  <div class="post">
+    <h3><a href="/archive/visual-critique-in-the-humanities">Visual Critique in the Humanities</a></h3>
+  </div>
+
+  <div class="post">
+    <h3><a href="/archive/consider-the-poster">Consider the Poster</a></h3>
+  </div>
+
+  <div class="post">
+    <h3><a href="/archive/unimagined-worlds-of-digital-humanities-and-textual-editing">Unimagined Worlds of Digital Humanities and Textual Editing</a></h3>
+  </div>
+
+  <div class="post">
+    <h3><a href="/archive/learning-to-read-again">Learning to Read. Again.</a></h3>
+  </div>
+
+  <div class="post">
+    <h3><a href="/archive/organizing-early-modern-texts">Organizing Early Modern Texts</a></h3>
+  </div>
+
+   <div class="post">
+     <h3><a href="/archive/letting-loose-in-the-zoo">Letting Loose in the Zoo</a></h3>
+   </div>
+
+   <div class="post">
+     <h3><a href="/archive/playing-with-data">Playing with Data</a></h3>
+   </div>
+
+ </div>

@@ -4,7 +4,16 @@ title: courses
 description: "Regularly scheduled courses: Digital Heritage; Food + Technology + Society; The Idea of Nature; Historiography; American Food; Digital History; History of Diet, Health, Expertise"
 ---
 
-# Regular Courses
+# Recent Courses
+
+{% include course-block.html
+slug="history-w-ai"
+title="History with AI (Spring 2026; 2H)"
+poster="images/white-un-copy.png"
+desc="This course explores how technological change—from writing to algorithms—reshapes what counts as knowledge and who is recognized as an authority. Students will critically examine how ideas of “intelligence” have shifted across time, while experimenting with AI tools to practice source analysis, contextualization, and historical interpretation. Emphasis is placed on hands-on learning: testing how AI can assist (and mislead) in research, evaluating its impact on historical authority, and reflecting on the epistemological questions raised by machine-generated knowledge. The course balances critical thinking with experiential inquiry, encouraging students to see both the risks and opportunities of using AI in the production of history."
+%}
+
+
 
 
 {% include course-block.html
@@ -33,7 +42,7 @@ Some guiding questions: How do dietary experts establish their expertise? Why ha
 
 {% include course-block.html
 slug="artificial-history"
-title="Artificial History (Spring 2025)"
+title="Artificial History (Spring 2025; 2H)"
 poster="images/digital-history-2-sm.jpg"
 desc="How can digital technology facilitate critical engagement with the humanities and cultural heritage? How are cultural institutions are engaging with technology and what does the future look like? How can the digitization (and virtual modeling) of historical artifacts--from pottery and jewelry to entire historic sites--change the ways we can understand past cultures? How is AI going to shape our access to and stories about the past? 
 <br><br>
@@ -44,7 +53,7 @@ We’ll draw from a wide range of fields including digital public history, histo
 
 {% include course-block.html
 slug="idea-of-nature"
-title="The Idea of Nature (Fall 2022; 2H course)"
+title="The Idea of Nature (Fall 2022; 2H)"
 poster="images/idea-of-nature-sm.jpg"
 desc="Nature and landscape can seem like mere background our lives, but the spaces around us connect us to our past and chart a course for the future. This course explores the changing cultural constructions of \"nature\" in American History. We pursue three particular goals: 1) Describe how the attitudes towards nature have shifted over time. 2) Articulate how landscapes of all kinds mediates our relationship to the past, present, and future. 3) Explain how landscape can influence constructions of identities at personal, regional, and national levels."
 %}
