@@ -253,7 +253,7 @@ This book gives us excellent background on working-class life in the U.S. around
 
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-To what extent to you agree with Biltekoff that \"all dietary advice is _necessarily_ moral\"? Isn't science and nutrition objective? As always, there's no "right" answer here; I just want to see you engaging with her argument and evidence.
+To what extent to you agree with Biltekoff that \"all dietary advice is _necessarily_ moral\"? Isn't science and nutrition objective? As always, there's no \"right\" answer here; I just want to see you engaging with her argument and evidence.
 "%}
 
 
