@@ -82,12 +82,11 @@ We use a tool called [Zotero](http://zotero.org) to organize and provide access 
 ## Course work
 This lists the kinds of assignments you'll be doing, with an approximate percent of your final grade (exact points are computed in Canvas)
 - Class Participation (10%)
-- Reading/discussion quizzes (10%)
+- Reading/discussion quizzes (15%)
 - [Reading reflections](reading-reflections) (20%)
-- [Historic Cookbook Analysis](cookbook-analysis) (15%)
-- [Food Blog Analysis](food-blog-analysis) (15%)
-- NM Food Stories (guide coming soon) (15%)
-- [Final Course Reflection](final-course-reflection) (15%)
+- [Historic Cookbook Analysis](cookbook-analysis) (20%)
+- [Food Stories](food-stories) (15%)
+- [Final Course Reflection](final-course-reflection) (20%)
 
 
 ### Grading Scale
