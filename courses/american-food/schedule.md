@@ -199,122 +199,125 @@ NO CLASS! Make some good food. Argue about its authenticity.
 
 
 ## 9: Oct 14 + 16
-Welcome back! Is anything more American than cereal for breakfast? 
+Welcome back! I hope you all had a nice break. 
 
-### Oct 14: Improving Nature
-Today we look at an interesting early connection between food, health, and technology that still influences our food choices.
-- Katherine Turner, _How the Other Half Ate_ (Ch. 2: Factories, Railroads, and Rotary Eggbeaters), eBook pp. 40--48 (read up to the "Working Class Kitchens" heading). [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)]
+We left off thinking about the diffusion of Chinese food via American dishes like chop suey in the late 1800s and early 1900s. We learned Chinese people were not as popular as their food (which can be said for most immigrant groups, I'd say), and we learned something about the process of culinary adaptation, diffusion, and the socialization of new cuisines. We continue that thread by looking at the diffusion of "southwestern cuisine".
+
+### Oct 14: Southwest Diffusion
+- Amy Bentley, "From Culinary Other to Mainstream America: Meanings and Uses of Southwestern Cuisine", in _Culinary Tourism_ (ed. Lucy M. Long), University Press of Kentucky (2013), 209--223.
+- Anastacia Uriegas, [Fajitas, Queso & Enchiladas: A Look at the Origins of Tex-Mex Favorites](https://remezcla.com/features/culture/fajitas-queso-enchiladas-look-origins-tex-mex-favorites/)
 
 
-### Oct 16: Cereal
+{% include alert.html class='danger' title='Reading Reflection' text="
+BASED ON THE READINGS: What does the history of food in the Southwest and its diffusion teach us about food, culture, and identity that we haven't exactly seen before? However much you interject your own opinion (and I hope you will!), please be sure your post addresses the prompt question and draws specifically from the readings this week!
+"%}
+
+
+### Oct 16: Nature + Technology 
+Is anything more American than cereal for breakfast? Today  There are some fun, easy readings that provide some fun details about cereal that aren't super relevant for class discussion, but may appear on your quiz.
+
+- _HAE_, 89--110 (Ch. 3: Technology and Taste).
+
+#### Fun cereal history
+Skim through these for some extra background for our discussion. Honestly, nothing essential but it's fun!
 - Sarah Pruitt, "[How an Accidental Invention Changed What Americans Eat for Breakfast](https://www.history.com/news/cereal-breakfast-origins-kellogg)"
 - Blake Hatton, [The Early Years of American Ready to Eat Breakfast Cereal: The Breakfast Cereal Revolution Until 1930](https://scalar.usc.edu/works/early-years-of-ready-to-eat-breakfast-cereal/index).
-- Jaya Saxena, [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html). This is fun for for its focus on advertising.
+- Jaya Saxena, [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html). Not much new historical information in this one, but it's really fun for for its focus on advertising and great images?.
 
 {% include alert.html class='danger' title='Weekly Reflection' text="
+Connect the \"culinary other\" discussion with the food/technology discussion. It's possible, I promise.
 "%}
 
 
 
+
 ## 10: Oct 21 + 23
-Building off the theme of how dietary and moral advice are frequently intertwined, today we look at how popularization of nutritional science provided the perfect "objective" rationale for telling the working classes (and especially immigrants) how they should eat. As we'll see, the goal seems to have been as much as about health as it was to encourage immigrants to be more economically efficient, and therefore  "more American". This topic may seem unique to the early 19th century and immigration, but even in 2025, a healthier body is still often thought of as a "better" body. The health industry is worth a gazillion dollars in part because it's not just about health!
 
 ### Oct 21: Nutrition, Economy, and Citizenship
-The idea that we should make decisions on what to eat based on a supposedly objective metric of health has been labelled _nutritionism_---an ISM like catholocism, totalitarianism---an IDEOLOGY of food and how to eat. There is even an official disorder called _orthorexia_---wanting to eat "right". This is often presented as a relatively new (last 40 or 50 years at most) phenomenon, but it actually has a LONG. It is striking that considering how much culture is very different now, and nutritional knowledge has advanced considerably since ~1900, the idea that we can assess and measure morality through food, diet, and health has persisted remarkably well.
 
-- Katherine Turner, _How the Other Half Ate_ (Ch. 1: The Problem of Food), ebook pp. 14--39. [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)] This book gives us excellent background on working-class life in the U.S. around 1900. There is way more detail than we need (but helps ground the analysis in specific examples as I'm always asking you to do), so be sure you're reading to grasp the big picture of who the working class are, how they eat, and what they value (and don't) in food.
+{% include alert.html class='warning' title='NO CLASS' text="
+Thanks to administrative responsibilities I can't get out of, there is no class today! But there still is a straightforward reading and quiz on it. Both are important to have doen BEFORE THURSDAY's CLASS. Technically the quiz is due Sunday like always, but please do it early this week.
+"%}
+
+{% include alert.html class='danger' title='READING QUIZ' text="
+No class meeting today as noted, but there is an actual reading quiz to make sure we have the fundamentals of American food down for Thursday's discussion.
+"%}
+
+- Katherine Turner, _How the Other Half Ate_ (Ch. 1: The Problem of Food), ebook pp. 14--39. [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)]. Not you can read the chapter online or download a PDF of the chapter (which I often find easier to display how I want). 
+
+This book gives us excellent background on working-class life in the U.S. around 1900. There is way more detail than we need (but helps ground the analysis in specific examples as I'm always asking you to do), so be sure you're reading to grasp the big picture of who the working class are, how they eat, and what they value (and don't) in food.
+
 
 ### Oct 23: Scientific Moralization
 - Charlotte Biltekoff, _Eating Right in America_ (Ch. 2: Scientific Moralization), 13--44. This reading illustrates how early nutritional scientists and social reformers tried to contain and order the chaos of diverse tastes, preferences, and eating habits of all the different people immigrating to the U.S. from the 1880s to the 1920s. The emphasis on dietary habits was a way of creating/maintaining a more consistent societal fabric. In the minds of social reformers, there was too much cultural and culinary diversity; the country needed a standard way of eating to make a stronger and more unified, more civilized bodies of citizens. Note how this is somewhat contrary to the blending/adaptation narrative we've read about at times with respect to various food traditions. Biltekoff claims that all dietary advice has a strong moral component to it. 
 
 
-{% include alert.html class='danger' title='Weekly Reflection' text="
-To what extent to agree that all dietary advice is _necessarily_ moral? Isn't science and nutrition objective?
+{% include alert.html class='danger' title='Reading Reflection' text="
+To what extent to you agree with Biltekoff that \"all dietary advice is _necessarily_ moral\"? Isn't science and nutrition objective? As always, there's no "right" answer here; I just want to see you engaging with her argument and evidence.
 "%}
-
 
 
 
 
 ## 11: Oct 28 + 30
-Industrializing Meat
 
 
-### Oct 28: Beef
-- Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
+### Oct 28: Americanizing Diets
+- Helen Zoe Veit, _Modern Food, Moral Food_ (6: Americanizing the American Diet), 123--56.
 
-
-
-### Oct 30: Chicken
-- Emeyln Rude, _Tastes like Chicken_, 6--11; 27--39; 130--134; 141--160; 181--192. 
-  - Sorry for all the partial sections here, but the PDF is just the pages you need to read (the book tends to go off on lots of cool tangents, so we skip around to stay on topic). 
-  - This looks like a crazy amount of reading, but the physical pages and number of words on them are quite small, and many pages are recipes that you can skip over. It goes by really fast, and it's a fun non-academic read.
-
-{% include alert.html class='danger' title='Reading Quiz' text="
-The usual.
+{% include alert.html class='danger' title='READING QUIZ' text="
+The usual. Whatever that is at this point.
 "%}
+
+
+### 🎃 Oct 30: Food festivals, archives, and stories
+- David Foster Wallace, "Consider the Lobster"
+- Something on food archives
+- Food stories assignment overview
+
 
 
 ## 12: Nov 4 + 6
 
-
-### Nov 4: 
-- Warren Belasco, _Appetite for Change_ (Oppositional Identities), 43--67.
-- Megan Elias, _Food on the Page_ (Oppositional Appetites), 145--176.
+### Nov 4: Beef
+- Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
 
 
-### Nov 6: 
-- Menaka Wilhelm, [The Far Out History Of How Hippie Food Spread Across America](https://www.npr.org/sections/thesalt/2018/01/23/579186110/the-far-out-history-of-how-hippie-food-spread-across-america)
+
+### Nov 6: Chicken
+- Emeyln Rude, _Tastes like Chicken_, 6--11; 27--39; 130--134; 141--160; 181--192. 
+  - Sorry for all the partial sections here, but the PDF is just the pages you need to read (the book goes off on many cool tangents, which obscures the big picture). 
+  - This looks like a crazy amount of reading, but there are not many words per page; many pages are recipes that you can skip over. It goes by fast, and it's a fun non-academic read.
 
 
 {% include alert.html class='danger' title='Reading Quiz' text="
-I'm not sure what's happening this week, but there will be some sort of quiz, probably.
+What's the story of meat in America? **USE BOTH READINGS!**
 "%}
 
 
-## 13: Nov 11 + 13
-As you are all well aware, the Southwest has a pretty amazing mix of foodways. While we've read in general terms about blending of food traditions, this week is we have two primary goals: 
-- Learn more about the various historical traditions of food in the Southwest
-- Look in more depth at a specific region as a site of adaptation and resistance to new foods.
+## 13: Nov 11 + 13 
+
+### Nov 11: Food Stories technical review
+- Nothing to read for today, but we'll go through the entire process for your food stories assignment, so you know _exactly_ what you need to do and how long it will take.
 
 
-### Nov 11: Untangling Food in the Southwest
-- Jeffrey M. Pilcher, “Tex-Mex, Cal-Mex, New Mex, or Whose Mex? Notes on the Historical Geography of Southwestern Cuisine”. _Journal of the Southwest_ 43.44 (2001): 659-–79. Like many sources we've used, there is more detail than we need. But you know how to handle that by this point---read for the big picture!
-- Anastacia Uriegas, [Fajitas, Queso & Enchiladas: A Look at the Origins of Tex-Mex Favorites](https://remezcla.com/features/culture/fajitas-queso-enchiladas-look-origins-tex-mex-favorites/)
-
-
-### Nov 13: Culinary Borderlands
-- Katherine Massoth, "'Mexican Cookery that Belongs to the United States': Evolving Boundaries of Whiteness in New Mexican Kitchens", in _Food Across Borders_ (ed. Garcia, DuPuis, and Mitchell), 44--59. I love this article because it tells a clear story about the intersection of race, culture, and food with abundant historical examples. As much as we've read about mingling of ingredients and merging of dishes, most students get a new perspective on food and identity from this reading.
-
-
-{% include alert.html class='danger' title='Reading Reflection' text="
-BASED ON THE READINGS: What does the history of food in the Southwest teach us about food, culture, and identity that we haven't exactly seen before? However much you interject your own opinion (and I hope you will!), please be sure your post addresses the prompt question and draws specifically from the readings this week!
-"%}
-
-{% include alert.html class='warning' title='Food Blog Analysis' text="You might want to starting thinking about your [Food Blog Analysis](food-blog-analysis) due next week.
-"%}
+### Nov 13: NO CLASS
+- Work on your story pages!
 
 
 
 ## 14: Nov 18 + 20
 
-### Nov 18: Culinary Diffusion
-We've already looked at the intersection of food traditions in the Southwest, and today we look at food moving out of specific regions. We've already covered this a little with our reading on Chinese food in the 19th century, but here focus specifically on diffusion as a general concept and how meanings of food get twisted as food moves around geographies and cultures.
+### Nov 18: 
+- Steven Penfold "[Fast food](https://academic.oup.com/edited-volume/34515/chapter/292852283)", from _The Oxford Handbook of Food History_, 279--302.
 
-- Helen Zoe Veit, _Modern Food, Moral Food_ (6: Americanizing the American Diet), 123--56.
-- Amy Bentley, "From Culinary Other to Mainstream America: Meanings and Uses of Southwestern Cuisine", in _Culinary Tourism_ (ed. Lucy M. Long), University Press of Kentucky (2013), 209--223.
-
-{% include alert.html class='danger' title='Reading/Discussion Quiz' text="
-It's easy to characterize the blending of food traditions simply as everything going into the good ol' American melting pot. This quiz examines how these articles suggest ideas about diffusion that we haven't seen before.
+{% include alert.html class='warning' title='Come with a summary' text="
+Use your favorite AI friend to summarize this long article. YOU ALSO NEED TO AT LEAST SKIM IT FOR YOURSELF! We'll compare notes and use AI to help us probe a bit deeper.
 "%}
 
 
-### Nov 20: Food Blog Analysis
-{% include alert.html class='danger' title='Food Blog Analysis' text="
-Think back to the cookbook readings, when we discussed how much you can learn about people, culture, and food from cookbooks. Just like we looked at cookbooks from ~150 years ago to learn about food at the time, what would a historian 150 years from now think American food was from looking at your blogs? Make sure you're following the [Food Blog Analysis Guidelines](food-blog-analysis).
-"%}
-
-
+### Nov 20: 
+- Warren Belasco, _Appetite for Change_, 29--42 (2: Radical Consumerism) and 43--67 (3: Oppositional Identities).
 
 
 
@@ -337,20 +340,11 @@ One last readings + discussion quiz!
 
 ## 16: Dec 2 - 4
 
-### Dec 2: Culinary Appropriation
-I find most culinary appropriation conversations to be unhelpfully superficial. It is pointless:
-- to debate whether culinary/cultural appropriation actually happens (it does)
-- whether it's just some people being overly sensitive (it is)
-- whether it can be an inadvertent or purposeful tool of marginalization (it can). 
-
-These are non-debatable facts. What matters for today is how we can learn to think and talk about appropriation in a sufficiently nuanced way that encourages innovation and adaptation in terms of food while simultaneously respecting cultural heritage and meanings.
-- Michael Twitty, _The Cooking Gene_, 1--24.
-- [Michael Twitty on Culinary Justice](https://www.youtube.com/watch?v=EhxjC3XX54g)
-- Sarah Handley-Cousins, [Slavery & Soul Food: African Crops and Enslaved Cooks in the History of Southern Cuisine](https://digpodcast.org/2020/07/26/soul-food/). Listen or read the transcript.
+### Dec 2: Wrap-up
+No readings for today, but some course wrap-up and tips for succeess on your [final course reflection](final-course-reflection) due next week! 
 
 
-### Dec 4: Course Conclusions
-No readings for today, but crucial tips for succeess on your [final course reflection](final-course-reflection) due next week! 
+### Dec 4: NO CLASS 
 
 
 
