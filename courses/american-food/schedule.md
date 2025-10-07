@@ -279,12 +279,12 @@ The usual. Whatever that is at this point.
 
 ## 12: Nov 4 + 6
 
-### Nov 4: Beef
+### Nov 4: 🥩 Beef
 - Joshua Specht, [The price of plenty: how beef changed America](https://www.theguardian.com/environment/2019/may/07/the-price-of-plenty-how-beef-changed-america)
 
 
 
-### Nov 6: Chicken
+### Nov 6: 🍗 Chicken
 - Emeyln Rude, _Tastes like Chicken_, 6--11; 27--39; 130--134; 141--160; 181--192. 
   - Sorry for all the partial sections here, but the PDF is just the pages you need to read (the book goes off on many cool tangents, which obscures the big picture). 
   - This looks like a crazy amount of reading, but there are not many words per page; many pages are recipes that you can skip over. It goes by fast, and it's a fun non-academic read.
@@ -308,7 +308,7 @@ What's the story of meat in America? **USE BOTH READINGS!**
 
 ## 14: Nov 18 + 20
 
-### Nov 18: 
+### Nov 18: 🍔 Fast food frameworks
 - Steven Penfold "[Fast food](https://academic.oup.com/edited-volume/34515/chapter/292852283)", from _The Oxford Handbook of Food History_, 279--302.
 
 {% include alert.html class='warning' title='Come with a summary' text="
@@ -316,15 +316,15 @@ Use your favorite AI friend to summarize this long article. YOU ALSO NEED TO AT 
 "%}
 
 
-### Nov 20: 
+### Nov 20: 🥗 Countercuisine
 - Warren Belasco, _Appetite for Change_, 29--42 (2: Radical Consumerism) and 43--67 (3: Oppositional Identities).
 
 
 
-## 15: Thanksgiving
+## 15: Thanksgiving week
 Just one meeting this week, and we're going back in time a little to examine the historical construction of Thanksgiving. Lots of ideas for the dinner table!
 
-### Nov 25: Thanksgiving
+### Nov 25: T-day mythology
 - Philip Deloria, “[The Invention of Thanksgiving](https://www.newyorker.com/magazine/2019/11/25/the-invention-of-thanksgiving)”, _New Yorker_, 95.37 (November 25, 2019): 70--74. [Also in Zotero if the link doesn't work.]
 - Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167--91.
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/). This quick read serves two purposes: it's a nice overview of what food were likely available at the harvest celebration of 1621. And it's a good example of uncritical food history that focuses entirely on food without much of the historical context (neither in the 1600s or 1900s).
@@ -334,21 +334,21 @@ One last readings + discussion quiz!
 "%}
 
 
-### Nov 27: THANKSGIVING!
+### Nov 27: 🦃 THANKSGIVING!
 
 
 
 ## 16: Dec 2 - 4
 
-### Dec 2: Wrap-up
+### Dec 2: 🎯 Wrap-up
 No readings for today, but some course wrap-up and tips for succeess on your [final course reflection](final-course-reflection) due next week! 
 
 
-### Dec 4: NO CLASS 
+### Dec 4: 🎉 NO CLASS 
 
 
 
-## Dec 12 Finals Due
+## Dec 12: 🏁 Finals Due
 Your FINAL Learning Reflection---over the WHOLE CLASS---needs to be turned in BY THE END OF TODAY. See the [Final Course Reflection Guide](final-course-reflection). I can't emphasize enough that this SHOULD NOT BE MERELY A SUMMARY of what we've covered. Instead, as the instructions explain in more detail, illustrate how your thinking about food has changed over the month, and how your submitted work justifies what you think should be your overall grade for the course.
 
 {% include alert.html class='danger' title='Final Course Reflection' text="
