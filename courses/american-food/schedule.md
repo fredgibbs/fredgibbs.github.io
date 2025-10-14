@@ -205,29 +205,28 @@ We left off thinking about the diffusion of Chinese food via American dishes lik
 
 ### Oct 14: Southwest Diffusion
 - Amy Bentley, "From Culinary Other to Mainstream America: Meanings and Uses of Southwestern Cuisine", in _Culinary Tourism_ (ed. Lucy M. Long), University Press of Kentucky (2013), 209--223. Aspects of this article will remind you of the chop suey article from last class before break---namely the transformation of foods once considered “foreign” or “inedible” into mainstream staples and how food can simultaneously express admiration for and dominance over another culture. I want to focus on the key factors that helped southwestern food become so culturally ubiquitous (and whether you agree with Bentley or not).
--Anastacia Uriegas, [Fajitas, Queso & Enchiladas: A Look at the Origins of Tex-Mex Favorites](https://remezcla.com/features/culture/fajitas-queso-enchiladas-look-origins-tex-mex-favorites/). This is a fun set of histories, but what kinds of key issues are left OUT in these tales?
+- Anastacia Uriegas, [Fajitas, Queso & Enchiladas: A Look at the Origins of Tex-Mex Favorites](https://remezcla.com/features/culture/fajitas-queso-enchiladas-look-origins-tex-mex-favorites/). This is a fun set of histories, but what kinds of key issues are left OUT in these tales?
 
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-BASED ON THE READINGS: What does the history of food in the Southwest and its diffusion teach us about food, culture, and identity that we haven't exactly seen before? However much you interject your own opinion (and I hope you will!), please be sure your post addresses the prompt question and draws specifically from the readings this week!
+BASED ON THE READINGS: What does the history of food in the Southwest and its diffusion teach us about food, culture, and identity **that we haven't exactly seen before**? How does it extend the analysis we've already done? However much you interject your own opinion (and I hope you will!), please be sure your post addresses the prompt question and draws specifically from the readings!
 "%}
 
 
 ### Oct 16: Nature + Technology 
-Is anything more American than cereal for breakfast? Today  There are some fun, easy readings that provide some fun details about cereal that aren't super relevant for class discussion, but may appear on your quiz.
-
 - _HAE_, 89--110 (Ch. 3: Technology and Taste).
 
 #### Fun cereal history
-Skim through these for some extra background for our discussion. Honestly, nothing essential but it's fun!
+Is anything more American than cereal for breakfast? Today  There are fun, easy readings that provide additional histortical anecdotes and tidbits about cereal history. 
+
+Skim through these for some extra background for our discussion. Honestly, nothing essential but great stories for cocktail parties!
 - Sarah Pruitt, "[How an Accidental Invention Changed What Americans Eat for Breakfast](https://www.history.com/news/cereal-breakfast-origins-kellogg)"
 - Blake Hatton, [The Early Years of American Ready to Eat Breakfast Cereal: The Breakfast Cereal Revolution Until 1930](https://scalar.usc.edu/works/early-years-of-ready-to-eat-breakfast-cereal/index).
 - Jaya Saxena, [How Cereal Became the Quintessential American Breakfast](https://www.seriouseats.com/2015/03/history-of-breakfast-cereal-mascots.html). Not much new historical information in this one, but it's really fun for for its focus on advertising and great images?.
 
-{% include alert.html class='danger' title='Weekly Reflection' text="
-Connect the \"culinary other\" discussion with the food/technology discussion. It's possible, I promise.
+{% include alert.html class='danger' title='Lecture Quiz' text="
+ANSWER: The relationship between food, technology and nature. QUESTION: What's Thursday's class going to be about?
 "%}
-
 
 
 
