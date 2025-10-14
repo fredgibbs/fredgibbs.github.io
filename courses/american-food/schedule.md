@@ -239,7 +239,7 @@ Thanks to administrative responsibilities I can't get out of, there is no class 
 "%}
 
 {% include alert.html class='danger' title='READING QUIZ' text="
-No class meeting today as noted, but there is an actual reading quiz to make sure we have the fundamentals of American food down for Thursday's discussion.
+No class meeting today as noted, but there is an **actual reading quiz** to make sure we have the fundamentals of American food down for Thursday's discussion.
 "%}
 
 - Katherine Turner, _How the Other Half Ate_ (Ch. 1: The Problem of Food), ebook pp. 14--39. [[online through UNM](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=1574614)]. Not you can read the chapter online or download a PDF of the chapter (which I often find easier to display how I want). 
@@ -248,7 +248,7 @@ This book gives us excellent background on working-class life in the U.S. around
 
 
 ### Oct 23: Scientific Moralization
-- Charlotte Biltekoff, _Eating Right in America_ (Ch. 2: Scientific Moralization), 13--44. This reading illustrates how early nutritional scientists and social reformers tried to contain and order the chaos of diverse tastes, preferences, and eating habits of all the different people immigrating to the U.S. from the 1880s to the 1920s. The emphasis on dietary habits was a way of creating/maintaining a more consistent societal fabric. In the minds of social reformers, there was too much cultural and culinary diversity; the country needed a standard way of eating to make a stronger and more unified, more civilized bodies of citizens. Note how this is somewhat contrary to the blending/adaptation narrative we've read about at times with respect to various food traditions. Biltekoff claims that all dietary advice has a strong moral component to it. 
+- Charlotte Biltekoff, _Eating Right in America_ (Ch. 2: Scientific Moralization), 13--44. This reading illustrates how early nutritional scientists and social reformers tried to contain and order the chaos of diverse tastes, preferences, and eating habits of all the different people immigrating to the U.S. from the 1880s to the 1920s. The emphasis on dietary habits was a way of creating/maintaining a more consistent societal fabric. In the minds of social reformers, there was too much cultural and culinary diversity; the country needed a standard way of eating to make a stronger and more unified, more civilized bodies of citizens. Note how this is somewhat contrary to the blending/adaptation narrative we've read about at times with respect to various food traditions.
 
 
 {% include alert.html class='danger' title='Reading Reflection' text="
@@ -271,7 +271,7 @@ The usual. Whatever that is at this point.
 
 ### Oct 30: Food festivals, archives, and stories 🎃 
 - David Foster Wallace, "Consider the Lobster"
-- Something on food archives
+- A few short readings on food archive projects
 - Food stories assignment overview
 
 
