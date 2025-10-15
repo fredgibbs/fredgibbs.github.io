@@ -209,12 +209,15 @@ We left off thinking about the diffusion of Chinese food via American dishes lik
 
 
 {% include alert.html class='danger' title='Reading Reflection' text="
-BASED ON THE READINGS: What does the history of food in the Southwest and its diffusion teach us about food, culture, and identity **that we haven't exactly seen before**? How does it extend the analysis we've already done? However much you interject your own opinion (and I hope you will!), please be sure your post addresses the prompt question and draws specifically from the readings!
+~~BASED ON THE READINGS: What does the history of food in the Southwest and its diffusion teach us about food, culture, and identity **that we haven't exactly seen before**? How does it extend the analysis we've already done? However much you interject your own opinion (and I hope you will!), please be sure your post addresses the prompt question and draws specifically from the readings!~~
+
+Note this \"test\" for this reading / discussion is now incorporated into the quiz for Thursday. 
+
 "%}
 
 
 ### Oct 16: Nature + Technology 
-- _HAE_, 89--110 (Ch. 3: Technology and Taste).
+- _HAE_, 89--110 (Ch. 4: Technology and Taste).
 
 #### Fun cereal history
 Is anything more American than cereal for breakfast? Today  There are fun, easy readings that provide additional histortical anecdotes and tidbits about cereal history. 
