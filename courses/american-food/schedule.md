@@ -265,17 +265,22 @@ To what extent to you agree with Biltekoff that \"all dietary advice is _necessa
 
 
 ### Oct 28: Americanizing Diets
+Today we're continuing into the 20th century and looking at (as the title chapter suggests) Americanizing the many "foreign" (and increasingly industrial) foods that are spreading around the country. Many themes will seem similar to the last few readings (yay continuity!) but we also see how  "American" food is being re-created / reconceptualized after 30 million immigrants bring their amazing cultures and food to the U.S.
 - Helen Zoe Veit, _Modern Food, Moral Food_ (6: Americanizing the American Diet), 123--56.
 
 {% include alert.html class='danger' title='READING QUIZ' text="
-The usual. Whatever that is at this point.
+The usual. Whatever that is at this point. Which is that it may or may not be in Canvas, so you should come to class.
 "%}
 
 
 ### Oct 30: Food festivals, archives, and stories 🎃 
-- David Foster Wallace, "Consider the Lobster"
-- A few short readings on food archive projects
-- Food stories assignment overview
+- David Foster Wallace, "Consider the Lobster" (BIAS ALERT: This is one of my favorite short essays ever, for reasons why we shall discuss. READ FOOTNOTE #6, possibly the GOAT.)
+- A few short readings / resources on food archive projects:
+  - Explore [What America Ate](https://whatamericaate.org/index.php)
+  - [Oral History Project Preserves Black and Indigenous Food Traditions](https://civileats.com/2024/06/04/oral-history-project-preserves-black-and-indigenous-food-traditions)
+  - [Beyond the Cookbook: A Call to Bring Community into Food Studies Archives](https://gradfoodstudies.org/2021/12/13/community-food-archives/)
+  - Browse through a few [Communit and Charity Cookbooks](https://babel.hathitrust.org/cgi/mb?a=listis;c=565414806)
+- IN CLASS: We'll discuss what you discovered in the above links, and the [Food Stories assignment](food-stories) overview. 
 
 
 
