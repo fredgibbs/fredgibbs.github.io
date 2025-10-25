@@ -276,11 +276,18 @@ The usual. Whatever that is at this point. Which is that it may or may not be in
 ### Oct 30: Food festivals, archives, and stories 🎃 
 - David Foster Wallace, "Consider the Lobster" (BIAS ALERT: This is one of my favorite short essays ever, for reasons why we shall discuss. READ FOOTNOTE #6, possibly the GOAT.)
 - A few short readings / resources on food archive projects:
-  - Explore [What America Ate](https://whatamericaate.org/index.php)
-  - [Oral History Project Preserves Black and Indigenous Food Traditions](https://civileats.com/2024/06/04/oral-history-project-preserves-black-and-indigenous-food-traditions)
+  - Explore [What America Ate](https://whatamericaate.org/index.php). Find a couple stories, recipes, ads, or whatever and come prepared to describe what you found interesting.
+  - On that same site, there is a short essay that's perfect for us (and that you should read) on [community cookbooks](https://whatamericaate.org/single.essay.php?kid=164-593-1).
+  - With the article in mind, browse through a few [Community and Charity Cookbooks](https://babel.hathitrust.org/cgi/mb?a=listis;c=565414806), and again come prepared to discuss 1 or 2.
   - [Beyond the Cookbook: A Call to Bring Community into Food Studies Archives](https://gradfoodstudies.org/2021/12/13/community-food-archives/)
-  - Browse through a few [Communit and Charity Cookbooks](https://babel.hathitrust.org/cgi/mb?a=listis;c=565414806)
+  - [Oral History Project Preserves Black and Indigenous Food Traditions](https://civileats.com/2024/06/04/oral-history-project-preserves-black-and-indigenous-food-traditions). Although we have a slightly different focus, this is similar to what our food stories project will do (minus collecting seeds, which is super important!).
+  
 - IN CLASS: We'll discuss what you discovered in the above links, and the [Food Stories assignment](food-stories) overview. 
+
+
+{% include alert.html class='danger' title='WEEKLY REFLECTION' text="
+Given what we've talked about in class so far, how can archives of community food (and agriculturalal) traditions alter the nature of food history? If we had access to this sort of thing for the duration of North American history, how might this course look different? 
+"%}
 
 
 
