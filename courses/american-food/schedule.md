@@ -305,7 +305,7 @@ Given what we've talked about in class so far, how can archives of community foo
 
 
 {% include alert.html class='danger' title='Reading Quiz' text="
-What's the story of meat in America? **USE BOTH READINGS!**
+What's the story of meat in America? **USE BOTH READINGS!** As part of your analysis, please compare and contrast similarities and differences between BOTH the styles of these two readings, as well as the stories of beef and chicken.
 "%}
 
 
