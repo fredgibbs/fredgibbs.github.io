@@ -304,8 +304,8 @@ Given what we've talked about in class so far, how can archives of community foo
   - This looks like a crazy amount of reading, but there are not many words per page; many pages are recipes that you can skip over. It goes by fast, and it's a fun non-academic read.
 
 
-{% include alert.html class='danger' title='Reading Quiz' text="
-What's the story of meat in America? **USE BOTH READINGS!** As part of your analysis, please compare and contrast similarities and differences between BOTH the styles of these two readings, as well as the stories of beef and chicken.
+{% include alert.html class='danger' title='DOUBLE POINTS Weekly Reflection' text="
+What's the story of meat in America? **USE BOTH READINGS!** As part of your analysis, please compare and contrast similarities and differences between the stories of beef and chicken.
 "%}
 
 
