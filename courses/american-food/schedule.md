@@ -302,7 +302,7 @@ Given what we've talked about in class so far, how can archives of community foo
 - Emeyln Rude, _Tastes like Chicken_, 6--11; 27--39; 130--134; 141--160; 181--192. 
   - Sorry for all the partial sections here, but the PDF is just the pages you need to read (the book goes off on many cool tangents, which obscures the big picture). 
   - This looks like a crazy amount of reading, but there are not many words per page; many pages are recipes that you can skip over. It goes by fast, and it's a fun non-academic read.
-
+-  Cool [national campaign ads](http://blog.nyhistory.org/meatless-wheatless-patriotic/) about wartime eating/rationing.
 
 {% include alert.html class='danger' title='DOUBLE POINTS Weekly Reflection' text="
 What's the story of meat in America? **USE BOTH READINGS!** As part of your analysis, please compare and contrast similarities and differences between the stories of beef and chicken.

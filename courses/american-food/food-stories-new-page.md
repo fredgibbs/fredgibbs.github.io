@@ -1,20 +1,19 @@
 ---
 layout: syllabus
-course-title: Artificial History
-course-slug: artificial-history
-number: HIST 300-009
-term: Spring 2025
+course-title: History of American Food
+course-slug: american-food
+number: HIST 413
+term: Fall 2025
 section: links-guides
-site-name: "Campus History"
-group-name: unm-digital-history
-repository-name: campus-history
-repository-url: https://github.com/unm-digital-history/campus-history
-site-url: https://unm-digital-history.github.io/campus-history/
+site-name: "Food Stories"
+group-name: amaranth-unm
+repository-url: https://github.com/amranth-unm/food-stories
+site-url: https://amaranth-unm.github.io/food-stories/
 ---
 
 ## _{{page.site-name}}_ Revision Guide
 
-This guide is useful ONLY AFTER you have followed the directions for [setting up your repository](campus-history-setup).
+This guide is useful ONLY AFTER you have followed the directions for [setting up your repository](food-stories-setup).
 
 Once you have your own copy of the  _{{page.site-name}}_ repository AND your own version of the website is running (the URL will look like https://USERNAME.github.io/{{page.repository-name}}/), you are ready to proceed.
 
@@ -54,7 +53,7 @@ It is IMPERATIVE that you name your folder correctly right away, or you will cre
 
 
 ## Test your page
-- Chill for a minute. Remember there is a lag between when you save your file and the website getting updated.
+- Chill for a minute. Remember there is about a minute lag between when you save your file and the website getting updated.
 - Test your page by going to https://USERNAME.github.io/{{page.repository-name}} (you bookmarked it, right?) and add  `/essays/your-new-folder/` to the URL to see your new page. Obviously replace your-new-folder with what you typed in the previous step.
 
 #### Make sure you have `/essays/` in the above URL
