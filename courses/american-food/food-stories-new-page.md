@@ -6,9 +6,7 @@ number: HIST 413
 term: Fall 2025
 section: links-guides
 site-name: "Food Stories"
-group-name: amaranth-unm
-repository-url: https://github.com/amranth-unm/food-stories
-site-url: https://amaranth-unm.github.io/food-stories/
+repository-name: food-stories
 ---
 
 ## _{{page.site-name}}_ Revision Guide
@@ -24,9 +22,9 @@ Create bookmarks for two locations you will be visiting often:
 - YOUR own _{{page.site-name}}_ **WEBSITE**: https://USERNAME.github.io/{{page.repository-name}}
 
 ## Create a new page
-Go to YOUR repository (the URL will look like https://github.com/USERNAME/{{page.repository-name}}/). You should see the list of files in the repository (starting with folders like _includes and _layouts).
+Go to YOUR repository (the URL will look like https://github.com/USERNAME/{{page.repository-name}}/). You should see the list of files in the repository (starting with folders like _data,_includes, _layouts, etc).
 
-- Click the `essays` folder 
+- Click the `stories` folder 
 - Click the `Add file` button in the upper right, and `Create New File`
 - Type in a folder name for your essay, all lower case and with dashes (example: mesa-vista-hall), and continue typing `/index.md` **DON'T FORGET THE / AT THE BEGINNING**
 
