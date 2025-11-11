@@ -7,7 +7,7 @@ term: Fall 2025
 section: links-guides
 site-name: "Food Stories"
 group-name: amaranth-unm
-repository-url: https://github.com/amranth-unm/food-stories
+repository-url: https://github.com/amaranth-unm/food-stories
 site-url: https://amaranth-unm.github.io/food-stories/
 ---
 
