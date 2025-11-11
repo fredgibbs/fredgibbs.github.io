@@ -323,7 +323,7 @@ What's the story of meat in America? **USE BOTH READINGS!** As part of your anal
 ## 14: Nov 18 + 20
 
 ### Nov 18: Fast food frameworks 🍔 
-- Steven Penfold "[Fast food](https://academic.oup.com/edited-volume/34515/chapter/292852283)", from _The Oxford Handbook of Food History_, 279--302.
+- Steven Penfold "[Fast food](https://academic.oup.com/edited-volume/34515/chapter/292852283)", from _The Oxford Handbook of Food History_, 279--302. For our AI inquiry with this, it's ALSO IN THE ZOTERO LIBRARY as a PDF.
 
 {% include alert.html class='warning' title='Come with a summary' text="
 Use your favorite AI friend to summarize this long article. YOU ALSO NEED TO AT LEAST SKIM IT FOR YOURSELF! We'll compare notes and use AI to help us probe a bit deeper.

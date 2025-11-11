@@ -21,12 +21,15 @@ Create bookmarks for two locations you will be visiting often:
   - Replace USERNAME with your GitHub username!
 - YOUR own _{{page.site-name}}_ **WEBSITE**: https://USERNAME.github.io/{{page.repository-name}}
 
-## Create a new page
+
+## Create a folder and blank page
 Go to YOUR repository (the URL will look like https://github.com/USERNAME/{{page.repository-name}}/). You should see the list of files in the repository (starting with folders like _data,_includes, _layouts, etc).
 
 - Click the `stories` folder 
 - Click the `Add file` button in the upper right, and `Create New File`
-- Type in a folder name for your essay, all lower case and with dashes (example: mesa-vista-hall), and continue typing `/index.md` **DON'T FORGET THE / AT THE BEGINNING**
+- Type in a folder name for your essay:
+  - all lower case and with dashes
+  - example: my-food-story), and continue typing `/index.md` - **DON'T FORGET THE / AT THE BEGINNING**
 
 {% include alert.html class='danger' 
 title = 'Name your folder correctly' 
@@ -39,11 +42,11 @@ It is IMPERATIVE that you name your folder correctly right away, or you will cre
 %}
 
 
-
-
 - Click the green `Commit changes...` button. Yes, you're saving an empty file.
-- Be sure you're still in the `essays` folder.
-- Click on the `mesa-vista-hall` folder
+
+# Copy a sample page into your blank page
+- Be sure you're still in the `stories` folder.
+- Click on the `bbq` folder
 - Click on the `index.md` file 
 - Near the upper right of the screen, click the copy icon (two overlapping rectangles)
 - Click on your new page (index.md) in the folder you created, and paste the text you just copied.
@@ -51,44 +54,10 @@ It is IMPERATIVE that you name your folder correctly right away, or you will cre
 
 
 ## Test your page
-- Chill for a minute. Remember there is about a minute lag between when you save your file and the website getting updated.
-- Test your page by going to https://USERNAME.github.io/{{page.repository-name}} (you bookmarked it, right?) and add  `/essays/your-new-folder/` to the URL to see your new page. Obviously replace your-new-folder with what you typed in the previous step.
+- Chill for a minute because there is about a minute lag between when you save your file and the website getting updated.
+- Test your page by going to https://USERNAME.github.io/{{page.repository-name}} (you bookmarked it, right?) and add  `/stories/YOUR-NEW-FOLDER/` to the URL to see your new page. Obviously replace your-new-folder with what you typed in the previous step.
+- You should also be able to go to https://USERNAME.github.io/{{page.repository-name}}/stories 
 
-#### Make sure you have `/essays/` in the above URL
+
+#### Bookmark your page!
 Once you can get to your page, bookmark it! It's easy to forget what th URL is to preview your page.
-
-## Create your images folder
-You'll notice that no images are showing up on your new page, because we didn't copy any images into your new folder. In fact, you don't even have an `images` folder yet!
-- Find some test image you can use from the [NM digital archive](https://econtent.unm.edu/).
-- Download an image (it doesn't matter what, you can always replace it later) and put it somewhere you can get to quickly.
-- On GitHub, navigate to the folder you just created (via the list of files on the left...)
-- Click the `Add file` button in the upper right (just like before), but this time `Upload Files`
-- Drag and drop your image file into the big box on the GitHub page.
-- Click the green `Commit changes...` button in the bottom left of the page. This time you're saving an actual file!
-- Now you've uploaded a file but it's in the wrong place. We want it in an `images` folder.
-  - But GitHub doesn't keep track of folders, just files. So we need to rename our file to include a folder name.
-- Using the file list on the left, click on your new image file, then the pencil icon to go in edit mode.
-- Click on the name of your file at the top so you can edit it.
-- Add `images/` to the front of the filename (and you'll see that creates an images directory)
-- Click the green `Commit changes...` button.
-- If you want to see your new image appear on your page, find the snippet to display an image and change the image-url parameter to your new filename. **IT MUST MATCH EXACTLY**
-
-
-{% include alert.html class='warning' title='Image problems?' text="
-If an image isn't showing up, your file is not in the right place, or your are not referecing it exactly---meaning your code and filename do not match EXACTLY.  
-- check the file extension (.jpg, .jpeg, .JPG, .png)
-- check capitalization (mesa-vista is NOT THE SAME as Mesa-Vista)
-- check for spaces and dashes (mesa-vista is NOT THE SAME as mesa vista)
-- make sure your image file is where it is supposed to be, in `essays/your-folder/images`
-- make sure your image path in your code starts with `images/`
-"%}
-
-
-
-## Edit offline
-Now you are ready to go in full-on edit mode for your essay. Although fine for testing, **please do not edit this long essay in the tiny GitHub text editor**. It makes it WAY TOO EASY to make mistakes that take a LOT OF TIME to fix. 
-
-Instead, you should copy and paste the whole essay in a text editor, and do all your editing (possibly over a period of time, saving a local copy as you go), then copy and paste your changes to GitHub. **Make sure you save your file with the EXACT same name as the original.** You are welcome to commit your changes in smaller batches, as well, such as one paragraph at a time. My favorite editor is [Sublime](https://www.sublimetext.com/).
-
-## Page build errors
-If you commit a file with a syntax error (a missing quote or something like that), you will get an email saying there is a "page build error". Until you fix it, you won't see any subsequent changes you commit to your repository.
