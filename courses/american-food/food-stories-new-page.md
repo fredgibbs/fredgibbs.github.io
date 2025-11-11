@@ -28,13 +28,13 @@ Go to YOUR repository (the URL will look like https://github.com/USERNAME/{{page
 - Click the `stories` folder 
 - Click the `Add file` button in the upper right, and `Create New File`
 - Type in a folder name for your essay:
-  - all lower case and with dashes
-  - example: my-food-story), and continue typing `/index.md` - **DON'T FORGET THE / AT THE BEGINNING**
+  - all lower case and with dashes (my-food-story) AND
+  - CONTINUE typing `/index.md` - **DON'T FORGET THE / AT THE BEGINNING**
 
 {% include alert.html class='danger' 
 title = 'Name your folder correctly' 
 text = " 
-It is IMPERATIVE that you name your folder correctly right away, or you will create A LOT of work for yourself (and probably me) later. 
+Lower case and upper case are not the same. Spaces are horrible. If you don't name your folder correctly, you will be frustrated later.
 - all lower case, NO CAPITALS ANYWHERE
 - no spaces, no underscores, ONLY DASHES
 - it should like `mesa-vista-hall` or `maxwell-museum` or `johnson-field`
@@ -44,13 +44,20 @@ It is IMPERATIVE that you name your folder correctly right away, or you will cre
 
 - Click the green `Commit changes...` button. Yes, you're saving an empty file.
 
-# Copy a sample page into your blank page
-- Be sure you're still in the `stories` folder.
+
+## Copy a sample page into your blank page
+- Click on the `stories` folder.
 - Click on the `bbq` folder
 - Click on the `index.md` file 
-- Near the upper right of the screen, click the copy icon (two overlapping rectangles)
-- Click on your new page (index.md) in the folder you created, and paste the text you just copied.
- - Click the green `Commit changes...` button.
+- Near the upper right of the screen, click the copy icon (two overlapping rectangles) to copy all the text.
+
+
+## Paste the sample into your new blank page
+- Click on the folder your created (all lower case and with dashes)
+- Click on the index.md file
+- Paste the text you just copied.
+- Update your page metadata as best you can right now (you'll add an image later)
+- Click the green `Commit changes...` button.
 
 
 ## Test your page
@@ -61,3 +68,4 @@ It is IMPERATIVE that you name your folder correctly right away, or you will cre
 
 #### Bookmark your page!
 Once you can get to your page, bookmark it! It's easy to forget what th URL is to preview your page.
+
