@@ -22,6 +22,9 @@ This page contains a list of important links that appear on various places on th
 ## Assignment Guides
 - [Reading Reflections](reading-reflections)
 - [Early Cookbook Analysis](cookbook-analysis)
-- [Food Blog Analysis](food-blog-analysis)
 - [Final Course Reflection](final-course-reflection)
 - [Extra Credit Food Documentary Analysis](food-documentary-analysis)
+
+## Food Stories Links
+- [Food Stories Setup](food-stories-setup)
+- [Creating your story](food-stories-new-page)
