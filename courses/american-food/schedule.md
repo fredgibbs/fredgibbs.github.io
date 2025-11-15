@@ -316,7 +316,8 @@ What's the story of meat in America? **USE BOTH READINGS!** As part of your anal
 
 
 ### Nov 13: NO CLASS
-- Catch up and Work on your story pages!
+- Catch up and work on your [food story pages](food-stories)!
+- These are due ideally by Dec 2, but definitely by Dec 12.
 
 
 
@@ -357,23 +358,35 @@ One last readings + discussion quiz!
 
 ### Nov 27: THANKSGIVING! 🦃
 
+{% include alert.html class='warning' title='Record a Story' text="
+If you haven't done so already, the break is a great time to record your [Food Story](food-story)!
+"%}
+
+
 
 ## 16: Dec 2 - 4
 
 ### Dec 2: Pot luck! 
 - Bring something to share
-- You don't need to feed everyone
 - NO NUTS if possible
-- Even if you can't bring something, COME ANYWAY! 
+- You don't need to feed everyone
+- Even if you can't bring something, COME ANYWAY and EAT! 
 
 
 ### Dec 4: NO CLASS 🎉 
+Having class would be like a bug on a dead thing.
+
+
+## Dec 12: EVERYTHING Due 🏁 
+Any work you want to turn in is due today!
+
+For your FOOD STORY, be sure you're following the [Food Stories Guide](food-stories)! 
+
+For your FINAL LEARNING REFLECTION---over the WHOLE CLASS---be sure you consult the [Final Course Reflection Guide](final-course-reflection)! 
+
+I can't emphasize enough: DO NOT SUMMARIZE THE COURSE. Also, remember it's YOUR job to distinguish yourself from AI. If I can't tell, I'll be a very grumpy grader for your essay.
 
 
 
-## Dec 12: Finals Due 🏁 
-Your FINAL Learning Reflection---over the WHOLE CLASS---needs to be turned in BY THE END OF TODAY. See the [Final Course Reflection Guide](final-course-reflection). I can't emphasize enough that this SHOULD NOT BE MERELY A SUMMARY of what we've covered. Instead, as the instructions explain in more detail, illustrate how your thinking about food has changed over the month, and how your submitted work justifies what you think should be your overall grade for the course.
-
-{% include alert.html class='danger' title='Final Course Reflection' text="
-Make sure to post your [Final Course Reflection](final-course-reflection) on Canvas! If something comes up at the last minute, or you need some time to process an epiphany about the course, email to ask for more time (just let me know what you need and what your plan is).
+{% include alert.html class='warning' title='One last thing' text="If something comes up at the last minute, or you need some time to process an epiphany about the course, just let me know what time you need and what your plan is.
 "%}
