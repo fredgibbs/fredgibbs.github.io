@@ -359,7 +359,7 @@ One last readings + discussion quiz!
 ### Nov 27: THANKSGIVING! 🦃
 
 {% include alert.html class='warning' title='Record a Story' text="
-If you haven't done so already, the break is a great time to record your [Food Story](food-story)!
+If you haven't done so already, the break is a great time to record your [Food Story](food-stories)!
 "%}
 
 
