@@ -18,14 +18,14 @@ We've talked about the absence and fragility of historical archives about what p
 
 
 ## What you will do
-- Record ~5 minutes (more is fine, try not to be too much under) of someone or yourself discussing a food experience, dish or food tradition. The topic doesn't really matter as long as it's meaningful to the speaker.
-- If recording yourself, visiting the Digital Humanities Studio (Amaranth) in Mesa Vista is highly recommended for easy access to a good audio recording setup. You can use your phone, no prob. 
+- Record ~5 minutes (more is fine, try not to be too much under) of someone (maybe yourself) discussing a food experience, dish or food tradition. The topic doesn't really matter as long as it's meaningful to the speaker.
+- If recording yourself, visiting the Digital Humanities Studio (Amaranth) in Mesa Vista is highly recommended for easy access to a good audio recording setup. If you want to record someone else over Thanksgiving or whatever, you can use your phone, no prob. 
 - Use basic sound editing software to clean up the recording (this takes about 30-45 minutes even if it's your first time)
 - Create a ~50 word introduction to your speaker to help contextualize them and the story
 - Write up a ~600-word ANALYSIS (not summary) of the story based on course themes to "read between the lines" (like the cookbook assignment)
 - Use/take a photo or use AI to generate some goofy image related to your food topic
 - Create a simple webpage to present your speaker bio, image, and interview clip
-- **YOU WILL HAVE DETAILED INSTRUCTIONS FOR EVERY STEP**
+- See instruction links below for technical details
 
 ## Questions to keep in mind for your analysis
 - How does the story related to identity, gender, community, authenticity, heritage, etc?
@@ -35,11 +35,17 @@ We've talked about the absence and fragility of historical archives about what p
 - How much does tradition or originality or authenticity matter?  
 - REMEMBER: You're READING BETWEEN THE LINES to tell your readers/listeners about American culture and cuisine.
 
+## Instructions
+- [Setting up your own copy of the food stories site](food-stories-setup)
+- [Creating your own food stories page in your new site](food-stories-new-page)
+- [Recording your story](https://amaranth-unm.github.io/audio/recording)
+- [Editing your story](https://amaranth-unm.github.io/audio/audacity)
+  - Remember you can use whatever editing tool you want; I provide instructions for Audacity because it's free and works with all operating systems.
+
 
 ## Due Date
 Ideally, have this done before our potluck on December 2. Then you don't have to think about it!
 ABSOLUTE DUE DATE: December 12 (the last day of finals)
-
 
 ## Questions
 Coursework is frustrating and virtually impossible to do well when you're not sure what to do or how to do it. Please reach out if something's not clear!
