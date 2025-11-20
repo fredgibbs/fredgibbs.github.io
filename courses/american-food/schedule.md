@@ -338,7 +338,7 @@ Use your favorite AI friend to summarize this long article.
 
 
 ### Nov 20: Countercuisine 🥗 
-- Warren Belasco, _Appetite for Change_, 29--42 (2: Radical Consumerism) and 43--67 (3: Oppositional Identities).
+- Warren Belasco, _Appetite for Change_, 43--67 (3: Radical Therapy: Oppositional Identity), 112--131 (5: The Orthodox Defense: War of the Metaphors)
 
 {% include alert.html class='danger' title='DOUBLE POINTS Weekly Reflection' text="
 How should we understand the tension between the dual rise of BOTH fast food and countercuisine in the second half of the 20th century? Your reponse must be:
