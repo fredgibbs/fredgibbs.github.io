@@ -356,8 +356,8 @@ Just one meeting this week, and we're going back in time a little to examine the
 ### Nov 25: T-day mythology
 - Philip Deloria, “[The Invention of Thanksgiving](https://www.newyorker.com/magazine/2019/11/25/the-invention-of-thanksgiving)”, _New Yorker_, 95.37 (November 25, 2019): 70--74. [Also in Zotero if the link doesn't work.]
 - Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167--91.
-- [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/). This quick read serves two purposes: it's a nice overview of what food were likely available at the harvest celebration of 1621. And it's a good example of uncritical food history that focuses entirely on food without much of the historical context (neither in the 1600s or 1900s).
-- IN CLASS: course wrap-up 🎯 and tips for succeess on your [final course reflection](final-course-reflection) due next week!  
+- [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/). This quick read serves two purposes: it's a nice overview of what food was likely available at the harvest celebration of 1621. And it's a good example of uncritical food history that focuses entirely on food without much of the historical context (neither in the 1600s or 1900s).
+
 
 {% include alert.html class='danger' title='Last Quiz' text="
 One last readings + discussion quiz! 
@@ -374,11 +374,14 @@ If you haven't done so already, the break is a great time to record your [Food S
 
 ## 16: Dec 2 - 4
 
-### Dec 2: Pot luck! 
-- Bring something to share
-- NO NUTS if possible
-- You don't need to feed everyone
-- Even if you can't bring something, COME ANYWAY and EAT! 
+### Dec 2: Review & Pot luck! 🎯 
+- Quick review of food stories work
+- Course wrap-up and tips for succeess on your [final course reflection](final-course-reflection) due next week!  
+- EAT!
+  - Bring something to share
+  - NO NUTS if possible
+  - You don't need to feed everyone
+  - Even if you can't bring something, COME ANYWAY and EAT! 
 
 
 ### Dec 4: NO CLASS 🎉 
