@@ -41,6 +41,7 @@ We've talked about the absence and fragility of historical archives about what p
 - [Recording your story](https://amaranth-unm.github.io/audio/recording)
 - [Editing your story](https://amaranth-unm.github.io/audio/audacity)
   - Remember you can use whatever editing tool you want; I provide instructions for Audacity because it's free and works with all operating systems.
+- If you get stuck email me or even better, [email Amaranth](https://amaranth-unm.github.io/contact)
 
 
 ## Due Date
