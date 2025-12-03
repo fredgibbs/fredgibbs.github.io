@@ -7,6 +7,7 @@ term: Fall 2025
 section: links-guides
 site-name: "Food Stories"
 repository-name: food-stories
+sample-folder: stories
 ---
 
 ## _{{page.site-name}}_ Revision Guide
@@ -60,12 +61,11 @@ Lower case and upper case are not the same. Spaces are horrible. If you don't na
 - Click the green `Commit changes...` button.
 
 
-## Test your page
+## Test and bookmark your page
 - Chill for a minute because there is about a minute lag between when you save your file and the website getting updated.
 - Test your page by going to https://USERNAME.github.io/{{page.repository-name}} (you bookmarked it, right?) and add  `/stories/YOUR-NEW-FOLDER/` to the URL to see your new page. Obviously replace your-new-folder with what you typed in the previous step.
-- You should also be able to go to https://USERNAME.github.io/{{page.repository-name}}/stories 
+- You should also be able to go to https://USERNAME.github.io/{{page.repository-name}}/{{page.sample-folder}}
+- Once you can get to your working webpage, BOOKMARK IT! It's easy to forget what the URL is to preview your page.
 
-
-#### Bookmark your page!
-Once you can get to your page, bookmark it! It's easy to forget what th URL is to preview your page.
-
+## Edit, revise, and submit your page
+For more details on editing and submitting your page, check out the [editing and submitting instructions](food-stories-editing-submitting).

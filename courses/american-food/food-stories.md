@@ -38,15 +38,14 @@ We've talked about the absence and fragility of historical archives about what p
 ## Instructions
 - [Setting up your own copy of the food stories site](food-stories-setup)
 - [Creating your own food stories page in your new site](food-stories-new-page)
-- [Recording your story](https://amaranth-unm.github.io/audio/recording)
-- [Editing your story](https://amaranth-unm.github.io/audio/audacity)
+- [Recording your audio](https://amaranth-unm.github.io/audio/recording)
+- [Editing your audio](https://amaranth-unm.github.io/audio/audacity)
   - Remember you can use whatever editing tool you want; I provide instructions for Audacity because it's free and works with all operating systems.
-- If you get stuck email me or even better, [email Amaranth](https://amaranth-unm.github.io/contact)
-
+- If you get stuck, email me or [Amaranth](https://amaranth-unm.github.io/contact)
+- [Editing and Submitting your work](food-stories-editing-and-submitting)
 
 ## Due Date
-Ideally, have this done before our potluck on December 2. Then you don't have to think about it!
-ABSOLUTE DUE DATE: December 12 (the last day of finals)
+December 12 (the last day of finals)
 
 ## Questions
-Coursework is frustrating and virtually impossible to do well when you're not sure what to do or how to do it. Please reach out if something's not clear!
+Coursework is frustrating and virtually impossible to do well when you're not sure what to do or how to do it. Please reach out if something's not clear! 
