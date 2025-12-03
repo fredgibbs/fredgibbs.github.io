@@ -5,6 +5,7 @@ course-slug: american-food
 number: HIST 413
 term: Fall 2025
 section: links-guides
+title: Food Stories Editing and Submitting Guide
 site-name: "Food Stories"
 repository-name: food-stories
 sample-folder: stories
@@ -14,15 +15,11 @@ sample-folder: stories
 
 This guide is useful ONLY AFTER you have followed the directions for [setting up your repository](food-stories-setup) and [starting your page](food-stories-new-page).
 
-{% include alert.html class='info' 
-title = 'Save time with bookmarks' 
-text = " 
-Reminder! Create bookmarks for two locations you will be visiting often:
+ 
+**Reminder! Create bookmarks for two locations you will be visiting often:**
 - YOUR own _{{page.site-name}}_ **REPOSITORY**: https://github.com/USERNAME/{{page.repository-name}}/
   - Replace USERNAME with your GitHub username!
 - YOUR own _{{page.site-name}}_ **WEBSITE**: https://USERNAME.github.io/{{page.repository-name}}
-"
-%}
 
 
 ## Editing your new page
@@ -33,20 +30,6 @@ Now that you have a working website and your own page to edit, you're ready to r
 It's best to write out anything you want on your page in Word or whatever and then copy and paste it into GitHub when you're editing your page. Editing in the tiny GitHub text edit box is annoying and it's too easy to miss typos and other mistakes. 
 
 Once you have replaced the sample text with your own, click the green `Commit changes...` button. 
-
-
-### Move your files into your repository
-
-{% include alert.html class='warning' 
-title = 'Take care with filenames' 
-text = " 
-**Important:**
-- Filenames much match **exactly**
-- Include the correct file extension (`.jpg`, `.png`, `.gif`, etc.)
-- Match capitalization, spaces, underscores, etc.
-- Keep the caption text inside the quotes
-"
-%}
 
 
 ### Upload Your Audio File to GitHub
@@ -70,21 +53,32 @@ text = "
 ### Edit your page to use the new files
 Your food story page uses two special "include" codes to display your audio recording and image. You need to update these codes to match the files you uploaded.
 
-- Find this line on your page: `{% include audio.html src="bbq.mp3" %}`
-- Change the bbp.mp3 to whatever YOUR audio file is
-- Keep the quotes, and make sure what's between the quotes is EXACTLY the same as the file you uploaded.
+{% include alert.html class='warning' 
+title = 'Take care with filenames' 
+text = " 
+- Filenames much match **exactly**
+- Include the correct file extension (`.jpg`, `.png`, `.gif`, etc.)
+- Match capitalization, spaces, underscores, etc.
+- Keep the caption text inside the quotes
+"
+%}
 
-**Do the same thing for your image:**
-- Find this line on your page: `{% include figure.html image-path="bbq.png" caption="Your caption here" %}`
+
+- Find this line on your page: `{%raw%}{% include audio.html src="bbq.mp3" %}{%endraw%}`
+- Change the bbq.mp3 to whatever YOUR audio file ism names
+- Be sure to keep the quotes, and make sure what's between the quotes is EXACTLY the same as the name of the file you uploaded.
+
+**Do the SAME THING for your image**
+- Find this line on your page: `{%raw%}{% include figure.html image-path="bbq.png" caption="Your caption here" %}`{%endraw%}
 - Change what's between the quotes for the `image-path` to be your image filename. 
-- Keep the quotes, and make sure what's between the quotes is EXACTLY the same as the file you uploaded.
+- Be sure to keep the quotes, and make sure what's between the quotes is EXACTLY the same as the name of the file you uploaded.
 
 **Commit your changes!**
 Use the green `Commit Changes` button as usual to save your work.
 
 
 ### Verify Everything Works
-After uploading both files and updating code snippets with your filenames:
+After uploading both files and updating code snippets with your filenames (and committing your changes):
 
 1. Wait 1-2 minutes for GitHub Pages to rebuild your site
 2. Visit your food story page on your website (you bookmarked it, right?)
@@ -97,7 +91,7 @@ After uploading both files and updating code snippets with your filenames:
 ### Troubleshooting
 
 **Audio or image doesn't appear?**
-- Make sure you didn't accidentally remove or add extra code characters, like `{%`, `%}` 
+- Make sure you didn't accidentally remove or add extra code characters, like {%raw%}{%{%endraw%} or {%raw%}%}{%endraw%}
 - Make sure you're not missing any quotation marks 
 - Double-check that the file names in your code exactly match the uploaded file names (including capitalization and file extension)
 - Wait a few minutes and refresh your browser—GitHub Pages can take time to update
@@ -117,13 +111,13 @@ After uploading both files and updating code snippets with your filenames:
 Be sure you've followed the [guidelines](food-stories) and have all the expected components (brief intro, image, functioning audio player, analysis).
 
 ### Pull Requests
-When you are *completely* done editing, you need to get your local changes (in YOUR repository) to the main site _{{page.site-name}}_ that everyone sees. Basically, you want me as the site manager to "pull" your changes from your remote repository (your copy of it) to the main site. In GitHub speak, this is called making a `pull request`. If you have followed the assignment instructions, I will "accept" the request; if not I will "reject" them. This process prevents mistakes, bugs, and crappy pages from showing up on the main site.
+When you are *completely* done editing, you need to get your local changes (in YOUR repository) to the [main  _{{page.site-name}}_](https://amaranth-unm.github.io/food-stories/) site that everyone sees. Basically, you want me as the site manager to "pull" your changes from your remote repository (your copy of it) to the main site. In GitHub speak, this is called making a `pull request`. If you have followed the assignment instructions, I will "accept" the request; if not I will "reject" them. This process prevents mistakes, bugs, and crappy pages from showing up on the main site. You will still get credit for your assignment regardless. 
 
 
 ### How to create a pull request
 - Go to the homepage of YOUR _{{page.site-name}}_ repository, and click the `Pull Request` nav link near the top.
 - Click the Green `New Pull Request` button.
-- GitHub will show you what changes you are making, line by line (a whole paragraph counts as a line). Verify that the changes are correct.
+- GitHub will show you what changes you are making, line by line (a whole paragraph counts as a line). Verify that the changes are correct. You should see where you replaced the sample text and changed the names of the audio and image files.
 - Click the Green `Create Pull Request` button.
 - You should see near the top a green message that says `Able to merge.` If you don't see that, you should just stop and send me an email.
 - Click the Green `Create Pull Request` button.
@@ -131,4 +125,3 @@ When you are *completely* done editing, you need to get your local changes (in Y
 
 ## You're done!
 After you make the pull request, there's nothing else to do! If you notice that you missed a typo or something you can always make another change and another pull request. Thank you for all of your hard work to launch our new food archive! Once all the pull requests are approved, you should be able to see and listen to all the stories at the [Food Stories Archive](https://amaranth-unm.github.io/food-stories/).
-

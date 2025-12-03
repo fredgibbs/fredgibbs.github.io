@@ -28,9 +28,10 @@ This page contains a list of important links that appear on various places on th
 ## Food Stories Links
 - [Food Stories Setup](food-stories-setup)
 - [Creating your story](food-stories-new-page)
-- [Recording your story](https://amaranth-unm.github.io/audio/recording)
-- [Editing your story](https://amaranth-unm.github.io/audio/audacity)
-  - Remember you can use whatever editing tool you want; I provide instructions for Audacity because it's free and works with all operating systems.
+- [Recording your audio](https://amaranth-unm.github.io/audio/recording)
+- [Editing your audio](https://amaranth-unm.github.io/audio/audacity)
+- [Editing and Submitting your page](food-stories-editing-submitting)
+
 
 ## Extra Credit
 - [Extra Credit Food Documentary Analysis](food-documentary-analysis)
