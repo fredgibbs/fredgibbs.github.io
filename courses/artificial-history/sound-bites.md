@@ -42,7 +42,7 @@ Remember we're modeling this on the [Everything is Alive](https://www.everything
   - You can drag and drop files onto the app or use the File menu to import files
   - Cut out what you don't need from the clips
   - Arrange them so they make sense
-- Export your file (the defauly mp3 is fine); make sure you're exporting a sound file, not an Audacity project file (.aup)
+- Export your file (the default `mp3` is fine); make sure you're exporting a sound file, not an Audacity project file (.aup)
 - Upload the sound file to your campus history folder in GitHub
 - Copy and paste the audio code snippet from the Essay Components page (with all the snippets) to your own essay
 - Change the filename to match your downloaded file
