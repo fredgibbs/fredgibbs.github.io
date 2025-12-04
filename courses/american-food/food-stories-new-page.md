@@ -26,7 +26,7 @@ Create bookmarks for two locations you will be visiting often:
 ## Create a folder and blank page
 Go to YOUR repository (the URL will look like https://github.com/USERNAME/{{page.repository-name}}/). You should see the list of files in the repository (starting with folders like _data,_includes, _layouts, etc).
 
-- Click the `stories` folder 
+- Click the `stories` folder (not the stories.md file)
 - Click the `Add file` button in the upper right, and `Create New File`
 - Type in a folder name for your essay:
   - all lower case and with dashes (my-food-story) AND
