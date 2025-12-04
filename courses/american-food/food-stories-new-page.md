@@ -47,7 +47,7 @@ Lower case and upper case are not the same. Spaces are horrible. If you don't na
 
 
 ## Copy a sample page into your blank page
-- Click on the `stories` folder.
+- Click on the `stories` folder (not the stories.md file)
 - Click on the `bbq` folder
 - Click on the `index.md` file 
 - Near the upper right of the screen, click the copy icon (two overlapping rectangles) to copy all the text.
