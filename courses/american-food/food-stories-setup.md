@@ -39,7 +39,7 @@ You now have a "local" copy of the repository, which is all files that make the 
 
 - Click the `Settings` nav link near the top of the page
 - Click the `Pages` link on the left nav
-- Click the button that says `None` and change it to `master`
+- Click the button that says `None` and change it to `main`
 - Click the `Save`  button
 - Click the `Actions` tab, and wait for the orange yellow dot to turn green
 - Click on `Settings` and then `Pages` again.
