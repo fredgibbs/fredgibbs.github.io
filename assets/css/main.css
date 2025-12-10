@@ -190,7 +190,7 @@ Common
 
   .title a, .title a:hover, .title a:visited {
     font-family: 'Roboto', cursive;
-    font-size:5.3rem;
+    font-size:5rem;
     font-weight:900;
     line-height:7rem;
     padding-bottom:0rem;
@@ -645,3 +645,50 @@ h3 {
 }
 
 }
+
+/****************************************************************************
+CV Expand/Collapse
+****************************************************************************/
+details.cv-expand {
+  margin: 1rem 0;
+}
+
+details.cv-expand summary {
+  cursor: pointer;
+  color: #0066cc;
+  font-weight: 500;
+  padding: 0.5rem 0;
+  list-style: none;
+  user-select: none;
+}
+
+details.cv-expand summary::-webkit-details-marker {
+  display: none;
+}
+
+details.cv-expand summary:hover {
+  color: #004499;
+  text-decoration: underline;
+}
+
+details.cv-expand summary span::after {
+  content: " →";
+}
+
+details.cv-expand[open] summary span {
+  display: none;
+}
+
+details.cv-expand[open] summary::before {
+  content: "Show less";
+}
+
+@media print {
+  details.cv-expand {
+    display: block !important;
+  }
+  details.cv-expand summary {
+    display: none !important;
+  }
+}
+

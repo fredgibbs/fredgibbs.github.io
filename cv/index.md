@@ -53,6 +53,9 @@ Physics
 
 "Editorial Sustainability and Open Peer Review at Programming Historian," _DHCommons_ 1 (2015). [DHCommons](http://dhcommons.org/journal/issue-1/editorial-sustainability-and-open-peer-review-programming-historian) \| [PDF](http://fredgibbs.net/publications/Editorial_Sustainability.pdf)
 
+<details class="cv-expand" markdown="1">
+<summary><span>Show more articles</span></summary>
+
 "From Theory to Practice in the Digital Humanities," in _Bildungsgeschichte. International Journal for the Historiography for Education_ 1-2015, 95-99. [PDF](http://fredgibbs.net/publications/IJHE-Gibbs.pdf)
 
 "Poisonous Properties, Bodies, and Forms in the Fifteenth Century," _Preternature_ 2.1 (2013): 19-46. [project muse](http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/preternature/v002/2.1.gibbs.html)
@@ -67,6 +70,7 @@ Physics
 
 "A Conversation with Data: Prospecting Victorian Words and Ideas," _Victorian Studies_ 54.1 (2011): 69-77 [with Dan Cohen]. [project muse](http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/victorian_studies/v054/54.1.gibbs.html) \| [blog](http://fredgibbs.net/publications/conversation-with-data)
 
+</details>
 
 
 ### Book Chapters
@@ -105,10 +109,14 @@ Luke Demaitre, _Medieval Medicine: The Art of Healing from Head to Toe_. Santa B
 
 Nancy G. Siraisi, _Communities of Learned Experience. Epistolary Medicine in the Renaissance_. Baltimore: Johns Hopkins University Press, 2013. In _British Journal of the History of Science_ 47.1 (2014): 178-9.
 
+<details class="cv-expand" markdown="1">
+<summary><span>Show more reviews</span></summary>
+
 Ian Mortimer, _The Dying and the Doctors: the Medical Revolution in Seventeenth Century England_. Woodbridge: Boydell Press, 2009. In _Journal of Social History_ 44.4 (2011): 1289-91.
 
 Lawrence M. Principe (ed.), _Chymists and Chymistry_. Edited by . Philadelphia: Chemical Heritage Foundation and Science History Publications, 2007. In _Pharmacy in History_ 50.1 (2008): 34-6.
 
+</details>
 
 
 ## Selected Presentations, Panels, and Workshops
@@ -127,6 +135,9 @@ Dartmouth (Apr 2017)
 
 *Personal Failure and Decentralized Digital History*  
 American Historical Association (Jan 2017)
+
+<details class="cv-expand" markdown="1">
+<summary><span>Show more presentations</span></summary>
 
 *Data, Humanities and the History of Medicine: New Pedagogical Approaches*
 American Association for the History of Medicine (April 2016)
@@ -256,6 +267,8 @@ Midwest Junto for the History of Science (Apr 2006)
 
 *Plague, Pestilence and Disease*  
 Society for the Social History of Medicine Post-graduate conference (Jan 2006)
+
+</details>
 
 
 ## Recent Courses

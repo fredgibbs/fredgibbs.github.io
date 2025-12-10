@@ -17,6 +17,8 @@ toc-rows:
     headings:
       - title: history of natural diets
         link: projects/#unnaturally-natural-diets
+      - title: amaranth
+        link: projects/#amaranth
       - title: xanthan
         link: projects/#xanthan
       - title: historic trails
@@ -29,29 +31,18 @@ toc-rows:
   - title: courses
     link: courses/
     headings:
-      - title: diet + health + expertise
-        link: courses/diet-health-expertise
       - title: artificial history
         link: courses/artificial-history
       - title: american food
         link: courses/american-food
+      - title: diet + health + expertise
+        link: courses/diet-health-expertise
       - title: food + technology + society
         link: courses/food-technology-society
       - title: idea of nature
         link: courses/idea-of-nature
       - title: historiography
         link: courses/historiography
-  - title: tutorials
-    link: tutorials/
-    headings:
-      - title: QGIS
-        link: tutorials/#qgis
-      - title: data work
-        link: tutorials/#data-work
-      - title: digital publishing
-        link: tutorials/#digital-publishing
-      - title: set-up
-        link: tutorials/#general-programming
   - title: archive
     link: archive/
     headings:
