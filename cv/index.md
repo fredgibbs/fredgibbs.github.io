@@ -14,7 +14,9 @@ Albuquerque, NM 87131-1181
 
 ## Academic Employment
 
-### University of New Mexico  
+### University of New Mexico
+Associate Dean of Student Success, University College (Jun 2025 – )  
+Associate Dean of Curriculum, College of Arts & Sciences (Aug 2022 – Aug 2024)  
 Associate Professor of History (Aug 2017 - )  
 Assistant Professor of History (Aug 2013 - Jul 2017)  
 
@@ -43,6 +45,8 @@ Physics
 
 
 ### Articles in Refereed Journals
+“Mapping & Maps in Digital & Public History,” in Mark Tebeau and Serge Noiret (eds.), ¬Handbook in Digital Public History. (De Gruyter, 2022).
+
 "Teaching and Researching the History of Medicine in the Era of (Big) Data: Reflections," _Medical History_, 61.4 (2017), 609-11. [with Jeffrey S. Reznick] [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5629600/)
 
 "Data, Humanities and the History of Medicine: New Pedagogical Approaches," _Medical History_, 61.1 (2017), 177-180. [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5206956/)
@@ -54,7 +58,7 @@ Physics
 "Editorial Sustainability and Open Peer Review at Programming Historian," _DHCommons_ 1 (2015). [DHCommons](http://dhcommons.org/journal/issue-1/editorial-sustainability-and-open-peer-review-programming-historian) \| [PDF](http://fredgibbs.net/publications/Editorial_Sustainability.pdf)
 
 <details class="cv-expand" markdown="1">
-<summary><span>Show more articles</span></summary>
+<summary><span>Show older articles</span></summary>
 
 "From Theory to Practice in the Digital Humanities," in _Bildungsgeschichte. International Journal for the Historiography for Education_ 1-2015, 95-99. [PDF](http://fredgibbs.net/publications/IJHE-Gibbs.pdf)
 
@@ -71,6 +75,7 @@ Physics
 "A Conversation with Data: Prospecting Victorian Words and Ideas," _Victorian Studies_ 54.1 (2011): 69-77 [with Dan Cohen]. [project muse](http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/victorian_studies/v054/54.1.gibbs.html) \| [blog](http://fredgibbs.net/publications/conversation-with-data)
 
 </details>
+
 
 
 ### Book Chapters
@@ -110,7 +115,7 @@ Luke Demaitre, _Medieval Medicine: The Art of Healing from Head to Toe_. Santa B
 Nancy G. Siraisi, _Communities of Learned Experience. Epistolary Medicine in the Renaissance_. Baltimore: Johns Hopkins University Press, 2013. In _British Journal of the History of Science_ 47.1 (2014): 178-9.
 
 <details class="cv-expand" markdown="1">
-<summary><span>Show more reviews</span></summary>
+<summary><span>Show older reviews</span></summary>
 
 Ian Mortimer, _The Dying and the Doctors: the Medical Revolution in Seventeenth Century England_. Woodbridge: Boydell Press, 2009. In _Journal of Social History_ 44.4 (2011): 1289-91.
 
@@ -119,7 +124,13 @@ Lawrence M. Principe (ed.), _Chymists and Chymistry_. Edited by . Philadelphia: 
 </details>
 
 
+
 ## Selected Presentations, Panels, and Workshops
+*Digital Hermeneutics: From Research to Dissemination*  
+German Historical Institute (October 2019)
+
+Historiography in the Digital Age (poster)  
+American Historical Association (Jan 2019)
 
 Panelist: *History of Food, Nutrition, and the History of Medicine*  
 American Association for the History of Medicine (May 2018)
@@ -137,7 +148,7 @@ Dartmouth (Apr 2017)
 American Historical Association (Jan 2017)
 
 <details class="cv-expand" markdown="1">
-<summary><span>Show more presentations</span></summary>
+<summary><span>Show older presentations</span></summary>
 
 *Data, Humanities and the History of Medicine: New Pedagogical Approaches*
 American Association for the History of Medicine (April 2016)
@@ -272,35 +283,37 @@ Society for the Social History of Medicine Post-graduate conference (Jan 2006)
 
 
 ## Recent Courses
-[Digital History](http://fredgibbs.net/courses/digital-history), [Food, Diet, and Health](http://fredgibbs.net/courses/food-diet-health), [Food, Technology, and Society](http://fredgibbs.net/courses/food-technology-society), [American Food Cultures](http://fredgibbs.net/courses/american-food), [Historiography](http://fredgibbs.net/courses/historiography), [Digital Mapping](http://fredgibbs.net/courses/digital-mapping)
+[Artificial History](http://fredgibbs.net/courses/artificial-history), [American Food History](http://fredgibbs.net/courses/american-food), [Diet, Health & Expertise](http://fredgibbs.net/courses/diet-health-expertise), [Food, Technology, and Society](http://fredgibbs.net/courses/food-technology-society), , [Historiography](http://fredgibbs.net/courses/historiography)
 
 
 ## Engagements
 
-### Editorships
-* Editor, H-Nutrition (Fall 2016 - )
-* General Editor, *[Programming Historian](http://programminghistorian.org)* (Spring 2012 - Summer 2017)
-* Advisory Editor (Digital Scholarship) for _Isis_ [Journal of the History of Science Society] (Spring 2015 – Spring 2017 )
 
-
-### Administrata
-
-#### Professional Societies
+### Professional Service
+- Manuscript reviewer for _Digital Humanities Quarterly_, _Bulletin of the History of Medicine_, _Social History of Medicine_, _Agricultural History_, _Gastronomica_, _Isis_, _Technology & Culture_, _History Compass_, _Historical Geography_, _Public Historian_
+- Grant reviewer for National Endowment for the Humanities, Social Science Humanitiers Research Council (Canada)
+* Co-editor, H-Nutrition (Fall 2016 - Spring 2022)
+* General Editor, *[Programming Historian](http://programminghistorian.org) (Spring 2012 - Summer 2017)
+* Advisory Editor (Digital Scholarship) for _Isis_ [Journal of the History of Science Society] (Spring 2015 – Spring 2017)
 * History of Science Society Technology and Communication Committee (Fall 2015 - Fall 2017)
 * History of Science Society ad-hoc committee on Publication Standards and Excellence (Spring – Summer 2015)
 * History of Science Society Strategic Planning Committee (Fall 2013 - Spring 2015)
 
-#### College and University
-* Faculty Advisory Committee for the UNM / National Park Service - National Trails Intermountain Region partnership (Spring 2016 - )
-* UNM Faculty Senate Information Technology Use Committee (Fall 2013 - Fall 2018)
-* UNM Data to Knowledge Conference Organizing Committee (Spring 2014 - Fall 2015)
-* Institute for Medieval Studies Steering Committee (Fall 2013 - )
 
-#### Departmental
-* UNM History Department Undergraduate Director (Fall 2018 - )
-* UNM History Department Assessment Coordinator (Fall 2017 - )
-* UNM History Department Faculty Senator (Fall 2017 - )
-* UNM History Department Library Liaison (Fall 2015 - )
+### College and University
+- APR Review Team for Geography and Environmental Studies (Fall 2025)
+- Faculty Advisory Committee for the UNM / National Park Service - National Trails Intermountain Region partnership (Spring 2016 - )
+- Founder, UNM Spatial Humanities Working Group (2015—2019) 
+- UNM Faculty Senate Information Technology Use Committee (Fall 2013 - Fall 2018)
+- UNM Data to Knowledge Conference Organizing Committee (Spring 2014 - Fall 2015)
+- Institute for Medieval Studies Steering Committee (Fall 2013 - )
+
+
+### Departmental
+- UNM History Director of Undergraduate Studies (Fall 2018 — Fall 2022; Fall 2024 - Spring 2025) 
+* UNM History Assessment Coordinator (Fall 2017 - Fall 2024)
+* UNM History Faculty Senator (Fall 2017 - 2019)
+* UNM History Library Liaison (Fall 2015 - 2019)
 * UNM History Graduate Advisory Committee (Fall 2014 - Fall 2016)
 * GMU Graduate Admissions Committee (2012-13)
 * GMU History Day Organizer (2009-2012)

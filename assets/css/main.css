@@ -435,7 +435,7 @@ Common
 
   .cv h3{
     line-height: 1.5rem;
-    margin:1rem 0 .3rem 0;
+    margin: 2rem 0 .3rem 0;
   }
 
   .cv ul {
@@ -619,7 +619,8 @@ h3 {
 .cv h3 {
   font-size: 110%;
   font-weight: bold;
-  margin: 2em 0 0 0;
+  margin-top: 2rem;
+  margin-bottom: 0;
   padding: 0;
   line-height: 1em;
 }
@@ -680,7 +681,20 @@ details.cv-expand[open] summary span {
 }
 
 details.cv-expand[open] summary::before {
-  content: "Show less";
+  content: "Hide older";
+}
+
+details.cv-expand[open] {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 1rem 1.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+details.cv-expand[open] summary {
+  margin-bottom: 1rem;
 }
 
 @media print {
@@ -690,5 +704,53 @@ details.cv-expand[open] summary::before {
   details.cv-expand summary {
     display: none !important;
   }
+  details.cv-expand[open] {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+  }
+}
+
+/****************************************************************************
+Card List Styling
+****************************************************************************/
+.card-horizontal {
+  border: 1px solid #ddd;
+  transition: box-shadow 0.2s ease, background-color 0.2s ease;
+  padding: 1rem;
+}
+
+.card-horizontal:hover {
+  background-color: #fffaf5;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.card-horizontal img {
+  padding: 0.5rem;
+}
+
+.card-horizontal .card-body {
+  padding: 1.5rem;
+}
+
+.card-horizontal a {
+  text-decoration: none;
+  color: #666;
+}
+
+.card-horizontal a:hover {
+  text-decoration: none;
+  color: #444;
+}
+
+.card-horizontal .card-title {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  color: #666;
+}
+
+.card-horizontal .card-text {
+  color: #888;
+  margin-bottom: 0;
 }
 
