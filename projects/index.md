@@ -20,8 +20,8 @@ cards:
     link: https://historic-trails.unm.edu/
 
   - title: Histories of the Future
-    thumbnail:
-    summary: This project was an experiment to see if a small academic workshop (on speculative futures in the history of science) could produce and make available a collection of scholarly work in an open access web format that would remain more visible an active than the results (and papers) from a typical academic workshop. This is a great example of how Xanthan can preserve and make the work a one-off workshop openly visible and available for specialists and non-specialists alike. 
+    thumbnail: "/assets/images/projects/histscifi.png"
+    summary: This project shows how an academic workshop (on speculative futures in the history of science) could produce and make available a collection of scholarly work in an open access web format that would remain more visible an active than the results (and papers) from a typical academic workshop. 
     link: http://histscifi.com
 
 

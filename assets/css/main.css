@@ -735,11 +735,13 @@ Card List Styling
 
 .card-horizontal a {
   text-decoration: none;
+  border: none;
   color: #666;
 }
 
 .card-horizontal a:hover {
   text-decoration: none;
+  border: none;
   color: #444;
 }
 
