@@ -10,10 +10,10 @@ description: Fred Gibbs's website on digital humanities, public history, food hi
 
 <body>
 
-  <div class="container toc">
+  <div class="container toc home-toc">
 
-    <div class="row homename">
-      <div class="col-md-6">
+    <div class="home-name-wrap homename">
+      <div class="home-name-text">
         fred gibbs
       </div>
     </div>
@@ -25,23 +25,5 @@ description: Fred Gibbs's website on digital humanities, public history, food hi
   {% include bottom-js.html %}
   {% include google-analytics.html %}
 
-  <script src="https://cdn.jsdelivr.net/npm/roughjs@4.0.4/bundled/rough.min.js"></script>
-
-  <script>
-    $( document ).ready(function() {
-        $('.divider').each(function( index ) {
-          const rc = rough.svg(this);
-          let node =
-          rc.rectangle(0, 0, 1000, 40, {
-            fill: 'gray',
-            fillStyle: 'zigzag',
-            stroke: 'none',
-            hachureAngle: 140, // angle of hachure,
-            hachureGap: 3
-          });
-          this.appendChild(node);
-        });
-    });
-  </script>
 </body>
 </html>

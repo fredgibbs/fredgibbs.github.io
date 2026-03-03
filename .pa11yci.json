@@ -1,0 +1,20 @@
+{
+  "defaults": {
+    "standard": "WCAG2AA",
+    "timeout": 30000,
+    "wait": 800,
+    "chromeLaunchConfig": {
+      "args": [
+        "--no-sandbox"
+      ]
+    }
+  },
+  "urls": [
+    "http://127.0.0.1:4000/",
+    "http://127.0.0.1:4000/about",
+    "http://127.0.0.1:4000/projects/",
+    "http://127.0.0.1:4000/courses/",
+    "http://127.0.0.1:4000/portfolio/flyers"
+  ],
+  "threshold": 3
+}

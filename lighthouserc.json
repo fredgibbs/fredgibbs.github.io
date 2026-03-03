@@ -1,0 +1,43 @@
+{
+  "ci": {
+    "collect": {
+      "url": [
+        "http://127.0.0.1:4000/",
+        "http://127.0.0.1:4000/about",
+        "http://127.0.0.1:4000/projects/",
+        "http://127.0.0.1:4000/courses/",
+        "http://127.0.0.1:4000/portfolio/flyers"
+      ],
+      "numberOfRuns": 1,
+      "settings": {
+        "onlyCategories": [
+          "accessibility"
+        ]
+      }
+    },
+    "assert": {
+      "assertions": {
+        "categories:accessibility": [
+          "warn",
+          {
+            "minScore": 0.95
+          }
+        ],
+        "color-contrast": "error",
+        "aria-allowed-attr": "error",
+        "aria-hidden-focus": "error",
+        "button-name": "error",
+        "document-title": "error",
+        "html-has-lang": "error",
+        "image-alt": "error",
+        "input-image-alt": "error",
+        "label": "error",
+        "link-name": "error"
+      }
+    },
+    "upload": {
+      "target": "filesystem",
+      "outputDir": ".lighthouseci"
+    }
+  }
+}

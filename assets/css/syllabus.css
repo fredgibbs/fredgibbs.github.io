@@ -1,482 +1,328 @@
-@media (max-width: 767px) {
-  #syllabus .alert {
-    padding-top: 0.3rem !important;
-    padding-bottom: 0.3rem !important;
-  }
-}
-@media (max-width: 767px) {
-  html body .navbar {
-    position: relative !important;
-    top: auto !important;
-    z-index: auto !important;
-  }
-}
-html body #syllabus h1, html body #syllabus h2 {
-  font-family: 'Josefin Sans', sans-serif !important;
-}
-#syllabus h1, #syllabus h2 {
-  font-family: 'Josefin Sans', sans-serif !important;
-}
-/* Reduce top margin for Quick Navigation sidebar header */
-.scroll-spy-nav h4 {
-  margin-top: 0.5rem !important;
-}
-/*****************************************************************************/
-/*
-/* Syllabus Styles for Course Pages
-/* Dedicated styles for schedule and index pages in course folders
-/* Modern, food-themed design with Josefin Sans typography
-/*
-/*****************************************************************************/
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=DM+Sans:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&family=Lato:wght@300;400;700&family=Amatic+SC:wght@400;700&display=swap');
-
-/* Base syllabus container */
-.container {
-  max-width:1200px;
-}
+@layer components {
 
 #syllabus {
-  font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  line-height: 1.6;
-  font-size: 17px;
-  color: #333;
-  background-color: #fafafa;
+  --sy-bg: #12100d;
+  --sy-surface: #1a1713;
+  --sy-card: #201c17;
+  --sy-text: #e8e0d4;
+  --sy-text-muted: #aea08e;
+  --sy-border: #302a23;
+  --sy-heading-1: #d4a84b;
+  --sy-heading-2: #de8466;
+  --sy-heading-3: #cc6e54;
+  --sy-link: #c2a882;
+  --sy-link-hover: #d8bc9a;
+
+  font-family: 'DM Sans', system-ui, sans-serif;
+  line-height: 1.65;
+  font-size: 1.05rem;
+  color: var(--sy-text);
+  background: var(--sy-bg);
   padding: 2rem 0;
 }
 
-
-/* Main heading styles - Updated colors */
-#syllabus h1 {
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 2.3em;
-  font-weight: 700;
-  color: #8B4513 !important;
-  text-transform: uppercase;
-  border-bottom: 4px solid #D2691E !important;
-  margin-top: 4rem;
-  margin-bottom: 0.5em;
-  background: linear-gradient(45deg, #8B4513, #A0522D) !important;
-  -webkit-background-clip: text !important;
-  -webkit-text-fill-color: transparent !important;
-  background-clip: text !important;
+#syllabus[data-theme='light'] {
+  --sy-bg: #faf7f1;
+  --sy-surface: #ffffff;
+  --sy-card: #f5f1ea;
+  --sy-text: #2b241d;
+  --sy-text-muted: #5d5246;
+  --sy-border: #ddd2c3;
+  --sy-heading-1: #8b5a2b;
+  --sy-heading-2: #b8634d;
+  --sy-heading-3: #a45843;
+  --sy-link: #8b5a2b;
+  --sy-link-hover: #6f441f;
 }
 
-/* Remove top margin from first h1 */
-#syllabus h1:first-of-type {
-  margin-top: 0;
-}
-
-/* Week/section headings - former h1 styling applied to h2 */
-#syllabus h2 {
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 2.2em;
-  font-weight: 700;
-  color: #8B4513 !important;
-  text-transform: uppercase;
-  border-bottom: 4px solid #D2691E !important;
-  margin-top: 4rem;
-  margin-bottom: 0.5em;
-  background: linear-gradient(45deg, #8B4513, #A0522D) !important;
-  -webkit-background-clip: text !important;
-  -webkit-text-fill-color: transparent !important;
-  background-clip: text !important;
-}
-
-/* Daily headings - former h2 styling applied to h3 */
-#syllabus h3 {
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 1.2em;
-  font-weight: 600;
-  color: #D2691E !important;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  border-bottom: 1px solid #8B4513 !important;
-}
-
-/* Sub-section headings - former h3 styling applied to h4 */
-#syllabus h4 {
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 1.5em;
-  font-weight: 500;
-  color: #8f4928;
-  margin-top: 2rem;
-  margin-bottom: 0.8rem;
-}
-
-/* Minor headings - former h4 styling applied to h5 */
-#syllabus h5 {
-  font-family: 'Lato', sans-serif;
-  font-size: 1.2em;
-  font-weight: 600;
-  color: #8B4513;
-  margin-top: 1.5rem;
-  margin-bottom: 0.6rem;
-  font-style: italic;
-}
-
-/* Paragraph and text styling */
-#syllabus p {
-  margin-bottom: 1.2em;
-  line-height: 1.7;
-}
-
-/* Strong text */
-#syllabus p strong {
-  font-weight: 700;
-  color: #8B4513;
-}
-
-/* Lists */
-#syllabus ul {
-  margin-left: 2em;
-  margin-bottom: 1.5rem;
-}
-
-#syllabus li {
-  margin-bottom: 0.5em;
-  line-height: 1.6;
-}
-
-/* Links */
-#syllabus a {
-  color: #D2691E;
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: all 0.3s ease;
-}
-
-#syllabus a:hover {
-  color: #8B4513;
-  border-bottom: 1px solid #8B4513;
-}
-
-/* Code and emphasis */
-#syllabus em {
-  font-style: italic;
-  font-weight: 500;
-  color: inherit;
-}
-
-#syllabus code {
-  background-color: #f5f5f5;
-  padding: 0.2em 0.4em;
-  border-radius: 3px;
-  font-family: 'Courier New', monospace;
-  font-size: 1rem;
-}
-
-/* Alert boxes integration */
-#syllabus .alert {
-  margin: .5rem 0;
-  padding: 0.3rem 1rem;
-  border-radius: 6px;
-  border-left: 4px solid;
-  line-height: 1.2;
-  font-size: 1rem;
-}
-
-#syllabus .alert.alert-danger {
-  background-color: #fef2f2;
-  border-left-color: #dc2626;
-  color: #7f1d1d;
-}
-
-#syllabus .alert.alert-danger h4,
-#syllabus .alert.alert-danger .alert-heading {
-  color: #dc2626 !important;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-  font-size: 1.1em;
-}
-
-#syllabus .alert.alert-warning {
-  background-color: #fffbeb;
-  border-left-color: #f59e0b;
-  color: #92400e;
-}
-
-#syllabus .alert.alert-warning h4,
-#syllabus .alert.alert-warning .alert-heading {
-  color: #f59e0b !important;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-  font-size: 1.1em;
-}
-
-#syllabus .alert.alert-info {
-  background-color: #eff6ff;
-  border-left-color: #3b82f6;
-  color: #1e40af;
-}
-
-#syllabus .alert.alert-info h4,
-#syllabus .alert.alert-info .alert-heading {
-  color: #3b82f6 !important;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-  font-size: 1.1em;
-}
-
-/* SIMPLE LAYOUT - STARTING OVER */
 .syllabus-container {
-  max-width: 55rem;
+  max-width: 56rem;
   margin: 0 auto;
   padding: 0 2rem;
 }
 
-/* Week sections */
-#syllabus .week-section {
-  margin-bottom: 3rem;
-  padding-bottom: 2rem;
-  border-bottom: 1px solid #e5e5e5;
+.syllabus-theme-toggle-wrap {
+  max-width: 56rem;
+  margin: 0 auto 1rem auto;
+  padding: 0 2rem;
+  display: flex;
+  justify-content: flex-end;
 }
 
-#syllabus .week-section:last-child {
-  border-bottom: none;
-}
-
-/* Date headers */
-#syllabus .date-header {
-  font-family: 'Amatic SC', cursive;
-  font-size: 1.8em;
-  font-weight: 700;
-  color: #D2691E;
-  margin-bottom: 1rem;
-}
-
-/* Video links: remove special button styling; add a small play icon */
-#syllabus a[href*="youtu"] {
-  background: none;
-  padding: 0;
-  border-radius: 0;
-  display: inline;
-  margin: 0;
-}
-
-#syllabus a[href*="youtu"]::after {
-  content: "\00A0\25B6"; /* non-breaking space + play icon */
-  color: inherit;
-  font-weight: 700;
-}
-
-/* Responsive design */
-@media screen and (max-width: 768px) {
-  #syllabus h1 {
-    font-size: 2.5em;
-    letter-spacing: 2px;
-  }
-  
-  #syllabus h2 {
-    font-size: 2em;
-    letter-spacing: 1px;
-  }
-  
-  #syllabus h3 {
-    font-size: 1.6em;
-  }
-  
-  .syllabus-container {
-    padding: 0 1rem;
-  }
-  
-  #syllabus ul {
-    margin-left: 1.5em;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  #syllabus h1 {
-    font-size: 2em;
-    letter-spacing: 1px;
-  }
-  
-  #syllabus h2 {
-    font-size: 1.8em;
-    letter-spacing: 0.5px;
-  }
-  
-  #syllabus h3 {
-    font-size: 1.4em;
-  }
-  
-  #syllabus h4 {
-    font-size: 1.3em;
-  }
-}
-
-/* Print styles */
-@media print {
-  #syllabus {
-    background-color: white;
-    color: black;
-  }
-  
-  #syllabus h1 {
-    color: black !important;
-    -webkit-text-fill-color: black !important;
-    background: none !important;
-  }
-  
-  #syllabus h2,
-  #syllabus h3,
-  #syllabus h4,
-  #syllabus h5 {
-    color: black !important;
-  }
-  
-  #syllabus a {
-    color: black !important;
-    text-decoration: underline !important;
-  }
-}
-
-/* Top Navigation Bar Styling */
-.navbar {
-  background: linear-gradient(135deg, #8B4513, #A0522D) !important;
-  border-bottom: 3px solid #D2691E;
-  box-shadow: 0 2px 8px rgba(139, 69, 19, 0.3);
-  position: sticky !important;
-  top: 0 !important;
-  z-index: 1030 !important;
-  padding: .1rem;
-}
-
-.navbar-brand {
-  font-family: 'Josefin Sans', sans-serif !important;
-  font-weight: 700 !important;
-  font-size: 1.5rem !important;
-  color: #F4A460 !important;
+.syllabus-theme-toggle {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
-  letter-spacing: 1px;
-  margin-right: 2rem !important;
+  color: var(--sy-text-muted);
+  background: var(--sy-surface);
+  border: 1px solid var(--sy-border);
+  border-radius: 999px;
+  padding: 0.35rem 0.75rem;
+  cursor: pointer;
 }
 
-.navbar-brand:hover {
-  color: #DEB887 !important;
+.syllabus-theme-toggle:hover {
+  color: var(--sy-text);
+  border-color: var(--sy-link);
 }
 
-.navbar-nav {
-  align-items: center;
+#syllabus h1,
+#syllabus h2,
+#syllabus h3,
+#syllabus h4,
+#syllabus h5 {
+  font-family: 'Space Grotesk', sans-serif;
+  line-height: 1.2;
 }
 
-.navbar-nav .nav-link {
-  font-family: 'Lato', sans-serif !important;
-  font-weight: 500 !important;
-  color: #F4A460 !important;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  margin: 0 0.25rem;
-  padding: 0.75rem 1rem !important;
-  border-radius: 4px;
-  transition: all 0.3s ease;
-  line-height: 1.2 !important;
+#syllabus h1 {
+  font-size: clamp(2rem, 4vw, 2.8rem);
+  color: var(--sy-heading-1);
+  margin: 0 0 1rem 0;
 }
 
-.navbar-nav .nav-link:hover {
-  color: white !important;
-  background-color: rgba(210, 105, 30, 0.3);
+#syllabus h2 {
+  font-size: clamp(1.45rem, 2.8vw, 2rem);
+  color: var(--sy-heading-2);
+  margin: 3rem 0 0.8rem 0;
+  border-bottom: 1px solid var(--sy-border);
+  padding-bottom: 0.35rem;
 }
 
-.navbar-nav .nav-item.active .nav-link {
-  color: white !important;
-  background-color: #D2691E;
-  font-weight: 600;
+#syllabus h3 {
+  font-size: clamp(1.2rem, 2.2vw, 1.45rem);
+  color: var(--sy-heading-3);
+  margin: 2rem 0 0.5rem 0;
 }
 
-.navbar-toggler {
-  border-color: #F4A460 !important;
-  padding: 0.25rem 0.5rem;
+#syllabus h4 {
+  font-size: 1.1rem;
+  color: var(--sy-text-muted);
+  margin: 1.5rem 0 0.4rem 0;
 }
 
-.navbar-toggler:focus {
-  box-shadow: 0 0 0 0.2rem rgba(244, 164, 96, 0.5);
+#syllabus p {
+  margin-bottom: 1.05rem;
 }
 
-.navbar-toggler-icon {
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28244, 164, 96, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
-  width: 1.5em;
-  height: 1.5em;
+#syllabus ul {
+  margin-left: 1.4rem;
+  margin-bottom: 1.2rem;
 }
 
-/* Mobile menu styling */
-@media (max-width: 991.98px) {
-  .navbar-collapse {
-    background-color: rgba(139, 69, 19, 0.95);
-    border-radius: 8px;
-    margin-top: 0.5rem;
-    padding: 1rem;
-  }
-  
-  .navbar-nav .nav-link {
-    padding: 0.5rem 1rem !important;
-    margin: 0.2rem 0;
-    border-radius: 4px;
-  }
-  
-  .navbar-nav .nav-link:hover {
-    background-color: rgba(210, 105, 30, 0.4);
-  }
+#syllabus li {
+  margin-bottom: 0.45rem;
 }
 
-/* SIMPLE SCROLL SPY - STARTING OVER */
+#syllabus a {
+  color: var(--sy-link);
+  border-bottom: 1px solid color-mix(in oklab, var(--sy-link) 35%, transparent);
+  text-decoration: none;
+}
+
+#syllabus a:hover {
+  color: var(--sy-link-hover);
+  border-bottom-color: var(--sy-link-hover);
+}
+
+#syllabus code {
+  background: var(--sy-surface);
+  border: 1px solid var(--sy-border);
+  border-radius: 3px;
+  padding: 0.15rem 0.35rem;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.9em;
+}
+
+#syllabus .alert {
+  margin: 0.65rem 0;
+  padding: 0.5rem 0.85rem;
+  border-radius: 8px;
+  border-left: 2px solid var(--sy-heading-3);
+  background: var(--sy-surface);
+  color: var(--sy-text-muted);
+}
+
+#syllabus .alert-danger {
+  border-left-color: #ef4444;
+  background: rgba(248, 113, 113, 0.10);
+}
+
+#syllabus .alert-warning {
+  border-left-color: #f59e0b;
+  background: rgba(251, 191, 36, 0.10);
+}
+
+#syllabus .alert-info {
+  border-left-color: #3b82f6;
+  background: rgba(96, 165, 250, 0.10);
+}
+
 .scroll-spy-nav {
   position: fixed;
-  top: 100px;
+  top: 95px;
   left: 2rem;
   width: 250px;
-  background: white;
-  border: 1px solid #ddd;
+  background: var(--sy-surface);
+  border: 1px solid var(--sy-border);
   border-radius: 8px;
   padding: 1rem;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   z-index: 1000;
 }
 
 .scroll-spy-nav h4 {
   margin: 0 0 0.5rem 0;
-  font-size: 0.9rem;
-  color: #8B4513;
+  font-size: 0.8rem;
+  color: var(--sy-text-muted);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.scroll-spy-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#syllabus .scroll-spy-nav .nav-link {
+  display: block;
+  padding: 0.32rem 0.45rem;
+  border-radius: 4px;
+  border: none;
+  border-left: 2px solid transparent;
+  border-bottom: none;
+  text-decoration: none;
+  color: var(--sy-text-muted);
+  font-size: 0.84rem;
+}
+
+#syllabus .scroll-spy-nav .nav-link:hover {
+  background: transparent;
+  color: var(--sy-heading-2);
+  border-left-color: var(--sy-heading-2);
+  border-bottom: none;
+}
+
+#syllabus .scroll-spy-nav .nav-link:focus-visible {
+  background: transparent;
+  color: var(--sy-heading-2);
+  border-left-color: var(--sy-heading-2);
+  border-bottom: none;
+}
+
+#syllabus .scroll-spy-nav .nav-link.active {
+  background: transparent;
+  color: var(--sy-heading-2);
+  border-left-color: var(--sy-heading-2);
+  border-bottom: none;
   font-weight: 600;
 }
 
-.scroll-spy-nav .nav {
-  flex-direction: column;
+.syllabus-footer {
+  margin-top: 2rem;
+  border-top: 1px solid var(--sy-border);
+  background: var(--sy-surface);
+  width: 100%;
 }
 
-.scroll-spy-nav .nav-link {
-  padding: 0.3rem 0.5rem;
-  color: #666;
-  font-size: 0.8rem;
-  border-radius: 4px;
-  transition: all 0.3s ease;
+.syllabus-footer-inner {
+  max-width: 56rem;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.8rem 2rem;
+  flex-wrap: wrap;
+}
+
+.syllabus-footer-brand {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 700;
+  color: var(--sy-heading-2);
+  border: none;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.syllabus-footer-nav {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+#syllabus .syllabus-footer-nav {
+  margin: 0;
+  margin-left: 0;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+#syllabus .syllabus-footer-nav li {
+  margin-bottom: 0;
+}
+
+#syllabus .syllabus-footer-nav a {
   display: block;
-}
-
-.scroll-spy-nav .nav-link:hover {
-  background-color: #f0f0f0;
-  color: #D2691E;
+  padding: 0.35rem 0.5rem;
+  border: none;
+  border-bottom: none;
   text-decoration: none;
+  color: var(--sy-text-muted);
+  font-size: 0.85rem;
 }
 
-.scroll-spy-nav .nav-link.active {
-  background-color: #D2691E;
-  color: white;
-  font-weight: 500;
+#syllabus .syllabus-footer-nav a:hover,
+#syllabus .syllabus-footer-nav a:focus-visible {
+  color: var(--sy-heading-2);
+  background: transparent;
+  border-bottom: none;
 }
 
-/* Hide scroll spy on smaller screens */
 @media (max-width: 1023px) {
   .scroll-spy-nav {
     display: none;
   }
+
+  .syllabus-container,
+  .syllabus-theme-toggle-wrap {
+    padding: 0 1rem;
+  }
+
+  .syllabus-footer-inner {
+    padding: 0.75rem 1rem;
+  }
 }
 
-/* Push content right when scroll spy is visible */
 @media (min-width: 1024px) {
-  .syllabus-container {
+  .syllabus-container,
+  .syllabus-theme-toggle-wrap {
     margin-left: 300px;
     margin-right: 2rem;
-    padding: 0;
   }
+}
+
+@media print {
+  .scroll-spy-nav,
+  .syllabus-theme-toggle-wrap,
+  .site-nav,
+  footer {
+    display: none;
+  }
+
+  #syllabus {
+    background: white;
+    color: black;
+  }
+}
+
 }

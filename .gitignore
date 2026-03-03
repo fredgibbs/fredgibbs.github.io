@@ -1,3 +1,6 @@
 .DS_Store
 _site
 posts/_drafts
+node_modules
+.lighthouseci
+.tmp_a11y_site

@@ -1,69 +1,69 @@
 toc-rows:
   - title: about
-    link: about
+    link: /about
     headings:
-      - title: "hello world"
-        link: "about#hello-world"
-      - title: "from-food-to-poison-and-back"
-        link: "about#from-food-to-poison-and-back"
+      - title: hello world
+        link: /about#hello-world
+      - title: from food to poison (and back)
+        link: /about#from-food-to-poison-and-back
       - title: "digital history and archives"
-        link: "about#digital-history-and-archives"
+        link: /about#digital-history-and-archives
       - title: "outside the academy"
-        link: "about#outside-the-academy"
+        link: /about#outside-the-academy
       - title: "behind the screen"
-        link: "about#behind-the-screen"
+        link: /about#behind-the-screen
   - title: projects
-    link: projects/
+    link: /projects/
     headings:
-      - title: history of natural diets
-        link: projects/#unnaturally-natural-diets
+      - title: unnaturally natural diets
+        link: /projects/#unnaturally-natural-diets
+      - title: higher ed-ai
+        link: /projects/#higher-ed-ai
       - title: amaranth
-        link: projects/#amaranth
-      - title: xanthan
-        link: projects/#xanthan
-      - title: historic trails
-        link: projects/#digital-national-historic-trails
-      - title: campus histories
-        link: projects/#UNM-campus-histories
-      - title: intro to historiography
-        link: projects/#intro-to-historiography
+        link: /projects/#amaranth
+      - title: digital pedagogy via xanthan
+        link: /projects/#digital-pedagogy-via-xanthan
+      - title: xanthan-based examples
+        link: /projects/#xanthan-based-examples
+      - title: older-work
+        link: /projects/#older-work
 
   - title: courses
-    link: courses/
+    link: /courses/
     headings:
-      - title: artificial history
-        link: courses/artificial-history
+      - title: critical thinking with ai
+        link: /courses/critical-thinking-with-ai
       - title: american food
-        link: courses/american-food
-      - title: diet + health + expertise
-        link: courses/diet-health-expertise
-      - title: food + technology + society
-        link: courses/food-technology-society
+        link: /courses/american-food
+      - title: diet-health-expertise
+        link: /courses/diet-health-expertise
+      - title: artificial history
+        link: /courses/artificial-history
+      - title: food-technology-society
+        link: /courses/food-technology-society
       - title: idea of nature
-        link: courses/idea-of-nature
-      - title: historiography
-        link: courses/historiography
+        link: /courses/idea-of-nature
   - title: archive
-    link: archive/
+    link: /archive/
     headings:
       - title: writing a personal statement
-        link: posts/writing-a-personal-statement
+        link: /archive/writing-a-personal-statement
       - title: reflections from a former PH editor
-        link: posts/reflections-former-PH-editor
+        link: /archive/reflections-former-PH-editor
       - title: on digital solitude
-        link: posts/on-digital-solitude
+        link: /archive/on-digital-solitude
       - title: visual critique in the humanities
-        link: posts/visual-critique-in-the-humanities
+        link: /archive/visual-critique-in-the-humanities
   - title: vita
-    link: cv
+    link: /cv
     headings:
       - title: academic employment
-        link: cv#academic-employment
+        link: /cv#academic-employment
       - title: degrees
-        link: cv#education
+        link: /cv#education
       - title: publications
-        link: cv#publications
+        link: /cv#publications
       - title: presentations
-        link: cv#selected-presentations-panels-and-workshops
+        link: /cv#selected-presentations-panels-and-workshops
       - title: engagements
-        link: cv#engagements
+        link: /cv#engagements

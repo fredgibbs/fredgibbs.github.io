@@ -1,13 +1,13 @@
-<div class="row course">
-  <div class="col-12">
+<div class="course-block course">
+  <div class="course-heading">
     <h2 class="course-title"><a href="{{ include.slug }}">{{ include.title }}</a></h2>
   </div>
 
-  <div class="col-12 col-sm-6 col-md-4">
-    <img class="course-poster" src="{{ include.poster }}">
+  <div class="course-media">
+    <img class="course-poster" src="{{ include.poster }}" alt="Poster for {{ include.title }}">
   </div>
 
-  <div class="col-12 col-sm-6 col-md-8">
+  <div class="course-summary">
     <p class="course-desc">
       {{ include.desc | markdownify | remove: '<p>' | remove: '</p>' }}
     </p>

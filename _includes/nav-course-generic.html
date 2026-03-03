@@ -1,23 +1,17 @@
-<nav class="navbar navbar-expand-lg navbar-dark" style="background: linear-gradient(135deg, #8B4513, #A0522D); border-bottom: 3px solid #D2691E;">
-  <div class="container">
-  <a class="navbar-brand" href="/courses/{{page.course-slug}}" style="font-family: 'Josefin Sans', sans-serif; font-weight: 700; color: #F4A460; text-transform: uppercase; letter-spacing: 1px;">{{page.course-title}}</a>
-  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+<nav class="site-nav course-nav">
+  <div class="container site-nav-inner">
+  <a class="site-nav-brand" href="/courses/{{page.course-slug}}">{{page.course-title}}</a>
+  <button class="site-nav-toggle" type="button" data-nav-target="#courseNavMenu" aria-controls="courseNavMenu" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="site-nav-toggle-icon"></span>
   </button>
 
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav me-auto">
-      <li class="nav-item"><a class="nav-link" href="/courses/{{page.course-slug}}">Home</a></li>
-      <li class="nav-item"><a class="nav-link" href="/courses/{{page.course-slug}}/schedule">Schedule</a></li>
-      <li class="nav-item"><a class="nav-link" href="/courses/{{page.course-slug}}/links-guides">Links and Guides</a></li>
-      <li class="nav-item"><a class="nav-link" href="/courses/">Other Courses</a></li>
+  <div class="site-nav-menu" id="courseNavMenu">
+    <ul class="site-nav-list">
+      <li class="site-nav-item"><a class="site-nav-link" href="/courses/{{page.course-slug}}">Home</a></li>
+      <li class="site-nav-item"><a class="site-nav-link" href="/courses/{{page.course-slug}}/schedule">Schedule</a></li>
+      <li class="site-nav-item"><a class="site-nav-link" href="/courses/{{page.course-slug}}/links-guides">Links and Guides</a></li>
+      <li class="site-nav-item"><a class="site-nav-link" href="/courses/">Other Courses</a></li>
     </ul>
-<!--
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-    </form>
--->
   </div>
   </div>
 </nav>

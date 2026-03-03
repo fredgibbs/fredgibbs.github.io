@@ -1,0 +1,114 @@
+@layer components {
+.cv {
+  font-family: 'Lora', Georgia, serif;
+  color: var(--text);
+  font-size: 1rem;
+  line-height: 1.65;
+  max-width: var(--container);
+}
+
+.cv h2 a,
+.cv h2 a:visited {
+  color: var(--accent-cool);
+  border: none;
+}
+
+.cv h3 {
+  color: var(--accent-warm);
+}
+
+.cv ul {
+  list-style-type: circle;
+}
+
+.cv li {
+  margin: 0 0 0.7em 0;
+  padding: 0;
+}
+
+.cv li li {
+  margin: 0;
+  padding: 0;
+  color: var(--text-muted);
+}
+
+.cv .pub-links a,
+.cv .pub-links a:visited {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  border: none;
+}
+
+.cv .pub-links a:hover {
+  color: var(--text);
+}
+
+details.cv-expand {
+  margin: 1rem 0;
+}
+
+details.cv-expand summary {
+  cursor: pointer;
+  color: var(--accent-cool);
+  font-weight: 500;
+  padding: 0.5rem 0;
+  list-style: none;
+  user-select: none;
+}
+
+details.cv-expand summary::-webkit-details-marker {
+  display: none;
+}
+
+details.cv-expand summary:hover {
+  color: var(--accent-warm);
+  text-decoration: none;
+}
+
+details.cv-expand summary span::after {
+  content: ' →';
+}
+
+details.cv-expand[open] summary span {
+  display: none;
+}
+
+details.cv-expand[open] summary::before {
+  content: 'Hide older';
+}
+
+details.cv-expand[open] {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1rem 1.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+details.cv-expand[open] summary {
+  margin-bottom: 1rem;
+}
+
+@media print {
+  .cv {
+    font-family: Garamond, Georgia, serif;
+    font-size: 11pt;
+    color: black;
+  }
+
+  details.cv-expand {
+    display: block !important;
+  }
+
+  details.cv-expand summary {
+    display: none !important;
+  }
+
+  details.cv-expand[open] {
+    background: transparent;
+    border: none;
+    padding: 0;
+  }
+}
+}

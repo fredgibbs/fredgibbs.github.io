@@ -1,45 +1,19 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="container">
-    <a class="navbar-brand" href="{{site.baseurl}}/index">fred gibbs</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+<nav class="site-nav">
+  <div class="container site-nav-inner">
+    <a class="site-nav-brand" href="{{site.baseurl}}/index">fred gibbs</a>
+    <button class="site-nav-toggle" type="button" data-nav-target="#siteNavMenu" aria-controls="siteNavMenu" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="site-nav-toggle-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav me-auto">
-      <li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/about">About</a></li>
-      <li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/projects/">Projects</a></li>
-      <li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/courses/">Courses</a></li>
-      <li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/archive/">Archive</a></li>
-      <li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/cv">CV</a></li>
-      <li class="nav-item"><a class="nav-link bonus" href="{{site.baseurl}}/portfolio/flyers">flyers</a></li>
-
-<!--  <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="{{'/guides/getting-started' | absolute_url}}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Instruction Guides
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="{{'/guides/getting-started' | absolute_url}}"">Getting started</a>
-          <a class="dropdown-item" href="{{site.baseurl}}/guides/loading-images">Loading images</a>
-          <a class="dropdown-item" href="{{site.baseurl}}/guides/code">Code samples</a>
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">More to come...</a>
-        </div>
-      </li>
--->
-
-<!--
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-      </li>
--->
+    <div class="site-nav-menu" id="siteNavMenu">
+    <ul class="site-nav-list">
+      <li class="site-nav-item"><a class="site-nav-link" href="{{site.baseurl}}/about">About</a></li>
+      <li class="site-nav-item"><a class="site-nav-link" href="{{site.baseurl}}/projects/">Projects</a></li>
+      <li class="site-nav-item"><a class="site-nav-link" href="{{site.baseurl}}/courses/">Courses</a></li>
+      <li class="site-nav-item"><a class="site-nav-link" href="{{site.baseurl}}/archive/">Archive</a></li>
+      <li class="site-nav-item"><a class="site-nav-link" href="{{site.baseurl}}/cv">CV</a></li>
+      <li class="site-nav-item bonus-item"><a class="site-nav-link bonus" href="{{site.baseurl}}/portfolio/flyers">flyers</a></li>
     </ul>
-<!--
-      <form class="form-inline my-2 my-lg-0">
-        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-      </form>
--->
     </div>
   </div>
 </nav>

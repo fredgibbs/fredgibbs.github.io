@@ -34,7 +34,7 @@ cards:
 This project maps out the contours of the idea of "natural" diets in the long history of Western medical tradition, with an emphasis on the last few centuries of industrialized food. Perhaps because the ideas of natural foods and diets have become so ubiquitous, their long and complex history has been overlooked. Yet the way definitions and debates about our natural diet have shifted over time provides a revealing lens onto popular relationships between nature, technology, and modernity. 
 
 
-## History with AI
+## Higher Ed + AI
 AI is here and is not going away. From a teaching standpoint, higher education (at least) must train students to use it ethicially and skillfully. How can humanities instructors take advantage of AI to _strengthen_ critical thinking?
 
 From a research standpoint, AI is challenging conventional notions of expertise. What are the implications for the "expert" historian? How can historians employ AI for menial tasks and free time and energy for more creative thinking? How can AI be leveraged for its broad (if shallow) knowledge that could open new avenues for research?

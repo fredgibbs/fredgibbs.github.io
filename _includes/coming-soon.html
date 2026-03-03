@@ -1,0 +1,114 @@
+<style>
+.coming-soon-wrap {
+  --cs-bg: var(--bg, #faf9f7);
+  --cs-text: var(--text, #18181b);
+  --cs-muted: var(--text-muted, #78716c);
+  --cs-light: var(--text-light, #a8a29e);
+  --cs-border: var(--border, #e4dfd8);
+  --cs-dot: var(--accent, #b84a2e);
+
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 4rem 2rem;
+  background: var(--cs-bg);
+}
+
+.coming-soon-eyebrow {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--cs-light);
+  margin-bottom: 2rem;
+}
+
+.coming-soon-glyph {
+  font-size: 3rem;
+  line-height: 1;
+  margin-bottom: 1.5rem;
+  color: var(--cs-light);
+  animation: pulse 3s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+
+.coming-soon-headline {
+  font-family: 'Space Grotesk', sans-serif !important;
+  font-size: clamp(3rem, 10vw, 6.5rem) !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.04em;
+  line-height: 1 !important;
+  color: var(--cs-text) !important;
+  margin: 0 0 2rem !important;
+  border: none !important;
+  background: none !important;
+  -webkit-text-fill-color: unset !important;
+}
+
+.coming-soon-rule {
+  width: 40px;
+  height: 1px;
+  background: var(--cs-border);
+  margin: 0 auto 2rem;
+  border: none;
+}
+
+.coming-soon-course {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: clamp(0.9rem, 2.5vw, 1.2rem);
+  font-weight: 500;
+  color: var(--cs-text);
+  margin-bottom: 0.35rem;
+}
+
+.coming-soon-term {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.78rem;
+  color: var(--cs-muted);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.coming-soon-dots {
+  display: flex;
+  gap: 0.4rem;
+  justify-content: center;
+  margin-top: 2.5rem;
+}
+
+.coming-soon-dots span {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--cs-dot);
+  animation: dot-bounce 1.4s ease-in-out infinite;
+}
+
+.coming-soon-dots span:nth-child(2) { animation-delay: 0.2s; }
+.coming-soon-dots span:nth-child(3) { animation-delay: 0.4s; }
+
+@keyframes dot-bounce {
+  0%, 80%, 100% { transform: translateY(0); opacity: 0.3; }
+  40% { transform: translateY(-6px); opacity: 1; }
+}
+</style>
+
+<div class="coming-soon-wrap">
+  <div class="coming-soon-eyebrow">{{ page.number }} &nbsp;&middot;&nbsp; {{ page.term }}</div>
+  <div class="coming-soon-glyph">⦿</div>
+  <h2 class="coming-soon-headline">Coming<br>Soon</h2>
+  <hr class="coming-soon-rule">
+  <div class="coming-soon-course">{{ page.course-title }}</div>
+  <div class="coming-soon-term">{{ page.section }} &mdash; check back soon</div>
+  <div class="coming-soon-dots">
+    <span></span><span></span><span></span>
+  </div>
+</div>

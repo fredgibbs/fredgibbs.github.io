@@ -1,18 +1,12 @@
 {% for row in site.data.toc.toc-rows %}
-  <div class="row">
-    <div class="col-md-6 title">
+  <div class="toc-row">
+    <div class="toc-title title">
       <a href="{{ row.link }}">{{ row.title }}</a>
     </div>
-    <div class="col-md-6 headings">
+    <div class="toc-headings headings">
       {% for heading in row.headings %}
         <a href="{{ heading.link }}">{{ heading.title }}</a>
-        {% if forloop.last == false %}
-          <i class="fas fa-circle"></i>
-        {% endif %}
       {% endfor %}
     </div>
-    {% if forloop.last == false %}
-      <svg class="divider"></svg>
-    {% endif %}
   </div>
 {% endfor %}

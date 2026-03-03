@@ -1,7 +1,8 @@
 title: fredgibbs.net
-description: Personal and academic website for Fred Gibbs || An experimental playground for digital history, digital heritage, critical data, digital mapping, and design.
+description: Personal and academic website for Fred Gibbs || An experimental playground for digital humanities, digital heritage, critical data, digital mapping, and design.
 url: http://fredgibbs.net
-permalink: :categories/:title
 safe: true
 markdown: kramdown
 environment: production
+plugins:
+  - jekyll-sitemap

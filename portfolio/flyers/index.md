@@ -5,27 +5,62 @@ title: posters | fred gibbs
 
 # Poster Gallery
 
-<div class="container mt-4">
-  <div class="row g-3">
-    {% for poster in site.data.posters %}
-    <div class="col-md-4 col-sm-6">
-      <a href="#" data-bs-toggle="modal" data-bs-target="#imageModal" 
-         onclick="document.getElementById('modalImage').src='images/{{ poster.filename }}.jpg'; return false;">
-        <img src="thumbs/{{ poster.filename }}.png" class="img-fluid img-thumbnail" alt="Poster">
-      </a>
-    </div>
-    {% endfor %}
-  </div>
+<div class="gallery-container">
+<div class="poster-gallery" id="posterGallery">
+  {% for poster in site.data.posters %}
+  <button type="button" class="poster-thumb-button" data-full-src="images/{{ poster.filename }}.jpg" aria-label="Open poster">
+    <img src="thumbs/{{ poster.filename }}.png" class="poster-thumb" alt="Poster">
+  </button>
+  {% endfor %}
+</div>
 </div>
 
-<!-- Image Modal - Full viewport -->
-<div class="modal fade" id="imageModal" tabindex="-1">
-  <div class="modal-dialog modal-fullscreen">
-    <div class="modal-content bg-dark">
-      <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
-      <div class="modal-body d-flex align-items-center justify-content-center p-0">
-        <img id="modalImage" src="" class="img-fluid" style="max-height: 100vh; cursor: zoom-in;" alt="">
-      </div>
-    </div>
-  </div>
-</div>
+<dialog id="posterDialog" class="poster-dialog" aria-label="Poster preview">
+  <button type="button" class="poster-dialog-close" id="posterDialogClose" aria-label="Close poster preview">×</button>
+  <img id="posterDialogImage" src="" alt="Poster preview">
+</dialog>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var gallery = document.getElementById('posterGallery');
+  var dialog = document.getElementById('posterDialog');
+  var dialogImage = document.getElementById('posterDialogImage');
+  var closeButton = document.getElementById('posterDialogClose');
+
+  if (!gallery || !dialog || !dialogImage || !closeButton) return;
+
+  gallery.addEventListener('click', function (event) {
+    var button = event.target.closest('.poster-thumb-button');
+    if (!button) return;
+
+    var fullSrc = button.getAttribute('data-full-src');
+    if (!fullSrc) return;
+
+    dialogImage.src = fullSrc;
+
+    if (typeof dialog.showModal === 'function') {
+      dialog.showModal();
+    } else {
+      window.open(fullSrc, '_blank');
+    }
+  });
+
+  closeButton.addEventListener('click', function () {
+    dialog.close();
+  });
+
+  dialog.addEventListener('click', function (event) {
+    var bounds = dialog.getBoundingClientRect();
+    var isOutside = (
+      event.clientX < bounds.left ||
+      event.clientX > bounds.right ||
+      event.clientY < bounds.top ||
+      event.clientY > bounds.bottom
+    );
+
+    if (isOutside) {
+      dialog.close();
+    }
+  });
+});
+</script>
