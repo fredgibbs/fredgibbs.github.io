@@ -37,6 +37,11 @@
   --sy-link-hover: #6f441f;
 }
 
+#syllabus[data-theme='light'] b,
+#syllabus[data-theme='light'] strong {
+  color: #1a1208;
+}
+
 .syllabus-container {
   max-width: 56rem;
   margin: 0 auto;
@@ -159,6 +164,20 @@
 #syllabus .alert-info {
   border-left-color: #3b82f6;
   background: rgba(96, 165, 250, 0.10);
+}
+
+/* Alert h4 color matches border */
+#syllabus .alert h4 {
+  color: var(--sy-heading-3);
+}
+#syllabus .alert-danger h4 {
+  color: #ef4444;
+}
+#syllabus .alert-warning h4 {
+  color: #f59e0b;
+}
+#syllabus .alert-info h4 {
+  color: #3b82f6;
 }
 
 .scroll-spy-nav {
@@ -298,10 +317,12 @@
     padding: 0 1rem;
   }
 
+
   .syllabus-footer-inner {
     padding: 0.75rem 1rem;
   }
 }
+
 
 @media (min-width: 1024px) {
   .syllabus-container,
@@ -323,6 +344,13 @@
     background: white;
     color: black;
   }
+ 
+/* Reset all table row backgrounds in light mode */
+#syllabus[data-theme='light'] table tr td,
+#syllabus[data-theme='light'] table tbody tr td {
+  background: #fff !important;
 }
-
+#syllabus[data-theme='light'] table tr:nth-child(even) td,
+#syllabus[data-theme='light'] table tbody tr:nth-child(even) td {
+  background: #f5f1ea !important;
 }

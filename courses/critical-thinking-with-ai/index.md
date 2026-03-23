@@ -105,7 +105,7 @@ You get graded on effort on this class, and the way you show effort is to **show
 All work is graded on the following scale:
 
 | Perceived Effort | Grade | Grade points
-|---------|---/----|------|
+|---------|--------|------|
 | Very fine	|  A   | 4 |
 | Fine      | B    | 3 |
 | Marginal  | C    | 2 |

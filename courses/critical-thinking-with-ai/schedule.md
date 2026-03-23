@@ -21,7 +21,7 @@ syllabus-theme: ai-dark
 
 ---
 
-## WEEK 1
+## 1: Mar 23--28
 
 ### 1.1: Introduction and Orientations
 
@@ -47,27 +47,28 @@ Introduction to elaborate prompting as a form of question design: vague prompts 
 - Ethan Mollick, *Co-Intelligence*, Chapter 1: Creating Alien Minds, 3--26.
 - [Why AI isn't going to make art](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art). This is also in the Zotero library,
 
+#### Relevant
+- Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans*, Chapters 1–3 (~45 pp.)
+
 #### Discussion
 - Has the revolution actually happened?
 - Where on the "jagged frontier" does your own expertise begin?
 
 
 #### Information
-- Brief overview of how LLMs actually work—tokenization, attention, prediction—just enough to understand that AI generates probabilistically, not through comprehension. Use Mollick's analogy of the "alien mind."
+- Brief overview of how LLMs actually work—tokenization, attention, prediction—just enough to understand that AI generates probabilistically, not through comprehension.
 
 
 
+## 2: Mar 30--Apr 3
 
-## WEEK 2
-
-### 2.1: 
-
-- Alan Turing, Computing Machinery and Intelligence, *Mind* 59, no. 236 (1950): 433–460. This is as classic as an AI article gets. Read at least Sections 1–4 (~12 pages). Don't get bogged down in the details, but focus on what he's saying about human thinking vs computer thinking.
-- [Wikipedia: Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence). This is an unusually good Wikipedia article. Be familiar with the various ways thinking are defined here and where they came from.
+### 2.1: What is thinking?
+- Alan Turing, Computing Machinery and Intelligence, *Mind* 59, no. 236 (1950): 433–460. This is as classic as an AI article gets, and we're sampling for flavor more than detail. Don't sweat the technicalities, but focus on what he's saying about human thinking vs computer thinking.
+- [Wikipedia: Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence). This is an unusually good Wikipedia article that help explain what might be stylisitcally difficult language. Be familiar with the various ways thinking are defined here and where they came from.
+- Alva Noë, "[Rage Against the Machine](https://aeon.co/essays/can-computers-think-no-they-cant-actually-do-anything)"
 - Plato, _Phaedrus_, excerpts, highligted in green.
 
-#### Relevant
-- Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans*, Chapters 1–3 (~45 pp.)
+
 
 #### Discussion: The nature of thinking
 - What does thinking and knowing and understanding mean?
@@ -85,21 +86,28 @@ Introduction to elaborate prompting as a form of question design: vague prompts 
 
 ### 2.2: NO CLASS! 
 
-{% include alert.html class='danger' title='Dialogue remix due Tuesday' text="
+{% include alert.html class='warning' title='Dialogue remix due Tuesday' text="
 Make sure you plan to **print them out before class** so we can trade.
 "%}
 
 
 
-## WEEK 3
+## 3: Apr 6--10
 
-### 3.1: 
+### 3.1: Technological Resistance
+
+{% include alert.html class='danger' title='Dialogue remix due Tuesday' text="
+Make sure you plan to **print them out before class** so we can trade.
+"%}
+
+
 - Calestous Juma, _Innovation and Its Enemies: Why People Resist New Technologies_, Ch. 1: Gales of Creative Destruction, 11--43.
 - Calestous Juma, _Innovation and Its Enemies: Why People Resist New Technologies_, Ch. 3: Stop the Presses, 68--94.
 
 
 #### Discussion
-- Why do people resist new technologies? How is this relevant to AI?
+- Why do people resist new technologies? 
+- How is this relevant to AI?
 - Introduction to course project: Disruptive Expertise
 
 
@@ -107,7 +115,7 @@ Make sure you plan to **print them out before class** so we can trade.
 - Dialogue REMIX pair and share
 
 
-### 3.2: 
+### 3.2: Resistance Examples
 - Neil Postman (1985), _Amusing Ourselves to Death_, 3--29.
 - Tom Nichols (2017), _The Death of Expertise: The Campaign against Established Knowledge and Why It Matters_, 1--39.
 
@@ -124,13 +132,13 @@ Make sure you plan to **print them out before class** so we can trade.
 
 
 
-## WEEK 4
+## 4: Apr 13--17
 
 ### 4.1: AI critique
 
 - Safiya Umoja Noble, *Algorithms of Oppression*, Chapter 1 ("A Society, Searching") (~30 pp.)
 - Emily Bender et al., ["On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"](https://dl.acm.org/doi/10.1145/3442188.3445922) FAccT '21 (2021): 610–623. This paper argues LLMs produce text without understanding. Does this matter?
-- Kate Crawford, *The Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence* (Yale University Press, 2021), Introduction (~20 pp.). On the material costs—labor, resources, environmental—behind AI systems.
+- Kate Crawford, *The Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence* (2021), Introduction (~20 pp.). On the material costs—labor, resources, environmental—behind AI systems.
 
 
 #### Discussion
@@ -145,7 +153,7 @@ Demonstration of Google NotebookLM as a source-grounded research tool.
 - What is a trusted source?
 
 #### Workshop: Start your notebooks!
-- Find and ppload 2–3 primary sources on a topic
+- Find and ppload 2–3 primary sources on technology disruption topic
 - Investigate how NotebookLM's responses are anchored to those specific documents---in contrast to the "anything goes" nature of general chatbots.
 
 With your sources, inquire:
@@ -179,14 +187,17 @@ Let's evaluate AI's responses. Are the "missing perspectives" it generates subst
 - How to set up your own website for your AI assignment and disruptive expertise contribution
 - Disruptive Expertise URL TBP
 - [Xanthan](https://xanthan-web.github.io)
- 
+
+{% include alert.html class='warning' title='Post assignments BEFORE next class' text="
+We're doing our assignment tests ON TUESDAY, so they need to be published before class starts.
+"%}
 
 
 
-## WEEK 5
 
-### 5.1: 
+## 5: Apr 20--24
 
+### 5.1: Disruption Assumptions I
 - Adrian Johns, *The Nature of the Book: Print and Knowledge in the Making*, Ch. 1: Introduction, 1--40. Johns demonstrates that print didn't automatically create reliable knowledge, as had been assumed. Trust in printed texts had to be constructed through social and institutional practices. A powerful historical parallel to our current moment with AI.
 
 {% include alert.html class='danger' title='Post assignments BEFORE class' text="
@@ -207,8 +218,7 @@ We're doing our assignment tests today, so they need to be published when class 
 - How do you prevent the AI from doing the thinking FOR the student?
 
 
-### 5.2: 
-
+### 5.2: Disruption Assumptions II
 - Steven Shapin, *A Social History of Truth: Civility and Science in Seventeenth-Century England* (University of Chicago Press, 1994), Chapter 1 ("The Great Civility"), pp. 3–41. Shapin shows that even scientific knowledge depends on trust, social standing, and credibility—frameworks now disrupted by AI. Shapin argues truth has always been social. If we start trusting AI outputs as "knowledge," what social contract is being rewritten?
 
 #### Discussion
@@ -232,18 +242,17 @@ Using NotebookLM loaded with 20 sources, develop the historical narrative for yo
 
 
 
-## WEEK 6
+## 6: Apr 27--May 1
 
-### 6.1: 
-
-Michel-Rolph Trouillot, _Silencing the Past_, Ch. 1: The Power in the Story, 1--30.
+### 6.1: Historical Narratives
+- Michel-Rolph Trouillot, _Silencing the Past_, Ch. 1: The Power in the Story, 1--30.
 
 {% include alert.html class='danger' title='Disruption drafts due' text="
 In order to do our critiques, you need to have your essay visible online and complete (even if still drafty)!
 "%}
 
 
-### 6.2:
+### 6.2: Presentations and Critiques
 
 #### Lightning Presentations on rupture
 Come prepared to present your rupture:
@@ -264,7 +273,7 @@ Peer feedback that evaluates both historical quality and AI-critical reflection.
 
 
 
-## WEEK 7
+## 7: May 4--May 8
 
 ### 7.1: Conclusions
 
@@ -305,14 +314,18 @@ Return to the course's driving question: How can AI help us think more criticall
 
 
 ### 7.2: No Class! 
+{% include alert.html class='warning' title='Work on your projects' text="
 - Tidy up your rupture pages
 - Begin drafting your course reflection
+"%}
 
 
-## Final Reflection
 
-**Due the end of finals week**
-
+## Final Stuff to turn in
+{% include alert.html class='danger' title='All work due May 15' text="
 - [Final Course reflection](final-course-reflection)
-- AI fluency statement: What's the best way for YOU to use AI? I don't want a generic "ethics" or "best practices" statement. We all have different brains and need to engage the AI brain differently. 
+- AI fluency statement: What's the best way for YOU to use AI? I don't want a generic 'ethics' or 'best practices' statement. We all have different brains and need to engage the AI brain differently. 
 - Your completed page on the collaborative site
+- Due MAY 15 (the last day of finals)
+"%}
+

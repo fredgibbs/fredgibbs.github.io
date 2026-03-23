@@ -1,3 +1,7 @@
+/* Light mode table row override: ensure even rows are light in light mode */
+[data-theme='light'] tr:nth-child(even) td {
+  background: #f5f1ea !important;
+}
 @layer base {
 a {
   color: var(--link);
