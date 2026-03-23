@@ -6,7 +6,7 @@ course-slug: critical-thinking-with-ai
 term: Spring 2026
 number: HIST 300
 section: schedule
-coming-soon: production
+coming-soon: 
 syllabus-theme: ai-dark
 ---
 
