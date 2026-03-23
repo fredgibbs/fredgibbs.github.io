@@ -18,7 +18,7 @@ Your final course reflection should be at least ~1200 words and cover the entire
 ## Tips for success
 
 ### Don't summarize the course
-Describing what you learned means describing what's now different in your thinking about major themes of the course--AI (obviously), expertise, authority, critical thinking, humanities, technological determinism, etc. If you didn't learn anything, sorry I failed you. But please explain why you didn't learn anything--then I still know you were putting in effort.
+Describing what you learned means describing what's now different in your thinking about major themes of the course--AI (obviously), expertise, authority, critical thinking, humanities, technological determinism, etc. If you didn't learn anything, I'm sorry I failed you. But _please explain why_ you didn't learn anything--then I still know you were putting in effort and I can understand how to improve.
 
 
 ### Be specific
@@ -32,9 +32,9 @@ The more you can tie themes together and speak about the course as a whole (whil
 There's no right answer, oviously. This is an opinion aspect of the final, that asks you to describe what you were interested in, or not, and what kinds of topics or reeadings resonated with you, or didn't.  It's just another angle to show me how you engaged with the course.
 
 ### Don't sound like AI
-You are welcome to use AI for your final as much as you want. Hopefully you feel equipped to produce something beyond what you can do without it. But you must do it ethically and with academic integrity.
+You are welcome to use AI for your final as much as you want. Hpefully you feel equipped to produce something beyond what you can do without it. But you must do it ethically and with academic integrity.
 
-Whether you use it or not, it is your responsibility to **differentiate yourself from an AI-generated response**. This is super easy if you've actually done any work for the course. In case you haven't discovered it for yourself, AI cannot yet write very convincingly about human experiences (it sounds super fake, even if it's getting better). If your response sounds like AI, you're grade will suffer. 
+Whether you use it or not, remember it is course policy that it is your responsibility to **differentiate yourself from an AI-generated response**. This is super easy if you've actually done any work for the course. In case you haven't discovered it for yourself, AI cannot yet write very convincingly about human experiences (it sounds super fake, even if it's getting better). If your response sounds like AI, I can only assume you didn't put in much effort to your reflection or didn't learn much in the course. 
 
 
 ### Ask for help or clarification
