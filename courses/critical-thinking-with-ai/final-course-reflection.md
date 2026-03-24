@@ -9,10 +9,18 @@ syllabus-theme: ai
 ---
 
 # Final Course Reflection
-Your final course reflection should be at least ~1200 words and cover the entire course. As a final effort, you need to do two things:
+Your final course reflection should be ~1000 words and cover the entire course. Your job is to describe your learning experience and reflect how the course has or has not met its learning objectives. 
 
-1. Tell me what you learned over the semester (about 75% of the essay)
-2. Describe your learning experience (about 25% of the essay)
+
+{% include alert.html class='info' title='Learning Objectives' text="
+* Understand how AI complicates ideas about thinking, knowledge, expertise
+* Develop sophisticated prompting skills as a form of question design, critical inquiry, source evaluation
+* Evaluate AI outputs for accuracy, bias, and omissions using lateral reading and groundtruthing techniques
+* Identify characteristics of true expertise from beer-mat expertise
+* Use AI as a research partner while maintaining academic honesty, intellectual agency and interpretive judgment
+"%}
+
+
 
 
 ## Tips for success

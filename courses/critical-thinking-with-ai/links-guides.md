@@ -1,9 +1,9 @@
 ---
 layout: syllabus
-course-title: History of American Food
-course-slug: american-food
-term: Fall 2025
-number: HIST 413
+course-title: Critical Thinking with AI
+course-slug: critical-thinking-with-ai
+term: Spring 2026
+number: HIST 300
 section: links-guides
 ---
 
@@ -23,5 +23,5 @@ This page contains a list of important links that appear on various places on th
 - [Dialogue Remix](dialogue-remix)
 - [AI Assignment Design](ai-assignment)
 - [Disruptive Expertise Contribution](disruptive-expertise)
-- [AI Fluency and Keywords Reflection](ai-fluency-keyword-reflection.md)
+- [AI Fluency and Keywords Reflection](ai-fluency-keyword-reflection)
 - [Final Course Reflection](final-course-reflection)

@@ -322,10 +322,8 @@ Turn in your [Expertise Disruptions](disruptive-expertise)!
 
 
 
-## Final Stuff to turn in
+## Final Course Reflection
 {% include alert.html class='danger' title='All work due May 15' text="
 - [Final Course reflection](final-course-reflection)
-
-- Due MAY 15 (the last day of finals)
 "%}
 
