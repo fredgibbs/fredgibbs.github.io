@@ -26,7 +26,6 @@ syllabus-theme: ai-dark
 ### 1.1: Introduction and Orientations
 
 - Navigating course materials
-- What does cilantro taste like? (via [https://playground.allenai.org/](https://playground.allenai.org/))
 - Canvas post on AI keywords:
   - what is INTELLIGENCE?
   - what is THINKING?
@@ -36,8 +35,8 @@ syllabus-theme: ai-dark
   - What is the difference between historian history and AI history?
 
 
-#### Demonstration — Prompts and models
-Introduction to elaborate prompting as a form of question design: vague prompts → specific prompts → prompts that specify persona, audience, constraints. The quality of the question and the "bias" of the model determines the quality of the answer. This is not a technical skill; it is the oldest intellectual skill there is.
+#### Demonstration: the power of tokens
+- What does cilantro taste like? (via [https://playground.allenai.org/](https://playground.allenai.org/))
 
 
 
@@ -53,11 +52,13 @@ Introduction to elaborate prompting as a form of question design: vague prompts 
 #### Discussion
 - Has the revolution actually happened?
 - Where on the "jagged frontier" does your own expertise begin?
-
+- What makes good prompts?
 
 #### Information
 - Brief overview of how LLMs actually work—tokenization, attention, prediction—just enough to understand that AI generates probabilistically, not through comprehension.
 
+#### Demonstration — Prompts and models
+Prompt engineering is not as much a technical skill as a humanistic one. To write good prompts, you need context, awareness, and empathy. These are fundamental to the intellectual work of the humanities.
 
 
 ## 2: Mar 30--Apr 3
