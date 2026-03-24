@@ -26,7 +26,7 @@ syllabus-theme: ai-dark
 ### 1.1: Introduction and Orientations
 
 - Navigating course materials
-- What does cilantro taste like? (via [https://allenai.org/](https://allenai.org/))
+- What does cilantro taste like? (via [https://playground.allenai.org/](https://playground.allenai.org/))
 - Canvas post on AI keywords:
   - what is INTELLIGENCE?
   - what is THINKING?
@@ -115,7 +115,7 @@ Make sure you plan to **print them out before class** so we can trade.
 - Dialogue REMIX pair and share
 
 
-### 3.2: Resistance Examples
+### 3.2: Getting Dumber
 - Neil Postman (1985), _Amusing Ourselves to Death_, 3--29.
 - Tom Nichols (2017), _The Death of Expertise: The Campaign against Established Knowledge and Why It Matters_, 1--39.
 
@@ -278,7 +278,14 @@ Peer feedback that evaluates both historical quality and AI-critical reflection.
 
 ### 7.1: Conclusions
 
-- Re-read your own Week 1 "AI Keywords" entry. Come prepared to discuss what has shifted.
+{% include alert.html class='danger' title='AI Fluency and Keyword Reflection DUE TODAY' text="
+- [AI Fluency + Keyword Reflection]
+(ai-fluency-keyword-reflection)
+- Come prepared to discuss what you think the future of AI holds!
+- AI fluency statement: What's the best way for YOU to use AI? I don't want a generic 'ethics' or 'best practices' statement. We all have different brains and need to engage the AI brain differently. 
+
+"%}
+
 
 #### Collective Site Review
 - What story does the collective site tell about the history of learning? 
@@ -301,23 +308,15 @@ Now that you have spent 5 weeks using AI for research and writing, you have expe
 - What should students know about AI when they graduate?
 - What should UNM provide to you in terms of AI (access, education, workshops, etc)
 
-#### Personally
-* How has your AI use changed?
-* What skills have you developed?
-* What are you still uncertain about?
-* How would you explain "thinking with AI" to someone who hasn't taken this course?
-
 
 #### The Futures Question
 Return to the course's driving question: How can AI help us think more critically, develop skills, and produce higher-quality work?
 
 
 
-
 ### 7.2: No Class! 
-{% include alert.html class='warning' title='Work on your projects' text="
-- Tidy up your rupture pages
-- Begin drafting your course reflection
+{% include alert.html class='danger' title='No class!' text="
+Turn in your [Expertise Disruptions](disruptive-expertise)!
 "%}
 
 
@@ -325,8 +324,7 @@ Return to the course's driving question: How can AI help us think more criticall
 ## Final Stuff to turn in
 {% include alert.html class='danger' title='All work due May 15' text="
 - [Final Course reflection](final-course-reflection)
-- AI fluency statement: What's the best way for YOU to use AI? I don't want a generic 'ethics' or 'best practices' statement. We all have different brains and need to engage the AI brain differently. 
-- Your completed page on the collaborative site
+
 - Due MAY 15 (the last day of finals)
 "%}
 

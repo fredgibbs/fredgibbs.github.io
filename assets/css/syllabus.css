@@ -20,7 +20,7 @@
   font-size: 1.05rem;
   color: var(--sy-text);
   background: var(--sy-bg);
-  padding: 2rem 0;
+  padding: 2rem 0 0 0;
 }
 
 #syllabus[data-theme='light'] {
@@ -90,11 +90,16 @@
 }
 
 #syllabus h2 {
-  font-size: clamp(1.45rem, 2.8vw, 2rem);
+  font-size: clamp(1.3rem, 2.5vw, 1.8rem);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
   color: var(--sy-heading-2);
   margin: 3rem 0 0.8rem 0;
-  border-bottom: 1px solid var(--sy-border);
-  padding-bottom: 0.35rem;
+  border-left: 4px solid var(--sy-heading-2);
+  border-bottom: 2px solid color-mix(in oklab, var(--sy-heading-2) 40%, transparent);
+  padding: 0.4rem 0.5rem 0.4rem 0.75rem;
+  background: color-mix(in oklab, var(--sy-heading-2) 8%, transparent);
+  border-radius: 0 4px 4px 0;
 }
 
 #syllabus h3 {
@@ -247,7 +252,7 @@
 .syllabus-footer {
   margin-top: 2rem;
   border-top: 1px solid var(--sy-border);
-  background: var(--sy-surface);
+  background: color-mix(in oklab, var(--sy-heading-2) 8%, transparent);
   width: 100%;
 }
 
@@ -258,7 +263,7 @@
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  padding: 0.8rem 2rem;
+  padding: 1.4rem 2rem;
   flex-wrap: wrap;
 }
 

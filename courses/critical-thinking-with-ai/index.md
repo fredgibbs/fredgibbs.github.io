@@ -87,11 +87,11 @@ We use a tool called [Zotero](http://zotero.org) to organize and provide access 
 
 ## Course Work
 * Reading reflections (always extra credit) 
-* Daily Participation (15%)
+* Basic class engagement (15%)
 * [Dialogue remix](dialogue-remix) (15%)
 * [AI Assignment Design](ai-assignment) (15%)
 * [Disruptive Expertise](disruptive-expertise) Contribution (15%)
-* [AI + Higher Ed Futures]() (15%)
+* [AI Fluency and Keywords](ai-fluency-keyword-reflection) (15%)
 * [Final Course Reflection](final-course-reflection) (15%)
 
 <div class="alert alert-warning" role="alert">
@@ -120,6 +120,8 @@ This also is on purpose. A lot of grading is about basic communication competenc
 
 ### Final Grade Scale
 
+Your final grade is simply the average of all your work (with assignment weights factored in), plus any extra credit from reading assignments and whether you've been a regular contributor to class discussions.
+
 | Grade points | Grade |
 |---------|-------|
 | 4.0     | A     |
@@ -138,7 +140,7 @@ This also is on purpose. A lot of grading is about basic communication competenc
 * AI is awesome! You may disagree, which is fine, but if you have objections to using it, this is not the course for you.
 * Unlike many other courses concerned with what you produce for your assignment, **I care only about HOW you produce your assignment and how much better than vanilla AI they are**. 
 * AI should help make your reasoning MORE visible, not replace it.
-* It is always incumbent on you to differentiate yourself from AI. If I can't, you will need to redo the assignment.
+* **It is always incumbent on you to differentiate yourself from AI.** If I can't, you will need to redo the assignment.
 * I can't really _prove_ you're cheating if you do, but that's OK. Eventually you'll lose out to people who actually learned to use AI critically and productively instead of deceptively. That seems a sufficient enough consequence.
 
 

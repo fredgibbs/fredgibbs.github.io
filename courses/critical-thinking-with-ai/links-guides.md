@@ -20,5 +20,8 @@ This page contains a list of important links that appear on various places on th
 
 ## Assignment Guides
 - [Reading Reflections](reading-reflections)
+- [Dialogue Remix](dialogue-remix)
+- [AI Assignment Design](ai-assignment)
+- [Disruptive Expertise Contribution](disruptive-expertise)
 - [Final Course Reflection](final-course-reflection)
 
