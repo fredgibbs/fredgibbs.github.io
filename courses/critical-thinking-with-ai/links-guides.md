@@ -14,14 +14,14 @@ This page contains a list of important links that appear on various places on th
 - [Canvas](http://canvas.unm.edu)
 
 ## Readings
-- [our Zotero Group page](https://www.zotero.org/groups/2499167/american-food-unm/) (this is best for joining the course library)
-- [our Zotero Group Library page](https://www.zotero.org/groups/2499167/american-food-unm/library) (this is best for getting to the readings once you've joined the library)
+- Group Library HOME: [https://www.zotero.org/groups/6467047/ai-critical-thinking-unm](https://www.zotero.org/groups/6467047/ai-critical-thinking-unm). Once you've created an account, this is where you go to request to join the library.
+- Group Library ITEMS: [https://www.zotero.org/groups/6467047/ai-critical-thinking-unm/library](https://www.zotero.org/groups/6467047/ai-critical-thinking/library). Once I've approved your request, this is where you can see/get the readings.
 
 
 ## Assignment Guides
-- [Reading Reflections](reading-reflections)
+- [OPTIONAL Reading Reflections](reading-reflections)
 - [Dialogue Remix](dialogue-remix)
 - [AI Assignment Design](ai-assignment)
 - [Disruptive Expertise Contribution](disruptive-expertise)
+- [AI Fluency and Keywords Reflection](ai-fluency-keyword-reflection.md)
 - [Final Course Reflection](final-course-reflection)
-
