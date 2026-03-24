@@ -29,7 +29,7 @@ How do we know what we know—and what happens when machines start "knowing" thi
 
 This course uses historical practices and narratives as a laboratory for exploring how AI can sharpen critical thinking and produce higher-quality intellectual work. Rather than treating AI as a shortcut or a threat, we treat it as a thinking partner: a tool that, when used deliberately, makes visible our own reasoning processes and exposes the assumptions we bring to interpretation, evidence, and argument.
 
-Students will practice making sense of the past with the help of AI. The question we explore: how can it _actually_ be helpful, as opposed to just stringing together words that sounds authoritative. Some activities: finding sources, evaluating trustworthiness, synthesizing evidence, constructing arguments, identifying omissions. We constantly work alongside AI, learning when it helps, when it misleads, and what the difference reveals about how knowledge and expertise actually work. 
+Students will practice making sense of the past with the help of AI. The question we explore: how can it _actually_ be helpful, as opposed to just stringing together words that sound authoritative? Some activities: finding sources, evaluating trustworthiness, synthesizing evidence, constructing arguments, identifying omissions. We constantly work alongside AI, learning when it helps, when it misleads, and what the difference reveals about how knowledge and expertise actually work. 
 
 
 <div class="alert alert-warning" role="alert">
@@ -50,7 +50,7 @@ Students will practice making sense of the past with the help of AI. The questio
 - This is not a credit recovery course
 - You need a laptop or tablet you can bring to class for our workshop activities. You can check one out from the library if you need one. 
 - You actually want to learn how to learn with AI, not just complete assignments
-- You will use AI as directed and leave it alone as directed (ie don't bring a forklift to the weightroom)
+- You will use AI as directed and refrain from using it when instructed (i.e., don’t bring a forklift to the weight room)
 - You will turn in assignments on time not because there is a late penalty, but because it helps you do better on all the assignments and stay on track
 
 
@@ -76,7 +76,7 @@ We use a tool called [Zotero](http://zotero.org) to organize and provide access 
 
 {% include alert.html class='info' title='Zotero links' text="
 - Group Library NAME: `ai-critical-thinking-unm` (in case you try to look it up on zotero.org, but you shouldn't need to.)
-- Group Library HOME: [https://www.zotero.org/groups/6467047/ai-critical-thinking-unm](https://www.zotero.org/groups/6467047/ai-critical-thinking-unm). Once you've created and account, this is where you go to request to join the library.
+- Group Library HOME: [https://www.zotero.org/groups/6467047/ai-critical-thinking-unm](https://www.zotero.org/groups/6467047/ai-critical-thinking-unm). Once you've created an account, this is where you go to request to join the library.
 - Group Library ITEMS: [https://www.zotero.org/groups/6467047/ai-critical-thinking-unm/library](https://www.zotero.org/groups/6467047/ai-critical-thinking/library). Once I've approved your request, this is where you can see/get the readings.
 
 ### Remember that you can only access the PDFs in the library if you are a member of the course group!
@@ -114,7 +114,7 @@ All work is graded on the following scale:
 
 <div class="alert alert-warning" role="alert">
 	<h4 class="alert-heading">Where's the D?</h4>
-This also is on purpose. A lot of grading is about basic communication competance---like, can you write a coherent paragraph? AI raises the bar for us. Notice you can't really fail, but you might need to redo the assignment if you want grade points. Courses that don't challenge you with expectations are wasting your time.
+This also is on purpose. A lot of grading is about basic communication competence—like, can you write a coherent paragraph? AI raises the bar for us. Notice you can't really fail, but you might need to redo the assignment if you want grade points. Courses that don’t challenge you with expectations are a waste of your time.
 </div>
 
 
@@ -136,7 +136,7 @@ This also is on purpose. A lot of grading is about basic communication competanc
 
 ## AI Policy & Academic Integrity
 * AI is awesome! You may disagree, which is fine, but if you have objections to using it, this is not the course for you.
-* Unlike many other courses concerend with what you produce for your assignment, **I care only about HOW you produce your assignment and how much better than vanilla AI they are**. 
+* Unlike many other courses concerned with what you produce for your assignment, **I care only about HOW you produce your assignment and how much better than vanilla AI they are**. 
 * AI should help make your reasoning MORE visible, not replace it.
 * It is always incumbent on you to differentiate yourself from AI. If I can't, you will need to redo the assignment.
 * I can't really _prove_ you're cheating if you do, but that's OK. Eventually you'll lose out to people who actually learned to use AI critically and productively instead of deceptively. That seems a sufficient enough consequence.
@@ -145,7 +145,7 @@ This also is on purpose. A lot of grading is about basic communication competanc
 ## Tools Used in This Course
 
 * ChatGPT, Claude, Gemini, etc. Free versions should be sufficient, but if you also use them for other things, you might need to pay for a month of one or two of these (~$20; way cheaper than books!).
-* **Google NotebookLM** — Source-grounded AI for research with specific documents; free with Google account and we don't need the pro verion.
+* **Google NotebookLM** — Source-grounded AI for research with specific documents; free with Google account and we don't need the pro version.
 * **Zotero** Free bibliographic manager for distributing course readings. Way better than Canvas.
 * **GitHub** — For hosting and collaborating our Disruptive Expertise site; free account required
 

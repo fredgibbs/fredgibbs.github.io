@@ -21,19 +21,19 @@ syllabus-theme: ai-dark
 
 ---
 
-## 1: Mar 23--28
+## 1: Mar 23--27
 
 ### 1.1: Introduction and Orientations
 
 - Navigating course materials
-- What does cilantro taste like? (via [[https://allenai.org/]])
+- What does cilantro taste like? (via [https://allenai.org/](https://allenai.org/))
 - Canvas post on AI keywords:
   - what is INTELLIGENCE?
   - what is THINKING?
   - what is UNDERSTANDING?
   - what is EXPERTISE?
   - Can AI be original?
-  - What is difference between historian history and AI history?
+  - What is the difference between historian history and AI history?
 
 
 #### Demonstration — Prompts and models
@@ -64,9 +64,9 @@ Introduction to elaborate prompting as a form of question design: vague prompts 
 
 ### 2.1: What is thinking?
 - Alan Turing, Computing Machinery and Intelligence, *Mind* 59, no. 236 (1950): 433–460. This is as classic as an AI article gets, and we're sampling for flavor more than detail. Don't sweat the technicalities, but focus on what he's saying about human thinking vs computer thinking.
-- [Wikipedia: Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence). This is an unusually good Wikipedia article that help explain what might be stylisitcally difficult language. Be familiar with the various ways thinking are defined here and where they came from.
+- [Wikipedia: Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence). This is an unusually good Wikipedia article that helps explain what might be stylistically difficult language. Be familiar with the various ways thinking is defined here and where those definitions came from.
 - Alva Noë, "[Rage Against the Machine](https://aeon.co/essays/can-computers-think-no-they-cant-actually-do-anything)"
-- Plato, _Phaedrus_, excerpts, highligted in green.
+- Plato, _Phaedrus_, excerpts, highlighted in green.
 
 
 
@@ -152,9 +152,10 @@ Demonstration of Google NotebookLM as a source-grounded research tool.
 - Note primary and secondary analysis distinctions!
 - What is a trusted source?
 
+
 #### Workshop: Start your notebooks!
-- Find and ppload 2–3 primary sources on technology disruption topic
-- Investigate how NotebookLM's responses are anchored to those specific documents---in contrast to the "anything goes" nature of general chatbots.
+- Find and upload 2–3 primary sources on technology disruption topic
+- Investigate how NotebookLM's responses are anchored to those specific documents—in contrast to the "anything goes" nature of general chatbots.
 
 With your sources, inquire:
 * "What perspectives are missing from this account?"
