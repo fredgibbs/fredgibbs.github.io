@@ -86,7 +86,7 @@ We use a tool called [Zotero](http://zotero.org) to organize and provide access 
 
 
 ## Course Work
-* Reading reflections (always extra credit) 
+* [Reading reflections](reading-reflections) (always extra credit) 
 * Basic class engagement (15%)
 * [Dialogue remix](dialogue-remix) (15%)
 * [AI Assignment Design](ai-assignment) (15%)

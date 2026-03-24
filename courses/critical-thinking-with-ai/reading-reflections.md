@@ -10,14 +10,15 @@ syllabus-theme: ai
 
 # Reading Reflections
 
-## Traditional Objective
-**The main point of these reflections is to show your familiarity with the readings and make clear the work you have put into the course.** You do this by composing a thoughtful response to the prompt BASED ON THE READINGS. **There is no such thing as a "correct" answer---only more or less informed reflections.** You're being evaluated on how informed your reflections are. Make sure your reflection reflects your effort!
+You do this by composing a thoughtful response to the prompt BASED ON THE READINGS. You're being evaluated on how informed your reflections are. Make sure your reflection reflects your effort!
 
 ## New Objective
-The original intent still holds, but I expect you'll use AI to genereate your drafts, and then the fun work begins. The question is, and what I'm looking for: how good can you make them? all extra credit. To get any points, it has to be obvious to me how you're going beyond asking for a generic summary.
+**The main point of these reflections is to show your familiarity with the readings and make clear the work you have put into the course.** I expect you'll use AI to genereate your drafts, and then the fun work begins. The question is, and what I'm looking for: how good can you make them? 
+**There is no such thing as a "correct" answer---only more or less informed and deep reflections.** To get any points, it has to be obvious to me how you're going beyond asking for a generic summary.
+
 
 ## ALL REFLECTIONS ARE EXTRA CREDIT
-You do not have to do any of these. I hope you will, but it's your choice. You can raise your grade by doing them.
+You do not have to do any of these. I hope you will, but it's your choice. You can raise your grade by doing them. 
 
 
 ## Grading considerations

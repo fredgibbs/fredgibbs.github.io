@@ -41,6 +41,10 @@ syllabus-theme: ai-dark
 
 
 ### 1.2: Intelligence and Machines
+{% include alert.html class='info' title='Get some extra credit!' text="
+Today's your first chance for an extra credit [reading reflection](reading-reflections), which you can submit via Canvas.
+"%}
+
 
 - Michael I. Jordan, ["Artificial Intelligence—The Revolution Hasn't Happened Yet"](https://hdsr.mitpress.mit.edu/pub/wot7mkc1), *Harvard Data Science Review* 1, no. 1 (2019), 1-8. A computer scientist's argument that what we call "AI" is mostly statistics and that the real intellectual challenges are about human-machine systems, not autonomous intelligence. Note this is from 2019, which is almost premodern AI.
 - Ethan Mollick, *Co-Intelligence*, Chapter 1: Creating Alien Minds, 3--26.
