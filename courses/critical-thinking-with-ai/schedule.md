@@ -68,31 +68,33 @@ Prompt engineering is not as much a technical skill as a humanistic one. To writ
 ## 2: Mar 30--Apr 3
 
 ### 2.1: What is thinking?
-- Alan Turing, Computing Machinery and Intelligence, *Mind* 59, no. 236 (1950): 433–460. This is as classic as an AI article gets, and we're sampling for flavor more than detail. Don't sweat the technicalities, but focus on what he's saying about human thinking vs computer thinking.
-- [Wikipedia: Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence). This is an unusually good Wikipedia article that helps explain what might be stylistically difficult language. Be familiar with the various ways thinking is defined here and where those definitions came from.
+- Remember to look ahead to the discussion questions so your reading can be a bit more focused. 
+- Alan Turing, Computing Machinery and Intelligence, *Mind* 59, no. 236 (1950): 433–460. This is as classic as an AI article gets, and we're skimming/sampling more for flavor than detail. Don't sweat the technicalities, but focus on what he's saying about human thinking vs computer thinking.
+- [Wikipedia: Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence). This article helps unpack what might be stylistically difficult language. Be familiar with the various ways thinking is defined here and where those definitions come from.
 - Alva Noë, "[Rage Against the Machine](https://aeon.co/essays/can-computers-think-no-they-cant-actually-do-anything)"
 - Plato, _Phaedrus_, excerpts, highlighted in green.
 
 
 
-#### Discussion: The nature of thinking
+#### Discussion: The nature of thinking, historically
+- What is Turing concerned with?
+- What are the various ways we might define thinking?
 - What does thinking and knowing and understanding mean?
 - What kinds of "thinking" are easiest to fake? Hardest? What does that tell us?
 
-#### Workshop: Creating a new discipline
-- Create a new academic discipline and interrogate it
 
 #### Discussions: The Dangers of Writing
-- Plato, writing, dialogues
-  - What is _Phaedrus_ about?
-    - What does AI think?
-  - How can you remix it?
+- What is _Phaedrus_ about?
+  - How is the dialogue form used?
+  - Why isn't this just an op-ed?
+  - Is it really just generic anti-tech?
+  - What's essential for remixing?
 
 
 ### 2.2: NO CLASS! 
 
-{% include alert.html class='warning' title='Dialogue remix due Tuesday' text="
-Make sure you plan to **print them out before class** so we can trade.
+{% include alert.html class='warning' title='Dialogue remix due TUESDAY' text="
+Make sure you plan to post your dialog BEFORE CLASS so we can see each others' versions.
 "%}
 
 
@@ -101,8 +103,8 @@ Make sure you plan to **print them out before class** so we can trade.
 
 ### 3.1: Technological Resistance
 
-{% include alert.html class='danger' title='Dialogue remix due Tuesday' text="
-Make sure you plan to **print them out before class** so we can trade.
+{% include alert.html class='danger' title='Dialogue remix due!' text="
+Make sure this is posted to the Canvas discussion board before class.
 "%}
 
 
@@ -110,17 +112,22 @@ Make sure you plan to **print them out before class** so we can trade.
 - Calestous Juma, _Innovation and Its Enemies: Why People Resist New Technologies_, Ch. 3: Stop the Presses, 68--94.
 
 
-#### Discussion
-- Why do people resist new technologies? 
+#### Resistance Discussion
+- According to Juma, why do people resist new technologies? 
 - How is this relevant to AI?
+- How does the case study illustrate Juma's general points? How is it a bit extraneous?
+
+#### Workshop
+- Dialogue REMIX pair and share via Canvas
+- How can Juma help us think about _Phaedrus_?
+
+#### Our collaborative project
 - Introduction to course project: Disruptive Expertise
 
 
-#### Workshop
-- Dialogue REMIX pair and share
-
 
 ### 3.2: Getting Dumber
+You don't need to read either of these super closely--they are repetitive enough that you'll get the idea. But read enough that you understand _where the authors are coming from_. What assumptions are they bringing into their books? Do the arguments make sense, or is it just ranting?
 - Neil Postman (1985), _Amusing Ourselves to Death_, 3--29.
 - Tom Nichols (2017), _The Death of Expertise: The Campaign against Established Knowledge and Why It Matters_, 1--39.
 
@@ -132,8 +139,13 @@ Make sure you plan to **print them out before class** so we can trade.
 - How much of either applies to AI?
 
 
-#### Workshop: Make a new discipline
-- I want to make a new academic discipline about X
+#### Prompt Workshop: Creating a new discipline
+- General prompting skills are applicable everywhere--let's experiment! 
+- Create a new academic discipline and interrogate it
+  - What questions do we need to ask in response?
+  - How can you see AI's "jagged frontier"?
+    - For more on this see Mollick's [Centaurs and Cyborgs](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged)
+
 
 
 
