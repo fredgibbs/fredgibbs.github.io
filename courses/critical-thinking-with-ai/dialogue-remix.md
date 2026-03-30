@@ -16,17 +16,15 @@ Objective: To use AI as a collaborative partner to "remix" Plato’s concerns ab
 ### Step 1: Warm up
 We've already talked about _Phaedrus_ in class, so you should understand what it's doing and how it's doing it. Even if you were in class,  you should make sure you can understand the point. AI can help! 
 
-Prompt: "I am reading Plato's Phaedrus. Based on his arguments that writing diminishes memory and creates the 'appearance of wisdom,' ask me three questions to see if I can apply those same fears to AI today, and help me see what perspectives I might be missing."
+Prompt: I am reading Plato's Phaedrus. Ask me three questions, one at a time, about what the point is. Use my answers to help me understand the broader point. Then, ask 3 questions one at a time to help me understand how to apply it to AI. What's similar and what's different?
 
 Then, explore further with broader questions: 
 
-Prompt: What kinds of pros and cons have surfaced about writing in general over the centuries? 
+Prompt: Ask me three questions that can help me understand the kinds of pros and cons that have surfaced about writing, telegraph, radio, television, internet, in general over the centuries. Can your questions help me discover commonalities among these? Let's focus just on communication in general and leave AI aside for now.
 
-Prompt: What has happened _since_ Plato that might be included in a modern dialog about skill erosion and authority with AI? 
+Prompt: Based on our conversation, ask me three questions about what perspectives or concerns might be included in a modern dialog about AI? 
 
-There are no "right" answers. Only questions, perspectives, suggestions, ideas. Have as many as you can (in a reasonable time) before moving on.
-
-As you're doing the steps, cut and paste your prompts into a separate file for reference later. 
+There are no "right" answers! Only questions, perspectives, suggestions, ideas. 
 
 
 ### Step 2: Assign roles
@@ -52,12 +50,11 @@ Prompt: Following Phaedrus and Platonic dialogues in general, create a 1500-word
 
 
 ### Step 4: Revise and Iterate
-- After readings through, where did it flow well? Where was it too hard to follow? 
+- Once you have a complete draft: where does it flow well? Where is it too hard to follow? 
 - Are the roles/positions your defined clearly delineated?
-  - How can you sharpen them: "Make the purist more interested in trust and traditional authoritative structures.
-- Ask AI to identify the key themes in your dialog. Yes it just created it, but it's not like a real person who might be attached to it. It can "objectively" evaluate.
-- Ask for perspectives that are relevant but missing.
-- The idea is to work with AI to spice up the usually bland initial output.
+  - How can you sharpen them, like: "Make the purist more interested in trust and traditional authoritative structures.
+- Ask AI to reread your dialogue as a high school student and identify the key themes in your dialog. Yes it just created it, but it's not like a real person who might be attached to it. It can "objectively" evaluate.
+- Ask for ideas about perspectives that are relevant but missing. You have to decide if they are worth including or start to muddle the point
 - What "bigger picture" questions does your dialogue raise about course topics?
 
 
@@ -67,6 +64,9 @@ Prompt: Following Phaedrus and Platonic dialogues in general, create a 1500-word
 - Is there a natural flow to the argument? How can you make the whole thing easier to follow?
 - Are the points that you want to make coming through? Do you think they will be apparent to your readers?
 - How can you steer your dialog to the topics we've been discussing in class?
+- Stylistically, can you work with AI to spice up the usually bland initial output without sacrificing clarity?
+
+
 
 ### Step 6: Post
 - Add your dialogue to the discussion board so others can see it and read it in class.

@@ -144,7 +144,7 @@ You don't need to read either of these super closely--they are repetitive enough
 - Create a new academic discipline and interrogate it
   - What questions do we need to ask in response?
   - How can you see AI's "jagged frontier"?
-    - For more on this see Mollick's [Centaurs and Cyborgs](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged)
+    - For more on this, see Mollick's [Centaurs and Cyborgs](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged)
 
 
 
