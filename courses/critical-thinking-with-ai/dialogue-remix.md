@@ -28,7 +28,7 @@ There are no "right" answers! Only questions, perspectives, suggestions, ideas.
 
 
 ### Step 2: Assign roles
-Now it's time to create! As with the originl, you need a few different characters in your dialog to represent different points of view. 
+Now it's time to create! As with the original, you need a few different characters in your dialog to represent different points of view. 
 Aim for 3-5 characters. Less is boring, more is ususally more confusing than helpful (but it can be done well if they have very specific reoles to play). Write out what you want these to be, but don't do anything with it yet.
 
 For example---just for fun, do not use these exactly:
@@ -50,8 +50,8 @@ Prompt: Following Phaedrus and Platonic dialogues in general, create a 1500-word
 
 
 ### Step 4: Revise and Iterate
-- Once you have a complete draft: where does it flow well? Where is it too hard to follow? 
-- Are the roles/positions your defined clearly delineated?
+- Once you have a complete draft, think about: where does it flow well? Where is it too hard to follow? 
+- Are the roles/positions that you defined clearly delineated?
   - How can you sharpen them, like: "Make the purist more interested in trust and traditional authoritative structures.
 - Ask AI to reread your dialogue as a high school student and identify the key themes in your dialog. Yes it just created it, but it's not like a real person who might be attached to it. It can "objectively" evaluate.
 - Ask for ideas about perspectives that are relevant but missing. You have to decide if they are worth including or start to muddle the point
