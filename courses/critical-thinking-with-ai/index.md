@@ -114,12 +114,11 @@ All work is graded on the following scale:
 
 <div class="alert alert-warning" role="alert">
 	<h4 class="alert-heading">Where's the D?</h4>
-This also is on purpose. A lot of grading is about basic communication competence—like, can you write a coherent paragraph? AI raises the bar for us. Notice you can't really fail, but you might need to redo the assignment if you want grade points. Courses that don’t challenge you with expectations are a waste of your time.
+This also is on purpose. A lot of grading is about basic communication competence---like whether or not you can write a coherent paragraph. AI raises the bar for us. Notice you can't really fail, but you might need to redo the assignment if you want grade points. Courses that don’t challenge you with expectations are a waste of your time.
 </div>
 
 
 ### Final Grade Scale
-
 Your final grade is simply the average of all your work (with assignment weights factored in), plus any extra credit from reading assignments and whether you've been a regular contributor to class discussions.
 
 | Grade points | Grade |

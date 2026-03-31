@@ -3,112 +3,104 @@ layout: syllabus
 course-title: Making History
 course-slug: making-history
 number: HIST 1105-001
-term: Spring 2021
+term: Fall 2026
 section: home
 ---
 
 # Making History
 
 ## Logistics
-- HIST 1105-001 | Spring 2021
-- Remote Arranged (fully online, no scheduled meeting)
-- 3 Credit Hours
-- Prof. Fred Gibbs \([fwgibbs@unm.edu](mailto:fwgibbs@unm.edu)\)
-- No set student hours, but always happy to Zoom chat
+* Credit Hours: 3
+* Meetings: Tuesday & Thursday
+* Student Hours: TBD
+* Office: TBD
+
+
+### Getting Started
+This is the home page of the course syllabus, which outlines all the instructions, logistics, and expectations for the course. The syllabus also has a [schedule page](schedule), which details the reading and activities for each session.
+
 
 ## Course Description
-What does it mean to “make history”? On one hand, to do something worth recording. On the other, to interpret and write about the past. But history is never an entirely objective and accurate reflection of the past. This course explores important questions about the production of history: What is history? What is it for? Who is it for? How have historical interpretations changed over time? What's at stake with changing narratives?
+Why do people tell stories about the past—and why do those stories keep changing?
 
-This entirely online and asynchronous course consists of short lectures, reading assignments, quizzes, and short essays that helps students learn robust research skills, particularly how to identify relevant evidence, situate it in historical context, and use it to make a convincing argument.
+This course explores how history gets *made*. Instead of memorizing dates, we investigate how different societies across time have explained and interpreted the past—and why their methods and motives changed. From ancient myths and medieval chronicles to modern archives and AI-generated summaries, we ask how ideas about truth, evidence, and authority shape the stories societies tell about themselves.
 
-The core philosophy underlying the course is that historical perspective is essential for the educated citizen. We consider the difference between history and memory, how history has been used in the past to manipulate public memory, and how the study of history has been at the center of recent culture wars.
+Our survey moves through classical mythology, medieval chronicles, early modern statecraft, Enlightenment histories of progress, romantic imagination, scientific professionalism, modernist scholarship, postmodern critique, and today's digital age. Along the way, we explore why different "flavors" of history emerge (political, social, cultural, digital), how interpretations of the past are continually shaped by context, audience, and medium, and how all of that shapes the world you move through every day—even when it doesn't look like "history."
 
-
-## Student Learning Outcomes (SLOs)
-Through readings, lectures, discussions, examinations, and writing assignments, students will be able to:
-
-*  EXPLAIN how humans in the past shaped their own unique historical moments, constructed historical memories, and were shaped by those moments and memories over time.
-* SUMMARIZE and APPRAISE the diversity of historical experiences, interpretations, evidence in order to RECONSTRUCT past events and EVALUATE how history and historical memory can be used and misused for various purposes.
-* IDENTIFY historical arguments in a variety of sources and EXPLAIN how they were constructed, EVALUATING credibility, perspective, and relevance.
-* CREATE well-supported historical arguments and narratives that demonstrate their ability to read critically, think logically, and express themselves clearly in writing appropriate for their audience.
-* DISTINGUISH between primary and secondary sources, IDENTIFY and EVALUATE evidence and UNDERSTAND people in their historical context.
+The general lesson: history isn't just a reason why. There are other contingencies and motivations and values that wax and wane. By the end of the course, you'll see that history is not simply a record of the past, but an evolving cultural practice through which people make sense of themselves and their place in the world.
 
 
-## General Workload
-Most weeks you will read two short book chapters (occasionally articles), the standard amount for a lower-division history course. Most weeks will have a 5-10 minute introductory video that will help provide some background and highlight important themes to look for in the readings. Most lectures and readings will have either a short reading reflection or quiz associated with them to make sure you are motivated to keep up with the lectures and reading, and to hold you accountable. Quizzes will employ a variety of kinds of questions, including short answer prompts that test your ability to synthesize information from the lecture and chapter(s).
-
-The quizzes (about 25% of your grade for the course) are mostly straightforward, but not trivial. The goal is to make you THINK CAREFULLY and CRITICALLY about course material. You will disagree with me on some questions, which is what I want. Because this class is about interpretation and argument, you are welcome and encouraged to debate on the discussion board ANY quiz question marked as incorrect. If you make a good argument, you'll get points for it and make up any "missed" points from the quiz.
-
-In short, it's very easy to get whatever grade you want in the class by just keeping up with the basic work. There is no huge midterm or final that is a large percent of your grade.
+## Learning Objectives
+* Understand that historical narratives are constructed, not discovered, and that the construction changes over time
+* Recognize how ideas about truth, evidence, and authority have shifted across different eras
+* Identify different "flavors" of history (political, social, cultural, public, digital) and explain why they emerged when they did
+* Analyze how histories around you—in monuments, textbooks, holidays, media—are instrumental in shaping daily life, even when not apparent
+* Develop critical reading skills for evaluating historical claims in books, media, and public debate
+* Appreciate that "history" often serves purposes beyond explaining the past: legitimacy, identity, resistance, entertainment, and more
 
 
 ## You are welcome here
-I want to be VERY CLEAR: even if you have never been challenged to think about how history is made, YOU ARE WELCOME HERE! This course assumes no prior knowledge or skills. I grade quite leniently at the beginning of class and the bar slowly rises throughout the class as we dive deeper into course material and you get more comfortable with the quizzes and reading responses.
+Even if you have never been challenged to think about how history is made, **you are welcome here**! This course assumes no prior knowledge or skills. I grade quite leniently at the beginning of class and the bar slowly rises throughout the class as we dive deeper into course material and you get more comfortable with various repeating assignments.
 
-I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. If you feel the course structure or assignments isn't facilitating success or does not represent the effort you're putting in the course, let's talk (virtually, of course)!
-
-
-## Work Requirements and Grading
-Standard assignments listed here link to their own instruction page. If there is no link, the instructions are listed on the schedule page under the due date.
-
-The little formula translates as `number of assignments` x `possible points` = `total points`
-
-- Quizzes (on lectures & reading assignments) (6x~13=78)
-- [Reading Responses](reading-reflections) (9x10=90)
-- 1619 Project Reflection (1x30)
-- Maza/Midterm Reflection (1x20)
-- Architecture and Monuments Reflection (1x20)
-- Weekly _Seven Cheap Things_ Reflections (3x20)
-- History in _Seven Cheap Things_ (1x30)
-- Final Course Reflection (1x40)
+I really do want you to have fun learning in this class. It takes some work, but I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. If you feel the course structure or assignments isn't facilitating success or does not represent the effort you're putting in the course, let's talk!
 
 
+## Accessing Readings
+There are no required books to purchase. We use a tool called Zotero to manage PDFs of reading assignments apart from the books. 
 
-### Grade Distribution
-There will be about 368 points, but that will probably change slightly over the semester. Your grade is determined by percent so you can always see in Learn how you are doing regardless of the ultimate possible point total.
-
-Percent | Grade
---- | ---
-94+ | A
-90-93 | A-
-87-89 | B+
-83-86 | B
-80-82 | B-
-77-79 | C+
-73-76 | C
-70-72 | C-
-67-69 | D+
-60-66 | D
-59- | F
-
-
-### Please Ask for Help
-I heartily encouraged you to speak with me at any time about how I think you're doing in the class and how you can improve your performance (if at all). If life gets overwhelming during the course (as it easily can these days), it can be tempting to drift away from a survey course like this. Rather than disappear, let's work something out to accommodate your circumstances and thus avoid digging a huge hole from which it becomes increasingly difficult to escape.
-
-
-## Course Materials
-
-### Books
-- Sarah Maza, _Thinking About History_ (University of Chicago Press, 2017)
-- Raj Patel and Jason W. Moore, _A History of the World in Seven Cheap Things_ (University of California Press, 2018) [online](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=4820021)
-- Jeremy D. Popkin, _From Herodotus to H-Net, 2nd ed._ (Oxford University Press, 2021)
-
-### Zotero
-We use a tool called Zotero to manage PDFs of reading assignments apart from the books. As you read the [Zotero set up instructions](/courses/etc/zotero), you will need the following links. Save yourself confusion by reading the directions FIRST.
+**To get connected, follow the [Zotero set up instructions](/courses/etc/zotero), noting the links below**.
 
 Our `Zotero Group homepage` is [https://www.zotero.org/groups/2703269/making-history-unm](https://www.zotero.org/groups/2703269/making-history-unm). This link is best for joining the course Zotero Group.
 
 Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-history-unm/library](https://www.zotero.org/groups/2703269/making-history-unm/library). Once you are a member of our group, this link is best for accessing our Zotero Library.
 
 
-## Writing Help
-[CAPS Tutoring Services](http://caps.unm.edu/programs/online-tutoring/) is a free-of-charge educational assistance program available to UNM students enrolled in classes. Online services include the Online Writing Lab, Chatting with or asking a question of a Tutor.
 
-## Students with Disabilities
-The American with Disabilities Act (ADA) is a federal anti-discrimination statute that provides comprehensive civil rights protection for persons with disabilities. Among other things, this legislation requires that all students with disabilities be guaranteed a learning environment that provides for reasonable accommodations of their disabilities. If you have a disability requiring accommodation, please contact me immediately to make arrangements as well as Accessibility Services Office in 2021 Mesa Vista Hall at 277-3506 or http://as2.unm.edu/index.html. Information about your disability is confidential.
+## Course Work
+* [Reading reflections](reading-reflections)
+* Basic class engagement (15%)
+* [Historians Cafe Conversation](historians-cafe) (15%)
+* [AI Assignment Design](ai-assignment) (15%)
+* [Disruptive Expertise](disruptive-expertise) Contribution (15%)
+* []() (15%)
+* [Final Course Reflection](final-course-reflection) (15%)
 
-## Academic Misconduct
-You should be familiar with [UNM’s Policy on Academic Dishonesty and the Student Code of Conduct](http://pathfinder.unm.edu/policies.htm#studentcode) which outline academic misconduct defined as plagiarism, cheating, fabrication, or facilitating any such act.
 
-## Citizenship and/or Immigration Status
-All students are welcome in this class regardless of citizenship, residency, or immigration status.  I will respect your privacy if you choose to disclose your status. UNM as an institution has made a core commitment to the success of all our students, including members of our undocumented community.  The Administration’s welcome is found on our website: http://undocumented.unm.edu/.
+### Midterm Paper
+Around Week 8, you will write a short paper (~1500 words) reflecting on one major "turn" in how history has been made. Pick one era or movement we've covered and explain: what changed about how people told stories about the past, and why?
+
+
+### Final Project
+The final project asks you to find a piece of "history" that shapes daily life around you—a monument, a museum exhibit, a textbook passage, a holiday tradition, a street name, a family story, a TikTok explainer—and analyze *how* and *why* it was made. What kind of history is it? Whose story does it tell? What does it leave out? What work is it doing in the present? Format options: essay, podcast, annotated source set, digital exhibit, or poster.
+
+
+## AI Policy & Academic Integrity
+* If you cannot use AI effectively, you will eventually lose out to people who can. You are always welcome to use AI to help you in this class.
+* However, AI should help make your thinking MORE visible, not replace it.
+* **You must always differentiate yourself from AI.** If it even seems like vanilla AI (even if it isn't), you will need to redo the assignment.
+* I can't really _prove_ you're cheating if you do, but that's OK. Eventually you'll lose out to people who actually learned to use AI critically and productively instead of deceptively. That seems a sufficient enough consequence.
+
+
+### Assessment Philosophy
+The goal of this course is for you to *see* history differently—not to learn facts about the past. I care about the effort and thought you put into engaging with the material, not whether you get the "right" answer. There usually isn't one. You are graded primarily on perceived effort. 
+
+
+## Read to Engage, Not to Agree
+For almost everything we read, we're reading to ENGAGE with it, not because it's right. There is a LOT to disagree with across the readings, and we don't all have to agree on everything. The goal is to develop frameworks for thinking critically about how history gets made and used.
+
+
+## Accessibility & Support
+If life gets overwhelming during the course, please reach out. We can discuss formal or informal accommodations, deadline adjustments, or other support. The goal is maximizing learning under real life circumstances.
+
+## Color Guide (for the schedule page)
+{% include alert.html class='danger' title='Red boxes' text="
+These indicate something you have to DO or TURN IN.
+"%}
+
+{% include alert.html class='warning' title='Yellow Boxes' text="
+These indicate something you should be aware of---usually an upcoming assignment or a longer reading---but isn't anything you need to immediately do.
+"%}
+
+{% include alert.html class='info' title='Blue boxes' text="
+These indicate something that is important to know, but isn't time sensitive.
+"%}
