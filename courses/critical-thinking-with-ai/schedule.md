@@ -94,7 +94,7 @@ Prompt engineering is not as much a technical skill as a humanistic one. To writ
 ### 2.2: NO CLASS! 
 
 {% include alert.html class='warning' title='Dialogue remix due TUESDAY' text="
-Make sure you plan to post your dialog BEFORE CLASS so we can see each others' versions.
+Make sure you plan to post your [dialogue remix](dialogue-remix) BEFORE CLASS so we can read and respond to each others' versions. Note there is also a non-trivial reading assignment for class on Tuesday. Remember this is not a sit-and-get kind of class, and if it seems folks aren't prepared for discussion, we will start having mandatory reading reflections and quizzes.  
 "%}
 
 
@@ -104,9 +104,8 @@ Make sure you plan to post your dialog BEFORE CLASS so we can see each others' v
 ### 3.1: Technological Resistance
 
 {% include alert.html class='danger' title='Dialogue remix due!' text="
-Make sure this is posted to the Canvas discussion board before class.
+Make sure your [dialogue remix](dialogue-remix) is posted to the Canvas discussion board before class. We will use these in class, but you also have some reading to do before class. As noted in last Thursday's box: Remember this is not a sit-and-get kind of class. If folks aren't prepared for discussion, we will start having mandatory reading reflections and quizzes.
 "%}
-
 
 - Calestous Juma, _Innovation and Its Enemies: Why People Resist New Technologies_, Ch. 1: Gales of Creative Destruction, 11--43.
 - Calestous Juma, _Innovation and Its Enemies: Why People Resist New Technologies_, Ch. 3: Stop the Presses, 68--94.
