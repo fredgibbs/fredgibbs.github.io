@@ -114,7 +114,7 @@ Make sure your [dialogue remix](dialogue-remix) is posted to the Canvas discussi
 #### Resistance Discussion
 - According to Juma, why do people resist new technologies? 
 - How is this relevant to AI?
-- How does the case study illustrate Juma's general points? How is it a bit extraneous?
+- How does the case study about printing the Koran illustrate Juma's general points? How is it extraneous?
 
 #### Workshop
 - Dialogue REMIX pair and share via Canvas
