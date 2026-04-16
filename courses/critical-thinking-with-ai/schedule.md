@@ -202,7 +202,7 @@ Let's evaluate AI's responses. Are the "missing perspectives" it generates subst
 * Include a metacognitive reflection component
 * Be testable in class next Tuesday
 - Good AI assignments make the student's thinking MORE visible, not less. If AI can complete the assignment without the student learning anything, the assignment has failed.
-
+- Check out the [AI assignment guide](ai-assignment)
 
 {% include alert.html class='warning' title='Post your AI exercise BEFORE next class' text="
 We're doing our assignment tests ON TUESDAY, so they need to be published before class starts.
@@ -214,10 +214,10 @@ We're doing our assignment tests ON TUESDAY, so they need to be published before
 ## 5: Apr 20--24
 
 ### 5.1: Disruption Assumptions I
-- Adrian Johns, *The Nature of the Book: Print and Knowledge in the Making*, Ch. 1: Introduction, 1--40. Johns demonstrates that print didn't automatically create reliable knowledge, as had been assumed. Trust in printed texts had to be constructed through social and institutional practices. A powerful historical parallel to our current moment with AI.
+- Adrian Johns, *The Nature of the Book: Print and Knowledge in the Making*, Ch. 1: Introduction, 1--40. Johns demonstrates that the advent of the printing press in Europe didn't automatically create reliable knowledge, as had been assumed. Trust in printed texts had to be constructed through social and institutional practices. A powerful historical parallel to our current moment with AI!
 
-{% include alert.html class='danger' title='Post assignments BEFORE class' text="
-We're doing our assignment tests today, so they need to be published when class starts.
+{% include alert.html class='danger' title='Post AI Assignments BEFORE class' text="
+We're doing our assignment tests today, so they need to be published when class starts. Make sure you've gone through the checklist on the [AI Assignment Guide](ai-assignment)
 "%}
 
 #### Discussion: Unpacking Truth
