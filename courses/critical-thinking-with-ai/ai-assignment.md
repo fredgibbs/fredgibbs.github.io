@@ -85,6 +85,20 @@ The assignment you create should embrace transparent assignment design. This mea
     - coach, tutor, 
   - be sure to explain how students can **iteratively** engage with AI to learn effectively
 
+## Evaluation
+As the instructor, how can you tell if your students actually learned something? In most cases, that means emphasizing **process over product** while still including some clear sign that understanding improved. **What is it you want to see as evidence of learning?**
+
+Your evaluation section might include bullet points like these:
+- Ask students to explain the concept or skill in their **own words** by the end of the activity (but they may use AI anyway)
+- Include a short **transfer task** where the student has to apply the idea to a new example, problem, or situation
+- Require students to include some record of their **process**: key prompts, useful responses, false starts, revisions, and notes about what changed
+- Evaluate how well the student **judged AI output**, not just whether they got a polished answer
+- Ask students to show how they **checked accuracy**: comparing sources, testing examples, or noticing when AI was vague or wrong
+- Reward evidence of **evidence of iteration** that shows increasing sophistication of questions
+- Ask students to identify what still feels confusing, incomplete, or difficult after the activity
+
+In general, a strong evaluation rubric should ask: can the student now explain, apply, and question the idea better than they could at the beginning?
+
 
 ## Reflection
 Finally, **separate from the assignment you create for students**, include a short (~250 word) reflection discussing what you learned about AI when creating the assignment.
