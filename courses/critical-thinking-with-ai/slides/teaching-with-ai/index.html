@@ -1,0 +1,283 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<title>Assigning AI — Teaching Points</title>
+
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reset.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reveal.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/theme/black.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=DM+Sans:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+
+		<style>
+			:root {
+				--sy-bg: #12100d;
+				--sy-surface: #1a1713;
+				--sy-card: #201c17;
+				--sy-text: #e8e0d4;
+				--sy-text-muted: #aea08e;
+				--sy-border: #302a23;
+				--sy-heading-1: #d4a84b;
+				--sy-heading-2: #de8466;
+				--sy-heading-3: #cc6e54;
+				--sy-link: #c2a882;
+			}
+
+			.reveal {
+				font-family: 'DM Sans', system-ui, sans-serif;
+				color: var(--sy-text);
+			}
+
+			.reveal .slides {
+				text-align: left;
+			}
+
+			.reveal .slides section {
+				background: radial-gradient(circle at 18% 0%, rgba(212, 168, 75, 0.12), transparent 38%),
+							radial-gradient(circle at 100% 100%, rgba(222, 132, 102, 0.1), transparent 42%),
+							var(--sy-bg);
+				border: 1px solid var(--sy-border);
+				border-radius: 18px;
+				padding: 2.6rem 2.8rem;
+				box-sizing: border-box;
+				min-height: 620px;
+			}
+
+			.reveal .eyebrow {
+				font-family: 'IBM Plex Mono', monospace;
+				text-transform: uppercase;
+				letter-spacing: 0.12em;
+				font-size: 0.7em;
+				color: var(--sy-text-muted);
+				margin: 0 0 0.9rem 0;
+			}
+
+			.reveal .main-point {
+				font-family: 'Space Grotesk', sans-serif;
+				font-size: clamp(2.2rem, 5.2vw, 4.2rem);
+				line-height: 1.04;
+				font-weight: 700;
+				color: var(--sy-heading-1);
+				margin: 0 0 1.1rem 0;
+				letter-spacing: -0.01em;
+				text-wrap: balance;
+			}
+
+			.reveal .detail {
+				font-size: clamp(1.05rem, 2.2vw, 1.42rem);
+				line-height: 1.5;
+				color: var(--sy-text-muted);
+				max-width: 94%;
+				margin: 0;
+			}
+
+			.reveal .detail strong {
+				color: var(--sy-text);
+				font-weight: 600;
+			}
+
+			.reveal .line {
+				height: 2px;
+				width: 130px;
+				margin: 1.2rem 0;
+				background: linear-gradient(90deg, var(--sy-heading-2), transparent);
+				border-radius: 99px;
+			}
+
+			.reveal .cards {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 0.9rem;
+				margin-top: 1.1rem;
+			}
+
+			.reveal .card {
+				border: 1px solid var(--sy-border);
+				border-left: 3px solid var(--sy-heading-2);
+				background: color-mix(in oklab, var(--sy-card) 88%, black);
+				border-radius: 8px;
+				padding: 0.8rem 0.9rem;
+			}
+
+			.reveal .card h4 {
+				font-family: 'Space Grotesk', sans-serif;
+				font-size: 0.78em;
+				color: var(--sy-heading-2);
+				margin: 0 0 0.28rem 0;
+			}
+
+			.reveal .card p {
+				font-size: 0.58em;
+				line-height: 1.45;
+				color: var(--sy-text-muted);
+				margin: 0;
+			}
+
+			.reveal ul.detail-list {
+				margin: 1rem 0 0 0.9rem;
+				color: var(--sy-text-muted);
+				font-size: 0.72em;
+				line-height: 1.48;
+			}
+
+			.reveal ul.detail-list li {
+				margin: 0.45rem 0;
+			}
+		</style>
+
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? '/assets/vendor/reveal.js-3.8.0/css/print/pdf.css' : '/assets/vendor/reveal.js-3.8.0/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section data-transition="fade">
+					<p class="eyebrow">Critical Thinking with AI • Hist 300</p>
+					<h1 class="main-point">Teaching with AI: Key Roles and Strategies</h1>
+					<div class="line"></div>
+					<p class="detail">
+						These slides cover the main points from the readings today, one question:<br>
+						<strong>How do we use AI to increase learning, not just speed outputs?</strong>
+					</p>
+				</section>
+
+				<section>
+					<p class="eyebrow">Overview</p>
+					<h2 class="main-point">Roles AI Can Play in Learning</h2>
+					<div class="cards">
+						<div class="card fragment"><h4>Tutor</h4><p>Clarifies content and builds foundational knowledge.</p></div>
+						<div class="card fragment"><h4>Coach</h4><p>Provides guidance and support to improve performance.</p></div>
+						<div class="card fragment"><h4>Reviewer</h4><p>Offers critique, verification, and targeted feedback.</p></div>
+						<div class="card fragment"><h4>Teammate</h4><p>Expands ideation and collaborative problem solving.</p></div>		
+						<div class="card fragment"><h4>Simulator</h4><p>Creates scenarios and test cases that help knowledge transfer.</p></div>
+					</div>
+				</section>
+
+				<section>
+					<p class="eyebrow">Tutor</p>
+					<h2 class="main-point">Guide Learning in Deliberate Steps</h2>
+					<div class="line"></div>
+					<p class="detail">
+						Effective prompting is usually sequential, not singular:
+						each step sets up the next one.
+					</p>
+					<ul class="detail-list">
+						<li>Pattern: explain → test → challenge → compare → revise → apply.</li>
+						<li>Goal: create deliberate practice and evidence of learning.</li>
+					</ul>
+				</section>
+
+
+				<section>
+					<p class="eyebrow">Coach </p>
+					<h2 class="main-point">Produce Better Questions</h2>
+					<div class="line"></div>
+					<p class="detail">
+						Strong learning workflows move from explanation to diagnosis:
+						what do I still not understand, and what question should I ask next?
+					</p>
+					<ul class="detail-list">
+						<li>Pattern: explain → quiz me → identify misunderstanding → re-explain.</li>
+						<li>Goal: students get better at inquiry, not just receiving content.</li>
+					</ul>
+				</section>
+
+
+				<section>
+					<p class="eyebrow">Reviewer</p>
+					<h2 class="main-point">Turn Feedback Into Better Revision</h2>
+					<div class="line"></div>
+					<p class="detail">
+						Strong revision workflows turn AI feedback into a decision:
+						which suggestions are worth using, and why?
+					</p>
+					<ul class="detail-list">
+						<li>Pattern: generate critique → weigh objections → revise selectively.</li>
+						<li>Goal: students practice judgment, not just compliance with feedback.</li>
+					</ul>
+				</section>
+
+				<section>
+					<p class="eyebrow">Teammate</p>
+					<h2 class="main-point">Check Claims and Protect the Skill</h2>
+					<div class="line"></div>
+					<p class="detail">
+						AI can sound confident without being correct:
+						if the assignment rewards polish alone, students can bypass the learning.
+					</p>
+					<ul class="detail-list">
+						<li>Risk: fluency can hide error, overreliance, and weak understanding.</li>
+						<li>Response: require verification and grade decisions, not just prose.</li>
+					</ul>
+				</section>
+
+
+				<section>
+					<p class="eyebrow">Simulator</p>
+					<h2 class="main-point">Apply, Test, and Teach the Concept</h2>
+					<div class="line"></div>
+					<p class="detail">
+						Applied learning moves beyond explanation:
+						students use AI to test, simulate, and teach so understanding has to hold up.
+					</p>
+					<ul class="detail-list">
+						<li>Pattern: generate examples → simulate use → teach AI → correct errors.</li>
+						<li>Goal: students move from recognition to transfer and explanation.</li>
+					</ul>
+				</section>
+
+				<section>
+					<p class="eyebrow">Reviewer</p>
+					<h2 class="main-point">Make Student Thinking Visible</h2>
+					<div class="line"></div>
+					<p class="detail">
+						The core design question is simple:
+						where does the student have to think, judge, and make the learning visible?
+					</p>
+					<ul class="detail-list">
+						<li>Principle: design for cognition, not convenience.</li>
+						<li>Goal: build in decision points where students must judge AI output.</li>
+					</ul>
+				</section>
+
+
+				<section>
+					<p class="eyebrow">Assignment Handoff →</p>
+					<h2 class="main-point">Now Translate These Lessons Into Your Own Assignment</h2>
+					<div class="line"></div>
+					<p class="detail">
+						The question now is practical:
+						how do you turn these principles into an assignment someone else can actually use?
+					</p>
+					<ul class="detail-list">
+						<li>Task: build a clear process a classmate can follow.</li>
+						<li>Goal: design for learning, not just a polished final product.</li>
+					</ul>
+				</section>
+
+			</div>
+		</div>
+
+		<script src="/assets/vendor/reveal.js-3.8.0/js/reveal.js"></script>
+		<script>
+			Reveal.initialize({
+				hash: true,
+				controlsTutorial: false,
+				progress: true,
+				center: true,
+				dependencies: [
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/markdown/marked.js' },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/markdown/markdown.js' },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/notes/notes.js', async: true },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/highlight/highlight.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>

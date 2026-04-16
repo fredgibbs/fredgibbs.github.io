@@ -1,0 +1,351 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<title>Trusted Sources — A Guided Source Hunt</title>
+
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reset.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reveal.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/theme/black.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+
+		<style>
+			:root {
+				--ts-bg: #0d1412;
+				--ts-text: #e6ece4;
+				--ts-text-muted: #9fb1a3;
+				--ts-border: #22302b;
+				--ts-heading-1: #a8c686;
+				--ts-heading-2: #6fb3a0;
+				--ts-heading-3: #d9b26a;
+				--ts-accent: #d9b26a;
+			}
+
+			html, body, .reveal {
+				background: var(--ts-bg);
+			}
+
+			.reveal {
+				font-family: 'Inter', system-ui, sans-serif;
+				color: var(--ts-text);
+			}
+
+			.reveal .slides {
+				text-align: left;
+			}
+
+			.reveal .eyebrow {
+				font-family: 'JetBrains Mono', monospace;
+				text-transform: uppercase;
+				letter-spacing: 0.18em;
+				font-size: 0.5em;
+				color: var(--ts-heading-3);
+				margin: 0 0 0.9rem 0;
+			}
+
+			.reveal .main-point {
+				font-family: 'Fraunces', Georgia, serif;
+				font-size: 1.5em;
+				line-height: 1.06;
+				font-weight: 600;
+				color: var(--ts-heading-1);
+				margin: 0 0 0.6em 0;
+				letter-spacing: -0.015em;
+				text-wrap: balance;
+				font-style: italic;
+			}
+
+			.reveal .detail {
+				font-size: 0.75em;
+				line-height: 1.5;
+				color: var(--ts-text-muted);
+				margin: 0;
+				font-weight: 400;
+			}
+
+			.reveal .detail strong { color: var(--ts-text); font-weight: 600; }
+			.reveal .detail em { color: var(--ts-heading-3); font-style: italic; }
+
+			.reveal .rule {
+				height: 1px;
+				width: 140px;
+				margin: 0.8em 0;
+				background: linear-gradient(90deg, var(--ts-heading-2) 0%, var(--ts-accent) 60%, transparent 100%);
+			}
+
+			.reveal .cards {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 0.7em;
+				margin-top: 0.8em;
+			}
+
+			.reveal .card {
+				border-top: 2px solid var(--ts-heading-2);
+				padding: 0.4em 0 0 0;
+			}
+
+			.reveal .card .num {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				color: var(--ts-heading-3);
+				letter-spacing: 0.15em;
+				display: block;
+				margin-bottom: 0.3em;
+			}
+
+			.reveal .card h4 {
+				font-family: 'Fraunces', Georgia, serif;
+				font-style: italic;
+				font-size: 0.7em;
+				color: var(--ts-heading-1);
+				margin: 0 0 0.2em 0;
+				font-weight: 600;
+			}
+
+			.reveal .card p {
+				font-size: 0.45em;
+				line-height: 1.5;
+				color: var(--ts-text-muted);
+				margin: 0;
+			}
+
+			.reveal ul.detail-list {
+				margin: 0.8em 0 0 0;
+				padding-left: 0;
+				list-style: none;
+				color: var(--ts-text-muted);
+				font-size: 0.6em;
+				line-height: 1.5;
+			}
+
+			.reveal ul.detail-list li {
+				margin: 0.4em 0;
+				padding-left: 1.2em;
+				position: relative;
+			}
+
+			.reveal ul.detail-list li::before {
+				content: "→";
+				position: absolute;
+				left: 0;
+				color: var(--ts-heading-2);
+				font-family: 'JetBrains Mono', monospace;
+			}
+
+			.reveal .split {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 1.2em;
+				margin-top: 0.8em;
+			}
+
+			.reveal .split .col {
+				border-left: 1px solid var(--ts-border);
+				padding-left: 0.8em;
+			}
+
+			.reveal .split .col h5 {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				text-transform: uppercase;
+				letter-spacing: 0.15em;
+				color: var(--ts-heading-3);
+				margin: 0 0 0.4em 0;
+			}
+
+			.reveal .split .col p {
+				font-family: 'Fraunces', Georgia, serif;
+				font-style: italic;
+				font-size: 0.6em;
+				color: var(--ts-text);
+				margin: 0;
+				line-height: 1.4;
+			}
+
+			.reveal .pull-quote {
+				font-family: 'Fraunces', Georgia, serif;
+				font-style: italic;
+				font-size: 0.75em;
+				color: var(--ts-heading-3);
+				border-left: 2px solid var(--ts-accent);
+				padding-left: 0.8em;
+				margin: 0.8em 0 0 0;
+				line-height: 1.4;
+			}
+
+			.reveal .tag {
+				display: inline-block;
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				color: var(--ts-heading-2);
+				border: 1px solid var(--ts-border);
+				padding: 0.2em 0.5em;
+				margin-right: 0.4em;
+				letter-spacing: 0.1em;
+				text-transform: uppercase;
+			}
+		</style>
+
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? '/assets/vendor/reveal.js-3.8.0/css/print/pdf.css' : '/assets/vendor/reveal.js-3.8.0/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+
+				<section data-transition="fade">
+					<p class="eyebrow">Critical Thinking with AI • Hist 300</p>
+					<h1 class="main-point">Trusted Sources: A Guided Source Hunt</h1>
+					<div class="rule"></div>
+					<p class="detail">
+						Think of this like tracking an animal, not ticking a checklist.
+						Today we ask a different question: not <em>is it good or bad?</em>
+						but <strong>what is this source fit for?</strong>
+					</p>
+				</section>
+
+				<section>
+					<p class="eyebrow">Provocation</p>
+					<h2 class="main-point">Not all sources are equal — but all are useful for something.</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						Reddit, Wikipedia, an academic blog, and a peer-reviewed book or article provide not better or worse information, but different kinds of insights.
+						The goal is not <em>good vs. bad</em>. The goal is <strong>fit for purpose</strong>.
+					</p>
+				</section>
+
+				<section>
+					<p class="eyebrow">What Counts as a Historical Source</p>
+					<h2 class="main-point">Evidence vs. Argument About Evidence</h2>
+					<div class="split">
+						<div class="col">
+							<h5>Primary — Evidence</h5>
+							<p>Created in the moment: letters, speeches, census data, photos, oral histories.</p>
+						</div>
+						<div class="col">
+							<h5>Secondary — Argument</h5>
+							<p>Interpretations of the past: books, scholarly articles, reviews.</p>
+						</div>
+					</div>
+					<p class="pull-quote">
+						We're focused on secondary sources as a synthesis of historical interpretation — but remember, they are still sources that need to be evaluated!
+					</p>
+				</section>
+
+
+				<section>
+					<p class="eyebrow">Use diverse search strategies</p>
+					<h2 class="main-point">Cast wide nets. Aim small.</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						Using Google means finding lots of driftwood quickly. USEFUL!
+						Don't neglect slower and more curated tree hunting. USEFUL!
+					</p>
+					<div class="cards">
+						<div class="card fragment"><span class="num">01</span><h4>Library databases</h4><p>JSTOR, Project MUSE — curated scholarship with real vetting.</p></div>
+						<div class="card fragment"><span class="num">02</span><h4>Archival collections</h4><p>Library of Congress, National Archives — primary evidence at scale.</p></div>						
+					</div>
+				</section>
+
+				<section>
+					<p class="eyebrow">How to Evaluate: Four facets</p>
+					<h2 class="main-point">View every source under four kinds of lenses:</h2>
+					<div class="cards">
+						<div class="card fragment"><span class="num">01 · Authorship</span><h4>Who made this?</h4><p>What is their expertise, stake, or position?</p></div>
+						<div class="card fragment"><span class="num">02 · Context</span><h4>When and why?</h4><p>What moment produced it, and what was it responding to?</p></div>
+						<div class="card fragment"><span class="num">03 · Evidence</span><h4>Based on what?</h4><p>What is this built from — data, testimony, other sources?</p></div>
+						<div class="card fragment"><span class="num">04 · Specificity</span><h4>On target?</h4><p>Potentially too distracting or a valuable new perspective?</p></div>
+					</div>
+					<p class="pull-quote">
+						History isn't just facts — it's interpretation shaped by context. Be broad but selective with your contexts
+					</p>				
+
+				</section>
+
+
+				<section>
+					<p class="eyebrow">The Trap of Credibility</p>
+					<h2 class="main-point">Stop asking: is it credible?</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						This is relevant only if you believe in absolute truth. For AI purposes, we want to ask instead: <strong>what kind of truth is this source capable of telling?</strong>
+					</p>
+					<ul class="detail-list">
+						<li>A primary source can be biased, incomplete, or deliberately misleading.</li>
+						<li>A peer-reviewed article can still be wrong, dated, or contested.</li>
+						<li>Replace the question with: <strong>what kind of truth is this source capable of telling?</strong></li>
+						<li>How can this guide the LLM's understanding and broaden its perspectives?</li>
+					</ul>
+				</section>
+
+				<section>
+					<p class="eyebrow">Corroboration</p>
+					<h2 class="main-point">Interpretation hinges on triangulation.</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						No single source or perspective stands alone. Historians build arguments by stitching camera angles
+						into a scene — and noticing where the angles can tell different stories.
+					</p>
+					<ul class="detail-list">
+						<li>Look for <strong>agreement</strong> — what do multiple sources confirm?</li>
+						<li>Look for <strong>disagreement</strong> — where do they conflict, and why?</li>
+						<li>Look for <strong>silence</strong> — what is missing, unrecorded, or unspeakable?</li>
+					</ul>
+				</section>
+
+				<section>
+					<p class="eyebrow">Closing Takeaway</p>
+					<h2 class="main-point">Finding sources is assembling perspectives, not locating truth.</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						The real skill is the chain: <strong>question → source → interpretation</strong>.
+						That's the process you need to verify with AI. It's good at faking it!
+					</p>
+				</section>
+
+				<section>
+					<p class="eyebrow">Practice →</p>
+					<h2 class="main-point">Now let's try this in NotebookLM.</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						We'll load a small set of sources, ask a real historical question, and watch how
+						<em>question</em>, <em>source</em>, and <em>interpretation</em> push on each other in practice.
+					</p>
+					<ul class="detail-list">
+						<li>Start with a basic question.</li>
+						<li>Think about these slides.</li>
+						<li>Triangulate — agreement, disagreement, silence.</li>
+						<li>Formulate — what story emerges? what does it matter?</li>
+					</ul>
+				</section>
+
+			</div>
+		</div>
+
+		<script src="/assets/vendor/reveal.js-3.8.0/js/reveal.js"></script>
+		<script>
+			Reveal.initialize({
+				hash: true,
+				controlsTutorial: false,
+				progress: true,
+				center: true,
+				width: 960,
+				height: 700,
+				margin: 0.08,
+				dependencies: [
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/markdown/marked.js' },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/markdown/markdown.js' },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/notes/notes.js', async: true },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/highlight/highlight.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>

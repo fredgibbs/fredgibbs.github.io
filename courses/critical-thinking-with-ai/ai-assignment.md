@@ -28,12 +28,9 @@ This project asks you to experiment with a different question:
 
 > What does an AI-centric assignment look like that helps someone learn to use AI to learn?
 
-Obviously that's what this class is about, and teaching is often the best way to learn. Designing a learning process obviously helps someone learn from your assgignment, but more importantly it help you learn how to use AI to learn 
+Obviously that's what this class is about, and teaching is often the best way to learn. Designing a learning process obviously helps someone learn from your assgignment, but more importantly it help you learn how to use AI to learn.
 
 Someone else will need to follow your instructions and use AI to learn the same concept. We'll test this out in class!
-
-## Bigger Picture
-With your permission, these examples will be posted on the Amaranth AI craft circle webpage, which tries to provide faculty with ways to think about how to incorporate AI into learning processes more generally. Help make UNM a place with the best learners!
 
 
 ## What You Will Create
@@ -60,7 +57,7 @@ The goal is not to choose something easy so that it's easy to explain. The assig
 
 
 ## Designing the Learning Process
-Your assignment should include clear instructions for how AI will be used.
+Your assignment should include clear instructions for how AI should be used.
 
 These instructions should explain:
 - what kinds of prompts should be used
@@ -78,25 +75,26 @@ AI can help with things like:
 
 
 ## Transparency
-This is an exercise is transparent assignment design. This means showing:
-- the prompts you used
-- the responses you received
-- how you evaluated those responses
-- what worked and what did not
-- how you **iteratively** improved your work
-
-Learning with AI involves trial and error to learn how to guide it. I give you all the examples and hints I can, but there's no substitute for going through the process yourself and aligning your AI use to how you learn. Showing that process is part of the assignment.
+The assignment you create should embrace transparent assignment design. This means explaining clearly to your imagined student:
+- what the assignment is
+- what skills / knowledge / technique the student is supposed to learn
+- the process that students are supposed to follow
+  - provide some specific prompts as concrete examples
+  - also include general advice about prompting so students think for themselves
+  - use the techniques from the readings:
+    - coach, tutor, 
+  - be sure to explain how students can **iteratively** engage with AI to learn effectively
 
 
 ## Reflection
-Finally, separate from the assignment you create for studdnts, include a short (~250 word) summary reflection discussing what you learned about learning with AI.
+Finally, **separate from the assignment you create for students**, include a short (~250 word) reflection discussing what you learned about AI when creating the assignment.
 
 You might consider questions such as:
-- What _kinds_ of prompts were most helpful?
+- What _kinds_ of prompts were most helpful to facilitate understanding?
 - What patterns did you notice?
 - Where did AI explanations fall short?
-- What strategies helped turn AI responses into understanding?
 - What surprised you about the process?
+- How could this assignment be more effective?
 
 The goal of this reflection is to think about **how AI can augment the process of learning**. Use these reflection prompts to inform the reflection prompts you have to include on your assignment. Don't just copy and paste, though, tailor them to your particular assignment for more useful understnading how your students were using it.
 
@@ -115,10 +113,6 @@ The exercise provides **clear and structured instructions** for how AI should be
 ### Thoughtful Use of AI
 Make clear how **AI is used to support learning** rather than simply produce answers. Students should be asked to demonstrate awareness of both the strengths and limitations of AI tools.
 
-
 ### Evidence of Learning
-The project shows clear evidence that the concept or skill was better understood by the end of the exercise.Readers should be able to see how the student's understanding changed.
+The project shows clear evidence that the concept or skill was better understood by the end of the exercise. Readers should be able to see how the student's understanding changed.
 
-
-### Process Transparency + Reflection
-Students are expected to document how AI was used, including prompts and responses. Student should also be asked to thoughtfully consider what worked, what did not. The goal is not to produce perfect conclusions, but to think seriously about the process.

@@ -203,12 +203,8 @@ Let's evaluate AI's responses. Are the "missing perspectives" it generates subst
 * Be testable in class next Tuesday
 - Good AI assignments make the student's thinking MORE visible, not less. If AI can complete the assignment without the student learning anything, the assignment has failed.
 
-#### Workshop: Website setup
-- How to set up your own website for your AI assignment and disruptive expertise contribution
-- Disruptive Expertise URL TBP
-- [Xanthan](https://xanthan-web.github.io)
 
-{% include alert.html class='warning' title='Post assignments BEFORE next class' text="
+{% include alert.html class='warning' title='Post your AI exercise BEFORE next class' text="
 We're doing our assignment tests ON TUESDAY, so they need to be published before class starts.
 "%}
 
@@ -236,6 +232,13 @@ We're doing our assignment tests today, so they need to be published when class 
 - Each group reports on the assignment they tested. 
 - What makes an AI-integrated assignment good vs. gimmicky? 
 - How do you prevent the AI from doing the thinking FOR the student?
+
+
+#### Demo: Website setup
+- How to set up your own website for your AI assignment and disruptive expertise contribution
+- Disruptive Expertise URL TBP
+- [Xanthan](https://xanthan-web.github.io)
+
 
 
 ### 5.2: Disruption Assumptions II
