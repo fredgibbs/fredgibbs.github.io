@@ -152,14 +152,15 @@ You don't need to read either of these super closely--they are repetitive enough
 
 ### 4.1: AI critique
 
-- Safiya Umoja Noble, *Algorithms of Oppression*, Chapter 1 ("A Society, Searching") (~30 pp.)
-- Emily Bender et al., ["On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"](https://dl.acm.org/doi/10.1145/3442188.3445922) FAccT '21 (2021): 610–623. This paper argues LLMs produce text without understanding. Does this matter?
+- Safiya Umoja Noble, *Algorithms of Oppression*, Chapter 1 ("A Society, Searching") (~30 pp.) Question to keep in mind: If these problems still exist, won't they eventually disappear anyway? Is this still relevant?
+- Emily Bender et al., "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?", FAccT '21 (2021): 610–623. This paper argues LLMs produce text without understanding. Does this matter?
 - Kate Crawford, *The Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence* (2021), Introduction (~20 pp.). On the material costs—labor, resources, environmental—behind AI systems.
 
 
 #### Discussion
-- Stochastic Parrot WTF?
-- Do humans understand anything?
+- What are algorithms of oppression? Isn't math neutral?
+- Are we beyond algorithms? 
+- Stochastic Parrot WTF? Do humans understand anything?
 - What are present dangers of AI? How have they changed?
 - What are other dangers not mentioned here?
 

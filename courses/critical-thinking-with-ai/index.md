@@ -22,6 +22,7 @@ syllabus-theme: ai-dark
 
 ### Getting Started
 This is the home page of the course syllabus, which outlines all the instructions, logistics, and expectations for the course. The syllabus also has a [schedule page](schedule), which details the reading and activities for each session. 
+Course slides are available as a click-through [Reveal.js deck](slides/).
 
 
 ## Course Description
