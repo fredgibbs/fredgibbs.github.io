@@ -190,6 +190,8 @@ Let's evaluate AI's responses. Are the "missing perspectives" it generates subst
 
 - Ethan Mollick and Lilach Mollick, ["Assigning AI: Seven Approaches for Students, with Prompts"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475995) (Wharton, 2023). Skim and come prepared to discuss whether you agree with these seven approaches. Are they really different? Are they too broad? How many approaches should there be in your opinion?
 - Mollick, _Co-Intelligence_, Ch. 3: Four rules for co-intelligence, 36--63.
+
+#### Noteworthy
 - Bowen and Watson, _Teaching with AI_, Ch. 11: Feedback, roleplaying and tutors, 209--230.
 
 #### Activity — AI-assist some other course
