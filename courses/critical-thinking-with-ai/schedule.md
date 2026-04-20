@@ -194,18 +194,13 @@ Let's evaluate AI's responses. Are the "missing perspectives" it generates subst
 #### Noteworthy
 - Bowen and Watson, _Teaching with AI_, Ch. 11: Feedback, roleplaying and tutors, 209--230.
 
-#### Activity — AI-assist some other course
-"Convert" an exercise from another class. How could AI help you LEARN MORE?
-
-* Use AI in a specific, bounded way
-* Have a clear learning objective
-* Include a metacognitive reflection component
-* Be testable in class next Tuesday
-- Good AI assignments make the student's thinking MORE visible, not less. If AI can complete the assignment without the student learning anything, the assignment has failed.
+#### Assignment review
+- Don't forget to [review trusted sources slides](slides/trusted-sources/)
 - Check out the [AI assignment guide](ai-assignment)
 
 {% include alert.html class='warning' title='Post your AI exercise BEFORE next class' text="
-We're doing our assignment tests ON TUESDAY, so they need to be published before class starts.
+We're doing our assignment tests ON TUESDAY, so they need to be published before class starts. Be sure to follow the [AI assignment guide](ai-assignment).
+
 "%}
 
 
@@ -217,7 +212,7 @@ We're doing our assignment tests ON TUESDAY, so they need to be published before
 - Adrian Johns, *The Nature of the Book: Print and Knowledge in the Making*, Ch. 1: Introduction, 1--40. Johns demonstrates that the advent of the printing press in Europe didn't automatically create reliable knowledge, as had been assumed. Trust in printed texts had to be constructed through social and institutional practices. A powerful historical parallel to our current moment with AI!
 
 {% include alert.html class='danger' title='Post AI Assignments BEFORE class' text="
-We're doing our assignment tests today, so they need to be published when class starts. Make sure you've gone through the checklist on the [AI Assignment Guide](ai-assignment)
+We're doing our assignment tests today, so they need to be published when class starts. Make sure you've gone through the checklist on the [AI Assignment Guide](ai-assignment). You should also review the [slides on teaching with AI](slides/teaching-with-ai/)
 "%}
 
 #### Discussion: Unpacking Truth
@@ -246,8 +241,8 @@ We're doing our assignment tests today, so they need to be published when class 
 
 #### Discussion
 
-#### Disruptive expertise Workshop 
-Using NotebookLM loaded with 20 sources, develop the historical narrative for your contribution to the collective site. AI helps with synthesis, identifying connections, suggesting additional angles.
+#### Disruptive expertise workshop 
+Using NotebookLM loaded with 20 RELEVANT sources (a gathering AND filtering exercise), develop a preliminary historical narrative for your contribution to the collective project. AI helps with synthesis, identifying connections, suggesting additional angles.
 
 #### Workshop: AI as sounding board
 * Ask AI to support the thesis, then to challenge it
@@ -255,7 +250,7 @@ Using NotebookLM loaded with 20 sources, develop the historical narrative for yo
 * Revise the thesis based on the exchange
 - AI is most useful not when it gives you answers, but when it gives you better questions.
 
-#### Workshop: AI as sounding board
+#### Sample prompts
 * "What perspectives are missing from this account?"
 * "Rewrite this from the perspective of X"
 * "What sources would I need to find to tell a fuller story?"
