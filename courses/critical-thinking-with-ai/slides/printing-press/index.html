@@ -1,0 +1,872 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<title>The Printing Press — Fixity, Piracy, and the Manufacture of Credit</title>
+
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reset.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reveal.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/theme/black.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+
+		<style>
+			:root {
+				--ts-bg: #0d1412;
+				--ts-text: #e6ece4;
+				--ts-text-muted: #9fb1a3;
+				--ts-border: #22302b;
+				--ts-heading-1: #a8c686;
+				--ts-heading-2: #6fb3a0;
+				--ts-heading-3: #d9b26a;
+				--ts-accent: #d9b26a;
+			}
+
+			html, body, .reveal {
+				background: var(--ts-bg);
+			}
+
+			.reveal {
+				font-family: 'Inter', system-ui, sans-serif;
+				color: var(--ts-text);
+			}
+
+			.reveal .slides {
+				text-align: left;
+			}
+
+			.reveal .eyebrow {
+				font-family: 'JetBrains Mono', monospace;
+				text-transform: uppercase;
+				letter-spacing: 0.18em;
+				font-size: 0.5em;
+				color: var(--ts-heading-3);
+				margin: 0 0 0.9rem 0;
+			}
+
+			.reveal .main-point {
+				font-family: 'Fraunces', Georgia, serif;
+				font-size: 1.15em;
+				line-height: 1.1;
+				font-weight: 600;
+				color: var(--ts-heading-1);
+				margin: 0 0 0.4em 0;
+				letter-spacing: -0.015em;
+				text-wrap: balance;
+				font-style: italic;
+			}
+
+			.reveal .detail {
+				font-size: 0.75em;
+				line-height: 1.5;
+				color: var(--ts-text-muted);
+				margin: 0;
+				font-weight: 400;
+			}
+
+			.reveal .detail strong { color: var(--ts-text); font-weight: 600; }
+			.reveal .detail em { color: var(--ts-heading-3); font-style: italic; }
+
+			.reveal .rule {
+				height: 1px;
+				width: 140px;
+				margin: 0.5em 0;
+				background: linear-gradient(90deg, var(--ts-heading-2) 0%, var(--ts-accent) 60%, transparent 100%);
+			}
+
+			.reveal .cards {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 0.7em;
+				margin-top: 0.8em;
+			}
+
+			.reveal .card {
+				border-top: 2px solid var(--ts-heading-2);
+				padding: 0.4em 0 0 0;
+			}
+
+			.reveal .card .num {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				color: var(--ts-heading-3);
+				letter-spacing: 0.15em;
+				display: block;
+				margin-bottom: 0.3em;
+			}
+
+			.reveal .card h4 {
+				font-family: 'Fraunces', Georgia, serif;
+				font-style: italic;
+				font-size: 0.7em;
+				color: var(--ts-heading-1);
+				margin: 0 0 0.2em 0;
+				font-weight: 600;
+			}
+
+			.reveal .card p {
+				font-size: 0.45em;
+				line-height: 1.5;
+				color: var(--ts-text-muted);
+				margin: 0;
+			}
+
+			.reveal ul.detail-list {
+				margin: 0.8em 0 0 0;
+				padding-left: 0;
+				list-style: none;
+				color: var(--ts-text-muted);
+				font-size: 0.6em;
+				line-height: 1.5;
+			}
+
+			.reveal ul.detail-list li {
+				margin: 0.4em 0;
+				padding-left: 1.2em;
+				position: relative;
+			}
+
+			.reveal ul.detail-list li::before {
+				content: "→";
+				position: absolute;
+				left: 0;
+				color: var(--ts-heading-2);
+				font-family: 'JetBrains Mono', monospace;
+			}
+
+			.reveal .split {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 1.2em;
+				margin-top: 0.8em;
+			}
+
+			.reveal .split .col {
+				border-left: 1px solid var(--ts-border);
+				padding-left: 0.8em;
+			}
+
+			.reveal .split .col h5 {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				text-transform: uppercase;
+				letter-spacing: 0.15em;
+				color: var(--ts-heading-3);
+				margin: 0 0 0.4em 0;
+			}
+
+			.reveal .split .col p {
+				font-family: 'Fraunces', Georgia, serif;
+				font-style: italic;
+				font-size: 0.6em;
+				color: var(--ts-text);
+				margin: 0;
+				line-height: 1.4;
+			}
+
+			.reveal .pull-quote {
+				font-family: 'Fraunces', Georgia, serif;
+				font-style: italic;
+				font-size: 0.75em;
+				color: var(--ts-heading-3);
+				border-left: 2px solid var(--ts-accent);
+				padding-left: 0.8em;
+				margin: 0.8em 0 0 0;
+				line-height: 1.4;
+			}
+
+			.reveal .tag {
+				display: inline-block;
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				color: var(--ts-heading-2);
+				border: 1px solid var(--ts-border);
+				padding: 0.2em 0.5em;
+				margin-right: 0.4em;
+				letter-spacing: 0.1em;
+				text-transform: uppercase;
+			}
+
+			/* Revealable reveal-block for Argument and Historical Detail */
+			.reveal .reveal-block {
+				margin-top: 0.55em;
+				padding: 0.35em 0 0.35em 0.7em;
+				border-left: 1px solid var(--ts-border);
+			}
+
+			.reveal .reveal-block .label {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				text-transform: uppercase;
+				letter-spacing: 0.18em;
+				color: var(--ts-heading-3);
+				display: block;
+				margin-bottom: 0.35em;
+			}
+
+			.reveal .reveal-block p {
+				font-size: 0.58em;
+				line-height: 1.45;
+				color: var(--ts-text-muted);
+				margin: 0;
+			}
+
+			.reveal .reveal-block p strong { color: var(--ts-text); font-weight: 600; }
+			.reveal .reveal-block p em { color: var(--ts-heading-3); font-style: italic; }
+
+			.reveal .reveal-block.argument { border-left-color: var(--ts-heading-2); }
+			.reveal .reveal-block.historical { border-left-color: var(--ts-accent); }
+
+			/* Image-only slides */
+			.reveal section.image-slide {
+				text-align: center;
+				height: 100%;
+			}
+
+			.reveal section.image-slide figure {
+				margin: 0;
+				padding: 0;
+				height: 100%;
+				width: 100%;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				gap: 1.2em;
+			}
+
+			/* Landscape: caption below the image */
+			.reveal section.image-slide figure.landscape {
+				flex-direction: column;
+			}
+
+			/* Portrait: caption to the right of the image */
+			.reveal section.image-slide figure.portrait {
+				flex-direction: row;
+			}
+
+			.reveal section.image-slide img {
+				display: block;
+				border: 1px solid var(--ts-border);
+				box-shadow: 0 6px 30px rgba(0,0,0,0.45);
+				background: #1a1a1a;
+				object-fit: contain;
+				min-height: 0;
+			}
+
+			.reveal section.image-slide figure.landscape img {
+				max-width: 100%;
+				max-height: 85%;
+				width: auto;
+				height: auto;
+			}
+
+			.reveal section.image-slide figure.portrait img {
+				max-height: 100%;
+				max-width: 65%;
+				width: auto;
+				height: auto;
+				flex-shrink: 1;
+			}
+
+			.reveal section.image-slide figcaption {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.45em;
+				letter-spacing: 0.12em;
+				text-transform: uppercase;
+				color: var(--ts-heading-3);
+				line-height: 1.4;
+			}
+
+			.reveal section.image-slide figure.landscape figcaption {
+				text-align: center;
+				max-width: 90%;
+				flex-shrink: 0;
+			}
+
+			.reveal section.image-slide figure.portrait figcaption {
+				text-align: left;
+				max-width: 35%;
+				flex-shrink: 0;
+				border-left: 1px solid var(--ts-border);
+				padding-left: 1em;
+			}
+
+			.reveal section.image-slide figcaption em {
+				font-family: 'Fraunces', Georgia, serif;
+				font-style: italic;
+				text-transform: none;
+				letter-spacing: 0;
+				color: var(--ts-text-muted);
+				display: block;
+				margin-top: 0.4em;
+				font-size: 1.15em;
+			}
+
+			/* Moon grid: three (or four) moon images side-by-side in a single row */
+			.reveal section.image-slide figure.moon-grid {
+				flex-direction: column;
+				align-items: center;
+				gap: 0.8em;
+			}
+
+			.reveal section.image-slide figure.moon-grid .row {
+				display: flex;
+				flex-direction: row;
+				gap: 0.6em;
+				align-items: center;
+				justify-content: center;
+				max-height: 70%;
+			}
+
+			.reveal section.image-slide figure.moon-grid .row img {
+				max-height: 60vh;
+				max-width: 30%;
+				width: auto;
+				height: auto;
+			}
+
+			.reveal section.image-slide figure.moon-grid figcaption {
+				text-align: center;
+				max-width: 90%;
+				flex-shrink: 0;
+			}
+
+			/* Takeaway slides: dual-track Historical / AI parallel */
+			.reveal .parallel {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 1em;
+				margin-top: 0.6em;
+			}
+
+			.reveal .parallel .track {
+				border-top: 2px solid var(--ts-heading-2);
+				padding-top: 0.45em;
+			}
+
+			.reveal .parallel .track.ai { border-top-color: var(--ts-accent); }
+
+			.reveal .parallel .track h5 {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				letter-spacing: 0.16em;
+				text-transform: uppercase;
+				color: var(--ts-heading-3);
+				margin: 0 0 0.35em 0;
+			}
+
+			.reveal .parallel .track p {
+				font-size: 0.52em;
+				line-height: 1.45;
+				color: var(--ts-text-muted);
+				margin: 0;
+			}
+
+			.reveal .parallel .track p strong { color: var(--ts-text); font-weight: 600; }
+		</style>
+
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? '/assets/vendor/reveal.js-3.8.0/css/print/pdf.css' : '/assets/vendor/reveal.js-3.8.0/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+
+				<!-- ========== TITLE ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Critical Thinking with AI • Hist 300</p>
+					<h1 class="main-point">The Printing Press: Fixity, Piracy, and the Manufacture of Credit</h1>
+					<div class="rule"></div>
+					<p class="detail">
+						After Adrian Johns, <em>The Nature of the Book</em>. If print looks "fixed" today,
+						it's because we inherited centuries of <strong>social labor</strong> that made it seem that way.
+					</p>
+				</section>
+
+				<!-- ========== SLIDE 1 ========== -->
+				<section>
+					<p class="eyebrow">Slide 01 · Against the "Printing Revolution"</p>
+					<h2 class="main-point">Fixity is a social achievement, not a technological byproduct.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Argument</span>
+						<p>
+							Johns pushes back on Elizabeth Eisenstein's thesis that the press
+							<strong>automatically</strong> produced uniform knowledge. If print feels "fixed" to us,
+							it is only because we have <em>inherited</em> the social labor that made it seem so.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Detail</span>
+						<p>
+							For early modern readers, a printed book was a <strong>source of uncertainty</strong>.
+							They had to investigate <em>"where it had come from, who had made it, and whether its
+							author acknowledged it"</em> before they could trust the text.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 2 ========== -->
+				<section>
+					<p class="eyebrow">Slide 02 · Epistemic Indeterminacy</p>
+					<h2 class="main-point">Early print was trial and error — the identity of print wasn't settled.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Argument</span>
+						<p>
+							Readers of the 16th and 17th centuries lived in a state of <em>indeterminacy</em>.
+							Because piracy and unauthorized editing were rampant, the appearance of a printed page
+							<strong>did not guarantee its truth</strong>.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Detail</span>
+						<p>
+							Piracy was an <em>epistemic threat</em>. A pirate who swapped a diagram in a scientific
+							book to save on woodcuts wasn't just stealing profit — they were
+							<strong>"unauthorizing" the scientist's expertise</strong> by circulating false data under their name.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 3 ========== -->
+				<section>
+					<p class="eyebrow">Slide 03 · Tycho Brahe &amp; the Palatial Observatory</p>
+					<h2 class="main-point">Expertise must be situated and controlled to be believed.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Argument</span>
+						<p>
+							To protect his reputation from <em>"mechanick"</em> commercial printers,
+							Tycho Brahe built a <strong>closed system of knowledge production</strong>.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Detail</span>
+						<p>
+							Tycho installed his own printing press inside his observatory, <em>Uraniborg</em>,
+							on the island of Hven. By controlling the full cycle — observing stars, manufacturing
+							paper and ink — he ensured <strong>no unauthorized errors</strong> could creep into his data.
+							His expertise was physically tied to his island.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 3 · INTRO TO PORTRAITS ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Slide 03a · Four Faces of Tycho</p>
+					<h2 class="main-point">Different representations for different readers.</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						Tycho's image was <em>not</em> one image. Every audience — patrons, peers, pirates, popular readers —
+						met a different Tycho, shaped by who made the portrait and who was meant to see it.
+					</p>
+				</section>
+
+				<!-- ========== SLIDE 3b · HAND-COPIED PORTRAIT ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure>
+						<img src="images/tycho-portrait-painted.jpg"
+						     alt="Hand-copied painted portrait of Tycho Brahe, reproduced in the Opera Omnia">
+						<figcaption>
+							Tycho Brahe · Hand-copied portrait
+							<em>Reproduced from Tycho Brahe, <em>Opera Omnia</em>, I.<br>(By permission of the Syndics of Cambridge University Library.)</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== SLIDE 3c · EPISTOLARUM PRINTED PORTRAIT ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure>
+						<img src="images/tycho-epistolarum-portrait-1596.jpg"
+						     alt="Printed portrait of Tycho Brahe from Epistolarum Astronomicarum Libri, 1596">
+						<figcaption>
+							Tycho Brahe · <em>Epistolarum Astronomicarum Libri</em> (1596)
+							<em>Printed portrait from the work in which Tycho attacked Ursus.<br>(By permission of the Syndics of Cambridge University Library.)</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== SLIDE 3d · MECHANICA MURAL QUADRANT ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure>
+						<img src="images/tycho-mural-quadrant-1598.jpg"
+						     alt="Tycho with his mural quadrant, Astronomiae Instauratae Mechanica (1598)">
+						<figcaption>
+							Tycho Brahe · <em>Astronomiae Instauratae Mechanica</em> (1598)
+							<em>Tycho with his mural quadrant, as portrayed in a presentation impression.<br>(By permission of the British Library, C45.h.3.)</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== SLIDE 3e · SPARKE 1632 ENGLISH VERSION ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure>
+						<img src="images/tycho-sparke-1632-title.jpg"
+						     alt="Michael Sparke's English version of Tycho's mural quadrant portrait, 1632">
+						<figcaption>
+							Michael Sparke, <em>Learned Tico Brahae his Astronomicall Conjectur</em> (1632)
+							<em>English version of Tycho's mural quadrant portrait, published with his astrological prophecy.<br>(By permission of the Syndics of Cambridge University Library.)</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== SLIDE 3 · IMAGE ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure>
+						<img src="images/tycho-astronomia-instaurata-mechanica-1598.jpg"
+						     alt="Frontispiece of Tycho Brahe's Astronomia instaurata mechanica, 1598">
+						<figcaption>
+							Tycho Brahe · <em>Astronomia instaurata mechanica</em> (1598)
+							<em>Frontispiece showing the observatory, instruments, and the printing press under Tycho's control.</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== SLIDE 4 ========== -->
+				<section>
+					<p class="eyebrow">Slide 04 · Galileo, the Agile Courtier</p>
+					<h2 class="main-point">The book is a physical pawn in social and political negotiations.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Argument</span>
+						<p>
+							Galileo didn't just publish his findings; he <em>deployed</em> them as diplomatic
+							gifts to secure patronage. The <strong>"truth"</strong> of his text was subject to the whims of the court.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Detail</span>
+						<p>
+							While printing <em>Sidereus Nuncius</em>, Galileo first called Jupiter's moons the
+							<strong>"Cosmian stars"</strong> to flatter Cosimo de' Medici. After feedback he changed them
+							to the <strong>"Medicean stars"</strong> — and since some pages were already printed,
+							he had to <em>paste the new name over the old</em>. A literal patching of expertise mid-production.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 4 · IMAGE ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure>
+						<img src="images/galileo-sidereus-nuncius-corrected-pages.jpg"
+						     alt="Corrected pages of Galileo's Sidereus Nuncius (1610) showing pasted revisions and moon engravings">
+						<figcaption>
+							Galileo, Sidereus Nuncius, Venice (1610)
+							<em>Corrected pages from the Museo Galileo — Medicean paste-overs and lunar engravings.</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== SLIDE 4b · LUNAR ENGRAVINGS ACROSS EDITIONS ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure class="moon-grid">
+						<div class="row">
+							<img src="images/galileo-sidereus-nuncius-sickle-moon.jpg" alt="Galileo's crescent moon, Sidereus Nuncius, Venice 1610">
+							<img src="images/galileo-sidereus-nuncius-half-moon.jpg" alt="Galileo's half moon, Sidereus Nuncius, Venice 1610">
+							<img src="images/galileo-galileo-moon-phases.jpg" alt="Galileo's moon observations from Sidereus Nuncius">
+						</div>
+						<figcaption>
+							Galileo, Sidereus Nuncius, Venice (1610)
+							<em>The first images ever made of the lunar surface — painstakingly engraved from Galileo's own drawings.<br>Unauthorized reprints (Frankfurt 1610, London 1653, 1683) reused and degraded these blocks until Galileo's careful verisimilitude was eroded.</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== SLIDE 5 ========== -->
+				<section>
+					<p class="eyebrow">Slide 05 · The Wicked Bible</p>
+					<h2 class="main-point">We only notice the hard work of printing when the system fails.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Argument</span>
+						<p>
+							When a system works perfectly, the human labor behind it becomes invisible.
+							<em>Calamities</em> reveal the <strong>hidden negotiations of expertise</strong>.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Detail</span>
+						<p>
+							In the 1631 <em>Wicked Bible</em>, the Royal Printers accidentally omitted the word
+							<strong>"not"</strong> from <em>"Thou shalt not commit adultery."</em> The catastrophe cost them
+							their license and huge fines — proving that authority was not a feature of the press,
+							but a fragile result of <strong>constant human vigilance</strong>.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 5 · IMAGE ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure>
+						<img src="images/wicked-bible-1631-commandment-page.jpg"
+						     alt="The Wicked Bible, 1631 — Exodus 20 page showing the missing 'not' in the commandment against adultery">
+						<figcaption>
+							The "Wicked Bible" · London, 1631
+							<em>Exodus 20: the missing "not" — a mechanical error that nearly unmade an expertise.</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== SLIDE 6 ========== -->
+				<section>
+					<p class="eyebrow">Slide 06 · The Stationers' Company</p>
+					<h2 class="main-point">Trust is built through social networks, not just technical standards.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Argument</span>
+						<p>
+							In London, the <em>Stationers' Company</em> managed the <strong>credit</strong> of its members.
+							Expertise became a <strong>collective responsibility of the guild</strong>.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Detail</span>
+						<p>
+							A printer with <em>bad credit</em> made suspicious books. Authority migrated from the
+							<strong>Author</strong> to the <strong>Stationer</strong>: a book was trusted because
+							of the social standing of the person who sold it.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 7 ========== -->
+				<section>
+					<p class="eyebrow">Slide 07 · Testing in the Coffeehouse</p>
+					<h2 class="main-point">Reading is an active process of adjudication.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Argument</span>
+						<p>
+							Authority wasn't settled at the moment of printing — it was <strong>settled in reception</strong>,
+							in public spaces.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Detail</span>
+						<p>
+							In 17th-century London coffeehouses, readers compared multiple versions of news and
+							pamphlets side-by-side to <em>"try all things"</em> (Milton, <em>Areopagitica</em>).
+							Expertise was a <strong>public conversation</strong>.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== TAKEAWAY INTRO ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Take Home</p>
+					<h2 class="main-point">Four big points — and their AI parallels.</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						Johns's early moderns and our late-moderns share a problem: how do we learn to
+						<strong>trust the artifacts of a new information machine?</strong>
+					</p>
+				</section>
+
+				<!-- ========== TAKEAWAY 1 ========== -->
+				<section>
+					<p class="eyebrow">Take Home 01 · The Myth of Fixity</p>
+					<h2 class="main-point">Fixity is a social achievement, not a technological fact.</h2>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Anecdote</span>
+						<p>
+							Today we <em>safely assume</em> two copies of a University of Chicago Press book are
+							identical. In 1650, you couldn't. Fixity arrived only when the <strong>Stationers' Company</strong>
+							enforced strict rules about how many copies could be made and how they were checked.
+						</p>
+					</div>
+
+					<div class="parallel fragment">
+						<div class="track ai">
+							<h5>AI Parallel</h5>
+							<p>
+								We treat AI output as <strong>objective data</strong>, forgetting the hidden labor —
+								RLHF, data labeling, red-teaming — that tries to "fix" the model's behavior.
+							</p>
+						</div>
+						<div class="track">
+							<h5>Question to Sit With</h5>
+							<p>
+								Whose <strong>invisible labor</strong> makes today's "reliable" AI feel reliable?
+							</p>
+						</div>
+					</div>
+				</section>
+
+				<!-- ========== TAKEAWAY 2 ========== -->
+				<section>
+					<p class="eyebrow">Take Home 02 · Manufacturers of Credit</p>
+					<h2 class="main-point">In abundant information, we verify intermediaries, not facts.</h2>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Anecdote</span>
+						<p>
+							Archbishop <strong>William Laud</strong> (1630s) worried that <em>"mechanick"</em> printers
+							cared more about profit than accuracy. He tried to move printing into <strong>Oxford</strong>
+							so the <em>credit of the institution</em> would protect the text. The printer, he knew,
+							was a <strong>manufacturer of credit</strong>.
+						</p>
+					</div>
+
+					<div class="parallel fragment">
+						<div class="track ai">
+							<h5>AI Parallel</h5>
+							<p>
+								Authority shifts from individual experts to <strong>platforms and models</strong>
+								("I trust GPT-4") — not to the specific source the data came from.
+							</p>
+						</div>
+						<div class="track">
+							<h5>Question to Sit With</h5>
+							<p>
+								When you trust an AI answer, which <strong>Stationer</strong> are you really trusting?
+							</p>
+						</div>
+					</div>
+				</section>
+
+				<!-- ========== TAKEAWAY 3 ========== -->
+				<section>
+					<p class="eyebrow">Take Home 03 · Epistemic Indeterminacy</p>
+					<h2 class="main-point">Piracy and error make truth indistinguishable from noise.</h2>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Anecdote</span>
+						<p>
+							The <em>Wicked Bible</em> (1631) wasn't just a typo — it was an <strong>epistemic disaster</strong>.
+							With no easy way to verify which Bible was correct at a distance, the error called into
+							question the reliability of <em>all</em> printed scripture.
+						</p>
+					</div>
+
+					<div class="parallel fragment">
+						<div class="track ai">
+							<h5>AI Parallel</h5>
+							<p>
+								<strong>Hallucinations are modern Wicked Bibles.</strong> A fake legal citation or a
+								false historical event creates indeterminacy — we can't know when the "expert" is telling the truth.
+							</p>
+						</div>
+						<div class="track">
+							<h5>Question to Sit With</h5>
+							<p>
+								What would it take for a single hallucination to discredit an <strong>entire</strong>
+								model's output?
+							</p>
+						</div>
+					</div>
+				</section>
+
+				<!-- ========== TAKEAWAY 4 ========== -->
+				<section>
+					<p class="eyebrow">Take Home 04 · Situated Knowledge</p>
+					<h2 class="main-point">Universal knowledge is first made in very specific, local places.</h2>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Anecdote</span>
+						<p>
+							<strong>Tycho Brahe</strong> refused to let his data be printed by city shops. He built his
+							own press inside <em>Uraniborg</em> — because for his observations to be <em>true</em>,
+							he had to control the <strong>nature of the book</strong> at the exact site where
+							the stars were observed.
+						</p>
+					</div>
+
+					<div class="parallel fragment">
+						<div class="track ai">
+							<h5>AI Parallel</h5>
+							<p>
+								AI knowledge feels <em>placeless</em>, but it is <strong>situated</strong> — produced
+								in specific server farms, trained on specific and often opaque datasets.
+								The "black box" <em>has</em> an address.
+							</p>
+						</div>
+						<div class="track">
+							<h5>Question to Sit With</h5>
+							<p>
+								Where is <strong>your model's Uraniborg?</strong> Who controls it?
+							</p>
+						</div>
+					</div>
+				</section>
+
+				<!-- ========== CLOSING SUMMARY ========== -->
+				<section>
+					<p class="eyebrow">Summary</p>
+					<h2 class="main-point">Four historical lessons for living with AI.</h2>
+					<div class="cards">
+						<div class="card fragment"><span class="num">01 · Fixity</span><h4>A social labor</h4><p>We trust AI by ignoring the human training that shaped it.</p></div>
+						<div class="card fragment"><span class="num">02 · Credit</span><h4>Trust the intermediary</h4><p>Authority shifts from experts to LLM providers.</p></div>
+						<div class="card fragment"><span class="num">03 · Indeterminacy</span><h4>Noise vs. truth</h4><p>Hallucinations undermine the credit of all AI knowledge.</p></div>
+						<div class="card fragment"><span class="num">04 · Situated</span><h4>Knowledge has a place</h4><p>AI "truth" is manufactured in data centers, not in the field.</p></div>
+					</div>
+					<p class="pull-quote">
+						If you remember only one thing: <em>the press didn't make books trustworthy — people did.
+						The same is true of the model.</em>
+					</p>
+				</section>
+
+			</div>
+		</div>
+
+		<script src="/assets/vendor/reveal.js-3.8.0/js/reveal.js"></script>
+		<script>
+			Reveal.initialize({
+				hash: true,
+				controlsTutorial: false,
+				progress: true,
+				center: true,
+				width: 960,
+				height: 700,
+				margin: 0.08,
+				dependencies: [
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/markdown/marked.js' },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/markdown/markdown.js' },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/notes/notes.js', async: true },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/highlight/highlight.js', async: true }
+				]
+			});
+
+			// Classify each image-slide figure as portrait or landscape based on
+			// the image's natural dimensions so the caption can be placed beside
+			// portrait images and below landscape images.
+			function classifyImageSlide(img) {
+				var figure = img.closest('figure');
+				if (!figure) return;
+				if (figure.classList.contains('moon-grid')) return;
+				var w = img.naturalWidth;
+				var h = img.naturalHeight;
+				if (!w || !h) return;
+				figure.classList.remove('portrait', 'landscape');
+				figure.classList.add(h > w ? 'portrait' : 'landscape');
+			}
+			document.querySelectorAll('section.image-slide img').forEach(function (img) {
+				if (img.complete && img.naturalWidth) {
+					classifyImageSlide(img);
+				} else {
+					img.addEventListener('load', function () { classifyImageSlide(img); });
+				}
+			});
+		</script>
+	</body>
+</html>
