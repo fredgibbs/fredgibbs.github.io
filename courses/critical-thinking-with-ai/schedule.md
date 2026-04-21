@@ -216,6 +216,10 @@ We're doing our assignment tests today, so they need to be published when class 
 "%}
 
 #### Discussion: Unpacking Truth
+- What is Johns saying?
+- What are the historical examples?
+- What's the significance for thinking about expertise disruption?
+- What's the significance for thinking about AI?
 - Critique AI version of "significance of printing press"
 
 
@@ -229,17 +233,10 @@ We're doing our assignment tests today, so they need to be published when class 
 - How do you prevent the AI from doing the thinking FOR the student?
 
 
-#### Demo: Website setup
-- How to set up your own website for your AI assignment and disruptive expertise contribution
-- Disruptive Expertise URL TBP
-- [Xanthan](https://xanthan-web.github.io)
-
 
 
 ### 5.2: Disruption Assumptions II
 - Steven Shapin, *A Social History of Truth: Civility and Science in Seventeenth-Century England* (University of Chicago Press, 1994), Chapter 1 ("The Great Civility"), pp. 3–41. Shapin shows that even scientific knowledge depends on trust, social standing, and credibility—frameworks now disrupted by AI. Shapin argues truth has always been social. If we start trusting AI outputs as "knowledge," what social contract is being rewritten?
-
-#### Discussion
 
 #### Disruptive expertise workshop 
 Using NotebookLM loaded with 20 RELEVANT sources (a gathering AND filtering exercise), develop a preliminary historical narrative for your contribution to the collective project. AI helps with synthesis, identifying connections, suggesting additional angles.
@@ -257,6 +254,10 @@ Using NotebookLM loaded with 20 RELEVANT sources (a gathering AND filtering exer
 * What historical context is missing but useful?
 * "What do we NOT know about this topic, and why?"
 
+#### Demo: Website setup
+- How to set up your own website for your AI assignment and disruptive expertise contribution
+- Disruptive Expertise URL TBP
+- [Xanthan](https://xanthan-web.github.io)
 
 
 
