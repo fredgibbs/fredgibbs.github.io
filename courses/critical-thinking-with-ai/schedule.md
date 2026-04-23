@@ -240,7 +240,7 @@ We're doing our assignment tests today, so they need to be published when class 
 
 #### Reading slides and discussion
 - How is the socialness of truth relevant to AI?
-
+- [Slides overview](slides/history-of-truth/)
 
 #### Disruptive expertise workshop 
 Using NotebookLM loaded with 20 RELEVANT sources (a gathering AND filtering exercise), develop a preliminary historical narrative for your contribution to the collective project. AI helps with synthesis, identifying connections, suggesting additional angles.
