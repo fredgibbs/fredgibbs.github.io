@@ -6,10 +6,9 @@ term: Spring 2026
 section: links-guides
 ---
 
-# Collaborative Project: Disruptive Expertise
+# Disruptive Expertise
 
 ## Overview
-
 This semester we'll build a collaborative public website about moments when new technologies disrupted how people create, share, and trust information.
 
 Throughout history, new technologies have triggered waves of excitement, anxiety, fear, and speculation. When printing appeared in Europe, critics worried about a flood of bad books. When telegraphs connected cities, people feared the rapid spread of rumors. When radio emerged, commentators warned that mass media could manipulate entire populations.
@@ -111,38 +110,32 @@ Your goal is not to produce original historical scholarship, but to demonstrate 
 
 
 ## Using AI in This Project
-
-AI tools can be extremely helpful for:
-
+As we've discussed, AI tools can be extremely helpful for:
 - brainstorming research questions  
 - summarizing complex readings  
+- getting different points of view
+- testing your own understanding
 - organizing your writing  
 
-However, AI tools often invent sources or misrepresent historical evidence.
+However, AI tools often invent sources or misrepresent historical evidence, focus on unimportant things, and flatten nuance that makes history valuable.
 
 Because of this, you should always:
-
 - verify claims made by AI
 - locate real sources that support those claims
 - treat AI responses as starting points rather than final answers
 
-At the end of your essay, you will include a short section explaining **how you used AI during your research and writing process**.
-
----
 
 ## What Might Be Lost When We Use AI?
+At the end of your essay, you will include a short section explaining **how you used AI during your research and writing process**.
 
 Part of this project asks you to reflect on the limits of AI-assisted research.
 
 For example:
-
 - What kinds of historical nuance does AI miss?
 - What kinds of sources does AI overlook?
 - How does relying on AI change the research process?
 
 Your reflection should consider both the **benefits and limitations** of AI as a research tool.
-
----
 
 
 ## Due Date
@@ -150,3 +143,6 @@ May 8 (the last day of finals)
 
 ## Questions
 Coursework is frustrating and virtually impossible to do well when you're not sure what to do or how to do it. Please reach out if something's not clear! 
+
+## Ready to start?
+There is a set of instruction pages, all linked on the [links and guides page](links-guides). You should start with the [site initial setup page](disruptive-expertise-site-setup)

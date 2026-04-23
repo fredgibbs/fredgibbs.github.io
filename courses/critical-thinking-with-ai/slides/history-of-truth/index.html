@@ -1,0 +1,916 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<title>A Social History of Truth — Chapter 1</title>
+
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reset.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reveal.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/theme/black.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+
+		<style>
+			:root {
+				--ts-bg: #0d1412;
+				--ts-text: #e6ece4;
+				--ts-text-muted: #9fb1a3;
+				--ts-border: #22302b;
+				--ts-heading-1: #a8c686;
+				--ts-heading-2: #6fb3a0;
+				--ts-heading-3: #d9b26a;
+				--ts-accent: #d9b26a;
+			}
+
+			html, body, .reveal {
+				background: var(--ts-bg);
+			}
+
+			.reveal {
+				font-family: 'Inter', system-ui, sans-serif;
+				color: var(--ts-text);
+			}
+
+			.reveal .slides {
+				text-align: left;
+			}
+
+			.reveal .eyebrow {
+				font-family: 'JetBrains Mono', monospace;
+				text-transform: uppercase;
+				letter-spacing: 0.18em;
+				font-size: 0.5em;
+				color: var(--ts-heading-3);
+				margin: 0 0 0.9rem 0;
+			}
+
+			.reveal .main-point {
+				font-family: 'Fraunces', Georgia, serif;
+				font-size: 1.15em;
+				line-height: 1.1;
+				font-weight: 600;
+				color: var(--ts-heading-1);
+				margin: 0 0 0.4em 0;
+				letter-spacing: -0.015em;
+				text-wrap: balance;
+				font-style: italic;
+			}
+
+			.reveal .detail {
+				font-size: 0.75em;
+				line-height: 1.5;
+				color: var(--ts-text-muted);
+				margin: 0;
+				font-weight: 400;
+			}
+
+			.reveal .detail strong { color: var(--ts-text); font-weight: 600; }
+			.reveal .detail em { color: var(--ts-heading-3); font-style: italic; }
+
+			.reveal .rule {
+				height: 1px;
+				width: 140px;
+				margin: 0.5em 0;
+				background: linear-gradient(90deg, var(--ts-heading-2) 0%, var(--ts-accent) 60%, transparent 100%);
+			}
+
+			.reveal .cards {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 0.7em;
+				margin-top: 0.8em;
+			}
+
+			.reveal .card {
+				border-top: 2px solid var(--ts-heading-2);
+				padding: 0.4em 0 0 0;
+			}
+
+			.reveal .card .num {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				color: var(--ts-heading-3);
+				letter-spacing: 0.15em;
+				display: block;
+				margin-bottom: 0.3em;
+			}
+
+			.reveal .card h4 {
+				font-family: 'Fraunces', Georgia, serif;
+				font-style: italic;
+				font-size: 0.7em;
+				color: var(--ts-heading-1);
+				margin: 0 0 0.2em 0;
+				font-weight: 600;
+			}
+
+			.reveal .card p {
+				font-size: 0.45em;
+				line-height: 1.5;
+				color: var(--ts-text-muted);
+				margin: 0;
+			}
+
+			.reveal .pull-quote {
+				font-family: 'Fraunces', Georgia, serif;
+				font-style: italic;
+				font-size: 0.75em;
+				color: var(--ts-heading-3);
+				border-left: 2px solid var(--ts-accent);
+				padding-left: 0.8em;
+				margin: 0.8em 0 0 0;
+				line-height: 1.4;
+			}
+
+			.reveal .reveal-block {
+				margin-top: 0.55em;
+				padding: 0.35em 0 0.35em 0.7em;
+				border-left: 1px solid var(--ts-border);
+			}
+
+			.reveal .reveal-block .label {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				text-transform: uppercase;
+				letter-spacing: 0.18em;
+				color: var(--ts-heading-3);
+				display: block;
+				margin-bottom: 0.35em;
+			}
+
+			.reveal .reveal-block p {
+				font-size: 0.58em;
+				line-height: 1.45;
+				color: var(--ts-text-muted);
+				margin: 0;
+			}
+
+			.reveal .reveal-block p strong { color: var(--ts-text); font-weight: 600; }
+			.reveal .reveal-block p em { color: var(--ts-heading-3); font-style: italic; }
+
+			.reveal .reveal-block.argument { border-left-color: var(--ts-heading-2); }
+			.reveal .reveal-block.historical { border-left-color: var(--ts-accent); }
+
+			/* Takeaway slides: dual-track Historical / AI parallel */
+			.reveal .parallel {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 1em;
+				margin-top: 0.6em;
+			}
+
+			.reveal .parallel .track {
+				border-top: 2px solid var(--ts-heading-2);
+				padding-top: 0.45em;
+			}
+
+			.reveal .parallel .track.ai { border-top-color: var(--ts-accent); }
+
+			.reveal .parallel .track h5 {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				letter-spacing: 0.16em;
+				text-transform: uppercase;
+				color: var(--ts-heading-3);
+				margin: 0 0 0.35em 0;
+			}
+
+			.reveal .parallel .track p {
+				font-size: 0.52em;
+				line-height: 1.45;
+				color: var(--ts-text-muted);
+				margin: 0;
+			}
+
+			.reveal .parallel .track p strong { color: var(--ts-text); font-weight: 600; }
+		</style>
+
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? '/assets/vendor/reveal.js-3.8.0/css/print/pdf.css' : '/assets/vendor/reveal.js-3.8.0/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+
+				<!-- ========== TITLE ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Critical Thinking with AI &bull; Hist 300</p>
+					<h1 class="main-point">A Social History of Truth &mdash; Chapter 1</h1>
+					<div class="rule"></div>
+					<p class="detail">
+						After Steven Shapin, <em>A Social History of Truth</em>, Chapter 1.
+						Trust isn&rsquo;t a problem science solved &mdash; it&rsquo;s the medium science is made of.
+					</p>
+				</section>
+
+				<!-- ========== ACT I HEADER ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Act I</p>
+					<h2 class="main-point">A World Where Authority Is Broken</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						England, 1640s&ndash;1660s. The old anchors &mdash; religious, political, intellectual &mdash;
+						have come loose. <strong>Who speaks for truth?</strong>
+					</p>
+				</section>
+
+				<!-- ========== SLIDE 01 ========== -->
+				<section>
+					<p class="eyebrow">Act I &bull; Slide 01 &mdash; Scene Setting: Europe in Crisis</p>
+					<h2 class="main-point">People no longer agree on who to believe &mdash; in politics, religion, or knowledge.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Context</span>
+						<p>
+							Mid-1600s England: <strong>Civil War, regicide, Restoration</strong>.
+							Religious fragmentation &mdash; no single church authority.
+							Intellectual parallel: the rejection of <strong>Aristotle and scholasticism</strong>
+							as reliable guides to knowledge.
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">New Institution</span>
+						<p>
+							Into this vacuum enters the <strong>Royal Society</strong> &mdash; a new institution
+							dedicated to producing knowledge by observation rather than by appeal to tradition.
+							But the question it inherits remains: <em>whose word do we trust?</em>
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 02 ========== -->
+				<section>
+					<p class="eyebrow">Act I &bull; Slide 02 &mdash; What Should Replace Authority?</p>
+					<h2 class="main-point">Don&rsquo;t trust books &mdash; trust your eyes.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">The Reformers</span>
+						<p>
+							Thinkers like <strong>Francis Bacon</strong> distrust tradition and emphasize
+							<em>direct observation</em> as the new foundation of knowledge.
+							The cultural slogan: see for yourself.
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Narrative Tension</span>
+						<p>
+							If everyone must &ldquo;see for themselves,&rdquo;
+							how can knowledge <em>circulate</em>?
+							The ideal of independence immediately creates a new problem:
+							most of what we know, we know through <strong>other people&rsquo;s testimony</strong>.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 03 ========== -->
+				<section>
+					<p class="eyebrow">Act I &bull; Slide 03 &mdash; Shapin&rsquo;s Opening Twist</p>
+					<h2 class="main-point">What if truth depends on how people relate to each other?</h2>
+					<div class="rule"></div>
+
+					<p class="pull-quote fragment">
+						&ldquo;A social history of truth is not supposed to be possible.&rdquo;
+					</p>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Shapin&rsquo;s Argument</span>
+						<p>
+							Truth is imagined as <strong>universal</strong> &mdash; independent of society, culture, persons.
+							But Shapin asks us to look at how truth is <em>actually made</em>:
+							in specific places, through specific relationships, by specific people deciding whom to believe.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== ACT II HEADER ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Act II</p>
+					<h2 class="main-point">The Unavoidable Dependence on Others</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						Even the most committed empiricist cannot be everywhere at once.
+						Science depends on <strong>strangers</strong>.
+					</p>
+				</section>
+
+				<!-- ========== SLIDE 04 ========== -->
+				<section>
+					<p class="eyebrow">Act II &bull; Slide 04 &mdash; The Practical Reality of Scientific Life</p>
+					<h2 class="main-point">Scientists cannot travel everywhere or witness everything &mdash; they depend on others.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Context</span>
+						<p>
+							To gather data, natural philosophers rely on
+							<strong>sailors, merchants, distant observers, and correspondents</strong> &mdash;
+							people they have never met, in places they will never visit.
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Example</span>
+						<p>
+							Tracking a <strong>comet</strong> requires observers across Europe to report its position
+							night by night. No single person can do this alone.
+							The resulting &ldquo;fact&rdquo; is assembled from dozens of separate acts of testimony.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 05 ========== -->
+				<section>
+					<p class="eyebrow">Act II &bull; Slide 05 &mdash; The Quiet Admission</p>
+					<h2 class="main-point">The ideal of independence collapses.</h2>
+					<div class="rule"></div>
+
+					<p class="pull-quote fragment">
+						&ldquo;In securing our knowledge we rely upon others&hellip;&rdquo;<br>
+						&ldquo;No practice has accomplished the rejection of testimony&hellip;&rdquo;
+					</p>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Narrative Turn</span>
+						<p>
+							Even the most &ldquo;modern&rdquo; science is built on
+							<em>other people&rsquo;s words</em>.
+							The Baconian dream of pure first-hand observation is, in practice, impossible.
+							Testimony is not a fallback &mdash; it is the <strong>normal condition</strong> of knowledge.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 06 ========== -->
+				<section>
+					<p class="eyebrow">Act II &bull; Slide 06 &mdash; The Information Explosion</p>
+					<h2 class="main-point">The more knowledge expands, the more we must trust strangers.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Context</span>
+						<p>
+							The 17th century brings <strong>global exploration</strong>, an expanding print culture,
+							and dense correspondence networks. The Royal Society gathers reports
+							from across the world &mdash; natural phenomena, exotic specimens, indigenous knowledge &mdash;
+							all arriving as <em>testimony</em>.
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Narrative</span>
+						<p>
+							Expansion of knowledge = expansion of dependence on unverifiable sources.
+							The wider the reach of science, the <strong>deeper the reliance on trust</strong>.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== ACT III HEADER ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Act III</p>
+					<h2 class="main-point">A Deep Anxiety: Can We Trust Each Other?</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						Trust isn&rsquo;t just a scientific problem. Thinkers across Europe worry
+						it is the <strong>foundation of civilization itself</strong>.
+					</p>
+				</section>
+
+				<!-- ========== SLIDE 07 ========== -->
+				<section>
+					<p class="eyebrow">Act III &bull; Slide 07 &mdash; Moral Fear of Social Collapse</p>
+					<h2 class="main-point">Lying is not just immoral &mdash; it threatens society itself.</h2>
+					<div class="rule"></div>
+
+					<p class="pull-quote fragment">
+						Michel de Montaigne:<br>
+						&ldquo;We are men, and hold together, only by our word.
+						If it deceives us, it breaks up all our relations&hellip;&rdquo;
+					</p>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Narrative</span>
+						<p>
+							For Montaigne, the liar doesn&rsquo;t just violate a rule &mdash;
+							they unravel the <strong>fabric of society</strong>.
+							Language is the glue of human community.
+							Betraying it is betraying everything.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 08 ========== -->
+				<section>
+					<p class="eyebrow">Act III &bull; Slide 08 &mdash; English Voices Echo the Fear</p>
+					<h2 class="main-point">Trust is fragile &mdash; and everything depends on it.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">English Voices</span>
+						<p>
+							<strong>Henry Mason</strong>: lying <em>&ldquo;disturbeth humane society.&rdquo;</em><br>
+							<strong>George Mackenzie</strong>: it <em>&ldquo;striks at the root of all humane society.&rdquo;</em><br>
+							Proverb: loss of credibility = <strong>social death</strong>.
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Narrative</span>
+						<p>
+							This is not a minor moral worry &mdash; it is existential.
+							In a world already fractured by civil war and religious schism,
+							the collapse of <em>verbal trust</em> feels like a second dissolution.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 09 ========== -->
+				<section>
+					<p class="eyebrow">Act III &bull; Slide 09 &mdash; Classical Inheritance</p>
+					<h2 class="main-point">Early modern thinkers aren&rsquo;t inventing this fear &mdash; they&rsquo;re inheriting and intensifying it.</h2>
+					<div class="rule"></div>
+
+					<p class="pull-quote fragment">
+						Cicero:<br>
+						&ldquo;To stand to one&rsquo;s word&hellip; [is] the foundation of justice.&rdquo;
+					</p>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Narrative</span>
+						<p>
+							The anxiety about trust has <strong>deep classical roots</strong>.
+							What the 17th century adds is a moment of acute crisis &mdash;
+							when the old structures that managed trust (church, monarchy, university) have been
+							weakened or destroyed. The ancient question returns with <em>new urgency</em>.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== ACT IV HEADER ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Act IV</p>
+					<h2 class="main-point">Shapin&rsquo;s Key Move: Knowledge Is Also Built on Trust</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						Everyone agrees society needs trust. Shapin extends the argument:
+						<strong>knowledge itself has the same dependency.</strong>
+					</p>
+				</section>
+
+				<!-- ========== SLIDE 10 ========== -->
+				<section>
+					<p class="eyebrow">Act IV &bull; Slide 10 &mdash; From Social Order to Knowledge</p>
+					<h2 class="main-point">Knowledge needs trust too.</h2>
+					<div class="rule"></div>
+
+					<p class="pull-quote fragment">
+						&ldquo;The relations in which we have and hold our knowledge have a moral character&hellip;&rdquo;
+					</p>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Shapin&rsquo;s Argument</span>
+						<p>
+							Society needs trust &mdash; everyone agrees.
+							Shapin&rsquo;s extension: <em>knowledge</em> has the same dependency.
+							To know something is to have received it from someone &mdash;
+							and that someone&rsquo;s <strong>credibility is part of the fact</strong>.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 11 ========== -->
+				<section>
+					<p class="eyebrow">Act IV &bull; Slide 11 &mdash; A Concrete Example: Comets</p>
+					<h2 class="main-point">Facts are settled through judgments about people.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">The Case</span>
+						<p>
+							Observers across Europe report different sightings of a comet.
+							To decide what is &ldquo;true,&rdquo; scientists ask:
+							<strong>Who is skilled? Who is honest? Who is reliable?</strong>
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Narrative</span>
+						<p>
+							What we know about comets <em>depends on who we trust</em>.
+							The natural fact (the comet&rsquo;s path) cannot be separated from
+							the social judgment (this person&rsquo;s word is credible).
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 12 ========== -->
+				<section>
+					<p class="eyebrow">Act IV &bull; Slide 12 &mdash; Another Example: Experiments</p>
+					<h2 class="main-point">Most people believe experiments they never saw.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">The Case</span>
+						<p>
+							Experiments are <strong>local</strong>: only a small number of witnesses are present.
+							Knowledge spreads through <em>reports and publications</em>.
+							Figure: <strong>Robert Boyle</strong> &mdash; whose air-pump experiments were known
+							across Europe by readers who had never seen the machine.
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Narrative</span>
+						<p>
+							Science travels as <em>testimony</em>, not as direct experience.
+							The gap between the original experiment and the distant reader is bridged entirely
+							by <strong>trust in persons and texts</strong>.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== ACT V HEADER ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Act V</p>
+					<h2 class="main-point">The Big Concept: Hybrid Knowledge</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						Shapin names what has been building across the chapter.
+						Facts are not pure &mdash; they are <strong>hybrids</strong>.
+					</p>
+				</section>
+
+				<!-- ========== SLIDE 13 ========== -->
+				<section>
+					<p class="eyebrow">Act V &bull; Slide 13 &mdash; Shapin&rsquo;s Formulation</p>
+					<h2 class="main-point">Every fact is a hybrid: a claim about the world and a judgment about a person.</h2>
+					<div class="rule"></div>
+
+					<p class="pull-quote fragment">
+						&ldquo;What we call &lsquo;social knowledge&rsquo; and &lsquo;natural knowledge&rsquo; are hybrid entities.&rdquo;
+					</p>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">The Structure of Every Fact</span>
+						<p>
+							Every scientific fact contains two things:
+							(1) a <strong>claim about the world</strong> (the comet moved this way)
+							and (2) a <strong>judgment about a person</strong>
+							(I believe this because X reported it and X is credible).
+							The two cannot be fully separated.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 14 ========== -->
+				<section>
+					<p class="eyebrow">Act V &bull; Slide 14 &mdash; What This Means</p>
+					<h2 class="main-point">Science is not separate from society &mdash; it is built from it.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Shapin&rsquo;s Argument</span>
+						<p>
+							There is no purely &ldquo;objective&rdquo; knowledge that floats free of social relations.
+							<em>Knowing nature requires knowing who to trust.</em>
+							This is not a <strong>failure</strong> of science &mdash; it is the structure of all knowledge.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Implication</span>
+						<p>
+							To study how knowledge is made, we must study
+							<strong>how trust is organized</strong> &mdash;
+							who counts as credible, under what conditions, and by whose judgment.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== ACT VI HEADER ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Act VI</p>
+					<h2 class="main-point">The Disappearance of Trust</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						If science runs on trust, why doesn&rsquo;t it look that way?
+						Because trust, once stabilized, becomes <strong>invisible</strong>.
+					</p>
+				</section>
+
+				<!-- ========== SLIDE 15 ========== -->
+				<section>
+					<p class="eyebrow">Act VI &bull; Slide 15 &mdash; The Strange Illusion of Objectivity</p>
+					<h2 class="main-point">Trust is made &ldquo;invisible.&rdquo;</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">The Paradox</span>
+						<p>
+							Scientists claim <strong>independence from authority</strong> &mdash; they defer to
+							evidence, not persons. But in practice they rely on
+							<em>trusted witnesses</em> at every stage of knowledge production.
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Narrative</span>
+						<p>
+							Trust doesn&rsquo;t vanish &mdash; it becomes <strong>taken for granted</strong>.
+							When we stop questioning a source, we don&rsquo;t stop trusting it;
+							we trust it so deeply that the trust disappears from view.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 16 ========== -->
+				<section>
+					<p class="eyebrow">Act VI &bull; Slide 16 &mdash; Why Hide It?</p>
+					<h2 class="main-point">Science looks objective because its social foundations are hidden.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Shapin&rsquo;s Argument</span>
+						<p>
+							To present knowledge as <strong>universal and impersonal</strong>,
+							the social labor of building trust must be rendered invisible.
+							The more trust is taken for granted, the more &ldquo;objective&rdquo; knowledge appears &mdash;
+							not because the social work is gone, but because it is <em>hidden</em>.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Implication</span>
+						<p>
+							Objectivity is not the absence of social foundations.
+							It is what <strong>successful social work looks like</strong> from the outside.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== ACT VII HEADER ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Act VII &mdash; The Cliffhanger</p>
+					<h2 class="main-point">The story arrives at a question. Its answer will shape early modern science.</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						Not all people are equally credible.
+						Society must decide: <strong>whose word counts?</strong>
+					</p>
+				</section>
+
+				<!-- ========== SLIDE 17 ========== -->
+				<section>
+					<p class="eyebrow">Act VII &bull; Slide 17 &mdash; The Central Question</p>
+					<h2 class="main-point">Society must decide: whose word counts?</h2>
+					<div class="rule"></div>
+
+					<p class="pull-quote fragment">
+						&ldquo;Whom to trust?&rdquo;
+					</p>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Narrative</span>
+						<p>
+							This is not just a philosophical puzzle &mdash; it has a <strong>social answer</strong>.
+							In every historical period, certain kinds of people are presumed credible, others are not.
+							The question is: what <em>criteria</em> govern that judgment?
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 18 ========== -->
+				<section>
+					<p class="eyebrow">Act VII &bull; Slide 18 &mdash; Where the Story Is Going</p>
+					<h2 class="main-point">In 17th-century England, a specific answer emerges: the gentleman.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">The Answer</span>
+						<p>
+							The <strong>gentleman</strong>: socially independent, honorable, presumed truthful.
+							He has nothing to gain from lying because he is not dependent on patronage or wages.
+							His word is his bond &mdash; and his <em>social position</em> is the guarantee.
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Narrative</span>
+						<p>
+							This becomes the foundation of <strong>early modern scientific credibility</strong>.
+							The Scientific Revolution does not solve the problem of trust by eliminating it &mdash;
+							it solves it by <em>anchoring credibility in social status</em>.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SUMMARY ========== -->
+				<section>
+					<p class="eyebrow">Summary</p>
+					<h2 class="main-point">Modern science did not eliminate trust &mdash; it reorganized it socially.</h2>
+					<div class="cards">
+						<div class="card fragment">
+							<span class="num">Trust &amp; Knowledge</span>
+							<h4>Knowledge depends on trust</h4>
+							<p>We receive nearly everything we know through the testimony of others.</p>
+						</div>
+						<div class="card fragment">
+							<span class="num">Testimony</span>
+							<h4>Science is built on words</h4>
+							<p>The ideal of pure first-hand observation is, in practice, impossible.</p>
+						</div>
+						<div class="card fragment">
+							<span class="num">Hybrid Facts</span>
+							<h4>Facts contain judgments</h4>
+							<p>Every scientific claim embeds a judgment about the credibility of its source.</p>
+						</div>
+						<div class="card fragment">
+							<span class="num">Hidden Foundations</span>
+							<h4>Objectivity hides its work</h4>
+							<p>Trust, once stabilized, becomes invisible &mdash; which is what &ldquo;objectivity&rdquo; looks like.</p>
+						</div>
+					</div>
+					<p class="pull-quote fragment">
+						The question was not: <em>How do we find truth?</em>
+						It was: <em>How do we organize trust?</em>
+					</p>
+				</section>
+
+				<!-- ========== AI BRIDGE INTRO ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Bridge to Now</p>
+					<h2 class="main-point">Four ways Shapin&rsquo;s story changes how you use AI.</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						The problem of truth and credibility has never been solved.
+						<strong>A new machine is not a new problem.</strong>
+					</p>
+				</section>
+
+				<!-- ========== BRIDGE 01 ========== -->
+				<section>
+					<p class="eyebrow">Bridge 01 &bull; From &ldquo;Is it true?&rdquo; to &ldquo;What networks?&rdquo;</p>
+					<h2 class="main-point">Treat AI answers as testimony, not as self-standing facts.</h2>
+
+					<div class="parallel fragment">
+						<div class="track">
+							<h5>Shapin&rsquo;s Idea</h5>
+							<p>
+								Knowledge always rests on <strong>trust in people</strong>.
+								Testimony is unavoidable &mdash; especially in science.
+							</p>
+						</div>
+						<div class="track ai">
+							<h5>AI Translation</h5>
+							<p>
+								AI outputs rest on trust in <strong>multilayered systems</strong>.								
+								Treat AI like a <em>witness</em>, not an oracle.
+							</p>
+						</div>
+					</div>
+
+					<p class="pull-quote fragment">
+						Instead of &ldquo;Is this correct?&rdquo; &mdash;
+						<em>&ldquo;What view am I getting?&rdquo;</em>
+					</p>
+				</section>
+
+				<!-- ========== BRIDGE 02 ========== -->
+				<section>
+					<p class="eyebrow">Bridge 02 &bull; Knowledge Is Still Collective </p>
+					<h2 class="main-point">AI feels singular (&ldquo;the answer&rdquo;) &mdash; but it&rsquo;s a statistical remix of many human voices.</h2>
+
+					<div class="parallel fragment">
+						<div class="track">
+							<h5>Shapin&rsquo;s Move</h5>
+							<p>
+								Knowledge is a <strong>collective good</strong>, built through networks
+								of correspondence and testimony. No single person makes it.
+							</p>
+						</div>
+						<div class="track ai">
+							<h5>AI Translation</h5>
+							<p>
+								AI <strong>compresses many voices</strong> into one output.
+								Use it as a starting point &mdash; then compare with other sources and perspectives
+								to re-insert the human plurality it flattens.
+							</p>
+						</div>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Practice</span>
+						<p>
+							<strong>Triangulate!</strong> AI output + scholarly sources + primary evidence.
+							Stir up and remix the &ldquo;collective&rdquo; that AI has collapsed into one voice.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== BRIDGE 03 ========== -->
+				<section>
+					<p class="eyebrow">Bridge 03 &bull; All Knowledge Is Hybrid</p>
+					<h2 class="main-point">AI outputs look neutral and authorless &mdash; but they embed human values.</h2>
+
+					<div class="parallel fragment">
+						<div class="track">
+							<h5>Shapin&rsquo;s Idea</h5>
+							<p>
+								Every "fact" contains a <strong>claim about the world</strong> and a
+								<strong>judgment about a person</strong>. The two cannot be separated.
+							</p>
+						</div>
+						<div class="track ai">
+							<h5>AI Translation</h5>
+							<p>
+								AI hides the <strong>human choices inside it</strong> &mdash; training data decisions,
+								model design, cultural biases &mdash; behind the appearance of neutrality. It exaggerates the illustion of truth.
+							</p>
+						</div>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Practice</span>
+						<p>
+							Ask AI to <strong>show uncertainty</strong> and provide alternative interpretations.
+							Ask yourself: what invisible social networks and power dynamics shaped this answer?
+							What perspectives might be missing?
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== BRIDGE 04 ========== -->
+				<section>
+					<p class="eyebrow">Bridge 04 &bull; From &ldquo;Can AI Think?&rdquo; &mdash; to &ldquo;How Does AI Reorganize Trust?&rdquo;</p>
+					<h2 class="main-point">Develop calibrated trust &mdash; not blind use or total rejection.</h2>
+
+					<div class="parallel fragment">
+						<div class="track">
+							<h5>Shapin&rsquo;s Idea</h5>
+							<p>
+								Science succeeds by <strong>stabilizing credibility</strong> &mdash;
+								deciding who to trust, under what conditions, for what kinds of claims.
+							</p>
+						</div>
+						<div class="track ai">
+							<h5>AI Translation</h5>
+							<p>
+								<strong>High trust:</strong> brainstorming, summarizing, drafting.<br>
+								<strong>Medium trust:</strong> explanations, synthesis &mdash; verify!<br>
+								<strong>Low trust:</strong> facts, citations, specialized claims &mdash; always check.
+							</p>
+						</div>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Practice</span>
+						<p>
+							Match your level of verification to the <strong>stakes of the task</strong>
+							and the <strong>consequences of being wrong</strong>.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== CLOSING ========== -->
+				<section>
+					<p class="eyebrow">One-Line Takeaway</p>
+					<h2 class="main-point">Using AI well is not better prompting, but becoming a better judge of credibility in a world where sources are harder to see.</h2>
+					<div class="rule"></div>
+					<p class="pull-quote fragment">
+						Shapin&rsquo;s lesson: <em>Questions about knowledge was never &ldquo;what is true?&rdquo;
+						It was &ldquo;how do we organize trust?&rdquo; (socially, institutionally, etc)</em>
+					</p>
+				</section>
+
+			</div>
+		</div>
+
+		<script src="/assets/vendor/reveal.js-3.8.0/js/reveal.js"></script>
+		<script>
+			Reveal.initialize({
+				hash: true,
+				controlsTutorial: false,
+				progress: true,
+				center: true,
+				width: 960,
+				height: 700,
+				margin: 0.08,
+				dependencies: [
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/markdown/marked.js' },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/markdown/markdown.js' },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/notes/notes.js', async: true },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/highlight/highlight.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>

@@ -238,8 +238,13 @@ We're doing our assignment tests today, so they need to be published when class 
 ### 5.2: Disruption Assumptions II
 - Steven Shapin, *A Social History of Truth: Civility and Science in Seventeenth-Century England* (University of Chicago Press, 1994), Chapter 1 ("The Great Civility"), pp. 3–41. Shapin shows that even scientific knowledge depends on trust, social standing, and credibility—frameworks now disrupted by AI. Shapin argues truth has always been social. If we start trusting AI outputs as "knowledge," what social contract is being rewritten?
 
+#### Reading slides and discussion
+- How is the socialness of truth relevant to AI?
+
+
 #### Disruptive expertise workshop 
 Using NotebookLM loaded with 20 RELEVANT sources (a gathering AND filtering exercise), develop a preliminary historical narrative for your contribution to the collective project. AI helps with synthesis, identifying connections, suggesting additional angles.
+
 
 #### Workshop: AI as sounding board
 * Ask AI to support the thesis, then to challenge it
@@ -254,10 +259,21 @@ Using NotebookLM loaded with 20 RELEVANT sources (a gathering AND filtering exer
 * What historical context is missing but useful?
 * "What do we NOT know about this topic, and why?"
 
+#### Main theme review
+- After some work time, everyone gets 1 minute to outline the main themes they intend to cover
+
+
 #### Demo: Website setup
-- How to set up your own website for your AI assignment and disruptive expertise contribution
-- Disruptive Expertise URL TBP
-- [Xanthan](https://xanthan-web.github.io)
+- How to set up your own website for your disruptive expertise contribution
+- If you need a reference guide, see [Xanthan](https://xanthan-web.github.io)
+
+
+{% include alert.html class='info' title='TWO URLs' text="
+There are two URLs that you'll need to keep track of. When you make your own copy of the website to work on, you'll have your own versions of these. 
+- CLASS DE website: [https://amaranth.unm.edu/disruptive-expertise](https://amaranth.unm.edu/disruptive-expertise/)
+- DE repository: [https://github.com/amaranth-unm/disruptive-expertise](https://github.com/amaranth-unm/disruptive-expertise)
+"%}
+
 
 
 
@@ -270,16 +286,16 @@ Using NotebookLM loaded with 20 RELEVANT sources (a gathering AND filtering exer
 In order to do our critiques, you need to have your essay visible online and complete (even if still drafty)!
 "%}
 
-
-### 6.2: Presentations and Critiques
-
-#### Lightning Presentations on rupture
+#### Lightning Presentations on ruptures
 Come prepared to present your rupture:
 * Brief overview of topic and context
 * What was most interesting about it? 
 * How did you find sources and evaluate for credibility
 * How did AI help? How did you direct it?
 * What uncertainties linger?
+
+
+### 6.2: Peer Critiques
 
 
 #### Peer Critique Response
@@ -297,8 +313,7 @@ Peer feedback that evaluates both historical quality and AI-critical reflection.
 ### 7.1: Conclusions
 
 {% include alert.html class='danger' title='AI Fluency and Keyword Reflection DUE TODAY' text="
-- [AI Fluency + Keyword Reflection]
-(ai-fluency-keyword-reflection)
+- [AI Fluency + Keyword Reflection](ai-fluency-keyword-reflection)
 - Come prepared to discuss what you think the future of AI holds!
 - AI fluency statement: What's the best way for YOU to use AI? I don't want a generic 'ethics' or 'best practices' statement. We all have different brains and need to engage the AI brain differently. 
 

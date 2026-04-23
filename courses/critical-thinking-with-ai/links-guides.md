@@ -22,6 +22,13 @@ This page contains a list of important links that appear on various places on th
 - [OPTIONAL Reading Reflections](reading-reflections)
 - [Dialogue Remix](dialogue-remix)
 - [AI Assignment Design](ai-assignment)
-- [Disruptive Expertise Contribution](disruptive-expertise)
+
 - [AI Fluency and Keywords Reflection](ai-fluency-keyword-reflection)
 - [Final Course Reflection](final-course-reflection)
+
+## Disruptive Expertise Guides
+- [Disruptive Expertise Guidelines](disruptive-expertise-guide)
+- [Disruptive Expertise Setup](disruptive-expertise-site-setup)
+- [Disruptive Expertise New Page](disruptive-expertise-page-setup)
+- [Disruptive Expertise Editing](disruptive-expertise-editing)
+- [Disruptive Expertise Submitting](disruptive-expertise-submitting)
