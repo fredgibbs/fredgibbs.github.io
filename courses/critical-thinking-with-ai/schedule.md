@@ -265,11 +265,11 @@ Using NotebookLM loaded with 20 RELEVANT sources (a gathering AND filtering exer
 
 #### Demo: Website setup
 - How to set up your own website for your disruptive expertise contribution
-- If you need a reference guide, see [Xanthan](https://xanthan-web.github.io)
+- [Disruptive Site Setup (start here!)](disruptive-expertise-guide)
 
 
 {% include alert.html class='info' title='TWO URLs' text="
-There are two URLs that you'll need to keep track of. When you make your own copy of the website to work on, you'll have your own versions of these. 
+There are two URLs that you'll need to keep track of. When you make your own copy of the website to work on, you'll have your own versions of these. There is a WEBSITE link (the public version) and a REPOSITORY link (the files you edit to make the website) 
 - CLASS DE website: [https://amaranth.unm.edu/disruptive-expertise](https://amaranth.unm.edu/disruptive-expertise/)
 - DE repository: [https://github.com/amaranth-unm/disruptive-expertise](https://github.com/amaranth-unm/disruptive-expertise)
 "%}
@@ -284,19 +284,26 @@ There are two URLs that you'll need to keep track of. When you make your own cop
 
 {% include alert.html class='danger' title='Disruption drafts due' text="
 In order to do our critiques, you need to have your essay visible online and complete (even if still drafty)!
+- [Disruptive Expertise Guide](disruptive-expertise-guide)
+- [Disruptive Site Setup (start here!)](disruptive-expertise-guide)
+- the rest of the guides are on the [Links and Guides](links-guides) page
+- Be sure to add your URL to your website (not repository!) to the Canvas discussion board
 "%}
 
-#### Lightning Presentations on ruptures
-Come prepared to present your rupture:
+#### Lightning Presentations on your disruption
+Come prepared to present:
 * Brief overview of topic and context
-* What was most interesting about it? 
-* How did you find sources and evaluate for credibility
-* How did AI help? How did you direct it?
+* What's most interesting about it?
+* How is it relevant to AI conversations? 
+* How did you find sources and evaluate for their utility?
+* How did you iterate and direct AI?
 * What uncertainties linger?
 
 
-### 6.2: Peer Critiques
 
+
+
+### 6.2: Peer Critiques
 
 #### Peer Critique Response
 Peer feedback that evaluates both historical quality and AI-critical reflection.
