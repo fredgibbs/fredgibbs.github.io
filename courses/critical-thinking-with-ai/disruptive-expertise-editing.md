@@ -44,12 +44,13 @@ Your `images` folder comes with a bunch of images you don't need. You can delete
 
 
 ### Uploading images to GitHub
-1. Go to your GitHub repository in your web browser
-2. Navigate to YOUR story folder by clicking on it.
-3. Click the **Add file** button (upper right)
-4. Select **Upload files**
-5. Drag your image file into the upload area or click to browse and locate it on your computer.
-6. Scroll down and click **Commit changes**
+1. Make sure you have your image saved and renamed to kebab case. It will be easier to troubleshoot missing images if the filename tells you what the image is.
+2. Go to your GitHub repository, Code tab, editor (via `.`)
+3. Expand the `{{page.sample-folder}}` folder to see your own project folder
+4. Expand your project folder to see your `images` folder
+5. Drag your image file from wherever it is on your computer to the images folder.
+6. Make sure it ended up in the images folder! Drag and drop again if need be.
+5. Click the network icon at left, type a commit message, and `Commit & Push`.
 
 
 ### Edit your page to use the new files
@@ -59,19 +60,17 @@ Your page uses a little code snippets to display your images. You need to update
 title = 'Take care with filenames' 
 text = " 
 - Filenames much match **exactly**
-- Include the correct file extension (`.jpg`, `.png`, `.gif`, etc.)
+- Include the correct file extension (`.jpg`, `.png`, `.gif`, `webp`, etc.)
 - Match capitalization, spaces, underscores, etc. (`.jpg` ≠ `.jpeg` ≠ `.JPG` )
-- Keep the caption text inside the quotes
 "
 %}
 
 **Page sure your image code references your image upload**
-- Find this line on your page: `{%raw%}{% include figure.html image-path="bbq.png" caption="Your caption here" %}`{%endraw%}
-- Change what's between the quotes for the `image-path` to be your image filename. 
+- Find the code on your page: `{%raw%}include images/figure-wrap.html
+  image-path="images/books-britannica.jpeg"`{%endraw%}
+- Change what's between the quotes for the `image-path` to be your image filename. It should start with `images/` because that's where you just put your image.
 - Be sure to keep the quotes, and make sure what's between the quotes is EXACTLY the same as the name of the file you uploaded.
-
-**Commit your changes!**
-
+- `Commit & Push` changes as usual.
 
 ### Verify Everything Works
 After uploading an image and updating your code snippets with the filenames of your image files (and committing your changes):
@@ -80,16 +79,15 @@ After uploading an image and updating your code snippets with the filenames of y
 2. Visit your page on your website (you bookmarked it, right?)
 3. Check that:
    - Your image displays correctly
-   - The caption shows properly
 
 
 ### Troubleshooting
 
-**Audio or image doesn't appear?**
+**Image doesn't appear?**
 - Make sure you didn't accidentally remove or add extra code characters, like {%raw%}{%{%endraw%} or {%raw%}%}{%endraw%}
 - Make sure you're not missing any quotation marks 
 - Double-check that the file names in your code exactly match the uploaded file names (including capitalization and file extension)
-- Wait a few minutes and refresh your browser—GitHub Pages can take time to update
+- Wait a few minutes and refresh your browser—GitHub Pages can take time to update.
 
 **Image is too large or too small?**
-- You can add `width="50%"` to the figure include to control size:
+- You can add `width="50%"` to the figure include to control size, picking whatever percent of the page width that you need.
