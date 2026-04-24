@@ -4,7 +4,7 @@ course-title: Critical Thinking with AI
 course-slug: critical-thinking-with-ai
 term: Spring 2026
 section: links-guides
-title: Food Stories Editing and Submitting Guide
+title: DE Editing Guide
 site-name: "Disruptive Expertise"
 repository-name: disruptive-expertise
 sample-folder: essays
