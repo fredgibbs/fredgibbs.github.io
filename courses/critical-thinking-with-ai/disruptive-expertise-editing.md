@@ -29,18 +29,21 @@ Make sure you're on YOUR repository (the URL will look like https://github.com/U
 - Press the `.` (period) key to go into Editor Mode
 - Click on the little arrow to the left of the your essay folder to see its contents
   - You should see an `images` folder and a file called `index.md`
-  - Click on the index.md file to bring it up on the right of your screen
-  - Make a simple change to the page title or content
+  - Click on the `index.md` file to bring it up on the right of your screen
+  - Replace the `title:` field near the top of the page with YOUR title
+  - Replace the `summary:` content as well
+
+- Now you need to commit your changes, like you did when setting up your page:
   - Click the network icon on the left, as you did when duplicating the {{page.sample-folder}} folder
-  - Enter something like "test edit"
-  - Click the Commit button
+  - Enter something like "update title and summary"
+  - Click the `Commit & Push` button
 
 ### Adding your own images
 Your `images` folder comes with a bunch of images you don't need. You can delete all of those or leave them. But you'll need to add your own images to your essay.
 
 
 
-### Upload Your Image File to GitHub
+### Uploading images to GitHub
 1. Go to your GitHub repository in your web browser
 2. Navigate to YOUR story folder by clicking on it.
 3. Click the **Add file** button (upper right)
