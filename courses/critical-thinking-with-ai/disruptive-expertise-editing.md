@@ -7,7 +7,7 @@ section: links-guides
 title: Food Stories Editing and Submitting Guide
 site-name: "Disruptive Expertise"
 repository-name: disruptive-expertise
-sample-folder: episodes
+sample-folder: essays
 ---
 
 # _{{page.site-name}}_ Editing Guide
@@ -21,13 +21,23 @@ This guide is useful ONLY AFTER you have followed the directions for [setting up
 
 
 ## Editing your new page
-
-### Replace content on the sample page
 Now that you have a working website and your own page to edit, you're ready to replace all the sample content with your own. 
 
-It's best to write out anything you want on your page in Word or whatever and then copy and paste it into GitHub when you're editing your page. Editing in the tiny GitHub text edit box is annoying and it's too easy to miss typos and other mistakes. 
+### Test an edit on your new page
+Make sure you're on YOUR repository (the URL will look like https://github.com/USERNAME/{{page.repository-name}}/). Make sure you're on the `Code` tab (normally the default view). You should see the list of files in the repository (starting with folders like _data,_includes, _layouts, etc).
 
-Once you have replaced the sample text with your own, click the green `Commit changes...` button. 
+- Press the `.` (period) key to go into Editor Mode
+- Click on the little arrow to the left of the your essay folder to see its contents
+  - You should see an `images` folder and a file called `index.md`
+  - Click on the index.md file to bring it up on the right of your screen
+  - Make a simple change to the page title or content
+  - Click the network icon on the left, as you did when duplicating the {{page.sample-folder}} folder
+  - Enter something like "test edit"
+  - Click the Commit button
+
+### Adding your own images
+Your `images` folder comes with a bunch of images you don't need. You can delete all of those or leave them. But you'll need to add your own images to your essay.
+
 
 
 ### Upload Your Image File to GitHub
@@ -40,14 +50,14 @@ Once you have replaced the sample text with your own, click the green `Commit ch
 
 
 ### Edit your page to use the new files
-Your page uses two special "include" codes to display your audio recording and image. You need to update these codes to match the files you uploaded.
+Your page uses a little code snippets to display your images. You need to update any existing snippets to reference the files you uploaded.
 
 {% include alert.html class='warning' 
 title = 'Take care with filenames' 
 text = " 
 - Filenames much match **exactly**
 - Include the correct file extension (`.jpg`, `.png`, `.gif`, etc.)
-- Match capitalization, spaces, underscores, etc.
+- Match capitalization, spaces, underscores, etc. (`.jpg` ≠ `.jpeg` ≠ `.JPG` )
 - Keep the caption text inside the quotes
 "
 %}
@@ -58,16 +68,14 @@ text = "
 - Be sure to keep the quotes, and make sure what's between the quotes is EXACTLY the same as the name of the file you uploaded.
 
 **Commit your changes!**
-Use the green `Commit Changes` button as usual to save your work.
 
 
 ### Verify Everything Works
-After uploading both files and updating code snippets with your filenames (and committing your changes):
+After uploading an image and updating your code snippets with the filenames of your image files (and committing your changes):
 
 1. Wait 1-2 minutes for GitHub Pages to rebuild your site
-2. Visit your food story page on your website (you bookmarked it, right?)
+2. Visit your page on your website (you bookmarked it, right?)
 3. Check that:
-   - Your audio player appears and plays your recording
    - Your image displays correctly
    - The caption shows properly
 
@@ -82,4 +90,3 @@ After uploading both files and updating code snippets with your filenames (and c
 
 **Image is too large or too small?**
 - You can add `width="50%"` to the figure include to control size:
-

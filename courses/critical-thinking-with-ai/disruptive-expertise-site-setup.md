@@ -47,4 +47,4 @@ You now have a "local" copy of the repository, which is all files that make the 
 
 
 ## Start Editing
-Once everything is working, it's time to [set up your own essay](disruptive-expertise-editing).
+Once everything is working, it's time to [set up your own essay](disruptive-expertise-page-setup).

@@ -31,7 +31,7 @@ Create bookmarks for two locations you will be visiting often:
 Go to YOUR repository (the URL will look like https://github.com/USERNAME/{{page.repository-name}}/). Make sure you're on the `Code` tab (normally the default view). You should see the list of files in the repository (starting with folders like _data,_includes, _layouts, etc).
 
 - Press the `.` (period) key to go into Editor Mode
-- Click on the little arrow to the left of the  the `{{page.work-folder}}` folder to see its contents
+- Click on the little arrow to the left of the `{{page.work-folder}}` folder to see its contents
 - Click on the `{{page.example-folder}}` to highlight it
 - Either right-click and select Copy or press Ctrl C (windows) or Cmd C (mac)
 - Press Ctrl V or Cmd V to paste the folder you just copied
