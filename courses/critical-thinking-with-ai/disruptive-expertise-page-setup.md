@@ -6,7 +6,8 @@ term: Spring 2026
 section: links-guides
 site-name: "Disruptive Expertise"
 repository-name: disruptive-expertise
-sample-folder: episodes
+work-folder: essays
+example-folder: wikipedia
 ---
 
 ## _{{page.site-name}}_ Page Setup Guide
@@ -27,16 +28,20 @@ Create bookmarks for two locations you will be visiting often:
 
 
 ## Create a folder and blank page
-Go to YOUR repository (the URL will look like https://github.com/USERNAME/{{page.repository-name}}/). You should see the list of files in the repository (starting with folders like _data,_includes, _layouts, etc).
+Go to YOUR repository (the URL will look like https://github.com/USERNAME/{{page.repository-name}}/). Make sure you're on the `Code` tab (normally the default view). You should see the list of files in the repository (starting with folders like _data,_includes, _layouts, etc).
 
-- Click the `{{page.sample-folder}}` folder
-- Click the `Add file` button in the upper right, and `Create New File`
-- Type in a folder name for your essay:
-  - all lower case and with dashes (printing-press) AND
-  - CONTINUE typing `/index.md` - **DON'T FORGET THE / AT THE BEGINNING**
+- Press the `.` (period) key to go into Editor Mode
+- Click on the little arrow to the left of the  the `{{page.work-folder}}` folder to see its contents
+- Click on the `{{page.example-folder}}` to highlight it
+- Either right-click and select Copy or press Ctrl C (windows) or Cmd C (mac)
+- Press Ctrl V or Cmd V to paste the folder you just copied
+  - You should see a new folder that says `{{page.example-folder}} copy`
+- Right-click on the new folder to bring up the context menu and select `Rename`
+  - use a short name that makes sense for your project (don't use my-project or something generic; it should reflect your topic)
+  - all lower case and with dashes (printing-press) 
 
 {% include alert.html class='danger' 
-title = 'Name your folder correctly' 
+title = 'Name your folder correctly!' 
 text = " 
 Lower case and upper case are not the same. Spaces are horrible. If you don't name your folder correctly, you will be frustrated later.
 - use KEBAB case, which means **all-lower-case-and-dashes**:
@@ -46,23 +51,13 @@ Lower case and upper case are not the same. Spaces are horrible. If you don't na
 "
 %}
 
-- Click the green `Commit changes...` button. Yes, you're saving an empty file.
 
-
-## Copy a sample page into your blank page
-- Click on the `{{page.sample-folder}}` folder
-- Click on the `wikipedia` folder
-- Click on the `index.md` file 
-- Near the upper right of the screen, click the copy icon (two overlapping rectangles) to copy all the text.
-
-
-## Paste the sample into your new blank page
-- Click on the folder your created (all lower case and with dashes)
-- Click on the index.md file
-- Paste the text you just copied.
-- Update your page metadata as best you can right now (you'll add an image later)
-- Click the green `Commit changes...` button.
-
+## Commit your changes to rebuild your site
+- On the very left of the page is a column of icons; click the one that looks like a network and has a blue circle on it
+- Type in a commit message (for instance, "create wikipedia copy")
+- Close the little message box under the commit message input
+- Click the Commit button
+- Your site is now rebuilding
 
 ## Test and bookmark your page
 - Chill for a minute: there is about a minute lag between when you commit your file and when your website updates.
