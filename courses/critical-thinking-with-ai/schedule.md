@@ -285,7 +285,7 @@ There are two URLs that you'll need to keep track of. When you make your own cop
 {% include alert.html class='danger' title='Disruption drafts due' text="
 In order to do our critiques, you need to have your essay visible online and complete (even if still drafty)!
 - [Disruptive Expertise Guide](disruptive-expertise-guide)
-- [Disruptive Site Setup (start here!)](disruptive-expertise-guide)
+- [Disruptive Site Setup (start here!)](disruptive-expertise-site-setup)
 - the rest of the guides are on the [Links and Guides](links-guides) page
 - Be sure to add your URL to your website (not repository!) to the Canvas discussion board
 "%}
