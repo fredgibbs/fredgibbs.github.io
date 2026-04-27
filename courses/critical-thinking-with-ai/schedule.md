@@ -288,7 +288,7 @@ In order to do our critiques, you need to have your essay visible online and com
 - [Disruptive Site Setup (start here!)](disruptive-expertise-site-setup)
 - the rest of the guides are on the [Links and Guides](links-guides) page
 - Be sure to add your URL to your website (not repository!) to the Canvas discussion board
-- **Important**: You are not "submitting" your essay like in the final instruction guide--that's for turning in the FINAL version. For today, you're just posting a link to your website on Canvas so we can see it.
+- **Important**: You are not 'submitting' your essay like in the final instruction guide--that's for turning in the FINAL version. For today, you're just posting a link to your website on Canvas so we can see it.
 "%}
 
 #### Lightning Presentations on your disruption
