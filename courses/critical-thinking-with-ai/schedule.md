@@ -311,7 +311,7 @@ Come to Mesa Vista Hall 2068 if you need any help or just want to work on your e
 ### 7.1: Conclusions
 
 {% include alert.html class='danger' title='Peer Critique Response' text="
-Post to the Canvas assignment "Peer Reviews" a review of your
+Post to the Canvas assignment 'Peer Reviews' a review of your
 - What's the story?
 - How does it establish credibility?
 - Does it sound human?
