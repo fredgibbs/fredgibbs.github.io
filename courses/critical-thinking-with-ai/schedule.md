@@ -310,16 +310,6 @@ Come to Mesa Vista Hall 2068 if you need any help or just want to work on your e
 
 ### 7.1: Conclusions
 
-{% include alert.html class='danger' title='Peer Critique Response' text="
-Post to the Canvas assignment 'Peer Reviews' a review of your
-- What's the story?
-- How does it establish credibility?
-- Does it sound human?
-- Targeted improvements
-- Is AI use thoroughly and clearly documented?
-"%}
-
-
 {% include alert.html class='danger' title='AI Fluency and Keyword Reflection DUE TODAY' text="
 - [AI Fluency + Keyword Reflection](ai-fluency-keyword-reflection)
 - Come prepared to discuss your keywords
@@ -349,6 +339,17 @@ Post to the Canvas assignment 'Peer Reviews' a review of your
 
 
 ### 7.2: No Class! 
+
+{% include alert.html class='danger' title='Peer Critiques Due' text="
+No class, but you have an asignment due! Post to the Canvas assignment 'Peer Reviews' a review of your assigned essay:
+- What's the story?
+- How does it establish credibility?
+- Does it sound human?
+- Targeted improvements
+- Is AI use thoroughly and clearly documented?
+"%}
+
+
 {% include alert.html class='danger' title='No class!' text="
 Once you are **completely** done, follow the [submission guide](disruptive-expertise-submitting) for your [Expertise Disruptions](disruptive-expertise-guide)!
 "%}
