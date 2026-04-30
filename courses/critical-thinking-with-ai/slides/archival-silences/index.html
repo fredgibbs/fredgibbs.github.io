@@ -1,0 +1,706 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<title>Archival Silences — Trouillot, Silencing the Past, Chapter 1</title>
+
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reset.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reveal.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/theme/black.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+
+		<style>
+			:root {
+				--ts-bg: #0d1412;
+				--ts-text: #e6ece4;
+				--ts-text-muted: #9fb1a3;
+				--ts-border: #22302b;
+				--ts-heading-1: #a8c686;
+				--ts-heading-2: #6fb3a0;
+				--ts-heading-3: #d9b26a;
+				--ts-accent: #d9b26a;
+			}
+
+			html, body, .reveal {
+				background: var(--ts-bg);
+			}
+
+			.reveal {
+				font-family: 'Inter', system-ui, sans-serif;
+				color: var(--ts-text);
+			}
+
+			.reveal .slides {
+				text-align: left;
+			}
+
+			.reveal .eyebrow {
+				font-family: 'JetBrains Mono', monospace;
+				text-transform: uppercase;
+				letter-spacing: 0.18em;
+				font-size: 0.5em;
+				color: var(--ts-heading-3);
+				margin: 0 0 0.9rem 0;
+			}
+
+			.reveal .main-point {
+				font-family: 'Fraunces', Georgia, serif;
+				font-size: 1.15em;
+				line-height: 1.1;
+				font-weight: 600;
+				color: var(--ts-heading-1);
+				margin: 0 0 0.4em 0;
+				letter-spacing: -0.015em;
+				text-wrap: balance;
+				font-style: italic;
+			}
+
+			.reveal .detail {
+				font-size: 0.75em;
+				line-height: 1.5;
+				color: var(--ts-text-muted);
+				margin: 0;
+				font-weight: 400;
+			}
+
+			.reveal .detail strong { color: var(--ts-text); font-weight: 600; }
+			.reveal .detail em { color: var(--ts-heading-3); font-style: italic; }
+
+			.reveal .rule {
+				height: 1px;
+				width: 140px;
+				margin: 0.5em 0;
+				background: linear-gradient(90deg, var(--ts-heading-2) 0%, var(--ts-accent) 60%, transparent 100%);
+			}
+
+			.reveal .cards {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 0.7em;
+				margin-top: 0.8em;
+			}
+
+			.reveal .card {
+				border-top: 2px solid var(--ts-heading-2);
+				padding: 0.4em 0 0 0;
+			}
+
+			.reveal .card .num {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				color: var(--ts-heading-3);
+				letter-spacing: 0.15em;
+				display: block;
+				margin-bottom: 0.3em;
+			}
+
+			.reveal .card h4 {
+				font-family: 'Fraunces', Georgia, serif;
+				font-style: italic;
+				font-size: 0.7em;
+				color: var(--ts-heading-1);
+				margin: 0 0 0.2em 0;
+				font-weight: 600;
+			}
+
+			.reveal .card p {
+				font-size: 0.45em;
+				line-height: 1.5;
+				color: var(--ts-text-muted);
+				margin: 0;
+			}
+
+			.reveal .pull-quote {
+				font-family: 'Fraunces', Georgia, serif;
+				font-style: italic;
+				font-size: 0.75em;
+				color: var(--ts-heading-3);
+				border-left: 2px solid var(--ts-accent);
+				padding-left: 0.8em;
+				margin: 0.8em 0 0 0;
+				line-height: 1.4;
+			}
+
+			/* Revealable reveal-block for Argument and Historical Detail */
+			.reveal .reveal-block {
+				margin-top: 0.55em;
+				padding: 0.35em 0 0.35em 0.7em;
+				border-left: 1px solid var(--ts-border);
+			}
+
+			.reveal .reveal-block .label {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				text-transform: uppercase;
+				letter-spacing: 0.18em;
+				color: var(--ts-heading-3);
+				display: block;
+				margin-bottom: 0.35em;
+			}
+
+			.reveal .reveal-block p {
+				font-size: 0.58em;
+				line-height: 1.45;
+				color: var(--ts-text-muted);
+				margin: 0;
+			}
+
+			.reveal .reveal-block p strong { color: var(--ts-text); font-weight: 600; }
+			.reveal .reveal-block p em { color: var(--ts-heading-3); font-style: italic; }
+
+			.reveal .reveal-block.argument { border-left-color: var(--ts-heading-2); }
+			.reveal .reveal-block.historical { border-left-color: var(--ts-accent); }
+
+			/* Takeaway slides: dual-track Historical / AI parallel */
+			.reveal .parallel {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 1em;
+				margin-top: 0.6em;
+			}
+
+			.reveal .parallel .track {
+				border-top: 2px solid var(--ts-heading-2);
+				padding-top: 0.45em;
+			}
+
+			.reveal .parallel .track.ai { border-top-color: var(--ts-accent); }
+
+			.reveal .parallel .track h5 {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				letter-spacing: 0.16em;
+				text-transform: uppercase;
+				color: var(--ts-heading-3);
+				margin: 0 0 0.35em 0;
+			}
+
+			.reveal .parallel .track p {
+				font-size: 0.52em;
+				line-height: 1.45;
+				color: var(--ts-text-muted);
+				margin: 0;
+			}
+
+			.reveal .parallel .track p strong { color: var(--ts-text); font-weight: 600; }
+		</style>
+
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? '/assets/vendor/reveal.js-3.8.0/css/print/pdf.css' : '/assets/vendor/reveal.js-3.8.0/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+
+				<!-- ========== TITLE ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Critical Thinking with AI &bull; Hist 300</p>
+					<h1 class="main-point">Archival Silences: Power and the Production of History</h1>
+					<div class="rule"></div>
+					<p class="detail">
+						Michel-Rolph Trouillot, <em>Silencing the Past</em>, Chapter 1: &ldquo;The Power in the Story.&rdquo;
+						History is not the past waiting to be discovered---it's an active social process.
+					</p>
+				</section>
+
+				<!-- ========== SLIDE 1 ========== -->
+				<section>
+					<p class="eyebrow">Slide 01 &middot; History Happens Twice</p>
+					<h2 class="main-point">&ldquo;History&rdquo; means two different things</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Argument</span>
+						<p>
+							Trouillot opens by insisting that the word <em>history</em> hides an ambiguity:
+							it refers both to <strong>what happened</strong> (a sociohistorical process)
+							and to <strong>what is said to have happened</strong> (a narrative about that process).
+							The two are <em>not</em> the same.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Detail</span>
+						<p>
+							Trouillot points out that everyday English carries the confusion: a child who asks
+							&ldquo;<em>what is the history of this house?</em>&rdquo; can mean either
+							<strong>the events that happened in it</strong> or <strong>the story we now tell about it</strong>.
+							Most theoretical disputes about &ldquo;objectivity&rdquo; vs. &ldquo;narrative&rdquo;
+							just <em>collapse</em> these two senses into one.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 2 ========== -->
+				<section>
+					<p class="eyebrow">Slide 02 &middot; Bundles of Silence</p>
+					<h2 class="main-point">Histories always partial.</h2>
+					<div class="rule"></div>
+
+					<p class="pull-quote fragment">
+						&ldquo;Any historical narrative is a particular bundle of silences.&rdquo;
+					</p>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Argument</span>
+						<p>
+							For Trouillot, every story about the past is built by <em>excluding</em> other possible stories.
+							Silences are not gaps in an otherwise complete record &mdash; they are
+							<strong>integral</strong> of how the record gets made in the first place.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Detail</span>
+						<p>
+							Trouillot stresses that silences are <strong>design choices</strong>, not gaps.
+							A monument is built to centralize one story; a textbook chapter is structured to advance
+							one through-line. To miss the silences is to <em>mistake the artifact for the
+							past</em> it claims to represent. 
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 3 ========== -->
+				<section>
+					<p class="eyebrow">Slide 03 &middot; The Moments of Silencing</p>
+					<h2 class="main-point">Cumulative moments</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Argument</span>
+						<p>
+							Trouillot maps how silences are produced as a <em>process</em>, not an event.
+							At each step, new exclusions are added to the ones inherited from the step before.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Key Moments</span>
+						<p>
+							(1) <strong>Fact creation</strong> &mdash; the making of <em>sources</em>;<br>
+							(2) <strong>Fact preservation</strong> &mdash; the making of <em>archives</em>;<br>
+							(3) <strong>Fact selection</strong> &mdash; the process of <em>research</em>;<br>
+							(4) <strong>Fact interpretation</strong> &mdash; the process of <em>narratives</em>;<br>
+							(5) <strong>Retrospective significance</strong> &mdash; the making of &ldquo;history&rdquo; in the final instance.<br>
+							Silences are created and amplified, not corrected, at each step.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 4 &middot; COLUMBUS ========== -->
+				<section>
+					<p class="eyebrow">Slide 04 &middot; Columbus and the Making of &ldquo;Discovery&rdquo;</p>
+					<h2 class="main-point">Facts are made through centuries of repetition</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Argument</span>
+						<p>
+							Trouillot points out that <em>&ldquo;Columbus discovered America&rdquo;</em> was not
+							settled in 1492. It was assembled by the schools, holidays, statues, and centennials
+							that came afterward. The <strong>meaning</strong> of an event is constituted
+							retrospectively &mdash; long after the participants are dead.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Detail</span>
+						<p>
+							Columbus himself believed he had reached the outskirts of <strong>Asia</strong>
+							&mdash; he had no concept of an &ldquo;America&rdquo; to discover. The phrase
+							<em>&ldquo;discovery of America&rdquo;</em> hardened over generations:
+							Columbus Day did not become a US federal holiday until <strong>1937</strong>,
+							and it was only the <strong>1992 Quincentennial</strong> that made the centuries
+							of retrospective work visible &mdash; the people already there, the rival voyages,
+							the names those people used for their own continent.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 5 &middot; ALAMO ========== -->
+				<section>
+					<p class="eyebrow">Slide 05 &middot; The Alamo and the Story of the Last Stand</p>
+					<h2 class="main-point">National myths work because of what they leave out.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Argument</span>
+						<p>
+							The Alamo is one of Trouillot&rsquo;s clearest demonstrations of <em>fact retrieval</em>
+							at work. The events of 1836 happened; what makes them <strong>&ldquo;The Alamo&rdquo;</strong>
+							of popular memory is the selective frame that turns them into a heroic Anglo last stand.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Detail</span>
+						<p>
+							What the standard story silences: that the Texas independence movement was tightly
+							bound up with the defense of <strong>slavery</strong>, which Mexico had abolished in
+							<strong>1829</strong>; that the &ldquo;Texians&rdquo; included many recent Anglo migrants
+							resisting Mexican law; that the Mexican forces had their own state interests.
+							The myth doesn&rsquo;t <em>lie</em> about the events &mdash; it <strong>selects</strong>
+							and <strong>frames</strong> them so the resulting narrative can do specific cultural
+							work.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 6 &middot; SANS-SOUCI ========== -->
+				<section>
+					<p class="eyebrow">Slide 06 &middot; Sans-Souci, the Palace and the Colonel</p>
+					<h2 class="main-point">A name can be a memorial and an erasure at once.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Argument</span>
+						<p>
+							Trouillot uses the case of Henry Christophe&rsquo;s palace to show that
+							<strong>silencing happens in plain sight</strong>. The most authoritative reading of a
+							place can be the one that buries the inconvenient part of its past.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Detail</span>
+						<p>
+							King Henry Christophe of Haiti built his palace <em>Sans-Souci</em> around 1810.
+							Tourists and most historians have read the name as an echo of <strong>Frederick the
+							Great&rsquo;s</strong> Prussian palace at Potsdam. But there was also <strong>Colonel
+							Jean-Baptiste Sans Souci</strong>, a Congo-born officer of the Haitian revolution whom
+							Christophe had assassinated. The European reference has been allowed to silence the Haitian one.
+						</p>
+					</div>		
+				</section>
+
+				<!-- ========== SLIDE 7 ========== -->
+				<section>
+					<p class="eyebrow">Slide 07 &middot; Power Is the Active Ingredient</p>
+					<h2 class="main-point">Silences track power.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Argument</span>
+						<p>
+							Participants in any past event do not enter the historical record on equal terms.
+							The means of historical production &mdash; literacy, paper, archives, monuments, schools &mdash;
+							are <strong>distributed unequally</strong>. So are the silences they generate.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Detail</span>
+						<p>							
+							For most contemporary European observers, a successful self-emancipating Black state was
+							<em>literally unthinkable</em> &mdash; outside the conceptual schemes their archives could
+							register. The event happened; the framework to record it as the kind of thing it was
+							did not. The silence here is not a gap of <strong>data</strong>; it is a gap of
+							<strong>category</strong>.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 8 ========== -->
+				<section>
+					<p class="eyebrow">Slide 08 &middot; Beyond Positivism vs. Constructivism</p>
+					<h2 class="main-point">To say history is produced is not to say it is fiction.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Argument</span>
+						<p>
+							Trouillot rejects both extremes. <em>Pure positivism</em> &mdash; history simply reports
+							the facts &mdash; is naive about how facts get made. <em>Pure constructivism</em> &mdash;
+							history is just stories &mdash; is naive about why some stories are stronger than others.
+							The interesting question is <strong>how some narratives become authoritative while
+							others get silenced</strong>.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Historical Detail</span>
+						<p>
+							Columbus, the Alamo, and Sans-Souci are <em>not</em> fictions &mdash; ships sailed,
+							battles were fought, palaces were built. But none of them are
+							<em>neutral readouts of the past</em> either. Each is a sentence that became
+							authoritative through the schools, monuments, holidays, and archives that repeated it.
+							Authority is the <strong>residue of social labor</strong>, not a property of the
+							events themselves.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== TAKEAWAY INTRO ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Take Home</p>
+					<h2 class="main-point">Four lessons from the chapter.</h2>
+					<div class="rule"></div>
+
+				</section>
+
+				<!-- ========== TAKEAWAY 1 ========== -->
+				<section>
+					<p class="eyebrow">Take Home 01 &middot; History as sociological process</p>
+					<h2 class="main-point">Are we talking about what happened, or about what is said to have happened?</h2>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">From the Chapter</span>
+						<p>
+							Trouillot insists that the slippage between <em>process</em> and <em>narrative</em> is
+							not a philosopher&rsquo;s puzzle &mdash; it&rsquo;s where ideology hides. The textbook
+							sentence about Columbus does not lie about the past; it <strong>quietly substitutes a
+							story for the past</strong>.
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Keep asking</span>
+						<p>
+							When someone says &ldquo;the history of X,&rdquo; which of the two histories
+							are they handing you?
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== TAKEAWAY 2 ========== -->
+				<section>
+					<p class="eyebrow">Take Home 02 &middot; Silence Is Structural</p>
+					<h2 class="main-point">Silences are produced at different moments</h2>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">From the Chapter</span>
+						<p>
+							Sources, archives, research, narratives, privilege: By the time the past reaches a textbook,
+							silences get bundled together and harder to see.
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Keep Asking</span>
+						<p>
+							Pick a fact you &ldquo;know&rdquo; about the past. At what moments
+							could it have been silenced &mdash; and how would you ever find out?
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== TAKEAWAY 3 ========== -->
+				<section>
+					<p class="eyebrow">Take Home 03 &middot; Archives Are Workshops</p>
+					<h2 class="main-point">An archive doesn&rsquo;t preserve the past &mdash; it produces a usable version of it.</h2>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">From the Chapter</span>
+						<p>
+							The Sans-Souci case shows &ldquo;the archive&rdquo; at work: <strong>official documents</strong>
+							preserve Christophe, the palace; <strong>oral memory</strong>
+							carries the murdered colonel. Which of the two becomes &ldquo;history&rdquo; depends
+							less on what happened than on <em>whose stories we privilege</em>.
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Keep asking</span>
+						<p>
+							Whose sources inform your <strong>your</strong> historical archive &mdash; the syllabus,
+							the search engine, the museum, the family story?
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== TAKEAWAY 4 ========== -->
+				<section>
+					<p class="eyebrow">Take Home 04 &middot; Power Is the Active Ingredient</p>
+					<h2 class="main-point">Authority is not a property of events &mdash; it is the residue of social labor.</h2>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">From the Chapter</span>
+						<p>
+							The Haitian Revolution was <em>unthinkable</em> to most of its European contemporaries
+							not because it lacked evidence but because their conceptual schemes made it impossible.
+							What an archive can <strong>register</strong> is itself a function of who built it and why.
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Keep asking</span>
+						<p>
+							What kinds of events could be <em>unthinkable</em> to the institutions you trust &mdash;
+							not just a stretch, but <strong>literally outside their categories</strong>?
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== AI BRIDGE INTRO ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Bridge to AI</p>
+					<h2 class="main-point">Silences and Reading AI output</h2>
+					<div class="rule"></div>
+					<p class="detail">
+						The printing press, the scientific method, the model: each is a machine for <strong>making some voices
+						authoritative and others inaudible</strong>.
+					</p>
+				</section>
+
+				<!-- ========== AI 1 ========== -->
+				<section>
+					<p class="eyebrow">AI 01 &middot; AI Output Happens Twice</p>
+					<h2 class="main-point">Training vs. Output</h2>
+
+					<div class="parallel fragment">
+						<div class="track">
+							<h5>Trouillot</h5>
+							<p>
+								<em>What happened</em> (sociohistorical process) is not the same thing as
+								<em>what is said to have happened</em> (narrative).
+							</p>
+						</div>
+						<div class="track ai">
+							<h5>AI Translation</h5>
+							<p>
+								The <strong>training corpus</strong> is one thing; the <strong>generated answer</strong>
+								is another. The model speaks in a confident voice that amplifies silence.
+							</p>
+						</div>
+					</div>
+
+					<p class="pull-quote fragment">
+						Instead of &ldquo;Is this true?&rdquo; &mdash;
+						<em>&ldquo;Whose past is the model summarizing right now, and as what?&rdquo;</em>
+					</p>
+				</section>
+
+				<!-- ========== AI 2 ========== -->
+				<section>
+					<p class="eyebrow">AI 02 &middot; Same Moments, New Machine</p>
+					<h2 class="main-point">AI silences enter at the same moments &mdash; just renamed.</h2>
+
+					<div class="parallel fragment">
+						<div class="track">
+							<h5>Trouillot</h5>
+							<p>
+								Sources &rarr; Archives &rarr; Narratives &rarr; Significance.
+								Each moment <strong>inherits and extends</strong> the previous moment&rsquo;s silences.
+							</p>
+						</div>
+						<div class="track ai">
+							<h5>AI Translation</h5>
+							<p>
+								<strong>Data collection</strong> (what gets scraped),
+								<strong>dataset curation</strong> (what gets cleaned and labeled),
+								<strong>retrieval &amp; sampling</strong> (what gets pulled into a given answer),
+								<strong>RLHF &amp; framing</strong> (what gets reinforced as &ldquo;the right kind of answer&rdquo;).
+							</p>
+						</div>
+					</div>
+				</section>
+
+				<!-- ========== AI 3 ========== -->
+				<section>
+					<p class="eyebrow">AI 03 &middot; The Unthinkable Reappears</p>
+					<h2 class="main-point">A voice not in the training corpus is not under-represented &mdash; it is invisible.</h2>
+
+					<div class="parallel fragment">
+						<div class="track">
+							<h5>Trouillot</h5>
+							<p>
+								The Haitian Revolution was not merely <em>unrecorded</em> &mdash; it was
+								<strong>unthinkable</strong> within the categories the archive could use.
+							</p>
+						</div>
+						<div class="track ai">
+							<h5>AI Translation</h5>
+							<p>
+								Languages, communities, and worldviews <strong>not on the open web</strong> are not
+								&ldquo;low-resource&rdquo; in some statistical sense &mdash; they are <em>outside the
+								model&rsquo;s conceptual world</em>. The model doesn&rsquo;t know what it doesn&rsquo;t know.								
+							</p>
+						</div>
+					</div>
+				</section>
+
+				<!-- ========== AI 4 ========== -->
+				<section>
+					<p class="eyebrow">AI 04 &middot; Fluency Is a Silencing Technology</p>
+					<h2 class="main-point">A confident, smooth answer is not a neutral readout &mdash; it is the residue of choices.</h2>
+
+					<div class="parallel fragment">
+						<div class="track">
+							<h5>Trouillot</h5>
+							<p>
+								The most authoritative readings of a place &mdash; the Sans-Souci-as-Frederick-the-Great
+								reading &mdash; are also the ones <strong>most likely to bury the alternative</strong>.
+							</p>
+						</div>
+						<div class="track ai">
+							<h5>AI Translation</h5>
+							<p>
+								Polished prose <em>increases</em> the silencing effect: the smoother the answer,
+								the harder it is to remember that it was assembled from a particular bundle of
+								sources and could have been assembled differently.
+							</p>
+						</div>
+					</div>
+
+				</section>
+
+				<!-- ========== AI 5 ========== -->
+				<section>
+					<p class="eyebrow">AI 05 &middot; Better Prompts Aren&rsquo;t Better History</p>
+					<h2 class="main-point">You can&rsquo;t prompt your way out of silences.</h2>
+
+					<div class="parallel fragment">
+						<div class="track">
+							<h5>Trouillot</h5>
+							<p>
+								The fix for a silenced past is <strong>structural</strong>: rebuild the sources,
+								re-curate the archive, retell the narrative, re-evaluate its significance.
+							</p>
+						</div>
+						<div class="track ai">
+							<h5>AI Translation</h5>
+							<p>
+								No prompt or series of prompts recovers voices and perspectives that were never collected or are wholly buried.
+								<strong>Where else do you need to go?</strong>
+							</p>
+						</div>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Practice</span>
+						<p>
+							For any history, ask <em>where the model could not have learned this</em>.
+						</p>
+					</div>
+				</section>
+
+			</div>
+		</div>
+
+		<script src="/assets/vendor/reveal.js-3.8.0/js/reveal.js"></script>
+		<script>
+			Reveal.initialize({
+				hash: true,
+				controlsTutorial: false,
+				progress: true,
+				center: true,
+				width: 960,
+				height: 700,
+				margin: 0.08,
+				dependencies: [
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/markdown/marked.js' },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/markdown/markdown.js' },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/notes/notes.js', async: true },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/highlight/highlight.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>
