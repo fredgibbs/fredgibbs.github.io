@@ -302,62 +302,55 @@ Come prepared to present:
 
 
 
-
-
-### 6.2: Peer Critiques
-
-#### Peer Critique Response
-Peer feedback that evaluates both historical quality and AI-critical reflection.
-- What's the story?
-- How does it establish credibility?
-- Does it sound human?
-- Targeted improvements
-- Is AI use thoroughly and clearly documented?
-
+### 6.2: Optional Workshop 
+Come to Mesa Vista Hall 2068 if you need any help or just want to work on your essays!
 
 
 ## 7: May 4--May 8
 
 ### 7.1: Conclusions
 
-{% include alert.html class='danger' title='AI Fluency and Keyword Reflection DUE TODAY' text="
-- [AI Fluency + Keyword Reflection](ai-fluency-keyword-reflection)
-- Come prepared to discuss what you think the future of AI holds!
-- AI fluency statement: What's the best way for YOU to use AI? I don't want a generic 'ethics' or 'best practices' statement. We all have different brains and need to engage the AI brain differently. 
-
+{% include alert.html class='danger' title='Peer Critique Response' text="
+Post to the Canvas assignment "Peer Reviews" a review of your
+- What's the story?
+- How does it establish credibility?
+- Does it sound human?
+- Targeted improvements
+- Is AI use thoroughly and clearly documented?
 "%}
 
 
-#### Collective Site Review
-- What story does the collective site tell about the history of learning? 
-- What's missing? 
-- How can we connect our stories?
+{% include alert.html class='danger' title='AI Fluency and Keyword Reflection DUE TODAY' text="
+- [AI Fluency + Keyword Reflection](ai-fluency-keyword-reflection)
+- Come prepared to discuss your keywords
+- AI fluency statement: What's the best way for YOU to use AI? I don't want a generic 'ethics' or 'best practices' statement. We all have different brains and need to engage the AI brain differently. 
+"%}
 
 
-#### Discussion — Ethics of AI Research
-Now that you have spent 5 weeks using AI for research and writing, you have experiential grounding for an ethics conversation:
-
-##### Ethically
+#### Wrap-up Discussion Topics
+ 
+##### Expertise + Authority
 - Can AI be directed to performn as a true expert?
-- When should AI use be disclosed? Always? Sometimes? Never?
 - Does "scholarly expertise" matter anymore? Is the value declining?
 - Does AI-assisted work count as "your" work?
 
-##### Institutionally
-- How should academic integrity policies change?
+#### Education
 - How should academic assessment change?
+- When should AI use be disclosed? Always? Sometimes? Never?
 - What should students know about AI when they graduate?
 - What should UNM provide to you in terms of AI (access, education, workshops, etc)
 
+#### Critical Thinking with AI
+- Return to the course's driving question: How can AI help us think more critically, develop skills, and produce higher-quality work?
+- What has your experience been?
+- What's most important for student practice?
 
-#### The Futures Question
-Return to the course's driving question: How can AI help us think more critically, develop skills, and produce higher-quality work?
 
 
 
 ### 7.2: No Class! 
 {% include alert.html class='danger' title='No class!' text="
-Turn in your [Expertise Disruptions](disruptive-expertise)!
+Once you are **completely** done, follow the [submission guide](disruptive-expertise-submitting) for your [Expertise Disruptions](disruptive-expertise-guide)!
 "%}
 
 
