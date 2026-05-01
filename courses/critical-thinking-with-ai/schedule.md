@@ -317,8 +317,11 @@ Come to Mesa Vista Hall 2068 if you need any help or just want to work on your e
 "%}
 
 
+
 #### Wrap-up Discussion Topics
- 
+- [Archival Silences Slides](slides/archival-silences/)
+- Keep in mind the difference between the past, history, and AI outputs.
+
 ##### Expertise + Authority
 - Can AI be directed to performn as a true expert?
 - Does "scholarly expertise" matter anymore? Is the value declining?
@@ -341,23 +344,26 @@ Come to Mesa Vista Hall 2068 if you need any help or just want to work on your e
 ### 7.2: No Class! 
 
 {% include alert.html class='danger' title='Peer Critiques Due' text="
-No class, but you have an asignment due! Post to the Canvas assignment 'Peer Reviews' a review of your assigned essay:
+No class, but you have an asignment due! Post to the Canvas assignment 'Peer Review' a review of your assigned essay:
 - What's the story?
 - How does it establish credibility?
 - Does it sound human?
-- Targeted improvements
-- Is AI use thoroughly and clearly documented?
+- What should be some targeted improvements?
+- Is AI use honestly documented? (we can all tell at this point)
 "%}
 
 
-{% include alert.html class='danger' title='No class!' text="
+
+## FINALS week
+{% include alert.html class='danger' title='Final reflection' text="
+- [Final Course reflection](final-course-reflection)
+- NOTE: The more CONSTRUCTIVE criticism you provide (i.e. what to do differently and why), the higher your grade. I'm not fishing for compliments; I'm fishing for substantive suggestions.
+"%}
+
+{% include alert.html class='danger' title='Make your pull request!' text="
 Once you are **completely** done, follow the [submission guide](disruptive-expertise-submitting) for your [Expertise Disruptions](disruptive-expertise-guide)!
 "%}
 
-
-
-## Final Course Reflection
-{% include alert.html class='danger' title='All work due May 15' text="
-- [Final Course reflection](final-course-reflection)
+{% include alert.html class='warning' title='Get everything in' text="
+I'm pretty flexible if you're making a real effort. You're welcome to turn in any work late, but make sure it's good.
 "%}
-
