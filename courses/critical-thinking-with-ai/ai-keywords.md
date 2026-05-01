@@ -70,4 +70,6 @@ You may (obviously) use AI tools for brainstorming or exploring how a term is us
 - Clear, concise writing that still captures complexity  
 - Non-AI writing, even if you use AI to help you with writing
 
+
 ## Submitting your assignment
+There is a Canvas Discussion assignment set up. You should be able to copy and paste your assignment into there. It's a discussion board so we can see each others' keywords (after you've posted), but you don't need to reply to anyone.

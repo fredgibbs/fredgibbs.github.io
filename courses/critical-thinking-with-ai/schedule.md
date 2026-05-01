@@ -311,40 +311,41 @@ Come to Mesa Vista Hall 2068 if you need any help or just want to work on your e
 ### 7.1: Conclusions
 
 {% include alert.html class='danger' title='AI Fluency and Keyword Reflection DUE TODAY' text="
-- [AI Fluency + Keyword Reflection](ai-fluency-keyword-reflection)
-- Come prepared to discuss your keywords
-- AI fluency statement: What's the best way for YOU to use AI? I don't want a generic 'ethics' or 'best practices' statement. We all have different brains and need to engage the AI brain differently. 
+- [AI Fluency + Keyword Reflection](ai-keywords)
+- Come prepared to discuss your keywords!
 "%}
-
 
 
 #### Wrap-up Discussion Topics
 - [Archival Silences Slides](slides/archival-silences/)
-- Keep in mind the difference between the past, history, and AI outputs.
+  - Keep in mind the difference between the past, history, and AI outputs.
+- How to do the peer review assignment 
 
 ##### Expertise + Authority
 - Can AI be directed to performn as a true expert?
 - Does "scholarly expertise" matter anymore? Is the value declining?
 - Does AI-assisted work count as "your" work?
 
-#### Education
+##### Education
 - How should academic assessment change?
 - When should AI use be disclosed? Always? Sometimes? Never?
 - What should students know about AI when they graduate?
 - What should UNM provide to you in terms of AI (access, education, workshops, etc)
 
-#### Critical Thinking with AI
+##### Critical Thinking with AI
 - Return to the course's driving question: How can AI help us think more critically, develop skills, and produce higher-quality work?
 - What has your experience been?
 - What's most important for student practice?
 
 
+#### One last thing
+- Concluding Big Points slides
 
 
 ### 7.2: No Class! 
 
 {% include alert.html class='danger' title='Peer Critiques Due' text="
-No class, but you have an asignment due! Post to the Canvas assignment 'Peer Review' a review of your assigned essay:
+No class, but you have an asignment due! Post a review of your assigned essay to the Canvas discussion board, under the discussion 'Peer Review'
 - What's the story?
 - How does it establish credibility?
 - Does it sound human?

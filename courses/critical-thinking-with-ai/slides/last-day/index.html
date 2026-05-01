@@ -1,0 +1,521 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<title>Last Day &mdash; Critical Thinking with AI</title>
+
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reset.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reveal.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/theme/black.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+
+		<style>
+			:root {
+				--ts-bg: #0d1412;
+				--ts-text: #e6ece4;
+				--ts-text-muted: #9fb1a3;
+				--ts-border: #22302b;
+				--ts-heading-1: #a8c686;
+				--ts-heading-2: #6fb3a0;
+				--ts-heading-3: #d9b26a;
+				--ts-accent: #d9b26a;
+			}
+
+			html, body, .reveal { background: var(--ts-bg); }
+
+			.reveal {
+				font-family: 'Inter', system-ui, sans-serif;
+				color: var(--ts-text);
+			}
+
+			.reveal .slides { text-align: left; }
+
+			.reveal .eyebrow {
+				font-family: 'JetBrains Mono', monospace;
+				text-transform: uppercase;
+				letter-spacing: 0.18em;
+				font-size: 0.5em;
+				color: var(--ts-heading-3);
+				margin: 0 0 0.9rem 0;
+			}
+
+			.reveal .main-point {
+				font-family: 'Fraunces', Georgia, serif;
+				font-size: 1.15em;
+				line-height: 1.1;
+				font-weight: 600;
+				color: var(--ts-heading-1);
+				margin: 0 0 0.4em 0;
+				letter-spacing: -0.015em;
+				text-wrap: balance;
+				font-style: italic;
+			}
+
+			.reveal .detail {
+				font-size: 0.75em;
+				line-height: 1.5;
+				color: var(--ts-text-muted);
+				margin: 0;
+				font-weight: 400;
+			}
+
+			.reveal .detail strong { color: var(--ts-text); font-weight: 600; }
+			.reveal .detail em { color: var(--ts-heading-3); font-style: italic; }
+
+			.reveal .rule {
+				height: 1px;
+				width: 140px;
+				margin: 0.5em 0;
+				background: linear-gradient(90deg, var(--ts-heading-2) 0%, var(--ts-accent) 60%, transparent 100%);
+			}
+
+			.reveal .cards {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 0.7em;
+				margin-top: 0.8em;
+			}
+
+			.reveal .card {
+				border-top: 2px solid var(--ts-heading-2);
+				padding: 0.4em 0 0 0;
+			}
+
+			.reveal .card .num {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				color: var(--ts-heading-3);
+				letter-spacing: 0.15em;
+				display: block;
+				margin-bottom: 0.3em;
+			}
+
+			.reveal .card h4 {
+				font-family: 'Fraunces', Georgia, serif;
+				font-style: italic;
+				font-size: 0.7em;
+				color: var(--ts-heading-1);
+				margin: 0 0 0.2em 0;
+				font-weight: 600;
+			}
+
+			.reveal .card p {
+				font-size: 0.45em;
+				line-height: 1.5;
+				color: var(--ts-text-muted);
+				margin: 0;
+			}
+
+			.reveal .pull-quote {
+				font-family: 'Fraunces', Georgia, serif;
+				font-style: italic;
+				font-size: 0.75em;
+				color: var(--ts-heading-3);
+				border-left: 2px solid var(--ts-accent);
+				padding-left: 0.8em;
+				margin: 0.8em 0 0 0;
+				line-height: 1.4;
+			}
+
+			.reveal .reveal-block {
+				margin-top: 0.55em;
+				padding: 0.35em 0 0.35em 0.7em;
+				border-left: 1px solid var(--ts-border);
+			}
+
+			.reveal .reveal-block .label {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				text-transform: uppercase;
+				letter-spacing: 0.18em;
+				color: var(--ts-heading-3);
+				display: block;
+				margin-bottom: 0.35em;
+			}
+
+			.reveal .reveal-block p {
+				font-size: 0.58em;
+				line-height: 1.45;
+				color: var(--ts-text-muted);
+				margin: 0;
+			}
+
+			.reveal .reveal-block p strong { color: var(--ts-text); font-weight: 600; }
+			.reveal .reveal-block p em { color: var(--ts-heading-3); font-style: italic; }
+
+			.reveal .reveal-block.argument { border-left-color: var(--ts-heading-2); }
+			.reveal .reveal-block.historical { border-left-color: var(--ts-accent); }
+
+			.reveal .parallel {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 1em;
+				margin-top: 0.6em;
+			}
+
+			.reveal .parallel .track {
+				border-top: 2px solid var(--ts-heading-2);
+				padding-top: 0.45em;
+			}
+
+			.reveal .parallel .track.ai { border-top-color: var(--ts-accent); }
+
+			.reveal .parallel .track h5 {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.4em;
+				letter-spacing: 0.16em;
+				text-transform: uppercase;
+				color: var(--ts-heading-3);
+				margin: 0 0 0.35em 0;
+			}
+
+			.reveal .parallel .track p {
+				font-size: 0.52em;
+				line-height: 1.45;
+				color: var(--ts-text-muted);
+				margin: 0;
+			}
+
+			.reveal .parallel .track p strong { color: var(--ts-text); font-weight: 600; }
+
+			.reveal ul.questions {
+				margin: 0.8em 0 0 0;
+				padding: 0;
+				list-style: none;
+				font-family: 'Fraunces', Georgia, serif;
+				font-style: italic;
+				font-size: 0.62em;
+				line-height: 1.5;
+				color: var(--ts-text);
+			}
+
+			.reveal ul.questions li {
+				padding: 0.35em 0 0.35em 1.4em;
+				border-bottom: 1px dashed var(--ts-border);
+				position: relative;
+			}
+
+			.reveal ul.questions li:last-child { border-bottom: 0; }
+
+			.reveal ul.questions li::before {
+				content: "?";
+				position: absolute;
+				left: 0;
+				top: 0.3em;
+				font-family: 'JetBrains Mono', monospace;
+				font-style: normal;
+				color: var(--ts-heading-3);
+				font-size: 0.9em;
+				letter-spacing: 0;
+			}
+		</style>
+
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? '/assets/vendor/reveal.js-3.8.0/css/print/pdf.css' : '/assets/vendor/reveal.js-3.8.0/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+
+				<!-- ========== TITLE ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Critical Thinking with AI &bull; Hist 300 &bull; Last Day</p>
+					<h1 class="main-point">What was this course, actually?</h1>
+					<div class="rule"></div>
+					<p class="detail">
+						A semester of readings, dialogues, prompts, broken builds, and one stubborn question:
+						<strong>how do we know what we know &mdash; and what changes when a machine starts &ldquo;knowing&rdquo; too?</strong>
+					</p>
+				</section>
+
+				<!-- ========== SLIDE 1 ========== -->
+				<section>
+					<p class="eyebrow">Slide 01 &middot; The Course in One Sentence</p>
+					<h2 class="main-point">Every reading we did was the same question wearing a different costume.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">The Question</span>
+						<p>
+							<em>Whose word counts &mdash; and why?</em> Plato asked it about writing.
+							The Royal Society asked it about strangers. Johns asked it about printers.
+							Trouillot asked it about archives. We asked it about chatbots.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">The Trick</span>
+						<p>
+							The trick is to <strong>recognize the question</strong> when it shows up in a new costume.
+							If you can do that &mdash; you can read AI like a historian, not like a tourist.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 2 ========== -->
+				<section>
+					<p class="eyebrow">Slide 02 &middot; Old Questions, New Costume</p>
+					<h2 class="main-point">AI didn&rsquo;t invent the trust problem. It just made it impossible to ignore again.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">The Greatest Hits</span>
+						<p>
+							Plato: <em>writing will erode memory.</em><br>
+							Bacon: <em>don&rsquo;t trust books, trust your eyes.</em><br>
+							Shapin: <em>science runs on the gentleman&rsquo;s word.</em><br>
+							Johns: <em>fixity is a social achievement.</em><br>
+							Postman / Nichols: <em>the kids can&rsquo;t tell experts from posters.</em>
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">The Punchline</span>
+						<p>
+							Every new information machine triggers the same panic &mdash; and the same scramble
+							to figure out <strong>who gets to be a source</strong>. AI is the latest installment.
+							Not the first. Not the last.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 3 ========== -->
+				<section>
+					<p class="eyebrow">Slide 03 &middot; What the History Actually Taught</p>
+					<h2 class="main-point">Trust machines are built by people &mdash; and they break the same way every time.</h2>
+					<div class="rule"></div>
+
+					<div class="parallel fragment">
+						<div class="track">
+							<h5>Printing Press (Johns)</h5>
+							<p>
+								Two copies of a book aren&rsquo;t reliably identical. <strong>Fixity is social labor</strong>,
+								not a feature of the press.
+							</p>
+						</div>
+						<div class="track">
+							<h5>Science Networks (Shapin)</h5>
+							<p>
+								Most of what scientists &ldquo;saw&rdquo; they got by mail. <strong>Credibility</strong>
+								was anchored in the gentleman, not in the data.
+							</p>
+						</div>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">The Pattern</span>
+						<p>
+							Whenever &ldquo;objectivity&rdquo; looks effortless, somebody is doing a lot of
+							<strong>invisible work</strong> upstream. That is also true of your favorite model.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 4 ========== -->
+				<section>
+					<p class="eyebrow">Slide 04 &middot; New Questions Only AI Raises</p>
+					<h2 class="main-point">Some of these problems really are new. We need a new vocabulary.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Genuinely New</span>
+						<p>
+							A sentence with <strong>no author</strong>. A &ldquo;source&rdquo; that is the average of a
+							scraped continent. <strong>RLHF</strong> as an invisible authority. Bias not at the level of
+							a single bigot but baked into a corpus. Fluency that <em>increases</em> as grounding decreases.
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Why It Matters</span>
+						<p>
+							You can&rsquo;t critique what you can&rsquo;t name. Half the work this semester was
+							<strong>vocabulary acquisition</strong>: stochastic parrot, jagged frontier, hallucination,
+							hybrid fact, archival silence. Use the words. They earn their keep.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 5 ========== -->
+				<section>
+					<p class="eyebrow">Slide 05 &middot; The Expertise Question</p>
+					<h2 class="main-point">AI raises the bar for expertise &mdash; not by replacing it, but by industrializing the fakes.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Beer-Mat vs. Real</span>
+						<p>
+							Postman and Nichols were already worried about <em>beer-mat expertise</em> &mdash;
+							knowing just enough trivia to sound smart at the bar. AI didn&rsquo;t cause that. It just
+							<strong>industrialized it</strong>.
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">What Survives</span>
+						<p>
+							The expertise that survives looks more, not less, like the kind we read about all semester:
+							<strong>slow, social, situated, accountable</strong>. The kind a model can imitate
+							at the surface and not at all underneath.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 6 ========== -->
+				<section>
+					<p class="eyebrow">Slide 06 &middot; Why We Made You Build a Website</p>
+					<h2 class="main-point">A different part of your brain has to wake up when the build fails.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">The Reason</span>
+						<p>
+							Reading and writing essays uses one circuit. Editing YAML, fixing a broken link,
+							pushing to GitHub uses a totally different one &mdash; closer to <strong>fixing a bike</strong>
+							than writing a paragraph.
+						</p>
+					</div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">Why It Mattered</span>
+						<p>
+							AI is happiest in the <em>easy mode</em> &mdash; where everything is text and everything
+							is plausible. The build either works or it doesn&rsquo;t. There is no &ldquo;sounds about
+							right&rdquo; in a missing semicolon. The friction was the <strong>point</strong>.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 7 ========== -->
+				<section>
+					<p class="eyebrow">Slide 07 &middot; The Discomfort Was the Point</p>
+					<h2 class="main-point">If nothing broke, nothing was learned.</h2>
+					<div class="rule"></div>
+
+					<div class="reveal-block historical fragment">
+						<span class="label">What You Probably Noticed</span>
+						<p>
+							The first time the site failed to deploy was probably the first time you really understood
+							what files <em>do</em>. The first time AI got it wrong was probably the first time you noticed
+							your <strong>own reasoning</strong>. Both of these are gifts disguised as bugs.
+						</p>
+					</div>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">Translation</span>
+						<p>
+							Comfort is the enemy of skill. <em>Don&rsquo;t bring a forklift to the weight room.</em>
+							You came here to lift.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 8 ========== -->
+				<section>
+					<p class="eyebrow">Slide 08 &middot; The Driving Question, Revisited</p>
+					<h2 class="main-point">Did AI help us think more critically &mdash; or did the course just use AI as bait?</h2>
+					<div class="rule"></div>
+
+					<p class="pull-quote fragment">
+						&ldquo;How can AI help us think more critically, develop skills, and produce
+						higher-quality work than we could without it?&rdquo;
+					</p>
+
+					<div class="reveal-block argument fragment">
+						<span class="label">My Answer (Tentative)</span>
+						<p>
+							Both. AI is most useful when it gives you <strong>better questions</strong>, not better answers
+							&mdash; and you only know it&rsquo;s a better question if you brought your own.
+							The course is the place to practice bringing your own.
+						</p>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 9 ========== -->
+				<section>
+					<p class="eyebrow">Slide 09 &middot; Habits Worth Keeping</p>
+					<h2 class="main-point">Four moves &mdash; one for each ghost from the syllabus.</h2>
+					<div class="cards">
+						<div class="card fragment">
+							<span class="num">Shapin</span>
+							<h4>Triangulate</h4>
+							<p>Don&rsquo;t take any single source&rsquo;s word for it &mdash; not the model&rsquo;s, not the textbook&rsquo;s, not mine.</p>
+						</div>
+						<div class="card fragment">
+							<span class="num">Trouillot</span>
+							<h4>Notice fluency</h4>
+							<p>The smoother the answer, the more it has hidden. Smoothness is a clue, not a virtue.</p>
+						</div>
+						<div class="card fragment">
+							<span class="num">Johns &amp; Crawford</span>
+							<h4>Ask &ldquo;from where?&rdquo;</h4>
+							<p>Every claim has an address &mdash; a printer, an archive, a server farm, a labeler in Nairobi.</p>
+						</div>
+						<div class="card fragment">
+							<span class="num">This Course</span>
+							<h4>Show your work</h4>
+							<p>The artifact isn&rsquo;t the value. The process is. AI raises the bar for proving the process is yours.</p>
+						</div>
+					</div>
+				</section>
+
+				<!-- ========== SLIDE 10 ========== -->
+				<section>
+					<p class="eyebrow">Slide 10 &middot; Questions Worth Keeping</p>
+					<h2 class="main-point">More questions than answers &mdash; on purpose.</h2>
+					<div class="rule"></div>
+
+					<ul class="questions">
+						<li class="fragment">When you trust an AI answer, which <em>Stationer</em> are you really trusting?</li>
+						<li class="fragment">What is <em>literally unthinkable</em> to your favorite model?</li>
+						<li class="fragment">What goes silent when the prose gets fluent?</li>
+						<li class="fragment">What does it mean to be the <em>author</em> of an AI-assisted thing?</li>
+						<li class="fragment">What kind of expertise is worth your next four years?</li>
+						<li class="fragment">Which of these questions will still be the right question in 2030?</li>
+					</ul>
+				</section>
+
+				<!-- ========== CLOSING ========== -->
+				<section>
+					<p class="eyebrow">The Hope</p>
+					<h2 class="main-point">The course wasn&rsquo;t about AI. It was about giving you tools to keep evaluating it after it changes.</h2>
+					<div class="rule"></div>
+					<p class="pull-quote fragment">
+						AI in two years will be unrecognizable. <em>The questions won&rsquo;t.</em>
+						If you walk out asking better ones &mdash; out loud, in writing, of yourself, of the model &mdash;
+						the course did its job.
+					</p>
+					<p class="detail" style="margin-top: 1em;">
+						Thanks for the semester. Now go break something on purpose.
+					</p>
+				</section>
+
+			</div>
+		</div>
+
+		<script src="/assets/vendor/reveal.js-3.8.0/js/reveal.js"></script>
+		<script>
+			Reveal.initialize({
+				hash: true,
+				controlsTutorial: false,
+				progress: true,
+				center: true,
+				width: 960,
+				height: 700,
+				margin: 0.08,
+				dependencies: [
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/markdown/marked.js' },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/markdown/markdown.js' },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/notes/notes.js', async: true },
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/highlight/highlight.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>
