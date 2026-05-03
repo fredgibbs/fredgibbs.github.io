@@ -22,8 +22,7 @@ This page contains a list of important links that appear on various places on th
 - [OPTIONAL Reading Reflections](reading-reflections)
 - [Dialogue Remix](dialogue-remix)
 - [AI Assignment Design](ai-assignment)
-
-- [AI Fluency and Keywords Reflection](ai-fluency-keyword-reflection)
+- [AI Fluency and Keywords Reflection](ai-keywords)
 - [Final Course Reflection](final-course-reflection)
 
 ## Disruptive Expertise Guides
