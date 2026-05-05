@@ -311,15 +311,23 @@ Come to Mesa Vista Hall 2068 if you need any help or just want to work on your e
 ### 7.1: Conclusions
 
 {% include alert.html class='danger' title='AI Fluency and Keyword Reflection DUE TODAY' text="
-- [AI Fluency + Keyword Reflection](ai-keywords)
+- [AI Keyword Reflection](ai-keywords)
 - Come prepared to discuss your keywords!
 "%}
 
-
-#### Wrap-up Discussion Topics
+#### Archival Silences and Structural Authority
 - [Archival Silences Slides](slides/archival-silences/)
-  - Keep in mind the difference between the past, history, and AI outputs.
+- Keep in mind the difference between the past, history, and AI outputs.
+
+#### Peer Review Assignment
 - How to do the peer review assignment 
+
+#### Final Course Reflections
+- [Final Reflection Guide](final-course-reflection)
+- Elevate!
+
+#### AI Keywords Discussion
+- What are the common words? Where are the most interesting unique ones?
 
 ##### Expertise + Authority
 - Can AI be directed to perform as a true expert?
