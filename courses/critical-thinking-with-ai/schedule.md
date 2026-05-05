@@ -322,8 +322,7 @@ Come to Mesa Vista Hall 2068 if you need any help or just want to work on your e
 - How to do the peer review assignment 
 
 ##### Expertise + Authority
-- Can AI be directed to performn as a true expert?
-- Does "scholarly expertise" matter anymore? Is the value declining?
+- Can AI be directed to perform as a true expert?
 - Does AI-assisted work count as "your" work?
 
 ##### Education
@@ -333,9 +332,8 @@ Come to Mesa Vista Hall 2068 if you need any help or just want to work on your e
 - What should UNM provide to you in terms of AI (access, education, workshops, etc)
 
 ##### Critical Thinking with AI
-- Return to the course's driving question: How can AI help us think more critically, develop skills, and produce higher-quality work?
+- How can AI help us think more critically, develop skills, and produce higher-quality work?
 - What has your experience been?
-- What's most important for student practice?
 
 
 #### One last thing
