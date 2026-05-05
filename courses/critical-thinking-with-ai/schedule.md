@@ -337,7 +337,7 @@ Come to Mesa Vista Hall 2068 if you need any help or just want to work on your e
 
 
 #### One last thing
-- Concluding Big Points slides
+- Concluding [Big Points slides](last-day)
 
 
 ### 7.2: No Class! 

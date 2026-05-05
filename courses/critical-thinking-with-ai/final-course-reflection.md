@@ -11,7 +11,6 @@ syllabus-theme: ai
 # Final Course Reflection
 Your final course reflection should be ~1000 words and cover the entire course. Your job is to describe your learning experience and reflect how the course has or has not met its learning objectives. 
 
-
 {% include alert.html class='info' title='Learning Objectives' text="
 * Understand how AI complicates ideas about thinking, knowledge, expertise
 * Develop sophisticated prompting skills as a form of question design, critical inquiry, source evaluation
@@ -20,13 +19,10 @@ Your final course reflection should be ~1000 words and cover the entire course. 
 * Use AI as a research partner while maintaining academic honesty, intellectual agency and interpretive judgment
 "%}
 
-
-
-
 ## Tips for success
 
 ### Don't summarize the course
-Describing what you learned means describing what's now different in your thinking about major themes of the course--AI (obviously), expertise, authority, critical thinking, humanities, technological determinism, etc. If you didn't learn anything, I'm sorry I failed you. But _please explain why_ you didn't learn anything--then I still know you were putting in effort and I can understand how to improve.
+Describing what you learned means describing what's now different in your thinking about major themes of the course--AI (obviously), expertise, authority, critical thinking, humanities, technological determinism, etc. If you didn't learn anything, I'm sorry I failed you. But _please explain why_ you didn't learn anything. Then I still know you were putting in effort and I can understand how to improve.
 
 
 ### Be specific
@@ -34,15 +30,18 @@ This is what separates excellent from mediocre reflections. To say that "I learn
 
 
 ### Think holistically
-The more you can tie themes together and speak about the course as a whole (while giving specific examples from the readings), the higher your score will be. But I expect you to go beyond these as well to reflect on the course as a whole.
+The more you can tie themes together and speak about the course as a whole (while giving specific examples from the readings), the higher your score will be. But I expect you to go beyond these as well to reflect on the course as a whole. I think there are many different and productive ways to link the readings and discussions together, so don't worry that there's some "right" answer I'm looking for.
 
 ### Your experience is YOURS
-There's no right answer, oviously. This is an opinion aspect of the final, that asks you to describe what you were interested in, or not, and what kinds of topics or reeadings resonated with you, or didn't.  It's just another angle to show me how you engaged with the course.
+To describe YOUR experience is obviously an opinion aspect of the final. Describe what you were interested in, or not, and what kinds of topics or reeadings resonated with you, or didn't.  It's just another angle to show me how you engaged with the course.
 
 ### Don't sound like AI
 You are welcome to use AI for your final as much as you want. Hpefully you feel equipped to produce something beyond what you can do without it. But you must do it ethically and with academic integrity.
 
-Whether you use it or not, remember it is course policy that it is your responsibility to **differentiate yourself from an AI-generated response**. This is super easy if you've actually done any work for the course. In case you haven't discovered it for yourself, AI cannot yet write very convincingly about human experiences (it sounds super fake, even if it's getting better). If your response sounds like AI, I can only assume you didn't put in much effort to your reflection or didn't learn much in the course. 
+Whether you use it or not, remember it is course policy that it is your responsibility to **differentiate yourself from an AI-generated response**. This is super easy if you've actually done any work for the course. In case you haven't discovered it for yourself, AI cannot yet write very convincingly about human experiences (it sounds super fake, even if it's getting better). If your response sounds like AI, I can only assume you didn't put in much effort to your reflection or didn't learn much in the course.
+
+### Product over process
+I want the best possible reflections you can produce, and I don't care how you make them. This is not an assignment like the others where I wanted to see your thinking behind the exercise to assess learning. In this case, you get a good, coherent essay free with even a basic prompt. The bar is raised. You're getting graded on the quality of the ideas and how they relate to the course.
 
 
 ### Ask for help or clarification
