@@ -320,7 +320,7 @@ Come to Mesa Vista Hall 2068 if you need any help or just want to work on your e
 - Keep in mind the difference between the past, history, and AI outputs.
 
 #### Peer Review Assignment
-- How to do the peer review assignment 
+- How to do the [peer review assignment](disruptive-expertise-peer-review) 
 
 #### Final Course Reflections
 - [Final Reflection Guide](final-course-reflection)
