@@ -352,7 +352,7 @@ Come to Mesa Vista Hall 2068 if you need any help or just want to work on your e
 
 {% include alert.html class='danger' title='Peer Critiques Due' text="
 No class today, but you have an asignment due! Post a review of an essay that hasn't already been reviewed to the Canvas discussion board (the Peer Review discussion).
-- Review the [assignment guide](disruptive-expertise-peer-review)
+- Review the [peer review guide](disruptive-expertise-peer-review)
 - What's the story?
 - How does it establish credibility?
 - Does it sound human?
