@@ -345,32 +345,34 @@ Come to Mesa Vista Hall 2068 if you need any help or just want to work on your e
 
 
 #### One last thing
-- Concluding [Big Points slides](last-day)
+- Concluding [Big Points slides](slides/last-day)
 
 
 ### 7.2: No Class! 
 
 {% include alert.html class='danger' title='Peer Critiques Due' text="
-No class, but you have an asignment due! Post a review of your assigned essay to the Canvas discussion board, under the discussion 'Peer Review'
+No class today, but you have an asignment due! Post a review of an essay that hasn't already been reviewed to the Canvas discussion board (the Peer Review discussion).
+- Review the [assignment guide](disruptive-expertise-peer-review)
 - What's the story?
 - How does it establish credibility?
 - Does it sound human?
 - What should be some targeted improvements?
-- Is AI use honestly documented? (we can all tell at this point)
+- Is AI use honestly documented? (we can all tell at this point!)
 "%}
 
 
 
 ## FINALS week
+{% include alert.html class='warning' title='Get help!' text="
+Amaranth Studio Hours are 9:30 -- 11 and 12:30 -- 2 on Tuesday and Thursday, and 10 -- 12 Wednesday. Drop by for any help you need! 
+"%}
+
 {% include alert.html class='danger' title='Final reflection' text="
 - [Final Course reflection](final-course-reflection)
 - NOTE: The more CONSTRUCTIVE criticism you provide (i.e. what to do differently and why), the higher your grade. I'm not fishing for compliments; I'm fishing for substantive suggestions.
 "%}
 
 {% include alert.html class='danger' title='Make your pull request!' text="
-Once you are **completely** done, follow the [submission guide](disruptive-expertise-submitting) for your [Expertise Disruptions](disruptive-expertise-guide)!
+Once you are **completely** done with your [Expertise Disruptions](disruptive-expertise-guide) essay, follow the [submission guide](disruptive-expertise-submitting). There's nothing to post on canvas (although I have a slot there to record your grade).
 "%}
 
-{% include alert.html class='warning' title='Get everything in' text="
-I'm pretty flexible if you're making a real effort. You're welcome to turn in any work late, but make sure it's good.
-"%}
