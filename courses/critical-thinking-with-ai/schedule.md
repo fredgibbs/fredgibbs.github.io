@@ -364,7 +364,7 @@ No class today, but you have an asignment due! Post a review of an essay that ha
 
 ## FINALS week
 {% include alert.html class='warning' title='Get help!' text="
-Amaranth Studio Hours are 9:30 -- 11 and 12:30 -- 2 on Tuesday and Thursday, and 10 -- 12 Wednesday. Drop by for any help you need! 
+Amaranth Studio Hours are 9:30 -- 11 and 12:30 -- 2 on Tuesday and Thursday, and 10 -- 12 Wednesday. Drop by for any help you need!  2068 Mesa Vista. Enter the building directly across from the main SUB entrace and you'll be close.
 "%}
 
 {% include alert.html class='danger' title='Final reflection' text="
