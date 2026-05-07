@@ -1,6 +1,7 @@
 ---
 layout: default
 title: posters | fred gibbs
+permalink: /portfolio/flyers/
 ---
 
 # Poster Gallery
