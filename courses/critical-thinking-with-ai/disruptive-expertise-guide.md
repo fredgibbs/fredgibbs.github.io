@@ -139,7 +139,7 @@ Your reflection should consider both the **benefits and limitations** of AI as a
 
 
 ## Due Date
-May 8 (the last day of finals)
+May 15 (the last day of finals)
 
 ## Questions
 Coursework is frustrating and virtually impossible to do well when you're not sure what to do or how to do it. Please reach out if something's not clear! 
