@@ -92,7 +92,7 @@ We use a tool called [Zotero](http://zotero.org) to organize and provide access 
 * [Dialogue remix](dialogue-remix) (15%)
 * [AI Assignment Design](ai-assignment) (15%)
 * [Disruptive Expertise](disruptive-expertise) Contribution (15%)
-* [AI Fluency and Keywords](ai-fluency-keyword-reflection) (15%)
+* [AI Fluency and Keywords](ai-keywords) (15%)
 * [Final Course Reflection](final-course-reflection) (15%)
 
 <div class="alert alert-warning" role="alert">

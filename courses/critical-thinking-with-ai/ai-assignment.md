@@ -8,8 +8,10 @@ section: links-guides
 
 # Designing an AI-Assisted Assignment
 
+Teaching something is the fastest way to expose what you don't actually understand about it. This assignment makes that process visible by putting you in the instructor's seat — you'll design a learning exercise that forces you to think at a meta-level about what AI can and can't do for genuine learning (not just answer-generation).
+
 ## Overview
-For this assignment you are a teaching trying to get your students to learn with AI. You need to design a short learning exercise that helps students (your colleagues in this class) use AI to learn something you previously struggled to understand. 
+For this assignment you are a teacher trying to get your students to learn with AI. You need to design a short learning exercise that helps students (your colleagues in this class) use AI to learn something you previously struggled to understand. 
 
 The topic should come from a class you have taken (or are currently taking). It might be a concept, skill, or type of problem that you never fully understood the first time around.
 
