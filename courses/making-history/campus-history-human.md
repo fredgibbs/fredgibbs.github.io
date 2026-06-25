@@ -9,7 +9,8 @@ section: links-guides
 
 # Campus History — Part 2: Archive Visit and Web Page
 
-This is **Part 2** of a two-part project. You've already completed the AI draft and critique in [Part 1](campus-history-ai). Now you go to the actual archive to find what the historical record really says, write a short web page for the [UNM Campus History](https://campushistory.unm.edu) site, and submit a reflection comparing what the AI told you to what you actually found.
+This is **Part 2** of a two-part project. 
+You've already completed the AI draft and critique in [Part 1](campus-history-ai). Now you go to the actual archive to find what the historical record really says, write a short web page for the [UNM Campus History](https://campushistory.unm.edu) site, and submit a reflection comparing what the AI told you to what you actually found.
 
 Bring your Part 1 notes — especially your list of specific claims to verify.
 
@@ -30,7 +31,7 @@ The Center for Southwest Research is in Zimmerman Library. Enter through the mai
 ### Getting started
 - Bring a **pencil** (pens are not allowed), your phone for photos, and your Part 1 notes.
 - Store your bag in the lockers at the service kiosk — staff will give you a key.
-- Check in at the reference desk, tell the librarian you're researching your topic for a history class, and ask for their guidance. They are genuinely helpful and expect students.
+- Check in at the reference desk, tell the librarian you're researching your topic for a history class, and ask for their guidance. They're used to helping students with exactly this, and are genuinely glad to do it.
 
 ### Published UNM campus histories (reference shelf)
 Start here to orient yourself before requesting archival boxes:
@@ -80,7 +81,7 @@ At the end of your web page, include a section of **~200 words** that directly c
 
 - What did the AI get right? Give a specific example.
 - What did the AI get wrong, fabricate, or miss entirely? Give a specific example.
-- What did the AI simply *can't* know — evidence that exists only in the physical archive and has never been digitized?
+- What can the AI simply never know — evidence that exists only in the physical archive and has never been digitized?
 - What does this experience tell you about the limits of AI as a historical research tool?
 
 This section is what ties the two parts of the project together. It's also the most direct illustration of what the course has been arguing all semester about evidence, silencing, and who gets to make history.
@@ -112,9 +113,6 @@ The grade distinction comes down to how seriously you engaged with the archive a
 - **F** — missing major components
 
 ---
-
-## Due Date
-Last day of finals.
 
 ## Questions
 Reach out if anything is unclear — especially before your CSWR visit. A quick conversation can save a lot of confusion in the reading room.

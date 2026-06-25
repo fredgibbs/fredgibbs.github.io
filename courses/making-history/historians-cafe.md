@@ -60,7 +60,7 @@ Before you prompt anything, write a short description of each character. Include
 
 ## Step 2: Draft the dialogue
 
-Give AI the full context before you paste in your characters. Helpful framing gets better results.
+Give AI the full context before you paste in your characters — the more you frame the task, the better the result.
 
 **Prompt:**
 > I'm writing a dialogue between three historians who disagree about [YOUR QUESTION]. Each represents a different historiographical approach. The goal is to show how different methodological assumptions lead to different interpretations of the same evidence. Here are my three characters:
@@ -73,12 +73,12 @@ Give AI the full context before you paste in your characters. Helpful framing ge
 
 ## Step 3: Evaluate for stereotyping
 
-This is the most important part. Read the dialogue AI produced and ask yourself honestly whether it understood what you asked, or whether it just played dress-up with labels.
+This is the most important part. Read the dialogue AI produced and ask yourself whether it understood what you asked, or whether it just played dress-up with labels.
 
 **Questions to guide your evaluation:**
-- Does the "Marxist historian" actually make a materialist argument about class and economic structure — or does she just say "capitalism is bad" and move on?
-- Are the characters engaging with each other's *claims*, or just repeating their own positions louder?
-- Could you find a real passage from a course reading that supports what each character says — or is AI making up a position that doesn't exist?
+- Does the "Marxist historian" actually make a materialist argument about class and economic structure with historical examples — or does she just say "capitalism is bad"?
+- Are the characters engaging with each other's *claims*, or just repeating their own positions?
+- Could you find a real passage from a course reading that supports what each character says — or is AI making up or misconstruing a position?
 - Is any character more like a parody than a real intellectual tradition?
 
 **Write 3–5 sentences evaluating the dialogue.** Be specific: quote a line that seems like a *genuine* representation of an approach, and quote a line that seems like a *caricature*. Explain why you see each that way.
@@ -99,7 +99,7 @@ Keep revising until each character has a position you could defend in class — 
 
 ## What I'm looking for
 
-I grade this primarily on your **evaluation** (Step 3) and the quality of your character descriptions (Step 1) — not on how good the AI dialogue turned out. A polished dialogue you accepted uncritically is worth less than a mediocre one with a sharp, specific evaluation.
+I grade this primarily on your **evaluation** (Step 3) and the quality of your character descriptions (Step 1) — not on how "good" the AI dialogue turned out, although that puts me in a better mood for grading. A polished dialogue you accepted uncritically is worth less than a mediocre one with a sharp, specific evaluation.
 
 **What matters most:**
 - Your character descriptions show you understand the *difference* between approaches, not just their names — you can say what evidence each historian values and why
@@ -122,7 +122,7 @@ Post **both** to the discussion board:
 1. Your final dialogue
 2. Your stereotyping evaluation from Step 3
 
-Before class, read two other students' dialogues and be ready to say: which historian in their conversation made the most convincing argument, and why?
+Before class, read two other students' dialogues and come ready to say which historian in their conversation made the most convincing argument, and why.
 
 And make sure the formatting is readable. One giant block of unformatted text earns a zero.
 

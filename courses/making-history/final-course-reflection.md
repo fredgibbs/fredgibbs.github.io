@@ -47,7 +47,7 @@ The last unit of the course argued that history isn't just in textbooks and arch
 - Has anything you've encountered since the course started — a news story, a political debate, a movie, a family conversation — struck you as a case study in one of the course's themes?
 
 
-## How I grade this
+## What I'm looking for
 
 I grade the final reflection primarily on **effort and honest engagement with the spirit of the assignment**, not on writing quality or whether you covered the "right" topics. Two students can write excellent reflections about completely different parts of the course.
 
@@ -63,12 +63,12 @@ If you engaged honestly with this course — even when it confused you, even whe
 ## Tips for success
 
 ### Don't summarize the course
-Describing what you learned means describing what's now *different* in your thinking about major themes of the course — how history is constructed, how silencing works, what counts as evidence, why historians fight about interpretation, how public memory differs from scholarly history. If you didn't learn anything, please explain why — then I can at least see you were engaging honestly.
+Telling me what you learned means describing what's now *different* in your thinking about major themes of the course — how history is constructed, how silencing works, what counts as evidence, why historians fight about interpretation, how public memory differs from scholarly history. If you didn't learn anything, please explain why — then I can at least see you were engaging honestly.
 
 ### Be specific
 This is what separates excellent from mediocre reflections. Saying "I learned that history is more complicated than I thought" is fine only if you back it up with specific examples from readings, discussions, or assignments. Vague statements without examples tell me you didn't engage deeply — even if you did.
 
-### Think holistically
+### Connect the dots
 The more you can connect themes across the semester — say, linking Trouillot's silencing framework (Week 5) to the 1619 Project debate (Week 10) to your campus history project — the higher your score. I'm looking for evidence that the course built on itself in your mind, not just a list of topics.
 
 ### Your experience is YOURS

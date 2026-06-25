@@ -9,14 +9,32 @@ section: home
 
 # Schedule of Readings & Activities
 
+
+{% include alert.html class='warning' title='This is a working DRAFT!' text="
+This is not the final syllabus, but a preview for anyone who is curious about what the course is about. The general contours and topics are mostly set. 
+
+You'll see there are many readings listed for each day, but most of these are for reference or special assignments and does not reflect the actual, and fairly light, required reading load. "
+%}
+
+
+
 ## General Info
 
 * Regular bullet points listed under each session indicate what you should READ BEFORE CLASS
 * Readings are listed in the order that I think works best
-* All readings are available online or through Zotero
-* 📗 = secondary overview — modern scholars explaining the topic; skim for context and orientation before engaging primary sources
-* 📜 = primary source — the actual historian or thinker being studied; read for style, argument, and flavor; reading questions guide what to look for
-* 📙 = advanced lecture reference — too demanding for independent gen-ed reading, but excellent on topic; cited in lecture; occasionally assigned as a directed exercise
+* ALL readings are available online or through Zotero
+
+
+{% include alert.html class='info' title='Icon Guide' text="
+📗 = secondary overview — modern scholars explaining the topic; skim for context and orientation before engaging primary sources
+
+📜 = primary source — the actual historian or thinker being studied; read for style, argument, and flavor; reading questions guide what to look for
+
+📙 = advanced reading and lecture reference — no need to read unless part of a special assignment
+"
+%}
+
+
 
 ---
 
@@ -272,18 +290,23 @@ Carr says historians choose which facts matter. Ranke says show it "as it actual
 Braudel zooms to centuries; Ginzburg zooms to one miller's trial. Marx explains everything through class; Davis explains identity through one impersonation case. You can't do both at once. What do you actually lose when you zoom in — and what do you lose when you zoom out? Is there a scale that's "right" for historical argument?
 
 
+{% include alert.html class='warning' title='Historians Café due' text="
+Your [Historians Café](historians-cafe) assignment is due by MIDNIGHT ON TUESDAY. I strongly suggest you *finish a draft before Tuesday's class*. Our review will help you refine it, but you'll get more out of the review having started the assignment already. 
+"%}
+
+
 
 ---
 
 ## Week 8:  Reflect and Rest
 
-### 8.1: Midterm Reflection Due
+### 8.1: Midterm Review
 
 {% include alert.html class='danger' title='Historians Café due' text="
-Submit your [Historians Café](historians-cafe) to Canvas before class. This is a 750-word check-in on your experience so far — not a test, but a genuine report on what's working and what isn't. Graded on completion, care, and honest effort.
+Submit your [Historians Café](historians-cafe) assginment BEFORE MIDNIGHT!
 "%}
 
-### 8.2:  Fall break. No Class. Nothing Due.
+### 8.2:  Fall break! No Class. Nothing Due.
 
 ---
 
@@ -350,9 +373,10 @@ The "linguistic turn" is the claim that since historians always use narrative, s
 
 
 ### 10.2: Campus History with AI
-- Readings TBD
+- Readings on AI and History TBD
 
-{% include alert.html class='info' title='Campus History Project — introduced today' text="
+{% include alert.html class='info' title='The Campus History Project' text="
+- We saw this at the beginning, but today we spend a bit more time on the [Campus History Project](https://amaranth.unm.edu/campus-history/)
 - We'll walk through the assignment in class. Read the [AI research guide](campus-history-ai) before our next meeting.
 - This assignment is due by class time next Thursday, when we discuss them and how to pair it with the archival research component.
 "%}
@@ -424,17 +448,7 @@ If history were just an academic exercise, controversies about it would stay in 
 
 
 {% include alert.html class='info' title='1619 Project Discussion Post' text="
-Write an **~800 word** post that addresses both of the following questions (roughly half your space for each):
-
-**1. What are the pros and cons of what the 1619 Project is trying to do?**
-Try to address both sides honestly, regardless of your own view of the project. What does it get right — as an argument, as a historiographical act, as a public intervention? What are its limitations or vulnerabilities? Draw on Hannah-Jones, Serwer, and Lowenthal.
-
-**2. How does this debate fit into the long history of historiography we've been studying?**
-This is the harder question — and the more interesting one. Where does the 1619 Project sit in the arc of the course? Which historiographical frameworks or thinkers we've read does it resemble, challenge, or extend? Your argument should be grounded in specific readings from across the semester, not just this week.
-
----
-
-There is no right answer to either question. But vague generalizations unsupported by the readings will not earn full credit. The more specifically you draw on the texts — Hannah-Jones alongside Trouillot, or Lowenthal alongside Ranke — the stronger your post will be.
+Post your response following the [1619 Project Discussion Post guide](1619-discussion-post).
 "%}
 
 

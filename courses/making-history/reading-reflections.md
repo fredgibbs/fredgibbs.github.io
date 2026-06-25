@@ -20,7 +20,7 @@ Also, think about what AI gives you when you ask it about a reading: a competent
 
 I'm looking for a specific insight, a connection nobody else made, an objection grounded in the course material, a judgment about what matters in the real world. 
 
-**To earn credit, you have to do more than AI would do.** Obviously "more" does not mean more words. It means more substance, more depth, more personal connection, more opinion, more reaction. A generic summary---the thing AI gives you by default (whehter you use it or not)---earns a zero because you can get that without thinking, and I need to see you thinking. 
+**To earn credit, you have to do more than AI would do.** Obviously "more" does not mean more words. It means more substance, more depth, more personal connection, more opinion, more reaction. A generic summary---the thing AI gives you by default (whether you use it or not)---earns a zero because you can get that without thinking, and I need to see you thinking. 
 
 There is no "correct" answer here, only more or less informed and thoughtful reflection. Everyone finds something different interesting in a reading; I want to see *yours*. I care less about what you think than the fact you legitimately tried.
 
@@ -35,7 +35,7 @@ These are some strategies that reliably take a reflection past generic. You don'
 - **Show your thinking, including the messy parts.** Where did the reading lose you? What did you have to look up to follow it? Where did you change your mind halfway through? Confusion and second thoughts are personal and granular in a way generic text never is—and they make your thinking visible, which is the whole point.
 - **Use a constraint.** Write the reflection as a note to the author. Make the strongest objection the author *failed* to anticipate. Explain why the reading matters to a skeptical roommate. Constraints break the summary reflex and are honestly more fun to write.
 
-Each of these requires something that lives *outside* the reading—a stance, a comparative perspective, your own confusion, a stance. Summary just echoes what's already on the page. Engagement should produce something new.
+Each of these requires something that lives *outside* the reading—a stance, a comparative perspective, your own confusion, a real-world example. Summary just echoes what's already on the page. Engagement produces something new.
 
 
 ## Grading
@@ -46,7 +46,7 @@ Each reflection is scored as:
 - **B** — interesting; adds value
 - **C** — some merit; has a shape
 - **D** — flat and generic
-- **F** - seemingly little effort
+- **F** — seemingly little effort
 
 I generally avoid plusses and minuses but you might get one occasionally. 
 

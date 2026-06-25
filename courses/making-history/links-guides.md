@@ -19,3 +19,12 @@ We use a tool called Zotero to manage PDFs of reading assignments apart from the
 Our `Zotero Group homepage` is [https://www.zotero.org/groups/2703269/making-history-unm](https://www.zotero.org/groups/2703269/making-history-unm). This link is best for joining the course Zotero Group.
 
 Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-history-unm/library](https://www.zotero.org/groups/2703269/making-history-unm/library). Once you are a member of our group, this link is best for accessing our Zotero Library.
+
+## Assignment Guides
+* [Reading Reflections](reading-reflections)
+* [Early Course Reflection](early-reflection)
+* [Historians Cafe Conversation](historians-cafe)
+* [Campus History via AI](campus-history-ai)
+* [Campus History Contribution and Reflection](campus-history-human)
+* [1619 Project Discussion Post](1619-discussion-post)
+* [Final Course Reflection](final-course-reflection)

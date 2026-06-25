@@ -11,9 +11,9 @@ section: home
 
 ## Logistics
 * Credit Hours: 3
-* Meetings: Tuesday & Thursday
+* Meetings: 11--12:15 Tuesday & Thursday
 * Student Hours: TBD
-* Office: TBD
+* Office: 1077 Mesa Vista
 
 
 ### Getting Started

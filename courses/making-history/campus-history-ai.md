@@ -9,7 +9,7 @@ section: links-guides
 
 # Campus History — Part 1: AI Draft and Critique
 
-This is **Part 1** of a two-part project. Here you generate an AI history of a UNM topic and write a short critique of it. Your critique becomes the basis for a class discussion — and the notes you take here go with you to the archive for [Part 2](campus-history-submission).
+This is **Part 1** of a two-part project. Here you generate an AI history of a UNM topic and write a short critique of it. Your critique becomes the basis for a class discussion — and the notes you take here go with you to the archive for [Part 2](campus-history-human).
 
 {% include alert.html class='success' title='Skills you are practicing' text="
 * **Source criticism** — evaluating a source by asking: who made it, for whom, in what context, and what does it leave out? You'll do this every time you encounter a historical claim in a news article, a political speech, or an AI summary.
@@ -63,12 +63,12 @@ This critique is short, but it's the heart of this assignment. It's asking you t
 
 ## What I'm looking for
 
-This is a short assignment graded on **engagement and honesty**, not on whether the AI draft is "accurate". What makes a strong critique:
+This is a short assignment graded on **engagement and honesty**, not on whether the AI draft turns out to be accurate. What makes a strong critique:
 
 - You quote **specific lines** from the AI draft — not just "it seemed vague" or "it made things up"
 - You identify at least one claim that seems checkable and at least one that seems impossible to verify without specialized knowledge
 - Your thinking is genuine even if uncertain: "I'm not sure if this is accurate but here's why it feels suspicious" is an excellent observation
-- You recognize the vagueness. Could what is said about your topic apply to just about any other one with some words swapped out?
+- You notice the vagueness: could this paragraph apply to almost any other topic if you swapped out a few words?
 
 There is no wrong answer here. What matters is the quality of your attention to the AI response.
 
@@ -84,6 +84,6 @@ There is no wrong answer here. What matters is the quality of your attention to 
 
 Post **both** to the discussion board before class:
 1. Your AI-generated draft (paste it in, unedited)
-2. Your 5--8 sentence critique
+2. Your 3–5 sentence critique
 
-We'll use these in class discussion before you go to the archive. Bring your notes — especially your list of specific claims to verify — to your CSWR visit for [Part 2](campus-history-submission).
+We'll use these in class discussion before you go to the archive. Bring your notes — especially your list of specific claims to verify — to your CSWR visit for [Part 2](campus-history-human).
