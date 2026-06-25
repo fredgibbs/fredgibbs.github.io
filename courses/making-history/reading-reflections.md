@@ -3,55 +3,56 @@ layout: syllabus
 course-title: Making History
 course-slug: making-history
 term: Fall 2026
-number: HIST 300-007
+number: HIST 1105
 ---
 
 # Reading Reflections
 
-## Introduction
-Often you will need to turn in a short reading response for a reading assignment. The syllabus makes it very clear what you need to do and when. These encourage everyone to stay on schedule and to read carefully enough to absorb the main ideas of the readings. 
+## Why these exist
+Reading is more than recognizing words. It's being able to ingest complex ideas, follow arguments, and evaluate evidence. It's about having an opinion about something you read. It's a difficult skill earned only through practice. Sometimes the practice is difficult and frustrating. That's when you're learning.
 
-In general, these are meant to be somewhat creative exercises to get you to compare and contrast different aspects of the reading and to give you a chance to riff on what you thought was most interesting about them (we all find different things interesting!). Sometimes I just ask you to restate a main point or answer a specific question or two.
+The point of the assignment isn't to produce a thing, it's to sharpen your mind. So please don't use AI with these, even though it's tempting. We have assignments in the course that use AI because using it well is a valuable skill in itself, but this one you should do on your own. Don't bring a forklift into the weight room.
 
-Whatever the prompt, there are two motivations for these reflections:
-1) encourage you to think critically about the readings
-2) allow you to show me that you're keeping up with the readings (and earn points!)
+Also, think about what AI gives you when you ask it about a reading: a competent, reasonable, completely generic response. The problem is that everyone can get the same thing, instantly, which means it's worth almost nothing. 
 
+
+## What I'm asking for
+
+I'm looking for a specific insight, a connection nobody else made, an objection grounded in the course material, a judgment about what matters in the real world. 
+
+**To earn credit, you have to do more than AI would do.** Obviously "more" does not mean more words. It means more substance, more depth, more personal connection, more opinion, more reaction. A generic summary---the thing AI gives you by default (whehter you use it or not)---earns a zero because you can get that without thinking, and I need to see you thinking. 
+
+There is no "correct" answer here, only more or less informed and thoughtful reflection. Everyone finds something different interesting in a reading; I want to see *yours*. I care less about what you think than the fact you legitimately tried.
+
+
+## How to do more
+
+These are some strategies that reliably take a reflection past generic. You don't need all of them—one done well is plenty. Reach for whichever fits the reading and your interests.
+
+- **Pick a fight.** We read to ENGAGE, not to agree. Find the one sentence or claim you most want to argue with, name it specifically, and say why it's wrong, incomplete, or sneaky. AI defaults to balanced both-sides mush; a real, grounded disagreement reads completely differently.
+- **Connect it across the course.** This whole class is about how history-making *changes*. Put this week's reading in the same room as an earlier one and stage the argument: how would last month's author react to this week's idea of what counts as evidence? The connection is yours to build.
+- **Anchor it to something real.** Take the week's concept and apply it to one specific thing in your own world—a monument you walked past, a TikTok explainer, a family story, an argument you had. AI can't invent your actual life. Specificity is the tell.
+- **Show your thinking, including the messy parts.** Where did the reading lose you? What did you have to look up to follow it? Where did you change your mind halfway through? Confusion and second thoughts are personal and granular in a way generic text never is—and they make your thinking visible, which is the whole point.
+- **Use a constraint.** Write the reflection as a note to the author. Make the strongest objection the author *failed* to anticipate. Explain why the reading matters to a skeptical roommate. Constraints break the summary reflex and are honestly more fun to write.
+
+Each of these requires something that lives *outside* the reading—a stance, a comparative perspective, your own confusion, a stance. Summary just echoes what's already on the page. Engagement should produce something new.
+
+
+## Grading
+
+Each reflection is scored as:
+
+- **A** — provocative; specific; human
+- **B** — interesting; adds value
+- **C** — some merit; has a shape
+- **D** — flat and generic
+- **F** - seemingly little effort
+
+I generally avoid plusses and minuses but you might get one occasionally. 
 
 ## Basics
-- **~250--300 words**: Write more or less as you need/want to per assignment, but don't be consistently too much above or below the target.
-- **Original thinking**: Avoid summarizing readings except to restate a point that you want to elaborate on.
-- **Specificity**: General statements are good ONLY when supported by examples from the readings. Otherwise it looks like you didn't read very carefully.
-- **Polished writing**: Don't try to sound like an academic, but your post shouldn't read like a text message, either. Overly informal posts will ultimately lower your grade by 1/3 to 2/3 grade (A to B+, for instance).
-- **Posted ON TIME at UNM Learn**: ON TIME means by MIDNIGHT on the due date. As explained on the main syllabus page, you can occasionally turn work in up to two days late for full credit, but that's it. After that, you will get a zero. Too much leeway with assignments creates too much temptation to let them slide, and then they aren't effective and serve only to create busywork.
 
-
-## Objective
-**The main point of these reflections is to show your familiarity with the readings and make clear the work you have put into the course.** You might use AI to genereate your drafts, or you may prefer the process of thinking through everything on your own. The question is, and what I'm looking for: how good can you make them? 
-
-**There is no such thing as a "correct" answer---only more or less informed and deep reflections.** To get any points, it has to be obvious to me how you're going beyond providing a generic summary. 
-
-
-## Grading considerations
-Each reflection you submit will be graded as:
-.66: provocative; highlights nuance
-.44: interesting; adds value
-.22: some merit; shapely
-.00: uninteresting (= flat and generic)
-
-
-At the end of class, I average your scores, and add these to the grade points you've already earned. Let's say you average a 3.2 on your other required work. That's a B-. Let's say you have fun with the reflections, put time into them, and average a .45 (basically the middle value, which is not hard to get). Your final grade goes to a 3.7, which is probably a B+.
-
-## Basics
-- ~400 words 
-- Submitted on time via Canvas
-- Show effort to reflect thoughtfully
-- Differentiate yourself from AI, according to the grade scale
-
-
-## Reflect more than summarize
-This exercise is NOT about just regurgitating the readings or identifying the "most" important points---everyone will learn something different from them. The goal is show me you can think critically about the questions USING ONLY THE ASSIGNED READINGS! You must ensure your reflection makes sense in the context of the course. 
-
-
-## Use smart prompts and iterate
-GIGO! (garbage in, garbage out!) Vague prompts -> vague response. Take time to guide what kind of response you want from AI, points you want to emphasize, and so on. Once you get a response, ask what might be missing, decide to emphasize certain points. Your the editor, not the writer at this point, so guide from a bird's eye view. This can take longer than jsut writing your own reflection, which is going to be obviously different from AI, so proceed deliberately.
+- **250 words, roughly.** Although Canvas displays the word count, I'm not too concerned with the exact number. But you should be in the ballpark.
+- **Specific, not general.** Broad statements are fine *only* when backed by examples from the reading. Otherwise it looks like you didn't read closely.
+- **Polished, not stiff.** Don't perform "academic." But it shouldn't read like a text message either. Overly informal posts do not show much effort.
+- **On time, via Canvas.** By midnight on the due date. Late work is penalized one grade per day. The assignment closes after 3 days, at which point you can't get more than an F anyway. Too much leeway just turns these into busywork. It is FAR better to turn something in late than not at all!

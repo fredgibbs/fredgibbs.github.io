@@ -6,6 +6,28 @@ description: "Regularly scheduled courses: Digital Heritage; Food + Technology +
 
 # Recent Courses
 
+
+{% include course-block.html
+slug="diet-health-expertise"
+title="Diet, Health, and Expertise (Summer 2026)"
+poster="images/diet-health-sm.jpg"
+desc="If someone tells you how to eat or what you should or shouldn’t eat, do you believe them? Why or why not? Is dietary advice ever truly believable? This course uses the long history of diet and health to investigate the relationship between medical expertise and popular understandings of health.
+<br><br>
+Some guiding questions: How do dietary experts establish their expertise? Why have medical authorities continually redefined what it means to be healthy and to eat a healthy diet? Why have so many fad diets come into and gone out of fashion?  What can historical perspectives on topics like GMOs, vitamins, and obesity offer contemporary debates on these issues?"
+%}
+
+
+{% include course-block.html
+slug="making-history"
+title="Making History (Fall 2026)"
+poster="images/making-history-poster.jpg"
+desc="What does it mean to \"make history\"? On one hand, to do something worth recording. On the other, the act of memorializing. This course examines how we interact with history everyday, through books, film, Wikipedia, public spaces, historic buildings, art, and so on. It also addresses various meta-questions about history: What is history? What is it for? Who is it for? This entirely online and asynchronous course consists of short lectures, reading assignments, quizzes and short essays that helps students learn robust research skills, analytical techniques, and ways of using evidence to make arguments."
+%}
+
+
+---
+
+
 {% include course-block.html
 slug="critical-thinking-with-ai"
 title="Critical Thinking with AI (Spring 2026; 2H)"
@@ -24,19 +46,6 @@ desc="When you think of Mexican food, or Italian, or Chinese, a range of dishes 
 <br><br>
 This course explores both historical and contemporary ways of thinking about 'American' food and the relationship between food and identity. We look at the changing meanings of food and foodways throughout US history, particularly how people have attached cultural values to certain foods yet rejected others, and how foodways are so frequently an expression of personal, community, and national values."
 %}
-
-
-{% include course-block.html
-slug="diet-health-expertise"
-title="Diet, Health, and Expertise (Summer 2025)"
-poster="images/diet-health-sm.jpg"
-desc="If someone tells you how to eat or what you should or shouldn’t eat, do you believe them? Why or why not? Is dietary advice ever truly believable? This course uses the long history of diet and health to investigate the relationship between medical expertise and popular understandings of health.
-<br><br>
-Some guiding questions: How do dietary experts establish their expertise? Why have medical authorities continually redefined what it means to be healthy and to eat a healthy diet? Why have so many fad diets come into and gone out of fashion?  What can historical perspectives on topics like GMOs, vitamins, and obesity offer contemporary debates on these issues?"
-%}
-
-
-
 
 
 
@@ -85,10 +94,4 @@ desc="How do archives and algorithms govern our access to the past? How does the
 %}
 
 
-{% include course-block.html
-slug="making-history"
-title="Making History (Spring 2021)"
-poster="images/making-history-poster.jpg"
-desc="What does it mean to \"make history\"? On one hand, to do something worth recording. On the other, the act of memorializing. This course examines how we interact with history everyday, through books, film, Wikipedia, public spaces, historic buildings, art, and so on. It also addresses various meta-questions about history: What is history? What is it for? Who is it for? This entirely online and asynchronous course consists of short lectures, reading assignments, quizzes and short essays that helps students learn robust research skills, analytical techniques, and ways of using evidence to make arguments."
-%}
 

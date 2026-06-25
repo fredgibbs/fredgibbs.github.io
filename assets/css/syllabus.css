@@ -2,6 +2,10 @@
 
 @layer components {
 
+html {
+  scroll-padding-top: 90px;
+}
+
 #syllabus {
   --sy-bg: #12100d;
   --sy-surface: #1a1713;
@@ -11,7 +15,7 @@
   --sy-border: #302a23;
   --sy-heading-1: #d4a84b;
   --sy-heading-2: #de8466;
-  --sy-heading-3: #cc6e54;
+  --sy-heading-3: color-mix(in oklab, var(--sy-heading-2) 55%, var(--sy-text-muted));
   --sy-link: #c2a882;
   --sy-link-hover: #d8bc9a;
 
@@ -32,7 +36,7 @@
   --sy-border: #ddd2c3;
   --sy-heading-1: #8b5a2b;
   --sy-heading-2: #b8634d;
-  --sy-heading-3: #a45843;
+  --sy-heading-3: color-mix(in oklab, var(--sy-heading-2) 55%, var(--sy-text-muted));
   --sy-link: #8b5a2b;
   --sy-link-hover: #6f441f;
 }
@@ -190,6 +194,8 @@
   top: 95px;
   left: 2rem;
   width: 250px;
+  max-height: calc(100vh - 120px);
+  overflow-y: auto;
   background: var(--sy-surface);
   border: 1px solid var(--sy-border);
   border-radius: 8px;
@@ -223,7 +229,7 @@
   border-left: 2px solid transparent;
   border-bottom: none;
   text-decoration: none;
-  color: var(--sy-text-muted);
+  color: color-mix(in oklab, var(--sy-heading-2) 45%, var(--sy-text-muted));
   font-size: 0.84rem;
 }
 
@@ -247,6 +253,27 @@
   border-left-color: var(--sy-heading-2);
   border-bottom: none;
   font-weight: 600;
+}
+
+#syllabus .scroll-spy-nav .nav-link.nav-sub {
+  padding-left: 1.2rem;
+  font-size: 0.75rem;
+  color: color-mix(in oklab, var(--sy-heading-3) 45%, var(--sy-text-muted));
+}
+
+#syllabus .scroll-spy-nav .nav-link.nav-sub:hover,
+#syllabus .scroll-spy-nav .nav-link.nav-sub:focus-visible {
+  color: var(--sy-heading-3);
+  border-left-color: var(--sy-heading-3);
+}
+
+#syllabus .scroll-spy-nav .nav-link.nav-sub.active {
+  color: var(--sy-heading-3);
+  border-left-color: var(--sy-heading-3);
+}
+
+#syllabus .scroll-spy-nav .nav-link.nav-week-break {
+  margin-top: 0.6rem;
 }
 
 .syllabus-footer {
@@ -349,7 +376,8 @@
     background: white;
     color: black;
   }
- 
+}
+
 /* Reset all table row backgrounds in light mode */
 #syllabus[data-theme='light'] table tr td,
 #syllabus[data-theme='light'] table tbody tr td {
@@ -358,4 +386,20 @@
 #syllabus[data-theme='light'] table tr:nth-child(even) td,
 #syllabus[data-theme='light'] table tbody tr:nth-child(even) td {
   background: #f5f1ea !important;
+}
+
+.sy-grading-cols {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+.sy-grading-cols .sy-grading-text {
+  flex: 1;
+}
+.sy-grading-cols .sy-grading-table {
+  flex: 1;
+  min-width: 10rem;
+}
+.sy-grading-cols .sy-grading-table table {
+  margin-top: 0;
 }

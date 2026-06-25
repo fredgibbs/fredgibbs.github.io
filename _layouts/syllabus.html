@@ -99,19 +99,45 @@
     });
 
     const navContainer = document.querySelector('#scrollSpyNav .scroll-spy-links');
-    const headers = document.querySelectorAll('#syllabus h2');
-    
+    const headers = document.querySelectorAll('#syllabus .syllabus-container h2, #syllabus .syllabus-container h3');
+    const navLinks = [];
+
     headers.forEach(function(header, index) {
       if (!header.id) {
         header.id = 'section-' + index;
       }
-      
+
       const a = document.createElement('a');
       a.className = 'nav-link';
+      if (header.tagName.toLowerCase() === 'h3') {
+        a.classList.add('nav-sub');
+      }
       a.href = '#' + header.id;
       a.textContent = header.textContent.trim();
-      
+
       navContainer.appendChild(a);
+      navLinks.push({ link: a, header: header });
     });
+
+    function setActiveLink() {
+      const offset = 120;
+      let active = navLinks[0];
+
+      navLinks.forEach(function(item) {
+        if (item.header.getBoundingClientRect().top <= offset) {
+          active = item;
+        }
+      });
+
+      navLinks.forEach(function(item) {
+        item.link.classList.toggle('active', item === active);
+      });
+    }
+
+    if (navLinks.length) {
+      setActiveLink();
+      window.addEventListener('scroll', setActiveLink, { passive: true });
+      window.addEventListener('resize', setActiveLink);
+    }
   });
 </script>
