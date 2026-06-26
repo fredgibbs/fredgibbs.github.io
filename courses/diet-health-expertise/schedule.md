@@ -18,23 +18,30 @@ The goal is not to memorize old medical theory. The goal is to notice that food 
 Welcome! Today is mostly about getting oriented. Since this is a compressed online course, the first job is simply to make sure everything is wired up and that you know where to find things. Please do the introductory work as soon as you can, but make sure it is done BEFORE WEDNESDAY. Normally assignments are due the day they appear on the syllabus, but we have a little extra room at the beginning to get settled.
 
 The short reading for today previews the basic attitude of the course: curiosity plus skepticism. We are not trying to become nutrition experts in four weeks. We are learning how to ask better historical questions about health advice, expertise, and trust. It covers a lot of themes and some sources we read, so it's a great preview of the course. It also gives you some useful ideas for 
+- [Course Overview Video](#)
+- [Defining Healthy Video](#)
 
 - Fred Gibbs, [A healthy dose of skepticism](https://nursingclio.org/2017/05/24/a-healthy-dose-of-skepticism/)
-
+- [FDA definition of "healthy"](https://www.federalregister.gov/documents/2024/12/27/2024-29957/food-labeling-nutrient-content-claims-definition-of-term-healthy)
 
 {% include alert.html class='danger' title='Syllabus Quiz' text="
-Take the Syllabus Quiz. It's not really a test, but just a way to confirm and highlight important logistics of the course to avoid problems later. Be sure to do the reading first.
+Take the Syllabus (and a little on the first reading) Quiz. It's not really a test, but just a way to confirm and highlight important logistics of the course to avoid problems later. 
 "%}
 
 {% include alert.html class='danger' title='Intro Post' text="
-Just as a quick way to get to know each other a tiny bit, please post a brief hello (name, major, favorite food) and a little story or anecdote about your experience (or maybe from someone you know) with a particular diet, dietary advice, or general thinking about what it means to be healthy. These should be substantive but not long, ~100-150 words or so.
+Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post a brief introduction, like name, major, favorite food, some opinion about diet and health that you've changed your mind about. We all have many! These should be substantive but not long, ~100-150 words or so.
 "%}
 
 
 
 
 ## Tue 6/30: Understanding Nutrition
+- [Rhetoric of Science video](#)
 - Jessica J. Mudry, *Measured Meals. Nutrition in America*, 1-19 (Introduction: Eating by Numbers). 
+
+{% include alert.html class='warning' title='Reading reflection' text="
+Remember all readings are in the Zotero library. To access them, you need to be logged into Zotero.org and visit [our group library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library). If you can't see the PDFs, you either 1) are not logged in, or 2) never requested to join the library. Instructions are on the [syllabus home page](index).
+"%}
 
 This is probably the most abstract reading of the first week, so don't worry if it feels a little slippery. Jessica Mudry argues that modern nutrition advice often tries to make eating scientific by turning food into numbers: calories, grams, percentages, serving sizes, nutrients, daily values, risk scores, and recommended limits. We'll return to these ideas in week 3, but her bigger point is even more important. 
 
@@ -54,6 +61,7 @@ Today we go way back to ancient Greece and Rome because it helps us see how dura
 
 Our primary source Galen (died c. 215 CE), a famous physician who wrote about medicine so much and so thoroughly, he was the main medical authority in Western culture for over 1500 years. His work may seem strange at first, but don't read him as simply "wrong science." Read him as someone working inside a coherent medical world. His details about foods, bodies, qualities, and balance show us what counted as evidence. The way he tries to convince readers he knows more than other physicians shows how expertise was created in his day, and still is in some ways.
 
+- [Reading Galen Video](#)
 - Mark Grant, _Galen: On Food and Diet_, 1-8. These few pages provide a general introduction to the classical physician Galen (died circa 215 CE) and ancient medicine. The author of the introduction (Grant) has translated many of Galen's writing about food, and we'll read an excerpt from those as noted below.
 - Galen, (tr. Mark Grant), _On the Humors_, 14-18; _On the Power of Foods_, 68-84. This was written by Galen himself (not Grant). Note that there is WAY MORE DETAIL about foods in here than you need to know. **Read for the big picture** in terms of how Galen establishes his expertise, what topics are most interesting to him, how he thinks about the relationship between diet and health. 
 
@@ -72,6 +80,7 @@ Today extends the world we began with Galen. The details change across ancient, 
 As you skim Albala, don't get stuck trying to master every term. Instead, watch how food sits at the intersection of medicine and culture. What counts as healthy depends not only on ideas about bodies, but also on climate, class, habit, taste, and common sense.
 
 - SKIM: Ken Albala, _Eating Right in the Renaissance_, 63--77; 78--84; 91--104.
+- [Visualizing Premodern Medicine](https://youtu.be/oa-b8llXLTk)
 
 {% include alert.html class='danger' title='Premodern Medicine Post' text="
 **Continuity and Change**
@@ -86,6 +95,8 @@ The video explains how 'regimens of health' were the most popular medical texts.
 
 
 ## Fri: Celebrate a Birthday! Nothing to do today.
+
+
 
 
 # Week 2: 18th and 19th centuries
@@ -360,6 +371,6 @@ Some questions to consider:
 ## Mon -- Tue (7/27 - 7/28)
 We end by stepping back. The final reflection is not meant to be a list of topics you remember from the syllabus. It is a chance to explain what changed in how you think: about dietary advice, expertise, evidence, bodies, science, morality, and trust.
 
-Before you write, revisit the readings and videos enough to remind yourself of the course as a whole. Look for connections across weeks. The strongest reflections will not say, "I learned to be skeptical about diets" and stop there. They will show, with specific examples, how that skepticism is now historically informed.
+Before you write, revisit the readings and videos enough to remind yourself of the course as a whole. Look for connections across weeks. The strongest reflections will not say, "I learned to be skeptical about diets" and stop there. They will show, with specific examples, how that skepticism became more historically informed.
 
 - Post your [final course reflection](final-reflections).
