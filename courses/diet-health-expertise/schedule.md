@@ -45,7 +45,7 @@ Remember all readings are in the Zotero library. To access them, you need to be 
 
 This is probably the most abstract reading of the first week, so don't worry if it feels a little slippery. Jessica Mudry argues that modern nutrition advice often tries to make eating scientific by turning food into numbers: calories, grams, percentages, serving sizes, nutrients, daily values, risk scores, and recommended limits. We'll return to these ideas in week 3, but her bigger point is even more important. 
 
-We're reading this chapter because she draws attention to the "rhetoric of science." By that she means we have to pay attention not just to _what_ dietary advice says, but _how_ it says it.  In other words, talking about diet is never just about the "facts." It is also about how those facts are framed, simplified, measured, and made persuasive. Language does not simply report knowledge; it helps shape what counts as knowledge in the first place.
+We're reading this chapter because she draws attention to the "rhetoric of science." By that she means we have to pay attention not just to _what_ dietary advice says, but _how_ it says it.  In other words, talking about diet is never just about the "facts." It is also about how those facts are framed, simplified, measured, and made persuasive. Language does not simply report knowledge; it helps shape what counts as knowledge in the first place. 
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
