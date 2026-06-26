@@ -25,11 +25,11 @@ The short reading for today previews the basic attitude of the course: curiosity
 - [FDA definition of "healthy"](https://www.federalregister.gov/documents/2024/12/27/2024-29957/food-labeling-nutrient-content-claims-definition-of-term-healthy)
 
 {% include alert.html class='danger' title='Syllabus Quiz' text="
-Take the Syllabus (and a little on the first reading) Quiz. It's not really a test, but just a way to confirm and highlight important logistics of the course to avoid problems later. 
+Take the Syllabus Quiz. It's not really a test, but just a way to confirm and highlight important logistics of the course to avoid problems later. 
 "%}
 
 {% include alert.html class='danger' title='Intro Post' text="
-Just to make sure everyone is connected, and as an informal way of introducing ourselves, please post a brief introduction, like name, major, favorite food, some opinion about diet and health that you've changed your mind about. We all have many! These should be substantive but not long, ~100-150 words or so.
+Just as a quick way to get to know each other a tiny bit, please post a brief hello (name, major, favorite food), and let us your opinion on the question, "Do we need a definition of healthy?" Please have an INFORMED opinion based on the readings for the first day. Your post should show you've put some effort into those, but don't summarize them---use them to justify your own opinion. Aim for ~150 words or so.
 "%}
 
 
