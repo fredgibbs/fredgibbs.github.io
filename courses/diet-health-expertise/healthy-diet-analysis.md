@@ -2,15 +2,15 @@
 layout: syllabus
 course-title: Diet, Health, Expertise
 course-slug: diet-health-expertise
-term: Fall 2020
+term: Summer 2026
 number: HIST 410
 section: links-guides
 ---
 
 # Healthy Diet Analysis
-This assignment encourages you to bring what we've learned in class in critiquing and analyzing how references to health and diet appear in contemporary literature---a webpage/website (of your choosing) that discusses what a "healthy diet" is. This assignment is a lot like the vitamin rhetoric analysis, but is made to help you reflect on the entire course and how the history of diet and health can help us understand contemporary advice and understandings of diet and health.
+This assignment encourages you to bring what we've learned in class in critiquing and analyzing how references to health and diet appear in contemporary literature---a webpage/website (of your choosing) that discusses what a "healthy diet" is. 
 
-Your job is to analyze the RHETORIC of your particular website/page, not to just critique the diet itself. As with our critique of the carnivorism diet, whether the diet "works" or not is totally beside the point. We're analyzing HOW THE AUTHOR IS MAKING AN ARGUMENT. Naturally, you might comment on a particular aspect of the dietary advice---maybe something about restricting the number of calories you eat. That's an aspect of dietary advice that is worth comment on because we've done a lot of reading to understand how that kind of thinking became so pervasive.
+Your job is to analyze the RHETORIC of your particular website/page, not to just critique the diet itself. Whether the diet "works" or not is totally beside the point. We're analyzing HOW THE AUTHOR IS MAKING AN ARGUMENT. Naturally, you might comment on a particular aspect of the dietary advice---maybe something about restricting the number of calories you eat. That's an aspect of dietary advice that is worth comment on because we've done a lot of reading to understand how that kind of thinking became so pervasive.
 
 ## Basics
 - ~800 words
@@ -40,8 +40,7 @@ Think about all the topics and themes we've covered and how we've seen elements 
 
 
 ## Grading
-- 14-15: **Excellent**. Wrote up an original, expressive, and sophisticated analysis of how the course (the history of diet and health) can help explain why a modern webpage gives the advice that it does.
-- 12-13: **Very good**. Provides partial, but informed answers to the above questions.
-- 8-11: **Fine**. Shows some evidence of thinking critically about the above questions, but does not demonstrate much knowledge of course content.
-- 4-7: **Marginal**. Provides simplistic descriptions and superficial answers to questions that are disconnected from course material.
-- 0-3: **Not good**. Doesn't meet basic length requirements or doesn't address any key questions posed above.
+- A: Wrote up an original, expressive, and sophisticated analysis of how the course (the history of diet and health) can help explain why a modern webpage gives the advice that it does.
+- B: Shows some evidence of effort and critical thinking, but does not demonstrate much knowledge of course content.
+- C: Provides simplistic descriptions and superficial answers to questions that are disconnected from course material.
+- D: Sounds like AI or doesn't meet basic requirements and/or address any key questions.

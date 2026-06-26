@@ -12,7 +12,7 @@ section: links-guides
 ## Your Assignment
 Your challenge is to write a review/critique of some “publication” related to this course---namely anything connecting food, health, and diet. I suggest using an article or blog post from a website, newspaper, or magazine that offers some kind of dietary advice. You should find them with Google by searching something you're interested in: "paleo diet", "health benefits blueberries", "cereal health nutrition", etc. You get the idea.
 
-It really doesn't matter what the topic is or what you pick. However, don't choose something that is super long or complex; that creates way more work for you than is necessary here. Also, don't choose anything that is super short and trite; it simply won't give you enough material to work with. Otherwise, pick something you want to read!
+It really doesn't matter what the topic is or what you pick. However, don't choose something that is super long or complex. That would create way more work for you than is necessary here. Also, don't choose anything that is short and trite. That simply won't give you enough material to work with. Otherwise, just pick something you want to read!
 
 
 ## Assignment Goals
@@ -37,7 +37,7 @@ One of the major goals of this assignment is to show me that you're doing the re
 
 An example: _Although Cheyne appealed to his personal experience with diet, he himself was extraordinarily large (Shapin, 276)._
 
-Please do not cite things from outside course readings---this assignment is to help me evaluate your engagement with our course materials.
+Please do not cite things from outside course readings---this assignment is to help me evaluate your engagement with _our_ course materials.
 
 ## General formatting checklist
 - 12 pt. Times New Roman (or very similar serif font)

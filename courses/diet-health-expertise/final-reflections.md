@@ -2,7 +2,7 @@
 layout: syllabus
 course-title: Diet, Health, Expertise
 course-slug: diet-health-expertise
-term: Summer 2025
+term: Summer 2026
 number: HIST 410
 section: links-guides
 ---

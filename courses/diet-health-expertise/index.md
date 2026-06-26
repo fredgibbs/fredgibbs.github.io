@@ -3,7 +3,7 @@ layout: syllabus
 course-title: Diet, Health, Expertise
 course-slug: diet-health-expertise
 number: HIST 410
-term: Summer 2025
+term: Summer 2026
 section: home
 ---
 
@@ -22,8 +22,8 @@ If someone tells you how to be healthy or what you should or shouldn’t eat, do
 
 ## Student Learning Outcomes
 1. Describe how ideas of health have been historically constructed both culturally and scientifically
-2. Identifies continuities and ruptures in how expertise and rhetoric of health has changed over time
-3. Critically evaluate modern dietary advice in broad historical context
+2. Identify continuities and ruptures in how expertise has changed over time
+3. Critically situate modern dietary advice in broad historical context
 
 
 ## You are welcome here
@@ -36,7 +36,7 @@ I will do everything I can do help you learn as much as you're motivated to lear
 
 - All assignments will be submitted and graded via [Canvas](http://canvas.unm.edu). 
 
-- All course videos are available on YouTube, and links to videos will be posted on the syllabus. I don't send out notifications about videos, but if you want them you can subscribe to the course [YouTube Channel](https://www.youtube.com/channel/UCt6_7arYzi4TcIIwo7TLURw).
+- All course videos are available on YouTube, and links to videos will be posted on the syllabus as they become available. I don't send out notications about videos, they just appear on the syllabus before you need them.
 
 
 ### Required Texts
@@ -51,9 +51,12 @@ We use a tool called [Zotero](http://zotero.org) to organize and provide access 
 - Group Library Home: [https://www.zotero.org/groups/642043/diet-health-expertise-unm](https://www.zotero.org/groups/642043/diet-health-expertise-unm). Once you've created and account, this is where you go to request to join the library.
 - Group Library Items: [https://www.zotero.org/groups/642043/diet-health-expertise-unm/library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library). Once I've approved your request, this is where you can see/get the readings.
 
-### Remember that you can only access the PDFs in the library if you are a member of the course group!
 "%}
 
+
+{% include alert.html class='warning' title='Join and Log in' text="
+Anyone can see the list of readings in the Zotero library. But you can only access the PDFs if you have requested access to the course group and logged into Zotero. Just follow the directions!
+"%}
 
 
 ## Course workflow
@@ -61,35 +64,30 @@ We use a tool called [Zotero](http://zotero.org) to organize and provide access 
 
 - Some days (or set of days) have their own short "big points" video to call attention to big picture ideas that might get lost in the details of the readings. **These are important to mention in your reading reflections.**
 
-- Most days you'll have something to read or watch, and you'll need to show me you did that via some type of quiz or other kind of short essay assignment.
-
-  - [Reading reflections](reading-reflections) are _very_ short essays that encourage you to reflect on the readings in a particular way. They usually have a constellation of questions to reflect on and address. Sometimes they are entirely freeform, and you can write whatever you want. There are a couple different flavors of reflections just to mix things up a bit, but the spirit behind the assignment is always the same. **Show me you're trying to understand the reading and how it fits in the course**. There is never a right answer, but some answers are better informed that others. I'm looking for legit effort.
-
-  - Quizzes are generally straightforward. I try to make the quizzes easy if you've done the work and impossible if you're just bluffing your way through them. My hope is that if you just try to guess the answer, you'll get about 50%, but at least 90% otherwise. There are almost always short answer questions on quizzes that allow you to "show what you know" for extra points. There is often extra credit on the quizzes, too.
+- Most days you'll have something to read or watch, and you'll need to show me you put some effort into that via a short assignment. Some days you have a longer more synthetic assignment in place of the standard refleciton.
 
 {% include alert.html class='info' title='Familiarity over mastery' text="
-The readings can be dense and sometimes it's hard to discern the forest for the trees. (Of course that's one of the skills you're developing in this course!) And sometimes they can just be hard to understand. So, in trying to evaluate your engagement with them, I'm always looking for **familiarity over mastery**. Knowing what's in the readings and what they are trying to do, is FAR more important than feeling like you completely get it. So, I try to make reflection prompts and quizzes focus on gauging your familiarity with what's going on in general.
+The readings can be dense and sometimes it's hard to identify what's really important. That's one of the core skills you're developing in this course! So, in trying to evaluate your engagement with them, I'm always looking for **familiarity over mastery**. Knowing what's in the readings and what they are trying to do, is FAR more important than feeling like you completely get it. Tell me where you are on that spectrum. Skim the readings, read certain parts carefully, form an opinion, and write a quick reflection.
 "%}
 
+- All assignments are DUE BY MIDNIGHT on the day they are listed on the syllabus (unless otherwise stated). Honestly, turning them in an hour late doesn't matter, but don't post them after breakfast the next day.
 
-- All assignments are DUE BY MIDNIGHT on the day they are listed on the syllabus (unless otherwise stated). Honestly, turning them in an hour late (if you're a night owl) doesn't matter.
-
-- You have TWO DAYS after the due date to turn in the assignment, although there is a small late penalty each day. I don't want to sound too strict, but I've found that having no deadlines encourages well-meaning students (who want to turn in their best work) to get into a deep hole of missing work, and the course simply moves too fast to recover.
+- You have TWO DAYS after the due date to turn in the assignment, although there is a one grade late penalty each day. Then the assignment is closed. I don't want to sound too strict, but I've found that having no deadlines encourages well-meaning students (who want to turn in their best work) to get into a deep hole of missing work, and the course simply moves too fast to recover.
 
 ## Assignments and Grading
-The little equations after the assignment type indicates `number of assignments` x `points for each` = `total points`. Total points really don't matter since grades are based on a simple percentage, but this shows the relative weight of each _kind_ of assignment. 
-
-Depending on how the course unfolds, the final number of points will change slightly. But the percent grading scale will remain  the same (unless it gets _easier_ to get a higher grade). 
-
-- Occasional reading/lecture quizzes (~5 x ~15 = ~75)
-- [Reading reflections](reading-reflections)(~12 x 10 = ~120)
-- [Diet analysis](healthy-diet-analysis) (1 x 20 = 20) 
-- [Final learning reflection](final-reflections) (1 x 50 = 50) 
+- Occasional reading/lecture quizzes 
+- [Reading reflections](reading-reflections)
+- [Diet analysis](healthy-diet-analysis) 
+- [Final learning reflection](final-reflections) 
 
 
-### Grade Distribution
+### Final Grading Scale
 
-**Note that the whole scale is a little "easier" than the "standard" grading scale.** This is because some quiz questions might be too vague or unclear or whatever, or a reading reflection gets a bit misunderstood or doesn't convey what you intend. So rather than waste time nitpicking points here and there (which some of you would do), I just give them all to everyone right away. 
+{% include alert.html class='info' title='Familiarity over mastery' text="
+Note that the whole scale is a little "easier" than the "standard" grading scale, to automatically make up any assignemnts you feel got graded a bit harshly. 
+"%}
+
+If you feel like you're always getting graded lower than what you expected, we have a calibration issue to resolve, so please reach out so we can resolve it. If you have one assignment that you worked hard at and are proud of, but got a low grade, there was a mistake or miscommunication. Please reach out so we can fix it. 
 
 Percent | Grade
 --- | ---
@@ -100,32 +98,21 @@ Percent | Grade
 82-84 | B
 80-81 | B-
 77-79 | C+
-73-76 | C
-66-72 | C-
-61-65 | D+
-56-60 | D
+72-76 | C
+68-71 | C-
+62-67 | D+
+56-62 | D
 55- | F
 
 
-### Extra Credit (due the last day of finals)
-
-- If you are interested in a particular topic related to the class and want to do extra work for extra points, ask me about it! I'm quite flexible about helping people to work they are excited about that contributed to the learning objectives of the course. 
-- Default assignment: [Diet/Health/Food Documentary Critique](documentary-critique) (4 points)
-- Email these to me directly 
-- Be mindful that extra credit gets graded, so just doing something doesn't necessarily get you 4 points.
-- **CAREFUL! Extra credit is only available if all other work is turned in!**
-
-
 ## AI Policy & Academic Integrity
-- AI is awesome! You should feel free to experiment with it as a tool for helping you in the course.
-- You must use it in accordance with UNM's academic integrity policy, meaning you cannot submit AI-generated work as your own! 
-- All your work must draw exclusively from course material (and the narrative presented here), which AI will not do. This makes it easy to spot inappropriate use of AI! 
+* Learning to use AI is an important skill in itself, but using it when you're supposed to be working through the friction of thinking on your own is like bringing a forklift into the weightroom. Eventually you will lose out to people _actually doing the work_.
+* Each assignment specifies the level and type of AI use that's appropriate. Sometimes that's not using it at all; sometimes the whole assignment is AI-driven. Please respect the intended AI component of each assignment.
+* Since AI answers are always a few clicks away, one common rule for all assignments: **You must always differentiate your work from AI.** If it even _seems_ like vanilla AI (_even if it isn't_), you will need to redo the assignment for credit.
+* I can't really _prove_ you're cheating if you do, but that's OK. Eventually you'll lose out to people who actually learned to use AI critically and productively instead of deceptively. That seems a sufficient enough consequence.
 
 You should be familiar with [UNM’s Policy on Academic Dishonesty and the Student Code of Conduct](http://pathfinder.unm.edu/policies.htm#studentcode) which outline academic misconduct defined as plagiarism, cheating, fabrication, or facilitating any such act.
 
 
 ## Accessibility
-UNM is committed to providing courses that are inclusive and accessible for all participants. As your instructor, it is my objective to facilitate an accessible education experience, in which students have full access and opportunity. If you are experiencing technical or academic barriers, or concerns related to mental or physical health,  please consult with me. You are also encouraged to contact Accessibility Resource Center at arcsrvs@unm.edu or by phone 277-3506..
-
-## Citizenship and/or Immigration Status
-All students are welcome in this class regardless of citizenship, residency, or immigration status.  I will respect your privacy if you choose to disclose your status. UNM as an institution has made a core commitment to the success of all our students, including members of our undocumented community.
+UNM is committed to providing courses that are inclusive and accessible for all participants. As your instructor, it is my objective to facilitate an accessible education experience, in which students have full access and opportunity. If you are experiencing technical or academic barriers, or concerns related to mental or physical health,  please consult with me. You are also encouraged to contact Accessibility Resource Center at arcsrvs@unm.edu or by phone 277-3506.
