@@ -49,7 +49,7 @@ We're reading this chapter because she draws attention to the "rhetoric of scien
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-- Be sure to review the [reading reflection guidelines](reading-reflections)
+- bbBe sure to review the [reading reflection guidelines](reading-reflections)
 - Would you agree with her argument that the language of quantification to prescribe a 'healthy' diet is a failure?
 - Based on the chapter, what _should_ good dietary advice sound like? Numbers? Stories? Habits? Warnings? Cultural knowledge? Personal experience? Scientific authority? What combination?
 - Can you think of an example of how the 'rhetoric of science' matters outside diet and health? 
