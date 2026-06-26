@@ -83,9 +83,9 @@ The readings can be dense and sometimes it's hard to identify what's really impo
 
 ### Final Grading Scale
 
-{% include alert.html class='info' title='Familiarity over mastery' text="
+{% include alert.html class='info' title='Familiarity over mastery' text='
 Note that the whole scale is a little "easier" than the "standard" grading scale, to automatically make up any assignemnts you feel got graded a bit harshly. 
-"%}
+'%}
 
 If you feel like you're always getting graded lower than what you expected, we have a calibration issue to resolve, so please reach out so we can resolve it. If you have one assignment that you worked hard at and are proud of, but got a low grade, there was a mistake or miscommunication. Please reach out so we can fix it. 
 
