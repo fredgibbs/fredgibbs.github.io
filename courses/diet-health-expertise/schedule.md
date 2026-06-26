@@ -29,7 +29,7 @@ Take the Syllabus Quiz. It's not really a test, but just a way to confirm and hi
 "%}
 
 {% include alert.html class='danger' title='Intro Post' text="
-Just as a quick way to get to know each other a tiny bit, please post a brief hello (name, major, favorite food), and let us your opinion on the question, "Do we need a definition of healthy?" Please have an INFORMED opinion based on the readings for the first day. Your post should show you've put some effort into those, but don't summarize them---use them to justify your own opinion. Aim for ~150 words or so.
+Just as a quick way to get to know each other a tiny bit, please post a brief hello (name, major, favorite food), and let us your opinion on the question, 'Do we need a definition of healthy?' Please have an INFORMED opinion based on the readings for the first day. Your post should show you've put some effort into those, but don't summarize them---use them to justify your own opinion. Aim for ~150 words or so.
 "%}
 
 
