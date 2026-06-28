@@ -8,7 +8,7 @@ section: links-guides
 ---
 
 # Healthy Diet Analysis
-This assignment encourages you to bring what we've learned in class in critiquing and analyzing how references to health and diet appear in contemporary literature---a webpage/website (of your choosing) that discusses what a "healthy diet" is. 
+This assignment encourages you to bring what we've learned in class to critiquing and analyzing how references to health and diet appear in contemporary literature---a webpage/website (of your choosing) that discusses what a "healthy diet" is.
 
 Your job is to analyze the RHETORIC of your particular website/page, not to just critique the diet itself. Whether the diet "works" or not is totally beside the point. We're analyzing HOW THE AUTHOR IS MAKING AN ARGUMENT. Naturally, you might comment on a particular aspect of the dietary advice---maybe something about restricting the number of calories you eat. That's an aspect of dietary advice that is worth comment on because we've done a lot of reading to understand how that kind of thinking became so pervasive.
 
@@ -28,8 +28,8 @@ Your job is to analyze the RHETORIC of your particular website/page, not to just
 These are all pretty general questions that we've addressed at different points and with different sources. Focus on the ones that are the most relevant for your particular article. Answers to some questions are going to be obvious; others require more reading between the lines.
 
 - How does the author establish their credibility or authority about diet and health?
-- What kinds of claims about diet and health does the author make? What kind of evidence is used to support these claims? Can you seem them for yourself? Is there room for misinterpretation?
-- Does the advice stem from primarily expertise or common sense?
+- What kinds of claims about diet and health does the author make? What kind of evidence is used to support these claims? Can you see them for yourself? Is there room for misinterpretation?
+- Does the advice stem primarily from expertise or common sense?
 - What kind of assumptions does the author(s) make about the relationship between food, diet, health?
 - How is "science" used?
 - Is there any moral component to the advice?

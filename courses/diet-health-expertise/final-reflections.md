@@ -12,7 +12,7 @@ Your final assignment for the course is a bit different from previous assignment
 
 ## Describe what you learned
 Using specific examples from the readings AND connecting themes across the course (as the overview videos should help with), tell me what you learned in the course. In addition to history of diet particulars, don't forget big picture questions (like the Course Goals!), such as:
-- How has dietary advice stayed the same over the centuries? How has it remained the same?
+- How has dietary advice changed over the centuries? How has it remained the same?
 - How is your understanding of how expertise is created different than before? 
 - How can you analyze the rhetoric of diet and health differently now? 
 - How can the history of diet and health help us contextualize contemporary dietary debates?
@@ -32,7 +32,7 @@ This isn't a writing class so you're not getting evaluated on elegant prose. So,
 ## Make an argument for a grade
 The optional third component is to make a brief argument for what letter grade you should get for the course. It's maybe a weird request for a final, but there is a specific reason: your effort to learn, and what you actually did learn, might not be represented in your final point tally. This assignment gives you a chance to argue that you've put more work in or learned more than your numbers indicate.
 
-To be clear, you aren't necessarily going to get whatever grade you ask for. However, if you have gotten some lower scores, but write a very smart final that uses lots of examples from the readings as evidence for your familiarity with them and connects reading material as done in the overview vidfeos, you will likely get a higher grade than your raw point total equates to.
+To be clear, you aren't necessarily going to get whatever grade you ask for. However, if you have gotten some lower scores, but write a very smart final that uses lots of examples from the readings as evidence for your familiarity with them and connects reading material as done in the overview videos, you will likely get a higher grade than your raw point total equates to.
 
 
 
@@ -57,7 +57,7 @@ I know everyone is fried at this point, and it's therefore tempting to just bull
 ## Grading
 This is a ballpark scale just to give you an idea of how I see the difference between points/grades for this kind of assignment.
 
-- 42-50: **Excellent**. Presents an original, expressive, and sophisticated analysis of what you've learned and how the readings relate to each other. It combines many specific examples from the readings with a detailed personal narrative of how they affected (or didn't) effect your thinking about diet and health.
+- 42-50: **Excellent**. Presents an original, expressive, and sophisticated analysis of what you've learned and how the readings relate to each other. It combines many specific examples from the readings with a detailed personal narrative of how they affected (or didn't) affect your thinking about diet and health.
 - 36-41: **Very good**. Provides excellent coverage of course topics, themes, and readings, with more than a few specific examples, connects readings from throughout the course, and demonstrates a clear emphasis on creating a learning reflection rather than course summary. Seems a little lacking in comparison to the best essays.
 - 30-35: **Fine**. Provides solid coverage of course topics, themes, and readings---with some examples---but tends more towards vague summary than making specific points and describing a learning experience.
 - 25-29: **Marginal**. Shows some evidence of thinking critically about core topics from the course, covers a wide variety of course themes, but does not demonstrate much knowledge of course content beyond superficial descriptions.

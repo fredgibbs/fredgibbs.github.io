@@ -29,14 +29,14 @@ If someone tells you how to be healthy or what you should or shouldn’t eat, do
 ## You are welcome here
 Even if you have never thought about the history of medicine or diet or health, or have never taken a history course, or even a humanities course, YOU ARE WELCOME HERE! I assume you have no prior knowledge or skills necessary for class, so we build from the ground up.
 
-I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. As much as possible I've tried to make the course about everyone thinking together rather than just you learning "facts" that you can regurgitate later. If you feel the course structure isn't facilitating your own success, please let me know what would!
+I will do everything I can to help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. As much as possible I've tried to make the course about everyone thinking together rather than just you learning "facts" that you can regurgitate later. If you feel the course structure isn't facilitating your own success, please let me know what would!
 
 ## Getting Started
 - The course syllabus is this page and the [schedule page](schedule). These two pages have everything you need to know about the course. It is YOUR RESPONSIBILITY to know what's on the syllabus and follow directions. 
 
 - All assignments will be submitted and graded via [Canvas](http://canvas.unm.edu). 
 
-- All course videos are available on YouTube, and links to videos will be posted on the syllabus as they become available. I don't send out notications about videos, they just appear on the syllabus before you need them.
+- All course videos are available on YouTube, and links to videos will be posted on the syllabus as they become available. I don't send out notifications about videos, they just appear on the syllabus before you need them.
 
 
 ### Required Texts
@@ -48,7 +48,7 @@ We use a tool called [Zotero](http://zotero.org) to organize and provide access 
 
 {% include alert.html class='info' title='Zotero links' text="
 - Group Library Name: `diet-health-expertise-unm` (in case you try to look it up on zotero.org, but you shouldn't need to.)
-- Group Library Home: [https://www.zotero.org/groups/642043/diet-health-expertise-unm](https://www.zotero.org/groups/642043/diet-health-expertise-unm). Once you've created and account, this is where you go to request to join the library.
+- Group Library Home: [https://www.zotero.org/groups/642043/diet-health-expertise-unm](https://www.zotero.org/groups/642043/diet-health-expertise-unm). Once you've created an account, this is where you go to request to join the library.
 - Group Library Items: [https://www.zotero.org/groups/642043/diet-health-expertise-unm/library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library). Once I've approved your request, this is where you can see/get the readings.
 
 "%}
@@ -60,11 +60,11 @@ Anyone can see the list of readings in the Zotero library. But you can only acce
 
 
 ## Course workflow
-- Most weeks (and some sub-week units) have a short overview video that highlight a few "big points" that I hope you'll keep in mind as you make your way through the readings. **These are important to mention in your reading reflections.**
+- Most weeks (and some sub-week units) have a short overview video that highlights a few "big points" that I hope you'll keep in mind as you make your way through the readings. **These are important to mention in your reading reflections.**
 
 - Some days (or set of days) have their own short "big points" video to call attention to big picture ideas that might get lost in the details of the readings. **These are important to mention in your reading reflections.**
 
-- Most days you'll have something to read or watch, and you'll need to show me you put some effort into that via a short assignment. Some days you have a longer more synthetic assignment in place of the standard refleciton.
+- Most days you'll have something to read or watch, and you'll need to show me you put some effort into that via a short assignment. Some days you have a longer more synthetic assignment in place of the standard reflection.
 
 {% include alert.html class='info' title='Familiarity over mastery' text="
 The readings can be dense and sometimes it's hard to identify what's really important. That's one of the core skills you're developing in this course! So, in trying to evaluate your engagement with them, I'm always looking for **familiarity over mastery**. Knowing what's in the readings and what they are trying to do, is FAR more important than feeling like you completely get it. Tell me where you are on that spectrum. Skim the readings, read certain parts carefully, form an opinion, and write a quick reflection.
@@ -84,7 +84,7 @@ The readings can be dense and sometimes it's hard to identify what's really impo
 ### Final Grading Scale
 
 {% include alert.html class='info' title='Familiarity over mastery' text='
-Note that the whole scale is a little "easier" than the "standard" grading scale, to automatically make up any assignemnts you feel got graded a bit harshly. 
+Note that the whole scale is a little "easier" than the "standard" grading scale, to automatically make up any assignments you feel got graded a bit harshly.
 '%}
 
 If you feel like you're always getting graded lower than what you expected, we have a calibration issue to resolve, so please reach out so we can resolve it. If you have one assignment that you worked hard at and are proud of, but got a low grade, there was a mistake or miscommunication. Please reach out so we can fix it. 
@@ -115,4 +115,4 @@ You should be familiar with [UNM’s Policy on Academic Dishonesty and the Stude
 
 
 ## Accessibility
-UNM is committed to providing courses that are inclusive and accessible for all participants. As your instructor, it is my objective to facilitate an accessible education experience, in which students have full access and opportunity. If you are experiencing technical or academic barriers, or concerns related to mental or physical health,  please consult with me. You are also encouraged to contact Accessibility Resource Center at arcsrvs@unm.edu or by phone 277-3506.
+UNM is committed to providing courses that are inclusive and accessible for all participants. As your instructor, it is my objective to facilitate an accessible education experience, in which students have full access and opportunity. If you are experiencing technical or academic barriers, or concerns related to mental or physical health, please consult with me. You are also encouraged to contact Accessibility Resource Center at arcsrvs@unm.edu or by phone 277-3506.

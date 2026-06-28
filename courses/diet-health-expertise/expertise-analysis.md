@@ -49,16 +49,16 @@ Please do not cite things from outside course readings---this assignment is to h
 
 
 ## Tips for success
- - **Be specific.** Never, even mention only that something relates to something else. You must explain how and why and the significance of the relationship. This is probably the biggest weakness with most essays. Don't say "This advice is like what Galen said." Give more details about how (and how much) such a claim is true, cite relevant passages from Galen (and/or readings about him), and why your comparison matters.
+ - **Be specific.** Never mention only that something relates to something else. You must explain how and why and the significance of the relationship. This is probably the biggest weakness with most essays. Don't say "This advice is like what Galen said." Give more details about how (and how much) such a claim is true, cite relevant passages from Galen (and/or readings about him), and why your comparison matters.
  - **Provide specific citations.** You need to cite page numbers! This forces you to double check your own memory and interpretation of the readings, and helps you avoid making false claims.
  - **Don't be banal.** Avoid trivial statements that are simply fluff and don't show you engaging with the course materials or your source.
- - **Paraphase.** Avoid long quotations in your critique, since you want use all the space for your own thinking and expression
+ - **Paraphrase.** Avoid long quotations in your critique, since you want to use all the space for your own thinking and expression
  - **Be selective.** You can’t fit everything worth saying into your essay. Choose carefully what you think is most important!
  - **Revise, revise, revise.** Once you have a complete draft of everything you want to say, you are about 50% done. Set it aside (and budget time for this!), then come back and economize your prose. Remove simple sentences that force you to be unnecessarily verbose.
 
  In the process of getting your ideas on paper, you might end up with something like: "This article does not cite any research. The lack of research means it is difficult to understand if it should be trusted."
 
- During revisions, you should rephrase this to: "The article's lack of citations compromises its authority and casts out on its validity."
+ During revisions, you should rephrase this to: "The article's lack of citations compromises its authority and casts doubt on its validity."
 
  This kind of revision gives you much-needed space for more analysis and makes your writing (and you, by extension) smarter.
 
@@ -66,7 +66,7 @@ Please do not cite things from outside course readings---this assignment is to h
 
 
 ## Resubmissions
-If you are not pleased with your grade, you can revise and resubmit them within **1 week** of getting them back. You get an average grade between the two, though I tend to count the second one a bit more. I encourage you to meet with me about your essay before revising it to make sure you have a clear understanding how to improve it.
+If you are not pleased with your grade, you can revise and resubmit it within **1 week** of getting it back. You get an average grade between the two, though I tend to count the second one a bit more. I encourage you to meet with me about your essay before revising it to make sure you have a clear understanding of how to improve it.
 
 
 ## Questions

@@ -9,35 +9,39 @@ section: schedule
 
 # HIST 410: Readings and Assignments
 
-# Week 1: How to read diet advice
-This first week gives us two things we'll use all month: a way to analyze dietary advice, and a long historical baseline. We start with a modern historian asking how the language of nutrition shapes what we think food is. Then we go back to ancient and premodern medicine, where diet was central to health long before calories, vitamins, or nutrition labels existed.
+{% include alert.html class='info' title='Keep refreshing' text="
+The schedule indicated on this page is always accurate for the upcoming week, but some details beyond that may be tweaked a bit. If you keep this page open in your browser tab, make sure you refresh at least each week (every day is best, just in case!). There will never be any significant changes to the workload or general assignment timing.
+"%}
 
-The goal is not to memorize old medical theory. The goal is to notice that food advice has always been about bodies, habits, authority, evidence, and culture. If some of the older readings feel strange, that's fine. Strange is useful. It helps us see assumptions that are usually invisible in our own world.
+
+# Week 1: How to read diet advice
+This first week gives us two things we'll use all month: a way to analyze dietary advice, and a long historical baseline. We start with a modern historian asking how the language of nutrition shapes what we think food is and calling attention to the "rhetoric of science"--that is, *how* we talk about diet and health, not just the science itself. 
+
+Then we go back to ancient and premodern medicine, where diet was central to health long before calories, vitamins, or nutrition labels existed. The goal is not to memorize old medical advice. The goal is to notice that food advice has always been about bodies, habits, authority, evidence, and culture. If some of the older readings feel strange, great! Strange is useful. It helps us see assumptions that are usually invisible in our own world.
+
 
 ## Mon 6/29: Introductions, SLOs, Key Concepts
 Welcome! Today is mostly about getting oriented. Since this is a compressed online course, the first job is simply to make sure everything is wired up and that you know where to find things. Please do the introductory work as soon as you can, but make sure it is done BEFORE WEDNESDAY. Normally assignments are due the day they appear on the syllabus, but we have a little extra room at the beginning to get settled.
 
-The short reading for today previews the basic attitude of the course: curiosity plus skepticism. We are not trying to become nutrition experts in four weeks. We are learning how to ask better historical questions about health advice, expertise, and trust. It covers a lot of themes and some sources we read, so it's a great preview of the course. It also gives you some useful ideas for 
-- [Course Overview Video](#)
-- [Defining Healthy Video](#)
+The short reading for today previews the basic attitude of the course: curiosity plus skepticism. We are not trying to become nutrition experts in four weeks. We are learning how to ask better historical questions about health advice, expertise, and trust. It covers a lot of themes and some sources we read, so it's a great preview of the course.
+- [Course Overview Video](https://youtu.be/oVQEd_49JWY)
+- [Day 1 Overview](https://youtu.be/uEZlBG6Xwe0)
 
-- Fred Gibbs, [A healthy dose of skepticism](https://nursingclio.org/2017/05/24/a-healthy-dose-of-skepticism/)
-- [FDA definition of "healthy"](https://www.federalregister.gov/documents/2024/12/27/2024-29957/food-labeling-nutrient-content-claims-definition-of-term-healthy)
+- Fred Gibbs, [A healthy dose of skepticism](https://nursingclio.org/2017/05/24/a-healthy-dose-of-skepticism/). This blog post from a long time ago serves as a great intro to many course themes (although the course was created well after this was written). 
+- [FDA definition of "healthy"](https://www.federalregister.gov/documents/2024/12/27/2024-29957/food-labeling-nutrient-content-claims-definition-of-term-healthy). We're not reading this whole thing! Read the first page or two that explain what the document is about, and skim the rest to get a flavor of what a definition of healthy can look like. Your reaction is integral for your post assignment today.
 
 {% include alert.html class='danger' title='Syllabus Quiz' text="
 Take the Syllabus Quiz. It's not really a test, but just a way to confirm and highlight important logistics of the course to avoid problems later. 
 "%}
 
 {% include alert.html class='danger' title='Intro Post' text="
-Just as a quick way to get to know each other a tiny bit, please post a brief hello (name, major, favorite food), and let us your opinion on the question, 'Do we need a definition of healthy?' Please have an INFORMED opinion based on the readings for the first day. Your post should show you've put some effort into those, but don't summarize them---use them to justify your own opinion. Aim for ~150 words or so.
+Just as a quick way to get to know each other a tiny bit, please post a brief hello (name, major, favorite food), and let us know your opinion on the question, 'Do we need a definition of healthy?' Please have an INFORMED opinion based on the readings for the first day. Your post should show you've put some effort into those, but don't summarize them---use them to justify your own opinion. Aim for ~150 words or so.
 "%}
 
 
-
-
 ## Tue 6/30: Understanding Nutrition
-- [Rhetoric of Science video](#)
-- Jessica J. Mudry, *Measured Meals. Nutrition in America*, 1-19 (Introduction: Eating by Numbers). 
+- [Rhetoric of Science video](https://youtu.be/6g6-fhxJqxY)
+- Jessica J. Mudry, *Measured Meals. Nutrition in America*, 1-19 (Introduction: Eating by Numbers).
 
 {% include alert.html class='warning' title='Reading reflection' text="
 Remember all readings are in the Zotero library. To access them, you need to be logged into Zotero.org and visit [our group library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library). If you can't see the PDFs, you either 1) are not logged in, or 2) never requested to join the library. Instructions are on the [syllabus home page](index).
@@ -45,14 +49,14 @@ Remember all readings are in the Zotero library. To access them, you need to be 
 
 This is probably the most abstract reading of the first week, so don't worry if it feels a little slippery. Jessica Mudry argues that modern nutrition advice often tries to make eating scientific by turning food into numbers: calories, grams, percentages, serving sizes, nutrients, daily values, risk scores, and recommended limits. We'll return to these ideas in week 3, but her bigger point is even more important. 
 
-We're reading this chapter because she draws attention to the "rhetoric of science." By that she means we have to pay attention not just to _what_ dietary advice says, but _how_ it says it.  In other words, talking about diet is never just about the "facts." It is also about how those facts are framed, simplified, measured, and made persuasive. Language does not simply report knowledge; it helps shape what counts as knowledge in the first place. 
+We're reading this chapter because she draws attention to the "rhetoric of science." By that she means we have to pay attention not just to _what_ dietary advice says, but _how_ it says it. In other words, talking about diet is never just about the "facts." It is also about how those facts are framed, simplified, measured, and made persuasive. Language does not simply report knowledge; it helps shape what counts as knowledge in the first place.
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-- bbBe sure to review the [reading reflection guidelines](reading-reflections)
+- Be sure to review the [reading reflection guidelines](reading-reflections)
 - Would you agree with her argument that the language of quantification to prescribe a 'healthy' diet is a failure?
 - Based on the chapter, what _should_ good dietary advice sound like? Numbers? Stories? Habits? Warnings? Cultural knowledge? Personal experience? Scientific authority? What combination?
-- Can you think of an example of how the 'rhetoric of science' matters outside diet and health? 
+- Can you think of an example of how the 'rhetoric of science' matters outside diet and health?
 "%}
 
 
@@ -61,9 +65,10 @@ Today we go way back to ancient Greece and Rome because it helps us see how dura
 
 Our primary source Galen (died c. 215 CE), a famous physician who wrote about medicine so much and so thoroughly, he was the main medical authority in Western culture for over 1500 years. His work may seem strange at first, but don't read him as simply "wrong science." Read him as someone working inside a coherent medical world. His details about foods, bodies, qualities, and balance show us what counted as evidence. The way he tries to convince readers he knows more than other physicians shows how expertise was created in his day, and still is in some ways.
 
-- [Reading Galen Video](#)
+- [Day 3 Overview](https://youtu.be/AkfBF-63Ob4)
+- Optional [Reading Galen Video](https://youtu.be/OEPWJAYnO6E). Read if you want some additional explanation on how to read Galen and how he relates food, medicine, and disease.
 - Mark Grant, _Galen: On Food and Diet_, 1-8. These few pages provide a general introduction to the classical physician Galen (died circa 215 CE) and ancient medicine. The author of the introduction (Grant) has translated many of Galen's writing about food, and we'll read an excerpt from those as noted below.
-- Galen, (tr. Mark Grant), _On the Humors_, 14-18; _On the Power of Foods_, 68-84. This was written by Galen himself (not Grant). Note that there is WAY MORE DETAIL about foods in here than you need to know. **Read for the big picture** in terms of how Galen establishes his expertise, what topics are most interesting to him, how he thinks about the relationship between diet and health. 
+- Galen, (tr. Mark Grant), _On the Humors_, 14-18; _On the Power of Foods_, 68-84. This was written by Galen himself (not Grant). Note that there is WAY MORE DETAIL about foods in here than you need to know. **Read for the big picture** in terms of how Galen establishes his expertise, what topics are most interesting to him, how he thinks about the relationship between diet and health.
 
 {% include alert.html class='danger' title='Reading reflection' text="
 - Do not summarize the readings!
@@ -80,22 +85,21 @@ Today extends the world we began with Galen. The details change across ancient, 
 As you skim Albala, don't get stuck trying to master every term. Instead, watch how food sits at the intersection of medicine and culture. What counts as healthy depends not only on ideas about bodies, but also on climate, class, habit, taste, and common sense.
 
 - SKIM: Ken Albala, _Eating Right in the Renaissance_, 63--77; 78--84; 91--104.
-- [Visualizing Premodern Medicine](https://youtu.be/oa-b8llXLTk)
+- [Visualizing Premodern Medicine](https://youtu.be/oa-b8llXLTk). Lots of amazing images from medieval and early modern manuscripts and books. Gives you a chance to "see" what medical culture looked like to contemporaries. 
 
 {% include alert.html class='danger' title='Premodern Medicine Post' text="
 **Continuity and Change**
-Using Albala's text, what struck as you a few things that remained constant from Galen's writing through Early Modern Europe and what thingsseemed a bit different? 
+Using Albala's text, what struck you as a few things that remained constant from Galen's writing through Early Modern Europe, and what things seemed a bit different?
 
 **The 'Fact vs. Fiction' Challenge**
-Many people have stereotypes about premodern medicine being 'barbaric' or 'superstitious.' Based on the visuals, pick one image that surprised you challenged your assumptions. What does this specific artifact tell you about the intellectual life of the Middle Ages?
+Many people have stereotypes about premodern medicine being 'barbaric' or 'superstitious.' Based on the visuals, pick one image that surprised you or challenged your assumptions. What does this specific artifact tell you about the intellectual life of the Middle Ages?
 
 **The 'Modern Analog' Reflection**
-The video explains how 'regimens of health' were the most popular medical texts. If you were writing a 'Regimen of Health' manual for college students today, what are three daily routines or dietary rules you would include to maintain balance? What would premodern nniversity students do?
+The video explains how 'regimens of health' were the most popular medical texts. If you were writing a 'Regimen of Health' manual for college students today, what are three daily routines or dietary rules you would include to maintain balance? What would premodern university students do?
 "%}
 
 
 ## Fri: Celebrate a Birthday! Nothing to do today.
-
 
 
 
@@ -106,32 +110,30 @@ The big shift to watch is not simply from "old medicine" to "new medicine." It i
 
 
 ## Mon 7/6: Dietary Expertise in the Enlightenment
-- Steven Shapin, "Trusting George Cheyne," 263--97. This article is clear and informative, but way longer than it needs with too much detail. (yay academic writing!) So, let's use AI to help us sort it out. And help us learn how to use AI. Take the PDF from Zotero and upload it into some AI tool (chatGPT, for instance, but it doesn't matter which one), and ask for a summary of the article. Shapin's article can feel dense, but the basic question is wonderfully simple: why did people trust this person?
+{% include alert.html class='info' title='A note on interpretation' text="
+After taking even a single upper-level history course, you should have a sense of what historians actually do. The next two days show that working with historical sources is difficult! Like in any profession, good historians can make stories seem like they naturally emerge from historical sources. Today we "read" a long but informative article about an 18th-century physician. But when you go back and look at the original material---as we do on Tuesday---you immediately understand how much work and INTERPRETATION goes into even the most straightforward history. Nothing at all is truly obvious. **There are no stories waiting to be told.**
+"%}
 
-Cheyne is useful because he sits right where several course themes meet: medicine, morality, social status, bodily experience, and common sense. 
+- Steven Shapin, "Trusting George Cheyne," 263--97. This article is clear and informative, but way longer than it needs with too much detail. (yay academic writing!) So, let's use AI to help us sort it out. And help us learn how to use AI as a reading partner. Shapin's article can feel dense, but the basic question is wonderfully simple: why did people trust this person? We're going to use AI to help us understand how he answers that question and the evidence he uses.
 
-We'll also use AI in a deliberately limited way. A summary can help you get oriented, but it also flattens the texture of historical argument. Your job is to notice what the summary misses: tone, evidence, social world, uncertainty, and the way Cheyne's authority gets built.
+- Use the [AI Reading Investigation guide](ai-reading-investigation) for this assignment. We'll use AI in a deliberately investigative way. It can help you get oriented, clarify concepts, generate possible interpretations, and identify passages to reread. But it also flattens the texture of historical argument. Your job is to use it to ask better questions, then verify its claims against Shapin's text.
 
 
-{% include alert.html class='danger' title='Reading Reflections' text="
-#### Make sure you're giving SPECIFIC examples!
+{% include alert.html class='danger' title='AI Reading Investigation' text="
+Work through the [AI Reading Investigation guide](ai-reading-investigation), then post a short response that includes:
 
-- What are the key ideas about medical practice in general that the AI summary leaves out?
-- When skimming for yourself, what little bits of information did you think were interesting that didn't appear in the summary?
-- How would you describe the larger narrative arc of the article that inevitably gets lost in an AI summary?
-- Why is _micromechanism_ important in this article and for 18th-century physicians? 
-- Was Cheyne's advice in conflict with common sense as discussed in the early part of the article? 
-- How did Cheyne appeal to morality in his letters with patients?
+- One useful AI-generated insight.
+- One AI claim you verified in Shapin.
+- One AI claim that was too vague, wrong, or needed correction.
+- One passage, example, or moment from Shapin that you understand better because of the AI interaction.
+- Your answer to the central question: Why did people trust Cheyne, and what does that reveal about expertise?
 "%}
 
 
 
 ## Tue 7/7: Do you Trust George Cheyne?
-{% include alert.html class='info' title='A note on interpretation' text="
-After taking even a single upper-level history course, you should have a sense of what historians actually do. Today shows that working with historical sources is difficult! Like in any profession, good historians can make stories seem like they naturally emerge from historical sources. But when you go back and look at the original material---as we're doing today---you immediately understand how much work and INTERPRETATION goes into even the most straightforward history. Nothing at all is truly obvious. **There are no stories waiting to be told.**
-"%}
 
-Today we read Cheyne himself. Do not worry about understanding every sentence perfectly. Read for voice, posture, and rhetorical effect. How does he want to sound? Reasonable? Learned? Pious? Practical? Scientific? All of the above? How does does he establish his expertise? 
+Today we read Cheyne himself. Do not worry about understanding every sentence perfectly. Read for voice, posture, and rhetorical effect. How does he want to sound? Reasonable? Learned? Pious? Practical? Scientific? All of the above? How does he establish his expertise?
 
 - George Cheyne, [_An Essay on Regimen_](https://www.google.com/books/edition/_/ezswAAAAYAAJ?hl=en&gbpv=1)," i-xxiv, and randomly sample the whole text to get a feel for the tone, language, and rhetorical effect. Note that a single "s" within a word looks like an "f". For instance, on the title page you'll see "Philofophical" instead of "Philosophical". Yes, the long "f"s and the language in general seem weird to us moderns, but you get used to them after a few pages.
 
@@ -141,7 +143,6 @@ Today we read Cheyne himself. Do not worry about understanding every sentence pe
 - **Briefly describe how much you agree or disagree with the post you choose. Have something NEW to say, but build off an earlier post (kinda like an actual discussion).**
 - How much did Cheyne's text match what Shapin described? 
 - Aside from the language, how different or similar is Cheyne's way of establishing expertise compared to modern dietary experts?
-
 "%}
 
 
@@ -158,28 +159,25 @@ This looks like a lot, but you are not reading five books. You are sampling a hi
 
 {% include alert.html class='danger' title='Comparative reflection' text="
 - Compare TWO texts from above in terms of similarities and differences. Guiding questions: 
-  - What is the health problem the authors describe? 
   - What is their conception of disease?
   - What kinds of arguments do they use to appeal to their audience?
   - What kind of evidence do they provide?
   - What can we learn about their society and cultural context from how they discuss diet?
-  - How is the text similar and different from other dietary texts we've read so far?
+  - What is the style/tone/rhetoric of the authors? Which was more compelling to you?
 "%}
 
 
 
-
 ## Thu 7/9: Healthy Living with Crackers
-
-Today we meet Sylvester Graham, whose name survives most obviously in graham crackers, although the crackers in your pantry are not exactly what he had in mind. Graham matters because he turns diet into a broad program for moral, bodily, and social reform.
+Today we meet Sylvester Graham, whose name survives most obviously in Graham crackers, although the crackers in your pantry (with sugar, cinnamon, etc) are not exactly what he had in mind. Graham matters because he turns diet into a broad program for moral, bodily, and social reform.
 
 As you read Shprintzen, focus on Graham and his context. The earlier religious material matters because it shows that Graham did not invent moral vegetarianism from nothing. But the key question is how Graham made diet reform feel urgent, authoritative, and practical in a moment of social anxiety.
 
 - Adam D. Shprintzen, _The Vegetarian Crusade_, Chapter 1: Proto-vegetarianism, skim 10--mid 16; 16-27; 32-38. This chapter briefly describes some early religious sentiments supporting vegetarianism, and most importantly introduces Sylvester Graham and his historical context. Focus on Graham, not the Biblical Christians, but understand their general influence.
 
 {% include alert.html class='danger' title='Reading reflection' text="
-- How did Graham establish his authority as a dietary reformer? 
-- How was cholera related to his success and thinking about diet? 
+- How did Graham establish his authority as a dietary reformer?
+- How was cholera related to his success and thinking about diet?
 - How was Graham's argument for a meat-free diet different from the Biblical Christians discussed early in the chapter?
 "%}
 
@@ -198,25 +196,20 @@ Now that you have Shprintzen's context, read Graham himself for style and persua
 
 {% include alert.html class='danger' title='Reading reflection' text="
 - Compare and contrast Graham's advice for healthy living with that of Cheyne.
-- How is the rhetoric similar to and different from what we've seen in the course so far? 
-- How is it similar to and different from our own rhetoric about a healthy diet? 
+- How is the rhetoric similar to and different from what we've seen in the course so far?
+- How is it similar to and different from our own rhetoric about a healthy diet?
 "%}
 
 
 
 # Week 3: Scientific and Quantified Eating
-This week is about one of the biggest changes in the history of dietary advice: food becomes numerical. Calories, nutrients, averages, standards, tables, and labels make eating seem more precise and scientific. They also make food easier to compare, regulate, moralize, and argue about.
+This week is about one of the biggest changes in the history of dietary advice: food becomes numerical. We already got a preview of this in first few days of class, and how we look at the shift in historical context. Calories, nutrients, averages, standards, tables, and labels became the way to make eating and health more precise and scientific. They also make food choices easier to compare, regulate, moralize, and argue about.
 
 The big question is not whether numbers are good or bad. Numbers are incredibly useful! But they are not neutral magic. This week, keep asking what quantification makes easier to see, what it hides, and how moral judgments about food and bodies survive inside scientific language.
 
 
-
 ## Mon 7/13: Quantifying diets
-- Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67.
-
-We return to Mudry now with more historical context. You have already seen dietary authority built through humoral theory, gentlemanly medicine, common sense, reform, morality, and personal discipline. Mudry helps us ask what changes when dietary advice begins to depend more heavily on numbers.
-
-As you read, try to hold two ideas together: quantification can clarify real patterns, but it can also make messy human practices seem simpler than they are.
+- Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67. We return to Mudry now with more historical context. You have already seen dietary authority built through humoral theory, gentlemanly medicine, common sense, reform, morality, and personal discipline. Mudry helps us ask what changes when dietary advice begins to depend more heavily on numbers. As you read, try to hold two ideas together: quantification can clarify real patterns, but it can also make messy human practices seem simpler than they are.
 
 {% include alert.html class='danger' title='Reading Reflection' text="
 Use specific examples to illustrate what you see as the strengths and weaknesses of Mudry's analysis of the implications of quantified eating. Where is she most convincing? Where are you more skeptical? Would you say she presents a neutral and balanced view of the implications of quantification?
@@ -240,7 +233,7 @@ To what extent do you agree with Biltekoff\'s argument and evidence that scienti
 ## Wed 7/15: The Birth of the Calorie
 
 {% include alert.html class='info' title='Another Primary Source' text="
-Our goal today is to investigate for ourselves a work that was so often referenced in our readings this week. *Skim but don't totally skip* the science details. The detail is obviously not important *per se* but we should think about why it's there. Also notice what's NOT in this article as pointed out by our readings---there's nothing about the subjective meanings of food. Taste, tradition, comfort are entirely unimportant in comparison to maximizing nutritive and economic value.
+Our goal today is to investigate for ourselves a work that was often referenced in our readings this week. *Skim but don't totally skip* the science details. The detail is obviously not important *per se* but we should think about _why it's there_. Also notice what's NOT in this article as pointed out by our readings---there's nothing about the subjective meanings of food. Taste, tradition, comfort are entirely unimportant in comparison to maximizing nutritive and economic value.
 "%}
 
 Today food enters the laboratory. Atwater's article is not exciting because every scientific detail matters; it is exciting because of what the details do rhetorically. They make food look measurable, comparable, and manageable. As you read, ask what kind of world becomes possible when food is treated as fuel.
@@ -256,9 +249,9 @@ Today food enters the laboratory. Atwater's article is not exciting because ever
 
 
 ## Thu-Fri (7/16 - 7/17): Early 20th century sources
-For the next two days (which we treat as a single unit since there's nothing due on Thursday) we focus on a few diet books written between 1918 and 1922. They are all COMPLETELY different in their approach, style, and the way their authors try to establish their expertise. 
+We treat the next few days single unit, and there's nothing due on Thursday. We focus on a few diet books written between 1918 and 1922. A small window of time, but they are all COMPLETELY different in their approach, style, and the way their authors try to establish their expertise. 
 
-Peters, Kellogg, and McCollum are writing in roughly the same era, but they sound like they live in different dietary universes. That's the point. Scientific nutrition did not produce one single style of advice. It created new tools that different authors used for different audiences, anxieties, and promises.
+Peters, Kellogg, and McCollum are writing in the same era, but they sound like they live in different dietary universes. That's the point. Scientific nutrition did not produce one single style of advice. It created new tools that different authors used for different audiences, anxieties, and promises.
 
 For each text, I've indicated specific pages you should read fairly carefully. IN ADDITION, as we did before, carefully examine the table of contents and randomly sample pages or small sections throughout the book to get a feel for the text as a whole. Read for patterns: tone, audience, evidence, promises, fears, and the way each author turns nutrition into practical advice.
 
@@ -266,11 +259,12 @@ For each text, I've indicated specific pages you should read fairly carefully. I
 
 - John Harvey Kellogg, [_The New Dietetics, what to Eat and how: A Guide to Scientific Feeding in Health and Disease_](https://www.google.com/books/edition/_/CBGxvXF332cC?hl=en&gbpv=1&pg=PA1) (1921). Read the Preface (pp. 5--7); skim the Table of Contents (pp. 8--21); read pp. 25--37.
 
-- Elmer McCollum, [The Newer Knowledge of Nutrition](https://www.google.com/books/edition/_/jndUnd5xX5wC?hl=en&gbpv=1) (1922). Read the preface (xii--ix), skim the Table of Contents, and read 1--13.
+- Elmer McCollum, [The Newer Knowledge of Nutrition](https://www.google.com/books/edition/_/jndUnd5xX5wC?hl=en&gbpv=1) (1922). Read the preface (ix--xii), skim the Table of Contents, and read 1--13.
 
 
 {% include alert.html class='danger' title='TRIPLE Comparative Reflection DUE FRIDAY' text="
-This reflection should be THREE TIMES as long as the usual reading reflection and is worth THREE TIMES as many points. As with last week, you ARE NOT reading these books in their entirety. This time I've provided more specific pages, but you should also develop a sense of each texts as a whole. Use the skimming strategies outlined in the video from last week to find revealing parts that help you understand why the text is the way it is.
+This reflection should be THREE TIMES as long as the usual reading reflection and is worth THREE TIMES as many points. As with last week, you ARE NOT reading these books in their entirety. This time I've provided more specific pages, but you should also develop a sense of each text as a whole. Use the skimming strategies outlined in the video from last week to find revealing parts that help you understand why the text is the way it is.
+- Do not just summarize the texts! Your posts should *analyze* them.
 - How would you characterize their different rhetorical styles?
 - How do the texts show continuities and discontinuities of dietary advice from past sources?
 - How do the authors establish expertise?
@@ -293,9 +287,9 @@ This is the day when body size becomes impossible to treat as just a medical que
 As you read, keep asking how a body becomes evidence. Evidence of what? Health? Character? Modernity? Failure? That question will matter for the rest of the week.
 
 {% include alert.html class='danger' title='Reading Reflections' text="
-For this exercise, bullet points are 1-3 complete sentences that clearly express a complete idea, not cryptic phrases that no one but you can understand. 
+For this exercise, bullet points are 1-3 complete sentences that clearly express a complete idea, not cryptic phrases that no one but you can understand.
 
-- Write 4 bullet points that summarize what you think are the MAIN POINTS of the article. They might not be equally important; you might think your first one or two points are REALLY important and the others are less so. 
+- Write 4 bullet points that summarize what you think are the MAIN POINTS of the article. They might not be equally important; you might think your first one or two points are REALLY important and the others are less so.
 - Write 4 bullet points that point out similarities and differences to other readings in the course to this point. What kinds of things have we seen before? What are variations on a theme? What's really new?
 - As part of your bullet points, briefly indicate WHY you think your point is worth highlighting. 
 "%}
@@ -309,9 +303,9 @@ Low-fat advice did not become powerful simply because scientists discovered some
 This is a long article, so read strategically. The most important issue is not remembering every event in the history of low-fat advice. The important issue is understanding how a scientific claim becomes a cultural default.
 
 {% include alert.html class='danger' title='Reading reflection' text="
-This article is a LONG (and kinda dry) description of some things that happened in the past regarding low-fat diets. There's not much analysis of how we should understand those things in the context of the broad history of diet and health. That's where you come in! 
+This article is a LONG (and kinda dry) description of some things that happened in the past regarding low-fat diets. There's not much analysis of how we should understand those things in the context of the broad history of diet and health. That's where you come in!
 
-Although a secondary source, you are NOT meant to read this carefully. You should skim/read as much as you need to. Your challenge---what you should write about in your reflection---is to explain how we can understand how / why the \"ideology of low fat\" unfolded as it did and what was in fact new about it. I hope you can use a historical perspective that is not in the article, but that the course has hopefully provided.
+You are NOT meant to read this carefully. You should skim/read as much as you need to. Your challenge---what you should write about in your reflection---is to explain how we can understand how / why the \"ideology of low fat\" unfolded as it did and what was in fact new about it. I hope you can use a historical perspective that is not in the article, but that the course has hopefully provided.
 "%}
 
 
@@ -323,7 +317,7 @@ Berreby is useful because he challenges one of the most durable stories in diet 
 This article also helps us think about what history can and cannot do. History does not replace science, but it can show why some scientific questions feel obvious, why others get ignored, and why certain explanations become morally satisfying.
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Let's be clear: this article DOES NOT try to argue that personal choice is not a cause of obesity. But it does try to suggest how there other reasons that also matter, and that there are potentially structural causes of ill-health that can be easily overlooked in modern research paradigms. How does this course help explain WHY the author wrote this? According to the author, how should \"science\" be used to help understand obesity? 
+Let's be clear: this article DOES NOT try to argue that personal choice is not a cause of obesity. But it does try to suggest how there are other reasons that also matter, and that there are potentially structural causes of ill-health that can be easily overlooked in modern research paradigms. How does this course help explain WHY the author wrote this? According to the author, how should \"science\" be used to help understand obesity?
 "%}
 
 
@@ -347,7 +341,7 @@ This quiz asks you to connect Aschwanden's article about why nutrition knowledge
 ## Fri 7/24: Fad diets and modern critique
 Fad diets can look silly from a distance, but they are serious historical evidence. They show what people fear, whom they trust, what they think modern life has damaged, and what kind of rescue they want food to provide.
 
-Today we're asking how modern diet trends create villains, heroes, risks, and promises. As always, the point is not simply to decide whether the advice is good or bad. The more interesting question is how these arguments become persuasive, especially when the science is complicated, uncertain, or still unfolding.
+Today we're asking how modern diet trends create villains, heroes, risks, and promises. As always, **the point is not simply to decide whether the advice is good or bad.** The more interesting question is how these arguments become persuasive, especially when the science is complicated, uncertain, or still unfolding.
 
 - Michael Specter, [Against the Grain](https://www.newyorker.com/magazine/2014/11/03/grain), (_New Yorker_, October 27, 2014).
 - James Hamblin, [Lectins Could Become the Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/), (_The Atlantic_, April 24, 2017).
@@ -369,8 +363,10 @@ Some questions to consider:
 # Week 5: Review and Reflection
 
 ## Mon -- Tue (7/27 - 7/28)
-We end by stepping back. The final reflection is not meant to be a list of topics you remember from the syllabus. It is a chance to explain what changed in how you think: about dietary advice, expertise, evidence, bodies, science, morality, and trust.
+We end by stepping back. The final reflection is not meant to be a list of topics you remember from the syllabus. It is a chance to explain what changed in how you think: about dietary advice, expertise, evidence, bodies, science, morality, and trust. You're narrating **your learning experience**. Do not summarize the course; these relfections are about you.
 
-Before you write, revisit the readings and videos enough to remind yourself of the course as a whole. Look for connections across weeks. The strongest reflections will not say, "I learned to be skeptical about diets" and stop there. They will show, with specific examples, how that skepticism became more historically informed.
+Before you write, revisit the readings and videos enough to remind yourself of the course as a whole. Look for connections across weeks. The strongest reflections will not say, "I learned to be skeptical about diets" and stop there. They will show, with specific examples, how that skepticism became more historically informed. They will show how different readings interface with each other. Thye will 
 
-- Post your [final course reflection](final-reflections).
+{% include alert.html class='danger' title='Course Reflections' text="
+Our last thing! Post your [final course reflection](final-reflections) before midnight on Tuesday.
+"%}
