@@ -75,10 +75,14 @@ The readings can be dense and sometimes it's hard to identify what's really impo
 - You have TWO DAYS after the due date to turn in the assignment, although there is a one grade late penalty each day. Then the assignment is closed. I don't want to sound too strict, but I've found that having no deadlines encourages well-meaning students (who want to turn in their best work) to get into a deep hole of missing work, and the course simply moves too fast to recover.
 
 ## Assignments and Grading
-- Occasional reading/lecture quizzes 
-- [Reading reflections](reading-reflections)
+- Short posts and [reading reflections](reading-reflections)
+- [AI Reading Investigation](ai-reading-investigation)
+- Primary source comparison
+- Early 20th-century source comparison
 - [Complicate the Obvious](healthy-diet-analysis)
-- [Final learning reflection](final-reflections) 
+- [Final learning reflection](final-reflections)
+
+Assignments will appear in Canvas as letter grades. Some assignments count more heavily behind the scenes because they ask for more synthesis, more sources, or more end-of-course reflection, but I want you thinking mainly in terms of the quality of the work: A, B, or C.
 
 
 ### Final Grading Scale
@@ -101,15 +105,14 @@ Percent | Grade
 72-76 | C
 68-71 | C-
 62-67 | D+
-56-62 | D
+56-61 | D
 55- | F
 
 
 ## AI Policy & Academic Integrity
 * Learning to use AI is an important skill in itself, but using it when you're supposed to be working through the friction of thinking on your own is like bringing a forklift into the weightroom. Eventually you will lose out to people _actually doing the work_.
-* Each assignment specifies the level and type of AI use that's appropriate. Sometimes that's not using it at all; sometimes the whole assignment is AI-driven. Please respect the intended AI component of each assignment.
+* Each assignment specifies the level and type of AI use that's appropriate. Sometimes that's not using it at all; sometimes the whole assignment is AI-driven. Please respect the intended AI component of each assignment, and be sure you're clearly separating your work from AI work as asked.
 * Since AI answers are always a few clicks away, one common rule for all assignments: **You must always differentiate your work from AI.** If it even _seems_ like vanilla AI (_even if it isn't_), you will need to redo the assignment for credit.
-* I can't really _prove_ you're cheating if you do, but that's OK. Eventually you'll lose out to people who actually learned to use AI critically and productively instead of deceptively. That seems a sufficient enough consequence.
 
 You should be familiar with [UNM’s Policy on Academic Dishonesty and the Student Code of Conduct](http://pathfinder.unm.edu/policies.htm#studentcode) which outline academic misconduct defined as plagiarism, cheating, fabrication, or facilitating any such act.
 

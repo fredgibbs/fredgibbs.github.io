@@ -22,7 +22,9 @@ This page summarizes course resource links that you will probably need repeatedl
 - The course [YouTube Channel](https://www.youtube.com/channel/UCt6_7arYzi4TcIIwo7TLURw) has all recorded videos.
 
 ## Assignment Guides
+These guides explain what each assignment asks you to do, why it matters for the course, what skills you are practicing, and how the work will be evaluated.
+
 - [Reading Reflections](reading-reflections)
 - [AI Reading Investigation](ai-reading-investigation)
 - [Complicate the Obvious](healthy-diet-analysis)
-- [Final Course Reflection](final-reflections)
+- [Final Learning Reflection](final-reflections)

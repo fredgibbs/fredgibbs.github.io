@@ -12,6 +12,13 @@ Some readings are difficult because they are long, dense, or full of unfamiliar 
 
 Treat AI like a smart but unreliable study partner. It can help you notice things, but it cannot do the historical thinking for you. You need to check its claims against the reading and use your own judgment to decide what matters.
 
+## Why we do this
+Shapin's article is about trust, expertise, evidence, experience, and common sense. Those are course themes, but they are also practical reading problems: how do you know what an author is really arguing, what evidence matters, and which interpretation is worth pursuing?
+
+This assignment is designed to help you practice using AI creatively and critically as part of your learning process. The point is not simply to catch AI making mistakes. The point is to use AI to ask better questions, find your way into a difficult article, and then return to the reading with more historical judgment.
+
+You are practicing three skills at once: reading a scholarly argument, evaluating AI-generated claims, and connecting a specific historical case to the broader course question of how dietary expertise becomes believable.
+
 
 ## Basics
 - ~400 words (around double the usual reflections)
@@ -22,14 +29,14 @@ Treat AI like a smart but unreliable study partner. It can help you notice thing
 - Your final post should be written by you, not by AI.
 
 
-## The goal
+## What to do
 Your goal is not to outsource the reading. Your goal is to make the reading more investigable.
 
 By the end, you should be able to answer a historical question with specific evidence from the article. For the Shapin reading, the central questions are:
 
-- How is Shapin making his argument? 
-- How is he using Cheyne's writings to make his argument? 
-- Why did people trust George Cheyne? 
+- How is Shapin making his argument?
+- How is he using Cheyne's writings to make his argument?
+- Why did people trust George Cheyne?
 - What does that reveal about how expertise worked?
 
 
@@ -85,12 +92,14 @@ Write--**yourself**--a short post that explains what you learned from investigat
 ## What makes this good
 Good posts show that you used AI to sharpen your own reading, not replace it. The strongest posts will point to specific passages or examples from Shapin, explain how your thinking changed, and show that you can separate a useful AI suggestion from an unsupported AI claim.
 
+What matters most is the movement between AI and the article: ask a question, get a possible answer, go back to Shapin, check the evidence, revise your understanding. That back-and-forth is the work.
+
 
 ## Grading
+This assignment appears in Canvas as a letter grade. In general, it is graded as A, B, or C.
+
 - A: Your post shows careful engagement with Shapin, thoughtful use of AI, specific evidence from the article, and a clear answer to the central question.
 
 - B: A solid effort that uses AI productively and refers to the article, but could be more specific, better verified, or more clearly connected to course themes.
 
 - C: A basic effort that relies too much on AI summary, gives limited evidence from Shapin, or does not clearly explain what you verified for yourself.
-
-- D: The post mostly reports AI output without showing your own reading, verification, or historical thinking.

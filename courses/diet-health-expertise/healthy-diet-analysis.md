@@ -14,6 +14,11 @@ AI will probably give you advice that sounds familiar: eat a balanced diet, get 
 
 Your job is to make the obvious strange. Use SPECIFIC examples from the course to evaluate the advice with historical perspective. This assignment is meant to show whether you can use the history of diet and health to analyze modern dietary advice, explain how expertise is created, and notice what gets left out.
 
+## Why we do this
+This assignment comes near the end of the course because it asks you to bring the whole course to bear on a very ordinary modern question. By this point, we have seen dietary advice as ancient regimen, moral discipline, social reform, scientific measurement, body politics, public health guidance, and common sense. Now you get to use that history to analyze a familiar answer from the present.
+
+The purpose is not to make you cynical about all diet advice. It is to help you see that even practical advice has a history. You are practicing historical contextualization, analysis of expertise, attention to rhetoric, and the ability to notice what a confident answer makes visible or invisible.
+
 ## Basics
 - ~600 words
 - Clear paragraphs that answer the questions below
@@ -26,7 +31,9 @@ Your job is to make the obvious strange. Use SPECIFIC examples from the course t
 - Then ask at least THREE follow-up prompts of your own that use ideas from the course to investigate the AI's advice more deeply.
 - Save or take notes on the parts of the AI conversation that seem most revealing.
 - Write an analysis of the AI's dietary advice using historical perspective.
-- Do NOT simply decide whether the advice is "right" or "wrong." That is not the point. The point is to analyze why the advice sounds the way it does.
+- Do not simply decide whether the advice is "right" or "wrong." That is not the point. The point is to analyze why the advice sounds the way it does.
+
+Think of your follow-up prompts as part of the analysis. A strong prompt uses the course to pressure-test the AI answer: What would Mudry help you notice? What would Biltekoff ask about morality? What would the federal guidelines make visible? What would earlier sources remind us not to assume?
 
 
 ## Required prompts
@@ -88,6 +95,8 @@ You do not need to answer every question below, but your essay should clearly us
 - What did AI bring up that we should have talked about more in class?
 - How does a historical perspective help you see the advice differently?
 
+You do not need to cover every course theme. It is better to make a few specific, well-supported connections than to mention everything vaguely.
+
 
 ## What to submit
 Write a short analysis that includes:
@@ -101,8 +110,15 @@ Write a short analysis that includes:
 You can include short quotations from AI, but do not paste the whole conversation. The important thing is your analysis.
 
 
+## What makes this good
+Strong essays use the AI answer as evidence, not as the final authority. They make a clear historical argument, use several specific course examples, and explain how those examples help reveal assumptions about expertise, bodies, evidence, morality, culture, or common sense.
+
+The best versions will also show that your own follow-up prompts mattered: they should help you discover something more interesting than the first generic answer.
+
+
 ## Grading
+This assignment appears in Canvas as a letter grade. In general, it is graded as A, B, or C.
+
 - A: Original, specific, and historically informed analysis that uses several course readings to explain why the AI advice sounds the way it does. Shows thoughtful prompt design and careful attention to expertise, assumptions, and what gets left out.
 - B: Solid analysis with some specific course connections, but the historical perspective, prompt design, or discussion of expertise could be more developed.
 - C: Basic effort that describes the AI answer but does not use enough specific course material or relies too much on general claims.
-- D: Sounds like AI, mostly summarizes the AI response, does not include meaningful follow-up prompts, or does not use course material in a specific way.

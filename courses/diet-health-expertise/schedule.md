@@ -43,7 +43,7 @@ Just as a quick way to get to know each other a tiny bit, please post a brief he
 - [Rhetoric of Science video](https://youtu.be/6g6-fhxJqxY)
 - Jessica J. Mudry, *Measured Meals. Nutrition in America*, 1-19 (Introduction: Eating by Numbers).
 
-{% include alert.html class='warning' title='Reading reflection' text="
+{% include alert.html class='warning' title='Reading reflection reminder' text="
 Remember all readings are in the Zotero library. To access them, you need to be logged into Zotero.org and visit [our group library](https://www.zotero.org/groups/642043/diet-health-expertise-unm/library). If you can't see the PDFs, you either 1) are not logged in, or 2) never requested to join the library. Instructions are on the [syllabus home page](index).
 "%}
 
@@ -157,7 +157,7 @@ This looks like a lot, but you are not reading five books. You are sampling a hi
 - John Ayrton Paris, _[A Treatise on Diet](https://books.google.com/books?id=xylFAAAAcAAJ) with a View to Establish ...: A System of Rules for the Prevention and Cure of Diseases Incident to a Disordered State of the Digestive Functions_ (1829).
 - William Henry Robertson, _[A popular treatise on diet and regimen](https://www.google.com/books/edition/A_popular_treatise_on_diet_and_regimen/fyKfI2pAbrUC?hl=en)_ (1835).
 
-{% include alert.html class='danger' title='Comparative reflection' text="
+{% include alert.html class='danger' title='Primary source comparison' text="
 - Compare TWO texts from above in terms of similarities and differences. Guiding questions: 
   - What is their conception of disease?
   - What kinds of arguments do they use to appeal to their audience?
@@ -211,7 +211,7 @@ The big question is not whether numbers are good or bad. Numbers are incredibly 
 ## Mon 7/13: Quantifying diets
 - Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67. We return to Mudry now with more historical context. You have already seen dietary authority built through humoral theory, gentlemanly medicine, common sense, reform, morality, and personal discipline. Mudry helps us ask what changes when dietary advice begins to depend more heavily on numbers. As you read, try to hold two ideas together: quantification can clarify real patterns, but it can also make messy human practices seem simpler than they are.
 
-{% include alert.html class='danger' title='Reading Reflection' text="
+{% include alert.html class='danger' title='Reading reflection' text="
 Use specific examples to illustrate what you see as the strengths and weaknesses of Mudry's analysis of the implications of quantified eating. Where is she most convincing? Where are you more skeptical? Would you say she presents a neutral and balanced view of the implications of quantification?
 "%}
 
@@ -240,7 +240,7 @@ Today food enters the laboratory. Atwater's article is not exciting because ever
 
 - Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine*, 34 (May 1887): 59--74.
 
-{% include alert.html class='danger' title='Reading Reflection' text="
+{% include alert.html class='danger' title='Reading reflection' text="
 - How does Atwater establish his credibility, authority, and expertise? Be specific! 
 - How is his approach different from Cheyne and Graham? 
 - How/why does analogy and metaphor play such a prominent role in his explanations?
@@ -262,8 +262,8 @@ For each text, I've indicated specific pages you should read fairly carefully. I
 - Elmer McCollum, [The Newer Knowledge of Nutrition](https://www.google.com/books/edition/_/jndUnd5xX5wC?hl=en&gbpv=1) (1922). Read the preface (ix--xii), skim the Table of Contents, and read 1--13.
 
 
-{% include alert.html class='danger' title='TRIPLE Comparative Reflection DUE FRIDAY' text="
-This reflection should be THREE TIMES as long as the usual reading reflection and is worth THREE TIMES as many points. As with last week, you ARE NOT reading these books in their entirety. This time I've provided more specific pages, but you should also develop a sense of each text as a whole. Use the skimming strategies outlined in the video from last week to find revealing parts that help you understand why the text is the way it is.
+{% include alert.html class='danger' title='Early 20th-century source comparison, due Friday' text="
+This reflection is more substantial than a regular reading reflection because it asks you to compare several primary sources and connect them to course themes. As with last week, you ARE NOT reading these books in their entirety. This time I've provided more specific pages, but you should also develop a sense of each text as a whole. Use the skimming strategies outlined in the video from last week to find revealing parts that help you understand why the text is the way it is.
 - Do not just summarize the texts! Your posts should *analyze* them.
 - How would you characterize their different rhetorical styles?
 - How do the texts show continuities and discontinuities of dietary advice from past sources?
@@ -286,7 +286,7 @@ This is the day when body size becomes impossible to treat as just a medical que
 
 As you read, keep asking how a body becomes evidence. Evidence of what? Health? Character? Modernity? Failure? That question will matter for the rest of the week.
 
-{% include alert.html class='danger' title='Reading Reflections' text="
+{% include alert.html class='danger' title='Reading reflection' text="
 For this exercise, bullet points are 1-3 complete sentences that clearly express a complete idea, not cryptic phrases that no one but you can understand.
 
 - Write 4 bullet points that summarize what you think are the MAIN POINTS of the article. They might not be equally important; you might think your first one or two points are REALLY important and the others are less so.
@@ -350,7 +350,9 @@ Some questions to consider:
 
 ## Fri 7/24: Nothing new today
 {% include alert.html class='danger' title='Complicate the Obvious' text="
-Post your [Complicate the Obvious](healthy-diet-analysis) assignment before midnight tonight. It's 600 words; about 3x the usual reflections, and kind of a final reflection warm up.
+Post your [Complicate the Obvious](healthy-diet-analysis) assignment before midnight tonight. It's 600 words and works as a final reflection warm up.
+
+The basic move is simple: ask AI what a healthy diet is, then use specific ideas and readings from the course to make that answer less obvious. What assumptions does it make about bodies, evidence, expertise, morality, culture, common sense, or responsibility? What gets left out? The goal is not to prove the AI right or wrong, but to show that you can use historical perspective to analyze modern diet advice.
 "%}
 
 
@@ -361,6 +363,6 @@ We end by stepping back. The final reflection is not meant to be a list of topic
 
 Before you write, revisit the readings and videos enough to remind yourself of the course as a whole. Look for connections across weeks. The strongest reflections will not say, "I learned to be skeptical about diets" and stop there. They will show, with specific examples, how that skepticism became more historically informed. They will show how different readings connect with each other.
 
-{% include alert.html class='danger' title='Course Reflections' text="
+{% include alert.html class='danger' title='Final learning reflection' text="
 Our last thing! Post your [final course reflection](final-reflections) before midnight on Tuesday.
 "%}
