@@ -17,7 +17,7 @@ This course moves quickly, and the readings can be dense. The reflections give y
 These posts also help the class build a shared conversation. Over time, they should help you see the course arc: diet advice keeps changing, but questions about expertise, trust, bodies, evidence, morality, and common sense keep coming back in new forms.
 
 ## Basics
-- ~250 words is the target, but quality over quantity
+- ~200 words is the target, but quality over quantity, and going over is fine.
 - Respond to the prompts on the syllabus for each post
 - Use at least one specific passage, example, or moment from the reading
 - Exceptionally thorough reflections can occasionally earn a small extra-credit bump
