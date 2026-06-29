@@ -350,7 +350,7 @@ Some questions to consider:
 
 ## Fri 7/24: Nothing new today
 {% include alert.html class='danger' title='Complicate the Obvious' text="
-Post your [Complicate the Obvious](healthy-diet-analysis) assignment before midnight.
+Post your [Complicate the Obvious](healthy-diet-analysis) assignment before midnight tonight. It's 600 words; about 3x the usual reflections, and kind of a final reflection warm up.
 "%}
 
 
