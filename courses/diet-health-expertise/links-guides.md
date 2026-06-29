@@ -24,5 +24,5 @@ This page summarizes course resource links that you will probably need repeatedl
 ## Assignment Guides
 - [Reading Reflections](reading-reflections)
 - [AI Reading Investigation](ai-reading-investigation)
-- [Extra Credit Documentary Critique](documentary-critique.html)
+- [Complicate the Obvious](healthy-diet-analysis)
 - [Final Course Reflection](final-reflections)

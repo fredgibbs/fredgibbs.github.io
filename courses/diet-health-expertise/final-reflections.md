@@ -13,8 +13,8 @@ Your final assignment for the course is a bit different from previous assignment
 ## Describe what you learned
 Using specific examples from the readings AND connecting themes across the course (as the overview videos should help with), tell me what you learned in the course. In addition to history of diet particulars, don't forget big picture questions (like the Course Goals!), such as:
 - How has dietary advice changed over the centuries? How has it remained the same?
-- How is your understanding of how expertise is created different than before? 
-- How can you analyze the rhetoric of diet and health differently now? 
+- How is your understanding of how expertise is created different than before?
+- How can you analyze the rhetoric of diet and health differently now?
 - How can the history of diet and health help us contextualize contemporary dietary debates?
 
 ## Describe your learning experience
@@ -27,7 +27,7 @@ Describe your learning experience in the course. This is obviously totally subje
 
 Allow me to emphasize that you should not simply summarize course topics and themes as stated on the syllabus. You should use specific examples from the course readings to illustrate your points. Otherwise, I can only assume that you didn't put in very much effort into the course.
 
-This isn't a writing class so you're not getting evaluated on elegant prose. So, use AI to help smooth your writing as long as the ideas are your own. AI or not, your writing must be clear enough that I can follow your argument and your survey of course themes. Your final reflection should be well thought out and carefully written, not a stream of consciousness off-the-cuff here’s-what-I-remember type thing. 
+This isn't a writing class so you're not getting evaluated on elegant prose. So, use AI to help smooth your writing as long as the ideas are your own. AI or not, your writing must be clear enough that I can follow your argument and your survey of course themes. Your final reflection should be well thought out and carefully written, not a stream of consciousness off-the-cuff here’s-what-I-remember type thing.
 
 ## Make an argument for a grade
 The optional third component is to make a brief argument for what letter grade you should get for the course. It's maybe a weird request for a final, but there is a specific reason: your effort to learn, and what you actually did learn, might not be represented in your final point tally. This assignment gives you a chance to argue that you've put more work in or learned more than your numbers indicate.
@@ -43,7 +43,7 @@ Before you start writing, invest some time to REVISIT THE READINGS. This does no
 
 
 ### Be Specific
-Specificity and clarity (in thinking and organization) is what separates excellent from mediocre work. To say that "I learned to think more critically about fad diets" will sound unconvincing unless you provide several SPECIFIC examples of the issues that you think are important to think critically about and WHY. If you just make a vague statement that you learned about a topic on the syllabus and you don't provide any examples from the readings, or don't connect different readings together, I can only assume it's because you don't know them very well.
+Specificity and clarity (in thinking and organization) is what separates excellent from mediocre work. To say that "I learned to think more critically about diet advice" will sound unconvincing unless you provide several SPECIFIC examples of the issues that you think are important to think critically about and WHY. If you just make a vague statement that you learned about a topic on the syllabus and you don't provide any examples from the readings, or don't connect different readings together, I can only assume it's because you don't know them very well.
 
 
 ### Think holistically

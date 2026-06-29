@@ -7,40 +7,102 @@ number: HIST 410
 section: links-guides
 ---
 
-# Healthy Diet Analysis
-This assignment encourages you to bring what we've learned in class to critiquing and analyzing how references to health and diet appear in contemporary literature---a webpage/website (of your choosing) that discusses what a "healthy diet" is.
+# Complicate the Obvious
+Ask AI the deceptively simple question that we started with: **What is a healthy diet?** Then use the course to explain why the answer is not timeless, neutral, or obvious.
 
-Your job is to analyze the RHETORIC of your particular website/page, not to just critique the diet itself. Whether the diet "works" or not is totally beside the point. We're analyzing HOW THE AUTHOR IS MAKING AN ARGUMENT. Naturally, you might comment on a particular aspect of the dietary advice---maybe something about restricting the number of calories you eat. That's an aspect of dietary advice that is worth comment on because we've done a lot of reading to understand how that kind of thinking became so pervasive.
+AI will probably give you advice that sounds familiar: eat a balanced diet, get fruits and vegetables, choose whole grains, limit sugar, avoid too much saturated fat, drink water, maybe talk to a professional. That answer may be useful! But it is also historical. It reflects assumptions about bodies, evidence, responsibility, expertise, science, culture, morality, and common sense.
+
+Your job is to make the obvious strange. Use SPECIFIC examples from the course to evaluate the advice with historical perspective. This assignment is meant to show whether you can use the history of diet and health to analyze modern dietary advice, explain how expertise is created, and notice what gets left out.
 
 ## Basics
-- ~800 words
+- ~600 words
 - Clear paragraphs that answer the questions below
+- Use specific examples from course readings
 - Posted on the discussion board as usual
+- You may quote briefly from your AI conversation, but your analysis must be yours
 
 ## What to do
-- Google something like "what is a healthy diet?"
-- Pick one of the results
-- Get familiar with the whole thing so that you have a solid impression of how the blog/author describes the relationship between diet and health
-- IGNORE the actual diet advice in terms of whether you think it's "right" or "good" or not. That is irrelevant for the assignment.
+- Ask an AI tool the two required prompts below.
+- Then ask at least THREE follow-up prompts of your own that use ideas from the course to investigate the AI's advice more deeply.
+- Save or take notes on the parts of the AI conversation that seem most revealing.
+- Write an analysis of the AI's dietary advice using historical perspective.
+- Do NOT simply decide whether the advice is "right" or "wrong." That is not the point. The point is to analyze why the advice sounds the way it does.
+
+
+## Required prompts
+Start with these:
+
+```text
+What is a healthy diet? Give me practical advice for an ordinary adult.
+```
+
+```text
+Why is this diet healthy? What evidence, assumptions, or expert knowledge supports this advice?
+```
+
+Then create at least three follow-up prompts of your own. These should not just ask for more details. They should use course themes to push the AI answer in historically interesting directions.
+
+For example, you might ask about common sense, morality, calories, moderation, quantification, official dietary guidelines, personal responsibility, body size, expertise, uncertainty, culture, or what kinds of people and eating practices are treated as normal.
+
+
+## Prompt challenge
+Your follow-up prompts are part of the assignment. Try to design prompts that reveal something you could not see in the first answer.
+
+Some possible models:
+
+```text
+What assumptions are you making about health, bodies, responsibility, culture, science, and food?
+```
+
+```text
+What parts of your answer reflect modern American assumptions rather than universal truths?
+```
+
+```text
+How does your advice use numbers, measurement, moderation, or risk?
+```
+
+```text
+What moral ideas are implied in this advice, even if you are not using moral language directly?
+```
+
+```text
+What kinds of foods, people, traditions, bodies, or economic realities are left out of this advice?
+```
+
+You do not need to use these exact prompts. Better prompts will connect more directly to ideas and readings from the course.
 
 
 ## Questions to consider
-These are all pretty general questions that we've addressed at different points and with different sources. Focus on the ones that are the most relevant for your particular article. Answers to some questions are going to be obvious; others require more reading between the lines.
+You do not need to answer every question below, but your essay should clearly use the course to analyze the AI answer.
 
-- How does the author establish their credibility or authority about diet and health?
-- What kinds of claims about diet and health does the author make? What kind of evidence is used to support these claims? Can you see them for yourself? Is there room for misinterpretation?
-- Does the advice stem primarily from expertise or common sense?
-- What kind of assumptions does the author(s) make about the relationship between food, diet, health?
+- What kind of authority does the AI voice project? How does it sound knowledgeable?
+- Does the advice depend more on expertise, common sense, official guidance, scientific evidence, or moral assumptions?
+- What kinds of claims about diet and health does the AI make? What kind of evidence does it invoke?
+- What assumptions does the AI make about the relationship between food, diet, health, and bodies?
 - How is "science" used?
 - Is there any moral component to the advice?
-- Is it convincing or effective in getting people to eat healthier? How or why not?
-- How would a historical perspective have or have not been useful?
+- How does the advice echo older course themes: balance, regimen, moderation, self-control, quantification, morality, expertise, calories, fat, uncertainty, or official advice?
+- What does the AI make seem natural or obvious?
+- What gets left out? Culture? Class? Race? labor? pleasure? tradition? disability? uncertainty? disagreement among experts?
+- What did AI bring up that we should have talked about more in class?
+- How does a historical perspective help you see the advice differently?
 
-Think about all the topics and themes we've covered and how we've seen elements of your webpage in historical context before: balance, common sense, expertise, calories, fat, quantification, measurement, science, evidence, etc.
+
+## What to submit
+Write a short analysis that includes:
+
+- The initial AI answer you are analyzing, summarized briefly.
+- The three follow-up prompts you created.
+- At least one specific moment where a follow-up prompt revealed something useful.
+- Several specific examples from course readings that help you interpret the AI advice.
+- A clear argument about what the AI answer reveals about modern diet, health, and expertise.
+
+You can include short quotations from AI, but do not paste the whole conversation. The important thing is your analysis.
 
 
 ## Grading
-- A: Wrote up an original, expressive, and sophisticated analysis of how the course (the history of diet and health) can help explain why a modern webpage gives the advice that it does.
-- B: Shows some evidence of effort and critical thinking, but does not demonstrate much knowledge of course content.
-- C: Provides simplistic descriptions and superficial answers to questions that are disconnected from course material.
-- D: Sounds like AI or doesn't meet basic requirements and/or address any key questions.
+- A: Original, specific, and historically informed analysis that uses several course readings to explain why the AI advice sounds the way it does. Shows thoughtful prompt design and careful attention to expertise, assumptions, and what gets left out.
+- B: Solid analysis with some specific course connections, but the historical perspective, prompt design, or discussion of expertise could be more developed.
+- C: Basic effort that describes the AI answer but does not use enough specific course material or relies too much on general claims.
+- D: Sounds like AI, mostly summarizes the AI response, does not include meaningful follow-up prompts, or does not use course material in a specific way.

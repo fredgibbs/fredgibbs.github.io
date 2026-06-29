@@ -77,7 +77,7 @@ The readings can be dense and sometimes it's hard to identify what's really impo
 ## Assignments and Grading
 - Occasional reading/lecture quizzes 
 - [Reading reflections](reading-reflections)
-- [Diet analysis](healthy-diet-analysis) 
+- [Complicate the Obvious](healthy-diet-analysis)
 - [Final learning reflection](final-reflections) 
 
 

@@ -66,7 +66,7 @@ Today we go way back to ancient Greece and Rome because it helps us see how dura
 Our primary source Galen (died c. 215 CE), a famous physician who wrote about medicine so much and so thoroughly, he was the main medical authority in Western culture for over 1500 years. His work may seem strange at first, but don't read him as simply "wrong science." Read him as someone working inside a coherent medical world. His details about foods, bodies, qualities, and balance show us what counted as evidence. The way he tries to convince readers he knows more than other physicians shows how expertise was created in his day, and still is in some ways.
 
 - [Day 3 Overview](https://youtu.be/AkfBF-63Ob4)
-- Optional [Reading Galen Video](https://youtu.be/OEPWJAYnO6E). Read if you want some additional explanation on how to read Galen and how he relates food, medicine, and disease.
+- Optional [Reading Galen Video](https://youtu.be/OEPWJAYnO6E). Watch if you want some additional explanation on how to read Galen and how he relates food, medicine, and disease.
 - Mark Grant, _Galen: On Food and Diet_, 1-8. These few pages provide a general introduction to the classical physician Galen (died circa 215 CE) and ancient medicine. The author of the introduction (Grant) has translated many of Galen's writing about food, and we'll read an excerpt from those as noted below.
 - Galen, (tr. Mark Grant), _On the Humors_, 14-18; _On the Power of Foods_, 68-84. This was written by Galen himself (not Grant). Note that there is WAY MORE DETAIL about foods in here than you need to know. **Read for the big picture** in terms of how Galen establishes his expertise, what topics are most interesting to him, how he thinks about the relationship between diet and health.
 
@@ -203,7 +203,7 @@ Now that you have Shprintzen's context, read Graham himself for style and persua
 
 
 # Week 3: Scientific and Quantified Eating
-This week is about one of the biggest changes in the history of dietary advice: food becomes numerical. We already got a preview of this in first few days of class, and how we look at the shift in historical context. Calories, nutrients, averages, standards, tables, and labels became the way to make eating and health more precise and scientific. They also make food choices easier to compare, regulate, moralize, and argue about.
+This week is about one of the biggest changes in the history of dietary advice: food becomes numerical. We already got a preview of this in the first few days of class, and now we look at the shift in historical context. Calories, nutrients, averages, standards, tables, and labels became the way to make eating and health more precise and scientific. They also make food choices easier to compare, regulate, moralize, and argue about.
 
 The big question is not whether numbers are good or bad. Numbers are incredibly useful! But they are not neutral magic. This week, keep asking what quantification makes easier to see, what it hides, and how moral judgments about food and bodies survive inside scientific language.
 
@@ -249,7 +249,7 @@ Today food enters the laboratory. Atwater's article is not exciting because ever
 
 
 ## Thu-Fri (7/16 - 7/17): Early 20th century sources
-We treat the next few days single unit, and there's nothing due on Thursday. We focus on a few diet books written between 1918 and 1922. A small window of time, but they are all COMPLETELY different in their approach, style, and the way their authors try to establish their expertise. 
+We treat the next few days as a single unit, and there's nothing due on Thursday. We focus on a few diet books written between 1918 and 1922. It's a small window of time, but they are all COMPLETELY different in their approach, style, and the way their authors try to establish their expertise.
 
 Peters, Kellogg, and McCollum are writing in the same era, but they sound like they live in different dietary universes. That's the point. Scientific nutrition did not produce one single style of advice. It created new tools that different authors used for different audiences, anxieties, and promises.
 
@@ -274,7 +274,7 @@ This reflection should be THREE TIMES as long as the usual reading reflection an
 
 
 # Week 4: Modern bodies, uncertainty, and official advice
-In the final week, we put the course to work on modern diet culture. By now, we've seen recurring patterns: experts make claims, evidence gets simplified, bodies become moral symbols, and dietary advice turns into common sense. This week asks what those patterns look like in the recent past and the present: thinness, low-fat advice, obesity science, fad diets, and government nutrition guidance.
+In the final week, we put the course to work on modern diet culture. By now, we've seen recurring patterns: experts make claims, evidence gets simplified, bodies become moral symbols, and dietary advice turns into common sense. This week asks what those patterns look like in the recent past and the present: thinness, low-fat advice, obesity science, government nutrition guidance, and AI-generated diet advice.
 
 Our goal is not to decide once and for all what everyone should eat. Instead, we're asking how different kinds of advice become believable, how science gets translated for ordinary people, and what a historical perspective helps us notice in modern arguments about food and health.
 
@@ -291,7 +291,7 @@ For this exercise, bullet points are 1-3 complete sentences that clearly express
 
 - Write 4 bullet points that summarize what you think are the MAIN POINTS of the article. They might not be equally important; you might think your first one or two points are REALLY important and the others are less so.
 - Write 4 bullet points that point out similarities and differences to other readings in the course to this point. What kinds of things have we seen before? What are variations on a theme? What's really new?
-- As part of your bullet points, briefly indicate WHY you think your point is worth highlighting. 
+- As part of your bullet points, briefly indicate WHY you think your point is worth highlighting.
 "%}
 
 
@@ -333,39 +333,33 @@ Government guidelines and food labels may look boring, but they are some of the 
 - FDA, [Changes to the Nutrition Facts Label](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/changes-nutrition-facts-label). Focus on the "Highlights of the Updated Label" section.
 - FDA, [Label Claims for Food & Dietary Supplements](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/label-claims-food-dietary-supplements). Skim for the basic differences between health claims, nutrient content claims, and structure/function claims.
 
-{% include alert.html class='danger' title='Reading Quiz' text="
-This quiz asks you to connect Aschwanden's article about why nutrition knowledge is so difficult to trust with the federal materials for today. Focus on how uncertain or contested nutrition science gets turned into public guidance, food labels, and official claims about health.
+
+{% include alert.html class='danger' title='Reading reflection' text="
+Today is about what happens when uncertain nutrition knowledge has to become public advice.
+
+Using Aschwanden and at least TWO of the federal materials, explain how uncertainty gets translated into guidance that sounds clear, practical, and authoritative. Do not just summarize the documents. Instead, analyze how official advice manages the gap between messy science and everyday instructions.
+
+Some questions to consider:
+- What does Aschwanden help you notice about the difficulty of producing reliable nutrition knowledge?
+- How do the federal materials turn uncertainty into rules, labels, categories, serving sizes, daily values, or claims?
+- What gets clarified by official advice? What gets simplified or hidden?
+- What kind of authority do government guidelines and food labels project?
+- How does this connect to earlier course themes like quantification, moral advice, expertise, common sense, or trust?
 "%}
 
 
-## Fri 7/24: Fad diets and modern critique
-Fad diets can look silly from a distance, but they are serious historical evidence. They show what people fear, whom they trust, what they think modern life has damaged, and what kind of rescue they want food to provide.
-
-Today we're asking how modern diet trends create villains, heroes, risks, and promises. As always, **the point is not simply to decide whether the advice is good or bad.** The more interesting question is how these arguments become persuasive, especially when the science is complicated, uncertain, or still unfolding.
-
-- Michael Specter, [Against the Grain](https://www.newyorker.com/magazine/2014/11/03/grain), (_New Yorker_, October 27, 2014).
-- James Hamblin, [Lectins Could Become the Next Gluten](https://www.theatlantic.com/health/archive/2017/04/the-next-gluten/523686/), (_The Atlantic_, April 24, 2017).
-
-
-{% include alert.html class='danger' title='Fad diet critique' text="
-DOUBLE REFLECTION! (2x points and 2x length)
-
-Critique these articles as examples of modern writing about fad diets. Don't just summarize the gluten-free or lectin arguments. Instead, use the course to analyze how the articles explain why particular foods become dietary villains.
-
-Some questions to consider:
-- How do these articles use science, uncertainty, personal experience, and expert authority?
-- How do they echo earlier course themes like moralization, common sense, quantification, naturalness, fear, or self-control?
-- What do the articles help us understand about fad diets as historical and cultural phenomena?
-- Where do the articles themselves need a stronger historical perspective?
+## Fri 7/24: Nothing new today
+{% include alert.html class='danger' title='Complicate the Obvious' text="
+Post your [Complicate the Obvious](healthy-diet-analysis) assignment before midnight.
 "%}
 
 
 # Week 5: Review and Reflection
 
 ## Mon -- Tue (7/27 - 7/28)
-We end by stepping back. The final reflection is not meant to be a list of topics you remember from the syllabus. It is a chance to explain what changed in how you think: about dietary advice, expertise, evidence, bodies, science, morality, and trust. You're narrating **your learning experience**. Do not summarize the course; these relfections are about you.
+We end by stepping back. The final reflection is not meant to be a list of topics you remember from the syllabus. It is a chance to explain what changed in how you think: about dietary advice, expertise, evidence, bodies, science, morality, and trust. You're narrating **your learning experience**. Do not summarize the course; these reflections are about you.
 
-Before you write, revisit the readings and videos enough to remind yourself of the course as a whole. Look for connections across weeks. The strongest reflections will not say, "I learned to be skeptical about diets" and stop there. They will show, with specific examples, how that skepticism became more historically informed. They will show how different readings interface with each other. Thye will 
+Before you write, revisit the readings and videos enough to remind yourself of the course as a whole. Look for connections across weeks. The strongest reflections will not say, "I learned to be skeptical about diets" and stop there. They will show, with specific examples, how that skepticism became more historically informed. They will show how different readings connect with each other.
 
 {% include alert.html class='danger' title='Course Reflections' text="
 Our last thing! Post your [final course reflection](final-reflections) before midnight on Tuesday.

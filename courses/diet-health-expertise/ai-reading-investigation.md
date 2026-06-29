@@ -14,6 +14,7 @@ Treat AI like a smart but unreliable study partner. It can help you notice thing
 
 
 ## Basics
+- ~400 words (around double the usual reflections)
 - Use an AI tool to investigate the assigned reading.
 - You may upload the PDF if the tool allows it, or you may ask questions without uploading it.
 - Work through the prompt sequence below, adapting the wording as needed.
