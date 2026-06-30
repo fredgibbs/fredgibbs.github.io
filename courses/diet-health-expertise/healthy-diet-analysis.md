@@ -27,6 +27,7 @@ The purpose is not to make you cynical about all diet advice. It is to help you 
 - You may quote briefly from your AI conversation, but your analysis must be yours
 
 ## What to do
+- Before opening AI, jot down three course themes you expect might matter for the question "What is a healthy diet?"
 - Ask an AI tool the two required prompts below.
 - Then ask at least THREE follow-up prompts of your own that use ideas from the course to investigate the AI's advice more deeply.
 - Save or take notes on the parts of the AI conversation that seem most revealing.

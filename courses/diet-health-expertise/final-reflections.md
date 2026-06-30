@@ -19,7 +19,7 @@ This matters because the course is not really about producing one final answer t
 - ~1200 words
 - Use specific examples from readings, videos, and assignments
 - Connect themes across the course, not just one week at a time
-- You may use AI to polish writing, but the thinking and reflection must be yours
+- You may use AI to polish writing after you have your own outline or draft, but the thinking and reflection must be yours
 
 ## What to do
 Your reflection should do two main things:
@@ -47,9 +47,9 @@ Describe your learning experience in the course. This is obviously totally subje
 
 **Please do not simply summarize course topics and themes as stated on the syllabus.** Use specific examples from the course readings to illustrate your points. Specific examples let me see the actual shape of your learning: which readings stuck, which connections you made, and how your thinking changed.
 
-This isn't a writing class, so you're not being evaluated on elegant prose. You may use AI to help smooth your writing as long as the ideas are your own and you are transparent about how you used it. **As always, do not use AI to draft your final reflection. It cannot yet fake actual human experiences, so you'll get minimial if any credit for a significant assignment with no time to redo it.**
+This isn't a writing class, so you're not being evaluated on elegant prose. You may use AI to help smooth your writing after you have your own outline or draft, as long as the ideas are your own and you are transparent about how you used it. **As always, do not use AI to draft your final reflection. It cannot yet fake actual human experiences, so you'll get minimal if any credit for a significant assignment with no time to redo it.**
 
- AI or not, your writing must be clear enough that I can follow your argument and your survey of course themes. Your final reflection should be well thought out and carefully written, not a stream of consciousness off-the-cuff here's-what-I-remember type thing.
+AI or not, your writing must be clear enough that I can follow your argument and your survey of course themes. Your final reflection should be well thought out and carefully written, not a stream of consciousness off-the-cuff here's-what-I-remember type thing.
 
 ### Make an argument for a grade
 The optional third component is to make a brief argument for what letter grade you should get for the course. It's maybe a weird request for a final, but there is a specific reason: your effort to learn, and what you actually did learn, might not be represented in your final point tally. This assignment gives you a chance to argue that you've put more work in or learned more than your numbers indicate.

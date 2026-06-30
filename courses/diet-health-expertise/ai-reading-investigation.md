@@ -23,6 +23,7 @@ You are practicing three skills at once: reading a scholarly argument, evaluatin
 ## Basics
 - ~400 words (around double the usual reflections)
 - Use an AI tool to investigate the assigned reading.
+- Before you use AI, jot down 2-3 quick notes about what you think the article is doing or what seems confusing.
 - You may upload the PDF if the tool allows it, or you may ask questions without uploading it.
 - Work through the prompt sequence below, adapting the wording as needed.
 - Keep notes on what the AI helped you understand and what you had to verify or correct.
@@ -75,7 +76,7 @@ Connect Shapin's article to larger themes in a course on diet, health, and exper
 
 ### 7. Prepare your own reflection
 ```text
-I need to write my own reading reflection. Based on our discussion, give me five strong possible thesis ideas or angles. Do not write the reflection for me. For each angle, tell me what evidence from Shapin I would need to verify before using it.
+I need to write my own reading reflection. Here is my current possible angle: [paste your own rough idea]. Based on our discussion, give me a few ways I might sharpen or complicate it. Do not write the reflection for me. For each suggestion, tell me what evidence from Shapin I would need to verify before using it.
 ```
 
 

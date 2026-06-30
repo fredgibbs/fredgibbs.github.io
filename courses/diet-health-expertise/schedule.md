@@ -149,14 +149,15 @@ Today we read Cheyne himself. Do not worry about understanding every sentence pe
 ## Wed 7/8: Natural and Moral Diets of the 1800s
 This looks like a lot, but you are not reading five books. You are sampling a historical landscape. Pick TWO texts and read them like artifacts: what problems do they think diet solves, who are they talking to, and what kind of authority are they trying to project?
 
-You may use AI to get oriented, but do not let it do the comparison for you. Start by asking AI for a basic overview of the two texts you chose: what each author seems to argue, what audience each text addresses, and what kind of dietary authority each author projects. Treat that answer as a rough first impression, not as reliable interpretation.
+You may use AI to get oriented, but do not let it do the comparison for you. Before asking AI, spend a few minutes with the title page, preface/introduction, table of contents, and several sampled pages so you have your own first impression. Then ask AI for a basic overview of the two texts you chose: what each author seems to argue, what audience each text addresses, and what kind of dietary authority each author projects. Treat that answer as a rough second opinion, not as reliable interpretation.
 
-Then go back to the original texts yourself. Look at the title page, preface/introduction, table of contents, and several sampled pages. Find specific examples that confirm, complicate, or challenge the AI overview. Pay special attention to tone, style, voice, audience, and the kinds of evidence the authors use. These are exactly the things AI often smooths out.
+Then go back to the original texts yourself. Find specific examples that confirm, complicate, or challenge the AI overview. Pay special attention to tone, style, voice, audience, and the kinds of evidence the authors use. These are exactly the things AI often smooths out.
 
 {% include alert.html class='danger' title='Primary source comparison' text="
 Compare TWO texts from above. Your post should explain both what AI helped you notice and what you saw for yourself in the original sources.
 
 In your response, include:
+- Your own quick first impression before AI.
 - One useful AI-generated first impression.
 - One place where the original text confirmed that impression.
 - One place where the original text complicated, corrected, or made the AI answer seem too generic.

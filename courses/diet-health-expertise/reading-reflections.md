@@ -21,7 +21,7 @@ These posts also help the class build a shared conversation. Over time, they sho
 - Respond to the prompts on the syllabus for each post
 - Use at least one specific passage, example, or moment from the reading
 - Exceptionally thorough reflections can occasionally earn a small extra-credit bump
-- Please use your own thinking to draft your responses. It's OK to use AI to polish grammar or wording or ask for other ideas, but the reactions and ideas need to be yours. The point of this exercise is the thinking you do while writing it — if AI drafts your reaction for you, you skip the part of the assignment that can actually help you.
+- Please use your own thinking to draft your responses. It's OK to use AI to polish grammar or wording, or after you have drafted your own ideas, to ask what else you might consider. But the reactions and ideas need to be yours. The point of this exercise is the thinking you do while writing it — if AI drafts your reaction for you, you skip the part of the assignment that can actually help you.
 
 ## What to do
 Read the intro, conclusion, skim various bits carefully, and focus on parts that seem more significant or interesting to you.
@@ -56,4 +56,4 @@ Reading reflections appear in Canvas as letter grades. In general, they are grad
 
 - C: A decent effort, but it does not yet show much engagement with the reading, is primarily summary rather than original thinking, or does not really respond to the prompt. If your work reads like an unedited AI response, you will get a chance to redo it.
 
-- D: Looks too much like AI. Even if you didn't use it, you still have to redo it. 
+- D: Looks too much like AI. Even if you didn't use it, you still have to redo it.
