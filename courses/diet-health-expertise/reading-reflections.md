@@ -38,10 +38,10 @@ This exercise is NOT about regurgitating information or identifying the "right" 
 Post a short response to the specific prompt on the schedule. It should make a point, refer to the reading, and show your own thinking about why the reading matters.
 
 ## What makes this good
-- Make a clear point, even a small one.
-- Refer to something specific in the reading.
+- Be clear about your main points.
+- Refer to specifics in the reading (but you don't need lots of quotes).
 - Connect the reading to a course theme, earlier reading, video, or question from the syllabus.
-- Show what you are thinking, not just what the author said.
+- Show what you are thinking and your response, not just what the author said.
 - Stay honest about uncertainty. It is fine to say what confused you if you explain why the confusion matters.
 
 
@@ -55,3 +55,5 @@ Reading reflections appear in Canvas as letter grades. In general, they are grad
 - B: A solid effort to do the above, but with significant shortcomings in several areas.
 
 - C: A decent effort, but it does not yet show much engagement with the reading, is primarily summary rather than original thinking, or does not really respond to the prompt. If your work reads like an unedited AI response, you will get a chance to redo it.
+
+- D: Looks too much like AI. Even if you didn't use it, you still have to redo it. 
