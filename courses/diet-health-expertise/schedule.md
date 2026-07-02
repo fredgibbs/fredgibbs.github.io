@@ -114,6 +114,8 @@ The big shift to watch is not simply from "old medicine" to "new medicine." It i
 After taking even a single upper-level history course, you should have a sense of what historians actually do. The next two days show that working with historical sources is difficult! Like in any profession, good historians can make stories seem like they naturally emerge from historical sources. Today we 'read' a long but informative article about an 18th-century physician. But when you go back and look at the original material---as we do on Tuesday---you immediately understand how much work and INTERPRETATION goes into even the most straightforward history. Nothing at all is truly obvious. **There are no stories waiting to be told.**
 "%}
 
+- [Week 2 Overview Video](https://youtu.be/AabeM83A8_4)
+
 - Steven Shapin, "Trusting George Cheyne," 263--97. This article is clear and informative, but way longer than it needs with too much detail. (yay academic writing!) So, let's use AI to help us sort it out. And help us learn how to use AI as a reading partner. Shapin's article can feel dense, but the basic question is wonderfully simple: why did people trust this person? We're going to use AI to help us understand how he answers that question and the evidence he uses.
 
 - Use the [AI Reading Investigation guide](ai-reading-investigation) for this assignment. We'll use AI in a deliberately investigative way. It can help you get oriented, clarify concepts, generate possible interpretations, and identify passages to reread. But it also flattens the texture of historical argument. Your job is to use it to ask better questions, then verify its claims against Shapin's text.
@@ -153,8 +155,10 @@ You may use AI to get oriented, but do not let it do the comparison for you. Bef
 
 Then go back to the original texts yourself. Find specific examples that confirm, complicate, or challenge the AI overview. Pay special attention to tone, style, voice, audience, and the kinds of evidence the authors use. These are exactly the things AI often smooths out.
 
+[Primary Source Comparison Methods](https://youtu.be/MOcW6fkt6Fw)
+
 {% include alert.html class='danger' title='Primary source comparison' text="
-Compare TWO texts from above. Your post should explain both what AI helped you notice and what you saw for yourself in the original sources.
+Compare TWO texts from above. Your post should explain both what AI helped you notice and what you saw for yourself in the original sources (as the video drones on about).
 
 In your response, include:
 - Your own quick first impression before AI.
