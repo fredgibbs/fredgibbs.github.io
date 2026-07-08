@@ -159,7 +159,7 @@ This looks like a lot, but you are not reading five books! You are sampling a hi
 
 You should use AI to get oriented, but do not let it do the comparison for you. Before asking AI, spend a few minutes with the title page, preface/introduction, table of contents, and several sampled pages so you have your own first impression. Then ask AI for a basic overview of the two texts you chose: what each author seems to argue, what audience each text addresses, and what kind of dietary authority each author projects. Treat that answer as a rough second opinion, not as reliable interpretation.
 
-Then go back to the original texts yourself. Find specific examples that confirm, complicate, or challenge the AI overview. Pay special attention to tone, style, voice, audience, and the kinds of evidence the authors use. These are exactly the things AI often smooths out. For a walk-through, check out the [Primary Source Comparison Methods Video](https://youtu.be/MOcW6fkt6Fw.
+Then go back to the original texts yourself. Find specific examples that confirm, complicate, or challenge the AI overview. Pay special attention to tone, style, voice, audience, and the kinds of evidence the authors use. These are exactly the things AI often smooths out. For a walk-through, check out the [Primary Source Comparison Methods Video](https://youtu.be/MOcW6fkt6Fw).
 
 
 
