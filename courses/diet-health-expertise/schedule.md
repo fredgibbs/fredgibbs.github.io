@@ -226,8 +226,12 @@ The big question is not whether numbers are good or bad. Numbers are incredibly 
 ## Mon 7/13: Quantifying diets
 - Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67. We return to Mudry now with more historical context. You have already seen dietary authority built through humoral theory, gentlemanly medicine, common sense, reform, morality, and personal discipline. Mudry helps us ask what changes when dietary advice begins to depend more heavily on numbers. As you read, try to hold two ideas together: quantification can clarify real patterns, but it can also make messy human practices seem simpler than they are.
 
+Today, stay focused on the mechanics: what gets counted, measured, or standardized when eating becomes "scientific," and what that leaves out. We'll get to the moral and political stakes of all this tomorrow, when we pair Mudry with Biltekoff.
+
 {% include alert.html class='danger' title='Reading reflection' text="
-Use specific examples to illustrate what you see as the strengths and weaknesses of Mudry's analysis of the implications of quantified eating. Where is she most convincing? Where are you more skeptical? Would you say she presents a neutral and balanced view of the implications of quantification?
+- What specific things does Mudry say get counted, measured, or standardized once eating becomes 'scientific'? What tends to get left out in the process?
+- Pick one example from the article where a number (a calorie count, a serving size, a percentage) makes something about eating look simpler or more certain than it really is.
+- Where is Mudry's argument about the rhetoric of quantification most convincing to you? Where are you more skeptical?
 "%}
 
 
@@ -235,12 +239,15 @@ Use specific examples to illustrate what you see as the strengths and weaknesses
 ## Tue 7/14: Diet and Morality
 - Charlotte Biltekoff, *Eating Right in America*, Chapter 2: Scientific Moralization, 13--44.
 
-Today we add an important complication: scientific dietary advice can still be moral advice. Biltekoff is not saying science is fake or useless. She is showing how ideas about proper eating often carry ideas about proper citizenship, proper bodies, proper families, and proper behavior.
+Yesterday Mudry showed how turning eating into numbers makes it feel objective and neutral. Today we add an important complication: that supposedly neutral science is doing moral and political work. Biltekoff is not saying science is fake or useless. She is showing how ideas about proper eating often carry ideas about proper citizenship, proper bodies, proper families, and proper behavior.
 
 This should feel connected to Graham, Cheyne, and even Galen. The language changes, but diet remains a way to talk about self-control, responsibility, and social order.
 
 {% include alert.html class='danger' title='Discussion Board' text='
-To what extent do you agree with Biltekoff\'s argument and evidence that scientific advice is necessarily moralizing? Do you agree with Mudry\'s claim that "after the development of the science of nutrition, moral terms like "good” and “bad” became enumerated and objectified in discussions of food." (p.62)? As before, please build off a previous (but not necessarily the most recent) reply.
+- To what extent do you agree with Biltekoff\'s argument that scientific dietary advice is necessarily moralizing?
+- Use a specific example from the chapter of how "good" eating gets tied to ideas of proper citizenship, family, or bodies.
+- How does this complicate or build on what you took away yesterday from Mudry about what quantification does?
+- As before, please build off a previous (but not necessarily the most recent) reply.
 '%}
 
 
@@ -263,27 +270,55 @@ Today food enters the laboratory. Atwater's article is not exciting because ever
 "%}
 
 
-## Thu-Fri (7/16 - 7/17): Early 20th century sources
-We treat the next few days as a single unit, and there's nothing due on Thursday. We focus on a few diet books written between 1918 and 1922. It's a small window of time, but they are all COMPLETELY different in their approach, style, and the way their authors try to establish their expertise.
+## Thu 7/16: Early 20th century sources
+We focus on a few diet books written between 1918 and 1922. It's a small window of time, but they are all COMPLETELY different in their approach, style, and the way their authors try to establish their expertise.
 
 Peters, Kellogg, and McCollum are writing in the same era, but they sound like they live in different dietary universes. That's the point. Scientific nutrition did not produce one single style of advice. It created new tools that different authors used for different audiences, anxieties, and promises.
 
 For each text, I've indicated specific pages you should read fairly carefully. IN ADDITION, as we did before, carefully examine the table of contents and randomly sample pages or small sections throughout the book to get a feel for the text as a whole. Read for patterns: tone, audience, evidence, promises, fears, and the way each author turns nutrition into practical advice.
 
-- Lulu Hunt Peters,  [Diet and Health: With Key to the Calories](https://www.google.com/books/edition/Diet_and_Health/f7UXAAAAYAAJ?hl=en&gbpv=1) (1918). Read the first 3.5 chapters, pp. 11--39 (these are tiny pages and the writing is rather breezy compared to what we're used to).
+- Lulu Hunt Peters,  [Diet and Health: With Key to the Calories](https://www.google.com/books/edition/Diet_and_Health/f7UXAAAAYAAJ?hl=en&gbpv=1) (1918). Read the first 3.5 chapters, pp. 11--39. Note these are tiny pages and the writing is rather breezy compared to what we're used to, so it goes fast.
 
 - John Harvey Kellogg, [_The New Dietetics, what to Eat and how: A Guide to Scientific Feeding in Health and Disease_](https://www.google.com/books/edition/_/CBGxvXF332cC?hl=en&gbpv=1&pg=PA1) (1921). Read the Preface (pp. 5--7); skim the Table of Contents (pp. 8--21); read pp. 25--37.
 
 - Elmer McCollum, [The Newer Knowledge of Nutrition](https://www.google.com/books/edition/_/jndUnd5xX5wC?hl=en&gbpv=1) (1922). Read the preface (ix--xii), skim the Table of Contents, and read 1--13.
 
+As with last week, you should use AI to help you get oriented. This time, though, you're in charge of the interrogation: come up with your own prompts rather than relying on the generic "compare these texts" request. Try asking AI to compare rhetorical strategies, surface assumptions about bodies or evidence, explain unfamiliar terms, or identify what each author seems most anxious about. Then go back to the primary sources yourself to confirm, complicate, or correct what AI told you.
 
-{% include alert.html class='danger' title='Early 20th-century source comparison, due Friday' text="
-This reflection is more substantial than a regular reading reflection because it asks you to compare several primary sources and connect them to course themes. As with last week, you ARE NOT reading these books in their entirety. This time I've provided more specific pages, but you should also develop a sense of each text as a whole. Use the skimming strategies outlined in the video from last week to find revealing parts that help you understand why the text is the way it is.
+{% include alert.html class='danger' title='Early 20th-century source comparison, due today' text="
+This reflection is more substantial than a regular reading reflection because it asks you to compare three primary sources and connect them to course themes. As with last week, you ARE NOT reading these books in their entirety. This time I've provided more specific pages, but you should also develop a sense of each text as a whole. Use the skimming strategies outlined in the video from last week to find revealing parts that help you understand why the text is the way it is.
 - Do not just summarize the texts! Your posts should *analyze* them.
+
+Your post should include:
+- Your own quick first impressions of the three texts, before turning to AI.
+- The prompt(s) you came up with and one useful insight AI gave you supported by an example in the text.
+- One place where the original texts complicated, corrected, or made the AI answer seem too generic.
+- A broad comparison (not summary!) of all three texts using specific examples from the sources.
+
+Guiding questions:
 - How would you characterize their different rhetorical styles?
 - How do the texts show continuities and discontinuities of dietary advice from past sources?
 - How do the authors establish expertise?
 - To what extent do these texts illustrate the points from the Monday and Tuesday readings?
+"%}
+
+
+## Fri 7/17: Narrating a slide deck
+No reading for today! Just images. We're going to use AI to connect some images in a slide deck and use the course to critique / elaborate. 
+
+First, check out [this slide deck](https://docs.google.com/presentation/d/1DX-5UZjIgpD-WZjfpcMrCCqY6NAHJ04ZdHDYzfa9Ge8/edit?usp=sharing).
+
+Ask AI to write a sentence captioning and connecting each slide to the next (and give it the URL to the slides), so you end up with something like a bulleted list of sentences, one for each slide.
+
+Then go back through the actual slides yourself with the AI captions. Your job is to notice what's actually on each slide, visually or textually, related to the course so far that didn't make it into the AI narrative.
+
+{% include alert.html class='danger' title='Slide deck post' text="
+Your post should include the following:
+- Comment briefly (3-4 sentences) on what you thought was interesting from the AI output.
+- Comment on at least 4 slides to provide a history of diet and health perspective that the AI narrative left out, flattened, or got wrong. (~2-3 sentences each)
+- Comment briefly (3-4 sentences) on one other post. How does _that_ narrative and analysis compare to _yours_? It's fine if they are eerily similar or radically different--the point is just to gain at least one point of comparison.
+
+NOTE: you DO NOT need to post your AI captions themselves. They are just the basis for your analysis.
 "%}
 
 
