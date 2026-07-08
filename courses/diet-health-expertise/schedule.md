@@ -149,13 +149,19 @@ Today we read Cheyne himself. Do not worry about understanding every sentence pe
 
 
 ## Wed 7/8: Natural and Moral Diets of the 1800s
-This looks like a lot, but you are not reading five books. You are sampling a historical landscape. Pick TWO texts and read them like artifacts: what problems do they think diet solves, who are they talking to, and what kind of authority are they trying to project?
+- John Frank Newton, _[The Return to Nature](https://books.google.com/books?id=8dwhAQAAMAAJ): Or, A Defence of the Vegetable Regimen; with Some Account of an Experiment Made during the Last Three or Four Years in the Author’s Family_ (1811)
+- John Tweed _[Popular Observations on Regimen and Diet](https://www.google.com/books/edition/Popular_Observations_on_Regimen_and_Diet/N47GABoEaMgC?hl=en&gbpv=1)_ (1820).
+- Charles Turner Thackrah, _[Lectures on Digestion and Diet](https://books.google.com/books?id=t9cGAAAAQAAJ)_ (1824).
+- John Ayrton Paris, _[A Treatise on Diet](https://books.google.com/books?id=xylFAAAAcAAJ) with a View to Establish ...: A System of Rules for the Prevention and Cure of Diseases Incident to a Disordered State of the Digestive Functions_ (1829).
+- William Henry Robertson, _[A popular treatise on diet and regimen](https://www.google.com/books/edition/A_popular_treatise_on_diet_and_regimen/fyKfI2pAbrUC?hl=en)_ (1835).
 
-You may use AI to get oriented, but do not let it do the comparison for you. Before asking AI, spend a few minutes with the title page, preface/introduction, table of contents, and several sampled pages so you have your own first impression. Then ask AI for a basic overview of the two texts you chose: what each author seems to argue, what audience each text addresses, and what kind of dietary authority each author projects. Treat that answer as a rough second opinion, not as reliable interpretation.
+This looks like a lot, but you are not reading five books! You are sampling a historical landscape. Pick TWO texts and read them like artifacts: what problems do they think diet solves, who are they talking to, and what kind of authority are they trying to project?
 
-Then go back to the original texts yourself. Find specific examples that confirm, complicate, or challenge the AI overview. Pay special attention to tone, style, voice, audience, and the kinds of evidence the authors use. These are exactly the things AI often smooths out.
+You should use AI to get oriented, but do not let it do the comparison for you. Before asking AI, spend a few minutes with the title page, preface/introduction, table of contents, and several sampled pages so you have your own first impression. Then ask AI for a basic overview of the two texts you chose: what each author seems to argue, what audience each text addresses, and what kind of dietary authority each author projects. Treat that answer as a rough second opinion, not as reliable interpretation.
 
-[Primary Source Comparison Methods](https://youtu.be/MOcW6fkt6Fw)
+Then go back to the original texts yourself. Find specific examples that confirm, complicate, or challenge the AI overview. Pay special attention to tone, style, voice, audience, and the kinds of evidence the authors use. These are exactly the things AI often smooths out. For a walk-through, check out the [Primary Source Comparison Methods Video](https://youtu.be/MOcW6fkt6Fw.
+
+
 
 {% include alert.html class='danger' title='Primary source comparison' text="
 Compare TWO texts from above. Your post should explain both what AI helped you notice and what you saw for yourself in the original sources (as the video drones on about).
