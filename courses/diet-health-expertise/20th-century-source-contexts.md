@@ -29,7 +29,7 @@ Same four years, three completely different texts. Use this table to get your be
 | **Evidence** | Her own body, wartime rationing, common sense | Thousands of patients treated as a running clinical experiment | Rats in controlled feeding experiments |
 | **How she/he sounds** | Breezy, funny, first-person | Earnest, systematic, moralizing | Careful, methodical, but still translatable |
 
-Don't stop here—this table can't do your comparing for you. It's a map, not the territory.
+Hopefully this overview gives you more solid ground to stand on, but it's not a replacement for your own analysis!
 
 ### Broad Cultural Themes to Keep in Mind:
 
@@ -109,6 +109,6 @@ Published just a year after Kellogg's book, Elmer McCollum’s text highlights h
 
 ## So, Same Era—Why So Different?
 
-Three authors, four years, one country—and yet Peters, Kellogg, and McCollum barely sound like they're discussing the same subject. That's not a coincidence; it's the whole point of the assignment. Nutritional science didn't hand everyone the same script. It handed different people different *tools*, and each author reached for the ones that fit their audience, their institution, and their own claim to authority: Peters used personality and patriotism, Kellogg used institutional scale and moral conviction, McCollum used the lab bench.
+Three authors, four years, one country—and yet Peters, Kellogg, and McCollum barely sound like they're discussing the same subject. That's the whole point of the assignment. How can we explain this diversity in the context of the course? 
 
 As you write your comparison, resist the urge to treat these as three data points on a single line of "progress toward modern nutrition science." Ask instead: what did each author gain—and what did they give up—by building expertise the way they did?
