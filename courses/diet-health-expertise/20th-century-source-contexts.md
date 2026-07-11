@@ -59,9 +59,9 @@ Lulu Hunt Peters was a physician and nutritionist at a time when less than 5% of
 
 > **Core Philosophy:** *"This is a free country. You can eat as much as you please. But remember this, you must pay the penalty."* You have modern abundance, but you must govern it with personal restraint.
 
-### *An Aside on AI Summaries:*
-
-I was experimenting with AI to see how it summarized Google Books, and it claimed that Peters *"transformed dieting from fringe advice to mainstream practice."* If you’ve been awake for two seconds in this class, you know that’s completely wrong. Dietary advice has been central to manuscripts and books for centuries; Atwater wouldn't have been writing for massive magazine audiences if it were a "fringe" topic. I love AI, but sometimes it's just wrong. Please learn to know when!
+{% include alert.html class='info' title='An Aside on AI Summaries' text="
+I was experimenting with AI to see how it summarized Google Books, and it claimed that Peters *'transformed dieting from fringe advice to mainstream practice.'* If you’ve been awake for two seconds in this class, you know that’s completely wrong. Dietary advice has been central to manuscripts and books for centuries; Atwater wouldn't have been writing for massive magazine audiences if it were a 'fringe' topic. I love AI, but sometimes it's just wrong. Please learn to know when!
+"%}
 
 **From individual to institution.** Peters asks each reader to govern their own body through willpower and wit. Kellogg has bigger ambitions: he wants to build an entire institution—diet, water, exercise, environment, morals—around governing bodies at scale.
 
