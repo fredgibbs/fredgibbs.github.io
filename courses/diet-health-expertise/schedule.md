@@ -224,6 +224,9 @@ The big question is not whether numbers are good or bad. Numbers are incredibly 
 
 
 ## Mon 7/13: Quantifying diets
+
+- [Week 3 Overview Video](https://youtu.be/9EFSHXGvAZc)
+- [Intro to the reading](https://youtu.be/HvAmZWfLbMc)
 - Jessica Mudry, “Quantifying an American Eater” _Food, Culture & Society_ 9.1 (2006): 49--67. We return to Mudry now with more historical context. You have already seen dietary authority built through humoral theory, gentlemanly medicine, common sense, reform, morality, and personal discipline. Mudry helps us ask what changes when dietary advice begins to depend more heavily on numbers. As you read, try to hold two ideas together: quantification can clarify real patterns, but it can also make messy human practices seem simpler than they are.
 
 Today, stay focused on the mechanics: what gets counted, measured, or standardized when eating becomes "scientific," and what that leaves out. We'll get to the moral and political stakes of all this tomorrow, when we pair Mudry with Biltekoff.
@@ -237,6 +240,7 @@ Today, stay focused on the mechanics: what gets counted, measured, or standardiz
 
 
 ## Tue 7/14: Diet and Morality
+- [Intro to the reading](https://youtu.be/WmN3qsIeAE8)
 - Charlotte Biltekoff, *Eating Right in America*, Chapter 2: Scientific Moralization, 13--44.
 
 Yesterday Mudry showed how turning eating into numbers makes it feel objective and neutral. Today we add an important complication: that supposedly neutral science is doing moral and political work. Biltekoff is not saying science is fake or useless. She is showing how ideas about proper eating often carry ideas about proper citizenship, proper bodies, proper families, and proper behavior.
@@ -260,6 +264,7 @@ Our goal today is to investigate for ourselves a work that was often referenced 
 
 Today food enters the laboratory. Atwater's article is not exciting because every scientific detail matters; it is exciting because of what the details do rhetorically. They make food look measurable, comparable, and manageable. As you read, ask what kind of world becomes possible when food is treated as fuel.
 
+- [Intro to the reading](https://youtu.be/Q0VdlqDpSuw)
 - Wilbur O. Atwater, “The Chemistry of Food and Nutrition: The Composition of Our Bodies and Our Food,” *Century Illustrated Magazine*, 34 (May 1887): 59--74.
 
 {% include alert.html class='danger' title='Reading reflection' text="
@@ -274,6 +279,10 @@ Today food enters the laboratory. Atwater's article is not exciting because ever
 We focus on a few diet books written between 1918 and 1922. It's a small window of time, but they are all COMPLETELY different in their approach, style, and the way their authors try to establish their expertise.
 
 Peters, Kellogg, and McCollum are writing in the same era, but they sound like they live in different dietary universes. That's the point. Scientific nutrition did not produce one single style of advice. It created new tools that different authors used for different audiences, anxieties, and promises.
+
+{% include alert.html class='info' title='Optional background guide' text="
+Want more context before (or while) you read? This [background and context guide](20th-century-source-contexts) walks through each author's institutional base, audience, and claim to expertise, and gives you a quick-reference table to orient yourself. It won't do the comparing for you, but it's there if you want a head start.
+"%}
 
 For each text, I've indicated specific pages you should read fairly carefully. IN ADDITION, as we did before, carefully examine the table of contents and randomly sample pages or small sections throughout the book to get a feel for the text as a whole. Read for patterns: tone, audience, evidence, promises, fears, and the way each author turns nutrition into practical advice.
 
@@ -295,7 +304,7 @@ Your post should include:
 - One place where the original texts complicated, corrected, or made the AI answer seem too generic.
 - A broad comparison (not summary!) of all three texts using specific examples from the sources.
 
-Guiding questions:
+To help you build that comparison, pick ONE OR TWO of these lenses to organize it around (you don't need to answer all four):
 - How would you characterize their different rhetorical styles?
 - How do the texts show continuities and discontinuities of dietary advice from past sources?
 - How do the authors establish expertise?
@@ -314,9 +323,9 @@ Then go back through the actual slides yourself with the AI captions. Your job i
 
 {% include alert.html class='danger' title='Slide deck post' text="
 Your post should include the following:
-- Comment briefly (3-4 sentences) on what you thought was interesting from the AI output.
-- Comment on at least 4 slides to provide a history of diet and health perspective that the AI narrative left out, flattened, or got wrong. (~2-3 sentences each)
-- Comment briefly (3-4 sentences) on one other post. How does _that_ narrative and analysis compare to _yours_? It's fine if they are eerily similar or radically different--the point is just to gain at least one point of comparison.
+- Comment briefly (3-4 sentences) on what you thought was interesting from the AI output in general.
+- Pick 2-3 slides and go deeper on each: provide a history of diet and health perspective that the AI narrative left out, flattened, or got wrong. (~4-5 sentences each)
+- Comment briefly (3-4 sentences) on one other post. How does your classmates commentary and analysis compare to _yours_? It's fine if they are eerily similar or radically different--the point is just to gain at least one point of comparison.
 
 NOTE: you DO NOT need to post your AI captions themselves. They are just the basis for your analysis.
 "%}
