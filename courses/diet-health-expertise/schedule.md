@@ -345,10 +345,11 @@ This is the day when body size becomes impossible to treat as just a medical que
 
 As you read, keep asking how a body becomes evidence. Evidence of what? Health? Character? Modernity? Failure? That question will matter for the rest of the week.
 
-{% include alert.html class='danger' title='Reading reflection' text="
+{% include alert.html class='danger' title='Discussion response and post' text="
 - Pick ONE specific passage where Veit shows most clearly that thinness was being treated as a sign of modernity, discipline, or morality—not just health. Quote or closely paraphrase it, and explain what makes it convincing (or not) to you.
 - Find a specific example from your own life or media diet—an ad, an influencer, a gym culture moment, a wellness trend, something a coach or doctor once said to you or someone you know—that runs on the same 'body as evidence' logic Veit describes. Be specific about what the body is supposedly evidence *of*.
 - Veit's argument is not brand new in this course. Pick ONE earlier reading (Peters? Kellogg? Graham? Galen, even) and explain what continues and what actually changes when thinness becomes the new register for these old themes.
+- This is a reply and post type exercsie, in part because we've all experienced this idea in different ways, so please comment briefly on one other post in addition to your own analysis.
 "%}
 
 
