@@ -346,11 +346,9 @@ This is the day when body size becomes impossible to treat as just a medical que
 As you read, keep asking how a body becomes evidence. Evidence of what? Health? Character? Modernity? Failure? That question will matter for the rest of the week.
 
 {% include alert.html class='danger' title='Reading reflection' text="
-For this exercise, bullet points are 1-3 complete sentences that clearly express a complete idea, not cryptic phrases that no one but you can understand.
-
-- Write 4 bullet points that summarize what you think are the MAIN POINTS of the article. They might not be equally important; you might think your first one or two points are REALLY important and the others are less so.
-- Write 4 bullet points that point out similarities and differences to other readings in the course to this point. What kinds of things have we seen before? What are variations on a theme? What's really new?
-- As part of your bullet points, briefly indicate WHY you think your point is worth highlighting.
+- Pick ONE specific passage where Veit shows most clearly that thinness was being treated as a sign of modernity, discipline, or morality—not just health. Quote or closely paraphrase it, and explain what makes it convincing (or not) to you.
+- Find a specific example from your own life or media diet—an ad, an influencer, a gym culture moment, a wellness trend, something a coach or doctor once said to you or someone you know—that runs on the same 'body as evidence' logic Veit describes. Be specific about what the body is supposedly evidence *of*.
+- Veit's argument is not brand new in this course. Pick ONE earlier reading (Peters? Kellogg? Graham? Galen, even) and explain what continues and what actually changes when thinness becomes the new register for these old themes.
 "%}
 
 
@@ -362,9 +360,9 @@ Low-fat advice did not become powerful simply because scientists discovered some
 This is a long article, so read strategically. The most important issue is not remembering every event in the history of low-fat advice. The important issue is understanding how a scientific claim becomes a cultural default.
 
 {% include alert.html class='danger' title='Reading reflection' text="
-This article is a LONG (and kinda dry) description of some things that happened in the past regarding low-fat diets. There's not much analysis of how we should understand those things in the context of the broad history of diet and health. That's where you come in!
+This article is a LONG (and dry, TBH) description of the history and rationale low-fat diets. There's very helpful _description_, but not much _analysis_ of how we should understand those things in the context of the broad history of diet and health. That's where you come in!
 
-You are NOT meant to read this carefully. You should skim/read as much as you need to. Your challenge---what you should write about in your reflection---is to explain how we can understand how / why the \"ideology of low fat\" unfolded as it did and what was in fact new about it. I hope you can use a historical perspective that is not in the article, but that the course has hopefully provided.
+You are NOT meant to read the whole thing carefully. You should skim/use AI as much as you need to---but do so iteratively and critically, not just lazily. Your challenge---what you should write about in your reflection---is to explain how we can understand how / why the \"ideology of low fat\" unfolded as it did USING THE COURSE SO FAR. 
 "%}
 
 
@@ -376,7 +374,10 @@ Berreby is useful because he challenges one of the most durable stories in diet 
 This article also helps us think about what history can and cannot do. History does not replace science, but it can show why some scientific questions feel obvious, why others get ignored, and why certain explanations become morally satisfying.
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Let's be clear: this article DOES NOT try to argue that personal choice is not a cause of obesity. But it does try to suggest how there are other reasons that also matter, and that there are potentially structural causes of ill-health that can be easily overlooked in modern research paradigms. How does this course help explain WHY the author wrote this? According to the author, how should \"science\" be used to help understand obesity?
+Let's be clear: this article DOES NOT try to argue that personal choice is not a cause of obesity. But it does try to suggest how there are other reasons that also matter, and that there are potentially structural causes of ill-health that can be easily overlooked in modern research paradigms. 
+
+How does this course and the long history of diet and health help explain WHY the author wrote this? How should \"science\" be used to help understand obesity? Have you encountered other situations (not about diet) where personal choice was maybe more constrained than acknowledged?
+
 "%}
 
 
@@ -396,20 +397,17 @@ Government guidelines and food labels may look boring, but they are some of the 
 {% include alert.html class='danger' title='Reading reflection' text="
 Today is about what happens when uncertain nutrition knowledge has to become public advice.
 
-Using Aschwanden and at least TWO of the federal materials, explain how uncertainty gets translated into guidance that sounds clear, practical, and authoritative. Do not just summarize the documents. Instead, analyze how official advice manages the gap between messy science and everyday instructions.
+Using the government publications for today, identify ONE SPECIFIC way official dietary advice has changed since 1980---a recommendation that reversed, a claim that disappeared or got added, a category that shifted, a number that changed.
 
-Some questions to consider:
-- What does Aschwanden help you notice about the difficulty of producing reliable nutrition knowledge?
-- How do the federal materials turn uncertainty into rules, labels, categories, serving sizes, daily values, or claims?
-- What gets clarified by official advice? What gets simplified or hidden?
-- What kind of authority do government guidelines and food labels project?
-- How does this connect to earlier course themes like quantification, moral advice, expertise, common sense, or trust?
+Then use the COURSE (not just this reading) to explain the implicit rationale behind that change. What was really driving it: new science? industry pressure? a new cultural anxiety or a new 'food villain'? Think back to how low-fat ideology, moralized eating, or quantification worked in earlier readings---does the same pattern show up here?
+
+Finally, the harder question: Aschwanden argues nutrition science is genuinely uncertain, contested, and constantly revised. But each edition of the federal guidelines gets published as if it were definitive, not provisional. How do you reconcile those two things? Is that confidence dishonest, useful, necessary, or something else? Back up your answer with a specific examples.
 "%}
 
 
 ## Fri 7/24: Nothing new today
 {% include alert.html class='danger' title='Complicate the Obvious' text="
-Post your [Complicate the Obvious](healthy-diet-analysis) assignment before midnight tonight. It's 600 words and works as a final reflection warm up.
+Post your [Complicate the Obvious](healthy-diet-analysis) assignment before midnight tonight. It's ~600 words and works as a final reflection warm up.
 
 The basic move is simple: ask AI what a healthy diet is, then use specific ideas and readings from the course to make that answer less obvious. What assumptions does it make about bodies, evidence, expertise, morality, culture, common sense, or responsibility? What gets left out? The goal is not to prove the AI right or wrong, but to show that you can use historical perspective to analyze modern diet advice.
 "%}
