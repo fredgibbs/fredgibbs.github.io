@@ -339,6 +339,7 @@ Our goal is not to decide once and for all what everyone should eat. Instead, we
 
 
 ## Mon 7/20: Modern willpower
+- [Week 4 Overview Video](https://youtu.be/pZ2H9TZXxro)
 - Helen Zoe Veit, *Modern Food, Moral Food*, Chapter 7: The Triumph of the Will: The Progressive Body and the Thin Ideal, 157--80.
 
 This is the day when body size becomes impossible to treat as just a medical question. Veit helps us see thinness as a cultural achievement: modern, disciplined, efficient, and moral. That should sound familiar by now. The older themes of balance, moderation, self-control, and moralized eating have not disappeared; they have moved into new scientific and social settings.
