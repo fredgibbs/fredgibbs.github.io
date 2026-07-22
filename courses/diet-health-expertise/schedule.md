@@ -391,11 +391,11 @@ Government guidelines and food labels may look boring, but they are some of the 
 
 ### Main course
 - Christie Aschwanden, [You Can’t Trust What You Read About Nutrition](https://web.archive.org/web/20260511004521/http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/), (_FiveThirtyEight_, Jan 6, 2016).
-- Compare the [1980 guidelines](https://www.dietaryguidelines.gov/sites/default/files/2019-05/1980%20DGA.pdf) with the new [Dietary Guidelines for Americans](https://cdn.realfood.gov/DGA.pdf), with the official ["new food pyramid" page](https://realfood.gov/). 
-- If curious, you can see more guides (and the studies behind them) from the [History of the Dietary Guidelines](https://www.dietaryguidelines.gov/history).
+- Compare the [1980 Dietary Guidelines for Americans](https://www.dietaryguidelines.gov/sites/default/files/2019-05/1980%20DGA.pdf) with the [latest version](https://cdn.realfood.gov/DGA.pdf), with the official ["new food pyramid" page](https://realfood.gov/). (If curious, you can see more guides (and the studies behind them) from the [History of the Dietary Guidelines](https://www.dietaryguidelines.gov/history).)
+
 
 ### A la carte
-
+As usual, skim for the overall message, not the particular details.
 - FDA, [Changes to the Nutrition Facts Label](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/changes-nutrition-facts-label). Focus on the "Highlights of the Updated Label" section. These are old news now, but are these changes likely to make us healthier?
 - FDA, [Label Claims for Food & Dietary Supplements](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/label-claims-conventional-foods-and-dietary-supplements). Skim for the basic differences between health claims, nutrient content claims, and structure/function claims.
 
@@ -411,7 +411,7 @@ Finally, the harder question: Aschwanden argues nutrition science is genuinely u
 "%}
 
 
-## Fri 7/24: Nothing new today
+## Fri 7/24: No reading, just complicating
 {% include alert.html class='danger' title='Complicate the Obvious' text="
 Post your [Complicate the Obvious](healthy-diet-analysis) assignment before midnight tonight. It's ~600 words and works as a final reflection warm up.
 
