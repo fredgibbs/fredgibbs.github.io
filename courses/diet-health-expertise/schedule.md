@@ -385,25 +385,29 @@ How does this course and the long history of diet and health help explain WHY th
 
 
 ## Thu 7/23: Food epistemology and federal advice
-Today we move from uncertainty to official advice. Aschwanden explains why nutrition knowledge is hard to produce and easy to overstate. The federal materials show what happens next: uncertain, contested, and evolving science still has to be translated into public guidance, labels, serving sizes, daily values, and claims about health.
+Today we move from inherent uncertainty to official advice. Aschwanden explains why nutrition knowledge is hard to produce and easy to overstate. The federal materials show how uncertain, contested, and evolving science still has to be translated into public guidance, labels, serving sizes, daily values, and claims about health.
 
-Government guidelines and food labels may look boring, but they are some of the most powerful diet texts we encounter. They turn scientific debates into everyday language. As you read, ask what gets clarified, what gets simplified, and what kinds of authority are built into official advice.
+Government guidelines and food labels may look boring, but they are some of the most powerful diet texts we encounter. We already read about the moralizing component of diet that gets taught in standardized ways in schools, the military, etc. But of course someone needs to transform scientific debates into everyday advice. As you read, ask what gets clarified, what gets simplified, and what kinds of authority are built into official recommendations.
 
-- Christie Aschwanden, [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/), (_FiveThirtyEight_, Jan 6, 2016).
-- U.S. Dietary Guidelines, [History of the Dietary Guidelines](https://www.dietaryguidelines.gov/about-dietary-guidelines/history-dietary-guidelines). Read from "Senate Select Committee on Nutrition and Human Needs" through "USDA and HHS Collaborate to develop the Dietary Guidelines."
-- USDA/HHS, [Nutrition and Your Health: Dietary Guidelines for Americans](https://www.dietaryguidelines.gov/sites/default/files/2019-05/1980%20DGA.pdf) (1980). This is short, so read the whole thing.
-- FDA, [Changes to the Nutrition Facts Label](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/changes-nutrition-facts-label). Focus on the "Highlights of the Updated Label" section.
-- FDA, [Label Claims for Food & Dietary Supplements](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/label-claims-food-dietary-supplements). Skim for the basic differences between health claims, nutrient content claims, and structure/function claims.
+### Main course
+- Christie Aschwanden, [You Can’t Trust What You Read About Nutrition](https://web.archive.org/web/20260511004521/http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/), (_FiveThirtyEight_, Jan 6, 2016).
+- Compare the [1980 guidelines](https://www.dietaryguidelines.gov/sites/default/files/2019-05/1980%20DGA.pdf) with the new [Dietary Guidelines for Americans](https://cdn.realfood.gov/DGA.pdf), with the official ["new food pyramid" page](https://realfood.gov/). 
+- If curious, you can see more guides (and the studies behind them) from the [History of the Dietary Guidelines](https://www.dietaryguidelines.gov/history).
+
+### A la carte
+
+- FDA, [Changes to the Nutrition Facts Label](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/changes-nutrition-facts-label). Focus on the "Highlights of the Updated Label" section. These are old news now, but are these changes likely to make us healthier?
+- FDA, [Label Claims for Food & Dietary Supplements](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/label-claims-conventional-foods-and-dietary-supplements). Skim for the basic differences between health claims, nutrient content claims, and structure/function claims.
 
 
 {% include alert.html class='danger' title='Reading reflection' text="
-Today is about what happens when uncertain nutrition knowledge has to become public advice.
+Today is about the lost in translation phenomenon when uncertain nutrition knowledge becomes public advice.
 
-Using the government publications for today, identify ONE SPECIFIC way official dietary advice has changed since 1980---a recommendation that reversed, a claim that disappeared or got added, a category that shifted, a number that changed.
+Using the government publications for today, identify a significant way official dietary advice has changed since 1980---a recommendation that reversed, a claim that disappeared or got added, a category that shifted, style, tone, presumptions. 
 
-Then use the COURSE (not just this reading) to explain the implicit rationale behind that change. What was really driving it: new science? industry pressure? a new cultural anxiety or a new 'food villain'? Think back to how low-fat ideology, moralized eating, or quantification worked in earlier readings---does the same pattern show up here?
+Then use the COURSE (not just today's reading) to explain the implicit rationale behind the change along with shifts in the labeling. What do you suppose is really driving these shifts: new science? industry pressure? a new cultural anxiety or a new 'food villain'? Think back to how low-fat ideology, moralized eating, or quantification worked in earlier readings---does the same pattern show up here?
 
-Finally, the harder question: Aschwanden argues nutrition science is genuinely uncertain, contested, and constantly revised. But each edition of the federal guidelines gets published as if it were definitive, not provisional. How do you reconcile those two things? Is that confidence dishonest, useful, necessary, or something else? Back up your answer with a specific examples.
+Finally, the harder question: Aschwanden argues nutrition science is genuinely uncertain, contested, and constantly revised. The answer seems to be to 'eat real food' Is this the right way to go? Have you ever eaten processed food and thought of it as _not_ real? Again, use the course (and especially recent readings) to reveal some of what might be being covered up here.
 "%}
 
 
