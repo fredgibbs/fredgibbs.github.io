@@ -405,9 +405,9 @@ Today is about the lost in translation phenomenon when uncertain nutrition knowl
 
 Using the government publications for today, identify a significant way official dietary advice has changed since 1980---a recommendation that reversed, a claim that disappeared or got added, a category that shifted, style, tone, presumptions. 
 
-Then use the COURSE (not just today's reading) to explain the implicit rationale behind the change along with shifts in the labeling. What do you suppose is really driving these shifts: new science? industry pressure? a new cultural anxiety or a new 'food villain'? Think back to how low-fat ideology, moralized eating, or quantification worked in earlier readings---does the same pattern show up here?
+Then use what we've discussed in the course to suggest possible motivations for different suggestions and shifts in the labeling. What do you suppose is really driving these changes: new science? are we just smarter? shifting industry pressure? a new cultural anxiety or a new 'food villain'? Think back to how low-fat ideology, moralized eating, or quantification worked in earlier readings---are we seeing that here, too, or something new?
 
-Finally, the harder question: Aschwanden argues nutrition science is genuinely uncertain, contested, and constantly revised. The answer seems to be to 'eat real food' Is this the right way to go? Have you ever eaten processed food and thought of it as _not_ real? Again, use the course (and especially recent readings) to reveal some of what might be being covered up here.
+Finally: Aschwanden argues nutrition science is genuinely uncertain, contested, and constantly revised. The answer seems now to be: 'eat real food' Is this the right way to go? Have you ever eaten processed food and thought of it as _not_ real? Again, use the course (and especially recent readings) to reveal some of what's perhaps being covered up here.
 "%}
 
 
