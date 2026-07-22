@@ -107,6 +107,7 @@ Write a short analysis that includes:
 - At least one specific moment where a follow-up prompt revealed something useful.
 - Several specific examples from course readings that help you interpret the AI advice.
 - A clear argument about what the AI answer reveals about modern diet, health, and expertise.
+- A brief comment on similarities and differences among other students' posts. You don't need to respond to anyone in particular, but what's your impression across the posts.
 
 You can include short quotations from AI, but do not paste the whole conversation. The important thing is your analysis.
 
