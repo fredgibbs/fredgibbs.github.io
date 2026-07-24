@@ -422,6 +422,9 @@ Just a quick preview here: AI what a healthy diet is, then use specific ideas an
 # Week 5: Review and Reflection
 
 ## Mon -- Tue (7/27 - 7/28)
+
+- Course Overview Video (coming soon!)
+
 We end by looking back. The final reflection is not meant to be a list of topics you remember from the syllabus. It is a chance to explain what changed in how you think: about dietary advice, expertise, evidence, bodies, science, morality, and trust. You're telling me what you learned and narrating **your learning experience**. Do not summarize the course; these reflections are about you!
 
 Before you write, revisit the readings and videos enough to remind yourself of the course as a whole. Look for connections across weeks. The strongest reflections will not say, "I learned to be skeptical about diets" and stop there. They will show, with specific examples, how that skepticism became more historically informed. They will show how different readings connect with each other.
