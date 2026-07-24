@@ -415,7 +415,7 @@ Finally: Aschwanden argues nutrition science is genuinely uncertain, contested, 
 {% include alert.html class='danger' title='Complicate the Obvious' text="
 Post your [Complicate the Obvious](healthy-diet-analysis) assignment before midnight tonight. It's ~600 words and works as a final reflection warm up.
 
-The basic move is simple: ask AI what a healthy diet is, then use specific ideas and readings from the course to make that answer less obvious. What assumptions does it make about bodies, evidence, expertise, morality, culture, common sense, or responsibility? What gets left out? The goal is not to prove the AI right or wrong, but to show that you can use historical perspective to analyze modern diet advice.
+Just a quick preview here: AI what a healthy diet is, then use specific ideas and readings from the course to complicate it. What assumptions does it make about bodies, evidence, expertise, morality, culture, common sense, or responsibility? What gets left out? The goal is not to prove the AI right or wrong, but to show that you can use historical perspective to analyze modern diet advice.
 "%}
 
 
