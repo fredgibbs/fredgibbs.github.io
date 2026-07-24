@@ -422,10 +422,16 @@ The basic move is simple: ask AI what a healthy diet is, then use specific ideas
 # Week 5: Review and Reflection
 
 ## Mon -- Tue (7/27 - 7/28)
-We end by stepping back. The final reflection is not meant to be a list of topics you remember from the syllabus. It is a chance to explain what changed in how you think: about dietary advice, expertise, evidence, bodies, science, morality, and trust. You're narrating **your learning experience**. Do not summarize the course; these reflections are about you.
+We end by looking back. The final reflection is not meant to be a list of topics you remember from the syllabus. It is a chance to explain what changed in how you think: about dietary advice, expertise, evidence, bodies, science, morality, and trust. You're telling me what you learned and narrating **your learning experience**. Do not summarize the course; these reflections are about you!
 
 Before you write, revisit the readings and videos enough to remind yourself of the course as a whole. Look for connections across weeks. The strongest reflections will not say, "I learned to be skeptical about diets" and stop there. They will show, with specific examples, how that skepticism became more historically informed. They will show how different readings connect with each other.
 
+As always, be sure to consult the [final reflection guide](final-reflections).
+
 {% include alert.html class='danger' title='Final learning reflection' text="
-Our last thing! Post your [final course reflection](final-reflections) before midnight on Tuesday.
+Nothing due Monday, but post your [final course reflection](final-reflections) before midnight on Tuesday.
+"%}
+
+{% include alert.html class='info' title='One last thing' text="
+Thank you and best wishes!
 "%}
