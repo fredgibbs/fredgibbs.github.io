@@ -423,7 +423,7 @@ Just a quick preview here: AI what a healthy diet is, then use specific ideas an
 
 ## Mon -- Tue (7/27 - 7/28)
 
-- Course Overview Video (coming soon!)
+- [Course Wrap-up Video](https://youtu.be/w-DGSua3bkM)
 
 We end by looking back. The final reflection is not meant to be a list of topics you remember from the syllabus. It is a chance to explain what changed in how you think: about dietary advice, expertise, evidence, bodies, science, morality, and trust. You're telling me what you learned and narrating **your learning experience**. Do not summarize the course; these reflections are about you!
 
