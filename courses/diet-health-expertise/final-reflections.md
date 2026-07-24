@@ -13,7 +13,7 @@ Your final assignment for the course is a bit different from previous assignment
 ## Why we do this
 The final reflection is where you make sense of the course as a whole. Instead of proving that you memorized every reading, you are showing what you can now do with the course: connect readings across time, explain how dietary expertise changes, analyze the rhetoric of health advice, and describe how your own thinking developed.
 
-This matters because the course is not really about producing one final answer to "what should people eat?" It is about learning to ask better historical questions about health, evidence, trust, morality, bodies, science, and authority. The final reflection gives you room to show that larger learning.
+This matters because the course is not really about learning the history of dietary advice. It is about learning to ask better historical questions about health, evidence, trust, morality, bodies, science, and authority. The final reflection gives you room to show that larger learning.
 
 ## Basics
 - ~1200 words
@@ -21,16 +21,15 @@ This matters because the course is not really about producing one final answer t
 - Connect themes across the course, not just one week at a time
 - You may use AI to polish writing after you have your own outline or draft, but the thinking and reflection must be yours
 
-## What to do
-Your reflection should do two main things:
+## What to do 
+Your reflection should do two (or maybe three) main things:
 
 - Explain what you learned, using specific examples from readings, videos, and assignments.
-- Reflect on your learning experience: what helped, what changed your thinking, what felt difficult, and how the course fit together for you.
-
-You may also include an optional brief argument for what course grade you think best represents your learning and effort.
+- Reflect on your learning experience: what helped, what changed your thinking, what felt difficult, what felt pointless, and how the course fit together for you.
+- OPTIONALLY: You may also include an optional brief argument for what course grade you think best represents your learning and effort if you think your Canvas grade does not do so.
 
 ### Describe what you learned
-Using specific examples from the readings AND connecting themes across the course (as the overview videos should help with), tell me what you learned in the course. In addition to history of diet particulars, don't forget big picture questions (like the Course Goals!), such as:
+Using specific examples from the readings AND connecting themes across the course (the overview videos should help), tell me what you learned in the course. In addition to history of diet particulars, don't forget big picture questions (like the SLOs), such as:
 - How has dietary advice changed over the centuries? How has it remained the same?
 - How is your understanding of how expertise is created different than before?
 - How can you analyze the rhetoric of diet and health differently now?
@@ -82,6 +81,6 @@ I know everyone is fried at this point, and it's therefore tempting to just bull
 ## Grading
 This assignment appears in Canvas as a letter grade. In general, it is graded as A, B, or C.
 
-- A: Excellent. Presents an original, expressive, and sophisticated analysis of what you've learned and how the readings relate to each other. It combines many specific examples from the readings with a detailed personal narrative of how they affected (or didn't) affect your thinking about diet and health.
-- B: Very good. Provides strong coverage of course topics, themes, and readings, with more than a few specific examples. Connects readings from throughout the course and emphasizes learning reflection rather than course summary, but could be more specific, more synthetic, or more reflective.
-- C: Fine. Provides solid coverage of course topics, themes, and readings, with some examples, but tends more toward vague summary than making specific points and describing a learning experience.
+- A: Excellent. Presents an original, expressive, and sophisticated analysis of what you've learned and how the readings relate to each other. It combines specific examples from the readings with a detailed personal narrative of how they affected (or didn't) affect your thinking about diet and health.
+- B: Very good. Provides strong coverage of course topics, themes, and readings, with limited but specific examples. Connects readings from throughout the course and emphasizes learning reflection rather than course summary. Could be more specific, more synthetic, or more reflective.
+- C: Fine. Provides solid coverage of course topics, themes, and readings, with very few or quite vague examples. Tends more toward summary than making specific points and describing a learning experience.
