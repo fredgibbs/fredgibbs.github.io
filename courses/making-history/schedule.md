@@ -113,13 +113,12 @@ Every society decides who gets to write history and what counts as valid evidenc
 
 ### 3.1: Medieval Divine Histories
 
-Medieval historians didn't share our assumptions about evidence, causation, or what history was supposed to accomplish. For a Christian monk, God was a perfectly valid historical force. For an Islamic scholar studying a foreign culture, the goal was rigorous cross-cultural documentation. These three texts show very different answers to a question the ancient world hadn't settled: what makes history trustworthy?
+Medieval historians didn't share our assumptions about evidence, causation, or what history was supposed to accomplish. For a Christian monk, God was a perfectly valid historical force. For an Islamic scholar studying a foreign culture, the goal was rigorous cross-cultural documentation. These three texts show very different answers to a question the ancient world hadn't settled: what makes history trustworthy? It looks like a lot of stuff for today, but the three primary sources are super short excerpts so you can get a sense of the style.
 
 - 📗 Jeremy Popkin, *From Herodotus to H-Net: The Story of Historiography* (2016), 40--47. 
-- 📜 Bede, *Ecclesiastical History of the English People* (selections), ~10 pp. A monk writing the history of England as the story of Christianity's arrival. Miracles are evidence here. Pay attention to what Bede thinks history is *for* — compare his answer to Livy's.
 - 📜 Excerpts from the *Anglo-Saxon Chronicle* (selected annals), ~5 pp. Bare-bones year-by-year record. What counts as worth recording — and what gets left out entirely?
+- 📜 Bede, *Ecclesiastical History of the English People* (selections), ~10 pp. A monk writing the history of England as the story of Christianity's arrival. Miracles are evidence here. Pay attention to what Bede thinks history is *for* — compare his answer to Livy's.
 - 📜 Al-Biruni, *Kitab al-Hind* (*The Book of India*), Preface, ~8 pp. Writing in the Islamic world around 1017 CE, Al-Biruni traveled to India to study its culture, learning Sanskrit and consulting sources before making any claims. His preface reads almost like a modern methodology section: he names his biases, describes his sources, and explains what kinds of evidence he will and won't trust. Set alongside Bede, it shows a very different medieval answer to the question of how history should be done — and who gets to do it.
-- 📙 Gabrielle Spiegel, "History, Historicism, and the Social Logic of the Text in the Middle Ages," *Speculum* 65, no. 1 (1990). Spiegel argues that medieval chronicles do active political work through the form of history — the key argument behind the discussion of Bede and the Anglo-Saxon Chronicle.
 
 #### Discussion
 - What makes Bede's history different from Herodotus or Thucydides? From Livy?
@@ -161,7 +160,7 @@ The Enlightenment didn't just produce new history — it produced a new theory o
 
 - 📗 Jeremy Popkin, *From Herodotus to H-Net* (2016), Ch. 4,: "The Rise of Academic Scholarship and Nationalist History", 61--69. Popkin describes what's new in history during the Enlightenment — the shift from religious and dynastic history toward secular, civilizational narratives.
 - 📜 Voltaire, selections from *The Age of Louis XIV* (1751), ~10 pp. Voltaire thinks history should be about civilization, culture, and manners — not just kings and battles. Seems obvious now, but was a new idea in his time. Read for what he's arguing history *should* be, not just what he describes.
-- 📙 Immanuel Kant, "Idea for a Universal History with a Cosmopolitan Purpose" (1784). Kant argues history has a direction toward reason and freedom — the foundational Enlightenment claim behind this week's discussion, explained in class.
+- 📜 Immanuel Kant, "[Idea for a Universal History with a Cosmopolitan Purpose](https://en.wikisource.org/wiki/Idea_for_a_Universal_History_from_a_Cosmopolitan_Point_of_View)" (1784). Kant argues history has a direction toward reason and freedom — the foundational Enlightenment claim behind this week's discussion, explained in class.
 
 #### Discussion
 - Why did Enlightenment thinkers believe history had a purpose?
@@ -176,8 +175,7 @@ In the nineteenth century, historians began claiming that history could be a sci
 - 📗 Jeremy Popkin, *From Herodotus to H-Net* (2016), Ch. 4: "The Rise of Academic Scholarship and National History", 71--98. Popkin's accessible account of nineteenth-century professional history — Ranke, the archive, the university seminar, and the dream of scientific objectivity. 
 
 - 📜 Leopold von Ranke, preface to *Histories of the Latin and Germanic Nations* (1824), ~5 pp. The most famous sentence in historiography: Ranke said he wanted to show the past "as it actually was" (*wie es eigentlich gewesen*). Very short — read it carefully and think about what he's claiming and what it would actually take to do it.
-- 📙 Michel de Certeau, *The Writing of History* (1975), Ch. 2: "The Historiographical Operation." De Certeau argues that history is produced in specific institutional places with specific practices; the institution shapes what counts as legitimate knowledge. Foundational but demanding.
-- 📙 Bonnie Smith, "Gender and the Practices of Scientific History," *American Historical Review* 100, no. 4 (1995): 1150–1176. Smith shows that the professionalization of history was also a story about *who* got to be a historian — and the structural reasons women were excluded. Important and well-argued; key argument covered in lecture.
+- 📙 Michel de Certeau, *The Writing of History* (1975), Ch. 2: "The Historiographical Operation." De Certeau argues that history is produced in specific institutional places with specific practices; the institution shapes what counts as legitimate knowledge. 
 
 #### Discussion
 - What does "objectivity" mean for a historian? Is it possible?
@@ -191,7 +189,7 @@ What if the really important history isn't about events or individuals at all, b
 
 ### 5.1: Marx and the Idea That History Has a Motor
 
-Marx offered the most dramatic version of the structural zoom: not contingency or leadership, but class conflict as the engine driving all of history. Reading him as a historical thinker — not just a political figure — lets you see both the power of that argument and its blind spots.
+Marx offered the most dramatic version of structural history: class conflict as the engine driving all of history. Reading him as a historical thinker — not just a political figure — lets you see both the power of that argument and its blind spots.
 
 - 📗 Anna Green and Kathleen Troup, *The Houses of History*, 2: Marxist Historians, 33--41.
 - 📜 Karl Marx, *The Communist Manifesto* (1848), Part I: "Bourgeois and Proletarians," ~15 pp. Read it as a piece of historical argument: Marx says class struggle is the engine of history. Short, punchy, dramatic — focus on the logic of his claim, not the politics.
@@ -228,8 +226,8 @@ The "professional" history that emerged in Week 4 mostly told stories about elit
 Professional history mostly wrote about elites — kings, statesmen, great thinkers. The historians in this session decided that was a serious problem and started looking for everyone else: workers, women, communities whose histories were preserved in memory rather than archives. What makes this methodologically interesting isn't just new topics — it's the argument that the sources themselves need to change.
 
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 1: "The History of Whom?", 10--44. Maza presents a clear overview of social history — where it came from, what it changed, and what debates it opened.
-- 📜 E.P. Thompson, *The Making of the English Working Class* (1963), Preface, ~10 pp. Thompson's famous preface argues that ordinary people make their own history and deserve to be "rescued from the enormous condescension of posterity." Passionate and short — read every word.
-- 📜 Jan Vansina, *Oral Tradition as History* (1985), Introduction + Ch. 1, ~20 pp. Vansina argues that oral tradition is not myth or folklore but systematic historical evidence — and that African history, much of which was preserved orally, deserves the same methodological rigor as written archives. A direct challenge to the Week 4 professionalization story. Read for the core methodological argument; you don't need to follow the specific African examples in detail.
+- 📜 E.P. Thompson, *The Making of the English Working Class* (1963), Preface, ~10 pp. Thompson's famous preface argues that ordinary people make their own history and deserve to be "rescued from the enormous condescension of posterity."
+- 📜 Jan Vansina, *Oral Tradition as History* (1985), Introduction + Ch. 1, ~20 pp. Vansina argues that oral tradition is not myth or folklore but systematic historical evidence — and that African history, much of which was preserved orally, deserves the same respect as written archives. A direct challenge to the Week 4 professionalization story. Read for the core methodological argument; you don't need to follow the specific African examples in detail.
 
 #### Discussion
 - What does "history from below" mean? Below what?
@@ -245,7 +243,6 @@ What if gender isn't just a topic (the history of women) but a lens for seeing h
 - 📗 Anna Green and Kathleen Troup, *The Houses of History*, 10: Gender and History, 253--260.
 - 📜 Sheila Rowbotham, *Hidden from History: 300 Years of Women's Oppression and the Fight Against It* (1973), Introduction, ~15 pp. Rowbotham argues that women have been systematically left out of historical narratives — not because they didn't act, but because historians didn't look. Read alongside Thompson: the same argument, applied to gender.
 - 📜 Joan Wallach Scott, "Gender: A Useful Category of Historical Analysis," *American Historical Review* 91, no. 5 (1986): 1053–1075 (read first 12 pp.). Scott argues that gender isn't just about women — it's a framework for understanding how power works in all historical relationships. A landmark article; read slowly and focus on her core definition.
-- 📙 Judith Butler, *Gender Trouble* (1990), Ch. 1 (selections). Butler pushes further than Scott: gender isn't just a social role, it's *performed*. Demanding without philosophy background; core argument explained in class.
 
 #### Discussion
 - What does Scott mean when she says gender is "a useful category"?
@@ -263,10 +260,7 @@ What if gender isn't just a topic (the history of women) but a lens for seeing h
 Microhistory embraces the mundane. Rather than privileging big patterns, microhistorians focused on a single person, event, or community and asked what one case could reveal about the world around it. Ginzburg's miller is the canonical example — a man whose bizarre ideas were preserved only because the Inquisition found him interesting enough to interrogate, and whose trial record opens a window onto a hidden popular culture. Davis's case study is the example: a single mystery about a sixteenth-century peasant opens questions about identity, gender, and what people took for granted in their world that no official document was designed to answer.
 
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 5: "Causes or Meanings?", 178--198. Maza's overview of the "cultural turn" in history — what it means to treat symbols, rituals, and everyday life as evidence. 
-- 📗 Jill Lepore, "Historians Who Love Too Much: Reflections on Microhistory and Biography," *Journal of American History* 88, no. 1 (2001): 129–144. Lepore reflects on what microhistorians do — and the emotional and ethical complexities of writing about individual lives. Engaging and self-aware; treat it as secondary commentary on Davis and Ginzburg.
-- 📙 Clifford Geertz, "Thick Description: Toward an Interpretive Theory of Culture" (1973), ~25 pp. Geertz argues that culture is like a text you have to *read*, not a mechanism you can explain. Foundational for cultural history but demanding without background in anthropology; key ideas covered in lecture.
 - 📜 Carlo Ginzburg, *The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller* (1976), Preface + Ch. 1–4, ~30 pp. A miller in 1500s Italy is put on trial by the Inquisition for his bizarre cosmological beliefs. Ginzburg uses one person's story to reveal an entire world of popular culture. Reads like a novel; let it.
-- 📜 Natalie Zemon Davis, *The Return of Martin Guerre* (1983), selections, ~20 pp. A peasant in 16th-century France disappears and someone takes his place. Davis uses this one case to reveal an entire world. Read it like a mystery; pay attention to what kinds of evidence she uses and what she asks of them.
 
 #### Discussion
 - How does Ginzburg use a single story to illuminate a whole society?
@@ -294,7 +288,7 @@ Braudel zooms to centuries; Ginzburg zooms to one miller's trial. Marx explains 
 
 
 {% include alert.html class='warning' title='Historians Café due' text="
-Your [Historians Café](historians-cafe) assignment is due by MIDNIGHT ON TUESDAY. I strongly suggest you *finish a draft before Tuesday's class*. Our review will help you refine it, but you'll get more out of the review having started the assignment already. 
+Your [Historians Café](historians-cafe) assignment is due by MIDNIGHT ON TUESDAY. I strongly suggest you *finish a draft before Tuesday's class*. You'll get more out of the review having started the assignment already. 
 "%}
 
 
@@ -549,5 +543,5 @@ This is our last meeting. The [Final Course Reflection](final-course-reflection)
 
 
 {% include alert.html class='danger' title='Final Course Reflection due' text="
-Submit your [final course reflection](final-course-reflection) to Canvas. This is a ~1000-word reflection on how the course has or hasn't changed your thinking. Graded on honest engagement, specific examples, and a personal voice that couldn't have come from AI.
+Submit your [final course reflection](final-course-reflection) to Canvas. This is a ~1200-word reflection on what you learned, what you wish you had, how the course has or hasn't changed your thinking, and your own experience in it. Graded on honest engagement, specific examples, and a personal voice that couldn't have come from AI.
 "%}
