@@ -28,7 +28,7 @@ You'll see there are many readings listed for each day, but most of these are fo
 {% include alert.html class='info' title='Icon Guide' text="
 📗 = secondary overview — modern scholars explaining the topic; skim for context and orientation before engaging primary sources
 
-📜 = primary source — the actual historian or thinker being studied; read for style, argument, and flavor; reading questions guide what to look for
+📜 = primary source — the actual historian or thinker being studied; skim/read for style, argument, and flavor; be sure you know what to look for
 
 📙 = advanced reading and lecture reference — no need to read unless part of a special assignment
 "
@@ -49,7 +49,7 @@ The course starts with a question that sounds simple but isn't: what's the diffe
 - 📗 James Loewen, *Lies My Teacher Told Me* (1995), Ch. 1: "Handicapped by History," ~25 pp. Why American textbooks are bad at history. Read as a case study of how national history gets made — and distorted.
 
 {% include alert.html class='danger' title='First assignment: a history frustration' text="
-Before our second class meeting, write a short response (a few sentences to a paragraph) describing a frustration you've had with history — in school, in the news, in a museum, anywhere. No right answer; I just want to know what's already bothering you before we start pulling things apart. Submit via Canvas.
+Before our second class meeting, write a short response (a few sentences to a paragraph) describing a frustration you've had with history — in school, in the news, in a museum, anywhere. No right answer; I just want to know what's already bothering you before we start pulling things apart.
 "%}
 
 #### Discussion: What counts as history?
@@ -61,9 +61,8 @@ Before our second class meeting, write a short response (a few sentences to a pa
 
 The word "history" means a lot of things. Academic discipline, a political claim, as a way of making sense of the world. These readings use different angles to highlight a crucial distinction: the past is everything that happened; history — or more accurately *histories* — are purposeful, selective accounts of it that serve a purpose. And those purposes have always been constantly changing.
 
-- 📗 Alice Dreger, [What is History?](http://alicedreger.com/what_is_history). A short, accessible piece that uses an anecdote to show the difference between immediate practical explanations and structural historical ones. Good entry point.
-- 📗 John H. Arnold, *History: A Very Short Introduction* (Oxford, 2000), Ch. 1: "What is History?," 1–18. Short, lively, written for beginners. Sets up the basic puzzle: history is not the same thing as the past.
-- 📜 E.H. Carr, *What Is History?* (1961), Ch. 1: "The Historian and His Facts," 3–35. Carr is one of the twentieth century's most important thinkers about historical method. His argument — that facts don't speak for themselves, that historians choose which facts matter — is foundational for the course. Focus on the central argument rather than every obscure reference that you're not supposed to get anyway.
+- 📗 Alice Dreger, [What is History?](http://alicedreger.com/what_is_history). A short, accessible piece that uses an anecdote to show the difference between immediate practical explanations and structural historical ones.
+- 📜 E.H. Carr, *What Is History?* (1961), Ch. 1: "The Historian and His Facts," 3–35. Carr is one of the twentieth century's most important thinkers about historical method. His argument — that facts don't speak for themselves, that historians choose which facts matter — is foundational for the course. Focus on the central argument rather than every obscure reference (your not expected to know any of these!)
 
 #### Discussion
 - What's the difference between a "fact" and a "historical fact"?
@@ -128,6 +127,10 @@ Medieval historians didn't share our assumptions about evidence, causation, or w
 - Al-Biruni explicitly describes his methodology — what does that tell you about what he thinks *good* history requires?
 - If miracles count as evidence for Bede, what counts as evidence for Al-Biruni? For the Anglo-Saxon Chronicle?
 
+{% include alert.html class='warning' title='Early Reflection due next session' text="
+The [Early Course Reflection](early-reflection) is due before Thursday's class — a 400–500 word check-in on how the course is going for you so far. It is not a test and there are no right answers; I'm asking this early so there's still time to change things. Jot notes as you do this week's reading: what has stuck, what has felt like noise, where you are right now.
+"%}
+
 
 ### 3.2: Early Modern Statecraft
 
@@ -143,7 +146,7 @@ By the Renaissance, some writers had a sharply practical answer to "what is hist
 
 
 {% include alert.html class='danger' title='Early Reflection due' text="
-Submit your [early reflection](midterm-reflection) to Canvas before class. This is a 750-word check-in on your experience so far — not a test, but a genuine report on what's working and what isn't. Graded on completion, care, and honest effort.
+Submit your [early reflection](early-reflection) to Canvas before class. This is a 400–500 word check-in on your experience so far — not a test, but a genuine report on what's working and what isn't. Graded on completion, care, and honest effort.
 "%}
 
 
@@ -375,10 +378,10 @@ The "linguistic turn" is the claim that since historians always use narrative, s
 ### 10.2: Campus History with AI
 - Readings on AI and History TBD
 
-{% include alert.html class='info' title='The Campus History Project' text="
-- We saw this at the beginning, but today we spend a bit more time on the [Campus History Project](https://amaranth.unm.edu/campus-history/)
+{% include alert.html class='warning' title='Campus History AI draft due next Thursday' text="
+- We saw this at the beginning, but today we spend a bit more time on the [Campus History Project](https://campushistory.unm.edu)
 - We'll walk through the assignment in class. Read the [AI research guide](campus-history-ai) before our next meeting.
-- This assignment is due by class time next Thursday, when we discuss them and how to pair it with the archival research component.
+- Your AI draft and critique are due by class time next Thursday, when we discuss them and pair them with the archival research component. Pick your topic and claim it on the shared index early — topics can't be duplicated.
 "%}
 
 
@@ -432,6 +435,10 @@ The 1619 Project is not just journalism — it's a historiographical act. Nikole
 - How is writing for the *New York Times Magazine* different from writing for an academic journal? What changes — and what stays the same?
 - How does this connect to Trouillot's argument about silencing from Week 8?
 
+{% include alert.html class='warning' title='1619 Discussion Post coming' text="
+The [1619 Project Discussion Post](1619-discussion-post) is due after Thursday's session — it draws on Serwer and Lowenthal as well as today's reading, so you can't finish it yet. But start now: pick which side of the debate you find more convincing and why, and think of something from your own life this connects to. That personal anchor is required, and it's the part that takes the longest to come up with.
+"%}
+
 
 ### 12.2: The 1619 Project, Part 2
 
@@ -447,8 +454,8 @@ If history were just an academic exercise, controversies about it would stay in 
 - Using Trouillot's framework from Week 8: where does the "silencing" happen when the 1619 Project gets banned from state school curricula?
 
 
-{% include alert.html class='info' title='1619 Project Discussion Post' text="
-Post your response following the [1619 Project Discussion Post guide](1619-discussion-post).
+{% include alert.html class='danger' title='1619 Discussion Post due' text="
+Post your response to the discussion board by MIDNIGHT SUNDAY, following the [1619 Project Discussion Post guide](1619-discussion-post). You now have all three readings — Hannah-Jones, Serwer, and Lowenthal — so you have everything you need. Don't forget the real-world anchor; a post without one can't earn above a C.
 "%}
 
 
@@ -487,6 +494,10 @@ Most history treats humans as the only meaningful actors and everything else as 
 - What does Chakrabarty mean by humans as a "geological force"?
 - Does environmental history change what counts as a historical "actor"?
 
+{% include alert.html class='warning' title='Campus History web page — start now' text="
+Your [Campus History web page](campus-history-human) is due at the start of Week 15, and presentations are that same session. Thanksgiving sits between now and then, so this is your real warning: **if you have not been to CSWR yet, go this week.** The archive is the part you cannot rush or do the night before — boxes take time to request, the reading room has hours, and you may need a second visit. Submitting the pull request is quick; getting the material is not.
+"%}
+
 
 ---
 
@@ -506,8 +517,8 @@ Most history treats humans as the only meaningful actors and everything else as 
 
 ### 15.1: Campus History Reviews
 
-{% include alert.html class='danger' title='Campus History presentations today' text="
-Come prepared to present your Campus History project. See the [human research guide](campus-history-human) and [AI research guide](campus-history-ai) for full assignment details and what to include.
+{% include alert.html class='danger' title='Campus History web page due + presentations today' text="
+Two things today. **Your pull request must be submitted before class** — see the [student publishing guide](https://campushistory.unm.edu/student-guide/) for the mechanics. And come prepared to present the project. See the [archive guide](campus-history-human) and [AI research guide](campus-history-ai) for what the page needs to include, especially the required AI-Archive Comparison section.
 "%}
 
 - Student presentations of Campus History Review projects.
@@ -527,6 +538,10 @@ Everything we've read — Trouillot on silencing, Hobsbawm on invented tradition
 - Has your understanding of history changed? How?
 - Where will you see history at work in your life after this course?
 - What kind of historical thinker do you want to be?
+
+{% include alert.html class='warning' title='Final Reflection — last class, so plan now' text="
+This is our last meeting. The [Final Course Reflection](final-course-reflection) is due during finals week, and there will be no class session to remind you — so put it in your calendar today. Today's discussion is deliberately good preparation: the questions we just worked through are close to the ones the reflection asks. Take notes while it's fresh.
+"%}
 
 ---
 

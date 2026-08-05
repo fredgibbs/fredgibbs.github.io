@@ -69,11 +69,14 @@ For almost everything we read, we're reading to ENGAGE with it, not because it's
 
 ## Course Work
 * [Reading reflections](reading-reflections) (15%)
-* [Class engagement](class-engagement) (20%)
+* [Class engagement](class-engagement) (15%)
 * [Historians Cafe Conversation](historians-cafe) (15%)
 * [Campus History via AI](campus-history-ai) (10%)
-* [Campus History Contribution and Reflection](campus-history-human) (15%)
+* [Campus History via the archive](campus-history-human) (15%)
+* [1619 Project Discussion Post](1619-discussion-post) (10%)
 * [Final Course Reflection](final-course-reflection) (20%)
+
+Two shorter pieces — the opening history-frustration response and the [Early Course Reflection](early-reflection) — count toward class engagement rather than carrying their own weight. They still need to be turned in.
 
 ### Grading
 

@@ -18,7 +18,7 @@ Also, think about what AI gives you when you ask it about a reading: a competent
 
 ## What I'm asking for
 
-I'm looking for a specific insight, a connection nobody else made, an objection grounded in the course material, a judgment about what matters in the real world. 
+I'm looking for a specific insight, a connection to your own life, a comparison to a previous history class, an overlap with another UNM course, an objection grounded in the course material, a judgment about what matters in the real world. 
 
 **To earn credit, you have to do more than AI would do.** Obviously "more" does not mean more words. It means more substance, more depth, more personal connection, more opinion, more reaction. A generic summary---the thing AI gives you by default (whether you use it or not)---earns a zero because you can get that without thinking, and I need to see you thinking. 
 

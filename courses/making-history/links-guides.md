@@ -22,9 +22,11 @@ Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-histo
 
 ## Assignment Guides
 * [Reading Reflections](reading-reflections)
+* [Class Engagement](class-engagement)
 * [Early Course Reflection](early-reflection)
 * [Historians Cafe Conversation](historians-cafe)
 * [Campus History via AI](campus-history-ai)
 * [Campus History Contribution and Reflection](campus-history-human)
+* [Campus History Student Publishing Guide](https://campushistory.unm.edu/student-guide/)
 * [1619 Project Discussion Post](1619-discussion-post)
 * [Final Course Reflection](final-course-reflection)

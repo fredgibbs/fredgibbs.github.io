@@ -10,7 +10,8 @@ section: links-guides
 # Campus History — Part 2: Archive Visit and Web Page
 
 This is **Part 2** of a two-part project. 
-You've already completed the AI draft and critique in [Part 1](campus-history-ai). Now you go to the actual archive to find what the historical record really says, write a short web page for the [UNM Campus History](https://campushistory.unm.edu) site, and submit a reflection comparing what the AI told you to what you actually found.
+You've already completed the AI draft and critique in [Part 1](campus-history-ai). Now you go to the actual archive to find what the historical record really says, write an essay for the [UNM Campus History](https://amaranth-unm.edu/campus-history) site, and submit a reflection comparing what the AI told you to what you actually found.
+
 
 Bring your Part 1 notes — especially your list of specific claims to verify.
 
@@ -60,13 +61,24 @@ Start here to orient yourself before requesting archival boxes:
 
 Your finished essay will be published on the [UNM Campus History](https://campushistory.unm.edu) website. Write for a curious reader — a student, a faculty member, someone who walks past your building every day — who knows nothing about its history.
 
+{% include alert.html class='info' title='Publishing instructions' text="
+The course page explains what the assignment should accomplish. The technical steps for creating your page, adding images, checking metadata, and submitting a pull request live on the [Campus History student publishing guide](https://amaranth.unm.edu/campus-history/student-guide/).
+" %}
+
 ### Requirements
 - **~800–1000 words**
 - **2–3 images** — historical photographs and/or scanned primary sources from CSWR
 - **Informative captions** on every image: not just what it shows, but why it's significant. Cite where you found it (box number, collection name, or URL).
 - **Subheadings** to organize your main sections
 - **Bibliography** of sources used (CSWR materials + published histories)
-- An **AI-Archive Comparison** section at the end (see below)
+
+
+### Publication workflow
+Follow the [Campus History student publishing guide](https://campushistory.unm.edu/student-guide/) for the site mechanics. That guide explains how to fork the Campus History repository, create your essay folder, add images, fill out page metadata, preview your page, and submit a pull request.
+
+For this course, the important distinction is:
+- The **Campus History guide** explains how to publish the page.
+- This **assignment guide** explains what the page needs to argue, document, and reflect on for class.
 
 ### Style
 - Write something you and your friends would actually want to read

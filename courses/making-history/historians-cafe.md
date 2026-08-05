@@ -26,14 +26,15 @@ The dialogue itself doesn't really matter. What matters is the process of gettin
 
 ### Pick a historical question worth arguing about
 Good choices are questions where the answer depends on what you think *matters most* about history — questions about interpretation, not facts. For example:
-- Why did Rome fall?
+- Did Rome "fall"?
 - What caused the American Civil War?
 - Why did colonialism last as long as it did?
 - What caused the French Revolution?
-- Why did the Black Death spread so fast?
+- Did the Black Death contribute to the Renaissance?
 - Why did nationalism become so powerful in the 19th century?
 
 Avoid questions with obvious answers. The whole point is that three reasonable historians can reach different conclusions from the same evidence.
+
 
 ### Choose three historiographical approaches
 Think about the historians and approaches you've read this semester. Pick three that would genuinely interpret your question differently. Some options (you're not limited to these):
