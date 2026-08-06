@@ -9,7 +9,6 @@ section: home
 
 # Schedule of Readings & Activities
 
-
 {% include alert.html class='warning' title='This is a working DRAFT!' text="
 This is not the final syllabus, but a preview for anyone who is curious about what the course is about. The general contours and topics are mostly set. 
 
@@ -17,13 +16,10 @@ You'll see there are many readings listed for each day, but most of these are fo
 %}
 
 
-
 ## General Info
-
 * Regular bullet points listed under each session indicate what you should READ BEFORE CLASS
 * Readings are listed in the order that I think works best
 * ALL readings are available online or through Zotero
-
 
 {% include alert.html class='info' title='Icon Guide' text="
 📗 = secondary overview — modern scholars explaining the topic; skim for context and orientation before engaging primary sources
@@ -35,16 +31,13 @@ You'll see there are many readings listed for each day, but most of these are fo
 %}
 
 
-
 ---
 
 
 ## 1: Foundations
-
-The course starts with a question that sounds simple but isn't: what's the difference between "the past" and "history"? By the end of this week you'll have a working answer — and you'll start noticing history-making happening in places you never thought to look.
+The course starts with a question that sounds simple but is surprisingly revealing: what's the difference between "the past" and "history"? By the end of this week you'll have a working answer — and you'll start noticing history-making happening in places you never thought to look.
 
 ### 1.1: Welcome and Introduction
-
 - Course and syllabus introduction.
 - 📗 James Loewen, *Lies My Teacher Told Me* (1995), Ch. 1: "Handicapped by History," ~25 pp. Why American textbooks are bad at history. Read as a case study of how national history gets made — and distorted.
 
@@ -58,7 +51,6 @@ Before our second class meeting, write a short response (a few sentences to a pa
 
 
 ### 1.2: The Past vs. History
-
 The word "history" means a lot of things. Academic discipline, a political claim, as a way of making sense of the world. These readings use different angles to highlight a crucial distinction: the past is everything that happened; history — or more accurately *histories* — are purposeful, selective accounts of it that serve a purpose. And those purposes have always been constantly changing.
 
 - 📗 Alice Dreger, [What is History?](http://alicedreger.com/what_is_history). A short, accessible piece that uses an anecdote to show the difference between immediate practical explanations and structural historical ones.
@@ -73,17 +65,15 @@ The word "history" means a lot of things. Academic discipline, a political claim
 
 
 ## 2: Ancient History and Myth
-
 Ancient historians had strong opinions about what history was for, how to tell it, and what counted as evidence — and they disagreed with each other. This week we read them to compare those opinions across cultures and centuries. The question to keep in mind across all the readings: why do societies need stories about their past?
 
 
 ### 2.1: Storytelling, Evidence, and Purpose — The Greeks
-
 The Greeks basically invented Western historical writing — but there wasn't agreement about how to do it. One approach favored vivid storytelling and moral lessons; the other demanded strict evidence and cool analysis. Both choices shaped what counted as "real" history for centuries, and the tension between them hasn't gone away.
 
 - 📗 Jeremy Popkin, *From Herodotus to H-Net: The Story of Historiography* (2016), 26--40. 
-- 📜 Selections from Herodotus, *The Histories*, Book 1 (the opening pages + the story of Croesus), ~15 pp. The so-called "father of history" tells stories that mix research, hearsay, and moral lessons. Don't worry about the details — pay attention to HOW he tells the story, not just what happens, and what he seems to think history is for.
-- 📜 Thucydides, *History of the Peloponnesian War*, the "Funeral Oration of Pericles" and the "Melian Dialogue" (selections), ~15 pp. More analytical and harder than Herodotus. Thucydides claims to write only what he can verify. Focus on the contrast: what counts as evidence for each, and why does it matter?
+- 📜 Selections from Herodotus, *The Histories*, Book 1 (the opening pages + the story of Croesus), ~15 pp. The so-called "father of history" tells stories that mix research, hearsay, and moral lessons. Don't worry about the historical details — pay attention to HOW he tells the story, not just what happens, and what he seems to think history is for.
+- 📜 Thucydides, *History of the Peloponnesian War*, the "Funeral Oration of Pericles" and the "Melian Dialogue" (selections), ~15 pp. More analytical and harder than Herodotus. Thucydides claims to write only what he can verify. Does that seem to be true? 
 
 #### Discussion
 - What counts as evidence for Herodotus? For Thucydides?
@@ -92,7 +82,6 @@ The Greeks basically invented Western historical writing — but there wasn't ag
 
 
 ### 2.2: Ancient History — Purpose and Form
-
 Rome and Han dynasty China produced historical writing around the same time, in complete independence from each other — and arrived at strikingly similar conclusions about what history is for, but with telling differences. Reading them side by side helps us see where they agree, where they diverge, and what that tells us about why societies write history at all.
 
 - 📜 Livy, *Ab Urbe Condita*, Preface + Book I, Ch. 57–60 ("The Rape of Lucretia"), ~10 pp. Read the preface first — Livy tells you exactly what he thinks history is for. Then read the Lucretia passage and notice how a single dramatic story carries enormous moral and political weight: the end of a dynasty, the birth of a Republic, all hinging on one woman's death. This is what Livy means when he says history provides moral examples.
@@ -106,14 +95,13 @@ Rome and Han dynasty China produced historical writing around the same time, in 
 
 ---
 
-## 3: Medieval and Early Modern
 
+## 3: Medieval and Early Modern
 Every society decides who gets to write history and what counts as valid evidence. This week we see very different answers — a Christian monk using miracles as proof, a bare-bones chronicle that just records events, an Islamic scholar insisting on strict sourcing, and a Renaissance politician reading history for practical lessons. The contrast can be stark. Week 4 will show how modern historians made their own version of those same decisions and called them "objective."
 
 
 ### 3.1: Medieval Divine Histories
-
-Medieval historians didn't share our assumptions about evidence, causation, or what history was supposed to accomplish. For a Christian monk, God was a perfectly valid historical force. For an Islamic scholar studying a foreign culture, the goal was rigorous cross-cultural documentation. These three texts show very different answers to a question the ancient world hadn't settled: what makes history trustworthy? It looks like a lot of stuff for today, but the three primary sources are super short excerpts so you can get a sense of the style.
+Medieval historians didn't share our notions about evidence, causation, or what history was supposed to accomplish. For a Christian monk, God was a perfectly valid historical force. For an Islamic scholar studying a foreign culture, the goal was rigorous cross-cultural documentation. These three texts show very different answers to a question we've already surfaced but barely scratched: what makes history trustworthy? It looks like a lot of stuff for today, but the three primary sources are super short excerpts so you can get a sense of the style.
 
 - 📗 Jeremy Popkin, *From Herodotus to H-Net: The Story of Historiography* (2016), 40--47. 
 - 📜 Excerpts from the *Anglo-Saxon Chronicle* (selected annals), ~5 pp. Bare-bones year-by-year record. What counts as worth recording — and what gets left out entirely?
@@ -132,8 +120,7 @@ The [Early Course Reflection](early-reflection) is due before Thursday's class �
 
 
 ### 3.2: Early Modern Statecraft
-
-By the Renaissance, some writers had a sharply practical answer to "what is history for?": it teaches you how power works. Machiavelli is the famous example, but even something as dry as the scholarly footnote turns out to have been invented for reasons that have as much to do with authority as with accuracy.
+By the Renaissance, some writers had a sharply practical answer to "what is history for?": it teaches you how power works. Machiavelli is the famous example.
 
 - 📗 Jeremy Popkin, *From Herodotus to H-Net* (2016), Ch. 3: "The Historiographical Revolution of the Early Modern Era", 49--69. 
 - 📜 Niccolò Machiavelli, *The Prince*, Ch. 1–8 (selections), ~20 pp. Machiavelli reads history for *lessons* about how to get and keep power. History is a toolkit. Read for the argument — you don't need to track every historical reference he makes.
@@ -145,17 +132,16 @@ By the Renaissance, some writers had a sharply practical answer to "what is hist
 
 
 {% include alert.html class='danger' title='Early Reflection due' text="
-Submit your [early reflection](early-reflection) to Canvas before class. This is a 400–500 word check-in on your experience so far — not a test, but a genuine report on what's working and what isn't. Graded on completion, care, and honest effort.
+Submit your [early reflection](early-reflection) to Canvas before the end of the day. This is a 400–500 word check-in on your experience so far — not a test, but a genuine report on what's working and what isn't. Graded on completion, care, and honest effort.
 "%}
 
+---
 
 
 ## 4: Enlightenment and Scientific History
-
-The Enlightenment produced a new theory of what history meant: reason was advancing, civilization was improving, and therefore history had a direction. That idea shaped how historians wrote for two centuries. The second session shows what it looked like when those ideas were institutionalized into a profession — with rules, archives, and a claim to objectivity.
+The Enlightenment produced a new theory of what history meant: "reason" was advancing, civilization was improving, and therefore history had a direction. That idea shaped how historians wrote for two centuries. The second session shows what it looked like when those ideas were institutionalized into a profession — with rules, archives, and a claim to objectivity.
 
 ### 4.1: Enlightenment Progress
-
 The Enlightenment didn't just produce new history — it produced a new theory of what history meant. If reason was advancing and civilization improving, then history had a direction. That idea seems obvious now, which is exactly why it's worth examining: where did it come from, and what does it take for granted?
 
 - 📗 Jeremy Popkin, *From Herodotus to H-Net* (2016), Ch. 4,: "The Rise of Academic Scholarship and Nationalist History", 61--69. Popkin describes what's new in history during the Enlightenment — the shift from religious and dynastic history toward secular, civilizational narratives.
@@ -169,7 +155,6 @@ The Enlightenment didn't just produce new history — it produced a new theory o
 
 
 ### 4.2: Scientific History
-
 In the nineteenth century, historians began claiming that history could be a science — rigorous, evidence-based, objective in ways earlier history hadn't been. That claim transformed the profession. 
 
 - 📗 Jeremy Popkin, *From Herodotus to H-Net* (2016), Ch. 4: "The Rise of Academic Scholarship and National History", 71--98. Popkin's accessible account of nineteenth-century professional history — Ranke, the archive, the university seminar, and the dream of scientific objectivity. 
@@ -183,8 +168,10 @@ In the nineteenth century, historians began claiming that history could be a sci
 - If objectivity is a historical idea with its own history, what does that tell us about how we evaluate it?
 
 
-## 5: Structural History
+---
 
+
+## 5: Structural History
 What if the really important history isn't about events or individuals at all, but about deeper forces — economic systems, geography, long-term climate? Two very different thinkers make versions of that argument this week. It's worth comparing them to the event-centered histories of Weeks 1–4: what do you gain by zooming out, and what do you lose?
 
 ### 5.1: Marx and the Idea That History Has a Motor
@@ -217,12 +204,12 @@ While Marx saw economics as history's motor, a group of French historians propos
 
 ---
 
+
 ## Week 6: History From Below
 
 The "professional" history that emerged in Week 4 mostly told stories about elites. This week we read historians who decided that was a problem and started looking for everyone else — workers, women, communities whose histories survived in memory and oral tradition rather than archives. The question is harder than it looks: to write history about people the archives weren't designed to remember, you often have to change not just the topic but the method.
 
 ### 6.1: Social History — History From Below
-
 Professional history mostly wrote about elites — kings, statesmen, great thinkers. The historians in this session decided that was a serious problem and started looking for everyone else: workers, women, communities whose histories were preserved in memory rather than archives. What makes this methodologically interesting isn't just new topics — it's the argument that the sources themselves need to change.
 
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 1: "The History of Whom?", 10--44. Maza presents a clear overview of social history — where it came from, what it changed, and what debates it opened.
@@ -237,7 +224,6 @@ Professional history mostly wrote about elites — kings, statesmen, great think
 
 
 ### 6.2: Women's and Gender History
-
 What if gender isn't just a topic (the history of women) but a lens for seeing how power works everywhere? Scott's influential argument is that gender is a system for organizing and naturalizing relationships of authority — not just between men and women, but across all historical relationships. That claim transformed what questions historians thought it was possible to ask.
 
 - 📗 Anna Green and Kathleen Troup, *The Houses of History*, 10: Gender and History, 253--260.
@@ -250,10 +236,10 @@ What if gender isn't just a topic (the history of women) but a lens for seeing h
 - What does it mean that gender is performed? 
 
 
-
 ---
 
-## Week 7:
+
+## Week 7
 
 ### 7.1: Microhistory
 
@@ -272,6 +258,7 @@ Microhistory embraces the mundane. Rather than privileging big patterns, microhi
 
 ### 7.2: Course Review So Far
 - No readings before class
+
 
 #### Discussion
 1. Has history gotten better — or just different?
@@ -292,8 +279,8 @@ Your [Historians Café](historians-cafe) assignment is due by MIDNIGHT ON TUESDA
 "%}
 
 
-
 ---
+
 
 ## Week 8:  Reflect and Rest
 
@@ -305,16 +292,14 @@ Submit your [Historians Café](historians-cafe) assginment BEFORE MIDNIGHT!
 
 ### 8.2:  Fall break! No Class. Nothing Due.
 
+
 ---
 
 
-
 ## Week 9:  Nations and Decolonization
-
 National histories feel ancient and natural — but most of them were built quite recently, often deliberately, by people who wanted to make a political point. This week's first session shows how that construction works; the second asks what it looks like from the perspective of those on the receiving end of "civilizing" narratives.
 
 ### 9.1:  Inventing Nations
-
 National histories feel ancient and inevitable, but most were actively constructed — often quite recently — to make a political point. This session introduces the key idea that many "traditional" features of national identity were invented and then naturalized.
 
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 2: "The History of Where?," 45--82. Maza's accessible overview of how historians have thought about nationalism and national identity — read before Hobsbawm and Anderson as orientation.
@@ -330,7 +315,6 @@ National histories feel ancient and inevitable, but most were actively construct
 
 
 ### 9.2: Power, Knowledge, and the Archive
-
 Western narratives of progress assumed their own universality — and that assumption shaped not just popular history but the scholarly frameworks historians used to ask questions. This session pairs the experiential critique (what it feels like to have your past flattened or erased) with the theoretical one (how power operates inside the archive itself), and anchors both in a specific historical case that shows the argument at full force.
 
 - 📗 Chimamanda Ngozi Adichie, ["The Danger of a Single Story"](https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story) (TED Talk, 2009), ~19 min. Watch first — Adichie's talk is the accessible entry point, showing from the inside how dominant narratives flatten complex realities.
@@ -349,18 +333,16 @@ Western narratives of progress assumed their own universality — and that assum
 
 ---
 
-## Week 10: Linguistic Turn + AI Language
 
+## Week 10: Linguistic Turn + AI Language
 This week pairs two major interventions. The first asks: if history is always told through language and narrative, can it ever be more than a story? The second asks: If history is just words put together in ways we expect, can a computer write it?
 
 
 ### 10.1: The Linguistic Turn — Is History Just a Story?
-
-The "linguistic turn" is the claim that since historians always use narrative, selection, and interpretation, their work is never a transparent window onto the past. White and Jenkins press that argument hard; Evans pushes back, arguing historians can still make true claims if they're careful. Read Evans first so you have a counterpoint before the arguments get more extreme.
+The "linguistic turn" is the claim that because historians always use narrative, selection, and interpretation, their work is never a transparent window onto the past. White and Jenkins press that argument hard. Evans pushes back, arguing historians can still make true claims if they're careful. Read Evans first so you have a counterpoint before the arguments get more extreme.
 
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 8: "The Questions of Narrative", 204--211. 
-- 📗 Richard Evans, *In Defense of History* (1997), Introduction + Ch. 1, ~20 pp. Evans pushes back against the claim that history is just a narrative — he argues historians *can* make true claims about the past, carefully. Accessible and lively; read before White and Jenkins so you have a counterpoint in mind.
-- 📜 Hayden White, "The Value of Narrativity in the Representation of Reality," *Critical Inquiry* 7, no. 1 (1980): 5–27 (first 12 pp.). White argues that history isn't a transparent window onto the past — it uses the same narrative techniques as fiction. Provocative and readable; focus on his central claim, not every example.
+- 📗 Richard Evans, *In Defense of History* (1997), Introduction + Ch. 1, ~20 pp. Evans pushes back against the claim that history is just a narrative — he argues historians *can* make true claims about the past, carefully. 
 - 📜 Keith Jenkins, *Re-Thinking History* (1991), Ch. 1–2, ~25 pp. Jenkins pushes White's argument further: if all history is narrative, can we ever really know the past? Written as a polemic — lively and opinionated, meant to provoke.
 
 #### Discussion
@@ -373,28 +355,25 @@ The "linguistic turn" is the claim that since historians always use narrative, s
 - Readings on AI and History TBD
 
 {% include alert.html class='warning' title='Campus History AI draft due next Thursday' text="
-- We saw this at the beginning, but today we spend a bit more time on the [Campus History Project](https://campushistory.unm.edu)
+- We saw this at the beginning, but today we spend a bit more time on the [Campus History Project](https://amaranth.unm.edu/campus-history)
 - We'll walk through the assignment in class. Read the [AI research guide](campus-history-ai) before our next meeting.
-- Your AI draft and critique are due by class time next Thursday, when we discuss them and pair them with the archival research component. Pick your topic and claim it on the shared index early — topics can't be duplicated.
+- Your AI draft and critique are due by class time next Thursday, when we discuss them and pair them with the archival research component. Claim your topic on the shared Google Sheet!
 "%}
-
 
 
 ---
 
-## Week 11: Public History and Memory
 
+## Week 11: Public History and Memory
 All semester we've been reading about history being made — in archives, universities, national narratives. This week we ask what happens when it enters public life: monuments, textbooks, museums, built environments. The two sessions work together: the first builds the theoretical framework for thinking about history and memory; the second puts it into practice on the ground around you.
 
 
 ### 11.1: History, Memory, and Public Space
-
-History and memory are not the same thing — and the gap between them is where public controversy lives. This session builds the framework for thinking about how the past circulates in public life: why certain stories get commemorated while others disappear, and what happens when historical argument enters spaces that weren't designed for it.
+History and memory are clearly related, but exactly how do we define them in relation to each other? This session builds the framework for thinking about how the past circulates in public life: why certain stories get commemorated while others disappear, and what happens when historical argument enters spaces that weren't designed for it.
 
 - 📗 James Loewen, *Lies Across America: What Our Historic Sites Get Wrong* (1999), Introduction + one case study of your choice, ~25 pp. Loewen visits monuments and historic sites and asks what stories they tell — and leave out. Pick a case study that interests you.
 - 📗 Dolores Hayden, *The Power of Place: Urban Landscapes as Public History* (1995), Ch. 1, ~20 pp. Hayden shows how the built environment — streets, buildings, neighborhoods — embodies historical narratives that most people walk past without noticing.
-- 📙 Pierre Nora, "Between Memory and History: Les Lieux de Mémoire," *Representations* 26 (1989): 7–24. Nora argues that sites of memory emerge precisely because living memory is disappearing. A theoretical frame directly relevant to the discussion; covered in lecture.
-- 📜 Michel-Rolph Trouillot, *Silencing the Past*, Ch. 5: "The Presence of the Past," ~20 pp. Trouillot's conclusion: the past doesn't just sit in archives — it is *present* in daily life, in rituals, in common sense, in things we take for granted. Read slowly; bring the whole course with you.
+- 📜 Michel-Rolph Trouillot, *Silencing the Past*, Ch. 5: "The Presence of the Past," ~20 pp. Trouillot's conclusion: the past doesn't just sit in archives — it is *present* in daily life, in rituals, in common sense, in things we take for granted. 
 
 #### Discussion
 - What's the difference between "history" and "memory"? Why does it matter?
@@ -402,24 +381,29 @@ History and memory are not the same thing — and the gap between them is where 
 - Loewen looks at monuments. What historical narratives do they tell, and what do they leave out?
 - What does Trouillot mean by the "presence" of the past?
 
+{% include alert.html class='danger' title='Campus History AI URLs due' text="
+- Your AI draft is due BEFORE CLASS next Thursday, when we discuss them and pair them with the archival research component. Claim your topic on the shared Google Sheet!
+- To prepare for that, follow the directions on the Campus History site to make a new webpage to hold your AI-generated essay.
+"%}
+
+
 
 ### 11.2: Campus History + Archives
 
 - AI and the Future of History
 
-{% include alert.html class='danger' title='Campus History Project AI Drafts Due' text="
-Your Campus History AI drafts are due BEFORE class today. Follow the [AI research guide](campus-history-ai) 
+{% include alert.html class='danger' title='Campus History AI Drafts Due' text="
+Your Campus History AI drafts are due BEFORE class today. Follow the [AI research guide](campus-history-ai).
 "%}
 
 
 ---
 
-## Week 12: The 1619 Project
 
-When historical argument enters public life — journalism, school curricula, monuments, political debate — the stakes change. This week uses the 1619 Project as a sustained case study: how does serious historical work travel into public space, and what happens when it gets there? The two sessions work together: the first reads Hannah-Jones's essay as a piece of historical argument; the second asks why the controversy it sparked runs so much deeper than any factual dispute.
+## Week 12: The 1619 Project
+This week uses the 1619 Project as a sustained case study: how does serious historical work travel into public space, and what happens when it gets there? The two sessions work together: the first reads Hannah-Jones's essay as a piece of historical argument; the second asks why the controversy it sparked runs so much deeper than any factual dispute.
 
 ### 12.1: The 1619 Project, Part 1
-
 The 1619 Project is not just journalism — it's a historiographical act. Nikole Hannah-Jones takes the tools of historical argument and deploys them in a public forum, claiming that slavery and Black resistance are not a footnote to American democracy but its founding contradiction. This session reads the project as history — asking what evidence it uses, what narrative it builds, and what it means to intervene in public memory rather than write for an academic audience.
 
 - 📜 Nikole Hannah-Jones, ["The Idea of America,"](https://pulitzercenter.org/sites/default/files/the_idea_of_america_full_essay.pdf) *New York Times Magazine* (August 19, 2019), ~15 pp. The lead essay from the 1619 Project. Read for its historical argument and for how it uses the past to intervene in the present — that intervention is itself a historiographical act.
@@ -435,7 +419,6 @@ The [1619 Project Discussion Post](1619-discussion-post) is due after Thursday's
 
 
 ### 12.2: The 1619 Project, Part 2
-
 If history were just an academic exercise, controversies about it would stay in seminar rooms. But history claims authority over the present and future — it shapes identity, legitimates policies, defines who "belongs," and who gets to make the rules. When those claims are contested, the fight is rarely really about whether the facts are right.
 
 - 📗 Adam Serwer, ["The Fight Over the 1619 Project Is Not About the Facts"](https://www.theatlantic.com/ideas/archive/2019/12/historians-clash-1619-project/604093/), *The Atlantic* (December 2019), ~15 pp. Serwer argues the controversy over the 1619 Project is less about factual errors than about whose version of America is at stake — a model for analyzing why history wars happen at all. Read first.
@@ -449,14 +432,15 @@ If history were just an academic exercise, controversies about it would stay in 
 
 
 {% include alert.html class='danger' title='1619 Discussion Post due' text="
-Post your response to the discussion board by MIDNIGHT SUNDAY, following the [1619 Project Discussion Post guide](1619-discussion-post). You now have all three readings — Hannah-Jones, Serwer, and Lowenthal — so you have everything you need. Don't forget the real-world anchor; a post without one can't earn above a C.
+Post your response to the discussion board by MIDNIGHT SUNDAY, following the [1619 Project Discussion Post guide](1619-discussion-post). You now have all three readings — Hannah-Jones, Serwer, and Lowenthal — so you have everything you need.
 "%}
 
 
 ---
 
+
 ## Week 13
-Both sessions this week ask what happens when historians look beyond human political events. Environmental history (13.2) placed landscapes and climates at the center; this week the history of science and medicine asks how humans have constructed — and contested — knowledge about the natural world and the body. Both sessions share the question: who gets to say what counts as knowledge, and what are the consequences of that authority?
+Both sessions this week ask what happens when historians look beyond human political events and focus more on the natural world and how we study it and understand it. Both sessions share the question: who gets to say what counts as knowledge, and what are the consequences of that authority?
 
 
 ### 13.1: History of Science and Medicine
@@ -466,9 +450,6 @@ Science and medicine have their own histories — they change, they have turning
 - 📗 Steven Shapin, *The Scientific Revolution* (1996), Introduction, ~15 pp. Opens with the line "There was no such thing as the Scientific Revolution, and this is a book about it" — which immediately signals the argument: scientific knowledge is historically constructed, shaped by social forces and institutional context rather than simply discovered. Written for a general audience; no philosophy background needed.
 - 📗 Charles Rosenberg, "Framing Disease: Illness, Society, and History," in *Framing Disease* (1992), Introduction, ~15 pp. Rosenberg argues that medical categories are historical constructs — diseases get defined in ways that reflect the social, professional, and moral concerns of the moment. Short and methodologically explicit. If medical categories change over time, what does that mean for historians who use medical records as sources?
 - 📙 Thomas Kuhn, *The Structure of Scientific Revolutions* (1962), Introduction + Ch. 1–2. Kuhn argues that science moves through periods of "normal science" punctuated by paradigm shifts where entire frameworks collapse. Historians have applied this model to their own discipline; the key concept is covered in lecture.
-- 📙 Michel Foucault, "Nietzsche, Genealogy, History" (1971). Foucault's most direct statement about historical method — "genealogy" traces the contingent, power-laden processes through which things come to seem natural and inevitable. Underlies much of the power/knowledge critique in Weeks 7–9; covered in lecture.
-- 📙 Lorraine Daston and Peter Galison, *Objectivity* (2007), Introduction. Traces how scientists' ideals of objectivity have changed over time — a history of the concept we first encountered with Ranke in Week 4.
-- 📙 Roy Porter, *The Greatest Benefit to Mankind: A Medical History of Humanity* (1997), Introduction. Shows how medical knowledge has shaped — and been shaped by — social power; excellent lecture context.
 
 #### Discussion
 - Shapin says there was "no such thing" as the Scientific Revolution. What does he mean? Does that claim apply to the historiographical "turns" we've studied this semester?
@@ -476,12 +457,12 @@ Science and medicine have their own histories — they change, they have turning
 - If scientific and medical categories change over time, how should historians treat them when they appear in sources?
 - How does history of science connect to what Said and Trouillot argued about knowledge and power?
 
-### 13.2: Environmental History
 
-Most history treats humans as the only meaningful actors and everything else as backdrop. Environmental history argues that's itself a choice — that landscapes, climates, rivers, and organisms don't just sit there while humans act on them, but actively shape what's possible. Cronon shows how the same landscape generates opposite stories depending on how you frame it; Chakrabarty pushes further to ask whether climate change forces historians to reconsider the human species itself as a historical actor.
+### 13.2: Environmental History
+Most history treats humans as the only meaningful actors and everything else as background. Environmental history argues that's itself a choice — that landscapes, climates, rivers, and organisms don't just sit there while humans act on them, but actively shape what's possible. Cronon shows how the same landscape generates opposite stories depending on how you frame it; Chakrabarty pushes further to ask whether climate change forces historians to reconsider the human species itself as a historical actor.
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 3: "The History of What", 108--117. 
-- 📗 William Cronon, "A Place for Stories: Nature, History, and Narrative," *Journal of American History* 78, no. 4 (1992): 1347–1376 (first 15 pp.). Cronon shows how two historians can tell completely opposite stories about the same landscape — the Great Plains — depending on whether they frame it as progress or decline. A brilliant, accessible meditation on narrative and nature; read for the method.
-- 📙 Dipesh Chakrabarty, "The Climate of History: Four Theses," *Critical Inquiry* 35, no. 2 (2009): 197–222 (first 15 pp.). Chakrabarty argues that climate change forces historians to think about humans as a geological force — breaking many of our usual frameworks. Dense but important; key theses covered in lecture.
+- 📗 William Cronon, "A Place for Stories: Nature, History, and Narrative," *Journal of American History* 78, no. 4 (1992): 1347–1376 (first 15 pp.). Cronon shows how two historians can tell completely opposite stories about the same landscape — the Great Plains — depending on whether they frame it as progress or decline. 
+- 📙 Dipesh Chakrabarty, "The Climate of History: Four Theses," *Critical Inquiry* 35, no. 2 (2009): 197–222 (first 15 pp.). Chakrabarty argues that climate change forces historians to think about humans as a geological force — a challenge to typical historical frameworks. 
 
 #### Discussion
 - How does Cronon show that nature has a "narrative"?
@@ -489,17 +470,16 @@ Most history treats humans as the only meaningful actors and everything else as 
 - Does environmental history change what counts as a historical "actor"?
 
 {% include alert.html class='warning' title='Campus History web page — start now' text="
-Your [Campus History web page](campus-history-human) is due at the start of Week 15, and presentations are that same session. Thanksgiving sits between now and then, so this is your real warning: **if you have not been to CSWR yet, go this week.** The archive is the part you cannot rush or do the night before — boxes take time to request, the reading room has hours, and you may need a second visit. Submitting the pull request is quick; getting the material is not.
+Your [Campus History web page](campus-history-human) is due at the start of Week 15, and presentations are that same session. Thanksgiving sits between now and then, so this is your real warning: **if you have not been to CSWR yet, go this week.** The archive is the part you cannot rush or do the night before — the reading room has hours and other people waiting ahead of you, and you may need a second visit.
 "%}
 
-
 ---
+
 
 ## Week 14
 
 
-
-### 14.1: 
+### 14.1: Food History?
 
 ### 14.2: Thanksgiving
 
@@ -540,7 +520,6 @@ This is our last meeting. The [Final Course Reflection](final-course-reflection)
 ---
 
 ## Week 16: No Class
-
 
 {% include alert.html class='danger' title='Final Course Reflection due' text="
 Submit your [final course reflection](final-course-reflection) to Canvas. This is a ~1200-word reflection on what you learned, what you wish you had, how the course has or hasn't changed your thinking, and your own experience in it. Graded on honest engagement, specific examples, and a personal voice that couldn't have come from AI.

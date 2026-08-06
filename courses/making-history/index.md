@@ -107,6 +107,9 @@ Percent | Grade
 </div>
 </div>
 
+## Please don't drift away
+If life gets overwhelming during the course and you question whether you can continue, please reach out. We can discuss formal or informal accommodations, deadline adjustments, or other support needed for you to complete the course successfully enough for academic progress and to keep scholarships. 
+
 
 ## AI Policy & Academic Integrity
 * Learning to use AI is an important skill in itself, but using it when you're supposed to be working through the friction of thinking on your own is like bringing a forklift into the weightroom. You will lose out to be people _actually doing the work_.
@@ -115,8 +118,11 @@ Percent | Grade
 * I can't really _prove_ you're cheating if you do, but that's OK. Eventually you'll lose out to people who actually learned to use AI critically and productively instead of deceptively. That seems a sufficient enough consequence.
 
 
-## Accessibility & Support
-If life gets overwhelming during the course and you question whether you can continue, please reach out. We can discuss formal or informal accommodations, deadline adjustments, or other support needed for you to complete the course successfully enough for academic progress and to keep scholarships. 
+## Accommodations
+UNM is committed to providing equitable access to learning opportunities for students with documented disabilities. As your instructor, it is my objective to facilitate an inclusive classroom setting, in which students have full access and opportunity to participate. To engage in a confidential conversation about the process for requesting reasonable accommodations for this class and/or program, please contact Accessibility Resource Center at arcsrvs@unm.edu or 505-277-3506.
+
+## UAP 2720 and 2740
+Our classroom and university should foster mutual respect, kindness, and support. If you have concerns about discrimination, harassment, or violence, please seek support and report incidents. Find confidential services at LoboRESPECT Advocacy Center, the Women’s Resource Center, and the Arcoiris Center. UNM prohibits discrimination on the basis of sex (including gender, sex stereotyping, gender expression, and gender identity). All instructors are “responsible employees” who must communicate reports of sexual harassment, sexual misconduct and sexual violence to Compliance, Ethics and Equal Opportunity. For more information, please see UAP 2720 and UAP 2740.
 
 ## Color Guide
 {% include alert.html class='danger' title='Red boxes' text="

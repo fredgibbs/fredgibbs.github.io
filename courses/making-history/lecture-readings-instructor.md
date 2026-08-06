@@ -60,8 +60,11 @@ One step past Scott, who *is* assigned. Students get gender-as-category-of-analy
 ### 7.1: Microhistory
 
 **Geertz**, "Thick Description" (1973)
+- 📙 Clifford Geertz, "Thick Description: Toward an Interpretive Theory of Culture" (1973), ~25 pp. Geertz argues that culture is like a text you have to *read*, not a mechanism you can explain. Foundational for cultural history but demanding without background in anthropology; key ideas covered in lecture.
+- 📗 Jill Lepore, "Historians Who Love Too Much: Reflections on Microhistory and Biography," *Journal of American History* 88, no. 1 (2001): 129–144. Lepore reflects on what microhistorians do — and the emotional and ethical complexities of writing about individual lives. Engaging and self-aware; treat it as secondary commentary on Davis and Ginzburg.
 
 Behind Ginzburg. Students read *The Cheese and the Worms* and see a method without its justification; Geertz is the justification — culture as text to be read rather than mechanism to be explained. Also the theoretical bridge to Davis if you use her in the Historians Café menu, where "cultural historian" is a listed option.
+- 📜 Natalie Zemon Davis, *The Return of Martin Guerre* (1983), selections, ~20 pp. A peasant in 16th-century France disappears and someone takes his place. Davis uses this one case to reveal an entire world. Read it like a mystery; pay attention to what kinds of evidence she uses and what she asks of them.
 
 ---
 
