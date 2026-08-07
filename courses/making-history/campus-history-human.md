@@ -10,7 +10,7 @@ section: links-guides
 # Campus History — Part 2: Archive Visit and Web Page
 
 This is **Part 2** of a two-part project. 
-You've already completed the AI draft and critique in [Part 1](campus-history-ai). Now you go to the actual archive to find what the historical record really says, write an essay for the [UNM Campus History](https://amaranth-unm.edu/campus-history) site, and submit a reflection comparing what the AI told you to what you actually found.
+You've already completed the AI draft and critique in [Part 1](campus-history-ai). Now you go to the actual archive to find what the historical record really says, write an essay for the [UNM Campus History](https://amaranth.unm.edu/campus-history) site, and submit a reflection comparing what the AI told you to what you actually found.
 
 
 Bring your Part 1 notes — especially your list of specific claims to verify.
@@ -37,10 +37,10 @@ The Center for Southwest Research is in Zimmerman Library. Enter through the mai
 ### Published UNM campus histories (reference shelf)
 Start here to orient yourself before requesting archival boxes:
 
-- **Van Dorn Hooker**, [*Only in New Mexico*](https://unm-worldcat-org.libproxy.unm.edu/title/only-in-new-mexico-an-architectural-history-of-the-university-of-new-mexico-the-first-century-1889-1989/oclc/42420906) — best starting point for campus buildings; rich context, sparse citations.
-- **William E. Davis**, [*Miracle on the Mesa*](https://unm-worldcat-org.libproxy.unm.edu/title/miracle-on-the-mesa-a-history-of-the-university-of-new-mexico-1889-2003/oclc/61879603) — administrative history by presidential era; useful for broad context.
-- **Dorothy B. Hughes**, [*Pueblo on the Mesa*](https://unm.worldcat.org/title/pueblo-on-the-mesa-the-first-fifty-years-at-the-university-of-new-mexico/oclc/19638445) (1939) — best for UNM's first fifty years.
-- **Susan McColeman**, [*A History of the Buildings of the University of New Mexico: 1890–1934*](https://unm-worldcat-org.libproxy.unm.edu/title/history-of-the-buildings-of-the-university-of-new-mexico-1890-1934/oclc/55135823) — ask for it at the reference desk; essential for early buildings.
+- **Van Dorn Hooker**, [*Only in New Mexico*](https://search.worldcat.org/title/42420906) — best starting point for campus buildings; rich context, sparse citations.
+- **William E. Davis**, [*Miracle on the Mesa*](https://search.worldcat.org/title/61879603) — administrative history by presidential era; useful for broad context.
+- **Dorothy B. Hughes**, [*Pueblo on the Mesa*](https://search.worldcat.org/title/19638445) (1939) — best for UNM's first fifty years.
+- **Susan McColeman**, [*A History of the Buildings of the University of New Mexico: 1890–1934*](https://search.worldcat.org/title/55135823) — ask for it at the reference desk; essential for early buildings.
 
 ### Archival records (manuscript boxes)
 - Search the [New Mexico Digital Archive](https://econtent.unm.edu/) for your topic. Use exact quotes around multi-word terms.
@@ -59,7 +59,7 @@ Start here to orient yourself before requesting archival boxes:
 
 ## The Web Page
 
-Your finished essay will be published on the [UNM Campus History](https://campushistory.unm.edu) website. Write for a curious reader — a student, a faculty member, someone who walks past your building every day — who knows nothing about its history.
+Your finished essay will be published on the [UNM Campus History](https://amaranth.unm.edu/campus-history) website. Write for a curious reader — a student, a faculty member, someone who walks past your building every day — who knows nothing about its history.
 
 {% include alert.html class='info' title='Publishing instructions' text="
 The course page explains what the assignment should accomplish. The technical steps for creating your page, adding images, checking metadata, and submitting a pull request live on the [Campus History student publishing guide](https://amaranth.unm.edu/campus-history/student-guide/).
@@ -74,7 +74,7 @@ The course page explains what the assignment should accomplish. The technical st
 
 
 ### Publication workflow
-Follow the [Campus History student publishing guide](https://campushistory.unm.edu/student-guide/) for the site mechanics. That guide explains how to fork the Campus History repository, create your essay folder, add images, fill out page metadata, preview your page, and submit a pull request.
+Follow the [Campus History student publishing guide](https://amaranth.unm.edu/campus-history/student-guide/) for the site mechanics. That guide explains how to fork the Campus History repository, create your essay folder, add images, fill out page metadata, preview your page, and submit a pull request.
 
 For this course, the important distinction is:
 - The **Campus History guide** explains how to publish the page.

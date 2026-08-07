@@ -33,7 +33,7 @@ This is the harder question — and the more interesting one. Where does the 161
 
 ### Somewhere in the post, land it on something real
 
-At some point — it can be a few sentences, it doesn't need its own section — connect this debate to a something in your own life. The history you were taught in high school and how it handled slavery. An argument at a family dinner. A statue, a street name, a school named after someone. A social media fight you scrolled past. A textbook you still remember.
+At some point — it can be a few sentences, it doesn't need its own section — connect this debate to something in your own life. The history you were taught in high school and how it handled slavery. An argument at a family dinner. A statue, a street name, a school named after someone. A social media fight you scrolled past. A textbook you still remember.
 
 This is not decoration. The 1619 Project's central claim is that the story a country tells about its founding shapes the country — so the test of that claim runs through the version of the story *you* were handed. Your specific experience of that is evidence nobody else in the class has.
 

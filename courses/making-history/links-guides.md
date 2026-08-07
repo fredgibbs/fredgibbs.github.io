@@ -14,7 +14,7 @@ This page contains links that you will need at some point. There's nothing new o
 All work will be submitted through Canvas. The quizzes are of course there as well. The best way to get to both is via the left nav bar once logged into our course on Learn.
 
 ## Readings
-We use a tool called Zotero to manage PDFs of reading assignments apart from the books. As you read the [Zotero set up instructions](/courses/etc/zotero), you will need the following links. Save yourself confusion by reading the directions FIRST.
+We use a tool called Zotero to manage PDFs of reading assignments apart from the books. As you read the [Zotero set up instructions](/courses/guides/zotero), you will need the following links. Save yourself confusion by reading the directions FIRST.
 
 Our `Zotero Group homepage` is [https://www.zotero.org/groups/2703269/making-history-unm](https://www.zotero.org/groups/2703269/making-history-unm). This link is best for joining the course Zotero Group.
 
@@ -24,9 +24,9 @@ Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-histo
 * [Reading Reflections](reading-reflections)
 * [Class Engagement](class-engagement)
 * [Early Course Reflection](early-reflection)
-* [Historians Cafe Conversation](historians-cafe)
+* [Historians Café Conversation](historians-cafe)
 * [Campus History via AI](campus-history-ai)
 * [Campus History Contribution and Reflection](campus-history-human)
-* [Campus History Student Publishing Guide](https://campushistory.unm.edu/student-guide/)
+* [Campus History Student Publishing Guide](https://amaranth.unm.edu/campus-history/student-guide/)
 * [1619 Project Discussion Post](1619-discussion-post)
 * [Final Course Reflection](final-course-reflection)

@@ -32,7 +32,7 @@ Choose something about UNM's past that genuinely interests you:
 
 ## Step 2: Generate an AI history
 
-Use an AI tool (ChatGPT, Claude, Gemini, or similar) to generate a ~500-word history of your topic. Give it a specific prompt:
+Use an AI tool (ChatGPT, Claude, Gemini, or similar) to generate a ~600-word history of your topic. Give it a specific prompt:
 
 > "Write a short history of [your topic] at the University of New Mexico. Include specific dates, events, people, and sources where possible."
 
@@ -42,14 +42,14 @@ Use an AI tool (ChatGPT, Claude, Gemini, or similar) to generate a ~500-word his
 
 ## Step 3: Read it critically
 
-Before writing anything, read the AI draft carefully with a skeptical eye. Take notes on:
+Before writing anything, read the AI draft carefully with a skeptical eye. Read carefully and ask:
 - What specific claims does it make — dates, names, events, causes?
 - What sources does it cite, if any? Do they look like real, verifiable sources?
 - What seems plausible and specific? What seems vague, generic, or suspiciously confident?
 - What questions does it raise that it doesn't answer?
 - What would you want to verify before trusting this account?
 
-You don't need to verify anything yet. Just read carefully and notice.
+
 
 ---
 

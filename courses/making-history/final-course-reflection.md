@@ -69,7 +69,7 @@ Telling me what you learned means describing what's now *different* in your thin
 This is what separates excellent from mediocre reflections. Saying "I learned that history is more complicated than I thought" is fine only if you back it up with specific examples from readings, discussions, or assignments. Vague statements without examples tell me you didn't engage deeply — even if you did.
 
 ### Connect the dots
-The more you can connect themes across the semester — say, linking Trouillot's silencing framework (Week 5) to the 1619 Project debate (Week 10) to your campus history project — the higher your score. I'm looking for evidence that the course built on itself in your mind, not just a list of topics.
+The more you can connect themes across the semester — say, linking Trouillot's silencing framework (Week 9) to the 1619 Project debate (Week 12) to your campus history project — the higher your score. I'm looking for evidence that the course built on itself in your mind, not just a list of topics.
 
 ### Your experience is YOURS
 There's no right answer. This is your chance to tell me what resonated, what didn't, and what questions the course left you with. Two students can learn very different things from the same course and both write excellent reflections.

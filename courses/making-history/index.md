@@ -32,7 +32,7 @@ The main take home: *history is not simply a record of the past, but an evolving
 
 ## Learning Outcomes
 * Give examples of how and why ideas about historical truth, evidence, and authority have shifted across different eras
-* Analyze how stuff all around you--campus buildings, city streets, access to capital, media coverage—-result from particular historical circumstances
+* Analyze how stuff all around you—campus buildings, city streets, access to capital, media coverage—results from particular historical circumstances
 * Critically evaluate historical claims and uses of history in books, media, and public debate
 
 
@@ -40,20 +40,20 @@ The main take home: *history is not simply a record of the past, but an evolving
 As a Gen Ed course, the specific information in it is only one facet to the class. More important are habits of mind and critical thinking that you should apply to any subject.
 
 * **Source criticism** — asking who made a source, for whom, in what context, and what it leaves out (applies to academic texts, news articles, social media, and AI-generated content equally)
-* **Argument analysis** — evaluating how an author makes an argument and whether its supported by sufficient evidence
+* **Argument analysis** — evaluating how an author makes an argument and whether it's supported by sufficient evidence
 * **Structural analysis** — zooming out from events to ask what underlying systems (economic, social, geographic) made them possible
 
 
 ## You are welcome here
 Even if you have never been challenged to think about how history is made, **you are welcome here**! This course assumes no prior history knowledge or skills. I grade quite leniently at the beginning of class and the bar slowly rises throughout the class as we dive deeper into course material and you get more comfortable with what we do.
 
-**I really do want you to have fun learning in this class**. I will do everything I can do help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. If you feel the course structure or assignments isn't facilitating success or your current grade does not represent the effort you're putting in the course, let's talk!
+**I really do want you to have fun learning in this class**. I will do everything I can to help you learn as much as you're motivated to learn, and to help you get whatever grade you're aiming for. If you feel the course structure or assignments aren't facilitating success or your current grade does not represent the effort you're putting in the course, let's talk!
 
 
 ## Accessing Readings
 There are no required books to purchase. We use a tool called Zotero to manage PDFs of reading assignments apart from the books. 
 
-**To get connected, follow the [Zotero set up instructions](/courses/etc/zotero), noting the links below**.
+**To get connected, follow the [Zotero set up instructions](/courses/guides/zotero), noting the links below**.
 
 Our `Zotero Group homepage` is [https://www.zotero.org/groups/2703269/making-history-unm](https://www.zotero.org/groups/2703269/making-history-unm). This link is best for joining the course Zotero Group.
 
@@ -63,19 +63,19 @@ Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-histo
 ## Course Work
 * [Reading reflections](reading-reflections) (15%)
 * [Class engagement](class-engagement) (15%)
-* [Early Course Reflection](early-reflection) (15%)
-* [Historians Cafe Conversation](historians-cafe) (15%)
-* [Campus History via AI](campus-history-ai) (10%)
+* [Early Course Reflection](early-reflection) (10%)
+* [Historians Café Conversation](historians-cafe) (15%)
+* [Campus History via AI](campus-history-ai) (5%)
 * [Campus History via the archive](campus-history-human) (15%)
 * [1619 Project Discussion Post](1619-discussion-post) (10%)
-* [Final Course Reflection](final-course-reflection) (20%)
+* [Final Course Reflection](final-course-reflection) (15%)
 
 
 ### Grading
 
 <div class="sy-grading-cols">
 <div class="sy-grading-text" markdown="1">
-All assignments are graded as A, B, C, D, F. There are usually no plusses and minuses, but sometimes I can't resist. Canvas calculates these into percentages in the Gradebook, so you can always see your current percent and letter grade at based on work you've submitted. 
+All assignments are graded as A, B, C, D, F. There are usually no plusses and minuses, but sometimes I can't resist. Canvas calculates these into percentages in the Gradebook, so you can always see your current percent and letter grade based on work you've submitted. 
 
 ### Assessment Philosophy
 The goal of this course is for you to *see* and engage with history differently—not to learn facts about the past. I care about the effort and thought you put into engaging with the material, not whether you get the "right" answer (because there usually isn't one).

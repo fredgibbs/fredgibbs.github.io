@@ -24,6 +24,8 @@ For almost everything we read, we're reading to ENGAGE with it, not because it's
 📗 = secondary overview — modern scholars explaining the topic; skim for context and orientation before engaging primary sources
 
 📜 = primary source — the actual historian or thinker being studied; skim/read for style, argument, and flavor; be sure you know what to look for
+
+📙 = advanced reading and lecture reference — no need to read unless part of a special assignment
 "
 %}
 
@@ -49,13 +51,12 @@ Before our second class meeting, write a short response (a few sentences to a pa
 ### 1.2: The Past vs. History
 The word "history" means a lot of things. Academic discipline, a political claim, as a way of making sense of the world. These readings use different angles to highlight a crucial distinction: the past is everything that happened; history — or more accurately *histories* — are purposeful, selective accounts of it that serve a purpose. And those purposes have always been constantly changing.
 
-- 📗 Fred Gibbs, [Why Study History?](why-study-history). A short piece I wrote for this course, mostly aimed at the reasonable suspicion that history is pointless. The core idea: every "why" question has an immediate answer and a structural one, and history is how you get the second kind. 
-- 📜 E.H. Carr, *What Is History?* (1961), Ch. 1: "The Historian and His Facts," 3–35. Carr is one of the twentieth century's most important thinkers about historical method. His argument — that facts don't speak for themselves, that historians choose which facts matter — is foundational for the course. Focus on the central argument rather than every obscure reference (your not expected to know any of these!)
+- 📗 Fred Gibbs, [Why Study History?](why-study-history). A short piece I wrote for this course, mostly aimed at the reasonable suspicion that history is pointless. The core idea: every "why" question has an immediate answer and a much less obvious structural one. Learning about history is how you get the second kind. 
+- 📜 E.H. Carr, *What Is History?* (1961), Ch. 1: "The Historian and His Facts," 3–35. Carr is one of the twentieth century's most important thinkers about historical method. His argument — that facts don't speak for themselves, that historians choose which facts matter — is foundational for the course. Read quickly and focus on the central argument rather than every obscure reference (you're not expected to know them!)
 
 #### Discussion
 - What's the difference between a "fact" and a "historical fact"?
-- Carr wrote in 1961. Has anything about his argument changed?
-
+- Carr wrote in 1961. Does his argument still hold?
 
 
 
@@ -67,7 +68,7 @@ Ancient historians had strong opinions about what history was for, how to tell i
 The Greeks basically invented Western historical writing — but there wasn't agreement about how to do it. One approach favored vivid storytelling and moral lessons; the other demanded strict evidence and cool analysis. Both choices shaped what counted as "real" history for centuries, and the tension between them hasn't gone away.
 
 - 📗 Jeremy Popkin, *From Herodotus to H-Net: The Story of Historiography* (2016), 26--40. 
-- 📜 Selections from Herodotus, *The Histories*, Book 1 (the opening pages + the story of Croesus), ~15 pp. The so-called "father of history" tells stories that mix research, hearsay, and moral lessons. Don't worry about the historical details — pay attention to HOW he tells the story, not just what happens, and what he seems to think history is for.
+- 📜 Selections from Herodotus, *The Histories*, Book 1 ([the opening pages](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/1A*.html) + the story of Croesus), ~15 pp. The so-called "father of history" tells stories that mix research, hearsay, and moral lessons. Don't worry about the historical details — pay attention to HOW he tells the story, not just what happens, and what he seems to think history is for.
 - 📜 Thucydides, *History of the Peloponnesian War*, the "Funeral Oration of Pericles" and the "Melian Dialogue" (selections), ~15 pp. More analytical and harder than Herodotus. Thucydides claims to write only what he can verify. Does that seem to be true? 
 
 #### Discussion
@@ -121,7 +122,6 @@ By the Renaissance, some writers had a sharply practical answer to "what is hist
 #### Discussion
 - How does Machiavelli use historical examples?
 - What's the difference between using history to *teach virtue* (ancients) and using it to *gain power* (Machiavelli)?
-- Grafton says the footnote was *invented*. What does that tell us about how authority in history is constructed?
 
 
 {% include alert.html class='danger' title='Early Reflection due' text="
@@ -137,8 +137,8 @@ The Enlightenment produced a new theory of what history meant: "reason" was adva
 ### 4.1: Enlightenment Progress
 The Enlightenment didn't just produce new history — it produced a new theory of what history meant. If reason was advancing and civilization improving, then history had a direction. That idea seems obvious now, which is exactly why it's worth examining: where did it come from, and what does it take for granted?
 
-- 📗 Jeremy Popkin, *From Herodotus to H-Net* (2016), Ch. 4,: "The Rise of Academic Scholarship and Nationalist History", 61--69. Popkin describes what's new in history during the Enlightenment — the shift from religious and dynastic history toward secular, civilizational narratives.
-- 📜 Voltaire, selections from *The Age of Louis XIV* (1751), ~10 pp. Voltaire thinks history should be about civilization, culture, and manners — not just kings and battles. Seems obvious now, but was a new idea in his time. Read for what he's arguing history *should* be, not just what he describes.
+- 📗 Jeremy Popkin, *From Herodotus to H-Net* (2016), Ch. 4: "The Rise of Academic Scholarship and Nationalist History", 71--79. Popkin describes what's new in history during the Enlightenment — the shift from religious and dynastic history toward secular, civilizational narratives.
+- 📜 Voltaire, [selections from *The Age of Louis XIV*](https://oll.libertyfund.org/titles/fleming-the-works-of-voltaire-vol-xii-age-of-louis-xiv) (1751), ~10 pp. Voltaire thinks history should be about civilization, culture, and manners — not just kings and battles. Seems obvious now, but was a new idea in his time. Read for what he's arguing history *should* be, not just what he describes.
 - 📜 Immanuel Kant, "[Idea for a Universal History with a Cosmopolitan Purpose](https://en.wikisource.org/wiki/Idea_for_a_Universal_History_from_a_Cosmopolitan_Point_of_View)" (1784). Kant argues history has a direction toward reason and freedom — the foundational Enlightenment claim behind this week's discussion, explained in class.
 
 #### Discussion
@@ -150,7 +150,7 @@ The Enlightenment didn't just produce new history — it produced a new theory o
 ### 4.2: Scientific History
 In the nineteenth century, historians began claiming that history could be a science — rigorous, evidence-based, objective in ways earlier history hadn't been. That claim transformed the profession. 
 
-- 📗 Jeremy Popkin, *From Herodotus to H-Net* (2016), Ch. 4: "The Rise of Academic Scholarship and National History", 71--98. Popkin's accessible account of nineteenth-century professional history — Ranke, the archive, the university seminar, and the dream of scientific objectivity. 
+- 📗 Jeremy Popkin, *From Herodotus to H-Net* (2016), Ch. 4: "The Rise of Academic Scholarship and National History", 79--98. Popkin's accessible account of nineteenth-century professional history — Ranke, the archive, the university seminar, and the dream of scientific objectivity. 
 
 - 📜 Leopold von Ranke, preface to *Histories of the Latin and Germanic Nations* (1824), ~5 pp. The most famous sentence in historiography: Ranke said he wanted to show the past "as it actually was" (*wie es eigentlich gewesen*). Very short — read it carefully and think about what he's claiming and what it would actually take to do it.
 - 📙 Michel de Certeau, *The Writing of History* (1975), Ch. 2: "The Historiographical Operation." De Certeau argues that history is produced in specific institutional places with specific practices; the institution shapes what counts as legitimate knowledge. 
@@ -236,9 +236,7 @@ Microhistory embraces the mundane. Rather than privileging big patterns, microhi
 #### Discussion
 - How does Ginzburg use a single story to illuminate a whole society?
 - What is "thick description"? How is it different from just describing what happened?
-- What makes culture a kind of "evidence"?
 - What can one person's story tell us about an entire society?
-- What are the risks of microhistory? What does Lepore mean by loving "too much"?
 
 
 ### 7.2: Course Review So Far
@@ -271,7 +269,7 @@ Your [Historians Café](historians-cafe) assignment is due by MIDNIGHT ON TUESDA
 ### 8.1: Midterm Review
 
 {% include alert.html class='danger' title='Historians Café due' text="
-Submit your [Historians Café](historians-cafe) assginment BEFORE MIDNIGHT!
+Submit your [Historians Café](historians-cafe) assignment BEFORE MIDNIGHT!
 "%}
 
 ### 8.2:  Fall break! No Class. Nothing Due.
@@ -321,7 +319,7 @@ This week pairs two major interventions. The first asks: if history is always to
 
 
 ### 10.1: The Linguistic Turn — Is History Just a Story?
-The "linguistic turn" is the claim that because historians always use narrative, selection, and interpretation, their work is never a transparent window onto the past. White and Jenkins press that argument hard. Evans pushes back, arguing historians can still make true claims if they're careful. Read Evans first so you have a counterpoint before the arguments get more extreme.
+The "linguistic turn" is the claim that because historians always use narrative, selection, and interpretation, their work is never a transparent window onto the past. This week we explore and debate the extent to which this is true.
 
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 8: "The Questions of Narrative", 204--211. 
 - 📗 Richard Evans, *In Defense of History* (1997), Introduction + Ch. 1, ~20 pp. Evans pushes back against the claim that history is just a narrative — he argues historians *can* make true claims about the past, carefully. 
@@ -391,7 +389,7 @@ The 1619 Project is not just journalism — it's a historiographical act. Nikole
 #### Discussion
 - What historical argument is Hannah-Jones making? How does she use evidence?
 - How is writing for the *New York Times Magazine* different from writing for an academic journal? What changes — and what stays the same?
-- How does this connect to Trouillot's argument about silencing from Week 8?
+- How does this connect to Trouillot's argument about silencing from Week 9?
 
 {% include alert.html class='warning' title='1619 Discussion Post coming' text="
 The [1619 Project Discussion Post](1619-discussion-post) is due after Thursday's session — it draws on Serwer and Lowenthal as well as today's reading, so you can't finish it yet. But start now: pick which side of the debate you find more convincing and why, and think of something from your own life this connects to. That personal anchor is required, and it's the part that takes the longest to come up with.
@@ -408,7 +406,7 @@ If history were just an academic exercise, controversies about it would stay in 
 - Serwer argues the fight over the 1619 Project isn't really about historical accuracy. What is it about?
 - What's the difference between Lowenthal's "heritage" and "history"? How does that distinction help explain why history wars happen?
 - Can you think of another current "history war"? What's really at stake in it?
-- Using Trouillot's framework from Week 8: where does the "silencing" happen when the 1619 Project gets banned from state school curricula?
+- Using Trouillot's framework from Week 9: where does the "silencing" happen when the 1619 Project gets banned from state school curricula?
 
 
 {% include alert.html class='danger' title='1619 Discussion Post due' text="
@@ -468,7 +466,7 @@ Your [Campus History web page](campus-history-human) is due at the start of Week
 ### 15.1: Campus History Reviews
 
 {% include alert.html class='danger' title='Campus History web page due + presentations today' text="
-Two things today. **Your pull request must be submitted before class** — see the [student publishing guide](https://campushistory.unm.edu/student-guide/) for the mechanics. And come prepared to present the project. See the [archive guide](campus-history-human) and [AI research guide](campus-history-ai) for what the page needs to include, especially the required AI-Archive Comparison section.
+Two things today. **Your pull request must be submitted before class** — see the [student publishing guide](https://amaranth.unm.edu/campus-history/student-guide/) for the mechanics. And come prepared to present the project. See the [archive guide](campus-history-human) and [AI research guide](campus-history-ai) for what the page needs to include, especially the required AI-Archive Comparison section.
 "%}
 
 - Student presentations of Campus History Review projects.
@@ -481,13 +479,12 @@ Two things today. **Your pull request must be submitted before class** — see t
 
 
 ### 15.2: Course Wrap Up
-Everything we've read — Trouillot on silencing, Hobsbawm on invented traditions, White on narrative — applies to the built environment, the street names, the monuments, the school curricula of your daily life. Week 1 asked what the difference between the past and history is. Now you have enough to answer that for yourself, about something real.
+So, what have we done exactly? This class has been a story about history. What other stories might it have told?
 
 #### Final Discussion
 - What does it mean to "make history"?
 - Has your understanding of history changed? How?
 - Where will you see history at work in your life after this course?
-- What kind of historical thinker do you want to be?
 
 {% include alert.html class='warning' title='Final Reflection — last class, so plan now' text="
 This is our last meeting. The [Final Course Reflection](final-course-reflection) is due during finals week, and there will be no class session to remind you — so put it in your calendar today. Today's discussion is deliberately good preparation: the questions we just worked through are close to the ones the reflection asks. Take notes while it's fresh.
@@ -498,5 +495,5 @@ This is our last meeting. The [Final Course Reflection](final-course-reflection)
 ## 16: No Class
 
 {% include alert.html class='danger' title='Final Course Reflection due' text="
-Submit your [final course reflection](final-course-reflection) to Canvas. This is a ~1200-word reflection on what you learned, what you wish you had, how the course has or hasn't changed your thinking, and your own experience in it. Graded on honest engagement, specific examples, and a personal voice that couldn't have come from AI.
+Submit your [final course reflection](final-course-reflection) to Canvas. This is a ~1000-word reflection on what you learned, what you wish you had, how the course has or hasn't changed your thinking, and your own experience in it. Graded on honest engagement, specific examples, and a personal voice that couldn't have come from AI.
 "%}
