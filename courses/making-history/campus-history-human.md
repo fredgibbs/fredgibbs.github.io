@@ -27,18 +27,21 @@ You've already completed the AI draft and critique in [Part 1](campus-history-ai
 
 The Center for Southwest Research is in Zimmerman Library. Enter through the main door, make a U-turn to the left, and proceed to the reading room. **Plan to spend at least an hour.**
 
+
 ### Getting started
-- Bring a **pencil** (pens are not allowed), your phone for photos, and your Part 1 notes.
+- Bring a **pencil** (pens are not allowed), your phone for photos, and your AI essay critique
 - Store your bag in the lockers at the service kiosk — staff will give you a key.
 - Check in at the reference desk, tell the librarian you're researching your topic for a history class, and ask for their guidance. They're used to helping students with exactly this, and are genuinely glad to do it.
 
+
 ### Published UNM campus histories (reference shelf)
-Start here to orient yourself before requesting archival boxes:
+A few published histories of UNM are available for reference. You should check your topic against these. 
 
 - **Van Dorn Hooker**, [*Only in New Mexico*](https://search.worldcat.org/title/42420906) — best starting point for campus buildings; rich context, sparse citations.
 - **William E. Davis**, [*Miracle on the Mesa*](https://search.worldcat.org/title/61879603) — administrative history by presidential era; useful for broad context.
 - **Dorothy B. Hughes**, [*Pueblo on the Mesa*](https://search.worldcat.org/title/19638445) (1939) — best for UNM's first fifty years.
 - **Susan McColeman**, [*A History of the Buildings of the University of New Mexico: 1890–1934*](https://search.worldcat.org/title/55135823) — ask for it at the reference desk; essential for early buildings.
+
 
 ### Archival records (manuscript boxes)
 - Search the [New Mexico Digital Archive](https://econtent.unm.edu/) for your topic. Use exact quotes around multi-word terms.
@@ -48,6 +51,7 @@ Start here to orient yourself before requesting archival boxes:
 - **Take photos with your phone** for your own reference. Use the **scanner in the reading room** for images you want in your web page.
 - You can have your box held in the reading room if you need to return for a second session.
 
+
 ### Research tips
 - **Names change.** Buildings and organizations often had earlier names. Mesa Vista Hall was the "400-man dorm" when it opened in 1950. Search alternate names if your first search returns nothing.
 - **You're not searching full text.** Most archival documents have never been digitized. The cataloguing is imperfect. Be creative and persistent.
@@ -55,8 +59,7 @@ Start here to orient yourself before requesting archival boxes:
 
 ---
 
-## The Web Page
-
+## Your Campus History Essay
 Your finished essay will be published on the [UNM Campus History](https://amaranth.unm.edu/campus-history) website. Write for a curious reader — a student, a faculty member, someone who walks past your building every day — who knows nothing about its history.
 
 {% include alert.html class='info' title='Publishing instructions' text="
@@ -68,11 +71,11 @@ The course page explains what the assignment should accomplish. The technical st
 - **4–5 images** — historical photographs and/or scanned primary sources from CSWR
 - **Informative captions** on every image: not just what it shows, but why it's significant. Cite where you found it (box number, collection name, or URL).
 - **Subheadings** to organize your main sections
-- **Bibliography** of sources used (CSWR materials + published histories)
+- **Bibliography** of sources used (CSWR materials + published histories) You need to specify exactly where you found something so it can be verified.
 
 
 ### Publication workflow
-Follow the [Campus History student publishing guide](https://amaranth.unm.edu/campus-history/student-guide/) for the site mechanics. That guide explains how to fork the Campus History repository, create your essay folder, add images, fill out page metadata, preview your page, and submit a pull request.
+Follow the [Campus History student publishing guide](https://amaranth.unm.edu/campus-history/student-guide/) for the site mechanics. 
 
 For this course, the important distinction is:
 - The **Campus History guide** explains how to publish the page.
@@ -82,7 +85,6 @@ For this course, the important distinction is:
 - Write something you and your friends would actually want to read
 - Informal sophistication — smart magazine, not academic paper
 - Demonstrate expertise through specific detail and analysis, not just summary
-
 
 
 ---
