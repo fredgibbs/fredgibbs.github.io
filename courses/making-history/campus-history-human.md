@@ -7,13 +7,11 @@ term: Fall 2026
 section: links-guides
 ---
 
-# Campus History — Part 2: Archive Visit and Web Page
+# Campus History — Part 2: Archive Visit and Campus History Essay
 
 This is **Part 2** of a two-part project. 
-You've already completed the AI draft and critique in [Part 1](campus-history-ai). Now you go to the actual archive to find what the historical record really says, write an essay for the [UNM Campus History](https://amaranth.unm.edu/campus-history) site, and submit a reflection comparing what the AI told you to what you actually found.
 
-
-Bring your Part 1 notes — especially your list of specific claims to verify.
+You've already completed the AI draft and critique in [Part 1](campus-history-ai). Now you go to the actual archive to find what the historical record really says, reshape your AI essay into a [UNM Campus History](https://amaranth.unm.edu/campus-history) essay, that fuses both the AI essay and your own findings from the archive.
 
 {% include alert.html class='success' title='Skills you are practicing' text="
 * **Structural analysis** — understanding how institutions (archives, universities, cataloguing systems) shape what knowledge survives and what gets lost. The archive isn't neutral; it reflects decisions about what was worth keeping.
@@ -67,7 +65,7 @@ The course page explains what the assignment should accomplish. The technical st
 
 ### Requirements
 - **~800–1000 words**
-- **2–3 images** — historical photographs and/or scanned primary sources from CSWR
+- **4–5 images** — historical photographs and/or scanned primary sources from CSWR
 - **Informative captions** on every image: not just what it shows, but why it's significant. Cite where you found it (box number, collection name, or URL).
 - **Subheadings** to organize your main sections
 - **Bibliography** of sources used (CSWR materials + published histories)
@@ -85,18 +83,7 @@ For this course, the important distinction is:
 - Informal sophistication — smart magazine, not academic paper
 - Demonstrate expertise through specific detail and analysis, not just summary
 
----
 
-## AI-Archive Comparison (required section)
-
-At the end of your web page, include a section of **~200 words** that directly compares your AI draft (from Part 1) to what you actually found at CSWR. Address:
-
-- What did the AI get right? Give a specific example.
-- What did the AI get wrong, fabricate, or miss entirely? Give a specific example.
-- What can the AI simply never know — evidence that exists only in the physical archive and has never been digitized?
-- What does this experience tell you about the limits of AI as a historical research tool?
-
-This section is what ties the two parts of the project together. It's also the most direct illustration of what the course has been arguing all semester about evidence, silencing, and who gets to make history.
 
 ---
 

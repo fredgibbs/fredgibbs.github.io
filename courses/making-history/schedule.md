@@ -23,9 +23,7 @@ For almost everything we read, we're reading to ENGAGE with it, not because it's
 {% include alert.html class='info' title='Icon Guide' text="
 📗 = secondary overview — modern scholars explaining the topic; skim for context and orientation before engaging primary sources
 
-📜 = primary source — the actual historian or thinker being studied; skim/read for style, argument, and flavor; be sure you know what to look for
-
-📙 = advanced reading and lecture reference — no need to read unless part of a special assignment
+📜 = primary source — the actual historian or thinker being studied; skim/read for style, argument, and flavor; be sure you know what to look for before you begin
 "
 %}
 
@@ -37,7 +35,7 @@ The course starts with a question that sounds simple but is surprisingly reveali
 
 ### 1.1: Welcome and Introduction
 - Course and syllabus introduction.
-- David Foster Wallace, [This is water](https://www.youtube.com/watch?v=GbAH5DAs1oU). This is a Kenyon College Commencement speech from 2005 by the writer David Foster Wallace. The audio is Wallace giving his speech--there's no public video of it--while the video was made much later just to illustrate it. It's actually not bad, but the speech is the point here, not the video. The point guides the purpose of this class and historical awareness: true freedom is learning how to think consciously about what's around you. 
+- David Foster Wallace, [This is water](https://www.youtube.com/watch?v=GbAH5DAs1oU). This is condensed version of a Kenyon College Commencement speech from 2005 by the writer David Foster Wallace. The audio is Wallace giving his speech--there's no public video of it--while the video was made much later just to illustrate it. It's actually not bad, but the speech is the point here, not the video. The point guides the purpose of this class and historical awareness: true freedom is learning how to think consciously about what's around you. 
 
 {% include alert.html class='danger' title='First assignment: a history frustration' text="
 Before our second class meeting, write a short response (a few sentences to a paragraph) describing a frustration you've had with history — in school, in the news, in a museum, anywhere. No right answers, obviously, but what's your experience been?
@@ -96,7 +94,7 @@ Every society decides who gets to write history and what counts as valid evidenc
 
 
 ### 3.1: Medieval Divine Histories
-Medieval historians didn't share our notions about evidence, causation, or what history was supposed to accomplish. For a Christian monk, God was a perfectly valid historical force. For an Islamic scholar studying a foreign culture, the goal was rigorous cross-cultural documentation. These three texts show very different answers to a question we've already surfaced but barely scratched: what makes history trustworthy? It looks like a lot of stuff for today, but the three primary sources are super short excerpts so you can get a sense of the style.
+Medieval historians didn't share our notions about evidence, causation, or what history was supposed to accomplish. For a Christian monk, God was a perfectly valid historical force. For an Islamic scholar studying a foreign culture, the goal was rigorous cross-cultural documentation. These three texts show very different answers to a question we've already surfaced but barely scratched: what makes history trustworthy? It looks like a lot of stuff for today, but the three primary sources are super short excerpts just to give you a sense of the style and approach.
 
 - 📗 Jeremy Popkin, *From Herodotus to H-Net: The Story of Historiography* (2016), 40--47. 
 - 📜 Excerpts from the *Anglo-Saxon Chronicle* (selected annals), ~5 pp. Bare-bones year-by-year record. What counts as worth recording — and what gets left out entirely?
@@ -298,12 +296,9 @@ National histories feel ancient and inevitable, but most were actively construct
 ### 9.2: Power, Knowledge, and the Archive
 Western narratives of progress assumed their own universality — and that assumption shaped not just popular history but the scholarly frameworks historians used to ask questions. This session pairs the experiential critique (what it feels like to have your past flattened or erased) with the theoretical one (how power operates inside the archive itself), and anchors both in a specific historical case that shows the argument at full force.
 
-- 📗 Chimamanda Ngozi Adichie, ["The Danger of a Single Story"](https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story) (TED Talk, 2009), ~19 min. Watch first — Adichie's talk is the accessible entry point, showing from the inside how dominant narratives flatten complex realities.
-- 📜 Edward Said, *Orientalism* (1978), Introduction (selections), ~20 pp. Said argues that Western scholarship about the "East" was never neutral — it created a framework of superiority that shaped what historians could even imagine asking. Dense; Adichie helps you see what Said is getting at. Focus on his core claim about how knowledge and power are linked.
-- 📜 Michel-Rolph Trouillot, *Silencing the Past* (1995), Ch. 1: "The Power in the Story," 1–30. Trouillot argues that power operates at every stage of history-making: who creates the sources, who builds the archives, who writes the narratives. One of the most important readings in the course — the framework pays off for weeks.
-- 📜 Trouillot, *Silencing the Past*, Ch. 3: "An Unthinkable History" (on the Haitian Revolution), ~25 pp. Trouillot shows that the Haitian Revolution was literally *unthinkable* to European historians because it didn't fit their frameworks. Read Ch. 1 first; this is the argument in action.
-- 📙 Ngũgĩ wa Thiong'o, *Decolonising the Mind* (1986), Preface + Ch. 1. Ngũgĩ argues that colonialism's deepest damage was linguistic — forcing colonized peoples to think and remember in European languages was itself a form of historical erasure. Closely related to Said; key argument covered in lecture.
-- 📙 Dipesh Chakrabarty, *Provincializing Europe* (2000), Introduction. Chakrabarty argues that all modern historical thinking has been shaped by European frameworks — the foundational postcolonial historiography argument, covered in lecture.
+- 📜 Michel-Rolph Trouillot, *Silencing the Past* (1995), Ch. 1: "The Power in the Story," 1–30. Trouillot argues that power operates at every stage of history-making: who creates the sources, who builds the archives, who writes the narratives. 
+- 📜 Edward Said, *Orientalism* (1978), Introduction (selections), 1--17. Said argues that Western scholarship about the "East" was never neutral — it created a framework of superiority that shaped what historians could even imagine asking. 
+
 
 #### Discussion
 - How does Adichie's "single story" connect to Enlightenment progress narratives?
@@ -322,8 +317,8 @@ This week pairs two major interventions. The first asks: if history is always to
 The "linguistic turn" is the claim that because historians always use narrative, selection, and interpretation, their work is never a transparent window onto the past. This week we explore and debate the extent to which this is true.
 
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 8: "The Questions of Narrative", 204--211. 
-- 📗 Richard Evans, *In Defense of History* (1997), Introduction + Ch. 1, ~20 pp. Evans pushes back against the claim that history is just a narrative — he argues historians *can* make true claims about the past, carefully. 
 - 📜 Keith Jenkins, *Re-Thinking History* (1991), Ch. 1–2, ~25 pp. Jenkins pushes White's argument further: if all history is narrative, can we ever really know the past? Written as a polemic — lively and opinionated, meant to provoke.
+- 📜 Richard Evans, *In Defense of History* (1997), Introduction + Ch. 1, ~20 pp. Evans pushes back against the claim that history is just a narrative — he argues historians *can* make true claims about the past, carefully. 
 
 #### Discussion
 - If history uses narrative techniques like fiction, does that make it fiction?
@@ -332,14 +327,15 @@ The "linguistic turn" is the claim that because historians always use narrative,
 
 
 ### 10.2: Campus History with AI
-- Readings on AI and History TBD
+- Readings on AI and History 
+- Today we spend a bit more time on the [Campus History Project](https://amaranth.unm.edu/campus-history)
 
 {% include alert.html class='warning' title='Campus History AI draft due next Thursday' text="
-- We saw this at the beginning, but today we spend a bit more time on the [Campus History Project](https://amaranth.unm.edu/campus-history)
-- We'll walk through the assignment in class. Read the [AI research guide](campus-history-ai) before our next meeting.
-- Your AI draft and critique are due by class time next Thursday, when we discuss them and pair them with the archival research component. Claim your topic on the shared Google Sheet!
+- Read the [AI research guide](campus-history-ai) before our next meeting.
+- Claim your topic on the shared Google Sheet!
+- Follow the directions on the Campus History site to make a new webpage to hold your AI-generated essay.
+- Your placeholder for your AI draft and critique are due on Tuesday, when we discuss them and pair them with the archival research component. 
 "%}
-
 
 
 
@@ -352,17 +348,20 @@ History and memory are clearly related, but exactly how do we define them in rel
 
 - 📗 James Loewen, *Lies Across America: What Our Historic Sites Get Wrong* (1999), Introduction + one case study of your choice, ~25 pp. Loewen visits monuments and historic sites and asks what stories they tell — and leave out. Pick a case study that interests you.
 - 📗 Dolores Hayden, *The Power of Place: Urban Landscapes as Public History* (1995), Ch. 1, ~20 pp. Hayden shows how the built environment — streets, buildings, neighborhoods — embodies historical narratives that most people walk past without noticing.
-- 📜 Michel-Rolph Trouillot, *Silencing the Past*, Ch. 5: "The Presence of the Past," ~20 pp. Trouillot's conclusion: the past doesn't just sit in archives — it is *present* in daily life, in rituals, in common sense, in things we take for granted. 
 
 #### Discussion
 - What's the difference between "history" and "memory"? Why does it matter?
-- What does Nora mean by a "site of memory"? Can you identify one on campus or in your city?
 - Loewen looks at monuments. What historical narratives do they tell, and what do they leave out?
-- What does Trouillot mean by the "presence" of the past?
 
 {% include alert.html class='danger' title='Campus History AI URLs due' text="
-- Your AI draft is due BEFORE CLASS next Thursday, when we discuss them and pair them with the archival research component. Claim your topic on the shared Google Sheet!
+- Your AI draft is due BEFORE CLASS Thursday, when we discuss them and pair them with the archival research component. Claim your topic on the shared Google Sheet!
 - To prepare for that, follow the directions on the Campus History site to make a new webpage to hold your AI-generated essay.
+"%}
+
+
+{% include alert.html class='warning' title='Campus History AI URLs due' text="
+- Your AI draft is due BEFORE CLASS Thursday, when we discuss them!
+
 "%}
 
 

@@ -80,6 +80,10 @@ The linguistic dimension of colonial erasure — being made to remember in the c
 
 The structural claim that modern historical thinking is itself European-shaped. Note this is Chakrabarty's *first* appearance; he returns at 13.2 with the climate essay. Worth naming the continuity when you get there.
 
+- 📙 Ngũgĩ wa Thiong'o, *Decolonising the Mind* (1986), Preface + Ch. 1. Ngũgĩ argues that colonialism's deepest damage was linguistic — forcing colonized peoples to think and remember in European languages was itself a form of historical erasure. Closely related to Said; key argument covered in lecture.
+- 📙 Dipesh Chakrabarty, *Provincializing Europe* (2000), Introduction. Chakrabarty argues that all modern historical thinking has been shaped by European frameworks — the foundational postcolonial historiography argument, covered in lecture.
+
+
 ---
 
 ## Week 11 — Public History and Memory
