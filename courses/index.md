@@ -7,6 +7,17 @@ description: "Regularly scheduled courses: Digital Heritage; Food + Technology +
 # Recent Courses
 
 
+
+
+{% include course-block.html
+slug="making-history"
+title="Making History (Fall 2026)"
+poster="images/making-history-poster.jpg"
+desc="This course explores this history of history. We investigate how different societies across time have explained and interpreted the past, and why those have changed over time. From ancient myths and medieval chronicles to modern archives and AI-generated summaries, we ask how ideas about truth, evidence, and authority shape the stories societies tell about themselves."
+%}
+
+---
+
 {% include course-block.html
 slug="diet-health-expertise"
 title="Diet, Health, and Expertise (Summer 2026)"
@@ -17,15 +28,6 @@ Some guiding questions: How do dietary experts establish their expertise? Why ha
 %}
 
 
-{% include course-block.html
-slug="making-history"
-title="Making History (Fall 2026)"
-poster="images/making-history-poster.jpg"
-desc="What does it mean to \"make history\"? On one hand, to do something worth recording. On the other, the act of memorializing. This course examines how we interact with history everyday, through books, film, Wikipedia, public spaces, historic buildings, art, and so on. It also addresses various meta-questions about history: What is history? What is it for? Who is it for? This entirely online and asynchronous course consists of short lectures, reading assignments, quizzes and short essays that helps students learn robust research skills, analytical techniques, and ways of using evidence to make arguments."
-%}
-
-
----
 
 
 {% include course-block.html

@@ -7,12 +7,14 @@ html {
 }
 
 #syllabus {
-  --sy-bg: #12100d;
-  --sy-surface: #1a1713;
-  --sy-card: #201c17;
-  --sy-text: #e8e0d4;
+  /* Dark theme is deliberately a warm near-black, not #000, and body text sits
+     around 11:1 rather than 14:1 — softer to read without dimming the accents. */
+  --sy-bg: #1c1815;
+  --sy-surface: #241f1a;
+  --sy-card: #2a241e;
+  --sy-text: #d6ccbd;
   --sy-text-muted: #aea08e;
-  --sy-border: #302a23;
+  --sy-border: #3a332b;
   --sy-heading-1: #d4a84b;
   --sy-heading-2: #de8466;
   --sy-heading-3: color-mix(in oklab, var(--sy-heading-2) 55%, var(--sy-text-muted));
@@ -191,6 +193,54 @@ html {
 }
 #syllabus .alert-info h4 {
   color: #3b82f6;
+}
+
+/* Discussion prompts: recede from the reading list, but stay clearly marked */
+#syllabus .discussion-block {
+  margin: 1.1rem 0 1.75rem 0;
+  padding-left: 1.1rem;
+  border-left: 1px dashed color-mix(in oklab, var(--sy-heading-3) 50%, transparent);
+  color: var(--sy-text-muted);
+  font-size: 1.01rem;
+}
+
+#syllabus .discussion-block h4 {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.97rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: color-mix(in oklab, var(--sy-heading-3) 90%, var(--sy-text-muted));
+  margin: 0 0 0.55rem 0;
+}
+
+/* Prompts set in the heading face so they read as questions, not more reading list */
+#syllabus .discussion-block li,
+#syllabus .discussion-block p {
+  font-family: 'Space Grotesk', sans-serif;
+  line-height: 1.55;
+}
+
+#syllabus .discussion-block ul,
+#syllabus .discussion-block ol {
+  margin-left: 1.1rem;
+  margin-bottom: 0;
+}
+
+#syllabus .discussion-block li {
+  margin-bottom: 0.3rem;
+}
+
+#syllabus .discussion-block li::marker {
+  color: color-mix(in oklab, var(--sy-heading-3) 55%, transparent);
+}
+
+#syllabus .discussion-block p {
+  margin-bottom: 0.55rem;
+}
+
+#syllabus .discussion-block > *:last-child {
+  margin-bottom: 0;
 }
 
 .scroll-spy-nav {

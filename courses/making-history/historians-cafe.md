@@ -8,7 +8,7 @@ section: links-guides
 
 # Historians Café
 
-You are a fly on the wall in a café where three historians are arguing about the same historical question — but they're talking past each other because they fundamentally disagree about what history *is* and what it's *for*.
+Imagine you are a fly on the wall in a café where three historians are arguing about the same historical question — but they're talking past each other because they fundamentally disagree about what history *is* and what it's *for*. What would you hear?
 
 Your job: use AI to write that conversation. Then evaluate whether AI actually understands the difference between a Marxist historian and a postcolonial one, or whether it's just producing labels.
 

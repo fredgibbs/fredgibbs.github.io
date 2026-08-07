@@ -7,7 +7,7 @@ term: Fall 2026
 section: links-guides
 ---
 
-# Campus History — Part 1: AI Draft and Critique
+# Campus History — Part 1: AI Draft + Critique
 
 This is **Part 1** of a two-part project. Here you generate an AI history of a UNM topic and write a short critique of it. Your critique becomes the basis for a class discussion — and the notes you take here go with you to the archive for [Part 2](campus-history-human).
 
