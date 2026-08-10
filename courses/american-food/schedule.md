@@ -46,7 +46,7 @@ The goal for today is to complicate the idea of "American" food.  There are an u
 
 - _HAE_, xi--xv. (Remember that _HAE_ refers to _How America Eats_ as described with a link at the top of the page.)
 - _Mind of Chef_: [Ed Lee on American Food](https://www.youtube.com/watch?v=Y5DZui1nrAs)
-- Ruth Tobias, [Is There Such a Thing as 'American' Food?](https://www.tastingtable.com/culture/national/defining-american-food-cuisine). This article touches on culinary/cultural appropriation, which is a topic we cover in some depth in a few weeks, so focus for no
+- Ruth Tobias, [Is There Such a Thing as 'American' Food?](https://www.tastingtable.com/culture/national/defining-american-food-cuisine). This article touches on culinary/cultural appropriation, which is a topic we cover in some depth in a few weeks.
 - Sidney Mintz, "Eating American". (Remember, if there's no link, it's in the Zotero library). This is easily the most controversial piece this week, suggesting there is no such thing as American Cuisine. We'll discuss in class how much you agree or disagree with his argument.
 
 {% include alert.html class='danger' title='Avoid the Quiz' text="

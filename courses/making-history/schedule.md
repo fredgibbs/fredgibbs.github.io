@@ -50,7 +50,7 @@ Before our second class meeting, write a short response (a few sentences to a pa
 The word "history" means a lot of things. Academic discipline, a political claim, as a way of making sense of the world. These readings use different angles to highlight a crucial distinction: the past is everything that happened; history — or more accurately *histories* — are purposeful, selective accounts of it that serve a purpose. And those purposes have always been constantly changing.
 
 - 📗 Fred Gibbs, [Why Study History?](why-study-history). A short piece I wrote for this course, mostly aimed at the reasonable suspicion that history is pointless. The core idea: every "why" question has an immediate answer and a much less obvious structural one. Learning about history is how you get the second kind. 
-- 📜 E.H. Carr, *What Is History?* (1961), Ch. 1: "The Historian and His Facts," 3–35. Carr is one of the twentieth century's most important thinkers about historical method. His argument — that facts don't speak for themselves, that historians choose which facts matter — is foundational for the course. Read quickly and focus on the central argument rather than every obscure reference (you're not expected to know them!)
+- 📜 E.H. Carr, *What Is History?* (1961), Ch. 1: "The Historian and His Facts," 3–35. REMEMBER that PDFs for readings like this are in the Zotero library! Carr is one of the twentieth century's most important thinkers about historical method. His argument — that facts don't speak for themselves, that historians choose which facts matter — is foundational for the course. Read quickly and focus on the central argument rather than every obscure reference (you're not expected to know them!)
 
 #### Discussion
 - What's the difference between a "fact" and a "historical fact"?
@@ -67,7 +67,7 @@ The Greeks basically invented Western historical writing — but there wasn't ag
 
 - 📗 Jeremy Popkin, *From Herodotus to H-Net: The Story of Historiography* (2016), 26--40. 
 - 📜 Selections from Herodotus, *The Histories*, Book 1 ([the opening pages](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/1A*.html) + the story of Croesus), ~15 pp. The so-called "father of history" tells stories that mix research, hearsay, and moral lessons. Don't worry about the historical details — pay attention to HOW he tells the story, not just what happens, and what he seems to think history is for.
-- 📜 Thucydides, *History of the Peloponnesian War*, the "Funeral Oration of Pericles" and the "Melian Dialogue" (selections), ~15 pp. More analytical and harder than Herodotus. Thucydides claims to write only what he can verify. Does that seem to be true? 
+- 📜 Thucydides, *History of the Peloponnesian War*, the "Funeral Oration of Pericles" and the "Melian Dialogue" (both are PDFs in Zotero), ~7 pages total. More analytical and harder than Herodotus, but try to identify HOW this is the case. Thucydides claims to write only what he can verify. Does that seem to be true in your reading? 
 
 #### Discussion
 - What counts as evidence for Herodotus? For Thucydides?
@@ -79,7 +79,7 @@ The Greeks basically invented Western historical writing — but there wasn't ag
 Rome and Han dynasty China produced historical writing around the same time, in complete independence from each other — and arrived at strikingly similar conclusions about what history is for, but with telling differences. Reading them side by side helps us see where they agree, where they diverge, and what that tells us about why societies write history at all.
 
 - 📜 Livy, *Ab Urbe Condita*, Preface + Book I, Ch. 57–60 ("The Rape of Lucretia"), ~10 pp. Read the preface first — Livy tells you exactly what he thinks history is for. Then read the Lucretia passage and notice how a single dramatic story carries enormous moral and political weight: the end of a dynasty, the birth of a Republic, all hinging on one woman's death. This is what Livy means when he says history provides moral examples.
-- 📜 Sima Qian, *Records of the Grand Historian* (selection on the fall of Xiang Yu), ~10 pp. Writing in Han dynasty China around 100 BCE, Sima Qian invented Chinese historical biography. His account of Xiang Yu's defeat is vivid, morally complex, and structured very differently from Livy. But both historians use dramatic narrative about political downfall to make arguments about power and virtue. What is Sima Qian's argument? How does the form of the story carry it?
+- 📜 Sima Qian, *[Records of the Grand Historian](https://ctext.org/shiji/xiang-yu-ben-ji)* (selection on the fall of Xiang Yu), sections 38--45. Writing in Han dynasty China around 100 BCE, Sima Qian invented Chinese historical biography. His account of Xiang Yu's defeat is vivid, morally complex, and structured very differently from Livy. But both historians use dramatic narrative about political downfall to make arguments about power and virtue. What is Sima Qian's argument? How does the form of the story carry it?
 
 #### Discussion
 - Livy says in his preface that history exists to provide moral examples. Does the Lucretia passage do that? How?
@@ -88,6 +88,10 @@ Rome and Han dynasty China produced historical writing around the same time, in 
 
 
 
+
+{% include alert.html class='danger' title='Reading reflection due tonight' text="
+This week's [reading reflection](reading-reflections) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+"%}
 
 ## 3: Divine Power
 Every society decides who gets to write history and what counts as valid evidence. This week we see very different answers — a Christian monk using miracles as proof, a bare-bones chronicle that just records events, an Islamic scholar insisting on strict sourcing, and a Renaissance politician reading history for practical lessons. The contrast can be stark. Week 4 will show how modern historians made their own version of those same decisions and called them "objective."
@@ -149,7 +153,6 @@ The Enlightenment didn't just produce new history — it produced a new theory o
 In the nineteenth century, historians began claiming that history could be a science — rigorous, evidence-based, objective in ways earlier history hadn't been. That claim transformed the profession. 
 
 - 📗 Jeremy Popkin, *From Herodotus to H-Net* (2016), Ch. 4: "The Rise of Academic Scholarship and National History", 79--98. Popkin's accessible account of nineteenth-century professional history — Ranke, the archive, the university seminar, and the dream of scientific objectivity. 
-
 - 📜 Leopold von Ranke, preface to *Histories of the Latin and Germanic Nations* (1824), ~5 pp. The most famous sentence in historiography: Ranke said he wanted to show the past "as it actually was" (*wie es eigentlich gewesen*). Very short — read it carefully and think about what he's claiming and what it would actually take to do it.
 - 📙 Michel de Certeau, *The Writing of History* (1975), Ch. 2: "The Historiographical Operation." De Certeau argues that history is produced in specific institutional places with specific practices; the institution shapes what counts as legitimate knowledge. 
 
@@ -161,6 +164,10 @@ In the nineteenth century, historians began claiming that history could be a sci
 
 
 
+{% include alert.html class='danger' title='Reading reflection due tonight' text="
+This week's [reading reflection](reading-reflections) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+"%}
+
 ## 5: Structural History
 What if the really important history isn't about events or individuals at all, but about deeper forces — economic systems, geography, long-term climate? Two very different thinkers make versions of that argument this week. It's worth comparing them to the event-centered histories of Weeks 1–4: what do you gain by zooming out, and what do you lose?
 
@@ -168,7 +175,7 @@ What if the really important history isn't about events or individuals at all, b
 Marx offered the most dramatic version of structural history: class conflict as the engine driving all of history. Reading him as a historical thinker — not just a political figure — lets you see both the power of that argument and its blind spots.
 
 - 📗 Anna Green and Kathleen Troup, *The Houses of History*, 2: Marxist Historians, 33--41.
-- 📜 Karl Marx, *The Communist Manifesto* (1848), Part I: "Bourgeois and Proletarians," ~15 pp. Read it as a piece of historical argument: Marx says class struggle is the engine of history. Focus on the logic of his claim, not the politics.
+- 📜 Karl Marx, *The Communist Manifesto* (1848), Part I: "Bourgeois and Proletarians," ~15 pp. Look for _how_ he argues that class struggle is the engine of history. Focus on the logic of his claim, not the politics.
 - 📜 Karl Marx, "The Eighteenth Brumaire of Louis Bonaparte" (1852), opening sections, ~15 pp. Marx's most explicitly historiographical piece. Famous opening line about history repeating "first as tragedy, then as farce." Focus on his theory of how the past constrains the present.
 
 #### Discussion
@@ -191,6 +198,10 @@ While Marx saw economics as history's motor, a group of French historians propos
 
 
 
+
+{% include alert.html class='danger' title='Reading reflection due tonight' text="
+This week's [reading reflection](reading-reflections) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+"%}
 
 ## 6: History From Below
 The subjects of history changed in the middle of the twentieth century, largely because of pressure from outside the university: labor organizing, civil rights, decolonization, and the women's movement all made the absence of most people from the historical record harder to ignore. But bringing them in took more than picking new topics. Archives were built by institutions with no particular reason to document workers, women, or colonized communities, so writing about those people meant working out new methods — reading elite sources against the grain, treating oral tradition as evidence, taking gender seriously as a category of analysis. It also meant a different answer to what history is for: not only explaining how power was exercised, but giving people a documented past they could use in the present.
@@ -223,13 +234,17 @@ What if gender isn't just a topic (the history of women) but a lens for seeing h
 
 
 
+{% include alert.html class='danger' title='Reading reflection due tonight' text="
+This week's [reading reflection](reading-reflections) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+"%}
+
 ## 7: Scales of History
 
 ### 7.1: Microhistory
 Microhistory embraces the mundane. Rather than privileging big patterns, microhistorians focused on a single person, event, or community and asked what one case could reveal about the world around it. Ginzburg's miller is the canonical example — a man whose bizarre ideas were preserved only because the Inquisition found him interesting enough to interrogate, and whose trial record opens a window onto a hidden popular culture. 
 
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 5: "Causes or Meanings?", 178--198. Maza's overview of the "cultural turn" in history — what it means to treat symbols, rituals, and everyday life as evidence. 
-- 📜 Carlo Ginzburg, *The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller* (1976), Preface + Ch. 1–4, ~30 pp. A miller in 1500s Italy is put on trial by the Inquisition for his bizarre cosmological beliefs. Ginzburg uses one person's story to reveal an entire world of popular culture. Reads like a novel; let it.
+- 📜 Carlo Ginzburg, *The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller* (1976), sections 1--6, (pp. 1-13). A miller in 1500s Italy is put on trial by the Inquisition for his bizarre cosmological beliefs. Ginzburg uses one person's story to reveal an entire world of popular culture. What's your reaction to what Menocchio says? How common do you think it would be?
 
 #### Discussion
 - How does Ginzburg use a single story to illuminate a whole society?
@@ -262,6 +277,10 @@ Your [Historians Café](historians-cafe) assignment is due by MIDNIGHT ON TUESDA
 
 
 
+{% include alert.html class='danger' title='Reading reflection due tonight' text="
+This week's [reading reflection](reading-reflections) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+"%}
+
 ## 8: Reflect and Rest
 
 ### 8.1: Midterm Review
@@ -281,15 +300,15 @@ National histories feel ancient and natural — but most of them were built quit
 ### 9.1:  Inventing Nations
 National histories feel ancient and inevitable, but most were actively constructed — often quite recently — to make a political point. This session introduces the key idea that many "traditional" features of national identity were invented and then naturalized.
 
-- 📗 Sarah Maza, *Thinking About History* (2017), Ch. 2: "The History of Where?," 45--82. Maza's accessible overview of how historians have thought about nationalism and national identity — read before Hobsbawm and Anderson as orientation.
+- 📗 Sarah Maza, *Thinking About History* (2017), Ch. 2: "The History of Where?," 45--82. Maza's accessible overview describes how historians have thought about nationalism and national identity.
 - 📜 Eric Hobsbawm, "Introduction: Inventing Traditions," in *The Invention of Tradition* (Cambridge, 1983), 1–14. Short, punchy, and eye-opening: many "ancient" traditions were invented recently. Full of great examples; skim for the argument and pick out two or three examples that interest you.
-- 📜 Benedict Anderson, *Imagined Communities* (1983), Ch. 1–2, ~30 pp. Anderson argues that nations are *imagined* — not fake, but constructed through shared stories, print media, and collective memory. A foundational text. Take it slow; focus on his explanation of *why* nations need historical narratives.
-- 📜 Partha Chatterjee, "Whose Imagined Community?" in *The Nation and Its Fragments* (Princeton, 1993), Ch. 1, ~15 pp. Chatterjee responds to Anderson directly from a postcolonial perspective: if colonized peoples' nationalisms simply followed the European model Anderson describes, why did anti-colonial movements look so different? Read immediately after Anderson; it's a direct conversation with a text you've just finished.
+- 📜 Benedict Anderson, *Imagined Communities* (1983), Introducion (pp. 1--7). Anderson argues that nations are *imagined* — not fake, but constructed through shared stories, print media, and collective memory. A foundational text. 
+- 📜 Partha Chatterjee, "Whose Imagined Community?" in *The Nation and Its Fragments* (Princeton, 1993), Ch. 1, ~15 pp. Chatterjee responds to Anderson directly from a postcolonial perspective: if colonized peoples' nationalisms simply followed the European model Anderson describes, why did anti-colonial movements look so different? 
 
 #### Discussion
 - What is an "invented tradition"? Can you think of examples from your own life?
 - Anderson says nations are "imagined." Does that make them fiction?
-- Chatterjee says colonized peoples couldn't simply adopt Anderson's model. Why not? What did they do instead?
+- Chatterjee says colonized peoples couldn't adopt Anderson's model. Why not? What did they do instead?
 - How does history make a nation feel real — and does that look different depending on who is doing the imagining, and under what conditions?
 
 
@@ -308,6 +327,10 @@ Western narratives of progress assumed their own universality — and that assum
 
 
 
+
+{% include alert.html class='danger' title='Reading reflection due tonight' text="
+This week's [reading reflection](reading-reflections) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+"%}
 
 ## 10: Linguistic Turn + LLMs
 This week pairs two major interventions. The first asks: if history is always told through language and narrative, can it ever be more than a story? The second asks: If history is just words put together in ways we expect, can a computer write it?
@@ -338,6 +361,10 @@ The "linguistic turn" is the claim that because historians always use narrative,
 "%}
 
 
+
+{% include alert.html class='danger' title='Reading reflection due tonight' text="
+This week's [reading reflection](reading-reflections) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+"%}
 
 ## 11: Public History and Memory
 All semester we've been reading about history being made — in archives, universities, national narratives. This week we ask what happens when it enters public life: monuments, textbooks, museums, built environments. The two sessions work together: the first builds the theoretical framework for thinking about history and memory; the second puts it into practice on the ground around you.
@@ -437,8 +464,8 @@ Science and medicine have their own histories — they change, they have turning
 ### 13.2: Environmental History
 Most history treats humans as the only meaningful actors and everything else as background. Environmental history argues that's itself a choice — that landscapes, climates, rivers, and organisms don't just sit there while humans act on them, but actively shape what's possible. Cronon shows how the same landscape generates opposite stories depending on how you frame it; Chakrabarty pushes further to ask whether climate change forces historians to reconsider the human species itself as a historical actor.
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 3: "The History of What", 108--117. 
-- 📗 William Cronon, "A Place for Stories: Nature, History, and Narrative," *Journal of American History* 78, no. 4 (1992): 1347–1376 (first 15 pp.). Cronon shows how two historians can tell completely opposite stories about the same landscape — the Great Plains — depending on whether they frame it as progress or decline. 
-- 📙 Dipesh Chakrabarty, "The Climate of History: Four Theses," *Critical Inquiry* 35, no. 2 (2009): 197–222 (first 15 pp.). Chakrabarty argues that climate change forces historians to think about humans as a geological force — a challenge to typical historical frameworks. 
+- 📗 William Cronon, "The Uses of Environmental History", _Environmental History Review_, 17.3 (1993), 1-22.
+- 📙 Dipesh Chakrabarty, "The Climate of History: Four Theses," *Critical Inquiry* 35.2 (2009): 197–222 (first 15 pp.). Chakrabarty argues that climate change forces historians to think about humans as a geological force — a challenge to typical historical frameworks. 
 
 #### Discussion
 - How does Cronon show that nature has a "narrative"?
@@ -451,9 +478,18 @@ Your [Campus History web page](campus-history-human) is due at the start of Week
 
 
 
+{% include alert.html class='danger' title='Reading reflection due tonight' text="
+This week's [reading reflection](reading-reflections) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+"%}
+
 ## 14: Food
 
 ### 14.1: Food History
+- Warren Belasco, "Why study food?", from _Food: The Key Concepts_, 1--13.
+- Philip Deloria, “[The Invention of Thanksgiving](https://www.newyorker.com/magazine/2019/11/25/the-invention-of-thanksgiving)”, _New Yorker_, 95.37 (November 25, 2019): 70--74. [Also in Zotero if the link doesn't work.]
+- Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167--91.
+- [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/). This quick read serves two purposes: it's a nice overview of what food was likely available at the harvest celebration of 1621. And it's a good example of uncritical food history that focuses entirely on food without much of the historical context (neither in the 1600s or 1900s).
+
 
 ### 14.2: Thanksgiving
 

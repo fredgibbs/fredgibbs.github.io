@@ -17,7 +17,6 @@ Also, think about what AI gives you when you ask it about a reading: a competent
 
 
 ## What I'm asking for
-
 I'm looking for a specific insight, a connection to your own life, a comparison to a previous history class, an overlap with another UNM course, an objection grounded in the course material, a judgment about what matters in the real world. 
 
 **To earn credit, you have to do more than AI would do.** Obviously "more" does not mean more words. It means more substance, more depth, more personal connection, more opinion, more reaction. A generic summary---the thing AI gives you by default (whether you use it or not)---earns a zero because you can get that without thinking, and I need to see you thinking. 
@@ -25,8 +24,23 @@ I'm looking for a specific insight, a connection to your own life, a comparison 
 There is no "correct" answer here, only more or less informed and thoughtful reflection. Everyone finds something different interesting in a reading; I want to see *yours*. I care less about what you think than the fact you legitimately tried.
 
 
-## How to do more
+## Use both the reading and the room
+Each reflection covers a whole week, so you have two sessions and two sets of readings to work with. Write about whatever actually grabbed you — you don't have to cover everything, and a reflection that chases one idea hard is better than one that surveys four.
 
+What I do want is a reflection that could only have been written by someone who **both did the reading and was in the conversation**. Our discussions go places the readings don't, and the best reflections tend to start there: an argument a classmate made that you kept thinking about, a moment where the room split, something you wanted to say in class and didn't, a point you made that you've since decided was wrong.
+
+I'm not asking for a formula or a required sentence. But if a reflection reads like it was written by someone who never showed up, that's usually because it was — and it will land in the bottom half of the scale.
+
+
+## Don't answer the discussion questions literally
+Every session on the [schedule](schedule) has discussion questions under it. They exist to prime our conversation, and they're a reasonable place to start thinking. **Do not answer them directly in your reflection.**
+
+Two reasons. A question posted on a public web page is the easiest thing in the world to paste into a chatbot, and what comes back is exactly the competent, generic response this assignment exists to push you past. And if thirty people answer the same question, I get thirty versions of one paragraph, none of which tells me anything about the person who wrote it.
+
+Use them as a running start if you're stuck, then go somewhere they didn't send you. In practice the strongest reflections aren't answering any posted question at all.
+
+
+## How to do more
 These are some strategies that reliably take a reflection past generic. You don't need all of them—one done well is plenty. Reach for whichever fits the reading and your interests.
 
 - **Pick a fight.** We read to ENGAGE, not to agree. Find the one sentence or claim you most want to argue with, name it specifically, and say why it's wrong, incomplete, or sneaky. AI defaults to balanced both-sides mush; a real, grounded disagreement reads completely differently.
@@ -39,7 +53,6 @@ Each of these requires something that lives *outside* the reading—a stance, a 
 
 
 ## Grading
-
 Each reflection is scored as:
 
 - **A** — provocative; specific; human
@@ -50,9 +63,31 @@ Each reflection is scored as:
 
 I generally avoid plusses and minuses but you might get one occasionally. 
 
+## When they're due
+
+One reflection per week, **due Thursday by midnight**, submitted via Canvas. The reflection covers that week — both sessions, both sets of readings.
+
+There are **eight** of them, in weeks 2, 4, 5, 6, 7, 9, 10, and 13. You will never have a reflection due the same night as something else — when another assignment lands on a Thursday, that week simply has no reflection. Check the [schedule](schedule); every one is marked in a red box.
+
+**I drop your lowest, so seven count.** You don't need to explain a missed week, ask permission, or send me an email — get sick, have a brutal work stretch, hit a week where three other classes all want something, and the drop absorbs it.
+
+To be clear, **the drops apply only to these weekly reflections.** They do not apply to the Historians Café, the 1619 post, the Early or Final Course Reflection, or the Campus History project. Those are individually graded and none of them can be dropped.
+
+### Late work
+
+The assignment stays open until **Friday at midnight**, one day late, for one full letter grade.
+
+That window is there for your benefit, not as a trap. A day is enough to recover from a bad Thursday, and one grade is a real cost but not a catastrophe — a late B still beats a zero by a wide margin. **It is always better to turn something in late than not at all.** After Friday midnight it closes, because a reflection written three weeks after we discussed the reading isn't doing the thing this assignment is for.
+
+### If you need more than that
+
+Sometimes a week goes badly wrong in a way a drop and a day don't cover — you get genuinely sick, something happens at home, work or family or health takes over for a stretch. **Please reach out to the TA.** Before Friday if you can manage it, and after if you couldn't; we would far rather hear from you late than not at all.
+
+You don't need documentation, and you don't need to explain more than you're comfortable explaining. This is a normal part of a semester and we deal with it all the time — nobody is going to be annoyed with you for asking. The only outcome we actually want to avoid is you quietly disappearing from a course you could have finished.
+
+
 ## Basics
 
-- **250 words, roughly.** Although Canvas displays the word count, I'm not too concerned with the exact number. But you should be in the ballpark.
-- **Specific, not general.** Broad statements are fine *only* when backed by examples from the reading. Otherwise it looks like you didn't read closely.
+- **250 words. 300 is the ceiling.** This is deliberately short. Brevity is not me trying to save you work — a tight limit forces you to decide what actually matters and commit to one idea, and that decision is precisely where thinking becomes visible. Padding, hedging, and throat-clearing all disappear when there's no room for them. If you can't get it under 300, you probably haven't figured out yet what your point is.
+- **Specific, not general.** Broad statements are fine *only* when backed by examples from the reading — point at an actual passage, argument, or moment. Otherwise it looks like you didn't read closely.
 - **Polished, not stiff.** Don't perform "academic." But it shouldn't read like a text message either. Overly informal posts do not show much effort.
-- **On time, via Canvas.** By midnight on the due date. Late work is penalized one grade per day. The assignment closes after 3 days, at which point you can't get more than an F anyway. Too much leeway just turns these into busywork. It is FAR better to turn something in late than not at all!
