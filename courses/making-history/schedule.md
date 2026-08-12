@@ -152,9 +152,9 @@ The Enlightenment didn't just produce new history — it produced a new theory o
 ### 4.2: Scientific History
 In the nineteenth century, historians began claiming that history could be a science — rigorous, evidence-based, objective in ways earlier history hadn't been. That claim transformed the profession. 
 
-- 📗 Jeremy Popkin, *From Herodotus to H-Net* (2016), Ch. 4: "The Rise of Academic Scholarship and National History", 79--98. Popkin's accessible account of nineteenth-century professional history — Ranke, the archive, the university seminar, and the dream of scientific objectivity. 
-- 📜 Leopold von Ranke, preface to *Histories of the Latin and Germanic Nations* (1824), ~5 pp. The most famous sentence in historiography: Ranke said he wanted to show the past "as it actually was" (*wie es eigentlich gewesen*). Very short — read it carefully and think about what he's claiming and what it would actually take to do it.
-- 📙 Michel de Certeau, *The Writing of History* (1975), Ch. 2: "The Historiographical Operation." De Certeau argues that history is produced in specific institutional places with specific practices; the institution shapes what counts as legitimate knowledge. 
+- 📗 Jeremy Popkin, *From Herodotus to H-Net* (2016), Ch. 4: "The Rise of Academic Scholarship and National History", 79--98. 
+- 📜 Wilhelm von Humboldt, "On the Historian's Task (1822), 57--71. A provocative first sentence: "The historian's task is to present what actually happened." Yet how does he complicate the possibility of doing that throughout the piece? 
+- 📜 Leopold von Ranke, preface to *Histories of the Latin and Germanic Nations* (1824), ~5 pp. The most famous sentence in historiography: Ranke said he wanted to show the past "as it actually was" (*wie es eigentlich gewesen*). Read it carefully and think about what he's claiming and what it would actually take to do it.
 
 #### Discussion
 - What does "objectivity" mean for a historian? Is it possible?
@@ -188,8 +188,7 @@ Marx offered the most dramatic version of structural history: class conflict as 
 While Marx saw economics as history's motor, a group of French historians proposed a different kind of deep structure: geography, climate, trade patterns that move across centuries rather than years. The _Annales_ school turned historical writing upside down — instead of asking "what happened?" they asked "what changed, and how slowly?" 
 
 - 📗 Anna Green and Kathleen Troup, *The Houses of History*, 4: The _Annales_, 87--95.
-- 📗 Peter Burke, *The French Historical Revolution: The Annales School, 1929–2014* (2015), Ch. 1–2, ~25 pp. Burke explains how a small group of French historians created an entirely new approach to history. Read before Braudel — Burke is the secondary that explains the school; Braudel is the primary voice from inside it.
-- 📜 Fernand Braudel, "History and the Social Sciences: The Longue Durée" (1958), selections, ~15 pp. Braudel argues that the most important history happens slowly — geography, climate, trade routes — not in dramatic events. A genuinely new way of thinking about time. Read after Burke and focus on the core contrast: slow structures versus fast events.
+- 📜 Fernand Braudel, "History and the Social Sciences: The Longue Durée" (1958), 25--54. Braudel argues that the most important history happens slowly — geography, climate, trade routes — not in dramatic events. A genuinely new way of thinking about time. Read after Burke and focus on the core contrast: slow structures versus fast events.
 
 #### Discussion
 - What is the "longue durée"? Why does Braudel think events are less important than structures?
@@ -210,8 +209,8 @@ The subjects of history changed in the middle of the twentieth century, largely 
 Professional history mostly wrote about elites — kings, statesmen, great thinkers. The historians in this session decided that was a serious problem and started looking for everyone else: workers, women, communities whose histories were preserved in memory rather than archives. What makes this methodologically interesting isn't just new topics — it's the argument that the sources themselves need to change.
 
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 1: "The History of Whom?", 10--44. Maza presents a clear overview of social history — where it came from, what it changed, and what debates it opened.
-- 📜 E.P. Thompson, *The Making of the English Working Class* (1963), Preface, ~10 pp. Thompson's famous preface argues that ordinary people make their own history and deserve to be "rescued from the enormous condescension of posterity."
-- 📜 Jan Vansina, *Oral Tradition as History* (1985), Introduction + Ch. 1, ~20 pp. Vansina argues that oral tradition is not myth or folklore but systematic historical evidence — and that African history, much of which was preserved orally, deserves the same respect as written archives. A direct challenge to the Week 4 professionalization story. Read for the core methodological argument; you don't need to follow the specific African examples in detail.
+- 📜 E.P. Thompson, *The Making of the English Working Class* (1963), Preface and Chapter 1, 1--25. Thompson's famous preface argues that ordinary people make their own history and deserve to be "rescued from the enormous condescension of posterity."
+- 📜 Jan Vansina, *Oral Tradition as History* (1985), Ch. 1:  1--13; 27--31. Vansina argues that oral tradition is not myth or folklore but systematic historical evidence — and that African history, much of which was preserved orally, deserves the same respect as written archives. A direct challenge to the Week 4 professionalization story. Read for the core methodological argument; you don't need to follow the specific African examples in detail.
 
 #### Discussion
 - What does "history from below" mean? Below what?
@@ -373,7 +372,7 @@ All semester we've been reading about history being made — in archives, univer
 ### 11.1: History, Memory, and Public Space
 History and memory are clearly related, but exactly how do we define them in relation to each other? This session builds the framework for thinking about how the past circulates in public life: why certain stories get commemorated while others disappear, and what happens when historical argument enters spaces that weren't designed for it.
 
-- 📗 James Loewen, *Lies Across America: What Our Historic Sites Get Wrong* (1999), Introduction + one case study of your choice, ~25 pp. Loewen visits monuments and historic sites and asks what stories they tell — and leave out. Pick a case study that interests you.
+- 📗 James Loewen, *[Lies Across America: What Our Historic Sites Get Wrong](https://research.ebsco.com/c/kov46v/ebook-viewer/pdf/fzquvjtmnz/section/lp_frontcover?location=https%3A%2F%2Fresearch.ebsco.com%2Fc%2Fkov46v%2Fsearch%2Fdetails%2Ffzquvjtmnz%3Frequest-context%3Dplink&db=e000xna&auth-callid=ad4c64af-9265-4b90-9467-bd662e0b73c3)* (1999), first two chapters (1--17) + one case study of your choice. Loewen visits monuments and historic sites and asks what stories they tell — and leave out. Pick any case study that interests you to comment on in your reflection.
 - 📗 Dolores Hayden, *The Power of Place: Urban Landscapes as Public History* (1995), Ch. 1, ~20 pp. Hayden shows how the built environment — streets, buildings, neighborhoods — embodies historical narratives that most people walk past without noticing.
 
 #### Discussion
@@ -442,7 +441,7 @@ Post your response to the discussion board by MIDNIGHT SUNDAY, following the [16
 
 
 
-## 13: Health + Environment
+## 13: Science, Health, Nature
 Both sessions this week ask what happens when historians look beyond human political events and focus more on the natural world and how we study it and understand it. Both sessions share the question: who gets to say what counts as knowledge, and what are the consequences of that authority?
 
 
@@ -451,8 +450,8 @@ Science and medicine have their own histories — they change, they have turning
 
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 3: "The History of What", 83--108. 
 - 📗 Steven Shapin, *The Scientific Revolution* (1996), Introduction, ~15 pp. Opens with the line "There was no such thing as the Scientific Revolution, and this is a book about it" — which immediately signals the argument: scientific knowledge is historically constructed, shaped by social forces and institutional context rather than simply discovered. Written for a general audience; no philosophy background needed.
-- 📗 Charles Rosenberg, "Framing Disease: Illness, Society, and History," in *Framing Disease* (1992), Introduction, ~15 pp. Rosenberg argues that medical categories are historical constructs — diseases get defined in ways that reflect the social, professional, and moral concerns of the moment. 
-- 📙 Thomas Kuhn, *The Structure of Scientific Revolutions* (1962), Introduction + Ch. 1–2. Kuhn argues that science moves through periods of "normal science" punctuated by paradigm shifts where entire frameworks collapse. Historians have applied this model to their own discipline; the key concept is covered in lecture.
+- 📗 Charles Rosenberg, "Framing Disease: Illness, Society, and History," in *Framing Disease* (1992), Introduction, 12--23. Rosenberg argues that medical categories are historical constructs — diseases get defined in ways that reflect the social, professional, and moral concerns of the moment. 
+- 📙 Thomas Kuhn, *The Structure of Scientific Revolutions* (1962), 1-22 (esp. 1-9). Kuhn argues that science moves through periods of "normal science" punctuated by paradigm shifts where entire frameworks collapse. The basic idea is covered in Maza, but it's illuminating to read the introduction to the original for yourself.
 
 #### Discussion
 - Shapin says there was "no such thing" as the Scientific Revolution. What does he mean? Does that claim apply to the historiographical "turns" we've studied this semester?
