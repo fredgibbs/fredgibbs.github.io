@@ -42,6 +42,9 @@ As a Gen Ed course, the specific information in it is only one facet to the clas
 * **Source criticism** — asking who made a source, for whom, in what context, and what it leaves out (applies to academic texts, news articles, social media, and AI-generated content equally)
 * **Argument analysis** — evaluating how an author makes an argument and whether it's supported by sufficient evidence
 * **Structural analysis** — zooming out from events to ask what underlying systems (economic, social, geographic) made them possible
+* **Historical empathy** — assuming people had reasons for what they did, and reconstructing those reasons instead of judging from here
+
+Underneath all four is the habit this course is really built on: *causal thinking at different scales*. "France invaded" and "a few men in a room decided" and "the trade routes made it inevitable" are three answers to the same question, pitched at different levels. Knowing which level a claim is working at — and whether it's the right one — is a skill you can use on anything. See [Why Study History?](why-study-history) for the longer version.
 
 
 ## You are welcome here

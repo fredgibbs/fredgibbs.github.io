@@ -35,11 +35,8 @@ The course starts with a question that sounds simple but is surprisingly reveali
 
 ### 1.1: Welcome and Introduction
 - Course and syllabus introduction.
-- David Foster Wallace, [This is water](https://www.youtube.com/watch?v=GbAH5DAs1oU). This is condensed version of a Kenyon College Commencement speech from 2005 by the writer David Foster Wallace. The audio is Wallace giving his speech--there's no public video of it--while the video was made much later just to illustrate it. It's actually not bad, but the speech is the point here, not the video. The point guides the purpose of this class and historical awareness: true freedom is learning how to think consciously about what's around you. 
+- David Foster Wallace, [This is water](https://www.youtube.com/watch?v=GbAH5DAs1oU). This ~9 min. video is a condensed version of a Kenyon College Commencement speech from 2005 by the writer David Foster Wallace. The audio is Wallace giving his speech--there's no public recording of it--and the video was made much later just for fun. The video is pretty good, but the speech itself is the point here. It guides the purpose of this class and historical awareness: **true freedom is learning how to think consciously about what's around you.**
 
-{% include alert.html class='danger' title='First assignment: a history frustration' text="
-Before our second class meeting, write a short response (a few sentences to a paragraph) describing a frustration you've had with history — in school, in the news, in a museum, anywhere. No right answers, obviously, but what's your experience been?
-"%}
 
 #### Discussion: What counts as history?
 - Is a family story "history"? Is a Wikipedia article? Is a monument?
@@ -49,12 +46,18 @@ Before our second class meeting, write a short response (a few sentences to a pa
 ### 1.2: The Past vs. History
 The word "history" means a lot of things. Academic discipline, a political claim, as a way of making sense of the world. These readings use different angles to highlight a crucial distinction: the past is everything that happened; history — or more accurately *histories* — are purposeful, selective accounts of it that serve a purpose. And those purposes have always been constantly changing.
 
-- 📗 Fred Gibbs, [Why Study History?](why-study-history). A short piece I wrote for this course, mostly aimed at the reasonable suspicion that history is pointless. The core idea: every "why" question has an immediate answer and a much less obvious structural one. Learning about history is how you get the second kind. 
+- 📗 Fred Gibbs, [Why Study History?](why-study-history). A short piece I wrote for this course, aimed squarely at the reasonable suspicion that history is pointless. The core idea: every "why" question has answers at more than one scale — the immediate one, the institutions and people involved, and the structures underneath — and history is where you learn to tell them apart. The payoff isn't knowledge of the past; it's a technique you can point at anything.
 - 📜 E.H. Carr, *What Is History?* (1961), Ch. 1: "The Historian and His Facts," 3–35. REMEMBER that PDFs for readings like this are in the Zotero library! Carr is one of the twentieth century's most important thinkers about historical method. His argument — that facts don't speak for themselves, that historians choose which facts matter — is foundational for the course. Read quickly and focus on the central argument rather than every obscure reference (you're not expected to know them!)
 
 #### Discussion
 - What's the difference between a "fact" and a "historical fact"?
 - Carr wrote in 1961. Does his argument still hold?
+- Why study history?
+
+
+{% include alert.html class='danger' title='First assignment: history moments' text="
+As a way of passively introducing ourselves, please for your first reflection write out two short paragraphs that describe 1) a frustration you've had with history — in school, in the news, in a museum, anywhere; and 2) a time when history was provocative and made you think about the present a little differently. Under what circumstances do you think history is or isn't useful?
+"%}
 
 
 
@@ -176,7 +179,6 @@ Marx offered the most dramatic version of structural history: class conflict as 
 
 - 📗 Anna Green and Kathleen Troup, *The Houses of History*, 2: Marxist Historians, 33--41.
 - 📜 Karl Marx, *The Communist Manifesto* (1848), Part I: "Bourgeois and Proletarians," ~15 pp. Look for _how_ he argues that class struggle is the engine of history. Focus on the logic of his claim, not the politics.
-- 📜 Karl Marx, "The Eighteenth Brumaire of Louis Bonaparte" (1852), opening sections, ~15 pp. Marx's most explicitly historiographical piece. Famous opening line about history repeating "first as tragedy, then as farce." Focus on his theory of how the past constrains the present.
 
 #### Discussion
 - What is Marx's theory of historical change?
@@ -385,13 +387,6 @@ History and memory are clearly related, but exactly how do we define them in rel
 "%}
 
 
-{% include alert.html class='warning' title='Campus History AI URLs due' text="
-- Your AI draft is due BEFORE CLASS Thursday, when we discuss them!
-
-"%}
-
-
-
 ### 11.2: Campus History + Archives
 
 - AI and the Future of History
@@ -490,7 +485,7 @@ This week's [reading reflection](reading-reflections) is due by midnight on Canv
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/). This quick read serves two purposes: it's a nice overview of what food was likely available at the harvest celebration of 1621. And it's a good example of uncritical food history that focuses entirely on food without much of the historical context (neither in the 1600s or 1900s).
 
 
-### 14.2: Thanksgiving
+### 14.2: Thanksgiving! No Class. Nothing Due.
 
 
 
