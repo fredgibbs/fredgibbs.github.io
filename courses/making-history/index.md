@@ -13,7 +13,7 @@ section: home
 * Credit Hours: 3
 * Meetings: 11--12:15 Tuesday & Thursday, DSH 123
 * Student Hours: TBD
-* Office: 1077 Mesa Vista (also check 2068, [Amaranth](https://amaranath.unm.edu))
+* Office: 1077 Mesa Vista (also check 2068, [Amaranth](https://amaranth.unm.edu))
 * Email: fwgibbs@unm.edu
 
 
