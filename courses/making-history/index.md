@@ -81,7 +81,7 @@ Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-histo
 All assignments are graded as A, B, C, D, F. There are usually no plusses and minuses, but sometimes I can't resist. Canvas calculates these into percentages in the Gradebook, so you can always see your current percent and letter grade based on work you've submitted. 
 
 ### Assessment Philosophy
-The goal of this course is for you to *see* and engage with history differently—not to learn facts about the past. I care about the effort and thought you put into engaging with the material, not whether you get the "right" answer (because there usually isn't one).
+The goal of this course is for you to *see* and engage with history differently—not to learn facts about the past. I care about the effort and thought you put into engaging with the material, not whether you get the "right" answer (because there usually isn't one). You can turn in work up to Friday night for a one grade penalty, but the assignment closes at midnight. These aren't big assignments--just stay on track!
 
 </div>
 <div class="sy-grading-table" markdown="1">
