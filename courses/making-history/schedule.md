@@ -20,6 +20,12 @@ nav-depth: 2
 For almost everything we read, we're reading to ENGAGE with it, not because it's right. There is a LOT to disagree with across the readings, and we don't all have to agree on everything. The goal is to develop frameworks for thinking critically about how history gets made and used.
 "%}
 
+
+{% include alert.html class='warning' title='Familiarity Over Mastery' text="
+You can't learn everything in a reading the first time through. The point is not to think of the readings as a container for stuff you should know (like a biology textbook), but as a magazine editorial that trying to make a point that you are free to agree or disagree with. So your goal in reading is to be familiar with what the author is trying to do, not acquire information. If anything, you are trying to acquire an opinion about the reading. Do the work necessary for that. 
+"%}
+
+
 {% include alert.html class='info' title='Icon Guide' text="
 📗 = secondary overview — modern scholars explaining the topic; skim for context and orientation before engaging primary sources
 
@@ -35,7 +41,6 @@ The course starts with a question that sounds simple but is surprisingly reveali
 
 ### 1.1: Welcome and Introduction
 - Course and syllabus introduction.
-- David Foster Wallace, [This is water](https://www.youtube.com/watch?v=GbAH5DAs1oU). This ~9 min. video is a condensed version of a Kenyon College Commencement speech from 2005 by the writer David Foster Wallace. The audio is Wallace giving his speech--there's no public recording of it--and the video was made much later just for fun. The video is pretty good, but the speech itself is the point here. It guides the purpose of this class and historical awareness: **true freedom is learning how to think consciously about what's around you.**
 
 
 #### Discussion: What counts as history?
@@ -46,6 +51,7 @@ The course starts with a question that sounds simple but is surprisingly reveali
 ### 1.2: The Past vs. History
 The word "history" means a lot of things. Academic discipline, a political claim, as a way of making sense of the world. These readings use different angles to highlight a crucial distinction: the past is everything that happened; history — or more accurately *histories* — are purposeful, selective accounts of it that serve a purpose. And those purposes have always been constantly changing.
 
+- 📗 David Foster Wallace, [This is water](https://www.youtube.com/watch?v=GbAH5DAs1oU). This ~9 min. video is a condensed version of a Kenyon College Commencement speech from 2005 by the writer David Foster Wallace. The audio is Wallace giving his speech--there's no public recording of it--and the video was made much later just for fun. The video is pretty good, but the speech itself is the point here. It guides the purpose of this class and historical awareness: **true freedom is learning how to think consciously about what's around you.**
 - 📗 Fred Gibbs, [Why Study History?](why-study-history). A short piece I wrote for this course, aimed squarely at the reasonable suspicion that history is pointless. The core idea: every "why" question has answers at more than one scale — the immediate one, the institutions and people involved, and the structures underneath — and history is where you learn to tell them apart. The payoff isn't knowledge of the past; it's a technique you can point at anything.
 - 📜 E.H. Carr, *What Is History?* (1961), Ch. 1: "The Historian and His Facts," 3–35. REMEMBER that PDFs for readings like this are in the Zotero library! Carr is one of the twentieth century's most important thinkers about historical method. His argument — that facts don't speak for themselves, that historians choose which facts matter — is foundational for the course. Read quickly and focus on the central argument rather than every obscure reference (you're not expected to know them!)
 
@@ -56,7 +62,7 @@ The word "history" means a lot of things. Academic discipline, a political claim
 
 
 {% include alert.html class='danger' title='First assignment: history moments' text="
-As a way of passively introducing ourselves, please for your first reflection write out two short paragraphs that describe 1) a frustration you've had with history — in school, in the news, in a museum, anywhere; and 2) a time when history was provocative and made you think about the present a little differently. Under what circumstances do you think history is or isn't useful?
+As a way of passively introducing ourselves, please for your first refraction write out two short paragraphs that describe 1) a frustration you've had with history — in school, in the news, in a museum, anywhere; and 2) a time when history was provocative and made you think about the present a little differently. Under what circumstances do you think history is or isn't useful?
 "%}
 
 
@@ -92,8 +98,8 @@ Rome and Han dynasty China produced historical writing around the same time, in 
 
 
 
-{% include alert.html class='danger' title='Reading reflection due tonight' text="
-This week's [reading reflection](reading-reflections) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+{% include alert.html class='danger' title='Reading refraction due tonight' text="
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
 "%}
 
 ## 3: Divine Power
@@ -167,8 +173,8 @@ In the nineteenth century, historians began claiming that history could be a sci
 
 
 
-{% include alert.html class='danger' title='Reading reflection due tonight' text="
-This week's [reading reflection](reading-reflections) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+{% include alert.html class='danger' title='Reading refraction due tonight' text="
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
 "%}
 
 ## 5: Structural History
@@ -200,8 +206,8 @@ While Marx saw economics as history's motor, a group of French historians propos
 
 
 
-{% include alert.html class='danger' title='Reading reflection due tonight' text="
-This week's [reading reflection](reading-reflections) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+{% include alert.html class='danger' title='Reading refraction due tonight' text="
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
 "%}
 
 ## 6: History From Below
@@ -235,8 +241,8 @@ What if gender isn't just a topic (the history of women) but a lens for seeing h
 
 
 
-{% include alert.html class='danger' title='Reading reflection due tonight' text="
-This week's [reading reflection](reading-reflections) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+{% include alert.html class='danger' title='Reading refraction due tonight' text="
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
 "%}
 
 ## 7: Scales of History
@@ -278,8 +284,8 @@ Your [Historians Café](historians-cafe) assignment is due by MIDNIGHT ON TUESDA
 
 
 
-{% include alert.html class='danger' title='Reading reflection due tonight' text="
-This week's [reading reflection](reading-reflections) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+{% include alert.html class='danger' title='Reading refraction due tonight' text="
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
 "%}
 
 ## 8: Reflect and Rest
@@ -329,8 +335,8 @@ Western narratives of progress assumed their own universality — and that assum
 
 
 
-{% include alert.html class='danger' title='Reading reflection due tonight' text="
-This week's [reading reflection](reading-reflections) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+{% include alert.html class='danger' title='Reading refraction due tonight' text="
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
 "%}
 
 ## 10: Linguistic Turn + LLMs
@@ -363,8 +369,8 @@ The "linguistic turn" is the claim that because historians always use narrative,
 
 
 
-{% include alert.html class='danger' title='Reading reflection due tonight' text="
-This week's [reading reflection](reading-reflections) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+{% include alert.html class='danger' title='Reading refraction due tonight' text="
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
 "%}
 
 ## 11: Public History and Memory
@@ -472,8 +478,8 @@ Your [Campus History web page](campus-history-human) is due at the start of Week
 
 
 
-{% include alert.html class='danger' title='Reading reflection due tonight' text="
-This week's [reading reflection](reading-reflections) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+{% include alert.html class='danger' title='Reading refraction due tonight' text="
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
 "%}
 
 ## 14: Food

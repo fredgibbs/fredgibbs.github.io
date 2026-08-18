@@ -21,7 +21,7 @@ Our `Zotero Group homepage` is [https://www.zotero.org/groups/2703269/making-his
 Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-history-unm/library](https://www.zotero.org/groups/2703269/making-history-unm/library). Once you are a member of our group, this link is best for accessing our Zotero Library.
 
 ## Assignment Guides
-* [Reading Reflections](reading-reflections)
+* [Reading Refractions](reading-refractions)
 * [Class Engagement](class-engagement)
 * [Early Course Reflection](early-reflection)
 * [Historians Café Conversation](historians-cafe)
