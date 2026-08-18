@@ -8,16 +8,20 @@ section: links-guides
 ---
 
 # Final Course Reflection
-Your final course reflection should be ~1000 words and cover the entire course. Your job is to describe your learning experience and reflect on how the course has or has not met its learning objectives.
+Your final course reflection should be ~1000 words and cover the entire course. Your job is to describe your learning experience and reflect on how the course has or has not met its learning outcomes and helped you develop the thinking skills below.
 
 
-{% include alert.html class='info' title='Learning Objectives' text="
-* Understand that historical narratives are constructed, not discovered, and that the construction changes over time
-* Recognize how ideas about truth, evidence, and authority have shifted across different eras and approaches
-* Identify different 'flavors' of history (political, social, cultural, public, digital) and explain why they emerged when they did
-* Analyze how histories around you—in monuments, textbooks, holidays, media—shape daily life even when not apparent
-* Develop critical reading skills for evaluating historical claims in books, media, and public debate
-* Appreciate that 'history' often serves purposes beyond explaining the past: legitimacy, identity, resistance, entertainment, and more
+{% include alert.html class='info' title='Learning Outcomes' text="
+* Give examples of how and why ideas about historical truth, evidence, and authority have shifted across different eras
+* Analyze how stuff all around you—campus buildings, city streets, access to capital, media coverage—results from particular historical circumstances
+* Critically evaluate historical claims and uses of history in books, media, and public debate
+"%}
+
+{% include alert.html class='info' title='Critical Thinking Skills' text="
+* **Source criticism** — asking who made a source, for whom, in what context, and what it leaves out (applies to academic texts, news articles, social media, and AI-generated content equally)
+* **Argument analysis** — evaluating how an author makes an argument and whether it's supported by sufficient evidence
+* **Structural analysis** — zooming out from events to ask what underlying systems (economic, social, geographic) made them possible
+* **Historical empathy** — assuming people had reasons for what they did, and reconstructing those reasons instead of judging from here
 "%}
 
 
