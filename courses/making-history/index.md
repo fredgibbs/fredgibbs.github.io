@@ -11,9 +11,10 @@ section: home
 
 ## Logistics
 * Credit Hours: 3
-* Meetings: 11--12:15 Tuesday & Thursday
+* Meetings: 11--12:15 Tuesday & Thursday, DSH 123
 * Student Hours: TBD
 * Office: 1077 Mesa Vista
+* Email: fwgibbs@unm.edu
 
 
 ### Getting Started
