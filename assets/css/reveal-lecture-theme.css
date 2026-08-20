@@ -1,0 +1,340 @@
+/*
+ * Reveal.js lecture-slide theme
+ * ------------------------------
+ * A dark, quote-forward theme for close-reading lecture decks (one primary
+ * source quotation per slide, with room for explanation and a take-home
+ * line). First built for courses/making-history/slides/carr-historian-and-facts,
+ * following the aesthetic of courses/critical-thinking-with-ai/slides.
+ *
+ * Usage: pair with reveal.js 3.8.0's reset.css + reveal.css + theme/black.css,
+ * and the Fraunces / Inter / JetBrains Mono Google Fonts, e.g.:
+ *
+ *   <link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reset.css">
+ *   <link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reveal.css">
+ *   <link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/theme/black.css">
+ *   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+ *   <link rel="stylesheet" href="/assets/css/reveal-lecture-theme.css">
+ *
+ * Available block classes (all designed to sit inside a <section>):
+ *   .eyebrow       — small caps mono label above the slide heading
+ *   .main-point    — the slide's h1/h2 headline
+ *   .detail        — muted supporting paragraph (e.g. on title slides)
+ *   .rule          — short gradient divider line
+ *   .quote         — the primary, literal quotation (the centerpiece)
+ *     .quote .cite — mono citation line under a quote
+ *   .pull-quote    — secondary/supporting quotation, smaller and less bold
+ *   .reveal-block          — generic revealable explanation block
+ *   .reveal-block.unpack   — explanation variant (teal left border)
+ *   .reveal-block.historical — historical-detail variant (gold left border)
+ *   .reveal-block.argument   — argument variant (teal left border)
+ *   .swap          — stacks two fragments in the same grid cell so one
+ *                    replaces the other in place (see usage note below)
+ *   .compact       — modifier for .reveal-block/.pull-quote; tightens
+ *                    font-size/line-height/margins for text-heavy slides
+ *                    at risk of overflowing the fixed slide height
+ *   .takehome      — highlighted pithy takeaway line
+ *   .parallel      — two-column comparison (e.g. "then" vs. "now")
+ *     .parallel .track / .track.now / .track.ai
+ *   .cards         — grid of numbered recap cards
+ *     .card .num / .card h4 / .card p
+ *   ul.questions   — discussion-question list
+ *
+ * Add `fragment` to any of the above to have it reveal on click, per
+ * reveal.js convention. To have one fragment replace another in place
+ * (e.g. an explanation that gets swapped for a takehome line), wrap both
+ * elements in `.swap` so they occupy the same grid cell, give the outgoing
+ * element class `fade-in-then-out` (visible only while it is the current
+ * fragment), and give the incoming element the next sequential
+ * `data-fragment-index` as a plain `fragment` (fade-in, stays visible).
+ * Do NOT give them the same index — `fade-left`/`fade-right`/`fade-up`/
+ * `fade-down` are entrance styles (they start hidden and fade IN), not
+ * exits, so they will not disappear if used for the outgoing element.
+ */
+
+:root {
+	--ts-bg: #0d1412;
+	--ts-text: #e6ece4;
+	--ts-text-muted: #9fb1a3;
+	--ts-border: #22302b;
+	--ts-heading-1: #a8c686;
+	--ts-heading-2: #6fb3a0;
+	--ts-heading-3: #d9b26a;
+	--ts-accent: #d9b26a;
+}
+
+html, body, .reveal {
+	background: var(--ts-bg);
+}
+
+.reveal {
+	font-family: 'Inter', system-ui, sans-serif;
+	color: var(--ts-text);
+}
+
+.reveal .slides {
+	text-align: left;
+}
+
+.reveal .eyebrow {
+	font-family: 'JetBrains Mono', monospace;
+	text-transform: uppercase;
+	letter-spacing: 0.18em;
+	font-size: 0.5em;
+	color: var(--ts-heading-3);
+	margin: 0 0 0.9rem 0;
+}
+
+.reveal .main-point {
+	font-family: 'Fraunces', Georgia, serif;
+	font-size: 1.15em;
+	line-height: 1.1;
+	font-weight: 600;
+	color: var(--ts-heading-1);
+	margin: 0 0 0.4em 0;
+	letter-spacing: -0.015em;
+	text-wrap: balance;
+	font-style: italic;
+}
+
+.reveal .detail {
+	font-size: 0.75em;
+	line-height: 1.5;
+	color: var(--ts-text-muted);
+	margin: 0;
+	font-weight: 400;
+}
+
+.reveal .detail strong { color: var(--ts-text); font-weight: 600; }
+.reveal .detail em { color: var(--ts-heading-3); font-style: italic; }
+
+.reveal .rule {
+	height: 1px;
+	width: 140px;
+	margin: 0.5em 0;
+	background: linear-gradient(90deg, var(--ts-heading-2) 0%, var(--ts-accent) 60%, transparent 100%);
+}
+
+/* The literal quotation — the centerpiece of each slide */
+.reveal .quote {
+	font-family: 'Fraunces', Georgia, serif;
+	font-style: italic;
+	font-size: 0.72em;
+	line-height: 1.35;
+	color: var(--ts-heading-3);
+	border-left: 3px solid var(--ts-accent);
+	padding-left: 0.7em;
+	margin: 0.45em 0 0 0;
+	text-wrap: pretty;
+}
+
+.reveal .quote .cite {
+	display: block;
+	font-family: 'JetBrains Mono', monospace;
+	font-style: normal;
+	font-size: 0.5em;
+	letter-spacing: 0.12em;
+	text-transform: uppercase;
+	color: var(--ts-text-muted);
+	margin-top: 0.7em;
+}
+
+/* Secondary supporting quotation */
+.reveal .pull-quote {
+	font-family: 'Fraunces', Georgia, serif;
+	font-style: italic;
+	font-size: 0.55em;
+	color: var(--ts-heading-2);
+	border-left: 2px solid var(--ts-heading-2);
+	padding-left: 0.8em;
+	margin: 0.6em 0 0 0;
+	line-height: 1.4;
+}
+
+.reveal .pull-quote .cite {
+	display: block;
+	font-family: 'JetBrains Mono', monospace;
+	font-style: normal;
+	font-size: 0.62em;
+	letter-spacing: 0.12em;
+	text-transform: uppercase;
+	color: var(--ts-text-muted);
+	margin-top: 0.5em;
+}
+
+/* Revealable explanation / take-home blocks */
+.reveal .reveal-block {
+	margin-top: 0.55em;
+	padding: 0.35em 0 0.35em 0.7em;
+	border-left: 1px solid var(--ts-border);
+}
+
+.reveal .reveal-block .label {
+	font-family: 'JetBrains Mono', monospace;
+	font-size: 0.4em;
+	text-transform: uppercase;
+	letter-spacing: 0.18em;
+	color: var(--ts-heading-3);
+	display: block;
+	margin-bottom: 0.35em;
+}
+
+.reveal .reveal-block p {
+	font-size: 0.58em;
+	line-height: 1.45;
+	color: var(--ts-text-muted);
+	margin: 0;
+}
+
+.reveal .reveal-block p strong { color: var(--ts-text); font-weight: 600; }
+.reveal .reveal-block p em { color: var(--ts-heading-3); font-style: italic; }
+
+.reveal .reveal-block.unpack { border-left-color: var(--ts-heading-2); }
+.reveal .reveal-block.argument { border-left-color: var(--ts-heading-2); }
+.reveal .reveal-block.historical { border-left-color: var(--ts-accent); }
+
+/* Compact modifier: apply to .reveal-block or .pull-quote on slides whose
+   stacked quotes/explanation are long enough to risk overflowing the fixed
+   slide height (960x700). Tightens type and vertical rhythm without
+   changing the visual language. Try this before trimming prose. */
+.reveal .reveal-block.compact {
+	margin-top: 0.35em;
+	padding-top: 0.22em;
+	padding-bottom: 0.22em;
+}
+
+.reveal .reveal-block.compact p {
+	font-size: 0.48em;
+	line-height: 1.32;
+}
+
+.reveal .pull-quote.compact {
+	font-size: 0.48em;
+	line-height: 1.3;
+	margin-top: 0.35em;
+}
+
+/* Swap panel: stacks children in the same grid cell so one fragment can
+   visually replace another without a layout jump. The outgoing element
+   should use `fragment fade-in-then-out` (visible only while current) and
+   the incoming element should use plain `fragment` with the next
+   sequential data-fragment-index (NOT the same index — see usage note
+   above), so it appears exactly as the outgoing element disappears. */
+.reveal .swap {
+	display: grid;
+}
+
+.reveal .swap > * {
+	grid-column: 1;
+	grid-row: 1;
+}
+
+/* The pithy takehome line */
+.reveal .takehome {
+	margin-top: 0.6em;
+	padding: 0.5em 0 0.5em 0.8em;
+	border-left: 3px solid var(--ts-heading-1);
+	background: linear-gradient(90deg, rgba(168,198,134,0.07) 0%, transparent 70%);
+}
+
+.reveal .takehome .label {
+	font-family: 'JetBrains Mono', monospace;
+	font-size: 0.4em;
+	text-transform: uppercase;
+	letter-spacing: 0.18em;
+	color: var(--ts-heading-1);
+	display: block;
+	margin-bottom: 0.35em;
+}
+
+.reveal .takehome p {
+	font-family: 'Fraunces', Georgia, serif;
+	font-size: 0.68em;
+	line-height: 1.25;
+	color: var(--ts-heading-1);
+	margin: 0;
+	font-weight: 600;
+	text-wrap: balance;
+}
+
+/* Two-column comparison */
+.reveal .parallel {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 1em;
+	margin-top: 0.6em;
+}
+
+.reveal .parallel .track {
+	border-top: 2px solid var(--ts-heading-2);
+	padding-top: 0.45em;
+}
+
+.reveal .parallel .track.now,
+.reveal .parallel .track.ai { border-top-color: var(--ts-accent); }
+
+.reveal .parallel .track h5 {
+	font-family: 'JetBrains Mono', monospace;
+	font-size: 0.4em;
+	letter-spacing: 0.16em;
+	text-transform: uppercase;
+	color: var(--ts-heading-3);
+	margin: 0 0 0.35em 0;
+}
+
+.reveal .parallel .track p {
+	font-size: 0.52em;
+	line-height: 1.45;
+	color: var(--ts-text-muted);
+	margin: 0;
+}
+
+.reveal .parallel .track p strong { color: var(--ts-text); font-weight: 600; }
+
+/* Numbered recap cards */
+.reveal .cards {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 0.7em;
+	margin-top: 0.8em;
+}
+
+.reveal .card {
+	border-top: 2px solid var(--ts-heading-2);
+	padding: 0.4em 0 0 0;
+}
+
+.reveal .card .num {
+	font-family: 'JetBrains Mono', monospace;
+	font-size: 0.4em;
+	color: var(--ts-heading-3);
+	letter-spacing: 0.15em;
+	display: block;
+	margin-bottom: 0.3em;
+}
+
+.reveal .card h4 {
+	font-family: 'Fraunces', Georgia, serif;
+	font-style: italic;
+	font-size: 0.62em;
+	color: var(--ts-heading-1);
+	margin: 0 0 0.2em 0;
+	font-weight: 600;
+}
+
+.reveal .card p {
+	font-size: 0.42em;
+	line-height: 1.5;
+	color: var(--ts-text-muted);
+	margin: 0;
+}
+
+.reveal ul.questions {
+	font-size: 0.6em;
+	line-height: 1.6;
+	color: var(--ts-text-muted);
+	margin-top: 0.5em;
+}
+
+.reveal ul.questions li { margin-bottom: 0.4em; }
+.reveal ul.questions em { color: var(--ts-heading-3); font-style: italic; }
+.reveal ul.questions strong { color: var(--ts-text); font-weight: 600; }
