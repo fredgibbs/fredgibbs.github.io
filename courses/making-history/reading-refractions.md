@@ -88,6 +88,7 @@ You don't need documentation, and you don't need to explain more than you're com
 
 ## Basics
 
-- **250 words. 300 is the ceiling.** This is deliberately short. Brevity is not me trying to save you work — a tight limit forces you to decide what actually matters and commit to one idea, and that decision is precisely where thinking becomes visible. Padding, hedging, and throat-clearing all disappear when there's no room for them. If you can't get it under 300, you probably haven't figured out yet what your point is.
+- **~300 words** This is deliberately short to show your engagement over two days of readings, because A tight limit forces you to decide what actually matters, and that decision is precisely where thinking and engagement becomes visible. 
 - **Specific, not general.** Broad statements are fine *only* when backed by examples from the reading — point at an actual passage, argument, or moment. Otherwise it looks like you didn't read closely.
 - **Polished, not stiff.** Don't perform "academic." But it shouldn't read like a text message either. Overly informal posts do not show much effort.
+- **Overachieve, if you like.** You can write more than 300 words if you want to get a little extra credit. Maybe you have a few assignments that weren't your best and want to make up for them. But you don't get more points just for more words; the extra words have to reflect extra engagement.

@@ -100,7 +100,7 @@ Rome and Han dynasty China produced historical writing around the same time, in 
 
 
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 300 words, drawing on BOTH sets of readings *and* our discussions this week --- and not a literal answer to the discussion questions above. 
 "%}
 
 ## 3: Divine Power
