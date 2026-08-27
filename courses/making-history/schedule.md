@@ -77,7 +77,8 @@ The Greeks basically invented Western historical writing — but there wasn't ag
 
 - 📗 Jeremy Popkin, *From Herodotus to H-Net: The Story of Historiography* (2016), 26--40. 
 - 📜 Selections from Herodotus, *The Histories*, Book 1 ([the opening pages](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/1A*.html) + the story of Croesus), ~15 pp. The so-called "father of history" tells stories that mix research, hearsay, and moral lessons. Don't worry about the historical details — pay attention to HOW he tells the story, not just what happens, and what he seems to think history is for.
-- 📜 Thucydides, *History of the Peloponnesian War*, the "Funeral Oration of Pericles" and the "Melian Dialogue" (both are PDFs in Zotero), ~7 pages total. More analytical and harder than Herodotus, but try to identify HOW this is the case. Thucydides claims to write only what he can verify. Does that seem to be true in your reading? 
+- 📜 Thucydides, *History of the Peloponnesian War*, the "Funeral Oration of Pericles" and the "Melian Dialogue" (both are PDFs in Zotero), ~7 pages total. More analytical and harder than Herodotus, but try to identify HOW. Thucydides claims to write only what he can verify. Does that seem to be true in your reading? 
+<!-- - Slides with [Key Quotes from Popkin, Herodotus, and Thucydides](slides/greeks-evidence-and-purpose/) -->
 
 #### Discussion
 - What counts as evidence for Herodotus? For Thucydides?
@@ -88,7 +89,7 @@ The Greeks basically invented Western historical writing — but there wasn't ag
 ### 2.2: Ancient History — Purpose and Form
 Rome and Han dynasty China produced historical writing around the same time, in complete independence from each other — and arrived at strikingly similar conclusions about what history is for, but with telling differences. Reading them side by side helps us see where they agree, where they diverge, and what that tells us about why societies write history at all.
 
-- 📜 Livy, *Ab Urbe Condita*, Preface + Book I, Ch. 57–60 ("The Rape of Lucretia"), ~10 pp. Read the preface first — Livy tells you exactly what he thinks history is for. Then read the Lucretia passage and notice how a single dramatic story carries enormous moral and political weight: the end of a dynasty, the birth of a Republic, all hinging on one woman's death. This is what Livy means when he says history provides moral examples.
+- 📜 Livy, *Ab Urbe Condita*, [Preface](https://cmuntz.hosted.uark.edu/classes/roman-empire/livy-preface.html) + Book I, Ch. 57–60 ("The Rape of Lucretia"), ~10 pp. Read the preface first — Livy tells you exactly what he thinks history is for. Then read the Lucretia passage and notice how a single dramatic story carries enormous moral and political weight: the end of a dynasty, the birth of a Republic, all hinging on one woman's death. 
 - 📜 Sima Qian, *[Records of the Grand Historian](https://ctext.org/shiji/xiang-yu-ben-ji)* (selection on the fall of Xiang Yu), sections 38--45. Writing in Han dynasty China around 100 BCE, Sima Qian invented Chinese historical biography. His account of Xiang Yu's defeat is vivid, morally complex, and structured very differently from Livy. But both historians use dramatic narrative about political downfall to make arguments about power and virtue. What is Sima Qian's argument? How does the form of the story carry it?
 
 #### Discussion
