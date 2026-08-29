@@ -21,7 +21,7 @@ Fourteen readings across eight sessions. Six sessions carry one; **13.1 carries 
 
 **Spiegel**, "History, Historicism, and the Social Logic of the Text in the Middle Ages," *Speculum* 65, no. 1 (1990)
 
-Sits behind Bede, the *Anglo-Saxon Chronicle*, and Al-Biruni. The students read three medieval sources and notice they look nothing like modern history; Spiegel supplies the argument for *why that isn't a deficiency* — the chronicles are doing political work through form. This is the load-bearing claim of the session and the students never see it stated.
+Sits behind Bede, the *Anglo-Saxon Chronicle*, and al-Biruni. The students read three medieval sources and notice they look nothing like modern history; Spiegel supplies the argument for *why that isn't a deficiency* — the chronicles are doing political work through form. This is the load-bearing claim of the session and the students never see it stated.
 
 ---
 

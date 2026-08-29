@@ -101,7 +101,7 @@ Rome and Han dynasty China produced historical writing around the same time, in 
 
 
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 300 words, drawing on BOTH sets of readings *and* our discussions this week --- and not a literal answer to the discussion questions above. 
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on BOTH sets of readings *and* our discussions this week --- and not a literal answer to the discussion questions above. 
 "%}
 
 ## 3: Divine Power
@@ -112,19 +112,14 @@ Every society decides who gets to write history and what counts as valid evidenc
 Medieval historians didn't share our notions about evidence, causation, or what history was supposed to accomplish. For a Christian monk, God was a perfectly valid historical force. For an Islamic scholar studying a foreign culture, the goal was rigorous cross-cultural documentation. These three texts show very different answers to a question we've already surfaced but barely scratched: what makes history trustworthy? It looks like a lot of stuff for today, but the three primary sources are super short excerpts just to give you a sense of the style and approach.
 
 - 📗 Jeremy Popkin, *From Herodotus to H-Net: The Story of Historiography* (2016), 40--47. 
-- 📜 Excerpts from the *Anglo-Saxon Chronicle* (selected annals), ~5 pp. Bare-bones year-by-year record. What counts as worth recording — and what gets left out entirely?
-- 📜 Bede, *Ecclesiastical History of the English People* (selections), ~10 pp. A monk writing the history of England as the story of Christianity's arrival. Miracles are evidence here. Pay attention to what Bede thinks history is *for* — compare his answer to Livy's.
-- 📜 Al-Biruni, *Kitab al-Hind* (*The Book of India*), Preface, ~8 pp. Writing in the Islamic world around 1017 CE, Al-Biruni traveled to India to study its culture, learning Sanskrit and consulting sources before making any claims. His preface reads almost like a modern methodology section: he names his biases, describes his sources, and explains what kinds of evidence he will and won't trust. Set alongside Bede, it shows a very different medieval answer to the question of how history should be done.
+- 📜 Skim to get a general flavor of the *[Anglo-Saxon Chronicle](https://en.wikisource.org/wiki/The_Anglo-Saxon_Chronicle_%28Giles%29)*, and read more carefully the annals for 787--900 (the Viking raids and Alfred), ~5 pp. Use the browser's find function to jump to "A. 787" and read through "A. 900". What counts as worth recording — and what gets left out entirely?
+- 📜 Bede, *Ecclesiastical History of the English People* (731), ~10 pp. Read three short pieces: the [Preface](https://www.gutenberg.org/cache/epub/38326/pg38326-images.html#Preface) (his letter to King Ceolwulf, where he lists exactly who told him what), [Book I, Ch. VII](https://www.gutenberg.org/cache/epub/38326/pg38326-images.html#toc25) (the martyrdom of St. Alban), and [Book II, Ch. XIII](https://www.gutenberg.org/cache/epub/38326/pg38326-images.html#Book_II_Chap_XIII) (King Edwin's council, and the sparrow flying through the hall). A monk writing the history of England as the story of Christianity's arrival. Miracles are evidence here. Pay attention to what Bede thinks history is *for* — compare his answer to Livy's.
+- 📜 al-Biruni, *Kitab al-Hind* (*The Book of India*), [Preface](https://www.laphamsquarterly.org/roundtable/everlasting-monuments-pen), ~5 pp. Read the editors' introduction (in the tan box); al-Biruni's texts start at "No one will deny...". Writing in the Islamic world around 1017 CE, al-Biruni traveled to India to study its culture, learning Sanskrit and consulting sources before making any claims. His preface reads almost like a modern methodology section: he names his biases, describes his sources, and explains what kinds of evidence he will and won't trust. Set alongside Bede, it shows a very different medieval answer to the question of how history should be done.
 
 #### Discussion
 - What makes Bede's history different from Herodotus or Thucydides? From Livy?
-- What role does God play as a historical actor for Bede? What plays a comparable role for Al-Biruni?
-- Al-Biruni explicitly describes ideas about methodology and evidence — what does he think *good* history requires? Do miracles count?
-
-{% include alert.html class='warning' title='Early Reflection due next session' text="
-The [Early Course Reflection](early-reflection) is due before Thursday's class — a 400–500 word check-in on how the course is going for you so far. It is not a test and there are no right answers; I'm asking this early so there's still time to change things. Jot notes as you do this week's reading: what has stuck, what has felt like noise, where you are right now.
-"%}
-
+- What role does God play as a historical actor for Bede? What plays a comparable role for al-Biruni?
+- al-Biruni explicitly describes ideas about methodology and evidence — what does he think *good* history requires? Do miracles count?
 
 ### 3.2: Early Modern Statecraft
 By the Renaissance, some writers had a sharply practical answer to "what is history for?": it teaches you how power works. Machiavelli is the famous example.
@@ -136,9 +131,17 @@ By the Renaissance, some writers had a sharply practical answer to "what is hist
 - How does Machiavelli use historical examples?
 - What's the difference between using history to *teach virtue* (ancients) and using it to *gain power* (Machiavelli)?
 
+#### Looking back across weeks 2 and 3
+We lost week 2 (sorry!), so we'll spend part of today pulling the ancient and medieval readings together.
 
-{% include alert.html class='danger' title='Early Reflection due' text="
-Submit your [early reflection](early-reflection) to Canvas before the end of the day. This is a 400–500 word check-in on your experience so far — not a test, but a genuine report on what's working and what isn't. Graded on completion, care, and honest effort.
+- Every one of these writers tells you, directly or not, what history is *for*. Line up their answers — Herodotus, Thucydides, Livy, Sima Qian, the *Anglo-Saxon Chronicle*, Bede, al-Biruni, Machiavelli. Where are the real disagreements, and where are they just different vocabulary for the same idea?
+- What counts as good evidence for each of them? Thucydides wants only what he can verify; Bede treats miracles as proof; al-Biruni wants named sources and declared biases. Is that a story of progress, or just of difference?
+- Livy and Machiavelli both mine the Roman past for lessons. Do they want the same *kind* of lesson?
+- Which of these eight would recognize each other as doing the same job?
+
+
+{% include alert.html class='danger' title='Reading refraction due tonight' text="
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Because week 2 was cancelled, this one covers **both** weeks --- the ancient historians as well as this week's medieval and early modern ones. What is the story of history over the last two weeks of readings?
 "%}
 
 
@@ -159,6 +162,10 @@ The Enlightenment didn't just produce new history — it produced a new theory o
 - Is the idea of "progress" a historical fact or a story we tell?
 - Who benefits from a story of inevitable progress? Who doesn't?
 
+{% include alert.html class='warning' title='Extra credit: Early Course Reflection' text="
+The [Early Course Reflection](early-reflection) is now **extra credit** --- optional, but genuinely useful to me. It is a ~300 word check-in on how the course is going for you so far: what has stuck, what has felt like noise, where you are right now. Not a test, and there are no right answers. Submit to Canvas by the end of the day.
+"%}
+
 
 ### 4.2: Scientific History
 In the nineteenth century, historians began claiming that history could be a science — rigorous, evidence-based, objective in ways earlier history hadn't been. That claim transformed the profession. 
@@ -176,7 +183,7 @@ In the nineteenth century, historians began claiming that history could be a sci
 
 
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
 "%}
 
 ## 5: Structural History
@@ -209,7 +216,7 @@ While Marx saw economics as history's motor, a group of French historians propos
 
 
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
 "%}
 
 ## 6: History From Below
@@ -244,7 +251,7 @@ What if gender isn't just a topic (the history of women) but a lens for seeing h
 
 
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
 "%}
 
 ## 7: Scales of History
@@ -287,7 +294,7 @@ Your [Historians Café](historians-cafe) assignment is due by MIDNIGHT ON TUESDA
 
 
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
 "%}
 
 ## 8: Reflect and Rest
@@ -338,7 +345,7 @@ Western narratives of progress assumed their own universality — and that assum
 
 
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
 "%}
 
 ## 10: Linguistic Turn + LLMs
@@ -372,7 +379,7 @@ The "linguistic turn" is the claim that because historians always use narrative,
 
 
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
 "%}
 
 ## 11: Public History and Memory
@@ -481,7 +488,7 @@ Your [Campus History web page](campus-history-human) is due at the start of Week
 
 
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Around 250 words (300 max) drawing on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
 "%}
 
 ## 14: Food
@@ -532,5 +539,5 @@ This is our last meeting. The [Final Course Reflection](final-course-reflection)
 ## 16: No Class
 
 {% include alert.html class='danger' title='Final Course Reflection due' text="
-Submit your [final course reflection](final-course-reflection) to Canvas. This is a ~1000-word reflection on what you learned, what you wish you had, how the course has or hasn't changed your thinking, and your own experience in it. Graded on honest engagement, specific examples, and a personal voice that couldn't have come from AI.
+Submit your [final course reflection](final-course-reflection) to Canvas. This is a reflection on what you learned, what you wish you had, how the course has or hasn't changed your thinking, and your own experience in it. Graded on honest engagement, specific examples, and a personal voice that couldn't have come from AI.
 "%}

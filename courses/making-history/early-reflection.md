@@ -9,11 +9,11 @@ section: links-guides
 
 # Early Course Reflection
 
-This is not a test. There are no right answers.
+This is not a test. There are no right answers. **It is also extra credit** — entirely optional, and it can only help your grade.
 
 This is a **400–500 word check-in** on how the course is going for you so far. I'm asking this early — only a few weeks in — because feedback I get at the end of a semester can only help the *next* group of students. Feedback I get now can change the course you're actually in.
 
-This is graded on **completion, care, and honest effort**, not polish of writing or correctness of analysis. 
+This is graded on **completion, care, and honest effort**, not polish of writing or correctness of analysis. Because it is extra credit, there is no penalty for skipping it — but a real one takes twenty minutes and is worth doing.
 
 A thoughtful, honest response that gives examples of where you were confused and feeling disconnected will earn full credit. A polished non-answer that could have been written by AI does not demonstrate effort.
 

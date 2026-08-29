@@ -65,9 +65,9 @@ Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-histo
 
 
 ## Course Work
-* [Reading refractions](reading-refractions) (15%)
+* [Reading refractions](reading-refractions) (25%)
 * [Class engagement](class-engagement) (15%)
-* [Early Course Reflection](early-reflection) (10%)
+* [Early Course Reflection](early-reflection) (extra credit)
 * [Historians Café Conversation](historians-cafe) (15%)
 * [Campus History via AI](campus-history-ai) (5%)
 * [Campus History via the archive](campus-history-human) (15%)
