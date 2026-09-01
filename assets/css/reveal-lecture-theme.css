@@ -22,6 +22,7 @@
  *   .rule          — short gradient divider line
  *   .quote         — the primary, literal quotation (the centerpiece)
  *     .quote .cite — mono citation line under a quote
+ *     .quote.compact — tightened variant for long source passages
  *   .pull-quote    — secondary/supporting quotation, smaller and less bold
  *   .reveal-block          — generic revealable explanation block
  *   .reveal-block.unpack   — explanation variant (teal left border)
@@ -35,9 +36,11 @@
  *   .takehome      — highlighted pithy takeaway line
  *   .parallel      — two-column comparison (e.g. "then" vs. "now")
  *     .parallel .track / .track.now / .track.ai
+ *     .parallel.compact — tightened variant for text-heavy comparisons
  *   .cards         — grid of numbered recap cards
  *     .card .num / .card h4 / .card p
  *   ul.questions   — discussion-question list
+ *     ul.questions.compact — tightened variant for long question lists
  *
  * Add `fragment` to any of the above to have it reveal on click, per
  * reveal.js convention. To have one fragment replace another in place
@@ -207,10 +210,39 @@ html, body, .reveal {
 	line-height: 1.32;
 }
 
+/* Compact modifier for the primary quotation, for slides where a long
+   source passage plus its unpacking will not otherwise fit the 960x700 box. */
+.reveal .quote.compact {
+	font-size: 0.63em;
+	line-height: 1.28;
+}
+
+.reveal .quote.compact .cite {
+	margin-top: 0.5em;
+}
+
 .reveal .pull-quote.compact {
 	font-size: 0.48em;
 	line-height: 1.3;
 	margin-top: 0.35em;
+}
+
+/* Compact modifier for two-column comparisons. Same purpose as
+   .reveal-block.compact: tighten a text-heavy .parallel rather than cutting
+   the comparison down to stubs. */
+.reveal .parallel.compact {
+	gap: 0.85em;
+	margin-top: 0.45em;
+}
+
+.reveal .parallel.compact .track h5 {
+	font-size: 0.36em;
+	margin-bottom: 0.28em;
+}
+
+.reveal .parallel.compact .track p {
+	font-size: 0.46em;
+	line-height: 1.36;
 }
 
 /* Swap panel: stacks children in the same grid cell so one fragment can
@@ -221,6 +253,10 @@ html, body, .reveal {
    above), so it appears exactly as the outgoing element disappears. */
 .reveal .swap {
 	display: grid;
+	/* Pin the single stacking column to the full container width. Without this
+	   the implicit `auto` track is sized from the widest child, so a takehome
+	   could render at a different width depending on its siblings. */
+	grid-template-columns: minmax(0, 1fr);
 }
 
 .reveal .swap > * {
@@ -253,7 +289,6 @@ html, body, .reveal {
 	color: var(--ts-heading-1);
 	margin: 0;
 	font-weight: 600;
-	text-wrap: balance;
 }
 
 /* Two-column comparison */
@@ -333,6 +368,17 @@ html, body, .reveal {
 	line-height: 1.6;
 	color: var(--ts-text-muted);
 	margin-top: 0.5em;
+}
+
+/* Compact modifier for question lists on discussion slides that would
+   otherwise run past the bottom of the 960x700 box. */
+.reveal ul.questions.compact {
+	font-size: 0.52em;
+	line-height: 1.45;
+}
+
+.reveal ul.questions.compact li {
+	margin-bottom: 0.5em;
 }
 
 .reveal ul.questions li { margin-bottom: 0.4em; }

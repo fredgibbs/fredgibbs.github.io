@@ -9,12 +9,22 @@ section: home
 
 # Making History
 
-## Logistics
+## Course Logistics
+* HIST 1105-001: Making History
 * Credit Hours: 3
 * Meetings: 11--12:15 Tuesday & Thursday, DSH 123
-* Student Hours: TBD
-* Office: 1077 Mesa Vista (also check 2068, [Amaranth](https://amaranth.unm.edu))
+
+## Instructor
+* Prof. Fred Gibbs
 * Email: fwgibbs@unm.edu
+* Office: 1077 Mesa Vista (also check 2068, [Amaranth](https://amaranth.unm.edu))
+* Student Hours: Monday @ 9:30 to 11 and by appointment
+
+## Teaching Assistant
+* Sierra Ramirez
+* Email: sramirez88340@unm.edu
+* Office: 2061 Mesa Vista Hall 
+* Student Hours: Wednesday @ 10:00 AM, Thursday @ 1:00 PM
 
 
 ### Getting Started

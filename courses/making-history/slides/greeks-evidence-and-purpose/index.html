@@ -3,13 +3,112 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-		<title>Storytelling, Evidence, and Purpose — Herodotus and Thucydides</title>
+		<title>Ancient History: Evidence, Purpose, and Form — Herodotus, Thucydides, Livy, Sima Qian</title>
 
 		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reset.css">
 		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reveal.css">
 		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/theme/black.css">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
 		<link rel="stylesheet" href="/assets/css/reveal-lecture-theme.css">
+
+		<style>
+			/* Image-only slides */
+			.reveal section.image-slide {
+				text-align: center;
+				height: 100%;
+			}
+
+			.reveal section.image-slide figure {
+				margin: 0;
+				padding: 0;
+				height: 100%;
+				width: 100%;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				gap: 1.2em;
+			}
+
+			/* Landscape: caption below the image */
+			.reveal section.image-slide figure.landscape {
+				flex-direction: column;
+			}
+
+			/* Portrait: caption to the right of the image */
+			.reveal section.image-slide figure.portrait {
+				flex-direction: row;
+			}
+
+			.reveal section.image-slide img {
+				display: block;
+				border: 1px solid var(--ts-border);
+				box-shadow: 0 6px 30px rgba(0,0,0,0.45);
+				background: #1a1a1a;
+				object-fit: contain;
+				min-height: 0;
+			}
+
+			.reveal section.image-slide figure.landscape img {
+				max-width: 100%;
+				max-height: 85%;
+				width: auto;
+				height: auto;
+			}
+
+			.reveal section.image-slide figure.portrait img {
+				max-height: 100%;
+				max-width: 65%;
+				width: auto;
+				height: auto;
+				flex-shrink: 1;
+			}
+
+			.reveal section.image-slide figcaption {
+				font-family: 'JetBrains Mono', monospace;
+				font-size: 0.45em;
+				letter-spacing: 0.12em;
+				text-transform: uppercase;
+				color: var(--ts-heading-3);
+				line-height: 1.4;
+			}
+
+			.reveal section.image-slide figure.landscape figcaption {
+				text-align: center;
+				max-width: 90%;
+				flex-shrink: 0;
+			}
+
+			.reveal section.image-slide figure.portrait figcaption {
+				text-align: left;
+				max-width: 35%;
+				flex-shrink: 0;
+				border-left: 1px solid var(--ts-border);
+				padding-left: 1em;
+			}
+
+			/* Italic titles inside a caption use <i> so they stay inline —
+			   <em> is reserved for the block-level note/credit line below. */
+			.reveal section.image-slide figcaption i {
+				font-style: italic;
+				text-transform: none;
+				letter-spacing: 0.02em;
+			}
+
+			.reveal section.image-slide figcaption em i {
+				letter-spacing: 0;
+			}
+
+			.reveal section.image-slide figcaption em {
+				font-family: 'Fraunces', Georgia, serif;
+				font-style: italic;
+				text-transform: none;
+				letter-spacing: 0;
+				color: var(--ts-text-muted);
+				display: block;
+				margin-top: 0.4em;
+				font-size: 1.15em;
+			}
+		</style>
 
 		<script>
 			var link = document.createElement( 'link' );
@@ -25,44 +124,24 @@
 
 				<!-- ========== TITLE ========== -->
 				<section data-transition="fade">
-					<p class="eyebrow">Making History &bull; HIST 1105 &bull; 2.1</p>
-					<h1 class="main-point">Storytelling, Evidence, and Purpose</h1>
-					<div class="rule"></div>
-					<p class="detail">
-						Popkin, <em>From Herodotus to H-Net</em>, ch. 2 &middot;
-						Herodotus, <em>The Histories</em> &middot;
-						Thucydides, <em>History of the Peloponnesian War</em>
-					</p>
-					<p class="detail" style="margin-top:0.8em; font-size:0.5em;">
-						Popkin cited by page. Herodotus by book and section; Thucydides by book and chapter.
-					</p>
+					<p class="eyebrow">Making History &bull; HIST 1105 &bull; Week 2 Overview</p>
+					<h1 class="main-point">Evidence, Purpose, and Form</h1>
 				</section>
 
-				<!-- ========== THE CLAIM FOR TODAY ========== -->
+				<!-- ========== THE CLAIM FOR THE WEEK ========== -->
 				<section data-transition="fade">
-					<p class="eyebrow">The claim for today</p>
-					<h2 class="main-point">The Greeks invented history writing &mdash; and immediately split over what counts as evidence</h2>
+					<p class="eyebrow">Take home this week</p>
+					<h2 class="main-point">Four writers, no agreed rules &mdash; each tells you what history is <em>for</em></h2>
 					<div class="rule"></div>
 
 					<div class="reveal-block unpack fragment">
 						<span class="label">Not the version you&rsquo;ve heard</span>
-						<p>
-							The cliché is <em>storyteller vs. scientist</em>. Set it aside. Herodotus is doing real
-							research; Thucydides is still shaping his material for effect. The interesting question
-							isn&rsquo;t who is more objective &mdash;
-							it&rsquo;s <strong>what each one thought he owed to the truth, and what he thought he
-							owed to the reader.</strong>
-						</p>
+						<p>The clich&eacute; is <em>storyteller vs. scientist</em>. Set it aside. Herodotus is doing real research; Thucydides is still shaping his material for effect. The interesting question isn&rsquo;t who is more objective &mdash; it&rsquo;s <strong>what each one thought he owed to the truth, and what he thought he owed to the reader.</strong></p>
 					</div>
 
 					<div class="reveal-block historical fragment">
-						<span class="label">Carrying over from 1.2</span>
-						<p>
-							Every &ldquo;why&rdquo; has an immediate answer and a structural one. Herodotus mostly works
-							the immediate register &mdash; an insult, a king&rsquo;s pride, one woman&rsquo;s death.
-							Thucydides reaches for structure &mdash; power, fear, interest. Same kind of event,
-							different altitude.
-						</p>
+						<span class="label">Where Thursday goes</span>
+						<p>Livy in Rome and Sima Qian in Han China write within a lifetime of each other, <strong>with no knowledge of one another</strong>, and both conclude the past must be <em>useful</em>. Same question as the Greeks, two independent answers.</p>
 					</div>
 				</section>
 
@@ -71,174 +150,86 @@
 				<!-- ================================================================ -->
 
 				<section data-transition="fade">
-					<p class="eyebrow">Part one</p>
-					<h2 class="main-point">Popkin, ch. 2 &mdash; before we open either Greek</h2>
+					<p class="eyebrow">Part one &middot; 2.1</p>
+					<h2 class="main-point">Popkin, ch. 2</h2>
 					<div class="rule"></div>
-					<p class="detail">
-						Five things to take from the secondary reading. They set up every primary source we touch
-						this week and next.
-					</p>
+					<p class="detail">Four things to take from the secondary reading. These set up the primary sources for weeks 2 and 3.</p>
 				</section>
 
-				<!-- ========== POPKIN 1: THE PROGRESS STORY ========== -->
+				<!-- ========== POPKIN 1: TWO DEFLATIONS ========== -->
 				<section>
-					<p class="eyebrow">Popkin 01 &middot; The story Popkin refuses to tell</p>
-					<h2 class="main-point">History-of-history is usually written as a victory lap</h2>
+					<p class="eyebrow">Popkin 01 &middot; Two correctives</p>
+					<h2 class="main-point">Not a progress story &mdash; not THE beginning</h2>
 
-					<p class="quote fragment" data-fragment-index="0">
-						&ldquo;For much of the twentieth century, the history of history was written as a story of
-						progress, in the course of which historical thinking gradually freed itself from mythical and
-						religious elements and adopted a scientific perspective.&rdquo;
-						<span class="cite">Popkin, <em>From Herodotus to H-Net</em>, p. 26</span>
-					</p>
+					<p class="quote fragment" data-fragment-index="0">&ldquo;For much of the twentieth century, for example, the history of history was written as a story of progress, in the course of which historical thinking gradually freed itself from mythical and religious elements and adopted a scientific perspective.&rdquo; <span class="cite">Popkin, <em>From Herodotus to H-Net</em>, p. 26</span></p>
 
 					<div class="swap">
 						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1">
-							<span class="label">And his correction</span>
-							<p>
-								Older approaches are not, he says, &ldquo;simply&hellip; outmoded approaches that have now
-								been replaced by the &lsquo;proper&rsquo; way of doing history&rdquo;; instead
-								<strong>&ldquo;there have always been multiple perspectives from which the past can be
-								viewed&rdquo;</strong> and &ldquo;the predominant ways of recording history have changed
-								over time&rdquo; (p. 27). This is the design principle of our whole syllabus: we are not
-								climbing a ladder toward the correct method.
-							</p>
+							<span class="label">Point 1/2: not a ladder</span>
+							<p>Older approaches are not &ldquo;simply&hellip; outmoded approaches that have now been replaced by the &lsquo;proper&rsquo; way of doing history&rdquo;; instead <strong>&ldquo;there have always been multiple perspectives from which the past can be viewed&rdquo;</strong> (p. 27). This is the design principle of our whole syllabus.</p>
 						</div>
-						<div class="takehome fragment" data-fragment-index="2">
+						<div class="reveal-block historical fragment fade-in-then-out compact" data-fragment-index="2">
+							<span class="label">Point 2/2: not first, and it isn&rsquo;t close</span>
+							<p>They &ldquo;were certainly not the first people to record information about historical events or to construct stories about the past&rdquo; (pp. 27&ndash;28). Egypt kept king lists for centuries; Persia had its own traditions; both Greeks knew Homer; the Jews had written down their origins. And in China, <strong>Confucius</strong> insisted on remembering the past &ldquo;to draw lessons from them that would guide appropriate conduct in the present&rdquo; (p. 28) &mdash; a claim we see again soon.</p>
+						</div>
+						<div class="takehome fragment" data-fragment-index="3">
 							<span class="label">Take home</span>
-							<p>Read these authors as <em>different answers</em>, not as rough drafts of us.</p>
+							<p>Recording the past is ordinary and ancient. Read these authors as <em>different answers</em>, not as rough drafts of us.</p>
 						</div>
 					</div>
 				</section>
 
-				<!-- ========== POPKIN 2: NOT FIRST ========== -->
+				<!-- ========== POPKIN 2: THE KEY QUOTE ========== -->
 				<section>
-					<p class="eyebrow">Popkin 02 &middot; The deflation</p>
-					<h2 class="main-point">They were not first, and it isn&rsquo;t close</h2>
+					<p class="eyebrow">Popkin 02 &middot; The key innovation</p>
+					<h2 class="main-point">What was new: <em>method</em></h2>
 
-					<p class="quote fragment" data-fragment-index="0">
-						&ldquo;Herodotus and Thucydides were certainly not the first people to record information about
-						historical events or to construct stories about the past.&rdquo;
-						<span class="cite">Popkin, pp. 27&ndash;28</span>
-					</p>
-
-					<div class="swap">
-						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1">
-							<span class="label">Who got there first</span>
-							<p>
-								<strong>Egypt</strong> kept records of rulers going back centuries &mdash; Herodotus says so
-								himself. <strong>Persia</strong> had its own traditions. Both Greeks knew
-								<strong>Homer</strong> intimately. The <strong>Jews</strong> had preserved the story of
-								their origins, later written into the Bible. And in China, <strong>Confucius</strong>
-								insisted on remembering past events &ldquo;to draw lessons from them that would guide
-								appropriate conduct in the present&rdquo; (p. 28) &mdash; a claim about the usefulness of
-								the past we will meet again in Livy, in Machiavelli, and in Week 4.
-							</p>
-						</div>
-						<div class="takehome fragment" data-fragment-index="2">
-							<span class="label">Take home</span>
-							<p>Recording the past is ordinary and ancient. Something else is what&rsquo;s new here.</p>
-						</div>
-					</div>
-				</section>
-
-				<!-- ========== POPKIN 3: THE KEY QUOTE ========== -->
-				<section>
-					<p class="eyebrow">Popkin 03 &middot; The load-bearing sentence of the chapter</p>
-					<h2 class="main-point">What was new was a <em>method</em></h2>
-
-					<p class="quote fragment" data-fragment-index="0">
-						&ldquo;What made the works of Herodotus and Thucydides different&hellip; was their attempt to
-						define history as a distinct method of telling the story of the past, unique above all because
-						of its devotion to the use of critically examined evidence in order to discover and transmit
-						the truth about bygone events.&rdquo;
-						<span class="cite">Popkin, p. 28</span>
-					</p>
+					<p class="quote fragment" data-fragment-index="0">&ldquo;What made the works of Herodotus and Thucydides different&hellip; was their attempt to define history as a distinct method of telling the story of the past, unique above all because of its devotion to the use of critically examined evidence in order to discover and transmit the truth about bygone events.&rdquo; <span class="cite">Popkin, p. 28</span></p>
 
 					<div class="swap">
 						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1">
 							<span class="label">Unpacking it</span>
-							<p>
-								Notice how much work <em>&ldquo;critically examined&rdquo;</em> is doing. Not
-								<em>recorded</em>, not <em>preserved</em> &mdash; <strong>examined</strong>. A claim now
-								comes with a procedure attached, and a procedure can be challenged by someone else.
-								Popkin adds the part that makes today make sense: the two of them
-								&ldquo;had to <strong>define for themselves</strong> what history should take as its
-								subject, what materials it should draw on, how they should be evaluated, and what
-								purposes it should be designed to achieve&rdquo; (p. 28).
-							</p>
+							<p>Notice how much work <em>&ldquo;critically examined&rdquo;</em> is doing. Not <em>recorded</em>, not <em>preserved</em> &mdash; <strong>examined</strong>. A claim now comes with a procedure attached, and a procedure can be challenged by someone else. They had to &ldquo;<strong>define for themselves</strong> what history should take as its subject, what materials it should draw on, how they should be evaluated, and what purposes it should be designed to achieve&rdquo; (p. 28).</p>
 						</div>
 						<div class="takehome fragment" data-fragment-index="2">
 							<span class="label">Take home</span>
-							<p>
-								Nobody handed them the rules. That&rsquo;s why they disagree &mdash; and why their
-								disagreement is still ours.
-							</p>
+							<p>There were no rules. That&rsquo;s why they disagreed &mdash; and why we still disagree.</p>
 						</div>
 					</div>
 				</section>
 
-				<!-- ========== POPKIN 4: THE THREE SHARED DECISIONS ========== -->
+				<!-- ========== POPKIN 3: THE THREE SHARED DECISIONS ========== -->
 				<section>
-					<p class="eyebrow">Popkin 04 &middot; What they agreed on</p>
+					<p class="eyebrow">Popkin 03 &middot; What they agreed on</p>
 					<h2 class="main-point">Three decisions they made together</h2>
 
-					<div class="reveal-block argument fragment" data-fragment-index="0">
+					<div class="reveal-block argument compact fragment" data-fragment-index="0">
 						<span class="label">01 &middot; No gods among the causes</span>
-						<p>
-							&ldquo;Unlike Homer, they <strong>eliminated the gods</strong> from their explanation of
-							events&rdquo; and defined history as &ldquo;the story of the thoughts and deeds of human
-							beings&rdquo; (p. 28). If gods cause events there is nothing to investigate &mdash; only
-							something to report. <em>This is the move that creates the job.</em>
-						</p>
+						<p>&ldquo;Unlike Homer, they <strong>eliminated the gods</strong> from their explanation of events&rdquo; and defined history as &ldquo;the story of the thoughts and deeds of human beings&rdquo; (p. 28). If gods cause events there is nothing to investigate &mdash; only something to report.</p>
 					</div>
 
-					<div class="reveal-block historical fragment" data-fragment-index="1">
+					<div class="reveal-block historical compact fragment" data-fragment-index="1">
 						<span class="label">02 &middot; Only the big stuff counts</span>
-						<p>
-							History should concern &ldquo;exceptional events that affected the lives of whole societies,
-							not&hellip; the lives of individuals&rdquo; &mdash; and each claimed his war was
-							&ldquo;the most important conflict the world had ever known&rdquo; (p. 28).
-							Put that against Week 1: countries don&rsquo;t do things, people do. This is the moment
-							history decided otherwise.
-						</p>
+						<p>History should concern &ldquo;exceptional events that affected the lives of whole societies, not&hellip; the lives of individuals&rdquo; &mdash; and each claimed his war was &ldquo;the most important conflict the world had ever known&rdquo; (p. 28).</p>
 					</div>
 
-					<div class="takehome fragment" data-fragment-index="2">
-						<span class="label">03 &middot; And the sneaky one</span>
-						<p>
-							Popkin says their &ldquo;most important contribution&rdquo; was
-							<strong>putting it in writing</strong> (p. 30) &mdash; permanent material, copyable, and
-							therefore <em>comparable with other documents</em>. Criticism needs a fixed text to be
-							possible at all.
-						</p>
+					<div class="reveal-block historical compact fragment" data-fragment-index="2">
+						<span class="label">03 &middot; Write it down</span>
+						<p>Popkin says their &ldquo;most important contribution&rdquo; was <strong>putting it in writing</strong> (p. 30) &mdash; permanent material, copyable, and therefore <em>comparable with other documents</em>. Criticism needs a fixed text.</p>
 					</div>
 				</section>
 
-				<!-- ========== POPKIN 5: TWO PORTRAITS ========== -->
+				<!-- ========== POPKIN 4: TWO PORTRAITS ========== -->
 				<section>
-					<p class="eyebrow">Popkin 05 &middot; Two books, two moods</p>
+					<p class="eyebrow">Popkin 04 &middot; Two books, two moods</p>
 					<h2 class="main-point">A heroic story and a tragic one</h2>
 
-					<p class="quote fragment" data-fragment-index="0">
-						&ldquo;Whereas Herodotus had told the heroic story of how the Greeks had successfully defended
-						their freedom from a foreign enemy, Thucydides recounted the tragic tale of how internal
-						conflicts and Athens&rsquo;s unbridled ambitions had brought disaster upon his native city.&rdquo;
-						<span class="cite">Popkin, p. 29</span>
-					</p>
+					<p class="quote fragment" data-fragment-index="0">&ldquo;Whereas Herodotus had told the heroic story of how the Greeks had successfully defended their freedom from a foreign enemy, Thucydides recounted the tragic tale of how internal conflicts and Athens&rsquo;s unbridled ambitions had brought disaster upon his native city.&rdquo; <span class="cite">Popkin, p. 29</span></p>
 
 					<div class="swap">
 						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1">
-							<span class="label">Why this matters before we read them</span>
-							<p>
-								These are not two neutral reports that happen to differ in rigor. They are
-								<strong>two different genres with two different emotional jobs</strong> &mdash; defense
-								and self-destruction. Popkin notes readers have taken Thucydides ever since as
-								&ldquo;a warning against the dangers that can befall a society that overestimates its
-								own strength and allows its policies to be determined by irresponsible demagogues&rdquo;
-								(p. 29). Worth asking whether that warning is <em>in</em> the book or <em>put there</em>
-								by readers who needed it.
-							</p>
+							<span class="label">Why this matters</span>
+							<p>These are not two neutral reports that happen to differ in rigor. They are <strong>two different genres with two different emotional jobs</strong> &mdash; defense and self-destruction. Readers ever since have taken Thucydides as &ldquo;a warning against the dangers that can befall a society that overestimates its own strength&rdquo; (p. 29).</p>
 						</div>
 						<div class="takehome fragment" data-fragment-index="2">
 							<span class="label">Take home</span>
@@ -248,76 +239,82 @@
 				</section>
 
 				<!-- ================================================================ -->
-				<!-- =============== PART TWO: THE TEXTS ============================ -->
+				<!-- =============== PART TWO: THE GREEK TEXTS (2.1) ================ -->
 				<!-- ================================================================ -->
 
 				<!-- ========== ORIENTATION: MINIMUM VIABLE CONTENT ========== -->
 				<section>
-					<p class="eyebrow">Orientation &middot; Two wars, two evidence problems</p>
-					<h2 class="main-point">The only content you need today</h2>
+					<p class="eyebrow">Part two &middot; Two wars, two evidence problems</p>
+					<h2 class="main-point">The only context you need today</h2>
 
 					<div class="parallel fragment" data-fragment-index="0">
 						<div class="track">
 							<h5>Herodotus &middot; the Persian Wars</h5>
-							<p>
-								Persia invades Greece and loses (490, then 480&ndash;479 BCE) &mdash; a war that happened
-								<strong>when Herodotus was a young child</strong> (Popkin, p. 27). His evidence is other
-								people&rsquo;s memory, gathered by travel, in several languages, already in disagreement.
-							</p>
+							<p>Persia invades Greece and loses (490, then 480&ndash;479 BCE) &mdash; a war that happened <strong>when Herodotus was a young child</strong> (Popkin, p. 27). His evidence is other people&rsquo;s memory, gathered by travel, in several languages, already in disagreement.</p>
 						</div>
 						<div class="track now">
 							<h5>Thucydides &middot; the Peloponnesian War</h5>
-							<p>
-								Athens and Sparta destroy each other (431&ndash;404 BCE). Thucydides is
-								<strong>an Athenian commander in the war he describes</strong> &mdash; and is exiled for
-								a defeat he admits was his own fault. His evidence is what he saw, while it was happening.
-							</p>
+							<p>Athens and Sparta destroy each other (technically Sparta wins) (431&ndash;404 BCE). Thucydides is <strong>an Athenian commander in the war he describes</strong> &mdash; and is exiled for a defeat he admits was his own fault. His evidence is what he saw, while it was happening.</p>
 						</div>
 					</div>
 
 					<div class="takehome fragment" data-fragment-index="1">
 						<span class="label">Why this matters</span>
-						<p>
-							Most of the &ldquo;methodological&rdquo; gap between them starts right here, in what each man
-							could actually get his hands on. Don&rsquo;t mistake an evidence situation for a personality.
-						</p>
+						<p>Most of the &ldquo;methodological&rdquo; gap between them stems from what each man could actually get his hands on. Don&rsquo;t mistake an evidence situation for a method.</p>
 					</div>
+				</section>
+
+				<!-- ========== IMAGE: PERSIAN WARS MAP ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure class="landscape">
+						<img src="images/greco-persian-wars-map.jpg"
+						     alt="Map of the Greek world during the Persian Wars, 500 to 479 BCE, showing the Persian empire, Greek opponents, neutral states, the invasion routes, and the main battles">
+						<figcaption>
+							Herodotus&rsquo;s war &middot; the Greek world during the Persian Wars, 500&ndash;479 BCE
+							<em>Four coloured routes, six battles, and a child&rsquo;s memory. Note where he is from: <strong>Halicarnassus</strong>, lower right &mdash; a Greek city <i>inside</i> the orange. He grew up on the Persian side of his own subject, which is part of why he takes the trouble to report what the Persians say.<br>(Bibi Saint-Pol, Wikimedia Commons. CC BY-SA 3.0.)</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== IMAGE: ATHENIAN EMPIRE MAP ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure class="landscape">
+						<img src="images/athenian-empire-431-map.jpg"
+						     alt="Map of the Athenian Empire in 431 BCE on the eve of the Peloponnesian War, showing Athenian territory, allied city-states, cleruchies, and dated rebellions against Athens">
+						<figcaption>
+							Thucydides&rsquo;s war &middot; the Athenian Empire at the brink, 431 BCE
+							<em>Not a battle map &mdash; a map of the thing he served. Athens in red, its subject allies in yellow, garrisons and <strong>put-down rebellions dated across the Aegean</strong>. He commanded in the north and lost Amphipolis, top left. And find <strong>Melos</strong>, below the Cyclades: unshaded in 431, still neutral. It has fifteen years.<br>(Marsyas / Once in a Blue Moon, Wikimedia Commons. CC BY-SA 3.0.)</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== IMAGE: HERODOTUS ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure class="portrait">
+						<img src="images/herodotus-bust-met.jpg"
+						     alt="Roman marble portrait bust of Herodotus, 2nd century CE">
+						<figcaption>
+							Herodotus &middot; Roman portrait bust, 2nd century CE
+							<em>Carved some six centuries after he died &mdash; and even the Greek portrait it copies was made after his lifetime. No likeness from his own day survives: the face is a reconstruction, not a record.<br>(Metropolitan Museum of Art, CC0.)</em>
+						</figcaption>
+					</figure>
 				</section>
 
 				<!-- ========== HERODOTUS 1: THE FIRST SENTENCE ========== -->
 				<section>
-					<p class="eyebrow">Herodotus 01 &middot; The first sentence does everything</p>
+					<p class="eyebrow">Herodotus 01 &middot; The first sentence says everything</p>
 					<h2 class="main-point">A discipline named after asking around</h2>
 
-					<p class="quote fragment" data-fragment-index="0">
-						&ldquo;What Herodotus the Halicarnassian has learnt by inquiry is here set forth: in order that
-						the memory of the past may not be blotted out&hellip; and that great and marvellous deeds&hellip;
-						may not lack renown.&rdquo;
-						<span class="cite">Herodotus, <em>Histories</em> 1.1</span>
-					</p>
+					<p class="quote fragment" data-fragment-index="0">&ldquo;What Herodotus the Halicarnassian has learnt by inquiry is here set forth: in order that the memory of the past may not be blotted out&hellip; and that great and marvellous deeds&hellip; may not lack renown.&rdquo; <span class="cite">Herodotus, <em>Histories</em> 1.1</span></p>
 
 					<div class="swap">
 						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1">
 							<span class="label">&ldquo;Learnt by inquiry&rdquo;</span>
-							<p>
-								The Greek word Popkin flags is <em>istoria</em>, which &ldquo;can be translated as
-								&lsquo;inquiry&rsquo;&rdquo; (p. 28). The entire discipline is named after
-								<strong>a procedure, not a subject</strong>. Herodotus is not claiming revelation,
-								prophecy, or inherited tradition. He is claiming <em>he went and asked</em> &mdash; and
-								Popkin notes he &ldquo;devoted a good part of his writing to recounting the extensive
-								travels and other efforts he had undertaken to collect information&rdquo; (p. 28).
-							</p>
+							 <p>The Greek word Popkin flags is <em>istoria</em>, which &ldquo;can be translated as &lsquo;inquiry&rsquo;&rdquo; (p. 28). The entire discipline is named after <strong>a procedure, not a subject</strong> &mdash; not revelation, not prophecy, not inherited tradition. He <em>went and asked</em>, and &ldquo;devoted a good part of his writing to recounting the extensive travels&hellip; he had undertaken to collect information&rdquo; (p. 28).</p>
 						</div>
 						<div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="2">
 							<span class="label">Now look at the stated purpose</span>
-							<p>
-								Popkin gives the fuller version: to ensure &ldquo;that what human beings have done will
-								not fade through the passage of time&hellip; that the great and amazing actions of the
-								Greeks and the barbarians will not lose their fame, and in particular
-								<strong>the reason why they went to war against one another</strong>&rdquo; (p. 29).
-								Memory, renown &mdash; <em>and</em> causation, almost as an afterthought. A very
-								different job description than students expect from the word &ldquo;history.&rdquo;
-							</p>
+							<p>Memory, renown &mdash; <em>and</em>, Popkin&rsquo;s fuller version adds, <strong>&ldquo;the reason why they went to war against one another&rdquo;</strong> (p. 29), almost as an afterthought. A very different job description than students expect from the word &ldquo;history.&rdquo;</p>
 						</div>
 						<div class="takehome fragment" data-fragment-index="3">
 							<span class="label">Take home</span>
@@ -331,32 +328,16 @@
 					<p class="eyebrow">Herodotus 02 &middot; He shows you the disagreement</p>
 					<h2 class="main-point">Four origin stories, no ruling</h2>
 
-					<p class="quote fragment" data-fragment-index="0">
-						&ldquo;For my own part, I will not say that this or that story is true&hellip; but I will name him
-						whom I myself know to have done unprovoked wrong.&rdquo;
-						<span class="cite">Herodotus, <em>Histories</em> 1.5</span>
-					</p>
+					<p class="quote fragment" data-fragment-index="0">&ldquo;For my own part, I will not say that this or that story is true&hellip; but I will name him whom I myself know to have done unprovoked wrong.&rdquo; <span class="cite">Herodotus, <em>Histories</em> 1.5</span></p>
 
 					<div class="swap">
 						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1">
 							<span class="label">Unpacking it</span>
-							<p>
-								He opens with <strong>competing Persian, Greek, and Phoenician accounts</strong> of how
-								East and West fell out &mdash; a chain of abducted women (Io, Europa, Medea, Helen) that
-								reads more like mythology than causation. Then he <em>declines to referee them</em> and
-								moves to what he can stand behind. Students read this as sloppiness. Name it as a choice:
-								<strong>he leaves the seam visible.</strong> Popkin&rsquo;s version &mdash; Herodotus
-								&ldquo;often indicated the sources of his information and critically evaluated them for
-								his audience, telling them what he thought was true and what he considered
-								doubtful&rdquo; (p. 28).
-							</p>
+							<p>He opens with <strong>competing Persian, Greek, and Phoenician accounts</strong> of how East and West fell out &mdash; a chain of abducted women (Io, Europa, Medea, Helen) that reads more like mythology than causation. Then he <em>declines to referee them</em>. Not laziness but a choice: <strong>he leaves the seam visible.</strong></p> 
 						</div>
 						<div class="takehome fragment" data-fragment-index="2">
-							<span class="label">Take home</span>
-							<p>
-								Reporting that your sources conflict <em>is</em> a method. Carr told us to study the
-								historian; Herodotus makes it easy.
-							</p>
+							<span class="label">Take home &middot; and mark it</span>
+							<p>Reporting that your sources conflict <em>is</em> a method. <strong>The Roman author Livy does the same on Thursday</strong>.</p>
 						</div>
 					</div>
 				</section>
@@ -368,36 +349,45 @@
 
 					<div class="reveal-block historical fragment" data-fragment-index="0">
 						<span class="label">One sentence of context</span>
-						<p>
-							Croesus, king of Lydia and proverbially rich, asks the Athenian sage Solon who the happiest
-							man alive is, and is annoyed not to be the answer. He later asks Delphi whether to attack
-							Persia, is told <strong>he will destroy a great empire</strong> &mdash; attacks, and destroys
-							his own.
-						</p>
+						<p>Croesus, king of Lydia and proverbially rich, asks the Athenian sage Solon who the happiest man alive is, and is annoyed not to be the answer. He later asks Delphi whether to attack Persia, is told <strong>he will destroy a great empire</strong> &mdash; attacks, and destroys his own.</p>
 					</div>
 
-					<p class="pull-quote fragment compact" data-fragment-index="1">
-						&ldquo;Count no man happy until he is dead.&rdquo;
-						<span class="cite">the sense of Solon&rsquo;s reply, <em>Histories</em> 1.32 &mdash; which Croesus remembers on the pyre at 1.86</span>
-					</p>
+					<p class="pull-quote fragment compact" data-fragment-index="1">&ldquo;Count no man happy until he is dead.&rdquo; <span class="cite">the sense of Solon&rsquo;s reply, <em>Histories</em> 1.32 &mdash; which Croesus remembers on the pyre at 1.86</span></p>
 
 					<div class="swap">
 						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="2">
 							<span class="label">The question to ask</span>
-							<p>
-								Look at the shape: a warning ignored, an ambiguous prophecy, pride, reversal, recognition
-								at the last possible moment. <strong>Real events almost never arrive with that shape
-								already on them.</strong> The point isn&rsquo;t that Herodotus is lying &mdash; it&rsquo;s
-								that the episode does <em>moral work</em> whether or not it happened this way, and the
-								moral work lives in the <em>form</em>, not the facts. Popkin, dryly: Herodotus is also
-								called &ldquo;the father of lies&rdquo; for exactly this (pp. 30&ndash;31).
-							</p>
+							<p>Look at the shape: a warning ignored, an ambiguous prophecy, pride, reversal, recognition at the last possible moment. <strong>Real events almost never arrive with that shape already on them.</strong> The point isn&rsquo;t that Herodotus is lying &mdash; it&rsquo;s that the episode does <em>moral work</em> whether or not it happened this way, and the moral work lives in the <em>form, not the facts</em>. Popkin, dryly: Herodotus is also called &ldquo;the father of lies&rdquo; for exactly this (pp. 30&ndash;31).</p>
 						</div>
 						<div class="takehome fragment" data-fragment-index="3">
-							<span class="label">Plant this for 2.2</span>
-							<p>Livy does the identical move with Lucretia on Thursday. Watch for the shape.</p>
+							<span class="label">History take roots</span>
+							<p>You will see it twice more this week: <strong>Lucretia</strong> in Livy, and <strong>Xiang Yu</strong> in Sima Qian. Same machine, different empires.</p>
 						</div>
 					</div>
+				</section>
+
+				<!-- ========== IMAGE: CROESUS ON THE PYRE ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure class="landscape">
+						<img src="images/croesus-pyre-myson-louvre-g197.jpg"
+						     alt="Attic red-figure amphora by Myson showing Croesus enthroned on the pyre, about 500 to 490 BCE">
+						<figcaption>
+							Croesus on the pyre &middot; Attic red-figure amphora by Myson, c. 500&ndash;490 BCE
+							<em>Painted roughly sixty years before Herodotus wrote. The scene was already circulating as an image, which means he is shaping material his audience knew rather than reporting a discovery &mdash; and it is the shaping we are reading for.<br>(Louvre G 197, from Vulci. Public domain.)</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== IMAGE: THUCYDIDES ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure class="portrait">
+						<img src="images/thucydides-bust-rom.jpg"
+						     alt="Marble portrait bust of Thucydides, Roman copy of a Greek original">
+						<figcaption>
+							Thucydides &middot; Roman copy of a Greek original
+							<em>Same problem as Herodotus: the face is a later reconstruction. What survives of both men with any reliability is the prose.<br>(Royal Ontario Museum. Public domain.)</em>
+						</figcaption>
+					</figure>
 				</section>
 
 				<!-- ========== THUCYDIDES 1: THE METHOD STATEMENT ========== -->
@@ -405,37 +395,20 @@
 					<p class="eyebrow">Thucydides 01 &middot; The whole ballgame</p>
 					<h2 class="main-point">The most famous methods statement in history &mdash; and a confession</h2>
 
-					<p class="quote fragment" data-fragment-index="0">
-						&ldquo;My method has been, while keeping as closely as possible to the general sense of the words
-						that were actually used, to make the speakers say what, in my opinion, was called for by each
-						situation.&rdquo;
-						<span class="cite">Thucydides 1.22, quoted in Popkin, p. 30</span>
-					</p>
+					<p class="quote fragment" data-fragment-index="0">&ldquo;My method has been, while keeping as closely as possible to the general sense of the words that were actually used, to make the speakers say what, in my opinion, was called for by each situation.&rdquo; <span class="cite">Thucydides 1.22, quoted in Popkin, p. 30</span></p>
 
 					<div class="swap">
 						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1">
-							<span class="label">Read it twice</span>
-							<p>
-								In the same breath as his promise to include only what he personally observed or had from
-								reliable witnesses (Popkin, p. 28), he tells you the <strong>speeches are partly his own
-								composition</strong> &mdash; what the situation <em>called for</em>. Popkin does not
-								soften this: such invented material &ldquo;later became seen as
-								<strong>blurring the line between history and fiction</strong>&rdquo; (p. 30).
-							</p>
+							<span class="label">The perils of accuracy</span>
+							<p>In the same breath as his promise to include only what he personally observed or had from reliable witnesses (Popkin, p. 28), he tells you the <strong>speeches are partly his own composition</strong> &mdash; what the situation <em>called for</em>. Popkin does not soften this: such invented material &ldquo;later became seen as <strong>blurring the line between history and fiction</strong>&rdquo; (p. 30).</p>
 						</div>
 						<div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="2">
 							<span class="label">The uncomfortable comparison</span>
-							<p>
-								Popkin&rsquo;s own analogy, and a good one to put in front of a class:
-								&ldquo;When makers of <strong>historical films</strong> create dialogue for their
-								characters&hellip; they can be seen as reviving Thucydides&rsquo;s practice&rdquo; (p. 30).
-								So &mdash; is the founder of rigorous history doing the thing we deduct points for, or is
-								the biopic doing something legitimate?
-							</p>
+							<p>Popkin&rsquo;s own analogy: &ldquo;When makers of <strong>historical films</strong> create dialogue for their characters&hellip; they can be seen as reviving Thucydides&rsquo;s practice&rdquo; (p. 30). So &mdash; is the founder of rigorous history doing the thing we deduct points for, or is the biopic doing something legitimate?</p>
 						</div>
 						<div class="takehome fragment" data-fragment-index="3">
 							<span class="label">Take home</span>
-							<p>He disclosed it. That is either the highest standard of honesty here, or the cleverest cover.</p>
+							<p>He's honest about his intervention. Methodological rigor OR cheating?</p>
 						</div>
 					</div>
 				</section>
@@ -445,33 +418,16 @@
 					<p class="eyebrow">Thucydides 02 &middot; The Funeral Oration</p>
 					<h2 class="main-point">A city explaining itself to itself</h2>
 
-					<p class="quote fragment" data-fragment-index="0">
-						&ldquo;Its administration favours the many instead of the few; this is why it is called a
-						democracy&hellip; In short, I say that as a city we are the school of Hellas.&rdquo;
-						<span class="cite">Pericles, in Thucydides 2.37, 2.41</span>
-					</p>
+					<p class="quote fragment" data-fragment-index="0">&ldquo;Its administration favours the many instead of the few; this is why it is called a democracy&hellip; In short, I say that as a city we are the school of Hellas.&rdquo; <span class="cite">Pericles, in Thucydides 2.37, 2.41</span></p>
 
 					<div class="swap">
 						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1">
 							<span class="label">Unpacking it</span>
-							<p>
-								Pericles is not reporting a funeral. He is <strong>making an argument about what Athens
-								is</strong> &mdash; open, democratic, cultured, worth dying for &mdash; while standing
-								over the war dead in year one of a war Athens will lose. This is propaganda in the
-								literal sense: a polis explaining itself to itself. And remember the previous slide:
-								<em>Thucydides wrote these words.</em> Popkin notes the speeches let him
-								&ldquo;allow his characters to explain the motives for their actions&rdquo; (p. 30)
-								&mdash; which is to say, they are where his interpretation lives.
-							</p>
+							<p>Pericles is not reporting a funeral. He is <strong>making an argument about what Athens is</strong> &mdash; open, democratic, cultured, worth dying for &mdash; while standing over the war dead in year one of a war Athens will lose. This is propaganda in the literal sense: a polis explaining itself to itself. And remember the previous slide: <em>Thucydides wrote these words.</em> In the speeches, Popkin notes, Thucydides &ldquo;allowed his characters to explain the motives for their actions&rdquo; (p. 30) &mdash; which is to say, they are where his interpretation lives.</p>
 						</div>
 						<div class="reveal-block historical fragment fade-in-then-out compact" data-fragment-index="2">
 							<span class="label">Three meanings at once</span>
-							<p>
-								Week 1 gave us three senses of &ldquo;history&rdquo;: the events, an account of the
-								events, and the practice of producing accounts. This passage is
-								<strong>all three simultaneously</strong> &mdash; a thing that happened, a speech about
-								the Athenian past, and Thucydides deciding what that speech should have contained.
-							</p>
+							<p>Week 1 gave us three senses of &ldquo;history&rdquo;: the events, an account of the events, and the practice of producing accounts. This passage is <strong>all three simultaneously</strong> &mdash; a thing that happened, a speech about the Athenian past, and Thucydides deciding what that speech should have contained.</p>
 						</div>
 						<div class="takehome fragment" data-fragment-index="3">
 							<span class="label">Take home</span>
@@ -486,31 +442,16 @@
 					<h2 class="main-point">Power with the moral language stripped out</h2>
 
 					<div class="reveal-block historical fragment" data-fragment-index="0">
-						<span class="label">One sentence of context</span>
-						<p>
-							Melos is a small neutral island. Athens demands submission; Melos argues for its neutrality
-							and its rights. Thucydides then reports the outcome in one flat sentence: the Athenians
-							<strong>killed the grown men and sold the women and children into slavery</strong> (5.116).
-						</p>
+						<span class="label">Brief context</span>
+						<p>Melos is a small neutral island. Athens demands submission; Melos argues for its neutrality and its rights. Thucydides then reports the outcome in one flat sentence: the Athenians <strong>killed the grown men and sold the women and children into slavery</strong> (5.116).</p>
 					</div>
 
-					<p class="quote fragment" data-fragment-index="1">
-						&ldquo;Right, as the world goes, is only in question between equals in power, while the strong do
-						what they can and the weak suffer what they must.&rdquo;
-						<span class="cite">Thucydides 5.89</span>
-					</p>
+					<p class="quote fragment" data-fragment-index="1">&ldquo;Right, as the world goes, is only in question between equals in power, while the strong do what they can and the weak suffer what they must.&rdquo; <span class="cite">Thucydides 5.89</span></p>
 
 					<div class="swap">
 						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="2">
 							<span class="label">The question to ask</span>
-							<p>
-								Thucydides narrates in his own voice constantly. <strong>So why is this a dialogue?</strong>
-								Because the form lets him stage two incompatible logics &mdash; justice and power &mdash;
-								colliding, without ever saying which he endorses. The apparent absence of judgment is
-								itself an authorial decision. He also lets the Athenians say the quiet part out loud:
-								<em>&ldquo;of the gods we believe, and of men we know, that by a necessary law of nature
-								they rule wherever they can&rdquo;</em> (5.105).
-							</p>
+							<p>Thucydides narrates in his own voice constantly. <strong>So why is this a dialogue?</strong> Because the form lets him stage two incompatible logics &mdash; justice and power &mdash; colliding, without ever saying which he endorses. The apparent absence of judgment is itself an authorial decision.</p>
 						</div>
 						<div class="takehome fragment" data-fragment-index="3">
 							<span class="label">Take home</span>
@@ -527,74 +468,26 @@
 					<div class="parallel fragment" data-fragment-index="0">
 						<div class="track">
 							<h5>Herodotus says</h5>
-							<p>
-								Here are four incompatible stories. I won&rsquo;t tell you which is true. Here is what I
-								find doubtful. <strong>You can see where his evidence runs out.</strong>
-							</p>
+							<p>Here are four incompatible stories. I won&rsquo;t tell you which is true. Here is what I find doubtful. <strong>You can see where his evidence runs out.</strong></p>
 						</div>
 						<div class="track now">
 							<h5>Thucydides says</h5>
-							<p>
-								I include only what I saw or had from reliable witnesses &mdash; and I wrote the speeches
-								myself, as each occasion demanded.
-								<strong>You cannot see where his evidence runs out.</strong>
-							</p>
+							<p>I include only what I saw or had from reliable witnesses &mdash; and I wrote the speeches myself, as each occasion demanded. <strong>You cannot see where his evidence runs out.</strong></p>
 						</div>
 					</div>
 
 					<div class="swap">
 						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1">
 							<span class="label">The reversal</span>
-							<p>
-								Almost everyone answers &ldquo;Thucydides is more honest,&rdquo; because he
-								<em>sounds</em> more rigorous &mdash; Popkin notes his prose was &ldquo;clear and
-								precise, without rhetorical flourishes,&rdquo; and &ldquo;continues to serve as a model
-								for serious history writing even today&rdquo; (p. 30). But rigor-sounding prose is a
-								rhetorical stance too. Herodotus flags his doubts and shows the seams; Thucydides smooths
-								them and tells you once, in one chapter, that he has done so.
-								<strong>Confidence is not transparency.</strong>
-							</p>
+							<p>Almost everyone answers &ldquo;Thucydides is more honest,&rdquo; because he <em>sounds</em> more rigorous &mdash; Popkin notes his prose was &ldquo;clear and precise, without rhetorical flourishes,&rdquo; and &ldquo;continues to serve as a model for serious history writing even today&rdquo; (p. 30). But rigor-sounding prose is a rhetorical stance too. Herodotus flags his doubts and shows the seams; Thucydides smooths them and tells you once, in one chapter, that he has done so. <strong>Confidence is not transparency.</strong></p>
 						</div>
-						<div class="takehome fragment" data-fragment-index="2">
+						<div class="reveal-block historical fragment fade-in-then-out compact" data-fragment-index="2">
+							<span class="label">And the tell</span>
+							<p>Popkin&rsquo;s survey of modern textbooks makes the point sharper: Donald Kelley gives Herodotus nine pages and Thucydides two; others reverse it (p. 31). <strong>Which ancient historian a modern historian admires tells you what that modern historian thinks history is for.</strong></p>
+						</div>
+						<div class="takehome fragment" data-fragment-index="3">
 							<span class="label">Take home</span>
 							<p>Ask of any history: <em>where would I be able to tell if this were wrong?</em></p>
-						</div>
-					</div>
-				</section>
-
-				<!-- ========== WHO PREFERS WHOM ========== -->
-				<section>
-					<p class="eyebrow">Reception &middot; Pick your father of history</p>
-					<h2 class="main-point">The choice says more about the chooser</h2>
-
-					<div class="reveal-block argument fragment" data-fragment-index="0">
-						<span class="label">Popkin&rsquo;s example, p. 31</span>
-						<p>
-							Ernst Breisach praises Thucydides&rsquo;s &ldquo;splendid narrative&rdquo; and the
-							&ldquo;magnificent unity of style and content&rdquo; in his work. Donald Kelley gives
-							<strong>Herodotus nine pages</strong>, concluding that &ldquo;its value is more appreciated
-							than ever today,&rdquo; and gives <strong>Thucydides two</strong>, saying he
-							&ldquo;had a much narrower conception of human thought and action.&rdquo;
-						</p>
-					</div>
-
-					<div class="swap">
-						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1">
-							<span class="label">Unpacking it</span>
-							<p>
-								Same two authors, same surviving texts, opposite verdicts. Popkin&rsquo;s point:
-								<strong>which ancient historian a modern historian admires tells you what that modern
-								historian thinks history is for.</strong> He resists the neat version too &mdash; it is
-								&ldquo;tempting to conclude that Thucydides appeals to more traditionalist scholars and
-								Herodotus to those more open to innovation, but this is not always the case,&rdquo; since
-								Koselleck read Thucydides as a forerunner of postmodernism for demonstrating
-								&ldquo;that the gathering of facts is not identical with what is said or written about
-								them&rdquo; (p. 31).
-							</p>
-						</div>
-						<div class="takehome fragment" data-fragment-index="2">
-							<span class="label">Take home</span>
-							<p>This is Carr&rsquo;s &ldquo;listen for the buzzing&rdquo; &mdash; aimed at the textbooks.</p>
 						</div>
 					</div>
 				</section>
@@ -604,31 +497,309 @@
 					<p class="eyebrow">Guardrail &middot; What we are <em>not</em> saying</p>
 					<h2 class="main-point">They are not proto-moderns</h2>
 
-					<p class="quote fragment" data-fragment-index="0">
-						&ldquo;The Greek and Roman historians were not modern rationalists: they lived in a world that
-						believed in various supernatural powers and took omens seriously.&rdquo;
-						<span class="cite">Popkin, pp. 35&ndash;36</span>
-					</p>
+					<p class="quote fragment" data-fragment-index="0">&ldquo;The Greek and Roman historians were not modern rationalists: they lived in a world that believed in various supernatural powers and took omens seriously.&rdquo; <span class="cite">Popkin, pp. 35&ndash;36</span></p>
 
 					<div class="swap">
 						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1">
 							<span class="label">Unpacking it</span>
-							<p>
-								It is tempting to award points for how much they resemble us. Resist it. Popkin notes
-								Herodotus &ldquo;noted that Greek beliefs in oracles often influenced their
-								actions&rdquo; (p. 28) &mdash; oracles are <em>information</em> here. Firing the gods as
-								<strong>causes</strong> is not the same as not believing in them. And the reach was
-								small: &ldquo;whatever most of the population of the ancient world knew about history was
-								largely transmitted through other means, such as public monuments and oral tradition.
-								<strong>Written history was the preserve of a small, cultivated elite</strong>&rdquo;
-								(p. 36).
-							</p>
+							<p>It is tempting to award points for how much they resemble us. Resist it. Firing the gods as <strong>causes</strong> is not the same as not believing in them &mdash; oracles are <em>information</em> here. And the reach was small: &ldquo;whatever most of the population of the ancient world knew about history was largely transmitted through other means, such as public monuments and oral tradition. <strong>Written history was the preserve of a small, cultivated elite</strong>&rdquo; (p. 36).</p>
 						</div>
 						<div class="takehome fragment" data-fragment-index="2">
 							<span class="label">Take home</span>
 							<p>&ldquo;Like us&rdquo; is not a standard. It&rsquo;s a bias with good manners.</p>
 						</div>
 					</div>
+				</section>
+
+				<!-- ========== DISCUSSION 2.1 ========== -->
+				<section>
+					<p class="eyebrow">Discussion &middot; 2.1</p>
+					<h2 class="main-point">Let&rsquo;s argue about it</h2>
+
+					<ul class="questions fragment">
+						<li>What counts as <em>evidence</em> for Herodotus? For Thucydides?</li>
+						<li>Herodotus tells you when his sources disagree. Thucydides tells you he made the speakers say what was <em>called for</em>. <strong>Which one is hiding more from you?</strong></li>
+						<li>Thucydides narrates in his own voice everywhere else. Why give Melos a <em>dialogue</em>? What does that let him do that plain narration wouldn&rsquo;t?</li>
+						<li>Popkin compares the invented speeches to dialogue in <em>historical films</em>. Are historical films accurate?</li>
+						<li>Is Herodotus a historian or a storyteller?</li>
+					</ul>
+
+					<div class="reveal-block historical compact fragment">
+						<span class="label">If there&rsquo;s time &middot; two sentences</span>
+						<p>Pick any contested recent event. Write one sentence about it <strong>the Herodotus way</strong> &mdash; competing accounts, named sources, moral shading &mdash; and one <strong>the Thucydides way</strong> &mdash; confident, causally tight, no visible seams. Then decide which one you would rather have been handed.</p>
+					</div>
+				</section>
+
+				<!-- ================================================================ -->
+				<!-- ====== PART THREE: ROME AND HAN CHINA (2.2) ==================== -->
+				<!-- ================================================================ -->
+
+				<!-- ========== PART THREE DIVIDER ========== -->
+				<section data-transition="fade">
+					<p class="eyebrow">Part three &middot; 2.2</p>
+					<h2 class="main-point">Rome and Han China &mdash; two more answers, arrived at independently</h2>
+					<div class="rule"></div>
+					<p class="detail">Sima Qian finishes some sixty years before Livy begins, and neither has heard of the other. Livy at least inherits a Greek tradition; Sima Qian has no contact with one.</p>
+				</section>
+
+				<!-- ========== BIOS: LIVY AND SIMA QIAN ========== -->
+				<section>
+					<p class="eyebrow">Part three &middot; Who these two were</p>
+					<h2 class="main-point">Two historians, two very different positions</h2>
+
+					<div class="parallel compact fragment" data-fragment-index="0">
+						<div class="track">
+							<h5>Livy &middot; 59 BCE &ndash; 17 CE</h5>
+							<p>Titus Livius, born and died at <strong>Patavium</strong> (Padua), well away from Rome. <strong>No magistracy, no military command, no seat in the senate</strong> &mdash; nearly unique among major Roman historians, who were typically senators writing about offices they had themselves held. He worked from earlier writers, not from archives or eyewitness.</p>
+						</div>
+						<div class="track now">
+							<h5>Sima Qian &middot; c. 145 &ndash; c. 86 BCE</h5>
+							<p>Inherited the office of <em>taishi</em> &mdash; court astrologer and record-keeper &mdash; from his father Sima Tan, at the court of <strong>Emperor Wu of Han</strong>. An official <em>inside</em> the state he was writing about, with access to court documents and the imperial collections.</p>
+						</div>
+					</div>
+
+					<div class="parallel compact fragment" data-fragment-index="1">
+						<div class="track">
+							<h5>The work &middot; Ab Urbe Condita</h5>
+							<p>Begun c. 29 BCE: <strong>142 books</strong> from the founding to 9 BCE, of which <strong>35 survive</strong> (1&ndash;10, 21&ndash;45); the rest is known only from ancient summaries. Written as Augustus consolidated power &mdash; though Tacitus reports that Augustus called him a <em>Pompeianus</em> for how warmly he wrote about the losing republican side.</p>
+						</div>
+						<div class="track now">
+							<h5>The work &middot; Shiji</h5>
+							<p><strong>130 chapters</strong>, some 526,000 characters, from the Yellow Emperor to his own day. In 99 BCE he defended the general <strong>Li Ling</strong> after a surrender to the Xiongnu and was condemned; unable to pay the fine that would commute the sentence, he <strong>accepted castration rather than execution</strong> in order to finish the book, and explained the choice in a letter to Ren An.</p>
+						</div>
+					</div>
+				</section>
+
+				<!-- ========== IMAGE: LIVY MANUSCRIPT ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure class="portrait">
+						<img src="images/livy-poggio-manuscript-vat-lat-3331.jpg"
+						     alt="Page of Livy's Ab urbe condita copied by Poggio Bracciolini in 1453, Vatican Library">
+						<figcaption>
+							Livy, <i>Ab urbe condita</i> &middot; copied by Poggio Bracciolini, 1453
+							<em>End of Book 38, start of Book 39, in the hand of a Renaissance humanist &mdash; fourteen centuries after Livy wrote. This is how the surviving 35 books reach us: not as Livy's text but as somebody's copy of a copy.<br>(Biblioteca Apostolica Vaticana, Vat. lat. 3331, fol. 156v. Public domain.)</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== LIVY 1: THE PREFACE ========== -->
+				<section>
+					<p class="eyebrow">Livy 01 &middot; The preface tells you the whole program</p>
+					<h2 class="main-point">The preface makes the past an inventory of examples</h2>
+
+					<p class="detail" style="font-size:0.45em; margin:0 0 0.4em 0;">No command, no travels, no archive &mdash; he works from earlier writers, in a library, writing all of Rome from the founding (142 books, 35 survive) as a century of civil war ends and Augustus promises moral restoration.</p>
+
+					<p class="quote compact fragment" data-fragment-index="0">&ldquo;What chiefly makes the study of history wholesome and profitable is this, that you behold the lessons of every kind of experience set forth as on a conspicuous monument; from these you may choose for yourself and for your own state what to imitate, from these mark for avoidance what is shameful in the conception and shameful in the result.&rdquo; <span class="cite">Livy, <em>Ab Urbe Condita</em>, Preface (Foster trans.)</span></p>
+
+					<div class="swap">
+						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1">
+							<span class="label">Compare the job descriptions</span>
+							<p>Herodotus: memory and renown. Thucydides: a reusable warning. Livy: <strong>a stock of <em>exempla</em> the reader is expected to draw on</strong>. Note the verbs &mdash; <em>behold</em>, <em>choose</em>, <em>mark for avoidance</em>. The interpretive work is assigned to the reader, and it is moral rather than analytical.</p>
+						</div>
+						<div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="2">
+							<span class="label">A familiar suspension of judgment</span>
+							<p>Traditions from before the founding, &ldquo;adorned with poetic legends&rdquo; rather than &ldquo;trustworthy historical proofs,&rdquo; he purposes <strong>&ldquo;neither to affirm nor to refute.&rdquo;</strong> Herodotus makes the same move at <em>Histories</em> 1.5, declining to adjudicate between rival origin stories.</p>
+						</div>
+						<div class="takehome fragment" data-fragment-index="3">
+							<span class="label">Take home</span>
+							<p>The stated purpose is moral. The stated method suspends judgment on the legendary material &mdash; and is then not raised again across 142 books.</p>
+						</div>
+					</div>
+				</section>
+
+				<!-- ========== LIVY 2: LUCRETIA ========== -->
+				<section>
+					<p class="eyebrow">Livy 02 &middot; The Rape of Lucretia</p>
+					<h2 class="main-point">A domestic scene made to carry a constitutional revolution</h2>
+
+					<div class="reveal-block historical fragment" data-fragment-index="0">
+						<span class="label">Brief context &middot; 509 BCE</span>
+						<p>The king&rsquo;s son rapes Lucretia; she makes her father and husband swear vengeance and kills herself in front of them; Brutus pulls out the knife, swears on the blood to drive out the Tarquins &mdash; and <strong>Rome ends the monarchy</strong>.</p>
+					</div>
+
+					<p class="quote fragment" data-fragment-index="1">&ldquo;Although I acquit myself of the sin, I do not free myself from the penalty; no unchaste woman shall henceforth live and plead Lucretia&rsquo;s example.&rdquo; <span class="cite">Livy 1.58 (Roberts trans.)</span></p>
+
+					<div class="swap">
+						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="2">
+							<span class="label">The shape, again</span>
+							<p>A boast, a warning ignored, a violation, a speech, a suicide, a change of regime: the fall of a dynasty made to turn on a single household. The architecture is the one we met in Herodotus &mdash; Croesus on the pyre &mdash; now in Latin. And Lucretia&rsquo;s final words are not grief but <em>precedent</em>: she is legislating for the women who come after her. Livy has her state the <em>exemplum</em> herself, leaving the reader nothing to infer.</p>
+						</div>
+						<div class="takehome fragment" data-fragment-index="3">
+							<span class="label">Take home</span>
+							<p>Livy names no source for what was said in that room. <strong>The form carries the argument</strong> &mdash; and the argument is the founding charter of the Republic.</p>
+						</div>
+					</div>
+				</section>
+
+				<!-- ========== IMAGE: LUCRETIA ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure class="landscape">
+						<img src="images/lucretia-botticelli-gardner.jpg"
+						     alt="Botticelli's panel painting The Story of Lucretia, about 1500, showing the assault, the suicide, and Brutus rousing Rome">
+						<figcaption>
+							Sandro Botticelli, <i>The Story of Lucretia</i> &middot; c. 1500&ndash;01
+							<em>Three moments in one frame: the assault at left, the death at right, and at the centre Brutus on the body, raising the army. Botticelli read Livy exactly as Livy asks to be read &mdash; a private catastrophe arranged so that it ends in a change of regime.<br>(Isabella Stewart Gardner Museum, Boston. Public domain.)</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== LIVY 3: THE BORROWED SCENE ========== -->
+				<section>
+					<p class="eyebrow">Livy 03 &middot; Inherited form</p>
+					<h2 class="main-point">The same scene, told twice, four centuries apart</h2>
+
+					<p class="detail" style="font-size:0.45em; margin:0 0 0.4em 0;">A tyrant is asked how to hold a city. He answers without speaking &mdash; by decapitating the tallest plants in front of the messenger.</p>
+
+					<div class="parallel compact fragment" data-fragment-index="0">
+						<div class="track">
+							<h5>Herodotus 5.92 &middot; Rawlinson trans.</h5>
+							<p>Periander of Corinth sends a herald to ask Thrasybulus of Miletus how to rule safely. Thrasybulus &ldquo;took him into a field of corn, through which he began to walk&hellip; ever as he went <strong>breaking off and throwing away all such ears of corn as over-topped the rest</strong>&hellip; then, without a word, he sent the messenger back.&rdquo;</p>
+						</div>
+						<div class="track now">
+							<h5>Livy 1.54 &middot; Roberts trans.</h5>
+							<p>Sextus Tarquinius sends a messenger to ask his father how to subdue Gabii. &ldquo;The king went into the palace-garden, deep in thought, his son&rsquo;s messenger following him. As he walked along in silence it is said that he <strong>struck off the tallest poppy-heads with his stick</strong>.&rdquo;</p>
+						</div>
+					</div>
+
+					<div class="swap">
+						<div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="1">
+							<span class="label">First, what this does <em>not</em> establish</span>
+							<p>It is not proof that Livy read Herodotus. Aristotle tells the same story with <strong>the roles reversed</strong> &mdash; Periander gives the advice, Thrasybulus receives it (<em>Politics</em> 3.1284a). The motif was therefore already in circulation in more than one version, and could have reached Livy through Roman annalists or the rhetorical schools. <strong>A shared story is evidence of a shared tradition, not of a book open on a desk.</strong></p>
+						</div>
+						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="2">
+							<span class="label">What it does establish</span>
+							<p>Livy is not translating Greek sentences. He is working with <strong>inherited narrative shapes</strong> and refitting them: grain becomes poppies, a Corinthian tyrant becomes a Roman king, and the scene stays intact. It arrives pre-loaded with a claim about how tyranny operates &mdash; and Livy can deploy that claim without ever arguing for it. On Livy&rsquo;s use of his Greek predecessors, see Craige Champion, &ldquo;Livy and the Greek Historians from Herodotus to Dionysius,&rdquo; in <em>A Companion to Livy</em> (2015).</p>
+						</div>
+						<div class="takehome fragment" data-fragment-index="3">
+							<span class="label">Take home</span>
+							<p>Form travels between cultures more easily than evidence does &mdash; and a borrowed form arrives with its argument already inside it.</p>
+						</div>
+					</div>
+				</section>
+
+				<!-- ========== IMAGE: SIMA QIAN ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure class="portrait">
+						<img src="images/sima-qian-portrait-npm.jpg"
+						     alt="Traditional Chinese portrait of Sima Qian from an album of half-length portraits of sages">
+						<figcaption>
+							Sima Qian &middot; from <i>Half-Length Portraits of Sages Through the Ages</i>
+							<em>Also a later imagining, and worth noting: all four of our historians have invented faces. Why?<br>(National Palace Museum, Taipei. CC BY 4.0.)</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== SIMA QIAN 1: THE NET AND THE FORM ========== -->
+				<section>
+					<p class="eyebrow">Sima Qian 01 &middot; The Grand Historian</p>
+					<h2 class="main-point">A different container for the past</h2>
+
+					<p class="detail" style="font-size:0.45em; margin:0 0 0.4em 0;">Court astrologer to Emperor Wu. Condemned for defending a general who surrendered, he accepts castration rather than execution in order to finish the book.</p>
+
+					<p class="quote fragment" data-fragment-index="0">&ldquo;I have cast a universal net to gather together all the old traditions of the world that were scattered and lost.&rdquo; <span class="cite">Sima Qian, quoted in Popkin, p. 37</span></p>
+
+					<div class="swap">
+						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1">
+							<span class="label">Same instinct, different architecture</span>
+							<p>The <em>Shiji</em> is <strong>not one narrative</strong>. It is five kinds of writing at once: annals of rulers, chronological tables, treatises on ritual and calendars and money, the hereditary houses, and seventy biographies. <strong>The past arrives sorted by type, not by story</strong> &mdash; nothing in Greece or Rome looks like this.</p>
+						</div>
+						<div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="2">
+							<span class="label">The argument hidden in the filing</span>
+							<p>Xiang Yu never ruled a unified empire, and <em>lost</em>. Sima Qian files him in the <strong>basic annals</strong> &mdash; the section for legitimate sovereigns &mdash; just before the founder of the dynasty Sima Qian serves. A claim about who held the mandate, <strong>made silently, by a table of contents</strong>.</p>
+						</div>
+						<div class="takehome fragment" data-fragment-index="3">
+							<span class="label">Take home</span>
+							<p>Form is argument again &mdash; but the form is now the <em>organization of the book</em>, not the shape of a scene.</p>
+						</div>
+					</div>
+				</section>
+
+				<!-- ========== IMAGE: SHIJI MANUSCRIPT ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure class="landscape">
+						<img src="images/shiji-taishigong-highlight.jpg"
+						     alt="Tang dynasty manuscript of the Shiji, with the phrase taishigong yue highlighted near the end of the chapter">
+						<figcaption>
+							<i>Shiji</i>, Book of Rivers and Canals &middot; Tang dynasty manuscript copy
+							<em>Columns run right to left. Near the end, boxed in gold, sit four characters: <strong>&#22826;&#21490;&#20844;&#26352;</strong>, <i>taishigong yue</i> &mdash; the Grand Historian says. Everything after them is Sima Qian speaking in his own voice. The colophon at far left closes the chapter.<br>(Tang copy, Tokyo National Museum TB-1573. CC BY 4.0. Gold box added.)</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== IMAGE: TAISHIGONG DETAIL ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure class="portrait">
+						<img src="images/shiji-taishigong-detail.jpg"
+						     alt="Detail of the Shiji manuscript showing the four characters taishigong yue, the Grand Historian says">
+						<figcaption>
+							&#22826;&#21490;&#20844;&#26352; &middot; <i>taishigong yue</i> &middot; the Grand Historian says
+							<em>The formula that closes most chapters of the <i>Shiji</i> &mdash; 106 of the 130, and it opens 23 more. It is his office rather than his personal name, but it works as a signature: a fixed marker saying the narrative has stopped and the historian has started. The very next character down the column is <strong>&#20313;</strong> &mdash; <i>yu</i>, &ldquo;I&rdquo;.<br>(Detail of Tokyo National Museum TB-1573. CC BY 4.0. Gold box added.)</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== SIMA QIAN 2: XIANG YU AND THE VERDICT ========== -->
+				<section>
+					<p class="eyebrow">Sima Qian 02 &middot; Xiang Yu at Gaixia</p>
+					<h2 class="main-point">The historian signs his name to the judgment</h2>
+
+					<div class="reveal-block historical fragment" data-fragment-index="0">
+						<span class="label">Brief context</span>
+						<p>Surrounded and starving, Xiang Yu sings a farewell to his horse and his favorite, breaks out with twenty-eight riders, <strong>refuses the boat that would save him</strong>, spots an old acquaintance among the enemy cavalry, and kills himself.</p>
+					</div>
+
+					<p class="quote fragment" data-fragment-index="1">&ldquo;He was proud of his achievements, relied on his own intelligence without learning from the past&hellip; He quoted, &lsquo;It is Heaven that has destroyed me, not my fault in warfare&rsquo; &mdash; <strong>was this not a great fallacy!</strong>&rdquo; <span class="cite">&ldquo;The Grand Historian said&hellip;&rdquo; &mdash; the closing verdict, <em>Shiji</em> 7</span></p>
+
+					<div class="swap">
+						<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="2">
+							<span class="label">A device with no Greek equivalent</span>
+							<p>Xiang Yu insists <strong>Heaven</strong> destroyed him. Sima Qian closes the chapter in his own voice and says: no. He does this at the end of 106 of the 130 chapters &mdash; a signed verdict, fenced off from the narrative. Thucydides hides his judgment inside speeches he wrote; <strong>Sima Qian puts a box around his and initials it.</strong></p>
+						</div>
+						<div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="3">
+							<span class="label">But look what he lets stand first</span>
+							<p>The song, the horse, the ferryman, the head &mdash; none of it verifiable, all of it making Xiang Yu magnificent. He gets the full tragic treatment <em>and then</em> the ruling. The sympathy is what makes the verdict cost something.</p>
+						</div>
+						<div class="takehome fragment" data-fragment-index="4">
+							<span class="label">Take home</span>
+							<p>Herodotus won&rsquo;t referee. Thucydides referees invisibly. Livy lets the story referee. <strong>Sima Qian referees in a labeled box at the end.</strong></p>
+						</div>
+					</div>
+				</section>
+
+				<!-- ========== IMAGE: XIANG YU ========== -->
+				<section class="image-slide" data-background="#0d1412">
+					<figure class="portrait">
+						<img src="images/xiang-yu-portrait-pma.jpg"
+						     alt="Chinese painted portrait of Xiang Yu from an album of portraits of famous men">
+						<figcaption>
+							Xiang Wang (Xiang Yu) &middot; <i>Portraits of Famous Men</i>, 19th&ndash;early 20th c.
+							<em>Still being painted as a king two thousand years after he lost. Sima Qian filed him among the legitimate sovereigns and the classification stuck &mdash; a table of contents outliving the war it described.<br>(Philadelphia Museum of Art. Public domain.)</em>
+						</figcaption>
+					</figure>
+				</section>
+
+				<!-- ========== DISCUSSION 2.2 ========== -->
+				<section>
+					<p class="eyebrow">Discussion &middot; 2.2</p>
+					<h2 class="main-point">Where they agree, and where they don&rsquo;t</h2>
+
+					<div class="parallel fragment" data-fragment-index="0">
+						<div class="track">
+							<h5>Livy</h5>
+							<p>The lesson is <strong>inside</strong> the story; the reader picks it up. The author stays out of the frame.</p>
+						</div>
+						<div class="track now">
+							<h5>Sima Qian</h5>
+							<p>The lesson is <strong>appended</strong>. Narrative first, then a named historian tells you where the man went wrong.</p>
+						</div>
+					</div>
+
+					<ul class="questions fragment" data-fragment-index="1">
+						<li>Livy&rsquo;s preface says history exists to supply moral examples. <strong>Does the Lucretia passage actually do that?</strong> How?</li>
+						<li>Both use a political collapse to argue about power and virtue. Does the argument survive if the details were invented?</li>
+						<li>Which is more honest about what a historian does &mdash; Livy&rsquo;s silence, or Sima Qian&rsquo;s signed verdict?</li>
+						<li>Why do unconnected cultures all decide the past should be <em>useful</em>? A fact about history, or about the states that pay historians?</li>
+					</ul>
 				</section>
 
 				<!-- ========== WHERE THIS GOES ========== -->
@@ -645,36 +816,26 @@
 						</div>
 						<div class="card">
 							<span class="num">Polybius &middot; 33</span>
-							<h4>National history invented</h4>
-							<p>What&rsquo;s beneficial is &ldquo;the clear view of the causes of events, and the consequent power of choosing the better policy.&rdquo;</p>
-						</div>
-						<div class="card">
-							<span class="num">Livy &rarr; 2.2 &middot; 34</span>
-							<h4>Distance admitted</h4>
-							<p>Writing of &ldquo;matters obscure&hellip; like objects which from their great distance are scarcely perceptible.&rdquo;</p>
+							<h4>The useful past</h4>
+							<p>What&rsquo;s beneficial is &ldquo;the clear view of the causes of events, and the consequent power of choosing the better policy.&rdquo; National history arrives with his <em>successors</em>, not with him.</p>
 						</div>
 						<div class="card">
 							<span class="num">Lucian &middot; 35</span>
-							<h4>Objectivity, c. 150 CE</h4>
+							<h4>Objectivity, c. 165 CE</h4>
 							<p>&ldquo;Let him bring a mind like a mirror, clear, gleaming-bright&hellip; free from distortion.&rdquo; Long before Ranke.</p>
-						</div>
-						<div class="card">
-							<span class="num">Sima Qian &rarr; 2.2 &middot; 36&ndash;37</span>
-							<h4>Convergence</h4>
-							<p>Han China, no contact with Greece or Rome, same instinct: &ldquo;I have cast a universal net to gather together all the old traditions.&rdquo;</p>
 						</div>
 						<div class="card">
 							<span class="num">Eusebius &rarr; 3.1 &middot; 39</span>
 							<h4>The reversal</h4>
-							<p>Where Greeks and Romans explained events by human action, he &ldquo;attributed them to divine providence.&rdquo; A plot line returns.</p>
+							<p>Where Greeks and Romans explained events by human action, he &ldquo;attributed them to divine providence.&rdquo; The gods come back.</p>
 						</div>
 					</div>
 				</section>
 
 				<!-- ========== RECAP ========== -->
 				<section data-transition="fade">
-					<p class="eyebrow">Recap &middot; what to carry out of today</p>
-					<h2 class="main-point">Five things</h2>
+					<p class="eyebrow">Recap &middot; what to carry out of week 2</p>
+					<h2 class="main-point">Six things</h2>
 					<div class="rule"></div>
 
 					<div class="cards">
@@ -689,52 +850,25 @@
 							<p>The shared move that creates the historian&rsquo;s job &mdash; without making them modern.</p>
 						</div>
 						<div class="card">
-							<span class="num">03 &middot; p. 29</span>
+							<span class="num">03</span>
 							<h4>Purposes differ</h4>
-							<p>Herodotus: memory and renown. Thucydides: a warning you can reuse.</p>
+							<p>Memory and renown; a reusable warning; a monument of moral examples; a sorted and judged record.</p>
 						</div>
 						<div class="card">
-							<span class="num">04 &middot; p. 30</span>
+							<span class="num">04</span>
 							<h4>Form is argument</h4>
-							<p>A parable shape, an invented speech, a dialogue &mdash; each does work facts can&rsquo;t.</p>
+							<p>A parable, an invented speech, a dialogue, a bedroom, a table of contents &mdash; each does work facts can&rsquo;t.</p>
 						</div>
 						<div class="card">
 							<span class="num">05</span>
 							<h4>Visible seams</h4>
-							<p>The one who shows his sources disagreeing may be the more honest one.</p>
+							<p>Herodotus and Livy both refuse to referee the legends. Then both proceed with total confidence.</p>
 						</div>
 						<div class="card">
-							<span class="num">&rarr; p. 27</span>
-							<h4>Not a ladder</h4>
-							<p>&ldquo;Multiple perspectives from which the past can be viewed.&rdquo; Not drafts of us.</p>
+							<span class="num">06 &middot; pp. 27, 36&ndash;37</span>
+							<h4>Convergence, not a ladder</h4>
+							<p>&ldquo;Multiple perspectives from which the past can be viewed&rdquo; &mdash; and unconnected cultures reaching for it independently.</p>
 						</div>
-					</div>
-				</section>
-
-				<!-- ========== DISCUSSION ========== -->
-				<section>
-					<p class="eyebrow">Discussion &middot; 2.1</p>
-					<h2 class="main-point">Let&rsquo;s argue about it</h2>
-
-					<ul class="questions fragment">
-						<li>What counts as <em>evidence</em> for Herodotus? For Thucydides? Point at a passage.</li>
-						<li>Herodotus tells you when his sources disagree. Thucydides tells you he made the speakers say
-							what was <em>called for</em>. <strong>Which one is hiding more from you?</strong></li>
-						<li>Thucydides narrates in his own voice everywhere else. Why give Melos a <em>dialogue</em>?
-							What does that let him do that plain narration wouldn&rsquo;t?</li>
-						<li>Popkin compares the invented speeches to dialogue in <em>historical films</em>. Fair, or unfair?</li>
-						<li>Is Herodotus a historian or a storyteller &mdash; and does the distinction survive contact
-							with either text?</li>
-					</ul>
-
-					<div class="reveal-block historical fragment">
-						<span class="label">If there&rsquo;s time &middot; two sentences</span>
-						<p>
-							Pick any contested recent event. Write one sentence about it
-							<strong>the Herodotus way</strong> &mdash; competing accounts, named sources, moral shading
-							&mdash; and one <strong>the Thucydides way</strong> &mdash; confident, causally tight, no
-							visible seams. Then decide which one you would rather have been handed.
-						</p>
 					</div>
 				</section>
 
