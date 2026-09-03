@@ -988,7 +988,7 @@ A reader --- prince or republic, depending on the book --- who studies the same 
 ###### The awkward part
 {: .label}
 
-Machiavelli was Livy's most devoted reader --- he wrote a whole book of commentaries on him, the *Discourses* (c. 1517), and Popkin notes that Livy's "meditations on the fall of the Roman republic" had special force in Florence after 1494 (p. 52). And his two books disagree with each other: the *Discourses* argues that **republics outlast principalities**, which is nearly Livy's own politics. *The Prince* is the same method sold to a different client. **Same reader, same Rome, opposite lesson --- twice over.** That is Carr's point about the historian, applied now to the *reader*.
+Machiavelli was Livy's most devoted reader --- he wrote a whole book of commentaries on him, the *Discourses* (c. 1517), and Popkin notes that Livy's "meditations on the fall of the Roman republic" had special force in Florence after 1494 (p. 52). And his two books disagree with each other: the *Discourses* argues that **republics outlast principalities**, which is close to Livy's idea. *The Prince* argues something different. **Same reader, same Rome, opposite lesson.** That is Carr's point about the historian and their audience. 
 </div>
 <div class="takehome fragment" data-fragment-index="2" markdown="1">
 
@@ -1000,58 +1000,10 @@ Machiavelli was Livy's most devoted reader --- he wrote a whole book of commenta
 </div>
 </section>
 
-<!-- ========== POPKIN CODA: WHERE THIS GOES ========== -->
-<section data-transition="fade" markdown="1">
-The rest of Popkin ch. 3 · topics we return to later
-{: .eyebrow}
-
-## What else the early modern era built
-{: .main-point}
-<div class="rule"></div>
-
-<div class="cards" markdown="1">
-<div class="card" markdown="1">
-
-###### Print · 56
-{: .num}
-
-#### And its downside
-
-Historians could finally compare sources --- and "formal systems of censorship, which had not existed in the Middle Ages," arrived with them. *Press Popkin on that: the 1277 condemnations were formal enough.*
-</div>
-<div class="card" markdown="1">
-
-###### Bayle · 60
-{: .num}
-
-#### The skeptical crisis
-
-His *Dictionary* (1697) catalogued so many errors it raised "doubts as to whether any dependable knowledge of the past was possible."
-</div>
-<div class="card" markdown="1">
-
-###### Mabillon · 60
-{: .num}
-
-#### The answer to the skeptics
-
-Already in 1681, ahead of Bayle: no single test proves a document, but a trained scholar comparing many features of many documents can still judge. "Still echoed in the training professional historians receive."
-</div>
-<div class="card" markdown="1">
-
-###### Spinoza → 4.1 · 61
-{: .num}
-
-#### The Bible as a source
-
-"A historical document like any other, written by men" --- which opens the road to the Enlightenment, and next week.
-</div>
-</div>
-</section>
 
 <!-- ========== RECAP ========== -->
 <section data-transition="fade" markdown="1">
-Recap · what to remember from today
+Week 3 Recap
 {: .eyebrow}
 
 ## Six things
@@ -1111,7 +1063,7 @@ Valla needs no witness. Language carries its own date, so tradition can now lose
 
 #### Imitate --- what?
 
-Livy and Bede say virtue. Machiavelli says technique. Same verb, opposite discipline.
+Livy and Bede say virtue. Machiavelli says technique. What do _you_ think history is for?
 </div>
 </div>
 </section>
@@ -1121,7 +1073,7 @@ Livy and Bede say virtue. Machiavelli says technique. Same verb, opposite discip
 Discussion · 3.1 + 3.2
 {: .eyebrow}
 
-## Let's argue about it
+## Discussion Ideas
 {: .main-point}
 
 - What makes Bede's history different from Herodotus or Thucydides? From Livy --- or is the preface the same preface?
@@ -1131,11 +1083,4 @@ Discussion · 3.1 + 3.2
 - What's the difference between using history to *teach virtue* and using it to *gain power*? Is one of them not history?
 {: .questions.compact.fragment}
 
-<div class="reveal-block historical compact fragment" markdown="1">
-
-###### If there's time · one year
-{: .label}
-
-Write the annal for this year in the *Chronicle*'s style --- four events, no causes, no explanation, joined by "and." Then hand it to someone and ask what they think you believed. **You will find you argued anyway.**
-</div>
 </section>
