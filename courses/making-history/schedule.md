@@ -78,7 +78,6 @@ The Greeks basically invented Western historical writing — but there wasn't ag
 - 📗 Jeremy Popkin, *From Herodotus to H-Net: The Story of Historiography* (2016), 26--40. 
 - 📜 Selections from Herodotus, *The Histories*, Book 1 ([the opening pages](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/1A*.html) + the story of Croesus), ~15 pp. The so-called "father of history" tells stories that mix research, hearsay, and moral lessons. Don't worry about the historical details — pay attention to HOW he tells the story, not just what happens, and what he seems to think history is for.
 - 📜 Thucydides, *History of the Peloponnesian War*, the "Funeral Oration of Pericles" and the "Melian Dialogue" (both are PDFs in Zotero), ~7 pages total. More analytical and harder than Herodotus, but try to identify HOW. Thucydides claims to write only what he can verify. Does that seem to be true in your reading? 
-<!-- - Slides with [Key Quotes from Popkin, Herodotus, and Thucydides](slides/greeks-evidence-and-purpose/) -->
 
 #### Discussion
 - What counts as evidence for Herodotus? For Thucydides?
@@ -111,6 +110,7 @@ Every society decides who gets to write history and what counts as valid evidenc
 ### 3.1: Medieval Divine Histories
 Medieval historians didn't share our notions about evidence, causation, or what history was supposed to accomplish. For a Christian monk, God was a perfectly valid historical force. For an Islamic scholar studying a foreign culture, the goal was rigorous cross-cultural documentation. These three texts show very different answers to a question we've already surfaced but barely scratched: what makes history trustworthy? It looks like a lot of stuff for today, but the three primary sources are super short excerpts just to give you a sense of the style and approach.
 
+- Slides of [Week 2 Overview](slides/greeks-evidence-and-purpose/)
 - 📗 Jeremy Popkin, *From Herodotus to H-Net: The Story of Historiography* (2016), 40--47. 
 - 📜 Skim to get a general flavor of the *[Anglo-Saxon Chronicle](https://en.wikisource.org/wiki/The_Anglo-Saxon_Chronicle_%28Giles%29)*, and read more carefully the annals for 787--900 (the Viking raids and Alfred), ~5 pp. Use the browser's find function to jump to "A. 787" and read through "A. 900". What counts as worth recording — and what gets left out entirely?
 - 📜 Bede, *Ecclesiastical History of the English People* (731), ~10 pp. Read three short pieces: the [Preface](https://www.gutenberg.org/cache/epub/38326/pg38326-images.html#Preface) (his letter to King Ceolwulf, where he lists exactly who told him what), [Book I, Ch. VII](https://www.gutenberg.org/cache/epub/38326/pg38326-images.html#toc25) (the martyrdom of St. Alban), and [Book II, Ch. XIII](https://www.gutenberg.org/cache/epub/38326/pg38326-images.html#Book_II_Chap_XIII) (King Edwin's council, and the sparrow flying through the hall). A monk writing the history of England as the story of Christianity's arrival. Miracles are evidence here. Pay attention to what Bede thinks history is *for* — compare his answer to Livy's.
@@ -124,6 +124,7 @@ Medieval historians didn't share our notions about evidence, causation, or what 
 ### 3.2: Early Modern Statecraft
 By the Renaissance, some writers had a sharply practical answer to "what is history for?": it teaches you how power works. Machiavelli is the famous example.
 
+- Slides of [Week 3 Overview](slides/divine-power-and-statecraft/)
 - 📗 Jeremy Popkin, *From Herodotus to H-Net* (2016), Ch. 3: "The Historiographical Revolution of the Early Modern Era", 49--69. 
 - 📜 Niccolò Machiavelli, *The Prince*, Ch. 1–8 (selections), ~20 pp. Machiavelli reads history for *lessons* about how to get and keep power. History is a toolkit. Read for the argument — and don't worry about all the historical references. 
 
@@ -135,13 +136,13 @@ By the Renaissance, some writers had a sharply practical answer to "what is hist
 We lost week 2 (sorry!), so we'll spend part of today pulling the ancient and medieval readings together.
 
 - Every one of these writers tells you, directly or not, what history is *for*. Line up their answers — Herodotus, Thucydides, Livy, Sima Qian, the *Anglo-Saxon Chronicle*, Bede, al-Biruni, Machiavelli. Where are the real disagreements, and where are they just different vocabulary for the same idea?
-- What counts as good evidence for each of them? Thucydides wants only what he can verify; Bede treats miracles as proof; al-Biruni wants named sources and declared biases. Is that a story of progress, or just of difference?
+- What counts as good evidence for each of them? Thucydides wants only what he can verify; Bede treats miracles as proof; al-Biruni wants named sources and declared biases. You know there is no _progress_ here, so how should we think of them chronologically?
 - Livy and Machiavelli both mine the Roman past for lessons. Do they want the same *kind* of lesson?
 - Which of these eight would recognize each other as doing the same job?
 
 
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Because week 2 was cancelled, this one covers **both** weeks --- the ancient historians as well as this week's medieval and early modern ones. What is the story of history over the last two weeks of readings?
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Because week 2 was cancelled, this one covers **both** weeks --- the ancient historians as well as this week's medieval and early modern ones. Your prompt is simple: **What is the story of history over the last two weeks of readings?** Use the above discussion questions to help guide your thinking, but don't just answer each one. Write a single coherent response. Show your engagement with the reading material!
 "%}
 
 

@@ -1,0 +1,134 @@
+/* Image-only slides
+ * ------------------
+ * Pair with reveal-lecture-theme.css. A `<section class="image-slide">`
+ * holds one `<figure class="landscape">` or `<figure class="portrait">`
+ * with an `<img>` and a `<figcaption>`. Landscape puts the caption below
+ * the image; portrait puts it to the right.
+ */
+.reveal section.image-slide {
+	text-align: center;
+	height: 100%;
+}
+
+.reveal section.image-slide figure {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 1.2em;
+}
+
+/* Landscape: caption below the image */
+.reveal section.image-slide figure.landscape {
+	flex-direction: column;
+}
+
+/* Portrait: caption to the right of the image */
+.reveal section.image-slide figure.portrait {
+	flex-direction: row;
+}
+
+/* Pair: two images side by side above one shared caption. For showing two
+   faces of one object, or two witnesses of one text, at the same moment.
+   Wrap the two <img> in a .pair-images div. */
+.reveal section.image-slide figure.pair {
+	flex-direction: column;
+}
+
+.reveal section.image-slide figure.pair .pair-images {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	gap: 1.4em;
+	width: 100%;
+	flex: 1 1 auto;
+	min-height: 0;
+}
+
+.reveal section.image-slide figure.pair .pair-images img {
+	max-height: 100%;
+	max-width: 47%;
+	width: auto;
+	height: auto;
+	flex-shrink: 1;
+}
+
+.reveal section.image-slide figure.pair figcaption {
+	text-align: center;
+	max-width: 92%;
+	flex-shrink: 0;
+}
+
+.reveal section.image-slide img {
+	display: block;
+	border: 1px solid var(--ts-border);
+	box-shadow: 0 6px 30px rgba(0,0,0,0.45);
+	background: #1a1a1a;
+	object-fit: contain;
+	min-height: 0;
+}
+
+.reveal section.image-slide figure.landscape img {
+	max-width: 100%;
+	max-height: 85%;
+	width: auto;
+	height: auto;
+}
+
+.reveal section.image-slide figure.portrait img {
+	max-height: 100%;
+	max-width: 65%;
+	width: auto;
+	height: auto;
+	flex-shrink: 1;
+}
+
+.reveal section.image-slide figcaption {
+	font-family: 'JetBrains Mono', monospace;
+	font-size: 0.45em;
+	letter-spacing: 0.12em;
+	text-transform: uppercase;
+	color: var(--ts-heading-3);
+	line-height: 1.4;
+}
+
+.reveal section.image-slide figure.landscape figcaption {
+	text-align: center;
+	max-width: 90%;
+	flex-shrink: 0;
+}
+
+.reveal section.image-slide figure.portrait figcaption {
+	text-align: left;
+	max-width: 35%;
+	flex-shrink: 0;
+	border-left: 1px solid var(--ts-border);
+	padding-left: 1em;
+}
+
+/* Italic titles inside a caption use <i> so they stay inline —
+   <em> is reserved for the block-level note/credit line below. */
+.reveal section.image-slide figcaption i {
+	font-style: italic;
+	text-transform: none;
+	letter-spacing: 0.02em;
+}
+
+.reveal section.image-slide figcaption em i {
+	letter-spacing: 0;
+}
+
+.reveal section.image-slide figcaption em {
+	font-family: 'Fraunces', Georgia, serif;
+	font-style: italic;
+	text-transform: none;
+	letter-spacing: 0;
+	color: var(--ts-text-muted);
+	display: block;
+	margin-top: 0.4em;
+	font-size: 1.15em;
+}

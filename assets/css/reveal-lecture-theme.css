@@ -19,6 +19,8 @@
  *   .eyebrow       — small caps mono label above the slide heading
  *   .main-point    — the slide's h1/h2 headline
  *   .detail        — muted supporting paragraph (e.g. on title slides)
+ *   ul.source-list — title-slide reading list; stacks like .detail lines
+ *                    with a small gold dash instead of a bullet
  *   .rule          — short gradient divider line
  *   .quote         — the primary, literal quotation (the centerpiece)
  *     .quote .cite — mono citation line under a quote
@@ -34,6 +36,7 @@
  *                    font-size/line-height/margins for text-heavy slides
  *                    at risk of overflowing the fixed slide height
  *   .takehome      — highlighted pithy takeaway line
+ *     .takehome.compact — tightened variant for a takeaway that runs long
  *   .parallel      — two-column comparison (e.g. "then" vs. "now")
  *     .parallel .track / .track.now / .track.ai
  *     .parallel.compact — tightened variant for text-heavy comparisons
@@ -110,6 +113,40 @@ html, body, .reveal {
 .reveal .detail strong { color: var(--ts-text); font-weight: 600; }
 .reveal .detail em { color: var(--ts-heading-3); font-style: italic; }
 
+/* Title-slide reading list: the sources a session is built on. Reads as a
+   stack of .detail lines rather than a bulleted list, so it sits quietly
+   under the headline. Overrides reveal's inline-block/disc list defaults. */
+.reveal ul.source-list {
+	display: block;
+	list-style: none;
+	font-size: 0.62em;
+	line-height: 1.45;
+	color: var(--ts-text-muted);
+	margin: 0.55em 0 0 0;
+	padding: 0;
+}
+
+.reveal ul.source-list li {
+	position: relative;
+	padding-left: 1.15em;
+	margin-bottom: 0.3em;
+}
+
+/* A short gold dash, echoing .rule, in place of a disc bullet. */
+.reveal ul.source-list li::before {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 0.68em;
+	width: 0.6em;
+	height: 1px;
+	background: var(--ts-accent);
+	opacity: 0.8;
+}
+
+.reveal ul.source-list em { color: var(--ts-heading-3); font-style: italic; }
+.reveal ul.source-list strong { color: var(--ts-text); font-weight: 600; }
+
 .reveal .rule {
 	height: 1px;
 	width: 140px;
@@ -174,6 +211,7 @@ html, body, .reveal {
 .reveal .reveal-block .label {
 	font-family: 'JetBrains Mono', monospace;
 	font-size: 0.4em;
+	font-weight: normal;
 	text-transform: uppercase;
 	letter-spacing: 0.18em;
 	color: var(--ts-heading-3);
@@ -275,6 +313,7 @@ html, body, .reveal {
 .reveal .takehome .label {
 	font-family: 'JetBrains Mono', monospace;
 	font-size: 0.4em;
+	font-weight: normal;
 	text-transform: uppercase;
 	letter-spacing: 0.18em;
 	color: var(--ts-heading-1);
@@ -289,6 +328,20 @@ html, body, .reveal {
 	color: var(--ts-heading-1);
 	margin: 0;
 	font-weight: 600;
+}
+
+/* Compact modifier, matching .reveal-block.compact: for a take-home that has
+   to carry a citation or a three-way comparison and would otherwise push the
+   slide past the fixed 960x700 box. */
+.reveal .takehome.compact {
+	margin-top: 0.45em;
+	padding-top: 0.38em;
+	padding-bottom: 0.38em;
+}
+
+.reveal .takehome.compact p {
+	font-size: 0.58em;
+	line-height: 1.2;
 }
 
 /* Two-column comparison */
@@ -341,6 +394,7 @@ html, body, .reveal {
 .reveal .card .num {
 	font-family: 'JetBrains Mono', monospace;
 	font-size: 0.4em;
+	font-weight: normal;
 	color: var(--ts-heading-3);
 	letter-spacing: 0.15em;
 	display: block;
