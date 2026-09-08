@@ -650,7 +650,7 @@ Lord Acton · Regius Professor of Modern History, Cambridge
 
 <!-- ========== THE FORK: HOW DO WE READ THEM? ========== -->
 <section markdown="1">
-The choice · now that you have actually read them
+The choice · judging medieval sources
 {: .eyebrow}
 
 ## So how do we judge any of that?

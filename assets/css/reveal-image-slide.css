@@ -3,7 +3,22 @@
  * Pair with reveal-lecture-theme.css. A `<section class="image-slide">`
  * holds one `<figure class="landscape">` or `<figure class="portrait">`
  * with an `<img>` and a `<figcaption>`. Landscape puts the caption below
- * the image; portrait puts it to the right.
+ * the image; portrait puts it to the right. Both give the image as much
+ * room as the slide allows and hold the caption to a quiet line — legible
+ * to whoever is presenting, not sized to be read from the back row. One
+ * image per slide; a second image gets its own slide.
+ *
+ * `.image-notes` is the exception: a normal content slide (NOT
+ * `.image-slide`) that sets a reduced copy of an image beside a list of
+ * points about it — `<div class="image-notes">` holding an `<img>` and a
+ * `<div class="notes">` with a `<ul>`. Use it after a full-bleed image
+ * slide when the picture is evidence that needs unpacking rather than
+ * decoration. Give the list items a bold lead-in; the dash matches
+ * `ul.source-list` in the main theme. These slides carry no eyebrow and no
+ * headline — the full-bleed image before them has already introduced the
+ * subject, and the space goes to the notes. The note type is sized to be
+ * read by whoever is presenting, not from the back row. To carry more than one image, wrap
+ * them in a `<div class="shots">` — they stack in the image column.
  */
 .reveal section.image-slide {
 	text-align: center;
@@ -74,14 +89,14 @@
 
 .reveal section.image-slide figure.landscape img {
 	max-width: 100%;
-	max-height: 85%;
+	max-height: 92%;
 	width: auto;
 	height: auto;
 }
 
 .reveal section.image-slide figure.portrait img {
 	max-height: 100%;
-	max-width: 65%;
+	max-width: 74%;
 	width: auto;
 	height: auto;
 	flex-shrink: 1;
@@ -89,7 +104,7 @@
 
 .reveal section.image-slide figcaption {
 	font-family: 'JetBrains Mono', monospace;
-	font-size: 0.45em;
+	font-size: 0.36em;
 	letter-spacing: 0.12em;
 	text-transform: uppercase;
 	color: var(--ts-heading-3);
@@ -104,7 +119,7 @@
 
 .reveal section.image-slide figure.portrait figcaption {
 	text-align: left;
-	max-width: 35%;
+	max-width: 26%;
 	flex-shrink: 0;
 	border-left: 1px solid var(--ts-border);
 	padding-left: 1em;
@@ -131,4 +146,64 @@
 	display: block;
 	margin-top: 0.4em;
 	font-size: 1.15em;
+}
+
+/* An image beside notes about it — see the header comment. Lives on an
+   ordinary section, so it has to override reveal's default image border. */
+.reveal .image-notes {
+	display: grid;
+	grid-template-columns: 42% 1fr;
+	gap: 1.3em;
+	align-items: start;
+}
+
+/* kramdown wraps a bare <img> in a <p>; keep it from adding vertical space. */
+.reveal .image-notes > p {
+	margin: 0;
+}
+
+.reveal .image-notes img {
+	display: block;
+	width: 100%;
+	margin: 0;
+	border: 1px solid var(--ts-border);
+	background: none;
+	box-shadow: 0 6px 24px rgba(0,0,0,0.45);
+}
+
+.reveal .image-notes .notes ul {
+	display: block;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	font-size: 0.42em;
+	line-height: 1.4;
+}
+
+.reveal .image-notes .notes li {
+	position: relative;
+	padding-left: 1.15em;
+	margin-bottom: 0.5em;
+	color: var(--ts-text);
+}
+
+.reveal .image-notes .notes li::before {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 0.62em;
+	width: 0.7em;
+	height: 2px;
+	background: var(--ts-accent);
+}
+
+.reveal .image-notes .notes strong {
+	color: var(--ts-heading-2);
+	font-weight: 600;
+}
+
+/* Two or more images stacked in the image column of .image-notes. */
+.reveal .image-notes .shots {
+	display: grid;
+	gap: 0.5em;
 }
