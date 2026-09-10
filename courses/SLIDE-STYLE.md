@@ -104,6 +104,34 @@ finished — and a reader who needs the connection is better served by six words
 repeated than by being sent somewhere. If a disclosure matters, put it where
 the problem is, not where you promise it will be.
 
+**Cross-references stay, but flatten them to a pointer.** References backward
+and forward are worth making — they are most of what makes a survey course
+cohere. What they should not be is staged. Write `Compare Voltaire in 4.1.` or
+`Compare Week 9 (Said, Trouillot).` and stop: the reference is a signpost, and
+the person delivering the lecture will elaborate on it out loud. What goes is
+the narration wrapped around it — "the shape historians in Week 9 will find
+underneath nineteenth-century imperial history," "Herder, who closed the last
+session refusing any universal standard, is the ancestor of the move." Those
+spend three lines dramatising a connection that one clause can make.
+
+**The register to match is the syllabus, not an explainer.** `schedule.md` is
+the model: "Pay attention to what Bede thinks history is *for* — compare his
+answer to Livy's." "Read after Burke and focus on the core contrast: slow
+structures versus fast events." "A direct challenge to the Week 4
+professionalization story." Flat, declarative, specific, unexcited. A slide
+should read like that, not like something walking a reader through a
+revelation.
+
+Phrasings to cut on sight, all of which crept into these decks and had to be
+removed: **"Hold onto this"**, **"Notice that…"**, **"Worth keeping in
+view"**, **"The question worth carrying"**, **"Which is the uncomfortable
+part"**, **"This is the actual innovation"**, **"the useful question isn't X,
+it's Y"**, and any staging by clock or slide count ("twenty minutes from now,"
+"three slides earlier"). Block labels attract this worst of all: prefer a
+label that *names* what the block contains — "The innovation," "The word
+'only'," "Whose manners," "What rigour does not prevent" — over one that
+instructs the reader how to feel about it.
+
 A specific course connection is not clutter and stays: "the two writers you
 read," "Bridge between weeks 3 and 4," a `.source-list`, a `.cite`. Those point
 at something — this text, that session, this week's place in the sequence — and
@@ -111,21 +139,32 @@ that pointing is the work. What goes is the flourish that points at nothing.
 Second person is likewise fine when it's doing analytic work ("the useful
 question isn't 'is it true?'"), not when it narrates the seminar.
 
-**Introduce people before their ideas — portrait first, then a brief bio.**
-The order is: the portrait image slide, then a short bio slide, then the
-quotes. Put the face up before the dates. A quote from someone the audience
-hasn't met yet is just words on a screen, and a bio slide with no face is a
-list of dates nobody can attach to anything.
+**Introduce people on their portrait slide, then go straight to the detail.**
+The sequence for a person is two slides, not three: an image slide whose
+caption carries the whole introduction, then the first content slide about
+what they wrote.
 
-Keep the bio **brief — two blocks at most**. The portrait has already done the
-introducing, so the text only has to carry what the picture cannot: when and
-where they lived, and what put them in a position to write this. Resist the
-full `.parallel` two-column life/work treatment unless the two columns are
-genuinely doing different jobs; for most figures a single `.reveal-block` plus
-a `.takehome` is enough. See the Humboldt and Ranke openings in
-`scientific-history`, and note that the older `divine-power-and-statecraft`
-and `enlightenment-progress` decks still run bio-then-portrait — they predate
-this rule and are not the model to copy on this point.
+Put in the caption rail, and nothing else: **the name and dates** on the label
+line, then a **brief bio** — where they lived, what they had done, what put
+them in a position to write this — then a **`Why he matters:` line** saying
+what their presence in this session is for, then the **credit**. No headline,
+no `.reveal-block`, no take-home; the picture and the rail are the slide. A
+face and a paragraph beside it introduce someone faster than a slide of dates
+with no face, and it buys back a slide per person.
+
+Keep the whole caption **under about 500 characters**. The rail is `max-width:
+26%` — roughly 214px of text, about 26 characters a line in the italic body —
+so 500 characters is already some twenty lines against a 640px slide. Past
+about 640 characters the rail overflows and is clipped, not scrolled. The four
+portrait captions in `enlightenment-progress-2` (Voltaire, Kant, Condorcet,
+Herder) run 426–504 and are the model.
+
+The person's *arguments* still get full slides afterwards, unchanged — this
+rule only replaces the separate "00: who they are" bio slide, which said in a
+two-column `.parallel` what a caption can say beside a face. The older decks
+(`divine-power-and-statecraft`, `scientific-history`, and part one of
+`enlightenment-progress`) still carry standalone bio slides; they predate this
+rule and are not the model on this point.
 
 **Introduce texts as things before getting into their details.** Before
 unpacking a passage, say what the text *is*: when it was written, published
@@ -260,10 +299,10 @@ Otherwise a single-session deck (one class meeting, e.g.
    sentence on what happens there. Students should be able to tell where they
    are in the hour from this slide alone. See the two opening slides of
    `enlightenment-progress`.
-4. **Per source or person**, repeated: an image slide for their portrait
-   first, then a brief "00: who they are" bio slide (two blocks at most; a
-   `.parallel` two-column life / work only if both columns earn it), then
-   1–4 quote slides (primary `.quote` +
+4. **Per source or person**, repeated: an image slide for their portrait,
+   whose caption carries the whole introduction — name, dates, brief bio,
+   why they matter here, credit — and then straight into 1–4 quote slides
+   (primary `.quote` +
    `.reveal-block.unpack`/`.argument`/`.historical` fragments + `.takehome`),
    interleaved with image slides for objects, manuscripts, places, or events
    the quotes reference.

@@ -9,7 +9,7 @@ image_slides: true
 <img src="images/ranke-library-1880s.jpg" alt="A dim photograph of an old, white-bearded man seated in a high-backed chair, almost lost among floor-to-ceiling shelves of books, with stacks of volumes and an open book piled across the table in the foreground">
 <figcaption markdown="span">
 Leopold von Ranke in his library, early 1880s
-<em>He is about eighty-seven here, and nearly blind; the last volumes were dictated.<br>(Leopold von Ranke Papers, Syracuse University Special Collections. Public domain.)</em>
+<em>About eighty-seven here, and nearly blind; the last volumes were dictated. <strong>The books were never systematically arranged</strong> — after Syracuse University bought the library, some 20,000 volumes, it took until 1913 to catalogue them.<br>(No photographer recorded. Leopold von Ranke Papers, Syracuse University Special Collections. Public domain.)</em>
 </figcaption>
 </figure>
 </section>
@@ -20,10 +20,9 @@ Leopold von Ranke in his library, early 1880s
 <img src="images/ranke-library-1880s.jpg" alt="The library photograph, reduced: the historian barely visible among his shelves and stacks">
 <div class="notes" markdown="1">
 
-- **You have to look for the man.** The shelves and the stacks take the picture; he is a pale smudge at the centre of it — the self-portrait of a historian who claimed his job was to disappear behind his sources. <em class="ask">If a historian disappears behind the sources, who chose which sources to stand behind?</em>
-- **This is a working archive, not a study.** Documents stored so that one claim can be checked against another. <em class="ask">What history becomes possible in a room like this — and what becomes impossible?</em>
+- **You have to look for the man.** The shelves and stacks take the picture; he is a pale smudge at the centre — the self-portrait of a historian whose stated job was to disappear behind his sources. <em class="ask">If a historian disappears behind the sources, who chose which sources to stand behind?</em>
+- **This is a working archive, not a study.** Documents stored so that one claim can be checked against another. The photograph is itself new evidence technology arriving with the new history: photographs "appeared to preserve images in an objective form," though Brady's Civil War pictures "were all taken after the battles they purportedly illustrated" (Popkin, p. 97). <em class="ask">What history becomes possible in a room like this — and what becomes impossible?</em>
 - **Somebody built this room.** Prussian ministries opened the archives, a university paid the salary, a publisher printed the footnotes — each for reasons of its own. <em class="ask">Does it matter to the truth of a history book who paid for the paper it rests on?</em>
-- **He is at the end of it.** Sixty years on: honoured across Europe, nearly blind, still dictating. <em class="ask">Would he say the method delivered what its first sentence promised?</em>
 </div>
 </div>
 </section>
@@ -55,7 +54,7 @@ Making History • HIST 1105 • Week 4
 - Background: Popkin, ch. 4, 71–98
 {: .source-list}
 
-Three years apart, two writers promise the same thing *in English* — and a discipline gets built on it. Popkin cited by page, Ranke by which of his three excerpts.
+Two definitions of the historian's task, three years apart in Prussia — and the discipline that grew out of one of them. Popkin cited by page, Ranke by which of his three excerpts.
 {: .detail}
 </section>
 
@@ -64,32 +63,32 @@ Three years apart, two writers promise the same thing *in English* — and a dis
 The take home · three things
 {: .eyebrow}
 
-## Both of them promise "what actually happened." Neither meant just the facts.
+## Two answers to one question. The discipline kept the one that could be taught.
 {: .main-point}
 <div class="rule"></div>
 
 <div class="reveal-block unpack fragment compact" data-fragment-index="0" markdown="1">
 
-###### 01 · The sentence is a renunciation
+###### 01 · The question they share
 {: .label}
 
-It is not a boast about access to the past. It is a refusal of two older jobs — judging the past, and drawing lessons for the present. Ranke says so in the same breath.
+Both ask what the historian's task is, and both answer: to present what actually happened. Neither means simply gathering facts, and both are refusing history written to judge the past or instruct the present.
 </div>
 
 <div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
 
-###### 02 · And it came with an apparatus
+###### 02 · Two kinds of answer
 {: .label}
 
-Archives, footnotes, a seminar, journals, a doctorate. Objectivity was made teachable — a set of practices you could be trained in and judged on.
+Humboldt describes what understanding an event requires, and admits the evidence never supplies it. Ranke gives a procedure: named sources, on every page, with the workings published beside them.
 </div>
 
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 
-###### 03 · Whoever builds the apparatus sets the questions
+###### 03 · Only a procedure travels
 {: .label}
 
-States paid for the archives and the chairs. The seminar admitted a narrow few. **A method can be honest and still only ever get asked about certain things, by certain people.**
+A procedure can be taught, examined and failed, so Ranke's is the one that became a discipline — and it arrived with archives, a seminar, journals and state money. **A method can be honest and still only ever get asked about certain things, by certain people.**
 </div>
 </section>
 
@@ -108,9 +107,9 @@ Where we're going · three parts
 ###### 01 · 1821 and 1824
 {: .num}
 
-#### The same promise, twice
+#### Two answers to one question
 
-Humboldt and Ranke both promise what actually happened — and each immediately qualifies it in a different way.
+Humboldt on what understanding an event requires; Ranke on what a book must disclose. The same task, defined twice.
 </div>
 <div class="card" markdown="1">
 
@@ -119,7 +118,7 @@ Humboldt and Ranke both promise what actually happened — and each immediately 
 
 #### What made it a discipline
 
-Archives, footnotes, the research seminar, the journals. Objectivity as a workflow you can be trained in and judged by.
+The footnote, the seminar, and judgment by trained peers. Objectivity as a workflow you can be trained in and examined on.
 </div>
 <div class="card" markdown="1">
 
@@ -134,7 +133,7 @@ A profession funded by states, a seminar that admitted almost nobody, and Ranke'
 </section>
 
 <!-- ================================================================ -->
-<!-- =============== PART ONE: THE SAME PROMISE, TWICE =============== -->
+<!-- =============== PART ONE: TWO ANSWERS TO ONE QUESTION ============ -->
 <!-- ================================================================ -->
 
 <!-- ========== BRIDGE: WHAT 1806 DID ========== -->
@@ -158,7 +157,7 @@ Napoleon crushes Prussia in 1806. In 1810 the University of Berlin is founded "a
 </div>
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 
-###### Why start here
+###### Method and funding at once
 {: .label}
 
 The two texts you read are not free-floating opinions about method. They are written inside a project to rebuild a defeated state, at an institution created for that purpose. **Both facts are true at once: the method is a real advance, and it was funded for a reason.**
@@ -166,40 +165,15 @@ The two texts you read are not free-floating opinions about method. They are wri
 </div>
 </section>
 
-<!-- ========== IMAGE: HUMBOLDT ========== -->
+<!-- ========== IMAGE: HUMBOLDT, WHO HE IS ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="portrait">
 <img src="images/humboldt-lawrence-portrait.jpg" alt="Painted portrait of a middle-aged man in a dark red fur-collared coat against a plain brown ground, turned slightly to one side, his right hand resting on a sheaf of papers">
 <figcaption markdown="span">
-Wilhelm von Humboldt · Sir Thomas Lawrence
-<em>Painted for George IV's Waterloo Chamber, the series of allied statesmen. <strong>No orders, no decorations — a hand resting on papers.</strong><br>(Royal Collection Trust, RCIN 404936. Public domain.)</em>
+Wilhelm von Humboldt · 1767–1835
+<em>A comparative linguist and philosopher of language, and a Prussian diplomat at Vienna. He directed Prussia's education section from 1809, drafted the plan for a university in Berlin, and resigned in 1810, months before it opened. He read this essay to the Prussian Academy in 1821.<br><strong>Why he matters:</strong> the essay "set out a program that anticipated many of Ranke's ideas" (Popkin, p. 79) — the institution and the method specified by one person.<br>(Thomas Lawrence, for the Waterloo Chamber. Royal Collection, RCIN 404936. Public domain.)</em>
 </figcaption>
 </figure>
-</section>
-
-<!-- ========== HUMBOLDT 00: WHO HE IS ========== -->
-<section markdown="1">
-Wilhelm von Humboldt · 1767–1835
-{: .eyebrow}
-
-## A comparative linguist, not a historian, defines the historian's task
-{: .main-point}
-
-<div class="reveal-block historical fragment compact" data-fragment-index="0" markdown="1">
-
-###### Who he was
-{: .label}
-
-A comparative linguist and philosopher of language — Basque, Kawi, the theory of *Bildung* — who was also a Prussian diplomat at the Congress of Vienna. He directed Prussia's education section from 1809, drafted the plan for a university in Berlin on the principle that teaching and research belong in the same hands, and resigned the post in 1810, months before it opened. He read this essay to the Prussian Academy in 1821.
-</div>
-
-<div class="takehome fragment compact" data-fragment-index="1" markdown="1">
-
-###### Why he comes first
-{: .label}
-
-Popkin notes his essay "set out a program that anticipated many of Ranke's ideas" (p. 79). The institution and the method were specified by the same person, three years before Ranke's preface.
-</div>
 </section>
 
 <!-- ========== HUMBOLDT 01: THE FIRST SENTENCE ========== -->
@@ -207,7 +181,7 @@ Popkin notes his essay "set out a program that anticipated many of Ranke's ideas
 The text · read to the Prussian Academy, 1821
 {: .eyebrow}
 
-## He opens with the promise, then spends the essay taking it apart
+## The task is stated in a sentence, then complicated for fourteen pages
 {: .main-point}
 
 "The historian's task is to present what actually happened." <span class="cite">Humboldt, "On the Historian's Task," p. 57</span>
@@ -219,11 +193,11 @@ The text · read to the Prussian Academy, 1821
 ###### What he says next
 {: .label}
 
-That an event is only *partly* available to the senses — the rest has to be supplied by the historian, through inference and judgment. Sorting out what happened gets you a skeleton, not an event; the connections between facts are added, not found. And the historian, he argues, has to show each event as part of a whole.
+The essay is not a method but an account of historical understanding. An event, he argues, is only *partly* available to the senses; the rest must be supplied by the historian through inference and judgment. Sorting facts gets you a skeleton, not an event — the connections between them are added, not found — and the historian's obligation is to show each event as part of a whole. The faculty this requires he compares to the artist's.
 </div>
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 
-###### So the first sentence is not naive
+###### A standard, not a description
 {: .label}
 
 It is a standard, not a description of an easy job. **"What actually happened" is what you are aiming at precisely because the evidence never simply hands it to you.** Every complaint made against scientific history for the next two centuries is already inside its founding document.
@@ -231,40 +205,54 @@ It is a standard, not a description of an easy job. **"What actually happened" i
 </div>
 </section>
 
-<!-- ========== IMAGE: RANKE PORTRAIT ========== -->
+<!-- ========== TRANSITION: TWO KINDS OF ANSWER ========== -->
+<section markdown="1">
+Humboldt and Ranke · 1821 and 1824
+{: .eyebrow}
+
+## The same question, answered in two different registers
+{: .main-point}
+
+<div class="parallel fragment" data-fragment-index="0" markdown="1">
+<div class="track" markdown="1">
+
+##### Humboldt · 1821
+An address to an academy by a philosopher of language. His subject is the gap between the evidence and the event: the senses give fragments, and the historian supplies the connections. An account of what understanding requires — described honestly, and left open.
+</div>
+<div class="track now" markdown="1">
+
+##### Ranke · 1824
+A preface to a working book of history. The same gap becomes a problem to be managed: a hierarchy of sources, a citation on every page, a companion volume of criticism. Not a solution. A way of making the gap auditable.
+</div>
+</div>
+
+<div class="swap" markdown="1">
+<div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
+
+###### Not the same sentence
+{: .label}
+
+In English the two promises read almost alike, but that is the work of two different translators, a century apart. Humboldt writes *die Darstellung des Geschehenen*; Ranke, *wie es eigentlich gewesen*. Popkin puts the relation carefully: the 1821 essay "set out a program that anticipated many of Ranke's ideas" (p. 79). An affinity, not an echo.
+</div>
+<div class="takehome fragment" data-fragment-index="2" markdown="1">
+
+###### Why the rest of the hour is Ranke
+{: .label}
+
+Only one of these can be handed to somebody else. A footnote convention and a seminar can be exported to Tokyo, Baltimore and Paris; **"supply the connections yourself" cannot be taught, examined, or failed.**
+</div>
+</div>
+</section>
+
+<!-- ========== IMAGE: RANKE, WHO HE IS ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="portrait">
 <img src="images/ranke-jebens-portrait-1875.jpg" alt="Painted portrait of a very old man with white hair, seated in a carved wooden chair, wrapped in a dark cloak over a buttoned coat, with two star-shaped decorations pinned to his chest">
 <figcaption markdown="span">
-Leopold von Ranke, aged about eighty · Adolf Jebens, 1875
-<em><strong>Note the two Prussian decorations on his chest.</strong> He insisted historians be judged by trained peers rather than by rulers — and wore the rulers' decorations.<br>(Adolf Jebens, 1875. Public domain.)</em>
+Leopold von Ranke · 1795–1886
+<em>Trained in theology and philology, and teaching at a Gymnasium in Frankfurt an der Oder when he wrote the book on the next slide — not a professor, not commissioned by anyone. It won him a post at Berlin, where he taught from 1825 into the 1870s.<br><strong>Why he matters:</strong> the discipline's most famous sentence was written by a schoolteacher of twenty-eight, in a preface apologising for his book. <strong>Note the two decorations:</strong> he insisted historians be judged by peers, not rulers.<br>(Adolf Jebens, 1875. Public domain.)</em>
 </figcaption>
 </figure>
-</section>
-
-<!-- ========== RANKE 00: WHO HE IS ========== -->
-<section markdown="1">
-Leopold von Ranke · 1795–1886
-{: .eyebrow}
-
-## A schoolmaster of twenty-eight
-{: .main-point}
-
-<div class="reveal-block historical fragment compact" data-fragment-index="0" markdown="1">
-
-###### Who he was
-{: .label}
-
-Trained in theology and classical philology, and teaching at a Gymnasium in Frankfurt an der Oder when he wrote this — not a professor, not commissioned by anyone. The book got him a post at Berlin, where he taught from 1825 into the 1870s and trained a generation. He died in 1886, aged ninety.
-</div>
-
-<div class="takehome fragment compact" data-fragment-index="1" markdown="1">
-
-###### Worth keeping in view
-{: .label}
-
-The most famous sentence in the discipline is written by a young schoolteacher in a preface, apologising for his book. It was made famous later, by other people, for their own purposes.
-</div>
 </section>
 
 <!-- ========== IMAGE: THE 1824 TITLE PAGE ========== -->
@@ -292,10 +280,10 @@ The preface · 1824
 <div class="swap" markdown="1">
 <div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
 
-###### Read the word "only"
+###### The word "only"
 {: .label}
 
-This is modesty, not ambition. Judging and instructing were what Livy did, what Bede did, what Machiavelli did, what Voltaire did last session. Ranke is declining all of it — and Popkin is explicit that the target is "Enlightenment historians such as Voltaire and Gibbon" (p. 79).
+This is modesty, not ambition. Judging and instructing were what Livy, Bede and Machiavelli did. Compare Voltaire in 4.1. Ranke is declining all of it — and Popkin is explicit that the target is "Enlightenment historians such as Voltaire and Gibbon" (p. 79).
 </div>
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 
@@ -303,46 +291,6 @@ This is modesty, not ambition. Judging and instructing were what Livy did, what 
 {: .label}
 
 A claim that can be argued with. If a historian is delivering verdicts, you can only agree or disagree with their values. If they are claiming an event went a particular way, **you can go and look.** The authority moves from the historian's standing to their sources.
-</div>
-</div>
-</section>
-
-<!-- ========== IMAGE: THE PAGE ITSELF ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="images/ranke-vorrede-1824.jpg" alt="A page of blackletter German type, page numbered VI, whose first three lines end with the words wie es eigentlich gewesen, followed by a paragraph listing the kinds of sources the book rests on">
-<figcaption markdown="span">
-The sentence on the page · preface, p. VI, 1824
-<em>Top three lines: <i>er will bloß sagen, wie es eigentlich gewesen</i>. Directly under it, the source list — and <strong>"Jede Seite zeigt an": every page shows which works those were.</strong> The promise and the apparatus, one paragraph apart.<br>(Cropped from the Internet Archive scan, <i>geschichtenderro00rank</i>. Public domain.)</em>
-</figcaption>
-</figure>
-</section>
-
-<!-- ========== RANKE 02: WHERE THE EVIDENCE COMES FROM ========== -->
-<section markdown="1">
-The preface · sources
-{: .eyebrow}
-
-## The famous line is worthless without the paragraph that follows it
-{: .main-point}
-
-"The basis of the present work, the sources of its material, are memoirs, diaries, letters, ambassadors' reports, and original accounts of eyewitnesses... These sources will be noted on every page." <span class="cite">Ranke, 1824 introduction</span>
-{: .quote.compact.fragment data-fragment-index="0"}
-
-<div class="swap" markdown="1">
-<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
-
-###### Three commitments in one paragraph
-{: .label}
-
-**A hierarchy of evidence** — eyewitness and administrative papers over later narratives. **Full disclosure** — the sources named on every page, so a reader can retrace the work. **A separate volume of criticism**, issued the same day, showing how he judged the sources. Anthony Grafton calls the result "a distinctively modern, double story": the past, and the historian's effort to reconstruct it (Popkin, p. 80).
-</div>
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-
-###### This is the actual innovation
-{: .label}
-
-Not the phrase — versions of it were common. **The footnote is the argument.** Ranke publishes his workings, which means he can be caught being wrong, by anyone willing to go to the same documents. He also declares "a strict presentation of the facts, contingent and unattractive though they may be, is the highest law."
 </div>
 </div>
 </section>
@@ -376,7 +324,7 @@ Answer · part one
 ###### The gain is real
 {: .label}
 
-Verdicts can only be shared or refused; described events can be checked. By naming his sources on every page Ranke makes his own work falsifiable, and that is what lets history accumulate rather than merely accumulate opinions. This is a genuine advance and it is why the method survived its author.
+Verdicts can only be shared or refused; described events can be checked. A claim about what happened is one somebody else can go and test, and that is what lets history accumulate rather than merely accumulate opinions. This is a genuine advance, and it is why the method survived its author.
 </div>
 
 <div class="takehome fragment compact" data-fragment-index="1" markdown="1">
@@ -392,12 +340,52 @@ Refusing to judge does not remove the judgments — it moves them upstream, into
 <!-- =============== PART TWO: WHAT MADE IT A DISCIPLINE ============= -->
 <!-- ================================================================ -->
 
+<!-- ========== IMAGE: THE PAGE ITSELF ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="portrait">
+<img src="images/ranke-vorrede-1824.jpg" alt="A page of blackletter German type, page numbered VI, whose first three lines end with the words wie es eigentlich gewesen, followed by a paragraph listing the kinds of sources the book rests on">
+<figcaption markdown="span">
+The sentence on the page · preface, p. VI, 1824
+<em>Top three lines: <i>er will bloß sagen, wie es eigentlich gewesen</i>. Directly under it, the source list — and <strong>"Jede Seite zeigt an": every page shows which works those were.</strong> The promise and the apparatus, one paragraph apart.<br>(Cropped from the Internet Archive scan, <i>geschichtenderro00rank</i>. Public domain.)</em>
+</figcaption>
+</figure>
+</section>
+
+<!-- ========== RANKE 02: WHERE THE EVIDENCE COMES FROM ========== -->
+<section markdown="1">
+The preface · sources
+{: .eyebrow}
+
+## The famous line is worthless without the paragraph that follows it
+{: .main-point}
+
+"The basis of the present work, the sources of its material, are memoirs, diaries, letters, ambassadors' reports, and original accounts of eyewitnesses... These sources will be noted on every page." <span class="cite">Ranke, 1824 introduction</span>
+{: .quote.compact.fragment data-fragment-index="0"}
+
+<div class="swap" markdown="1">
+<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
+
+###### Three commitments in one paragraph
+{: .label}
+
+**A hierarchy of evidence** — eyewitness and administrative papers over later narratives. **Full disclosure** — the sources named on every page, so a reader can retrace the work. The historian of scholarship Anthony Grafton calls the result "a distinctively modern, double story": the past, and the historian's effort to reconstruct it (Popkin, p. 80).
+</div>
+<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+
+###### The innovation
+{: .label}
+
+Not the phrase — versions of it were common. **The footnote is the argument.** Ranke publishes his workings, which means he can be caught being wrong, by anyone willing to go to the same documents. He also declares "a strict presentation of the facts, contingent and unattractive though they may be, is the highest law."
+</div>
+</div>
+</section>
+
 <!-- ========== MACHINERY 01: THE SEMINAR ========== -->
 <section markdown="1">
 Berlin · from the later 1820s
 {: .eyebrow}
 
-## What travelled was not the sentence but the seminar
+## Source criticism becomes something you can be examined on
 {: .main-point}
 
 "Ranke's innovation was to systematically engage students in the process of source interpretation by having them closely study primary documents and present their conclusions to other scholars, who would subject them to criticism." <span class="cite">Popkin, *From Herodotus to H-Net*, p. 81</span>
@@ -409,63 +397,14 @@ Berlin · from the later 1820s
 ###### What it looked like
 {: .label}
 
-An American student who sat in one: "There the student appears, fortified by books and documents borrowed from the university library, and prepared with his brief of points and citations, like a lawyer about to plead a case in the court room... Authorities are discussed, parallel sources are cited; old opinions are exploded, standard histories are riddled by criticism" (p. 81).
+An American student who sat in one: the student arrives "prepared with his brief of points and citations, like a lawyer about to plead a case in the court room... old opinions are exploded, standard histories are riddled by criticism" (p. 81).
 </div>
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 
-###### Why this matters more than the sentence
+###### A procedure travels; a sentence does not
 {: .label}
 
-A phrase cannot be transmitted; a procedure can. The seminar turned "check the sources" into something you could be trained in, examined on, and fail. Popkin dates the first American history PhD programme to Johns Hopkins, 1876. **The graduate seminar still runs on this model.**
-</div>
-</div>
-</section>
-
-<!-- ========== MACHINERY 02: THE INFRASTRUCTURE ========== -->
-<section markdown="1">
-Europe · 1819–1895
-{: .eyebrow}
-
-## A method needs buildings, budgets and a place to publish
-{: .main-point}
-<div class="rule"></div>
-
-<div class="cards" markdown="1">
-<div class="card" markdown="1">
-
-###### 1819 · Popkin, p. 84
-{: .num}
-
-#### Editions
-
-The *Monumenta Germaniae Historica*, a scholarly edition of German medieval sources. Popkin credits the Prussian government with initiating it.
-</div>
-<div class="card" markdown="1">
-
-###### 1821 · Popkin, p. 84
-{: .num}
-
-#### Archivists
-
-The *École des chartes* in Paris, the first school for training the people who keep the documents.
-</div>
-<div class="card" markdown="1">
-
-###### 1859–1895 · Popkin, pp. 84–85
-{: .num}
-
-#### Journals, and a standard
-
-*Historische Zeitschrift*, *Revue historique*, *English Historical Review*, *Shigaku Zasshi*, *American Historical Review*. The *Revue* demanded "each assertion accompanied by proof, by source references and quotations."
-</div>
-<div class="card" markdown="1">
-
-###### 1876–1885 · Popkin, pp. 81, 97–98
-{: .num}
-
-#### Degrees, and a club
-
-Popkin dates the first American history PhD to Johns Hopkins. The American Historical Association is founded in 1884 — and makes Ranke its first honorary member in 1885.
+A phrase cannot be transmitted; a procedure can. The seminar turned "check the sources" into something you could be trained in, examined on, and fail — and the scholarly journals that grew up around it demanded the same thing of everyone else, "each assertion accompanied by proof, by source references and quotations" (Popkin, p. 84). The graduate seminar still runs on this model.
 </div>
 </div>
 </section>
@@ -532,7 +471,7 @@ The profession and the state · 1819 onward
 ###### The arrangement
 {: .label}
 
-Governments funded the universities where the new history was taught and the archives where its documents were made available (p. 85). Popkin has the Prussian government initiating the *Monumenta* in 1819 "as part of its program for strengthening national consciousness after the Napoleonic wars" (p. 84). Donald Kelley calls the resulting nationalist history a new kind of "mythistory," successful "because of its emotional appeal rather than its factual basis" (p. 85).
+Governments funded the universities where the new history was taught and the archives where its documents were made available. Popkin has the Prussian government initiating the *Monumenta Germaniae Historica* — a state-funded scholarly edition of Germany's medieval sources — in 1819 "as part of its program for strengthening national consciousness after the Napoleonic wars" (p. 84).
 </div>
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 
@@ -572,11 +511,11 @@ Heinrich von Treitschke · 1834–1896
 ###### He is not a failure of the method
 {: .label}
 
-Treitschke trained under Ranke, used the archives, cited his sources, held the chair at Berlin. His *German History in the Nineteenth Century* told the story of unification "in a way that made Bismarck's accomplishment appear necessary and inevitable" (p. 88). Ranke's students, Popkin notes, "saw unification as an expression of the individuality of the German nation, expressing itself as historicist teaching indicated" (p. 88).
+Treitschke trained under Ranke, used the archives, cited his sources, held the chair at Berlin. His *German History in the Nineteenth Century* told the story of unification "in a way that made Bismarck's accomplishment appear necessary and inevitable" (p. 88) — that is, made the new German Empire look like the destination history had been heading for all along. Ranke's students, Popkin notes, "saw unification as an expression of the individuality of the German nation, expressing itself as historicist teaching indicated" (p. 88).
 </div>
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 
-###### Which is the uncomfortable part
+###### What rigour does not prevent
 {: .label}
 
 The apparatus performed exactly as designed and produced this. **Rigour about evidence is not a safeguard against anything, because it never touches the prior question of what the evidence is being gathered to show.**
@@ -601,14 +540,14 @@ The seminar · through the nineteenth century
 ###### It was argued for, not merely assumed
 {: .label}
 
-Popkin notes that "even some women endorsed this view" — the British writer M. A. Stodart, in 1843, held that women's "powers of mind are hardly fitted to enter this field for the sake of instructing others... her feelings usurp the seat of judgment, and she is carried away by their power" (p. 93). Meanwhile women wrote a great deal of history — biography, popular history, historical fiction, the first American house museums (pp. 93–94) — none of it counted as scholarship.
+Popkin notes that "even some women endorsed this view" — the British writer M. A. Stodart, in 1843, held that women's "powers of mind are hardly fitted to enter this field... her feelings usurp the seat of judgment" (p. 93). Meanwhile women wrote a great deal of history — biography, popular history, the first American house museums — none of it counted as scholarship.
 </div>
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 
-###### What Bonnie Smith adds
+###### What the historian Bonnie Smith adds
 {: .label}
 
-Smith argues the Rankean seminar "excluded women, who did not gain access to higher education until the twentieth century" (p. 83) — and that the exclusion was part of the model, not incidental to it. Ranke himself described archival research in explicitly masculine terms, writing of a "sweet, magnificent fling with the object of my love" (p. 80). **Objectivity was defined, in part, against everything the profession coded as feminine.**
+Smith argues the seminar "excluded women, who did not gain access to higher education until the twentieth century" (p. 83), and that the exclusion was part of the model rather than incidental to it. Ranke described archival research in frankly masculine terms — a "sweet, magnificent fling with the object of my love" (p. 80). **Objectivity was defined partly against what the profession coded as feminine.**
 </div>
 </div>
 </section>
@@ -645,10 +584,10 @@ He asks flatly: "What is progress? Where is this progress of mankind to be seen?
 </div>
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 
-###### Which changes what Week 4 is about
+###### What this does to the week
 {: .label}
 
-Scientific history is not the Enlightenment's story of progress made rigorous. **It is partly a refusal of it** — and Herder, who closed the last session refusing any universal standard, is the ancestor of the move. But note the limit: Ranke refuses to rank *generations*, and in the same lecture calls Asia's history "retrogressive" and dates art's peak to the sixteenth century.
+Scientific history is not the Enlightenment's story of progress made rigorous. **It is partly a refusal of it.** Compare Herder in 4.1. But note the limit: Ranke refuses to rank *generations*, and in the same lecture calls Asia's history "retrogressive" and dates art's peak to the sixteenth century.
 </div>
 </div>
 </section>
@@ -682,54 +621,15 @@ Answer · part three
 ###### No archive can tell you this
 {: .label}
 
-There is no document that establishes epochs are of equal worth. "Immediate to God" is a theological claim, and it does the same structural job Kant's secret plan of Nature did last session: it supplies a shape for history that no evidence could confirm or refute. Both men needed one. Ranke simply chose the shape that flattens rather than the shape that climbs.
+There is no document that establishes epochs are of equal worth. "Immediate to God" is a theological claim, and it does the same structural job as Kant's secret plan of Nature (compare 4.1): it supplies a shape for history that no evidence could confirm or refute. Both men needed one. Ranke simply chose the shape that flattens rather than the shape that climbs.
 </div>
 
 <div class="takehome fragment compact" data-fragment-index="1" markdown="1">
 
-###### But notice which premise costs more to hold
+###### The premise that costs more
 {: .label}
 
-A ladder lets you skip the ages near the bottom; this premise obliges him to take each period on its own terms, which is more work and yields better history. **He does not hold to it consistently** — the same lecture ranks peoples, and his 1824 preface had already settled which nations counted. The rule outlived the man who broke it: **it is the defensible core Popkin says survives him** — "judicious evaluation of evidence, with careful attention to its historical context, and a recognition of the distinctiveness of the different periods of the past" (p. 98). The premise is not provable. It is still the more productive one.
-</div>
-</section>
-
-<!-- ========== COMPARISON: HUMBOLDT VS RANKE ========== -->
-<section markdown="1">
-Comparison · two men, one sentence
-{: .eyebrow}
-
-## A problem described, and a problem given a procedure
-{: .main-point}
-
-<div class="parallel fragment" data-fragment-index="0" markdown="1">
-<div class="track" markdown="1">
-
-##### Humboldt · 1821
-An address by a philosopher and statesman. The gap between the evidence and the event is his actual subject: the senses give you fragments, and the historian must supply the connections. He describes the difficulty honestly and leaves you with it.
-</div>
-<div class="track now" markdown="1">
-
-##### Ranke · 1824
-A preface to a working book of history. The same gap is treated as a problem to be managed — a hierarchy of sources, a citation on every page, a companion volume of criticism. He does not solve it. He makes it auditable.
-</div>
-</div>
-
-<div class="swap" markdown="1">
-<div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
-
-###### Why Ranke is the famous one
-{: .label}
-
-Not because his promise is better — in English the two read almost identically. In German they are not the same sentence at all: Humboldt writes *die Darstellung des Geschehenen*, Ranke *wie es eigentlich gewesen*. **The convergence is the translators'.** What made Ranke's the slogan is that a procedure travels and an insight does not — you can export a footnote convention and a seminar to Tokyo, Baltimore and Paris; you cannot export "use good judgment."
-</div>
-<div class="takehome fragment" data-fragment-index="2" markdown="1">
-
-###### Take home
-{: .label}
-
-Objectivity in history has never meant a historian with no view. It means **work laid out so that someone who disagrees can find where you went wrong** — which is a lower and much more useful standard.
-</div>
+A ladder lets you skip the ages near the bottom; this premise obliges him to take each period on its own terms — more work, and better history. **He does not hold to it consistently:** the same lecture ranks peoples, and his 1824 preface had already settled which nations counted. The rule outlived the man who broke it, and Popkin says it is what survives him — "judicious evaluation of evidence, with careful attention to its historical context" (p. 98).
 </div>
 </section>
 
@@ -738,31 +638,23 @@ Objectivity in history has never meant a historian with no view. It means **work
 The take home
 {: .eyebrow}
 
-## Both promise "what actually happened." What made it a discipline was everything else.
+## The discipline kept the answer that could be taught — and inherited everything with it.
 {: .main-point}
 
 <div class="reveal-block unpack fragment compact" data-fragment-index="0" markdown="1">
 
-###### What was actually built
+###### What was built, and what it could not do
 {: .label}
 
-It began by giving something up: the right to judge and to instruct. What replaced them was a hierarchy of evidence, a citation on every page, a second volume showing the workings, a room where students tore each other's readings apart, an edition project, a school for archivists, five journals and a doctorate. Not one of these is a claim about truth. All of them are arrangements for catching people out.
-</div>
-
-<div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
-
-###### And what it could not do
-{: .label}
-
-It could not choose its own questions. States built the archives and paid the chairs; the seminar admitted a narrow few; Ranke settled who mattered in his preface, before any document was opened. **The apparatus checks answers. Somebody else has always chosen the question.**
+It began by giving something up: the right to judge and to instruct. What replaced them — a hierarchy of evidence, a citation on every page, a seminar, journals, a doctorate — are not claims about truth but arrangements for catching people out. What they could not do is choose their own questions. States built the archives and paid the chairs; the seminar admitted a narrow few; Ranke settled who mattered in his preface, before any document was opened. **The apparatus checks answers. Somebody else has always chosen the question.**
 </div>
 
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 
-###### The question worth carrying
+###### The question
 {: .label}
 
-When you meet a claim to objectivity — in a history book, a news report, a model — the useful question isn't "is this person biased?" It's: what would it take to catch them being wrong, who paid for the evidence, and who was in the room when the question got chosen?
+Objectivity here never meant a historian with no view; it meant work laid out so that someone who disagrees can find where you went wrong. So "is this person biased?" is the wrong question to put to a claim of objectivity — in a history book, a news report, or a model. Ask instead what it would take to catch them being wrong, who paid for the evidence, and who was in the room when the question was chosen.
 </div>
 </section>
 

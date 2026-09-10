@@ -154,7 +154,8 @@ The Enlightenment produced a new theory of what history meant: "reason" was adva
 ### 4.1: Enlightenment Progress
 The Enlightenment didn't just produce new history — it produced a new theory of what history meant. If reason was advancing and civilization improving, then history had a direction. That idea seems obvious now, which is exactly why it's worth examining: where did it come from, and what does it take for granted?
 
-- Slides of [Enlightenment Progress](slides/enlightenment-progress/)
+- Slides of [Enlightenment Progress, part one](slides/enlightenment-progress/) --- where the idea came from
+- Slides of [Enlightenment Progress, part two](slides/enlightenment-progress-2/) --- Voltaire, Kant, and what became of it
 - 📗 Jeremy Popkin, *From Herodotus to H-Net* (2016), Ch. 3: "The Historiographical Revolution of the Early Modern Era", 61--69 — the "History in the Age of the Enlightenment" section. You already have this from Week 3; worth a second look now that Voltaire is the primary source rather than a name in a survey chapter. Popkin describes what's new in history during the Enlightenment — the shift from religious and dynastic history toward secular, civilizational narratives — and quotes Voltaire directly as his central example.
 - 📜 Voltaire, [selections from *The Age of Louis XIV*](https://oll.libertyfund.org/titles/fleming-the-works-of-voltaire-vol-xii-age-of-louis-xiv) (1751), ~10 pp. Voltaire thinks history should be about civilization, culture, and manners — not just kings and battles. Seems obvious now, but was a new idea in his time. Read for what he's arguing history *should* be, not just what he describes.
 - 📜 Immanuel Kant, "[Idea for a Universal History with a Cosmopolitan Purpose](https://en.wikisource.org/wiki/Idea_for_a_Universal_History_from_a_Cosmopolitan_Point_of_View)" (1784). Kant argues history has a direction toward reason and freedom — the foundational Enlightenment claim behind this week's discussion, explained in class.
@@ -186,7 +187,7 @@ In the nineteenth century, historians began claiming that history could be a sci
 
 
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. There's more detail on the generic assignment instrucitons, but show your engagement with the readings, class discussions, and the discussion questions listed for each day (again, not one by one, but holistically). There are no right answers, just different levels of engagement.
 "%}
 
 ## 5: Structural History
