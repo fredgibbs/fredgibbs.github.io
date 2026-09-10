@@ -6,3 +6,12 @@ markdown: kramdown
 environment: production
 plugins:
   - jekyll-sitemap
+
+# Internal working notes that live beside the content they document. These are
+# for contributors, not readers, and must not be served: ISSUES.md records a
+# deck's open sourcing problems, and the images READMEs carry credits plus
+# regeneration commands. Jekyll copies unrecognised files verbatim, so without
+# this they would be fetchable at their folder's URL.
+exclude:
+  - "**/ISSUES.md"
+  - "**/images/README.md"

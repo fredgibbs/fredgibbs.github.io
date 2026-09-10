@@ -19,6 +19,9 @@
  * subject, and the space goes to the notes. The note type is sized to be
  * read by whoever is presenting, not from the back row. To carry more than one image, wrap
  * them in a `<div class="shots">` — they stack in the image column.
+ * Each note bullet runs in three beats: a bold lead naming what to look at,
+ * a sentence of elaboration, and a closing question in
+ * `<em class="ask">…</em>` — see "Image slides" in courses/SLIDE-STYLE.md.
  */
 .reveal section.image-slide {
 	text-align: center;
@@ -200,6 +203,17 @@
 .reveal .image-notes .notes strong {
 	color: var(--ts-heading-2);
 	font-weight: 600;
+}
+
+/* The question that closes each note bullet. Gold, on its own line, so the
+   three beats of a bullet stay legible at a glance: what to look at (bold),
+   what it means (plain), what to think about (this). Not a question the
+   slide answers — one the session is going to. */
+.reveal .image-notes .notes .ask {
+	display: block;
+	margin-top: 0.3em;
+	color: var(--ts-accent);
+	font-style: italic;
 }
 
 /* Two or more images stacked in the image column of .image-notes. */

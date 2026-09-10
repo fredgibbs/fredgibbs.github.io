@@ -7,7 +7,10 @@ comment of `/assets/css/reveal-lecture-theme.css` — that comment is canonical;
 don't duplicate it here. This file is about what to write and how to source it.
 
 A deck lives at `courses/<course>/slides/<deck-slug>/`, with `index.md` beside
-an `images/` folder. Worked examples named below are in
+an `images/` folder and, when it has open problems, an `ISSUES.md`. Both
+`ISSUES.md` and `images/README.md` are contributor notes, excluded from the
+build in `_config.yml` — never served, so write them for whoever picks the
+deck up next. Worked examples named below are in
 `courses/making-history/slides/` unless another course is given; the older
 `courses/critical-thinking-with-ai/slides/` decks predate these rules and
 aren't models to copy.
@@ -21,6 +24,61 @@ clarity: a student has a few seconds with a slide and shouldn't spend them
 decoding an image to find the claim. The one metaphor that earns its place is
 the *subject's own* — Kant's "crooked timber," Carr's fish on the fishmonger's
 slab — quoted as theirs, never invented as decoration.
+
+**Name people; don't reduce them to a single deed.** "The man who built the
+university, writing about what historians do" is magazine prose — an epithet
+standing in for a name — and it makes a scope error in both directions at
+once.
+
+*Too large for the deed.* Humboldt directed the Prussian education section for
+about sixteen months, drafted a plan, and resigned the post in 1810 before the
+university opened, staying on only as chair of its founding committee. A
+ministry, a committee, Fichte and Schleiermacher are all inside the word
+"built." The construction awards one person sole agency over something
+institutional — the great-man compression this course spends a semester
+teaching students to distrust.
+
+*Too small for the person.* Humboldt's standing rests on comparative
+linguistics, the Basque and Kawi work, the theory of *Bildung*, and Prussian
+diplomacy at Vienna as much as on a university. A polymath introduced by one
+administrative act has been made smaller, not clearer, and the epithet quietly
+tells students that is all he was.
+
+Write instead the name, the standing that put the person in a position to
+produce this text, and a claim: "A comparative linguist, not a historian,
+defines the historian's task." The register to aim for is the one you would
+use in a journal article — plain, specific, no build-up. **The test: if the
+headline would sit comfortably as a magazine subhead or on a book jacket,
+rewrite it.** Precision is usually the more interesting option anyway —
+"resigned before it opened" is a better sentence than "built it," and it has
+the advantage of being true.
+
+This is not a ban on describing someone by a role or a station. "A schoolmaster
+of twenty-eight, publishing his first book" is accurate, checkable, and
+deflates rather than inflates — it earns its place because the point of the
+slide is how ordinary Ranke's position was. What goes is the heroic epithet
+that substitutes for a name and settles a person's significance in one clause.
+
+**Cut the explanatory tail.** Headlines drift into two parts — a claim, then a
+comma and a clause explaining how it came about: "Two jobs history had always
+claimed, handed back in one sentence"; "A schoolmaster of twenty-eight,
+publishing his first book"; "The best-trained history in Europe, put to work
+for the nation." The first part lands. The tail explains, and the block
+underneath is about to explain it anyway, at more length and better.
+
+The test: read the headline without the tail. If the claim survives, the tail
+was scaffolding — "Two jobs history had always claimed" leaves a student
+leaning forward, and the quotation below delivers the rest.
+
+Keep a second element only when it carries a *turn* rather than an
+explanation: a contrast ("A comparative linguist, not a historian, defines the
+historian's task"), a reversal ("Both of them promise 'what actually
+happened.' Neither meant just the facts"), or a genuine pair the slide is
+built on ("A problem described, and a problem given a procedure"). Those are
+not tails — the claim is incomplete without them. And where a tail is really a
+predicate in disguise, promote it instead of cutting: not "The best-trained
+history in Europe, put to work for the nation" but "The best-trained history
+in Europe was put to work for the nation."
 
 **Keep eyebrows as simple as possible.** The `.eyebrow` is a label, not a
 sentence: what this slide is about, and when. `Voltaire · 1694–1778`. `The
@@ -38,6 +96,14 @@ they are clutter. They spend a line on the mechanics of the class instead of
 the history, and they date the slide to one delivery of it. Say what the choice
 or the claim is; don't tell the room it is now qualified to consider it.
 
+The same goes for pointing at the deck's own machinery: "three slides
+earlier," "compare the portrait two slides on," "see the note on the closing
+slide." These break the moment anything is moved or inserted — every one of
+those three examples was dangling or off by one by the time its deck was
+finished — and a reader who needs the connection is better served by six words
+repeated than by being sent somewhere. If a disclosure matters, put it where
+the problem is, not where you promise it will be.
+
 A specific course connection is not clutter and stays: "the two writers you
 read," "Bridge between weeks 3 and 4," a `.source-list`, a `.cite`. Those point
 at something — this text, that session, this week's place in the sequence — and
@@ -45,12 +111,21 @@ that pointing is the work. What goes is the flourish that points at nothing.
 Second person is likewise fine when it's doing analytic work ("the useful
 question isn't 'is it true?'"), not when it narrates the seminar.
 
-**Introduce people before their ideas.** Before quoting someone, give them a
-bio slide: who they were, when and where they lived, what put them in a
-position to write this. A quote from someone the audience hasn't met yet is
-just words on a screen. See the `carr-historian-and-facts` vs.
-`divine-power-and-statecraft` decks — the later one always does "Bede 00: who
-he is" before "Bede 01" quotes him.
+**Introduce people before their ideas — portrait first, then a brief bio.**
+The order is: the portrait image slide, then a short bio slide, then the
+quotes. Put the face up before the dates. A quote from someone the audience
+hasn't met yet is just words on a screen, and a bio slide with no face is a
+list of dates nobody can attach to anything.
+
+Keep the bio **brief — two blocks at most**. The portrait has already done the
+introducing, so the text only has to carry what the picture cannot: when and
+where they lived, and what put them in a position to write this. Resist the
+full `.parallel` two-column life/work treatment unless the two columns are
+genuinely doing different jobs; for most figures a single `.reveal-block` plus
+a `.takehome` is enough. See the Humboldt and Ranke openings in
+`scientific-history`, and note that the older `divine-power-and-statecraft`
+and `enlightenment-progress` decks still run bio-then-portrait — they predate
+this rule and are not the model to copy on this point.
 
 **Introduce texts as things before getting into their details.** Before
 unpacking a passage, say what the text *is*: when it was written, published
@@ -90,11 +165,71 @@ two.
 deck must come from a source you actually have open in front of you (a PDF,
 a Wikisource page, an archive.org scan), with a real page or section number.
 If you don't have the primary text in hand, don't put words in quotation
-marks and attribute them to the author — paraphrase in your own voice instead,
-citing the chapter generally, and say so if you're doing it (e.g. no exact
-page cite because the PDF wasn't available). This applies as much to secondary
-readings (Popkin, Maza, Green & Troup) as to primary sources. A wrong
-citation in a teaching deck is worse than a thin one.
+marks and attribute them to the author — paraphrase in your own voice instead
+and cite the chapter generally. This applies as much to secondary readings
+(Popkin, Maza, Green & Troup) as to primary sources. A wrong citation in a
+teaching deck is worse than a thin one.
+
+**But record that compromise off the slide.** A caveat about how the deck was
+made — "the translation was unavailable," "no exact page cite because the PDF
+wouldn't open," "paraphrased, not quoted" — is a note to the instructor, not
+teaching material. A student has no use for which file failed to open, and a
+line spent on it is a line not spent on the history. It also dates the deck to
+one production run.
+
+Put it in **two places instead**: tell the author directly, in whatever channel
+you are working in, and write it into an `ISSUES.md` beside `index.md` in the
+deck folder. That file is the deck's own to-do list — open sourcing problems
+and what would close them, plus deliberate deviations recorded so a later
+reviewer doesn't re-raise them. Head each item with a status, say what would
+resolve it, and delete items as they clear. See
+`making-history/slides/scientific-history/ISSUES.md`, which carries a
+paraphrased-because-unobtainable primary source, an unverifiable portrait
+date, and three decisions taken on purpose.
+
+The deck itself stays clean: it may carry a citation-conventions line (which
+readers use), and it must never carry a quotation it cannot support — but the
+story of its own making belongs in `ISSUES.md`.
+
+Two further ways a citation goes wrong without being a fabrication. **Keep the
+framing clause when you quote a quote.** Popkin introduces an 1843 attack on
+women historians with "even some women endorsed this view"; a slide that
+renders that as "a British author in 1843" has quoted accurately and taught
+the opposite of the point. The secondary author's framing is usually the
+reason the quote is in their book at all. **And attribute the superlatives.**
+"The first American history PhD," "the Prussian state funded it," "his real
+invention" — where a claim like that comes from the assigned reading, put the
+reading's name on it ("Popkin dates the first American history PhD to Johns
+Hopkins, 1876"). Most firsts and breaks are contested, and a teaching deck
+should not be the thing asserting them in its own voice.
+
+**When the wording carries the argument, check the original language.** Nearly
+every primary source in these courses is read in translation, so a slide that
+turns on a text's *exact words* is making a claim about the translator as much
+as the author. Two writers can converge in English and diverge entirely in
+their own language: Humboldt's "the historian's task is to present what
+actually happened" is *die Darstellung des Geschehenen*, while Ranke's
+identical-looking English is *wie es eigentlich gewesen* — the sameness is the
+translators', and a deck built on their being "the same sentence" would have
+been built on nothing. It cuts the other way too. Ranke's preface says his
+companion volume of criticism appeared *an Einem Tage* with the book, which
+the standard English softens to "concurrently" — there the German is the more
+precise source, and the deck should follow it. Name the translator whenever
+the choice is doing work: "racially kindred" is a 1981 rendering of
+*stammverwandt*, "of kindred stock," and a slide leaning on that word owes
+students the note.
+
+**Read past the passage you want.** The quote that makes your point is easy to
+find and easy to stop at. Before building a takehome on one passage, search
+the rest of that same text for passages that cut against it; where they exist,
+put the tension on the slide instead of hoping nobody checks. Ranke's "every
+epoch is immediate to God" reads as a refusal to rank anything at all until
+you notice the same 1854 lecture calling Asia's history "retrogressive" and
+dating art's peak to the sixteenth century. The honest version — he refuses to
+rank *generations*, and ranks peoples freely — is both true and more
+interesting than the tidy one. This is also how two slides in one deck end up
+contradicting each other: each is faithful to a different half of a source
+nobody read all the way through.
 
 ## Structure of a session deck
 
@@ -125,9 +260,10 @@ Otherwise a single-session deck (one class meeting, e.g.
    sentence on what happens there. Students should be able to tell where they
    are in the hour from this slide alone. See the two opening slides of
    `enlightenment-progress`.
-4. **Per source or person**, repeated: a "00: who they are" bio slide (often
-   a `.parallel` two-column: life / work, or life / historical moment), an
-   image slide for their portrait, then 1–4 quote slides (primary `.quote` +
+4. **Per source or person**, repeated: an image slide for their portrait
+   first, then a brief "00: who they are" bio slide (two blocks at most; a
+   `.parallel` two-column life / work only if both columns earn it), then
+   1–4 quote slides (primary `.quote` +
    `.reveal-block.unpack`/`.argument`/`.historical` fragments + `.takehome`),
    interleaved with image slides for objects, manuscripts, places, or events
    the quotes reference.
@@ -190,6 +326,21 @@ have to. The common failure is a caption that tries to be the lecture: four
 sentences of argument set in type nobody can read past row three. Say it
 instead. Two lines and a credit is the target; the credit line always stays.
 
+**Translate a foreign-language title, in the caption, the first time it is
+shown.** Give the original in italics and an English rendering right after it.
+A student looking at a title page in Fraktur cannot tell what object is in
+front of them, and "the book itself" is not an answer. This is not only
+housekeeping: the translation frequently carries the argument. Ranke's title
+page reads *Geschichten der romanischen und germanischen Völker* — "Histories
+of the Romance and Germanic **Peoples**," and the plural *Geschichten* is
+deliberate, as his own preface says: "It contains only histories, not
+History." A caption that never renders the title loses a point that is sitting
+in the assigned reading.
+
+Where the conventional English differs from the literal, prefer the literal in
+the caption and let the deck cite the edition's own title elsewhere — the two
+diverging is itself worth a sentence out loud in a session about translation.
+
 **One image per slide. A second image is a second slide.** Show one, let it
 land, then show the next. Two pictures crowded together halve each other.
 
@@ -208,6 +359,38 @@ notes slide**: two pictures and two sets of bullets on one slide gives neither
 enough room, so a second image repeats the pattern — full-bleed, then its own
 notes slide. The `.shots` wrapper exists for the rare case where two images
 genuinely share one set of bullets.
+
+**Each note bullet runs in three beats: look, then meaning, then a
+question.** A bullet that stops after the first two has told students what to
+think and given them nothing to do with it. The shape is:
+
+1. **A bold lead naming what to look at.** Something actually visible in the
+   picture — "You have to look for the man," "Somebody built this room." Not a
+   thesis; a direction for the eye.
+2. **A sentence or two of elaboration.** What that detail is, and what it
+   commits its makers to. This is where the argument lives.
+3. **A closing question, in `<em class="ask">…</em>`.** It renders gold, on its
+   own line, so the three beats stay legible at a glance.
+
+The question is the part that is easy to skip and worth the most. It should
+**not** be answerable from the image, and needn't be answerable yet at all —
+its job is to put a student in the right frame before any reading has been
+named, and to be worth returning to an hour later. Aim it at the session's
+real problem: *"If a historian disappears behind the sources, who chose which
+sources to stand behind?"* is doing that work; "What does this photograph tell
+us about Ranke?" is not, because it asks about the picture rather than through
+it. One question per bullet, and no answers on the slide — the payoff belongs
+in the discussion slides and the take-home.
+
+**Budget a line for it.** The question renders on its own line, so adding one
+to each of four bullets costs four lines, and the elaboration has to give them
+back. The notes column is about 456px wide at roughly 52 characters a line,
+against a height budget of about 23 lines; the two `.image-notes` slides in
+`enlightenment-progress` run 21 and 22 lines, so there is very little room
+above that. Measure before assuming it fits — a wrong guess at characters per
+line is easy to make and the overflow is silently clipped, never scrolled.
+The `enlightenment-progress` notes slides predate this rule and carry a bolded
+assertion where the question should be; they are not the model on this point.
 
 **A notes slide says what the image means for the argument, not what is in
 it.** Describing the picture is only the setup; every bullet has to close the
@@ -278,11 +461,64 @@ two witnesses to one text). Inside a caption, `<em>` is the block-level
 source/credit line, `<i>` is inline italics for titles — don't nest `<em>`
 inside the note.
 
+## Cache the text of a scanned reading
+
+Course PDFs come in two kinds. A born-digital one gives up its text to
+`pdftotext -layout` in a second. A photocopier scan — most of the book
+chapters here — has no text layer at all and returns zero bytes, which leaves
+reading the page images as the only way to check a quotation.
+
+**Do that once, then save the result.** Reading a sixteen-page scan is
+expensive however it is done, and the cost recurs every time: while drafting,
+again during the fresh-context review, and again next year when the deck is
+revised. A cached text file turns all of those into a `grep`.
+
+```sh
+swiftc -O -o /tmp/ocr-pdf scripts/ocr-pdf.swift     # once
+/tmp/ocr-pdf ~/Dropbox/courses/<course>/optimized/<reading>.pdf 2 > raw.txt
+```
+
+`scripts/ocr-pdf.swift` uses macOS Vision and needs only the Xcode Command
+Line Tools. A chapter takes about twenty seconds.
+
+Three rules about the file you save:
+
+- **Keep it beside the reading, never in this repo.** These are in-copyright
+  course materials. They belong in
+  `~/Dropbox/courses/<course>/.research-packets/<reading>.ocr.txt`, alongside
+  the PDF. Nothing under `courses/` in the site repo should contain the text
+  of an assigned reading.
+- **Mark the printed page numbers.** A scan of a book is usually two-page
+  spreads, so one sheet holds two printed pages and a passage in the right-hand
+  column belongs to the *next* page. Convert the running heads into explicit
+  `[[ printed page NN ]]` markers before you cite from the file. This is not
+  fussiness: citing p. 88 for a sentence printed on p. 89 is precisely the
+  error the marker prevents, and it is invisible without one.
+- **Say what the file is not.** OCR is not a proofread transcription — Vision
+  mangles ligatures, footnote markers and italics, and drops the odd running
+  head. Head the file with what produced it, when, which pages it covers, and
+  which pages could not be marked. Use the cache to *find* a passage and its
+  page; verify the exact words against the page image before they go inside
+  quotation marks on a slide.
+
+`~/Dropbox/courses/making-history/.research-packets/popkin-ch-4.ocr.txt` is a
+worked example of all three.
+
 ## Before publishing
 
 Check the deck actually builds: Jekyll's SCSS compile needs a UTF-8 locale,
 so build with `LC_ALL=en_US.UTF-8 bundle exec jekyll build` (or the project's
 usual serve command) rather than assuming a bare invocation will work.
+
+Before opening a browser it is worth *measuring* rather than guessing: strip
+the tags from each `<section>` and compare its character count against a deck
+already known to display correctly. In `enlightenment-progress` the ceiling is
+roughly 1,800 characters on a `.swap` slide (where fragments replace one
+another in place, so only the largest is ever on screen) and roughly 1,250
+where blocks stack — and no slide there puts a `.reveal-block` underneath a
+`.cards` grid, which is the arrangement most likely to overflow, since a
+three-card grid costs the same two rows as a four-card one. Anything past
+those numbers is worth restructuring before you ever see it clipped.
 
 Then open it in a browser and step through every slide, advancing each
 fragment. You are looking for content clipped at the bottom of the 960×700
@@ -297,6 +533,14 @@ to `index.md` cold, with no memory of the drafting, catches what the author
 cannot see. Point it at the deck file and the readings, and ask it to report
 problems with evidence rather than to fix anything — three things in
 particular:
+
+**Make the review cheap enough to finish.** An agent that has to OCR a
+sixteen-page scan before it can check a page number will spend its budget on
+mechanics and stall before reaching the argument. Extract the sources to text
+first (see "Cache the text of a scanned reading" below), hand over the paths,
+and order the work so the cheap checks come first: cross-slide consistency and
+the arc need no external source at all, and they catch the errors that cost
+the most to leave in.
 
 - **The historical arc.** Does the story the deck tells across its parts
   actually hold? Dates and sequence, who could have read whom, causal claims
@@ -314,13 +558,18 @@ particular:
   the closing slide pays off the sentence the opening one made. Names, dates,
   spellings, and citation formats consistent slide to slide; forward
   references to other weeks accurate; no promise made early that the deck
-  never keeps.
+  never keeps. Check the punchy framing line on the title or take-home slide
+  against the biographical slides especially — it gets written first, before
+  the details that can flatly contradict it ("two men in Berlin," when one of
+  them was teaching in Frankfurt an der Oder).
 
 Work the findings before publishing. Verify each one against the source
 yourself — a cold reader will sometimes flag a correct claim it lacks the
 context for, and being confidently wrong about a date is as easy for the
-reviewer as for the author. Fix what's real; leave a note in the deck or the
-commit for anything you decide to keep.
+reviewer as for the author. Fix what's real. Anything you decide to keep goes
+in `ISSUES.md` as a deliberate deviation with the reason, so the next reviewer
+does not raise it again — not into the deck, and not left only in a commit
+message nobody will read.
 
 Link the new deck from the course's `schedule.md` under the session it
 belongs to, matching the existing `[Slides of ...](slides/<slug>/)` phrasing.

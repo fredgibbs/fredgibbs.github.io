@@ -172,9 +172,10 @@ The [Early Course Reflection](early-reflection) is now **extra credit** --- opti
 ### 4.2: Scientific History
 In the nineteenth century, historians began claiming that history could be a science — rigorous, evidence-based, objective in ways earlier history hadn't been. That claim transformed the profession. 
 
-- 📗 Jeremy Popkin, *From Herodotus to H-Net* (2016), Ch. 4: "The Rise of Academic Scholarship and National History", 79--98. 
-- 📜 Wilhelm von Humboldt, "On the Historian's Task (1822), 57--71. A provocative first sentence: "The historian's task is to present what actually happened." Yet how does he complicate the possibility of doing that throughout the piece? 
-- 📜 Leopold von Ranke, preface to *Histories of the Latin and Germanic Nations* (1824), ~5 pp. The most famous sentence in historiography: Ranke said he wanted to show the past "as it actually was" (*wie es eigentlich gewesen*). Read it carefully and think about what he's claiming and what it would actually take to do it.
+- Slides of [Scientific History](slides/scientific-history/)
+- 📗 Jeremy Popkin, *From Herodotus to H-Net* (2016), Ch. 4: "The Rise of Academic Scholarship and National History", 71--98. 
+- 📜 Wilhelm von Humboldt, "On the Historian's Task" (delivered 1821, published 1822), 57--71. A provocative first sentence: "The historian's task is to present what actually happened." Yet how does he complicate the possibility of doing that throughout the piece? 
+- 📜 Leopold von Ranke, [Excerpts from Selected Works (1824--1881)](https://germanhistorydocs.org/en/from-vormaerz-to-prussian-dominance-1815-1866/ghdi:document-358), ~6 pp. **Focus on the first excerpt, and skim the other two.** The 1824 introduction carries the most famous sentence in historiography --- that he means only to show the past "as it actually was" (*wie es eigentlich gewesen*) --- but the 1854 lecture on world history is where he rejects the idea of progress you met on Tuesday. Think about would it actually take to do what he promises.
 
 #### Discussion
 - What does "objectivity" mean for a historian? Is it possible?
