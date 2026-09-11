@@ -1,0 +1,7 @@
+# Deliberate adaptations for a conference lightning talk
+
+- This is a four-minute conference presentation, so it lives under `presentations/` and uses the shared `reveal-lecture` layout. It is not a course session and does not belong on a course schedule.
+- Eight sparse slides replace the lecture arc, discussion pairs, and recap. The opening question and closing invitation carry the same teaching purpose. No fragments, so each advance reaches the next slide.
+- This talk reports classroom observations and demonstrates assignment structures. It uses typography rather than portraits or decorative images. Plato appears as the reference for an assignment, not as the subject of a historical lecture. The article author appears in a reading credit. Neither needs a biography or portrait here, and no images need licensing.
+- The source notes and Fred Gibbs's additional feedback in the revision request are qualitative accounts. The positive assignment feedback is paraphrased, not presented as verbatim student quotation. The fast-food comparison with an ordinary discussion is explicitly Gibbs's impression, not a measured learning gain or a claim from a controlled comparison.
+- The supplied notes include a section marked `[leave off]`. That section is omitted as an editorial choice appropriate to the short public talk. Two assignments receive feature slides, fast food receives a class discussion slide, and four other documented course assignments appear in a separate list.

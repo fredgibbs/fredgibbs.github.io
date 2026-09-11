@@ -31,10 +31,10 @@ toc-rows:
   - title: courses
     link: /courses/
     headings:
-      - title: diet-health-expertise
-        link: /courses/diet-health-expertise
       - title: making history
         link: /courses/making-history
+      - title: diet-health-expertise
+        link: /courses/diet-health-expertise
       - title: thinking with ai
         link: /courses/critical-thinking-with-ai
       - title: american food
