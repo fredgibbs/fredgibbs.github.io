@@ -29,7 +29,8 @@ title: "AI and Student Success"
 .reveal .lightning .principle h3 { text-transform: none; color: var(--ts-heading-3); font-size: 0.85em; margin-bottom: 0.22em; font-weight: 500; }
 .reveal .lightning .principle p { font-size: 0.69em; line-height: 1.4; color: var(--ts-text-muted); margin: 0; }
 .reveal .lightning .closing { font-size: 1.7em; }
-.reveal .lightning .resources { margin-top: 1.4em; font-size: 0.48em; line-height: 1.7; }
+.reveal .lightning .resources { margin-top: 1.4em; font-size: 0.48em; line-height: 1.7; display: grid; grid-template-columns: max-content max-content; gap: 0 1.1em; justify-content: start; align-items: baseline; }
+.reveal .lightning .resources .label { color: var(--ts-text-muted); font-family: 'JetBrains Mono', monospace; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.12em; }
 .reveal .lightning .resources a { color: var(--ts-heading-3); text-decoration: underline; text-underline-offset: 0.17em; }
 </style>
 
@@ -127,21 +128,21 @@ title: "AI and Student Success"
   </aside>
 </section>
 
-<section class="lightning" data-transition="fade" aria-label="Agency and purpose">
+<section class="lightning" data-transition="fade" aria-label="Purpose and agency">
   <p class="eyebrow">Teaching approach</p>
-  <h2 class="main-point">Agency and purpose</h2>
-  <div class="principle">
-    <h3>Agency</h3>
-    <p>Students need practice making decisions<br>about how AI helps them learn.</p>
-  </div>
+  <h2 class="main-point">Purpose and agency</h2>
   <div class="principle">
     <h3>Transparency</h3>
     <p>Every assignment needs an explicit purpose<br>and support for doing the work.</p>
   </div>
-  <p class="learning">The work should show the student's own thinking.</p>
+  <div class="principle">
+    <h3>Agency</h3>
+    <p>Students need practice making decisions<br>about how AI helps them learn.</p>
+  </div>
+  <p class="learning">AI can make students more critical and more capable.</p>
   <aside class="notes">
     <p><strong>3:10–3:35 (25 seconds)</strong></p>
-    <p>For me, this comes down to agency and transparency. Students need practice making decisions about AI, including when to go beyond it. I need to explain why an assignment matters and provide support for doing it. The work should make their own thinking visible, and the learning purpose should be clear.</p>
+    <p>For me, this comes down to transparency and agency. I need to explain why an assignment matters and provide support for doing it. Students need practice making decisions about AI, including when to go beyond it. The work should make their own thinking visible. Done well, this leaves students more critical and more capable.</p>
     <p class="sources">Source: Fred Gibbs, AI assignment feedback, My approach / philosophy.</p>
   </aside>
 </section>
@@ -151,7 +152,11 @@ title: "AI and Student Success"
   <h2 class="main-point closing">Learning with AI<br>needs teaching</h2>
   <div class="rule"></div>
   <p class="opening-question">What would help your students<br>learn when they get stuck?</p>
-  <p class="resources"><a href="https://fredgibbs.net/courses">fredgibbs.net/courses</a><br><a href="https://amaranth.unm.edu/ai-sketchbook/">amaranth.unm.edu/ai-sketchbook</a></p>
+  <p class="resources">
+    <span class="label">Syllabi</span><a href="https://fredgibbs.net/courses">fredgibbs.net/courses</a>
+    <span class="label">Amaranth</span><a href="https://amaranth.unm.edu/">amaranth.unm.edu</a>
+    <span class="label">Sketchbook</span><a href="https://amaranth.unm.edu/ai-sketchbook/">amaranth.unm.edu/ai-sketchbook</a>
+  </p>
   <aside class="notes">
     <p><strong>3:35–4:00 (25 seconds)</strong></p>
     <p>I think AI belongs at the center of our conversations about student success because learning with it needs teaching. What would help your students learn when they get stuck? We can design assignments around that question and help students discover possibilities they have not yet seen. The materials are linked here.</p>
