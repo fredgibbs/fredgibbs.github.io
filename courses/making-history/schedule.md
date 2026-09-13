@@ -196,8 +196,9 @@ What if the really important history isn't about events or individuals at all, b
 ### 5.1: Marx and the Idea That History Has a Motor
 Marx offered the most dramatic version of structural history: class conflict as the engine driving all of history. Reading him as a historical thinker — not just a political figure — lets you see both the power of that argument and its blind spots.
 
-- 📗 Anna Green and Kathleen Troup, *The Houses of History*, 2: Marxist Historians, 33--41.
-- 📜 Karl Marx, *The Communist Manifesto* (1848), Part I: "Bourgeois and Proletarians," ~15 pp. Look for _how_ he argues that class struggle is the engine of history. Focus on the logic of his claim, not the politics.
+<!-- - Slides of [Marx and the Motor of History](slides/marx-structural-history/) -->
+- 📗 Anna Green and Kathleen Troup, *The Houses of History*, 2: Marxist Historians, 33--39 (skim through 39--41).
+- 📜 Karl Marx, *The Communist Manifesto* (1848), Part I: "Bourgeois and Proletarians," 1--12, and skim the rest. Look for _how_ he argues that class struggle is the engine of history. Focus on the logic of his claim and how history is being used. No, I'm not trying to convert you into Marxists---it's an important historical document! 
 
 #### Discussion
 - What is Marx's theory of historical change?
@@ -206,16 +207,15 @@ Marx offered the most dramatic version of structural history: class conflict as 
 
 
 ### 5.2: Big Structures — The Annales School
-While Marx saw economics as history's motor, a group of French historians proposed a different kind of deep structure: geography, climate, trade patterns that move across centuries rather than years. The _Annales_ school turned historical writing upside down — instead of asking "what happened?" they asked "what changed, and how slowly?" 
+While Marx saw economics as history's motor, a group of French historians proposed a different kind of deep structure: geography, climate, trade patterns that move across centuries. The _Annales_ school turned historical writing upside down — instead of asking "what happened? (Ranke)" or "why do things happen? (Marx)", they asked "what changed?" 
 
 - 📗 Anna Green and Kathleen Troup, *The Houses of History*, 4: The _Annales_, 87--95.
-- 📜 Fernand Braudel, "History and the Social Sciences: The Longue Durée" (1958), 25--54. Braudel argues that the most important history happens slowly — geography, climate, trade routes — not in dramatic events. A genuinely new way of thinking about time. Read after Burke and focus on the core contrast: slow structures versus fast events.
+- 📜 Fernand Braudel, "History and the Social Sciences: The Longue Durée" (1958), 25--54. Braudel argues that the most important history happens slowly — geography, climate, trade routes — not in dramatic events. A genuinely new way of thinking about time. 
 
 #### Discussion
 - What is the "longue durée"? Why does Braudel think events are less important than structures?
 - How is Annales history different from Ranke's "scientific" history?
 - Do you lose too much when zooming out to centuries-long patterns?
-
 
 
 

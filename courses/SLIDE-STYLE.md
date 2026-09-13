@@ -190,6 +190,49 @@ An image can also do argumentative work (two faces of one stone, an empty
 year on a real manuscript page) — look for that opportunity, don't just
 decorate.
 
+**Keep the blocks short. The `.takehome` is a line, not a paragraph.** This is
+the rule these decks break most often, and the drift is measurable. Median
+`.takehome` length, oldest deck to newest: 116 characters in
+`divine-power-and-statecraft`, 160 in `enlightenment-progress-2`, 308 in
+`scientific-history`, 358 in `marx-structural-history` — where the longest ran
+to 675. The `.reveal-block` held roughly steady across all four (323, 326, 358,
+362), so it is specifically the takeaway that inflated, in a theme whose own CSS
+calls it "the pithy takehome line."
+
+The budgets:
+
+- **`.takehome` — about 200 characters, one or two sentences.** It is the
+  sentence you want said back to you next week. If it carries a second idea,
+  it is two takehomes, and one of them is really a `.reveal-block`.
+- **`.reveal-block` — about 350 characters, three sentences.** Enough for a
+  claim, the evidence for it, and what it commits you to. Not enough for the
+  qualification you thought of afterwards.
+
+How they inflate, in the order it happens. A block is written as a claim. Then
+a supporting quotation is dropped in whole, because it was already checked and
+seems a shame to waste. Then a clause is added attributing it. Then a second
+finding is appended because it is on the same page of the reading. Nothing in
+that sequence feels like padding while you are doing it, and the block doubles.
+
+**The test: read the block aloud. If you take a second breath, it belongs to two
+blocks.** A second test, for the takehome specifically: if it contains the word
+"and" joining two independent claims, or a parenthetical page citation in the
+middle rather than at the end, it has stopped being a line.
+
+**Where a block genuinely carries parallel items, use bullets.** Three pieces of
+evidence chained into one sentence with semicolons is worse than three bullets,
+and the theme styles `ul` inside `.reveal-block` and `.takehome` with the same
+short gold dash as `ul.source-list`. Bullets are for items that are actually
+parallel — three things the same argument rests on, three ways a method fails.
+They are not licence to keep the same wordage and add markers: the budgets above
+still apply to the block as a whole.
+
+What to cut first, in order: the attributive clause ("Green and Troup are
+careful to note that…") when the page cite already says whose words these are;
+the second quotation; the qualification that the next slide makes anyway; and
+any sentence that restates the label. A block whose label reads "The innovation"
+does not need to open "The innovation here is…".
+
 **Every slide must fit the viewport without scrolling.** Reveal is initialized
 at a fixed 960×700 with an 8% margin (see `_layouts/reveal-lecture.html`), so
 the real budget is roughly 880×640 CSS pixels regardless of the projector.

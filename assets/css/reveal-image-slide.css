@@ -205,6 +205,12 @@
 	font-weight: 600;
 }
 
+/* Inline titles in a note bullet use <i>, as in captions; reveal's reset
+   strips its italic, so restore it. (<em> is taken by .ask.) */
+.reveal .image-notes .notes i {
+	font-style: italic;
+}
+
 /* The question that closes each note bullet. Gold, on its own line, so the
    three beats of a bullet stay legible at a glance: what to look at (bold),
    what it means (plain), what to think about (this). Not a question the
