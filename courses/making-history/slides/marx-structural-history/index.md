@@ -363,6 +363,33 @@ Power-loom weaving · from Edward Baines, <i>History of the Cotton Manufacture i
 </figure>
 </section>
 
+<!-- ========== IMAGE: THE SPINNING ROOM ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="portrait">
+<img src="images/hervieu-love-conquered-fear-1839.jpg" alt="An etching of a mill spinning room: long spinning mules down the left, two ragged boys embracing in the centre aisle, a barefoot girl and other workers watching, a child crouched under the machine at lower left, and a man in a top hat standing at the back">
+<figcaption markdown="span">
+"Love conquered Fear" · Auguste Hervieu, 1839
+<em>A plate for Frances Trollope's <i>Michael Armstrong, the Factory Boy</i>: two brothers embrace between the spinning mules while the mill owner watches in a top hat, and a child crouches under the machine. <strong>Trollope wrote the novel against the factory system.</strong><br>(Plate dated 20 April 1839, Henry Colburn; faces ch. VIII. Library of Congress copy, via Internet Archive. Public domain.)</em>
+</figcaption>
+</figure>
+</section>
+
+<!-- ========== FACTORY NOTES ========== -->
+<section markdown="1">
+<div class="image-notes" markdown="1">
+<div class="shots">
+<img src="images/powerloom-weaving-1835.jpg" style="max-height:17rem; width:auto; max-width:100%;" alt="The Baines power-loom plate, reduced: an orderly weaving hall">
+<img src="images/hervieu-love-conquered-fear-1839.jpg" style="max-height:17rem; width:auto; max-width:100%;" alt="The Hervieu spinning-room plate, reduced: ragged children between the machines">
+</div>
+<div class="notes" markdown="1">
+
+- **The same industry, drawn twice.** Baines (1835) shows an orderly weaving hall, in a book defending cotton. Hervieu (1839) shows a spinning room of ragged, barefoot children, the owner behind them in a top hat. <em class="ask">Which picture is evidence of factory conditions, and what is the other evidence of?</em>
+- **Look under the machine.** Trollope names the job: the "scavenger," "a little girl about seven years old," obliged "to stretch itself with sudden quickness on the ground, while the hissing machinery passed over her" (ch. VIII, p. 80). <em class="ask">The worker "becomes an appendage of the machine." Does the motor need to know what that was like?</em>
+- **Both were made to persuade.** Trollope's preface gives her aim: "to drag into the light of day... the hideous mass of injustice and suffering to which thousands of infant labourers are subjected." <em class="ask">If every picture of a factory was made to win an argument, what could tell a historian what factories were like?</em>
+</div>
+</div>
+</section>
+
 <!-- ========== THE MOTOR 4: THE NEXT STAGE ========== -->
 <section markdown="1">
 The motor · 4 · the next stage
@@ -475,15 +502,42 @@ Part two · 1848–1849
 </div>
 </section>
 
-<!-- ========== IMAGE: THE PARIS BARRICADE ========== -->
+<!-- ========== IMAGE: THE BARRICADE, BEFORE ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="landscape">
-<img src="images/paris-barricade-1848.jpg" alt="An early photograph looking down a narrow Paris street of tall shuttered houses, empty of people, with two low barricades of piled paving stones blocking the roadway in the middle distance">
+<img src="images/paris-barricade-before-1848-06-25.jpg" alt="An early daguerreotype in an arched gilt mount, looking down a narrow Paris street of tall shuttered houses from high above: two low barricades of piled paving stones block the empty roadway, and a single figure leans from a dormer window at right">
 <figcaption markdown="span">
-The rue Saint-Maur barricade · Paris, June 1848
-<em>Thibault photographed this street on 25 and 26 June, before the troops attacked and after; engraved for <i>L'Illustration</i>, the pair are among the first photographs of a news event ever published. <strong>Sources disagree over which day this plate shows.</strong> Thousands died in the June fighting.<br>(Charles François Thibault. Musée d'Orsay. Public domain.)</em>
+The rue Saint-Maur barricades · Sunday 25 June 1848, about 7:30 a.m.
+<em>Charles François Thibault's daguerreotype, taken from high above the street before General Lamoricière's troops attacked. The label on the mount calls the street the Faubourg du Temple.<br>(Musée Carnavalet, PH2861. CC0.)</em>
 </figcaption>
 </figure>
+</section>
+
+<!-- ========== IMAGE: THE BARRICADE, AFTER ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="portrait">
+<img src="images/paris-barricade-after-1848-06-26.jpg" alt="A black-and-white copy of a daguerreotype showing the whole worn plate: the same Paris street from the same high viewpoint, now crowded along its length with small figures and carts">
+<figcaption markdown="span">
+The same street · Monday 26 June 1848, after the attack
+<em>Thibault's second plate, from the same viewpoint. Where the barricades stood, the street is full of figures and carts.<br>(Copy print of the daguerreotype in the Musée d'Orsay, showing the whole plate. Musée Carnavalet. CC0.)</em>
+</figcaption>
+</figure>
+</section>
+
+<!-- ========== BARRICADE NOTES ========== -->
+<section markdown="1">
+<div class="image-notes" markdown="1">
+<div class="shots">
+<img src="images/paris-barricade-before-1848-06-25.jpg" style="max-height:17rem; width:auto; max-width:100%;" alt="The Sunday plate, reduced: an empty street with two barricades">
+<img src="images/paris-barricade-after-1848-06-26.jpg" style="max-height:17rem; width:auto; max-width:100%;" alt="The Monday plate, reduced: the same street crowded with figures">
+</div>
+<div class="notes" markdown="1">
+
+- **Look for the people.** On Sunday morning the street is empty: two walls of paving stones and one figure at a dormer window. Whoever built the barricades overnight, out of the street itself, is out of sight. <em class="ask">What would a theory of production tell you about the people who built these?</em>
+- **The same view on Monday.** After the troops attacked, the street where the barricades stood is crowded with figures and carts. <em class="ask">What changed between the two plates: how Paris made its living, or what people did in a day?</em>
+- **Among the first news photographs.** Both plates were engraved for the illustrated press, so readers saw the barricade before the attack and after it. <em class="ask">If these two pictures were all you had, what could you say about why the June rising failed?</em>
+</div>
+</div>
 </section>
 
 <!-- ========== THE EIGHTEENTH BRUMAIRE ========== -->
@@ -614,6 +668,19 @@ Peterloo · St Peter's Field, Manchester, 16 August 1819
 <em>Cavalry riding into a meeting for parliamentary reform; around eighteen people were killed. Carlile published this print six weeks later and dedicated it to Henry Hunt, the chairman — and "to the female Reformers of Manchester and the adjacent towns." <strong>The banners read UNIVERSAL SUFFRAGE and UNIVERSAL CIVIL AND RELIGIOUS LIBERTY.</strong><br>(Richard Carlile, hand-coloured aquatint and etching, 1 October 1819. Public domain.)</em>
 </figcaption>
 </figure>
+</section>
+
+<!-- ========== PETERLOO NOTES ========== -->
+<section markdown="1">
+<div class="image-notes" markdown="1">
+<img src="images/peterloo-1819.jpg" alt="The Peterloo print, reduced: cavalry with raised sabres riding into the crowd below the speakers' platform and its banners">
+<div class="notes" markdown="1">
+
+- **Read the banners.** UNIVERSAL SUFFRAGE and UNIVERSAL CIVIL AND RELIGIOUS LIBERTY, with red caps of liberty on the poles. The meeting was called to demand parliamentary reform. <em class="ask">If how people make a living drives history, why do the banners ask for the vote, not for wages?</em>
+- **A woman in white stands on the platform.** Behind her is a banner with a female figure, and Carlile dedicated the print "to the female Reformers of Manchester and the adjacent towns." <em class="ask">Why would a radical publisher put a woman at the centre, under the sabres?</em>
+- **Nobody here is at work.** People from Manchester and the adjacent towns, at a political meeting rather than at a loom or a mule. <em class="ask">Is this crowd a class yet? What would you need to know to decide?</em>
+</div>
+</div>
 </section>
 
 <!-- ========== THOMPSON: NEXT WEEK ========== -->

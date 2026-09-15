@@ -170,6 +170,15 @@ Recorded so a future reviewer does not re-raise them.
   arc slide. Here the two said the same three things in the same order, so they
   are merged. The headline is the take-home sentence, and each card carries its
   part's dates, name and takeaway. The recap still repeats the headline.
+- **Every image in the motor and problem sections has a stated point**
+  (2026-09-15, at the author's request, after the loom, barricade and Peterloo
+  images were found hard to teach from). Each now has an `.image-notes` slide:
+  factory (Baines and Hervieu), barricades (Thibault's two plates) and Peterloo
+  (the banners' political demand, the woman on the platform, a crowd at a
+  meeting rather than at work). The two-image notes slides use `.shots`, which
+  SLIDE-STYLE reserves for images that genuinely share one set of bullets. Both
+  pairs are comparisons, so they qualify. Each image still gets its own
+  full-bleed slide first.
 - **Engels gets a portrait although the schedule names only Marx.** He is
   co-author of the assigned text and Green and Troup call him Marx's "life-long
   collaborator" (p. 34); the deck quotes his 1888 class definitions.
@@ -217,9 +226,9 @@ Three parts; the first two each have one discussion pair:
    students always know where they are. Discussion: **is it provable?** — the
    only place testability appears, at the author's request, placed after the
    whole motor and before 1848.
-2. **The problem.** 1848, the Paris barricade, the *Brumaire*. Discussion: if
+2. **The problem.** 1848, Thibault's two barricade plates (Sunday before the attack, Monday after) with a notes slide, the *Brumaire*. Discussion: if
    the motor runs by itself, why did 1848 turn on what people did?
-3. **What historians did.** Hill and Hobsbawm (structure first), Peterloo,
+3. **What historians did.** Hill and Hobsbawm (structure first), Peterloo with a notes slide,
    then a single foreshadow slide for Thompson (class happens), who is taught
    in Week 6. No discussion pair: the "who is doing the making?" question moves
    to Week 6.1.
@@ -237,7 +246,13 @@ evidence rather than from philosophy alone.
 
 - *The Kennington Common image* — a second 1848 image; one barricade is enough.
 - *The power-loom notes slide* — its bullets were about gender and sources as
-  advertisements; the image stays, caption only.
+  advertisements; the image stays, caption only. **Reversed 2026-09-15 at the
+  author's request:** Hervieu's 1839 spinning-room plate from Trollope's
+  *Michael Armstrong* now follows the Baines plate. A notes slide sets the two
+  side by side: the same industry drawn by a defender and by a critic, the
+  child "scavenger" under the mule tied to the *Manifesto*'s "appendage of the
+  machine," and both pictures as persuasion, which leads into the "is it
+  provable?" discussion.
 - *The "Why historians read him" / political-interventions slide and the
   four-writings cards slide* — the writings now appear where they are used: the
   motor diagram names the text behind each step, and the *Brumaire* is
