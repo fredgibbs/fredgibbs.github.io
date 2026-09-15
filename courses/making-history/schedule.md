@@ -196,7 +196,8 @@ What if the really important history isn't about events or individuals at all, b
 ### 5.1: Marx and the Idea That History Has a Motor
 Marx offered the most dramatic version of structural history: class conflict as the engine driving all of history. Reading him as a historical thinker — not just a political figure — lets you see both the power of that argument and its blind spots.
 
-<!-- - Slides of [Marx and the Motor of History](slides/marx-structural-history/) -->
+- Slides of [What Makes History Happen?](slides/review-weeks-2-4/) --- a short review of Weeks 2–4
+- Slides of [Marx and the Motor of History](slides/marx-structural-history/)
 - 📗 Anna Green and Kathleen Troup, *The Houses of History*, 2: Marxist Historians, 33--39 (skim through 39--41).
 - 📜 Karl Marx, *The Communist Manifesto* (1848), Part I: "Bourgeois and Proletarians," 1--12, and skim the rest. Look for _how_ he argues that class struggle is the engine of history. Focus on the logic of his claim and how history is being used. No, I'm not trying to convert you into Marxists---it's an important historical document! 
 

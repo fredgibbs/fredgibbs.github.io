@@ -144,17 +144,32 @@ checked against a source in hand.
 Recorded so a future reviewer does not re-raise them.
 
 - **Part three deliberately does not survey three historians.** Hill and
-  Hobsbawm share one slide, which keeps them apart — Green and Troup say Hill "pays a great deal of attention to the world of ideas" and does not rest on "a very narrow economistic perspective" (p. 37), while Hobsbawm "remained closest to the economic determinism" (p. 39). Do not collapse them into "both read politics off the economy", and Thompson gets one because
-  **Week 6.1 assigns Thompson's preface directly**. The Nairn/Anderson,
-  Scott and Epstein material appears only on the part-three discussion and
-  answer slides. Do not restore per-historian slides without a reason to think
-  students need the labour-aristocracy debate.
+  Hobsbawm share one slide, which keeps them apart — Green and Troup say Hill "pays a great deal of attention to the world of ideas" and does not rest on "a very narrow economistic perspective" (p. 37), while Hobsbawm "remained closest to the economic determinism" (p. 39). Do not collapse them into "both read politics off the economy", and Thompson gets a single **foreshadow
+  slide**, because **Week 6.1 assigns Thompson's preface directly** and is where
+  he is taught. That slide carries the "class happens" quotation, the takehome
+  "People make their class, under circumstances they did not choose," and two
+  forward questions: who is doing the making (6.1), and whether the female
+  Reformers made history or supported the men who did (6.2). Do not restore
+  per-historian slides without a reason to think students need the
+  labour-aristocracy debate.
+- **Part three has no discussion pair** (2026-09-15, at the author's request).
+  The Thompson quotation slide, the "who is doing the making?" discussion slide
+  and its answer slide were collapsed into the foreshadow slide, since the
+  class focuses on Thompson in Week 6. The Nairn/Anderson, Scott and Epstein
+  material from the answer slide was cut with them. Week 6.1 (Thompson) and
+  6.2 (women's and gender history) are its natural home. The Peterloo image
+  stays: it breaks up the text slides and sets up the 6.2 question.
 - **No portraits of Hill, Hobsbawm or Thompson.** All three died recently
   enough that photographs of them are in copyright, and the deck's licence rule
   is public domain or CC only. Part three uses Peterloo instead, which does more
   argumentative work than head shots would. The style guide's "every named
   person gets a portrait" rule is knowingly not followed here, and neither is
   it for Ranke, whose portrait is in the 4.2 deck.
+- **The take home and the arc are one slide** (2026-09-15, at the author's
+  request). SLIDE-STYLE asks for a take-home slide followed by a separate `.cards`
+  arc slide. Here the two said the same three things in the same order, so they
+  are merged. The headline is the take-home sentence, and each card carries its
+  part's dates, name and takeaway. The recap still repeats the headline.
 - **Engels gets a portrait although the schedule names only Marx.** He is
   co-author of the assigned text and Green and Troup call him Marx's "life-long
   collaborator" (p. 34); the deck quotes his 1888 class definitions.
@@ -165,6 +180,14 @@ Recorded so a future reviewer does not re-raise them.
   includes the surrounding page and visible bleed-through from the facing leaf;
   the crop keeps the plate. Faint show-through survives at the top edge and
   reads as paper texture. Also in `images/README.md`.
+- **The cold open has two images but only one notes slide** (2026-09-15, at
+  the author's request). Church's *West Rock, New Haven* (1849) comes first as a
+  contrast: a Hudson River School pastoral with its farm workers in the field
+  and no industry. It gets no `.image-notes` slide of its own. The contrast is
+  carried on the Manchester notes slide instead, in the "Church's valley" and
+  "haymakers in the middle of the field" bullets. Church's picture is American
+  and Wyld's English. The pairing is about the picturesque convention and where
+  the work is, not a claim that Connecticut was pre-industrial in 1849.
 - **`kennington-common-1848.jpg` is no longer used** but is still in `images/`
   and credited in `images/README.md`. Delete both if it is not brought back.
 
@@ -186,9 +209,9 @@ is "one of the strongest unifying themes" of Hill, Hobsbawm and Thompson
 (p. 36). It also matches the week's framing in `schedule.md` (deeper forces
 vs. events and individuals) and leads straight into Thompson in Week 6.
 
-Three parts, each with one discussion pair:
+Three parts; the first two each have one discussion pair:
 
-1. **The motor.** Manchester cold open ("who decided this?"), a single Ranke
+1. **The motor.** Cold open of Church's *West Rock* (1849), then Manchester ("who decided this?"), a single Ranke
    slide as the foil, the Reading Room, portraits, a four-step `.flow`
    diagram, then one slide per step with a matching `The motor · N` eyebrow so
    students always know where they are. Discussion: **is it provable?** — the
@@ -197,7 +220,9 @@ Three parts, each with one discussion pair:
 2. **The problem.** 1848, the Paris barricade, the *Brumaire*. Discussion: if
    the motor runs by itself, why did 1848 turn on what people did?
 3. **What historians did.** Hill and Hobsbawm (structure first), Peterloo,
-   Thompson (class happens). Discussion: who is doing the making?
+   then a single foreshadow slide for Thompson (class happens), who is taught
+   in Week 6. No discussion pair: the "who is doing the making?" question moves
+   to Week 6.1.
 
 The recap headline repeats the take-home sentence: "How people make a living
 drives history. People still have to act." Every slide's takehome should be
@@ -243,7 +268,9 @@ much means of subsistence"; the class pairs are the *Manifesto*'s own
 **Fixed after a fresh-context review of the rebuilt deck, same day** — kept
 here because each is an easy mistake to reintroduce:
 
-- The last takehome said Thompson's book did not name the female Reformers.
+- (The answer slide this applied to was cut on 2026-09-15; the correction still
+  holds for the 6.2 question on the foreshadow slide and for any Week 6 deck.)
+  The last takehome said Thompson's book did not name the female Reformers.
   Green and Troup's criticism (p. 40) is of how he *characterized* radical
   women ("giving moral support to the men"), not that he left them out. The
   takehome now asks whether they made history or supported the men who did.

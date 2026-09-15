@@ -1,6 +1,6 @@
 # Slide Images — Marx and the Motor of History
 
-Nine images used by `../index.md`: all public domain. Nothing here requires
+Ten images used by `../index.md`: all public domain. Nothing here requires
 attribution by license, but credits are kept anyway.
 
 If you change a filename, update the matching `<img src="…">` in `../index.md`.
@@ -13,6 +13,7 @@ If you change a filename, update the matching `<img src="…">` in `../index.md`
 | `marx-mayall-1875.jpg` | Karl Marx (1818–1883), studio portrait, 1875 — the standard late photograph | John Jabez Edwin Mayall, 1875; Städel Museum, via Wikimedia Commons | Public domain |
 | `engels-c1860.jpg` | Friedrich Engels (1820–1895), oval studio photograph, c. 1860 | Amsler & Ruthardt / Edward Gooch Collection, via Wikimedia Commons | Public domain |
 | `manifest-titlepage-1848.jpg` | Title page of *Manifest der Kommunistischen Partei*, the first edition, London, February 1848 — printed for the Bildungs-Gesellschaft für Arbeiter by J. E. Burghard, 46 Liverpool Street, Bishopsgate. Carries **no author name**, plus two later pencil annotations | Wikimedia Commons, "Manifest der kommunistischen Partei (Marx) 001.jpg"; scan from *The Making of the Modern World* (Gale) | Public domain |
+| `church-west-rock-1849.jpg` | Frederic Edwin Church, *West Rock, New Haven*, 1849, oil on canvas — Hudson River School pastoral: haymakers, a river, a church spire, no industry. The first cold-open image, shown before Manchester as its contrast | New Britain Museum of American Art, via Wikimedia Commons ("Frederic Church - West Rock, New Haven.jpg"); fetched at width 2000, `sips -Z 1800`, JPEG q82 | Public domain |
 | `manchester-kersal-moor-1852.jpg` | *Manchester from Kersal Moor, with rustic figures and goats*, William Wyld, 1852 — pastoral foreground, a horizon of mill chimneys | Royal Collection, via Google Art Project / Wikimedia Commons | Public domain |
 | `powerloom-weaving-1835.jpg` | Power-loom weaving, plate from Edward Baines, *History of the Cotton Manufacture in Great Britain* (1835) — a promotional image from a defence of the industry; the workforce shown is almost entirely female | T. Allom (illustrator), J. Tingle (engraver), 1835, via Wikimedia Commons | Public domain |
 | `kennington-common-1848.jpg` | The great Chartist meeting on Kennington Common, 10 April 1848 — daguerreotype, among the earliest photographs of a crowd | William Edward Kilburn, 1848; Royal Collection, via Google Art Project / Wikimedia Commons | Public domain |

@@ -3,6 +3,17 @@ layout: reveal-lecture
 title: "Marx and the Motor of History — the Manifesto, Part I"
 image_slides: true
 ---
+<!-- ========== COLD OPEN: WEST ROCK ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="landscape">
+<img src="images/church-west-rock-1849.jpg" alt="An oil landscape under a tall summer sky: a long wooded ridge with a bare rock face, a white church spire at its foot, a green valley with a winding river, and in the foreground field two small figures loading hay onto a cart">
+<figcaption markdown="span">
+<i>West Rock, New Haven</i> · Frederic Edwin Church, 1849
+<em>Haymakers loading a cart in a Connecticut valley, a church spire at the foot of the ridge. Painted the year after the <i>Manifesto</i>.<br>(New Britain Museum of American Art. Public domain.)</em>
+</figcaption>
+</figure>
+</section>
+
 <!-- ========== COLD OPEN: MANCHESTER ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="landscape">
@@ -21,8 +32,8 @@ image_slides: true
 <div class="notes" markdown="1">
 
 - **The chimneys are the horizon.** They run the full width of the picture, and each one is a steam engine burning coal. Manchester's population grew roughly fourfold in the first half of the century. <em class="ask">If nobody decided this, what kind of explanation could account for it?</em>
-- **The foreground is a century older than the background.** Goats, trees, a couple resting on a bank: the furniture of eighteenth-century landscape painting, set in front of industrial production. Both are in the frame because both were in the county. <em class="ask">When a new way of producing things arrives, does the old one vanish — or stay on in the foreground?</em>
-- **The people who work in the mills are not in the picture.** The only figures are at rest in a field; the thousands tending machines are out of sight under the smoke. <em class="ask">A history of forces can explain the chimneys. Where does it put the people inside the mills?</em>
+- **The foreground is Church's valley.** Goats, trees, a couple resting on a bank: the same landscape furniture as *West Rock*, set in front of industrial production. Both are in the frame because both were in the county. <em class="ask">When a new way of producing things arrives, does the old one vanish — or stay on in the foreground?</em>
+- **The people who work in the mills are not in the picture.** Church put his haymakers in the middle of the field. Here the only figures are at rest; the thousands tending machines are out of sight under the smoke. <em class="ask">A history of forces can explain the chimneys. Where does it put the people inside the mills?</em>
 </div>
 </div>
 </section>
@@ -57,46 +68,12 @@ Marx's explanation of what drives historical change, the problem it ran into in 
 {: .detail}
 </section>
 
-<!-- ========== THE TAKE HOME, UP FRONT ========== -->
+<!-- ========== THE TAKE HOME AND THE ARC ========== -->
 <section data-transition="fade" markdown="1">
-The take home · three things
+The take home · three parts
 {: .eyebrow}
 
 ## How people make a living drives history. People still have to act.
-{: .main-point}
-<div class="rule"></div>
-
-<div class="reveal-block unpack fragment compact" data-fragment-index="0" markdown="1">
-
-###### 01 · The motor
-{: .label}
-
-Marx explains change by production, not by what rulers decide. Needs come first; classes form around the work; conflict breaks each order, and the next stage is "equally inevitable."
-</div>
-
-<div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
-
-###### 02 · The problem
-{: .label}
-
-Revolutions spread across Europe in 1848 and failed. Writing the history of France's, Marx concedes that people "make their own history, but they do not make it just as they please."
-</div>
-
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-
-###### 03 · What historians did
-{: .label}
-
-**How much the structure decides, and how much people do, is the argument Marxist historians kept having.**
-</div>
-</section>
-
-<!-- ========== THE ARC OF THE LECTURE ========== -->
-<section data-transition="fade" markdown="1">
-Where we're going · three parts
-{: .eyebrow}
-
-## An explanation, the problem inside it, and the historians who worked on it
 {: .main-point}
 <div class="rule"></div>
 
@@ -108,7 +85,7 @@ Where we're going · three parts
 
 #### The motor
 
-Where Marx looked, the four parts of his explanation, and whether it can be proved.
+Marx explains change by production, not by what rulers decide. Conflict breaks each order, and the next stage is "equally inevitable."
 </div>
 <div class="card" markdown="1">
 
@@ -117,7 +94,7 @@ Where Marx looked, the four parts of his explanation, and whether it can be prov
 
 #### The problem
 
-Revolutions spread across Europe and failed. Marx's history of France's concedes that people have to act.
+Revolutions spread across Europe and failed. Marx concedes that people "make their own history, but they do not make it just as they please."
 </div>
 <div class="card" markdown="1">
 
@@ -126,7 +103,7 @@ Revolutions spread across Europe and failed. Marx's history of France's concedes
 
 #### What historians did
 
-Hill, Hobsbawm and Thompson take the motor into the archive, and disagree over how much it decides.
+How much the structure decides, and how much people do, is the argument Marxist historians kept having. Thompson follows in Week 6.
 </div>
 </div>
 </section>
@@ -639,9 +616,9 @@ Peterloo · St Peter's Field, Manchester, 16 August 1819
 </figure>
 </section>
 
-<!-- ========== THOMPSON ========== -->
+<!-- ========== THOMPSON: NEXT WEEK ========== -->
 <section markdown="1">
-E. P. Thompson · <i>The Making of the English Working Class</i>, 1963
+Next week · E. P. Thompson, 1963
 {: .eyebrow}
 
 ## Thompson: class is something people make
@@ -650,73 +627,17 @@ E. P. Thompson · <i>The Making of the English Working Class</i>, 1963
 "[C]lass happens when some men, as a result of common experiences (inherited or shared), feel and articulate the identity of their interests as between themselves, and as against other men whose interests are different from (and usually opposed to) theirs... If the experience appears as determined, class-consciousness does not." <span class="cite">Thompson, quoted in Green and Troup, p. 39</span>
 {: .quote.compact.fragment data-fragment-index="0"}
 
-<div class="swap" markdown="1">
-<div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
-
-###### What the verb does
-{: .label}
-
-Class *happens*. The experience is "largely determined by the productive relations in which men are born — or enter involuntarily," and class-consciousness is the way those experiences are "handled in cultural terms: embodied in traditions, value-systems, ideas and institutional forms" (p. 39).
-</div>
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+<div class="takehome fragment compact" data-fragment-index="1" markdown="1">
 
 ###### The other half of the *Brumaire* sentence
 {: .label}
 
-Thompson keeps the base and refuses to read consciousness off it. **People make their class, under circumstances they did not choose.** Week 6.1 reads his preface.
-</div>
-</div>
-</section>
-
-<!-- ========== DISCUSSION: WHAT HISTORIANS DID ========== -->
-<section markdown="1">
-Discussion · what historians did
-{: .eyebrow}
-
-## Thompson's book is called *The Making of the English Working Class.* Who is doing the making?
-{: .main-point}
-<div class="rule"></div>
-Thompson "emphasized that the new consciousness and actions were due as much to human agency as to the economic structure within which people were born" (p. 39). Nairn and Anderson held that the structure left workers almost no room to act (pp. 39–40).
-{: .detail}
-
-- If the structure decides, what is a historian of working people actually studying?
-- If people decide, what work is the theory still doing?
-{: .questions.compact.fragment}
-</section>
-
-<!-- ========== ANSWER: WHAT HISTORIANS DID ========== -->
-<section markdown="1">
-Answer · what historians did
-{: .eyebrow}
-
-## Both. Then the question is which people count as makers.
-{: .main-point}
-
-<div class="reveal-block unpack fragment compact" data-fragment-index="0" markdown="1">
-
-###### Why the answer has to be both
-{: .label}
-
-Nobody chooses the productive relations they are born into, and nobody's politics follow from them automatically — the paradox Green and Troup find in the *Brumaire* sentence (p. 36). Thompson's version predicts what you will find in the record: traditions, chapels, ballads, pamphlets. He went and found them.
+Thompson keeps the base and refuses to read consciousness off it. **People make their class, under circumstances they did not choose.**
 </div>
 
-<div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
-
-###### The limit, in three moves
-{: .label}
-
-- Thompson cast radical working-class women as "giving moral support to the men," and was "unrepentant."
-- Joan Scott: "a story about men," with class "constructed as a masculine identity."
-- James Epstein largely agreed, yet found too little recognition of the "limited participation women did achieve" (p. 40).
-</div>
-
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-
-###### Whose movement it was
-{: .label}
-
-**Carlile's 1819 print was dedicated to the female Reformers. Did they make history, or support the men who did?** Week 6.2 takes this up.
-</div>
+- Week 6.1 reads his preface. His book is called *The Making of the English Working Class*: who is doing the making?
+- Carlile dedicated his Peterloo print to "the female Reformers." Did they make history, or support the men who did? (Week 6.2)
+{: .questions.compact.fragment data-fragment-index="2"}
 </section>
 
 <!-- ========== RECAP ========== -->
@@ -754,7 +675,7 @@ Production, then classes, contradiction, and an "inevitable" next stage. Checkab
 
 #### What historians did
 
-Hobsbawm stayed closest to the economic base; Hill gave ideas room; Thompson's class "happens." Which people count as makers is Week 6.2.
+Hobsbawm stayed closest to the economic base; Hill gave ideas room. Next week Thompson's class "happens."
 </div>
 </div>
 </section>
