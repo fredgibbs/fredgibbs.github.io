@@ -502,40 +502,37 @@ Part two · 1848–1849
 </div>
 </section>
 
-<!-- ========== IMAGE: THE BARRICADE, BEFORE ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="landscape">
-<img src="images/paris-barricade-before-1848-06-25.jpg" alt="An early daguerreotype in an arched gilt mount, looking down a narrow Paris street of tall shuttered houses from high above: two low barricades of piled paving stones block the empty roadway, and a single figure leans from a dormer window at right">
-<figcaption markdown="span">
-The rue Saint-Maur barricades · Sunday 25 June 1848, about 7:30 a.m.
-<em>Charles François Thibault's daguerreotype, taken from high above the street before General Lamoricière's troops attacked. The label on the mount calls the street the Faubourg du Temple.<br>(Musée Carnavalet, PH2861. CC0.)</em>
-</figcaption>
-</figure>
-</section>
-
-<!-- ========== IMAGE: THE BARRICADE, AFTER ========== -->
+<!-- ========== IMAGE: THE BARRICADE ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="portrait">
-<img src="images/paris-barricade-after-1848-06-26.jpg" alt="A black-and-white copy of a daguerreotype showing the whole worn plate: the same Paris street from the same high viewpoint, now crowded along its length with small figures and carts">
+<img src="images/barricade-meissonier-1849.jpg" alt="An oil painting looking down a narrow street of shuttered shopfronts: the whole foreground is a field of torn-up paving stones, and lying among them, sprawled in rows, are a dozen or more dead men in workmen's shirts and smocks, one in bright red trousers">
 <figcaption markdown="span">
-The same street · Monday 26 June 1848, after the attack
-<em>Thibault's second plate, from the same viewpoint. Where the barricades stood, the street is full of figures and carts.<br>(Copy print of the daguerreotype in the Musée d'Orsay, showing the whole plate. Musée Carnavalet. CC0.)</em>
+<i>La Barricade, rue de la Mortellerie, juin 1848</i> · Ernest Meissonier, 1849
+<em>"The Barricade": the dead of the June rising, lying among the paving stones the barricade was built out of. Meissonier was a captain in the National Guard artillery and saw this near the Hôtel de Ville. <strong>He judged it too recent for the 1849 Salon and showed it only in 1850, retitled <i>Souvenir de guerre civile</i> — "memory of civil war."</strong><br>(Musée du Louvre, Paris. Public domain.)</em>
 </figcaption>
 </figure>
 </section>
 
-<!-- ========== BARRICADE NOTES ========== -->
+<!-- ========== IMAGE: VERNET, THE OFFICIAL VERSION ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="landscape">
+<img src="images/barricade-vernet-1848.jpg" alt="An oil painting of street fighting: a barricade of paving stones and cart wheels across the foreground, an insurgent in a white shirt standing on it raising a cobblestone over his head beside a red flag, a close-packed column of infantry in dark coats and red trousers levelling bayonets at them from the right, dead and wounded men below, and the dome of the Panthéon rising through smoke behind">
+<figcaption markdown="span">
+<i>Barricade dans la rue Soufflot, le 24 juin 1848</i> · Horace Vernet, c. 1848–50
+<em>"Barricade in the rue Soufflot," the Panthéon behind. Vernet was the army's painter, celebrated for canvases of the conquest of Algeria and a partisan of General Cavaignac, who put the rising down.<br><strong>The fight did not look like this.</strong> At the June barricades both sides kept their distance, with rifles and artillery.<br>(Deutsches Historisches Museum, Berlin. Public domain.)</em>
+</figcaption>
+</figure>
+</section>
+
+<!-- ========== VERNET NOTES ========== -->
 <section markdown="1">
 <div class="image-notes" markdown="1">
-<div class="shots">
-<img src="images/paris-barricade-before-1848-06-25.jpg" style="max-height:17rem; width:auto; max-width:100%;" alt="The Sunday plate, reduced: an empty street with two barricades">
-<img src="images/paris-barricade-after-1848-06-26.jpg" style="max-height:17rem; width:auto; max-width:100%;" alt="The Monday plate, reduced: the same street crowded with figures">
-</div>
+<img src="images/barricade-vernet-1848.jpg" alt="The Vernet painting, reduced: a column of bayonets against a barricade, the Panthéon behind">
 <div class="notes" markdown="1">
 
-- **Look for the people.** On Sunday morning the street is empty: two walls of paving stones and one figure at a dormer window. Whoever built the barricades overnight, out of the street itself, is out of sight. <em class="ask">What would a theory of production tell you about the people who built these?</em>
-- **The same view on Monday.** After the troops attacked, the street where the barricades stood is crowded with figures and carts. <em class="ask">What changed between the two plates: how Paris made its living, or what people did in a day?</em>
-- **Among the first news photographs.** Both plates were engraved for the illustrated press, so readers saw the barricade before the attack and after it. <em class="ask">If these two pictures were all you had, what could you say about why the June rising failed?</em>
+- **A column against a man with a cobblestone.** On the right, infantry in step with bayonets levelled; on the barricade, one man in a shirt raising a paving stone over his head. The army is a machine and the insurgents are individuals. <em class="ask">What is this picture telling you power is made of?</em>
+- **The Panthéon is behind them, undamaged.** The insurgents had fallen back inside it, and the army turned artillery on the building. Vernet leaves the gun and the damaged façade out. <em class="ask">Is a painting evidence of the fight, or evidence of how the winners wanted it remembered?</em>
+- **Some of those troops are workers.** The Garde mobile were young men recruited from the same poor Paris districts as the people on the barricade. <em class="ask">If class struggle is the motor of history, why are workers on both sides of this barricade?</em>
 </div>
 </div>
 </section>
@@ -552,14 +549,21 @@ The same street · Monday 26 June 1848, after the attack
 {: .quote.compact.fragment data-fragment-index="0"}
 
 <div class="swap" markdown="1">
-<div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
+<div class="reveal-block historical fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
+
+###### Where the title comes from
+{: .label}
+
+Louis Bonaparte — Napoleon's nephew — seized power on 2 December 1851. Marx names the book after 18 Brumaire Year VIII, 9 November 1799 in the Revolutionary calendar, the day his uncle had done the same. History repeating, Marx says, "the first time as tragedy, the second time as farce."
+</div>
+<div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="2" markdown="1">
 
 ###### What the book is
 {: .label}
 
 Marx's history of what had just happened in France: how the revolution of 1848 produced the rule of Louis Bonaparte. The sentence explains why people who make a revolution do not get the one they intended.
 </div>
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+<div class="takehome fragment compact" data-fragment-index="3" markdown="1">
 
 ###### A paradox inside the motor
 {: .label}

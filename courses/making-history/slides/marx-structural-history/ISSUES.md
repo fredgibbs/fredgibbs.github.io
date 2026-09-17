@@ -177,10 +177,10 @@ Recorded so a future reviewer does not re-raise them.
 - **Every image in the motor and problem sections has a stated point**
   (2026-09-15, at the author's request, after the loom, barricade and Peterloo
   images were found hard to teach from). Each now has an `.image-notes` slide:
-  factory (Baines and Hervieu) and barricades (Thibault's two plates); Peterloo
-  had one too (the banners' political demand, the woman on the platform, a
-  crowd at a meeting rather than at work) until part three was cut on
-  2026-09-17. The two-image notes slides use `.shots`, which
+  factory (Baines and Hervieu); barricades and Peterloo had them too until
+  those images were cut on 2026-09-17. *(Superseded in part: part two's image
+  is now a single Meissonier painting with no notes slide, because the point
+  it makes is visible in the picture rather than needing to be hunted for.)* The two-image notes slides use `.shots`, which
   SLIDE-STYLE reserves for images that genuinely share one set of bullets. Both
   pairs are comparisons, so they qualify. Each image still gets its own
   full-bleed slide first.
@@ -204,6 +204,63 @@ Recorded so a future reviewer does not re-raise them.
   the work is, not a claim that Connecticut was pre-industrial in 1849.
 - **`kennington-common-1848.jpg` is no longer used** but is still in `images/`
   and credited in `images/README.md`. Delete both if it is not brought back.
+
+---
+
+**The *Brumaire* title is glossed in a block, not on its own slide** — added
+as a slide on 2026-09-17 and folded back in the same day, both at the author's
+request. The comprehension problem is real: students do not know what
+"Brumaire" refers to. The slide that solved it carried the opening of ch. 1
+("the first time as tragedy, the second time as farce... the nephew for the
+uncle"), the Revolutionary calendar, and both coups. The author's second
+thought — "are we making too big a deal out of Marx's Brumaire book? is it
+obscuring the message about history?" — was correct, and the numbers back it:
+part two had grown to eight slides, of which four were context (two paintings,
+a notes slide, the title slide) standing in front of the single slide that
+carries the argument. The title is now a `.historical` block inside the
+*Brumaire* slide's `.swap`, keeping the coup dates and the tragedy/farce clause
+and dropping the rest.
+
+**If it is ever restored as a slide**, the material is: 18 Brumaire Year VIII
+= 9 November 1799, Napoleon overthrows the Directory and becomes First Consul;
+2 December 1851, Louis-Napoléon breaks up the Legislative Assembly; ch. 1 on
+marxists.org is Saul K. Padover's translation from the 1869 German edition. And
+note the wording clash that made it interesting: Padover gives "they do not
+make it as they please" where Green and Troup (p. 36) give "not just as they
+please" — two renderings of one sentence, worth a remark out loud.
+
+**A headline that needs a gloss before it can be spoken is not finished.** The
+slide's first headline read "Marx's title is a joke, and the joke is the
+argument," and the author could not see how to say it out loud. It was replaced
+with a plain statement of fact before the slide was folded away. Same lesson
+applies to anything written here later.
+
+**Vernet's *Barricade dans la rue Soufflot* was added** (2026-09-17) to carry
+the state-power contrast the Thibault plate could not. It runs directly after
+the Meissonier: the dead, then the official version of how they died. Two
+factual corrections were needed first, both from Ivan Burel's EHNE article and
+both recorded in `images/README.md` — the event is **24 June, not 25** (Commons
+and most stock captions are wrong), and the hand-to-hand bayonet charge is a
+painter's convention rather than what happened. The notes slide is built on
+what Vernet leaves out: the artillery trained on the Panthéon. Its third bullet
+("some of those troops are workers" — the Garde mobile recruited from the same
+poor districts as the insurgents) is the one that does real work for *this*
+deck, since it puts workers on both sides of the barricade just before the
+*Brumaire* explains why people do not get the revolution they intended.
+
+**The Thibault "after" plate was re-tested for a state-power reading and still
+fails** (2026-09-17). The proposal was to run it after the Meissonier as a
+contrast: romantic dead workers, then the army in possession of the street. The
+reading itself is correct — magnified, the plate shows troops standing on the
+wrecked barricade — but it does not survive projection. Cropped to the
+barricade band and rendered at the 880 px a landscape image slide actually
+gives it, the troops read as an undifferentiated dark crowd; nothing marks them
+as soldiers. The contrast would land as "clear painting versus murky
+photograph," not as "victims versus the state." **If that contrast is wanted,
+the legible option is Horace Vernet's *Barricade de la rue Soufflot*
+(1848–49; 4961×3893 on Wikimedia Commons, public domain)**, which shows a
+column of troops with bayonets taking a barricade on 25 June 1848 — the same
+day as Thibault's first plate, seen from the army's side.
 
 ---
 
@@ -231,8 +288,15 @@ Three parts; the first two each have one discussion pair:
    students always know where they are. Discussion: **is it provable?** — the
    only place testability appears, at the author's request, placed after the
    whole motor and before 1848.
-2. **The problem.** 1848, Thibault's two barricade plates (Sunday before the attack, Monday after) with a notes slide, the *Brumaire*. Discussion: if
-   the motor runs by itself, why did 1848 turn on what people did?
+2. **The problem.** 1848; Meissonier's *La Barricade* (1849) and then Vernet's
+   *Barricade dans la rue Soufflot* (c. 1848–50) with a notes slide — the cost,
+   then the official version; the *Brumaire*, whose
+   title is glossed in one block rather than on its own slide.
+   Discussion: if the motor runs by itself, why did 1848 turn on what people
+   did? *(Until 2026-09-17 the image here was Thibault's two daguerreotype
+   plates plus a notes slide — three slides where there is now one. The author
+   could not see the detail at classroom distance and could not tell what the
+   pair was for; both complaints were fair. See `images/README.md`.)*
 3. **The legacy.** One slide (2026-09-17, at the author's request, "for
    simplicity"): Hill's 1931 quotation, who carried the method, the Hill /
    Hobsbawm poles of the structure-versus-agency argument, and the takehome

@@ -1,17 +1,25 @@
 # Slide Images — Marx and the Motor of History
 
-Twelve image files, ten used by `../index.md`: public domain and CC0. Nothing
-here requires attribution by license, but credits are kept anyway.
+Fourteen image files, ten used by `../index.md`: public domain and CC0.
+Nothing here requires attribution by license, but credits are kept anyway.
 
 If you change a filename, update the matching `<img src="…">` in `../index.md`.
 
-**Two files are kept but not currently used:** `kennington-common-1848.jpg` and
-`peterloo-1819.jpg`. Peterloo was dropped when part three was cut to a single
-legacy slide (2026-09-17); it had a full-bleed slide and an `.image-notes`
-slide reading its banners. Both files are left here with their provenance
-because either would slot straight into a Week 6 deck on Thompson — the
-Peterloo notes asked whether the crowd "is a class yet," which is Thompson's
-question. Delete them only if you are sure no later deck wants them.
+**Four files are kept but not currently used**, all dropped on 2026-09-17 and
+all left here with their provenance because a later deck may want them:
+
+- `peterloo-1819.jpg` — had a full-bleed slide and an `.image-notes` slide
+  reading its banners, until part three was cut to a single legacy slide. Its
+  notes asked whether the crowd "is a class yet," which is Thompson's question,
+  so it would slot straight into a Week 6 deck.
+- `paris-barricade-before-1848-06-25.jpg` and
+  `paris-barricade-after-1848-06-26.jpg` — Thibault's two daguerreotype plates,
+  replaced by the Meissonier painting. See the Notes.
+- `kennington-common-1848.jpg` — never used; cut during drafting as a second
+  1848 image.
+
+Delete them only if you are sure no later deck wants them; each has a re-fetch
+command in the Notes below.
 
 ## Credits
 
@@ -29,9 +37,19 @@ question. Delete them only if you are sure no later deck wants them.
 | `paris-barricade-after-1848-06-26.jpg` | Thibault's second plate of the same street, Monday 26 June 1848, after General Lamoricière's troops attacked. A copy print (contretype) of the daguerreotype in the Musée d'Orsay, showing the whole plate | Musée Carnavalet, via Wikimedia Commons ("Contretype d'un daguerréotype de Thibault conservé au musée d'Orsay. Barricades de la rue Saint-Maur, le 26 Juin 1848, a, Paris Musées 20230513094941.jpg"); q86 | CC0 |
 | `hervieu-love-conquered-fear-1839.jpg` | Auguste Hervieu, "Love conquered Fear," etched plate for Frances Trollope, *The Life and Adventures of Michael Armstrong, the Factory Boy*: a mill spinning room with ragged children, the owner in a top hat, and a child under the mule. Imprint "London, Published April 20, 1839, by Henry Colburn"; faces ch. VIII (pp. 77–83). **A crop** — see Notes | Library of Congress copy of the 1840 edition, Internet Archive `lifeadventuresof00tro`, leaf n104 | Public domain |
 | `peterloo-1819.jpg` | The Peterloo Massacre, St Peter's Field, Manchester, 16 August 1819 — hand-coloured aquatint and etching published 1 October 1819, dedicated to Henry Hunt "and to the female Reformers of Manchester and the adjacent towns" | Richard Carlile, 1819, via Wikimedia Commons | Public domain |
+| `barricade-meissonier-1849.jpg` | Ernest Meissonier, *La Barricade, rue de la Mortellerie, juin 1848*, 1849, oil on canvas — the dead of the June rising among torn-up paving stones. The single image in part two | Musée du Louvre, Paris; via Wikimedia Commons ("Meissonier Barricade.jpg") | Public domain |
+| `barricade-vernet-1848.jpg` | Horace Vernet, *Barricade dans la rue Soufflot, le 24 juin 1848*, c. 1848–50, oil on canvas — a column of infantry with bayonets taking a barricade, the Panthéon behind. Part two, shown after the Meissonier | Deutsches Historisches Museum, Berlin; via Wikimedia Commons ("Horace Vernet-Barricade rue Soufflot.jpg") | Public domain |
 
-Retrieved 2026-09-11, all nine via the Wikimedia Commons `Special:FilePath`
-endpoint. The folder totals ~5.6 MB, inside the ~10 MB ceiling.
+Retrieved 2026-09-11, except `barricade-meissonier-1849.jpg` (2026-09-17); all
+via the Wikimedia Commons `Special:FilePath` endpoint.
+
+**The folder is now OVER its ceiling: ~11 MB against the ~10 MB guideline in
+`courses/SLIDE-STYLE.md`.** Adding the Vernet (2026-09-17) pushed it past.
+The ten files actually on slides come to ~7.9 MB; the four unused ones listed
+above account for the other ~3.1 MB. **Deleting those four brings the folder
+back to ~7.9 MB** and is the recommended fix — each has a re-fetch command
+below, so the loss is a minute's work rather than anything irreversible. They
+were kept only because a Week 6 deck may want Peterloo.
 
 ## Notes
 
@@ -69,21 +87,77 @@ endpoint. The folder totals ~5.6 MB, inside the ~10 MB ceiling.
   no author, so a reader has to be told which marks are the printer's and which
   are a librarian's.
 
-- **The barricade pair replaces a single ambiguous plate** (2026-09-15). The
-  old `paris-barricade-1848.jpg` was a retouched Commons file whose own record
-  gave both dates. Musée Carnavalet's records settle it: PH2861 is the Sunday
-  25 June plate, *avant l'attaque*, and the contretype of the Musée d'Orsay
-  daguerreotype is Monday 26 June, *après l'attaque*. The Sunday file is the
-  framed plate, kept with its mount because the label is part of the object.
-  The label says "Faub.g du Temple," and Commons's title misreads "7h½" as
-  "7h12." The Monday file is a black-and-white copy print, because Carnavalet's
-  CC0 scan of the Orsay plate is the clearest version available. Both are
-  recompressed at q86 with no other changes. Regenerate with:
+- **The Vernet is the state's version of the same days, and it is a fiction**
+  (added 2026-09-17). It runs immediately after the Meissonier so the pair
+  reads as cost, then official story. Two corrections were needed before it
+  could be captioned, both from Ivan Burel's article for EHNE, "Juin 1848 :
+  Horace Vernet s'en prend aux barricades de la rue Soufflot"
+  (`https://ehne.fr/fr/node/22741/printable/pdf`):
+
+  1. **The event is 24 June, not 25.** Burel is explicit that the notices
+     giving 25 June — including Wikimedia Commons's file description and most
+     stock-image titles — are wrong. The barricade was pulled down on 23 June
+     after François Arago negotiated, rebuilt on 24 June, and stormed that day.
+  2. **The painting is not documentary.** Burel: "cette représentation est très
+     éloignée de la réalité historique des combats." Hand-to-hand bayonet
+     charges were "rares, pour ne pas dire inexistants" at the June barricades
+     — both sides fought at a distance with rifles and artillery. The insurgents
+     had fallen back into the Panthéon and the army turned a gun on it; Vernet
+     "a soigneusement dissimulé ce détail," because damage to the tomb of the
+     great men did not suit his message. The officer in the bicorne on the
+     white horse is General Damesme, mortally wounded that day and made a
+     martyr by republican propaganda afterwards.
+
+  The caption therefore says "the fight did not look like this" rather than
+  presenting the picture as a record, and the notes slide is built on what the
+  painting leaves out. **Do not re-date it to 25 June** to match Commons, and
+  do not caption it as a document of the fighting.
+
+  Not used, but available if the slide is ever revised: Nicolas Edward Gabe's
+  *Prise du Panthéon, vue de la rue Soufflot, 24 juin 1848* (Musée Carnavalet),
+  which Burel says is much closer to what happened — soldiers skirmishing from
+  windows, artillery trained on the Panthéon.
+
+- **The Meissonier replaced Thibault's two daguerreotypes** (2026-09-17, at the
+  author's request: "I'm not sure what I'm supposed to get out of or teach
+  about the Thibault photos. Also, it's hard to see any detail in the large
+  classroom."). Both criticisms hold up. In the 25 June plate the gilt mount
+  takes about forty per cent of the frame, the barricades are two thin dark
+  lines in the middle distance, and the "figure at a dormer window" the notes
+  slide asked students to find is not reliably visible even at full resolution;
+  the most legible thing in it is a painted sign for a chocolate factory. The
+  26 June plate reads better — the crowd is a visible dark mass — but it is a
+  damaged copy print with a third of its height given to blank sky. The
+  Meissonier says the same thing and can be seen from the back row: the
+  barricade's paving stones fill the foreground, and the people who built it
+  are lying on them. Its provenance also does more work, since the painter was
+  on the winning side. The two Thibault files are kept; re-fetch or re-crop
+  with:
 
       curl -L -H 'User-Agent: your-name (your-email)' \
         "https://commons.wikimedia.org/wiki/Special:FilePath/<FILE>?width=2200" -o raw
       sips -Z 1800 raw --out out.jpg -s format jpeg -s formatOptions 86
 
+  Their own sourcing note, kept because it cost some effort to settle: the pair
+  replaced a single retouched Commons file whose record gave both dates. Musée
+  Carnavalet settles it — PH2861 is the Sunday 25 June plate, *avant
+  l'attaque*, and the contretype of the Musée d'Orsay daguerreotype is Monday
+  26 June, *après l'attaque*. The Sunday file is the framed plate, kept with
+  its mount because the label is part of the object; that label says "Faub.g du
+  Temple," and Commons's title misreads "7h½" as "7h12."
+
+  **Do not caption the 26 June plate as a street back to normal.** The obvious
+  reading of it — the barricade gone, ordinary traffic returned, the rising
+  swallowed without trace — is wrong, and the deck's old caption ("where the
+  barricades stood, the street is full of figures and carts") invited it.
+  Magnified, the plate shows the barricade *still lying across the road* as a
+  bank of broken paving stones, with a dense crowd standing on and behind it,
+  many of them plainly uniformed — pale cross-belts, dark shakos, ranks at the
+  upper left — and carts drawn up beyond. The Musée d'Orsay's own reading is
+  "soldiers and passersby." It is the street under military occupation on the
+  morning the rising was crushed, not the street getting on with its day. That
+  is a sharper image than the tidy version, but it needs two magnifications to
+  see, which is the whole reason the plate left the deck.
 - **`hervieu-love-conquered-fear-1839.jpg` is a crop** of the full page scan,
   keeping the etched frame. It drops the margins, the engraved title "Love
   conquered Fear" and the imprint line, which the caption carries instead. The
