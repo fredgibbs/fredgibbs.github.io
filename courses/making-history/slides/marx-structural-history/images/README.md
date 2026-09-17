@@ -1,9 +1,17 @@
 # Slide Images — Marx and the Motor of History
 
-Twelve image files, eleven used by `../index.md`: public domain and CC0. Nothing
+Twelve image files, ten used by `../index.md`: public domain and CC0. Nothing
 here requires attribution by license, but credits are kept anyway.
 
 If you change a filename, update the matching `<img src="…">` in `../index.md`.
+
+**Two files are kept but not currently used:** `kennington-common-1848.jpg` and
+`peterloo-1819.jpg`. Peterloo was dropped when part three was cut to a single
+legacy slide (2026-09-17); it had a full-bleed slide and an `.image-notes`
+slide reading its banners. Both files are left here with their provenance
+because either would slot straight into a Week 6 deck on Thompson — the
+Peterloo notes asked whether the crowd "is a class yet," which is Thompson's
+question. Delete them only if you are sure no later deck wants them.
 
 ## Credits
 

@@ -64,7 +64,7 @@ Making History • HIST 1105 • Week 5
 - Background: Green and Troup, *The Houses of History*, ch. 2: "Marxist historians," 33–41
 {: .source-list}
 
-Marx's explanation of what drives historical change, the problem it ran into in 1848, and what historians did with that problem. Green and Troup cited by page; the *Manifesto* by section, since the assigned PDF reprints the 1888 Moore translation without the original pagination.
+Marx's explanation of what drives historical change, the problem it ran into in 1848, and what it left to the historians who came after. Green and Troup cited by page; the *Manifesto* by section, since the assigned PDF reprints the 1888 Moore translation without the original pagination.
 {: .detail}
 </section>
 
@@ -101,9 +101,9 @@ Revolutions spread across Europe and failed. Marx concedes that people "make the
 ###### 03 · Since 1931
 {: .num}
 
-#### What historians did
+#### The legacy
 
-How much the structure decides, and how much people do, is the argument Marxist historians kept having. Thompson follows in Week 6.
+The forecast failed; the method spread. What Marx left historians is a question they are still arguing over.
 </div>
 </div>
 </section>
@@ -619,15 +619,15 @@ Hobsbawm: "the crucial argument about the materialist conception of history has 
 </section>
 
 <!-- ================================================================ -->
-<!-- =============== PART THREE: WHAT HISTORIANS DID ================= -->
+<!-- =============== PART THREE: THE LEGACY ========================= -->
 <!-- ================================================================ -->
 
-<!-- ========== HILL AND HOBSBAWM ========== -->
+<!-- ========== MARX'S LEGACY AS A HISTORICAL THINKER ========== -->
 <section markdown="1">
-Part three · Christopher Hill and Eric Hobsbawm
+Part three · after Marx
 {: .eyebrow}
 
-## Hill and Hobsbawm took the motor into the archive
+## The prediction failed. The method spread.
 {: .main-point}
 
 "The bottom fell out of our universe in 1931, the year I went up to Balliol... Marxism seemed to me (and many others) to make better sense of the world situation than anything else, just as it seemed to make better sense of seventeenth-century English history." <span class="cite">Christopher Hill, quoted in Green and Troup, p. 36</span>
@@ -636,75 +636,30 @@ Part three · Christopher Hill and Eric Hobsbawm
 <div class="swap" markdown="1">
 <div class="reveal-block historical fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
 
-###### Who they were
+###### Who carried it
 {: .label}
 
-Members, with E. P. Thompson, of the Communist Party Historians Group, formed 1947. Hill and Thompson broke with the Party after the Soviet invasion of Hungary in 1956; Hobsbawm never did. Harvey Kaye gives their "core proposition... that class struggle has been central to the historical process" (p. 34).
+Hill, Eric Hobsbawm and E. P. Thompson, of the Communist Party Historians Group formed in 1947. Hill and Thompson left the Party after the Soviet invasion of Hungary in 1956; Hobsbawm never did. The history outlasted the politics.
 </div>
-<div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="2" markdown="1">
+<div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="2" markdown="1">
 
-###### How far the structure decides
+###### The argument he left them
 {: .label}
 
-- **Hill** made the English Civil War a class war, mapping Parliament's support in "the economically advanced south and east of England" — while paying "a great deal of attention to the world of ideas" (p. 37).
-- **Hobsbawm** traced a well-paid "upper strata" of workers whose politics followed their wages, an equation critics called "far too neat" (p. 38).
+- **Hill** made the English Civil War a class war, while paying "a great deal of attention to the world of ideas" (p. 37).
+- **Hobsbawm** tied workers' politics to their wages, an equation critics called "far too neat" (p. 38), and stayed "a traditionalist Marxist" on "determination by the economic base" (pp. 38–39).
 </div>
 <div class="takehome fragment compact" data-fragment-index="3" markdown="1">
 
-###### Hobsbawm, unrepentant
+###### What Marx actually left history
 {: .label}
 
-"I remain sufficient of a traditionalist Marxist to stress its determination by the economic base" (pp. 38–39). **Hill gave ideas more room; Hobsbawm stayed closest to the economic base.**
+**Not the forecast, which failed. A question: how far do the conditions of life decide what people think and do?**
 </div>
 </div>
-</section>
 
-<!-- ========== IMAGE: PETERLOO ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="landscape">
-<img src="images/peterloo-1819.jpg" alt="A hand-coloured print of mounted cavalry with raised sabres riding into a dense crowd in a city square, people trampled underfoot in the foreground, large banners held aloft behind the speakers' platform">
-<figcaption markdown="span">
-Peterloo · St Peter's Field, Manchester, 16 August 1819
-<em>Cavalry riding into a meeting for parliamentary reform; around eighteen people were killed. Carlile published this print six weeks later and dedicated it to Henry Hunt, the chairman — and "to the female Reformers of Manchester and the adjacent towns." <strong>The banners read UNIVERSAL SUFFRAGE and UNIVERSAL CIVIL AND RELIGIOUS LIBERTY.</strong><br>(Richard Carlile, hand-coloured aquatint and etching, 1 October 1819. Public domain.)</em>
-</figcaption>
-</figure>
-</section>
-
-<!-- ========== PETERLOO NOTES ========== -->
-<section markdown="1">
-<div class="image-notes" markdown="1">
-<img src="images/peterloo-1819.jpg" alt="The Peterloo print, reduced: cavalry with raised sabres riding into the crowd below the speakers' platform and its banners">
-<div class="notes" markdown="1">
-
-- **Read the banners.** UNIVERSAL SUFFRAGE and UNIVERSAL CIVIL AND RELIGIOUS LIBERTY, with red caps of liberty on the poles. The meeting was called to demand parliamentary reform. <em class="ask">If how people make a living drives history, why do the banners ask for the vote, not for wages?</em>
-- **A woman in white stands on the platform.** Behind her is a banner with a female figure, and Carlile dedicated the print "to the female Reformers of Manchester and the adjacent towns." <em class="ask">Why would a radical publisher put a woman at the centre, under the sabres?</em>
-- **Nobody here is at work.** People from Manchester and the adjacent towns, at a political meeting rather than at a loom or a mule. <em class="ask">Is this crowd a class yet? What would you need to know to decide?</em>
-</div>
-</div>
-</section>
-
-<!-- ========== THOMPSON: NEXT WEEK ========== -->
-<section markdown="1">
-Next week · E. P. Thompson, 1963
-{: .eyebrow}
-
-## Thompson: class is something people make
-{: .main-point}
-
-"[C]lass happens when some men, as a result of common experiences (inherited or shared), feel and articulate the identity of their interests as between themselves, and as against other men whose interests are different from (and usually opposed to) theirs... If the experience appears as determined, class-consciousness does not." <span class="cite">Thompson, quoted in Green and Troup, p. 39</span>
-{: .quote.compact.fragment data-fragment-index="0"}
-
-<div class="takehome fragment compact" data-fragment-index="1" markdown="1">
-
-###### The other half of the *Brumaire* sentence
-{: .label}
-
-Thompson keeps the base and refuses to read consciousness off it. **People make their class, under circumstances they did not choose.**
-</div>
-
-- Week 6.1 reads his preface. His book is called *The Making of the English Working Class*: who is doing the making?
-- Carlile dedicated his Peterloo print to "the female Reformers." Did they make history, or support the men who did? (Week 6.2)
-{: .questions.compact.fragment data-fragment-index="2"}
+- Week 6.1 reads Thompson, for whom class is not assigned by the base but "happens."
+{: .questions.compact.fragment data-fragment-index="4"}
 </section>
 
 <!-- ========== RECAP ========== -->
@@ -737,12 +692,12 @@ Production, then classes, contradiction, and an "inevitable" next stage. Checkab
 </div>
 <div class="card" markdown="1">
 
-###### 03 · Green and Troup, pp. 36–40
+###### 03 · Green and Troup, pp. 36–39
 {: .num}
 
-#### What historians did
+#### The legacy
 
-Hobsbawm stayed closest to the economic base; Hill gave ideas room. Next week Thompson's class "happens."
+Not the forecast but the question: how far do the conditions of life decide what people think and do? Thompson answers it in Week 6.
 </div>
 </div>
 </section>

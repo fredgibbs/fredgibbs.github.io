@@ -100,7 +100,9 @@ checked against a source in hand.
   boundary named. "The thousands tending machines" in the same notes slide is
   deliberately a floor, not an estimate.
 - **Peterloo: "around eighteen people were killed."** The usual range is 15–19
-  depending on which later deaths are counted.
+  depending on which later deaths are counted. *(No longer on a slide — the
+  Peterloo caption went with part three on 2026-09-17. Kept here because the
+  image file remains in `images/` and the note applies to whoever reuses it.)*
 - **Engels "sent at twenty-two" to Manchester.** Born November 1820, arrived
   late 1842.
 - **Wyld credited to the Royal Collection**, per the Google Art Project record.
@@ -157,14 +159,16 @@ Recorded so a future reviewer does not re-raise them.
   and its answer slide were collapsed into the foreshadow slide, since the
   class focuses on Thompson in Week 6. The Nairn/Anderson, Scott and Epstein
   material from the answer slide was cut with them. Week 6.1 (Thompson) and
-  6.2 (women's and gender history) are its natural home. The Peterloo image
-  stays: it breaks up the text slides and sets up the 6.2 question.
+  6.2 (women's and gender history) are its natural home. *(Superseded
+  2026-09-17: part three is now a single legacy slide and the Peterloo image
+  went with it. See "The legacy" in the through-line section below.)*
 - **No portraits of Hill, Hobsbawm or Thompson.** All three died recently
   enough that photographs of them are in copyright, and the deck's licence rule
-  is public domain or CC only. Part three uses Peterloo instead, which does more
-  argumentative work than head shots would. The style guide's "every named
-  person gets a portrait" rule is knowingly not followed here, and neither is
-  it for Ranke, whose portrait is in the 4.2 deck.
+  is public domain or CC only. Part three used Peterloo instead, which did more
+  argumentative work than head shots would; since 2026-09-17 that part carries
+  no image at all. The style guide's "every named person gets a portrait" rule
+  is knowingly not followed here, and neither is it for Ranke, whose portrait
+  is in the 4.2 deck.
 - **The take home and the arc are one slide** (2026-09-15, at the author's
   request). SLIDE-STYLE asks for a take-home slide followed by a separate `.cards`
   arc slide. Here the two said the same three things in the same order, so they
@@ -173,9 +177,10 @@ Recorded so a future reviewer does not re-raise them.
 - **Every image in the motor and problem sections has a stated point**
   (2026-09-15, at the author's request, after the loom, barricade and Peterloo
   images were found hard to teach from). Each now has an `.image-notes` slide:
-  factory (Baines and Hervieu), barricades (Thibault's two plates) and Peterloo
-  (the banners' political demand, the woman on the platform, a crowd at a
-  meeting rather than at work). The two-image notes slides use `.shots`, which
+  factory (Baines and Hervieu) and barricades (Thibault's two plates); Peterloo
+  had one too (the banners' political demand, the woman on the platform, a
+  crowd at a meeting rather than at work) until part three was cut on
+  2026-09-17. The two-image notes slides use `.shots`, which
   SLIDE-STYLE reserves for images that genuinely share one set of bullets. Both
   pairs are comparisons, so they qualify. Each image still gets its own
   full-bleed slide first.
@@ -228,10 +233,22 @@ Three parts; the first two each have one discussion pair:
    whole motor and before 1848.
 2. **The problem.** 1848, Thibault's two barricade plates (Sunday before the attack, Monday after) with a notes slide, the *Brumaire*. Discussion: if
    the motor runs by itself, why did 1848 turn on what people did?
-3. **What historians did.** Hill and Hobsbawm (structure first), Peterloo with a notes slide,
-   then a single foreshadow slide for Thompson (class happens), who is taught
-   in Week 6. No discussion pair: the "who is doing the making?" question moves
-   to Week 6.1.
+3. **The legacy.** One slide (2026-09-17, at the author's request, "for
+   simplicity"): Hill's 1931 quotation, who carried the method, the Hill /
+   Hobsbawm poles of the structure-versus-agency argument, and the takehome
+   that what Marx left history is the question rather than the forecast. It
+   ends with a one-line pointer to Thompson in Week 6.1. No discussion pair:
+   the "who is doing the making?" question moves to Week 6.1.
+
+   **What this replaced**, if it ever needs restoring: a four-slide part —
+   a full Hill-and-Hobsbawm slide, Carlile's Peterloo print full-bleed, a
+   Peterloo `.image-notes` slide reading its banners, and a separate Thompson
+   foreshadow slide carrying the "[C]lass happens" quotation (Green and Troup,
+   p. 39). The Thompson quotation is now used only in Week 6.1; the Peterloo
+   file is still in `images/` with its provenance. One consequence worth
+   knowing: the cut removed this deck's only pointer to **Week 6.2** (Carlile
+   dedicated the print "to the female Reformers," which set up gender history).
+   Nothing dangles, but 6.2 is no longer foreshadowed here.
 
 The recap headline repeats the take-home sentence: "How people make a living
 drives history. People still have to act." Every slide's takehome should be
