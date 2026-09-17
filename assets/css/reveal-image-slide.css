@@ -19,6 +19,8 @@
  * subject, and the space goes to the notes. The note type is sized to be
  * read by whoever is presenting, not from the back row. To carry more than one image, wrap
  * them in a `<div class="shots">` — they stack in the image column.
+ * A portrait caption ends with a `<span class="why">` carrying the "Why he
+ * matters" line; it renders as a block with space above it.
  * Each note bullet runs in three beats: a bold lead naming what to look at,
  * a sentence of elaboration, and a closing question in
  * `<em class="ask">…</em>` — see "Image slides" in courses/SLIDE-STYLE.md.
@@ -149,6 +151,16 @@
 	display: block;
 	margin-top: 0.4em;
 	font-size: 1.15em;
+}
+
+/* The "why this person matters" line at the end of a portrait caption.
+   A block, so it sits off the biography above it with real space rather
+   than a pair of <br> tags, and so the space is the same in every deck.
+   Wrap the whole sentence, not just the <strong> label, or the text after
+   the label gets orphaned onto its own line. */
+.reveal section.image-slide figcaption .why {
+	display: block;
+	margin-top: 0.85em;
 }
 
 /* An image beside notes about it — see the header comment. Lives on an

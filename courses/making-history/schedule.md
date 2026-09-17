@@ -210,6 +210,7 @@ Marx offered the most dramatic version of structural history: class conflict as 
 ### 5.2: Big Structures — The Annales School
 While Marx saw economics as history's motor, a group of French historians proposed a different kind of deep structure: geography, climate, trade patterns that move across centuries. The _Annales_ school turned historical writing upside down — instead of asking "what happened? (Ranke)" or "why do things happen? (Marx)", they asked "what changed?" 
 
+- Slides of [Big Structures: the _Annales_ and the _longue durée_](slides/annales-longue-duree/)
 - 📗 Anna Green and Kathleen Troup, *The Houses of History*, 4: The _Annales_, 87--95.
 - 📜 Fernand Braudel, "History and the Social Sciences: The Longue Durée" (1958), 25--54. Braudel argues that the most important history happens slowly — geography, climate, trade routes — not in dramatic events. A genuinely new way of thinking about time. 
 

@@ -21,9 +21,16 @@
  *   .detail        — muted supporting paragraph (e.g. on title slides)
  *   ul.source-list — title-slide reading list; stacks like .detail lines
  *                    with a small gold dash instead of a bullet
+ *   .citation-note — the title slide's citation-conventions line (which
+ *                    edition, cited by page or by section). Deliberately
+ *                    smaller than the reading list above it: it is
+ *                    housekeeping, not one of the day's sources
  *   .rule          — short gradient divider line
  *   .quote         — the primary, literal quotation (the centerpiece)
  *     .quote .cite — mono citation line under a quote
+ *   p.cite         — standalone source note under a whole block (e.g. a
+ *                    .cards grid whose card text is quoted). Same mono
+ *                    apparatus voice, sentence case, smaller than a .cite
  *     .quote.compact — tightened variant for long source passages
  *   .pull-quote    — secondary/supporting quotation, smaller and less bold
  *   .reveal-block          — generic revealable explanation block
@@ -45,6 +52,9 @@
  *     .parallel.compact — tightened variant for text-heavy comparisons
  *   .cards         — grid of numbered recap cards
  *     .card .num / .card h4 / .card p
+ *   .throughline   — where this hour sits in the course's running argument:
+ *                    the recurring question as the .main-point, and the
+ *                    answers so far as .answer.past/.answer.now/.answer.next
  *   .flow          — left-to-right chain of up to four numbered steps joined
  *                    by arrows, for a model that runs in sequence (a causal
  *                    chain) where .cards would read as a list
@@ -154,6 +164,19 @@ html, body, .reveal {
 .reveal ul.source-list em { color: var(--ts-heading-3); font-style: italic; }
 .reveal ul.source-list strong { color: var(--ts-text); font-weight: 600; }
 
+/* Citation conventions under the reading list — which translation, cited by
+   page or by section. Smaller than ul.source-list (0.62em) on purpose, so the
+   eye reaches the readings first and this only when it goes looking. */
+.reveal .citation-note {
+	font-size: 0.5em;
+	line-height: 1.5;
+	color: var(--ts-text-muted);
+	margin: 0.8em 0 0 0;
+	font-weight: 400;
+}
+
+.reveal .citation-note em { font-style: italic; }
+
 .reveal .rule {
 	height: 1px;
 	width: 140px;
@@ -184,6 +207,24 @@ html, body, .reveal {
 	color: var(--ts-text-muted);
 	margin-top: 0.7em;
 }
+
+/* A source note belonging to a whole block rather than to one quotation —
+   typically under a .cards grid whose card text is quoted, where there is no
+   .quote to hang a .cite inside. Mono, so it reads as apparatus and not as
+   another line of content competing with the cards above it; sentence case
+   and unletterspaced, because it runs to a full sentence and .quote .cite's
+   uppercase treatment stops being readable at that length. */
+.reveal p.cite {
+	font-family: 'JetBrains Mono', monospace;
+	font-size: 0.45em;
+	line-height: 1.5;
+	color: var(--ts-text-muted);
+	margin: 0.9em 0 0 0;
+	font-weight: 400;
+}
+
+.reveal p.cite em,
+.reveal p.cite i { font-style: italic; }
 
 /* Secondary supporting quotation */
 .reveal .pull-quote {
@@ -557,3 +598,66 @@ html, body, .reveal {
 .reveal ul.questions li { margin-bottom: 0.4em; }
 .reveal ul.questions em { color: var(--ts-heading-3); font-style: italic; }
 .reveal ul.questions strong { color: var(--ts-text); font-weight: 600; }
+
+/* ==================================================================
+   BIRD'S-EYE DEVICES
+   ------------------------------------------------------------------
+   The close-reading slides (.quote + .reveal-block) are bounded by the
+   passage in front of them, and .cards/.parallel/.flow are bounded by
+   the deck. These three hold the levels above that: where the day's
+   story has got to, where the day sits in the course's running
+   argument, and where both sit in time.
+   ================================================================== */
+
+/* ---- .throughline : where this hour sits in the course -----------
+   One question the course keeps asking, with the answers given so far.
+   The same slide returns each week with one more answer filled in, so
+   the states matter more than the styling: .past is settled, .now is
+   today, .next is a promise. */
+.reveal .throughline {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+	gap: 0.9em;
+	margin-top: 0.9em;
+}
+
+.reveal .throughline .answer {
+	border-top: 2px solid var(--ts-border);
+	padding: 0.4em 0 0 0;
+}
+
+.reveal .throughline .answer .num {
+	font-family: 'JetBrains Mono', monospace;
+	font-size: 0.38em;
+	font-weight: normal;
+	letter-spacing: 0.14em;
+	color: var(--ts-text-muted);
+	display: block;
+	margin-bottom: 0.3em;
+}
+
+.reveal .throughline .answer p {
+	font-size: 0.45em;
+	line-height: 1.5;
+	color: var(--ts-text-muted);
+	margin: 0;
+}
+
+.reveal .throughline .answer.past { border-top-color: var(--ts-heading-2); }
+
+.reveal .throughline .answer.now {
+	border-top-color: var(--ts-accent);
+	border-top-width: 3px;
+}
+
+.reveal .throughline .answer.now .num { color: var(--ts-accent); }
+.reveal .throughline .answer.now p { color: var(--ts-text); }
+
+/* Next week is a promise, not a claim: dashed, and dimmer than the past. */
+.reveal .throughline .answer.next {
+	border-top-style: dashed;
+	border-top-color: var(--ts-border);
+}
+
+.reveal .throughline .answer.next .num,
+.reveal .throughline .answer.next p { color: var(--ts-border); }

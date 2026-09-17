@@ -80,6 +80,31 @@ predicate in disguise, promote it instead of cutting: not "The best-trained
 history in Europe, put to work for the nation" but "The best-trained history
 in Europe was put to work for the nation."
 
+**Reuse the course's metaphors; invent new ones only for a reason.** A figure
+students have already met is an asset. When a later slide says "the program was
+a room, not a thesis," or calls Marx's answer a motor, it reaches back and
+recalls the slide where that image was built — the phrase is doing the work of
+a whole argument students have already sat through, and repetition is how it
+becomes shared vocabulary for the course rather than one slide's decoration.
+Use them deliberately and use the same words each time; a metaphor rephrased is
+a metaphor thrown away.
+
+The bar is on **invention**. A new figure standing in for a plain statement
+costs a beat of translation, and in a lecture that beat is spent not listening.
+"What the documents say, once the embroidery is off" means *reported without
+invention* — but the reader has to work out that embroidery is added detail,
+and by then the slide has moved on. It reads well and teaches badly.
+
+So before coining one, have a specific reason. Good reasons: it is the source's
+own image (Braudel's fireflies — his, quoted, and unpacked where it appears);
+the slide stops and explains it (a structure is a prison, then "a structure is
+defined by what it forbids"); or it names something with no plain equivalent.
+Not a good reason: it sounds better than the literal sentence. The rule binds
+hardest on the orientation slides (`.throughline`, `.thread`, `.cards`), which
+students read fast and in passing — but note that those slides are also where
+an *established* metaphor pays off most, because a reader skimming recognizes
+it instantly.
+
 **Keep eyebrows as simple as possible.** The `.eyebrow` is a label, not a
 sentence: what this slide is about, and when. `Voltaire · 1694–1778`. `The
 Enlightenment · roughly the 1680s to the 1790s`. `Discussion · 4.1`. A few
@@ -88,6 +113,12 @@ there and don't let it pre-empt the argument the headline is about to make —
 "The take home · the same sentence, now with evidence behind it" is a sentence
 wearing a label's clothes. If the eyebrow needs a verb, it belongs in the
 headline.
+
+A cold-open slide's eyebrow should name the pictures, not the moment. "Before
+we start" is wrong on the fourth slide of a deck — the class has started, and
+two paintings have been up for several minutes. `Lepanto, 1571 · the olive
+grove, 1889` labels what is actually on screen, and gives the two dates the
+slide is about to set against each other.
 
 **Don't comment on the course itself.** Asides like "now that you have
 actually read them," "as you saw last week," or "the same sentence, now with
@@ -151,6 +182,27 @@ what their presence in this session is for, then the **credit**. No headline,
 no `.reveal-block`, no take-home; the picture and the rail are the slide. A
 face and a paragraph beside it introduce someone faster than a slide of dates
 with no face, and it buys back a slide per person.
+
+**Wrap that line in `<span class="why">`.** It renders as a block with space
+above it, which sets it off from the biography — the two are doing different
+jobs and should not run together as one paragraph. Wrap the whole sentence and
+not just the `<strong>` label, or the text after the colon is orphaned onto its
+own line. Never fake the gap with `<br><br>`: the spacing then differs deck to
+deck and nothing carries it to the next one.
+
+**The line says what the person *did*, not what happened to them.** The test is
+whether it would still be true and still be interesting if the person's
+circumstances had been comfortable. "He wrote the book quoted here out of notes
+and memory, with no library he could reach" is arresting, and it is
+biography — it belongs in the bio sentences above, or better, on the slide that
+quotes him saying so. What it is not is a reason Bloch matters to a lecture on
+structures; the reason is that he argued the shape of a French field outlasts
+every law written to explain it. Posts held, books edited, who succeeded whom
+in which chair are the same kind of fact: real, useful in the bio, and not an
+answer to "why is this person in this session." Name the claim, the method or
+the move that the rest of the deck is about to depend on. Check it against the
+takehomes: if nothing later in the deck pays the line off, it is the wrong
+line.
 
 Keep the whole caption **under about 500 characters**. The rail is `max-width:
 26%` — roughly 214px of text, about 26 characters a line in the italic body —
@@ -273,6 +325,34 @@ The deck itself stays clean: it may carry a citation-conventions line (which
 readers use), and it must never carry a quotation it cannot support — but the
 story of its own making belongs in `ISSUES.md`.
 
+**Every `.cite` must be reproducible on its own terms.** A citation's job is
+to let a reader find the words again, so a bare `Bloch, p. 39` fails even when
+the page is right: it names no work, and a volume that reprints several texts
+makes the page number ambiguous on its own. Name the work in the `.cite`, and
+put the edition on the title slide's `.citation-note`, where it is stated once
+for the deck. The eyebrow doesn't count — it scrolls past with the slide, and a
+student reading a photographed slide later doesn't have it.
+
+This matters most when the assigned PDF is an excerpt from a larger volume.
+The 5.2 deck quotes seven passages "from Braudel," but only four are in the
+assigned pp. 25–54: the rest come from the 1949 *Mediterranean* preface and the
+1950 inaugural lecture, which *On History* reprints in the same book. A student
+turning to p. 4 of their own excerpt finds nothing there. Say which piece each
+page belongs to, and let the `.citation-note` spell out what the excerpt does
+and doesn't contain. For a quote of a quote, cite both ends — Braudel's own
+footnote gives Halphen's book and page, so the slide gives them too.
+
+**Apparatus gets apparatus typography.** A source note is not a supporting
+point, and it should not be set like one. `.detail` renders at 0.75em in the
+body font — the same voice as the argument — so a line like "Descriptions
+quoted from p. 3" placed under a `.cards` grid reads as a fourth card and
+competes with the three that carry the message. Where quoted text sits in a
+block with no `.quote` to hang a `<span class="cite">` inside, put the note in
+a standalone `p.cite` instead: mono, 0.45em, muted, sentence case. Mono is what
+does the work — it marks the line as machinery rather than content, at a glance
+and before it is read. Reserve `.detail` for sentences that actually argue
+something.
+
 Two further ways a citation goes wrong without being a fabrication. **Keep the
 framing clause when you quote a quote.** Popkin introduces an 1843 attack on
 women historians with "even some women endorsed this view"; a slide that
@@ -315,10 +395,24 @@ nobody read all the way through.
 
 ## Structure of a session deck
 
-A deck may open before everything else with a **cold open**: for each image,
-a full-bleed slide whose caption says only what the picture is, followed by an
-`.image-notes` slide with that same image small and bullets unpacking it —
-then, after the images, one or two framing questions for the whole session.
+A deck may open before everything else with a **cold open**: a full-bleed
+slide per image whose caption says only what the picture is, then the session's
+framing question while the pictures are still on students' minds, and then an
+`.image-notes` slide with the images small and bullets working the question
+over. Ask before you unpack, not after — a question asked last is a summary,
+and the notes slide has already given the answers away. Asked first, it is a
+question the room can still be wrong about, and every bullet after it is
+evidence.
+
+**When the cold open is built on a contrast, unpack the two images together on
+one slide, not separately on two.** Put both in a `<div class="shots">` in the
+image column — they stack — and write each bullet across the pair rather than
+about one of them: "An afternoon, against a hillside that takes centuries,"
+"Both are full of people; neither names them." Two separate notes slides
+describe two pictures and leave the comparison to the framing question, which
+is the one thing the cold open exists to set up. It also costs a slide. See
+the opening of `annales-longue-duree` (Lepanto against the olive terraces) and
+the factory and barricade pairs in `marx-structural-history`.
 Use it when a picture can put students inside the problem before any reading
 has been named — see the opening of `enlightenment-progress`, which pairs
 de Troy's *Time Unveiling Truth* with Wright of Derby's orrery. It is
@@ -329,41 +423,136 @@ Otherwise a single-session deck (one class meeting, e.g.
 
 1. **Title** — course/week eyebrow, the deck's own title (not necessarily the
    syllabus session title), a `.rule`, and a `ul.source-list` of what it
-   covers with page/date specifics in the `.detail` line below.
-2. **The take home, up front** — the whole day in one headline, then at most
-   three supporting points as `.reveal-block` fragments (the last one a
-   `.takehome`). Say the thing you want them to leave with before they have
-   the evidence for it; the recap and a closing "take home, paid off" slide
-   return to the same sentence once they do. Don't put the lecture's outline
-   on this slide.
-3. **The arc of the lecture** — a separate slide, immediately after, laying
-   out the parts in order: a `.cards` grid, one card per part, each with a
-   number and date or source in the `.num` line, a short headline, and a
-   sentence on what happens there. Students should be able to tell where they
-   are in the hour from this slide alone. See the two opening slides of
-   `enlightenment-progress`.
-4. **Per source or person**, repeated: an image slide for their portrait,
-   whose caption carries the whole introduction — name, dates, brief bio,
-   why they matter here, credit — and then straight into 1–4 quote slides
-   (primary `.quote` +
+   covers, with page/date specifics on each line.
+
+   **Order the readings the way the syllabus does: the general reading first,
+   the primary sources under it.** The textbook or survey chapter (Popkin,
+   Maza, Green & Troup) is what students read to get their bearings, and the
+   schedule page lists it first for that reason. A title slide that leads with
+   the primary source is out of step with the page they were assigned it from.
+   Keep the `Background:` prefix on the general one so the two kinds stay
+   visibly distinct.
+
+   **Put the citation conventions in a `.citation-note`, not a `.detail`.**
+   Which translation, cited by page or by section, which edition the assigned
+   PDF came from — real information, but housekeeping. `.detail` renders at
+   0.75em, *larger* than the `ul.source-list` above it, so the housekeeping
+   ends up outweighing the day's readings. `.citation-note` is 0.5em and sits
+   quietly underneath them. (A few older decks do this with an inline
+   `style="font-size:0.5em"`; the class replaces that.)
+
+2. **Where this hour sits** — a `.throughline` slide: one question the course
+   keeps asking as the `.main-point`, and the answers given so far as
+   `.answer.past` / `.answer.now` / `.answer.next`. See below. Each part after
+   it opens by saying what the last part left unfinished.
+3. **Per source or person**, repeated. Open each part with the *work* rather
+   than the face — the text, the journal, the argument, whatever gives
+   students a reason to care who these people were. A portrait of a stranger
+   is a stranger; the same portrait after the 1929 editorial is the man who
+   wrote it. Then the image slide, whose caption carries the whole
+   introduction — name, dates, brief bio, why they matter here, credit — and
+   then 1–4 quote slides (primary `.quote` +
    `.reveal-block.unpack`/`.argument`/`.historical` fragments + `.takehome`),
    interleaved with image slides for objects, manuscripts, places, or events
-   the quotes reference.
-5. **A discussion pair at the end of each part** — a question slide, then a
+   the quotes reference. See Part One of `annales-longue-duree`: the founding
+   editorial, then Bloch and Febvre. (A scene-setting image is different from
+   a portrait and can lead — the prison-camp slide opening Part Two of that
+   deck sets up the book written in it.)
+4. **A discussion pair at the end of each part** — a question slide, then a
    separate answer slide. See below; this is where the class talks, and it
    replaces parking every question in a list at the end.
-6. **Comparison**, if the session pairs two people/texts — a `.parallel`
+5. **Comparison**, if the session pairs two people/texts — a `.parallel`
    slide asking what actually separates them, not just what's different.
-7. **Recap** — a `.cards` grid, one card per takehome, drawn especially from
-   the answer slides.
-8. **Closing discussion**, only if a question genuinely needs the whole hour
-   behind it — synthesis across both writers, or one that reopens the
-   take-home. A `ul.questions` list of everything from `schedule.md` is not
-   that; distribute those instead.
+6. **The arc of the lecture, looking back** — a `.cards` grid, one card per
+   part, each with a number and date or source in the `.num` line, a short
+   headline, and a sentence on what that part established, drawn especially
+   from the answer slides. This slide is the recap: the shape of the whole
+   hour, and where each conclusion came from, in one screen.
+7. **The take home** — the whole day in one headline, then at most three
+   supporting points as `.reveal-block` fragments, the last one a
+   `.takehome` carrying the cost or the catch. Don't put the lecture's
+   outline on this slide; the arc slide has just done that.
+8. **Closing** — what comes next, and/or a closing discussion question, but
+   only if the question genuinely needs the whole hour behind it: synthesis
+   across both writers, or one that reopens the take-home. A `ul.questions`
+   list of everything from `schedule.md` is not that; distribute those
+   instead.
+
+**The arc and the take home belong at the end, not the front.** An earlier
+version of this guide opened every deck with the pair — the day's conclusion
+in one sentence, then the roadmap — so that students knew where they were
+going. It doesn't survive contact with a class. Both slides are abstractions
+about a book nobody has met yet: the take-home sentence asserts a conclusion
+the room has no evidence for, and the roadmap names three parts that mean
+nothing until they have happened. Step through the history first and the same
+two slides do real work at the end — the arc reads as *here is what we just
+did*, and the take home lands as a conclusion rather than a claim. The front
+of the deck still orients: that is what the cold open, the title slide and a
+framing question are for. See `annales-longue-duree`, which ends arc → take
+home → what comes next; `enlightenment-progress-2` already ran this way.
+Decks built before this (`enlightenment-progress`, `marx-structural-history`,
+`review-weeks-2-4`, `scientific-history`) still open with the pair and are not
+the model.
 
 A deck covering two sessions in one week (e.g. `divine-power-and-statecraft`,
 which does 3.1 and 3.2) adds a `Part one · 3.1` / `Part three · 3.2` transition
-slide between the two halves and a recap that spans both.
+slide between the two halves and a closing arc slide that spans both.
+
+## Bird's-eye slides
+
+A deck of close readings has a hole in the middle of it. Each quote slide is
+excellent at the passage in front of it and says nothing about the hour it
+belongs to; `.cards`, `.parallel` and `.flow` are all bounded by the deck.
+Students can follow every slide and still not be able to say what the day
+argued, or why this week follows the last one. Three slide types hold the
+levels above the passage. Each answers a different question, and a deck that
+reaches for all three without needing them has just built a second lecture out
+of signposts.
+
+**A transition needs a sentence, not a diagram.** A `.thread` class once lived
+here: a rail of the session's movements with the current one lit, on its own
+slide at each part boundary. It was cut. The rail was built from flex segments
+whose `border-top` was supposed to read as one continuous line, but the nodes
+wrapped to different heights and `align-items: center` then staggered the
+borders, so it rendered as four disconnected dashes at four different heights —
+and unvisited nodes were set in the border colour, which is all but invisible
+on this background. Under all that it was also redundant: the rail said in
+unreadable 0.4em mono what the headline above it had just said in full.
+
+What was worth keeping was never the diagram. It was the one sentence naming
+why the story moved — "the program was a room, not a thesis; the thesis
+arrives now, from five years in a prison camp." That belongs in the part's
+opening slide, as a `.detail` line under the headline, not on a slide of its
+own. A deck whose parts each begin by saying what the last part left unfinished
+has the narrative arc; it does not need furniture to prove it.
+
+**`.throughline` — where the hour sits in the course.** One question the course
+keeps asking, with the answers so far: `.answer.past` for weeks already
+settled, `.answer.now` for today, `.answer.next` dashed, because next week is a
+promise and not yet a claim. It goes right after the title, and it is the one
+orientation slide that earns a place at the front, because it is concrete —
+names and answers, not an abstract of the argument to come. The value is in
+recurrence: the same question returns every week with one more answer filled
+in, so write the question once for the course and change only the nodes. In
+`making-history` it is "What makes history happen?" and the answers run Ranke,
+Marx, Braudel, Thompson.
+
+**Don't draw an axis you are not going to scale.** A `.chronology` class once
+lived here: two rows of dates, when each text was written against the period it
+is about. It was cut, and the reason generalizes. The marks were evenly spaced
+by CSS, so the slide drew 81 years and 9 years at the same width, under a rule
+line with a tick over every mark. The ticks promise proportion; equal spacing
+delivers a list. A chart that lies is worse than the list it is pretending not
+to be, because students read the spacing before they read the labels.
+
+Two tests before drawing anything with an axis on it. Does the position of a
+mark mean something, and would a reader be wrong to assume it does? And can the
+rows share one scale — stacking 1824–1958 above antiquity–1950 implies a common
+axis that cannot exist. Where the answer is no, the honest form is a
+`.parallel` comparison or a `.cards` grid: same content, no false promise. The
+idea behind that slide was sound — a text's writing date and its subject period
+are different things, and students collapse them — but it is a comparison, not
+a measurement, and it should be built as one.
 
 ## Discussion questions and their answer slides
 
@@ -389,7 +578,7 @@ early arrow key. It states the point the discussion should land on — a
 should read as the payoff to what students just said, not a correction of it.
 Where the reading genuinely supports more than one answer, name the good
 alternative rather than pretending there was one right answer waiting. These
-takeaways are the raw material for the recap cards.
+takeaways are the raw material for the closing arc slide's cards.
 
 ## Image slides
 
@@ -502,8 +691,24 @@ Drop `image_slides: true` only if the deck genuinely has no image slides.
 
 ## Sourcing images
 
-Public domain, CC0, or CC BY/BY-SA/BY-NC only — check the license on the
-Wikimedia Commons file page (or via the API) before using anything. CC BY and
+Public domain, CC0, or CC BY/BY-SA/BY-NC by default — check the license on the
+Wikimedia Commons file page (or via the API) before using anything. Commons is
+the first place to look, not the only one: institutional archives, library
+digitisations and a publisher's own pages often hold better copies, and some
+subjects are not on Commons at all.
+
+**Fair use is available where nothing free exists, for a named reason.** These
+are non-commercial teaching decks, and a low-resolution image shown for
+identification and commentary is a normal classroom use. It is a fallback, not
+a shortcut: take it only after looking, prefer an institutional or biographical
+source over a stock agency (taking from a licensing agency is the use that
+weighs hardest against fair use), keep the copy small, and write down in
+`images/README.md` what you looked for, what you found, and why the use is
+fair. Record the decision in `ISSUES.md` too, so a later pass doesn't delete
+the file as unlicensed. The Braudel portrait in `annales-longue-duree` is the
+worked example: he died in 1985, every free candidate is under 450px, and the
+alternative was leaving the deck's central figure the only person in it without
+a face. CC BY and
 CC BY-SA need attribution in the `<figcaption>`; CC BY-NC needs the same plus
 a note that the site's use qualifies as non-commercial. Never strip the
 credit line once it's in a caption.
@@ -634,16 +839,17 @@ the most to leave in.
   up. Ellipses and bracketed insertions must not change the sense. A quote
   that can't be located in the cited text is the finding, whatever it sounds
   like. See "Precision over invention" above.
-- **Cross-slide integrity.** The opening take-home, the arc slide, the recap,
-  and the closing take-home have to describe the same lecture: the arc slide's
-  parts match the parts that exist, the recap has a card for each takeaway,
-  the closing slide pays off the sentence the opening one made. Names, dates,
-  spellings, and citation formats consistent slide to slide; forward
-  references to other weeks accurate; no promise made early that the deck
-  never keeps. Check the punchy framing line on the title or take-home slide
-  against the biographical slides especially — it gets written first, before
-  the details that can flatly contradict it ("two men in Berlin," when one of
-  them was teaching in Frankfurt an der Oder).
+- **Cross-slide integrity.** The framing question at the front, the closing
+  arc slide and the take home have to describe the same lecture: the arc
+  slide's cards match the parts that actually exist and carry the conclusions
+  the answer slides actually reached, and the take home answers the question
+  the deck opened with. Names, dates, spellings, and citation formats
+  consistent slide to slide; forward references to other weeks accurate; no
+  promise made early that the deck never keeps. Check the punchy framing line
+  on the title or take-home slide against the biographical slides especially —
+  it gets written first, before the details that can flatly contradict it
+  ("two men in Berlin," when one of them was teaching in Frankfurt an der
+  Oder).
 
 Work the findings before publishing. Verify each one against the source
 yourself — a cold reader will sometimes flag a correct claim it lacks the
