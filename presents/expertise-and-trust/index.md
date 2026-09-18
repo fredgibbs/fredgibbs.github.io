@@ -540,7 +540,7 @@ The questions
 ## These slides are AI-generated
 
 ---
-But what does that mean? Do you believe it?
+But what does that mean?
 
 Does AI use matter when carefully mediated? 
 
