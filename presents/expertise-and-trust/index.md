@@ -386,7 +386,7 @@ Community storytelling
 
 ### The knowledge is already in the community.
 
-Farmers along the Middle Rio Grande hold knowledge about water, soil, and land use that exists in no document anywhere..
+Farmers along the Middle Rio Grande hold knowledge about water, soil, and land use that exists in no document anywhere. Documented by students in Geography and Environmental Studies and Sustainability Studies.
 
 Is this a conversation or an archive?
 {: .pv-cap}
