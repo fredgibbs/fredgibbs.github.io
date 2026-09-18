@@ -444,7 +444,7 @@ Then point at the credit block on each card. Three names on every entry: the far
 Amaranth · 3D pedagogy
 {: .pv-eyebrow}
 
-## Scan it — then put it back in a hand.
+## Scan it, print it, hold it.
 
 We printed five medieval capitals from Scan the World. Set them on a table and the Romanesque-to-Gothic transition stops being a claim in a textbook: it becomes something you see by *turning two objects*.
 {: .pv-cap}
