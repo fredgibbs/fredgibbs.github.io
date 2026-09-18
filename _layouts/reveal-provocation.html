@@ -1,0 +1,63 @@
+---
+---
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<title>{{ page.title }}</title>
+
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reset.css">
+		<link rel="stylesheet" href="/assets/vendor/reveal.js-3.8.0/css/reveal.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap">
+		<link rel="stylesheet" href="/assets/css/reveal-provocation-theme.css">
+
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? '/assets/vendor/reveal.js-3.8.0/css/print/pdf.css' : '/assets/vendor/reveal.js-3.8.0/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+
+{{ content }}
+
+			</div>
+
+			<!-- Registration ticks. Sheet furniture, not content: they sit
+			     outside .slides so they hold still while slides change. -->
+			<div class="sheet" aria-hidden="true">
+				<i class="tl"></i><i class="tr"></i><i class="bl"></i><i class="br"></i>
+			</div>
+		</div>
+
+		<script src="/assets/vendor/reveal.js-3.8.0/js/reveal.js"></script>
+		<script>
+			Reveal.initialize({
+				hash: true,
+				controls: false,
+				controlsTutorial: false,
+				progress: true,
+				slideNumber: 'c/t',
+				// Full-bleed compositions: no centering, no margin, 16:9.
+				center: false,
+				margin: 0,
+				// Reveal writes this value as an inline style on each slide, so
+				// a stylesheet cannot override it. Every slide type in the
+				// provocation theme lays itself out as a grid.
+				display: 'grid',
+				width: 1280,
+				height: 720,
+				transition: 'fade',
+				backgroundTransition: 'fade',
+				dependencies: [
+					{ src: '/assets/vendor/reveal.js-3.8.0/plugin/notes/notes.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>

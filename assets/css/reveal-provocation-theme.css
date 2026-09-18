@@ -1,0 +1,818 @@
+/*
+ * Reveal.js "provocation" theme
+ * -----------------------------
+ * A dark, image-forward theme for short conference talks that argue with
+ * pictures rather than bullet points. Built for the "Scanning the Past"
+ * symposium deck (presentations/scanning-the-past), and deliberately NOT
+ * the lecture theme: no quote blocks, no recap cards, no reading list.
+ * Slides here are compositions, and most carry one idea.
+ *
+ * The visual language is an architectural drawing sheet. Corner registration
+ * ticks frame every slide, labels are set in mono like drawing annotations,
+ * rules terminate in dimension ticks, and the slide number reads as a sheet
+ * number. Colors are fredgibbs.net's palette (assets/css/base.css): warm
+ * near-black ground, bone text, gold and terracotta accents.
+ *
+ * Usage: pair with the reveal-provocation layout, which loads reveal.js
+ * 3.8.0's reset/reveal CSS (NOT a reveal theme — this file replaces it) and
+ * the Space Grotesk / Inter / JetBrains Mono / Fraunces Google Fonts.
+ *
+ * Slide sizing is 1280x720 with margin 0 and center off, so every section is
+ * a full bleed canvas and px values inside a slide are stable: reveal scales
+ * `.slides` with a transform, so the whole composition scales as one. Author
+ * slides in px.
+ *
+ *
+ * HOW A SLIDE IS WRITTEN
+ * ----------------------
+ * The deck is Markdown. The <section> is the composition surface itself —
+ * it carries the sheet margin, the layout grid and the scrim — so a slide is
+ * one HTML tag wrapping prose, and the type styling comes from where an
+ * element sits rather than from a class on it:
+ *
+ *     <section class="s-statement scrim-none">
+ *
+ *     Pedagogy
+ *     {: .pv-eyebrow .terra}
+ *
+ *     ## Whoever holds the question<br>holds the *authority*.
+ *
+ *     ---
+ *
+ *     AI does the technical translation. It **is** the syllabus.
+ *
+ *     <aside class="notes">
+ *     **0:55–1:25**
+ *
+ *     What you actually say.
+ *     </aside>
+ *
+ *     </section>
+ *
+ * So: a heading is the headline, a paragraph is the supporting line, `---`
+ * is the dimension rule, and `**`/`*` are the two emphases. Each slide type
+ * below sizes those elements for its own composition. The deck enables this
+ * with `{::options parse_block_html="true" auto_ids="false" /}` at the top.
+ *
+ * Headlines flow. There are no forced line breaks and no hard spaces in a
+ * deck — no `<br>`, no `&nbsp;`. Where a headline should turn depends on its
+ * measure, so tune the `max-width` on that slide type below; where a label
+ * needs air around a separator, that is `word-spacing` here, not a space
+ * character in the prose. Label/value pairs are a definition list.
+ *
+ *
+ * SLIDE TYPES (one class on the <section>)
+ *   .s-title      — opening slide: full-bleed image, title low-left
+ *   .s-full       — full-bleed image; content low by default, .mid to center
+ *   .s-statement  — type-only slide, one large claim on the dark ground
+ *   .s-frame      — a screenshot in a browser frame beside an annotation column
+ *   .s-split      — image on one side, text on the other (.flip to reverse)
+ *   .s-quote      — Fraunces pull quote, for a cited voice
+ *   .s-mock       — the AR mockup slide; see the deck for its structure
+ *   .s-index      — a numbered three-across row of small items
+ *   .s-plate      — a picture with its words on the bottom edge, behind a
+ *                   stripe sized to them (.band-md, .band-lg, .heavy). Drops
+ *                   the corner ticks and keeps the sheet number: the picture
+ *                   is the frame.
+ *
+ * SCRIMS (also on the <section>, no markup of their own)
+ *   .scrim-left     — wash from the left, for type over a picture's left side
+ *   .scrim-bottom   — wash from the bottom, for type sitting on the baseline
+ *   .scrim-vignette — darkened edges, for type over a busy centre
+ *   .scrim-none     — no wash (the default for type-only slides)
+ *   .heavy          — modifier: a much darker wash. Reach for it when the
+ *                     picture fights back — a scanned page, or a screenshot
+ *                     whose own headline sits where the slide's headline goes.
+ *
+ * NAMED PARTS (only where position can't say it)
+ *   .pv-eyebrow   — mono label with a leading gold rule (.terra, .plain)
+ *   .pv-cap       — small mono caption; .cap-row puts two along the bottom
+ *   .pv-meta      — mono block for speaker/venue lines (.k for the label)
+ *   .pv-cite      — source line under a quotation
+ *   .pv-tag       — small boxed mono tag (.warn for terracotta)
+ *   .pv-dates     — a span of years at display scale (.sep between them)
+ *   .foot dl      — the title slide's label/value pairs, as a definition list
+ *   .pv-device    — browser chrome wrapper for a screenshot
+ *   .pv-phone     — the simulated handset on the mock slide
+ *   .pv-key       — evidence legend: .k, plus .d and .o for dashed and dotted
+ *   .pv-scene     — a full-bleed SVG a plate draws in place of a photograph,
+ *                   with .chip labels pinned onto it
+ *   .num          — the index slide's "01 / GENERATE" item label
+ *
+ * Size modifiers exist for headlines that need to break the type's default:
+ * .xl .lg .sm on a heading, .long .short on a rule, .wide .full on a
+ * paragraph's measure.
+ *
+ * There are no inline `style` attributes in a deck, and no <style> block:
+ * every measurement is a class here, the same rule the lecture theme follows
+ * ("the class replaces that" in courses/SLIDE-STYLE.md). If a slide needs a
+ * size this file doesn't have, add a modifier here rather than an attribute
+ * there.
+ */
+
+:root {
+	--pv-bg: #1c1814;
+	--pv-bg-deep: #100d0b;
+	--pv-surface: #221f1a;
+	--pv-text: #e8e0d4;
+	--pv-muted: #a89e90;
+	--pv-faint: #6b6157;
+	--pv-gold: #d4a84b;
+	--pv-terra: #de8466;
+	--pv-sienna: #cc6e54;
+	--pv-tan: #c2a882;
+	--pv-line: #2e2a24;
+	--pv-line-bright: #4a4239;
+
+	--pv-display: 'Space Grotesk', 'Helvetica Neue', Arial, sans-serif;
+	--pv-body: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+	--pv-mono: 'JetBrains Mono', ui-monospace, Menlo, monospace;
+	--pv-serif: 'Fraunces', Georgia, serif;
+
+	/* The page margin of the drawing sheet. */
+	--pv-pad: 84px;
+	/* The full measure between those margins: 1280 - 2 * --pv-pad. */
+	--pv-measure: 1112px;
+}
+
+/* ---------------------------------------------------------------- shell */
+
+html, body { background: var(--pv-bg-deep); }
+
+.reveal {
+	font-family: var(--pv-body);
+	font-size: 20px;
+	font-weight: 400;
+	color: var(--pv-text);
+	-webkit-font-smoothing: antialiased;
+}
+
+.reveal .slides { text-align: left; }
+
+/* Sections keep reveal's own `position: absolute` — overriding it drops every
+ * slide into normal flow and the deck silently stacks itself off screen. They
+ * also stay transparent, so `data-background-image` shows through from the
+ * .backgrounds layer behind .slides; the warm ground below is the default for
+ * any slide that declares no background of its own.
+ *
+ * The section carries the sheet margin, so a slide needs no wrapper div. */
+.reveal .slides section {
+	width: 1280px;
+	height: 720px;
+	padding: var(--pv-pad);
+	box-sizing: border-box;
+	background: transparent;
+	overflow: hidden;
+}
+
+.reveal .backgrounds { background: var(--pv-bg); }
+
+.reveal ::selection { background: var(--pv-sienna); color: #fff; }
+
+/* Reveal sets `display` inline on every slide from its `display` config
+ * option, which the layout sets to `grid`. Nothing here can override that, and
+ * nothing should try: every slide type below is shaped as a grid. */
+
+/* --------------------------------------------------------- sheet furniture */
+
+/* Registration ticks at the four corners, drawn over everything. They read as
+ * crop marks on a plotted sheet and hold the composition together across
+ * slides whose grounds are wildly different. */
+.reveal .sheet { position: fixed; inset: 0; pointer-events: none; z-index: 40; }
+
+.reveal .sheet i {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	border: 0 solid rgba(232, 224, 212, 0.34);
+}
+/* Registration ticks belong to a drawing sheet, which is what a type slide is.
+ * Over a picture they read as a second frame inside the frame, so a .s-plate
+ * suppresses them and keeps only the sheet number. The ticks are a sibling of
+ * .slides rather than a descendant — they are fixed furniture, so they hold
+ * still while slides change — which is why this reaches them from whichever
+ * section is currently `.present` instead of from the section itself. */
+.reveal .sheet { transition: opacity 0.2s ease; }
+.reveal .slides:has(section.present.s-plate) ~ .sheet { opacity: 0; }
+
+.reveal .sheet .tl { top: 30px;    left: 34px;  border-top-width: 1px; border-left-width: 1px; }
+.reveal .sheet .tr { top: 30px;    right: 34px; border-top-width: 1px; border-right-width: 1px; }
+.reveal .sheet .bl { bottom: 30px; left: 34px;  border-bottom-width: 1px; border-left-width: 1px; }
+.reveal .sheet .br { bottom: 30px; right: 34px; border-bottom-width: 1px; border-right-width: 1px; }
+
+/* Sheet number, bottom right, styled as a drawing number rather than a page. */
+.reveal .slide-number {
+	right: 62px;
+	bottom: 34px;
+	background: none;
+	font-family: var(--pv-mono);
+	font-size: 13px;
+	font-weight: 400;
+	letter-spacing: 0.14em;
+	color: rgba(232, 224, 212, 0.45);
+	padding: 0;
+}
+.reveal .slide-number a { color: inherit; }
+
+.reveal .progress { height: 2px; color: var(--pv-sienna); }
+.reveal .controls { color: var(--pv-faint); }
+
+/* ------------------------------------------------------------- scrims */
+
+/* A wash over the background image, declared on the section rather than as a
+ * div in the slide. Type-only slides declare .scrim-none (or nothing). */
+.reveal .slides section::before {
+	content: '';
+	position: absolute;
+	inset: 0;
+	/* Reveal gives a visible slide its own z-index, so the section is a
+	 * stacking context: -1 keeps the wash inside it, over the background
+	 * image and under the words, without positioning every child. */
+	z-index: -1;
+	pointer-events: none;
+}
+
+.reveal .scrim-left::before {
+	background: linear-gradient(100deg, rgba(16,13,11,0.94) 0%, rgba(16,13,11,0.86) 30%, rgba(16,13,11,0.42) 62%, rgba(16,13,11,0.18) 100%);
+}
+.reveal .scrim-bottom::before {
+	background: linear-gradient(to top, rgba(16,13,11,0.96) 0%, rgba(16,13,11,0.74) 28%, rgba(16,13,11,0.20) 62%, rgba(16,13,11,0.05) 100%);
+}
+.reveal .scrim-vignette::before {
+	background: radial-gradient(120% 100% at 50% 45%, rgba(16,13,11,0.10) 0%, rgba(16,13,11,0.55) 62%, rgba(16,13,11,0.90) 100%);
+}
+
+/* `.heavy` is for pictures that fight back. */
+.reveal .scrim-bottom.heavy::before {
+	background:
+		linear-gradient(to top, rgba(16,13,11,0.99) 0%, rgba(16,13,11,0.95) 38%, rgba(16,13,11,0.64) 66%, rgba(16,13,11,0.30) 100%),
+		rgba(16, 13, 11, 0.30);
+}
+.reveal .scrim-left.heavy::before {
+	background:
+		linear-gradient(100deg, rgba(16,13,11,0.99) 0%, rgba(16,13,11,0.96) 36%, rgba(16,13,11,0.62) 64%, rgba(16,13,11,0.22) 100%),
+		rgba(16, 13, 11, 0.24);
+}
+
+/* --------------------------------------------------------------- type */
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5 {
+	font-family: var(--pv-display);
+	color: var(--pv-text);
+	text-transform: none;
+	text-shadow: none;
+	margin: 0;
+	line-height: 0.95;
+	letter-spacing: -0.03em;
+	font-weight: 700;
+	font-size: 72px;
+}
+
+.reveal p { margin: 0; }
+.reveal a { color: var(--pv-tan); text-decoration: none; }
+
+/* Headline size registers. A slide type sets its own default; these override
+ * it where one headline needs to break the pattern. */
+.reveal .xl { font-size: 108px; letter-spacing: -0.04em; line-height: 0.9; }
+.reveal .lg { font-size: 80px;  letter-spacing: -0.035em; line-height: 0.94; }
+.reveal .sm { font-size: 46px;  letter-spacing: -0.02em;  line-height: 1.02; }
+
+/* The two emphases, everywhere a headline appears. */
+.reveal h1 em, .reveal h2 em, .reveal h3 em, .reveal h4 em { font-style: normal; color: var(--pv-terra); }
+.reveal h1 strong, .reveal h2 strong, .reveal h3 strong, .reveal h4 strong { font-weight: 700; color: var(--pv-gold); }
+
+/* Supporting prose. Slide types set the measure; .wide and .full widen it. */
+.reveal .slides section p {
+	font-family: var(--pv-body);
+	font-size: 23px;
+	line-height: 1.45;
+	font-weight: 400;
+	color: var(--pv-muted);
+	max-width: 620px;
+}
+.reveal .slides section p strong { color: var(--pv-text); font-weight: 600; }
+.reveal .slides section p.wide { max-width: 780px; }
+.reveal .slides section p.full { max-width: 880px; }
+
+/* Mono label with a short gold rule leading into it. */
+.reveal .slides section .pv-eyebrow {
+	display: flex;
+	align-items: center;
+	gap: 14px;
+	font-family: var(--pv-mono);
+	font-size: 13px;
+	font-weight: 500;
+	letter-spacing: 0.24em;
+	text-transform: uppercase;
+	color: var(--pv-gold);
+	max-width: none;
+}
+.reveal .slides section .pv-eyebrow::before {
+	content: '';
+	width: 34px;
+	height: 1px;
+	background: var(--pv-gold);
+	flex: none;
+}
+.reveal .slides section .pv-eyebrow.terra { color: var(--pv-terra); }
+.reveal .slides section .pv-eyebrow.terra::before { background: var(--pv-terra); }
+.reveal .slides section .pv-eyebrow.plain { color: var(--pv-muted); }
+.reveal .slides section .pv-eyebrow.plain::before { background: var(--pv-line-bright); }
+
+.reveal .slides section .pv-meta {
+	font-family: var(--pv-mono);
+	font-size: 14px;
+	line-height: 1.8;
+	letter-spacing: 0.04em;
+	color: var(--pv-muted);
+	max-width: none;
+}
+.reveal .slides section .pv-meta .k { color: var(--pv-faint); }
+
+.reveal .slides section .pv-cap {
+	font-family: var(--pv-mono);
+	font-size: 12.5px;
+	line-height: 1.55;
+	letter-spacing: 0.04em;
+	color: rgba(232, 224, 212, 0.62);
+	max-width: 520px;
+}
+
+/* Mono labels set tokens against separators (01 / GENERATE, a · b). The hard
+ * spaces that used to hold them apart belong here instead. */
+.reveal .slides section .pv-eyebrow,
+.reveal .slides section .s-index .item .num,
+.pv-phone .hud .top,
+.pv-phone .hud .bot .sub { word-spacing: 0.3em; }
+
+.reveal .slides section .pv-cite {
+	font-family: var(--pv-mono);
+	font-size: 14px;
+	letter-spacing: 0.1em;
+	color: var(--pv-muted);
+	max-width: none;
+}
+
+.reveal .slides section .pv-tag {
+	display: inline-block;
+	/* In a grid or flex column a stretched tag reads as a banner, not a label. */
+	justify-self: start;
+	align-self: start;
+	font-family: var(--pv-mono);
+	font-size: 11.5px;
+	font-weight: 500;
+	letter-spacing: 0.2em;
+	text-transform: uppercase;
+	color: var(--pv-bg-deep);
+	background: var(--pv-gold);
+	padding: 5px 11px 4px;
+	max-width: none;
+}
+.reveal .slides section .pv-tag.warn { background: var(--pv-terra); color: var(--pv-bg-deep); }
+
+/* A span of years at display scale — the whole content of a date slide. */
+.reveal .slides section .pv-dates {
+	font-family: var(--pv-display);
+	font-weight: 700;
+	font-size: 108px;
+	line-height: 0.9;
+	letter-spacing: -0.02em;
+	max-width: none;
+}
+.reveal .slides section .pv-dates .sep { color: var(--pv-faint); font-weight: 400; }
+
+/* `---` in Markdown: a hairline with dimension ticks at both ends. */
+.reveal .slides section hr {
+	position: relative;
+	width: 300px;
+	height: 1px;
+	border: 0;
+	margin: 0;
+	background: var(--pv-gold);
+}
+.reveal .slides section hr::before,
+.reveal .slides section hr::after {
+	content: '';
+	position: absolute;
+	top: -4px;
+	width: 1px;
+	height: 9px;
+	background: inherit;
+}
+.reveal .slides section hr::before { left: 0; }
+.reveal .slides section hr::after  { right: 0; }
+.reveal .slides section hr.long  { width: 560px; }
+.reveal .slides section hr.short { width: 220px; background: var(--pv-line-bright); }
+
+/* -------------------------------------------------------- slide layouts */
+
+/* Title and full-bleed picture slides stack their lines and sit them on the
+ * composition's baseline; .mid centers them instead. The caption row and the
+ * title's credit bar are pinned to the sheet margin so they hold their place
+ * whichever way the stack is aligned. */
+.reveal .slides section.s-title,
+.reveal .slides section.s-full {
+	align-content: end;
+	gap: 22px;
+}
+/* The stack must stop above the bar pinned along the bottom, so each reserves
+ * the sheet margin plus that bar's own height. */
+.reveal .slides section.s-full  { padding-bottom: 180px; }
+.reveal .slides section.s-title { padding-bottom: 245px; }
+.reveal .slides section.s-title.mid,
+.reveal .slides section.s-full.mid { align-content: center; }
+
+.reveal .slides section.s-full h2 { max-width: var(--pv-measure); }
+/* Narrower than the full measure so the title turns after "Scan" rather than
+ * stranding its last word. Tuning this is how a headline is broken here. */
+.reveal .slides section.s-title h1 { max-width: 900px; }
+.reveal .slides section.s-title p,
+.reveal .slides section.s-full p { max-width: 780px; }
+
+.reveal .cap-row,
+.reveal .slides section.s-title .foot {
+	position: absolute;
+	left: var(--pv-pad);
+	right: var(--pv-pad);
+	bottom: var(--pv-pad);
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+	gap: 36px;
+	margin: 0;
+}
+.reveal .slides section.s-title .foot {
+	padding-top: 24px;
+	border-top: 1px solid rgba(232, 224, 212, 0.22);
+}
+/* Label/value pairs, set as a definition list rather than lines joined by a
+ * break: the label is the quiet half and the grid keeps the values aligned. */
+.reveal .slides section.s-title .foot dl {
+	display: grid;
+	grid-template-columns: max-content max-content;
+	gap: 0 18px;
+	margin: 0;
+	font-family: var(--pv-mono);
+	font-size: 14px;
+	line-height: 1.8;
+	letter-spacing: 0.04em;
+}
+.reveal .slides section.s-title .foot dt { color: var(--pv-faint); }
+.reveal .slides section.s-title .foot dd { color: var(--pv-muted); margin: 0; }
+
+/* Statement: type only, generous air. Headlines here are broken by hand with
+ * <br>; --pv-measure is the width those breaks are budgeted against. */
+.reveal .slides section.s-statement {
+	align-content: center;
+	gap: 30px;
+}
+.reveal .slides section.s-statement h2 { font-size: 80px; letter-spacing: -0.035em; line-height: 0.94; max-width: var(--pv-measure); }
+.reveal .slides section.s-statement p  { max-width: 780px; }
+
+/* Screenshot in a frame, annotations alongside. Inside .side a paragraph is a
+ * drawing annotation rather than prose, so it needs no class of its own. */
+.reveal .slides section.s-frame {
+	grid-template-columns: 1fr 336px;
+	gap: 52px;
+	align-content: center;
+	align-items: center;
+}
+.reveal .slides section.s-frame .side { display: flex; flex-direction: column; gap: 24px; }
+.reveal .slides section.s-frame .side h3 { font-size: 46px; letter-spacing: -0.02em; line-height: 1.02; }
+
+.reveal .slides section.s-frame .side p,
+.reveal .slides section.s-split .say p {
+	font-family: var(--pv-mono);
+	font-size: 14.5px;
+	line-height: 1.62;
+	color: var(--pv-muted);
+	padding-left: 16px;
+	border-left: 1px solid var(--pv-sienna);
+	max-width: none;
+}
+.reveal .slides section.s-frame .side p strong,
+.reveal .slides section.s-split .say p strong { color: var(--pv-text); font-weight: 500; }
+.reveal .slides section.s-frame .side p em,
+.reveal .slides section.s-split .say p em { font-style: normal; color: var(--pv-gold); }
+.reveal .slides section.s-frame .side .pv-eyebrow,
+.reveal .slides section.s-split .say .pv-eyebrow { padding-left: 0; border-left: 0; }
+
+/* Image one side, argument the other. The art column bleeds, so this slide
+ * cancels the sheet margin and the text column puts it back. */
+.reveal .slides section.s-split {
+	grid-template-columns: 1fr 1fr;
+	align-items: center;
+	padding: 0;
+}
+.reveal .slides section.s-split .art { height: 720px; overflow: hidden; }
+.reveal .slides section.s-split .art img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.reveal .slides section.s-split .say {
+	display: flex;
+	flex-direction: column;
+	gap: 26px;
+	padding: var(--pv-pad) var(--pv-pad) var(--pv-pad) 0;
+}
+.reveal .slides section.s-split .say h3 { font-size: 46px; letter-spacing: -0.02em; line-height: 1.02; }
+.reveal .slides section.s-split.flip .art { order: 2; }
+.reveal .slides section.s-split.flip .say { order: 1; padding: var(--pv-pad) 0 var(--pv-pad) var(--pv-pad); }
+
+/* A cited voice. */
+.reveal .slides section.s-quote {
+	align-content: center;
+	gap: 34px;
+	padding-left: 120px;
+	padding-right: 120px;
+}
+.reveal .slides section.s-quote blockquote {
+	margin: 0;
+	padding: 0;
+	background: none;
+	box-shadow: none;
+	border: 0;
+	max-width: 960px;
+}
+.reveal .slides section.s-quote blockquote p {
+	font-family: var(--pv-serif);
+	font-weight: 500;
+	font-size: 44px;
+	line-height: 1.24;
+	letter-spacing: -0.012em;
+	color: var(--pv-text);
+	max-width: none;
+}
+.reveal .slides section.s-quote blockquote em { font-style: italic; color: var(--pv-gold); }
+
+/* Three numbered items across, for a survey beat. The head and the row are
+ * centered together as one block, so the slide doesn't open with a void. */
+.reveal .slides section.s-index {
+	align-content: center;
+	gap: 62px;
+}
+.reveal .slides section.s-index .head { display: flex; flex-direction: column; gap: 20px; }
+.reveal .slides section.s-index .head h3 { font-size: 46px; letter-spacing: -0.02em; line-height: 1.02; }
+.reveal .slides section.s-index .row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 46px; align-items: start; }
+.reveal .slides section.s-index .item { display: flex; flex-direction: column; gap: 14px; }
+.reveal .slides section.s-index .item .num {
+	font-family: var(--pv-mono);
+	font-size: 12.5px;
+	letter-spacing: 0.2em;
+	color: var(--pv-gold);
+	padding-bottom: 12px;
+	border-bottom: 1px solid var(--pv-line-bright);
+	max-width: none;
+}
+.reveal .slides section.s-index .item h4 { font-size: 30px; line-height: 1.04; letter-spacing: -0.02em; }
+.reveal .slides section.s-index .item p { font-size: 16.5px; line-height: 1.5; color: var(--pv-muted); max-width: none; }
+
+/* ------------------------------------------------------- browser frame */
+
+.pv-device {
+	border: 1px solid var(--pv-line-bright);
+	background: #0a0807;
+	box-shadow: 0 34px 90px rgba(0, 0, 0, 0.62);
+	overflow: hidden;
+}
+.pv-device .bar {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	height: 30px;
+	padding: 0 13px;
+	background: var(--pv-surface);
+	border-bottom: 1px solid var(--pv-line-bright);
+}
+.pv-device .bar i {
+	width: 8px; height: 8px;
+	border-radius: 50%;
+	background: var(--pv-line-bright);
+	flex: none;
+}
+.pv-device .bar .url {
+	font-family: var(--pv-mono);
+	font-size: 11.5px;
+	letter-spacing: 0.03em;
+	color: var(--pv-faint);
+	margin-left: 10px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.pv-device .shot { display: block; overflow: hidden; }
+.pv-device .shot img { width: 100%; display: block; }
+
+/* A screenshot cropped to a window rather than shown whole, for pages that
+ * are taller than they are interesting. */
+.pv-device .shot.crop { height: 470px; }
+
+/* ------------------------------------------------------- AR mockup slide */
+
+/* The simulated phone. Everything inside is drawn, not photographed: the
+ * point of the slide is that it is a proposal, not a product. */
+.pv-phone {
+	position: relative;
+	width: 312px;
+	height: 634px;
+	border-radius: 40px;
+	border: 1px solid var(--pv-line-bright);
+	background: #070908;
+	box-shadow: 0 40px 100px rgba(0, 0, 0, 0.7), 0 0 0 9px #16130f;
+	overflow: hidden;
+}
+.pv-phone .view { position: absolute; inset: 0; overflow: hidden; }
+.pv-phone svg { position: absolute; inset: 0; width: 100%; height: 100%; }
+
+/* AR interface chrome laid over the camera view. */
+.pv-phone .hud { position: absolute; inset: 0; pointer-events: none; }
+.pv-phone .hud .top {
+	position: absolute; top: 0; left: 0; right: 0;
+	padding: 16px 18px 22px;
+	display: flex; justify-content: space-between; align-items: flex-start;
+	background: linear-gradient(to bottom, rgba(7,9,8,0.82), rgba(7,9,8,0));
+	font-family: var(--pv-mono); font-size: 10px; letter-spacing: 0.14em;
+	color: rgba(232, 224, 212, 0.8); text-transform: uppercase;
+}
+.pv-phone .hud .top .rec { color: var(--pv-terra); }
+.pv-phone .hud .bot {
+	position: absolute; left: 0; right: 0; bottom: 0;
+	padding: 26px 18px 20px;
+	background: linear-gradient(to top, rgba(7,9,8,0.92), rgba(7,9,8,0));
+	display: flex; flex-direction: column; gap: 9px;
+}
+.pv-phone .hud .bot .name {
+	font-family: var(--pv-display); font-weight: 700;
+	font-size: 21px; letter-spacing: -0.02em; color: var(--pv-text);
+	max-width: none;
+}
+.pv-phone .hud .bot .sub {
+	font-family: var(--pv-mono); font-size: 10.5px; letter-spacing: 0.1em;
+	color: rgba(232, 224, 212, 0.66); line-height: 1.5; max-width: none;
+}
+.pv-phone .hud .bot .bar {
+	height: 3px; background: rgba(232, 224, 212, 0.18); margin-top: 4px; position: relative;
+}
+.pv-phone .hud .bot .bar span {
+	position: absolute; inset: 0 34% 0 0; background: var(--pv-gold);
+}
+
+/* Floating confidence chips pinned to parts of the reconstruction. */
+.pv-phone .chip {
+	position: absolute;
+	font-family: var(--pv-mono);
+	font-size: 9.5px;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	padding: 3px 7px 2px;
+	border: 1px solid;
+	white-space: nowrap;
+	backdrop-filter: blur(2px);
+}
+.pv-phone .chip.solid  { color: var(--pv-gold);  border-color: rgba(212,168,75,0.7);  background: rgba(16,13,11,0.62); }
+.pv-phone .chip.dashed { color: var(--pv-terra); border-color: rgba(222,132,102,0.7); border-style: dashed; background: rgba(16,13,11,0.62); }
+.pv-phone .chip.dotted { color: var(--pv-muted); border-color: rgba(168,158,144,0.6); border-style: dotted; background: rgba(16,13,11,0.62); }
+
+/* Where each chip pins to the drawing behind it. Named for what it labels,
+ * so moving the elevation means editing these three rules and nothing else. */
+.pv-phone .chip.pin-arcade  { left: 14px;  top: 440px; }
+.pv-phone .chip.pin-windows { right: 11px; top: 326px; }
+.pv-phone .chip.pin-roof    { left: 22px;  top: 246px; }
+
+/* Evidence legend that reads like a drawing key. */
+.pv-key { display: flex; flex-direction: column; gap: 12px; }
+.pv-key .k { display: grid; grid-template-columns: 46px 1fr; gap: 14px; align-items: center; }
+.pv-key .k .line { height: 0; border-top: 2px solid var(--pv-gold); }
+.pv-key .k.d .line { border-top-style: dashed; border-color: var(--pv-terra); }
+.pv-key .k.o .line { border-top-style: dotted; border-color: var(--pv-muted); }
+.pv-key .k span {
+	font-family: var(--pv-mono); font-size: 13px; line-height: 1.4;
+	letter-spacing: 0.04em; color: var(--pv-muted);
+}
+.pv-key .k span b { color: var(--pv-text); font-weight: 500; }
+
+.reveal .slides section.s-mock {
+	grid-template-columns: 372px 1fr;
+	gap: 64px;
+	align-items: center;
+	align-content: center;
+}
+.reveal .slides section.s-mock .side { display: flex; flex-direction: column; gap: 26px; }
+.reveal .slides section.s-mock .side h3 { font-size: 46px; letter-spacing: -0.02em; line-height: 1.02; max-width: 430px; }
+.reveal .slides section.s-mock .side p { max-width: 520px; }
+
+/* ------------------------------------------------------------ fragments */
+
+.reveal .slides section .fragment.visible { opacity: 1; }
+
+/* ---------------------------------------------------------------- print */
+
+/* Keep the sheet furniture out of exported PDFs, where crop marks on every
+ * page fight with whatever the printer adds. */
+@media print {
+	.reveal .sheet { display: none; }
+}
+
+/* ------------------------------------------------------- picture plates */
+
+/* A plate is the counterpart of .s-statement: a picture with the slide's
+ * words pushed to the bottom edge of the sheet, behind a stripe just tall
+ * enough to read them against. An overview deck alternates the two, so every
+ * claim is followed by the thing it is a claim about
+ * (presentations/expertise-and-trust is the worked example).
+ *
+ * The stripe is the section's own ::before, pinned to the bottom edge and
+ * sized by --pv-band rather than washing the lower third the way .scrim-bottom
+ * does. Keep it as short as the words allow and let the picture have the rest
+ * of the sheet:
+ *
+ *   (default)   eyebrow + a one-line headline
+ *   .band-md    a two-line headline, or one line plus a caption
+ *   .band-lg    two lines plus a caption
+ *   .heavy      darkens the whole stripe, for a light or busy picture — the
+ *               poster and the gallery need it, a dark photograph does not
+ *
+ * A plate declares no .scrim-* class: the stripe is its scrim. Its picture
+ * comes from data-background-image as usual, or from a .pv-scene the deck
+ * draws instead. */
+.reveal .slides section.s-plate {
+	--pv-band: 162px;
+	align-content: end;
+	gap: 15px;
+	padding-bottom: 46px;
+}
+.reveal .slides section.s-plate.band-md { --pv-band: 214px; }
+.reveal .slides section.s-plate.band-lg { --pv-band: 268px; }
+
+.reveal .slides section.s-plate::before {
+	/* Overrides the shared `inset: 0` — the wash is a stripe, not a field. */
+	inset: auto 0 0 0;
+	height: var(--pv-band);
+	background: linear-gradient(to top,
+		rgba(16, 13, 11, 0.95) 0%,
+		rgba(16, 13, 11, 0.91) 44%,
+		rgba(16, 13, 11, 0.58) 76%,
+		rgba(16, 13, 11, 0) 100%);
+}
+/* Opaque rather than nearly so, across the whole height the words occupy:
+ * a screenshot's white body text still ghosts through a 2% gap, and it ghosts
+ * exactly where the caption sits. The fade is spent on the band's top third. */
+.reveal .slides section.s-plate.heavy::before {
+	background: linear-gradient(to top,
+		rgba(16, 13, 11, 1) 0%,
+		rgba(16, 13, 11, 1) 62%,
+		rgba(16, 13, 11, 0.72) 84%,
+		rgba(16, 13, 11, 0) 100%);
+}
+
+/* The headline register here is the caption's, not the statement's: a plate's
+ * job is the picture, and the words name it. */
+.reveal .slides section.s-plate h2 {
+	font-size: 44px;
+	letter-spacing: -0.022em;
+	line-height: 1.02;
+	max-width: 1000px;
+}
+.reveal .slides section.s-plate .pv-cap { max-width: 860px; }
+
+/* A scene the deck draws instead of a photograph it took. Same job as
+ * data-background-image, but an SVG can say which parts are documented and
+ * which are invented, which a render cannot. It sits below the stripe's -1
+ * inside the section's stacking context. */
+.reveal .slides section.s-plate .pv-scene {
+	position: absolute;
+	inset: 0;
+	z-index: -2;
+	overflow: hidden;
+}
+.reveal .slides section.s-plate .pv-scene svg {
+	position: absolute;
+	inset: 0;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+/* Confidence chips pinned onto a scene, in the drawing-key convention the
+ * .pv-key legend spells out: solid documented, dashed inferred, dotted
+ * invented. Shares .pv-phone's chip styling; only the pinning is local. */
+.reveal .slides section.s-plate .pv-scene .chip {
+	position: absolute;
+	font-family: var(--pv-mono);
+	font-size: 11px;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	padding: 4px 9px 3px;
+	border: 1px solid;
+	white-space: nowrap;
+}
+.reveal .slides section.s-plate .pv-scene .chip.solid  { color: var(--pv-gold);  border-color: rgba(212,168,75,0.7);  background: rgba(16,13,11,0.68); }
+.reveal .slides section.s-plate .pv-scene .chip.dashed { color: var(--pv-terra); border-color: rgba(222,132,102,0.7); border-style: dashed; background: rgba(16,13,11,0.68); }
+.reveal .slides section.s-plate .pv-scene .chip.dotted { color: var(--pv-muted); border-color: rgba(168,158,144,0.6); border-style: dotted; background: rgba(16,13,11,0.68); }
+.reveal .slides section.s-plate .pv-scene .chip.warn   { color: var(--pv-bg-deep); background: var(--pv-terra); border-color: var(--pv-terra); }
+
+/* Where each chip pins to the scene behind it. Named for what it labels, so
+ * moving a drawing means editing these rules and nothing else. The warn chip
+ * sits in the sheet's top corner rather than on the drawing: it is a label on
+ * the whole picture, not on a part of it. */
+.reveal .slides section.s-plate .pv-scene .chip.warn { right: 84px; top: 46px; }
+.reveal .slides section.s-plate .pv-scene .chip.pin-ar-arcade  { left: 96px;  top: 425px; }
+.reveal .slides section.s-plate .pv-scene .chip.pin-ar-windows { right: 96px; top: 311px; }
+.reveal .slides section.s-plate .pv-scene .chip.pin-ar-roof    { left: 398px; top: 175px; }

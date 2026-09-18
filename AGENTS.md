@@ -34,3 +34,13 @@ A finished deck is not done until a **fresh-context agent** has reviewed it for
 historical accuracy, quotation accuracy, and cross-slide consistency. Spawning
 that subagent is expected here — see "Before publishing" in
 `courses/SLIDE-STYLE.md` for what to ask it and what to do with the findings.
+
+## Conference decks
+
+Talks for outside audiences live at `presentations/<talk-slug>/index.md` and
+are a different genre from lecture decks: short, timed, image-forward, one idea
+per slide. **Read `presentations/AGENTS.md` before creating or editing one.**
+The content rules in `courses/SLIDE-STYLE.md` still apply; the form does not.
+
+They use `layout: reveal-provocation`, whose class mechanics are documented in
+the header comment of `assets/css/reveal-provocation-theme.css`.
