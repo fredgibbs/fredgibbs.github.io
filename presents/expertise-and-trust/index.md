@@ -5,20 +5,20 @@ title: "Expertise and Trust in Humanities AI"
 
 {::options parse_block_html="true" auto_ids="false" /}
 
-<!-- 01 ------------------------------------------------------------------ -->
+<!-- 01 ---------------------------------------------------------------------- -->
 <section class="s-title scrim-left"
  data-background-image="images/sandia.jpg"
  data-background-size="cover"
  data-background-position="center"
  aria-label="Title">
 
-Current work
+September 28, 2026
 {: .pv-eyebrow}
 
 # Expertise and Trust in Humanities AI
 {: .xl}
 
-What AI changes about humanities research, and who has to be trusted for any of it to count.
+What AI changes about humanities research, and how might recalibrates trust.
 
 <div class="foot">
 
@@ -44,66 +44,21 @@ The through-line: AI moved the cost of doing humanities work, and it moved it in
 </aside>
 </section>
 
-<!-- 02 ------------------------------------------------------------------ -->
-<section class="s-statement scrim-none" aria-label="Amaranth is a studio, not a service desk">
-
-Amaranth
-{: .pv-eyebrow}
-
-## A studio, not a service desk.
-
----
-
-Amaranth is UNM's digital humanities studio: a room, a printer, a few machines, and students. No dev team, no grant-funded engineering staff. Faculty are asked to bring a **half-formed question** rather than a finished project, and the work gets built in public on infrastructure the authors keep.
-{: .full}
-
-<aside class="notes">
-**0:30–1:08**
-
-Open here, because every problem in this talk comes out of this room. Cultivating Amaranth has been most of my institutional energy for the last two years, so a word about what it is and what it deliberately isn't.
-
-A service desk takes a finished request and returns a deliverable. That model fails in the humanities, because the interesting decisions are all upstream — what counts as an item, what the metadata should be, what the argument is. By the time the request is well specified, the scholarship has already been done, usually badly.
-
-So we ask for the half-formed question instead, and we sit in the design conversation. Everything in the rest of this talk came out of a conversation like that.
-</aside>
-</section>
-
-<!-- 03 ------------------------------------------------------------------ -->
-<section class="s-plate band-md"
- data-background-image="images/amaranth-home.jpg"
- data-background-size="cover"
- data-background-position="center"
- aria-label="Amaranth, UNM's digital humanities studio">
-
-amaranth.unm.edu
-{: .pv-eyebrow}
-
-## Built by undergraduates and one faculty member.
-
-<aside class="notes">
-**1:08–1:36**
-
-Hold this number in mind, because the argument at the end depends on it: the site you're looking at, and every project I am about to show you, was made by undergraduates and one faculty member. That was not possible three years ago at this scale, and the reason it is possible now is the subject of the next several slides.
-</aside>
-</section>
-
-<!-- 04 ------------------------------------------------------------------ -->
+<!-- 02 ---------------------------------------------------------------------- -->
 <section class="s-statement scrim-none" aria-label="We can already trust AI">
 
-Research
+Provocation
 {: .pv-eyebrow .terra}
 
 ## We can already trust AI.
 
 ---
 
-Do you trust me? That is the real issue. AI is trustworthy in the sense that skilled users know what to expect and that AI output is already consistent (while improving). The question we need to answer is how do we know to trust those who use it?
+Do you trust me? That is the real issue. AI is trustworthy in the sense that skilled users know what to expect and that AI output is already consistent (while improving). The question we need to answer is **how do we know to trust those who use it?**
 {: .full}
 
 <aside class="notes">
-**1:36–2:18**
-
-Now the problem, and it is not the one the room expects. This is also not a position I arrived with — it is what the studio work kept running into, project after project, until it became the research question.
+**0:30–1:20**
 
 I am not much worried about whether the model is reliable. Inside a task you have scoped, it is: a skilled user knows what it will do, the output is consistent, and it improves. Treating "can we trust AI" as the open question has eaten a lot of faculty meetings and settled nothing.
 
@@ -113,47 +68,147 @@ So: do you trust me? Everything after this slide is the attempt to earn a yes.
 </aside>
 </section>
 
-<!-- 05 ------------------------------------------------------------------ -->
-<section class="s-plate band-md heavy"
- data-background-image="images/sketchbook.jpg"
- data-background-size="cover"
- data-background-position="center"
- aria-label="The AI Sketchbook: research sketches">
 
-AI Sketchbook
-{: .pv-eyebrow}
+<!-- 03 ---------------------------------------------------------------------- -->
+<section class="s-plate band-lg scrim-none"
+ data-background-color="#100d0b"
+ aria-label="Galileo's Moon in the Venice first edition and in the Frankfurt piracy of the same year">
 
-## Field notes, including the failures.
+<div class="pv-scene" markdown="0">
+ <img src="images/galileo-moons.jpg" alt="Two printings of the same lunar image: a fine etching and a crude woodcut copy">
+ <span class="chip solid pin-moon-left">Venice 1610 · etched</span>
+ <span class="chip dashed pin-moon-right">Frankfurt 1610 · pirated</span>
+</div>
 
-A shared space where colleagues try things and compare notes — fifteen sketches so far, each tagged with whether it was actually tested.
+Precedent 1
+{: .pv-eyebrow .terra}
+
+## Print was not automatically trustworthy.
+
+The same Moon, the same year. Galileo's own etching on the left; on the right a Frankfurt piracy, recut in wood and printed upside down with stronger contrast. The latter was far more reprinted. Which is, or becomes, true?
 {: .pv-cap}
 
 <aside class="notes">
-**2:18–2:48**
+**1:20–2:00**
 
-This is where the research is actually happening, and it is deliberately unglamorous. Colleagues try something, write down what happened, and tag it. Each entry has a status — tested, untested — because the honest answer is usually "this half worked."
+Before any of my own work, two slides of history — because that question is old, and we are not the first people to face it.
 
-The reason it is a website and not a paper: the useful unit here is a small, dated, local observation, and by the time it is a paper it is out of date and no longer local.
+Print did not arrive trustworthy. More copies meant more chances for corruption, and no reader could check a text against an exemplar they would never see. What eventually made print credible was not the press; it was a century of institution-building around it — correctors on the payroll, printing privileges, colophons naming who was answerable, a trade register. Adrian Johns's argument: fixity is not a property of print. It is something people had to manufacture, and keep manufacturing.
+
+Now the picture, which is the argument in one object. Galileo published in Venice in March 1610 with copper etchings made from his own wash drawings. Within months a Frankfurt printer reissued it without permission, and in the hurry the plates were recut as woodcuts — cheaper, coarser, and set into the forme upside down. Point at the big crater: low on the terminator on the left, high on the right.
+
+Then the sting, which is the reason this slide is here. The pirated woodcuts were the ones later editions copied, and the ones that went into moon handbooks for centuries. Scholars who never saw a first edition concluded that Galileo was a crude draughtsman. The bad copy outcompeted the good one, and the author took the reputational damage for it.
+
+Say the parallel lightly. The next slide completes it.
+
+Sources: Adrian Johns, *The Nature of the Book* (1998). Edition history and the upside-down woodcuts: Linda Hall Library, "The Face of the Moon," section B (1610–1700). Images: Sidereus Nuncius, Venice: Baglioni, 1610 (Smithsonian Libraries copy, Internet Archive `Sidereusnuncius00Gali`) and Frankfurt: Palthenius, 1610 (Boston Public Library copy, Internet Archive `sidereusnunciusm00gali_0`) — both public domain.
+{: .sources}
+</aside>
+</section>
+
+<!-- 04 ---------------------------------------------------------------------- -->
+<section class="s-plate band-lg heavy"
+ data-background-image="images/air-pump.jpg"
+ data-background-size="cover"
+ data-background-position="center 45%"
+ aria-label="Joseph Wright of Derby, An Experiment on a Bird in an Air Pump, 1768">
+
+Precedent 2
+{: .pv-eyebrow .terra}
+
+## Science had to build its trust network.
+
+Joseph Wright of Derby, 1768 — a century after Boyle's pump, and a fact is still made by gathering people into a room and letting them watch the bird die. The Royal Society, the witnessed demonstration, reports written so a distant reader could witness at second hand: trust infrastructure, and it took generations to build. Does AI threaten that?
+{: .pv-cap}
+
+<aside class="notes">
+**2:00–2:40**
+
+Same problem, next century, and this one is a laboratory.
+
+The experimental philosophy produced claims almost nobody could check: what happened inside Boyle's air pump was believable only if you trusted the people standing there. So the period built machinery for exactly that — the Royal Society as a standing body of credible witnesses, demonstrations performed in front of an audience rather than reported afterwards, and papers written in enough circumstantial detail that a reader in another country could witness them at second hand. Shapin and Schaffer call that virtual witnessing.
+
+Now the date on this picture. It is 1768 — more than a hundred years after Boyle. They are *still* doing it: still gathering people into a room, still watching each other's faces. That is the part I want to land. The network that makes knowledge trustworthy was not switched on. It was built slowly, argued over, and it took generations.
+
+We are about two years into ours.
+
+Sources: Steven Shapin and Simon Schaffer, *Leviathan and the Air-Pump* (1985); Steven Shapin, *A Social History of Truth* (1994). Image: Joseph Wright of Derby, *An Experiment on a Bird in an Air Pump*, 1768, National Gallery, London — public domain.
+{: .sources}
+</aside>
+</section>
+
+<!-- 05 ---------------------------------------------------------------------- -->
+<section class="s-column scrim-none"
+ data-background-color="#100d0b"
+ aria-label="Amaranth, UNM's digital humanities studio">
+
+<div class="art" markdown="0"><img src="images/amaranth-home.jpg" alt="Amaranth, UNM's digital humanities studio"></div>
+
+<div class="say">
+amaranth.unm.edu
+{: .pv-eyebrow}
+
+### A studio, not a service desk.
+
+Amaranth is UNM’s digital humanities studio: a research and teaching space where faculty, students, and community partners investigate how digital methods can deepen humanistic inquiry, strengthen public scholarship, and build the digital literacy students need for an AI-shaped world.
+
+{: .pv-cap}
+</div>
+
+<aside class="notes">
+**2:40–3:30**
+
+Open here, because every problem in this talk comes out of this room. Cultivating Amaranth has been most of my institutional energy for the last two years.
+
+A service desk takes a finished request and returns a deliverable. That model fails in the humanities, because the interesting decisions are all upstream — what counts as an item, what the metadata should be, what the argument is. By the time the request is well specified, the scholarship has already been done, usually badly. So we ask for the half-formed question instead, and we sit in the design conversation.
+
+Hold the last line, because the argument at the end depends on it: undergraduates and one faculty member. That was not possible three years ago at this scale.
+</aside>
+</section>
+
+<!-- 06 ---------------------------------------------------------------------- -->
+<section class="s-column scrim-none"
+ data-background-color="#100d0b"
+ aria-label="The AI Sketchbook">
+
+<div class="art" markdown="0"><img src="images/sketchbook.jpg" alt="The AI Sketchbook"></div>
+
+<div class="say">
+AI Sketchbook
+{: .pv-eyebrow}
+
+### Field notes, especially the failures.
+
+A shared space where colleagues try something, write down what happened, and tag it. Fifteen sketches so far, each marked tested or untested — because the honest answer is usually *that it half worked*.
+
+Does AI encourage local knowledge more valuable?
+{: .pv-cap}
+</div>
+
+<aside class="notes">
+**3:30–4:15**
+
+This is where the research actually happens, and it is deliberately unglamorous.
 
 Read the last line of the intro out loud: students should stay alert to "the borrowed, uneven, and sometimes misleading expertise AI seems to offer." Borrowed expertise is the whole problem from the previous slide in four words — and noticing when you are holding some is a skill, which means it can be taught and it can be evidenced.
 </aside>
 </section>
 
-<!-- 06 ------------------------------------------------------------------ -->
+<!-- 07 ---------------------------------------------------------------------- -->
 <section class="s-statement scrim-none" aria-label="Scale is no longer the obstacle">
 
-Research workflows
+Humanities workflows
 {: .pv-eyebrow .terra}
 
 ## Scale is no longer the obstacle.
 
 ---
 
-Reading across thousands of pages, drafting transcripts for a whole interview collection, describing a few hundred photographs so they can be searched — all of it is now a few weeks of supervised work rather than a funded project. Which means the binding constraint is no longer capacity. It is **judgment**, and we have not built the training for that.
+Reading across thousands of pages, drafting transcripts for a whole interview collection, describing a few hundred photographs so they can be searched — all of it is now a few weeks of supervised work rather than a years-long funded project. The main constraint is no longer capacity, it is **judgment** and **competency**.
 {: .full}
 
 <aside class="notes">
-**2:48–3:30**
+**4:15–5:00**
 
 The first focus: bringing AI into humanities research itself, not just into the classroom.
 
@@ -165,161 +220,75 @@ Next on this list is mapping: georectification, layer alignment and feature extr
 </aside>
 </section>
 
-<!-- 07 ------------------------------------------------------------------ -->
-<section class="s-plate band-md scrim-none"
+<!-- 08 ---------------------------------------------------------------------- -->
+<section class="s-index scrim-none"
  data-background-color="#100d0b"
- aria-label="MemoryTour: a design sketch for place-indexed oral history">
+ aria-label="Three AI-assisted humanities workflows and the trust cost of each">
 
-<div class="pv-scene" markdown="0">
- <svg viewBox="0 0 1280 720" preserveAspectRatio="xMidYMid slice" role="img" aria-label="A drawn map interface with numbered stops along a walking route and an open recording card">
- <defs>
- <linearGradient id="mt-ground" x1="0" y1="0" x2="0" y2="1">
- <stop offset="0%" stop-color="#15120f"/>
- <stop offset="100%" stop-color="#0d0b09"/>
- </linearGradient>
- </defs>
-
- <rect x="0" y="0" width="1280" height="720" fill="url(#mt-ground)"/>
-
- <!-- the street grid: thin blocks, two arterials -->
- <g stroke="#2e2a24" stroke-width="1.5" fill="none">
- <path d="M150 0 L150 720 M330 0 L330 720 M510 0 L510 720 M870 0 L870 720 M1050 0 L1050 720"/>
- <path d="M0 110 L1280 110 M0 250 L1280 250 M0 530 L1280 530 M0 640 L1280 640"/>
- </g>
- <g stroke="#3b352d" stroke-width="4" fill="none">
- <path d="M690 0 L690 720"/>
- <path d="M0 390 L1280 390"/>
- </g>
-
- <!-- an acequia: the one non-orthogonal thing on the sheet -->
- <path d="M-20 178 C 180 206, 300 300, 470 348 S 820 470, 1010 470 S 1240 512, 1300 560"
- stroke="#3d4a46" stroke-width="5" fill="none" opacity="0.9"/>
-
- <!-- open ground, then building footprints -->
- <g fill="#1a1f19" opacity="0.85">
- <rect x="176" y="276" width="126" height="92" rx="3"/>
- <rect x="890" y="136" width="140" height="88" rx="3"/>
- </g>
- <g fill="#272319" stroke="#3b352d" stroke-width="1">
- <rect x="176" y="136" width="84" height="88"/>
- <rect x="272" y="136" width="42" height="88"/>
- <rect x="356" y="136" width="130" height="52"/>
- <rect x="356" y="200" width="60" height="24"/>
- <rect x="536" y="136" width="130" height="88"/>
- <rect x="356" y="276" width="70" height="92"/>
- <rect x="440" y="276" width="46" height="46"/>
- <rect x="536" y="276" width="130" height="50"/>
- <rect x="536" y="340" width="82" height="28"/>
- <rect x="716" y="276" width="130" height="92"/>
- <rect x="1076" y="276" width="126" height="92"/>
- <rect x="1076" y="416" width="90" height="94"/>
- <rect x="176" y="416" width="130" height="94"/>
- <rect x="332" y="416" width="60" height="94"/>
- <rect x="416" y="416" width="70" height="60"/>
- <rect x="536" y="416" width="130" height="94"/>
- <rect x="716" y="416" width="92" height="60"/>
- <rect x="828" y="416" width="42" height="94"/>
- <rect x="896" y="416" width="134" height="94"/>
- </g>
-
- <!-- the walking route. A tour is an order, so the line is part of the claim -->
- <path d="M210 430 L380 430 L380 286 L540 286 L540 188 L664 188 L664 380 L470 380 L470 470"
- stroke="#d4a84b" stroke-width="2" stroke-dasharray="7 7" fill="none" opacity="0.5"/>
-
- <!-- stops -->
- <g fill="#100d0b" stroke="#d4a84b" stroke-width="2">
- <circle cx="210" cy="430" r="13"/>
- <circle cx="380" cy="286" r="13"/>
- <circle cx="540" cy="188" r="13"/>
- <circle cx="470" cy="470" r="13"/>
- </g>
- <g font-family="JetBrains Mono, monospace" font-size="12" fill="#d4a84b" text-anchor="middle">
- <text x="210" y="435">1</text>
- <text x="380" y="291">2</text>
- <text x="540" y="193">3</text>
- <text x="470" y="475">5</text>
- </g>
-
- <!-- the stop that is open, drawn larger and filled -->
- <circle cx="664" cy="380" r="19" fill="#d4a84b"/>
- <circle cx="664" cy="380" r="31" fill="none" stroke="#d4a84b" stroke-width="1.5" opacity="0.45"/>
- <circle cx="664" cy="380" r="46" fill="none" stroke="#d4a84b" stroke-width="1" opacity="0.2"/>
- <text x="664" y="385" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700" fill="#100d0b" text-anchor="middle">4</text>
-
- <!-- where the listener is standing -->
- <circle cx="300" cy="340" r="7" fill="#de8466"/>
- <circle cx="300" cy="340" r="16" fill="none" stroke="#de8466" stroke-width="1.5" opacity="0.4"/>
-
- <!-- the card for the open stop. It sits high on the sheet so the stripe at
- the bottom of the slide never lands on it. -->
- <g>
- <rect x="716" y="92" width="452" height="212" fill="#100d0b" stroke="#4a4239" stroke-width="1"/>
- <rect x="716" y="92" width="452" height="3" fill="#d4a84b"/>
- <text x="742" y="128" font-family="JetBrains Mono, monospace" font-size="11.5" letter-spacing="2.4" fill="#a89e90">STOP 04 — 00:41 / 12:18</text>
- <text x="742" y="168" font-family="Space Grotesk, sans-serif" font-size="27" font-weight="700" letter-spacing="-0.6" fill="#e8e0d4">Chispas Farm</text>
-
- <!-- a waveform: the recording is the object, so it gets the space -->
- <g fill="#de8466">
- <rect x="742" y="197" width="3" height="14"/><rect x="750" y="189" width="3" height="30"/>
- <rect x="758" y="181" width="3" height="46"/><rect x="766" y="193" width="3" height="22"/>
- <rect x="774" y="175" width="3" height="58"/><rect x="782" y="187" width="3" height="34"/>
- <rect x="790" y="197" width="3" height="14"/><rect x="798" y="179" width="3" height="50"/>
- <rect x="806" y="191" width="3" height="26"/><rect x="814" y="185" width="3" height="38"/>
- </g>
- <g fill="#6b6157">
- <rect x="822" y="195" width="3" height="18"/><rect x="830" y="187" width="3" height="34"/>
- <rect x="838" y="199" width="3" height="10"/><rect x="846" y="183" width="3" height="42"/>
- <rect x="854" y="193" width="3" height="22"/><rect x="862" y="177" width="3" height="54"/>
- <rect x="870" y="191" width="3" height="26"/><rect x="878" y="197" width="3" height="14"/>
- <rect x="886" y="181" width="3" height="46"/><rect x="894" y="189" width="3" height="30"/>
- <rect x="902" y="195" width="3" height="18"/><rect x="910" y="185" width="3" height="38"/>
- <rect x="918" y="193" width="3" height="22"/><rect x="926" y="179" width="3" height="50"/>
- <rect x="934" y="197" width="3" height="14"/><rect x="942" y="187" width="3" height="34"/>
- <rect x="950" y="191" width="3" height="26"/><rect x="958" y="181" width="3" height="46"/>
- <rect x="966" y="195" width="3" height="18"/><rect x="974" y="189" width="3" height="30"/>
- <rect x="982" y="199" width="3" height="10"/><rect x="990" y="185" width="3" height="38"/>
- <rect x="998" y="193" width="3" height="22"/><rect x="1006" y="177" width="3" height="54"/>
- <rect x="1014" y="197" width="3" height="14"/><rect x="1022" y="187" width="3" height="34"/>
- <rect x="1030" y="191" width="3" height="26"/><rect x="1038" y="195" width="3" height="18"/>
- <rect x="1046" y="183" width="3" height="42"/><rect x="1054" y="197" width="3" height="14"/>
- <rect x="1062" y="189" width="3" height="30"/><rect x="1070" y="193" width="3" height="22"/>
- <rect x="1078" y="197" width="3" height="14"/><rect x="1086" y="187" width="3" height="34"/>
- <rect x="1094" y="195" width="3" height="18"/><rect x="1102" y="191" width="3" height="26"/>
- <rect x="1110" y="197" width="3" height="14"/><rect x="1118" y="193" width="3" height="22"/>
- <rect x="1126" y="199" width="3" height="10"/><rect x="1134" y="196" width="3" height="16"/>
- </g>
-
- <text x="742" y="256" font-family="Inter, sans-serif" font-size="15.5" fill="#a89e90">“The ditch ran different before they lined it.</text>
- <text x="742" y="278" font-family="Inter, sans-serif" font-size="15.5" fill="#a89e90">You could hear it from here.”</text>
- <text x="1142" y="292" font-family="JetBrains Mono, monospace" font-size="10.5" letter-spacing="1.6" fill="#6b6157" text-anchor="end">DRAFT TRANSCRIPT — UNCHECKED</text>
- </g>
- </svg>
-
- <span class="chip warn">Design sketch · nothing is built</span>
- </div>
-
-MemoryTour
+<div class="head">
+AI for humanities research
 {: .pv-eyebrow}
 
-## Oral history, indexed by place.
+### New reach, and new ways to be wrong.
+</div>
 
-A design sketch drawn for this talk. The transcript is machine-made and marked unchecked, because that is the state it would actually be in.
-{: .pv-cap}
+<div class="row">
+<div class="item">
+01 / ACROSS TEXTS
+{: .num}
+
+#### Read ten thousand pages you haven't read.
+
+Themes traced across a whole corpus, language shifting over decades, patterns no close reading would surface.
+
+You are now vouching for a pattern you did not see.
+{: .risk}
+</div>
+
+<div class="item">
+02 / IN SPEECH
+{: .num}
+
+#### Forty hours of tape, searchable tomorrow.
+
+Draft transcripts of an entire oral history collection in days rather than months, and build an index.
+
+It mangles the names, the Spanish, and the place words — which is most of what the collection is about.
+{: .risk}
+</div>
+
+<div class="item">
+03 / IN THE LITERATURE
+{: .num}
+
+#### Transcend disciplines.
+
+The major positions, the live debates, the search terms, chart a route into a literature you have not read.
+
+It invents sources. Or does it?
+{: .risk}
+</div>
+</div>
 
 <aside class="notes">
-**3:30–4:15**
+**5:00–5:50**
 
-This is the shape of the thing rather than the thing — say that out loud, and say it before anyone has to ask.
+Three real workflows, and I want the pairs rather than the promises.
 
-What it is for: we have interview collections whose content is overwhelmingly about *places* — a ditch, a field, a building, a corner — and we store them as a list of files named after people. Indexing by place instead means you can stand somewhere and hear who has talked about it.
+The top line of each is a genuine change in reach. Work that needed a team and a grant is now a semester project — that part is not hype.
 
-The reason this is newly possible: draft transcription across a whole collection is now cheap, and you can get first-pass place extraction out of the same pass. The reason it is still hard is on screen: that transcript is unchecked, and machines mangle exactly the words a project like this is about — Spanish, family names, irrigation vocabulary, local place names. So the label stays on until a person has listened.
+The bottom line is what it costs, and notice the pattern: in every case the machine is weakest exactly where the material is most specific. It reads a corpus but cannot tell you which pattern matters. It transcribes fluently and then flattens the proper nouns, the Spanish, and the acequia vocabulary — the words that carry the local knowledge. It maps a literature and salts the map with books that do not exist.
 
-If the demo is working, switch to it here.
+So the competence required went up, not down. You now need enough expertise to catch a confident machine in the places it is confidently wrong — and that is precisely the expertise a reader outside the field cannot check.
+
+Which is the trust problem in its working form: not "is the AI reliable," but "how would you know whether I checked."
+
+Source: amaranth.unm.edu/projects/ai-humanities — the workflows and their stated caveats.
+{: .sources}
 </aside>
 </section>
 
-<!-- 08 ------------------------------------------------------------------ -->
+<!-- 09 ---------------------------------------------------------------------- -->
 <section class="s-statement scrim-none" aria-label="Every reconstruction is an argument with the confidence turned up">
 
 Reconstruction
@@ -333,7 +302,7 @@ LiDAR and photogrammetry fail visibly: a gap in a point cloud looks like a gap. 
 {: .full}
 
 <aside class="notes">
-**4:15–4:55**
+**5:50–6:35**
 
 The other half of the research work is historical reconstruction — buildings and landscapes that are gone, in AR and VR.
 
@@ -343,363 +312,176 @@ The fix is not technical and it is not new. Reconstruction drawings have always 
 </aside>
 </section>
 
-<!-- 09 ------------------------------------------------------------------ -->
-<section class="s-plate band-md scrim-none"
- data-background-color="#100d0b"
- aria-label="A simulated augmented reality reconstruction of the Alvarado Hotel">
+<!-- 10 ---------------------------------------------------------------------- -->
+<section class="s-plate band-lg heavy"
+ data-background-image="images/vr-reconstruction.jpg"
+ data-background-size="cover"
+ data-background-position="center"
+ aria-label="A generated VR view splitting standing ruins from a fully rendered reconstruction, with an AI confidence score">
 
-<div class="pv-scene" markdown="0">
- <svg viewBox="0 0 1280 720" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Simulated camera view with a wireframe building reconstruction over a street">
- <defs>
- <linearGradient id="ar-sky" x1="0" y1="0" x2="0" y2="1">
- <stop offset="0%" stop-color="#1b2430"/>
- <stop offset="56%" stop-color="#3a3740"/>
- <stop offset="100%" stop-color="#6b4a36"/>
- </linearGradient>
- <linearGradient id="ar-ground" x1="0" y1="0" x2="0" y2="1">
- <stop offset="0%" stop-color="#241d18"/>
- <stop offset="100%" stop-color="#0c0a08"/>
- </linearGradient>
- </defs>
+AI-generated image
+{: .pv-eyebrow .terra}
 
- <!-- the camera view: sky, the Sandias, the street -->
- <rect x="0" y="0" width="1280" height="455" fill="url(#ar-sky)"/>
- <path d="M0 330 L120 296 L210 318 L330 268 L430 300 L540 254 L660 292 L790 262 L910 300 L1030 268 L1160 296 L1280 276 L1280 455 L0 455 Z"
- fill="#222731" opacity="0.8"/>
- <rect x="0" y="455" width="1280" height="265" fill="url(#ar-ground)"/>
- <path d="M430 455 L860 455 L1180 720 L110 720 Z" fill="#171310" opacity="0.5"/>
+## Ninety-four per cent confident. Of what?
 
- <!-- what is on the site today: the transportation center -->
- <g fill="#2b2620" opacity="0.92">
- <rect x="0" y="369" width="150" height="86"/>
- <rect x="1130" y="385" width="150" height="70"/>
- </g>
-
- <!-- ================= the reconstruction overlay =================
- Line weight carries the evidence and nothing here is a
- photograph: solid = documented, dashed = inferred from type,
- dotted = invented. The three chips below name each band. -->
-
- <!-- arcade: nine bays, solid, well documented in photographs -->
- <g stroke="#d4a84b" stroke-width="2" fill="none" opacity="0.96">
- <path d="M200 455 L200 397 A40 40 0 0 1 280 397 L280 455"/>
- <path d="M298 455 L298 397 A40 40 0 0 1 378 397 L378 455"/>
- <path d="M396 455 L396 397 A40 40 0 0 1 476 397 L476 455"/>
- <path d="M493 455 L493 397 A40 40 0 0 1 573 397 L573 455"/>
- <path d="M591 455 L591 397 A40 40 0 0 1 671 397 L671 455"/>
- <path d="M689 455 L689 397 A40 40 0 0 1 769 397 L769 455"/>
- <path d="M787 455 L787 397 A40 40 0 0 1 867 397 L867 455"/>
- <path d="M884 455 L884 397 A40 40 0 0 1 964 397 L964 455"/>
- <path d="M982 455 L982 397 A40 40 0 0 1 1062 397 L1062 455"/>
- <path d="M188 455 L1074 455"/>
- <path d="M188 369 L1074 369"/>
- <path d="M188 361 L1074 361"/>
- </g>
-
- <!-- second storey: inferred from what Mission Revival hotels did -->
- <g stroke="#de8466" stroke-width="1.8" fill="none" stroke-dasharray="9 6" opacity="0.92">
- <path d="M188 361 L188 275 L1074 275 L1074 361"/>
- <rect x="216" y="297" width="42" height="44"/>
- <rect x="314" y="297" width="42" height="44"/>
- <rect x="412" y="297" width="42" height="44"/>
- <rect x="509" y="297" width="42" height="44"/>
- <rect x="607" y="297" width="42" height="44"/>
- <rect x="705" y="297" width="42" height="44"/>
- <rect x="803" y="297" width="42" height="44"/>
- <rect x="900" y="297" width="42" height="44"/>
- <rect x="998" y="297" width="42" height="44"/>
- </g>
-
- <!-- roofline, towers, cupola: no surviving source -->
- <g stroke="#a89e90" stroke-width="1.6" fill="none" stroke-dasharray="2.5 5" opacity="0.8">
- <path d="M168 275 L216 231 L1046 231 L1094 275"/>
- <path d="M246 231 L246 165 L376 165 L376 231"/>
- <path d="M246 165 L311 121 L376 165"/>
- <path d="M886 231 L886 165 L1016 165 L1016 231"/>
- <path d="M886 165 L951 121 L1016 165"/>
- <path d="M574 231 L574 187 L688 187 L688 231"/>
- <path d="M574 187 L631 149 L688 187"/>
- </g>
-
- </svg>
-
- <span class="chip warn">Simulation · not a working app</span>
- <span class="chip solid pin-ar-arcade">Arcade · photographed</span>
- <span class="chip dashed pin-ar-windows">Windows · inferred</span>
- <span class="chip dotted pin-ar-roof">Roofline · no source</span>
- </div>
-
-Alvarado Hotel · 1902–1970
-{: .pv-eyebrow}
-
-## Solid is photographed. Dotted is invented.
-
-Simulated AR view, drawn for this talk. The line weight is the evidence, the way it is on an archaeological site plan.
+Both halves are generated — the "reality" on the left is not a photograph either. Nothing in the reconstruction is sourced to anything, and the number measures nothing at all.
 {: .pv-cap}
 
 <aside class="notes">
-**4:55–5:45**
+**6:35–7:30**
 
-Spend your time here. This is a drawing of a proposal, not a product — I would rather show an honest drawing than a dishonest render.
+Let them look before you say anything. Someone will read the panel out loud.
 
-The building is the Alvarado Hotel: Charles Whittlesey for the Santa Fe Railway, Mission Revival, the largest of the Harvey hotels, demolished in 1970 over citizen protest. Everyone in Albuquerque knows the hole where it was and almost nobody under sixty has stood inside it.
+What the picture promises is a clean split: measured fact on the left, reconstruction on the right, and a seam down the middle you can see. What it actually delivers is a single generated image in which both halves are invented, including the ruin. There is no survey behind the wall on the left and no source behind the roof beams, the plaster, the hanging corn, or the people on the right.
 
-Now point at the line weights. Solid gold is the arcade, which is extensively photographed. Dashed is the second storey, inferred from what buildings of this type did. Dotted is the roofline and the towers, where I would be inventing. The interface shows its own epistemics — and the confidence lives in the drawing convention, not in a disclaimer nobody reads.
+Then the number. Ninety-four per cent confident — of what, measured against what? A confidence score needs a ground truth to be a percentage of, and for a building nobody alive has stood inside there isn't one. It is a number with the grammar of evidence and none of the substance, and it is the most persuasive thing on the screen. If you remember one image from this talk, make it this one.
 
-Sources: Charles Whittlesey, Santa Fe Railway, Mission Revival, demolition 1970 — Wikipedia, "Alvarado Hotel." Confirm before presenting if any detail is load-bearing.
+The remedy is old and this field already owns it. Reconstruction drawings have distinguished extant fabric from conjecture for a century, with line weight and hatching. I have a drawn version of this for the Alvarado Hotel — solid for what is photographed, dashed for what is inferred from building type, dotted for what I would be inventing. It is less impressive and it is honest, and the discipline has to be in the drawing convention rather than in a disclaimer nobody reads.
+
+Sources: image generated with Google Gemini for this talk, September 2026. The panel's own claims — Aztec Ruins National Monument, Pueblo III — are the model's, not mine; do not repeat them as fact.
 {: .sources}
 </aside>
 </section>
 
-<!-- 10 ------------------------------------------------------------------ -->
-<section class="s-statement scrim-none" aria-label="The site is the deliverable, not the paper">
+<!-- 11 ---------------------------------------------------------------------- -->
+<section class="s-column scrim-none"
+ data-background-color="#100d0b"
+ aria-label="UNM Campus Histories">
 
+<div class="art" markdown="0"><img src="images/campus-hero.jpg" alt="UNM Campus Histories"></div>
+
+<div class="say">
 Teaching
 {: .pv-eyebrow}
 
-## The site is the deliverable. The paper never was.
+### Teach peer review
 
----
+When public scholarship is the default output, the possibilities and incentives change from day one: students write for readers, cite for strangers, and think about trust.
 
-When public scholarship is the default output rather than something translated out of a seminar paper afterwards, the incentives change on day one: students write for readers, cite for strangers, and design for someone arriving by search. **Research nobody can find is research that didn't happen.**
-{: .full}
-
-<aside class="notes">
-**5:45–6:25**
-
-Second focus: class projects and digital narratives.
-
-The usual arrangement is that a student writes a paper for one reader who is paid to finish it, and then, if the project is lucky, somebody translates it into something public afterwards. That afterwards almost never arrives.
-
-Invert it. Make the public artifact the assignment. The change in student behaviour is immediate and it is not subtle: they start asking who is going to read this, which is the question that makes all the other questions — about evidence, about structure, about what a stranger already knows — suddenly worth asking.
-
-The scale, if anyone wants it: in the first year this supported 14 courses and about 180 students, and nine collaborative class websites went live.
-</aside>
-</section>
-
-<!-- 11 ------------------------------------------------------------------ -->
-<section class="s-plate band-md heavy"
- data-background-image="images/campus-hero.jpg"
- data-background-size="cover"
- data-background-position="center"
- aria-label="UNM Campus Histories">
-
-UNM Campus Histories
-{: .pv-eyebrow}
-
-## A campus surveyed by the people who live in it.
-
-A multi-semester project. Each cohort builds on what the last one made, and the categories on the essay index were invented by students who needed to organize their own work.
+UNM Campus Histories — a multi-semester project. Each cohort builds on what the last one made.
 {: .pv-cap}
+</div>
 
 <aside class="notes">
-**6:25–6:57**
+**7:30–8:20**
 
-Students write the history of the buildings they walk through every day. It has run across many semesters and it accumulates, which is rare for coursework and is the feature instructors respond to most.
+Invert the usual arrangement. A student writes for one reader who is paid to finish it, and the public version, if the project is lucky, happens afterwards. That afterwards almost never arrives. Make the public artifact the assignment instead and they start asking who is going to read this — the question that makes every other question worth asking.
 
-The moment I like best: once the collection got large enough to browse, students needed categories — academic building, classroom building, public art, landscape. Nobody assigned that. Inventing a classification is preservation work whether or not you call it that, and they arrived at it because they had a practical problem.
+The moment I like best: once the collection got large enough to browse, students needed categories — academic building, classroom building, public art, landscape. Nobody assigned that. Inventing a classification is preservation work whether or not you call it that.
+
+The scale, if anyone wants it: 14 courses and about 180 students in the first year, nine collaborative class websites live.
 </aside>
 </section>
 
-<!-- 12 ------------------------------------------------------------------ -->
-<section class="s-statement scrim-none" aria-label="The knowledge is already in the community">
+<!-- 12 ---------------------------------------------------------------------- -->
+<section class="s-column scrim-none"
+ data-background-color="#100d0b"
+ aria-label="Oral Histories of Farming along the Middle Rio Grande">
 
+<div class="art" markdown="0"><img src="images/farming.jpg" alt="Oral Histories of Farming along the Middle Rio Grande"></div>
+
+<div class="say">
 Community storytelling
 {: .pv-eyebrow .terra}
 
-## The knowledge is already in the community.
+### The knowledge is already in the community.
 
----
+Farmers along the Middle Rio Grande hold knowledge about water, soil, and land use that exists in no document anywhere..
 
-Farmers along the Middle Rio Grande hold knowledge about water, soil, and land use that exists in no document anywhere. Two courses — qualitative methods and local food systems — went and asked. The site is where what they said becomes **citable**.
-{: .full}
-
-<aside class="notes">
-**6:57–7:37**
-
-Third focus: community storytelling, and the word that matters in it is *authority*.
-
-The default posture of a university project is that the community is the subject of the research. The posture here is that the community is a source of authority in it. Practically that means the farmer's account of how the ditch worked is evidence, held and published under their name, and the students' job is to make it findable and quotable rather than to summarize it into a paper.
-
-It also means cross-course collaboration, which is administratively annoying and pedagogically excellent: two sets of students with different methods training on the same material.
-</aside>
-</section>
-
-<!-- 13 ------------------------------------------------------------------ -->
-<section class="s-plate band-md heavy"
- data-background-image="images/farming.jpg"
- data-background-size="cover"
- data-background-position="center"
- aria-label="Oral Histories of Farming along the Middle Rio Grande">
-
-What actually changed
-{: .pv-eyebrow}
-
-## Draft transcripts in days, not months.
-
-Transcription used to be the budget line that killed the project. It is now the cheap part — and the part that needs checking hardest, because machines mangle names, Spanish, and every term specific to a place.
+Is this a conversation or an archive?
 {: .pv-cap}
+</div>
 
 <aside class="notes">
-**7:37–8:09**
+**8:20–9:10**
 
-Be concrete and be honest here, because this is the clearest case in the talk of the cost moving rather than disappearing.
+The word that matters here is authority. The default posture of a university project is that the community is the subject of the research. The posture here is that the community is a source of authority in it.
 
-Draft transcripts for a whole collection in days instead of months is a real change in what is attemptable: an undergraduate class can now take on a collection that used to need a grant. But the drafts are wrong in exactly the places that matter most — proper nouns, Spanish, local place names, irrigation vocabulary.
-
-So the labour did not vanish. It moved toward deciding what a collection means and who gets to say so, which is the part we actually wanted students doing.
+Then be honest about what AI changed and what it did not. Draft transcripts for a whole collection in days is a real change in what is attemptable — an undergraduate class can now take on a collection that used to need a grant. But the drafts are wrong in exactly the places that carry the meaning: proper nouns, Spanish, local place names, irrigation vocabulary. The labour did not vanish. It moved toward deciding what a collection means, which is the part we wanted students doing.
 </aside>
 </section>
 
-<!-- 14 ------------------------------------------------------------------ -->
-<section class="s-statement scrim-none" aria-label="Not everything belongs in the nearest tool">
+<!-- 13 ---------------------------------------------------------------------- -->
+<section class="s-column scrim-none"
+ data-background-color="#100d0b"
+ aria-label="Farmer profiles, each crediting the narrator, the interviewer and the authors">
 
+<div class="art" markdown="0"><img src="images/farmer-profiles.jpg" alt="Farmer profiles, each crediting the narrator, the interviewer and the authors"></div>
+
+<div class="say">
 Stewardship
 {: .pv-eyebrow .terra}
 
-## Not everything belongs in the nearest tool.
+### Do human voice matter more?
 
----
+Every profile credits the farmer, the student who ran the interview, and the students who wrote it up, the instructor who guided the class.
 
-Community oral histories, Indigenous collections, unpublished archives: the material that most rewards this work is exactly the material you cannot paste into whatever service happens to be open. Before anything is uploaded we ask who has a stake in it, what the permissions actually cover, and which tool fits — including keeping it on a machine in the room. **That conversation is the method, not the paperwork.**
-{: .full}
+Can AI tools cite this?
+{: .pv-cap}
+</div>
 
 <aside class="notes">
-**8:09–8:52**
+**9:10–10:00**
 
 This is the question I get asked least and should be asked most, so I put it in unprompted.
 
-The uncomfortable fact: the collections where AI would help the most are the ones with the strongest claims against casual processing. A community's oral histories are not a dataset. Somebody trusted a student with them.
+The uncomfortable fact: the collections where AI would help most have the strongest claims against casual processing. A community's oral histories are not a dataset. Somebody trusted a student with them. Consent to be interviewed is not consent to be uploaded. Sometimes the answer is that we do it slower, by hand — saying that out loud is the only thing that makes the rest of the policy credible.
 
-So the rule in the studio is that nothing sensitive goes up before a conversation about who has a stake, what the consent actually covered — consent to be interviewed is not consent to be uploaded — and whether the work can be done on a local machine instead. Sometimes the answer is that we do it slower, by hand. That is a legitimate outcome, and saying so out loud is the only thing that makes the rest of the policy credible.
+Then point at the credit block on each card. Three names on every entry: the farmer, the student who did the interview, the students who wrote the profile. Nobody here is a data source. It costs nothing to build and it changes what the project is.
 </aside>
 </section>
 
-<!-- 15 ------------------------------------------------------------------ -->
-<section class="s-plate band-md heavy"
- data-background-image="images/farmer-profiles.jpg"
- data-background-size="cover"
- data-background-position="center"
- aria-label="Farmer profiles, each crediting the narrator, the interviewer and the authors">
 
-Farmer profiles
-{: .pv-eyebrow}
+<!-- 15 ---------------------------------------------------------------------- -->
+<section class="s-plate band-lg scrim-none"
+ data-background-color="#100d0b"
+ aria-label="Five 3D-printed medieval capitals on a table">
 
-## Narrator, interviewer, author — all named.
-
-Every profile credits the farmer, the student who ran the interview, and the students who wrote it up. Attribution is the visible half of stewardship; the rest happens before the recorder goes on.
-{: .pv-cap}
-
-<aside class="notes">
-**8:52–9:22**
-
-Point at the credit block on each card, because this is the part people miss.
-
-Three names on every entry: the farmer, the student who did the interview, the students who wrote the profile. Nobody here is a data source. The farmer is an author of the record, the students are visible for work that usually disappears into a grade, and anyone citing this knows exactly whose account they are citing.
-
-It costs nothing to build and it changes what the project is.
-</aside>
-</section>
-
-<!-- 16 ------------------------------------------------------------------ -->
-<section class="s-statement scrim-none" aria-label="Xanthan: every part of a page has a name">
-
-Infrastructure
-{: .pv-eyebrow}
-
-## Every part of a page has a name.
-
----
-
-All of this runs on Xanthan: plain text files, Jekyll, GitHub Pages — free to host, nothing to renew, and no vendor who can raise the rent or switch it off. Naming the parts is what lets an AI change *one thing* instead of rewriting the site, and what lets a student see exactly what changed. **A project that outlives its funding is a preservation decision taken on day one.**
-{: .full}
-
-<aside class="notes">
-**9:22–10:05**
-
-This is the piece that makes the rest of the talk reproducible rather than a story about one lucky studio, so give it a moment.
-
-Two claims. First, durability: plain text on open standards means a project outlives its grant cycle and its author's interest. Some of the sites in the gallery you're about to see have not been touched in years and still work.
-
-Second, and this is the one I care about: the framework is built out of named parts. That constraint is what makes AI assistance safe to hand to a nineteen-year-old. You ask for a change to one named block, you get a change to one named block, and you can see it in the diff. The failure mode of AI web work — ask for a tweak, get a plausible rewrite of everything — is designed out at the level of the building blocks rather than patched at the level of the prompt.
-</aside>
-</section>
-
-<!-- 17 ------------------------------------------------------------------ -->
-<section class="s-plate band-md heavy"
- data-background-image="images/xanthan-gallery.jpg"
- data-background-size="cover"
- data-background-position="center"
- aria-label="A gallery of websites built with Xanthan">
-
-xanthan-web.github.io
-{: .pv-eyebrow}
-
-## All of it is plain text underneath.
-
-Course archives, oral history collections, digital exhibits, scrolling narratives, mapped directories, annual reports — every one of these is a real site made by UNM students and faculty.
-{: .pv-cap}
-
-<aside class="notes">
-**10:05–10:35**
-
-A fast slide: the range is the argument. These are not demos. Each one is a working site with an author who can still edit it, and the whole set is one framework and one set of named parts underneath.
-
-If you want the practical version of my research question — where does judgment have to sit — this is my answer in infrastructure form. Put the building blocks where a person can see and name them, and the machine can help with the assembly.
-</aside>
-</section>
-
-<!-- 18 ------------------------------------------------------------------ -->
-<section class="s-statement scrim-none" aria-label="3D pedagogy: put it back in a hand">
-
-3D pedagogy
-{: .pv-eyebrow}
-
-## Scan it — then put it back in a hand.
-
----
-
-We printed five medieval capitals from Scan the World's collection. Set them on a table and the Romanesque-to-Gothic transition stops being a claim in a textbook: it becomes something you see by *turning two objects*. Scanning is the middle of the pipeline, not the end of it.
-{: .full}
-
-<aside class="notes">
-**10:35–11:12**
-
-A short detour into 3D, because it is the same argument in a different material.
-
-The files are free and public — Scan the World hosts scans from museum collections. Printing five of them costs almost nothing. What you get for that is a comparison a student can make with their hands, and the print quality is limited by the scan in ways that are themselves worth discussing in class.
-
-The point for this talk: a digitized object that stays on a screen is a photograph with extra steps. The pedagogical value shows up when it comes back out into the room.
-
-The partnership version of this: students have been scanning artifacts at UNM's Maxwell Museum and documenting the workflow so the next person can repeat it, and student researchers have taken 3D printing into high school history classrooms. An undocumented digitization is a one-off, not infrastructure.
-</aside>
-</section>
-
-<!-- 19 ------------------------------------------------------------------ -->
-<section class="s-plate band-md heavy"
- data-background-image="images/capitals-poster.jpg"
- data-background-size="cover"
- data-background-position="center"
- aria-label="The Capitals poster from Amaranth's 3D pedagogy work">
+<div class="pv-scene" markdown="0">
+ <img src="images/capitals-prints.jpg" alt="Five 3D-printed medieval capitals in different filaments, laid out on a white table">
+</div>
 
 Amaranth · 3D pedagogy
 {: .pv-eyebrow}
 
-## The objects on a table, with the argument printed beside them.
+## Scan it — then put it back in a hand.
 
-Capitals poster, Amaranth studio. Five prints from Scan the World, Romanesque to Gothic, each captioned with its date and the museum that holds the original.
+We printed five medieval capitals from Scan the World. Set them on a table and the Romanesque-to-Gothic transition stops being a claim in a textbook: it becomes something you see by *turning two objects*.
 {: .pv-cap}
 
 <aside class="notes">
-**11:12–11:42**
+**10:50–11:10**
 
-The poster exists because the objects on their own do not teach. Five lumps of grey filament on a table are five lumps of grey filament until something tells you what to look at.
-
-So the poster is the contextualizing layer: dates, the church or museum each capital came from, and the specific features that mark the shift. It hangs in the studio next to the prints, and the two together are the lesson. The tone is also deliberate — a poster nobody stops at is a poster that failed.
+Scanning is the middle of the pipeline, not the end of it. The partnership version: students have been scanning artifacts at UNM's Maxwell Museum and documenting the workflow so the next person can repeat it, and student researchers have taken 3D printing into high school history classrooms. An undocumented digitization is a one-off, not infrastructure.
 </aside>
 </section>
 
-<!-- 20 ------------------------------------------------------------------ -->
+<!-- 16 ---------------------------------------------------------------------- -->
+<section class="s-column scrim-none"
+ data-background-color="#100d0b"
+ aria-label="The 3D Capitals poster">
+
+<div class="art" markdown="0"><img src="images/capitals-poster.jpg" alt="The 3D Capitals poster"></div>
+
+<div class="say">
+Amaranth · 3D pedagogy
+{: .pv-eyebrow}
+
+### Then tell people what to look at.
+
+The poster is the contextualising layer — the digitizing workflow, the feature-by-feature comparison, and the museum that holds each original.
+</div>
+
+<aside class="notes">
+**11:10–11:40**
+
+Five lumps of grey filament on a table are five lumps of grey filament until something tells you what to look at. That is what the poster is for, and it hangs in the studio beside the prints.
+
+The tone is deliberate too. A poster nobody stops at is a poster that failed.
+</aside>
+</section>
+
+<!-- 17 ---------------------------------------------------------------------- -->
 <section class="s-statement scrim-none" aria-label="Speculative fiction as a classroom exercise">
 
 Speculative fiction
@@ -709,11 +491,11 @@ Speculative fiction
 
 ---
 
-The most useful exercise I have found puts all of this together: have a model generate a landscape, a building, a settlement — something plausible and wholly invented — and then argue about it. The image is not the assignment. **The argument is the assignment.**
+The most useful exercise I have found puts all of this together: have a model generate a landscape, a building, a settlement — something plausible and wholly invented — and then argue about it. **Practice the methods of AI critique**.
 {: .full}
 
 <aside class="notes">
-**11:42–12:25**
+**11:40–12:30**
 
 Last section, and it combines everything: the research question, the reconstruction problem, and the classroom.
 
@@ -723,9 +505,9 @@ The move is to generate something that could not be a photograph of anywhere, ha
 </aside>
 </section>
 
-<!-- 21 ------------------------------------------------------------------ -->
+<!-- 18 ---------------------------------------------------------------------- -->
 <section class="s-plate band-lg"
- data-background-image="images/cliff-model.jpg"
+ data-background-image="images/ai-mesa-verde.jpg"
  data-background-size="cover"
  data-background-position="center"
  aria-label="An AI-generated model landscape of cliff dwellings">
@@ -739,7 +521,7 @@ A generated model landscape of cliff dwellings. No site, no survey, no scale. St
 {: .pv-cap}
 
 <aside class="notes">
-**12:25–13:30**
+**12:30–13:40**
 
 Put it up and let the room work on it for a moment before you say anything. Say clearly that it is AI-generated — after the last two slides it would be absurd not to.
 
@@ -749,29 +531,30 @@ A student who knows the Southwest will get to "the siting is wrong" fast. Gettin
 </aside>
 </section>
 
-<!-- 22 ------------------------------------------------------------------ -->
+<!-- 19 ---------------------------------------------------------------------- -->
 <section class="s-statement scrim-none" aria-label="Closing: the complaint is the lesson">
 
-The point
+The questions
 {: .pv-eyebrow}
 
-## The complaint is the lesson.
+## These slides are AI-generated
 
 ---
+But what does that mean? Do you believe it?
 
-"None of this is real" is exactly the response the exercise is built to produce — and usually the first time a student has had to say precisely *why* it isn't, and what evidence would settle it. That is the skill I am trying to teach, and it transfers to every other confident thing a machine hands them.
+Does AI use matter when carefully mediated? 
+
+Does AI use matter, or AI credentials?
 {: .full}
 
 <div class="cap-row">
 Fred Gibbs · fredgibbs.net · amaranth.unm.edu
 {: .pv-cap}
 
-Department of History & Amaranth, University of New Mexico
-{: .pv-cap}
 </div>
 
 <aside class="notes">
-**13:30–15:00**
+**13:40–15:00**
 
 Land it and stop.
 

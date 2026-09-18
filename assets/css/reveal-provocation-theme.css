@@ -70,6 +70,7 @@
  *   .s-quote      — Fraunces pull quote, for a cited voice
  *   .s-mock       — the AR mockup slide; see the deck for its structure
  *   .s-index      — a numbered three-across row of small items
+ *   .s-column     — a portrait artifact in its own column, words beside it
  *   .s-plate      — a picture with its words on the bottom edge, behind a
  *                   stripe sized to them (.band-md, .band-lg, .heavy). Drops
  *                   the corner ticks and keeps the sheet number: the picture
@@ -98,6 +99,7 @@
  *   .pv-scene     — a full-bleed SVG a plate draws in place of a photograph,
  *                   with .chip labels pinned onto it
  *   .num          — the index slide's "01 / GENERATE" item label
+ *   .risk         — an index item's second line: the cost of its first
  *
  * Size modifiers exist for headlines that need to break the type's default:
  * .xl .lg .sm on a heading, .long .short on a rule, .wide .full on a
@@ -550,8 +552,13 @@ html, body { background: var(--pv-bg-deep); }
 }
 .reveal .slides section.s-index .head { display: flex; flex-direction: column; gap: 20px; }
 .reveal .slides section.s-index .head h3 { font-size: 46px; letter-spacing: -0.02em; line-height: 1.02; }
-.reveal .slides section.s-index .row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 46px; align-items: start; }
-.reveal .slides section.s-index .item { display: flex; flex-direction: column; gap: 14px; }
+/* The items share one set of rows (subgrid), so label, headline, body and risk
+ * each start on a common line across all three. Stacked independently, one
+ * headline that wrapped to an extra line pushed only its own column down, and
+ * the risk rules stepped out of line with each other. */
+.reveal .slides section.s-index .row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px 46px; }
+.reveal .slides section.s-index .item { display: grid; grid-row: span 3; grid-template-rows: subgrid; gap: 14px; }
+.reveal .slides section.s-index .row:has(.risk) .item { grid-row: span 4; }
 .reveal .slides section.s-index .item .num {
 	font-family: var(--pv-mono);
 	font-size: 12.5px;
@@ -561,8 +568,60 @@ html, body { background: var(--pv-bg-deep); }
 	border-bottom: 1px solid var(--pv-line-bright);
 	max-width: none;
 }
+/* An index item can carry a second line that is the cost of the first. The
+ * terracotta rule marks the turn, so the pair reads as claim and consequence
+ * rather than as two facts. */
+.reveal .slides section.s-index .item p.risk {
+	color: var(--pv-text);
+	margin-top: 4px;
+	padding-top: 12px;
+	border-top: 1px solid var(--pv-sienna);
+}
 .reveal .slides section.s-index .item h4 { font-size: 30px; line-height: 1.04; letter-spacing: -0.02em; }
 .reveal .slides section.s-index .item p { font-size: 16.5px; line-height: 1.5; color: var(--pv-muted); max-width: none; }
+
+/* --------------------------------------------------------- tall artifacts */
+
+/* A thing that is taller than it is wide — a portrait poster, a long page —
+ * set in its own column with the slide's words beside it rather than under
+ * them. The picture column takes the width that is left after the text column,
+ * and the artifact is fitted by height inside it.
+ *
+ * Reach for this only when the artifact really is portrait. A 16:9 slide is
+ * 720 tall, so a column can never make a picture bigger — it can only make it
+ * narrower, and a web page fitted into a 420px column renders its body text at
+ * about five pixels, which is a texture rather than a page. For anything that
+ * fills a 16:9 frame, .s-plate is still the right type. */
+.reveal .slides section.s-column {
+	grid-template-columns: 1fr 400px;
+	gap: 56px;
+	align-items: center;
+	align-content: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.reveal .slides section.s-column .art {
+	height: 640px;
+	display: grid;
+	place-items: center;
+}
+/* Size by height, not by a max-* pair: a percentage max-height against a grid
+ * area is unreliable here, and the image silently took the column's full width
+ * and ran off the bottom of the sheet. An explicit height keeps the shadow
+ * hugging the artifact rather than a letterboxed box. */
+.reveal .slides section.s-column .art img {
+	height: 640px;
+	width: auto;
+	display: block;
+	box-shadow: 0 30px 74px rgba(0, 0, 0, 0.66);
+}
+/* The text column carries the claim, not just a caption: a website slide is
+ * one slide now, so the argument that used to have a statement slide to itself
+ * sits here beside its evidence. */
+.reveal .slides section.s-column .say { display: flex; flex-direction: column; gap: 20px; }
+.reveal .slides section.s-column .say h3 { font-size: 34px; letter-spacing: -0.02em; line-height: 1.06; }
+.reveal .slides section.s-column .say p { font-size: 18px; line-height: 1.5; max-width: none; }
+.reveal .slides section.s-column .say .pv-cap { max-width: none; }
 
 /* ------------------------------------------------------- browser frame */
 
@@ -782,13 +841,17 @@ html, body { background: var(--pv-bg-deep); }
 	z-index: -2;
 	overflow: hidden;
 }
-.reveal .slides section.s-plate .pv-scene svg {
+.reveal .slides section.s-plate .pv-scene svg,
+.reveal .slides section.s-plate .pv-scene img {
 	position: absolute;
 	inset: 0;
 	width: 100%;
 	height: 100%;
 	display: block;
 }
+/* A scene can also be a composed photograph — two plates set side by side for
+ * comparison, say — with the chips naming which is which. */
+.reveal .slides section.s-plate .pv-scene img { object-fit: cover; }
 
 /* Confidence chips pinned onto a scene, in the drawing-key convention the
  * .pv-key legend spells out: solid documented, dashed inferred, dotted
@@ -816,3 +879,5 @@ html, body { background: var(--pv-bg-deep); }
 .reveal .slides section.s-plate .pv-scene .chip.pin-ar-arcade  { left: 96px;  top: 425px; }
 .reveal .slides section.s-plate .pv-scene .chip.pin-ar-windows { right: 96px; top: 311px; }
 .reveal .slides section.s-plate .pv-scene .chip.pin-ar-roof    { left: 398px; top: 175px; }
+.reveal .slides section.s-plate .pv-scene .chip.pin-moon-left  { left: 178px; top: 476px; }
+.reveal .slides section.s-plate .pv-scene .chip.pin-moon-right { left: 672px; top: 476px; }

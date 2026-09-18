@@ -125,36 +125,33 @@ rather than reusing stale ones. Caption an AI-generated image as AI-generated,
 on the slide, in a `.pv-cap`. In a talk that argues about machine fabrication,
 an unlabelled generated image is a hole in your own argument.
 
-**Capture a screenshot at 1600x1200, not at the slide's size.** A page shot at
-a 1000px viewport and shown full-bleed on a 1280px slide is magnified 1.28x:
-its nav is enormous, and the part of the page you wanted runs off the bottom
-of the slide. Shoot the site's *desktop* layout at a viewport wider than the
-slide, take a tall slice of it, and set that on the theme ground:
+**Capture a page with `scripts/deck-shot.sh`, not with `--window-size`.**
 
 ```sh
-CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-"$CHROME" --headless=new --disable-gpu --hide-scrollbars \
-  --force-device-scale-factor=2 --window-size=1600,1200 \
-  --virtual-time-budget=9000 --screenshot=page.png "https://example.org/"
+scripts/deck-shot.sh images/name.jpg "https://example.org/" 1900 0
 ```
 
-Then frame it — a 960x540 box at `background: #1c1814`, the shot as an `<img>`
-inset 12px from the top at `height: 528px; width: auto`, centred — and shoot
-that box at `--force-device-scale-factor=2` for a 1920x1080 plate.
+Two things that flag, and nothing else, gets right:
 
-1600 is the width to hold: below about 1400 a responsive site collapses to its
-tablet layout, which is a different site than the one you are talking about.
-The height is how much page you get, and 900 is not much — shoot **1600x1200**
-and set the result on the theme ground inside the 16:9 frame at its own
-proportions, rather than filling the slide with it. The page then lands at
-roughly 0.6x with its own margins showing, and reads as *a website* instead of
-a page you are standing inside. Full-bleed is for photographs, not for pages.
+*The viewport must stay one normal screen.* These sites give their heroes
+`min-height: 100vh`, so `--window-size=1400,1900` makes the hero 1900 tall and
+the rest of the page never appears at all. The script drives Chrome over the
+DevTools protocol with the layout viewport pinned at 1400x900 and
+`captureBeyondViewport`, so `100vh` still means one screen while the shot
+extends below it. There is no Chrome flag for this.
 
-Deliver every image at 1920x1080 for the same reason: reveal re-crops anything
-that isn't 16:9, silently and from the centre, which is never where the
-interesting part is. `sips --cropOffset` does not fix this — it is accepted and
-ignored. Compose crops in headless Chrome instead, with the image as a
-`background` on a 16:9 box.
+*The shape is a poster, not a page.* 1400x1900 is the proportion of the
+capitals poster (0.74), which is what reads well in an `.s-column` — about
+472px wide beside its text. **Do not capture the whole scroll height.** These
+pages run three to six screens, so the full page lands between 0.25 and 0.49
+and comes out 160-310px wide: a ribbon, not an artifact. The fourth argument
+scrolls, for pages whose top is not the part worth showing.
+
+Deliver plates (`.s-plate`) at 1920x1080 instead: reveal re-crops anything that
+isn't 16:9, silently and from the centre, which is never where the interesting
+part is. `sips --cropOffset` does not help — it is accepted and ignored.
+Compose those crops in headless Chrome, with the image as a `background` on a
+16:9 box.
 
 **Check every claim about a real building, person, or quotation**, and put the
 source in the notes under a `{: .sources}` line. Conference audiences contain

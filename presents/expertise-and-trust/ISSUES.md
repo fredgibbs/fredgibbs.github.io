@@ -2,18 +2,19 @@
 
 Excluded from the build. Notes for whoever picks this deck up next.
 
-## MemoryTour is a guess
+## Image attribution to confirm
 
-Nothing called MemoryTour exists in any repo on this machine, so slide 07's
-scene was drawn from what the name and the surrounding work imply: oral
-history indexed by place, a walking route with numbered stops, a card holding
-one recording and its unchecked draft transcript.
+The printing-house engraving on slide 03 (`images/printing-house.jpg`) came
+from the Amaranth header library with no recorded credit. The detail is
+consistent burin work, not a generated pastiche, but the exact plate is
+unidentified — it resembles the printing-house scene from Stradanus's *Nova
+Reperta* (c. 1600) without being confirmed as it. The caption claims nothing
+about artist or date for that reason. Identify it before publishing the deck,
+or swap in a plate with a known source.
 
-**If that is wrong, the fix is in the SVG on slide 07, not in the theme.** The
-map, the route, the stops and the card are all plain shapes in the deck's own
-`.pv-scene` block. The speaker note already tells you to cut to the live demo
-here if there is one; if there is, a screenshot is better than a drawing and
-this scene should go.
+Slide 04 is settled: Joseph Wright of Derby, *An Experiment on a Bird in an
+Air Pump*, 1768, National Gallery, London. Downloaded from Wikimedia Commons,
+which records it as public domain; the credit is in the speaker note.
 
 ## Claims to confirm before presenting
 
@@ -46,24 +47,49 @@ this scene should go.
 
 ## Images
 
-Every plate is 1920x1080, so reveal never re-crops one. Sites are shot at a
-1600x1200 viewport and set on the theme ground at their own proportions, so a
-slide shows a page with its own margins instead of a magnified fragment. The
-script and the reasoning are in `presents/AGENTS.md`. Sources:
+Websites are captured with `scripts/deck-shot.sh` at **1400x1900** — the
+capitals poster's proportion — and set in an `.s-column` beside their text.
 
-- `sketchbook.jpg` — local build, `/ai-sketchbook/research/`
-- `amaranth-home.jpg` — local build of amaranth-unm.github.io
-- `campus-hero.jpg` — live, https://amaranth.unm.edu/campus-history/
-- `farming.jpg` — live, https://oral-histories-mrg.github.io/oral-histories-of-farming/
-- `xanthan-gallery.jpg` — the card grid from amaranth's `/websites/gallery`,
-  windowed out of a full-page capture at the same viewport
-- `farmer-profiles.jpg` — live, the farmer-profiles page of the Rio Grande site
-- `capitals-poster.jpg` — the poster's top band only, at 80% on the theme
-  ground, so the stripe never lands on the poster's own body text
-- `sandia.jpg`, `cliff-model.jpg` — not screenshots; left at their own size
+Two findings behind that, both worth not re-learning:
 
-The two remote sites cannot be rebuilt locally, so re-shooting them needs
-network access.
+**The viewport has to stay 900 tall.** These sites size their heroes in `vh`,
+so capturing at `--window-size=1400,1900` made the hero 1900 tall and showed
+nothing else. The script pins the layout viewport at 1400x900 over CDP and
+captures beyond it. An earlier round of these images has the giant-hero bug;
+anything captured with a plain `--window-size` will too.
+
+**The whole page is the wrong unit.** Real heights at a 900px viewport:
+
+| page | full height | screens | ratio | width at 640 tall |
+|---|---|---|---|---|
+| Oral histories (farming) | 2,864 | 3.2 | 0.49 | 313px |
+| AI Sketchbook | 2,942 | 3.3 | 0.48 | 306px |
+| Farmer profiles | 3,390 | 3.8 | 0.41 | 264px |
+| Campus Histories | 3,464 | 3.8 | 0.40 | 259px |
+| Xanthan gallery | 3,616 | 4.0 | 0.39 | 249px |
+| Amaranth home | 5,609 | 6.2 | 0.25 | 160px |
+| capitals poster | 1,827 | — | **0.77** | **490px** |
+
+A page is only poster-shaped for its first screen and a half. (An earlier
+version of this table gave the gallery as 12,630 tall and the Amaranth home as
+16,000 — those were the `vh` bug measuring itself, not real heights.)
+
+`xanthan-gallery` (y=700) and `farmer-profiles` (y=800) use a scroll offset:
+the top of those pages is not the part worth showing. `campus-hero`, `farming`
+and `farmer-profiles` come from the live sites and cannot be rebuilt locally.
+`galileo-moons` is a composite: the Moon plate from the Venice first edition
+(Baglioni, 1610 — Smithsonian Libraries copy, Internet Archive
+`Sidereusnuncius00Gali`, leaf 22) beside the same plate from the Frankfurt
+piracy (Palthenius, 1610 — Boston Public Library copy, Internet Archive
+`sidereusnunciusm00gali_0`, leaf 20), cropped square on each moon and set on
+the theme ground. Both 1610 printings are public domain. The edition history
+and the upside-down woodcuts are from Linda Hall Library, "The Face of the
+Moon," section B. `printing-house.jpg` is the image this slide used before and
+is now unused — keep it or delete it.
+
+`capitals-poster` is downscaled from the 10800x14100 export at
+`~/Desktop/8-20-stash/Capitals Poster 4.png`. `sandia` and `cliff-model` are
+not screenshots.
 
 ## Deck grammar
 
