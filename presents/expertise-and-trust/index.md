@@ -18,7 +18,7 @@ September 28, 2026
 # Expertise and Trust in Humanities AI
 {: .xl}
 
-What AI changes about humanities research, and how might recalibrates trust.
+What AI changes about humanities research, and how it recalibrates trustwork.
 
 <div class="foot">
 
