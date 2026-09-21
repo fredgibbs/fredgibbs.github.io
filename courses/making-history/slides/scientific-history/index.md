@@ -236,7 +236,7 @@ In English the two promises read almost alike, but that is the work of two diffe
 </div>
 <div class="takehome fragment" data-fragment-index="2" markdown="1">
 
-###### Why the rest of the hour is Ranke
+###### Why the rest of today is Ranke
 {: .label}
 
 Only one of these can be handed to somebody else. A footnote convention and a seminar can be exported to Tokyo, Baltimore and Paris; **"supply the connections yourself" cannot be taught, examined, or failed.**

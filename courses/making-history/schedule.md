@@ -231,6 +231,7 @@ The subjects of history changed in the middle of the twentieth century, largely 
 ### 6.1: Social History — History From Below
 Professional history mostly wrote about elites — kings, statesmen, great thinkers. The historians in this session decided that was a serious problem and started looking for everyone else: workers, women, communities whose histories were preserved in memory rather than archives. What makes this methodologically interesting isn't just new topics — it's the argument that the sources themselves need to change.
 
+<!-- - Slides of [History From Below](slides/history-from-below/) -->
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 1: "The History of Whom?", 10--44. Maza presents a clear overview of social history — where it came from, what it changed, and what debates it opened.
 - 📜 E.P. Thompson, *The Making of the English Working Class* (1963), Preface and Chapter 1, 1--25. Thompson's famous preface argues that ordinary people make their own history and deserve to be "rescued from the enormous condescension of posterity."
 - 📜 Jan Vansina, *Oral Tradition as History* (1985), Ch. 1:  1--13; 27--31. Vansina argues that oral tradition is not myth or folklore but systematic historical evidence — and that African history, much of which was preserved orally, deserves the same respect as written archives. A direct challenge to the Week 4 professionalization story. Read for the core methodological argument; you don't need to follow the specific African examples in detail.
@@ -257,7 +258,7 @@ What if gender isn't just a topic (the history of women) but a lens for seeing h
 
 
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+This week's [reading refraction](reading-refractions) (and please remind yourself of the requirements and expectations if you haven't seen them for a while) is due by midnight on Canvas. As always, **your job is to show your engagement with course material**. Draw on the readings *and* our discussions this week --- and don't provide literal answers to the discussion questions above. 
 "%}
 
 ## 7: Scales of History

@@ -14,6 +14,10 @@ LC_ALL=en_US.UTF-8 bundle exec jekyll build
 
 `bash scripts/a11y.sh` runs the accessibility audit (see `README.md`).
 
+`scripts/slide-words.py <deck>/index.md` checks a lecture deck against the
+word budgets in `courses/SLIDE-STYLE.md` and exits non-zero if anything is over
+its hard stop. Run it on a finished deck before the browser pass.
+
 `scripts/ocr-pdf.swift` OCRs a scanned course reading that has no text layer,
 so a quotation or page number can be checked with `grep` instead of by reading
 page images. Cache the output beside the PDF, never in this repo — see "Cache

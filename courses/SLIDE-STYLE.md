@@ -135,6 +135,24 @@ finished — and a reader who needs the connection is better served by six words
 repeated than by being sent somewhere. If a disclosure matters, put it where
 the problem is, not where you promise it will be.
 
+**Don't call the class meeting "the hour."** The recurring furniture slides
+attract a particular tic: locating the session in time and space instead of
+naming it. "Where this hour sits," "where the hour went," "where this lands,"
+"the rest of the hour." It reads as writerly, it is one more thing the room has
+to decode, and it dates the slide to a delivery that may run fifty minutes or
+seventy-five. Say **today**:
+
+| Instead of | Write |
+|---|---|
+| Where this hour sits | **Today in context** |
+| Where the hour went | a headline naming what the three parts *were* |
+| Discussion · where this lands | **Answer · part one** |
+| Why the rest of the hour is Ranke | Why the rest of today is Ranke |
+
+This is about text on slides, not about how this file talks. The throughline
+and arc slides are the usual offenders because their eyebrows get written once
+and copied forward; `annales-longue-duree` has the right versions of both.
+
 **Cross-references stay, but flatten them to a pointer.** References backward
 and forward are worth making — they are most of what makes a survey course
 cohere. What they should not be is staged. Write `Compare Voltaire in 4.1.` or
@@ -251,14 +269,61 @@ to 675. The `.reveal-block` held roughly steady across all four (323, 326, 358,
 362), so it is specifically the takeaway that inflated, in a theme whose own CSS
 calls it "the pithy takehome line."
 
-The budgets:
+That rule worked where it was applied. Re-measured, `marx-structural-history`
+now runs a median `.takehome` of 20 words and `annales-longue-duree` 13. What
+it did not cover is every other paragraph on a slide, and those are where the
+length went instead.
 
-- **`.takehome` — about 200 characters, one or two sentences.** It is the
-  sentence you want said back to you next week. If it carries a second idea,
-  it is two takehomes, and one of them is really a `.reveal-block`.
-- **`.reveal-block` — about 350 characters, three sentences.** Enough for a
-  claim, the evidence for it, and what it commits you to. Not enough for the
-  qualification you thought of afterwards.
+**The budgets, in words.** Count words, not characters — a character budget is
+not a thing you can hold in your head while writing a sentence, so in practice
+nobody checks it. These numbers are the same budgets as before at roughly six
+characters a word, extended to the containers that never had one:
+
+| Container | Target | Hard stop | It is |
+|---|---|---|---|
+| `.takehome` | **30 words** | 40 | one or two sentences |
+| `.reveal-block` | **55 words** | 70 | three sentences |
+| `.image-notes` bullet | **40 words** | 50 | lead, elaboration, question |
+| caption describing a picture | **40 words** | 55 | two lines and a credit |
+| caption introducing a person | **80 words** | 90 | bio, `why`, credit (~500 chars) |
+| `.detail` | **30 words** | 40 | one sentence under a headline |
+| `.main-point` headline | **14 words** | 18 | a claim, no explanatory tail |
+
+The two caption rows are split by **job, not by tag**. A caption is an
+introduction when it carries a `<span class="why">` line — usually the rail of
+a `figure.portrait`, but a small landscape photograph can introduce someone
+too, and then it gets the larger budget. Every other caption says what the
+picture is and makes one point, and gets the smaller one.
+
+Where the uncovered ones stand now, median words per deck, oldest to newest:
+the `figcaption` `<em>` ran 68 in `divine-power-and-statecraft`, 53 in
+`scientific-history`, 49 in `enlightenment-progress-2`, 59 in
+`marx-structural-history`, **69** in `annales-longue-duree` — no improvement
+across five decks, and the newest is the longest. Note bullets run 39 to 57 on
+the same decks. Both are roughly **half again over** the targets above, and
+neither has ever been measured before now.
+
+**Length is the register problem.** The vocabulary rules above are being
+followed — a scan of the recent decks for the usual tells ("isn't just X, it's
+Y", "crucially", "at stake", "delve") finds almost nothing. What still doesn't
+sound like `schedule.md` is the *shape*: a 69-word caption has room for a
+setup, a turn and a conclusion, so it acquires them, and three-beat prose reads
+as written-by-committee however plain its words are. The syllabus sentences the
+register rule holds up as models — "A direct challenge to the Week 4
+professionalization story" — are nine words and one clause. A caption at 40
+words can hold what the picture is plus one point. At 70 it is an essay set in
+type nobody can read, and it will sound like one.
+
+**Check the budget before the browser, with the deck's own numbers:**
+
+```sh
+scripts/slide-words.py courses/<course>/slides/<deck>/index.md
+```
+
+It prints every container over its target with a word count and the first few
+words, and exits non-zero if anything is over its hard stop. Run it on a
+finished deck the way you'd run a linter; overflow in the viewport and overflow
+in the register are the same defect caught at two different moments.
 
 How they inflate, in the order it happens. A block is written as a claim. Then
 a supporting quotation is dropped in whole, because it was already checked and
@@ -441,7 +506,7 @@ Otherwise a single-session deck (one class meeting, e.g.
    quietly underneath them. (A few older decks do this with an inline
    `style="font-size:0.5em"`; the class replaces that.)
 
-2. **Where this hour sits** — a `.throughline` slide: one question the course
+2. **Today in context** — a `.throughline` slide: one question the course
    keeps asking as the `.main-point`, and the answers given so far as
    `.answer.past` / `.answer.now` / `.answer.next`. See below. Each part after
    it opens by saying what the last part left unfinished.
@@ -526,7 +591,7 @@ opening slide, as a `.detail` line under the headline, not on a slide of its
 own. A deck whose parts each begin by saying what the last part left unfinished
 has the narrative arc; it does not need furniture to prove it.
 
-**`.throughline` — where the hour sits in the course.** One question the course
+**`.throughline` — today's place in the course.** One question the course
 keeps asking, with the answers so far: `.answer.past` for weeks already
 settled, `.answer.now` for today, `.answer.next` dashed, because next week is a
 promise and not yet a claim. It goes right after the title, and it is the one
@@ -796,6 +861,11 @@ worked example of all three.
 Check the deck actually builds: Jekyll's SCSS compile needs a UTF-8 locale,
 so build with `LC_ALL=en_US.UTF-8 bundle exec jekyll build` (or the project's
 usual serve command) rather than assuming a bare invocation will work.
+
+Run the word check first — `scripts/slide-words.py <deck>/index.md`. It is the
+cheapest of these passes and the one whose failures are invisible in a browser,
+because an over-long caption looks fine on screen and still sounds wrong in the
+room.
 
 Before opening a browser it is worth *measuring* rather than guessing: strip
 the tags from each `<section>` and compare its character count against a deck

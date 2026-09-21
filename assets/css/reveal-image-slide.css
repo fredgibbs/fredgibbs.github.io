@@ -234,8 +234,30 @@
 	font-style: italic;
 }
 
-/* Two or more images stacked in the image column of .image-notes. */
+/* Two or more images stacked in the image column of .image-notes. The column
+   had no height limit, so a tall portrait shot stacked under a landscape one
+   ran off the bottom of the fixed 960x700 slide and was clipped, silently and
+   with nothing in the source to warn you. Cap the stack and let each image
+   contain itself inside an equal row, so the pairing works whatever the two
+   aspect ratios are. */
 .reveal .image-notes .shots {
 	display: grid;
 	gap: 0.5em;
+	align-content: start;
+}
+
+/* The cap has to be an explicit length on the IMAGE. `max-height` on the
+   .shots grid plus `grid-auto-rows: minmax(0, 1fr)` looks like it should
+   distribute the space and does nothing: the grid's own height is
+   indefinite, so `1fr` resolves to the content size and the rows never
+   shrink. The slide box is a fixed 960x700 and .image-notes starts about
+   50px down, so two stacked shots plus the gap have roughly 640px to live
+   in — 310 each. */
+.reveal .image-notes .shots img {
+	max-height: 310px;
+	max-width: 100%;
+	width: auto;
+	margin: 0 auto;
+	display: block;
+	object-fit: contain;
 }
