@@ -8,6 +8,10 @@
  * to whoever is presenting, not sized to be read from the back row. One
  * image per slide; a second image gets its own slide.
  *
+ * `section.image-slide.bleed` is the cold-open form: no figure at all, the
+ * image handed to reveal as a slide background so it fills the whole screen,
+ * with only a licence line on it. Documented in full at the foot of this file.
+ *
  * `.image-notes` is the exception: a normal content slide (NOT
  * `.image-slide`) that sets a reduced copy of an image beside a list of
  * points about it — `<div class="image-notes">` holding an `<img>` and a
@@ -260,4 +264,93 @@
 	margin: 0 auto;
 	display: block;
 	object-fit: contain;
+}
+
+/* Full-bleed: the picture IS the screen
+ * -------------------------------------
+ * `section.image-slide.bleed` drops the figure entirely and hands the image
+ * to reveal as a slide background, which paints the whole viewport and so
+ * escapes the deck's 8% slide margin, the 1px border, the drop shadow and
+ * the caption block that `figure.landscape` reserves space for. Written as:
+ *
+ *   <section class="image-slide bleed"
+ *    data-background-image="images/peterloo-1819.jpg"
+ *    data-background-size="contain"
+ *    data-background-color="#0d1412" markdown="1">
+ *
+ *   An aquatint of a packed open field: cavalry riding into a dense crowd…
+ *   {: .bleed-alt}
+ *
+ *   Richard Carlile, *To Henry Hunt, Esq.*, 1819 · NPG · CC BY 4.0
+ *   {: .credit}
+ *
+ *   </section>
+ *
+ * Use `contain` — the default here — whenever the whole composition is the
+ * evidence, which on a cold open it almost always is: `cover` fills the last
+ * band of screen by cropping, and the thing it crops is the edge of the
+ * picture you were about to argue from. Peterloo's dedication is along the
+ * bottom edge and Lepanto's point is that the galleys run out to both sides,
+ * so both are `contain`. Set `data-background-color` to the deck ground so
+ * the letterbox is invisible.
+ *
+ * `.bleed-alt` carries the image description for screen readers, which a CSS
+ * background cannot: it replaces the <img alt> the figure would have had, so
+ * write it as an alt text and keep it off-screen, not merely invisible.
+ * `.credit` is the licence line — CC BY and CC BY-SA require attribution on
+ * the slide, so it stays even where the caption has gone to the notes slide.
+ */
+/* `padding: 0` undoes reveal's own `padding: 20px 0` on a direct-child
+   section, which otherwise puts the credit's anchor 20px below the screen.
+   Position the credit absolutely against the section rather than with flex:
+   reveal's JS writes `display: block` inline onto the present slide, and an
+   inline style beats any `display: flex` set from here. */
+.reveal section.image-slide.bleed {
+	height: 100%;
+	padding: 0;
+	text-align: left;
+}
+
+.reveal section.image-slide.bleed .bleed-alt {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	margin: -1px;
+	padding: 0;
+	overflow: hidden;
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	white-space: nowrap;
+	border: 0;
+}
+
+/* The licence line. Bottom-LEFT: reveal's nav arrows sit bottom-right and a
+   credit there collides with them. It carries its own dark plate because
+   `contain` only leaves a clear band on one axis — a picture taller than the
+   slide fills the height and puts the credit back on the image, which for
+   Peterloo means straight across the engraved dedication the notes slide
+   asks the room to read. The plate keeps it legible over anything and reads
+   as chrome rather than as part of the print. */
+.reveal section.image-slide.bleed .credit {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	margin: 0;
+	padding: 0.7em 1.1em;
+	max-width: 58%;
+	font-family: 'JetBrains Mono', monospace;
+	font-size: 0.28em;
+	letter-spacing: 0.1em;
+	line-height: 1.65;
+	text-transform: uppercase;
+	color: var(--ts-text-muted);
+	background: rgba(13, 20, 18, 0.86);
+	border-top-right-radius: 2px;
+}
+
+.reveal section.image-slide.bleed .credit em,
+.reveal section.image-slide.bleed .credit i {
+	font-style: italic;
+	text-transform: none;
+	letter-spacing: 0.02em;
 }

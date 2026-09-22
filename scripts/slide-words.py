@@ -21,6 +21,7 @@ BUDGET = {
     "intro caption": (80, 90),
     "detail":        (30, 40),
     "main-point":    (14, 18),
+    "question":      (35, 45),
 }
 
 
@@ -65,7 +66,7 @@ def blocks(src):
                 yield "notes bullet", line
 
     # IAL-tagged paragraphs and headlines
-    for kind in ("detail", "main-point"):
+    for kind in ("detail", "main-point", "question"):
         pat = r"^(.*?)\n\{:[^}]*\." + kind + r"\b[^}]*\}"
         for m in re.finditer(pat, src, re.M):
             yield kind, m.group(1)

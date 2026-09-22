@@ -80,6 +80,41 @@ predicate in disguise, promote it instead of cutting: not "The best-trained
 history in Europe, put to work for the nation" but "The best-trained history
 in Europe was put to work for the nation."
 
+**A name that never comes back is a citation, not a lesson.** Supporting
+blocks fill up with people who are there to prove the headline rather than to
+be taught. From `history-from-below`: "France from the 1820s: Thiers and
+Michelet made 'the people' the movers of 1789. England: Macaulay (1848), then
+his great-nephew Trevelyan." Four names, two dates and a family relation, all
+supporting a headline — "Social history was already a century old" — that
+students have already read and accepted. A student who forgets Thiers,
+Michelet and Macaulay on the way out has lost nothing the session needed.
+
+**The test is mechanical: search the deck for each proper noun on the slide.**
+One occurrence, never picked up again, means the name is doing citation work —
+and the reading does citation better, because it is on the syllabus, it has
+page numbers, and it is there on the evening a student actually wants the
+lineage. In that block the three French and English historians occur once
+each; Trevelyan occurs four times, and the other three are all on his own
+slide two sections later, which introduces him properly. So he is a forward
+reference here, not an exception — the later slide does the work, and naming
+him early spends attention twice for one payoff.
+
+Write the claim and let the roster go: "France from the 1820s, England from
+the 1840s: national histories with 'the people' as the movers." The period,
+the two countries and the move all survive. What goes is the list.
+
+*Delete; don't demote.* The tempting compromise is to keep the detail in
+smaller type under the main point. That keeps it on the screen, where it still
+costs a student the second or two it takes to decide it is not the argument —
+smaller clutter is still clutter, and a deck has no quiet margin the way a page
+does. The detail goes in the speaker notes or it goes nowhere.
+
+This does not soften "Name people; don't reduce them to a single deed." That
+rule governs the person whose slide it is: name them, give them the portrait,
+say what they did. This one governs the other case — names appearing in a list
+to license a claim the headline has already made. The first is teaching; the
+second is a footnote that wandered onto the screen.
+
 **Reuse the course's metaphors; invent new ones only for a reason.** A figure
 students have already met is an asset. When a later slide says "the program was
 a room, not a thesis," or calls Marx's answer a motor, it reaches back and
@@ -146,7 +181,7 @@ seventy-five. Say **today**:
 |---|---|
 | Where this hour sits | **Today in context** |
 | Where the hour went | a headline naming what the three parts *were* |
-| Discussion · where this lands | **Answer · part one** |
+| Discussion · where this lands | **Part one · discussion** |
 | Why the rest of the hour is Ranke | Why the rest of today is Ranke |
 
 This is about text on slides, not about how this file talks. The throughline
@@ -461,10 +496,23 @@ nobody read all the way through.
 ## Structure of a session deck
 
 A deck may open before everything else with a **cold open**: a full-bleed
-slide per image whose caption says only what the picture is, then the session's
+slide per image carrying only what the picture is, then the session's
 framing question while the pictures are still on students' minds, and then an
 `.image-notes` slide with the images small and bullets working the question
-over. Ask before you unpack, not after — a question asked last is a summary,
+over.
+
+**Full-bleed means `section.image-slide.bleed`, not `figure.landscape`.** The
+figure forms hold the image inside the deck's 8% slide margin and reserve
+room under it for a caption, which is right for an image slide inside a part
+and wrong for a cold open, where the picture should be the entire screen. The
+`.bleed` form hands the image to reveal as a slide background so it escapes
+the margin altogether, and drops the caption for a one-line `.credit`. The
+identification and the licence go on that line; everything you wanted to say
+about the picture goes to the notes slide, which is where a cold open was
+always going to say it. Mechanics are in the header comment and the foot of
+`/assets/css/reveal-image-slide.css`. Prefer `data-background-size="contain"`:
+`cover` fills the last band of screen by cropping, and on a cold open the
+thing it crops is usually the evidence. Ask before you unpack, not after — a question asked last is a summary,
 and the notes slide has already given the answers away. Asked first, it is a
 question the room can still be wrong about, and every bullet after it is
 evidence.
@@ -523,16 +571,17 @@ Otherwise a single-session deck (one class meeting, e.g.
    editorial, then Bloch and Febvre. (A scene-setting image is different from
    a portrait and can lead — the prison-camp slide opening Part Two of that
    deck sets up the book written in it.)
-4. **A discussion pair at the end of each part** — a question slide, then a
-   separate answer slide. See below; this is where the class talks, and it
-   replaces parking every question in a list at the end.
+4. **A discussion slide at the end of each part** — topic, question, crux, on
+   one slide. See below; this is where the class talks, and it replaces
+   parking every question in a list at the end.
 5. **Comparison**, if the session pairs two people/texts — a `.parallel`
    slide asking what actually separates them, not just what's different.
 6. **The arc of the lecture, looking back** — a `.cards` grid, one card per
    part, each with a number and date or source in the `.num` line, a short
    headline, and a sentence on what that part established, drawn especially
-   from the answer slides. This slide is the recap: the shape of the whole
-   hour, and where each conclusion came from, in one screen.
+   from each discussion slide's `.takehome`. This slide is the recap: the
+   shape of the whole hour, and where each conclusion came from, in one
+   screen.
 7. **The take home** — the whole day in one headline, then at most three
    supporting points as `.reveal-block` fragments, the last one a
    `.takehome` carrying the cost or the catch. Don't put the lecture's
@@ -619,31 +668,83 @@ idea behind that slide was sound — a text's writing date and its subject perio
 are different things, and students collapse them — but it is a comparison, not
 a measurement, and it should be built as one.
 
-## Discussion questions and their answer slides
+## Discussion slides
 
 Questions belong throughout the deck, roughly one per part, not collected at
 the end. A question asked while a source is still on students' minds gets
 answered from the source; the same question asked in the last five minutes
 gets answered from memory, by whoever talks first.
 
-**The question slide.** Put it after the quote slides that give students what
-they need, so the discussion has evidence to run on. The question is the
-headline (`.main-point`); a `ul.questions` list underneath can add a second or
-third way in, but one real question beats three vague ones. Ask "why this, why
-then" about a *particular* choice in the text — "Why does Voltaire measure ages
-by taste rather than by conquest, when he is writing about a king's reign?" —
-not something that could be asked of any reading in the course. The test: a
-student who did the reading can answer it and a student who didn't can't. Keep
-the slide sparse; it stays on screen for the length of the discussion.
+**One slide per discussion, in three beats.** Topic, then question, then the
+crux of the answer — the second and third as fragments, so one slide carries
+the whole exchange and the room never loses the subject while it talks. The
+form, with `history-from-below` as the worked example:
 
-**The answer slide.** A separate slide, never a fragment on the question slide,
-so the question can sit up while the room works and nothing gets revealed by an
-early arrow key. It states the point the discussion should land on — a
-`.takehome`, sometimes with one `.reveal-block` of evidence before it — and it
-should read as the payoff to what students just said, not a correction of it.
-Where the reading genuinely supports more than one answer, name the good
-alternative rather than pretending there was one right answer waiting. These
-takeaways are the raw material for the closing arc slide's cards.
+```
+Part one · discussion
+{: .eyebrow}
+
+## Counting the poor
+{: .main-point}
+
+---
+
+A parish register gives you every burial in a village for two centuries.
+What can you now ask, and what can you still not ask?
+{: .question .fragment data-fragment-index="1"}
+
+<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+Counting proves the poor were there; it cannot say what they wanted, because
+nobody recording them was asking. A source made to administer answers
+administrative questions.
+</div>
+```
+
+**The eyebrow reads `Part one · discussion`** — which part, then what the
+slide is. Not the reverse: the eyebrow's first job is to locate the slide in
+the session, and every other slide in the part is already labelled that way.
+
+**The `.main-point` is the topic, not the question and not the answer.** A
+short noun phrase — "Counting the poor", "A belief as evidence", "What counts
+as a source" — set at the largest size on the slide, so the room has the
+subject in front of it for the whole discussion. This is the one place the
+headline is not a claim: a headline that argues here either asks the question
+early or gives the answer away. Keep it to four or five words.
+
+**The `.question` fragment is the one real question.** Put the slide after the
+quote slides that give students what they need, so the discussion has evidence
+to run on. Ask "why this, why then" about a *particular* choice in the text —
+"Why does Voltaire measure ages by taste rather than by conquest, when he is
+writing about a king's reign?" — not something that could be asked of any
+reading in the course. The test: a student who did the reading can answer it
+and a student who didn't can't. One real question beats three vague ones; use
+`ul.questions` instead only where the slide genuinely offers a list to pick
+from, as a cold-open framing slide does.
+
+**Put the object beside the question when there is one.** Wrap the body in a
+`.with-figure` div with a small image in front of the `.question` and
+`.takehome`, and the eyebrow, headline and rule stay full width above it. A
+discussion runs for minutes and a slide-sized image two slides back has long
+gone; the thing being argued about should still be on the screen. The image is
+not a fragment — it is the subject, not a step. `history-from-below`'s part-two
+discussion does this with the Joanna Southcott engraving. Use `.image-notes`
+instead where the picture *is* the subject and the bullets say what to look at.
+
+**The `.takehome` fragment is the crux of the answer**, and only the crux — one
+block, not a `.reveal-block` of evidence plus a takeaway. It should read as the
+payoff to what students just said, not a correction of it. Where the reading
+genuinely supports more than one answer, name the good alternative rather than
+pretending there was one right answer waiting. These takeaways are the raw
+material for the closing arc slide's cards.
+
+**The cost of the single slide is an early arrow key**, which the older
+two-slide form (a question slide, then a separate answer slide) existed to
+prevent. Advancing twice while the room is still thinking puts the answer on
+screen. That is a presenting habit rather than a structural problem, and it
+buys something worth more: the topic and the question stay up next to the
+answer, so the payoff lands against the question instead of replacing it.
+Decks written before 2026-09-22 still use the two-slide form and are fine as
+they are; write new ones this way.
 
 ## Image slides
 
@@ -912,7 +1013,7 @@ the most to leave in.
 - **Cross-slide integrity.** The framing question at the front, the closing
   arc slide and the take home have to describe the same lecture: the arc
   slide's cards match the parts that actually exist and carry the conclusions
-  the answer slides actually reached, and the take home answers the question
+  the discussion slides actually reached, and the take home answers the question
   the deck opened with. Names, dates, spellings, and citation formats
   consistent slide to slide; forward references to other weeks accurate; no
   promise made early that the deck never keeps. Check the punchy framing line

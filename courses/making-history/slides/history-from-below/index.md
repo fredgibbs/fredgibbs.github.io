@@ -3,15 +3,47 @@ layout: reveal-lecture
 title: "History From Below — Thompson, Vansina, and the problem of sources"
 image_slides: true
 ---
+
+
+<!-- ========== COLD OPEN: LEPANTO (THE OLD WAY OF WRITING IT) ========== -->
+<section class="image-slide bleed"
+ data-background-image="images/lepanto-1571.jpg"
+ data-background-size="contain"
+ data-background-color="#0d1412" markdown="1">
+
+An oil painting of a sea crowded from edge to edge with war galleys under banners and gunsmoke, oars out in long rakes along every hull, soldiers packed along the decks, a rocky headland at the left and a fortified town on the far shore at the right
+{: .bleed-alt}
+
+The Battle of Lepanto, 7 October 1571 · National Maritime Museum, Greenwich · public domain
+{: .credit}
+
+</section>
+
+<!-- ========== COLD OPEN: WHY LEPANTO AGAIN ========== -->
+<section markdown="1">
+<div class="image-notes" markdown="1">
+![The Lepanto painting, reduced: a sea packed with galleys and gunsmoke](images/lepanto-1571.jpg)
+<div class="notes" markdown="1">
+
+- **You have seen this painting before.** In 5.1 it was Braudel's event: the loudest afternoon of the century, and on his reading a surface. *Braudel explained why the battle changed nothing. Does that explain the men in it?*{: .ask}
+- **Count the oars; then look for the rowers.** Every hull has its banks out, and not one man pulling them is drawn. Slaves, convicts and the very poor. *Who has to be invisible for a battle to look like this?*{: .ask}
+- **Nothing here was thought to be missing.** For centuries this was simply what a history of Lepanto looked like: the powers, the commanders, the count of ships and the dead. *What would have to change before the rowers became a subject?*{: .ask}
+</div>
+</div>
+</section>
+
 <!-- ========== COLD OPEN: PETERLOO ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="landscape">
-<img src="images/peterloo-1819.jpg" alt="An aquatint of a packed open field: mounted cavalry with raised sabres ride into a dense crowd, banners reading UNIVERSAL SUFFRAGE above them, people falling under the horses in the foreground, houses along the far side">
-<figcaption markdown="span">
-<i>To Henry Hunt, Esq.</i> · Richard Carlile, 1 October 1819
-<em>St Peter's Field, Manchester, 16 August 1819. Around sixty thousand people came to hear Hunt speak for parliamentary reform; the yeomanry cavalry rode in, eighteen were killed and hundreds injured.<br>(National Portrait Gallery, London. Photograph by APK, CC BY 4.0.)</em>
-</figcaption>
-</figure>
+<section class="image-slide bleed"
+ data-background-image="images/peterloo-1819.jpg"
+ data-background-size="contain"
+ data-background-color="#0d1412" markdown="1">
+
+An aquatint of a packed open field: mounted cavalry with raised sabres ride into a dense crowd, banners reading UNIVERSAL SUFFRAGE above them, people falling under the horses in the foreground, houses along the far side
+{: .bleed-alt}
+
+St Peter's Field, Manchester, 16 August 1819 · Richard Carlile, *To Henry Hunt, Esq.*, 1819 · photograph by APK, CC BY 4.0
+{: .credit}
+
 </section>
 
 <!-- ========== COLD OPEN: THE FRAMING QUESTION ========== -->
@@ -21,9 +53,10 @@ St Peter's Field · 16 August 1819
 
 ## Sixty thousand people were in that field. The print names one.
 {: .main-point}
-<div class="rule"></div>
 
-- What did the other fifty-nine thousand think they were doing that morning?
+---
+
+- What did the other 59,999 thousand think they were doing that morning?
 - If nobody wrote it down, is that a question history is allowed to ask?
 {: .questions.compact}
 </section>
@@ -31,12 +64,13 @@ St Peter's Field · 16 August 1819
 <!-- ========== COLD OPEN NOTES ========== -->
 <section markdown="1">
 <div class="image-notes" markdown="1">
-<img src="images/peterloo-1819.jpg" alt="The Peterloo print, reduced: cavalry riding into a packed crowd under banners">
+![The Peterloo print, reduced: cavalry riding into a packed crowd under banners](images/peterloo-1819.jpg)
 <div class="notes" markdown="1">
 
-- **Count the faces.** The engraver drew people one at a time — hats, coats, a woman in white with her arms flung out — for a crowd put at sixty thousand. <em class="ask">What would you need in front of you to write a history of this field?</em>
-- **Read the dedication.** It names Henry Hunt, the gentleman on the hustings, and thanks "the Female Reformers of Manchester" as a group. One name, one category. <em class="ask">Who has to be named before a historian counts them as an actor?</em>
-- **Read who signed it.** Carlile was on the hustings, escaped, and published this in October as their "Fellow Labourer." The fullest record of the day was made by a participant with a case to make. <em class="ask">Is a source made to accuse worse than one made to administer, or wrong differently?</em>
+- **Count the faces.** The engraver drew them one at a time — hats, coats, a woman in white, arms flung out. Sixty thousand came for parliamentary reform; the yeomanry rode in and eighteen died. *What would you need to write a history of this field?*{: .ask}
+- **The one name on it is a gentleman.** Henry Hunt — wealthy farmer, the day's main speaker, gaoled for it — is who those sixty thousand came to hear. Thompson says the movement still looked to a gentlemanly leader (pp. 622–23). *Why did the crowd need him?*{: .ask}
+- **Then read who is not named.** "The Female Reformers of Manchester" are thanked as a group — a category, where Hunt got a name and a dedication. *Who has to be named before a historian counts them as an actor?*{: .ask}
+- **Read who signed it.** Carlile was on the hustings, escaped, and published this in October as their "Fellow Labourer." The fullest record of the day was made by a participant with a case to make. *Is a source made to accuse worse than one made to administer?*{: .ask}
 </div>
 </div>
 </section>
@@ -48,7 +82,9 @@ Making History • HIST 1105 • Week 6.1
 
 # History From Below
 {: .main-point}
-<div class="rule"></div>
+
+---
+
 - Background: Sarah Maza, *Thinking About History* (2017), ch. 1: "The History of Whom?", 10–44
 - E. P. Thompson, *The Making of the English Working Class* (1963), Preface and ch. 1, 1–25
 - Jan Vansina, *Oral Tradition as History* (1985), ch. 1, 1–13 and 27–31
@@ -65,7 +101,8 @@ Today in context
 
 ## What makes history happen?
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="throughline" markdown="1">
 <div class="answer past" markdown="1">
@@ -110,7 +147,8 @@ Part one · history from above
 
 ## For most of history's history, the actors were the people who decided things
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="reveal-block historical fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
 
@@ -153,14 +191,30 @@ Part one · the case for the old answer
 
 ## Take the strongest version of it before taking it apart
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="quote compact" markdown="1">
 Political history should matter above all else, because the state is where humans pursue their highest form of rationality, "reflected in the rational ordering and organization of society by means of laws, constitutions, and political institutions."
 <div class="cite">Gertrude Himmelfarb, following Aristotle, quoted in Maza, p. 13</div>
 </div>
 
-<div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
+<div class="swap" markdown="1">
+<div class="reveal-block historical fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
+
+###### Why the citation is three names deep
+{: .label}
+
+Himmelfarb reaches for Aristotle because it makes political history sound like philosophy, not habit: *Politics* I.2 argues the polis is humanity's highest form of association, the place where the good life, not mere life, becomes possible. Maza reaches for Himmelfarb because she is the sharpest living voice still making the case — in *The New History and the Old* (1987), written specifically against the social history that had already displaced it.
+</div>
+<div class="reveal-block historical fragment fade-in-then-out compact" data-fragment-index="2" markdown="1">
+
+###### The older precedent
+{: .label}
+
+Aristotle supplies the theory; the practice is centuries older. Thucydides had already written history as the doings of states and generals, and said so: his subject is a war between powers, recorded so that readers who want to understand human affairs, facing something like it again, might see it clearly (1.22–23). Twenty-three centuries later, that is still the history Thompson is arguing against.
+</div>
+<div class="reveal-block argument fragment compact" data-fragment-index="3" markdown="1">
 
 ###### Three assumptions underneath
 {: .label}
@@ -169,6 +223,7 @@ Political history should matter above all else, because the state is where human
 - Political leaders drive historical change.
 - "Politics" is something that happens in public (Maza, p. 13).
 </div>
+</div>
 </section>
 
 <!-- ========== SOCIAL HISTORY BEFORE THE 1960s ========== -->
@@ -176,9 +231,10 @@ Political history should matter above all else, because the state is where human
 Part one · before the 1960s
 {: .eyebrow}
 
-## Social history was already a century old. That was never the problem.
+## Social history was already a century old.
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="quote compact" markdown="1">
 "When they were effective as a crowd … historians celebrated them for advancing the purpose of their forward-looking superiors, while never acknowledging them individually by name."
@@ -200,7 +256,7 @@ France from the 1820s: Thiers and Michelet made "the people" the movers of 1789.
 That tradition was "clearly subordinate and accessory to political history": the social chapter is scenery, and the action on stage is still the politics (Maza, pp. 14–15).
 </div>
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-The same move as the print in the cold open. Hunt is named, the Female Reformers are thanked as a group, and sixty thousand people are a crowd.
+The same idea as the opening slide. Hunt is named, the Female Reformers are thanked as a group, and sixty thousand people are a crowd, not individual people with lives.
 </div>
 </section>
 
@@ -211,11 +267,12 @@ Part one · Trevelyan, 1942
 
 ## The phrase that made the tradition famous names what it left out
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="quote compact" markdown="1">
 Social history is "the history of a people with the politics left out."
-<div class="cite">G. M. Trevelyan, <i>English Social History</i> (1942), quoted in Maza, p. 15</div>
+<div class="cite">G. M. Trevelyan, <i>English Social History</i> (1942), quoted in Maza, p. 15 — his biographer says it is quoted out of context, taken up reluctantly for a book meant to complement his political history (Maza, p. 15 n. 7)</div>
 </div>
 
 <div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
@@ -225,14 +282,7 @@ Social history is "the history of a people with the politics left out."
 
 Six hundred pages of English life to 1901 — trade routes, population, marriage customs, diets, how damp a peasant home felt in 1750. Written in 1942 to lift wartime morale (Maza, pp. 14–15).
 </div>
-<div class="reveal-block historical fragment fade-in-then-out compact" data-fragment-index="2" markdown="1">
-
-###### The phrase is disputed
-{: .label}
-
-Trevelyan's biographer says it is quoted out of context: he took it up reluctantly, for a book meant to complement his political history (Maza, p. 15 n. 7).
-</div>
-<div class="takehome fragment compact" data-fragment-index="3" markdown="1">
+<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 Disputed or not, it names the assumption. Leave the politics out and the poor stop being able to change anything — pictures rather than an argument (Maza, p. 15).
 </div>
 </section>
@@ -244,7 +294,8 @@ Part one · the 1960s and 1970s
 
 ## Then the discipline changed its mind, fast
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="reveal-block historical fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
 
@@ -269,7 +320,8 @@ Part one · quantification
 
 ## The first answer was to count everybody
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
 
@@ -292,35 +344,19 @@ The archive of the poor is mostly a record of them being counted, taxed, and bur
 
 <!-- ========== DISCUSSION: PART ONE ========== -->
 <section markdown="1">
-Discussion · part one
+Part one · discussion
 {: .eyebrow}
 
-## Counting the poor is not hearing them. Is it a fair substitute?
+## Counting the poor
 {: .main-point}
-<div class="rule"></div>
 
-- A parish register gives you every burial in a village for two centuries. What can you now ask, and what can you still not ask?
-{: .questions.compact}
-</section>
+---
 
-<!-- ========== ANSWER: PART ONE ========== -->
-<section markdown="1">
-Answer · part one
-{: .eyebrow}
+A parish register gives you every burial in a village for two centuries. What can you now ask, and what can you still not ask?
+{: .question .fragment data-fragment-index="1"}
 
-## Numbers restore people to the record without restoring them to the story
-{: .main-point}
-<div class="rule"></div>
-
-<div class="reveal-block unpack fragment compact" data-fragment-index="1" markdown="1">
-
-###### The gain and the limit
-{: .label}
-
-Counting proves the poor were there and how they lived and died. It cannot say what they wanted, because nobody recording them was asking.
-</div>
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-A source made to administer people answers administrative questions. To ask a different question you need a different source — or a different way of reading this one.
+Counting proves the poor were there; it cannot say what they wanted, because nobody recording them was asking. A source made to administer answers administrative questions.
 </div>
 </section>
 
@@ -335,7 +371,8 @@ Part two · 1963
 
 ## One book reset what the word "class" was allowed to mean
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 Quantification had made the poor visible in aggregate. The book that mattered most contained not a single numerical table.
 {: .detail}
@@ -365,9 +402,10 @@ E. P. Thompson · 1924–1993
 Part two · the preface
 {: .eyebrow}
 
-## The title is an argument, and he says so in the first paragraph
+## The working class was a participant, not a product
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="quote" markdown="1">
 "<i>Making</i>, because it is a study in an active process, which owes as much to agency as to conditioning. The working class did not rise like the sun at an appointed time. It was present at its own making."
@@ -390,7 +428,8 @@ Part two · the definition
 
 ## Class is not a thing you can find. It is something that happens.
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="quote compact" markdown="1">
 "I do not see class as a 'structure', nor even as a 'category', but as something which in fact happens (and can be shown to have happened) in human relationships."
@@ -414,18 +453,40 @@ Part two · the definition
 Part two · what he is writing against
 {: .eyebrow}
 
-## He names the three histories he is arguing with, and concedes each one first
+## He names the three histories he is arguing with
 {: .main-point}
-<div class="rule"></div>
 
-<div class="reveal-block historical fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
+---
 
-###### The three
-{: .label}
+<div class="swap" markdown="1">
+<div class="cards three fragment fade-in-then-out" data-fragment-index="1" markdown="1">
+<div class="card" markdown="1">
 
-- **Fabian** — working people as passive victims of *laissez faire*, with the exception of a handful of far-sighted organisers.
-- **Empirical economic historians** — working people "as a labour force, as migrants, or as the data for statistical series."
-- **"Pilgrim's Progress"** — the period ransacked for forerunners of the Welfare State (p. 12).
+###### 01
+{: .num}
+
+#### Fabian
+
+Named for the Fabian Society, the British socialists who wanted reform by degrees rather than revolution. Their working people are passive victims of *laissez faire*, saved by a few far-sighted organisers.
+</div>
+<div class="card" markdown="1">
+
+###### 02
+{: .num}
+
+#### Empirical economic
+
+The measurers: wages, prices, output, migration. Working people appear "as a labour force, as migrants, or as the data for statistical series."
+</div>
+<div class="card" markdown="1">
+
+###### 03
+{: .num}
+
+#### "Pilgrim's Progress"
+
+Thompson's jibe, borrowed from a 1678 allegory in which a pilgrim walks to salvation. History written the same way: the past as a road to the Welfare State, everyone graded by how far along it they got.
+</div>
 </div>
 <div class="reveal-block argument fragment compact" data-fragment-index="2" markdown="1">
 
@@ -434,17 +495,7 @@ Part two · what he is writing against
 
 "Each of these orthodoxies has a certain validity. All have added to our knowledge." His objection to the first two: "they tend to obscure the agency of working people" (p. 12).
 </div>
-</section>
-
-<!-- ========== IMAGE: THE LUDDITES ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="images/leader-of-the-luddites-1812.jpg" alt="A hand-coloured etching of a man in a woman's blue spotted dress and bonnet striding forward with a club, arm flung out, while behind him figures with raised weapons attack a burning mill">
-<figcaption markdown="span">
-<i>The Leader of the Luddites</i> · May 1812
-<em>Croppers finished cloth by hand with heavy shears, and machines were taking the work. Machine-breaking became a capital offence in 1812. The print is inscribed "Drawn from Life by an Officer."<br>(Working Class Movement Library, via Wikimedia Commons. Public domain.)</em>
-</figcaption>
-</figure>
+</div>
 </section>
 
 <!-- ========== THE CONDESCENSION PASSAGE ========== -->
@@ -454,7 +505,8 @@ Part two · the famous sentence
 
 ## The people he wants back are the ones who were wrong
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="quote" markdown="1">
 "I am seeking to rescue the poor stockinger, the Luddite cropper, the 'obsolete' hand-loom weaver, the 'utopian' artisan, and even the deluded follower of Joanna Southcott, from the enormous condescension of posterity."
@@ -470,6 +522,28 @@ Obsolete, utopian, deluded — in quotation marks, because they are posterity's 
 </div>
 </section>
 
+<!-- ========== IMAGE: THE LUDDITES ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="portrait">
+<img src="images/leader-of-the-luddites-1812.jpg" alt="A hand-coloured etching of a man in a woman's blue spotted dress and bonnet striding forward with a club, arm flung out, while behind him figures with raised weapons attack a burning mill">
+<figcaption markdown="span">
+<i>The Leader of the Luddites</i> · May 1812
+<em>Croppers finished cloth by hand with heavy shears, and machines were taking the work. Machine-breaking became a capital offence in 1812. The figure is "General Ludd," the movement's invented figurehead — named for Ned Ludd, an apprentice said (probably apocryphally) to have smashed a stocking frame around 1779. Raid leaders sometimes disguised themselves in women's clothing; the print turns that into caricature. Inscribed "Drawn from Life by an Officer."<br>(Working Class Movement Library, via Wikimedia Commons. Public domain.)</em>
+</figcaption>
+</figure>
+</section>
+
+<!-- ========== IMAGE: JOANNA SOUTHCOTT ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="portrait">
+<img src="images/joanna-southcott-1814.jpg" alt="A stipple engraving of an elderly woman in a frilled bonnet and white gown, seated, arms folded, with a stack of books at her elbow; her signature engraved below">
+<figcaption markdown="span">
+Joanna Southcott · 1750–1814
+<em>A Devon farmer's daughter who became a prophetess with thousands of followers. Engraved in October 1814, at the height of her prophecy that she would bear a holy child; she died that December.<br>Note the books at her elbow.<br>(Published by John Bell, 2 October 1814. Public domain.)</em>
+</figcaption>
+</figure>
+</section>
+
 <!-- ========== LOSERS ========== -->
 <section markdown="1">
 Part two · the standard of judgement
@@ -477,7 +551,8 @@ Part two · the standard of judgement
 
 ## Being wrong about the future is not a reason to be left out of the past
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="quote compact" markdown="1">
 "Only the successful (in the sense of those whose aspirations anticipated subsequent evolution) are remembered. The blind alleys, the lost causes, and the losers themselves are forgotten."
@@ -496,48 +571,27 @@ Judging the past by what happened next is a method, not neutrality. It writes of
 </div>
 </section>
 
-<!-- ========== IMAGE: JOANNA SOUTHCOTT ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="images/joanna-southcott-1814.jpg" alt="A stipple engraving of an elderly woman in a frilled bonnet and white gown, seated, arms folded, with a stack of books at her elbow; her signature engraved below">
-<figcaption markdown="span">
-Joanna Southcott · 1750–1814
-<em>A Devon farmer's daughter who became a prophetess with thousands of followers. Engraved in October 1814, at the height of her prophecy that she would bear a holy child; she died that December.<br>Note the books at her elbow.<br>(Published by John Bell, 2 October 1814. Public domain.)</em>
-</figcaption>
-</figure>
-</section>
-
 <!-- ========== DISCUSSION: PART TWO ========== -->
 <section markdown="1">
-Discussion · part two
+Part two · discussion
 {: .eyebrow}
 
-## Thompson wants the deluded follower in the history. What is she evidence of?
+## A belief as evidence
 {: .main-point}
-<div class="rule"></div>
 
-- Thousands of people believed a sixty-four-year-old woman was about to give birth to a messiah. What would you have to think that belief *was* to make it a historical fact rather than a curiosity?
-{: .questions.compact}
-</section>
+---
 
-<!-- ========== ANSWER: PART TWO ========== -->
-<section markdown="1">
-Answer · part two
-{: .eyebrow}
+<div class="with-figure" markdown="1">
+![The Southcott engraving, reduced: an elderly woman seated in a frilled bonnet, books at her elbow](images/joanna-southcott-1814.jpg)
+<div class="body" markdown="1">
 
-## A belief is evidence of the conditions that made it reasonable
-{: .main-point}
-<div class="rule"></div>
+Thousands of people believed a sixty-four-year-old woman was about to give birth to a messiah. What would you have to think that belief *was* to make it a historical fact rather than a curiosity?
+{: .question .fragment data-fragment-index="1"}
 
-<div class="reveal-block unpack fragment compact" data-fragment-index="1" markdown="1">
-
-###### What changes when you take it seriously
-{: .label}
-
-Southcott's followers were mostly poor, in a decade of war, hunger and machine-breaking. A prophecy that the world was about to be overturned is a reading of that decade, not an escape from it.
-</div>
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-Calling a belief deluded ends the enquiry. Asking what made it credible starts one.
+Her followers were mostly poor, in a decade of war, hunger and machine-breaking; the prophecy reads that decade. Calling a belief deluded ends the enquiry. Asking what made it credible starts one.
+</div>
+</div>
 </div>
 </section>
 
@@ -552,14 +606,15 @@ Part three · the problem Thompson leaves
 
 ## Thompson could do this because England wrote everything down
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 Thompson closes the argument of his preface looking outward: "Causes which were lost in England might, in Asia or Africa, yet be won" (p. 13).
 {: .detail}
 
 <div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
 
-###### What that sentence costs him
+###### A promise his method can't keep
 {: .label}
 
 His method runs on paper — spy reports, trials, petitions, hymns, chapbooks — read against the grain. Where the archive is thin or was never written, reading against the grain has nothing to read.
@@ -580,12 +635,12 @@ His method runs on paper — spy reports, trials, petitions, hymns, chapbooks �
 <!-- ========== THE POSTCARD, UNPACKED ========== -->
 <section markdown="1">
 <div class="image-notes" markdown="1">
-<img src="images/griot-conakry-c1910.jpg" alt="The Conakry postcard, reduced: a griot standing behind two seated women">
+![The Conakry postcard, reduced: a griot standing behind two seated women](images/griot-conakry-c1910.jpg)
 <div class="notes" markdown="1">
 
-- **The instrument is the identification.** Nobody here is named, but the <i>ngoni</i> marks its holder's trade: he is kept to hold and perform his community's past. <em class="ask">If the record is a person, what happens to it when he dies?</em>
-- **Read what the caption calls them.** "Groupe Soussous" — a type, not three people. The photographer was selling an ethnic specimen to a market in France. <em class="ask">What does a source record when its maker had no reason to learn a name?</em>
-- **It is evidence anyway.** Not of Susu history, which it never set out to record, but of what that market wanted Africa to look like in 1910. <em class="ask">Can a source be good evidence for something its maker was not talking about?</em>
+- **The record here is a person.** Nobody is named, but the <i>ngoni</i> marks its holder's trade: he is kept to hold and perform his community's past. *If the record is a person, what happens to it when he dies?*{: .ask}
+- **The women get nothing at all.** His instrument gives him a trade; they get neither a name nor a role. In Mande griot families the instruments are men's work and the singing is largely the women's. *If the voice is the record, who here is unrecorded?*{: .ask}
+- **And it is a postcard, not a record of either.** A studio pose against a painted backdrop, captioned "Groupe Soussous" — a type, not three people — made for sale in France. *What does a source record when its maker had no reason to learn a name?*{: .ask}
 </div>
 </div>
 </section>
@@ -606,9 +661,10 @@ Jan Vansina · 1929–2017
 Part three · the definition
 {: .eyebrow}
 
-## He draws one hard line, and then refuses to draw any more
+## One hard line, but that's it
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="quote compact" markdown="1">
 Oral traditions are "verbal messages which are reported statements from the past beyond the present generation."
@@ -638,7 +694,8 @@ Part three · the move
 
 ## He does not ask you to trust it, but to treat it as a document
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="quote" markdown="1">
 "A tradition should be seen as a series of successive historical documents all lost except for the last one and usually interpreted by every link in the chain of transmission."
@@ -647,13 +704,13 @@ Part three · the move
 
 <div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
 
-###### Why that reframing does the work
+###### What this reframing does
 {: .label}
 
 It puts tradition inside source criticism instead of outside it: every link can be questioned, and the last teller is not the author. He warns in the same breath against pushing it — oral messages are not originals and copies (p. 30).
 </div>
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-"Evidence at second, third, or nth remove, but it is still evidence unless it be shown that a message does not finally rest on a first statement made by an observer" (p. 29).
+"Evidence potentially far from an event, but it is still evidence unless it be shown that a message does not finally rest on a first statement made by an observer" (p. 29).
 </div>
 </section>
 
@@ -664,14 +721,15 @@ Part three · two things he adds
 
 ## The method is old, and the chain is a simplification
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="reveal-block historical fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
 
 ###### Somebody got there first
 {: .label}
 
-Islamic scholars have judged *hadith* by examining the links in the chain of transmission since the second century after the Hijra — assessing each witness between the Prophet's Companion and the recorder (p. 30). Compare 3.1.
+Islamic scholars have judged *hadith* by examining the links in the chain of transmission since the second century after the Hijra — assessing each witness between the Prophet's Companion and the recorder (p. 30).
 </div>
 <div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
 
@@ -687,35 +745,19 @@ That messiness is not only loss: "Multiple flow does not necessarily imply multi
 
 <!-- ========== DISCUSSION: PART THREE ========== -->
 <section markdown="1">
-Discussion · part three
+Part three · discussion
 {: .eyebrow}
 
-## Is this a challenge to Week 4's scientific history, or its standard applied elsewhere?
+## What counts as a source
 {: .main-point}
-<div class="rule"></div>
 
-- Ranke wanted claims that rest on named sources anyone could go and check. Vansina wants a link between record and observation, and every link in the chain criticised. Same demand, or a different one?
-{: .questions.compact}
-</section>
+---
 
-<!-- ========== ANSWER: PART THREE ========== -->
-<section markdown="1">
-Answer · part three
-{: .eyebrow}
+Ranke wanted claims that rest on named sources anyone could go and check. Vansina wants a link between record and observation, and every link in the chain criticised. Same demand, or a different one?
+{: .question .fragment data-fragment-index="1"}
 
-## He keeps the standard and refuses the assumption smuggled in with it
-{: .main-point}
-<div class="rule"></div>
-
-<div class="reveal-block unpack fragment compact" data-fragment-index="1" markdown="1">
-
-###### The two halves
-{: .label}
-
-Kept: evidence must rest on somebody's observation, and every link is criticised. Refused: that only writing can carry the link — never argued for, just what the archives Ranke worked in happened to contain.
-</div>
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-The demand was always for a source you could name and criticise. That the source had to be paper was a fact about European archives, not a rule of evidence.
+Kept: evidence must rest on somebody's observation, every link criticised. Refused: that only writing can carry it. Paper was a fact of European archives, not a rule of evidence.
 </div>
 </section>
 
@@ -726,7 +768,8 @@ Thompson and Vansina
 
 ## Both widen who counts. Only one of them has to build a new kind of source.
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="parallel compact" markdown="1">
 <div class="track" markdown="1">
@@ -734,14 +777,14 @@ Thompson and Vansina
 ###### Thompson, 1963
 {: .num}
 
-The archive exists and is hostile. Spies, magistrates and prosecutors wrote most of it. Read it against the grain and the people it was written to control come through it.
+The archive exists and is hostile. Read it against the grain and the people it was written to control come through it.
 </div>
 <div class="track now" markdown="1">
 
 ###### Vansina, 1985
 {: .num}
 
-For much of the world the archive was never written. So establish that a spoken tradition is a document, and work out the rules for criticising one.
+For much of the world the archive was never written. Establish how a spoken tradition is a document, and work out the rules for critiquing it.
 </div>
 </div>
 
@@ -757,7 +800,8 @@ The lecture · three parts
 
 ## Who counts, whether they acted, and what counts as evidence
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="cards" markdown="1">
 <div class="card" markdown="1">
@@ -785,7 +829,7 @@ Class is something people do, not a category you sample for. The losers belong i
 
 #### Evidence
 
-Oral tradition is a document at nth remove. Keep Ranke's requirement of a link to an observation; drop the assumption that it has to be written.
+Oral tradition is an uncertain but valid source. Keep Ranke's requirement of a link to an observation; drop the assumption that it has to be written.
 </div>
 </div>
 </section>
@@ -797,7 +841,8 @@ The take home
 
 ## Changing who history is about forces a change in what counts as a source
 {: .main-point}
-<div class="rule"></div>
+
+---
 
 <div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
 
@@ -809,21 +854,4 @@ Archives were built by institutions with no reason to record workers, women or c
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 Every rule about what counts as evidence is also a decision about whose past can be known. Those rules were written by people who were not thinking about you.
 </div>
-</section>
-
-<!-- ========== WHAT COMES NEXT ========== -->
-<section markdown="1">
-Next · 6.2
-{: .eyebrow}
-
-## Rowbotham and Scott ask the same question about half of everyone
-{: .main-point}
-<div class="rule"></div>
-
-- Rowbotham's claim is Thompson's, applied to women: they were left out because historians did not look.
-- Scott goes further — gender is not one more group to add, but a lens on how power works everywhere.
-{: .questions.compact}
-
-Both readings assume today's argument. Come having decided whether adding people to the story is enough.
-{: .detail}
 </section>

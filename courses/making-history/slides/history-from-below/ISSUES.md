@@ -20,30 +20,91 @@ size. The caption carries the full introduction — name and dates, bio, a
 the caption's job, not its tag, so it is held to the 80-word introduction
 budget; `scripts/slide-words.py` scores it that way.
 
-**The cold open is one image, not a pair.** It ran Peterloo against the
-Conakry postcard until 2026-09-20. The pair was cut because it had no
-controlled variable, which is what makes the other cold-open pairs work:
-`annales-longue-duree` holds the Mediterranean constant and changes the
+**The cold open is two images in sequence, not a pair.** It ran Peterloo
+against the Conakry postcard until 2026-09-20. That *pair* was cut because it
+had no controlled variable, which is what makes the other cold-open pairs
+work: `annales-longue-duree` holds the Mediterranean constant and changes the
 time-scale, `marx-structural-history` holds the pastoral genre and the decade
 constant and puts industry in the frame. Peterloo against Conakry changed
 continent, century, medium, maker and purpose all at once, so the only thing
 the two shared — many people, few names — had to be asserted by the bullets
 rather than shown by the pictures, and those bullets were the longest text in
-the deck. Peterloo carries the point alone: sixty thousand individually drawn
-faces and a dedication naming one man. Don't re-pair it without a variable you
-can name in a clause.
+the deck. **That ban still stands: don't put two images on one notes slide
+here without a variable you can name in a clause.**
+
+On 2026-09-22 Lepanto was added *before* Peterloo, which is a different
+structure and not a re-pairing. Each image is full-bleed and then gets its own
+`.image-notes` slide, which is the form `courses/SLIDE-STYLE.md` prescribes
+for two images ("a second image repeats the pattern"), and no bullet is
+written across the two. Lepanto is a callback, not a contrast: students met
+this exact painting in 5.1 as Braudel's event, and 6.1 asks the same picture
+a different question — the oars are drawn and the rowers are not. It runs
+first because it is the way of writing history the session is about to argue
+with; Peterloo is then the escalation, a crowd that assembled *to be counted*
+politically and was still recorded as a crowd. The framing question still sits
+between Peterloo and its notes slide, so the cold open asks before it unpacks.
+
+If the opening ever needs shortening, Lepanto and its notes slide are the two
+to cut: Peterloo carries the point alone, as it did before.
 
 **The colonial postcard opens part three instead.** `griot-conakry-c1910.jpg`
 is a staged ethnographic card, not documentary evidence of a griot performing,
 and it is used as one — a source that types people rather than naming them.
 In the cold open it introduced the griot and the colonial record twenty-five
 slides before Vansina appeared and anyone could use either. At the head of
-part three it sets up his definition directly, and its third notes bullet
-("evidence anyway … for what that market wanted Africa to look like") lands on
-his "testify despite themselves" (p. 28) two slides later. See
-`images/README.md` before rewriting the caption or the bullets.
+part three it answers the question the slide before it leaves open — Thompson's
+method runs on paper, so what does the record look like where there is none.
+
+**Narrowed from three bullets to two on 2026-09-22.** The slide was carrying
+three arguments and the picture shows one of them: the griot-as-archive is
+carried by the caption explaining what an `ngoni` is, and the market inference
+was not in the frame at all. The typing point ("a type, not three people") had
+also become the deck's third run at names-versus-categories once Lepanto was
+added to the cold open — Peterloo's "Then read who is not named" now does it
+better, on a source students have just spent two slides reading. What remains
+is the one job only this image can do, plus the qualification that it is a
+studio product and not documentary evidence of a griot at work. That
+qualification is not optional: see `images/README.md` before rewriting the
+caption or the bullets.
+
+**The women bullet rests on ethnography, not on this photograph.** Added
+2026-09-22 after the narrowing, because the slide identified the man by his
+instrument and left the two women as scenery — repeating the card's own move.
+It is phrased conditionally on purpose: the Mande gendered division of labour
+(instruments men's, song largely women's) is well documented, but whether
+these two sitters were performers is unrecorded and unrecoverable. Sourcing is
+in `images/README.md`. A fresh-context review should check the claim is still
+conditional and has not drifted into asserting who they were.
+
+**A photograph cannot show an oral tradition**, which is the standing limit on
+this slide. Vansina's subject is verbal messages transmitted across
+generations; a still image can only gesture at it. If a better image for part
+three ever turns up — a transcription notebook, a recording session, a named
+informant — it is worth the swap.
+
+**The three discussion slides are merged, not paired.** Until 2026-09-22 each
+part ended with a question slide and a separate answer slide. They are now one
+slide in three beats — topic as the `.main-point`, the question as a
+`.question` fragment, the crux as a `.takehome` fragment — which is the pattern
+`courses/SLIDE-STYLE.md` now prescribes for new decks. The merge dropped each
+pair's `.reveal-block` of working; its substance was folded into the takehome,
+which is why all three takehomes run longer than they did. The thing the old
+two-slide form protected against was an early arrow key revealing the answer
+while the room is still talking. That is now a presenting habit, not a
+structural guarantee.
 
 ## Open questions
+
+**The cold open's Hunt bullet cites Thompson pp. 622–23, outside the assigned
+range.** The title slide assigns the Preface and ch. 1. The identification of
+Henry Hunt — wealthy gentleman-farmer, the day's main speaker, gaoled for it —
+and Thompson's explanation of why the movement looked to a gentlemanly leader
+are from ch. 15, "Demagogues and Martyrs". Both were checked against the page
+images, not the PDF's text layer. It sits on an `.image-notes` slide, which is
+presenter-facing type, so it is background for whoever is delivering rather
+than something students are expected to have read; the page numbers are there
+so it can be looked up. Don't promote it to a `.quote` slide without either
+assigning the chapter or dropping the citation.
 
 **Two assigned page ranges are never used.** The title slide sets Thompson
 "Preface and ch. 1, 1–25" and Vansina "ch. 1, 1–13 and 27–31", matching

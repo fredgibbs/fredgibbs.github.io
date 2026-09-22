@@ -25,7 +25,8 @@
  *                    edition, cited by page or by section). Deliberately
  *                    smaller than the reading list above it: it is
  *                    housekeeping, not one of the day's sources
- *   .rule          — short gradient divider line
+ *   .rule          — short gradient divider line. Write it as a markdown
+ *                    `---`; `<div class="rule"></div>` is the older spelling
  *   .quote         — the primary, literal quotation (the centerpiece)
  *     .quote .cite — mono citation line under a quote
  *   p.cite         — standalone source note under a whole block (e.g. a
@@ -52,6 +53,8 @@
  *     .parallel.compact — tightened variant for text-heavy comparisons
  *   .cards         — grid of numbered recap cards
  *     .card .num / .card h4 / .card p
+ *     .cards.three — three abreast, for three parallel items (e.g. three
+ *                    positions being defined) rather than a recap of parts
  *   .throughline   — where this hour sits in the course's running argument:
  *                    the recurring question as the .main-point, and the
  *                    answers so far as .answer.past/.answer.now/.answer.next
@@ -59,8 +62,13 @@
  *                    by arrows, for a model that runs in sequence (a causal
  *                    chain) where .cards would read as a list
  *     .flow .step .num / .step h4 / .step p
- *   ul.questions   — discussion-question list
+ *   ul.questions   — discussion-question list, for a slide offering several
  *     ul.questions.compact — tightened variant for long question lists
+ *   .question      — the single question a discussion slide turns on, as
+ *                    the first fragment between the .main-point topic and
+ *                    the .takehome answer
+ *   .with-figure   — discussion-slide body variant: a small image in a
+ *                    narrow left column beside the .question/.takehome
  *
  * Add `fragment` to any of the above to have it reveal on click, per
  * reveal.js convention. To have one fragment replace another in place
@@ -72,6 +80,14 @@
  * Do NOT give them the same index — `fade-left`/`fade-right`/`fade-up`/
  * `fade-down` are entrance styles (they start hidden and fade IN), not
  * exits, so they will not disappear if used for the outgoing element.
+ *
+ * The `.swap` wrapper is not optional, and forgetting it fails quietly.
+ * reveal hides a fragment with `visibility: hidden`, which keeps its box in
+ * the layout, so `fade-in-then-out` blocks left unwrapped still reveal in
+ * the right order while stacking their full heights. The slide then reads
+ * correctly at every step and silently runs off the bottom of the 960x700
+ * box, taking the last block with it. If a slide overflows and its blocks
+ * look short enough to fit, check for a missing `.swap` before cutting text.
  */
 
 :root {
@@ -177,10 +193,15 @@ html, body, .reveal {
 
 .reveal .citation-note em { font-style: italic; }
 
-.reveal .rule {
+/* The divider under a slide headline. Write it as a markdown `---`, which
+   kramdown emits as an <hr>; `<div class="rule">` is the older spelling and
+   still works. <hr> is not in reveal's reset, so clear its default border. */
+.reveal .rule,
+.reveal .slides section hr {
 	height: 1px;
 	width: 140px;
 	margin: 0.5em 0;
+	border: 0;
 	background: linear-gradient(90deg, var(--ts-heading-2) 0%, var(--ts-accent) 60%, transparent 100%);
 }
 
@@ -489,6 +510,20 @@ html, body, .reveal {
 	margin-top: 0.8em;
 }
 
+/* Three abreast, for three parallel items rather than a recap of parts. The
+   default two-column grid puts a third card alone on a second row with a dead
+   quadrant beside it, which reads as a list that ran out rather than as three
+   of a kind. Narrower columns, so keep each card's prose short. */
+.reveal .cards.three {
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 0.9em;
+}
+
+.reveal .cards.three .card p {
+	font-size: 0.42em;
+	line-height: 1.45;
+}
+
 .reveal .card {
 	border-top: 2px solid var(--ts-heading-2);
 	padding: 0.4em 0 0 0;
@@ -598,6 +633,64 @@ html, body, .reveal {
 .reveal ul.questions li { margin-bottom: 0.4em; }
 .reveal ul.questions em { color: var(--ts-heading-3); font-style: italic; }
 .reveal ul.questions strong { color: var(--ts-text); font-weight: 600; }
+
+/* ---- .with-figure : a discussion slide with the object beside it ----
+   Keeps the small picture in front of the room for the length of the
+   discussion, which a preceding full-slide image cannot do. The eyebrow,
+   .main-point and the rule stay full width above it; this wraps only the
+   body, so the three-beat pattern inside is unchanged — .question first,
+   .takehome second. The image is NOT a fragment: it is the thing being
+   discussed, not a step in the argument. Narrow on purpose (the text is the
+   slide); use .image-notes instead when the picture IS the subject and the
+   bullets are about what to look at. */
+.reveal .with-figure {
+	display: grid;
+	grid-template-columns: 22% 1fr;
+	gap: 1.4em;
+	align-items: start;
+	margin-top: 0.2em;
+}
+
+/* kramdown wraps a bare image in a <p>; keep it from adding vertical space. */
+.reveal .with-figure > p {
+	margin: 0;
+}
+
+.reveal .with-figure img {
+	display: block;
+	width: 100%;
+	margin: 0;
+	border: 1px solid var(--ts-border);
+	background: none;
+	box-shadow: 0 6px 24px rgba(0,0,0,0.45);
+}
+
+/* The body column's first child sits flush with the top of the image. */
+.reveal .with-figure .body > :first-child {
+	margin-top: 0;
+}
+
+/* ---- .question : the one question a discussion slide turns on ----
+   A discussion slide is one slide in three beats — the topic as the
+   .main-point, this as the first fragment, the crux of the answer as a
+   .takehome second. See "Discussion slides" in courses/SLIDE-STYLE.md.
+   Gold and italic, the same voice as .ask on an .image-notes bullet, so a
+   question the room is being asked looks the same wherever it appears. No
+   left border: that is .quote's mark, and this is not a quotation. Use
+   ul.questions instead where a slide genuinely offers a list to pick from,
+   as a cold-open framing slide does. */
+.reveal .question {
+	font-family: 'Fraunces', Georgia, serif;
+	font-style: italic;
+	font-size: 0.7em;
+	line-height: 1.35;
+	color: var(--ts-heading-3);
+	margin: 0.55em 0 0 0;
+	text-wrap: pretty;
+}
+
+.reveal .question em { font-style: italic; color: var(--ts-text); }
+.reveal .question strong { color: var(--ts-text); font-weight: 600; }
 
 /* ==================================================================
    BIRD'S-EYE DEVICES
