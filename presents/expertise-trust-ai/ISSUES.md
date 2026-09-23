@@ -12,9 +12,18 @@ Reperta* (c. 1600) without being confirmed as it. The caption claims nothing
 about artist or date for that reason. Identify it before publishing the deck,
 or swap in a plate with a known source.
 
-Slide 04 is settled: Joseph Wright of Derby, *An Experiment on a Bird in an
-Air Pump*, 1768, National Gallery, London. Downloaded from Wikimedia Commons,
-which records it as public domain; the credit is in the speaker note.
+⚠️ **Slide 04's caption and speaker notes are reconstructed, not original.** The
+slide was cut in error on 2026-09-23 and restored the same day from an untracked
+file with no recoverable prior version (no git history, nothing in Dropbox's
+local cache, no revisions endpoint on the connector). Restored verbatim: the
+`<section>` attributes, the eyebrow "Precedent 2", the headline "Science had to
+build its trust network," and the notes' opening line. **Rewritten from scratch:
+the `.pv-cap` caption and the whole body of the speaker note.** Read it against
+what you originally meant to say before presenting. Attribution is unchanged and
+settled: Joseph Wright of Derby, *An Experiment on a Bird in an Air Pump*, 1768,
+National Gallery, London, public domain via Wikimedia Commons. The reconstructed
+note cites Shapin & Schaffer, *Leviathan and the Air-Pump* (1985) and Shapin,
+*A Social History of Truth* (1994) — confirm those are the sources you want.
 
 ## Claims to confirm before presenting
 
@@ -80,9 +89,14 @@ of 2026-09-23 and most of it will drift, because the project is live.
 - **"Dozens of studies out of hundreds"** (A5, catch 02) follows the log's own
   wording; elsewhere the project says ~40 studies read. Consistent, but do not
   sharpen it into a figure on stage without recounting.
-- **P1 claims two precedents** because the deck shows two (print, the air pump).
-  That is a claim about what this talk covers, not about the history — do not let
-  it harden into "there have only ever been two."
+- **The "pattern" slide (B1) was cut** on 2026-09-23 — "Every disruption moved
+  expertise. None of them removed it," which generalized from the two precedents
+  and made the point that the credential certifying judgement always lags the
+  migration by a generation. That argument is load-bearing for slide 19's "what
+  do AI credentials look like?" and for the colophon close, so its last paragraph
+  was folded into slide 04's speaker notes rather than dropped. If the ending
+  feels unearned in rehearsal, that is the missing step, and it is a slide-sized
+  idea. `printing-house.jpg` remains the only unused image.
 
 - **Naming the venue** (A1 slide + notes): the chapter is under contract to CUP
   for *The Cambridge History of Medicine* vol. 2, and the proposed title change

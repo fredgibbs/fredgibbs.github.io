@@ -47,14 +47,14 @@ The through-line: AI moved the cost of doing humanities work, and it moved it in
 <!-- 07 ---------------------------------------------------------------------- -->
 <section class="s-statement scrim-none" aria-label="Scale is no longer the obstacle">
 
-Humanities workflows
+Digital? Humanities workflows
 {: .pv-eyebrow .terra}
 
-## Scale is no longer the obstacle.
+## _Techne_ is no longer an issue
 
 ---
 
-Reading across thousands of pages, drafting transcripts for a whole interview collection, describing a few hundred photographs so they can be searched — all of it is now a few weeks of supervised work rather than a years-long funded project. The main constraint is no longer capacity, it is **judgment** and **competency**.
+The Digital Humanities have long championed working at scale, exploring data, and methodological experiments. The main constraint is no longer technical capacity, it is **judgment** and **competency**. Old epistemology questions are back!
 {: .full}
 
 <aside class="notes">
@@ -91,7 +91,7 @@ AI for humanities research
 
 Themes traced across a whole corpus, language shifting over decades, patterns no close reading would surface.
 
-You are now vouching for a pattern you did not see.
+You are now vouching for a pattern you did not see. But what does seeing mean?
 {: .risk}
 </div>
 
@@ -99,11 +99,11 @@ You are now vouching for a pattern you did not see.
 02 / IN SPEECH
 {: .num}
 
-#### Forty hours of tape, searchable tomorrow.
+#### Forty hours of stories, searchable tomorrow.
 
 Draft transcripts of an entire oral history collection in days rather than months, and build an index.
 
-It mangles the names, the Spanish, and the place words — which is most of what the collection is about.
+It mangles the names, the Spanish, and the place words. But aren't they correctable?
 {: .risk}
 </div>
 
@@ -115,7 +115,7 @@ It mangles the names, the Spanish, and the place words — which is most of what
 
 The major positions, the live debates, the search terms, chart a route into a literature you have not read.
 
-It invents sources. Or does it?
+It invents sources. But can't better rules mitigate that?
 {: .risk}
 </div>
 </div>
@@ -148,7 +148,7 @@ Reconstruction
 
 ---
 
-LiDAR and photogrammetry fail visibly: a gap in a point cloud looks like a gap. A generated elevation looks finished whether or not anyone alive knows what was there. **If we build these, the drawing convention has to carry the evidence** — which is a discipline architectural illustration has had for a century and the new tools do not.
+LiDAR and photogrammetry fail visibly: a gap in a point cloud looks like a gap. A generated elevation looks finished whether or not anyone alive knows what was there. **If we use AI to re-imagine history, how do we address uncertainty?** 
 {: .full}
 
 <aside class="notes">
@@ -203,7 +203,7 @@ Provocation
 
 ---
 
-Do you trust me? That is the real issue. AI is trustworthy in the sense that skilled users know what to expect and that AI output is already consistent (while improving). The question we need to answer is **how do we know to trust those who use it?**
+Do you trust me to write history with AI? That is the real issue. AI is trustworthy in the sense that skilled users know what to expect and that AI output is already consistent (while improving). The question we need to answer is **how do we know when to trust those who use it?**
 {: .full}
 
 <aside class="notes">
@@ -600,21 +600,21 @@ Why history
 
 ---
 
-Every conversation in every department treats AI and trust as a brand-new problem — which conveniently means nobody has to find out what happened last time. It has happened before: a technology for making knowledge arrived faster than any means of checking it, and trust had to be **manufactured** — deliberately, by people, over about a century. That is the nearest thing to evidence we have, and we are inside the next one.
+Every conversation in every department treats AI and trust as a brand-new problem — which conveniently means nobody has to find out what happened last time. Twice, a technology for making knowledge arrived faster than any means of checking it. Both times trust had to be **manufactured**: deliberately, by people, over decades. Those are the only two experiments we have, and we are inside the third.
 {: .full}
 
 <aside class="notes">
-**9:25–10:00**
+**9:25–10:05**
 
 Change gear here. Everything so far has been one historian's working practice; the rest of the talk is the argument that practice is pointing at.
 
 Start with the word, because it does real work. "Unprecedented" is the most common thing said about this technology and it is almost always doing something other than describing. It excuses us from evidence. If the situation is genuinely without precedent then nobody can be expected to know anything, every opinion is as good as every other, and the committee can meet again in the spring.
 
-It is not unprecedented. We have a well-documented case of exactly this: a technology that could produce knowledge-objects faster than any existing means of checking them, dropped into a scholarly culture with no idea what to do about it. It is a case historians have worked over thoroughly, which is the whole reason a historian is standing here rather than someone from computer science.
+It is not unprecedented. We have two well-documented cases of exactly this: a technology that could produce knowledge-objects faster than any existing means of checking them, dropped into a scholarly culture that had no idea what to do about it. Both are cases historians have worked over thoroughly, which is the whole reason a historian is standing here rather than someone from computer science.
 
-And the finding is not the comforting one. Trust did not arrive with the technology and it did not emerge on its own. It was *manufactured* — built deliberately, by identifiable people, over decades, and it cost money and took institutions that did not previously exist.
+And the finding in both is the same, and it is not the comforting one. Trust did not arrive with the technology and it did not emerge on its own. It was *manufactured* — built deliberately, by identifiable people, over decades, and it cost money and took institutions that did not previously exist.
 
-So: one slide, about a minute, and then what I think it tells us to do.
+So: two slides, about ninety seconds, and then what I think they tell us to do.
 </aside>
 </section>
 
@@ -629,7 +629,7 @@ So: one slide, about a minute, and then what I think it tells us to do.
  <span class="chip dashed pin-moon-right">Frankfurt 1610 · pirated</span>
 </div>
 
-Precedent
+Precedent 1
 {: .pv-eyebrow .terra}
 
 ## Print was not automatically trustworthy.
@@ -638,9 +638,9 @@ The same Moon, the same year. Galileo's own etching on the left; on the right a 
 {: .pv-cap}
 
 <aside class="notes">
-**10:00–10:45**
+**10:05–10:50**
 
-One case, and it is the whole argument in a single object.
+Case one, and it is the argument in a single object.
 
 Print did not arrive trustworthy. More copies meant more chances for corruption, and no reader could check a text against an exemplar they would never see. What eventually made print credible was not the press; it was a century of institution-building around it — correctors on the payroll, printing privileges, colophons naming who was answerable, a trade register. Adrian Johns's argument: fixity is not a property of print. It is something people had to manufacture, and keep manufacturing.
 
@@ -648,48 +648,51 @@ Now the picture, which is the argument in one object. Galileo published in Venic
 
 Then the sting, which is the reason this slide is here. The pirated woodcuts were the ones later editions copied, and the ones that went into moon handbooks for centuries. Scholars who never saw a first edition concluded that Galileo was a crude draughtsman. The bad copy outcompeted the good one, and the author took the reputational damage for it.
 
-Say the parallel lightly and let the next slide draw it out.
+Say the parallel lightly. The next slide completes it.
 
 Sources: Adrian Johns, *The Nature of the Book* (1998). Edition history and the upside-down woodcuts: Linda Hall Library, "The Face of the Moon," section B (1610–1700). Images: Sidereus Nuncius, Venice: Baglioni, 1610 (Smithsonian Libraries copy, Internet Archive `Sidereusnuncius00Gali`) and Frankfurt: Palthenius, 1610 (Boston Public Library copy, Internet Archive `sidereusnunciusm00gali_0`) — both public domain.
 {: .sources}
 </aside>
 </section>
 
-<!-- B1 ---------------------------------------------------------------------- -->
-<section class="s-statement scrim-none" aria-label="Every disruption relocated expertise rather than removing it">
+<!-- 04 ---------------------------------------------------------------------- -->
+<section class="s-plate band-lg heavy"
+ data-background-image="images/air-pump.jpg"
+ data-background-size="cover"
+ data-background-position="center 45%"
+ aria-label="Joseph Wright of Derby, An Experiment on a Bird in an Air Pump, 1768">
 
-The pattern
+Precedent 2
 {: .pv-eyebrow .terra}
 
-## Every disruption moved expertise. None of them removed it.
+## Science had to build its trust network.
 
----
-
-Print did not replace the scholar; it invented the corrector, the editor, the bibliographer. Photography did not end draughtsmanship; it made the caption load-bearing. The skill migrates from *making the thing* to *judging the thing* — and the credential that vouches for the judging always arrives a generation late.
-{: .full}
+A demonstration is worthless unless someone credible saw it. The apparatus was never the hard part — assembling people whose word would be taken was, and it took decades.
+{: .pv-cap}
 
 <aside class="notes">
-**10:45–11:25**
+**10:50–11:30**
 
-Widen from the one case to the claim, because this is the historical argument and it is the reason a historian is the right person to be standing here.
+Same problem, next century, and this one is a laboratory.
 
-The anxious version of every technological disruption is that the expertise is about to be obsolete. That has not once been what happened. What happened is that the expertise moved, and it moved in a consistent direction: away from producing the artifact and toward evaluating it.
+The experimental method has the trust problem in its purest form. An experiment happens once, in one room, and everyone else has to take somebody's word for it. Boyle's answer was not a better pump. It was a social apparatus: perform before witnesses, name them in print, write it up in flat circumstantial prose so a reader feels present, and — the part nobody likes saying out loud — recruit witnesses whose word already counted. Gentlemen. Shapin and Schaffer's argument, and Shapin's after it: the credibility of the new science was manufactured out of existing social credit before it had any of its own.
 
-Print is the cleanest case. When copies got cheap, the scarce skill stopped being "can write a fair hand" and became "can tell which of these fourteen editions to trust" — and the trade had to invent whole occupations to supply it. The corrector on the payroll. The privilege. The register. Those are not romantic; they are quality infrastructure, and they took about a century.
+Look at the picture on those terms. It is not a picture of an experiment. It is a picture of an audience — and Wright paints them all differently. Rapt, bored, calculating, one child distraught about the bird, the man at the right checking his watch. That range is the subject. The question the painting is actually asking is who in this room you would believe afterwards.
 
-And here is the part that should worry us, because we are standing in it. In every case the migration happened faster than the credential. There was a long stretch where the work of judging was genuinely being done and there was no established way to show a stranger that you had done it. Readers fell back on what they had — personal acquaintance, institutional reputation, the name on the colophon.
+Now the sting for us, and then move on. That solution was exclusionary and we should say so — it ran on class and gender, and "credible witness" meant a particular kind of person. But it worked, and what it tells us is uncomfortable: the trust problem got solved socially rather than technically, and the institutions came first and the credentials came later. In both of these cases, the skill migrated from making the thing to judging the thing, and the way of certifying the judging lagged a generation behind. That is exactly where we are standing.
 
-That gap is where we are right now, and it is not a technology problem. It is an institution-building problem, and institutions are built on purpose, by people, usually before anyone has agreed they are necessary.
+Sources: Steven Shapin and Simon Schaffer, *Leviathan and the Air-Pump* (1985); Steven Shapin, *A Social History of Truth* (1994). Image: Joseph Wright of Derby, *An Experiment on a Bird in an Air Pump*, 1768, National Gallery, London — public domain via Wikimedia Commons.
+{: .sources}
 </aside>
 </section>
 
 <!-- C1 ---------------------------------------------------------------------- -->
 <section class="s-statement scrim-none" aria-label="Opening the section on what to build">
 
-What is do be done?
+What is to be done?
 {: .pv-eyebrow .terra}
 
-## Build trust infrastructure
+## Critical Thinking via AI
 
 ---
 
@@ -697,7 +700,7 @@ Not a policy, and not a disclosure checkbox. The thing print eventually got: som
 {: .full}
 
 <aside class="notes">
-**11:25–12:00**
+**11:30–12:05**
 
 Turn from diagnosis to what I am actually doing about it, and say plainly that none of it is finished.
 
@@ -726,7 +729,7 @@ Amaranth is a research and teaching space where faculty, students, and community
 </div>
 
 <aside class="notes">
-**12:00–12:45**
+**12:05–12:50**
 
 Start here, because every problem in this talk comes out of this room. Cultivating Amaranth has been most of my institutional energy for the last two years.
 
@@ -756,7 +759,7 @@ UNM Campus Histories — a multi-semester project. Each cohort builds on what th
 </div>
 
 <aside class="notes">
-**12:45–13:30**
+**12:50–13:35**
 
 Invert the usual arrangement. A student writes for one reader who is paid to finish it, and the public version, if the project is lucky, happens afterwards. That afterwards almost never arrives. Make the public artifact the assignment instead and they start asking who is going to read this — the question that makes every other question worth asking.
 
@@ -786,7 +789,7 @@ amaranth.unm.edu/ai-sketchbook
 </div>
 
 <aside class="notes">
-**13:30–14:10**
+**13:35–14:15**
 
 This is where the research actually happens, and it is deliberately unglamorous.
 
@@ -794,29 +797,6 @@ Read the last line of the intro out loud: students should stay alert to "the bor
 </aside>
 </section>
 
-<!-- 17 ---------------------------------------------------------------------- -->
-<section class="s-statement scrim-none" aria-label="Speculative fiction as a classroom exercise">
-
-Speculative fiction
-{: .pv-eyebrow .terra}
-
-## Ask it for a place that never existed.
-
----
-
-The most useful exercise I have found puts all of this together: have a model generate a landscape, a building, a settlement — something plausible and wholly invented — and then argue about it. **Practice the methods of AI critique**.
-{: .full}
-
-<aside class="notes">
-**14:10–14:50**
-
-Last section, and it combines everything: the research question, the reconstruction problem, and the classroom.
-
-Generative models are very good at speculative fiction, which is a polite name for confident invention. That is normally the thing we warn students about. Here it is the raw material, on purpose, and out in the open where everyone can see it happening.
-
-The move is to generate something that could not be a photograph of anywhere, hand it to a room of people who know the region, and let them take it apart.
-</aside>
-</section>
 
 <!-- 18 ---------------------------------------------------------------------- -->
 <section class="s-plate band-lg"
@@ -825,16 +805,16 @@ The move is to generate something that could not be a photograph of anywhere, ha
  data-background-position="center"
  aria-label="An AI-generated model landscape of cliff dwellings">
 
-AI-generated image
+Critical Thinking through AI
 {: .pv-eyebrow .terra}
 
 ## What here is real? What isn't?
 
-A generated model landscape of cliff dwellings. No site, no survey, no scale. Students are asked which parts they would defend, on what evidence, and what would settle it.
+A generated landscape of cliff dwellings. No site, no survey, no scale. Students are asked which parts they would defend, on what evidence, and what would settle it.
 {: .pv-cap}
 
 <aside class="notes">
-**14:50–15:45**
+**14:55–15:50**
 
 Put it up and let the room work on it for a moment before you say anything. Say clearly that it is AI-generated — after the slide before it would be absurd not to.
 
@@ -860,8 +840,15 @@ Does AI use matter when carefully mediated?
 I have history credentials. What do AI credentials look like?
 {: .full}
 
+
+<div class="cap-row">
+Fred Gibbs · fredgibbs.net · amaranth.unm.edu
+{: .pv-cap}
+</div>
+
+
 <aside class="notes">
-**15:45–16:25**
+**15:50–16:30**
 
 Ask the three questions out loud and do not answer them here — the next slide is the only answer I have.
 
@@ -875,38 +862,3 @@ Hold that question open going into the last slide.
 </aside>
 </section>
 
-<!-- D1 ---------------------------------------------------------------------- -->
-<section class="s-statement scrim-none" aria-label="Closing: the methods log as a colophon">
-
-The answer, for now
-{: .pv-eyebrow .terra}
-
-## Is the AI log the new colophon.
-
----
-
-A colophon named the printer, the place, the year, and sometimes the corrector — someone answerable, on the page, so that a reader who could never check the text could at least check the chain. My chapter ships with fifty-four dated entries recording what the machine did and what I overruled. **That is not a disclosure statement. It is the part a stranger can actually audit.**
-{: .full}
-
-<div class="cap-row">
-Fred Gibbs · fredgibbs.net · amaranth.unm.edu
-{: .pv-cap}
-
-</div>
-
-<aside class="notes">
-**16:25–17:05**
-
-Land it and stop.
-
-The previous slide asked what AI credentials look like. I do not know yet, and I am suspicious of anyone who says they do. But I think the first move is one the book trade already made, and it was not a certification and it was not a disclaimer.
-
-It was a name, on the object, attached to a chain of responsibility. The colophon did not prove the book was correct. It told you who to blame if it wasn't — and that turns out to be the load-bearing thing, because it makes carelessness cost something.
-
-A methods log is that. It is not impressive and it is not a guarantee. It is fifty-four entries saying: here is where the machine went wrong, here is where I caught it, here is one I probably haven't caught yet. If you do not trust me, that file is where you would go to find out you were right.
-
-And that is the honest end of the argument I started with. You should not be asking whether the model is trustworthy. You should be asking me to show my work — and my obligation is to organize my work so that showing it is possible.
-
-Thank you. Questions.
-</aside>
-</section>
