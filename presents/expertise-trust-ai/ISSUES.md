@@ -25,6 +25,21 @@ National Gallery, London, public domain via Wikimedia Commons. The reconstructed
 note cites Shapin & Schaffer, *Leviathan and the Air-Pump* (1985) and Shapin,
 *A Social History of Truth* (1994) — confirm those are the sources you want.
 
+## Permission to confirm for the 3D-print slide
+
+**The photograph on the 3D-print slide ("Print it, then take it apart") is not
+mine.** `images/wwi-monument-print.jpg` was downloaded from
+jeseyfried.github.io/war-monuments, whose page states that everything on it was
+written by Claude Fable 5.1 from a single research prompt. Confirm permission
+and the credit line with whoever owns that project before presenting, and decide
+how they want to be named on the slide or in the notes.
+
+**The monument is imaginary and its footnotes are unverified.** The named German
+monuments, artists, dates and scholarship in that project's document are the
+model's claims; I have not checked any of them. That is the point of the slide —
+the last question on it sends students to check — but do not assert any of those
+attributions yourself from the podium.
+
 ## Claims to confirm before presenting
 
 - **The stewardship slide (14) describes a policy as if it is settled practice.**

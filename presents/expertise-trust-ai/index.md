@@ -138,49 +138,27 @@ Source: amaranth.unm.edu/projects/ai-humanities — the workflows and their stat
 </aside>
 </section>
 
-<!-- 09 ---------------------------------------------------------------------- -->
-<section class="s-statement scrim-none" aria-label="Every reconstruction is an argument with the confidence turned up">
-
-Reconstruction
-{: .pv-eyebrow .terra}
-
-## Every reconstruction is an argument with the *confidence turned up*.
-
----
-
-LiDAR and photogrammetry fail visibly: a gap in a point cloud looks like a gap. A generated elevation looks finished whether or not anyone alive knows what was there. **If we use AI to re-imagine history, how do we address uncertainty?** 
-{: .full}
-
-<aside class="notes">
-**1:55–2:35**
-
-The other half of the research work is historical reconstruction — buildings and landscapes that are gone, in AR and VR.
-
-The appeal is obvious: you can put a body in a space that no longer exists, which no photograph and no scan can do. The danger is equally obvious once you say it plainly. Scanning records what survived. Reconstruction invents what didn't, and it invents it at the same visual confidence as the parts that are documented.
-
-The fix is not technical and it is not new. Reconstruction drawings have always distinguished extant fabric from conjecture with line weight and hatching. We need to carry that convention into the medium, and we need to do it now, while the conventions are still being set.
-</aside>
-</section>
-
 <!-- 10 ---------------------------------------------------------------------- -->
 <section class="s-plate band-lg heavy"
  data-background-image="images/vr-reconstruction.jpg"
- data-background-size="cover"
+ data-background-size="contain"
  data-background-position="center"
  aria-label="A generated VR view splitting standing ruins from a fully rendered reconstruction, with an AI confidence score">
 
-AI-generated image
+Recreating history
 {: .pv-eyebrow .terra}
 
-## Ninety-four per cent confident. Of what?
+## New historical realities
 
-Both halves are generated — the "reality" on the left is not a photograph either. Nothing in the reconstruction is sourced to anything, and the number measures nothing at all.
+Both halves are generated — the "reality" on the left is not a photograph either, and the number measures nothing at all. A gap in a point cloud looks like a gap; a generated elevation looks finished whether or not anyone alive knows what was there. **If we reimagine history with AI, how do we delineate "fact" and "fiction"?**
 {: .pv-cap}
 
 <aside class="notes">
-**2:35–3:30**
+**1:55–3:30**
 
-Let them look before you say anything. Someone will read the panel out loud.
+The other half of the research work is historical reconstruction — buildings and landscapes that are gone, in AR and VR. The appeal is obvious: you can put a body in a space that no longer exists, which no photograph and no scan can do. The danger is equally obvious once you say it plainly. Scanning records what survived; reconstruction invents what didn't, and it invents it at the same visual confidence as the parts that are documented. LiDAR and photogrammetry fail visibly — a gap in a point cloud looks like a gap. A generated elevation fails invisibly.
+
+Then let them look before you say anything else. Someone will read the panel out loud.
 
 What the picture promises is a clean split: measured fact on the left, reconstruction on the right, and a seam down the middle you can see. What it actually delivers is a single generated image in which both halves are invented, including the ruin. There is no survey behind the wall on the left and no source behind the roof beams, the plaster, the hanging corn, or the people on the right.
 
@@ -344,9 +322,9 @@ Now the significance, which is the reason this slide exists. The reason integrat
 How the project is organized
 {: .pv-eyebrow}
 
-### Not folders. Triggers.
+### Folders, files, triggers.
 
-Not "here is where things live" but *when this happens, do this.* A rule that fires at the moment it is needed, instead of sitting in a document nobody rereads.
+A place for everything so I can find inspect it, but also rules for *when this happens, do this.* A rule that fires at the moment it is needed.
 </div>
 
 <aside class="notes">
@@ -402,12 +380,12 @@ Now three slides, one per stage, showing what those rules actually leave behind.
 </div>
 
 <div class="side">
-Stage one — the note
+1/3: Source summary
 {: .pv-eyebrow}
 
 ### Read it on its own terms first.
 
-Fifty-six of these, all the same shape. The source's own emphasis and its own *polemical target* go down before a word about what the chapter wants from it.
+Notes for each source, all following the same rules. Identify historiographical interventions, secondary source base, primary source base, outliers. Pin them to specific passages.
 </div>
 
 <aside class="notes">
@@ -452,10 +430,10 @@ The chapter's own AI gap-claim: own it reflexively.</pre>
 </div>
 
 <div class="side">
-Stage two — the synthesis
+2/3: Synthesis
 {: .pv-eyebrow}
 
-### The file I read hardest.
+### Bring notes together.
 
 Built out of the notes by cross-reading. These are claims about *my* argument rather than about anybody's evidence — which is exactly why they need a human on them.
 </div>
@@ -504,12 +482,12 @@ the story reads coherently end-to-end <span class="hi">BEFORE any prose.</span>
 </div>
 
 <div class="side">
-Stage three — the outline
+3/3: Add to outline
 {: .pv-eyebrow}
 
-### Argue it before you write it.
+### Sketch out a place.
 
-The whole chapter end to end, while it is still cheap to change. The guardrails at the bottom bind every section of the prose that follows.
+The guardrails at the bottom constantly scan for biases and drift.
 </div>
 
 <aside class="notes">
@@ -537,10 +515,10 @@ That is the workflow. Read, note, synthesize, outline, draft, and a file at ever
  aria-label="Two corrections from the methods log that no fact-check would have caught">
 
 <div class="head">
-Where it went wrong
+Where it went ... wrong?
 {: .pv-eyebrow}
 
-### Neither of these is a hallucination.
+### Hallucination or conference convo?
 </div>
 
 <div class="row">
@@ -550,7 +528,7 @@ CATCH 01 / THE INVENTED OPPONENT
 
 #### It argued against nobody.
 
-The draft kept pushing back on the idea that medieval diet was primitive proto-nutrition — a debate the field retired decades ago. I asked who actually holds that view. Nobody does. It dropped the foil and reached for a second one within the hour.
+The outline kept surfacing the idea that medieval diet was not proto-nutrition---true, but everyone already knows that. I asked who actually holds that view. Nobody does. It dropped the foil.
 
 The rule that came out of it: *don't argue against a position no one in your conversation actually holds.*
 {: .risk}
@@ -562,7 +540,7 @@ CATCH 02 / THE PREMATURE VERDICT
 
 #### It closed a question.
 
-It wrote that a line of enquiry had "collapsed" and could be closed. We had read dozens of studies out of hundreds, in a field where one good study changes everything.
+It wrote that a line of inquiry from sources had "collapsed" and could be closed. We had read dozens of studies out of hundreds.
 
 The rule that came out of it: *"nothing in the current corpus" — never "there is no such thing."*
 {: .risk}
@@ -596,11 +574,10 @@ So this is what my expertise was for. Not producing the prose. Noticing, on a Tu
 Why history
 {: .pv-eyebrow .terra}
 
-## "Unprecedented" is a way of not looking.
+## Tech disruptions also disrupt social trust
 
 ---
-
-Every conversation in every department treats AI and trust as a brand-new problem — which conveniently means nobody has to find out what happened last time. Twice, a technology for making knowledge arrived faster than any means of checking it. Both times trust had to be **manufactured**: deliberately, by people, over decades. Those are the only two experiments we have, and we are inside the third.
+Just a few historical examples of when **trust had to be manufactured** deliberately, by people, over decades.
 {: .full}
 
 <aside class="notes">
@@ -629,12 +606,15 @@ So: two slides, about ninety seconds, and then what I think they tell us to do.
  <span class="chip dashed pin-moon-right">Frankfurt 1610 · pirated</span>
 </div>
 
-Precedent 1
+Precedent 1: Galileo's Sidereus Nuncius
 {: .pv-eyebrow .terra}
 
 ## Print was not automatically trustworthy.
 
-The same Moon, the same year. Galileo's own etching on the left; on the right a Frankfurt piracy, recut in wood and printed upside down with stronger contrast. The latter was far more reprinted. Which is, or becomes, true?
+The same Moon, the same year. Galileo's own etching on the left; on the right a Frankfurt piracy, recut in wood and printed upside down with stronger contrast. The latter was far more reprinted.
+{: .pv-cap}
+
+**Which is, or becomes, true?**
 {: .pv-cap}
 
 <aside class="notes">
@@ -662,12 +642,11 @@ Sources: Adrian Johns, *The Nature of the Book* (1998). Edition history and the 
  data-background-position="center 45%"
  aria-label="Joseph Wright of Derby, An Experiment on a Bird in an Air Pump, 1768">
 
-Precedent 2
+Precedent 2: The Scientific "Revolution" (that didn't happen)
 {: .pv-eyebrow .terra}
 
 ## Science had to build its trust network.
-
-A demonstration is worthless unless someone credible saw it. The apparatus was never the hard part — assembling people whose word would be taken was, and it took decades.
+A demonstration is worthless unless someone credible saw it. Reproducing experiments could be hard, but not harder than assembling a network of trusted sources, authorities, and publishers.
 {: .pv-cap}
 
 <aside class="notes">
@@ -696,7 +675,7 @@ What is to be done?
 
 ---
 
-Not a policy, and not a disclosure checkbox. The thing print eventually got: somewhere the work is done in the open, a record of who checked what, and a generation of students who have done the checking themselves and know what it costs.
+Not a policy; not a disclosure checkbox. Continued engagement with AI in research, teaching, and service. So scholars learn to engage with AI-assisted scholarship and for students to sharpen critical thinking. **AI will erode critical thinking only if we let it.**
 {: .full}
 
 <aside class="notes">
@@ -752,9 +731,9 @@ Teaching
 
 ### Teach peer review
 
-When public scholarship is the default output, the possibilities and incentives change from day one: students write for readers, cite for strangers, and think about trust.
+When public scholarship is the default output, the possibilities and incentives change from day one: students write for readers, establish credibility, cite for strangers, and think about trusting unknown authors.
 
-UNM Campus Histories — a multi-semester project. Each cohort builds on what the last one made.
+UNM Campus Histories asks students to compare vanilla AI histories to what's in the official archive--and manage their collaborator. 
 {: .pv-cap}
 </div>
 
@@ -782,7 +761,7 @@ AI Sketchbook
 
 ### Field notes, especially the failures.
 
-A shared space where colleagues try something, write down what happened, and tag it. Fifteen sketches so far with fieldnotes — because the honest takeaway is usually *that it half worked*.
+A shared space where colleagues try something, write down what happened, and tag it. ~15 sketches so far with fieldnotes.
 
 amaranth.unm.edu/ai-sketchbook
 {: .pv-cap}
@@ -798,6 +777,59 @@ Read the last line of the intro out loud: students should stay alert to "the bor
 </section>
 
 
+<!-- 17 ---------------------------------------------------------------------- -->
+<section class="s-column scrim-none"
+ data-background-color="#100d0b"
+ aria-label="A 3D print of an AI-designed 1920s German war memorial, with questions for interrogating it">
+
+<div class="art" markdown="0"><img src="images/wwi-monument-print.jpg" alt="A grey 3D print of an imaginary 1920s German war memorial: a stepped plinth carrying an Iron Cross in a wreath and an inscription, a helmeted sentry resting both hands on a sword above, and a recumbent soldier lying at its foot"></div>
+
+<div class="say">
+Designed by AI
+{: .pv-eyebrow .terra}
+
+### Print it, then take it apart.
+
+A memorial that never existed, composed by a model from 1920s German memorials and footnoted to real ones.
+
+The helmet is the only modern object here. An M1916 *Stahlhelm*?
+{: .pv-cap}
+
+Iron Cross, or a star in a wreath? And what does the inscription say?
+{: .pv-cap}
+
+A sword, in a war of artillery — the 1920s' choice, or the model's?
+{: .pv-cap}
+
+Every feature is footnoted to a named monument. Do they exist?
+{: .pv-cap}
+
+No woman, no wound, no face. The period, or the prompt?
+{: .pv-cap}
+</div>
+
+<aside class="notes">
+**14:20–14:55**
+
+Hand it round if you have printed one. The point of the object is that it is the only thing in this talk that can be picked up, and picking it up is what makes the questions feel answerable rather than rhetorical.
+
+What it is: someone prompted a model to research how 1920s German memorials depicted the male soldier, synthesise the most common elements into a single imaginary *Kriegerdenkmal*, and deliver a printable STL plus a document tying each feature to specific named monuments. So it arrives with a bibliography — which is exactly what makes it teachable. An image you can only argue about. A footnoted object you can check.
+
+Work the questions in that order, because they get progressively harder to answer from the object alone.
+
+The helmet and the Iron Cross are answerable by looking, and they are where the print's own errors live: the design calls for an M1916 helmet with side lugs and a cross pattée in a laurel wreath, and at 1:40 the lugs are under a millimetre, so the FDM print blurs both. That is a useful distinction to draw out — some of what is wrong here is the model's invention and some is the printer's resolution, and telling those apart is a skill.
+
+The inscription is the turn. The design specifies "1914 · 1918 / UNSEREN GEFALLENEN", and on the print it is unreadable mush. You cannot answer the question from the object; you have to go back to the document that generated it. That is the whole lesson in one move.
+
+The sword and the absences are the interpretive questions, and the source document has real arguments for both — the medieval weapon standing in for industrial killing, and the deliberate exclusion of any woman, wound or face as a claim about what mainstream memorials refused to show. Those arguments may well be right. Ask anyway whose argument it is.
+
+The last question is the assignment. The document names monuments — Münster's *Stehender Soldat*, the Munich Hofgarten crypt, Plön, Berlin-Mariendorf — and cites a scholarly literature. Its own note on that literature says the sources come "from prior knowledge" and should be verified before citing. Send students to find out. Some will check out; the interesting seminar is about the ones that don't, and about how you would know either way.
+
+Sources: object and design document from jeseyfried.github.io/war-monuments, whose page states that everything on it was written by Claude Fable 5.1 from a single research prompt. The monument is imaginary. The named German monuments, artists, dates and scholarship are the model's claims and I have not verified them — that is the point of the slide, not an endorsement. Confirm permission and credit for the photograph before presenting.
+{: .sources}
+</aside>
+</section>
+
 <!-- 18 ---------------------------------------------------------------------- -->
 <section class="s-plate band-lg"
  data-background-image="images/ai-mesa-verde.jpg"
@@ -805,7 +837,7 @@ Read the last line of the intro out loud: students should stay alert to "the bor
  data-background-position="center"
  aria-label="An AI-generated model landscape of cliff dwellings">
 
-Critical Thinking through AI
+Imagined Landscapes 
 {: .pv-eyebrow .terra}
 
 ## What here is real? What isn't?
@@ -827,7 +859,7 @@ A student who knows the Southwest will get to "the siting is wrong" fast. Gettin
 <!-- 19 ---------------------------------------------------------------------- -->
 <section class="s-statement scrim-none" aria-label="Closing: the complaint is the lesson">
 
-The questions
+With interative prompting and spot editing...
 {: .pv-eyebrow}
 
 ## These slides are AI-generated

@@ -333,7 +333,7 @@ html, body { background: var(--pv-bg-deep); }
 
 .reveal .slides section .pv-cap {
 	font-family: var(--pv-mono);
-	font-size: 12.5px;
+	font-size: 15px;
 	line-height: 1.55;
 	letter-spacing: 0.04em;
 	color: rgba(232, 224, 212, 0.62);
