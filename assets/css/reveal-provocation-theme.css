@@ -552,11 +552,26 @@ html, body { background: var(--pv-bg-deep); }
 }
 .reveal .slides section.s-index .head { display: flex; flex-direction: column; gap: 20px; }
 .reveal .slides section.s-index .head h3 { font-size: 46px; letter-spacing: -0.02em; line-height: 1.02; }
+/* An index slide may lead with a statement headline above its subheading. It is
+ * set smaller than a type-only .s-statement (80px), because three columns have
+ * to fit under it — and the pair is tightened so they read as one block. */
+.reveal .slides section.s-index .head:has(h2) { gap: 14px; }
+.reveal .slides section.s-index .head h2 {
+	font-size: 58px;
+	letter-spacing: -0.032em;
+	line-height: 0.96;
+	max-width: var(--pv-measure);
+}
+.reveal .slides section.s-index .head h2 + h3 { color: var(--pv-muted); font-weight: 400; }
 /* The items share one set of rows (subgrid), so label, headline, body and risk
  * each start on a common line across all three. Stacked independently, one
  * headline that wrapped to an extra line pushed only its own column down, and
  * the risk rules stepped out of line with each other. */
 .reveal .slides section.s-index .row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px 46px; }
+/* Two across, for a pair of worked examples that each need room to be read. */
+.reveal .slides section.s-index.two .row { grid-template-columns: repeat(2, 1fr); gap: 16px 64px; }
+.reveal .slides section.s-index.two .item h4 { font-size: 34px; }
+.reveal .slides section.s-index.two .item p { font-size: 18px; }
 .reveal .slides section.s-index .item { display: grid; grid-row: span 3; grid-template-rows: subgrid; gap: 14px; }
 .reveal .slides section.s-index .row:has(.risk) .item { grid-row: span 4; }
 .reveal .slides section.s-index .item .num {
@@ -624,6 +639,77 @@ html, body { background: var(--pv-bg-deep); }
 .reveal .slides section.s-column .say .pv-cap { max-width: none; }
 
 /* ------------------------------------------------------- browser frame */
+
+/* An editor pane. The deck shows a working file rather than a screenshot of
+ * one: a real editor window is system chrome at 11px — unreadable projected —
+ * and its own colour scheme fights the slide. This is the file, set in the
+ * deck's type at a size a room can read. Inside .src: .k a heading or key,
+ * .hi the line that must be legible, .w the rule that bites, .c an elision.
+ * At a third of the measure a pane holds ~45 characters, so a small one is
+ * texture plus two legible lines; the caption carries the meaning. */
+.pv-editor {
+	background: var(--pv-bg);
+	border: 1px solid var(--pv-line-bright);
+	border-radius: 7px;
+	overflow: hidden;
+}
+.pv-editor .bar {
+	display: flex;
+	align-items: flex-end;
+	gap: 9px;
+	padding: 9px 13px 0;
+	background: var(--pv-bg-deep);
+	border-bottom: 1px solid var(--pv-line-bright);
+}
+.pv-editor .bar i {
+	width: 9px; height: 9px; border-radius: 50%; flex: none;
+	background: var(--pv-line-bright);
+	margin-bottom: 9px;
+}
+.pv-editor .bar .tab {
+	font-family: var(--pv-mono);
+	font-size: 13px;
+	letter-spacing: 0.02em;
+	color: var(--pv-text);
+	background: var(--pv-bg);
+	border: 1px solid var(--pv-line-bright);
+	border-bottom: 0;
+	border-radius: 5px 5px 0 0;
+	padding: 6px 13px;
+	margin-left: 5px;
+}
+.pv-editor .src {
+	margin: 0;
+	padding: 17px 19px 19px;
+	font-family: var(--pv-mono);
+	font-size: 15px;
+	line-height: 1.6;
+	color: var(--pv-faint);
+	white-space: pre;
+	overflow: hidden;
+	background: none;
+	box-shadow: none;
+	border: 0;
+}
+.pv-editor .src .k  { color: var(--pv-gold); }
+.pv-editor .src .hi { color: var(--pv-text); }
+.pv-editor .src .w  { color: var(--pv-terra); }
+.pv-editor .src .c  { color: var(--pv-line-bright); }
+.pv-editor.sm .bar { padding: 7px 10px 0; gap: 7px; }
+.pv-editor.sm .bar i { width: 7px; height: 7px; margin-bottom: 7px; }
+.pv-editor.sm .bar .tab { font-size: 11px; padding: 5px 9px; }
+.pv-editor.sm .src { font-size: 12px; line-height: 1.62; padding: 13px 13px 15px; }
+
+/* Three working files across, each under its own label. */
+.reveal .slides section.s-files { align-content: center; gap: 46px; }
+.reveal .slides section.s-files .head { display: flex; flex-direction: column; gap: 18px; }
+.reveal .slides section.s-files .head h3 { font-size: 46px; letter-spacing: -0.02em; line-height: 1.02; }
+.reveal .slides section.s-files .row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px 28px; }
+.reveal .slides section.s-files .col { display: grid; grid-row: span 3; grid-template-rows: subgrid; gap: 13px; }
+.reveal .slides section.s-files .col p {
+	font-size: 16.5px; line-height: 1.5; color: var(--pv-muted); max-width: none; margin: 0;
+}
+.reveal .slides section.s-files .col p strong { color: var(--pv-text); font-weight: 500; }
 
 .pv-device {
 	border: 1px solid var(--pv-line-bright);
