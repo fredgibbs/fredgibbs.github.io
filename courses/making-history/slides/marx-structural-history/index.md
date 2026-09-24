@@ -17,10 +17,10 @@ image_slides: true
 <!-- ========== COLD OPEN: MANCHESTER ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="landscape">
-<img src="images/manchester-kersal-moor-1852.jpg" alt="A watercolour landscape: goats and a resting couple on a grassy bank with trees at the left, green fields in the middle distance, and along the whole horizon a line of smoking factory chimneys under a golden haze">
+<img src="images/manchester-kersal-moor-1852.jpg" alt="A watercolor landscape: goats and a resting couple on a grassy bank with trees at the left, green fields in the middle distance, and along the whole horizon a line of smoking factory chimneys under a golden haze">
 <figcaption markdown="span">
 <i>Manchester from Kersal Moor</i> · William Wyld, 1852
-<em>Painted four years after the <i>Manifesto</i>. Goats, a woman in a red skirt and a stand of trees in the foreground; along the horizon the mill chimneys of the world's first industrial city, in a haze the watercolour makes golden. <strong>A picturesque landscape convention, applied to Cottonopolis.</strong><br>(Royal Collection, via Google Art Project. Public domain.)</em>
+<em>Painted four years after the <i>Manifesto</i>. Goats, a woman in a red skirt and a stand of trees in the foreground; along the horizon the mill chimneys of the world's first industrial city, in a haze the watercolor makes golden. <strong>A picturesque landscape convention, applied to Cottonopolis.</strong><br>(Royal Collection, via Google Art Project. Public domain.)</em>
 </figcaption>
 </figure>
 </section>
@@ -28,7 +28,7 @@ image_slides: true
 <!-- ========== COLD OPEN NOTES ========== -->
 <section markdown="1">
 <div class="image-notes" markdown="1">
-<img src="images/manchester-kersal-moor-1852.jpg" alt="The Manchester watercolour, reduced: pastoral foreground, a horizon of mill chimneys">
+<img src="images/manchester-kersal-moor-1852.jpg" alt="The Manchester watercolor, reduced: pastoral foreground, a horizon of mill chimneys">
 <div class="notes" markdown="1">
 
 - **The chimneys are the horizon.** They run the full width of the picture, and each one is a steam engine burning coal. Manchester's population grew roughly fourfold in the first half of the century. <em class="ask">If nobody decided this, what kind of explanation could account for it?</em>
@@ -144,7 +144,7 @@ Green and Troup: putting economic relationships at the core "fundamentally diffe
 <!-- ========== IMAGE: THE READING ROOM ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="landscape">
-<img src="images/bm-reading-room-1859.jpg" alt="A wood engraving of a vast domed circular library, tiers of bookshelves running the whole circumference beneath arched windows, with long reading desks radiating from the centre and small dark figures of readers seated at them">
+<img src="images/bm-reading-room-1859.jpg" alt="A wood engraving of a vast domed circular library, tiers of bookshelves running the whole circumference beneath arched windows, with long reading desks radiating from the center and small dark figures of readers seated at them">
 <figcaption markdown="span">
 The Reading Room of the British Museum, 1859
 <em>Smirke's domed room opened in 1857. Marx, a reader since 1850, spent years here working the theory he had sketched in 1848 into <i>Capital</i> (1867), which cites the reports of Britain's factory inspectors page after page. <strong>Not philosophy alone: the case was made from historical evidence.</strong> Compare Ranke's library in 4.2.<br>(Wood engraving, 1859. Library of Congress, LC-DIG-ppmsca-15551. Public domain.)</em>
@@ -358,7 +358,7 @@ Capitalism's crises come from "too much civilisation, too much means of subsiste
 <img src="images/powerloom-weaving-1835.jpg" alt="An engraving of a long factory hall with two rows of power looms receding into the distance, driven by belts from shafting that crosses the ceiling, tended almost entirely by women and girls in long dresses">
 <figcaption markdown="span">
 Power-loom weaving · from Edward Baines, <i>History of the Cotton Manufacture in Great Britain</i>, 1835
-<em>Rows of looms driven by belts from one overhead shaft, in a clean, well-lit hall. Almost every worker in the plate is a woman or a girl. <strong>Baines's book is a defence of the cotton industry</strong> — this is how it chose to picture a factory.<br>(T. Allom, engraved by J. Tingle, 1835. Public domain.)</em>
+<em>Rows of looms driven by belts from one overhead shaft, in a clean, well-lit hall. Almost every worker in the plate is a woman or a girl. <strong>Baines's book is a defense of the cotton industry</strong> — this is how it chose to picture a factory.<br>(T. Allom, engraved by J. Tingle, 1835. Public domain.)</em>
 </figcaption>
 </figure>
 </section>
@@ -366,7 +366,7 @@ Power-loom weaving · from Edward Baines, <i>History of the Cotton Manufacture i
 <!-- ========== IMAGE: THE SPINNING ROOM ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="portrait">
-<img src="images/hervieu-love-conquered-fear-1839.jpg" alt="An etching of a mill spinning room: long spinning mules down the left, two ragged boys embracing in the centre aisle, a barefoot girl and other workers watching, a child crouched under the machine at lower left, and a man in a top hat standing at the back">
+<img src="images/hervieu-love-conquered-fear-1839.jpg" alt="An etching of a mill spinning room: long spinning mules down the left, two ragged boys embracing in the center aisle, a barefoot girl and other workers watching, a child crouched under the machine at lower left, and a man in a top hat standing at the back">
 <figcaption markdown="span">
 "Love conquered Fear" · Auguste Hervieu, 1839
 <em>A plate for Frances Trollope's <i>Michael Armstrong, the Factory Boy</i>: two brothers embrace between the spinning mules while the mill owner watches in a top hat, and a child crouches under the machine. <strong>Trollope wrote the novel against the factory system.</strong><br>(Plate dated 20 April 1839, Henry Colburn; faces ch. VIII. Library of Congress copy, via Internet Archive. Public domain.)</em>

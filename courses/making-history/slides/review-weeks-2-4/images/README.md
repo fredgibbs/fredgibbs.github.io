@@ -22,7 +22,7 @@ If you change a filename, update the matching `<img src="…">` in `../index.md`
 | `machiavelli-santi-di-tito.jpg` | Niccolò Machiavelli, by Santi di Tito | `divine-power-and-statecraft` | Palazzo Vecchio, Florence | Public domain |
 | `wright-orrery-1766.jpg` | Joseph Wright of Derby, *A Philosopher Giving That Lecture on the Orrery, in which a Lamp is put in place of the Sun*, c. 1766 | `enlightenment-progress` | Derby Museum and Art Gallery, via Europeana | Public domain |
 | `kant-portrait-c1790.jpg` | Immanuel Kant, c. 1790 | `enlightenment-progress-2` | Unknown, possibly Elisabeth von Stägemann (school of Anton Graff) | Public domain |
-| `encyclopedie-frontispiece.jpg` | Frontispiece to the *Encyclopédie*: Truth, radiant at the centre, unveiled by Reason and Philosophy | `enlightenment-progress-2` | Charles-Nicolas Cochin (design, 1764) / Benoît-Louis Prévost (engraving, 1772) | Public domain |
+| `encyclopedie-frontispiece.jpg` | Frontispiece to the *Encyclopédie*: Truth, radiant at the center, unveiled by Reason and Philosophy | `enlightenment-progress-2` | Charles-Nicolas Cochin (design, 1764) / Benoît-Louis Prévost (engraving, 1772) | Public domain |
 | `ranke-library-1880s.jpg` | Leopold von Ranke in his library, early 1880s | `scientific-history` | Leopold von Ranke Papers, Special Collections Research Center, Syracuse University, via Wikimedia Commons | Public domain |
 | `ranke-vorrede-1824.jpg` | Page VI of the 1824 preface, with *wie es eigentlich gewesen* and the source paragraph. **A crop** | `scientific-history` | Internet Archive, `geschichtenderro00rank` | Public domain |
 

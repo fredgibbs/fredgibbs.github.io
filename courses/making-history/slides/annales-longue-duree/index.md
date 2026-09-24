@@ -192,7 +192,7 @@ Part one · Bloch, written 1941–43
 ###### The circumstances, in his own words
 {: .label}
 
-France defeated and divided; Bloch, a Jew, teaching in the unoccupied zone and writing from what he has with him. Four pages in, he apologises for it: "the impossibility of reaching any large library, and the loss of my own books have made me dependent upon my notes and upon memory" (p. 6).
+France defeated and divided; Bloch, a Jew, teaching in the unoccupied zone and writing from what he has with him. Four pages in, he apologizes for it: "the impossibility of reaching any large library, and the loss of my own books have made me dependent upon my notes and upon memory" (p. 6).
 </div>
 <div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="2" markdown="1">
 
@@ -397,7 +397,7 @@ Braudel, on the same page: "narrative history is not an objective method, still 
 <!-- ========== IMAGE: MESSINA ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="landscape">
-<img src="images/messina-1572.jpg" alt="A hand-coloured bird's-eye engraving of a walled city along a shore, wrapped around a long curving sandspit that encloses a deep sickle-shaped harbour crowded with sailing ships, with hills rising behind the town">
+<img src="images/messina-1572.jpg" alt="A hand-colored bird's-eye engraving of a walled city along a shore, wrapped around a long curving sandspit that encloses a deep sickle-shaped harbor crowded with sailing ships, with hills rising behind the town">
 <figcaption markdown="span">
 <i>Messana</i> — Messina · Braun and Hogenberg, <i>Civitates Orbis Terrarum</i>, 1572
 <em>The sandspit curls right around the anchorage and makes a harbour no storm reaches. The Holy League fleet assembled inside that hook in the late summer of 1571 and sailed from it to Lepanto. <strong>The plate was published the following year.</strong><br>(Universitätsbibliothek Heidelberg, 1582 German edition. Public domain. Cropped — see <code>images/README.md</code>.)</em>
@@ -503,7 +503,7 @@ For the men chained to the oars it was not a surface, and a test that scores his
 <!-- ========== IMAGE: THE CHART ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="landscape">
-<img src="images/mediterranean-chart-1569.jpg" alt="An engraved and hand-coloured sea chart of the Mediterranean and western Europe, covered edge to edge by a web of ruled rhumb lines radiating from compass roses, with coastlines picked out in red and small drawn ships and walled cities scattered across the sea">
+<img src="images/mediterranean-chart-1569.jpg" alt="An engraved and hand-colored sea chart of the Mediterranean and western Europe, covered edge to edge by a web of ruled rhumb lines radiating from compass roses, with coastlines picked out in red and small drawn ships and walled cities scattered across the sea">
 <figcaption markdown="span">
 The Mediterranean and north-east Atlantic · Paolo Forlani after Diogo Homem, Venice, 1569
 <em>Engraved two years before Lepanto. The interiors of Europe and Africa are left blank; what is drawn in detail is the coastline, the ports, and the bearings between them. <strong>A chart records the sea as a system of routes, which is close to what Braudel means by a structure.</strong><br>(National Maritime Museum, Greenwich. Public domain. Cropped to the neatline — see <code>images/README.md</code>.)</em>

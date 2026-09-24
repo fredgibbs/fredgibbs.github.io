@@ -11,7 +11,7 @@ image_slides: true
  data-background-size="contain"
  data-background-color="#0d1412" markdown="1">
 
-An oil painting of a high gilded hall: two dozen men in uniforms, sashes, frock coats and fezzes stand and sit around a long table under tall curtained windows, one shaking hands at the centre
+An oil painting of a high gilded hall: two dozen men in uniforms, sashes, frock coats and fezzes stand and sit around a long table under tall curtained windows, one shaking hands at the center
 {: .bleed-alt}
 
 Anton von Werner, *Der Kongreß zu Berlin* — the closing session, 13 July 1878; painted 1892 · Deutsches Historisches Museum · public domain
@@ -237,7 +237,7 @@ Part one · gender and class
 Part one · the criticism
 {: .eyebrow}
 
-## Women of colour showed that the shared experience was white and middle class
+## Women of color showed that the shared experience was white and middle class
 {: .main-point}
 
 ---
@@ -277,10 +277,10 @@ Part one · where it ended up
 <!-- ========== IMAGE: JOAN SCOTT ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="portrait">
-<img src="images/scott-2013-portrait.jpg" alt="A colour photograph of an older woman with short white hair and red-framed glasses, smiling, standing in front of crowded white bookshelves; one shelf carries a label reading GENDER">
+<img src="images/scott-2013-portrait.jpg" alt="A color photograph of an older woman with short white hair and red-framed glasses, smiling, standing in front of crowded white bookshelves; one shelf carries a label reading GENDER">
 <figcaption markdown="span">
 Joan Wallach Scott · b. 1941
-<em>A historian of French labour, who had already written on women and work with Louise A. Tilly. She gave this paper to the American Historical Association in December 1985; the *AHR* printed it a year later.<span class="why"><strong>Why she matters:</strong> she argues that gender is not a subject to add to history but a category that changes what any history can ask.</span>(Photograph by B. Sutherton, 2013, cropped. CC BY-SA 3.0.)</em>
+<em>A historian of French labor, who had already written on women and work with Louise A. Tilly. She gave this paper to the American Historical Association in December 1985; the *AHR* printed it a year later.<span class="why"><strong>Why she matters:</strong> she argues that gender is not a subject to add to history but a category that changes what any history can ask.</span>(Photograph by B. Sutherton, 2013, cropped. CC BY-SA 3.0.)</em>
 </figcaption>
 </figure>
 </section>
@@ -421,7 +421,7 @@ Scott, pp. 1067–68.
 <!-- ========== IMAGE: THE BURKE FRONTISPIECE ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="portrait">
-<img src="images/burke-frontispiece-1790.jpg" alt="A hand-coloured etching: a man in a blue coat kneels on one knee before a radiant floating vision of a crowned woman, while a winged cherub above touches his head with a flaming torch; engraved text runs beneath">
+<img src="images/burke-frontispiece-1790.jpg" alt="A hand-colored etching: a man in a blue coat kneels on one knee before a radiant floating vision of a crowned woman, while a winged cherub above touches his head with a flaming torch; engraved text runs beneath">
 <figcaption markdown="span">
 *Frontispiece to Reflections on the French Revolution* · 1790
 <em>Burke kneels to a vision of Marie-Antoinette while a cherub sets his head alight. Published 2 November 1790 — the day after Burke's book — with his own sentences about the queen engraved underneath.<br>(Library of Congress, British Cartoon Prints Collection. Public domain.)</em>
@@ -441,7 +441,7 @@ Part two · Burke, 1790
 
 <div class="quote compact" markdown="1">
 He sets "the furies of hell, in the abused shape of the vilest of women" against Marie-Antoinette, who fled the crowd to "seek refuge at the feet of a king and husband."
-<div class="cite">Edmund Burke, <i>Reflections on the Revolution in France</i>, summarised and quoted in Scott, p. 1071</div>
+<div class="cite">Edmund Burke, <i>Reflections on the Revolution in France</i>, summarized and quoted in Scott, p. 1071</div>
 </div>
 </section>
 
@@ -521,22 +521,8 @@ Recover the women, then break the periods, then set gender beside class — and 
 
 #### Where it reaches
 
-Burke's two kinds of women, and a treaty room whose authority runs on who is not in it.
+A treaty room whose authority runs on who is not in it.
 </div>
 </div>
 </section>
 
-<!-- ========== THE TAKE HOME ========== -->
-<section markdown="1">
-The take home
-{: .eyebrow}
-
-## Gender is not the history of women
-{: .main-point}
-
----
-
-<div class="takehome" markdown="1">
-It is the reason so much history could be written as though women were beside the point.
-</div>
-</section>

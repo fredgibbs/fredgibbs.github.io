@@ -325,7 +325,7 @@ The monastery held **one of the best libraries in Europe**, stocked by Benedict 
 
 ###### Why this matters
 
-Herodotus travelled; Thucydides commanded. **Bede did neither.** His method has to be built out of letters, informants, and other people's books --- which is exactly why he tells you where each one came from.
+Herodotus traveled; Thucydides commanded. **Bede did neither.** His method has to be built out of letters, informants, and other people's books --- which is exactly why he tells you where each one came from.
 </div>
 </section>
 
@@ -360,7 +360,7 @@ Livy: "from these you may choose... what to imitate, from these mark for avoidan
 ###### Who is writing, and what he wants
 {: .label}
 
-Bede was handed to the monastery **at seven** and never really left; he almost certainly never travelled further than York. The whole book is written from one library. And it is not a neutral survey --- it argues for the **Roman method of dating Easter** over the Irish one his own region had used, and it addresses something it calls *the English people*, the *gens Anglorum*, at a moment when no such nation existed politically. There were rival kingdoms. **Bede's writing helps create that idea of a unified people.**
+Bede was handed to the monastery **at seven** and never really left; he almost certainly never traveled further than York. The whole book is written from one library. And it is not a neutral survey --- it argues for the **Roman method of dating Easter** over the Irish one his own region had used, and it addresses something it calls *the English people*, the *gens Anglorum*, at a moment when no such nation existed politically. There were rival kingdoms. **Bede's writing helps create that idea of a unified people.**
 </div>
 <div class="takehome fragment" data-fragment-index="4" markdown="1">
 
@@ -485,7 +485,7 @@ Born in **Khwarezm**, on the Aral Sea; a Persian speaker writing in Arabic. Astr
 
 ##### The comparatist
 
-At **twenty-seven** he finished the *Chronology of Ancient Nations* --- every calendar he could document, because to line up two eras you must first decide **whose dating to trust**. Taken to Mahmud of Ghazna's court in **1017**, he travelled to India and **learned Sanskrit** rather than work through informants.
+At **twenty-seven** he finished the *Chronology of Ancient Nations* --- every calendar he could document, because to line up two eras you must first decide **whose dating to trust**. Taken to Mahmud of Ghazna's court in **1017**, he traveled to India and **learned Sanskrit** rather than work through informants.
 </div>
 </div>
 

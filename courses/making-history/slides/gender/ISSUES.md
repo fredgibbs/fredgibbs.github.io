@@ -75,7 +75,7 @@ pages, the CUNY Digital History Archive, the jacket of *Women, History and
 Theory* (typographic), the Internet Archive scan of that book
 (lending-restricted, page images return 403), and Harvard's digital
 collections, which hold the **Papers of Joan Kelly, 1973–1984, Schlesinger
-Library MC 525** but surface no digitised portrait. A labelled CC0 montage of
+Library MC 525** but surface no digitized portrait. A labeled CC0 montage of
 women's-history authors on Commons ("Autoras de História das Mulheres")
 includes Lerner and Scott but not Kelly.
 
@@ -217,7 +217,7 @@ report as "vociferously criticized from the late 1970s by women of colour"
 (p. 255).
 
 Both headlines now carry the relationship: **"Gender seemed to cut across
-class, and that is what broke the class analysis"**, then **"Women of colour
+class, and that is what broke the class analysis"**, then **"Women of color
 showed that the shared experience was white and middle class."** Claim, then
 rebuttal. Don't restore either headline to a neutral statement of its own
 content; the sequence is the teaching.
@@ -243,7 +243,7 @@ are:
   at the AHA (p. 1053, unnumbered note); the note says nothing about the *AHR*
   printing, so the caption no longer cites it for that.
 - Every Scott and Green and Troup page cite in the draft was verified against
-  the printed-page markers rather than recognised, including all the
+  the printed-page markers rather than recognized, including all the
   quotes-of-quotes where the slide has to name both ends.
 
 Findings that applied only to slides the rebuild removed (the three-theories

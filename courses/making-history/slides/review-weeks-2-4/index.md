@@ -118,7 +118,7 @@ Ranke sets aside lessons and plans, and keeps to the documents.
 <img src="images/herodotus-bust-met.jpg" alt="Roman marble portrait bust of Herodotus, 2nd century CE">
 <figcaption markdown="span">
 Herodotus · c. 484–c. 425 BCE
-<em>From Halicarnassus, a Greek city under Persian rule, he travelled widely to collect what people told him about the wars between Greeks and Persians. The bust was carved centuries after his death.<br><strong>Why he matters:</strong> he calls his work an inquiry, and asks why the war happened.<br>(Roman portrait bust, 2nd century CE. Metropolitan Museum of Art. CC0.)</em>
+<em>From Halicarnassus, a Greek city under Persian rule, he traveled widely to collect what people told him about the wars between Greeks and Persians. The bust was carved centuries after his death.<br><strong>Why he matters:</strong> he calls his work an inquiry, and asks why the war happened.<br>(Roman portrait bust, 2nd century CE. Metropolitan Museum of Art. CC0.)</em>
 </figcaption>
 </figure>
 </section>
@@ -237,7 +237,7 @@ Xiang Yu "relied on his own intelligence without learning from the past," then s
 <img src="images/lucretia-botticelli-gardner.jpg" alt="Botticelli's panel painting The Story of Lucretia, about 1500, showing the assault, the suicide, and Brutus rousing Rome">
 <figcaption markdown="span">
 Sandro Botticelli, <i>The Story of Lucretia</i> · c. 1500–01
-<em>The assault at left, the death at right, and at the centre Brutus over the body, raising the army. <strong>A private catastrophe arranged so that it ends in a change of regime, as Livy tells it.</strong><br>(Isabella Stewart Gardner Museum, Boston. Public domain.)</em>
+<em>The assault at left, the death at right, and at the center Brutus over the body, raising the army. <strong>A private catastrophe arranged so that it ends in a change of regime, as Livy tells it.</strong><br>(Isabella Stewart Gardner Museum, Boston. Public domain.)</em>
 </figcaption>
 </figure>
 </section>
@@ -325,10 +325,10 @@ Machiavelli · *The Prince*, written 1513
 <!-- ========== IMAGE: THE ORRERY ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="landscape">
-<img src="images/wright-orrery-1766.jpg" alt="A candlelit room in which a lecturer stands over a brass model of the solar system; a lamp at its centre stands in for the sun, lighting the faces of a dozen listeners, two children leaning close to the mechanism">
+<img src="images/wright-orrery-1766.jpg" alt="A candlelit room in which a lecturer stands over a brass model of the solar system; a lamp at its center stands in for the sun, lighting the faces of a dozen listeners, two children leaning close to the mechanism">
 <figcaption markdown="span">
 A lecture on the orrery, England, c. 1766
-<em>A lamp stands in for the sun at the centre of a brass model of the solar system. <strong>The planets move by laws anyone in the room can learn.</strong><br>(Joseph Wright of Derby, <i>A Philosopher Giving That Lecture on the Orrery, in which a Lamp is put in place of the Sun</i>. Derby Museum and Art Gallery. Public domain.)</em>
+<em>A lamp stands in for the sun at the center of a brass model of the solar system. <strong>The planets move by laws anyone in the room can learn.</strong><br>(Joseph Wright of Derby, <i>A Philosopher Giving That Lecture on the Orrery, in which a Lamp is put in place of the Sun</i>. Derby Museum and Art Gallery. Public domain.)</em>
 </figcaption>
 </figure>
 </section>
@@ -375,7 +375,7 @@ Kant · "Idea for a Universal History," 1784
 <img src="images/encyclopedie-frontispiece.jpg" alt="Allegorical engraving: radiant Truth unveiled at center by figures representing Reason and Philosophy, with Theology above and the sciences and arts gathered on clouds below">
 <figcaption markdown="span">
 Frontispiece to the <i>Encyclopédie</i> · 1772
-<em>Truth at the centre, unveiled by Reason and Philosophy, the sciences and arts gathered below to receive the light. <strong>Progress with a picture of itself.</strong><br>(Charles-Nicolas Cochin, design, 1764; Benoît-Louis Prévost, engraving, 1772. Public domain.)</em>
+<em>Truth at the center, unveiled by Reason and Philosophy, the sciences and arts gathered below to receive the light. <strong>Progress with a picture of itself.</strong><br>(Charles-Nicolas Cochin, design, 1764; Benoît-Louis Prévost, engraving, 1772. Public domain.)</em>
 </figcaption>
 </figure>
 </section>

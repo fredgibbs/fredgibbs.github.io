@@ -21,7 +21,7 @@ image_slides: true
 <div class="notes" markdown="1">
 
 - **Time does the unveiling.** The winged old man with the scythe is Time, and he is the one pulling the cloth back. Not revelation, not authority — the passage of years. **That is the Enlightenment's central historical claim in one gesture, and it is the exact reverse of every scheme we just looked at, where time makes things worse.**
-- **Truth's foot rests on the globe.** She is bright, unclothed and universal — true everywhere, for everyone. **That assumption is what makes a single standard of civilisation thinkable, and it is precisely what Herder will refuse at the end of today.**
+- **Truth's foot rests on the globe.** She is bright, unclothed and universal — true everywhere, for everyone. **That assumption is what makes a single standard of civilization thinkable, and it is precisely what Herder will refuse at the end of today.**
 - **Falsehood recoils, clutching masks.** Error is not shown as honest mistake; it is disguise, turning away from the light. **Enlightenment writers cast their opponents the same way — superstition and priestcraft as interested concealment rather than sincere disagreement.**
 - **Nothing here is argued.** It is asserted, in the confident visual shorthand of an age that took the claim as settled. **Voltaire and Kant have to do what this painting skips.**
 </div>
@@ -31,7 +31,7 @@ image_slides: true
 <!-- ========== COLD OPEN 02: THE ORRERY ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="landscape">
-<img src="images/wright-orrery-1766.jpg" alt="A candlelit room in which a lecturer stands over a brass model of the solar system; a lamp at its centre stands in for the sun, lighting the faces of a dozen listeners, two children leaning close to the mechanism">
+<img src="images/wright-orrery-1766.jpg" alt="A candlelit room in which a lecturer stands over a brass model of the solar system; a lamp at its center stands in for the sun, lighting the faces of a dozen listeners, two children leaning close to the mechanism">
 <figcaption markdown="span">
 A lecture on a mechanical model of the solar system, England, c. 1766
 <em>Joseph Wright of Derby, <i>A Philosopher Giving That Lecture on the Orrery, in which a Lamp is put in place of the Sun</i>. Derby Museum and Art Gallery. Public domain.</em>
@@ -42,11 +42,11 @@ A lecture on a mechanical model of the solar system, England, c. 1766
 <!-- ========== COLD OPEN 02 NOTES: THE LECTURE ========== -->
 <section markdown="1">
 <div class="image-notes" markdown="1">
-<img src="images/wright-orrery-1766.jpg" alt="The orrery lecture, reduced: a lamp at the centre of a brass planetary model lighting the faces around it">
+<img src="images/wright-orrery-1766.jpg" alt="The orrery lecture, reduced: a lamp at the center of a brass planetary model lighting the faces around it">
 <div class="notes" markdown="1">
 
-- **The brass rings are an orrery**, a working model of the solar system, and the lamp at its centre stands in for the sun. **The universe is being shown as a mechanism whose parts run on rules you can predict — the same kind of order Kant will claim history has, working whether or not anyone intends it.**
-- **The light is inside the machine.** Every face is lit by the model itself. **The age's favourite metaphor, made literal: illumination comes from the thing studied, not from above it.**
+- **The brass rings are an orrery**, a working model of the solar system, and the lamp at its center stands in for the sun. **The universe is being shown as a mechanism whose parts run on rules you can predict — the same kind of order Kant will claim history has, working whether or not anyone intends it.**
+- **The light is inside the machine.** Every face is lit by the model itself. **The age's favorite metaphor, made literal: illumination comes from the thing studied, not from above it.**
 - **Someone is being paid to do this.** Travelling lecturers sold natural philosophy to provincial audiences by subscription. **Enlightenment is not only books and salons; it is a market — which is why the printers and booksellers matter, besides the writers.**
 - **Two children are closest to the mechanism.** The scene is arranged around who comes next. **That is Diderot's stated reason for the whole Encyclopédie: to transmit it to those who come after, so past labour is not wasted.**
 </div>
@@ -350,7 +350,7 @@ The first history of art was written by a man with a stake in its outcome, about
 <img src="images/vasari-vite-titlepage-1568.jpg" alt="Elaborate woodcut title page of Vasari's Lives, 1568, with putti and figures framing the title and a view of Florence at the foot">
 <figcaption markdown="span">
 Vasari's <i>Lives</i> · Giunti edition, Florence 1568
-<em>Three centuries of painters sorted into a rising sequence ending in his own lifetime. <strong>The licence at the foot: printed by permission of the Pope and the Duke.</strong><br>(Public domain.)</em>
+<em>Three centuries of painters sorted into a rising sequence ending in his own lifetime. <strong>The license at the foot: printed by permission of the Pope and the Duke.</strong><br>(Public domain.)</em>
 </figcaption>
 </figure>
 </section>
@@ -516,7 +516,7 @@ Every writer this term has had to answer "what is history for?" The Enlightenmen
 <img src="images/encyclopedie-titlepage-1751.jpg" alt="Title page of the first volume of the Encyclopédie, Paris 1751, with a small engraved vignette of a winged figure and the imprint of four Paris booksellers at the foot">
 <figcaption markdown="span">
 <i>Encyclopédie</i>, volume one, Paris 1751
-<em>"Par une société de gens de lettres," four named booksellers, and "avec approbation et privilège du roy" --- the censor's licence, revoked eight years later. <strong>M.DCC.LI: the same year as Voltaire's book.</strong><br>(University of Ottawa copy, via ARTFL. Public domain; the red stamp is a modern library mark.)</em>
+<em>"Par une société de gens de lettres," four named booksellers, and "avec approbation et privilège du roy" --- the censor's license, revoked eight years later. <strong>M.DCC.LI: the same year as Voltaire's book.</strong><br>(University of Ottawa copy, via ARTFL. Public domain; the red stamp is a modern library mark.)</em>
 </figcaption>
 </figure>
 </section>
@@ -545,7 +545,7 @@ Assemble, set out, **transmit**. The purpose is not that the book holds what is 
 ###### What it actually took
 {: .label}
 
-Twenty-eight folio volumes over twenty-one years — seventeen of text (1751–1765), eleven of plates (1762–1772). More than 70,000 articles from more than 140 contributors, **Voltaire among them**. Sold by subscription to make the money back, printed under the royal licence you just saw on the title page, and carried on after 1759 without it.
+Twenty-eight folio volumes over twenty-one years — seventeen of text (1751–1765), eleven of plates (1762–1772). More than 70,000 articles from more than 140 contributors, **Voltaire among them**. Sold by subscription to make the money back, printed under the royal license you just saw on the title page, and carried on after 1759 without it.
 </div>
 <div class="takehome fragment compact" data-fragment-index="3" markdown="1">
 

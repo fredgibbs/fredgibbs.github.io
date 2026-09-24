@@ -506,7 +506,7 @@ If the destination belongs to Nature and not to us, no one can be credited or bl
 <img src="images/encyclopedie-frontispiece.jpg" alt="Allegorical engraving: radiant Truth unveiled at center by figures representing Reason and Philosophy, with Theology above and the sciences and arts gathered on clouds below">
 <figcaption markdown="span">
 The larger project both writers belong to · Frontispiece to the <i>Encyclopédie</i>, 1772
-<em>Truth at the centre, unveiled by Reason and Philosophy, the sciences and arts gathered below to receive the light. <strong>Progress with a picture of itself.</strong><br>(Charles-Nicolas Cochin, design; Benoît-Louis Prévost, engraving. Public domain.)</em>
+<em>Truth at the center, unveiled by Reason and Philosophy, the sciences and arts gathered below to receive the light. <strong>Progress with a picture of itself.</strong><br>(Charles-Nicolas Cochin, design; Benoît-Louis Prévost, engraving. Public domain.)</em>
 </figcaption>
 </figure>
 </section>
@@ -565,7 +565,7 @@ Voltaire ranked four ages that were over. Kant argued for a direction. **Here th
 <!-- ========== IMAGE: HERDER ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="portrait">
-<img src="images/herder-graff-portrait.jpg" alt="Portrait of Johann Gottfried Herder in a dark clerical coat and white collar, hair swept back over the ears, against a grey-brown ground">
+<img src="images/herder-graff-portrait.jpg" alt="Portrait of Johann Gottfried Herder in a dark clerical coat and white collar, hair swept back over the ears, against a gray-brown ground">
 <figcaption markdown="span">
 Herder · 1744–1803
 <em>Sat in Kant's lectures at Königsberg twenty years earlier; by 1784 court preacher at Weimar and publishing his own <i>Ideen</i> (1784–91), which Kant reviewed that year, unfavourably.<br><strong>Why he matters here:</strong> he refuses the single universal standard while Kant is still building on it — and his alternative, each people judged on its own terms, becomes nineteenth-century nationalism.<br>(Anton Graff, 1785. Public domain.)</em>

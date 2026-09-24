@@ -23,7 +23,7 @@ argues about what is gendered in it.
 | `gerda-lerner-c1981.jpg` | Gerda Lerner (1920–2013), c. 1981, in the University of Wisconsin–Madison Archives (image #S05705). In the narrow column of the sex/gender slide, beside her definition | UW–Madison Archives, via Wikimedia Commons ("UW-Madison history professor Gerda Lerner.jpg") | CC BY 3.0 |
 | `bell-hooks.jpg` | bell hooks (1952–2021) speaking. In the narrow column of the "which women" slide, beside her critique of essentialism | Wikimedia Commons ("Bellhooks.jpg"), uploaded by Cmongirl | Public domain as tagged — see Notes |
 | `scott-2013-portrait.jpg` | Joan Wallach Scott in front of her bookshelves, 2013; the shelf label "GENDER" is visible behind her. Part two, the portrait slide. **A crop** — see Notes | B. Sutherton, 2013, via Wikimedia Commons ("Joan Wallach Scott and Kristen R. Ghodsee.jpg") | CC BY-SA 3.0 |
-| `burke-frontispiece-1790.jpg` | *Frontispiece to Reflections on the French Revolution*, etching, hand-coloured: Burke kneeling to a vision of Marie-Antoinette while a cherub touches his head with a firebrand. Publication line: "London Pub.d Novem.r the 2, 1790, by Will.m Holland, N.o 50, Oxford St." Part three | Library of Congress, British Cartoon Prints Collection, ppmsca.05425 (LCCN 2004669854), via Wikimedia Commons | Public domain |
+| `burke-frontispiece-1790.jpg` | *Frontispiece to Reflections on the French Revolution*, etching, hand-colored: Burke kneeling to a vision of Marie-Antoinette while a cherub touches his head with a firebrand. Publication line: "London Pub.d Novem.r the 2, 1790, by Will.m Holland, N.o 50, Oxford St." Part three | Library of Congress, British Cartoon Prints Collection, ppmsca.05425 (LCCN 2004669854), via Wikimedia Commons | Public domain |
 | `berlin-congress-1892.jpg` | Anton von Werner, *Der Kongreß zu Berlin — Schlußsitzung am 13. Juli 1878*, oil on canvas, 127 × 203 cm, 1892: von Werner's later, smaller replica of the mural he painted for the Berlin town hall in 1881. Part three, on its own image slide and again small on the part-three discussion slide | Deutsches Historisches Museum (Lebendiges Museum Online), via Wikimedia Commons ("Congress of Berlin, 13 July 1878, by Anton von Werner.jpg") | Public domain |
 
 Retrieved 2026-09-24; the four Commons files via the `Special:FilePath`
@@ -69,7 +69,7 @@ renders at close to 1:1.
 **`scott-2013-portrait.jpg` is CC BY-SA 3.0 and needs its attribution kept.**
 "Photograph by B. Sutherton, 2013, cropped from a larger frame. CC BY-SA 3.0."
 is in the `<figcaption>`. Do not strip it, and do not drop the note that it is
-a crop — the licence requires derivative works to say so.
+a crop — the license requires derivative works to say so.
 
 **`alice-clark-c1922.jpg` is fair use, and this is the reason.** No freely
 licensed photograph of Alice Clark exists: she has no image on Wikimedia
@@ -79,7 +79,7 @@ captions it as her; a photograph of the same date was published in Margaret C.
 Gillett's 1935 pamphlet on Clark. It is a low-resolution copy shown for
 identification and commentary in a non-commercial teaching deck, next to the
 book she wrote. If LSE Library's own rights statement turns out to allow
-reuse, replace this note with the licence.
+reuse, replace this note with the license.
 
 **`bell-hooks.jpg` carries a Commons public-domain tag applied by its
 uploader, not by an institution.** That is weaker than the other credits here

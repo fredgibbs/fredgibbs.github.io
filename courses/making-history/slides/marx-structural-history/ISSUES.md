@@ -22,7 +22,7 @@ page of every spread. The first OCR pass returned pp. 33, 35, 37, 39, 41 cut
 off mid-line — and nothing in the output says so. Every truncated line simply
 ended early, which reads as a bad scan rather than a bug.
 
-The cache was rebuilt instead with `pdftoppm`, which honours the rotation, and
+The cache was rebuilt instead with `pdftoppm`, which honors the rotation, and
 each spread cropped into its two printed pages before OCR. The exact commands
 are recorded at the head of
 `~/Dropbox/courses/making-history/.research-packets/green-troup-marxist-historians.ocr.txt`.
@@ -42,7 +42,7 @@ back.
 On p. 36 the textbook introduces the "Men make their own history" passage as
 "taken from *The Eighteenth Brumaire of Louis Bonaparte* (1859)". This was
 verified against the page image — it is the textbook's own text, not an OCR
-artefact. The work was written and published in **1852**; 1859 is the date of
+artifact. The work was written and published in **1852**; 1859 is the date of
 *A Contribution to the Critique of Political Economy*, quoted one page earlier,
 so it looks like a slip carried across from p. 35.
 
@@ -163,7 +163,7 @@ Recorded so a future reviewer does not re-raise them.
   2026-09-17: part three is now a single legacy slide and the Peterloo image
   went with it. See "The legacy" in the through-line section below.)*
 - **No portraits of Hill, Hobsbawm or Thompson.** All three died recently
-  enough that photographs of them are in copyright, and the deck's licence rule
+  enough that photographs of them are in copyright, and the deck's license rule
   is public domain or CC only. Part three used Peterloo instead, which did more
   argumentative work than head shots would; since 2026-09-17 that part carries
   no image at all. The style guide's "every named person gets a portrait" rule
@@ -370,11 +370,11 @@ here because each is an easy mistake to reintroduce:
   Green and Troup's criticism (p. 40) is of how he *characterized* radical
   women ("giving moral support to the men"), not that he left them out. The
   takehome now asks whether they made history or supported the men who did.
-- Hill and Hobsbawm were summarised together as reading politics off the
+- Hill and Hobsbawm were summarized together as reading politics off the
   economy; see item 5.
-- Hobsbawm's quotation was labelled "revising in public." Green and Troup say
+- Hobsbawm's quotation was labeled "revising in public." Green and Troup say
   "he had not changed his mind" (p. 38); the slide now quotes "I remain
-  sufficient of a traditionalist Marxist…" and is labelled "unrepentant." He
+  sufficient of a traditionalist Marxist…" and is labeled "unrepentant." He
   also "had never sought to explain British 'reformism'," so the slide no longer
   says he explained why workers grew less radical.
 - Thompson: it is class-consciousness — the way *experiences* are "handled in

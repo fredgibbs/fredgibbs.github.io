@@ -9,7 +9,7 @@ image_slides: true
 <img src="images/ranke-library-1880s.jpg" alt="A dim photograph of an old, white-bearded man seated in a high-backed chair, almost lost among floor-to-ceiling shelves of books, with stacks of volumes and an open book piled across the table in the foreground">
 <figcaption markdown="span">
 Leopold von Ranke in his library, early 1880s
-<em>About eighty-seven here, and nearly blind; the last volumes were dictated. <strong>The books were never systematically arranged</strong> — after Syracuse University bought the library, some 20,000 volumes, it took until 1913 to catalogue them.<br>(No photographer recorded. Leopold von Ranke Papers, Syracuse University Special Collections. Public domain.)</em>
+<em>About eighty-seven here, and nearly blind; the last volumes were dictated. <strong>The books were never systematically arranged</strong> — after Syracuse University bought the library, some 20,000 volumes, it took until 1913 to catalog them.<br>(No photographer recorded. Leopold von Ranke Papers, Syracuse University Special Collections. Public domain.)</em>
 </figcaption>
 </figure>
 </section>
@@ -20,7 +20,7 @@ Leopold von Ranke in his library, early 1880s
 <img src="images/ranke-library-1880s.jpg" alt="The library photograph, reduced: the historian barely visible among his shelves and stacks">
 <div class="notes" markdown="1">
 
-- **You have to look for the man.** The shelves and stacks take the picture; he is a pale smudge at the centre — the self-portrait of a historian whose stated job was to disappear behind his sources. <em class="ask">If a historian disappears behind the sources, who chose which sources to stand behind?</em>
+- **You have to look for the man.** The shelves and stacks take the picture; he is a pale smudge at the center — the self-portrait of a historian whose stated job was to disappear behind his sources. <em class="ask">If a historian disappears behind the sources, who chose which sources to stand behind?</em>
 - **This is a working archive, not a study.** Documents stored so that one claim can be checked against another. The photograph is itself new evidence technology arriving with the new history: photographs "appeared to preserve images in an objective form," though Brady's Civil War pictures "were all taken after the battles they purportedly illustrated" (Popkin, p. 97). <em class="ask">What history becomes possible in a room like this — and what becomes impossible?</em>
 - **Somebody built this room.** Prussian ministries opened the archives, a university paid the salary, a publisher printed the footnotes — each for reasons of its own. <em class="ask">Does it matter to the truth of a history book who paid for the paper it rests on?</em>
 </div>
@@ -250,7 +250,7 @@ Only one of these can be handed to somebody else. A footnote convention and a se
 <img src="images/ranke-jebens-portrait-1875.jpg" alt="Painted portrait of a very old man with white hair, seated in a carved wooden chair, wrapped in a dark cloak over a buttoned coat, with two star-shaped decorations pinned to his chest">
 <figcaption markdown="span">
 Leopold von Ranke · 1795–1886
-<em>Trained in theology and philology, and teaching at a Gymnasium in Frankfurt an der Oder when he wrote the book on the next slide — not a professor, not commissioned by anyone. It won him a post at Berlin, where he taught from 1825 into the 1870s.<br><strong>Why he matters:</strong> the discipline's most famous sentence was written by a schoolteacher of twenty-eight, in a preface apologising for his book. <strong>Note the two decorations:</strong> he insisted historians be judged by peers, not rulers.<br>(Adolf Jebens, 1875. Public domain.)</em>
+<em>Trained in theology and philology, and teaching at a Gymnasium in Frankfurt an der Oder when he wrote the book on the next slide — not a professor, not commissioned by anyone. It won him a post at Berlin, where he taught from 1825 into the 1870s.<br><strong>Why he matters:</strong> the discipline's most famous sentence was written by a schoolteacher of twenty-eight, in a preface apologizing for his book. <strong>Note the two decorations:</strong> he insisted historians be judged by peers, not rulers.<br>(Adolf Jebens, 1875. Public domain.)</em>
 </figcaption>
 </figure>
 </section>
