@@ -246,6 +246,7 @@ Professional history mostly wrote about elites — kings, statesmen, great think
 ### 6.2: Women's and Gender History
 What if gender isn't just a topic (the history of women) but a lens for seeing how power works everywhere? Scott's influential argument is that gender is a system for organizing and naturalizing relationships of authority — not just between men and women, but across all historical relationships. That claim transformed what questions historians thought it was possible to ask.
 
+- Slides of [Gender: A Useful Category](slides/gender/)
 - 📗 Anna Green and Kathleen Troup, *The Houses of History*, 10: Gender and History, 253--260.
 - 📜 Joan Wallach Scott, "Gender: A Useful Category of Historical Analysis," *American Historical Review* 91, no. 5 (1986): 1053–1075 (read first 12 pp.). Scott argues that gender isn't just about women — it's a framework for understanding how power works in all historical relationships. A landmark article; read slowly and focus on her core definition.
 
