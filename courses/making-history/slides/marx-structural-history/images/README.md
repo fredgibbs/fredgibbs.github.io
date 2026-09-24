@@ -175,7 +175,7 @@ were kept only because a Week 6 deck may want Peterloo.
 
 - **The factory images are a deliberate pair of arguments.** The Baines
   power-loom plate comes from a book arguing the cotton manufacture was a
-  national benefit, and the Wyld watercolour makes industrial smoke look golden.
+  national benefit, and the Wyld watercolor makes industrial smoke look golden.
   Hervieu's plate is the other side: a novel written against the factory
   system. The factory notes slide sets Baines and Hervieu side by side, and its
   point is that both are persuasion. Do not present Hervieu as the "accurate"

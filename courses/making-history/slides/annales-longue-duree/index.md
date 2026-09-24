@@ -180,7 +180,7 @@ Lucien Febvre · 1878–1956
 Part one · Bloch, written 1941–43
 {: .eyebrow}
 
-## Bloch begins his defence of history with a child's question
+## Bloch begins his defense of history with a child's question
 {: .main-point}
 
 "TELL ME, Daddy. What is the use of history?" <span class="cite">Bloch, <i>The Historian's Craft</i>, p. 3</span>
@@ -400,7 +400,7 @@ Braudel, on the same page: "narrative history is not an objective method, still 
 <img src="images/messina-1572.jpg" alt="A hand-colored bird's-eye engraving of a walled city along a shore, wrapped around a long curving sandspit that encloses a deep sickle-shaped harbor crowded with sailing ships, with hills rising behind the town">
 <figcaption markdown="span">
 <i>Messana</i> — Messina · Braun and Hogenberg, <i>Civitates Orbis Terrarum</i>, 1572
-<em>The sandspit curls right around the anchorage and makes a harbour no storm reaches. The Holy League fleet assembled inside that hook in the late summer of 1571 and sailed from it to Lepanto. <strong>The plate was published the following year.</strong><br>(Universitätsbibliothek Heidelberg, 1582 German edition. Public domain. Cropped — see <code>images/README.md</code>.)</em>
+<em>The sandspit curls right around the anchorage and makes a harbor no storm reaches. The Holy League fleet assembled inside that hook in the late summer of 1571 and sailed from it to Lepanto. <strong>The plate was published the following year.</strong><br>(Universitätsbibliothek Heidelberg, 1582 German edition. Public domain. Cropped — see <code>images/README.md</code>.)</em>
 </figcaption>
 </figure>
 </section>
@@ -408,7 +408,7 @@ Braudel, on the same page: "narrative history is not an objective method, still 
 <!-- ========== MESSINA NOTES ========== -->
 <section markdown="1">
 <div class="image-notes" markdown="1">
-<img src="images/messina-1572.jpg" alt="The Messina plate, reduced: a sickle-shaped harbour full of ships, the town along its inner shore">
+<img src="images/messina-1572.jpg" alt="The Messina plate, reduced: a sickle-shaped harbor full of ships, the town along its inner shore">
 <div class="notes" markdown="1">
 
 - **Follow the sandspit.** It reaches out from the shore and curls back, closing the bay to a narrow mouth. That shape is why Greeks settled here, why grain moved through it, and why Don John's galleys could lie safely inside it for weeks. <em class="ask">Which of Braudel's three layers does a harbour belong to?</em>

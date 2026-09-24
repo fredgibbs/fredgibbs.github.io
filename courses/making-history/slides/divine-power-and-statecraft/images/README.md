@@ -90,7 +90,7 @@ Retrieved 2026-09-02/03 — all via Wikimedia Commons except the two
   Easter-table annals — is behind the British Library's Digitised Manuscripts
   service, which still redirects after the 2023 cyberattack.
 
-- `donation-of-constantine.jpg` is catalogued by the Web Gallery of Art only as
+- `donation-of-constantine.jpg` is cataloged by the Web Gallery of Art only as
   "Unknown Master, Italian, 13th century." It closely matches the San Silvestro
   cycle at Santi Quattro Coronati in Rome (1246), but the caption stops at what
   the source actually asserts. If you confirm the attribution, the caption can

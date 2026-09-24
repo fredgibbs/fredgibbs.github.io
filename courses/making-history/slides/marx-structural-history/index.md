@@ -253,7 +253,7 @@ The motor · 1 · production
 <div class="swap" markdown="1">
 <div class="reveal-block unpack fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
 
-###### The two storeys
+###### The two stories
 {: .label}
 
 - **Base** — the forces of production (tools, technology, raw materials) and the relations of cooperation or subordination people enter to use them (p. 35).

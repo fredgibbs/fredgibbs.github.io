@@ -26,7 +26,7 @@ it argues about her followers.
 | `griot-conakry-c1910.jpg` | *Conakry — Groupe Soussous*, a French colonial postcard from Guinea, c. 1910: a standing griot holding an *ngoni* lute behind two seated women. Opens part three, full-bleed and again on its notes slide | Unknown photographer, c. 1910; from the collection of Shlomo Pestcoe, via Wikimedia Commons ("Susu Griot, circa 1910, Conakry, Guinea.jpg") | Public domain |
 | `henry-viii.jpg` | Full-length portrait of Henry VIII, after Hans Holbein the Younger. Part one, the case that "great man" history genuinely fits | Google Art Project, via Wikimedia Commons ("After Hans Holbein the Younger - Portrait of Henry VIII - Google Art Project.jpg") | Public domain |
 | `thompson-1980.jpg` | E. P. Thompson speaking through a megaphone at an anti-nuclear rally, Oxford, 1980. Part two, the portrait slide. **A crop** — see Notes | Kim Traynor, 1980, via Wikimedia Commons ("E P Thompson at 1980 protest rally.JPG") | CC BY-SA 4.0 |
-| `leader-of-the-luddites-1812.jpg` | *The Leader of the Luddites*, hand-coloured etching published May 1812 by Walker and Knight — "General Ludd" in a woman's dress before a burning mill, inscribed "Drawn from Life by an Officer" | Working Class Movement Library catalogue, via Wikimedia Commons ("Luddite.jpg") | Public domain |
+| `leader-of-the-luddites-1812.jpg` | *The Leader of the Luddites*, hand-colored etching published May 1812 by Walker and Knight — "General Ludd" in a woman's dress before a burning mill, inscribed "Drawn from Life by an Officer" | Working Class Movement Library catalog, via Wikimedia Commons ("Luddite.jpg") | Public domain |
 | `joanna-southcott-1814.jpg` | Joanna Southcott (1750–1814), stipple engraving published by John Bell, 2 October 1814, with her engraved signature. Part two, the person Thompson names last in the condescension passage; shown again small on the part-two discussion slide. **A crop** — see Notes | KU Leuven print collection PA06781, via Wikimedia Commons ("Joanna Southcott, PA06781.jpg") | Public domain |
 | `vansina-portrait.jpg` | Jan Vansina (1929–2017), black-and-white head-and-shoulders portrait. Part three, the portrait slide | University of Wisconsin–Madison Department of History obituary, 9 February 2017 (`history.wisc.edu/2017/02/09/jan-vansina-1929-2017/`) | **Fair use** — see Notes |
 
@@ -121,11 +121,11 @@ French original is usually dated 1961. The caption gives only what they agree
 on and names no year for that book. Fix it from *Living with Africa* (1994),
 his memoir, if someone has a copy.
 
-**The Luddite caption quotes the print, not the catalogue.** The engraved
+**The Luddite caption quotes the print, not the catalog.** The engraved
 script on this impression reads *Drawn from Life by an Officer*. Museum
 records (Met, British Museum) give "Drawn from the life by an Officer"; the
 image was checked at full resolution and there is no "the". Don't "correct" it
-to match a catalogue entry.
+to match a catalog entry.
 
 **The Peterloo and Southcott captions carry contested or checkable numbers.**
 Peterloo's death toll is given as eighteen, the figure current since Bush's

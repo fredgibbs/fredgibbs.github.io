@@ -209,10 +209,10 @@ rather than the man.
 ## Checked, not a problem
 
 - **The Luddite inscription is right as printed.** The review flagged
-  "Drawn from Life by an Officer" against museum catalogue records that read
+  "Drawn from Life by an Officer" against museum catalog records that read
   "Drawn from the life by an Officer". This impression was examined at full
   resolution: the engraved script reads *Drawn from Life by an Officer*, with
-  no "the". The caption follows the object, not the catalogue.
+  no "the". The caption follows the object, not the catalog.
 - **Every quotation in the deck has been verified against a page image**, not
   a text layer — Thompson pp. 9, 11, 12, 13; Vansina pp. 27, 28, 29, 30, 31;
   Maza pp. 10, 13, 14, 15, 17, 23, 24, 25. The Thompson PDF's embedded text is

@@ -47,7 +47,7 @@ A lecture on a mechanical model of the solar system, England, c. 1766
 
 - **The brass rings are an orrery**, a working model of the solar system, and the lamp at its center stands in for the sun. **The universe is being shown as a mechanism whose parts run on rules you can predict — the same kind of order Kant will claim history has, working whether or not anyone intends it.**
 - **The light is inside the machine.** Every face is lit by the model itself. **The age's favorite metaphor, made literal: illumination comes from the thing studied, not from above it.**
-- **Someone is being paid to do this.** Travelling lecturers sold natural philosophy to provincial audiences by subscription. **Enlightenment is not only books and salons; it is a market — which is why the printers and booksellers matter, besides the writers.**
+- **Someone is being paid to do this.** Traveling lecturers sold natural philosophy to provincial audiences by subscription. **Enlightenment is not only books and salons; it is a market — which is why the printers and booksellers matter, besides the writers.**
 - **Two children are closest to the mechanism.** The scene is arranged around who comes next. **That is Diderot's stated reason for the whole Encyclopédie: to transmit it to those who come after, so past labour is not wasted.**
 </div>
 </div>
@@ -529,7 +529,7 @@ The <i>Encyclopédie</i> · Diderot's own article, 1755
 ## Not a place to store knowledge. A way to hand it on.
 {: .main-point}
 
-"the aim of an *Encyclopédie* is to assemble the knowledge scattered over the surface of the earth; to set out its general system to the men with whom we live, and to transmit it to the men who will come after us; so that the labours of centuries past shall not have been useless labours for the centuries that follow; that our descendants, becoming better instructed, shall at the same time become more virtuous and happier; and that we should not die without having deserved well of the human race." <span class="cite">Diderot, "Encyclopédie," *Encyclopédie* vol. V (1755); my translation from the first-edition text</span>
+"the aim of an *Encyclopédie* is to assemble the knowledge scattered over the surface of the earth; to set out its general system to the men with whom we live, and to transmit it to the men who will come after us; so that the labors of centuries past shall not have been useless labors for the centuries that follow; that our descendants, becoming better instructed, shall at the same time become more virtuous and happier; and that we should not die without having deserved well of the human race." <span class="cite">Diderot, "Encyclopédie," *Encyclopédie* vol. V (1755); my translation from the first-edition text</span>
 {: .quote.compact.fragment data-fragment-index="0"}
 
 <div class="swap" markdown="1">
@@ -538,7 +538,7 @@ The <i>Encyclopédie</i> · Diderot's own article, 1755
 ###### Read the verbs
 {: .label}
 
-Assemble, set out, **transmit**. The purpose is not that the book holds what is known but that it hands it forward — and the reason given is that otherwise the labour of past centuries is wasted. That is this week's whole idea written as a job description, and it is the same answer Popkin reports historians reaching for: study the past to find what made improvement possible.
+Assemble, set out, **transmit**. The purpose is not that the book holds what is known but that it hands it forward — and the reason given is that otherwise the labor of past centuries is wasted. That is this week's whole idea written as a job description, and it is the same answer Popkin reports historians reaching for: study the past to find what made improvement possible.
 </div>
 <div class="reveal-block historical fragment fade-in-then-out compact" data-fragment-index="2" markdown="1">
 

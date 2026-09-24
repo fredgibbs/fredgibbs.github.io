@@ -68,7 +68,7 @@ St Peter's Field · 16 August 1819
 <div class="notes" markdown="1">
 
 - **Count the faces.** The engraver drew them one at a time — hats, coats, a woman in white, arms flung out. Sixty thousand came for parliamentary reform; the yeomanry rode in and eighteen died. *What would you need to write a history of this field?*{: .ask}
-- **The one name on it is a gentleman.** Henry Hunt — wealthy farmer, the day's main speaker, gaoled for it — is who those sixty thousand came to hear. Thompson says the movement still looked to a gentlemanly leader (pp. 622–23). *Why did the crowd need him?*{: .ask}
+- **The one name on it is a gentleman.** Henry Hunt — wealthy farmer, the day's main speaker, jailed for it — is who those sixty thousand came to hear. Thompson says the movement still looked to a gentlemanly leader (pp. 622–23). *Why did the crowd need him?*{: .ask}
 - **Then read who is not named.** "The Female Reformers of Manchester" are thanked as a group — a category, where Hunt got a name and a dedication. *Who has to be named before a historian counts them as an actor?*{: .ask}
 - **Read who signed it.** Carlile was on the hustings, escaped, and published this in October as their "Fellow Labourer." The fullest record of the day was made by a participant with a case to make. *Is a source made to accuse worse than one made to administer?*{: .ask}
 </div>
@@ -389,7 +389,7 @@ Quantification had made the poor visible in aggregate. The book that mattered mo
 <!-- ========== IMAGE: THOMPSON ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="portrait">
-<img src="images/thompson-1980.jpg" alt="A white-haired man in a long coat speaking into a red megaphone in the open air, a crowd of listeners below and behind him under a grey sky">
+<img src="images/thompson-1980.jpg" alt="A white-haired man in a long coat speaking into a red megaphone in the open air, a crowd of listeners below and behind him under a gray sky">
 <figcaption markdown="span">
 E. P. Thompson · 1924–1993
 <em>A Marxist historian who left the Communist Party in 1956 over Hungary and spent sixteen years teaching adult-education classes to working people in the West Riding, on the extra-mural staff at Leeds rather than in a conventional academic post. At an anti-nuclear rally, Oxford, 1980.<span class="why"><strong>Why he matters:</strong> he argued that class is not a structure you can find in the numbers but something people do, and so has to be described rather than deduced.</span>(Photograph by Kim Traynor, 1980. CC BY-SA 4.0.)</em>
@@ -525,10 +525,10 @@ Obsolete, utopian, deluded — in quotation marks, because they are posterity's 
 <!-- ========== IMAGE: THE LUDDITES ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="portrait">
-<img src="images/leader-of-the-luddites-1812.jpg" alt="A hand-coloured etching of a man in a woman's blue spotted dress and bonnet striding forward with a club, arm flung out, while behind him figures with raised weapons attack a burning mill">
+<img src="images/leader-of-the-luddites-1812.jpg" alt="A hand-colored etching of a man in a woman's blue spotted dress and bonnet striding forward with a club, arm flung out, while behind him figures with raised weapons attack a burning mill">
 <figcaption markdown="span">
 <i>The Leader of the Luddites</i> · May 1812
-<em>Croppers finished cloth by hand with heavy shears, and machines were taking the work. Machine-breaking became a capital offence in 1812. The figure is "General Ludd," the movement's invented figurehead — named for Ned Ludd, an apprentice said (probably apocryphally) to have smashed a stocking frame around 1779. Raid leaders sometimes disguised themselves in women's clothing; the print turns that into caricature. Inscribed "Drawn from Life by an Officer."<br>(Working Class Movement Library, via Wikimedia Commons. Public domain.)</em>
+<em>Croppers finished cloth by hand with heavy shears, and machines were taking the work. Machine-breaking became a capital offense in 1812. The figure is "General Ludd," the movement's invented figurehead — named for Ned Ludd, an apprentice said (probably apocryphally) to have smashed a stocking frame around 1779. Raid leaders sometimes disguised themselves in women's clothing; the print turns that into caricature. Inscribed "Drawn from Life by an Officer."<br>(Working Class Movement Library, via Wikimedia Commons. Public domain.)</em>
 </figcaption>
 </figure>
 </section>
@@ -753,11 +753,11 @@ Part three · discussion
 
 ---
 
-Ranke wanted claims that rest on named sources anyone could go and check. Vansina wants a link between record and observation, and every link in the chain criticised. Same demand, or a different one?
+Ranke wanted claims that rest on named sources anyone could go and check. Vansina wants a link between record and observation, and every link in the chain criticized. Same demand, or a different one?
 {: .question .fragment data-fragment-index="1"}
 
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-Kept: evidence must rest on somebody's observation, every link criticised. Refused: that only writing can carry it. Paper was a fact of European archives, not a rule of evidence.
+Kept: evidence must rest on somebody's observation, every link criticized. Refused: that only writing can carry it. Paper was a fact of European archives, not a rule of evidence.
 </div>
 </section>
 
