@@ -256,10 +256,11 @@ What if gender isn't just a topic (the history of women) but a lens for seeing h
 - What does it mean that gender is performed? 
 
 
-
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
 This week's [reading refraction](reading-refractions) (and please remind yourself of the requirements and expectations if you haven't seen them for a while) is due by midnight on Canvas. As always, **your job is to show your engagement with course material**. Draw on the readings *and* our discussions this week --- and don't provide literal answers to the discussion questions above. 
 "%}
+
+
 
 ## 7: Scales of History
 
@@ -276,14 +277,13 @@ Microhistory embraces the mundane. Rather than privileging big patterns, microhi
 
 ### 7.2: Course Review
 - No readings before class
-- Course review that will help with your assignment due Tuesday
-- Historian's Café assignment discussion 
 - <!-- Slides of [What Makes History Happen? — a review of Weeks 1–6](slides/review-weeks-1-6/) -->
-
+- Course review that will help with your midterm assignment (due Tuesday)
+- [Historian's Café](historians-cafe) assignment overview 
 
 
 {% include alert.html class='warning' title='Historians Café due' text="
-Your [Historians Café](historians-cafe) assignment is due by MIDNIGHT ON TUESDAY. I strongly suggest you *finish a draft before Tuesday's class*. You'll get more out of the review having started the assignment already. 
+Your [Historians Café](historians-cafe) assignment is due by MIDNIGHT ON TUESDAY. I strongly suggest you *finish a draft before Tuesday's class*. You'll get more out of the review having already started the assignment. 
 "%}
 
 
@@ -291,9 +291,7 @@ Your [Historians Café](historians-cafe) assignment is due by MIDNIGHT ON TUESDA
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
 This week's [reading refraction](reading-refractions) is due by midnight on Canvas. 
 
-Share your well-informed thoughts about **scale and the cost of zooming in or out**.
-Braudel zooms out to centuries of landscape; Ginzburg zooms in to one miller's trial. You can't do both at once. What do you actually lose when you zoom in — and what do you lose when you zoom out? Is there a scale that's "right" for historical argument?
-
+Share your well-informed thoughts about **scale and the cost of zooming in or out**. Braudel zooms out to centuries of landscape; Ginzburg zooms in to one miller's trial. You can't do both at once. There's no 'right' scale for historical argument, but how does a chosen scale indicate what a historian thinks history is for?
 "%}
 
 
