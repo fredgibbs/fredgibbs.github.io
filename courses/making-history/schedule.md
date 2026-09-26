@@ -315,7 +315,7 @@ Submit your [Historians Café](historians-cafe) assignment BEFORE MIDNIGHT!
 "%}
 
 
-### 8.2:  Fall break! No Class. Nothing Due.
+### 8.2:  Fall break! No Class. Nothing Due. R-E-L-A-X.
 
 
 
