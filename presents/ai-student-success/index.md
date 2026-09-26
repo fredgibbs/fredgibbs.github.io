@@ -35,8 +35,8 @@ title: "AI and Student Success"
 </style>
 
 <section class="lightning" data-transition="fade" aria-label="AI and student success">
-  <p class="eyebrow">Student success</p>
-  <h1 class="main-point">AI and student success</h1>
+  <p class="eyebrow">Sep 11, 2026: Student Success Roundtable</p>
+  <h1 class="main-point">AI for student success</h1>
   <div class="rule"></div>
   <p class="opening-question">What if students learned<br>to teach themselves?</p>
   <p class="speaker">Fred Gibbs<br>University of New Mexico</p>
