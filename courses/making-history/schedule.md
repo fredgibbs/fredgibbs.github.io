@@ -282,7 +282,7 @@ Microhistory embraces the mundane. Rather than privileging big patterns, microhi
 - [Historian's Café](historians-cafe) assignment overview 
 
 
-{% include alert.html class='warning' title='Historians Café due' text="
+{% include alert.html class='warning' title='Historians Café due TUESDAY (but it's a longer assignment)' text="
 Your [Historians Café](historians-cafe) assignment is due by MIDNIGHT ON TUESDAY. I strongly suggest you *finish a draft before Tuesday's class*. You'll get more out of the review having already started the assignment. 
 "%}
 
