@@ -277,7 +277,7 @@ Microhistory embraces the mundane. Rather than privileging big patterns, microhi
 
 ### 7.2: Course Review
 - No readings before class
-- <!-- Slides of [What Makes History Happen? — a review of Weeks 1–6](slides/review-weeks-1-6/) -->
+<!-- - Slides of [What Makes History Happen? — a review of Weeks 1–6](slides/review-weeks-1-6/) -->
 - Course review that will help with your midterm assignment (due Tuesday)
 - [Historian's Café](historians-cafe) assignment overview 
 
