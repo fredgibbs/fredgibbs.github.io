@@ -267,30 +267,19 @@ This week's [reading refraction](reading-refractions) (and please remind yoursel
 Microhistory embraces the mundane. Rather than privileging big patterns, microhistorians focused on a single person, event, or community and asked what one case could reveal about the world around it. Ginzburg's miller is the canonical example — a man whose bizarre ideas were preserved only because the Inquisition found him interesting enough to interrogate, and whose trial record opens a window onto a hidden popular culture. 
 
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 5: "Causes or Meanings?", 178--198. Maza's overview of the "cultural turn" in history — what it means to treat symbols, rituals, and everyday life as evidence. 
-- 📜 Carlo Ginzburg, *The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller* (1976), sections 1--6, (pp. 1-13). A miller in 1500s Italy is put on trial by the Inquisition for his bizarre cosmological beliefs. Ginzburg uses one person's story to reveal an entire world of popular culture. What's your reaction to what Menocchio says? How common do you think it would be?
+- 📜 Carlo Ginzburg, *The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller* (1976). Read the Preface, sections 1--6 (xiii--xx); and the main text, sections 1--6, (1--13). A miller in 1500s Italy is put on trial by the Inquisition for his bizarre cosmological beliefs. Ginzburg uses one person's story to reveal an entire world of popular culture. What's your reaction to what Menocchio says? How common do you think it would be?
 
 #### Discussion
 - How does Ginzburg use a single story to illuminate a whole society?
-- What is "thick description"? How is it different from just describing what happened?
-- What can one person's story tell us about an entire society?
 
 
-### 7.2: Course Review So Far
+
+### 7.2: Course Review
 - No readings before class
+- Course review that will help with your assignment due Tuesday
+- Historian's Café assignment discussion 
+- <!-- Slides of [What Makes History Happen? — a review of Weeks 1–6](slides/review-weeks-1-6/) -->
 
-
-#### Discussion
-1. Has history gotten better — or just different?
-The course is structured as a sequence of "turns," each claiming to fix something the previous approach missed. Ranke corrects Voltaire's speculation; Marx corrects Ranke's elitism; Thompson corrects Marx's abstraction; Ginzburg corrects Thompson's anonymity. By Week 7, are we closer to the truth — or just accumulating competing frameworks? Is historiography progress or fashion?
-
-2. What is history for?
-Livy wants moral examples. Voltaire wants civilizational lessons. Ranke wants truth. Marx wants revolution. Thompson wants to rescue the forgotten. Davis wants to understand how people made sense of their world. These aren't compatible goals — they produce different histories even from the same sources. Which purpose do you find most defensible, and why?
-
-3. The fact/interpretation problem — is it solved?
-Carr says historians choose which facts matter. Ranke says show it "as it actually was." Vansina and Thompson say the problem is that the archives were built to exclude certain people, not that interpretation is unavoidable. Does any approach we've read actually escape the tension Carr identified on day two? Or does it just move it?
-
-4. Scale and the cost of zooming out (or in).
-Braudel zooms to centuries; Ginzburg zooms to one miller's trial. Marx explains everything through class; Davis explains identity through one impersonation case. You can't do both at once. What do you actually lose when you zoom in — and what do you lose when you zoom out? Is there a scale that's "right" for historical argument?
 
 
 {% include alert.html class='warning' title='Historians Café due' text="
@@ -299,18 +288,34 @@ Your [Historians Café](historians-cafe) assignment is due by MIDNIGHT ON TUESDA
 
 
 
-
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. 
+
+Share your well-informed thoughts about **scale and the cost of zooming in or out**.
+Braudel zooms out to centuries of landscape; Ginzburg zooms in to one miller's trial. You can't do both at once. What do you actually lose when you zoom in — and what do you lose when you zoom out? Is there a scale that's "right" for historical argument?
+
 "%}
+
+
 
 ## 8: Reflect and Rest
 
-### 8.1: Midterm Review
+### 8.1: What are we talking about?
+
+- No readings before class
+- Today we focus on the discussion questions below as way of framing your Historian's Café assignment
+
+#### Discussion
+1. Is there any "progress" in historical writing? The course is structured as a sequence of "turns," each claiming to fix something the previous approach missed. Ranke corrects Voltaire's speculation; Marx corrects Ranke's elitism; Thompson corrects Marx's abstraction; Ginzburg corrects Thompson's anonymity. Are we now closer to the "truth", or just accumulating competing frameworks? 
+
+2. What is history for?
+Livy wants moral examples. Voltaire wants civilizational lessons. Ranke wants truth. Marx wants revolution. Thompson wants to rescue the forgotten. These aren't always compatible goals — they produce different histories even from the same sources. Which purpose do you find most defensible, and why?
+
 
 {% include alert.html class='danger' title='Historians Café due' text="
 Submit your [Historians Café](historians-cafe) assignment BEFORE MIDNIGHT!
 "%}
+
 
 ### 8.2:  Fall break! No Class. Nothing Due.
 
