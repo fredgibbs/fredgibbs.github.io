@@ -1,6 +1,6 @@
 ---
 layout: reveal-lecture
-title: "What Makes History Happen? — a review of Weeks 1–6, Carr to Scott"
+title: "Every Historian Picks a Scale — a review of Weeks 1–6, Carr to Scott"
 image_slides: true
 ---
 <!-- ========== TITLE ========== -->
@@ -8,77 +8,15 @@ image_slides: true
 Making History • HIST 1105 • Week 7 · Review
 {: .eyebrow}
 
-# What Makes History Happen?
+# Every Historian Picks a Scale
 {: .main-point}
 <div class="rule"></div>
 - Carr, *What Is History?* · Week 1
-- Herodotus to Ranke · Weeks 2–4 (full review: Week 5)
+- Herodotus to Ranke · Weeks 2–4
 - Marx, Braudel · Week 5
 - Thompson, Scott · Week 6
 - Ginzburg · Week 7.1
 {: .source-list}
-
-Six weeks of answers to one running question, and what actually changed — and didn't — in what history is, how it gets made, and what it's for.
-{: .detail}
-
-Carr cited by the Penguin *What Is History?* page. Marx and Engels from the *Manifesto* (Moore trans., 1888). Braudel from "The *Longue Durée*" (1958) and the essays collected in *On History*. Thompson cited by the page of *The Making of the English Working Class* (1963). Scott cited by the page of the 1986 *AHR* printing.
-{: .citation-note}
-</section>
-
-<!-- ========== THROUGHLINE ========== -->
-<section markdown="1">
-Today in context
-{: .eyebrow}
-
-## What makes history happen?
-{: .main-point}
-
----
-
-<div class="throughline" markdown="1">
-<div class="answer past" markdown="1">
-
-###### Week 1 · Carr, 1961
-{: .num}
-
-Nothing, by itself. A historian decides which facts get to speak.
-</div>
-<div class="answer past" markdown="1">
-
-###### Weeks 2–4 · Herodotus to Ranke
-{: .num}
-
-A wrongdoer, a god, Fortune, a plan no one inside it can see — and then, no plan at all.
-</div>
-<div class="answer past" markdown="1">
-
-###### Week 5 · Marx and Braudel
-{: .num}
-
-Structures. Class conflict over production; sea, soil and climate underneath everything.
-</div>
-<div class="answer past" markdown="1">
-
-###### Week 6 · Thompson and Scott
-{: .num}
-
-People, making themselves; and gender, the system that makes the arrangement look natural.
-</div>
-<div class="answer now" markdown="1">
-
-###### Week 7.1 · Ginzburg, 1976
-{: .num}
-
-One miller's cosmos, and what a single case can carry.
-</div>
-<div class="answer next" markdown="1">
-
-###### Week 9 · Hobsbawm, Anderson
-{: .num}
-
-Nations, invented and then believed in.
-</div>
-</div>
 </section>
 
 <!-- ================================================================ -->
@@ -109,63 +47,241 @@ Week 1 · Carr, *What Is History?* (1961)
 **Study the historian before you study the facts (p. 23) — the question for every week since.**
 </div>
 
-That day's question: Carr wrote in 1961. Does his argument still hold?
+Carr's historian chooses one fact at a time. But the facts available to choose from were already filtered at a much bigger scale — by whoever decided, long before, what was worth keeping at all. Which scale matters more?
+{: .question.fragment data-fragment-index="3"}
+</section>
+
+<!-- ================================================================ -->
+<!-- =============== WEEK 2 =========================================== -->
+<!-- ================================================================ -->
+
+<!-- ========== WEEK 2.1: HERODOTUS AND THUCYDIDES ========== -->
+<section markdown="1">
+Week 2 · Herodotus and Thucydides
+{: .eyebrow}
+
+## Two reasons to write a war down
+{: .main-point}
+
+"...that the memory of the past may not be blotted out from among men by time, and that great and marvellous deeds done by Greeks and foreigners and especially the reason why they warred against each other may not lack renown." <span class="cite">Herodotus 1.1 (Godley trans.)</span>
+{: .quote.compact.fragment data-fragment-index="0"}
+
+<div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
+
+###### The other reason
+{: .label}
+
+"The real cause I consider to be the one which was formally most kept out of sight. The growth of the power of Athens, and the alarm which this inspired in Lacedaemon, made war inevitable." <span class="cite">Thucydides 1.23 (Crawley trans.)</span>
+</div>
+
+<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+
+**One writes so the deeds are not forgotten. The other writes to find the cause. Both of them are called history.**
+</div>
+
+Herodotus writes at the scale of deeds — what people did, so it isn't lost. Thucydides writes at the scale of causes — a shift in power nobody wanted named out loud. Which scale actually gets you closer to why the war happened?
+{: .question.fragment data-fragment-index="3"}
+</section>
+
+<!-- ========== WEEK 2.2: LIVY AND SIMA QIAN ========== -->
+<section markdown="1">
+Week 2 · Livy and Sima Qian
+{: .eyebrow}
+
+## A monument you are meant to choose from
+{: .main-point}
+
+"...you behold the lessons of every kind of experience set forth as on a conspicuous monument; from these you may choose for yourself and for your own state what to imitate, from these mark for avoidance what is shameful in the conception and shameful in the result." <span class="cite">Livy, *Ab Urbe Condita*, Preface (Foster trans.)</span>
+{: .quote.compact.fragment data-fragment-index="0"}
+
+<div class="reveal-block historical fragment compact" data-fragment-index="1" markdown="1">
+
+###### The opposite instinct, in Han China
+{: .label}
+
+"I have cast a universal net to gather together all the old traditions of the world that were scattered and lost." <span class="cite">Sima Qian, quoted in Popkin, p. 37</span>
+</div>
+
+<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+
+**Livy sorts the past into models and warnings; Sima Qian tries to lose none of it. Two opposite ideas of what a complete history would be.**
+</div>
+
+Livy's scale is the single exemplary act, repeated until the past reads as a monument. Sima Qian's scale is everything, with nothing allowed to drop out. Is there a scale where a history can still be both complete and useful?
+{: .question.fragment data-fragment-index="3"}
+</section>
+
+<!-- ========== WEEK 2: RECAP ========== -->
+<section data-transition="fade" markdown="1">
+Week 2 · recap
+{: .eyebrow}
+
+## Memory and lessons, at two scales
+{: .main-point}
+<div class="rule"></div>
+
+A single war's cause (Herodotus, Thucydides) and a civilization's worth of exemplary acts (Livy, Sima Qian) — four writers, two very different sizes of the past to work at. Week 3 asks what scale God and a prince need.
 {: .detail}
 </section>
 
 <!-- ================================================================ -->
-<!-- =============== WEEKS 2-4 · RECAP ================================ -->
+<!-- =============== WEEK 3 =========================================== -->
 <!-- ================================================================ -->
 
-<!-- ========== WEEKS 2-4: RECAP ========== -->
-<section data-transition="fade" markdown="1">
-Weeks 2–4 · recap
+<!-- ========== WEEK 3.1: THE CHRONICLE AND BEDE ========== -->
+<section markdown="1">
+Week 3 · The *Anglo-Saxon Chronicle* and Bede
 {: .eyebrow}
 
-## Kant hoped history had a plan. Ranke said none could be proved.
+## When God is the cause, the record still has to be kept
+{: .main-point}
+
+"This year dire forwarnings came over the land of the North-humbrians... fiery dragons were seen flying in the air. A great famine soon followed these tokens; and a little after that... the ravaging of heathen men lamentably destroyed God's church at Lindisfarne." <span class="cite">*Anglo-Saxon Chronicle*, 793 (Giles trans.)</span>
+{: .quote.compact.fragment data-fragment-index="0"}
+
+<div class="reveal-block historical fragment compact" data-fragment-index="1" markdown="1">
+
+###### What the record is for
+{: .label}
+
+"For if history relates good things of good men, the attentive hearer is excited to imitate that which is good." <span class="cite">Bede, *Ecclesiastical History*, Preface</span>
+</div>
+
+<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+
+**The annal puts portents and a raid in one breath; Bede gives the whole thing a purpose. Neither of them doubts who is running events.**
+</div>
+
+The *Chronicle* logs one year at a time, with no thread connecting the famine to the raid. Bede reads the same centuries as one plan unfolding under God. Which scale finds the pattern — and which one risks inventing it?
+{: .question.fragment data-fragment-index="3"}
+</section>
+
+<!-- ========== WEEK 3.2: AL-BIRUNI AND MACHIAVELLI ========== -->
+<section markdown="1">
+Week 3 · Al-Biruni and Machiavelli
+{: .eyebrow}
+
+## Two uses for a source that have nothing to do with God
+{: .main-point}
+
+"No one will deny that in questions of historic authenticity hearsay does not equal eyewitness... How could we know the history of nations but for *the everlasting monuments of the pen*?" <span class="cite">al-Biruni, preface to the *Kitab al-Hind*</span>
+{: .quote.compact.fragment data-fragment-index="0"}
+
+<div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
+
+###### The other use
+{: .label}
+
+"A wise man ought always to follow the paths beaten by great men, and to imitate those who have been supreme, so that if his ability does not equal theirs, at least it will savour of it." <span class="cite">Machiavelli, *The Prince*, ch. 6 (Marriott trans.)</span>
+</div>
+
+<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+
+**Al-Biruni tests the reporter; Machiavelli mines the example. One is building a method, the other is looking for a move.**
+</div>
+
+Al-Biruni's scale is the single report, tested witness by witness. Machiavelli's scale is centuries of examples, mined for one move a prince can reuse today. Does either scale work without the other?
+{: .question.fragment data-fragment-index="3"}
+</section>
+
+<!-- ========== WEEK 3: RECAP ========== -->
+<section data-transition="fade" markdown="1">
+Week 3 · recap
+{: .eyebrow}
+
+## God and the prince, at two scales
 {: .main-point}
 <div class="rule"></div>
 
-<div class="cards" markdown="1">
-<div class="card" markdown="1">
+A year at a time with no plan, or one report at a time with no end-use beyond proof — against centuries read for a providential arc, or mined for one reusable lesson. Week 4 pushes the big scale as far as it will go.
+{: .detail}
+</section>
 
-###### 01 · Week 2
-{: .num}
+<!-- ================================================================ -->
+<!-- =============== WEEK 4 =========================================== -->
+<!-- ================================================================ -->
 
-#### Memory and lessons
+<!-- ========== WEEK 4.1: VOLTAIRE AND KANT ========== -->
+<section markdown="1">
+Week 4 · Voltaire and Kant
+{: .eyebrow}
 
-Herodotus and Thucydides ask why the war happened; Livy and Sima Qian draw lessons from character.
-</div>
-<div class="card" markdown="1">
+## History acquires a direction
+{: .main-point}
 
-###### 02 · Week 3
-{: .num}
+"Whosoever thinks, or, what is still more rare, whosoever has taste, will find but four ages in the history of the world. These four happy ages are those in which the arts were carried to perfection." <span class="cite">Voltaire, *Age of Louis XIV*, Introduction, p. 5</span>
+{: .quote.compact.fragment data-fragment-index="0"}
 
-#### God and the prince
+<div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
 
-The *Chronicle* and Bede find God behind events; Machiavelli reads for power.
-</div>
-<div class="card" markdown="1">
+###### A direction nobody inside it can see
+{: .label}
 
-###### 03 · Week 4
-{: .num}
-
-#### Progress
-
-Kant gives history a direction nobody inside it can see.
-</div>
-<div class="card" markdown="1">
-
-###### 04 · Week 4
-{: .num}
-
-#### What actually happened
-
-Ranke sets aside lessons and plans, and keeps to the documents.
-</div>
+"Each, according to his own inclination, follows his own purpose, often in opposition to others; yet each individual and people, as if following some guiding thread, go toward a natural but to each of them unknown goal." <span class="cite">Kant, Introduction (Beck trans.)</span>
 </div>
 
-Full treatment: Slides of *Who Makes History Happen?* (Week 5). That week's synthesis question: which of these eight would recognize each other as doing the same job?
+<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+
+**Voltaire measures the past against a standard of taste; Kant gives it a plan no one living in it could report. Both are telling you where history is headed.**
+</div>
+
+Voltaire zooms out to a few golden ages and judges them by taste. Kant zooms out further still — to the whole species, following a plan nobody alive could ever see. Is there a scale too large to actually test?
+{: .question.fragment data-fragment-index="3"}
+</section>
+
+<!-- ========== IMAGE: RANKE'S PAGE ========== -->
+<section class="image-slide bleed"
+ data-background-image="images/ranke-vorrede-1824.jpg"
+ data-background-size="contain"
+ data-background-color="#0d1412" markdown="1">
+
+A page of blackletter German type, page numbered VI, whose first three lines end with the words wie es eigentlich gewesen, followed by a paragraph listing the kinds of sources the book rests on
+
+{: .bleed-alt}
+
+Leopold von Ranke, *Geschichten der romanischen und germanischen Völker*, 1824, p. VI — a crop · Internet Archive · public domain
+{: .credit}
+
+</section>
+
+<!-- ========== WEEK 4.2: RANKE ========== -->
+<section markdown="1">
+Week 4 · Ranke, *Geschichten der romanischen und germanischen Völker* (1824)
+{: .eyebrow}
+
+## Not judging, not instructing — only what actually happened
+{: .main-point}
+
+"History has had assigned to it the office of judging the past and of instructing the present for the benefit of the future ages. To such high offices the present work does not presume: it seeks only to show what actually happened [*wie es eigentlich gewesen*]." <span class="cite">Ranke, 1824 introduction (GHDI trans.)</span>
+{: .quote.compact.fragment data-fragment-index="0"}
+
+<div class="reveal-block unpack fragment compact" data-fragment-index="1" markdown="1">
+
+###### What the sentence throws out
+{: .label}
+
+Livy's lessons, Bede's providence, Voltaire's standard of taste and Kant's plan — all of it, in one sentence, as offices history should not presume to hold. The paragraph after it lists the sources the book rests on instead.
+</div>
+
+<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+
+**The sentence that founded the profession is a refusal, and everything since has argued with what it refused.**
+</div>
+
+Ranke refuses every scale bigger than the document in front of him. Does that make him the most careful historian in the room, or the one who gave up on explaining anything?
+{: .question.fragment data-fragment-index="3"}
+</section>
+
+<!-- ========== WEEK 4: RECAP ========== -->
+<section data-transition="fade" markdown="1">
+Week 4 · recap
+{: .eyebrow}
+
+## Progress pushed the scale up. Ranke pulled it back down.
+{: .main-point}
+<div class="rule"></div>
+
+A few golden ages, then the whole species moving toward reason nobody inside it can see — and then Ranke collapses it all back to the single document, refusing to say what any of it adds up to. Week 5 asks whether that collapse was necessary.
 {: .detail}
 </section>
 
@@ -173,15 +289,18 @@ Full treatment: Slides of *Who Makes History Happen?* (Week 5). That week's synt
 <!-- =============== WEEK 5.1 · MARX =================================== -->
 <!-- ================================================================ -->
 
-<!-- ========== IMAGE: MARX ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="../marx-structural-history/images/marx-mayall-1875.jpg" alt="Studio photograph of a seated elderly man with a broad white beard and thick swept-back hair, arms folded across a dark double-breasted coat, a watch chain at his chest">
-<figcaption markdown="span">
-Karl Marx · 1818–1883
-<em>Born in Trier; studied law and philosophy; edited a Cologne newspaper until Prussian censors shut it. Expelled from Paris, he reached England in 1849 and stayed for the rest of his life.<span class="why"><strong>Why he matters:</strong> "the single most influential theorist for twentieth-century historical writing," who never held a post in history, or in any other subject.</span>(John Jabez Edwin Mayall, 1875. Städel Museum. Public domain.)</em>
-</figcaption>
-</figure>
+<!-- ========== RECALL: THE MILL (WEEK 5.1) ========== -->
+<section class="image-slide bleed"
+ data-background-image="images/powerloom-weaving-1835.jpg"
+ data-background-size="contain"
+ data-background-color="#0d1412" markdown="1">
+
+An engraving of a long factory hall with two rows of power looms receding into the distance, driven by belts from shafting that crosses the ceiling, tended almost entirely by women and girls in long dresses
+{: .bleed-alt}
+
+Power-loom weaving, from Edward Baines, *History of the Cotton Manufacture in Great Britain*, 1835 · T. Allom, engraved by J. Tingle · public domain
+{: .credit}
+
 </section>
 
 <!-- ========== WEEK 5.1: MARX ========== -->
@@ -208,23 +327,26 @@ Capitalism creates "...its own grave-diggers. Its fall and the victory of the pr
 **How people make a living drives history. People still have to act.**
 </div>
 
-That day's question: Is class struggle a good explanation for everything? What does it miss?
-{: .detail}
+Marx's scale is the whole sweep of "hitherto existing society" — but it cashes out in people who have to act, one factory and one decision at a time. Is that one scale, or two stitched together?
+{: .question.fragment data-fragment-index="3"}
 </section>
 
 <!-- ================================================================ -->
 <!-- =============== WEEK 5.2 · BRAUDEL ================================ -->
 <!-- ================================================================ -->
 
-<!-- ========== IMAGE: BRAUDEL ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="../annales-longue-duree/images/braudel-portrait.jpg" alt="A sepia photograph of an elderly man with swept-back white hair and heavy dark-framed glasses, in a tweed jacket and tie, shelves of books behind him">
-<figcaption markdown="span">
-Fernand Braudel · 1902–1985
-<em>A schoolteacher's son who taught in Algiers from 1923 and at São Paulo from 1935, and came home to five years as a prisoner of war. He succeeded Febvre at the Collège de France in 1950.<span class="why"><strong>Why he matters:</strong> he gave the *Annales* the thesis its founders had deliberately gone without: structures explain events, not the other way round.</span>(Photograph on the dust jacket of *The Identity of France*, 1988.)</em>
-</figcaption>
-</figure>
+<!-- ========== RECALL: THE HILLSIDE (WEEK 5.2) ========== -->
+<section class="image-slide bleed"
+ data-background-image="images/olive-trees-1889.jpg"
+ data-background-size="contain"
+ data-background-color="#0d1412" markdown="1">
+
+An oil painting of a grove of olive trees with twisted trunks on rough ground, a ridge of blue limestone hills behind them, and a white cloud curling across a blue sky
+{: .bleed-alt}
+
+Vincent van Gogh, *The Olive Trees*, Saint-Rémy, June 1889 · Museum of Modern Art, New York · public domain
+{: .credit}
+
 </section>
 
 <!-- ========== WEEK 5.2: BRAUDEL ========== -->
@@ -251,23 +373,26 @@ Both explain by structures; Marx names one motor, Braudel refuses to name any. "
 **A structure is defined by what it forbids.**
 </div>
 
-That day's question: do you lose too much when zooming out to centuries-long patterns?
-{: .detail}
+Braudel's scale is centuries, and from there the hillside outlasts the battle. Name one thing that scale cannot see — and who disappears at it.
+{: .question.fragment data-fragment-index="3"}
 </section>
 
 <!-- ================================================================ -->
 <!-- =============== WEEK 6.1 · THOMPSON =============================== -->
 <!-- ================================================================ -->
 
-<!-- ========== IMAGE: THOMPSON ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="../history-from-below/images/thompson-1980.jpg" alt="A white-haired man in a long coat speaking into a red megaphone in the open air, a crowd of listeners below and behind him under a gray sky">
-<figcaption markdown="span">
-E. P. Thompson · 1924–1993
-<em>A Marxist historian who left the Communist Party in 1956 over Hungary and spent sixteen years teaching working people in adult-education classes, on the extra-mural staff at Leeds rather than a conventional post. At an anti-nuclear rally, Oxford, 1980.<span class="why"><strong>Why he matters:</strong> class, he argued, is not a structure found in the numbers but something people do, and has to be described rather than deduced.</span>(Photograph by Kim Traynor, 1980. CC BY-SA 4.0.)</em>
-</figcaption>
-</figure>
+<!-- ========== RECALL: GENERAL LUDD (WEEK 6.1) ========== -->
+<section class="image-slide bleed"
+ data-background-image="images/leader-of-the-luddites-1812.jpg"
+ data-background-size="contain"
+ data-background-color="#0d1412" markdown="1">
+
+A hand-colored etching of a man in a woman's blue spotted dress and bonnet striding forward with a club, arm flung out, while behind him figures with raised weapons attack a burning mill
+{: .bleed-alt}
+
+*The Leader of the Luddites*, May 1812, inscribed "Drawn from Life by an Officer" · Working Class Movement Library · public domain
+{: .credit}
+
 </section>
 
 <!-- ========== WEEK 6.1: THOMPSON ========== -->
@@ -294,23 +419,26 @@ Week 6.1 · Thompson, *The Making of the English Working Class* (1963)
 **Every rule about what counts as evidence is also a decision about whose past can be known.**
 </div>
 
-That day's question: who is missing from the histories you learned in school? What kinds of sources might recover them?
-{: .detail}
+Thompson shrinks Marx's scale back down to lived relationships — the stockinger, the cropper, one weaver at a time. Does the big structure disappear at that scale, or just get harder to see?
+{: .question.fragment data-fragment-index="3"}
 </section>
 
 <!-- ================================================================ -->
 <!-- =============== WEEK 6.2 · SCOTT ================================== -->
 <!-- ================================================================ -->
 
-<!-- ========== IMAGE: SCOTT ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="../gender/images/scott-2013-portrait.jpg" alt="A color photograph of an older woman with short white hair and red-framed glasses, smiling, standing in front of crowded white bookshelves; one shelf carries a label reading GENDER">
-<figcaption markdown="span">
-Joan Wallach Scott · b. 1941
-<em>A historian of French labor, who had already written on women and work with Louise A. Tilly. She gave this paper to the American Historical Association in December 1985; the *AHR* printed it a year later.<span class="why"><strong>Why she matters:</strong> she argues that gender is not a subject to add to history but a category that changes what any history can ask.</span>(Photograph by B. Sutherton, 2013, cropped. CC BY-SA 3.0.)</em>
-</figcaption>
-</figure>
+<!-- ========== RECALL: THE ROOM (WEEK 6.2) ========== -->
+<section class="image-slide bleed"
+ data-background-image="images/berlin-congress-1892.jpg"
+ data-background-size="contain"
+ data-background-color="#0d1412" markdown="1">
+
+An oil painting of a high gilded hall: two dozen men in uniforms, sashes, frock coats and fezzes stand and sit around a long table under tall curtained windows, one shaking hands at the center
+{: .bleed-alt}
+
+Anton von Werner, *Der Kongreß zu Berlin* — the closing session, 13 July 1878; painted 1892 · Deutsches Historisches Museum · public domain
+{: .credit}
+
 </section>
 
 <!-- ========== WEEK 6.2: SCOTT ========== -->
@@ -337,223 +465,201 @@ Week 6.2 · Scott, "Gender: A Useful Category" (1986)
 **Adding women to a syllabus and treating gender as power are two different projects — this class read the second one.**
 </div>
 
-That day's question: what does it mean that gender is performed?
-{: .detail}
+Scott's scale isn't bigger or smaller than Marx's or Thompson's — it's a different axis. What does the exclusion of women mean at any scale, from one room to the whole category of "high politics"?
+{: .question.fragment data-fragment-index="3"}
 </section>
 
 <!-- ================================================================ -->
-<!-- =============== SYNTHESIS ========================================= -->
+<!-- =============== WEEK 7.1 · GINZBURG =============================== -->
 <!-- ================================================================ -->
 
-<!-- ========== SYNTHESIS ========== -->
+<!-- ========== WEEK 7.1: GINZBURG ========== -->
+<section markdown="1">
+Week 7.1 · Ginzburg, *The Cheese and the Worms* (1976)
+{: .eyebrow}
+
+## One miller, and the whole cosmos he built out of a cheese
+{: .main-point}
+
+<div class="reveal-block historical fragment compact" data-fragment-index="0" markdown="1">
+
+###### What he told the Inquisition
+{: .label}
+
+A miller in sixteenth-century Friuli said the world had curdled into being like a cheese, with angels generated in it like worms. The book takes its title from his image.
+</div>
+
+<div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
+
+###### Why we can hear him at all
+{: .label}
+
+His answers survive because the Inquisition found him interesting enough to write them down. Ginzburg reads that trial record as a window onto a popular culture that left almost nothing else behind.
+</div>
+
+<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+
+**Carr, in its purest form: we hear this man only because somebody with power over him wanted it written down.**
+</div>
+
+Ginzburg's scale is the smallest the course has tried: one miller, one trial. At that scale you get a mind in full — but can one case ever tell you it was typical?
+{: .question.fragment data-fragment-index="3"}
+</section>
+
+<!-- ================================================================ -->
+<!-- =============== SCALE ============================================= -->
+<!-- ================================================================ -->
+
+<!-- ========== SCALE: THE COST OF ZOOMING ========== -->
 <section data-transition="fade" markdown="1">
-Six weeks · three questions
+Tonight's refraction · scale
 {: .eyebrow}
 
-## What changed, and what didn't
-{: .main-point}
-<div class="rule"></div>
-
-<div class="cards three" markdown="1">
-<div class="card" markdown="1">
-
-###### What history is
-{: .num}
-
-#### Selection, always
-
-Carr's facts never spoke alone; Ranke's documents needed a chooser too. What changed is who counts as worth choosing.
-</div>
-<div class="card" markdown="1">
-
-###### How to do it
-{: .num}
-
-#### Evidence widened, method didn't relax
-
-Al-Biruni named his sources; Ranke made the archive the test; Thompson and Vansina made memory and oral tradition count as evidence too.
-</div>
-<div class="card" markdown="1">
-
-###### What it's for
-{: .num}
-
-#### From lesson to explanation to rescue
-
-Livy taught virtue, Kant found a plan, Marx found a motor. Thompson and Scott went looking for who each method leaves out.
-</div>
-</div>
-</section>
-
-<!-- ================================================================ -->
-<!-- =============== DISCUSSION ========================================= -->
-<!-- ================================================================ -->
-
-<!-- ========== DISCUSSION 1 ========== -->
-<section markdown="1">
-Discussion · 1 of 4
-{: .eyebrow}
-
-## Progress, or fashion?
-{: .main-point}
-
----
-
-Ranke corrects Voltaire's speculation; Marx corrects Ranke's elitism; Thompson corrects Marx's abstraction; Ginzburg corrects Thompson's anonymity. Is that sequence getting closer to the truth, or just accumulating competing frameworks?
-{: .question .fragment data-fragment-index="1"}
-
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-Each turn fixes a specific complaint against the one before it — real progress on a narrow question. Nothing in the sequence settles the big one.
-</div>
-</section>
-
-<!-- ========== DISCUSSION 2 ========== -->
-<section markdown="1">
-Discussion · 2 of 4
-{: .eyebrow}
-
-## What is history for?
-{: .main-point}
-
----
-
-Livy wants moral examples. Voltaire wants civilizational lessons. Ranke wants truth. Marx wants revolution. Thompson wants to rescue the forgotten. Which purpose do you find most defensible, and why?
-{: .question .fragment data-fragment-index="1"}
-
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-These aren't compatible goals — they would produce different histories even from the same sources.
-</div>
-</section>
-
-<!-- ========== DISCUSSION 3 ========== -->
-<section markdown="1">
-Discussion · 3 of 4
-{: .eyebrow}
-
-## Is the fact/interpretation problem solved?
-{: .main-point}
-
----
-
-Ranke says show it "as it actually was." Vansina and Thompson say the real problem is the archive was built to exclude people, not that interpretation is unavoidable. Does anyone escape Carr's tension — or just relocate it?
-{: .question .fragment data-fragment-index="1"}
-
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-Every fix we've read moves the choosing somewhere else — onto the document, the structure, or the archive. None removes it.
-</div>
-</section>
-
-<!-- ========== DISCUSSION 4 ========== -->
-<section markdown="1">
-Discussion · 4 of 4
-{: .eyebrow}
-
-## What does zooming cost?
-{: .main-point}
-
----
-
-Braudel zooms to centuries; Ginzburg zooms to one miller's trial. What do you lose zooming in, and what do you lose zooming out? Is there a scale that's "right" for historical argument?
-{: .question .fragment data-fragment-index="1"}
-
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-Zoom out and you can explain everything and decide nothing. Zoom in and you can decide everything and explain almost nothing.
-</div>
-</section>
-
-<!-- ================================================================ -->
-<!-- =============== ARC ================================================ -->
-<!-- ================================================================ -->
-
-<!-- ========== ARC ========== -->
-<section markdown="1">
-The course so far · looking back
-{: .eyebrow}
-
-## Six weeks, four turns
+## You cannot zoom in and out at the same time
 {: .main-point}
 <div class="rule"></div>
 
 <div class="cards" markdown="1">
 <div class="card" markdown="1">
 
-###### 01 · Weeks 1–4
+###### Zoom out · Braudel
 {: .num}
 
-#### Carr to Ranke
+#### Four centuries of a sea
 
-No fact, no plan, and no document stands without someone choosing it.
+Gets: why an order lasts, what no one inside it could change, the hillside that outlives the battle.
+
+Loses: the afternoon, the decision, the name. Nobody in the *longue durée* chooses anything.
 </div>
 <div class="card" markdown="1">
 
-###### 02 · Week 5
+###### Zoom in · Ginzburg
 {: .num}
 
-#### Marx and Braudel
+#### One trial, one man
 
-Structures explain the order; people still have to break it, or just outlast it.
-</div>
-<div class="card" markdown="1">
+Gets: a mind in full, in his own words, with the strangeness left in.
 
-###### 03 · Week 6
-{: .num}
-
-#### Thompson and Scott
-
-Class happens; gender signifies. Both make the excluded visible.
-</div>
-<div class="card" markdown="1">
-
-###### 04 · Week 7.1
-{: .num}
-
-#### Ginzburg
-
-One trial, one cosmos — the smallest case still argues about everyone.
+Loses: any claim about how many others thought this. One case cannot tell you it was typical.
 </div>
 </div>
+
+<div class="takehome fragment compact" data-fragment-index="0" markdown="1">
+
+**Zoom out and you can explain everything and decide nothing. Zoom in and you can decide everything and explain almost nothing.**
+</div>
+
+There is no right scale. So: how does the scale a historian picks tell you what they think history is *for*?
+{: .question.fragment data-fragment-index="1"}
 </section>
 
-<!-- ========== TAKE HOME ========== -->
-<section data-transition="fade" markdown="1">
-The take home · six weeks
+<!-- ================================================================ -->
+<!-- =============== HISTORIANS CAFE =================================== -->
+<!-- ================================================================ -->
+
+<!-- ========== CAFE: THE SHAPE ========== -->
+<section markdown="1">
+Historians Café · due Tuesday midnight
 {: .eyebrow}
 
-## The record was never neutral, and the disagreement moved, not disappeared
+## Nobody at this table is a historian
 {: .main-point}
 <div class="rule"></div>
 
 <div class="reveal-block unpack fragment compact" data-fragment-index="0" markdown="1">
 
-###### What stayed constant
+###### Who is arguing
 {: .label}
 
-Every writer we've read decides which facts get to speak, and every one of them believes the decision is justified.
+Two ordinary people — a job, an age, a reason to care — fighting about what should be done with the past. A statue, a lesson plan, a family story. Neither would say they have a theory of history. Both of them do.
 </div>
 
 <div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
 
-###### What actually changed
+###### What you do
 {: .label}
 
-Who got to be a fact: kings and wars, then structures, then class as lived experience, then gender, then a single trial.
+Build the two people, have AI write the argument, sharpen it until they sound like someone you have met — then explain the conversation to a friend who wasn't there, and say which one you found more convincing.
 </div>
 
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 
-**Six weeks moved the argument from what happened to who gets to count as having happened at all.**
+**People almost never announce what they think history is for. They argue about a statue and tell you anyway. Hearing that is the assignment.**
 </div>
+</section>
+
+<!-- ========== CAFE: PICK THE ARGUMENT ========== -->
+<section markdown="1">
+Historians Café · step one
+{: .eyebrow}
+
+## Five arguments about what to do with the past
+{: .main-point}
+<div class="rule"></div>
+
+- **Should the statue of the city's founder come down**, now that everyone knows how he made his money? *A city council meeting.*
+- **Should the state's schools teach that the Civil War was fought over slavery?** *A school board hearing.*
+- **Should there be a plaque at the site of the factory fire**, naming the workers who died? *A neighborhood meeting.*
+- **Should the family publish great-grandma's diary**, which contradicts the story the family tells? *A kitchen table.*
+- **Should the museum return the objects** taken from a colonized country in 1890? *A museum staff meeting.*
+{: .questions.compact}
+
+Nobody in these rooms says the word "historiography." They are all arguing about it anyway.
+{: .detail}
+</section>
+
+<!-- ========== CAFE: BUILD THE PEOPLE ========== -->
+<section data-transition="fade" markdown="1">
+Historians Café · before you touch the AI
+{: .eyebrow}
+
+## Build two people, then give each of them three of today's slides
+{: .main-point}
+<div class="rule"></div>
+
+<div class="cards three" markdown="1">
+<div class="card" markdown="1">
+
+###### First
+{: .num}
+
+#### A person, not a position
+
+A job, an age, a reason to be in that room, and something at stake. A retired teacher. A grandson. Whoever has to pay for the plaque.
+</div>
+<div class="card" markdown="1">
+
+###### Then
+{: .num}
+
+#### Two or three influences each
+
+Examples to live up to (Livy). Only what documents prove (Ranke). Who had power (Marx). The slow things (Braudel). Ordinary lives (Thompson). The silences (Scott). One small case (Ginzburg). Somebody chose (Carr).
+</div>
+<div class="card" markdown="1">
+
+###### Never
+{: .num}
+
+#### Say the names out loud
+
+Your people have not heard of Ranke. "As a materialist, I believe..." is a label, not a person. The influence shows in what they treat as a good reason.
+</div>
+</div>
+
+Mix them. Someone who wants moral examples *and* trusts only documents is a real person, and those two will pull against each other when the argument gets hard.
+{: .detail}
 </section>
 
 <!-- ========== CLOSING ========== -->
 <section data-transition="fade" markdown="1">
-Next · Week 9
+Next · 8.1, Tuesday
 {: .eyebrow}
 
-## After the break: history made on purpose
+## Tuesday: whether any of it was progress
 {: .main-point}
 <div class="rule"></div>
 
-Nations feel ancient. Hobsbawm and Anderson argue they were invented, on purpose, quite recently. Compare Kant's plan nobody could see — the two constructions could not be more different.
+Two things due tonight: the refraction on scale, and the start of the Café. Both are the same question — what a chosen scale, or a chosen person, says about what history is for. Tuesday is the other half: whether six weeks of corrections add up to progress, and how to hear a value somebody will not say out loud. Bring a draft.
 {: .detail}
 </section>

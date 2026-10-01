@@ -8,123 +8,101 @@ section: links-guides
 
 # Historians Café
 
-Imagine you are a fly on the wall in a café where three historians are arguing about the same historical question — but they're talking past each other because they fundamentally disagree about what history *is* and what it's *for*. What would you hear?
+You're sitting in a café and can't help but overhear two people arguing about why bother studying the past. **Neither is a historian.** Neither of them would say they have a theory of history, but both of them do.
 
-Your job: use AI to write that conversation. Then evaluate whether AI actually understands the difference between a Marxist historian and a postcolonial one, or whether it's just producing labels.
+Your job: use AI to create a ficticious but plausible dialogue between the two, sharpen it until both people sound like real people, and then explain the conversation to a friend who joins you later — most importantly, which one you found more convincing, and why.
 
-The dialogue itself doesn't really matter. What matters is the process of getting AI to represent genuinely distinct intellectual positions — and your ability to recognize when it fails.
-
-{% include alert.html class='success' title='Skills you are practicing' text="
-* **Structural analysis** — seeing how different analytical frameworks (economic, cultural, postcolonial) lead to different conclusions from the same historical evidence. Two historians looking at the same event can reach opposite interpretations because they disagree about what *causes* things.
-* **Narrative analysis** — recognizing how the form and framing of an argument shape its persuasive force. A Marxist historian and a nationalist historian aren't just disagreeing about facts; they're telling fundamentally different kinds of stories.
-* **Applying analytical categories** — using concepts like class, gender, and power as lenses that reveal patterns invisible to conventional event-driven history.
+{% include alert.html class='success' title='What you are practicing' text="
+* **Finding the hidden value** — people almost never announce what they think history is *for*. They argue about a statue or some misjustic, or learning from mistakes, or knowledge for its own sake. Finding that underneath what someone says (or what AI can plausibly generate) is a main skill of this course.
+* **Combining perspectives** — real people are not one school of thought when it comes to thinking about the past. Building someone out of two or three of the positions we have read, and keeping them coherent, is part of the exercise.
+* **Working with AI, and judging it** — getting a machine to write people rather than stereotypical positions, adding nuance provided by real material, and recognizing the difference.
 " %}
 
 ---
 
-## Step 1: Choose a question and three approaches
+## Step 1: Design the arguments
 
-### Pick a historical question worth arguing about
-Good choices are questions where the answer depends on what you think *matters most* about history — questions about interpretation, not facts. For example:
-- Did Rome "fall"?
-- What caused the American Civil War?
-- Why did colonialism last as long as it did?
-- What caused the French Revolution?
-- Did the Black Death contribute to the Renaissance?
-- Why did nationalism become so powerful in the 19th century?
+Not historians. People — with a job, an age, a reason to care, and something at stake. A retired schoolteacher, grandson, chemist, social worker, cop. This is not a list to pick from, the point is that it could be anyone and that different kinds of people are likely to have different uses for history. 
 
-Avoid questions with obvious answers. The whole point is that three reasonable historians can reach different conclusions from the same evidence.
+Then give each person **two or three influences from the course**. This is the part that matters:
 
+| What a person might believe | Who in the course sounds like this |
+|---|---|
+| The past is a supply of examples to live up to, or to avoid | Livy |
+| Say only what the documents can prove, and judge nothing | Ranke |
+| Who had the power and who did the work explains most of it | Marx |
+| The slow things — land, money, climate — matter more than the famous moments | Braudel |
+| Ordinary people made their own lives and belong in the story | Thompson |
+| What is missing from the record is itself evidence | Scott |
+| One small strange case can open up a whole world | Ginzburg |
+| Somebody chose which facts survived, and that choice was not neutral | Carr |
 
-### Choose three historiographical approaches
-Think about the historians and approaches you've read this semester. Pick three that would genuinely interpret your question differently. Some options (you're not limited to these):
+**Mix them.** A person who thinks the past should supply moral examples *and* that only documents count is a real and interesting person, and those two commitments will pull against each other when the argument gets hard. That tension is what makes a character instead of a position. We all have contradictory positions.
 
-| Approach | What they care about | Course connection |
-|----------|---------------------|-------------------|
-| **Marxist / economic structuralist** | Class struggle, modes of production, who controls resources | Marx, *Communist Manifesto* + *18th Brumaire* |
-| **Nationalist historian** | How the event shaped or expressed national identity | Hobsbawm, Anderson |
-| **Social / "history from below"** | What ordinary people experienced and did | Thompson, Rowbotham |
-| **Cultural historian** | Rituals, symbols, mentalities, everyday life as evidence | Geertz, Davis |
-| **Postcolonial critic** | Who benefits from this version of the story; what's silenced | Said, Trouillot, Guha |
-| **Great man / event-driven** | Key individuals and decisions were decisive | The "old-fashioned" approach that everyone else argues against |
-| **Environmental / structural** | Geography, climate, long-term forces | Braudel, Cronon |
+**Write it down before you touch AI**, for each of the two:
 
-### Write your character descriptions before touching AI
-Before you prompt anything, write a short description of each character. Include:
-- What kind of evidence do they value most?
-- What do they think history is fundamentally *for*?
-- What would their core argument about your specific question be?
+- Who they are
+- General attitudes toward history, informed by class materials
+- Their two or three influences — **by name, in your notes only**
 
-**If you can't answer these questions yourself, AI will produce mush.** The quality of the dialogue depends entirely on the quality of your character descriptions.
+{% include alert.html class='warning' title='They should never say the names' text="
+Your people do not know who Ranke was. They have never heard the word &quot;longue durée.&quot; If a character in your dialogue says &quot;as a materialist, I believe…&quot; you have a label, not a person. The influence shows in what they count as a good reason — not in what they cite. This is practice understanding the difference about how we talk about history in this course (people writing explicitly about it), and every day people who haven't thought about history systematically.
+" %}
 
 ---
 
-## Step 2: Draft the dialogue
+## Step 2: Get the dialogue, then sharpen it
 
-Give AI the full context before you paste in your characters — the more you frame the task, the better the result.
+First pass:
 
-**Prompt:**
-> I'm writing a dialogue between three historians who disagree about [YOUR QUESTION]. Each represents a different historiographical approach. The goal is to show how different methodological assumptions lead to different interpretations of the same evidence. Here are my three characters:
+> Write a ~600-word discussion between two people at a coffee shop. Here are the two people:
 >
-> [PASTE YOUR CHARACTER DESCRIPTIONS]
+> [PASTE YOUR TWO DESCRIPTIONS, INFLUENCES INCLUDED]
 >
-> Write a 1000-word conversation in which all three historians debate this question at a café table. Each character should argue from their specific methodological position — not just assert conclusions, but challenge the *assumptions* behind the other characters' arguments. Make them argue, not just take turns speaking.
+> They are not academics and should never name a theory or a historian. Show their assumptions through what they treat as obvious. Make them actually debate— they should agree and disagree about small points, but have larger fundmental disagreements about what history is for that come out in the dialog.
+
+Then **sharpen it**. The first draft is almost always two position statements taking turns. You'll need to identify how the AI prose is sounding artificial. For instance:
+
+> [A] is making a speech. Have them respond to the specific thing [B] just said.
+
+> Both of them are too similar. They need to use more description of what they consider historical facts and how that creates interpretation.
+
+> [A]'s influences include "what's missing from the record is evidence." Right now that never shows up in what they say. Work it into a concrete point, without naming any theory.
+
+Keep going until both people sound like real people. **Three or four rounds is normal.** Around **600–800 words** in the end.
 
 ---
 
-## Step 3: Evaluate for stereotyping
+## Step 3: Explain it to a friend
 
-This is the most important part. Read the dialogue AI produced and ask yourself whether it understood what you asked, or whether it just played dress-up with labels.
+Someone who wasn't there is curious about what the argument was about. Write them **250–350 words**:
 
-**Questions to guide your evaluation:**
-- Does the "Marxist historian" actually make a materialist argument about class and economic structure with historical examples — or does she just say "capitalism is bad"?
-- Are the characters engaging with each other's *claims*, or just repeating their own positions?
-- Could you find a real passage from a course reading that supports what each character says — or is AI making up or misconstruing a position?
-- Is any character more like a parody than a real intellectual tradition?
+1. **What were these two really arguing about?** Did they disagree about what history is for, or something about how it's saved, written, etc.
+2. **Quote one line from each person**, and say what that line reveals about what that person thinks history is for. This is the "hidden value" — name it in your own words.
+3. **Which one did you find more convincing, and why?** Take a side. Then say what it would take to change your mind.
 
-**Write 3–5 sentences evaluating the dialogue.** Be specific: quote a line that seems like a *genuine* representation of an approach, and quote a line that seems like a *caricature*. Explain why you see each that way.
+This paragraph is yours. Do not ask AI to write it.
 
 ---
 
-## Step 4: Revise and sharpen
+## Step 4: Post
 
-Use your evaluation to fix what's too thin or stereotypical. Some prompts that help:
+Post to the discussion board:
 
-> Make [character]'s argument more specifically grounded in [TYPE OF EVIDENCE — economic data / archival records / cultural practices / etc.]. She should directly challenge [other character]'s assumption that [X].
+1. Your two character descriptions, influences included
+2. The final dialogue
+3. Your explanation from Step 3
 
-> The [Marxist / postcolonial / cultural] historian is being too vague. Make their argument specifically about how [concrete mechanism] shaped the conditions that led to [your event].
+Make sure the formatting is readable. One giant block of unformatted text gets a zero.
 
-> Ask me three questions, one at a time, to help me sharpen what the [approach] historian's core claim about this event would actually be.
-
-Keep revising until each character has a position you could defend in class — something you could connect to a specific course reading.
+---
 
 ## What I'm looking for
 
-I grade this primarily on your **evaluation** (Step 3) and the quality of your character descriptions (Step 1) — not on how "good" the AI dialogue turned out, although that puts me in a better mood for grading. A polished dialogue you accepted uncritically is worth less than a mediocre one with a sharp, specific evaluation.
+I grade **Step 4** most heavily, then the character descriptions. The dialogue itself is the raw material, not the product — a rough argument between two vivid people beats a polished stereotype.
 
-**What matters most:**
-- Your character descriptions show you understand the *difference* between approaches, not just their names — you can say what evidence each historian values and why
-- Your evaluation quotes specific lines and explains *why* they succeed or fail as representations of real historiographical positions
-- Your revisions pushed back on what was thin or stereotypical, rather than just accepting the first draft
-
-**What matters less:** whether the final dialogue is beautifully written, whether you picked "interesting" historians, or length beyond the minimum.
-
-- **A** — character descriptions show genuine understanding of methodological differences, not just labels; evaluation quotes specific lines and explains *why* they succeed or fail as representations of real intellectual positions
-- **B** — solid character descriptions; evaluation is mostly specific; revisions pushed back on the thinnest parts
-- **C** — characters are labeled rather than understood; evaluation is present but vague
-- **D** — accepts the first AI draft uncritically; evaluation is generic ("it seemed accurate")
-- **F** — minimal effort or missing a component
-
----
-
-## Step 5: Post
-
-Post **both** to the discussion board:
-1. Your final dialogue
-2. Your stereotyping evaluation from Step 3
-
-Before class, read two other students' dialogues and come ready to say which historian in their conversation made the most convincing argument, and why.
-
-And make sure the formatting is readable. One giant block of unformatted text earns a zero.
-
-
+- **A** — the two people have real, mixed commitments that show in how they argue rather than in what they cite; You make a serious effort to argue which is more convincing
+- **B** — solid people and a clear explanation; the hidden values are identified but stated generally
+- **C** — the characters are positions with names attached, or announce their own theories; Your summary only summarizes the dialogue rather than reading underneath it
+- **D** — first AI draft accepted as is; Your summary is generic and impersonal
+- **F** — minimal effort, a missing component, or the explanation strongly resembles AI.

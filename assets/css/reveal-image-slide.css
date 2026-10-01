@@ -25,6 +25,9 @@
  * them in a `<div class="shots">` — they stack in the image column.
  * A portrait caption ends with a `<span class="why">` carrying the "Why he
  * matters" line; it renders as a block with space above it.
+ * `.recall` is the other exception: a grid of small images the room has
+ * already seen, with no captions, used to ask a class what a week was about
+ * before a recap slide answers. Documented above its rules below.
  * Each note bullet runs in three beats: a bold lead naming what to look at,
  * a sentence of elaboration, and a closing question in
  * `<em class="ask">…</em>` — see "Image slides" in courses/SLIDE-STYLE.md.
@@ -264,6 +267,62 @@
 	margin: 0 auto;
 	display: block;
 	object-fit: contain;
+}
+
+/* Recall grid: pictures the room has already seen
+ * ----------------------------------------------
+ * `<div class="recall">` on a normal content slide (NOT an `.image-slide`),
+ * holding two to four `<img>` and a closing `<p class="cite">` naming the
+ * sources in order. This is the one place several images share a slide and
+ * the "one image per slide" rule does not apply, because no image here is
+ * being read for its own content: each is a cue to a week already taught,
+ * and the point is the set. A review deck puts it under a "What did we talk
+ * about?" headline and lets the room answer before the recap slide that
+ * follows does.
+ *
+ * The grid carries no captions, by design — a caption would answer the
+ * question the slide exists to ask. The sources go in one `p.cite` line
+ * underneath, in order, which is also the only attribution these images get
+ * on screen, so keep it.
+ *
+ * Two columns, matching `.cards` in the main theme, so a grid of four sits
+ * directly over the four cards that answer it. The row cap is an explicit
+ * length on the image for the same reason `.shots` needs one: the slide box
+ * is a fixed 960x700, nothing scrolls, and an overflow is clipped silently.
+ * An eyebrow, headline and rule take about 200px, and the `p.cite` another
+ * 35, which leaves two rows of 200 with the gap.
+ */
+.reveal .recall {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 0.7em;
+	margin-top: 0.8em;
+	align-content: start;
+}
+
+/* kramdown wraps each image in its own <p> — write them a blank line apart in
+   the markdown, or four consecutive lines become one paragraph, one grid item,
+   and the grid silently collapses to a single column. */
+.reveal .recall > p {
+	margin: 0;
+}
+
+/* Each image hugs its own box and centres in its cell, as `.shots` does,
+   rather than filling a uniform cell: a portrait amphora beside a landscape
+   painting in equal cells letterboxes one of them inside its own border, and
+   an empty bordered margin reads as part of the picture. The cap is on the
+   height so the four sit on a common baseline whatever their proportions. */
+.reveal .recall img {
+	display: block;
+	max-height: 200px;
+	max-width: 100%;
+	width: auto;
+	height: auto;
+	margin: 0 auto;
+	object-fit: contain;
+	border: 1px solid var(--ts-border);
+	background: none;
+	box-shadow: 0 6px 24px rgba(0,0,0,0.45);
 }
 
 /* Full-bleed: the picture IS the screen

@@ -612,6 +612,40 @@ A deck covering two sessions in one week (e.g. `divine-power-and-statecraft`,
 which does 3.1 and 3.2) adds a `Part one · 3.1` / `Part three · 3.2` transition
 slide between the two halves and a closing arc slide that spans both.
 
+A **review deck** — a whole meeting spent on weeks already taught, like
+`review-weeks-1-6` — is not a session deck with more sources in it, and it
+drops three things from the recipe above, because the review itself already
+does their work.
+
+It drops the **`.throughline` context slide**. A review lecture is context from
+end to end; a slide whose job is to say where the course has got to is
+competing with the next forty minutes, which say the same thing with the
+evidence attached.
+
+It drops the title slide's **`.detail` line**. The temptation on a review title
+slide is to state the course's running question in a sentence — "six weeks of
+answers to one running question, and what actually changed." The running
+question *is* the course. A slide that announces it has said nothing a student
+could disagree with, which is the test a `.detail` line has to pass.
+
+And it drops the **`.citation-note`**. Each week's own deck carries the
+editions, pages and translations for the readings it covers, so a review that
+reprints all six turns its title slide into a bibliography. Stop the title
+slide after the `ul.source-list`, with the week each reading came from on its
+line, and go straight into the first one.
+
+**A review opens each stretch with the evidence, not the face.** The rule for a
+session deck — open with the work, because "a portrait of a stranger is a
+stranger" — goes further in a review: the students have met these people, so a
+portrait is a face they already know carrying a bio they already heard, and it
+is the least visual picture the week has. Use the image that week was built on,
+full-bleed, and let the slide after it name the week. `review-weeks-1-6` opens
+Weeks 5 and 6 with the power loom, the olive grove, General Ludd and the
+Congress of Berlin, where it used to run four portraits.
+
+What a review keeps is the back half: a discussion slide per stretch of the
+course, the arc slide, the take home, and what comes next.
+
 ## Bird's-eye slides
 
 A deck of close readings has a hole in the middle of it. Each quote slide is
@@ -649,7 +683,9 @@ names and answers, not an abstract of the argument to come. The value is in
 recurrence: the same question returns every week with one more answer filled
 in, so write the question once for the course and change only the nodes. In
 `making-history` it is "What makes history happen?" and the answers run Ranke,
-Marx, Braudel, Thompson.
+Marx, Braudel, Thompson. The exception is a review deck, which is a
+throughline from end to end and should not also open with one; see "Structure
+of a session deck" above.
 
 **Don't draw an axis you are not going to scale.** A `.chronology` class once
 lived here: two rows of dates, when each text was written against the period it
@@ -746,6 +782,30 @@ answer, so the payoff lands against the question instead of replacing it.
 Decks written before 2026-09-22 still use the two-slide form and are fine as
 they are; write new ones this way.
 
+**A review asks new questions, not the old ones again.** The questions a review
+deck can ask have evolved along with the course: the room has read six more
+weeks since the day a question was first put to it, and re-asking it wastes the
+one thing a review has that a single session does not. Don't carry a week's
+question across even reworded — "That day's question: Carr wrote in 1961. Does
+his argument still hold?" is the Week 1 question with a date on it. Name what
+the writer claimed and then test the claim against everything since: "Carr says
+facts speak only when a historian calls on them. You have now watched everyone
+from Herodotus to Scott decide who gets the floor. Is there one of them whose
+facts spoke for themselves?" The same applies to the review's own discussion
+slides — check them against the decks they review, since a question that was
+good in Week 6 is the first thing that comes to hand in Week 7.
+
+**On a review slide the question is the last fragment.** A review slide is a
+week compressed — `.quote`, one `.reveal-block`, the `.takehome` — and the
+question comes after all of it, as a `.question` fragment with the highest
+`data-fragment-index` on the slide, so it is asked *against* the takeaway the
+room has just been given. Don't set it as a `.detail` line at the foot of the
+slide: `.detail` carries no `.fragment` class, so it renders with the slide and
+the question at the bottom of the screen is the first thing on it, before the
+quote it is supposed to follow. (Discussion slides are unaffected — there the
+`.question` is the first fragment, at index 1, because the topic headline is
+the only thing before it.)
+
 ## Image slides
 
 **The image is the slide. Make it as large as the slide allows.** This holds
@@ -780,6 +840,17 @@ diverging is itself worth a sentence out loud in a session about translation.
 
 **One image per slide. A second image is a second slide.** Show one, let it
 land, then show the next. Two pictures crowded together halve each other.
+
+**The exception is a recall grid in a review deck.** A `<div class="recall">`
+sets two to four small images the room has already seen under a "What did we
+talk about?" headline, with the sources in one `p.cite` line and no captions —
+a caption would answer the question the slide exists to ask. The rule above
+does not apply because no image here is being read for its own content: each
+is a cue to a week already taught, and the point is the set. Two columns,
+matching `.cards`, so a grid of four sits over the four cards that answer it.
+Write each image a blank line apart in the markdown or kramdown makes all four
+one paragraph, the grid collapses to one column, and nothing warns you.
+`review-weeks-1-6` does this for Weeks 2–4.
 
 **Two side by side only after each has had its own slide, and only for a
 minor comparative point.** A `figure.pair` is for two things that answer one

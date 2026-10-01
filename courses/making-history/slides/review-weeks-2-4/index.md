@@ -15,9 +15,6 @@ Making History • HIST 1105 • Week 5 · Review
 - The *Anglo-Saxon Chronicle*, Bede, Machiavelli · Week 3
 - Kant and Ranke · Week 4
 {: .source-list}
-
-Weeks 2–4 in brief: what history was for, and who or what it said made events happen. Translations: Herodotus (Godley), Thucydides (Crawley; Melos from the assigned selection), Livy (Foster), the *Chronicle* (Giles), Machiavelli (Marriott), Kant (Beck), Ranke (GHDI), the *Manifesto* (Moore, 1888).
-{: .detail}
 </section>
 
 <!-- ========== THE TAKE HOME, UP FRONT ========== -->
