@@ -48,7 +48,7 @@ Week 1 · Carr, *What Is History?* (1961)
 </div>
 
 Carr's historian chooses one fact at a time. But the facts available to choose from were already filtered at a much bigger scale — by whoever decided, long before, what was worth keeping at all. Which scale matters more?
-{: .question.fragment data-fragment-index="3"}
+{: .question.compact.fragment data-fragment-index="3"}
 </section>
 
 <!-- ================================================================ -->
@@ -80,7 +80,7 @@ Week 2 · Herodotus and Thucydides
 </div>
 
 Herodotus writes at the scale of deeds — what people did, so it isn't lost. Thucydides writes at the scale of causes — a shift in power nobody wanted named out loud. Which scale actually gets you closer to why the war happened?
-{: .question.fragment data-fragment-index="3"}
+{: .question.compact.fragment data-fragment-index="3"}
 </section>
 
 <!-- ========== WEEK 2.2: LIVY AND SIMA QIAN ========== -->
@@ -108,7 +108,7 @@ Week 2 · Livy and Sima Qian
 </div>
 
 Livy's scale is the single exemplary act, repeated until the past reads as a monument. Sima Qian's scale is everything, with nothing allowed to drop out. Is there a scale where a history can still be both complete and useful?
-{: .question.fragment data-fragment-index="3"}
+{: .question.compact.fragment data-fragment-index="3"}
 </section>
 
 <!-- ========== WEEK 2: RECAP ========== -->
@@ -153,7 +153,7 @@ Week 3 · The *Anglo-Saxon Chronicle* and Bede
 </div>
 
 The *Chronicle* logs one year at a time, with no thread connecting the famine to the raid. Bede reads the same centuries as one plan unfolding under God. Which scale finds the pattern — and which one risks inventing it?
-{: .question.fragment data-fragment-index="3"}
+{: .question.compact.fragment data-fragment-index="3"}
 </section>
 
 <!-- ========== WEEK 3.2: AL-BIRUNI AND MACHIAVELLI ========== -->
@@ -177,11 +177,11 @@ Week 3 · Al-Biruni and Machiavelli
 
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 
-**Al-Biruni tests the reporter; Machiavelli mines the example. One is building a method, the other is looking for a move.**
+**Al-Biruni examines the reporter; Machiavelli mines for examples. One is building a method, the other is looking for techniques.**
 </div>
 
-Al-Biruni's scale is the single report, tested witness by witness. Machiavelli's scale is centuries of examples, mined for one move a prince can reuse today. Does either scale work without the other?
-{: .question.fragment data-fragment-index="3"}
+Al-Biruni's scale is the single report, tested witness by witness. Machiavelli's scale is centuries of examples, mined for ideas a prince can reuse. Does either scale work without the other?
+{: .question.compact.fragment data-fragment-index="3"}
 </section>
 
 <!-- ========== WEEK 3: RECAP ========== -->
@@ -226,22 +226,7 @@ Week 4 · Voltaire and Kant
 </div>
 
 Voltaire zooms out to a few golden ages and judges them by taste. Kant zooms out further still — to the whole species, following a plan nobody alive could ever see. Is there a scale too large to actually test?
-{: .question.fragment data-fragment-index="3"}
-</section>
-
-<!-- ========== IMAGE: RANKE'S PAGE ========== -->
-<section class="image-slide bleed"
- data-background-image="images/ranke-vorrede-1824.jpg"
- data-background-size="contain"
- data-background-color="#0d1412" markdown="1">
-
-A page of blackletter German type, page numbered VI, whose first three lines end with the words wie es eigentlich gewesen, followed by a paragraph listing the kinds of sources the book rests on
-
-{: .bleed-alt}
-
-Leopold von Ranke, *Geschichten der romanischen und germanischen Völker*, 1824, p. VI — a crop · Internet Archive · public domain
-{: .credit}
-
+{: .question.compact.fragment data-fragment-index="3"}
 </section>
 
 <!-- ========== WEEK 4.2: RANKE ========== -->
@@ -269,7 +254,7 @@ Livy's lessons, Bede's providence, Voltaire's standard of taste and Kant's plan 
 </div>
 
 Ranke refuses every scale bigger than the document in front of him. Does that make him the most careful historian in the room, or the one who gave up on explaining anything?
-{: .question.fragment data-fragment-index="3"}
+{: .question.compact.fragment data-fragment-index="3"}
 </section>
 
 <!-- ========== WEEK 4: RECAP ========== -->
@@ -328,7 +313,7 @@ Capitalism creates "...its own grave-diggers. Its fall and the victory of the pr
 </div>
 
 Marx's scale is the whole sweep of "hitherto existing society" — but it cashes out in people who have to act, one factory and one decision at a time. Is that one scale, or two stitched together?
-{: .question.fragment data-fragment-index="3"}
+{: .question.compact.fragment data-fragment-index="3"}
 </section>
 
 <!-- ================================================================ -->
@@ -374,7 +359,7 @@ Both explain by structures; Marx names one motor, Braudel refuses to name any. "
 </div>
 
 Braudel's scale is centuries, and from there the hillside outlasts the battle. Name one thing that scale cannot see — and who disappears at it.
-{: .question.fragment data-fragment-index="3"}
+{: .question.compact.fragment data-fragment-index="3"}
 </section>
 
 <!-- ================================================================ -->
@@ -420,7 +405,7 @@ Week 6.1 · Thompson, *The Making of the English Working Class* (1963)
 </div>
 
 Thompson shrinks Marx's scale back down to lived relationships — the stockinger, the cropper, one weaver at a time. Does the big structure disappear at that scale, or just get harder to see?
-{: .question.fragment data-fragment-index="3"}
+{: .question.compact.fragment data-fragment-index="3"}
 </section>
 
 <!-- ================================================================ -->
@@ -466,7 +451,7 @@ Week 6.2 · Scott, "Gender: A Useful Category" (1986)
 </div>
 
 Scott's scale isn't bigger or smaller than Marx's or Thompson's — it's a different axis. What does the exclusion of women mean at any scale, from one room to the whole category of "high politics"?
-{: .question.fragment data-fragment-index="3"}
+{: .question.compact.fragment data-fragment-index="3"}
 </section>
 
 <!-- ================================================================ -->
@@ -503,7 +488,7 @@ His answers survive because the Inquisition found him interesting enough to writ
 </div>
 
 Ginzburg's scale is the smallest the course has tried: one miller, one trial. At that scale you get a mind in full — but can one case ever tell you it was typical?
-{: .question.fragment data-fragment-index="3"}
+{: .question.compact.fragment data-fragment-index="3"}
 </section>
 
 <!-- ================================================================ -->
@@ -551,104 +536,6 @@ Loses: any claim about how many others thought this. One case cannot tell you it
 
 There is no right scale. So: how does the scale a historian picks tell you what they think history is *for*?
 {: .question.fragment data-fragment-index="1"}
-</section>
-
-<!-- ================================================================ -->
-<!-- =============== HISTORIANS CAFE =================================== -->
-<!-- ================================================================ -->
-
-<!-- ========== CAFE: THE SHAPE ========== -->
-<section markdown="1">
-Historians Café · due Tuesday midnight
-{: .eyebrow}
-
-## Nobody at this table is a historian
-{: .main-point}
-<div class="rule"></div>
-
-<div class="reveal-block unpack fragment compact" data-fragment-index="0" markdown="1">
-
-###### Who is arguing
-{: .label}
-
-Two ordinary people — a job, an age, a reason to care — fighting about what should be done with the past. A statue, a lesson plan, a family story. Neither would say they have a theory of history. Both of them do.
-</div>
-
-<div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
-
-###### What you do
-{: .label}
-
-Build the two people, have AI write the argument, sharpen it until they sound like someone you have met — then explain the conversation to a friend who wasn't there, and say which one you found more convincing.
-</div>
-
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-
-**People almost never announce what they think history is for. They argue about a statue and tell you anyway. Hearing that is the assignment.**
-</div>
-</section>
-
-<!-- ========== CAFE: PICK THE ARGUMENT ========== -->
-<section markdown="1">
-Historians Café · step one
-{: .eyebrow}
-
-## Five arguments about what to do with the past
-{: .main-point}
-<div class="rule"></div>
-
-- **Should the statue of the city's founder come down**, now that everyone knows how he made his money? *A city council meeting.*
-- **Should the state's schools teach that the Civil War was fought over slavery?** *A school board hearing.*
-- **Should there be a plaque at the site of the factory fire**, naming the workers who died? *A neighborhood meeting.*
-- **Should the family publish great-grandma's diary**, which contradicts the story the family tells? *A kitchen table.*
-- **Should the museum return the objects** taken from a colonized country in 1890? *A museum staff meeting.*
-{: .questions.compact}
-
-Nobody in these rooms says the word "historiography." They are all arguing about it anyway.
-{: .detail}
-</section>
-
-<!-- ========== CAFE: BUILD THE PEOPLE ========== -->
-<section data-transition="fade" markdown="1">
-Historians Café · before you touch the AI
-{: .eyebrow}
-
-## Build two people, then give each of them three of today's slides
-{: .main-point}
-<div class="rule"></div>
-
-<div class="cards three" markdown="1">
-<div class="card" markdown="1">
-
-###### First
-{: .num}
-
-#### A person, not a position
-
-A job, an age, a reason to be in that room, and something at stake. A retired teacher. A grandson. Whoever has to pay for the plaque.
-</div>
-<div class="card" markdown="1">
-
-###### Then
-{: .num}
-
-#### Two or three influences each
-
-Examples to live up to (Livy). Only what documents prove (Ranke). Who had power (Marx). The slow things (Braudel). Ordinary lives (Thompson). The silences (Scott). One small case (Ginzburg). Somebody chose (Carr).
-</div>
-<div class="card" markdown="1">
-
-###### Never
-{: .num}
-
-#### Say the names out loud
-
-Your people have not heard of Ranke. "As a materialist, I believe..." is a label, not a person. The influence shows in what they treat as a good reason.
-</div>
-</div>
-
-Mix them. Someone who wants moral examples *and* trusts only documents is a real person, and those two will pull against each other when the argument gets hard.
-{: .detail}
 </section>
 
 <!-- ========== CLOSING ========== -->

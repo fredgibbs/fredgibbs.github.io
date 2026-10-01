@@ -1,5 +1,21 @@
 # Issues — review-weeks-1-6
 
+**The Historians Café slides are gone, as of 2026-10-01.** All three
+(`CAFE: THE SHAPE`, `CAFE: PICK THE ARGUMENT`, `CAFE: BUILD THE PEOPLE`) were
+cut at Fred's request — the deck now runs straight from the Scale slide into
+Closing. The Café assignment itself is untouched; it just isn't previewed
+in-deck anymore, so `historians-cafe.md` is the only place students see the
+five scenario prompts and the influences table. The Closing slide's mention
+of "the start of the Café" was left as-is — it's still true, just no longer
+backed by slides earlier in this deck.
+
+**Ranke's preface-page image slide is gone, as of 2026-10-01.** The full-bleed
+crop of Ranke's 1824 preface (`images/ranke-vorrede-1824.jpg`), which sat
+ahead of the Week 4.2 Ranke quote slide, was cut at Fred's request. The image
+file is deleted and `images/README.md` updated. Nothing else in the deck
+depended on it — the Ranke slide's own reveal-block describes the preface
+page in prose and stands on its own without the image ahead of it.
+
 **The throughline is scale, not "what is history for," as of 2026-10-01.**
 Right after the linear-by-week pass below, Fred pointed out that Week 7's own
 title in `schedule.md` is "Scales of History," and tonight's reading

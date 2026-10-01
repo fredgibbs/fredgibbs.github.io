@@ -67,6 +67,8 @@
  *   .question      — the single question a discussion slide turns on, as
  *                    the first fragment between the .main-point topic and
  *                    the .takehome answer
+ *     .question.compact — tightened variant for a question that runs long
+ *                    on a slide already near the fixed slide height
  *   .with-figure   — discussion-slide body variant: a small image in a
  *                    narrow left column beside the .question/.takehome
  *
@@ -691,6 +693,15 @@ html, body, .reveal {
 
 .reveal .question em { font-style: italic; color: var(--ts-text); }
 .reveal .question strong { color: var(--ts-text); font-weight: 600; }
+
+/* Compact modifier, matching .quote.compact: for a slide whose quote(s) and
+   explanation already fill the 960x700 box, so the closing question needs
+   to run smaller to avoid pushing the slide past the fixed height. */
+.reveal .question.compact {
+	font-size: 0.6em;
+	line-height: 1.3;
+	margin-top: 0.4em;
+}
 
 /* ==================================================================
    BIRD'S-EYE DEVICES
