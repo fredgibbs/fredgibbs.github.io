@@ -442,6 +442,32 @@ page belongs to, and let the `.citation-note` spell out what the excerpt does
 and doesn't contain. For a quote of a quote, cite both ends — Braudel's own
 footnote gives Halphen's book and page, so the slide gives them too.
 
+**Two writers on one slide get equal billing.** The `.quote` + `.reveal-block`
+pair is a hierarchy: the first passage renders large, gold and italic behind a
+rule, the second at body size inside a labelled box. That is exactly right when
+both passages come from the *same* source and the second one elaborates the
+first — Carr p. 11 then p. 13, Thompson p. 9 then p. 12, Scott p. 1067 then
+p. 1073. The block is the writer continuing to talk.
+
+It is wrong when the two passages come from **different writers being
+compared**. Nothing on the slide argues that Herodotus outranks Thucydides, or
+the *Chronicle* outranks Bede, but the typography says so, and a label like
+"The other reason" says it twice. Students read the ranking before they read
+either quotation.
+
+So: different sources, `.parallel` with a `.track` each — same type size, same
+border weight, one fragment, revealed together. Put the writer and work in the
+`##### ` track heading and let the `<span class="cite">` carry only what is
+left (the page, the section, the translator), so the citation does not repeat
+the heading. Don't give one track `.now` or `.ai`; those modifiers recolour the
+border and reintroduce the ranking you just removed. `review-weeks-1-6` runs
+five of these — Herodotus/Thucydides, Livy/Sima Qian, the *Chronicle*/Bede,
+al-Biruni/Machiavelli, Voltaire/Kant — against four same-source slides that
+keep the hierarchy.
+
+Two columns also buy vertical room: the pairing that overflowed the 960x700 box
+as a quote plus a block fits comfortably as two tracks.
+
 **Apparatus gets apparatus typography.** A source note is not a supporting
 point, and it should not be set like one. `.detail` renders at 0.75em in the
 body font — the same voice as the argument — so a line like "Descriptions
@@ -850,7 +876,10 @@ is a cue to a week already taught, and the point is the set. Two columns,
 matching `.cards`, so a grid of four sits over the four cards that answer it.
 Write each image a blank line apart in the markdown or kramdown makes all four
 one paragraph, the grid collapses to one column, and nothing warns you.
-`review-weeks-1-6` does this for Weeks 2–4.
+`review-weeks-1-6` used this for Weeks 2–4 and then dropped it when those weeks
+got per-week recap slides of their own, so the class currently has no user — if
+nothing adopts it, cut it rather than leave a component the guide recommends and
+no deck demonstrates.
 
 **Two side by side only after each has had its own slide, and only for a
 minor comparative point.** A `figure.pair` is for two things that answer one

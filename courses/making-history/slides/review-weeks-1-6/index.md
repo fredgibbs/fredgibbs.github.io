@@ -11,11 +11,13 @@ Making History • HIST 1105 • Week 7 · Review
 # Every Historian Picks a Scale
 {: .main-point}
 <div class="rule"></div>
-- Carr, *What Is History?* · Week 1
-- Herodotus to Ranke · Weeks 2–4
-- Marx, Braudel · Week 5
-- Thompson, Scott · Week 6
-- Ginzburg · Week 7.1
+- Week 1 · Carr — the chooser behind every scale
+- Week 2 · Herodotus, Thucydides, Livy, Sima Qian — deeds, causes, exemplary acts, everything
+- Week 3 · the *Chronicle*, Bede, al-Biruni, Machiavelli — one year, one report, centuries of examples
+- Week 4 · Voltaire, Kant, Ranke — golden ages, the whole species, the single document
+- Week 5 · Marx, Braudel — all hitherto existing society, four centuries of a sea
+- Week 6 · Thompson, Scott — lived relationships, and a different axis
+- Week 7.1 · Ginzburg — one miller, one trial
 {: .source-list}
 </section>
 
@@ -60,27 +62,31 @@ Carr's historian chooses one fact at a time. But the facts available to choose f
 Week 2 · Herodotus and Thucydides
 {: .eyebrow}
 
-## Two reasons to write a war down
+## Two ways to write about war
 {: .main-point}
 
-"...that the memory of the past may not be blotted out from among men by time, and that great and marvellous deeds done by Greeks and foreigners and especially the reason why they warred against each other may not lack renown." <span class="cite">Herodotus 1.1 (Godley trans.)</span>
-{: .quote.compact.fragment data-fragment-index="0"}
+<div class="parallel compact fragment" data-fragment-index="0" markdown="1">
+<div class="track" markdown="1">
 
-<div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
+##### Herodotus · *Histories* 1.1
 
-###### The other reason
-{: .label}
+"...that the memory of the past may not be blotted out from among men by time, and that great and marvellous deeds done by Greeks and foreigners and especially the reason why they warred against each other may not lack renown." <span class="cite">Godley trans.</span>
+</div>
+<div class="track" markdown="1">
 
-"The real cause I consider to be the one which was formally most kept out of sight. The growth of the power of Athens, and the alarm which this inspired in Lacedaemon, made war inevitable." <span class="cite">Thucydides 1.23 (Crawley trans.)</span>
+##### Thucydides · *Peloponnesian War* 1.23
+
+"The real cause I consider to be the one which was formally most kept out of sight. The growth of the power of Athens, and the alarm which this inspired in Lacedaemon, made war inevitable." <span class="cite">Crawley trans.</span>
+</div>
 </div>
 
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+<div class="takehome fragment compact" data-fragment-index="1" markdown="1">
 
-**One writes so the deeds are not forgotten. The other writes to find the cause. Both of them are called history.**
+**One writes so the deeds are not forgotten. The other writes to find the cause. Are these equally valuable?**
 </div>
 
-Herodotus writes at the scale of deeds — what people did, so it isn't lost. Thucydides writes at the scale of causes — a shift in power nobody wanted named out loud. Which scale actually gets you closer to why the war happened?
-{: .question.compact.fragment data-fragment-index="3"}
+Herodotus writes at the scale of deeds — what people did, so it isn't lost. Thucydides writes at the scale of causes — a shift in power nobody described. **Which scale actually gets you closer to why the war happened?**
+{: .question.compact.fragment data-fragment-index="2"}
 </section>
 
 <!-- ========== WEEK 2.2: LIVY AND SIMA QIAN ========== -->
@@ -91,24 +97,28 @@ Week 2 · Livy and Sima Qian
 ## A monument you are meant to choose from
 {: .main-point}
 
-"...you behold the lessons of every kind of experience set forth as on a conspicuous monument; from these you may choose for yourself and for your own state what to imitate, from these mark for avoidance what is shameful in the conception and shameful in the result." <span class="cite">Livy, *Ab Urbe Condita*, Preface (Foster trans.)</span>
-{: .quote.compact.fragment data-fragment-index="0"}
+<div class="parallel compact fragment" data-fragment-index="0" markdown="1">
+<div class="track" markdown="1">
 
-<div class="reveal-block historical fragment compact" data-fragment-index="1" markdown="1">
+##### Livy · *Ab Urbe Condita*
 
-###### The opposite instinct, in Han China
-{: .label}
+"...you behold the lessons of every kind of experience set forth as on a conspicuous monument; from these you may choose for yourself and for your own state what to imitate, from these mark for avoidance what is shameful in the conception and shameful in the result." <span class="cite">Preface (Foster trans.)</span>
+</div>
+<div class="track" markdown="1">
 
-"I have cast a universal net to gather together all the old traditions of the world that were scattered and lost." <span class="cite">Sima Qian, quoted in Popkin, p. 37</span>
+##### Sima Qian · the Grand Historian
+
+"I have cast a universal net to gather together all the old traditions of the world that were scattered and lost." <span class="cite">quoted in Popkin, p. 37</span>
+</div>
 </div>
 
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+<div class="takehome fragment compact" data-fragment-index="1" markdown="1">
 
 **Livy sorts the past into models and warnings; Sima Qian tries to lose none of it. Two opposite ideas of what a complete history would be.**
 </div>
 
 Livy's scale is the single exemplary act, repeated until the past reads as a monument. Sima Qian's scale is everything, with nothing allowed to drop out. Is there a scale where a history can still be both complete and useful?
-{: .question.compact.fragment data-fragment-index="3"}
+{: .question.compact.fragment data-fragment-index="2"}
 </section>
 
 <!-- ========== WEEK 2: RECAP ========== -->
@@ -120,7 +130,7 @@ Week 2 · recap
 {: .main-point}
 <div class="rule"></div>
 
-A single war's cause (Herodotus, Thucydides) and a civilization's worth of exemplary acts (Livy, Sima Qian) — four writers, two very different sizes of the past to work at. Week 3 asks what scale God and a prince need.
+A single war's cause (Herodotus, Thucydides) and a civilization's worth of exemplary acts (Livy, Sima Qian) — four writers, two very different sizes of the past to work at. 
 {: .detail}
 </section>
 
@@ -136,24 +146,28 @@ Week 3 · The *Anglo-Saxon Chronicle* and Bede
 ## When God is the cause, the record still has to be kept
 {: .main-point}
 
-"This year dire forwarnings came over the land of the North-humbrians... fiery dragons were seen flying in the air. A great famine soon followed these tokens; and a little after that... the ravaging of heathen men lamentably destroyed God's church at Lindisfarne." <span class="cite">*Anglo-Saxon Chronicle*, 793 (Giles trans.)</span>
-{: .quote.compact.fragment data-fragment-index="0"}
+<div class="parallel compact fragment" data-fragment-index="0" markdown="1">
+<div class="track" markdown="1">
 
-<div class="reveal-block historical fragment compact" data-fragment-index="1" markdown="1">
+##### The *Anglo-Saxon Chronicle* · 793
 
-###### What the record is for
-{: .label}
+"This year dire forwarnings came over the land of the North-humbrians... fiery dragons were seen flying in the air. A great famine soon followed these tokens; and a little after that... the ravaging of heathen men lamentably destroyed God's church at Lindisfarne." <span class="cite">Giles trans.</span>
+</div>
+<div class="track" markdown="1">
 
-"For if history relates good things of good men, the attentive hearer is excited to imitate that which is good." <span class="cite">Bede, *Ecclesiastical History*, Preface</span>
+##### Bede · *Ecclesiastical History*
+
+"For if history relates good things of good men, the attentive hearer is excited to imitate that which is good." <span class="cite">Preface</span>
+</div>
 </div>
 
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+<div class="takehome fragment compact" data-fragment-index="1" markdown="1">
 
-**The annal puts portents and a raid in one breath; Bede gives the whole thing a purpose. Neither of them doubts who is running events.**
+**The annal puts portents and a raid in one breath; Bede gives the whole thing a purpose. Neither of them doubts the ultimate cause.**
 </div>
 
-The *Chronicle* logs one year at a time, with no thread connecting the famine to the raid. Bede reads the same centuries as one plan unfolding under God. Which scale finds the pattern — and which one risks inventing it?
-{: .question.compact.fragment data-fragment-index="3"}
+The *Chronicle* logs one year at a time, with no thread connecting the famine to the raid. Bede reads the same centuries as one plan unfolding under God. Does either scale offer a pattern?
+{: .question.compact.fragment data-fragment-index="2"}
 </section>
 
 <!-- ========== WEEK 3.2: AL-BIRUNI AND MACHIAVELLI ========== -->
@@ -164,24 +178,28 @@ Week 3 · Al-Biruni and Machiavelli
 ## Two uses for a source that have nothing to do with God
 {: .main-point}
 
-"No one will deny that in questions of historic authenticity hearsay does not equal eyewitness... How could we know the history of nations but for *the everlasting monuments of the pen*?" <span class="cite">al-Biruni, preface to the *Kitab al-Hind*</span>
-{: .quote.compact.fragment data-fragment-index="0"}
+<div class="parallel compact fragment" data-fragment-index="0" markdown="1">
+<div class="track" markdown="1">
 
-<div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
+##### Al-Biruni · *Kitab al-Hind*
 
-###### The other use
-{: .label}
+"No one will deny that in questions of historic authenticity hearsay does not equal eyewitness... How could we know the history of nations but for *the everlasting monuments of the pen*?" <span class="cite">preface</span>
+</div>
+<div class="track" markdown="1">
 
-"A wise man ought always to follow the paths beaten by great men, and to imitate those who have been supreme, so that if his ability does not equal theirs, at least it will savour of it." <span class="cite">Machiavelli, *The Prince*, ch. 6 (Marriott trans.)</span>
+##### Machiavelli · *The Prince*
+
+"A wise man ought always to follow the paths beaten by great men, and to imitate those who have been supreme, so that if his ability does not equal theirs, at least it will savour of it." <span class="cite">ch. 6 (Marriott trans.)</span>
+</div>
 </div>
 
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+<div class="takehome fragment compact" data-fragment-index="1" markdown="1">
 
 **Al-Biruni examines the reporter; Machiavelli mines for examples. One is building a method, the other is looking for techniques.**
 </div>
 
-Al-Biruni's scale is the single report, tested witness by witness. Machiavelli's scale is centuries of examples, mined for ideas a prince can reuse. Does either scale work without the other?
-{: .question.compact.fragment data-fragment-index="3"}
+Neither of these two is zooming out: al-Biruni has one report, Machiavelli has one great man. So the difference between them is not scale. What is it?
+{: .question.compact.fragment data-fragment-index="2"}
 </section>
 
 <!-- ========== WEEK 3: RECAP ========== -->
@@ -193,7 +211,7 @@ Week 3 · recap
 {: .main-point}
 <div class="rule"></div>
 
-A year at a time with no plan, or one report at a time with no end-use beyond proof — against centuries read for a providential arc, or mined for one reusable lesson. Week 4 pushes the big scale as far as it will go.
+A year at a time with no plan, or one report at a time with no end-use beyond proof — against centuries read for a providential arc, or mined for one reusable lesson.
 {: .detail}
 </section>
 
@@ -209,24 +227,28 @@ Week 4 · Voltaire and Kant
 ## History acquires a direction
 {: .main-point}
 
-"Whosoever thinks, or, what is still more rare, whosoever has taste, will find but four ages in the history of the world. These four happy ages are those in which the arts were carried to perfection." <span class="cite">Voltaire, *Age of Louis XIV*, Introduction, p. 5</span>
-{: .quote.compact.fragment data-fragment-index="0"}
+<div class="parallel compact fragment" data-fragment-index="0" markdown="1">
+<div class="track" markdown="1">
 
-<div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
+##### Voltaire · *Age of Louis XIV*
 
-###### A direction nobody inside it can see
-{: .label}
+"Whosoever thinks, or, what is still more rare, whosoever has taste, will find but four ages in the history of the world. These four happy ages are those in which the arts were carried to perfection." <span class="cite">Introduction, p. 5</span>
+</div>
+<div class="track" markdown="1">
 
-"Each, according to his own inclination, follows his own purpose, often in opposition to others; yet each individual and people, as if following some guiding thread, go toward a natural but to each of them unknown goal." <span class="cite">Kant, Introduction (Beck trans.)</span>
+##### Kant · "Idea for a Universal History" (1784)
+
+"Each, according to his own inclination, follows his own purpose, often in opposition to others; yet each individual and people, as if following some guiding thread, go toward a natural but to each of them unknown goal." <span class="cite">Introduction (Beck trans.)</span>
+</div>
 </div>
 
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+<div class="takehome fragment compact" data-fragment-index="1" markdown="1">
 
 **Voltaire measures the past against a standard of taste; Kant gives it a plan no one living in it could report. Both are telling you where history is headed.**
 </div>
 
 Voltaire zooms out to a few golden ages and judges them by taste. Kant zooms out further still — to the whole species, following a plan nobody alive could ever see. Is there a scale too large to actually test?
-{: .question.compact.fragment data-fragment-index="3"}
+{: .question.compact.fragment data-fragment-index="2"}
 </section>
 
 <!-- ========== WEEK 4.2: RANKE ========== -->
@@ -512,7 +534,7 @@ Tonight's refraction · scale
 
 #### Four centuries of a sea
 
-Gets: why an order lasts, what no one inside it could change, the hillside that outlives the battle.
+Gets: why conventions last, what no one could change, the hillside that outlives the battle.
 
 Loses: the afternoon, the decision, the name. Nobody in the *longue durée* chooses anything.
 </div>
@@ -523,7 +545,7 @@ Loses: the afternoon, the decision, the name. Nobody in the *longue durée* choo
 
 #### One trial, one man
 
-Gets: a mind in full, in his own words, with the strangeness left in.
+Gets: a mind in full, in his own words, that represents a whole world.
 
 Loses: any claim about how many others thought this. One case cannot tell you it was typical.
 </div>
@@ -534,19 +556,6 @@ Loses: any claim about how many others thought this. One case cannot tell you it
 **Zoom out and you can explain everything and decide nothing. Zoom in and you can decide everything and explain almost nothing.**
 </div>
 
-There is no right scale. So: how does the scale a historian picks tell you what they think history is *for*?
+There is no right scale. How does the scale a historian picks tell you what they think history is *for*?
 {: .question.fragment data-fragment-index="1"}
-</section>
-
-<!-- ========== CLOSING ========== -->
-<section data-transition="fade" markdown="1">
-Next · 8.1, Tuesday
-{: .eyebrow}
-
-## Tuesday: whether any of it was progress
-{: .main-point}
-<div class="rule"></div>
-
-Two things due tonight: the refraction on scale, and the start of the Café. Both are the same question — what a chosen scale, or a chosen person, says about what history is for. Tuesday is the other half: whether six weeks of corrections add up to progress, and how to hear a value somebody will not say out loud. Bring a draft.
-{: .detail}
 </section>

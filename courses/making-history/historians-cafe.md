@@ -14,8 +14,8 @@ Your job: use AI to create a fictitious but plausible dialogue between the two, 
 
 {% include alert.html class='success' title='What you are practicing' text="
 * **Finding the hidden value** — people almost never announce what they think history is *for*. They argue about a statue or some injustice, or learning from mistakes, or knowledge for its own sake. Finding that underneath what someone says (or what AI can plausibly generate) is a main skill of this course.
-* **Combining perspectives** — real people are not one school of thought when it comes to thinking about the past. Building someone out of two or three of the positions we have read, and keeping them coherent, is part of the exercise.
-* **Working with AI, and judging it** — getting a machine to write people rather than stereotypical positions, adding nuance provided by real material, and recognizing the difference.
+* **Combining perspectives** — real people don't embrace one school of thought when it comes to thinking about the past. Building someone out of two or three of the positions we have read, and keeping them coherent, is part of the exercise.
+* **Working with AI, and judging it** — getting a machine to bring people to life rather than stereotypical positions, adding nuance provided by real material, and recognizing the difference.
 " %}
 
 ---
@@ -37,16 +37,16 @@ Then give each person **two or three influences from the course**. This is the p
 | One small strange case can open up a whole world | Ginzburg |
 | Somebody chose which facts survived, and that choice was not neutral | Carr |
 
-**Mix them.** A person who thinks the past should supply moral examples *and* that only documents count is a real and interesting person, and those two commitments will pull against each other when the argument gets hard. That tension is what makes a character instead of a position. We all have contradictory positions.
+**Mix them.** A person who thinks the past should supply moral examples *and* that only documents count is a real and interesting person, and those two commitments will pull against each other at times. That tension is what makes a character instead of a position. We all hold contradictory positions.
 
 **Write it down before you touch AI**, for each of the two:
 
 - Who they are
-- General attitudes toward history, informed by class materials
-- Their two or three influences — **by name, in your notes only**
+- General attitudes toward history, informed by OUR course materials
+- Their two or three influences from OUR course materials
 
 {% include alert.html class='warning' title='They should never say the names' text="
-Your people do not know who Ranke was. They have never heard the word &quot;longue durée.&quot; If a character in your dialogue says &quot;as a materialist, I believe…&quot; you have a label, not a person. The influence shows in what they count as a good reason — not in what they cite. This is practice hearing the difference between people who write explicitly about history (who we read this course) and everyday people who have never thought about it systematically but still carry a theory of it.
+Your loud talkers do not know who Ranke was. They have never heard the word &quot;longue durée.&quot; If a character in your dialogue says &quot;as a materialist, I believe…&quot; you have a label, not a person. The influence shows in what they count as evidence, the scale of history, the importance of moral lessons, the goals of history, the methods of doing history. This is practice hearing the difference between people who write explicitly about history (who we read this course) and everyday people who have never studied it systematically but still carry a theory of it.
 " %}
 
 ---
@@ -69,19 +69,21 @@ Then **sharpen it**. The first draft is almost always two position statements ta
 
 > [A]'s influences include "what's missing from the record is evidence." Right now that never shows up in what they say. Work it into a concrete point, without naming any theory.
 
-Keep going until both people sound like real people. **Three or four rounds is normal.** Around **600–800 words** in the end.
+> Neither person ever addresses the scale of history or the importance of thinking about the historian as selector of facts. Integrate some way they can disagree about this. 
+
+Keep going until both people sound like real people. **Three or four rounds is normal.** Aim to end up with **~600 words** in the end.
 
 ---
 
 ## Step 3: Explain it to a friend
 
-Someone who wasn't there is curious about what the argument was about. Write them **250–350 words**:
+Someone who wasn't there is curious about what the argument was about. Write them **400 words**:
 
 1. **What were these two really arguing about?** Did they disagree about what history is *for*, or about how it should be saved, written, or taught?
 2. **Quote one line from each person**, and say what that line reveals about what that person thinks history is for. This is the "hidden value" — name it in your own words.
 3. **Which one did you find more convincing, and why?** Take a side. Then say what it would take to change your mind.
 
-This paragraph is yours. Do not ask AI to write it.
+This paragraph should be your own work. Do not ask AI to write it. There should be a clear distinction between the AI dialogue and your summary that analyzes it via the course material. 
 
 ---
 
@@ -91,7 +93,8 @@ Post to the discussion board:
 
 1. Your two character descriptions, influences included
 2. The final dialogue
-3. Your explanation from Step 3
+3. A short summary of how you needed to tweak it
+4. Your summary/analysis of the dialog 
 
 Make sure the formatting is readable. One giant block of unformatted text gets a zero.
 
@@ -99,7 +102,7 @@ Make sure the formatting is readable. One giant block of unformatted text gets a
 
 ## What I'm looking for
 
-I grade **Step 3** most heavily, then the character descriptions. The dialogue itself is the raw material, not the product — a rough argument between two vivid people beats a polished stereotype.
+The dialogue itself is the raw material, not the main output to grade — a rough argument between two vivid people beats a polished stereotype. An analysis grounded in our material and specific examples beats vague agreement and disagreement statements.
 
 - **A** — the two people have real, mixed commitments that show in how they argue rather than in what they cite; you make a serious effort to argue which is more convincing
 - **B** — solid people and a clear explanation; the hidden values are identified but stated generally
