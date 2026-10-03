@@ -80,6 +80,47 @@ predicate in disguise, promote it instead of cutting: not "The best-trained
 history in Europe, put to work for the nation" but "The best-trained history
 in Europe was put to work for the nation."
 
+**Don't follow a claim with its own negation.** A sentence lands, and a second
+one arrives to rule out its opposite. "Peer review polices accuracy. *It does
+not police the question.*" "Here the motor finishes the story by itself.
+*Nobody has to choose the outcome.*" "That subject is the new part. *The genre
+is not.*" "The purpose settles the question before the document does. *Neither
+of them is making anything up.*"
+
+The shape reads as precision — the writer appears to be fencing the claim in.
+What it does is spend a sentence on the first one's shadow. A reader who
+understood "peer review polices accuracy" already knows it does not police
+everything else; the negation only points at which part of the obvious to
+attend to, which is the reader's work and not the slide's. On a `.takehome` it
+is also expensive: the budget is thirty words, and half of them have gone to a
+sentence with no subject of its own.
+
+**The test is what the second sentence is about, not whether its negation is
+true.** "It does not police the question" is true and it is useful. Ask what
+the sentence is *about*: if the answer is "the sentence before it," cut it. If
+it brings a new subject, a consequence or a reason, it is a second claim and it
+stays — "Nothing in the method catches that, *because the method starts after
+the question is chosen*" survives on the clause after the comma, which is doing
+what the negation is not.
+
+Three fixes, in the order worth trying them. **Fold the denial into the claim**,
+so one sentence carries both: "Peer review polices accuracy, and stops there."
+**Name what fills the gap** rather than naming the gap: not "it does not police
+the question" but "the question was chosen before peer review starts." Or **cut
+the second sentence**, which is usually the answer, because the first one had
+finished.
+
+This is a rule about a second *sentence*. The appositive — "paper was a fact of
+European archives, not a rule of evidence" — is one sentence carrying a
+contrast, which is the fix, not the defect. A genuine parallel is also not this:
+"Zoom out and you can explain everything and decide nothing. Zoom in and you can
+decide everything and explain almost nothing" has two subjects, and the second
+sentence would survive without the first.
+
+Decks written before 2026-10-02 still carry it and are fine as they are:
+`marx-structural-history` has two, `scientific-history`, `enlightenment-progress`
+and `divine-power-and-statecraft` one each. Write new ones this way.
+
 **A name that never comes back is a citation, not a lesson.** Supporting
 blocks fill up with people who are there to prove the headline rather than to
 be taught. From `history-from-below`: "France from the 1820s: Thiers and
@@ -222,6 +263,57 @@ at something — this text, that session, this week's place in the sequence — 
 that pointing is the work. What goes is the flourish that points at nothing.
 Second person is likewise fine when it's doing analytic work ("the useful
 question isn't 'is it true?'"), not when it narrates the seminar.
+
+**One epigram per part; let the rest just say the thing.** The vocabulary rules
+above are being followed — a scan of these decks for *delve*, *crucially*, *at
+stake*, *tapestry* returns nothing — and they can still read as marketing,
+because the defect is rhythm rather than diction. Every container closes on a
+chiselled line: a two-beat antithesis, a reversal, a noun phrase balanced
+against its opposite. When all eight `.takehome`s on a deck do it, none of them
+lands. An aphorism works by contrast with the plain sentences around it, and a
+deck made entirely of aphorisms has removed the thing that made one worth
+reading.
+
+`what-are-we-talking-about` was first written this way: eight takehomes, eight
+epigrams, with "One file, two historians", "Three jobs, one file", "Narrow
+repairs, no line" and "One trial, one man" in the headlines and card heads on
+top of them.
+
+Budget one per part. The take home almost always earns it and one discussion
+crux might; everywhere else, state the finding flatly and stop. "Ranke and
+Ginzburg, reading the same trial record" is a worse slogan and a better headline
+than "One file, two historians", because it tells a student what is on the
+slide.
+
+**The giveaway is the numeric pairing.** "One file, two historians." "Three
+jobs, one file." "One trial, one man." "Same file, same care, two different
+histories." That construction ran four times in that one deck and appears zero
+times in `schedule.md` or in `why-study-history.md`. A line that sets a count
+against another count was reached for, not thought of.
+
+**If four labels are in perfect parallel, break one.** `Against speculation /
+Against the archive / Against abstraction / Against the crowd` is a set that was
+generated rather than written — by the fourth, the pattern is picking the words.
+The same goes for four `.flow` steps that each run "X is A. Y makes it B." Vary
+the shape of at least one, and start with whichever is most strained to fit.
+
+**Hedge at about the rate the syllabus does.** Qualifiers per thousand words:
+`why-study-history.md` and the `archive/` essays **10.7**, `schedule.md` **3.1**,
+`what-are-we-talking-about` as first written **1.2**. "At least three scales,"
+"it often fails," "almost never written down," "usually" — that is what the
+register sounds like when someone who knows the material is talking, and the
+absence of it is most of what makes a deck sound machine-made. Restoring it
+costs a word each time: *a fairly specific complaint*, *almost nobody agrees*,
+*these aren't always compatible goals*, *most of them believe the decision is
+justified*. Uniform confidence across forty slides is not authority; it reads as
+a brochure, and it quietly tells a room there is nothing left to argue about on
+the day they are supposed to argue.
+
+**Let people act, not abstractions.** "The purpose settles the question before
+the document does" has nobody in it. The syllabus's instinct is the opposite —
+"a few men in a room, with particular interests, particular fears" — and so is
+the course's whole argument about scale. Prefer "what each one wants from the
+page settles it."
 
 **Introduce people on their portrait slide, then go straight to the detail.**
 The sequence for a person is two slides, not three: an image slide whose
