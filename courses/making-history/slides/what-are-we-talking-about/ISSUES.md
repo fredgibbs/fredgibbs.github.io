@@ -100,3 +100,15 @@ wrapped to two lines in three of the four columns and staggered the headings.
 **The schedule does not link this deck.** Add a slides line under 8.1 in
 `../../schedule.md` when it is ready to go out; 7.2's line is there but
 commented out.
+
+
+**Two corrections, 2026-10-06,** from the fresh-context review of
+`../big-picture-review/`, each checked at the source. The closing slide said
+"Hobsbawm and Anderson argue they were invented, deliberately"; Anderson calls
+nationality "the spontaneous distillation of a complex 'crossing' of discrete
+historical forces" and faults Gellner for equating invention with fabrication
+(*Imagined Communities*, pp. 4, 6). It now gives invention to Hobsbawm and
+imagining to Anderson, under a hedged headline. And the trial-record slide
+called an inquisition record "a state document of exactly the kind Ranke built
+his method on"; it is a church tribunal's record and not on Ranke's own list of
+sources, so it now says that.

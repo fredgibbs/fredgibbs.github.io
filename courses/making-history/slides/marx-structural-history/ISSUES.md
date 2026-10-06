@@ -384,3 +384,10 @@ here because each is an easy mistake to reintroduce:
   hedge the unifying theme with "might be described as" (p. 36).
 - The take-home, arc and recap now all state the motor's fourth step
   ("inevitable"), since that is the premise the part-two problem contradicts.
+
+
+**"Only when people act," softened 2026-10-06.** Two lines said "The structure
+changes only when people act." Green and Troup (p. 36) call it a paradox inside
+the theory: change "is, nonetheless, dependent upon the consciousness and
+actions of men and women." "Only" overstated it; both lines now say the change
+depends on what people think and do.

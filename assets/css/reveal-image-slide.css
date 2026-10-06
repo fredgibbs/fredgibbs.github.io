@@ -25,6 +25,14 @@
  * them in a `<div class="shots">` — they stack in the image column.
  * A portrait caption ends with a `<span class="why">` carrying the "Why he
  * matters" line; it renders as a block with space above it.
+ * `section.image-slide.provoke` is the discussion-deck form: a `figure.pair`
+ * whose question is set large enough to read from the back row, in a
+ * `p.provocation` under the two images. On a normal image slide the caption is
+ * quiet apparatus and the picture is the point; here the question is the point
+ * and the two pictures are the evidence for it. The `figcaption` still carries
+ * identification and credit, still quiet. Only for a deck built on forced
+ * comparisons — see "Discussion decks built on image pairs" in
+ * courses/SLIDE-STYLE.md.
  * `.recall` is the other exception: a grid of small images the room has
  * already seen, with no captions, used to ask a class what a week was about
  * before a recap slide answers. Documented above its rules below.
@@ -88,6 +96,42 @@
 	text-align: center;
 	max-width: 92%;
 	flex-shrink: 0;
+}
+
+/* Provocation slide: images the room is asked to choose between, with the
+   question set to be read, not skimmed. The `p.provocation` and the
+   `figcaption` sit inside the figure, which is a flex column, so they take
+   their natural height and the picture takes the rest — give the image
+   `flex: 1 1 auto; min-height: 0` or a single landscape shot keeps its full
+   natural height and pushes the question off the bottom of the 960x700 box.
+   The figure keeps the base `height: 100%`; holding it to a percentage
+   instead starves the pictures, because the question and credit are measured
+   inside it. */
+.reveal section.image-slide.provoke figure.landscape img,
+.reveal section.image-slide.provoke figure.portrait img {
+	flex: 1 1 auto;
+	min-height: 0;
+}
+
+.reveal section.image-slide.provoke figure.landscape img,
+.reveal section.image-slide.provoke figure.portrait img,
+.reveal section.image-slide.provoke .pair-images img {
+	max-height: 100%;
+	max-width: 100%;
+	object-fit: contain;
+}
+
+.reveal section.image-slide.provoke .provocation {
+	font-family: 'Fraunces', Georgia, serif;
+	font-style: italic;
+	font-size: 0.6em;
+	line-height: 1.25;
+	color: var(--ts-heading-3);
+	text-align: center;
+	max-width: 88%;
+	margin: 0.7em auto 0 auto;
+	flex-shrink: 0;
+	text-wrap: balance;
 }
 
 .reveal section.image-slide img {

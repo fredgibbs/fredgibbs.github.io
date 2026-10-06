@@ -973,6 +973,32 @@ got per-week recap slides of their own, so the class currently has no user — i
 nothing adopts it, cut it rather than leave a component the guide recommends and
 no deck demonstrates.
 
+**Discussion decks built on image pairs are the exception to both rules above.**
+A session whose whole job is to make the room argue — a review day, a day with
+no new reading — can be built as a series of forced comparisons: two pictures
+and one question, and nothing else on the slide. There the pair is not a minor
+comparative point, it *is* the argument, and neither image has had or needs its
+own slide. `making-history/slides/purpose-and-progress` is the worked example:
+seven slides, four of them pairs, no `.takehome` under any picture.
+
+Three things make it work rather than becoming a slideshow. **Pairs, not
+singles** — one image asks "what is this?", two ask "which, and why?", and only
+the second is a question a room can argue about. **No takeaway line on the
+picture slides**, because a crux printed under the images closes the question
+the slide exists to open; the epigram budget goes to the discussion slides at
+the end of each part. And **images the room has not seen**, so students have to
+apply the course's arguments rather than recognise a plate from the reading —
+which is the opposite of the recall rule for a normal review deck, and the
+trade is deliberate: recall tests memory, fresh material tests whether they can
+use any of it.
+
+The cost is real and worth saying out loud: such a deck cannot be read by
+anyone who missed the class, because the argument lives in the room. Keep a
+text deck for the same session as the record, as 8.1 does.
+
+Use `section.image-slide.provoke`, which sets the question at a size that can
+be read from the back row and leaves the `figcaption` as quiet apparatus.
+
 **Two side by side only after each has had its own slide, and only for a
 minor comparative point.** A `figure.pair` is for two things that answer one
 small question together and stack cleanly — two antagonists in one quarrel,

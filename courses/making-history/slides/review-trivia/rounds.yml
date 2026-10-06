@@ -1,0 +1,311 @@
+# Making History Pub Trivia — a review of Weeks 1–7, for 8.1.
+#
+# Everything the game puts on screen comes from this file. Edit it, save, and
+# reload the page. A YAML mistake shows up on screen with its line number.
+#
+# How a round runs: a title card, then the questions one at a time (teams write
+# answers on that round's sheet), then "pencils down" and the sheets come in,
+# then the same questions again with the answers. Mark the sheets while the
+# next round plays, and type the scores into the Scores screen (S).
+#
+# Each round takes:
+#   title:            on the title card and at the top of every question.
+#   intro:            one or two sentences on the title card.
+#   points:           per question, unless a question sets its own.
+#   seconds:          a countdown on each question, restarting with the next.
+#   minutes:          instead of seconds, one clock for the whole round,
+#                     running across all its questions (for written rounds).
+#                     The timers chime at zero and never move on by
+#                     themselves; T pauses, resumes or restarts one.
+#   joker:            false to stop teams playing their joker on this round
+#                     (only matters when `jokers: true` at the top).
+#   prompt:           optional; shown under every question in the round (the
+#                     picture round uses it instead of writing each question).
+#   bank:             optional; a list of names shown under every question.
+#   answer_lines:     optional; writing lines per question on the answer
+#                     sheet (default 1), for answers longer than a few words.
+#   print_questions:  true to print the questions on the answer sheet, for
+#                     rounds where teams need the wording in front of them.
+#
+# Each question takes:
+#   q:        the question, on one line.
+#   a:        the answer, shown when the round is marked.
+#   accept:   optional; other answers to take.
+#   context:  optional; background shown with the answer: what the image
+#             shows, or what the question draws on. No points here.
+#   source:   optional; shown small under the answer.
+#   points:   optional; overrides the round's.
+#   image:    optional; `src` (relative to this folder), `alt`, and `credit`.
+#             The credit stays hidden until the answer, since most credits
+#             name it.
+#
+# *Asterisks* give italics and **double asterisks** bold, as in the decks.
+# Each value stays on one line after its key. Put the whole value in
+# "double quotes" if it starts with * or contains a colon followed by a space;
+# inside the quotes, write a straight double quote as \". (Curly “ ” are fine.)
+#
+# Every quotation here is lifted from a deck in ../ that already checked it.
+# See ISSUES.md before adding a new one.
+
+eyebrow: Making History • HIST 1105 • Week 8.1
+title: Dane Smith Trivia
+subtitle: Weeks 1–7 · four rounds
+
+jokers: false         # true lets each team double one round of its choice
+joker_multiplier: 2   # a team's joker multiplies one round's score by this
+timers: true          # false hides every countdown
+
+rounds:
+
+  # ---------------------------------------------------------------------------
+  - title: Who said it?
+    intro: Ten quotations from the course. Name the writer.
+    points: 1
+    seconds: 30
+    questions:
+      - q: “The history of all hitherto existing society is the history of class struggles.”
+        a: Karl Marx
+        accept: Marx and Engels
+        source: Marx and Engels, *Manifesto of the Communist Party* (1848), Part I
+
+      - q: “It used to be said that facts speak for themselves. This is, of course, untrue. The facts speak only when the historian calls on them.”
+        a: E. H. Carr
+        source: Carr, *What Is History?* (1961), p. 11
+
+      - q: "“History has had assigned to it the office of judging the past and of instructing the present… To such high offices the present work does not presume: it seeks only to show what actually happened.”"
+        a: Leopold von Ranke
+        source: Ranke, 1824 introduction (GHDI trans.)
+
+      - q: “The working class did not rise like the sun at an appointed time. It was present at its own making.”
+        a: E. P. Thompson
+        source: Thompson, *The Making of the English Working Class* (1963), p. 9
+
+      - q: “Whosoever thinks, or, what is still more rare, whosoever has taste, will find but four ages in the history of the world.”
+        a: Voltaire
+        source: Voltaire, *The Age of Louis XIV* (1751), Introduction, p. 5
+
+      - q: “Right, as the world goes, is only in question between equals in power, while the strong do what they can and the weak suffer what they must.”
+        a: Thucydides
+        accept: the Athenians at Melos
+        source: Thucydides 5.89, the Melian Dialogue (Crawley trans.)
+
+      - q: “From such crooked wood as man is made of, nothing perfectly straight can be built.”
+        a: Immanuel Kant
+        source: Kant, “Idea for a Universal History” (1784), Sixth Thesis (Beck trans.)
+
+      - q: “For if history relates good things of good men, the attentive hearer is excited to imitate that which is good.”
+        a: Bede
+        source: Bede, *Ecclesiastical History*, Preface
+
+      - q: “Gender is a primary way of signifying relationships of power.”
+        a: Joan Wallach Scott
+        source: "Scott, “Gender: A Useful Category of Historical Analysis” (1986), p. 1067"
+
+      - q: “No one will deny that in questions of historic authenticity hearsay does not equal eyewitness… How could we know the history of nations but for the everlasting monuments of the pen?”
+        a: al-Biruni
+        source: al-Biruni, *Kitab al-Hind*, preface (Sachau trans.)
+
+  # ---------------------------------------------------------------------------
+  - title: Name that thing
+    intro: Words, titles and names the course kept using. One or two words will do for most of these.
+    points: 1
+    seconds: 30
+    questions:
+      - q: Herodotus calls his work *istoria*. What does the word mean?
+        a: Inquiry
+        source: Popkin, *From Herodotus to H-Net*, p. 28
+
+      - q: What did Braudel call “a history to be measured in centuries”?
+        a: The *longue durée*
+        source: Braudel, “The *Longue Durée*” (1958)
+
+      - q: Which journal did Bloch and Febvre found in 1929?
+        a: The *Annales*
+        source: Bloch and Febvre, “À nos lecteurs,” *Annales* 1, no. 1 (1929)
+
+      - q: In 1440 Lorenzo Valla showed that a famous document used Latin that did not exist when it was supposedly written. Which document?
+        a: The Donation of Constantine
+        source: Week 3 · Popkin, p. 50
+
+      - q: Medieval annals began as notes jotted in the blank margins of tables like this one, ruled a line per year, decades ahead, to find the date of one holiday. Which holiday?
+        a: Easter
+        accept: paschal tables
+        source: Week 3 · where the annal comes from
+        image:
+          src: images/paschal-table-annals.jpg
+          alt: A manuscript page ruled into columns of figures, one line per year, with a few lines of writing squeezed into the right-hand margin
+          credit: Paschal table for 950–968 · St. Gallen, Stiftsbibliothek, Cod. Sang. 459, p. 21 · e-codices · CC BY-NC 4.0
+
+      - q: "Fill in the blank: *history as it _____ happened …*"
+        a: “actually”
+        accept: anything close
+        source: Ranke, 1824 introduction · “...eigentlich geschehen”
+
+      - q: What is Kant’s name for the way people need each other and cannot stand each other, both at once?
+        a: “Unsocial sociability”
+        source: Kant, “Idea for a Universal History” (1784), Fourth Thesis
+
+      - q: Marx says capitalism produces “its own” what?
+        a: Grave-diggers
+        accept: the working class that will overthrow it
+        source: Marx and Engels, *Manifesto*, Part I
+
+      - q: Ginzburg’s miller told the Inquisition the world had curdled into being like what?
+        a: Cheese
+        accept: cheese, with angels like worms in it
+        source: Week 7.1 · Ginzburg, *The Cheese and the Worms* (1976)
+
+  # ---------------------------------------------------------------------------
+  - title: Picture round
+    intro: "Eight pictures the course was built on. For each, write why we looked at it: what it shows, and whose argument it was there for. Two points each; a partial answer gets one."
+    points: 2
+    seconds: 60
+    answer_lines: 2
+    prompt: Why did we look at this image?
+    questions:
+      - a: Herodotus’s Croesus, painted about sixty years before he wrote. The story was already known, so he is shaping a familiar tale, and its moral (a warning ignored, an oracle, pride, reversal) lives in that shape.
+        context: Croesus, king of Lydia, asks Delphi whether to attack Persia, is told he will destroy a great empire, and destroys his own. On the pyre he remembers Solon’s warning to count no man happy until he is dead.
+        source: Week 2 · *Histories* 1.86
+        image:
+          src: images/croesus-pyre-myson-louvre-g197.jpg
+          alt: "A red-figure Greek vase: a bearded king sits enthroned on a stacked pyre holding a dish, while a young man tends the fire below"
+          credit: Croesus on the pyre, Attic red-figure amphora by Myson, c. 500–490 BCE · Louvre G 197 · public domain
+
+      - a: Livy’s Lucretia, as Botticelli read it. A private catastrophe is arranged so that it ends in a change of regime, a moral example that founds the Republic, and Livy names no source for what was said in that room.
+        context: Rome, 509 BCE. The king’s son rapes Lucretia; she kills herself in front of her father and husband; Brutus swears on the knife to drive out the Tarquins, and the monarchy ends. Botticelli puts the assault, the death and the rising in one frame.
+        source: Week 2 · Livy 1.57–60
+        image:
+          src: images/lucretia-botticelli-gardner.jpg
+          alt: "A Renaissance painting of a classical square: at the center a man stands over a woman’s body raising a sword to a crowd of soldiers, with another scene at each side"
+          credit: Sandro Botticelli, *The Story of Lucretia*, c. 1500–01 · Isabella Stewart Gardner Museum · public domain
+
+      - a: The forged Donation of Constantine, painted as fact in the 13th century. It was believed for centuries until Valla showed in 1440 that its Latin could not be as old as it claimed.
+        context: The document claimed that Constantine had handed sovereignty over Rome to the pope in the fourth century. Valla wrote his refutation in about seven weeks, as secretary to a king at war with the pope; it sat unprinted until 1517.
+        source: Week 3 · Popkin, p. 50
+        image:
+          src: images/donation-of-constantine.jpg
+          alt: "A medieval fresco: an emperor in a jewelled robe hands a tall white cap to a seated, haloed pope, while at the right a man leads a white horse out of a city gate"
+          credit: The Donation of Constantine · Italian fresco, 13th c., unknown master · Web Gallery of Art · public domain
+
+      - a: Ranke among his documents, almost invisible. The historian who promised to show only what actually happened disappears behind his sources, which raises the question of who chose them.
+        context: Ranke in his eighties and nearly blind; his last volumes were dictated. Syracuse University later bought the library, some 20,000 volumes, and took until 1913 to catalogue it.
+        source: Week 4.2 · Ranke in his library, early 1880s
+        image:
+          src: images/ranke-library-1880s.jpg
+          alt: A dim photograph of a room walled with bookshelves, stacks of books and papers in the foreground, an old man barely visible at a desk
+          credit: Leopold von Ranke in his library, early 1880s · Ranke Papers, Syracuse University · public domain
+
+      - a: A cotton mill, for Marx. Production drove the century’s largest change and no ruler decided it; and this clean, orderly hall comes from a book written to defend the cotton industry.
+        context: From Edward Baines’s *History of the Cotton Manufacture* (1835), a defence of the industry; almost every worker shown is a woman or a girl. Compare the 1839 plate for Frances Trollope’s factory novel, with barefoot children under the machines.
+        source: Week 5.1 · from Baines, *History of the Cotton Manufacture* (1835)
+        image:
+          src: images/powerloom-weaving-1835.jpg
+          alt: An engraving of a long factory hall with two rows of power looms driven by belts from overhead shafting, tended mostly by women
+          credit: Power-loom weaving, from Edward Baines, *History of the Cotton Manufacture in Great Britain*, 1835 · T. Allom, engraved by J. Tingle · public domain
+
+      - a: Braudel’s Lepanto, an event as “a surface disturbance.” Tens of thousands died in an afternoon, yet the Ottomans rebuilt their fleet and the frontier barely moved. In Week 6 it came back for the rowers nobody painted.
+        context: "7 October 1571: the Holy League against the Ottoman fleet, some four hundred galleys in the Gulf of Patras, rowed by slaves, convicts and the very poor. Venice made its peace in 1573."
+        source: Week 5.2 · an event as “a surface disturbance”
+        image:
+          src: images/lepanto-1571.jpg
+          alt: An oil painting of a sea crowded edge to edge with war galleys under banners and gunsmoke, oars out along every hull
+          credit: The Battle of Lepanto, 7 October 1571 · unknown painter, late 16th c. · National Maritime Museum, Greenwich · public domain
+
+      - a: Thompson’s Luddite cropper, seen through a hostile caricature. The people he wants to rescue “from the enormous condescension of posterity” reach us through an archive made to control them, read against the grain.
+        context: Croppers finished cloth by hand with heavy shears, and machines were taking the work; machine-breaking became a capital offence in 1812. Raid leaders sometimes disguised themselves in women’s clothing, which the print turns into caricature.
+        source: Week 6.1 · Thompson’s “Luddite cropper,” p. 12
+        image:
+          src: images/leader-of-the-luddites-1812-cropped.jpg
+          alt: A hand-colored etching of a man in a woman’s blue spotted dress striding forward with a club, a burning mill behind him
+          credit: "*The Leader of the Luddites*, May 1812 · Working Class Movement Library · public domain · engraved title cropped"
+
+      - a: Scott’s room with no women in it. Gender is at work even where women are absent, because “high politics” takes its importance from excluding them.
+        context: "The closing session of the Congress of Berlin, 13 July 1878, in von Werner’s 1892 replica of his mural for the Berlin town hall: two dozen delegates in uniforms, sashes and fezzes, and not one woman."
+        source: Week 6.2 · Scott, p. 1073
+        image:
+          src: images/berlin-congress-1892.jpg
+          alt: "An oil painting of a gilded hall: two dozen men in uniforms, sashes and frock coats around a long table, one shaking hands at the center"
+          credit: Anton von Werner, *Der Kongreß zu Berlin*, closing session, 13 July 1878; painted 1892 · Deutsches Historisches Museum · public domain
+
+  # ---------------------------------------------------------------------------
+  - title: Where were they?
+    intro: Where each writer was, writing or working. Choose from the names on screen. Two of them are not used.
+    points: 1
+    seconds: 30
+    bank:
+      - Bede
+      - Machiavelli
+      - Voltaire
+      - Kant
+      - Condorcet
+      - Ranke
+      - Marx
+      - Braudel
+      - Thompson
+      - Herodotus
+    questions:
+      - q: Königsberg, the town he was born in and, by every account, never far from.
+        a: Kant
+        source: Week 4.1
+
+      - q: German prison camps at Mainz and Lübeck, 1940 to 1945, writing from memory in exercise books posted out a notebook at a time.
+        a: Braudel
+        source: Week 5.2 · *La Méditerranée*
+
+      - q: Wearmouth–Jarrow, the monastery he was given to at the age of seven and never really left.
+        a: Bede
+        source: Week 3
+
+      - q: The Reading Room of the British Museum, where he spent years working up the book he published in 1867.
+        a: Marx
+        source: Week 5.1 · *Capital*
+
+      - q: The court of Frederick the Great at Potsdam, writing about France from beyond the reach of its censor.
+        a: Voltaire
+        source: Week 4.1 · *The Age of Louis XIV*
+
+      - q: Sixteen years teaching adult-education classes to working people in the West Riding, outside a conventional academic post.
+        a: Thompson
+        source: Week 6.1
+
+      - q: A farm, in exile, after the returning Medici had him arrested and tortured in 1512.
+        a: Machiavelli
+        source: Week 3 · *The Prince*
+
+      - q: A school in Frankfurt an der Oder, where he was a teacher of twenty-eight writing his first book.
+        a: Ranke
+        source: Week 4.2
+
+  # Big ideas is commented out (2026-10-06): its questions became the
+  # big-picture-review deck (../big-picture-review/). To bring the round
+  # back, remove the leading "# " from each line below.
+#   # ---------------------------------------------------------------------------
+#   - title: Big ideas
+#     intro: Four questions to argue about and write up together. Up to three points each, for a specific answer with a name and an example in it.
+#     points: 3
+#     minutes: 10
+#     joker: false          # judged answers; doubling them doubles the marker's guess
+#     print_questions: true
+#     questions:
+#       - q: Carr says the facts speak only when the historian calls on them. Pick a writer from the course and name something they gave the floor to that earlier history had left out.
+#         a: "Voltaire: the arts and manners, not “the marches and countermarches of armies.” Thompson: the stockinger, the cropper, Joanna Southcott’s followers. Vansina: oral tradition. Ginzburg: one miller’s beliefs. Scott: gender, in a room with no women in it."
+#         context: "Carr’s line is from Week 1 (*What Is History?*, p. 11). Later writers kept changing who got the floor: Voltaire against the chroniclers, Thompson against the “Pilgrim’s Progress” histories, Vansina against a written-only archive, Scott against “gender” as a synonym for women."
+
+#       - q: Ranke says his book will “only” show what actually happened. Name one judgment that gets into his history anyway.
+#         a: "His preface decides that the Germanic and Latin peoples form “the heart of all modern history” before any source is read. Or: states built the archives and paid for the chairs; the seminar admitted almost nobody, and almost no women; the 1854 lecture calls Asia’s history “retrogressive.”"
+#         context: "From the 1824 preface (Week 4.2), which hands back the jobs of judging the past and instructing the present. What is left sits upstream of the method: the choice of subject, the archives the state built, and who was admitted to the seminar."
+
+#       - q: Braudel zooms out to four centuries of a sea; Ginzburg zooms in on one miller’s trial. Name one thing each can explain that the other can’t.
+#         a: "Braudel: why a pattern lasts and what nobody could change; the hillside outlasts the battle. Ginzburg: one mind in full, in its own words. Braudel can’t explain a decision; Ginzburg can’t say how many others thought the same."
+#         context: Braudel (Week 5.2) splits the past into three speeds (geography; societies and economies; events) and puts events last. Ginzburg (Week 7.1) reads one miller’s Inquisition trial as a window onto a popular culture that left almost nothing else behind.
+
+#       - q: Pick two writers from the course who want different things from history. Say what each wants, and why the same source could give them two different histories.
+#         a: "Livy wants moral examples, Machiavelli technique, Ranke only what happened, Marx revolution, Thompson a rescue of the forgotten. Ranke and Ginzburg reading the same inquisition record: Ranke gets a procedure carried out, Ginzburg a cosmos made of cheese."
+#         context: "The 8.1 discussion question names five purposes: moral examples (Livy), civilizational lessons (Voltaire), truth (Ranke), revolution (Marx) and rescuing the forgotten (Thompson). Ranke’s preface explicitly refuses the job Livy took for granted."
+
+# Read out after the last round. Each team writes a number on its last sheet;
+# the closest breaks a tie.
+tiebreak:
+  q: Livy wrote 142 books of Roman history. How many survive?
+  a: "35"
+  source: Week 2 · books 1–10 and 21–45 survive; the rest are known from ancient summaries

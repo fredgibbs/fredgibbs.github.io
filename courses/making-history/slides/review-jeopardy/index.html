@@ -1,0 +1,777 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Making History Jeopardy</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;800&family=JetBrains+Mono:wght@400;500&display=swap">
+<!--
+  A Jeopardy board for the 8.1 review (Weeks 1–7). Three files:
+
+    clues.yml     every category, clue, response and source — edit this one
+    jeopardy.css  the look
+    index.html    the game itself (this file)
+
+  No front matter and no reveal.js, so Jekyll copies all three as-is. The page
+  reads clues.yml when it loads, which browsers refuse to do for a page opened
+  straight from Finder: open it through `bundle exec jekyll serve` or on the
+  site. YAML is parsed by the copy of js-yaml in /assets/vendor/.
+
+  Presenting: Space (or a clicker's right arrow) reveals, then returns to the
+  board. Esc returns. F toggles full screen, M mutes. Team names and scores in
+  the footer are click-to-edit, for corrections. The game saves to this
+  browser's storage, so a reload resumes it.
+-->
+<link rel="stylesheet" href="jeopardy.css">
+<script src="/assets/vendor/js-yaml-4.1.0/js-yaml.min.js"></script>
+</head>
+<body class="pregame">
+<div id="app">
+	<div id="stage">
+		<header class="bar">
+			<p class="eyebrow" id="board-eyebrow"></p>
+			<div class="tools">
+				<button class="btn" id="final-btn" type="button">Final Jeopardy</button>
+				<button class="btn" id="sound-btn" type="button" aria-pressed="true">Sound on</button>
+				<button class="btn" id="full-btn" type="button">Full screen</button>
+				<button class="btn" id="new-btn" type="button">New game</button>
+			</div>
+		</header>
+		<main id="board" aria-label="Game board"></main>
+		<section id="overlay" role="dialog" aria-modal="true" aria-live="polite" tabindex="-1"><div class="setup"><p class="eyebrow">Loading clues…</p></div></section>
+	</div>
+	<footer id="scores" aria-label="Scores"></footer>
+</div>
+<canvas id="confetti" aria-hidden="true"></canvas>
+
+<script>
+(() => {
+'use strict';
+
+/* ---------- the clues: read from clues.yml ---------- */
+
+// Filled in by boot() from clues.yml. Every function below reads it at call
+// time, so nothing runs until it is set.
+let GAME = null;
+
+// *italics* and **bold**, as in the decks; HTML passes through untouched.
+const md = s => s == null ? '' : String(s)
+	.replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>')
+	.replace(/\*([^*]+)\*/g, '<i>$1</i>');
+
+// Turn the parsed YAML into the game, or into a list of what is wrong with it,
+// in words that point at the line to fix.
+function build(y) {
+	const problems = [];
+	if (!y || typeof y !== 'object') return { problems: ['The file is empty, or is not a list of `key: value` lines.'] };
+	const values = Array.isArray(y.values) && y.values.length ? y.values.map(Number) : null;
+	if (!values || values.some(v => !Number.isFinite(v))) problems.push('`values` should be a list of numbers, like [200, 400, 600, 800, 1000].');
+	const cats = Array.isArray(y.categories) ? y.categories : [];
+	if (!cats.length) problems.push('There are no `categories`.');
+	cats.forEach((c, i) => {
+		const label = c && c.name ? `“${c.name}”` : `Category ${i + 1}`;
+		if (!c || !c.name) problems.push(`${label} has no \`name\`.`);
+		const clues = c && Array.isArray(c.clues) ? c.clues : [];
+		if (values && clues.length !== values.length) problems.push(`${label} has ${clues.length} clues; the board needs ${values.length}, one per value.`);
+		clues.forEach((k, j) => {
+			if (!k || !k.clue) problems.push(`${label}, clue ${j + 1}, has no \`clue\`.`);
+			if (!k || !k.response) problems.push(`${label}, clue ${j + 1}, has no \`response\`.`);
+			if (k && k.image && !k.image.src) problems.push(`${label}, clue ${j + 1}, has an \`image\` with no \`src\`.`);
+		});
+	});
+	const f = y.final;
+	if (!f || !f.clue || !f.response) problems.push('`final` needs at least a `clue` and a `response`.');
+	if (problems.length) return { problems };
+
+	const clue = k => ({
+		clue: md(k.clue),
+		response: md(k.response),
+		accept: md(k.accept),
+		source: md(k.source),
+		image: k.image ? { src: String(k.image.src), alt: String(k.image.alt || ''), credit: md(k.image.credit) } : null
+	});
+	return { game: {
+		eyebrow: md(y.eyebrow),
+		boardEyebrow: md(y.board_eyebrow || y.eyebrow),
+		title: md(y.title || 'Jeopardy'),
+		subtitle: md(y.subtitle),
+		values,
+		dailyDoubles: Math.max(0, Math.min(Number(y.daily_doubles ?? 2) || 0, cats.length)),
+		finalSeconds: Number(y.final_seconds) || 30,
+		categories: cats.map(c => ({ name: String(c.name), clues: c.clues.map(clue) })),
+		final: {
+			category: md(f.category), clue: md(f.clue), jobs: (f.jobs || []).map(md),
+			response: md(f.response), follow: md(f.follow), source: md(f.source)
+		}
+	}};
+}
+
+// One saved game per page, so a second board elsewhere on the site keeps its own.
+const KEY = 'jeopardy:' + location.pathname.replace(/index\.html$/, '');
+const MUTE_KEY = 'jeopardy:muted';
+const COLORS = ['#6fb3a0', '#d9b26a', '#a8c686', '#d98a6a', '#a9b4e8', '#e6ece4'];
+
+const $ = (sel, root = document) => root.querySelector(sel);
+const board = $('#board');
+const overlay = $('#overlay');
+const scoresEl = $('#scores');
+const stage = $('#stage');
+const finalBtn = $('#final-btn');
+const soundBtn = $('#sound-btn');
+const newBtn = $('#new-btn');
+
+let state = load();
+let mode = 'setup';      // setup | board | dd | clue | final-wager | final-clue | final-reveal | results | error
+let current = null;      // the open clue
+let timer = null;
+let setupCount = 4;
+let muted = false;
+try { muted = localStorage.getItem(MUTE_KEY) === '1'; } catch (e) { /* storage off */ }
+
+/* ---------- state ---------- */
+
+function load() {
+	try {
+		const s = JSON.parse(localStorage.getItem(KEY));
+		if (s && Array.isArray(s.teams) && s.teams.length && s.used && Array.isArray(s.dd)) return s;
+	} catch (e) { /* nothing saved, or storage off */ }
+	return null;
+}
+function save() {
+	try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) { /* storage off: game still runs */ }
+}
+function fresh(names) {
+	return { teams: names.map(name => ({ name, score: 0 })), used: {}, dd: pickDailyDoubles(), final: null };
+}
+// Never on the top row, never two in one category — the show's own habit.
+function pickDailyDoubles() {
+	const cats = GAME.categories.map((_, i) => i).sort(() => Math.random() - .5);
+	return cats.slice(0, GAME.dailyDoubles)
+		.map(c => `${c}-${1 + Math.floor(Math.random() * (GAME.values.length - 1))}`);
+}
+const allUsed = () => GAME.categories.every((cat, c) => GAME.values.every((_, r) => state.used[`${c}-${r}`]));
+
+/* ---------- helpers ---------- */
+
+function money(n) { return (n < 0 ? '−' : '') + '$' + Math.abs(n).toLocaleString('en-US'); }
+function esc(s) { return String(s).replace(/[&<>"]/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[ch]); }
+function teamVar(i) { return `--team:${COLORS[i % COLORS.length]}`; }
+
+// Shrink a block of text until it fits its box. Transforms don't affect
+// these measurements, so this can run mid-zoom.
+function fit(text, box, max, min = 16) {
+	if (!text || !box) return;
+	let size = max;
+	text.style.fontSize = size + 'px';
+	while (size > min && (text.offsetHeight > box.clientHeight || text.scrollWidth > box.clientWidth)) {
+		size -= 2;
+		text.style.fontSize = size + 'px';
+	}
+}
+function fitClue() {
+	const text = $('.clue-text', overlay), box = $('.clue-box', overlay);
+	if (!text) return;
+	const hasFig = !!$('.has-fig', overlay);
+	const max = Math.min(innerHeight * (hasFig ? .07 : .085), innerWidth * (hasFig ? .036 : .05));
+	fit(text, box, Math.round(max));
+}
+
+/* ---------- sound (synthesized, nothing to download) ---------- */
+
+let actx = null;
+function ctx() {
+	if (muted) return null;
+	const AC = window.AudioContext || window.webkitAudioContext;
+	if (!AC) return null;
+	if (!actx) actx = new AC();
+	if (actx.state === 'suspended') actx.resume();
+	return actx;
+}
+function tone(freq, at, dur, type = 'sine', vol = .12) {
+	const a = ctx(); if (!a) return;
+	const t = a.currentTime + at;
+	const o = a.createOscillator(), g = a.createGain();
+	o.type = type; o.frequency.value = freq;
+	g.gain.setValueAtTime(0, t);
+	g.gain.linearRampToValueAtTime(vol, t + .015);
+	g.gain.exponentialRampToValueAtTime(.0001, t + dur);
+	o.connect(g).connect(a.destination);
+	o.start(t); o.stop(t + dur + .05);
+}
+const sound = {
+	open:   () => { tone(523.25, 0, .12, 'triangle', .08); tone(784, .07, .2, 'triangle', .07); },
+	reveal: () => { tone(1046.5, 0, .14); tone(1568, .1, .35); },
+	right:  () => [523.25, 659.25, 783.99, 1046.5].forEach((f, i) => tone(f, i * .07, .3, 'triangle', .1)),
+	wrong:  () => { tone(110, 0, .5, 'square', .06); tone(117, 0, .5, 'square', .05); },
+	dd:     () => [392, 523.25, 659.25, 783.99, 1046.5, 1318.5].forEach((f, i) => tone(f, i * .06, .5, 'sine', .09)),
+	timeup: () => { tone(784, 0, .2, 'triangle', .1); tone(659.25, .22, .2, 'triangle', .1); tone(523.25, .44, .5, 'triangle', .1); },
+	win:    () => [523.25, 659.25, 783.99, 1046.5, 783.99, 1046.5].forEach((f, i) => tone(f, i * .11, .4, 'triangle', .1))
+};
+
+function setMuted(m) {
+	muted = m;
+	soundBtn.textContent = m ? 'Sound off' : 'Sound on';
+	soundBtn.setAttribute('aria-pressed', String(!m));
+	try { localStorage.setItem(MUTE_KEY, m ? '1' : '0'); } catch (e) { /* storage off */ }
+}
+
+/* ---------- board and scores ---------- */
+
+function renderBoard() {
+	board.innerHTML = '';
+	board.style.setProperty('--cols', GAME.categories.length);
+	board.style.setProperty('--rows', GAME.values.length);
+	GAME.categories.forEach((cat, c) => {
+		const h = document.createElement('div');
+		h.className = 'cat';
+		h.style.gridArea = `1 / ${c + 1}`;
+		h.textContent = cat.name;
+		board.append(h);
+		GAME.values.forEach((v, r) => {
+			const id = `${c}-${r}`;
+			const b = document.createElement('button');
+			b.type = 'button';
+			b.className = 'tile';
+			b.style.gridArea = `${r + 2} / ${c + 1}`;
+			b.innerHTML = `<span class="dollar">$</span>${v}`;
+			if (state.used[id]) {
+				b.classList.add('spent');
+				b.disabled = true;
+				b.setAttribute('aria-label', `${cat.name}, ${v}, done`);
+			} else {
+				b.setAttribute('aria-label', `${cat.name} for ${v}`);
+				b.addEventListener('click', () => openClue(c, r, b));
+			}
+			board.append(b);
+		});
+	});
+	finalBtn.classList.toggle('lit', allUsed());
+}
+
+function renderScores(flash) {
+	scoresEl.innerHTML = '';
+	state.teams.forEach((t, i) => {
+		const card = document.createElement('div');
+		card.className = 'team';
+		card.style.cssText = teamVar(i);
+		if (flash && flash.i === i) card.classList.add(flash.dir > 0 ? 'up' : 'down');
+
+		const name = document.createElement('div');
+		name.className = 'name';
+		name.contentEditable = 'true';
+		name.spellcheck = false;
+		name.title = 'Click to rename';
+		name.textContent = t.name;
+		name.addEventListener('keydown', e => { if (e.key === 'Enter') { e.preventDefault(); name.blur(); } });
+		name.addEventListener('blur', () => { t.name = name.textContent.trim() || `Team ${i + 1}`; save(); renderScores(); });
+
+		const score = document.createElement('div');
+		score.className = 'score' + (t.score < 0 ? ' neg' : '');
+		score.contentEditable = 'true';
+		score.spellcheck = false;
+		score.title = 'Click to correct the score';
+		score.textContent = money(t.score);
+		score.addEventListener('focus', () => {
+			score.textContent = String(t.score);
+			const range = document.createRange(); range.selectNodeContents(score);
+			const sel = getSelection(); sel.removeAllRanges(); sel.addRange(range);
+		});
+		score.addEventListener('keydown', e => {
+			if (e.key === 'Enter') { e.preventDefault(); score.blur(); }
+			if (e.key === 'Escape') { score.textContent = String(t.score); score.blur(); }
+		});
+		score.addEventListener('blur', () => {
+			const n = parseInt(score.textContent.replace(/[−–]/g, '-').replace(/[^\d-]/g, ''), 10);
+			if (!Number.isNaN(n)) t.score = n;
+			save(); renderScores();
+		});
+
+		card.append(name, score);
+		scoresEl.append(card);
+	});
+}
+
+/* ---------- overlay plumbing ---------- */
+
+let hideTimer = null;
+function show(html, fromEl) {
+	clearTimer();
+	clearTimeout(hideTimer);
+	overlay.classList.remove('closing');
+	overlay.innerHTML = html;
+	overlay.hidden = false;
+	if (fromEl && !matchMedia('(prefers-reduced-motion: reduce)').matches) zoomFrom(fromEl);
+	overlay.focus({ preventScroll: true });
+}
+function zoomFrom(el) {
+	const s = stage.getBoundingClientRect(), r = el.getBoundingClientRect();
+	overlay.style.transition = 'none';
+	overlay.style.transformOrigin = '0 0';
+	overlay.style.transform = `translate(${r.left - s.left}px, ${r.top - s.top}px) scale(${r.width / s.width}, ${r.height / s.height})`;
+	overlay.getBoundingClientRect();
+	overlay.style.transition = 'transform .45s cubic-bezier(.2, .75, .25, 1)';
+	overlay.style.transform = 'none';
+}
+function hide() {
+	clearTimer();
+	overlay.classList.add('closing');
+	hideTimer = setTimeout(() => { overlay.hidden = true; overlay.classList.remove('closing'); overlay.innerHTML = ''; }, 250);
+	mode = 'board';
+	current = null;
+	renderBoard();
+}
+function on(sel, ev, fn) { overlay.querySelectorAll(sel).forEach(el => el.addEventListener(ev, fn)); }
+
+/* ---------- setup ---------- */
+
+function showSetup() {
+	mode = 'setup';
+	document.body.classList.add('pregame');
+	const saved = state && (Object.keys(state.used).length > 0 || !!state.final);
+	const names = Array.from({ length: 6 }, (_, i) => (state && state.teams[i] && state.teams[i].name) || `Team ${i + 1}`);
+	if (state) setupCount = Math.min(6, Math.max(2, state.teams.length));
+	show(`
+		<div class="setup">
+			<p class="eyebrow">${GAME.eyebrow}</p>
+			<h1>${GAME.title}</h1>
+			${GAME.subtitle ? `<p class="sub">${GAME.subtitle}</p>` : ''}
+			<div class="count" role="group" aria-label="Number of teams">
+				<span class="prompt">Teams</span>
+				${[2, 3, 4, 5, 6].map(n => `<button type="button" class="chip${n === setupCount ? ' on' : ''}" data-n="${n}">${n}</button>`).join('')}
+			</div>
+			<div class="names">
+				${names.map((n, i) => `<input type="text" maxlength="24" aria-label="Team ${i + 1} name" style="${teamVar(i)}" value="${esc(n)}" ${i >= setupCount ? 'hidden' : ''}>`).join('')}
+			</div>
+			<div class="actions">
+				${saved ? '<button type="button" class="btn big primary" id="resume">Resume game</button>' : ''}
+				<button type="button" class="btn big${saved ? '' : ' primary'}" id="start">${saved ? 'Start over' : 'Start'}</button>
+			</div>
+			<p class="hint">Space reveals, then returns to the board · Esc returns · F full screen · M mute · names and scores are click-to-edit</p>
+		</div>`);
+	on('.count .chip', 'click', e => {
+		setupCount = Number(e.currentTarget.dataset.n);
+		overlay.querySelectorAll('.count .chip').forEach(ch => ch.classList.toggle('on', Number(ch.dataset.n) === setupCount));
+		overlay.querySelectorAll('.names input').forEach((inp, i) => { inp.hidden = i >= setupCount; });
+	});
+	const typed = () => [...overlay.querySelectorAll('.names input')].map((inp, i) => inp.value.trim() || `Team ${i + 1}`);
+	// Resuming keeps the teams and scores; only renames carry over.
+	on('#resume', 'click', () => {
+		const names = typed();
+		state.teams.forEach((t, i) => { t.name = names[i]; });
+		save();
+		startBoard();
+	});
+	on('#start', 'click', () => {
+		state = fresh(typed().slice(0, setupCount));
+		save();
+		startBoard();
+	});
+}
+function startBoard() {
+	document.body.classList.remove('pregame');
+	renderScores();
+	hide();
+}
+
+/* ---------- a clue ---------- */
+
+function openClue(c, r, tileEl) {
+	const id = `${c}-${r}`;
+	const cat = GAME.categories[c];
+	current = {
+		id, c, r, cat, item: cat.clues[r], value: GAME.values[r],
+		marks: state.teams.map(() => 0),
+		revealed: false,
+		dd: state.dd.includes(id) ? { team: null, wager: null } : null
+	};
+	state.used[id] = true;
+	save();
+	if (current.dd) showDailyDouble(tileEl);
+	else showClue(tileEl);
+}
+
+function showDailyDouble(tileEl) {
+	mode = 'dd';
+	const max = t => Math.max(t.score, GAME.values[GAME.values.length - 1]);
+	show(`
+		<div class="clue-head"><span>${esc(current.cat.name)}</span><span class="val">${money(current.value)}</span></div>
+		<div class="splash">
+			<h2>Daily<br>Double</h2>
+			<p class="prompt">Which team found it?</p>
+			<div class="picker">
+				${state.teams.map((t, i) => `<button type="button" class="chip" style="${teamVar(i)}" data-i="${i}">${esc(t.name)}</button>`).join('')}
+			</div>
+			<label class="wager" hidden>$<input type="number" min="5" step="100" inputmode="numeric" aria-label="Wager"></label>
+			<p class="hint" id="dd-max"></p>
+			<button type="button" class="btn big primary" id="dd-go" disabled>Show the clue</button>
+		</div>`, tileEl);
+	sound.dd();
+	const input = $('.wager input', overlay), go = $('#dd-go', overlay), hint = $('#dd-max', overlay);
+	const valid = () => {
+		const i = current.dd.team, w = parseInt(input.value, 10);
+		go.disabled = !(i !== null && w >= 5 && w <= max(state.teams[i]));
+	};
+	on('.picker .chip', 'click', e => {
+		const i = Number(e.currentTarget.dataset.i);
+		current.dd.team = i;
+		overlay.querySelectorAll('.picker .chip').forEach(ch => ch.classList.toggle('on', Number(ch.dataset.i) === i));
+		$('.wager', overlay).hidden = false;
+		input.max = max(state.teams[i]);
+		hint.textContent = `Up to ${money(max(state.teams[i]))}: their score, or the top value on the board if that is more.`;
+		input.focus();
+		valid();
+	});
+	input.addEventListener('input', valid);
+	input.addEventListener('keydown', e => { if (e.key === 'Enter' && !go.disabled) go.click(); });
+	go.addEventListener('click', () => {
+		current.dd.wager = parseInt(input.value, 10);
+		showClue();
+	});
+}
+
+function showClue(tileEl) {
+	mode = 'clue';
+	const it = current.item;
+	const head = current.dd
+		? `<span>Daily Double · ${esc(state.teams[current.dd.team].name)}</span><span class="val">${money(current.dd.wager)}</span>`
+		: `<span>${esc(current.cat.name)}</span><span class="val">${money(current.value)}</span>`;
+	const fig = it.image
+		? `<figure class="clue-fig"><img src="${esc(it.image.src)}" alt="${esc(it.image.alt)}"><figcaption class="credit" hidden>${it.image.credit}</figcaption></figure>`
+		: '';
+	show(`
+		<div class="clue-head">${head}</div>
+		<div class="clue-main${it.image ? ' has-fig' : ''}">
+			${fig}
+			<div class="clue-box"><p class="clue-text">${it.clue}</p></div>
+		</div>
+		<div class="response" hidden>
+			<p class="resp">${it.response}</p>
+			<p class="meta">${it.accept ? `<span class="acc">Also accept: ${it.accept}</span><br>` : ''}${it.source}</p>
+		</div>
+		<div class="actions">
+			<button type="button" class="btn big primary" id="reveal">Reveal response<kbd>space</kbd></button>
+			<button type="button" class="btn" id="putback" title="Return this clue to the board unplayed">Put back</button>
+		</div>`, tileEl);
+	if (tileEl) sound.open();
+	fitClue();
+	const img = $('.clue-fig img', overlay);
+	if (img) {
+		const shape = () => { img.parentNode.classList.toggle('tall', img.naturalHeight > img.naturalWidth); fitClue(); };
+		if (img.complete && img.naturalWidth) shape(); else img.addEventListener('load', shape);
+	}
+	on('#reveal', 'click', reveal);
+	on('#putback', 'click', putBack);
+}
+
+function reveal() {
+	if (!current || current.revealed) return;
+	current.revealed = true;
+	$('.response', overlay).hidden = false;
+	const credit = $('.credit', overlay);
+	if (credit) credit.hidden = false;
+	const who = current.dd ? [current.dd.team] : state.teams.map((_, i) => i);
+	const amt = current.dd ? current.dd.wager : current.value;
+	$('.actions', overlay).innerHTML = `
+		<div class="marks">
+			${who.map(i => `
+				<div class="mark" style="${teamVar(i)}">
+					<span class="who">${esc(state.teams[i].name)}</span>
+					${current.dd ? `<span class="amt">${money(amt)}</span>` : ''}
+					<button type="button" class="right" data-i="${i}" aria-label="${esc(state.teams[i].name)} right">✓</button>
+					<button type="button" class="wrong" data-i="${i}" aria-label="${esc(state.teams[i].name)} wrong">✗</button>
+				</div>`).join('')}
+		</div>
+		<button type="button" class="btn big primary" id="back">Back to board<kbd>esc</kbd></button>`;
+	on('.mark .right', 'click', e => markTeam(Number(e.currentTarget.dataset.i), 1, e.currentTarget));
+	on('.mark .wrong', 'click', e => markTeam(Number(e.currentTarget.dataset.i), -1, e.currentTarget));
+	on('#back', 'click', hide);
+	sound.reveal();
+	fitClue();
+	overlay.focus({ preventScroll: true });
+}
+
+// Clicking a mark again takes it back, so a slip costs nothing.
+function markTeam(i, sign, btn) {
+	const amt = current.dd ? current.dd.wager : current.value;
+	const prev = current.marks[i];
+	const next = prev === sign ? 0 : sign;
+	state.teams[i].score += (next - prev) * amt;
+	current.marks[i] = next;
+	const group = btn.closest('.mark');
+	$('.right', group).classList.toggle('on', next === 1);
+	$('.wrong', group).classList.toggle('on', next === -1);
+	save();
+	renderScores(next ? { i, dir: next } : null);
+	if (next === 1) sound.right();
+	if (next === -1) sound.wrong();
+}
+
+function putBack() {
+	if (!current) return;
+	delete state.used[current.id];
+	save();
+	hide();
+}
+
+/* ---------- final jeopardy ---------- */
+
+function openFinal() {
+	if (mode === 'setup' || mode === 'error') return;
+	const f = GAME.final;
+	if (!state.final) state.final = { wagers: state.teams.map(() => 0), marks: state.teams.map(() => 0), revealed: false };
+	// Teams added since a saved final began.
+	while (state.final.wagers.length < state.teams.length) { state.final.wagers.push(0); state.final.marks.push(0); }
+	save();
+	mode = 'final-wager';
+	show(`
+		<div class="clue-head"><span>Final Jeopardy</span><span></span></div>
+		<div class="splash">
+			<h2 class="sm">Final Jeopardy</h2>
+			<p class="cat-big">${f.category}</p>
+			<p class="prompt">Each team writes down a wager, up to its score</p>
+			<div class="wagers">
+				${state.teams.map((t, i) => `
+					<label style="${teamVar(i)}"><span class="who">${esc(t.name)}</span><span class="has">has ${money(t.score)}</span>
+						<input type="number" min="0" step="100" max="${Math.max(0, t.score)}" value="${state.final.wagers[i] || ''}" data-i="${i}" placeholder="0" inputmode="numeric"></label>`).join('')}
+			</div>
+			<button type="button" class="btn big primary" id="final-go">Show the clue</button>
+		</div>`, finalBtn);
+	sound.dd();
+	on('#final-go', 'click', () => {
+		// A mark was scored at the old wager; take it back before the wager changes.
+		state.final.marks.forEach((m, i) => { state.teams[i].score -= m * state.final.wagers[i]; state.final.marks[i] = 0; });
+		overlay.querySelectorAll('.wagers input').forEach(inp => {
+			const i = Number(inp.dataset.i);
+			const w = parseInt(inp.value, 10);
+			state.final.wagers[i] = Number.isNaN(w) ? 0 : Math.min(Math.max(0, w), Math.max(0, state.teams[i].score));
+		});
+		save();
+		renderScores();
+		showFinalClue();
+	});
+}
+
+function showFinalClue() {
+	mode = 'final-clue';
+	const f = GAME.final;
+	show(`
+		<div class="clue-head"><span>Final Jeopardy · ${f.category}</span><span></span></div>
+		<div class="clue-main">
+			<div class="clue-box"><p class="clue-text">${f.clue}${f.jobs.length ? `<span class="jobs">${f.jobs.join('<br>')}</span>` : ''}</p></div>
+		</div>
+		<div class="timer" hidden><i></i></div>
+		<div class="response" hidden>
+			<p class="resp">${f.response}</p>
+			${f.source ? `<p class="meta">${f.source}</p>` : ''}
+			${f.follow ? `<p class="follow">${f.follow}</p>` : ''}
+		</div>
+		<div class="actions">
+			<button type="button" class="btn big" id="clock">Start ${GAME.finalSeconds} seconds</button>
+			<button type="button" class="btn big primary" id="reveal">Reveal response<kbd>space</kbd></button>
+		</div>`);
+	fitClue();
+	on('#clock', 'click', startTimer);
+	on('#reveal', 'click', revealFinal);
+}
+
+function startTimer() {
+	clearTimer();
+	const bar = $('.timer', overlay), fill = $('.timer > i', overlay);
+	if (!bar) return;
+	bar.hidden = false;
+	fill.style.transition = 'none';
+	fill.style.transform = 'scaleX(1)';
+	fill.getBoundingClientRect();
+	fill.style.transition = `transform ${GAME.finalSeconds}s linear`;
+	fill.style.transform = 'scaleX(0)';
+	fitClue();
+	timer = setTimeout(() => { sound.timeup(); timer = null; }, GAME.finalSeconds * 1000);
+}
+function clearTimer() { if (timer) { clearTimeout(timer); timer = null; } }
+
+function revealFinal() {
+	clearTimer();
+	const f = state.final;
+	f.revealed = true;
+	save();
+	mode = 'final-reveal';
+	$('.timer', overlay).hidden = true;
+	$('.response', overlay).hidden = false;
+	$('.actions', overlay).innerHTML = `
+		<div class="marks">
+			${state.teams.map((t, i) => `
+				<div class="mark" style="${teamVar(i)}">
+					<span class="who">${esc(t.name)}</span><span class="amt">${money(f.wagers[i])}</span>
+					<button type="button" class="right${f.marks[i] === 1 ? ' on' : ''}" data-i="${i}" aria-label="${esc(t.name)} right">✓</button>
+					<button type="button" class="wrong${f.marks[i] === -1 ? ' on' : ''}" data-i="${i}" aria-label="${esc(t.name)} wrong">✗</button>
+				</div>`).join('')}
+		</div>
+		<button type="button" class="btn big primary" id="results">Final scores</button>`;
+	const mark = (i, sign, btn) => {
+		const prev = f.marks[i], next = prev === sign ? 0 : sign;
+		state.teams[i].score += (next - prev) * f.wagers[i];
+		f.marks[i] = next;
+		const g = btn.closest('.mark');
+		$('.right', g).classList.toggle('on', next === 1);
+		$('.wrong', g).classList.toggle('on', next === -1);
+		save();
+		renderScores(next ? { i, dir: next } : null);
+		if (next === 1) sound.right();
+		if (next === -1) sound.wrong();
+	};
+	on('.mark .right', 'click', e => mark(Number(e.currentTarget.dataset.i), 1, e.currentTarget));
+	on('.mark .wrong', 'click', e => mark(Number(e.currentTarget.dataset.i), -1, e.currentTarget));
+	on('#results', 'click', showResults);
+	sound.reveal();
+	fitClue();
+}
+
+function showResults() {
+	mode = 'results';
+	const ranked = state.teams.map((t, i) => ({ ...t, i })).sort((a, b) => b.score - a.score);
+	const top = ranked[0].score;
+	show(`
+		<div class="clue-head"><span>Final scores</span><span></span></div>
+		<div class="splash">
+			<div class="standings">
+				${ranked.map((t, k) => `
+					<div class="standing${t.score === top ? ' first' : ''}" style="${teamVar(t.i)};animation-delay:${(ranked.length - k) * .25}s">
+						<span><span class="n">${t.score === top ? 'Winner' : '#' + (k + 1)}</span><br>${esc(t.name)}</span>
+						<span class="s">${money(t.score)}</span>
+					</div>`).join('')}
+			</div>
+			<div class="actions">
+				<button type="button" class="btn" id="to-board">Back to board</button>
+				<button type="button" class="btn" id="again">New game</button>
+			</div>
+		</div>`);
+	on('#to-board', 'click', hide);
+	on('#again', 'click', showSetup);
+	setTimeout(() => { sound.win(); confetti(); }, ranked.length * 250 + 300);
+}
+
+/* ---------- confetti ---------- */
+
+function confetti() {
+	if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+	const cv = $('#confetti'), g = cv.getContext('2d');
+	const W = cv.width = innerWidth, H = cv.height = innerHeight;
+	const bits = Array.from({ length: 180 }, () => ({
+		x: Math.random() * W, y: -20 - Math.random() * H * .6,
+		vx: (Math.random() - .5) * 3, vy: 2 + Math.random() * 3.5,
+		r: Math.random() * Math.PI, vr: (Math.random() - .5) * .25,
+		w: 6 + Math.random() * 8, h: 4 + Math.random() * 6,
+		c: COLORS[Math.floor(Math.random() * 4)]
+	}));
+	const t0 = performance.now();
+	(function frame(t) {
+		g.clearRect(0, 0, W, H);
+		bits.forEach(b => {
+			b.x += b.vx; b.y += b.vy; b.vy += .03; b.r += b.vr;
+			g.save(); g.translate(b.x, b.y); g.rotate(b.r);
+			g.fillStyle = b.c; g.fillRect(-b.w / 2, -b.h / 2, b.w, b.h * Math.cos(b.r * 2));
+			g.restore();
+		});
+		if (t - t0 < 6000) requestAnimationFrame(frame);
+		else g.clearRect(0, 0, W, H);
+	})(t0);
+}
+
+/* ---------- header buttons and keys ---------- */
+
+finalBtn.addEventListener('click', openFinal);
+soundBtn.addEventListener('click', () => setMuted(!muted));
+$('#full-btn').addEventListener('click', toggleFull);
+// Two clicks, so a stray one doesn't wipe the scores. No confirm() dialog.
+let armed = null;
+newBtn.addEventListener('click', () => {
+	if (mode === 'setup' || mode === 'error') return;
+	if (armed) { clearTimeout(armed); armed = null; newBtn.classList.remove('armed'); newBtn.textContent = 'New game'; showSetup(); return; }
+	newBtn.classList.add('armed');
+	newBtn.textContent = 'Click again to reset';
+	armed = setTimeout(() => { armed = null; newBtn.classList.remove('armed'); newBtn.textContent = 'New game'; }, 3000);
+});
+
+function toggleFull() {
+	try {
+		if (document.fullscreenElement) document.exitFullscreen();
+		else document.documentElement.requestFullscreen();
+	} catch (e) { /* not available */ }
+}
+
+document.addEventListener('keydown', e => {
+	if (e.target.closest && e.target.closest('input, [contenteditable="true"]')) return;
+	if (e.metaKey || e.ctrlKey || e.altKey) return;
+	const advance = e.key === ' ' || e.key === 'Enter' || e.key === 'ArrowRight' || e.key === 'PageDown';
+	if (advance && (mode === 'clue' || mode === 'final-clue' || mode === 'final-reveal')) {
+		e.preventDefault();
+		if (mode === 'clue') { if (current.revealed) hide(); else reveal(); }
+		else if (mode === 'final-clue') revealFinal();
+		return;
+	}
+	if (e.key === 'Escape' && mode === 'clue' && current.revealed) { e.preventDefault(); hide(); return; }
+	if (e.key === 'Escape' && mode === 'results') { e.preventDefault(); hide(); return; }
+	if (e.key === 'f' || e.key === 'F') toggleFull();
+	if (e.key === 'm' || e.key === 'M') setMuted(!muted);
+});
+
+let resizeTimer = null;
+addEventListener('resize', () => { clearTimeout(resizeTimer); resizeTimer = setTimeout(fitClue, 120); });
+
+/* ---------- go ---------- */
+
+function fail(title, detail) {
+	mode = 'error';
+	document.body.classList.add('pregame');
+	show(`
+		<div class="setup">
+			<p class="eyebrow">Jeopardy</p>
+			<h2 class="trouble">${esc(title)}</h2>
+			<pre class="detail">${esc(detail)}</pre>
+		</div>`);
+}
+
+async function boot() {
+	setMuted(muted);
+	let text;
+	try {
+		const res = await fetch('clues.yml', { cache: 'no-cache' });
+		if (!res.ok) throw new Error(`The server answered ${res.status} ${res.statusText} for clues.yml.`);
+		text = await res.text();
+	} catch (e) {
+		if (location.protocol === 'file:') {
+			return fail('Open this page through the site, not straight from the file.',
+				'Browsers won’t let a page opened from Finder read the clues.yml beside it.\n\n' +
+				'Run   LC_ALL=en_US.UTF-8 bundle exec jekyll serve   in the site folder, then open\n' +
+				'http://localhost:4000' + location.pathname.replace(/^.*?(?=\/courses\/)/, '') + '\n\n' +
+				'or open the page on the live site.');
+		}
+		return fail('The clues didn’t load.', String(e.message || e));
+	}
+	let parsed;
+	try {
+		if (!window.jsyaml) throw new Error('The YAML reader (/assets/vendor/js-yaml-4.1.0/js-yaml.min.js) didn’t load.');
+		parsed = jsyaml.load(text);
+	} catch (e) {
+		return fail('clues.yml has a mistake in it.', String(e.message || e));
+	}
+	const { game, problems } = build(parsed);
+	if (problems) return fail('clues.yml loaded, but the board can’t be built from it.', problems.map(p => '• ' + p).join('\n'));
+	GAME = game;
+
+	$('#board-eyebrow').innerHTML = GAME.boardEyebrow;
+	// With nothing saved, a blank game sits behind the setup screen (unsaved).
+	if (!state) state = fresh(['Team 1', 'Team 2', 'Team 3', 'Team 4']);
+	renderBoard();
+	renderScores();
+	showSetup();
+	document.fonts && document.fonts.ready.then(fitClue);
+}
+
+boot();
+})();
+</script>
+</body>
+</html>

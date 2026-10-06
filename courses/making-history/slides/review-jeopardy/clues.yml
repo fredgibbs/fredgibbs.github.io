@@ -1,0 +1,208 @@
+# Making History Jeopardy — a review of Weeks 1–7, for 8.1.
+#
+# Everything the game puts on screen comes from this file. Edit it, save, and
+# reload the page. A YAML mistake shows up on screen with its line number.
+#
+# The board has one column per category and one row per value, so each
+# category needs exactly as many clues as there are values, lowest first.
+#
+# Each clue takes:
+#   clue:      the text on screen, on one line.
+#   response:  shown on reveal, in Jeopardy form.
+#   accept:    optional; other responses to take.
+#   source:    shown small under the response.
+#   image:     optional; `src` (relative to this folder), `alt`, and `credit`.
+#              The credit stays hidden until the reveal, because most credits
+#              name the answer.
+#
+# *Asterisks* give italics and **double asterisks** bold, as in the decks;
+# plain HTML works too. Each value stays on one line after its key. Put the
+# whole value in "double quotes" if it starts with * or contains a colon
+# followed by a space; inside the quotes, write a straight double quote as \".
+# (Curly “ ” are fine.)
+#
+# Every quotation here is lifted from a deck in ../ that already checked it.
+# See ISSUES.md before adding a new one.
+
+eyebrow: Making History • HIST 1105 • Week 8.1
+board_eyebrow: Making History • HIST 1105 • **Review, Weeks 1–7**
+title: Jeopardy
+subtitle: Weeks 1–7 · thirty clues and a final
+
+values: [200, 400, 600, 800, 1000]
+daily_doubles: 2        # random each game; never the top row, never two in a category
+final_seconds: 30
+
+categories:
+
+  - name: Who said it?
+    clues:
+      - clue: “The history of all hitherto existing society is the history of class struggles.”
+        response: Who is Karl Marx?
+        accept: Marx and Engels
+        source: Marx and Engels, *Manifesto of the Communist Party* (1848), Part I
+
+      - clue: “It used to be said that facts speak for themselves. This is, of course, untrue. The facts speak only when the historian calls on them.”
+        response: Who is E. H. Carr?
+        source: Carr, *What Is History?* (1961), p. 11
+
+      - clue: "“History has had assigned to it the office of judging the past and of instructing the present… To such high offices the present work does not presume: it seeks only to show what actually happened.”"
+        response: Who is Leopold von Ranke?
+        source: Ranke, 1824 introduction (GHDI trans.) · *wie es eigentlich gewesen*
+
+      - clue: “…phosphorescent fireflies; their pale lights glowed, went out, shone again, all without piercing the night with any true illumination. So it is with events; beyond their glow, darkness prevails.”
+        response: Who is Fernand Braudel?
+        source: Braudel, “The Situation of History in 1950,” in *On History*, pp. 10–11
+
+      - clue: “No one will deny that in questions of historic authenticity hearsay does not equal eyewitness… How could we know the history of nations but for the everlasting monuments of the pen?”
+        response: Who is al-Biruni?
+        source: al-Biruni, *Kitab al-Hind*, preface (Sachau trans.)
+
+  - name: Job descriptions
+    clues:
+      - clue: This Roman’s preface sets out “the lessons of every kind of experience” as “on a conspicuous monument,” so that you may “choose… what to imitate.”
+        response: Who is Livy?
+        source: Livy, *Ab Urbe Condita*, Preface (Foster trans.)
+
+      - clue: He wrote so “that the memory of the past may not be blotted out,” and so that “great and marvellous deeds… may not lack renown.”
+        response: Who is Herodotus?
+        source: Herodotus, *Histories* 1.1 (Godley trans.)
+
+      - clue: Livy and Bede both tell their readers to imitate the past. This Florentine, writing in 1513, wants them to imitate technique instead of virtue.
+        response: Who is Niccolò Machiavelli?
+        source: Week 3 · Machiavelli, *The Prince*, ch. 6
+
+      - clue: Thompson sets out to rescue “the poor stockinger, the Luddite cropper, the ‘obsolete’ hand-loom weaver” from this.
+        response: What is “the enormous condescension of posterity”?
+        source: Thompson, *The Making of the English Working Class* (1963), p. 12
+
+      - clue: “I have cast a universal net to gather together all the old traditions of the world that were scattered and lost,” said this record-keeper at the court of Emperor Wu.
+        response: Who is Sima Qian?
+        source: Sima Qian, quoted in Popkin, *From Herodotus to H-Net*, p. 37
+
+  - name: Show your sources
+    clues:
+      - clue: For Bede, a river drying up so St. Alban could cross on the way to his execution is not decoration. These count as evidence.
+        response: What are miracles?
+        source: Week 3 · Bede, *Ecclesiastical History* I.7
+
+      - clue: Thucydides admits that in these he made people “say what, in my opinion, was called for by each situation.”
+        response: What are the speeches?
+        accept: any named speech, e.g. Pericles’ Funeral Oration
+        source: Thucydides 1.22, quoted in Popkin, p. 30
+
+      - clue: In 1440 Lorenzo Valla showed that this document used Latin that did not exist when it was supposedly written. It claimed an emperor had handed sovereignty over Rome to the pope.
+        response: What is the Donation of Constantine?
+        source: Week 3 · Popkin, p. 50
+        image:
+          src: images/donation-of-constantine.jpg
+          alt: "A medieval fresco: an emperor in a jewelled robe hands a tall white cap to a seated, haloed pope, while at the right a man leads a white horse out of a city gate"
+          credit: The Donation of Constantine · Italian fresco, 13th c., unknown master · Web Gallery of Art · public domain
+
+      - clue: Jan Vansina calls this kind of source “a series of successive historical documents all lost except for the last one.”
+        response: What is oral tradition?
+        source: Vansina, *Oral Tradition as History* (1985), p. 29
+
+      - clue: "Medieval annals began as notes jotted in the blank margins of these: one ruled line per year, drawn decades ahead, so monks would know when one holiday fell."
+        response: What are Easter tables?
+        accept: paschal tables
+        source: Week 3 · where the annal comes from
+        image:
+          src: images/paschal-table-annals.jpg
+          alt: A manuscript page ruled into columns of figures, one line per year, with a few lines of writing squeezed into the right-hand margin
+          credit: Paschal table for 950–968 · St. Gallen, Stiftsbibliothek, Cod. Sang. 459, p. 21 · e-codices · CC BY-NC 4.0
+
+  - name: Progress?
+    clues:
+      - clue: "Voltaire finds only four “happy ages” in the history of the world: Greece, Rome, Medici Florence, and this one, which ended when he was twenty."
+        response: What is the age of Louis XIV?
+        source: Voltaire, *The Age of Louis XIV* (1751), Introduction, pp. 5–7
+
+      - clue: “From such crooked wood as man is made of, nothing perfectly straight can be built,” concedes this philosopher, who still says Nature has a “secret plan.”
+        response: Who is Immanuel Kant?
+        source: Kant, “Idea for a Universal History” (1784), Sixth and Eighth Theses (Beck trans.)
+
+      - clue: Against the idea that each generation improves on the last, Ranke declared in 1854 that “every epoch is immediate to” this.
+        response: What is God?
+        source: Ranke, lectures on world history, 1854
+
+      - clue: “Nature has set no term to the perfection of human faculties,” wrote this mathematician while hiding from the Revolution he had helped make. He died in a cell in 1794.
+        response: Who is Condorcet?
+        source: Condorcet, *Sketch for a Historical Picture of the Progress of the Human Mind* (1794), quoted in Popkin, p. 67
+
+      - clue: Popkin says this former student of Kant objected to measuring nations by “a universal standard of civilization derived from the experience of Western Europe.”
+        response: Who is Johann Gottfried Herder?
+        source: Popkin, *From Herodotus to H-Net*, p. 68
+
+  - name: Zoom out
+    clues:
+      - clue: Braudel’s French name for “a history to be measured in centuries.”
+        response: What is the *longue durée*?
+        source: Braudel, “The *Longue Durée*” (1958)
+
+      - clue: "Marx says capitalism produces “its own” these: the working class that will overthrow it."
+        response: What are grave-diggers?
+        source: Marx and Engels, *Manifesto*, Part I
+
+      - clue: "Marx, after the revolutions of 1848 had failed: “Men make their own history, but they do not make it…” Finish the sentence."
+        response: What is “…just as they please”?
+        source: Marx, *The Eighteenth Brumaire* (1852), quoted in Green and Troup, p. 36
+
+      - clue: Tens of thousands died here in a single afternoon in 1571. Braudel still calls events like it “a surface disturbance.”
+        response: What is the Battle of Lepanto?
+        source: Braudel, 1949 preface to *The Mediterranean*, in *On History*, p. 3
+        image:
+          src: images/lepanto-1571.jpg
+          alt: An oil painting of a sea crowded edge to edge with war galleys under banners and gunsmoke, oars out along every hull
+          credit: The Battle of Lepanto, 7 October 1571 · unknown painter, late 16th c. · National Maritime Museum, Greenwich · public domain
+
+      - clue: Bloch and Febvre founded this in 1929, because between scholars “often the walls are so high that they cut off the view.”
+        response: What is the *Annales*?
+        accept: the journal
+        source: Bloch and Febvre, “À nos lecteurs,” *Annales* 1, no. 1 (1929)
+
+  - name: Who counts?
+    clues:
+      - clue: A miller in sixteenth-century Friuli told the Inquisition the world had curdled into being like this, with angels generated in it like worms.
+        response: What is cheese?
+        source: Week 7.1 · Ginzburg, *The Cheese and the Worms* (1976)
+
+      - clue: Croppers losing their trade to machines rallied behind this invented leader, drawn here in 1812 “from Life by an Officer.”
+        response: Who is General Ludd?
+        accept: Ned Ludd; the Luddites
+        source: Week 6.1 · Thompson’s “Luddite cropper,” p. 12
+        image:
+          src: images/leader-of-the-luddites-1812-cropped.jpg
+          alt: A hand-colored etching of a man in a woman’s blue spotted dress striding forward with a club, a burning mill behind him
+          credit: "*The Leader of the Luddites*, May 1812 · Working Class Movement Library · public domain · engraved title cropped"
+
+      - clue: "Thompson: “The working class did not rise like the sun at an appointed time. It was…” Finish the sentence."
+        response: What is “present at its own making”?
+        source: Thompson, *The Making of the English Working Class*, p. 9
+
+      - clue: Joan Scott complained in 1986 that in its simplest recent usage, “gender” had become a synonym for this word.
+        response: What is “women”?
+        source: "Scott, “Gender: A Useful Category of Historical Analysis,” *AHR* (1986), p. 1056"
+
+      - clue: There is not a woman in this room. Joan Scott says this concept is gendered “precisely in its exclusion of women from its work.”
+        response: What is high politics?
+        source: Scott, p. 1073
+        image:
+          src: images/berlin-congress-1892.jpg
+          alt: "An oil painting of a gilded hall: two dozen men in uniforms, sashes and frock coats around a long table, one shaking hands at the center"
+          credit: Anton von Werner, *Der Kongreß zu Berlin*, closing session, 13 July 1878; painted 1892 · Deutsches Historisches Museum · public domain
+
+# Final Jeopardy. `jobs` is shown as a list under the clue; `follow` comes up
+# with the response, as the question to open discussion on.
+final:
+  category: What is history for?
+  clue: "Name the writer behind each job:"
+  jobs:
+    - moral examples
+    - civilizational lessons
+    - “what actually happened”
+    - revolution
+    - rescuing the forgotten
+  response: Livy · Voltaire · Ranke · Marx · Thompson
+  follow: Which of the five is most defensible — and why?
+  source: Livy, Week 2 · Voltaire and Ranke, Week 4 · Marx, Week 5 · Thompson, Week 6

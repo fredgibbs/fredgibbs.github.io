@@ -1,0 +1,808 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Making History Pub Trivia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;800&family=JetBrains+Mono:wght@400;500&display=swap">
+<!--
+  Pub trivia for the 8.1 review (Weeks 1–7). Three files:
+
+    rounds.yml   every round, question, answer and source — edit this one
+    trivia.css   the look
+    index.html   the game itself (this file)
+
+  No front matter and no reveal.js, so Jekyll copies all three as-is. The page
+  reads rounds.yml when it loads, which browsers refuse to do for a page opened
+  straight from Finder: open it through `bundle exec jekyll serve` or on the
+  site. YAML is parsed by the copy of js-yaml in /assets/vendor/.
+
+  How it runs: each round is a title card, the questions one at a time, a
+  "pencils down" card while the sheets come in, then the questions again with
+  their answers. Mark that round's sheets while the next round plays and type
+  the scores in (S). No standings between rounds; "Show standings" in the
+  scores table puts them up when you want. The final standings are revealed
+  one team at a time, last place first.
+
+  Keys: Space, Enter or → (or a clicker) goes forward; ← goes back. S opens
+  the scores, F is full screen, M mutes, T pauses, resumes or restarts the
+  question timer (set per round in rounds.yml; it chimes at zero and never
+  moves on by itself). The menu in the bottom bar jumps to
+  the start of any round's questions or answers, the tie-breaker, or the final
+  standings. The game saves to this browser's
+  storage, so a reload resumes it. "Answer sheets" shows a printable set:
+  print one per team.
+-->
+<link rel="stylesheet" href="trivia.css">
+<script src="/assets/vendor/js-yaml-4.1.0/js-yaml.min.js"></script>
+</head>
+<body class="pregame">
+<div id="app">
+	<header class="bar">
+		<p class="eyebrow" id="eyebrow"></p>
+		<div class="tools">
+			<button class="btn in-game" id="scores-btn" type="button">Scores<kbd>S</kbd></button>
+			<button class="btn" id="sheets-btn" type="button">Answer sheets</button>
+			<button class="btn" id="sound-btn" type="button" aria-pressed="true">Sound on</button>
+			<button class="btn" id="full-btn" type="button">Full screen</button>
+			<button class="btn in-game" id="new-btn" type="button">New game</button>
+		</div>
+	</header>
+	<main id="main" aria-live="polite">
+		<section class="screen"><div class="setup"><p class="eyebrow">Loading questions…</p></div></section>
+	</main>
+	<nav class="nav" aria-label="Move through the game">
+		<button class="btn" id="back-btn" type="button">← Back</button>
+		<div class="mid">
+			<span class="where" id="where"></span>
+			<select id="jump" aria-label="Jump to a round"></select>
+		</div>
+		<button class="btn primary" id="next-btn" type="button">Next →</button>
+	</nav>
+</div>
+<div id="sheets"></div>
+<canvas id="confetti" aria-hidden="true"></canvas>
+
+<script>
+(() => {
+'use strict';
+
+const COLORS = ['#6fb3a0', '#d9b26a', '#a8c686', '#d98a6a', '#a9b4e8', '#e6ece4', '#7fc4d8', '#e0a3c0', '#c9c27a', '#b9a3e0'];
+// One saved game per page, so the Jeopardy board keeps its own.
+const KEY = 'trivia:' + location.pathname.replace(/index\.html$/, '');
+const MUTE_KEY = 'trivia:muted';
+
+const $ = (sel, root = document) => root.querySelector(sel);
+const main = $('#main');
+const where = $('#where');
+const soundBtn = $('#sound-btn');
+const newBtn = $('#new-btn');
+
+let GAME = null;         // built from rounds.yml by boot()
+let STEPS = [];          // every screen in order, built from GAME
+let state = load();
+let mode = 'setup';      // setup | play | error
+let peek = false;        // standings shown from the scores table, outside the step order
+let revealed = 0;        // rows uncovered on the final standings
+let setupCount = 6;
+let muted = false;
+try { muted = localStorage.getItem(MUTE_KEY) === '1'; } catch (e) { /* storage off */ }
+
+/* ---------- reading rounds.yml ---------- */
+
+// *italics* and **bold**, as in the decks; HTML passes through untouched.
+const md = s => s == null ? '' : String(s)
+	.replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>')
+	.replace(/\*([^*]+)\*/g, '<i>$1</i>');
+const plain = s => String(s == null ? '' : s).replace(/\*+/g, '');
+
+// Turn the parsed YAML into the game, or into a list of what is wrong with it.
+function build(y) {
+	const problems = [];
+	if (!y || typeof y !== 'object') return { problems: ['The file is empty, or is not a list of `key: value` lines.'] };
+	const rounds = Array.isArray(y.rounds) ? y.rounds : [];
+	if (!rounds.length) problems.push('There are no `rounds`.');
+	rounds.forEach((r, i) => {
+		const label = r && r.title ? `Round ${i + 1} (“${r.title}”)` : `Round ${i + 1}`;
+		if (!r || !r.title) problems.push(`${label} has no \`title\`.`);
+		const qs = r && Array.isArray(r.questions) ? r.questions : [];
+		if (!qs.length) problems.push(`${label} has no \`questions\`.`);
+		qs.forEach((q, j) => {
+			const at = `${label}, question ${j + 1},`;
+			if (!q || (!q.q && !(r && r.prompt))) problems.push(`${at} has no \`q\`, and the round has no \`prompt\` to use instead.`);
+			if (!q || q.a == null || q.a === '') problems.push(`${at} has no answer (\`a\`).`);
+			if (q && q.image && !q.image.src) problems.push(`${at} has an \`image\` with no \`src\`.`);
+			if (q && q.points != null && !Number.isFinite(Number(q.points))) problems.push(`${at} has \`points\` that isn’t a number.`);
+		});
+		if (r && r.points != null && !Number.isFinite(Number(r.points))) problems.push(`${label} has \`points\` that isn’t a number.`);
+		for (const f of ['seconds', 'minutes']) if (r && r[f] != null && !(Number(r[f]) >= 0)) problems.push(`${label} has \`${f}\` that isn’t a number.`);
+	});
+	const tb = y.tiebreak;
+	if (tb && (!tb.q || tb.a == null)) problems.push('`tiebreak` needs a `q` and an `a`.');
+	if (problems.length) return { problems };
+
+	return { game: {
+		eyebrow: md(y.eyebrow),
+		title: md(y.title || 'Pub Trivia'),
+		subtitle: md(y.subtitle),
+		jokers: y.jokers !== false,
+		jokerMultiplier: Number(y.joker_multiplier) || 2,
+		timers: y.timers !== false,
+		rounds: rounds.map(r => {
+			const per = r.points == null ? 1 : Number(r.points);
+			const questions = r.questions.map(q => ({
+				q: md(q.q),
+				a: md(q.a),
+				long: plain(q.a).length > 90,
+				accept: md(q.accept),
+				context: md(q.context ?? q.marking),   // `marking` was this field's old name
+				source: md(q.source),
+				points: q.points == null ? per : Number(q.points),
+				image: q.image ? { src: String(q.image.src), alt: String(q.image.alt || ''), credit: md(q.image.credit) } : null
+			}));
+			return {
+				title: md(r.title),
+				intro: md(r.intro),
+				joker: y.jokers !== false && r.joker !== false,
+				prompt: md(r.prompt),
+				bank: Array.isArray(r.bank) ? r.bank.map(md) : [],
+				printQuestions: !!r.print_questions,
+				seconds: Number(r.seconds) || 0,
+				answerLines: Math.max(1, Math.round(Number(r.answer_lines) || 1)),
+				minutes: Number(r.minutes) || 0,
+				questions,
+				max: questions.reduce((n, q) => n + q.points, 0),
+				perEach: questions.every(q => q.points === questions[0].points) ? questions[0].points : null
+			};
+		}),
+		tiebreak: tb ? { q: md(tb.q), a: md(tb.a), source: md(tb.source), num: Number(String(tb.a).replace(/[^\d.-]/g, '')) } : null
+	}};
+}
+
+function buildSteps() {
+	const s = [];
+	GAME.rounds.forEach((r, ri) => {
+		s.push({ kind: 'intro', r: ri });
+		r.questions.forEach((_, i) => s.push({ kind: 'q', r: ri, i }));
+		s.push({ kind: 'down', r: ri });
+		r.questions.forEach((_, i) => s.push({ kind: 'a', r: ri, i }));
+	});
+	if (GAME.tiebreak) s.push({ kind: 'tq' }, { kind: 'ta' });
+	s.push({ kind: 'final' });
+	return s;
+}
+
+/* ---------- saved state ---------- */
+
+function load() {
+	try {
+		const s = JSON.parse(localStorage.getItem(KEY));
+		if (s && Array.isArray(s.teams) && s.teams.length && s.scores && s.jokers) return s;
+	} catch (e) { /* nothing saved, or storage off */ }
+	return null;
+}
+function save() {
+	try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) { /* storage off: the game still runs */ }
+}
+function fresh(names) {
+	return { teams: names.map(name => ({ name })), scores: {}, jokers: {}, tiebreak: {}, pos: 0 };
+}
+
+/* ---------- scoring ---------- */
+
+const score = (ri, ti) => { const v = state.scores[`${ri}-${ti}`]; return v == null ? null : v; };
+const roundScored = ri => state.teams.every((_, ti) => score(ri, ti) != null);
+
+function standings() {
+	const tb = GAME.tiebreak ? GAME.tiebreak.num : NaN;
+	const off = ti => {
+		const g = state.tiebreak[ti];
+		return g == null || Number.isNaN(tb) ? Infinity : Math.abs(g - tb);
+	};
+	const list = state.teams.map((t, ti) => {
+		let total = 0;
+		GAME.rounds.forEach((r, ri) => {
+			const v = score(ri, ti);
+			if (v != null) total += v * (r.joker && state.jokers[ti] === ri ? GAME.jokerMultiplier : 1);
+		});
+		return { ti, name: t.name, total, off: off(ti) };
+	});
+	list.sort((a, b) => b.total - a.total || a.off - b.off);
+	list.forEach((x, k) => {
+		const p = list[k - 1];
+		x.rank = p && p.total === x.total && p.off === x.off ? p.rank : k + 1;
+	});
+	return list;
+}
+
+/* ---------- helpers ---------- */
+
+function esc(s) { return String(s).replace(/[&<>"]/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[ch]); }
+function teamVar(i) { return `--team:${COLORS[i % COLORS.length]}`; }
+const num = n => Number.isInteger(n) ? String(n) : n.toFixed(1);
+const pts = n => `${num(n)} point${n === 1 ? '' : 's'}`;
+
+// Shrink a block of text until it fits its box.
+function fit(text, box, max, min = 16) {
+	if (!text || !box) return;
+	let size = max;
+	text.style.fontSize = size + 'px';
+	while (size > min && (text.offsetHeight > box.clientHeight || text.scrollWidth > box.clientWidth)) {
+		size -= 2;
+		text.style.fontSize = size + 'px';
+	}
+}
+function fitText() {
+	const text = $('.q-text', main), box = $('.q-box', main);
+	if (!text) return;
+	const hasFig = !!$('.has-fig', main);
+	const answering = !!$('.answer', main);
+	const k = answering ? .62 : 1;
+	const max = Math.min(innerHeight * (hasFig ? .07 : .085), innerWidth * (hasFig ? .036 : .05)) * k;
+	fit(text, box, Math.round(max));
+}
+
+/* ---------- sound (synthesized, nothing to download) ---------- */
+
+let actx = null;
+function ctx() {
+	if (muted) return null;
+	const AC = window.AudioContext || window.webkitAudioContext;
+	if (!AC) return null;
+	if (!actx) actx = new AC();
+	if (actx.state === 'suspended') actx.resume();
+	return actx;
+}
+function tone(freq, at, dur, type = 'sine', vol = .12) {
+	const a = ctx(); if (!a) return;
+	const t = a.currentTime + at;
+	const o = a.createOscillator(), g = a.createGain();
+	o.type = type; o.frequency.value = freq;
+	g.gain.setValueAtTime(0, t);
+	g.gain.linearRampToValueAtTime(vol, t + .015);
+	g.gain.exponentialRampToValueAtTime(.0001, t + dur);
+	o.connect(g).connect(a.destination);
+	o.start(t); o.stop(t + dur + .05);
+}
+const sound = {
+	round:  () => [392, 523.25, 659.25, 783.99].forEach((f, i) => tone(f, i * .09, .45, 'triangle', .09)),
+	pencil: () => { tone(880, 0, 1.2, 'sine', .1); tone(660, .35, 1.4, 'sine', .08); },
+	pop:    () => tone(659.25, 0, .18, 'triangle', .08),
+	timeup: () => { tone(784, 0, .25, 'triangle', .07); tone(659.25, .22, .25, 'triangle', .07); tone(523.25, .44, .6, 'triangle', .07); },
+	win:    () => [523.25, 659.25, 783.99, 1046.5, 783.99, 1046.5].forEach((f, i) => tone(f, i * .11, .4, 'triangle', .1))
+};
+function setMuted(m) {
+	muted = m;
+	soundBtn.textContent = m ? 'Sound off' : 'Sound on';
+	soundBtn.setAttribute('aria-pressed', String(!m));
+	try { localStorage.setItem(MUTE_KEY, m ? '1' : '0'); } catch (e) { /* storage off */ }
+}
+
+/* ---------- drawing a screen ---------- */
+
+function draw(html) {
+	main.innerHTML = `<section class="screen">${html}</section>`;
+	const img = $('.q-fig img', main);
+	if (img) {
+		const shape = () => { img.parentNode.classList.toggle('tall', img.naturalHeight > img.naturalWidth); fitText(); };
+		if (img.complete && img.naturalWidth) shape(); else img.addEventListener('load', shape);
+	}
+	fitText();
+	tickClock();
+}
+
+function figure(q, withCredit) {
+	if (!q.image) return '';
+	return `<figure class="q-fig${q.q ? '' : ' alone'}"><img src="${esc(q.image.src)}" alt="${esc(q.image.alt)}">${withCredit && q.image.credit ? `<figcaption class="credit">${q.image.credit}</figcaption>` : ''}</figure>`;
+}
+
+function questionBody(r, q, withCredit) {
+	return `
+		<div class="q-main${q.image ? ' has-fig' : ''}">
+			${figure(q, withCredit)}
+			${q.q ? `<div class="q-box"><p class="q-text">${q.q}</p></div>` : ''}
+		</div>
+		${r.prompt ? `<p class="prompt">${r.prompt}</p>` : ''}
+		${r.bank.length ? `<p class="bank">${r.bank.map(b => `<span>${b}</span>`).join('')}</p>` : ''}`;
+}
+
+function render() {
+	if (mode !== 'play') return;
+	syncJump();
+	if (peek) return renderStandings('Standings', true);
+	const st = STEPS[state.pos];
+	const n = GAME.rounds.length;
+	$('#back-btn').disabled = state.pos === 0;
+	if (st.kind !== 'final') revealed = 0;
+
+	if (st.kind === 'intro') {
+		const r = GAME.rounds[st.r];
+		where.textContent = `Round ${st.r + 1} of ${n}`;
+		draw(`
+			<div class="card">
+				<p class="round-no">Round ${st.r + 1} of ${n}</p>
+				<h2>${r.title}</h2>
+				${r.intro ? `<p class="intro">${r.intro}</p>` : ''}
+				<p class="meta">${r.questions.length} questions · ${r.perEach != null ? `${pts(r.perEach)} each` : `up to ${pts(r.max)}`}${GAME.timers && r.minutes ? ` · ${num(r.minutes)} minutes for the round` : GAME.timers && r.seconds ? ` · ${r.seconds} seconds a question` : ''}</p>
+				${GAME.jokers ? `<p class="meta">${r.joker
+					? `<b>Jokers allowed</b> · ×${GAME.jokerMultiplier}`
+					: 'No jokers this round'}</p>` : ''}
+			</div>`);
+	}
+
+	if (st.kind === 'q' || st.kind === 'a') {
+		const r = GAME.rounds[st.r], q = r.questions[st.i];
+		const answering = st.kind === 'a';
+		where.textContent = `Round ${st.r + 1} · ${answering ? 'answer' : 'question'} ${st.i + 1} of ${r.questions.length}`;
+		draw(`
+			<div class="head">
+				<span>Round ${st.r + 1} · ${r.title}${answering ? ' · answers' : ''}</span>
+				<span><span class="num">${st.i + 1}</span> / ${r.questions.length}<span class="pts">${pts(q.points)}</span></span>
+			</div>
+			${answering ? '' : clockRow(st)}
+			${questionBody(r, q, answering)}
+			${answering ? `
+				<div class="answer">
+					<p class="resp${q.long ? ' long' : ''}">${q.a}</p>
+					${q.accept || q.source ? `<p class="meta">${q.accept ? `<span class="acc">Also accept: ${q.accept}</span>${q.source ? '<br>' : ''}` : ''}${q.source}</p>` : ''}
+					${q.context ? `<p class="context">Context · ${q.context}</p>` : ''}
+				</div>` : ''}`);
+	}
+
+	if (st.kind === 'down') {
+		const r = GAME.rounds[st.r];
+		where.textContent = `Round ${st.r + 1} · pencils down`;
+		draw(`
+			<div class="card">
+				<p class="round-no">End of round ${st.r + 1} · ${r.title}</p>
+				<h2 class="sm">Pencils down</h2>
+			</div>`);
+	}
+
+	if (st.kind === 'tq' || st.kind === 'ta') {
+		const t = GAME.tiebreak;
+		const answering = st.kind === 'ta';
+		where.textContent = answering ? 'Tie-breaker · answer' : 'Tie-breaker · question';
+		draw(`
+			<div class="head"><span>Tie-breaker</span><span>closest wins a tie</span></div>
+			<div class="q-main"><div class="q-box"><p class="q-text">${t.q}</p></div></div>
+			${answering
+				? `<div class="answer"><p class="resp">${t.a}</p>${t.source ? `<p class="meta">${t.source}</p>` : ''}</div>`
+				: ''}`);
+	}
+
+	if (st.kind === 'final') renderStandings('Final standings', false, true);
+}
+
+function renderStandings(title, peeking, final) {
+	const list = standings();
+	const scored = GAME.rounds.map((_, ri) => ri).filter(roundScored);
+	const top = Math.max(1, ...list.map(x => x.total));
+	const missing = GAME.rounds.length - scored.length;
+	where.textContent = peeking ? 'Standings · any key returns' : title;
+	const note = !scored.length
+		? ''
+		: `After ${scored.length === 1 ? 'round' : 'rounds'} ${scored.map(r => r + 1).join(', ')}` + (final && missing ? ` · ${missing} round${missing === 1 ? '' : 's'} unscored` : '');
+	// Final standings come up last place first, one team per press.
+	const shown = final ? revealed : list.length;
+	draw(`
+		<div class="head"><span>${title}</span><span>${note}</span></div>
+		${scored.length ? `
+			<div class="standings">
+				${list.map((x, k) => {
+					const veiled = final && k < list.length - shown;
+					const joker = GAME.jokers ? state.jokers[x.ti] : null;
+					return `<div class="row${x.rank === 1 && (!final || shown === list.length) ? ' first' : ''}${veiled ? ' veiled' : ''}" style="${teamVar(x.ti)};--fill:${veiled ? 0 : Math.max(0, x.total) / top};animation-delay:${final ? 0 : k * .07}s">
+						<span class="rank">${x.rank === 1 && final && shown === list.length ? 'WIN' : '#' + x.rank}</span>
+						<span class="who">${esc(x.name)}${joker != null ? `<small>joker · round ${joker + 1}</small>` : ''}</span>
+						<span class="total">${num(x.total)}</span>
+					</div>`;
+				}).join('')}
+			</div>` : `<p class="empty-note">No scores yet.</p>`}`);
+}
+
+/* ---------- the question timer ---------- */
+
+// A round sets either `seconds` (a countdown per question, restarting with
+// each one) or `minutes` (one clock for the whole round, which keeps running
+// across its questions). It chimes at zero and never moves the game on.
+let clock = null;    // { key, total, endsAt, left, done }; `left` is set only while paused
+
+function clockSpec(st) {
+	if (!GAME.timers || st.kind !== 'q') return null;
+	const r = GAME.rounds[st.r];
+	if (r.minutes) return { key: `round-${st.r}`, total: r.minutes * 60 };
+	if (r.seconds) return { key: `q-${st.r}-${st.i}`, total: r.seconds };
+	return null;
+}
+function clockRow(st) {
+	const spec = clockSpec(st);
+	if (!spec) return '';
+	if (!clock || clock.key !== spec.key) clock = { ...spec, endsAt: Date.now() + spec.total * 1000, left: null, done: false };
+	return `<div class="clock" title="T or click: pause, resume, restart"><span class="clock-bar"><i></i></span><span class="clock-num"></span></div>`;
+}
+const timeLeft = () => clock.left != null ? clock.left : Math.max(0, (clock.endsAt - Date.now()) / 1000);
+const mmss = sec => `${Math.floor(sec / 60)}:${String(sec % 60).padStart(2, '0')}`;
+function toggleClock() {
+	if (!clock || !$('.clock', main)) return;
+	const left = timeLeft();
+	if (left <= 0) Object.assign(clock, { endsAt: Date.now() + clock.total * 1000, left: null, done: false });   // restart
+	else if (clock.left != null) Object.assign(clock, { endsAt: Date.now() + clock.left * 1000, left: null }); // resume
+	else clock.left = left;                                                                                  // pause
+	tickClock();
+}
+function tickClock() {
+	const el = $('.clock', main);
+	if (!el || !clock) return;
+	const left = timeLeft();
+	el.querySelector('.clock-bar i').style.transform = `scaleX(${left / clock.total})`;
+	el.querySelector('.clock-num').textContent = left <= 0 ? 'Time' : mmss(Math.ceil(left)) + (clock.left != null ? ' · paused' : '');
+	el.classList.toggle('low', left > 0 && left <= 5);
+	el.classList.toggle('out', left <= 0);
+	el.classList.toggle('paused', clock.left != null && left > 0);
+	if (left <= 0 && !clock.done) { clock.done = true; sound.timeup(); }
+}
+setInterval(tickClock, 200);
+main.addEventListener('click', e => { if (e.target.closest('.clock')) toggleClock(); });
+
+/* ---------- moving through the game ---------- */
+
+function go(delta) {
+	if (mode !== 'play') return;
+	if (peek) { peek = false; return render(); }
+	const st = STEPS[state.pos];
+	if (st.kind === 'final' && delta > 0) {
+		const total = state.teams.length;
+		if (revealed < total) {
+			revealed++;
+			if (revealed === total) { sound.win(); setTimeout(confetti, 150); }
+			else sound.pop();
+			return render();
+		}
+		return;
+	}
+	const next = Math.max(0, Math.min(STEPS.length - 1, state.pos + delta));
+	if (next === state.pos) return;
+	state.pos = next;
+	save();
+	render();
+	const now = STEPS[state.pos];
+	if (delta > 0 && now.kind === 'intro') sound.round();
+	if (delta > 0 && now.kind === 'down') sound.pencil();
+}
+
+/* ---------- jumping to a round ---------- */
+
+// One entry for the start of each round's questions, one for the start of its
+// answers, then the tie-breaker and the final standings. Values are step
+// indexes, so a jump is just a new position.
+function buildJump() {
+	const sel = $('#jump');
+	const opts = [];
+	GAME.rounds.forEach((r, ri) => {
+		const name = plain(r.title.replace(/<[^>]+>/g, ''));
+		opts.push([STEPS.findIndex(s => s.kind === 'intro' && s.r === ri), `Round ${ri + 1} · ${name}`]);
+		opts.push([STEPS.findIndex(s => s.kind === 'a' && s.r === ri && s.i === 0), `Round ${ri + 1} · answers`]);
+	});
+	if (GAME.tiebreak) opts.push([STEPS.findIndex(s => s.kind === 'tq'), 'Tie-breaker']);
+	opts.push([STEPS.findIndex(s => s.kind === 'final'), 'Final standings']);
+	sel.innerHTML = opts.map(([i, label]) => `<option value="${i}">${esc(label)}</option>`).join('');
+	sel.addEventListener('change', () => {
+		peek = false;
+		const m = $('.modal', main);
+		if (m) m.remove();
+		state.pos = Number(sel.value);
+		save();
+		sel.blur();          // so Space and the arrows drive the game again, not the menu
+		render();
+		if (STEPS[state.pos].kind === 'intro') sound.round();
+	});
+}
+// Show the section the game is in: the last menu entry at or before this step.
+function syncJump() {
+	const sel = $('#jump');
+	let pick = sel.options[0];
+	for (const o of sel.options) if (Number(o.value) <= state.pos) pick = o;
+	if (pick) sel.value = pick.value;
+}
+
+/* ---------- the scores table ---------- */
+
+function openScores() {
+	if (mode !== 'play' || $('.modal', main)) return;
+	const tb = GAME.tiebreak;
+	const head = GAME.rounds.map((r, ri) => `<th>R${ri + 1}<small>${plain(r.title.replace(/<[^>]+>/g, ''))} · /${num(r.max)}</small></th>`).join('');
+	const rows = state.teams.map((t, ti) => `
+		<tr data-ti="${ti}">
+			<td class="team" style="${teamVar(ti)}">${esc(t.name)}</td>
+			${GAME.rounds.map((r, ri) => `<td>
+				<input type="number" min="0" max="${r.max}" step="0.5" inputmode="decimal" data-ri="${ri}" value="${score(ri, ti) ?? ''}" aria-label="${esc(t.name)}, round ${ri + 1}">${r.joker
+					? `<button type="button" class="joker${state.jokers[ti] === ri ? ' on' : ''}" data-ri="${ri}" title="Joker: this round counts ×${GAME.jokerMultiplier}">×${GAME.jokerMultiplier}</button>` : ''}
+			</td>`).join('')}
+			${tb ? `<td><input class="guess" type="number" step="any" inputmode="decimal" value="${state.tiebreak[ti] ?? ''}" aria-label="${esc(t.name)}, tie-breaker guess"></td>` : ''}
+			<td class="total"></td>
+		</tr>`).join('');
+	const modal = document.createElement('div');
+	modal.className = 'modal';
+	modal.setAttribute('role', 'dialog');
+	modal.setAttribute('aria-label', 'Scores');
+	modal.innerHTML = `
+		<h2>Scores</h2>
+		<p class="hint">Type each team’s marked score for a round; blank means not marked yet. ${GAME.jokers ? `×${GAME.jokerMultiplier} is the team’s joker: one round each. ` : ''}Totals update as you type.</p>
+		<table class="scores">
+			<thead><tr><th>Team</th>${head}${tb ? `<th>Tie-breaker<small>answer ${esc(plain(tb.a.replace(/<[^>]+>/g, '')))}</small></th>` : ''}<th>Total</th></tr></thead>
+			<tbody>${rows}</tbody>
+		</table>
+		<div class="actions">
+			<button type="button" class="btn" id="peek-btn">Show standings</button>
+			<button type="button" class="btn big primary" id="done-btn">Done<kbd>esc</kbd></button>
+		</div>`;
+	main.append(modal);
+
+	const totals = () => {
+		const list = standings();
+		modal.querySelectorAll('tbody tr').forEach(tr => {
+			const x = list.find(l => l.ti === Number(tr.dataset.ti));
+			$('.total', tr).textContent = num(x.total);
+		});
+	};
+	modal.querySelectorAll('tbody tr').forEach(tr => {
+		const ti = Number(tr.dataset.ti);
+		tr.querySelectorAll('input[data-ri]').forEach(inp => inp.addEventListener('input', () => {
+			const v = parseFloat(inp.value);
+			const k = `${inp.dataset.ri}-${ti}`;
+			if (Number.isNaN(v)) delete state.scores[k]; else state.scores[k] = v;
+			save(); totals();
+		}));
+		tr.querySelectorAll('.joker').forEach(btn => btn.addEventListener('click', () => {
+			const ri = Number(btn.dataset.ri);
+			if (state.jokers[ti] === ri) delete state.jokers[ti]; else state.jokers[ti] = ri;
+			tr.querySelectorAll('.joker').forEach(b => b.classList.toggle('on', state.jokers[ti] === Number(b.dataset.ri)));
+			save(); totals();
+		}));
+		const guess = $('input.guess', tr);
+		if (guess) guess.addEventListener('input', () => {
+			const v = parseFloat(guess.value);
+			if (Number.isNaN(v)) delete state.tiebreak[ti]; else state.tiebreak[ti] = v;
+			save();
+		});
+	});
+	totals();
+	$('#done-btn', modal).addEventListener('click', closeScores);
+	$('#peek-btn', modal).addEventListener('click', () => { closeScores(); peek = true; render(); });
+	const first = modal.querySelector('input');
+	if (first) first.focus();
+}
+function closeScores() {
+	const m = $('.modal', main);
+	if (m) m.remove();
+	render();
+}
+
+/* ---------- setup ---------- */
+
+function showSetup() {
+	mode = 'setup';
+	peek = false;
+	document.body.classList.add('pregame');
+	where.textContent = '';
+	const saved = state && (state.pos > 0 || Object.keys(state.scores).length > 0);
+	if (state) setupCount = Math.min(10, Math.max(2, state.teams.length));
+	const names = Array.from({ length: 10 }, (_, i) => (state && state.teams[i] && state.teams[i].name) || `Team ${i + 1}`);
+	main.innerHTML = `<section class="screen">
+		<div class="setup">
+			<p class="eyebrow">${GAME.eyebrow}</p>
+			<h1>${GAME.title}</h1>
+			${GAME.subtitle ? `<p class="sub">${GAME.subtitle}</p>` : ''}
+			<div class="count" role="group" aria-label="Number of teams">
+				<span class="label">Teams</span>
+				${[2, 3, 4, 5, 6, 7, 8, 9, 10].map(n => `<button type="button" class="chip${n === setupCount ? ' on' : ''}" data-n="${n}">${n}</button>`).join('')}
+			</div>
+			<div class="names">
+				${names.map((n, i) => `<input type="text" maxlength="24" aria-label="Team ${i + 1} name" style="${teamVar(i)}" value="${esc(n)}" ${i >= setupCount ? 'hidden' : ''}>`).join('')}
+			</div>
+			<div class="actions">
+				${saved ? '<button type="button" class="btn big primary" id="resume">Resume game</button>' : ''}
+				<button type="button" class="btn big${saved ? '' : ' primary'}" id="start">${saved ? 'Start over' : 'Start'}</button>
+			</div>
+			<p class="hint">Space or → goes forward · ← goes back · S scores · T timer · F full screen · M mute · print the answer sheets before class</p>
+		</div>
+	</section>`;
+	main.querySelectorAll('.count .chip').forEach(ch => ch.addEventListener('click', () => {
+		setupCount = Number(ch.dataset.n);
+		main.querySelectorAll('.count .chip').forEach(c => c.classList.toggle('on', Number(c.dataset.n) === setupCount));
+		main.querySelectorAll('.names input').forEach((inp, i) => { inp.hidden = i >= setupCount; });
+	}));
+	const typed = () => [...main.querySelectorAll('.names input')].map((inp, i) => inp.value.trim() || `Team ${i + 1}`);
+	const resume = $('#resume', main);
+	// Resuming keeps the teams and scores; only renames carry over.
+	if (resume) resume.addEventListener('click', () => {
+		const names = typed();
+		state.teams.forEach((t, i) => { t.name = names[i]; });
+		state.pos = Math.min(state.pos, STEPS.length - 1);
+		save(); play();
+	});
+	$('#start', main).addEventListener('click', () => {
+		state = fresh(typed().slice(0, setupCount));
+		save(); play();
+		sound.round();
+	});
+}
+function play() {
+	mode = 'play';
+	document.body.classList.remove('pregame');
+	render();
+}
+
+/* ---------- answer sheets ---------- */
+
+function renderSheets() {
+	const n = GAME.rounds.length;
+	const last = n - 1;
+	const pages = GAME.rounds.map((r, ri) => `
+		<section class="sheet">
+			<header>
+				<div><p class="kicker">${plain(GAME.title.replace(/<[^>]+>/g, ''))} · Round ${ri + 1} of ${n}</p><h3>${r.title}</h3></div>
+				<p class="pts">${r.questions.length} questions · up to ${pts(r.max)}</p>
+			</header>
+			<div class="fill">
+				<span>Team</span><span class="line"></span>
+				${r.joker ? `<span class="jk"><span class="box"></span>Joker<small>×${GAME.jokerMultiplier} this round · once a game · tick before question 1</small></span>` : ''}
+			</div>
+			${r.bank.length ? `<p class="bank-print">Choose from: ${r.bank.join(' · ')}</p>` : ''}
+			<ol>
+				${r.questions.map((q, i) => r.printQuestions
+					? `<li class="long"><p class="qtext"><b>${i + 1}.</b> ${q.q} <i>(${pts(q.points)})</i></p><div class="write"></div></li>`
+					: r.answerLines > 1
+						? `<li class="multi">${Array.from({ length: r.answerLines }, (_, k) => `<div class="rule">${k === 0 ? `<span class="n">${i + 1}</span>` : ''}</div>`).join('')}</li>`
+						: `<li><span class="n">${i + 1}</span></li>`).join('')}
+			</ol>
+			${ri === last && GAME.tiebreak ? `<div class="tiebreak"><span><b>Tie-breaker:</b> ${GAME.tiebreak.q}</span><span class="line"></span></div>` : ''}
+		</section>`).join('');
+	$('#sheets').innerHTML = `
+		<div class="sheets-bar">
+			<span>One page per round. Print a set for each team${state ? ` (${state.teams.length} teams)` : ''}.</span>
+			<button type="button" class="btn primary" id="print-btn">Print</button>
+			<button type="button" class="btn" id="sheets-back">Back to the game</button>
+		</div>
+		${pages}`;
+	$('#print-btn').addEventListener('click', () => window.print());
+	$('#sheets-back').addEventListener('click', hideSheets);
+}
+function showSheets() {
+	if (!GAME) return;
+	renderSheets();
+	document.body.classList.add('sheets');
+	scrollTo(0, 0);
+}
+function hideSheets() {
+	document.body.classList.remove('sheets');
+	if (location.search.includes('sheets')) history.replaceState(null, '', location.pathname);
+	if (mode === 'play') render();
+}
+
+/* ---------- confetti ---------- */
+
+function confetti() {
+	if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+	const cv = $('#confetti'), g = cv.getContext('2d');
+	const W = cv.width = innerWidth, H = cv.height = innerHeight;
+	const bits = Array.from({ length: 180 }, () => ({
+		x: Math.random() * W, y: -20 - Math.random() * H * .6,
+		vx: (Math.random() - .5) * 3, vy: 2 + Math.random() * 3.5,
+		r: Math.random() * Math.PI, vr: (Math.random() - .5) * .25,
+		w: 6 + Math.random() * 8, h: 4 + Math.random() * 6,
+		c: COLORS[Math.floor(Math.random() * 4)]
+	}));
+	const t0 = performance.now();
+	(function frame(t) {
+		g.clearRect(0, 0, W, H);
+		bits.forEach(b => {
+			b.x += b.vx; b.y += b.vy; b.vy += .03; b.r += b.vr;
+			g.save(); g.translate(b.x, b.y); g.rotate(b.r);
+			g.fillStyle = b.c; g.fillRect(-b.w / 2, -b.h / 2, b.w, b.h * Math.cos(b.r * 2));
+			g.restore();
+		});
+		if (t - t0 < 6000) requestAnimationFrame(frame);
+		else g.clearRect(0, 0, W, H);
+	})(t0);
+}
+
+/* ---------- buttons and keys ---------- */
+
+$('#next-btn').addEventListener('click', () => go(1));
+$('#back-btn').addEventListener('click', () => go(-1));
+$('#scores-btn').addEventListener('click', openScores);
+$('#sheets-btn').addEventListener('click', showSheets);
+soundBtn.addEventListener('click', () => setMuted(!muted));
+$('#full-btn').addEventListener('click', toggleFull);
+// Two clicks, so a stray one doesn't wipe the scores. No confirm() dialog.
+let armed = null;
+newBtn.addEventListener('click', () => {
+	if (mode !== 'play') return;
+	if (armed) { clearTimeout(armed); armed = null; newBtn.classList.remove('armed'); newBtn.textContent = 'New game'; showSetup(); return; }
+	newBtn.classList.add('armed');
+	newBtn.textContent = 'Click again to reset';
+	armed = setTimeout(() => { armed = null; newBtn.classList.remove('armed'); newBtn.textContent = 'New game'; }, 3000);
+});
+
+function toggleFull() {
+	try {
+		if (document.fullscreenElement) document.exitFullscreen();
+		else document.documentElement.requestFullscreen();
+	} catch (e) { /* not available */ }
+}
+
+document.addEventListener('keydown', e => {
+	if (document.body.classList.contains('sheets')) { if (e.key === 'Escape') hideSheets(); return; }
+	if ($('.modal', main)) { if (e.key === 'Escape') { e.preventDefault(); closeScores(); } return; }
+	if (e.target.closest && e.target.closest('input, select, [contenteditable="true"]')) return;
+	if (e.metaKey || e.ctrlKey || e.altKey) return;
+	if (mode === 'play') {
+		if ([' ', 'Enter', 'ArrowRight', 'PageDown'].includes(e.key)) { e.preventDefault(); return go(1); }
+		if (['ArrowLeft', 'PageUp', 'Backspace'].includes(e.key)) { e.preventDefault(); return go(-1); }
+		if (e.key === 's' || e.key === 'S') { e.preventDefault(); return openScores(); }
+		if (e.key === 't' || e.key === 'T') { e.preventDefault(); return toggleClock(); }
+		if (peek && e.key === 'Escape') { peek = false; return render(); }
+	}
+	if (e.key === 'f' || e.key === 'F') toggleFull();
+	if (e.key === 'm' || e.key === 'M') setMuted(!muted);
+});
+
+let resizeTimer = null;
+addEventListener('resize', () => { clearTimeout(resizeTimer); resizeTimer = setTimeout(fitText, 120); });
+
+/* ---------- go ---------- */
+
+function fail(title, detail) {
+	mode = 'error';
+	document.body.classList.add('pregame');
+	main.innerHTML = `<section class="screen"><div class="setup">
+		<p class="eyebrow">Pub Trivia</p>
+		<h2 class="trouble">${esc(title)}</h2>
+		<pre class="detail">${esc(detail)}</pre>
+	</div></section>`;
+}
+
+async function boot() {
+	setMuted(muted);
+	let text;
+	try {
+		const res = await fetch('rounds.yml', { cache: 'no-cache' });
+		if (!res.ok) throw new Error(`The server answered ${res.status} ${res.statusText} for rounds.yml.`);
+		text = await res.text();
+	} catch (e) {
+		if (location.protocol === 'file:') {
+			return fail('Open this page through the site, not straight from the file.',
+				'Browsers won’t let a page opened from Finder read the rounds.yml beside it.\n\n' +
+				'Run   LC_ALL=en_US.UTF-8 bundle exec jekyll serve   in the site folder, then open\n' +
+				'http://localhost:4000' + location.pathname.replace(/^.*?(?=\/courses\/)/, '') + '\n\n' +
+				'or open the page on the live site.');
+		}
+		return fail('The questions didn’t load.', String(e.message || e));
+	}
+	let parsed;
+	try {
+		if (!window.jsyaml) throw new Error('The YAML reader (/assets/vendor/js-yaml-4.1.0/js-yaml.min.js) didn’t load.');
+		parsed = jsyaml.load(text);
+	} catch (e) {
+		return fail('rounds.yml has a mistake in it.', String(e.message || e));
+	}
+	const { game, problems } = build(parsed);
+	if (problems) return fail('rounds.yml loaded, but the game can’t be built from it.', problems.map(p => '• ' + p).join('\n'));
+	GAME = game;
+	STEPS = buildSteps();
+	buildJump();
+	$('#eyebrow').innerHTML = GAME.eyebrow;
+	if (location.search.includes('sheets')) showSheets();
+	showSetup();
+	document.fonts && document.fonts.ready.then(fitText);
+}
+
+boot();
+})();
+</script>
+</body>
+</html>

@@ -227,3 +227,12 @@ rather than the man.
 - "Compare 5.1" (Marx, conditions versus agency) and "Compare 3.1"
   (al-Bīrūnī naming his sources, Bede listing who told him what, as the
   neighbourhood for *isnād*) both check out.
+
+
+**The "Social history was already a century old" slide ran off the bottom,
+fixed 2026-10-06.** Its two `fade-in-then-out` blocks were not wrapped in a
+`.swap`, so they kept their height while hidden and pushed the takehome 34px
+past the 700px box (the failure the theme's header comment warns about). They
+now share one fading wrapper inside a `.swap` with the takehome. Text
+unchanged; `../../SLIDE-STYLE.md` still suggests cutting the lineage roster on
+this slide.

@@ -71,6 +71,9 @@
  *                    on a slide already near the fixed slide height
  *   .with-figure   — discussion-slide body variant: a small image in a
  *                    narrow left column beside the .question/.takehome
+ *     .with-figure.wide — review-deck variant: the picture is half the
+ *                    point, so the image column is wide and height-capped
+ *                    (first used by courses/making-history/slides/big-picture-review)
  *
  * Add `fragment` to any of the above to have it reveal on click, per
  * reveal.js convention. To have one fragment replace another in place
@@ -670,6 +673,37 @@ html, body, .reveal {
 /* The body column's first child sits flush with the top of the image. */
 .reveal .with-figure .body > :first-child {
 	margin-top: 0;
+}
+
+/* ---- .with-figure.wide : the picture as half the point ----
+   For a review slide that sets one claim beside the image that made it in
+   the first place. The column is wide and the image is capped in height, so
+   a tall portrait scales down instead of pushing the slide past the 960x700
+   box. The body is vertically centred against the picture. A credit goes in
+   a p.cite after the whole .with-figure block. */
+.reveal .with-figure.wide {
+	grid-template-columns: auto 1fr;   /* the image column fits the picture */
+	gap: 1.4em;
+	align-items: center;
+	margin-top: 0.4em;
+}
+
+/* Capped both ways: a landscape picture takes width, a portrait takes
+   height, and neither can crowd the text column out. */
+.reveal .with-figure.wide img {
+	width: auto;
+	height: auto;
+	max-width: 470px;
+	max-height: 380px;
+	margin: 0;
+}
+
+/* In this layout the text sits beside a picture, so it runs below the
+   quotation in size rather than above it, as .detail does on a title slide. */
+.reveal .with-figure.wide .body .detail {
+	font-size: 0.56em;
+	line-height: 1.45;
+	margin: 0.7em 0 0;
 }
 
 /* ---- .question : the one question a discussion slide turns on ----

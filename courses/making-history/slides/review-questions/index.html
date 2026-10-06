@@ -1,0 +1,312 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Making History Review Questions</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;800&family=JetBrains+Mono:wght@400;500&display=swap">
+<!--
+  Review questions for 8.1 (Weeks 1–7): each question on its own, then the
+  same question with its answer, then the next. A walkthrough to run beside
+  ../big-picture-review/, not a game. Cloned on 2026-10-06 from the pub trivia
+  in ../review-trivia/ (which stays as it was), without its scoring, teams,
+  answer sheets, timers or sound.
+
+    rounds.yml   every section, question, answer and source — edit this one
+    review.css   the look
+    index.html   this page
+
+  No front matter, so Jekyll copies all three as-is. The page reads rounds.yml
+  when it loads, which browsers refuse to do for a page opened straight from
+  Finder: open it through `bundle exec jekyll serve` or on the site. YAML is
+  parsed by the copy of js-yaml in /assets/vendor/.
+
+  Keys: Space, Enter or → (or a clicker) goes forward; ← goes back; Home goes
+  to the start; F is full screen. The menu in the bottom bar jumps to the
+  start of any section. The page remembers where it was, so a reload resumes.
+-->
+<link rel="stylesheet" href="review.css">
+<script src="/assets/vendor/js-yaml-4.1.0/js-yaml.min.js"></script>
+</head>
+<body>
+<div id="app">
+	<header class="bar">
+		<p class="eyebrow" id="eyebrow"></p>
+		<div class="tools">
+			<button class="btn" id="full-btn" type="button">Full screen</button>
+		</div>
+	</header>
+	<main id="main" aria-live="polite">
+		<section class="screen"><div class="setup"><p class="eyebrow">Loading questions…</p></div></section>
+	</main>
+	<nav class="nav" aria-label="Move through the questions">
+		<button class="btn" id="back-btn" type="button">← Back</button>
+		<div class="mid">
+			<span class="where" id="where"></span>
+			<select id="jump" aria-label="Jump to a section"></select>
+		</div>
+		<button class="btn primary" id="next-btn" type="button">Next →</button>
+	</nav>
+</div>
+
+<script>
+(() => {
+'use strict';
+
+// One saved place per page.
+const KEY = 'review-questions:' + location.pathname.replace(/index\.html$/, '');
+const $ = (sel, root = document) => root.querySelector(sel);
+const main = $('#main');
+const where = $('#where');
+
+let GAME = null;     // built from rounds.yml by boot()
+let STEPS = [];      // every screen in order
+let pos = 0;
+
+/* ---------- reading rounds.yml ---------- */
+
+// *italics* and **bold**, as in the decks; HTML passes through untouched.
+const md = s => s == null ? '' : String(s)
+	.replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>')
+	.replace(/\*([^*]+)\*/g, '<i>$1</i>');
+const plain = s => String(s == null ? '' : s).replace(/<[^>]+>/g, '').replace(/\*+/g, '');
+
+// Turn the parsed YAML into the review, or into a list of what is wrong with it.
+function build(y) {
+	const problems = [];
+	if (!y || typeof y !== 'object') return { problems: ['The file is empty, or is not a list of `key: value` lines.'] };
+	const rounds = Array.isArray(y.rounds) ? y.rounds : [];
+	if (!rounds.length) problems.push('There are no `rounds`.');
+	rounds.forEach((r, i) => {
+		const label = r && r.title ? `Section ${i + 1} (“${r.title}”)` : `Section ${i + 1}`;
+		if (!r || !r.title) problems.push(`${label} has no \`title\`.`);
+		const qs = r && Array.isArray(r.questions) ? r.questions : [];
+		if (!qs.length) problems.push(`${label} has no \`questions\`.`);
+		qs.forEach((q, j) => {
+			const at = `${label}, question ${j + 1},`;
+			if (!q || (!q.q && !(r && r.prompt))) problems.push(`${at} has no \`q\`, and the section has no \`prompt\` to use instead.`);
+			if (!q || q.a == null || q.a === '') problems.push(`${at} has no answer (\`a\`).`);
+			if (q && q.image && !q.image.src) problems.push(`${at} has an \`image\` with no \`src\`.`);
+		});
+	});
+	if (problems.length) return { problems };
+	return { game: {
+		eyebrow: md(y.eyebrow),
+		title: md(y.title || 'Review Questions'),
+		subtitle: md(y.subtitle),
+		rounds: rounds.map(r => ({
+			title: md(r.title),
+			intro: md(r.intro),
+			prompt: md(r.prompt),
+			bank: Array.isArray(r.bank) ? r.bank.map(md) : [],
+			questions: r.questions.map(q => ({
+				q: md(q.q),
+				a: md(q.a),
+				long: plain(q.a).length > 90,
+				accept: md(q.accept),
+				context: md(q.context ?? q.marking),
+				source: md(q.source),
+				image: q.image ? { src: String(q.image.src), alt: String(q.image.alt || ''), credit: md(q.image.credit) } : null
+			}))
+		}))
+	}};
+}
+
+function buildSteps() {
+	const s = [{ kind: 'title' }];
+	GAME.rounds.forEach((r, ri) => {
+		s.push({ kind: 'intro', r: ri });
+		r.questions.forEach((_, i) => s.push({ kind: 'q', r: ri, i }, { kind: 'a', r: ri, i }));
+	});
+	return s;
+}
+
+/* ---------- helpers ---------- */
+
+function esc(s) { return String(s).replace(/[&<>"]/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[ch]); }
+
+// Shrink a block of text until it fits its box.
+function fit(text, box, max, min = 16) {
+	if (!text || !box) return;
+	let size = max;
+	text.style.fontSize = size + 'px';
+	while (size > min && (text.offsetHeight > box.clientHeight || text.scrollWidth > box.clientWidth)) {
+		size -= 2;
+		text.style.fontSize = size + 'px';
+	}
+}
+function fitText() {
+	const text = $('.q-text', main), box = $('.q-box', main);
+	if (!text) return;
+	const hasFig = !!$('.has-fig', main);
+	const k = $('.answer', main) ? .62 : 1;     // smaller once the answer shares the screen
+	const max = Math.min(innerHeight * (hasFig ? .07 : .085), innerWidth * (hasFig ? .036 : .05)) * k;
+	fit(text, box, Math.round(max));
+}
+
+/* ---------- drawing a screen ---------- */
+
+function draw(html) {
+	main.innerHTML = `<section class="screen">${html}</section>`;
+	const img = $('.q-fig img', main);
+	if (img) {
+		const shape = () => { img.parentNode.classList.toggle('tall', img.naturalHeight > img.naturalWidth); fitText(); };
+		if (img.complete && img.naturalWidth) shape(); else img.addEventListener('load', shape);
+	}
+	fitText();
+}
+
+function render() {
+	const st = STEPS[pos];
+	const n = GAME.rounds.length;
+	$('#back-btn').disabled = pos === 0;
+	$('#next-btn').disabled = pos === STEPS.length - 1;
+	syncJump();
+
+	if (st.kind === 'title') {
+		const total = GAME.rounds.reduce((k, r) => k + r.questions.length, 0);
+		where.textContent = 'Start';
+		draw(`
+			<div class="card">
+				<p class="round-no">${GAME.eyebrow}</p>
+				<h2>${GAME.title}</h2>
+				${GAME.subtitle ? `<p class="intro">${GAME.subtitle}</p>` : ''}
+				<p class="meta">${n} sections · ${total} questions</p>
+			</div>`);
+	}
+
+	if (st.kind === 'intro') {
+		const r = GAME.rounds[st.r];
+		where.textContent = `${st.r + 1} of ${n}`;
+		draw(`
+			<div class="card">
+				<p class="round-no">${st.r + 1} of ${n}</p>
+				<h2>${r.title}</h2>
+				${r.intro ? `<p class="intro">${r.intro}</p>` : ''}
+				<p class="meta">${r.questions.length} questions</p>
+			</div>`);
+	}
+
+	if (st.kind === 'q' || st.kind === 'a') {
+		const r = GAME.rounds[st.r], q = r.questions[st.i];
+		const answering = st.kind === 'a';
+		where.textContent = `${st.r + 1} · ${answering ? 'answer' : 'question'} ${st.i + 1} of ${r.questions.length}`;
+		draw(`
+			<div class="head">
+				<span>${st.r + 1} · ${r.title}${answering ? ' · answer' : ''}</span>
+				<span><span class="num">${st.i + 1}</span> / ${r.questions.length}</span>
+			</div>
+			<div class="q-main${q.image ? ' has-fig' : ''}">
+				${q.image ? `<figure class="q-fig${q.q ? '' : ' alone'}"><img src="${esc(q.image.src)}" alt="${esc(q.image.alt)}">${answering && q.image.credit ? `<figcaption class="credit">${q.image.credit}</figcaption>` : ''}</figure>` : ''}
+				${q.q ? `<div class="q-box"><p class="q-text">${q.q}</p></div>` : ''}
+			</div>
+			${r.prompt ? `<p class="prompt">${r.prompt}</p>` : ''}
+			${r.bank.length && !answering ? `<p class="bank">${r.bank.map(b => `<span>${b}</span>`).join('')}</p>` : ''}
+			${answering ? `
+				<div class="answer">
+					<p class="resp${q.long ? ' long' : ''}">${q.a}</p>
+					${q.accept || q.source ? `<p class="meta">${q.accept ? `<span class="acc">Also: ${q.accept}</span>${q.source ? '<br>' : ''}` : ''}${q.source}</p>` : ''}
+					${q.context ? `<p class="context">${q.context}</p>` : ''}
+				</div>` : ''}`);
+	}
+}
+
+/* ---------- moving through ---------- */
+
+function go(to) {
+	const next = Math.max(0, Math.min(STEPS.length - 1, to));
+	if (next === pos) return;
+	pos = next;
+	try { localStorage.setItem(KEY, String(pos)); } catch (e) { /* storage off */ }
+	render();
+}
+
+// One entry per section, plus the start. Values are step indexes.
+function buildJump() {
+	const sel = $('#jump');
+	const opts = [[0, 'Start']];
+	GAME.rounds.forEach((r, ri) => opts.push([STEPS.findIndex(s => s.kind === 'intro' && s.r === ri), `${ri + 1} · ${plain(r.title)}`]));
+	sel.innerHTML = opts.map(([i, label]) => `<option value="${i}">${esc(label)}</option>`).join('');
+	sel.addEventListener('change', () => { go(Number(sel.value)); sel.blur(); });
+}
+function syncJump() {
+	const sel = $('#jump');
+	let pick = sel.options[0];
+	for (const o of sel.options) if (Number(o.value) <= pos) pick = o;
+	if (pick) sel.value = pick.value;
+}
+
+$('#next-btn').addEventListener('click', () => go(pos + 1));
+$('#back-btn').addEventListener('click', () => go(pos - 1));
+$('#full-btn').addEventListener('click', toggleFull);
+function toggleFull() {
+	try {
+		if (document.fullscreenElement) document.exitFullscreen();
+		else document.documentElement.requestFullscreen();
+	} catch (e) { /* not available */ }
+}
+
+document.addEventListener('keydown', e => {
+	if (!GAME) return;
+	if (e.target.closest && e.target.closest('input, select, [contenteditable="true"]')) return;
+	if (e.metaKey || e.ctrlKey || e.altKey) return;
+	if ([' ', 'Enter', 'ArrowRight', 'PageDown'].includes(e.key)) { e.preventDefault(); return go(pos + 1); }
+	if (['ArrowLeft', 'PageUp', 'Backspace'].includes(e.key)) { e.preventDefault(); return go(pos - 1); }
+	if (e.key === 'Home') { e.preventDefault(); return go(0); }
+	if (e.key === 'f' || e.key === 'F') toggleFull();
+});
+
+let resizeTimer = null;
+addEventListener('resize', () => { clearTimeout(resizeTimer); resizeTimer = setTimeout(fitText, 120); });
+
+/* ---------- go ---------- */
+
+function fail(title, detail) {
+	main.innerHTML = `<section class="screen"><div class="setup">
+		<p class="eyebrow">Review questions</p>
+		<h2 class="trouble">${esc(title)}</h2>
+		<pre class="detail">${esc(detail)}</pre>
+	</div></section>`;
+}
+
+async function boot() {
+	let text;
+	try {
+		const res = await fetch('rounds.yml', { cache: 'no-cache' });
+		if (!res.ok) throw new Error(`The server answered ${res.status} ${res.statusText} for rounds.yml.`);
+		text = await res.text();
+	} catch (e) {
+		if (location.protocol === 'file:') {
+			return fail('Open this page through the site, not straight from the file.',
+				'Browsers won’t let a page opened from Finder read the rounds.yml beside it.\n\n' +
+				'Run   LC_ALL=en_US.UTF-8 bundle exec jekyll serve   in the site folder, then open\n' +
+				'http://localhost:4000' + location.pathname.replace(/^.*?(?=\/courses\/)/, '') + '\n\n' +
+				'or open the page on the live site.');
+		}
+		return fail('The questions didn’t load.', String(e.message || e));
+	}
+	let parsed;
+	try {
+		if (!window.jsyaml) throw new Error('The YAML reader (/assets/vendor/js-yaml-4.1.0/js-yaml.min.js) didn’t load.');
+		parsed = jsyaml.load(text);
+	} catch (e) {
+		return fail('rounds.yml has a mistake in it.', String(e.message || e));
+	}
+	const { game, problems } = build(parsed);
+	if (problems) return fail('rounds.yml loaded, but the questions can’t be built from it.', problems.map(p => '• ' + p).join('\n'));
+	GAME = game;
+	STEPS = buildSteps();
+	$('#eyebrow').innerHTML = GAME.eyebrow;
+	buildJump();
+	try { pos = Math.min(STEPS.length - 1, Math.max(0, parseInt(localStorage.getItem(KEY), 10) || 0)); } catch (e) { pos = 0; }
+	render();
+	document.fonts && document.fonts.ready.then(fitText);
+}
+
+boot();
+})();
+</script>
+</body>
+</html>

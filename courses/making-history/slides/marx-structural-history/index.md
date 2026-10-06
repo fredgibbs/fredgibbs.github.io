@@ -568,7 +568,7 @@ Marx's history of what had just happened in France: how the revolution of 1848 p
 ###### A paradox inside the motor
 {: .label}
 
-Green and Troup: the dialectic of change "is, nonetheless, dependent upon the consciousness and actions of men and women" (p. 36). **The structure changes only when people act.**
+Green and Troup: the dialectic of change "is, nonetheless, dependent upon the consciousness and actions of men and women" (p. 36). **The change depends on what people think and do.**
 </div>
 </div>
 </section>
@@ -692,7 +692,7 @@ Production, then classes, contradiction, and an "inevitable" next stage. Checkab
 
 #### The problem
 
-"Men make their own history, but they do not make it just as they please." The structure changes only when people act.
+"Men make their own history, but they do not make it just as they please." The change still depends on what people think and do.
 </div>
 <div class="card" markdown="1">
 

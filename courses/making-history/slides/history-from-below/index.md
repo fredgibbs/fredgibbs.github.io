@@ -241,22 +241,26 @@ Part one · before the 1960s
 <div class="cite">Maza, p. 15 — her examples are the Bastille and the Winter Palace</div>
 </div>
 
-<div class="reveal-block historical fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
+<div class="swap" markdown="1">
+<div class="fragment fade-in-then-out" data-fragment-index="1" markdown="1">
+<div class="reveal-block historical compact" markdown="1">
 
 ###### The lineage
 {: .label}
 
 France from the 1820s: Thiers and Michelet made "the people" the movers of 1789. England: Macaulay (1848), then his great-nephew Trevelyan (Maza, p. 14).
 </div>
-<div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="1" markdown="1">
+<div class="reveal-block argument compact" markdown="1">
 
 ###### The catch
 {: .label}
 
 That tradition was "clearly subordinate and accessory to political history": the social chapter is scenery, and the action on stage is still the politics (Maza, pp. 14–15).
 </div>
+</div>
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 The same idea as the opening slide. Hunt is named, the Female Reformers are thanked as a group, and sixty thousand people are a crowd, not individual people with lives.
+</div>
 </div>
 </section>
 

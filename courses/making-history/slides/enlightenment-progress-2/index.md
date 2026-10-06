@@ -135,7 +135,7 @@ Voltaire 01 · The Introduction
 ###### The list, and the test for making it
 {: .label}
 
-Greece under "Philip and Alexander." Rome under Caesar and Augustus. Medici Florence. And "the fourth age is that known by the name of the age of Louis XIV" — his own lifetime, named as one of only four peaks in recorded history (pp. 5–7). The test for entry is not military success. It's whether "the arts were carried to perfection."
+Greece under "Philip and Alexander." Rome under Caesar and Augustus. Medici Florence. And "the fourth age is that known by the name of the age of Louis XIV" — an age that ended when he was twenty, named as one of only four peaks in recorded history (pp. 5–7). The test for entry is not military success. It's whether "the arts were carried to perfection."
 </div>
 <div class="reveal-block argument fragment fade-in-then-out compact" data-fragment-index="2" markdown="1">
 

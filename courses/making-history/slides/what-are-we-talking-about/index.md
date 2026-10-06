@@ -224,7 +224,7 @@ Part two · the trial record
 ###### The document
 {: .label}
 
-Ginzburg's source is an inquisition trial record — a state document of exactly the kind Ranke built his method on. Ranke could have read this file.
+Ginzburg's source is an inquisition trial record, the official record of a church tribunal. Ranke could have read this file.
 </div>
 
 <div class="reveal-block argument fragment compact" data-fragment-index="1" markdown="1">
@@ -330,10 +330,10 @@ Every writer we read decides which facts get the floor, and most of them believe
 Next · Week 9, after the break
 {: .eyebrow}
 
-## Nations were made on purpose, and recently
+## Many national traditions were invented, and recently
 {: .main-point}
 <div class="rule"></div>
 
-Nations feel ancient. Hobsbawm and Anderson argue they were invented, deliberately, within the last two centuries. Compare Kant's plan nobody alive could see, in 4.1.
+Nations feel ancient. Hobsbawm argues that many of their traditions were invented, often deliberately; Anderson calls nations imagined, not faked. Compare Kant's plan nobody alive could see, in 4.1.
 {: .detail}
 </section>
