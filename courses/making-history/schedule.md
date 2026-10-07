@@ -302,6 +302,7 @@ Share your well-informed thoughts about **scale and the cost of zooming in or ou
 
 - No readings before class
 - Today we focus on the discussion questions below as way of framing your Historian's Café assignment
+- [Big Picture Review Slides](slides/big-picture-review/)
 
 #### Discussion
 1. Is there any "progress" in historical writing? The course is structured as a sequence of "turns," each claiming to fix something the previous approach missed. Ranke corrects Voltaire's speculation; Marx corrects Ranke's elitism; Thompson corrects Marx's abstraction; Ginzburg corrects Thompson's anonymity. Are we now closer to the "truth", or just accumulating competing frameworks? 
@@ -311,7 +312,7 @@ Livy wants moral examples. Voltaire wants civilizational lessons. Ranke wants tr
 
 
 {% include alert.html class='danger' title='Historians Café due' text="
-Submit your [Historians Café](historians-cafe) assignment BEFORE MIDNIGHT!
+Submit your [Historians Café](historians-cafe) assignment BEFORE MIDNIGHT WEDNESDAY!
 "%}
 
 
