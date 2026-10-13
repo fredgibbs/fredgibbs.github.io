@@ -327,7 +327,7 @@ National histories feel ancient and natural — but most of them were built quit
 ### 9.1:  Inventing Nations
 National histories feel ancient and inevitable, but most were actively constructed — often quite recently — to make a political point. This session introduces the key idea that many "traditional" features of national identity were invented and then naturalized.
 
-<!-- - Slides of [Inventing Nations](slides/inventing-nations/) -->
+- Slides about [Inventing Nations](slides/inventing-nations/)
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 2: "The History of Where?," 45--82. Maza's accessible overview describes how historians have thought about nationalism and national identity.
 - 📜 Benedict Anderson, *Imagined Communities* (1983), Introducion (pp. 1--7). Anderson argues that nations are *imagined* — not fake, but constructed through shared stories, print media, and collective memory. A foundational text. 
 - 📜 Partha Chatterjee, "Whose Imagined Community?" in *The Nation and Its Fragments* (Princeton, 1993), Ch. 1, ~15 pp. Chatterjee responds to Anderson directly from a postcolonial perspective: if colonized peoples' nationalisms simply followed the European model Anderson describes, why did anti-colonial movements look so different? 
@@ -347,7 +347,6 @@ Western narratives of progress assumed their own universality — and that assum
 
 
 #### Discussion
-- How does Adichie's "single story" connect to Enlightenment progress narratives?
 - What does Said mean by "Orientalism"? How does his argument extend beyond the Middle East?
 - According to Trouillot, where does silencing happen? Is it intentional?
 - Why was the Haitian Revolution "unthinkable" — and what does that tell us about whose past gets written?
@@ -356,7 +355,7 @@ Western narratives of progress assumed their own universality — and that assum
 
 
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. 
 "%}
 
 ## 10: Linguistic Turn + LLMs

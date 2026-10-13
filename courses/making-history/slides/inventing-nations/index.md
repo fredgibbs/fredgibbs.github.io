@@ -118,7 +118,7 @@ Said: describing and teaching "the Orient" was one of the ways the West ruled it
 <img src="images/holy-roman-empire-1789.jpg" alt="A color map of central Europe in 1789 cut into hundreds of patches: large orange Habsburg lands in the south-east, blue Prussian lands in the north-east, and a dense scatter of small purple church territories and red free cities in between, inside a dotted red border">
 <figcaption markdown="span">
 The Holy Roman Empire in 1789
-<em>Some three hundred territories, among them bishoprics (purple) and free cities (red). Maza warns against reading it as a jigsaw waiting for Bismarck (p. 46).<br>(Robert Alfers, after Putzger, 2008. Wikimedia Commons, CC BY-SA 3.0.)</em>
+<em>Some three hundred territories, among them bishoprics (purple) and free cities (red). Maza questions the picture of Germany as jigsaw pieces "popped into place" by Bismarck (p. 46); this is what was there before.<br>(Robert Alfers, after Putzger, 2008. Wikimedia Commons, CC BY-SA 3.0.)</em>
 </figcaption>
 </figure>
 </section>
@@ -213,6 +213,17 @@ The age of revolutions · 1776–1820s
 </div>
 </section>
 
+<!-- ========== IMAGE: FESTIVAL OF FEDERATION 1790 ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="landscape">
+<img src="images/fete-federation-1790.jpg" alt="A crowded oil painting of a vast open-air amphitheater: tiers of spectators, rows of soldiers with tricolor banners, mounted officers, and in the foreground men in uniform embracing and swearing an oath beside a woman in white">
+<figcaption markdown="span">
+Charles Thévenin, <i>La Fête de la Fédération</i> ("The Festival of the Federation"), 1792
+<em>July 1790: for Maza, nations were born through "repudiation and commemoration." The revolutionaries named the past the "Old Regime," began a new calendar, and gathered "hundreds of thousands" for "the first of many such celebrations of the new order" (p. 54). They swore to the nation, the law and the king, in that order.<br>(Musée Carnavalet. CC0.)</em>
+</figcaption>
+</figure>
+</section>
+
 <!-- ========== NATIONAL HISTORIES ========== -->
 <section markdown="1">
 The nineteenth century · national histories
@@ -243,17 +254,6 @@ The nineteenth century · the profession
 "It was natural, if not inevitable, for the first generations of 'professional' historians to focus on, and usually celebrate, the history of their respective nations."
 <div class="cite">Maza, <i>Thinking About History</i>, pp. 48–49</div>
 </div>
-</section>
-
-<!-- ========== IMAGE: RANKE ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="images/ranke-jebens-portrait-1875.jpg" alt="Painted portrait of a very old man with white hair, seated in a carved wooden chair, wrapped in a dark cloak over a buttoned coat, with two star-shaped decorations pinned to his chest">
-<figcaption markdown="span">
-Leopold von Ranke · 1795–1886
-<em>He taught at Berlin from 1825 into the 1870s, training historians in archives and seminars. In 1841 the king named him historiographer of the Prussian state; he wrote a German history of the Reformation and nine books of Prussian history.<span class="why"><strong>Why he matters:</strong> he did not write only national history, but most of his German students did, and backed German unification (Popkin, <i>From Herodotus to H-Net</i>, p. 88).</span>(Adolf Jebens, 1875. Public domain.)</em>
-</figcaption>
-</figure>
 </section>
 
 <!-- ========== RANKE'S NATIONS ========== -->
@@ -313,17 +313,25 @@ Part two · 1914
 
 <!-- ========== AFTER 1914: DENATURALIZING ========== -->
 <section markdown="1">
-1914 to the 1980s · denaturalizing
+After 1914 · doubts
 {: .eyebrow}
 
-## The century after 1914 led historians to ask how nations were made
+## After the wars and the end of empire, nationalism stopped looking natural
 {: .main-point}
 
 ---
 
 <div class="quote" markdown="1">
-"These developments in the public world have been mirrored in the academic world by scholarly trends toward 'denaturalizing' nationhood, that is, exposing its artificiality by looking at how and why this particular way of conceiving of human communities came about."
-<div class="cite">Maza, <i>Thinking About History</i>, p. 51</div>
+"Extreme nationalism was tainted in the mid-twentieth century by its association with murderously repressive regimes in Spain, Italy, Japan, and especially Germany. And in subsequent decades, critics of the West began to point out that standard concepts of the nation and nationalism were Euro-American inventions arbitrarily imposed upon colonized peoples."
+<div class="cite">Maza, <i>Thinking About History</i>, p. 50</div>
+</div>
+
+<div class="reveal-block unpack compact fragment" data-fragment-index="1" markdown="1">
+
+###### Then, in the academy
+{: .label}
+
+Scholars turned to "'denaturalizing' nationhood, that is, exposing its artificiality by looking at how and why this particular way of conceiving of human communities came about" (p. 51).
 </div>
 </section>
 
@@ -370,12 +378,28 @@ Anderson · 1983
 </div>
 </section>
 
-<!-- ========== ANDERSON'S ANSWER, IN MAZA'S ACCOUNT ========== -->
+<!-- ========== ANDERSON'S MECHANISM: PRINT CAPITALISM ========== -->
 <section markdown="1">
-Anderson · 1983
+Anderson · 1983 · how
 {: .eyebrow}
 
-## His answer: nations took over religion's work of linking the dead and the unborn
+## His mechanism: print capitalism let strangers read the same news on the same day
+{: .main-point}
+
+---
+
+<div class="quote" markdown="1">
+"Nationalism might be visceral and idealistic, Anderson argues, but it grew out of eighteenth- and nineteenth-century technological and commercial developments such as the 'print capitalism' that gave us the daily national newspaper. Readers who consume the same information, the same day, in a language particular to their country, are constantly made aware of the existence of others to whom they are virtually connected by such time- and space-bound rituals."
+<div class="cite">Maza, <i>Thinking About History</i>, p. 51, summarizing Anderson (chs. 3–4 of <i>Imagined Communities</i>, outside today's reading)</div>
+</div>
+</section>
+
+<!-- ========== ANDERSON'S ANSWER, IN MAZA'S ACCOUNT ========== -->
+<section markdown="1">
+Anderson · 1983 · why
+{: .eyebrow}
+
+## His second answer: nations took over religion's work of linking the dead and the unborn
 {: .main-point}
 
 ---
@@ -446,7 +470,7 @@ Queen Victoria's Diamond Jubilee procession passes the National Gallery, London,
 <img src="images/constitution-1889.jpg" alt="A three-panel color woodblock print: under huge white chrysanthemum crests, a bearded emperor in Western military uniform stands before a throne and hands a document to an official facing him, flanked by ministers in sashes and court ladies in Western bustle dresses">
 <figcaption markdown="span">
 Toyohara Chikanobu, <i>Kenpō happu shiki no zu</i> ("Illustration of the Ceremony Issuing the Constitution"), 1889
-<em>In Western uniform, the emperor hands the constitution to his prime minister in the new palace: for Maza, part of a "centuries-old" cult built late in the century (pp. 52–53).<br>(Metropolitan Museum of Art. CC0.)</em>
+<em>Maza: Japanese elites, "inspired by Western developments," built the "centuries-old" cult of the emperor, with a palace in 1889, new ceremonies and imperial tours; before Meiji, most people had only vague ideas of him (pp. 52–53). Here the emperor, in Western uniform, hands the constitution to his prime minister in the new palace.<br>(Metropolitan Museum of Art. CC0.)</em>
 </figcaption>
 </figure>
 </section>
@@ -483,15 +507,36 @@ Memory · 1882
 </div>
 </section>
 
-<!-- ========== IMAGE: FESTIVAL OF FEDERATION 1790 ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="landscape">
-<img src="images/fete-federation-1790.jpg" alt="A crowded oil painting of a vast open-air amphitheater: tiers of spectators, rows of soldiers with tricolor banners, mounted officers, and in the foreground men in uniform embracing and swearing an oath beside a woman in white">
-<figcaption markdown="span">
-Charles Thévenin, <i>La Fête de la Fédération</i> ("The Festival of the Federation"), 1792
-<em>July 1790: "hundreds of thousands gathered from across the nation" for "the first of many such celebrations of the new order" (Maza, p. 54), and swore to the nation, the law and the king, in that order.<br>(Musée Carnavalet. CC0.)</em>
-</figcaption>
-</figure>
+<!-- ========== WAR REMEMBRANCE ========== -->
+<section markdown="1">
+After 1914 · war memorials
+{: .eyebrow}
+
+## Since the Great War, memorials name ordinary soldiers as the proof of the nation
+{: .main-point}
+
+---
+
+<div class="quote compact" markdown="1">
+"the sheer number of the dead . . . provide a visceral demonstration that the ultimate proof of the nation's existence is the purposeful mass sacrifice of 'ordinary heroes' on the battlefield."
+<div class="cite">Maza, <i>Thinking About History</i>, p. 55</div>
+</div>
+
+<div class="reveal-block historical compact fragment fade-in-then-out" data-fragment-index="1" markdown="1">
+
+###### Before the twentieth century
+{: .label}
+
+Rulers like Alexander and Frederick the Great "won" the battles. The Great War was "a watershed in the democratization of national remembrance": governments began recording the names of the ordinary dead (p. 54).
+</div>
+
+<div class="reveal-block compare compact fragment" data-fragment-index="2" markdown="1">
+
+###### Compare · Anderson
+{: .label}
+
+His question was why such recent communities generate "such colossal sacrifices" (p. 7). Memorials make the answer visible.
+</div>
 </section>
 
 <!-- ========== IMAGE: GETTYSBURG 1913 ========== -->
@@ -506,7 +551,7 @@ Veterans shake hands across the wall at the Angle, Gettysburg, July 1913
 </section>
 
 <!-- ================================================================ -->
-<!-- ====== PART THREE: FROM THE COLONIES, MAZA PP. 77–81 ============= -->
+<!-- ====== PART THREE: FROM THE COLONIES, MAZA PP. 77–81, THEN CHATTERJEE ============= -->
 <!-- ================================================================ -->
 
 <!-- ========== PART THREE: EUROPE AS THE YARDSTICK ========== -->
@@ -525,23 +570,38 @@ Part three · from the colonies
 </div>
 </section>
 
-<!-- ========== IMAGE: CHATTERJEE ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="images/chatterjee-fukuoka.jpg" alt="A color photograph of a bald man with a gray beard and glasses, in a dark jacket over an open-collared shirt, speaking and gesturing at a seminar table, with bookshelves behind him and paper cups in front">
-<figcaption markdown="span">
-Partha Chatterjee · b. 1947
-<em>A political theorist and historian of colonial India, at the Centre for Studies in Social Sciences, Calcutta, and at Columbia; one of the Subaltern Studies group. He takes his examples from Bengal, "with whose history I am most familiar" (p. 218).<span class="why"><strong>Why he matters:</strong> he finds anti-colonial nationalism at work in culture well before it fought for the state.</span>(At a seminar in Japan; Fukuoka Prize, laureate page, 2009; cropped. Used for teaching.)</em>
-</figcaption>
-</figure>
-</section>
-
-<!-- ========== CHATTERJEE'S OBJECTION ========== -->
+<!-- ========== CHATTERJEE: WHAT HE ACCEPTS ========== -->
 <section markdown="1">
-Chatterjee · 1993
+Chatterjee · 1993 · agreement
 {: .eyebrow}
 
-## Chatterjee answered Anderson: the colonized did not simply copy Europe's model
+## Chatterjee accepts Anderson's starting point: nations are imagined, and the state came from Europe
+{: .main-point}
+
+---
+
+<div class="cards" markdown="1">
+<div class="card" markdown="1">
+
+#### Nations are imagined
+
+He builds on Anderson's concept and does not try to overturn it.
+</div>
+<div class="card" markdown="1">
+
+#### The state form came from Europe
+
+The nation-state took shape in Europe and the Americas, and colonial rule carried it to Asia and Africa.
+</div>
+</div>
+</section>
+
+<!-- ========== CHATTERJEE: WHAT HE DISPUTES ========== -->
+<section markdown="1">
+Chatterjee · 1993 · disagreement
+{: .eyebrow}
+
+## He disputes that the colonized could only copy the model Anderson calls "modular"
 {: .main-point}
 
 ---
@@ -550,19 +610,46 @@ Chatterjee · 1993
 "If nationalisms in the rest of the world have to choose their imagined community from certain 'modular' forms already made available to them by Europe and the Americas, what do they have left to imagine?"
 <div class="cite">Chatterjee, "Whose Imagined Community?", p. 216</div>
 </div>
+
+<div class="reveal-block argument compact fragment" data-fragment-index="1" markdown="1">
+
+###### Where they part
+{: .label}
+
+Anderson's story is a European one that the rest of the world joins late. For Chatterjee that leaves the colonized only a copy to make.
+</div>
 </section>
 
-<!-- ========== BENGAL: TWO DOMAINS ========== -->
+<!-- ========== CHATTERJEE: HIS ALTERNATIVE ========== -->
 <section markdown="1">
-Bengal · 1850s–1900s
+Chatterjee · 1993 · alternative
 {: .eyebrow}
 
-## In Bengal, nationalists copied the West's state and remade their own culture
+## His alternative: the colonized imagined a nation of their own before they held the state
 {: .main-point}
 
 ---
 
-<div class="quote" markdown="1">
+<div class="cards" markdown="1">
+<div class="card" markdown="1">
+
+###### Outer domain
+
+#### State, economy, science
+
+The colonizer held it, so nationalists learned Western methods here.
+</div>
+<div class="card" markdown="1">
+
+###### Inner domain
+
+#### Home, language, religion, the arts
+
+They claimed it as the place where the nation was already sovereign, and kept it distinct from the West.
+</div>
+</div>
+
+<div class="quote compact fragment" data-fragment-index="1" markdown="1">
 "The greater one's success in imitating Western skills in the material domain, therefore, the greater the need to preserve the distinctness of one's spiritual culture."
 <div class="cite">Chatterjee, "Whose Imagined Community?", p. 217</div>
 </div>
@@ -590,7 +677,7 @@ Maza, 2017 · looking back
 
 #### Made, and given a past
 
-Nations replaced dynasties as the source of power, and historians, Ranke's students among them, wrote each one a past.
+Nations replaced dynasties as the source of power, and historians such as Michelet, Macaulay and Bancroft wrote each one a past.
 </div>
 <div class="card" markdown="1">
 
@@ -627,7 +714,7 @@ Historians still work nation by nation, but have "long since lost our innocence 
 The take home
 {: .eyebrow}
 
-## History is hard to write without the nations historians helped make
+## Leaving the nation behind means giving up the stories that gave history its shape
 {: .main-point}
 
 ---
@@ -635,5 +722,100 @@ The take home
 <div class="quote" markdown="1">
 "There is a significant price to pay, however, for thinking outside of 'the nation' and 'modernity': it entails letting go of familiar stories (the 'rise,' 'development,' or 'triumph' of . . .), and possibly of any all-encompassing stories about the past whatsoever."
 <div class="cite">Maza, <i>Thinking About History</i>, p. 82</div>
+</div>
+</section>
+
+<!-- ================================================================ -->
+<!-- ====== DISCUSSION: WRAP-UP QUESTIONS ============================= -->
+<!-- ================================================================ -->
+
+<!-- ========== Q1: INVENTED TRADITION ========== -->
+<section markdown="1">
+Wrap-up · question 1
+{: .eyebrow}
+
+## What is an "invented tradition"? Can you think of examples from your own life?
+{: .main-point}
+
+---
+
+<div class="reveal-block unpack fragment" data-fragment-index="1" markdown="1">
+
+###### Ideas to keep in mind
+{: .label}
+
+- A practice that presents itself as ancient but was made recently, often on purpose
+- Repetition and ritual: flags, anthems, holidays, ceremonies, uniforms
+- Continuity is claimed, not inherited: a past is chosen to fit the present
+- Maza's examples: the Pledge, Columbus Day, jubilees, the Meiji emperor cult (pp. 52–53)
+</div>
+</section>
+
+<!-- ========== Q2: IMAGINED = FICTION? ========== -->
+<section markdown="1">
+Wrap-up · question 2
+{: .eyebrow}
+
+## Anderson says nations are "imagined." Does that make them fiction?
+{: .main-point}
+
+---
+
+<div class="reveal-block unpack fragment" data-fragment-index="1" markdown="1">
+
+###### Ideas to keep in mind
+{: .label}
+
+- "Imagined" is not "false": Anderson contrasts styles of imagining, not real and fake
+- Members never meet most of their fellow members, yet act as one community, linked by shared print such as the daily newspaper
+- Real in effect: "bureaucracies, armies, schools, laws, police forces, censuses, passports" (Maza, p. 52), and "colossal sacrifices" (Anderson, p. 7)
+- Made, not given: if a nation was made, it has a history we can ask about
+- What is fictional is the claim to deep roots: Maza speaks of "fictions of the modern nation's deep historical roots" (p. 52)
+</div>
+</section>
+
+<!-- ========== Q3: CHATTERJEE ========== -->
+<section markdown="1">
+Wrap-up · question 3
+{: .eyebrow}
+
+## Did colonized peoples follow Anderson's model?
+{: .main-point}
+
+---
+
+<div class="reveal-block argument fragment" data-fragment-index="1" markdown="1">
+
+###### Ideas to keep in mind
+{: .label}
+
+- Anderson's "modular" nation, available for copying, leaves the colonized nothing to imagine
+- Colonial rule already held the state, the economy and "modern" institutions
+- Two domains: the material and outer (state, science, economy) and the spiritual and inner (home, language, religion, culture)
+- They copied the West in the first and kept the second distinct: modern, but not Western
+- Nationalism begins before political power: in culture, well before the fight for the state
+</div>
+</section>
+
+<!-- ========== Q4: MAKING A NATION FEEL REAL ========== -->
+<section markdown="1">
+Wrap-up · question 4
+{: .eyebrow}
+
+## How does history make a nation feel real?
+{: .main-point}
+
+---
+
+<div class="reveal-block historical fragment" data-fragment-index="1" markdown="1">
+
+###### Ideas to keep in mind
+{: .label}
+
+- Giving the nation a past: national histories (Michelet, Macaulay, Bancroft), admirable founders and values
+- Symbols, rituals and schools: flags, holidays, pledges, anthems, monuments, war memorials
+- Selective memory and forgetting (Renan); Gettysburg 1913 leaves out slavery and Black veterans
+- Who imagines: states, historians, empires, colonized nationalists, excluded groups
+- Conditions: ruling or ruled, empire or colony, state in hand or still to be won
 </div>
 </section>
