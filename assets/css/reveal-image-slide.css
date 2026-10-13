@@ -10,7 +10,7 @@
  *
  * `section.image-slide.bleed` is the cold-open form: no figure at all, the
  * image handed to reveal as a slide background so it fills the whole screen,
- * with only a licence line on it. Documented in full at the foot of this file.
+ * with only a license line on it. Documented in full at the foot of this file.
  *
  * `.image-notes` is the exception: a normal content slide (NOT
  * `.image-slide`) that sets a reduced copy of an image beside a list of
@@ -122,11 +122,12 @@
 }
 
 .reveal section.image-slide.provoke .provocation {
-	font-family: 'Fraunces', Georgia, serif;
-	font-style: italic;
-	font-size: 0.6em;
-	line-height: 1.25;
-	color: var(--ts-heading-3);
+	font-family: 'Inter', system-ui, sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 0.56em;
+	line-height: 1.3;
+	color: var(--ts-text);
 	text-align: center;
 	max-width: 88%;
 	margin: 0.7em auto 0 auto;
@@ -274,15 +275,17 @@
 	font-style: italic;
 }
 
-/* The question that closes each note bullet. Gold, on its own line, so the
-   three beats of a bullet stay legible at a glance: what to look at (bold),
-   what it means (plain), what to think about (this). Not a question the
-   slide answers — one the session is going to. */
+/* The question that closes each note bullet. In the question level —
+   upright, semibold, the brightest text color, as .question is — and on its
+   own line, so the three beats of a bullet stay legible at a glance: what to
+   look at (bold), what it means (plain), what to think about (this). Not a
+   question the slide answers — one the session is going to. */
 .reveal .image-notes .notes .ask {
 	display: block;
 	margin-top: 0.3em;
-	color: var(--ts-accent);
-	font-style: italic;
+	color: var(--ts-text);
+	font-style: normal;
+	font-weight: 600;
 }
 
 /* Two or more images stacked in the image column of .image-notes. The column
@@ -351,7 +354,7 @@
 	margin: 0;
 }
 
-/* Each image hugs its own box and centres in its cell, as `.shots` does,
+/* Each image hugs its own box and centers in its cell, as `.shots` does,
    rather than filling a uniform cell: a portrait amphora beside a landscape
    painting in equal cells letterboxes one of them inside its own border, and
    an empty bordered margin reads as part of the picture. The cap is on the
@@ -400,7 +403,7 @@
  * `.bleed-alt` carries the image description for screen readers, which a CSS
  * background cannot: it replaces the <img alt> the figure would have had, so
  * write it as an alt text and keep it off-screen, not merely invisible.
- * `.credit` is the licence line — CC BY and CC BY-SA require attribution on
+ * `.credit` is the license line — CC BY and CC BY-SA require attribution on
  * the slide, so it stays even where the caption has gone to the notes slide.
  */
 /* `padding: 0` undoes reveal's own `padding: 20px 0` on a direct-child
@@ -427,7 +430,7 @@
 	border: 0;
 }
 
-/* The licence line. Bottom-LEFT: reveal's nav arrows sit bottom-right and a
+/* The license line. Bottom-LEFT: reveal's nav arrows sit bottom-right and a
    credit there collides with them. It carries its own dark plate because
    `contain` only leaves a clear band on one axis — a picture taller than the
    slide fills the height and puts the credit back on the image, which for

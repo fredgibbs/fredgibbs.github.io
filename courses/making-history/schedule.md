@@ -327,8 +327,8 @@ National histories feel ancient and natural — but most of them were built quit
 ### 9.1:  Inventing Nations
 National histories feel ancient and inevitable, but most were actively constructed — often quite recently — to make a political point. This session introduces the key idea that many "traditional" features of national identity were invented and then naturalized.
 
+- Slides of [Inventing Nations](slides/inventing-nations/)
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 2: "The History of Where?," 45--82. Maza's accessible overview describes how historians have thought about nationalism and national identity.
-- 📜 Eric Hobsbawm, "Introduction: Inventing Traditions," in *The Invention of Tradition* (Cambridge, 1983), 1–14. Short, punchy, and eye-opening: many "ancient" traditions were invented recently. Full of great examples; skim for the argument and pick out two or three examples that interest you.
 - 📜 Benedict Anderson, *Imagined Communities* (1983), Introducion (pp. 1--7). Anderson argues that nations are *imagined* — not fake, but constructed through shared stories, print media, and collective memory. A foundational text. 
 - 📜 Partha Chatterjee, "Whose Imagined Community?" in *The Nation and Its Fragments* (Princeton, 1993), Ch. 1, ~15 pp. Chatterjee responds to Anderson directly from a postcolonial perspective: if colonized peoples' nationalisms simply followed the European model Anderson describes, why did anti-colonial movements look so different? 
 

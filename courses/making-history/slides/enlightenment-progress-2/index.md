@@ -568,7 +568,7 @@ Voltaire ranked four ages that were over. Kant argued for a direction. **Here th
 <img src="images/herder-graff-portrait.jpg" alt="Portrait of Johann Gottfried Herder in a dark clerical coat and white collar, hair swept back over the ears, against a gray-brown ground">
 <figcaption markdown="span">
 Herder · 1744–1803
-<em>Sat in Kant's lectures at Königsberg twenty years earlier; by 1784 court preacher at Weimar and publishing his own <i>Ideen</i> (1784–91), which Kant reviewed that year, unfavourably.<br><strong>Why he matters here:</strong> he refuses the single universal standard while Kant is still building on it — and his alternative, each people judged on its own terms, becomes nineteenth-century nationalism.<br>(Anton Graff, 1785. Public domain.)</em>
+<em>Sat in Kant's lectures at Königsberg twenty years earlier; by 1784 court preacher at Weimar and publishing his own <i>Ideen</i> (1784–91), which Kant reviewed that year, unfavorably.<br><strong>Why he matters here:</strong> he refuses the single universal standard while Kant is still building on it — and his alternative, each people judged on its own terms, becomes nineteenth-century nationalism.<br>(Anton Graff, 1785. Public domain.)</em>
 </figcaption>
 </figure>
 </section>

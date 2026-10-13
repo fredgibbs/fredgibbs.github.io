@@ -313,7 +313,7 @@ In 1948 almost no American dissertations were in social history; by 1978, a quar
 ###### Nobody agreed what it was
 {: .label}
 
-In the United States "history from below" and "bottom-up" fell out of favour for sounding judgmental or mildly salacious. "Social history" stuck as the name; what it meant in practice never settled (Maza, p. 17).
+In the United States "history from below" and "bottom-up" fell out of favor for sounding judgmental or mildly salacious. "Social history" stuck as the name; what it meant in practice never settled (Maza, p. 17).
 </div>
 </section>
 
@@ -471,7 +471,7 @@ Part two · what he is writing against
 
 #### Fabian
 
-Named for the Fabian Society, the British socialists who wanted reform by degrees rather than revolution. Their working people are passive victims of *laissez faire*, saved by a few far-sighted organisers.
+Named for the Fabian Society, the British socialists who wanted reform by degrees rather than revolution. Their working people are passive victims of *laissez faire*, saved by a few far-sighted organizers.
 </div>
 <div class="card" markdown="1">
 
@@ -550,7 +550,7 @@ Joanna Southcott · 1750–1814
 
 <!-- ========== LOSERS ========== -->
 <section markdown="1">
-Part two · the standard of judgement
+Part two · the standard of judgment
 {: .eyebrow}
 
 ## Being wrong about the future is not a reason to be left out of the past
@@ -853,7 +853,7 @@ The take home
 ###### Why it could not stop at topics
 {: .label}
 
-Archives were built by institutions with no reason to record workers, women or colonised communities. Deciding to write about them is not enough if the evidence rules stay as they were.
+Archives were built by institutions with no reason to record workers, women or colonized communities. Deciding to write about them is not enough if the evidence rules stay as they were.
 </div>
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 Every rule about what counts as evidence is also a decision about whose past can be known. Those rules were written by people who were not thinking about you.

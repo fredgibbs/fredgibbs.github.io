@@ -199,7 +199,7 @@ Lindisfarne held Cuthbert's shrine and had made the Lindisfarne Gospels around 7
 </div>
 <figcaption markdown="span">
 The raid, or the end of the world · <strong>the same stone, both faces</strong> · Lindisfarne, 1st quarter of the 9th century
-<em>Left: seven men with raised swords and axes. Right: a cross between sun and moon, hands lifted in prayer. It is called <strong>both</strong> the Viking raider stone <strong>and</strong> the Doomsday stone --- and with a Last Judgement on the back, we cannot tell whether the front shows raiders or the end of the world. <i>The object everyone cites for 793 may not be about 793.</i><br>(Lindisfarne Priory, English Heritage, inv. 81077057. Photos Schillerwein, CC0.)</em>
+<em>Left: seven men with raised swords and axes. Right: a cross between sun and moon, hands lifted in prayer. It is called <strong>both</strong> the Viking raider stone <strong>and</strong> the Doomsday stone --- and with a Last Judgment on the back, we cannot tell whether the front shows raiders or the end of the world. <i>The object everyone cites for 793 may not be about 793.</i><br>(Lindisfarne Priory, English Heritage, inv. 81077057. Photos Schillerwein, CC0.)</em>
 </figcaption>
 </figure>
 </section>
@@ -425,7 +425,7 @@ Bede 03 · King Edwin's council, 627 CE (II.13)
 ## The most famous speech in English history --- and Bede wasn't there
 {: .main-point}
 
-"The present life of man upon earth, O king, seems to me... like to the swift flight of a sparrow through the house wherein you sit at supper in winter... The sparrow, flying in at one door and immediately out at another... passing from winter into winter again. So this life of man appears for a little while, but of what is to follow or what went before we know nothing at all." <span class="cite">an unnamed counsellor, in Bede II.13</span>
+"The present life of man upon earth, O king, seems to me... like to the swift flight of a sparrow through the house wherein you sit at supper in winter... The sparrow, flying in at one door and immediately out at another... passing from winter into winter again. So this life of man appears for a little while, but of what is to follow or what went before we know nothing at all." <span class="cite">an unnamed counselor, in Bede II.13</span>
 {: .quote.compact.fragment data-fragment-index="0"}
 
 <div class="swap" markdown="1">

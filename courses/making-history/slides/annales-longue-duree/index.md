@@ -261,12 +261,12 @@ Ranke's answer to "what is history?" was a method for handling documents. Marx's
 Answer · part one
 {: .eyebrow}
 
-## New neighbours bring new evidence, and new evidence changes the questions
+## New neighbors bring new evidence, and new evidence changes the questions
 {: .main-point}
 
 <div class="reveal-block unpack fragment compact" data-fragment-index="0" markdown="1">
 
-###### What the neighbours had
+###### What the neighbors had
 {: .label}
 
 Price series, harvest records, population counts, soil and climate, field patterns. None of it is anyone's testimony about what happened, so none of it can be read the way Ranke read an ambassador's report.
@@ -411,7 +411,7 @@ Braudel, on the same page: "narrative history is not an objective method, still 
 <img src="images/messina-1572.jpg" alt="The Messina plate, reduced: a sickle-shaped harbor full of ships, the town along its inner shore">
 <div class="notes" markdown="1">
 
-- **Follow the sandspit.** It reaches out from the shore and curls back, closing the bay to a narrow mouth. That shape is why Greeks settled here, why grain moved through it, and why Don John's galleys could lie safely inside it for weeks. <em class="ask">Which of Braudel's three layers does a harbour belong to?</em>
+- **Follow the sandspit.** It reaches out from the shore and curls back, closing the bay to a narrow mouth. That shape is why Greeks settled here, why grain moved through it, and why Don John's galleys could lie safely inside it for weeks. <em class="ask">Which of Braudel's three layers does a harbor belong to?</em>
 - **Count the hulls inside the hook against the ones outside.** The sheltered water is packed; the open strait holds a handful. The strait is narrow, and its current was famous and feared long before any of these ships. <em class="ask">How much of Mediterranean trade was settled by where the water is calm?</em>
 - **Read the cartouche, bottom right.** Its Latin praises Messina for its site, its wealth and its "safe anchorage for ships, in which the marvellous force of nature appears," and names the strait's <i>saeua Charybdis</i> before a single building. <em class="ask">The engravers thought the geography was the story. Why would a chronicler of 1571 disagree?</em>
 </div>

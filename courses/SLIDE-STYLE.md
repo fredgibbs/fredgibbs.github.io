@@ -231,13 +231,59 @@ and copied forward; `annales-longue-duree` has the right versions of both.
 
 **Cross-references stay, but flatten them to a pointer.** References backward
 and forward are worth making — they are most of what makes a survey course
-cohere. What they should not be is staged. Write `Compare Voltaire in 4.1.` or
-`Compare Week 9 (Said, Trouillot).` and stop: the reference is a signpost, and
-the person delivering the lecture will elaborate on it out loud. What goes is
-the narration wrapped around it — "the shape historians in Week 9 will find
-underneath nineteenth-century imperial history," "Herder, who closed the last
-session refusing any universal standard, is the ancestor of the move." Those
-spend three lines dramatising a connection that one clause can make.
+cohere. What they should not be is staged. What goes is the narration wrapped
+around them — "the shape historians in Week 9 will find underneath
+nineteenth-century imperial history," "Herder, who closed the last session
+refusing any universal standard, is the ancestor of the move." Those spend
+three lines dramatizing a connection that one clause can make.
+
+**But the pointer says what the comparison is for.** A bare `Compare Week 4
+(Ranke, Treitschke).` names two people and leaves the student to work out what
+about them to recall. Most of the room will not, and on a photographed slide
+nobody is there to say it out loud. Add one clause naming the point of
+contact, the shared move or the difference:
+
+| Bare pointer | Label | Clause |
+|---|---|---|
+| Compare Week 4 (Ranke, Treitschke). | Compare · Week 4 | Treitschke, trained under Ranke, made Bismarck's unification of Germany look inevitable. |
+| Compare Voltaire in 4.1. | Compare · 4.1 | Voltaire judged the past by taste. |
+
+**The test: could a student who missed that week say what to look for?** If
+the line only names people, no. Keep it to the one clause, about fifteen
+words, written as a fact about the other week rather than a lesson about this
+one. A clause that explains why the comparison matters ("which shows that
+method cannot protect against…") has turned back into narration. Say what is
+over there; the room can supply the "so." Reuse the earlier deck's own words
+where it has them — "made … look inevitable" is how `scientific-history` puts
+Treitschke — so the pointer recalls a slide the students sat through.
+
+**Set a standalone pointer as a `.reveal-block.compare`.** Written as a loose
+paragraph or a `.detail`, it renders in the body voice and reads as one more
+claim on the slide. The `.compare` modifier reuses the `.reveal-block`
+label-and-text look with a dashed border, the theme's mark for elsewhere in the
+course (as on the throughline's next node). The week goes in the label, the
+clause in the body:
+
+```
+<div class="reveal-block compare compact" markdown="1">
+
+###### Compare · Week 4
+{: .label}
+
+Treitschke, trained under Ranke, made Bismarck's unification of Germany look inevitable.
+</div>
+```
+
+It is not a fragment: a signpost shows with the slide. Nor is it the kind of
+`.reveal-block` that the one-idea-per-slide decks (`gender`,
+`inventing-nations`) rule out — those forbid a block that unpacks the slide's
+quotation, and a pointer to another week does not. Where a pointer ends a
+sentence inside a block that is already there, leave it inline with its
+clause; the box is for a pointer that stands on its own.
+
+Decks written before 2026-10-09 carry bare pointers (`annales-longue-duree`,
+`enlightenment-progress-2`, `marx-structural-history`, two in
+`scientific-history`) and are fine as they are. Write new ones this way.
 
 **The register to match is the syllabus, not an explainer.** `schedule.md` is
 the model: "Pay attention to what Bede thinks history is *for* — compare his
@@ -308,6 +354,19 @@ costs a word each time: *a fairly specific complaint*, *almost nobody agrees*,
 justified*. Uniform confidence across forty slides is not authority; it reads as
 a brochure, and it quietly tells a room there is nothing left to argue about on
 the day they are supposed to argue.
+
+**Spell in American English.** *Color*, *neighbor*, *labor*, *center*,
+*gray*, *judgment*, *recognize*, *organize*, *labeled*, *leveled*, *license*
+as the noun. This covers everything a deck says in its own voice — headlines,
+eyebrows, cards, captions, alt text, `.ask` questions — and the notes beside
+it, this guide and the theme's CSS comments. Two things keep their own
+spelling. **Quotations** stay as printed: Marx's translator's "civilisation,"
+Herodotus's "learnt by inquiry," Thompson's "labour" are the source's words,
+and changing them is misquoting. **Names and titles** stay too: the Centre for
+Studies in Social Sciences, Calcutta; a pamphlet called the "Fellow
+Labourer"; an image file already named `…-judgement.jpg`. Every deck was
+brought into line on 2026-10-12, so a British spelling outside quotation marks
+is a slip, not a house style.
 
 **Let people act, not abstractions.** "The purpose settles the question before
 the document does" has nobody in it. The syllabus's instinct is the opposite —
@@ -380,12 +439,20 @@ bridge slide and "the Enlightenment as a phenomenon" in `enlightenment-progress`
 exist so the Voltaire quotes have somewhere to land.
 
 **Use images at every opportunity, for people and for place.** Every named
-person gets a portrait if one exists. Every named place gets an image. Don't
-run more than two or three content slides without an image break — see
-`reveal-image-slide.css` and the `image_slides: true` front-matter flag.
-An image can also do argumentative work (two faces of one stone, an empty
-year on a real manuscript page) — look for that opportunity, don't just
-decorate.
+person gets a portrait if one exists, except the textbook author (below).
+Every named place gets an image. Don't run more than two or three content
+slides without an image break — see `reveal-image-slide.css` and the
+`image_slides: true` front-matter flag. An image can also do argumentative
+work (two faces of one stone, an empty year on a real manuscript page) — look
+for that opportunity, don't just decorate.
+
+**No portraits of textbook authors.** The author of the `Background:`
+reading — Popkin, Maza, Green & Troup — narrates the session rather than
+being one of its subjects, and the title slide has already introduced them. A
+portrait spends a slide, usually on a fair-use snapshot of a living scholar,
+introducing someone the deck is not teaching about. The authors of the
+primary readings still get theirs. `inventing-nations` ended on Maza's face
+until the author cut it on 2026-10-11.
 
 **Keep the blocks short. The `.takehome` is a line, not a paragraph.** This is
 the rule these decks break most often, and the drift is measurable. Median
@@ -468,7 +535,7 @@ evidence chained into one sentence with semicolons is worse than three bullets,
 and the theme styles `ul` inside `.reveal-block` and `.takehome` with the same
 short gold dash as `ul.source-list`. Bullets are for items that are actually
 parallel — three things the same argument rests on, three ways a method fails.
-They are not licence to keep the same wordage and add markers: the budgets above
+They are not license to keep the same wordage and add markers: the budgets above
 still apply to the block as a whole.
 
 What to cut first, in order: the attributive clause ("Green and Troup are
@@ -536,7 +603,7 @@ footnote gives Halphen's book and page, so the slide gives them too.
 
 **Two writers on one slide get equal billing.** The `.quote` + `.reveal-block`
 pair is a hierarchy: the first passage renders large, gold and italic behind a
-rule, the second at body size inside a labelled box. That is exactly right when
+rule, the second at body size inside a labeled box. That is exactly right when
 both passages come from the *same* source and the second one elaborates the
 first — Carr p. 11 then p. 13, Thompson p. 9 then p. 12, Scott p. 1067 then
 p. 1073. The block is the writer continuing to talk.
@@ -551,7 +618,7 @@ So: different sources, `.parallel` with a `.track` each — same type size, same
 border weight, one fragment, revealed together. Put the writer and work in the
 `##### ` track heading and let the `<span class="cite">` carry only what is
 left (the page, the section, the translator), so the citation does not repeat
-the heading. Don't give one track `.now` or `.ai`; those modifiers recolour the
+the heading. Don't give one track `.now` or `.ai`; those modifiers recolor the
 border and reintroduce the ranking you just removed. `review-weeks-1-6` runs
 five of these — Herodotus/Thucydides, Livy/Sima Qian, the *Chronicle*/Bede,
 al-Biruni/Machiavelli, Voltaire/Kant — against four same-source slides that
@@ -570,6 +637,99 @@ a standalone `p.cite` instead: mono, 0.45em, muted, sentence case. Mono is what
 does the work — it marks the line as machinery rather than content, at a glance
 and before it is read. Reserve `.detail` for sentences that actually argue
 something.
+
+**Slide levels: one voice per level, and no two levels look alike.** Every
+line on a slide sits at one of six levels, and the level decides its font and
+color, so a student can tell a quotation from a question from a claim before
+reading a word of it. Color says whose words they are; font says what kind of
+line it is.
+
+| Level | Whose words | Classes | Set in |
+|---|---|---|---|
+| Label | the deck's signposts | `.eyebrow`, `.label`, `.num` | mono capitals, gold |
+| Claim | the deck's argument | `.main-point`, card and step headings; `.takehome` | Fraunces semibold: green for the titles, the text color for the `.takehome` |
+| Source | the past's, or a historian's | `.quote`; `.pull-quote` for a supporting one | Fraunces italic behind a rule: gold, or teal for the supporting one |
+| Question | the room's | `.question`, `ul.questions`, `.ask`, `.provocation` | Inter semibold, upright, white |
+| Commentary | the deck explaining | `.reveal-block` text, `.detail`, card text, throughline answers | Inter, muted |
+| Apparatus | the record | `.cite`, `p.cite`, `.citation-note` | mono, small, muted |
+
+Captions on image slides are their own case — Fraunces italic, muted, beside
+or under a picture — and color and position keep them apart from a quotation.
+
+**A question must never look like a quotation.** Until 2026-10-09 `.question`
+was gold Fraunces italic, the source level's voice, and on the opening slide of
+`inventing-nations` the session's question sat under a Maza quotation and read
+as more of Maza. All four question classes now share the question level. Gold
+now means two things only, labels and quotations, and the font keeps those
+apart.
+
+**Green text is for titles only.** The headline, and the headings of cards
+and `.flow` steps. Until 2026-10-11 the `.takehome` was headline green too,
+and on a discussion slide — `inventing-nations`, the Gettysburg reunion — the
+crux under the question read as a second headline. The takehome is now set in
+the text color and keeps green only in its border; its label is gold, like
+every other label. Don't color any other line green to make it stand out.
+
+**Headlines run the full width of the slide.** `.main-point` uses
+`text-wrap: pretty`, not `balance`. `balance` evens out a wrapped headline's
+lines, which at this size turned a two-line headline into two half-width lines
+with the right of the slide empty: "In 1914 nationalism / was at its height."
+`pretty` fills each line and only stops a single word being stranded on the
+last. Don't shape a headline with `max-width` or a manual `<br>`.
+
+**Emphasis stays inside its level.** `**bold**` and `*italic*` within a line
+inherit the line's color. A line that needs to look different is doing a
+different job, so it belongs at a different level, with that level's class —
+not with an inline `style=` or a one-off rule. When the theme gains a class,
+give it a level first and copy that level's font and color; if it fits no
+level, the slide is asking for a kind of text the course does not yet have,
+and that is worth deciding before it is worth styling.
+
+**Every piece of text carries a class, and the class is its job.** There is
+no base paragraph on a slide. Every line is doing something — stating the
+claim, quoting the evidence, setting context, pointing to another week,
+citing — and the theme has a typography for each job, so a student can tell
+what kind of line they are reading before they read it. A line set in the
+wrong class claims to be something it is not, and a line set in the nearest
+generic class claims to be argument, whatever it actually is.
+
+| The line's job | Class |
+|---|---|
+| What the slide is about, and when | `.eyebrow` |
+| The claim | `.main-point` |
+| The evidence, quoted | `.quote`, with its `.cite` |
+| A second quotation supporting the first | `.pull-quote`, with a `<span class="cite">` |
+| Unpacking or arguing from the evidence | `.reveal-block.unpack` or `.argument`, with a `.label` |
+| Historical context | `.reveal-block.historical`, with a `.label` |
+| A pointer to another week | `.reveal-block.compare` |
+| A source note with no quotation to hang on | `p.cite` |
+| The takeaway | `.takehome` |
+| The discussion question | `.question` |
+| The readings, and how they are cited | `ul.source-list`, `.citation-note` |
+| One sentence of the deck's own argument under a headline | `.detail` |
+
+Text inside a container the theme already styles — a `.card`, a throughline
+`.answer`, a `.track`, a `figcaption` — takes its style from the container
+and needs nothing more.
+
+**`.detail` is not a fallback.** It renders almost exactly like an unstyled
+paragraph: the body font, muted, a little smaller. That makes it the theme's
+de facto base, and so it collects whatever has no obvious home. In
+`inventing-nations` it was carrying a quotation from Maza (a `.pull-quote`'s
+job) and a piece of 1914 history (a `.reveal-block.historical`'s), and neither
+looked like what it was. Its one job is a single sentence of the deck's own
+argument, directly under a headline: a title slide's framing line, or the
+sentence on a part opener that says why the story moved. If the line quotes
+someone, sets context, cites a source or points elsewhere, it has a class of
+its own.
+
+**The check:** every paragraph in `index.md` is either followed by a
+`{: .class}` line or sits inside a `<div class="…">` that styles it. Then read
+each `.detail` and take out anything in quotation marks. If the sentence has
+nothing left to say, it was a quotation, and it belongs in a `.pull-quote`.
+Decks written before 2026-10-09 lean on `.detail` heavily — 29 lines in
+`big-picture-review` alone — and are fine as they are until someone next works
+on them. Write new ones this way.
 
 Two further ways a citation goes wrong without being a fabrication. **Keep the
 framing clause when you quote a quote.** Popkin introduces an 1843 attack on
@@ -625,7 +785,7 @@ room under it for a caption, which is right for an image slide inside a part
 and wrong for a cold open, where the picture should be the entire screen. The
 `.bleed` form hands the image to reveal as a slide background so it escapes
 the margin altogether, and drops the caption for a one-line `.credit`. The
-identification and the licence go on that line; everything you wanted to say
+identification and the license go on that line; everything you wanted to say
 about the picture goes to the notes slide, which is where a cold open was
 always going to say it. Mechanics are in the header comment and the foot of
 `/assets/css/reveal-image-slide.css`. Prefer `data-background-size="contain"`:
@@ -689,6 +849,21 @@ Otherwise a single-session deck (one class meeting, e.g.
    editorial, then Bloch and Febvre. (A scene-setting image is different from
    a portrait and can lead — the prison-camp slide opening Part Two of that
    deck sets up the book written in it.)
+
+   **Introduce before you quote.** The work can open a part as an *object* or
+   an *event* — a journal's first issue, a title page, a war — but nobody's
+   own words go on a slide, and nobody's name goes in a headline as the one
+   acting, before the portrait slide that introduces them. A quotation from a
+   stranger is a stranger talking. `inventing-nations` once opened part two
+   with "Anderson asked…" and his question, two slides before anyone said who
+   he was. Two exceptions. The **narrator** — the author of the
+   `Background:` reading on the title slide, which already introduces them —
+   can be quoted from the first slide, and gets no portrait at all (see "No
+   portraits of textbook authors"). And a voice quoted
+   **through** the narrator ("Lloyd Kramer, quoted in Maza") is introduced by
+   that attribution and needs no portrait — so long as the slide does not make
+   them its subject. Once a headline is about what Renan saw, Renan is someone
+   the deck is teaching, and gets introduced like anyone else.
 4. **A discussion slide at the end of each part** — topic, question, crux, on
    one slide. See below; this is where the class talks, and it replaces
    parking every question in a list at the end.
@@ -781,7 +956,7 @@ slide at each part boundary. It was cut. The rail was built from flex segments
 whose `border-top` was supposed to read as one continuous line, but the nodes
 wrapped to different heights and `align-items: center` then staggered the
 borders, so it rendered as four disconnected dashes at four different heights —
-and unvisited nodes were set in the border colour, which is all but invisible
+and unvisited nodes were set in the border color, which is all but invisible
 on this background. Under all that it was also redundant: the rail said in
 unreadable 0.4em mono what the headline above it had just said in full.
 
@@ -856,7 +1031,7 @@ administrative questions.
 
 **The eyebrow reads `Part one · discussion`** — which part, then what the
 slide is. Not the reverse: the eyebrow's first job is to locate the slide in
-the session, and every other slide in the part is already labelled that way.
+the session, and every other slide in the part is already labeled that way.
 
 **The `.main-point` is the topic, not the question and not the answer.** A
 short noun phrase — "Counting the poor", "A belief as evidence", "What counts
@@ -987,7 +1162,7 @@ the second is a question a room can argue about. **No takeaway line on the
 picture slides**, because a crux printed under the images closes the question
 the slide exists to open; the epigram budget goes to the discussion slides at
 the end of each part. And **images the room has not seen**, so students have to
-apply the course's arguments rather than recognise a plate from the reading —
+apply the course's arguments rather than recognize a plate from the reading —
 which is the opposite of the recall rule for a normal review deck, and the
 trade is deliberate: recall tests memory, fresh material tests whether they can
 use any of it.
@@ -1024,7 +1199,8 @@ think and given them nothing to do with it. The shape is:
    thesis; a direction for the eye.
 2. **A sentence or two of elaboration.** What that detail is, and what it
    commits its makers to. This is where the argument lives.
-3. **A closing question, in `<em class="ask">…</em>`.** It renders gold, on its
+3. **A closing question, in `<em class="ask">…</em>`.** It renders in the
+   question level (see "Slide levels"), on its
    own line, so the three beats stay legible at a glance.
 
 The question is the part that is easy to skip and worth the most. It should
@@ -1078,7 +1254,7 @@ Drop `image_slides: true` only if the deck genuinely has no image slides.
 Public domain, CC0, or CC BY/BY-SA/BY-NC by default — check the license on the
 Wikimedia Commons file page (or via the API) before using anything. Commons is
 the first place to look, not the only one: institutional archives, library
-digitisations and a publisher's own pages often hold better copies, and some
+digitizations and a publisher's own pages often hold better copies, and some
 subjects are not on Commons at all.
 
 **Fair use is available where nothing free exists, for a named reason.** These
@@ -1111,7 +1287,23 @@ drawing or a crowded engraving can be perfectly bright by the numbers and
 still land as murk on a screen — the test is whether someone in the back row
 can tell what is happening in it without being told.
 
+**Check an image against the size it is shown at, not against its file
+size.** A slide is 960×700, but a 1080p projector draws it at roughly 1.4–1.5
+times that, so an image needs about **1.5 of its own pixels for every pixel
+it occupies on the slide** to stay sharp in the room. A portrait in the
+caption rail is shown about 520px tall, so it wants about 780px; a landscape
+image across the slide wants about 1,000px wide. Under 1.5× it will be soft on
+the projector; under 1.0× the browser is enlarging it and it will be soft on a
+laptop too. `scripts/deck-check.sh` measures this on every image. The
+Chatterjee photograph first used in `inventing-nations` was a 300px snapshot
+and nothing caught it until the slide was on a screen. When nothing larger
+exists — common for living scholars — choose the sharpest source over the
+largest, record the shortfall in `ISSUES.md`, and say what a better copy would
+take (a request to the institution, usually).
+
 Source at width 1400–2200, cap the long edge at 1800px, recompress to JPEG.
+Never downsample a crop below what the slot needs: crop from the full-size
+original and stop there.
 q78 is the default; use q82–88 for anything carrying fine detail (manuscript
 script, small map labels, low-relief carving) that q78 visibly smears. Keep
 the whole `images/` folder under ~10MB.
@@ -1185,6 +1377,48 @@ Run the word check first — `scripts/slide-words.py <deck>/index.md`. It is the
 cheapest of these passes and the one whose failures are invisible in a browser,
 because an over-long caption looks fine on screen and still sounds wrong in the
 room.
+
+**Then the typography pass, every time, before anyone sees the deck:**
+
+```sh
+scripts/deck-check.sh <course>/<deck>      # e.g. making-history/inventing-nations
+```
+
+It runs on the built `_site`, so build first. It starts a fresh browser
+profile every run on purpose: a reused headless profile serves the stylesheet
+from cache, and a CSS change then looks as if it did nothing. It steps through
+every slide at 960×700 with every fragment showing, and fails the deck for:
+
+- **overflow** — a slide taller than the 644px it can show;
+- **unstyled** text — a paragraph with no class and no styling container
+  ("Every piece of text carries a class");
+- **order** — commentary, or a second quotation, set above the slide's
+  `.quote`. A slide reads down its levels: label, claim, evidence,
+  commentary, then the takeaway or question, then apparatus. Context that has
+  to come before the evidence is its own slide;
+- **quote-as-commentary** — a `.reveal-block` or `.detail` that opens with a
+  quotation, i.e. someone's words set in the deck's voice;
+- **before-intro** — someone quoted, or named as the subject of a headline,
+  before their portrait ("Introduce before you quote");
+- **image <1.0×** — an image shown larger than its own pixels; it warns below
+  1.5×.
+
+The script is the floor, not the pass. Three things it cannot see, which you
+check by eye on every slide:
+
+- **Does the slide match one of the deck's slide types?** Title, throughline,
+  framing (claim, quotation, the session's question), quote slide (claim and
+  one quotation, plus at most a `.reveal-block.compare` pointer), cards, image
+  (landscape, portrait, bleed), image notes, discussion, arc, take home. A
+  slide that fits none is an aberration: make it fit, or add the type to this
+  guide with its reason. Decks drift one reasonable exception at a time —
+  `inventing-nations` collected a historical block above a quotation, a
+  pull-quote under one, and a question styled like a quotation, each added to
+  fix something else, before anyone looked at the deck as a set.
+- **Does each line sit at the level its job puts it?** See "Slide levels." A
+  question that looks like a quotation passes every check above.
+- **Do two writers share a slide in a hierarchy?** See "Two writers on one
+  slide get equal billing."
 
 Before opening a browser it is worth *measuring* rather than guessing: strip
 the tags from each `<section>` and compare its character count against a deck

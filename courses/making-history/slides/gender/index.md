@@ -401,7 +401,7 @@ Doctrines that fix one meaning of male and female and state it "as the only poss
 
 #### Institutions
 
-Kinship, the labour market, education, and the vote.
+Kinship, the labor market, education, and the vote.
 </div>
 <div class="card" markdown="1">
 

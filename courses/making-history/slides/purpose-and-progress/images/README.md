@@ -3,7 +3,7 @@
 Every image here is new to the course: none of them appears in another deck,
 and none is from an assigned reading. That is the point of the deck — students
 bring Carr, Ranke, Marx, Thompson, Scott and Ginzburg to material they have
-never seen, instead of recognising a picture they were shown in Week 5.
+never seen, instead of recognizing a picture they were shown in Week 5.
 
 All eleven were fetched from Wikimedia Commons on 2026-10-03, long edge capped
 at 1200px and recompressed at q82. 1200 rather than the usual 1800 because
@@ -13,7 +13,7 @@ size. Folder total 4.2MB.
 
 | File | What it is | Source | License |
 |---|---|---|---|
-| `mappa-mundi-hereford-c1300.jpg` | The Hereford *Mappa Mundi*, c. 1300, east at the top and Jerusalem at the centre | Hereford Cathedral, via unesco.org.uk, Wikimedia Commons (`Hereford-Karte.jpg`) | Public domain |
+| `mappa-mundi-hereford-c1300.jpg` | The Hereford *Mappa Mundi*, c. 1300, east at the top and Jerusalem at the center | Hereford Cathedral, via unesco.org.uk, Wikimedia Commons (`Hereford-Karte.jpg`) | Public domain |
 | `blue-marble-1972.jpg` | *The Blue Marble*, Apollo 17, 7 December 1972 | Harrison Schmitt / NASA, AS17-148-22727, via Wikimedia Commons | Public domain |
 | `phrenology-chart-wellcome.jpg` | French wall chart *Phrénologie, physiognomonie, chiromancie*, 19th c. — brain maps, profile heads and read palms on one sheet | Wellcome Collection V0009525, via Wikimedia Commons | **CC BY 4.0** |
 | `fmri-basal-ganglia.jpg` | Basal ganglia activation, fMRI, figure from a 2014 paper | Miller AH et al., *PLOS ONE* 9(5), 2014, via Wikimedia Commons (`CFS-brain-scan-basal-ganglia-fMRI.png`) | **CC BY 4.0** |

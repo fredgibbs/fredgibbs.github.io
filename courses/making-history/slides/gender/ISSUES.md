@@ -15,7 +15,7 @@ This is a deliberate departure from the model structure in
 "1–4 quote slides (primary `.quote` + `.reveal-block.unpack`/`.argument`/
 `.historical` fragments + `.takehome`)". An earlier draft of this deck
 followed that form and ran 35 slides, each carrying two or three things to
-remember; the author's judgement was that it read as repetitive and long, and
+remember; the author's judgment was that it read as repetitive and long, and
 that a student could not say afterwards what any one slide had been *for*.
 The rebuild is 27 slides, of which 23 carry a headline and one element.
 
@@ -102,7 +102,7 @@ present where no women are.
 Deliberately left out, and why: the public/private and nature/culture
 dichotomies (pp. 255–56), which Green and Troup themselves report historians
 found "restrictive"; Maynard on the "Big Three" (p. 256), which is a quarrel
-about labelling theory rather than about history; the psychoanalytic strand
+about labeling theory rather than about history; the psychoanalytic strand
 and Sally Alexander (p. 257); Green and Troup's own summary of Scott's later
 discursive method (pp. 257–58), because part two has her in her own words; and
 Bennett on continuity and change (pp. 258–59), which is the strongest

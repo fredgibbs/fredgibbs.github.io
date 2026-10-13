@@ -52,7 +52,7 @@ Retrieved 2026-09-02/03 — all via Wikimedia Commons except the two
 - **Two captions deliberately undercut their own image**, which is the point of
   the week:
   - The two `lindisfarne-stone-*.jpg` files are the **two faces of one object**,
-    shown side by side on a `figure.pair` slide: raiders on one, a Last Judgement
+    shown side by side on a `figure.pair` slide: raiders on one, a Last Judgment
     on the other. That ambiguity is the point of the slide — keep them together.
   - The manuscript-variety pair is **A + E** on purpose: `asc-msd-tiberius-b-iv.jpg`
     carries the empty-annal-years slide on its own immediately afterwards, and

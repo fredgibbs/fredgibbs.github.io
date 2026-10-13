@@ -29,7 +29,7 @@ Making History • HIST 1105 • Week 8.1
 <img src="images/mappa-mundi-hereford-c1300.jpg" alt="A large medieval world map drawn on vellum, roughly circular inside a pentagonal sheet, crowded with towns, beasts and figures">
 <img src="images/blue-marble-1972.jpg" alt="The Apollo 17 photograph of the whole Earth, Africa and Antarctica under swirling white cloud against black space">
 </div>
-<p class="provocation">Both are pictures of the whole world. One is centred on Jerusalem on purpose. The other is conventionally printed the other way up from how it was taken. Which one is edited?</p>
+<p class="provocation">Both are pictures of the whole world. One is centered on Jerusalem on purpose. The other is conventionally printed the other way up from how it was taken. Which one is edited?</p>
 <figcaption markdown="span">
 The Hereford <i>Mappa Mundi</i>, c. 1300 · <i>The Blue Marble</i>, Apollo 17, 7 December 1972
 <em>(Left: Hereford Cathedral, via unesco.org.uk, public domain. Right: Harrison Schmitt / Apollo 17, NASA AS17-148-22727, public domain.)</em>
@@ -42,7 +42,7 @@ The Hereford <i>Mappa Mundi</i>, c. 1300 · <i>The Blue Marble</i>, Apollo 17, 7
 <figure class="pair">
 <div class="pair-images">
 <img src="images/phrenology-chart-wellcome.jpg" alt="A printed nineteenth-century French wall chart with diagrams of brains, rows of profile heads and faces, and a row of annotated palms">
-<img src="images/fmri-basal-ganglia.jpg" alt="Two rows of MRI brain slices with orange and purple heat-map blobs overlaid, beside a calibrated colour scale">
+<img src="images/fmri-basal-ganglia.jpg" alt="Two rows of MRI brain slices with orange and purple heat-map blobs overlaid, beside a calibrated color scale">
 </div>
 <p class="provocation">Both of these claim to show where in the head a person's character lives. One of them also reads palms. In a hundred and fifty years, which half of this slide will the other one look like?</p>
 <figcaption markdown="span">

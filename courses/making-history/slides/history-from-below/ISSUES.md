@@ -70,7 +70,7 @@ caption or the bullets.
 **The women bullet rests on ethnography, not on this photograph.** Added
 2026-09-22 after the narrowing, because the slide identified the man by his
 instrument and left the two women as scenery — repeating the card's own move.
-It is phrased conditionally on purpose: the Mande gendered division of labour
+It is phrased conditionally on purpose: the Mande gendered division of labor
 (instruments men's, song largely women's) is well documented, but whether
 these two sitters were performers is unrecorded and unrecoverable. Sourcing is
 in `images/README.md`. A fresh-context review should check the claim is still
@@ -124,7 +124,7 @@ schedule or an enumerator's book page would fit the argument exactly, but
 nothing usable turned up on Commons (searched 2026-09-19: parish registers,
 1841/1861 census schedules, punched-card equipment — all either PDFs of
 printed reports or nothing). A manuscript page also risks reading as murk at
-projector distance. Worth another look in a national archive's own digitised
+projector distance. Worth another look in a national archive's own digitized
 collections.
 
 **Thompson's page numbers are from the Vintage printing.** That is the PDF in
@@ -226,7 +226,7 @@ rather than the man.
   the `.answer.now` and the take home delivers it.
 - "Compare 5.1" (Marx, conditions versus agency) and "Compare 3.1"
   (al-Bīrūnī naming his sources, Bede listing who told him what, as the
-  neighbourhood for *isnād*) both check out.
+  neighborhood for *isnād*) both check out.
 
 
 **The "Social history was already a century old" slide ran off the bottom,

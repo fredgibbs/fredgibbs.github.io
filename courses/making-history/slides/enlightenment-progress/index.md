@@ -48,7 +48,7 @@ A lecture on a mechanical model of the solar system, England, c. 1766
 - **The brass rings are an orrery**, a working model of the solar system, and the lamp at its center stands in for the sun. **The universe is being shown as a mechanism whose parts run on rules you can predict — the same kind of order Kant will claim history has, working whether or not anyone intends it.**
 - **The light is inside the machine.** Every face is lit by the model itself. **The age's favorite metaphor, made literal: illumination comes from the thing studied, not from above it.**
 - **Someone is being paid to do this.** Traveling lecturers sold natural philosophy to provincial audiences by subscription. **Enlightenment is not only books and salons; it is a market — which is why the printers and booksellers matter, besides the writers.**
-- **Two children are closest to the mechanism.** The scene is arranged around who comes next. **That is Diderot's stated reason for the whole Encyclopédie: to transmit it to those who come after, so past labour is not wasted.**
+- **Two children are closest to the mechanism.** The scene is arranged around who comes next. **That is Diderot's stated reason for the whole Encyclopédie: to transmit it to those who come after, so past labor is not wasted.**
 </div>
 </div>
 </section>

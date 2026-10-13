@@ -106,7 +106,7 @@ checked against a source in hand.
 - **Engels "sent at twenty-two" to Manchester.** Born November 1820, arrived
   late 1842.
 - **Wyld credited to the Royal Collection**, per the Google Art Project record.
-  The watercolour is often said to have been commissioned by Queen Victoria
+  The watercolor is often said to have been commissioned by Queen Victoria
   after her 1851 Manchester visit; that is plausible but unconfirmed, so the
   caption says only where it lives.
 - **Marx's biography in his portrait caption** — law and philosophy, the Cologne
@@ -153,7 +153,7 @@ Recorded so a future reviewer does not re-raise them.
   forward questions: who is doing the making (6.1), and whether the female
   Reformers made history or supported the men who did (6.2). Do not restore
   per-historian slides without a reason to think students need the
-  labour-aristocracy debate.
+  labor-aristocracy debate.
 - **Part three has no discussion pair** (2026-09-15, at the author's request).
   The Thompson quotation slide, the "who is doing the making?" discussion slide
   and its answer slide were collapsed into the foreshadow slide, since the

@@ -21,7 +21,7 @@ pictures, it has undone the deck.
 
 **Every image is new to the course.** No portrait of anyone they have read, no
 plate from an assigned text. Students have to apply Carr, Ranke, Marx,
-Thompson, Scott and Ginzburg rather than recognise them. That is also the risk:
+Thompson, Scott and Ginzburg rather than recognize them. That is also the risk:
 a room that has not done the reading has nothing to say, and the deck gives
 them no text to fall back on. Credits and licenses are in `images/README.md`.
 

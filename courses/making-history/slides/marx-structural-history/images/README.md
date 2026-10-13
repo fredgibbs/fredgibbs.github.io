@@ -54,7 +54,7 @@ were kept only because a Week 6 deck may want Peterloo.
 ## Notes
 
 - Sourced at width 1280–2200, capped at 1800 px on the long edge and
-  recompressed to JPEG. Portraits are at q82; the Manchester watercolour at
+  recompressed to JPEG. Portraits are at q82; the Manchester watercolor at
   q84; the Kennington daguerreotype at q86; and the four line-based images —
   the Reading Room engraving, the 1848 title page, the power-loom plate and
   the Peterloo print — at q88, since engraved hatching and blackletter type

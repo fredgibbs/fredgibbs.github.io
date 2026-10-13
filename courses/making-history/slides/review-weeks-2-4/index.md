@@ -249,7 +249,7 @@ Sandro Botticelli, <i>The Story of Lucretia</i> · c. 1500–01
 <img src="images/lindisfarne-stone-raiders.jpg" alt="One face of a carved sandstone grave marker: seven armed figures in a row raising swords and axes">
 <figcaption markdown="span">
 Grave marker · Lindisfarne, first quarter of the 9th century
-<em>Seven men with raised swords and axes. The other face carries a cross between sun and moon and hands raised in prayer, so the front may show the Last Judgement rather than the raid of 793.<br>(Lindisfarne Priory, English Heritage, inv. 81077057. Photo Schillerwein, CC0.)</em>
+<em>Seven men with raised swords and axes. The other face carries a cross between sun and moon and hands raised in prayer, so the front may show the Last Judgment rather than the raid of 793.<br>(Lindisfarne Priory, English Heritage, inv. 81077057. Photo Schillerwein, CC0.)</em>
 </figcaption>
 </figure>
 </section>
@@ -492,7 +492,7 @@ No plan can be proved. What participants saw and decided, from their own papers.
 
 <!-- Discussion slides take the palette of 1105r&vhdiscussion.pdf (charcoal,
      white, orange) so the exercise reads as a break from the lecture. The theme
-     colours everything through --ts-* variables, so overriding them on the
+     colors everything through --ts-* variables, so overriding them on the
      section is enough. -->
 <style>
 .reveal section.discussion-pdf {

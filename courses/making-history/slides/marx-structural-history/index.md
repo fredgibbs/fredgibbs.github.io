@@ -516,7 +516,7 @@ Part two · 1848–1849
 <!-- ========== IMAGE: VERNET, THE OFFICIAL VERSION ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="landscape">
-<img src="images/barricade-vernet-1848.jpg" alt="An oil painting of street fighting: a barricade of paving stones and cart wheels across the foreground, an insurgent in a white shirt standing on it raising a cobblestone over his head beside a red flag, a close-packed column of infantry in dark coats and red trousers levelling bayonets at them from the right, dead and wounded men below, and the dome of the Panthéon rising through smoke behind">
+<img src="images/barricade-vernet-1848.jpg" alt="An oil painting of street fighting: a barricade of paving stones and cart wheels across the foreground, an insurgent in a white shirt standing on it raising a cobblestone over his head beside a red flag, a close-packed column of infantry in dark coats and red trousers leveling bayonets at them from the right, dead and wounded men below, and the dome of the Panthéon rising through smoke behind">
 <figcaption markdown="span">
 <i>Barricade dans la rue Soufflot, le 24 juin 1848</i> · Horace Vernet, c. 1848–50
 <em>"Barricade in the rue Soufflot," the Panthéon behind. Vernet was the army's painter, celebrated for canvases of the conquest of Algeria and a partisan of General Cavaignac, who put the rising down.<br><strong>The fight did not look like this.</strong> At the June barricades both sides kept their distance, with rifles and artillery.<br>(Deutsches Historisches Museum, Berlin. Public domain.)</em>
@@ -530,7 +530,7 @@ Part two · 1848–1849
 <img src="images/barricade-vernet-1848.jpg" alt="The Vernet painting, reduced: a column of bayonets against a barricade, the Panthéon behind">
 <div class="notes" markdown="1">
 
-- **A column against a man with a cobblestone.** On the right, infantry in step with bayonets levelled; on the barricade, one man in a shirt raising a paving stone over his head. The army is a machine and the insurgents are individuals. <em class="ask">What is this picture telling you power is made of?</em>
+- **A column against a man with a cobblestone.** On the right, infantry in step with bayonets leveled; on the barricade, one man in a shirt raising a paving stone over his head. The army is a machine and the insurgents are individuals. <em class="ask">What is this picture telling you power is made of?</em>
 - **The Panthéon is behind them, undamaged.** The insurgents had fallen back inside it, and the army turned artillery on the building. Vernet leaves the gun and the damaged façade out. <em class="ask">Is a painting evidence of the fight, or evidence of how the winners wanted it remembered?</em>
 - **Some of those troops are workers.** The Garde mobile were young men recruited from the same poor Paris districts as the people on the barricade. <em class="ask">If class struggle is the motor of history, why are workers on both sides of this barricade?</em>
 </div>
