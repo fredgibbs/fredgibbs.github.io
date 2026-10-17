@@ -365,9 +365,9 @@ This week pairs two major interventions. The first asks: if history is always to
 ### 10.1: The Linguistic Turn — Is History Just a Story?
 The "linguistic turn" is the claim that because historians always use narrative, selection, and interpretation, their work is never a transparent window onto the past. This week we explore and debate the extent to which this is true.
 
-- 📗 Sarah Maza, *Thinking About History* (2017), Ch. 8: "The Questions of Narrative", 204--211. 
-- 📜 Keith Jenkins, *Re-Thinking History* (1991), Ch. 1–2, ~25 pp. Jenkins pushes White's argument further: if all history is narrative, can we ever really know the past? Written as a polemic — lively and opinionated, meant to provoke.
-- 📜 Richard Evans, *In Defense of History* (1997), Introduction + Ch. 1, ~20 pp. Evans pushes back against the claim that history is just a narrative — he argues historians *can* make true claims about the past, carefully. 
+<!-- - Slides of [The Linguistic Turn](slides/linguistic-turn/) -->
+- 📗 Sarah Maza, *Thinking About History* (2017), Ch. 6: "Facts or Fictions", 199-230. 
+- 📜 Keith Jenkins, *Re-Thinking History* (1991), Ch. 3, 70--84. Jenkins wonders: if all history is narrative, can we ever really know the past? Is it all fiction?Written as a polemic, meaning lively, opinionated, and meant to provoke.
 
 #### Discussion
 - If history uses narrative techniques like fiction, does that make it fiction?
