@@ -389,7 +389,7 @@ The "linguistic turn" is the claim that because historians always use narrative,
 
 
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. As usual, draw on the readings *and* our discussions this week --- but the question to focus on in your post is this: what arguments from our readings and discussion about history being fact or fiction did you find most interesting --- and why?
 "%}
 
 ## 11: Public History and Memory
