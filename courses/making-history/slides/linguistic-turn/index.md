@@ -83,8 +83,6 @@ Part one · fact or fiction
 <div class="cite">Maza, <i>Thinking About History</i>, p. 199</div>
 </div>
 
-If a history is built with the techniques of fiction, is it fiction?
-{: .question .fragment data-fragment-index="1"}
 </section>
 
 <!-- ========== THE IDEAL ========== -->
@@ -92,7 +90,7 @@ If a history is built with the techniques of fiction, is it fiction?
 The 1880s · the ideal
 {: .eyebrow}
 
-## From the 1880s the profession's ideal was objectivity, defined above all against fiction
+## From the 1880s the profession's ideal was objectivity, defined against fiction
 {: .main-point}
 
 ---
@@ -178,17 +176,6 @@ By the 1980s
 </div>
 </section>
 
-<!-- ========== IMAGE: SIMA QIAN ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="images/sima-qian-portrait.jpg" alt="A painted portrait of a seated Chinese scholar-official in a dark robe and black cap, with a long thin beard, hands folded, against a plain ground">
-<figcaption markdown="span">
-Sima Qian, Week 2's Grand Historian, in a later portrait
-<em>He finished the <i>Shiji</i> about 90 BC. No civilization, Maza quotes Daniel Woolf, "has consistently and continuously placed as high a priority on the recording and understanding of its past as the Chinese" (p. 206).<br>(Wikimedia Commons. Public domain.)</em>
-</figcaption>
-</figure>
-</section>
-
 <!-- ========== SEEN GLOBALLY ========== -->
 <section markdown="1">
 Seen globally
@@ -213,31 +200,37 @@ Said: describing and teaching "the Orient" was one of the ways the West ruled it
 </div>
 </section>
 
-<!-- ========== DISCUSSION: PART ONE ========== -->
+<!-- ================================================================ -->
+<!-- ====== PART TWO: THE LINGUISTIC TURN, MAZA PP. 209–215 ========== -->
+<!-- ================================================================ -->
+
+<!-- ========== THE "POST" ========== -->
 <section markdown="1">
-Part one · discussion
+Part two · the "post"
 {: .eyebrow}
 
-## Objectivity and who was in the room
+## The "post" comes after three modern certainties: science, progress, objectivity
 {: .main-point}
 
 ---
 
-Maza says the newcomers of the 1950s–60s did not question objectivity; the women and Black scholars of the 1970s, who made identity part of the work, did (pp. 203–204). Why was that the blow?
-{: .question .fragment data-fragment-index="1"}
+<div class="quote compact" markdown="1">
+"the collapse of 'absolutist' beliefs in the infallibility of science, the inevitability of progress, and the goal of perfect objectivity"
+<div class="cite">Maza, <i>Thinking About History</i>, p. 224, on how Appleby, Hunt and Jacob, <i>Telling the Truth about History</i> (1994), explained the early-1990s crisis</div>
+</div>
 
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-It challenged who could know, not only what to study. Dissenters came to call objectivity "the particular perspective of the white upper-class men at the helm" (p. 208).
+<div class="reveal-block compare compact" markdown="1">
+
+###### Compare · Week 4
+{: .label}
+
+Kant gave history a direction toward reason and freedom; Ranke's scientific history promised the past "as it actually was."
 </div>
 </section>
 
-<!-- ================================================================ -->
-<!-- ====== PART TWO: THE LINGUISTIC TURN, MAZA PP. 209–216 ========== -->
-<!-- ================================================================ -->
-
 <!-- ========== THE WAVE ========== -->
 <section markdown="1">
-Part two · postmodernism
+The 1980s · postmodernism
 {: .eyebrow}
 
 ## In the 1980s a wave from linguistics and philosophy reached the history departments
@@ -304,6 +297,60 @@ Maza, pp. 209–211.
 {: .cite}
 </section>
 
+<!-- ========== SAUSSURE ========== -->
+<section markdown="1">
+Saussure · 1857–1913
+{: .eyebrow}
+
+## Saussure: a word means by differing from other words
+{: .main-point}
+
+<div class="with-figure wide" markdown="1">
+<figure>
+<img src="images/saussure-jullien.jpg" alt="A black-and-white photograph of a man in profile with a heavy mustache and swept-back hair, in a dark suit and high collar">
+<figcaption>Photograph by F. Jullien, Geneva, before 1913 · Wikimedia Commons · public domain</figcaption>
+</figure>
+<div class="body" markdown="1">
+
+"words derive meaning not from their connection with the things they designate (signifieds), but in relation to other words, or signifiers." <span class="cite">Maza, <i>Thinking About History</i>, p. 209</span>
+{: .quote.compact}
+
+A Genevan linguist. His *Course in General Linguistics* (1916) was compiled from students' notes after his death.
+{: .detail}
+
+So language cannot simply mirror the world. Postmodernists drew the conclusion that we reach the past only through words.
+{: .detail}
+</div>
+</div>
+</section>
+
+<!-- ========== LÉVI-STRAUSS ========== -->
+<section markdown="1">
+Lévi-Strauss · 1908–2009
+{: .eyebrow}
+
+## Lévi-Strauss read cultures as Saussure read language
+{: .main-point}
+
+<div class="with-figure wide" markdown="1">
+<figure>
+<img src="images/levi-strauss-1973.jpg" alt="A black-and-white photograph of an older man with gray hair and thick-rimmed glasses, looking down as he speaks, in a jacket and tie">
+<figcaption>Erasmus Prize, 1973 · Bert Verhoeff, Nationaal Archief · CC0</figcaption>
+</figure>
+<div class="body" markdown="1">
+
+"Any item within a culture, Lévi-Strauss argued, is intelligible only in relation to its opposite: the idea of 'raw' food has meaning only in relation to its 'cooked' opposite" <span class="cite">Maza, <i>Thinking About History</i>, p. 209</span>
+{: .quote.compact}
+
+A French anthropologist who carried Saussure's method to kinship, myth and totem.
+{: .detail}
+
+A culture became something to read like a text. Maza says the habit reached historians through thinkers like Foucault (p. 211).
+{: .detail}
+</div>
+</div>
+</section>
+
 <!-- ========== STRUCTURES, NOT PEOPLE ========== -->
 <section markdown="1">
 Structuralism · the cost
@@ -328,6 +375,33 @@ Thompson: the working class "was present at its own making."
 </div>
 </section>
 
+<!-- ========== DERRIDA ========== -->
+<section markdown="1">
+Derrida · 1930–2004
+{: .eyebrow}
+
+## Derrida: meaning is never fixed, only deferred
+{: .main-point}
+
+<div class="with-figure wide" markdown="1">
+<figure>
+<img src="images/derrida-uchicago.jpg" alt="A black-and-white photograph of a man with thick, tousled white hair and a heavy jacket, seated and looking steadily at the camera, bare tree branches behind him">
+<figcaption>Author photograph, University of Chicago Press · used for teaching</figcaption>
+</figure>
+<div class="body" markdown="1">
+
+"Meaning, then, is endlessly 'deferred,' since a term is 'always already' engaged in the process of pushing away this infinity of potential opposites." <span class="cite">Maza, <i>Thinking About History</i>, p. 211</span>
+{: .quote.compact}
+
+A philosopher born in Algeria who taught in Paris, and the founder of deconstruction.
+{: .detail}
+
+Saussure and Lévi-Strauss thought a system could be decoded. Derrida denied any text a final meaning, sources included.
+{: .detail}
+</div>
+</div>
+</section>
+
 <!-- ========== FEW READ THE THEORY ========== -->
 <section markdown="1">
 The 1980s · the climate
@@ -349,7 +423,7 @@ The 1980s · the climate
 The 1980s · the linguistic turn
 {: .eyebrow}
 
-## For historians the result was the linguistic turn: sources read as texts, not windows
+## Sources read as texts, not windows
 {: .main-point}
 
 ---
@@ -373,6 +447,30 @@ Fiction · the word
 <div class="quote" markdown="1">
 "In its original sense, 'fiction' does not mean 'something untrue' but 'something created and shaped,' an important distinction."
 <div class="cite">Maza, <i>Thinking About History</i>, p. 211</div>
+</div>
+</section>
+
+<!-- ========== HISTORIANS: THE COURTROOM ========== -->
+<section markdown="1">
+Historians · the 1980s
+{: .eyebrow}
+
+## Historians read court records for the stories in them
+{: .main-point}
+
+<div class="with-figure wide" markdown="1">
+<figure>
+<img src="images/remission-henri-ii-1548.jpg" alt="A page of a bound manuscript register, filled edge to edge with dense sixteenth-century French handwriting">
+<figcaption>Chancery register, June 1548 · Archives nationales, JJ 258-2, fol. 45 · public domain</figcaption>
+</figure>
+<div class="body" markdown="1">
+
+"cultural historians approached the courtroom not in search of evidence of crime and punishment but as an institutional setting that generates words, and especially narratives." <span class="cite">Maza, <i>Thinking About History</i>, pp. 211–212</span>
+{: .quote.compact}
+
+Two women who killed a supposed witch won this 1548 pardon with a story the king could forgive. Read as texts, such records show what a society found believable.
+{: .detail}
+</div>
 </div>
 </section>
 
@@ -401,17 +499,6 @@ Davis · 1987
 "we were ordinarily taught as scientific historians to peel away the fictive elements in our documents so as to get at the real facts."
 <div class="cite">Natalie Zemon Davis, <i>Fiction in the Archives</i> (1987), p. 3, quoted in Maza, p. 212, who adds that Davis proposed "to do just the opposite"</div>
 </div>
-</section>
-
-<!-- ========== IMAGE: FOOL'S CAP MAP ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="landscape">
-<img src="images/fools-cap-map-c1590.jpg" alt="An engraved world map set inside the hood of a jester's cap, with bells on the ears, a fool's bauble at the right, and Latin mottoes above and below the map">
-<figcaption markdown="span">
-<i>Fool's Cap Map of the World</i>, engraved about 1590, maker unknown
-<em>A world map inside a jester's hood, under "Know thyself." Read the linguistic turn's way, Maza says, such a map tells you "about the mental universe of the cartographers" (p. 214).<br>(Wikimedia Commons. Public domain.)</em>
-</figcaption>
-</figure>
 </section>
 
 <!-- ========== IMAGE: HAYDEN WHITE ========== -->
@@ -494,77 +581,16 @@ Maza, p. 215, after White, <i>Metahistory</i>, pp. 7–30. The satire card is Wh
 {: .cite}
 </section>
 
-<!-- ========== IMAGE: JOAN SCOTT ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="images/scott-2013-portrait.jpg" alt="A color photograph of an older woman with short white hair and red-framed glasses, smiling, standing in front of crowded white bookshelves; one shelf carries a label reading GENDER">
-<figcaption markdown="span">
-Joan Wallach Scott · b. 1941
-<em>The author of "Gender: A Useful Category of Historical Analysis" (1986), read in Week 6.2. Maza: historians like Scott "drew upon structuralist and poststructuralist methods" to recast women's history as gender history (p. 216).<span class="why"><strong>Why she matters:</strong> she turned the method on a category rather than a source, so that "gender" itself became a word with a history.</span>(Photograph by B. Sutherton, 2013, cropped. CC BY-SA 3.0.)</em>
-</figcaption>
-</figure>
-</section>
-
-<!-- ========== SCOTT: WORDS HAVE A HISTORY ========== -->
-<section markdown="1">
-Scott · 1986
-{: .eyebrow}
-
-## Scott took the turn to gender: the category itself has a history
-{: .main-point}
-
----
-
-<div class="quote" markdown="1">
-"words, like the ideas and things they are meant to signify, have a history."
-<div class="cite">Joan Wallach Scott, "Gender: A Useful Category of Historical Analysis" (1986), quoted in Maza, p. 216</div>
-</div>
-</section>
-
-<!-- ========== DISCUSSION: PART TWO ========== -->
-<section markdown="1">
-Part two · discussion
-{: .eyebrow}
-
-## A history without a story
-{: .main-point}
-
----
-
-White says historians impose narrative on evidence (Maza, p. 214). What would a history without narrative look like, and is it possible?
-{: .question .fragment data-fragment-index="1"}
-
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-Two candidates: the chronicle, which Maza, following White, calls "devoid of meaning" today (p. 214), and Week 5's Annales structures. Whether the second escapes plot is the argument.
-</div>
-</section>
-
 <!-- ================================================================ -->
-<!-- ====== PART THREE: THE CRITICS AND THE LINE, MAZA PP. 220–232 === -->
+<!-- ====== PART THREE: THE CRITICS AND THE LINE, MAZA PP. 221–232 === -->
 <!-- ================================================================ -->
-
-<!-- ========== THE CRITICS ========== -->
-<section markdown="1">
-Part three · the critics
-{: .eyebrow}
-
-## British critics answered with alarm, and some with Francophobia
-{: .main-point}
-
----
-
-<div class="quote" markdown="1">
-"The absurd always sounds better in French."
-<div class="cite">G. R. Elton, <i>Return to Essentials</i> (1991), quoted in Maza, p. 220, among "British historians seizing the chance to vent traditional Francophobia"</div>
-</div>
-</section>
 
 <!-- ========== THE REAL CHALLENGE ========== -->
 <section markdown="1">
-The 1990s · the challenge
+Part three · the challenge
 {: .eyebrow}
 
-## Underneath the alarm was a real challenge: we cannot be sure the past happened
+## Postmodernism posed a real challenge: we cannot be sure the past happened
 {: .main-point}
 
 ---
@@ -580,7 +606,7 @@ The 1990s · the challenge
 The 1990s · the moral objection
 {: .eyebrow}
 
-## Many historians' deepest objection was moral: some pasts must be affirmed as real
+## Many historians' deepest objection was moral
 {: .main-point}
 
 ---
@@ -591,18 +617,18 @@ The 1990s · the moral objection
 </div>
 </section>
 
-<!-- ========== THE HISTORIANS KEPT THE PAST ========== -->
+<!-- ========== NO POSTMODERN HISTORIES ========== -->
 <section markdown="1">
 The 1990s · the historians
 {: .eyebrow}
 
-## Historians took the linguistic turn, but almost none stopped believing in the past
+## Historians borrowed from postmodernism, but no major scholar wrote a postmodern history
 {: .main-point}
 
 ---
 
 <div class="quote" markdown="1">
-"Many creative historians took the 'linguistic turn' in the 1980s and 1990s, looking to stories or representations, but almost none of them professed disbelief in the reality of the past."
+"no major scholars actually wrote postmodern works of history; they merely borrowed insights from the trend, while experimental and theoretical work remained confined to the margins of the discipline."
 <div class="cite">Maza, <i>Thinking About History</i>, p. 223</div>
 </div>
 </section>
@@ -639,64 +665,9 @@ Drawing the line
 </div>
 </section>
 
-<!-- ========== THREE CASES ========== -->
-<section markdown="1">
-Drawing the line · Maza's cases
-{: .eyebrow}
-
-## Maza's cases run from fabrication through carelessness to imagination
-{: .main-point}
-
----
-
-<div class="cards three" markdown="1">
-<div class="card" markdown="1">
-
-###### Bellesiles · 2000–2002
-{: .num}
-
-#### Fabrication
-
-A prize-winning book on guns in early America. An outside committee found "outright falsification"; the prize was rescinded.
-</div>
-<div class="card" markdown="1">
-
-###### Abraham · 1980s
-{: .num}
-
-#### Carelessness
-
-He presented "as direct quotes from the sources what were actually his paraphrases," and denied deliberately inventing documents.
-</div>
-<div class="card" markdown="1">
-
-###### Davis · 1983
-{: .num}
-
-#### Imagination
-
-*The Return of Martin Guerre* reconstructs what a peasant wife "must have" known. A critic called it invention.
-</div>
-</div>
-
-Maza, pp. 225–232.
-{: .cite}
-</section>
-
-<!-- ========== IMAGE: CORAS ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="images/coras-arrest-memorable-1618.jpg" alt="A printed title page in roman and italic type reading Arrest memorable du Parlement de Tolose, by Jean de Coras, with a printer's device of a fruiting tree in the center, Lyon, 1618, and library stamps">
-<figcaption markdown="span">
-Jean de Coras, <i>Arrest memorable du Parlement de Tolose</i> ("Memorable Judgment of the Parlement of Toulouse"), Lyon, 1618
-<em>The judge's account of the Martin Guerre trial, first printed in 1561; the trial records are lost (Maza, p. 230). Davis and Finlay were arguing over this source.<br>(Biblioteca Nazionale Centrale, Rome, digitized by Google. Internet Archive. Public domain.)</em>
-</figcaption>
-</figure>
-</section>
-
 <!-- ========== DAVIS AND FINLAY ========== -->
 <section markdown="1">
-Davis and Finlay · 1988
+Davis and Finlay · *Martin Guerre*, 1988
 {: .eyebrow}
 
 ## Davis and her critic disagreed about how far a historian may imagine
@@ -720,24 +691,6 @@ Of her "in part my invention": "I opened the gap between what I hope to accompli
 </div>
 </section>
 
-<!-- ========== DISCUSSION: PART THREE ========== -->
-<section markdown="1">
-Part three · discussion
-{: .eyebrow}
-
-## A story and a lie
-{: .main-point}
-
----
-
-Bellesiles falsified figures, Abraham passed off paraphrases as quotations, and Davis imagined what Bertrande knew. Which of them told a lie, and how would you know?
-{: .question .fragment data-fragment-index="1"}
-
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-Fraud is clear. Short of it, Maza asks rather than answers: "how can any historian know where and how to draw the line between interpretation and distortion?" (p. 229).
-</div>
-</section>
-
 <!-- ================================================================ -->
 <!-- ====== PART FOUR: JENKINS, PP. 70–84 ============================ -->
 <!-- ================================================================ -->
@@ -758,7 +711,7 @@ Keith Jenkins · b. 1943
 Part four · Jenkins, 1991
 {: .eyebrow}
 
-## Jenkins, one of the critics' targets, builds his chapter around his own questions
+## Jenkins builds his chapter around four questions
 {: .main-point}
 
 ---
@@ -804,23 +757,12 @@ His second section, on "that whole mass of history genres."
 
 </section>
 
-<!-- ========== IMAGE: LYOTARD ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="images/lyotard.jpg" alt="A black and white photograph of an elderly man with untidy white hair, in a white open-necked shirt, looking up and to the side">
-<figcaption markdown="span">
-Jean-François Lyotard · 1924–1998
-<em>A French philosopher. <i>La Condition postmoderne</i> (1979) began as a report on knowledge for the universities council of Quebec; the English translation appeared in 1984.<span class="why"><strong>Why he matters:</strong> Jenkins takes his definition of post-modernism from that book.</span>(Photograph: Bracha L. Ettinger, retouched. Wikimedia Commons, CC BY-SA 2.0.)</em>
-</figcaption>
-</figure>
-</section>
-
-<!-- ========== Q1: LYOTARD'S DEFINITION ========== -->
+<!-- ========== Q1: WHAT POST-MODERNISM IS ========== -->
 <section markdown="1">
-Jenkins · question 1 · what it means
+Jenkins · question 1 · what it is
 {: .eyebrow}
 
-## He takes his definition from Lyotard: the "death of centres" and "incredulity towards metanarratives"
+## Post-modernism: the old centers lost their authority, and the great stories their hold
 {: .main-point}
 
 ---
@@ -828,38 +770,6 @@ Jenkins · question 1 · what it means
 <div class="quote" markdown="1">
 "Lyotard's definition at its most basic is rather minimal, characterising post-modernism as witnessing the 'death of centres' and of displaying 'incredulity towards metanarratives'."
 <div class="cite">Jenkins, <i>Re-thinking History</i>, p. 71, summarizing Lyotard, <i>The Postmodern Condition: A Report on Knowledge</i> (1979; English 1984)</div>
-</div>
-</section>
-
-<!-- ========== Q1: THE DEATH OF CENTRES ========== -->
-<section markdown="1">
-Jenkins · question 1 · the centers
-{: .eyebrow}
-
-## Frameworks that looked natural turn out to serve particular interests
-{: .main-point}
-
----
-
-<div class="quote compact" markdown="1">
-"all those old organising frameworks that presupposed the privileging of various centres (things that are, for example, Anglo-centric, Euro-centric, ethno-centric, gender-centric, logo-centric) are no longer regarded as legitimate and natural frameworks (legitimate because natural), but as temporary fictions which were useful for the articulation not of universal but of actually very particular interests"
-<div class="cite">Jenkins, <i>Re-thinking History</i>, p. 71</div>
-</div>
-</section>
-
-<!-- ========== Q1: METANARRATIVES ========== -->
-<section markdown="1">
-Jenkins · question 1 · the metanarratives
-{: .eyebrow}
-
-## The great stories lost their hold: God's first, then progress
-{: .main-point}
-
----
-
-<div class="quote compact" markdown="1">
-"those great structuring (metaphysical) stories which have given meaning(s) to western developments have been drained of vitality. After the nineteenth-century announcements of the death of God (the theological metanarrative), the death of secular surrogates has occurred . . . that whole Enlightenment project; those various programmes of human progress, reform and emancipation that manifested themselves in, say, humanism, liberalism, Marxism, and so on."
-<div class="cite">Jenkins, <i>Re-thinking History</i>, p. 72</div>
 </div>
 
 <div class="reveal-block compare compact" markdown="1">
@@ -871,57 +781,20 @@ Voltaire and Kant argued for progress; Marx gave history a motor.
 </div>
 </section>
 
-<!-- ========== Q2: HIS EXPLANATORY STORY ========== -->
+<!-- ========== Q2: NO FOUNDATIONS ========== -->
 <section markdown="1">
-Jenkins · question 2 · why now
+Jenkins · question 2 · no foundations
 {: .eyebrow}
 
-## His answer: value moved from birth to effort to life to the market
+## Why now: the old stories lost their force, and nobody found new foundations
 {: .main-point}
 
 ---
 
-<div class="flow" markdown="1">
-<div class="step" markdown="1">
-
-###### 01 · Pre-modern
-{: .num}
-
-#### Born to rule
-
-"Divinity, race, blood, lineage": worth was what a man was by birth.
+<div class="quote compact" markdown="1">
+"As they have searched ever harder for some foundations for their own positions, what they have all realised is that no such foundations exist either for themselves or for anybody else – and nor have they ever done so: every idol has had feet made of clay."
+<div class="cite">Jenkins, <i>Re-thinking History</i>, p. 76. The searchers run "from Nietzsche to Freud to Saussure to Wittgenstein to Althusser to Foucault to Derrida"</div>
 </div>
-<div class="step" markdown="1">
-
-###### 02 · The bourgeoisie
-{: .num}
-
-#### Earned, not given
-
-Value "by effort," located in the property that embodied the work.
-</div>
-<div class="step" markdown="1">
-
-###### 03 · The workers
-{: .num}
-
-#### Alive, therefore valuable
-
-With no property, men "had value just by being alive." Marx built them the story.
-</div>
-<div class="step" markdown="1">
-
-###### 04 · After 1950
-{: .num}
-
-#### Exchange value
-
-Worth is what a thing fetches, and "people too take on the garb of objects."
-</div>
-</div>
-
-Jenkins, <i>Re-thinking History</i>, pp. 72–74.
-{: .cite}
 </section>
 
 <!-- ========== IMAGE: BERLIN 1989 ========== -->
@@ -933,131 +806,6 @@ The Brandenburg Gate from the West, with crowds on the Wall, late 1989
 <em>Jenkins wrote a year later. He dates Marxism's troubles from 1917: "actually existing socialism" turned "the workers' supremely optimistic metanarrative" pessimistic (p. 74).<br>(Photograph: Raphaël Thiémard. Wikimedia Commons, CC BY-SA 2.0.)</em>
 </figcaption>
 </figure>
-</section>
-
-<!-- ========== IMAGE: NIETZSCHE ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="images/nietzsche-c1875.jpg" alt="A black and white studio photograph of a young man with a heavy drooping mustache and swept-back hair, in a dark coat and a large bow tie">
-<figcaption markdown="span">
-Friedrich Nietzsche · 1844–1900
-<em>A German classical philologist turned philosopher, photographed about 1875 while he taught at Basel. Jenkins puts him first among the thinkers who looked for foundations and found none (p. 76).<span class="why"><strong>Why he matters:</strong> Jenkins borrows his words for what historians do with the past: they make it theirs and say, "So I willed it" (p. 78).</span>(Photograph: F. Hartmann, about 1875. Public domain.)</em>
-</figcaption>
-</figure>
-</section>
-
-<!-- ========== Q2: NO FOUNDATIONS ========== -->
-<section markdown="1">
-Jenkins · question 2 · no foundations
-{: .eyebrow}
-
-## Jenkins: from Nietzsche to Derrida, every search for foundations found none
-{: .main-point}
-
----
-
-<div class="quote compact" markdown="1">
-"As they have searched ever harder for some foundations for their own positions, what they have all realised is that no such foundations exist either for themselves or for anybody else – and nor have they ever done so: every idol has had feet made of clay."
-<div class="cite">Jenkins, <i>Re-thinking History</i>, p. 76. The searchers run "from Nietzsche to Freud to Saussure to Wittgenstein to Althusser to Foucault to Derrida"</div>
-</div>
-</section>
-
-<!-- ========== Q3: REDESCRIPTION ========== -->
-<section markdown="1">
-Jenkins · question 3 · what it does to history
-{: .eyebrow}
-
-## After Rorty: a past that can be redescribed without end
-{: .main-point}
-
----
-
-<div class="quote compact" markdown="1">
-"this is a past that can be infinitely redescribed. It can and has supported countless plausible and, vis-à-vis their own methodological lights, equally legitimate histories; it has unfailingly given whatever historians (and their impersonators) have wanted and want: various births, origins, legitimating antecedents, explanations and lines of descent (Tory, Whig, Marxist etc.) useful for them as they try to be in control, so that they can make the past their past and so say, along with Nietzsche, 'So I willed it.'"
-<div class="cite">Jenkins, <i>Re-thinking History</i>, pp. 77–78, after Richard Rorty's "re-descriptive turn"</div>
-</div>
-</section>
-
-<!-- ========== Q3: THE MASS OF GENRES ========== -->
-<section markdown="1">
-Jenkins · question 3 · the genres
-{: .eyebrow}
-
-## The result is a mass of histories, each somebody's
-{: .main-point}
-
----
-
-<div class="quote compact" markdown="1">
-"Here we can identify, say, historians' histories (professional histories attempting to exercise hegemony over the field, a version expressed in the thesis, the monograph and the text), teachers' histories (necessarily popularisations of professional histories), and then a whole range of other distinctive forms that can only be listed: children's histories, popular-memory histories, proscribed histories, black histories, white histories, women's histories, feminist histories, men's histories, heritage histories, reactionary histories, revolutionary histories, bottom-dog histories, top-dog histories, etc."
-<div class="cite">Jenkins, <i>Re-thinking History</i>, p. 78</div>
-</div>
-</section>
-
-<!-- ========== Q3: POWER/KNOWLEDGE ========== -->
-<section markdown="1">
-Jenkins · question 3 · power/knowledge
-{: .eyebrow}
-
-## Which history sits at the center is settled by power, not by method
-{: .main-point}
-
----
-
-<div class="quote compact" markdown="1">
-"interpretations at (say) the 'centre' of our culture are not there because they are true or methodologically correct (brilliant histories can be marginalised if their subject matter is unpalatable) but because they are aligned to the dominant discursive practices: again power/knowledge."
-<div class="cite">Jenkins, <i>Re-thinking History</i>, p. 79</div>
-</div>
-
-<div class="reveal-block compare compact" markdown="1">
-
-###### Compare · Week 9.2
-{: .label}
-
-Trouillot: power enters at every stage, from making a source to telling the story.
-</div>
-</section>
-
-<!-- ========== Q3: TWO READINGS OF THE FLUX ========== -->
-<section markdown="1">
-Jenkins · question 3 · freedom or loss
-{: .eyebrow}
-
-## The same flux could free the marginal or leave them no past
-{: .main-point}
-
----
-
-<div class="parallel compact" markdown="1">
-<div class="track" markdown="1">
-
-##### Viewed positively · Jenkins
-
-"This interpretive flux, when viewed positively, is potentially empowering to even the most marginal in that they can at least make their own histories even if they do not have the power to make them other peoples'." <span class="cite">p. 79</span>
-</div>
-<div class="track" markdown="1">
-
-##### The danger · Peter Widdowson's scenario, quoted by Jenkins
-
-"In this scenario, post modernism is the last great gambit of capitalism to [try and] defeat opposition, contestation and change" — a pastlessness "held to be more damaging for those whose constructions are at an early stage." <span class="cite">p. 80</span>
-</div>
-</div>
-</section>
-
-<!-- ========== Q3: HIS OWN POSITION ========== -->
-<section markdown="1">
-Jenkins · question 3 · his position
-{: .eyebrow}
-
-## Jenkins places himself between "authorised history" and no past at all
-{: .main-point}
-
----
-
-<div class="quote compact" markdown="1">
-"Between the Scylla and Charybdis of, on the one hand, authorised history and, on the other, post-modern pastlessness, a space exists for the desirable outcome of as many people(s) as possible to make their own histories such that they can have real effects (a real say) in the world."
-<div class="cite">Jenkins, <i>Re-thinking History</i>, p. 80</div>
-</div>
 </section>
 
 <!-- ========== Q3: HISTORY REDEFINED ========== -->
@@ -1100,56 +848,6 @@ Carr: "Study the historian before you begin to study the facts."
 </div>
 </section>
 
-<!-- ========== Q4: TWO PROPOSALS ========== -->
-<section markdown="1">
-Jenkins · question 4 · two proposals
-{: .eyebrow}
-
-## His two proposals: a reflexive method, and histories of the present
-{: .main-point}
-
----
-
-<div class="cards" markdown="1">
-<div class="card" markdown="1">
-
-###### 01 · Method · p. 82
-{: .num}
-
-#### A reflexive methodology
-
-Students would be "given an explicit analysis of why the history you are getting is the one you are getting and why you are getting it in the way you are and not in any other."
-</div>
-<div class="card" markdown="1">
-
-###### 02 · Content · pp. 83–84
-{: .num}
-
-#### Histories of the present
-
-In Foucault's phrase, "a series of 'histories of the present'": studies of "the makings of the histories of post-modernity itself."
-</div>
-</div>
-</section>
-
-<!-- ========== DISCUSSION: PART FOUR ========== -->
-<section markdown="1">
-Part four · discussion
-{: .eyebrow}
-
-## Jenkins and the line
-{: .main-point}
-
----
-
-Jenkins says the past "can be infinitely redescribed" (p. 77). Can his position still tell Bellesiles from Davis?
-{: .question .fragment data-fragment-index="1"}
-
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-Partly. A falsified table fails even "their own methodological lights" (p. 77). To rank two honest histories, he prefers the one "aware of what it is doing" (p. 82).
-</div>
-</section>
-
 <!-- ================================================================ -->
 <!-- ====== ARC, TAKE HOME, NEXT ===================================== -->
 <!-- ================================================================ -->
@@ -1159,7 +857,7 @@ Partly. A falsified table fails even "their own methodological lights" (p. 77). 
 The lecture · looking back
 {: .eyebrow}
 
-## Objectivity questioned, sources read as texts, a line argued over, and every history positioned
+## Objectivity questioned, sources read as texts, imagination, and positioned history 
 {: .main-point}
 
 ---
@@ -1176,21 +874,21 @@ Questioned from within, then broken when historians made their identity part of 
 </div>
 <div class="card" markdown="1">
 
-###### 02 · Maza, pp. 209–216
+###### 02 · Maza, pp. 209–215
 {: .num}
 
 #### Sources read as texts
 
-Fiction as made, not false: Davis's pardon tales, White's plots, Scott's gender.
+Fiction as made, not false: Davis's pardon tales and White's plots.
 </div>
 <div class="card" markdown="1">
 
-###### 03 · Maza, pp. 220–232
+###### 03 · Maza, pp. 221–232
 {: .num}
 
-#### Arguing over the line
+#### The role of imagination
 
-Almost no historian doubted the past. Most settled on a qualified objectivity, and kept arguing over imagination.
+Historians borrowed from postmodernism without writing postmodern history. Most settled on a qualified objectivity, and kept arguing over imagination.
 </div>
 <div class="card" markdown="1">
 
@@ -1199,7 +897,7 @@ Almost no historian doubted the past. Most settled on a qualified objectivity, a
 
 #### Every history positioned
 
-The past endlessly redescribed, and the only choice between aware and unaware.
+History redefined as a practice for present needs, and the only choice between aware and unaware.
 </div>
 </div>
 </section>
@@ -1243,8 +941,4 @@ Thursday · 10.2
 ## Next: a machine that puts words together the way readers expect
 {: .main-point}
 
----
-
-Jenkins says no history is written from nowhere. Where is a language model writing from?
-{: .question .fragment data-fragment-index="1"}
 </section>

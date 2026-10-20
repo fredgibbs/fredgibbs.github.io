@@ -730,6 +730,24 @@ html, body, .reveal {
 	margin: 0;
 }
 
+/* The credit under the picture: wrap the image in a <figure> with a
+   <figcaption>. The figure shrinks to the image's width, so the credit wraps
+   neatly under the picture instead of running across the slide. Set like the
+   credit line of an image-slide caption: Fraunces italic, muted, caption size. */
+.reveal .with-figure.wide figure {
+	margin: 0;
+	width: min-content;
+}
+
+.reveal .with-figure.wide figcaption {
+	font-family: 'Fraunces', Georgia, serif;
+	font-style: italic;
+	font-size: 0.41em;
+	line-height: 1.4;
+	color: var(--ts-text-muted);
+	margin-top: 0.6em;
+}
+
 /* In this layout the text sits beside a picture, so it runs below the
    quotation in size rather than above it, as .detail does on a title slide. */
 .reveal .with-figure.wide .body .detail {

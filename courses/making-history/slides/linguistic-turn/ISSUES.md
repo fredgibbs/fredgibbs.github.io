@@ -20,34 +20,32 @@ The headlines read in order as one argument:
    schedule's first question. The 1880s ideal of objectivity (Novick, quoted
    on p. 201); the homogeneous room that made it easy (p. 201; the 1919
    Paris photograph); women and Black scholars in the 1970s (p. 204); the end
-   of "Olympian detachment" (p. 205); Sima Qian, then objectivity as a Western
-   convention (pp. 206–208). Discussion.
-2. **Part two, the linguistic turn (pp. 209–216).** Maza's genealogy as a
+   of "Olympian detachment" (p. 205); objectivity as a Western
+   convention (pp. 206–208).
+2. **Part two, the linguistic turn (pp. 209–215).** It opens on what the
+   "post" comes after: Maza's three "absolutist" beliefs (p. 224, out of page
+   order, checked against the page image). The quotation starts at "the
+   collapse" so its "early 1990s" crisis does not read against the next
+   slide's 1980s; the cite keeps the date. Then Maza's genealogy as a
    `.flow` (Saussure, Lévi-Strauss, Derrida, historians), the antihumanist
    cost, the climate that reached historians who never read the theory, the
-   turn itself, and fiction as "made, not false" (p. 211). Then three
+   turn itself, and fiction as "made, not false" (p. 211). Then two
    historians, each with a portrait before their words: Davis and the pardon
-   tales (p. 212), the Fool's Cap Map for Maza's point about maps (p. 214),
-   White and his plots (pp. 214–215), Scott (p. 216). Discussion: a history
-   without narrative, the schedule's second question.
-3. **Part three, the critics and the line (pp. 220–232).** Elton's alarm
-   (p. 220), the real philosophical challenge (p. 221), Evans's moral
-   objection (p. 222), Maza's correction that almost no historian who took the
-   turn doubted the past (p. 223), qualified objectivity (p. 224), the
-   embargo on invention (p. 225), Maza's three cases (pp. 226–231), Coras's
-   title page, and Davis against Finlay as a `.parallel` (p. 232). Discussion:
-   the schedule's third question, story or lie.
-4. **Part four, Jenkins (pp. 70–84).** Portrait, then a `.cards` slide of the
-   four questions his chapter answers, three of them in his own words (pp.
-   71, 72, 81–82; his second section has no question of its own, so its card
-   names the section). Every later Jenkins slide carries its question in the
-   eyebrow: "Jenkins · question 1 · what it means", and so on. Postmodernism
-   is outlined as he outlines it: Lyotard's definition, the death of centres,
-   the metanarratives, his explanatory story of value as a `.flow`, the end
-   of foundations; then redescription after Rorty, the genres,
-   power/knowledge, the two readings of the flux, his position, history
-   redefined; then the unpositioned centre and his two proposals.
-   Discussion: can Jenkins still tell Bellesiles from Davis?
+   tales (p. 212), White and his plots (pp. 214–215).
+3. **Part three, the critics and the line (pp. 221–232).** The real
+   philosophical challenge (p. 221), Evans's moral
+   objection (p. 222), Maza's correction that no major scholar wrote a
+   postmodern history (p. 223), qualified objectivity (p. 224), the
+   embargo on invention (p. 225), and Davis against Finlay over *Martin
+   Guerre* as a `.parallel` (p. 232).
+4. **Part four, Jenkins (pp. 70–84).** Simplified on 2026-10-20 at the
+   author's request: portrait, a `.cards` slide of the four questions his
+   chapter answers, then one quote slide per question giving his conclusion,
+   with the Berlin photograph as the image break. Each slide carries its
+   question in the eyebrow: "Jenkins · question 1 · what it is", and so on.
+   Cut: the Lyotard and Nietzsche portraits, the centres, the value `.flow`,
+   redescription, the genres, power/knowledge, the flux `.parallel`, his
+   position and his two proposals. The quotations kept were all checked.
 
 Then the arc (four cards, one per part), the take home, and 10.2.
 
@@ -55,11 +53,31 @@ Then the arc (four cards, one per part), the take home, and 10.2.
 one quotation and at most a `.reveal-block.compare`. There are no
 `.reveal-block.unpack` fragments on quote slides; the first draft had three
 (Davis's pardon tale, White's four plots, Jenkins's redefinition of history)
-and each became its own slide or was cut. Two writers who disagree share a
-`.parallel` with equal billing: Jenkins and Widdowson on the flux, Finlay and
-Davis on imagination.
+and each became its own slide or was cut. Finlay and Davis, who disagree,
+share a `.parallel` with equal billing.
 
 ## Decisions
+
+**Part three trimmed (2026-10-20).** The author cut Maza's three cases
+(Bellesiles, Abraham, Davis) and the Coras title page as too tangential. The
+p. 223 slide now quotes "no major scholars actually wrote postmodern works of
+history", checked against the page image, in place of the less pointed
+"almost none of them professed disbelief in the reality of the past."
+
+**No Elton slide (2026-10-20).** The author cut the "Francophobia" opener
+to part three as more confusing than helpful. Part three now opens on Maza's
+real philosophical challenge (p. 221).
+
+**No Scott slides (2026-10-20).** The author cut her portrait and quote
+slide: Week 6.2 covers her in depth. Maza's p. 216 drops out of part two.
+
+**No Sima Qian portrait (2026-10-20).** The author cut it: a later painting,
+not a likeness, that argued nothing about objectivity. Part one now runs
+five text slides between the 1919 photograph and the Saussure slide.
+
+**No discussion slides (2026-10-20).** The author removed all four. Don't
+restore them in a later review. Maza's question on p. 229, where to draw the
+line between interpretation and distortion, went with part three's.
 
 **The reading changed during the build.** The schedule first assigned Maza
 "Ch. 8: The Questions of Narrative", pp. 204–211. Maza has no chapter 8; pp.
@@ -74,7 +92,7 @@ historians who took the linguistic turn "professed disbelief in the reality of
 the past," that "no major scholars actually wrote postmodern works of
 history," and (n. 54) that Evans's targets were mostly theorists such as
 Jenkins, while he "wrongly identifies as 'postmodernists'" historians such as
-Davis. So the deck keeps the historians of the turn (Davis, White, Scott)
+Davis. So the deck keeps the historians of the turn (Davis, White)
 apart from the theorist of postmodernism (Jenkins). Don't let a later edit
 call Davis a postmodernist.
 
@@ -92,44 +110,51 @@ opening a part with the work. `gender` opens its part two with Scott's
 portrait, and here the work has no image better than a typographic title page.
 The caption carries the book: date, kind, and Maza's note on who attacked it.
 
-**Images do argumentative work in four places.** The 1919 Paris photograph is
-the "homogeneous" profession at the height of its influence. The Fool's Cap
-Map is a map that is plainly about its makers' "mental universe." The Berlin
+**Images do argumentative work in three places.** The 1919 Paris photograph is
+the "homogeneous" profession at the height of its influence. The 1548 pardon
+letter is a court record read for its story. The Berlin
 photograph sits beside Jenkins's claim that "actually existing socialism"
-turned Marxism pessimistic. Coras's title page is the source Davis and Finlay
-were reading differently.
+turned Marxism pessimistic.
+
+**The genealogy is expanded into four slides (2026-10-20).** At the author's
+request, each column of Maza's genealogy `.flow` got its own
+`.with-figure.wide` slide: image left, a Maza quotation, a short bio and the
+figure's contribution. They sit in Maza's page order, not together: Saussure
+and Lévi-Strauss after the flow, Derrida after the antihumanism slide, the
+historians (a 1548 pardon letter, for pp. 211–212) just before Davis. Each
+slide introduces its person, so there are no separate portrait slides. The
+bios (Saussure's posthumous *Course*, Lévi-Strauss's method, Derrida's
+Algerian birth) are standard facts from outside the readings.
+`deck-check.sh` flags three of them at 649–663px: a two-line headline over
+the 380px image column passes the 644px line, as on every slide of this kind
+in `big-picture-review`. Screenshots show nothing clipped.
 
 ## Open questions
 
-**The deck is long: fifty-eight slides, thirteen of them images.**
+**The deck runs forty-one slides, nine of them with images.**
 `inventing-nations` runs thirty-four. If it needs to come down, candidates in
-rough order: the Elton slide; "Few historians read the theorists"; the
-Lyotard and Nietzsche portraits; "the death of centres"; the two readings of
-the flux; "History, redefined"; "Olympian detachment". Part three could also
-lose Elton and the moral objection and keep the rest.
+rough order: "Few historians read the theorists"; "Olympian
+detachment". Part three could also lose the moral objection.
 
-**Image breaks are thin in part four.** After the Nietzsche portrait there are
-nine content slides and a discussion without a picture. No usable image for
-Rorty, Foucault (Commons has 207×246) or Widdowson was found. A heritage-site
-photograph for Jenkins's "heritage histories" would fit before the flux slide.
+**Two portraits are under 1.5×.** `scripts/deck-check.sh` warns on
+Davis (1.34×) and Jenkins (1.03×). Each is the largest copy found; see `images/README.md`.
 
-**Four portraits are under 1.5×.** `scripts/deck-check.sh` warns on Sima Qian
-(1.27×), Davis (1.34×), Scott (1.25×, the file from `gender`) and Jenkins
-(1.03×). Each is the largest copy found; see `images/README.md`.
-
-**Two portraits are fair use.** Hayden White (Freie Universität Berlin) and
-Keith Jenkins (a frame of a 2013 St Mary's University interview). See
+**Three portraits are fair use.** Hayden White (Freie Universität Berlin),
+Keith Jenkins (a frame of a 2013 St Mary's University interview) and Jacques
+Derrida (a University of Chicago Press author photograph). See
 `images/README.md` for the search and the reasoning.
 
 **Some caption facts come from outside the readings.** All standard, none
 quoted: the biographical lines for Davis, White, Jenkins, Lyotard and
 Nietzsche; that *La Condition postmoderne* began as a report for Quebec's
 universities council; the 1919 photograph's date and place (from the Signal
-Corps caption); Coras's first edition of 1561; the Berlin photograph's date
+Corps caption); the Berlin photograph's date
 (late 1989, uncertain between November and December; the caption says "late
 1989").
 
 ## What the fresh-context review caught (2026-10-16)
+
+Several items below concern Jenkins slides cut on 2026-10-20.
 
 A cold reviewer read the deck against both text caches. Every quotation
 matched at its cited page. Fifteen findings, all verified and worked:
@@ -172,11 +197,8 @@ matched at its cited page. Fifteen findings, all verified and worked:
   74 is about 1989; the 6.2 pointer no longer clashes with Maza's 1970s; the
   1919 caption limits "homogeneous" to the historians in it.
 
-Kept on purpose: the Fool's Cap Map. The reviewer called it a weak example,
-since a satirical map wears its "mental universe" openly. That is why it is
-there: it makes the point visible from the back row, and the caption now
-says it is the linguistic turn's reading, as Maza frames it ("in this
-perspective", p. 214).
+The Fool's Cap Map, which the reviewer called a weak example, was later cut
+by the author (2026-10-20): it is a map, not a text.
 
 The reviewer could not verify Jenkins's Nottingham degree or his 2008
 retirement (both from his Wikipedia article). The Nottingham line was cut

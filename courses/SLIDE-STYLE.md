@@ -1,268 +1,94 @@
 # Slide Deck Rules
 
-How to write and build a lecture deck for any course on this site. Read this
-before starting a new one. The mechanics of the CSS classes (`.eyebrow`,
-`.reveal-block`, `.swap`, `.parallel`, etc.) are documented in the header
-comment of `/assets/css/reveal-lecture-theme.css` — that comment is canonical;
-don't duplicate it here. This file is about what to write and how to source it.
+How to write and build a lecture deck. The CSS class mechanics are documented
+in the header comment of `/assets/css/reveal-lecture-theme.css`, which is
+canonical; this file covers what to write and how to source it.
 
-A deck lives at `courses/<course>/slides/<deck-slug>/`, with `index.md` beside
-an `images/` folder and, when it has open problems, an `ISSUES.md`. Both
-`ISSUES.md` and `images/README.md` are contributor notes, excluded from the
-build in `_config.yml` — never served, so write them for whoever picks the
-deck up next. Worked examples named below are in
-`courses/making-history/slides/` unless another course is given; the older
-`courses/critical-thinking-with-ai/slides/` decks predate these rules and
-aren't models to copy.
+A deck lives at `courses/<course>/slides/<deck-slug>/`: `index.md`, an
+`images/` folder with a `README.md`, and an `ISSUES.md` when it has open
+problems. Both notes files are excluded from the build, so write them for
+whoever picks the deck up next. Worked examples are in
+`courses/making-history/slides/`. Older decks that break a rule below are fine
+until someone next works on them; the `critical-thinking-with-ai` decks predate
+these rules entirely.
 
 ## Content rules
 
-**Be direct. Avoid metaphor.** Say what happened and what it means. Don't
-reach for a figurative frame ("a tapestry of...", "unpacking the...", "at the
-heart of...") when a plain sentence says it faster. Figurative language costs
-clarity: a student has a few seconds with a slide and shouldn't spend them
-decoding an image to find the claim. The one metaphor that earns its place is
-the *subject's own* — Kant's "crooked timber," Carr's fish on the fishmonger's
-slab — quoted as theirs, never invented as decoration.
+### Voice
 
-**Name people; don't reduce them to a single deed.** "The man who built the
-university, writing about what historians do" is magazine prose — an epithet
-standing in for a name — and it makes a scope error in both directions at
-once.
+**Match the syllabus register.** `schedule.md` is the model: flat,
+declarative, specific, unexcited. "A direct challenge to the Week 4
+professionalization story." A slide should read like that, not like an
+explainer walking someone through a revelation.
 
-*Too large for the deed.* Humboldt directed the Prussian education section for
-about sixteen months, drafted a plan, and resigned the post in 1810 before the
-university opened, staying on only as chair of its founding committee. A
-ministry, a committee, Fichte and Schleiermacher are all inside the word
-"built." The construction awards one person sole agency over something
-institutional — the great-man compression this course spends a semester
-teaching students to distrust.
+**Be direct; avoid metaphor.** Say what happened and what it means. The one
+metaphor that earns a place is the subject's own (Carr's fish on the
+fishmonger's slab), quoted as theirs. Reuse the course's established metaphors
+in the same words each time. Coin a new one only if it is the source's own
+image, the slide stops to explain it, or there is no plain equivalent.
 
-*Too small for the person.* Humboldt's standing rests on comparative
-linguistics, the Basque and Kawi work, the theory of *Bildung*, and Prussian
-diplomacy at Vienna as much as on a university. A polymath introduced by one
-administrative act has been made smaller, not clearer, and the epithet quietly
-tells students that is all he was.
+**Cut on sight:** "Hold onto this," "Notice that…," "Worth keeping in view,"
+"This is the actual innovation," "the useful question isn't X, it's Y," and
+any staging by clock or slide count. A label names what its block contains
+("The word 'only'"), not how to feel about it.
 
-Write instead the name, the standing that put the person in a position to
-produce this text, and a claim: "A comparative linguist, not a historian,
-defines the historian's task." The register to aim for is the one you would
-use in a journal article — plain, specific, no build-up. **The test: if the
-headline would sit comfortably as a magazine subhead or on a book jacket,
-rewrite it.** Precision is usually the more interesting option anyway —
-"resigned before it opened" is a better sentence than "built it," and it has
-the advantage of being true.
+**Don't comment on the course or the deck.** No "now that you have read
+them," no "as you saw last week," no "three slides earlier." Call the session
+**today**, never "the hour." A specific course connection is fine: "the two
+writers you read," a `.source-list`, a `.cite`.
 
-This is not a ban on describing someone by a role or a station. "A schoolmaster
-of twenty-eight, publishing his first book" is accurate, checkable, and
-deflates rather than inflates — it earns its place because the point of the
-slide is how ordinary Ranke's position was. What goes is the heroic epithet
-that substitutes for a name and settles a person's significance in one clause.
+**One epigram per part.** A chiselled antithesis only lands against plain
+sentences. The take home usually earns it; elsewhere, state the finding and
+stop. The giveaway is the numeric pairing ("One file, two historians"). If four
+parallel labels or `.flow` steps match perfectly, break one.
 
-**Cut the explanatory tail.** Headlines drift into two parts — a claim, then a
-comma and a clause explaining how it came about: "Two jobs history had always
-claimed, handed back in one sentence"; "A schoolmaster of twenty-eight,
-publishing his first book"; "The best-trained history in Europe, put to work
-for the nation." The first part lands. The tail explains, and the block
-underneath is about to explain it anyway, at more length and better.
+**Don't follow a claim with its own negation.** "Peer review polices accuracy.
+It does not police the question." The test is what the second sentence is
+about: if it is about the first sentence, fold it in ("polices accuracy, and
+stops there") or cut it. A second sentence with a new subject, reason or
+consequence stays.
 
-The test: read the headline without the tail. If the claim survives, the tail
-was scaffolding — "Two jobs history had always claimed" leaves a student
-leaning forward, and the quotation below delivers the rest.
+**Hedge at about the syllabus rate.** "Usually," "almost," "a fairly specific
+complaint." Uniform confidence reads as a brochure and tells the room there is
+nothing left to argue about.
 
-Keep a second element only when it carries a *turn* rather than an
-explanation: a contrast ("A comparative linguist, not a historian, defines the
-historian's task"), a reversal ("Both of them promise 'what actually
-happened.' Neither meant just the facts"), or a genuine pair the slide is
-built on ("A problem described, and a problem given a procedure"). Those are
-not tails — the claim is incomplete without them. And where a tail is really a
-predicate in disguise, promote it instead of cutting: not "The best-trained
-history in Europe, put to work for the nation" but "The best-trained history
-in Europe was put to work for the nation."
+**Let people act, not abstractions.** "What each one wants from the page
+settles it," not "the purpose settles the question."
 
-**Don't follow a claim with its own negation.** A sentence lands, and a second
-one arrives to rule out its opposite. "Peer review polices accuracy. *It does
-not police the question.*" "Here the motor finishes the story by itself.
-*Nobody has to choose the outcome.*" "That subject is the new part. *The genre
-is not.*" "The purpose settles the question before the document does. *Neither
-of them is making anything up.*"
+**Spell in American English** in the deck's own voice. Quotations, names and
+titles keep their own spelling.
 
-The shape reads as precision — the writer appears to be fencing the claim in.
-What it does is spend a sentence on the first one's shadow. A reader who
-understood "peer review polices accuracy" already knows it does not police
-everything else; the negation only points at which part of the obvious to
-attend to, which is the reader's work and not the slide's. On a `.takehome` it
-is also expensive: the budget is thirty words, and half of them have gone to a
-sentence with no subject of its own.
+### Headlines and eyebrows
 
-**The test is what the second sentence is about, not whether its negation is
-true.** "It does not police the question" is true and it is useful. Ask what
-the sentence is *about*: if the answer is "the sentence before it," cut it. If
-it brings a new subject, a consequence or a reason, it is a second claim and it
-stays — "Nothing in the method catches that, *because the method starts after
-the question is chosen*" survives on the clause after the comma, which is doing
-what the negation is not.
+**Name people; don't reduce them to one deed.** "The man who built the
+university" is too large for the deed and too small for the person. Write the
+name, the standing that put them in a position to write this, and a claim: "A
+comparative linguist, not a historian, defines the historian's task." Test: if
+it would sit comfortably as a magazine subhead, rewrite it. A deflating role
+("a schoolmaster of twenty-eight") is fine.
 
-Three fixes, in the order worth trying them. **Fold the denial into the claim**,
-so one sentence carries both: "Peer review polices accuracy, and stops there."
-**Name what fills the gap** rather than naming the gap: not "it does not police
-the question" but "the question was chosen before peer review starts." Or **cut
-the second sentence**, which is usually the answer, because the first one had
-finished.
+**Cut the explanatory tail.** Read the headline without the clause after the
+comma. If the claim survives, cut the tail. Keep a second element only when it
+carries a turn: a contrast, a reversal, or the pair the slide is built on.
 
-This is a rule about a second *sentence*. The appositive — "paper was a fact of
-European archives, not a rule of evidence" — is one sentence carrying a
-contrast, which is the fix, not the defect. A genuine parallel is also not this:
-"Zoom out and you can explain everything and decide nothing. Zoom in and you can
-decide everything and explain almost nothing" has two subjects, and the second
-sentence would survive without the first.
+**Headlines run the full width.** No `max-width`, no manual `<br>`.
 
-Decks written before 2026-10-02 still carry it and are fine as they are:
-`marx-structural-history` has two, `scientific-history`, `enlightenment-progress`
-and `divine-power-and-statecraft` one each. Write new ones this way.
+**Eyebrows are labels:** what and when, a few words with `·` between the
+parts. `Voltaire · 1694–1778`, `Part one · discussion`. If it needs a verb, it
+belongs in the headline. A cold open's eyebrow names the pictures on screen.
 
-**A name that never comes back is a citation, not a lesson.** Supporting
-blocks fill up with people who are there to prove the headline rather than to
-be taught. From `history-from-below`: "France from the 1820s: Thiers and
-Michelet made 'the people' the movers of 1789. England: Macaulay (1848), then
-his great-nephew Trevelyan." Four names, two dates and a family relation, all
-supporting a headline — "Social history was already a century old" — that
-students have already read and accepted. A student who forgets Thiers,
-Michelet and Macaulay on the way out has lost nothing the session needed.
+### Names and cross-references
 
-**The test is mechanical: search the deck for each proper noun on the slide.**
-One occurrence, never picked up again, means the name is doing citation work —
-and the reading does citation better, because it is on the syllabus, it has
-page numbers, and it is there on the evening a student actually wants the
-lineage. In that block the three French and English historians occur once
-each; Trevelyan occurs four times, and the other three are all on his own
-slide two sections later, which introduces him properly. So he is a forward
-reference here, not an exception — the later slide does the work, and naming
-him early spends attention twice for one payoff.
+**A name that never comes back is a citation, not a lesson.** Search the deck
+for each proper noun on a slide. One occurrence means the name is licensing a
+claim the headline already made: write the claim and drop the roster. Delete;
+don't demote to small type.
 
-Write the claim and let the roster go: "France from the 1820s, England from
-the 1840s: national histories with 'the people' as the movers." The period,
-the two countries and the move all survive. What goes is the list.
-
-*Delete; don't demote.* The tempting compromise is to keep the detail in
-smaller type under the main point. That keeps it on the screen, where it still
-costs a student the second or two it takes to decide it is not the argument —
-smaller clutter is still clutter, and a deck has no quiet margin the way a page
-does. The detail goes in the speaker notes or it goes nowhere.
-
-This does not soften "Name people; don't reduce them to a single deed." That
-rule governs the person whose slide it is: name them, give them the portrait,
-say what they did. This one governs the other case — names appearing in a list
-to license a claim the headline has already made. The first is teaching; the
-second is a footnote that wandered onto the screen.
-
-**Reuse the course's metaphors; invent new ones only for a reason.** A figure
-students have already met is an asset. When a later slide says "the program was
-a room, not a thesis," or calls Marx's answer a motor, it reaches back and
-recalls the slide where that image was built — the phrase is doing the work of
-a whole argument students have already sat through, and repetition is how it
-becomes shared vocabulary for the course rather than one slide's decoration.
-Use them deliberately and use the same words each time; a metaphor rephrased is
-a metaphor thrown away.
-
-The bar is on **invention**. A new figure standing in for a plain statement
-costs a beat of translation, and in a lecture that beat is spent not listening.
-"What the documents say, once the embroidery is off" means *reported without
-invention* — but the reader has to work out that embroidery is added detail,
-and by then the slide has moved on. It reads well and teaches badly.
-
-So before coining one, have a specific reason. Good reasons: it is the source's
-own image (Braudel's fireflies — his, quoted, and unpacked where it appears);
-the slide stops and explains it (a structure is a prison, then "a structure is
-defined by what it forbids"); or it names something with no plain equivalent.
-Not a good reason: it sounds better than the literal sentence. The rule binds
-hardest on the orientation slides (`.throughline`, `.thread`, `.cards`), which
-students read fast and in passing — but note that those slides are also where
-an *established* metaphor pays off most, because a reader skimming recognizes
-it instantly.
-
-**Keep eyebrows as simple as possible.** The `.eyebrow` is a label, not a
-sentence: what this slide is about, and when. `Voltaire · 1694–1778`. `The
-Enlightenment · roughly the 1680s to the 1790s`. `Discussion · 4.1`. A few
-words, or a name and a date, with `·` between the parts. Don't editorialize
-there and don't let it pre-empt the argument the headline is about to make —
-"The take home · the same sentence, now with evidence behind it" is a sentence
-wearing a label's clothes. If the eyebrow needs a verb, it belongs in the
-headline.
-
-A cold-open slide's eyebrow should name the pictures, not the moment. "Before
-we start" is wrong on the fourth slide of a deck — the class has started, and
-two paintings have been up for several minutes. `Lepanto, 1571 · the olive
-grove, 1889` labels what is actually on screen, and gives the two dates the
-slide is about to set against each other.
-
-**Don't comment on the course itself.** Asides like "now that you have
-actually read them," "as you saw last week," or "the same sentence, now with
-evidence behind it" are well meant — they credit the work students did — but
-they are clutter. They spend a line on the mechanics of the class instead of
-the history, and they date the slide to one delivery of it. Say what the choice
-or the claim is; don't tell the room it is now qualified to consider it.
-
-The same goes for pointing at the deck's own machinery: "three slides
-earlier," "compare the portrait two slides on," "see the note on the closing
-slide." These break the moment anything is moved or inserted — every one of
-those three examples was dangling or off by one by the time its deck was
-finished — and a reader who needs the connection is better served by six words
-repeated than by being sent somewhere. If a disclosure matters, put it where
-the problem is, not where you promise it will be.
-
-**Don't call the class meeting "the hour."** The recurring furniture slides
-attract a particular tic: locating the session in time and space instead of
-naming it. "Where this hour sits," "where the hour went," "where this lands,"
-"the rest of the hour." It reads as writerly, it is one more thing the room has
-to decode, and it dates the slide to a delivery that may run fifty minutes or
-seventy-five. Say **today**:
-
-| Instead of | Write |
-|---|---|
-| Where this hour sits | **Today in context** |
-| Where the hour went | a headline naming what the three parts *were* |
-| Discussion · where this lands | **Part one · discussion** |
-| Why the rest of the hour is Ranke | Why the rest of today is Ranke |
-
-This is about text on slides, not about how this file talks. The throughline
-and arc slides are the usual offenders because their eyebrows get written once
-and copied forward; `annales-longue-duree` has the right versions of both.
-
-**Cross-references stay, but flatten them to a pointer.** References backward
-and forward are worth making — they are most of what makes a survey course
-cohere. What they should not be is staged. What goes is the narration wrapped
-around them — "the shape historians in Week 9 will find underneath
-nineteenth-century imperial history," "Herder, who closed the last session
-refusing any universal standard, is the ancestor of the move." Those spend
-three lines dramatizing a connection that one clause can make.
-
-**But the pointer says what the comparison is for.** A bare `Compare Week 4
-(Ranke, Treitschke).` names two people and leaves the student to work out what
-about them to recall. Most of the room will not, and on a photographed slide
-nobody is there to say it out loud. Add one clause naming the point of
-contact, the shared move or the difference:
-
-| Bare pointer | Label | Clause |
-|---|---|---|
-| Compare Week 4 (Ranke, Treitschke). | Compare · Week 4 | Treitschke, trained under Ranke, made Bismarck's unification of Germany look inevitable. |
-| Compare Voltaire in 4.1. | Compare · 4.1 | Voltaire judged the past by taste. |
-
-**The test: could a student who missed that week say what to look for?** If
-the line only names people, no. Keep it to the one clause, about fifteen
-words, written as a fact about the other week rather than a lesson about this
-one. A clause that explains why the comparison matters ("which shows that
-method cannot protect against…") has turned back into narration. Say what is
-over there; the room can supply the "so." Reuse the earlier deck's own words
-where it has them — "made … look inevitable" is how `scientific-history` puts
-Treitschke — so the pointer recalls a slide the students sat through.
-
-**Set a standalone pointer as a `.reveal-block.compare`.** Written as a loose
-paragraph or a `.detail`, it renders in the body voice and reads as one more
-claim on the slide. The `.compare` modifier reuses the `.reveal-block`
-label-and-text look with a dashed border, the theme's mark for elsewhere in the
-course (as on the throughline's next node). The week goes in the label, the
-clause in the body:
+**A cross-reference says what to look for.** Not "Compare Week 4 (Ranke,
+Treitschke)" but one clause of about fifteen words stating a fact about the
+other week, in that deck's own words where it has them. Test: could a student
+who missed that week say what to look for? A standalone pointer is a
+`.reveal-block.compare`, not a fragment:
 
 ```
 <div class="reveal-block compare compact" markdown="1">
@@ -274,204 +100,44 @@ Treitschke, trained under Ranke, made Bismarck's unification of Germany look ine
 </div>
 ```
 
-It is not a fragment: a signpost shows with the slide. Nor is it the kind of
-`.reveal-block` that the one-idea-per-slide decks (`gender`,
-`inventing-nations`) rule out — those forbid a block that unpacks the slide's
-quotation, and a pointer to another week does not. Where a pointer ends a
-sentence inside a block that is already there, leave it inline with its
-clause; the box is for a pointer that stands on its own.
-
-Decks written before 2026-10-09 carry bare pointers (`annales-longue-duree`,
-`enlightenment-progress-2`, `marx-structural-history`, two in
-`scientific-history`) and are fine as they are. Write new ones this way.
-
-**The register to match is the syllabus, not an explainer.** `schedule.md` is
-the model: "Pay attention to what Bede thinks history is *for* — compare his
-answer to Livy's." "Read after Burke and focus on the core contrast: slow
-structures versus fast events." "A direct challenge to the Week 4
-professionalization story." Flat, declarative, specific, unexcited. A slide
-should read like that, not like something walking a reader through a
-revelation.
-
-Phrasings to cut on sight, all of which crept into these decks and had to be
-removed: **"Hold onto this"**, **"Notice that…"**, **"Worth keeping in
-view"**, **"The question worth carrying"**, **"Which is the uncomfortable
-part"**, **"This is the actual innovation"**, **"the useful question isn't X,
-it's Y"**, and any staging by clock or slide count ("twenty minutes from now,"
-"three slides earlier"). Block labels attract this worst of all: prefer a
-label that *names* what the block contains — "The innovation," "The word
-'only'," "Whose manners," "What rigour does not prevent" — over one that
-instructs the reader how to feel about it.
-
-A specific course connection is not clutter and stays: "the two writers you
-read," "Bridge between weeks 3 and 4," a `.source-list`, a `.cite`. Those point
-at something — this text, that session, this week's place in the sequence — and
-that pointing is the work. What goes is the flourish that points at nothing.
-Second person is likewise fine when it's doing analytic work ("the useful
-question isn't 'is it true?'"), not when it narrates the seminar.
-
-**One epigram per part; let the rest just say the thing.** The vocabulary rules
-above are being followed — a scan of these decks for *delve*, *crucially*, *at
-stake*, *tapestry* returns nothing — and they can still read as marketing,
-because the defect is rhythm rather than diction. Every container closes on a
-chiselled line: a two-beat antithesis, a reversal, a noun phrase balanced
-against its opposite. When all eight `.takehome`s on a deck do it, none of them
-lands. An aphorism works by contrast with the plain sentences around it, and a
-deck made entirely of aphorisms has removed the thing that made one worth
-reading.
-
-`what-are-we-talking-about` was first written this way: eight takehomes, eight
-epigrams, with "One file, two historians", "Three jobs, one file", "Narrow
-repairs, no line" and "One trial, one man" in the headlines and card heads on
-top of them.
-
-Budget one per part. The take home almost always earns it and one discussion
-crux might; everywhere else, state the finding flatly and stop. "Ranke and
-Ginzburg, reading the same trial record" is a worse slogan and a better headline
-than "One file, two historians", because it tells a student what is on the
-slide.
-
-**The giveaway is the numeric pairing.** "One file, two historians." "Three
-jobs, one file." "One trial, one man." "Same file, same care, two different
-histories." That construction ran four times in that one deck and appears zero
-times in `schedule.md` or in `why-study-history.md`. A line that sets a count
-against another count was reached for, not thought of.
-
-**If four labels are in perfect parallel, break one.** `Against speculation /
-Against the archive / Against abstraction / Against the crowd` is a set that was
-generated rather than written — by the fourth, the pattern is picking the words.
-The same goes for four `.flow` steps that each run "X is A. Y makes it B." Vary
-the shape of at least one, and start with whichever is most strained to fit.
-
-**Hedge at about the rate the syllabus does.** Qualifiers per thousand words:
-`why-study-history.md` and the `archive/` essays **10.7**, `schedule.md` **3.1**,
-`what-are-we-talking-about` as first written **1.2**. "At least three scales,"
-"it often fails," "almost never written down," "usually" — that is what the
-register sounds like when someone who knows the material is talking, and the
-absence of it is most of what makes a deck sound machine-made. Restoring it
-costs a word each time: *a fairly specific complaint*, *almost nobody agrees*,
-*these aren't always compatible goals*, *most of them believe the decision is
-justified*. Uniform confidence across forty slides is not authority; it reads as
-a brochure, and it quietly tells a room there is nothing left to argue about on
-the day they are supposed to argue.
-
-**Spell in American English.** *Color*, *neighbor*, *labor*, *center*,
-*gray*, *judgment*, *recognize*, *organize*, *labeled*, *leveled*, *license*
-as the noun. This covers everything a deck says in its own voice — headlines,
-eyebrows, cards, captions, alt text, `.ask` questions — and the notes beside
-it, this guide and the theme's CSS comments. Two things keep their own
-spelling. **Quotations** stay as printed: Marx's translator's "civilisation,"
-Herodotus's "learnt by inquiry," Thompson's "labour" are the source's words,
-and changing them is misquoting. **Names and titles** stay too: the Centre for
-Studies in Social Sciences, Calcutta; a pamphlet called the "Fellow
-Labourer"; an image file already named `…-judgement.jpg`. Every deck was
-brought into line on 2026-10-12, so a British spelling outside quotation marks
-is a slip, not a house style.
-
-**Let people act, not abstractions.** "The purpose settles the question before
-the document does" has nobody in it. The syllabus's instinct is the opposite —
-"a few men in a room, with particular interests, particular fears" — and so is
-the course's whole argument about scale. Prefer "what each one wants from the
-page settles it."
+### People, texts and context
 
 **Introduce people on their portrait slide, then go straight to the detail.**
-The sequence for a person is two slides, not three: an image slide whose
-caption carries the whole introduction, then the first content slide about
-what they wrote.
+Two slides, not three: an image slide whose caption carries the introduction,
+then their words. The caption rail holds the name and dates, a brief bio, a
+`<span class="why"><strong>Why he matters:</strong> …</span>` line, and the
+credit. Wrap the whole sentence in the span and never fake the gap with
+`<br><br>`. The why line says what the person *did* that the rest of the deck
+depends on, not what happened to them; check it against the takehomes. Keep the
+caption under about 500 characters, since the rail clips past about 640. Model:
+the portraits in `enlightenment-progress-2`. Where a person matters for one
+idea only, an explainer slide (see "Image slides") can introduce them and the
+idea together.
 
-Put in the caption rail, and nothing else: **the name and dates** on the label
-line, then a **brief bio** — where they lived, what they had done, what put
-them in a position to write this — then a **`Why he matters:` line** saying
-what their presence in this session is for, then the **credit**. No headline,
-no `.reveal-block`, no take-home; the picture and the rail are the slide. A
-face and a paragraph beside it introduce someone faster than a slide of dates
-with no face, and it buys back a slide per person.
+**Introduce before you quote.** Nobody's words go on a slide, and nobody's name
+goes in a headline as the one acting, before the slide that introduces them.
+Two exceptions: the narrator (the `Background:` author), and a voice quoted
+through the narrator ("Kramer, quoted in Maza"), so long as the slide does not
+make them its subject.
 
-**Wrap that line in `<span class="why">`.** It renders as a block with space
-above it, which sets it off from the biography — the two are doing different
-jobs and should not run together as one paragraph. Wrap the whole sentence and
-not just the `<strong>` label, or the text after the colon is orphaned onto its
-own line. Never fake the gap with `<br><br>`: the spacing then differs deck to
-deck and nothing carries it to the next one.
+**No portraits of textbook authors.** The `Background:` author narrates the
+session and the title slide introduces them. Authors of primary readings get
+portraits.
 
-**The line says what the person *did*, not what happened to them.** The test is
-whether it would still be true and still be interesting if the person's
-circumstances had been comfortable. "He wrote the book quoted here out of notes
-and memory, with no library he could reach" is arresting, and it is
-biography — it belongs in the bio sentences above, or better, on the slide that
-quotes him saying so. What it is not is a reason Bloch matters to a lecture on
-structures; the reason is that he argued the shape of a French field outlasts
-every law written to explain it. Posts held, books edited, who succeeded whom
-in which chair are the same kind of fact: real, useful in the bio, and not an
-answer to "why is this person in this session." Name the claim, the method or
-the move that the rest of the deck is about to depend on. Check it against the
-takehomes: if nothing later in the deck pays the line off, it is the wrong
-line.
+**Introduce texts as things first:** when, where, how long, what kind of
+document. A source's own history is often worth a slide.
 
-Keep the whole caption **under about 500 characters**. The rail is `max-width:
-26%` — roughly 214px of text, about 26 characters a line in the italic body —
-so 500 characters is already some twenty lines against a 640px slide. Past
-about 640 characters the rail overflows and is clipped, not scrolled. The four
-portrait captions in `enlightenment-progress-2` (Voltaire, Kant, Condorcet,
-Herder) run 426–504 and are the model.
+**Context before lessons.** The period, what the writer was reacting to, what
+readers already believed; then the quote; then what it tells us.
 
-The person's *arguments* still get full slides afterwards, unchanged — this
-rule only replaces the separate "00: who they are" bio slide, which said in a
-two-column `.parallel` what a caption can say beside a face. The older decks
-(`divine-power-and-statecraft`, `scientific-history`, and part one of
-`enlightenment-progress`) still carry standalone bio slides; they predate this
-rule and are not the model on this point.
+**Use images at every opportunity.** Every named person gets a portrait if one
+exists, every named place an image. Run no more than two or three content
+slides without an image break, and look for images that do argumentative work.
 
-**Introduce texts as things before getting into their details.** Before
-unpacking a passage, say what the text *is*: when it was written, published
-where, how long, what kind of document. A primary source is an artifact with
-a history of its own — where it sat for decades, who printed it, what
-occasioned it — and that history is often worth a slide by itself (see the
-Valla/Donation-of-Constantine sequence, or Bede's source list).
+### Length
 
-**Historical context before lessons from the reading.** Establish the
-situation before drawing anything out of a text: the period, what was going on,
-what the writer was reacting to, what their readers already believed. Then the
-quote, then what it tells us. A takeaway offered before that context is just an
-assertion students have to take on faith. This is the same principle as
-introducing people and texts before their ideas, one level up — the Renaissance
-bridge slide and "the Enlightenment as a phenomenon" in `enlightenment-progress`
-exist so the Voltaire quotes have somewhere to land.
-
-**Use images at every opportunity, for people and for place.** Every named
-person gets a portrait if one exists, except the textbook author (below).
-Every named place gets an image. Don't run more than two or three content
-slides without an image break — see `reveal-image-slide.css` and the
-`image_slides: true` front-matter flag. An image can also do argumentative
-work (two faces of one stone, an empty year on a real manuscript page) — look
-for that opportunity, don't just decorate.
-
-**No portraits of textbook authors.** The author of the `Background:`
-reading — Popkin, Maza, Green & Troup — narrates the session rather than
-being one of its subjects, and the title slide has already introduced them. A
-portrait spends a slide, usually on a fair-use snapshot of a living scholar,
-introducing someone the deck is not teaching about. The authors of the
-primary readings still get theirs. `inventing-nations` ended on Maza's face
-until the author cut it on 2026-10-11.
-
-**Keep the blocks short. The `.takehome` is a line, not a paragraph.** This is
-the rule these decks break most often, and the drift is measurable. Median
-`.takehome` length, oldest deck to newest: 116 characters in
-`divine-power-and-statecraft`, 160 in `enlightenment-progress-2`, 308 in
-`scientific-history`, 358 in `marx-structural-history` — where the longest ran
-to 675. The `.reveal-block` held roughly steady across all four (323, 326, 358,
-362), so it is specifically the takeaway that inflated, in a theme whose own CSS
-calls it "the pithy takehome line."
-
-That rule worked where it was applied. Re-measured, `marx-structural-history`
-now runs a median `.takehome` of 20 words and `annales-longue-duree` 13. What
-it did not cover is every other paragraph on a slide, and those are where the
-length went instead.
-
-**The budgets, in words.** Count words, not characters — a character budget is
-not a thing you can hold in your head while writing a sentence, so in practice
-nobody checks it. These numbers are the same budgets as before at roughly six
-characters a word, extended to the containers that never had one:
+**Keep the blocks short. The `.takehome` is a line.** Count words;
+`scripts/slide-words.py` checks these budgets.
 
 | Container | Target | Hard stop | It is |
 |---|---|---|---|
@@ -483,166 +149,51 @@ characters a word, extended to the containers that never had one:
 | `.detail` | **30 words** | 40 | one sentence under a headline |
 | `.main-point` headline | **14 words** | 18 | a claim, no explanatory tail |
 
-The two caption rows are split by **job, not by tag**. A caption is an
-introduction when it carries a `<span class="why">` line — usually the rail of
-a `figure.portrait`, but a small landscape photograph can introduce someone
-too, and then it gets the larger budget. Every other caption says what the
-picture is and makes one point, and gets the smaller one.
+A caption that carries a `why` line is an introduction and gets the larger
+budget. Read a block aloud: a second breath means two blocks. A takehome that
+joins two independent claims with "and" has stopped being a line. Use bullets
+for genuinely parallel items, within the same budget. Cut first: the
+attributive clause the cite already covers, the second quotation, the
+qualification the next slide makes, and any sentence restating the label.
 
-Where the uncovered ones stand now, median words per deck, oldest to newest:
-the `figcaption` `<em>` ran 68 in `divine-power-and-statecraft`, 53 in
-`scientific-history`, 49 in `enlightenment-progress-2`, 59 in
-`marx-structural-history`, **69** in `annales-longue-duree` — no improvement
-across five decks, and the newest is the longest. Note bullets run 39 to 57 on
-the same decks. Both are roughly **half again over** the targets above, and
-neither has ever been measured before now.
+**Every slide fits the 960×700 box,** about 880×640 usable. Overflow is
+clipped, not scrolled. Plan on one quote plus two or three blocks. When a slide
+runs long: add `.compact`, cut words, use a `.swap`, or split it.
 
-**Length is the register problem.** The vocabulary rules above are being
-followed — a scan of the recent decks for the usual tells ("isn't just X, it's
-Y", "crucially", "at stake", "delve") finds almost nothing. What still doesn't
-sound like `schedule.md` is the *shape*: a 69-word caption has room for a
-setup, a turn and a conclusion, so it acquires them, and three-beat prose reads
-as written-by-committee however plain its words are. The syllabus sentences the
-register rule holds up as models — "A direct challenge to the Week 4
-professionalization story" — are nine words and one clause. A caption at 40
-words can hold what the picture is plus one point. At 70 it is an essay set in
-type nobody can read, and it will sound like one.
+### Quotations and citations
 
-**Check the budget before the browser, with the deck's own numbers:**
+**Precision over invention: never fabricate a quote.** Every quotation comes
+from a source open in front of you, with a real page or section. Without the
+text, paraphrase and cite the chapter. Record that compromise in `ISSUES.md`
+and tell the author, never on the slide.
 
-```sh
-scripts/slide-words.py courses/<course>/slides/<deck>/index.md
-```
+**Every `.cite` names the work.** A bare page number fails. State the edition
+once, in the title slide's `.citation-note`. When the PDF is an excerpt from a
+larger volume, say which piece each page belongs to. For a quote of a quote,
+cite both ends.
 
-It prints every container over its target with a word count and the first few
-words, and exits non-zero if anything is over its hard stop. Run it on a
-finished deck the way you'd run a linter; overflow in the viewport and overflow
-in the register are the same defect caught at two different moments.
+**Keep the framing clause when you quote a quote, and attribute
+superlatives.** The secondary author's framing is usually why the quote is
+there. Write "Popkin dates the first American history PhD to Johns Hopkins,
+1876," not the claim in the deck's voice.
 
-How they inflate, in the order it happens. A block is written as a claim. Then
-a supporting quotation is dropped in whole, because it was already checked and
-seems a shame to waste. Then a clause is added attributing it. Then a second
-finding is appended because it is on the same page of the reading. Nothing in
-that sequence feels like padding while you are doing it, and the block doubles.
+**Check the original language when the wording carries the argument.** Two
+writers can converge in English and diverge in the original: Humboldt's
+*Darstellung des Geschehenen* is not Ranke's *wie es eigentlich gewesen*. Name
+the translator when the choice does work.
 
-**The test: read the block aloud. If you take a second breath, it belongs to two
-blocks.** A second test, for the takehome specifically: if it contains the word
-"and" joining two independent claims, or a parenthetical page citation in the
-middle rather than at the end, it has stopped being a line.
+**Read past the passage you want.** Search the rest of the text for passages
+that cut against it, and put the tension on the slide.
 
-**Where a block genuinely carries parallel items, use bullets.** Three pieces of
-evidence chained into one sentence with semicolons is worse than three bullets,
-and the theme styles `ul` inside `.reveal-block` and `.takehome` with the same
-short gold dash as `ul.source-list`. Bullets are for items that are actually
-parallel — three things the same argument rests on, three ways a method fails.
-They are not license to keep the same wordage and add markers: the budgets above
-still apply to the block as a whole.
+**Two writers on one slide get equal billing.** A `.quote` over a
+`.reveal-block` is a hierarchy, right only for one source elaborating itself.
+Different writers being compared go in a `.parallel`, one `.track` each, with
+the writer and work in the `#####` heading and no `.now` or `.ai` modifier.
 
-What to cut first, in order: the attributive clause ("Green and Troup are
-careful to note that…") when the page cite already says whose words these are;
-the second quotation; the qualification that the next slide makes anyway; and
-any sentence that restates the label. A block whose label reads "The innovation"
-does not need to open "The innovation here is…".
+### Slide levels and classes
 
-**Every slide must fit the viewport without scrolling.** Reveal is initialized
-at a fixed 960×700 with an 8% margin (see `_layouts/reveal-lecture.html`), so
-the real budget is roughly 880×640 CSS pixels regardless of the projector.
-Content past that is clipped, not scrolled, and nothing in the source file
-warns you. Plan on about one quote plus two or three `.reveal-block`s per
-slide. When one runs long, in this order: add `.compact` to the blocks, cut
-words, wrap the fragments in a `.swap` so they replace one another in place
-rather than stacking (see the Renaissance bridge slide), or split the slide in
-two.
-
-**Precision over invention — never fabricate a quote.** Every quotation in a
-deck must come from a source you actually have open in front of you (a PDF,
-a Wikisource page, an archive.org scan), with a real page or section number.
-If you don't have the primary text in hand, don't put words in quotation
-marks and attribute them to the author — paraphrase in your own voice instead
-and cite the chapter generally. This applies as much to secondary readings
-(Popkin, Maza, Green & Troup) as to primary sources. A wrong citation in a
-teaching deck is worse than a thin one.
-
-**But record that compromise off the slide.** A caveat about how the deck was
-made — "the translation was unavailable," "no exact page cite because the PDF
-wouldn't open," "paraphrased, not quoted" — is a note to the instructor, not
-teaching material. A student has no use for which file failed to open, and a
-line spent on it is a line not spent on the history. It also dates the deck to
-one production run.
-
-Put it in **two places instead**: tell the author directly, in whatever channel
-you are working in, and write it into an `ISSUES.md` beside `index.md` in the
-deck folder. That file is the deck's own to-do list — open sourcing problems
-and what would close them, plus deliberate deviations recorded so a later
-reviewer doesn't re-raise them. Head each item with a status, say what would
-resolve it, and delete items as they clear. See
-`making-history/slides/scientific-history/ISSUES.md`, which carries a
-paraphrased-because-unobtainable primary source, an unverifiable portrait
-date, and three decisions taken on purpose.
-
-The deck itself stays clean: it may carry a citation-conventions line (which
-readers use), and it must never carry a quotation it cannot support — but the
-story of its own making belongs in `ISSUES.md`.
-
-**Every `.cite` must be reproducible on its own terms.** A citation's job is
-to let a reader find the words again, so a bare `Bloch, p. 39` fails even when
-the page is right: it names no work, and a volume that reprints several texts
-makes the page number ambiguous on its own. Name the work in the `.cite`, and
-put the edition on the title slide's `.citation-note`, where it is stated once
-for the deck. The eyebrow doesn't count — it scrolls past with the slide, and a
-student reading a photographed slide later doesn't have it.
-
-This matters most when the assigned PDF is an excerpt from a larger volume.
-The 5.2 deck quotes seven passages "from Braudel," but only four are in the
-assigned pp. 25–54: the rest come from the 1949 *Mediterranean* preface and the
-1950 inaugural lecture, which *On History* reprints in the same book. A student
-turning to p. 4 of their own excerpt finds nothing there. Say which piece each
-page belongs to, and let the `.citation-note` spell out what the excerpt does
-and doesn't contain. For a quote of a quote, cite both ends — Braudel's own
-footnote gives Halphen's book and page, so the slide gives them too.
-
-**Two writers on one slide get equal billing.** The `.quote` + `.reveal-block`
-pair is a hierarchy: the first passage renders large, gold and italic behind a
-rule, the second at body size inside a labeled box. That is exactly right when
-both passages come from the *same* source and the second one elaborates the
-first — Carr p. 11 then p. 13, Thompson p. 9 then p. 12, Scott p. 1067 then
-p. 1073. The block is the writer continuing to talk.
-
-It is wrong when the two passages come from **different writers being
-compared**. Nothing on the slide argues that Herodotus outranks Thucydides, or
-the *Chronicle* outranks Bede, but the typography says so, and a label like
-"The other reason" says it twice. Students read the ranking before they read
-either quotation.
-
-So: different sources, `.parallel` with a `.track` each — same type size, same
-border weight, one fragment, revealed together. Put the writer and work in the
-`##### ` track heading and let the `<span class="cite">` carry only what is
-left (the page, the section, the translator), so the citation does not repeat
-the heading. Don't give one track `.now` or `.ai`; those modifiers recolor the
-border and reintroduce the ranking you just removed. `review-weeks-1-6` runs
-five of these — Herodotus/Thucydides, Livy/Sima Qian, the *Chronicle*/Bede,
-al-Biruni/Machiavelli, Voltaire/Kant — against four same-source slides that
-keep the hierarchy.
-
-Two columns also buy vertical room: the pairing that overflowed the 960x700 box
-as a quote plus a block fits comfortably as two tracks.
-
-**Apparatus gets apparatus typography.** A source note is not a supporting
-point, and it should not be set like one. `.detail` renders at 0.75em in the
-body font — the same voice as the argument — so a line like "Descriptions
-quoted from p. 3" placed under a `.cards` grid reads as a fourth card and
-competes with the three that carry the message. Where quoted text sits in a
-block with no `.quote` to hang a `<span class="cite">` inside, put the note in
-a standalone `p.cite` instead: mono, 0.45em, muted, sentence case. Mono is what
-does the work — it marks the line as machinery rather than content, at a glance
-and before it is read. Reserve `.detail` for sentences that actually argue
-something.
-
-**Slide levels: one voice per level, and no two levels look alike.** Every
-line on a slide sits at one of six levels, and the level decides its font and
-color, so a student can tell a quotation from a question from a claim before
-reading a word of it. Color says whose words they are; font says what kind of
-line it is.
+**Slide levels: one voice per level.** Color says whose words they are; font
+says what kind of line it is.
 
 | Level | Whose words | Classes | Set in |
 |---|---|---|---|
@@ -653,45 +204,12 @@ line it is.
 | Commentary | the deck explaining | `.reveal-block` text, `.detail`, card text, throughline answers | Inter, muted |
 | Apparatus | the record | `.cite`, `p.cite`, `.citation-note` | mono, small, muted |
 
-Captions on image slides are their own case — Fraunces italic, muted, beside
-or under a picture — and color and position keep them apart from a quotation.
+Captions are their own case: Fraunces italic, muted, beside or under a picture.
+A question must never look like a quotation. Green is for titles only.
+Emphasis stays inside its level: a line that needs to look different needs a
+different class, not an inline style. A new class gets a level first.
 
-**A question must never look like a quotation.** Until 2026-10-09 `.question`
-was gold Fraunces italic, the source level's voice, and on the opening slide of
-`inventing-nations` the session's question sat under a Maza quotation and read
-as more of Maza. All four question classes now share the question level. Gold
-now means two things only, labels and quotations, and the font keeps those
-apart.
-
-**Green text is for titles only.** The headline, and the headings of cards
-and `.flow` steps. Until 2026-10-11 the `.takehome` was headline green too,
-and on a discussion slide — `inventing-nations`, the Gettysburg reunion — the
-crux under the question read as a second headline. The takehome is now set in
-the text color and keeps green only in its border; its label is gold, like
-every other label. Don't color any other line green to make it stand out.
-
-**Headlines run the full width of the slide.** `.main-point` uses
-`text-wrap: pretty`, not `balance`. `balance` evens out a wrapped headline's
-lines, which at this size turned a two-line headline into two half-width lines
-with the right of the slide empty: "In 1914 nationalism / was at its height."
-`pretty` fills each line and only stops a single word being stranded on the
-last. Don't shape a headline with `max-width` or a manual `<br>`.
-
-**Emphasis stays inside its level.** `**bold**` and `*italic*` within a line
-inherit the line's color. A line that needs to look different is doing a
-different job, so it belongs at a different level, with that level's class —
-not with an inline `style=` or a one-off rule. When the theme gains a class,
-give it a level first and copy that level's font and color; if it fits no
-level, the slide is asking for a kind of text the course does not yet have,
-and that is worth deciding before it is worth styling.
-
-**Every piece of text carries a class, and the class is its job.** There is
-no base paragraph on a slide. Every line is doing something — stating the
-claim, quoting the evidence, setting context, pointing to another week,
-citing — and the theme has a typography for each job, so a student can tell
-what kind of line they are reading before they read it. A line set in the
-wrong class claims to be something it is not, and a line set in the nearest
-generic class claims to be argument, whatever it actually is.
+**Every piece of text carries a class, and the class is its job.**
 
 | The line's job | Class |
 |---|---|
@@ -708,306 +226,62 @@ generic class claims to be argument, whatever it actually is.
 | The readings, and how they are cited | `ul.source-list`, `.citation-note` |
 | One sentence of the deck's own argument under a headline | `.detail` |
 
-Text inside a container the theme already styles — a `.card`, a throughline
-`.answer`, a `.track`, a `figcaption` — takes its style from the container
-and needs nothing more.
-
-**`.detail` is not a fallback.** It renders almost exactly like an unstyled
-paragraph: the body font, muted, a little smaller. That makes it the theme's
-de facto base, and so it collects whatever has no obvious home. In
-`inventing-nations` it was carrying a quotation from Maza (a `.pull-quote`'s
-job) and a piece of 1914 history (a `.reveal-block.historical`'s), and neither
-looked like what it was. Its one job is a single sentence of the deck's own
-argument, directly under a headline: a title slide's framing line, or the
-sentence on a part opener that says why the story moved. If the line quotes
-someone, sets context, cites a source or points elsewhere, it has a class of
-its own.
-
-**The check:** every paragraph in `index.md` is either followed by a
-`{: .class}` line or sits inside a `<div class="…">` that styles it. Then read
-each `.detail` and take out anything in quotation marks. If the sentence has
-nothing left to say, it was a quotation, and it belongs in a `.pull-quote`.
-Decks written before 2026-10-09 lean on `.detail` heavily — 29 lines in
-`big-picture-review` alone — and are fine as they are until someone next works
-on them. Write new ones this way.
-
-Two further ways a citation goes wrong without being a fabrication. **Keep the
-framing clause when you quote a quote.** Popkin introduces an 1843 attack on
-women historians with "even some women endorsed this view"; a slide that
-renders that as "a British author in 1843" has quoted accurately and taught
-the opposite of the point. The secondary author's framing is usually the
-reason the quote is in their book at all. **And attribute the superlatives.**
-"The first American history PhD," "the Prussian state funded it," "his real
-invention" — where a claim like that comes from the assigned reading, put the
-reading's name on it ("Popkin dates the first American history PhD to Johns
-Hopkins, 1876"). Most firsts and breaks are contested, and a teaching deck
-should not be the thing asserting them in its own voice.
-
-**When the wording carries the argument, check the original language.** Nearly
-every primary source in these courses is read in translation, so a slide that
-turns on a text's *exact words* is making a claim about the translator as much
-as the author. Two writers can converge in English and diverge entirely in
-their own language: Humboldt's "the historian's task is to present what
-actually happened" is *die Darstellung des Geschehenen*, while Ranke's
-identical-looking English is *wie es eigentlich gewesen* — the sameness is the
-translators', and a deck built on their being "the same sentence" would have
-been built on nothing. It cuts the other way too. Ranke's preface says his
-companion volume of criticism appeared *an Einem Tage* with the book, which
-the standard English softens to "concurrently" — there the German is the more
-precise source, and the deck should follow it. Name the translator whenever
-the choice is doing work: "racially kindred" is a 1981 rendering of
-*stammverwandt*, "of kindred stock," and a slide leaning on that word owes
-students the note.
-
-**Read past the passage you want.** The quote that makes your point is easy to
-find and easy to stop at. Before building a takehome on one passage, search
-the rest of that same text for passages that cut against it; where they exist,
-put the tension on the slide instead of hoping nobody checks. Ranke's "every
-epoch is immediate to God" reads as a refusal to rank anything at all until
-you notice the same 1854 lecture calling Asia's history "retrogressive" and
-dating art's peak to the sixteenth century. The honest version — he refuses to
-rank *generations*, and ranks peoples freely — is both true and more
-interesting than the tidy one. This is also how two slides in one deck end up
-contradicting each other: each is faithful to a different half of a source
-nobody read all the way through.
+Text inside a styled container (`.card`, `.answer`, `.track`, `figcaption`)
+needs nothing more. `.detail` is not a fallback for text with no obvious home.
+The check: every paragraph has a `{: .class}` line or sits in a styling
+container, and no `.detail` contains a quotation.
 
 ## Structure of a session deck
 
-A deck may open before everything else with a **cold open**: a full-bleed
-slide per image carrying only what the picture is, then the session's
-framing question while the pictures are still on students' minds, and then an
-`.image-notes` slide with the images small and bullets working the question
-over.
+1. **Cold open** (optional): a full-bleed `section.image-slide.bleed` per
+   image with a one-line `.credit` (prefer `data-background-size="contain"`),
+   then the session's question, then an `.image-notes` slide. For a contrast,
+   unpack both images on one notes slide in a `.shots` wrapper, with bullets
+   written across the pair. Models: `enlightenment-progress`,
+   `annales-longue-duree`.
+2. **Title:** the course and week eyebrow, the deck's title, a rule, a
+   `ul.source-list` with the `Background:` reading first and the primary
+   sources under it, and a `.citation-note` for editions and citation
+   conventions.
+3. **Today in context:** a `.throughline` with the course's running question
+   ("What makes history happen?") and `.answer.past`, `.now` and `.next`
+   nodes. Write the question once and change only the nodes.
+4. **Parts, per source or person.** Open with the work, not the face; then the
+   portrait; then one to four quote slides, with image slides for the objects
+   and places they mention. Each part opens with a `.detail` line saying what
+   the last part left unfinished.
+5. **A discussion slide** at the end of each part.
+6. **Comparison,** if the session pairs two writers: a `.parallel` asking what
+   actually separates them.
+7. **The arc:** a `.cards` grid, one card per part, drawn from the discussion
+   takehomes.
+8. **The take home:** one headline and at most three `.reveal-block`
+   fragments, the last a `.takehome` carrying the cost or the catch. No
+   outline.
+9. **Closing:** what comes next, and a closing question only if it needs the
+   whole session behind it.
 
-**Full-bleed means `section.image-slide.bleed`, not `figure.landscape`.** The
-figure forms hold the image inside the deck's 8% slide margin and reserve
-room under it for a caption, which is right for an image slide inside a part
-and wrong for a cold open, where the picture should be the entire screen. The
-`.bleed` form hands the image to reveal as a slide background so it escapes
-the margin altogether, and drops the caption for a one-line `.credit`. The
-identification and the license go on that line; everything you wanted to say
-about the picture goes to the notes slide, which is where a cold open was
-always going to say it. Mechanics are in the header comment and the foot of
-`/assets/css/reveal-image-slide.css`. Prefer `data-background-size="contain"`:
-`cover` fills the last band of screen by cropping, and on a cold open the
-thing it crops is usually the evidence. Ask before you unpack, not after — a question asked last is a summary,
-and the notes slide has already given the answers away. Asked first, it is a
-question the room can still be wrong about, and every bullet after it is
-evidence.
+The arc and the take home go at the end. Before the evidence, they are claims
+about a book nobody has met.
 
-**When the cold open is built on a contrast, unpack the two images together on
-one slide, not separately on two.** Put both in a `<div class="shots">` in the
-image column — they stack — and write each bullet across the pair rather than
-about one of them: "An afternoon, against a hillside that takes centuries,"
-"Both are full of people; neither names them." Two separate notes slides
-describe two pictures and leave the comparison to the framing question, which
-is the one thing the cold open exists to set up. It also costs a slide. See
-the opening of `annales-longue-duree` (Lepanto against the olive terraces) and
-the factory and barricade pairs in `marx-structural-history`.
-Use it when a picture can put students inside the problem before any reading
-has been named — see the opening of `enlightenment-progress`, which pairs
-de Troy's *Time Unveiling Truth* with Wright of Derby's orrery. It is
-optional; a deck with no such image should start at the title.
+A deck covering two sessions adds a `Part one · 3.1` / `Part three · 3.2`
+transition and an arc spanning both.
 
-Otherwise a single-session deck (one class meeting, e.g.
-`carr-historian-and-facts`) runs roughly:
+**A review deck** drops the throughline, the title slide's `.detail` and the
+`.citation-note`. It opens each stretch with that week's key image,
+full-bleed, rather than a portrait, and keeps a discussion slide per stretch,
+the arc, the take home and what comes next. Ask new questions that test old
+claims against later weeks; never re-ask a week's question. On a review slide
+(`.quote`, one block, `.takehome`) the question is the last fragment.
 
-1. **Title** — course/week eyebrow, the deck's own title (not necessarily the
-   syllabus session title), a `.rule`, and a `ul.source-list` of what it
-   covers, with page/date specifics on each line.
-
-   **Order the readings the way the syllabus does: the general reading first,
-   the primary sources under it.** The textbook or survey chapter (Popkin,
-   Maza, Green & Troup) is what students read to get their bearings, and the
-   schedule page lists it first for that reason. A title slide that leads with
-   the primary source is out of step with the page they were assigned it from.
-   Keep the `Background:` prefix on the general one so the two kinds stay
-   visibly distinct.
-
-   **Put the citation conventions in a `.citation-note`, not a `.detail`.**
-   Which translation, cited by page or by section, which edition the assigned
-   PDF came from — real information, but housekeeping. `.detail` renders at
-   0.75em, *larger* than the `ul.source-list` above it, so the housekeeping
-   ends up outweighing the day's readings. `.citation-note` is 0.5em and sits
-   quietly underneath them. (A few older decks do this with an inline
-   `style="font-size:0.5em"`; the class replaces that.)
-
-2. **Today in context** — a `.throughline` slide: one question the course
-   keeps asking as the `.main-point`, and the answers given so far as
-   `.answer.past` / `.answer.now` / `.answer.next`. See below. Each part after
-   it opens by saying what the last part left unfinished.
-3. **Per source or person**, repeated. Open each part with the *work* rather
-   than the face — the text, the journal, the argument, whatever gives
-   students a reason to care who these people were. A portrait of a stranger
-   is a stranger; the same portrait after the 1929 editorial is the man who
-   wrote it. Then the image slide, whose caption carries the whole
-   introduction — name, dates, brief bio, why they matter here, credit — and
-   then 1–4 quote slides (primary `.quote` +
-   `.reveal-block.unpack`/`.argument`/`.historical` fragments + `.takehome`),
-   interleaved with image slides for objects, manuscripts, places, or events
-   the quotes reference. See Part One of `annales-longue-duree`: the founding
-   editorial, then Bloch and Febvre. (A scene-setting image is different from
-   a portrait and can lead — the prison-camp slide opening Part Two of that
-   deck sets up the book written in it.)
-
-   **Introduce before you quote.** The work can open a part as an *object* or
-   an *event* — a journal's first issue, a title page, a war — but nobody's
-   own words go on a slide, and nobody's name goes in a headline as the one
-   acting, before the portrait slide that introduces them. A quotation from a
-   stranger is a stranger talking. `inventing-nations` once opened part two
-   with "Anderson asked…" and his question, two slides before anyone said who
-   he was. Two exceptions. The **narrator** — the author of the
-   `Background:` reading on the title slide, which already introduces them —
-   can be quoted from the first slide, and gets no portrait at all (see "No
-   portraits of textbook authors"). And a voice quoted
-   **through** the narrator ("Lloyd Kramer, quoted in Maza") is introduced by
-   that attribution and needs no portrait — so long as the slide does not make
-   them its subject. Once a headline is about what Renan saw, Renan is someone
-   the deck is teaching, and gets introduced like anyone else.
-4. **A discussion slide at the end of each part** — topic, question, crux, on
-   one slide. See below; this is where the class talks, and it replaces
-   parking every question in a list at the end.
-5. **Comparison**, if the session pairs two people/texts — a `.parallel`
-   slide asking what actually separates them, not just what's different.
-6. **The arc of the lecture, looking back** — a `.cards` grid, one card per
-   part, each with a number and date or source in the `.num` line, a short
-   headline, and a sentence on what that part established, drawn especially
-   from each discussion slide's `.takehome`. This slide is the recap: the
-   shape of the whole hour, and where each conclusion came from, in one
-   screen.
-7. **The take home** — the whole day in one headline, then at most three
-   supporting points as `.reveal-block` fragments, the last one a
-   `.takehome` carrying the cost or the catch. Don't put the lecture's
-   outline on this slide; the arc slide has just done that.
-8. **Closing** — what comes next, and/or a closing discussion question, but
-   only if the question genuinely needs the whole hour behind it: synthesis
-   across both writers, or one that reopens the take-home. A `ul.questions`
-   list of everything from `schedule.md` is not that; distribute those
-   instead.
-
-**The arc and the take home belong at the end, not the front.** An earlier
-version of this guide opened every deck with the pair — the day's conclusion
-in one sentence, then the roadmap — so that students knew where they were
-going. It doesn't survive contact with a class. Both slides are abstractions
-about a book nobody has met yet: the take-home sentence asserts a conclusion
-the room has no evidence for, and the roadmap names three parts that mean
-nothing until they have happened. Step through the history first and the same
-two slides do real work at the end — the arc reads as *here is what we just
-did*, and the take home lands as a conclusion rather than a claim. The front
-of the deck still orients: that is what the cold open, the title slide and a
-framing question are for. See `annales-longue-duree`, which ends arc → take
-home → what comes next; `enlightenment-progress-2` already ran this way.
-Decks built before this (`enlightenment-progress`, `marx-structural-history`,
-`review-weeks-2-4`, `scientific-history`) still open with the pair and are not
-the model.
-
-A deck covering two sessions in one week (e.g. `divine-power-and-statecraft`,
-which does 3.1 and 3.2) adds a `Part one · 3.1` / `Part three · 3.2` transition
-slide between the two halves and a closing arc slide that spans both.
-
-A **review deck** — a whole meeting spent on weeks already taught, like
-`review-weeks-1-6` — is not a session deck with more sources in it, and it
-drops three things from the recipe above, because the review itself already
-does their work.
-
-It drops the **`.throughline` context slide**. A review lecture is context from
-end to end; a slide whose job is to say where the course has got to is
-competing with the next forty minutes, which say the same thing with the
-evidence attached.
-
-It drops the title slide's **`.detail` line**. The temptation on a review title
-slide is to state the course's running question in a sentence — "six weeks of
-answers to one running question, and what actually changed." The running
-question *is* the course. A slide that announces it has said nothing a student
-could disagree with, which is the test a `.detail` line has to pass.
-
-And it drops the **`.citation-note`**. Each week's own deck carries the
-editions, pages and translations for the readings it covers, so a review that
-reprints all six turns its title slide into a bibliography. Stop the title
-slide after the `ul.source-list`, with the week each reading came from on its
-line, and go straight into the first one.
-
-**A review opens each stretch with the evidence, not the face.** The rule for a
-session deck — open with the work, because "a portrait of a stranger is a
-stranger" — goes further in a review: the students have met these people, so a
-portrait is a face they already know carrying a bio they already heard, and it
-is the least visual picture the week has. Use the image that week was built on,
-full-bleed, and let the slide after it name the week. `review-weeks-1-6` opens
-Weeks 5 and 6 with the power loom, the olive grove, General Ludd and the
-Congress of Berlin, where it used to run four portraits.
-
-What a review keeps is the back half: a discussion slide per stretch of the
-course, the arc slide, the take home, and what comes next.
-
-## Bird's-eye slides
-
-A deck of close readings has a hole in the middle of it. Each quote slide is
-excellent at the passage in front of it and says nothing about the hour it
-belongs to; `.cards`, `.parallel` and `.flow` are all bounded by the deck.
-Students can follow every slide and still not be able to say what the day
-argued, or why this week follows the last one. Three slide types hold the
-levels above the passage. Each answers a different question, and a deck that
-reaches for all three without needing them has just built a second lecture out
-of signposts.
-
-**A transition needs a sentence, not a diagram.** A `.thread` class once lived
-here: a rail of the session's movements with the current one lit, on its own
-slide at each part boundary. It was cut. The rail was built from flex segments
-whose `border-top` was supposed to read as one continuous line, but the nodes
-wrapped to different heights and `align-items: center` then staggered the
-borders, so it rendered as four disconnected dashes at four different heights —
-and unvisited nodes were set in the border color, which is all but invisible
-on this background. Under all that it was also redundant: the rail said in
-unreadable 0.4em mono what the headline above it had just said in full.
-
-What was worth keeping was never the diagram. It was the one sentence naming
-why the story moved — "the program was a room, not a thesis; the thesis
-arrives now, from five years in a prison camp." That belongs in the part's
-opening slide, as a `.detail` line under the headline, not on a slide of its
-own. A deck whose parts each begin by saying what the last part left unfinished
-has the narrative arc; it does not need furniture to prove it.
-
-**`.throughline` — today's place in the course.** One question the course
-keeps asking, with the answers so far: `.answer.past` for weeks already
-settled, `.answer.now` for today, `.answer.next` dashed, because next week is a
-promise and not yet a claim. It goes right after the title, and it is the one
-orientation slide that earns a place at the front, because it is concrete —
-names and answers, not an abstract of the argument to come. The value is in
-recurrence: the same question returns every week with one more answer filled
-in, so write the question once for the course and change only the nodes. In
-`making-history` it is "What makes history happen?" and the answers run Ranke,
-Marx, Braudel, Thompson. The exception is a review deck, which is a
-throughline from end to end and should not also open with one; see "Structure
-of a session deck" above.
-
-**Don't draw an axis you are not going to scale.** A `.chronology` class once
-lived here: two rows of dates, when each text was written against the period it
-is about. It was cut, and the reason generalizes. The marks were evenly spaced
-by CSS, so the slide drew 81 years and 9 years at the same width, under a rule
-line with a tick over every mark. The ticks promise proportion; equal spacing
-delivers a list. A chart that lies is worse than the list it is pretending not
-to be, because students read the spacing before they read the labels.
-
-Two tests before drawing anything with an axis on it. Does the position of a
-mark mean something, and would a reader be wrong to assume it does? And can the
-rows share one scale — stacking 1824–1958 above antiquity–1950 implies a common
-axis that cannot exist. Where the answer is no, the honest form is a
-`.parallel` comparison or a `.cards` grid: same content, no false promise. The
-idea behind that slide was sound — a text's writing date and its subject period
-are different things, and students collapse them — but it is a comparison, not
-a measurement, and it should be built as one.
+**Skip orientation furniture.** A transition needs a sentence, not a diagram.
+Don't draw an axis you are not going to scale: evenly spaced dates promise a
+proportion they don't deliver, so use a `.parallel` or `.cards` instead.
 
 ## Discussion slides
 
-Questions belong throughout the deck, roughly one per part, not collected at
-the end. A question asked while a source is still on students' minds gets
-answered from the source; the same question asked in the last five minutes
-gets answered from memory, by whoever talks first.
-
-**One slide per discussion, in three beats.** Topic, then question, then the
-crux of the answer — the second and third as fragments, so one slide carries
-the whole exchange and the room never loses the subject while it talks. The
-form, with `history-from-below` as the worked example:
+One per part, after the quote slides that give students evidence to use. One
+slide, three beats:
 
 ```
 Part one · discussion
@@ -1024,220 +298,59 @@ What can you now ask, and what can you still not ask?
 
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
 Counting proves the poor were there; it cannot say what they wanted, because
-nobody recording them was asking. A source made to administer answers
-administrative questions.
+nobody recording them was asking.
 </div>
 ```
 
-**The eyebrow reads `Part one · discussion`** — which part, then what the
-slide is. Not the reverse: the eyebrow's first job is to locate the slide in
-the session, and every other slide in the part is already labeled that way.
-
-**The `.main-point` is the topic, not the question and not the answer.** A
-short noun phrase — "Counting the poor", "A belief as evidence", "What counts
-as a source" — set at the largest size on the slide, so the room has the
-subject in front of it for the whole discussion. This is the one place the
-headline is not a claim: a headline that argues here either asks the question
-early or gives the answer away. Keep it to four or five words.
-
-**The `.question` fragment is the one real question.** Put the slide after the
-quote slides that give students what they need, so the discussion has evidence
-to run on. Ask "why this, why then" about a *particular* choice in the text —
-"Why does Voltaire measure ages by taste rather than by conquest, when he is
-writing about a king's reign?" — not something that could be asked of any
-reading in the course. The test: a student who did the reading can answer it
-and a student who didn't can't. One real question beats three vague ones; use
-`ul.questions` instead only where the slide genuinely offers a list to pick
-from, as a cold-open framing slide does.
-
-**Put the object beside the question when there is one.** Wrap the body in a
-`.with-figure` div with a small image in front of the `.question` and
-`.takehome`, and the eyebrow, headline and rule stay full width above it. A
-discussion runs for minutes and a slide-sized image two slides back has long
-gone; the thing being argued about should still be on the screen. The image is
-not a fragment — it is the subject, not a step. `history-from-below`'s part-two
-discussion does this with the Joanna Southcott engraving. Use `.image-notes`
-instead where the picture *is* the subject and the bullets say what to look at.
-
-**The `.takehome` fragment is the crux of the answer**, and only the crux — one
-block, not a `.reveal-block` of evidence plus a takeaway. It should read as the
-payoff to what students just said, not a correction of it. Where the reading
-genuinely supports more than one answer, name the good alternative rather than
-pretending there was one right answer waiting. These takeaways are the raw
-material for the closing arc slide's cards.
-
-**The cost of the single slide is an early arrow key**, which the older
-two-slide form (a question slide, then a separate answer slide) existed to
-prevent. Advancing twice while the room is still thinking puts the answer on
-screen. That is a presenting habit rather than a structural problem, and it
-buys something worth more: the topic and the question stay up next to the
-answer, so the payoff lands against the question instead of replacing it.
-Decks written before 2026-09-22 still use the two-slide form and are fine as
-they are; write new ones this way.
-
-**A review asks new questions, not the old ones again.** The questions a review
-deck can ask have evolved along with the course: the room has read six more
-weeks since the day a question was first put to it, and re-asking it wastes the
-one thing a review has that a single session does not. Don't carry a week's
-question across even reworded — "That day's question: Carr wrote in 1961. Does
-his argument still hold?" is the Week 1 question with a date on it. Name what
-the writer claimed and then test the claim against everything since: "Carr says
-facts speak only when a historian calls on them. You have now watched everyone
-from Herodotus to Scott decide who gets the floor. Is there one of them whose
-facts spoke for themselves?" The same applies to the review's own discussion
-slides — check them against the decks they review, since a question that was
-good in Week 6 is the first thing that comes to hand in Week 7.
-
-**On a review slide the question is the last fragment.** A review slide is a
-week compressed — `.quote`, one `.reveal-block`, the `.takehome` — and the
-question comes after all of it, as a `.question` fragment with the highest
-`data-fragment-index` on the slide, so it is asked *against* the takeaway the
-room has just been given. Don't set it as a `.detail` line at the foot of the
-slide: `.detail` carries no `.fragment` class, so it renders with the slide and
-the question at the bottom of the screen is the first thing on it, before the
-quote it is supposed to follow. (Discussion slides are unaffected — there the
-`.question` is the first fragment, at index 1, because the topic headline is
-the only thing before it.)
+- The `.main-point` is the topic in four or five words, not the question and
+  not the answer.
+- The `.question` is one real question about a particular choice in the text.
+  Test: a student who did the reading can answer it and one who didn't can't.
+- The `.takehome` is only the crux, the payoff to what students said. Name a
+  good alternative where the reading supports one.
+- To keep the object on screen, wrap the body in `.with-figure` with a small
+  image before the question (`history-from-below`, part two).
 
 ## Image slides
 
-**The image is the slide. Make it as large as the slide allows.** This holds
-for every image slide, not just an opening one — a portrait, a title page, a
-map, a painting. The theme already does the work: `figure.landscape` puts the
-caption underneath, `figure.portrait` puts it in a narrow column to the right,
-and both hand the rest of the space to the picture. Don't fight it by writing
-a caption long enough to squeeze the image.
+**The image is the slide; make it as large as the slide allows.**
+`figure.landscape` puts the caption underneath and `figure.portrait` beside,
+matching the image's real aspect ratio. In a caption, `<em>` is the block-level
+note and credit and `<i>` is for titles.
 
-**Write the caption for yourself, not for the back row.** It is small on
-purpose. Its job is to hold what the picture is — subject, date, where it
-lives — plus the one point worth making about it, in language you can pick up
-and elaborate on out loud. Students do not need to read it, and should not
-have to. The common failure is a caption that tries to be the lecture: four
-sentences of argument set in type nobody can read past row three. Say it
-instead. Two lines and a credit is the target; the credit line always stays.
+**Write the caption for yourself:** what the picture is, plus one point, in
+words you can elaborate aloud. Two lines and a credit, and the credit always
+stays. Translate a foreign-language title the first time it is shown,
+preferring the literal rendering.
 
-**Translate a foreign-language title, in the caption, the first time it is
-shown.** Give the original in italics and an English rendering right after it.
-A student looking at a title page in Fraktur cannot tell what object is in
-front of them, and "the book itself" is not an answer. This is not only
-housekeeping: the translation frequently carries the argument. Ranke's title
-page reads *Geschichten der romanischen und germanischen Völker* — "Histories
-of the Romance and Germanic **Peoples**," and the plural *Geschichten* is
-deliberate, as his own preface says: "It contains only histories, not
-History." A caption that never renders the title loses a point that is sitting
-in the assigned reading.
+**One image per slide,** with three exceptions:
 
-Where the conventional English differs from the literal, prefer the literal in
-the caption and let the deck cite the edition's own title elsewhere — the two
-diverging is itself worth a sentence out loud in a session about translation.
+- A `figure.pair`, only after each image has had its own slide, for one small
+  comparative point.
+- A review deck's `.recall` grid: two to four images the room has already
+  seen, no captions, one `p.cite`. It currently has no user; cut it if nothing
+  adopts it.
+- A discussion deck built on forced pairs (`section.image-slide.provoke`),
+  with no takeaway under the pictures and images the room has not seen. Model:
+  `purpose-and-progress`. Keep a text deck for the same session as the record.
 
-**One image per slide. A second image is a second slide.** Show one, let it
-land, then show the next. Two pictures crowded together halve each other.
+**Image notes: `.image-notes`, a small image left and bullets right,** one
+image per slide. Each bullet runs look, meaning, question: a bold lead naming
+something visible, a sentence on what it commits its makers to, and an
+`<em class="ask">` question aimed at the session's problem rather than at the
+picture. Budget about 23 lines of about 52 characters.
 
-**The exception is a recall grid in a review deck.** A `<div class="recall">`
-sets two to four small images the room has already seen under a "What did we
-talk about?" headline, with the sources in one `p.cite` line and no captions —
-a caption would answer the question the slide exists to ask. The rule above
-does not apply because no image here is being read for its own content: each
-is a cue to a week already taught, and the point is the set. Two columns,
-matching `.cards`, so a grid of four sits over the four cards that answer it.
-Write each image a blank line apart in the markdown or kramdown makes all four
-one paragraph, the grid collapses to one column, and nothing warns you.
-`review-weeks-1-6` used this for Weeks 2–4 and then dropped it when those weeks
-got per-week recap slides of their own, so the class currently has no user — if
-nothing adopts it, cut it rather than leave a component the guide recommends and
-no deck demonstrates.
-
-**Discussion decks built on image pairs are the exception to both rules above.**
-A session whose whole job is to make the room argue — a review day, a day with
-no new reading — can be built as a series of forced comparisons: two pictures
-and one question, and nothing else on the slide. There the pair is not a minor
-comparative point, it *is* the argument, and neither image has had or needs its
-own slide. `making-history/slides/purpose-and-progress` is the worked example:
-seven slides, four of them pairs, no `.takehome` under any picture.
-
-Three things make it work rather than becoming a slideshow. **Pairs, not
-singles** — one image asks "what is this?", two ask "which, and why?", and only
-the second is a question a room can argue about. **No takeaway line on the
-picture slides**, because a crux printed under the images closes the question
-the slide exists to open; the epigram budget goes to the discussion slides at
-the end of each part. And **images the room has not seen**, so students have to
-apply the course's arguments rather than recognize a plate from the reading —
-which is the opposite of the recall rule for a normal review deck, and the
-trade is deliberate: recall tests memory, fresh material tests whether they can
-use any of it.
-
-The cost is real and worth saying out loud: such a deck cannot be read by
-anyone who missed the class, because the argument lives in the room. Keep a
-text deck for the same session as the record, as 8.1 does.
-
-Use `section.image-slide.provoke`, which sets the question at a size that can
-be read from the back row and leaves the `figcaption` as quiet apparatus.
-
-**Two side by side only after each has had its own slide, and only for a
-minor comparative point.** A `figure.pair` is for two things that answer one
-small question together and stack cleanly — two antagonists in one quarrel,
-two views of a single object, recto and verso of a leaf. If each image is
-carrying a point of its own, they are two slides, not one figure. The test is
-the same as before: say in a clause what each establishes that the other does
-not. If you can, they are separate slides; if you can't, cut one.
-
-**Small images beside text belong on an `.image-notes` slide**, not in a
-caption — the reduced image in the left column with bullets alongside. That is
-the place for the argument a caption is too small to carry. **One image per
-notes slide**: two pictures and two sets of bullets on one slide gives neither
-enough room, so a second image repeats the pattern — full-bleed, then its own
-notes slide. The `.shots` wrapper exists for the rare case where two images
-genuinely share one set of bullets.
-
-**Each note bullet runs in three beats: look, then meaning, then a
-question.** A bullet that stops after the first two has told students what to
-think and given them nothing to do with it. The shape is:
-
-1. **A bold lead naming what to look at.** Something actually visible in the
-   picture — "You have to look for the man," "Somebody built this room." Not a
-   thesis; a direction for the eye.
-2. **A sentence or two of elaboration.** What that detail is, and what it
-   commits its makers to. This is where the argument lives.
-3. **A closing question, in `<em class="ask">…</em>`.** It renders in the
-   question level (see "Slide levels"), on its
-   own line, so the three beats stay legible at a glance.
-
-The question is the part that is easy to skip and worth the most. It should
-**not** be answerable from the image, and needn't be answerable yet at all —
-its job is to put a student in the right frame before any reading has been
-named, and to be worth returning to an hour later. Aim it at the session's
-real problem: *"If a historian disappears behind the sources, who chose which
-sources to stand behind?"* is doing that work; "What does this photograph tell
-us about Ranke?" is not, because it asks about the picture rather than through
-it. One question per bullet, and no answers on the slide — the payoff belongs
-in the discussion slides and the take-home.
-
-**Budget a line for it.** The question renders on its own line, so adding one
-to each of four bullets costs four lines, and the elaboration has to give them
-back. The notes column is about 456px wide at roughly 52 characters a line,
-against a height budget of about 23 lines; the two `.image-notes` slides in
-`enlightenment-progress` run 21 and 22 lines, so there is very little room
-above that. Measure before assuming it fits — a wrong guess at characters per
-line is easy to make and the overflow is silently clipped, never scrolled.
-The `enlightenment-progress` notes slides predate this rule and carry a bolded
-assertion where the question should be; they are not the model on this point.
-
-**A notes slide says what the image means for the argument, not what is in
-it.** Describing the picture is only the setup; every bullet has to close the
-distance to the ideas the session is about. Name the figure or the object,
-then say what it commits its makers to — "Time does the unveiling, which is
-this week's claim about history in one gesture, and the reverse of every
-scheme on the last three slides." A bullet that stops at identifying the
-iconography is doing an art-history exercise, not a history lecture.
+**Explainer: `.with-figure.wide`, an image left and the explanation right.**
+Eyebrow and headline, then the picture beside a `.quote.compact` and one or two
+`.detail` lines. Wrap the image in a `<figure>` whose `<figcaption>` holds
+the credit, so it sits under the picture at caption size. Use it to set
+one claim beside the image that carries it: a week recalled in a review deck
+(`big-picture-review`, which predates the figure caption), or a figure and their idea on one slide (the genealogy
+in `linguistic-turn`). With a two-line headline it measures about 650px, just
+over the checker's 644px line, so confirm by screenshot that nothing clips and
+keep the text column no taller than the image.
 
 ## Front matter
-
-Prefer the `.md` + `layout: reveal-lecture` pattern (see
-`divine-power-and-statecraft/index.md`) over a raw standalone `.html` file —
-it's the current, maintained pattern; the older decks (`carr-historian-and-facts`,
-`greeks-evidence-and-purpose`) predate the shared layout and duplicate the
-`<head>` boilerplate. New decks should look like:
 
 ```yaml
 ---
@@ -1247,33 +360,22 @@ image_slides: true
 ---
 ```
 
-Drop `image_slides: true` only if the deck genuinely has no image slides.
+Drop `image_slides: true` only if the deck has no image slides. The older
+standalone `.html` decks are not the model.
 
 ## Sourcing images
 
-Public domain, CC0, or CC BY/BY-SA/BY-NC by default — check the license on the
-Wikimedia Commons file page (or via the API) before using anything. Commons is
-the first place to look, not the only one: institutional archives, library
-digitizations and a publisher's own pages often hold better copies, and some
-subjects are not on Commons at all.
+**Free licenses first:** public domain, CC0, CC BY, BY-SA or BY-NC, checked on
+the file page. Commons is the first place to look, not the only one. BY and
+BY-SA need attribution in the caption; BY-NC also needs a non-commercial note.
+Never strip a credit.
 
-**Fair use is available where nothing free exists, for a named reason.** These
-are non-commercial teaching decks, and a low-resolution image shown for
-identification and commentary is a normal classroom use. It is a fallback, not
-a shortcut: take it only after looking, prefer an institutional or biographical
-source over a stock agency (taking from a licensing agency is the use that
-weighs hardest against fair use), keep the copy small, and write down in
-`images/README.md` what you looked for, what you found, and why the use is
-fair. Record the decision in `ISSUES.md` too, so a later pass doesn't delete
-the file as unlicensed. The Braudel portrait in `annales-longue-duree` is the
-worked example: he died in 1985, every free candidate is under 450px, and the
-alternative was leaving the deck's central figure the only person in it without
-a face. CC BY and
-CC BY-SA need attribution in the `<figcaption>`; CC BY-NC needs the same plus
-a note that the site's use qualifies as non-commercial. Never strip the
-credit line once it's in a caption.
+**Fair use is a fallback with a named reason.** Use it only after looking,
+prefer an institutional source to a stock agency, and keep the copy small.
+Record the search and the reasoning in `images/README.md` and the decision in
+`ISSUES.md`. Model: the Braudel portrait in `annales-longue-duree`.
 
-Fetch and process at the command line, don't hand-save from a browser:
+**Fetch at the command line:**
 
 ```sh
 curl -L -H 'User-Agent: your-name (your-email)' \
@@ -1281,206 +383,67 @@ curl -L -H 'User-Agent: your-name (your-email)' \
 sips -Z 1800 raw --out out.jpg -s format jpeg -s formatOptions 88
 ```
 
-Pick images that read at projector distance. Large figures, clear gestures,
-real contrast between the thing and its background. A finely detailed wash
-drawing or a crowded engraving can be perfectly bright by the numbers and
-still land as murk on a screen — the test is whether someone in the back row
-can tell what is happening in it without being told.
+**Pick images that read at projector distance:** large figures, clear
+gestures, real contrast.
 
-**Check an image against the size it is shown at, not against its file
-size.** A slide is 960×700, but a 1080p projector draws it at roughly 1.4–1.5
-times that, so an image needs about **1.5 of its own pixels for every pixel
-it occupies on the slide** to stay sharp in the room. A portrait in the
-caption rail is shown about 520px tall, so it wants about 780px; a landscape
-image across the slide wants about 1,000px wide. Under 1.5× it will be soft on
-the projector; under 1.0× the browser is enlarging it and it will be soft on a
-laptop too. `scripts/deck-check.sh` measures this on every image. The
-Chatterjee photograph first used in `inventing-nations` was a 300px snapshot
-and nothing caught it until the slide was on a screen. When nothing larger
-exists — common for living scholars — choose the sharpest source over the
-largest, record the shortfall in `ISSUES.md`, and say what a better copy would
-take (a request to the institution, usually).
+**Check resolution against the display size.** Aim for 1.5 image pixels per
+slide pixel: about 780px tall for a portrait rail, 1,000px wide for a
+landscape. `deck-check.sh` measures it. When nothing larger exists, choose the
+sharpest copy and record the shortfall in `ISSUES.md`. Cap the long edge at
+1800px and crop from the original. Use q78 by default and q82–88 for fine
+detail, and keep `images/` under about 10MB.
 
-Source at width 1400–2200, cap the long edge at 1800px, recompress to JPEG.
-Never downsample a crop below what the slot needs: crop from the full-size
-original and stop there.
-q78 is the default; use q82–88 for anything carrying fine detail (manuscript
-script, small map labels, low-relief carving) that q78 visibly smears. Keep
-the whole `images/` folder under ~10MB.
-
-Every `images/` folder needs a `README.md`: a credits table (file, what it
-is, source, license) plus a Notes section documenting anything non-obvious —
-derivative crops/annotations and what was added, deliberately ambiguous or
-non-contemporaneous images and why they're used anyway, and the exact
-re-fetch/regenerate command for anything processed. See any existing
-`images/README.md` under a course's `slides/` folder for the format. If you annotate a
-derivative (a gold box around a detail, a crop), say so in the caption too —
-don't let an added mark look like it was in the source.
-
-`<figure>` gets a `portrait` or `landscape` class matching the image's actual
-aspect ratio (portrait puts the caption beside it, landscape below); a `pair`
-figure holds two related images above one caption (two faces of one object,
-two witnesses to one text). Inside a caption, `<em>` is the block-level
-source/credit line, `<i>` is inline italics for titles — don't nest `<em>`
-inside the note.
+**Every `images/` folder has a `README.md`:** a credits table (file, what it
+is, source, license) and notes on crops, annotations, non-obvious choices and
+the re-fetch command. If you annotate an image, say so in the caption.
 
 ## Cache the text of a scanned reading
 
-Course PDFs come in two kinds. A born-digital one gives up its text to
-`pdftotext -layout` in a second. A photocopier scan — most of the book
-chapters here — has no text layer at all and returns zero bytes, which leaves
-reading the page images as the only way to check a quotation.
-
-**Do that once, then save the result.** Reading a sixteen-page scan is
-expensive however it is done, and the cost recurs every time: while drafting,
-again during the fresh-context review, and again next year when the deck is
-revised. A cached text file turns all of those into a `grep`.
+A born-digital PDF gives up its text to `pdftotext -layout`. A scan has no
+text layer, so OCR it once and save the result:
 
 ```sh
 swiftc -O -o /tmp/ocr-pdf scripts/ocr-pdf.swift     # once
 /tmp/ocr-pdf ~/Dropbox/courses/<course>/optimized/<reading>.pdf 2 > raw.txt
 ```
 
-`scripts/ocr-pdf.swift` uses macOS Vision and needs only the Xcode Command
-Line Tools. A chapter takes about twenty seconds.
+- **Keep it beside the reading, never in this repo:**
+  `~/Dropbox/courses/<course>/.research-packets/<reading>.ocr.txt`. These are
+  in-copyright materials.
+- **Mark printed pages** as `[[ printed page NN ]]`. Scans are often two-page
+  spreads, so a right-hand column belongs to the next page.
+- **Say what the file is not.** Head it with what produced it, when, and which
+  pages. Use it to find a passage, then verify the words against the page
+  image before quoting.
 
-Three rules about the file you save:
-
-- **Keep it beside the reading, never in this repo.** These are in-copyright
-  course materials. They belong in
-  `~/Dropbox/courses/<course>/.research-packets/<reading>.ocr.txt`, alongside
-  the PDF. Nothing under `courses/` in the site repo should contain the text
-  of an assigned reading.
-- **Mark the printed page numbers.** A scan of a book is usually two-page
-  spreads, so one sheet holds two printed pages and a passage in the right-hand
-  column belongs to the *next* page. Convert the running heads into explicit
-  `[[ printed page NN ]]` markers before you cite from the file. This is not
-  fussiness: citing p. 88 for a sentence printed on p. 89 is precisely the
-  error the marker prevents, and it is invisible without one.
-- **Say what the file is not.** OCR is not a proofread transcription — Vision
-  mangles ligatures, footnote markers and italics, and drops the odd running
-  head. Head the file with what produced it, when, which pages it covers, and
-  which pages could not be marked. Use the cache to *find* a passage and its
-  page; verify the exact words against the page image before they go inside
-  quotation marks on a slide.
-
-`~/Dropbox/courses/making-history/.research-packets/popkin-ch-4.ocr.txt` is a
-worked example of all three.
+Model: `~/Dropbox/courses/making-history/.research-packets/popkin-ch-4.ocr.txt`.
 
 ## Before publishing
 
-Check the deck actually builds: Jekyll's SCSS compile needs a UTF-8 locale,
-so build with `LC_ALL=en_US.UTF-8 bundle exec jekyll build` (or the project's
-usual serve command) rather than assuming a bare invocation will work.
+1. **Build:** `LC_ALL=en_US.UTF-8 bundle exec jekyll build`.
+2. **Words:** `scripts/slide-words.py <deck>/index.md`.
+3. **Typography:** `scripts/deck-check.sh <course>/<deck>`. It fails a deck
+   for overflow past 644px, unstyled text, commentary above the `.quote`, a
+   block that opens with a quotation, someone quoted before their
+   introduction, and images under 1.0×, and warns under 1.5×.
+4. **By eye, every slide and every fragment.** Does each slide match a slide
+   type: title, throughline, framing, quote slide, cards, image, image notes,
+   explainer, discussion, arc, take home? A slide that fits none is made to
+   fit, or its type is added here with the reason. Does each line sit at its
+   level? Do two writers share a slide in a hierarchy? Is anything clipped?
+   Fix it on the slide, not in the theme.
+5. **A fresh-context review, required.** An agent with no memory of the
+   drafting reads `index.md` against the cached source texts and reports
+   problems with evidence, without fixing anything. Cheap checks first:
+   - **Cross-slide integrity:** the opening question, the arc and the take
+     home describe the same lecture; names, dates and citations agree; forward
+     references are accurate; framing lines agree with the biographical slides.
+   - **The historical arc:** dates, sequence, who could have read whom, causal
+     claims, firsts and breaks.
+   - **Every quotation,** word for word against the cited page, looked up
+     rather than recognized.
 
-Run the word check first — `scripts/slide-words.py <deck>/index.md`. It is the
-cheapest of these passes and the one whose failures are invisible in a browser,
-because an over-long caption looks fine on screen and still sounds wrong in the
-room.
-
-**Then the typography pass, every time, before anyone sees the deck:**
-
-```sh
-scripts/deck-check.sh <course>/<deck>      # e.g. making-history/inventing-nations
-```
-
-It runs on the built `_site`, so build first. It starts a fresh browser
-profile every run on purpose: a reused headless profile serves the stylesheet
-from cache, and a CSS change then looks as if it did nothing. It steps through
-every slide at 960×700 with every fragment showing, and fails the deck for:
-
-- **overflow** — a slide taller than the 644px it can show;
-- **unstyled** text — a paragraph with no class and no styling container
-  ("Every piece of text carries a class");
-- **order** — commentary, or a second quotation, set above the slide's
-  `.quote`. A slide reads down its levels: label, claim, evidence,
-  commentary, then the takeaway or question, then apparatus. Context that has
-  to come before the evidence is its own slide;
-- **quote-as-commentary** — a `.reveal-block` or `.detail` that opens with a
-  quotation, i.e. someone's words set in the deck's voice;
-- **before-intro** — someone quoted, or named as the subject of a headline,
-  before their portrait ("Introduce before you quote");
-- **image <1.0×** — an image shown larger than its own pixels; it warns below
-  1.5×.
-
-The script is the floor, not the pass. Three things it cannot see, which you
-check by eye on every slide:
-
-- **Does the slide match one of the deck's slide types?** Title, throughline,
-  framing (claim, quotation, the session's question), quote slide (claim and
-  one quotation, plus at most a `.reveal-block.compare` pointer), cards, image
-  (landscape, portrait, bleed), image notes, discussion, arc, take home. A
-  slide that fits none is an aberration: make it fit, or add the type to this
-  guide with its reason. Decks drift one reasonable exception at a time —
-  `inventing-nations` collected a historical block above a quotation, a
-  pull-quote under one, and a question styled like a quotation, each added to
-  fix something else, before anyone looked at the deck as a set.
-- **Does each line sit at the level its job puts it?** See "Slide levels." A
-  question that looks like a quotation passes every check above.
-- **Do two writers share a slide in a hierarchy?** See "Two writers on one
-  slide get equal billing."
-
-Before opening a browser it is worth *measuring* rather than guessing: strip
-the tags from each `<section>` and compare its character count against a deck
-already known to display correctly. In `enlightenment-progress` the ceiling is
-roughly 1,800 characters on a `.swap` slide (where fragments replace one
-another in place, so only the largest is ever on screen) and roughly 1,250
-where blocks stack — and no slide there puts a `.reveal-block` underneath a
-`.cards` grid, which is the arrangement most likely to overflow, since a
-three-card grid costs the same two rows as a four-card one. Anything past
-those numbers is worth restructuring before you ever see it clipped.
-
-Then open it in a browser and step through every slide, advancing each
-fragment. You are looking for content clipped at the bottom of the 960×700
-box — the failure that never shows up in the source file. Fix it on the slide,
-not by shrinking the theme.
-
-Then have a **fresh-context agent review the finished deck**. This is a
-required step, not an optional one, and it is the reason a deck is not done
-when the last slide is written: whoever (or whatever) wrote the deck has spent
-hours building a case and will read the deck as confirming it. A reader coming
-to `index.md` cold, with no memory of the drafting, catches what the author
-cannot see. Point it at the deck file and the readings, and ask it to report
-problems with evidence rather than to fix anything — three things in
-particular:
-
-**Make the review cheap enough to finish.** An agent that has to OCR a
-sixteen-page scan before it can check a page number will spend its budget on
-mechanics and stall before reaching the argument. Extract the sources to text
-first (see "Cache the text of a scanned reading" below), hand over the paths,
-and order the work so the cheap checks come first: cross-slide consistency and
-the arc need no external source at all, and they catch the errors that cost
-the most to leave in.
-
-- **The historical arc.** Does the story the deck tells across its parts
-  actually hold? Dates and sequence, who could have read whom, causal claims
-  ("this made that possible"), and anything asserted as a first, a peak, or a
-  break. Flag claims that are defensible but contested, and claims that are
-  simply wrong.
-- **Every quotation.** Each quote checked against the source it cites, word
-  for word, with the page or section number verified — not recognized, looked
-  up. Ellipses and bracketed insertions must not change the sense. A quote
-  that can't be located in the cited text is the finding, whatever it sounds
-  like. See "Precision over invention" above.
-- **Cross-slide integrity.** The framing question at the front, the closing
-  arc slide and the take home have to describe the same lecture: the arc
-  slide's cards match the parts that actually exist and carry the conclusions
-  the discussion slides actually reached, and the take home answers the question
-  the deck opened with. Names, dates, spellings, and citation formats
-  consistent slide to slide; forward references to other weeks accurate; no
-  promise made early that the deck never keeps. Check the punchy framing line
-  on the title or take-home slide against the biographical slides especially —
-  it gets written first, before the details that can flatly contradict it
-  ("two men in Berlin," when one of them was teaching in Frankfurt an der
-  Oder).
-
-Work the findings before publishing. Verify each one against the source
-yourself — a cold reader will sometimes flag a correct claim it lacks the
-context for, and being confidently wrong about a date is as easy for the
-reviewer as for the author. Fix what's real. Anything you decide to keep goes
-in `ISSUES.md` as a deliberate deviation with the reason, so the next reviewer
-does not raise it again — not into the deck, and not left only in a commit
-message nobody will read.
-
-Link the new deck from the course's `schedule.md` under the session it
-belongs to, matching the existing `[Slides of ...](slides/<slug>/)` phrasing.
+   Verify each finding yourself, fix what is real, and record what you keep in
+   `ISSUES.md` with the reason.
+6. **Link the deck** from the course's `schedule.md` under its session, as
+   `[Slides of ...](slides/<slug>/)`.

@@ -1,8 +1,11 @@
 # Slide Images — The Linguistic Turn (10.1)
 
-Eleven image files, all used by `../index.md`. Nine are public domain or CC
-licensed; the portraits of **Hayden White** and **Keith Jenkins** are **fair
-use** for classroom teaching (see Notes). Credits are carried in the
+Fifteen image files. All but `lyotard.jpg`, `nietzsche-c1875.jpg`,
+`sima-qian-portrait.jpg`, `fools-cap-map-c1590.jpg`,
+`scott-2013-portrait.jpg` and `coras-arrest-memorable-1618.jpg` are used by
+`../index.md`. Those six lost their slides on 2026-10-20 and are kept in case they return. Twelve are public domain or CC
+licensed; the portraits of **Hayden White**, **Keith Jenkins** and **Jacques
+Derrida** are **fair use** for classroom teaching (see Notes). Credits are carried in the
 `<figcaption>`s and should not be stripped.
 
 ## Credits
@@ -20,14 +23,25 @@ use** for classroom teaching (see Notes). Credits are carried in the
 | `lyotard.jpg` | Jean-François Lyotard, photographed by Bracha L. Ettinger, retouched. 868×1182, as downloaded | Wikimedia Commons ("Jean-Francois Lyotard cropped.jpg") | CC BY-SA 2.0 — attribution in the caption |
 | `berlin-brandenburg-gate-1989.jpg` | Crowds at the Wall before the Brandenburg Gate, late 1989 (the uploader says November; Commons notes it may be 22 December). 1800×1173 from the 3840-wide file at q80 | Raphaël Thiémard on Flickr, via Wikimedia Commons ("Berlin 1989, Fall der Mauer, Chute du mur 19.jpg") | CC BY-SA 2.0 — attribution in the caption |
 | `nietzsche-c1875.jpg` | Friedrich Nietzsche, about 1875. 1327×1800 from the 1464×1986 file at q85 | F. Hartmann, via Wikimedia Commons ("Nietzsche187a.jpg") | Public domain |
+| `saussure-jullien.jpg` | Ferdinand de Saussure, photograph by F. Jullien, Geneva, before 1913, restored. 1146×1262, as downloaded | Wikimedia Commons ("Ferdinand de Saussure by Jullien Restored portrait crop.png") | Public domain |
+| `levi-strauss-1973.jpg` | Claude Lévi-Strauss at the Erasmus Prize ceremony, Tropenmuseum, Amsterdam, 28 May 1973. 608×909, as downloaded | Bert Verhoeff/Anefo, Nationaal Archief, via Wikimedia Commons ("Claude Levi Strauss in Tropenmus, Bestanddeelnr (cropped).jpg") | CC0 |
+| `derrida-uchicago.jpg` | Jacques Derrida, undated author photograph, black and white. 848×1051, as downloaded | University of Chicago Press author page (press.uchicago.edu, author au5145389), full-size file under `/dam/ucp/books/authors/D/` | **Fair use** — see Notes |
+| `remission-henri-ii-1548.jpg` | Letter of remission from Henri II, June 1548, copied into the royal chancery register: two women of Le Fayet (Cantal) pardoned for killing Jehanne Andraulde, a supposed witch. Page 1 of the PDF rendered at 1280×1457 | Archives nationales, JJ 258-2, no. 91, fol. 45, via Wikimedia Commons | Public domain |
 
-Retrieved 2026-10-16. The folder totals about 4 MB.
+Retrieved 2026-10-16; the last four rows 2026-10-20. The folder totals about 4 MB.
 
 Re-fetch the Commons files with
 `curl -L 'https://commons.wikimedia.org/wiki/Special:FilePath/<FILE>?width=<W>'`
 and the processing in each row (`magick in.jpg -crop WxH+X+Y +repage -resize … -quality …`).
 
 ## Notes
+
+**The Derrida photograph is fair use (2026-10-20).** The only sharp free
+image on Commons was a faded 1990s snapshot from the back of a lecture room,
+which the author rejected. Commons has nothing else above 460px. The
+University of Chicago Press, one of his publishers, serves an 848×1051
+author photograph; the photographer is not named. Shown to identify a thinker
+in the assigned reading, in a non-commercial teaching deck.
 
 **The Hayden White photograph is fair use.** Commons has two images of him:
 a 498×400 black-and-white desk photograph from the UC Santa Cruz Special
@@ -47,7 +61,8 @@ open; the other two `maxres` frames catch him looking down. It is 720 pixels
 tall, about 1.0× in the portrait rail. A better copy would need the original
 video file from St Mary's University (Centre for Philosophy of History).
 
-**The Davis, Scott and Sima Qian files are under 1.5×.** Each is the largest
+**The Davis, Scott and Sima Qian files are under 1.5×** (Scott and Sima Qian
+are no longer used). Each is the largest
 free copy found. `scripts/deck-check.sh` warns on them; see `../ISSUES.md`.
 
 **No portrait of Maza.** She is the textbook author, per `SLIDE-STYLE.md`.
