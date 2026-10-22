@@ -386,9 +386,8 @@ The "linguistic turn" is the claim that because historians always use narrative,
 "%}
 
 
-
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. As usual, draw on the readings *and* our discussions this week --- but the question to focus on in your post is this: TO WHAT EXTENT is there such thing as historical truth? The important part here is the reasoning you give based on our readings and discussion.
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. As usual, draw on the readings *and* our discussions this week --- but the question to focus on in your post is this: TO WHAT EXTENT is there such thing as historical truth? No right answer, obviously, so the important part here is the reasoning you give based on our readings and discussion.
 "%}
 
 ## 11: Public History and Memory
