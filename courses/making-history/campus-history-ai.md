@@ -42,30 +42,28 @@ Use an AI tool (ChatGPT, Claude, Gemini, or similar) to generate a ~600-word his
 
 ## Step 3: Read it critically
 
-Before writing anything, read the AI draft carefully with a skeptical eye. Read carefully and ask:
-- What specific claims does it make — dates, names, events, causes?
+Read the AI draft with a skeptical eye. Read carefully and ask:
 - What sources does it cite, if any? Do they look like real, verifiable sources?
 - What seems plausible and specific? What seems vague, generic, or suspiciously confident?
 - What questions does it raise that it doesn't answer?
 - What would you want to verify before trusting this account?
-
-
+- Where does it seem to make claims about the past that don't seem dupported by evidence?
 
 ---
 
 ## Step 4: Write your critique
 
-Write **3–5 sentences** evaluating the AI draft. Be specific — don't just say "it seemed accurate" or "it made things up." Quote at least one passage that seems reasonably reliable and one that seems suspicious or thin, and explain your reasoning for each.
+Write **a short paragraph** (~200 words) evaluating the AI draft. Be specific — don't just say "it seemed accurate" or "it made things up." Quote at least one passage that seems reasonably reliable and one that seems suspicious or thin, and explain your reasoning for each.
 
-This critique is short, but it's the heart of this assignment. It's asking you to do what historians always do: read a source critically before deciding how much to trust it.
+This critique is short, but it's significant for the assignment. It's asking you to do what historians always do: read a source critically before deciding how much to trust it.
 
 ---
 
-## What I'm looking for
+## What I'm looking for in your critique
 
 This is a short assignment graded on **engagement and honesty**, not on whether the AI draft turns out to be accurate. What makes a strong critique:
 
-- You quote **specific lines** from the AI draft — not just "it seemed vague" or "it made things up"
+- You quote **specific lines** from the AI draft — not just "it seemed vague" or "it invented sources"
 - You identify at least one claim that seems checkable and at least one that seems impossible to verify without specialized knowledge
 - Your thinking is genuine even if uncertain: "I'm not sure if this is accurate but here's why it feels suspicious" is an excellent observation
 - You notice the vagueness: could this paragraph apply to almost any other topic if you swapped out a few words?

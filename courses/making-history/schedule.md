@@ -377,13 +377,12 @@ The "linguistic turn" is the claim that because historians always use narrative,
 
 ### 10.2: Campus History with AI
 - Readings on AI and History 
-- Today we spend a bit more time on the [Campus History Project](https://amaranth.unm.edu/campus-history)
+- Today we discuss the [Campus History Project](https://amaranth.unm.edu/campus-history)
 
-{% include alert.html class='warning' title='Campus History AI draft due next Thursday' text="
-- Read the [AI research guide](campus-history-ai) before our next meeting.
-- Claim your topic on the shared Google Sheet!
-- Follow the directions on the Campus History site to make a new webpage to hold your AI-generated essay.
-- Your placeholder for your AI draft and critique are due on Tuesday, when we discuss them and pair them with the archival research component. 
+{% include alert.html class='warning' title='Campus History work coming up' text="
+- Read the [Campus History AI essay guide](campus-history-ai) before Tuesday so you can make sure you don't have questions.
+- Follow the directions on the Campus History site to make YOUR COPY of the Campus History site that you will work on.
+- Your PLACEHOLDER for your AI draft and critique are due on Tuesday, so we have time to troubleshoot before you need to post your AI essay. 
 "%}
 
 
