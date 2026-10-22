@@ -52,7 +52,7 @@ Read the AI draft with a skeptical eye. Read carefully and ask:
 
 ## Step 4: Write your critique
 
-Write **a short paragraph** (~200 words) evaluating the AI draft. Be specific — don't just say "it seemed accurate" or "it made things up." Quote at least one passage that seems reasonably reliable and one that seems suspicious or thin, and explain your reasoning for each.
+Write **a short paragraph** (~300 words; general refraction length) evaluating the AI draft. Be specific — don't just say "it seemed accurate" or "it made things up". Quote at least one passage that seems reasonably reliable and one that seems suspicious or thin, and explain your reasoning for each.
 
 This critique is short, but it's significant for the assignment. It's asking you to do what historians always do: read a source critically before deciding how much to trust it.
 
@@ -81,6 +81,4 @@ There is no wrong answer here. What matters is the quality of your attention to 
 
 Post **both** to the discussion board before class:
 1. Your AI-generated draft (paste it in, unedited)
-2. Your 3–5 sentence critique
-
-We'll use these in class discussion before you go to the archive. Bring your notes — especially your list of specific claims to verify — to your CSWR visit for [Part 2](campus-history-human).
+2. Your ~300-word critique
