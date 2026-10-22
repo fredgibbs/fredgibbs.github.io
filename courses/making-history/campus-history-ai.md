@@ -44,7 +44,7 @@ Use an AI tool (ChatGPT, Claude, Gemini, or similar) to generate a ~600-word his
 Read the AI draft with a skeptical eye. Read carefully and ask:
 - What sources does it cite? To what extent do you trust them?
 - Where does it seem to make claims about the past that don't seem supported by evidence?
-- What would you want to verify before trusting this account?
+- How much does it provide larger cultural context for understanding the topic?
 - What seems plausible and specific? What seems vague, generic, or suspiciously confident?
 - What questions does it raise that it doesn't answer?
 - Whose perspectives are emphasized? Whose are left out?
