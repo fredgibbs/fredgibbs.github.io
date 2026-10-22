@@ -365,7 +365,7 @@ This week pairs two major interventions. The first asks: if history is always to
 ### 10.1: The Linguistic Turn — Is History Just a Story?
 The "linguistic turn" is the claim that because historians always use narrative, selection, and interpretation, their work is never a transparent window onto the past. This week we explore and debate the extent to which this is true.
 
-<!-- - Slides of [The Linguistic Turn](slides/linguistic-turn/) -->
+- Slides of [The Linguistic Turn](slides/linguistic-turn/)
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 6: "Facts or Fictions", 199-230. 
 - 📜 Keith Jenkins, *Re-Thinking History* (1991), Ch. 3, 70--84. Jenkins wonders: if all history is narrative, can we ever really know the past? Is it all fiction?Written as a polemic, meaning lively, opinionated, and meant to provoke.
 
@@ -378,11 +378,12 @@ The "linguistic turn" is the claim that because historians always use narrative,
 ### 10.2: Campus History with AI
 - Readings on AI and History 
 - Today we discuss the [Campus History Project](https://amaranth.unm.edu/campus-history)
+- We go over your assignment FOR TUESDAY, which is to get your copy of the campus history website working.
 
 {% include alert.html class='warning' title='Campus History work coming up' text="
 - Read the [Campus History AI essay guide](campus-history-ai) before Tuesday so you can make sure you don't have questions.
 - Follow the directions on the Campus History site to make YOUR COPY of the Campus History site that you will work on.
-- Your PLACEHOLDER for your AI draft and critique are due on Tuesday, so we have time to troubleshoot before you need to post your AI essay. 
+- Your PLACEHOLDER SITE (for your AI draft and critique) are due on Tuesday, so we have time to troubleshoot before you need to post your AI essay by Thursday. 
 "%}
 
 
@@ -405,8 +406,8 @@ History and memory are clearly related, but exactly how do we define them in rel
 - Loewen looks at monuments. What historical narratives do they tell, and what do they leave out?
 
 {% include alert.html class='danger' title='Campus History AI URLs due' text="
-- Your AI draft is due BEFORE CLASS Thursday, when we discuss them and pair them with the archival research component. Claim your topic on the shared Google Sheet!
-- To prepare for that, follow the directions on the Campus History site to make a new webpage to hold your AI-generated essay.
+- Your AI draft is due BEFORE CLASS Thursday, when we discuss them and pair them with the archival research component. 
+- Follow the student guide on the Campus History site to make a new webpage to hold your AI-generated essay.
 "%}
 
 
