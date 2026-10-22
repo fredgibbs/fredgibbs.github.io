@@ -380,16 +380,20 @@ The "linguistic turn" is the claim that because historians always use narrative,
 - Today we discuss the [Campus History Project](https://amaranth.unm.edu/campus-history)
 - We go over your assignment FOR TUESDAY, which is to get your copy of the campus history website working.
 
-{% include alert.html class='warning' title='Campus History work coming up' text="
+{% include alert.html class='warning' title='Campus History Part 1 DUE TUESDAY' text="
+- Follow the directions on the [Campus History student guide](https://amaranth.unm.edu/campus-history/student-guide) to make YOUR COPY of the Campus History site that you will work on.
+- Your PLACEHOLDER SITE (for your AI draft and critique) are due on Tuesday, so we have time to troubleshoot before you need to post your AI essay by Thursday.
 - Read the [Campus History AI essay guide](campus-history-ai) before Tuesday so you can make sure you don't have questions.
-- Follow the directions on the Campus History site to make YOUR COPY of the Campus History site that you will work on.
-- Your PLACEHOLDER SITE (for your AI draft and critique) are due on Tuesday, so we have time to troubleshoot before you need to post your AI essay by Thursday. 
+
 "%}
 
 
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
 This week's [reading refraction](reading-refractions) is due by midnight on Canvas. As usual, draw on the readings *and* our discussions this week --- but the question to focus on in your post is this: TO WHAT EXTENT is there such thing as historical truth? No right answer, obviously, so the important part here is the reasoning you give based on our readings and discussion.
 "%}
+
+
+
 
 ## 11: Public History and Memory
 All semester we've been reading about history being made — in archives, universities, national narratives. This week we ask what happens when it enters public life: monuments, textbooks, museums, built environments. The two sessions work together: the first builds the theoretical framework for thinking about history and memory; the second puts it into practice on the ground around you.
@@ -406,14 +410,16 @@ History and memory are clearly related, but exactly how do we define them in rel
 - Loewen looks at monuments. What historical narratives do they tell, and what do they leave out?
 
 {% include alert.html class='danger' title='Campus History AI URLs due' text="
-- Your AI draft is due BEFORE CLASS Thursday, when we discuss them and pair them with the archival research component. 
-- Follow the student guide on the Campus History site to make a new webpage to hold your AI-generated essay.
+- Your AI draft is due BEFORE CLASS THURSDAY, when we discuss them and pair them with the archival research component. 
+- Follow the [Campus History student guide](https://amaranth.unm.edu/campus-history/student-guide).
+- When you have a working copy of the campus history site and YOUR OWN essay folder, post the URL to the Canvas Discussion Assignment for today.
 "%}
 
 
-### 11.2: Campus History + Archives
+### 11.2: AI, History, Campus History
 
 - AI and the Future of History
+- Beginning your archival research for Campus History
 
 {% include alert.html class='danger' title='Campus History AI Drafts Due' text="
 Your Campus History AI drafts are due BEFORE class today. Follow the [AI research guide](campus-history-ai).
