@@ -9,7 +9,7 @@ section: links-guides
 
 # Campus History — Part 1: AI Draft + Critique
 
-This is **Part 1** of a two-part project. Here you generate an AI history of a UNM topic and write a short critique of it. Your critique becomes the basis for a class discussion — and the notes you take here go with you to the archive for [Part 2](campus-history-human).
+This is **Part 1** of a two-part project, althought the second part is much more involved. For part 1, you generate an AI history of a UNM topic and write a short critique / analysis of it. Your critique becomes the basis for a class discussion — and the notes you take here go with you to the archive for [Part 2](campus-history-human).
 
 {% include alert.html class='success' title='Skills you are practicing' text="
 * **Source criticism** — evaluating a source by asking: who made it, for whom, in what context, and what does it leave out? You'll do this every time you encounter a historical claim in a news article, a political speech, or an AI summary.
@@ -26,7 +26,6 @@ Choose something about UNM's past that genuinely interests you:
 - A person associated with UNM's history
 - A campus space or tradition whose origins you've wondered about
 
-**Add your name and topic** to our [UNM Campus History Index](https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit?usp=sharing) so we don't duplicate topics.
 
 ---
 
