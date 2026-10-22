@@ -33,7 +33,7 @@ Choose something about UNM's past that genuinely interests you:
 
 Use an AI tool (ChatGPT, Claude, Gemini, or similar) to generate a ~600-word history of your topic. Give it a specific prompt:
 
-> "Write a short history of [your topic] at the University of New Mexico. Include specific dates, events, people, and sources where possible."
+> "Write a ~600-word history of [your topic] at the University of New Mexico. Include specific dates, events, people, and sources where possible. Be clear about your sources."
 
 **Save the full AI response without editing it.** This is your baseline document. You'll compare it against the archive in Part 2.
 
@@ -42,12 +42,12 @@ Use an AI tool (ChatGPT, Claude, Gemini, or similar) to generate a ~600-word his
 ## Step 3: Read it critically
 
 Read the AI draft with a skeptical eye. Read carefully and ask:
-- What sources does it cite, if any? Do they look like real, verifiable sources?
+- What sources does it cite? Would you trust them?
 - What seems plausible and specific? What seems vague, generic, or suspiciously confident?
+- Where does it seem to make claims about the past that don't seem dupported by evidence?
 - What questions does it raise that it doesn't answer?
 - What would you want to verify before trusting this account?
-- Where does it seem to make claims about the past that don't seem dupported by evidence?
-
+- Whose perspectives are emphasized? Whose are left out?
 ---
 
 ## Step 4: Write your critique
@@ -55,6 +55,8 @@ Read the AI draft with a skeptical eye. Read carefully and ask:
 Write **a short paragraph** (~300 words; general refraction length) evaluating the AI draft. Be specific — don't just say "it seemed accurate" or "it made things up". Quote at least one passage that seems reasonably reliable and one that seems suspicious or thin, and explain your reasoning for each.
 
 This critique is short, but it's significant for the assignment. It's asking you to do what historians always do: read a source critically before deciding how much to trust it.
+
+Obviously, don't use AI to write the critique. There should be a distinct diffrence in writing styles between the AI-essay and your analysis.
 
 ---
 
@@ -73,7 +75,6 @@ There is no wrong answer here. What matters is the quality of your attention to 
 - **B** — specific examples; some analytical depth beyond surface impressions
 - **C** — addresses the prompt but stays general; examples are thin or paraphrased rather than quoted
 - **D** — vague summary with no textual evidence from the AI draft
-- **F** — minimal effort or missing a component
 
 ---
 
