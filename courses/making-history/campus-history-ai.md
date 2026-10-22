@@ -42,17 +42,18 @@ Use an AI tool (ChatGPT, Claude, Gemini, or similar) to generate a ~600-word his
 ## Step 3: Read it critically
 
 Read the AI draft with a skeptical eye. Read carefully and ask:
-- What sources does it cite? Would you trust them?
-- What seems plausible and specific? What seems vague, generic, or suspiciously confident?
-- Where does it seem to make claims about the past that don't seem dupported by evidence?
-- What questions does it raise that it doesn't answer?
+- What sources does it cite? To what extent do you trust them?
+- Where does it seem to make claims about the past that don't seem supported by evidence?
 - What would you want to verify before trusting this account?
+- What seems plausible and specific? What seems vague, generic, or suspiciously confident?
+- What questions does it raise that it doesn't answer?
 - Whose perspectives are emphasized? Whose are left out?
+- What makes it sound like AI writing?
 ---
 
 ## Step 4: Write your critique
 
-Write **a short paragraph** (~300 words; general refraction length) evaluating the AI draft. Be specific — don't just say "it seemed accurate" or "it made things up". Quote at least one passage that seems reasonably reliable and one that seems suspicious or thin, and explain your reasoning for each.
+Write **a short paragraph** (~350 words; general refraction length) evaluating the AI draft. Be specific — don't just say "it seemed accurate" or "it made things up". Quote at least one passage that seems reasonably reliable and one that seems suspicious or thin, and explain your reasoning for each.
 
 This critique is short, but it's significant for the assignment. It's asking you to do what historians always do: read a source critically before deciding how much to trust it.
 
@@ -64,12 +65,12 @@ Obviously, don't use AI to write the critique. There should be a distinct diffre
 
 This is a short assignment graded on **engagement and honesty**, not on whether the AI draft turns out to be accurate. What makes a strong critique:
 
+- Most importantly, address the questions in step 3. You'll have more to say about some questions than others, and you may answer some at the same time.
 - You quote **specific lines** from the AI draft — not just "it seemed vague" or "it invented sources"
-- You identify at least one claim that seems checkable and at least one that seems impossible to verify without specialized knowledge
 - Your thinking is genuine even if uncertain: "I'm not sure if this is accurate but here's why it feels suspicious" is an excellent observation
 - You notice the vagueness: could this paragraph apply to almost any other topic if you swapped out a few words?
 
-There is no wrong answer here. What matters is the quality of your attention to the AI response.
+**There is no wrong answer here. What matters is the quality of your attention to the AI response.**
 
 - **A** — quotes specific lines; distinguishes between claims that are checkable and ones that can't be verified without specialist knowledge; reasoning is genuine even when uncertain
 - **B** — specific examples; some analytical depth beyond surface impressions
@@ -82,4 +83,4 @@ There is no wrong answer here. What matters is the quality of your attention to 
 
 Post **both** to the discussion board before class:
 1. Your AI-generated draft (paste it in, unedited)
-2. Your ~300-word critique
+2. Your ~350-word critique
