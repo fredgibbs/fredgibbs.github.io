@@ -65,9 +65,9 @@ Obviously, don't use AI to write the critique. There should be a distinct diffre
 
 This is a short assignment graded on **engagement and honesty**, not on whether the AI draft turns out to be accurate. What makes a strong critique:
 
-- Most importantly, address the questions in step 3. You'll have more to say about some questions than others, and you may answer some at the same time.
+- Most importantly, **address the questions in step 3**. You'll have more to say about some questions than others, and you may answer some at the same time. You don't need to go one by one, but your reponse as a whole should address those questions.
 - You quote **specific lines** from the AI draft — not just "it seemed vague" or "it invented sources"
-- Your thinking is genuine even if uncertain: "I'm not sure if this is accurate but here's why it feels suspicious" is an excellent observation
+- Your thinking is genuine even if uncertain: "I'm not sure if this is accurate but here's why it feels suspicious..." is an excellent observation
 - You notice the vagueness: could this paragraph apply to almost any other topic if you swapped out a few words?
 
 **There is no wrong answer here. What matters is the quality of your attention to the AI response.**
