@@ -13,6 +13,10 @@ section: schedule
 The schedule indicated on this page is always accurate for the upcoming week, but some details beyond that may be tweaked a bit. If you keep this page open in your browser tab, make sure you refresh at least each week (every day is best, just in case!). There will never be any significant changes to the workload or general assignment timing.
 "%}
 
+{% include alert.html class='info' title='AI on daily posts' text="
+Unless a day's box says otherwise, every post follows the [reading reflection](reading-reflections) rule: **draft first**. Write it yourself; then AI can polish it or suggest what else to consider. The days built around AI say so in their boxes, and the [syllabus home page](index) has the full table.
+"%}
+
 
 # Week 1: How to read diet advice
 This first week gives us two things we'll use all month: a way to analyze dietary advice, and a long historical baseline. We start with a modern historian asking how the language of nutrition shapes what we think food is and calling attention to the "rhetoric of science"--that is, *how* we talk about diet and health, not just the science itself. 
@@ -179,6 +183,8 @@ Guiding questions:
 - What kinds of evidence do they use?
 - What kind of authority are they trying to project?
 - What is the style, tone, or rhetoric of each author? Which was more compelling to you, and why?
+
+**AI: built in.** AI gives you a first impression and can answer your questions. It can't write the comparison or pick your examples, and the post has to be your own writing.
 "%}
 
 
@@ -309,6 +315,8 @@ To help you build that comparison, pick ONE OR TWO of these lenses to organize i
 - How do the texts show continuities and discontinuities of dietary advice from past sources?
 - How do the authors establish expertise?
 - To what extent do these texts illustrate the points from the Monday and Tuesday readings?
+
+**AI: built in.** AI can help you get oriented and answer your questions. It can't write the comparison, choose your examples, or supply your first impressions---those come from opening the books yourself. The post has to be your own writing.
 "%}
 
 
@@ -317,7 +325,7 @@ No reading for today! Just images. We're going to use AI to connect some images 
 
 First, check out [this slide deck](https://docs.google.com/presentation/d/1DX-5UZjIgpD-WZjfpcMrCCqY6NAHJ04ZdHDYzfa9Ge8/edit?usp=sharing).
 
-Ask AI to write a sentence captioning and connecting each slide to the next (and give it the URL to the slides), so you end up with something like a bulleted list of sentences, one for each slide.
+Ask AI to write a sentence captioning and connecting each slide to the next (and give it the URL to the slides), so you end up with something like a bulleted list of sentences, one for each slide. If your AI tool can't open the link, download the deck as a PDF (File > Download) and upload that instead. If it writes captions anyway without being able to see the slides, that's worth noticing in your post.
 
 Then go back through the actual slides yourself with the AI captions. Your job is to notice what's actually on each slide, visually or textually, related to the course so far that didn't make it into the AI narrative.
 
@@ -328,6 +336,8 @@ Your post should include the following:
 - Comment briefly (3-4 sentences) on one other post. How does your classmates commentary and analysis compare to _yours_? It's fine if they are eerily similar or radically different--the point is just to gain at least one point of comparison.
 
 NOTE: you DO NOT need to post your AI captions themselves. They are just the basis for your analysis.
+
+**AI: built in.** AI writes the captions. Everything in your post is yours---don't ask AI to find what its own captions missed.
 "%}
 
 
@@ -365,6 +375,8 @@ This is a long article, so read strategically. The most important issue is not r
 This article is a LONG (and dry, TBH) description of the history and rationale low-fat diets. There's very helpful _description_, but not much _analysis_ of how we should understand those things in the context of the broad history of diet and health. That's where you come in!
 
 You are NOT meant to read the whole thing carefully. You should skim/use AI as much as you need to---but do so iteratively and critically, not just lazily. Your challenge---what you should write about in your reflection---is to explain how we can understand how / why the \"ideology of low fat\" unfolded as it did USING THE COURSE SO FAR. 
+
+**AI: for the reading, not the writing.** Use AI to get through the article; the reflection itself is draft first, like any other.
 "%}
 
 
@@ -415,7 +427,7 @@ Finally: Aschwanden argues nutrition science is genuinely uncertain, contested, 
 {% include alert.html class='danger' title='Complicate the Obvious' text="
 Post your [Complicate the Obvious](healthy-diet-analysis) assignment before midnight tonight. It's ~600 words and works as a final reflection warm up.
 
-Just a quick preview here: AI what a healthy diet is, then use specific ideas and readings from the course to complicate it. What assumptions does it make about bodies, evidence, expertise, morality, culture, common sense, or responsibility? What gets left out? The goal is not to prove the AI right or wrong, but to show that you can use historical perspective to analyze modern diet advice.
+Just a quick preview here: ask AI what a healthy diet is, then use specific ideas and readings from the course to complicate it. What assumptions does it make about bodies, evidence, expertise, morality, culture, common sense, or responsibility? What gets left out? The goal is not to prove the AI right or wrong, but to show that you can use historical perspective to analyze modern diet advice.
 "%}
 
 

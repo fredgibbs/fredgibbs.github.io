@@ -113,6 +113,26 @@ Percent | Grade
 * Learning to use AI is an important skill in itself, but using it when you're supposed to be working through the friction of thinking on your own is like bringing a forklift into the weightroom. Eventually you will lose out to people _actually doing the work_.
 * Each assignment specifies the level and type of AI use that's appropriate. Sometimes that's not using it at all; sometimes the whole assignment is AI-driven. Please respect the intended AI component of each assignment, and be sure you're clearly separating your work from AI work as asked.
 * Since AI answers are always a few clicks away, one common rule for all assignments: **You must always differentiate your work from AI.** If it even _seems_ like vanilla AI (_even if it isn't_), you will need to redo the assignment for credit.
+* **Say how you used it.** Whenever you use AI on something you turn in, add one line at the end saying what you used it for. On the assignments built around AI, your post already does this.
+
+Here's how that works out for each assignment:
+
+Assignment | AI use
+--- | ---
+Intro post, [reading reflections](reading-reflections), and discussion posts | **Draft first.** One exception: the low-fat reflection (week 4) lets you use AI to get through a long article, and says so.
+[AI Reading Investigation](ai-reading-investigation) | **Built in.**
+Primary source comparison ([schedule](schedule), week 2) | **Built in.**
+Early 20th-century source comparison ([schedule](schedule), week 3) | **Built in.**
+Slide deck post ([schedule](schedule), week 3) | **Built in.**
+[Complicate the Obvious](healthy-diet-analysis) | **Built in.**
+[Final learning reflection](final-reflections) | **Polish only.**
+Syllabus quiz | **None.**
+
+What the levels mean:
+- **None**: don't use AI at all.
+- **Polish only**: you do the reading, the thinking, and the writing. Once you have a full draft, AI can fix grammar, wording, and flow. It can't add ideas.
+- **Draft first**: same as polish only, except that once you have a draft you can also ask AI what else you might consider. Anything it suggests has to be checked against the reading and put in your own words.
+- **Built in**: the guide or the schedule tells you how to use AI, step by step. The post you turn in is still your own writing (AI can polish it), and it should be clear which ideas came from AI and which came from you. Keep your AI conversation (a share link or a saved copy) until you get your grade back, in case I ask to see it.
 
 You should be familiar with [UNM’s Policy on Academic Dishonesty and the Student Code of Conduct](http://pathfinder.unm.edu/policies.htm#studentcode) which outline academic misconduct defined as plagiarism, cheating, fabrication, or facilitating any such act.
 

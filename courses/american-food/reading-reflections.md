@@ -21,5 +21,12 @@ If there are a number of questions in the reflection prompt, you don't need to a
 - Submitted on time via Canvas
 - Differentiate yourself from AI
 
+{% include alert.html class='info' title='AI on reflections: polish only' text="
+- **You can:** run your finished draft through AI to fix grammar, wording, and flow.
+- **You can't:** use AI to read for you (asking it to summarize a reading or tell you what an article argues), or have it answer the prompt or write any part of your reflection, even as a starting point.
+- **Exception:** the week 14 countercuisine reflection is written with AI on purpose. Its box on the [schedule](schedule) explains how.
+- If you used AI to polish, say so in one line at the end.
+"%}
+
 ## Reflect more than summarize
 Please resist the urge to simply summarize the readings. Of course answering questions in the prompt you'll end up restating and paraphrasing ideas that you want to address. That's important! But this exercise is NOT about just regurgitating the readings or identifying the "most" important points---everyone will learn something different from them. The goal is show me you can think critically about the questions USING THE SET OF READINGS!

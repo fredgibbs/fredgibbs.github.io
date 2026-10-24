@@ -9,7 +9,7 @@ section: links-guides
 
 # Campus History — Part 1: AI Draft + Critique
 
-This is **Part 1** of a two-part project, althought the second part is much more involved. For part 1, you generate an AI history of a UNM topic and write a short critique / analysis of it. Your critique becomes the basis for a class discussion — and the notes you take here go with you to the archive for [Part 2](campus-history-human).
+This is **Part 1** of a two-part project, althought the second part is much more involved. For part 1, you generate an AI history of a UNM topic and write a short critique / analysis of it. 
 
 {% include alert.html class='success' title='Skills you are practicing' text="
 * **Source criticism** — evaluating a source by asking: who made it, for whom, in what context, and what does it leave out? You'll do this every time you encounter a historical claim in a news article, a political speech, or an AI summary.
@@ -59,11 +59,12 @@ This critique is short, but it's significant for the assignment. It's asking you
 
 Obviously, don't use AI to write the critique. There should be a distinct diffrence in writing styles between the AI-essay and your analysis.
 
+Post this to the discussion board like a refraction post.
 ---
 
 ## What I'm looking for in your critique
 
-This is a short assignment graded on **engagement and honesty**, not on whether the AI draft turns out to be accurate. What makes a strong critique:
+This is a refraction-like assignment graded on **engagement and honesty**, not on whether the AI draft turns out to be accurate. What makes a strong critique:
 
 - Most importantly, **address the questions in step 3**. You'll have more to say about some questions than others, and you may answer some at the same time. You don't need to go one by one, but your reponse as a whole should address those questions.
 - You quote **specific lines** from the AI draft — not just "it seemed vague" or "it invented sources"
@@ -81,6 +82,5 @@ This is a short assignment graded on **engagement and honesty**, not on whether 
 
 ## Submit
 
-Post **both** to the discussion board before class:
-1. Your AI-generated draft (paste it in, unedited)
-2. Your ~350-word critique
+1. Your AI-generated draft should be on your own campus-history page.
+2. Your ~350-word critique, posted to the appropriate Canvas discussion topic, like refractions are.

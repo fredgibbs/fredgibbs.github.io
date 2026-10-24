@@ -21,7 +21,16 @@ These posts also help the class build a shared conversation. Over time, they sho
 - Respond to the prompts on the syllabus for each post
 - Use at least one specific passage, example, or moment from the reading
 - Exceptionally thorough reflections can occasionally earn a small extra-credit bump
-- Please use your own thinking to draft your responses. It's OK to use AI to polish grammar or wording, or after you have drafted your own ideas, to ask what else you might consider. But the reactions and ideas need to be yours. The point of this exercise is the thinking you do while writing it — if AI drafts your reaction for you, you skip the part of the assignment that can actually help you.
+- Your own draft first (see the AI box below)
+
+{% include alert.html class='info' title='AI on reflections: draft first' text="
+- **You can:** once you've drafted your own response, use AI to polish grammar and wording, or ask it what else you might consider. Check anything it suggests against the reading, and put it in your own words.
+- **You can't:** have AI summarize the reading in place of reading it, answer the prompt, or draft any part of your post, even as a starting point.
+- **Exceptions:** some days are built around AI (the Shapin investigation, the two source comparisons, the slide deck, Complicate the Obvious), and the low-fat reflection lets you use AI to get through a long article. When a day's box on the schedule says something different, follow the box.
+- If you used AI, say so in one line at the end.
+
+The point of this exercise is the thinking you do while writing it — if AI drafts your reaction for you, you skip the part of the assignment that can actually help you.
+"%}
 
 ## What to do
 Read the intro, conclusion, skim various bits carefully, and focus on parts that seem more significant or interesting to you.
@@ -54,6 +63,6 @@ Reading reflections appear in Canvas as letter grades. In general, they are grad
 
 - B: A solid effort to do the above, but with significant shortcomings in several areas.
 
-- C: A decent effort, but it does not yet show much engagement with the reading, is primarily summary rather than original thinking, or does not really respond to the prompt. If your work reads like an unedited AI response, you will get a chance to redo it.
+- C: A decent effort, but it does not yet show much engagement with the reading, is primarily summary rather than original thinking, or does not really respond to the prompt.
 
-- D: Looks too much like AI. Even if you didn't use it, you still have to redo it.
+- D: Looks too much like AI. Even if you didn't use it, you still have to redo it for credit.

@@ -26,6 +26,13 @@ The purpose is not to make you cynical about all diet advice. It is to help you 
 - Posted on the discussion board as usual
 - You may quote briefly from your AI conversation, but your analysis must be yours
 
+{% include alert.html class='info' title='AI on this assignment: built in' text="
+- **You can:** use any AI tool for the two required prompts and your follow-ups, and quote short bits of its answers as evidence.
+- **You can't:** have AI write your follow-up prompts, your analysis, or your comment on classmates' posts. Asking AI to critique its own answer using the course is still asking it to do the analysis.
+- **You can't:** quote AI saying something it didn't say. Keep the conversation (a share link or a saved copy) until you get your grade back, in case I ask to see it.
+- Polishing your finished draft with AI is fine; say so in one line at the end.
+"%}
+
 ## What to do
 - Before opening AI, jot down three course themes you expect might matter for the question "What is a healthy diet?"
 - Ask an AI tool the two required prompts below.

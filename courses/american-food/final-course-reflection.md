@@ -29,7 +29,13 @@ The more you can tie themes together and speak about the course as a whole (whil
 There's no right answer, oviously. This is an opinion aspect of the final, that asks you to describe what you were interested in, or not, and what kinds of topics or reeadings resonated with you, or didn't.  It's just another angle to show me how you engaged with the course.
 
 ### Don't sound like AI
-Remember, it is your responsibility to differentiate yourself from an AI response, which is super easy if you've actually done any work for the course. In case you haven't discovered it for yourself, AI can't write very convincingly about human experiences (it just sounds super fake), nor does it really know what WE have done in this course (even if you give it the syllabus; it still won't read everything). If your response sounds like AI, I just grade it super hard to lower your grade as much as I can get away with. 
+{% include alert.html class='info' title='AI on this assignment: polish only' text="
+- **You can:** once you've written your full reflection, use AI to fix grammar, wording, and flow.
+- **You can't:** have AI draft or outline any part of it. That includes pasting in your old reflections and quizzes and asking AI to pull them together. Rereading your old work is a great idea; the pulling together is the assignment.
+- Say in one line at the end how you used AI, if you did.
+"%}
+
+Remember, it is your responsibility to differentiate yourself from an AI response, which is super easy if you've actually done any work for the course. In case you haven't discovered it for yourself, AI can't write very convincingly about human experiences (it just sounds super fake), and it has no idea what happened in our class discussions. If your response sounds like AI, it will get a low grade: a reflection that could have been written without taking the course doesn't show me what you learned, and at the end of the semester there's no time left to redo it.
 
 ### Ask for help or clarification
 This final assignment is vague on purpose so you can tell me what you've gotten out of the course. It's different for everyone. But if you feel lost about what to do, please reach out so we can chat and get on solid ground.

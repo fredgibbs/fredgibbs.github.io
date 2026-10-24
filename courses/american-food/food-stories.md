@@ -27,6 +27,14 @@ We've talked about the absence and fragility of historical archives about what p
 - Create a simple webpage to present your speaker bio, image, and interview clip
 - See instruction links below for technical details
 
+{% include alert.html class='info' title='AI on this assignment' text="
+- **Recording:** a real person telling a real story in their own voice. No AI-generated voices, scripts, or interviews.
+- **Audio cleanup and transcripts:** AI tools are fine for removing noise or making a transcript to help you find quotes. Check any transcript against the recording before you quote it.
+- **Image:** use a photo, or have AI generate something goofy. If it's AI-generated, say so in the caption---this is an archive, and future food historians deserve to know.
+- **Speaker intro and analysis: draft first.** Write them yourself. Once you have a full draft, AI can polish it or suggest what you might have missed. Don't hand AI the recording and ask it what the story means; reading between the lines is the assignment.
+- Say in one line at the end how you used AI, if you did.
+"%}
+
 ## Questions to keep in mind for your analysis
 - How does the story related to identity, gender, community, authenticity, heritage, etc?
 - What kind of larger themes appear (exotic, health, comfort, economy, speed, etc)?

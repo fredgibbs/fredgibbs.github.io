@@ -29,6 +29,13 @@ You are practicing three skills at once: reading a scholarly argument, evaluatin
 - Keep notes on what the AI helped you understand and what you had to verify or correct.
 - Your final post should be written by you, not by AI.
 
+{% include alert.html class='info' title='AI on this assignment: built in' text="
+- **You can:** use AI for every step of the prompt sequence, upload the PDF, and revise the prompts however you like. Prompt 7 is there to help you sharpen your own angle.
+- **You can't:** post AI's words as your own, or ask AI to write the post---including asking it to pick the useful insight, the verified claim, or the wrong claim for you. Those choices are the assignment.
+- **You have to:** check the claims you report against Shapin himself. The claim you call verified and the one you call wrong each need a page number from the article.
+- Keep the conversation (a share link or a saved copy) until you get your grade back, in case I ask to see it.
+"%}
+
 
 ## What to do
 Your goal is not to outsource the reading. Your goal is to make the reading more investigable.

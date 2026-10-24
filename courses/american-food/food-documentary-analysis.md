@@ -20,7 +20,13 @@ This assignment encourages you to bring what we've learned in class in critiquin
 - Smooth, focused writing
 
 ## Use the course!
-You have to show that you're using course material to analyze your documentary. If you just ask an AI tool to do this for you, it will be way too vague and you won't really get any extra credit. You CAN use AI to help you, but YOU need to make sure it's showing you can use the course to analyze the documentary.
+You have to show that you're using course material to analyze your documentary. If you just ask an AI tool to do this for you, it will be way too vague and you won't really get any extra credit.
+
+{% include alert.html class='info' title='AI on this assignment: draft first' text="
+- **You can:** once you've watched the film and written a full draft, ask AI to polish it or suggest what you might have missed. Check anything it suggests against the film and our readings before you use it.
+- **You can't:** write about a film you haven't watched based on what AI (or a review) says about it, or have AI write any part of the critique. AI knows the famous food documentaries well enough to fake a critique of one; it can't tell you what you noticed in a particular scene.
+- Say in one line at the end how you used AI, if you did.
+"%}
 
 
 ## Questions to address

@@ -118,11 +118,28 @@ If you ever want more feedback, PLEASE EMAIL ME and ask for it. I will be more t
 "%}
 
 ### AI Policy & Academic Integrity
-- AI is awesome! You should feel free to experiment with it as a tool for helping you in the course.
-- However, you must use it in accordance with UNM's academic integrity policy, meaning you cannot submit AI-generated work as your own! 
+- AI is awesome! Learning to use it well is a real skill, and one reflection is built around it. But using it when you're supposed to be doing the thinking yourself is like bringing a forklift into the weight room.
+- **Each assignment says what kind of AI use is allowed.** The table below summarizes them, and each assignment guide has a box with the details. If something isn't covered, the default is **polish only**---and you can always ask.
+- **Say how you used it.** If you used AI on anything you turn in, add one line at the end saying what for (for example, "ChatGPT fixed the grammar in my last two paragraphs"). Allowed AI use never costs you points. Hiding it is what turns it into an integrity problem.
+- You must use AI in accordance with UNM's academic integrity policy, meaning you cannot submit AI-generated work as your own! 
+
+Assignment | AI use
+--- | ---
+Reading/discussion quizzes | **None.** Your notes and the readings are fine; AI is not.
+[Reading reflections](reading-reflections) | **Polish only.** The week 14 countercuisine reflection is the one exception, and it says so.
+[Historic cookbook comparison](cookbook-analysis) | **Draft first.**
+[Food Stories](food-stories) | **Draft first** for the writing. An AI image is welcome; the recording has to be a real person.
+[Final course reflection](final-course-reflection) | **Polish only.**
+[Food documentary critique](food-documentary-analysis) (extra credit) | **Draft first.**
+
+What the levels mean:
+- **None**: don't use AI at all, including to brainstorm or check your answers.
+- **Polish only**: you do the reading, the thinking, and the writing. Once you have a full draft, AI can fix grammar, wording, and flow. It can't add ideas.
+- **Draft first**: same as polish only, except that once you have a full draft you can also ask AI what you might have missed. Anything it suggests has to be checked against the source before it goes in, and it has to be in your words.
+- **Built in**: the assignment tells you how to use AI. Follow those steps. Whatever you turn in still has to show you steering the AI.
 
 {% include alert.html class='warning' title='Transcend the Model' text="
-- **All of your work needs to differentiate itself from a generic AI response.** You can do this easily if you draw exclusively from course material (readings, class discussions, etc), which AI will not do if it composes your response for you. Very general responses and reponses that reference material we don't cover makes it easy to spot inappropriate use of AI! 
+- **All of your work needs to differentiate itself from a generic AI response.** The easiest way is to draw on what only you have: our class discussions, the details you noticed in a source yourself, and your own reactions. AI can be handed a reading, but it wasn't in the room when we argued about it. Very general responses and reponses that reference material we don't cover makes it easy to spot inappropriate use of AI! 
 "%}
 
 - Please ask for help in understanding and avoiding plagiarism (passing the work or words of others---including AI---off as your own) or other forms academic dishonesty. Doing something dishonest in a class or on an assignment can lead to serious academic consequences, including failing grades and expulsion from the University. 

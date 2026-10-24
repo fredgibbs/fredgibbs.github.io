@@ -21,8 +21,13 @@ Your job is to compare the cookbooks in terms of what they discuss, what they do
 
 **DO NOT SUMMARIZE EACH BOOK!** The point of the exercise here is to find and explain similarities and differences between the books.
 
-{% include alert.html class='warning' title='General Info' text="
-Remember you are welcome to use AI tools to help you polish your writing, consider new perspectives, and so on. But AI must be used to HELP you, not do your work for you. **You must differentiate your work from what AI can produce on its own**. The easiest way to do that is to explicitly cite OUR READINGS. As someone who does research on AI in the humanities (and is teaching a course on using AI for history next term), please believe me it is very easy for me to spot over-reliance on AI.  
+{% include alert.html class='info' title='AI on this assignment: draft first' text="
+- **You can:** once you have a full draft, ask AI to tighten your writing or point out angles you might have missed. Check anything it suggests against the cookbooks before you use it, and put it in your own words.
+- **You can't:** ask AI to describe, summarize, or compare the cookbooks; have it pick your quotes or page numbers; or have it write any part of the essay.
+- **Why:** AI already knows the famous early cookbooks and will happily write about them without ever opening the ones you chose, inventing quotes and page numbers as it goes. Every quote and page number in your essay has to come from the scan itself. I check some of them.
+- Say in one line at the end how you used AI, if you did.
+
+**You must differentiate your work from what AI can produce on its own**. The easiest way to do that is to explicitly cite OUR READINGS and point to specific pages in YOUR cookbooks. As someone who does research on AI in the humanities (and is teaching a course on using AI for history next term), please believe me it is very easy for me to spot over-reliance on AI.  
 "%}
 
 
@@ -38,7 +43,7 @@ Remember you are welcome to use AI tools to help you polish your writing, consid
 
 
 ## Themes to consider
-These are all topics we've discussed already. Remember, you're comparing the cookbooks to describe what they can tell us about their historical context and the broader themes listed below. ** Use the details of the cookbook to analyze the BIG PICTURE**.
+These are all topics we've discussed already. Remember, you're comparing the cookbooks to describe what they can tell us about their historical context and the broader themes listed below. **Use the details of the cookbook to analyze the BIG PICTURE**.
 
 
 ### Ask the Basic Questions
