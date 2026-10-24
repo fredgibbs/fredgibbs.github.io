@@ -77,6 +77,15 @@ carries a turn: a contrast, a reversal, or the pair the slide is built on.
 parts. `Voltaire · 1694–1778`, `Part one · discussion`. If it needs a verb, it
 belongs in the headline. A cold open's eyebrow names the pictures on screen.
 
+**A card gets a `.num` label only when it says what its green heading can't.**
+`Stories · p. 13` over "Heroes to share" is clutter: cut the label and put the
+page at the end of the card text, `(p. 13)`. If the card needs its category to
+make sense, write the category into the heading ("The state is rarely
+criticized," not `The state` over "Seldom criticized"). Labels that carry
+something the heading doesn't stay: the arc's part and source
+(`01 · Loewen, pp. 13–24`), a throughline's week, steps whose order is the
+point.
+
 ### Names and cross-references
 
 **A name that never comes back is a citation, not a lesson.** Search the deck
@@ -333,6 +342,8 @@ preferring the literal rendering.
 - A discussion deck built on forced pairs (`section.image-slide.provoke`),
   with no takeaway under the pictures and images the room has not seen. Model:
   `purpose-and-progress`. Keep a text deck for the same session as the record.
+  Type curly quotes and apostrophes (“ ” ’) in its `p.provocation`: it is raw
+  HTML, which kramdown does not touch, so a straight `"` shows on the slide.
 
 **Image notes: `.image-notes`, a small image left and bullets right,** one
 image per slide. Each bullet runs look, meaning, question: a bold lead naming

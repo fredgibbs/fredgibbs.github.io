@@ -402,15 +402,18 @@ All semester we've been reading about history being made — in archives, univer
 ### 11.1: History, Memory, and Public Space
 History and memory are clearly related, but exactly how do we define them in relation to each other? This session builds the framework for thinking about how the past circulates in public life: why certain stories get commemorated while others disappear, and what happens when historical argument enters spaces that weren't designed for it.
 
-- 📗 James Loewen, *[Lies Across America: What Our Historic Sites Get Wrong](https://research.ebsco.com/c/kov46v/ebook-viewer/pdf/fzquvjtmnz/section/lp_frontcover?location=https%3A%2F%2Fresearch.ebsco.com%2Fc%2Fkov46v%2Fsearch%2Fdetails%2Ffzquvjtmnz%3Frequest-context%3Dplink&db=e000xna&auth-callid=ad4c64af-9265-4b90-9467-bd662e0b73c3)* (1999), first two chapters (1--17) + one case study of your choice. Loewen visits monuments and historic sites and asks what stories they tell — and leave out. Pick any case study that interests you to comment on in your reflection.
-- 📗 Dolores Hayden, *The Power of Place: Urban Landscapes as Public History* (1995), Ch. 1, ~20 pp. Hayden shows how the built environment — streets, buildings, neighborhoods — embodies historical narratives that most people walk past without noticing.
+<!-- - Slides of [History, Memory, and Public Space](slides/history-memory-public-space/) -->
+- 📗 James Loewen, *Lies Across America: What Our Historic Sites Get Wrong* (1999), first two chapters (1--17).  Loewen visits monuments and historic sites and asks what stories they tell and what they leave out. The Zotero library has a PDF of just the chapters you need.
+- 📗 Dolores Hayden, *The Power of Place: Urban Landscapes as Public History* (1995), Ch. 2: 14--43. Hayden shows how the built environment — streets, buildings, neighborhoods — embodies historical narratives that most people walk past without noticing.
 
 #### Discussion
 - What's the difference between "history" and "memory"? Why does it matter?
 - Loewen looks at monuments. What historical narratives do they tell, and what do they leave out?
+- How do these apply to the _Campus History_ project?
+
 
 {% include alert.html class='danger' title='Campus History AI URLs due' text="
-- Your AI draft is due BEFORE CLASS THURSDAY, when we discuss them and pair them with the archival research component. 
+- Your AI DRAFT AND CRITIQUE is due BEFORE CLASS THURSDAY. 
 - Follow the [Campus History student guide](https://amaranth.unm.edu/campus-history/student-guide).
 - When you have a working copy of the campus history site and YOUR OWN essay folder, post the URL to the Canvas Discussion Assignment for today.
 "%}
