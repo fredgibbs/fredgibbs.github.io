@@ -403,6 +403,8 @@ All semester we've been reading about history being made — in archives, univer
 History and memory are clearly related, but exactly how do we define them in relation to each other? This session builds the framework for thinking about how the past circulates in public life: why certain stories get commemorated while others disappear, and what happens when historical argument enters spaces that weren't designed for it.
 
 <!-- - Slides of [History, Memory, and Public Space](slides/history-memory-public-space/) -->
+- Be sure your _Campus History_ page (with just the sample text, but your own image) is working BEFORE CLASS, and your URL is posted to Canvas. See the yellow box below for more information.
+- Read the [Campus History AI essay guide](campus-history-ai) before Tuesday so you can ask questions.
 - 📗 James Loewen, *Lies Across America: What Our Historic Sites Get Wrong* (1999), first two chapters (1--17).  Loewen visits monuments and historic sites and asks what stories they tell and what they leave out. The Zotero library has a PDF of just the chapters you need.
 - 📗 Dolores Hayden, *The Power of Place: Urban Landscapes as Public History* (1995), Ch. 2: 14--43. Hayden shows how the built environment — streets, buildings, neighborhoods — embodies historical narratives that most people walk past without noticing.
 
@@ -411,12 +413,18 @@ History and memory are clearly related, but exactly how do we define them in rel
 - Loewen looks at monuments. What historical narratives do they tell, and what do they leave out?
 - How do these apply to the _Campus History_ project?
 
-
-{% include alert.html class='danger' title='Campus History AI URLs due' text="
-- Your AI DRAFT AND CRITIQUE is due BEFORE CLASS THURSDAY. 
-- Follow the [Campus History student guide](https://amaranth.unm.edu/campus-history/student-guide).
-- When you have a working copy of the campus history site and YOUR OWN essay folder, post the URL to the Canvas Discussion Assignment for today.
+{% include alert.html class='danger' title='Campus History URLS due TODAY' text="
+- Your _Campus History_ page (with just the sample text, but your own image) should be working BEFORE CLASS.
+- Follow the directions on the [Campus History student guide](https://amaranth.unm.edu/campus-history/student-guide) to complete the assignment.
+- Your PLACEHOLDER SITE (for your AI draft and critique) are due on Tuesday, so we have time to troubleshoot before you need to post your AI essay by Thursday.
 "%}
+
+
+{% include alert.html class='warning' title='Campus History AI essay due THURSDAY' text="
+- Your AI DRAFT AND CRITIQUE is due THURSDAY. (in lieu of the normal reading refraction)
+- Your AI essay will get put on your new campus history page; your AI critique gets put into the discussion board like a normal 
+"%}
+
 
 
 ### 11.2: AI, History, Campus History
@@ -425,7 +433,10 @@ History and memory are clearly related, but exactly how do we define them in rel
 - Beginning your archival research for Campus History
 
 {% include alert.html class='danger' title='Campus History AI Drafts Due' text="
-Your Campus History AI drafts are due BEFORE class today. Follow the [AI research guide](campus-history-ai).
+Your Campus History AI drafts are due TODAY. Follow the [AI research guide](campus-history-ai).
+Remember there are two parts to this:
+1. Paste your essay into your new Campus History page, and make sure it looks nice
+2. Post your AI essay critique in Canvas like a normal discussion post.
 "%}
 
 
