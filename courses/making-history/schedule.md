@@ -404,7 +404,7 @@ History and memory are clearly related, but exactly how do we define them in rel
 
 <!-- - Slides of [History, Memory, and Public Space](slides/history-memory-public-space/) -->
 - Be sure your _Campus History_ page (with just the sample text, but your own image) is working BEFORE CLASS, and your URL is posted to Canvas. See the RED box below for more information.
-- Read the [Campus History AI essay guide](campus-history-ai) before Tuesday so you can ask questions; you need to follow those instructions for Thursday's assignment.
+- Read the [Campus History AI essay guide](campus-history-ai) before class so you can ask questions; you need to follow those instructions for Thursday's assignment.
 - 📗 James Loewen, *Lies Across America: What Our Historic Sites Get Wrong* (1999), first two chapters (1--17).  Loewen visits monuments and historic sites and asks what stories they tell and what they leave out. The Zotero library has a PDF of just the chapters you need.
 - 📗 Dolores Hayden, *The Power of Place: Urban Landscapes as Public History* (1995), Ch. 2: 14--43. Hayden shows how the built environment — streets, buildings, neighborhoods — embodies historical narratives that most people walk past without noticing.
 
