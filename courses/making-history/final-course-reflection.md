@@ -21,18 +21,20 @@ Your final course reflection should be ~1000 words and cover the entire course. 
 * **Source criticism** — asking who made a source, for whom, in what context, and what it leaves out (applies to academic texts, news articles, social media, and AI-generated content equally)
 * **Argument analysis** — evaluating how an author makes an argument and whether it's supported by sufficient evidence
 * **Structural analysis** — zooming out from events to ask what underlying systems (economic, social, geographic) made them possible
-* **Historical empathy** — assuming people had reasons for what they did, and reconstructing those reasons instead of judging from here
+* **Historical empathy** — assuming people had reasons for what they did, and reconstructing those reasons instead of judging from the present day
 "%}
 
 
 ## What to reflect on
 
-You're not expected to cover everything — pick the themes and moments that actually stuck with you. But in case you're staring at a blank page, here are some questions to get you started.
+You can't really cover everything, so pick the themes and moments that actually stuck with you. That said, it is a final meant to showcase what you've learned, so breadth is important. 
+
+In case you're staring at a blank page, here are some questions to get you started.
 
 ### On how your thinking changed
 - How is your understanding of "history" different now from what it was on the first day of class?
 - What's the most surprising thing you learned about how history gets made?
-- Is there a concept or framework from the course — Trouillot's silencing, Hobsbawm's invented traditions, White's narrative argument, Lowenthal's heritage vs. history distinction — that you now find yourself applying outside of class? Where?
+- Is there a concept or framework from the course — archival silences, imagined communities, categories of analysis, the fact vs. fiction debates, etc. — that you now find yourself thinking about or applying outside of class? Where?
 
 ### On the historiographical "turns"
 The course traced how historians' assumptions and methods have shifted over time — from scientific objectivity to social history, cultural history, postcolonial critique, and beyond. Reflect on:
@@ -43,16 +45,13 @@ The course traced how historians' assumptions and methods have shifted over time
 ### On specific course moments
 - Was there a reading, discussion, assignment, or in-class activity that clicked in a way others didn't? What made it work for you?
 - The campus history project asked you to compare an AI-generated account to archival evidence. What did that experience actually reveal — about AI, about archives, about historical knowledge?
-- The Historians Café asked you to think about how different methodological frameworks lead to different interpretations of the same question. Did that exercise clarify anything about how historians actually disagree?
+- The Historians Café asked you to think about how different methodological frameworks lead to different interpretations of the same question about the use of history. Did that exercise clarify anything about how historians actually disagree?
 
 ### On history in daily life
 The last unit of the course argued that history isn't just in textbooks and archives — it's all around you, embedded in buildings, street names, holidays, curricula, and monuments. Reflect on:
 - Can you point to something in your daily environment that you now see differently because of this course?
 - Has anything you've encountered since the course started — a news story, a political debate, a movie, a family conversation — struck you as a case study in one of the course's themes?
-
-
-## AI-Archive Comparison (required section)
-Compare your AI draft to what your final Campus History Essay.  What does this experience tell you about the limits of AI as a historical research tool? This section is what ties the two parts of the project together. It's also the most direct illustration of what the course has been arguing all semester about evidence, silencing, and who gets to make history.
+- Can you identify and read AI-written history with a more critical eye than before the course?
 
 
 ## What I'm looking for
@@ -70,10 +69,10 @@ If you engaged honestly with this course — even when it confused you, even whe
 ## Tips for success
 
 ### Don't summarize the course
-Telling me what you learned means describing what's now *different* in your thinking about major themes of the course — how history is constructed, how silencing works, what counts as evidence, why historians fight about interpretation, how public memory differs from scholarly history. If you didn't learn anything, please explain why — then I can at least see you were engaging honestly.
+Telling me what you learned means describing your engagement with major themes of the course — how history is constructed, how silencing works, what counts as evidence, why historians fight about interpretation, how public memory differs from scholarly history. If you didn't learn anything, please explain why — then I can at least see you were engaging with it.
 
 ### Be specific
-This is what separates excellent from mediocre reflections. Saying "I learned that history is more complicated than I thought" is fine only if you back it up with specific examples from readings, discussions, or assignments. Vague statements without examples tell me you didn't engage deeply — even if you did.
+This is what separates excellent from mediocre reflections. Saying "I learned that history is more complicated than I thought" is fine only if you back it up with specific examples from readings, discussions, or assignments. Vague statements without examples suggest that you didn't engage deeply — so don't give me the wrong impression!
 
 ### Connect the dots
 The more you can connect themes across the semester — say, linking Trouillot's silencing framework (Week 9) to the 1619 Project debate (Week 12) to your campus history project — the higher your score. I'm looking for evidence that the course built on itself in your mind, not just a list of topics.
@@ -82,7 +81,12 @@ The more you can connect themes across the semester — say, linking Trouillot's
 There's no right answer. This is your chance to tell me what resonated, what didn't, and what questions the course left you with. Two students can learn very different things from the same course and both write excellent reflections.
 
 ### Don't sound like AI
-You are welcome to use AI to help draft or revise or polish your reflection. But it is your responsibility to differentiate yourself from an AI-generated response. AI cannot write convincingly about your specific learning experience — it will sound generic and hollow. If your reflection reads like a polished summary of course topics with no personal voice, I will assume you outsourced the work.
+{% include alert.html class='info' title='AI on this assignment: polish only' text="
+- **You can:** once you've written your full reflection, use AI to fix grammar, wording, and flow.
+- **You can't:** have AI draft or outline any part of it. That includes pasting in your old refractions or your Campus History page and asking AI to pull them together. Rereading your old work is a great idea, but making the connections on your own is the assignment.
+"%}
+
+REMEMBER: **It is your responsibility to differentiate yourself from an AI-generated response.** AI cannot write convincingly about your specific learning experience — it will sound generic and hollow. If your reflection reads like a polished summary of course topics with no personal voice, it lands in the D range whether or not you used AI. You can revise and resubmit, but you know the end of the semester is too busy for that.
 
 ### Ask for help or clarification
 This assignment is intentionally open-ended so you can tell me what *you* got out of the course. That's different for everyone. If you feel lost about how to start, please reach out to brainstorm!

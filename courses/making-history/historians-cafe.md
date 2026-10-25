@@ -8,7 +8,7 @@ section: links-guides
 
 # Historians Café
 
-You're sitting in a café and can't help but overhear two people arguing about why bother studying the past. **Neither is a historian.** Neither of them would say they have a theory of history, but both of them do.
+You're sitting in a café and can't help but overhear two people arguing about why bother studying the past, and what the past is for. **Neither is a historian.** Neither of them would say they have a theory of history, but both of them do.
 
 Your job: use AI to create a fictitious but plausible dialogue between the two, sharpen it until both people sound like real people, and then explain the conversation to a friend who joins you later — most importantly, which one you found more convincing, and why.
 
@@ -16,6 +16,13 @@ Your job: use AI to create a fictitious but plausible dialogue between the two, 
 * **Finding the hidden value** — people almost never announce what they think history is *for*. They argue about a statue or some injustice, or learning from mistakes, or knowledge for its own sake. Finding that underneath what someone says (or what AI can plausibly generate) is a main skill of this course.
 * **Combining perspectives** — real people don't embrace one school of thought when it comes to thinking about the past. Building someone out of two or three of the positions we have read, and keeping them coherent, is part of the exercise.
 * **Working with AI, and judging it** — getting a machine to bring people to life rather than stereotypical positions, adding nuance provided by real material, and recognizing the difference.
+" %}
+
+{% include alert.html class='info' title='AI on this assignment' text="
+- **Step 1, your two people: no AI.** Design them yourself, from our readings.
+- **Step 2, the dialogue: built in.** Use any AI tool, and push it through as many rounds as it takes.
+- **Step 3, your explanation to a friend: no AI.** Don't use it to write, polish, or brainstorm---including asking it which person was more convincing.
+- **Show your work:** your post includes a share link to the whole AI conversation (see Step 4).
 " %}
 
 ---
@@ -83,7 +90,7 @@ Someone who wasn't there is curious about what the argument was about. Write the
 2. **Quote one line from each person**, and say what that line reveals about what that person thinks history is for. This is the "hidden value" — name it in your own words.
 3. **Which one did you find more convincing, and why?** Take a side. Then say what it would take to change your mind.
 
-This paragraph should be your own work. Do not ask AI to write it. There should be a clear distinction between the AI dialogue and your summary that analyzes it via the course material. 
+This paragraph should be your own work. Do not ask AI to write it. **There should be a clear distinction between the AI dialogue and your summary that analyzes it via the course material.** 
 
 ---
 
@@ -93,7 +100,7 @@ Post to the discussion board:
 
 1. Your two character descriptions, influences included
 2. The final dialogue
-3. A short summary of how you needed to tweak it
+3. A short summary of how you needed to tweak it, and a share link to the full AI conversation. If your tool doesn't make share links, paste the conversation into a Google Doc, set it so anyone with the link can view, and link that.
 4. Your summary/analysis of the dialog 
 
 Make sure the formatting is readable. One giant block of unformatted text gets a zero.

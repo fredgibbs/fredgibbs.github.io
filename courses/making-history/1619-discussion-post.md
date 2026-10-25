@@ -45,7 +45,13 @@ This is the assignment in the course where AI will most easily produce something
 
 That is exactly why it's worth almost nothing here. Every student who does that submits the same post, and none of it shows any thinking.
 
-**Write this one yourself.** The two things I'm actually grading — how specifically you use *our* readings, and how you connect the debate to something in your own life — are the two things AI does most poorly. It hasn't read Trouillot with you, it doesn't know what Week 5 did to your thinking, and it has no idea what your high school history teacher said about slavery.
+**Write this one yourself.** The two things I'm actually grading — how specifically you use *our* readings, and how you connect the debate to something in your own life — are the two things AI does most poorly. It wasn't in the room when we argued about Trouillot, it doesn't know what Week 5 did to your thinking, and it has no idea what your high school history teacher said about slavery.
+
+{% include alert.html class='info' title='AI on this assignment: polish only' text="
+- **You can:** once you've written your full post, use AI to fix grammar and wording.
+- **You can't:** have AI draft, outline, or brainstorm any part of it, or ask it to come up with your personal connection.
+- **In class:** we'll spend ten minutes of 12.2 writing by hand toward your personal connection. You'll hand it in, and your post should build on it. If you miss class, write it on your own.
+" %}
 
 If it reads like a competent summary of the controversy with no course readings named and no trace of an actual person behind it, it earns a failing grade whether or not you used AI. 
 

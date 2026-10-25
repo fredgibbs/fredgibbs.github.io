@@ -124,6 +124,24 @@ If life gets overwhelming during the course and you question whether you can con
 * Each assignment specifies the level and type of AI use that's appropriate. Sometimes that's not using it at all; sometimes the whole assignment is AI-driven. Please respect the intended AI component of each assignment.
 * MOST IMPORTANT: **You must always differentiate yourself from AI.** If your work resembles vanilla AI (_even if you wrote it by hand_), you will need to revise the assignment for credit.
 
+Here's how that works out for each assignment. Each guide has the details.
+
+Assignment | AI use
+--- | ---
+[Reading refractions](reading-refractions) | **None.**
+[Class engagement](class-engagement) | No AI during discussion unless we're using it for an activity.
+[Early Course Reflection](early-reflection) | **None.**
+[Historians Café](historians-cafe) | **Built in** for the dialogue; **none** for your two characters and your explanation to a friend.
+[Campus History via AI](campus-history-ai) | **Built in** for the AI history; **none** for your critique.
+[Campus History via the archive](campus-history-human) | **Built in**, with rules about what you can keep from your AI draft and what has to be yours.
+[1619 Project Discussion Post](1619-discussion-post) | **Polish only.**
+[Final Course Reflection](final-course-reflection) | **Polish only.**
+
+What the levels mean:
+- **None**: don't use AI at all for this, including to brainstorm or polish.
+- **Polish only**: you do the reading, the thinking, and the writing. Once you have a full draft, AI can fix grammar, wording, and flow. It can't add ideas.
+- **Built in**: the assignment tells you how to use AI, step by step. The parts it marks as yours have to be yours.
+
 
 ## Accommodations
 UNM is committed to providing equitable access to learning opportunities for students with documented disabilities. As your instructor, it is my objective to facilitate an inclusive classroom setting, in which students have full access and opportunity to participate. To engage in a confidential conversation about the process for requesting reasonable accommodations for this class and/or program, please contact Accessibility Resource Center at arcsrvs@unm.edu or 505-277-3506.

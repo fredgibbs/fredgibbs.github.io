@@ -63,23 +63,25 @@ A few published histories of UNM are available for reference. You should check y
 Your finished essay will be published on the [UNM Campus History](https://amaranth.unm.edu/campus-history) website. Write for a curious reader — a student, a faculty member, someone who walks past your building every day — who knows nothing about its history.
 
 {% include alert.html class='info' title='Publishing instructions' text="
-The course page explains what the assignment should accomplish. The technical steps for creating your page, adding images, checking metadata, and submitting a pull request live on the [Campus History student publishing guide](https://amaranth.unm.edu/campus-history/student-guide/).
+This page explains what the assignment should accomplish. The technical steps for creating your page, adding images, checking metadata, and submitting a pull request live on the [Campus History student publishing guide](https://amaranth.unm.edu/campus-history/student-guide/).
 " %}
 
 ### Requirements
 - **~800–1000 words**
-- **4–5 images** — historical photographs and/or scanned primary sources from CSWR
+- **4–5 images** — historical photographs and/or scanned primary sources from CSWR. At least one photo should come from you in the archive
 - **Informative captions** on every image: not just what it shows, but why it's significant. Cite where you found it (box number, collection name, or URL).
 - **Subheadings** to organize your main sections
 - **Bibliography** of sources used (CSWR materials + published histories) You need to specify exactly where you found something so it can be verified.
+- **AI-Archive Comparison**: a short section that quotes your AI draft and says what the archive confirmed, contradicted, or never mentioned
 
+{% include alert.html class='info' title='AI on this assignment' text="
+- **Your AI draft is raw material, not a source.** You can keep and rework sentences from it, but every factual claim on your page has to be confirmed by a source in your bibliography. If you couldn't confirm it, cut it. 
+- **New writing from your archive research is yours.** Draft the parts built on what you found at CSWR yourself. Once they're drafted, AI can help polish them.
+- **Transcribing documents:** AI can help you read handwriting or faded type in your photos. Check every transcription against the original before you quote it.
+- **Images:** no AI enhancing, colorizing, upscaling, or filling in of scans or historical photos---that changes the evidence. Cropping and straightening are fine.
+- **Captions and the AI-Archive Comparison: no AI.** That's where your own judgment shows.
+" %}
 
-### Publication workflow
-Follow the [Campus History student publishing guide](https://amaranth.unm.edu/campus-history/student-guide/) for the site mechanics. 
-
-For this course, the important distinction is:
-- The **Campus History guide** explains how to publish the page.
-- This **assignment guide** explains what the page needs to argue, document, and reflect on for class.
 
 ### Style
 - Write something you and your friends would actually want to read
@@ -96,12 +98,10 @@ I grade this project primarily on **effort and intellectual engagement**, not wr
 **A strong submission shows:**
 - Clear evidence of time spent at CSWR — specific sources cited, real images scanned, notes that reflect actual digging through boxes
 - A readable story with a point, even if a modest one
-- An AI-Archive Comparison that's *specific*: quotes the AI draft and names what was confirmed, contradicted, or simply absent from the archive
 - Captions that explain why an image matters, not just what it shows
 
 **A weak submission:**
 - Could have been written without visiting the archive
-- Has a generic AI comparison ("AI can sometimes be inaccurate")
 - Is missing images or has uncaptioned ones
 - Is just a list of facts with no narrative thread
 

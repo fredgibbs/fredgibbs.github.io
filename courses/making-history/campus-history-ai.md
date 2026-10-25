@@ -16,6 +16,11 @@ This is **Part 1** of a two-part project, althought the second part is much more
 * **Reading for absence** — noticing not just what a source says but what it *doesn't* say, and asking why. A confident-sounding account with no admission of gaps or uncertainty is a serious red flag.
 " %}
 
+{% include alert.html class='info' title='AI on this assignment' text="
+- **The AI history (Step 2): built in.** Use any AI tool, and paste its response exactly as it came out.
+- **Your critique (Step 4): no AI.** Don't use it to write, polish, or brainstorm the critique---including pasting the AI history into a second chatbot and asking what's wrong with it. Spotting that is the assignment.
+" %}
+
 ---
 
 ## Step 1: Pick a topic
@@ -37,6 +42,8 @@ Use an AI tool (ChatGPT, Claude, Gemini, or similar) to generate a ~600-word his
 
 **Save the full AI response without editing it.** This is your baseline document. You'll compare it against the archive in Part 2.
 
+**Also note which tool you used and whether it searched the web** while answering (most tools show a searching step or list links when they do). A tool that searches will cite real pages and invent less, which changes what you'll find in Part 2. Put that note at the top of your critique: *ChatGPT, web search on*, for example.
+
 ---
 
 ## Step 3: Read it critically
@@ -57,6 +64,8 @@ Write **a short paragraph** (~350 words; general refraction length) evaluating t
 
 This critique is short, but it's significant for the assignment. It's asking you to do what historians always do: read a source critically before deciding how much to trust it.
 
+Before you write, **check at least one specific claim yourself**: a date, a name, a detail about a building, or a source it cites. Use whatever you can find online---UNM's own web pages, Wikipedia, the [New Mexico Digital Archive](https://econtent.unm.edu/). In your critique, say what you checked, where, and what you found. Finding nothing counts; that's evidence too.
+
 Obviously, don't use AI to write the critique. There should be a distinct diffrence in writing styles between the AI-essay and your analysis.
 
 Post this to the discussion board like a refraction post.
@@ -68,12 +77,13 @@ This is a refraction-like assignment graded on **engagement and honesty**, not o
 
 - Most importantly, **address the questions in step 3**. You'll have more to say about some questions than others, and you may answer some at the same time. You don't need to go one by one, but your reponse as a whole should address those questions.
 - You quote **specific lines** from the AI draft — not just "it seemed vague" or "it invented sources"
+- You report **one claim you actually checked**, and what happened when you did
 - Your thinking is genuine even if uncertain: "I'm not sure if this is accurate but here's why it feels suspicious..." is an excellent observation
 - You notice the vagueness: could this paragraph apply to almost any other topic if you swapped out a few words?
 
 **There is no wrong answer here. What matters is the quality of your attention to the AI response.**
 
-- **A** — quotes specific lines; distinguishes between claims that are checkable and ones that can't be verified without specialist knowledge; reasoning is genuine even when uncertain
+- **A** — quotes specific lines; distinguishes between claims that are checkable and ones that can't be verified without specialist knowledge; reports one claim you actually checked; reasoning is genuine even when uncertain
 - **B** — specific examples; some analytical depth beyond surface impressions
 - **C** — addresses the prompt but stays general; examples are thin or paraphrased rather than quoted
 - **D** — vague summary with no textual evidence from the AI draft

@@ -35,6 +35,8 @@ Plenty of people find talking in class genuinely difficult — because of anxiet
 
 Being physically present itself counts for very little. It's obvious when a screen is being used for something other than notetaking. Being on your phone is worse than not coming at all. 
 
+The same goes for AI during discussion: unless we're using it for an activity, keep it closed. Reading out what a chatbot said isn't joining the conversation; it's skipping the part of the class where your thinking happens.
+
 Missing class occasionally is life and won't affect your grade. Missing repeatedly will.
 
 
@@ -42,9 +44,7 @@ Missing class occasionally is life and won't affect your grade. Missing repeated
 
 There's no tally of classroom comments or points. At the end of the semester I make a holistic judgment about whether you were genuinely in the course: present, prepared, and contributing in some form.
 
-The opening history-frustration response and the [Early Course Reflection](early-reflection) also count here — they're both ways of telling me where you are, which is its own kind of participation.
-
-- **A** — reliably present and engaged; contributes in some form most sessions, whether in full class, small groups, or student hours; takes others' ideas seriously
+- **A** — reliably present and engaged; contributes in some form most sessions, whether in full class, small groups, or student hours
 - **B** — present and contributes regularly, but less often or less consistently
 - **C** — present but rarely engaged; contributes only when directly asked
 - **D** — frequently absent, unprepared, or disengaged when here

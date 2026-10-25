@@ -455,7 +455,7 @@ The 1619 Project is not just journalism — it's a historiographical act. Nikole
 - How does this connect to Trouillot's argument about silencing from Week 9?
 
 {% include alert.html class='warning' title='1619 Discussion Post coming' text="
-The [1619 Project Discussion Post](1619-discussion-post) is due after Thursday's session — it draws on Serwer and Lowenthal as well as today's reading, so you can't finish it yet. But start now: pick which side of the debate you find more convincing and why, and think of something from your own life this connects to. That personal anchor is required, and it's the part that takes the longest to come up with.
+The [1619 Project Discussion Post](1619-discussion-post) is due after Thursday's session — it draws on Serwer and Lowenthal as well as today's reading, so you can't finish it yet. But start now: pick which side of the debate you find more convincing and why, and think of something from your own life this connects to. That personal anchor is required, and it's the part that takes the longest to come up with. We'll spend ten minutes writing toward it in class on Thursday.
 "%}
 
 
@@ -464,6 +464,7 @@ If history were just an academic exercise, controversies about it would stay in 
 
 - 📗 Adam Serwer, ["The Fight Over the 1619 Project Is Not About the Facts"](https://www.theatlantic.com/ideas/archive/2019/12/historians-clash-1619-project/604093/), *The Atlantic* (December 2019), ~15 pp. Serwer argues the controversy over the 1619 Project is less about factual errors than about whose version of America is at stake — a model for analyzing why history wars happen at all. Read first.
 - 📜 David Lowenthal, *The Heritage Crusade and the Spoils of History* (1998), Ch. 1, ~20 pp. Lowenthal argues that "heritage" and "history" are fundamentally different things — heritage comforts, history challenges. Read for the distinction and apply it to the 1619 case.
+- IN CLASS: ten minutes of writing by hand toward the personal connection in your [1619 post](1619-discussion-post). Bring paper; you'll hand it in.
 
 #### Discussion
 - Serwer argues the fight over the 1619 Project isn't really about historical accuracy. What is it about?
