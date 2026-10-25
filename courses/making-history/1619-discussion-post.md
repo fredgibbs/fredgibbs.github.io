@@ -9,7 +9,11 @@ section: links-guides
 
 # The 1619 Project Discussion Post
 
-History doesn't stay in the classroom. The 1619 Project took a historiographical argument and put it in a newspaper, then a curriculum, then a political fight — and the controversy that followed wasn't really about the past so much as how it gets used. This post asks you to do two things: judge the argument on its own terms, and place it in the long story of historiography this course has been tracing all semester.
+History doesn't live in the classroom. 
+
+The 1619 Project took a historiographical argument and put it in a newspaper, then a curriculum, then a political fight — and the controversy that followed wasn't really about the past so much as how the past gets used. 
+
+This post asks you to do two things: judge the argument on its own terms, and place it in the long story of historiography this course has been tracing all semester.
 
 {% include alert.html class='success' title='Skills you are practicing' text="
 * **Argument analysis** — evaluating how Hannah-Jones builds her case and whether the evidence supports it, rather than just reacting to the conclusion.
@@ -25,7 +29,7 @@ Write a **discussion board post of about 800 words** that addresses both questio
 
 ### 1. What is YOUR take on the pros and cons of what the 1619 Project is trying to do?
 
-Address both sides honestly, regardless of your own view of the project. What does it get right — as an argument, as a historiographical act, as a public intervention? What are its limitations or vulnerabilities? Draw on Hannah-Jones, Serwer, and Lowenthal.
+Address both sides honestly, regardless of your own view of the project. What does it get right — as an argument, as a historiographical act, as a public intervention? What are its limitations or vulnerabilities? 
 
 ### 2. How does this debate fit into the long history of historiography we've been studying?
 
@@ -41,19 +45,19 @@ This is not decoration. The 1619 Project's central claim is that the story a cou
 
 ## A note on AI
 
-This is the assignment in the course where AI will most easily produce something that looks finished. The 1619 debate is thoroughly documented online, and any chatbot will hand you a balanced, competent, completely generic 800 words in about four seconds.
+Of course AI will easily produce something that looks finished. The 1619 debate is thoroughly documented online, and any chatbot will hand you a balanced, competent, completely generic 800 words in a few seconds.
 
 That is exactly why it's worth almost nothing here. Every student who does that submits the same post, and none of it shows any thinking.
 
-**Write this one yourself.** The two things I'm actually grading — how specifically you use *our* readings, and how you connect the debate to something in your own life — are the two things AI does most poorly. It wasn't in the room when we argued about Trouillot, it doesn't know what Week 5 did to your thinking, and it has no idea what your high school history teacher said about slavery.
+**Write this one yourself.** The two things I'm actually grading — how specifically you use *our* course (particularly what we've emphasized and talked about), and how you connect the debate to something in your own life — are the two things AI does most poorly. It doesn't know what philosophical questions we've argued about in class, it doesn't know what Week 5 did to your thinking, and it has no idea what your high school history teacher said about the historical legacy of slavery.
 
 {% include alert.html class='info' title='AI on this assignment: polish only' text="
 - **You can:** once you've written your full post, use AI to fix grammar and wording.
+- **You can:** Ask AI questions about articles, content, history. Getting more information to think about is always good, but be sure you know where it's coming from.
 - **You can't:** have AI draft, outline, or brainstorm any part of it, or ask it to come up with your personal connection.
-- **In class:** we'll spend ten minutes of 12.2 writing by hand toward your personal connection. You'll hand it in, and your post should build on it. If you miss class, write it on your own.
 " %}
 
-If it reads like a competent summary of the controversy with no course readings named and no trace of an actual person behind it, it earns a failing grade whether or not you used AI. 
+If it reads like a competent summary of the controversy with no course readings named and no trace of an actual person behind it, you have redo it, as per the course policy on differentiating yourself from AI. 
 
 ---
 
