@@ -25,12 +25,7 @@ This is **Part 1** of a two-part project, althought the second part is much more
 
 ## Step 1: Pick a topic
 
-Choose something about UNM's past that genuinely interests you:
-- A campus building (see the [list of UNM buildings](https://en.wikipedia.org/wiki/List_of_University_of_New_Mexico_buildings))
-- A student organization, protest, or cultural event
-- A person associated with UNM's history
-- A campus space or tradition whose origins you've wondered about
-
+Make sure you've completed the steps at [Campus History student guide](https://amaranth.unm.edu/campus-history/student-guide) to make YOUR COPY of the Campus History site that you will work on and create your own essay folder. 
 
 ---
 
@@ -40,9 +35,10 @@ Use an AI tool (ChatGPT, Claude, Gemini, or similar) to generate a ~600-word his
 
 > "Write a ~600-word history of [your topic] at the University of New Mexico. Include specific dates, events, people, and sources where possible. Be clear about your sources."
 
-**Save the full AI response without editing it.** This is your baseline document. You'll compare it against the archive in Part 2.
+**Save the full AI response without editing it.** This is your baseline document. You'll use this is phase two of the Campus History project when you compare this to what you find in the archive. Save your AI essay on your webpage. Paste it in under the header metadata, after the `---`. 
 
-**Also note which tool you used and whether it searched the web** while answering (most tools show a searching step or list links when they do). A tool that searches will cite real pages and invent less, which changes what you'll find in Part 2. Put that note at the top of your critique: *ChatGPT, web search on*, for example.
+**Also note which tool you used and whether it searched the web** while answering (most tools show a searching step or list links when they do). A tool that searches will cite real pages and invent less, which changes what you'll find in Part 2. Put that note at the top of your critique: *ChatGPT, model, thinking level, web search on*, for example.
+
 
 ---
 
@@ -60,11 +56,9 @@ Read the AI draft with a skeptical eye. Read carefully and ask:
 
 ## Step 4: Write your critique
 
-Write **a short paragraph** (~350 words; general refraction length) evaluating the AI draft. Be specific — don't just say "it seemed accurate" or "it made things up". Quote at least one passage that seems reasonably reliable and one that seems suspicious or thin, and explain your reasoning for each.
+Write **a short paragraph** (~350 words; general refraction length) evaluating the AI draft. Be specific — don't just say "it seemed accurate" or "it made things up". Spot check information it provides against whatever sources you can find online (obviously use the ones AI cites, but you can find others, too).
 
 This critique is short, but it's significant for the assignment. It's asking you to do what historians always do: read a source critically before deciding how much to trust it.
-
-Before you write, **check at least one specific claim yourself**: a date, a name, a detail about a building, or a source it cites. Use whatever you can find online---UNM's own web pages, Wikipedia, the [New Mexico Digital Archive](https://econtent.unm.edu/). In your critique, say what you checked, where, and what you found. Finding nothing counts; that's evidence too.
 
 Obviously, don't use AI to write the critique. There should be a distinct diffrence in writing styles between the AI-essay and your analysis.
 

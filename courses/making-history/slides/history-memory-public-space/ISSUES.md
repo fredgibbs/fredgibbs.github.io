@@ -37,17 +37,20 @@ Later directions the same day:
   how the study of place with digital methods can be revealing?"
 
 **Order.** One continuous tour, Loewen then Hayden, with no part labels.
-Loewen's main points (pp. 13–24): three `.cards` slides and the "not written
-by gods" quote slide, with Williamsburg and the "Goddess of Democracy" as image
-breaks and two happy-version sequences (below). Hayden ch. 2 (pp. 14–43):
-Hayden's explainer, Lefebvre's explainer, then the chapter in page order. The
+Loewen's main points (pp. 13–24): a framing quote slide, then stories, class
+and civil religion as a quote slide and an example photograph each (see
+"Loewen's opening functions," below), two `.cards` slides, and the "not written
+by gods" quote slide, with the "Goddess of Democracy" as an image break and one
+happy-version sequence (below). Hayden ch. 2 (pp. 14–43):
+Hayden's explainer, Lefebvre's explainer, then the chapter in page order (with
+three Santa Fe slides after Hodgin Hall; see "Wilson on Santa Fe," below). The
 three-histories cards are followed by one image slide per history (Wrights
 Tunnel, Belzoni, the Tenement Museum), then the territorial and Wells quote
 slides, then Hodgin Hall in 1904 and today, then the chapter's conclusion,
 two counter-space photographs (Casita Rincón Criollo, an Estrada Courts mural)
 and two digital history projects (*Mapping Inequality*, *Mapping Prejudice*).
 Then the `.parallel` comparison, the arc, the take home and what comes next.
-38 slides.
+43 slides.
 
 **No part labels, no discussion slides.** The guide's session structure has
 parts, each ending in a discussion slide, and an arc with one card per part.
@@ -57,7 +60,7 @@ this here?" part, so the schedule's two questions ("What's the difference
 between 'history' and 'memory'? Why does it matter?" and "What historical
 narratives do they tell, and what do they leave out?") are no longer on any
 slide. The arc has three cards for the tour's three stretches (Loewen, the
-two happy versions, Hayden), labeled by source, not by number.
+Hassanamesit happy version, Hayden), labeled by source, not by number.
 
 **Hodgin Hall is two image slides, not a pair.** In the cut part it was a
 `.provoke` pair. The guide allows a `figure.pair` only after each image has had
@@ -85,51 +88,106 @@ versions was ever committed, so none of the cut slides is in git.
 **Closing run.** The deck ends with four text slides (the comparison, the
 arc, the take home, next), the guide's closing sequence.
 
+## Loewen's opening functions (2026-10-26)
+
+The author's direction: "on slide 3, i don't think i want to emphasize that
+tourism is a reason for monuments. in a select few places maybe, but they are
+significnat. most of the power of the chapter is in the everyday monuments we
+don't question. can the other points be made into separate slides (with maybe
+an image as example?) we can delete the williamsburg image." Slide 3 was the
+reveal.js index `#/3`: the four-card "What monuments are for" slide.
+
+- **Tourism is cut,** with the Williamsburg photograph (file deleted) and its
+  caption's Cary Carson quotation. Loewen makes the point on p. 13 (the Freedom
+  Trail, Williamsburg's "moneymaking machine") and p. 16 ("put a town on the
+  map"); no slide carries it now. The framing slide quotes only his opening
+  question, so nothing on it claims the list is complete.
+- **The three remaining cards became three quote slides,** each followed by an
+  everyday-monument photograph: stories (a Civil War soldier on a town green),
+  class (a Daughters of the American Revolution Santa Fe Trail marker),
+  civil religion (a doughboy over a pharmacy sign). Each slide's wording is
+  Loewen's, pp. 13–14, checked word for word against the cached text.
+- **Rockefeller and Williamsburg are not named on the class slide.** Loewen's
+  example for "history is power" is Rockefeller's circle starting Colonial
+  Williamsburg (pp. 13–14). Each name would occur once in the deck, so the
+  block gives the claim ("those on top of society . . . take the time to
+  determine how history will be remembered") and drops the roster.
+- **The arc card** said monuments "flatter, sell and unify." It now says
+  "supply heroes, help the upper class stay upper and unify."
+- **Not re-reviewed.** The deck's fresh-context review (see "Before
+  publishing" in `courses/SLIDE-STYLE.md`) predates these seven slides.
+  `deck-check.sh` passes with 0 failures. The Civil War soldier's sculptor and
+  date rest on the Commons description alone (see `images/README.md`).
+
+## Wilson on Santa Fe (2026-10-26)
+
+The author asked for "a couple slides based on general knowledge of the
+book" and has no copy of Chris Wilson, *The Myth of Santa Fe: Creating a Modern
+Regional Tradition* (University of New Mexico Press, 1997). Three slides follow
+Hodgin Hall 2024: a text slide on Wilson's argument, then the Palace of the
+Governors in 1904 and in 1934 as another before and after.
+
+**Nothing on these slides is checked against the book.** No quotation, no page
+number, no chapter. The text slide paraphrases publisher and reviewer
+descriptions found by web search on 2026-10-26: that Santa Fe's image was
+consciously created in the early twentieth century, mainly by Anglo-American
+newcomers; that leaders tied the effort to statehood in 1912 and to the
+economy; that the means were speculative restoration, removal of overt signs
+of Americanization and historic design review of new buildings; and that
+Wilson finds the tricultural story an oversimplification of Native American
+culture, cultural mixing and conflict. The population of about 5,000 in 1912
+and Wilson's post (founding director of UNM's Historic Preservation and
+Regionalism program) come from the same kind of source (a review and a
+bookseller listing). Before the slides are relied on, read the book's
+introduction and the chapter on restoration, confirm each paraphrase, and add
+page cites. Whether Wilson connects Hodgin Hall's 1908 remodel to the Santa Fe
+style is **not** claimed; it was not confirmed.
+
+- **The Palace dates** (Hewett invited Nusbaum in 1909 to oversee the
+  restoration, finished in the fall of 1913; the Museum of New Mexico was
+  established in 1909) are from Wikipedia, "Palace of the Governors," and were
+  not checked further. The captions describe only what the photographs show.
+  They do not say what the restorers removed or added, or whether the 1904
+  porch was American-era; that is a question to answer from Wilson or the
+  Palace of the Governors Photo Archives.
+- **The 1904 photograph** comes from the same book as the Hodgin Hall 1904
+  picture, so the two share a source and a year.
+- **No portrait of Wilson** was looked for; he is introduced in a
+  `.reveal-block.historical` on the text slide.
+
 ## The happy version and the real history
 
-At the author's direction, two of Loewen's monuments are shown first as "the
-happy version" (Loewen's "happy history," p. 23, is on the card slide just
-before the second one), then followed by two slides of what the monument
-leaves out. The caption of the first slide in each sequence opens "The happy
-version:". The pattern is not yet in `SLIDE-STYLE.md`.
+At the author's direction, one of Loewen's monuments (the Hassanamesit marker)
+is shown first as "the happy version" (Loewen's "happy history," p. 23, is on
+the card slide just before it), then followed by two slides of what the marker
+leaves out. The caption of the first slide opens "The happy version:". The
+pattern is not yet in `SLIDE-STYLE.md`.
 
-- **Oñate → Acoma.** The statue (Loewen's p. 15 on it); the mesa photograph,
-  with the December 1598 killing of eleven Spaniards and the January 1599
-  assault; a `.cards` slide on the sentence, the count, Oñate's 1614
-  conviction and the 1997 foot.
 - **Hassanamesit → 1675.** The 1930 marker; the 1663 Indian Bible, the book
   the marker is proud of, whose caption introduces Daniel Gookin; a quote slide
   with the Nipmuc fighters' warning as Gookin reports it, Deer Island, and the
   Hassanamisco reservation today.
 
+**Oñate → Acoma was cut on 2026-10-26.** The author: "let's also remove the
+onate slides; it's old news here." Three slides went: the statue (Loewen's
+p. 15 on it), the Acoma mesa photograph, and a `.cards` slide on what the
+statue leaves out (the 1599 sentence, the count of the maimed, the 1614
+conviction, the 1997 foot). The deck was the second happy-version sequence, so
+the arc's middle card now names Hassanamesit alone. If the sequence comes back,
+the source is George P. Hammond, *Don Juan de Oñate and the Founding of New
+Mexico* (1927), cached in
+`~/Dropbox/courses/making-history/.research-packets/onate-hammond-1927.txt`:
+trial and sentence pp. 122–23; the count of twenty-four maimed p. 123 n. 465;
+the death toll, "over 600" to 800, p. 122 n. 463; the 1614 conviction p. 184.
+Three things a presenter would need to hold: some of the statue's defenders
+argue the record means toes, not feet (Wikipedia, "1599 Acoma massacre"); the
+1997 foot was cut on 29 December 1997 by people calling themselves "Friends of
+Acoma," whom no Acoma official endorsed; and the county took the statue down on
+15 June 2020. Sources disagree on the statue's date (1991 or 1994). The images
+are in git history (see `images/README.md`).
+
 **Sources, and what was checked.**
 
-- *Acoma:* George P. Hammond, *Don Juan de Oñate and the Founding of New
-  Mexico* (1927; public domain). Trial and sentence, pp. 122–23; the count of
-  twenty-four maimed is Captain Luis de Velasco's letter of 22 March 1601,
-  Hammond p. 123 n. 465; the death toll ranges from Velasco's "over 600" to
-  Sánchez's 800, p. 122 n. 463; the conviction, sentence of 16 May 1614, p. 184,
-  where Hammond lists the charges, including "the indiscriminate slaughter of
-  innocent and guilty alike when Acoma was destroyed by Zaldivar." Hammond puts
-  the trial at Santo Domingo; Wikipedia says San Juan. The slides name neither.
-  Hammond is quoted nowhere on the slides; the cards paraphrase and cite pages,
-  and a `p.cite` gives the book.
-- *Feet or toes.* Some defenders of the statue argue the record means toes
-  ("las puntas del pie"): letters to the editor of 2002 and 2017, cited in
-  Wikipedia, "1599 Acoma massacre." The card says "some of Oñate's defenders
-  now say toes, not feet" and leaves it there. A presenter should be ready for
-  the question.
-- *The 1997 foot.* Cut on 29 December 1997 (Wikipedia, "Equestrian statue of
-  Juan de Oñate," citing the *New York Times*, 17 January 2002). The note to the
-  *Albuquerque Journal* is quoted in sources as "on behalf of our brothers and
-  sisters at Acoma Pueblo" and also with "in behalf" and "of"; the deck does not
-  quote it. The signers called themselves "Friends of Acoma"; no Acoma official
-  endorsed it, so the card says "claiming to act for Acoma." The county took
-  the statue down on 15 June 2020. Rio Arriba County planned to put it up
-  again in Española in 2023, and a man was shot at a rally against the plan
-  on 28 September. Wikipedia's "Juan de Oñate" says it was re-erected there;
-  the statue's own article does not confirm it, and it was not checked
-  further. The card stops at 2020.
 - *Hassanamesit:* Daniel Gookin, *An Historical Account of the Doings and
   Sufferings of the Christian Indians in New England, in the Years 1675, 1676,
   1677* (written 1677; printed in *Archaeologia Americana*, vol. 2, 1836).
@@ -307,27 +365,21 @@ back on correction. He does not say this. It is the cost line the guide asks
 for and is phrased in the deck's voice, not attributed.
 
 **Some caption facts come from outside the readings.** All standard, none
-quoted: Loewen's, Hayden's and Lefebvre's biographical lines; the Governor's
-Palace rebuilt in the early 1930s where the original burned in 1781; the CUHK
+quoted: Loewen's, Hayden's and Lefebvre's biographical lines; the CUHK
 copy removed in 2021; the Tenement Museum's 1863 building and 1988 founding;
 the photographers and dates of the FSA pictures; Hodgin Hall built in 1892 and
 remodeled in Pueblo Revival style in 1908 under President William G. Tight
 (Wikipedia, "Hodgin Hall"), the 1904 picture from a state booster handbook for
 the St. Louis fair, and the building now the alumni center (on the sign in the
-2024 photograph). The Acoma, Hassanamesit and Wrights Tunnel facts are above.
+2024 photograph). The Hassanamesit and Wrights Tunnel facts are above.
 
-**The Oñate statue carries no date on the slide.** Sources disagree: the
-"Juan de Oñate" article on Wikipedia says 1991 (AP: commissioned in the early
-1990s), and the article on the statue says it was erected in 1994.
+**The deck leans local on purpose.** The Chamisal photograph and Hodgin Hall
+are in New Mexico. The slides ask what each object leaves out, not who was
+right.
 
-**The deck leans local on purpose.** Oñate and Acoma, the Chamisal
-photograph, and Hodgin Hall. Some of the room may have family on either side
-of the Oñate fights, or at Acoma. Say that out loud before the Acoma slides;
-the slides ask what each object leaves out, not who was right.
-
-**Long captions run under the left arrow** at 960×700: the Oñate, Acoma,
-tenement, Hodgin Hall 2024, Estrada Courts and Mapping Inequality captions. Any caption long enough to wrap does
-this; it is the caption width in the theme, not these slides, and would need a
+**Long captions run under the left arrow** at 960×700: the tenement, Hodgin
+Hall 2024, Estrada Courts and Mapping Inequality captions. Any caption long
+enough to wrap does this; it is the caption width in the theme, not these slides, and would need a
 CSS change across decks.
 
 ## Checks run (2026-10-23, after the counter-space and digital-project slides)

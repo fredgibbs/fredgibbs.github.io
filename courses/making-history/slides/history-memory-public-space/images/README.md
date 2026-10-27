@@ -1,6 +1,6 @@
 # Slide Images — History, Memory, and Public Space (11.1)
 
-Nineteen image files, all used by `../index.md`. Every photograph is public
+Twenty-one image files, all used by `../index.md`. Every photograph is public
 domain or under a Creative Commons license; the Mapping Inequality slide is a
 screenshot of a website, used as fair use (the author, 2026-10-23: "everything
 is fair use for a class lecture"). Three licenses carry conditions worth
@@ -9,19 +9,23 @@ Hayden's portrait and the Estrada Courts mural photograph are **BY-NC-ND**
 (non-commercial, no derivatives, so both are used unmodified). Credits are
 carried in the `<figcaption>`s and should not be stripped.
 
-The folder totals about 6.6 MB, under the guide's 10 MB. The chapter 1 images
+The folder totals about 8.9 MB, under the guide's 10 MB. The chapter 1 images
 (Baldwin, Penn Station, the African Burial Ground) went when that part was cut
 on 2026-10-23, and nine of the eleven "who put this here?" images went when
-that part was cut later the same day (see Notes).
+that part was cut later the same day (see Notes). The Colonial Williamsburg
+photograph went on 2026-10-26, when the tourism point was cut, and three
+everyday-monument photographs came in for Loewen's opening functions. The
+Oñate statue and the Acoma mesa photograph went later the same day, with the
+Oñate slides.
 
 ## Loewen
 
 | File | What it is | Source | License |
 |---|---|---|---|
 | `loewen-skyline-2015.jpg` | James W. Loewen speaking at a lectern, profile, 2015. The portrait slide. 1691×1800 from 2368×2520, q78 | Skyline College PR & Marketing, Flickr 16883440197 ("James Loewen 2015") | **CC BY-NC-SA 2.0** — attribution and non-commercial note in the caption |
-| `williamsburg-governors-palace.jpg` | The Governor's Palace, Colonial Williamsburg, from the front, with Christmas wreaths. 1800×1272, q78 | Fletcher6, 2008, Wikimedia Commons ("Colonial Williamsburg Governor's Palace Main Building.JPG") | **CC BY-SA 3.0** |
-| `onate-alcalde.jpg` | Reynaldo Rivera's equestrian statue of Juan de Oñate at the Oñate Monument Center, Alcalde, New Mexico. 1800×1341, q78 | Advanced Source Productions, 2006, Flickr via Wikimedia Commons ("NEW MEXICO San Juan Pueblo DonJuan De Onate First Govenor of New Spain.jpg"; the file description gives the Alcalde site) | **CC BY 2.0** |
-| `acoma-mesa-1899.jpg` | Acoma Pueblo on the edge of its mesa, a halftone captioned "View of the Mesa on which is situated the Pueblo de Acoma, the Cloud City of New Mexico." After the Oñate statue. 1800×1228, cropped to the photograph (printed caption and margins removed), q80 | Photographer unknown, ca. 1899, from Albert J. Capron's article on Acoma in *The Pacific Monthly* (Internet Archive `pacificmonthly13woodrich`), via Wikimedia Commons ("Mesa with Acoma Pueblo, ca. 1899.jpg") | Public domain |
+| `civil-war-soldier-manchester.jpg` | A bronze Civil War soldier on the town green, Manchester, Connecticut, seen from below against the sky. Loewen's stories slide. 1347×1800 from 1712×2288, q78. The caption's sculptor and date (Carl Conrads, 1876) come from the Commons description alone; the pedestal lettering is not legible in the photograph | Marty Aligata, 30 January 2016, Wikimedia Commons ("Civil War Soldier Monument by Carl Conrads, Manchester, CT - January 2016.JPG") | Public domain |
+| `dar-santa-fe-trail-ellinwood.jpg` | A pink granite Santa Fe Trail marker lettered "Marked by the Daughters of the American Revolution and the State of Kansas, 1906," Ellinwood, Kansas. Loewen's class slide. 1800×1350 from 3072×2304, q82 | Chris Light, 31 May 2012, Wikimedia Commons ("Ellinwood Santa Fe Trail Marker (DAR) P5310459.JPG") | **CC BY-SA 4.0**. NARA's Timpas, Colorado marker (1908, public domain, 1818×1228) was the alternative; its pale letters on dark granite read less well at projector distance |
+| `doughboy-mount-pleasant.jpg` | A World War I doughboy statue on a column above shop roofs and a pharmacy sign, town square, Mount Pleasant, Pennsylvania, looking east. Loewen's civil religion slide. 1800×1350 from 2048×1536, q78 | Canadian2006, 24 August 2011, Wikimedia Commons ("Doughboy Mount Pleasant Pa 2011.jpg") | **CC BY-SA 3.0**. The same photographer's 2009 wide view of the intersection (`Doughboy Statue Mount Pleasant Pennsylvania.jpg`) shows the statue much smaller |
 | `goddess-of-democracy-cuhk.jpg` | The bronze copy of the 1989 "Goddess of Democracy" at the Chinese University of Hong Kong, 6 June 2010, chairs set out for a gathering. 1284×1800, q78 | Cyberviewer, Wikimedia Commons ("Goddess of Democracy, CUHK, 2010-06-06.jpg") | **CC BY-SA 4.0** |
 | `hassanamesit-marker-1930.jpg` | A 1930 Massachusetts Bay Colony Tercentenary Commission marker, "Hassanamesit," Grafton town common. 1800×1349, q78 | Elizabeth Thomsen, 2014, Flickr via Wikimedia Commons ("Hassanamesit Marker.jpg") | **CC BY-SA 4.0** |
 | `eliot-indian-bible-1663.jpg` | Title page of John Eliot's Bible in Massachusett, *Mamusse Wunneetupanatamwe Up-Biblum God* (Cambridge: Samuel Green and Marmaduke Johnson, 1663). After the Hassanamesit marker. 1365×1800, q80 | Houghton Library, Harvard University (AC6 Eℓ452 663m), via Wikimedia Commons ("Houghton AC6 Eℓ452 663m - John Eliot, 1663, title.jpg") | Public domain |
@@ -38,6 +42,8 @@ that part was cut later the same day (see Notes).
 | `tenement-museum-parlor.jpg` | A restored apartment parlor at 97 Orchard Street, the Lower East Side Tenement Museum. Building types. 1800×1445, q78 | Carol M. Highsmith, Library of Congress, LCCN 2011631392, via Wikimedia Commons | Public domain |
 | `hodgin-hall-1904.jpg` | Hodgin Hall, UNM, in its original brick form, from *The Land of Sunshine* (1904), New Mexico's handbook for the Louisiana Purchase Exposition. After the Wells slide. 1800×1083, q82 | Internet Archive Book Images (`landofsunshineha01newm`), Flickr 14593803568 via Wikimedia Commons | No known copyright restrictions |
 | `hodgin-hall-2024.jpg` | Hodgin Hall after the 1908 Pueblo Revival remodel, now the alumni center, 22 September 2024. 1800×1118, q78 | Kenneth C. Zirkel, Wikimedia Commons ("Hodgin Hall, University of New Mexico.jpg") | **CC BY 4.0** |
+| `palace-of-the-governors-1904.jpg` | The Governor's Palace, Santa Fe, with its columned porch and balustrade, before the 1909–13 restoration. Wilson slides. 1800×1042 from 2512×1514, cropped to the halftone (printed caption and margins removed), q82 | *The Land of Sunshine* (1904), New Mexico's handbook for the Louisiana Purchase Exposition, Internet Archive `landofsunshineha01newm`, via Wikimedia Commons ("The land of sunshine; a handbook … (1904) (14777602501).jpg"). The same book as `hodgin-hall-1904.jpg` | No known copyright restrictions |
+| `palace-of-the-governors-1934.jpg` | The Palace of the Governors from the southwest after the restoration, cars along the front. Wilson slides. 1800×1055 from the Commons render (3840×2465), cropped to the photograph (black border and negative notations removed), q82 | M. James Slack, Historic American Buildings Survey, 21 March 1934 (HABS NM,25-SANFE,2-2), Library of Congress, via Wikimedia Commons ("… FRONT VIEW FROM THE SOUTHWEST - El Palacio Real de Santa Fe …") | Public domain |
 
 ## Counter-space and two digital history projects
 
@@ -105,8 +111,18 @@ photograph of Hayden's two murals turned up; Calisphere's 1979 Cinewest slides
 which refuses plain `curl` (403); it was fetched from inside a headless Chrome
 tab on the item page.
 
-**Dropped.** `stone-mountain-carving.jpg` (Jim Bowen, 2012, CC BY 2.0) went
-with the redo of 2026-10-23, when Loewen's part was cut to its main points.
+**Dropped.** `onate-alcalde.jpg` (Advanced Source Productions, 2006, CC BY 2.0;
+Reynaldo Rivera's Oñate statue at Alcalde, from Commons "NEW MEXICO San Juan
+Pueblo DonJuan De Onate First Govenor of New Spain.jpg") and
+`acoma-mesa-1899.jpg` (photographer unknown, about 1899, public domain; from
+Albert J. Capron's article in *The Pacific Monthly*, Internet Archive
+`pacificmonthly13woodrich`, Commons "Mesa with Acoma Pueblo, ca. 1899.jpg",
+cropped to the photograph, 1800×1228, q80) went on 2026-10-26 with the Oñate
+slides; both are in git history. `williamsburg-governors-palace.jpg` (Fletcher6, 2008, CC BY-SA
+3.0; the Governor's Palace, Colonial Williamsburg) went on 2026-10-26 with the
+tourism card it illustrated. `stone-mountain-carving.jpg` (Jim Bowen, 2012,
+CC BY 2.0) went with the redo of 2026-10-23, when Loewen's part was cut to its
+main points.
 When the author cut the "who put this here?" part the same day, nine images
 went with it: the Santa Fe Soldiers' Monument north panel, its 1973 plaque and
 its boxed base; the Lee Monument in 1890 and 2020; the *La Jornada* and *Numbe

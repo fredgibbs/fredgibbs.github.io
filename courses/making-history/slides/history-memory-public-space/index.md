@@ -89,41 +89,121 @@ Loewen · "Some Functions of Public History"
 
 ---
 
-<div class="cards" markdown="1">
-<div class="card" markdown="1">
-
-#### Heroes to share
-
-People "live by stories." Those with no heroic story of their own can borrow the nation's (p. 13).
+<div class="quote" markdown="1">
+"Why have Americans put up hundreds of thousands of markers and monuments across the landscape?"
+<div class="cite">Loewen, <i>Lies Across America</i>, p. 13</div>
 </div>
-<div class="card" markdown="1">
 
-#### History is power
+<div class="reveal-block unpack compact fragment" data-fragment-index="1" markdown="1">
 
-The upper class commemorates its past to feel good about itself, and to "stay upper" (p. 13).
-</div>
-<div class="card" markdown="1">
+###### His answer
+{: .label}
 
-#### A civil religion
-
-Sacred sites for what Robert Bellah called America's "civil religion." Memorials make the state, mostly, the thing worth dying for (p. 14).
-</div>
-<div class="card" markdown="1">
-
-#### Tourism
-
-Colonial Williamsburg has become "a powerful moneymaking machine," and a marker can "put a town on the map" (pp. 13, 16).
-</div>
+Learning from the past is "hardly the only reason for public history," and "not even the primary reason" (p. 13). He starts with stories, class power and a civil religion (pp. 13–14).
 </div>
 </section>
 
-<!-- ========== IMAGE: WILLIAMSBURG ========== -->
+<!-- ========== STORIES ========== -->
+<section markdown="1">
+Loewen · stories
+{: .eyebrow}
+
+## Human beings live by stories, Loewen argues, and monuments supply the heroes
+{: .main-point}
+
+---
+
+<div class="quote" markdown="1">
+"Individuals who have not forged a heroic narrative of their own can nonetheless feel part of something important—in this case, our nation's progress—by identifying with others who performed heroic deeds."
+<div class="cite">Loewen, <i>Lies Across America</i>, p. 13</div>
+</div>
+
+<div class="reveal-block unpack compact fragment" data-fragment-index="1" markdown="1">
+
+###### On the landscape
+{: .label}
+
+A heroic story can be borrowed. Remembering these deeds "on the landscape," Loewen says, "meets this human need" (p. 13).
+</div>
+</section>
+
+<!-- ========== IMAGE: CIVIL WAR SOLDIER ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="portrait">
+<img src="images/civil-war-soldier-manchester.jpg" alt="A bronze statue of a Civil War soldier in a kepi and long overcoat, both hands resting on the muzzle of a rifle, seen from below against a blue sky with thin cloud and bare branches">
+<figcaption markdown="span">
+A Civil War soldier on the town green, Manchester, Connecticut
+<em>Sculpted by Carl Conrads in 1876: a hero anyone in town can claim, in a place people pass every day.<br>(Marty Aligata, 2016. Wikimedia Commons, public domain.)</em>
+</figcaption>
+</figure>
+</section>
+
+<!-- ========== CLASS ========== -->
+<section markdown="1">
+Loewen · class
+{: .eyebrow}
+
+## Loewen argues that commemorating history helps the upper class stay upper
+{: .main-point}
+
+---
+
+<div class="quote" markdown="1">
+"Usually, behind even the simplest aluminum plaque lurks someone who feels good about its installation. The efforts of the upper class to commemorate their history help them feel better psychologically; the results also help them stay upper. History is power."
+<div class="cite">Loewen, <i>Lies Across America</i>, p. 13</div>
+</div>
+
+<div class="reveal-block argument compact fragment" data-fragment-index="1" markdown="1">
+
+###### Who shapes the memory
+{: .label}
+
+Those on top of society know this, Loewen says, so "they take the time to determine how history will be remembered" (pp. 13–14).
+</div>
+</section>
+
+<!-- ========== IMAGE: DAR SANTA FE TRAIL MARKER ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="landscape">
-<img src="images/williamsburg-governors-palace.jpg" alt="A symmetrical red-brick Georgian mansion with a steep slate roof, tall chimneys and a white cupola, behind a brick wall and wrought-iron gate under a blue sky">
+<img src="images/dar-santa-fe-trail-ellinwood.jpg" alt="A pink granite marker on a concrete base, lettered in black: Santa Fe Trail, 1822–1872, marked by the Daughters of the American Revolution and the State of Kansas, 1906, with juniper and gravel beside it">
 <figcaption markdown="span">
-The Governor's Palace, Colonial Williamsburg, Virginia
-<em>Rebuilt with Rockefeller money in the early 1930s where the palace burned in 1781. "Popular education in history is a market commodity," says its Vice President for Research (Loewen, p. 13).<br>(Fletcher6, 2008. Wikimedia Commons, CC BY-SA 3.0.)</em>
+A Santa Fe Trail marker, Ellinwood, Kansas, 1906
+<em>The stone names its sponsors: the Daughters of the American Revolution and the State of Kansas. Behind even a plain marker, Loewen says, is someone who "feels good about its installation."<br>(Chris Light, 2012. Wikimedia Commons, CC BY-SA 4.0.)</em>
+</figcaption>
+</figure>
+</section>
+
+<!-- ========== CIVIL RELIGION ========== -->
+<section markdown="1">
+Loewen · a civil religion
+{: .eyebrow}
+
+## Memorials, Loewen argues, mostly declare that the state is worth dying for
+{: .main-point}
+
+---
+
+<div class="quote" markdown="1">
+"Monuments and markers provide sacred sites for what sociologist Robert Bellah called America's 'civil religion.' Memorials, in particular, declare what is worth dying for, which turns out to be mostly the state, in war."
+<div class="cite">Loewen, <i>Lies Across America</i>, p. 14</div>
+</div>
+
+<div class="reveal-block unpack compact fragment" data-fragment-index="1" markdown="1">
+
+###### A shared heritage
+{: .label}
+
+Tenth-generation Americans and recent immigrants alike can "glory in what the founders achieved in Philadelphia" and mourn at the Vietnam Veterans Memorial (p. 14).
+</div>
+</section>
+
+<!-- ========== IMAGE: DOUGHBOY ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="landscape">
+<img src="images/doughboy-mount-pleasant.jpg" alt="A pale stone statue of a World War I infantryman in a helmet, holding a rifle, on a tall column above shop roofs and a pharmacy sign, against a gray sky and wooded hills">
+<figcaption markdown="span">
+A World War I "doughboy" in the town square, Mount Pleasant, Pennsylvania
+<em>Sacred sites at everyday scale: a soldier on a column above a pharmacy sign.<br>(Canadian2006, 2011. Wikimedia Commons, CC BY-SA 3.0.)</em>
 </figcaption>
 </figure>
 </section>
@@ -158,69 +238,6 @@ A modest plaque "speaks with authority," as if its message were "incontestable" 
 One generation's monuments become "a force imprisoning the minds" of the next. Local ones can "empower people" too (p. 17).
 </div>
 </div>
-</section>
-
-<!-- ========== IMAGE: OÑATE · THE HAPPY VERSION ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="landscape">
-<img src="images/onate-alcalde.jpg" alt="A bronze equestrian statue of a conquistador in a helmet and armor, holding a lance across his horse, which rears one foreleg, against a clear blue sky">
-<figcaption markdown="span">
-Reynaldo Rivera, <i>Juan de Oñate</i>, at the Oñate Monument Center, Alcalde, New Mexico
-<em>The happy version: the colony's founder on horseback. Loewen: it lets "some Hispanic visitors" identify with "a heroic forebear," while some Native visitors see "the heroification of a bloody conquistador" (p. 15).<br>(Advanced Source Productions, 2006. Wikimedia Commons, CC BY 2.0.)</em>
-</figcaption>
-</figure>
-</section>
-
-<!-- ========== IMAGE: ACOMA ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="landscape">
-<img src="images/acoma-mesa-1899.jpg" alt="A black and white halftone of stone and adobe houses on the edge of a sheer-sided rock mesa, broken cliffs below and a wide plain beyond">
-<figcaption markdown="span">
-Acoma Pueblo on its mesa, about 1899
-<em>In December 1598 Acoma's fighters killed eleven Spaniards. In January 1599 Oñate's soldiers stormed the mesa and burned the pueblo; Spanish witnesses counted 600 to 800 dead (George P. Hammond, 1927, pp. 120–22).<br>(Photographer unknown; <i>The Pacific Monthly</i>, about 1900. Wikimedia Commons, public domain.)</em>
-</figcaption>
-</figure>
-</section>
-
-<!-- ========== ACOMA · WHAT THE STATUE LEAVES OUT ========== -->
-<section markdown="1">
-Oñate · what the statue leaves out
-{: .eyebrow}
-
-## Spain convicted Oñate of crimes at Acoma; the statue omits it
-{: .main-point}
-
----
-
-<div class="cards" markdown="1">
-<div class="card" markdown="1">
-
-#### The sentence, 1599
-
-Acoma's men over twenty-five: a foot cut off and twenty years' servitude. Younger men and women: twenty years (pp. 122–23).
-</div>
-<div class="card" markdown="1">
-
-#### Twenty-four men
-
-A Spanish captain counted twenty-four maimed (p. 123). Some of Oñate's defenders now say toes, not feet.
-</div>
-<div class="card" markdown="1">
-
-#### Convicted, 1614
-
-A royal judge found him guilty of crimes including killing innocent and guilty alike at Acoma, and banished him (p. 184).
-</div>
-<div class="card" markdown="1">
-
-#### The statue's foot, 1997
-
-Before the 400th anniversary, someone cut off its right foot, claiming to act for Acoma. It came down in 2020.
-</div>
-</div>
-
-George P. Hammond, <i>Don Juan de Oñate and the Founding of New Mexico</i> (1927).
-{: .cite}
 </section>
 
 <!-- ========== IMAGE: GODDESS OF DEMOCRACY ========== -->
@@ -642,6 +659,63 @@ The same building, now UNM's alumni center, 2024
 </figure>
 </section>
 
+<!-- ========== WILSON · SANTA FE ========== -->
+<section markdown="1">
+Wilson · *The Myth of Santa Fe*, 1997
+{: .eyebrow}
+
+## Wilson argues that Santa Fe's famous look was built in the early twentieth century
+{: .main-point}
+
+---
+
+<div class="reveal-block historical compact" markdown="1">
+
+###### Chris Wilson
+{: .label}
+
+Founding director of UNM's Historic Preservation and Regionalism program. His book asks how a small capital of about 5,000 people in 1912 got the look it is known for.
+</div>
+
+<div class="reveal-block unpack compact fragment" data-fragment-index="1" markdown="1">
+
+###### How it was made
+{: .label}
+
+Largely by Anglo-American newcomers, Wilson argues. After statehood in 1912, leaders built the town's economy on its heritage: restorations that were partly speculation, visible signs of Americanization removed, new buildings put under design review.
+</div>
+
+<div class="reveal-block argument compact fragment" data-fragment-index="2" markdown="1">
+
+###### The story it tells
+{: .label}
+
+Three peoples living in harmony. Wilson argues that story oversimplifies Native American culture, the mixing of cultures, and the tensions between them.
+</div>
+</section>
+
+<!-- ========== IMAGE: PALACE OF THE GOVERNORS, 1904 ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="landscape">
+<img src="images/palace-of-the-governors-1904.jpg" alt="A black and white halftone of a long adobe building in Santa Fe with a deep porch of tall columns under a balustrade, men and boys standing in its shade, utility poles along the dirt street and a wagon wheel at the edge of the frame">
+<figcaption markdown="span">
+The Governor's Palace, Santa Fe, 1904
+<em>The porch before the restoration: columns, a balustrade, utility poles. In 1909 the new Museum of New Mexico began restoring the building.<br>(<i>The Land of Sunshine</i>, 1904, via Internet Archive; no known restrictions.)</em>
+</figcaption>
+</figure>
+</section>
+
+<!-- ========== IMAGE: PALACE OF THE GOVERNORS, 1934 ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="landscape">
+<img src="images/palace-of-the-governors-1934.jpg" alt="A black and white photograph of a long, flat-roofed adobe building with plain plastered walls and a porch of rough posts under projecting beams, with several 1930s cars parked along the front and bare trees at either side">
+<figcaption markdown="span">
+The Palace of the Governors, 1934
+<em>After the 1909–13 restoration: rough posts, projecting beams. How much of the earlier look did the restorers know, and how much did they imagine?<br>(M. James Slack, Historic American Buildings Survey, 1934. Library of Congress, via Wikimedia Commons, public domain.)</em>
+</figcaption>
+</figure>
+</section>
+
 <!-- ========== CONCLUSION ========== -->
 <section markdown="1">
 Hayden · the chapter's end
@@ -758,16 +832,16 @@ The lecture · looking back
 
 #### What monuments do
 
-Flatter, sell and unify more than they teach, and usually mark only the happy history.
+Supply heroes, help the upper class stay upper and unify more than they teach, and usually mark only the happy history.
 </div>
 <div class="card" markdown="1">
 
-###### Oñate · Hassanamesit
+###### Hassanamesit
 {: .num}
 
 #### The happy version
 
-A founder without Acoma, a mission village without the war that emptied it.
+A mission village marker without the war that emptied the village.
 </div>
 <div class="card" markdown="1">
 
