@@ -84,7 +84,7 @@ James W. Loewen · 1942–2021
 Loewen · "Some Functions of Public History"
 {: .eyebrow}
 
-## For Loewen, teaching the past is not the main reason for a monument
+## Are monuments for teaching the past?
 {: .main-point}
 
 ---
@@ -108,7 +108,7 @@ Learning from the past is "hardly the only reason for public history," and "not 
 Loewen · stories
 {: .eyebrow}
 
-## Human beings live by stories, Loewen argues, and monuments supply the heroes
+## Human beings live by stories and monuments supply the heroes
 {: .main-point}
 
 ---
@@ -143,7 +143,7 @@ A Civil War soldier on the town green, Manchester, Connecticut
 Loewen · class
 {: .eyebrow}
 
-## Loewen argues that commemorating history helps the upper class stay upper
+## Commemorating history helps the upper class stay upper
 {: .main-point}
 
 ---
@@ -173,12 +173,23 @@ A Santa Fe Trail marker, Ellinwood, Kansas, 1906
 </figure>
 </section>
 
+<!-- ========== IMAGE: DAR SANTA FE TRAIL MARKER, LETTERING ALTERED ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="landscape">
+<img src="images/dar-santa-fe-trail-ellinwood-altered.jpg" alt="The same pink granite marker on its concrete base, with the lettering digitally replaced by three words in black on separate lines: Women, Freedom, Kansas, with juniper and gravel beside it">
+<figcaption markdown="span">
+The same marker, lettering altered
+<em>The photograph's lettering has been replaced. What does the marker really say?<br>(Altered from a photograph by Chris Light, 2012. Wikimedia Commons, CC BY-SA 4.0; this version shared under the same license.)</em>
+</figcaption>
+</figure>
+</section>
+
 <!-- ========== CIVIL RELIGION ========== -->
 <section markdown="1">
 Loewen · a civil religion
 {: .eyebrow}
 
-## Memorials, Loewen argues, mostly declare that the state is worth dying for
+## Memorials mostly declare that the state is worth dying for
 {: .main-point}
 
 ---
@@ -213,7 +224,7 @@ A World War I "doughboy" in the town square, Mount Pleasant, Pennsylvania
 Loewen · what monuments do to thinking
 {: .eyebrow}
 
-## Most monuments, Loewen argues, tell visitors that whatever happened was good
+## Most monuments suggest that whatever happened was good
 {: .main-point}
 
 ---
@@ -240,13 +251,24 @@ One generation's monuments become "a force imprisoning the minds" of the next. L
 </div>
 </section>
 
-<!-- ========== IMAGE: GODDESS OF DEMOCRACY ========== -->
+<!-- ========== IMAGE: GODDESS OF DEMOCRACY, 1989 ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="landscape">
+<img src="images/goddess-of-democracy-tiananmen-1989.jpg" alt="A black and white photograph of a tall white statue of a woman holding a torch high in both hands, rising above a dense crowd, flags and tents in Tiananmen Square, with the Monument to the People's Heroes and a long low building behind it and a banner at the statue's base">
+<figcaption markdown="span">
+The Goddess of Democracy, Tiananmen Square, 1989
+<em>Art students raised it on May 30; soldiers destroyed it on June 4. "Even in the United States," blared government loudspeakers, "statues need permission before they can be put up" (Loewen, p. 18).<br>(Unknown photographer; negatives published by Shelley Zhang, 2014. Fair use.)</em>
+</figcaption>
+</figure>
+</section>
+
+<!-- ========== IMAGE: GODDESS OF DEMOCRACY, CUHK COPY ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
 <figure class="portrait">
 <img src="images/goddess-of-democracy-cuhk.jpg" alt="A bronze statue of a woman in a long robe holding a torch high in her right hand and a book in her left, on a lawn with rows of folding chairs set out before it and a university building and wooded hill behind">
 <figcaption markdown="span">
-A copy of the 1989 "Goddess of Democracy" at the Chinese University of Hong Kong, 2010
-<em>The original stood in Tiananmen Square in 1989. "Even in the United States," blared the government's loudspeakers, "statues need permission before they can be put up" (Loewen, p. 18). This copy was removed in 2021.<br>(Cyberviewer, 2010. Wikimedia Commons, CC BY-SA 4.0.)</em>
+A bronze copy at the Chinese University of Hong Kong, 2010
+<em>The university said it had never authorized the statue, and took it down on December 24, 2021.<br>(Cyberviewer, 2010. Wikimedia Commons, CC BY-SA 4.0.)</em>
 </figcaption>
 </figure>
 </section>
@@ -295,7 +317,7 @@ Communities usually mark "only their happy history." Burlington honors Ethan All
 <img src="images/hassanamesit-marker-1930.jpg" alt="A white cast-metal roadside marker headed 1630–1930 under the Massachusetts seal, titled Hassanamesit, on a black post in front of a stone obelisk, with small American flags along a fence and trees behind">
 <figcaption markdown="span">
 A Massachusetts Bay Colony Tercentenary marker, Grafton, 1930
-<em>The happy version: Eliot's 1651 mission village and James the Printer. Of the state's 234 markers, 11% were on King Philip's War (Loewen, p. 21); this one never mentions it.<br>(Elizabeth Thomsen, 2014. Wikimedia Commons, CC BY-SA 4.0.)</em>
+<em>The happy version: Eliot "established" a village of Christian Indians, and James the Printer "helped" him print the Bible. Everyone cooperates, and it is all in the past tense.<br>(Elizabeth Thomsen, 2014. Wikimedia Commons, CC BY-SA 4.0.)</em>
 </figcaption>
 </figure>
 </section>
@@ -306,7 +328,7 @@ A Massachusetts Bay Colony Tercentenary marker, Grafton, 1930
 <img src="images/eliot-indian-bible-1663.jpg" alt="A worn title page inside a printed ornamental border, in Massachusett: Mamusse Wunneetupanatamwe Up-Biblum God naneeswe Nukkone Testament kah wonk Wusku Testament, John Eliot, Cambridge, 1663">
 <figcaption markdown="span">
 <i>Mamusse Wunneetupanatamwe Up-Biblum God</i> ("The Whole Holy His-Bible God"), Cambridge, 1663
-<em>John Eliot's Bible in Massachusett, the book the marker is proud of, printed for Christian Indians like those at Hassanamesit. Daniel Gookin, the colony's superintendent of Christian Indians, recorded what happened to them in 1675.<br>(Houghton Library, Harvard University. Wikimedia Commons, public domain.)</em>
+<em>The book the marker names. James the Printer, a Nipmuc from Hassanamesit, worked at the Cambridge press that printed it. Daniel Gookin, the colony's superintendent of Christian Indians, recorded what happened next.<br>(Houghton Library, Harvard University. Wikimedia Commons, public domain.)</em>
 </figcaption>
 </figure>
 </section>
@@ -316,7 +338,7 @@ A Massachusetts Bay Colony Tercentenary marker, Grafton, 1930
 Hassanamesit · November 1675
 {: .eyebrow}
 
-## The marker leaves out the war that emptied Hassanamesit in 1675
+## The marker's happy history simplifies the relationships
 {: .main-point}
 
 ---
@@ -328,19 +350,57 @@ Hassanamesit · November 1675
 
 <div class="reveal-block historical compact fragment" data-fragment-index="1" markdown="1">
 
-###### Deer Island
+###### Suspected by the English
 {: .label}
 
-About two hundred went with the fighters. By December the colony held five hundred other Christian Indians on Deer Island, "bleak and cold" (pp. 476, 485).
+Eleven Hassanamesit Christians were jailed in Boston for a murder, then acquitted (p. 476).
 </div>
 
 <div class="reveal-block unpack compact fragment" data-fragment-index="2" markdown="1">
 
+###### Divided
+{: .label}
+
+About two hundred went with the fighters, some "with heavy hearts and weeping eyes." Job Kattenanit later went among them as a spy, seeking his children (pp. 476–77, 480).
+</div>
+</section>
+
+<!-- ========== HASSANAMESIT · JAMES THE PRINTER ========== -->
+<section markdown="1">
+Hassanamesit · James the Printer
+{: .eyebrow}
+
+## James the Printer joined Philip's side, then went back to the press
+{: .main-point}
+
+---
+
+<div class="reveal-block historical compact fragment" data-fragment-index="1" markdown="1">
+
+###### The marker's one named Nipmuc
+{: .label}
+
+Born at Hassanamesit, he enrolled at Harvard and was apprenticed to the Cambridge printer Samuel Green, whose press printed Eliot's Bible.
+</div>
+
+<div class="reveal-block argument compact fragment" data-fragment-index="2" markdown="1">
+
+###### In the war
+{: .label}
+
+He served King Philip's allies as a scribe and diplomat. Afterward he returned to the Cambridge press, though some called him a traitor.
+</div>
+
+<div class="reveal-block unpack compact fragment" data-fragment-index="3" markdown="1">
+
 ###### Still in Grafton
 {: .label}
 
-Hassanamisco Nipmuc families still hold a small reservation in Grafton.
+The marker says Hassanamesit "was" his home. Hassanamisco Nipmuc families still hold a small reservation in Grafton.
 </div>
+
+Boston Athenaeum, "'We have but one man': A Rare Glimpse into the Life and Work of James (the) Printer."
+{: .cite}
 </section>
 
 <!-- ========== NOT WRITTEN BY GODS ========== -->
@@ -348,7 +408,7 @@ Hassanamisco Nipmuc families still hold a small reservation in Grafton.
 Loewen · how to read a marker
 {: .eyebrow}
 
-## People, not gods, write markers, so ask how each might be wrong
+## Ask how each might be misleading if not wrong
 {: .main-point}
 
 ---
@@ -363,7 +423,7 @@ Loewen · how to read a marker
 ###### His questions
 {: .label}
 
-Ask, "How might this be wrong?" Distrust "According to tradition . . ." Ask why the sponsors went to the trouble of putting it up (pp. 20–21).
+Ask why the sponsors went to the trouble of putting it up (pp. 20–21). The monument might be more about them.
 </div>
 </section>
 
@@ -400,7 +460,7 @@ Loewen stops at markers and monuments. Hayden, an architect who taught at UCLA a
 Hayden · Lefebvre, 1974
 {: .eyebrow}
 
-## Chapter 2's starting point: space is produced
+## First some theory: space is produced
 {: .main-point}
 
 <div class="with-figure wide" markdown="1">
@@ -491,7 +551,7 @@ Phrases like "knowing one's place" are spatial and political at once (p. 16). Cu
 Lefebvre, through Hayden · pp. 18–19
 {: .eyebrow}
 
-## Every society, Lefebvre argues, builds space for production and for social reproduction
+## Every society builds space for production and for social reproduction
 {: .main-point}
 
 ---
@@ -529,7 +589,7 @@ Reproduction of social relations, in the public space of the city.
 Hayden · three histories to write
 {: .eyebrow}
 
-## Hayden turns Lefebvre into three kinds of history a historian can write
+## Three kinds of history a historian can write
 {: .main-point}
 
 ---
@@ -594,7 +654,7 @@ A restored apartment at 97 Orchard Street, the Tenement Museum, New York
 Hayden · territorial histories
 {: .eyebrow}
 
-## Keeping people out of space, Hayden argues, is a way of limiting their rights
+## Keeping people out of space is a way of limiting rights
 {: .main-point}
 
 ---
@@ -841,7 +901,7 @@ Supply heroes, help the upper class stay upper and unify more than they teach, a
 
 #### The happy version
 
-A mission village marker without the war that emptied the village.
+A marker of cooperation, over relations that were suspicious and divided.
 </div>
 <div class="card" markdown="1">
 
@@ -860,29 +920,21 @@ Work, territory and ordinary buildings, read as the production of space, down to
 The take home
 {: .eyebrow}
 
-## A monument is a source about the people who put it up
+## Hayden argues that places record who made them and who was kept out
 {: .main-point}
 
 ---
 
 <div class="reveal-block unpack compact fragment" data-fragment-index="1" markdown="1">
 
-###### What it records
+###### Places are produced
 {: .label}
 
-When it went up, who paid, and what they were proud of. The Grafton marker tells more about 1930 than about 1651.
+Ditchdiggers and housewives, as well as architects and mayors, shaped the city (p. 15). A tunnel, a movie house or a tenement records who built it, who used it and who was kept out (pp. 20–34).
 </div>
 
-<div class="reveal-block argument compact fragment" data-fragment-index="2" markdown="1">
-
-###### What Hayden adds
-{: .label}
-
-The rest of the landscape is a source too. Tunnels, movie houses and tenements record who built them and who was kept out (pp. 20–34).
-</div>
-
-<div class="takehome fragment compact" data-fragment-index="3" markdown="1">
-The catch: a corrected marker is still a marker. It speaks with the same authority Loewen distrusts.
+<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+Limiting access to space is a consistent way to limit a group's economic and political rights (p. 22). A building can record who was let in.
 </div>
 </section>
 

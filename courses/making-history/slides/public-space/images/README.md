@@ -1,6 +1,6 @@
 # Slide Images — History, Memory, and Public Space (11.1)
 
-Twenty-one image files, all used by `../index.md`. Every photograph is public
+Twenty-three image files, all used by `../index.md`. Every photograph is public
 domain or under a Creative Commons license; the Mapping Inequality slide is a
 screenshot of a website, used as fair use (the author, 2026-10-23: "everything
 is fair use for a class lecture"). Three licenses carry conditions worth
@@ -9,7 +9,7 @@ Hayden's portrait and the Estrada Courts mural photograph are **BY-NC-ND**
 (non-commercial, no derivatives, so both are used unmodified). Credits are
 carried in the `<figcaption>`s and should not be stripped.
 
-The folder totals about 8.9 MB, under the guide's 10 MB. The chapter 1 images
+The folder totals about 10.0 MB, at the guide's 10 MB limit, The chapter 1 images
 (Baldwin, Penn Station, the African Burial Ground) went when that part was cut
 on 2026-10-23, and nine of the eleven "who put this here?" images went when
 that part was cut later the same day (see Notes). The Colonial Williamsburg
@@ -25,8 +25,10 @@ Oñate slides.
 | `loewen-skyline-2015.jpg` | James W. Loewen speaking at a lectern, profile, 2015. The portrait slide. 1691×1800 from 2368×2520, q78 | Skyline College PR & Marketing, Flickr 16883440197 ("James Loewen 2015") | **CC BY-NC-SA 2.0** — attribution and non-commercial note in the caption |
 | `civil-war-soldier-manchester.jpg` | A bronze Civil War soldier on the town green, Manchester, Connecticut, seen from below against the sky. Loewen's stories slide. 1347×1800 from 1712×2288, q78. The caption's sculptor and date (Carl Conrads, 1876) come from the Commons description alone; the pedestal lettering is not legible in the photograph | Marty Aligata, 30 January 2016, Wikimedia Commons ("Civil War Soldier Monument by Carl Conrads, Manchester, CT - January 2016.JPG") | Public domain |
 | `dar-santa-fe-trail-ellinwood.jpg` | A pink granite Santa Fe Trail marker lettered "Marked by the Daughters of the American Revolution and the State of Kansas, 1906," Ellinwood, Kansas. Loewen's class slide. 1800×1350 from 3072×2304, q82 | Chris Light, 31 May 2012, Wikimedia Commons ("Ellinwood Santa Fe Trail Marker (DAR) P5310459.JPG") | **CC BY-SA 4.0**. NARA's Timpas, Colorado marker (1908, public domain, 1818×1228) was the alternative; its pale letters on dark granite read less well at projector distance |
+| `dar-santa-fe-trail-ellinwood-altered.jpg` | **An altered copy** of the Ellinwood marker above, with the lettering replaced by WOMEN, FREEDOM, KANSAS, for the class question about what the stone says. 1800×1350, q82. Made 2026-10-27 from the 3072×2304 original: the old lettering was masked and filled with granite texture copied from clean parts of the face, then three words were set in Arial Narrow Bold (cap height, tracking and shear fitted to the original's "AMERICAN REVOLUTION" line) in the slots of "THE DAUGHTERS," "AMERICAN REVOLUTION" and "STATE OF KANSAS." A few dark flecks on the face may be leftovers of the old letters or real mineral grains. The caption says the lettering is altered | Chris Light, 31 May 2012, Wikimedia Commons (as above), modified | **CC BY-SA 4.0**: attribution, a statement of the change, and the same license (all in the caption) |
 | `doughboy-mount-pleasant.jpg` | A World War I doughboy statue on a column above shop roofs and a pharmacy sign, town square, Mount Pleasant, Pennsylvania, looking east. Loewen's civil religion slide. 1800×1350 from 2048×1536, q78 | Canadian2006, 24 August 2011, Wikimedia Commons ("Doughboy Mount Pleasant Pa 2011.jpg") | **CC BY-SA 3.0**. The same photographer's 2009 wide view of the intersection (`Doughboy Statue Mount Pleasant Pennsylvania.jpg`) shows the statue much smaller |
 | `goddess-of-democracy-cuhk.jpg` | The bronze copy of the 1989 "Goddess of Democracy" at the Chinese University of Hong Kong, 6 June 2010, chairs set out for a gathering. 1284×1800, q78 | Cyberviewer, Wikimedia Commons ("Goddess of Democracy, CUHK, 2010-06-06.jpg") | **CC BY-SA 4.0** |
+| `goddess-of-democracy-tiananmen-1989.jpg` | The original Goddess of Democracy in Tiananmen Square, a wide view over the crowd and tents with the Monument to the People's Heroes behind; the banner at its base reads 民主之神. 1024×679, the blog's file, **unmodified** (not resized, not recompressed) | Unknown photographer, probably an art student who was there; found as two rolls of negatives in a shoebox and published by Shelley Zhang, "Never before seen Tiananmen Square photos found in shoebox," *The China Girls*, 4 June 2014 (thechinagirls.wordpress.com). She dates the statue photographs between 30 May and 3 June 1989. The slide's fair-use use of this frame is recorded in Notes | **Fair use** (author, 2026-10-27: "this is all fair use") |
 | `hassanamesit-marker-1930.jpg` | A 1930 Massachusetts Bay Colony Tercentenary Commission marker, "Hassanamesit," Grafton town common. 1800×1349, q78 | Elizabeth Thomsen, 2014, Flickr via Wikimedia Commons ("Hassanamesit Marker.jpg") | **CC BY-SA 4.0** |
 | `eliot-indian-bible-1663.jpg` | Title page of John Eliot's Bible in Massachusett, *Mamusse Wunneetupanatamwe Up-Biblum God* (Cambridge: Samuel Green and Marmaduke Johnson, 1663). After the Hassanamesit marker. 1365×1800, q80 | Houghton Library, Harvard University (AC6 Eℓ452 663m), via Wikimedia Commons ("Houghton AC6 Eℓ452 663m - John Eliot, 1663, title.jpg") | Public domain |
 
@@ -110,6 +112,8 @@ photograph of Hayden's two murals turned up; Calisphere's 1979 Cinewest slides
 **The Mapping Prejudice map** came from the University Digital Conservancy,
 which refuses plain `curl` (403); it was fetched from inside a headless Chrome
 tab on the item page.
+
+**The Goddess of Democracy, 1989 (fair use).** Searched on 2026-10-27: Commons has no photograph of the original (only replicas); English Wikipedia's picture of it is a 226×440 fair-use thumbnail of one frame from the same shoebox set, too small for a slide. News-agency pictures of it (Jeff Widener's AP frame of 30 May 1989, Getty/AFP) are stock holdings, so they were not taken. The Hong Kong Arts Centre holds 22 photographs of a 1989 Goddess in Hong Kong (a replica, research use only). The frame used is the widest of the five Goddess photographs in Shelley Zhang's post (the others show the statue from the side, a family visiting it, and photographers on rubbish bins). The photographer is unknown. If a licensed or institutional photograph of the original turns up (the Widener frame is the standard one), it should replace this.
 
 **Dropped.** `onate-alcalde.jpg` (Advanced Source Productions, 2006, CC BY 2.0;
 Reynaldo Rivera's Oñate statue at Alcalde, from Commons "NEW MEXICO San Juan

@@ -50,7 +50,7 @@ slides, then Hodgin Hall in 1904 and today, then the chapter's conclusion,
 two counter-space photographs (Casita Rincón Criollo, an Estrada Courts mural)
 and two digital history projects (*Mapping Inequality*, *Mapping Prejudice*).
 Then the `.parallel` comparison, the arc, the take home and what comes next.
-43 slides.
+46 slides.
 
 **No part labels, no discussion slides.** The guide's session structure has
 parts, each ending in a discussion slide, and an arc with one card per part.
@@ -119,6 +119,29 @@ reveal.js index `#/3`: the four-card "What monuments are for" slide.
   `deck-check.sh` passes with 0 failures. The Civil War soldier's sculptor and
   date rest on the Commons description alone (see `images/README.md`).
 
+## The altered Santa Fe Trail marker (2026-10-27)
+
+The author: "i want to ask the class about the santa fe monument and what it
+really says. can you make a another slide with the same image, but just the
+words: Women, Freedom, Kansas on separate lines, echoing what the original tells
+us. just copy the aesthetics exactly but change the text on the stone." The new
+slide follows the Ellinwood marker slide and uses an edited copy of the photograph
+(`images/dar-santa-fe-trail-ellinwood-altered.jpg`; method in `images/README.md`).
+
+- **It is a fabricated inscription,** so the slide says so: the title is "The same
+  marker, lettering altered," the note says the lettering has been replaced, and
+  the credit names the original photographer and the license. CC BY-SA 4.0 allows
+  the edit if the change is stated and the same license is kept. Do not crop the
+  caption off or reuse the image elsewhere without it.
+- **The words are the author's** and map to the original lettering: Women to "the
+  Daughters," Freedom to "American Revolution," Kansas to "State of Kansas." The
+  caption does not say so, so the class can work it out. The words sit in the
+  slots of the three large lines, at the original's letter size.
+- **The original slide's caption already names the sponsors,** so the altered slide
+  reads as a puzzle only if shown first, or if the original caption is cut. Order
+  is the author's call.
+- **Not rerun:** the fresh-context review has not seen this slide.
+
 ## Wilson on Santa Fe (2026-10-26)
 
 The author asked for "a couple slides based on general knowledge of the
@@ -155,18 +178,79 @@ style is **not** claimed; it was not confirmed.
 - **No portrait of Wilson** was looked for; he is introduced in a
   `.reveal-block.historical` on the text slide.
 
+## Goddess of Democracy facts, and the photograph of the original (2026-10-27)
+
+The author asked for the slide's facts to be checked and for a photograph of the
+original in Tiananmen Square (fair use). The slide is now two: the original, then
+the Hong Kong copy.
+
+- **Checked against Loewen, p. 18:** the loudspeaker quotation is exact ("Even in
+  the United States, statues need permission before they can be put up"). Loewen
+  calls the statue "Goddess of Liberty" and says students "erected a styrofoam
+  and plaster statue" opposite Mao's portrait. The slides use "Goddess of
+  Democracy," its usual name.
+- **Checked against Wikipedia, "Goddess of Democracy" (one source; not checked
+  elsewhere):** made by Central Academy of Fine Arts students, foam and
+  papier-mâché over a metal frame (Loewen says styrofoam and plaster, so the
+  caption says only "art students raised it"), about ten meters tall, raised
+  30 May 1989 and destroyed by soldiers on 4 June. The caption gives only the
+  two dates.
+- **The Hong Kong copy.** The old caption said it "was removed in 2021." AP (via
+  PBS NewsHour, 24 December 2021) says CUHK took it down "early Friday," 24
+  December 2021, said it had "never authorized its display," and said no group
+  had claimed responsibility for its upkeep. That is AP's paraphrase, not a quoted
+  statement, so the caption says "never authorized" without quotation marks.
+  Wikipedia says the copy is bronze, about three meters, and installed after the
+  4 June 2010 vigil; AP-based reports elsewhere give 6.4 meters, so the slides
+  give no size.
+- **The photograph** is an unattributed frame published in 2014 (see
+  `images/README.md`). It is 1024 pixels wide, so `deck-check.sh` may warn under
+  1.5x. Fair use, per the author; the guide's preference for an institutional
+  source was not met because none was found.
+
 ## The happy version and the real history
 
 At the author's direction, one of Loewen's monuments (the Hassanamesit marker)
-is shown first as "the happy version" (Loewen's "happy history," p. 23, is on
-the card slide just before it), then followed by two slides of what the marker
-leaves out. The caption of the first slide opens "The happy version:". The
-pattern is not yet in `SLIDE-STYLE.md`.
+is shown as "the happy version" (Loewen's "happy history," p. 23, is on the card
+slide just before it), then followed by slides on how the relationships behind it
+were more complicated. The caption of the first slide opens "The happy version:".
+The pattern is not yet in `SLIDE-STYLE.md`.
 
-- **Hassanamesit → 1675.** The 1930 marker; the 1663 Indian Bible, the book
-  the marker is proud of, whose caption introduces Daniel Gookin; a quote slide
-  with the Nipmuc fighters' warning as Gookin reports it, Deer Island, and the
-  Hassanamisco reservation today.
+- **Hassanamesit** (reframed 2026-10-27). The 1930 marker; the 1663 Indian Bible,
+  whose caption introduces James the Printer and Daniel Gookin; a quote slide with
+  the Nipmuc fighters' warning as Gookin reports it, plus two blocks, "Suspected by
+  the English" and "Divided"; then a slide on James the Printer and Hassanamesit
+  today.
+
+**The reframe.** The author: "i'm not sure why we should criticize the Hassanamesit
+marker b/c it was about something other than king philip's war. i think the better
+message is that the sign is the happy history, when the actual relationships were
+more complicated." The first version faulted the marker for leaving out King
+Philip's War (with Loewen's 11% of the 234 markers, p. 21). That was a weak
+objection, since a marker may have its own subject, and the caption and headline
+are gone. The sequence now argues from the marker's own words: Eliot "established"
+a village and James the Printer "helped," all in the past tense. The evidence is
+Gookin's, by page: Hassanamesit's Christian Indians included eleven who had been
+jailed in Boston for a Lancaster murder and acquitted (p. 476); about 300 armed
+Nipmuc, some of them kin, told the Christians to come along or lose their corn
+(p. 476); most went, the pastor Joseph Tuckappawill and his father "with heavy
+hearts and weeping eyes" (p. 477); Job Kattenanit escaped to Mendon and later
+volunteered to go among the fighters seeking his three children (pp. 475, 480,
+487); Natick's Christian Indians were sent to Deer Island (pp. 473–74, 485). The
+slide had to be cut to fit (`deck-check.sh` failed it at 653px), so the Deer
+Island sentence and the Lancaster detail are off it; the "Suspected" block now
+says only that eleven Hassanamesit Christians were jailed in Boston for a murder
+and acquitted, which is Gookin's "among these" (the captives, p. 476) and not a
+claim about all of Hassanamesit. James the Printer's war
+comes from one source, the Boston Athenaeum, "'We have but one man'": he served
+King Philip's allies as a scribe and diplomat, returned to the Cambridge press, and
+was branded a traitor by the printing trade. Wikipedia, "James Printer," adds that
+he was falsely accused of the Lancaster raid, escaped a mob, and "chose to go with
+Metacomet's men" when the Nipmuc warned Hassanamesit to leave, and that he was
+granted amnesty. That is a single source, so it is not on the slides, and its
+death year (1709) disagrees with the Athenaeum's (1717), so no year is given.
+Unverified: whether the Christian Indians' arrest for the Lancaster murder is the
+same affair as James Printer's alleged part in it.
 
 **Oñate → Acoma was cut on 2026-10-26.** The author: "let's also remove the
 onate slides; it's old news here." Three slides went: the statue (Loewen's
@@ -206,10 +290,7 @@ are in git history (see `images/README.md`).
   Wikipedia, "Hassanamisco Nipmuc") say English troops destroyed much of the
   village in September; Gookin, writing for the colony, says Nipmuc fighters
   persuaded or pressed its people to leave in November. The slide follows
-  Gookin and says the people "went with the fighters." James Printer's own war
-  (accused of the Lancaster killings, later amnesty, the 1682 Rowlandson
-  narrative) is left out: the sources disagree, and Gookin does not name him
-  among the accused.
+  Gookin and says the people "went with the fighters."
 - *Hassanamisco today.* About three acres in Grafton (Wikipedia gives 3.5, the
   Massachusetts Historical Commission "approximately three," the 2004 federal
   decision 2½), held by Nipmuc families since the 1727 division; on the
@@ -217,9 +298,18 @@ are in git history (see `images/README.md`).
   no "never left Nipmuc hands" claim, which rests on local and popular
   sources.
 
-**The take home uses the Grafton marker.** "The Grafton marker tells more
-about 1930 than about 1651" replaced the Santa Fe obelisk when the obelisk's
-slides were cut; the take home may only use what a slide has shown.
+**The take home is Hayden's (2026-10-27).** The author: "let's replace the take
+home message with 1 or 2 points from hayden. monument stuff is already clear and
+no need to review." It had been Loewen's (a monument is a source about the people
+who put it up, with the Grafton marker and the catch that a corrected marker is
+still a marker) plus a "What Hayden adds" block. It is now one headline and two
+points, both from slides the deck has shown: places are produced by many hands
+and ordinary buildings record who built them and who was kept out (pp. 15,
+20–34), and limiting access to space limits a group's economic and political
+rights (p. 22). Both are paraphrases of Hayden's sentences, checked against
+`hayden-power-of-place-ch2.ocr.txt`. "A building can record who was let in" is
+the deck's gloss, hedged with "can." No Loewen point is left in the take home;
+the arc still gives his part.
 
 ## Hayden's three histories, illustrated
 
@@ -359,11 +449,6 @@ not named on the slides, since she does not come back.
 Wrights Tunnel photographs are not hers; their captions say what she writes,
 not that she prints them.
 
-**The take home's catch is the deck's, not Loewen's.** "A corrected marker is
-still a marker" turns Loewen's p. 14 point (a plaque "speaks with authority")
-back on correction. He does not say this. It is the cost line the guide asks
-for and is phrased in the deck's voice, not attributed.
-
 **Some caption facts come from outside the readings.** All standard, none
 quoted: Loewen's, Hayden's and Lefebvre's biographical lines; the CUHK
 copy removed in 2021; the Tenement Museum's 1863 building and 1988 founding;
@@ -426,7 +511,7 @@ caches before it was fixed. Findings about the cut parts are left out.
   Hayden's (p. 18). The casitas are Hayden's example of his "counter-space,"
   and the passage runs pp. 35–36.
 - **Guide rules.** The take home must use something a slide has shown (it now
-  uses the Grafton marker). Hayden's explainer opens with what Loewen left out.
+  now uses Hayden's tunnel, movie house and tenement). Hayden's explainer opens with what Loewen left out.
   Lefebvre is named as "the French sociologist," Hayden's phrase (p. 18). The
   "Stories" card no longer opens with a quotation.
 - **Not taken.** Robert Bellah is named once and does not return; he stays
