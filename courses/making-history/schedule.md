@@ -395,27 +395,27 @@ This week's [reading refraction](reading-refractions) is due by midnight on Canv
 
 
 
-## 11: Public History and Memory
+## 11: Public Space and Memory
 All semester we've been reading about history being made — in archives, universities, national narratives. This week we ask what happens when it enters public life: monuments, textbooks, museums, built environments. The two sessions work together: the first builds the theoretical framework for thinking about history and memory; the second puts it into practice on the ground around you.
 
 
 ### 11.1: History, Memory, and Public Space
 History and memory are clearly related, but exactly how do we define them in relation to each other? This session builds the framework for thinking about how the past circulates in public life: why certain stories get commemorated while others disappear, and what happens when historical argument enters spaces that weren't designed for it.
 
-<!-- - Slides of [History, Memory, and Public Space](slides/history-memory-public-space/) -->
+<!-- - Slides of [Public Space](slides/public-space/) -->
 - Be sure your _Campus History_ page (with just the sample text, but your own image) is working BEFORE CLASS, and your URL is posted to Canvas. See the RED box below for more information.
 - Read the [Campus History AI essay guide](campus-history-ai) before class so you can ask questions; you need to follow those instructions for Thursday's assignment.
-- 📗 James Loewen, *Lies Across America: What Our Historic Sites Get Wrong* (1999), first two chapters (1--17).  Loewen visits monuments and historic sites and asks what stories they tell and what they leave out. The Zotero library has a PDF of just the chapters you need.
+- 📗 James Loewen, *Lies Across America: What Our Historic Sites Get Wrong* (1999), first two chapters (1--17).  Loewen visits monuments and historic sites and asks what stories they tell and what they leave out. The Zotero library has a PDF of the chapters you need.
 - 📗 Dolores Hayden, *The Power of Place: Urban Landscapes as Public History* (1995), Ch. 2: 14--43. Hayden shows how the built environment — streets, buildings, neighborhoods — embodies historical narratives that most people walk past without noticing.
 
 #### Discussion
 - What's the difference between "history" and "memory"? Why does it matter?
-- Loewen looks at monuments. What historical narratives do they tell, and what do they leave out?
+- What historical narratives do monuments tell? What do they often leave out?
 - How do these apply to the _Campus History_ project?
 
 {% include alert.html class='danger' title='Campus History URLS due TODAY' text="
 - Your _Campus History_ page (with just the sample text, but your own image) should be working BEFORE CLASS. Follow the directions on the [Campus History student guide](https://amaranth.unm.edu/campus-history/student-guide) to complete the assignment.
-- Make sure you post the URL to the Canvas discussion post for it.
+- Make sure you post the URL to the Canvas discussion board.
 "%}
 
 {% include alert.html class='warning' title='Campus History AI essay due THURSDAY' text="
@@ -428,14 +428,15 @@ History and memory are clearly related, but exactly how do we define them in rel
 
 ### 11.2: AI, History, Campus History
 
+- No new readings for today! 
 - AI and the Future of History
 - Beginning your archival research for Campus History
 
-{% include alert.html class='danger' title='Campus History AI Drafts Due' text="
+{% include alert.html class='danger' title='Campus History AI Essays Due' text="
 Your Campus History AI drafts are due TODAY. Follow the [AI research guide](campus-history-ai).
 Remember there are two parts to this:
-1. Paste your essay into your new Campus History page, and make sure it looks nice
-2. Post your AI essay critique in Canvas like a normal discussion post.
+1. Paste your essay into your new Campus History page, and make sure it looks nice.
+2. Post your AI essay critique in Canvas like a normal refraction.
 "%}
 
 
