@@ -56,10 +56,10 @@ Commemoration and space. What gets put up, by whom, and who a place lets in.
 </div>
 <div class="answer next" markdown="1">
 
-###### Week 11.2 · AI and campus history
+###### Week 11.2 · AI and history
 {: .num}
 
-The campus as a landscape with a past, and the archive behind it.
+Probability. A chatbot's history follows what was written down most often.
 </div>
 </div>
 </section>

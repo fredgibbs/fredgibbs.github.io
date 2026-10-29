@@ -429,8 +429,9 @@ History and memory are clearly related, but exactly how do we define them in rel
 ### 11.2: AI, History, Campus History
 
 - No new readings for today! 
-- AI and the Future of History
-- Beginning your archival research for Campus History
+- Slides on AI and the Future of History!
+<!-- - Slides of [AI and the Future of History](slides/ai-future-of-history/) -->
+- More on Campus History pages
 
 {% include alert.html class='danger' title='Campus History AI Essays Due' text="
 Your Campus History AI drafts are due TODAY. Follow the [AI research guide](campus-history-ai).

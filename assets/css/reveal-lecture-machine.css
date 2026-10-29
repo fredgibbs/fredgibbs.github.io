@@ -1,0 +1,190 @@
+/*
+ * Reveal.js lecture theme — "machine" variant
+ * -------------------------------------------
+ * An overlay on reveal-lecture-theme.css (and reveal-image-slide.css) for
+ * decks about AI and computation, where the usual green-and-gold look reads
+ * as the rest of the course. First built for
+ * courses/making-history/slides/ai-future-of-history.
+ *
+ * Usage: add `theme: machine` to a deck's front matter. The reveal-lecture
+ * layout then loads Space Grotesk and this file after the base theme, so
+ * every class keeps its markup and only its look changes.
+ *
+ * The slide levels are unchanged (see "Slide levels" in
+ * courses/SLIDE-STYLE.md); only their faces and colors move:
+ *   label      — JetBrains Mono caps, cyan          .eyebrow, .label, .num
+ *   claim      — Space Grotesk semibold, upright:   .main-point, card/step h4
+ *                solid violet for titles (a gradient
+ *                was tried and read as too much);
+ *                periwinkle for card and step heads;
+ *                the text color for the .takehome
+ *   source     — Fraunces italic behind a rule,     .quote (amber), .pull-quote (rose)
+ *                kept warm and serif on purpose: the past's words, and the
+ *                historians', stay set as human writing against the cool
+ *                machine palette of the deck's own voice
+ *   question   — Inter semibold, upright, white     unchanged
+ *   commentary — Inter, muted                       unchanged face, cooler gray
+ *   apparatus  — JetBrains Mono, small, muted       unchanged
+ *
+ * Image slides need no data-background: leave it off and the page
+ * background (dark, two faint glows, a dot grid) shows behind the picture.
+ */
+
+:root {
+	--ts-bg: #07080d;
+	--ts-text: #e9ebf3;
+	--ts-text-muted: #949cb3;
+	--ts-border: #232838;
+	--ts-heading-1: #bcc6ff;   /* claim, where a solid color is needed */
+	--ts-heading-2: #5fdcf2;   /* cyan: structural rules and borders */
+	--ts-heading-3: #67e8f9;   /* labels */
+	--ts-accent: #a78bfa;      /* violet: secondary accents */
+	--mx-source: #f4c27a;      /* amber: the quoted past */
+	--mx-source-2: #f9a8c0;    /* rose: a supporting quotation */
+	--mx-gradient: linear-gradient(92deg, #7fe3f8 0%, #a5b4fc 48%, #e9a8fb 100%);
+	--mx-panel: rgba(255, 255, 255, 0.028);
+}
+
+html, body {
+	background-color: var(--ts-bg);
+	background-image:
+		radial-gradient(1100px 620px at 88% -12%, rgba(139, 92, 246, 0.20), transparent 62%),
+		radial-gradient(900px 560px at -8% 112%, rgba(34, 211, 238, 0.13), transparent 60%),
+		radial-gradient(rgba(255, 255, 255, 0.055) 1px, transparent 1.3px);
+	background-size: auto, auto, 24px 24px;
+	background-attachment: fixed;
+}
+
+.reveal { background: transparent; }
+
+/* ---- Label level -------------------------------------------------- */
+
+.reveal .eyebrow::before {
+	content: "›";
+	color: var(--ts-accent);
+	margin-right: 0.55em;
+}
+
+/* ---- Claim level --------------------------------------------------- */
+
+/* Sentence case, not reveal's capitals: a long claim reads faster, and the
+   capitals belong to the course's usual look. */
+.reveal .main-point {
+	font-family: 'Space Grotesk', 'Inter', system-ui, sans-serif;
+	font-style: normal;
+	text-transform: none;
+	font-weight: 600;
+	font-size: 1.08em;
+	line-height: 1.1;
+	letter-spacing: -0.025em;
+	color: var(--ts-accent);
+}
+
+/* The title slide's headline: larger, with a resting cursor after it. */
+.reveal h1.main-point { font-size: 1.5em; line-height: 1.04; }
+
+.reveal h1.main-point::after {
+	content: "";
+	display: inline-block;
+	width: 0.09em;
+	height: 0.82em;
+	margin-left: 0.12em;
+	vertical-align: -0.06em;
+	background: var(--ts-accent);
+	animation: mx-caret 1.15s steps(1) infinite;
+}
+
+@keyframes mx-caret { 50% { opacity: 0; } }
+
+.reveal .card h4,
+.reveal .flow .step h4 {
+	font-family: 'Space Grotesk', 'Inter', system-ui, sans-serif;
+	font-style: normal;
+	text-transform: none;
+	letter-spacing: -0.01em;
+	color: var(--ts-heading-1);
+}
+
+.reveal .takehome {
+	border-left: 3px solid transparent;
+	border-image: linear-gradient(180deg, #7fe3f8, #a78bfa) 1;
+	background: linear-gradient(90deg, rgba(167, 139, 250, 0.11) 0%, transparent 72%);
+}
+
+.reveal .takehome p,
+.reveal .takehome li {
+	font-family: 'Space Grotesk', 'Inter', system-ui, sans-serif;
+	letter-spacing: -0.01em;
+}
+
+/* ---- Source level -------------------------------------------------- */
+
+.reveal .quote {
+	color: var(--mx-source);
+	border-left: 2px solid var(--mx-source);
+}
+
+.reveal .pull-quote {
+	color: var(--mx-source-2);
+	border-left-color: var(--mx-source-2);
+}
+
+/* ---- Structure ----------------------------------------------------- */
+
+/* No divider under the headline: with the title in solid violet, the short
+   rule read as one accent too many. Decks keep writing `---`; it just hides. */
+.reveal .rule,
+.reveal .slides section hr { display: none; }
+
+.reveal .reveal-block {
+	background: linear-gradient(90deg, var(--mx-panel), transparent 85%);
+	padding-right: 0.6em;
+}
+
+.reveal .reveal-block.argument { border-left-color: var(--ts-accent); }
+.reveal .reveal-block.historical { border-left-color: var(--mx-source); }
+.reveal .reveal-block.compare { background: none; }
+
+.reveal .reveal-block p em,
+.reveal .reveal-block li em,
+.reveal .detail em,
+.reveal ul.source-list em { color: var(--ts-text); }
+
+.reveal .card,
+.reveal .flow .step {
+	background: var(--mx-panel);
+	border-top: 1px solid transparent;
+	border-image: linear-gradient(90deg, #5fdcf2, #a78bfa 70%, transparent) 1;
+	padding: 0.5em 0.6em 0.6em 0.6em;
+}
+
+.reveal .flow .step + .step::before { color: var(--ts-accent); }
+
+.reveal .parallel .track { border-top-width: 1px; }
+
+.reveal .throughline .answer.now {
+	border-top: 2px solid transparent;
+	border-image: linear-gradient(90deg, #7fe3f8, #e9a8fb) 1;
+}
+
+.reveal .throughline .answer.now .num { color: #e9a8fb; }
+
+/* ---- Images -------------------------------------------------------- */
+
+.reveal section.image-slide img,
+.reveal .image-notes img,
+.reveal .with-figure img {
+	border: 1px solid rgba(167, 139, 250, 0.28);
+	box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.4), 0 14px 44px rgba(0, 0, 0, 0.6);
+	background: #0e1018;
+}
+
+.reveal section.image-slide figure.portrait figcaption {
+	border-left-color: rgba(167, 139, 250, 0.35);
+}
+
+/* ---- Reveal chrome ------------------------------------------------- */
+
+.reveal .progress { height: 3px; color: transparent; background: rgba(255, 255, 255, 0.05); }
+.reveal .progress span { background: var(--mx-gradient); }
+.reveal .controls { color: var(--ts-accent); }
