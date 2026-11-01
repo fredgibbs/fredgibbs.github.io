@@ -464,19 +464,15 @@ The [1619 Project Discussion Post](1619-discussion-post) is due after Thursday's
 ### 12.2: The 1619 Project, Part 2
 If history were just an academic exercise, controversies about it would stay in seminar rooms. But history claims authority over the present and future — it shapes identity, legitimates policies, defines who "belongs," and who gets to make the rules. When those claims are contested, the fight is rarely really about whether the facts are right.
 
-- 📗 Adam Serwer, ["The Fight Over the 1619 Project Is Not About the Facts"](https://www.theatlantic.com/ideas/archive/2019/12/historians-clash-1619-project/604093/), *The Atlantic* (December 2019), ~15 pp. Serwer argues the controversy over the 1619 Project is less about factual errors than about whose version of America is at stake — a model for analyzing why history wars happen at all. Read first.
-- 📜 David Lowenthal, *The Heritage Crusade and the Spoils of History* (1998), Ch. 1, ~20 pp. Lowenthal argues that "heritage" and "history" are fundamentally different things — heritage comforts, history challenges. Read for the distinction and apply it to the 1619 case.
-- IN CLASS: ten minutes of writing by hand toward the personal connection in your [1619 post](1619-discussion-post). Bring paper; you'll hand it in.
+- 📗 Adam Serwer, ["The Fight Over the 1619 Project Is Not About the Facts"](https://www.theatlantic.com/ideas/archive/2019/12/historians-clash-1619-project/604093/), *The Atlantic* (December 2019), ~15 pp. Serwer argues the controversy over the 1619 Project is less about factual errors than about whose version of America is at stake — a model for analyzing why history wars happen at all. 
 
 #### Discussion
 - Serwer argues the fight over the 1619 Project isn't really about historical accuracy. What is it about?
-- What's the difference between Lowenthal's "heritage" and "history"? How does that distinction help explain why history wars happen?
-- Can you think of another current "history war"? What's really at stake in it?
 - Using Trouillot's framework from Week 9: where does the "silencing" happen when the 1619 Project gets banned from state school curricula?
 
 
 {% include alert.html class='danger' title='1619 Discussion Post due' text="
-Post your response to the discussion board by MIDNIGHT SUNDAY, following the [1619 Project Discussion Post guide](1619-discussion-post). You now have all three readings — Hannah-Jones, Serwer, and Lowenthal — so you have everything you need.
+Post your response to the discussion board by MIDNIGHT SUNDAY, following the [1619 Project Discussion Post guide](1619-discussion-post). 
 "%}
 
 
