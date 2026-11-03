@@ -21,16 +21,6 @@ Cited by Magazine page, which the Pulitzer Center PDF keeps. Quotations give the
 {: .citation-note}
 </section>
 
-<!-- ========== IMAGE: PYLE, 1901 ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="landscape">
-<img src="images/pyle-landing-negroes-jamestown-1901.jpg" alt="A black-and-white illustration: a three-masted ship at a landing on the left, armed colonists in broad-brimmed hats and doublets in the foreground, and several African captives seated on the ground between them, beside a wooden building with a small cupola">
-<figcaption markdown="span">
-"Landing Negroes at Jamestown from Dutch Man-of-War, 1619"
-<em>Howard Pyle drew the 1619 arrival in 1901, 282 years after it. Armed colonists fill the foreground; the captives sit on the ground at left.<br>(Howard Pyle, 1901. Wikimedia Commons. Public domain.)</em>
-</figcaption>
-</figure>
-</section>
 
 <!-- ========== THROUGHLINE ========== -->
 <section markdown="1">
@@ -107,6 +97,17 @@ The essay · August 18, 2019
 
 *The New York Times Magazine* gave the whole issue to the anniversary: ten essays, with poems and fiction. Her essay leads it, pp. 14–26, with photographs between the pages. The Pulitzer Center later turned the project into school materials.
 </div>
+</section>
+
+<!-- ========== IMAGE: THE MAGAZINE'S COVER ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="portrait">
+<img src="images/nyt-magazine-cover-2019-08-18.jpg" alt="A magazine cover: The New York Times Magazine in red blackletter over a gray sky, a flat dark sea below the horizon, and a paragraph of red type near the foot beginning In August of 1619, a ship appeared on this horizon, near Point Comfort, signed The 1619 Project">
+<figcaption markdown="span">
+The Magazine's cover · August 18, 2019
+<em>The sea off Point Comfort, Virginia, where its text says the 1619 ship appeared: "America was not yet America, but this was the moment it began."<br>(Dannielle Bowman for <i>The New York Times</i>. Fair use.)</em>
+</figcaption>
+</figure>
 </section>
 
 <!-- ================================================================ -->
@@ -192,7 +193,7 @@ Part one · the founding · the claim
 ###### The flag again
 {: .label}
 
-The passage ends with her father's flag: "And that no people has a greater claim to that flag than us" (p. 17).
+The passage ends with her father's flag: "And that no people has a greater claim to that flag than us" (p. 17). One critic grants much of this and still asks who a 1619 founding leaves out.
 </div>
 </section>
 
@@ -220,29 +221,6 @@ Black Americans, she writes, "believed fervently in the American creed" and "hel
 </div>
 </section>
 
-<!-- ========== ROBERT HEMINGS ========== -->
-<section markdown="1">
-Part one · the founding · the Declaration
-{: .eyebrow}
-
-## She puts an enslaved teenager beside Jefferson as he drafted the Declaration
-{: .main-point}
-
----
-
-<div class="quote compact" markdown="1">
-"As Jefferson composed his inspiring words, however, a teenage boy who would enjoy none of those rights and liberties waited nearby to serve at his master's beck and call. His name was Robert Hemings, and he was the half brother of Jefferson's wife, born to Martha Jefferson's father and a woman he owned."
-<div class="cite">Hannah-Jones, “The Idea of America,” p. 17</div>
-</div>
-
-<div class="reveal-block unpack compact fragment" data-fragment-index="1" markdown="1">
-
-###### Her method
-{: .label}
-
-The contradiction arrives as one named person rather than a number. Jefferson had chosen him, she writes, "from among about 130 enslaved people" at Monticello (p. 17).
-</div>
-</section>
 
 <!-- ========== IMAGE: DUNLAP BROADSIDE ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
@@ -275,7 +253,7 @@ Part one · the founding · the Revolution
 ###### Her evidence
 {: .label}
 
-In London, she writes, "there were growing calls to abolish the slave trade," which "would have upended the economy of the colonies, in both the North and the South" (p. 18).
+In London, she writes, "there were growing calls to abolish the slave trade," which "would have upended the economy of the colonies, in both the North and the South" (p. 18). Critics ask which colonists said so; it is probably the essay's most disputed sentence.
 </div>
 </section>
 
@@ -299,8 +277,45 @@ Part one · the founding · the Constitution
 ###### Her count
 {: .label}
 
-Of the Constitution's 84 clauses, "Six deal directly with the enslaved and their enslavement, as the historian David Waldstreicher has written, and five more hold implications for slavery" (p. 18).
+Of the Constitution's 84 clauses, "Six deal directly with the enslaved and their enslavement, as the historian David Waldstreicher has written, and five more hold implications for slavery" (p. 18). Its critics point to readers, Black and white, who saw the same document as a charter of liberty.
 </div>
+</section>
+
+<!-- ========== THE CLAUSES ========== -->
+<section markdown="1">
+Part one · the founding · the clauses
+{: .eyebrow}
+
+## The clauses protect slavery and call the enslaved only "persons"
+{: .main-point}
+
+---
+
+<div class="cards" markdown="1">
+<div class="card" markdown="1">
+
+#### Three fifths, for seats
+House seats and direct taxes follow a count "adding to the whole Number of free Persons . . . three fifths of all other Persons" (Art. I, sec. 2).
+</div>
+<div class="card" markdown="1">
+
+#### The trade, until 1808
+"The Migration or Importation of such Persons . . . shall not be prohibited by the Congress prior to the Year one thousand eight hundred and eight" (Art. I, sec. 9).
+</div>
+<div class="card" markdown="1">
+
+#### Insurrections suppressed
+The militia may "suppress Insurrections" (Art. I, sec. 8). It names no one; the essay reads it as aimed at the enslaved.
+</div>
+<div class="card" markdown="1">
+
+#### Escaped people returned
+"No Person held to Service or Labour in one State . . . escaping into another, shall . . . be discharged from such Service or Labour, but shall be delivered up" (Art. IV, sec. 2).
+</div>
+</div>
+
+U.S. Constitution, National Archives transcription. The essay names all but the first (p. 18).
+{: .cite}
 </section>
 
 <!-- ========== DISCUSSION: PART ONE ========== -->
@@ -313,11 +328,11 @@ Part one · discussion
 
 ---
 
-Her evidence runs from what enslaved people built to Hemings, the calls in London, and the clauses. Which shows slavery was central to the founding, not just present at it?
+Her evidence runs from what enslaved people built to the calls in London and the clauses. Which shows slavery was central to the founding, not just present at it?
 {: .question .fragment data-fragment-index="1"}
 
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-Probably the clauses, which were a founding choice. The labor and Hemings show slavery was present; the Revolution claim needs the colonists' motives, which are harder to show.
+Probably the clauses, which were a founding choice. The labor shows slavery was present; the Revolution claim needs the colonists' motives, which are harder to show.
 </div>
 </section>
 
@@ -361,7 +376,7 @@ Part two · the perfecters · August 1862
 
 <div class="quote compact" markdown="1">
 "You and we are different races. . . . Your race suffer very greatly, many of them, by living among us, while ours suffer from your presence. In a word, we suffer on each side."
-<div class="cite">Abraham Lincoln, August 14, 1862, quoted in Hannah-Jones, “The Idea of America,” p. 20</div>
+<div class="cite">Abraham Lincoln, August 14, 1862, as reported; quoted in Hannah-Jones, “The Idea of America,” p. 20</div>
 </div>
 
 <div class="reveal-block historical compact fragment" data-fragment-index="1" markdown="1">
@@ -369,7 +384,78 @@ Part two · the perfecters · August 1862
 ###### The answer she gives
 {: .label}
 
-Most freed people stayed, agreeing with an earlier convention of Black leaders: "This is our home, and this our country" (p. 20). She calls that "an astounding testament to their belief in this nation's founding ideals."
+Most freed people stayed, agreeing with an earlier convention of Black leaders: "This is our home, and this our country" (p. 20). She calls that "an astounding testament to their belief in this nation's founding ideals." Five historians call her Lincoln misleading: he read the Declaration as promising equality to all.
+</div>
+</section>
+
+<!-- ========== IMAGE: THE REPORT AS PRINTED, 1862 ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="portrait">
+<img src="images/press-1862-08-15-colonization-report.jpg" alt="Two clippings from a black-and-white newspaper column. The first is headed THE SCHEME OF COLONIZATION, Interview Between the President and a Committee of Colored Men, REMARKS OF THE PRESIDENT, over the report's opening paragraphs; below a dark gap, the second is a bracketed line: The above is merely given as the substance of the President's remarks">
+<figcaption markdown="span">
+The report as printed the next day · August 15, 1862
+<em>The Philadelphia <i>Press</i> ran it unsigned. It opens in the reporter's voice and ends: "[The above is merely given as the substance of the President's remarks.]"<br>(<i>The Press</i>, p. 2; two cuts, joined. Internet Archive. Public domain.)</em>
+</figcaption>
+</figure>
+</section>
+
+<!-- ========== TWO PRINTINGS ========== -->
+<section markdown="1">
+Part two · the perfecters · the report
+{: .eyebrow}
+
+## The 1862 papers disagree on his words; the essay quotes one version as his
+{: .main-point}
+
+---
+
+<div class="parallel compact" markdown="1">
+<div class="track" markdown="1">
+
+##### *The Press*, Philadelphia, August 15, 1862
+
+“And why,” he asked, “should the people of your race be colonized anywhere? Why should they leave this country? This is perhaps the first question for consideration. . . . In a word, we suffer from each other.”
+</div>
+<div class="track" markdown="1">
+
+##### Hannah-Jones, “The Idea of America”
+
+"Why should they leave this country? This is, perhaps, the first question for proper consideration," Lincoln told them. ". . . In a word, we suffer on each side." (p. 20)
+</div>
+</div>
+
+<div class="reveal-block historical compact fragment" data-fragment-index="1" markdown="1">
+
+###### The other version
+{: .label}
+
+The essay's wording is the version Lincoln's collected works print, where the reporter's narration runs straight into Lincoln's first person with no quotation marks. The *Press* used them. Neither names its writer.
+</div>
+</section>
+
+<!-- ========== DISCUSSION: THE WORDS OR THE IDEA ========== -->
+<section markdown="1">
+Part two · discussion · the report
+{: .eyebrow}
+
+## The words or the idea
+{: .main-point}
+
+---
+
+<div class="reveal-block compare compact" markdown="1">
+
+###### Compare · Week 2
+{: .label}
+
+Thucydides wrote his speakers' speeches himself, "keeping as closely as possible to the general sense of the words that were actually used" (1.22, quoted in Popkin, p. 30).
+</div>
+
+Do Lincoln's exact words matter to her point? If not, should we read the Constitution as closely as she does, counting clauses and a missing word, or is the idea what matters there too?
+{: .question .fragment data-fragment-index="1"}
+
+<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+Probably not for Lincoln: both printings carry the same plan. The Constitution's words were drafted, voted on and ratified, so a word left out can itself be evidence.
 </div>
 </section>
 
@@ -428,7 +514,7 @@ Part two · the perfecters · after 1877
 ###### What followed
 {: .label}
 
-In 1877 federal troops left the South, and white Southerners undid Reconstruction's gains. "Democracy would not return to the South for nearly a century," she writes (p. 21).
+She dates the end to 1877, when federal troops left the South and "white Southerners quickly went about eradicating the gains of Reconstruction." "Democracy would not return to the South for nearly a century" (p. 21). A critic objects to "DNA" itself, as a word that denies that racism changes.
 </div>
 </section>
 
@@ -463,7 +549,7 @@ Part two · the perfecters · the civil rights movement
 ###### Her example
 {: .label}
 
-The civil rights movement, she writes, "led to the passage of the Immigration and Nationality Act of 1965, which upended the racist immigration quota system intended to keep this country white" (p. 26).
+The civil rights movement, she writes, "led to the passage of the Immigration and Nationality Act of 1965, which upended the racist immigration quota system intended to keep this country white" (p. 26). Critics single out "alone"; one calls the fight for Black freedom everyone's fight.
 </div>
 </section>
 
@@ -509,46 +595,6 @@ It makes the past a claim on the present, which is the project's aim. It also ma
 </div>
 </section>
 
-<!-- ========== THE ARC ========== -->
-<section markdown="1">
-The lecture · looking back
-{: .eyebrow}
-
-## A founding retold, a democracy credited, and the flag her father flew
-{: .main-point}
-
----
-
-<div class="cards three" markdown="1">
-<div class="card" markdown="1">
-
-###### 01 · The founding, pp. 16–18
-{: .num}
-
-#### An ideal and a lie
-
-Slavery beside Jefferson as he wrote, one of the primary reasons for independence, and in the Constitution's clauses.
-</div>
-<div class="card" markdown="1">
-
-###### 02 · The perfecters, pp. 16, 20–26
-{: .num}
-
-#### Democracy pushed wider
-
-Reconstruction, the collapse after 1877, and a civil rights movement whose laws reached everyone.
-</div>
-<div class="card" markdown="1">
-
-###### 03 · The frame, pp. 16 and 26
-{: .num}
-
-#### Her father's flag
-
-From her embarrassment at it to "the most American of all."
-</div>
-</div>
-</section>
 
 <!-- ========== TAKE HOME ========== -->
 <section markdown="1">
@@ -573,28 +619,43 @@ Read from 1619, American history is the story of enslaved people and their desce
 ###### How it argues
 {: .label}
 
-With a journalist's evidence: a family, a named person beside Jefferson, a count of clauses, Reconstruction's laws. And in the first person plural.
+With a journalist's evidence: a family, what enslaved people built, a count of clauses, Reconstruction's laws. And in the first person plural.
 </div>
 
-<div class="takehome fragment compact" data-fragment-index="3" markdown="1">
-Its strength is also its exposure: reading every period through 1619 shows slavery's reach, and lets critics test each period's claim on its own.
+
+<div class="reveal-block argument compact fragment" data-fragment-index="3" markdown="1">
+
+###### What it does
+{: .label}
+
+Invites reflection on narrative absences and priorities. Imagine the proportion of whites and blacks in America becomes inverted. What will "American History" textbooks look like then? Is there only one history? Does national identity depend on one?
 </div>
+
+
+
 </section>
 
-<!-- ========== NEXT TIME ========== -->
-<section data-transition="fade" markdown="1">
-Next time · Week 12.2
+<!-- ========== CLOSING: THE COVER AGAIN ========== -->
+<section markdown="1">
+Closing · the cover again
 {: .eyebrow}
 
-## Five historians call parts of the essay wrong on the facts
+## The cover's last word
 {: .main-point}
 
 ---
 
-Read Serwer and Friedersdorf. The discussion post is due Sunday.
-{: .detail}
+<div class="with-figure" markdown="1">
+![The Magazine's cover, reduced: the masthead over a gray sky, a dark sea, and the opening paragraph in red type](images/nyt-magazine-cover-2019-08-18.jpg)
+<div class="body" markdown="1">
 
-- Which claim in the essay do you find strongest, and which weakest?
-- What did your own schooling teach you about 1619, or leave out?
-{: .questions .fragment data-fragment-index="1"}
+<div class="quote compact" markdown="1">
+"On the 400th anniversary of this fateful moment, it is finally time to tell our story truthfully."
+<div class="cite">The New York Times Magazine, cover, August 18, 2019</div>
+</div>
+
+We've discussed historical truth all semester. Does this claim undermine the whole project?
+{: .question .fragment data-fragment-index="1"}
+</div>
+</div>
 </section>

@@ -21,14 +21,24 @@ Thursday's deck is `../1619-project-debate/`, with its own `ISSUES.md`. The
 combined deck's notes on the debate (Serwer, Friedersdorf, the letter, the
 March 2020 editor's note) moved there.
 
-**Order.** Title; Pyle, 1901; throughline; portrait; the essay as a thing (the
-title-page summary and the issue). Part one, the founding: the flag, what
-enslaved people built, the Statue of Freedom, 1619 beside 1776, ideal and a
-lie, Robert Hemings, the Dunlap broadside, the Revolution claim, the
-Constitution, discussion. Part two, the perfecters: the claim, Lincoln in
-August 1862, Reconstruction, the 1872 lithograph, the collapse after 1877 and
+**Order.** Title; throughline; portrait; the essay as a thing (the title-page
+summary and the issue); the Magazine's cover. Part one, the founding: the flag, what enslaved people
+built, the Statue of Freedom, 1619 beside 1776, ideal and a lie, the Dunlap
+broadside, the Revolution claim, the Constitution, the clauses, discussion.
+Part two, the perfecters: the claim, Lincoln in
+August 1862, the report as printed (*The Press*, August 15, 1862), the two
+1862 versions beside the essay, a discussion on the words or the idea
+(Thucydides, the Constitution), Reconstruction, the 1872 lithograph, the
+collapse after 1877 and
 the "DNA" line, Isaac Woodard, "fought back alone," the ending, discussion.
-Then the arc, the take home, and next time.
+Then the take home, and a closing question on the cover.
+
+**Cut by the author, 2026-11-03:** the Pyle image slide, the Robert Hemings
+slide, the "next time" slide and the arc. The author also replaced the take
+home's closing `.takehome` with a third block, "What it does." The part one discussion and the take home's
+"How it argues" block named Hemings ("a named person beside Jefferson"); both
+now leave him out. `images/pyle-landing-negroes-jamestown-1901.jpg` is kept
+but unused.
 
 The essay's own order runs flag, 1619, labor, "perfecters," ideal and a lie,
 1619 beside 1776, Jefferson and Hemings, the Revolution, the Constitution,
@@ -55,6 +65,45 @@ argument it introduces.
   than Hannah-Jones's prose; the cite says "the title page" so the slide does
   not claim more.
 
+- **The 1862 report of Lincoln's meeting** (three slides after the Lincoln
+  slide, added 2026-11-03). Every text of Lincoln's August 14, 1862 remarks
+  descends from an unsigned newspaper report. Two versions were checked on page
+  images:
+  - *The Press* (Philadelphia), August 15, 1862, p. 2 (Internet Archive,
+    `per_the-press_the-press_1862-08-15_1`): headed "The Scheme of
+    Colonization. Interview Between the President and a Committee of Colored
+    Men. Remarks of the President." It sets Lincoln's words in quotation marks
+    and reads "colonized anywhere?", "the first question for consideration" and
+    "In a word, we suffer from each other." It closes "[The above is merely
+    given as the substance of the President's remarks.]"
+  - *National Anti-Slavery Standard*, August 23, 1862, p. 4 (Internet Archive),
+    under "The President Puddering with Colonization" and followed by "Comment
+    by the Tribune," so presumably the *New York Tribune*'s text. It runs the
+    narration straight into Lincoln's first person with no quotation marks and
+    reads "colonized, and where?", "proper consideration" and "we suffer on each
+    side." It carries the same "substance" line. *Douglass' Monthly*, September
+    1862 (Internet Archive OCR only, not the page image), has the same wording.
+
+  The essay quotes the second version. Its wording matches Nicolay and Hay,
+  *Complete Works* (1894; the Gutenberg text), and the American Presidency
+  Project's text, which says it "is identical to that in the Collected Works of
+  Abraham Lincoln. Volume 5." Basler's own page and source note were **not**
+  opened (the Michigan site returned 403), so the slide says "the version
+  Lincoln's collected works print" on that evidence. "Neither names its
+  writer": the *Press* runs it unsigned, and the Presidency Project's note says
+  of the papers that printed it, August 15–25, 1862, "None identified the
+  source."
+  Kate Masur, "The African American Delegation to Abraham Lincoln: A
+  Reappraisal," *Civil War History* 56 (2010), quotes the Collected Works text
+  as what Lincoln "famously told" the delegates; it was read for context and is
+  not cited on a slide.
+- **Thucydides 1.22** (the compare block): quoted from Popkin, *From Herodotus
+  to H-Net*, p. 30, the Week 2 reading, checked against the page image. The scan
+  has no text layer; its OCR is cached at
+  `~/Dropbox/courses/making-history/.research-packets/popkin-ch-2.ocr.txt`.
+  Popkin names no translator. `big-picture-review` quotes the second half of
+  the same sentence.
+
 ## Facts that rest on something other than the essay
 
 - **The issue** ("ten essays, with poems and fiction"; the Pulitzer Center
@@ -78,32 +127,126 @@ argument it introduces.
 - **The title slide has no `Background:` reading.** The session has one
   reading. `deck-check.sh` reports "narrator: (none found)", which is correct.
 - **Lincoln is quoted through the essay** ("Abraham Lincoln, August 14, 1862,
-  quoted in Hannah-Jones") and gets no portrait. The slide is about her use of
-  him, which is what Thursday's letter disputes.
-- **Names that appear once**: Robert Hemings (the subject of his slide),
-  David Waldstreicher (the source of her clause count, and the essay's own
-  attribution), Thomas Crawford and John Dunlap (makers of what is shown), and
-  Pyle. Each is the maker or subject of the thing on screen.
+  as reported; quoted in Hannah-Jones") and gets no portrait. The slide is about
+  her use of him, which is what Thursday's letter disputes. "As reported" was
+  added on 2026-11-03 with the three slides that follow it.
+- **The report slides were added at the author's direction** (2026-11-03):
+  > i'd like a slide or two after that one to make the point that it's an
+  > account (and show the original printing), show it gets used as a quote, and
+  > remind students we saw this in thucydides. ask again in that comparison to
+  > earlier if that exact words matter? if not, should the constitution be read
+  > so closely (or is it the idea that matters?)
+
+  They are three slides, not two: the printing (an image slide), the two
+  versions beside the essay (a `.parallel`, since the *Press* and the essay are
+  two writers), and the question. The image is **two crops joined** (the
+  report's head and its closing line), which the caption says.
+- **Part two has two discussion slides** (guide: one per part). The second,
+  "The words or the idea," is the author's question and belongs beside the
+  evidence it asks about, not at the end of the part. Its takehome ("Probably
+  not for Lincoln … a word left out can itself be evidence") is a hedged
+  reading, like the others, and "drafted, voted on and ratified" is general
+  knowledge, not the essay.
+- **The *Press*'s quotation marks.** In the *Press*, "Why should they leave
+  this country?" sits inside Lincoln's quotation marks, so "they" is not
+  evidence of the reporter's voice. The slide rests the "account" point on the
+  report's own closing line and its third-person opening, not on that pronoun.
+- **Names that appear once**: David Waldstreicher (the source of her clause
+  count, and the essay's own attribution), Thomas Crawford and John Dunlap
+  (makers of what is shown), *The Press* and Thucydides (the compare block).
+  Each is the maker or subject of the thing on screen.
+- **Disputed claims carry a hint of the dispute** (author's request,
+  2026-11-03: "on the points/quotes that jones makes that get disputed, can we
+  make sure the second reveal paragraph on those slides hints at that?"). Each
+  of those slides has one reveal block after the quotation; the hint is its
+  last sentence. The hints name no one, quote no critic, and do not settle
+  anything; Thursday's deck does that. What each points to:
+
+  | Tuesday slide | Hint | Thursday |
+  |---|---|---|
+  | 1619 beside 1776 | "One critic grants much of this and still asks who a 1619 founding leaves out." | Friedersdorf's founding-date slide |
+  | The Revolution | "Critics ask which colonists said so; it is probably the essay's most disputed sentence." | Wood; "This is not true"; the March 2020 revision |
+  | The Constitution | "Its critics point to readers, Black and white, who saw the same document as a charter of liberty." | The letter's Douglass and Lincoln, "a GLORIOUS LIBERTY DOCUMENT" |
+  | Lincoln, 1862 | "Five historians call her Lincoln misleading: he read the Declaration as promising equality to all." | The "misleading" card; "who won freedom" |
+  | After 1877, "DNA" | "A critic objects to 'DNA' itself, as a word that denies that racism changes." | Oakes, "deny change over time" |
+  | "Alone" | "Critics single out 'alone'; one calls the fight for Black freedom everyone's fight." | The "distorted" card; Wilentz, "a fight for everyone" |
+
+  "Ideal and a lie" gets no hint: the letter disputes the Declaration's
+  meaning through Lincoln, which the Lincoln hint carries. "Five historians"
+  matches the throughline's 12.2 node.
+- **The clauses slide** (added 2026-11-03 at the author's request: the clauses
+  "are presented quite abstractly right now"). Quotations are from the
+  National Archives transcription (archives.gov, "The Constitution of the
+  United States: A Transcription"), elided with ". . .". The essay (p. 18)
+  names the slave trade, the militia against insurrections ("allowed Congress
+  to mobilize the militia to put down insurrections by the enslaved") and the
+  return of people who escaped, plus protection of enslavers' "property"; it
+  does not name the three-fifths clause, which the slide adds as the most
+  familiar and the cite says so. The militia card says the clause "names no
+  one," which is the point of "five more hold implications for slavery."
 - **Discussion takehomes are hedged readings, not the essay's.** Part one's
   ("Probably the clauses...") separates evidence that slavery was present at the
   founding from evidence that it was central; it anticipates the critics without
   naming them. Part two's turns on the first person. Both are meant to be argued
   with.
-- **The take home's catch** ("reading every period through 1619... lets
-  critics test each period's claim on its own") is the bridge to Thursday.
+- **The take home's catch** ("reading every period through 1619 ... lets
+  critics test each period's claim on its own") was the bridge to Thursday
+  until the author replaced it on 2026-11-03 with "What it does." The
+  disputed-claim hints (below) now carry that bridge.
 - **Quotations keep the source's lowercase "black."** The deck's own voice
   says "Black Americans."
 - **The Revolution quotation is the August 2019 wording**, and its cite says
   "as printed in August 2019." The March 2020 change is on Thursday.
-- **No "compare" blocks and no course cross-references.** The discussion post
-  asks students to find the connections themselves. The schedule's third 12.1
-  question (Trouillot) is not on a slide for the same reason.
+- **One "compare" block only**: Week 2, Thucydides on speeches, at the
+  author's request (above). Otherwise no course cross-references, because the
+  discussion post asks students to find the connections themselves. The
+  schedule's third 12.1 question (Trouillot) is not on a slide for the same
+  reason.
 - **Parts do not open with a `.detail` line** (guide, "Structure," item 4).
   Each part's first slide is a quote slide, where a `.detail` above the
   quotation fails the order check; the eyebrow names the part.
 - **The essay's date.** The schedule says August 19, 2019; the PDF's masthead
   says August 18 (the Magazine's issue date; the web version ran August 14).
   The deck uses August 18.
+
+- **1877 is her claim, quoted, not the deck's** (author's query, 2026-11-03:
+  "what is the evidence or citations to historians for this? it seems too big
+  just to state"). The block had said, in the deck's voice, "In 1877 federal
+  troops left the South, and white Southerners undid Reconstruction's gains."
+  It now attributes the dating to her and quotes her: "white Southerners
+  quickly went about eradicating the gains of Reconstruction" (p. 21). The
+  essay cites no historian for it and has no notes. The standard scholarly
+  account, and the argument that "quickly" compresses a process running into
+  the 1890s and 1900s, are in no reading this deck has open, so neither is on
+  the slide. To add them, open a source (Foner's *Reconstruction*, for
+  instance) and quote or paraphrase it with a chapter cite. The same day, arc
+  card 01's "Slavery beside Jefferson as he wrote" (the cut Hemings slide)
+  became "Slavery in what enslaved people built."
+
+- **The Magazine's cover is fair use** (added 2026-11-03 at the author's
+  request: "can we get an iamge of the 1619 nyt magazine cover? maybe right
+  after 'the essay' slide?"). No free copy exists: Commons has only the
+  project's wordmark and logo, and English Wikipedia's article carries no
+  cover. The image is rendered from page 1 of the Pulitzer Center's full-issue
+  PDF (Zotero `EBWH6A88/full_issue_of_the_1619_project.pdf`), which the Center
+  distributes free for teaching; see `images/README.md`. The caption's
+  location follows the cover's own text ("a ship appeared on this horizon, near
+  Point Comfort") and the issue's "Behind the Cover" note (p. 7), which says
+  the editors "commissioned the photographer Dannielle Bowman to photograph the
+  water off the coast of Hampton, Va." The quoted line is the cover's.
+
+- **The closing slide repeats the cover** (author's request, 2026-11-03: "i'd
+  like to repeat the nyt mag cover iamge as the last slide to ask students if
+  the 'truthfully' part in the cover undermines their cause"). It is a
+  discussion slide in the `.with-figure` form (guide, "Discussion slides"),
+  not a captioned image slide, so the question is set as a `.question` rather
+  than in caption type. The quotation is the cover's last sentence, checked
+  against page 1 of the full-issue PDF. The question is the author's wording
+  ("undermind" corrected). Two departures from the guide, both kept: "We've
+  discussed historical truth all semester" comments on the course (guide,
+  "Voice"), and there is no `.takehome`, since the question is left open on
+  purpose; a closing question that "needs the whole session behind it" is
+  allowed (guide, "Structure," item 9).
 
 ## Open: the discussion-post page still names Lowenthal
 
@@ -125,7 +268,7 @@ side, then where they come down.
 
 - `scripts/slide-words.py`: every container within its target.
 - `scripts/deck-check.sh making-history/1619-project`: 27 slides, 0 fail,
-  0 warn. An early run failed slide 9 for "1776" before an introduction: the
+  0 warn; after the report slides (2026-11-03), 30 slides, 0 fail, 0 warn; after the author's cuts, the clauses slide and the hints, 28 slides, 0 fail, 0 warn; with both cover slides, 29 slides, 0 fail, 0 warn (the clauses slide first overflowed at 758px; card headings cut to one line and the quotations elided). An early run failed slide 9 for "1776" before an introduction: the
   checker took the year in the Dunlap caption's title ("…Philadelphia, July
   1776") as a surname. The title now puts a `·` before the place and date.
 - Every slide looked at in headless Chrome at 960×700 with fragments forced
