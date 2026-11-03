@@ -424,13 +424,6 @@ Part two · the perfecters · the report
 </div>
 </div>
 
-<div class="reveal-block historical compact fragment" data-fragment-index="1" markdown="1">
-
-###### The other version
-{: .label}
-
-The essay's wording is the version Lincoln's collected works print, where the reporter's narration runs straight into Lincoln's first person with no quotation marks. The *Press* used them. Neither names its writer.
-</div>
 </section>
 
 <!-- ========== DISCUSSION: THE WORDS OR THE IDEA ========== -->
