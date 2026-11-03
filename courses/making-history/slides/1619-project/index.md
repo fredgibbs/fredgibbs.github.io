@@ -1,25 +1,23 @@
 ---
 layout: reveal-lecture
-title: "The 1619 Project — Hannah-Jones, Serwer, and Friedersdorf"
+title: "The 1619 Project, Part 1 — Hannah-Jones, “The Idea of America”"
 image_slides: true
 ---
 
 <!-- ========== TITLE ========== -->
 <section data-transition="fade" markdown="1">
-Making History • HIST 1105 • Weeks 12.1 and 12.2
+Making History • HIST 1105 • Week 12.1
 {: .eyebrow}
 
-# The 1619 Project, and the fight over it
+# The 1619 Project and "The Idea of America"
 {: .main-point}
 
 ---
 
-- Background: Adam Serwer, "The Fight Over the 1619 Project Is Not About the Facts," *The Atlantic* (December 23, 2019)
-- Nikole Hannah-Jones, "The Idea of America," *The New York Times Magazine* (August 18, 2019), 16–26
-- Conor Friedersdorf, "1776 Honors America's Diversity in a Way 1619 Does Not," *The Atlantic* (January 2020)
+- Nikole Hannah-Jones, "The Idea of America," *The New York Times Magazine* (August 18, 2019), 14–26
 {: .source-list}
 
-Hannah-Jones is cited by Magazine page, which the Pulitzer Center PDF keeps. Serwer and Friedersdorf are cited by article, since the online texts have no pages.
+Cited by Magazine page, which the Pulitzer Center PDF keeps. Quotations give the essay as printed in August 2019.
 {: .citation-note}
 </section>
 
@@ -61,24 +59,20 @@ Probability. A chatbot's history follows what was written down most often.
 </div>
 <div class="answer now" markdown="1">
 
-###### Week 12 · The 1619 Project
+###### Week 12.1 · Hannah-Jones
 {: .num}
 
-A public argument about the founding, and whether the fight is over facts.
+A journalist sets 1619 beside 1776 and credits Black Americans with making the democracy.
 </div>
 <div class="answer next" markdown="1">
 
-###### Week 13 · Science and nature
+###### Week 12.2 · The fight over it
 {: .num}
 
-Who gets to say what counts as knowledge, and what follows from that authority.
+Five historians call parts of it errors of fact; the Times calls them interpretation.
 </div>
 </div>
 </section>
-
-<!-- ================================================================ -->
-<!-- ====== PART ONE: HANNAH-JONES, PP. 16–26 ======================== -->
-<!-- ================================================================ -->
 
 <!-- ========== IMAGE: HANNAH-JONES ========== -->
 <section class="image-slide" data-background="#0d1412" markdown="1">
@@ -86,14 +80,42 @@ Who gets to say what counts as knowledge, and what follows from that authority.
 <img src="images/hannah-jones-abraji-2018.jpg" alt="A woman with bright red curly hair and large gold hoop earrings, in a black top, speaking into a microphone and looking toward the camera against a dark background">
 <figcaption markdown="span">
 Nikole Hannah-Jones · b. 1976
-<em>A reporter at <i>The New York Times Magazine</i>, raised in Iowa. She conceived the 1619 Project (Serwer) and wrote its opening essay, which won the 2020 Pulitzer Prize for Commentary.<span class="why"><strong>Why she matters:</strong> her essay is the argument that started the debate Serwer and Friedersdorf address.</span>(Alice Vergueiro/Abraji, 2018. Wikimedia Commons, CC BY 2.0; cropped.)</em>
+<em>A reporter at <i>The New York Times Magazine</i>, raised in Iowa, whose reporting had centered on school segregation. She conceived the 1619 Project and wrote its opening essay, which won the 2020 Pulitzer Prize for Commentary.<span class="why"><strong>Why she matters:</strong> her essay states the project's central argument, that 1619 matters as much to the country as 1776.</span>(Alice Vergueiro/Abraji, 2018. Wikimedia Commons, CC BY 2.0; cropped.)</em>
 </figcaption>
 </figure>
 </section>
 
+<!-- ========== THE ESSAY AS A THING ========== -->
+<section markdown="1">
+The essay · August 18, 2019
+{: .eyebrow}
+
+## The essay opened a Magazine issue marking 400 years since 1619
+{: .main-point}
+
+---
+
+<div class="quote" markdown="1">
+"Our founding ideals of liberty and equality were false when they were written. Black Americans fought to make them true. Without this struggle, America would have no democracy at all."
+<div class="cite">Hannah-Jones, “The Idea of America,” p. 14, the title page</div>
+</div>
+
+<div class="reveal-block historical compact fragment" data-fragment-index="1" markdown="1">
+
+###### The issue
+{: .label}
+
+*The New York Times Magazine* gave the whole issue to the anniversary: ten essays, with poems and fiction. Her essay leads it, pp. 14–26, with photographs between the pages. The Pulitzer Center later turned the project into school materials.
+</div>
+</section>
+
+<!-- ================================================================ -->
+<!-- ====== PART ONE: THE FOUNDING, PP. 16–18 ======================== -->
+<!-- ================================================================ -->
+
 <!-- ========== THE FLAG ========== -->
 <section markdown="1">
-Part one · Hannah-Jones · the opening
+Part one · the founding · the opening
 {: .eyebrow}
 
 ## Hannah-Jones opens with her father's flag and what school taught her
@@ -115,9 +137,44 @@ He flew the flag anyway. He knew, she writes, "that our people's contributions t
 </div>
 </section>
 
+<!-- ========== WHAT THEY BUILT ========== -->
+<section markdown="1">
+Part one · the founding · the labor
+{: .eyebrow}
+
+## Her first evidence is what enslaved people built
+{: .main-point}
+
+---
+
+<div class="quote compact" markdown="1">
+"They built the plantations of George Washington, Thomas Jefferson and James Madison, sprawling properties that today attract thousands of visitors from across the globe captivated by the history of the world's greatest democracy. They laid the foundations of the White House and the Capitol, even placing with their unfree hands the Statue of Freedom atop the Capitol dome."
+<div class="cite">Hannah-Jones, “The Idea of America,” p. 16</div>
+</div>
+
+<div class="reveal-block unpack compact fragment" data-fragment-index="1" markdown="1">
+
+###### And the money
+{: .label}
+
+Profits from their "stolen labor," she writes, "helped the young nation pay off its war debts and financed some of our most prestigious universities" (p. 16).
+</div>
+</section>
+
+<!-- ========== IMAGE: STATUE OF FREEDOM ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="portrait">
+<img src="images/statue-of-freedom-capitol.jpg" alt="A dark bronze statue of a standing woman in a long robe and a feathered helmet, holding a sheathed sword and a wreath, on a round base lettered E PLURIBUS UNUM, against a pale sky">
+<figcaption markdown="span">
+The Statue of Freedom, U.S. Capitol dome
+<em>Thomas Crawford's bronze, raised to the top of the dome in 1863. The essay says enslaved people placed it there "with their unfree hands" (p. 16).<br>(Architect of the Capitol photograph. Wikimedia Commons. Public domain.)</em>
+</figcaption>
+</figure>
+</section>
+
 <!-- ========== 1619 AND 1776 ========== -->
 <section markdown="1">
-Part one · Hannah-Jones · the claim
+Part one · the founding · the claim
 {: .eyebrow}
 
 ## The essay argues that 1619 is as important as 1776
@@ -132,16 +189,16 @@ Part one · Hannah-Jones · the claim
 
 <div class="reveal-block unpack compact fragment" data-fragment-index="1" markdown="1">
 
-###### The project's aim
+###### The flag again
 {: .label}
 
-Serwer quotes the project's own statement of it: to place "the consequences of slavery and the contributions of black Americans at the very center of our national narrative."
+The passage ends with her father's flag: "And that no people has a greater claim to that flag than us" (p. 17).
 </div>
 </section>
 
 <!-- ========== IDEAL AND A LIE ========== -->
 <section markdown="1">
-Part one · Hannah-Jones · the contradiction
+Part one · the founding · the contradiction
 {: .eyebrow}
 
 ## She calls the founding both an ideal and a lie
@@ -163,9 +220,44 @@ Black Americans, she writes, "believed fervently in the American creed" and "hel
 </div>
 </section>
 
+<!-- ========== ROBERT HEMINGS ========== -->
+<section markdown="1">
+Part one · the founding · the Declaration
+{: .eyebrow}
+
+## She puts an enslaved teenager beside Jefferson as he drafted the Declaration
+{: .main-point}
+
+---
+
+<div class="quote compact" markdown="1">
+"As Jefferson composed his inspiring words, however, a teenage boy who would enjoy none of those rights and liberties waited nearby to serve at his master's beck and call. His name was Robert Hemings, and he was the half brother of Jefferson's wife, born to Martha Jefferson's father and a woman he owned."
+<div class="cite">Hannah-Jones, “The Idea of America,” p. 17</div>
+</div>
+
+<div class="reveal-block unpack compact fragment" data-fragment-index="1" markdown="1">
+
+###### Her method
+{: .label}
+
+The contradiction arrives as one named person rather than a number. Jefferson had chosen him, she writes, "from among about 130 enslaved people" at Monticello (p. 17).
+</div>
+</section>
+
+<!-- ========== IMAGE: DUNLAP BROADSIDE ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="portrait">
+<img src="images/dunlap-broadside-1776.jpg" alt="A yellowed printed broadside headed IN CONGRESS, JULY 4, 1776. A DECLARATION BY THE REPRESENTATIVES OF THE UNITED STATES OF AMERICA, with dense columns of small type below and John Hancock's name as president at the foot">
+<figcaption markdown="span">
+The Declaration as first printed · Philadelphia, July 1776
+<em>Jefferson's draft blamed the king for slavery and called the trade a crime, the essay says; the passage was struck, and the printed text never mentions slavery (p. 18).<br>(John Dunlap, printer. U.S. National Archives, via Wikimedia Commons. Public domain.)</em>
+</figcaption>
+</figure>
+</section>
+
 <!-- ========== THE REVOLUTION ========== -->
 <section markdown="1">
-Part one · Hannah-Jones · the Revolution
+Part one · the founding · the Revolution
 {: .eyebrow}
 
 ## The essay makes slavery a primary reason for the Revolution
@@ -187,9 +279,55 @@ In London, she writes, "there were growing calls to abolish the slave trade," wh
 </div>
 </section>
 
+<!-- ========== THE CONSTITUTION ========== -->
+<section markdown="1">
+Part one · the founding · the Constitution
+{: .eyebrow}
+
+## She says the Constitution protected slavery without naming it
+{: .main-point}
+
+---
+
+<div class="quote compact" markdown="1">
+"Similarly, 11 years later, when it came time to draft the Constitution, the framers carefully constructed a document that preserved and protected slavery without ever using the word. In the texts in which they were making the case for freedom to the world, they did not want to explicitly enshrine their hypocrisy, so they sought to hide it."
+<div class="cite">Hannah-Jones, “The Idea of America,” p. 18</div>
+</div>
+
+<div class="reveal-block historical compact fragment" data-fragment-index="1" markdown="1">
+
+###### Her count
+{: .label}
+
+Of the Constitution's 84 clauses, "Six deal directly with the enslaved and their enslavement, as the historian David Waldstreicher has written, and five more hold implications for slavery" (p. 18).
+</div>
+</section>
+
+<!-- ========== DISCUSSION: PART ONE ========== -->
+<section markdown="1">
+Part one · discussion
+{: .eyebrow}
+
+## Evidence for a founding
+{: .main-point}
+
+---
+
+Her evidence runs from what enslaved people built to Hemings, the calls in London, and the clauses. Which shows slavery was central to the founding, not just present at it?
+{: .question .fragment data-fragment-index="1"}
+
+<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
+Probably the clauses, which were a founding choice. The labor and Hemings show slavery was present; the Revolution claim needs the colonists' motives, which are harder to show.
+</div>
+</section>
+
+<!-- ================================================================ -->
+<!-- ====== PART TWO: THE PERFECTERS, PP. 16–26 ====================== -->
+<!-- ================================================================ -->
+
 <!-- ========== PERFECTERS ========== -->
 <section markdown="1">
-Part one · Hannah-Jones · the democracy claim
+Part two · the perfecters · the claim
 {: .eyebrow}
 
 ## She says Black Americans have been democracy's perfecters
@@ -202,12 +340,60 @@ Part one · Hannah-Jones · the democracy claim
 <div class="cite">Hannah-Jones, “The Idea of America,” p. 16</div>
 </div>
 
-<div class="reveal-block historical compact fragment" data-fragment-index="1" markdown="1">
+<div class="reveal-block unpack compact fragment" data-fragment-index="1" markdown="1">
 
-###### Her evidence
+###### Not only for themselves
 {: .label}
 
-During Reconstruction, "The South, for the first time in the history of this country, began to resemble a democracy, with black Americans elected to local, state and federal offices" (p. 20).
+Their struggles, she writes, "paved the way for every other rights struggle, including women's and gay rights, immigrant and disability rights" (p. 16).
+</div>
+</section>
+
+<!-- ========== LINCOLN, 1862 ========== -->
+<section markdown="1">
+Part two · the perfecters · August 1862
+{: .eyebrow}
+
+## Her Lincoln asks five free Black men to support sending freed people abroad
+{: .main-point}
+
+---
+
+<div class="quote compact" markdown="1">
+"You and we are different races. . . . Your race suffer very greatly, many of them, by living among us, while ours suffer from your presence. In a word, we suffer on each side."
+<div class="cite">Abraham Lincoln, August 14, 1862, quoted in Hannah-Jones, “The Idea of America,” p. 20</div>
+</div>
+
+<div class="reveal-block historical compact fragment" data-fragment-index="1" markdown="1">
+
+###### The answer she gives
+{: .label}
+
+Most freed people stayed, agreeing with an earlier convention of Black leaders: "This is our home, and this our country" (p. 20). She calls that "an astounding testament to their belief in this nation's founding ideals."
+</div>
+</section>
+
+<!-- ========== RECONSTRUCTION ========== -->
+<section markdown="1">
+Part two · the perfecters · Reconstruction
+{: .eyebrow}
+
+## Reconstruction is her main evidence that Black Americans perfected the democracy
+{: .main-point}
+
+---
+
+<div class="quote" markdown="1">
+"The South, for the first time in the history of this country, began to resemble a democracy, with black Americans elected to local, state and federal offices."
+<div class="cite">Hannah-Jones, “The Idea of America,” p. 20</div>
+</div>
+
+<div class="reveal-block historical compact fragment" data-fragment-index="1" markdown="1">
+
+###### What they built
+{: .label}
+
+Black legislators' "biggest achievement," she writes, was "that most democratic of American institutions: the public school," for white children as well as Black (p. 21).
 </div>
 </section>
 
@@ -217,219 +403,198 @@ During Reconstruction, "The South, for the first time in the history of this cou
 <img src="images/first-colored-senator-and-representatives-1872.jpg" alt="A black-and-white lithograph portrait of seven Black men in dark suits and bow ties, five seated in armchairs and two standing behind them, with their names and the title The First Colored Senator and Representatives printed below">
 <figcaption markdown="span">
 "The First Colored Senator and Representatives," 1872
-<em>Printed in the essay (p. 17) above its claim that Black Americans are the nation's true "founding fathers." At left sits the first Black man elected to the Senate.<br>(Currier &amp; Ives, 1872. Library of Congress, via Wikimedia Commons. Public domain.)</em>
+<em>Printed in the essay (p. 17) above its claim that Black Americans are the nation's true "founding fathers." At left, the first Black man elected to the Senate.<br>(Currier &amp; Ives, 1872. Library of Congress, via Wikimedia Commons. Public domain.)</em>
 </figcaption>
 </figure>
 </section>
 
-<!-- ================================================================ -->
-<!-- ====== PART TWO: THE FIGHT, DECEMBER 2019 ======================= -->
-<!-- ================================================================ -->
-
-<!-- ========== THE LETTER ========== -->
+<!-- ========== THE NADIR ========== -->
 <section markdown="1">
-Part two · Serwer · December 2019
+Part two · the perfecters · after 1877
 {: .eyebrow}
 
-## A letter from five historians escalated the fight over the project
+## Reconstruction's collapse is her evidence that racism runs in the country's "DNA"
 {: .main-point}
 
 ---
 
 <div class="quote" markdown="1">
-"Underlying each of the disagreements in the letter is not just a matter of historical fact but a conflict about whether Americans, from the Founders to the present day, are committed to the ideals they claim to revere."
-<div class="cite">Serwer, “The Fight Over the 1619 Project Is Not About the Facts”</div>
+"But it would not last. Anti-black racism runs in the very DNA of this country, as does the belief, so well articulated by Lincoln, that black people are the obstacle to national unity."
+<div class="cite">Hannah-Jones, “The Idea of America,” p. 21</div>
 </div>
 
 <div class="reveal-block historical compact fragment" data-fragment-index="1" markdown="1">
 
-###### The letter
+###### What followed
 {: .label}
 
-Sean Wilentz, a Princeton historian, circulated it. Four others signed, including James Oakes. It reached the Times on December 4, and a version ran on December 20 beside a rebuttal from the magazine's editor. Wilentz calls the project's idea "fantastic" and the letter a way "to help it."
+In 1877 federal troops left the South, and white Southerners undid Reconstruction's gains. "Democracy would not return to the South for nearly a century," she writes (p. 21).
 </div>
 </section>
 
-<!-- ========== THE CASE FOR ========== -->
-<section markdown="1">
-Part two · the case for the project
-{: .eyebrow}
-
-## Defenders say it fills a gap in what Americans learn
-{: .main-point}
-
----
-
-<div class="cards three" markdown="1">
-<div class="card" markdown="1">
-
-#### A gap in what students learn
-Few high-school students know that slavery caused the Civil War or that the Constitution protected it without naming it, the Southern Poverty Law Center found. Yale historian David Blight blames the American need to see history as "progress."
-</div>
-<div class="card" markdown="1">
-
-#### Readers say it changes what they see
-Hannah-Jones says people tell her they "feel like they are understanding the architecture of their country in a way that they had not."
-</div>
-<div class="card" markdown="1">
-
-#### It gave writers a platform
-Nell Irvin Painter, a Princeton historian who disagrees with parts of it, supports the project "as kind of a cultural event" that let Black journalists and writers "speak up in a really big way."
-</div>
-</div>
-
-Serwer, quoting the Southern Poverty Law Center, Blight, Hannah-Jones and Painter.
-{: .cite}
+<!-- ========== IMAGE: ISAAC WOODARD ========== -->
+<section class="image-slide" data-background="#0d1412" markdown="1">
+<figure class="landscape">
+<img src="images/woodard-and-mother-1946.jpg" alt="A black-and-white photograph of a young Black man in dark glasses and a work shirt sitting on a sofa beside an older Black woman in a polka-dot dress, who holds up a copy of the Daily Worker for him; its headline reads More Cities Join Buyers Strike, with Eyes Gouged Out by Cop lower down">
+<figcaption markdown="span">
+Isaac Woodard and his mother, Eliza, July 1946
+<em>In February, police had beaten him blind hours after his Army discharge. The essay calls his maiming "nothing unusual" (p. 21).<br>(<i>Sunday Worker</i>, 1946. Tamiment Library, NYU, via Wikimedia Commons. Public domain.)</em>
+</figcaption>
+</figure>
 </section>
 
-<!-- ========== THE CASE AGAINST ========== -->
+<!-- ========== ALONE ========== -->
 <section markdown="1">
-Part two · the case against the project
+Part two · the perfecters · the civil rights movement
 {: .eyebrow}
 
-## Critics object to the facts, the pessimism, and the method
-{: .main-point}
-
----
-
-<div class="cards three" markdown="1">
-<div class="card" markdown="1">
-
-#### The Revolution claim
-Teaching children that the Revolution was fought in part to secure slavery would give "a fundamental misunderstanding" of what America "stood for and has stood for since the Founding," Wilentz says.
-</div>
-<div class="card" markdown="1">
-
-#### The "DNA" claim
-Of her line that anti-black racism "runs in the very DNA of this country" (p. 21), Oakes says "there's nothing you can do," and the idea "leads to political paralysis."
-</div>
-<div class="card" markdown="1">
-
-#### Fact called framing
-The letter says the errors "cannot be described as interpretation or 'framing,'" that they are "matters of verifiable fact," and that they "suggest a displacement of historical understanding by ideology."
-</div>
-</div>
-
-Serwer, quoting Wilentz and Oakes; the historians' letter, as published December 20, 2019.
-{: .cite}
-</section>
-
-<!-- ========== WHERE SERWER LANDS ========== -->
-<section markdown="1">
-Part two · Serwer's verdicts
-{: .eyebrow}
-
-## Serwer splits his verdict on two disputed claims
-{: .main-point}
-
----
-
-<div class="parallel compact" markdown="1">
-<div class="track" markdown="1">
-
-##### The Revolution claim
-
-"On this question, the critics of the 1619 Project are on firm ground." The Revolution was "kindled in New England," though "some southern slave owners likely were fighting the British to preserve slavery." Hannah-Jones: "I do still back up that claim," but of her wording, "I accept that criticism, for sure." A Times editor's note of March 11, 2020 adjusted the passage to cover "some of the colonists."
-</div>
-<div class="track" markdown="1">
-
-##### The struggle "alone"
-
-The essay: "For the most part, black Americans fought back alone" (p. 24). Hannah-Jones to Serwer: "It is not saying that black people only fought alone. It is saying that most of the time we did." Serwer finds "largely alone" "more than defensible" for slavery and Jim Crow, though the struggle "has been an interracial struggle."
-</div>
-</div>
-</section>
-
-<!-- ========== FRIEDERSDORF ========== -->
-<section markdown="1">
-Part two · Friedersdorf · The Atlantic, January 2020
-{: .eyebrow}
-
-## Friedersdorf says 1776 includes more Americans than 1619 does
+## She argues Black Americans fought mostly alone, and won rights for everyone
 {: .main-point}
 
 ---
 
 <div class="quote" markdown="1">
-"Placing America's founding moment in 1776 honors the diversity of its people in a way that 1619 does not."
-<div class="cite">Friedersdorf, “1776 Honors America’s Diversity in a Way 1619 Does Not”</div>
+"For the most part, black Americans fought back alone. Yet we never fought only for ourselves. The bloody freedom struggles of the civil rights movement laid the foundation for every other modern rights struggle."
+<div class="cite">Hannah-Jones, “The Idea of America,” p. 24</div>
+</div>
+
+<div class="reveal-block historical compact fragment" data-fragment-index="1" markdown="1">
+
+###### Her example
+{: .label}
+
+The civil rights movement, she writes, "led to the passage of the Immigration and Nationality Act of 1965, which upended the racist immigration quota system intended to keep this country white" (p. 26).
+</div>
+</section>
+
+<!-- ========== THE ENDING ========== -->
+<section markdown="1">
+Part two · the perfecters · the ending
+{: .eyebrow}
+
+## The essay ends where it began, with a flag
+{: .main-point}
+
+---
+
+<div class="quote" markdown="1">
+"We were told once, by virtue of our bondage, that we could never be American. But it was by virtue of our bondage that we became the most American of all."
+<div class="cite">Hannah-Jones, “The Idea of America,” p. 26</div>
 </div>
 
 <div class="reveal-block unpack compact fragment" data-fragment-index="1" markdown="1">
 
-###### His reasoning
+###### Her own flag
 {: .label}
 
-He argues that "no racial group belongs" at the center of U.S. history "more or less than any other." The ideals of 1776, he writes, are ones "that all can share," and the Times offers no "adequate or even straightforward defense" of 1619 as the "true founding."
-</div>
-
-<div class="reveal-block argument compact fragment" data-fragment-index="2" markdown="1">
-
-###### Where he agrees with her
-{: .label}
-
-He concurs "that black abolitionists warrant status as Founding Fathers" and that "no people has a greater claim" than African Americans to the flag.
+Asked in school to draw the flag of her ancestral land, she picked "a random African country." Now she would tell her younger self "to boldly, proudly, draw the stars and those stripes of the American flag" (p. 26).
 </div>
 </section>
 
-<!-- ========== OBJECTIVITY ========== -->
-<section markdown="1">
-Part two · Wilentz and Hannah-Jones
-{: .eyebrow}
-
-## The two sides also disagree about whether history can be objective
-{: .main-point}
-
----
-
-<div class="parallel compact" markdown="1">
-<div class="track" markdown="1">
-
-##### Nikole Hannah-Jones, to Serwer
-
-On her tweets about white scholars: "I would never discount the work of any historian because that person is white or any other race." Her point "was that history is not objective. And that people who write history are not simply objective arbiters of facts."
-</div>
-<div class="track" markdown="1">
-
-##### Sean Wilentz, in reply
-
-"Fact and objectivity are the foundation of both honest journalism and honest history." He says she "says it's about the inability of anybody to write objective history. That's objectionable too."
-</div>
-</div>
-</section>
-
-<!-- ========== DISCUSSION ========== -->
+<!-- ========== DISCUSSION: PART TWO ========== -->
 <section markdown="1">
 Part two · discussion
 {: .eyebrow}
 
-## Where evidence stops
+## History in the first person
 {: .main-point}
 
 ---
 
-Serwer says the letter's disagreements are "not just a matter of historical fact" but a conflict over whether Americans, "from the Founders to the present day," are committed to their ideals. What can evidence settle?
+She opens and closes with her family and writes "we." What does that let a magazine essay do that a journal article could not, and what does it cost?
 {: .question .fragment data-fragment-index="1"}
 
 <div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-Evidence can settle much of what colonists said and did about slavery and independence. Whether the ideals they proclaimed were sincere is interpretation.
+It makes the past a claim on the present, which is the project's aim. It also makes it harder to separate what she shows from what she concludes.
 </div>
 </section>
 
-<!-- ========== THE POST ========== -->
-<section data-transition="fade" markdown="1">
-Discussion post · writing
+<!-- ========== THE ARC ========== -->
+<section markdown="1">
+The lecture · looking back
 {: .eyebrow}
 
-## Write toward your discussion post
+## A founding retold, a democracy credited, and the flag her father flew
 {: .main-point}
 
 ---
 
-Hannah-Jones begins with her father's flag. Your post is due by midnight Sunday.
+<div class="cards three" markdown="1">
+<div class="card" markdown="1">
+
+###### 01 · The founding, pp. 16–18
+{: .num}
+
+#### An ideal and a lie
+
+Slavery beside Jefferson as he wrote, one of the primary reasons for independence, and in the Constitution's clauses.
+</div>
+<div class="card" markdown="1">
+
+###### 02 · The perfecters, pp. 16, 20–26
+{: .num}
+
+#### Democracy pushed wider
+
+Reconstruction, the collapse after 1877, and a civil rights movement whose laws reached everyone.
+</div>
+<div class="card" markdown="1">
+
+###### 03 · The frame, pp. 16 and 26
+{: .num}
+
+#### Her father's flag
+
+From her embarrassment at it to "the most American of all."
+</div>
+</div>
+</section>
+
+<!-- ========== TAKE HOME ========== -->
+<section markdown="1">
+Take home
+{: .eyebrow}
+
+## The essay retells the founding to make a claim on the present
+{: .main-point}
+
+---
+
+<div class="reveal-block unpack compact fragment" data-fragment-index="1" markdown="1">
+
+###### What it argues
+{: .label}
+
+Read from 1619, American history is the story of enslaved people and their descendants making real the democracy the founders proclaimed and did not practice.
+</div>
+
+<div class="reveal-block argument compact fragment" data-fragment-index="2" markdown="1">
+
+###### How it argues
+{: .label}
+
+With a journalist's evidence: a family, a named person beside Jefferson, a count of clauses, Reconstruction's laws. And in the first person plural.
+</div>
+
+<div class="takehome fragment compact" data-fragment-index="3" markdown="1">
+Its strength is also its exposure: reading every period through 1619 shows slavery's reach, and lets critics test each period's claim on its own.
+</div>
+</section>
+
+<!-- ========== NEXT TIME ========== -->
+<section data-transition="fade" markdown="1">
+Next time · Week 12.2
+{: .eyebrow}
+
+## Five historians call parts of the essay wrong on the facts
+{: .main-point}
+
+---
+
+Read Serwer and Friedersdorf. The discussion post is due Sunday.
 {: .detail}
 
-- Which side of the debate do you find more convincing, and what is the best thing the other side has?
-- What from your own life does this connect to? A history class, a family argument, a statue or a street name.
+- Which claim in the essay do you find strongest, and which weakest?
+- What did your own schooling teach you about 1619, or leave out?
 {: .questions .fragment data-fragment-index="1"}
 </section>
