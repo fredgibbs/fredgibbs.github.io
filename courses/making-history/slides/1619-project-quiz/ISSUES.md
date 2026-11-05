@@ -17,17 +17,17 @@ The quiz is a Word file outside the repo:
 statements must match the `.question` lines here word for word.** Change one,
 change both.
 
-**Order.** Title. Part one, the essay's claims (questions 1–5: the
-Revolution, the founding ideals, Lincoln, "alone," "DNA"), opened by the
-Statue of Freedom, with Dunmore, the 1862 report and Woodard as image breaks,
-then a discussion. Part two, the fight (6–10: fact or interpretation,
-corrections, who writes history, the founding date, what schools taught),
-opened by the 1899 Pledge photograph, with Du Bois and the Declaration as
-image breaks, then a discussion. Part three, the course (11–13: Carr,
-Trouillot, Jenkins), opened by Gettysburg 1913, then a discussion, which ends
-the deck. The author cut the arc, take home and closing slides on 2026-11-05
-for length ("i need fewer"); the review rows below about those slides
-describe text that no longer exists.
+**Order.** Title, then the thirteen question slides and nothing else. Part
+one, the essay's claims (questions 1–5: the Revolution, the founding ideals,
+Lincoln, "alone," "DNA"). Part two, the fight (6–10: fact or interpretation,
+corrections, who writes history, the founding date, what schools taught).
+Part three, the course (11–13: Carr, Trouillot, Jenkins), which ends the deck.
+The author cut the arc, take home and closing slides on 2026-11-05 for length
+("i need fewer"), then cut every image slide, the part openers, the three
+discussion slides and the title slide's reading list: "streamlined to
+discussing the t/f questions." The review rows and notes below about those
+slides describe text that no longer exists. `image_slides: true` is dropped
+from the front matter, and `images/` is no longer referenced by the deck.
 
 ## The question slide is a new arrangement
 

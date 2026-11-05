@@ -1,7 +1,6 @@
 ---
 layout: reveal-lecture
 title: "The 1619 Project quiz — Hannah-Jones, the historians' letter, Serwer, Friedersdorf, and the course"
-image_slides: true
 ---
 
 <!-- ========== TITLE ========== -->
@@ -11,32 +10,6 @@ Making History • HIST 1105 • Week 12.2
 
 # The 1619 quiz, argued both ways
 {: .main-point}
-
----
-
-- Background: Adam Serwer, "The Fight Over the 1619 Project Is Not About the Facts," *The Atlantic* (December 23, 2019)
-- Nikole Hannah-Jones, "The Idea of America," *The New York Times Magazine* (August 18, 2019), 14–26
-- Conor Friedersdorf, "1776 Honors America's Diversity in a Way 1619 Does Not," *The Atlantic* (January 6, 2020)
-- The historians' letter and Jake Silverstein's reply, *The New York Times Magazine* (December 20, 2019)
-- Earlier weeks: Carr, *What Is History?*, ch. 1; Trouillot, *Silencing the Past*, ch. 1; Jenkins, *Re-thinking History*, ch. 3
-{: .source-list}
-</section>
-
-<!-- ================================================================ -->
-<!-- ====== PART ONE: THE ESSAY'S CLAIMS, QUESTIONS 1–5 =============== -->
-<!-- ================================================================ -->
-
-<!-- ========== OPENER: THE STATUE OF FREEDOM ========== -->
-<section class="image-slide bleed"
- data-background-image="images/statue-of-freedom-capitol.jpg"
- data-background-size="contain"
- data-background-color="#0d1412" markdown="1">
-
-A dark bronze statue of a standing woman in a long robe and a feathered helmet, holding a sheathed sword and a wreath, on a round base lettered E PLURIBUS UNUM, against a pale sky
-{: .bleed-alt}
-
-Thomas Crawford, *Statue of Freedom*, raised to the top of the Capitol dome in 1863 · Architect of the Capitol photograph · public domain
-{: .credit}
 
 </section>
 
@@ -71,17 +44,6 @@ Slaveholders' "uneasiness" about "growing antislavery sentiment in Britain and i
 <div class="takehome fragment compact" data-fragment-index="3" markdown="1">
 The word "partly" decides it. Some planters probably feared for slavery, Wood finds no colonist who said so, and the Times later narrowed the sentence to some colonists.
 </div>
-</section>
-
-<!-- ========== IMAGE: DUNMORE'S PROCLAMATION ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="images/dunmore-proclamation-1775.jpg" alt="A worn printed broadside headed By His Excellency the Right Honorable John Earl of Dunmore, with A PROCLAMATION in large capitals and a long paragraph of small type, signed DUNMORE and ending GOD save the KING">
-<figcaption markdown="span">
-Lord Dunmore's proclamation · November 7, 1775
-<em>Virginia's royal governor declared free the enslaved men of rebels "that are able and willing to bear Arms" for the King. The reply calls it the culmination of the slavery dispute.<br>(Library of Congress, via Wikimedia Commons. Public domain.)</em>
-</figcaption>
-</figure>
 </section>
 
 <!-- ========== Q2: THE FOUNDING IDEALS ========== -->
@@ -150,17 +112,6 @@ Her Lincoln "opposed slavery as a cruel system at odds with American ideals, but
 </div>
 </section>
 
-<!-- ========== IMAGE: THE 1862 REPORT ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="images/press-1862-08-15-colonization-report.jpg" alt="Two clippings from a black-and-white newspaper column. The first is headed THE SCHEME OF COLONIZATION, Interview Between the President and a Committee of Colored Men, REMARKS OF THE PRESIDENT, over the report's opening paragraphs; below a dark gap, the second is a bracketed line: The above is merely given as the substance of the President's remarks">
-<figcaption markdown="span">
-The report of Lincoln's meeting · August 15, 1862
-<em>The Philadelphia <i>Press</i> ran it unsigned, the day after he asked five free Black men to support sending freed people abroad. The essay quotes this meeting (p. 20).<br>(<i>The Press</i>, p. 2; two cuts, joined. Internet Archive. Public domain.)</em>
-</figcaption>
-</figure>
-</section>
-
 <!-- ========== Q4: ALONE ========== -->
 <section markdown="1">
 Part one · the essay's claims · question 4
@@ -194,17 +145,6 @@ Count the centuries and allies were few; count the turning points and they were 
 </div>
 </section>
 
-<!-- ========== IMAGE: ISAAC WOODARD ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="landscape">
-<img src="images/woodard-and-mother-1946.jpg" alt="A black-and-white photograph of a young Black man in dark glasses and a work shirt sitting on a sofa beside an older Black woman in a polka-dot dress, who holds up a copy of the Daily Worker for him; its headline reads More Cities Join Buyers Strike, with Eyes Gouged Out by Cop lower down">
-<figcaption markdown="span">
-Isaac Woodard and his mother, Eliza, July 1946
-<em>In February, police had beaten him blind hours after his Army discharge. The essay calls his maiming "nothing unusual" (p. 21).<br>(<i>Sunday Worker</i>, 1946. Tamiment Library, NYU, via Wikimedia Commons. Public domain.)</em>
-</figcaption>
-</figure>
-</section>
-
 <!-- ========== Q5: DNA ========== -->
 <section markdown="1">
 Part one · the essay's claims · question 5
@@ -236,42 +176,6 @@ The sentence is hers (p. 21). After Reconstruction, "Democracy would not return 
 <div class="takehome fragment compact" data-fragment-index="3" markdown="1">
 The fight is over the metaphor. Oakes reads "DNA" as fixed; Serwer reads the project's theme as progress that is "fragile and reversible," which admits change.
 </div>
-</section>
-
-<!-- ========== PART ONE DISCUSSION ========== -->
-<section markdown="1">
-Part one · discussion
-{: .eyebrow}
-
-## Claims and qualifiers
-{: .main-point}
-
----
-
-Which of these five statements could a document settle, and which turn on a single word?
-{: .question .fragment data-fragment-index="1"}
-
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-Probably only the first, and only in part. The rest turn on "false," "at heart," "for the most part" and "DNA": judgments no document makes for you.
-</div>
-</section>
-
-<!-- ================================================================ -->
-<!-- ====== PART TWO: THE FIGHT, QUESTIONS 6–10 ======================= -->
-<!-- ================================================================ -->
-
-<!-- ========== OPENER: THE PLEDGE, 1899 ========== -->
-<section class="image-slide bleed"
- data-background-image="images/pledge-whittier-1899.jpg"
- data-background-size="contain"
- data-background-color="#0d1412" markdown="1">
-
-A black and white photograph: rows of Black schoolchildren on a bare field, right arms stretched out toward an American flag held by a small boy at the left, with leafless trees behind
-{: .bleed-alt}
-
-Frances Benjamin Johnston, saluting the flag at the Whittier Primary School, Hampton Institute, Virginia, 1899 or 1900 · Library of Congress · no known restrictions
-{: .credit}
-
 </section>
 
 <!-- ========== Q6: FACT OR INTERPRETATION ========== -->
@@ -340,17 +244,6 @@ The premise is Silverstein's own concession, not the letter's argument. Whether 
 </div>
 </section>
 
-<!-- ========== IMAGE: DU BOIS ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="images/du-bois-battey-c1919.jpg" alt="A sepia studio portrait of a Black man with a receding hairline, a moustache and a pointed beard, in a dark suit, high white collar and striped tie, looking toward the camera">
-<figcaption markdown="span">
-W. E. B. Du Bois · about 1919
-<em>His <i>Black Reconstruction</i> (1935) challenged the consensus, shaped by the Dunning School, that blamed Reconstruction's failures on "Negro ignorance and corruption." Both sides of the 1619 fight cite that episode.<br>(C. M. Battey. Library of Congress. Public domain.)</em>
-</figcaption>
-</figure>
-</section>
-
 <!-- ========== Q8: WHO WRITES HISTORY ========== -->
 <section markdown="1">
 Part two · the fight · question 8
@@ -382,17 +275,6 @@ Her point "was that history is not objective," and that white scholars "are no m
 <div class="takehome fragment compact" data-fragment-index="3" markdown="1">
 Serwer reads the Dunning School both ways: as "the danger of a monochromatic group of historians," or, for Wilentz, "the risk that ideologues can hijack the narrative."
 </div>
-</section>
-
-<!-- ========== IMAGE: THE DECLARATION ========== -->
-<section class="image-slide" data-background="#0d1412" markdown="1">
-<figure class="portrait">
-<img src="images/dunlap-broadside-1776.jpg" alt="A yellowed printed broadside headed IN CONGRESS, JULY 4, 1776. A DECLARATION BY THE REPRESENTATIVES OF THE UNITED STATES OF AMERICA, with dense columns of small type below and John Hancock's name as president at the foot">
-<figcaption markdown="span">
-The Declaration as first printed · Philadelphia, July 1776
-<em>Friedersdorf wants children taught that the country was founded on this day, "with the declaration of those revolutionary ideals."<br>(John Dunlap, printer. U.S. National Archives, via Wikimedia Commons. Public domain.)</em>
-</figcaption>
-</figure>
 </section>
 
 <!-- ========== Q9: 1776 OR 1619 ========== -->
@@ -459,42 +341,6 @@ She "had been taught, in school, through cultural osmosis," that "our history as
 <div class="takehome fragment compact" data-fragment-index="3" markdown="1">
 Historians had written the story, and the essay leans on them; many classrooms had not taught it. "New" depends on who the reader is.
 </div>
-</section>
-
-<!-- ========== PART TWO DISCUSSION ========== -->
-<section markdown="1">
-Part two · discussion
-{: .eyebrow}
-
-## Agreement without an ending
-{: .main-point}
-
----
-
-Where do the five historians and the project agree, and why didn't that agreement end the fight?
-{: .question .fragment data-fragment-index="1"}
-
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-Both agree, Serwer finds, "that slavery's legacy still shapes American life." They split over who drove the progress since: the founding's ideals, or Black Americans' struggle.
-</div>
-</section>
-
-<!-- ================================================================ -->
-<!-- ====== PART THREE: THE COURSE, QUESTIONS 11–13 =================== -->
-<!-- ================================================================ -->
-
-<!-- ========== OPENER: GETTYSBURG, 1913 ========== -->
-<section class="image-slide bleed"
- data-background-image="images/gettysburg-reunion-1913.jpg"
- data-background-size="contain"
- data-background-color="#0d1412" markdown="1">
-
-A sepia photograph: two lines of elderly bearded men in hats and suits reach across a bank of shrubs under a tree to shake hands, with an open field behind them
-{: .bleed-alt}
-
-Union and Confederate veterans shake hands at the Angle, Gettysburg reunion, July 1913 · International News Service · Library of Congress · no known restrictions
-{: .credit}
-
 </section>
 
 <!-- ========== Q11: CARR ========== -->
@@ -595,22 +441,3 @@ The five historians' account of the founding is as ideological as the 1619 Proje
 It turns on "as." Jenkins holds that every account has a position; Carr, that positions can still be weighed against the evidence.
 </div>
 </section>
-
-<!-- ========== PART THREE DISCUSSION ========== -->
-<section markdown="1">
-Part three · discussion
-{: .eyebrow}
-
-## Both true and false
-{: .main-point}
-
----
-
-Every statement on the quiz could be argued both ways. Does that make historical truth a matter of opinion?
-{: .question .fragment data-fragment-index="1"}
-
-<div class="takehome fragment compact" data-fragment-index="2" markdown="1">
-Probably not. Both sides argued from the same documents, and the Revolution sentence was narrowed to some colonists once its scope was challenged. Interpretation is unavoidable, not unlimited.
-</div>
-</section>
-
