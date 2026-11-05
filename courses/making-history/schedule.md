@@ -466,6 +466,7 @@ The [1619 Project Discussion Post](1619-discussion-post) is due on SUNDAY. But w
 If history were just an academic exercise, controversies about it would stay in seminar rooms. But history claims authority over the present and future — it shapes identity, legitimates policies, defines who "belongs," and who gets to make the rules. When those claims are contested, the fight is rarely really about whether the facts are right.
 
 <!-- - Slides of [The fight over the 1619 Project](slides/1619-project-debate/) -->
+<!-- - Slides of [The 1619 Project quiz](slides/1619-project-quiz/) -->
 - 📗 Adam Serwer, "The Fight Over the 1619 Project Is Not About the Facts," *The Atlantic* (December 2019), ~15 pp. The PDF is in the Zotero library. Serwer argues the controversy over the 1619 Project is less about factual errors than about whose version of America is at stake — a model for analyzing why history wars happen at all. 
 - 📗 Conor Friedersdorf, "1776 Honors America's Diversity in a Way 1619 Does Not," *The Atlantic* (January 2020), ~14 pp. The PDF is in the Zotero library. Friedersdorf praises what the essay shows about Black Americans' faith in the country and rejects its proposal to move the founding to 1619: 1776, he argues, includes more Americans. A third position, neither the project's nor the five historians'.
 
