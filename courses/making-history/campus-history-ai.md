@@ -21,6 +21,18 @@ This is **Part 1** of a two-part project, althought the second part is much more
 - **Your critique (Step 4): no AI.** Don't use it to write, polish, or brainstorm the critique---including pasting the AI history into a second chatbot and asking what's wrong with it. Spotting that is the assignment.
 " %}
 
+## A hard project, on purpose
+
+The Campus History project asks you to do a lot of different things at once: pick a topic, critique an AI source, dig through boxes in an archive, learn enough GitHub and Markdown to publish a web page, choose and caption images, and turn all of it into a story someone would want to read. None of these pieces is out of reach on its own. What makes the project hard is juggling them, and keeping going when one of them stalls---the archive doesn't have much, the site won't update, the story won't come together.
+
+That difficulty is one of the real values of the project. Most work worth doing outside of school looks like this: several unfamiliar parts, no single right answer, and a stretch in the middle where you're not sure it's going to work. Learning how to get through that is a skill in itself:
+- **Break it into pieces.** Part 1 and Part 2 already do some of this for you. Keep going: one step at a time, in order.
+- **Start early.** Most of the frustration comes from discovering a problem the night before it's due.
+- **Ask for help sooner than feels necessary.** Librarians, classmates, and I can usually solve in five minutes what can eat an evening on your own.
+- **Expect to feel lost at some point.** That's a sign you're learning something new, not a sign you're failing.
+
+And then you finish. At the end you'll have a published essay, built on research nobody else did, that anyone can read. Succeeding at something hard---and knowing *how* you did it---is worth carrying into whatever you take on next.
+
 ---
 
 ## Step 1: Pick a topic

@@ -84,6 +84,8 @@ Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-histo
 * [1619 Project Discussion Post](1619-discussion-post) (10%)
 * [Final Course Reflection](final-course-reflection) (15%)
 
+The two Campus History assignments make up the biggest project of the semester: archival research, AI critique, storytelling, and some new web tools, all in one. That's part of the point. Learning how to take on a hard, many-sided project and actually finish it is one of the most useful things you'll get out of this class.
+
 
 ### Grading
 
