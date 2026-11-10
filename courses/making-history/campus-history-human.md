@@ -63,7 +63,7 @@ A few published histories of UNM are available for reference. You should check y
 Your finished essay will be published on the [UNM Campus History](https://amaranth.unm.edu/campus-history) website. Write for a curious reader — a student, a faculty member, someone who walks past your building every day — who knows nothing about its history.
 
 {% include alert.html class='info' title='Publishing instructions' text="
-This page explains what the assignment should accomplish. The technical steps for creating your page, adding images, checking metadata, and submitting a pull request live on the [Campus History student publishing guide](https://amaranth.unm.edu/campus-history/student-guide/).
+This page explains what the assignment should accomplish. The technical steps live in the Campus History student guide, in three parts: [setting up your site and essay](https://amaranth.unm.edu/campus-history/setting-up-your-site-and-essay/), [working on your essay](https://amaranth.unm.edu/campus-history/working-on-your-essay/), and [submitting your essay](https://amaranth.unm.edu/campus-history/submitting-your-essay/).
 " %}
 
 ### Requirements

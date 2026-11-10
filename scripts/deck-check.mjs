@@ -55,7 +55,9 @@ const statics = await ev(`(() => {
   // portraits: surname -> slide index
   const intro = {};
   slides.forEach((s, i) => s.querySelectorAll('figure.portrait figcaption').forEach(fc => {
-    const name = (fc.childNodes[0]?.textContent || '').split('·')[0].trim();
+    const head = fc.childNodes[0]?.textContent || '';
+    if (!head.includes('·')) return;  // a person's caption reads "Name · dates"; objects in portrait layout don't
+    const name = head.split('·')[0].trim();
     const sur = name.split(/\\s+/).pop(); if (sur && !(sur in intro)) intro[sur] = i; }));
   slides.forEach((s, i) => {
     const n = i + 1;

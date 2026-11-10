@@ -381,7 +381,7 @@ The "linguistic turn" is the claim that because historians always use narrative,
 - We go over your assignment FOR TUESDAY, which is to get your copy of the campus history website working.
 
 {% include alert.html class='warning' title='Campus History Part 1 DUE TUESDAY' text="
-- Follow the directions on the [Campus History student guide](https://amaranth.unm.edu/campus-history/student-guide) to make YOUR COPY of the Campus History site that you will work on.
+- Follow the directions in [Setting Up Your Site and Essay](https://amaranth.unm.edu/campus-history/setting-up-your-site-and-essay/) to make YOUR COPY of the Campus History site that you will work on.
 - Your PLACEHOLDER SITE (for your AI draft and critique) are due on Tuesday, so we have time to troubleshoot before you need to post your AI essay by Thursday.
 - Read the [Campus History AI essay guide](campus-history-ai) before Tuesday so you can make sure you don't have questions.
 
@@ -414,7 +414,7 @@ History and memory are clearly related, but exactly how do we define them in rel
 - How do these apply to the _Campus History_ project?
 
 {% include alert.html class='danger' title='Campus History URLS due TODAY' text="
-- Your _Campus History_ page (with just the sample text, but your own image) should be working BEFORE CLASS. Follow the directions on the [Campus History student guide](https://amaranth.unm.edu/campus-history/student-guide) to complete the assignment.
+- Your _Campus History_ page (with just the sample text, but your own image) should be working BEFORE CLASS. Follow the directions in [Setting Up Your Site and Essay](https://amaranth.unm.edu/campus-history/setting-up-your-site-and-essay/) to complete the assignment.
 - Make sure you post the URL to the Canvas discussion board.
 "%}
 
@@ -489,6 +489,7 @@ Both sessions this week ask what happens when historians look beyond human polit
 ### 13.1: History of Science and Medicine
 Science and medicine have their own histories — they change, they have turning points, and they are never neutral. This session introduces two frameworks that have shaped how historians think about knowledge production. Kuhn's account of paradigm shifts has been widely applied to history itself.
 
+- Slides of [Science and Medicine](slides/science-and-medicine/)
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 3: "The History of What", 83--108. 
 - 📗 Steven Shapin, *The Scientific Revolution* (1996), Introduction, ~15 pp. Opens with the line "There was no such thing as the Scientific Revolution, and this is a book about it" — which immediately signals the argument: scientific knowledge is historically constructed, shaped by social forces and institutional context rather than simply discovered. 
 - 📗 Charles Rosenberg, "Framing Disease: Illness, Society, and History," in *Framing Disease* (1992), Introduction, 12--23. Rosenberg argues that medical categories are historical constructs — diseases get defined in ways that reflect the social, professional, and moral concerns of the moment. 
@@ -541,7 +542,7 @@ This week's [reading refraction](reading-refractions) is due by midnight on Canv
 ### 15.1: Campus History Reviews
 
 {% include alert.html class='danger' title='Campus History web page due + presentations today' text="
-Two things today. **Your pull request must be submitted before class** — see the [student publishing guide](https://amaranth.unm.edu/campus-history/student-guide/) for the mechanics. And come prepared to present the project. See the [archive guide](campus-history-human) and [AI research guide](campus-history-ai) for what the page needs to include, especially the required AI-Archive Comparison section.
+Two things today. **Your pull request must be submitted before class** — see [Submitting Your Essay](https://amaranth.unm.edu/campus-history/submitting-your-essay/) for the checklist and the mechanics. And come prepared to present the project. See the [archive guide](campus-history-human) and [AI research guide](campus-history-ai) for what the page needs to include, especially the required AI-Archive Comparison section.
 "%}
 
 - Student presentations of Campus History Review projects.

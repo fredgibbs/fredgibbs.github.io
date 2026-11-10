@@ -27,6 +27,9 @@ Our `Zotero Library page` is [https://www.zotero.org/groups/2703269/making-histo
 * [Historians Café Conversation](historians-cafe)
 * [Campus History via AI](campus-history-ai)
 * [Campus History Contribution and Reflection](campus-history-human)
-* [Campus History Student Publishing Guide](https://amaranth.unm.edu/campus-history/student-guide/)
+* Campus History Student Guide
+  * [1. Setting Up Your Site and Essay](https://amaranth.unm.edu/campus-history/setting-up-your-site-and-essay/)
+  * [2. Working on Your Essay](https://amaranth.unm.edu/campus-history/working-on-your-essay/)
+  * [3. Submitting Your Essay](https://amaranth.unm.edu/campus-history/submitting-your-essay/)
 * [1619 Project Discussion Post](1619-discussion-post)
 * [Final Course Reflection](final-course-reflection)

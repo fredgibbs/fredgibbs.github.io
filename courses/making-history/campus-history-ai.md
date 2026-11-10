@@ -37,7 +37,7 @@ And then you finish. At the end you'll have a published essay, built on research
 
 ## Step 1: Pick a topic
 
-Make sure you've completed the steps at [Campus History student guide](https://amaranth.unm.edu/campus-history/student-guide) to make YOUR COPY of the Campus History site that you will work on and create your own essay folder. 
+Make sure you've completed the steps at [Setting Up Your Site and Essay](https://amaranth.unm.edu/campus-history/setting-up-your-site-and-essay/) (Part 1 of the Campus History student guide) to make YOUR COPY of the Campus History site that you will work on and create your own essay folder. 
 
 ---
 

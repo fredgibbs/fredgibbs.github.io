@@ -94,6 +94,12 @@
  *     .with-figure.wide — review-deck variant: the picture is half the
  *                    point, so the image column is wide and height-capped
  *                    (first used by courses/making-history/slides/big-picture-review)
+ *       .with-figure.wide.compact — tightened explainer: the figcaption may
+ *                    describe the picture rather than only credit it, so the
+ *                    picture is capped at 290px tall instead of 380px, and the
+ *                    .detail lines are set smaller, under the quotation; the
+ *                    text column is top-aligned, so the quotation sits right
+ *                    under the headline with a gap before the explanation
  *
  * Add `fragment` to any of the above to have it reveal on click, per
  * reveal.js convention. To have one fragment replace another in place
@@ -168,6 +174,15 @@ html, body, .reveal {
 	color: var(--ts-text-muted);
 	margin: 0;
 	font-weight: 400;
+}
+
+/* A .detail that follows a .quote is secondary to it: commentary size, as
+   .reveal-block.compact text is, not the title-slide size above. (The explainer
+   rules below set their own, and win on specificity.) */
+.reveal .quote ~ .detail {
+	font-size: 0.5em;
+	line-height: 1.4;
+	margin-top: 0.7em;
 }
 
 .reveal .detail strong { color: var(--ts-text); font-weight: 600; }
@@ -728,6 +743,31 @@ html, body, .reveal {
 	max-width: 470px;
 	max-height: 380px;
 	margin: 0;
+}
+
+/* .compact: the tightened explainer. The figcaption describes the picture
+   (what it is, one point) as well as crediting it, so it runs two to four
+   lines under a narrow image, and a shorter picture leaves it the room. The
+   .detail lines sit under the quotation at the commentary size (as
+   .reveal-block.compact text does) so they read as secondary to it. */
+.reveal .with-figure.wide.compact img {
+	max-height: 290px;
+}
+
+/* The quotation sits right under the headline, level with the top of the
+   picture, and the explanation follows after a clear gap. */
+.reveal .with-figure.wide.compact {
+	align-items: start;
+}
+
+.reveal .with-figure.wide.compact .body .detail {
+	font-size: 0.46em;
+	line-height: 1.4;
+	margin: 0.7em 0 0;
+}
+
+.reveal .with-figure.wide.compact .body .quote + .detail {
+	margin-top: 1.5em;
 }
 
 /* The credit under the picture: wrap the image in a <figure> with a
