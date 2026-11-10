@@ -20,6 +20,52 @@ Built 2026-11-06 from the author's brief:
 > science or medicine through the history, and what we can learn about
 > ourselves?
 
+**Tenth revision, 2026-11-10,** at the author's request, in several messages:
+"review all slides for unnecessary names like De Kruif. names are not
+important for this lecture"; "make the pasteur image like the eakins one";
+"remove the snow map"; "remove the [diagnosis becomes part of who a person is]
+slide (it's already covered)"; "headline … also need a quote in the usual style
+… now it's just an empty space"; secondary text "way too large"; and the
+quotation "needs to be right under the headline, and a bigger space under that
+before the explanation text."
+
+- **Names.** Headlines, eyebrows and details no longer name historians who are
+  not assigned authors (De Kruif, Garrison and Lovejoy in the eyebrow, Butterfield,
+  Koyré, Hessen, Merton, Latour, Woolgar, Eisenstein, Daston, Galison, Raj,
+  Sigerist, Foucault, Crosby, McNeill, McKeown, Porter, Thompson, Ulrich,
+  Ballard, Showalter, Charcot, Jones, Arnold, Pamela Smith); ideas lead
+  instead ("Historians made smallpox part of the conquest of the Americas").
+  Kept: the assigned authors (Maza, Shapin, Rosenberg, Kuhn) and every name
+  inside a citation, since a quotation must be attributed; artists, sitters
+  and titles in image credits; Garrison and Lovejoy in their two track headings,
+  because their sentences are quoted. The title slide's citation note no longer
+  lists who appears only at second hand. The "Inside or outside" slide now
+  describes the two positions without naming Koyré, Hessen or Merton.
+- **Pasteur** is an image slide in the Gross Clinic style (large portrait, a
+  caption rail with the explanation, including Rosenberg p. xvii on the germ-theory
+  promise). The de Kruif quotation slide, with its Rosenberg quotation and
+  `.detail` lines, is gone, and *Microbe Hunters* is now only "popular books."
+- **Snow's map and the "diagnosis becomes part of who a person is" slide**
+  (Rosenberg p. xix, "What a name does," and its question about the 1900
+  homosexuality diagnosis) are deleted; the Snow map image went to the scratchpad.
+- **Quotations for the three bare explainers.** The books those slides are
+  about are not in the text caches, and a web search could not confirm exact
+  wording or pages for them, so each slide now carries a *verified* sentence from
+  an assigned reading that makes the same point, with the historian's own book
+  named only in the detail: "scientific objectivity itself has a history" quotes
+  Shapin and Schaffer on "the objectivity of the experimental matter of fact"
+  (Maza p. 97); the laboratory slide quotes Shapin p. 10 ("There is as much society
+  inside the scientist's laboratory…"); the circulation slide quotes Maza p. 116
+  on historians' "where" and Eurocentrism, with an ellipsis. If the author has
+  *Objectivity*, *Laboratory Life* or *Relocating Modern Science* to hand, a
+  sentence from each would be a better quotation.
+- **Typography.** A `.detail` following a `.quote` is now commentary-sized
+  (0.5em, with a clear gap) on plain quote slides, and the compact explainer's
+  text column is top-aligned so the quotation sits right under the headline, with a
+  1.5em gap before the explanation. The compact explainer's picture cap is now
+  290px. All in the theme CSS; the new rules affect only `.quote ~ .detail` and
+  `.with-figure.wide.compact`.
+
 **Ninth revision, 2026-11-10,** at the author's request, in several messages:
 remove Darwin and "focus on paintings of heroic science in chronological
 order"; "remove the horton slide"; the explainers' detail text "is too large

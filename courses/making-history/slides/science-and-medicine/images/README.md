@@ -1,12 +1,12 @@
 # Slide Images — Science and Medicine (13.1)
 
-Twenty-eight image files, all used by `../index.md` (sixth revision, 2026-11-10).
+Twenty-seven image files, all used by `../index.md` (sixth revision, 2026-11-10).
 Most are public domain or CC0; the Ifá tray (CC BY-SA 4.0), the Jaipur
 observatory photograph (CC BY 4.0) and the Wellcome images, including the Bombay
 plague photograph, (CC BY 4.0) are credited in their captions or figcaptions.
 The deck shows things and places; it carries no portrait of a historian.
 Credits are carried in the `<figcaption>`s and should not be stripped.
-Retrieved 2026-11-06, 2026-11-07, 2026-11-09 and 2026-11-10. The folder totals about 8.3 MB.
+Retrieved 2026-11-06, 2026-11-07, 2026-11-09 and 2026-11-10. The folder totals about 7.8 MB.
 
 ## Credits
 
@@ -27,7 +27,6 @@ Retrieved 2026-11-06, 2026-11-07, 2026-11-09 and 2026-11-10. The folder totals a
 | `fildes-the-doctor-1891.jpg` | Luke Fildes, *The Doctor*, 1891. McKeown explainer. Resized to 1300 wide, then **a crop**: 740×891 from offset (290, 0), the doctor, the child and the father | Tate, via Commons ("The Doctor Luke Fildes crop.jpg") | Public domain |
 | `bombay-plague-camp-1897.jpg` | "An affluent family forced to leave their home due to plague," a camp in Bombay, photograph, 1896–97. Arnold explainer. **Two crops**: 2700×1500 from offset (150, 800) of the 2996×2380 file, resized to 1300 wide, then 720×722 from offset (260, 0) | Wellcome Collection V0029866, via Commons | **CC BY 4.0**, attribution in the figcaption |
 | `eakins-gross-clinic-1875.jpg` | Thomas Eakins, *The Gross Clinic*, 1875. 1451×1800 | Google Art Project, via Commons | Public domain |
-| `snow-cholera-map-1854.jpg` | John Snow's Broad Street map, from the 2nd ed. of *On the Mode of Communication of Cholera* (1855). 1800×1688 from the 20124-pixel original | Commons ("Snow-cholera-map-1.jpg") | Public domain |
 | `gillray-cow-pock-1802.jpg` | James Gillray, *The Cow-Pock*, 1802. Porter explainer. **Two crops**: 1110×772 with the LOC color bar and mount removed, then the center 700×772 (doctor, boy, woman, man in the red waistcoat) from offset (250, 0), so it fits the explainer | Library of Congress, LCCN 94509853, via Commons (the .tif) | Public domain |
 | `brouillet-salpetriere-1887.jpg` | André Brouillet, *Une leçon clinique à la Salpêtrière*, 1887. 1800×1137 | Commons ("Une leçon clinique à la Salpêtrière.jpg"); the painting hangs at Université Paris Cité | Public domain |
 | `punch-king-cholera-1852.jpg` | John Leech, "A Court for King Cholera," *Punch*, 1852. *Cholera Years* explainer. Resized to 1100 wide, then **a crop** of the center 700×822 from offset (230, 0), keeping the title line | Wellcome Collection L0003001, via Commons | **CC BY 4.0** — attribution in the caption |
@@ -68,7 +67,7 @@ checker's 644px line. The credits on all eighteen explainers (five in part one,
 five in part two, eight in part three) are cut to a line, and each image is
 identified in the `.quote` cite or the `.detail` beside it instead. Full identifications are in the table above.
 
-**Retired 2026-11-10,** with the slides that used them (also Newton's monument, Boehm's Darwin, the Yoruba tray, the Solvay photograph, the Voltaire frontispiece and the *Sidereus Nuncius* title page), and moved to the session
+**Retired 2026-11-10,** with the slides that used them (also Newton's monument, Boehm's Darwin, the Yoruba tray, the Solvay photograph, the Voltaire frontispiece, the *Sidereus Nuncius* title page and Snow's cholera map), and moved to the session
 scratchpad (Rembrandt's *Anatomy Lesson* left when the deck began at the Solvay
 photograph) when the deck was reorganized into one chronology: Wright's *Air
 Pump* (the old cold open), the Valadés great chain, the *Gazetier cuirassé*, the
