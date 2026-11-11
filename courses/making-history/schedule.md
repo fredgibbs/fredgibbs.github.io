@@ -514,14 +514,14 @@ Most history treats humans as the only meaningful actors and everything else as 
 - Does environmental history change what counts as a historical "actor"?
 
 {% include alert.html class='warning' title='Campus History web page — start now' text="
-Your [Campus History web page](campus-history-human) is due at the start of Week 15, and presentations are that same session. Thanksgiving sits between now and then, so this is your real warning: **if you have not been to CSWR yet, go this week.** The archive is the part you cannot rush or do the night before — the reading room has hours and other people waiting ahead of you, and you may need a second visit.
+Your [Campus History web page](campus-history-human) is due at the start of Week 15. Thanksgiving intervenes, so this is your real warning: **if you have not been to CSWR yet, go this week to get started.** The archive is the part you cannot rush or do the night before — the reading room has hours and other people waiting ahead of you, and you may need a second visit.
 "%}
 
 
 
 {% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. Open until Friday midnight for one letter grade. Your lowest is dropped.
-"%}
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. "%}
+
 
 ## 14: Food
 
