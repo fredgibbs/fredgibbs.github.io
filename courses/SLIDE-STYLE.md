@@ -352,14 +352,30 @@ something visible, a sentence on what it commits its makers to, and an
 picture. Budget about 23 lines of about 52 characters.
 
 **Explainer: `.with-figure.wide`, an image left and the explanation right.**
-Eyebrow and headline, then the picture beside a `.quote.compact` and one or two
-`.detail` lines. Wrap the image in a `<figure>` whose `<figcaption>` holds
+Eyebrow and headline, then the picture beside a `.quote.compact` and **one**
+`.detail` paragraph. Two or three short paragraphs under a quotation read as
+clutter beside a picture: write a single block, and turn a gloss ("Deviance:
+…") into an ordinary sentence inside it. Wrap the image in a `<figure>` whose `<figcaption>` holds
 the credit, so it sits under the picture at caption size. Use it to set
 one claim beside the image that carries it: a week recalled in a review deck
 (`big-picture-review`, which predates the figure caption), or a figure and their idea on one slide (the genealogy
 in `linguistic-turn`). With a two-line headline it measures about 650px, just
 over the checker's 644px line, so confirm by screenshot that nothing clips and
 keep the text column no taller than the image.
+
+**Larger picture: add `.compact.large`** (`<div class="with-figure wide compact large">`).
+The picture takes up to 540×420 instead of 470×290, about twice the area. Its
+`<figcaption>` credit moves to the foot of the text column, and the headline,
+quotation and `.detail` lines are set a step smaller to make the room. Use it
+when the image is worth reading closely; keep the headline to two lines (a
+third shrinks the picture's room), the quotation under about 35 words, and the
+one `.detail` paragraph under about 40. A landscape picture leaves a text column about 320px
+wide, so check by screenshot. The quotation and the `.detail` paragraph are set
+large with a wide gap between them, to fill the column's height. Where that
+overflows (a wide picture beside a long quotation), add `.dense` to the div to
+get the smaller sizes; a slide with a question block under the text gets them
+automatically. Models: `history-of-medicine`,
+`environmental-history`.
 
 ## Front matter
 

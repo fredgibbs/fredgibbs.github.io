@@ -100,6 +100,12 @@
  *                    .detail lines are set smaller, under the quotation; the
  *                    text column is top-aligned, so the quotation sits right
  *                    under the headline with a gap before the explanation
+ *         .with-figure.wide.compact.large — the picture leads: capped at
+ *                    540x420 instead of 470x290; its credit moves to the foot
+ *                    of the text column, and the headline, quotation and
+ *                    .detail lines are set smaller to make the room. For an
+ *                    explainer whose image is worth reading closely. Keep the
+ *                    quotation under about 35 words and a single .detail paragraph
  *
  * Add `fragment` to any of the above to have it reveal on click, per
  * reveal.js convention. To have one fragment replace another in place
@@ -768,6 +774,82 @@ html, body, .reveal {
 
 .reveal .with-figure.wide.compact .body .quote + .detail {
 	margin-top: 1.5em;
+}
+
+/* .large: the picture leads. The image takes up to 540x420, about twice the
+   area of the compact explainer's. Two things make the room. The <figure>
+   is dissolved (display: contents), so the picture fills the left column and
+   its credit drops to the foot of the text column instead of sitting under
+   the picture. And the text is set smaller: the headline drops a size, the
+   quotation and .detail lines one step each. The quotation stays larger than
+   the commentary, so the levels still read. */
+.reveal .with-figure.wide.compact.large {
+	grid-template-columns: auto 1fr;
+	grid-template-rows: auto 1fr;
+	gap: 0 1.1em;
+}
+
+.reveal .with-figure.wide.compact.large figure {
+	display: contents;
+}
+
+.reveal .with-figure.wide.compact.large img {
+	grid-column: 1;
+	grid-row: 1 / span 2;
+	max-width: 540px;
+	max-height: 420px;
+}
+
+.reveal .with-figure.wide.compact.large .body {
+	grid-column: 2;
+	grid-row: 1;
+}
+
+.reveal .with-figure.wide.compact.large figcaption {
+	grid-column: 2;
+	grid-row: 2;
+	align-self: end;
+	margin-top: 0.9em;
+	font-size: 0.36em;
+}
+
+.reveal .with-figure.wide.compact.large .body .quote.compact {
+	font-size: 0.63em;
+	line-height: 1.3;
+}
+
+.reveal .with-figure.wide.compact.large .body .detail {
+	font-size: 0.5em;
+	line-height: 1.42;
+}
+
+.reveal .with-figure.wide.compact.large .body .quote + .detail {
+	margin-top: 1.9em;
+}
+
+/* With a question block under the text, or on a slide marked .dense (a wide
+   picture beside a long quotation), there is no spare height, so the quotation
+   and commentary keep the smaller sizes and the tighter gap. */
+.reveal .with-figure.wide.compact.large .body:has(.reveal-block) .quote.compact,
+.reveal .with-figure.wide.compact.large.dense .body .quote.compact {
+	font-size: 0.55em;
+	line-height: 1.26;
+}
+
+.reveal .with-figure.wide.compact.large .body:has(.reveal-block) .detail,
+.reveal .with-figure.wide.compact.large.dense .body .detail {
+	font-size: 0.44em;
+	line-height: 1.38;
+}
+
+.reveal .with-figure.wide.compact.large .body:has(.reveal-block) .quote + .detail,
+.reveal .with-figure.wide.compact.large.dense .body .quote + .detail {
+	margin-top: 1.1em;
+}
+
+.reveal section:has(> .with-figure.wide.compact.large) .main-point {
+	font-size: 0.98em;
+	margin-bottom: 0.3em;
 }
 
 /* The credit under the picture: wrap the image in a <figure> with a

@@ -482,28 +482,44 @@ Post your response to the discussion board by MIDNIGHT SUNDAY, following the [16
 
 
 
-## 13: Science, Health, Nature
-Both sessions this week ask what happens when historians look beyond human political events and focus more on the natural world and how we study it and understand it. Both sessions share the question: who gets to say what counts as knowledge, and what are the consequences of that authority?
+## 13: Science and Health
+This week and next ask what happens when historians look beyond human political events and focus more on the natural world and how we study it and understand it. The sessions share a question: who gets to say what counts as knowledge, and what are the consequences of that authority?
 
 
-### 13.1: History of Science and Medicine
+### 13.1: History of Science
 Science and medicine have their own histories — they change, they have turning points, and they are never neutral. This session introduces two frameworks that have shaped how historians think about knowledge production. Kuhn's account of paradigm shifts has been widely applied to history itself.
 
-- Slides of [Science and Medicine](slides/science-and-medicine/)
+- Slides of [The History of Science](slides/history-of-science/)
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 3: "The History of What", 83--108. 
 - 📗 Steven Shapin, *The Scientific Revolution* (1996), Introduction, ~15 pp. Opens with the line "There was no such thing as the Scientific Revolution, and this is a book about it" — which immediately signals the argument: scientific knowledge is historically constructed, shaped by social forces and institutional context rather than simply discovered. 
-- 📗 Charles Rosenberg, "Framing Disease: Illness, Society, and History," in *Framing Disease* (1992), Introduction, 12--23. Rosenberg argues that medical categories are historical constructs — diseases get defined in ways that reflect the social, professional, and moral concerns of the moment. 
 - 📙 Thomas Kuhn, *The Structure of Scientific Revolutions* (1962), 1-22 (esp. 1-9). Kuhn argues that science moves through periods of "normal science" punctuated by paradigm shifts where entire frameworks collapse. The basic idea is covered in Maza, but it's illuminating to read the introduction to the original for yourself.
 
 #### Discussion
 - Shapin says there was "no such thing" as the Scientific Revolution. What does he mean? Does that claim apply to the historiographical "turns" we've studied this semester?
-- Rosenberg argues that diseases are "framed" — defined in ways that reflect social context. Can you think of an example where that framing mattered?
 - If scientific and medical categories change over time, how should historians treat them when they appear in sources?
-- How does history of science connect to what Said and Trouillot argued about knowledge and power?
 
 
-### 13.2: Environmental History
+### 13.2: Medicine + GitHub Catch-Up
+
+<!-- - Slides of [The History of Medicine](slides/history-of-medicine/) --> 
+- 📗 Charles Rosenberg, "Framing Disease: Illness, Society, and History," in *Framing Disease* (1992), Introduction, 12--23. Rosenberg argues that medical categories are historical constructs — diseases get defined in ways that reflect the social, professional, and moral concerns of the moment. 
+
+#### Discussion
+- Rosenberg argues that diseases are "framed" — defined in ways that reflect social context. Can you think of an example where that framing mattered?
+- How does the history of medicine connect to what Said and Trouillot argued about knowledge and power?
+- Does saying a disease is framed by society change a person's experience with the disease?
+
+
+{% include alert.html class='danger' title='Reading refraction due tonight' text="
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Show me you are doing the readings, and address some of the discussion questions for this week, or riff on whatever you found most interesting--that can show me your engagement with our sources. "%}
+
+
+
+## 14: Nature
+
+### 14.1: Environmental History
 Most history treats humans as the only meaningful actors and everything else as background. Environmental history argues that's itself a choice — that landscapes, climates, rivers, and organisms don't just sit there while humans act on them, but actively shape what's possible. Cronon shows how the same landscape generates opposite stories depending on how you frame it; Chakrabarty pushes further to ask whether climate change forces historians to reconsider the human species itself as a historical actor.
+<!-- - Slides of [Environmental History](slides/environmental-history/) -->
 - 📗 Sarah Maza, *Thinking About History* (2017), Ch. 3: "The History of What", 108--117. 
 - 📗 William Cronon, "The Uses of Environmental History", _Environmental History Review_, 17.3 (1993), 1-22.
 - 📙 Dipesh Chakrabarty, "The Climate of History: Four Theses," *Critical Inquiry* 35.2 (2009): 197–222 (first 15 pp.). Chakrabarty argues that climate change forces historians to think about humans as a geological force — a challenge to typical historical frameworks. 
@@ -513,48 +529,38 @@ Most history treats humans as the only meaningful actors and everything else as 
 - What does Chakrabarty mean by humans as a "geological force"?
 - Does environmental history change what counts as a historical "actor"?
 
+
+{% include alert.html class='danger' title='Reading refraction due TONIGHT' text="
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Show me you are doing the readings, and address some of the discussion questions for this week, or riff on whatever you found most interesting--that can show me your engagement with our sources. "%}
+
 {% include alert.html class='warning' title='Campus History web page — start now' text="
-Your [Campus History web page](campus-history-human) is due at the start of Week 15. Thanksgiving intervenes, so this is your real warning: **if you have not been to CSWR yet, go this week to get started.** The archive is the part you cannot rush or do the night before — the reading room has hours and other people waiting ahead of you, and you may need a second visit.
+Your [Campus History web page](campus-history-human) is due at the start of Week 16 (Tuesday, December 1). Thanksgiving intervenes, so this is your real warning: **if you have not been to CSWR yet, go this week to get started.** The archive is the part you cannot rush or do the night before — the reading room has hours and other people waiting ahead of you, and you may need a second visit.
 "%}
 
 
+### 14.2: NO CLASS!
 
-{% include alert.html class='danger' title='Reading refraction due tonight' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas. Draw on the readings *and* our discussions this week --- and not a literal answer to the discussion questions above. "%}
+- Do your archival research, work on your _Campus History_ essay, get help, sleep, whatever you need. 
 
 
-## 14: Food
 
-### 14.1: Food History
+## 15: Food
+
+### 15.1: Food History
 - Warren Belasco, "Why study food?", from _Food: The Key Concepts_, 1--13.
 - Philip Deloria, “[The Invention of Thanksgiving](https://www.newyorker.com/magazine/2019/11/25/the-invention-of-thanksgiving)”, _New Yorker_, 95.37 (November 25, 2019): 70--74. [Also in Zotero if the link doesn't work.]
 - Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167--91.
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/). This quick read serves two purposes: it's a nice overview of what food was likely available at the harvest celebration of 1621. And it's a good example of uncritical food history that focuses entirely on food without much of the historical context (neither in the 1600s or 1900s).
 
 
-### 14.2: Thanksgiving! No Class. Nothing Due.
+### 15.2: Thanksgiving! No Class. Nothing Due.
 
 
 
 
-## 15: Review and Wrap up
+## 16: Review and Wrap up
 
-### 15.1: Campus History Reviews
-
-{% include alert.html class='danger' title='Campus History web page due + presentations today' text="
-Two things today. **Your pull request must be submitted before class** — see [Submitting Your Essay](https://amaranth.unm.edu/campus-history/submitting-your-essay/) for the checklist and the mechanics. And come prepared to present the project. See the [archive guide](campus-history-human) and [AI research guide](campus-history-ai) for what the page needs to include, especially the required AI-Archive Comparison section.
-"%}
-
-- Student presentations of Campus History Review projects.
-
-#### Discussion
-- What did you find in your research that an algorithm couldn't have found? What would distant reading miss about the histories you studied?
-- What can computers tell us about history that humans can't? What can't they tell us?
-- What happens when an AI "writes" history? Is it history?
-- What is the historian's role in an algorithmic age?
-
-
-### 15.2: Course Wrap Up
+### 16.1: Course Wrap Up
 So, what have we done exactly? This class has been a story about history. What other stories might it have told?
 
 #### Final Discussion
@@ -563,12 +569,17 @@ So, what have we done exactly? This class has been a story about history. What o
 - Where will you see history at work in your life after this course?
 
 {% include alert.html class='warning' title='Final Reflection — last class, so plan now' text="
-This is our last meeting. The [Final Course Reflection](final-course-reflection) is due during finals week, and there will be no class session to remind you — so put it in your calendar today. Today's discussion is deliberately good preparation: the questions we just worked through are close to the ones the reflection asks. Take notes while it's fresh.
+This is our last meeting. The [Final Course Reflection](final-course-reflection) is due by the end of finals week. Today's discussion is deliberately good preparation: the questions we just worked through are close to the ones the reflection asks.
 "%}
 
 
+### 16.2: NO CLASS
+{% include alert.html class='danger' title='Campus History page due next week' text="
+**Your pull request must be submitted before the end of finals week** — see [Submitting Your Essay](https://amaranth.unm.edu/campus-history/submitting-your-essay/) for the checklist and the mechanics. See the [archive guide](campus-history-human) and [AI research guide](campus-history-ai).
+"%}
 
-## 16: No Class
+
+## Finals Week: FINISH UP!
 
 {% include alert.html class='danger' title='Final Course Reflection due' text="
 Submit your [final course reflection](final-course-reflection) to Canvas. This is a reflection on what you learned, what you wish you had, how the course has or hasn't changed your thinking, and your own experience in it. Graded on honest engagement, specific examples, and a personal voice that couldn't have come from AI.

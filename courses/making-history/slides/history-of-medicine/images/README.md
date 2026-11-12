@@ -1,4 +1,4 @@
-# Slide Images — Science and Medicine (13.1)
+# Slide Images — The History of Medicine (14.1)
 
 Twenty-seven image files, all used by `../index.md` (sixth revision, 2026-11-10).
 Most are public domain or CC0; the Ifá tray (CC BY-SA 4.0), the Jaipur
@@ -8,19 +8,14 @@ The deck shows things and places; it carries no portrait of a historian.
 Credits are carried in the `<figcaption>`s and should not be stripped.
 Retrieved 2026-11-06, 2026-11-07, 2026-11-09 and 2026-11-10. The folder totals about 7.8 MB.
 
+**Split 2026-11-11.** The Science and Medicine deck (13.1) was split into `history-of-science` and `history-of-medicine`; each folder now holds only the images its own deck uses, and the credits table below lists only those. The counts, totals and notes that follow were written for the combined deck, so some refer to images now in the other folder.
+
 ## Credits
 
 | File | What it is | Source | License |
 |---|---|---|---|
-| `boyle-air-pump-1660.jpg` | Boyle's first air pump, "The I. Plate" of *New Experiments Physico-Mechanicall* (1660). **A crop**: the black surround of the LOC photograph removed (1250×1590) | Library of Congress, LCCN 2006690483, via Commons | Public domain |
-| `sprat-frontispiece-1667.jpg` | Wenceslaus Hollar after John Evelyn, frontispiece to Sprat's *History of the Royal Society*, 1667. the old story. 1212×1500, q74 | Metropolitan Museum of Art, DP823157, via Commons | CC0 |
-| `harvard-computers-1890.jpg` | The women computers of the Harvard College Observatory, about 1891 (Commons date). 1800×1408 | Harvard College Observatory, via Commons | Public domain |
-| `merian-peacock-flower-1705.jpg` | Maria Sibylla Merian, plate 45 (the peacock flower), *Metamorphosis insectorum Surinamensium*, 1705. 1164×1800 | Biodiversity Heritage Library, page 41398834, via Commons | Public domain |
 | `board-jenner-phipps.jpg` | Ernest Board, *Dr Jenner Performing His First Vaccination, on James Phipps, a Boy of 8, May 14, 1796*, oil, about 1910 (Commons; Bridgeman says 1920–30). the old story. **A crop**: the frame and plaque removed, 2880×1880 from offset (490, 450) of the 5800×4225 file at 3840 wide; then 1800×1175 | Wellcome Collection V0018142, via Commons | **CC BY 4.0** — attribution in the caption |
 | `cruikshank-man-midwife-1793.jpg` | Isaac Cruikshank, *A Man-Mid-Wife*, colored etching, 15 June 1793. 1248×1480 | Wellcome Collection V0014923, via Commons | **CC BY 4.0** — attribution in the caption |
-| `kneller-newton-1689.jpg` | Godfrey Kneller, *Isaac Newton*, 1689. alchemy explainer. 997×1200 | Commons ("Portrait of Sir Isaac Newton, 1689.jpg") | Public domain |
-| `tycho-mural-quadrant-1598.jpg` | Tycho Brahe's mural quadrant, hand-colored engraving from *Astronomiae instauratae mechanica* (1598). Eisenstein explainer. 889×1200 | Commons ("Tycho-Brahe-Mural-Quadrant.jpg") | Public domain |
-| `gibson-flamsteed-1712.jpg` | Thomas Gibson, *John Flamsteed*, 1712. Johns explainer. 631×800 as on Commons | Royal Society RS.9346, via Commons | Public domain |
 | `edelfelt-pasteur-1885.jpg` | Albert Edelfelt, *Louis Pasteur*, 1885. de Kruif explainer (retired in the first revision, restored in the third). 904×1100 | Musée d'Orsay, via Commons | Public domain |
 | `robert-fleury-pinel-1876.jpg` | Tony Robert-Fleury, *Pinel Freeing the Insane at the Salpêtrière in 1795*, 1876. Foucault explainer. **A crop**: 760×869 from offset (250, 0) of the 1280×869 file | Commons ("Philippe Pinel à la Salpêtrière.jpg"); the painting hangs at the Salpêtrière | Public domain |
 | `florentine-codex-smallpox.jpg` | A Nahua healer tends smallpox sufferers of 1520, Florentine Codex, Book 12, 1577. Crosby explainer. Resized to 1300 wide, then **a crop** of the left column, 590×943 (the healer panel and one panel below) | Commons ("Healer (ticitl) tending to people suffering from smallpox in 1520 in Book 12 of the Florentine Codex, 1577.jpg") | Public domain |
@@ -31,14 +26,6 @@ Retrieved 2026-11-06, 2026-11-07, 2026-11-09 and 2026-11-10. The folder totals a
 | `brouillet-salpetriere-1887.jpg` | André Brouillet, *Une leçon clinique à la Salpêtrière*, 1887. 1800×1137 | Commons ("Une leçon clinique à la Salpêtrière.jpg"); the painting hangs at Université Paris Cité | Public domain |
 | `punch-king-cholera-1852.jpg` | John Leech, "A Court for King Cholera," *Punch*, 1852. *Cholera Years* explainer. Resized to 1100 wide, then **a crop** of the center 700×822 from offset (230, 0), keeping the title line | Wellcome Collection L0003001, via Commons | **CC BY 4.0** — attribution in the caption |
 | `tuskegee-study.jpg` | A doctor drawing blood for the Tuskegee syphilis study, undated. 1800×1297 | National Archives (Atlanta), via Commons ("Tuskegee-syphilis-study doctor-injecting-subject.jpg") | Public domain (U.S. government) |
-| `matejko-copernicus-1872.jpg` | Jan Matejko, *Astronomer Copernicus, or Conversations with God*, 1872 (Commons' date). Heroic-science series, first image. 1800×1294, q78 | Commons ("Jan Matejko-Astronomer Copernicus-Conversation with God.jpg") | Public domain |
-| `west-franklin-electricity-1816.jpg` | Benjamin West, *Benjamin Franklin Drawing Electricity from the Sky*, c. 1816, Philadelphia Museum of Art. Heroic-science series. 1119×1500, q78 | Google Art Project, via Commons | Public domain |
-| `banti-galileo-inquisition-1857.jpg` | Cristiano Banti, *Galileo Facing the Roman Inquisition*, 1857. Heroic-science series. 1600×1224, q70 | Commons ("Galileo facing the Roman Inquisition.jpg") | Public domain |
-| `gilbert-men-of-science.jpg` | Sir John Gilbert, *Men of Science Living in 1807–8*, National Portrait Gallery, London (a sepia version; Commons gives no date). Heroic-science series. 1800×1020, q82 | National Portrait Gallery batch, via Commons ("Men of Science Living in 1807-8 by Sir John Gilbert.jpg") | Public domain per Commons |
-| `salk-institute-highsmith.jpg` | The Salk Institute from its interior courtyard, La Jolla, photograph by Carol M. Highsmith, 2011. Latour and Woolgar explainer. 1000×788 from 3840×3026 (q78) | Library of Congress highsm.13139, via Commons ("Salk Institute Highsmith.jpg") | Public domain |
-| `albinus-tabula-iv-1747.jpg` | Bernhard Siegfried Albinus, *Tabulae sceleti et musculorum corporis humani* (1747), muscle plate IV (Folio 028r, "plate 13" in the file name). Daston and Galison explainer. **A crop** to the engraved area, 1717×2483 from offset (393, 455) of the 2518×3500 file, then resized to 659×950 (q80) | KU Leuven Libraries, Maurits Sabbe Library, via Commons | CC0 |
-| `jantar-mantar-jaipur.jpg` | An instrument at Jantar Mantar, Jaipur, photograph by Gerd Eichmann, 20 November 2018. Raj explainer. 1000×667 from 3840×2560 (q78) | Commons ("Jaipur-Jantar Mantar-05-2018-gje.jpg") | **CC BY 4.0** — attribution in the figcaption |
-| `bacon-great-instauration-1620.jpg` | Title page of Francis Bacon, *Instauratio magna* (London, 1620), engraved by Simon Pass; motto *Multi pertransibunt & augebitur scientia*. Butterfield explainer. 660×1000 as on Commons | Commons ("Bacon Great Instauration frontispiece.jpg"; the file page gives no source) | Public domain |
 
 Re-fetch with
 `curl -L -A '<client name>' 'https://commons.wikimedia.org/wiki/Special:FilePath/<FILE>?width=<W>'`,

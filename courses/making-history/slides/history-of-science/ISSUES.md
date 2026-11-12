@@ -1,4 +1,13 @@
-# Open issues — Science and Medicine (13.1)
+# Open issues — The History of Science (13.1)
+
+**Split 2026-11-11,** at the author's request ("can we split the science and
+medicine slides into two decks since we did the science ones on tuesday?").
+This folder was `science-and-medicine`. The science slides stay here (renamed
+`history-of-science`); the medicine slides, the two-field comparison and the
+take home moved to `../history-of-medicine/`. The two "Section" divider slides
+were dropped, each deck got its own title slide, and this deck now ends on a
+one-line pointer to 14.1. Everything below was written for the combined deck
+and is the record for both; slide counts in it predate the split.
 
 Contributor notes, excluded from the build. Deliberate deviations are recorded
 here so a later review does not raise them again.
@@ -857,3 +866,41 @@ portrait, 1.41×); slide-words over target but within hard stops on eight items
 Skinner; one takehome; the first notes bullet); quotation check 96 strings,
 all misses known (titles, translations, outside sources, OCR errors, page
 breaks).
+
+## Larger explainer images, 2026-11-12
+
+At the author's request ("can we find a way to make the images larger even when
+part of a slide? … the text could be compressed to fit around larger
+versions"), every explainer here uses `.with-figure.wide.compact.large`: the
+picture is capped at 540×420 instead of 470×290, the credit sits at the foot of
+the text column, and the headline, quotation and `.detail` lines are a step
+smaller. The modifier is new in the theme CSS and documented in
+`courses/SLIDE-STYLE.md` ("Explainer"). Images cropped toward portrait for the
+old, smaller slot (see `images/README.md`) were not re-cropped; a wider crop
+would now fit.
+
+## Authors back in the details, 2026-11-12
+
+The author clarified the "no names" rule from the tenth revision of the
+combined deck: "i know i said no names, but i meant in the headlines. for these
+details, i think a author and book is useful just to give a specific example."
+`.detail` lines, card text and captions now name the author and book;
+headlines and eyebrows still do not. This supersedes the "Names" notes above
+for everything except headlines. Names, titles and dates added from outside
+the readings should be checked (see below in each deck's slide text): in
+science, Butterfield (1931), Koyré (1939), Hessen (1931), Merton (1938), Dobbs
+(1975), Latour and Woolgar, Eisenstein (1979), Daston and Galison, Raj,
+Theodore Porter (1995), Pamela Smith (2004); in medicine, Sigerist's
+*Civilization and Disease* (1943), Foucault, Crosby, William McNeill, McKeown,
+Roy Porter, Ulrich, Arnold, de Kruif (1926), Jones, Showalter; in environmental
+history, Worster, Crosby, Diamond, J. R. McNeill, Merchant, Pyne, Tarr.
+
+## One paragraph after the quotation, 2026-11-12
+
+The author: "these slides can get visually too confusing. let's have a rule
+that the explainer paragraphs after a quote are just a single block of text."
+Every explainer's `.detail` lines were merged into one paragraph (the rule is
+now in `courses/SLIDE-STYLE.md`, "Explainer"). Glosses such as "Deviance:" are
+written as ordinary sentences. Cut to keep the merged paragraphs short: the
+first subtitle of *Laboratory Life*, and Tycho's unprinted star catalogue
+(Johns, p. 18).

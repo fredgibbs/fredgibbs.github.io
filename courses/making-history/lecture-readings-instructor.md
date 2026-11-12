@@ -78,7 +78,7 @@ The linguistic dimension of colonial erasure — being made to remember in the c
 
 **Chakrabarty**, *Provincializing Europe* (2000), Introduction
 
-The structural claim that modern historical thinking is itself European-shaped. Note this is Chakrabarty's *first* appearance; he returns at 13.2 with the climate essay. Worth naming the continuity when you get there.
+The structural claim that modern historical thinking is itself European-shaped. Note this is Chakrabarty's *first* appearance; he returns at 14.2 with the climate essay. Worth naming the continuity when you get there.
 
 - 📙 Ngũgĩ wa Thiong'o, *Decolonising the Mind* (1986), Preface + Ch. 1. Ngũgĩ argues that colonialism's deepest damage was linguistic — forcing colonized peoples to think and remember in European languages was itself a form of historical erasure. Closely related to Said; key argument covered in lecture.
 - 📙 Dipesh Chakrabarty, *Provincializing Europe* (2000), Introduction. Chakrabarty argues that all modern historical thinking has been shaped by European frameworks — the foundational postcolonial historiography argument, covered in lecture.
@@ -118,7 +118,7 @@ Objectivity as a concept with its own history — a direct callback to Ranke in 
 
 Medical knowledge and social power. Lecture colour more than argument; the first to cut if time is short.
 
-### 13.2: Environmental History
+### 14.2: Environmental History
 
 **Chakrabarty**, "The Climate of History: Four Theses," *Critical Inquiry* 35, no. 2 (2009)
 
@@ -128,7 +128,7 @@ Humans as geological force, breaking the frameworks the course has spent a semes
 
 ## Sessions with no advanced reading
 
-Not a defect, but worth seeing: 1.1, 1.2, 2.1, 2.2, 3.2, 5.1, 5.2, 6.1, 7.2, 9.1, 10.1, 10.2, 11.2, 12.1, 12.2, 15.1, 15.2.
+Not a defect, but worth seeing: 1.1, 1.2, 2.1, 2.2, 3.2, 5.1, 5.2, 6.1, 7.2, 9.1, 10.1, 10.2, 11.2, 12.1, 12.2, 13.2, 14.1, 16.1, 16.2.
 
 Two are worth a second look — **5.1 (Marx)** and **5.2 (Annales/Braudel)** carry a lot of conceptual weight and anchor the "Marxist / economic structuralist" and "environmental / structural" options in the Historians Café menu, but have no lecture-reference reading behind them. If students produce thin Marxist characters in that assignment, this is the likely reason.
 
