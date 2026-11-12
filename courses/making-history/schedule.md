@@ -551,6 +551,10 @@ Your [Campus History web page](campus-history-human) is due at the start of Week
 - Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167--91.
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/). This quick read serves two purposes: it's a nice overview of what food was likely available at the harvest celebration of 1621. And it's a good example of uncritical food history that focuses entirely on food without much of the historical context (neither in the 1600s or 1900s).
 
+{% include alert.html class='danger' title='Reading refraction due TONIGHT' text="
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas (but everyone gets an extention through Wednesdday as usual). How should the history of Thanksgiving inform its future? "%}
+
+
 
 ### 15.2: Thanksgiving! No Class. Nothing Due.
 
@@ -566,20 +570,27 @@ So, what have we done exactly? This class has been a story about history. What o
 - What does it mean to "make history"?
 - Has your understanding of history changed? How?
 - Where will you see history at work in your life after this course?
-
-{% include alert.html class='warning' title='Final Reflection — last class, so plan now' text="
-This is our last meeting. The [Final Course Reflection](final-course-reflection) is due by the end of finals week. Today's discussion is deliberately good preparation: the questions we just worked through are close to the ones the reflection asks.
-"%}
+- How can you succeed in your final reflection?
 
 
 ### 16.2: NO CLASS
-{% include alert.html class='danger' title='Campus History page due next week' text="
-**Your pull request must be submitted before the end of finals week** — see [Submitting Your Essay](https://amaranth.unm.edu/campus-history/submitting-your-essay/) for the checklist and the mechanics. See the [archive guide](campus-history-human) and [AI research guide](campus-history-ai).
+
+- No official meeting today, but feel free to come by Amaranth (2068 MVH) during class time (in addition to its regular studio hours) if you need any help with anything course related. I'll be there during class time, like extended student hours.
+
+
+{% include alert.html class='warning' title='Make progress with Campus History!' text="
+- This essay takes extra time because of the archive component.
+- Remind yourself of the [Archive Guide](campus-history-human) for research instructions, and the [Student Guide](https://amaranth.unm.edu/student-guide) for technical instructions.
 "%}
+
 
 
 ## Finals Week: FINISH UP!
 
+{% include alert.html class='danger' title='Campus History essay due' text="
+**Your pull request must be submitted before the end of finals week** — see [Submitting Your Essay](https://amaranth.unm.edu/campus-history/submitting-your-essay/) for the checklist and the mechanics. See the [archive guide](campus-history-human) and [AI research guide](campus-history-ai).
+"%}
+
 {% include alert.html class='danger' title='Final Course Reflection due' text="
-Submit your [final course reflection](final-course-reflection) to Canvas. This is a reflection on what you learned, what you wish you had, how the course has or hasn't changed your thinking, and your own experience in it. Graded on honest engagement, specific examples, and a personal voice that couldn't have come from AI.
+Submit your [final course reflection](final-course-reflection) to Canvas. This is a reflection on what you learned, what you wish you had, how the course has or hasn't changed your thinking, and your own experience in it. See the assignment guide for details.
 "%}
