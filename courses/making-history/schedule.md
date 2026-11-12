@@ -548,7 +548,6 @@ Your [Campus History web page](campus-history-human) is due at the start of Week
 
 ### 15.1: Food History
 - Warren Belasco, "Why study food?", from _Food: The Key Concepts_, 1--13.
-- Philip Deloria, “[The Invention of Thanksgiving](https://www.newyorker.com/magazine/2019/11/25/the-invention-of-thanksgiving)”, _New Yorker_, 95.37 (November 25, 2019): 70--74. [Also in Zotero if the link doesn't work.]
 - Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167--91.
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/). This quick read serves two purposes: it's a nice overview of what food was likely available at the harvest celebration of 1621. And it's a good example of uncritical food history that focuses entirely on food without much of the historical context (neither in the 1600s or 1900s).
 
