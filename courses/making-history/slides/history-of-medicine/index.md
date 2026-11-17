@@ -102,18 +102,18 @@ Henry Sigerist, a doctor turned historian, wrote <i>Civilization and Disease</i>
 
 <!-- ========== FOUCAULT ========== -->
 <section markdown="1">
-1961 · madness
-{: .eyebrow}
-
-## The freeing of the mad came to be seen as a new kind of control
-{: .main-point}
-
-<div class="with-figure wide compact large" markdown="1">
+<div class="with-figure wide compact large side" markdown="1">
 <figure>
 <img src="images/robert-fleury-pinel-1876.jpg" alt="An oil painting of an asylum courtyard: a doctor in a dark coat and hat stands among women patients, one of them barefoot in a white dress, as an attendant removes her chains, while other women crouch against the wall">
 <figcaption>The hero version: Pinel unchaining patients, Paris, 1795, painted 1876 · public domain</figcaption>
 </figure>
 <div class="body" markdown="1">
+
+1961 · madness
+{: .eyebrow}
+
+## The freeing of the mad came to be seen as a new kind of control
+{: .main-point}
 
 Critics came to see diagnoses "as tools of social control, as labels for deviance" <span class="cite">Rosenberg, "Framing Disease," p. xvi</span>
 {: .quote.compact}
@@ -134,18 +134,18 @@ Michel Foucault's <i>Madness and Civilization</i> (1961) argued that the asylum 
 
 <!-- ========== THE CHOLERA YEARS ========== -->
 <section markdown="1">
-Rosenberg · 1962 · cholera
-{: .eyebrow}
-
-## Reactions to disease could show what a society believed
-{: .main-point}
-
-<div class="with-figure wide compact large" markdown="1">
+<div class="with-figure wide compact large side" markdown="1">
 <figure>
 <img src="images/punch-king-cholera-1852.jpg" alt="A wood engraving of a squalid London courtyard: ragged children play in garbage and a dead cat, women draw water beside an open drain, and crowds lean from the windows of crumbling houses">
 <figcaption><i>Punch</i> blames a London slum, 'A Court for King Cholera,' 1852 · Wellcome · CC BY 4.0</figcaption>
 </figure>
 <div class="body" markdown="1">
+
+Rosenberg · 1962 · cholera
+{: .eyebrow}
+
+## Reactions to disease could show what a society believed
+{: .main-point}
 
 Once cholera was known to spread "through the water supply, policy choices were reframed not only in practical engineering terms but in political and moral ones." <span class="cite">Rosenberg, "Framing Disease," p. xx</span>
 {: .quote.compact}
@@ -158,18 +158,18 @@ Rosenberg's own <i>The Cholera Years</i> (1962) followed the epidemics of 1832, 
 
 <!-- ========== CROSBY AND MCNEILL ========== -->
 <section markdown="1">
-1970s · ecology
-{: .eyebrow}
-
-## Historians began to treat disease as part of the environment
-{: .main-point}
-
-<div class="with-figure wide compact large" markdown="1">
+<div class="with-figure wide compact large side" markdown="1">
 <figure>
 <img src="images/florentine-codex-smallpox.jpg" alt="A pen drawing in panels: a healer kneels beside a person covered in spots lying on a mat, and in the other panels more spotted figures lie wrapped in blankets">
 <figcaption>A Nahua healer tends smallpox sufferers, 1520, in the Florentine Codex, 1577 · public domain</figcaption>
 </figure>
 <div class="body" markdown="1">
+
+1970s · ecology
+{: .eyebrow}
+
+## Historians began to treat disease as part of the environment
+{: .main-point}
 
 Historians took up "an ecological vision of history in which disease plays a key role, for example, in the Spanish conquest of Central and South America." <span class="cite">Rosenberg, "Framing Disease," p. xv</span>
 {: .quote.compact}
@@ -182,18 +182,18 @@ Alfred Crosby's <i>The Columbian Exchange</i> (1972) traced the plants, animals 
 
 <!-- ========== MCKEOWN ========== -->
 <section markdown="1">
-1976 · did medicine work?
-{: .eyebrow}
-
-## Historians asked whether doctors deserved credit for longer lives
-{: .main-point}
-
-<div class="with-figure wide compact large" markdown="1">
+<div class="with-figure wide compact large side" markdown="1">
 <figure>
 <img src="images/fildes-the-doctor-1891.jpg" alt="An oil painting of a dim cottage room: a bearded doctor sits leaning forward, chin in hand, watching a sick child asleep across two chairs, while the parents wait in the shadows behind">
 <figcaption>Luke Fildes, <i>The Doctor</i>, 1891: the physician can only watch · public domain</figcaption>
 </figure>
 <div class="body" markdown="1">
+
+1976 · did medicine work?
+{: .eyebrow}
+
+## Historians asked whether doctors deserved credit for longer lives
+{: .main-point}
 
 "How much credit should go to specific medical interventions … and how much to changed economic and social circumstances?" <span class="cite">Rosenberg, "Framing Disease," p. xv</span>
 {: .quote.compact}
@@ -276,18 +276,18 @@ André Brouillet, <i>Une leçon clinique à la Salpêtrière</i> ("A Clinical Le
 
 <!-- ========== PORTER ========== -->
 <section markdown="1">
-1985 · patients
-{: .eyebrow}
-
-## Historians called for medical history from the patient's side
-{: .main-point}
-
-<div class="with-figure wide compact large" markdown="1">
+<div class="with-figure wide compact large side" markdown="1">
 <figure>
 <img src="images/gillray-cow-pock-1802.jpg" alt="A hand-colored caricature of a crowded room: a doctor vaccinates a frightened woman from a bucket while patients around her sprout small cows from their arms, noses and mouths">
 <figcaption>James Gillray, <i>The Cow-Pock</i>, 1802: vaccination as some patients feared it · public domain</figcaption>
 </figure>
 <div class="body" markdown="1">
+
+1985 · patients
+{: .eyebrow}
+
+## Historians called for medical history from the patient's side
+{: .main-point}
 
 Rosenberg names, as one trend, "the emphasis among professional historians on social history and the experience of ordinary men and women." <span class="cite">Rosenberg, "Framing Disease," p. xv</span>
 {: .quote.compact}
@@ -300,18 +300,18 @@ Roy Porter's essay "The Patient's View" (1985) asked for medical history from be
 
 <!-- ========== ULRICH: A MIDWIFE'S TALE ========== -->
 <section markdown="1">
-1990 · childbirth
-{: .eyebrow}
-
-## A midwife's diary let a historian rebuild her medical practice
-{: .main-point}
-
-<div class="with-figure wide compact large" markdown="1">
+<div class="with-figure wide compact large side" markdown="1">
 <figure>
 <img src="images/cruikshank-man-midwife-1793.jpg" alt="A hand-colored etching of a figure split down the middle: the left half a man in a blue coat beside shelves of forceps and drugs, the right half a woman in a striped dress and apron beside a fireplace">
 <figcaption>Cruikshank's <i>Man-Mid-Wife</i>, 1793, mocks men taking over childbirth · Wellcome · CC BY 4.0</figcaption>
 </figure>
 <div class="body" markdown="1">
+
+1990 · childbirth
+{: .eyebrow}
+
+## A midwife's diary let a historian rebuild her medical practice
+{: .main-point}
 
 "Pregnancy and childbirth, for example, like epidemic disease have in recent years become an accepted part of the standard historical canon." <span class="cite">Rosenberg, "Framing Disease," p. xv</span>
 {: .quote.compact}
@@ -447,18 +447,18 @@ Rosenberg · 1992 · frame
 
 <!-- ========== ARNOLD ========== -->
 <section markdown="1">
-1993 · empire
-{: .eyebrow}
-
-## Historians showed colonial medicine entering Indian homes
-{: .main-point}
-
-<div class="with-figure wide compact large" markdown="1">
+<div class="with-figure wide compact large side" markdown="1">
 <figure>
 <img src="images/bombay-plague-camp-1897.jpg" alt="A sepia photograph of an Indian family of men, women and children seated on mats and chairs in front of a row of temporary huts made of cloth and matting, with trees behind">
 <figcaption>A well-off Bombay family forced into a plague camp, 1896–97 · Wellcome · CC BY 4.0</figcaption>
 </figure>
 <div class="body" markdown="1">
+
+1993 · empire
+{: .eyebrow}
+
+## Historians showed colonial medicine entering Indian homes
+{: .main-point}
 
 Rosenberg noted "a recent growth of interest in 'imperial' medicine" <span class="cite">Rosenberg, "Framing Disease," p. xxv n. 9</span>
 {: .quote.compact}

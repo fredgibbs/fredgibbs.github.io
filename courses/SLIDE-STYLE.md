@@ -176,10 +176,16 @@ from a source open in front of you, with a real page or section. Without the
 text, paraphrase and cite the chapter. Record that compromise in `ISSUES.md`
 and tell the author, never on the slide.
 
-**Every `.cite` names the work.** A bare page number fails. State the edition
-once, in the title slide's `.citation-note`. When the PDF is an excerpt from a
-larger volume, say which piece each page belongs to. For a quote of a quote,
-cite both ends.
+**Every `.cite` names the work.** A bare page number fails. When the PDF is an
+excerpt from a larger volume, say which piece each page belongs to. For a
+quote of a quote, cite both ends.
+
+**Cite the course's copy and don't explain it.** Page numbers are those of
+the reading as assigned, so a deck never says which pagination or edition it
+follows: no `.citation-note`, no "cited by the journal's page numbers." A
+source from outside the course materials carries its edition in its own
+`.cite`: "Muir, *The Yosemite* (1912), p. 262." Older decks that still have a
+`.citation-note` lose it when next edited.
 
 **Keep the framing clause when you quote a quote, and attribute
 superlatives.** The secondary author's framing is usually why the quote is
@@ -211,7 +217,7 @@ says what kind of line it is.
 | Source | the past's, or a historian's | `.quote`; `.pull-quote` for a supporting one | Fraunces italic behind a rule: gold, or teal for the supporting one |
 | Question | the room's | `.question`, `ul.questions`, `.ask`, `.provocation` | Inter semibold, upright, white |
 | Commentary | the deck explaining | `.reveal-block` text, `.detail`, card text, throughline answers | Inter, muted |
-| Apparatus | the record | `.cite`, `p.cite`, `.citation-note` | mono, small, muted |
+| Apparatus | the record | `.cite`, `p.cite` | mono, small, muted |
 
 Captions are their own case: Fraunces italic, muted, beside or under a picture.
 A question must never look like a quotation. Green is for titles only.
@@ -232,7 +238,7 @@ different class, not an inline style. A new class gets a level first.
 | A source note with no quotation to hang on | `p.cite` |
 | The takeaway | `.takehome` |
 | The discussion question | `.question` |
-| The readings, and how they are cited | `ul.source-list`, `.citation-note` |
+| The readings | `ul.source-list` |
 | One sentence of the deck's own argument under a headline | `.detail` |
 
 Text inside a styled container (`.card`, `.answer`, `.track`, `figcaption`)
@@ -250,8 +256,7 @@ container, and no `.detail` contains a quotation.
    `annales-longue-duree`.
 2. **Title:** the course and week eyebrow, the deck's title, a rule, a
    `ul.source-list` with the `Background:` reading first and the primary
-   sources under it, and a `.citation-note` for editions and citation
-   conventions.
+   sources under it.
 3. **Today in context:** a `.throughline` with the course's running question
    ("What makes history happen?") and `.answer.past`, `.now` and `.next`
    nodes. Write the question once and change only the nodes.
@@ -276,8 +281,8 @@ about a book nobody has met.
 A deck covering two sessions adds a `Part one · 3.1` / `Part three · 3.2`
 transition and an arc spanning both.
 
-**A review deck** drops the throughline, the title slide's `.detail` and the
-`.citation-note`. It opens each stretch with that week's key image,
+**A review deck** drops the throughline and the title slide's `.detail`. It
+opens each stretch with that week's key image,
 full-bleed, rather than a portrait, and keeps a discussion slide per stretch,
 the arc, the take home and what comes next. Ask new questions that test old
 claims against later weeks; never re-ask a week's question. On a review slide
@@ -332,7 +337,7 @@ words you can elaborate aloud. Two lines and a credit, and the credit always
 stays. Translate a foreign-language title the first time it is shown,
 preferring the literal rendering.
 
-**One image per slide,** with three exceptions:
+**One image per slide,** with four exceptions:
 
 - A `figure.pair`, only after each image has had its own slide, for one small
   comparative point.
@@ -344,6 +349,12 @@ preferring the literal rendering.
   `purpose-and-progress`. Keep a text deck for the same session as the record.
   Type curly quotes and apostrophes (“ ” ’) in its `p.provocation`: it is raw
   HTML, which kramdown does not touch, so a straight `"` shows on the slide.
+
+- A before-and-after in an explainer: the two pictures stacked in a `.swap`
+  inside the `<figure>`, the first `fragment fade-out` and the second
+  `fragment`, both at the same `data-fragment-index`, with the credits
+  swapped the same way inside the `<figcaption>`. Crop both to the same
+  proportions. Model: the Hetch Hetchy slide in `environmental-history`.
 
 **Image notes: `.image-notes`, a small image left and bullets right,** one
 image per slide. Each bullet runs look, meaning, question: a bold lead naming
@@ -364,18 +375,23 @@ over the checker's 644px line, so confirm by screenshot that nothing clips and
 keep the text column no taller than the image.
 
 **Larger picture: add `.compact.large`** (`<div class="with-figure wide compact large">`).
-The picture takes up to 540×420 instead of 470×290, about twice the area. Its
-`<figcaption>` credit moves to the foot of the text column, and the headline,
-quotation and `.detail` lines are set a step smaller to make the room. Use it
-when the image is worth reading closely; keep the headline to two lines (a
-third shrinks the picture's room), the quotation under about 35 words, and the
-one `.detail` paragraph under about 40. A landscape picture leaves a text column about 320px
-wide, so check by screenshot. The quotation and the `.detail` paragraph are set
-large with a wide gap between them, to fill the column's height. Where that
-overflows (a wide picture beside a long quotation), add `.dense` to the div to
-get the smaller sizes; a slide with a question block under the text gets them
-automatically. Models: `history-of-medicine`,
-`environmental-history`.
+The picture takes up to 580×420 instead of 470×290, over twice the area. Its
+`<figcaption>` credit sits directly under it in small sans, and the headline,
+quotation and `.detail` lines are set small, for a seminar room rather than a
+lecture hall. Use it when the image is worth reading closely; keep the
+headline to two lines, the quotation under about 35 words, and the one
+`.detail` paragraph under about 40. A landscape picture leaves a text column
+about 300px wide, so check by screenshot. Where that overflows (a wide picture
+beside a long quotation), add `.dense` to the div to get the smaller sizes; a
+slide with a question block under the text gets them automatically.
+
+**Portrait or square picture: add `.side` as well**
+(`<div class="with-figure wide compact large side">`), and move the eyebrow and
+headline to the top of `.body`. The text column goes left and the picture
+right at the slide's full height, up to 500×545. Use it for any picture less
+than about 1.1 times as wide as it is tall; a landscape picture beside a text
+column would come out smaller than it does under a headline, so it stays in
+plain `.large`. Models: `history-of-medicine`, `environmental-history`.
 
 ## Front matter
 

@@ -101,8 +101,8 @@
  *                    text column is top-aligned, so the quotation sits right
  *                    under the headline with a gap before the explanation
  *         .with-figure.wide.compact.large — the picture leads: capped at
- *                    540x420 instead of 470x290; its credit moves to the foot
- *                    of the text column, and the headline, quotation and
+ *                    580x420 instead of 470x290; its credit sits directly
+ *                    under it in small sans, and the headline, quotation and
  *                    .detail lines are set smaller to make the room. For an
  *                    explainer whose image is worth reading closely. Keep the
  *                    quotation under about 35 words and a single .detail paragraph
@@ -424,6 +424,15 @@ html, body, .reveal {
 .reveal .swap > * {
 	grid-column: 1;
 	grid-row: 1;
+}
+
+/* A .swap inside a <figure> (one picture replacing another on click, its
+   credit swapping with it). The figure shrinks to its content, and a
+   minmax(0, 1fr) track has no content size, so the figure would collapse to
+   zero width; size the track to the pictures instead. Crop the two pictures
+   to the same proportions so they stack exactly. */
+.reveal figure .swap {
+	grid-template-columns: auto;
 }
 
 /* The pithy takehome line. Green marks it only in the border: green text is
@@ -776,69 +785,62 @@ html, body, .reveal {
 	margin-top: 1.5em;
 }
 
-/* .large: the picture leads. The image takes up to 540x420, about twice the
-   area of the compact explainer's. Two things make the room. The <figure>
-   is dissolved (display: contents), so the picture fills the left column and
-   its credit drops to the foot of the text column instead of sitting under
-   the picture. And the text is set smaller: the headline drops a size, the
-   quotation and .detail lines one step each. The quotation stays larger than
-   the commentary, so the levels still read. */
+/* .large: the picture leads. The image takes up to 580x420, over twice the
+   area of the compact explainer's. The credit sits directly under the
+   picture, set small in sans so it reads as apparatus rather than as a
+   caption to be read aloud, and wraps to the picture's width. The text is
+   set small, sized for a seminar room rather than a lecture hall: the
+   headline drops to a size that usually fits one line, the quotation and
+   .detail lines two steps each. The quotation stays larger than the
+   commentary, so the levels still read. */
 .reveal .with-figure.wide.compact.large {
 	grid-template-columns: auto 1fr;
-	grid-template-rows: auto 1fr;
 	gap: 0 1.1em;
 }
 
-.reveal .with-figure.wide.compact.large figure {
-	display: contents;
-}
-
 .reveal .with-figure.wide.compact.large img {
-	grid-column: 1;
-	grid-row: 1 / span 2;
-	max-width: 540px;
+	max-width: 580px;
 	max-height: 420px;
 }
 
-.reveal .with-figure.wide.compact.large .body {
-	grid-column: 2;
-	grid-row: 1;
+.reveal .with-figure.wide.compact.large figcaption {
+	font-family: 'Inter', system-ui, sans-serif;
+	font-style: normal;
+	font-size: 0.3em;
+	line-height: 1.35;
+	margin-top: 0.5em;
 }
 
-.reveal .with-figure.wide.compact.large figcaption {
-	grid-column: 2;
-	grid-row: 2;
-	align-self: end;
-	margin-top: 0.9em;
-	font-size: 0.36em;
+.reveal .with-figure.wide.compact.large figcaption i {
+	font-style: italic;
 }
 
 .reveal .with-figure.wide.compact.large .body .quote.compact {
-	font-size: 0.63em;
+	font-size: 0.52em;
 	line-height: 1.3;
 }
 
 .reveal .with-figure.wide.compact.large .body .detail {
-	font-size: 0.5em;
+	font-size: 0.42em;
 	line-height: 1.42;
 }
 
 .reveal .with-figure.wide.compact.large .body .quote + .detail {
-	margin-top: 1.9em;
+	margin-top: 1.6em;
 }
 
 /* With a question block under the text, or on a slide marked .dense (a wide
    picture beside a long quotation), there is no spare height, so the quotation
-   and commentary keep the smaller sizes and the tighter gap. */
+   and commentary go a step smaller and the gap tightens. */
 .reveal .with-figure.wide.compact.large .body:has(.reveal-block) .quote.compact,
 .reveal .with-figure.wide.compact.large.dense .body .quote.compact {
-	font-size: 0.55em;
+	font-size: 0.48em;
 	line-height: 1.26;
 }
 
 .reveal .with-figure.wide.compact.large .body:has(.reveal-block) .detail,
 .reveal .with-figure.wide.compact.large.dense .body .detail {
-	font-size: 0.44em;
+	font-size: 0.4em;
 	line-height: 1.38;
 }
 
@@ -847,9 +849,53 @@ html, body, .reveal {
 	margin-top: 1.1em;
 }
 
+/* A fragment under the text is set at the .detail size, not above it, and
+   its label a step down, so it reads as commentary in the narrow column. */
+.reveal .with-figure.wide.compact.large .body .reveal-block p {
+	font-size: 0.4em;
+	line-height: 1.38;
+}
+
+.reveal .with-figure.wide.compact.large .body .reveal-block .label {
+	font-size: 0.36em;
+}
+
+.reveal section:has(> .with-figure.wide.compact.large) .eyebrow {
+	font-size: 0.42em;
+}
+
 .reveal section:has(> .with-figure.wide.compact.large) .main-point {
-	font-size: 0.98em;
-	margin-bottom: 0.3em;
+	font-size: 0.78em;
+	margin-bottom: 0.45em;
+}
+
+/* .side: for a portrait or square picture. The eyebrow and headline move
+   into the text column (write them at the top of .body), the text column
+   goes left and the picture right, and the picture takes the slide's full
+   height, up to 500x545. A landscape picture stays in plain .large: beside
+   a text column it would come out narrower than it does under a headline. */
+.reveal .with-figure.wide.compact.large.side {
+	grid-template-columns: 1fr auto;
+	gap: 0 1.5em;
+	margin-top: 0;
+}
+
+.reveal .with-figure.wide.compact.large.side figure {
+	order: 2;
+}
+
+.reveal .with-figure.wide.compact.large.side img {
+	max-width: 500px;
+	max-height: 545px;
+}
+
+.reveal .with-figure.wide.compact.large.side .body .eyebrow {
+	font-size: 0.42em;
+}
+
+.reveal .with-figure.wide.compact.large.side .body .main-point {
+	font-size: 0.78em;
+	margin-bottom: 0.9em;
 }
 
 /* The credit under the picture: wrap the image in a <figure> with a

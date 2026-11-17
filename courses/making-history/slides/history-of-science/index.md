@@ -105,18 +105,18 @@ Sir John Gilbert, <i>Men of Science Living in 1807–8</i>
 
 <!-- ========== BUTTERFIELD ========== -->
 <section markdown="1">
-1931–49 · the old story
-{: .eyebrow}
-
-## Science was told as the making of the modern world
-{: .main-point}
-
-<div class="with-figure wide compact large" markdown="1">
+<div class="with-figure wide compact large side" markdown="1">
 <figure>
 <img src="images/bacon-great-instauration-1620.jpg" alt="An engraved title page: a sailing ship heads out to open sea between two tall columns under a cloudy sky, with Latin lettering above and a printer's cartouche below">
 <figcaption>Bacon's <i>Great Instauration</i>, 1620 · public domain</figcaption>
 </figure>
 <div class="body" markdown="1">
+
+1931–49 · the old story
+{: .eyebrow}
+
+## Science was told as the making of the modern world
+{: .main-point}
 
 The Scientific Revolution "outshines everything since the rise of Christianity and reduces the Renaissance and Reformation to the rank of mere episodes" <span class="cite">Herbert Butterfield, <i>The Origins of Modern Science</i> (1949), quoted in Shapin, p. 1</span>
 {: .quote.compact}
@@ -195,18 +195,18 @@ Kuhn called a shared model of "problems and solutions" a paradigm. When misfit r
 
 <!-- ========== NEWTON'S ALCHEMY ========== -->
 <section markdown="1">
-1970s · science and the occult
-{: .eyebrow}
-
-## Newton's gravitation was rooted in alchemy
-{: .main-point}
-
-<div class="with-figure wide compact large" markdown="1">
+<div class="with-figure wide compact large side" markdown="1">
 <figure>
 <img src="images/kneller-newton-1689.jpg" alt="An oil portrait of a man in his forties with long gray hair, in a dark brown gown, his hand resting on a ledge, looking directly out">
 <figcaption>Kneller, 1689 · public domain</figcaption>
 </figure>
 <div class="body" markdown="1">
+
+1970s · science and the occult
+{: .eyebrow}
+
+## Newton's gravitation was rooted in alchemy
+{: .main-point}
 
 His work toward gravitation was "rooted in the great scientist's avid and extensive research into the 'dark arts' of alchemy." <span class="cite">Maza, <i>Thinking About History</i>, p. 99</span>
 {: .quote.compact}
@@ -243,18 +243,18 @@ Bruno Latour and Steve Woolgar's <i>Laboratory Life</i> (1979) studied a Salk In
 
 <!-- ========== EISENSTEIN ========== -->
 <section markdown="1">
-1979 · print
-{: .eyebrow}
-
-## One argument held that print made the Scientific Revolution possible
-{: .main-point}
-
-<div class="with-figure wide compact large" markdown="1">
+<div class="with-figure wide compact large side" markdown="1">
 <figure>
 <img src="images/tycho-mural-quadrant-1598.jpg" alt="A hand-colored engraving of a great brass quadrant on a wall, with Tycho Brahe painted inside its arc pointing upward, his observatory's floors and assistants behind, and men reading the instrument and recording at a table below">
 <figcaption>Tycho Brahe at his great quadrant, 1598 · public domain</figcaption>
 </figure>
 <div class="body" markdown="1">
+
+1979 · print
+{: .eyebrow}
+
+## One argument held that print made the Scientific Revolution possible
+{: .main-point}
 
 "The 'Scientific Revolution' was thus inconceivable without a preceding printing revolution." <span class="cite">Adrian Johns, <i>The Nature of the Book</i> (1998), p. 11, summarizing the argument</span>
 {: .quote.compact}
@@ -488,18 +488,18 @@ Such stories, he warns, are "not likely to be sensitive accounts of how it was i
 
 <!-- ========== JOHNS ========== -->
 <section markdown="1">
-1998 · print and trust
-{: .eyebrow}
-
-## Printed books had to earn trust, a later historian argued
-{: .main-point}
-
-<div class="with-figure wide compact large" markdown="1">
+<div class="with-figure wide compact large side" markdown="1">
 <figure>
 <img src="images/gibson-flamsteed-1712.jpg" alt="An oil portrait of a man in a long curled wig and black clerical gown with white bands, seated in a leather chair, one hand on his chest and the other on a book">
 <figcaption>The astronomer John Flamsteed, 1712 · public domain</figcaption>
 </figure>
 <div class="body" markdown="1">
+
+1998 · print and trust
+{: .eyebrow}
+
+## Printed books had to earn trust, a later historian argued
+{: .main-point}
 
 "In such a world, questions of credit took the place of assumptions of fixity." <span class="cite">Adrian Johns, <i>The Nature of the Book</i> (1998), p. 31</span>
 {: .quote.compact}
@@ -557,18 +557,18 @@ Maria Sibylla Merian, the peacock flower, from <i>Metamorphosis insectorum Surin
 
 <!-- ========== DASTON AND GALISON: OBJECTIVITY ========== -->
 <section markdown="1">
-2007 · objectivity
-{: .eyebrow}
-
-## Scientific objectivity itself has a history
-{: .main-point}
-
-<div class="with-figure wide compact large" markdown="1">
+<div class="with-figure wide compact large side" markdown="1">
 <figure>
 <img src="images/albinus-tabula-iv-1747.jpg" alt="An engraving of a standing human skeleton with the chest wall opened and some muscles shown, arms held out, in front of a large rhinoceros, with trees and a stone wall behind">
 <figcaption>A plate from Albinus's anatomy atlas, 1747, drawn under his direction · KU Leuven · CC0</figcaption>
 </figure>
 <div class="body" markdown="1">
+
+2007 · objectivity
+{: .eyebrow}
+
+## Scientific objectivity itself has a history
+{: .main-point}
 
 "The objectivity of the experimental matter of fact … was an artifact of certain forms of discourse and certain modes of social solidarity." <span class="cite">Steven Shapin and Simon Schaffer, <i>Leviathan and the Air-Pump</i> (1985), quoted in Maza, p. 97</span>
 {: .quote.compact}

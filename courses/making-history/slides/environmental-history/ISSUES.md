@@ -207,3 +207,77 @@ now in `courses/SLIDE-STYLE.md`, "Explainer"). Glosses such as "Deviance:" are
 written as ordinary sentences. Cut to keep the merged paragraphs short: the
 first subtitle of *Laboratory Life*, and Tycho's unprinted star catalogue
 (Johns, p. 18).
+
+## Third round, 2026-11-17 (24 slides)
+
+> after the wilderness slide, can wa ahve two slides explaining conservation vs
+> preservation and how these worked togetehr to create a kind of env history
+> and list 1 or 2 particular people for those movements?
+
+> after the tewo movements slide, let's have a slide jsut of hetch hetchy to
+> show perceived oppostiion, but then another slide to show how they were
+> often much more aligned
+
+Four slides after *Wilderness*: a `.parallel` of conservation (Pinchot) and
+preservation (Muir); Hetch Hetchy (Taber photograph, Muir's "Dam Hetch
+Hetchy!"); common ground (three cards); and a Leopold explainer quoting Maza
+p. 109, with a fragment on Hays and Nash (Cronon pp. 2–3, n. 3).
+
+- **Muir is quoted from outside the readings.** *The Yosemite* (New York:
+  Century, 1912), p. 262, checked against the Internet Archive scan
+  (`yosemite00muirgoog`) and Wikisource ch. 16. Page 257 of the same chapter
+  mocks the cry of "Conservation, conservation, panutilization": a second
+  quotation if the room wants Muir's view of the other camp.
+- **The parallel and common-ground slides have no cites.** Pinchot, the 1896
+  Forest Commission, the 1897 split over sheep grazing and Roosevelt's totals
+  (about 150 national forests, 5 parks, 18 monuments, the usual NPS figures)
+  are standard facts written in the deck's own voice, not from the readings.
+  Pinchot's "greatest good" line was left out: no text at hand to check it.
+- **Maza calls Muir a conservationist** (p. 109), on the slide after the deck
+  sets him against conservation. At the time "conservation" covered both
+  camps; the split is largely the historians' (Nash's) label. The
+  common-ground slide prepares for this; worth saying aloud.
+- **Hays appears once** and only by surname, to fit the box; the label "Two
+  histories" carries the sense. His book is *Conservation and the Gospel of
+  Efficiency* (1959).
+
+**Cut, 2026-11-17:** the *Guns, Germs, and Steel* slide (Maza p. 113, with a
+discussion question) and the *Mosquito Empires* slide (Maza p. 115, Serres's
+*Capture of Havana*, whose image file was deleted), as too narrow for an
+overview deck. "Order" and "Second round" above still list them.
+
+**Reordered, 2026-11-17:** the hybrid slide (Grand Coulee) moved from the end
+of part one to directly after Cronon's students' despair, so the
+second generation's view answers the decline story the students absorbed. Its
+`.detail` now sets the two generations against each other (Maza p. 110). The
+Cronon parables slide (p. 17, floodplain question) was cut; the four-habits
+card "Parables, not predictions" (p. 16) still carries the idea, and the
+hybrid slide's question is now part two's discussion. 23 slides.
+
+**Prelude added, 2026-11-17 (26 slides):** three slides before the Gast
+backdrop slide, on views of nature before environmental history: Bacon
+(dominion as method), an oil-field image slide (nature as resources), and
+romantic nature (Durand's *Kindred Spirits*, which replaced Friedrich's *Wanderer* as too early and too European; Maza p. 109). The Gast slide now sums them up.
+
+- **Bacon is quoted from outside the readings:** *The Great Instauration*
+  (1620), "Plan of the Work," Spedding's translation, *Works* vol. 4 (1858),
+  p. 29, checked against Wikisource. Same paragraph, a second option: "the
+  nature of things betrays itself more readily under the vexations of art
+  than in its natural freedom." The "secrets" in the headline is Bacon's word
+  (*Novum Organum* I.109, "many secrets of excellent use" laid up "in the womb
+  of nature"). Lines often attributed to him about torturing nature or
+  putting her "on the rack" are disputed paraphrases; don't use one without
+  finding it in his text.
+- **Bacon was introduced in the history-of-science deck (13.1).** The
+  explainer reintroduces him in one clause. Carolyn Merchant's reading of his
+  language (on the topics slide, via Cronon p. 3) is not drawn out.
+- **The oil-field slide makes the industrial point in the deck's own voice;**
+  neither reading discusses it.
+
+**Hetch Hetchy before and after, 2026-11-17:** on click, Taber's 1908
+photograph fades to Blake Carroll's 2014 photograph of the reservoir from about
+the same spot (CC0), and the credit swaps with it. The modern photograph is in
+color; desaturating it would make the match closer but hide that it is recent.
+
+**Cut, 2026-11-17:** the Catlin image slide (*Comanche Feats of Horsemanship*,
+Cronon's horse lesson, p. 9), its image file and its README note.
