@@ -547,12 +547,13 @@ Your [Campus History web page](campus-history-human) is due at the start of Week
 ## 15: Food
 
 ### 15.1: Food History
+- Slides of [The History of Food](slides/food-history/)
 - Warren Belasco, "Why study food?", from _Food: The Key Concepts_, 1--13.
 - Janet Siskind, “The Invention of Thanksgiving: A Ritual of American Nationality", 167--91.
 - [First Thanksgiving Menu](https://www.smithsonianmag.com/history/what-was-on-the-menu-at-the-first-thanksgiving-511554/). This quick read serves two purposes: it's a nice overview of what food was likely available at the harvest celebration of 1621. And it's a good example of uncritical food history that focuses entirely on food without much of the historical context (neither in the 1600s or 1900s).
 
 {% include alert.html class='danger' title='Reading refraction due TONIGHT' text="
-This week's [reading refraction](reading-refractions) is due by midnight on Canvas (but everyone gets an extention through Wednesdday as usual). How should the history of Thanksgiving inform its future? "%}
+This week's [reading refraction](reading-refractions) is due by midnight on Canvas (but everyone gets an extention through Wednesday). How should the history of Thanksgiving inform its future? Or if you don't want to write about Thanksgiving, riff on something about the meanings of food or food history that's in the readings/slides for today. "%}
 
 
 
